@@ -4,7 +4,7 @@ identifier: "FED-ley-del-mercado-de-valores-476"
 country: "mx"
 rank: "ley"
 publication_date: "1975-01-02"
-last_updated: "1985-12-27"
+last_updated: "1986-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=476&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMV"
 
 LEY DEL MERCADO DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE DICIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1986.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 2 de enero de 1975.
 
@@ -218,7 +218,9 @@ e) Los vocales y secretarios de la Junta de Gobierno de la Comisión Nacional de
 
 f) Los accionistas que detenten el control del 10% o más de las acciones representativas del capital social de las casas de bolsa, así como los administradores, funcionarios, empleados y apoderados para celebrar operaciones con el público de estas últimas;
 
-g) Los administradores, funcionarios y empleados de las bolsas de valores.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+g) Los administradores, funcionarios y empleados de las bolsas de valores y de las instituciones para el depósito de valores.
 
 III.- Tendrán como obligaciones complementarias:
 
@@ -412,11 +414,21 @@ a) Recibir préstamos o créditos de instituciones de crédito o de organismos o
 
 b) Conceder préstamos o créditos para la adquisición de valores con garantía de éstos.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+c) Celebrar reportos sobre valores.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+La Comisión Nacional de Valores, oyendo la opinión del Banco de México, podrá ordenar a las casas de bolsa la suspensión de las operaciones que infrinjan las disposiciones a que se refiere esta fracción.
+
 V.- De conformidad con las disposiciones de carácter general que dicte la Comisión Nacional de Valores:
 
 a) Realizar operaciones por cuenta propia que faciliten la colocación de valores o que coadyuven a dar mayor estabilidad a los precios de éstos y a reducir los márgenes entre cotizaciones de compra y de venta de los propios títulos.
 
-b) Proporcionar servicio de guarda y administración de valores, depositando los títulos en el Instituto para el Depósito de Valores.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+b) Proporcionar servicio de guarda y administración de valores, depositando los títulos en una institución para el depósito de valores o, en su caso, depositándolos en la institución que señale la Comisión Nacional de Valores cuando se trate de títulos que por su naturaleza no puedan ser depositados en las instituciones primeramente señaladas.
 
 c) Realizar operaciones con cargo a su capital pagado y reservas de capital.
 
@@ -437,6 +449,18 @@ VI.- Actuar como representantes comunes de obligacionistas y tenedores de otros 
 VII.- Administrar las reservas para fondos de pensiones o jubilaciones de personal, complementarias a las que establece la Ley del Seguro Social y de primas de antigüedad, conforme a lo dispuesto por la Ley del Impuesto sobre la Renta.
 
 VIII.- Las análogas o complementarias de las anteriores, que les sean autorizadas por la Secretaría de Hacienda y Crédito Público, oyendo a la Comisión Nacional de Valores, mediante disposiciones de carácter general que podrán referirse a determinados tipos de operaciones.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 22 Bis.
+
+Los reportos sobre valores que celebren las casas de bolsa se sujetarán a las disposiciones aplicables a esa clase de operaciones, así como a las siguientes:
+
+I.- Se formalizarán de la manera que, mediante reglas de carácter general, determine el Banco de México.
+
+II.- Si el plazo del reporto vence en un día que no fuere hábil, se entenderá prorrogado al primer día hábil siguiente; y
+
+III.- Si el día en que el reporto deba liquidarse el reportado no liquida la operación ni ésta es prorrogada, se tendrá por abandonada y el reportador podrá exigir desde luego al reportado el pago de las diferencias que resulten a su cargo.
 
 > <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
@@ -540,7 +564,9 @@ I.- Los valores y documentos inscritos en la Sección de Valores del Registro Na
 
 II.- Las acciones representativas del capital de las sociedades que les presten servicios o cuyo objeto sea auxiliar o complementario de las actividades que realicen, se valuarán de acuerdo al método de participación, cuando las casas de bolsa sean propietarias del 25% o más de sus acciones ordinarias, o al costo, cuando sean propietarias de menos del 25% de dichas acciones, respectivamente.
 
-III.- La acción de la bolsa de valores se valuará de acuerdo a su valor contable, determinado en los últimos estados financieros, dictaminados de la bolsa correspondiente.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+
+III.- Las acciones de las bolsas de valores y las de las instituciones para el depósito de Valores, se valuarán de acuerdo a su valor contable, determinado en los últimos estados financieros dictaminados de la Bolsa de Valores o de la Institución para el depósito de valores, correspondiente.
 
 IV.- Los demás activos fijos se estimarán a su precio de adquisición y, en su caso, a su valor actualizado conforme avalúo realizado por valuador independiente autorizado por la citada Comisión.
 
@@ -714,9 +740,9 @@ La cancelación de la concesión, será causa de disolución de la sociedad. La 
 
 Cada bolsa formulará el arancel al que deberán ajustarse las remuneraciones que perciba por sus servicios, sometiéndolo a la Secretaría de Hacienda y Crédito Público para su aprobación, la que resolverá oyendo a la Comisión Nacional de Valores.
 
-### CAPITULO SEXTO. Del Instituto para el Depósito de Valores
+### CAPITULO SEXTO. De las Instituciones para el Depósito de Valores
 
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 40.
 
@@ -768,9 +794,9 @@ VII.- Intervenir administrativamente a las casas de bolsa o bolsas de valores, c
 
 VIII.- Ordenar la suspensión de operaciones e intervenir administrativamente a las personas o empresas que, sin la autorización correspondiente, realicen operaciones de intermediación en el mercado de valores o efectúen operaciones de oferta pública respecto de valores no inscritos en el Registro Nacional de Valores e Intermediarios.
 
-> <small>(REFORMADA, D.O.F. 12 DE MAYO DE 1978)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
-IX.- Inspeccionar y vigilar el funcionamiento del Instituto para el Depósito de Valores, así como autorizar y vigilar sistemas de compensación, de información centralizada y otros mecanismos tendientes a facilitar el trámite de operaciones o a perfeccionar el mercado;
+IX.- Inspeccionar y vigilar el funcionamiento de las instituciones para el depósito de valores, así como autorizar y vigilar sistemas de compensación, de información centralizada y otros mecanismos tendientes a facilitar las operaciones o a parfeccionar (sic) el mercado de valores.
 
 > <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
@@ -1036,7 +1062,7 @@ Cuando los titulares de acciones inscritas en bolsas de valores realicen fuera d
 
 En caso de que las operaciones a que se refiere el párrafo anterior se lleven a efecto, la Comisión Nacional de Valores lo comunicará a la bolsa en que se encuentren registradas las acciones, sin especificar los participantes en la operación.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 12 DE MAYO DE 1978)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ### CAPITULO SEPTIMO. De los Procedimientos Para Proteger los Intereses del Público Inversionista
 
@@ -1044,343 +1070,339 @@ En caso de que las operaciones a que se refiere el párrafo anterior se lleven a
 
 ###### ARTICULO 54.
 
-Se crea un organismo con personalidad jurídica y patrimonio propios, que se denomina “Instituto para el Depósito de Valores” con domicilio en el Distrito Federal.
+Se declara de interés público la prestación, a través de instituciones para el depósito de valores, del servicio destinado a satisfacer necesidades de interés general relacionadas con la guarda, administración, compensación, liquidación y transferencia de valores, en los términos de esta ley.
 
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 55.
 
-El Instituto tendrá por objeto prestar un servicio público para satisfacer necesidades de interés general relacionadas con la guarda, administración, compensación, liquidación y transferencia de valores, en los términos de esta Ley.
+La prestación del servicio de interés público a que se refiere el artículo anterior, será llevada a cabo por sociedades que gocen de concesión del Gobierno Federal, la que se otorgará o denegará discrecionalmente por la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Valores.
 
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+Sólo podrá autorizarse la constitución de una sociedad de este género por cada plaza.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 56.
 
-El patrimonio del Instituto se integrará:
+Las instituciones para el depósito de valores deberán constituirse como sociedades anónimas de capital variable, con sujeción a la Ley General de Sociedades Mercantiles y a las siguientes reglas de aplicación especial:
 
-I.- Con las aportaciones que efectúe el Gobierno Federal;
+I.- La duración de la sociedad podrá ser indefinida;
 
-II.- Con los ingresos que perciba por los servicios que preste;
+II.- El capital social sin derecho a retiro deberá estar íntegramente pagado y no podrá ser inferior al que establezca la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general;
 
-III.- Con los rendimientos que obtenga de su patrimonio; y
+III.- Sólo podrán ser socios y tienen derecho serlo, las casas de bolsa, bolsas de valores, instituciones de crédito, compañías de seguros y de fianzas;
 
-IV.- Con los demás bienes que adquiera por cualquier título.
+IV.- Cada socio sólo podrá se (sic) propietario de una acción;
 
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+V.- El número de socios de una Institución no podrá ser inferior a veinte;
+
+VI.- El número de sus administradores no será menor de once y actuarán constituidos en consejo de administración, presidido por el representante de Nacional Financiera, S. N. C. cuando sea socia. Asimismo el representante del Banco de México formará parte de dicho consejo cuando también sea socio. Por cada administrador propietario se elegirá un suplente.
+
+VII.- Los estatutos de las instituciones para el depósito de valores deberán establecer que:
+
+a) Las acciones deberán mantenerse depositadas en la propia institución;
+
+b) Las demás designaciones a que se refiere la fracción VI de este artículo, de los administradores, funcionarios y comisarios de la sociedad, sólo podrán recaer en personas que reúnan, a juicio de la Comisión Nacional de Valores, los requisitos establecidos en el artículo 17 fracción III, incisos a), b) y c) de esta ley y que no realicen actividades que la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la propia Comisión, declare incompatibles con las que son propias de la función que desempeñen las instituciones para el depósito de valores;
+
+c) La transmisión de sus acciones sólo podrá efectuarse a persona que reúna los requisitos señalados en esta ley para ser accionista. Cuando por cualquier circunstancia un accionista deje de satisfacer los requisitos que para ello establece esta ley, la acción correspondiente deberá ser reembolsada por la sociedad; si este reembolso reduce el capital sin derecho a retiro, el resto de los accionistas deberán aportar proporcionalmente la cantidad necesaria para que el capital no sea inferior al establecido en la concesión correspondiente;
+
+d) Los tenedores de las acciones que sean reembolsadas tendrán derecho a recibir el valor contable de la acción, el que se determinará con el balance anual del último ejercicio, aprobado en la asamblea general ordinaria de accionistas. Las acciones reembolsadas se considerarán en tesorería.
+
+La Comisión Nacional de Valores podrá, en todo tiempo, ordenar los aumentos de capital que sean necesarios para hacer posible la admisión de nuevos accionistas. El precio de suscripción será el valor contable de las acciones.
+
+VIII.- La disolución y liquidación de estas instituciones se regirá por lo dispuesto en los Capítulos X y XI de la Ley General de Sociedades Mercantiles o, según el caso, por el Capítulo I del Título Séptimo de la Ley de Quiebras y suspensión de Pagos, teniendo la Comisión Nacional de Valores las siguientes atribuciones:
+
+a) Las facultades que, conforme a la ley, tiene la Comisión Nacional Bancaria y de Seguros en la suspensión de pagos o quiebra de las instituciones de crédito;
+
+b) Las funciones de vigilancia, respecto de los síndicos y liquidadores, que tienen atribuidas en relación con las instituciones para el depósito de valores;
+
+c) Solicitar la suspensión de pagos y la delcaratoria (sic) de quiebra, en los términos de la Ley de Quiebras y Suspensión de Pagos;
+
+IX.- El acta constitutiva y los estatutos de las instituciones para el depósito de valores, así como sus modificaciones, serán aprobados previamente por la Secretaría de Hacienda y Crédito Público y una vez aprobada serán inscritos en el Registro Público de la Propiedad y del Comercio, sin que sea preciso mandamiento Judicial.
+
+En todo caso, deberán proporcionar a la Secretaría de Hacienda y Crédito Público y a la Comisión Nacional de Valores, copia certificada de las actas de sus asambleas y, cuando proceda, testimonio notarial en el que conste la protocolización de las mismas; y
+
+X.- La concesión, así como sus modificaciones, se publicarán en el Diario Oficial de la Federación, a costa del interesado. El acuerdo de revocación, se publicará sin costo alguno para la sociedad concesionaria correspondiente.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 57.
 
-El Instituto tendrá las siguientes atribuciones:
+Las Instituciones para el depósito de valores tendrán por objeto la prestación de:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+I.- El servicio de depósito de valores, títulos y documentos a ellos asimilables, que reciban de casas de bolsa, bolsas de valores, instituciones de crédito, de seguros, de fianzas, y de sociedades de inversión y de títulos o documentos de personas o entidades distintas a las antes citadas, cuando lo señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
 
-I.- Ser depositarios de los valores y documentos a que se refiere el artículo 3o. de esta Ley, que reciba de casas de bolsa, de instituciones de crédito, de seguros y de fianzas y de sociedades de inversión.
+II.- La administración de los valores que se les entreguen en depósito, sin que puedan ejercitar otros derechos que no sean los señalados en el artículo 75 de esta ley;
 
-El Instituto podrá recibir títulos o documentos o ser depositario de personas o entidades, distintos a los mencionados en el párrafo anterior, cuando lo establezcan otras leyes o sean señalados por la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general para cumplir el objeto establecido en el artículo 55 de esta Ley.
+III.- El servicio de transferencia, compensación y liquidación sobre operaciones que se realicen respecto de los valores materia de depósito en ellas constituido;
 
-Las atribuciones del Instituto y operaciones previstas en este capítulo para valores serán aplicables, en lo conducente, respecto a los demás títulos y documentos que conforme a esta fracción pueda recibir en depósito en propio Instituto.
+IV.- Podrán, además, las instituciones para el depósito de valores:
 
-II.- Administrar los valores que se le entreguen para su depósito, sin que pueda ejercitar otros derechos que no sean los señalados en el artículo 75;
+a) Intervenir en las operaciones mediante las cuales se constituya garantía prendaria sobre los valores que les sean depositados;
 
-III.- Prestar servicios de transferencia, compensación y liquidación sobre operaciones que se realicen respecto de los valores materia de depósito;
+b) Llevar a solicitud de las sociedades emisoras, el registro de sus acciones y realizar las inscripciones correspondientes en los términos y para los efectos a que se refieren los artículos 128 y 129 de la Ley General de Sociedades Mercantiles;
 
-IV.- Intervenir en las operaciones mediante las cuales se constituye garantía prendaria sobre los valores que le sean depositados;
+c) Expedir certificaciones de los actos que realicen en el ejercicio de las funciones a su cargo; y
 
-V.- Llevar, a solicitud de las sociedades emisoras, los libros de registro de acciones nominativas y realizar las inscripciones correspondientes en los términos y para los efectos a que se refieren los artículos 128 y 129 de la Ley General de Sociedades Mercantiles;
+d) Llevar a cabo las demás operaciones análogas y conexas que les autorice la Secretaría de Hacienda y Crédito Público y que se relacionen con su objeto.
 
-VI.- Dar fe de los actos que realice en ejercicio de las funciones a su cargo; y
+Las funciones de las instituciones para el depósito de valores y las operaciones previstas en este Capítulo para los valores, serán aplicables, en lo conducente, respecto a los demás títulos y documentos asimilables que conforme a este artículo reciban en custodia tales instituciones.
 
-VII.- Realizar las demás operaciones conexas que le autorice la Secretaría de Hacienda y Crédito Público y que se relacionen con su objeto.
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 58.
 
-El órgano de gobierno del Instituto será el Consejo Directivo compuesto de once miembros y se integrará: con el Presidente de la Comisión Nacional de Valores, quien lo presidirá, con dos representantes de la Secretaría de Hacienda y Crédito Público y con sendos representantes del Banco de México y de la Comisión Nacional de Bancaria y de Seguros; con un representante de las bolsas de valores, uno de las instituciones de crédito y otro más de las casas de bolsa, a invitación que les formule la Secretaría de Hacienda y Crédito Público, y con tres miembros más designados por la propia Secretaría, cuyos nombramientos deberán recaer en personas con experiencia en materia bursátil, financiera, industrial o comercial, que no sean servidores públicos de las dependencias o entidades citadas o de los depositantes de valores.
+Las instituciones para el depósito de valores estarán sujetas a la inspección y vigilancia de la Comisión Nacional de Valores, a la que deberán proporcionar toda la información y documentos necesarios para ello, que los plazos que en cada caso señale dicha Comisión.
 
-Por cada miembro propietario se designará un suplente.
+En el ejercicio de sus facultades de inspección y vigilancia, la citada Comisión deberá:
 
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+I.- Autorizar el catálogo de cuentas, así como dictar normas de agrupación de cuentas y de registro de operaciones, siendo aplicables a tales instituciones para el depósito de valores las disposiciones establecidas por los artículos 26-Bis a 26-Bis-6 de esta ley;
+
+II.- Dictar las reglas de carácter general a las que deberán sujetarse las instituciones para el depósito de valores en la aplicación de su capital y reservas de capital;
+
+III.- Ordenar visitas de inspección a las instituciones para el depósito de valores, y en su caso, intervenirlas administrativamente, con objeto de suspender, normalizar o liquidar las operaciones que pongan en peligro su solvencia, estabilidad o liquidez, o aquellas violatorias de la presente ley o de las disposiciones de carácter general que de ella deriven;
+
+IV.- Aprobar previamente toda clase de propaganda o información dirigida al público por las instituciones para el depósito de valores;
+
+V.- Aprobar previamente los modelos de contratos a través de los que se formalice la relación jurídica de las instituciones para el depósito de valores, con los usuarios de sus servicios; y
+
+VI.- Ejercer las demás facultades que se le atribuyen en este ordenamiento.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 59.
 
-Los miembros del consejo directivo durarán en su cargo tres años, pudiendo ser nuevamente designados y removidos libremente por quien los designe.
+Las instituciones para el depósito de valores requerirán previa autorización de la Secretaría de Hacienda y Crédito Público para el establecimiento, cambio de ubicación o clausura de sucursales u oficinas.
 
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+La citada Secretaría otorgará o denegará discrecionalmente las autorizaciones a que se refiere este artículo, oyendo la opinión de la Comisión Nacional de Valores.
 
 ###### ARTICULO 60.
 
-El Presidente del Consejo Directivo presidirá las sesiones del mismo y en su ausencia quien corresponda según el orden en que figuran los miembros en el artículo 58.
-
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 61.
 
-El Consejo Directivo sesionará por lo menos una vez al mes. Para que sesione válidamente se requiere la asistencia de cuando menos siete de sus miembros y para que sean válidos los acuerdos que se tomen, deberán aprobarse por cinco de los presentes.
-
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 62.
 
-El Consejo Directivo tendrá las facultades siguientes:
-
-I.- Discutir y, en su caso, aprobar dentro del último mes del año, los presupuestos de ingresos y egresos y los planes de labores para el año siguiente formulados por la Dirección General;
-
-II.- Expedir los reglamentos internos del Instituto;
-
-III.- Estudiar y, en su caso, aprobar los tabuladores y prestaciones correspondientes al personal del Instituto;
-
-IV.- Examinar y, en su caso, aprobar los estados financieros y el informe del ejercicio anterior formulados por la Dirección General;
-
-V.- Presentar a la Comisión Nacional de Valores los estados financieros del Instituto, para su aprobación y posterior publicación;
-
-VI.- Conocer y, en su caso, aprobar las operaciones que la Dirección General someta a su consideración, de acuerdo con lo que establezcan los reglamentos respectivos;
-
-VII.- Vigilar el desarrollo de los sistemas, técnicas y procedimientos de organización y operación; y
-
-VIII.- Las demás que sean necesarias para el cumplimiento de los fines del Instituto.
-
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 63.
 
-El Director General será nombrado por el Consejo Directivo de una terna que proponga el Secretario de Hacienda y Crédito Público. Para ocupar dicho cargo se requiere ser mexicano y de reconocida experiencia en la materia.
-
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 64.
 
-El Director General tendrá las funciones siguientes:
-
-I.- Será el representante legal del Instituto con el carácter de un mandatario general para pleitos y cobranzas, actos de administración y de dominio, con todas las facultades generales y aún las especiales que conforme a la Ley requieran cláusula especial, en los términos de los tres primeros párrafos del artículo 2554 del Código Civil para el Distrito Federal. Asimismo tendrá facultades para otorgar, emitir, endosar y en cualquier forma suscribir títulos de crédito, en los términos de lo dispuesto por el artículo 9o. de la Ley General de Títulos y Operaciones de Crédito. En forma enunciativa pero no limitativa, el Director General estará facultado para promover toda clase de juicios, articular y absolver posiciones, formular y ratificar querellas y otorgar el perdón cuando así proceda; para promover juicios de amparo desistir de ellos, para transigir y para comprometer en árbitros.
-
-El Director General podrá otorgar, sustituir y revocar poderes generales y especiales, previo acuerdo del Consejo;
-
-II.- Asistir a las sesiones del Consejo Directivo con voz, pero sin voto;
-
-III.- Ejecutar los acuerdos del Consejo Directivo;
-
-IV.- Presentar anualmente al Consejo Directivo, dentro de los dos primeros meses del año, los estados financieros y el informe del ejercicio anterior;
-
-V.- Presentar al Consejo Directivo, a más tardar dos meses antes del cierre del ejercicio, los presupuestos de ingresos y egresos y los planes de labores para el año siguiente;
-
-VI.- Presentar a la consideración del Consejo Directivo un informe mensual sobre las actividades del Instituto;
-
-VII.- Nombrar al personal del Instituto señalándole sus funciones y remuneraciones, de acuerdo con el tabulador previamente aprobado por el Consejo Directivo;
-
-VIII.- Resolver los asuntos que, conforme a los reglamentos internos y acuerdos que se dicten, no se hayan reservado al Consejo Directivo; y
-
-IX.- Las demás que le señale el Consejo Directivo o le atribuya esta Ley u otras disposiciones reglamentarias.
-
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 65.
 
-La Comisión Nacional de Valores, como órgano competente para vigilar e inspeccionar al Instituto, tendrá todas las facultades necesarias para cuidar del buen funcionamiento del mismo.
-
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 66.
 
-La Secretaría de la Contraloría General de la Federación designará un auditor externo para auditar y certificar los estados financieros del Instituto. El auditor externo tendrá las más amplias facultades para revisar la contabilidad y documentos del Instituto.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 67.
 
-El Instituto operará un depósito de valores. El depósito se constituirá mediante la entrega de los valores al Instituto, quien abrirá cuenta a favor de los depositantes. Constituido el depósito, se obtendrá la transferencia de los valores depositados por el procedimiento de giro o transferencia de cuenta a cuenta, mediante asientos en los registros del Instituto, sin que sea necesaria la tradición física y el consecuente desplazamiento de los propios valores, ni su anotación en los títulos de valores nominativos.
+El depósito a que se refiere la fracción I del artículo 57 de esta ley, se constituirá mediante la entrega de los valores a la institución para el depósito de valores, la que abrirá cuentas a favor de los depositantes.
 
-En el caso de acciones nominativas depositadas en el Instituto, el registro de las transmisiones de dichos valores en los libros correspondientes, sólo se hará conforme a lo dispuesto en este Capítulo.
+Constituido el depósito, la transferencia de los valores depositados se hará por el procedimiento de giro o transferencia de cuenta a cuenta, mediante asientos en los registros de la institución depositaria, sin que sea necesaria la entrega material de los documentos, ni su anotación en los títulos, o en su caso, en el registro de sus emisores.
 
-Tratándose de valores nominativos, los títulos que los representen deberán ser endosados en administración al propio Instituto. Este tipo de endoso tendrá como única finalidad justificar la tenencia de los valores y el ejercicio de las atribuciones que este Capítulo le confiere, sin constituir en su favor ningún derecho distinto a los expresamente consignados en el mismo.
+En el caso de acciones depositadas, la inscripción de las transmisiones de dichos valores en el registro correspondiente, sólo se hará conforme a lo dispuesto en este Capítulo.
 
-La transmisión de títulos nominativos por el procedimiento establecido en este artículo, no sujeta al adquirente a las excepciones personales que el obligado habría podido oponer al autor de la transmisión antes de ésta.
+Tratándose de valores nominativos, los títulos que los representen deberán ser endosados en administración a la institución. Este tipo de endoso tendrá como única finalidad justificar la tenencia de los valores y el ejercicio de las funciones que este Capítulo confiere a las instituciones para el depósito de valores, sin constituir en su favor ningún derecho distinto a los expresamente consignados en el mismo.
 
-> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+No se podrá oponer al adquirente de títulos nominativos por el procedimiento establecido en este artículo, las excepciones personales del obligado anteriores a la transmisión contra el autor de la misma.
 
-Cuando los valores nominativos dejen de estar depositados en el Instituto, cesarán los efectos del endoso en administración, debiendo el Instituto endosarlos sin su responsabilidad al depositante que solicite su devolución, quedando dichos valores sujetos al régimen general establecido en las leyes mercantiles y demás que le sean aplicables.
+Cuando los valores nominativos dejen de estar depositados en las instituciones para el depósito de valores, cesarán los efectos del endoso en administración, debiendo la institución depositaria endosarlos, sin su responsabilidad, al depositante que solicite su devolución, quedando dichos valores sujetos al régimen general establecido en las leyes mercantiles y demás que les sean aplicables.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 68.
 
-Los depósitos constituidos en el Instituto por quienes tengan el carácter de intermediarios en el mercado de valores, se harán siempre a su nombre, indicado en su caso, cuáles son por cuenta propia y cuáles son por cuenta ajena.
+Los depósitos constituidos por las casas de bolsa se harán siempre a su nombre, indicando en su caso, cuáles son por cuenta propia y cuáles por cuenta ajena.
 
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 69.
 
-Los abonos y retiros en los depósitos del Instituto se realizarán mediante las órdenes libradas en los formularios especiales cuyas características se establecerán por el propio Instituto.
+Los abonos y retiros en las instituciones para el depósito de valores, se realizarán mediante las órdenes libradas en las formas aprobadas por la Comisión Nacional de Valores.
 
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 70.
 
-El Instituto se obliga a la guarda y debida conservación de los valores, quedando facultado para mantenerlos en sus instalaciones, o bien en cualquier institución de crédito.
+Las instituciones para el depósito de valores serán responsables de la guarda y debida conservación de los valores, quedando facultadas para mantenerlos en sus instalaciones o bien en cualquier institución de crédito.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 71.
 
-El Instituto restituirá a los depositantes títulos del mismo valor nominal, especie y clase de los que sean materia de depósito.
+Las instituciones para el depósito de valores restituirán a los depositantes, títulos del mismo valor nominal, especie y clase de los que sean materia del depósito.
 
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 72.
 
-El Instituto no podrá dar noticia de los depósitos y demás operaciones, sino al depositante, a sus representantes legales, o a quien acredite tener interés legítimo; salvo cuando las pidiere la autoridad judicial, en virtud de providencia dictada en juicio en el que el depositante o beneficiario sea parte o acusado, o las autoridades hacendarias federales por conducto de la Comisión Nacional de Valores, para fines fiscales. El Instituto tendrá la obligación de proporcionar a la Comisión Nacional de Valores, toda clase de información y documentos que le solicite en ejercicio de las funciones de inspección y vigilancia que corresponden a ésta. Los funcionarios del Instituto serán responsables por violación del secreto que se establece y el Instituto estará obligado, en caso de revelación de secreto, a reparar los daños y perjuicios que se causen.
+Las instituciones para el depósito de valores no podrán dar noticia de los depósitos y demás operaciones, sino al depositante, a sus representantes legales, o a quien acredite tener interés legítimo; salvo cuando, las pidiere la autoridad judicial en virtud de providencia dictada en juicio en el que el depositante o beneficiario sea parte o acusado, o a las autoridades hacendarias federales por conducto de la Comisión Nacional de Valores, para fines fiscales. Las instituciones para el depósito de valores tendrán la obligación de proporcionar a la Comisión Nacional de Valores, toda clase de información y documentos que les solicite en ejercicio de las funciones de inspección y vigilancia que corresponden a ésta. Los funcionarios de las instituciones para el depósito de valores serán responsables por violación del secreto que se establece en este artículo y las propias instituciones estarán obligadas, en caso de revelación de este secreto, a reparar los daños y perjuicios que con ello se causen.
 
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 73.
 
-El Instituto enviará a sus depositantes, por lo menos una vez al mes, un estado autorizado de su cuenta durante el periodo comprendido desde el último corte.
+Las instituciones para el depósito de valores enviarán a sus depositantes, por lo menos una vez al mes, un estado autorizado de su cuenta, con los movimientos registrados durante el período comprendido desde el último corte.
 
-Los depositantes podrán objetar los movimientos de la cuenta con las observaciones que consideren procedentes dentro de los quince días siguientes al recibo del estado de cuenta. Transcurrido este plazo sin haberse formulado objeción alguna de la cuenta, los asientos y conceptos que figuran en la contabilidad del Instituto se presumirán ciertos, salvo prueba en contrario.
+Los depositantes podrán objetar los asientos y conceptos de los movimientos de la cuenta que consideren procedentes, dentro de los 15 días siguientes al recibo del estado de cuenta. Transcurrido este plazo sin haberse formulado objeción alguna a la cuenta, los asientos y conceptos que consten en la contabilidad de las instituciones para el depósito de valores se presumirán ciertos, salvo prueba en contrario.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 74.
 
-Cuando se trate de emisiones que se depositen en el Instituto, o cuando éste reciba directamente del emisor valores provenientes del ejercicio de derechos patrimoniales, que haga efectivos por cuenta de sus depositantes, el emisor podrá, previa aprobación de aquél, entregarle un título que ampare todos o parte de los valores materia de la emisión, debiendo el propio Instituto hacer los asientos necesarios, para que queden determinados los derechos de los respectivos depositantes.
+Cuando se trate de emisiones que se depositen en una institución para el depósito de valores o cuando ésta reciba directamente del emisor valores provenientes del ejercicio de derechos patrimoniales que haga efectivos por cuenta de sus depositantes, el emisor podrá, previa aprobación de la institución para el depósito de valores, entregarle títulos múltiples o un solo título que ampare parte o todos los valores materia de la emisión y del depósito, debiendo la propia institución hacer los asientos necesarios para que queden determinados los derechos de los respectivos depositantes.
 
-En el caso de valores nominativos, los títulos que los representen serán emitidos con la mención de estar depositados por el Instituto, sin que se requiera expresar en el documento el nombre ni en su caso, el domicilio y la nacionalidad del titular.
+En caso de valores nominativos, los títulos que los representen serán emitidos con la mención de estar depositados en la institución para el depósito de valores de que se trate, sin que se requiera expresar en el documento el nombre, ni en su caso, el domicilio y la nacionalidad del titular o titulares. La mención anteriormente prevista producirá los mismos efectos del endoso en administración a que se refiere el artículo 67 de esta Ley.
 
-La mención anteriormente prevista producirá los mismos efectos del endoso en administración a que se refiere el Artículo 67 de esta Ley.
+También, cuando así lo convengan el emisor y la institución para el depósito de valores, podrán emitirse títulos que no lleven cupones adheridos. En este caso, las constancias que expida la institución harán las veces de dichos títulos accesorios para todos los efectos legales.
 
-También, cuando así lo convengan emisor e Instituto, podrán emitirse títulos que no lleven cupones adheridos. En este caso las constancias que expida el Instituto harán las veces de dichos títulos accesorios para todos los efectos legales.
+Los emisores tendrán la obligación de expedir y canjear los títulos necesarios, en su caso, con los cupones respectivos, cuando así lo requiera la institución para el depósito de valores para atender las solicitudes de retiro de valores por ella custodiados. La propia institución para el depósito de valores podrá actuar como apoderada de los emisores a ese efecto, en los términos que se convengan.
 
-Los emisores tendrán la obligación de expedir y canjear los títulos necesarios, en su caso, con los cupones respectivos, cuando así lo requiera el Instituto para poder atender las solicitudes de retiro de valores depositados.
-
-El propio Instituto podrá actuar como apoderado del emisor a ese efecto, en los términos que se convengan.
-
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 75.
 
-A solicitud del depositante, y en los términos de la fracción II del artículo 57, el Instituto podrá administrar los valores que se le entreguen para su depósito, en cuyo caso sólo estará facultado para hacer efectivos los derechos patrimoniales que deriven de esos valores, pudiendo en consecuencia llevar a cabo el cobro de amortizaciones, dividendos en efectivo o en acciones, intereses, etc.
+A solicitud del depositante y en los términos de la fracción II del artículo 57, las instituciones para el depósito de valores podrán administrar los valores que se les entreguen para su depósito, en cuyo caso sólo estarán facultadas para hacer efectivos los derechos patrimoniales que deriven de esos valores, pudiendo en consecuencia llevar a cabo el cobro de amortizaciones, dividendos en efectivo o en acciones, intereses y otros conceptos patrimoniales.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 76.
 
-Con objeto de que el Instituto pueda hacer valer oportunamente los derechos patrimoniales derivados de los valores o documentos que mantengan en depósito, se observará lo siguiente:
+Con objeto de que las instituciones para el depósito de valores puedan hacer valer oportunamente los derechos patrimoniales derivados de los valores, títulos o documentos asimilables que mantengan en depósito, se observará lo siguiente:
 
-I.- Cuando un emisor decrete el pago de dividendos, intereses u otras prestaciones, o la amortización de los propios valores, deberá informar por escrito al Instituto, al día hábil siguiente de celebrada la asamblea respectiva, de las resoluciones adoptadas en la misma en cuanto a derechos que podrán ejercer sus tenedores, indicando los títulos o cupones contra los cuales se harán efectivos esos derechos, así como los términos para su ejercicio. En todo caso, los emisores deberán informar al Instituto, cuando menos con cinco días hábiles de anticipación a la fecha en que inicie, el plazo fijado para el ejercicio de tales derechos.
+I.- Cuando un emisor decrete el pago de dividendos, intereses u otras prestaciones o la amortización de los valores, deberá informar por escrito a las instituciones para el depósito de valores, al día hábil siguiente de celebrada la asamblea respectiva o adoptada la resolución correspondiente, los derechos que podrán ejercer los tenedores de sus valores, indicando los títulos o cupones contra los cuales se harán efectivos esos derechos, así como los términos para su ejercicio, informando cuando menos con 5 días hábiles de anticipación a la fecha en que se inicie el plazo fijado para el ejercicio de tales derechos.
 
-Para hacer valer los derechos patrimoniales a que se refiere este artículo, el Instituto expedirá una certificación de los títulos o cupones que tenga en su poder, debiendo hacer entrega de los mismos al emisor dentro de los sesenta días naturales posteriores a la fecha del cumplimiento por parte de éste, salvo lo establecido en el tercer párrafo del artículo 74, en cuyo caso, las constancias habrán de contener los datos necesarios para identificar los derechos que deban ejercerse.
+Para hacer valer los derechos patrimoniales a que se refiere este artículo, las instituciones para el depósito de valores expedirán una certificación de los títulos o cupones que tengan en su poder, debiendo hacer entrega de los mismos al emisor dentro de 60 días naturales posteriores a la fecha de cumplimiento por parte de éste, salvo lo establecido en el cuarto párrafo del artículo 74, en cuyo caso, las constancias habrán de contener los datos necesarios para identificar los derechos que deban ejercerse.
 
-El emisor deberá cumplir frente al Instituto con las obligaciones a su cargo provenientes del ejercicio de los derechos patrimoniales señalados con anterioridad, el día que tales obligaciones sean exigibles. El Instituto procederá a abonar a sus depositantes el importe de tales derechos, el día hábil siguiente al que los haya hecho efectivos; y
+El emisor deberá cumplir frente a las instituciones para el depósito de valores con las obligaciones a su cargo proveniente del ejercicio de los derechos patrimoniales señalados con anterioridad, el día que tales obligaciones sean exigibles. Las instituciones para el depósito de valores acreditarán a sus depositantes tales derechos, el día hábil siguiente al que los hayan hecho efectivos; y
 
-II.- Cuando para el ejercio (sic) de los derechos a que se refiere la fracción anterior, se requiera que los titulares de los valores depositados en el Instituto aporten recursos en efectivo, éstos deberán ser entregados al Instituto con una anticipación no menor de dos días hábiles al vencimiento del plazo decretado por el emisor para dicho ejercicio. En caso de que no se hagan las ministraciones respectivas al Instituto dentro del plazo mencionado, éste no quedará obligado a ejercer los derechos correspondientes, quedando eximido de cualquier responsabilidad por la inejecución de los actos de administración referidos.
+II.- Cuando para el ejercicio de los derechos a que se refiere la fracción anterior, se requiera que los titulares de los valores custodiados por las instituciones para el depósito de valores aporten recursos en efectivo, éstos les deberán ser entregados con una anticipación no menor de 2 días hábiles al vencimiento del plazo decretado por el emisor para dicho ejercicio. En caso de que no se hagan las ministraciones respectivas dentro del plazo mencionado, las instituciones para el depósito de valores no estarán obligadas a ejercer los derechos correspondientes, por lo que no tendrán responsabilidad si no realizan los actos de administración referidos.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 77.
 
-Cuando se den en prenda valores depositados, dicha garantía se constituirá y formalizará ante el Instituto mediante contrato que debe constar por escrito sin que sea necesario hacer entrega o endoso de los títulos materia del contrato, ni en su caso, la anotación en el registro respectivo.
+Cuando se den en prenda valores depositados, dicha garantía se constituirá y formalizará mediante contrato que debe constar por escrito, sin que sea necesario hacer entrega o endoso de los títulos materia del contrato, ni en su caso, la anotación en el registro respectivo. El contrato deberá ser remitido a la institución para el depósito de valores correspondiente, junto con la solicitud para abrir la cuenta de valores depositados en prenda.
 
-(ADICIONADO, D.O.F. 8 DE FEBRERO DE 1985)(F. DE E., D.O.F. 3 DE ABRIL DE 1985)
+En este caso, se podrá convenir expresamente la venta extrajudicial de los valores dados en prenda cuando sea exigible de la obligación garantizada y el deudor no satisfaga su importante (sic) al primer requerimiento; así como cuando el deudor incumpla, antes del vencimiento, la obligación de mantener el margen de garantía pactado con el acreedor.
 
-En este caso, se podrá convenir expresamente la venta extrajudicial de los valores dados en prenda cuando sea exigible la obligación garantizada y el deudor no satisfaga su importe al primer requerimiento, así como antes del vencimiento cuando el deudor incumpla la obligación de mantener el margen de garantía pactado con el acreedor.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 78.
 
-El Instituto expedirá a los depositantes constancias no negociables sobre los valores objeto del depósito, las cuales complementadas, en su caso, con el listado de titulares de dichos valores que los propios depositantes formulen al efecto, servirán, respectivamente, para:
+Las instituciones para el depósito de valores expedirán a los depositantes constancias no negociables sobre los valores depositados, las cuales complementadas en su caso, con el listado de titulares de dichos valores que los propios depositantes formulen al efecto, servirán, respectivamente, para:
 
-I.- Determinar la titularidad de los valores relativos, acreditar el derecho de asistencia a asambleas y, tratándose de acciones nominativas, la inscripción en el libro de registro de la sociedad emisora. Respecto a lo ordenado en los artículos 128 fracción I y 129 de la Ley General de Sociedades Mercantiles, así como 57 fracción V de esta Ley, en el registro de acciones nominativas de las sociedades emisoras cuyas acciones se encuentren depositadas en el Instituto, no se requerirá asentar su numeración ni demás particularidades, salvo que las mismas otorguen diferentes derechos, supuesto en el cual se anotará la serie y clase que corresponda.
+I.- Demostrar la titularidad de los valores relativos, acreditar el derecho de asistencia a asambleas y, tratándose de acciones, la inscripción en el registro de acciones de la sociedad emisora. Respecto a lo ordenado por los artículos 128 fracción I y 129 de la Ley General de Sociedades Mercantiles, así como por el 57 fracción IV inciso b) de esta ley, en el registro de acciones de sociedades emisoras cuyas acciones se encuentren en una institución para el depósito de valores, no se requerirá asentar su numeración ni demás particularidades, salvo que las mismas otorguen diferentes derechos, supuesto en el cual se anotará la serie y clase que corresponda.
 
-En el periodo comprendido desde la fecha en que se expidan las constancias mencionadas en esta fracción, hasta el día hábil siguiente de celebrada la asamblea respectiva, los depositantes no podrán retirar del Instituto los valores que aquéllas amparen.
+En el período comprendido desde la fecha en que se expidan las constancias mencionadas en esta fracción, hasta el día hábil siguiente de celebrada la asamblea respectiva, los depositantes no podrán retirar de las instituciones para el depósito de valores los valores que aquéllas amparen.
 
-Los emisores y, cuando proceda, los representantes comunes de los tenedores de valores, deberán proporcionar al Instituto un ejemplar de la convocatoria de las asambleas respectivas, a más tardar el día hábil anterior al de su publicación. En todo caso, deberán informarle de dichas convocatorias con una anticipación no menor de cinco días hábiles a la fecha de cierre de su registro de asistencia.
+Los emisores y, cuando proceda, los representantes comunes de los tenedores de valores, deberán proporcionar a las instituciones para el depósito de valores un ejemplar de las convocatorias a asambleas, a más tardar el día hábil anterior al de su publicación. En todo caso, deberán informarles de dichas convocatorias con una anticipación no menor de 5 días hábiles a la fecha de cierre de sus registros de asistencia. Previamente a la celebración de cualquier Asamblea de Accionistas y a fin de actualizar las inscripciones que obren en los libros de acciones, los depositantes estarán obligados a proporcionar a las sociedades emisoras los listados de titulares de los valores correspondientes; y
 
-Previamente a la celebración de cualquier asamblea de accionistas, y a fin de actualizar las inscripciones que obren en los libros de acciones nominativas de las sociedades emisoras, los depositantes estarán obligados a proporcionar a aquéllas los listados de titulares de los valores correspondientes; y
+II.- Legitimar el ejercicio de las acciones a que se refieren los artículos 185 y 201 de la Ley General de Sociedades Mercantiles, así como de cualquier otra acción, inclusive las de carácter procesal en juicio en las que sea necesario exhibir valores en custodia de las instituciones para el depósito de valores. Las constancias deberán referirse expresamente a la cantidad de valores de que se trate. A solicitud judicial o de árbitro designado por las partes, las instituciones para el depósito de valores abrirán cuentas especiales respecto de los valores depositados que sean motivo de litigio e inmovilizará los títulos relativos, no registrando ninguna operación sobre ellos hasta en tanto se les comunique sentencia judicial ejecutoriada o laudo arbitral que ponga fin a la controversia.
 
-II.- Legitimar el ejercicio de las acciones a que se refieren los artículos 185 y 201 de la Ley General de Sociedades Mercantiles, así como de cualquier otra acción, inclusive las de carácter procesal, en que sea necesario exhibir valores depositados en el Instituto. Las constancias deberán referirse expresamente a la cantidad de valores de que se trate. A solicitud judicial o de árbitro designado por las partes, el Instituto abrirá una cuenta especial respecto de los valores depositados que sean motivo del litigio, e inmovilizará los títulos relativos, no registrando ninguna operación sobre ellos hasta en tanto no se le comunique sentencia judicial ejecutoriada o laudo arbitral que ponga fin a la controversia.
-
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 79.
 
-El Instituto y los depositantes deberán llevar los libros y la documentación contable necesaria a efecto de que en todo momento puedan determinarse los derechos de cada depositante.
+Las instituciones para el depósito de valores y los depositantes deberán llevar los libros y la documentación contable necesaria, que determine la Comisión Nacional de Valores en la forma que ésta señale, a efecto de que en todo momento puedan verificarse los derechos de cada depositante.
 
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 80.
 
-El depositante será responsable de la autenticidad de los valores materia del depósito y de la validez de las transacciones que le sean inherentes, quedando relevado el Instituto de cualquier responsabilidad por los defectos, ilegitimidad o nulidad de los propios valores o transacciones.
+El depositante será responsable de la autenticidad de los valores materia del depósito y de la validez de las transacciones que les sean inherentes; por lo tanto, las instituciones para el depósito de valores no tienen responsabilidad por los defectos, legitimidad o nulidad de los propios valores o transacciones.
 
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 81.
 
-Previa autorización expresa de la Comisión Nacional de Valores, y cuando así lo prevengan los estatutos, las sociedades anónimas de capital fijo podrán emitir acciones no suscritas, para su colocación entre el público, siempre que se mantengan depositadas en el Instituto, y que se cumplan las siguientes condiciones:
+Previa autorización expresa de la comisión Nacional de Valores y cuando así lo prevengan los estatutos, las sociedades anónimas de capital fijo podrán emitir acciones no suscritas, para su colocación entre el público, siempre que se mantengan en custodia por una institución para el depósito de valores y que se cumplan las siguientes condiciones:
 
 I.- La emisión debe hacerse con propósito de oferta pública, de conformidad con lo dispuesto en esta ley;
 
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
+II.- El depósito de las acciones ante las instituciones para el depósito de valores se realizará por conducto de casas de bolsa, en los términos de esta ley;
 
-II.- El depósito en el Instituto se realizará por conducto de casas de bolsa, en los términos de esta Ley;
+III.- La emisora, previamente a la celebración de la Asamblea Extraordinaria correspondiente, deberá presentar a la Comisión Nacional de Valores un proyecto de emisión, con todos los datos y documentos que la misma le solicite, incluyendo la información financiera, minuta de prospecto para información del público, así como el programa de colocación y el proyecto de los acuerdos de aumento de capital y de emisión de acciones que habrán de presentarse a dicha asamblea;
 
-III.- La emisora, previamente a la celebración de la asamblea extraordinaria, deberá presentar a la Comisión Nacional de Valores un proyecto de emisión, con todos los datos y documentos que la misma le solicite, incluyendo la información financiera, minuta de prospecto para información pública, así como el programa de colocación y el proyecto de los acuerdos de aumento de capital y de emisión de acciones que habrán de presentarse a dicha asamblea;
+IV.- Al otorgar la autorización respectiva la Comisión Nacional de Valores señalará las condiciones y requisitos a que deberán someterse la emisora y la casa de bolsa colocadora, tanto para le emisión, cuanto para la colocación de acciones;
 
-IV.- Al otorgar la autorización respectiva, la Comisión Nacional de Valores señalará las condiciones y requisitos a que deberán someterse la emisora y el agente de valores, tanto para la emisión como para la colocación de acciones;
-
-> <small>(REFORMADA, D.O.F. 8 DE FEBRERO DE 1985)</small>
-
-V.- El importe de las acciones no suscritas podrá ser hasta por un monto igual al capital pagado, debiendo señalar la Comisión Nacional de Valores, dentro de dicho límite, el monto de acciones no suscritas que puedan emitirse, tomando en cuenta la importancia y características de la sociedad emisora y las condiciones del mercado;
+V.- El importe de las acciones no suscritas podrá ser hasta por un monto igual al capital pagado, debiendo señalar la Comisión Nacional de Valores, dentro de dicho límite, el monto de acciones no suscritas que pueden emitirse tomando en cuenta la importancia y características de la sociedad emisora y las condiciones del mercado;
 
 VI.- La sociedad emisora al dar publicidad al capital autorizado, tendrá la obligación de mencionar el importe del capital pagado a esa fecha;
 
-VII.- Las acciones se acreditarán en cuenta al agente, contra el pago total que éste haga del precio de las mismas.
+VII.- Las acciones se acreditarán en cuenta a la casa de bolsa colocadora, contra el pago del precio de las mismas.
 
-El Instituto llevará cuenta de las acciones que, por ser suscritas y pagadas, pueden ser materia de transferencia y otras operaciones previstas en esta Ley;
+Las instituciones para el depósito de valores llevarán cuenta de las acciones que, por haber sido suscritas y pagadas, pueden ser materia de transferencia y de otras operaciones previstas en esta ley;
 
-VIII.- Las acciones que no se suscriban y paguen en el plazo que señale la Comisión Nacional de Valores se considerarán anuladas, sin que se requiera declaración judicial, y se procederá a su cancelación. La emisora procederá a reducir el capital social autorizado en la misma proporción;
+VIII.- Las acciones que no se suscriban y paguen en el plazo que señale la Comisión Nacional de Valores se considerarán anuladas, sin que se requiera declaración judicial y se procederá a su cancelación. La emisora procederá a reducir el capital social autorizado en la misma proporción;
 
 IX.- La Comisión Nacional de Valores sólo aprobará emisiones de acciones no suscritas, cuando se trate de sociedades que mantengan políticas congruentes de colocación de sus valores en el público y de protección a los derechos de la minoría;
 
-X.- Para facilitar la oferta pública de valores, en la asamblea extraordinaria de accionistas en la que se decrete la emisión de acciones no suscritas, deberá hacerse renuncia expresa al derecho de preferencia a que se refiere el artículo 132 de la Ley General de Sociedades Mercantiles. Habiendo quórum, en los términos de los estatutos sociales, el acuerdo que se tome producirá todos sus efectos, alcanzando a los accionistas que no hayan asistido a la asamblea, por lo que la sociedad quedará en libertad de colocar las acciones entre el público, sin hacer la publicación a que se refiere el artículo antes citado. Cuando una minoría, que represente cuando menos el 25% del capital social, vote en contra de la emisión de acciones no suscritas, dicha emisión no podrá llevarse a cabo;
+X.- Para facilitar la oferta pública de valores, en la Asamblea Extraordinaria de Accionistas en las que se decrete la emisión de acciones no suscritas, deberá hacerse renuncia expresa al derecho de preferencia a que se refiere el artículo 132 de la Ley General de Sociedades Mercantiles. Habiendo quórum, en los términos de los estatutos sociales, el acuerdo que se tome producirá todo sus efectos, alcanzando a los accionistas que no hayan asistido a la asamblea, por lo que la sociedad quedará en libertad de colocar las acciones entre el público, sin hacer la publicación a que se refiere el artículo antes citado. Cuando una minoría, que represente cuando menos el 25% del capital social, vote en contra de la emisión de acciones no suscritas, dicha emisión no podrá llevarse a cabo;
 
 XI.- En la convocatoria en la que se cite a Asamblea Extraordinaria se deberá hacer notar expresamente que se reúne para los fines precisados en este precepto, haciendo mención especial de lo establecido en la fracción anterior;
 
-XII.- Cualquier accionista que vote en contra de las resoluciones adoptadas durante la asamblea, tendrá derecho a exigir de la sociedad la colocación de sus acciones, al mismo precio en el que se ofrezcan al público las acciones materia de la emisión. La sociedad tendrá obligación de colocar en primer lugar las acciones pertenecientes a los accionistas disidentes; y
+XII.- Cualquier accionista que vote en contra de las resoluciones durante la asamblea, tendrá derecho a exigir de la sociedad la colocación de sus acciones, al mismo precio en el que se ofrezcan al público las acciones materia de la emisión.
 
-XIII.- La Comisión Nacional de Valores estará facultada para concurrir a las asambleas, a fin de vigilar el cumplimiento de los requisitos señalados para la emisión de las acciones.
+La sociedad tendrá obligación de colocar en primer lugar las acciones pertenecientes a los accionistas inconformes; y
 
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+XIII.- La Comisión Nacional de Valores estará facultada para concurrir a estas asambleas, a fin de vigilar el cumplimiento de los requisitos señalados para la emisión de las acciones.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 82.
 
-Cualquier controversia que surja entre el Instituto y sus depositantes podrá ser sometida a laudo arbitral, a petición de las partes.
+Las controversias que surjan entre las instituciones para el depósito de valores y sus depositantes, podrá (sic) ser sometida (sic) al arbitraje de la Comisión Nacional de Valores, a petición de las partes.
 
-En el caso de que el laudo arbitral sea dictado por la Comisión Nacional de Valores, no admitirá más recurso o medio de defensa que el juicio de amparo. Todas las demás resoluciones admitirán como único recurso el de la revocación.
+El laudo arbitral de la Comisión no admitirá más recurso o medio de defensa que el juicio de amparo. Todas las demás resoluciones admitirán como único recurso el de revocación.
 
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 83.
 
-El Instituto solicitará de las bolsas de valores, la cooperación que considere conveniente, con objeto de lograr un perfeccionamiento progresivo de la operatividad del depósito.
+La Secretaría de Hacienda y Crédito Público, oyendo previamente a la Comisión Nacional de Valores y al interesado podrá declarar revocada la concesión en los siguientes casos:
 
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+I.- Si la sociedad respectiva no presenta para la aprobación de la Secretaría de Hacienda y Crédito Público, el testimonio de la escritura constitutiva, dentro de los tres meses siguientes de otorgada la concesión, o si no inicia sus operaciones, previa aprobación que para tal efecto otorgue la Comisión Nacional de Valores, dentro de los tres meses siguientes a la aprobación de su escritura constitutiva, o si al iniciar sus operaciones no está totalmente pagado el capital mínimo a que se refiere la fracción I del artículo 56.
+
+Los plazos establecidos en esta fracción podrán ser ampliados por motivo justificado, por la Secretaría de Hacienda y Crédito Público;
+
+II.- Si opera con un capital inferior al mínimo fijado conforme a esta ley, o no lo reconstituye dentro del plazo que fije la citada Secretaría;
+
+III.- Si reiteradamente, a pesar de las observaciones de la Comisión Nacional de Valores infringe esta ley o las reglas de carácter general que de ella deriven;
+
+IV.- Si por causas que le sean imputables, falta al cumplimiento de las obligaciones derivadas de los contratos celebrados con los usuarios de sus servicios; y
+
+V.- Si se disuelve, quiebra o entra en estado de liquidación o suspensión de pagos, salvo que el procedimiento respectivo termine por rehabilitación y la Comisión Nacional de Valores opinare que se mantenga la concesión.
+
+La revocación de la concesión producirá la disolución y la liquidación de la sociedad debiendo observarse lo dispuesto por la fracción VIII del artículo 56 de esta ley.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 84.
 
-El Instituto no podrá suspender sus labores sino en los días previamente establecidos en el calendario que apruebe la Comisión Nacional de Valores. Dicho calendario deberá publicare en el “Diario Oficial” de la Federación a más tardar en el mes de diciembre del año anterior a aquél en que se deba regir.
+Las instituciones para el depósito de valores no podrán suspender sus labores sino en los días previamente establecidos en el calendario que apruebe la Comisión Nacional de Valores. Dicho calendario deberá publicarse en el Diario Oficial de la Federación a más tardar el mes de diciembre del año anterior a aquel que deba regir.
 
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 85.
 
-Los cargos por los servicios que el Instituto preste se cubrirán de acuerdo con la tarifa que autorice la Secretaría de Hacienda y Crédito Público, previa opinión de la Comisión Nacional de Valores.
-
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+Los cargos por los servicios que las instituciones para el depósito de valores presten se cubrirán de acuerdo con la tarifa que autorice la Secretaría de Hacienda y Crédito Público, previa opinión de la Comisión Nacional de Valores.
 
 ###### ARTICULO 86.
 
-Los ingresos que perciba el Instituto por la prestación de sus servicios, no tendrán carácter fiscal.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1986)
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
@@ -1651,3 +1673,31 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los emisores de acciones inscritas en la Sección de Valores del Registro Nacional de Valores e Intermediarios, que no tengan representado su capital social en títulos definitivos de acciones cuando haya transcurrido el plazo establecido en el artículo 14, fracción VIII de la Ley del Mercado de Valores, deberán cumplir con dicho requisito dentro de los noventa días naturales siguientes a la fecha en que entre en vigor este Decreto.
+
+D.O.F. 31 DE DICIEMBRE DE 1986.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+El Instituto para el Depósito de Valores continuará presentando sus servicios en la misma forma en que ha venido operando, hasta en tanto se otorguen la concesión o concesiones respectivas en los términos previstos en esta ley; a partir de ese momento el citado Instituto, con la intervención que corresponda a la Secretaria de Hacienda y Crédito Público, procederá a transmitir al concesionario los asuntos, archivos, clientela, instalaciones y equipos relacionados con el objeto materia de la concesión.
+
+A partir de que las instituciones concesionadas inicien sus operaciones, se principiará el proceso para la disolución y liquidación del citado instituto en los términos previstos por la Ley Federal de Entidades Paraestatales.
+
+###### ARTICULO TERCERO.
+
+Para los efectos de la transmisión de las instalaciones y demás bienes del Instituto, la Secretaria de Hacienda y Crédito Público estará facultada para ordenar el levantamiento del inventario correspondiente, así como el avalúo de dichos bienes, el que se practicará por conducto de la Comisión Nacional de Valores.
+
+###### ARTICULO CUARTO.
+
+La sociedad o sociedades concesionarias estarán obligadas a pagar en los términos que fije la Secretaría de Hacienda y Crédito Público el valor de la enajenación.
+
+###### ARTICULO QUINTO.
+
+La Secretaria de Hacienda y Crédito Público tomará las providencias necesarias para que no se afecten los derechos laborales de los trabajadores del Instituto.
+
+###### ARTICULO SEXTO.
+
+Las referencias que en la presente Ley del Mercado de Valores o en alguna otra ley, reglamento, decreto, acuerdo, circular o concesión se hagan acerca del Instituto para el Depósito de Valores, se entenderán formuladas a las instituciones para el depósito de valores.
