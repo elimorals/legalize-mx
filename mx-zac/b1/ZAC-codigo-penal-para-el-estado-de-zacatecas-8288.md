@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "1997-07-05"
+last_updated: "1997-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1997.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -2247,7 +2247,7 @@ V.- Pagar los salarios de los trabajadores en tabernas, cantinas, prostíbulos o
 
 VI.- Obligar a los trabajadores a realizar jornadas sin descanso que excedan de once horas en las labores diurnas y de siete en las nocturnas;
 
-> <small>(REFORMADAP.O. 5 DE JULIO DE 1997)</small>
+> <small>(REFORMADA P.O. 5 DE JULIO DE 1997)</small>
 
 VII.- Imponer labores insalubres o peligrosas y trabajos nocturnos a las mujeres y a los jóvenes menores de dieciocho años;
 
@@ -2439,7 +2439,7 @@ IV.- ENCUESTADOR.- Es la persona física o moral que realice encuestas o sondeos
 
 V.- DOCUMENTOS PUBLICOS ELECTORALES.- Las actas oficiales de instalación de casillas, las de escrutinio y cómputo municipales, distritales o estatales, listados, boletas electorales, credencial para votar con fotografía, credencial de identidad para funcionarios y observadores electorales, y en general, cualquier documento expedido en el ejercicio de sus funciones por los órganos del Instituto Electoral del Estado de Zacatecas o del Tribunal Estatal Electoral;
 
-VI.- SON SERVIDORES PUBLICOS.- Los así considerados por la Constitución Política del Estado de Zacatecas y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas; y
+VI.- SON SERVIDORES PUBLICOS.- Los así considerados por la Constitución Política del Estado de Zacatecas y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas;
 
 > <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 1997)</small>
 
@@ -2773,7 +2773,7 @@ Y para que llegue a conocimiento de todos y se le dé el debido cumplimiento, ma
 
 Dado en el Despacho del Poder Ejecutivo del Estado, a los quince días del mes de mayo de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado.- José Guadalupe Cervantes Corona.- Rúbrica.- El Secretario de Gobierno.- Lic. Roberto Almanza Félix.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A L PRESENTE CODIGO.</small>
 
 P.O. 30 DE DICIEMBRE DE 1989.
 
@@ -2841,6 +2841,10 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 
 PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+
+CUARTO.- La Sala de Segunda Instancia deberá entrar en funciones a más tardar el 31 de octubre de 1997.
+
 P.O. 5 DE JULIO DE 1997.
 
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
@@ -2848,3 +2852,7 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 PRIMERO.- El presente Decreto entrará en vigor el día 1º. de enero de 1998.
 
 SEGUNDO.- Los menores de dieciocho años que se encuentren a disposición de autoridades del fuero común en prisión preventiva, sentenciados o cumpliendo una sanción privativa de libertad, serán trasladados a los lugares idóneos y puestos a disposición del Consejo Tutelar de Menores, sin demora, el mismo día en que entre en vigor el presente Decreto.
+
+P.O. 20 DE SEPTIEMBRE DE 1997
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
