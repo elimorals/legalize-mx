@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1980-09-20"
+last_updated: "1983-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 1983.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -109,7 +109,9 @@ El demandado que pida sea llamado el tercero, deberá proporcionar el domicilio 
 
 ART. 23.- El tercero que aduciendo derecho propio, intente excluir los derechos del actor y demandado, o los del primero solamente, tiene la facultad de concurrir al pleito, aun cuando ya esté dictada sentencia ejecutoria.
 
-ART. 24.- Las acciones del estado civil tienen por objeto las cuestiones relativas al nacimiento de función matrimonio o nulidad de éste filiación reconocimiento emancipación tutela adopción divorcio y ausencia o atacar el contenido de las constancias del Registro Civil para que se anulen o rectifiquen. Las decisiones judiciales recaídas en el ejercicio de acciones de estado civil, perjudicando aun a los que no litigaron.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 1983)</small>
+
+ART. 24.- Las acciones de estado civil tienen por objeto las cuestiones relativas al nacimiento, defunción, matrimonio o nulidad de éste, filiación, reconocimiento, tutela, adopción, divorcio y ausencia; o atacar el contenido de las constancias del Registro Civil para que se anulen. Las decisiones judiciales recaídas en el ejercicio de acciones de estado civil, perjudican aún a los que no litigaron.
 
 Las acciones de estado civil fundadas en la posesión de estado, producirán el efecto de que se ampare o restituya a quien la disfrute contra cualquier perturbador.
 
@@ -915,7 +917,7 @@ ART. 206.- El que intente demandar o acusar a su cónyuge, puede solicitar su se
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 1975)</small>
 
-ART. 207.- Sólo los Jueces de Primera Instancia pueden decretar la separación de que habla el Artículo anterior, a no ser que por circunstancias especiales no pueda ocurrirse al Juez competente, pues entonces el Juez del lugar podrá decretar la separación provisionalmente, remitiendo las diligencias al competente.
+ART. 207.- Sólo los Jueces de Primera Instancia pueden decretar la separación de que habla el Artículo anterior, a no ser que por circunstancias especiales no pueda ocurrirse al Juez competente, pues entones el Juez del lugar podrá decretar la separación provisionalmente, remitiendo las diligencias al competente.
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 1975)</small>
 
@@ -3753,9 +3755,7 @@ II.- (DEROGADA, P.O. 20 DE JUNIO DE 1975)
 
 III.- La calificación de la excusa de la patria potestad en los casos a que se refiere el artículo 445 del Código Civil;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1980)</small>
-
-IV.- La rectificación de actas del estado civil cuando se trate de hechos esenciales asentados en las mismas.
+IV.- (DEROGADA, P.O. 10 DE MAYO DE 1983)
 
 ART. 924.- Podrá decretarse el depósito: de menores o incapacitados que se hallen sujetos a la patria potestad o a tutela y que fueren maltratados por sus padres o tutores, o reciban de éstos ejemplos perniciosos, a juicio del juez, o sean obligados por ellos a cometer actos reprobados por las leyes; de huérfanos o incapacitados que queden en abandono por la muerte, ausencia o incapacidad física de la persona a cuyo cargo estuvieren.
 
@@ -4026,3 +4026,13 @@ P.O. 20 DE SEPTIEMBRE DE 1980.
 ###### ARTICULO UNICO.
 
 El presente Decreto, previa su publicación en el Periódico Oficial, Organo del Gobierno del Estado, entrará en vigor el día primero de octubre de mil novecientos ochenta.
+
+P.O. 10 DE MAYO DE 1983.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+La substanciación de las rectificaciones de actas del estado civil, que al entrar en vigor este Decreto, se encuentre pendiente, se seguirá hasta su terminación de acuerdo con el Artículo 923 del Código de Procedimientos Civiles vigente, cuya fracción IV queda derogada.
