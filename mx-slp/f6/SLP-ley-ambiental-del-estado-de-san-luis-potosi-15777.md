@@ -1,0 +1,2188 @@
+---
+title: "LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSI"
+identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
+country: "mx"
+rank: "ley"
+publication_date: "1999-12-15"
+last_updated: "1999-12-15"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-slp"
+scjn_id: "15777"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "150 TERCERA SECCION"
+reform_count: "78"
+scjn_last_update: "2026-06-24"
+issue_date: "1999-12-13"
+state: "SLP"
+---
+# LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSI
+
+LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSI
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
+
+Fernando Silva Nieto, Gobernador Constitucional del Estado Libre Soberano de San Luis Potosí, a sus habitantes sabed:
+
+Que la Quincuagésima Quinta Legislatura Constitucional del Estado se ha servido dirigirme el siguiente:
+
+DECRETO 392
+
+LA QUINCUAGESIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
+
+...
+
+LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSI
+
+## TITULO PRIMERO. DISPOSICIONES GENERALES
+
+### CAPITULO UNICO
+
+###### ARTICULO 1o.
+
+La presente Ley es reglamentaria de las disposiciones contenidas en el artículo 15 de la Constitución Política del Estado de San Luis Potosí, que se refieren a la protección, conservación y restauración del ambiente en el territorio del Estado. Sus disposiciones son de orden público e interés social, y tienen por objeto propiciar el desarrollo sustentable en la Entidad y establecer las bases para:
+
+I. Garantizar el derecho de toda persona a gozar de un ambiente sano para su desarrollo y bienestar;
+
+II. Llevar a cabo la formulación, conducción y evaluación de la política ambiental estatal;
+
+III. La conservación, restauración y mejoramiento del ambiente;
+
+IV. Regular la conservación y protección de la biodiversidad, así como el establecimiento y administración de las áreas naturales protegidas de competencia estatal y municipal;
+
+V. La prevención y el control de la contaminación en los casos no reservados a la federación;
+
+VI. Garantizar la participación corresponsable de las personas, en forma individual o colectiva, en la conservación, restauración y protección ambiental en la Entidad;
+
+VII. El ejercicio de las atribuciones que en materia ambiental corresponden al Gobierno del Estado y ayuntamientos, bajo el principio de concurrencia previsto en el artículo 73 fracción XXIX-G de la Constitución Política de los Estados Unidos Mexicanos, y en los artículos 4° y 7° de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+
+VIII. Regular la autorización del impacto ambiental para el desarrollo de obras o actividades de carácter público o privado de competencia local, que puedan causar deterioro ambiental o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente, preservar y restaurar los ecosistemas a fin de evitar o reducir al máximo sus efectos negativos;
+
+IX. El establecimiento de los mecanismos de coordinación, inducción y concertación entre autoridades, entre éstas y los sectores social y privado, así como con personas y grupos sociales en materia ambiental;
+
+X. Regular la autorización de la licencia del uso de suelo a que se refiere esta Ley, y
+
+XI. El establecimiento de medidas de control y de seguridad para garantizar el cumplimiento y la aplicación de la misma y de las disposiciones que de ella se deriven, así como para la imposición de las sanciones administrativas que correspondan y la denuncia ante las instancias competentes en las materias relacionadas.
+
+En lo no previsto por la presente Ley, se aplicarán supletoriamente las disposiciones contenidas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, así como las demás leyes y normas de orden federal y estatal que sean aplicables a esta materia, según el caso de que se trate.
+
+###### ARTICULO 2o.
+
+Se consideran de utilidad pública:
+
+I. La formulación y ejecución de los planes de ordenamiento ecológico de la Entidad, las categorías que los integran y los programas atingentes derivados de los mismos;
+
+II. La formulación y ejecución de las declaratorias de áreas naturales protegidas de jurisdicción estatal o municipal, su protección y conservación, así como sus respectivos planes de manejo y recuperación;
+
+III. El otorgamiento o negativa de la licencia de uso del suelo, respecto de obras y actividades que se pretendan realizar fuera de las áreas urbanas o urbanizables del Estado;
+
+IV. La autorización o negativa para la explotación de bancos de materiales para la construcción, y de aquellas actividades donde se exploten o beneficien productos derivados de la descomposición de las rocas, cuya explotación se realice preponderantemente por medio de trabajos a cielo abierto, así como la protección y conservación de la seguridad del suelo y la rehabilitación de éste, al término de las faenas extractivas;
+
+V. Las acciones en materia de prevención de la contaminación atmosférica, de los mantos freáticos y demás cuerpos de agua, así como del suelo del territorio Estatal o Municipal;
+
+VI. El establecimiento y regulación de zonas intermedias de salvaguarda, y
+
+VII. La formulación y ejecución de acciones de protección y conservación de la biodiversidad del territorio estatal.
+
+###### ARTICULO 3o.
+
+Para los efectos de esta Ley, se entiende por:
+
+I. Aguas de Jurisdicción Estatal: Todas las que no sean de propiedad nacional ni particular conforme a la legislación federal, así como las que determine el ordenamiento local en la materia;
+
+II. Aguas Particulares: Las establecidas en el párrafo quinto del artículo 27 constitucional que no son aguas de jurisdicción federal;
+
+III. Aguas Residuales: Las aguas de composición variada provenientes de actividades municipales, domésticas, industriales, comerciales, agrícolas, pecuarias o de cualquier otra actividad, así como la mezcla de ellas que por el uso o aprovechamiento de que han sido objeto, contengan contaminantes que dañen, modifiquen o alteren su calidad original;
+
+IV. Ambiente: El conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinados;
+
+V. Aprovechamiento Sustentable: La utilización de los elementos naturales y de aquellos donde hay o ha habido intervención humana, en forma tal que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos, por períodos indefinidos;
+
+VI. Biodiversidad: El número de especies existentes y su frecuencia relativa en determinados espacios y tiempos;
+
+VII. Banco de Materiales para la Construcción: El manto, yacimiento o depósito de materiales terrosos y pétreos, susceptibles de ser extraídos de su estado natural, para ser aprovechados en la industria de la construcción;
+
+VIII. Condiciones Particulares de Descarga: Los parámetros máximos permisibles físicos, químicos y biológicos que se establecen con el propósito de controlar las descargas de aguas residuales, que de manera general deberán cumplir quienes descargan éstas a los cuerpos receptores, entre otros, a los sistemas de drenaje y alcantarillado de los centros de población;
+
+IX. Conservación: El conjunto de políticas, métodos, estrategias y medidas para mantener dinámicamente las condiciones que propicien la evolución y continuidad de los ambientes naturales e inducidos;
+
+X. Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause deterioro ambiental que bien puede ser natural, o bien causado por el hombre, en este último caso como resultado de la pérdida de control o por la ineficiencia de procesos inducidos;
+
+XI. Contaminante: Toda materia o energía en cualesquiera de sus estados y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural o inducido, altere o modifique su composición y condición natural;
+
+XII. Contingencia Ambiental: La situación de riesgo derivada de actividades humanas o fenómenos naturales, que pueden poner en peligro la integridad de uno o varios ecosistemas;
+
+XIII. Control: La inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en éste y otros ordenamientos supletorios;
+
+XIV. Costos Ambientales: Los valores del capital natural en recursos y patrimonio que deben evaluarse para aplicar restricciones, sanciones, medidas técnicas y de seguridad, con motivo de un cambio significativo de valor de plusvalía, antropológico y estético;
+
+XV. Criterios Ecológicos: Los lineamientos obligatorios contenidos en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y en esta Ley, para orientar las políticas de conservación y restauración del ambiente, el aprovechamiento sustentable de los elementos naturales e inducidos y la protección al ambiente;
+
+XVI. Daño Ambiental: El perjuicio que se ocasiona o que puede provocarse u ocasionarse a futuro, a los intereses particulares o colectivos, públicos o privados, que han sido sometidos a los efectos del ambiente deteriorado o en proceso de deterioro, que afecten la calidad de vida, en sus diversas formas;
+
+XVII. Desarrollo Sustentable: El proceso evaluable y medible mediante criterios e indicadores de carácter ambiental, económico y social, que tienda a mejorar la calidad de vida y la productividad de las personas, que se funde en medidas apropiadas de conservación y protección del ambiente y aprovechamiento de los elementos naturales e inducidos, para asegurar de las necesidades de las generaciones futuras;
+
+XVIII. Deterioro Ambiental: La alteración de las relaciones de interdependencia entre los elementos naturales e inducidos por el hombre que conforman el ambiente, que afecten negativamente la existencia, transformación y desarrollo humano y de los demás seres vivos;
+
+XIX. Ecosistema: La comunidad de diferentes especies que interactúan entre sí y con los factores físicos y químicos que conforman su entorno no vivo;
+
+XX. Elementos Antrópicos: Todos los elementos materiales, como herramientas, construcciones y productos hechos o transformados por la actividad social y cultural;
+
+XXI. Elementos Naturales: Todos aquellos elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinado sin inducción;
+
+XXII. Fauna Silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo sus poblaciones menores que se encuentren bajo control doméstico;
+
+XXIII. Flora Silvestre: Las especies vegetales, así también los hongos, que subsisten con sujeción a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes de estas especies que se encuentren bajo controles de cultivo;
+
+XXIV. Impacto Ambiental: La modificación del ambiente ocasionado por la acción del hombre o de la naturaleza;
+
+XXV. Licencia de Uso del Suelo: La autorización que otorguen los municipios o el Estado, en el ámbito de sus respectivas competencias, a las personas físicas o morales que lo soliciten, para ocupar o explotar un predio en los casos en que esta ley y otros ordenamientos lo exijan, establecen para un predio determinado en su uso general, las intensidades máximas de aprovechamiento y de ocupación del suelo, señalando asimismo restricciones federales y estatales que pudieren afectarlo;
+
+XXVI. Manifestación del Impacto Ambiental: El documento mediante el cual se da a conocer con base en estudios atingentes, el impacto ambiental significativo y potencial que generaría una obra o actividad, así también la forma de evitarlo o atenuarlo en caso de que sea negativo;
+
+XXVII. Mejoramiento Ambiental: El incremento de la calidad del ambiente;
+
+XXVIII. Material Peligroso: Los elementos, substancias, compuestos, residuos o mezclas de ellos, que independientemente de su estado físico, representen un riesgo para el ambiente, la salud o los recursos naturales, por razón de sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas;
+
+XXIX. Norma Técnica Ecológica Estatal: La regla, método o parámetro científico o tecnológico emitido por la Secretaría de Ecología y Gestión Ambiental, en que quedan establecidos los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deben observarse en el desarrollo de determinadas obras y actividades o el uso y destino de bienes, que causen o puedan causar deterioro ambiental y que permitan uniformar los principios, criterios y políticas en la materia;
+
+XXX. Ordenamiento Ecológico: El instrumento de política ambiental de aplicación en el territorio del Estado, cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del ambiente, la conservación y el aprovechamiento sustentable de los elementos naturales y antrópicos, a partir del análisis de las tendencias de deterioro y de las potencialidades de aprovechamiento de los mismos;
+
+XXXI. Prevención Ambiental: El conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+
+XXXII. Procesos Ambientales: La relación de interdependencia entre los elementos naturales y antrópicos que conforman el ambiente, que hace posible la existencia, transformación y desarrollo de los seres vivos;
+
+XXXIII. Protección Ambiental: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
+
+XXXIV. Recursos Naturales: Los componentes naturales como los minerales, nutrientes del suelo, las capas más profundas de la corteza terrestre y el agua, asimismo, los animales, los vegetales y otros productos de procedencia natural, susceptibles de incorporación a procesos de diversa índole;
+
+XXXV. Recursos Naturales No Renovables: Aquellos que existen en una cantidad determinada, contenidos en diversas partes de la corteza terrestre, con posibilidad de renovación y acopio sólo por medio de procesos geológicos, físicos y químicos de tiempo inveterado y con riesgo de agotamiento por el exceso en su extracción y utilización;
+
+XXXVI. Recursos Naturales Renovables: Aquellos susceptibles de duración indefinida, sin la reducción del abasto disponible, considerándose su reemplazo con mayor rapidez mediante procesos naturales, respecto a los considerados como no renovables;
+
+XXXVII. Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento, cuya degradación y deterioro no permita usarlo nuevamente en el proceso que lo generó;
+
+XXXVIII. Residuos Peligrosos: Todos los restos en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o infecciosas representen un peligro para el ambiente;
+
+XXXIX. Residuos Sólidos Municipales: Todos los remanentes que en estado sólido provengan de actividades domésticas no industriales y que no tengan las características de los residuos peligrosos y cuyo manejo corresponde a los municipios;
+
+XL. Residuos Industriales No Peligrosos: Todos los desechos en cualquier estado físico generados en los procesos industriales, que no tengan las características de los residuos peligrosos;
+
+XLI. Restauración: El conjunto de acciones tendientes a la recuperación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales;
+
+XLII. Secretaría de Ecología y Gestión Ambiental: La autoridad administrativa dependiente del Poder Ejecutivo del Estado, encargada entre otras funciones, de formular, conducir y evaluar la política ambiental en la Entidad, según los términos previstos en la Ley Orgánica de la Administración Pública del Estado;
+
+XLIII. Unidad de Gestión Ambiental: La entidad natural representada por una microcuenca hidrográfica, en la que todos los aspectos y elementos naturales se encuentren relacionados entre sí y en donde pueden existir diversos ecosistemas, cuyo objetivo sea garantizar la salud y preservación de los mismos a través de la ejecución de obras, servicios y acciones concertadas entre las autoridades y los habitantes de la propia unidad. Estas microcuencas se establecerán en los términos del ordenamiento ecológico del territorio, emitido por la autoridad competente;
+
+XLIV. Vocación Natural: Las condiciones que presenta un ecosistema para sostener una o varias actividades, sin que se produzca deterioro ambiental;
+
+XLV. Instrumentos Económicos: Los mecanismos normativos y administrativos de carácter fiscal, financiero o de mercado, mediante los cuales las personas físicas y morales asumen los beneficios y costos que generen sus actividades económicas, con el incentivo de realizar acciones que favorezcan el ambiente en la Entidad;
+
+XLVI. Instrumentos de Carácter Fiscal: Los estímulos fiscales que incentiven el cumplimiento de los objetivos de la política ambiental; las que en ningún caso, se establecerán con fines exclusivamente recaudatorios;
+
+XLVII. Instrumentos Financieros: Los créditos, fianzas, los seguros de responsabilidad civil, los fondos y los fideicomisos, cuando sus objetivos estén dirigidos a la conservación, protección, restauración o aprovechamiento sustentable del ambiente, así como al financiamiento de programas, proyectos, estudios de investigación científica y tecnológica para la conservación ambiental en la Entidad, y
+
+XLVIII. Instrumentos de Mercado: Las concesiones, autorizaciones, licencias y permisos que correspondan a volúmenes preestablecidos de emisiones de contaminantes en el aire, agua o suelo, o bien que establezcan límites de aprovechamiento de recursos naturales de construcción, en áreas naturales protegidas de competencia estatal o municipal así también en zonas cuya conservación y protección se considere relevante desde el punto de vista ambiental.
+
+###### ARTICULO 4o.
+
+Los instrumentos de la política ambiental estatal y municipal señalados en el Título Cuarto de esta Ley, así como todo otro acto de autoridad o medida del gobierno estatal y de los ayuntamientos que, directa o indirectamente, se refieran a las materias comprendidas en dicha política, deberán encuadrarse en el régimen que establezcan los reglamentos, bandos de policía y buen gobierno de los municipios y la normatividad ambiental que expidan la Federación y el Gobierno de la Entidad, de conformidad con lo establecido en la Ley General del Equilibrio Ecológico y la Protección al Ambiente y en la presente Ley.
+
+Cuando las autorizaciones, licencias y permisos, que por cualquier concepto expidan las autoridades estatales o municipales, se refieran precisa o incidentalmente a materias ambientales, sus titulares quedarán sujetos, en lo que corresponda, al cumplimiento de las obligaciones, limitaciones y prohibiciones contempladas en los reglamentos y la normatividad ambiental a que se refiere el párrafo anterior.
+
+###### ARTICULO 5o.
+
+Para los efectos de este ordenamiento, se denominarán:
+
+I. A la presente, Ley Ambiental del Estado de San Luis Potosí, la Ley;
+
+II. A la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la LGEEPA;
+
+III. A la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, la SEMARNAP;
+
+IV. A la Procuraduría Federal de Protección al Ambiente, la PROFEPA;
+
+V. A la Comisión Nacional del Agua, la CNA;
+
+VI. A la Secretaría de Ecología y Gestión Ambiental, la SEGAM;
+
+VII. A la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas, la SEDUCOP;
+
+VIII. A la Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos, la SEDARH, y
+
+IX. A la Comisión Intersecretarial Estatal para el Control de Plaguicidas, Fertilizantes y Sustancias Tóxicas, CESPLAFEST.
+
+## TITULO SEGUNDO. DE LA DISTRIBUCION DE COMPETENCIAS Y COORDINACION
+
+### CAPITULO UNICO
+
+###### ARTICULO 6o.
+
+El Gobierno del Estado a través de la SEGAM y los municipios, ejercerán sus atribuciones en materia de protección, conservación y restauración del ambiente, de conformidad con la distribución de competencias prevista en esta Ley y en las disposiciones legales aplicables.
+
+###### ARTICULO 7o.
+
+Corresponden al Ejecutivo del Estado las atribuciones que a continuación se establecen:
+
+I. La formulación, conducción y evaluación de la política ambiental de la Entidad;
+
+II. La aplicación de los principios e instrumentos de política ambiental previstos en los artículos 12 y 13 de esta Ley, en los términos en ellos establecidos, así como la regulación de las acciones para la protección, conservación y restauración del ambiente que se realice en bienes y zonas de jurisdicción estatal, con excepción de los asuntos reservados a la competencia federal;
+
+III. La atención de los asuntos que afecten el ambiente en el territorio del Estado;
+
+IV. La regulación del aprovechamiento sustentable, la prevención y control de la contaminación de las aguas de jurisdicción estatal, así como de las aguas nacionales que la federación hubiese asignado al Estado;
+
+V. La expedición de normas ambientales de jurisdicción estatal y la vigilancia de su cumplimiento en las materias previstas en esta Ley;
+
+VI. La expedición de los dictámenes técnicos previos a la emisión de concesiones, licencias, permisos y autorizaciones que correspondan para el uso y aprovechamiento de las aguas de jurisdicción estatal, y de los recursos acuáticos asociados;
+
+VII. La expedición de permisos y autorizaciones, que por exclusión no sean de competencia federal en materia de desmonte de arbolado y limpieza de terrenos, en coordinación con los ayuntamientos y demás autoridades correspondientes;
+
+VIII. El establecimiento, regulación, administración y vigilancia de las áreas naturales protegidas de competencia estatal, con la participación de los gobiernos municipales, de las organizaciones no gubernamentales, pueblos indígenas, ejidos, comunidades, y pequeños propietarios, en los términos de la presente Ley así como en los términos que lo establece la LGEEPA;
+
+IX. La participación en emergencias y contingencias ambientales, conforme a las políticas y programas de protección civil que al efecto se establezcan;
+
+X. La regulación y el control de las actividades que no sean consideradas altamente riesgosas para el ambiente, en los términos previstos en la LGEEPA y en esta Ley;
+
+XI. El establecimiento de requisitos y procedimientos para la prevención y control de la contaminación atmosférica generada en la Entidad por diversas actividades, tanto del sector público como del privado, así también de las fuentes fijas que provengan de establecimientos industriales, comerciales, de servicios y de espectáculos públicos, y por toda clase de fuentes móviles que circulen en su territorio, así como para autorizar los centros de verificación vehicular en la Entidad;
+
+XII. La expedición del permiso de operación para fuentes fijas de emisiones a la atmósfera de jurisdicción estatal, así como las autorizaciones en esta materia a que se refiere la presente Ley;
+
+XIII. La regulación de los sistemas de recolección, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos municipales e industriales no peligrosos, de conformidad con lo dispuesto por el artículo 137 de la LGEEPA, incluyendo la selección, determinación y autorización de los sitios destinados a la disposición final de estos residuos, con la participación de los ayuntamientos;
+
+XIV. La prevención y el control de la contaminación generada por la emisión de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales a la salud pública o en general al ambiente, provenientes de diversas actividades tanto del sector público como del privado y de fuentes fijas que provengan de establecimientos industriales, comerciales, de servicios y espectáculos públicos entre otros, y en su caso, de fuentes móviles, en los términos previstos por la LGEEPA y esta Ley;
+
+XV. La prevención, regulación, control, vigilancia e inspección del aprovechamiento de los minerales o sustancias no reservadas a la acción de la federación que constituyan depósitos de naturaleza similar a los componentes de los terrenos, tales como rocas o productos de su descomposición, que sólo puedan utilizarse para la fabricación de materiales para la construcción u ornamento de obras, así como de aquellas actividades, cuya explotación se realice preponderantemente por medio de trabajos a cielo abierto y de la contaminación generada por éstas, asimismo abrir, conservar y llevar para su consulta los registros de los bancos de materiales y de las autorizaciones que emita la SEGAM;
+
+XVI. La atención de los asuntos referentes a la afectación del ambiente de dos o más municipios de la Entidad, en coordinación con los ayuntamientos correspondientes;
+
+XVII. La formulación, expedición y ejecución del ordenamiento ecológico del territorio a que se refiere el artículo 20 Bis 2 de la LGEEPA, con la participación de los municipios respectivos;
+
+XVIII. Determinar los porcentajes mínimos de suelos de la Entidad que requieran estar protegidos por una cubierta forestal permanente, atendidas sus condiciones topográficas, agrológicas y climáticas, así como los coeficientes máximos de capacidad forrajera de los suelos para la conservación de su capa o cubierta vegetal, como parte del ordenamiento ecológico del territorio;
+
+XIX. La vigilancia del cumplimiento de las normas oficiales mexicanas expedidas por la federación, en las materias y supuestos a que se refieren las fracciones III, VI y VII del artículo 7° de la LGEEPA;
+
+XX. La evaluación del impacto ambiental de las obras o actividades que no se encuentren expresamente reservadas a la federación, y en su caso, la expedición de las autorizaciones correspondientes en los términos establecidos en la presente Ley;
+
+XXI. La conducción de la política estatal de información y difusión en materia ambiental;
+
+XXII. La promoción de la participación de la sociedad en materia ambiental, de conformidad con lo dispuesto en la LGEEPA y en esta Ley;
+
+XXIII. La formulación, ejecución y evaluación del programa estatal de protección al ambiente;
+
+XXIV. El ejercicio de las funciones que en materia de conservación y protección al ambiente, sean transferidas al Gobierno del Estado por la federación;
+
+XXV. La emisión de recomendaciones a las autoridades federales, estatales y municipales, con el propósito de promover el cumplimiento de la legislación ambiental;
+
+XXVI. La atención coordinada con la federación de asuntos que afecten el ambiente de dos o más entidades federativas, cuando así lo considere conveniente el Gobierno del Estado;
+
+XXVII. Celebrar acuerdos de coordinación con los gobiernos federal y municipales, así como convenios de concertación con los sectores social y privado, para el ejercicio de las acciones relativas y la plena consecución de los fines de la Ley;
+
+XXVIII. La formulación de los listados de actividades riesgosas, así como de las obras y actividades que generen impacto significativo;
+
+XXIX. La adopción de medidas de seguridad y la aplicación de sanciones administrativas, en los casos contemplados en esta Ley y demás disposiciones atingentes;
+
+XXX. Establecer con la participación de los ayuntamientos respectivos por sí, o a través de los organismos operadores del agua, condiciones generales de descarga para los centros de población y condiciones particulares de descarga a los usuarios de los sistemas de drenaje y alcantarillado municipal;
+
+XXXI. La organización y operación, con participación en su caso de la autoridad sanitaria estatal y los ayuntamientos por sí, o por conducto de los organismos operadores del agua, del sistema estatal de monitoreo de la calidad de las aguas de jurisdicción estatal, de las aguas federales asignadas para la prestación de servicios públicos y de las aguas residuales que sean descargadas a los sistemas municipales de alcantarillado;
+
+XXXII. La elaboración de informes periódicos sobre el estado del ambiente en el territorio estatal;
+
+XXXIII. La prestación de apoyo y auxilio técnico a los ayuntamientos y a los organismos operadores del agua que lo precisen, para el cumplimiento de las atribuciones que esta Ley les otorga;
+
+XXXIV. Expedir los dictámenes técnicos previos al otorgamiento de las licencias de uso de suelo, respecto de las obras o actividades de carácter público o privado que puedan causar impacto ambiental significativo o que sean consideradas como riesgosas, situadas dentro de los centros de población y asentamientos humanos, así como en los casos de obras o actividades que se pretendan desarrollar fuera de los mismos;
+
+XXXV. Inspeccionar las obras o actividades que lo requieran y sancionar en los casos que así lo ameriten, en los términos previstos en esta Ley y demás disposiciones aplicables, en aquellos a que alude el Décimo Transitorio de este ordenamiento sólo en cuanto este último esté vigente;
+
+XXXVI. Elaborar para su aprobación, las declaratorias de áreas naturales protegidas de jurisdicción estatal y sus respectivos planes de manejo;
+
+XXXVII. Aprobar las declaratorias de áreas naturales protegidas de jurisdicción estatal y sus respectivos planes de manejo;
+
+XXXVIII. Participar en la elaboración y ejecución de los Planes de Desarrollo Urbano, previstos en la legislación estatal aplicable, y
+
+XXXIX. Las demás atribuciones que le confieran esta Ley y otras disposiciones legales y reglamentarias aplicables.
+
+Las facultades precedentes serán ejercidas indistintamente por el titular del Ejecutivo del Estado o por conducto de la SEGAM, a excepción de la establecida en la fracción XXXVII de este artículo, que será de la competencia exclusiva del mismo.
+
+###### ARTICULO 8o.
+
+Corresponde a los ayuntamientos el ejercicio de las atribuciones siguientes:
+
+I. La formulación, conducción y evaluación de la política ambiental municipal;
+
+II. La aplicación de los principios e instrumentos de política ambiental previstos en el Título Cuarto de esta Ley, así como la protección, conservación y restauración del ambiente en bienes y zonas de jurisdicción municipal, en las materias que no estén expresamente atribuidas a la federación o al Gobierno del Estado;
+
+III. La participación en la formulación, aprobación y expedición de los planes de ordenamiento ecológico del territorio a que se refiere el artículo 20 Bis 4 de la LGEEPA, en los términos en ella previstos, así como el control y la vigilancia del uso y cambio de uso del suelo, establecidos en dichos planes;
+
+IV. La aplicación de las disposiciones jurídicas en materia de prevención y control de la contaminación atmosférica generada por fuentes fijas que provengan de establecimientos mercantiles o de servicios, así como de las emisiones de contaminantes a la atmósfera provenientes de fuentes móviles que no sean consideradas de jurisdicción federal, con la participación que corresponda al Gobierno del Estado en los términos previstos en esta Ley, así como para el otorgamiento de permisos para combustiones a cielo abierto, cuyo propósito sea adiestrar y capacitar al personal encargado del combate de incendios;
+
+V. La aplicación de las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por la generación, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos municipales e industriales, que no estén considerados como peligrosos, de conformidad con lo dispuesto en el artículo 137 de la LGEEPA y en los términos previstos en esta Ley;
+
+VI. Autorizar y regular el manejo y disposición final de los residuos sólidos municipales e industriales no peligrosos, en concordancia con la normatividad ambiental federal y, en su caso, con la estatal correspondiente;
+
+VII. La creación y administración de las áreas naturales protegidas de jurisdicción estatal y la creación de las municipales, con la participación de organizaciones no gubernamentales, pueblos indígenas, ejidos, comunidades agrarias y pequeños propietarios en los términos que lo establecen la presente Ley y la LGEEPA;
+
+VIII. La aplicación de las disposiciones jurídicas relativas a la prevención y control de la contaminación por ruido, efecto visual, vibraciones, energía térmica, radiaciones electromagnéticas, lumínicas y olores perjudiciales para el ambiente, proveniente de fuentes fijas por el funcionamiento de establecimientos comerciales o de servicios, así como la vigilancia del cumplimiento de las disposiciones que, en su caso, resulten aplicables a las fuentes móviles, excepto las que conforme a la LGEEPA sean consideradas de jurisdicción federal;
+
+IX. La aplicación por sí o por conducto de los organismos operadores del agua, de las disposiciones jurídicas en materia de prevención y control de la contaminación de las aguas, que se descarguen en los sistemas de drenaje y alcantarillado de los centros de población, así como de las aguas nacionales que tengan asignadas, con la participación que corresponda en los términos de esta Ley al Gobierno del Estado;
+
+X. La participación en emergencias y contingencias ambientales conforme a las políticas y programas de protección civil que al efecto se establezcan;
+
+XI. La participación en la atención de los asuntos que afecten el ambiente de dos o más municipios y que generen efectos ambientales en su circunscripción territorial;
+
+XII. La protección, conservación y restauración del ambiente en sus centros de población, en relación con los efectos derivados de los servicios de alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, tránsito y transporte;
+
+XIII. Requerir a quienes realicen actividades contaminantes, la instalación de equipos de control de emisiones, salvo para aquellas que sean de jurisdicción federal o estatal;
+
+XIV. La vigilancia del cumplimiento de las normas oficiales mexicanas expedidas por la federación, en las materias y supuestos a que se refieren las fracciones III, IV, VI y VII del artículo 8 de la LGEEPA, así como de la normatividad estatal;
+
+XV. Solicitar a la SEMARNAP exija la instalación de equipos de control de emisiones en los casos de actividades que se realicen en la Entidad y sean de competencia federal;
+
+XVI. Establecer y operar sistemas de verificación de emisiones de contaminantes a la atmósfera para los vehículos automotores que circulen por el territorio del respectivo municipio, con la participación que corresponda en los términos de la presente Ley, al Gobierno del Estado;
+
+XVII. Aplicar las medidas de tránsito y vialidad necesarias para reducir los niveles de emisión de contaminantes a la atmósfera de los vehículos automotores, incluso limitar su circulación cuando los niveles de emisión de contaminantes excedan los máximos permisibles, establecidos en la normatividad ambiental;
+
+XVIII. La formulación y conducción de la política municipal de información y difusión en materia ambiental;
+
+XIX. Expedir las licencias de uso de suelo conforme a los lineamientos establecidos en la Ley de Desarrollo Urbano, en la presente Ley, en los planes de ordenamiento ecológico, de desarrollo urbano y demás disposiciones normativas y reglamentarias aplicables;
+
+XX. Promover previamente ante la SEGAM y participar en la evaluación del impacto ambiental de obras o actividades de competencia estatal que puedan causar impacto ambiental significativo, cuando las mismas se pretendan realizar en el ámbito de su circunscripción territorial, a fin de otorgar, en los términos de dicha evaluación y autorización, la licencia de uso de suelo municipal de construcción y la licencia de operación o funcionamiento correspondientes;
+
+XXI. La formulación, ejecución y evaluación del programa municipal de protección al ambiente;
+
+XXII. Exigir por sí o a través de los organismos operadores del agua, la instalación de sistemas de tratamiento a quienes exploten, usen o aprovechen aguas federales asignadas a los municipios para la prestación de servicios públicos, así como a quienes viertan descargas a los sistemas municipales de drenaje y alcantarillado, de aguas residuales que no satisfagan la normatividad ambiental;
+
+XXIII. Implementar y operar por sí o a través de los organismos operadores del agua, sistemas municipales de tratamiento de aguas residuales provenientes de sistemas de drenaje y alcantarillado;
+
+XXIV. Regular en el ámbito de su competencia, por sí o a través de los organismos operadores del agua, en coordinación con las autoridades competentes, las actividades de riego agrícola y de riego de áreas verdes o recreativas, con aguas residuales;
+
+XXV. Aplicar por sí o a través de los organismos operadores del agua, en las obras e instalaciones municipales destinadas al tratamiento de aguas residuales, los criterios que emitan las autoridades federales y estatales, para que las descargas en cuerpos y corrientes de agua que pasen al territorio de otro municipio u otra entidad federativa, den cumplimiento a la normatividad ambiental;
+
+XXVI. Llevar y actualizar de manera permanente por sí o por conducto de los organismos operadores del agua, el registro municipal de las descargas a las redes de drenaje y alcantarillado que administren e integrar sus datos al Registro Nacional de Descargas;
+
+XXVII. Aplicar por sí o a través de los organismos operadores del agua, las cuotas, tarifas, derechos y sanciones, que en su caso establezcan las disposiciones jurídicas aplicables a los usuarios que descarguen aguas residuales a la red de drenaje y alcantarillado de los centros de población, y que sobrepasen los límites máximos permisibles de contaminantes en los parámetros establecidos en la normatividad vigente;
+
+XXVIII. Elaborar informes periódicos sobre el estado del ambiente en el respectivo municipio;
+
+XXIX. Celebrar con la federación, el Estado y los sectores social y privado, convenios de concertación para la realización de acciones en las materias de esta Ley y que se encuentren en su órbita de competencia;
+
+XXX. Participar en la organización y administración de las áreas naturales protegidas que se ubiquen dentro del correspondiente municipio, en los términos de los artículos 46 y 67 de la LGEEPA o en los términos que se convengan con la SEMARNAP y con el Gobierno del Estado;
+
+XXXI. Aplicar por sí o a través de los organismos operadores del agua, las medidas de seguridad e imponer las sanciones administrativas que correspondan, en el ámbito de su competencia y de conformidad con esta Ley;
+
+XXXII. Expedir y adecuar los Bandos de Policía y Buen Gobierno, así como los reglamentos, circulares y demás actos administrativos que fueren convenientes o necesarios para la mejor observancia de la Ley, y
+
+XXXIII. La atención de los demás asuntos que en materia de conservación ambiental les conceda la LGEEPA, esta Ley u otros ordenamientos, en concordancia con éstas y que no estén otorgados expresamente a la federación o al Estado.
+
+###### ARTICULO 9o.
+
+En el ejercicio de las facultades que en materia agrícola, ganadera, forestal, hidráulica, pesquera, aprovechamiento de los elementos naturales y antrópicos, le otorga a la SEDARH y a otras dependencias estatales la Ley Orgánica de la Administración Pública del Estado, se deberán observar los principios, criterios y normas establecidos en otras leyes, sus reglamentos, en la presente Ley y sus disposiciones reglamentarias para el aprovechamiento sustentable de los mismos, la protección, conservación y restauración ambiental, la regulación de las actividades que puedan generar efectos nocivos y la evaluación del impacto ambiental y demás disposiciones legales y reglamentarias pertinentes.
+
+Los principios, criterios y normas a que se refiere el párrafo anterior serán de observancia y aplicación estricta y obligatoria en la formulación de los planes y programas sectoriales, así como en toda acción emprendida o por emprender por cualquier autoridad estatal o municipal. La inobservancia e inaplicación de los principios y criterios normativos por parte de las autoridades estatales y municipales, en la ejecución de obras públicas y acciones serán objeto de sanción en los términos previstos en la presente Ley.
+
+###### ARTICULO 10.
+
+Para la protección y aprovechamiento de los recursos naturales corresponderá a la SEGAM, en coordinación con la SEDARH y con las dependencias estatales que en su caso corresponda, las atribuciones y obligaciones siguientes:
+
+I. Efectuar y promover estudios, investigaciones y experimentaciones a fin de determinar los mejores métodos para la conservación del suelo y sus recursos;
+
+II. Solicitar de las autoridades competentes, que adopten las medidas que correspondan para que los ejidos, comunidades y los pequeños propietarios de la Entidad, den cumplimiento a las medidas de cuidado y conservación del suelo, subsuelo, agua y bosques, contribuyendo a la realización de los programas correspondientes;
+
+III. Promover ante la Secretaría de Agricultura, Ganadería y Desarrollo Rural de la federación, que en las unidades de producción cuya organización le corresponda impulsar en el territorio estatal, de acuerdo a las leyes de la materia, se apliquen las acciones concretas que se propongan para lograr la protección del suelo, subsuelo y los demás recursos naturales;
+
+IV. Promover y participar en los programas que tiendan a evitar la sobreutilización y degradación de los suelos, así como vigilar el cumplimiento de las disposiciones de las leyes de la materia en los casos de minifundios, tierras ociosas y demás relativas;
+
+V. Celebrar con el acuerdo del titular del Ejecutivo del Estado, acuerdos de coordinación con la federación y municipios, así también los convenios de concertación de acciones con los sectores social y privado, conducentes a los propósitos contenidos en las fracciones I a IV de este artículo, y
+
+VI. Impulsar y participar cuando corresponda, en la elaboración, implementación y control de los programas pertinentes.
+
+## TITULO TERCERO. DE LA POLITICA AMBIENTAL
+
+### CAPITULO UNICO
+
+###### ARTICULO 11.
+
+El criterio general básico para la elaboración, orientación y aplicación de la política estatal y municipal en materia de protección y aprovechamiento de los recursos naturales de la Entidad, así como de los programas de acciones, obras y servicios, acuerdos de coordinación y convenios de concertación, a través de los cuales aquellas se desarrollan, será el de hacer compatibles los ciclos ecológicos, la renovabilidad y capacidad de los suelos, la diversidad biológica de los ecosistemas y el equilibrio de las estructuras hidrológicas, con los modelos productivos y métodos tecnológicos en aplicación, sus principios económicos y el propósito esencial de eficientar sus resultados, a fin de no atentar de manera irreversible la conservación y renovabilidad de los recursos naturales.
+
+###### ARTICULO 12.
+
+La política ambiental del Estado responderá a las peculiaridades ecológicas de la Entidad y guardará concordancia con los lineamientos de acción nacionales que establezca la federación, para lo cual observará los siguientes principios:
+
+I. Los ecosistemas son patrimonio común de la sociedad y de su equilibrio dinámico dependen la vida y las posibilidades productivas del estado y del país;
+
+II. Los ecosistemas y sus elementos deben ser aprovechados de manera que se asegure una productividad óptima y sostenida, compatible con su equilibrio dinámico e integridad;
+
+III. Las autoridades de la Entidad y los particulares deben asumir una responsabilidad respecto de la protección del ambiente;
+
+IV. Quien realice obras o actividades ya sea del sector público o del sector privado que afecten o puedan afectar el ambiente, está obligado a prevenir, minimizar o remediar los daños que cause, así como a asumir los costos ambientales que dicha afectación implique; asimismo, debe incentivarse a quien proteja el ambiente y aproveche de manera sustentable y responsable los recursos naturales;
+
+V. La responsabilidad respecto al ambiente comprende tanto las condiciones presentes como las que se determinen para la calidad de vida de las futuras generaciones;
+
+VI. La prevención de las causas que generan o pueden generar impactos ambientales adversos, se reconoce como el medio más eficaz para evitar el deterioro ambiental;
+
+VII. El aprovechamiento de los recursos naturales renovables deberá realizarse de manera que se asegure el mantenimiento de su diversidad y renovabilidad;
+
+VIII. Los recursos naturales no renovables deben ser utilizados de modo que se evite el peligro de su agotamiento y la generación de efectos ambientales adversos;
+
+IX. La coordinación entre las dependencias y entidades de la administración pública y entre los distintos ámbitos de gobierno, así como la concentración con la sociedad, son indispensables para la eficacia de las acciones ambientales;
+
+X. Son sujetos principales de la concertación ambiental, no solamente los individuos, sino también los grupos y organizaciones sociales. El propósito de la concertación de acciones ambientales es para reorientar la relación entre la sociedad y la naturaleza;
+
+XI. Toda persona tiene derecho a disfrutar de un ambiente adecuado para su desarrollo, salud y bienestar; las autoridades en los términos de ésta y otras leyes, tomarán las medidas para garantizar ese derecho fundamental;
+
+XII. Debe garantizarse el derecho de las comunidades y pueblos indígenas a la protección, conservación, uso y aprovechamiento sustentable de los elementos naturales y antrópicos, a la salvaguarda y uso de la biodiversidad biológica y cultural de su entorno, de acuerdo a lo que determine la LGEEPA, esta Ley y otros ordenamientos aplicables;
+
+XIII. El mejoramiento de las condiciones de vida de la población es necesaria para el desarrollo sustentable;
+
+XIV. El control y la prevención de la contaminación ambiental, el adecuado aprovechamiento de los elementos naturales y el mejoramiento del entorno natural en los asentamientos humanos, son elementos fundamentales para evitar el deterioro ambiental y elevar la calidad de vida de los habitantes de la Entidad;
+
+XV. Es interés y responsabilidad del Gobierno del Estado que las actividades que se lleven a cabo dentro del territorio de la Entidad y en aquellas zonas donde ejerce su soberanía y jurisdicción, no afecten el ambiente de otras entidades federativas o de zonas de jurisdicción federal;
+
+XVI. Las autoridades competentes, en igualdad de circunstancias ante los demás estados de la federación, promoverán la conservación y restauración del equilibrio dinámico de los ecosistemas regionales, y
+
+XVII. La gestión ambiental municipal, así como la descentralización de funciones hacia los municipios del Estado, es de orden fundamental y prioritario para el Gobierno del Estado, con el fin de avanzar hacia un auténtico desarrollo sustentable.
+
+## TITULO CUARTO. INSTRUMENTOS DE POLITICA AMBIENTAL
+
+### CAPITULO I. PLANEACION AMBIENTAL
+
+###### ARTICULO 13.
+
+En la planeación estatal del desarrollo se deberá incorporar la política ambiental y el ordenamiento ecológico del territorio de la Entidad, que se establezcan de conformidad con la LGEEPA, esta Ley y las demás disposiciones en la materia.
+
+En la planeación y realización de las acciones a cargo de las dependencias y entidades de la administración pública estatal, conforme a sus respectivas esferas de competencia, así como en el ejercicio de las atribuciones que las leyes confieran al Gobierno del Estado para regular, promover, restringir, prohibir, orientar y en general inducir las acciones de los particulares en los campos económico y social, se observarán los lineamientos de política ambiental que establezcan el Plan Estatal de Desarrollo y los programas correspondientes.
+
+###### ARTICULO 14.
+
+Los instrumentos mediante los cuales el Estado y los ayuntamientos, en su caso, llevarán a cabo los propósitos de la política ambiental, son los siguientes:
+
+I. Los planes de ordenamiento ecológico del territorio y los programas derivados de los mismos, así como las declaratorias de áreas naturales protegidas de jurisdicción estatal y municipal, así como sus correspondientes planes de manejo o recuperación que, como integrantes del ordenamiento ecológico de la Entidad están establecidos y regulados en esta Ley;
+
+II. Las licencias de uso del suelo;
+
+III. Los instrumentos económicos;
+
+IV. La autorización en materia de impacto ambiental para el desarrollo de obras y actividades, que pueden generar deterioro ambiental o rebasar los límites y condiciones establecidas en la normatividad ambiental vigente;
+
+V. Los acuerdos de coordinación entre los diferentes ámbitos de gobierno y los convenios de concertación con las organizaciones representativas de la comunidad;
+
+VI. Las medidas para prevenir contingencias ambientales o controlar emergencias ecológicas;
+
+VII. Los sistemas de monitoreo atmosférico, así como sus laboratorios de análisis;
+
+VIII. El sistema de información, seguimiento y evaluación de los programas derivados de los planes de desarrollo urbano y ordenamiento ecológico del territorio, así como las declaratorias de áreas naturales protegidas de competencia estatal y municipal, e igualmente de las autorizaciones en materia de impacto ambiental y de los demás actos relativos de las autoridades estatales y municipales;
+
+IX. La inspección, vigilancia, control y medidas de seguridad que la SEGAM y los respectivos Ayuntamientos por sí o por conducto de los organismos operadores del agua en el ámbito de su competencia realicen, así como las sanciones administrativas que procedan en uso de las facultades que la presente Ley y las disposiciones reglamentarias aplicables les otorgan, y
+
+X. La participación ciudadana en los términos previstos en esta Ley.
+
+### CAPITULO II. ORDENAMIENTO ECOLOGICO
+
+###### ARTICULO 15.
+
+En la formulación del ordenamiento ecológico de la Entidad se deberán considerar los siguientes criterios:
+
+I. La naturaleza y características de los ecosistemas existentes en el territorio estatal y en las zonas sobre las que el Estado ejerce su Soberanía y jurisdicción;
+
+II. La vocación de cada zona o región en función de sus recursos naturales, la distribución y dinámica de la población y las actividades económicas predominantes;
+
+III. El deterioro ambiental existente en los ecosistemas por efecto de los asentamientos humanos, de las actividades económicas o de otras actividades humanas;
+
+IV. El equilibrio dinámico que debe existir entre los asentamientos humanos y sus condiciones ambientales, y
+
+V. El impacto ambiental de nuevos asentamientos humanos, vías de comunicación y demás obras o actividades.
+
+###### ARTICULO 16.
+
+El ordenamiento ecológico de la Entidad y de las zonas sobre las que el Estado ejerce su soberanía y jurisdicción, se llevará a cabo a través de los planes de ordenamiento ecológico regionales y locales.
+
+###### ARTICULO 17.
+
+El plan de ordenamiento ecológico de la Entidad será formulado por la SEGAM, en los términos de la presente Ley, de los demás ordenamientos, disposiciones reglamentarias y normativas aplicables, y al efecto tendrá por objeto determinar:
+
+I. La regionalización ecológica del territorio estatal y las diferentes políticas ambientales para el territorio del Estado, a partir del diagnóstico de las características, disponibilidad y demanda de los recursos naturales, así como de las actividades productivas que en ellas se desarrollen, además de la ubicación y situación de los asentamientos humanos existentes, y
+
+II. Los criterios ecológicos, los lineamientos y estrategias ambientales para que se lleven a cabo las políticas de conservación, protección, restauración y aprovechamiento sustentable de los elementos naturales y antrópicos, así como para la localización de actividades productivas y de los asentamientos humanos, y finalmente, las obras, servicios y acciones que se deban de realizar para cumplir las políticas propuestas y alcanzar el desarrollo sustentable en la Entidad.
+
+###### ARTICULO 18.
+
+La formulación, expedición, ejecución y evaluación del ordenamiento ecológico en la Entidad, se llevará a cabo de conformidad con lo dispuesto en los ordenamientos aplicables de carácter estatal. Asimismo, la SEGAM deberá promover la participación de grupos, organizaciones sociales, empresariales, instituciones académicas, de investigación y de las personas interesadas, de preferencia de la Entidad, de conformidad con lo establecido en esta Ley, así como en las demás disposiciones que resulten aplicables.
+
+La SEGAM creará Unidades de Gestión Ambiental, cuyo objetivo será garantizar la salud y preservación de los ecosistemas a través de la ejecución de obras, servicios y acciones concertados entre las autoridades y los habitantes de las propias unidades, para lo cual podrá crear Consejos de Gestión Ambiental correspondientes a estas unidades, en cuyo seno serán presentados y discutidos los programas y acciones de las mismas, tendientes a alcanzar los objetivos propios de la política ambiental. Las Unidades y los Consejos de Gestión Ambiental podrán crearse mediante Acuerdo Administrativo.
+
+###### ARTICULO 19.
+
+El ordenamiento ecológico podrá elaborarse unitariamente o por regiones en los términos que determine la SEGAM.
+
+En el caso de una región ecológica ubicada en el territorio del Estado y de otra u otras entidades federativas, se estará a lo dispuesto en el segundo párrafo del artículo 20 Bis 2 de la LGEEPA.
+
+Cuando se hubieren conformado Unidades de Gestión Ambiental donde las microcuencas hidrográficas se ubiquen en dos o más estados, el Gobierno del Estado impulsará la celebración de convenios de cooperación y colaboración con los gobiernos de las demás entidades federativas y con los municipios de que se trate; de no existir convenios, las Unidades de Gestión Ambiental y los Consejos que se hubieren conformado para la atención de las mismas, desarrollarán las actividades que les son propias, exclusivamente dentro del territorio del Estado.
+
+###### ARTICULO 20.
+
+Los planes de ordenamiento ecológico deberán contener, por lo menos:
+
+I. La determinación del área o región a ordenar, describiendo sus atributos físicos, bióticos y socioeconómicos, así como el diagnóstico de sus condiciones ambientales y las tecnologías utilizadas por los habitantes del área;
+
+II. La determinación de las políticas ambientales para la conservación, protección, restauración y aprovechamiento sustentable de los recursos naturales en las áreas de ordenamiento, así como la propuesta de lineamientos y criterios ecológicos para inducir un aprovechamiento sustentable de los recursos naturales, así como las obras, servicios y acciones que prioritariamente se deberán realizar para alcanzar este desarrollo, definiendo con las propuestas de uso del suelo, la distribución de las actividades productivas y la ubicación de los asentamientos humanos, y
+
+III. Los lineamientos para su ejecución, evaluación, seguimiento y modificación.
+
+###### ARTICULO 21.
+
+Los ayuntamientos, de conformidad con la presente Ley y demás disposiciones normativas y reglamentarias aplicables, formularán y aplicarán programas de ordenamiento ecológico local a efecto de definir los usos del suelo específicos dentro de su circunscripción territorial, que tendrán por objeto:
+
+I. Determinar las distintas áreas ecológicas que se localicen en la zona o región de que se trate, describiendo sus atributos físicos, bióticos y socioeconómicos, así como el diagnóstico de sus condiciones ambientales y de las tecnologías utilizadas por los habitantes del área de que se trate;
+
+II. Regular, fuera de los centros de población que se ubiquen dentro de su circunscripción territorial los usos del suelo, con el propósito de proteger el ambiente y preservar, restaurar y aprovechar de manera sustentable los elementos naturales y antrópicos, fundamentalmente en la realización de actividades productivas y la localización de asentamientos humanos, y
+
+III. Formular los lineamientos y criterios de regulación ecológica para la protección, conservación, restauración y aprovechamiento sustentable de los elementos naturales y antrópicos dentro de los centros de población que se ubiquen en su territorio, a fin de que sean considerados en los planes o programas de desarrollo urbano correspondientes.
+
+###### ARTICULO 22.
+
+El Gobierno del Estado y los ayuntamientos observarán y aplicarán las bases contenidas en el artículo 20 Bis 5 de la LGEEPA, en lo referente a los procedimientos bajo los cuales los planes de ordenamiento ecológico de la Entidad y locales serán elaborados, aprobados, expedidos, evaluados y modificados.
+
+###### ARTICULO 23.
+
+Los planes de desarrollo urbano que se formulen o modifiquen en cualquiera de sus categorías, deberán ajustarse a los planes de ordenamiento ecológico, debiéndose observar lo previsto en la Ley de Planeación del Estado y demás disposiciones legales y reglamentarias aplicables.
+
+###### ARTICULO 24.
+
+El ordenamiento ecológico, una vez elaborado por la SEGAM, se enviará al Comité de Planeación para el Desarrollo del Estado, a fin de que emita su opinión dentro de un plazo máximo de cuarenta y cinco días naturales.
+
+El Comité, una vez recibido el plan respectivo, sin demora y en un plazo máximo de cinco días hábiles, de conformidad con la Ley de Planeación del Estado, canalizará a su vez la consulta que al efecto corresponda efectuar a las organizaciones respectivas de obreros, campesinos, indígenas, grupos populares, instituciones académicas, profesionales, de investigación, organismos empresariales y otras agrupaciones sociales. La consulta podrá hacerla a través del Subcomité Sectorial de Ecología del COPLADE.
+
+Una vez transcurrido el plazo señalado en el presente artículo, sin que se hubiere emitido opinión alguna, se entenderá por aprobado por el Comité.
+
+Una vez recibida la opinión del Comité o transcurrido el plazo mencionado para emitir opinión, sin que ésta se hubiere emitido, la SEGAM elevará el programa con todos sus antecedentes a la consideración del titular del Ejecutivo, para que éste lo remita al Congreso del Estado para su revisión y aprobación.
+
+###### ARTICULO 25.
+
+Aprobado que fuere el ordenamiento ecológico, será publicado íntegramente o en su versión abreviada, en el Periódico Oficial de la Entidad, con el correspondiente decreto del titular del Ejecutivo del Estado. Para los efectos de contribuir al mejor conocimiento y fiel observancia de los programas de ordenamiento ecológico, las autoridades estatales y municipales podrán utilizar otros medios de divulgación, información y publicación. Los planes, programas y sus correspondientes decretos aprobatorios serán inscritos en el Registro Público de la Propiedad y del Comercio, remitiéndose al apéndice respectivo los planos y demás documentos anexos integrantes de los mismos.
+
+###### ARTICULO 26.
+
+Los municipios podrán definir los usos del suelo específicos dentro de su circunscripción territorial, los que deberán sujetarse a los planes de ordenamiento ecológico, entendiéndose el siguiente procedimiento:
+
+I. En sesión de Cabildo, el Ayuntamiento acordará que se formule el correspondiente plan, así como la forma y términos en que éste se elabore;
+
+II. Una vez elaborado el plan, se consultará a la comunidad sobre éste en un plazo máximo de treinta días naturales, a través del Comité de Planeación y Desarrollo Municipal (COPLADEM) o los Consejos de Colaboración Municipal, o en cualquier otra forma idónea.
+
+Efectuada la consulta en un término máximo de cinco días el Ayuntamiento solicitará de la SEGAM, que emita el dictamen de congruencia del proyecto de ordenamiento ecológico local con otros planes de ordenamiento ecológico regionales.
+
+La SEGAM contará con un plazo máximo de quince días hábiles para emitir el dictamen; una vez transcurrido dicho plazo sin que el mismo hubiese sido emitido, se entenderá por aprobado el plan presentado, y
+
+III. Emitido el dictamen o una vez transcurrido el plazo antes mencionado sin que se hubiere emitido, el Ayuntamiento en sesión de Cabildo se pronunciará sobre el plan, adoptando el acuerdo que proceda y con sus elementos integrantes lo elevará para su conocimiento y publicación en el Periódico Oficial del Estado al titular del Ejecutivo del Estado, por conducto del Presidente Municipal.
+
+###### ARTICULO 27.
+
+Las modificaciones o adecuaciones a los planes y programas de ordenamiento ecológico se sujetarán a los procedimientos previstos en el presente Capítulo.
+
+### CAPITULO III. DE LAS DECLARATORIAS DE AREAS NATURALES PROTEGIDAS ESTATALES Y MUNICIPALES
+
+###### ARTICULO 28.
+
+En los términos de este ordenamiento y de las demás leyes aplicables, las áreas naturales del territorio estatal a que se refiere el presente Capítulo, podrán ser materia de protección como reservas ecológicas para los propósitos, efectos y modalidades que en tales ordenamientos se precisan, mediante la imposición de las limitaciones que determinen las autoridades competentes para realizar en ellas, solamente los usos y aprovechamientos ambiental y socialmente convenientes. Las mismas son consideradas en la presente Ley como áreas naturales protegidas.
+
+###### ARTICULO 29.
+
+El titular del Ejecutivo del Estado podrá expedir declaratorias de áreas naturales protegidas de competencia estatal en los siguientes casos:
+
+I. Creación de parques estatales en determinadas áreas de las localidades carentes de planes de ordenamiento ecológico, o que teniéndolos no los contemplen para tal destino;
+
+II. Establecimiento de reservas estatales en las que exista uno o más ecosistemas en buen estado de preservación o mantenimiento;
+
+III. Constitución de otras áreas y elementos naturales protegidos de jurisdicción local para efectos de su control, prevención de su deterioro, mejoramiento de sus condiciones naturales o restauración de éstas.
+
+La constitución de otras áreas a que se refiere el párrafo anterior, la categoría de éstas y sus procedimientos respectivos se establecerán en el decreto de creación del Sistema Estatal de Areas Naturales Protegidas, y
+
+IV. Regulación de los usos del suelo, el aprovechamiento de los recursos naturales y la realización de actividades, cuando los fenómenos de deterioro ambiental lo exijan en forma inminente.
+
+###### ARTICULO 30.
+
+La declaratoria del área natural protegida podrá expedirse a iniciativa del Ejecutivo del Estado o del respectivo Municipio en su caso.
+
+La SEGAM, en coordinación con el o los municipios interesados, realizará el estudio técnico de factibilidad, recabando para tal efecto la opinión de la SEDARH, a efecto de que exprese la existencia de proyectos de viabilidad productiva que puedan ser ambientalmente compatibles con la categoría del área que se pretende decretar.
+
+La SEDARH, una vez recibida la solicitud por escrito, deberá emitir su opinión en un plazo no mayor de quince días hábiles; en caso de que una vez transcurrido el plazo anteriormente señalado no exista constancia por escrito respecto de la opinión solicitada, se entenderá que no existe proyecto alguno de viabilidad productiva por parte de dicha Secretaría y por ende que no hay opinión alguna al respecto; de la misma manera se recabará la opinión del Comité de Planeación de Desarrollo Estatal, para que en un plazo máximo de treinta días naturales, eleve la declaratoria correspondiente a la consideración del titular del Ejecutivo del Estado.
+
+###### ARTICULO 31.
+
+Los ayuntamientos, en los términos establecidos por el artículo 46 de la LGEEPA y 8º fracción VII de esta Ley, podrán establecer zonas de preservación ecológica de los centros de población con las formalidades y requisitos que se establecen en la LGEEPA, en esta Ley y en la Ley Orgánica del Municipio Libre.
+
+###### ARTICULO 32.
+
+Previamente a la expedición de las declaratorias para el establecimiento de las áreas naturales protegidas de competencia estatal o municipal se deberán realizar los estudios que lo justifiquen, los que deberán ser puestos a disposición del público en las oficinas de la SEGAM por un término de treinta días naturales para su consulta y formulación de observaciones; contados a partir de su publicación sintetizada en el Periódico Oficial del Estado, así como en alguno de los diarios de mayor circulación en la Entidad; dichas observaciones una vez transcurrido dicho plazo, deberán remitirse a la SEGAM en un término máximo de quince días naturales para su evaluación.
+
+###### ARTICULO 33.
+
+Se consideran causas de utilidad pública para las declaratorias de áreas naturales protegidas las siguientes:
+
+I. La conservación de los ecosistemas más representativos en las diferentes regiones del Estado;
+
+II. La prestación de servicios ambientales cuyo objeto sea la conservación del ciclo hidrológico, conservación de germoplasma, la regulación de temperatura, la conservación y la protección de suelos esenciales para la sobrevivencia de los seres vivos;
+
+III. Resguardar a las especies endémicas amenazadas, en peligro de extinción y bajo protección especial de flora y fauna silvestre presente en el Estado;
+
+IV. La conservación de la vida silvestre que esté ligada con la protección de las culturas indígenas que habitan en el Estado, tales como la Tének, Náhuatl, Pame y Huichol (Wirrarika), entre otras, y
+
+V. Las demás causas de utilidad pública establecidas en el decreto de creación del Sistema Estatal de Areas Naturales Protegidas, así como en la Ley de Expropiación, Ocupación Temporal y Limitación del Dominio por Causa de Utilidad Pública para el Estado de San Luis Potosí.
+
+###### ARTICULO 34.
+
+La SEGAM deberá solicitar previamente a la emisión de las declaratorias de las áreas naturales protegidas la opinión de:
+
+I. Los habitantes del lugar donde se pretenda decretar un área natural protegida;
+
+II. Los ayuntamientos en cuyas circunscripciones territoriales se localice el área natural de que se trate;
+
+III. Las dependencias de la administración pública estatal que deban intervenir de conformidad con sus atribuciones;
+
+IV. Las organizaciones sociales, públicas o privadas, pueblos indígenas y demás personas físicas o morales interesadas, y
+
+V. Las universidades, centros de investigación, instituciones y organismos de los sectores público, social y privado interesados en el establecimiento, administración y vigilancia de áreas naturales protegidas.
+
+###### ARTICULO 35.
+
+Los habitantes del lugar, los pueblos indígenas, las organizaciones sociales, públicas o privadas y demás personas interesadas, podrán promover ante la SEGAM o ante el respectivo Ayuntamiento según el caso, el establecimiento en terrenos de su propiedad o mediante contrato con terceros, de áreas naturales protegidas de jurisdicción estatal o municipal, cuando se trate de superficies destinadas a la conservación, protección y restauración de la biodiversidad.
+
+La SEGAM, o el respectivo Ayuntamiento en su caso, previa aceptación y anuencia expresa de los propietarios o poseedores legítimos de las áreas respectivas que pretendan constituirse como protegidas, promoverá ante el Titular del Ejecutivo del Estado la expedición de la declaratoria respectiva, mediante la cual se establecerá el manejo del área por parte del promovente, con la participación de la propia Secretaría o del Ayuntamiento según el caso, conforme a las atribuciones que al respecto se les otorgan en esta Ley, demás ordenamientos y disposiciones reglamentarias aplicables.
+
+Asimismo, los sujetos señalados en el párrafo anterior, podrán destinar voluntariamente los predios que les pertenezcan a acciones de conservación de los ecosistemas y su biodiversidad; para tal efecto podrán solicitar a la SEGAM el reconocimiento respectivo en los casos de su competencia; el certificado que emita dicha autoridad deberá contener, por lo menos, el nombre del promovente, la denominación del área respectiva, su ubicación, superficie y colindancias, el régimen de manejo a que se sujetará y, en su caso, el plazo de vigencia. Dichos predios se considerarán como áreas productivas dedicadas a una función de interés público. El plan de manejo que al efecto se proponga deberá ser previamente evaluado y aprobado por la SEGAM.
+
+Las áreas naturales protegidas que pretendan decretarse en los términos de la presente Ley, deberán contar previamente con la aceptación y anuencia escrita de los propietarios o poseedores legítimos bajo cualquier título, en los términos de las leyes respectivas.
+
+Para los casos en que no se cuente con la aceptación y anuencia antes referida, y se justifique la causa de utilidad pública, el Ejecutivo del Estado podrá emitir la declaratoria correspondiente y apegandose estrictamente a las disposiciones previstas en la Ley de Expropiación Temporal y Limitación del Dominio por Causa de Utilidad Pública para el Estado de San Luis Potosí.
+
+###### ARTICULO 36.
+
+La SEGAM promoverá la participación convergente de sus habitantes, propietarios o poseedores, pueblos indígenas existentes y demás organizaciones sociales, públicas y privadas en el establecimiento, administración y manejo de las áreas naturales protegidas de competencia estatal y municipal a que se refieren los anteriores artículos, con objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección y conservación de los ecosistemas.
+
+Para tal efecto, la SEGAM podrá suscribir con los interesados los convenios de concertación o acuerdos de coordinación que correspondan.
+
+###### ARTICULO 37.
+
+Las declaratorias de áreas naturales protegidas contendrán como mínimo lo siguiente:
+
+I. La localización y delimitación del área, señalando su superficie, deslinde y en su caso, la zonificación correspondiente;
+
+II. Las modalidades o limitaciones a que, dentro del área de reserva, se sujetará el uso o aprovechamiento de los elementos naturales y antrópicos, o específicamente aquellos objeto de la protección, así como las restricciones al uso del suelo que correspondan;
+
+III. La descripción de las actividades que podrán llevarse a cabo en el área correspondiente y las modalidades o limitaciones a que se sujetarán;
+
+IV. La causa de utilidad pública, que cuando corresponda, fundamente la expropiación de terrenos para que el Estado o el respectivo Ayuntamiento adquieran su dominio, de conformidad con las disposiciones que la ley de la materia establezca;
+
+V. Los lineamientos para la elaboración del plan de manejo o recuperación del área, y
+
+VI. Las observaciones, opiniones y propuestas derivadas de las consultas que se hubieren realizado.
+
+###### ARTICULO 38.
+
+Las declaratorias deberán publicarse en el Periódico Oficial del Estado y un extracto de las mismas en alguno de los diarios de mayor circulación en la Entidad; y se notificarán además a los propietarios o poseedores de los predios afectados en forma personal cuando se conocieren sus domicilios.
+
+En caso contrario, se hará una segunda publicación que surtirá efectos de notificación. Las declaratorias se inscribirán en el Registro Público de la Propiedad y del Comercio correspondiente.
+
+###### ARTICULO 39.
+
+Los propietarios, poseedores o titulares de otros derechos sobre tierras, aguas y bosques comprendidos dentro de áreas naturales protegidas de competencia estatal o municipal, deberán sujetarse a las modalidades que de conformidad con esta Ley, establezcan los decretos por los que se constituyan dichas áreas, así como a las demás previsiones contenidas en el plan de manejo y en los planes de ordenamiento ecológico que correspondan.
+
+###### ARTICULO 40.
+
+La declaratoria que crea una zona de preservación ecológica de un centro de población, se entenderá que forma parte de pleno derecho del respectivo plan de ordenamiento ecológico regional o local y del plan vigente de desarrollo urbano del centro de población; cuando no exista éste, la zona de preservación deberá incorporarse al plan y al programa que en su oportunidad se expida.
+
+Una vez establecido un parque o reserva estatal, sólo el Titular del Ejecutivo del Estado podrá modificar los usos del suelo permitidos.
+
+Todos los actos, convenios o contratos relativos a la propiedad, posesión o cualquier derecho relacionado con bienes inmuebles ubicados en áreas no expropiadas declaradas parques o reservas estatales y zonas de preservación ecológica de los centros de población, así como inclusive áreas naturales protegidas de competencia federal, deberán hacer referencia a la declaratoria correspondiente y sus datos de publicación e inscripción.
+
+Los notarios y demás fedatarios públicos sólo podrán autorizar las escrituras públicas, actos, convenios o contratos en los que intervengan, cuando se cumpla lo dispuesto en el párrafo anterior.
+
+###### ARTICULO 41.
+
+Los planes de manejo de las áreas naturales protegidas de competencia estatal y municipal, contendrán por lo menos lo siguiente:
+
+I. La descripción de las características físicas, biológicas, sociales y culturales del área natural protegida de competencia local o municipal de que se trate en el contexto regional y local, así como el análisis de la situación que guarda la tenencia de la tierra en la superficie respectiva;
+
+II. Las acciones a realizar de carácter inmediato, a corto, mediano y largo plazo, estableciendo su vinculación con los Planes Nacional y Estatal de Desarrollo, así como con los programas sectoriales correspondientes. Dichas acciones comprenderán, entre otras, las de investigación y educación ambiental, de protección y aprovechamiento sustentable de los elementos naturales y antrópicos para el desarrollo de actividades recreativas, culturales, artísticas, turísticas, obras de infraestructura y demás actividades productivas, de financiamiento para la administración del área, de prevención y control de contingencias y emergencias ambientales, de vigilancia y las demás que por las características propias del área natural protegida se requieran;
+
+III. La forma en que se organizará la administración del área y los mecanismos de participación de los individuos y comunidades asentados en la misma, así como de todas aquellas personas, instituciones, grupos y organizaciones sociales interesadas en su protección y aprovechamiento sustentable;
+
+IV. Los objetivos específicos del área natural protegida de competencia estatal o municipal;
+
+V. La referencia a la normatividad ambiental aplicable a todas y cada una de las actividades a que esté sujeta el área;
+
+VI. Los inventarios biológicos existentes y los que se prevea realizar, y
+
+VII. Las reglas de carácter administrativo a que se sujetarán las actividades que se desarrollen en el área de que se trate.
+
+La SEGAM deberá publicar en el Periódico Oficial del Estado y en alguno de los diarios de mayor circulación en la Entidad, un resumen del plan de manejo respectivo y el plano de localización del área.
+
+###### ARTICULO 42.
+
+La SEGAM podrá, una vez que se cuente con el plan de manejo respectivo y en el caso de parques y reservas estatales, otorgar al municipio o municipios respectivos, así como a ejidos, comunidades agrarias, pueblos indígenas, grupos y organizaciones sociales y empresariales y demás personas físicas o morales interesadas, la administración de estas áreas; asimismo, lo podrán hacer los municipios tratándose de zonas de preservación ecológica de los centros de población, para tal efecto, se deberán suscribir los acuerdos o convenios que conforme a la legislación aplicable procedan.
+
+Quienes en virtud de lo dispuesto en este artículo adquieran la responsabilidad de administrar los parques o reservas estatales o las zonas de preservación ecológica de los centros de población, estarán obligados a sujetarse a las previsiones contenidas en la LGEEPA, en esta Ley, los reglamentos y normatividad ambiental aplicable que se expidan en la materia, así como a cumplir los decretos por los que se establezcan dichas áreas y los planes de manejo respectivos.
+
+###### ARTICULO 43.
+
+La SEGAM y el Ayuntamiento respectivo, deberán supervisar y evaluar el cumplimiento de los acuerdos y convenios a que se refiere el artículo anterior; asimismo, deberán asegurarse que en las autorizaciones para la realización de actividades en áreas naturales protegidas de su competencia, se observen las previsiones anteriormente señaladas.
+
+###### ARTICULO 44.
+
+Las áreas naturales protegidas en la Entidad constituyen en su conjunto el Sistema Estatal de Areas Naturales Protegidas, cuyo propósito es unificar las regulaciones y criterios para su establecimiento, conservación, administración, desarrollo y vigilancia.
+
+El titular del Ejecutivo del Estado a propuesta de la SEGAM, creará el Sistema Estatal de Areas Naturales Protegidas.
+
+Asimismo, podrá establecerse la creación de un organismo público descentralizado cuyos objetivos y funciones quedarán establecidos en el propio decreto y en su respectivo reglamento interior.
+
+La SEGAM o el organismo público descentralizado que se hubiese creado, llevará el registro de las áreas integrantes del Sistema Estatal de las Areas Naturales Protegidas.
+
+En el registro se consignarán los datos relacionados con el establecimiento del área de que se trate, los contenidos de la declaratoria respectiva, así como los relativos a su inscripción en el Registro Público de la Propiedad y del Comercio correspondiente.
+
+La SEGAM promoverá ante las autoridades responsables de cada área, la incorporación de apropiadas reglas de manejo que incluyan la conservación, administración, desarrollo y vigilancia de las áreas integrantes del sistema.
+
+### CAPITULO IV. DE LOS INSTRUMENTOS ECONOMICOS
+
+### CAPITULO V. DEL USO DEL SUELO Y DE LA LICENCIA
+
+###### ARTICULO 45.
+
+El Ejecutivo del Estado diseñará, desarrollará y aplicará instrumentos económicos que incentiven el cumplimiento de los objetivos de la política ambiental, mediante los cuales se buscará:
+
+I. Promover una adecuada conducta en las personas físicas y morales del sector público y privado que realicen actividades industriales, comerciales y de servicios en la Entidad, de tal manera que sus intereses sean compatibles con los intereses colectivos de protección ambiental y de desarrollo sustentable;
+
+II. Diseñar programas que permitan al Estado contar con recursos económicos encaminados a la protección y restauración del ambiente en la Entidad, mediante acuerdos con particulares, empresas, organismos empresariales y de servicios;
+
+III. Fomentar la incorporación de información confiable y suficiente sobre las consecuencias, beneficios y costos ambientales a los sistemas de precios de la economía;
+
+IV. Otorgar incentivos a quien realice acciones para la protección, conservación o restauración del ambiente;
+
+V. Procurar que quien dañe el ambiente o haga un uso indebido de los elementos naturales o antrópicos, asuma los costos ambientales respectivos;
+
+VI. Promover una mayor equidad social en la distribución de costos y beneficios asociados a los objetivos de la política ambiental, y
+
+VII. Procurar su utilización conjunta con otros instrumentos de política ambiental, en especial cuando se trate de observar umbrales o límites en la utilización de ecosistemas, de tal manera que se garantice su integridad y equilibrio dinámico, la salud y el bienestar de la población en el Estado.
+
+Con el propósito de lograr los objetivos de este artículo, las acciones y lineamientos específicos de los programas que lleve a cabo la SEGAM, serán publicados en el Periódico Oficial del Estado
+
+###### ARTICULO 46.
+
+Las personas físicas y morales, públicas y privadas, están obligadas a incorporar los costos ambientales que generen sus actividades económicas, así como el beneficio económico que resulte se incorpore directamente a programas y proyectos ambientales a cargo del Estado por conducto de la SEGAM.
+
+Para lograr lo anterior, se suscribirán los convenios y acuerdos que correspondan con la autoridad ambiental del Estado.
+
+Las prerrogativas derivadas de los instrumentos económicos de mercado serán transferibles, no gravables y quedarán sujetas al interés público y al aprovechamiento sustentable de los recursos naturales.
+
+###### ARTICULO 47.
+
+La SEGAM considerará como prioritarias, para efectos del otorgamiento de los estímulos fiscales, las disposiciones establecidas en la Ley de Hacienda del Estado, El Código Fiscal del Estado o en la Ley de Hacienda de los Municipios, según corresponda, en relación con las actividades siguientes:
+
+I. La investigación, incorporación o utilización de mecanismos, equipos y tecnologías que tengan por objeto evitar, reducir o controlar el deterioro ambiental, así como el uso eficiente de energía y de recursos naturales;
+
+II. El ahorro y aprovechamiento sustentable y la prevención de la contaminación del agua;
+
+III. La ubicación y reubicación de instalaciones industriales, comerciales y de servicios en áreas ambientalmente adecuadas, con el apego estricto a los planes de desarrollo urbano y programas de ordenamiento ecológico regional y local;
+
+IV. El establecimiento, manejo y vigilancia de áreas naturales protegidas de competencia estatal y municipal, y
+
+V. En general, aquellas actividades relacionadas con la protección, conservación y restauración del ambiente.
+
+### CAPITULO I. DISPOSICIONES GENERALES
+
+###### ARTICULO 48.
+
+En los términos previstos por el artículo 9° fracción X de la Ley General de Asentamientos Humanos, los ayuntamientos podrán fijar las restricciones, tanto al uso del suelo como a las construcciones de cualquier clase que requieran el desarrollo urbano y ambiental estatal, así como las que fueren necesarias para la aplicación de los respectivos planes, de la presente Ley y demás disposiciones legales aplicables.
+
+El criterio general normativo para la regulación de los usos del suelo en el territorio del Estado, obedecerá estrictamente al contenido de los planes de ordenamiento ecológico regional y local del territorio, así como a los planes de desarrollo urbano en los asentamientos humanos y centros de población, a lo previsto en ésta y otras leyes aplicables.
+
+###### ARTICULO 49.
+
+La Licencia de Uso del Suelo que otorguen los municipios, respecto de la administración y control del aprovechamiento del suelo tendrá los siguientes objetivos:
+
+I. Conformar la estructura urbana y rural y su entorno ambiental, de acuerdo a lo previsto en los planes de ordenamiento ecológico regionales y locales del territorio, así como en los respectivos planes de desarrollo urbano;
+
+II. Impedir que, con motivo del establecimiento de actividades tanto públicas como privadas, de gran magnitud o riesgo, de carácter industrial, comercial, de servicios u otros, se afecten gravemente la prestación de los servicios públicos, el equilibrio dinámico del ambiente natural, la salud y seguridad pública y, en general, el nivel de las condiciones de vida de la población;
+
+III. Evitar la construcción, instalación y funcionamiento de edificios, obras y actividades públicas o privadas que correspondan a usos prohibidos, según la zonificación contemplada en el plan de ordenamiento ecológico o en el respectivo plan de desarrollo urbano;
+
+IV. Precisar las condiciones a que, en su caso, quedará sujeto el aprovechamiento del inmueble de que se trate con el uso del suelo permitido que se le asigne, para lograr su integración al contexto urbano de la zona en que se encuentre ubicado y, de igual manera, para prevenir, atenuar o compensar alteraciones significativas al ambiente en el territorio del Estado, y
+
+V. Configurar la imagen urbana de los nuevos desarrollos en el marco de los elementos naturales y paisajísticos existentes.
+
+###### ARTICULO 50.
+
+Los ayuntamientos deberán recabar previamente el dictamen técnico correspondiente que expedirá la SEGAM, en los casos de obras o actividades tanto de carácter público como privado que puedan causar impacto ambiental significativo dentro del territorio de la Entidad, así como en los casos y actividades consideradas riesgosas.
+
+###### ARTICULO 51.
+
+En los casos en que la SEMARNAP en el ámbito de su competencia hubiere autorizado cambios de uso de terrenos forestales o de aptitud preferentemente forestal, aprovechamientos forestales o hubiese emitido cualquier otra autorización, tratándose de cambios de uso del suelo y aprovechamiento del mismo, en los términos de la LGEEPA y de la Ley Forestal y su Reglamento, el titular de las autorizaciones federales deberá presentar éstas conjuntamente con los estudios técnicos y manifestaciones de impacto ambiental que pudieran causar modificaciones a la calidad de vida, ante el Ayuntamiento que corresponda a efecto de solicitar se le expida el dictamen técnico respectivo, que servirá de base para la expedición de la licencia de uso del suelo, por el mismo.
+
+El Ayuntamiento, una vez presentada la documentación correspondiente, procederá a revisarla y evaluarla expidiendo el dictamen correspondiente, mismo que podrá ser positivo o negativo o condicionando la expedición de la licencia al cumplimiento previo de otros requisitos que se apeguen a la normatividad ambiental vigente, por lo tanto, quedará prohibida la realización de cualquier obra o actividad mientras el Ayuntamiento no expida la referida licencia.
+
+###### ARTICULO 52.
+
+Los ayuntamientos no expedirán licencias de uso del suelo, o prórrogas a la misma, que contravengan lo establecido en los planes de ordenamiento ecológico, de desarrollo urbano, en los decretos de áreas naturales protegidas o que contravengan la normatividad ambiental y urbana, la LGEEPA, esta Ley, así como demás ordenamientos y disposiciones reglamentarias aplicables.
+
+Los ayuntamientos tampoco emitirán licencias municipales de construcción o de funcionamiento con infracción a lo contemplado en la respectiva licencia de uso del suelo.
+
+###### ARTICULO 53.
+
+La licencia de uso del suelo deja a salvo los derechos de terceros, y no prejuzga respecto de la titularidad del dominio y demás derechos que recaigan sobre los inmuebles a que se refieran.
+
+###### ARTICULO 54.
+
+La licencia de uso del suelo señalará, para el respectivo predio, los usos de referencia de manera que su titular tenga constancia fidedigna de los usos permitidos entre los cuales pueda optar, así como de las restricciones federales y estatales que le sean aplicables. En su caso, dicha licencia indicará el uso que puede generar impacto ambiental significativo que en su caso se permita y las condiciones, restricciones, limitaciones y otorgamiento de garantías a que su ejercicio pueda quedar sujeto.
+
+Previo a la emisión de la licencia de uso del suelo que pueda generar impacto ambiental significativo o en los casos de actividades riesgosas, se recabará la opinión del Cabildo, la que deberá quedar asentada en el acta de la sesión que al efecto se levante. En estos casos, el Ayuntamiento respectivo una vez recibida la solicitud para la expedición de la licencia, remitirá sin demora en un plazo máximo de cinco días hábiles contados a partir de la recepción del documento, la solicitud con sus anexos a la SEGAM y a la SEDUCOP cuando así proceda, para recabar su dictamen técnico sobre el uso solicitado, debiendo dichas autoridades emitirlo en un término improrrogable de diez días hábiles contados a partir de la fecha en que reciban la solicitud correspondiente.
+
+La SEGAM y la SEDUCOP podrán pedir la opinión de otras dependencias y organismos respecto de los eventuales efectos del uso solicitado en la prestación de los servicios públicos, aplicándose en tal caso los plazos establecidos en el párrafo anterior.
+
+###### ARTICULO 55.
+
+La licencia de uso del suelo dejará de surtir efectos en aquellos casos en que habiendo transcurrido seis meses a partir de la expedición de la misma no se hubieren iniciado los trabajos de construcción, o si durante el transcurso de un año contado a partir de su fecha de expedición el solicitante no hubiere iniciado actividades; en este último caso, los plazos previstos en la licencia podrán prorrogarse a petición expresa del solicitante; cuando se hubieren realizado ampliaciones, diversificación de actividades o cambio de giro industrial, comercial o de servicios requerirá la expedición de nueva licencia.
+
+La prórroga de los plazos mencionados en el párrafo anterior, deberá solicitarse dentro de los quince días naturales anteriores a la fecha en que éstos expiran, debiendo el promovente hacer entrega al Ayuntamiento que corresponda de la licencia original. Una vez evaluada la solicitud de prórroga y previo dictamen de las autoridades que corresponda, el Ayuntamiento expedirá la prórroga solicitada dentro de los quince días hábiles siguientes.
+
+El titular de la licencia de uso de suelo no podrá realizar ampliaciones, diversificación de actividades o cambio de giro industrial, comercial y de servicios, sin que se le haya expedido la nueva licencia.
+
+###### ARTICULO 56.
+
+Procederá la revocación de la licencia de uso del suelo en los siguientes casos:
+
+I. Cuando se haya modificado el uso, las intensidades máximas de ocupación y utilización del predio, o las restricciones estatales o federales constantes en la misma, o no se hubieren observado éstas últimas por el titular de la licencia;
+
+II. Cuando el titular de la licencia no hubiese dado aviso a la autoridad competente de la modificación del proyecto inicialmente presentado, así como del cambio de uso del suelo en el respectivo predio;
+
+III. En aquellos casos en que el Ayuntamiento, la SEGAM o la SEDUCOP cuando así proceda, detecten mediante los procedimientos previstos en esta Ley o en el ordenamiento que resulte aplicable, que no se dio cumplimiento a cualquiera de las condicionantes establecidas en la licencia original y dentro de los plazos previstos en la misma, y
+
+IV. Cuando se advierta falsedad de datos en la información presentada ante la autoridad.
+
+En el caso de la fracción anterior, la revocación se llevará a cabo sin perjuicio del ejercicio de la acción penal que pudiera derivarse de la acción emprendida. Para los efectos de este artículo se requerirá la declaratoria de la autoridad competente.
+
+###### ARTICULO 57.
+
+Una vez otorgada la licencia si se detectare a través del procedimiento de inspección previsto en esta Ley, que su titular ha causado o sigue causando por sí o por interpósita persona daños irreversibles al entorno ambiental del inmueble, o no hubiere dado cumplimiento con las restricciones federales o condicionantes estatales previstas en las autorizaciones respectivas, el Ayuntamiento correspondiente podrá dejar sin efectos la licencia otorgada, sin perjuicio de la aplicación de las medidas de seguridad y sanciones establecidas en el presente ordenamiento.
+
+###### ARTICULO 58.
+
+La solicitud de licencia de uso del suelo deberá contener y acompañar cuando menos los siguientes requisitos:
+
+I. Señalar el uso actual del suelo, así como el uso que se propone y superficie por construir de ser el caso, acompañando un croquis de localización del predio;
+
+II. Anteproyecto arquitectónico o de diseño urbano de ser el caso, y memoria descriptiva del mismo cuando se trate de uso que pueda generar impacto ambiental significativo en su área de influencia, y
+
+III. El estudio técnico justificativo para cambio de uso de terrenos forestales o de aptitud preferentemente forestal, y la manifestación de impacto ambiental presentada previamente por el promovente ante la SEMARNAP para su evaluación, así como las autorizaciones emitidas por la misma cuando se trate de obras o actividades previstas en el artículo 28 de la LGEEPA o en el reglamento de la misma en materia de impacto ambiental.
+
+La licencia de uso del suelo no faculta a su titular para iniciar la ejecución de construcción u obra alguna; dicha licencia será personalísima, intransferible, inembargables los derechos derivados de la misma e inalienable y no será objeto de fusión o escisión tratándose de sociedades mercantiles legalmente constituidas.
+
+En aquellos casos en que no exista un marco rector normativo que establezca una zonificación de uso de suelo, previo al otorgamiento de la licencia que al efecto se expida, deberá recabarse el dictamen y opinión de la SEGAM o de la SEDUCOP o de ambas, según el caso particular de que se trate y conforme a los lineamientos establecidos en la Ley de Desarrollo Urbano y en esta Ley.
+
+## TITULO QUINTO. DEL APROVECHAMIENTO SUSTENTABLE DE LOS ELEMENTOS NATURALES Y ANTROPICOS
+
+### CAPITULO II
+
+DE LA EXPLOTACION DE BANCOS DE MATERIALES PARA LA CONSTRUCCION Y DE OTRAS ACTIVIDADES CUYA EXPLOTACION SE REALICE PREPONDERANTEMENTE POR MEDIO DE TRABAJOS A CIELO ABIERTO
+
+###### ARTICULO 59.
+
+Para el aprovechamiento sustentable de los elementos naturales y antrópicos en la Entidad se atenderá a las reglas que a continuación se establecen:
+
+I. Los inmuebles rurales del territorio estatal quedan sujetos a las disposiciones de esta Ley;
+
+II. El derecho de propiedad y los demás que recaigan sobre dichos bienes, se ejercerán con las limitaciones o modalidades establecidas en este ordenamiento, conforme a lo previsto en los planes de ordenamiento ecológico, en las declaratorias de áreas naturales protegidas y en los respectivos planes de desarrollo urbano, así como en su caso lo que prevengan las disposiciones de las leyes federales y estatales respectivas;
+
+III. Las tierras que se encuentran o sean aptas para cualquier explotación agrícola, forestal o minera deberán utilizarse preferentemente en dichas actividades, por lo que para sustraerlas de las mismas y destinarlas a otro uso o al proceso de urbanización, deberán seguirse previamente los procedimientos que señalen las leyes federales aplicables y la presente Ley, y
+
+IV. Las construcciones en predios rústicos y las actividades que se realicen o pretendan realizarse incluso en zonas ejidales deslindadas y fragmentadas en los términos de la Ley Agraria y los reglamentos que de ella se deriven, requerirán para su ejecución licencia municipal, así como licencia de uso del suelo en los casos que corresponda de acuerdo a esta Ley.
+
+### CAPITULO III. DEL APROVECHAMIENTO DE LAS AGUAS DE JURISDICCION ESTATAL
+
+###### ARTICULO 60.
+
+La explotación de bancos de materiales para la construcción, así como de materiales no concesionables, no metálicos, así como las actividades que se realicen preponderantemente por medio de trabajos a cielo abierto dentro del territorio del Estado, requerirá previamente de la autorización de la SEGAM y se regularán conforme a las normas básicas siguientes:
+
+I. El titular de la explotación deberá cumplir cabalmente con la norma técnica ecológica estatal correspondiente, misma que emitirá la SEGAM;
+
+II. La explotación sólo podrá llevarse a cabo en áreas no urbanizables;
+
+III. No deberá alterar o dañar los elementos naturales del área de influencia, así como tampoco la infraestructura existente en su entorno;
+
+IV. Contará con acceso por vialidades primarias o carreteras;
+
+V. Se llevará a cabo a cielo abierto en ladera, prohibiéndose efectuarla en forma de túneles. La inclinación de taludes deberá corresponder al ángulo de reposo natural del material que se esté explotando y a sus condiciones de saturación de humedad;
+
+VI. Se dejará libre de explotación una franja no menor de veinte metros de ancho en todo el perímetro de las colindancias del predio, o mayor según fueren las características del material. Cuando en el predio o en alguno de sus linderos, se encuentre una zona de restricción federal o estatal, dicha franja se contará a partir del límite del derecho de vía o zona, y
+
+VII. Se rehabilitará el terreno laboreado para su aprovechamiento posterior, sin riesgo de derrumbes o daños a terceros.
+
+###### ARTICULO 61.
+
+Con la solicitud de autorización para la explotación que deberá presentarse ante la SEGAM, se acompañarán:
+
+I. Títulos que acrediten la propiedad del inmueble, debidamente inscritos en el Registro Público de la Propiedad y del Comercio, o en su caso, copia certificada del decreto dotatorio de tierras ejidales o comunales;
+
+II. Apeo y deslinde judicial o deslinde administrativo;
+
+III. Plano topográfico con curvas de nivel;
+
+IV. Proyecto, memoria descriptiva, especificaciones técnicas para la explotación y los trabajos de rehabilitación de los terrenos, firmados por perito responsable;
+
+V. Dictamen de factibilidad otorgado por el Municipio;
+
+VI. Autorizaciones, cuando corresponda, de la SEMARNAP para cambio de uso del suelo de terrenos forestales o de aptitud preferentemente forestal, y de la CNA en su caso para la protección de mantos freáticos, y de la Secretaría de la Defensa Nacional para el uso, almacenamiento y transporte de pólvora y explosivos, y
+
+VII. La autorización en materia de impacto ambiental expedida por la SEGAM.
+
+###### ARTICULO 62.
+
+El titular de la autorización para la explotación tendrá entre otras las obligaciones siguientes:
+
+I. Efectuar, con intervención de la SEGAM, nivelaciones topográficas anuales para determinar los volúmenes de materiales extraídos;
+
+II. Cercar perimetralmente el predio de la explotación y colocar señalamientos de su existencia;
+
+III. Ejecutar, en su caso, las obras de rehabilitación del predio tales como nivelación de plataformas; obras de drenaje para evitar escurrimientos y arrastres de materiales fuera de la explotación; relleno de grietas y cavernas naturales; tratamiento de taludes para garantizar su estabilidad ante la intemperie y evitar el deslizamiento o rodamiento de materiales; construcción de muros de contención y un programa de forestación que se extienda hasta los tres años siguientes al término de la explotación;
+
+IV. Depositar los materiales de despalme o desperdicio en los lugares previamente autorizados por la SEGAM a propuesta del interesado;
+
+V. Obtener del respectivo Ayuntamiento la aprobación de las rutas a que se ceñirán los camiones de transporte de materiales que utilicen en la explotación, para evitar daño a las calles de los fraccionamientos y colonias por donde aquellos transiten, y
+
+VI. Cualquier otra que determinen otros ordenamientos y normas técnicas estatales aplicables.
+
+###### ARTICULO 63.
+
+Para fines de control, vigilancia y estadísticos, las autorizaciones y prórroga que la SEGAM expida conforme a lo dispuesto en el presente Título, se inscribirán en el Registro de Bancos de Materiales para la Construcción del Estado de San Luis Potosí, que la misma organizará y llevará, clasificándolo según los municipios en cuyos territorios jurisdiccionales se encuentren situados, así como de acuerdo a los materiales que de ellos se extraigan. El reglamento respectivo de esta Ley establecerá la regulación del registro de que se trata, así como las demás normas que fueren necesarias para la aplicación de las disposiciones del presente Título.
+
+###### ARTICULO 64.
+
+El procedimiento para emitir la autorización a que se refiere el artículo 60 de esta Ley será el siguiente:
+
+I. La solicitud deberá presentarse ante la SEGAM y una vez presentada, dentro de los tres días hábiles siguientes la SEGAM expedirá la orden para el pago de los derechos pertinentes y una vez que le sea devuelta a la autoridad la constancia del pago respectivo, procederá a la evaluación de la solicitud y sus requisitos, y emitirá en su caso, la autorización solicitada dentro de los diez días hábiles siguientes, y
+
+II. Cuando a juicio de la SEGAM fuere necesaria información adicional o el proyecto requiriese modificaciones, se lo hará saber al solicitante dentro del término de diez días a que se refiere la fracción anterior; la información adicional o el proyecto modificado deberán ser entregados a la SEGAM dentro de los diez días hábiles siguientes, bajo apercibimiento que de no hacerlo se tendrá al interesado por desistido de su solicitud. Acompañada la información adicional o modificaciones referidas a satisfacción de la SEGAM, se expedirá la correspondiente autorización conforme al procedimiento señalado en la fracción anterior.
+
+###### ARTICULO 65.
+
+La autorización para la explotación de un banco de materiales para la construcción, así como para toda otra actividad que se realice preponderantemente por medio de trabajos a cielo abierto, tendrá hasta tres años de vigencia y podrá prorrogarse por periodos anuales sucesivos, estando obligado el titular de la autorización a solicitar su prórroga.
+
+La solicitud de prórroga de la autorización deberá presentarse dentro de los veinte días anteriores a la expiración del plazo de ésta, y contendrá lo siguiente:
+
+I. Etapa y frente de explotación por iniciar, así como el volumen del material por extraerse en el periodo que corresponda a la prórroga, conforme a los planos de nivelación y seccionamiento correspondientes, y
+
+II. Firma del solicitante y del respectivo perito.
+
+A la solicitud deberá acompañarse copia de la autorización original y en su caso de la prórroga anterior; los planos de nivelación y seccionamiento y el estado del avance logrado en los trabajos de rehabilitación del predio de acuerdo al programa presentado.
+
+Dentro de los diez días hábiles siguientes a la presentación de la solicitud, la SEGAM procederá a efectuar la verificación correspondiente y una vez efectuada ésta, expedirá la orden para el pago de derechos dentro de los tres días hábiles siguientes. Una vez entregado el correspondiente comprobante por el solicitante, la SEGAM emitirá la autorización dentro de los cinco días hábiles siguientes.
+
+La autorización a que se refiere el presente Capítulo podrá tramitarse conjuntamente con la solicitud de autorización en materia de impacto ambiental y podrá presentarse con la manifestación correspondiente para su evaluación.
+
+###### ARTICULO 66.
+
+Procederá la revocación de la autorización para la explotación en los siguientes casos:
+
+I. Cuando se detecte a través del procedimiento de inspección previsto en esta Ley, la falta de ejecución en su caso, de las obras que garanticen la estabilidad de la explotación, la no contaminación del ambiente y la seguridad de los operarios, contempladas en el proyecto y memoria explicativa o en la autorización respectiva, o exigidos por la autoridad en el transcurso del laboreo del banco;
+
+II. Por presentar la explotación en el curso de su laboreo, serios peligros que no puedan ser remediados en forma alguna, y cuando en general, se detecten graves violaciones a esta Ley, sus reglamentos y a la normatividad ambiental vigente, y
+
+III. Cuando se hubiere falseado la información en la correspondiente solicitud y sus anexos, sin perjuicio de la adopción por parte de la autoridad de las medidas de seguridad y aplicación de sanciones administrativas que procedan.
+
+### CAPITULO IV. DE LOS PROGRAMAS
+
+###### ARTICULO 67.
+
+Para el aprovechamiento sustentable de las aguas de jurisdicción estatal se aplicarán las normas generales siguientes:
+
+I. Deberán utilizarse de manera que no se afecte el ambiente del cual forman parte;
+
+II. Se establecerán zonas de protección de las fuentes de abastecimiento de agua y de las zonas de recarga para el servicio de los centros de población, e igualmente de reservas de las mismas para atender el consumo humano;
+
+III. Se llevarán a cabo acciones para evitar y en su caso controlar los procesos de eutroficación, salinización y cualquier otro tipo de contaminación de las aguas de que se trata;
+
+IV. Se observarán las disposiciones de la presente Ley, su reglamento respectivo y otros ordenamientos, en las autorizaciones que se otorguen para el aprovechamiento de las aguas referidas, y
+
+V. Se promoverá el tratamiento de aguas residuales y su reutilización en actividades agrícolas, forestales, industriales y de servicios, así como su intercambio por aguas de primer uso, con objeto de ahorrar agua y aumentar su disponibilidad para el consumo humano y para la protección de las fuentes de abastecimiento.
+
+###### ARTICULO 68.
+
+Para los fraccionamientos y condominios que se edifiquen en los centros de población, que la Secretaría de Desarrollo Urbano, Comunicaciones y Obras Públicas y los ayuntamientos determinen, con la intervención que corresponda a los propios ayuntamientos y a los organismos operadores del agua, previo los estudios de rigor y previa factibilidad técnica y económica, será obligatorio que sus promotores establezcan redes separadas de alcantarillado y de aguas pluviales, a fin de permitir el aprovechamiento de éstas últimas.
+
+###### ARTICULO 69.
+
+El Gobierno del Estado por conducto de la SEGAM, expedirá previamente el dictamen técnico que corresponda para el otorgamiento de las concesiones, licencias, permisos y autorizaciones para el uso y aprovechamiento de las aguas de jurisdicción estatal, así como para el aprovechamiento de los recursos naturales que se encuentren en ellas, debiendo observar los principios, criterios y lineamientos normativos previstos en esta Ley, sus disposiciones reglamentarias y demás ordenamientos aplicables.
+
+Previamente a la emisión de las concesiones, licencias, permisos y autorizaciones, a que se refiere el párrafo anterior, se deberá contar además con el dictamen por escrito de la SEDARH y de la Comisión Estatal de Agua Potable, Alcantarillado y Saneamiento en los casos previstos en las leyes de la materia.
+
+### CAPITULO I. DE LA CONTAMINACION DE LA ATMOSFERA
+
+###### ARTICULO 70.
+
+Para el aprovechamiento sustentable de los elementos naturales y antrópicos la SEGAM establecerá programas para:
+
+I. La conservación, protección, mejoramiento y restauración del suelo agrícola, forestal y el destinado a usos pecuarios;
+
+II. La creación y desarrollo de viveros, criaderos, laboratorios, estaciones experimentales y reservas de flora y fauna silvestres, así como de jardines botánicos y parques zoológicos;
+
+III. La captación y aprovechamiento de aguas pluviales;
+
+IV. La reutilización e intercambio de aguas residuales tratadas, y
+
+V. La reducción del consumo de agua por las industrias, establecimientos comerciales y de servicios y de uso doméstico en general.
+
+De igual manera podrán establecerse programas en materia de saneamiento de aguas en los términos que lo establecen las leyes aplicables, en coordinación en su caso con la Comisión Estatal de Agua Potable, Alcantarillado y Saneamiento y con los municipios por sí o a través de los organismos operadores del agua.
+
+La SEGAM impulsará y participará en la celebración de convenios con particulares, ejidatarios, instituciones académicas y de investigación, clubes y demás asociaciones que no persigan fines de lucro, con objeto de llevar a cabo programas para el estudio, conservación, restauración y desarrollo de especies de fauna y flora silvestres, en los ranchos y ejidos cinegéticos y en los centros de rehabilitación de fauna que al efecto se establezcan.
+
+## TITULO SEXTO. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION AMBIENTAL
+
+### CAPITULO II. DE LA CONTAMINACION DEL AGUA
+
+###### ARTICULO 71.
+
+Para los efectos de esta Ley son fuentes emisoras de contaminación atmosférica las que a continuación se indican y clasifican:
+
+I. Fijas: Toda instalación establecida en un solo lugar que tenga como finalidad desarrollar operaciones o procesos industriales, comerciales, de servicios o actividades que generen o puedan generar emisiones contaminantes a la atmósfera;
+
+II. Móviles: Cualquier máquina, aparato o dispositivo emisor de contaminantes a la atmósfera que no tenga un lugar fijo, y
+
+III. Diversas: Cualquiera otra no considerada en las anteriores, incluyéndose las emisiones a la atmósfera provocadas por incendios forestales, tolvaneras y otros siniestros, las cuales serán objeto de programas de emergencia y contingencias ambientales que establezcan las autoridades federales y estatales en materia de protección civil, en coordinación con la SEGAM.
+
+###### ARTICULO 72.
+
+Para la aplicación de las disposiciones contenidas en el presente Capítulo se considerarán como:
+
+I. Fuentes emisoras de competencia estatal:
+
+a). Aquellas industrias que por exclusión del artículo 111 Bis de la LGEEPA no sean consideradas de jurisdicción federal, así como aquellos subsectores específicos que por exclusión no sean considerados de igual manera en el reglamento federal de la materia, y
+
+b). Las señaladas en otras disposiciones legales aplicables y que no corresponda su regulación a la competencia federal.
+
+II. Fuentes emisoras de competencia municipal:
+
+a). Los establecimientos mercantiles o de servicios dentro de la circunscripción territorial del municipio;
+
+b). El parque vehicular de servicio público y el particular que circule dentro del territorio municipal, oficial, de emergencia y de tránsito especial, y
+
+c). En general todas aquellas que no sean de competencia estatal o federal.
+
+###### ARTICULO 73.
+
+Para la protección a la atmósfera la SEGAM considerará los siguientes criterios:
+
+I. La calidad del aire debe ser satisfactoria en todos los asentamientos humanos y las zonas del Estado, y
+
+II. Las emisiones de contaminantes a la atmósfera, sean de fuentes artificiales o naturales, deben ser reducidas y controladas para asegurar una calidad del aire satisfactoria para el bienestar de la población y del ambiente.
+
+###### ARTICULO 74.
+
+En materia de contaminación atmosférica el Estado y los municipios en el ámbito de sus respectivas jurisdicciones:
+
+I. Llevarán a cabo acciones de prevención y control de la contaminación del aire en zonas o fuentes emisoras de su jurisdicción;
+
+II. Aplicarán los criterios ecológicos para la protección de la atmósfera en las declaratorias de usos, destinos, reservas y provisiones, definiendo las zonas en que se permita la instalación de industrias;
+
+III. Convendrán con quienes realicen actividades contaminantes para controlar, reducir o evitar las emisiones a la atmósfera, sin perjuicio de que se les requiera la instalación y operación de equipos de control, conforme a las normas aplicables, cuando se trate de actividades de jurisdicción estatal y promoverán ante el Ejecutivo Federal dicha instalación, en los casos de su jurisdicción;
+
+IV. Integrarán y mantendrán actualizados los inventarios de las diferentes fuentes de contaminación de la atmósfera;
+
+V. Establecerán y operarán sistemas de verificación de emisiones de vehículos automotores en circulación, y sancionarán a los propietarios o poseedores de aquellos que no cumplan con las medidas de control dispuestas; en su caso, retirarán de la vía pública aquellos que rebasen los límites máximos permisibles que determinen los reglamentos y normas técnicas ecológicas correspondientes, así como los ostensiblemente contaminantes;
+
+VI. Llevarán un registro de los centros de verificación vehicular y mantendrán actualizado un informe de los resultados obtenidos en la medición de las emisiones contaminantes realizadas en dichos centros;
+
+VII. Llevarán a cabo campañas para racionalizar el uso del automóvil particular, así como para la afinación y mantenimiento de los motores;
+
+VIII. Promoverán el mejoramiento del transporte urbano y suburbano, la modernización del sistema mecánico de las unidades, así como de los vehículos de servicio público de propiedad particular;
+
+IX. Establecerán y operarán con el apoyo técnico en su caso de la federación, sistemas de monitoreo de la calidad del aire.
+
+La SEGAM concentrará los informes locales de monitoreo para su incorporación a los sistemas de información estatal y federal, de conformidad con el acuerdo de coordinación que al efecto se celebre;
+
+X. Establecerán requisitos y procedimientos para regular las emisiones del transporte público estatal y municipal; asimismo aplicarán las medidas de tránsito atingentes y en su caso, la suspensión de circulación en casos graves de contaminación;
+
+XI. Emitirán las disposiciones y establecerán las medidas tendientes a evitar la quema de cualquier tipo de residuo sólido o líquido, incluyendo basura doméstica, hojarasca, hierba seca, esquilmos agrícolas, llantas usadas, plásticos, lubricantes usados, solventes y otras; así como las quemas con fines de desmontes o deshierbe de terrenos;
+
+XII. Tomarán las medidas preventivas para evitar contingencias ambientales por contaminación atmosférica, y
+
+XIII. Ejercerán las demás facultades que les confieren las disposiciones legales y reglamentos aplicables.
+
+###### ARTICULO 75.
+
+Los que realicen actividades que constituyan fuentes fijas de contaminación atmosférica de jurisdicción local, quedarán afectos a las obligaciones y limitaciones básicas siguientes:
+
+I. Proporcionar toda la información y documentos que le soliciten la autoridad en uso de sus facultades;
+
+II. Deberán instalar equipos o sistemas para el control de las emisiones contaminantes, conforme a lo establecido en la normatividad ambiental federal, estatal y conforme a las medidas técnicas fijadas por la SEGAM en los términos y plazos establecidos en la presente Ley y sus disposiciones reglamentarias;
+
+III. Integrar un inventario de sus emisiones contaminantes a la atmósfera en el formato que determine la SEGAM;
+
+IV. Instalar plataformas y puertos de muestreo para la evaluación de sus emisiones;
+
+V. Medir sus emisiones contaminantes a la atmósfera conforme a los parámetros y periodicidad señalados en el reglamento respectivo y en la normatividad ambiental vigente, así como registrar los resultados en el formato que determine la SEGAM;
+
+VI. Llevar a cabo el monitoreo perimetral de sus emisiones contaminantes a la atmósfera, cuando la fuente de que se trate se localice en zonas urbanas o suburbanas, cuando colinde con áreas naturales protegidas y cuando por sus características de operación o por sus materias primas, productos o subproductos, puedan causar deterioro a los ecosistemas;
+
+VII. Dar aviso anticipado a la SEGAM del inicio de operación de sus procesos en el caso de paros programados y de inmediato en el caso de que éstos sean circunstanciales, si los niveles de contaminantes son superiores a los valores normales por un periodo de tiempo que se indicará en el reglamento de esta Ley;
+
+VIII. Dar aviso inmediato a la autoridad competente en caso de descompostura o falla de los equipos de control, para que ésta determine lo conducente;
+
+IX. Llevar la bitácora de operación y mantenimiento de sus equipos de proceso y de control, así como dar cumplimiento a las demás obligaciones señaladas a los responsables en la presente Ley y sus reglamentos, y
+
+X. En las zonas próximas a áreas habitacionales en las que estén permitidas actividades industriales, según los respectivos planes de centros de población o municipales, sólo podrán establecerse industrias medianas o ligeras que por su tecnología y tipo de combustible, garanticen no rebasar los límites de emisión establecidos por la normatividad ambiental federal y estatal.
+
+Las empresas públicas, las privadas y los particulares en general que pretendan realizar el cambio de sus sistemas de combustión por el uso de combustibles más limpios como el gas natural, deberán comunicarlo previamente a la SEGAM, a efecto de que ésta cuente con la información que le permita emitir el dictamen correspondiente.
+
+###### ARTICULO 76.
+
+Las fuentes fijas emisoras de contaminantes de jurisdicción local requerirán permiso de operación, que será expedido conforme al procedimiento correspondiente y previa la satisfacción de los requisitos establecidos en el reglamento de esta Ley, por la SEGAM o el municipio que corresponda según sus atribuciones, sin perjuicio de las autorizaciones que deban expedir otras autoridades competentes.
+
+###### ARTICULO 77.
+
+Una vez otorgado el permiso de operación, el responsable de las emisiones deberá actualizarlo ante la SEGAM o ante las autoridades municipales correspondientes, dentro de la fecha que señalen las mismas y conforme a los procedimientos que determinen los reglamentos aplicables.
+
+###### ARTICULO 78.
+
+Las emisiones contaminantes a la atmósfera generadas por fuentes fijas de competencia local, deberán canalizarse a través de ductos o chimeneas de descarga; cuando esto no sea posible por razones de índole técnica, el responsable de la fuente emisora deberá presentar un estudio justificativo ante la SEGAM o ante la autoridad municipal que corresponda, a fin de que se resuelva lo conducente.
+
+Queda prohibida la emisión de contaminantes a nivel de piso que no estén debidamente canalizados, así como emisiones fugitivas en equipos de proceso y control.
+
+###### ARTICULO 79.
+
+La SEGAM o en su caso, las autoridades municipales, podrán expedir conforme a los procedimientos y previa la satisfacción de los requisitos establecidos en los reglamentos de la presente Ley, permisos de operación temporales para aquellas fuentes emisoras estacionarias que permanezcan en operación un término no mayor de sesenta días naturales en el mismo sitio.
+
+Los responsables de dichas fuentes deberán apegarse a las disposiciones previstas en esta Ley, así como a las relativas a impacto ambiental para la elaboración del manifiesto cuando por su actividad se requiera.
+
+Los responsables de fuentes fijas de jurisdicción estatal y municipal, están obligados a presentar sus evaluaciones de emisiones con la periodicidad que se señale en el reglamento respectivo y en la normatividad ambiental vigente.
+
+###### ARTICULO 80.
+
+Sólo se permitirá la combustión a cielo abierto cuando se efectúe con permiso del Ayuntamiento correspondiente, para adiestrar y capacitar al personal encargado del combate de incendios.
+
+Para obtener el permiso a que se refiere el párrafo anterior, el interesado deberá presentar al Ayuntamiento correspondiente la solicitud por escrito cuando menos con diez días hábiles de anterioridad a la fecha en que se tenga programado el evento, con la siguiente información y documentación:
+
+I. Croquis de localización del predio, indicando el lugar preciso en el que se efectuarán las combustiones, así como las construcciones y colindancias más próximas, además de las condiciones que imperan en el lugar;
+
+II. Programa calendarizado en el que se precise la fecha y horarios en los que tendrá lugar la combustión, y
+
+III. Tipos y cantidades del combustible que se incinerará.
+
+El Ayuntamiento correspondiente podrá suspender de manera temporal o definitiva el permiso a que se refiere este artículo, cuando se presente alguna contingencia ambiental en la zona.
+
+###### ARTICULO 81.
+
+La SEGAM o los ayuntamientos establecerán los mecanismos para evitar o prohibir:
+
+I. La descarga de contaminantes a la atmósfera cualquiera que sea la fuente de su emisión, que provoquen o puedan ocasionar deterioro ambiental, daños o molestias a la salud humana, y en general, a los ecosistemas;
+
+II. La circulación de vehículos automotores cuyos niveles de emisión de contaminantes a la atmósfera, rebasen los límites máximos permisibles determinados en la normatividad ambiental sobre emisión de hidrocarburos, monóxido de carbono y otros contaminantes, y
+
+III. La quema de cualquier tipo de desecho y residuo sólido y líquido, incluyendo entre otros, basura doméstica, hojarasca, hierba seca, esquilmos agrícolas, llantas usadas, plásticos, lubricantes usados y solventes, así como las prácticas de roza, tumba y quema con fines de desmonte o deshierbe de terrenos, excepto aquellas que se encuentren sujetas a la observancia y cumplimiento de la normatividad aplicable.
+
+Los simulacros de incendios podrán ser autorizados por la SEGAM en coordinación con las autoridades de Protección Civil en el Estado, bajo las condiciones de seguridad que el caso amerite, previa solicitud e informes de su ubicación, así como de los materiales que serán empleados como combustibles.
+
+Los productores, agricultores, ganaderos, así como todos aquellos que realicen actividades similares en áreas ubicadas fuera de los centros de población, por sí o a través de las asociaciones o grupos en que se encuentren constituidos, deberán elaborar un plan de prevención de contingencias ambientales, mismo que deberán presentar previamente a la ejecución de cualquier quema a cielo abierto ante la SEGAM para ser evaluado.
+
+Dicha evaluación será efectuada por un grupo de trabajo intersecretarial que será conformado por la propia SEGAM, la SEMARNAP, la SEDARH y las autoridades de Protección Civil, la cual permitirá autorizar, solicitar, modificar por única vez, el plan presentado o negar la respectiva autorización, debiendo observar la normatividad y legislación aplicable.
+
+###### ARTICULO 82.
+
+Las autoridades estatales y municipales en forma coordinada, establecerán, organizarán, implementarán y llevarán a cabo programas de prevención y control de la contaminación ambiental en los territorios de sus respectivas jurisdicciones, que por lo menos se referirán a los aspectos siguientes:
+
+I. Mejoramiento de los sistemas de transporte urbano y suburbano;
+
+II. Prevención y control de la quema de desechos y residuos sólidos y líquidos;
+
+III. Racionalización del uso de automóviles particulares y control de la afinación y mantenimiento de motores;
+
+IV. Reubicación y, en su caso, desconcentración de actividades contaminantes;
+
+V. Creación de zonas en que se prohiba el tránsito de vehículos automotores y además se prevea la apertura de corredores peatonales y de ciclopistas, y
+
+VI. La construcción y ampliación de libramientos carreteros con el fin de disminuir el tráfico de automotores por las zonas urbanas.
+
+La SEGAM podrá solicitar a las empresas públicas y privadas, organismos descentralizados y particulares en general, la información necesaria para conformar un inventario de emisiones de fuentes fijas de competencia estatal, estando éstas obligadas a proporcionar dicha información, salvo en aquellos casos en que puedan afectarse derechos de propiedad industrial, confidencialidad o en los prohibidos por otras leyes.
+
+###### ARTICULO 83.
+
+Corresponderá a la SEGAM con la participación de los municipios autorizar los centros de verificación vehicular, así como supervisar su funcionamiento; para tal efecto, podrán celebrarse los convenios necesarios con los respectivos ayuntamientos.
+
+La SEGAM promoverá y supervisará con la participación de los ayuntamientos, el cumplimiento de los objetivos y metas que se establezcan en el programa de verificación y control de emisiones de vehículos automotores que se lleve a cabo en talleres y centros autorizados por la autoridad competente. Dicho programa, sus especificaciones, alcance y objetivos se establecerán mediante acuerdo administrativo y conforme a lo dispuesto en el reglamento de la materia. La información que derive de este programa se incorporará a los inventarios de emisiones correspondientes.
+
+###### ARTICULO 84.
+
+Los propietarios o poseedores de terrenos erosionados, en proceso de erosión o desprovistos de vegetación, en concertación con las autoridades competentes, ejecutarán las medidas de protección y restauración de los mismos a efecto de evitar tolvaneras u otras contingencias que pudieran presentarse.
+
+### CAPITULO III. DE LA CONTAMINACION DEL SUELO Y DEL SUBSUELO
+
+###### ARTICULO 85.
+
+Para la descarga e infiltración de aguas residuales que contengan contaminantes, sea en el suelo, subsuelo o en cualquier cuerpo o corriente de agua de jurisdicción estatal, así como en los sistemas de alcantarillado de los centros de población, se establecen los siguientes criterios:
+
+I. No podrá llevarse a cabo la descarga o infiltración de dichas aguas sin previo tratamiento y permiso de la autoridad estatal o municipal correspondiente. El permiso podrá otorgarlo el Ayuntamiento por sí o por conducto del organismo operador del agua en los municipios donde existieren;
+
+II. Se cumplirán los requisitos que establezca la respectiva normatividad ambiental federal y estatal, con objeto de evitar la contaminación de los cuerpos receptores, las interferencias en los procesos de depuración de las aguas y los trastornos en los aprovechamientos hidráulicos o en el funcionamiento adecuado y en la capacidad de los sistemas, así como en los sistemas de alcantarillado municipales;
+
+III. Se observarán asimismo, las condiciones generales y particulares que la SEGAM con la participación que corresponda a los ayuntamientos por sí o por conducto de los organismos operadores del agua fijen, para la descarga o infiltración y en su caso, la instalación del respectivo sistema de tratamiento de aguas residuales contaminantes. Para tal fin las condiciones particulares de descarga tendrán una vigencia de 5 años contados a partir de la fecha de expedición a solicitud expresa; dicho plazo podrá ser ajustado por la SEGAM en coordinación con el Ayuntamiento por sí o a través de los organismos operadores del agua. Dichos ajustes o modificaciones deberán cumplir con el sustento legal y motivación necesarias;
+
+IV. Se registrarán ante la autoridad municipal correspondiente o ante los organismos operadores del agua, en los términos que lo establezcan las leyes y reglamentos aplicables, las descargas de aguas residuales provenientes de las actividades agrícolas, industriales, comerciales y de servicios que sean descargados a los cuerpos receptores;
+
+V. Se obtendrá en su caso, licencia municipal de construcción para el servicio específico de conexión al alcantarillado, de acuerdo con las disposiciones legales aplicables;
+
+VI. Se exigirá de acuerdo a los estudios técnicos y de factibilidad, la reutilización de aguas residuales tratadas, tanto en actividades agrícolas, industriales y de servicios, como en el riego de parques, plazas y jardines públicos, así como el intercambio de aguas tratadas por aguas de primer uso, y
+
+VII. Con el propósito de que la SEGAM o el Ayuntamiento respectivo, por sí o a través de los organismos operadores del agua, tengan la información relativa a la calidad y cantidad de la descarga que permita verificar el cumplimiento de las condiciones generales o particulares de descarga, el responsable de las mismas deberá realizar y entregar en forma mensual o en el plazo que expresamente se determine, los resultados del aforo y caracterización de las aguas residuales determinados en el punto de la descarga, los que deberán ser realizados por laboratorio acreditado ante las instancias competentes. Los muestreos y aforos deberán seguir los procedimientos que sean señalados por las normas oficiales mexicanas o en su caso por la autoridad competente.
+
+###### ARTICULO 86.
+
+La concesión o permiso para el uso o aprovechamiento de aguas de jurisdicción estatal o en aguas de jurisdicción federal asignadas al Estado o a los municipios, estarán condicionadas al tratamiento previo a su descarga de las aguas residuales que se generen.
+
+###### ARTICULO 87.
+
+Cuando las aguas residuales afecten o puedan afectar fuentes de abastecimiento de agua potable, la SEGAM, así como la respectiva autoridad sanitaria local, promoverán ante la autoridad federal, estatal o municipal u organismos operadores del agua competentes, la negativa del permiso o autorización correspondientes o su inmediata revocación, y en su caso, la suspensión del suministro de agua potable de la fuente afectada.
+
+###### ARTICULO 88.
+
+Las aguas residuales provenientes del alcantarillado de los centros de población podrán reutilizarse en actividades agrícolas, forestales, industriales y de servicios, siempre que se sometan previamente al tratamiento requerido para el cumplimiento de las condiciones particulares de descarga o las que establezca la normatividad ambiental aplicable, y se realice asimismo el pago de los derechos correspondientes a la autoridad prestadora del servicio.
+
+###### ARTICULO 89.
+
+Para construir e instalar plantas tratadoras de aguas residuales provenientes de actividades industriales y de servicios, o de los sistemas de drenaje y alcantarillado municipal, se requerirá además de la presentación de la manifestación de impacto ambiental a que se refiere esta Ley, licencia de uso del suelo expedida por la autoridad competente, además del dictamen de factibilidad municipal en los términos de ley y conforme a los requisitos que para los casos de usos que puedan generar impacto ambiental significativo se establezcan, previa opinión por escrito de la SEGAM.
+
+###### ARTICULO 90.
+
+Los programas para prevenir y controlar la contaminación del agua que elabore, organice o ejecute la SEGAM, en su caso, con la participación de los respectivos ayuntamientos por sí o a través de los organismos operadores del agua, serán a lo menos los siguientes:
+
+I. Promoción de reutilización de aguas residuales tratadas, conforme a lo establecido en la normatividad ambiental vigente, tanto en actividades agrícolas e industriales, como en el riego de parques, plazas y jardines, así como la promoción de intercambio de aguas residuales tratadas por aguas de primera calidad;
+
+II. Introducción de sistemas de alcantarillado separados en los fraccionamientos, parques industriales existentes y en los centros de población, que permitan conducir sus aguas residuales independientemente de las de origen doméstico y aun de las pluviales, para su respectivo tratamiento posterior, y
+
+III. Instalación de plantas de tratamiento de aguas residuales de origen doméstico e industrial, en conjunto o separadamente en su caso. Asimismo, el establecimiento de plantas de tratamiento para aguas residuales de industrias aisladas.
+
+### CAPITULO IV. DE LA CONTAMINACION POR RUIDO, VIBRACIONES, ENERGIA TERMICA Y LUMINICA, OLORES Y DE LA CONTAMINACION VISUAL
+
+###### ARTICULO 91.
+
+Para prevenir y controlar la contaminación del suelo y del subsuelo corresponderá a la SEGAM y a los ayuntamientos en el ámbito de sus respectivas competencias, vigilar y controlar que:
+
+I. No se acumulen, depositen o infiltren residuos o sustancias en el suelo o subsuelo sin el tratamiento previo respectivo y en sitios que no reúnan las condiciones técnicas necesarias para prevenir y evitar su contaminación y debidamente autorizados, de acuerdo a la legislación y normatividad ambiental aplicables;
+
+II. El funcionamiento de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, reciclaje, tratamiento y disposición final de residuos sólidos municipales se lleven a cabo conforme a los lineamientos y disposiciones que emita la autoridad municipal, así como a la normatividad ambiental correspondiente;
+
+III. El funcionamiento de los sistemas de recolección, almacenamiento, transporte, alojamiento, reutilización, reciclaje, tratamiento y disposición final de residuos industriales no peligrosos se lleve a cabo conforme a los lineamientos y disposiciones que expida la SEGAM, así como a la normatividad ambiental aplicable;
+
+IV. El manejo de los materiales y residuos peligrosos se lleve a cabo conforme a lo dispuesto en los artículos 151 a 154 de la LGEEPA y la normatividad ambiental aplicable, así como a las disposiciones y restricciones de las correspondientes autorizaciones, debiendo en todo momento hacerlo del conocimiento de la PROFEPA para que aplique las medidas de seguridad y sanciones cuando fueren procedentes, así como la interposición de las denuncias ante la autoridad competente;
+
+V. La introducción al Estado de residuos de cualquier tipo provenientes de otro país, sea con el único propósito de tratarlos, reciclarlos o reutilizarlos, y cuando su utilización sea conforme a las leyes, reglamentos, normatividad ambiental y demás disposiciones vigentes;
+
+VI. La generación, manejo y disposición final de residuos de lenta degradación se haga conforme a las (sic) normatividad ambiental correspondiente, y
+
+VII. Que el riego agrícola que se realice con aguas tratadas cumpla con la normatividad aplicable, igual en los casos de riego de áreas verdes y centros recreativos.
+
+###### ARTICULO 92.
+
+Será atribución de la SEGAM, con la participación que corresponda a la SDARH, a los Servicios Coordinados de Salud Publica en el Estado y a los ayuntamientos, vigilar que no se utilicen en el territorio estatal plaguicidas y fertilizantes cuya aplicación no esté permitida de acuerdo a la normatividad ambiental; asimismo, vigilar la observancia y cumplimiento de las disposiciones normativas vigentes en las actividades relacionadas con dichos materiales, incluyendo la disposición final de sus residuos, empaques y envases vacíos.
+
+Los envases que hayan contenido insumos fitosanitarios o plaguicidas e insumos de nutrición vegetal, previo dictamen de laboratorio acreditado donde se especifique su no peligrosidad, deberán someterse al procedimiento de lavado a que se refiere la Norma Oficial Mexicana que corresponda, así como en su caso a las disposiciones que establezca el CESPLAFEST.
+
+Las dependencias estatales y municipales dictarán las medidas que correspondan y supervisarán en las épocas agrícolas, que el empleo de plaguicidas no ocasione efectos adversos en la salud humana, en los cultivos, fauna silvestre y en los animales domésticos, en las áreas donde se apliquen como en las circunvecinas.
+
+El CESPLAFEST en el Estado será la instancia encargada de acordar en los términos de ley las acciones y programas que procedan.
+
+Los distribuidores, propietarios o responsables de la venta directa o indirecta de plaguicidas, defoliantes, fertilizantes y similares, estarán obligados a recoger los envases vacíos y productos que hubiesen caducado, para lo cual establecerán los mecanismos necesarios para llevarlo a cabo conforme a los lineamientos que determine el CESPLAFEST, así como las autoridades competentes.
+
+###### ARTICULO 93.
+
+La utilización de aeronaves para la fumigación de campos agrícolas en el territorio del Estado, quedará prohibida en aquellos casos en que la dispersión de los agroquímicos como plaguicidas, herbicidas, defoliantes y similares, no pueda ser controlada o no pueda garantizarse su adecuado control hacia centros de población, viviendas, asentamientos humanos, cuerpos y corrientes de agua y vías de comunicación que se encuentren fuera del área de fumigación.
+
+El CESPLAFEST y las autoridades competentes evaluarán los programas para llevar a cabo la fumigación, debiendo los responsables presentarlo previamente al inicio de actividades.
+
+###### ARTICULO 94.
+
+Para prevenir y controlar la contaminación del suelo y del subsuelo, la SEGAM en coordinación en su caso con otras dependencias estatales, deberá realizar al menos los siguientes programas:
+
+I. De inspección de control y vigilancia a los sistemas y actividades industriales a que se refiere esta Ley;
+
+II. De introducción de técnicas y procesos en la industria para la reutilización, reciclaje y disminución de residuos sólidos, así como de regulación de su manejo y disposición final;
+
+III. De introducción de letrinas en donde no exista red de drenaje ni fosas sépticas, para evitar que el fecalismo al aire libre contamine el suelo y el subsuelo;
+
+IV. De introducción de fosas sépticas o fosas de tratamiento de desechos orgánicos en asentamientos humanos carentes de redes de drenaje y alcantarillado, y
+
+V. Para la recuperación de suelos contaminados por la presencia de materiales de cualquier tipo, de tal manera que puedan ser integrados a los planes y programas de desarrollo urbano o de ordenamiento ecológico que resulten aplicables.
+
+### CAPITULO I. DE LAS ACTIVIDADES CONSIDERADAS COMO RIESGOSAS
+
+###### ARTICULO 95.
+
+Quedan prohibidas las emisiones de ruido, vibraciones, energía térmica y lumínica, y la generación de contaminación visual en cuanto rebasen los límites máximos permisibles establecidos en la normatividad ambiental que para tal efecto emita la federación y el Estado. Las autoridades estatales y los ayuntamientos adoptarán las medidas para impedir que se transgredan dichos límites, y en su caso, aplicarán las sanciones correspondientes.
+
+Será motivo de sanción administrativa el uso indebido de claxón, considerándose como tal aquél que se realice en intérvalos o periodos repetitivos, así como los escapes abiertos de cualquier vehículo automotor que circule dentro de los centros de población
+
+En la construcción de obras o instalaciones que generen o puedan generar energía térmica o lumínica, ruido o vibraciones, así como en la operación o funcionamiento de las existentes, deberán llevarse a cabo acciones preventivas y correctivas para evitar los efectos nocivos de tales contaminantes en el ambiente, previo dictamen de las autoridades estatales y municipales correspondientes.
+
+###### ARTICULO 96.
+
+En la fijación de rutas, horarios y límites de velocidad a los vehículos destinados al autotransporte público de pasajeros y carga, las autoridades de tránsito estatales y municipales deberán considerar la prevención y control de ruido que pueda ocasionar molestia, los límites máximos permisibles previstos en la normatividad vigente, así como la aplicación de las sanciones correspondientes según el caso.
+
+###### ARTICULO 97.
+
+No se permitirá en las zonas habitacionales, ni en las proximidades a los servicios de equipamiento urbano, la instalación de establos, curtidurías, actividades avícolas y pecuarias, así como la instalación de industrias o servicios que produzcan olores que generen molestias a la población. La anterior disposición deberá tomarse en cuenta en la formulación de los planes de desarrollo urbano de los centros de población.
+
+## TITULO SEPTIMO. DE LAS ACTIVIDADES QUE PUEDEN GENERAR EFECTOS NOCIVOS
+
+### CAPITULO II. DE LOS RESIDUOS SOLIDOS MUNICIPALES Y DE LOS RESIDUOS INDUSTRIALES NO PELIGROSOS
+
+###### ARTICULO 98.
+
+La SEGAM, previa opinión de las dependencias que correspondan, con la participación de la Comisión Estatal de Ecología o del Subcomité Sectorial del COPLADE, establecerá la clasificación y listados de las actividades riesgosas, en virtud de las características tóxicas o de flamabilidad y volúmenes de los materiales que se manejen en los establecimientos comerciales, industriales o de servicios, considerando además la ubicación del establecimiento.
+
+Se exceptuarán de dicha clasificación las actividades comprendidas en los listados de actividades clasificadas como altamente riesgosas emitidas por la federación. El acuerdo aprobatorio contendrá el respectivo listado y deberá ser publicado en el Periódico Oficial del Estado y en alguno de los diarios de mayor circulación en la Entidad. La misma regla deberá observarse en el listado de obras y actividades que causen o puedan causar impacto ambiental significativo.
+
+###### ARTICULO 99.
+
+La realización de actividades riesgosas, de llevarse a cabo se harán con apego a lo dispuesto en esta Ley, las disposiciones reglamentarias y la normatividad ambiental que se derive de lo previsto en el artículo anterior.
+
+Quienes realicen actividades riesgosas deberán formular y presentar a la SEGAM un estudio de riesgo ambiental bajo la modalidad de informe preliminar; así como someter a su aprobación los programas para la prevención de accidentes en la realización de tales actividades que pudieran causar impactos ambientales adversos.
+
+###### ARTICULO 100.
+
+La SEGAM, en coordinación con los respectivos ayuntamientos y la SEDUCOP cuando así proceda, elaborará programas de desconcentración de actividades riesgosas y altamente riesgosas, para su reubicación en las áreas señaladas en los respectivos planes de desarrollo urbano y planes de ordenamiento ecológico, o tratándose de localidades en que no hubiere plan, en los lugares técnicamente apropiados y aprobados por la SEGAM y el correspondiente municipio.
+
+Asimismo, la SEGAM impulsará y participará en la celebración de convenios de concertación con los sectores empresariales para los efectos de llevar a cabo dichos programas.
+
+###### ARTICULO 101.
+
+Para el caso de que las empresas con actividades consideradas riesgosas o altamente riesgosas por alguna causa no participaren en los programas a que se refiere el artículo anterior o se negaren a hacerlo, la SEGAM, el ayuntamiento respectivo y la SEDUCOP cuando proceda, requerirán al propietario, poseedor o responsable de la misma para que dentro del término de treinta días naturales contados a partir del día siguiente al en que se realice la correspondiente notificación, presente ante dichas autoridades una propuesta de reubicación de su empresa, dentro de la cual deberán informar de manera detallada sobre los siguientes aspectos:
+
+I. El tipo de proceso industrial;
+
+II. Los productos y subproductos generados;
+
+III. El mercado potencial de la empresa;
+
+IV. El monto de la inversión requerida para su reubicación, y
+
+V. Un programa calendarizado en diagrama de barras, exponiendo las razones y fundamentos de los plazos propuestos para la reubicación parcial o definitiva de la empresa.
+
+Presentada la propuesta dentro del plazo anteriormente señalado, la SEGAM, el Ayuntamiento y la SEDUCOP de ser el caso, procederán a evaluarla a efecto de resolver en lo conducente.
+
+Una vez vencido el plazo señalado sin que el propietario, poseedor o responsable la hubiese presentado ante las instancias correspondientes, se entenderá que no existe interés por parte de los responsables para realizar la propuesta, facultándose a la SEGAM, al respectivo Ayuntamiento y a la SEDUCOP de ser el caso, para resolver lo que normativamente y en derecho proceda.
+
+### CAPITULO III. DE LOS SERVICIOS URBANOS MUNICIPALES
+
+###### ARTICULO 102.
+
+Corresponderá a los ayuntamientos autorizar o dar en concesión con arreglo a las bases que para tal efecto se expidan, el funcionamiento de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de los residuos sólidos municipales e industriales no peligrosos, así como vigilar y controlar su operación.
+
+###### ARTICULO 103.
+
+Corresponderá a la SEGAM regular, seleccionar, determinar y autorizar los sitios que técnica y normativamente se consideren aptos para la disposición final de los residuos sólidos municipales e industriales no peligrosos, con apego a esta Ley, la LGEEPA y demás disposiciones normativas correspondientes.
+
+###### ARTICULO 104.
+
+La SEGAM, en coordinación con los ayuntamientos, para los efectos de este capitulo promoverán:
+
+I. El uso de sistemas de reciclamiento de desechos sólidos para disminuir su cantidad, a través de la separación y clasificación, así como la operación de sistemas de reciclaje;
+
+II. La implantación y mejoramiento de sistemas de recolección, tratamiento y disposición final de residuos sólidos municipales y residuos industriales no peligrosos;
+
+III. La fabricación y utilización de empaques y envases para todo tipo de productos, cuyos materiales permitan reducir la generación de residuos sólidos, y
+
+IV. Que los lodos provenientes de procesos industriales y de las plantas de tratamiento de aguas residuales que no se consideren como residuos peligrosos, se les dé la disposición final adecuada en los términos que así lo determine normativamente la SEGAM.
+
+###### ARTICULO 105.
+
+La SEGAM y los respectivos ayuntamientos llevarán los inventarios de rellenos sanitarios y de los sitios de disposición de residuos industriales no peligrosos, así como el de fuentes generadoras, cuyos datos los integrará la propia SEGAM.
+
+###### ARTICULO 106.
+
+Los sitios que se pretenda utilizar para disposición de residuos sólidos municipales y residuos industriales no peligrosos, deberán apegarse a la normatividad ambiental correspondiente y a las autorizaciones de impacto ambiental que para tal efecto se expidan. También deberán apegarse a los lineamientos y directrices previstos en los planes de desarrollo urbano estatales, municipales y centros de población y en los programas de ordenamiento ecológico.
+
+###### ARTICULO 107.
+
+Se establecen las prohibiciones siguientes:
+
+I. La habilitación de tiraderos de basura a cielo abierto;
+
+II. El almacenamiento, alojamiento, reutilización y disposición final de residuos sólidos municipales e industriales no peligrosos, sin ajustarse a la normatividad ambiental correspondiente o a las autorizaciones de impacto ambiental respectivas;
+
+III. La construcción de viviendas dentro de los recintos en que se traten residuos sólidos, así como en sus áreas circunvecinas inmediatas e igualmente en los suelos que queden rehabilitados al término de su vida útil;
+
+IV. La instalación de cualquier tipo de equipamiento en las áreas antes señaladas, con la excepción de casetas de vigilancia y sanitarios;
+
+V. La disposición final de lodos provenientes de procesos industriales y de plantas de tratamiento, así como de residuos industriales no peligrosos en los rellenos sanitarios municipales autorizados, salvo el caso de que dicho relleno sanitario cuente con celdas técnica y normativamente apropiadas para su disposición final y previa autorización de la SEGAM;
+
+VI. El vertido directo de lodos provenientes de procesos industriales y de las plantas de tratamiento de aguas residuales, que no se consideren como residuos peligrosos, a cuerpos receptores de jurisdicción estatal o en los sistemas de drenaje y alcantarillado municipal, y
+
+VII. La circulación de vehículos en áreas urbanas o consideradas como tales, según los respectivos planes o programas de desarrollo urbano y ordenamiento ecológico y conforme al respectivo reglamento, cuando su carga contenga sustancias peligrosas, ya fueren materias primas, productos, subproductos, desechos o residuos.
+
+###### ARTICULO 108.
+
+Para el caso de no existir celdas técnica y normativamente apropiadas para la disposición final de los residuos industriales no peligrosos en los rellenos sanitarios autorizados, los promoventes deberán presentar ante la SEGAM, un proyecto ejecutivo que establezca el posible sitio, diseño y construcción, además de la manifestación de impacto ambiental a que se encuentra obligado en los términos de la presente Ley para su correspondiente evaluación. De ser favorable el resultado de la evaluación, la SEGAM notificará tal circunstancia al promovente y se procederá con el procedimiento de evaluación y autorización en materia de impacto ambiental, en los términos previstos en este ordenamiento.
+
+De no ser favorable el resultado de la evaluación del proyecto ejecutivo, la SEGAM podrá requerir al promovente la información adicional que considere necesaria, así como en su caso la modificación o ampliación del proyecto presentado.
+
+###### ARTICULO 109.
+
+Con el objeto de prevenir y controlar los efectos nocivos que pudieran ocasionar los residuos sólidos municipales e industriales no peligrosos, los respectivos municipios con la participación que corresponda al Gobierno del Estado, impulsarán los siguientes programas:
+
+I. De concientización y organización vecinal para evitar que se depositen y arrojen a la vía publica residuos de cualquier tipo, así como de limpia del frente de los predios por sus propietarios;
+
+II. De limpieza y control de las predios baldíos para evitar que se transformen en lugares de almacenamiento irregular de residuos sólidos municipales e industriales no peligrosos, y focos de insalubridad pública y contaminación, y
+
+III. Cualquier otro tendiente a prevenir y controlar la contaminación originada por estos residuos, así como a rehabilitar sitios contaminados.
+
+Los distribuidores, propietarios o responsables de la venta directa o indirecta de aceites lubricantes automotrices, así como los talleres de mantenimiento automotriz, estarán obligados a recoger los envases que hubiesen vendido, así como a recolectar y almacenar adecuadamente y de conformidad con la normatividad ambiental aplicable, los aceites lubricantes ya usados a efecto de que éstos puedan a su vez ser recolectados por empresas debidamente autorizadas por la autoridad competente, para lo cual se establecerán los mecanismos de coordinación necesarios para llevarlo a cabo conforme a los lineamientos que determinen las autoridades competentes.
+
+### CAPITULO UNICO
+
+###### ARTICULO 110.
+
+Los ayuntamientos formularán las disposiciones necesarias para la conservación, restauración y protección del ambiente en los centros de población, en relación con los servicios de agua potable, alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, calles, parques y jardines, tránsito y transporte locales, mismas que deberán ser observadas por las dependencias municipales encargadas de prestar tales serivicios (sic) y por los particulares a quienes se haya concesionado la prestación de los mismos.
+
+###### ARTICULO 111.
+
+Las disposiciones que se formulen para los efectos previstos en el artículo anterior deberán ajustarse a:
+
+I. Las normas contenidas en los correspondientes planes de desarrollo urbano, municipales y de centros de población, así como en los programas atingentes que deriven de los mismos;
+
+II. La normatividad ambiental federal y estatal, y
+
+III. Los Bandos de Policía y Buen Gobierno que expidan los municipios, para el mejor funcionamiento, y en su caso, la concesión de tales servicios.
+
+###### ARTICULO 112.
+
+En los términos previstos en esta Ley, los ayuntamientos propiciarán la participación de la ciudadanía en las acciones y obras relacionadas con el mejoramiento y eficiencia en la prestación de los servicios municipales.
+
+###### ARTICULO 113.
+
+Los ayuntamientos promoverán en su caso, conforme a los convenios de concertación que fueren necesarios, los programas que a continuación se señalan:
+
+I. De capacitación del personal que presta los servicios de limpia, rastros, mercados y centrales de abastos;
+
+II. De campañas para impulsar el ahorro en el consumo del agua, en coordinación con los organismos operadores del agua y las autoridades estatales;
+
+III. De habilitación, restauración y recuperación de áreas verdes en espacios públicos, con la participación de la comunidad;
+
+IV. De forestación y reforestación de los costados de carreteras, calles, estacionamientos públicos al aire libre y zonas de recarga de acuíferos;
+
+V. De protección de flora y fauna silvestres;
+
+VI. De campañas de información y orientación sobre la prohibición de descargar residuos peligrosos al drenaje, provenientes de casas habitación;
+
+VII. De formulación, aplicación y actualización periódica de la reglamentación municipal de la materia, y
+
+VIII. De instalación de centros de acopio de residuos sólidos reciclables, tales como papel, cartón, vidrio, metal y plásticos.
+
+## TITULO OCTAVO. DE LAS CONTINGENCIAS AMBIENTALES
+
+### CAPITULO UNICO
+
+###### ARTICULO 114.
+
+La prevención y control de las contingencias ambientales que se generen en el territorio de la Entidad, corresponderá al Sistema Estatal de Protección Civil.
+
+###### ARTICULO 115.
+
+La SEGAM promoverá ante la SEMARNAP, la celebración de acuerdos de coordinación que permitan a las autoridades estatales y municipales asumir como corresponda:
+
+I. La vigilancia y control en la Entidad del cumplimiento de las disposiciones legales federales que tiendan a prevenir las contingencias ambientales y emergencias ecológicas;
+
+II. La elaboración, manejo y control de programas de coordinación de acciones para prevenir las contingencias y emergencias ambientales, y
+
+III. La formulación, implementación y control de programas que propendan a la restauración de las áreas y recursos naturales afectados por dichas contingencias o emergencias ambientales.
+
+###### ARTICULO 116.
+
+El Sistema Estatal de Protección Civil en los términos que lo establezca la legislación de la materia, promoverá la elaboración, organización y ejecución de programas que, en conjunto con los municipios y en coordinación con los sectores privado y social, prevean las contingencias ambientales, así como la adopción de las medidas adecuadas para la atención de sus consecuencias.
+
+Los programas referidos deberán contener como mínimo:
+
+I. La designación de las autoridades, organizaciones, organismos privados y demás representantes de la comunidad, así como la asignación de las obligaciones que asumirán de producirse las contingencias y emergencias de que se trate;
+
+II. Los recursos humanos, materiales y económicos con que se pueda disponer;
+
+III. Equipos de auxilio, rescate y salvamento;
+
+IV. Mecanismos de capacitación que fueren necesarios, y
+
+V. Sistemas de medidas concretas de acciones, lugares señalados para las labores respectivas, instalaciones con que se cuenta o que se habilitarán, así como las pruebas de entrenamiento y difusión preventivas.
+
+## TITULO NOVENO. DE LA AUTORIZACION DE IMPACTO AMBIENTAL
+
+### CAPITULO I. DE LA PARTICIPACION SOCIAL
+
+###### ARTICULO 117.
+
+La realización de obras y actividades que puedan causar deterioro ambiental, efectos negativos sobre el ambiente y que rebasen los límites y condiciones establecidos en las disposiciones aplicables para su protección, requerirá de la autorización de impacto ambiental por parte de la SEGAM, con excepción de las obras y actividades que de conformidad con el artículo 28 de la LGEEPA corresponda a la SEMARNAP autorizar su impacto ambiental.
+
+###### ARTICULO 118.
+
+Para los efectos del artículo anterior requerirán autorización de impacto ambiental, quienes pretendan realizar las siguientes obras o actividades ya sean públicas o privadas:
+
+I. Obra pública que no corresponda a la competencia de la federación;
+
+II. Obras hidráulicas en aguas de jurisdicción estatal y municipal;
+
+III. Zonas y parques industriales en los que no se prevean realizar actividades altamente riesgosas;
+
+IV. Carreteras, caminos y puentes estatales, incluyendo los caminos rurales;
+
+V. Explotación, extracción, procesamiento y beneficio de minerales o substancias no reservadas a la federación, en los términos establecidos en el párrafo cuarto del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, en la Ley Minera y en esta Ley, tales como explotación de bancos de materiales para la construcción u ornamento de obras, y aquellas cuyos productos se deriven de la descomposición de las rocas y cuya explotación se realice preponderantemente por medio de trabajos a cielo abierto entre otras;
+
+VI. Instalaciones de tratamiento, recuperación y disposición final de residuos sólidos municipales, así como de residuos industriales no peligrosos;
+
+VII. Instalaciones de tratamiento de aguas residuales de procedencia municipal;
+
+VIII. Industrias de todo género, con excepción de las que conforme al artículo 28 fracción II de la LGEEPA, corresponde a la SEMARNAP evaluar su impacto ambiental;
+
+IX. Desarrollos turísticos;
+
+X. Obras y actividades en áreas naturales protegidas de jurisdicción estatal y municipal;
+
+XI. Actividades consideradas como riesgosas en los términos previstos en esta Ley, así como en el listado que al efecto se expida;
+
+XII. Fraccionamientos de cualquier tipo;
+
+XIII. Creación y fundación de nuevos centros de población, y
+
+XIV. Las demás que aun cuando sean distintas a las anteriores, puedan causar impactos ambientales significativos de carácter adverso y que por razón de la obra, actividad o aprovechamiento de que se trate, no estén sometidas para su realización a la regulación federal.
+
+###### ARTICULO 119.
+
+Los efectos negativos que sobre el ambiente pudieren causar las obras o actividades no previstas en el artículo anterior, estarán sujetas en lo conducente a las disposiciones de esta Ley, así como a la normatividad federal y estatal en materia de impacto ambiental.
+
+###### ARTICULO 120.
+
+Para obtener la autorización a que se refieren los artículos 117 y 118 de esta Ley, los interesados deberán presentar ante la SEGAM una manifestación de impacto ambiental, en los términos previstos en el artículo 30 de la LGEEPA.
+
+Cuando se trate de actividades consideradas como riesgosas en los términos de la presente Ley y que se encuentren en el listado que al efecto se expida, la manifestación deberá incluir un análisis de riesgo bajo la modalidad de informe preliminar.
+
+Si después de la presentación de una manifestación de impacto ambiental se realizan modificaciones al proyecto de la obra o actividad, los interesados deberán hacerlas del conocimiento de la SEGAM, a fin de que ésta en un plazo no mayor de diez días hábiles contados a partir de su recepción, les notifique si es necesaria la presentación de información adicional para evaluar los efectos al ambiente que pudiesen ocasionar tales modificaciones, en términos de lo dispuesto en esta Ley y en la normatividad ambiental vigente.
+
+El contenido del informe preventivo, así como las características y las modalidades de las manifestaciones de impacto ambiental, serán los establecidos en los instructivos que al efecto se expidan mediante acuerdo administrativo, y en su defecto en lo previsto en el Reglamento de la LGEEPA en materia de impacto ambiental.
+
+###### ARTICULO 121.
+
+En la realización de obras y actividades a que se refiere el artículo 118 de esta Ley, requerirán la presentación de un informe preventivo y no una manifestación de impacto ambiental cuando:
+
+I. Existan normas oficiales mexicanas o normas ambientales estatales u otras disposiciones que regulen sus emisiones, descargas, aprovechamiento de los recursos naturales y, en general, todos los impactos ambientales relevantes que puedan producir las obras o actividades;
+
+II. Las obras o actividades de que se trate, estén expresamente previstas por un plan de desarrollo urbano o programa de ordenamiento ecológico que haya sido evaluado por la SEGAM, debidamente aprobado y publicado en el Periódico Oficial del Estado, y
+
+III. Se trate de instalaciones que pretendan ubicarse en fraccionamientos industriales o comerciales autorizados.
+
+En los casos anteriores la SEGAM, una vez analizado el informe preventivo, determinará en un plazo no mayor de veinte días naturales contados a partir de la recepción del informe, si se requiere la presentación de una manifestación de impacto ambiental en alguna de las modalidades previstas en el Reglamento de la LGEEPA en materia de impacto ambiental.
+
+###### ARTICULO 122.
+
+Una vez que la SEGAM reciba una manifestación de impacto ambiental, pondrá ésta a disposición del público con el fin de que pueda ser consultada por cualquier persona.
+
+Los promoventes de la obra o actividad podrán requerir que se mantenga en reserva la información que haya sido integrada al expediente y que, de hacerse pública, pudiera afectar derechos de propiedad industrial y la confidencialidad de la información comercial que aporte el interesado.
+
+La SEGAM a solicitud de cualquier persona de la comunidad podrá llevar a cabo una reunión pública de información y consulta, misma que deberá efectuarse antes de la iniciación del procedimiento de evaluación e indicará también que dicho documento se encuentra a disposición de cualquier persona, a través de medios electrónicos y en las oficinas de dicha dependencia.
+
+Asimismo, el promovente deberá publicar a su costa un extracto del proyecto en alguno de los diarios de mayor circulación en la Entidad, dentro del plazo de cinco días hábiles contados a partir de su presentación ante la SEGAM.
+
+Cualquier interesado dentro del plazo de cinco días hábiles contados a partir de la publicación del extracto del proyecto que contiene la manifestación de impacto ambiental, podrá solicitar sea puesta a su disposición para su consulta en los términos señalados con anterioridad; asimismo, podrá proponer el establecimiento de medidas de prevención y mitigación adicionales, así como las observaciones que considere pertinentes, dentro de un plazo no mayor de cinco días hábiles. En caso de no presentarse éstas dentro del plazo señalado, se entenderá que no existen observaciones al proyecto. La SEGAM agregará las observaciones realizadas por los interesados al expediente respectivo y consignará en la resolución que emita el proceso de consulta, así como los resultados de las observaciones propuestas que se hayan formulado por escrito.
+
+###### ARTICULO 123.
+
+Una vez presentada la manifestación de impacto ambiental y transcurridos los plazos antes señalados, la SEGAM iniciará el procedimiento de evaluación para lo cual revisará que la solicitud se ajuste a las formalidades previstas en esta Ley, su Reglamento y la normatividad ambiental aplicable e integrará el expediente respectivo en un plazo no mayor de cinco días hábiles.
+
+La SEGAM una vez presentada una manifestación de impacto ambiental, notificará de ello al municipio correspondiente donde se pretenda llevar a cabo la obra o actividad, en un término de cinco días hábiles, a fin de que manifieste lo que a su interés convenga, situación que deberá llevar a cabo en un plazo de cinco días hábiles contados a partir de la notificación correspondiente; una vez transcurrido dicho plazo sin que el municipio hubiese manifestado algo al respecto, se entenderá que no existe objeción o comentarios al proyecto presentado.
+
+Para la autorización de las obras y actividades a que se refiere al artículo 118 de esta Ley, la SEGAM se sujetará a lo que establezcan los ordenamientos antes señalados, así como los planes de desarrollo urbano y programas de ordenamiento ecológico, las declaratorias de áreas naturales protegidas y las demás disposiciones jurídicas que resulten aplicables.
+
+Asimismo, para la autorización a que se refiere este artículo la SEGAM deberá evaluar los posibles efectos de dichas obras o actividades en el o los ecosistemas de que se trate, considerando el conjunto de elementos naturales y antrópicos que los conforman y no únicamente los recursos que, en su caso, serían sujetos de aprovechamiento o afectación.
+
+###### ARTICULO 124.
+
+Revisados los antecedentes la SEGAM resolverá si es necesario que el interesado proporcione información adicional. Si por las características de la obra o actividad propuesta fuese necesaria la opinión técnica de especialistas en la materia, la SEGAM podrá requerirla en el seno de la Comisión Especial a que se refiere el artículo 131 de la presente Ley, debiendo procederse en este caso como corresponda.
+
+Con los nuevos antecedentes a que se refiere el párrafo anterior, la SEGAM evaluará el impacto ambiental de la obra o actividad propuesta y expedirá debidamente fundada y motivada la resolución correspondiente en la que podrá:
+
+I. Autorizar la realización de la obra o actividad de que se trate en los términos manifestados;
+
+II. Autorizar de manera condicionada la obra o actividad de que se trate, a la modificación del proyecto o al establecimiento de medidas adicionales de prevención y mitigación a fin de que se eviten, atenúen o compensen los impactos ambientales adversos susceptibles de ser producidos en la construcción, operación normal y en su caso de accidentes. Cuando se trate de autorizaciones condicionadas, la SEGAM señalará los requerimientos que deben observarse en la realización de la obra o actividad prevista, así como los plazos para su cumplimiento, y
+
+III. Negar la autorización solicitada cuando:
+
+a). Se contravenga lo establecido en esta Ley, sus reglamentos, la normatividad ambiental federal o estatal y demás disposiciones aplicables;
+
+b). La obra o actividad de que se trate pueda propiciar que una o más especies sean declaradas como endémicas, amenazadas, raras o en peligro de extinción o cuando se afecte a una de dichas especies, o
+
+c). Se advierta o exista falsedad en la información proporcionada por los promoventes, respecto de los impactos ambientales que pudieren ocasionarse en la obra o actividad de que se trate.
+
+La SEGAM podrá exigir el otorgamiento de seguros o garantías respecto del cumplimiento de las condicionantes establecidas en la autorización, en aquellos casos expresamente señalados en el Reglamento de la presente Ley, cuando durante la realización de las obras puedan producirse daños graves a los ecosistemas o a la salud.
+
+La resolución de la SEGAM sólo se referirá a los aspectos ambientales de las obras y actividades de que se trate.
+
+###### ARTICULO 125.
+
+La SEGAM dentro del plazo de treinta y cinco días hábiles, contados a partir de la recepción de la manifestación de impacto ambiental, deberá emitir la resolución correspondiente.
+
+La SEGAM podrá solicitar aclaraciones, rectificaciones o ampliaciones al contenido de la manifestación de impacto ambiental que le sea presentada, suspendiéndose el término que restare para concluir el procedimiento. En ningún caso la suspensión podrá exceder el plazo de diez días hábiles, contados a partir de que ésta sea declarada por la SEGAM, siempre y cuando le sea entregada la información requerida.
+
+Excepcionalmente, cuando por la complejidad y las dimensiones de una obra o actividad la autoridad requiera de un plazo mayor para su evaluación, éste se podrá ampliar hasta por treinta días naturales adicionales, siempre que se justifique conforme a lo dispuesto en el Reglamento de la presente Ley, circunstancia que deberá notificarse al solicitante.
+
+###### ARTICULO 126.
+
+La SEGAM contará con un registro de prestadores de servicios y peritos en materia ambiental, cuyos lineamientos serán establecidos en el reglamento respectivo o mediante acuerdo administrativo que al efecto se expida.
+
+Las personas que presten servicios de impacto ambiental serán responsables ante la SEGAM de los informes preventivos, manifestaciones de impacto ambiental y estudios de riesgo que elaboren, quienes declararán bajo protesta de decir verdad, que en ellos se incorporan las mejores técnicas y metodologías existentes, así como la información y medidas de prevención y mitigación mas efectivas.
+
+Los informes preventivos, las manifestaciones de impacto ambiental y los estudios de riesgo, podrán ser presentados por los interesados, instituciones de investigación, colegios o asociaciones profesionales, en estos casos, la responsabilidad respecto del contenido del documento corresponderá a quien lo suscriba.
+
+###### ARTICULO 127.
+
+La SEGAM y, en su caso, el respectivo Ayuntamiento vigilarán y controlarán que:
+
+I. En la ejecución de la obra, su conclusión, operación y mantenimiento se dé cumplimiento a las exigencias establecidas por la propia SEGAM, así como a la normatividad ambiental correspondiente;
+
+II. Los organismos operadores del agua cumplan en todo momento con las disposiciones normativas en materia de control de descargas de aguas residuales a las redes de drenaje y alcantarillado de los centros de población, sin perjuicio de la intervención de otras dependencias, y
+
+III. En las obras y actividades que se desarrollen en la Entidad en uso de autorizaciones de impacto ambiental emitidas por la SEMARNAP, en los casos de su exclusiva competencia, se observen asimismo las disposiciones y limitaciones contenidas en las respectivas autorizaciones e igualmente lo prevenido en la normatividad ambiental aplicable.
+
+Los costos ambientales respecto de las obras o actividades sujetas a autorización en materia de impacto ambiental, deberán previamente evaluarse en la aplicación de restricciones, debiendo considerar los posibles cambios significativos de valor de plusvalía, antropológicos y estéticos.
+
+## TITULO DECIMO. DE LA PARTICIPACION SOCIAL E INFORMACION, LA INVESTIGACION Y LA EDUCACION AMBIENTAL
+
+### CAPITULO II. DE LA COMISION ESTATAL DE ECOLOGIA; DE LA SUBCOMISION DE PROYECTOS ESTRATEGICOS Y DE LOS COMITES MUNICIPALES DE DEFENSA DE LOS RECURSOS NATURALES
+
+###### ARTICULO 128.
+
+La SEGAM promoverá la participación corresponsable de la sociedad en la planeación, ejecución, evaluación y vigilancia de la política ambiental en la Entidad, para lo cual deberá:
+
+I. Convocar a través de los esquemas previstos en el Sistema Estatal de Planeación Democrática, a las organizaciones obreras, artesanales, empresariales, de campesinos y productores agropecuarios, pesqueros y forestales, comunidades agrarias, pueblos indígenas, instituciones educativas, organizaciones sociales y privadas no lucrativas y demás personas interesadas, para que manifiesten su opinión y propuestas;
+
+II. Celebrar con la participación de las autoridades correspondientes convenios de concertación con organizaciones obreras y grupos sociales para la protección del ambiente, con pueblos indígenas, comunidades agrarias y demás organizaciones campesinas, para el establecimiento, administración y manejo de áreas naturales protegidas de jurisdicción estatal o municipal, así como para brindarles asesoría ambiental en las actividades relacionadas con el aprovechamiento sustentable de los recursos naturales; con organizaciones empresariales, con instituciones educativas y académicas, para la realización de estudios, investigaciones y capacitación en la materia; con organizaciones civiles e instituciones privadas no lucrativas, para emprender acciones conjuntas, así como con representaciones sociales y con particulares interesados en la conservación y restauración del ambiente en la Entidad;
+
+III. Celebrar convenios con los medios de comunicación masiva para la difusión, información y promoción de acciones de conservación del ambiente en la Entidad;
+
+IV. Promover el establecimiento de reconocimientos a los esfuerzos más destacados de la sociedad en el Estado para preservar y restaurar el ambiente en el mismo;
+
+V. Impulsar el fortalecimiento de la conciencia ambiental, a través de la realización de acciones conjuntas con la comunidad, grupos e instituciones interesadas para la conservación y mejoramiento del ambiente y el correcto manejo de desechos y residuos en la Entidad; para ello, la SEGAM podrá en forma coordinada con los municipios, celebrar convenios de concertación con comunidades urbanas y rurales, así como con diversas organizaciones sociales en el Estado, y
+
+VI. Concertar acciones e inversiones con los sectores social y privado, con instituciones académicas, grupos y organizaciones sociales, pueblos indígenas y demás personas físicas y morales interesadas, para la conservación y restauración del ambiente en la Entidad.
+
+### CAPITULO III. DEL DERECHO A LA INFORMACION AMBIENTAL
+
+###### ARTICULO 129.
+
+La Comisión Estatal de Ecología será la dependencia con carácter de órgano permanente de coordinación institucional en el Estado, entre las dependencias y organismos de la federación, Estado y municipios relacionados con la materia ambiental, así como la instancia coordinadora para la concertación de acciones en la materia con el sector social, constituyendo el órgano principal de participación ciudadana en materia ambiental en la Entidad.
+
+La Comisión formará parte del Sistema Estatal de Planeación Democrática, en los términos que establece la Ley de Planeación del Estado.
+
+Corresponderá a la Comisión analizar los problemas relativos de la materia, sugerir prioridades para su atención, proponer programas, promover acciones, emitir opiniones a requerimiento del titular del Ejecutivo del Estado, de la SEGAM o de los ayuntamientos e impulsar la participación social.
+
+Por medio del correspondiente acuerdo, el titular del Ejecutivo del Estado establecerá la integración de la citada Comisión, sus atribuciones, funcionamiento y demás normas que fueren necesarias.
+
+Las funciones que lleve a cabo la Comisión Estatal de Ecología podrán ser desempeñadas por el Subcomité Sectorial de Ecología del COPLADE.
+
+###### ARTICULO 130.
+
+La Comisión Estatal de Ecología, con periodicidad en la forma y con sujeción al procedimiento que se establezca, convocará a los representantes de las organizaciones obreras, campesinas, populares, de empresarios y productores, profesionistas, corporaciones de investigación y de educación, grupos ambientalistas y organizaciones no gubernamentales en general e instituciones privadas que no persigan fines de lucro, con objeto de que expresen su opinión y propuestas para la conservación y restauración del ambiente en la Entidad; y con el propósito de atender adecuadamente las demandas de los habitantes de las distintas zonas del Estado. Al efecto, podrán crearse los Consejos Regionales necesarios mediante decreto que expida el Ejecutivo del Estado.
+
+###### ARTICULO 131.
+
+La Subcomisión de Evaluación de Proyectos Estratégicos, formará parte del Subcomité Sectorial de Ecología del COPLADE y del Sistema Estatal de Planeación Democrática, y tendrá los siguientes objetivos:
+
+I. Analizar y evaluar con ética, profesionalismo, con actitud científica y de investigación, el impacto ambiental que puedan generar obras o actividades reservadas a la autoridad estatal e incorporar aquellas de competencia federal, respecto de proyectos estratégicos de desarrollo en la Entidad que presenten o puedan presentar gran impacto ambiental, económico y social, que sirvan de pauta para la expedición de las autorizaciones correspondientes de acuerdo a lo dispuesto por la LGEEPA y esta Ley;
+
+II. Coordinar las actividades de estudio, análisis y evaluación de todos aquellos proyectos estratégicos o especiales desde el punto de vista ambiental, para fundamentar su aprobación o negativa por las autoridades correspondientes;
+
+III. Propiciar la discusión y el análisis serio, fundamentado técnica y legalmente, respecto de los proyectos estratégicos que se presenten, de tal forma que se conserve la credibilidad en las instituciones y en los mecanismos que se ocupan de la autorización o rechazo de estos proyectos;
+
+IV. Facilitar el diálogo y la participación formal de todos aquellos grupos u organismos de los diversos sectores de la sociedad, en los procedimientos y acciones en materia ambiental que conduzcan a la toma de la decisión que emita la autoridad para garantizar su transparencia, y
+
+V. Recomendar al Ejecutivo del Estado sobre la factibilidad y conveniencia de programas y acciones estratégicos, en relación con su impacto ambiental y el aprovechamiento sustentable de los recursos naturales involucrados en ellos.
+
+En los casos de obras y actividades de carácter público o privado que corresponda a la federación evaluar su impacto ambiental, la Subcomisión podrá emitir un dictamen técnico respecto de los mismos, previa solicitud del Ejecutivo Estatal y en el ejercicio de la facultad conferida a éste en el artículo 7º. fracción XIX de la LGEEPA.
+
+Las autoridades ambientales a quienes corresponda en los términos de ley llevar cabo el procedimiento de evaluación y autorización en su caso, en materia de impacto ambiental, respecto de este tipo de proyectos, propondrán de ser el caso ante el seno del Subcomité Sectorial de Ecología del COPLADE la integración de esta Subcomisión. El Subcomité Sectorial del COPLADE definirá los lineamientos específicos a que se sujetará dicha Subcomisión de Evaluación.
+
+La conformación de la Subcomisión de Evaluación de Proyectos Estratégicos, así como el procedimiento y los mecanismos de su actuación, en ningún momento podrán contraponerse a lo establecido en materia de evaluación de impacto ambiental conforme a lo previsto en la LGEEPA y en esta Ley.
+
+Las autoridades ambientales a quienes corresponda por razón de competencia iniciar y dar seguimiento al procedimiento administrativo de evaluación y en su caso, autorización de impacto ambiental respecto de dichos proyectos, fijarán oportunamente los mecanismos que permitan compaginar las acciones de esta Subcomisión con los términos y plazos previstos en las leyes de la materia.
+
+###### ARTICULO 132.
+
+Los ayuntamientos con la participación que corresponda a la SEGAM, crearán e impulsarán de manera permanente Comités Municipales de Defensa de los Recursos Naturales con el propósito de organizar la participación de la comunidad, por representantes de los ejidos o comunidades, por manzanas, sectores o colonias de los centros de población, en programas de información, difusión y capacitación, manejo de residuos sólidos municipales, de residuos industriales peligrosos y no peligrosos, contaminación atmosférica y de aguas residuales; mejoramiento y aprovechamiento sustentable de recursos naturales, reforestación, plantaciones y aprovechamientos forestales, cambios de uso del suelo, de terrenos forestales o de aptitud preferentemente forestal, flora y fauna silvestre, campañas para el ahorro en el consumo del agua, denuncias de la ciudadanía sobre aspectos ambientales, demás programas y acciones apropiadas según necesidades, lugar y circunstancias.
+
+Los Comités Municipales de Defensa de los Recursos Naturales en el ámbito municipal, serán los organismos oficiales de participación ciudadana en el Estado, para la interlocución entre las autoridades y la sociedad civil en materia ambiental.
+
+Los Comités Municipales de Defensa de los Recursos Naturales podrán solicitar la participación cuando corresponda a las autoridades federales del ramo, a las empresas y particulares en general, para que asistan a las reuniones que al efecto se señalen, así como para que los programas y acciones de la federación donde se involucre la participación ciudadana en materia ambiental, se incorporen a los mecanismos establecidos en dichos comités con el propósito de dar oportunidad a que las autoridades federales den a conocer sus programas, así como para responder a la sociedad civil de los asuntos que por Ley les han sido encomendados en el ámbito de su responsabilidad, así como para que públicamente realicen las explicaciones pertinentes ante la propia sociedad civil.
+
+Los comités tendrán el carácter de organismos auxiliares de la acción municipal en la materia, sin que pueda existir otro comité u organismo paralelo o análogo, formado por las autoridades del ramo; y únicamente el Gobierno del Estado y los ayuntamientos en los términos de la presente Ley, podrán establecer otros mecanismos de gestión para la comunicación entre las autoridades y la sociedad civil. Estos comités serán creados en los términos de la Ley Orgánica del Municipio Libre.
+
+###### ARTICULO 133.
+
+Los ayuntamientos en el ámbito de sus territorios jurisdiccionales, celebrarán los convenios de concertación a que se refiere el artículo 113 de esta Ley.
+
+### CAPITULO IV. DE LOS FOROS ECOLOGICOS, DEL PREMIO ESTATAL DE ECOLOGIA, DE LA INVESTIGACION Y EDUCACION AMBIENTAL
+
+###### ARTICULO 134.
+
+La SEGAM desarrollará un Sistema de Información Ambiental que tendrá por objeto registrar, organizar, actualizar y difundir la información ambiental federal, estatal y municipal, que estará disponible para su consulta en la propia SEGAM y vía INTERNET, que podrá complementarse y coordinarse con los sistemas de información del Instituto Nacional de Estadística, Geografía e Informática.
+
+En dicho sistema la SEGAM deberá integrar y procesar entre otros aspectos, información relativa a los inventarios de recursos naturales y recursos paisajísticos existentes en el territorio estatal; a los mecanismos y resultados que en su momento se obtengan como consecuencia del monitoreo de la calidad del aire, del agua, del suelo, del subsuelo, flora y vegetación silvestre en el Estado; al ordenamiento ecológico regional y local del territorio; y la correspondiente a los registros, programas y acciones que se realicen en la Entidad para la conservación y la protección al ambiente.
+
+La SEGAM reunirá y promoverá informes y documentos relevantes que resulten de las actividades científicas, trabajos técnicos o de cualquier otra índole en materia ambiental, realizados, publicados o accesibles en el Estado o fuera de éste por personas físicas o morales, nacionales o extranjeras.
+
+###### ARTICULO 135.
+
+La SEGAM deberá elaborar y publicar bianualmente un informe detallado de la situación general y perspectivas existentes en la Entidad en materia ambiental.
+
+###### ARTICULO 136.
+
+La SEGAM podrá editar una gaceta en la que se publicarán las disposiciones jurídicas, normas ambientales estatales y federales, decretos, reglamentos, acuerdos y demás actos administrativos; así como información de interés general en materia ambiental, que se publiquen por el gobierno federal, por el propio Estado y demás entidades federativas, así como por los municipios y organizaciones nacionales e internacionales de interés para el Estado, independientemente de su publicación en el Periódico Oficial Estatal o en otros órganos de difusión. Igualmente, en dicha gaceta estatal se publicará información oficial relacionada con las áreas naturales protegidas de competencia estatal o municipal, así como la conservación y el aprovechamiento sustentable del ambiente
+
+###### ARTICULO 137.
+
+Toda persona tendrá derecho a que las autoridades estatales, municipales y los organismos operadores del agua, según sea el caso, pongan a su disposición la información ambiental que le soliciten y con la cual cuenten en los términos previstos por esta Ley; en su caso, los gastos que se generen correrán por cuenta del solicitante.
+
+Para los efectos de lo dispuesto en el presente ordenamiento, se considera información ambiental cualquier referencia escrita, visual, audiovisual, sonora o en forma de base de datos, de que dispongan las autoridades ambientales estatales, municipales u organismos operadores del agua en materia de agua, aire, suelo, subsuelo, flora, fauna y recursos naturales en general, así como de las actividades o medidas que les afectan o puedan afectarlos.
+
+Toda petición de información ambiental deberá presentarse por escrito, especificando claramente la referencia que se solicita y los motivos de la petición. Los solicitantes deberán identificarse indicando su nombre o razón social y domicilio.
+
+###### ARTICULO 138.
+
+Las autoridades a que se refiere el artículo anterior, denegarán la entrega de información en los siguientes casos:
+
+I. Cuando se considere por disposición legal que la información es confidencial, o que por su propia naturaleza su difusión afecte o pueda afectar la seguridad del Estado;
+
+II. Cuando se trate de información relativa a asuntos que son materia de procedimientos judiciales o de inspección y vigilancia, pendientes de resolución;
+
+III. Cuando se trate de información aportada por terceros y los mismos no estén obligados por disposición legal a proporcionarla, o
+
+IV. Se trate de información sobre inventarios e insumos y tecnologías de proceso, incluyendo la descripción del mismo.
+
+###### ARTICULO 139.
+
+La autoridad a quien se dirija la petición en los términos de los anteriores artículos, deberá responder por escrito a los solicitantes de información ambiental en un plazo no mayor a diez días naturales a partir de la recepción de la petición respectiva. En caso de que la autoridad conteste negativamente la solicitud, deberá señalar las razones y el fundamento que motivaron su determinación.
+
+Si transcurrido el plazo establecido en el párrafo anterior, la autoridad a quien se haya dirigido la petición no emite su respuesta por escrito, la misma se entenderá resuelta en sentido negativo para el promovente.
+
+La autoridad ambiental a quien se hubiere dirigido la petición, dentro de los tres días hábiles siguientes a la solicitud de información, deberá notificar al generador o propietario de la misma de la recepción de la solicitud.
+
+Los que se consideren afectados por actos de las autoridades estatales, municipales u organismos operadores del agua regulados en este Capítulo, podrán interponer el recurso de reconsideración de conformidad con lo dispuesto en el artículo 163 de esta Ley.
+
+###### ARTICULO 140.
+
+Quien reciba información ambiental de las autoridades competentes en los términos del presente Capítulo, será responsable de su adecuada utilización y deberá responder por los daños y perjuicios que se ocasionen por su indebido manejo.
+
+### CAPITULO UNICO. DISPOSICIONES GENERALES
+
+###### ARTICULO 141.
+
+La SEGAM y los ayuntamientos auspiciarán la realización periódica de consultas públicas organizadas con los diferentes sectores sociales, a fin de conocer sus opiniones sobre los problemas prioritarios de protección ambiental de la Entidad, así como respecto de los resultados y eficacia de las acciones adoptadas y de las medidas de control implantadas.
+
+###### ARTICULO 142.
+
+El titular del Ejecutivo del Estado, por conducto de la SEGAM, instituirá el Premio Estatal de Ecología en las áreas de desarrollo e investigación científica y tecnológica; protección del ambiente; cultura ambiental y proyectos especiales, el cual se otorgará anualmente en los términos que el respectivo acuerdo gubernamental establezca.
+
+### CAPITULO I. DE LA INSPECCION Y VIGILANCIA
+
+###### ARTICULO 143.
+
+El Gobierno del Estado celebrará el acuerdo de coordinación que corresponda con las instituciones de educación superior de la Entidad, a fin de que incorporen en sus programas de estudio la dimensión ambiental y en su caso organicen las actividades de investigación y difusión respectivas.
+
+La Secretaría de Educación de Gobierno del Estado programará como corresponda, la educación ambiental formal y no formal que proceda impartir en los establecimientos de la Entidad, para la formación de conciencia ciudadana en relación con las multivariadas materias comprendidas en la cuestión ambiental, con la participación que corresponda a la SEGAM.
+
+El Gobierno del Estado a través de las dependencias competentes, propondrá y establecerá los mecanismos para llevar a cabo en la Entidad una educación ambiental que abarque los ámbitos rural y urbano en diferentes procesos, tales como educativo, laboral, recreativo, familiar y comunitario, entre otros; también impulsará que en los medios de comunicación masiva se traten temas ambientales que no únicamente informen, sino que ayuden y propongan alternativas para un desarrollo efectivo de la conciencia ambiental en la población.
+
+###### ARTICULO 144.
+
+El Gobierno del Estado a través de las dependencias correspondientes, llevará a cabo las acciones necesarias a efecto de que en el territorio estatal se pueda contar con equipamientos ambientales, tales como instalaciones e infraestructura adecuadas para realizar actividades prácticas e intelectuales referentes a temas ambientales concretos, como áreas de campamento, zoológicos, parques, áreas de interpretación de la naturaleza, entre otros.
+
+En la planeación y desarrollo de dichas actividades se incluirá la participación de los diferentes sectores de la sociedad.
+
+## TITULO DECIMO PRIMERO. DE LA AUTORREGULACION Y AUDITORIAS AMBIENTALES
+
+### CAPITULO II. DE LAS MEDIDAS DE SEGURIDAD
+
+###### ARTICULO 145.
+
+Los productores, empresas y organismos empresariales, así como el sector público, podrán desarrollar procesos voluntarios de autorregulación ambiental a través de los cuales mejoren su desempeño ambiental, respetando la legislación y normatividad vigente en la materia, comprometiéndose a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental en la Entidad.
+
+Al efecto, la SEGAM inducirá y concertará:
+
+I. El desarrollo de procesos productivos adecuados y compatibles con el ambiente, así como sistemas de protección y restauración en la materia, convenidos con cámaras de industria, comercio y otras actividades productivas, organizaciones de productores, organizaciones representativas de una zona o región en la Entidad, instituciones de investigación científica y tecnológica y otras organizaciones interesadas;
+
+II. El cumplimiento de normas voluntarias o especificaciones técnicas en materia ambiental, que sean más estrictas que las normas ambientales federales o estatales, o que se refieran a aspectos no previstos por éstas, las cuales serán establecidas de común acuerdo con particulares o con asociaciones u organizaciones que los representen.
+
+Para tal efecto, la SEGAM podrá promover el establecimiento de normas ambientales estatales. Dichas normas serán expedidas mediante acuerdo administrativo, y
+
+III. Las demás acciones que induzcan a las empresas a alcanzar los objetivos de la política ambiental superiores a las previstas en la normatividad ambiental establecida.
+
+###### ARTICULO 146.
+
+Los responsables del funcionamiento de una empresa podrán en forma voluntaria y concertada con la SEGAM, a través de la Auditoría Ambiental, realizar el examen metodológico de sus operaciones, respecto de la contaminación y el riesgo que generan, así como el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales, así como de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger el ambiente en la Entidad.
+
+La SEGAM desarrollará programas dirigidos a obtener un reporte propio de las empresas y a fomentar la realización de auditorías ambientales en el ámbito de su competencia, por parte de las empresas que se ubiquen en el territorio del Estado y podrá supervisar su ejecución, para tal efecto:
+
+I. Elaborará los términos de referencia que establezcan la metodología para la realización de las auditorías ambientales, o de la forma y términos como se efectuará el propio reporte;
+
+II. Establecerá un sistema de aprobación y acreditamiento de peritos y auditores ambientales, determinando los procedimientos y requisitos que deberán cumplir los interesados para incorporarse a dicho sistema, siendo de aplicación supletoria a la presente Ley la observancia de lo dispuesto en la Ley Federal sobre Metrología y Normalización.
+
+Para tal efecto, integrará un Comité Técnico Consultivo constituido por representantes de instituciones de educación superior, de investigación, colegios y asociaciones profesionales, así como organizaciones del sector industrial;
+
+III. Desarrollará programas de capacitación en materia de peritajes y auditorías ambientales;
+
+IV. Instrumentará un sistema de reconocimientos y estímulos que permita identificar a las industrias que se ubiquen en el territorio del Estado, que cumplan oportunamente los compromisos adquiridos en las auditorías ambientales;
+
+V. Promoverá la creación de centros regionales de apoyo a la mediana, pequeña y micro industria, con el fin de facilitar la realización de auditorías en dichos sectores, y
+
+VI. Convendrá o concertará con personas físicas o morales, públicas o privadas, la realización de auditorías ambientales y de autoreporte industrial.
+
+###### ARTICULO 147.
+
+La SEGAM pondrá los programas preventivos y correctivos derivados de las auditorías ambientales, así como el diagnóstico básico del cual derivan, a disposición de quienes resulten o puedan resultar directamente afectados.
+
+En todo caso, deberán observarse las disposiciones legales relativas a la confidencialidad de la información industrial y comercial.
+
+###### ARTICULO 148.
+
+La SEGAM podrá asimismo establecer programas operativos de supervisión y verificación aleatorios de los distintos giros industriales, comerciales y de servicios materia de su competencia, creando un sistema de propio reporte industrial, pudiendo proponer acciones y convenios de concertación en la materia con los diferentes sectores, cámaras industriales, empresas u organizaciones de que se trate.
+
+## TITULO DECIMO SEGUNDO. DE LA INSPECCION Y VIGILANCIA, MEDIDAS DE SEGURIDAD Y SANCIONES
+
+### CAPITULO III. DE LAS SANCIONES
+
+###### ARTICULO 149.
+
+Las disposiciones contenidas en este Capítulo se aplicarán en la realización de actos de inspección y vigilancia, ejecución de medidas de seguridad, determinación de infracciones y aplicación de sanciones administrativas, instrumentación de procedimientos y recursos administrativos correspondientes.
+
+Tratándose de materias referidas en esta Ley que se encuentren reguladas por leyes especiales, el presente ordenamiento será de aplicación supletoria por lo que se refiere a los procedimientos de inspección y vigilancia.
+
+###### ARTICULO 150.
+
+Corresponderá a la SEGAM, a los ayuntamientos y en su caso a los organismos operadores del agua, en el ámbito de su competencia, realizar actos de inspección y vigilancia para verificar el cumplimiento de las disposiciones contenidas en la presente Ley y en la LGEEPA; en este último caso, conforme a los términos contemplados en los acuerdos de coordinación que se establezcan.
+
+Para efectuar las visitas de inspección la autoridad podrá solicitar el auxilio de la fuerza pública cuando se obstaculice o se oponga resistencia a la práctica de la diligencia, independientemente de resultar aplicables las sanciones administrativas previstas en este ordenamiento.
+
+###### ARTICULO 151.
+
+Las personas con quienes se entiendan las inspecciones estarán obligadas a permitir al personal autorizado por la SEGAM, por los ayuntamientos respectivos o por los organismos operadores del agua, el acceso al lugar o lugares sujetos a esas diligencias, en los términos previstos en la orden escrita a que se hace referencia esta Ley, así como a proporcionar toda clase de información que conduzca a la verificación del cumplimiento de la misma y demás disposiciones aplicables, con excepción de lo relativo a derechos de propiedad industrial que sean confidenciales conforme a los ordenamientos respectivos. La información deberá mantenerse por la autoridad en absoluta reserva cuando así lo solicite el interesado, salvo en caso de requerimiento judicial.
+
+###### ARTICULO 152.
+
+La SEGAM, el respectivo ayuntamiento u organismo operador del agua, podrán realizar por conducto del personal debidamente autorizado, visitas de inspección sin perjuicio de otras medidas previstas en las leyes que sean de aplicación supletoria para verificar el cumplimiento de este ordenamiento.
+
+Dicho personal al realizar las visitas de inspección, deberá estar provisto del documento oficial que los acredite o autorice a practicar la diligencia de inspección o verificación, así como de la orden escrita debidamente fundada y motivada, expedida por autoridad competente, en la que se precisará el lugar o zona que habrá de inspeccionarse, así como el objeto y alcance de la diligencia.
+
+###### ARTICULO 153.
+
+Las inspecciones se practicarán conforme al procedimiento siguiente:
+
+I. El personal autorizado al iniciar la inspección se deberá identificar debidamente con la persona con quien se entienda la diligencia; exhibirá la orden respectiva y le entregará copia de la misma con firma autógrafa, requiriéndola para que en el acto designe dos testigos;
+
+II. En caso de negativa o de que los nominados no acepten fungir como testigos, el personal autorizado podrá designarlos haciendo constar esta situación en el acta administrativa que al efecto se levante, sin que esta circunstancia invalide los efectos de la inspección;
+
+III. En toda visita de inspección se levantará acta en la que se harán constar en forma circunstanciada, los hechos u omisiones que se hubiesen presentado durante el desarrollo de la diligencia;
+
+IV. Concluida la inspección se dará oportunidad a la persona con la que se entendió la diligencia, para que en el mismo acto formule observaciones en relación con los hechos u omisiones asentados en el acta respectiva, así como para que ofrezca las pruebas que estime convenientes en el mismo acto o dentro del plazo establecido en el artículo 154 fracción I de esta Ley;
+
+V. A continuación se procederá a firmar el acta por la persona con quien se entendió la diligencia, por los testigos y por el personal autorizado, quien entregará copia del acta al interesado;
+
+VI. Si la persona con quien se entendió la diligencia o los testigos se negaren a firmar el acta o el interesado se negare a aceptar copia de la misma, dichas circunstancias se asentarán en ella sin que esto afecte su validez y valor probatorio, y
+
+VII. Si durante el transcurso de la diligencia de inspección o verificación, la persona con la cual se entiende la diligencia o los testigos designados se retiraren del lugar antes de concluir la misma, se hará constar tal circunstancia en el acta que al efecto se levante sin que ello invalide los resultados de la diligencia.
+
+###### ARTICULO 154.
+
+Efectuada la inspección a que se refiere el artículo anterior se seguirá el procedimiento que a continuación se indica:
+
+I. Recibida el acta de inspección por la autoridad ordenadora, requerirá al interesado dentro de un plazo de cinco días hábiles mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas o de urgente aplicación necesarias a efecto de cumplir con los parámetros previstos en la normatividad ambiental, así como con los permisos, licencias o autorizaciones respectivas, fundando y motivando el requerimiento, señalando el plazo que corresponda a juicio de la autoridad para su cumplimiento y procederá a emplazar al interesado, para que dentro del término de quince días hábiles contados a partir del día siguiente a la notificación, manifieste por escrito lo que a su derecho convenga conforme a lo asentado en el acta de inspección y ofrezca pruebas en relación con los hechos u omisiones que en la misma se asientan.
+
+En el mismo documento de emplazamiento la autoridad correspondiente, podrá señalar las medidas técnicas correctivas o de urgente aplicación que considere necesarias, así como señalar los plazos para su cumplimiento;
+
+II. Una vez oído al presunto infractor, recibidas y desahogadas las pruebas que ofreciere, o en caso de que el interesado no haya hecho uso del derecho que le concede la fracción anterior dentro del plazo mencionado, la autoridad procederá a dictar la resolución administrativa que corresponda dentro de los quince días hábiles siguientes, misma que se notificará al interesado personalmente o por correo certificado con acuse de recibo;
+
+III. En la resolución administrativa correspondiente se señalarán, o en su caso, adicionarán las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas, así como las sanciones y medidas de seguridad a que se hubiere hecho acreedor o ratificar éstas últimas conforme a las disposiciones aplicables;
+
+IV. Dentro de los cinco días hábiles que sigan al vencimiento del plazo otorgado al infractor para subsanar las deficiencias o irregularidades observadas, éste deberá comunicar por escrito y en forma detallada a la autoridad ordenadora, haber dado cumplimiento a las medidas ordenadas en los términos del requerimiento respectivo;
+
+V. Cuando se lleve a cabo segunda o posterior inspección a un mismo establecimiento, para verificar el cumplimiento de un requerimiento o requerimientos anteriores y del acta correspondiente se desprenda que no se ha dado cumplimiento a las medidas previamente ordenadas, la autoridad competente podrá imponer además de la sanción o sanciones que procedan conforme a lo dispuesto en el artículo 159 de esta Ley, una multa adicional que no exceda los límites máximos señalados en el citado artículo, y
+
+VI. En los casos en que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades detectadas dentro del plazo señalado por la autoridad, siempre y cuando el infractor no sea reincidente y no se trate de alguno de los supuestos previstos en el artículo 160 de este ordenamiento, la autoridad podrá revocar o modificar la sanción impuesta.
+
+###### ARTICULO 155.
+
+Cuando efectuada la inspección a una obra o actividad contaminante, en cuyo caso se desprenda alguna presunta irregularidad de competencia de la federación, la respectiva autoridad estatal, municipal u organismo operador del agua, según corresponda, establezca que existen hechos suficientes para configurar una infracción a las disposiciones normativas ambientales, pondrá de inmediato los hechos en conocimiento de la PROFEPA o de la CNA, según el caso, remitiéndole al efecto los respectivos antecedentes.
+
+### CAPITULO I. DEL RECURSO DE RECONSIDERACION
+
+###### ARTICULO 156.
+
+Cuando exista riesgo inminente de deterioro ambiental o presumibles casos de contaminación en el territorio estatal o en los municipios, en obras o actividades de competencia local, con repercusiones para los ecosistemas, sus componentes o la salud pública, la autoridad correspondiente podrá ordenar como medidas de seguridad:
+
+I. El aseguramiento precautorio de materiales o sustancias contaminantes;
+
+II. La suspensión temporal, parcial o total de las fuentes contaminantes o del establecimiento o industria, según el caso;
+
+III. La promoción ante la autoridad respectiva de la adopción por ésta de las medidas de seguridad que le competan.
+
+Para el caso de que la autoridad que se considere competente no ejerza sus atribuciones en materia de inspección y vigilancia que legalmente tiene establecidas, la SEGAM podrá aplicar la medida de seguridad que corresponda al caso, haciéndole saber de inmediato a la autoridad competente las causas que motivaron la aplicación de la medida, remitiéndole la documentación oficial correspondiente a efecto de que se avoque al conocimiento del asunto, y
+
+IV. Cualquier otra que tienda a evitar el deterioro ambiental o los daños al ambiente que motivan la medida.
+
+###### ARTICULO 157.
+
+Cuando la SEGAM o el respectivo ayuntamiento ordene algunas de las disposiciones de seguridad previstas en esta Ley, indicará al interesado cuando proceda, las acciones que deberá llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas conforme las disposiciones normativas se ordene el retiro de la o las medidas de seguridad impuestas.
+
+###### ARTICULO 158.
+
+La SEGAM o el respectivo ayuntamiento podrán disponer la retención transitoria de los productos provenientes de explotaciones o aprovechamientos forestales, que carezcan de la correspondiente autorización federal emitida por autoridad competente y en los términos de la legislación y reglamentos aplicables, así como de los vehículos y equipo utilizados para tal fin. Igualmente, respecto de las especies animales raras, endémicas, amenazadas o en peligro de extinción, capturadas sin disponer del previo permiso federal en los términos antes expuestos.
+
+En los casos señalados en el párrafo anterior, los productos, equipo o maquinaria retenidos, podrán quedar en depositaría transitoria de las autoridades municipales del lugar donde hubiere ocurrido el evento, haciendo constar tales circunstancias en el acta que al efecto se levante, misma que deberá reunir los requisitos del procedimiento señalado en esta Ley para las inspecciones.
+
+Dentro del más breve plazo posible, los bienes o especies animales que sean retenidos serán puestos a disposición de la delegación de la autoridad federal competente que haya de seguir el procedimiento establecido, para la aplicación de las sanciones pertinentes conforme a la legislación ambiental aplicable.
+
+### CAPITULO II. DE LA DENUNCIA POPULAR
+
+###### ARTICULO 159.
+
+La SEGAM, el respectivo ayuntamiento o los organismos operadores del agua, en los asuntos de su competencia podrán imponer al infractor, previa garantía de audiencia y según fuere la naturaleza, gravedad y circunstancias del hecho, la o las sanciones administrativas siguientes:
+
+I. Multa equivalente de veinte a veinte mil días de salario mínimo general vigente en la zona económica correspondiente en el momento de imponer la sanción;
+
+II. Clausura temporal o definitiva, parcial o total, cuando:
+
+a). El infractor hubiere incumplido dentro de los plazos y condiciones impuestos por la autoridad, con las medidas correctivas o de urgente aplicación ordenadas;
+
+b). En casos de reincidencia cuando las infracciones generen efectos adversos al ambiente o a la salud pública;
+
+c). En casos de incumplimiento en tres o más ocasiones, a alguna o algunas medidas correctivas o de urgente aplicación impuestas por la autoridad, y
+
+d). En los casos a que se refiere la fracción II del artículo 161 de esta Ley, y
+
+III. Arresto administrativo hasta por treinta y seis horas, pudiendo ser objeto de esta sanción los propietarios, poseedores o responsables de la fuente contaminante, según el caso; para tal efecto, una vez decretado el arresto, la persona o personas sujetas al mismo serán puestas a disposición de la autoridad municipal respectiva.
+
+Procederá el arresto administrativo en los siguientes casos:
+
+a). Cuando derivado de dos o más visitas de inspección en el transcurso de un año, el propietario, poseedor o responsable del establecimiento hubiere incumplido con las medidas técnicas y de seguridad que la autoridad respectiva haya decretado, y que con tal omisión se causara o hubiese causado grave deterioro ambiental con repercusiones graves para los ecosistemas o la salud pública.
+
+b). Cuando habiéndose decretado como medida de seguridad una suspensión temporal parcial o total en los casos previstos por esta Ley, el propietario, poseedor o responsable del establecimiento no hubiese acatado tal medida, inclusive para el caso de rompimiento de sellos de clausura, sin perjuicio de la denuncia en su caso ante el Ministerio Público por el delito o delitos que resulten o pudiesen resultar.
+
+La autoridad ordenadora podrá conmutar el arresto impuesto por multa, siempre y cuando se garantice a juicio de la dependencia respectiva el cumplimiento de las medidas correctivas que se hubiesen decretado.
+
+###### ARTICULO 160.
+
+Para la aplicación de las sanciones se deberán observar las normas siguientes:
+
+I. Se tomarán en cuenta las condiciones económicas del infractor considerando para tal efecto, el equipo e instalaciones con que cuenta en el momento de efectuar la primera visita de inspección, así como el monto del capital constitutivo, sus modificaciones y aumento del mismo en tratándose de personas morales;
+
+II. El carácter intencional o negligente de la acción u omisión constitutiva de la infracción;
+
+III. Se podrán imponer simultáneamente las medidas de seguridad con las sanciones administrativas cuando las circunstancias así lo exijan, y
+
+IV. Se duplicarán las multas en caso de reincidencia.
+
+Se considerará reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un periodo de un año contado a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.
+
+En caso de que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, la SEGAM, el ayuntamiento o los organismos operadores del agua según el caso, considerarán tal situación como atenuante de la infracción cometida.
+
+La autoridad correspondiente podrá otorgar al infractor la opción en pagar la multa o bien, realizar inversiones equivalentes en la adquisición o instalación de equipo para evitar toda posible contaminación al ambiente o a la salud humana, o en la protección, conservación o restauración del ambiente, siempre y cuando se garanticen las obligaciones del infractor y no se trate de alguno de los supuestos previstos en el artículo 159 de esta Ley y la autoridad justifique plenamente su decisión.
+
+###### ARTICULO 161.
+
+Cuando proceda como sanción la clausura temporal o definitiva, total o parcial, el personal comisionado para ejecutarla procederá en el acto a levantar acta circunstanciada de los hechos u omisiones encontrados en la que se deberá indicar al infractor las medidas correctivas o de urgente aplicación, las acciones que deberá llevar a cabo para subsanar las irregularidades que motivaron dicha sanción y los plazos para su realización.
+
+En estos casos se seguirán para su cumplimiento, los lineamientos generales establecidos en esta Ley para las inspecciones.
+
+## TITULO DECIMO TERCERO. DEL RECURSO DE RECONSIDERACION Y DE LA DENUNCIA POPULAR
+
+### CAPITULO UNICO
+
+###### ARTICULO 162.
+
+El particular o persona a quien se le hubiere instruido procedimiento administrativo y se considere afectado por las resoluciones que dicte la SEGAM, los ayuntamientos u organismos operadores del agua según el caso, en la aplicación de las disposiciones de esta Ley, podrá solicitar su revocación o modificación mediante el recurso de reconsideración.
+
+El recurso referido deberá interponerse dentro del término de quince días hábiles, contados a partir de la fecha de la notificación de la resolución recurrida o de aquella en que tenga conocimiento de la misma por cualquier medio.
+
+###### ARTICULO 163.
+
+El recurso se interpondrá directamente por escrito ante la misma autoridad que dictó la resolución recurrida, en el cual se expresará a por lo menos:
+
+I. Nombre y domicilio del recurrente para oír y recibir notificaciones en la Capital del Estado;
+
+II. Acto o resolución que se reclama;
+
+III. Motivos de la inconformidad y su fundamento jurídico;
+
+IV. Pruebas documentales que se acompañan y en su caso, las que al respecto se ofrecen, las cuales sólo podrán consistir en la inspección y dictamen pericial.
+
+Solo podrán ofrecerse las pruebas supervinientes y las que justifique el recurrente que no hubiere estado en posibilidad de aportar con anterioridad, siempre que tengan relación con la resolución o acto impugnado, y
+
+V. En su caso, suspensión de la ejecución del acto o resolución reclamados.
+
+###### ARTICULO 164.
+
+La autoridad podrá suspender la ejecución del acto o resolución que motiva el recurso, siempre y cuando con ello no se contravengan disposiciones de orden público e interés social previstos en esta Ley; y en caso de multas, que el infractor garantice respectivamente las obligaciones contraidas con el propósito de determinar su cumplimiento y el interés fiscal ante la Secretaría de Finanzas del Estado.
+
+Las pruebas se desahogarán en un plazo que no excederá de treinta días naturales contados a partir de la notificación del acuerdo que emita la autoridad respectiva, a cuyo vencimiento dictará la resolución que corresponda dentro de los treinta días naturales siguientes.
+
+###### ARTICULO 165.
+
+Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades, podrán denunciar personalmente, por vía telefónica o vía fax ante la SEGAM, los ayuntamientos u organismos operadores del agua según el caso, todo hecho, acto u omisión de competencia local que produzca o pueda producir daños al ambiente o a la salud humana; la autoridad, una vez que reciba la denuncia respectiva, le dará seguimiento conforme a los términos expuestos en el presente ordenamiento.
+
+En aquellos casos en que como resultado del ejercicio de sus atribuciones la SEGAM, los ayuntamientos u organismos operadores del agua tengan conocimiento de actos u omisiones que pudiesen constituir delitos en materia ambiental, formularán ante el Ministerio Público denuncia por escrito conforme a los términos y condiciones previstos en esta legislación.
+
+###### ARTICULO 166.
+
+La denuncia que se formule por escrito deberá contener cuando menos:
+
+I. Nombre o razón social, domicilio y teléfono si lo tiene del denunciante, o en su caso, de su representante legal;
+
+II. Datos que permitan la localización de la fuente contaminante o de la actividad en la cual se infringen las disposiciones normativas ambientales;
+
+III. Datos que permitan identificar al presunto infractor;
+
+IV. Pruebas que en su caso ofreciere el denunciante, y
+
+V. Firma del denunciante.
+
+###### ARTICULO 167.
+
+La SEGAM, los ayuntamientos u organismos operadores del agua, están facultados conforme a las disposiciones contenidas en esta Ley, a iniciar los procedimientos de inspección y de vigilancia que sean procedentes, con el propósito de verificar el cumplimiento a las disposiciones normativas ambientales que sean de su competencia, así como para efectuar las diligencias que sean necesarias para determinar la existencia de actos, hechos u omisiones constitutivos de denuncias.
+
+La SEGAM, el ayuntamiento o el organismo operador del agua según el caso, recibida la denuncia acusarán recibo de su recepción, le asignarán un número de expediente y la registrarán.
+
+Una vez registrada la denuncia la autoridad que corresponda dentro de los cinco días hábiles siguientes a su presentación, notificará al denunciante el acuerdo correspondiente señalando el trámite que le ha dado; en caso contrario, cuando la denuncia presentada fuere competencia de otra instancia, la autoridad acusará de recibido sin admitirla y la turnará a la autoridad competente para su trámite y resolución, notificando al denunciante mediante acuerdo fundado y motivado la razón de improcedencia.
+
+Procede la acumulación de expedientes en caso de recibirse dos o más denuncias por los mismos hechos, actos u omisiones; la autoridad, de oficio y a la mayor brevedad posible, notificará a los denunciantes, en caso de que proceda, el acuerdo respectivo.
+
+###### ARTICULO 168.
+
+Admitida la instancia por la autoridad correspondiente procederá de inmediato a identificar al denunciante, haciendo del conocimiento la denuncia a la persona o personas, o a las autoridades a quienes se imputen los hechos denunciados o a quienes pudiere afectar la resolución o acción emprendida, a fin de que presenten las pruebas o documentos que desvirtúen los hechos manifestados en la denuncia respectiva, dentro de un término de veinticinco días naturales posteriores a tal conocimiento.
+
+###### ARTICULO 169.
+
+En caso de que la denuncia se formule por vía telefónica o vía fax, el servidor público que la reciba levantará acta circunstanciada de los hechos manifestados por el denunciante, quien dentro del término de cinco días hábiles siguientes a la formulación de la denuncia deberá ratificarla por escrito, siempre y cuando se cumpla con los requisitos establecidos en el artículo anterior; caso contrario, cuando el denunciante no hubiese cumplido con lo previsto en este artículo, la autoridad respectiva procederá de oficio a la investigación de los hechos constitutivos de la denuncia.
+
+La autoridad a quien se formule la denuncia no admitirá las notoriamente improcedentes o infundadas, o aquellas en las que se advierta mala fe, carencia de fundamento o inexistencia de petición, lo cual se notificará al denunciante.
+
+###### ARTICULO 170.
+
+La SEGAM, el respectivo ayuntamiento u organismo operador del agua, podrán solicitar al denunciante la aportación de aquellos elementos de prueba que obren en su poder con el objeto de darle seguimiento a la denuncia interpuesta. Dicha autoridad deberá manifestar las consideraciones adoptadas respecto de la información proporcionada por el denunciante al resolver la denuncia, además, podrá solicitar a las instituciones académicas, centros de investigación y organismos del sector público, social y privado, la elaboración de estudios, dictámenes o peritajes sobre cuestiones planteadas en las denuncias recibidas.
+
+Si como consecuencia de las investigaciones realizadas por la autoridad se desprende que se trata de hechos, actos u omisiones en que hubieren incurrido autoridades federales, estatales o municipales, emitirá las recomendaciones necesarias para promover ante éstas la ejecución de las acciones procedentes.
+
+Las recomendaciones que emitan tanto la SEGAM como el respectivo ayuntamiento u organismos operadores del agua, serán públicas, autónomas y no vinculatorias.
+
+###### ARTICULO 171.
+
+En caso de que no se demuestre que los hechos, actos u omisiones denunciados contravengan disposiciones de orden público e interés social previstas en esta Ley y en otros ordenamientos de aplicación supletoria, o que exista peligro de contaminación al ambiente o a la salud humana, la autoridad respectiva por escrito hará del conocimiento del denunciante y del denunciado las razones o motivos por medio de los cuales resulta inoperante tal circunstancia, dejando a salvo sus derechos para que los pueda hacer valer en la vía que corresponda.
+
+###### ARTICULO 172.
+
+La SEGAM, el respectivo ayuntamiento u organismos operadores del agua, dejarán de conocer los expedientes de denuncia popular que hubiesen sido abiertos por las siguientes causas:
+
+I. Por incompetencia de la autoridad ante quien fue planteada la denuncia popular para conocer los términos de la misma;
+
+II. Por haberse dictado la recomendación correspondiente;
+
+III. Por no existir violación alguna a las disposiciones legales y normativas;
+
+IV. Por haberse solucionado la denuncia popular mediante la conciliación entre las partes, y
+
+V. Por haberse dictado anteriormente un acuerdo de acumulación de expedientes.
+
+###### ARTICULO 173.
+
+Sin perjuicio de las sanciones penales o administrativas que procedan, toda persona que contamine o deteriore el ambiente o afecte los recursos naturales o la biodiversidad en la Entidad, será responsable y estará obligada a reparar los daños causados, de conformidad con la legislación civil estatal aplicable.
+
+El término para demandar la responsabilidad ambiental será el previsto en las leyes civiles del Estado, contados a partir del momento en que se produzca el acto, hecho u omisión correspondiente.
+
+## TITULO DECIMO CUARTO. DE LOS DELITOS AMBIENTALES DE ORDEN ESTATAL
+
+###### ARTICULO 174.
+
+Los delitos a que se refiere este Capítulo se perseguirán de oficio.
+
+###### ARTICULO 175.
+
+Se impondrá pena de tres meses a seis años de prisión y multa por el equivalente de cien a diez mil días de salario mínimo general vigente en la Entidad, al que sin contar con las autorizaciones respectivas a que se refiere esta Ley, efectúe, autorice u ordene la realización de actividades que conforme a este ordenamiento se consideren como riesgosas, que ocasionen graves daños a la salud pública, la flora, la fauna o a los ecosistemas.
+
+Cuando las actividades consideradas como riesgosas a que se refiere el párrafo anterior, se lleven a cabo en un centro de población, se podrá elevar la pena hasta tres años más de prisión y la multa hasta veinte mil días de salario mínimo vigente en la Entidad.
+
+###### ARTICULO 176.
+
+Se impondrá pena de un mes a cinco años de prisión y multa por el equivalente de cien a diez mil días de salario mínimo vigente en la Entidad, al que con violación a lo dispuesto en las disposiciones legales y normas técnicas aplicables, expida, descargue en la atmósfera, gases, humos y polvos, vapores y olores, que ocasionen o puedan ocasionar daños graves a la salud pública, la flora, la fauna o los ecosistemas.
+
+###### ARTICULO 177.
+
+Se impondrá pena de tres meses a cinco años de prisión o multa por el equivalente de cien a diez mil días de salario mínimo general vigente en la Entidad, al que sin autorización de la autoridad competente y en contravención a las disposiciones legales, reglamentarias y normas técnicas aplicables, por acción propia o porque lo autorice u ordene, descargue, deposite o infiltre aguas residuales, desechos o contaminantes en ríos, cuencas, vasos, demás depósitos o corrientes de agua de jurisdicción estatal que ocasionen o puedan ocasionar graves daños a los ecosistemas o a la salud pública.
+
+Cuando se trate de aguas para ser entregadas en bloque a centros de población, la pena se podrá elevar hasta tres años más.
+
+###### ARTICULO 178.
+
+Se impondrá pena de un mes a cinco años de prisión y multa por el equivalente de cien a diez mil días de salario mínimo general vigente en la Entidad, a quien en contravención a las disposiciones legales aplicables y rebasando los límites fijados en las normas técnicas, generen emisiones de ruido, vibraciones, energía térmica o lumínica en zonas de jurisdicción estatal, que ocasionen o puedan ocasionar graves daños a la salud pública, la flora, la fauna o los ecosistemas.
+
+###### ARTICULO 179.
+
+Los ayuntamientos regularán las sanciones administrativas por violaciones a los Bandos y Reglamentos de Policía y Buen Gobierno que expidan en la materia.
+
+## TRANSITORIOS
+
+PRIMERO. La presente Ley entrará en vigor el día primero de marzo del año dos mil.
+
+SEGUNDO. Se abroga la Ley de Protección Ambiental del Estado, publicada en el Periódico Oficial del Estado, según Decreto número 533 de fecha tres de julio de mil novecientos noventa.
+
+> <small>(F. DE E., P.O. 19 DE ABRIL DE 2000)</small>
+
+TERCERO. Se derogan los artículos 1° fracciones III y IX último párrafo; 2° fracción VI; 3° fracción III, 6° fracción IV; 11 fracción XII; 12 fracciones III y VIII; 13 fracción VII; 16 fracciones IV y V; 18 fracciones I, incisos e) y f) y III inciso b); 19 fracciones I, incisos e) y f) y III inciso d); 20 fracciones I, inciso h), III incisos d) y e) y VIII, 31 fracciones IV, VIII, IX y X; 33 fracción V; 45 a 50; 57 fracciones I, IV y VII; 66 a 69 del Código Ecológico y Urbano del Estado de San Luis Potosí.
+
+CUARTO. La SEGAM contará con un plazo de ocho meses contados a partir de la entrada en vigor de la presente Ley para expedir los listados de actividades riesgosas y el acuerdo administrativo respecto de las actividades que causan impacto significativo en la Entidad.
+
+QUINTO. Para las obras o actividades dentro de la Entidad señaladas en el artículo 118 de esta Ley que se estén realizando o estén en funcionamiento al entrar la misma en vigor, y que produzcan o puedan producir daños al ambiente o rebasen los límites y condiciones previstas en los reglamentos y normatividad, la SEGAM podrá requerir de sus propietarios o de quienes las lleven a cabo, que presenten una manifestación de impacto ambiental en los términos establecidos en los artículos 117 a 127 de esta Ley.
+
+La manifestación referida deberá presentarse dentro del plazo de noventa días naturales siguientes a la fecha de la notificación del respectivo requerimiento; en su caso, deberá entregarse posteriormente la información adicional que exija la SEGAM. La resolución que al respecto se expida podrá ratificar el funcionamiento de la obra o actividad en los mismos términos precisados en la manifestación, o bien señalar las medidas preventivas y correctivas que deban adoptarse para abatir y reducir los impactos ambientales adversos identificados y evaluados que se ocasionen, dentro del plazo que a tal efecto se fije, o disponer la reubicación de la actividad cuyos impactos ambientales no puedan ser reducidos a los límites permisibles correspondientes.
+
+Las medidas que se dispongan implantar podrán referirse, según el caso, a la instalación de equipos de control de emisiones por gases, humos y polvos; tratamientos de aguas residuales; seguridad y operación de las faenas; prevención de accidentes; así como control de energía térmica, ruido, vibraciones y olores.
+
+SEXTO. Cuando se esté en los casos de presentar un estudio de riesgo bajo la modalidad de informe preliminar en el caso que prevé el artículo 91 de esta Ley, se estará a lo previsto en la LGEEPA y el reglamento de la misma en materia de residuos peligrosos, hasta en tanto la SEGAM expida mediante acuerdo administrativo los instructivos correspondientes.
+
+SEPTIMO. Los asuntos que se encuentren en trámite ante otra dependencia estatal a la fecha de entrar en vigor de este ordenamiento, deberán continuar ante dichas instancias cualquiera que fuere el estado en que se encuentra el respectivo trámite.
+
+OCTAVO. Los procedimientos y recursos administrativos relacionados con las materias de la Ley de Protección Ambiental Estatal o del Código Ecológico y Urbano en lo que se refiere a la protección ambiental, iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a las disposiciones vigentes en ese momento, así como a las demás disposiciones aplicables en la materia de que se trate.
+
+NOVENO. En tanto se expidan las disposiciones reglamentarias que se deriven del presente Decreto, seguirán en vigor las que han regido hasta ahora en lo que no lo contravengan.
+
+DECIMO. El Estado podrá ejercer las facultades de que disponen los ayuntamientos u organismos operadores del agua en materia de protección al ambiente a petición expresa de éstos, hasta en tanto cuenten con sus respectivos reglamentos o adecuen sus Bandos de Policía y Buen Gobierno, y cuenten con la capacidad técnica y administrativa necesarias; igualmente para los casos de combustiones a cielo abierto a que se refieren los artículos 8 fracción IV y 81 de la presente Ley.
+
+DECIMO PRIMERO. El otorgamiento de las licencias de uso de suelo por parte de los ayuntamientos a que se refiere esta Ley podrá llevarse a cabo por éstos una vez que cuenten con sus respectivos Programas de Ordenamiento Ecológico, de Desarrollo Urbano o para el caso de que contaren con ellos, hasta en tanto no se emita por las autoridades correspondientes un dictamen de congruencia de éstos y hasta en tanto dispongan con la capacidad técnica, administrativa y financiera necesarias. Mientras tanto, dichas atribuciones serán ejercidas tanto por la SEGAM como por la SEDUCOP, debiéndose contar con el dictamen técnico correspondiente previamente a su expedición que será otorgado por la SEGAM, en los casos previstos en esta Ley y en la Ley Urbana.
+
+Los ayuntamientos contarán con un plazo de trescientos sesenta y cinco días para la emisión de sus respectivos planes y programas a que se refiere el párrafo anterior, una vez vencido el plazo sin haberlo hecho, deberán convenir con la autoridad respectiva el ejercicio de dichas funciones.
+
+DECIMO SEGUNDO. La SEGAM promoverá ante la Secretaría de Finanzas, la incorporación de los mecanismos y procedimientos correspondientes, que le permitan contar con recursos destinados a la ejecución de proyectos y acciones de prevención, mejoramiento y restauración ambiental en la Entidad.
+
+DECIMO TERCERO. Se derogan todas las disposiciones de igual o menor rango que se contrapongan a lo establecido en la presente Ley.
+
+Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer.
+
+DADO en el Salón de Sesiones del H. Congreso del Estado, a los nueve días del mes de diciembre de mil novecientos noventa y nueve.
+
+Diputado Presidente: Víctor Manuel Pérez González, Diputado Secretario: Antonio Rivera Barrón, Diputado Secretario: José Carmen García Vázquez. (Rúbricas).
+
+Por tanto, mando se cumpla y ejecute el presente decreto y que todas las autoridades lo hagan cumplir y guardar y al efecto se imprima, publique y circule a quienes corresponda.
+
+DADO en el Palacio de Gobierno, Sede del Poder Ejecutivo del Estado Libre y Soberano de San Luis Potosí, a los trece días del mes de diciembre de mil novecientos noventa y nueve.
+
+El Gobernador Constitucional del Estado
+
+LIC. FERNANDO SILVA NIETO
+
+(Rúbrica)
+
+El Secretario General de Gobierno
+
+LIC. JUAN CARLOS BARRON CERDA
+
+(Rúbrica)
