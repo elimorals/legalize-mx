@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-responsabilidades-de-los-servidores-publicos-del-4738"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-17"
-last_updated: "1999-02-27"
+last_updated: "1999-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1999.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de mayo de 1989.
 
@@ -245,7 +245,11 @@ XVIII.- Informar al superior jerárquico de todo acto u omisión de los servidor
 
 XIX.- Respetar y hacer respetar el derecho a la formulación de quejas y denuncias a que se refiere esta Ley y evitar que, con motivo de éstas, se causen molestias indebidas al quejoso, y
 
-XX.- Las demás que le impongan otras Leyes y Reglamentos.
+> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 1999)</small>
+
+XX.- Abstenerse de disponer o recibir recursos públicos a título de bono de retiro, compensación económica o de cualquier otra denominación, por el sólo hecho de haber concluido los períodos establecidos en la constitución política del estado para la duración de la administración, gestión o encomienda correspondiente o por la separación prematura de su encargo sea voluntaria o no. Lo anterior de ninguna manera comprende los derechos de carácter laboral que puedan corresponderles al tenor de las leyes correspondientes, ni las reservas destinadas para esos propósitos;
+
+XXI.- Las demás que les impongan otras Leyes o Reglamentos.
 
 Se incurre en responsabilidad administrativa, por el incumplimiento de cualesquiera de las obligaciones contenidas en este Artículo, dando lugar a la instrucción del procedimiento administrativo ante los órganos disciplinarios y a la aplicación de las sanciones que en esta Ley se consignan, atendiendo a la naturaleza de la obligación que se transgreda.
 
@@ -558,3 +562,9 @@ Artículo Unico.- El presente decreto entrará en vigor el día siguiente de su 
 P.O. 27 DE FEBRERO DE 1999.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JUNIO DE 1999.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
