@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-procuraduria-general-de-justicia-del-2800"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-12-29"
-last_updated: "1992-12-20"
+last_updated: "1993-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2800&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 1993.
 
 Ley publicada en el Suplemento al No. 52 del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1991.
 
@@ -185,11 +185,11 @@ Para el ejercicio de las atribuciones, funciones y despacho de los asuntos de su
 
 Los servidores públicos sustitutos del Procurador lo auxiliarán en las funciones que esta Ley les encomiende y, por delegación que haga el titular mediante acuerdo, resolverán los casos en que se consulte el no ejercicio de la acción penal y la formulación de conclusiones no acusatorias, así como las consultas que el Agente del Ministerio Público formule o las prevenciones que la autoridad judicial acuerde en los términos que la ley establezca a propósito de conclusiones presentadas en un proceso penal o de actos cuya consecuencia sea el sobreseimiento del proceso o la libertad absoluta del inculpado antes de que se pronuncie sentencia.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 11.
 
-Serán Agentes del Ministerio Público para todos los efectos legales que corresponda, los Subprocuradores y los Directores Generales de Asuntos Jurídicos, de Averiguaciones Previas y de Control de Procesos.
+Serán Agentes del Ministerio Público para todos los efectos legales que corresponda, el Procurador, los Subprocuradores, los Directores Generales de Asuntos Jurídicos, de Averiguaciones Previas y de Control de Procesos, así como los Agentes del Ministerio Público adscritos a los hospitales, juzgados penales, civiles, familiares y a las demás dependencias de la Procuraduría General de Justicia del Estado.
 
 ###### ARTICULO 12.
 
@@ -372,3 +372,7 @@ P.O. 20 DE DICIEMBRE DE 1992.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 1993.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
