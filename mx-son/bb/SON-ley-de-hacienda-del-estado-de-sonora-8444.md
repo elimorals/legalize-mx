@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1994-12-30"
+last_updated: "1995-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE DICIEMBRE DE 1995.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -531,7 +531,7 @@ V.- Los obtenidos por la enajenación de segunda o ulteriores manos de fertiliza
 
 ###### Artículo 71.
 
-Son ingresos gravados en los términos de la Fracción II del artículo 69 de éste (sic) capítulo:
+Son ingresos gravados en los términos de la Fracción II del artículo 69 de ésta (sic) capítulo:
 
 > <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -1913,7 +1913,7 @@ Artículo 212 G.- Las oficinas recaudadoras no expedirán placas de circulación
 
 #### Sección Primera. Del impuesto Sobre Remuneraciones al Trabajo Personal
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ### Capítulo Sexto. De los Impuestos Sobre Productos del Trabajo
 
@@ -1921,25 +1921,25 @@ Artículo 212 G.- Las oficinas recaudadoras no expedirán placas de circulación
 
 ###### Artículo 213.
 
-Es objeto de este impuesto, la realización de pagos en dinero o en especie por concepto de remuneración al trabajo personal prestado bajo la dirección o dependencia de un tercero.
+Es objeto de este impuesto, la realización de pagos en dinero o en especie por concepto de remuneración al trabajo personal prestado bajo la dirección o dependencia de un patrón.
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ###### Artículo 214.
 
-La base de este impuesto es el monto total de los pagos realizados por concepto de remuneraciones al trabajo personal prestado bajo la dirección o dependencia de un tercero.
+La base del impuesto es el monto total de los pagos realizados por concepto de remuneraciones al trabajo personal prestado bajo la dirección o dependencia de un patrón.
+
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ###### Artículo 215.
 
-Son sujetos del impuesto quienes realicen los pagos por remuneración al trabajo personal bajo la dirección y dependencia de un tercero y responsables solidarios quienes perciban dichos pagos, cuando quien los realiza resida fuera del Estado.
+Son sujetos del impuesto quienes realicen los pagos por remuneración al trabajo personal bajo la dirección y dependencia de un patrón y responsables solidarios quienes perciban dichos pagos, cuando quien los realiza resida fuera del Estado.
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ###### Artículo 216.
 
-La tasa del impuesto que se aplicará sobre el monto total de las remuneraciones pagadas en un mes o parte de él, será del 2%.
-
-Cuando el pago por concepto de remuneraciones se realice por contribuyentes dedicados a actividades agrícolas y ganaderas, la tasa aplicable será del 1% siempre y cuando los productos no hayan sido objeto de transformación industrial.
+La tasa del impuesto que se aplicará sobre el monto total de las remuneraciones pagadas en un mes o parte de él, será de 2%. Cuando el pago por concepto de remuneraciones se realice por contribuyentes dedicados a actividades agrícolas, ganaderas o de pesca, la tasa aplicable será del 1%, siempre y cuando los productos no hayan sido objeto de transformación industrial.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1994)</small>
 
@@ -1959,19 +1959,33 @@ I.- Contraprestaciones a que se refiere el Artículo 213 del presente ordenamien
 
 Tratándose de organismos descentralizados de la Federación, del Estado de Sonora y de sus Municipios, solo estarán exentos cuando realicen actividades con fines no lucrativos;
 
-II.- Los pagos por cualquier concepto de indemnización; y
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 1995)</small>
+
+II.- Los pagos por cualquier concepto de indemnización;
 
 III.- Los pagos por concepto de jubilaciones o pensiones, siempre que no excedan de cinco veces el salario mínimo general de la zona en que resida el preceptor de dichos conceptos;
 
-> <small>(ADICIONADA, B.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 1995)</small>
 
-IV.- Contraprestaciones cubiertas por instituciones o asociaciones con fines no lucrativos que promuevan o realicen asistencia social en cualquiera de sus formas, así como actividades sociales, deportivas o culturales.
+IV.- Contraprestaciones cubiertas por instituciones o asociaciones con fines no lucrativas que promuevan o realicen asistencia social en cualquiera de sus formas, así como actividades sociales, deportivas o culturales, y
 
-> <small>(F. DE E., B.O. 22 DE ENERO DE 1977)</small>
+> <small>(ADICIONADA, B.O. 28 DE DICIEMBRE DE 1995)</small>
+
+V.- Contraprestaciones cubiertas por contribuyentes que realicen actividades empresariales que tengan contratados hasta 5 trabajadores.
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
+
+Para los efectos de este Capítulo se entenderá por actividades empresariales aquellas que al efecto señale el Código Fiscal de la Federación.
+
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ###### Artículo 219.
 
-El pago del impuesto debe hacerse dentro de los 15 días siguientes al mes de aquél en que se cubrieron las remuneraciones, mediante la presentación de una declaración en la Oficina receptora de la jurisdicción de quien realiza los pagos a de quien los perciba cuando quien los efectúa reside fuera del Estado.
+Este impuesto se causará en el momento en que se realicen las erogaciones por la prestación del servicio personal subordinado y se pagará mediante declaración mensual dentro de los primeros quince días del mes siguiente a aquél en que se causó, ante la oficina recaudadora o institución autorizada al efecto, correspondiente al domicilio del contribuyente o de quien perciba los pagos cuando quien los efectúa resida fuera del Estado.
+
+Tratándose de contribuyentes que tengan hasta 20 trabajadores, podrán efectuar el pago mediante declaración trimestral dentro de los primeros quince días de los meses de abril, julio, octubre y enero; por las erogaciones que hubieren sido efectuadas durante el primero, segundo, tercero y cuarto trimestre del año, según corresponda.
+
+Los contribuyentes dedicados a actividades agrícolas o de pesca previa autorización de la Secretaría de Finanzas, podrán efectuar el pago del impuesto dentro del mes inmediato posterior al término de sus respectivos ciclos productivos, siempre que los productos no hayan sido objeto de transformación industrial.
 
 ###### Artículo 220.
 
@@ -1979,9 +1993,21 @@ Son obligaciones a cargo de los sujetos que realizan los pagos gravados por este
 
 I.- Empadronarse en la Oficina Recaudadora de su jurisdicción;
 
-II.- Presentar la declaración mensual para el pago del Impuesto; y
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 1995)</small>
 
-III.- Las demás que impongan otras disposiciones fiscales.
+II.- Presentar las declaraciones correspondientes para el pago del impuesto;
+
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 1995)</small>
+
+III.- Tratándose de personas físicas o morales cuya casa matriz y sucursales se encuentren en el territorio del Estado, deberán presentar una sola declaración en la oficina recaudadora o institución autorizada al efecto, correspondiente al domicilio de la matriz. En dicha declaración deberán incluirse las erogaciones en forma desglosada tanto de la matriz como de las sucursales o dependencias;
+
+> <small>(ADICIONADA, B.O. 28 DE DICIEMBRE DE 1995)</small>
+
+IV.- Los contribuyentes que dejen de causar este impuesto, presentarán por una sola vez la declaración correspondiente sin impuesto a cargo. En este caso se presumirá que no existe impuesto a pagar en las declaraciones posteriores que no sean presentadas; y
+
+> <small>(ADICIONADA, B.O. 28 DE DICIEMBRE DE 1995)</small>
+
+V.- Las demás que impongan otras disposiciones fiscales.
 
 ###### Artículo 221.
 
@@ -1989,7 +2015,9 @@ Son obligaciones a cargo de los sujetos que perciban los pagos gravados por este
 
 I.- Empadronarse en la oficina recaudadora de su jurisdicción, cuando la percepción de su remuneración provenga del exterior del Estado;
 
-II.- Presentar su declaración para el pago del impuesto dentro del mes siguientes a aquél en que se haya obtenido la remuneración; y
+> <small>(REFORMADA, B.O. 28 DE DICIEMBRE DE 1995)</small>
+
+II.- Presentar las declaraciones correspondientes para el pago del impuesto dentro de los 15 días siguientes al mes de aquel en que se haya obtenido la remuneración; y
 
 III.- Las demás que impongan otras disposiciones fiscales.
 
@@ -2655,11 +2683,9 @@ Toda la recaudación que por concepto de ésta contribución se obtenga en cada 
 
 ### Capítulo Segundo. Servicios de Empadronamiento
 
-### Capítulo Tercero
+### Capítulo Tercero. Servicios por la Expedición y Revalidación de Licencias para la Venta y Consumo de Bebidas con Contenido Alcohólico y Expedición de Licencias Eventuales
 
-Servicios por la Inscripción y Revalidación de Permisos para la fabricación y expendio de bebidas de bajo y alto contenido alcohólico y expedición de licencias eventuales
-
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ### Capítulo Cuarto. Servicios de Ganadería
 
@@ -2829,6 +2855,14 @@ El monto de las cuotas o tarifas de los derechos que este título establece en c
 
 El factor aplicable para el mes de enero, será el que resulte de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre inmediato anterior entre el del mes de agosto inmediato anterior; el factor aplicable para el mes de julio, será el que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de mayo entre el del mes de febrero.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 28 DE DICIEMBRE DE 1995)</small>
+
+Se exceptúa del procedimiento de actualización anterior, a los derechos por servicios por la expedición, cambio de domicilio y revalidación de licencias para la venta y consumo de bebidas con contenido alcohólico y expedición de licencias eventuales, los cuales se actualizarán anualmente en el mes de enero, con el factor que se obtenga de dividir el Indice Nacional de Precios al Consumidor del mes de noviembre inmediato anterior al de la fecha para el cual se hace el ajuste, entre el citado índice correspondiente al mes de diciembre del segundo año inmediato anterior al de esa fecha.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 28 DE DICIEMBRE DE 1995)</small>
+
+Las cuotas actualizadas en los términos del presente Artículo, se publicarán en el Boletín Oficial del Gobierno del Estado.
+
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
 Los incrementos en las cuotas o tarifas de los Derechos se calcularán sobre el importe de la cuota anterior actualizada. Las tasas expresadas en porcentajes o sobre valor no se incrementarán mediante la aplicación de factores.
@@ -2849,7 +2883,7 @@ El pago de los derechos se efectuará al momento de la prestación del servicio,
 
 Los derechos por servicios de empadronamiento a que se refieren diversos preceptos del Código Fiscal del Estado de Sonora y de esta Ley de Hacienda, causarán una cuota de $ 25.00.
 
-> <small>(REFORMADA SU DENOMINACION, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA SU DENOMINACION, B.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ### Capítulo Séptimo. De los Derechos por Registro de Documentos, Permisos, Autorizaciones y Servicios Prestados por la Dirección de Notarías del Estado
 
@@ -2857,155 +2891,145 @@ Los derechos por servicios de empadronamiento a que se refieren diversos precept
 
 ###### Artículo 302.
 
-Estos derechos se cubrirán y causarán por la expedición y revalidación de permisos y de licencias eventuales, de acuerdo con su categoría y ubicación.
+Los servicios de expedición, cambios de domicilio y revalidación de licencias para la venta y consumo de bebidas con contenido alcohólico y expedición de licencias eventuales, causarán derechos atendiendo al tipo de giro, ubicación y capacidad económica del establecimiento conforme a las siguientes cuotas:
 
-A.- El pago de los derechos por concepto de expedición, se causarán conforme a la siguiente tarifa:
+I.- Por la expedición de licencias y para cambio de domicilio:
 
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
+MINIMO MAXIMO
 
-I.- Licencias para la fabricación, Distribución,
+a).- Distribuidora, Agencia o
 
-venta y/o consumo de bebidas de alto contenido
+Subagencia N$30,000.00 a N$100,000.00
 
-alcohólico, se pagará de: $300.000.00 a $750,000.00.
+b).- Almacén 35,000.00 a 80,000.00
 
-Tratándose de Restaurant, pagarán de: $50,000.00 a $225,000.00.
+c).- Depósito 15,000.00 a 50,000.00
 
-Envasamiento y distribución de alcohol,
+d).- Expendio 20,000.00 a 80,000.00
 
-pagarán de $100,000.00 a $300,000.00.
+e).- Ultramarino 10,000.00 a 50,000.00
 
-Bodegas, pagarán de: $300,000.00 a $750,000.00.
+f).- Cantina 10,000.00 a 80,000.00
 
-Porteadores de alcohol y vinos y licores,
+g).- Cervecería 8,000.00 a 50,000.00
 
-pagarán de $5,000.00 a $50,000.00.
+h).- Cabaret o Centro
 
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
+Nocturno 15,000.00 a 50,000.00
 
-II.- Licencias para la fabricación, distribución,
+i).- Discoteca 25,000.00 a 100,000.00
 
-venta y/o consumo de bebidas de bajo
+j).- Restaurante 20,000.00 a 80,000.00
 
-contenido alcohólico, se pagará, de $150,000.00 a $375,000.00.
+k).- Fonda, Taquería,
 
-Tratándose de: Restaurant, pagarán de $75,000.00 a $225,000.00.
+Pizzería y similares 5,000.00 a 50,000.00
 
-Abarrotes y Supermercados pagarán de: $3,500.00 a $60,000.00.
+l).- Marisquería 3,000.00 a 30,000.00
 
-Bodegas, pagarán de: $150,000.00 a $375,000.00.
+m).- Supermercado 20,000.00 a 80,000.00
 
-Porteador de Cerveza de: $5,000.00 a $50,000.00.
+n).- Casino 20,000.00 a 80,000.00
 
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
+ñ).- Club social 20,000.00 a 80,000.00
 
-III.- Licencias para la fabricación, envasamiento
+o).- Salón de Baile y
 
-distribución, guarda, venta y/o consumo de
+salón social 25,000.00 a 100,000.00
 
-bebidas de alto y bajo contenido alcohólico
+p).- Salón de billar y
 
-en su caso, por cambio de domicilio,
+boliche 20,000.00 a 80,000.00
 
-pagarán de: $10,000.00 a $75,000.00.
+q).- Café cantante 15,000.00 a 50,000.00
 
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1982)</small>
+r).- Hotel o motel 25,000.00 a 100,000.00
 
-IV.- Licencias eventuales para la venta y/o
+s).- Centro recreativo o
 
-consumo de bebidas de alto y bajo contenido
+deportivo 20,000.00 a 80,000.00
 
-alcohólico, se pagará por día, previamente
+t).- Abarrotes 2,000.00 a 10,000.00
 
-a su otorgamiento de: $500.00 a $22,500.00.
+u).- Tienda de servicio 25,000.00 a 100,000.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1982)</small>
+v).- Otros giros 5,000.00 a 150,000.00
 
-B.- Los derechos por concepto de revalidación
+II.- Por la revalidación:
 
-se cubrirán conforme a las especificaciones y tarifas
+a).- Distribuidora, Agencia
 
-siguientes:
+o Subagencia N$3,000.00 a N$10,000.00
 
-I.- Fabricas y envasamiento de alcohol y vinos
+b).- Almacén 3,500.00 a 8,000.00
 
-y licores de: $10,000.00 a $37,500.00.
+c).- Depósito 1,500.00 a 5,000.00
 
-II.- Porteadores de alcohol y vinos y licores,
+d).- Expendio 2,000.00 a 8,000.00
 
-de: $3,000.00 a $9,000.00.
+e).- Ultramarino 1,000.00 a 5,000.00
 
-III.- Almacenes o depósitos, expendios, bodegas,
+f).- Cantina 1,000.00 a 8,000.00
 
-cantinas, cabarets, venta y/o consumo de
+g).- Cervecería 800.00 a 5,000.00
 
-vinos y licores, de: $10,000.00 a $45,000.00.
+h).- Cabaret o Centro
 
-IV.- Venta de vinos de mesa en restaurantes,
+Nocturno 1,500.00 a 5,000.00
 
-tales como vermouth, aperitales, anisados, vinos
+i).- Discoteca 2,500.00 a 10,000.00
 
-generosos, cremas, sidras, vinos de uva para mesa,
+j).- Restaurante 1,000.00 a 8,000.00
 
-tintos, rosados y blancos, de $6,000.00 a $22,500.00
+k).- Fonda, Taquería,
 
-V.- Venta y/o consumo de vinos y licores en
+Pizzería y similares 500.00 a 5,000.00
 
-establecimientos para eventos sociales,
+l).- Marisquería 300.00 a 5,000.00
 
-Clubes de servicio, sociedades mutualistas y
+m).- Supermercado 2,000.00 a 8,000.00
 
-recreativas, de $6,000.00 a $22,500.00
+n).- Casino 1,000.00 a 8,000.00
 
-VI.- Fábricas, almacenes o depósitos, bodegas,
+ñ).- Club Social 1,000.00 a 8,000.00
 
-agencias y sub-agencias distribuidoras, de bebidas
+o).- Salón de Baile y salón
 
-de bajo contenido alcohólico, de: $6,000.00 a $22,500.00.
+social 2,000.00 a 8,000.00
 
-VII.- Venta de bebidas de bajo contenido
+p).- Salón de billar o
 
-alcohólico en supermercados, ultramarinos y
+boliche 500.00 a 5,000.00
 
-similares, boliches, billares y similares,
+q).- Café cantante 1,500.00 a 5,000.00
 
-clubes y casinos, de $4,000.00 a $15,000.00
+r).- Hotel o motel 2,500.00 a 10,000.00
 
-VIII.- Venta de bebidas de bajo contenido
+s).- Centro recreativo o
 
-alcohólico en envase cerrado, en abarrotes,
+deportivo 2,000.00 a 8,000.00
 
-de $2,000.00 a $15,000.00
+t).- Abarrotes 100.00 a 1,000.00
 
-IX.- Cervecería, de $3,000.00 a $15,000.00
+u).- Tienda de servicio 2,500.00 a 10,000.00
 
-X.- Venta y/o consumo de bebidas de bajo
+v).- Otros giros 500.00 a 15,000.00
 
-contenido alcohólico en restaurantes, salones
+III.- Por la expedición de
 
-de baile y establecimientos para los eventos
+licencias eventuales, por
 
-sociales, clubes de servicio, sociedades
-
-mutualistas y recreativas, de $2,000.00 a $15,000.00
-
-XI.- Venta de bebidas de bajo contenido
-
-alcohólico en cabarets o centros nocturnos,
-
-de: $10,000.00 a $45,000.00.
-
-XII.- Porteador de cerveza de $3,000.00 a $9,000.00.
+día, N$200.00 a N$10,000.00
 
 ###### Artículo 303.
 
-Las negociaciones que inicien sus actividades en el presente año, pagarán una cuota proporcional al tiempo que disfruten de los servicios.
+(DEROGADO, B.O. 28 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
 
 ###### Artículo 304.
 
-Los derechos de inscripción o expedición se pagarán dentro de los quince días siguientes al otorgamiento del permiso. Las cuotas por los derechos de revalidación serán semestrales y se pagarán durante los meses de Enero y Julio de cada año.
+Los derechos por la expedición de licencias y para cambio de domicilio, se pagarán previamente al otorgamiento de las mismas, sin que ello implique la autorización para el funcionamiento del giro, entre tanto no sea expedida la licencia correspondiente. Los de revalidación serán anuales y se pagarán durante los meses de enero y febrero de cada año y tratándose de licencias eventuales se cubrirán los derechos al momento de la prestación del servicio.
 
 ###### Artículo 305.
 
@@ -3529,13 +3553,15 @@ B).- De chofer N$ 25.00
 
 C).- De motociclista N$ 25.00
 
-D).- Para conducir vehículos de propulsión
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
 
-automotriz en los casos previstos en el Artículo
+D).- Para conducir vehículos de propulsión automotriz en los casos previstos en el Artículo 23 de la Ley de Tránsito del Estado de Sonora. En este supuesto se podrán otorgar permisos con vigencia de 6 meses, 1 año y 2 años.
 
-23 de la Ley de Transito del Estado de Sonora.
+Por 6 meses N$152.00
 
-(6 meses máximo) N$ 120.00
+Por 1 año N$274.00
+
+Por 2 años N$438.00
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1991)</small>
 
@@ -3580,6 +3606,10 @@ motocicletas y motonetas. N$ 20.00
 ###### Artículo 318.
 
 La expedición, transferencia o canje, así como la expedición de las licencias para manejar, a que se refiere esta Ley, se autorizarán previo el cumplimiento de los requisitos establecidos en la Ley de Tránsito del Estado de Sonora.
+
+> <small>(REFORMADO [N. DE E., ADICIONADO], B.O. 28 DE DICIEMBRE DE 1995)</small>
+
+La Secretaría de Finanzas del Estado podrá emitir normatividad simplificando los trámites o reduciendo los requisitos a que se refiere el párrafo anterior, a fin de facilitar el cumplimiento de las obligaciones de los solicitantes de los servicios.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1985)</small>
 
@@ -3763,15 +3793,41 @@ de estacionamiento, para automóviles de alquiler
 
 por unidad. N$ 150.00
 
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
+
+15.- Por cesión de derechos de explotación de
+
+concesión del servicio público de transporte,
+
+estatal o Municipal, por unidad:
+
+a). Pasaje N$1,000.00
+
+b). Carga 550.00
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
+
+16.- Por autorización para arrendamiento de derechos
+
+de explotación de concesión Estatal o Municipal, por
+
+unidad:
+
+a). Pasaje N$200.00 por cada período hasta 30 días.
+
+b). Carga N$100.00 por cada período hasta 30 días.
+
 ### Capítulo Unico
 
 ###### Artículo 321.
 
 Por los servicios registrales que presta el Instituto Catastral y Registral del Estado de Sonora, se causarán los siguientes derechos que deberán pagarse previamente a la prestación del servicio:
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 28 DE DICIEMBRE DE 1995)</small>
 
-1.- Por las inscripciones relativas a los actos a que se refiere este punto, se causarán y pagarán los derechos conforme a la tasa del 3.5 al millar sirviendo como base el valor que resulte más alto entre le precio pactado en la operación, el consignado en el avalúo efectuado por una institución de crédito, mismo que deberá tener una vigencia no mayor de doce meses al momento de la solicitud de inscripción y el catastral que deberá ser certificado por la autoridad catastral correspondiente en las formas aprobadas, debiéndose anexar estos dos últimos al documento respectivo.
+1.- Por las inscripciones relativas o los actos a que se refiere este punto, se causarán y pagarán los derechos conforme a la tasa del 3.5 al millar sirviendo como base el valor que resulte más alto entre el precio pactado en la operación, el consignado en el avalúo efectuado por una Institución de Crédito o corredor público, mismo que deberá tener vigencia no mayor de seis meses al momento de la solicitud de inscripción y el catastral que deberá ser certificado por la autoridad catastral correspondiente en las formas aprobadas, debiéndose anexar estos dos últimos al documento respectivo.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 a) La inscripción de documentos públicos o privados en que se reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad originaria de bienes inmuebles o cualquier derecho real sobre los mismos.
 
@@ -3793,39 +3849,61 @@ En la adquisición de terrenos destinados a edificación de vivienda de interés
 
 Para la aplicación de la tasa a que se refiere el párrafo anterior, deberá presentarse copia de la licencia de uso del suelo correspondiente, teniendo el solicitante del servicio el plazo de un año contado a partir de la fecha de inscripción, para edificar o desarrollar el predio, caso contrario deberá cubrir la diferencia que resulte de aplicar la tasa establecida en el Punto 1 de este Artículo.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+
 b) La inscripción de la Cláusula resolutiva en los contratos de compra-venta con reserva de dominio de bienes muebles e inmuebles.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 c) La inscripción o registro de contratos de fideicomiso traslativo de dominio, cesión de derechos gratuita u onerosa, donaciones y contratos de obra a precio alzado.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+
 d) Registro de contratos de permuta que se cobrará a cada contratante por separado.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 e) Los contratos de prenda y arrendamiento financiero de bienes muebles.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+
 f) Por comodato, uso, usufructo, habitación, fianzas extendidas por instituciones especializadas, documentos que contengan emisión de obligaciones quirografarias o garantía prendaria o hipotecaria sean éstos normativos o al portador que el emisor sea una sociedad anónima.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 g) Información Ad-perpetuam o posesorias y usucapión o prescripción adquisitiva.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+
 h) Adjudicación por herencia de bienes inmuebles inscritos.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 i) Adjudicaciones judiciales de bienes inmuebles, excepto en las resoluciones de tribunales laborales de adjudicación de bienes a favor de los trabajadores.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+
 j) Disolución de sociedades conyugales sobre inmuebles y protocolización de convenios de separación de bienes, cuando haya bienes inmuebles inscritos.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 k) Por inscripción de embargos judiciales y administrativos.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+
 l) Declaración unilateral o información Ad-perpetuam sobre la construcción.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
 
-2.- La inscripción del documento en el que conste
+2.- La inscripción del documento en el que conste la
 
-la constitución del patrimonio familiar. 4 al millar
+constitución del patrimonio familiar. 3.5 al millar.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
 
 3.- Los contratos de arrendamiento de bienes
 
-inmuebles, sobre el valor de la operación. 8 al millar
+inmuebles, sobre el valor de la operación. 3.5 al millar.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -4693,6 +4771,18 @@ apartado y el número de becas que efectivamente
 
 hubieren otorgado por disposición de la Secretaría.
 
+> <small>(ADICIONADA, B.O. 28 DE DICIEMBRE DE 1995)</small>
+
+V.- Servicios prestados por la Coordinación Estatal de Seguridad Pública y Tránsito.
+
+1.- Por el estudio y la evaluación para el funcionamiento de los servicios privados de seguridad en el Estado, se pagarán derechos a razón de N$30.00 por cada elemento de seguridad con que cuente la empresa prestadora del servicio.
+
+2.- Por cada evaluación posterior que realice la autoridad competente, en los términos del permiso respectivo, se pagará la misma cuota señalada en el apartado primero anterior.
+
+> <small>(ADICIONADO, B.O. 28 DE DICIEMBRE DE 1995)</small>
+
+El pago de estos derechos no implica la autorización para el funcionamiento de las empresas que realicen el entero.
+
 ## TITULO QUINTO. De los Productos y de los Aprovechamientos
 
 ###### Artículo 327.
@@ -4944,3 +5034,41 @@ La presente Ley entrará en vigor en todo el Estado el día 1º de enero de 1995
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a la aplicación de la presente Ley.
+
+B.O. 28 DE DICIEMBRE DE 1995.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor, previa su publicación en el Boletín Oficial del Gobierno del Estado el día primero de enero de 1996.
+
+###### ARTICULO SEGUNDO.
+
+Durante el período comprendido de la fecha de entrada en vigor de la presente Ley hasta el 31 de diciembre de 1996, se aplicarán las siguientes disposiciones transitorias:
+
+I.- Los contribuyentes que realicen actividades empresariales y generen en forma directa nuevos empleos en la Entidad, gozarán de una reducción del 100% en el pago del Impuesto Sobre Remuneraciones al Trabajo Personal que causen las remuneraciones que correspondan a dichos empleos.
+
+Para efectos de la disposición anterior, se considerarán nuevos empleos, todos aquellos que se contraten en forma adicional a la plantilla de personal que tengan las empresas al 15 de diciembre de 1995.
+
+II.- Los contribuyentes que inicien actividades empresariales en el Estado gozarán de una reducción del 100% en el pago del Impuesto Sobre Remuneraciones al Trabajo Personal durante dicho período.
+
+Para los efectos del párrafo anterior, se entiende como fecha de iniciación de operaciones aquella en que tenga lugar la apertura del establecimiento.
+
+No quedan comprendidos en esta disposición, aquellas empresas que con anterioridad al año de 1996, ya se encontraban operando, así como aquellas que durante dicho ejercicio cambien de nombre, giro, domicilio, denominación o razón social.
+
+III.- Tratándose de la inscripción de escrituras constitutivas de sociedades mercantiles que realicen actividades empresariales, el importe de la cuota por la prestación del servicio a que se refiere el Artículo 321 apartado 9 de la Ley de Hacienda del Estado, se reducirá en un 50%.
+
+###### ARTICULO TERCERO.
+
+Se autoriza una reducción del 50% en el Impuesto Sobre Traslación de Dominio de Bienes Muebles a que se refiere el Artículo 183 de la Ley de Hacienda del Estado, respecto de operaciones de vehículos usados modelos 1995 y anteriores, que se pague durante los meses de enero a abril de 1996.
+
+###### ARTICULO CUARTO.
+
+Se autoriza una reducción del 50% en recargos y multas tratándose de créditos fiscales correspondientes a ejercicios anteriores al de 1996, que se paguen durante los meses de enero a abril de dicho ejercicio.
+
+###### ARTICULO QUINTO.
+
+La Secretaría de Finanzas del Estado, podrá expedir las disposiciones necesarias para el cumplimiento de lo establecido en los Artículos Segundo, Tercero y Cuarto anteriores, en materia de Estímulos y Subsidios Fiscales.
+
+###### ARTICULO SEXTO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
