@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2002-07-09"
+last_updated: "2002-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -1357,6 +1357,8 @@ La Secretaría promoverá la administración de los residuos sólidos industrial
 
 La realización de actividades de carácter industrial, en las que se generen residuos de lenta degradación, se llevará a cabo conforme a lo que dispone la Ley General del Equilibrio Ecológico y la Protección al Ambiente, sus reglamentos y las normas oficiales mexicanas aplicables.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 99.
 
 Corresponde a los gobiernos municipales, en el ámbito de sus respectivas jurisdicciones, la regulación y vigilancia de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de los residuos sólidos municipales, para lo cual, deberán:
@@ -1365,9 +1367,17 @@ I. Vigilar el cumplimiento de las disposiciones que regulen las actividades de r
 
 II. Vigilar el funcionamiento y operación de las instalaciones de los rellenos sanitarios de residuos sólidos municipales;
 
-III. Emitir las autorizaciones correspondientes, respecto del funcionamiento de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de los residuos sólidos municipales; y
+(REFORMADA, P.O. 24 DE DICIEMBRE DE 2002) (F. DE E., P.O. 6 DE MARZO DE 2004)
 
-IV. Ejercer las demás atribuciones que les otorga la presente ley.
+III. Emitir las autorizaciones correspondientes, respecto del funcionamiento de los sistemas de recolección, almacenamiento, transporte, alojamiento, reuso, tratamiento y disposición final de los residuos sólidos municipales;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2002)</small>
+
+IV. Establecer sistemas para el tratamiento y disposición final de residuos de lenta degradación en sus reglamentos, y realizar los cobros de los derechos correspondientes, y
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2002)</small>
+
+V. Ejercer las demás atribuciones que les otorga la presente ley.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -2176,3 +2186,7 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 9 DE JULIO DE 2002.
 
 ÚNICO.- Este decreto entrará en vigor a los 90 días de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 24 DE DICIEMBRE DE 2002.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
