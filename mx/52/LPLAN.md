@@ -4,7 +4,7 @@ identifier: "LPLAN"
 country: "mx"
 rank: "ley"
 publication_date: "1983-01-05"
-last_updated: "2003-04-10"
+last_updated: "2003-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=669&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPLAN"
 
 LEY DE PLANEACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 5 de enero de 1983.
 
@@ -50,7 +50,9 @@ II.- Las bases de integración y funcionamiento del Sistema Nacional de Planeaci
 
 III.- Las bases para que el Ejecutivo Federal coordine sus actividades de planeación con las entidades federativas, conforme a la legislación aplicable;
 
-IV.- Las bases para promover y garantizar la participación democrática de los diversos grupos sociales, a través de sus organizaciones representativas, en la elaboración del plan y los programas a que se refiere esta ley; y
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+IV.- Las bases para promover y garantizar la participación democrática de los diversos grupos sociales así como de los pueblos y comunidades indígenas, a través de sus representantes y autoridades, en la elaboración del Plan y los programas a que se refiere esta Ley, y
 
 V.- Las bases para que las acciones de los particulares contribuyan a alcanzar los objetivos y prioridades del plan y los programas.
 
@@ -90,11 +92,15 @@ Es responsabilidad del Ejecutivo Federal conducir la planeación nacional del de
 
 El Presidente de la República remitirá el Plan al Congreso de la Unión para su examen y opinión. En el ejercicio de sus atribuciones constitucionales y legales y en las diversas ocasiones previstas por esta Ley, el Poder Legislativo formulará, asimismo, las observaciones que estime pertinentes durante la ejecución, revisión y adecuaciones del propio Plan.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
 ###### Artículo 6o.
 
 El Presidente de la República, al informar ante el Congreso de la Unión sobre el estado general que guarda la administración pública del país, hará mención expresa de las decisiones adoptadas para la ejecución del Plan Nacional de Desarrollo y los Programas Sectoriales.
 
-En el mes de marzo de cada año, el Ejecutivo remitirá a la Comisión Permanente del Congreso de la Unión el informe de las acciones y resultados de la ejecución del Plan y los programas a que se refiere el párrafo anterior.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+En el mes de marzo de cada año, el Ejecutivo remitirá a la Comisión Permanente del Congreso de la Unión el informe de las acciones y resultados de la ejecución del plan y los programas a que se refiere el párrafo anterior, incluyendo un apartado específico con todo lo concerniente al cumplimiento de las disposiciones del artículo 2 Constitucional en materia de derechos y cultura indígena.
 
 El contenido de las Cuentas anuales de la Hacienda Pública Federal y del Departamento del Distrito Federal deberá relacionarse, en lo conducente, con la información a que aluden los dos párrafos que anteceden, a fin de permitir a la Cámara de Diputados el análisis de las cuentas, con relación a los objetivos y prioridades de la Planeación Nacional referentes a las materias objeto de dichos documentos.
 
@@ -148,15 +154,21 @@ Las dependencias y entidades de la Administración Pública Federal formarán pa
 
 Las disposiciones reglamentarias de esta Ley establecerán las normas de organización y funcionamiento del Sistema Nacional de Planeación Democrática y el proceso de planeación a que deberán sujetarse las actividades conducentes a la formulación, instrumentación, control y evaluación del Plan y los programas a que se refiere este ordenamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
 ###### Artículo 14.
 
-La Secretaría de Programación y Presupuesto tendrá las siguientes atribuciones:
+La Secretaría de Hacienda y Crédito Público tendrá las siguientes atribuciones:
 
 I.- Coordinar las actividades de Planeación Nacional del Desarrollo;
 
-II.- Elaborar el Plan Nacional de Desarrollo, tomando en cuenta las propuestas de las dependencias y entidades de la Administración Pública Federal, y de los gobiernos de los Estados, así como los planteamientos que se formulen por los grupos sociales interesados;
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-III.- Proyectar y coordinar la planeación regional, con la participación que corresponda a los gobiernos estatales y municipales, y elaborar los programas especiales que le señale el Presidente de la República;
+II. Elaborar el Plan Nacional de Desarrollo, tomando en cuenta las propuestas de las dependencias y entidades de la administración pública federal y de los gobiernos de los estados, así como los planteamientos que se formulen por los grupos sociales y por los pueblos y comunidades indígenas interesados;
+
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+III. Proyectar y coordinar la planeación regional con la participación que corresponda a los gobiernos estatales y municipales; así como consultar a los grupos sociales y los pueblos indígenas y, en su caso, incorporar las recomendaciones y propuestas que realicen; y elaborar los programas especiales que señale el Presidente de la República;
 
 IV.- Cuidar que el Plan y los programas que se generen en el Sistema, mantengan congruencia en su elaboración y contenido;
 
@@ -172,7 +184,9 @@ A la Secretaría de Hacienda y Crédito Público le corresponde:
 
 I.- Participar en la elaboración del Plan Nacional de Desarrollo, respecto de la definición de las políticas financiera, fiscal y crediticia;
 
-II.- Proyectar y calcular los ingresos de la Federación del Departamento del Distrito Federal y de las entidades paraestatales, considerando las necesidades de recursos y la utilización del Crédito Público, para la ejecución del Plan y los programas;
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+II. Proyectar y calcular los ingresos de la Federación y de las entidades paraestatales, considerando las necesidades de recursos y la utilización del crédito público, para la ejecución del Plan y los programas;
 
 III.- Procurar el cumplimiento de los objetivos y prioridades del Plan y los programas, en el ejercicio de sus atribuciones de planeación, coordinación, evaluación y vigilancia del Sistema Bancario.
 
@@ -192,9 +206,9 @@ I.- Intervenir respecto de las materias que les competan, en la elaboración del
 
 II.- Coordinar el desempeño de las actividades que en materia de planeación correspondan a las entidades paraestatales que se agrupen en el sector que, conforme a la Ley Orgánica de la Administración Pública Federal, determine el Presidente de la República.
 
-> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-III.- Elaborar programas sectoriales, tomando en cuenta las propuestas que presenten las entidades del sector y los gobiernos de los estados, así como las opiniones de los grupos sociales interesados y observando siempre las variables ambientales, económicas, sociales y culturales que incidan en el desarrollo de sus facultades;
+III.- Elaborar programas sectoriales, tomando en cuenta las propuestas que presenten las entidades del sector y los gobiernos de los estados, así como las opiniones de los grupos sociales y de los pueblos y comunidades indígenas interesados;
 
 IV.- Asegurar la congruencia de los programas sectoriales con el Plan y los programas regionales y especiales que determine el Presidente de la República.
 
@@ -244,9 +258,21 @@ Las entidades de la administración pública paraestatal podrán integrarse a di
 
 En el ámbito del Sistema Nacional de Planeación Democrática tendrá lugar la participación y consulta de los diversos grupos sociales, con el propósito de que la población exprese sus opiniones para la elaboración, actualización y ejecución del Plan y los programas a que se refiere esta Ley.
 
-Las organizaciones representativas de los obreros, campesinos y grupos populares; de las instituciones académicas, profesionales y de investigación; de los organismos empresariales; y de otras agrupaciones sociales, participarán como órganos de consulta permanente en los aspectos de la planeación democrática relacionados con su actividad a través de foros de consulta popular que al efecto se convocarán. Asimismo, participarán en los mismos foros los diputados y senadores al Congreso de la Unión.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Las organizaciones representativas de los obreros, campesinos, pueblos y grupos populares; de las instituciones académicas, profesionales y de investigación de los organismos empresariales; y de otras agrupaciones sociales, participarán como órganos de consulta permanente en los aspectos de la planeación democrática relacionados con su actividad a través de foros de consulta popular que al efecto se convocarán. Así mismo, participarán en los mismos foros los diputados y senadores del Congreso de la Unión.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Las comunidades indígenas deberán ser consultadas y podrán participar en la definición de los programas federales que afecten directamente el desarrollo de sus pueblos y comunidades.
 
 Para tal efecto, y conforme a la legislación aplicable, en el Sistema deberán preverse la organización y funcionamiento, las formalidades, periodicidad y términos a que se sujetarán la participación y consulta para la planeación nacional del desarrollo.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+###### Artículo 20 Bis.
+
+En los asuntos relacionados con el ámbito indígena, el Ejecutivo Federal consultará, en forma previa, a las comunidades indígenas, para que éstas emitan la opinión correspondiente.
 
 ### CAPITULO CUARTO. Plan y Programas
 
@@ -290,15 +316,19 @@ Para la ejecución del plan y los programas sectoriales, institucionales, region
 
 El Plan y los programas a que se refieren los artículos anteriores especificarán las acciones que serán objeto de coordinación con los gobiernos de los estados y de inducción o concertación con los grupos sociales interesados.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
 ###### Artículo 29.
 
-El Plan y los programas regionales y especiales, deberán ser sometidos por la Secretaría de Programación y Presupuesto a la consideración y aprobación del Presidente de la República.
+El Plan y los programas regionales especiales, deberán ser sometidos por la Secretaría de Hacienda y Crédito Público a la consideración y aprobación del Presidente de la República.
 
 Los programas sectoriales deberán ser sometidos a la consideración y aprobación del Presidente de la República por la dependencia coordinadora del sector correspondiente, previo dictamen de la Secretaría de Programación y Presupuesto.
 
 Los programas institucionales deberán ser sometidos por el órgano de gobierno y administración de la entidad paraestatal de que se trate, a la aprobación del titular de la dependencia coordinadora del sector.
 
-Si la entidad no estuviere agrupada en un sector específico, la aprobación a que alude el párrafo anterior corresponderá a la Secretaría de Programación y Presupuesto.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Si la entidad no estuviere agrupada en un sector específico, la aprobación a que alude el párrafo anterior corresponderá a la Secretaría de Hacienda y Crédito Público.
 
 ###### Artículo 30.
 
@@ -340,7 +370,9 @@ IV. La elaboración de los programas regionales a que se refiere la fracción II
 
 V. La ejecución de las acciones que deban realizarse en cada entidad federativa, y que competen a ambos órdenes de gobierno, considerando la participación que corresponda a los municipios interesados y a los sectores de la sociedad.
 
-Para este efecto la Secretaría de Programación y Presupuesto propondrá los procedimientos conforme a los cuales se convendrá la ejecución de estas acciones, tomando en consideración los criterios que señalen las dependencias coordinadoras de sector, conforme a sus atribuciones.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Para este efecto la Secretaría de Hacienda y Crédito Público propondrá los procedimientos conforme a los cuales se convendrá la ejecución de estas acciones, tomando en consideración los criterios que señalen las dependencias coordinadoras de sector, conforme a sus atribuciones.
 
 ###### Artículo 35.
 
@@ -355,6 +387,10 @@ El Ejecutivo Federal ordenará la publicación, en el Diario Oficial de la Feder
 ###### Artículo 37.
 
 El Ejecutivo Federal, por sí o a través de sus dependencias, y las entidades paraestatales, podrán concertar la realización de las acciones previstas en el Plan y los programas, con las representaciones de los grupos sociales o con los particulares interesados.
+
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+El Ejecutivo Federal podrá signar convenios de concertación de acciones con las comunidades indígenas, en todos aquellos asuntos que se consideren pertinentes y de conformidad con lo establecido en las leyes que rijan en la materia de que se trate.
 
 ###### Artículo 38.
 
@@ -439,3 +475,7 @@ CUARTO.- El Ejecutivo Federal observará en la medida de lo posible las disposic
 D.O.F. 10 DE ABRIL DE 2003.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 13 DE JUNIO DE 2003.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
