@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-para-el-estado-de-742
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-07-31"
-last_updated: "1995-06-30"
+last_updated: "1995-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 1995.
 
 Ley publicada en el Periódico Oficial, el Miércoles 31 de Julio de 1991.
 
@@ -141,23 +141,11 @@ VII.- Secretaría de Desarrollo Social;
 
 VIII.- Secretaría de la Contraloría General; y
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1995)</small>
 
 IX.- Secretaría del Trabajo.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE1992)</small>
-
-Adscritas directamente al Ejecutivo existirán las siguientes unidades de apoyo y asesoría:
-
-Coordinación para el desarrollo municipal;
-
-Coordinación de comunicación social; y
-
-Coordinación de Administración.
-
-> <small>(ADICIONADA, P.O. 20 DE ENERO DE 1995)</small>
-
-X.- Oficialía Mayor de Gobierno.
+X.- (DEROGADA, P.O. 13 DE NOVIEMBRE DE 1995)
 
 > <small>(DEROGADO SEGUNDO PARRAFO, P.O. 30 DE JUNIO DE 1995)</small>
 
@@ -207,7 +195,9 @@ XIX.- Coordinar y vigilar las Juntas de Mejoramiento Moral, Cívico y Material;
 
 XX.- Coordinar la elaboración del informe anual que el Gobernador debe presentar al Congreso sobre el estado que guarde la administración pública;
 
-XXI.- Editar y publicar el Periódico Oficial;
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1995)</small>
+
+XXI.- Editar y publicar el Periódico Oficial; dirigir y organizar los talleres gráficos del Gobierno del estado.
 
 XXII.- Ordenar la publicación en el Periódico Oficial de las leyes y decretos que expida el Poder Legislativo y de los decretos del Ejecutivo;
 
@@ -299,9 +289,9 @@ XXII.- Elaborar los programas estatales de Inversión y someterlos al Ejecutivo 
 
 XXIII.- Expedir licencias de conducir, placas y tarjetas de circulación de vehículos.
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1995)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1995)</small>
 
-XXIV.- Programar, realizar y celebrar los contratos relativos a las adquisiciones de bienes inmuebles para los fines de la Administración Pública del Estado, así como velar por el cumplimiento de las leyes, reglamentos y demás disposiciones aplicables en relación con los recursos materiales del Gobierno del Estado.
+XXIV.- Programar, realizar y celebrar los contratos relativos a las adquisiciones, suministros de bienes muebles e inmuebles y servicios necesarios para el cumplimiento de los fines de la Administración Pública del Estado; velar por el cumplimiento de las leyes, reglamentos y demás disposiciones aplicables en relación con los recursos humanos, materiales y servicios directamente relacionados con el Gobierno del Estado, y vigilar que las dependencias y entidades ejerzan conforme a la Ley, las atribuciones que ésta les confiera en esa materia;
 
 > <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1995)</small>
 
@@ -319,9 +309,29 @@ XXVII.- Celebrar los contratos de arrendamiento que tengan por objeto proporcion
 
 XXVIII.- Intervenir en los términos de las leyes de la materia, en la celebración de contratos de compra-venta, comodato, donación y demás en los que se afecte el patrimonio del Gobierno del Estado.
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 1995)</small>
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1995)</small>
 
-XXIX.- Las demás que le señalen las leyes, reglamentos y otras disposiciones vigentes.
+XXIX.- Tramitar los nombramientos, promociones, cambios de adscripción, licencias, bajas y jubilaciones de los servidores públicos, así como administrar y pagar la nómina estatal, con excepción de lo previsto en la fracción XI del Artículo 23 Bis, de esta Ley;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 1995)</small>
+
+XXX.- Planear y programar en coordinación con los titulares de las dependencias la selección, contratación y capacitación del personal y llevar los registros del mismo; controlar su asistencia y vacaciones; otorgar becas y otros estímulos y promover actividades socioculturales y deportivas para los trabajadores al servicio del Estado;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 1995)</small>
+
+XXXI.- Mantener al corriente el escalafón y el tabulador de los trabajadores al servicio del Estado, así como programar los estímulos y recompensas para dicho personal; administrar y regular el otorgamiento y pago de las pensiones.
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 1995)</small>
+
+XXXII.- Programar y prestar los servicios generales a las dependencias del Ejecutivo y proporcionar las bases generales para el suministro de servicios del sector paraestatal; para tal efecto, deberá establecer esquemas de descentralización administrativa;
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 1995)</small>
+
+XXXIII.- Llevar el registro de proveedores de bienes y servicios de la Administración Pública Estatal y presidir el Comité para el Control de Operaciones Patrimoniales de la Administración Pública Estatal.
+
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 1995)</small>
+
+XXXIV.- Las demás que le señalen las leyes, reglamentos y otras disposiciones vigentes.
 
 ###### ARTICULO 19o.
 
@@ -615,65 +625,9 @@ V.- Por acuerdo del Ejecutivo, llevar la política laboral del Estado, y
 
 VI.- Las demás que señalen las Leyes y Reglamentos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 1995)</small>
-
 ###### ARTICULO 25o.
 
-A la Oficialía Mayor de Gobierno le corresponde el despacho de los siguientes asuntos:
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 1995)</small>
-
-I.- Velar por el cumplimiento de las leyes, reglamentos y demás disposiciones aplicables en relación a las funciones de recursos humanos y servicios, así como coordinar la organización y vigilar el funcionamiento de las dependencias que ejerzan dichas atribuciones.
-
-II.- Tramitar todo lo relativo a nombramientos, promociones, cambios de adscripción, licencias, renuncias, bajas y jubilaciones de los servidores públicos, así como maneja y pagar la nomina estatal, excepto lo previsto en la fracción XI del articulo 23 Bis, de esta Ley;
-
-III.- Coordinadamente con los titulares de las Secretarias y Coordinaciones, planear y programar la selección, contratación y capacitación del personal y llevar los registros del mismo; controlar su asistencia y vacaciones; otorgar becas y otros estímulos y promover actividades socioculturales y deportivas para los servidores públicos;
-
-IV.- Mantener al corriente el escalafón y el tabulador de los trabajadores al servicio del Estado, así como programar los estímulos y recompensas para dicho personal;
-
-V.- Administrar y regular el otorgamiento y pago de las pensiones;
-
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 1995)</small>
-
-VI.- Programar, realizar y celebrar los contratos relativos a las adquisiciones y suministro de materiales, bienes muebles, equipos y servicios para los fines del Gobierno.
-
-VII.- LLevar el registro de proveedores y prestadores de servicios de la Administración Publica Estatal ;
-
-VIII.- Presidir el Comité de Adquisiciones de la Administración Publica Estatal;
-
-IX.- (DEROGADA, P.O. 30 DE JUNIO DE 1995)
-
-X.- Programar y prestar los servicios generales a las dependencias del Ejecutivo y proporcionar las bases generales para el suministro de servicios del sector paraestatal;
-
-XI.- (DEROGADA, P.O. 30 DE JUNIO DE 1995)
-
-XII.- Para la provisión de los servicios deberán establecerse esquemas descentralizados de administración;
-
-XIII.- (DEROGADA, P.O. 30 DE JUNIO DE 1995)
-
-XIV.- (DEROGADA, P.O. 30 DE JUNIO DE 1995)
-
-XV.- Dirigir y organizar los Talleres Gráficos del Gobierno del Estado;
-
-XVI.- Elaborar el Reglamento interno de la Administración Publica y de los organismos paraestatales;
-
-XVII.- Elaborar los manuales de sistemas y procedimientos de la Administración Publica y realizar los estudios necesarios para su mejoramiento continuo;
-
-XVIII.- Planear, dirigir, coordinar y evaluar programas de modernización administrativa y calidad total;
-
-XIX.- Mantener actualizado el catalogo de sistemas y procedimientos organizacionales y administrativos de las dependencias de la Administración Publica Estatal y realizar los estudios necesarios para su mejoramiento permanente.
-
-XX.- Emitir su opinión sobre la creación, modificación o supresion de dependencias de la Administración Publica y de los organismos del sector paraestatal;
-
-XXI.- Emitir su opinión sobre los proyectos de leyes, reglamentos o cualquiera otra disposición que modifique la estructura orgánica del Gobierno y los sistemas y procedimientos administrativos de las dependencias gubernamentales;
-
-XXII.- .Someter al Ejecutivo las políticas, estrategias y programas relativos al desarrollo de
-
-la informática en la Administración Publica Estatal;
-
-XXIII.- Dictar las normas técnicas y criterios de aplicación a que deba sujetarse la planeación, programación y evaluación de las acciones, que en materia de informática lleven a cabo las dependencias de la Administración Publica Estatal y otorgar la asesoría correspondiente; y
-
-XXIV.- Las demás que le señalen las leyes, reglamentos y otras disposiciones vigentes.
+(DEROGADO, P.O. 13 DE NOVIEMBRE DE 1995)
 
 ###### ARTICULO 26o.
 
@@ -888,3 +842,17 @@ P.O. 30 DE JUNIO DE 1995.
 ###### ARTICULO SEXTO
 
 - Las facultades que la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios para la Administración Pública el Estado y demás disposiciones aplicables otorgan a la Oficialía Mayor de Gobierno en materia de inmuebles, así como de enajenación e inventario de bienes muebles, en virtud de este Decreto se confieren a la Secretaría de Finanzas y Tesorería General del Estado.
+
+P.O. 13 DE NOVIEMBRE DE 1995.
+
+###### ARTICULO PRIMERO
+
+- El presente Decreto entrará en vigor al día siguiente de su obligación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO
+
+- Las atribuciones y demás facultades que otras leyes, reglamentos y disposiciones generales otorguen a la Oficialía mayor de Gobierno se entenderán conferidas a la dependencia que resulte competente conforme a la Ley Orgánica de la Administración Pública para el Estado.
+
+###### ARTICULO TERCERO
+
+- Los recursos humanos, financieros y materiales de la Oficialía Mayor de Gobierno y sus unidades administrativas, se transferirán, en cumplimiento de este Decreto, a las dependencias que asumen sus atribuciones.
