@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "1994-02-19"
+last_updated: "1994-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 1994.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -141,6 +141,12 @@ De las personas físicas.
 
 La capacidad jurídica de las personas físicas se adquiere por el nacimiento y se pierde por la muerte; pero desde el momento en que un individuo es concebido, entra bajo la protección de la ley y se le tiene por nacido para los efectos declarados en el presente Código.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
+###### Artículo 23o.
+
+La minoría de edad, el estado de interdicción y demás incapacidades establecidas por la ley, son restricciones a la personalidad jurídica que no deben menoscabar la dignidad de la persona ni atentar contra la integridad de la familia; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
+
 ###### Artículo 23.
 
 La menor edad, el estado de interdicción y las demás incapacidades establecidas por la ley son restricciones a la personalidad jurídica; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
@@ -163,9 +169,9 @@ II.- Las demás corporaciones de carácter público reconocidas por la ley;
 
 III.- Las sociedades civiles o mercantiles;
 
-IV.- Los sindicatos, las asociaciones profesionales y las demás a que se refiere la fracción XVI del artículo 123 de la Constitución Federal;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 1994)</small>
 
-La fracción XVI del Artículo 123 de la Constitución previene: "Tanto los obreros como los empresarios tendrán derecho para coaligarse en defensa de sus respectivos intereses, formando sindicatos, asociaciones profesionales, etc."
+IV.- Los sindicatos, las asociaciones profesionales y las demás a que se refiere la fracción XVI del Artículo 123 de la Constitución Federal;
 
 V.- Las sociedades cooperativas y mutualistas;
 
@@ -187,6 +193,22 @@ Las personas morales se regirán por las leyes correspondientes, por su escritur
 
 Del domicilio.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
+###### Artículo 29o.
+
+El domicilio de las personas físicas es el lugar donde residen habitualmente, y a falta de éste, el lugar del centro principal de sus negocios, en ausencia de éstos, el lugar donde se encontraren. Se presume que una persona reside habitualmente en un lugar, cuando permanezca en él por más de seis meses.
+
+###### Artículo 30o.
+
+(DEROGADO, P.O. 6 DE AGOSTO DE 1994)
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
+###### Artículo 31o.
+
+El domicilio legal de una persona física es el lugar donde la Ley fija su residencia para el ejercicio de sus derechos y el cumplimiento de sus obligaciones, aunque de hecho no esté allí presente.
+
 ###### Artículo 29.
 
 El domicilio de una persona física es el lugar donde reside con el propósito de establecerse en él; a falta de éste, el lugar en que tiene el principal asiento de sus negocios; y a falta de uno y otro, el lugar en que se halle.
@@ -207,17 +229,39 @@ I.- Del menor de edad no emancipado, el de la persona a cuya patria potestad est
 
 II.- Del menor que no esté bajo la patria potestad y del mayor incapacitado, el de su tutor;
 
-III.- De los militares en servicio activo, el lugar en que están destinados;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 1994)</small>
 
-IV.- De los empleados públicos, el lugar donde desempeñan sus funciones por más de seis meses. Los que por tiempo menor desempeñen alguna comisión no adquirirán domicilio en el lugar donde la cumplen, sino que conservarán su domicilio anterior, y
+III.- En el caso de menores o incapaces abandonados, el que resultare conforme a las circunstancias previstas en el artículo 29;
 
-V.- De los sentenciados a sufrir una pena privativa de la libertad por más de seis meses, la población en que la extingan, por lo que toca a las relaciones jurídicas posteriores a la condena; en cuanto a las relaciones anteriores, los sentenciados conservarán el último domicilio que hayan tenido.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 1994)</small>
+
+IV.- De los cónyuges, aquél en el cual éstos vivan de común acuerdo, sin prejuicio del derecho de cada cónyuge de fijar su domicilio en la forma prevista en el artículo 29;
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 1994)</small>
+
+V.- De los militares en servicio activo, el lugar en que estén destinados;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 1994)</small>
+
+VI.- De los servidores públicos, el lugar donde desempeñen sus funciones por más de seis meses, y
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 1994)</small>
+
+VII.- De los sentenciados a sufrir una pena privativa de la libertad por más de seis meses, la población en que la extingan, por lo que toca a las relaciones jurídicas posteriores a la condena; en cuanto a las relaciones anteriores, los sentenciados conservarán el último domicilio que hayan tenido.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
+###### Artículo 32
+
+BIS.- Cuando una persona tenga dos o más domicilios se le considerará domiciliada en el lugar en que simplemente resida, y si viviere en varios, aquél en que se encontrare.
 
 ###### Artículo 33.
 
 Las personas morales tienen su domicilio en el lugar donde se halle establecida su administración.
 
-Las que tengan su administración fuera del Estado de Nayarit, pero que ejecuten actos jurídicos dentro de su circunscripción, se considerarán domiciliadas en este lugar; en cuanto a todo lo que a esos actos se refiera.
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
+Las que tengan su administración fuera del Estado de Nayarit, pero que ejecuten actos jurídicos dentro de su circunscripción, se considerarán domiciliadas en el lugar donde los hayan ejecutado, en todo a lo que esos actos se refiera.
 
 Las sucursales que operen en lugares distintos de donde radica la casa matriz, tendrán su domicilio en esos lugares para el cumplimiento de las obligaciones contraidas por las mismas sucursales.
 
@@ -507,11 +551,11 @@ Cuando se trate de parto múltiple se levantará un acta por cada uno de los nac
 
 De las actas de reconocimiento de hijos.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 77.
 
-El acta de nacimiento surte efectos de reconocimiento del hijo en relación a los progenitores que aparezcan en ella.
+Si el padre o la madre de un hijo natural o ambos, lo presentaren para que se registre su nacimiento, el acta surtirá todos los efectos del reconocimiento legal, respecto del progenitor compareciente.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
@@ -629,7 +673,9 @@ II.- La constancia de que prestan su consentimiento para que el matrimonio se ce
 
 III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
-IV.- Un certificado suscrito por un médico titulado, que asegure, bajo protesta de decir verdad, que los pretendientes no padecen sífilis, tuberculosis, ni enfermedad alguno(si) crónica e incurable que sea, además, contagiosa y hereditaria.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 1994)</small>
+
+IV.- Un certificado suscrito por un médico, que asegure, bajo protesta de decir verdad, que los pretendientes, no padecen enfermedad alguna crónica e incurable que sea, además, contagiosa o hereditaria; ni que sean adictos a las drogas enervantes y en el caso del varón, que no sufre de impotencia incurable para la cópula.
 
 Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de sanidad de carácter oficial;
 
@@ -643,9 +689,7 @@ VI.- Copia del acta de defunción del cónyuge fallecido si alguno de los contra
 
 VII.- Copia de la dispensa de impedimentos, si los hubo.
 
-> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
-
-VIII.- Constancia que certifique la asistencia de los pretendientes al curso de orientación prematrimonial, expedido por el Patronato de Promotores Voluntarios.
+VIII.- (DEROGADA, P.O. 6 DE AGOSTO DE 1994)
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
@@ -1071,9 +1115,13 @@ VI.- El atentado contra la vida de alguno de los casados para contraer matrimoni
 
 VII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
 
-VIII.- La embriaguez habitual, la morfinomanía, la eteromanía y el uso indebido y persistente de las demás drogas enervantes. La impotencia incurable para la cópula; la sífilis, la locura y las enfermedades crónicas e incurables, que sean, además, contagiosas o hereditarias.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 1994)</small>
 
-IX.- El idiotismo y la imbecilidad;
+VIII.- La impotencia incurable para la cópula; y las enfermedades crónicas e incurables que sean además, contagiosas o hereditarias.
+
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 1994)</small>
+
+IX.- Padecer alguno de los estados de incapacidad a que se refiere la fracción II del artículo 442.
 
 X.- El matrimonio subsistente con persona distinta de aquella con quien se pretenda contraer.
 
@@ -1117,9 +1165,11 @@ Los cónyuges están obligados a contribuir cada uno por su parte a los fines de
 
 Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos. Por lo que toca al matrimonio, este derecho será ejercido de común acuerdo por los cónyuges.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 160.
 
-Los cónyuges vivirán juntos en el domicilio conyugal. Los tribunales, con conocimiento de causa, podrán eximir de esta obligación a alguno de ellos, cuando el otro traslade su domicilio a país extranjero, a no ser que lo haga en servicio público o social, o se establezca en lugar insalubre o indecoroso.
+Los cónyuges vivirán juntos en el domicilio conyugal. Se considera domicilio conyugal, el lugar establecido de común acuerdo por los cónyuges, en el cual ambos disfruten de autoridad propia y consideraciones iguales. Los tribunales con conocimiento de causa, podrán eximir de esta obligación a alguno de ellos, cuando el otro traslade su domicilio a país extranjero, a no ser que lo haga en servicio público o social; o se establezca en lugar insalubre o indecoroso.
 
 ###### Artículo 161.
 
@@ -1151,13 +1201,11 @@ El marido y la mujer, menores de edad, tendrán la administración de sus bienes
 
 ###### Artículo 168.
 
-Los cónyuges requieren autorización judicial para contratar entre ellos, excepto cuando el contrato sea el de mandato para pleitos y cobranzas o para actos de administración.
+(DEROGADO, P.O. 6 DE AGOSTO DE 1994)
 
 ###### Artículo 169.
 
-También se requiere autorización judicial para que el cónyuge sea fiador de su consorte o se obligue solidariamente con él, en asuntos que sean de interés exclusivo de éste, salvo cuando se trate de otorgar caución para que el otro obtenga su libertad.
-
-La autorización, en los casos a que se refiere éste y los dos artículos anteriores, no se concederá cuando resulten perjudicados los intereses de la familia o de uno de los cónyuges.
+(DEROGADO, P.O. 6 DE AGOSTO DE 1994)
 
 ###### Artículo 170.
 
@@ -1369,6 +1417,8 @@ El marido responde a la mujer y ésta a aquél de los daños y perjuicios que le
 
 De las donaciones entre consortes.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 212.
 
 Se llaman antenupciales las donaciones que antes del matrimonio hace un esposo al otro, cualquiera que sea el nombre que la costumbre les haya dado.
@@ -1427,11 +1477,13 @@ De los matrimonios nulos e elícitos (sic).
 
 ###### Artículo 225.
 
-Los consortes pueden hacerse donaciones; pero sólo se confirman con la muerte del donante, con tal de que no sean contrarias a las capitulaciones matrimoniales, ni perjudiquen el derecho de los ascendientes o descendientes a recibir alimentos.
+Los consortes pueden hacerse donaciones, con tal de que no sean contrarias a las capitulaciones matrimoniales, ni perjudiquen el derecho de los ascendientes o descendientes a recibir alimentos.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 226.
 
-Las donaciones entre consortes pueden ser revocadas libremente y en todo tiempo por los donantes.
+Las donaciones entre consortes pueden ser revocadas por los donantes, mientras subsista el matrimonio, cuando exista causa justificada para ello, a juicio del Juez.
 
 ###### Artículo 227.
 
@@ -1745,15 +1797,15 @@ IV.- Dictar, en su caso, las medidas precautorias que la ley establece respecto 
 
 V.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El juez, previo el procedimiento que fije el Código respectivo, resolverá lo conveniente.
 
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
+Salvo peligro para el normal desarrollo de los hijos, los menores de siete años deberán quedar al cuidado de la madre.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 276.
 
-La sentencia de divorcio fijará la situación de los hijos, conforme a las reglas siguientes:
-
-Primera.- Cuando la causa del divorcio estuviere comprendida en las fracciones I, II, III, IV, V, VIII, XIV y XV del artículo 260, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la patria potestad del ascendiente que corresponda, y si no lo hubiere se nombrará tutor.
-
-Segunda.- Cuando la causa del divorcio estuviere comprendida en las fracciones IX, X, XI, XII, XIII y XVI del artículo 260, los hijos quedarán bajo la patria potestad del cónyuge inocente; pero a la muerte de éste el cónyuge culpable recuperará la patria potestad. Si los dos cónyuges fueren culpables, se les suspenderá en el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrándola el otro al acaecer ésta. Entretanto, los hijos quedarán bajo la patria potestad del ascendiente que corresponda, y si no hay quien ejerza, se les nombrará tutor.
-
-Tercera.- En el caso de las fracciones VI y VII del artículo 260, los hijos quedarán en poder el cónyuge sano, pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de sus hijos.
+La sentencia de divorcio fijará la situación de los hijos, para lo cual el Juez gozará de las más amplias facultades para resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso, y en especial a la custodia y al cuidado de los hijos, debiendo obtener los elementos de juicio necesarios para ello. El Juez observará las normas del presente código para los fines de llamar al ejercicio de la patria potestad a quien legalmente tenga derecho a ello, en su caso, o de designar tutor.
 
 ###### Artículo 277.
 
@@ -1887,9 +1939,11 @@ El obligado a dar alimentos cumple la obligación asignando una pensión compete
 
 El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 304.
 
-Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos.
+Los alimentos han de ser proporcionados a las posibilidades del que debe darlos y a las necesidades de quien debe recibirlos. Determinados por convenio, o sentencia, los alimentos tendrán un incremento automático mínimo equivalente al aumento porcentual del salario mínimo general diario vigente en el Estado de Nayarit, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción. En este caso, el incremento en los alimentos se ajustará al que realmente hubiere obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
 
 ###### Artículo 305.
 
@@ -2011,9 +2065,11 @@ Las cuestiones relativas a la paternidad del hijo nacido después de trescientos
 
 En todos los casos en que el marido tenga derecho de contradecir que el nacido es hijo de su matrimonio, deberá deducir su acción dentro de sesenta días, contados desde el nacimiento, si está presente; desde el día en que llegó al lugar, si estuvo ausente; o desde el día en que descubrió el fraude, si se le ocultó el nacimiento.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 324.
 
-Si el marido está bajo tutela por causa de demencia, imbecilidad u otro motivo que lo prive de inteligencia, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado que se contará desde el día que legalmente se declare haber cesado el impedimento.
+Si el marido está bajo tutela por cualquier causa de las señaladas en la fracción II del artículo 442, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado que se contará desde el día en que legalmente se declare haber cesado el impedimento.
 
 ###### Artículo 325.
 
@@ -2689,11 +2745,13 @@ Tienen incapacidad natural y legal:
 
 I.- Los menores de edad;
 
-II.- Los mayores de edad privados de inteligencia por locura, idiotismo o imbecilidad, aun cuando tengan intervalos lúcidos;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 1994)</small>
 
-III.- Los sordomudos que no saber (sic) leer ni escribir;
+II.- Los mayores de edad disminuidos o perturbados en su inteligencia, aunque tengan intervalos lúcidos; y aquellos que padezcan alguna afección originada por enfermedad o deficiencia persistente de carácter físico, psicológico o sensorial o por la adicción a sustancias tóxicas como el alcohol, los psicotrópicos o los estupefacientes; siempre que debido a la limitación, o la alteración en la inteligencia ésto les provoque que no pueden gobernarse y obligarse por sí mismos, o manifestar su voluntad por algún medio.
 
-IV.- Los ebrios consuetudinarios y los que habitualmente hace uso inmoderado de drogas enervantes.
+III.- (DEROGADA, P.O. 6 DE AGOSTO DE 1994)
+
+IV.- (DEROGADA, P.O. 6 DE AGOSTO DE 1994)
 
 ###### Artículo 443.
 
@@ -2749,19 +2807,23 @@ Ninguna tutela puede conferirse sin que previamente se declare, en los términos
 
 Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 456.
 
-El menor de edad que fuere demente, idiota, imbécil, sordomudo, ebrio consuetudinario, o que habitualmente abuse de las derogas enervantes, estará sujeto a la tutela de menores, mientras no llegue a la mayor edad.
+El menor de edad que se encuentre en cualquiera de los casos a que se refiere la fracción II del artículo 442, estará sujeto a la tutela de los menores, mientras no llegue a la mayoría de edad.
 
-Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 457.
 
 Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley, y no habiéndolo, se les proveerá de tutor.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 458.
 
-El cargo de tutor del demente, idiota, imbécil, sordomudo, ebrio consuetudinario y de los que habitualmente abusen de las drogas enervantes, durará el tiempo que subsista la interdicción, cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge tendrá obligación de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata tienen derecho de que se les releve de ella a los diez años de ejercerla.
+El cargo de tutor respecto de las personas comprendidas en los casos a que se refiere la fracción II del artículo 442, durará el tiempo que subsista la interdicción cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge tendrá obligaciones de desempeñar ese cargo mientras conserve su carácter de cónyuge. Los extraños que desempeñen la tutela de que se trata tienen derecho de que se les releve de ella a los diez años de ejercerla.
 
 ###### Artículo 459.
 
@@ -2777,7 +2839,7 @@ El juez que no cumpla las prescripciones relativas a la tutela, además de las p
 
 ### CAPITULO IV
 
-De la tutela legítima de los dementes, idiotas, imbéciles, sordomudos, ebrios y de los que habitualmente abusan de las drogas enervantes.
+De la Tutela Legítima de los Mayores de Edad Incapacitados.
 
 ###### Artículo 462.
 
@@ -2854,6 +2916,8 @@ Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que
 ###### Artículo 476.
 
 La falta temporal del tutor legítimo se suplirá en los términos establecidos en los dos artículos anteriores.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ### CAPITULO VI
 
@@ -3009,13 +3073,15 @@ V.- El tutor que se encuentre en el caso previsto en el artículo 155;
 
 VI.- El tutor que permanezca ausente por más de seis meses del lugar en que debe desempeñar la tutela.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 496.
 
-No pueden ser tutores ni curadores del demente los que hayan sido causa de la demencia ni los que la hayan fomentado directa o indirectamente.
+No pueden ser tutores ni curadores de las personas comprendidas en la fracción II del artículo 442, quienes hayan sido causa o fomentado directa o indirectamente tales enfermedades o padecimientos.
 
 ###### Artículo 497.
 
-Lo dispuesto en el artículo anterior se aplicarán, en cuanto fuere posible, a la tutela de los idiotas, imbéciles, sordomudos, ebrios consuetudinarios y de los que abusan de las drogas enervantes.
+(DEROGADO, P.O. 6 DE AGOSTO DE 1994)
 
 ###### Artículo 498.
 
@@ -3227,13 +3293,19 @@ Si el que tenía la patria potestad sobre el menor lo había dedicado a alguna c
 
 Si las rentas del menor no alcanzan a cubrir los gastos de su alimentación y educación, el Juez decidirá si ha de ponérsele a aprender un oficio o adaptarse otro medio para evitar la enajenación de los bienes y, si fuere posible, sujetará a las rentas de éstos los gastos de alimentación.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 534.
 
-Si los pupilos fueren indigentes o careciesen de suficientes medios para los gastos que demanden su alimentación y educación, el tutor exigirá judicialmente la prestación de esos gastos a los parientes que tienen obligación legal de alimentar a los incapacitados. Las expensas que esto origine, serán cubiertas por el deudor alimentario. Cuando el mismo tutor sea el obligado a dar alimentos, por razón de su parentesco con el pupilo, el curador ejercitará la acción a que este artículo ser refiere.
+Si los menores o los mayores de edad, con algunas de las incapacidades a que se refiere el artículo 442 fracción II, fuesen indigentes o careciesen de suficientes medios para los gastos que demandan su alimentación y educación el tutor exigirá judicialmente la prestación de esos gastos a los parientes que tienen obligación legal de alimentar a los incapacitados. Las expensas que esto origine, serán cubiertas por el deudor alimentario. Cuando el mismo tutor sea obligado a dar alimentos, por razón, de su parentesco, con su tutelado, el curador ejercitará la acción a que este artículo se refiere.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 535.
 
-Si los pupilos indigentes no tienen personas que están obligadas a alimentarlos, o si teniéndolas no pudieran hacerlo, el tutor, con autorización del Juez de Primera Instancia, quien oirá el parecer del curador y, pondrá al pupilo en un establecimientos de beneficencia pública o privada en donde pueda educarse. Si ni eso fuere posible, el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por esto el tutor queda eximido de su cargo, pues continuará vigilando al menor, a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
+Si los menores o mayores de edad con incapacidades como las que señala el artículo 442 fracción II, no tienen personas que estén obligadas a alimentarlos, o si teniéndolas no pudieren hacerlo, el tutor con autorización del Juez de la materia, quien oirá el parecer el curador y el Consejo local de Tutelas, pondrá al tutelado en un establecimiento de beneficencia pública o privada en donde pueda educarse y habilitarse.
+
+En su caso si esto no fuere posible, el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales con la obligación de alimentarlo y educarlo. No por eso el tutor queda eximido de su cargo, pues continuará vigilando a su tutelado, a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo deficiente de la educación que se le imparta.
 
 ###### Artículo 536.
 
@@ -3301,19 +3373,23 @@ El tutor que no haga las imposiciones dentro de los plazos señalados en los dos
 
 Mientras que se hacen las imposiciones a que se refieren los artículos 548 y 549, el tutor depositará las cantidades que perciba en el establecimiento público destinado al efecto.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 552.
 
-Los bienes inmuebles, los derechos anexos a ellos y los muebles preciosos no pueden ser enajenados ni gravados por el tutor, sino por causa de absoluta necesidad o evidente utilidad del menor, debidamente justificada y previa la conformidad del curador y la autorización Judicial.
+Los bienes inmuebles, los derechos anexos a ellos y los muebles preciosos, no pueden ser enajenados ni gravados por el tutor, sino por causa de absoluta necesidad o evidente utilidad del menor o del mayor de edad incapacitado a que se refiere el artículo 442 fracción II, que haya sido debidamente justificada y previa la conformidad del curador y la autorización judicial.
 
 ###### Artículo 553.
 
 Cuando la enajenación se haya permitido para cubrir con su producto algún objeto determinado, el Juez señalará al tutor un plazo dentro del cual deberá acreditar que el producto de la enajenación se ha invertido en su objeto. Mientras que no se haga la inversión se observará lo dispuesto en la parte final del artículo 429.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 554.
 
-La venta de bienes raíces del menor es nula si no se hace judicialmente en subasta pública. En la enajenación de alhajas y muebles preciosos, el Juez decidirá si conviene o no la almoneda, pudiendo dispensarla, acreditada la utilidad que resulte al menor.
+La venta de bienes raíces de los menores y mayores incapacitados a que se refiere la fracción II del artículo 442, es nula, si no se hace judicialmente en subasta pública. En la enajenación de alhajas y muebles preciosos, el Juez decidirá si conviene o no la almoneda, pudiendo dispensarla, acreditada la utilidad que resulte al tutelado.
 
-Los tutores no podrán vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados pertenecientes al incapacitado por menor valor del que se cotice en la plaza el día de la venta, ni dar fianza a nombre de su pupilo.
+Los tutores no podrán vender valores comerciales, industriales, títulos de renta, acciones, frutos y ganados pertenecientes al incapacitado, por menor valor del que se cotice en la plaza el día de la venta, ni dar fianza a nombre del tutelado.
 
 ###### Artículo 555.
 
@@ -3399,9 +3475,11 @@ Cuando la tutela del incapaz recaiga en el cónyuge, sólo podrá gravar o enaje
 
 Cuando la tutela recaiga en cualquiera otra persona, se ejercerá conforme a las reglas establecidas para la tutela de los menores.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 575.
 
-En caso de maltratamiento, de negligencia en los cuidados debidos al incapacitado, o de la mala administración de sus bienes, podrá el tutor ser removido de la tutela a petición del curador o de los parientes del incapacitado.
+En caso de maltrato, de negligencia en los cuidados debidos al incapacitado o de la mala administración de sus bienes, podrá el tutor ser removido de la tutela a petición del curador, de los parientes del incapacitado, del consejo local de tutelas o del Ministerio Público.
 
 ###### Artículo 576.
 
@@ -3431,9 +3509,11 @@ De los Consejos locales de Tutela.
 
 El tutor está obligado a rendir al Juez cuenta detallada de su administración, en el mes de enero de cada año, sea cual fuere la fecha en que se le hubiere discernido el cargo. La falta de presentación de la cuenta en los tres meses siguientes al de enero, motivará la remoción del tutor.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 582.
 
-También tiene obligación de rendir cuenta, cuando por causas graves, que calificará el Juez, la exijan el curador, o el mismo menor que haya cumplido dieciséis años de edad.
+El tutor tiene obligación de rendir cuenta, cuando por causas graves que calificará el Juez, la exijan el curador, el consejo local de tutelas, el Ministerio Público, los propios incapaces señalados en la fracción II del artículo 442 o los menores que hayan cumplido dieciséis años de edad.
 
 ###### Artículo 583.
 
@@ -3455,9 +3535,11 @@ Lo dispuesto en el artículo anterior, se entiende sin perjuicio de la responsab
 
 Las cuentas deben rendirse en el lugar en que se desempeña la tutela.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 588.
 
-Deben abonarse al tutor todos los gastos hechos debida y legalmente, aunque los haya anticipado de su propio caudal y aunque de ellos no haya resultado utilidad al menor, si esto ha sido sin culpa del primero.
+Deben abonarse al tutor todos los gastos hechos debida y legalmente aunque los haya anticipado de su propio caudal, y aunque de ello no haya resultado utilidad a los menores y a los mayores de edad incapaces a que se refiere el artículo 442 fracción II; si esto ha sido sin culpa del primero.
 
 ###### Artículo 589.
 
@@ -3467,9 +3549,11 @@ Ninguna anticipación ni crédito contra el incapacitado se abonará al tutor si
 
 El tutor será igualmente indemnizado, según el prudente arbitrio del Juez, del daño que haya sufrido por causa de la tutela y en desempeño necesario de ella, cuando no haya intervenido de su parte culpa o negligencia.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 591.
 
-La obligación de dar cuenta no puede ser dispensada en contrato o última voluntad, ni aún por el mismo menor; y si esa dispensa se pusiera como condición en cualquier acto, se tendrá por no puesta.
+La obligación de dar cuenta no puede ser dispensada en contrato o en última voluntad, ni aún por el mismo tutelado; y si esa dispensa se pusiera como condición en cualquier acto, se tendrá por no puesta.
 
 ###### Artículo 592.
 
@@ -3555,7 +3639,7 @@ Si la tutela hubiera fenecido durante la minoridad, el menor podrá ejercitar la
 
 De la emancipación.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 609.
 
@@ -3625,7 +3709,9 @@ Si hiciere algunos gastos en el desempeño de su cargo se le pagarán.
 
 ### CAPITULO II
 
-De la mayor edad.
+De la Mayoría de Edad.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 622.
 
@@ -3695,19 +3781,25 @@ De la declaración de ausencia.
 
 ###### Artículo 632.
 
-El matrimonio del menor de dieciocho años produce de derecho la emancipación, para lo cual bastará que el Oficial del Registro Civil anote la respectiva acta de nacimiento del cónyuge, expresándose al margen de ella quedar éste emancipado en virtud del matrimonio, y citándose la fecha en que fue celebrado, así como el número y la foja del acta respectiva.
+El matrimonio del menor de dieciocho años produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado que sea menor, no recaerá en la patria potestad.
 
-Los padres o tutores pueden emancipar a sus hijos y pupilos a solicitud de éstos, siempre que demuestren su buena conducta y su aptitud para el manejo de sus intereses, hecha la emancipación no puede ser revocada.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 633.
 
-El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor edad:
+El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante la minoría de edad:
 
-I. Del consentimiento del que lo emancipó o de quien legalmente lo substituya, para poder contraer matrimonio antes de llegar a la mayor edad;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 1994)</small>
 
-II. De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
+I. De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces; así como para vender o dar en prenda bienes muebles con un valor superior a la cantidad que resulte de multiplicar 730 por el importe del salario mínimo general diario vigente en el Estado de Nayarit; y
 
-III. De un tutor para negocios judiciales.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 1994)</small>
+
+II. De un tutor para negocios judiciales.
+
+III. (DEROGADA, P.O. 6 DE AGOSTO DE 1994)
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ### CAPITULO III
 
@@ -3715,7 +3807,7 @@ De los efectos de la declaración de ausencia.
 
 ###### Artículo 634.
 
-La mayor edad, comienza a los dieciocho años cumplidos.
+La mayoría de edad, comienza a los dieciocho años cumplidos.
 
 ###### Artículo 635.
 
@@ -4135,9 +4227,11 @@ Sólo puede constituirse el patrimonio de la familia con bienes sitos en el muni
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 718.
 
-El valor máximo de los bienes afectos al patrimonio de la familia será de treinta mil pesos en el Estado de Nayarit.
+El valor máximo de los bienes afectados al patrimonio de la familia, será la cantidad que resulte de multiplicar por 9,125 el importe del salario mínimo general vigente en el Estado de Nayarit, en la época en que se constituya el patrimonio.
 
 ###### Artículo 719.
 
@@ -4197,9 +4291,11 @@ IV.- El promedio de sus ingresos, a fin de que se pueda calcular, con probabilid
 
 V.- Que carece de bienes. Si el que tenga intereses legítimos demuestra que quién constituyó el patrimonio era propietario de bienes raíces al constituirlo, se declarará nula la constitución del patrimonio.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 726.
 
-La constitución del patrimonio de que trata el artículo 723 se sujetará a la tramitación administrativa que fijen los reglamentos respectivos. Aprobada la constitución del patrimonio, se cumplirá lo que dispone la parte final del artículo 720.
+Las autoridades previstas en el artículo 723 propiciarán y coadyuvarán para que se constituya por la autoridad jurisdiccional el patrimonio familiar.
 
 ###### Artículo 727.
 
@@ -6951,23 +7047,37 @@ Cuando una persona hace uso de mecanismos, instrumentos, aparatos o substancias 
 
 Cuando sin el empleo de mecanismos, instrumentos, etc., a que se refiere el artículo anterior, y sin culpa o negligencia de ninguna de las partes, se producen daños, cada una de ellas los soportará sin derecho a indemnización.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 1990)</small>
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 1288.
 
 La reparación del daño debe consistir a elección del ofendido, en el restablecimiento de la situación anterior, cuando ello sea posible, o en el pago de daños y perjuicios.
 
-Cuando el daño se cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal, o parcial temporal, el grado de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo.
-
-Para calcular la indemnización que corresponda se tomará como base el salario mínimo diario más alto que esté en vigor en la región y se extenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte la indemnización corresponderá a los familiares de la víctima.
+Cuando el daño se cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal, o parcial temporal, el grado de reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo, para calcular la indemnización que corresponda se tomará como base el triple del salario mínimo diario más alto que esté en vigor en la región y se extenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte la indemnización corresponderá a los familiares de la víctima.
 
 Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles y se cubrirán preferentemente en una sola exhibición, salvo convenio entre las partes.
 
 Las anteriores disposiciones se observarán en el caso del artículo 2018.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 1289.
 
-Independientemente de los daños y perjuicios el juez puede acordar, a favor de la víctima de un hecho ilícito o de su familia, si aquélla muere, una indemnización equitativa, a título de reparación moral, que pagará el responsable del hecho. Esa indemnización no podrá exceder de la tercera parte de lo que importe la responsabilidad civil. Lo dispuesto en este artículo no se aplicará al Estado en el caso previsto en el artículo 1301.
+Por daño moral se entiende la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspectos físicos, o bien en la consideración que de sí misma tienen los demás. Se presumirá que hubo daño moral cuando se vulnere o menoscabe ilegítimamente la libertad o la integridad física o psíquica de las personas.
+
+Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero con independencia de que haya causado daño material, tanto en responsabilidad contractual como extracontractual. Igual obligación de reparar el daño moral tendrá quién incurra en responsabilidad objetiva conforme al artículo 1286 así como el Estado y sus servidores públicos conforme a los artículos 1300 y 1301, todos ellos del presente código.
+
+La acción de reparación no es transmisible a terceros por acto entre vivos y sólo pasa a los familiares de la víctima cuando ésta haya intentado la acción en vida.
+
+El monto de la indemnización lo determinará el Juez, tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable, y la de la víctima, así como las demás circunstancias del caso.
+
+Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación o consideración, el Juez ordenará a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes. En los casos que el daño derive de un acto que haya tenido difusión en los medios informativos, el Juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
+Artículo 1289 BIS.- No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crítica, expresión e información, en los términos y con las limitaciones de los artículos 6o. y 7o. de la Constitución General de la República.
+
+En todo caso, quien demande la reparación del daño moral por responsabilidad contractual o extracontractual deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que directamente le hubiere causado tal conducta.
 
 ###### Artículo 1290.
 
@@ -7009,13 +7119,17 @@ Los jefes de casa o los dueños de hoteles o casas de hospedaje están obligados
 
 En los casos previstos por los artículos 1296; 1297; y 1298; el que sufra el daño puede exigir la reparación directamente del responsable, en los términos de este capítulo.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 1300.
 
-El que paga el daño causado por sus sirvientes, empleados u operarios, puede repetir de ellos lo que hubiere pagado.
+El que paga los daños y perjuicios causados por sus sirvientes, empleados, u operarios y en caso del Estado de sus servidores públicos, puede repetir de ellos lo que hubiere pagado.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 1301.
 
-El Estado tiene obligación de responder de los daños causados por sus funcionarios en el ejercicio de las funciones que les están encomendadas. Esta responsabilidad es subsidiaria, y sólo podrá hacerse efectiva en contra del Estado cuando el funcionario directamente responsable no tenga bienes, o los que tenga no sean suficientes para responder del daño causado.
+El Estado tiene obligación de responder del pago de los daños y perjuicios causados por sus servidores públicos con motivo del ejercicio de las atribuciones que les están encomendadas. Esta responsabilidad será solidaria tratándose de actos ilícitos dolosos, y subsidiaria en los demás casos, en los que solo podrá hacerse efectiva en contra del Estado cuando el servidor público directamente responsable no tenga bienes o los que tenga no sean suficientes para responder de los daños y perjuicios causados por sus servidores públicos.
 
 ###### Artículo 1302.
 
@@ -7057,9 +7171,11 @@ VI.- Por el peso o movimiento de las máquinas, por las aglomeraciones de materi
 
 Los jefes de familia que habitan una casa o parte de ella son responsables de los daños causados por las cosas que se arrojen o cayeren de la misma.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 1307.
 
-La acción para exigir la reparación de los daños causados, en los términos del presente capítulo, prescribe en dos años, contados a partir del día en que se haya causado el daño.
+La acción para exigir la reparación de los daños y perjuicios causados en los términos del presente capítulo, prescribe en dos años, contados a partir del día en que fueron causados.
 
 ### CAPITULO III
 
@@ -8949,35 +9065,37 @@ De las personas que pueden recibir donaciones.
 
 El contrato de compraventa no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 1689.
 
-La venta de inmueble que no exceda de cinco mil pesos, podrá hacerse en instrumento privado firmado por el vendedor y el comprador ante dos testigos y ratificadas las firmas ante Notario Público.
+La venta de inmuebles, cualquiera que sea su valor, deberá constar en escritura pública.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 1690.
 
-Si alguno de los contratantes no supiere escribir firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, observándose lo dispuesto en el párrafo segundo del artículo 1207.
+Se declara de orden público, la enajenación de inmuebles que realicen los particulares, y los contratos u operaciones relacionados con inmuebles que se adquieran con créditos provenientes del Instituto del Fondo Nacional de la Vivienda para Trabajadores, el Instituto de la Vivienda del Estado de Nayarit y de la Comisión para la Regularización de la Tenencia de la Tierra, así, como de otros Organismos Descentralizados del Gobierno del Estado, Municipios y Dependencias o Entidades de la Administración Pública Federal, SIEMPRE QUE SEAN DE INTERES SOCIAL.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 1691.
 
-De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
+El Estado y los Municipios establecerán en sus Leyes Fiscales, tasas preferenciales de gravámenes sobre la propiedad raíz, cuando se trate de enajenaciones de inmuebles que sean de interés social. Asimismo las leyes respectivas prevendrán la aplicación de aranceles preferenciales en la celebración de los actos y contratos que con ese fin se realicen y los fedatarios se abstendrán del cobro de honorarios en los casos de evidente insolvencia de la parte contratante.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 1692.
 
-Si el valor del inmueble excede de cinco mil pesos su venta deberá constar en escritura pública.
-
-> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 1994)</small>
-
-De conformidad con lo dispuesto en las normas sociales contenidas en la Ley Agraria, autoriza al Registro Agrario Nacional, para que en los términos y condiciones que les son autorizados, expida títulos de propiedad en documentos privados de acuerdo a los requisitos exigidos en el Programa de Certificación de Derechos Ejidales y Títulación de Solares Urbanos.
+De conformidad con lo dispuesto en las normas sociales contenidas en la ley agraria, se autoriza al Registro Agrario Nacional, para que en los términos y condiciones que le son autorizados, expida títulos de propiedad en documentos privados de acuerdo a los requisitos exigidos por el programa de Certificación de Derechos Ejidales y Titulación de Solares Urbanos.
 
 ###### Artículo 1693.
 
-Tratándose de bienes ya inscritos en el Registro Público y cuyo valor no exceda de cinco mil pesos, cuando la venta sea al contado puede hacerse transmitiendo el dominio por endoso puesto en el certificado de propiedad que el registrador tiene obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
-
-El endoso será ratificado ante el registrador, quien tiene obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas, y previa comprobación de que están cubiertos los impuestos correspondientes a la compraventa realizada en esta forma, hará una nueva inscripción de los bienes vendidos en favor del comprador.
+(DEROGADO, P.O. 6 DE AGOSTO DE 1994)
 
 ###### Artículo 1694.
 
-La venta de bienes raíces no producirá efectos contra tercero sino después de registrada en los términos prescritos en este Código.
+(DEROGADO, P.O. 6 DE AGOSTO DE 1994)
 
 ### CAPITULO III
 
@@ -10211,9 +10329,13 @@ II.- En escrito privado, firmado por el otorgante y dos testigos y ratificadas l
 
 III.- En carta poder firmada por el mandante y dos testigos sin ratificación de firmas,
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 1924.
 
-El mandato verbal es otorgado de palabra entre presentes, hayan o no intervenido testigos y solo podrá otorgarse para asuntos menores de $ 200.00. Cuando el mandato haya sido verbal debe ratificarse por escrito antes de que concluya el negocio para que se dio.
+El mandato verbal es el otorgado de palabra entre presentes, hayan o no intervenido testigos.
+
+Cuando el mandato haya sido verbal debe ratificarse por escrito antes de que concluya el negocio para que se dio.
 
 ###### Artículo 1925.
 
@@ -10241,23 +10363,29 @@ Cuando se quisieren limitar, en los tres casos antes mencionados, las facultades
 
 Los Notarios insertarán este artículo en los testimonios de los poderes que otorguen.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 1927.
 
-El mandato debe otorgarse en escritura pública:
+El mandato debe otorgarse en escritura pública o en carta poder firmada ante dos testigos ratificadas las firmas del otorgane y testigos ante notario, ante los Jueces o Autoridades Administrativas correspondientes:
 
 I.- Cuando sea general;
 
-II.- Cuando el interés del negocio para que se confiere exceda de $ 5,000.00;
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 1994)</small>
+
+II.- Cuando el interés del negocio para que se confiere sea superior al equivalente a mil veces el salario mínimo general vigente en el Estado de Nayarit, al momento de otorgarse; o cuando se requiera para la enajenación de inmuebles.
 
 III.- Cuando en virtud de él haya de ejecutar el mandatario a nombre del mandante, algún acto que, conforme a la ley deba constar en instrumento público; y
 
 IV.- Para que el mandatario pueda hacer donaciones en nombre o por cuenta del mandante, deberá éste otorgar poder especial en cada caso.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 1928.
 
-El mandato podrá otorgarse en escrito privado firmado ante dos testigos, sin que sea necesaria la previa ratificación de firmas, cuando el interés del negocio para que se confiere exceda $200.00 y no de $1,000.00.
+El mandato podrá otorgarse en escrito privado firmado ante dos testigos y ratificadas las firmas del otorgante y los testigos cuando el interés del negocio para el que se confiere no exceda de mil veces el salario mínimo general vigente en el Estado de Nayarit, al momento de otorgarse.
 
-Puede otorgarse el mandato en escrito privado firmado ante dos testigos y ratificadas las firmas del otorgante y testigos ante Notario Público, cuando el interés del negocio para el que se confiere exceda de $1,000.00 pero no de $5,000.00.
+Sólo puede ser verbal el mandato cuando el interés del negocio no exceda de cincuenta veces el salario mínimo general vigente en el Estado de Nayarit al momento de otorgarse.
 
 ###### Artículo 1929.
 
@@ -13795,6 +13923,8 @@ Si la cosa legada estuviere sujeta a usufructo, uso o habitación, el legatario 
 
 Del testamento público abierto.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 2606.
 
 Puede el testador substituir una o más personas al heredero o herederos instituidos, para el caso de que mueran antes que él, o de que no puedan o no quieran aceptar la herencia.
@@ -13923,9 +14053,27 @@ La disposición testamentaria que contenga condición de suceso pasado o present
 
 De la forma de los testamentos.
 
-### CAPITULO IV
+### CAPITULO III BIS
 
-Del testamento ológrafo.
+Testamento Público Simplificado.
+
+> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
+Artículo 2683 BIS.- Testamento público simplificado es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquirente en la misma escritura que consigne su adquisición o en la que contenga la regularización de un inmueble que lleven a cabo los organismos descentralizados del Gobierno del Estado o Municipios, o cualquier dependencia o Entidad de la Administración Pública Federal, o en acto posterior, de conformidad con lo siguiente:
+
+I.- Que el precio del inmueble o su valor de avalúo no exceda de la cantidad que resulte de multiplicar 9,125 por el importe del salario mínimo general diario vigente en el Estado de Nayarit; al momento de la adquisición.
+
+En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto;
+
+II.- El testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de sustitutos, para el caso de que cuando se llevare a cabo la protocolización notarial en favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente por cuenta de los incapaces;
+
+III.- Si hubiere pluralidad de adquirentes del inmueble, cada propietario podrá instituir uno o más legatarios respecto de su porción. Cuando el testador estuviere casado bajo el régimen de sociedad conyugal, su cónyuge podrá instituir uno o más legatarios en el mismo instrumento, por la porción que le corresponda. En los supuestos a que se refiere este artículo, no se aplicará lo dispuesto por el artículo 2431 de este código;
+
+IV.- Los legatarios recibirán el legado con la obligación de dar alimentos a los acreedores alimentarios, si los hubiere, en la proporción que el valor del legado representa en la totalidad del acervo hereditario de los bienes del autor de la sucesión;
+
+V.- Los legatarios podrán reclamar directamente la entrega del inmueble y no les serán aplicables las disposiciones de los artículos 2826, 2883, y demás relativos de este código; y
+
+VI.- Fallecido el autor de la sucesión, la titulación notarial de la adquisición por los legatarios, se hará en los términos que establezca el Código de Procedimientos Civiles.
 
 ###### Artículo 2633.
 
@@ -13939,7 +14087,13 @@ I.- Público abierto;
 
 II.- Público cerrado; y,
 
-III.- Ológrafo.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 1994)</small>
+
+III.- Público simplificado; y
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 1994)</small>
+
+IV.- Ológrafo.
 
 ###### Artículo 2635.
 
@@ -13963,9 +14117,11 @@ VI.- Los herederos o legatarios, sus descendientes, ascendientes, cónyuge o her
 
 VII.- Los que hayan sido condenados por el delito de falsedad.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 2637.
 
-Cuando el testador ignore el idioma del país, concurrirán al acto y firmarán el testamento, además de los testigos y el notario, dos intérpretes nombrados por el mismo testador.
+Cuando el testador ignore el idioma del país, un intérprete nombrado por el mismo testador concurrirá al acto y firmará el testamento.
 
 ###### Artículo 2638.
 
@@ -13995,57 +14151,69 @@ Lo dispuesto en el artículo que precede se observará también por cualquiera q
 
 Si los interesados están ausentes o son desconocidos, la noticia se dará al juez.
 
-### CAPITULO V
+### CAPITULO IV
 
-Del testamento privado.
+Del testamento ológrafo.
 
 ###### Artículo 2645.
 
-Testamento público abierto es el que se otorga ante notario y tres testigos idóneos.
+Testamento público abierto es el que se otorga ante notario, de conformidad con las disposiciones de este capítulo.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 2646.
 
-El testador expresará de un modo claro y terminante su voluntad al notario y a los testigos. El notario redactará por escrito las cláusulas del testamento sujetándose estrictamente a la voluntad del testador, y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, días y hora en que hubiere sido otorgado.
+El testador expresará de modo claro y terminante su voluntad al notario. El notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán la escritura el testador, el notario y, en su caso, los testigos y el intérprete, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 2647.
 
-Si alguno de los testigos no supiere escribir firmará otro de ellos por él, pero cuando menos, deberá constar la firma entera de dos testigos.
+En los casos previstos en los artículos 2648, 2650 al 2652 de este código, así como cuando el testador o el notario lo soliciten dos testigos deberán concurrir al acto de otorgamiento y firmar el testamento.
+
+Los testigos instrumentales a que se refiere este artículo podrán intervenir como testigos de conocimiento.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 2648.
 
-Si el testador no pudiere o no supiere escribir, intervendrá otro testigo más, que firme a su ruego.
+Cuando el testador declare que no sabe o no puede firmar el testamento, uno de los testigos firmará a ruego del testador y éste imprimirá su huella digital.
 
 ###### Artículo 2649.
 
-En el caso de extrema urgencia y no pudiendo ser llamado otro testigo, firmará por el testador uno de los instrumentales, haciéndose constar esta circunstancia.
+(DEROGADO, P.O. 6 DE AGOSTO DE 1994)
 
 ###### Artículo 2650.
 
 El que fuere enteramente sordo, pero que sepa leer, deberá dar lectura a su testamento; si no supiere o no pudiere hacerlo, designará una persona que lo lea a su nombre.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 2651.
 
-Cuando sea ciego el testador, se dará lectura al testamento dos veces: una por el notario, como está prescrito en el artículo 2646, y otra, en igual forma, por uno de los testigos u otra persona que el testador designe.
+Cuando el testador sea ciego, no pueda o no sepa leer, se dará lectura al testamento dos veces: Una por el notario, como está prescrito en el artículo 2646, y otra en igual forma por uno de los testigos u otra persona que el testador designe.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 2652.
 
-Cuando el testador ignore el idioma del país, si puede, escribirá de su puño y letra su testamento, que será traducido al español por los dos intérpretes a que se refiere el artículo 2637. La traducción se transcribirá como testamento en el protocolo respectivo y el original se archivará en el apéndice correspondiente del notario que intervenga en el acto.
+Cuando el testador ignore el idioma del país, si puede escribirá su testamento que será traducido al español por el intérprete a que se refiere el artículo 2637. La traducción se transcribirá como testamento en el protocolo respectivo, y el original firmado por el testador, el intérprete y el notario, se archivará en el apéndice correspondiente del notario que intervenga en el acto. Si el testador no puede o no sabe escribir el intérprete escribirá el testamento que dicte aquél y leído y aprobado por el testador, se traducirá al español por el intérprete que debe concurrir al acto; hecha la traducción se procederá como se dispone en el párrafo anterior.
 
-Si el testador no puede o no sabe escribir, uno de los intérpretes escribirá el testamento que dice aquél y leído y aprobado por el testador, se traducirá al español por los dos intérpretes que deben concurrir al acto; hecha la traducción se procederá como se dispone en el párrafo anterior.
-
-Si el testador no puede o no sabe leer, dictará en su idioma el testamento a uno de los intérpretes. Traducido por los dos intérpretes, se procederá como dispone el párrafo primero de este artículo.
+Si el testador no puede o no sabe leer, dictará en su idioma el testamento al intérprete. Traducido éste se procederá como dispone el párrafo primero de este artículo. En este caso el intérprete podrá intervenir, además, como testigo de conocimiento.
 
 ###### Artículo 2653.
 
 Las formalidades se practicarán acto continuo y el notario dará fe de haberse llenado todas.
 
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
+
 ###### Artículo 2654.
 
-Faltando alguna de las referidas solemnidades, quedará el testamento sin efecto, y el notario será responsable de los daños y perjuicios e incurrirá, además, en la pena de pérdida de oficio.
+Faltando alguna de las referidas solemnidades, quedará sin efecto el testamento; el notario responderá de los daños y perjuicios; y será sancionado administrativamente en los términos de la Ley de la materia.
 
-### CAPITULO I
+### CAPITULO V
 
-Disposiciones generales.
+Del testamento privado.
 
 ###### Artículo 2655.
 
@@ -14163,13 +14331,15 @@ El testamento cerrado quedará sin efecto siempre que se encuentre roto el plieg
 
 Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está prevenido en los artículos 2642 y 2643, o lo sustraiga dolosamente de los bienes del finado, incurrirá en la pena, si fuere heredero por intestado, de pérdida del derecho que pudiera tener, sin perjuicio de la que le corresponda conforme al Código Penal.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 6 DE AGOSTO DE 1994)</small>
+
+### CAPITULO I
+
+Disposiciones generales.
+
 ### CAPITULO II
 
 De la sucesión de los descendientes.
-
-### CAPITULO III
-
-De la sucesión de los ascendientes.
 
 ###### Artículo 2684.
 
@@ -14237,9 +14407,9 @@ El testamento ológrafo quedará sin efecto cuando el original o el duplicado, e
 
 El encargado del Registro Público no proporcionará informes acerca del testamento ológrafo depositado en su oficina sino al mismo testador o a los jueces competentes, que oficialmente se los pidan.
 
-### CAPITULO IV
+### CAPITULO III
 
-De la sucesión del cónyuge.
+De la sucesión de los ascendientes.
 
 ###### Artículo 2699.
 
@@ -14319,9 +14489,9 @@ Sabiéndose el lugar donde se hallan los testigos, serán examinados por exhorto
 
 De la sucesión legítima.
 
-### CAPITULO V
+### CAPITULO IV
 
-De la sucesión de los colaterales.
+De la sucesión del cónyuge.
 
 ###### Artículo 2713.
 
@@ -14367,9 +14537,9 @@ Los parientes que se hallaren en el mismo grado, heredarán por partes iguales.
 
 Las líneas y grados de parentesco se arreglarán por las disposiciones contenidas en el capítulo I, título VI, Libro Primero.
 
-### CAPITULO VI
+### CAPITULO V
 
-De la sucesión de la concubina.
+De la sucesión de los colaterales.
 
 ###### Artículo 2721.
 
@@ -14403,9 +14573,11 @@ Concurriendo padres adoptantes y descendientes del adoptado, los primeros solo t
 
 Si el intestado no fuere absoluto, se deducirá del total de la herencia la parte de que legalmente haya dispuesto el testador, y el resto se dividirá de la manera que disponen los artículos que proceden.
 
-### CAPITULO VII
+### CAPITULO VI
 
-De la sucesión del Estado.
+De la sucesión de los concubinos.
+
+> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 1994)</small>
 
 ###### Artículo 2729.
 
@@ -14443,9 +14615,9 @@ Los ascendientes, aún cuando sean ilegítimos, tienen derecho de heredar a sus 
 
 Si el reconocimiento se hace después de que el descendiente haya adquirido bienes cuya cuantía, teniendo en cuenta las circunstancias personales del que reconoce, haga suponer fundadamente que motivó el reconocimiento, ni el que reconoce ni sus descendientes tienen derecho a la herencia del reconocido. El que reconoce tiene derecho a alimentos en el caso de que el reconocimiento lo haya hecho cuando el reconocido tuvo también derecho a percibir alimentos.
 
-### CAPITULO I
+### CAPITULO VII
 
-De las precauciones que deben adoptarse cuando la viuda quede encinta.
+De la sucesión del Estado.
 
 ###### Artículo 2738.
 
@@ -14471,9 +14643,9 @@ El cónyuge recibirá las porciones que le correspondan conforme a los dos artí
 
 A falta de descendientes, ascendientes y hermanos, el cónyuge sucederá en todos los bienes.
 
-### CAPITULO II
+### CAPITULO I
 
-De la apertura y tramitación de la herencia.
+De las precauciones que deben adoptarse cuando la viuda quede encinta.
 
 ###### Artículo 2744.
 
@@ -14497,33 +14669,19 @@ A falta de los llamados en los artículos anteriores sucederán los parientes ma
 
 Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el capítulo siguiente.
 
-### CAPITULO III
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE AGOSTO DE 1994)</small>
 
-De la aceptación y de la repudiación de la herencia.
+### CAPITULO II
+
+De la apertura y tramitación de la herencia.
 
 ###### Artículo 2749.
 
-La mujere con quien el autor de la herencia vivió como si fuera su marido durante los cinco años que precedieren inmediatamente a su muerte o con la que tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar conforme a las reglas siguientes:
+La concubina y el concubinario tienen derecho a heredarse recíprocamente, aplicándose las disposiciones relativas a la sucesión del cónyuge, siempre que hayan vivido juntos como si fueran cónyuges durante los cinco años que precedieron inmediatamente a su muerte o cuando hayan tenido hijos en común siempre que ambos hayan permanecido libres de matrimonio durante el concubinato. Si al morir el autor de la herencia le sobreviven varias concubinas o concubinarios en las condiciones mencionadas al principio de este artículo ninguno de ellos heredará.
 
-I.- Si la concubina concurre con los hijos que lo sean también del autor de la herencia, se observará lo dispuesto en los artículos 2738 y 2739;
+### CAPITULO III
 
-II.- Si la concubina concurre con desdientes del autor de la herencia, que no sean también descendientes de ella, tendrá derecho a la mitad de la porción que le corresponda a un hijo;
-
-III.- Si concurre con hijos que sean suyos y con hijos que el autor de la herencia hubo con otra mujer, tendrá derecho a las dos terceras (sic) de la porción de un hijo;
-
-IV.- Si concurre con ascendientes del autor de la herencia, tendrá derecho a la cuarta parte de los bienes que forman la sucesión;
-
-V.- Si concurre con parientes colaterales dentro del cuarto grado del autor de la sucesión, tendrá derecho a una tercera parte de ésta;
-
-VI.- Si el autor de la herencia no deja descendientes, ascendientes, cónyuge o parientes colaterales dentro del cuarto grado, la mitad de los bienes de la sucesión pertenece a la concubina y la otra mitad a la Hacienda Pública del Estado.
-
-En los casos a que se refieren las fracciones II, III y IV, debe observarse lo dispuesto en los artículos 2738 y 2739, si la concubina tiene bienes.
-
-Si al morir el autor de la herencia tenía varias concubinas en las condiciones mencionadas al principio de este capítulo, ninguna de ellas heredará.
-
-### CAPITULO IV
-
-De los albaceas.
+De la aceptación y de la repudiación de la herencia.
 
 ###### Artículo 2750.
 
@@ -14537,9 +14695,9 @@ Los bienes que adquiera la Hacienda Pública, a que se refiere el artículo ante
 
 Disposiciones comunes a las sucesiones testamentaria y legítima.
 
-### CAPITULO V
+### CAPITULO IV
 
-Del inventario y de la liquidación de la herencia.
+De los albaceas.
 
 ###### Artículo 2752.
 
@@ -14587,9 +14745,9 @@ Para cualquiera de las diligencias que se practiquen conforme a lo dispuesto en 
 
 La división de la herencia se suspenderá hasta que se verifique el parto o hasta que transcurra el término máximo de la preñez, más los acreedores podrán ser pagados por mandato judicial.
 
-### CAPITULO VI
+### CAPITULO V
 
-De la participación.
+Del inventario y de la liquidación de la herencia.
 
 ###### Artículo 2763.
 
@@ -14605,9 +14763,9 @@ Habiendo albacea nombrado, él deberá promover la reclamación a que se refiere
 
 El derecho de reclamar la herencia prescribirá en diez años y es transmisible a los herederos.
 
-### CAPITULO VII
+### CAPITULO VI
 
-De los efectos de la partición.
+De la participación.
 
 ###### Artículo 2767.
 
@@ -14713,9 +14871,9 @@ El que a instancias de un legatario o acreedor hereditario haya sido declarado h
 
 La aceptación en ningún caso produce confusión de los bienes del autor de la herencia y de los herederos, porque toda herencia se entiende aceptada a beneficio de inventario, aunque no se exprese.
 
-### CAPITULO VIII
+### CAPITULO VII
 
-De la rescisión y nulidad de las particiones.
+De los efectos de la partición.
 
 ###### Artículo 2793.
 
@@ -15073,6 +15231,10 @@ Si la revocación se hace sin causa justificada, el albacea removido tiene derec
 
 La remoción no tendrá lugar sino por sentencia pronunciada en el incidente respectivo, promovida por parte legítima.
 
+### CAPITULO VIII
+
+De la rescisión y nulidad de las particiones.
+
 ###### Artículo 2863.
 
 El albacea definitivo, dentro del término que fije el Código de Procedimientos Civiles, promoverá la formación del inventario.
@@ -15322,3 +15484,9 @@ P.O. 19 DE FEBRERO DE 1994.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 6 DE AGOSTO DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
