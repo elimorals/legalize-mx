@@ -4,7 +4,7 @@ identifier: "DUR-ley-reglamentaria-del-registro-publico-de-la-propiedad-del-5071
 country: "mx"
 rank: "ley"
 publication_date: "1952-02-24"
-last_updated: "1952-02-24"
+last_updated: "1956-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY REGLAMENTARIA DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 1956.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 24 y jueves 28 de febrero de 1952.
 
@@ -401,9 +401,11 @@ No se considerarán como una sola finca las contiguas hacia los costados, indepe
 
 Cuando se divida una finca señalada en el Registro correspondiente, se inscribirá como finca nueva la parte que se separe a favor del nuevo dueño.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1956)</small>
+
 ###### ARTICULO 57.
 
-Cuando se practique el fraccionamiento de un predio en manzanas o lotes, el fraccionador deberá presentar para su registro un plano del fraccionamiento y una relación en forma auténtica en la que se contengan los linderos y superficies de las manzanas y lotes, para que éstos y aquellos se inscriban como fincas nuevas. Sin este requisito no se podrá registrar la enajenación o gravamen de una fracción.
+Cuando se practique el fraccionamiento de un predio en manzanas o lotes, el fraccionador deberá presentar para su registro, un plano del fraccionamiento debidamente autorizado por la Junta de Planificación y Zonificación de Durango, acompañando además una relación en forma auténtica, en la que se contengan los linderos y superficies de las manzanas y lotes, para que éstos y aquellas se inscriban como fincas nuevas. Sin estos requisitos no se podrá registrar la enajenación o gravamen de ninguna fracción.
 
 ###### ARTICULO 58.
 
@@ -920,3 +922,9 @@ Por tanto mando se imprima, publique, circule y comuníquese a quienes correspon
 DADO en el Palacio del Poder Ejecutivo, en Victoria de Durango, Dgo., a los tres días del mes de enero de mil novecientos cincuenta y dos.
 
 Lic. Enrique Torres Sánchez. El Secretario General de Gobierno. Lic. Guillermo Sariñana Natera.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE ABRIL DE 1956.
+
+UNICO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
