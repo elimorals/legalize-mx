@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interno-de-la-comision-estatal-de-derechos-8501"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-12-24"
-last_updated: "1992-12-24"
+last_updated: "1994-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8501&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERNO DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MARZO DE 1994.
 
 Reglamento publicado en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 24 de diciembre de 1992.
 
@@ -378,6 +378,16 @@ Cuando el quejoso solicite que su nombre se mantenga en estricta reserva, la Com
 ###### ARTICULO 49.
 
 De recibirse dos o más quejas por los mismos actos y omisiones que se atribuyen a la misma autoridad o servidor público, se acordará su acumulación en un solo expediente. El acuerdo respectivo será notificado a todos los quejosos; igualmente procederá la acumulación de quejas cuando sea estrictamente necesario para no dividir la investigación correspondiente.
+
+> <small>(ADICIONADO, B.O. 10 DE MARZO DE 1994)</small>
+
+ARTICULO 49 BIS.- La aplicación de las disposiciones del párrafo final del Artículo 26 de la Ley, se sujetará a las normas siguientes:
+
+I.- Se entiende por "Organizaciones No Gubernamentales Legalmente Constituídas", las personas morales dedicadas a la promoción, defensa y difusión de los derechos humanos. Se comprenden dentro de esas organizaciones los organismos de colaboración y participación ciudadana o vecinal, que se constituyan conforme a la legislación de la materia.
+
+II.- No será necesario acreditar la constitución legal de las Organizaciones No Gubernamentales ni la personalidad y facultades de quienes ocurren por ellas. Cuando la Comisión tenga dudas al respecto, podrá solicitar a los comparecientes la documentación respectiva, sin que ello obste para que la queja continúe su tramitación. Si dentro del plazo que al efecto se le señale, no se acreditan las circunstancias anteriores, la denuncia se tendrá por interpuesta a título personal por quien o quienes la hayan suscrito. Del mismo modo, la queja de cualquier organización no constituída legalmente, se entenderá promovida sólo por la o las personas que aparezcan suscribiéndola.
+
+III.- Entre los casos que las Organizaciones No Gubernamentales legalmente constituídas pueden formular denuncias ante la Comisión Estatal, se comprenden las violaciones a los derechos humanos en los centros de reclusión de adultos y menores.
 
 ###### ARTICULO 50.
 
@@ -734,3 +744,9 @@ PRESIDENTE DEL CONSEJO Y DE LA COMISION ESTATAL DE DERECHOS HUMANOS
 LIC. HECTOR RODRIGUEZ ESPINOZA
 
 SECRETARIO TECNICO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 10 DE MARZO DE 1994.
+
+El presente acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
