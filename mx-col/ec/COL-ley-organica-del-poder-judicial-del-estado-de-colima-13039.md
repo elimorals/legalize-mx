@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-13039"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-10-08"
-last_updated: "1991-02-02"
+last_updated: "1992-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 8 de octubre de 1988.
 
@@ -647,9 +647,11 @@ Los Jueces Mixtos de Paz serán nombrados por el Supremo Tribunal de Justicia. D
 
 En el Estado habrá el número de Juzgados Mixtos de Paz que las cabeceras municipales ameriten. La jurisdicción de los Juzgados Mixtos de Paz comprende el municipio donde se encuentren establecidos.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 56.
 
-Queda facultado el Supremo Tribunal de Justicia para aumentar el número de dichos juzgados, según las necesidades de la población.
+El Tribunal en Pleno acordará el número de dichos juzgados y podrá establecerlos en localidades distintas de las cabeceras de los municipios, de acuerdo a las necesidades de la población. Cuando en un Municipio existan dos o más Juzgados Mixtos de Paz, serán numerados progresivamente y el Tribunal en Pleno determinará la jurisdicción que cada uno comprenderá.
 
 ###### ARTICULO 57.
 
@@ -1472,3 +1474,7 @@ P.O. 2 DE FEBRERO DE 1991.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su aprobación, y deberá publicarse en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Se faculta al Pleno del Supremo Tribunal de Justicia del Estado, para que a partir de la Vigencia de este Decreto disponga las medidas administrativas necesarias para el establecimiento de los Organos Jurisdiccionales que se deriven de la presente reforma.
+
+P.O. 26 DE DICIEMBRE DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
