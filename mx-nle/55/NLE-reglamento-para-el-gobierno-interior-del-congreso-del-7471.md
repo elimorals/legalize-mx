@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "1994-10-21"
+last_updated: "1994-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 1994.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -861,6 +861,10 @@ Serán Sesiones Solemnes las destinadas a tratar asuntos o acontecimientos que l
 
 Siempre serán Solemnes la Sesión de Apertura del Primer Período Ordinario de cada año de Ejercicio Constitucional, aquélla en la que el Gobernador rinda su Informe Anual y también lo será la sesión en que el Titular del Poder Ejecutivo rinda su protesta de Ley.
 
+> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 1994)</small>
+
+En estas Sesiones se harán los honores a nuestra Enseña Patria y se entonará el Himno Nacional.
+
 ###### Artículo 84.
 
 Cuando así lo acuerde el Pleno, dentro de una Sesión Ordinaria o Extraordinaria podrá señalarse un espacio solemne con el propósito de homenajear o rendir reconocimientos a ciudadanos distinguidos. También lo podrán hacer en los asuntos que la Asamblea considere con merecimiento especial.
@@ -1354,3 +1358,7 @@ UNICO: El presente Decreto entrará en vigor al día siguiente de su publicació
 P.O. 21 DE OCTUBRE DE 1994.
 
 UNICO:- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE NOVIEMBRE DE 1994.
+
+UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
