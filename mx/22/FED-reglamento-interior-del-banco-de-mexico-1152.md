@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "1994-09-30"
+last_updated: "1995-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE MARZO DE 1995.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -357,7 +357,9 @@ X. Comercializar, con propósitos numismáticos, billetes y monedas, distintas a
 
 XI. Coordinar las actividades de carácter cultural;
 
-XII. Desempeñar las funciones encomendadas al Banco en el Fideicomiso para el Desarrollo de Recursos Humanos, y
+> <small>(REFORMADA, D.O.F. 16 DE MARZO DE 1995)</small>
+
+XII. Desempeñar las funciones encomendadas al Banco en el Fideicomiso para el Desarrollo de Recursos Humanos. Asimismo, realizar las actividades que correspondan al propio Banco como fiduciario en los fideicomisos que éste constituya para cumplir obligaciones laborales a su cargo, con fundamento en lo previsto en la fracción XI del artículo 7o. de su Ley, y
 
 XIII. Administrar la oficina de correspondencia.
 
@@ -489,6 +491,8 @@ La Comisión de Responsabilidades realizará la investigación que proceda e int
 
 ### CAPITULO III. DE LA CONTABILIDAD Y DE LOS ESTADOS FINANCIEROS
 
+> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 1995)</small>
+
 ### CAPITULO IV. DEL RECURSO DE RECONSIDERACION Y DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
 ###### ARTICULO 38.
@@ -497,39 +501,59 @@ El balance general y los estados de cuenta consolidados mensuales del Banco, con
 
 En el Activo:
 
-Títulos y valores.
+Reserva Internacional.
 
-Créditos a cargo de instituciones de crédito y de entidades financieras del exterior.
+Activos Internacionales.
 
-Créditos a cargo del Gobierno Federal.
+Pasivos a Deducir.
 
-Oro, plata y Derechos Especiales de Giro.
+Crédito al Gobierno Federal.
 
-Participaciones en organismos internacionales.
+Tenencia de Valores Gubernamentales.
 
-Inmuebles, mobiliario y equipo.
+Crédito a Intermediarios Financieros.
 
-Otros activos.
+Participaciones en Organismos Financieros Internacionales.
+
+Inmuebles, Mobiliario y Equipo.
+
+Otros Activos.
 
 En el Pasivo:
 
-Billetes y moneda metálica en circulación.
+Fondo Monetario Internacional.
 
-Bonos de Regulación Monetaria.
+Autoridades Financieras del Extranjero.
 
-Depósitos y obligaciones a favor de instituciones de crédito.
+Base Monetaria.
 
-Depósitos y obligaciones a favor del Gobierno Federal y de otras entidades del sector público.
+Billetes y Monedas en Circulación.
 
-Depósitos y obligaciones a favor de entidades financieras del exterior y de organismos internacionales.
+Depósitos Bancarios en Cuenta Corriente.
+
+Depósitos en Cuenta Corriente del Gobierno Federal.
+
+Otros Depósitos Bancarios.
+
+Depósitos de Fondos de Fomento.
+
+Otros Depósitos del Gobierno Federal.
+
+Depósitos de Empresas y Organismos Públicos.
 
 Asignaciones de Derechos Especiales de Giro.
 
-Otros pasivos.
+Otros Pasivos.
 
-Capital Contable.
+En el Capital Contable:
 
-Además, se presentarán, al lado del pasivo y enseguida del capital contable, los rubros de Remanente de Operación del Ejercicio Anterior, en tanto éste no se haya entregado al Gobierno Federal y Cuentas de Resultados del Ejercicio en Curso. Al calce de dichos estados se hará constar el monto de las cuentas de orden.
+Capital.
+
+Reservas de Capital.
+
+Además se presentarán enseguida del capital contable, los rubros de Remanente de Operación del Ejercicio Anterior, en tanto éste no se haya entregado al Gobierno Federal y Cuentas de Resultados del Ejercicio en Curso. Al calce de dichos estados se hará constar el monto de las Cuentas de Orden.
+
+El rubro de Reserva Internacional corresponderá a la definición que se contiene en el artículo 19 de la Ley. La tenencia de Valores Gubernamentales se presentará en neto después de descontar los depósitos de regulación monetaria. El Crédito a Intermediarios Financieros incluirá a la banca comercial, la banca de desarrollo, al Fondo Bancario de Protección al Ahorro, al Fondo de Apoyo al Mercado de Valores y a los fideicomisos de fomento. El rubro Otros Activos se presentará neto de las reservas complementarias de activo que, en su caso, existan.
 
 ###### ARTICULO 39.
 
@@ -543,9 +567,13 @@ Dentro de los treinta días hábiles que sigan a la terminación del ejercicio, 
 
 El balance general deberá publicarse dentro de los cinco días hábiles siguientes a la fecha de su aprobación.
 
+> <small>(REFORMADO, D.O.F. 16 DE MARZO DE 1995)</small>
+
 ###### ARTICULO 41.
 
-Dado a conocer el balance general, el Banco publicará, dentro de los quince días hábiles siguientes, los estados de cuenta consolidados de los meses que hayan transcurrido del ejercicio en curso, y sucesivamente, dentro de los primeros veinte días hábiles de cada mes, los estados de cuenta consolidados de los meses restantes de dicho ejercicio.
+Dado a conocer el balance general, el Banco publicará, dentro de los quince días hábiles siguientes, los estados de cuenta consolidados de los meses que hayan transcurrido del ejercicio en curso, y sucesivamente, dentro de los primeros veinte días hábiles de cada mes, el estado de cuenta consolidado correspondiente al mes inmediato anterior, excepto diciembre.
+
+El Banco publicará semanalmente en el Diario Oficial de la Federación, con cifras preliminares al cierre de cada viernes y dentro de los tres días hábiles siguientes, información resumida sobre sus activos, así como sobre sus pasivos y capital contable, tomando como base los rubros a que se refiere el artículo 38 anterior. Dicha información deberá ser suscrita por el Director de Contraloría, y en las ausencias de éste, por el Gerente de Presupuestos y Contabilidad.
 
 ### CAPITULO V. DISPOSICIONES GENERALES
 
@@ -630,3 +658,9 @@ Miguel Mancera
 Gobernador del Banco de México
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 16 DE MARZO DE 1995.
+
+UNICO.- Las presentes reformas entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación, por lo que el balance general a números del 31 de diciembre de 1994, así como los estados de cuenta consolidados mensuales relativos a enero y febrero de 1995, los cuales aún no se han publicado, deberán contener los rubros que se mencionan en el nuevo texto del artículo 38 reformado.
