@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-agua-potable-alcantarillado-y-saneamiento-del-estado-101
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-13"
-last_updated: "2000-12-25"
+last_updated: "2002-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10163&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2002.
 
 Ley publicada en la Sección Tercera del Periódico Oficial, el lunes 13 de junio de 1994.
 
@@ -809,7 +809,7 @@ Por cada derivación, el usuario pagará al organismo operador el importe de las
 
 ###### ARTICULO 72.
 
-Con el objeto de hacer más racional el consumo de agua, los usuarios deberán utilizar aparatos aparatos ahorradores, en los términos y características que se señalen en el Reglamento correspondiente.
+Con el objeto de hacer más racional el consumo de agua, los usuarios deberán utilizar aparatos ahorradores, en los términos y características que se señalen en el Reglamento correspondiente.
 
 En todo caso, la instalación de retretes deberá ser con cajas de seis litros por descarga.
 
@@ -853,9 +853,9 @@ IV. Que se atiendan las otras normas previstas en este capítulo y demás dispos
 
 V.- El acuerdo de cabildo mediante el cual se establezcan las cuotas y tarifas conforme a este artículo, deberá expedirse y publicarse en el Periódico Oficial del Estado durante el mes de diciembre del año inmediato anterior a aquel que correspondan las cuotas y tarifas. Dicho acuerdo se publicará además en los estrados de las oficinas municipales y de los organismos operadores correspondientes y podrá en su caso, difundirse en otros medios que permitan darlo a conocer a los usuarios.
 
-> <small>(DEROGADO PENULTIMO PARRAFO, P.O. 25 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2002)</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 25 DE DICIEMBRE DE 2000)</small>
+En el supuesto de que durante el mes de diciembre del último año de la administración municipal saliente, no se haya publicado el acuerdo de cabildo a que se refiere el párrafo anterior, la administración municipal entrante podrá durante los meses de enero y febrero del año al que correspondan las cuotas y tarifas, aprobar, expedir y mandar publicar el acuerdo respectivo.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1084,3 +1084,13 @@ Para los efectos de lo dispuesto por la fracción V del artículo 74 de la Ley d
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE AGOSTO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos de los Municipios del Estado de Michoacán de Ocampo, que a la fecha de entrada en vigor del presente decreto, no hayan aprobado, expedido y mandado publicar el acuerdo de Cabildo mediante el cual se establezcan las cuotas y tarifas de derechos por el servicio de agua potable, alcantarillado y saneamiento, aplicables parar (sic) el ejercicio fiscal de 2002, podrán hacerlo hasta el 30 de septiembre del año en curso.
