@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1995-01-03"
+last_updated: "1995-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1994.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 3 DE ENERO DE 1995.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE MARZO DE 1995.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -650,9 +648,9 @@ En consecuencia, la ley castigará severamente, y las autoridades perseguirán c
 
 Las leyes fijarán bases para que se señalen precios máximos a los artículos, materias o productos que se consideren necesarios para la economía nacional o el consumo popular, así como para imponer modalidades a la organización de la distribución de esos artículos, materias o productos, a fin de evitar que intermediaciones innecesarias o excesivas provoquen insuficiencia en el abasto, así como el alza de precios. La ley protegerá a los consumidores y propiciará su organización para el mejor cuidado de sus intereses.
 
-> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 2 DE MARZO DE 1995)</small>
 
-No constituirán monopolios las funciones que el Estado ejerza de manera exclusiva en las áreas estratégicas a las que se refiere este precepto: correos; telégrafos; radiotelegrafía y la comunicación vía satélite; petróleo y los demás hidrocarburos; petroquímica básica; minerales radioactivos y generación de energía nuclear; electricidad; ferrocarriles; y las actividades que expresamente señalen las leyes que expida el Congreso de la Unión.
+No constituirán monopolios las funciones que el Estado ejerza de manera exclusiva en las siguientes áreas estratégicas: correos, telégrafos y radiotelegrafía; petróleo y los demás hidrocarburos; petroquímica básica; minerales radioactivos y generación de energía nuclear; electricidad y las actividades que expresamente señalen las leyes que expida el Congreso de la Unión. La comunicación vía satélite y los ferrocarriles son áreas prioritarias para el desarrollo nacional en los términos del artículo 25 de esta Constitución; el Estado al ejercer en ellas su rectoría, protegerá la seguridad y la soberanía de la Nación, y al otorgar concesiones o permisos mantendrá o establecerá el dominio de las respectivas vías de comunicación de acuerdo con las leyes de la materia.
 
 El Estado contará con los organismos y empresas que requiera para el eficaz manejo de las áreas estratégicas a su cargo y en las actividades de carácter prioritario donde, de acuerdo con las leyes, participe por sí o con los sectores social y privado.
 
@@ -4834,7 +4832,7 @@ Para poder proceder penalmente por delitos federales contra los Gobernadores de 
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
-Las declaraciones y resoluciones de la (sic) Cámaras de Diputados (sic)Senadores son inatacables.
+Las declaraciones y resoluciones de la (sic) Cámaras de Diputados (sic) Senadores son inatacables.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -5274,7 +5272,7 @@ c) Las demás reglas para la regulación conjunta y coordinada del desarrollo de
 
 DEL TRABAJO Y DE LA PREVISION SOCIAL.
 
-> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 1978)</small>
+> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 19 DE DICIEMBRE DE 1978)</small>
 
 ### CAPÍTULO I. DEL IMPUESTO PREDIAL
 
@@ -8189,6 +8187,10 @@ DECIMO.- Los conflictos de carácter laboral entre el Poder Judicial de la Feder
 DECIMO PRIMERO.- En tanto se expidan las disposiciones legales, reglamentarias y acuerdos generales a que se refieren los preceptos constitucionales que se reforman por el presente Decreto, seguirán aplicándose los vigentes al entrar en vigor las reformas, en lo que no se opongan a éstas.
 
 DECIMO SEGUNDO.- Los derechos laborales de los servidores públicos del Poder Judicial de la Federación serán respetados íntegramente.
+
+D.O.F. 2 DE MARZO DE 1995.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 601 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS, ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES MUEBLES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE; DEL CÓDIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN DE BRAVO, ORIZABA, TIERRA BLANCA; VERACRUZ Y XALAPA, TODOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
