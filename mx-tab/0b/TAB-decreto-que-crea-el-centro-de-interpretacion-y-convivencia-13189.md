@@ -4,7 +4,7 @@ identifier: "TAB-decreto-que-crea-el-centro-de-interpretacion-y-convivencia-1318
 country: "mx"
 rank: "decreto"
 publication_date: "1998-12-19"
-last_updated: "1998-12-19"
+last_updated: "1999-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # DECRETO QUE CREA EL CENTRO DE INTERPRETACION Y CONVIVENCIA CON LA NATURALEZA " YUMKA ", DEL ESTADO DE TABASCO
 
-DECRETO No. 111 SE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO CON PERSONALIDAD JURIDICA Y PATRIMONIO PROPIOS, DENOMINADO CENTRO DE INTERPRETACION Y CONVIVENCIA CON LA NATURALEZA "YUMKA"
+DECRETO NUMERO 111 SE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO CON PERSONALIDAD JURIDICA Y PATRIMONIO PROPIOS, DENOMINADO CENTRO DE INTERPRETACION Y CONVIVENCIA CON LA NATURALEZA "YUMKA"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1999.
 
 Decreto publicado en el Periódico Oficial del Estado de Tabasco, el 19 de diciembre de 1998.
 
@@ -43,9 +43,11 @@ Se crea el organismo público descentralizado con personalidad jurídica y patri
 
 DE LA NATURALEZA, OBJETO Y FACULTADES.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
+
 ###### ARTÍCULO 1.
 
-Se crea el organismo público descentralizado con personalidad jurídica y patrimonio propios, denominado CENTRO DE INTERPRETACIÓN Y CONVIVENCIA CON LA NATURALEZA "YUMKA", que para efectos del presente decreto se mencionará como "YUMKA", el cual tendrá a su cargo el área o superficie destinada para la protección y conservación de la flora y la fauna con que se cuente, según lo determine el Ejecutivo Estatal, así como la investigación e interpretación de los ecosistemas naturales que lo constituyen; señalada en el considerando séptimo, más las que en el futuro se incorporen. El "YUMKA" estará sectorizado a la Secretaría de Desarrollo Social y Protección Ambiental.
+Se crea el Organo Desconcentrado de la Secretaría de Desarrollo Social y Protección Ambiental, denominado CENTRO DE INTERPRETACION Y CONVIVENCIA CON LA NATURALEZA "YUMKA", el cual tendrá a su cargo el área o superficie destinada para la protección y conservación de la flora y la fauna con que cuenta, así como la investigación e interpretación de los ecosistemas naturales que lo constituyen, más las que en el futuro se incorporen.
 
 ###### ARTÍCULO 2.
 
@@ -87,81 +89,59 @@ DE LA ORGANIZACIÓN.
 
 ###### ARTÍCULO 4.
 
-Son autoridades del "YUMKA":
-
-I.- La Junta Directiva;
-
-II.- La Dirección General; y
-
-III.- Las Direcciones adjuntas.
-
-La Junta Directiva es el máximo Organo de Gobierno del "YUMKA".
+(DEROGADO P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTÍCULO 5.
 
-El "YUMKA" estará regido por una Junta Directiva integrada de la siguiente manera:
-
-I.- Un Presidente que será el Secretario de Desarrollo Social y Protección Ambiental;
-
-II.- Un Secretario, que será el Secretario de Desarrollo Agropecuario, Forestal y Pesca;
-
-III.- Primer Vocal, que será el Secretario de Fomento Económico;
-
-IV.- Segundo Vocal, que será el Secretario de Planeación y Finanzas; y
-
-V.- Tercer Vocal, que será el Secretario de Educación.
-
-Por cada miembro de la Junta Directiva se designará un suplente el cual tendrá las mismas facultades de decisión del titular, al momento de suplirlo.
-
-El cargo de miembro de la Junta Directiva será honorífico.
+(DEROGADO P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTÍCULO 6.
 
-Son facultades y obligaciones de la Junta Directiva, las siguientes:
-
-I.- Definir las políticas y lineamientos para el desarrollo de las actividades del organismo;
-
-II.- Discutir y aprobar en su caso, los proyectos de inversión que se sometan a su consideración y los que surjan de su propio seno;
-
-III.- Estudiar y aprobar en su caso, los programas de trabajo que presente el Director General;
-
-IV.- Aprobar los reglamentos y manuales de organización;
-
-V.- Conocer y aprobar en su caso, los informes que rinda el Director General;
-
-VI.- Determinar la distribución de los remanentes;
-
-VII.- Autorizar al Director General para celebrar toda clase de actos o contratos que requiera el cumplimiento de las atribuciones conferidas al organismo; y
-
-VIII.- Las demás que sean necesarias para el adecuado ejercicio de las facultades antes señaladas.
+(DEROGADO P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTÍCULO 7.
 
-La Junta Directiva celebrará sesiones ordinarias cada tres meses y extraordinarias cuando las convoque su Presidente o la mayoría de los miembros. Los miembros de la Junta Directiva tendrán voz y voto en las sesiones de la misma. La Junta Directiva sesionará legalmente previa existencia de quórum, que se constituirá con la asistencia de la mitad más uno de sus miembros. Sus decisiones se tomarán por mayoría de votos de los miembros presentes, y en caso de empate, el Presidente tendrá voto de calidad. El Director General participará en las sesiones con voz, pero sin voto.
+(DEROGADO P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTÍCULO 8.
 
-El Organismo estará a cargo de un Director General, quien será designado y removido por el Titular del Ejecutivo del Estado, a través del coordinador de sector.
+(DEROGADO P.O. 16 DE JUNIO DE 1999)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 1999)</small>
 
 ###### ARTÍCULO 9.
 
-Sin perjuicio de lo dispuesto en el artículo 44 de la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco, son facultades y obligaciones del Director General las siguientes:
+Son facultades y obligaciones del Director General las siguientes:
 
-I.- Hacer cumplir las normas, bases y especificaciones que orienten las actividades del organismo;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1999)</small>
 
-II.- Someter a la aprobación de la Junta Directiva los programas y presupuestos anuales de ingresos, egresos y el financiamiento del organismo;
+I.- Cumplir y hacer cumplir las normas que regulen las actividades del órgano;
 
-III.- Presentar a la Junta Directiva los estados financieros y los balances anuales, así como los informes generales y especiales;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1999)</small>
 
-IV.- Organizar al "YUMKA'" de conformidad con sus fines y necesidades, para su administración y operación y designar a los servidores públicos del organismo, de acuerdo con lo dispuesto en el artículo 60, fracción XI de la Ley Orgánica del Poder Ejecutivo;
+II.- Elaborar los programas y propuestas de presupuestos del órgano;
 
-V.- Previa autorización de la Junta Directiva, gestionar y celebrar convenios y contratos con autoridades federales, estatales, municipales o instituciones privadas con el fin de lograr los objetivos del "YUMKA" con mayor eficacia;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1999)</small>
 
-VI.- Elaborar los reglamentos interiores y los manuales de organización, y someterlos a la consideración de la Junta Directiva para su análisis y aprobación, en su caso;
+III.- Presentar los informes de la situación financiera, así como los informes mensuales de las actividades del órgano;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1999)</small>
+
+IV.- Organizar el "YUMKA'" de conformidad con sus fines y necesidades para su administración y operación;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1999)</small>
+
+V.- Gestionar y celebrar, previo acuerdo del Titular de la Dependencia, convenios y contratos con autoridades federales, estatales y municipales o instituciones privadas, con el fin de lograr los objetivos del "YUMKA";
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1999)</small>
+
+VI.- Elaborar los proyectos de reglamento interior y los manuales de organización y procedimientos;
 
 VII.- Celebrar y otorgar toda clase de actos y documentos inherentes a sus funciones;
 
-VIII.- Autorizar las remociones y nombramientos del personal e imponer correcciones disciplinarias necesarias, de conformidad con la ley respectiva;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1999)</small>
+
+VIII.- Nombrar y remover al personal del "YUMKA" e imponer las correcciones y sanciones necesarias, de conformidad con la Ley de los Trabajadores al Servicio del Estado;
 
 IX.- Formalizar las actas, acuerdos, contratos y convenios que celebre el "YUMKA'" en la consecución de su objeto, tendientes al desarrollo y buen funcionamiento del mismo;
 
@@ -173,11 +153,13 @@ XII.- Representar legalmente al organismo, en su carácter de apoderado general 
 
 XIII.- Organizar, coordinar, dirigir y autorizar todas las actividades que se realicen en las áreas que integran la Dirección, vigilando que se apeguen a las disposiciones y políticas del Gobierno del Estado y del propio organismo;
 
-XIV.- Proponer a la Junta Directiva la aplicación de los recursos económicos remanentes en otras áreas del Centro que lo requieran;
+XIV.- (DEROGADA, P.O. 16 DE JUNIO DE 1999)
 
 XV.- Promover y difundir al "YUMKA", manteniendo contacto directo con los representantes de los medios de comunicación; y
 
-XVI.- Las demás inherentes a sus funciones y las que le asigne la Junta Directiva o el Ejecutivo Estatal.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1999)</small>
+
+XVI.- Las demás inherentes a sus funciones, que le señale el Titular de la Dependencia de su adscripción u otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 10.
 
@@ -197,17 +179,11 @@ DEL PATRIMONIO.
 
 ###### ARTÍCULO 11.
 
-El patrimonio del "YUMKA" estará constituido por:
-
-I.- Los bienes muebles, inmuebles y semovientes que originalmente correspondieron al patronato del "YUMKA" y los que adquiera por cualquier título en el futuro, así como los derechos que le fueren transmitidos;
-
-II.- Las percepciones captadas en el cobro de cuotas de ingreso y las demás derivadas de los servicios complementarios; y
-
-III.- Las aportaciones, subsidios, donaciones y toda clase de recursos económicos provenientes del Gobierno, de particulares e instituciones en general, ya sea, en bienes o en valores.
+(DEROGADO P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTÍCULO 12.
 
-Los remanentes del organismo se destinarán al desarrollo, conservación, mantenimiento y satisfacción de las necesidades y requerimientos del propio Centro, sin que puedan ser dedicados a otros programas, actividades o áreas.
+(DEROGADO P.O. 16 DE JUNIO DE 1999)
 
 ### CAPÍTULO IV.
 
@@ -215,7 +191,7 @@ CONTROL Y VIGILANCIA.
 
 ###### ARTÍCULO 13.
 
-El Control y vigilancia de las funciones del "YUMKA" se ajustará a lo dispuesto en el Artículo 62 de la Ley Orgánica del Poder Ejecutivo.
+(DEROGADO P.O. 16 DE JUNIO DE 1999)
 
 ###### ARTÍCULO 14.
 
@@ -258,3 +234,19 @@ LIC. ROBERTO MADRAZO PINTADO
 LIC. VÍCTOR MANUEL BARCELÓ RODRÍGUEZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE JUNIO DE 1999.
+
+PRIMERO.- La relación laboral de los trabajadores de los organismos que cambian su naturaleza jurídica, continuará rigiéndose como hasta ahora por la Ley de los Trabajadores al Servicio del Estado de Tabasco y demás disposiciones legales aplicables.
+
+SEGUNDO.- Las Secretarías de Planeación y Finanzas, y de Contraloría y Desarrollo Administrativo, emitirán en su caso, los lineamientos que consideren necesarios, para dar cumplimiento dentro de sus respectivas competencias, a los términos del presente Decreto.
+
+TERCERO.- El patrimonio de las entidades que mediante este Decreto cambian su naturaleza jurídica, quedará igualmente adscrito a las dependencias a las que el mismo se refiere.
+
+CUARTO.- Las disposiciones del presente ordenamiento serán incorporadas en lo conducente, a los reglamentos interiores de las entidades que cambian su naturaleza jurídica.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+SEXTO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
