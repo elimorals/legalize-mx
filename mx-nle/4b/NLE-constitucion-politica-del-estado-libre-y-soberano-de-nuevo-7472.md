@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1998-11-23"
+last_updated: "1999-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 1999.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -225,13 +225,17 @@ La organización de las elecciones es una función estatal que se ejerce bajo lo
 
 El Gobierno del Estado y las Autoridades Municipales están obligados a prestar a los organismos electorales el auxilio material e institucional que requieran para el desarrollo de sus actividades, así como el que la propia ley les señale.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JULIO DE 1999)</small>
 
 ###### Art. 44.
 
-Para conocer y resolver las impugnaciones y controversias que se susciten dentro de los procesos electorales de la competencia estatal o con motivo de la impugnación de los resultados de los mismos, se establecerá en el Estado un órgano jurisdiccional independiente y autónomo, que tendrá a su cargo el desahogo de los recursos y la resolución de las controversias que se planteen en la materia. La ley establecerá sus atribuciones, forma de organización y funcionamiento.
+Para conocer y resolver las impugnaciones y controversias que se susciten dentro de los procesos electorales de la competencia estatal o con motivo de la impugnación de los resultados de los mismos, se establecerá en el estado un órgano jurisdiccional independiente con autonomía funcional y presupuestal, que tendrá a su cargo el desahogo de los recursos y resolución de las controversias que se planteen en la materia. La ley establecerá sus atribuciones, forma de organización y funcionamiento.
 
-En la partida del Presupuesto de Egresos que el Congreso del Estado asigne al órgano electoral se considerará la asignación de los recursos financieros que serán destinados al órgano jurisdiccional electoral.
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 1999)</small>
+
+En una partida del presupuesto de egresos, el Congreso del Estado, considerará la asignación de los recursos financieros que serán destinados al órgano jurisdiccional electoral.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 1996)</small>
 
 La autoridad en materia contencioso electoral se integrará por el número de Licenciados en Derecho que la Ley determine, designados por el Congreso del Estado, por consenso, a falta de éste serán electos por las dos terceras partes de los integrantes de la Legislatura, y de no alcanzarse dicha votación se procederá a realizar la insaculación por el Pleno del Congreso; y que, además de cumplir los requisitos establecidos para los ciudadanos que deban integrar el órgano responsable de conducir los procesos electorales, deberán contar con por lo menos 35 años de edad y 10 años de ejercicio profesional.
 
@@ -1343,9 +1347,9 @@ I.- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos civ
 
 II.- Ser mayor de veintiún años;
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 1999)</small>
 
-III.- Tener residencia de no menos de un año para el día de la elección en el Municipio en que ésta se verifique. En los Municipios de Apodaca, General Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina y Villa de García, que comprenden el área metropolitana, será válida la que se tenga en cualquiera de éstos;
+III.- Tener residencia de no menos de un año para el día de la elección en el municipio en que ésta se verifique. En los municipios de Apodaca, General Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina y García, que comprenden el área metropolitana, será válida la que se tenga en cualquiera de éstos. En los municipios no comprendidos en el área metropolitana que sean geográficamente colindantes, será válida la residencia que se tenga en cualquiera de ellos;
 
 IV.- No tener empleo o cargo remunerados en el Municipio en donde se verifique la elección, ya dependan de éste, del Estado o de la Federación, exceptuándose los puestos de Instrucción y Beneficencia;
 
@@ -1364,6 +1368,10 @@ Los miembros del Ayuntamiento se renovarán cada tres años, tomando posesión l
 ###### Art. 124.
 
 Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta, por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 1999)</small>
+
+Los presidentes municipales de los ayuntamientos no podrán ser electos para el periodo inmediato, en municipio diverso al cual se desempeñaron como tales.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 1996)</small>
 
@@ -1787,7 +1795,7 @@ En toda orden de cateo, que sólo la autoridad judicial podrá expedir, y que se
 
 Las comunicaciones privadas son inviolables, salvo en los casos y con los requisitos que establezcan las leyes federales.
 
-La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía; y exigir la exhibición de libros y papeles indispensables para probar que se han acatado las disposiciones fiscales, sujetándose en estos casos a las leyes respectivas y a las formalidades prescritas para los cateos.
+La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía; y exigir la exhibición de los libros y papeles indispensables para probar que se han acatado las disposiciones fiscales, sujetándose en estos casos a las leyes respectivas y a las formalidades prescritas para los cateos.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
 
@@ -2488,3 +2496,7 @@ Los derechos laborales de los servidores públicos del Poder Judicial del Estado
 ###### ARTICULO SEPTIMO
 
 Se deroga todo lo que se oponga al presente Decreto.
+
+P.O. 30 DE JULIO DE 1999.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
