@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-salud-del-estado-de-yucatan-11965"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-16"
-last_updated: "1992-03-16"
+last_updated: "2003-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE SALUD DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE ENERO DE 2003.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 16 de marzo de 1992.
 
@@ -37,7 +37,7 @@ QUE EL LII CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE YUCATAN, D E C
 
 LEY DE SALUD DEL ESTADO DE YUCATAN
 
-## TÍTULO PRIMERO. DISPOSICIONES COMUNES
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPITULO UNICO
 
@@ -1609,25 +1609,59 @@ I.- Cementerio: El lugar destinado a la inhumación de los cadáveres y restos h
 
 II.- Crematorios: Las instalaciones destinadas a la incineración de cadáveres o restos humanos o restos humanos áridos.
 
-###### ARTICULO 197.
+> <small>(REFORMADO, D.O. 23 DE ENERO DE 2003)</small>
 
-Para establecer un nuevo cementerio o crematorio se requiere de la verificación respectiva, conforme a las disposiciones legales aplicables.
+###### ARTÍCULO 197.
+
+Para erigir un nuevo cementerio, panteón o crematorio se requiere de la aprobación de las autoridades de Salud del Estado.
+
+> <small>(ADICIONADO, D.O. 23 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 197-A.
+
+En la erección de cementerios o panteones en general, se observarán las siguientes reglas:
+
+I.- Que estén situados a distancia prudente y fuera de la población, en la parte contraria al viento reinante.
+
+II.- Que estén circundados con un muro o cerca sólida y cerrados con puerta que impida el libre acceso a ellos.
+
+III.- Que se planten árboles o arbustos en su terreno en orden simétrico.
+
+IV.- Que cuenten con un depósito adecuado para cadáveres que no deban ser inhumados inmediatamente por alguna causa, y para los restos que hayan sido exhumados.
+
+V.- Que se destine un lugar para las fosas comunes, con el propósito de cuidarlas de la intemperie y de todo cuanto pueda dañarlas.
+
+> <small>(ADICIONADO, D.O. 23 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 197-B.
+
+Las fosas comunes deberán tener cuando menos un metro veinticinco centímetros de profundidad y la distancia entre una y otra será, cuando menos, de cincuenta centímetros.
+
+> <small>(ADICIONADO, D.O. 23 DE ENERO DE 2003)</small>
+
+###### ARTÍCULO 197-C.
+
+Se procederá a clausurar por parte de las autoridades sanitarias dependientes de la Secretaría de Salud, los cementerios o panteones que no reúnan los requisitos establecidos en los artículos anteriores. Mediando una inspección ocular que correrá a cargo de la autoridad antes citada.
 
 ###### ARTICULO 198.
 
 El funcionamiento de los cementerios o crematorios estará sujeto a esta Ley, otras disposiciones reglamentarias aplicables y las normas técnicas correspondientes.
 
-###### ARTICULO 199.
+> <small>(REFORMADO, D.O. 23 DE ENERO DE 2003)</small>
 
-El Municipio verificará el establecimiento, funcionamiento, conservación y operación de cementerios en el Estado de conformidad con lo que establezcan las disposiciones legales y reglamentarias respectivas.
+###### ARTÍCULO 199.
+
+Los Municipios tendrán a su cargo la administración, funcionamiento y conservación de los cementerios o panteones que se encuentren dentro de su circunscripción territorial, de conformidad con lo que establezcan las disposiciones legales y los reglamentos municipales respectivos.
 
 ###### ARTICULO 200.
 
 Los cementerios deberán contar con áreas verdes y zonas destinadas a reforestación.
 
-###### ARTICULO 201.
+> <small>(REFORMADO, D.O. 23 DE ENERO DE 2003)</small>
 
-La aprobación de las solicitudes de refrigeración, exhumación y cremación de cadáveres deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad sanitaria competente y las normas técnicas que dicte la Secretaría.
+###### ARTÍCULO 201.
+
+La aprobación de las solicitudes de refrigeración, exhumación, cremación o traslado de cadáveres y restos áridos deberá ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad competente y las normas técnicas que dicte la Secretaría.
 
 ### CAPITULO XII
 
@@ -2017,7 +2051,7 @@ Cuando la revocación de una autorización se funde en los riesgos o daños que 
 
 ###### ARTICULO 265.
 
-En los casos a los que se refiere el Artículo 263 de esta Ley con excepción del previsto en la fracción IX, la Autoridad Sanitaria citará al interesado a una audiencia para que éste ofrezca pruebas y alegue lo que a su derecho convenga. En el citatorio que se entregará personalmente al interesado, se le hará saber la causa que motive el procedimiento, el lugar, el día y la hora para la celebración de la audiencia, el derecho que tiene para ofrecer pruebas y alegar lo que a su interés convenga, así como el apercibimiento de que si no comparece sin justa causa se le considerará en rebeldía y la resolución se dictará tomando en cuenta sólo las constancias del expediente.
+En los casos a los que se refiere el Artículo 263 de esta Ley con excepción del previsto en la fracción IX, la Autoridad Sanitaria citará al interesado a una audiencia para que este ofrezca pruebas y alegue lo que a su derecho convenga. En el citatorio que se entregará personalmente al interesado, se le hará saber la causa que motive el procedimiento, el lugar, el día y la hora para la celebración de la audiencia, el derecho que tiene para ofrecer pruebas y alegar lo que a su interés convenga, así como el apercibimiento de que si no comparece sin justa causa se le considerará en rebeldía y la resolución se dictará tomando en cuenta sólo las constancias del expediente.
 
 La audiencia se celebrará dentro de un plazo no menor de cinco días hábiles, contados a partir del día siguiente al de la notificación.
 
@@ -2572,3 +2606,27 @@ LIC. DULCE MARIA SAURI RIANCHO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. ORLANDO A. PAREDES LARA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE LEY.</small>
+
+D.O. 23 DE ENERO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Municipios que decidan administrar cementerios o panteones que se encuentren dentro de sus circunscripciones territoriales, deberán formular su Reglamento Municipal de Cementerios y Panteones y solicitar la transferencia de este servicio al Gobierno del Estado, con el fin de celebrar los Convenios de Coordinación respectivos. Tanto el Reglamento Municipal de Cementerios y Panteones como los Convenios de Coordinación que se celebren deberán ser publicados simultáneamente en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado deberá de apoyar a los Ayuntamientos de la entidad en la redacción de los Reglamentos que regulen la administración y funcionamiento de los cementerios y panteones de cada Municipio, así como en la organización de las oficinas correspondientes, cuando las autoridades municipales así se lo soliciten.
+
+###### ARTÍCULO CUARTO.
+
+Corresponderá al Ejecutivo del Estado, la aplicación de las disposiciones legales relativas a cementerios y panteones en los Municipios a los que no se haya transferido dicho servicio público.
+
+###### ARTÍCULO QUINTO.
+
+Las concesiones de lotes y bóvedas en cementerios o panteones del Estado, que todavía se encuentren en trámite serán resueltas por la autoridad ante la cual estén siendo tramitadas.
