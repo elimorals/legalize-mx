@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-civiles-3371"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-12-24"
-last_updated: "1981-05-02"
+last_updated: "1986-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 1986.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 24 de diciembre de 1942.
 
@@ -99,6 +99,14 @@ Las acciones del estado civil tienen por objeto las cuestiones relativas al naci
 
 Las acciones del estado civil fundadas en la posesión de estado, producirán el efecto de que se ampare o restituya a quien la disfrute contra cualquier perturbador.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+
+Cuando la acción verse sobre rectificación de actas de personas menores de edad será requisito de procedibilidad el litisconsorcio activo de quienes sobre ellos ejercen la patria potestad.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+
+Cuando la acción verse sobre rectificación de acta de matrimonio será requisito de procedibilidad el litisconsorcio activo de los cónyuges.
+
 ###### Art. 14.
 
 Las mismas acciones de estado civil, cuando en virtud de ellas se exija alguna prestación de determinado individuo, se considerarán como personales.
@@ -138,6 +146,10 @@ Ninguna acción puede ejercitarse sino por aquel a quien compete o por quien lo 
 ###### Art. 22.
 
 Puede ser demandado en reivindicación el que está obligado a restituir la cosa o su estimación, y el que la abandona para librarse de los efectos de la acción.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+
+Quien ejerza acción reivindicatoria con relación a bienes inmuebles, si garantiza a juicio del Juez responder de los daños y perjuicios que se pudiesen ocasionar al demandado, puede pedir anotación marginal en la inscripción respectiva del Registro Público de la Propiedad en el sentido de que el bien se encuentra sujeto a litigio y que en consecuencia quien lo adquiera estará a las resultas del juicio.
 
 ###### Art. 23.
 
@@ -221,7 +233,9 @@ La cosa juzgada deberá siempre hacerse constar por los autos originales o por c
 
 ## TITULO SEGUNDO. Reglas generales
 
-### CAPITULO I. De la personalidad de los litigantes
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE OCTUBRE DE 1986)</small>
+
+### CAPITULO I. De la personalidad de los litigantes y de la asistencia técnica
 
 ###### Art. 38.
 
@@ -271,6 +285,30 @@ Los emplazamientos, citaciones y notificaciones que se hagan al apoderado o repr
 
 En caso de impedimento legal o físico del procurador, o si éste abandona el juicio, se hará saber el impedimento o abandono al poderdante para que comparezca por sí o por medio de nuevo apoderado en el término que el juez señale. Si no comparece en el mismo término, podrá seguirse el juicio en rebeldía.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+
+###### Art. 49-A.
+
+La asistencia técnica a quienes comparezcan ante los tribunales del Estado sólo podrán prestarse por licenciados en derecho o abogados con título profesional registrado.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+
+###### Art. 49-B.
+
+En su caso el compareciente estará obligado a expresar por escrito el nombre, domicilio, número de cédula profesional y clave del Registro Federal de Causantes de su asesor técnico, quien firmará también el escrito.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+
+###### Art. 49-C.
+
+Los tribunales, cuando lo consideren conveniente, quedan en aptitud de requerir la exhibición de la cédula y la ratificación de la firma del asesor técnico.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+
+###### Art. 49-D.
+
+Los pasantes de la carrera de licenciado en derecho y los estudiantes de los dos últimos años de la misma, podrán fungir como asesores técnicos cuando presten sus servicios bajo el patrocinio de un organismo oficial de asistencia jurídica gratuita y así lo acrediten con la documentación respectiva.
+
 ### CAPITULO II. De las actuaciones judiciales
 
 ###### Art. 50.
@@ -299,19 +337,23 @@ El juez puede habilitar los días y horas inhábiles, para actuar o para que se 
 
 Las actuaciones judiciales y los ocursos deberán escribirse en castellano. Los documentos redactados en idioma extranjero deberán acompañarse con la correspondiente traducción al castellano. Las fechas y cantidades se escribirán con letra.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+
 ###### Art. 56.
 
-Ningún escrito se admitirá en la Secretaría de un Juzgado, sin estar firmado por la parte que lo presente. No sabiendo o no pudiendo ésta escribir, deberá presentarlo en persona, y el Secretario lo hará constar así, expresando la causa de no estar firmado, o podrá suscribirla y presentarlo otra persona a su nombre; pero en este caso, deberá ratificar el escrito el interesado ante el Actuario o Testigo de Asistencia.
+Ningún escrito se admitirá sin estar firmado por la parte que promueve. No sabiendo firmar, o estando impedido provisional o permanentemente para ello, el promovente deberá imprimir al calce del escrito las huellas digitales de sus pulgares, en su caso, y presentarlo personalmente. Si el promovente carece de ambas manos el escrito deberá suscribirlo a su ruego, persona de su confianza y presentarlo ambos personalmente. Lo mismo se observará en el caso de que el promovente no sepa ni leer ni escribir, con la obligación adicional de que quien firme a su ruego protestará haberle leído a aquél, en forma íntegra, el texto del escrito.
+
+Cuando el promovente se encuentre impedido para presentar personalmente el escrito, podrá presentarlo otra persona en su nombre. En todos estos casos, excepto, cuando el escrito lo haya presentado personalmente el promovente, tanto el contenido del ocurso como las huellas digitales y firmas que ostente se mandarán ratificar ante la Secretaría o la Actuaría, a criterio del Tribunal. El promovente y, en su caso, quien firme a su ruego, deberán identificarse a satisfacción de la autoridad judicial, en el momento de la presentación o de la ratificación del escrito.
 
 ###### Art. 57.
 
 En la práctica de diligencias, en las declaraciones, decretos, autos y sentencias no se emplearán abreviaturas, ni se rasparán las frases equivocadas, sobre las que sólo se pondrá una línea delgada que permita la lectura, salvándose al fin con toda precisión el error cometido.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 58.
 
-El secretario hará constar el día y la hora en que se presente un escrito y dará cuenta con él, a más tardar, dentro de veinticuatro horas, bajo la pena de hacerse acreedor a una corrección disciplinaria, sin perjuicio de las demás sanciones que merezca conforme a las leyes.
+En el escrito se hará constar el día y la hora de su presentación, así como el número de copias y documentos anexos al mismo. El secretario dará cuenta con las promociones a más tardar dentro de veinticuatro horas, bajo pena de hacerse acreedor a una corrección disciplinaria.
 
 ###### Art. 59.
 
@@ -323,21 +365,21 @@ Los Secretarios foliarán exactamente los autos, rubricarán todas las hojas al 
 
 Los interesados deberán presentar dos copias de sus escritos, a fin de que un tanto se les devuelva con la anotación de la fecha y hora de presentación, sellada y firmada por el empleado que la reciba en el Tribunal; y el otro tanto quedará en la Secretaría del Juzgado o Sala para la integración del legajo respectivo.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+
 ###### Art. 61.
 
-Sólo se entregarán los autos a las partes para formar o glosar cuentas, o cuando de común acuerdo lo pidieren. Los autos y copias en su caso se entregarán por el Secretario directamente a las partes, por medio de conocimiento que deberán firmar éstas. Las frases "dar vista" o "correr traslado", sólo significan que los autos quedan en la Secretaría para que se impongan de ellos los interesados, o para que se entreguen las copias. Las disposiciones de este artículo comprenden al Ministerio Público.
-
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+Las frases "dar vista" o "correr traslado", sólo significan que los autos quedan en la secretaría para que se impongan de ellos los interesados, o para que se les entreguen las copias. Las disposiciones de este artículo comprenden al Ministerio Público.
 
 ###### Art. 62.
 
-La persona que firme el conocimiento será apremiada con multa de cien pesos por cada día que retenga los autos, sin que le sirva de excusa haberlos entregado a la parte interesada o al abogado; y habiendo fundadas presunciones de que los retiene con dolo, se procederá contra él criminalmente, consignándolo al juez respectivo. Cuando no se pueda hacer efectivo el pago de la multa, sufrirá el multado un día de arresto por cada cien pesos de multa.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 63.
 
-Por ningún motivo se entregarán los autos en confianza. El funcionario o empleado que infrinja este artículo, sufrirá una multa de quinientos a mil pesos; será responsable de todos los daños y perjuicios que se causaren; y será destituido del empleo.
+Por ningún motivo se entregarán los autos a las partes, a sus representantes o a sus asesores técnicos, para extraerlos de las oficinas del Tribunal. Esta prohibición comprende al Ministerio Público. El funcionario o empleado que infrinja esta disposición se hará acreedor a una corrección disciplinaria y será responsable de los daños y perjuicios que su conducta ocasione. Al que reincida se le destituirá del cargo o empleo.
 
 ###### Art. 64.
 
@@ -367,9 +409,11 @@ También puede un tribunal, aunque la diligencia deba practicarse dentro de su p
 
 Los tribunales superiores pueden encomendar la práctica de diligencias a los jueces inferiores de su jurisdicción.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+
 ###### Art. 70.
 
-Ni los magistrados, ni los jueces de primera instancia, ni los de paz podrán cometer estas diligencias a los actuarios, secretarios o testigos de asistencia.
+Ni los magistrados ni los jueces podrán encomendar estas diligencias a los secretarios o a los actuarios.
 
 ###### Art. 71.
 
@@ -397,11 +441,11 @@ IV.- Traer a la vista cualesquiera autos que tengan relación con el pleito;
 
 V.- También podrán los jueces y tribunales, en cualquier estado del negocio, citar a las partes para las juntas que crean convenientes, ya para procurar su avenencia, ya para esclarecer algún punto, sin que se suspendan los términos que estén corriendo. Estas juntas y todas las diligencias se verificarán en el Juzgado o Tribunal, a menos que por su propia naturaleza deben practicarse en otro lugar, o cuando se designe lugar diverso por razón del sexo, edad, enfermedad u otra circunstancia grave de las personas que deban intervenir.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 75.
 
-Los jueces y magistrados tienen el deber de mantener el buen orden y de exigir que se les guarden el respeto y la consideración debidos, corrigiendo en el acto las faltas que se cometieren, con multas que no podrán pasar, en los Juzgados de Paz, de cien pesos; en los Menores, de mil; en los de lo Civil y de lo Familiar, de dos mil pesos; y en el Tribunal Superior, de cuatro mil pesos. También pueden emplear el auxilio de la fuerza pública.
+Los magistrados y los jueces tienen el deber de mantener el buen orden y de exigir que se les guarden el respeto y consideración debidos, corrigiendo en el acto las faltas que se cometieren, en la forma prevista por el artículo 79 de este Código. También podrán hacer uso de la fuerza pública en caso de ser necesario.
 
 ###### Art. 76.
 
@@ -411,41 +455,41 @@ Si la falta llegare a constituir delito, se hará la correspondiente consignaci�
 
 También podrán el tribunal superior y los jueces imponer correcciones disciplinarias a los abogados, secretarios, actuarios, testigos de asistencia, procuradores y dependientes de los tribunales y juzgados por las faltas que cometan en el desempeño de sus funciones respectivas.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+
 ###### Art. 78.
 
-Contra cualquier providencia en que se impusiere una corrección disciplinaria, será oído el interesado, si lo solicitare dentro de los tres días siguientes al en que haya sido notificado, y se resolverá dentro de tres días. La resolución que se dicte será apelable en ambos efectos. La apelación se tramitará en la forma prevenida para los juicios sumarios y será oído el Ministerio Público.
+Contra la providencia en que se imponga una corrección disciplinaria será oído el interesado, si lo solicitare dentro de los tres días siguientes, y el juez o el tribunal resolverán en definitiva dentro de tres días. La resolución definitiva será apelable, en ambos efectos, o reclamable, según se trate de la dictada por un juez o por el presidente de la Sala Civil.
 
-Si la providencia fuere dictada por alguna de las Salas del Tribunal Superior o por el Pleno, no habrá contra ella más recurso que el de revocación.
-
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 79.
 
-Se entenderá por corrección disciplinaria:
+Son correcciones disciplinarias:
 
 I.- El apercibimiento o amonestación;
 
-II.- La multa que no exceda de quinientos pesos, que se duplicará en caso de reincidencia;
+II.- La multa hasta por la suma de ciento cincuenta veces el salario mínimo diario aplicable en la región, según la gravedad del caso; y
 
-III.- La suspensión que no exceda de un mes.
+III.- La suspensión del cargo o empleo desde cinco días hasta tres meses, sin goce de sueldo.
 
 ###### Art. 80.
 
 Los jueces para hacer cumplir sus determinaciones pueden emplear el apremio.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 81.
 
 Son medios de apremio:
 
-I.- La multa desde cien hasta cinco mil pesos, que se duplicará en caso de reincidencia;
+I.- La multa hasta por quinientas veces el salario mínimo diario aplicable en la región;
 
-II.- El auxilio de la fuerza pública y la fractura de cerraduras si fuere necesario;
+II.- El auxilio de la fuerza pública; y
 
-III.- El arresto hasta por quince días.
+III.- El arresto hasta por treinta y seis horas.
 
-Si el caso exige mayor sanción, se dará parte a la autoridad competente.
+Quedan facultados los tribunales para ordenar la fractura de cerraduras, el violentar puertas y todas las medidas legales que resultaren necesarias para hacer cumplir sus determinaciones.
 
 ###### Art. 82.
 
@@ -459,15 +503,23 @@ En el caso final del artículo anterior, el juez fijará el término que crea co
 
 En los despachos y exhortos expedidos por los tribunales del Estado, no se requiere la legalización de las firmas de quienes los suscriban, a no ser que la exija el tribunal requerido, por ordenarlo así la ley a que esté sujeto.
 
-Los despachos y exhortos expedidos por los tribunales de los otros Estados de la Federación, o el Distrito y Territorios Federales, que se reciban en el Estado para ser diligenciados, se despacharán sin necesidad de la legalización de las firmas que los autoricen.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+
+Los exhortos provenientes de otras entidades federativas de la República, requieren, para su tramitación, de la legalización de las firmas de las autoridades que los remitan.
 
 ###### Art. 85.
 
 Los exhortos que se remitan al extranjero o se reciban de él, se sujetarán, en cuanto a sus formalidades, a las disposiciones relativas del Código Federal de Procedimientos Civiles.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+
 ###### Art. 86.
 
-Pueden los tribunales acordar que los exhortos y despachos que manden expedir se entreguen, para hacerlos llegar a su destino, a la parte interesada que hubiere solicitado la práctica de la diligencia, quien tendrá la obligación de devolverlos con lo que se practicare, si por su conducto se hiciere la devolución.
+Los exhortos que libren los jueces y magistrados del Estado se remitirán a su destino por conducto de la presidencia del Tribunal Superior de Justicia del Estado a su homóloga que corresponda.
+
+Los exhortos provenientes de autoridades judiciales de otras entidades de la República se repelerán de oficio si son remitidos por conducto diverso de la presidencia del Tribunal Superior de Justicia que corresponda.
+
+Los despachos y exhortos que se cursen entre sí a las autoridades judiciales del Estado no requieren de legalización de firmas y pueden ser enviados salvando el conducto de la presidencia del Tribunal Superior.
 
 ###### Art. 87.
 
@@ -509,11 +561,11 @@ La nulidad de las resoluciones judiciales, por falta de las formalidades que exp
 
 Las notificaciones, citaciones y entrega de expedientes se verificarán lo más tarde el día siguiente al en que se dicten las resoluciones que las prevengan, cuando el juez en éstas no dispusiere otra cosa.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 94.
 
-Se impondrá de plano a los infractores del artículo anterior una multa que no exceda de doscientos pesos.
+A los infractores del artículo anterior se les impondrá una corrección disciplinaria.
 
 ###### Art. 95.
 
@@ -523,9 +575,11 @@ El que al ser notificado, dijere que contestará por escrito, deberá hacerlo de
 
 Todos los litigantes en el primer escrito o en la primera diligencia judicial, deben designar casa ubicada en el lugar del juicio para que se les hagan las notificaciones y se practiquen las diligencias que se consideren necesarias. Igualmente deben designar la casa en que ha de hacerse la primera notificación a la persona o personas contra quienes promuevan, o señalar el lugar de su domicilio a donde deba dirigirse el exhorto o despacho correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 1986)</small>
+
 ###### Art. 97.
 
-Cuando un litigante no cumpla con lo dispuesto en la primera parte del artículo anterior, las notificaciones se entenderán con los estrados del Juzgado o Tribunal. Esta notificación en estrados se hará fijando una copia autorizada de la resolución en la puerta del Juzgado o Tribunal.
+Si el litigante no cumple con lo dispuesto en la primera parte del artículo anterior, la primera notificación se le hará por el Periódico Oficial del Estado.
 
 Si se faltare a la segunda parte del mismo artículo, no se hará notificación alguna a la persona contra quien se promueva, ni se librará el despacho o exhorto que proceda, mientras no se subsane la omisión, a no ser que se trate de ausentes e ignorados, en cuyo caso se seguirán las disposiciones del Título Undécimo, Libro Primero, del Código Civil.
 
@@ -567,35 +621,43 @@ Cuando haya de notificarse o citarse a una persona residente fuera del lugar del
 
 Si se ignora el lugar en que reside la persona que deba ser notificada, la primera notificación se hará publicando la determinación respectiva, por tres veces, en el espacio de quince días, en el Periódico Oficial del Estado. Si la notificación fuere de emplazamiento para comparecer en juicio, el término para contestar la demanda será de quince a treinta días, fijándolo el juez.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+
 ###### Art. 107.
 
-La segunda y ulteriores notificaciones se harán personalmente por los actuarios o testigos de asistencia a los interesados o a sus procuradores, que ocurran a la Actuaría, de las diez a las doce horas de la mañana del día siguiente al de la fecha de la resolución.
+La segunda y ulteriores notificaciones se harán por el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 108.
 
-También se harán las notificaciones a los abogados de las partes, si concurren a imponerse de las providencias, a las horas fijadas por el artículo anterior a los interesados.
+La Cédula que el notificador remita al Periódico Oficial para su publicación contendrá íntegro el texto del decreto o auto que se notifica y sólo los puntos resolutivos cuando se trate de sentencias interlocutorias o definitivas. Publicado el periódico se tendrá por hecha la notificación.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 109.
 
-Para los efectos de los dos artículos que anteceden, los Secretarios de los Juzgados de Primera Instancia y los del Tribunal Superior en el ramo civil, después de concluido el acuerdo en los términos que establece la Ley Orgánica de Tribunales y su Reglamento, fijarán todos los días en el lugar más visible de su oficina, una lista de los negocios proveídos con expresión de los nombres de los actuarios o testigos de asistencia que deben notificar las resoluciones respectivas.
+El notificador dejará en el expediente una copia de la cédula enviada al Periódico Oficial y cuando aparezca publicada, en dicha copia hará constar el número del periódico, la foja o fojas correspondientes y la fecha de su publicación.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 110.
 
-Si las partes o sus procuradores no ocurren al Tribunal o al Juzgado en el día y hora señalados en el artículo 107 de esta ley, el actuario o testigos de asistencia remitirán el mismo día y antes de las catorce horas, un extracto de las resoluciones al Director del Periódico Oficial, para que las publique. Publicada que sea se dará por hecha la notificación, surtiendo todos sus efectos legales desde el día siguiente al de la publicación. El Actuario o testigos de asistencia harán constar en autos el número y fecha del periódico en que la resolución se haya publicado.
+Los secretarios de acuerdos de la Sala Civil y juzgados fijarán diariamente en estrados, al iniciarse las labores de la oficina, una relación de los negocios proveídos el día anterior.
 
 ###### Art. 111.
 
 La notificación deberá hacerse personalmente, cuando deba entenderse con extraños al juicio o en casos muy urgentes, en concepto del juez.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 112.
 
-La infracción de las disposiciones anteriores que cometan los secretarios, actuarios o testigos de asistencia, será castigada la primera vez con multa de quinientos pesos, y con destitución en la segunda.
+La infracción de las disposiciones anteriores se castigará imponiendo una corrección disciplinaria.
 
 ###### Art. 113.
 
-Las resoluciones de los jueces residentes fuera de la Capital del Estado, serán notificadas personalmente, cuando se trate de la primera notificación; y fijando copia del proveído en las puertas de los juzgados, cuando el interesado no concurra de las diez a las doce horas a notificarse, a la oficina respectiva. Si se ignora el lugar en que éste reside, se observará lo dispuesto por el artículo 106.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 114.
 
@@ -627,9 +689,13 @@ Las sentencias, los autos y demás resoluciones judiciales no se entienden conse
 
 ### CAPITULO V. De los términos judiciales
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+
 ###### Art. 120.
 
-Los términos judiciales son improrrogables, salvo los casos previstos por la ley; empezarán a correr el día siguiente al en que se hubiere hecho el emplazamiento, citación o notificación, y se contará en ellos el día del vencimiento.
+Los términos judiciales son improrrogables, salvo los casos previstos por la Ley. Los términos judiciales se computarán a partir del siguiente día al en que surta sus efectos la notificación y se incluirá en ellos el día del vencimiento.
+
+Las notificaciones surten sus efectos al día siguiente de que se practiquen, tratándose del primer distrito judicial; en los demás distritos judiciales se agregará un día más al plazo anterior.
 
 ###### Art. 121.
 
@@ -647,11 +713,11 @@ En ningún término se contarán los días en que no puedan tener lugar actuacio
 
 En el expediente se hará constar el día en que comienzan a correr un término o una prórroga, y aquél en que deben concluir.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 125.
 
-El funcionario que infrinja cualquiera de los dos artículos anteriores se hará acreedor a una corrección disciplinaria y será responsable de los daños y perjuicios que se ocasionen por su culpa.
+El funcionario que infrinja cualquiera de los dos artículos anteriores será castigado con una corrección disciplinaria.
 
 ###### Art. 126.
 
@@ -899,6 +965,10 @@ Para determinar la competencia por razón de la cuantía del negocio, se tendrá
 
 Cuando se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+
+El juez que en principio conozca de la demanda, por disponerlo así la Ley, mantendrá su competencia hasta la conclusión del proceso, aun cuando por fluctuaciones salariales posteriores a la presentación de la demanda varíe la situación que imperaba en el momento de aquélla.
+
 ###### Art. 176.
 
 De las cuestiones sobre estado o capacidad de las personas, sea cual fuere el interés pecuniario que de ellas dimanare, conocerán los jueces de primera instancia.
@@ -933,9 +1003,11 @@ Si el juez requerido sostiene su competencia, lo manifestará por oficio al requ
 
 Cada juez al remitir los autos, expondrá al tribunal las razones en que se funde; sin que baste referirse a las constancias del expediente respectivo.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+
 ###### Art. 184.
 
-El juez que no remita el informe prevenido en el artículo anterior, incurrirá en una multa de veinticinco a cien pesos.
+El juez que no remita el informe prevenido en el artículo anterior, incurrirá en una corrección disciplinaria que le será impuesta por el tribunal superior.
 
 ###### Art. 185.
 
@@ -951,7 +1023,7 @@ Las competencias pueden promoverse en cualquier estado del juicio, mientras no s
 
 ###### Art. 188.
 
-Ni los autos ni las sentencias que se dicten en las competencias promovidas en juicios verbales, tendrán apelación ni algún otro recurso. Sólo podrá exigirse responsabilidad.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ## TITULO CUARTO. De los impedimentos, recusación y excusas
 
@@ -1101,7 +1173,7 @@ El juez que conozca de una recusación, es irrecusable para solo este efecto.
 
 ###### Art. 212.
 
-De las recusaciones del magistrado de la sala civil y de los jueces de primera instancia del ramo civil, conocerá la primera sala del Tribunal Superior. De las recusaciones del magistrado de la primera sala o de cualquiera de los magistrados que forman el tribunal pleno, conocerá éste, integrado en la forma prescrita por la ley. De la recusación de los jueces de paz, conocerá el juez de primera instancia de lo civil del distrito en que actúe el recusado. De las recusaciones de los Secretarios del Tribunal Pleno, de las Salas del Tribunal Superior y de los juzgados de primera instancia y de paz, conocerán los jueces o magistrados con quienes actúen.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 213.
 
@@ -1115,11 +1187,11 @@ Si no fuere necesaria la prueba, se celebrará la audiencia y se resolverá en l
 
 Propuesta la recusación de un secretario, pasará éste los autos a quien deba sustituirlo conforme a la ley. El tribunal que conozca de la recusación, recibirá el negocio a prueba y oirá a los interesados, sujetándose a lo que previene las dos disposiciones anteriores.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 216.
 
-Si el superior califica de inadmisible o no probada la causa de la recusación, devolverá los autos al funcionario recusado, imponiendo al recusante una multa de quinientos a dos mil pesos.
+Si el tribunal superior califica de inadmisible o no probada la recusación devolverá los autos al funcionario recusado e impondrá al recusante una multa hasta de cien veces el salario mínimo diario aplicable en la región en la fecha de la calificación.
 
 ###### Art. 217.
 
@@ -2551,11 +2623,11 @@ Hay cosa juzgada cuando la sentencia ha causado ejecutoria por ministerio de la 
 
 Causan ejecutoria por ministerio de la ley:
 
-I.- Las sentencias de primera instancia pronunciadas en juicios verbales, cuando el interés no pase de doscientos pesos.
+I.- (DEROGADA, P.O. 23 DE OCTUBRE DE 1986)
 
 II.- Las sentencias de segunda instancia.
 
-III.- Las de denegada apelación.
+III.- (DEROGADA, P.O. 23 DE OCTUBRE DE 1986)
 
 IV.- Las que diriman una competencia;
 
@@ -2569,7 +2641,9 @@ I.- Las sentencias consentidas expresamente por las partes, por sus representant
 
 II.- Las sentencias de que, hecha notificación en forma, no se interpone recurso en el término señalado por la ley;
 
-III.- Las sentencias de que se ha interpuesto recurso y no se ha continuado en el término legal.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 1986)</small>
+
+III.- Las sentencias que luego de haber sido impugnadas en apelación el recurrente se desiste del recurso.
 
 ###### Art. 508.
 
@@ -2578,6 +2652,10 @@ La declaración de estar ejecutoriada una sentencia, se hará sustanciando el ar
 ###### Art. 509.
 
 La declaración será hecha por el juez que hubiese pronunciado la sentencia. En el caso de la fracción III del artículo 507, la hará el tribunal al declarar la deserción del recurso.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+
+En el caso que previene la fracción III del artículo 507, la declaración la hará la presidencia de la Sala Civil al acordar sobre el desistimiento.
 
 ###### Art. 510.
 
@@ -2709,11 +2787,9 @@ El juez debe desechar de plano las excepciones diversas a las que el Código Civ
 
 Son improcedentes la reconvención y la compensación.
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1971)</small>
-
 ###### Art. 527.
 
-La sentencia que decrete el desahucio será apelable en el efecto devolutivo y se sujetará sin necesidad de ser engrosada y sin el otorgamiento de fianza. La que lo niegue será apelable en ambos efectos.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 > <small>(REFORMADO, P.O. 27 DE ABRIL DE 1971)</small>
 
@@ -3619,15 +3695,15 @@ El litigante no será declarado rebelde, sino a petición de la parte contraria.
 
 ###### Art. 719.
 
-Declarada la rebeldía y notificado en la forma ordinaria el proveído en que se haga la declaración, todas las notificaciones subsecuentes se harán fijando una copia de la providencia en la puerta del juzgado o tribunal.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 720.
 
-Los autos en que un negocio se reciba a prueba y en que se cite para sentencia, el fallo, el auto en que se mande ejecutar éste, y el auto en que se señale día para remate, además de notificarse de la manera prevenida en el artículo anterior, se publicarán una sola vez en el Periódico Oficial o en el que haya en el lugar del juicio.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 721.
 
-El notificador hará constar en los autos haber hecho la notificación en los términos prevenidos en los artículos que preceden, expresando el día y la hora en que se haya fijado la copia y agregando un ejemplar del periódico que contenga la publicación.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 722.
 
@@ -3965,33 +4041,39 @@ De los recursos
 
 Las sentencias no pueden ser revocadas por el juez que las dicta.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+
 ###### Art. 794.
 
-Los autos que no fueren apelables y los decretos pueden ser revocados por el tribunal que los dicta.
+Los autos que no fueren apelables y los decretos pueden ser revocados por el juez que los dicta.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 795.
 
-La revocación puede pedirse verbalmente en el acto de notificarse el auto o decreto, o por escrito dentro de las veinticuatro horas siguientes a la notificación. Si el juicio fuere verbal, la revocación se pedirá en comparecencia.
+La revocación se interpondrá por escrito, en el que se expresarán los agravios que cause la resolución impugnada, precisamente dentro de los tres días siguientes a la notificación. El juez dictará la resolución que corresponda dentro del término de tres días.
 
 ###### Art. 796.
 
-El juez, dentro de los tres días que sigan a la presentación de la solicitud, oirá en audiencia verbal a las dos partes; y concurran o no, decidirá en justicia dentro de otros tres días.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 797.
 
 Del auto en que se decida si se concede o no la revocación, no habrá más recurso que el de responsabilidad.
 
-### CAPITULO III
+### CAPITULO III. De la reclamación
 
-Del recurso de denegada apelación.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 798.
 
 La segunda instancia no puede abrirse sin que se interponga el recurso de apelación.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+
 ###### Art. 799.
 
-Se exceptúan de lo dispuesto en el artículo anterior, los juicios sobre rectificación de actas del estado civil, y sobre nulidad de matrimonio por las causas expresadas en los artículos 255, 260 y 261, del Código Civil; en los cuales la segunda instancia procederá de oficio, con intervención del Ministerio Público, si los interesados no la promueven.
+Se exceptúan de lo dispuesto en el artículo anterior los casos previstos en el Título Vigésimo de este mismo Código.
 
 ###### Art. 800.
 
@@ -4005,19 +4087,27 @@ I.- El litigante condenado en el fallo, si creyere haber recibido algún agravio
 
 II.- El vencedor que, aunque haya obtenido en el litigio, no ha conseguido la restitución de frutos, la indemnización de perjuicios o el pago de los gastos judiciales;
 
-III.- Los terceros que hayan salido al juicio, y los demás interesados a quienes perjudique la resolución.
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 1986)</small>
+
+III.- Los terceros que hayan salido al juicio.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 802.
 
-La apelación puede admitirse en el efecto devolutivo y en el suspensivo, o sólo en el primero.
+La apelación puede proceder en el efecto devolutivo y en el suspensivo, o sólo en el primero. El juez admitirá el recurso y precisará sus efectos.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 803.
 
-La apelación admitida en ambos efectos suspende desde luego la ejecución de la resolución recurrida, hasta que ésta sea legalmente confirmada.
+La apelación admitida en ambos efectos suspende el curso del proceso.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 804.
 
-La apelación admitida sólo en el efecto devolutivo, no impide que se ejecute la resolución.
+La apelación admitida en un sólo efecto no impide el curso del proceso, pero el juez se abstendrá de pronunciar sentencia definitiva hasta en tanto la Sala Civil resuelva respecto de la apelación.
 
 ###### Art. 805.
 
@@ -4055,125 +4145,161 @@ La garantía no será necesaria para ejecutar la resolución en los casos en que
 
 Si la sentencia constare de varias partes, puede consentirse respecto de unas y apelarse de ella respecto de otras.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+
 ###### Art. 814.
 
-La apelación debe interponerse ante el juez que haya dictado la resolución, ya verbalmente en el acto de notificarse ésta, ya por escrito dentro de tres días, contados desde la notificación.
+La apelación debe interponerse, por escrito, ante el juez que pronunció la resolución apelada, dentro de los cinco días siguientes a aquél en que se notificó aquella, tratándose de auto o de interlocutoria; y dentro de diez días, si se tratare de sentencia definitiva. En el escrito se hará expresión de los agravios que al apelante ocasione la resolución impugnada. En caso de omitirse la expresión de agravios, el juez tendrá por no interpuesto el recurso e impondrá al recurrente una multa hasta de cincuenta veces el salario mínimo diario vigente en la región.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 815.
 
-Interpuesta la apelación, el juez resolverá dentro de tres días, sin substanciación, si admite o no el recurso, expresando si lo concede en uno o en ambos efectos.
+En el escrito de expresión de agravios evitará el recurrente hacer uso de palabras o frases que ofendan al juez, bajo pena de hacerse acreedor a una corrección disciplinaria en términos de la fracción II del artículo 79 de este Código, independientemente de la responsabilidad penal en que pudiere incurrir. La calificación de la ofensa e imposición de la multa corresponderá a la Sala Civil.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 816.
 
-Admitida la apelación, el juez dentro de cuarenta y ocho horas remitirá los autos al tribunal superior, citando y emplazando antes a las partes.
+Recibido el escrito de interposición del recurso el juez, previo acuerdo lo remitirá, en el plazo de tres días, al tribunal de alzada. De excederse del plazo indicado se hará acreedor a una corrección disciplinaria.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 817.
 
-Si la apelación se ha admitido solo en el efecto devolutivo, se prevendrá al apelante que señale, dentro de cuarenta y ocho horas, las constancias que hayan de incluirse en el testimonio que el juez deberá remitir al superior, para continuar el recurso. Al testimonio se agregarán las constancias que indique el colitigante, dentro del referido término, y las que el juez creyere necesarias. Si el apelante no las señala en el término fijado, se le tendrá por desistido del recurso.
-
-Librado el testimonio, se remitirá al tribunal superior dentro de cuarenta y ocho horas.
+Cuando la apelación proceda en ambos efectos el juez remitirá al tribunal de alzada el expediente original. Si el recurso sólo procede en efecto devolutivo únicamente se remitirá copia certificada de las constancias que el apelante señale en su escrito de interposición de la apelación, de las que indique el colitigante, previa vista que se le dé para ese efecto, y de las que el propio juez estime necesarias. En caso de que el apelante sea omiso en señalar constancias el juez tendrá por no interpuesto el recurso y le impondrá una multa hasta de cincuenta veces el salario mínimo diario vigente en la región.
 
 ###### Art. 818.
 
-Si el tribunal de apelación reside en el lugar del juicio, se fijará al apelante el término de seis días para que se presente a continuar el recurso.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 819.
 
-Si el tribunal reside en lugar distinto al del juicio, se fijará al apelante, para los efectos del artículo anterior, un término de seis a quince días, a juicio del juez.
+Salvo en las excepciones previstas por este capítulo, los jueces no podrán dejar de admitir ni tener por no interpuesto el recurso de apelación.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 820.
 
-Cuando la apelación fuera admitida solo en el efecto devolutivo, y el apelante la creyere procedente en ambos efectos, puede promover la resolución de este incidente al expresar agravios.
+Recibidos en la Sala el escrito de interposición de la apelación y el expediente o testimonio, en su caso, el presidente de la misma mandará formar toca, por duplicado, y de oficio calificará la admisión del recurso y el efecto en que proceda.
 
 ###### Art. 821.
 
-Si el que obtuvo resolución favorable quiere impugnar la admisión del recurso, porque no lo considere procedente o porque habiéndose concedido en ambos efectos, sostenga que sólo debe admitirse en el devolutivo, podrá hacerlo dentro de cuarenta y ocho horas, contadas desde la notificación del proveído en que se mande correr el traslado para contestar los agravios.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 822.
 
-Los incidentes a que se refieren los dos artículos anteriores, se sustanciarán oyendo dentro de tres días a las partes, y decidiendo el tribunal dentro de tres días después de la audiencia.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 823.
 
-Si se declara inadmisible la apelación, se devolverá el expediente al juez inferior para que ejecute la resolución o continúe el procedimiento; y si se admite en ambos efectos, se prevendrá al juez que remita los autos.
+Si la apelación se califica de inadmisible se devolverá al juez el expediente, en su caso, para la continuación del proceso o ejecución del fallo apelado.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 824.
 
-Declarada procedente la apelación, solo en el efecto devolutivo, se remitirá al juez de primera instancia el expediente original, quedando en el tribunal testimonio de lo que señale el apelante como conducente, y agregándose a él, a costa de la parte contraria, las constancias que ésta señale. Mientras que el apelante no haga designación de constancias, continuará la tramitación del recurso.
+Si el recurso se califica de admisible, sólo en efecto devolutivo y el juez remitió el expediente, el presidente de la Sala ordenará a la secretaría de la misma expida testimonio de las constancias que señalen el propio presidente y las partes; éstas para ese efecto tendrán el plazo de tres días. En caso de que el apelante, en el plazo indicado, omita señalar constancias el presidente de la Sala procederá en términos de los (sic) previsto por el artículo 817 en su parte final.
+
+Si el recurso se califica de admisible en ambos efectos se prevendrá al juez, en su caso, que remita el expediente en el plazo de tres días. En caso de incumplimiento se aplicará al juez una corrección disciplinaria.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 825.
 
-No obstante lo dispuesto en el artículo 817, se remitirá al tribunal de apelación el expediente original, si el juez estima que no se sigue perjuicio a los litigantes y ninguno de ellos se opone.
+No obstante que la apelación sólo proceda en efecto devolutivo, si el juez o la presidencia de la Sala estiman que no se ocasiona perjuicio a las partes y ninguna de ellas se opone, el expediente podrá remitirse al tribunal de alzada.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 826.
 
-El apelante debe presentarse al tribunal superior, dentro del término del emplazamiento, hecho por el inferior, expresando los agravios que le cause la resolución recurrida.
+En los negocios del orden familiar el tribunal de alzada tiene facultad para suplir la deficiencia de agravios o la ausencia de los mismos, cuando con ello se beneficie el interés de quien se encuentre afectado de incapacidad legal o natural. En estos casos el juez, no obstante que en el escrito de interposición del recurso se omita expresar agravios, lo admitirá en el efecto o efectos que procedan y sin imponer sanción alguna al apelante hará la remisión que corresponda al tribunal de alzada. Cuando el recurrente omita señalar constancias, en los casos en que el recurso sólo proceda en efecto devolutivo, el juez remitirá copia autorizada de todo lo actuado en el expediente.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 827.
 
-De la expresión de agravios se correrá traslado al colitigante por seis días.
+De la expresión de agravios se dará vista al colitigante para que si lo considera necesario exprese, en el plazo de tres días, lo que a sus derechos convenga.
+
+En los casos en que el tribunal de alzada esté facultado para suplir la ausencia de agravios se dará vista también por tres días con el toca al colitigante para los efectos del párrafo anterior.
 
 ###### Art. 828.
 
 En la segunda instancia se admitirán las excepciones nacidas después de la contestación de la demanda, cuando la apelación se ha interpuesto contra sentencia definitiva, dictada en juicio ordinario. Opuesta la excepción, si fuere necesaria la prueba, se concederá para rendirla el término de quince días. El término extraordinario de prueba se reducirá a la mitad al señalado en el artículo 302.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+
 ###### Art. 829.
 
-Contestada la expresión de agravios, o hecha la publicación de probanzas en el caso del artículo anterior, se citará para la vista, que deberá celebrarse dentro de cinco días.
+Hecha la publicación de probanzas se citará a las partes para la audiencia de vista, misma que deberá celebrarse dentro de cinco días.
 
 ###### Art. 830.
 
 En el acto de la vista, el secretario dará lectura a la resolución apelada y a las demás constancias que indique el tribunal o señalen las partes, quienes a continuación informarán oralmente o por escrito. Concluido el acto, el magistrado declarará los autos "vistos", con lo cual no será ya necesaria otra formal citación para sentencia, que se dictará en el término de ocho días.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+
 ###### Art. 831.
 
-Si la apelación se ha interpuesto contra un auto o resolución interlocutoria, el término del traslado para contestar la demanda de agravios será de tres días, y en igual término se celebrará la vista, dictándose el fallo dentro de cinco días. Lo mismo se observará en las apelaciones interpuestas contra las sentencias definitivas dictadas en los interdictos y en los juicios sumarios y ejecutivos.
+Transcurrido el plazo a que alude el artículo 827, de oficio se citará a las partes para oír sentencia, la que se dictará dentro de ocho días.
 
 ###### Art. 832.
 
-Si el apelante no compareciere con su expresión de agravios en el término del emplazamiento hecho para mejorar el recurso, podrá la parte contraria pedir, mientras no se haya citado para la vista, que se declare desierta la apelación.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 833.
 
-Del escrito en que lo pretenda, se dará traslado a la contraria por el término improrrogable de tres días, debiendo el tribunal resolver dentro de otros tres días.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 834.
 
-Solo se recibirá a prueba el incidente, por el término de ocho días, cuando el apelante alegue que fuerza mayor le impidió presentarse en tiempo al tribunal, expresando el hecho que causó el impedimento; y fenecido el término probatorio, se citará a las partes para una audiencia, que deberá verificarse tres días después de la citación pronunciándose el fallo dentro de igual término. Si no se probare plenamente el hecho alegado por el apelante, se impondrá a éste una multa de diez a cien pesos.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 835.
 
-El juicio de deserción sólo puede seguirse a instancia de parte.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 836.
 
 Son aplicables a las apelaciones las reglas del juicio ordinario, en lo que no esté previsto por las disposiciones de este Capítulo.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE OCTUBRE DE 1986)</small>
+
 ### CAPITULO I. Del apremio
 
 ###### Art. 837.
 
-El recurso de denegada apelación procede cuando se niega la apelación.
+Se llama reclamación el recurso que se interpone para que la Sala Civil confirme, reforme o revoque, las resoluciones dictadas por su presidente.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 838.
 
-El recurso se interpondrá en el acto de lo (sic) notificación o dentro de tres días, contados desde la fecha de ésta.
+El recurso de reclamación se interpondrá ante la presidencia de la Sala, por escrito debidamente motivado y fundado, dentro del término de tres días. El presidente dictará proveído respecto de su admisión y, en su caso, designará al magistrado ponente.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 839.
 
-El juez, sin sustanciación alguna, expedirá a más tardar dentro de tercero día un certificado firmado por él y por el secretario, en el que, después de dar una idea breve y clara de la materia sobre que versa el juicio, de su naturaleza y estado y del punto sobre que recayó la resolución apelada, se insertará a la letra ésta y el auto que la haya declarado inapelable, así como las notificaciones de ambos, remitiendo el certificado al superior, en el término de tres días, sin suspender el procedimiento. El tribunal puede solicitar la ampliación del informe del juez, y ordenará que se remitan los autos originales cuando dicha resolución cause gravamen irreparable.
+El recurso de reclamación será resuelto por mayoría de votos de los integrantes de la Sala, dentro de los ocho días siguientes.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 840.
 
-Dentro de tres días, contados desde que se mande expedir el certificado, las partes podrán presentarse al tribunal exponiendo lo que a sus derechos convenga.
+En contra de la resolución que la Sala pronuncie no es admisible ningún otro recurso.
 
 ###### Art. 841.
 
-Recibido el certificado o los autos y vencido el término que fija el artículo anterior, resolverá el tribunal, dentro de tres días, si la denegada apelación ha sido legalmente interpuesta, y en caso afirmativo, confirmará o revocará la resolución denegatoria de la apelación, expresando si se concede este recurso en ambos efectos o solo en el devolutivo.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 842.
 
-Del recurso de denegada apelación conocerá el tribunal a quien correspondería conocer de la apelación si fuera admitida.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 TITULO DECIMOQUINTO
 
@@ -5503,7 +5629,7 @@ La junta se verificará dentro de los ocho días siguientes a la citación, si l
 
 ###### Art. 1105.
 
-Si la mayoría recidiere fuera de lugar del juicio, el juez señalará el plazo que crea prudente, atendidas las distancias.
+Si la mayoría residiere fuera de lugar del juicio, el juez señalará el plazo que crea prudente, atendidas las distancias.
 
 ###### Art. 1106.
 
@@ -5899,6 +6025,8 @@ Concluido y aprobado el inventario y terminadas las operaciones necesarias para 
 
 ### CAPITULO VII. De los juicios sucesorios de menor cuantía y de la transmisión hereditaria del patrimonio de familia
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
+
 ###### Art. 1194.
 
 El albacea, dentro de los quince días de aprobado el inventario, presentará al juzgado un proyecto para la distribución provisional de los productos de los bienes hereditarios, señalando la parte de ellos que cada bimestre deberá entregarse a los herederos y legatarios, en proporción a su haber. La distribución de los productos se hará en efectivo o en especie.
@@ -6003,7 +6131,7 @@ La sentencia que apruebe o repruebe la partición es apelable en ambos efectos.
 
 ###### Art. 1214.
 
-Las disposiciones de este Capítulo se observarán cuando el valor de los bienes hereditarios no exceda de mil pesos.
+Las disposiciones de este capítulo se observarán cuando el valor de los bienes hereditarios no exceda de quinientas veces el importe del salario mínimo diario aplicable en la región, a la fecha de la denuncia.
 
 ###### Art. 1215.
 
@@ -6035,15 +6163,17 @@ Las promociones en estos juicios podrán hacerse verbalmente o por escrito.
 
 ###### Art. 1222.
 
-Las apelaciones que se interpongan se sustanciarán como previene el artículo 831.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 1223.
 
-Si resulta del avalúo que el importe de los bienes, deducidas las deudas, excede de mil pesos, se ordenará el sobreseimiento, a reserva de que se radique y tramite el juicio hereditario en la forma prevenida por la ley.
+Si resulta del avalúo que el importe de los bienes, deducidas las deudas, excede de la cantidad prevista en el artículo 1214 de este Código, se ordenará el sobreseimiento del juicio sucesorio de menor cuantía a reserva de que se radique y tramite el juicio hereditario en la forma prevenida por la Ley.
 
 ###### Art. 1224.
 
-Cuando el valor de los bienes no exceda de trescientos pesos, la junta a que se contrae el artículo 1216 se celebrará dentro de tres días de la fecha en que se radique el juicio. No será necesaria la convocación de herederos que previene el artículo 1215, y a los interesados que no se hubiesen presentado antes de la referida junta, se les dejarán a salvo sus derechos para que los hagan valer en la vía procedente. Los incidentes que surjan, se resolverán de plano, sin formar artículo, y ninguna resolución será apelable.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 1225.
 
@@ -6201,7 +6331,7 @@ Las providencias que se dicten en los negocios de jurisdicción voluntaria, ser�
 
 ###### Art. 1252.
 
-La interposición y la sustanciación de todas las apelaciones se sujetarán a los trámites establecidos para las que se interpongan y admitan en los juicios sumarios.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 1253.
 
@@ -6671,99 +6801,113 @@ Las informaciones para obtener dispensa de ley se recibirán oyendo al Ministeri
 
 ###### Art. 1345.
 
-Cuando se pida al juez que supla el consentimiento de los ascendientes o tutores para contraer matrimonio, deberá acreditarse que no existe ninguna de las personas que conforme al Código Civil deben prestar su consentimiento, o que éstas se hayan en lugares lejanos y no sea posible obtener su respuesta en el plazo de sesenta días, o que se ignora su paradero. El juez, oyendo al Ministerio Público, otorgará la licencia si no hubiere obstáculo que legalmente impida el matrimonio.
+Cuando se pida al juez que supla el consentimiento de los ascendientes o tutores para contraer matrimonio, deberá acreditarse que no existe ninguna de las personas que conforme al Código Civil deben prestar su consentimiento, o que éstas se hallan en lugares lejanos y no sea posible obtener su respuesta en el plazo de sesenta días, o que se ignora su paradero. El juez, oyendo al Ministerio Público, otorgará la licencia si no hubiere obstáculo que legalmente impida el matrimonio.
 
 Si antes de celebrarse éste se presentare el ascendiente o tutor, el juez revocará la licencia.
 
-## TITULO VIGESIMO. De los juicios verbales ante los jueces de paz
+> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE OCTUBRE DE 1986)</small>
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1975)</small>
+## TITULO VIGESIMO. De la revisión de oficio
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 1346.
 
-Conocerán los jueces de paz de los juicios cuya cuantía no exceda de cinco mil pesos, de las solicitudes de alimentos provisionales en jurisdicción voluntaria y de las consignaciones por concepto de pensiones alimenticias. Para estimar el interés del negocio se estará a lo dispuesto en el artículo 175.
+Las sentencias que se pronuncien en los juicios de rectificación de actas de estado civil y sobre nulidad de matrimonio por las causas expresadas en los artículos 255, 260 y 261 del Código Civil del Estado, así como las resoluciones a que aluden la fracción V del artículo 2914 del referido Código sustantivo y el artículo 1370 de este ordenamiento procesal, serán objeto de revisión oficiosa por la Sala Civil, salvo los casos en que las partes o interesados las hubieren impugnado en apelación.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 1347.
 
-Se exceptúan de lo prevenido en el artículo anterior los juicios que por disposición de este Código deban seguirse en la vía sumaria, los de concurso, los sucesorios y los interdictos, de los cuales conocerán los jueces de primera instancia, cualquiera que sea el interés del litigio.
+La revisión de oficio tiene por objeto que la Sala revoque, modifique o confirme, la sentencia o resolución de primera instancia.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 1348.
 
-Cuando se dude de la cuantía del asunto, el juez la determinará oyendo el dictamen del perito que nombre. Cualquiera de los litigantes, dentro de tres días contados desde la primera diligencia que con él se practique, podrá promover el nombramiento de peritos, que dictaminen sobre la cuantía del negocio.
+Transcurrido el plazo que la Ley señala para que los interesados impugnen en apelación la sentencia o resolución de primera instancia, sin que lo hagan, el juez absteniéndose de declarar que han causado ejecutoria o de mandar ejecutarlas, en su caso, remitirá el expediente original a la Sala Civil, para que se inicie el trámite de la revisión de oficio.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 1349.
 
-Si entablada la demanda ante un juez de paz se opusieren excepciones o tercerías que sean materia de juicio escrito, se proseguirá la tramitación del juicio verbal hasta dictar sentencia, y en ella se fijará al interesado un término que no exceda de treinta días para que haga valer su derecho en el juico (sic) que corresponda. Mientras éste se tramite o está corriendo el término fijado, no podrá ejecutarse dicha sentencia.
+Recibido el expediente el presidente de la Sala mandará formar toca, por duplicado, ordenando se dé vista de aquél al Ministerio Público y a las partes o interesados para que en el plazo de seis días expongan lo que estimen conveniente a sus derechos.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 1350.
 
-El juicio se seguirá en la forma verbal. Los litigantes promoverán verbalmente, pero podrán hacerlo por escrito.
+Si el ministerio público al desahogar la vista expresare agravios se correrá traslado de los mismos a las partes o interesados para que, en el plazo de tres días, hagan expresión de lo que a sus derechos conviniere. Transcurrido este último plazo, si se solicita o la presidencia lo considera necesario, se concederá un período probatorio no mayor de diez días.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 1351.
 
-Entablada la demanda, el juez emplazará al demandado para que comparezca a contestarla dentro de tres días. Compareciendo el demandado, se le dará conocimiento de la demanda, para que en el acto la conteste y oponga sus excepciones.
+Desahogadas las pruebas se citará para una audiencia dentro de los tres días siguientes, en la que el ministerio público y las partes o interesados podrán alegar. La sala pronunciará sentencia dentro de los ocho días siguientes.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 1352.
 
-Las excepciones perentorias y las dilatorias se resolverán en la sentencia definitiva.
+Si el ministerio público no formula agravios, transcurrido el plazo de la vista se citará para oír sentencia, misma que se dictará en el término de ocho días. De la misma forma se procederá en el caso de que el asunto no se hubiere abierto a prueba.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 1353.
 
-Si se ofrecen pruebas, el juez señalará para para (sic) recibirlas un término que no exceda de quince días.
+En la revisión de oficio la Sala tiene plenitud de jurisdicción para examinar la legalidad de lo resuelto en primera instancia.
 
 ###### Art. 1354.
 
-El que presente testigos dejará en el juzgado con anticipación de veinticuatro horas, apunte de las preguntas que han de hacerse, para que la parte contraria pueda imponerse de ellas y preparar sus repreguntas.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 1355.
 
-La parte que ofrezca la prueba no podrá presentar más de cinco testigos sobre cada artículo.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 1356.
 
-Rendidas las pruebas, se citará a los litigantes a una audiencia de alegatos, que se verificará en el término de tres días, durante el cual estarán los autos en la secretaría a la vista de las partes. La sentencia se dictará dentro de cinco días.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 1357.
 
-La sentencia será apelable si el interés del pleito excede de doscientos pesos. La apelación se sustanciará con una sola audiencia, en que alegarán las partes; y conocerá del recurso el juez de primera instancia del distrito judicial en que esté radicado el juicio.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 1358.
 
-Los incidentes que no tengan tramitación especial, se resolverán sin más tramite que una audiencia, en que los litigantes rendirán sus pruebas y alegarán lo que a su derecho convenga.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 1359.
 
-Los jueces de paz podrán ordenar la celebración de juntas de avenencia, procediendo de oficio o a instancia de parte.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 1360.
 
-Cuando se proceda ejecutivamente en virtud de un título que motive ejecución, se decretará el embargo, y si el deudor opone excepciones y se promueven pruebas, se fijará para recibirlas un término que no exceda de quince días.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 1361.
 
-Cumplido el término probatorio, se procederá como dispone el artículo 1356; y lo mismo se observará cuando no se hayan ofrecido pruebas para justificar las excepciones.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 1362.
 
-El procedimiento para la ejecución de las resoluciones en los juicios a que se refiere este Capítulo, será verbal, y la sentencia se hará efectiva sin más dilación que la absolutamente necesaria para cumplimentarla.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 1363.
 
-Si se necesitare enajenar bienes del deudor, hecho el embargo, se mandarán apreciar por peritos y se sacarán a remate, pregonándose por tres días consecutivos, si fueren muebles; y por tres veces, de tres en tres días, si fueren raíces. El remate se verificará al cuarto día en el primer caso, y el décimo día en el segundo. Los pregones se fijarán en la puerta del juzgado.
-
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1975)</small>
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 1364.
 
-Si el interés del pleito no excediere de mil pesos, después de presentada la demanda y hecho el emplazamiento, se levantará acta en que se hará constar la contestación del demandado, las excepciones, las pruebas, lo que las partes aleguen sobre ellas y la sentencia. Todas las diligencias se practicarán a continuación unas de las otras en la misma audiencia, y en caso de no poderse practicar todas en un solo día, se suspenderá aquélla para continuarla al día siguiente. Si el demandado no comparece sin justa causa, se dará por contestada la demanda en sentido afirmativo y se pronunciará el fallo.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 1365.
 
-En el caso del artículo anterior, si la demanda se entabla en la vía ejecutiva, las excepciones que oponga el ejecutado se tramitarán en la forma que determina el citado precepto, oyéndose al ejecutante.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 ###### Art. 1366.
 
-En los casos no previstos por las disposiciones del presente Capítulo, se observarán las reglas establecidas por este Código, procediéndose siempre en la forma verbal.
+(DEROGADO, P.O. 23 DE OCTUBRE DE 1986)
 
 TITULO VIGESIMOPRIMERO
 
@@ -6799,7 +6943,11 @@ IV.- Los cuadernos sobre artículos de previo y especial pronunciamiento serán 
 
 V.- También se unirán al principal los cuadernos de pruebas después que se haga la publicación de ellas;
 
-VI.- Cuando el cuaderno principal llegue a contener ciento cincuenta fojas, se formará un segundo cuaderno, y en su caso se hará un tercero, etc., debiéndose uniformar las carátulas y marcar cada cuaderno con el número ordinal que le corresponda.
+VI.- Cuando el cuaderno principal llegue a contener ciento cincuenta fojas, se formará un segundo cuaderno, y en su caso se hará un tercero, etc., debiéndose uniformar las carátulas y marcar cada cuaderno con el número ordinal que le corresponda;
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 1986)</small>
+
+VII.- Los cuadernos a que hace mención este artículo se formarán por duplicado. Para ese efecto las promociones correspondientes y, en su caso, los documentos que se les anexen se presentarán en dos tantos.
 
 ###### Art. 1372.
 
@@ -6888,3 +7036,11 @@ P.O. 2 DE MAYO DE 1981.
 ###### ARTICULO CUARTO.
 
 Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE OCTUBRE DE 1986.
+
+Artículo Primero.- El presente decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+Artículo Tercero.- Los recursos de apelación, revocación y denegada apelación y las revisiones de oficio ya interpuestos o que se encuentran en trámite antes de la vigencia de este decreto, continuarán sustanciándose de conformidad con lo dispuesto en la legislación procesal anterior.
