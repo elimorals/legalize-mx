@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ejecucion-de-sanciones-privativas-y-restrictivas-de-1681
 country: "mx"
 rank: "ley"
 publication_date: "1972-11-13"
-last_updated: "2000-08-10"
+last_updated: "2005-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LIBERTAD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 2000.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EJECUCION DE SANCIONES PENALES DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADA EN EL PERIODICO OFICIAL EL 27 DE ENERO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento al Periódico Oficial, el día 13 de noviembre de 1972.
 
@@ -1104,3 +1106,25 @@ PRIMERO.- El presente Decreto iniciará su vigencia a partir de los quince días
 SEGUNDO.- Se derogan aquellas disposiciones que se opongan al presente Decreto.
 
 TERCERO.- En tanto se integra el cuerpo de delegados de libertad vigilada a que se refiere el artículo 11 de esta Ley, la función de vigilancia que le corresponde, podrá ser delegada a las autoridades municipales, observando las formalidades legales procedentes.
+
+P.O. 27 DE ENERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad del Estado, y se dejan sin efecto las demás disposiciones legales y administrativas derivadas de la misma en lo que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Todos los asuntos en trámite deberán resolverse atendiendo a lo que beneficie mas al sentenciado.
+
+###### ARTÍCULO CUARTO.
+
+El beneficio de externación solo podrá tramitarse y concederse hasta pasados trescientos sesenta y cinco días de la entrada en vigencia de la presente ley.
+
+###### ARTÍCULO QUINTO.
+
+El Gobernador del Estado deberá tomar las medidas necesarias para la aplicación del Tratamiento en Externación y asistencia postpenitenciaria, dentro de los trescientos sesenta y cinco días a partir de la entrada en vigor de la presente Ley.
