@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2000-06-10"
+last_updated: "2000-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2000.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -519,7 +519,7 @@ II.- Expedir leyes reglamentarias y ejercer las facultades que le otorga la Cons
 
 III.- Iniciar leyes y decretos ante el Congreso de la Unión;
 
-IV.- Formular su Ley Reglamentaria, así como la de la Contaduría Mayor de Hacienda;
+IV.- Formular su Ley Reglamentaria, así comola de la Contaduría Mayor de Hacienda;
 
 > <small>(REFORMADA, B.O. 18 DE JUNIO DE 1998)</small>
 
@@ -869,13 +869,17 @@ XLIV.- Proponer al Congreso del Estado, una terna de aspirantes al puesto de Mag
 
 XLV.- Nombrar a los miembros del Consejo Tutelar para Menores en los términos que disponga la Ley de la materia
 
-> <small>(ADICIONADA, B.O. 10 DE JUNIO DE 2000)</small>
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-XLVI.- Solicitar al Consejo Estatal Electoral someta a plebiscito, en los términos que disponga la ley, propuestas de actos o decisiones de Gobierno consideradas como trascendentes para la vida pública del Estado.
+XLVI.- Publicar los días 15 de Junio y 15 de Diciembre de cada año, en el Boletín Oficial del Gobierno del Estado y en el periódico local de mayor circulación, las fórmulas y criterios de asignación, así como los montos de las Participaciones Federales y Estatales otorgadas a los Municipios.
+
+(ADICIONADA, B.O. 10 DE JUNIO DE 2000)(F. DE E., B.O. 31 DE JULIO DE 2000)
+
+XLVII.- Solicitar al Consejo Estatal Electoral someta a plebiscito, en los términos que disponga la ley, propuestas de actos o decisiones de Gobierno consideradas como trascendentes para la vida pública del Estado.
 
 > <small>(REFORMADA, B.O. 10 DE JUNIO DE 2000)</small>
 
-XLVII.- Las demás que señalen esta Constitución y sus leyes.
+XLVIII.- Las demás que señalen esta Constitución y sus leyes.
 
 #### SECCION III. DE LAS DEPENDENCIAS DEL EJECUTIVO
 
@@ -1470,6 +1474,10 @@ XIX.- Celebrar convenios para que instituciones Federales o Estatales, presten l
 > <small>(ADICIONADA, B.O. 20 DE ABRIL DE 1991)</small>
 
 XX.- Formular y promover la ejecución de la política municipal ecológica, cuidando que guarde congruencia con la Estatal y Federal, con la finalidad de preservar y restaurar el equilibrio ecológico en áreas o zonas de jurisdicción municipal.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2000)</small>
+
+XXI.- Publicar cada tres meses en el Boletín Oficial del Gobierno del Estado de Baja California Sur y en el periódico local de mayor circulación, los ingresos propios, Federales y Estatales obtenidos, así como su egreso por rubros.
 
 ### CAPITULO IX
 
@@ -2178,3 +2186,17 @@ B.O. 10 DE JUNIO DE 2000.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2000.
+
+###### ARTICULO PRIMERO
+
+El presente decreto entrará en vigor a partir del día primero de Enero del año 2001, previa publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO
+
+Se concede al Congreso del Estado, un plazo de seis meses a partir de la entrada en vigencia del presente decreto para adecuar la legislación secundaria.
+
+###### ARTICULO TERCERO
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
