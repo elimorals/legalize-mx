@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "1999-11-15"
+last_updated: "2002-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-> <small>N. DE E. LA PRESENTE LEY FUE REFORMADA POR DECRETO NUMERO 21 ADICIONANDO Y REFORMANDO DIVERSAS DISPOSICIONES DE ESTA, CON LA INCLUSION DE ARTICULOS, CORRIENDO EN SU ORDEN LOS SUBSECUENTES, Y HACIENDO UNA CORRECCION NUMERICA EN AQUELLOS ARTICULOS CUYA NUMERACION SE ENCONTRABA REPETIDA, A EFECTO DE QUE SE MANTENGA CONGRUENCIA EN LA LEY.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -85,11 +83,11 @@ Esta Ley, sus reformas y adiciones no necesitarán de promulgación del Gobernad
 
 ### CAPITULO UNICO. DE LA INSTALACION DE LA LEGISLATURA Y DE LA ELECCION DE LA MESA DIRECTIVA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 2002)</small>
 
-###### ARTICULO 7.
+###### Artículo 7°.
 
-Para la instalación de la Legislatura, la Diputación Permanente saliente convocará a los Diputados entrantes que cuentan con la constancia expedida por el órgano electoral competente, a asistir a la sede del Poder Legislativo del Estado el día diecinueve de marzo del año que corresponda a partir de las once horas, a efecto de llevar a cabo la Junta Preparatoria que será presidida por la propia Diputación Permanente y que se desarrollará conforme al siguiente procedimiento.
+Para la instalación de la Legislatura, la Diputación Permanente saliente convocará a los Diputados entrantes que cuenten con la constancia expedida por el órgano electoral competente a asistir en la sede del Poder Legislativo del Estado el día 24 de marzo del año que corresponde a partir de las once horas, a efecto de llevar a cabo la Junta Preparatoria que será presidida por la propia Diputación Permanente y que se desarrollará conforme al siguiente procedimiento:
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -821,7 +819,7 @@ Los Diputados en ejercicio gozan del fuero que les reconoce la Constitución Pol
 
 Los Diputados no podrán ser reconvenidos o enjuiciados por las opiniones que manifiesten en el desempeño de sus cargos.
 
-Los Diputados son responsables por los delitos que cometan durante el tiempo de su encargo y por los delitos, faltas u omisiones en que incurran en el ejercicio de ese mismo cargo, pero no podrán ser detenidos ni ejercitarse en su contra la acción penal hasta que seguido al procedimiento constitucional, se decida la separación del cargo y la sujeción a la jurisdicción de los tribunales comunes.
+Los Diputados son responsables por los delitos que cometan durante el tiempo de su encargo y por los delitos, faltas u omisiones en que incurran en el ejercicio de ese mismo cargo, pero no podrán ser detenidos ni ejercitarse en su contra la acción penal hasta que seguido el procedimiento constitucional, se decida la separación del cargo y la sujeción a la jurisdicción de los tribunales comunes.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1826,3 +1824,9 @@ SEXTO.- En tanto se efectúan las adecuaciones correspondientes al Reglamento In
 SEPTIMO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 OCTAVO.- La designación del titular de la Dirección de Archivo General y Biblioteca, se efectuará una vez que se tenga establecida la infraestructura básica que permita el adecuado cumplimiento de sus responsabilidades, previa manifestación en tal sentido comunicada por el Presidente de la Gran Comisión.
+
+P.O. 15 DE FEBRERO DE 2002.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
