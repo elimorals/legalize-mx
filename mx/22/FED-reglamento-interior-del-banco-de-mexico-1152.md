@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2004-12-10"
+last_updated: "2004-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -409,9 +409,7 @@ VIII. Atender las actividades protocolarias y sociales pertinentes para el corre
 
 IX. Tener a su cargo el acervo cultural;
 
-> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 2002)</small>
-
-X. Tener a su cargo la Unidad de Enlace a que se refiere la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento que sobre la materia expida la Junta de Gobierno. La citada Unidad de Enlace tendrá las atribuciones que señala el artículo 31 Bis de este Reglamento.
+X. (DEROGADA, D.O.F. 22 DE DICIEMBRE DE 2004)
 
 > <small>(ADICIONADO, D.O.F. 16 DE MARZO DE 2001)</small>
 
@@ -421,7 +419,9 @@ I. Promover la generación eficaz de la información en las diferentes unidades 
 
 II. Evaluar, coordinar y opinar sobre la contribución de las diferentes áreas del Banco a los sistemas de información;
 
-III. Proponer normas de administración de la información institucional y apoyar la supervisión y verificación de su cumplimiento;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+III. Proponer normas y lineamientos para la organización, administración y publicación de la información institucional y apoyar la supervisión y verificación de su cumplimiento;
 
 > <small>(REFORMADA, D.O.F. 1 DE OCTUBRE DE 2004)</small>
 
@@ -437,13 +437,25 @@ VI. Investigar las redes de comunicación electrónica con objeto de identificar
 
 VII. Mantener relaciones con organismos e instituciones nacionales e internacionales, en el ámbito de su competencia;
 
-> <small>(ADICIONADA, D.O.F. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
 
-VIII. Administrar los archivos de concentración e históricos del Banco, y
+VIII. Administrar los archivos de concentración e históricos del Banco;
 
-> <small>(ADICIONADA, D.O.F. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
 
-IX. Proporcionar a los órganos colegiados, a sus miembros y a las unidades del Banco, los servicios de apoyo para la organización y administración de la información.
+IX. Proporcionar a los órganos colegiados, a sus miembros y a las unidades del Banco, los servicios de apoyo para la organización y administración de la información;
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+X. Tener a su cargo la Unidad de Enlace a que se refiere la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento que sobre la materia expida la Junta de Gobierno. La citada Unidad de Enlace tendrá las atribuciones que señala el artículo 31 Bis de este Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+XI. Administrar los servicios de la biblioteca y hemeroteca del Banco, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
+
+XII. Comercializar publicaciones, reportes y demás instrumentos de divulgación.
 
 > <small>(REFORMADO, D.O.F. 13 DE FEBRERO DE 1998)</small>
 
@@ -639,9 +651,9 @@ IV. Coadyuvar con las autoridades financieras en la negociación y formalizació
 
 La Dirección de Precios, Salarios y Productividad estará facultada para recabar, procesar y divulgar información relacionada con los índices de precios, salarios, la evolución del mercado laboral del país y la productividad.
 
-> <small>(ADICIONADO, D.O.F. 30 DE JULIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
 
-ARTICULO 24 BIS.- La Dirección de Sistematización de Información Económica y Servicios tendrá las funciones siguientes:
+ARTICULO 24 BIS.- La Dirección de Sistematización de Información Económica y Servicios tendrá como función establecer sistemas de procesamiento, manejo, generación y diseminación de información económica y financiera.
 
 I. Establecer sistemas de procesamiento, manejo y diseminación de información económica y financiera;
 
@@ -723,9 +735,9 @@ II. Contratar personal, llevar registro de sus promociones, rotaciones y sancion
 
 III. Formalizar los actos relativos a la terminación y suspensión de relaciones laborales;
 
-> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
 
-IV. Administrar los recursos de la Reserva para Cubrir Obligaciones de Carácter Laboral, así como del Fondo de Pensiones del Banco, debiendo vigilar que las inversiones se encuentren debidamente efectuadas;
+IV. Desempeñar las funciones encomendadas al Banco como fiduciario, en los fideicomisos Fondo de Pensiones del Banco de México y Fondo Complementario de Pensiones, debiendo vigilar en todo momento que las inversiones se encuentren efectuadas conforme a los lineamientos y criterios de inversión que para los referidos fideicomisos instruyan los órganos competentes de los mismos, así como administrar los recursos de la Reserva para Cubrir Obligaciones de Carácter Laboral;
 
 V. Cumplir con las obligaciones legales y reglamentarias a cargo del Banco, en su carácter de patrón;
 
@@ -953,9 +965,9 @@ VII. Certificar los extractos o copias que contengan la información solicitada 
 
 VIII. Las demás que sean necesarias para garantizar y agilizar el acceso de la información al público en general.
 
-> <small>(ADICIONADO, D.O.F. 2 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2004)</small>
 
-El titular de la Unidad de Enlace podrá suscribir individualmente los actos vinculados con sus atribuciones. Será el Jefe de la Oficina de Relaciones Públicas y Acervo Cultural quien cubra sus ausencias, pudiendo también suscribir de la forma citada los referidos actos.
+El titular de la Unidad de Enlace podrá suscribir individualmente los actos vinculados con sus atribuciones. Será el Subgerente de Coordinación de la Información quien cubra sus ausencias, pudiendo también suscribir de la forma citada los referidos actos.
 
 ### CAPITULO II. DE LA COMISION DE RESPONSABILIDADES
 
@@ -1350,3 +1362,7 @@ UNICO. Las presentes reformas y adición, entrarán en vigor el día 1o. de ener
 D.O.F. 10 DE DICIEMBRE DE 2004.
 
 UNICO. La presente adición entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE DICIEMBRE DE 2004.
+
+UNICO. Las presentes reformas, derogación y adiciones, entrarán en vigor el día 1o. de enero de 2005, con excepción de la reforma al artículo 26, fracción IV, la cual entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
