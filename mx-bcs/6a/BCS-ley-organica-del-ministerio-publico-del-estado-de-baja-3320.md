@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-ministerio-publico-del-estado-de-baja-3320"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "1981-07-10"
+last_updated: "1984-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1984.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1976.
 
@@ -347,9 +347,7 @@ XIV. Dictaminar en aquellos asuntos que el Gobernador del Estado le ordene o sol
 
 XV. Denunciar ante el Gobernador del Estado las leyes, reglamentos o decretos que resulten violatorios de la Constitución Política de la República y del Estado, sometiendo a su consideración las reformas respectivas.
 
-> <small>(ADICIONADA, B.O. 10 DE JULIO DE 1981)</small>
-
-XVI. Tener a su cargo la Policía Preventiva del Estado.
+XVI. (DEROGADA, B.O. 20 DE DICIEMBRE DE 1984)
 
 > <small>(REFORMADA, B.O. 10 DE JULIO DE 1981)</small>
 
@@ -557,9 +555,9 @@ V. Dictar las resoluciones procedentes, los acuerdos de reserva, suspensión, in
 
 VI. Las demás que se atribuyan las Leyes, los reglamentos y el Procurador General de Justicia del Estado.
 
-### CAPITULO SEPTIMO. DIRECCION DE SERVICIOS PERICIALES
+### CAPITULO OCTAVO. DIRECCION DE POLICIA JUDICIAL
 
-> <small>(REFORMADO Y REUBICADO, B.O. 10 DE JULIO DE 1981)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
 
 ###### ARTICULO 40.
 
@@ -617,9 +615,9 @@ En los lugares que haya un solo Agente del Ministerio Público, éste fungirá c
 
 > <small>(ADICIONADO, B.O. 10 DE JULIO DE 1981)</small>
 
-### CAPITULO OCTAVO. DIRECCION DE POLICIA JUDICIAL
+### CAPITULO SEPTIMO. DIRECCION DE SERVICIOS PERICIALES
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1981)</small>
+> <small>(REFORMADO Y REUBICADO, B.O. 10 DE JULIO DE 1981)</small>
 
 ###### ARTICULO 42.
 
@@ -662,8 +660,6 @@ La Dirección de Servicios Periciales, rendirá los dictámenes, en los casos y 
 Los servicios periciales se prestarán a pedimento de las autoridades judiciales del Fuero Común, del Ministerio Público, y de la Policía Judicial.
 
 En caso de que se solicite el servicio por otra autoridad o institución, se prestará cuando lo acuerde el Procurador.
-
-> <small>(ADICIONADO, B.O. 10 DE JULIO DE 1981)</small>
 
 ### CAPITULO UNICO
 
@@ -714,6 +710,8 @@ De igual forma queda terminantemente prohibido a la Policía Judicial, aplicar m
 ###### ARTICULO 54.
 
 Ningún miembro de la Policía Judicial podrá hacer uso de vehículos o cualquier otro objeto recogido o detenido con motivo de la comisión de delitos. La misma prohibición se establece para cualquier funcionario del Ministerio Público; la violación de esta disposición será causa de cese inmediato, sin perjuicio de que se ejercite en contra del responsable las acciones pertinentes.
+
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 1981)</small>
 
 ## TITULO CUARTO. DISPOSICIONES GENERALES
 
@@ -818,3 +816,9 @@ El presente Decreto entrará en vigor el siguiente día al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan a lo establecido en este Decreto.
+
+B.O. 20 DE DICIEMBRE DE 1984.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
