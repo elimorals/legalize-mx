@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-agua-del-estado-de-mexico-14161"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-10"
-last_updated: "1999-03-10"
+last_updated: "2004-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL AGUA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE OCTUBRE DE 2004.
 
 Ley publicada en la Sección Cuarte de la Gaceta del Gobierno del Estado de México, el miércoles 10 de marzo de 1999.
 
@@ -85,7 +85,7 @@ IX. Depósito o vaso: depresión natural o artificial de captación o almacenami
 
 X. Derivación: la conexión de cualquiera de los servicios a que se refiere la presente ley, de un predio a otro colindante.
 
-XI.Descarga fortuita: la acción de derramar ocasional o accidentalmente agua o cualquier otra sustancia al drenaje, cauces o corrientes de jurisdicción estatal y federal.
+XI. Descarga fortuita: la acción de derramar ocasional o accidentalmente agua o cualquier otra sustancia al drenaje, cauces o corrientes de jurisdicción estatal y federal.
 
 XII. Descarga intermitente: la acción de verter en períodos irregulares, agua o cualquier otra sustancia al drenaje, incluyendo los cauces y corrientes de jurisdicción estatal y federal.
 
@@ -521,9 +521,11 @@ En el otorgamiento de concesiones se deberá asegurar las mejores condiciones en
 
 A solicitud del ayuntamiento, la Comisión asistirá para definir las bases para otorgar las concesiones a que se refiere este capítulo, incluidos los criterios para la publicación de la convocatoria y el establecimiento de los requisitos, garantías y demás modalidades que considere necesarios.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 12 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 44.
 
-El plazo máximo de la concesión será de veinte años. El ayuntamiento podrá solicitar a la Legislatura del Estado, la prórroga de la vigencia del título de concesión, hasta por otro período similar, a fin de cumplir cabalmente con las obligaciones asumidas por este último.
+El plazo de la concesión será de hasta treinta años. El ayuntamiento podrá solicitar a la Legislatura del Estado, la prórroga de la vigencia del título de concesión, hasta por otro período similar, a fin de cumplir cabalmente con las obligaciones asumidas por este último.
 
 Los ayuntamientos podrán dar por terminadas las concesiones referidas en este capítulo, conforme a las situaciones previstas en el reglamento y en el propio título de concesión, pudiendo ser por vencimiento del plazo acordado, por terminación anticipada de común acuerdo de las partes, por rescisión arbitral o administrativa.
 
@@ -601,7 +603,7 @@ Los organismos prestadores podrán, mediante licitación pública, convocar al s
 
 ###### Artículo 56.
 
-En las bases se deberán precisar las obras a realizar, datallando las fases que comprenderá la obra, los requisitos que los interesados deben cumplir para poder concursar, así como los términos y condiciones para la selección de la empresa ganadora.
+En las bases se deberán precisar las obras a realizar, detallando las fases que comprenderá la obra, los requisitos que los interesados deben cumplir para poder concursar, así como los términos y condiciones para la selección de la empresa ganadora.
 
 En las mismas bases se anexará el modelo de contrato que va a regular la relación entre el organismo contratante y la empresa contratista.
 
@@ -921,7 +923,7 @@ El pago de cuotas y tarifas a que se refiere el presente artículo es independie
 
 ###### Artículo 100.
 
-Corresponderá a los organismos la fijación y cobro de los servicios que establece el presente capítulo. Tratándose de organismos concesionarios, la facultad de fijar la tarifa será del cabildo, o en su caso, por el organismo descetralizado que realice las funciones a que se refiere el artículo 46 de esta ley.
+Corresponderá a los organismos la fijación y cobro de los servicios que establece el presente capítulo. Tratándose de organismos concesionarios, la facultad de fijar la tarifa será del cabildo, o en su caso, por el organismo descentralizado que realice las funciones a que se refiere el artículo 46 de esta ley.
 
 Corresponde a los organismos, la autorización de las tarifas o cuotas que se cobren a los usuarios de los servicios, obras o bienes concesionados, previo acuerdo de cabildo o de su respectivo consejo directivo.
 
@@ -1039,7 +1041,7 @@ V. Resolución judicial.
 
 Los concesionarios tendrán los siguientes derechos:
 
-I. Explotar , usar o aprovechar las aguas estatales y los bienes a que se refiere el artículo 108, en los términos de la presente ley y del título de concesión respectivo;
+I. Explotar, usar o aprovechar las aguas estatales y los bienes a que se refiere el artículo 108, en los términos de la presente ley y del título de concesión respectivo;
 
 II. Realizar a su costa las obras o trabajos para ejercitar el derecho de explotación, uso o aprovechamiento del agua, en los términos de la presente ley y su reglamento;
 
@@ -1459,7 +1461,7 @@ Cuando los hechos que contravengan las disposiciones de esta ley y su reglamento
 
 ###### Artículo 152.
 
-Se entenderá por medidas de seguridad la adoptación y ejecución de acciones y disposiciones que, con apoyo en esta ley, dicten las autoridades del Gobierno del Estado o de los municipios, encaminada a evitar daños que puedan causar las instalaciones, construcciones y obras.
+Se entenderá por medidas de seguridad la adaptación y ejecución de acciones y disposiciones que, con apoyo en esta ley, dicten las autoridades del Gobierno del Estado o de los municipios, encaminada a evitar daños que puedan causar las instalaciones, construcciones y obras.
 
 ###### Artículo 153.
 
@@ -1498,3 +1500,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. ARTURO UGALDE MENESES
 
 (RUBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 12 DE OCTUBRE DE 2004.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- El presente Decreto prevalecerá sobre cualquier disposición que se oponga al mismo.
+
+CUARTO.- El Ejecutivo Estatal, a través de la Secretaría de Agua, Obra Pública e Infraestructura para el Desarrollo, deberá informar a la Legislatura del Estado a través de la Comisión de Protección Ambiental, sobre todos los actos jurídicos que celebre para dar cumplimiento a lo establecido en el presente Decreto, una vez formalizados dichos actos jurídicos.
