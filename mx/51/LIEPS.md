@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1983-12-30"
+last_updated: "1984-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIEPS"
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1984.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -232,9 +232,13 @@ Los saldos cuya devolución se solicite no podrán acreditarse en declaraciones 
 
 A.- Los productores, envasadores o importadores que a través de comisionistas, mediadores, agentes, representantes, corredores, consignatarios o distribuidores, enajenen los bienes a que se refiere el artículo 2o. de esta Ley, estarán obligados a retener el impuesto sobre la contraprestación que a éstos corresponda y enterarlo mediante declaración en las oficinas autorizadas, a más tardar el día 20 del mes siguiente a aquél en que se efectuó la retención; cuando las contraprestaciones se incluyan en el valor de la enajenación por las que se pague este impuesto, no se efectuará la retención y no se considerarán contribuyentes de este impuesto por dichas actividades.
 
-Los productores, envasadores o importadores de aguas envasadas y refrescos, así como de cigarros, podrán optar por efectuar los pagos provisionales que corresponda a los adquirentes de sus productos, sobre la diferencia entre el precio de adquisición y el de enajenación, siempre que dichas personas les comuniquen su aceptación.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
-Los contribuyentes que les sea retenido el impuesto sobre las contraprestaciones que les corresponda en los términos del primer párrafo de este artículo, así como aquellos a que se refiere el párrafo anterior, no tendrán obligación de presentar declaraciones de pago provisional, pudiendo acreditar en la declaración del ejercicio las cantidades retenidas.
+Los contribuyentes que sean productores, envasadores o importadores de los bienes a que se refiere esta Ley, deberán retener el impuesto que corresponda a sus adquirentes sobre el margen de comercialización generalmente aceptado conforme a los precios del mercado del bien de que se trate al realizarse la enajenación y enterarlo mediante declaración en las oficinas autorizadas, a más tardar el día 20 del mes siguiente a aquél en que se efectuó la retención. En los casos en que no se conozca el margen de comercialización, el retenedor considerará que dicho margen es del 35%. Cuando los adquirentes no estén obligados al pago del impuesto en los términos del artículo 8o. de la Ley, no se hará la retención, debiendo presentar el enajenante una declaración informativa sobre estas operaciones, a más tardar el día 20 del mes siguiente a aquél en que se efectuaron.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
+Los contribuyentes a los que les sea retenido el impuesto sobre las contraprestaciones que les correspondan en los términos del primer párrafo de este artículo, no tendrán obligación de presentar declaraciones de pago provisional, pudiendo acreditar en la declaración del ejercicio las cantidades retenidas. Los contribuyentes a los que se retenga el impuesto de conformidad con lo previsto en el segundo párrafo de este artículo, deberán presentar declaraciones de pago provisional en las que acreditarán las cantidades que les hubieran sido retenidas en el mes por el que se presenta la declaración.
 
 ###### ARTICULO 6o.
 
@@ -701,5 +705,35 @@ La presente Ley entrará en vigor el día 1o. de enero de 1984.
 ###### ARTICULO DECIMO SEXTO.
 
 A partir del 1o. de julio de 1984 se deroga el último párrafo del artículo 11 de la Ley del Impuesto Especial sobre Producción y Servicios.
+
+D.O.F. 31 DE DICIEMBRE DE 1984.
+
+DISPOSICIONES CON VIGENCIA DURANTE EL AÑO DE 1985
+
+###### ARTICULO DECIMO TERCERO.
+
+Durante el año de 1985 se aplicarán en materia del Impuesto Especial sobre Producción y Servicios, las siguientes disposiciones:
+
+> <small>(F. DE E., D.O.F. 4 DE MARZO DE 1985)</small>
+
+I.- Lo dispuesto en el segundo párrafo del artículo 5o.-A de la Ley no será aplicable a los contribuyentes que produzcan, envasen o importen cerveza, o los concentrados, polvos, jarabes o esencias, o extractos de sabores a que se refiere el inciso c), de la fracción I, del artículo 2o. de la Ley.
+
+II.- Para los efectos de la tasa establecida en el artículo 2o. fracción I, inciso H), subinciso 2, de la Ley del Impuesto Especial sobre Producción y Servicios, son cigarros populares sin filtro los que el 1o. de enero de 1985, tengan un precio máximo al público que no exceda de $30.00 por cajetilla de 20 cigarros.
+
+DISPOSICION CON VIGENCIA DURANTE LOS AÑOS DE 1985 Y 1986
+
+###### ARTICULO DECIMO CUARTO.
+
+Durante los años de 1985 y 1986 los productores o envasadores de agua mineral natural o con sabor que de conformidad con el Artículo 5º-A de la Ley del Impuesto Especial sobre Producción y Servicios, estén obligados a retener ese impuesto, lo harán sobre el 50% del impuesto que corresponde a los adquirentes de esos bienes durante el ejercicio fiscal de 1985, siempre que los adquirentes de esos bienes se encuentren en población distinta a aquélla en que esté ubicada la fábrica. Durante el ejercicio fiscal de 1986 las retenciones a que se refiere este párrafo serán del 75%.
+
+> <small>(F. DE E., D.O.F. 4 DE MARZO DE 1985)</small>
+
+Los contribuyentes a los que se les retenga el impuesto de conformidad con lo señalado en el párrafo anterior, deberán presentar declaración de pago provisional en la que acreditarán el impuesto que les debió haber sido retenido en los términos del segundo párrafo del artículo 5o- A de la Ley.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1985, excepto lo establecido por los Artículos Décimo y Décimo Primero que comenzarán a regir a partir del día 1o. de enero de 1986; Décimo Segundo que entrará en vigor el 1o. de julio de 1985; Vigésimo, en lo relativo a las adiciones y reformas a la Sección Cuarta, Capítulo VIII, Título I de la Ley Federal de Derechos, que regirán a partir del día 1o. de febrero de 1985; y Vigésimo Tercero que entrará en vigor el 1o. de agosto de 1985.
 
 ## TRANSITORIO
