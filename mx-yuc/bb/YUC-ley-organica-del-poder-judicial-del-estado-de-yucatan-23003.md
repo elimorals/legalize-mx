@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-judicial-del-estado-de-yucatan-23003"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-03-13"
-last_updated: "1994-12-22"
+last_updated: "1996-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE ENERO DE 1996.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 13 de marzo de 1992.
 
@@ -157,9 +157,11 @@ DE LA ORGANIZACION DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
 DE LOS MAGISTRADOS.
 
+> <small>(REFORMADO, D.O. 12 DE ENERO DE 1996)</small>
+
 ###### Artículo 13.
 
-El Tribunal Superior de Justicia se integrará por seis Magistrados denominados Primero, Segundo, Tercero, Cuarto, Quinto y Sexto; y funcionará en Pleno o en Salas, según lo determine esta Ley y las demás leyes relativas. Uno de los Magistrados será el Presidente del Tribunal. Habrá seis Magistrados suplentes y para el despacho de los asuntos tendrá un Secretario General de Acuerdos, dos Secretarios que se denominarán Primero y Segundo y los Proyectistas y demás Auxiliares que fueren necesarios.
+El Tribunal Superior de Justicia se integrará por seis Magistrados Propietarios denominados Primero, Segundo, Tercero, Cuarto, Quinto y Sexto; funcionará en Pleno o en Salas, según lo determine esta Ley y las demás relativas. Uno de los Magistrados será Presidente del Tribunal. Habrá seis Magistrados Suplentes y para el despacho de los asuntos, tendrá un Secretario General de Acuerdos, un Secretario de Acuerdos para cada una de las Salas, y los Secretarios Auxiliares, Proyectistas y demás personal que determine el presupuesto.
 
 ###### ARTICULO 14.
 
@@ -245,9 +247,11 @@ Las sesiones del Tribunal Pleno podrán ser ordinarias o extraordinarias y, en a
 
 DEL PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
+> <small>(REFORMADO, D.O. 12 DE ENERO DE 1996)</small>
+
 ###### ARTICULO 21.
 
-El Presidente del Tribunal Superior de Justicia durará en su cargo un año y podrá ser reelecto hasta por dos ocasiones para los períodos inmediatos siguientes; se elegirá por mayoría en sesión plenaria que deberá celebrarse el último día hábil del mes de Enero de cada año, debiendo tomar posesión el día primero de Febrero del propio año.
+El Presidente del Tribunal Superior de Justicia durará en su cargo dos años y podrá ser reelecto hasta por dos ocasiones para los períodos inmediatos siguientes; se elegirá por mayoría de votos en Sesión Plenaria que deberá celebrarse el primer día hábil del mes de enero del año de la elección, debiendo tomar posesión de inmediato.
 
 ###### ARTICULO 22.
 
@@ -301,15 +305,19 @@ XXII.- Las demás que le confieran las Leyes.
 
 Además de las atribuciones a que se contrae el Artículo anterior y la presente Ley, el Presidente asumirá la representación del Tribunal Superior de Justicia y será su misión principal velar porque la Administración de Justicia sea expedita, para lo cual dictará las providencias que fueron necesarias y oportunas y visitará personalmente, cuando lo estime pertinente, cualquiera de los Juzgados de Primera Instancia.
 
+> <small>(REFORMADO, D.O. 12 DE ENERO DE 1996)</small>
+
 ###### ARTICULO 24.
 
-En la falta absoluta del Presidente del Tribunal, el Pleno elegirá, de entre sus integrantes, al que lo sustituya, debiendo durar éste en el cargo, el tiempo que resta del período.
+En la falta absoluta del Presidente del Tribunal, el Pleno elegirá, de entre los demás Magistrados Propietarios al que lo sustituya, debiendo durar éste en el cargo, el tiempo que resta del período.
 
-En caso de licencia temporal del Presidente, el Pleno elegirá de entre sus integrantes al Magistrado que lo sustituya, quien fungirá durante el tiempo de la licencia, siempre que no exceda el período del encargo.
+En caso de licencia temporal del Presidente, el Pleno elegirá de entre los demás Magistrados Propietarios al que lo sustituya, quien fungirá durante el tiempo de la licencia, siempre que no exceda el período del encargo.
 
-En caso de recusación o excusa, y en las faltas accidentales, el Presidente será suplido por el Magistrado que designe el Pleno. Cuando el Presidente ejerza funciones de representación fuera de la ciudad de Mérida, sus demás atribuciones quedarán a cargo del Magistrado que designe el Pleno.
+En caso de recusación o excusa, y en las faltas accidentales, el Presidente será suplido por el que designe el Pleno de entre los demás Magistrados Propietarios. Cuando el Presidente ejerza funciones de representación fuera de Mérida, sus demás atribuciones quedarán a cargo del Magistrado que designe el Pleno.
 
-El Presidente del Tribunal puede renunciar a la Presidencia sin dimitir al cargo de Magistrado; su renuncia la presentará al Tribunal en Pleno, que procederá a nombrar al sustituto en los términos de este Artículo.
+El Presidente del Tribunal puede renunciar a la presidencia sin dimitir al cargo de Magistrado; su renuncia la presentará al Tribunal en Pleno, quien de aceptarla, procederá a nombrar al sustituto en los términos de este artículo.
+
+En caso de renuncia, o al término de su encargo el Magistrado que se hubiere desempeñado como Presidente, continuará en sus funciones integrando Sala.
 
 ### CAPITULO IV. DE LAS SALAS DEL TRIBUNAL
 
@@ -319,9 +327,11 @@ El Presidente del Tribunal puede renunciar a la Presidencia sin dimitir al cargo
 
 El Tribunal Superior de Justicia del Estado además de su ejercicio en Pleno, funcionará en dos Salas, Primera y Segunda, que actuarán colegiadamente y se integrarán por tres Magistrados denominados Primero, Segundo y Tercero de la Sala respectiva, sin perjuicio del número que les corresponda conforme al decreto de su designación. La primera Sala se integrará por los Magistrados Primero, Segundo y Quinto; la segunda Sala, por los Magistrados Tercero, Cuarto y Sexto.
 
+> <small>(REFORMADO, D.O. 12 DE ENERO DE 1996)</small>
+
 ###### ARTICULO 26.
 
-Cada Sala elegirá el primer día hábil de los meses de Febrero y Agosto, de cada año, de entre los Magistrados que la componen, un Presidente que durará en su cargo seis meses, que no podrá ser reelecto para el período inmediato siguiente.
+Cada Sala elegirá el primer día hábil de enero del año correspondiente, de entre los Magistrados que la componen, un Presidente que durará en su cargo un año y podrá ser reelecto para el período inmediato siguiente hasta por una sola vez.
 
 ###### ARTICULO 27.
 
@@ -359,13 +369,17 @@ II.- De los demás asuntos que determinen las Leyes.
 
 Las Salas sesionarán en audiencia pública, por lo menos un día hábil de cada semana y, en forma secreta, cuando fuere necesario, cualquier día hábil de la misma.
 
+> <small>(REFORMADO, D.O. 12 DE ENERO DE 1996)</small>
+
 ###### ARTICULO 32.
 
-Los asuntos de Defensa Social que se inicien del día primero al diez de cada mes corresponderán al Magistrado Primero de la Primera Sala; los que se inicien del once al veinte al Magistrado Segundo y los que se inicien del veintiuno al último día de cada mes al Magistrado Tercero. Cada uno de ellos deberá presentar sus ponencias para su discusión, votación y, en su caso, aprobación. Se entenderá como fecha de inicio la del día que se haya admitido el asunto en Primera Instancia, siempre que la segunda tenga por objeto la revisión de una sentencia definitiva; en los demás casos servirá de base la fecha de la resolución impugnada.
+Los asuntos de Defensa Social que se remitan al Tribunal Superior de Justicia serán turnados a los integrantes de la Primera Sala, para la formulación de las ponencias que deberán discutirse, votarse y en su caso aprobarse, por estricto orden numérico y equitativo a partir de la fecha de recepción del expediente respectivo en la Sala.
+
+> <small>(REFORMADO, D.O. 12 DE ENERO DE 1996)</small>
 
 ###### ARTICULO 33.
 
-Los asuntos del Orden Civil, Familiar y Mercantil que se inicien del día primero al diez de cada mes, corresponderán al Magistrado Primero de la Segunda Sala; los que se inicien del día once al veinte al Magistrado Segundo, y los que se inicien del veintiuno al último día de cada mes al Magistrado Tercero. Cada uno de ellos deberá presentar sus ponencias para su discusión, votación y, en su caso, aprobación. Se entenderá como fecha de inicio la del día en que se haya admitido el asunto en Primera Instancia, siempre que la Segunda tenga por objeto la revisión de una sentencia definitiva; en los demás casos servirá de base la fecha de la resolución impugnada.
+Los asuntos del Orden Civil, Familiar o Mercantil que se remitan al Tribunal Superior de Justicia serán turnados a los Magistrados integrantes de la Segunda Sala, para la formulación de las ponencias que deberán discutirse, votarse y en su caso aprobarse, por estricto orden numérico y equitativo a partir de la fecha de recepción del expediente correspondiente, en la Sala.
 
 ###### ARTICULO 34.
 
@@ -1328,3 +1342,17 @@ D.O. 22 DE DICIEMBRE DE 1994.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 12 DE ENERO DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Magistrado electo Presidente de conformidad con las reformas contenidas en el presente Decreto, durará en su encargo por única vez, del primero de Febrero de mil novecientos noventa y seis al treinta y uno de Diciembre de mil novecientos noventa y siete.
+
+###### ARTICULO TERCERO.
+
+Los Presidentes de las Salas del Tribunal Superior de Justicia, serán elegidos por única vez, el primer día hábil del mes de Febrero de mil novecientos noventa y seis y durarán en su encargo hasta el treinta y uno de Diciembre del propio año.
