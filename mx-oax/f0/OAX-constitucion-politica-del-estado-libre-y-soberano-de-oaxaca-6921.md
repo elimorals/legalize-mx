@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1984-11-10"
+last_updated: "1985-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 1985.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -140,6 +140,10 @@ Ni la Ley, ni las autoridades reconocerán algún pacto, convenio o contrato que
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 1943)</small>
 
 En el Estado nadie podrá desempeñar trabajos personales sin la justa retribución y sin su pleno consentimiento, salvo el trabajo impuesto como pena por la Autoridad Judicial, el cual se ajustará a lo dispuesto en las fracciones l y II del artículo 123 de la Constitución General de la República.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 1985)</small>
+
+En el ámbito territorial del Estado Libre y Soberano de Oaxaca, toda persona tiene derecho a la protección de la salud. La Ley definirá las bases y modalidades para el acceso a los servicios de salud. Establecerá la participación del Gobierno del Estado en materia de salubridad general concurrente, atendiendo a lo dispuesto por la Legislación Sanitaria Federal. Asimismo definirá la competencia del Estado y de los Municipios en materia de salubridad local.
 
 ###### ARTICULO 13.
 
@@ -1914,3 +1918,7 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 10 DE NOVIEMBRE DE 1984.
 
 UNICO.- El presente decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE MARZO DE 1985.
+
+UNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
