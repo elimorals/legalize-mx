@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-obras-publicas-del-estado-6078"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-26"
-last_updated: "1984-09-26"
+last_updated: "1992-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 21 DE ABRIL DE 1992.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 26 de septiembre de 1984.
 
@@ -67,6 +67,12 @@ I. La construcción, instalación, conservación, mantenimiento, reparación y d
 
 II. Todos aquellos de naturaleza análoga.
 
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 1992)</small>
+
+###### Artículo 2 Bis.
+
+También para los efectos de esta Ley, se entenderá por Secretaría de Planeación o de Finanzas a la Secretaría de Finanzas y Planeación; y por Contraloría a la Secretaría de la Contraloría.
+
 ###### Artículo 3.
 
 El gasto de la Obra Pública se sujetará a lo previsto en los Presupuestos Anuales de Egresos del Estado y Municipios, así como, en su caso, a las disposiciones de la Ley Orgánica del Presupuesto de Egresos y en lo conducente, a las disposiciones de esta Ley.
@@ -75,11 +81,15 @@ El gasto de la Obra Pública se sujetará a lo previsto en los Presupuestos Anua
 
 Los contratos de servicios relacionados con la Obra Pública, que celebren las Dependencias, Entidades y Ayuntamientos, estarán sujetos en lo conducente, a las disposiciones de esta Ley.
 
+(REFORMADO, P.O. 21 DE ABRIL DE 1992) (F. DE E., P.O. 4 DE MAYO DE 1992)
+
 ###### Artículo 5.
 
-La aplicación de la presente Ley corresponderá al Ejecutivo, a través de la Secretaría de Planeación y a los Ayuntamientos sin perjuicio de la intervención que corresponda a otras Dependencias del propio Ejecutivo o Ayuntamientos, conforme a éstas o a otras disposiciones legales.
+La aplicación de la presente Ley corresponderá al Ejecutivo, a través de la Secretaría de Finanzas y Planeación , de la Contraloría y a los Ayuntamientos, sin perjuicio de la intervención que corresponda a otras dependencias del propio Ejecutivo o Ayuntamientos, conforme a ésta o a otras disposiciones legales.
 
-La citada Secretaría y los Ayuntamientos dentro de sus competencias, expedirán las normas y las disposiciones administrativas que para la aplicación de la presente Ley deberán observarse en la contratación y ejecución de las obras.
+Las atribuciones conferidas a la Contraloría en esta Ley, serán ejercidas por los órganos internos de control municipal cuando las obras públicas se realicen por los Ayuntamientos y con sus propios recursos.
+
+Las citadas Secretarías y los Ayuntamientos dentro de sus competencias, expedirán las normas y las disposiciones administrativas que para la aplicación de la presente Ley deberán observarse en la contratación y ejecución de las obras.
 
 ###### Artículo 6.
 
@@ -103,9 +113,11 @@ Cuando por las condiciones especiales de la Obra se requiera la intervención de
 
 Previamente a la ejecución de las obras a que se refiere este Artículo, se deberán establecer Convenios donde se especifiquen los términos para la coordinación de las acciones de las Dependencias, Entidades o Ayuntamientos que intervengan.
 
-###### Artículo 10.
+(REFORMADO, P.O. 21 DE ABRIL DE 1992) (F. DE E., 4 DE MAYO DE 1992)
 
-El Ejecutivo, a través de la Secretaría de Planeación en coordinación con la de Desarrollo Urbano y Obras Públicas, dictará las disposiciones conforme a las cuales las Dependencias, por sí, o en su carácter de coordinadoras de Sector, así como las Entidades, vigilarán las acciones relacionadas con la Obra Pública y comprobarán sus resultados.
+###### ARTICULO 10.
+
+El Ejecutivo a través de la Contraloría en coordinación con la Secretaría de Desarrollo Urbano y Obras Públicas, dictará las disposiciones conforme a las cuales las dependencias por sí, o en su carácter de coordinadora de sector, así como las entidades vigilarán las acciones relacionadas con la obra pública y comprobarán sus resultados.
 
 ###### Artículo 11.
 
@@ -195,59 +207,33 @@ VII. Las demás previsiones que deban tomarse en consideración según la natura
 
 En el caso de Obras cuyo plazo de ejecución rebase un ejercicio presupuestal, deberá determinarse tanto el presupuesto total de la Obra, como los relativos a los ejercicios de que se trate.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE ABRIL DE 1992)</small>
+
 ### CAPITULO TERCERO. DEL PADRON DE CONTRATISTAS DE OBRAS PUBLICAS DEL ESTADO DE MEXICO
 
 ###### Artículo 18.
 
-La Secretaría de Planeación tendrá a su cargo el Padrón de Contratistas de Obras Públicas del Estado de México, fijando los criterios y procedimientos para la clasificación de las personas físicas o morales inscritas en él, de acuerdo a su especialidad y capacidad técnica y económica.
-
-La misma Secretaría hará del conocimiento de las Dependencias, Entidades, Ayuntamientos y Público en general, las personas registradas en el Padrón.
-
-Las Dependencias, Entidades y Ayuntamientos, sólo podrán celebrar Contratos de Obra Pública o de servicios relacionados con la misma, con las personas inscritas en el Padrón, cuyo registro esté vigente, con las excepciones señaladas en el Artículo 30.
-
-La clasificación a que se refiere este Artículo, deberá ser considerada por las Dependencias, Entidades y Ayuntamientos en la Convocatoria y contratación de las Obras Públicas.
+(DEROGADO, P.O. 21 DE ABRIL DE 1992)
 
 ###### Artículo 19.
 
-Las personas interesadas en registrarse en el Padrón de Contratistas de Obras Públicas del Estado, deberán solicitarlo por escrito a la Secretaría de Planeación y satisfacer los requisitos que establezca el Reglamento de esta Ley o la propia Secretaría.
-
-La vigencia del Registro en el Padrón de Contratistas de Obras Públicas, será del 1º. de Enero al 31 de Diciembre de cada año.
-
-Podrán continuar registradas en el Padrón de Contratistas de Obras Públicas, aquellas personas que presenten la solicitud respectiva y satisfagan los requisitos que establezca el Reglamento o la misma Secretaría.
+(DEROGADO, P.O. 21 DE ABRIL DE 1992)
 
 ###### Artículo 20.
 
-La Secretaría de Planeación resolverá sobre el registro o la revalidación en el Padrón de Contratistas de Obras Públicas, dentro de un término que no exceda de 30 días.
-
-Si transcurrido este plazo no se ha dado respuesta al contratista, se considerará registrado al solicitante o revalidado el registro.
+(DEROGADO, P.O. 21 DE ABRIL DE 1992)
 
 ###### Artículo 21.
 
-La Secretaría de Planeación está facultada para suspender el registro a un contratista cuando:
-
-I. Se le declare en estado de quiebra o, en su caso, esté sujeto a concurso de acreedores.
-
-II. Incurra en cualquier acto u omisión que le sea imputable y que perjudique los intereses de la Dependencia, Entidad o Ayuntamiento contratante.
-
-III. Se le declare incapacitado legalmente y en forma temporal para contratar.
-
-Cuando desaparezcan las causas que hubiesen motivado la suspensión del registro, el contratista lo acreditará ante la Secretaría, la que dispondrá lo conducente a fin de que el registro del interesado sea revalidado.
+(DEROGADO, P.O. 21 DE ABRIL DE 1992)
 
 ###### Artículo 22.
 
-La Secretaría de Planeación esta facultada para cancelar el registro de contratistas cuando.
-
-I. La información que haya proporcionado para su registro o revalidación del mismo, resultare falsa, o haya actuado con dolo o mala fe en una subasta o ejecución de una obra.
-
-II. No cumpla en sus términos con algún contrato, por causa que le sea imputable y perjudique con ello los intereses de la Dependencia, Entidad o Ayuntamiento contratante, o el interés general.
-
-III. Se declare su quiebra, fraudulenta.
-
-IV. Haya celebrado contratos en contravención con lo dispuesto en esta Ley, por causas que le sean imputables.
+(DEROGADO, P.O. 21 DE ABRIL DE 1992)
 
 ###### Artículo 23.
 
-Contra las resoluciones que nieguen el registro o revalidación, o determinen la suspensión o la cancelación del registro en el Padrón de Contratistas de Obras Públicas, el interesado podrá interponer recurso de revocación en los términos de esta Ley.
+(DEROGADO, P.O. 21 DE ABRIL DE 1992)
 
 ### CAPITULO CUARTO. DE LOS SERVICIOS RELACIONADOS CON LA OBRA PUBLICA
 
@@ -281,9 +267,11 @@ Se exceptúan de lo dispuesto en el párrafo anterior, aquellos casos en que exi
 
 Toda persona que cumpla los requisitos de la convocatoria, tendrá derecho a presentar proposiciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ABRIL DE 1992)</small>
+
 ###### Artículo 27.
 
-Las convocatorias, que podrán referirse a una o más Obras, se publicarán cuando menos en uno de los diarios de mayor circulación en el Estado y contendrán como mínimo la siguiente información:
+Las convocatorias que podrán referirse a una o más obras se publicarán cuando menos en uno de los Diarios de mayor circulación en la capital del Estado, e independientemente en uno de los Diarios Nacionales de mayor circulación en la zona conurbada del Valle de México y contendrá como mínimo la siguiente información:
 
 I. El nombre de la Dependencia, Entidad o Ayuntamiento convocante.
 
@@ -295,9 +283,15 @@ IV. El plazo para la inscripción en el concurso, que no podrá ser menor a diez
 
 V. El lugar, fecha y hora en que se llevará a cabo el acto de apertura de proposiciones.
 
-VI. La especialidad, de acuerdo al Padrón de Contratistas, que se requiera para participar en el concurso.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 1992)</small>
+
+VI.- La especialidad que se requiera para participar en el concurso;
 
 VII. La garantía que deberá otorgarse para asegurar la seriedad de la proposición.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 1992)</small>
+
+En el ejercicio de sus respectivas atribuciones, la Contraloría y la dependencia coordinadora de sector podrán intervenir en todo el proceso de adjudicación del contrato.
 
 ###### Artículo 28.
 
@@ -305,7 +299,9 @@ Cuando existan circunstancias extraordinarias, o imprevisibles por desastres pro
 
 En estos casos, las convocatorias no se publicarán, pero en lo demás quedarán sujetas a lo dispuesto en esta Ley.
 
-Las Dependencias, Entidades y Ayuntamientos, dentro de un plazo de diez días hábiles contados a partir de la fecha de iniciación de las obras, informarán este hecho a las Secretarías de Planeación y la de Desarrollo Urbano y Obras Públicas, y, en su caso, a la Dependencia Coordinadora de Sector.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 1992)</small>
+
+Las Dependencias, Entidades y Ayuntamientos, dentro de un plazo de diez días hábiles contados a partir de la fecha de iniciación de las obras, informarán de este hecho a las Secretarías de Finanzas y Planeación, de Desarrollo Urbano y Obras Públicas, Contraloría, y en su caso a la dependencia coordinadora de sector.
 
 ###### Artículo 29.
 
@@ -321,9 +317,11 @@ IV. Por las características particulares de la Obra, se advierta que ésta requ
 
 V. El contrato sólo pueda celebrarse con una determinada persona por ser ésta el Titular de la o las patentes necesarias para realizar la Obra.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ABRIL DE 1992)</small>
+
 ###### Artículo 30.
 
-Las Dependencias, Entidades y Ayuntamientos, podrán adjudicar contratos a personas que no estén registradas en el Padrón de Contratistas, sin necesidad de convocatoria pública cuando:
+Las Dependencias, Entidades y Ayuntamientos, podrán adjudicar contratos sin necesidad de convocatoria pública cuando:
 
 I. Se trate de trabajos de mantenimiento de equipos o instalaciones, o de su conservación o reparación, cuyo monto no rebase el señalado para este efecto por la Secretaría de Planeación o por los Ayuntamientos.
 
@@ -375,9 +373,15 @@ Si una vez considerados los criterios anteriores, resultare que dos o más propo
 
 El fallo se dará a conocer en una junta pública convocada para el efecto.
 
-Contra la resolución que contenga el fallo, no procederá recurso alguno.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 1992)</small>
+
+Contra la resolución que contenga el fallo, no procederá recurso alguno, pero los interesados podrán inconformarse ante la Contraloría en los términos del Artículo 49-Bis de esta Ley o ante el Ayuntamiento respectivo según corresponda.
 
 Cuando ninguna de las posturas sea aceptable, la Dependencia, Entidad o Ayuntamiento convocante declarará desierto el concurso.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 1992)</small>
+
+La resolución que contenga el fallo dictado en contravención de los requisitos establecidos en este precepto, será nula de pleno derecho.
 
 ###### Artículo 35.
 
@@ -385,7 +389,9 @@ La Dependencia, Entidad o Ayuntamiento y la persona a quien se le adjudique el c
 
 Si el interesado no firmare el contrato en el plazo establecido, perderá en favor de la convocante, la garantía que hubiere otorgado, y quedará a juicio de la Dependencia, Entidad o Ayuntamiento adjudicar el contrato al participante siguiente en los términos del artículo anterior y de su propuesta, sin necesidad de una nueva convocatoria, y así sucesivamente.
 
-La Dependencia o Entidad contratante hará del conocimiento de las Secretarías de Planeación, de la de Desarrollo Urbano y Obras Públicas y de Finanzas y, en su caso, de la Dependencia Coordinadora de Sector, la adjudicación y firma del contrato. Lo propio hará el Ayuntamiento contratante, cuando la obra se vaya a realizar con cargo total o parcial a fondos estatales.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 1992)</small>
+
+La Dependencia o Entidad contratante hará del conocimiento de las Secretarías de Finanzas y Planeación, de Desarrollo Urbano y Obras Públicas, Contraloría y, en su caso, de la dependencia coordinadora de sector, la adjudicación y firma del contrato. Lo propio hará el Ayuntamiento contratante, cuando la obra se vaya a realizar con cargo total o parcial a fondos estatales.
 
 El contratista a quien se le adjudique el contrato, no podrá hacer ejecutar la obra por otro, pero con autorización previa de la Dependencia, Entidad o Ayuntamiento contratante, podrá hacerlo respecto de parte de la obra, o cuando adquiera materiales o equipos que incluyan su instalación en la misma. En estos casos, el contratista seguirá siendo responsable de la ejecución de la obra ante la Dependencia, Entidad o Ayuntamiento, y el subcontratista no quedará subrogado en ninguno de los derechos del primero.
 
@@ -403,9 +409,11 @@ Las controversias que se susciten con motivo de los contratos celebrados o de la
 
 La ejecución de la obra contratada, deberá iniciarse en la fecha señalada en el contrato, y para tal efecto la Dependencia, Entidad o Ayuntamiento contratante, proporcionará previamente al contratista, el o los inmuebles en que deba llevarse a cabo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ABRIL DE 1992)</small>
+
 ###### Artículo 38.
 
-Las Dependencias y Entidades están obligadas a informar a las Secretarías de Planeación y a la Dependencia Coordinadora de Sector, anticipadamente el inicio, avance y conclusión de las obras que se realizan, para los efectos de sus respectivas competencias tanto si éstas se ejecutan por contrato o por Administración. Igual obligación tendrán los Organismos Auxiliares y Fideicomisos Municipales de Informar a los Ayuntamientos.
+Las Dependencias y Entidades están obligadas a informar a la Secretaría de Finanzas y Planeación, a la Contraloría y a la dependencia coordinadora de sector, anticipadamente el inicio, avance y conclusión de las obras que se realizan para los efectos de sus respectivas competencias tanto si éstas se ejecutan por contrato o por administración. Igual obligación tendrán los organismos auxiliares y fideicomisos municipales de informar a los Ayuntamientos.
 
 La misma obligación señalada en el párrafo anterior tendrán los Ayuntamientos cuando las obras que realicen se hagan con cargo total o parcial a fondos estatales.
 
@@ -433,7 +441,9 @@ Si las modificaciones exceden el porcentaje indicado en el párrafo anterior o v
 
 Las nuevas condiciones que establezcan los convenios adicionales, no podrán por ningún motivo cambiar la naturaleza y características esenciales de la obra y del propio contrato original, ni convenirse para eludir en forma alguna el cumplimiento de esta Ley.
 
-Las Dependencias y Entidades informarán de las modificaciones que se refieren los párrafos anteriores a las Secretarías de Planeación y de Desarrollo Urbano y Obras Públicas y, en su caso a la Dependencia Coordinadora de Sector, en un plazo que no excederá de diez días hábiles contados a partir de la fecha en que se hubiere formalizado la modificación.
+(REFORMADO, P.O. 21 DE ABRIL DE 1992) (F. DE E, P.O. 4 DE MAYO DE 1992)
+
+Las Dependencias y Entidades informarán de las modificaciones a que se refieren los párrafos anteriores, a las Secretarías de Finanzas y Planeación, de Desarrollo Urbano y Obras Públicas, a la Contraloría y, en su caso, a la dependencia coordinadora de sector, en un plazo que no excederá de diez días hábiles contados a partir de la fecha en que se hubiere formalizado la modificación.
 
 Los Ayuntamientos tendrán la obligación anterior respecto a las Obras que realicen con cargo total o parcial a fondos estatales.
 
@@ -449,7 +459,9 @@ Las Dependencias, Entidades y Ayuntamientos, podrán rescindir administrativamen
 
 Las Dependencias, Entidades y Ayuntamientos contratantes, comunicarán al contratista la suspensión o rescisión del contrato, dentro de los diez días hábiles siguientes a la emisión de la decisión.
 
-Las Dependencias y Entidades, dentro de los diez días hábiles siguientes a la fecha de la suspensión o rescisión del contrato lo comunicarán a las Secretarías de Planeación y de Desarrollo Urbano y Obras Públicas, a la Dependencia Coordinadora de Sector y a las demás Dependencias y Entidades que deban intervenir y tomar conocimiento de ello.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 1992)</small>
+
+Las Dependencias y Entidades, dentro de los diez días hábiles siguientes a la fecha de la suspensión o rescisión del contrato, lo comunicarán a las Secretarías de Finanzas y Planeación, de Desarrollo Urbano y Obras Públicas, a la Contraloría, a la dependencia coordinadora de sector y a las demás Dependencias y Entidades que deban intervenir y tomar conocimiento de ello.
 
 Los Ayuntamientos tendrán la misma obligación señalada en el párrafo anterior, respecto de aquellas obras que realicen con cargo total o parcial a fondos estatales.
 
@@ -461,7 +473,9 @@ Cuando durante la vigencia de un contrato ocurran cambios de orden económico no
 
 Las Dependencias, Entidades y Ayuntamientos emitirán la resolución que acuerde el aumento o reducción correspondiente.
 
-Las Dependencias y Entidades informarán de lo anterior a las Secretarías de Planeación y Desarrollo Urbano y Obras Públicas, y, en su caso, a la Dependencia Coordinadora de Sector. Los Ayuntamientos darán dicha información solamente sobre las obras que realicen con cargo total o parcial a fondos estatales.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 1992)</small>
+
+Las Dependencias y Entidades informarán de lo anterior a las Secretarías de Finanzas y Planeación, de Desarrollo Urbano y Obras Públicas, a la Contraloría y, en su caso, a la dependencia coordinadora de sector, los Ayuntamientos darán dicha información solamente sobra las obras que realicen con cargo total o parcial a fondos estatales.
 
 > <small>(F. DE E., 29 DE OCTUBRE DE 1984)</small>
 
@@ -471,7 +485,9 @@ El contratista comunicará por escrito a la Dependencia, Entidad o Ayuntamiento 
 
 Una vez verificada la terminación de los trabajos, la Dependencia, Entidad o Ayuntamiento contratante, señalará la fecha de recepción de la obra, la que quedará comprendida dentro de los veinte días hábiles siguientes a la de verificación de la terminación.
 
-Las Dependencias y Entidades informarán de esa fecha a las Secretarías de Planeación y de Desarrollo Urbano y Obras Públicas y en su caso, a la Dependencia Coordinadora de Sector, para que si éstas lo consideran conveniente, nombren un representante que asista al acto de entrega.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 1992)</small>
+
+Las Dependencias y Entidades, informarán de esa fecha a las Secretarías de Finanzas y Planeación, de Desarrollo Urbano y Obras Públicas, a la Contraloría y, en su caso, a la dependencia coordinadora de sector, para que si éstos lo consideran conveniente, nombren un representante que asista al acto de entrega.
 
 Los Ayuntamientos están obligados a dar dicha información, solamente de aquellas obras que realicen con cargo total o parcial a fondos estatales.
 
@@ -497,23 +513,63 @@ La Dependencia, Entidad o Ayuntamiento responsable de la realización de una obr
 
 Las Dependencias o Entidades bajo cuya responsabilidad que de una obra pública después de terminada, estarán obligadas a mantenerla en niveles apropiados de funcionamiento y vigilar que su uso, operación, mantenimiento y conservación se realicen conforme a los objetivos y acciones de los programas respectivos.
 
+(ADICIONADO, P.O. 21 DE ABRIL DE 1992) (F. DE E., P.O. 4 DE MAYO DE 1992)
+
+###### Artículo 49 Bis.
+
+Tratándose de licitaciones públicas los contratistas o licitantes que hubieren participado en ellas podrán inconformarse por escrito, indistintamente, ante la Dependencia o Entidad convocante, la Contraloría o ante el Ayuntamiento, dentro de los diez días naturales siguientes al fallo del concurso, o, en su caso al día siguiente a aquél en que se haya emitido el acto relativo a cualquier etapa o fase del mismo.
+
+Transcurrido dicho plazo precluye para los contratistas solicitantes el derecho a inconformarse, sin perjuicio de que las Dependencias, Entidades o la Contraloría o Ayuntamiento en su caso, puedan actuar en cualquier tiempo en los términos de los Artículos 34, 42 y 53 de esta Ley.
+
 ### CAPITULO SEXTO. DE LA INFORMACION, VERIFICACION Y CONTROL DE LAS OBRAS PUBLICAS
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ABRIL DE 1992)</small>
 
 ###### Artículo 50.
 
-Las Dependencias, Entidades y los Ayuntamientos, cuando realicen obras con cargo total o parcial a fondos estatales, deberán remitir a las Secretarías de Planeación y de Desarrollo Urbano y Obras Públicas y, en su caso, a la Dependencia Coordinadora de Sector, en la forma y términos que éstas señalen, la información relativa a las obras que realicen o contraten.
+Las Dependencias, Entidades y los Ayuntamientos, cuando realicen obras con cargo total o parcial a fondos estatales deberán remitir a las Secretarías de Finanzas y Planeación, de Desarrollo Urbano y Obras Públicas, a la Contraloría y, en su caso, a la dependencia coordinadora de sector, en la forma y términos que éstas señalen, la información relativa a las obras que realicen o contraten.
 
 Las citadas Secretarías y la Dependencia Coordinadora de Sector, podrán solicitar en cualquier momento a las Dependencias, Entidades y, en su caso, a los Ayuntamientos la documentación completa o específica relativa a cualquier obra, coordinándose en el ejercicio de estas facultades.
 
 Las Dependencias, Entidades y Ayuntamientos, conservarán en forma ordenada y sistemática, la documentación comprobatoria de los gastos que ocasionen las obras a su cargo, por lo menos durante cinco años contados a partir de la fecha de recepción de las mismas.
 
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 1992)</small>
+
+Artículo 50 BIS.- Las Secretarías de Finanzas y Planeación, de Desarrollo Urbano y Obras Públicas y la Contraloría, en el ámbito de sus respectivas atribuciones, podrán realizar las visitas e inspecciones que estimen pertinentes a las Dependencias y Entidades que realicen obra pública.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 1992)</small>
+
 ###### Artículo 51.
 
-La Secretaría de Planeación establecerá los procedimientos de información que se requieran para el seguimiento y control de gasto que realicen las Dependencias Entidadas (sic) y, en su caso, los Ayuntamientos, por concepto de adquisición de materiales, equipo, maquinaria o de cualquier otro accesorio relacionado con la Obra Pública.
+Las Dependencias y Entidades controlarán todas las fases de las obras públicas a su cargo. Para tal efecto, establecerán los medios y procedimientos de control que requieran de acuerdo a las normas que dicte el Ejecutivo del Estado a través de la Contraloría.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 1992)</small>
+
+###### Artículo 51 Bis.
+
+La Contraloría y las Dependencias coordinadoras de sector, en el ejercicio de sus respectivas facultades, podrán verificar en cualquier tiempo que las obras y los servicios relacionados con ellas se realicen conforme a lo establecido en esta Ley o en otras disposiciones aplicables y a los programas y presupuesto autorizados.
+
+(REFORMADO, P.O. 21 DE ABRIL DE 1992) (F. DE E., P.O. 4 DE MAYO DE 1992)
 
 ###### Artículo 52.
 
-Las Dependencias, Entidades y, en su caso, los Ayuntamientos, proporcionarán las facilidades necesarias a fin de que la Secretaría de Planeación y las Dependencias Coordinadoras de Sector, en el ámbito de su respectiva competencia, puedan realizar la verificación de las Obras Públicas.
+Las Dependencias, Entidades y, en su caso, los Ayuntamientos, proporcionarán las facilidades necesarias a fin de que las Secretarías de Finanzas y Planeación, la Contraloría y las dependencias coordinadoras de sector, en el ámbito de su respectiva competencia, puedan realizar la verificación de las obras públicas.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 1992)</small>
+
+###### Artículo 52 Bis.
+
+Las Dependencias, Entidades y la Contraloría, de oficio o en atención a las inconformidades a que se refiere el Artículo 49 Bis realizarán las investigaciones que correspondan, en un plazo que no excederá de 45 días naturales contados a partir de la fecha en que se inicien y resolverán lo conducente para los efectos de los Artículos 34, 42 y 53 de esta Ley.
+
+Durante la investigación de los hechos a que se refiere el párrafo anterior podrá suspenderse el cumplimiento de las obligaciones pendientes por parte de las Dependencias o Entidades.
+
+Procederá la suspensión:
+
+I.- Cuando se advierta que existen o pudieran existir las situaciones a que se refieren los Artículos 34, 42 y 53;
+
+II.- Cuando con ella no se siga perjuicio al interés social y no se contravengan disposiciones de orden público y siempre que, de cumplirse las obligaciones, pudieran producirse daños o perjuicios a la Dependencia o Entidad de que se trate.
+
+Tomada la resolución a que se refiere el primer párrafo de este artículo y sin perjuicio de la responsabilidad que proceda respecto de los servidores que hayan intervenido, las Dependencias y Entidades deberán proceder en los términos del Artículo 34 de esta Ley.
 
 ### CAPITULO SEPTIMO. DE LAS INFRACCIONES Y SANCIONES
 
@@ -525,15 +581,39 @@ Todos los actos, convenios, contratos y negocios jurídicos que realicen las Dep
 
 Los delitos y faltas que cometan los servidores públicos con motivo de la aplicación y cumplimiento de esta Ley, se sancionarán de acuerdo a lo dispuesto en el Código Penal del Estado y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios y demás Leyes y Reglamentos aplicables.
 
+(ADICIONADO, P.O. 21 DE ABRIL DE 1992) (F. DE E., P.O. 4 DE MAYO DE 1992)
+
+Los servidores públicos de las Dependencias y Entidades que en el ejercicio de sus funciones tengan conocimiento de infracciones a esta Ley o a las normas que de ella deriven, deberán comunicarlo a las autoridades que resulten competentes conforme a la Ley.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 1992)</small>
+
+La omisión a lo dispuesto en el párrafo anterior, será sancionada administrativamente en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
 ###### Artículo 55.
 
 Quienes infrinjan las disposiciones de esta Ley o las normas que con base en ella se dicten, podrán ser sancionadas por las Secretarías de Planeación y de Desarrollo Urbano y Obras Públicas y por los Ayuntamientos, según corresponda y previa audiencia, con las multas estipuladas en el Reglamento de esta Ley, mediante los procedimientos que indique el mismo o según lo que señalen las propias Secretarías y los Ayuntamientos.
 
-Sin perjuicio de lo anterior, los contratistas que incurran en infracciones a esta Ley, podrán ser sancionados con la rescisión de su contrato o, cuando proceda, con la suspensión o cancelación de su registro en el Padrón de Contratistas de Obras Públicas.
+(REFORMADO, P.O 21 DE ABRIL DE 1992) (F. DE E., P.O. 4 DE MAYO DE 1992)
+
+Sin perjuicio de lo anterior, los contratistas que incurran en infracciones a esta Ley, podrán ser sancionados con la rescisión del contrato.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 1992)</small>
+
+Cuando proceda, la Contraloría podrá proponer a la Dependencia o Entidad contratante, la rescisión administrativa del contrato.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 1992)</small>
+
+A los servidores públicos que infrinjan las disposiciones de esta Ley, la Contraloría aplicará conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, las sanciones correspondientes.
 
 ###### Artículo 56.
 
 No se impondrán sanciones cuando se haya incurrido en la infracción por causa de fuerza mayor o de caso fortuito, o cuando se observe en forma espontánea el precepto que se hubiere dejado de cumplir.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 1992)</small>
+
+###### Artículo 56 Bis.
+
+Las responsabilidades administrativas a que se refiere la presente Ley, son independientes de las de orden civil o penal que puedan derivar de la comisión de los mismos hechos.
 
 ### CAPITULO OCTAVO. DEL RECURSO ADMINISTRATIVO
 
@@ -640,3 +720,15 @@ PROCURADOR GENERAL DE JUSTICIA
 Lic. Humberto Lira Mora
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE ABRIL DE 1992.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en la Gaceta del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
