@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "1980-01-04"
+last_updated: "1980-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE OCTUBRE DE 1980.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -242,7 +242,7 @@ IX. Otras condiciones de trabajo, tales como días de descanso, vacaciones y dem
 
 ###### Artículo 26.
 
-La falta del escrito a que se refieren los artículos 24 y 25 no priva al trabajador de los derechos que deriven de las normas de trabajo y de los servicios prestados, pues se imputará el patrón la falta de esa formalidad.
+La falta del escrito a que se refieren los artículos 24 y 25 no priva al trabajador de los derechos que deriven de las normas de trabajo y de los servicios prestados, pues se imputará al patrón la falta de esa formalidad.
 
 ###### Artículo 27.
 
@@ -916,7 +916,7 @@ Para los efectos de esta Ley, se considera utilidad en cada empresa la renta gra
 
 El derecho de los trabajadores para formular objeciones a la declaración que presente el patrón a la Secretaría de Hacienda y Crédito Público, se ajustará a las normas siguientes:
 
-l. El patrón, dentro de un término de diez días contado a partir de la fecha de la presentación de su declaración anual, entregará a los trabajadores copia de la misma. Los anexos que de conformidad con las disposiciones fiscales debe presentar a la Secretaría de Hacienda y Crédito Público quedarán a disposición de los trabajadores durante un término de treinta días en las oficinas de la empresa y en la propia Secretaría.
+I. El patrón, dentro de un término de diez días contado a partir de la fecha de la presentación de su declaración anual, entregará a los trabajadores copia de la misma. Los anexos que de conformidad con las disposiciones fiscales debe presentar a la Secretaría de Hacienda y Crédito Público quedarán a disposición de los trabajadores durante un término de treinta días en las oficinas de la empresa y en la propia Secretaría.
 
 Los trabajadores no podrán poner en conocimiento de terceras personas los datos contenidos en la declaración y en sus anexos;
 
@@ -2876,7 +2876,9 @@ El patrón podrá dar por terminada la relación de trabajo sin responsabilidad,
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
 
-### CAPITULO I. Coaliciones
+### CAPITULO XVII. Trabajo en las Universidades e Instituciones de Educación Superior Autónomas por Ley
+
+> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 1980)</small>
 
 ###### Artículo 344.
 
@@ -2914,7 +2916,7 @@ II. Verificar que las propinas correspondan en su totalidad a los trabajadores; 
 
 III. Vigilar que se respeten las normas sobre jornada de trabajo.
 
-### CAPITULO II. Sindicatos, Federaciones y Confederaciones
+### CAPITULO I. Coaliciones
 
 ###### Artículo 351.
 
@@ -2930,7 +2932,7 @@ La Inspección del Trabajo vigilará el cumplimiento de las normas a que se refi
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
 
-### CAPITULO III. Contrato Colectivo de Trabajo
+### CAPITULO II. Sindicatos, Federaciones y Confederaciones
 
 ###### Artículo 353-A.
 
@@ -2970,7 +2972,7 @@ II.- Acatar las órdenes de las personas designadas para impartir el adiestramie
 
 III.- Cumplir las disposiciones internas de la Unidad Médica Receptora de Residentes de que se trate, en cuanto no contraríen las contenidas en esta Ley;
 
-IV.- Asistir a las conferencias de teoría sesiones clínicas, anatomoclínicas, clinicorradiológicas, bibliográficas y demás actividades académicas que se señalen como parte de los estudios de especialización;
+IV.- Asistir a las conferencias de teoría (sic) sesiones clínicas, anatomoclínicas, clinicorradiológicas, bibliográficas y demás actividades académicas que se señalen como parte de los estudios de especialización;
 
 V.- Permanecer en la Unidad Médica Receptora de Residentes, en los términos del artículo siguiente; y
 
@@ -3018,11 +3020,131 @@ II.- La supresión académica de estudios en la Especialidad en la rama de la Me
 
 Las disposiciones de este Capítulo no serán aplicables a aquellas personas que exclusivamente reciben cursos de capacitación o adiestramiento, como parte de su formación profesional, en las instituciones de salud.
 
-### CAPITULO IV. Contrato-Ley
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 20 DE OCTUBRE DE 1980)</small>
+
+### CAPITULO III. Contrato Colectivo de Trabajo
+
+###### Artículo 353-J.
+
+Las disposiciones de este Capítulo se aplican a las relaciones de trabajo entre los trabajadores administrativos y académicos y las universidades e instituciones de educación superior autónomas por ley y tienen por objeto conseguir el equilibrio y la justicia social en las relaciones de trabajo, de tal modo que concuerden con la autonomía, la libertad de cátedra e investigación y los fines propios de estas instituciones.
+
+> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 1980)</small>
+
+###### Artículo 353-K.
+
+Trabajador académico es la persona física que presta servicios de docencia o investigación a las universidades o instituciones a las que se refiere este Capítulo, conforme a los planes y programas establecidos por las mismas, Trabajador administrativo es la persona física que presta servicios no académicos a tales universidades o instituciones.
+
+> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 1980)</small>
+
+###### Artículo 353-L.
+
+Corresponde exclusivamente a las universidades o instituciones autónomas por ley regular los aspectos académicos.
+
+Para que un trabajador académico pueda considerarse sujeto a una relación laboral por tiempo indeterminado, además de que la tarea que realice tenga ese carácter, es necesario que sea aprobado en la evaluación académica que efectúe el órgano competente conforme a los requisitos y procedimientos que las propias universidades o instituciones establezcan.
+
+> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 1980)</small>
+
+###### Artículo 353-M.
+
+El Trabajador académico podrá ser contratado por jornada completa o media jornada. Los trabajadores académicos dedicados exclusivamente a la docencia podrán ser contratados por hora clase.
+
+> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 1980)</small>
+
+###### Artículo 353-N.
+
+No es violatorio del principio de igualdad de salarios la fijación de salarios distintos para trabajo igual si éste corresponde a diferentes categorías académicas.
+
+> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 1980)</small>
+
+###### Artículo 353
+
+Ñ. Los sindicatos y las directivas de los mismos que se constituyan en las universidades o instituciones a las que se refiere este Capítulo, únicamente estarán formados por los trabajadores que presten sus servicios en cada una de ellas y serán:
+
+I. De personal académico;
+
+II. De personal administrativo, o
+
+III. De institución si comprende a ambos tipos de trabajadores.
+
+> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 1980)</small>
+
+###### Artículo 353.
+
+F. La relación de trabajo será por tiempo determinado, no menor de un año ni mayor del período de duración de la residencia necesaria para obtener el Certificado de Especialización correspondiente, tomándose en cuenta a este último respecto las causas de rescisión señaladas en el artículo 353. G.
+
+En relación con este Capítulo, no regirá lo dispuesto por el artículo 39 de esta ley.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
+###### Artículo 353.
+
+G. Son causas especiales de rescisión de la relación de trabajo, sin responsabilidad para el patrón, además de la que establece el artículo 47, las siguientes:
+
+I. El incumplimiento de las obligaciones a que aluden las fracciones I, II, III y VI del artículo 353.D;
+
+II. La violación de las normas técnicas o administrativas necesarias para el funcionamiento de la Unidad Médica Receptora de Residentes en la que se efectúe la residencia;
+
+III. La comisión de faltas a las normas de conducta propias de la profesión médica, consignados en el Reglamento Interior de Trabajo de la Unidad Médica Receptora de Residentes.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
+###### Artículo 353.
+
+H. Son causas de terminación de la relación de trabajo, además de las que establece el artículo 53 de esta Ley:
+
+I. La conclusión del Programa de Especialización;
+
+II. La supresión académica de estudios en la Especialidad en la rama de la Medicina que interesa al Médico Residente.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1977)</small>
+
+###### Artículo 353-O.
+
+Los sindicatos a que se refiere el artículo anterior deberán registrarse en la Secretaría del Trabajo y Previsión Social o en la Junta de Conciliación y Arbitraje que corresponda, según sea federal o local la ley que creó a la universidad o institución de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 1980)</small>
+
+###### Artículo 353-P.
+
+Para los efectos de la contratación colectiva entre las universidades e instituciones y sus correspondientes sindicatos, se seguirán las reglas fijadas en el Artículo 388. Para tal efecto el sindicato de institución recibirá el tratamiento de sindicato de empresa y los sindicatos de personal académico o de personal administrativo tendrán el tratamiento de sindicato gremial.
+
+> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 1980)</small>
+
+###### Artículo 353-Q.
+
+En los contratos colectivos las disposiciones relativas a los trabajadores académicos no se extenderán a los trabajadores administrativos, ni a la inversa, salvo que así se convenga expresamente.
+
+En ningún caso estos contratos podrán establecer para el personal académico la admisión exclusiva o la separación por expulsión a que se refiere el Artículo 395.
+
+> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 1980)</small>
+
+###### Artículo 353-R.
+
+En el procedimiento de huelga el aviso para la suspensión de labores deberá darse por lo menos con diez días de anticipación a la fecha señalada para suspender el trabajo.
+
+Además de los casos previstos por el Artículo 935, antes de la suspensión de los trabajos, las partes o en su defecto la Junta de Conciliación y Arbitraje, con audiencia de aquéllas, fijarán el número indispensable de trabajadores que deban continuar trabajando para que sigan ejecutándose las labores cuya suspensión pueda perjudicar irreparablemente la buena marcha de una investigación o un experimento en curso.
+
+> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 1980)</small>
+
+###### Artículo 353-S.
+
+En las Juntas de Conciliación y Arbitraje o las de Conciliación Permanentes, funcionarán Juntas Especiales que conocerán de los asuntos laborales de las universidades e instituciones de educación superior autónomas por Ley y se integrarán con el presidente respectivo, el representante de cada universidad o institución y el representante de sus trabajadores académicos o administrativos que corresponda.
+
+> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 1980)</small>
+
+###### Artículo 353-T.
+
+Para los efectos del artículo anterior, la autoridad competente expedirá la convocatoria respectiva, estableciendo en ella que cada universidad o institución nombrará su representante, y que deberán celebrarse sendas convenciones para la elección de representantes de los correspondientes trabajadores académicos o administrativos.
+
+> <small>(ADICIONADO, D.O.F. 20 DE OCTUBRE DE 1980)</small>
+
+###### Artículo 353-U.
+
+Los trabajadores de las universidades e instituciones a las que se refiere este Capítulo disfrutarán de sistemas de seguridad social en los términos de sus leyes orgánicas, o conforme a los acuerdos que con base en ellas se celebren. Estas prestaciones nunca podrán ser inferiores a los mínimos establecidos por la Constitución Política de los Estados Unidos Mexicanos y esta Ley.
 
 ## TITULO SEPTIMO. Relaciones Colectivas de Trabajo
 
-### CAPITULO V. Reglamento Interior de Trabajo
+### CAPITULO IV. Contrato-Ley
 
 ###### Artículo 354.
 
@@ -3032,7 +3154,7 @@ La Ley reconoce la libertad de coalición de trabajadores y patrones.
 
 Coalición es el acuerdo temporal de un grupo de trabajadores o de patrones para la defensa de sus intereses comunes.
 
-### CAPITULO VI. Modificación Colectiva de las Condiciones de Trabajo
+### CAPITULO V. Reglamento Interior de Trabajo
 
 ###### Artículo 356.
 
@@ -3290,7 +3412,7 @@ IV. Copia autorizada del acta de la asamblea en que se haya elegido la directiva
 
 La documentación se autorizará de conformidad con lo dispuesto en el párrafo final del artículo 365.
 
-### CAPITULO VII. Suspensión Colectiva de las Relaciones de Trabajo
+### CAPITULO VI. Modificación Colectiva de las Condiciones de Trabajo
 
 ###### Artículo 386.
 
@@ -3432,7 +3554,7 @@ Si firmado un contrato colectivo, un patrón se separa del sindicato que lo cele
 
 En los casos de disolución del sindicato de trabajadores titular del contrato colectivo o de terminación de éste, las condiciones de trabajo continuarán vigentes en la empresa o establecimiento.
 
-### CAPITULO VIII. Terminación Colectiva de las Relaciones de Trabajo
+### CAPITULO VII. Suspensión Colectiva de las Relaciones de Trabajo
 
 ###### Artículo 404.
 
@@ -3560,9 +3682,7 @@ I. Por mutuo consentimiento de las partes que representen la mayoría a que se r
 
 II. Si al concluir el procedimiento de revisión, los sindicatos de trabajadores y los patrones no llegan a un convenio, salvo que aquéllos ejerciten el derecho de huelga.
 
-### CAPITULO I
-
-Disposiciones Generales.
+### CAPITULO VIII. Terminación Colectiva de las Relaciones de Trabajo
 
 ###### Artículo 422.
 
@@ -3614,7 +3734,9 @@ IV. Los trabajadores o el patrón, en cualquier tiempo, podrán solicitar de la 
 
 El reglamento surtirá efectos a partir de la fecha de su depósito. Deberá imprimirse y repartirse entre los trabajadores y se fijará en los lugares más visibles del establecimiento.
 
-### CAPITULO II. Objetivos y Procedimientos de Huelga
+### CAPITULO I
+
+Disposiciones Generales.
 
 ###### Artículo 426.
 
@@ -3626,7 +3748,7 @@ II. Cuando el aumento del costo de la vida origine un desequilibrio entre el cap
 
 La solicitud se ajustará a lo dispuesto en los artículos 398 y 419, fracción I, y se tramitará de conformidad con las disposiciones para conflictos colectivos de naturaleza económica.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO II. Objetivos y Procedimientos de Huelga
 
 ###### Artículo 427.
 
@@ -3672,9 +3794,7 @@ El patrón deberá anunciar con toda oportunidad la fecha de reanudación de los
 
 Si el patrón no cumple las obligaciones consignadas en el párrafo anterior, los trabajadores podrán ejercitar las acciones a que se refiere el artículo 48.
 
-### CAPITULO II. Competencia Constitucional de las Autoridades del Trabajo
-
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+### CAPITULO I. Disposiciones Generales
 
 ###### Artículo 433.
 
@@ -3724,7 +3844,9 @@ Cuando se trate de la implantación de maquinaria o de procedimientos de trabajo
 
 ## TITULO OCTAVO. Huelgas
 
-### CAPITULO III. Procuraduría de la Defensa del Trabajo
+### CAPITULO II. Competencia Constitucional de las Autoridades del Trabajo
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 ###### Artículo 440.
 
@@ -3772,9 +3894,7 @@ No es aplicable lo dispuesto en el párrafo anterior cuando la huelga tenga por 
 
 La Junta de Conciliación y Arbitraje y las autoridades civiles correspondientes deberán hacer respetar el derecho de huelga, dando a los trabajadores las garantías necesarias y prestándoles el auxilio que soliciten para suspender el trabajo.
 
-### CAPITULO IV. Del Servicio Nacional del Empleo, Capacitación y Adiestramiento
-
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
+### CAPITULO III. Procuraduría de la Defensa del Trabajo
 
 ###### Artículo 450.
 
@@ -4336,7 +4456,9 @@ TITULO ONCE
 
 Autoridades del Trabajo y Servicios Sociales
 
-### CAPITULO V. Inspección del Trabajo
+### CAPITULO IV. Del Servicio Nacional del Empleo, Capacitación y Adiestramiento
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 1978)</small>
 
 ###### Artículo 523.
 
@@ -4382,7 +4504,7 @@ La Secretaría del Trabajo y Previsión Social organizará un Instituto del Trab
 
 Compete a la Secretaría de Hacienda y Crédito Público, la intervención que le señala el Título Tercero, Capítulo VIII, y a la Secretaría de Educación Pública, la vigilancia del cumplimiento de las obligaciones que esta Ley impone a los patrones en materia educativa e intervenir coordinadamente con la Secretaría del Trabajo y Previsión Social, en la capacitación y adiestramiento de los trabajadores, de acuerdo con lo dispuesto en el Capítulo IV de este Título.
 
-### CAPITULO VI. Comisión Nacional de los Salarios Mínimos
+### CAPITULO V. Inspección del Trabajo
 
 ###### Artículo 527.
 
@@ -4476,7 +4598,7 @@ VI.- Auxiliar en la realización de los trámites relativos a constancias de hab
 
 VII.- Previa determinación general o solicitud específica de las autoridades federales, adoptar aquellas otras medidas que resulten necesarias para auxiliarlas en los aspectos concernientes a tal determinación o solicitud.
 
-### CAPITULO VII. Comisiones Regionales de los Salarios Mínimos
+### CAPITULO VI. Comisión Nacional de los Salarios Mínimos
 
 ###### Artículo 530.
 
@@ -4526,9 +4648,7 @@ Los reglamentos determinarán las atribuciones, la forma de su ejercicio y los d
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE ABRIL DE 1978)</small>
 
-### CAPITULO VIII. Procedimiento ante las Comisiones Nacional y Regionales de los Salarios Mínimos
-
-> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
+### CAPITULO VII. Comisiones Regionales de los Salarios Mínimos
 
 ###### Artículo 537.
 
@@ -4662,7 +4782,9 @@ Las autorizaciones para el funcionamiento de agencias de colocaciones, con fines
 
 Dichas autorizaciones se otorgarán previa solicitud del interesado, cuando a juicio de la Secretaría del Trabajo y Previsión Social se justifique la prestación del servicio por particulares y una vez que se satisfagan los requisitos que al efecto se señalen. En estos casos, de acuerdo con lo establecido en el artículo 539-D, el servicio deberá ser gratuito para los trabajadores y las tarifas conforme a las cuales se presten, deberán ser previamente fijadas por la Secretaría del Trabajo y Previsión Social.
 
-### CAPITULO IX. Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas
+### CAPITULO VIII. Procedimiento ante las Comisiones Nacional y Regionales de los Salarios Mínimos
+
+> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
 
 ###### Artículo 540.
 
@@ -4790,7 +4912,7 @@ III. Cuando a juicio del Director General la sanción aplicable sea la destituci
 
 Los reglamentos determinarán las atribuciones, la forma de su ejercicio y los deberes de la Inspección del Trabajo.
 
-### CAPITULO X. Juntas Federales de Conciliación
+### CAPITULO IX. Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas
 
 ###### Artículo 551.
 
@@ -4964,9 +5086,7 @@ III. Actuar como Secretario del Consejo de Representantes; y
 
 IV. Los demás que le confieran las leyes.
 
-### CAPITULO XI. Juntas Locales de Conciliación
-
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+### CAPITULO X. Juntas Federales de Conciliación
 
 ###### Artículo 564.
 
@@ -5010,7 +5130,9 @@ V. Informar a la Comisión Nacional, cada quince días, del desarrollo de sus tr
 
 VI. Los demás que les confieran las leyes.
 
-### CAPITULO XII. Junta Federal de Conciliación y Arbitraje
+### CAPITULO XI. Juntas Locales de Conciliación
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
 ###### Artículo 570.
 
@@ -5074,7 +5196,7 @@ III. Las decisiones se tomarán por mayoría de votos de los miembros presentes.
 
 IV. De cada sesión se levantará un acta, que suscribirán el Presidente y el Secretario.
 
-### CAPITULO XIII. Juntas Locales de Conciliación y Arbitraje
+### CAPITULO XII. Junta Federal de Conciliación y Arbitraje
 
 ###### Artículo 575.
 
@@ -5230,11 +5352,11 @@ Los sindicatos, federaciones y confederaciones de trabajadores o los patrones, n
 
 En los procedimientos a que se refiere este capítulo se observarán las normas contenidas en el artículo 574.
 
+### CAPITULO XIII. Juntas Locales de Conciliación y Arbitraje
+
 ### CAPITULO I. Representantes de los Trabajadores y de los Patrones en las Juntas Federal y Locales de Conciliación y Arbitraje y en las Juntas de Conciliación Permanentes
 
 ### CAPITULO II. Representantes de los Trabajadores y de los Patrones en las Comisiones Nacional y Regionales de los Salarios Mínimos
-
-### CAPITULO III. Representantes de los Trabajadores y de los Patrones en la Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas
 
 ###### Artículo 591.
 
@@ -5336,9 +5458,7 @@ VII.- De ser procedente, aprobar los convenios que les sean sometidos por las pa
 
 VIII. Las demás que les confieran las leyes.
 
-### CAPITULO I. Principios Procesales
-
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
+### CAPITULO III. Representantes de los Trabajadores y de los Patrones en la Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas
 
 ###### Artículo 601.
 
@@ -5352,9 +5472,9 @@ No funcionarán las Juntas de Conciliación en los Municipios o zonas económica
 
 Son aplicables a las Juntas Locales de Conciliación las disposiciones contenidas en el capítulo anterior. Las atribuciones asignadas a la Secretaría del Trabajo y Previsión Social se ejercerán por los Gobiernos de los Estados y Territorios.
 
-### CAPITULO II. De la Capacidad y Personalidad
+### CAPITULO I. Principios Procesales
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 604.
 
@@ -5556,7 +5676,7 @@ d) En los casos de empate, el voto del o de los representantes ausentes se sumar
 
 III. Para la audiencia de discusión y votación del laudo, será necesaria la presencia del Presidente o Presidente Especial y del cincuenta por ciento de los representantes de los trabajadores y de los patrones, por lo menos. Si concurre menos del cincuenta por ciento, el Presidente señalará nuevo día y hora para que se celebre la audiencia; si tampoco se reúne la mayoría, se citará a los suplentes, quedando excluidos los faltistas del conocimiento del negocio. Si tampoco concurren los suplentes, el Presidente de la Junta o el de la Junta Especial, dará cuenta al Secretario del Trabajo y Previsión Social, para que designe las personas que los substituyan. En caso de empate, los votos de los ausentes se sumarán al del Presidente.
 
-### CAPITULO III. De las Competencias
+### CAPITULO II. De la Capacidad y Personalidad
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -5750,7 +5870,7 @@ III. No informar oportunamente al Presidente de la Junta de la conducta irregula
 
 > <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1974)</small>
 
-IV. No denunciar al Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que hubiera sido condenado por laudo definitivo al pago del salario mínimo general o las diferencias que aquél hubiera dejado de cubrir, a uno o varios de sus trabajadores.
+IV.- No denunciar al Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que hubiera sido condenado por laudo definitivo al pago del salario mínimo general o las diferencias que aquél hubiera dejado de cubrir, a uno o varios de sus trabajadores.
 
 V. Las demás que establezcan las leyes.
 
@@ -5802,7 +5922,7 @@ TITULO TRECE
 
 Representantes de los Trabajadores y de los Patrones
 
-### CAPITULO IV. De los Impedimentos y Excusas
+### CAPITULO III. De las Competencias
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -6084,7 +6204,7 @@ V. El acusado podrá ofrecer las pruebas que juzgue conveniente; y
 
 VI. Terminada la recepción de las pruebas, el Jurado escuchará los alegatos y dictará resolución, comunicándola, si fuese condenatoria, a la Autoridad a la que corresponda decretar la destitución.
 
-### CAPITULO V. De la Actuación de las Juntas
+### CAPITULO IV. De los Impedimentos y Excusas
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -6126,7 +6246,7 @@ Tienen derecho a participar en la elección los sindicatos de trabajadores y de 
 
 El Secretario del Trabajo y Previsión Social podrá delegar en las autoridades de las Entidades Federativas, total o parcialmente, las atribuciones que le corresponden en la certificación de padrones y credenciales y en el funcionamiento de las convenciones.
 
-### CAPITULO VI. De los Términos Procesales
+### CAPITULO V. De la Actuación de las Juntas
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -6150,6 +6270,10 @@ Derecho Procesal del Trabajo
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
+### CAPITULO VI. De los Términos Procesales
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
 ### CAPITULO VII. De las Notificaciones
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
@@ -6159,10 +6283,6 @@ Derecho Procesal del Trabajo
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ### CAPITULO IX. De los Incidentes
-
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
-
-### CAPITULO X. De la Acumulación
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -6194,7 +6314,7 @@ Las autoridades administrativas y judiciales, están obligadas, dentro de la esf
 
 > <small>(REFORMADA Y REUBICADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XI. De la Continuación del Proceso y de la Caducidad
+### CAPITULO X. De la Acumulación
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -6266,9 +6386,9 @@ El representante común tendrá los derechos, obligaciones y responsabilidad inh
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XII. De las Pruebas
+### CAPITULO XI. De la Continuación del Proceso y de la Caducidad
 
-> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 698.
 
@@ -6366,9 +6486,9 @@ Será nulo todo lo actuado ante la Junta incompetente, salvo el acto de admisió
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XIII. De las Resoluciones Laborales
+### CAPITULO XII. De las Pruebas
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 707.
 
@@ -6440,7 +6560,7 @@ El procedimiento no se suspenderá mientras se tramite la excusa salvo disposici
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XIV. De la Revisión de los Actos de Ejecución
+### CAPITULO XIII. De las Resoluciones Laborales
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -6588,7 +6708,7 @@ Las correcciones disciplinarias y medios de apremio se impondrán de plano, sin 
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XV. De las Providencias Cautelares
+### CAPITULO XIV. De la Revisión de los Actos de Ejecución
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -6628,7 +6748,7 @@ Transcurridos los términos fijados a las partes, se tendrá por perdido su dere
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XVI. Procedimientos Ante las Juntas de Conciliación
+### CAPITULO XV. De las Providencias Cautelares
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -6776,9 +6896,7 @@ Son nulas las notificaciones que no se practiquen de conformidad a lo dispuesto 
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XVII
-
-Procedimiento Ordinario Ante las Juntas de Conciliación y Arbitraje.
+### CAPITULO XVI. Procedimientos Ante las Juntas de Conciliación
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -6838,9 +6956,11 @@ El oferente devolverá el exhorto diligenciado bajo su más estricta responsabil
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XVIII. De los Procedimientos Especiales
+### CAPITULO XVII
 
-(ADICIONADO, D.O.F. 4 DE ENERO DE 1980) (F. DE E., D.O.F. 30 DE ENERO DE 1980)
+Procedimiento Ordinario Ante las Juntas de Conciliación y Arbitraje.
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 761.
 
@@ -6882,9 +7002,9 @@ Los incidentes que no tengan señalada una tramitación especial en esta Ley, se
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XIX. Procedimientos de los Conflictos Colectivos de Naturaleza Económica
+### CAPITULO XVIII. De los Procedimientos Especiales
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+(ADICIONADO, D.O.F. 4 DE ENERO DE 1980) (F. DE E., D.O.F. 30 DE ENERO DE 1980)
 
 ###### Artículo 766.
 
@@ -6930,7 +7050,7 @@ Será competente para conocer de la acumulación la Junta de Conciliación y Arb
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO XX. Procedimiento de Huelga
+### CAPITULO XIX. Procedimientos de los Conflictos Colectivos de Naturaleza Económica
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -6970,9 +7090,9 @@ Reunidos los requisitos a que se refieren los artículos que anteceden, cesará 
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO I
+### CAPITULO XX. Procedimiento de Huelga
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 #### Sección Primera. Reglas Generales
 
@@ -7530,7 +7650,7 @@ La Junta estará obligada a tomar en cuenta las actuaciones que obren en el expe
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO II. Procedimiento de las tercerías y preferencias de crédito
+### CAPITULO I
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -7640,9 +7760,9 @@ Las partes pueden exigir la responsabilidad en que incurran los miembros de la J
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
-### CAPITULO III. Procedimientos paraprocesales o voluntarios
+### CAPITULO II. Procedimiento de las tercerías y preferencias de crédito
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 849.
 
@@ -7711,6 +7831,10 @@ De resultar procedente la reclamación, se modificará en lo que procede la medi
 Los Presidentes de las Juntas, podrán imponer a la parte que promueva la revisión o la reclamación notoriamente improcedente, una multa de dos a siete veces el salario mínimo general que rija en el lugar y tiempo en que se cometió la violación.
 
 Se entenderá que es notoriamente improcedente cuando a juicio de su Presidente, según el caso, aparezca que se promueva con el propósito de demorar o entorpecer la administración de justicia.
+
+> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+
+### CAPITULO III. Procedimientos paraprocesales o voluntarios
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -9329,3 +9453,13 @@ D.O.F. 4 DE ENERO DE 1980.
 PRIMERO.- El presente Decreto entrará en vigor el día primero de mayo de 1980.
 
 SEGUNDO.- Los juicios que se hayan iniciado con anterioridad a la vigencia de este Decreto, continuarán su trámite conforme a las disposiciones anteriores.
+
+D.O.F. 20 DE OCTUBRE DE 1980.
+
+PRIMERO.- Los acuerdos o convenios que de conformidad con esta ley sean materia de contratación colectiva, y hayan sido celebrados con anterioridad a la fecha de expedición de este Decreto por las instituciones autónomas, se considerarán como contratos colectivos para todos sus efectos, sin necesidad de ningún trámite, y serán revisados conforme a esta ley en la fecha que se haya pactado en los mismos, la cual no podrá ser posterior a dos años a partir de aquella en la que iniciaron su vigencia.
+
+SEGUNDO.- La convocatoria para la elección de los representantes a que se refiere el artículo 353-T, se llevará acabo dentro de los treinta días siguientes a la fecha de publicación del presente Decreto. En la misma se fijará la fecha en que se efectuarán las convenciones respectivas que será anterior al 15 de diciembre de 1980 y se señalará que los representantes que resulten electos durarán en su cargo hasta el 31 de diciembre de 1982. A partir de esa fecha la designación de representantes se efectuará conforme a las disposiciones generales de la Ley.
+
+Mientras se lleve acabo el procedimiento de elección de representantes, los asuntos seguirán siendo atendidos por las autoridades jurisdiccionales que han venido conociendo de ellos.
+
+TERCERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
