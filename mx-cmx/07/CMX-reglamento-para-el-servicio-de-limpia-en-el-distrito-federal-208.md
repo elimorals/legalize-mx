@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-servicio-de-limpia-en-el-distrito-federal-20
 country: "mx"
 rank: "reglamento"
 publication_date: "1989-08-14"
-last_updated: "1989-08-14"
+last_updated: "2003-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=208&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,13 +22,15 @@ issue_date: "1989-07-06"
 
 REGLAMENTO PARA EL SERVICIO DE LIMPIA EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESIDUOS SOLIDOS DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 22 DE ABRIL DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO, PERMANECIENDO VIGENTE EN TODO LO QUE NO SE OPONGA A LA MENCIONADA LEY Y EN TANTO EL GOBIERNO DEL DISTRITO FEDERAL EXPIDE EL REGLAMENTO CORRESPONDIENTE DE LA MISMA.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE ABRIL DE 2003.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 14 de agosto de 1989.
 
 > <small>(F. DE E., G.O. 23 DE OCTUBRE DE 1989)</small>
 
-La Asamblea de Representantes del Distrito Federal, en ejercicio de la facultad que le confiere el artículo 73, fracción VI, base 3a. inciso A) de la Constitución Política de los Estados Unidos Mexicanos, expide:
+La Asamblea de Representantes del Distrito Federal, en ejercicio de la facultad que le confiere el artículo 73, fracción VI, base 3a., inciso a) de la Constitución Política de los Estados Unidos Mexicanos, expide:
 
 REGLAMENTO PARA EL SERVICIO DE LIMPIA EN EL DISTRITO FEDERAL
 
@@ -52,7 +54,7 @@ II.- Delegación: Las Delegaciones del Departamento del Distrito Federal;
 
 III.- Reglamento: El presente Ordenamiento;
 
-IV.- Residuo sólido: El material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control y tratamiento de cualquier producto, cuya calidad no permite usarlo nuevamente en el proceso que lo generó; que no esté considerado como residuo peligroso de acuerdo a la normatividad emitida oficialmente por la Secretaría de Desarrollo Urbano y Ecología, y que provenga de actividades que se desarrollen en domicilios, mercados, establecimientos mercantiles, industrias, vías públicas y áreas comunes, y
+IV.- Residuo Sólido: El material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control y tratamiento de cualquier producto, cuya calidad no permite usarlo nuevamente en el proceso que lo generó; que no esté considerado como residuo peligroso de acuerdo a la normatividad emitida oficialmente por la Secretaría de Desarrollo Urbano y Ecología, y que provenga de actividades que se desarrollen en domicilios, mercados, establecimientos mercantiles, industrias, vías públicas y áreas comunes, y
 
 V.- Areas comunes: Son los espacios de convivencia y uso general de los vecinos del Distrito Federal.
 
@@ -70,7 +72,7 @@ II.- Aplicar las normas técnicas ecológicas vigentes para la recolección, tra
 
 III.- Dar mantenimiento a los contenedores;
 
-IV.- Concertar con los medios de comunicación masiva y con los sectores social y privado, en coordinación con la Secretaría de Desarrollo Urbano y Ecología, la realización de campañas de limpieza. Podrá participar en dichas campañas la Asamblea de Representantes del Distrito Federal;
+IV.- Concertar con los medios de comunicación masiva y con los sectores social y privado, en coordinación con la Secretaría de Desarrollo Urbano y Ecología, la realización de campañas la Asamblea de Representantes del Distrito Federal;
 
 V.- Diseñar, construir y operar directamente o bajo el régimen de concesión, estaciones de transferencia, plantas de tratamiento de residuos sólidos y sitios de disposición final, y
 
@@ -98,41 +100,41 @@ VIII.- Las demás que en la materia le otorguen el Reglamento y otros ordenamien
 
 ###### ARTICULO 7o.
 
-El cargo de Inspector Honorario será de servicio social, y lo cumplirá el vecino a quien se le confirió en los horarios que les resulten más convenientes. Ya que su función no será considerada como administrativa, no percibirán remuneración alguna y en ningún caso podrán aplicar sanciones ni intervenir directamente con carácter ejecutivo en la aplicación de este Reglamento.
+El cargo de Inspector Honorario será de servicio social, y lo cumplirá el vecino a quien se le confirió en los horarios que les resulten más convenientes, ya que su función no será considerada como administrativa, no percibirán remuneración alguna y en ningún caso podrán aplicar sanciones ni intervenir directamente con carácter ejecutivo en la aplicación de este Reglamento.
 
 ###### ARTICULO 8o.
 
 Corresponde a los inspectores Honorarios:
 
-I.- Informar a la Delegación sobre la existencia de sitios no autorizados en los que se depositen residuos sólidos, a efecto que se tomen las medidas pertinentes para su recolección, ya sea instalando nuevos depósitos, ampliando los existentes, colocando contenedores, modificando las fechas y honorarios de recolección u orientando a la población sobre la ubicación de los sitios de depósito autorizados;
+I.- Informar a la Delegación sobre la existencia de sitios no autorizados en los que se depositen residuos sólidos, a efecto que se tomen las medidas pertinentes para su recolección, ya sea instalando nuevos depósitos, ampliando los existentes, colocando con tenedores, modificando las fechas y honorarios de recolección u orientando a la población sobre la ubicación de los sitios de depósito autorizados;
 
 II.- Comunicar a la Delegación los nombres o manera de identificar a las personas que en forma reiterada depositen residuos sólidos en sitios no autorizados. La Delegación verificará en todos los casos la veracidad de esa información;
 
 III.- Informar a la Delegación de cualquier violación a las normas de este Reglamento para que se tomen las medidas que correspondan, y
 
-IV.- Informar a la Delegación sobre las deficiencias o carencias del servicio.
+IV.- Informar a la Delegación sobre las deficiencias o carencia del servicio.
 
 ###### ARTICULO 9o.
 
 Los contenedores de residuos sólidos, depósitos metálicos o similares a que se refiere la fracción IV del Artículo 6o. de este Reglamento, deberán cumplir con lo siguiente:
 
-I.- Que su capacidad esté en relación con la cantidad de residuos sólidos que deba contener, atendiendo a la superficie asignada y tomando en cuenta las necesidades del caso;
+I.- Que su capacidad esté en relación con la cantidad de residuos sólidos que deba contener, atendiendo a la superficie asignada y tomando en cuenta las necesidades del caso,
 
 II.- Que su construcción sea de material resistente;
 
 III.- Que sean revisados y aseados regularmente para un adecuado mantenimiento, a fin de que no se favorezca la procreación de fauna nociva y de microorganismos perjudiciales para la salud, así como evitar la emisión de olores desagradables, y
 
-IV.- Deberán tener la inscripción alusiva a su uso y podrán contener, además, propaganda comercial y del servicio de limpia, cuando sea autorizado por concesiones otorgadas por el Ejecutivo Federal a través del Departamento.
+IV.- Deberán tener la inscripción alusiva a su uso y podrán contener, además propaganda comercial y del servicio de limpia, cuando sea autorizado por concesiones otorgadas por el Ejecutivo Federal a través del Departamento.
 
 ###### ARTICULO 10.
 
 El servicio de recolección de residuos sólidos domiciliarios será gratuito.
 
-I.- En el caso de eI.- En el caso de establecimientos mercantiles, industriales o similares cuyo volumen de residuos sólidos generados por día, sea superior a 200 kg., los propietarios, poseedores o administradores podrán convenir con la Delegación correspondiente la recolección y transporte de dichos residuos, cubriendo los derechos que para el efecto establezca la Ley de Hacienda del Departamento del Distrito Federal.
+I.- En el caso de establecimientos mercantiles, industriales o similares cuyo volumen de residuos sólidos generados por día, sea superior a 200 Kg., los propietarios, poseedores o administradores podrán convenir con la Delegación correspondiente la recolección y transporte de dichos residuos, cubriendo los derechos que para el efecto establezca la Ley de Hacienda del Departamento del Distrito Federal.
 
 II.- En el supuesto de que no se convenga en los términos señalados en la fracción anterior, los propietarios, poseedores o administradores deberán sufragar los costos de recolección y transporte de los residuos sólidos, a los lugares que determine la Delegación respectiva, debiendo observar las condiciones de higiene que establezcan las disposiciones sanitarias aplicables.
 
-Los usuarios procuraran separar los desechos sólidos en orgánicos e inorgánicos, de conformidad con el procedimiento que al efecto emita el Departamento.
+Los usuarios procuraran separar los desechos sólidos en orgánicos e inorgánicos, de conformidad con le procedimiento que al efecto emita el Departamento.
 
 ### CAPITULO II. De la prestación del servicio público de limpia
 
@@ -140,15 +142,15 @@ Los usuarios procuraran separar los desechos sólidos en orgánicos e inorgánic
 
 El servicio de limpia comprende:
 
-I.- El barrido de vías públicas y áreas comunes:
+I.- El barrido de vías públicas y áreas comunes,
 
-II.- La recolección de residuos sólidos, y
+II.- La recolección de residuos sólidos y
 
 III.- El diseño, instrumentación y operación de sistemas de almacenamiento, transporte, reuso, tratamiento y disposición final de dichos residuos.
 
 ###### ARTICULO 12.
 
-El barrido de vías públicas y áreas comunes se hará por lo menos tres veces por semana, conforme a los horarios que señale el Departamento, los cuales deberán fijarse preferentemente entre las 22:00 horas y 14:00 horas del día siguiente.
+El barrido de vías públicas y áreas comunes se hará por lo menos tres veces por semana, conforme a los horarios que señale el departamento, los cuales deberán fijarse preferentemente entre las 22:00 horas y 14:00 horas del día siguiente.
 
 ###### ARTICULO 13.
 
@@ -176,11 +178,11 @@ Las actividades de selección de subproductos, sólo se realizará en los sitios
 
 ###### ARTICULO 18.
 
-Cuando por razones de orden económico y de interés general, los residuos sólidos puedan ser aprovechados industrialmente, el aprovechamiento quedará sujeto a las disposiciones legales vigentes, previo el otorgamiento de la concesión respectiva, la cual autorizará construcciones, procesos y procedimientos que no afecten el ambiente ni la salud pública.
+Cuando por razones de orden económico y de interés general; los residuos sólidos puedan ser aprovechados industrialmente, el aprovechamiento quedará sujeto a las disposiciones legales vigentes previo el otorgamiento de la concesión respectiva, la cual autorizará construcciones, procesos y procedimientos que no afecten el ambiente ni la salud pública.
 
 ###### ARTICULO 19.
 
-Para el servicio de limpia del Distrito Federal se adoptará un distintivo general aprobado por el Departamento y se usará en todos los equipos.
+Para el servicio de limpia del Distrito federal se adoptará un distintivo general aprobado por el departamento y se usará en todos los equipos.
 
 ###### ARTICULO 20.
 
@@ -232,11 +234,11 @@ Los propietarios o encargados de establecimientos y talleres para la reparación
 
 ###### ARTICULO 30.
 
-Los propietarios o encargados de los expendios o bodegas de carbón o leña, están obligados a mantener en perfecto estado de aseo el frente de sus establecimientos, así como evitar la propagación de polvo o residuos sólidos, poniendo especial cuidado en las maniobras de carga, descarga y despacho de dichos combustibles.
+Los propietarios o encargados de los expendios o bodegas de carbón o leña, están obligados mantener en perfecto estado de aseo el frente de sus establecimientos, así como evitar la propagación del polvo o residuos sólidos, poniendo especial cuidado en las maniobras de carga, descarga o despacho de dichos combustibles.
 
 ###### ARTICULO 31.
 
-Los propietarios, directores responsables de obra, contratistas y encargados de inmuebles en construcción o demolición, son responsables solidariamente de la diseminación de materiales, escombros y cualquier otra clase de residuos sólidos. El frente de las construcciones o inmuebles en demolición deberán mantenerse en completa limpieza, quedando estrictamente prohibido acumular escombros y materiales en al vía pública. Los responsables deberán transportar los escombros a los sitios que determine el Departamento.
+Los propietarios, directores responsables de obra, contratistas y encargados de inmuebles en construcción o demolición, son responsables solidariamente de la diseminación de materiales, escombros y cualquier otra clase de residuos sólidos. El frente de las construcciones o inmuebles en demolición deberán mantenerse en completa limpieza, quedando estrictamente prohibido acumular escombros y materiales en al vía pública. Los responsables deberán transportar los escombros a los sitios que determine del Departamento.
 
 ###### ARTICULO 32.
 
@@ -248,7 +250,7 @@ Los propietarios, administradores o encargados de camiones y transporte colectiv
 
 ###### ARTICULO 34.
 
-Los propietarios, condóminos, administradores, arrendatarios o encargados de edificaciones habitacionales, comerciales, industriales o públicas, mandarán colocar en los lugares que crean conveniente en el interior de sus inmuebles, los depósitos necesarios, a fin de que en ellos se recolecten los residuos sólidos, debiendo sacarlos a la banqueta en el horario que señale la Delegación, con el objeto de que su contenido sea recogido por el personal del vehículo recolector. Dichos depósitos deberán satisfacer las necesidades de servicio del inmueble, y cumplir con las condiciones de seguridad e higiene que, de conformidad con la Ley de Salud para el Distrito Federal y demás ordenamientos aplicables, emita el Departamento.
+Los propietarios, condominios, administradores, arrendatarios o encargados de edificaciones habitacionales, comerciales, industriales o públicas, mandarán colocar en los lugares que crean convenientes en el interior de sus inmuebles, los depósitos necesarios, a fin de que en ellos se recolecten los residuos sólidos, debiendo sacarlos a la banqueta en el horario que señale la Delegación, con el objeto de que su contenido sea recogido por el personal del vehículo recolector. Dichos depósitos deberán satisfacer las necesidades de servicio del inmueble, y cumplir con las condiciones de seguridad e higiene que, de conformidad con la Ley de Salud para el Distrito federal y demás ordenamientos aplicables, emita el Departamento.
 
 ###### ARTICULO 35.
 
@@ -304,9 +306,9 @@ El incumplimiento a lo preceptuado en este Reglamento, se sancionará en la form
 
 I.- Con multa equivalente a un día de salario mínimo general vigente en el Distrito Federal, a quien infrinja lo dispuesto en la fracción I del Artículo 22;
 
-II.- Con multa equivalente a 3 días de salario mínimo diario general vigente en el Distrito Federal, a quienes infrinjan lo dispuesto en los Artículos 22, fracción II, 23, 25, 26, 27, 28, 30, 35 y 36 fracciones V, VI y VIII;
+II.- Con multa equivalente a 3 días de salario mínimo diario general vigente en el Distrito Federal, a quienes infrinjan lo dispuesto en los Artículos 22, fracción II, 23, 25, 26, 27, 28, 30, 35 y 36 fracciones V, VI y VII;
 
-III.- Con multa equivalente de 4 a 30 días de salario mínimo diario general vigente en el Distrito Federal, a quienes infrinjan lo dispuesto en los Artículos 18, 24, 29, 31, 32, 33, 34 y 36 fracciones IV y IX de este Reglamento, y
+III.- Con multa equivalente de 4 a 30 días de salario mínimo diario general vigente en el Distrito federal, a quienes infrinjan lo dispuesto en los Artículos 18, 24, 29, 31, 32, 33, 34 y 36 fracciones IV y IX de este Reglamento, y
 
 > <small>(F. DE E., G.O. 9 DE OCTUBRE DE 1989)</small>
 
@@ -316,7 +318,7 @@ IV.- Con multa equivalente de 30 a 180 días de salario mínimo diario general v
 
 En el caso de reincidencia se aplicará hasta el doble del máximo de la sanción correspondiente.
 
-Para los efectos de este Reglamento, se considera reincidente a aquella persona que habiendo sido sancionada por cometer una infracción al mismo, viole nuevamente la misma disposición en el transcurso de un año.
+Para los efectos de este Reglamento, se considerará reincidente a aquella persona que habiendo sido sancionada por cometer una infracción al mismo, viole nuevamente la misma disposición en el transcurso de un año.
 
 ### CAPITULO VI. Del recurso de inconformidad
 
@@ -334,7 +336,7 @@ La inconformidad deberá interponerse dentro de los ocho días hábiles siguient
 
 ###### ARTICULO 45.
 
-El escrito por el que se interponga el recurso de inconformidad, no estará sujeto a forma especial alguna y bastará con que el recurrente precise el acto que reclama, los motivos de la inconformidad, señale domicilio para oír notificaciones, designe, en su caso, a su representante legal, acompañe las pruebas documentales que tenga a su disposición y ofrezca las demás que estime pertinentes, con excepción de la confesional y aquellas que fueren contrarias a derecho o a la moral.
+El escrito por el que se interponga el recurso de inconformidad, no estará sujeto a formar especial alguna y bastará con que el recurrente precise el acto que reclama, los motivos de la inconformidad, señale domicilio para oír notificaciones, designe, en su caso, a su representante legal, acompañe las pruebas documentales que tenga a su disposición y ofrezca las demás que estime pertinentes, con excepción de la confesional y aquellas que fueren contrarias a derecho o a la moral.
 
 ###### ARTICULO 46.
 
@@ -348,30 +350,46 @@ La autoridad que conozca del recurso, dictará la resolución que proceda debida
 
 ## TRANSITORIOS
 
-PRIMERO.- El Reglamento entrará en vigor sesenta días después de su publicación en la Gaceta Oficial del Departamento del Distrito Federal.
+###### ARTICULO PRIMERO.
 
-SEGUNDO.- Publíquese en el Diario Oficial de la Federación por ser de interés general.
+El Reglamento entrará en vigor sesenta días después de su publicación en la Gaceta Oficial del Departamento del Distrito Federal.
 
-TERCERO.- Se abroga el Reglamento para el Servicio de Limpia en el Distrito Federal, publicado en el Diario Oficial de la Federación el 6 de junio de 1941.
+###### ARTICULO SEGUNDO.
 
-CUARTO.- Los propietarios, condóminos, administradores, arrendatarios o encargados de los inmuebles a que se refieren los Artículos 14 y 34 que actualmente no cumplan con los requisitos de acondicionamiento que en dichos preceptos se prevén, dispondrán de un plazo de tres meses contados a partir de la fecha en que entre vigor este Reglamento, para que los satisfagan.
+Publíquese en el Diario Oficial de la Federación por ser de interés general.
+
+###### ARTICULO TERCERO.
+
+Se abroga el Reglamento para el Servicio de Limpia en el Distrito Federal, publicado en el Diario Oficial de la Federación el 6 de junio de 1941.
+
+###### ARTICULO CUARTO.
+
+Los propietarios, condominios, administradores, arrendatarios o encargados de los inmuebles a que se refieren los Artículos 14 y 34 que actualmente no cumplan con los requisitos de acondicionamiento que en dichos preceptos se prevén, dispondrán de un plazo de tres meses contados a partir de la fecha en que entre vigor este Reglamento, para que los satisfagan.
+
+RUBRICA
 
 SALON DE SESIONES DE LA ASAMBLEA DE REPRESENTANTES DEL DISTRITO FEDERAL, A 6 DE JULIO DE 1989.
 
-JOSE ANTONIO PADILLA SEGURA
+José Antonio Padilla Segura.- Representante, Presidente.- Rúbrica.- Joaquín López Martínez.- Representante, Secretario.- Rúbrica.- Justino Rosas Villegas.- Representante, Secretario.- Rúbrica.
 
-REPRESENTANTE, PRESIDENTE
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
-Rúbrica
+G.O. 22 DE ABRIL DE 2003.
 
-JOAQUIN LOPEZ MARTINEZ
+PRIMERO - Esta Ley entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
-REPRESENTANTE, SECRETARIO
+SEGUNDO.- Se abroga el Reglamento para el Servicio Público de Limpia en el Distrito Federal, publicado en el Diario Oficial de la Federación, el 27 de julio de 1989 y se derogan todas las disposiciones que se opongan a la presente Ley. El Reglamento para el Servicio Público de Limpia en el Distrito Federal permanecerá vigente en todo lo que no se oponga a la presente Ley y en tanto el Gobierno del Distrito Federal expide el Reglamento de la presente Ley.
 
-Rúbrica
+TERCERO.- Las disposiciones que esta Ley establece en materia de separación de los residuos sólidos, recolección selectiva de dichos residuos y la instrumentación de planes de manejo aplicarán a partir del primero de enero de 2004. En consecuencia, las autoridades competentes, entrada en vigor la presente Ley, comenzará (sic) a implantar medidas y mecanismos tendientes a organizar la estructura e instalar la infraestructura necesaria y llevar a cabo campañas masivas de difusión de los contenidos de la presente Ley.
 
-JUSTINO ROSAS VILLEGAS
+CUARTO.- La Secretaría de Obras y Servicios tendrá un plazo de 180 días naturales a partir de la entrada en vigor de la presente Ley para elaborar el registro de los establecimientos mercantiles y de servicios relacionados con la recolección, manejo, tratamiento, reutilización, reciclaje y disposición final de los residuos sólidos.
 
-REPRESENTANTE, SECRETARIO
+QUINTO.- En tanto se expiden las disposiciones administrativas que se deriven de la presente Ley, seguirán en vigor las que han regido hasta ahora en lo que no la contravengan.
 
-Rúbrica
+SEXTO.- Todos los actos, procedimientos y recursos administrativos relacionados con la materia de esta Ley, que se hubieren iniciado bajo la vigencia de otros ordenamientos, se tramitarán y resolverán conforme a los mismos.
+
+SÉPTIMO.- El Jefe de Gobierno expedirá el reglamento de la presente Ley dentro de los 90 días naturales posteriores a la entrada en vigor del presente decreto.
+
+OCTAVO.- La Secretaría, la Secretaría de Obras y Servicios y las Delegaciones deberán formular los programas que esta Ley establece dentro de los 180 días naturales posteriores a la entrada en vigor del presente decreto.
+
+NOVENO.- Publíquese en el Diario Oficial de la Federación para su mayor difusión.
