@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1942-12-30"
+last_updated: "1943-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1942.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE ENERO DE 1943.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1068,9 +1068,13 @@ III.- Haber residido en el país durante todo el año anterior al día de la ele
 
 IV.- No pertenecer al estado eclesiástico ni ser ministro de algún culto;
 
-V.- No estar en servicio activo, en caso de pertenecer al Ejército, un año antes del día de la elección;
+> <small>(REFORMADA, D.O.F. 8 DE ENERO DE 1943)</small>
 
-VI.- No ser secretario o subsecretario de Estado, ni gobernador de algún Estado, Territorio o del Distrito Federal, a menos de que se separe de su puesto un año antes del día de la elección, y
+V.- No estar en servicio activo, en caso de pertenecer al Ejército, seis meses antes del día de la elección;
+
+> <small>(REFORMADA, D.O.F. 8 DE ENERO DE 1943)</small>
+
+VI.- No ser Secretario o Subsecretario de Estado, Jefe o Secretario General de Departamento Administrativo, Procurador General de la República, ni Gobernador de algún Estado o Territorio, a menos de que se separe de su puesto seis meses antes del día de la elección, y
 
 VII.- No estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 83.
 
@@ -1428,7 +1432,9 @@ III. Los municipios serán investidos de personalidad jurídica para todos los e
 
 El Ejecutivo Federal y los Gobernadores de los Estados tendrán el mando de la fuerza pública en los Municipios donde residieren habitual o transitoriamente.
 
-Los Gobernadores de los Estados no podrán durar en su encargo más de cuatro años.
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1943)</small>
+
+Los Gobernadores de los Estados no podrán durar en su encargo más de seis años.
 
 La elección de los Gobernadores de los Estados y de las Legislaturas Locales será directa y en los términos que dispongan las leyes electorales respectivas.
 
@@ -2031,3 +2037,7 @@ D.O.F. 30 DE DICIEMBRE DE 1942.
 ###### ARTICULO UNICO.
 
 La presente ley entrará en vigor quince días después de la fecha en que se publique en el "Diario Oficial" de la Federación.
+
+D.O.F. 8 DE ENERO DE 1943.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
