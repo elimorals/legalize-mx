@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1979-03-10"
+last_updated: "1979-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 1979.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -381,7 +381,7 @@ Las autoridades judiciales o administrativas que embarguen o decomisen bienes a 
 
 ###### ARTICULO 41.
 
-La Tesorería General y sus organismos subalternos, en vista de las resclusiones que reciban y de las que dicten respecto de los depósitos cuya constitución hubiere exigido por propia determinación, de conformidad con lo establecido por el Código Fiscal declararán de oficio la caducidad y dispondrán de los depósitos respectivos aplicando su importe a beneficio del erario estatal. Cuando no sea posible determinar la fecha en que legalmente pueda exigirse su devolución o aplicación se tomará como base la de la constitución del depósito para los mismos efectos.
+La Tesorería General y sus organismos subalternos, en vista de las reclusiones que reciban y de las que dicten respecto de los depósitos cuya constitución hubiere exigido por propia determinación, de conformidad con lo establecido por el Código Fiscal declararán de oficio la caducidad y dispondrán de los depósitos respectivos aplicando su importe a beneficio del erario estatal. Cuando no sea posible determinar la fecha en que legalmente pueda exigirse su devolución o aplicación se tomará como base la de la constitución del depósito para los mismos efectos.
 
 DE LA OFICIALIA MAYOR
 
@@ -1965,7 +1965,7 @@ Las actas del Registro Civil sólo se asentarán en los libros a que se refiere 
 
 ###### ARTICULO 232.
 
-Si al terminar el año en curso quedaren en los libros hojas en blanco, seguirá actuándose en las restantes una vez que se haya asentado la razón correspondiente sobre el número de actas levantadas en el año conluido.
+Si al terminar el año en curso quedaren en los libros hojas en blanco, seguirá actuándose en las restantes una vez que se haya asentado la razón correspondiente sobre el número de actas levantadas en el año concluido.
 
 ###### ARTICULO 233.
 
@@ -3463,6 +3463,8 @@ IV.- Las demás que les confiera la ley.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+
 ###### ARTICULO 465.
 
 Existirá en la Capital del Estado la Dirección General del Notariado y su Director será el Encargado del Registro Público de la Propiedad del Distrito Judicial de Morelos.
@@ -3517,25 +3519,37 @@ En compensación por sus servicios percibirá el Director el sueldo que fije el 
 
 El Director será personalmente responsable de la custodia y conservación del archivo y tendrá la misma responsabilidad que los notarios en ejercicio.
 
-# LIBRO CUARTO
+> <small>(REFORMADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
 
-## TITULO UNICO. DEL PROCESO ELECTORAL
+# LIBRO CUARTO. DE LOS PARTIDOS POLITICOS Y PROCESOS ELECTORALES
 
-ELECCIONES DE GOBERNADOR, DIPUTADOS AL CONGRESO DEL ESTADO Y AYUNTAMIENTOS
+> <small>(REFORMADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
 
-### CAPITULO II. DE LOS ORGANISMOS ELECTORALES
+## TITULO PRIMERO. DE LOS ORGANISMOS ELECTORALES
+
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+
+### CAPITULO II. DE LA COMISION ESTATAL ELECTORAL
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 471.
 
-El presente Título regirá la preparación, desarrollo, vigilancia y calificación de las elecciones ordinarias y extraordinarias de Gobernador, Diputados al Congreso del Estado y miembros de los Ayuntamientos.
+El presente Libro garantiza el ejercicio de los derechos políticos de los ciudadanos, la organización, funciones y prerrogativas de los partidos políticos nacionales y estatales y regula la preparación, desarrollo, vigilancia y calificación de los procesos electorales ordinarios y extraordinarios, que se celebren para elegir Gobernador, Diputados al Congreso del Estado y miembros de los Ayuntamientos.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 472.
 
-Las elecciones ordinarias de Gobernador se celebrarán cada seis años; las de Diputados y las de Ayuntamientos cada tres años y las extraordinarias según proceda. Estas últimas serán convocadas por el Congreso o por el Gobernador del Estado según lo establecido en la Constitución y ambas se celebrarán en las fechas que al efecto se señale en la ley o en las convocatorias correspondientes.
+Las elecciones ordinarias de Gobernador se celebrarán cada seis años; la de Diputados y las de Ayuntamientos cada tres años, todas el primer domingo de julio del año en que corresponda.
+
+Las elecciones extraordinarias serán convocadas por el Congreso o por el Gobernador del Estado, según lo establecido en la Constitución y se celebrarán en las fechas que al efecto se señale en las convocatorias correspondientes.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 473.
 
-Los organismos que tienen a su cargo la preparación, el desarrollo, la vigilancia y calificación del proceso electoral, en los términos de este Título, son los siguientes:
+Los ciudadanos, los partidos políticos y el Gobierno son corresponsables de la preparación, desarrollo, vigilancia y calificación del proceso electoral, a través de los siguientes organismos:
 
 I.- Comisión Estatal Electoral;
 
@@ -3543,957 +3557,1565 @@ II.- Comités Distritales Electorales;
 
 III.- Comités Municipales Electorales;
 
-IV.- Mesa Directiva de las Casillas;
+IV.- Mesas Directivas de Casilla;
 
-V.- Las Juntas Computadoras; y
+V.- Juntas Computadoras;
 
-VI.- Consejo del Padrón Electoral Estatal.
+VI.- Registro Estatal de Electores;
+
+VII.- El Colegio Electoral del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 474.
 
-La Comisión Estatal Electoral se integrará con los siguientes comisionados:
+En cuanto a las elecciones municipales se estará a la división política que establece el Código Municipal.
 
-a).- Uno que designará el C. Gobernador del Estado y que actuará como Presidente de la Comisión.
-
-b).- El Director de Gobernación del Gobierno del Estado.
-
-c).- Un miembro del Poder Legislativo designado por el Congreso Local o la Diputación Permanente en su caso.
-
-d).- Uno por cada partido político registrado, de preferencia nacionales.
-
-e).- Un notario en funciones, con más de cinco años de ejercicio, que será elegido por la mayoría de los otros miembros y que actuará con el carácter de Secretario de este organismo. En caso de empate, para su designación, el Presidente de la Comisión tendrá voto de calidad.
-
-Por cada comisionado propietario habrá un suplente.
-
-Dentro de los primeros diez días del mes de diciembre anterior al año de la elección, el Gobernador del Estado y el Congreso Local o la Diputación Permanente harán la designación de sus respectivos comisionados, quienes al finalizar ese plazo, reunidos en junta previa con el Director de Gobernación, invitarán a todos los partidos políticos nacionales y a los estatales registrados en la Secretaría General de Gobierno, para que en el plazo de los diez días siguientes acrediten a sus respectivos comisionados ante el Presidente de la Comisión Estatal Electoral.
-
-La Comisión, así integrada, iniciará sus labores antes del 31 del mes de diciembre indicado.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 475.
 
-La Comisión Estatal Electoral tendrá las siguientes atribuciones:
+Para el efecto de la elección de Gobernador y Diputados, el Estado de Chihuahua se divide en catorce Distritos Electorales integrados de la siguiente manera:
 
-I.- Expedir el reglamento para su propio funcionamiento y para el de los Comités Distritales y Municipales;
+I.- Primer Distrito, con la Municipalidad de Chihuahua y cabecera en la Ciudad de Chihuahua;
 
-II.- Convocar a los partidos políticos para que de común acuerdo propongan al personal propietario y suplente que deba integrar los Comités Distritales y Municipales y en caso de que no se pongan de acuerdo, hacer las designaciones correspondientes;
+II.- Segundo Distrito, con las Municipalidades de Hidalgo del Parral, Matamoros y Valle de Zaragoza, con cabecera en la Ciudad de Hidalgo del Parral;
 
-III.- Informar al Congreso del Estado sobre los puntos que estime convenientes o que le fueren solicitados;
+III.- Tercer Distrito, con las Municipalidades de General Trías, Satevó, Gran Morelos, Dr. Belisario Domínguez, Cusihuiriáchic, Riva Palacio, Cuauhtémoc, Nonoava, San Francisco de Borja y Carichic, con cabecera en la Ciudad de Cuauhtémoc;
 
-IV.- Resolver las consultas y controversias que se le presenten sobre el funcionamiento de los Comités Electorales;
+IV.- Cuarto Distrito, con las Secciones Electorales comprendidas en la zona de Ciudad Juárez, que queda al Oeste del eje formado por la Avenida Cinco de Mayo, hasta su entronque con la línea de los Ferrocarriles Nacionales de México y la continuación de esta propia vía, con cabecera en aquella Ciudad;
 
-V.- Hacer recomendaciones a los Comités Electorales, respecto a la actuación de éstos;
+V.- Quinto Distrito, con las Municipalidades de Camargo, San Francisco de Conchos, La Cruz, Delicias, Saucillo, Rosales y Meoqui, con cabecera en Ciudad Camargo;
 
-VI.- Aclarar las dudas que se susciten con motivo de la interpretación y aplicación de esta Ley, sus reglamentos y demás disposiciones;
+VI.- Sexto Distrito, con las Municipalidades de Jiménez, López, Coronado y Allende, con cabecera en Ciudad Jiménez;
 
-VII.- Desahogar las consultas que acerca de los asuntos de su competencia le formulen los ciudadanos o partidos políticos;
+VII.- Séptimo Distrito, con las Municipalidades de Guerrero, Matachic, Temósachic, Madera, Namiquipa, Gómez Farías y Bachíniva, con cabecera en Ciudad Guerrero;
 
-VIII. Recabar de los Comités Electorales Distritales y Municipales y en general de cualquier autoridad, quien tendrá la obligación de proporcionarlas, las informaciones y certificaciones que estime necesarias para el esclarecimiento de hechos relacionados con el proceso electoral, o para la resolución de las reclamaciones presentadas por los ciudadanos o los partidos políticos;
+VIII.- Octavo Distrito, con las Municipalidades de Ojinaga, Coyame, Aldama, Julimes, Manuel Benavides y Aquiles Serdán, con cabecera en la Ciudad de Ojinaga;
 
-IX.- Investigar por los medios legales que estime pertinentes, cualquier hecho o denuncia que se le presente relacionado con el proceso electoral;
+IX.- Noveno Distrito, con las Municipalidades de Casas Grandes, Nuevo Casas Grandes, Janos, Ascensión, Galeana, Buenaventura, Ahumada e Ignacio Zaragoza, con cabecera en la Ciudad de Nuevo Casas Grandes;
 
-X.- Designar los auxiliares necesarios en cada Distrito y Municipio, quienes deberán reunir los mismos requisitos que se exige a los miembros de los Organismos Electorales;
+X.- Décimo Distrito, con las Municipalidades de Batopilas, Guachochi, Urique y Morelos, con cabecera en la población de Guachochi;
 
-XI.- Las demás que le confieran las leyes.
+XI.- Décimo Primer Distrito, con las Municipalidades de Guadalupe y Calvo, Balleza y el Tule, con cabecera en la población de Guadalupe y Calvo;
+
+XII.- Décimo Segundo Distrito, con las Municipalidades de Bocoyna, Chínipas, Guazapares, Maguarichic, Moris, Ocampo y Uruachi, con cabecera en la población de Uruachi;
+
+XIII.- Décimo Tercer Distrito, con las Municipalidades de Santa Bárbara, San Francisco del Oro, Huejotitán y Rosario, con cabecera en la Ciudad de Santa Bárbara;
+
+XIV.- Décimo Cuarto Distrito con las Secciones Electorales comprendidas en la zona de Ciudad Juárez, que queda al Este del eje que forman la Avenida Cinco de Mayo hasta su entronque con la línea de los Ferrocarriles Nacionales de México, y la continuación de esta propia línea, más la Sección Municipal de Samalayuca y los Municipios de Guadalupe Distrito Bravos y Praxedis G. Guerrero, con cabecera en Ciudad Juárez.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 476.
 
-Para que la Comisión Estatal Electoral pueda funcionar, será necesario que estén presentes por lo menos cuatro de sus miembros. Entre ellos deberá estar un comisionado de cada no de los poderes; si faltare alguno de éstos, se citará nuevamente y la sesión podrá celebrarse con la asistencia de cuatro miembros cualesquiera. Las resoluciones se tomarán por mayoría de votos; en caso de empate, el Presidente tendrá voto de calidad.
+Los cuerpos de seguridad pública del Estado y de los Municipios deben prestar el auxilio que los organismos electorales requieran para asegurar el orden y garantizar el proceso electoral.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 477.
 
-El desarrollo del proceso electoral será dirigido en cada Distrito y Municipio por los Comités Electorales Distritales y Municipales, respectivamente. Ningún miembro de los Comités podrá ser elegible para Gobernador, Diputado, Presidente Municipal o Regidor. Cuando la circunscripción territorial de un Distrito coincida con la de un Municipio, la elección de ambas será dirigida por el Comité Distrital.
+Toda autoridad estatal y municipal está obligada a proporcionar sin demora, las informaciones que obren en su poder y las certificaciones de los hechos que le consten o de los documentos que existan en los archivos a su cargo, así como a practicar las diligencias correspondientes, cuando se lo demanden para fines electorales los organismos que este Código establece.
 
-### CAPITULO III. DE LOS COMITES DISTRITALES Y MUNICIPALES
+Igualmente harán del conocimiento de estos organismos, todo hecho que pueda motivar la incapacidad de los candidatos o alterar el resultado de la elección.
+
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+
+### CAPITULO III. DE LOS COMITES ELECTORALES
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 478.
 
-Los Comités Electorales Distritales y Municipales funcionarán en cada una de las cabeceras de Distrito o Municipio; se integrarán con cinco ciudadanos en pleno uso de sus derechos cívicos; residentes en el Distrito o Municipio; que tengan modo honesto de vivir; no desempeñen ningún cargo o empleo público; sean de reconocida probidad y de cultura bastante para el desempeño de sus funciones; y con un comisionado de cada partido político. Todos los anteriores deberán tener sus respectivos suplentes.
+La Comisión Estatal Electoral es el organismo encargado de velar por el cumplimiento de las normas constitucionales, las contenidas en este Código y demás disposiciones que garanticen el derecho de organización política de los ciudadanos y responsable de la preparación, desarrollo y vigilancia del proceso electoral, y se integra con los siguientes comisionados:
+
+a).- Tres que designará y removerá libremente el Gobernador del Estado y que actuarán el primero como Presidente de la Comisión y los restantes como Primero y Segundo Vocal. La designación no podrá recaer en funcionarios públicos;
+
+b).- El Director de Gobernación;
+
+c).- Cuatro miembros del Poder Legislativo designados por el Congreso Local o la Diputación Permanente;
+
+d).- Uno por cada partido político sea nacional con registro definitivo, o local expedido que sea el certificado a que se refiere el artículo 506 de este Código;
+
+e).- Un notario en funciones, que será elegido por la mayoría de los otros miembros y que actuará con el carácter de Secretario del organismo.
+
+Por cada Comisionado Propietario habrá un Suplente.
+
+Dentro de los últimos diez días del mes de noviembre anterior al año de las elecciones ordinarias, el Gobernador del Estado y el Congreso Local harán la designación de sus Comisionados, quienes en el plazo señalado en unión del Director de Gobernación, invitarán a los partidos políticos a que se refiere este artículo para que acrediten a sus representantes ante la Comisión Estatal Electoral a más tardar el día quince de diciembre.
+
+La Comisión así integrada, iniciará sus labores antes del día diez del mes de enero del año de las elecciones.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 479.
 
-Fungirá como Presidente el que designe la Comisión Estatal Electoral y se designará como Secretario a una persona que reúna los requisitos señalados en el párrafo anterior, a mayoría de votos de los miembros del Comité respectivo.
+La Comisión Estatal Electoral tiene las siguientes atribuciones:
+
+I.- Dictar las normas y previsiones destinadas a hacer efectivas las disposiciones de este Libro;
+
+II.- Dictar los lineamientos a que se sujetará la depuración y actualización del padrón electoral;
+
+III.- Llevar a cabo la preparación, desarrollo y vigilancia del proceso electoral y cuidar del adecuado funcionamiento de los organismos electorales;
+
+IV.- Publicar en el Periódico Oficial la lista de los integrantes de la Comisión y de los Comités Distritales y Municipales Electorales;
+
+V.- Desahogar las dudas que se presenten sobre la aplicación e interpretación de este Libro y resolver los casos no previstos en el mismo;
+
+VI.- Registrar la candidatura a Gobernador del Estado;
+
+VII.- Investigar por los medios legales pertinentes, cualesquiera hechos relacionados con el proceso electoral y de manera especial los que denuncien los partidos políticos contra actos violatorios de la ley por parte de las autoridades o de otros partidos, en contra de su propaganda, candidatos o miembros;
+
+VIII.- Tener a sus órdenes, directamente o por medio de sus organismos y dependencias, la fuerza pública necesaria para garantizar el desarrollo del proceso electoral;
+
+IX.- Nombrar los funcionarios y auxiliares especiales para que efectúen las investigaciones y los generales necesarios en cada Distrito y Municipio, los que deberán reunir los mismos requisitos que se exige a los miembros de los organismos electorales, en las circunscripciones territoriales en que aquéllos actúen;
+
+X.- Desahogar las consultas que acerca de los asuntos de su competencia les formulen los ciudadanos, candidatos o partidos políticos;
+
+XI.- Resolver las peticiones que formulen los partidos políticos y los candidatos en relación a las inconformidades que se hagan valer por las decisiones tomadas por los Comités Distritales y Municipales Electorales;
+
+XII.- Proporcionar a los demás organismos electorales la documentación, las formas que apruebe para las actas del proceso electoral y los elementos necesarios;
+
+XIII.- Expedir el reglamento para su propio funcionamiento y para el de los Comités Distritales y Municipales;
+
+XIV.- Convocar a los partidos políticos para que de común acuerdo propongan al personal propietario y suplente que deba integrar los Comités Distritales y Municipales y en caso de que no se pongan de acuerdo, hacer las designaciones correspondientes;
+
+XV.- Informar al Congreso del Estado sobre los puntos que estime convenientes o que le fueren solicitados;
+
+XVI.- Recabar de los Comités Electorales Distritales y Municipales las informaciones y certificaciones que estime necesarias para el esclarecimiento de hechos relacionados con el proceso electoral.
+
+XVII.- Las demás que le confiere la ley.
+
+Son facultades del Presidente de la Comisión Estatal Electoral someter a la consideración del Ejecutivo Local durante el mes de diciembre el proyecto del presupuesto de egresos de la Comisión y sus Dependencias y cuidar su ejercicio; vigilar además el cumplimiento de los acuerdos de la Comisión Estatal Electoral; y todas aquéllas que le confieren este Libro y disposiciones relativas.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 480.
 
-El día diez de enero del año de la elección la Comisión Estatal Electoral convocará a los partidos políticos registrados en el Estado, a efecto de que en el plazo de los quince días siguientes, de común acuerdo propongan las personas que deban integrar los Comités Electorales Distritales y Municipales.
+Para que la Comisión Estatal Electoral pueda sesionar, será necesario que estén presentes la mayoría de sus integrantes, entre los que deberán estar el Presidente, dos Comisionados del Poder Ejecutivo, tres del Legislativo y el Notario. Las resoluciones se tomarán por mayoría de votos y en caso de empate el voto del Presidente será de calidad.
 
-Si se pusieren de acuerdo, la Comisión Estatal Electoral hará la designación de dichas personas, las que deberán reunir los requisitos que señala el artículo 478 y en todo caso, los Comités Electorales deberán quedar instalados el día treinta del referido mes de enero.
+Si los comisionados propietarios de los partidos políticos dejaren de asistir sin causa justificada, a juicio de la propia Comisión, se llamará a los suplentes y si éstos no concurriesen, se requerirá al partido que corresponda para que dentro del término de cinco días realice nuevas designaciones y si no lo hiciere se le tendrá por perdido el derecho.
 
-### CAPITULO IV. DE LOS PARTIDOS POLITICOS
+Esta segunda designación será definitiva y el partido político no podrá remover a los designados a los que en caso de reiterada inasistencia se les tendrá por perdida la representación.
+
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+
+### CAPITULO IV. DE LAS MESAS DIRECTIVAS DE CASILLA
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 481.
 
-Los Comités Electorales Distritales y Municipales tendrán las atribuciones siguientes:
+El desarrollo del proceso electoral será dirigido en cada Distrito y Municipio por los Comités Electorales, Distritales y Municipales, respectivamente. Ningún miembro de los Comités será elegible para Gobernador, Diputado propietario o suplente, Presidente Municipal o Regidor propietarios o suplentes; los ciudadanos que figuren como candidatos están impedidos para formar parte de los organismos electorales, a excepción hecha del Colegio Electoral.
 
-I.- Intervenir y vigilar la preparación y desarrollo del proceso electoral del Distrito o Municipio en que actúen;
+Cuando en la Cabecera Municipal funcione un solo Comité Distrital, éste dirigirá también el proceso electoral municipal.
 
-II.- Desahogar las consultas que sobre asuntos de su incumbencia les formulen los ciudadanos o los partidos políticos registrados;
-
-III.- Informar a la Comisión Estatal Electoral de todos los asuntos de su competencia y del resultado del proceso electoral;
-
-IV.- Pedir informes a las autoridades sobre hechos relacionados con el proceso electoral o reclamaciones formuladas por los partidos políticos o por los electores;
-
-V.- Acatar para su funcionamiento las normas que dicte la Comisión Estatal Electoral;
-
-VI.- Publicar los padrones y las listas electorales correspondientes en las localidades de su circunscripción;
-
-VII.- Hacer la división territorial del Distrito o Municipio en secciones electorales para la instalación de casillas;
-
-VIII.- Designar a los auxiliares necesarios para cada sección electoral de su circunscripción;
-
-IX.- Designar a los ciudadanos que deban presidir las mesas directivas de las casillas para recibir la votación;
-
-X.- Proceder en los casos de reclamaciones que presenten los partidos políticos o los ciudadanos, respecto a la inclusión de votantes en la lista electoral o modificación del padrón electoral, en la forma prescrita por el artículo 538;
-
-XI.- Constituirse en Junta Computadora;
-
-XII.- Las demás que les confieran las leyes.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 482.
 
-Los Comités Electorales Distritales y Municipales convocarán a los representantes de los partidos políticos que participen legalmente en la lucha electoral dentro del Distrito o Municipio, a fin de que de común acuerdo, propongan las personas que deban presidir las mesas en las diferentes casillas electorales dentro del Distrito o Municipio; el Secretario y dos Escrutadores con sus respectivos suplentes.
+Los Comités Electorales Distritales y Municipales funcionarán en cada una de las cabeceras de Distrito o Municipio, con la salvedad a que se refiere el artículo anterior; se integrarán con nueve ciudadanos en pleno ejercicio de sus derechos políticos, sean residentes en el Distrito o Municipio, tengan un modo honesto de vivir y no desempeñen ningún cargo de elección popular y sean de reconocida probidad, y con un comisionado de cada partido político. Por cada miembro propietario de los Comités habrá un suplente.
 
-Si hubiera acuerdo, los Comités Electorales Distritales o Municipales designarán a las personas propuestas. Si no hubiere acuerdo, los Comités Electorales Distritales o Municipales designarán al personal que deba integrar cada una de las casillas electorales. La designación deberá recaer en ciudadanos residentes en la circunscripción de la sección, en pleno goce de sus derechos políticos, de reconocida probidad que tengan modo honesto de vivir y el discernimiento necesario para el desempeño de sus funciones.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 483.
 
-Los ciudadanos que figuren como candidatos a Gobernador, Diputados, Presidente Municipal o Regidores, están impedidos para formar parte de los Comités Electorales.
+A más tardar el veinticinco de enero del año de la elección la Comisión Estatal Electoral convocará a los partidos políticos nacionales con registro definitivo o locales expedido que sea el certificado a que se refiere el artículo 506 de este Código, a través de sus representantes, a efecto de que en el plazo de los diez días siguientes, de común acuerdo propongan las personas que deban integrar los Comités Electorales Distritales y Municipales. Si no se pusieren de acuerdo, la Comisión Estatal Electoral hará la designación de dichas personas, debiendo quedar integrados los Comités Electorales, a más tardar el día quince de febrero.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 484.
 
-La Comisión Estatal Electoral y los Comités Electorales Distritales y Municipales podrán usar las vías telefónicas y la red telefónica del Estado gratuitamente, en asuntos de su competencia.
+Los integrantes de los Comités Distritales y Municipales nombrados con el consenso unánime de los partidos políticos o por la Comisión Estatal Electoral, designarán entre ellos al Secretario y fungirán como Presidente y Vocales las personas que para tal efecto señale la Comisión Estatal Electoral.
+
+Para que los Comités Electorales Distritales y Municipales puedan sesionar, es necesaria la presencia de la mayoría de sus integrantes entre los que deberán estar el Presidente, el Secretario y tres vocales. Toda resolución se tomará por mayoría de votos y en caso de empate, será de calidad el del Presidente.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 485.
 
-Los partidos políticos son asociaciones constituidas conforme a la ley por ciudadanos mexicanos en pleno ejercicio de sus derechos cívicos, para fines electorales y de orientación política.
+Los Comités Electorales Distritales y Municipales tendrán las atribuciones siguientes:
 
-### CAPITULO V. DE LA VOTACION
+I.- Vigilar la observancia de este Libro y demás disposiciones relativas;
+
+II.- Vigilar e intervenir en la preparación y desarrollo del proceso electoral del Distrito o Municipio en que actúen;
+
+III.- Registrar a los candidatos a Diputados y a miembros de Ayuntamientos;
+
+IV.- Desahogar las consultas que sobre asuntos de su competencia les formulen los ciudadanos, los candidatos o los partidos políticos;
+
+V.- Informar a la Comisión Estatal Electoral de todos los asuntos de su competencia y del resultado del proceso electoral;
+
+VI.- Acatar para su funcionamiento las normas que dicte la Comisión Estatal Electoral;
+
+VII.- Hacer la división territorial del Municipio en secciones electorales para la instalación de las casillas y la publicación de su ubicación y de los funcionarios que la integren de acuerdo con este Código;
+
+VIII.- Designar a los auxiliares necesarios para cada sección electoral de su circunscripción;
+
+IX.- Designar a los ciudadanos que deben integrar las mesas directivas de las casillas;
+
+X.- Entregar a los presidentes de las mesas directivas de casilla la documentación, formas aprobadas y útiles necesarios para el cumplimiento de sus funciones;
+
+XI.- Recibir las peticiones que formulen los partidos políticos y los candidatos en relación a las inconformidades que se hagan valer en atención a las decisiones tomadas por las mesas directivas de las casillas;
+
+XII.- Registrar los nombramientos de los representantes y coordinadores de los partidos políticos;
+
+XIII.- Constituirse en Juntas Computadoras; y
+
+XIV.- Las demás que les confieren las leyes.
+
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+
+### CAPITULO V. DEL REGISTRO ESTATAL DE ELECTORES
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 486.
 
-Los partidos políticos serán nacionales y estatales. Serán considerados como partidos políticos nacionales los reconocidos como tales por la Secretaría de Gobernación y estatales los que se constituyan con sujeción a las disposiciones de este Código.
+Los Comités Electorales Distritales y Municipales convocarán a los representantes de los partidos políticos que participen legalmente en el proceso electoral dentro del Distrito o Municipio a fin de que de común acuerdo, propongan las personas que deban integrar las mesas en las diferentes casillas electorales dentro del Distrito o Municipio.
+
+Si no hubiere acuerdo, los Comités Electorales Distritales o Municipales, designarán al personal que deba integrar la mesa directiva. La designación deberá recaer en ciudadanos residentes en la circunscripción de la sección, en pleno ejercicio de sus derechos políticos, que sean de reconocida probidad y tengan un modo honesto de vivir.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 487.
 
-Para la constitución de un partido político estatal serán necesarios los siguientes requisitos:
+Las mesas directivas de casilla son los organismos que tienen a su cargo la recepción y escrutinio del sufragio de las secciones en que se divide el territorio de los Municipios.
 
-a).- Que cuenten con un mínimo de ciento cincuenta asociados en cada uno, cuando menos de las dos terceras partes de los Municipios que componen el Estado, siempre que el número total de sus miembros en la Entidad no sea menos de veinte mil.
+Se integrarán con un Presidente, un Secretario, dos Escrutadores y los suplentes respectivos.
 
-b).- Que se obliguen a normar su actuación publica en los preceptos de la Constitución General y la particular del Estado y en el respeto a las instituciones nacionales que ellas establecen.
+Los partidos políticos o coaliciones que participen en el proceso electoral, tienen derecho a designar un solo representante ante las mesas directivas de casilla, en la forma y términos que establece el artículo 530, el que a su vez tendrá la representación de todos los candidatos que aquéllos postulen.
 
-c).- Que consignen en su acta constitutiva la prohibición de aceptar pacto o acuerdo que los obligue a actuar subordinadamente a una organización internacional o a depender o afiliarse a partidos políticos extranjeros.
-
-d).- Que adopten una denominación propia y distinta acorde con sus fines y programa político, la que no podrá contener alusiones de carácter religioso o racial.
-
-e).- Que se organicen conforme a las bases que establezcan este Código y las demás leyes aplicables.
-
-f).- Que se obliguen a encauzar su acción por medios pacíficos.
-
-g).- Que formulen un programa político que contenga las finalidades y los medios de actividad gubernamental para resolver los problemas del Estado o nacionales.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 488.
 
-Los estatutos de los partidos políticos estatales determinarán necesariamente:
+Los funcionarios de las mesas directivas de casilla y los representantes de los partidos políticos, ante ellas acreditados, tienen las atribuciones siguientes:
 
-I.- Un sistema de elección interna para designar a los candidatos que el partido sostenga en las elecciones;
+A).- De la mesa directiva de casilla:
 
-II.- Un programa y método de educación política de sus miembros;
+I.- Instalar y clausurar la casilla en los términos de este Código;
 
-III.- Un sistema de sanciones para sus miembros que falten a los puntos morales o políticos del partido;
+II.- Recibir la votación;
 
-IV.- La distribución de funciones, obligaciones y facultades entre los diferentes órganos del partido.
+III.- Efectuar el escrutinio de la votación;
 
-### CAPITULO VI
+IV.- Permanecer en la casilla electoral, desde su instalación hasta su clausura;
 
-DE LA DIVISION TERRITORIAL ELECTORAL Y DEL PADRON Y LISTAS ELECTORALES.
+V.- Formular las actas de instalación, cierre de la votación y finales de escrutinio;
+
+VI.- Integrar en los paquetes respectivos la documentación correspondiente a cada elección, para hacerla llegar de inmediato a los Comités Electorales Distritales o Municipales que corresponda;
+
+VII.- Las demás que le confieran este Código y disposiciones relativas.
+
+B).- De los Presidentes:
+
+I.- Vigilar el cumplimiento de la ley sobre los aspectos relativos al funcionamiento de las casillas;
+
+II.- Recibir de los Comités Electorales la documentación, formas aprobadas, útiles y elementos necesarios para el funcionamiento de la casilla, debiendo conservarlos bajo su responsabilidad hasta su instalación. Recorrer y revisar cuarenta y ocho horas antes del día de la elección, los locales en que se instalarán las casillas, para constatar su funcionalidad, poniendo de inmediato en conocimiento del Comité Electoral respectivo, las irregularidades que encuentren en la visita;
+
+III.- Identificar a los electores;
+
+IV.- Comprobar que el nombre del elector figura en la lista nominal correspondiente;
+
+V.- Mantener el orden en la casilla, aún con el auxilio de la fuerza pública;
+
+VI.- Suspender la votación en caso de alteración del orden, notificándolo al Comité Electoral correspondiente. Restablecido el orden se reanudará la votación;
+
+VII.- Retirar de la casilla a cualquiera de los representantes que incurran en alteración del orden o realicen actos que lleven la intención manifiesta de entorpecer el proceso electoral. El Secretario lo comunicará de inmediato al Comité Electoral y levantará el acta correspondiente;
+
+VIII.- Concluidas las labores de la casilla, turnar oportunamente al Comité Electoral los paquetes electorales y las copias de la documentación respectiva en los términos de este Código;
+
+IX.- Las demás que les confieran esta Ley y disposiciones relativas.
+
+C).- De los Secretarios:
+
+I.- Levantar las actas de instalación, cierre de votación, final de escrutinio y demás complementarias;
+
+II.- Recibir las protestas que procedan de acuerdo a la ley;
+
+III.- Tomar nota de los incidentes ocurridos en la votación, y
+
+IV.- Las demás que les confieran este Código y disposiciones relativas.
+
+D).- De los Escrutadores:
+
+I.- Comprobar si la cantidad de boletas depositadas en cada urna corresponde al número de electores anotados en las listas nominal y adicional;
+
+II.- Verificar el número de votos emitidos en favor de cada candidato o fórmula;
+
+III.- Las demás que les confieran este Libro y las disposiciones relativas.
+
+E).- De los representantes de partidos:
+
+I.- Vigilar el cumplimiento de este Código;
+
+II.- Representar a los candidatos;
+
+III.- Presentar en forma respetuosa, pacífica y por escrito, las protestas y reclamaciones que legalmente procedan;
+
+IV.- Auxiliar a la mesa de casilla en el ejercicio de sus atribuciones.
+
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+
+### CAPITULO I. DE LOS PARTIDOS POLITICOS
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 489.
 
-Los partidos políticos estatales deberán funcionar por medio de sus órganos fundamentales, que serán por lo menos:
+El Registro Estatal de Electores es un instituto con funciones técnicas para fines electorales, encargado de llevar a cabo y mantener actualizadas en forma permanente la inscripción de los ciudadanos, la formulación del padrón y listas electorales, así como su revisión y conservación.
 
-I.- Una asamblea estatal;
-
-II.- Un Comité Ejecutivo que tendrá la representación del partido en todo el Estado;
-
-III.- Comités Directivos en cada Distrito Electoral.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 490.
 
-Todo partido político estatal que se constituya de acuerdo con las disposiciones del presente Código deberá registrarse en la Secretaría General de Gobierno, la que le otorgará el certificado de registro.
+El Registro Estatal de Electores se integrará con un Director, un Secretario General y un Comité Técnico y de Vigilancia, nombrados y removidos libremente por el Gobernador del Estado.
 
-Mientras dicho certificado no haya sido expedido, la agrupación política no podrá ostentarse como partido estatal ni ejercer ninguno de los derechos que este Código concede a los partidos políticos.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 491.
 
-Para que un partido obtenga su registro deberá llenar los siguientes requisitos:
+El Registro Estatal de Electores tendrá autonomía administrativa, se sujetará a las normas establecidas por la ley, y usará gratuitamente las vías telefónicas y radiotelefónicas del Estado en asuntos de su competencia.
 
-I.- Celebrar una asamblea en presencia de notario o funcionario que haga sus veces, quien comprobará la identidad de las personas que se afilien para formarlo y su residencia en el Estado, dando fe de que existe el número mínimo que exige este Código;
-
-II.- Que los Estatutos y programas, después de aprobados, sean protocolizados ante notario o funcionario que haga sus veces.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 492.
 
-En el caso de que la Secretaría General de Gobierno se rehuse a registrar un partido político, dentro de los cinco días siguientes a la fecha de presentación de la solicitud respectiva, deberá comunicar por medio de oficio las razones en que funde su negativa.
+El Comité Técnico y de Vigilancia del Registro Estatal de Electores, se integrará con doce representantes de los órganos del Gobierno del Estado, relacionados con las funciones de estadística e informática.
 
-Los representantes del partido de que se trate podrán acudir, dentro de los diez días siguientes a la fecha en que reciban dicho oficio, ante la Comisión Estatal Electoral, para que, oyendo a los peticionarios, resuelva sin recurso ulterior si subsiste la negativa o procede el registro, en cuyo caso ordenará a la Secretaría General de Gobierno que lo haga a la mayor brevedad posible.
+Los partidos políticos formará parte del Comité Técnico y de Vigilancia a través de un representante de cada uno de ellos.
+
+El Comité Técnico y de Vigilancia designará en cada uno de los Distritos o Municipios una comisión de vigilancia integrada por ocho miembros, que será presidida por el Delegado del Registro Estatal de Electores. Los partidos políticos podrán nombrar un representante por cada uno de ellos.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 493.
 
-Al obtener el registro, los partidos políticos nacionales o estatales alcanzarán su personalidad jurídica y gozarán de todos los derechos inherentes a la misma, pudiendo adquirir los bienes necesarios para el cumplimiento de sus fines. El certificado de registro deberá publicarse en el Periódico Oficial del Estado.
+El Registro Estatal de Electores estará estructurado:
+
+I.- Por una oficina central con residencia en la Capital del Estado;
+
+II.- Delegaciones en los Distritos Electorales;
+
+III.- Delegaciones en los Municipios.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 494.
 
-La Secretaría General de Gobierno informará a la Comisión Estatal Electoral y a los Comités Electorales Distritales y Municipales cuales son los partidos legalmente registrados, así como sus características especiales.
+El Registro Estatal de Electores tiene las atribuciones siguientes:
+
+I.- Expedir la credencial permanente de elector;
+
+II.- Mantener al corriente y perfeccionar el registro de electores en todo el Estado a través del padrón único, para cuyo fin podrá demandar la colaboración de los ciudadanos, con fundamento en el artículo 5o. Constitucional y establecer las medidas que le permitan preservar su fidelidad;
+
+III.- Realizar la depuración y actualización del padrón único;
+
+IV.- Formular los padrones electorales, elaborar y entregar las listas nominales de elector a la Comisión Estatal Electoral para su distribución en cada Distrito y Municipio, por conducto de los Comités Distritales y Municipales;
+
+V.- Establecer los procedimientos técnicos adecuados para facilitar la inscripción y los cambios y anotaciones que deban hacerse;
+
+VI.- Proponer a los Comités Electorales, la división de su circunscripción para formar secciones electorales;
+
+VII.- Rendir los informes y extender las constancias que por conducto de la Comisión Estatal Electoral le soliciten ésta y los demás organismos electorales;
+
+VIII.- Proporcionar a los partidos políticos las listas nominales cuando las soliciten, en los términos que establezca la Comisión Estatal Electoral;
+
+IX.- Obtener una vez efectuada la votación, las constancias del número de votos emitidos por cada Distrito y Municipio, y formular las estadísticas que correspondan;
+
+X.- Las demás que le confiera este Código.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 495.
 
-La reorganización de un partido obliga a sus directivos a solicitar de la Secretaría General de Gobierno el registro de la agrupación reorganizada.
+El Comité Técnico y de Vigilancia deberá:
+
+I.- Asesorar a la Dirección del Registro Estatal de Electores en los aspectos que sean de su competencia, en los términos de su reglamento interior;
+
+II.- Desahogar las consultas que les formulen los organismos electorales, partidos políticos y ciudadanos;
+
+III.- Coadyuvar en la actualización del padrón único.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 496.
 
-Los partidos políticos constituidos conforme a este Código, tienen derecho a ser representados ante cada uno de los organismos electorales y las casillas electorales estatales.
+El Ejecutivo del Estado podrá celebrar convenios con la Federación con el objeto de coordinarse en forma total o parcial, para que las funciones que este Código encomienda al Registro Estatal de Electores, las realice el Registro Nacional de Electores.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 497.
 
-Los partidos políticos debidamente registrados podrán coaligarse para una sola elección, siempre que la coalición se celebre por lo menos noventa días antes de aquélla, debiendo hacer públicas las bases de coalición y sus finalidades.
+Están obligados a inscribirse en el Registro Estatal de Electores todos los ciudadanos que se encuentren comprendidos dentro de lo establecido en el artículo 20 de la Constitución Política del Estado.
 
-En ambos casos será requisito previo para su validez inscribir las confederaciones o coaliciones en el registro especial que al efecto lleve la Secretaría General de Gobierno.
+Toda persona que cumpla dieciocho años de edad antes del día de la elección deberá solicitar su registro en el plazo previo que al efecto establezca la Comisión Estatal Electoral.
+
+Los ciudadanos deben solicitar su inscripción en el Registro Estatal de Electores, acudiendo a la Delegación correspondiente a su domicilio, siempre y cuando hayan residido seis meses o más en el Municipio correspondiente.
+
+Los ciudadanos residentes en el extranjero que se encuentren en ejercicio de sus derechos políticos, deberán solicitar su inscripción en la forma y modalidades que acuerde la Comisión Estatal Electoral.
+
+Los ciudadanos que sin estar fuera del territorio nacional, por imposibilidad física no puedan acudir a inscribirse en el Registro Estatal de Electores, deben solicitar por escrito su inscripción, acompañando las constancias que acrediten su ciudadanía y señalando las causas por las cuales se encuentran impedidos. Para la entrega de la credencial permanente de elector, en caso de continuar la situación, el Registro Estatal de Electores dictará las medidas pertinentes.
+
+Todos los ciudadanos inscritos en el Registro Estatal de Electores quedan obligados a comunicar su cambio de domicilio dentro de los treinta días siguientes a la fecha en que ocurra.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 498.
 
-Ninguna agrupación política podrá usar, dentro del Estado, la denominación de "Partido Nacional o Chihuahuense" "Confederación de Partidos Nacionales o Chihuahuenses" o "Coalición de Partidos Nacionales o Chihuahuenses", o cualquier denominación que haga suponer se cubrieron los requisitos del registro anterior, si no reúnen los requisitos de este Código y que las leyes aplicables establecen.
+Los ciudadanos inscritos en el Registro Estatal de Electores, tienen derecho a que se les entregue su credencial. Este documento de carácter permanente, acredita su calidad de elector y su derecho a votar.
+
+La credencial permanente de elector deberá contener los datos que hagan posible que el ciudadano pueda identificarse plenamente para ejercer los derechos políticos.
+
+El modelo de la credencial permanente de elector, será autorizado por la Comisión Estatal Electoral y llevará la firma impresa del Director del Registro Estatal de Electores, expidiéndose por cuadruplicado. El original se entregará al ciudadano cuya identidad acredita, las copias se invalidarán con la leyenda impresa "no da derecho a votar" y se destinarán: a la Dirección del Registro Estatal de Electores, a la Delegación de cada Distrito y a la Delegación Municipal respectiva.
+
+Los ciudadanos que extravíen su credencial o cuando ésta haya sufrido grave deterioro, deberán recabar un duplicado en la Delegación correspondiente a su domicilio. Cuando se hubiese vencido el término para el cual fue expedida la credencial, el elector tendrá derecho a que se le expida otra.
+
+Los ciudadanos a quienes les sea negado el registro en la delegación de su domicilio, se inconformarán ante la Delegación. Si ésta lo niega, recurrirán a la Oficina Central para que resuelva lo conducente.
+
+Toda credencial permanente de elector que sea objeto de alteración en los datos, será nula. El día de la elección los presidentes de las casillas las recogerán y acompañadas del acta que se levante por el secretario, las remitirán a la autoridad competente para que aplique al responsable las sanciones a que se haga acreedor.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 499.
 
-Todo partido político debidamente registrado tendrá la facultad de ocurrir a la Secretaría General de Gobierno para que investigue la actividad de cualquiera de los otros partidos a fin de que se mantenga dentro de la ley.
+El Registro Estatal de Electores deberá depurar de manera permanente el padrón electoral, suspendiendo este procedimiento de la primera semana de junio del año de la elección al día de ésta. La Comisión Estatal Electoral, dictará las medidas extraordinarias que juzgue convenientes.
 
-## TITULO UNICO. DE LA POLICIA DEL ESTADO
+Serán auxiliares del Registro Estatal de Electores en estas tareas los ciudadanos y los partidos políticos.
 
-### CAPITULO VII. DEL CONSEJO DEL PADRON ELECTORAL ESTATAL
+La depuración tendrá por objeto excluir del padrón electoral la inscripción de los ciudadanos registrados cuando se encuentren comprendidos en los siguientes casos:
+
+I.- Hayan fallecido o sean declarados presuntamente fallecidos por resolución judicial;
+
+II.- Se encuentren suspendidos en el ejercicio de los derechos o prerrogativas ciudadanas;
+
+III.- Por pérdida de la nacionalidad;
+
+IV.- Haber perdido la ciudadanía; y
+
+V.- Los demás que señala la ley.
+
+También se depurará el padrón con las inscripciones que aparezcan duplicadas, dejándose sólo la efectuada en el último término.
+
+Los funcionarios del Registro Civil están obligados a comunicar al Registro Estatal de Electores en los formularios que les proporcione y con los datos que les solicite, los casos de fallecimiento cuyas actas autorice, relativas a personas mayores de dieciocho años, a fin de que se proceda a cancelar en el padrón dichas inscripciones.
+
+Los jueces comunicarán al Registro Estatal de Electores las resoluciones que dicten, en las que se declare la presunción de muerte del ausente, dentro de los diez días, a partir de la fecha en que la sentencia cause ejecutoria.
+
+Los jueces que dicten resoluciones que decreten la suspensión, pérdida o rehabilitación de los derechos ciudadanos o que afecten la capacidad civil, comunicarán estos hechos al Registro Estatal de Electores, en un plazo no mayor de diez días, a partir de la fecha en que quede firme la resolución o acuerdo de que se trate.
+
+Los funcionarios y empleados estatales y municipales auxiliarán al Registro Estatal de Electores y están obligados a prestarle su cooperación, cuando la solicite.
+
+Cualquier elector o partido político puede solicitar, previa aportación de los elementos probatorios correspondientes, que se cancele en el padrón único el registro de un elector, cuya inscripción deba ser depurada por alguna de las causas que este Código señala.
+
+Aquellos electores que sean excluidos del padrón electoral por cancelación de su inscripción en el Registro Estatal de Electores, podrán inconformarse ante el propio Registro para solicitar su inclusión.
+
+Cuando lo determine la Comisión Estatal Electoral, el Registro Estatal de Electores utilizará las técnicas censales electorales, por secciones, las que podrán ser parciales o totales, a fin de mantener actualizado el padrón único.
+
+Los procedimientos técnico censales electorales los llevarán a cabo el propio Registro y los organismos y funcionarios que la ley determine, quienes serán considerados como sus auxiliares.
+
+Para la realización de los procedimientos técnico censales, la Comisión Estatal Electoral solicitará a las autoridades estatales y municipales, por conducto del Registro Estatal de Electores, de conformidad con lo establecido en al artículo 5o. Constitucional, la colaboración de los ciudadanos, de los funcionarios y empleados que sean necesarios para la actualización del padrón único, que presten sus servicios en las dependencias que a continuación se indican:
+
+I.- Las del Registro Civil;
+
+II.- Las de escuelas estatales y municipales;
+
+III.- Otros funcionarios o empleados que a juicio de la Comisión Estatal Electoral, por las atribuciones que desempeñen, estén en aptitud de colaborar en la actualización del padrón.
+
+El Registro Estatal de Electores procederá al análisis de la información contenida en la aplicación de las técnicas censales electorales y hará las correcciones que procedan en el padrón único.
+
+La sección electoral es la demarcación territorial en que se dividen los Municipios para la recepción del sufragio, con base en la cual se elaboran las listas nominales de electores.
+
+Las listas nominales de electores de cada distrito deben clasificarse por municipios y secciones. Cuando sea necesario dividir un municipio en varios Distritos Electorales, las listas comprenderán a los electores de cada distrito.
+
+El Registro Estatal de Electores comunicará a la Comisión Estatal Electoral, a más tardar el veinte de enero del año de la elección ordinaria, el estado que guarda la división seccional, para que ésta a su vez lo haga del conocimiento de los demás organismos electorales.
+
+El Registro Estatal de Electores por conducto de la Comisión Estatal Electoral, entregará a las delegaciones distritales las listas nominales básicas y complementarias de electores de cada municipio, ordenadas alfabéticamente y clasificadas por secciones, para que aquéllas a su vez entreguen a más tardar el treinta y uno de enero las primeras, y las segundas, hasta que se cierre el registro en el año de la elección, a las delegaciones municipales correspondientes.
+
+Cada delegación municipal fijará la lista nominal de electores en la cabecera del municipio, en estrados fácilmente visibles; manteniendo exhibidas por un período de sesenta días naturales las básicas y quince días naturales las complementarias.
+
+Durante el lapso a que se refiere el artículo anterior los ciudadanos y partidos políticos, pueden acudir a las delegaciones municipales del Registro Estatal de Electores con las pruebas necesarias, solicitando la exclusión de personas en caso de incapacidad, inhabilitación o fallecimiento, o la inclusión cuando lo juzguen procedente. Estas remitirán las inconformidades a la delegación distrital respectiva, quien resolverá lo que corresponda. En caso de negativa, el interesado procederá en los términos de este Código.
+
+A más tardar el quince de mayo y treinta y uno de mayo respectivamente, del año de la elección ordinaria, las delegaciones municipales devolverán a la Comisión Estatal Electoral por conducto de los Comités Distritales, las listas electorales básicas y complementarias, con las correcciones procedentes.
+
+El Registro Estatal de Electores enviará las listas nominales definitivas de electores las que comprenderán a los ciudadanos inscritos hasta el treinta de mayo del año de la elección, a la Comisión Estatal Electoral para que las distribuya entre los Comités Distritales Electorales antes del quince de junio del año de la elección ordinaria y éstos procedan a su vez, de igual manera respecto de los presidentes de casillas.
+
+El día de la elección, cualquier elector, partido político o sus representantes, podrán presentar ante la mesa directiva de casilla, las protestas y observaciones a la inclusión o exclusión de electores.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1979)</small>
+
+## TITULO SEGUNDO. DE LOS PARTIDOS POLITICOS Y DEL DERECHO INDIVIDUAL DEL VOTO
+
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+
+### CAPITULO II. DEL VOTO
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 500.
 
-Cuando resulte que un partido no llene los requisitos legales, podrá decretarse la cancelación temporal o definitiva de su registro.
+Los partidos políticos son asociaciones constituidas conforme a la ley por ciudadanos mexicanos, en pleno ejercicio de sus derechos políticos, quienes en el cumplimiento de sus funciones contribuyen a integrar la voluntad política del pueblo y mediante su actividad en los procesos electorales a coadyuvar en la constitución de la representación estatal y municipal.
 
-Ninguna cancelación de registro podrá decretarse sin previa citación del partido, a fin de que por medio de sus representantes, conteste los cargos, presente las pruebas tendientes a su justificación y se le oiga en defensa.
+Para que una organización pueda ostentarse como partido político estatal, ejercer los derechos y gozar de las prerrogativas que le son propios, se requiere que se constituya y obtenga su registro en la Secretaría General de Gobierno, con arreglo a los requisitos y procedimientos que señala este Código. En el caso de los partidos políticos nacionales bastará que éstos hayan obtenido su registro definitivo como tales en la Comisión Federal Electoral.
 
-Toda cancelación se publicará en la misma forma que el registro.
+La acción de los partidos políticos tenderá a:
+
+I.- Propiciar la articulación social y la participación democrática de los ciudadanos;
+
+II.- Promover la formación ideológica de sus militantes;
+
+III.- Coordinar acciones políticas conforme a principios y programas; y
+
+IV.- Estimular discusiones sobre intereses comunes y deliberaciones sobre objetivos estatales y municipales a fin de establecer vínculos permanentes entre la opinión ciudadana y los poderes públicos.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 501.
 
-En cada elección solamente tienen derecho a intervenir como partidos políticos las agrupaciones que hayan sido debidamente constituidas y registradas por lo menos seis meses antes de la misma.
+Toda organización que pretenda constituirse como partido político estatal, deberá formular una declaración de principios y en consonancia con ellos, su programa de acción y los estatutos que normen sus actividades.
+
+I.- La declaración de principios deberá contener:
+
+a).- La obligación de observar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, y de respetar las leyes e instituciones que de ellas emanen;
+
+b).- Las bases ideológicas de carácter político, económico y social que postulen;
+
+c).- La obligación de no aceptar pacto o acuerdo que los sujete o subordine a cualquier organización internacional o los haga depender de entidades o partidos políticos extranjeros;
+
+d).- La obligación de llevar a cabo sus actividades por medios políticos pacíficos y por la vía democrática.
+
+II.- El programa de acción determinará:
+
+a).- Las medidas que pretendan tomar para realizar sus principios, alcanzar sus objetivos, y las políticas propuestas para resolver los problemas nacionales, estatales y municipales;
+
+b).- Los medios que adopte con relación a sus fines de dirección ideológica, formación política y participación electoral de sus militantes.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 502.
 
-Los miembros directores y los representantes de los partidos serán responsables civil y penalmente por los actos que ejecuten en ejercicio de su cometido.
+Los estatutos de los partidos políticos contendrán:
+
+I.- Una denominación propia y distinta a la de los otros partidos registrados, así como el emblema y color o colores que los caracterice y diferencie de otros partidos políticos, todo lo cual deberá estar exento de alusiones religiosas o raciales;
+
+II.- Los procedimientos de afiliación y los derechos y obligaciones de sus miembros;
+
+III.- Los procedimientos internos para la renovación de sus dirigentes y las formas que deberán revestir los actos para la postulación de sus candidatos;
+
+IV.- Las funciones, obligaciones y facultades de sus órganos;
+
+V.- Las sanciones aplicables a los miembros que infrinjan sus disposiciones internas.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 503.
 
-Cuando dos o más partidos sostengan una misma candidatura, deberán designar un solo representante común ante los organismos electorales, si no se pusieren de acuerdo, la designación podrá ser hecha por el candidato mismo.
+Los órganos de los partidos políticos serán por lo menos:
+
+I.- Una asamblea estatal;
+
+II.- Un comité ejecutivo que tendrá la representación del partido en todo el Estado;
+
+III.- Comités directivos en cada Distrito Electoral;
+
+IV.- Comités municipales constituidos por lo menos en la mitad de los Municipios del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 504.
 
-La propaganda electoral está sujeta a las siguientes reglas:
+Para que una organización pueda constituirse como partido político estatal en los términos de este Código, es necesario que satisfaga los siguientes requisitos:
 
-I.- Se prohibe el empleo de símbolos, signos o motivos religiosos y raciales;
+I.- Que cuente con un mínimo de trescientos afiliados en cada uno cuando menos de las dos terceras partes de los Municipios en el Estado, siempre que el número total de sus miembros en la Entidad no sea menor de quince mil;
 
-II.- Se prohiben las expresiones verbales o escritas contrarias a la moral, o que inciten al desorden; y
+II.- Haber celebrado en cada uno cuando menos de las dos terceras partes de los Municipios una asamblea en presencia de notario público o de quien haga sus veces por ministerio de ley, o funcionario acreditado por la Secretaría General de Gobierno para tal efecto, que certificará:
 
-III.- No se permite la fijación e inscripción de propaganda:
+a).- Que a la asamblea concurrieron por lo menos el número de afiliados a que se refiere la fracción I de este artículo; que aprobaron la declaración de principios, programas de acción, estatutos, y que suscribieron el documento de manifestación formal de afiliación;
 
-1.- En los pavimentos de las calles, calzadas, carreteras, aceras y cordones respectivos;
+b).- Que con las personas mencionadas en el inciso anterior quedaron formadas las listas de afiliados con el nombre, los apellidos y el número de la credencial permanente de elector y el domicilio; y
 
-2.- En las obras de arte y monumentos públicos;
+c).- Que igualmente se formaron listas de afiliados con los demás militantes con que cuenta la organización en el resto del Estado, con el objeto de satisfacer el requisito mínimo de quince mil miembros exigidos por este artículo. Estas listas contendrán los datos exigidos por el inciso anterior.
 
-3.- En los edificios o locales de la Federación, de los Estados o de los Municipios;
+III.- Haber celebrado una asamblea estatal constitutiva ante la presencia de cualquiera de los funcionarios a que se refiere la fracción II de este artículo, quien certificará:
 
-4.- En los edificios y obras de propiedad particular, sin permiso del propietario.
+a).- Que asistieron los delegados propietarios o suplentes elegidos en las asambleas municipales;
+
+b).- Que acreditaron por medio de las actas correspondientes, que las asambleas se celebraron de conformidad con lo prescrito en la fracción II;
+
+c).- Que se comprobó la identidad y domicilio de los delegados a la asamblea estatal, por medio de la credencial permanente de elector u otro documento fehaciente; y
+
+d).- Que fueron aprobados su declaración de principios, programa de acción y estatutos.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 505.
 
-En los términos del artículo 34 de la Constitución General de la República y del artículo 20 de la Constitución Política del Estado de Chihuahua, son electores los ciudadanos chihuahuenses que estén en el goce de sus derechos políticos y sean inscritos en el Padrón y listas electorales.
+Para solicitar su registro como partido político estatal las organizaciones interesadas deberán haber satisfecho los requisitos a que se refiere este Código, presentando para tal efecto ante la Secretaría General de Gobierno las siguientes constancias:
+
+I.- Los documentos en los que conste la declaración de principios, el programa de acción y los estatutos;
+
+II.- Las listas nominales de afiliados por municipio, a que se refieren los incisos b) y c) de la fracción II del artículo 504;
+
+III.- Las actas de las asambleas celebradas en los municipios y la de la asamblea estatal constitutiva.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 506.
 
-Es obligación de todo elector emitir su voto en la Sección Electoral de su domicilio. Solamente en ésta tendrá validez, salvo las excepciones que señale este Código.
+Dentro del plazo de ciento veinte días naturales contados a partir de la fecha de presentación de la solicitud de registro, la Secretaría General de Gobierno, resolverá lo conducente.
+
+Cuando proceda, expedirá certificado haciendo constar el registro; en caso de negativa, fundará y motivará la resolución y la comunicará a los interesados, la que será definitiva y no admitirá recurso alguno. Toda resolución deberá publicarse en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 507.
 
-Serán igualmente obligaciones de los electores:
+Al obtener el registro, la organización estatal adquirirá existencia como partido político, dotado de plena personalidad jurídica y gozará de todos los derechos.
 
-I.- Hacerse inscribir en el Padrón y listas electorales, promoviendo, si fuere necesario, los recursos que señala la ley; y
-
-II.- Desempeñar los cargos electorales para que fueron designados, vigilando siempre por la pureza del sufragio.
-
-Los cargos electorales no son renunciables.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 508.
 
-No pueden ser electores:
+La Secretaría General de Gobierno informará a la Comisión Estatal Electoral cuales son los partidos legalmente registrados, así como sus características distintivas.
 
-I.- Los que carezcan de credencial de elector;
-
-II.- Los que estén sujetos a interdicción judicial;
-
-III.- Los que estén asilados en establecimientos para toxicómanos o enfermos mentales;
-
-IV.- Los que estén sujetos a un proceso criminal por delito que merezca pena corporal, a partir de la fecha del auto de formal prisión;
-
-V.- Los que se encuentren extinguiendo una sentencia que imponga pena corporal;
-
-VI.- Los prófugos de la justicia desde que se dicte la orden de aprehensión hasta que prescriba la acción penal;
-
-VII.- Los condenados por sentencia ejecutoria a la pena de suspensión del voto;
-
-VIII.- Los condenados por sustracción o falsificación de votos;
-
-IX.- Los declarados vagos o ebrios consuetudinarios, en los términos de ley, en tanto no haya rehabilitación.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 509.
 
-Son elegibles para los cargos de Gobernador y Diputados, todos los que además de tener la calidad de electores reúnan los requisitos establecidos en la Constitución Federal y en la Particular del Estado.
+El cambio de los documentos básicos de un partido, en su nombre y signos representativos deberá solicitarse por escrito a la Secretaría General de Gobierno, acompañándose los documentos correspondientes, la que en el plazo de ciento veinte días naturales acordará lo procedente. La resolución que recaiga no admitirá recurso alguno.
+
+Ningún partido podrá efectuar los cambios a que se refiere el párrafo anterior, hasta que no sea debidamente autorizado; la violación a este precepto se sancionará con la cancelación del registro respectivo.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 510.
 
-Son elegibles para los cargos de Presidente Municipal y Regidores todos los que además de tener calidad de electores, reúnan los requisitos establecidos en la Constitución Política del Estado y en el Código Municipal.
+Los partidos políticos constituidos conforme a este Código tendrán los siguientes:
+
+I.- Derechos:
+
+a).- Postular candidatos en las elecciones estatales y municipales, cuando hayan obtenido su registro cuando menos con un año de anticipación al día de la elección;
+
+b).- Formar parte de los organismos electorales a que se refiere este Código;
+
+c).- Tener acceso en forma permanente y gratuita a los servicios radiotelefónicos propiedad del Gobierno del Estado;
+
+d).- Gozar de exención de impuestos y derechos;
+
+e).- Las demás que este Libro les otorga.
+
+II.- Obligaciones:
+
+a).- Mantener el mínimo requerido de afiliados en los Municipios para su constitución y registro;
+
+b).- Ostentarse con la denominación, emblema y color o colores que tengan registrados;
+
+c).- Cumplir sus normas de afiliación y obser-- (sic) los procedimientos que señalen en sus estatutos para la postulación de candidatos y mantener en funcionamiento efectivo a sus órganos de dirección;
+
+d).- Contar con domicilio social para sus órganos directivos;
+
+e).- Sostener un centro de formación política;
+
+f).- Todas las demás que establezca esta Ley.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 511.
 
-Nunca podrán ser electos para el período inmediato:
+Para fines electorales los partidos políticos tienen el derecho de formar coaliciones a fin de postular candidatos en las elecciones estatales y municipales, debiendo suscribir un convenio que contendrá:
 
-I.- El Gobernador substituto constitucional o el designado para concluir el período en caso de falta absoluta del constitucional, aún cuando tenga distinta denominación; y
+a).- Elección que la motiva;
 
-II.- El Gobernador Interino, el provisional o el ciudadano que, bajo cualquiera denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
+b).- Nombre, apellidos, edad, lugar de nacimiento y domicilio de los candidatos;
+
+c).- Cargo para el que se les postula;
+
+d).- Emblema y color o colores propios de la coalición;
+
+e).- Forma en que convengan los integrantes de la coalición para ejercer en común los derechos de los partidos y de los candidatos, dentro de los señalamientos de este Código.
+
+El convenio de coalición deberá presentarse para su registro a la Comisión Estatal Electoral a más tardar la primera semana de marzo del año de la elección. En el caso de las elecciones extraordinarias, se estará al término que para el registro de candidatos señale la convocatoria.
+
+Los partidos políticos no podrán postular candidatos propios donde ya hubiere candidatos de coalición de la que ellos formen parte.
+
+Concluido el proceso electoral, automáticamente termina la coalición.
+
+Dos o más partidos políticos sin mediar coalición, pueden postular al mismo candidato, pero para ello es indispensable el consentimiento de éste, lo que se comunicará a la Comisión Estatal Electoral. Los votos se computarán en favor de cada uno de los partidos políticos que los hayan obtenido y se sumarán en favor del candidato.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 512.
 
-Los diputados locales no podrán ser reelectos para el período inmediato. Los suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio; pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
+Los votos que obtengan los candidatos de una coalición serán para ésta, por considerársele para estos efectos como un solo partido, teniendo derecho a que le sean acreditados diputados de minoría y regidores proporcionales, de cumplir con lo establecido en los artículos 40 y 126 de la Constitución Política del Estado, y en los preceptos relativos de este Código.
+
+Para los efectos de reconocimiento de diputados de minoría y de regidores proporcionales, las coaliciones sólo podrán acumular los votos emitidos a favor de sus candidatos comunes.
+
+Los partidos políticos que para los fines mencionados convengan en coaligarse parcialmente, sosteniendo determinados candidatos, no tendrán derecho a acreditar diputados de minoría, con base en la votación que reciban sus candidatos no comunes.
+
+Cuando con el consentimiento de un candidato, su registro sea hecho por dos o más partidos políticos sin mediar coalición, los votos emitidos a su favor serán computables para el reconocimiento de diputados de minoría, a la organización política en cuyo favor se hayan emitido, salvo lo establecido en el artículo 551 fracción I, pues en este caso, el voto sólo contará para el candidato.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 513.
 
-No podrán ser reelectos en el período inmediato para ninguno de los puestos del Ayuntamiento el Presidente Municipal y los Regidores, así como sus suplentes aún cuando se hubieran separado anticipadamente de sus funciones. Quedan comprendidos en esta incapacidad los miembros de un Ayuntamiento que hayan sido nombrados por el Congreso de acuerdo con sus facultades.
+Los partidos políticos registrados pueden solicitar ante la Secretaría General de Gobierno, que se investiguen las actividades de otros partidos cuando existan motivos fundados para considerar que incumplen alguna de sus obligaciones o que sus actividades no se apegan a este Libro.
 
-Se exceptúan de esta prohibición los suplentes electos en elección directa o designados por el Congreso, que no hubieren entrado en funciones durante todo el ejercicio correspondiente.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 514.
 
-Ningún ciudadano podrá aceptar o propagar su candidatura para desempeñar los cargos de Gobernador, Diputados o miembros de los ayuntamientos si no es elegible.
+Los partidos políticos estatales perderán su registro por las siguientes causas:
+
+I.- Por haber dejado de reunir los requisitos necesarios para obtener el registro;
+
+II.- Por incumplir con las obligaciones que señala este Código;
+
+III.- Cuando haya sido declarado disuelto por acuerdo de la voluntad de sus miembros, conforme a lo que establezcan sus estatutos;
+
+IV.- Por haberse fusionado con otro partido político para lo cual deberá cumplir con los requisitos que exige este Código para la constitución de los mismos.
+
+Toda cancelación se acordará por la Secretaría General de Gobierno, previa citación del partido cuando las causas de aquélla sean las señaladas en las fracciones I y II de este artículo, a fin de que por conducto de sus representantes se le oiga en defensa y pueda aportar las pruebas que considere necesarias.
+
+Durante el desarrollo del proceso electoral, la cancelación del registro de las coaliciones se efectuará cuando cualquiera de los partidos políticos que la integren así lo solicite o cuando se violen las disposiciones de este Código por la propia coalición o sus integrantes.
+
+El acuerdo de cancelación se comunicará a los representantes del partido si procediere, y se publicará por una sola vez en el Periódico Oficial del Estado.
+
+Contra el acuerdo de cancelación no procede recurso alguno.
+
+La pérdida del registro definitivo de un partido político no tiene efectos en relación con los triunfos que sus candidatos hayan obtenido en las elecciones, según el principio de mayoría relativa y en la designación de los diputados de minoría y regidores proporcionales.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 515.
 
-Para los efectos de este Código en cuanto a las elecciones municipales se estará a la división política que establece el Código Municipal.
+Los dirigentes y los representantes de los partidos políticos son responsables civil y penalmente por los actos que ejecuten en ejercicio de sus funciones.
 
-Para el efecto de la elección de Gobernador y Diputados, el Estado de Chihuahua se divide en catorce Distritos Electorales:
-
-I.- Primer Distrito Electoral, con la Municipalidad de Chihuahua y cabecera en la Ciudad de Chihuahua;
-
-II.- Segundo Distrito Electoral, con las Municipalidades de H. del Parral, Matamoros y Valle de Zaragoza, con cabecera en la Ciudad de H. del Parral;
-
-III.- Tercer Distrito Electoral, con las Municipalidades de General Trías, Satevó, Gran Morelos, Dr. Belisario Domínguez, Cusihuiriáchic, Riva Palacio, Cuauhtémoc, Nonoava, San Francisco de Borja y Carichic, con cabecera en la Ciudad de Cuauhtémoc;
-
-IV.- Cuarto Distrito Electoral, con las Secciones Electorales comprendidas en la zona de la población de Ciudad Juárez, que queda al Oeste del eje formado por la Av. Cinco de Mayo, hasta su entronque con la línea de los Ferrocarriles Nacionales de México y la continuación de esta propia vía;
-
-V.- Quinto Distrito Electoral, con las Municipalidades de Camargo, San Francisco de Conchos, La Cruz, Delicias, Saucillo, Rosales y Meoqui, con cabecera en Ciudad Camargo;
-
-VI.- Sexto Distrito Electoral, con las Municipalidades de Jiménez, López, Coronado y Allende, con cabecera en Ciudad Jiménez;
-
-VII.- Séptimo Distrito Electoral, con las Municipalidades de Guerrero, Matachic, Temósachic, Madera, Namiquipa, Gómez Farías y Bachíniva, con cabecera en Ciudad Guerrero;
-
-VIII.- Octavo Distrito Electoral, con las Municipalidades de Ojinaga, Coyame, Aldama, Julimes, Manuel Benavides y Aquiles Serdán, con cabecera en la Ciudad de Ojinaga;
-
-IX.- Noveno Distrito Electoral, con las Municipalidades de Casas Grandes, Nuevo Casas Grandes, Janos, Ascención, Galeana, Buenaventura, Ahumada e Ignacio Zaragoza, con cabecera en la población de Nuevo Casas Grandes;
-
-X.- Décimo Distrito Electoral, con las Municipalidades de Batopilas, Guachochi, Urique y Morelos, con cabecera en la población de Guachochi;
-
-XI.- Décimo Primer Distrito Electoral, con las Municipalidades de Guadalupe y Calvo, Balleza y El Tule, con cabecera en la Villa de Guadalupe y Calvo;
-
-XII.- Décimo Segundo Distrito Electoral, con las Municipalidades de Bocoyna, Chínipas, Guazapares, Maguarichi, Moris, Ocampo y Uruachi, con cabecera en el mineral de Uruachi;
-
-XIII.- Décimo Tercer Distrito Electoral, con las Municipalidades de Santa Bárbara, San Francisco del Oro, Huejotitán y Rosario, con cabecera en la Ciudad de Santa Bárbara;
-
-XIV.- Décimo Cuarto Distrito Electoral, con las Secciones Electorales comprendidas en la zona de la población de Cd. Juárez que queda al Este del eje que forman la Av. Cinco de Mayo hasta su entronque con la línea de los Ferrocarriles Nacionales de México y la continuación de esta propia línea, más la Sección Municipal de Samalayuca y los Municipios de Guadalupe, D. B. y Praxedis G. Guerrero.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 516.
 
-La división territorial electoral de cada Distrito y Municipio y la formación del padrón y de las listas electorales y su revisión y conservación quedan encomendadas a un cuerpo técnico permanente que se denominará "Consejo del Padrón Electoral Estatal".
+Los partidos políticos tendrán derecho a designar un solo representante ante los organismos electorales en que proceda, para formar parte de los mismos de acuerdo con este Código; los que tendrán asimismo y en su caso la representación de los candidatos.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 517.
 
-El Consejo del Padrón Electoral Estatal se integrará con un Presidente, un Secretario y un Vocal y los auxiliares que sean necesarios, nombrados todos ellos por el Gobernador del Estado.
+La propaganda electoral se sujetará a lo siguiente:
 
-### CAPITULO VIII. DE LA PREPARACION DE LAS ELECCIONES
+I.- Se prohibe el empleo de símbolos o signos, con motivos religiosos o raciales;
+
+II.- Se prohiben las expresiones verbales o escritas contrarias a la moral, a las buenas costumbres, inciten a la violencia o tiendan a obstruir el proceso electoral;
+
+III.- Se prohibe la fijación de propaganda en cualquier forma:
+
+a).- En el pavimento de las vías de comunicación locales o municipales y en sus aceras o cordones;
+
+b).- En los monumentos artísticos, edificios públicos y otros que tengan un valor histórico. En bienes de propiedad particular sólo podrá hacerse con la autorización de quien pueda otorgarla;
+
+IV.- Los partidos deberán cuidar que su propaganda no modifique el paisaje ni perjudique a los elementos que forman el entorno natural. En consecuencia se abstendrán de utilizar con estos fines, accidentes orográficos tales como cerros, colinas y montañas;
+
+V.- No se permitirá la celebración de mítines, reuniones públicas ni cualquier otro acto de propaganda pública en el día de la elección y los tres que le precedan.
+
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+
+### CAPITULO I. DE LA PREPARACION
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 518.
 
-El Consejo del Padrón Electoral Estatal tendrá autonomía administrativa, se sujetará a las normas establecidas por la ley y podrá usar gratuitamente de las vías telefónicas y radiotelefónicas del Estado para tratar asuntos de su competencia.
+Votar constituye una prerrogativa y una obligación del ciudadano. El voto es universal, libre, secreto y directo.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 519.
 
-La sede del Consejo será la Ciudad de Chihuahua, estableciendo las delegaciones necesarias y agencias foráneas que se necesiten para el eficaz desempeño de sus funciones.
+En los términos del artículo 34 de la Constitución General de la República y 20 de la Constitución Política del Estado, ejercerán el voto activo los ciudadanos que hayan cumplido dieciocho años de edad, se encuentren en ejercicio de sus derechos políticos, estén inscritos en el padrón electoral y no se encuentren bajo impedimento legal.
+
+Ninguna autoridad puede la víspera o el día de la elección aprehender a un elector, sino hasta después de que haya votado, salvo los casos de flagrante delito o por orden especial del presidente de una casilla, tomándose las medidas necesarias para que el detenido sufrague.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 520.
 
-El Consejo del Padrón Electoral Estatal tendrá las siguientes funciones:
+Son obligaciones de los ciudadanos:
 
-I.- Hacer la división territorial electoral en cada Distrito y Municipio, en caso necesario para formar secciones electorales. Al publicarse, los datos definitivos de cada Distrito o Municipio del censo de población que conforme a la Ley Federal de Estadística debe levantarse en los años terminados en 0, se hará división territorial del Estado en Distritos, la cual no será modificada durante los períodos intercensales;
+I.- Inscribirse en el padrón electoral;
 
-II.- Concentrar y revisar periódicamente el padrón de votantes electorales de cada Distrito y Municipio y tabular sus resultados con anticipación necesaria a cada elección;
+II.- Desempeñar en forma obligatoria y gratuita las funciones electorales para las que sean designados; sólo podrán admitirse excusas cuando se funden en causa justificada, que comprobará el interesado ante el organismo que haya hecho la designación;
 
-III.- Entregar las listas electorales y el padrón de votantes electorales a la Comisión Estatal Electoral para su distribución en cada Distrito y Municipio por conducto de los Comités Electorales Distritales y Municipales;
+III.- Votar en la casilla que corresponda a su domicilio, salvo las excepciones que establece este Libro; y
 
-IV.- Obtener una vez efectuada la votación las constancias del número de votos emitidos en cada Distrito y Municipio y hacer las observaciones correspondientes;
+IV.- Desempeñar los cargos de elección popular para los que sean electos.
 
-V.- Establecer las bases para la organización del registro permanente de electores votantes a fin de mantenerlo al corriente en sus movimientos de alta y baja;
-
-VI.- Expedir y entregar las credenciales de votantes electores;
-
-VII.- Las demás que señala la ley.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 521.
 
-El registro de electores votantes se hará con arreglo a las siguientes disposiciones:
+Son impedimentos para ser elector:
 
-I.- Tendrán derecho a ser inscritos en el padrón de votantes electores todos los ciudadanos chihuahuenses en uso de sus derechos cívicos al cumplir dieciocho años de edad. Las personas que reuniendo todos los demás requisitos para ser registradas no hayan cumplido dieciocho años de edad, pero que cumplan la edad antes mencionada con anticipación al día de la elección, podrán ser inscritas en el padrón previa presentación de las pruebas legales que certifiquen su edad;
+I.- Estar sujeto a proceso criminal por infracción antisocial que merezca medida corporal de defensa social, desde que se dicte auto de reclusión preventiva;
 
-II.- Para poder ser inscritos en el padrón de votantes, además de reunir las condiciones señaladas en la fracción anterior, será necesario haber residido consecutivamente seis meses o más en el Distrito o Municipio, salvo los casos en que se desempeñe puesto de elección popular o en el servicio exterior de los Estados Unidos Mexicanos, en los cuales no se pierde la última vecindad;
+II.- Estar extinguiendo medida defensiva de reclusión;
 
-III.- El Consejo tendrá la obligación de revisar constantemente el padrón de votantes electorales a fin de tenerlo siempre al corriente;
+III.- Estar sujeto a interdicción judicial o asilado en establecimientos para toxicómanos o enfermos mentales;
 
-IV.- El Consejo del Padrón electoral establecerá oficinas en cada Municipio, para el efecto del registro de votantes, pudiendo delegar esta función en los ayuntamientos, quienes estarán obligados a colaborar con el Consejo en la formación del padrón.
+IV.- Ser declarado vago o ebrio consuetudinario, en los términos de ley, en tanto no haya rehabilitación;
 
-Los gastos respectivos serán cubiertos por el Gobierno del Estado;
+V.- Estar prófugo de la justicia desde que se dicte la orden de aprehensión hasta la prescripción de la acción penal;
 
-V.- Todos los ciudadanos chihuahuenses están obligados a inscribirse personalmente en el Registro de Votantes de Electores, dicha inscripción es requisito previo del voto;
+VI.- Estar condenado por sentencia ejecutoria a la suspensión o pérdida de sus derechos políticos en tanto no haya rehabilitación; y
 
-VI.- Los nombres y demás datos de los electores serán inscritos en una credencial aprobada por la Comisión Estatal Electoral;
+VII.- Los demás que señala esta Ley.
 
-VII.- Una vez que el presunto votante elector haya satisfecho los requisitos de registro, recibirá su credencial que le dará derecho a acudir a las casillas de votación en la fecha señalada para la elección.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 522.
 
-La credencial se ceñirá al modelo que apruebe la Comisión Estatal Electoral, será numerada progresivamente y sin duplicado de números, de ser posible estará perforada en clave especial a fin de facilitar la identificación y confronta, así como para hacer posible la tabulación de los datos del registro de votantes la credencial se hará por duplicado, entregándose el original al elector, una vez terminada su inscripción y quedando el duplicado en poder del Consejo del Padrón Electoral. Toda alteración raspadura o enmendadura anula la credencial.
+Son elegibles para los cargos de Gobernador y Diputados, los ciudadanos que teniendo la calidad de electores reúnan además los requisitos establecidos en la Constitución General de la República y la Particular del Estado.
 
-Para los efectos de este precepto y de las funciones que corresponden al Consejo del Padrón Electoral Estatal, respecto al registro de votantes y expedición de credenciales de los mismos, en las elecciones de Gobernador, Diputados al Congreso del Estado y miembros de los Ayuntamientos, podrán utilizarse las credenciales de elector que expida la Dirección del Registro Nacional de Electores, cuando éstas permitan efectuar las anotaciones necesarias en las elecciones de dichos funcionarios.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 523.
 
-Se declara de interés público el levantamiento del padrón de votantes electores y las autoridades estatales y municipales prestarán su colaboración en todo lo que fuere necesario a tal fin.
+Son elegibles para el cargo de miembros de los Ayuntamientos los ciudadanos que teniendo la calidad de electores reúnan los requisitos establecidos en la Constitución Política del Estado y en el Código Municipal.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 524.
 
-Los Encargados del Registro Civil deberán enviar mensualmente al Consejo del Padrón Electoral Estatal una relación de los electores cuya defunción inscriban en dicho registro y de aquellos actos del estado civil que influyan en la condición de los electores.
+Ningún ciudadano podrá aceptar o propagar su candidatura para desempeñar los cargos de Gobernador, Diputados o miembros de los Ayuntamientos si no es elegible.
 
-Los Jueces de lo Civil y de lo Penal informarán igualmente al Consejo del Padrón Electoral de las resoluciones que afecten los derechos políticos de los ciudadanos chihuahuenses.
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1979)</small>
 
-## TITULO UNICO. DE LA DELINCUENCIA DE MENORES
+## TITULO TERCERO. DEL PROCESO ELECTORAL
 
-### CAPITULO IX. DE LA ELECCION
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+
+### CAPITULO II. DE LA JORNADA ELECTORAL
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 525.
 
-El día quince de mayo del año de la elección, la Comisión Estatal Electoral y de los Comités Electorales Distritales y Municipales, publicarán aviso de quedar abierto el registro de candidatos a Gobernador, Diputados, Presidentes Municipales y Regidores, Propietarios y Suplentes. El registro quedará abierto por el término de quince días contados desde la fecha de la publicación del aviso respectivo.
+El proceso electoral comprende el conjunto de decisiones, tareas y actividades que realicen los organismos electorales, los partidos políticos y los ciudadanos, con objeto de integrar los órganos de representación popular.
 
-Dentro del plazo anterior los partidos podrán substituir libremente a los candidatos que ya hubieren registrado. Vencido éste, los partidos podrán solicitar ante la Comisión Estatal Electoral la cancelación de registro de uno o varios candidatos, pero sólo podrán substituirlos por otros a causa de fallecimiento, inhabilitación o incapacidad.
+El proceso electoral se inicia en el mes de noviembre del año anterior a la elección ordinaria y concluye en el mes de septiembre del año de la elección.
+
+Las fases básicas de dicho proceso son:
+
+I.- Comprobar durante los meses de noviembre, diciembre y enero la debida integración y funcionamiento de los organismos electorales;
+
+II.- Establecer a partir del mes de febrero el número de circunscripciones territoriales y sede de las secciones electorales;
+
+III.- Abrir en el mes de marzo los registros de candidatos;
+
+IV.- Realizar en los meses de marzo, abril, mayo y junio las demás actividades previas al día de la votación;
+
+V.- Recibir el sufragio el primer domingo de julio;
+
+VI.- Efectuar los cómputos el segundo domingo de julio;
+
+VII.- Registrar a partir del mes de agosto las constancias de mayoría así como calificar las elecciones ordinarias de Gobernador del Estado;
+
+VIII.- Calificar las elecciones de diputados de mayoría y asignar, en el mes de septiembre, los diputados de minoría y regidores proporcionales y expedir las constancias correspondientes.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 526.
 
-Las candidaturas de Gobernador se registrarán ante la Comisión Estatal Electoral.
+El registro de candidatos a Gobernador del Estado estará abierto del primero al quince de marzo inclusive, del año en que se celebre la elección ordinaria.
 
-Las candidaturas a Diputados se registrarán por fórmulas, integrada cada un (sic) por un propietario y un suplente ante el Comité Electoral Distrital respectivo.
+El registro de candidatos a Diputados y miembros de los Ayuntamientos propietarios y suplentes, estará abierto del primero al quince de mayo inclusive, del año en que se celebre la elección ordinaria.
 
-Las candidaturas para miembros del Ayuntamiento se registrarán por planillas integrada cada una por un Presidente Municipal Propietario y su respectivo Suplente así como por el número de Regidores que determine el Código Municipal, ante el Comité Electoral Municipal que corresponda.
+Dentro de los plazos establecidos los partidos políticos podrán libremente sustituir a los candidatos que hubiere registrado. Concluidos aquéllos, sólo por acuerdo de la Comisión Estatal Electoral podrá hacerse sustitución de candidatos, por causa de fallecimiento, inhabilitación o incapacidad.
 
-El registro deberá contener:
+Sin que se otorgue derecho a sustitución, los partidos podrán solicitar ante la Comisión Estatal Electoral fuera de los plazos establecidos, las cancelaciones de las inscripciones respectivas.
 
-I.- Nombre y apellidos de los candidatos tanto propietarios como suplentes;
-
-II.- Edad, lugar de nacimiento y domicilio;
-
-III.- Cargo para el cual se postula;
-
-IV.- La denominación, el color o combinación de colores y emblema del partido que lo sostiene;
-
-V.- Ocupación; y
-
-VI.- Número de la credencial permanente de elector.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 527.
 
-Sólo los partidos políticos registrados y reconocidos conforme a las disposiciones de este Libro podrán registrar candidatos.
+Los partidos y coaliciones pueden pedir el registro de candidatos; en la solicitud se anotará:
+
+I.- Nombre y apellidos del candidato;
+
+II.- Edad, lugar de nacimiento y domicilio;
+
+III.- Cargo para el que se postula;
+
+IV.- Denominación, color o combinación de colores y emblema del partido o coalición que lo postula;
+
+V.- Ocupación, número de la credencial de elector y fecha de ésta.
+
+Los organismos electorales recibirán las solicitudes de registro, procediendo a inscribirlas en el caso de que las mismas y los candidatos postulados reúnan los requisitos establecidos en este Código.
+
+Las decisiones de los Comités Distritales y Municipales Electorales serán revisables ante la Comisión Estatal Electoral, a petición de los partidos políticos, dentro del plazo de setenta y dos horas contado a partir de la fecha de inscripción respectiva.
+
+La Comisión Estatal Electoral resolverá en igual plazo las impugnaciones presentadas y su decisión será irrecurrible.
+
+Las candidaturas de Gobernador se registrarán ante la Comisión Estatal Electoral.
+
+Las candidaturas a Diputados se registrarán por fórmulas integradas cada una por un propietario y un suplente ante el Comité Distrital Electoral respectivo.
+
+Las candidaturas para miembros del Ayuntamiento se registrarán por plantillas integradas cada una por un presidente municipal propietario y su respectivo suplente, así como el número de regidores que determine el Código Municipal propietarios y suplentes, ante el Comité Electoral Municipal que corresponda.
+
+El Registro deberá contener los mismos datos que se señalan para la solicitud.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 528.
 
-Cada partido registrará un solo color o combinación de colores para todas las candidaturas que sostenga. Para el efecto, al solicitar su registro en la Secretaría General de Gobierno del Estado deberá señalar el color o combinación que usará en las boletas electorales. Si dos o más partidos sostienen la misma candidatura, deberán adoptar el mismo color o combinación de colores.
+Cada partido o coalición registrará un solo color o combinación de colores para todas las candidaturas que sostengan.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 529.
 
-La Comisión Estatal Electoral y los Comités Electorales harán del conocimiento público las candidaturas registradas, con los nombres de personas, partidos y colores respectivos, dentro de los tres días siguientes al registro.
+Los Comités Distritales y Municipales Electorales comunicarán a la Comisión Estatal Electoral el registro de los candidatos que hubieren efectuado, dentro de las setenta y dos horas siguientes a la fecha en que se realizó el registro.
+
+Los organismos electorales publicarán y difundirán oportunamente en el Periódico Oficial del Gobierno del Estado y en los medios locales de comunicación social que estimen convenientes los nombres de los candidatos registrados, partidos, emblemas y colores respectivos.
+
+En la misma forma se publicarán y difundirán las cancelaciones de registros y sustituciones de candidatos.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 530.
 
-Cada candidato, fórmula de candidatos o planillas tienen derecho desde que su candidatura quede registrada, a designar representantes ante la Comisión Estatal Electoral y Comités Electorales.
+Los partidos políticos o coaliciones tienen derecho, desde que queden registrados sus candidatos a designar un solo representante ante las mesas directivas de casilla.
 
-Los representantes podrán ser generales y especiales. Los representantes generales podrán actuar ante el Comité Electoral respectivo y ante la Comisión Estatal Electoral; y los representantes especiales serán los que se designen para intervenir en cada Casilla Electoral.
+Los nombramientos de los representantes se inscribirán ante los Comités Electorales, a más tardar el cuarto domingo de junio del año de la elección ordinaria.
+
+La solicitud para registrar los nombramientos de los representantes a que se refieren los párrafos anteriores deberán contener: nombre, apellidos, domicilio y partido o coalición representados.
+
+Cuando un Comité Electoral niegue el registro de nombramiento de representantes ante las casillas, la Comisión Estatal Electoral, a solicitud de los partidos podrá hacer el registro supletoriamente.
+
+Los partidos políticos y coaliciones tienen derecho, dentro del plazo señalado en los párrafos anteriores, a designar coordinadores de sus representantes ante las mesas directivas de casilla, para un distrito o municipio; estos nombramientos se inscribirán ante los Comités Electorales que corresponda.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 531.
 
-Los Comités Electorales registrarán hasta el cuarto domingo de Junio las credenciales de representantes de los partidos políticos, de los candidatos, fórmulas o planillas designados para intervenir en la preparación y desarrollo de las elecciones.
+El segundo domingo de junio del año de la elección ordinaria harán del conocimiento público en su circunscripción territorial el número de casillas que se integrará y la ubicación de ellas. Las casillas de cada sección se numerarán progresivamente.
+
+No podrán señalarse para la instalación de casillas las casas habitadas por funcionarios o empleados públicos, ni las fábricas.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 532.
 
-Los representantes nombrados en los términos de los artículos anteriores podrán ser varios, pero sólo el representante común en cada caso puede presentar durante la preparación o desarrollo de las elecciones y la computación de votos, las protestas que juzguen pertinentes por infracción de algunas de las disposiciones electorales. En las protestas sólo se hará constar el hecho y el artículo o artículos que se violen y será siempre por escrito. Por ningún motivo se podrá discutir sobre los hechos consignados en las protestas.
+Los locales y lugares que se señalen para la ubicación de las casillas deberán reunir las condiciones que hagan posible, el fácil y libre acceso de los electores y la emisión secreta del sufragio.
+
+Los partidos políticos, los candidatos y los ciudadanos en general podrán impugnar los nombramientos de los miembros de las mesas directivas de las casillas, cuando no reúnan los requisitos señalados en este Código, ante el Comité Electoral respectivo, dentro de los tres días siguientes a la publicación de las listas definitivas.
+
+El tercer domingo de junio los Comités Electorales Municipales harán del conocimiento público las listas definitivas de las casillas electorales que hayan de instalarse en sus respectivas circunscripciones y los lugares para su instalación, así como de los ciudadanos designados como presiente, secretario o escrutadores propietarios y suplentes, de cada una de ellas.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 533.
 
-El segundo domingo de junio del año de la elección los Comités Electorales Municipales harán del conocimiento público en cada una de las secciones electorales sobre el número de casillas que se instalarán y la ubicación de cada una de ellas. Las casillas de cada sección se numerarán progresivamente.
+Para la emisión del voto, se imprimirán las boletas electorales correspondientes conforme al modelo que apruebe la Comisión Estatal Electoral.
 
-No podrán señalarse para la instalación de casillas las casas habitadas por funcionarios o empleados públicos, federales, estatales o municipales; ni las fábricas, haciendas o fincas de campo que disten menos de cinco kilómetros de la cabecera del Municipio o poblado que constituya la sección inmediata, pues en tal caso se señalará un local dentro de aquélla o de éste.
+Las boletas contendrán:
 
-En caso de que las fábricas, haciendas o fincas de campo distaren cinco kilómetros o más de la cabecera del Municipio o de la sección inmediata, no podrá señalarse para la instalación la casa o dependencia de la fábrica, hacienda o finca sino cualquiera otro sitio que permita el libre acceso de los electores.
+a).- Los nombres y apellidos de los candidatos;
+
+b).- Entidad, Distrito Electoral y Municipio;
+
+c).- Cargo para el que se postula al candidato o candidatos;
+
+d).- Color o combinación de colores y emblema del partido político o coalición;
+
+e).- Un sólo círculo para cada fórmula de candidatos, propietarios y suplentes en su caso;
+
+f).- Las firmas impresas del Presidente y Secretario de la Comisión Estatal Electoral.
+
+En caso de cancelación o sustitución de uno o más candidatos, las boletas que ya estuvieran impresas serán corregidas en la parte relativa, o sustituidas por otras, conforme acuerde la Comisión Estatal Electoral.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 534.
 
-Los locales que se señalen para instalar las casillas serán lo suficientemente amplios para colocar en ellos todo lo necesario para el fácil cumplimiento de las operaciones electorales.
+A más tardar ocho días antes de la elección deberán estar en poder de los Comités Electorales las boletas electorales para la votación: las que serán selladas al dorso. Los representantes de los partidos políticos tienen derecho a que se les expida constancia del número de boletas selladas.
 
-Los partidos políticos o los candidatos independientes, pueden objetar el señalamiento de algún lugar para la instalación de casillas, por motivos fundados y el Comité Electoral respectivo acordará lo que considere prudente.
-
-El tercer domingo de junio los Comités Electorales Municipales harán del conocimiento público las listas definitivas de las casillas electorales que hayan de instalarse en sus respectivas circunscripciones y los lugares designados para su instalación, así como de los ciudadanos designados como Presidente y Secretario propietarios y suplentes y escrutadores de cada una de ellas.
-
-Los electores o partidos políticos podrán impugnar los nombramientos de Presidente de la casilla cuando no reúnan los requisitos señalados en el artículo 478 de este Código, dichos nombramientos sólo podrán ser revocados fundadamente, por el Comité Electoral respectivo, hasta tres días después de la publicación de las listas definitivas.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 535.
 
-A más tardar ocho días antes de la elección, deberán estar en poder de los Comités Electorales las boletas para la votación; serán debidamente selladas y firmadas por éstos y por los representantes de los partidos políticos y candidatos si así lo desearen, quienes tienen derecho a que se les extienda una constancia de su intervención así como del número de boletas firmadas.
+Los Comités Electorales entregarán a cada presidente de casilla dentro de los cinco días anteriores al de la elección siguiente:
 
-### CAPITULO X. DE LAS JUNTAS COMPUTADORAS
+I.- Lista nominal de electores de la sección;
 
-###### ARTICULO 536.
+II.- Boletas para cada elección, en número igual al de los electores que figuren en la lista nominal de su sección más un 10%;
 
-Las boletas electorales se harán conforme al modelo que apruebe la Comisión Estatal Electoral y contendrán:
-
-I.- Los nombres y apellidos de los candidatos;
-
-II.- Los colores respectivos registrados;
-
-III.- El cargo para el cual se postulan y las indicaciones generales relativas a la Municipalidad y Sección Electoral;
-
-IV.- Las firmas impresas del Presidente y Secretario del Comité Electoral respectivo.
-
-###### ARTICULO 537.
-
-Los Comités Electorales entregarán a cada Presidente de Casilla un día o a lo más cinco antes de la elección:
-
-I.- Un ejemplar de la lista nominal de electores de la Sección;
-
-II.- Las boletas para la votación, en número igual al de los electores que figuren en la lista nominal de su Sección, más un diez por ciento;
-
-III.- Las urnas para recibir la votación, una para Gobernador, otra para Diputado y una más para Presidente Municipal, según la elección de que se trate; y
+III.- Las urnas para recibir la votación, una para Gobernador, otra para Diputados y una más para miembros de los Ayuntamientos, según la elección de que se trate;
 
 IV.- Documentación, formas aprobadas, útiles de escritorio y demás elementos necesarios.
 
+En las secciones electorales que por razones de distancia o por el número de electores requieran del establecimiento de dos o más casillas, se estará a las disposiciones que dicte la Comisión Estatal Electoral.
+
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+
+### CAPITULO III. DE LA VOTACION
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+
+###### ARTICULO 536.
+
+El primer domingo de julio del año de la elección ordinaria, a las 8:00 horas, los ciudadanos nombrados Presidente, Secretario y Escrutadores propietarios y suplentes de las casillas electorales, procederán a su instalación en presencia de los representantes de los partidos políticos, levantando el acta de instalación de la casilla, en la que deberá certificarse que se abrieron las urnas en presencia de los funcionarios, representantes y electores asistentes y que se comprobó que estaban vacías.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+
+###### ARTICULO 537.
+
+De no instalarse la casilla conforme al artículo anterior se procederá a lo siguiente:
+
+I.- Si a las 8:15 horas no se presentare alguno o algunos de los propietarios, actuarán en su lugar los respectivos suplentes;
+
+II.- Si a las 8:30 horas no está integrada la mesa directiva conforme a la fracción anterior, pero estuviere el presidente o suplente, cualquiera de los dos, designará a los funcionarios necesarios para suplir a los ausentes y procederá a su instalación;
+
+III.- En ausencia del Presidente y de su suplente, la casilla deberá ser instalada por un auxiliar de la Comisión Estatal Electoral o de los Comités Distritales o Municipales Electorales, quien nombrará los funcionarios correspondientes;
+
+IV.- En ausencia del auxiliar, los representantes de los partidos políticos ante las casillas, designarán de común acuerdo, a los funcionarios necesarios para integrar la mesa directiva, en cuyo caso se requerirá:
+
+a).- La presencia del juez o notario público quienes tienen la obligación de acudir y dar fe de los hechos; y
+
+b).- En ausencia del juez o notario público bastará que los representantes expresen su conformidad para designar de común acuerdo, a los miembros de la mesa directiva.
+
+V.- De la instalación de la casilla se levantará acta de acuerdo al modelo aprobado por la Comisión Estatal Electoral, la que deberá ser firmada sin excepción, por todos los funcionarios y representantes.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+
 ###### ARTICULO 538.
 
-La lista electoral podrá ser libremente consultada por los electores y representantes de partidos políticos y deberá modificarse suprimiendo nombres, cuando proceda, por muerte, incapacidad o suspensión de derechos de los electores inscritos.
+El día de la elección permanecerán cerrados todos los establecimientos que expendan bebidas embriagantes y estará prohibida la venta de las bebidas que contengan alcohol, bajo sanción de clausura definitiva que impondrá el Ayuntamiento respectivo.
 
-Cualquier elector o los representantes de los partidos políticos pueden gestionar modificaciones ante los Comités Electorales, hasta el primer domingo de julio, o formular ante la Mesa de la Casilla Electoral correspondiente, la protesta que proceda en el momento de la elección.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 539.
 
-Los electores que el primer domingo de junio no hubieren recibido credencial ocurrirán al Comité Electoral respectivo hasta antes del segundo domingo del mismo mes, para hacer la reclamación correspondiente. Si el Comité la estimare fundada la tramitará por la vía más rápida con la Comisión Estatal Electoral que podrá apoyarla ante el Consejo del Padrón Electoral. Si por el contrario resolviere que no procede, el solicitante podrá ocurrir ante dicha Comisión o ante el Consejo del Padrón. En estas gestiones el elector puede ser patrocinado por el partido político a que pertenezca.
+Los juzgados permanecerán abiertos durante el día de la elección. Igual obligación tienen las agencias del Ministerio Público y las oficinas que hagan sus veces.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 540.
 
-El primer domingo de julio, a las ocho de la mañana se procederá a la apertura de las casillas electorales en los lugares designados.
+Los notarios públicos en ejercicio, los jueces y funcionarios autorizados para actuar por receptoría, mantendrán abiertas sus oficinas el día de la elección y deberán atender la solicitud de los funcionarios de casilla, de los representantes de los partidos políticos o de los ciudadanos para dar fe de hechos.
 
-### CAPITULO XI. DE LA NULIDAD DE LAS ELECCIONES
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+
+### CAPITULO IV. DEL ESCRUTINIO Y LA COMPUTACION
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 541.
 
-Cuando a la hora señalada no se presentare el Presidente de la Casilla designado, podrá actuar en su lugar el suplente. Si después de media hora ninguno de los dos se hubiere presentado, la casilla podrá instalarse por un auxiliar del Comité Electoral si lo hubiere; y si no por los representantes de todos los partidos o candidatos que actúen en la Sección en presencia de un notario Público si lo hubiere y en su defecto, del Juez del lugar que actúe como tal, para quien será obligatorio asistir a dicho acto, bajo responsabilidad. Si en el lugar no hay funcionario alguno que tenga fe pública, podrá intervenir el del lugar más próximo. A falta de éste podrá instalarse la casilla siempre que se conformen expresamente los representantes de los partidos políticos y de los candidatos contendientes. En todos estos casos se designará Presidente de la Casilla y en su ausencia del Secretario Propietario o Suplente, se nombrará éste y escrutadores de común acuerdo y la votación se tomará sobre la documentación oficial, si no hubiere documentación oficial, las boletas se harán en papel simple, autorizadas por el Presidente y Secretario de la Mesa y serán válidas aunque no se encuentren en la forma determinada por los modelos aprobados por la Comisión Estatal Electoral, haciéndose constar en el acta la causa. A falta de lista electoral votarán los electores que lo solicitaren y no sean objetados por los representantes de los partidos políticos y de los candidatos.
+Los electores votarán en el orden en que se presenten ante la mesa directiva de la casilla, debiendo cumplir los siguientes requisitos:
+
+I.- Exhibir su credencial de elector;
+
+II.- Identificarse por cualquier medio apropiado como:
+
+a).- Credencial o documento diverso a satisfacción de la mesa directiva de la casilla;
+
+b).- Licencia para conducir vehículos de motor;
+
+c).- Cotejo de la firma que conste en su credencial permanente de elector con la que escriba en papel separado, en presencia de los funcionarios de la mesa y sin tener a la vista su credencial, o
+
+d).- Por el conocimiento personal que de él tengan los miembros de la mesa o cualquier otro medio idóneo.
+
+En ningún caso servirán para identificar al elector credenciales o documentos expedidos por organizaciones políticas;
+
+III.- El presidente de la mesa se cerciorará de que el nombre que aparece en la credencial de elector, figure en la lista nominal de electores;
+
+De esta regla se exceptuarán los ciudadanos que teniendo su credencial permanente de elector, estén comprendidos en los siguientes casos:
+
+a).- Que se encuentren transitoriamente en lugar distinto al de su sección electoral, por causas justificables, a satisfacción de los funcionarios de casilla. Para este caso se observará lo siguiente:
+
+1.- Si se encuentra fuera de su municipio, pero dentro de su distrito, podrá votar para diputados y para Gobernador;
+
+2.- Si se encuentra fuera de su municipio y distrito podrá votar sólo para Gobernador;
+
+b).- Que el elector sea militar en servicio activo, en cuyo caso votará en la casilla más próxima al lugar en donde desempeñe su servicio;
+
+c).- Que se trate de representantes de partidos políticos quienes votarán en la casilla en que actúen; y
+
+d).- Que se trate de auxiliares designados por los organismos electorales.
+
+El secretario de la mesa hará la lista adicional con los votantes comprendidos en los incisos anteriores, anotando nombres y apellidos, domicilio, lugar de origen, ocupación y número de credencial permanente de elector. La lista adicional se integrará al paquete electoral.
+
+IV.- Cumplidos los requisitos para acreditar la calidad de elector, el presidente de la casilla le entregará las boletas según la elección de que se trate.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 542.
 
-La votación se recibirá en la forma siguiente:
+La votación se efectuará en la forma siguiente:
 
-I.- Los electores votarán en el orden en que se presenten, debiendo previamente cumplirse con los requisitos siguientes:
+I.- El elector tiene derecho a marcar secretamente el círculo o algún lugar del cuadro que lo contiene, de cada una de las boletas de acuerdo con el color o combinación de colores y emblema del partido por el que sufraga.
 
-1o.- El elector exhibirá la credencial que le haya expedido el Registro Nacional de Electores.
+El elector podrá escribir en el lugar correspondiente el nombre de su candidato o fórmula de candidatos, si éstos no estuvieren registrados.
 
-2o.- El elector deberá identificarse debidamente antes de votar, por medio de licencias de manejo, credenciales o documentos diversos a satisfacción de la Mesa, o bien mediante el cotejo de la firma que conste en la credencial de elector con la firma de quien pretende votar y que escribirá en papel separado, sin tener a la vista la credencial, en presencia de la Mesa y antes de recibir la boleta de votación. También podrán ser identificados los electores por el conocimiento personal que de ellos tengan los miembros de la Mesa, o por cualquier otro medio idóneo. En ningún caso servirán para identificar al elector, credenciales o documentos expedidos por partidos o grupos políticos.
+Si el elector es ciego o se encuentra impedido para sufragar, podrá auxiliarse de otra persona.
 
-3o.- El Presidente de la Casilla se cerciorará de que el nombre del ciudadano anotado en la credencial figura en la lista de electores de la sección a que corresponde la Casilla.
+El elector que no sepa leer ni escribir, podrá manifestar a la mesa si desea votar por persona o fórmula distinta a las registradas, en cuyo caso podrá también auxiliarse de otra persona.
 
-De esta regla sólo se exceptúan los ciudadanos que teniendo su credencial estén comprendidos en los siguientes casos:
+El personal de las fuerzas armadas, tropa y policía, deben presentarse a votar individualmente, sin armas y sin vigilancia o mando superior alguno.
 
-a).- Que se encuentren fuera del lugar de su domicilio el día de la elección, lo cual deben acreditar debidamente a juicio del Presidente de Casilla. La identificación de estos votantes solamente podrá hacerse mediante documentos diversos de la credencial electoral, que no hayan sido expedidos por partidos o grupos políticos a satisfacción unánime de los integrantes de la Mesa y de los representantes de los partidos. Los electores que voten fuera del Distrito de su domicilio, sólo podrán votar en la Sección que corresponda al lugar donde transitoriamente vivan y sólo emitirán voto para Gobernador; si votan dentro del Distrito de su domicilio, pero fuera de su Municipio, solamente emitirán su voto para Diputados al Congreso del Estado, pero no podrán hacerlo para miembros del Ayuntamiento.
+II.- El elector, personalmente, o quien lo auxilie en caso de impedimento físico, introducirá la boleta electoral en la urna respectiva;
 
-Se hará una relación de estos votantes, en la cual consten el nombre, domicilio, lugar de origen, ocupación y número de la credencial de elector, que deberá agregarse al acta de votación.
+III.- El secretario de la casilla anotará en la lista nominal electoral la palabra "votó". El presidente de la casilla devolverá a éste su credencial con idéntica anotación y la fecha de la elección.
 
-b).- Que el elector sea militar en servicio activo, en cuyo caso podrá votar en la casilla más próxima del lugar en que desempeñe su servicio el día de la elección.
-
-La oficialidad, las clases, la tropa, las policías y las gendarmerías, deberán presentarse individualmente a votar, sin armas y no votarán bajo mando o vigilancia de superior alguno, a fin de garantizar la libertad del voto de los militares o de la policía.
-
-c).- Que se trate de integrantes de la casilla o representantes de un partido o de un candidato, en cuyo caso podrán votar en la misma casilla en que actúen, anotándose esta circunstancia en el acta de clausura.
-
-Exhibida la credencial conforme a las reglas anteriores, el Presidente de la Casilla entregará al elector la boleta, o boletas necesarias para la votación.
-
-II.- El elector, de manera secreta, marcará con una cruz en la boleta, el círculo que contenga el color o colores y emblema del candidato a Gobernador, de la fórmula de candidatos en el caso de elecciones de Diputados o de la planilla, por quienes vota, o escribirá en el lugar correspondiente el nombre de su candidato, fórmula o planilla, si éstos no estuvieran registrados.
-
-Si el elector es ciego o se encuentra imposibilitado físicamente para realizar por sí la operación del voto, podrá acompañarse de otra persona para que en su lugar realice la operación anterior. En el acta de cierre de votación se hará constar esta circunstancia.
-
-III.- Acto continuo, el elector personalmente o él y su ayudante, en su caso, introducirá la boleta en el ánfora correspondiente.
-
-IV.- Enseguida, el Secretario de la Casilla anotará junto al nombre del elector, en la lista respectiva, la palabra "Votó" y el Presidente devolverá al elector su credencial con idéntica anotación y la fecha.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 543.
 
-Nadie recibirá boletas para la votación si no presenta su credencial de elector.
+El ciudadano que hubiere extraviado su credencial de elector y su nombre se encuentre en la lista nominal electoral podrá sufragar previa identificación, anotándose esta circunstancia en el acta correspondiente.
 
-Los que la hubieren extraviado estarán obligados a presentarse la víspera al Presidente de la Casilla para que tome nota de sus nombres y los anote en una lista especial. Al votar se les entregarán sus boletas, pero se consignarán sus nombres en el acta correspondiente, a fin de ponerlo en conocimiento de la Junta Computadora.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 544.
 
-Ningún elector firmará las boletas ni designará a mayor número de personas de las que se deben elegir en una votación.
+La votación podrá realizarse por medio de máquinas cuyo modelo sea aprobado previamente por la Comisión Estatal Electoral, siempre que se garantice la efectividad y secreto del sufragio.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 545.
 
-La votación podrá recogerse por medio de máquinas cuyo modelo sea aprobado previamente por la Comisión Estatal Electoral, siempre que se garantice la efectividad y secreto del sufragio y se satisfagan las condiciones siguientes:
+El presidente de la casilla tiene la responsabilidad de mantener el orden durante la elección con el auxilio de la fuerza pública si lo estimare conveniente, conforme a las disposiciones siguientes:
 
-I.- Que puedan colocarse en lugar visible de la máquina los distintivos de los partidos y los nombres de los candidatos registrados;
+I.- Sólo permanecerán en el lugar de la casilla, sus funcionarios, los representantes de los partidos políticos, notario público o juez en el ejercicio de sus funciones y el número de electores que pueden ser atendidos a fin de asegurar la libertad y el secreto del voto;
 
-II.- Que la máquina impida el registro de más de un voto por elector para elegir Gobernador, de más de uno para elegir Diputado y de más de uno para Presidente Municipal;
+II.- No se admitirán en la casilla:
 
-III.- Que permita al elector votar por candidato distinto de los registrados;
+a).- A quienes se presenten armados;
 
-IV.- Que registre automáticamente en progresión aritmética el número de votantes en un marcador que pueda ser leído durante la votación; y
+b).- A quienes andan en estado de ebriedad;
 
-V.- Que haga el registro total así como las sumas parciales de los votos emitidos a favor de cada candidato, incluyendo a los no registrados, de manera tal, que sólo puedan ser leídos una vez que se haya cerrado la votación en la Casilla.
+c).- A quienes hagan propaganda; y
+
+d).- A quienes en cualquier forma pretendan coaccionar a los votantes.
+
+III.- Mandará retirar de la casilla a todo individuo que infrinja las disposiciones de este Código u obstaculice el desarrollo de la votación. A los que no acaten sus órdenes, los mandará detener por medio de la fuerza pública y los pondrá a disposición de la autoridad correspondiente; y
+
+IV.- Cuidará que se conserve el orden en la casilla y en el exterior inmediato a la misma y de que no se impida u obstaculice el acceso a los electores.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 546.
 
-Ninguna persona armada puede ejercer el derecho de votar. El Presidente de la Mesa no entregará las boletas respectivas al elector que se presente armado, aun cuando figure en la lista electoral y ordenará se anote esta circunstancia junto al nombre del elector. Igualmente mandará retirar de la Casilla a todos los individuos que estén armados, sean o no electores, consignará sus nombres y el hecho en el acta de la votación y si los infractores no se retiran, los mandará detener por medio de la policía, debiendo consignarlos por desobediencia a su autoridad.
+El presidente de la mesa directiva de casilla suspenderá la votación en el caso de que alguna persona trate de intervenir por la fuerza, con el objeto de alterar el orden en la casilla. Cuando lo considere conveniente, dispondrá que se reanude la votación dejando constancia de los hechos en el acta de cierre de votación.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 547.
 
-En el caso de que alguna o algunas personas traten de intervenir en la elección por medio de la fuerza o se presenten en grupos a la Casilla portando armas, el Presidente de la Mesa suspenderá la votación y con auxilio de la fuerza pública hará restablecer el orden consignando a los responsables.
+El secretario de la casilla debe recibir los escritos y documentos que a los mismos se acompañen, exhibidos por los representantes de los partidos políticos. Los escritos deberán presentarse por triplicado: una copia será entregada al presidente de la mesa quien la acompañará con las copias de las actas del paquete electoral que por separado entregue al Comité Electoral correspondiente; otra copia se integrará al paquete electoral y una más le será entregada al interesado sellada o firmada por el secretario. Este hará constar los incidentes que se susciten en la casilla anotándolos en el acta de cierre de votación.
 
-Restablecido el orden dispondrá se reanude la votación dejando de todo esto constancia por escrito.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 548.
 
-Los militares y agentes de policía que cumplan los requisitos del presente Código y que hayan recibido su credencial, podrán votar siempre que se presenten desarmados en las casillas respectivas.
+A las seis de la tarde, o antes, se cerrará la votación si ya hubieren votado todos los electores inscritos en la lista nominal correspondiente. Si a la hora señalada aún se encontraren en la casilla electores sin votar, se continuará recibiendo la votación hasta que los electores presentes hayan sufragado.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 549.
 
-A las cinco de la tarde o antes, si ya hubieren votado todos los electores de la sección, se cerrará la votación; pero si a esa hora, hubiere electores presentes que no hayan votado, se continuará recibiendo la votación.
+Concluida la votación, se levantará el acta de cierre de la misma de acuerdo con el modelo aprobado por la Comisión Estatal Electoral, la que será firmada por todos los funcionarios y representantes.
 
-### CAPITULO XII. DE LAS SANCIONES
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+
+### CAPITULO I. DE LA NULIDAD DE LAS ELECCIONES
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 550.
 
-Una vez cerrada la votación se procederá a numerar, por orden, las boletas sobrantes y a inutilizarlas por medio de dos rayas diagonales con tinta. En seguida se llenarán los ejemplares de los esqueletos del modelo aprobado por la Comisión Estatal Electoral, consignando los número con cifra y letra, y los firmarán los miembros de la Mesa y los representantes de partidos o candidatos allí presentes.
+Para el escrutinio y la computación, se observarán las siguientes reglas:
 
-A continuación se reunirán en un solo expediente por su orden, los documentos siguientes:
+I.- Se numerarán las boletas sobrantes inutilizándolas por medio de dos rayas diagonales con tinta;
 
-I.- Nombramiento del Presidente de Casilla;
+II.- Se abrirá la urna;
 
-II.- Un tanto de la lista electoral;
+III.- Se comprobará si el número de boletas depositadas corresponde al número de electores que sufragaron, para lo cual uno de los escrutadores sacará de la urna, una por una, las boletas, contándolas en voz alta, en tanto que el otro escrutador, al mismo tiempo irá sumando en la lista nominal de electores el número de ciudadanos que hayan votado, consignándose en el acta de escrutinio el resultado de estas operaciones;
 
-III.- Un tanto del modelo anteriormente mencionado; y
+IV.- Se mostrará a todos los presentes que la urna quedó vacía;
 
-IV.- Las protestas formuladas a la Mesa durante la votación.
+V.- Se tomará boleta por boleta y el primer escrutador leerá en voz alta los nombres en favor de los cuales se haya votado, lo que comprobará el otro escrutador;
 
-Cumplido lo anterior se procederá a abrir el ánfora que contiene los votos para la elección. La primera operación será la de comprobar si el número de votos contenido en el ánfora corresponde al número de electores que emitieron su voto; para este efecto, uno de los escrutadores sacará una por una las boletas contenidas en el ánfora contándolas en voz alta y depositándolas en la mesa; el otro escrutador sumará al mismo tiempo el número de electores que hubieran votado. De esta operación se tomará nota para ser consignada en el acta.
+VI.- El secretario, al mismo tiempo, irá anotando los votos que el escrutador vaya leyendo;
 
-En seguida el mismo primer escrutador leerá en voz alta los nombres de los ciudadanos a favor de los cuales se hubiera votado, los que comprobará el otro escrutador.
+VII.- Se contará un voto por cada círculo marcado así como cuando el elector marque en algún lugar del cuadro que contiene el círculo o emblema del partido.
 
-El Secretario irá formando al mismo tiempo las listas de escrutinio.
-
-Al terminar de sacar las boletas de las ánforas se mostrará a todos los presentes que aquéllas están vacías.
-
-Luego se hará el cómputo de votación y por último se redactará el acta de votación donde se relatarán sucintamente los actos realizados en la casilla a partir de la apertura de la misma y las circunstancias que la ley establece.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 551.
 
-Al hacer la computación de votos para cada cargo, se seguirá el orden que establece el artículo 557 en su párrafo final y las reglas siguientes:
+Al hacer el escrutinio de los votos, se observará lo siguiente:
 
-I.- Si el elector vota a favor de un propietario y de un suplente, se computan los dos votos;
+I.- Cuando se marquen dos o más círculos contará el voto si los partidos cuyos círculos hayan sido marcados, postulan al mismo candidato o candidatos. En este caso el voto contará para los candidatos; y
 
-II.- Si vota a favor de un propietario o de un suplente se computa ese único voto;
+II.- Si vota por dos o más candidatos para un mismo cargo no se computarán los votos; salvo el caso establecido en la fracción I de este artículo.
 
-III.- Si vota por dos o más propietarios o por dos o más suplentes, no se computarán los votos;
-
-IV.- Si vota por un propietario y por dos o más suplentes, sólo se computa el voto para el propietario;
-
-V.- Si vota por dos o más propietarios y un suplente, sólo se computará el voto de este último;
-
-VI.- Si dos o más partidos políticos postulan a un mismo candidato, no se anulará el voto si el elector marca los colores de los partidos postulantes.
-
-Las boletas quedarán numeradas por orden progresivo y se llevará un registro de las anuladas, total o parcialmente, especificándose la fracción de este artículo en que queden comprendidas.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 552.
 
-Se agregarán a los documentos enumerados en el artículo 550 las boletas de votación por orden numérico y un ejemplar del resumen final de la votación computada.
+Si se encontrasen votos de una elección en una urna correspondiente a otra, se procederá a su escrutinio, consignándose el resultado en el acta complementaria correspondiente, que se anexará al paquete electoral respectivo.
 
-Todos estos documentos se pondrán en paquete bien cerrado sobre cuya envoltura, para mayor garantía, firmarán los miembros de la mesa y los representantes, debiendo corresponder a la documentación de cada paquete a la elección de Ayuntamientos, Diputados y Gobernador en su caso.
-
-Este paquete quedará en poder del Presidente de la Casilla quien lo entregará personalmente antes del siguiente domingo al Comité Municipal si se trata de elección para Ayuntamientos, al Comité Distrital si se trata de elección para Diputados y a la Comisión Estatal Electoral si se trata de elección de Gobernador.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 553.
 
-Los representantes de los partidos políticos y de los candidatos tendrán derecho a que se les dé una copia certificada, con las firmas del Presidente y Secretario, del resultado del escrutinio. Dichas copias deberán ponerse a disposición de los solicitantes inmediatamente después de levantada el acta y no causarán impuesto alguno.
+Concluido el escrutinio de cada una de las votaciones, se levantará el acta correspondiente conforme al modelo aprobado por la Comisión Estatal Electoral, la que firmarán funcionarios y representantes.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 554.
 
-El Presidente de la mesa tiene obligación de dar entrada a las protestas de los representantes de partidos políticos y candidatos debidamente acreditados ante la casilla o que presenten debidamente registrado su nombramiento, teniendo en cuenta lo dispuesto por el artículo 532. Igual obligación tiene respecto de las protestas que presente cualquier elector de la sección.
+Se formarán paquetes distintos para Gobernador, Diputados y miembros de los Ayuntamientos, integrándose cada uno de ellos con lo siguiente:
+
+I.- Un ejemplar de la lista electoral;
+
+II.- Un ejemplar del acta de instalación;
+
+III.- Un ejemplar del acta de cierre de votación;
+
+IV.- Un ejemplar del acta de escrutinio;
+
+V.- Las boletas que contengan los votos emitidos, los votos anulados y las sobrantes; y
+
+VI.- Los escritos y documentos anexos que se hayan presentado en relación con la elección.
+
+La lista nominal de electores se incluirá en el paquete de la elección de Gobernador, o en su caso, en la de Diputados.
+
+Los paquetes deberán estar cerrados y sobre su envoltura firmarán los miembros de la mesa directiva de la casilla y los representantes si lo desearen.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 555.
 
-El domingo siguiente al de la fecha de la elección, los Comités Electorales se constituirán en Juntas Computadoras, procediendo a realizar el cómputo de los votos emitidos en los Distritos Electorales y en los Municipios, pudiendo tener acceso al mismo los representantes de los partidos y de los candidatos que lo desearen.
+En el procedimiento de escrutinio se seguirá el siguiente orden: elección de miembros de Ayuntamientos, de Diputados y en su caso, de Gobernador.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 556.
 
-Al erigirse el Comité Electoral en Junta Computadora, será presidido por el ciudadano que hubiere presidido aquel Comité, y quien nombrará dos secretarios y dos escrutadores de entre los otros ciudadanos que integraron el Comité, con exclusión de los comisionados de los partidos políticos.
+Los representantes de los partidos tendrán derecho a que se les expidan copias de las actas levantadas en la casilla.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 557.
 
-Iniciada la sesión, la Junta procederá a hacer el cómputo general de la votación recogida en el Distrito o Municipio, según el caso, practicando en su orden las operaciones siguientes:
+Concluidas las labores se clausurará la casilla y el presidente, bajo se (sic) responsabilidad, hará llegar los paquetes electorales sujetándose a lo siguiente:
 
-I.- Examinará los paquetes electorales, separando aquéllos que tengan muestras de alteración;
+a).- Las relativas a la elección de los miembros del Ayuntamiento se entregarán al Comité Municipal Electoral respectivo salvo cuando en la cabecera municipal funcione un solo Comité Distrital Electoral en cuyo caso la entrega se hará a éste;
 
-II.- Abrirá los que aparezcan sin alteración siguiendo el orden numérico de las casillas y tomará nota de los resultados constantes en el acta de escrutinio; si hubiera objeción fundada contra las constancias de esa acta repetirá el escrutinio de la sección, haciendo el recuento de los votos;
+b).- Las que contenga la elección de Diputados y de Gobernador se hará en igual forma y los Comités Municipales Electorales, tendrán la obligación de hacerlos llegar en el plazo de veinticuatro horas contadas a partir de su recepción, a los Comités Distritales Electorales.
 
-III.- Anotará respecto de cada sección, las objeciones relativas a los votos que no hubieren sido tomados en cuenta, o los que hayan sido indebidamente aceptados en el escrutinio, así como aquéllos que se refieren a irregularidades en el funcionamiento de las casillas, todo lo cual se hará constar en el acta correspondiente;
+Los presidentes de las casillas entregarán los paquetes electorales a los Comités Electorales que correspondan en un plazo de veinticuatro horas si la casilla fuera urbana y de cuarenta y ocho horas si la casilla fuera rural.
 
-IV.- Abrirá los paquetes que aparecieren alterados; si las actas de escrutinio coinciden con las copias autorizadas que se hubieren remitido previamente por los Presidentes de Casillas, procederá a hacer el cómputo de estos expedientes junto con los demás; si no coinciden, se hará constar en el acta que se levante sin computar los votos de estos expedientes;
-
-V.- Levantará por duplicado el acta del cómputo, haciendo constar en ella las operaciones practicadas, las objeciones y protestas que se hayan presentado y el resultado de la elección;
-
-VI.- Extenderá constancia de acuerdo con el modelo que apruebe la Comisión Estatal Electoral de los candidatos o miembros de los Ayuntamientos propietarios o suplentes; Gobernador del Estado y Diputados locales que hayan obtenido mayor número de votos en la elección, según el caso.
-
-El procedimiento señalado se seguirá, en las Juntas Computadoras Distritales en primer lugar respecto de la elección de Diputados y en seguida respecto de la de Gobernador. Si alguna Junta Computadora hubiere de realizar el cómputo en las elecciones de Gobernador, Diputados y Ayuntamientos, el escrutinio se comenzará por los paquetes de los últimos.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 558.
 
-En caso de que faltare el paquete electoral que deba revisarse, se tomarán en cuenta los certificados que se hubieren expedido por el Presidente y el Secretario de la Casilla.
+El segundo domingo de julio del año de la elección los Comités Electorales se constituirán en Juntas Computadoras.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 559.
 
-Hecho el escrutinio general y revisado por los escrutadores, el Presidente declarará en voz alta el número de votos que obtuvo cada candidato y en cual de ellos recayó la elección por haber tenido mayor número de votos.
+Al erigirse el Comité Electoral en Junta Computadora será presidente el Comité Electoral respectivo y las personas que hubieren actuado como vocales del mismo, tendrán el carácter de escrutadores.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 560.
 
-Cada expediente electoral se pondrá en paquete cerrado y sellado y se remitirá como pieza certificada o por propio a la Secretaría General de Gobierno del Estado expresando en la cubierta que se refiere a la elección por el Distrito respectivo.
+Iniciada la sesión, la Junta procederá a hacer el cómputo general de la votación recogida en el Distrito o Municipio, practicando en su orden las operaciones siguientes:
+
+I.- Se examinarán los paquetes electorales separando los que tengan muestras de alteración y aquéllos cuyas actas contengan inconformidades presentadas por los representantes de los partidos;
+
+II.- Se abrirán los que aparezcan sin muestra de alteración, siguiendo el orden numérico de las casillas y en el caso de los Comités Distritales además, en el orden alfabético de sus Municipios.
+
+Se tomará nota de los resultados que consten en las actas finales de escrutinio contenidas en el paquete y si hubiere objeción fundada en relación a las constancias o a esa acta, se repetirá el escrutinio de la sección haciendo el recuento de los votos;
+
+III.- Anotará respecto de cada sección, las objeciones relativas a los votos que no hubieren sido tomados en cuenta o los que hayan sido indebidamente aceptados en el escrutinio o en la computación, así como los relativos a irregularidades en el funcionamiento de las casillas, todo lo cual se hará constar en el acta correspondiente;
+
+IV.- En caso de que faltare el paquete electoral que deba revisarse, se tomarán en cuenta los certificados que se hubieren expedido por el presidente y el secretario de la casilla;
+
+V.- Abrirá los paquetes que aparecieren alterados; si las actas de escrutinio coinciden con las copias autorizadas que se hubieran remitido previamente por los presidentes de casillas, procederá a hacer el cómputo de estos expedientes junto con los demás; si no coinciden, se hará constar en el acta que se levante sin computar los votos de éstos expedientes, para que los mismos se califiquen en su caso por el Congreso del Estado;
+
+VI.- Levantará por duplicado el acta del cómputo de acuerdo con el modelo aprobado por la Comisión Estatal Electoral, haciendo constar en ella las operaciones practicadas, las objeciones que se hayan presentado por escrito y el resultado de la elección;
+
+VII.- Extenderá constancia de acuerdo con el modelo que apruebe la Comisión Estatal Electoral al candidato a Gobernador, a los candidatos a Diputados y miembros de los Ayuntamientos propietarios y suplentes, que hayan obtenido mayor número de votos en la elección.
+
+El procedimiento señalado en las fracciones anteriores, se seguirá en las Juntas Computadoras Distritales, en primer lugar, respecto de la elección de Diputados y enseguida, respecto de la de Gobernador. Si alguna Junta Computadora conoce de las elecciones de Gobernador, Diputados y miembros de los Ayuntamientos, la computación se iniciará por los paquetes de los últimos.
+
+Las Juntas Computadoras Distritales y las Municipales en su caso, dentro de los ocho días siguientes enviarán al Congreso del Estado y a la Comisión Estatal Electoral un informe firmado por su Presidente y Secretario, para los efectos señalados en los artículos 40 y 126 de la Constitución Política del Estado, que deberá contener lo siguiente:
+
+1.- Los partidos políticos o coaliciones que participaron con candidatos en la elección;
+
+2.- El nombre de los candidatos triunfantes y del partido o coalición que los ha postulado;
+
+3.- El número de votantes en la elección para Diputados y miembros de los Ayuntamientos y el porcentaje obtenido por los candidatos y sus partidos o coaliciones;
+
+4.- El número de sufragios que obtuvo cada fórmula de candidatos.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 561.
 
-Las Juntas Computadoras enviarán inmediatamente a la Secretaría General de Gobierno del Estado la lista de los candidatos triunfantes en la elección, para el efecto de su publicación en el Periódico Oficial.
+Los Comités Electorales formarán por separado un paquete con el total de la documentación en relación a la elección de miembros de Ayuntamientos, otro para la de Diputados y uno más para la de Gobernador, los que debidamente sellados y cerrados los remitirán dentro de los ocho días siguientes a la Comisión Estatal Electoral, expresando en la cubierta los datos que permitan su identificación.
 
-La publicación a que se refiere el párrafo anterior, se hará una vez que transcurra el plazo que el Capítulo siguiente señala para reclamar la nulidad de una elección; y si hubiera reclamación en tiempo, la publicación será diferida hasta que el Congreso del Estado decida sobre la nulidad solicitada.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 562.
 
-La Junta Computadora se abstendrá de juzgar sobre los vicios que encuentre en los expedientes electorales o las irregularidades en las boletas que contengan los votos emitidos, limitándose a hacerlos constar en el acta final, para conocimiento de la Comisión Estatal Electoral para que si lo juzga necesario se practique la investigación correspondiente. Esta no podrá durar más de quince días y su resultado se comunicará al Congreso del Estado.
+La Junta Computadora se abstendrá de juzgar sobre los vicios que encuentre en los expedientes electorales o en las boletas que contengan los votos emitidos, limitándose a hacerlos constar en el acta final para conocimiento del órgano calificador.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 563.
 
-Ningún miembro de la Junta Computadora dejará de presentarse ni podrá separarse del lugar de la Junta mientras ésta no haya terminado sus trabajos.
+La Junta realizará ininterrumpidamente sus labores y ningún miembro de ella, dejará de presentarse ni podrá separarse del lugar en que aquélla se encuentre instalada mientras no haya terminado sus trabajos.
 
-Si a pesar de esta prohibición se ausentaren de la Junta algunos de sus miembros o dejaren de presentarse, los restantes continuarán los trabajos cualquiera que sea su número y su decisión será válida.
+Si a pesar de esta prohibición se ausentaren de la Junta alguno o algunos de sus miembros o dejaren de presentarse, los trabajos se iniciarán y continuarán cualquiera que sea su número y su decisión será válida.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 564.
 
-Se exceptúan de lo dispuesto en el artículo anterior, el caso en que cualquier autoridad o particular ejercieran violencia sobre los miembros de la Junta, pues entonces ésta suspenderá sus trabajos hasta que obtenga plenas garantías, hará constar en un acta los hechos que motivaron la suspensión de sus trabajos y la consignarán a la autoridad judicial respectiva.
+Se exceptúan de lo dispuesto en el artículo anterior, el caso de que cualquiera autoridad o particular ejercieran violencia sobre los miembros de la Junta, pues entonces ésta suspenderá sus trabajos hasta que obtenga plenas garantías, y hará constar en un acta los hechos que motivaron la suspensión de sus trabajos y la consignará a la autoridad judicial respectiva.
 
 El Presidente de la Junta tendrá el mando de la fuerza pública que se comisione para la custodia de la Computadora.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
+
 ###### ARTICULO 565.
 
-En el Congreso del Estado o la Junta Preparatoria en su caso, erigida en colegio electoral, calificará conforme a lo dispuesto en los artículos 46, 64 fracción XV, inciso a) y 86 de la Constitución del Estado, las elecciones o credenciales de los electos y resolverá las demandas de nulidad o reclamaciones presentadas, no pudiendo declarar de oficio nulidades ni desechar credenciales que no hubieren sido objetadas, debiendo en ese caso comprobar únicamente la autenticidad de dichas credenciales y la legitimidad de la Junta Computadora que las hubiere otorgado. Iguales facultades tendrá con respecto a las elecciones de los miembros de los Ayuntamientos.
+Recibida la documentación electoral que contenga la elección de Ayuntamientos, la Comisión Estatal Electoral la mantendrá en su poder por el término de quince días contados a partir de la fecha del cómputo para el efecto de que los partidos políticos estén en posibilidad de reclamar la nulidad de la elección.
+
+Transcurrido el plazo anterior, la Comisión hará envío de la documentación electoral al Congreso del Estado en los casos de los Municipios cuya elección fue reclamada de nulidad para los efectos de su calificación y a la Secretaría General de Gobierno comunicará los nombres de los candidatos que hayan obtenido mayoría en los Municipios y cuya elección no haya sido reclamada por nulidad, para efecto de su publicación en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 566.
 
-El voto de un elector será nulo:
+Recibida por la Comisión Estatal Electoral la documentación relativa a la elección de Diputados y de Gobernador, los partidos políticos dispondrán del término a que se refiere el artículo anterior a efecto de que presenten ante este Organo sus solicitudes de nulidad.
 
-I.- Cuando sea emitido en una casilla distinta a la que le corresponde conforme a su domicilio salvo las excepciones que permita la ley;
+La Comisión, transcurrido el término sin juzgar sobre la procedencia o calificación hará envío de la documentación electoral y de los escritos que se hubieren presentado, al Congreso del Estado.
 
-II.- Cuando sea emitido contra las disposiciones que establezca la ley.
-
-III.- Cuando haya sido consecuencia de suplantación de elector o de votación doble.
-
-IV.- Cuando haya incapacidad en el elector o sea inelegible su candidato.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 567.
 
-La votación recibida en una Casilla Electoral será nula;
+Los candidatos a Diputados que obtengan constancia de mayoría expedida por el Comité Distrital respectivo, tendrán la obligación de registrarla ante el Congreso del Estado a efecto de tener derecho a participar en el Colegio Electoral. La Dependencia que señale la Ley Orgánica del Poder Legislativo se abstendrá de hacer el registro y la remitirá al Colegio Electoral si de la referida constancia y en base a la documentación presentada se advierte alguna causa de nulidad.
 
-I.- Cuando se haya instalado la Casilla Electoral en distinto lugar al señalado y en condiciones diferentes a las establecidas por este Código.
-
-II.- Cuando haya mediado cohecho, soborno o presión de alguna autoridad para obtener la votación a favor de determinado candidato.
-
-III.- Cuando se haya ejercido violencia sobre los electores en las Casillas Electorales por alguna autoridad o particular con el mismo objeto que indica la fracción anterior.
-
-IV.- Por haber mediado error o dolo en la computación de los votos.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 568.
 
-La elección de un candidato será nula:
+El Colegio Electoral del Congreso del Estado calificará las elecciones siguientes:
 
-I.- Por ser el electo inelegible en virtud de carecer de los requisitos exigidos por la ley para Gobernador, Diputados o miembros de Ayuntamientos.
+I.- La elección de sus propios miembros Propietarios y Suplentes, electos por el principio de mayoría relativa;
 
-II.- Cuando por medio de cohecho, soborno, presión o violencia sobre los electores se haya obtenido la mayoría de votos de la elección.
+II.- Las de miembros de Ayuntamientos cuyo proceso o resultado haya sido reclamado de nulidad;
 
-III.- Cuando se hayan cometido graves irregularidades en la preparación y desarrollo de la elección.
+III.- Las de Gobernador Constitucional del Estado en los términos del artículo 64 fracción XV inciso a) de la Constitución Política del Estado;
 
-IV.- Por error sobre la persona elegida, salvo que dicho error sólo fuese sobre el nombre o apellido, pues en este caso, lo enmendará el Congreso del Estado al calificar la elección.
+IV.- La asignación de Diputados Propietarios y Suplentes de minoría en los términos del artículo 40 de la Constitución Política del Estado;
 
-## TITULO PRIMERO. DEL REGIMEN PENITENCIARIO Y CARCELES
+V.- La asignación de Regidores de representación proporcional a que se refiere el artículo 126 de la Constitución Política del Estado.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+Las resoluciones que dicte en uso de las facultades anteriores serán definitivas.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1979)</small>
+
+## TITULO CUARTO. DE LO CONTENCIOSO ELECTORAL
+
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE ABRIL DE 1979)</small>
+
+### CAPITULO II. DE LAS SANCIONES
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 569.
 
-La nulidad de la elección de un candidato no afectará la elección de los demás miembros de una planilla.
+El voto de un elector será nulo, cuando sea emitido contraviniendo las disposiciones de este Código.
 
-Todo ciudadano chihuahuense, vecino del Estado, tiene derecho a reclamar ante el Congreso la nulidad de la elección o de los votos emitidos en dicha elección, ya se trate de un Distrito o de un Municipio.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 570.
 
-Los partidos políticos registrados tienen igualmente el derecho consignado en el artículo anterior.
+La votación recibida en una casilla electoral será nula:
+
+I.- Cuando se haya instalado en lugar distinto al señalado sin causa justificada o en condiciones diferentes a las establecidas por este Código;
+
+II.- Cuando se ejerza violencia física o exista cohecho, soborno o presión de alguna autoridad o particular sobre los funcionarios de la mesa directiva de la casilla o de los electores, de tal manera que se afecten la libertad o el secreto del voto y tengan relevancia en los resultados de la votación de la casilla;
+
+III.- Por haber mediado error grave o dolo manifiesto en la computación de votos que altere sustancialmente el resultado de la votación.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 571.
 
-La reclamación de nulidad de una elección podrá interponerse quince días después de verificada la Junta Computadora correspondiente:
+Una elección será nula:
 
-Estas reclamaciones no estarán sujetas a formalidad alguna y no causarán ningún impuesto.
+I.- Cuando los motivos de nulidad a que se refiere el artículo anterior se declaren existentes en un 20% de las secciones electorales del Municipio, Distrito o Estado, según corresponda y sean determinantes del resultado de la elección;
+
+II.- Cuando exista violencia generalizada en la circunscripción territorial donde se efectúe la elección;
+
+III.- Cuando se hayan cometido violaciones sustanciales en la preparación y desarrollo de la elección y se demuestre que las mismas son determinantes del resultado de la elección. Se entiende por violaciones sustanciales:
+
+a).- La realización de los escrutinios y cómputos en locales diferentes a los señalados conforme a este Código;
+
+b).- La recepción de la votación en fecha distinta a la de la elección;
+
+c).- La recepción de la votación por personas u organismos distintos a los facultados por este Código;
+
+IV.- Cuando en una forma generalizada, en la circunscripción territorial donde se efectúe la elección:
+
+a).- Se hubiere impedido el acceso a los representantes de los partidos políticos a las casillas;
+
+b).- No se hubieren instalado las casillas y consecuentemente la votación no hubiere sido recabada;
+
+La nulidad de una elección únicamente podrá ser declarada por el Colegio Electoral del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 572.
 
-Se impondrá multa de diez a trescientos pesos o prisión de tres días a seis meses, o ambas sanciones, a juicio del juez, y suspensión de derechos políticos por un año:
+Cuando un candidato que ha participado en un proceso electoral no reúna los requisitos de elegibilidad, el Colegio Electoral declarará nulos los votos emitidos en su favor.
 
-I.- A quien sin causa justificada deje de inscribirse en el Padrón Electoral que le corresponda, manifieste datos falsos, o que estando inscrito se abstenga de comunicar su cambio de domicilio, o intente registrarse más de una vez;
-
-II.- A quien reuniendo los requisitos para ello, se abstenga de votar en las elecciones;
-
-III.- A quien estando impedido por ley, vote o intente votar;
-
-IV.- Al que se niegue a desempeñar las funciones electorales que se le encomienden;
-
-V.- Al que el día de la elección haga propaganda política a favor de un candidatos o partido que lo sostenga, en las casillas electorales o en cualquier otro lugar que diste menos de doscientos metros de la misma.
-
-VI.- A toda persona que se presente a una casilla electoral portando armas;
-
-VII.- Al que interponga un recurso de los que concede este Código con manifiesta temeridad o mala fe; y
-
-VIII.- A los notarios públicos o quienes desempeñen sus funciones por ministerio de ley, que sin causa justificada se nieguen a dar fe de los actos en que deben intervenir en los términos de este Código.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 573.
 
-Se impondrá también de un mes a un año de reclusión y suspensión de derechos de dos a seis años, a juicio del juez:
+La nulidad de la elección de un candidato no afectará la elección de los demás miembros de una planilla o fórmula.
 
-I.- Al que por cualquier medio impida que otro se inscriba en el Padrón Electoral, vote en las elecciones o desempeñe las funciones electorales que se le encomienden. Si se empleare la violencia física, tumulto o motín, se duplicará la pena;
-
-II.- Al que ilícitamente obtenga la inscripción o cancelación de un nombre en el padrón electoral;
-
-III.- Al que vote dos veces en la misma o distinta Casilla o suplante a otro en tal operación electoral;
-
-IV.- Al que teniendo bajo autoridad o dependencia económica electores, pretenda obligarlos o los obligue a votar por determinado candidato;
-
-V.- Al que falsifique, altere, sustraiga o destruya en cualquier forma las credenciales para votantes;
-
-VI.- Al que en una elección compre o venda un voto o presente una boleta falsa;
-
-VII.- A los funcionarios encargados del Registro Civil que omitan informar al Consejo del Padrón Electoral o a las autoridades electorales, sobre las defunciones de que tengan conocimiento, así como de aquellos casos en que por matrimonio las personas alcancen los requisitos de edad necesarios para ser considerados como electores;
-
-VIII.- Al que sin llenar los requisitos establecidos por el presente Código, use para una organización política el nombre del partido o continúe usándolo para una organización cuyo registro haya sido cancelado temporal o definitivamente.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 574.
 
-Se impondrá una multa de trescientos a mil pesos o reclusión de seis meses a dos años, o ambas sanciones a juicio del Juez y destitución del cargo o empleo y suspensión de derechos políticos de uno a tres años:
+Los partidos políticos, los candidatos y los ciudadanos, tienen derecho a reclamar las nulidades que contiene este Título en la forma y términos que en este Código se señalan.
 
-I.- Al que impida que una Casilla Electoral se instale o abra oportunamente u obstruccione su funcionamiento conforme a la ley;
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1979)</small>
 
-II.- A los funcionarios judiciales que se abstengan de comunicar a las autoridades electorales las resoluciones que importen suspensión o privación de derechos políticos;
-
-III.- Al funcionario municipal o estatal que no preste con la oportunidad debida, la ayuda solicitada por las autoridades encargadas del padrón;
-
-IV.- A los funcionarios encargados del padrón electoral que no admitan las reclamaciones para ser inscritas, de cualquier personas excluida del padrón;
-
-V.- A los funcionarios encargados del Padrón Electoral que a sabiendas alteren, oculten o sustraigan los documentos relativos al censo electoral, o expidan boletas a personas que no les corresponda;
-
-VI.- A los funcionarios electorales que no entreguen oportunamente las credenciales a los electores o que no tengan listas oportunamente las boletas de elección debidamente selladas y firmadas o no las entreguen a los Presidentes de Casillas;
-
-VII.- A los funcionarios electorales que por sus actos u omisiones motiven la instalación de una Casilla Electoral en contra de los términos establecidos por la ley;
-
-VIII.- Al Presidente de una Casilla que dolosamente se abstenga de concurrir al lugar y hora señalados para la apertura o instalación de la misma, o al Presidente de la Junta Computadora que se abstenga de proclamar el resultado del escrutinio y de remitir los paquetes electorales a quien corresponda;
-
-IX.- Al miembro de la Mesa de una Casilla Electoral que se niegue, sin justa causa, a firmar la documentación de la Casilla o que consienta a sabiendas una votación ilegal, suplantada o doble o que rehuse admitir la votación de un elector que tenga derecho a votar conforme a la ley;
-
-X.- Al miembro de la Junta Computadora que sin justa causa deje de presentarse o se separe de ella mientras no se concluyan sus trabajos;
-
-XI.- A los funcionarios electorales que se nieguen a reconocer la personalidad de los representantes de los partidos políticos o de los candidatos y les impidan el ejercicio de las atribuciones que les concede este Código;
-
-XII.- Al que extravíe un paquete electoral conteniendo los resultados de la votación de una Casilla, pero si probare que fue desposeído de él, se librará de la sanción y al responsable se le impondrá de dos a seis años de reclusión;
-
-XIII.- A los partidarios que ejerzan violencia sobre la Junta Computadora o sus miembros. Si la violencia fuera ejercida por autoridad, se duplicará la pena;
-
-XIV.- Al que acepte o propague su candidatura como Gobernador, Diputado o miembro de Ayuntamiento, a sabiendas de que no reúne los requisitos para ser elegible.
-
-### CAPITULO II. DE LAS ATRIBUCIONES DE LA POLICIA
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 575.
 
-Se impondrá reclusión de uno a tres años, destitución del cargo o empleo que desempeñe e inhabilitación para obtener algún cargo público por el mismo término de la suspensión de derechos:
+Se impondrá reclusión hasta de un año o suspensión de derechos políticos por igual término o ambas a juicio del Juez, a quien:
 
-I.- Al funcionario que a sabiendas presente o haga valer un documento electoral alterado, así como al que altere o inutilice alguno, o al que teniendo fe política certifique hechos falsos relativos a la función electoral;
+I.- Se niegue a desempeñar sin justa causa las funciones electorales que le sean encomendadas;
 
-II.- Al funcionario electoral que por faltas u omisiones haga imposible el cumplimiento de las operaciones de organización y desarrollo de las elecciones o cause la nulidad de una elección o cambie el resultado de ella;
+II.- Se presente a una casilla electoral portando armas;
 
-III.- A los funcionarios públicos cualquiera que sea su categoría, empleados, agentes o encargados de la administración pública y los militares en servicio activo, que abusando de sus funciones, sea directamente, sea por instrucciones dadas a personas colocadas bajo su dependencia jerárquica, intenten obtener los sufragios de los electores en favor de una candidatura determinada o impulsar a los electores a la abstención;
+III.- Vote por más de una vez, suplante u obligue a otro a votar por determinado candidato;
 
-IV.- A todo funcionario que por favorecer intereses políticos reduzca a prisión a los propagandistas, candidatos de un partido o candidato independiente o sus representantes, pretextando infracciones antisociales o faltas que no se han cometido.
+IV.- Manifieste datos falsos al Registro Estatal de Electores;
+
+V.- Ejecute actos de lucro con el voto, o presente boletas electorales falsas;
+
+VI.- Impida la instalación oportuna de la casilla electoral u obstaculice su funcionamiento o su clausura;
+
+VII.- Impida a un tercero su inscripción en el Registro Estatal de Electores, la emisión de su voto o el desempeño de sus funciones electorales;
+
+VIII.- A quien reuniendo los requisitos para ello se abstenga de votar en las elecciones;
+
+IX.- Al que estando impedido por la Ley vote o intente votar;
+
+X.- Al que tres días antes de la elección o durante ésta realice mítines, reuniones públicas o cualquier otro acto de propaganda pública en favor de candidatos o partidos;
+
+XI.- Al que sin llenar los requisitos establecidos por este Código, use para una organización el nombre de partido o continúe usándolo para una organización cuyo registro haya sido cancelado temporal o definitivamente;
+
+XII.- Ilícitamente obtenga la inscripción o cancelación de un tercero en el Registro Estatal de Electores;
+
+XIII.- Instale ilegalmente una casilla o usurpe funciones electorales.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 576.
 
-Igual sanción se impondrá a quien se apodere de una Casilla legalmente instalada, al que instale ilegalmente una Casilla Electoral, ya sea usurpando el carácter de Presidente de la Mesa, fungiendo ilegalmente en substitución del Presidente propietario, si fuere suplente, o bien, atribuyendo carácter de funcionario de Casilla a quien no lo tenga ilegalmente.
+Se impondrán de mil pesos a diez mil pesos de multa y suspensión del cargo hasta por seis meses, a los Notarios Públicos en ejercicio, funcionarios que actúen por receptoría, Jueces de Primera Instancia, Menores y de Paz, Agentes del Ministerio Público o quienes hagan sus veces, que no mantengan abiertas sus oficinas el día de la elección, se encuentren presentes y no atiendan las solicitudes de los funcionarios electorales, de los representantes de los partidos políticos y coaliciones, o de los ciudadanos, para dar fe de hechos concernientes a la elección.
 
-Si cualquiera de estos actos se ejecutare por medio de la violencia, se duplicará la sanción corporal.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 577.
 
-Se aplicarán las mismas sanciones que establece el artículo 574, salvo la suspensión de derechos políticos, a los miembros de algún culto religioso que intenten obtener los votos de los electores en favor o en perjuicio de determinadas candidaturas, o impulsarlos a la abstención, sea por alocuciones o por discursos pronunciados en los edificios destinados al culto o en funciones de carácter religioso, sea por promesas o amenazas de orden espiritual o por instrucciones dadas a sus subordinados jerárquicos.
+Se impondrá multa hasta de cinco mil pesos o prisión hasta de dos años o ambas sanciones a juicio del Juez y destitución del cargo o empleo en su caso, o suspensión de derechos políticos hasta por tres años a los funcionarios electorales que:
+
+I.- No hagan constar oportunamente las violaciones de que hayan tenido conocimiento en el desarrollo del proceso electoral;
+
+II.- Siendo funcionarios del Registro Estatal de Electores no admitan la solicitud de inscripción de alguna persona cuando fuera procedente o se nieguen a ello;
+
+II.- Siendo funcionarios del Registro Estatal de Electores, alteren, oculten o sustraigan documentación relativa al padrón único, expidan credencial permanente de elector a quien no corresponda, no la expidan oportunamente o las entreguen en blanco a quienes no competa tenerlas en su poder;
+
+IV.- A los funcionarios electorales que incumplan con las atribuciones que establece este Código;
+
+V.- A las personas que ejerzan violencia sobre la Junta Computadora o sus miembros;
+
+VI.- Retengan o no entreguen al organismo electoral correspondiente el paquete electoral.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 578.
 
-Al extranjero que se entrometa en asuntos políticos electorales de carácter estatal, sin perjuicio de las sanciones en que pueda haber incurrido, se le denunciará a la Secretaría de Gobernación.
+Se impondrá multa hasta de cinco mil pesos o prisión hasta de tres años y destitución en su caso del cargo o empleo que desempeñe e inhabilitación para obtener algún cargo público hasta por tres años, al funcionario o empleado público que:
+
+I.- Abusando de sus funciones obligue o induzca a los electores a favor o en contra de algún candidato;
+
+II.- Prive de la libertad a los candidatos o a los representantes de los partidos políticos, pretextando delitos o faltas inexistentes; e
+
+III.- Impida la reunión de una asamblea o una manifestación pública o cualquier otro acto legal de propaganda electoral.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 579.
 
-A todo funcionario que de cualquier manera impida indebidamente la reunión de una asamblea, de una manifestación pública o cualquier otro acto legal de propaganda electoral estatal, se le impondrá un año de reclusión y multa de cien a quinientos pesos, además de la suspensión del voto activo y pasivo durante cinco años, y si el funcionario fuere del Estado o del Municipio se le destituirá del cargo.
+Se hará del conocimiento de la autoridad competente, al extranjero que se inmiscuya en los asuntos políticos del Estado, independientemente de las sanciones a que se haga acreedor conforme a este Código.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 580.
 
-Se impondrá una multa de diez a tres mil pesos, o reclusión de tres días a tres años, o ambas a juicio del juez al que ejecute actos violatorios del presente Título, tendientes a alterar el resultado de una elección estatal, no sancionados especialmente en este Capítulo, cualesquiera que sean los medios que se pongan en práctica.
+Se impondrá multa hasta de cinco mil pesos a los Ministros de Culto Religioso que por cualquier medio en los edificios destinados al culto público o en cualquier otro lugar, induzcan al electorado a favor o en contra de un candidato o a la abstención.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 581.
 
-Los Jueces de Primera Instancia del ramo penal serán los competentes para conocer de las infracciones electorales a que se refiere el presente Libro.
+Se suspenderá en sus derechos políticos hasta por tres años a los presuntos diputados que debiendo integrar el Colegio Electoral no se presenten sin justa causa a desempeñar las funciones que les correspondan en ese Cuerpo Colegiado en el plazo que señala la Constitución Política del Estado.
+
+Se impondrá la suspensión de derechos políticos hasta por seis años a quienes habiendo sido electos diputados en virtud del principio de mayoría relativa o minoría, no se presenten sin causa justificada a juicio de la Cámara a desempeñar el cargo dentro del plazo señalado en la Constitución Política del Estado.
+
+En igual sanción incurrirán los regidores electos por el principio de mayoría relativa o de representación proporcional, que sin causa justificada a juicio de la Cámara no se presenten a desempeñar el cargo.
+
+La Comisión Estatal Electoral podrá suspender hasta por dos elecciones a los partidos políticos cuando habiendo éstos postulado candidatos a diputado que resulten electos, acuerden que no formen parte del Colegio Electoral o no desempeñen su cargo.
+
+Igual sanción se impondrá a los partidos políticos que habiendo postulado candidatos a miembros de los Ayuntamientos, acuerden que no desempeñen el cargo.
+
+La Comisión Estatal Electoral podrá suspender hasta por dos elecciones o solicitar a la Secretaría General de Gobierno la cancelación del registro de un partido político estatal, cuando éste no acredite a sus comisionados ante los organismos electorales en los términos de este Código o bien previa notificación de la primera ausencia, quede sin representación durante dos sesiones consecutivas.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 582.
 
-El día de las elecciones ningún elector podrá ser reducido a prisión salvo el caso de flagrante delito.
+Ninguna suspensión de derechos políticos, suspensión o cancelación de registro de que trata el artículo anterior, podrá acordarse sin que previamente se oiga en defensa al interesado, para lo cual deberá ser citado, a fin de que conteste los cargos y presente prueba.
 
-Los juzgados del ramo penal y las oficinas del Ministerio Público estarán abiertas durante todo el día de las elecciones para hacer pronta y expedita justicia. La falta de cumplimiento de esta disposición será sancionada en los términos previstos en el artículo 580.
+Toda suspensión o cancelación de registro se publicará en la misma forma que el registro.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1979)</small>
 
 ###### ARTICULO 583.
 
-En los casos de reincidencia se aumentarán las sanciones a que se refieren los preceptos anteriores, en los términos establecidos por el Código de Defensa Social.
+Cuando alguno de los actos señalados en el presente capítulo suponga la comisión de cualquiera de los delitos previstos en el Código de Defensa Social, independientemente de las sanciones previstas en éste, los organismos electorales deberán formular denuncia o querella ante la Procuraduría General de Justicia del Estado, a fin de que ejercite la acción persecutoria correspondiente.
 
 # LIBRO QUINTO
 
-## TITULO SEGUNDO. DE LA PENITENCIARIA DEL ESTADO
+## TITULO UNICO. DE LA POLICIA DEL ESTADO
 
-### CAPITULO III. DEL RECLUTAMIENTO Y SUS REQUISITOS
+### CAPITULO II. DE LAS ATRIBUCIONES DE LA POLICIA
 
 ###### ARTICULO 584.
 
@@ -4515,7 +5137,7 @@ La Policía del Estado dependerá en forma inmediata del Gobernador del Estado.
 
 Como complemento de su instrucción profesional, la Policía del Estado recibirá instrucción militar que la eduque en la disciplina y obediencia y su organización será la que fija el presente Código.
 
-### CAPITULO IV. DE LOS POLICIAS PARTICULARES, OFICINAS O GABINETES DE INVESTIGACION
+### CAPITULO III. DEL RECLUTAMIENTO Y SUS REQUISITOS
 
 ###### ARTICULO 589.
 
@@ -4629,7 +5251,7 @@ Por ningún concepto podrá la Policía retener a su disposición, detenida, a u
 
 Es causa de responsabilidad para la Policía no consignar inmediatamente a la disposición del Ministerio Público o de las autoridades competentes, a las personas que se encuentren detenidas por ella como presuntos responsables de la comisión de infracciones antisociales, faltas o infracciones a los reglamentos gubernativos, así como avocarse por sí misma el conocimiento de los hechos y decidir, con invasión de facultades que correspondan a las citadas autoridades, acerca de la situación legal de las personas detenidas.
 
-### CAPITULO V. GRADOS Y JERARQUIAS
+### CAPITULO IV. DE LOS POLICIAS PARTICULARES, OFICINAS O GABINETES DE INVESTIGACION
 
 ###### ARTICULO 606.
 
@@ -4663,19 +5285,19 @@ En consecuencia, el que se encuentre colocado en las circunstancias a que se ref
 
 El reclutamiento se hará con entera sujeción a las disposiciones de este Código y a las del Reglamento Interior de la Escuela de Policía.
 
-### CAPITULO VI. PATENTES Y NOMBRAMIENTOS
+### CAPITULO V. GRADOS Y JERARQUIAS
 
 ###### ARTICULO 610.
 
 Los policías particulares, oficinas o gabinetes de investigación, cualquiera que sea su origen, necesitarán, para funcionar en el Estado, acuerdo especial del Gobernador del Estado y quedarán sujetos al control del Director de Gobernación e Inspector General de Policía de acuerdo con el reglamento que sobre el particular se expida, considerándose sus miembros con el carácter de asimilados.
 
-### CAPITULO VII. OBLIGACIONES DE LA POLICIA
+### CAPITULO VI. PATENTES Y NOMBRAMIENTOS
 
 ###### ARTICULO 611.
 
 Para los efectos de la disciplina de la Policía, los miembros de ésta tendrán las jerarquías que establezca el reglamento respectivo y que se procurará asimilar a los equivalentes en el Ejército Nacional.
 
-### CAPITULO VIII. MANDO Y COMANDO
+### CAPITULO VII. OBLIGACIONES DE LA POLICIA
 
 ###### ARTICULO 612.
 
@@ -4685,13 +5307,13 @@ Se llama patente a la constancia autorizada por el Gobernador del Estado para ac
 
 Se entiende por nombramiento la constancia escrita expedida por el Gobernador del Estado a todo el personal de ella no comprendido en el precepto anterior.
 
-### CAPITULO IX. DISPOSICIONES FINALES
+### CAPITULO VIII. MANDO Y COMANDO
 
 ###### ARTICULO 614.
 
 Los elementos que integran la Policía del Estado están sujetos al cumplimiento de las obligaciones establecidas en este Código, reglamentos y demás disposiciones similares.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO IX. DISPOSICIONES FINALES
 
 ###### ARTICULO 615.
 
@@ -4725,7 +5347,7 @@ El Inspector General de Policía establecerá, de acuerdo con el reglamento resp
 
 El Inspector General de Policía convocará periódicamente a los Comandantes de Grupo para escuchar sus opiniones respecto de los diversos problemas del servicio, así como para coordinar el funcionamiento del Cuerpo, pero en definitiva las resoluciones que se tomen las dictará en la forma acordada por el Gobernador del Estado.
 
-### CAPITULO II. DE LOS TRIBUNALES PARA MENORES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 623.
 
@@ -4733,9 +5355,9 @@ La organización de los distintos servicios de la Policía, así como todo lo re
 
 # LIBRO SEXTO
 
-## TITULO PRIMERO. DE LA EDUCACION EN GENERAL
+## TITULO UNICO. DE LA DELINCUENCIA DE MENORES
 
-### CAPITULO III. DEL PROCEDIMIENTO
+### CAPITULO II. DE LOS TRIBUNALES PARA MENORES
 
 ###### ARTICULO 624.
 
@@ -4855,7 +5477,7 @@ Si la medida adoptada por el Tribunal fuere la de internación en un establecimi
 
 Toda cuestión que no esté prevista en este Código, la resolverán los tribunales para menores, según su criterio, debiendo siempre tener presentes las finalidades y propósitos de acción propios de la institución y los establecidos en la ley.
 
-### CAPITULO I. FINALIDADES
+### CAPITULO III. DEL PROCEDIMIENTO
 
 #### SECCION PRIMERA. ORGANIZACION
 
@@ -4949,7 +5571,7 @@ Cuando dos Tribunales Municipales para Menores pretendan tener jurisdicción par
 
 Las Comisiones Auxiliares de Protección para Menores se integrarán por el Presidente de la Sección Municipal respectiva, por el Juez de Paz del mismo lugar y por el maestro de escuela de mayor jerarquía; será Presidente de ella el Juez de Paz, y desempeñará la Secretaría el maestro que integre la Comisión. Estos cargos se entenderán para los efectos legales como concejiles.
 
-### CAPITULO II. DE LOS EDIFICIOS
+### CAPITULO I. FINALIDADES
 
 #### SECCION PRIMERA. DEL TRIBUNAL CENTRAL PARA MENORES
 
@@ -5009,9 +5631,9 @@ En el Tribunal Central para Menores se elaborará la estadística general de los
 
 # LIBRO SEPTIMO
 
-## TITULO SEGUNDO. DE LOS GRADOS Y OBJETO DE LA EDUCACION QUE IMPARTE EL ESTADO
+## TITULO PRIMERO. DEL REGIMEN PENITENCIARIO Y CARCELES
 
-### CAPITULO III. DE LOS DIRECTORES, ALCAIDES Y PERSONAL DE VIGILANCIA Y ADMINISTRACION
+### CAPITULO II. DE LOS EDIFICIOS
 
 ###### ARTICULO 684.
 
@@ -5061,7 +5683,7 @@ Los internos tienen derecho a ser recibidos en audiencia por los funcionarios de
 
 Se considera de interés público la creación de un Patronato para Liberados, que tendrá a su cargo prestar asistencia moral y material a los excarcelados, tanto por cumplimiento de condena como por libertad procesal, absolución, condena condicional o libertad preparatoria. El Ejecutivo del Estado dictará el reglamento que determine la integración y funcionamiento de este organismo.
 
-### CAPITULO IV. PREVENCIONES GENERALES
+### CAPITULO III. DE LOS DIRECTORES, ALCAIDES Y PERSONAL DE VIGILANCIA Y ADMINISTRACION
 
 ###### ARTICULO 696.
 
@@ -5075,7 +5697,7 @@ El sistema de celdas se empleará, si fuere posible, en todas y cada una de las 
 
 En todas las prisiones se destinarán locales para refectorio, cocina, escuela, baño y lavado de ropas, enfermería, talleres, locutorio y demás servicios, donde los edificios lo permitan y el número de reclusos lo demande.
 
-### CAPITULO I. LA PENITENCIARIA, SU OBJETO Y ADMINISTRACION
+### CAPITULO IV. PREVENCIONES GENERALES
 
 ###### ARTICULO 699.
 
@@ -5109,7 +5731,7 @@ Para ser nombrado subdirector o subalcaide se requieren los mismos requisitos qu
 
 Las faltas de los directores o alcaides serán sancionadas por la autoridad política y la Dirección de Gobernación, según corresponda, de acuerdo con los reglamentos respectivos.
 
-### CAPITULO II. INSPECCION
+### CAPITULO I. LA PENITENCIARIA, SU OBJETO Y ADMINISTRACION
 
 ###### ARTICULO 707.
 
@@ -5119,9 +5741,9 @@ Para los efectos de la libertad preparatoria, los alcaides sólo podrán expedir
 
 El incumplimiento de lo anterior será sancionado por la autoridad política o la Dirección de Gobernación, de acuerdo con el reglamento correspondiente.
 
-## TITULO TERCERO
+## TITULO SEGUNDO. DE LA PENITENCIARIA DEL ESTADO
 
-### CAPITULO III. PERSONAL DE EMPLEADOS
+### CAPITULO II. INSPECCION
 
 ###### ARTICULO 709.
 
@@ -5161,7 +5783,7 @@ I.- Un informe del alcaide de la cárcel o director de la penitenciaría en que 
 
 II.- En los documentos mencionados en la fracción anterior deberá estar comprendida la filiación y asignación dactiloscópica y antropométrica del reo, con sus respectivas fotografías, si estos últimos sistemas de identificación estuvieren establecidos en las cárceles de la procedencia del reo, y en caso de no recibirse estos documentos, se procederá a su identificación, de acuerdo con el Reglamento.
 
-### CAPITULO IV. DEL DIRECTOR
+### CAPITULO III. PERSONAL DE EMPLEADOS
 
 ###### ARTICULO 715.
 
@@ -5171,7 +5793,7 @@ La inspección de la Penitenciaría, en lo que se refiere al régimen administra
 
 Las observaciones que las autoridades judiciales y municipales tengan que hacer sobre el régimen de la Penitenciaría, se comunicarán por escrito al Ejecutivo, para que éste dicte las medidas que estime convenientes. Pueden, sin embargo, los jueces y magistrados, comunicar directamente al Director, las órdenes que se refieren a los detenidos para alguna diligencia del proceso o para algún asunto relacionado con el mismo.
 
-### CAPITULO V. DEL SUBDIRECTOR
+### CAPITULO IV. DEL DIRECTOR
 
 ###### ARTICULO 717.
 
@@ -5181,7 +5803,7 @@ El personal de empleados de la Penitenciaría se compondrá de un Director, un S
 
 Todos los empleados de la Penitenciaría tienen obligación de mantener estrictamente el orden, la disciplina y la exactitud en el servicio, debiendo los inferiores dar aviso inmediatamente al Director, de las faltas que notaren para que sean corregidas desde luego, con advertencias, amonestaciones, arrestos, destitución de empleo o proceso, según el caso.
 
-### CAPITULO VI. DEL CUERPO DE AGENTES DE SEGURIDAD
+### CAPITULO V. DEL SUBDIRECTOR
 
 ###### ARTICULO 719.
 
@@ -5227,7 +5849,7 @@ III.- Avisar a la Dirección de Gobernación cada vez que salga en libertad un r
 
 Si en el interior del establecimiento se cometiere algún delito, el Director de la Penitenciaría dará inmediatamente aviso a la autoridad más próxima que desempeñe funciones de policía judicial, para que practique las primeras diligencias.
 
-### CAPITULO VII. DE LA FUERZA QUE CUBRE EL SERVICIO DE GUARDIA
+### CAPITULO VI. DEL CUERPO DE AGENTES DE SEGURIDAD
 
 ###### ARTICULO 726.
 
@@ -5241,13 +5863,13 @@ En todo lo referente al servicio interior, seguridad de presos y vigilancia de l
 
 El Subdirector será secundado en el desempeño de su cometido por el Jefe del Cuerpo de Agentes de Seguridad, quien lo substituirá en casos de faltas accidentales.
 
-### CAPITULO VIII. DISPOSICIONES GENERALES
+### CAPITULO VII. DE LA FUERZA QUE CUBRE EL SERVICIO DE GUARDIA
 
 ###### ARTICULO 729.
 
 El Cuerpo de Agentes de Seguridad tendrá a su cargo la vigilancia y custodia de los presos en el interior del establecimiento y su Jefe queda, de un modo general, subalternado al Director, e inmediatamente al Subdirector, de quien recibirá la orden diaria para el servicio. El Reglamento determinará las obligaciones específicas que le correspondan.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO VIII. DISPOSICIONES GENERALES
 
 ###### ARTICULO 730.
 
@@ -5261,7 +5883,7 @@ Este servicio se relevará: si es de fuerza federal, según lo determine la Jefa
 
 Cuando esta Guardia se cubra con fuerzas del Estado, el Comandante quedará de una manera directa subordinado al Director de la Penitenciaría, de quien recibirá instrucciones, para el mejor desempeño de su servicio; en el concepto de que el personal de la referida Guardia, ya sea federal o del Estado, no cubrirá ningún servicio interior, quedando éste a cargo del Cuerpo de Agentes de Seguridad.
 
-### CAPITULO II. FACULTADES Y DEBERES DEL ESTADO EN MATERIA EDUCATIVA
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 733.
 
@@ -5277,9 +5899,9 @@ EDUCACION PUBLICA
 
 # LIBRO PRIMERO
 
-## TITULO CUARTO. DE LA EDUCACION QUE IMPARTEN LOS PARTICULARES, COORDINACION DE SERVICIOS, REVALIDACION DE ESTUDIOS
+## TITULO PRIMERO. DE LA EDUCACION EN GENERAL
 
-### CAPITULO I. DE LA EDUCACION EN GENERAL
+### CAPITULO II. FACULTADES Y DEBERES DEL ESTADO EN MATERIA EDUCATIVA
 
 ###### ARTICULO 735.
 
@@ -5333,7 +5955,7 @@ En todo establecimiento de enseñanza pública existente en el Estado es obligat
 
 Los habitantes del Estado tendrán iguales derechos en materia de educación y el gobierno les ofrecerá las mismas oportunidades para adquirirla, dentro de los requisitos legales y reglamentarios exigidos para los distintos tipos de educación.
 
-### CAPITULO II. DE LA EDUCACION PREESCOLAR
+### CAPITULO I. DE LA EDUCACION EN GENERAL
 
 ###### ARTICULO 742.
 
@@ -5397,9 +6019,9 @@ Para la elaboración de estos reglamentos se tendrán en cuenta las disposicione
 
 La fundación, supresión, reorganización, fusión, cambios de denominaciones, reformas programáticas, modificaciones a planes de estudios, horarios y metodologías en las escuelas de los diferentes niveles dependientes del Estado se ejecutarán por acuerdo del Ejecutivo, previo el estudio correspondiente.
 
-## TITULO QUINTO
+## TITULO SEGUNDO. DE LOS GRADOS Y OBJETO DE LA EDUCACION QUE IMPARTE EL ESTADO
 
-### CAPITULO III. DE LA EDUCACION PRIMARIA
+### CAPITULO II. DE LA EDUCACION PREESCOLAR
 
 ###### ARTICULO 746.
 
@@ -5433,7 +6055,7 @@ a).- Normal
 
 b).- Normal superior.
 
-### CAPITULO IV. DE LA EDUCACION MEDIA
+### CAPITULO III. DE LA EDUCACION PRIMARIA
 
 ###### ARTICULO 747.
 
@@ -5447,7 +6069,7 @@ La educación preescolar estará controlada por una oficina que se denominará "
 
 Los jardines de niños funcionarán independientes de las escuelas primarias y serán atendidos en lo posible por maestras especializadas en esa rama de la pedagogía.
 
-### CAPITULO V. DE LA EDUCACION ARTISTICA
+### CAPITULO IV. DE LA EDUCACION MEDIA
 
 ###### ARTICULO 750.
 
@@ -5497,7 +6119,7 @@ d).- La entrega de certificados y otros comprobantes de estudios.
 
 La educación primaria para adultos se sujetará en lo general, a los términos de la educación primaria establecidos en el artículo 751 y se impartirá en centros nocturnos que atenderán a las personas que han sobrepasado la edad reglamentaria sin obtener su certificado de educación primaria.
 
-### CAPITULO VI. DE LA EDUCACION ESPECIAL
+### CAPITULO V. DE LA EDUCACION ARTISTICA
 
 ###### ARTICULO 760.
 
@@ -5527,7 +6149,7 @@ Se denominarán escuelas de educación media en su ciclo industrial y comercial 
 
 Las escuelas de educación media en ciclo técnico agropecuario adoptarán los planes y programas de estudios establecidos por la Secretaría de Educación Pública a través de la Dirección General de Educación Técnica Agropecuaria.
 
-### CAPITULO VII. DE LAS ESCUELAS DE TRABAJO SOCIAL
+### CAPITULO VI. DE LA EDUCACION ESPECIAL
 
 ###### ARTICULO 767.
 
@@ -5541,7 +6163,7 @@ La educación artística se realizará en escuelas de artes plásticas, de músi
 
 Las escuelas de educación artística funcionarán con arreglo a planes y programas de estudios formulados o sancionados por la Dirección del ramo en el Estado.
 
-### CAPITULO VIII. DE LA EDUCACION PROFESIONAL
+### CAPITULO VII. DE LAS ESCUELAS DE TRABAJO SOCIAL
 
 ###### ARTICULO 770.
 
@@ -5551,7 +6173,7 @@ La educación especial tiene por objeto atender a los niños atípicos en sus di
 
 El Estado organizará escuelas de educación especial para atender a los niños atípicos y menores delincuentes, las cuales contarán con el personal especializado que requieran.
 
-### CAPITULO IX. DE LA EDUCACION INDIGENA
+### CAPITULO VIII. DE LA EDUCACION PROFESIONAL
 
 ###### ARTICULO 772.
 
@@ -5563,7 +6185,7 @@ Las prácticas de trabajo social se realizarán fundamentalmente en aquellas ins
 
 Las prácticas intensivas de trabajo social deben hacerse preferentemente fuera de la Capital con el objeto de poner a los futuros trabajadores frente a distintos medios para que recojan valiosas experiencias de los mismos.
 
-### CAPITULO X. DE LA CAMPAÑA NACIONAL CONTRA EL ANALFABETISMO
+### CAPITULO IX. DE LA EDUCACION INDIGENA
 
 ###### ARTICULO 774.
 
@@ -5595,13 +6217,13 @@ La Escuela Normal Superior organizará su acción pedagógica con base en los pl
 
 Al terminar su carrera, los maestros recibirán una relación de estudios y carta de pasante y para recibir el título deberán sujetarse a lo establecido en el Reglamento de Escuelas Normales Superiores vigente.
 
-### CAPITULO XI. DE LA ADMINISTRACION, VIGILANCIA Y DIRECCION TECNICA DE LAS ESCUELAS EN GENERAL
+### CAPITULO X. DE LA CAMPAÑA NACIONAL CONTRA EL ANALFABETISMO
 
 ###### ARTICULO 781.
 
 El Estado organizará las bases sobre las cuales coordinará su acción con las agencias del Gobierno Federal que en el mismo funcionan, para tender a la educación de los grupos indígenas.
 
-### CAPITULO XII. DEL PROFESORADO
+### CAPITULO XI. DE LA ADMINISTRACION, VIGILANCIA Y DIRECCION TECNICA DE LAS ESCUELAS EN GENERAL
 
 ###### ARTICULO 782.
 
@@ -5629,13 +6251,13 @@ d).- La de la iniciativa privada.
 
 e).- La que los consejos obtengan mediante actividades que con ese fin desarrollen, previa autorización del consejo estatal.
 
-### CAPITULO XIII. DE LOS ESTIMULOS, PRERROGATIVAS Y DERECHOS
+### CAPITULO XII. DEL PROFESORADO
 
 ###### ARTICULO 786.
 
 La organización y funcionamiento de los servicios educativos del Estado se regirán por las leyes vigentes, así como por los convenios de coordinación con el Ejecutivo Federal.
 
-### CAPITULO UNICO. DEL ESCALAFON
+### CAPITULO XIII. DE LOS ESTIMULOS, PRERROGATIVAS Y DERECHOS
 
 ###### ARTICULO 787.
 
@@ -5669,7 +6291,7 @@ e).- Poseer título de maestro del tipo de educación en que vaya a ejercer.
 
 Para el ejercicio de la enseñanza de las actividades tecnológicas, de no haber maestros titulados en la especialidad, el Estado podrá aceptar los servicios de maestros diplomados.
 
-### CAPITULO I. DE LA EDUCACION QUE IMPARTEN LOS PARTICULARES
+### CAPITULO UNICO. DEL ESCALAFON
 
 ###### ARTICULO 792.
 
@@ -5697,9 +6319,9 @@ El maestro en servicio activo disfrutará de un seguro de vida por la cantidad q
 
 En caso de fallecimiento de un profesor, se cubrirá la cantidad de mil quinientos pesos por concepto de gastos de inhumación.
 
-## TITULO SEXTO
+## TITULO TERCERO
 
-### CAPITULO II. DE LA COORDINACION DE SERVICIOS EDUCATIVOS
+### CAPITULO I. DE LA EDUCACION QUE IMPARTEN LOS PARTICULARES
 
 ###### ARTICULO 797.
 
@@ -5815,9 +6437,9 @@ Las vacantes temporales mayores de seis meses que se originen por licencias con 
 
 Los procedimientos para resolver las permutas de empleos, así como las inconformidades de los trabajadores afectados por trámites o movimientos escalafonarios, serán previstos en el reglamento respectivo.
 
-## TITULO SEPTIMO
+## TITULO CUARTO. DE LA EDUCACION QUE IMPARTEN LOS PARTICULARES, COORDINACION DE SERVICIOS, REVALIDACION DE ESTUDIOS
 
-### CAPITULO III. DE LA VALIDEZ OFICIAL Y REVALIDACION DE ESTUDIOS
+### CAPITULO II. DE LA COORDINACION DE SERVICIOS EDUCATIVOS
 
 ###### ARTICULO 816.
 
@@ -5871,7 +6493,7 @@ Las instituciones privadas y los particulares no necesitan autorización del Est
 
 La transmisión de conocimientos o de principios que se realicen privadamente, fuera de las escuelas, en el seno de la familia, de persona a persona o en circunstancias análogas, no estará sujeta a restricción alguna, salvo las limitaciones que para la manifestación de las ideas señala el artículo 6o. de la Constitución Federal, para los casos de ataque a la moral, los derechos de tercero, provocación de algún delito o perturbación del orden público; pero no tendrá validez oficial, ni exime, en su caso, del carácter obligatorio de la educación primaria.
 
-### CAPITULO IV. DE LAS SANCIONES
+### CAPITULO III. DE LA VALIDEZ OFICIAL Y REVALIDACION DE ESTUDIOS
 
 ###### ARTICULO 823.
 
@@ -5929,7 +6551,7 @@ Los establecimientos sujetos a coordinación con el Gobierno Federal se regirán
 
 En los demás casos de coordinación, los convenios respectivos indicarán la forma en que deberán expedirse los reglamentos de los establecimientos coordinados.
 
-### CAPITULO UNICO. DE LOS AYUNTAMIENTOS CON RELACION A LA EDUCACION PRIMARIA
+### CAPITULO IV. DE LAS SANCIONES
 
 ###### ARTICULO 827.
 
@@ -5957,7 +6579,7 @@ La revalidación de estudios tiene por objeto que el Estado otorgue validez ofic
 
 En las escuelas o establecimientos dependientes del Estado o de los Municipios que exijan para la aceptación o ingreso de alumnos, la presentación de determinados certificados de estudios, sólo se aceptarán aquéllos expedidos por establecimientos que tengan o hayan tenido el reconocimiento de validez de sus estudios por parte del Gobierno del Estado.
 
-### CAPITULO UNICO. DE LA EDUCACION FISICA
+### CAPITULO UNICO. DE LOS AYUNTAMIENTOS CON RELACION A LA EDUCACION PRIMARIA
 
 ###### ARTICULO 832.
 
@@ -5967,11 +6589,9 @@ Salvo las sanciones expresamente determinadas en este Libro y de los casos que c
 
 Salvo disposición expresa en contrario, los funcionarios y empleados educativos incurrirán en responsabilidades y serán sancionados conforme a las normas que regulan la responsabilidad de los funcionarios y empleados del Estado.
 
-## TITULO UNICO. DEL EJERCICIO DE LAS PROFESIONES
+## TITULO QUINTO
 
-### CAPITULO I
-
-DE LAS OBLIGACIONES Y DERECHOS EN MATERIA EDUCATIVA DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O REPRESENTACION DE MENORES.
+### CAPITULO UNICO. DE LA EDUCACION FISICA
 
 ###### ARTICULO 834.
 
@@ -6001,9 +6621,11 @@ Tienen obligación las autoridades municipales de cerciorarse de la asistencia d
 
 Las autoridades municipales vigilarán la existencia de los patronatos pro construcción y conservación de escuelas y su funcionamiento, de acuerdo con las disposiciones legales respectivas.
 
-## TITULO PRIMERO
+## TITULO SEXTO
 
-### CAPITULO II. DE LAS CONMEMORACIONES, FESTIVALES Y EXPOSICIONES ESCOLARES
+### CAPITULO I
+
+DE LAS OBLIGACIONES Y DERECHOS EN MATERIA EDUCATIVA DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O REPRESENTACION DE MENORES.
 
 ###### ARTICULO 841.
 
@@ -6013,9 +6635,9 @@ El Estado organizará el desarrollo de las actividades deportivas y de educació
 
 Promoverá también el Estado la construcción de campos e instalaciones deportivas, así como impulsando las asociaciones que fomenten el deporte y dándoles toda la ayuda moral y material necesaria, en el marco de las posibilidades de su presupuesto.
 
-## TITULO SEGUNDO. SANCIONES ADMINISTRATIVAS
+## TITULO SEPTIMO
 
-### CAPITULO III. DEL AHORRO, PARCELAS Y COOPERATIVAS ESCOLARES
+### CAPITULO II. DE LAS CONMEMORACIONES, FESTIVALES Y EXPOSICIONES ESCOLARES
 
 ###### ARTICULO 843.
 
@@ -6047,7 +6669,7 @@ II.- Velar porque las disposiciones legales y reglamentarias sean cumplidas;
 
 III.- Promover el mejoramiento cultural, moral y material de los planteles y de los educandos.
 
-### CAPITULO I. DE LAS PROFESIONES TECNICO-CIENTIFICAS QUE NECESITAN TITULO PARA SU EJERCICIO
+### CAPITULO III. DEL AHORRO, PARCELAS Y COOPERATIVAS ESCOLARES
 
 ###### ARTICULO 848.
 
@@ -6067,7 +6689,7 @@ Las escuelas estatales de todos los niveles educativos deben coordinar su acció
 
 Los artículos adquiridos con fondos procedentes de festivales o donativos para la escuela; ingresarán al inventario del establecimiento.
 
-### CAPITULO II. CONDICIONES QUE DEBEN LLENARSE PARA OBTENER UN TITULO PROFESIONAL
+### CAPITULO I. DE LAS PROFESIONES TECNICO-CIENTIFICAS QUE NECESITAN TITULO PARA SU EJERCICIO
 
 ###### ARTICULO 852.
 
@@ -6129,9 +6751,9 @@ En todo caso, las cooperativas quedarán sujetas a los reglamentos oficiales en 
 
 # LIBRO SEGUNDO
 
-## TITULO TERCERO
+## TITULO UNICO. DEL EJERCICIO DE LAS PROFESIONES
 
-### CAPITULO III. INSTITUCIONES AUTORIZADAS PARA EXPEDIR TITULOS PROFESIONALES
+### CAPITULO II. CONDICIONES QUE DEBEN LLENARSE PARA OBTENER UN TITULO PROFESIONAL
 
 ###### ARTICULO 861.
 
@@ -6205,7 +6827,7 @@ II.- Comprobar, en forma idónea haber realizado estudios especiales de perfecci
 
 En caso de conflicto entre los intereses individuales de los profesionistas y los de la sociedad, el presente Código será interpretado en favor de esta última, si no hubiere precepto expreso para resolver el conflicto. Por lo que se refiere a las profesiones que implican el ejercicio de una función pública, se sujetarán a este Código y a las leyes que regulen su actividad.
 
-### CAPITULO IV. DE LA OFICINA ESTATAL DE PROFESIONES
+### CAPITULO III. INSTITUCIONES AUTORIZADAS PARA EXPEDIR TITULOS PROFESIONALES
 
 ###### ARTICULO 866.
 
@@ -6217,7 +6839,7 @@ Los planes de estudio comprenderán la forma como deba prestarse el servicio soc
 
 Las escuelas o instituciones dedicadas a la educación superior profesional se organizarán sobre la base de que es requisito para el ingreso a las mismas haber cursado íntegramente, cuando así se requiera en los planes de estudio, la educación vocacional o el bachillerato universitario que corresponda a su función educativa específica.
 
-### CAPITULO V. DEL EJERCICIO PROFESIONAL
+### CAPITULO IV. DE LA OFICINA ESTATAL DE PROFESIONES
 
 #### SECCION I. TITULOS EXPEDIDOS EN EL ESTADO
 
@@ -6283,7 +6905,7 @@ Los títulos expedidos en el extranjero a mexicanos serán reconocidos por la Of
 
 En los casos en que resulte imposible establecer la igualdad o similitud de estudios en la forma prevista en los términos del párrafo anterior, se establecerá un sistema de equivalencia de estudios, sometiendo, en su caso, a los interesados a pruebas o exámenes para la comprobación de sus conocimientos.
 
-### CAPITULO VI. DE LOS COLEGIOS DE PROFESIONISTAS
+### CAPITULO V. DEL EJERCICIO PROFESIONAL
 
 ###### ARTICULO 876.
 
@@ -6325,7 +6947,7 @@ XIII.- Proporcionar los informes que se le soliciten en los asuntos de su compet
 
 XIV.- Las demás que fijen las leyes y reglamentos.
 
-### CAPITULO VII. DEL SERVICIO SOCIAL DE ESTUDIANTES Y PROFESIONISTAS
+### CAPITULO VI. DE LOS COLEGIOS DE PROFESIONISTAS
 
 ###### ARTICULO 879.
 
@@ -6427,7 +7049,7 @@ El anuncio o la publicidad que un profesionista haga de sus actividades no deber
 
 Para los efectos a que se contrae la fracción VII del artículo 878 de este Código, las autoridades judiciales deberán comunicar oportunamente a la Oficina Estatal de Profesiones las resoluciones que dicten sobre inhabilitación o suspensión en el ejercicio profesional, cuando éstas hubieren causado ejecutoria.
 
-### CAPITULO VIII. DE LOS PRACTICOS
+### CAPITULO VII. DEL SERVICIO SOCIAL DE ESTUDIANTES Y PROFESIONISTAS
 
 ###### ARTICULO 899.
 
@@ -6515,7 +7137,7 @@ s).- Gestionar el registro de los títulos de sus componentes.
 
 Todos los miembros de un colegio están obligados a cubrir las cuotas que fijen sus estatutos.
 
-### CAPITULO IX. DE LAS INFRACCIONES DE LOS PROFESIONISTAS Y DE LAS SANCIONES POR INCUMPLIMIENTO A ESTE CODIGO
+### CAPITULO VIII. DE LOS PRACTICOS
 
 ###### ARTICULO 907.
 
@@ -6555,7 +7177,7 @@ Cuando el servicio social absorba totalmente las actividades del estudiante o de
 
 En circunstancias de peligro estatal derivadas de calamidades públicas, todos los profesionistas quedarán a disposición del Gobierno del Estado, para que éste utilice sus servicios, en los términos de las leyes respectivas.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO IX. DE LAS INFRACCIONES DE LOS PROFESIONISTAS Y DE LAS SANCIONES POR INCUMPLIMIENTO A ESTE CODIGO
 
 ###### ARTICULO 916.
 
@@ -6595,7 +7217,7 @@ III.- Por incompetencia comprobada en el ejercicio de la profesión;
 
 IV.- Por manifiesta inmoralidad en dicho ejercicio.
 
-### CAPITULO II. DE LA DEFENSA DEL TRABAJO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 922.
 
@@ -6655,7 +7277,7 @@ TRABAJO Y PREVISION SOCIAL
 
 # LIBRO UNICO
 
-### CAPITULO III. DE LAS ATRIBUCIONES DEL PROCURADOR Y SUS PROCURADORES AUXILIARES
+### CAPITULO II. DE LA DEFENSA DEL TRABAJO
 
 ###### ARTICULO 934.
 
@@ -6695,7 +7317,7 @@ El presupuesto señalará el número de inspectores del trabajo que dependientes
 
 Tomando en cuenta las necesidades y peculiaridades propias del Estado y sus diferentes regiones y localidades, el Departamento de Trabajo y Previsión Social procederá al estudio de los diversos aspectos de la legislación del trabajo en que se encomienda a los Gobernadores que expidan los reglamentos o disposiciones administrativas que estimen adecuadas para asegurar la vigencia de la Ley Federal del Trabajo.
 
-### CAPITULO I. GENERALIDADES
+### CAPITULO III. DE LAS ATRIBUCIONES DEL PROCURADOR Y SUS PROCURADORES AUXILIARES
 
 ###### ARTICULO 941.
 
@@ -6767,7 +7389,7 @@ El Procurador General tendrá jurisdicción sobre todo el Estado, y podrá hacer
 
 El Gobernador del Estado, por conducto del Departamento de Trabajo y Previsión Social, fijará la jurisdicción y los lugares de radicación de los Procuradores Auxiliares.
 
-### CAPITULO II. ORGANIZACION, FACULTADES Y ATRIBUCIONES DE LOS SERVICIOS COORDINADOS DE SALUD PUBLICA
+### CAPITULO I. GENERALIDADES
 
 ###### ARTICULO 952.
 
@@ -6809,9 +7431,9 @@ SALUBRIDAD Y ASISTENCIA
 
 # LIBRO PRIMERO
 
-## TITULO UNICO. DE LA ASISTENCIA PUBLICA
+## TITULO PRIMERO
 
-### CAPITULO III. DE LA PREVENCION Y CONTROL DE LAS ENFERMEDADES
+### CAPITULO II. ORGANIZACION, FACULTADES Y ATRIBUCIONES DE LOS SERVICIOS COORDINADOS DE SALUD PUBLICA
 
 ###### ARTICULO 956.
 
@@ -6841,7 +7463,7 @@ El Gobernador del Estado queda facultado para celebrar convenios con la Federaci
 
 Si desapareciera la coordinación de los servicios con la Federación, el Gobernador determinará la creación y organización del servicio de salud pública en el Estado.
 
-### CAPITULO IV. EDUCACION Y PROMOCION PARA LA SALUD
+### CAPITULO III. DE LA PREVENCION Y CONTROL DE LAS ENFERMEDADES
 
 ###### ARTICULO 962.
 
@@ -6959,7 +7581,7 @@ k).- Participación en el desarrollo socio-económico y cultural de las comunida
 
 l).- Las demás que puedan afectar a la salud y bienestar de sus habitantes.
 
-### CAPITULO V. SANEAMIENTO DEL MEDIO AMBIENTE Y CONTROL SANITARIO DE ALIMENTOS, BEBIDAS Y MEDICAMENTOS
+### CAPITULO IV. EDUCACION Y PROMOCION PARA LA SALUD
 
 ###### ARTICULO 974.
 
@@ -7091,7 +7713,7 @@ La prórroga del tiempo requerirá la inyección conservadora del cadáver o su 
 
 Los vehículos, capillas y locales de funerarias donde se transporten o velen los cadáveres serán desinfectados a satisfacción de la autoridad sanitaria.
 
-### CAPITULO VI. CEMENTERIOS, INHUMACIONES Y EXHUMACIONES
+### CAPITULO V. SANEAMIENTO DEL MEDIO AMBIENTE Y CONTROL SANITARIO DE ALIMENTOS, BEBIDAS Y MEDICAMENTOS
 
 ###### ARTICULO 997.
 
@@ -7123,7 +7745,7 @@ b).- Se desvirtúen o contraríen en alguna forma las disposiciones que dicten l
 
 c).- Se aconsejen prácticas contrarias para la salud individual o general.
 
-### CAPITULO VII. TRASLACION DE CADAVERES
+### CAPITULO VI. CEMENTERIOS, INHUMACIONES Y EXHUMACIONES
 
 ###### ARTICULO 1002.
 
@@ -7209,7 +7831,7 @@ Los edificios o predios que se utilicen para terminales de camiones de carga y p
 
 Será responsabilidad de la autoridad municipal de cada lugar, el tratamiento, recolección y disposición final de las basuras, quien dictará las medidas que considere convenientes en cada caso, atento a lo dispuesto por el reglamento respectivo.
 
-### CAPITULO VIII. LUCHA CONTRA EL ALCOHOLISMO Y TOXICOMANIA
+### CAPITULO VII. TRASLACION DE CADAVERES
 
 ###### ARTICULO 1018.
 
@@ -7265,7 +7887,7 @@ Las exhumaciones prematuras y las ordenadas por la autoridad judicial sólo podr
 
 Las exhumaciones de los restos que hayan cumplido ya el tiempo señalado para su permanencia en cada cementerio y que no sean reclamados por sus deudos, se harán conforme lo determine el reglamento respectivo.
 
-### CAPITULO IX. DEL EJERCICIO DE LAS CIENCIAS MEDICAS Y ACTIVIDADES CONEXAS
+### CAPITULO VIII. LUCHA CONTRA EL ALCOHOLISMO Y TOXICOMANIA
 
 ###### ARTICULO 1031.
 
@@ -7279,7 +7901,7 @@ Los permisos a que se refiere el artículo anterior podrán solicitarse directam
 
 Los Servicios Coordinados de Salud Pública podrán negar el permiso para la entrada, salida o transporte de cadáveres, cuando, no obstante que se llenen los requisitos señalados por el respectivo reglamento, estimen que existe peligro para la salud pública, y dictarán las medidas que juzguen necesarias para evitar dicho peligro.
 
-### CAPITULO X. DE LA BIOESTADISTICA MEDICA
+### CAPITULO IX. DEL EJERCICIO DE LAS CIENCIAS MEDICAS Y ACTIVIDADES CONEXAS
 
 ###### ARTICULO 1034.
 
@@ -7313,7 +7935,7 @@ En el Estado se aplicarán con toda severidad los ordenamientos legales que impi
 
 Se promoverá la readaptación de drogadictos y toxicómanos utilizando los recursos que existan en el Estado o en el país.
 
-### CAPITULO XI. PROMOCIONES DE NUEVOS SERVICIOS MEDICO-SANITARIOS
+### CAPITULO X. DE LA BIOESTADISTICA MEDICA
 
 ###### ARTICULO 1042.
 
@@ -7369,19 +7991,19 @@ Solamente los médicos titulados, legalmente autorizados para ejercer, pueden ex
 
 Los médicos y los prácticos autorizados están obligados a colaborar en todos los ordenamientos de los Servicios Coordinados de Salud Pública.
 
-### CAPITULO XII. DEL ADIESTRAMIENTO EN SALUD PUBLICA
+### CAPITULO XI. PROMOCIONES DE NUEVOS SERVICIOS MEDICO-SANITARIOS
 
 ###### ARTICULO 1051.
 
 Los Servicios Coordinados de Salud Pública realizarán las labores de estadística necesarias, de acuerdo con las normas o instructivos que esa propia autoridad dicte al respecto o señalen los reglamentos para la formación de la geografía y estadística médicas. Para esta labor contarán con la cooperación de las demás Dependencias del Ejecutivo del Estado.
 
-### CAPITULO XIII. ACCION EXTRAORDINARIA EN MATERIA DE SALUD PUBLICA
+### CAPITULO XII. DEL ADIESTRAMIENTO EN SALUD PUBLICA
 
 ###### ARTICULO 1052.
 
 Los Servicios Coordinados de Salud Pública en el Estado, en conocimiento de las situaciones que en materia de salud confrontan sus habitantes, promoverán la instalación de nuevos servicios médico-sanitarios, tanto en la ciudad como en el campo y de acuerdo a la solicitud de grupos organizados o de población que lo demande, tomando en cuenta la participación activa de los solicitantes, tanto para la construcción como para el funcionamiento, quedando la ubicación condicionada a beneficiar el mayor núcleo de población. Será el Gobernador del Estado quien autorice las obras a construir.
 
-### CAPITULO XIV. CONTROL DE LOS PROBLEMAS DE SALUD PUBLICA CON ESTADOS LIMITROFES
+### CAPITULO XIII. ACCION EXTRAORDINARIA EN MATERIA DE SALUD PUBLICA
 
 ###### ARTICULO 1053.
 
@@ -7395,7 +8017,7 @@ Es responsabilidad de los Servicios Coordinados de Salud Pública en el Estado l
 
 Los Servicios Coordinados de Salud Pública en el Estado participarán en los eventos científicos regionales, estatales, nacionales o internacionales.
 
-### CAPITULO XV. DESARROLLO SOCIO-ECONOMICO Y CULTURAL
+### CAPITULO XIV. CONTROL DE LOS PROBLEMAS DE SALUD PUBLICA CON ESTADOS LIMITROFES
 
 ###### ARTICULO 1056.
 
@@ -7429,13 +8051,13 @@ Si las autoridades a que se refiere el artículo anterior se negaran al desempe�
 
 Cuando hubieren desaparecido las causas motivo de la declaración de quedar sujeta una región a la acción extraordinaria, el Gobernador lo declarará así utilizando los medios que a su criterio considere apropiados y por medio de un acuerdo que publicará en el Periódico Oficial del Estado.
 
-### CAPITULO I. REGLAS GENERALES
+### CAPITULO XV. DESARROLLO SOCIO-ECONOMICO Y CULTURAL
 
 ###### ARTICULO 1062.
 
 Para el control de las situaciones de salud que pudieren afectar a las localidades limítrofes del Estado, se ejercerá la vigilancia epidemiológica correspondiente, a través de las oficinas dependientes de los Servicios Coordinados de Salud Pública, que coordinarán esta acción con otras dependencias oficiales, descentralizadas o privadas, a través del conocimiento de cada caso en particular y dictando las medidas correspondientes.
 
-### CAPITULO II. DE LAS SANCIONES EN PARTICULAR
+### CAPITULO I. REGLAS GENERALES
 
 ###### ARTICULO 1063.
 
@@ -7449,9 +8071,9 @@ La acción preventiva, curativa y social se hará extensiva para beneficio de lo
 
 El personal adscrito a los Servicios Coordinados de Salud Pública tiene la obligación de aceptar las comisiones que se le confieran, aportando en consecuencia, sus conocimientos y experiencia con este propósito.
 
-## TITULO PRIMERO
+## TITULO SEGUNDO. SANCIONES ADMINISTRATIVAS
 
-### CAPITULO UNICO. DEL PROCEDIMIENTO
+### CAPITULO II. DE LAS SANCIONES EN PARTICULAR
 
 ###### ARTICULO 1066.
 
@@ -7505,7 +8127,7 @@ El Gobernador podrá conceder a los infractores las facilidades de pago o la sus
 
 Las multas establecidas en el Capítulo siguiente no se aplicarán cuando los hechos, motivo de la infracción, constituyan la comisión de una infracción de la competencia y jurisdicción de las autoridades judiciales.
 
-### CAPITULO UNICO. DEL PATRONATO
+### CAPITULO UNICO. DEL PROCEDIMIENTO
 
 ###### ARTICULO 1077.
 
@@ -7529,9 +8151,9 @@ II.- Con multa de un peso a diez mil pesos, las infracciones que se cometan a lo
 
 III.- Con multa de un peso a cinco mil pesos, en todos los demás casos.
 
-## TITULO SEGUNDO. ADMINISTRACION DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA
+## TITULO TERCERO
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO UNICO. DEL PATRONATO
 
 ###### ARTICULO 1080.
 
@@ -7589,9 +8211,9 @@ Además de los casos de clausura que consignen los reglamentos, y sin perjuicio 
 
 # LIBRO SEGUNDO
 
-## TITULO TERCERO. VIGILANCIA DEL ESTADO EN LAS INSTITUCIONES DE BENEFICENCIA PRIVADA
+## TITULO UNICO. DE LA ASISTENCIA PUBLICA
 
-### CAPITULO II. ORGANIZACION Y CONSTITUCION DE LA BENEFICENCIA PRIVADA
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1091.
 
@@ -7809,9 +8431,9 @@ Los miembros del Patronato, el Secretario y los miembros de las delegaciones, en
 
 # LIBRO TERCERO. DE LA BENEFICENCIA PRIVADA
 
-## TITULO CUARTO. MODIFICACION Y EXTINCION DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA
+## TITULO PRIMERO
 
-### CAPITULO III. CONSTITUCION DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA EN VIDA DE LOS FUNDADORES
+### CAPITULO II. ORGANIZACION Y CONSTITUCION DE LA BENEFICENCIA PRIVADA
 
 ###### ARTICULO 1119.
 
@@ -7897,7 +8519,7 @@ También se tendrá por no hecha la revocación o reducción que haga una person
 
 Nunca se declarará nula una disposición testamentaria hecha en favor de la beneficencia privada, por defectos de forma; en todo caso, se obedecerá la voluntad del testador.
 
-### CAPITULO IV. DE LA CONSTITUCION DE LAS FUNDACIONES POR TESTAMENTO
+### CAPITULO III. CONSTITUCION DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA EN VIDA DE LOS FUNDADORES
 
 ###### ARTICULO 1137.
 
@@ -7929,7 +8551,7 @@ Las fundaciones y las asociaciones pueden ser de dos clases: permanentes o trans
 
 Cuando para satisfacer necesidades producidas por epidemias, guerras, terremotos, inundaciones o por causas económicas, se organicen asociaciones transitorias, éstas se denominarán juntas de socorro o de asistencia.
 
-### CAPITULO V. DE LOS BIENES QUE CORRESPONDEN A LA BENEFICENCIA PRIVADA POR DISPOSICION TESTAMENTARIA O DE LA LEY
+### CAPITULO IV. DE LA CONSTITUCION DE LAS FUNDACIONES POR TESTAMENTO
 
 ###### ARTICULO 1144.
 
@@ -7999,7 +8621,7 @@ Las instituciones de beneficencia privada se considerarán con personalidad jur�
 
 Antes de la protocolización, la Junta de Beneficencia Privada ejercitará los derechos que correspondan a las referidas instituciones.
 
-### CAPITULO VI. DONATIVOS HECHOS A INSTITUCIONES DE BENEFICENCIA PRIVADA
+### CAPITULO V. DE LOS BIENES QUE CORRESPONDEN A LA BENEFICENCIA PRIVADA POR DISPOSICION TESTAMENTARIA O DE LA LEY
 
 ###### ARTICULO 1151.
 
@@ -8069,7 +8691,7 @@ El albacea o ejecutor no podrá gravar ni enajenar los bienes de la testamentar�
 
 El patrono o patronos de las fundaciones constituidas en la forma prevenida por este Capítulo, estarán obligados a ejercitar oportunamente los derechos que correspondan a éstas, de acuerdo con los Códigos Civil y de Procedimientos Civiles.
 
-### CAPITULO I. REPRESENTACION DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA, DE LOS FUNDADORES, PATRONOS, JUNTAS O CONSEJOS QUE LAS ADMINISTRAN
+### CAPITULO VI. DONATIVOS HECHOS A INSTITUCIONES DE BENEFICENCIA PRIVADA
 
 ###### ARTICULO 1167.
 
@@ -8103,7 +8725,7 @@ Las fundaciones por crear, en el caso del artículo 1168 tendrán capacidad para
 
 Las instituciones no podrán aceptar o repudiar las herencias o los legados que les correspondan conforme a lo dispuesto en este Capítulo, sin la autorización previa de la Junta de Beneficencia Privada.
 
-### CAPITULO II. DE LAS OBLIGACIONES DE LOS PATRONATOS
+### CAPITULO I. REPRESENTACION DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA, DE LOS FUNDADORES, PATRONOS, JUNTAS O CONSEJOS QUE LAS ADMINISTRAN
 
 ###### ARTICULO 1173.
 
@@ -8129,9 +8751,9 @@ Cuando el donativo no sea de los comprendidos en el artículo 1174 bastará con 
 
 Si el donativo no consiste en dinero, se hará el avalúo de la cosa para el efecto de que se determine su cuantía y se cumpla por los patronatos con lo dispuesto en este Capítulo.
 
-## TITULO QUINTO
+## TITULO SEGUNDO. ADMINISTRACION DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA
 
-### CAPITULO III. DE LAS OPERACIONES QUE PUEDAN REALIZAR LAS INSTITUCIONES DE BENEFICENCIA PRIVADA PARA ALLEGARSE RECURSOS
+### CAPITULO II. DE LAS OBLIGACIONES DE LOS PATRONATOS
 
 ###### ARTICULO 1179.
 
@@ -8241,7 +8863,7 @@ En caso de controversia sobre el ejercicio del patronato y entre tanto se resuel
 
 La Junta mantendrá al nombrado en el ejercicio del patronato por los medios que las leyes autorizan.
 
-### CAPITULO I. DE LA JUNTA DE BENEFICENCIA PRIVADA
+### CAPITULO III. DE LAS OPERACIONES QUE PUEDAN REALIZAR LAS INSTITUCIONES DE BENEFICENCIA PRIVADA PARA ALLEGARSE RECURSOS
 
 ###### ARTICULO 1191.
 
@@ -8301,7 +8923,7 @@ XXV.- Cumplir con las demás obligaciones que les impone este Código y sus regl
 
 Los fundadores, directores o presidentes de las juntas o consejos de las asociaciones de beneficencia privada tendrán las mismas obligaciones que establece el artículo anterior, y en consecuencia, serán igualmente responsables en caso de desobediencia.
 
-### CAPITULO II. FUNCIONES DE LA JUNTA DE BENEFICENCIA PRIVADA
+### CAPITULO I. DE LA JUNTA DE BENEFICENCIA PRIVADA
 
 ###### ARTICULO 1193.
 
@@ -8343,9 +8965,9 @@ En cualquiera de los casos de que habla el artículo anterior, los patronatos es
 
 Cuando se trate de colectas, se observará por la Junta de Beneficencia Privada y por los patronatos lo establecido por el Reglamento de la materia.
 
-## TITULO SEXTO. RESPONSABILIDADES
+## TITULO TERCERO. VIGILANCIA DEL ESTADO EN LAS INSTITUCIONES DE BENEFICENCIA PRIVADA
 
-### CAPITULO III. OBLIGACIONES DE LOS NOTARIOS Y DE LOS JUECES
+### CAPITULO II. FUNCIONES DE LA JUNTA DE BENEFICENCIA PRIVADA
 
 ###### ARTICULO 1203.
 
@@ -8441,7 +9063,7 @@ Todos los asuntos se despacharán por conducto del Secretario General.
 
 Los Vocales no podrán mandar al personal, sino por conducto de aquél.
 
-### CAPITULO I. DE LA REFORMA DE LOS ESTATUTOS
+### CAPITULO III. OBLIGACIONES DE LOS NOTARIOS Y DE LOS JUECES
 
 ###### ARTICULO 1212.
 
@@ -8483,7 +9105,7 @@ Dentro de este sector de actividades, corresponderá a la Junta, con ayuda de un
 
 Las funciones especificadas en los artículos anteriores se llevarán a cabo en la forma y términos establecidos por este Código y el reglamento respectivo.
 
-### CAPITULO II. DE LA EXTINCION DE LAS INSTITUCIONES
+### CAPITULO I. DE LA REFORMA DE LOS ESTATUTOS
 
 ###### ARTICULO 1218.
 
@@ -8529,9 +9151,9 @@ En esos casos indicarán a la Junta el día y la hora señalados para la celebra
 
 Los jueces del ramo penal están obligados a dar aviso a la Junta de Beneficencia Privada de los procesos en averiguación de los cuales resulte que alguna institución de ese ramo haya sido perjudicada, a fin de que aquélla se constituya en tercero coadyuvante del Ministerio Público.
 
-## TITULO PRIMERO. DE LOS CAMINOS
+## TITULO CUARTO. MODIFICACION Y EXTINCION DE LAS INSTITUCIONES DE BENEFICENCIA PRIVADA
 
-### CAPITULO UNICO. DELEGACIONES DE BENEFICENCIA PRIVADA
+### CAPITULO II. DE LA EXTINCION DE LAS INSTITUCIONES
 
 ###### ARTICULO 1228.
 
@@ -8543,7 +9165,7 @@ La Junta de Beneficencia Privada, previo estudio y dictamen del caso, resolverá
 
 En este caso, los patronatos tendrán las obligaciones que imponen dichos artículos a los fundadores.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO UNICO. DELEGACIONES DE BENEFICENCIA PRIVADA
 
 ###### ARTICULO 1230.
 
@@ -8623,9 +9245,9 @@ En caso de desacuerdo entre los liquidadores, éstos están obligados a someter 
 
 Practicada la liquidación, si hay remanente, se aplicará éste con sujeción a lo dispuesto por el fundador o fundadores; pero si éstos no hubieren dictado una disposición expresa al respecto cuando constituyeron la institución, los bienes pasarán a la institución o instituciones de beneficencia privada que elija la Junta de ese ramo, de preferencia entre las que tengan un objeto análogo a la extinguida.
 
-## TITULO SEGUNDO
+## TITULO QUINTO
 
-### CAPITULO II. RESPONSABILIDAD DE LOS PATRONOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1242.
 
@@ -8643,9 +9265,9 @@ Las oficinas que se establezcan por los delegados se denominarán Delegaciones d
 
 Las Delegaciones residirán en el lugar o lugares que determine el Gobernador.
 
-## TITULO UNICO
+## TITULO SEXTO. RESPONSABILIDADES
 
-### CAPITULO III. RESPONSABILIDADES DE LOS MIEMBROS Y DE LOS EMPLEADOS DE LA JUNTA DE BENEFICENCIA PRIVADA
+### CAPITULO II. RESPONSABILIDAD DE LOS PATRONOS
 
 ###### ARTICULO 1246.
 
@@ -8667,7 +9289,7 @@ Las personas que contravengan lo dispuesto en el artículo 1123 serán castigada
 
 En el caso de los artículos precedentes, el juez, corte o tribunal, a quien competa conocer de los procesos respectivos, fijará el grado de responsabilidad de los acusados.
 
-### CAPITULO IV. DE LAS RESPONSABILIDADES DE LOS NOTARIOS Y DE LOS JUECES
+### CAPITULO III. RESPONSABILIDADES DE LOS MIEMBROS Y DE LOS EMPLEADOS DE LA JUNTA DE BENEFICENCIA PRIVADA
 
 ###### ARTICULO 1251.
 
@@ -8705,7 +9327,7 @@ IV.- Cuando la Junta de Beneficencia Privada les indique la venta de inmuebles q
 
 V.- Cuando por negligencia suya se acumulen productos de capitales en poder de los deudores.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO IV. DE LAS RESPONSABILIDADES DE LOS NOTARIOS Y DE LOS JUECES
 
 ###### ARTICULO 1256.
 
@@ -8745,7 +9367,7 @@ II.- La suspensión sin goce de sueldo; y
 
 III.- La destitución.
 
-### CAPITULO II. DE LA JUNTA LOCAL Y DEL COMITE DE CAMINOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1261.
 
@@ -8781,9 +9403,9 @@ COMUNICACIONES Y OBRAS PUBLICAS
 
 # LIBRO PRIMERO. DE LAS VIAS DE COMUNICACION
 
-## TITULO UNICO
+## TITULO PRIMERO. DE LOS CAMINOS
 
-### CAPITULO III. DE LA INSTALACION DE ANUNCIOS EN LOS CAMINOS
+### CAPITULO II. DE LA JUNTA LOCAL Y DEL COMITE DE CAMINOS
 
 ###### ARTICULO 1268.
 
@@ -8835,7 +9457,7 @@ IV.- Con las cantidades que el Gobierno Federal, los Ayuntamientos, comités de 
 
 V.- Con el producto de los impuestos que en lo futuro se decreten para el objeto, así como con las multas que se impongan a los infractores del presente Capítulo.
 
-### CAPITULO UNICO. DE LAS DEMAS VIAS DE COMUNICACION
+### CAPITULO III. DE LA INSTALACION DE ANUNCIOS EN LOS CAMINOS
 
 ###### ARTICULO 1278.
 
@@ -8849,7 +9471,7 @@ El Congreso del Estado, en el presupuesto de egresos que cada año decrete, debe
 
 La Junta Local de Caminos se integrará y funcionará con arreglo a las disposiciones consignadas en la Ley sobre Construcción de Caminos en Cooperación con los Estados y su reglamento, o con arreglo a las disposiciones de la nueva ley federal que se dicte en lugar de la anterior.
 
-### CAPITULO I. DEL TRANSITO ESTATAL Y DE LAS AUTORIDADES DE TRANSITO
+### CAPITULO UNICO. DE LAS DEMAS VIAS DE COMUNICACION
 
 ###### ARTICULO 1281.
 
@@ -8997,9 +9619,9 @@ La instalación de los anuncios y obras destinadas a la publicidad, materia de e
 
 Se aplicará una multa hasta por la cantidad de mil pesos, a juicio del Ejecutivo, por infracciones a cualquiera de las disposiciones de este Capítulo, sin perjuicio de, si se tratare de concesionarios o permisionarios, declarar la caducidad o la revocación, en su caso, en los términos de los artículos 1287 y 1288 de este ordenamiento.
 
-## TITULO UNICO
+## TITULO SEGUNDO
 
-### CAPITULO II. DE LA COMPETENCIA DE LAS AUTORIDADES DE TRANSITO DEL ESTADO
+### CAPITULO I. DEL TRANSITO ESTATAL Y DE LAS AUTORIDADES DE TRANSITO
 
 ###### ARTICULO 1304.
 
@@ -9011,9 +9633,9 @@ El Ejecutivo del Estado, con propósitos de policía, culturales, de fomento a l
 
 # LIBRO SEGUNDO. DEL TRANSITO ESTATAL
 
-## TITULO UNICO. DE LA PROTECCION GENERAL DE LA GANADERIA
+## TITULO UNICO
 
-### CAPITULO III. DE LOS PERMISOS DE RUTA EN LOS CAMINOS DEL ESTADO
+### CAPITULO II. DE LA COMPETENCIA DE LAS AUTORIDADES DE TRANSITO DEL ESTADO
 
 ###### ARTICULO 1306.
 
@@ -9049,7 +9671,7 @@ III.- Las Policías de Tránsito y Preventivas Municipales;
 
 IV.- Las Policías Judicial y del Estado.
 
-### CAPITULO IV. INFRACCIONES Y SANCIONES
+### CAPITULO III. DE LOS PERMISOS DE RUTA EN LOS CAMINOS DEL ESTADO
 
 ###### ARTICULO 1309.
 
@@ -9109,7 +9731,7 @@ VII.- Las demás que este Código, leyes y reglamentos impongan.
 
 La Policía Preventiva, así como las Policías Judicial y del Estado, en su calidad de auxiliares de la de Tránsito del Estado, desempeñarán las funciones de ésta en donde no existan agentes de la misma, y, en todo caso, cuando se requiera su auxilio por las autoridades del mismo.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO IV. INFRACCIONES Y SANCIONES
 
 ###### ARTICULO 1314.
 
@@ -9153,7 +9775,7 @@ El Gobernador estará facultado para revocar los permisos a que se refieren los 
 
 Las leyes y reglamentos de Tránsito fijarán, en caso necesario, las tarifas que deben aplicarse de acuerdo con el servicio que se preste en los vehículos de alquiler.
 
-### CAPITULO II. DE LA PAVIMENTACION
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1318.
 
@@ -9207,9 +9829,9 @@ Las Leyes y Reglamentos de Tránsito del Estado fijarán el procedimiento con ar
 
 # LIBRO TERCERO. DE LAS OBRAS PUBLICAS
 
-## TITULO PRIMERO
+## TITULO UNICO
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO II. DE LA PAVIMENTACION
 
 ###### ARTICULO 1327.
 
@@ -9255,7 +9877,7 @@ III.- Que la Oficialía Mayor y la Tesorería General del Estado hayan recibido 
 
 IV.- Que se haya recabado la opinión del Jefe del Departamento al que posteriormente debe atribuirse el cuidado de la obra.
 
-### CAPITULO I. DE LOS GANADEROS
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1332.
 
@@ -9269,7 +9891,7 @@ El Jefe del Departamento de Obras Públicas, auxiliado en su caso por otro u otr
 
 Si los propietarios llegan a un acuerdo con los representantes del Ejecutivo respecto al monto de la cooperación y la proporción y forma en que deba distribuirse entre los beneficiados, se formulará desde luego un convenio que deberán firmar los propietarios que hayan aceptado la derrama y los funcionarios del Gobierno del Estado que participen en las juntas.
 
-### CAPITULO II. MARCA Y PROPIEDAD DE LOS GANADOS
+### CAPITULO I. DE LOS GANADEROS
 
 ###### ARTICULO 1335.
 
@@ -9279,13 +9901,13 @@ Cuando los propietarios no acepten la derrama que se proponga o nieguen toda coo
 
 La comisión antes indicada deberá constituirse por el Jefe del Departamento de Comunicaciones y Obras Públicas, un representante de la Tesorería General del Estado, un representante del o los Municipios en cuya jurisdicción se haga la obra, un representante del grupo de propietarios interesados y un representante de la Cámara respectiva o de los ganaderos y agricultores si no se trata de una obra urbana.
 
-### CAPITULO III. ANIMALES MOSTRENCOS
+### CAPITULO II. MARCA Y PROPIEDAD DE LOS GANADOS
 
 ###### ARTICULO 1337.
 
 La comisión antes indicada resolverá en forma equitativa, recabando todas las informaciones que estime convenientes y tomando en cuenta tanto las condiciones de cada propiedad y cada propietario beneficiado, como la naturaleza de la obra que haya de emprenderse y las consecuencias benéficas que haya de producir.
 
-### CAPITULO IV. INSPECCION DE GANADOS
+### CAPITULO III. ANIMALES MOSTRENCOS
 
 ###### ARTICULO 1338.
 
@@ -9319,7 +9941,7 @@ III.- Cuando en la vía que se pretende pavimentar existan líneas de ferrocarri
 
 IV.- El pago del valor del pavimento que corresponda a los propietarios de fincas, será cubierto en los plazos y condiciones que para cada caso fijará el Ejecutivo con la aprobación del Congreso del Estado.
 
-### CAPITULO V. ABASTO PUBLICO
+### CAPITULO IV. INSPECCION DE GANADOS
 
 ###### ARTICULO 1344.
 
@@ -9337,9 +9959,9 @@ OCTAVA PARTE
 
 # LIBRO PRIMERO. DE LA AGRICULTURA
 
-## TITULO SEGUNDO
+## TITULO UNICO
 
-### CAPITULO VI. TRANSPORTE DE GANADO
+### CAPITULO V. ABASTO PUBLICO
 
 ###### ARTICULO 1347.
 
@@ -9359,11 +9981,9 @@ Por conducto del Departamento de Agricultura se dictarán las medidas generales 
 
 # LIBRO SEGUNDO. DE LA GANADERIA
 
-## TITULO UNICO
+## TITULO UNICO. DE LA PROTECCION GENERAL DE LA GANADERIA
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
-
-### CAPITULO VII. VIGILANCIA DE LOS GANADOS
+### CAPITULO VI. TRANSPORTE DE GANADO
 
 ###### ARTICULO 1351.
 
@@ -9373,7 +9993,7 @@ Se declara de utilidad pública en el Estado de Chihuahua, la cría de ganado ma
 
 Se considera como ganadero para los efectos de este Código, a toda persona, sociedad o asociación que se dedique a la cría de ganado, cualquiera que sea el número de cabezas que posea.
 
-### CAPITULO VIII. DE LAS CORRIDAS
+### CAPITULO VII. VIGILANCIA DE LOS GANADOS
 
 ###### ARTICULO 1353.
 
@@ -9451,7 +10071,7 @@ La propiedad de los animales se transfiere por los medios que establece el derec
 
 Las autoridades municipales y los inspectores de ganadería, no autorizarán ningún transporte de ganado que no esté amparado precisamente con la factura original expedida por el dueño del fierro del "criador" aunque dichos animales aparezcan venteados.
 
-### CAPITULO IX. DEL REGISTRO GENEALOGICO
+### CAPITULO VIII. DE LAS CORRIDAS
 
 ###### ARTICULO 1372.
 
@@ -9501,7 +10121,7 @@ La venta de animales mostrencos se hará únicamente en las cabeceras municipale
 
 Cualquiera contienda que se suscite con motivo de los artículos anteriores entre los interesados y la autoridad, será resuelta por la autoridad judicial competente.
 
-### CAPITULO X. SANIDAD ANIMAL
+### CAPITULO IX. DEL REGISTRO GENEALOGICO
 
 ###### ARTICULO 1384.
 
@@ -9565,7 +10185,7 @@ Al tratarse de ganado comprado que esté herrado con el fierro del último adqui
 
 Será obligación el cancelar los pases de ganado cuando éstos lleguen a su lugar de destino; en la cancelación deberán de poner la fecha, así como la firma y el sello correspondiente, a la vez harán la cancelación de las facturas con las cuales se amparó el ganado una vez que haya sido sacrificado en el rastro. Al ser ganado que se destine para su industrialización en las plantas, el inspector cancelará la documentación respectiva al ser recibido de conformidad por la empresa. Si es ganado que se destine para la engorda, las facturas serán canceladas una vez que el ganado se sacrifique o salga del Estado.
 
-### CAPITULO XI. PREVENCIONES GENERALES
+### CAPITULO X. SANIDAD ANIMAL
 
 ###### ARTICULO 1393.
 
@@ -9605,7 +10225,7 @@ La matanza clandestina de ganado será castigada por la autoridad administrativa
 
 En cooperación con las autoridades y rastros municipales, los inspectores de ganadería visitarán los establecimientos en los cuales se expenda carne, para comprobar que esta misma esté debidamente sellada; al no llenar este requisito la carne será decomisada y sus propietarios serán consignados a la autoridad correspondiente para que se proceda contra éstos en los términos de ley.
 
-### CAPITULO UNICO. DISPOSICIONES GENERALES
+### CAPITULO XI. PREVENCIONES GENERALES
 
 ###### ARTICULO 1402.
 
@@ -9693,7 +10313,7 @@ Si el inspector encontrase que la procedencia o la propiedad de alguna de las pi
 
 El infractor de los artículos 1402, 1405, 1406 y 1417 será castigado administrativamente con una multa hasta de quinientos pesos, sin perjuicio de ser consignado a las autoridades respectivas en caso de resultarle otras responsabilidades. En caso de reincidencia se duplicará la pena.
 
-### CAPITULO UNICO. DE LA ESTADISTICA
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
 ###### ARTICULO 1422.
 
@@ -9725,9 +10345,7 @@ La persona que haga la corrida dentro de terreno ajeno, no deberá arrear ganado
 
 Nadie tendrá derecho a pastar ganados en terrenos ajenos. El ganadero que encuentre dentro de su predio animales que no sean de su propiedad, queda facultado para avisar, por conducto del Comisario de Policía más próximo a los dueños, para que se presenten a recogerlos dentro del término de tres días, más el que sea necesario emplear por razón de la distancia, y transcurrido que sea éste sin que se presente el interesado, puede remitirlos a la autoridad municipal más próxima.
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+### CAPITULO UNICO. DE LA ESTADISTICA
 
 ###### ARTICULO 1429.
 
@@ -9763,7 +10381,7 @@ La entrega de los mostrencos a que se refiere el artículo anterior, se hará po
 
 Los Comisarios de Policía o comisionados, no tendrán ninguna participación de los ingresos que tengan los Municipios por concepto de remate de animales mostrencos.
 
-### CAPITULO II. PROGRAMA DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -9809,9 +10427,9 @@ Los datos a que se refiere el artículo 1437 se anotarán inmediatamente en el l
 
 Por el registro de animales de "sangre pura" se cobrará la cantidad que fijen las disposiciones fiscales.
 
-### CAPITULO III. LA PLANEACION URBANA
+### CAPITULO II. PROGRAMA DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1442.
 
@@ -9841,7 +10459,7 @@ En caso de falta de cumplimiento a los artículos anteriores, se aplicará a los
 
 El Ejecutivo del Estado queda facultado para reglamentar todo lo concerniente a medidas preventivas o curativas que estime convenientes, a fin de combatir las enfermedades del ganado; igualmente podrá decretar las "cuarentenas" que estime oportunas en las zonas infestadas, sujetándose en todos los casos a las disposiciones vigentes en materia de sanidad y policía veterinaria.
 
-### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
+### CAPITULO III. LA PLANEACION URBANA
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -9863,11 +10481,9 @@ ECONOMIA
 
 # LIBRO UNICO
 
-## TITULO UNICO. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS Y EMPLEADOS PUBLICOS
+## TITULO PRIMERO
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
-
-### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
+### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -9887,13 +10503,11 @@ V.- Proponer las medidas necesarias para evitar el encarecimiento de los artícu
 
 VI.- Fundar y mantener organismos coordinados, establecimientos públicos descentralizados y empresas de participación estatal de economía mixta o subvencionadas, que intervengan para la realización de cualquiera de los fines y propósitos señalados en este artículo.
 
-## TITULO UNICO. DE LOS PROCEDIMIENTOS Y RECURSOS ADMINISTRATIVOS
+## TITULO SEGUNDO
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
 
-### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1453.
 
@@ -9959,11 +10573,11 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-## TITULO PRIMERO. DEL PATRIMONIO
+## TITULO UNICO
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO VII. DE LAS CONURBACIONES
+### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10041,9 +10655,9 @@ Los notarios públicos y los funcionarios que actúen por receptoría sólo podr
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO VII. DE LAS CONURBACIONES
 
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1466.
 
@@ -10145,7 +10759,7 @@ La actividad del Organismo no causará contribuciones al fisco del Estado.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO II. DE LA RESPONSABILIDAD DE LOS ALTOS FUNCIONARIOS DEL ESTADO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
@@ -10331,13 +10945,13 @@ VII.- Intervenir en los casos a que se refiere el artículo 1491 en lo que afect
 
 VIII.- Las demás que les otorgue el presente título y las disposiciones legales relativas.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO III. DE LA RESPONSABILIDAD DE LOS DEMAS FUNCIONARIOS Y EMPLEADOS PUBLICOS
+### CAPITULO II. DE LA RESPONSABILIDAD DE LOS ALTOS FUNCIONARIOS DEL ESTADO
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
-#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
+#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10465,7 +11079,9 @@ Los predios de las zonas incluidas en los artículos 1495 y 1500 de este Título
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEXTA. DEL MEJORAMIENTO
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS MUNICIPALES
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1502.
 
@@ -10479,7 +11095,7 @@ En todo lo relativo a la estructura vial y sistema de transporte en el Estado, s
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
+#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10577,9 +11193,9 @@ También se considerarán ilegales la fusión, subdivisión, relotificación y f
 
 En los casos del artículo anterior, a solicitud del ayuntamiento el Programa de Desarrollo Urbano podrá intervenir en coordinación con aquél en la administración de los fraccionamientos, subdivisiones, relotificaciones o fusiones o en las operaciones celebradas con estos motivos.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10623,7 +11239,7 @@ Una vez determinados los jefes de familia beneficiados, la presidencia municipal
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS MUNICIPALES
+#### SECCION QUINTA. DE LA VIVIENDA
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10667,13 +11283,9 @@ V.- La dotación de servicios públicos como: agua, drenaje, electricidad, recol
 
 Para la construcción de viviendas deberá mediar solicitud del interesado ante el ayuntamiento que satisfaga los requisitos previstos por este Título, el Código Municipal y demás disposiciones aplicables. Los fondos de vivienda y demás organismos e instituciones del sector público, al igual que los particulares están obligados al cumplimiento de las normas legales y reglamentarias que regulen esta materia.
 
-(REUBICADA, P.O. 5 DE FEBRERO DE 1977)
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-DECIMA PRIMERA PARTE
-
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
-
-#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10715,11 +11327,13 @@ Los propietarios y poseedores de los predios incluidos en los programas de mejor
 
 En el caso de que los propietarios o poseedores no cumplan con las obligaciones o convenios indicados por los dos artículos anteriores, el Ejecutivo del Estado podrá proceder a la expropiación por causa de utilidad pública.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+(REUBICADA, P.O. 5 DE FEBRERO DE 1977)
 
-#### SECCION QUINTA. DE LA VIVIENDA
+DECIMA PRIMERA PARTE
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1529.
 
@@ -10769,9 +11383,9 @@ V.- Medios para la satisfacción de la demanda; y
 
 VI.- Régimen financiero para la ejecución de la obra.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO I. DE LAS COMPETENCIAS
+### CAPITULO III. DE LA RESPONSABILIDAD DE LOS DEMAS FUNCIONARIOS Y EMPLEADOS PUBLICOS
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
@@ -10787,9 +11401,9 @@ Se consideran afectos al patrimonio cultural del Estado: los edificios, monument
 
 Para la conservación del patrimonio a que se refiere el artículo anterior, el plan estatal y los reglamentos de este Título, considerarán las medidas y disposiciones que impiden el menoscabo o la degradación de dicho patrimonio, estableciendo disposiciones que reduzcan el empleo de idiomas, giros y modismos extranjeros, y que excluyan la adopción de estilos arquitectónicos, deformantes de los valores tradicionales de la ciudad.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO II. DE LOS PROCEDIMIENTOS
+### CAPITULO I. DE LAS COMPETENCIAS
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
@@ -10841,9 +11455,9 @@ Se atenderá el crecimiento de los centros de población mediante la determinaci
 
 A partir de la publicación de los planes de desarrollo urbano prevista en el artículo 1480, las áreas y predios en ellos comprendidos quedarán sujetos a las normas de la misma.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DE LOS PROCEDIMIENTOS
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
@@ -10895,9 +11509,11 @@ Las declaratorias de conurbación para que surtan sus efectos serán publicadas 
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
-## TITULO SEGUNDO. (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+## TITULO UNICO. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS Y EMPLEADOS PUBLICOS
 
-### CAPITULO II. DEL DOMINIO PUBLICO
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+### CAPITULO I. DISPOSICIONES GENERALES
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
@@ -10919,7 +11535,7 @@ Se concede acción popular para denunciar ante quien corresponda los delitos y f
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
-### CAPITULO III. DE LOS INMUEBLES DE DOMINIO PRIVADO
+### CAPITULO II. DEL DOMINIO PUBLICO
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
@@ -10985,7 +11601,7 @@ Los funcionarios del Estado y municipales, en las poblaciones fronterizas, tiene
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
-### CAPITULO IV. DE LOS MUEBLES DEL DOMINIO PRIVADO
+### CAPITULO III. DE LOS INMUEBLES DE DOMINIO PRIVADO
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
@@ -11103,7 +11719,7 @@ El planteamiento de una cuestión de competencia podrá hacerlo cualquiera de la
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
-### CAPITULO V. DEL REGISTRO DE LA PROPIEDAD ESTATAL
+### CAPITULO IV. DE LOS MUEBLES DEL DOMINIO PRIVADO
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
@@ -11159,7 +11775,7 @@ Las revocaciones y revisiones antes mencionadas se tramitarán por conducto del 
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
-### CAPITULO UNICO. DE LAS EXPROPIACIONES
+### CAPITULO V. DEL REGISTRO DE LA PROPIEDAD ESTATAL
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
@@ -11267,6 +11883,10 @@ Ninguna servidumbre pasiva puede imponerse en los términos del derecho común s
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
+### CAPITULO UNICO. DE LAS EXPROPIACIONES
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
 ###### ARTICULO 1596.
 
 Corresponde al Ejecutivo del Estado:
@@ -11366,6 +11986,10 @@ El derecho que este artículo concede deberá ejercitarse precisamente dentro de
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
 # LIBRO UNICO. (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+## TITULO UNICO. DE LOS PROCEDIMIENTOS Y RECURSOS ADMINISTRATIVOS
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
 ###### ARTICULO 1605.
 
@@ -11553,6 +12177,10 @@ La clasificación y sistemas de inventario así como la estimación de la deprec
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
+## TITULO PRIMERO. DEL PATRIMONIO
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
 ###### ARTICULO 1631.
 
 La adquisición, administración y enajenación de los bienes muebles de propiedad estatal corresponde a la Oficialía Mayor, con las salvedades que en beneficio de la atención más oportuna de los servicios públicos, establezca un reglamento.
@@ -11698,6 +12326,8 @@ El Ejecutivo del Estado, por conducto de la Dirección de Gobernación, tramitar
 La declaratoria a que se refiere el artículo anterior se hará mediante acuerdo que se publicará en el Periódico Oficial del Estado y será notificado personalmente a los interesados. En caso de ignorarse el domicilio de éstos, surtirá efectos de notificación personal una segunda publicación del acuerdo en el Periódico Oficial del Estado.
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+## TITULO SEGUNDO. (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
 ###### ARTICULO 1648.
 
@@ -11920,5 +12550,9 @@ Se abroga el Decreto 17-74 publicado en el Periódico Oficial del Gobierno del E
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 10 DE MARZO DE 1979.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE ABRIL DE 1979.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
