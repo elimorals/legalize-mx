@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-notariado-para-el-estado-de-queretaro-11922"
 country: "mx"
 rank: "ley"
 publication_date: "1976-10-28"
-last_updated: "1986-01-02"
+last_updated: "1991-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL NOTARIADO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1986.
+ULTIMA REFORMA PUBLICADA PERIODICO OFICIAL: 17 DE ENERO DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el 28 de octubre de 1976.
 
@@ -103,7 +103,9 @@ III.- Tener residencia ininterrumpida en el Estado por más de tres años anteri
 
 IV.- No tener enfermedad permanente que impida el ejercicio de las facultades intelectuales, ni incapacidad física que impida las funciones del Notariado;
 
-V.- Tener título de Licenciado en Derecho o Abogado, registrado en la Dirección General de Profesiones de la Secretaría de Educación Pública, con cinco años cuando menos de ejercicio profesional y haber tomado y aprobado el curso de Derecho Notarial en cualquier Institución Universitaria de la República, legalmente reconocida;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1991)</small>
+
+V.- Tener título de Licenciado en Derecho, registrado en la Dirección General de Profesiones de la Secretaría de Educación Pública, con cinco años cuando menos de ejercicio profesional, haber tomado y aprobado el curso de Derecho Notarial que imparta la Universidad Autónoma de Querétaro y las Instituciones de Educación Superior de la República Mexicana reconocidas por la Secretaría de Educación Pública, o el Consejo de Notarios del Estado de Querétaro;
 
 VI.- Acreditar haber tenido y tener buena conducta;
 
@@ -837,9 +839,11 @@ Transcurrido el plazo anterior y su prórroga, si la hubo, la Comisión en un t�
 
 ### CAPITULO XV. DEL CONSEJO DE NOTARIOS
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1991)</small>
+
 ###### ARTICULO 120.
 
-En el Estado habrá un Consejo de Notarios que estará integrado por todos los Notarios Titulares y Adscritos en ejercicio. Su Dirección estará a cargo de un Presidente, Un Secretario, un Tesorero y un primero y segundo Vocal, que integrará la mesa Directiva.
+En el Estado habrá un Consejo de Notarios, con personalidad jurídica y patrimonio propio, que estará integrado por todos los Notarios titulares y adscritos en ejercicio. Su Dirección estará a cargo de un Presidente, un Secretario, un Tesorero, un primero y segundo vocal, que integrará la mesa directiva.
 
 ###### ARTICULO 121.
 
@@ -1048,3 +1052,9 @@ Esta Ley entrará en vigor a partir del día siguiente de su publicación en el 
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan a la presente.
+
+P.O. 17 DE ENERO DE 1991
+
+###### ARTICULO UNICO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "La Sombra de Arteaga".
