@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1938-01-12"
+last_updated: "1938-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 1938.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 1938.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -313,13 +313,17 @@ El Congreso del Estado durará en el ejercicio de sus funciones y se renovará e
 
 La Legislatura del Estado celebrará anualmente dos períodos de sesiones ordinarias: Uno que contará desde el primero de diciembre hasta el día último de febrero y otro que comenzará el primero de junio, terminando el treinta y uno de agosto. Cada uno de estos periodos podrá prorrogarse hasta por un mes, si así lo exige la importancia de los asuntos pendientes de resolución y lo juzgan necesario las dos terceras partes del número total de los Ciudadanos Diputados.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1938)</small>
+
 ###### Art. 37.
 
-Durante el primer período de sesiones, se ocupará la Legislatura de discutir y votar las iniciativas de leyes que se le presenten para su estudio, y de resolver los demás asuntos que se sometan a su consideración.
+Durante el primer mes del primer período ordinario de sesiones de cada año, de toda preferencia se ocupará la Legislatura del examen y votación de los Presupuestos, y a decretar las contribuciones para cubrirlos.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1938)</small>
 
 ###### Art. 38.
 
-El segundo periodo de sesiones se destinará de toda preferencia, al examen y votación de los presupuestos, a decretar las contribuciones para cubrirlos, y a la revisión de la cuenta anterior que habrá de presentar el Ejecutivo dentro de los primeros treinta días.
+En el segundo período de sesiones ordinarias de cada año, se hará la revisión de la cuenta de caudales públicos del año anterior, que habrá de presentar el Ejecutivo dentro de los primeros 30 días de este periodo.
 
 > <small>(REFORMADO, P.O. 14 DE MARZO DE 1934)</small>
 
@@ -519,19 +523,19 @@ Para discutir un proyecto de ley enviado por alguna de las personas que tienen d
 
 En los casos de notoria urgencia calificada por la mayoría de los Diputados presentes, y cuando fueren dispensados los trámites de reglamento, se dará el aviso desde luego. Si a pesar de ello no concurriere el representante, el Congreso procederá a la discusión y votación del proyecto presentado.
 
-> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1937)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1938)</small>
 
 ###### Art. 53.
 
 Las resoluciones del Congreso no tendrán otro carácter que el de Ley, Decreto o Acuerdo.
 
-Es materia de Ley, toda resolución que otorgue derecho o imponga obligaciones a generalidad de personas.
+Es materia de Ley, toda resolución que otorgue derechos o imponga obligaciones a generalidad de personas.
 
-Es materia de Decreto, toda resolución que otorgue derechos y obligaciones, a determinadas personas individuales o morales con expresión de sus nombres.
+Es materia de Decreto toda resolución que otorgue derechos y obligaciones a determinadas personas individuales o morales con expresión de sus nombres.
 
 Son materia de Acuerdo, todas las demás resoluciones de la Cámara que no tengan el carácter de Ley o Decreto.
 
-Las Leyes y Decretos se comunicarán al Ejecutivo para su promulgación y observancia firmados por el Presidente y Secretarios y los acuerdos sólo por los Secretarios. Aprobado por la Cámara un Proyecto de Ley o Decreto lo enviará desde luego al Ejecutivo para que dentro del plazo de veinticinco días haga las observaciones que juzgue pertinentes.
+Las Leyes y Decretos se comunicarán al Ejecutivo para su promulgación y observancia, firmados por el Presidente y Secretarios, y los acuerdos sólo por los Secretarios. Aprobado por la Cámara un Proyecto de Ley o Decreto, lo enviará desde luego al Ejecutivo para que dentro del plazo de diez días haga las observaciones que juzgue pertinentes.
 
 ###### Art. 54.
 
@@ -637,11 +641,11 @@ Si al comenzar el período constitucional no se presentare el Gobernador electo,
 
 El cargo de Gobernador del Estado solo es renunciable por causa grave que calificará el Congreso, ante el cual se presentará la renuncia.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1930)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1938)</small>
 
 ###### Art. 68.
 
-El Gobernador no podrá salir del territorio del Estado, ni separarse del ejercicio de sus funciones sin permiso de la Cámara o de la Diputación Permanente, en su caso, salvo que su ausencia no exceda de cinco días.
+El Gobernador no podrá salir del Territorio del Estado, ni separarse del Ejercicio de sus funciones sin permiso de la Cámara o de la Diputación Permanente en su caso, salvo que su ausencia no exceda de diez días, debiendo avisar en cada ocasión a las mismas, de la fecha en que principie a hacer uso de este derecho.
 
 ### CAPITULO VII. De las facultades y obligaciones del Gobernador
 
@@ -657,11 +661,9 @@ II.- Sancionar, promulgar y ejecutar las leyes y decretos dados por el Poder Leg
 
 III.- Iniciar ante la Legislatura las leyes y decretos que juzgue convenientes para el mejoramiento de la administración pública y pedirle que inicie ante el Congreso de la Unión, lo que sea de la competencia Federal.
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 1919)</small>
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1938)</small>
 
-> <small>N. DE E. SOLO PARA QUE SURTA SUS EFECTOS DURANTE EL PRESENTE PERIODO DE SESIONES ORDINARIAS</small>
-
-IV.- Presentar a la Legislatura dentro de los primeros sesenta días del segundo periodo del año actual, el Presupuesto de Gastos del año siguiente, proponiendo arbitrios para cubrirlos.
+IV.- Presentar a la Legislatura dentro de los primeros diez días del primer periodo ordinario de sesiones de cada año o sea del primero al diez de diciembre, el Presupuesto de Gastos del año siguiente, proponiendo arbitrios para cubrirlo.
 
 V.- (A). Cuidar de la legal recaudación e inversión de todos los caudales públicos.
 
@@ -1328,3 +1330,7 @@ Los Tutores y Albaceas ya nombrados, deberán garantizar su manejo antes del dí
 7o. Los recursos pendientes al entrar en vigor los Códigos de Procedimientos Civiles y de Procedimientos Penales que se adoptan, se substanciarán conforme a sus disposiciones.
 
 En la computación de términos pendientes al entrar en vigor los Códigos a que se refiere este Artículo, se estará a las disposiciones de aquellos que los señalen más amplios.
+
+P.O. 24 DE AGOSTO DE 1938
+
+UNICO.- El presente Decreto surte sus efectos desde la fecha de su publicación, en el Periódico Oficial del Estado, y deroga todas las disposiciones que se opongan a su cumplimiento.
