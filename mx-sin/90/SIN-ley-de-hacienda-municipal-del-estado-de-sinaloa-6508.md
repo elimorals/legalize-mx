@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "1994-03-11"
+last_updated: "1994-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1994.
 
 Ley Publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -133,27 +133,47 @@ TARIFA
 
 CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
-A) Cabeceras Municipales y poblaciones
+A) Cabeceras
 
-con más de 50,000 habitantes. 3.0 3.0 3.0
+Municipales y
 
-B) Poblaciones de 20,000 a 50,000
+poblaciones
+
+con más de 50,000
+
+habitantes. 3.0 3.0 3.0
+
+B) Poblaciones de
+
+20,000 a 50,000
 
 habitantes. 2.5 2.5 2.5
 
-C) Poblaciones con menos de 20,000
+C) Poblaciones
+
+con menos de 20,000
 
 habitantes. 2.0 2.0 2.0
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1992)</small>
 
-2. Títeres, Variedades, Conciertos, Recitales, Corridas de
+2. Títeres, Variedades,
 
-toros, Jaripeos, Espectáculos Deportivos y Artísticos;
+Conciertos, Recitales,
 
-Espectáculos Públicos no especificados
+Corridas de toros,
 
-(porcentaje sobre el ingreso total). 15% 15% 15%
+Jaripeos, Espectáculos
+
+Deportivos y Artísticos;
+
+Espectáculos Públicos
+
+no especificados
+
+(porcentaje sobre
+
+el ingreso total). 15% 15% 15%
 
 3.- Carreras de Caballos por cada Permiso
 
@@ -163,29 +183,37 @@ al número de veces el salario mínimo diario
 
 de la Zona. 59.5 59.5 59.5
 
-4.- Las Bandas de Música, Orquestas, Mariachis
+4.- Las Bandas de Música, Orquestas,
 
-y cualquier otro Conjunto Musical que radiquen
+Mariachis y cualquier otro Conjunto
 
-fuera del Municipio y que actúen en forma eventual
+Musical que radiquen fuera del Municipio
 
-en éste, pagarán por cada miembro y por día, el
+y que actúen en forma eventual en éste,
 
-número de veces el salario mínimo diario de la
+pagarán por cada miembro y por día, el
 
-zona equivalente a: 1.5 1.5 1.5
+número de veces el salario mínimo
 
-5.- Los Cancioneros, Músicos y Bandas de
+diario de la zona equivalente
 
-Música, Orquestas, Mariachis y cualquier otro
+a: 1.5 1.5 1.5
 
-Conjunto Musical radicados en el Municipio,
+5.- Los Cancioneros, Músicos y
 
-pagarán por cada miembro mensualmente el
+Bandas de Música, Orquestas,
 
-número de veces el salario mínimo diario de la
+Mariachis y cualquier otro Conjunto
 
-zona equivalente a: 1.0 1.0 1.0
+Musical radicados en el Municipio,
+
+pagarán por cada miembro mensualmente
+
+el número de veces el salario mínimo
+
+diario de la zona equivalente
+
+a: 1.0 1.0 1.0
 
 ###### ARTICULO 13.
 
@@ -311,49 +339,77 @@ CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
 1.- Aplicable al Rematador o Subastador.
 
-1.1. Hasta 12 veces el Salario Mínimo
+1.1. Hasta 12 veces
+
+el Salario Mínimo
 
 Diario de la Zona. 3% 3% 3%
 
-1.2. De más de 12 a 36 veces el Salario
+1.2. De más de 12 a
 
-Mínimo Diario de la Zona. 5% 5% 5%
+36 veces el Salario
 
-1.3. De más de 36 a 59 veces el Salario
+Mínimo Diario de la
 
-Mínimo Diario de la Zona. 6% 6% 6%
+Zona. 5% 5% 5%
 
-1.4. De más de 59 a 119 veces el Salario
+1.3. De más de 36 a
 
-Mínimo Diario de la Zona. 7% 7% 7%
+59 veces el Salario
 
-1.5. De más de 119 veces el Salario Mínimo
+Mínimo Diario de la
+
+Zona. 6% 6% 6%
+
+1.4. De más de 59 a
+
+119 veces el Salario
+
+Mínimo Diario de la
+
+Zona. 7% 7% 7%
+
+1.5. De más de 119
+
+veces el Salario Mínimo
 
 Diario de la Zona. 8% 8% 8%
 
 2.- Aplicable a los Adquirentes de los Bienes Rematados.
 
-2.1. Hasta 12 veces el Salario Mínimo Diario
+2.1. Hasta 12 veces
 
-de la Zona. 2% 2% 2%
+el Salario Mínimo
 
-2.2. De más de 12 a 36 veces el Salario Mínimo
+Diario de la Zona. 2% 2% 2%
+
+2.2. De más de 12 a
+
+36 veces el Salario Mínimo
 
 Diario de la zona. 4% 4% 4%
 
-2.3. De más de 36 a 59 veces el Salario Mínimo
+2.3. De más de 36 a
+
+59 veces el Salario Mínimo
 
 Diario de la Zona. 5% 5% 5%
 
-2.4. De más de 59 a 119 veces el Salario Mínimo
+2.4. De más de 59 a
+
+119 veces el Salario Mínimo
 
 Diario de la Zona. 6% 6% 6%
 
-2.5. De más de 119 veces el Salario Mínimo
+2.5. De más de 119
+
+veces el Salario Mínimo
 
 Diario de la Zona. 7% 7% 7%
 
-3.- Aplicable a los Responsables de Rifas,
+3.- Aplicable a los
+
+Responsables de Rifas,
 
 Sorteos y Loterías. 10% 10% 10%
 
@@ -389,259 +445,371 @@ CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
 1.- Billares.
 
-1.1. Cabecera Municipal y poblaciones con
+1.1. Cabecera Municipal
 
-más de 50,000 habitantes. 12.00 10.50 9.00
+y poblaciones con más de
 
-1.2. Poblaciones de 20,000 a 50,000 9.00 8.00 6.5
+50,000 habitantes. 12.00 10.50 9.00
 
-habitantes.
+1.2. Poblaciones de
 
-1.3. Poblaciones con menos de 20,000
+20,000 a 50,000
+
+habitantes. 9.00 8.00 6.5
+
+1.3. Poblaciones con
+
+menos de 20,000
 
 habitantes. 6.50 5.00 4.00
 
 2.- Boliches y Salores (sic) de Fiesta.
 
-2.1. Poblaciones con más de 50,000 7.00 5.50 4.00
+2.1. Poblaciones con
 
-habitantes.
+más de 50,000
 
-2.2. Poblaciones hasta de 50,000 habitantes. 5.00 3.50 3.50
+habitantes. 7.00 5.50 4.00
+
+2.2. Poblaciones hasta
+
+de 50,000 habitantes. 5.00 3.50 3.50
 
 3.- Expendios de Vinos y Licores por Botella Cerrada.
 
-3.1. Cabecera Municipal y poblaciones con
+3.1. Cabecera Municipal
 
-más de 50,000 habitantes. 23.50 19.50 16.50
+y poblaciones con
 
-3.2. Poblaciones de 20,000 a 50,000 21.00 18.50 14.50
+más de 50,000
 
-habitantes.
+habitantes. 23.50 19.50 16.50
 
-3.3. Poblaciones con menos de 20,000 18.50 15.50 13.00
+3.2. Poblaciones de
 
-habitantes.
+20,000 a 50,000
+
+habitantes. 21.00 18.50 14.50
+
+3.3. Poblaciones con
+
+menos de 20,000
+
+habitantes. 18.50 15.50 13.00
 
 4.- Cantinas, Bares o Expendios de Bebidas Alcohólicas con Envase Abierto.
 
 4.1. Zonas Turísticas. 41.50 35.50 30.00
 
-4.2. Cabecera Municipal y poblaciones
+4.2. Cabecera Municipal
 
-con más de 50,000 habitantes. 32.50 29.00 25.00
+y poblaciones con más de
 
-4.3. Poblaciones de 20,000 a 50,000 29.00 25.00 23.00
+50,000 habitantes. 32.50 29.00 25.00
 
-habitantes.
+4.3. Poblaciones de
 
-4.4. Poblaciones con menos de 20,000
+20,000 a 50,000
+
+habitantes. 29.00 25.00 23.00
+
+4.4. Poblaciones con
+
+menos de 20,000
 
 habitantes. 25.00 21.00 21.00
 
-5.- Supermercados con Venta de Mayoreo y Menudeo de Bebidas Alcohólicas por Envase Cerrado.
+5.- Supermercados con Venta de Mayoreo y Menudeo de Bebidas Alcohólicas por Envase
 
-5.1. Cabecera Municipal y poblaciones con más
+Cerrado.
+
+5.1. Cabecera Municipal
+
+y poblaciones con más
 
 de 50,000 habitantes. 36.50 31.50 26.00
 
-5.2. Poblaciones de 20,000 a 50,000
+5.2. Poblaciones de
+
+20,000 a 50,000
 
 habitantes. 27.50 23.50 19.50
 
-5.3. Poblaciones con menos de 20,000
+5.3. Poblaciones con
+
+menos de 20,000
 
 habitantes. 23.50 19.50 15.50
 
 6.- Centros Nocturnos Fuera de Zona de Tolerancia.
 
-6.1. Cabecera Municipal y poblaciones con más
+6.1. Cabecera Municipal
+
+y poblaciones con más
 
 de 50,000 habitantes. 65.50 52.50 39.50
 
-6.2. Poblaciones de 20,000 a 50,000
+6.2. Poblaciones de
+
+20,000 a 50,000
 
 habitantes. 39.50 32.50 26.00
 
-6.3. Poblaciones con menos de 20,000
+6.3. Poblaciones con
+
+menos de 20,000
 
 habitantes. 26.00 23.50 19.50
 
-7.- Centros Nocturnos dentro de Zona
+7.- Centros Nocturnos
+
+dentro de Zona
 
 de Tolerancia. 118.00 91.50 65.50
 
 8.- Casas de Tolerancia o Cabarets con Venta de Bebidas Alcohólicas.
 
-8.1. Cabecera Municipal y poblaciones con más
+8.1. Cabecera Municipal
+
+y poblaciones con más
 
 de 50,000 habitantes. 71.50 59.50 47.50
 
-8.2. Poblaciones de 20,000 a 50,000
+8.2. Poblaciones de
+
+20,000 a 50,000
 
 habitantes. 59.50 47.50 35.50
 
-8.3. Poblaciones con menos de 20,000
+8.3. Poblaciones con
+
+menos de 20,000
 
 habitantes. 39.50 26.00 19.50
 
 9.- Clubes Sociales con Venta de Bebidas Alcohólicas.
 
-9.1. Cabecera Municipal y poblaciones con más de
+9.1. Cabecera Municipal
+
+y poblaciones con más de
 
 50,000 habitantes. 22.50 19.50 17.00
 
-9.2. Poblaciones de 20,000 a menos de
+9.2. Poblaciones de
+
+20,000 a menos de
 
 50,000 habitantes. 15.50 14.50 13.00
 
-9.3. Poblaciones con menos de 20,000
+9.3. Poblaciones con
+
+menos de 20,000
 
 habitantes. 13.00 12.00 10.50
 
 10.- Expendios Eventuales con Venta de Bebidas Alcohólicas por cada Evento.
 
-10.1. Cabecera Municipal y poblaciones con más
+10.1. Cabecera Municipal
+
+y poblaciones con más
 
 de 50,000 habitantes. 131.00 111.50 98.00
 
-10.2. Poblaciones de 20,000 a 50,000
+10.2. Poblaciones de
+
+20,000 a 50,000
 
 habitantes. 85.00 72.00 59.00
 
-10.3. Poblaciones con menos de 20,000
+10.3. Poblaciones con
+
+menos de 20,000
 
 habitantes. 65.50 46.00 39.50
 
 11.- Expendios Fijos, Depósitos ó Agencias de Cerveza.
 
-11.1. Cabecera Municipal y poblaciones con
+11.1. Cabecera Municipal y
 
-más de 50,000 habitantes. 65.50 52.50 39.50
+poblaciones con más de
 
-11.2. Poblaciones de 20,000 a 50,000
+50,000 habitantes. 65.50 52.50 39.50
+
+11.2. Poblaciones de
+
+20,000 a 50,000
 
 habitantes. 52.50 46.00 39.50
 
-11.3. Poblaciones con menos de 20,000
+11.3. Poblaciones con
+
+menos de 20,000
 
 habitantes. 46.00 39.50 32.50
 
 12.- Cervecerías.
 
-12.1. Cabecera Municipal y poblaciones con
+12.1. Cabecera Municipal
+
+y poblaciones con
 
 más de 50,000 habitantes. 39.50 34.00 29.00
 
-12.2. Poblaciones de 20,000 a 50,000
+12.2. Poblaciones de
+
+20,000 a 50,000
 
 habitantes. 29.00 23.50 18.50
 
-12.3. Poblaciones con menos de 20,000
+12.3. Poblaciones con
+
+menos de 20,000
 
 habitantes. 18.50 15.50 13.00
 
 13.- Restaurantes con Venta de Cerveza.
 
-13.1. Cabecera Municipal y Poblaciones con
+13.1. Cabecera Municipal
+
+y Poblaciones con
 
 más de 50,000 habitantes. 12.00 10.50 9.50
 
-13.2. Poblaciones con más de 20,000 a
+13.2. Poblaciones con
+
+más de 20,000 a
 
 50,000 habitantes. 10.50 9.50 8.00
 
-13.3. Poblaciones con menos de
+13.3. Poblaciones
+
+con menos de
 
 20,000 habitantes. 9.50 8.00 6.50
 
 14.- Restaurantes con Bar Anexo.
 
-14.1. Cabecera Municipal y Poblaciones con
+14.1. Cabecera Municipal
+
+y Poblaciones con
 
 más de 50,000 habitantes. 23.50 19.50 15.50
 
-14.2. Poblaciones de 20,000 a 50,000
+14.2. Poblaciones de
+
+20,000 a 50,000
 
 habitantes. 19.50 15.50 13.00
 
-14.3. Poblaciones con menos de 20,000
+14.3. Poblaciones con
+
+menos de 20,000
 
 habitantes. 13.00 10.50 9.00
 
 15.- Restaurant con Centro Nocturno.
 
-15.1. Cabecera Municipal y poblaciones con
+15.1. Cabecera Municipal
 
-más de 50,000 habitantes. 34.00 31.50 29.00
+y poblaciones con más de
 
-15.2. Poblaciones de 20,000 a 50,00
+50,000 habitantes. 34.00 31.50 29.00
+
+15.2. Poblaciones de
+
+20,000 a 50,00
 
 habitantes. 29.00 26.00 23.50
 
-15.3. Poblaciones de menos de 20,000
+15.3. Poblaciones de
+
+menos de 20,000
 
 habitantes. 23.50 21.00 18.50
 
 16.- Restaurant con Venta de Cerveza, vinos y Licores.
 
-16.1. Cabecera Municipal y poblaciones con
+16.1. Cabecera Municipal
 
-más de 50,000 habitantes. 23.00 19.50 19.50
+y poblaciones con más de
 
-16.2. Poblaciones de 20,000 a 50,000
+50,000 habitantes. 23.00 19.50 19.50
+
+16.2. Poblaciones de
+
+20,000 a 50,000
 
 habitantes. 21.00 18.50 18.50
 
-16.3. Poblaciones de menos de 20,000
+16.3. Poblaciones de menos
 
-habitantes. 18.00 17.50 16.00
+de 20,000 habitantes. 18.00 17.50 16.00
 
 17.- Bodegas con Venta de Bebidas Embriagantes al Mayoreo y Menudeo.
 
-17.1. Cabecera Municipal y poblaciones con
+17.1. Cabecera Municipal
 
-más de 50,000 habitantes. 31.00 28.50 26.00
+y poblaciones con más
 
-17.2. Poblaciones de 20,000 a 50,000
+de 50,000 habitantes. 31.00 28.50 26.00
+
+17.2. Poblaciones de
+
+20,000 a 50,000
 
 habitantes. 24.00 21.50 19.00
 
-17.3. Poblaciones de menos de 20,000
+17.3. Poblaciones de
+
+menos de 20,000
 
 habitantes. 20.00 19.00 18.00
 
 18.- Expendios y Accesorios con Venta de Bebidas Alcohólicas por Envase Abierto.
 
-18.1. Cabecera Municipal y poblaciones con
+18.1. Cabecera Municipal
 
-más de 50,000 habitantes. 18.00 16.00 14.50
+y poblaciones con más de
 
-18.2. Poblaciones de 20,000 a 50,000
+50,000 habitantes. 18.00 16.00 14.50
+
+18.2. Poblaciones de
+
+20,000 a 50,000
 
 habitantes. 16.00 14.50 13.00
 
-18.3. Poblaciones de menos de 20,000
+18.3. Poblaciones de
+
+menos de 20,000
 
 habitantes. 14.50 13.00 12.00
 
 19.- Minisuper con Venta de Vinos, Licores y Cervezas.
 
-19.1. Cabecera Municipal y poblaciones con
+19.1. Cabecera Municipal
 
-más de 50,000 habitantes. 36.50 31.50 26.00
+y poblaciones con más de
 
-19.2. Poblaciones de 20,000 a 50,000
+50,000 habitantes. 36.50 31.50 26.00
+
+19.2. Poblaciones de
+
+20,000 a 50,000
 
 habitantes. 27.50 23.50 19.50
 
-19.3. Poblaciones con menos de 20,000
+19.3. Poblaciones con
+
+menos de 20,000
 
 habitantes. 23.50 19.50 15.50
 
-20.- Discoteca-Bar con Venta de
+20.- Discoteca-Bar con
 
-Bebidas Embriagantes. 65.50 59.00 52.50
+Venta de Bebidas
+
+Embriagantes. 65.50 59.00 52.50
 
 ###### ARTICULO 36.
 
@@ -681,49 +849,69 @@ CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
 1.1. Cabecera Municipal. 0.23 0.18 0.14
 
-1.2. Resto poblaciones del Municipio. 0.14 0.13 0.12
+1.2. Resto poblaciones
+
+del Municipio. 0.14 0.13 0.12
 
 2.- Empresas Explotadoras del Cine Permanente, por los Anuncios propios que exhiban una cuota por año o fracción de acuerdo al número de veces el salario mínimo diario de la zona:
 
 2.1. Cabecera Municipal. 8.50 7.50 7.00
 
-2.2. Resto poblaciones del Municipio. 6.00 5.50 5.00
+2.2. Resto poblaciones
+
+del Municipio. 6.00 5.50 5.00
 
 3.- Empresas de Espectáculos Públicos y Diversiones Públicas de carácter permanente excluyendo a los citados en la fracción anterior, por los Anuncios propios que exhiban o propaguen una cuota por año o fracción equivalente al número de veces el salario mínimo diario de la zona.
 
 3.1. Cabecera Municipal. 5.00 4.50 4.50
 
-3.2. Resto poblaciones del Municipio. 3.50 3.50 3.00
+3.2. Resto poblaciones
+
+del Municipio. 3.50 3.50 3.00
 
 4.- Las Empresas de Espectáculos Públicos y Diversiones Públicas de carácter eventual por los Anuncios propios que publiquen o propaguen una cuota diaria por estancia, por el equivalente al número de veces el salario mínimo diario de la zona.
 
 4.1. Cabecera Municipal. 3.00 2.50 2.50
 
-4.2. Resto poblaciones del Municipio. 2.50 2.00 2.00
+4.2. Resto poblaciones
+
+del Municipio. 2.50 2.00 2.00
 
 5.- Los anuncios Comerciales por medio de Aparato de Sonido pagarán una cuota diaria, por el equivalente al número de veces el salario mínimo diario de la zona.
 
 5.1. Cabecera Municipal. 1.00 1.00 0.95
 
-5.2. Resto poblaciones del Municipio. 0.95 0.83 0.71
+5.2. Resto poblaciones
+
+del Municipio. 0.95 0.83 0.71
 
 6.- La Propaganda por medio de Volantes, Programas, Folletos, Carteles, etc., ya sea para distribuirse o fijarse en lugares autorizados, pagarán por cada permiso el siguiente equivalente al número de veces el salario mínimo diario de la zona.
 
 6.1. Cabecera Municipal. 2.00 2.00 1.50
 
-6.2. Resto poblaciones del Municipio. 2.00 1.50 1.00
+6.2. Resto poblaciones
+
+del Municipio. 2.00 1.50 1.00
 
 7.- Las Empresas Embotelladoras o distribuidoras de Vinos, licores, Refrescos, Fabricantes de cigarros, Cerillos, Llantas y Cámaras, Acumuladores, Aceites, Grasas, Maquinaria Agrícola e Industrial, Insecticidas y Fumigantes y Empresas de Crédito que fijen Anuncios de carácter permanente en el Municipio, pagarán anualmente el equivalente al número de veces el salario mínimo diario de la zona como sigue:
 
 7.1. Cabecera Municipal. 53.50 47.50 41.50
 
-7.2. Resto poblaciones del Municipio. 38.50 35.50 29.50
+7.2. Resto poblaciones
 
-8.- Anuncios no Previstos en los Incisos
+del Municipio. 38.50 35.50 29.50
 
-anteriores, pagarán el equivalente
+8.- Anuncios no
 
-al número de veces el Salario Mínimo
+Previstos en los
+
+Incisos anteriores,
+
+pagarán el equivalente
+
+al número de veces
+
+el Salario Mínimo
 
 Diario de la Zona. 0.21 0.19 0.17
 
@@ -775,23 +963,37 @@ TARIFA:
 
 CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
-1.- Para Fraccionamientos
+1.- Para
 
-Populares o Campestres. 0.01 0.01 0.01
+Fraccionamientos
 
-2.- Para Fraccionamientos Residenciales. 0.02 0.02 0.02
+Populares o
 
-3.- Para Fraccionamientos Industriales. 0.02 0.02 0.01
+Campestres. 0.01 0.01 0.01
+
+2.- Para Fraccionamientos
+
+Residenciales. 0.02 0.02 0.02
+
+3.- Para Fraccionamientos
+
+Industriales. 0.02 0.02 0.01
 
 > <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
-4.- Para fraccionamientos de servicios progresivos,
+4.- Para fraccionamientos
 
-en los que el valor de la vivienda no exceda de
+de servicios progresivos,
 
-3,000 veces el salario mínimo general diario
+en los que el valor de la
 
-vigente en la zona. Exento Exento Exento
+vivienda no exceda de
+
+3,000 veces el salario mínimo
+
+general diario vigente
+
+en la zona. Exento Exento Exento
 
 ###### ARTICULO 47.
 
@@ -931,6 +1133,10 @@ Lo que se recaude por los conceptos a que se refiere esta fracción, serán dest
 
 III.- En los demás casos de predios rústicos, se aplicará la tarifa contenida en la Fracción I de este Artículo.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1994)</small>
+
+ARTICULO 52 BIS.- Para la aplicación de la tarifa que se establece en el Artículo que antecede, los límites inferior y superior de los rangos contenidos en la misma se actualizarán aplicando el factor que resulte de dividir el Indice Nacional de Precios al Consumidor publicado por el Banco de México en el Diario Oficial de la Federación del penúltimo mes del año de calendario que se actualiza, entre el citado Indice correspondiente al penúltimo mes del año de calendario anterior al de esa fecha. La actualización se publicará por el Instituto Catastral de Sinaloa en el Periódico Oficial "El Estado de Sinaloa".
+
 ###### ARTICULO 53.
 
 Los contribuyentes y responsables solidarios del pago de este impuesto, según sea el caso tendrán las siguientes obligaciones:
@@ -987,15 +1193,33 @@ La interposición de cualquier medio legal de defensa, en contra de los avalúos
 
 Cuando de las investigaciones que realice la Tesorería Municipal, directamente o por conducto de cualquier Autoridad Fiscal o Administrativa, o Colectores de Rentas por sí mismos o por los Comisionados Fiscales Especiales que designen resulten a su juicio elementos suficientes que demuestren la falsedad o la simulación de contratos, recibos, documentos, declaraciones o informes que les hubieren proporcionado los causantes del impuesto, o que mediante ellos se ha eludido en todo o en parte, el pago del impuesto correspondiente, la Tesorería y sus Dependencias aplicarán las sanciones respectivas, sin perjuicio de hacer efectivos los impuestos realmente causados y sus accesorios legales correspondientes.
 
-Los contribuyentes que realicen el pago total anual del Impuesto Predial Urbano, dentro de los treinta primeros días del ejercicio de que se trate, tendrán derecho a un 10% de descuento sobre el monto del mismo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1994)</small>
+
+Los contribuyentes que realicen el pago total anual del Impuesto Predial Urbano, dentro de los primeros dos meses del ejercicio de que se trate, tendrán derecho a un 10% de descuento sobre el monto del mismo.
 
 El pago anticipado del impuesto no impide el cobro de diferencias que deba hacer la Tesorería Municipal por cambios de la base gravable o alteración de las cuotas del impuesto.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1994)</small>
+
+ARTICULO 57 BIS-1.- Tratándose de casa habitación propiedad de pensionados o jubilados, o de sus cónyuges, siempre y cuando la habiten, el Impuesto Predial se pagará con un descuento del 65% del monto total del impuesto determinado, aplicando la tasa que señala la tarifa contenida en la Fracción I del Artículo 52 de la presente Ley, previa comprobación de su calidad de jubilado, pensionado o cónyuge a satisfacción plena de la Tesorería del Municipio en que se encuentre ubicada. Los Ayuntamientos deberán informar al Instituto Catastral del Estado de Sinaloa, sobre los predios que les sea otorgado este beneficio.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1994)</small>
+
+ARTICULO 57 BIS-2.- A los propietarios de fincas destinadas a casa habitación, siempre y cuando la habiten en forma permanente, previa comprobación de manera fehaciente ante la Tesorería del municipio que corresponda se les hará un descuento del 50% del monto total del impuesto a pagar.
+
+El descuento a que se refiere este Artículo no será aplicable en ningún caso, a las casas habitación sujetas a cuota fija señalada en la tarifa contenida en la Fracción I del Artículo 52 de la presente Ley, ni a jubilados, pensionados o sus cónyuges que resulten beneficiados con el descuento señalado en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1994)</small>
+
+ARTICULO 57 BIS-3.- Tratándose de predios en que se encuentren ubicadas empresas comerciales e industriales, previa comprobación de dicha circunstancia a satisfacción de la Tesorería Municipal que corresponda, el Impuesto Predial se pagará aplicando la tasa que señala la Tarifa contenida en la Fracción I del Artículo 52 de la presente Ley, con un descuento de hasta un 50% del monto total del impuesto a pagar, el cual deberá ser aprobado por el Ayuntamiento; se exceptúan de este beneficio las industrias acreedoras a las reducciones del Impuesto Predial previstas en la Ley de Fomento Industrial, entendiéndose por industria lo señalado en la Fracción IV del Artículo 2 de dicha Ley. Los Ayuntamientos deberán informar al Instituto Catastral del Estado de Sinaloa, sobre los predios que les sea otorgado este beneficio.
 
 ###### ARTICULO 58.
 
 Están obligados al pago de este Impuesto, las personas físicas o morales que adquieran inmuebles que consistan en el suelo, en construcciones adheridas a él, o en ambos conceptos, ubicados en los Municipios del Estado, así como los derechos relacionados con los mismos a que este capítulo se refiere. El impuesto se calculará aplicando una tasa del 2% sobre la base gravable a que se refiere el Artículo 61 de este Capítulo.
 
-Cuando el bien consistente en la casa habitación de los cónyuges, sea adquirido por herencia o legados, por el cónyuge supérstite o por sus ascendientes o descendientes en línea recta, siempre y cuando la habiten el impuesto se calculará multiplicando la tasa el 25% sobre la base gravable a que se refiere el Artículo 61 de este Capítulo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1994)</small>
+
+Cuando el bien inmueble, sea adquirido por herencia o legados, por el cónyuge supérstite o por los ascendientes o descendientes en línea recta, se aplicará la tasa señalada en el párrafo que antecede, sin que el monto del impuesto a pagar pueda exceder de una cuota fija de 25 días de salario mínimo general diario vigente en la zona.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
@@ -1053,17 +1277,19 @@ IX.- La división de la copropiedad y la disolución de la sociedad conyugal por
 
 X.- La prescripción positiva.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1994)</small>
 
 ### CAPITULO X. IMPUESTO DE PLUSVALIA PARA EL DESARROLLO DE CENTROS POBLADOS
 
 ###### ARTICULO 61.
 
-La base gravable de este impuesto será el valor que resulte del avalúo bancario o comercial realizado por peritos autorizados por el Ayuntamiento, o por perito reconocido por la Comisión Nacional Bancaria o de Seguros, o por perito miembro del Instituto Mexicano de Valuación de Sinaloa, A.C. o por corredor público o por la Dirección de Catastro. Aquellos avalúos que no sean realizados por la Dirección de Catastro podrán ser rechazados para efectos del pago de este impuesto cuando sean menores en más del 10% al valor actualizado.
+La base gravable de este impuesto será el valor que resulte del avalúo bancario o comercial realizado por peritos autorizados por el Ayuntamiento, o por perito reconocido por la Comisión Nacional Bancaria o de Seguros, o por perito miembro del Instituto Mexicano de Valuación de Sinaloa, A.C. o por Corredor Público o por el Instituto Catastral del Estado de Sinaloa.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+Aquellos avalúos que no sean realizados por el Instituto Catastral podrán ser rechazados para efectos del pago de este impuesto cuando sean menores en más de 10% el valor actualizado.
 
-Para las operaciones en que se trate de adquisición de casa-habitación tipo interés social de nueva construcción, que no excedan de 6,500 veces el salario mínimo general diario vigente en la zona, la base gravable del impuesto se determinará conforme al valor comercial que deberá ser fijado por la Dirección de Catastro.
+Para las operaciones en que se trate de adquisiciones de casa habitación tipo interés social que no excedan de 6,500 veces el salario mínimo general diario vigente en la zona, la base gravable del impuesto se determinará conforme al valor comercial que deberá ser fijado por el Instituto Catastral.
+
+El contribuyente podrá optar por considerar como base gravable el valor de adquisición de su inmueble disminuido con el valor que se tomó como base en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto.
 
 ###### ARTICULO 62.
 
@@ -1079,7 +1305,9 @@ Dichos avalúos servirán de base para los efectos fiscales durante seis meses c
 
 En aquellos casos en que después de practicado el avalúo se lleven a cabo construcciones, instalaciones o mejoras permanentes al bien de que se trate, deberá practicarse nuevo avalúo aún cuando no haya transcurrido el plazo a que se refiere el párrafo anterior.
 
-La Dirección de Catastro como Oficina Técnica deberá revisar y aprobar los avalúos comerciales practicados, los que podrán ser rechazados en caso de que sean menores en más del 10% del valor comercial del terreno, así mismo a los valores unitarios comerciales de construcción, que se encuentren vigentes en la fecha de adquisición. Dicha revisión se efectuará como un requisito previo al pago del impuesto, debiendo producir un dictamen el cual deberá ser emitido dentro del término de las siguientes 72 horas a su solicitud.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1994)</small>
+
+El Instituto Catastral del Estado como Oficina Técnica deberá revisar y aprobar los avalúos comerciales practicados, los que podrán ser rechazados en caso de que sean menores en más del 10% del valor comercial del terreno, asimismo a los valores unitarios comerciales de construcción, que se encuentren vigentes en la fecha de adquisición. Dicha revisión se efectuará como un requisito previo al pago del impuesto, debiendo producir un dictamen el cual deberá ser emitido dentro del término de las siguientes 72 horas a su solicitud.
 
 ### CAPITULO I. OBRAS PUBLICAS
 
@@ -1177,41 +1405,59 @@ CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1993)</small>
 
-1.- SUPERVISION DE FRACCIONAMIENTOS
-
-URBANOS (% SOBRE EL COSTO TOTAL DE
+1.- SUPERVISION DE FRACCIONAMIENTOS URBANOS (% SOBRE EL COSTO TOTAL DE
 
 LA OBRA URBANIZADA).
 
 1.1. Urbanos. 1% 1% 1%
 
-1.2. De servicios progresivos en los términos de la Ley de
+1.2. De servicios
 
-Desarrollo de Centros Poblados, en los que el valor de la
+progresivos en los
 
-vivienda no exceda de 3,000 veces el salario mínimo general
+términos de la Ley de
 
-diario vigente en la zona. 0.5% 0.5% 0.5%
+Desarrollo de Centros
 
-2.- ALINEAMIENTO DE CALLES.
+Poblados, en los que
 
-(NUMERO DE VECES EL SALARIO MINIMO DIARIO DE LA ZONA)
+el valor de la vivienda
 
-2.1. En poblaciones con más de 5,000
+no exceda de 3,000
 
-habitantes, cuando el alineamiento no exceda
+veces el salario mínimo
 
-de 10 metros lineales. 1.50 1.50 1.50
+general diario vigente
 
-2.2. Cuando el alineamiento exceda de 10 metros
+en la zona. 0.5% 0.5% 0.5%
 
-lineales, adicional por metro lineal. 0.15 0.14 0.12
+2.- ALINEAMIENTO DE CALLES. (NUMERO DE VECES EL SALARIO MINIMO DIARIO DE LA ZONA)
+
+2.1. En poblaciones con
+
+más de 5,000 habitantes,
+
+cuando el alineamiento
+
+no exceda de 10 metros
+
+lineales. 1.50 1.50 1.50
+
+2.2. Cuando el alineamiento
+
+exceda de 10 metros lineales,
+
+adicional por metro
+
+lineal. 0.15 0.14 0.12
 
 2.3. En las demás poblaciones conforme al costo de peritaje correspondiente.
 
-3.- ASIGNACION DE NUMERO OFICIAL
+3.- ASIGNACION DE NUMERO
 
-POR CADA DIGITO. (NUMERO DE VECES EL
+OFICIAL POR CADA DIGITO.
+
+(NUMERO DE VECES EL
 
 SALARIO MINIMO DIARIO DE LA
 
@@ -1221,11 +1467,15 @@ ZONA). 0.25 0.25 0.25
 
 4.1. Terreno. 0.02 0.02 0.01
 
-4.2. De construcción. 0.02 0.02 0.02
+4.2. De
+
+construcción. 0.02 0.02 0.02
 
 5.- POR DESLINDES, MEDIDAS DE SOLARES BALDIOS Y DE LOS QUE RESULTEN DE EXCEDENCIAS O DEMASIAS. (NUMERO DE VECES EL SALARIO MINIMO DIARIO DE LA ZONA, POR METRO CUADRADO O FRACCION).
 
-5.1. En poblaciones con más de 5,000
+5.1. En poblaciones
+
+con más de 5,000
 
 habitantes. 0.006 0.005 0.004
 
@@ -1247,19 +1497,25 @@ zona. Exentos Exentos Exentos
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1992)</small>
 
-b) Expedición de licencias para construcción
+b) Expedición de licencias para
 
-con valor de 2,001 hasta 3,745 veces el salario
+construcción con valor de 2,001
 
-mínimo general diario vigente en la zona
+hasta 3,745 veces el salario
 
-(% sobre el equivalente en valor). 0.5% 0.5% 0.5%
+mínimo general diario vigente
+
+en la zona (% sobre el equivalente
+
+en valor). 0.5% 0.5% 0.5%
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
-c) Expedición de Licencias para construcción de
+c) Expedición de Licencias para
 
-más de 3,745 veces el salario mínimo diario de la
+construcción de más de 3,745
+
+veces el salario mínimo diario de la
 
 zona (porcentaje sobre el equivalente
 
@@ -1267,43 +1523,65 @@ en valor) 1% 1% 1%
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1992)</small>
 
-d) Prórroga de Licencia (porcentaje adicional
+d) Prórroga de Licencia
+
+(porcentaje adicional
 
 s/costo de licencia). 15% 15% 15%
 
 6.2. Reconstrucción o ampliación de fincas, (porcentaje sobre el valor de reconstrucción o ampliación).
 
-a) Reconstrucción o ampliación con valor
+a) Reconstrucción o
 
-hasta de 119 veces el Salario Mínimo Diario
+ampliación con valor
+
+hasta de 119 veces el
+
+Salario Mínimo Diario
 
 de la Zona. EXENTOS EXENTOS EXENTOS
 
-b) Reconstrucción o ampliación con valor mayor
+b) Reconstrucción o
 
-de 119 veces el Salario Mínimo Diario de la
+ampliación con valor
 
-Zona. (Porcentaje sobre el valor equivalente en
+mayor de 119 veces el
+
+Salario Mínimo Diario de la
+
+Zona. (Porcentaje sobre
+
+el valor equivalente en
 
 valor de la obra). 1% 1% 1%
 
 6.3. Demolición por plantas (Número de Salarios Mínimos por metro cuadrado).
 
-a) Cabecera Municipal y poblaciones de
+a) Cabecera Municipal
 
-más de 20,000 habitantes. 0.01 0.01 0.01
+y poblaciones de más de
 
-b) Demás poblaciones del Municipio con
+20,000 habitantes. 0.01 0.01 0.01
 
-más de 5,000 habitantes hasta 20,000
+b) Demás poblaciones
 
-habitantes. 0.01 0.01 0.01
+del Municipio con más
 
-6.4. Demolición de guarniciones (número de
+de 5,000 habitantes hasta
 
-veces el Salario Mínimo Diario de la Zona
+20,000 habitantes. 0.01 0.01 0.01
 
-por metro lineal). 0.04 0.04 0.04
+6.4. Demolición de
+
+guarniciones (número de
+
+veces el Salario
+
+Mínimo Diario de la
+
+Zona por metro
+
+lineal). 0.04 0.04 0.04
 
 7.- APERTURA DE CEPAS EN LA VIA PUBLICA DEBIENDO PAGAR EL INTERESADO EL COSTO DE REPOSICION (NUMERO DE VECES EL SALARIO MINIMO DIARIO POR METRO LINEAL O FRACCION).
 
@@ -1349,7 +1627,7 @@ Las personas físicas o morales, incurrirán en infracciones a esta Ley:
 
 I.- Por hacer edificaciones, reconstrucciones, demoliciones de edificios sin licencia correspondiente.
 
-II.- Por ejecutar mayor cantidad de obra en volúmen o costo a la autorizada en los planos.
+II.- Por ejecutar mayor cantidad de obra en volumen o costo a la autorizada en los planos.
 
 III.- Por cualquier otra violación de los Reglamentos Municipales de Construcción.
 
@@ -1377,15 +1655,25 @@ TARIFA:
 
 CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
-1.- Por tarjeta de control (por año). 3.50 3.00 2.00
+1.- Por tarjeta de
+
+control (por año). 3.50 3.00 2.00
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
-2.- Por servicio médico semanal. 1.00 1.00 1.00
+2.- Por servicio
 
-3.- Por exámenes serológicos bimestral. 1.00 1.00 1.00
+médico semanal. 1.00 1.00 1.00
 
-4.- Por servicio médico extraordinario. 2.00 2.00 2.00
+3.- Por exámenes
+
+serológicos
+
+bimestral. 1.00 1.00 1.00
+
+4.- Por servicio médico
+
+extraordinario. 2.00 2.00 2.00
 
 ###### ARTICULO 77.
 
@@ -1439,15 +1727,23 @@ CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
 1.- Empadronamiento (al inicio de actividades).
 
-a) Contribuyentes Mayores. 18.00 14.50 12.00
+a) Contribuyentes
 
-b) Contribuyentes Menores. 12.00 10.50 9.50
+Mayores. 18.00 14.50 12.00
+
+b) Contribuyentes
+
+Menores. 12.00 10.50 9.50
 
 2.- Refrendo Anual (por año).
 
-a) Contribuyentes Mayores. 6.00 5.00 4.00
+a) Contribuyentes
 
-b) Contribuyentes Menores. 5.00 4.00 3.00
+Mayores. 6.00 5.00 4.00
+
+b) Contribuyentes
+
+Menores. 5.00 4.00 3.00
 
 ###### ARTICULO 81.
 
@@ -1489,23 +1785,35 @@ TARIFA:
 
 CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
-1.- Legalización de firmas o constancia de
+1.- Legalización de
 
-ratificación de firmas
+firmas o constancia
 
-(por firma o constancia). 2.50 2.00 1.50
+de ratificación de
+
+firmas (por firma o
+
+constancia). 2.50 2.00 1.50
 
 2.- Certificados (por certificado).
 
-2.1. Certificados de residencia y fichas
+2.1. Certificados
+
+de residencia y fichas
 
 dactiloscópicas. 2.50 2.00 1.50
 
-2.2. Certificados de conducta y de no
+2.2. Certificados de
 
-antecedentes penales. 2.50 2.00 1.50
+conducta y de no
 
-2.3. Certificados de solvencia fiscal. 2.50 2.00 1.50
+antecedentes
+
+penales. 2.50 2.00 1.50
+
+2.3. Certificados de
+
+solvencia fiscal. 2.50 2.00 1.50
 
 2.4. Certificación de listas de precios a restaurantes, loncherías y demás del ramo.
 
@@ -1515,17 +1823,33 @@ b) Categoría II 4.00 3.50 3.00
 
 c) Categoría III 3.50 3.00 2.50
 
-2.5. Certificación de copias y cotejo de
+2.5. Certificación
 
-documentos expedidos por Dependencias
+de copias y cotejo
 
-Municipales (por hoja). 0.24 0.18 0.14
+de documentos
 
-2.6. Certificación de libros notariales. 47.50 45.00 43.00
+expedidos por
 
-2.7. Otros certificados expedidos por
+Dependencias
 
-Autoridades Municipales. 2.50 2.00 1.50
+Municipales
+
+(por hoja). 0.24 0.18 0.14
+
+2.6. Certificación
+
+de libros
+
+notariales. 47.50 45.00 43.00
+
+2.7. Otros certificados
+
+expedidos por
+
+Autoridades
+
+Municipales. 2.50 2.00 1.50
 
 ###### ARTICULO 86.
 
@@ -1551,67 +1875,117 @@ CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
 1.1. Para aparatos musicales o de sonido.
 
-a) Ubicados en la zona de tolerancia. 24.00 19.00 14.50
+a) Ubicados en la
 
-b) Ubicados en hoteles, boliches,
+zona de tolerancia. 24.00 19.00 14.50
 
-cantinas y demás negociaciones que
+b) Ubicados en
 
-expendan bebidas embriagantes. 9.50 8.50 7.00
+hoteles, boliches,
 
-c) Ubicados en otros establecimientos. 8.50 7.00 6.00
+cantinas y demás
 
-d) Ubicados en centros nocturnos. 18.00 14.50 12.00
+negociaciones que
+
+expendan bebidas
+
+embriagantes. 9.50 8.50 7.00
+
+c) Ubicados en otros
+
+establecimientos. 8.50 7.00 6.00
+
+d) Ubicados en
+
+centros nocturnos. 18.00 14.50 12.00
 
 e) Discomóvil.
 
-e.1. Clasificación "A" 69.00 59.00 39.00
+e.1. Clasificación
 
-e.2. Clasificación "B" 52.00 45.00 33.00
+"A" 69.00 59.00 39.00
+
+e.2. Clasificación
+
+"B" 52.00 45.00 33.00
 
 2.- Espectáculos o Diversiones Públicas.
 
 2.1. Presentación de espectáculos públicos en bares, cervecerías, centros nocturnos y no se cobre por entrada (por día)
 
-a) Clasificación "A" 24.00 22.50 21.50
+a) Clasificación
 
-b) Clasificación "B" 20.00 19.00 18.50
+"A" 24.00 22.50 21.50
 
-2.2. Presentación de espectáculos
+b) Clasificación
 
-permanentes (por mes) 31.00 24.00 21.00
+"B" 20.00 19.00 18.50
 
-2.3. Por cada espectáculo en centros
+2.2. Presentación de
+
+espectáculos
+
+permanentes
+
+(por mes) 31.00 24.00 21.00
+
+2.3. Por cada
+
+espectáculo en centros
 
 sociales. 30.00 28.00 26.00
 
 2.4. Por cada espectáculo en restaurantes.
 
-a) Clasificación "A" 21.50 20.00 19.00
+a) Clasificación
 
-b) Clasificación "B" 19.00 18.00 16.50
+"A" 21.50 20.00 19.00
+
+b) Clasificación
+
+"B" 19.00 18.00 16.50
 
 2.5. Juegos mecánicos impulsados por motor (por día).
 
-a) Cabecera Municipal. 2.00 1.50 1.00
+a) Cabecera
 
-b) Resto Poblaciones del Municipio. 1.50 1.00 0.22
+Municipal. 2.00 1.50 1.00
 
-2.6. Juegos mecánicos impulsados por
+b) Resto Poblaciones
 
-tracción humana o animal (por día) 0.60 0.60 0.48
+del Municipio. 1.50 1.00 0.22
 
-2.7. Bailes en días festivos (por día). 101.00 89.00 77.50
+2.6. Juegos mecánicos
 
-2.8. Bailes en días ordinarios (por día). 83.50 77.50 71.50
+impulsados por
 
-2.9. Bailes en días de carnaval (por día). 154.50 107.00 83.50
+tracción humana o
 
-2.10 Por cada aparato tragamonedas
+animal (por día) 0.60 0.60 0.48
+
+2.7. Bailes en días
+
+festivos (por día). 101.00 89.00 77.50
+
+2.8. Bailes en días
+
+ordinarios (por día). 83.50 77.50 71.50
+
+2.9. Bailes en días
+
+de carnaval
+
+(por día). 154.50 107.00 83.50
+
+2.10 Por cada
+
+aparato tragamonedas
 
 (por mes). 2.50 2.00 2.00
 
-2.11 Por cada mesa de billar (por mes). 2.00 2.00 1.50
+2.11 Por cada mesa
+
+de billar (por mes). 2.00 2.00 1.50
 
 3.- Supervisión.
 
@@ -1619,27 +1993,43 @@ tracción humana o animal (por día) 0.60 0.60 0.48
 
 a) Ubicados en zona de tolerancia.
 
-a.1. Cabecera Municipal. 5.00 4.50 3.50
+a.1. Cabecera
 
-a.2. Resto poblaciones del Municipio. 4.50 3.50 3.00
+Municipal. 5.00 4.50 3.50
+
+a.2. Resto poblaciones
+
+del Municipio. 4.50 3.50 3.00
 
 b) Ubicados en hoteles, billares, boliches, cantinas, expendios y lugares donde vendan bebidas embriagantes fuera de la zona de tolerancia.
 
-b.1. Cabecera Municipal. 4.50 3.50 3.00
+b.1. Cabecera
 
-b.2. Resto Poblaciones del Municipio. 3.50 3.00 2.50
+Municipal. 4.50 3.50 3.00
+
+b.2. Resto Poblaciones
+
+del Municipio. 3.50 3.00 2.50
 
 c) Ubicados en otros establecimientos no especificados en fracciones anteriores.
 
-c.1. Cabecera Municipal. 2.00 1.50 1.50
+c.1. Cabecera
 
-c.2. Resto poblaciones del Municipio. 1.50 1.00 1.00
+Municipal. 2.00 1.50 1.50
+
+c.2. Resto poblaciones
+
+del Municipio. 1.50 1.00 1.00
 
 d) Aparatos de sonido instalados eventualmente en establecimientos o sitios públicos (por día).
 
-d.1. Cabecera Municipal. 2.00 1.50 1.50
+d.1. Cabecera
 
-d.2. Resto Poblaciones del Municipio 1.50 1.00 1.00
+Municipal. 2.00 1.50 1.50
+
+d.2. Resto Poblaciones
+
+del Municipio 1.50 1.00 1.00
 
 > <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
@@ -1705,29 +2095,51 @@ CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
 1.- Concesión de terrenos, ocupación perpetua en panteones municipales. (por metro cuadrado).
 
-1.1. Cabecera Municipal. 4.00 3.50 3.00
+1.1. Cabecera
 
-1.2. Resto Poblaciones del Municipio. 3.50 3.00 2.50
+Municipal. 4.00 3.50 3.00
 
-2.- Colocación o construcción de monumentos
+1.2. Resto Poblaciones
 
-y lápidas (% sobre el valor comercial de la obra).
+del Municipio. 3.50 3.00 2.50
 
-Cuando el valor exceda de 500 días de salario
+2.- Colocación o
+
+construcción de monumentos
+
+y lápidas (% sobre el
+
+valor comercial de la obra).
+
+Cuando el valor exceda de
+
+500 días de salario
 
 mínimo general. 4.0% 3.0% 2.0%
 
-3.- Permiso para la inhumación de un
+3.- Permiso para
 
-cadáver (por permiso) 1.50 1.00 1.00
+la inhumación
 
-4.- Permiso para la reinhumación de
+de un cadáver
 
-cadáver (por permiso). 2.50 2.50 2.50
+(por permiso) 1.50 1.00 1.00
 
-5.- Permiso para la exhumación de
+4.- Permiso para
 
-cadáver (por permiso). 3.50 3.00 2.50
+la reinhumación de
+
+cadáver
+
+(por permiso). 2.50 2.50 2.50
+
+5.- Permiso para
+
+la exhumación de
+
+cadáver
+
+(por permiso). 3.50 3.00 2.50
 
 > <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
@@ -1757,13 +2169,21 @@ TARIFA:
 
 CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
-1.- Puestos fijos interior de mercado
+1.- Puestos fijos
 
-o lugares habilitados (por año). 5.00 4.00 3.50
+interior de mercado
 
-2.- Puesto semifijo interior de mercado
+o lugares habilitados
 
-o lugares habilitados (por año). 3.50 3.00 3.00
+(por año). 5.00 4.00 3.50
+
+2.- Puesto semifijo
+
+interior de mercado
+
+o lugares habilitados
+
+(por año). 3.50 3.00 3.00
 
 > <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
@@ -1793,21 +2213,31 @@ TARIFA:
 
 CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
-1.- Compañías Constructoras legalmente
+1.- Compañías
+
+Constructoras legalmente
 
 constituidas (por año). 24.00 21.50 19.00
 
-2.- Peritos responsables legalmente
+2.- Peritos responsables
 
-acreditados (por año). 10.50 9.50 8.50
+legalmente acreditados
 
-3.- Expedición de cartas de cambios de
+(por año). 10.50 9.50 8.50
 
-régimen o condominios (al millar de acuerdo
+3.- Expedición de cartas
 
-al valor del inmueble). 1.0 1.0 1.0
+de cambios de régimen
 
-4.- Constructores en general (por año). 7.00 6.50 6.00
+o condominios (al millar
+
+de acuerdo al valor del
+
+inmueble). 1.0 1.0 1.0
+
+4.- Constructores en
+
+general (por año). 7.00 6.50 6.00
 
 > <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
@@ -1845,13 +2275,21 @@ CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
 1.3. Ganado ovicaprino. 0.86 0.83 0.72
 
-2.- Sacrificio de ganado nonato (No. de veces
+2.- Sacrificio de ganado
 
-adicionales de tarifa ordinaria). 3.0 3.0 3.0
+nonato (No. de veces
 
-3.- Sacrificio de aves (por cabeza). 0.02 0.02 0.02
+adicionales de tarifa
 
-4.- Por sacrificio de otras especies
+ordinaria). 3.0 3.0 3.0
+
+3.- Sacrificio de aves
+
+(por cabeza). 0.02 0.02 0.02
+
+4.- Por sacrificio de
+
+otras especies
 
 (por cabeza). 0.30 0.25 0.22
 
@@ -1859,7 +2297,9 @@ adicionales de tarifa ordinaria). 3.0 3.0 3.0
 
 5.1. Ganado vacuno. 0.12 0.11 0.10
 
-5.2. Otro tipo de ganado. 0.10 0.09 0.07
+5.2. Otro tipo de
+
+ganado. 0.10 0.09 0.07
 
 5.3. Aves. 0.03 0.03 0.02
 
@@ -1895,11 +2335,17 @@ TARIFA:
 
 CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
-1.- Por registro en el Padrón de Introductores
+1.- Por registro en el
 
-de Ganado y aves a los Rastros del Municipio
+Padrón de Introductores
 
-(Salarios Mínimos Diarios por año). 2.5 2.0 1.5
+de Ganado y aves a
+
+los Rastros del Municipio
+
+(Salarios Mínimos Diarios
+
+por año). 2.5 2.0 1.5
 
 Los infractores se sancionarán de acuerdo con lo estipulado por el Código Fiscal Municipal.
 
@@ -1929,45 +2375,79 @@ CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
 1.1. Carruajes y arañas de alquiler de tracción animal.
 
-a.1. Cabecera Municipal 0.84 0.84 0.84
+a.1. Cabecera
 
-a.2. Resto Poblaciones del Municipio. 0.72 0.72 0.72
+Municipal 0.84 0.84 0.84
+
+a.2. Resto Poblaciones
+
+del Municipio. 0.72 0.72 0.72
 
 1.2. Carruajes y arañas particulares tracción animal.
 
-b.1. Cabecera Municipal. 0.60 0.60 0.60
+b.1. Cabecera
 
-b.2. Resto poblaciones del Municipio. 0.48 0.48 0.48
+Municipal. 0.60 0.60 0.60
+
+b.2. Resto poblaciones
+
+del Municipio. 0.48 0.48 0.48
 
 1.3. Barricas expendedoras de agua.
 
-c.1. Cabecera Municipal. 0.60 0.60 0.60
+c.1. Cabecera
 
-c.2. Resto poblaciones del Municipio. 0.48 0.48 0.48
+Municipal. 0.60 0.60 0.60
 
-1.4. Bicicletas de alquiler. 0.54 0.54 0.54
+c.2. Resto poblaciones
 
-1.5. Bicicletas particulares. 0.48 0.48 0.48
+del Municipio. 0.48 0.48 0.48
+
+1.4. Bicicletas de
+
+alquiler. 0.54 0.54 0.54
+
+1.5. Bicicletas
+
+particulares. 0.48 0.48 0.48
 
 2.- Por expedición de placas:
 
-2.1. Para vehículos de tracción animal
+2.1. Para vehículos
 
-para transporte de pasajeros. 0.46 0.46 0.46
+de tracción animal
 
-2.2. Para vehículos de tracción animal
+para transporte de
 
-para transporte de carga. 0.46 0.46 0.46
+pasajeros. 0.46 0.46 0.46
 
-2.3. Para carros de mano. 0.36 0.36 0.36
+2.2. Para vehículos
 
-2.4. Para bicicletas de alquiler. 0.37 0.37 0.37
+de tracción animal
 
-2.5. Para bicicletas particulares. 0.30 0.30 0.30
+para transporte de
 
-2.6. Para vehículos expendedores de agua. 0.46 0.46 0.46
+carga. 0.46 0.46 0.46
 
-2.7. Para vehículos no especificados. 0.36 0.36 0.36
+2.3. Para carros de
+
+mano. 0.36 0.36 0.36
+
+2.4. Para bicicletas
+
+de alquiler. 0.37 0.37 0.37
+
+2.5. Para bicicletas
+
+particulares. 0.30 0.30 0.30
+
+2.6. Para vehículos
+
+expendedores de agua. 0.46 0.46 0.46
+
+2.7. Para vehículos
+
+no especificados. 0.36 0.36 0.36
 
 ###### ARTICULO 111.
 
@@ -1995,21 +2475,29 @@ CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1992)</small>
 
-1.- Establecimientos comerciales,
+1.- Establecimientos
 
-Industriales, o de servicios, excepto
+comerciales, Industriales,
 
-los que presten los profesionistas en
+o de servicios, excepto
 
-forma personal, o bodegas. de 0.29 de 0.24 de 0.18
+los que presten los
+
+profesionistas en forma
+
+personal, o bodegas. de 0.29 de 0.24 de 0.18
 
 a 4.00 a 3.00 a 2.50
 
-2.- Viajes especiales fuera de servicio de 8.50 de 7.00 de 6.00
+2.- Viajes especiales
+
+fuera de servicio de 8.50 de 7.00 de 6.00
 
 ordinario, por viaje. a 24.00 a 18.00 a 12.00
 
-3.- Predios baldíos no limpios (limpieza
+3.- Predios baldíos no
+
+limpios (limpieza
 
 por metro cuadrado). 0.09 0.08 0.07
 
@@ -2035,11 +2523,15 @@ TARIFA:
 
 CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
-1.- Los locatarios pagarán por administración,
+1.- Los locatarios
 
-mantenimiento, seguridad pública, aseo y
+pagarán por administración,
 
-limpia (por mes). de 2.00 de 1.50 de 1.50
+mantenimiento, seguridad
+
+pública, aseo y limpia
+
+(por mes). de 2.00 de 1.50 de 1.50
 
 a 5.00 a 3.50 a 3.00
 
@@ -2059,13 +2551,17 @@ TARIFA:
 
 CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
-1.- Ocupación de local en los mercados
+1.- Ocupación de local
 
-municipales (por metro cuadrado). de 0.26 de 0.26 de 0.26
+en los mercados municipales
+
+(por metro cuadrado). de 0.26 de 0.26 de 0.26
 
 a 1.50 a 1.50 a 1.00
 
-2.- Por concesión (por una sola vez). de 6.00 de 5.50 de 4.00
+2.- Por concesión (por
+
+una sola vez). de 6.00 de 5.50 de 4.00
 
 a 62.00 a 44.00 a 32.00
 
@@ -2089,11 +2585,15 @@ Los traspasos de locales ubicados en mercados municipales cubrirán la siguiente
 
 GRUPO 1 GRUPO 2 GRUPO 3
 
-1.- Clasificación "A" de 89.00 de 65.50 de 41.50
+1.- Clasificación
+
+"A" de 89.00 de 65.50 de 41.50
 
 a 178.50 a 143.00 a 107.00
 
-2.- Clasificación "B" de 35.50 de 30.00 de 24.00
+2.- Clasificación
+
+"B" de 35.50 de 30.00 de 24.00
 
 a 65.50 a 59.50 a 53.50
 
@@ -2123,11 +2623,17 @@ CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
 1.- Central Camionera.
 
-1.1. Acceso por persona. 0.018 0.018 0.018
+1.1. Acceso por
 
-1.2. Acceso por unidad. 0.20 0.16 0.12
+persona. 0.018 0.018 0.018
 
-1.3. Por arrendamiento de piso (por metro
+1.2. Acceso por
+
+unidad. 0.20 0.16 0.12
+
+1.3. Por arrendamiento
+
+de piso (por metro
 
 cuadrado por mes). 0.71 0.60 0.48
 
@@ -2137,9 +2643,11 @@ cuadrado). de 5.00 de 4.00 de 3.00
 
 a 38.00 a 26.00 a 19.50
 
-1.5. Por autorización de traspaso
+1.5. Por autorización
 
-de local. de 98.00 de 72.00 de 46.00
+de traspaso de
+
+local. de 98.00 de 72.00 de 46.00
 
 a 196.50 a 157.00 a 118.00
 
@@ -2153,87 +2661,143 @@ CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
 1.- Instalaciones o puestos fijos o semifijos o ambulantes por volumen de ingresos brutos (por día).
 
-1.1. Ingresos mayores de 83 Salarios
+1.1. Ingresos
+
+mayores de 83
+
+Salarios
 
 Mínimos. 6.00 5.00 4.00
 
-1.2. Ingresos entre 59 y 83 Salarios
+1.2. Ingresos
+
+entre 59 y 83
+
+Salarios
 
 Mínimos. 3.50 3.00 2.50
 
-1.3 Ingresos entre 36 y menos de 59
+1.3 Ingresos
 
-Salarios Mínimos. 2.00 1.50 1.00
+entre 36 y menos
 
-1.4. Ingresos entre 24 y menos de 36
+de 59 Salarios
+
+Mínimos. 2.00 1.50 1.00
+
+1.4. Ingresos entre
+
+24 y menos de 36
 
 Salarios Mínimos. 1.00 0.75 0.50
 
-1.5. Ingresos entre 12 y menos de 24
+1.5. Ingresos entre
+
+12 y menos de 24
 
 Salarios Mínimos. 0.50 0.50 0.25
 
-1.6. Ingresos entre 6 y menos de 12
+1.6. Ingresos entre
+
+6 y menos de 12
 
 Salarios Mínimos. 0.25 0.15 0.15
 
-1.7. Exclusivamente para giros de
+1.7. Exclusivamente
 
-ventas de revistas o periódicos y ambulantes
+para giros de ventas
 
-de frutas y verduras. 0.15 0.15 0.15
+de revistas o periódicos
 
-2.- Estacionamientos exclusivos para vehículos
+y ambulantes de frutas
 
-de alquier (sic) (por vehículo por año). 8.50 6.50 3.50
+y verduras. 0.15 0.15 0.15
 
-3.- Estacionamiento exclusivo en la vía pública
+2.- Estacionamientos
 
-de carga y descarga (por metro lineal,
+exclusivos para vehículos
+
+de alquier (sic) (por
+
+vehículo por año). 8.50 6.50 3.50
+
+3.- Estacionamiento
+
+exclusivo en la vía pública
+
+de carga y descarga
+
+(por metro lineal,
 
 por mes). 7.00 5.50 3.50
 
 4.- Estacionamiento de vehículos en la vía pública utilizados en la venta al menudeo, (por día).
 
-4.1. Vehículos capacidad más de 5
+4.1. Vehículos
 
-toneladas. 0.24 0.19 0.14
+capacidad más de
 
-4.2. Vehículos capacidad de 3 a 5 toneladas. 0.19 0.14 0.12
+5 toneladas. 0.24 0.19 0.14
 
-4.3. Vehículos capacidad menor a 3
+4.2. Vehículos
 
-toneladas. 0.17 0.13 0.10
+capacidad de 3 a
+
+5 toneladas. 0.19 0.14 0.12
+
+4.3. Vehículos
+
+capacidad menor a
+
+3 toneladas. 0.17 0.13 0.10
 
 5.- Estacionamientos públicos cuyo acceso o salida ocupen calles, banquetas, vías y demás sitios públicos (Por metro lineal de acceso por mes).
 
-5.1. Ubicados primer cuadro de la ciudad. 5.00 4.00 3.00
+5.1. Ubicados
 
-5.2. Ubicados segundo cuadro de la ciudad. 4.00 3.00 2.00
+primer cuadro
 
-5.3. Ubicados fuera del primer y
+de la ciudad. 5.00 4.00 3.00
 
-segundo cuadro de la ciudad. 3.00 2.00 1.00
+5.2. Ubicados
 
-6.- Cocheras particulares en negocios
+segundo cuadro de
 
-(por mes). 2.00 1.50 1.50
+la ciudad. 4.00 3.00 2.00
+
+5.3. Ubicados fuera
+
+del primer y segundo
+
+cuadro de la ciudad 3.00 2.00 1.00
+
+6.- Cocheras
+
+particulares en
+
+negocios (por mes). 2.00 1.50 1.50
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1992)</small>
 
 7.- Empresas particulares que venden productos por medio de vendedores ambulantes (por día).
 
-7.1. Vehículos capacidad mayor de 5
+7.1. Vehículos
 
-toneladas. 0.83 0.71 0.59
+capacidad mayor
 
-7.2. Vehículos capacidad entre 3 y 5
+de 5 toneladas. 0.83 0.71 0.59
 
-toneladas. 0.66 0.55 0.43
+7.2. Vehículos
 
-7.3. Vehículos capacidad menor de 3
+capacidad entre
 
-toneladas. 0.54 0.42 0.30
+3 y 5 toneladas. 0.66 0.55 0.43
+
+7.3. Vehículos
+
+capacidad menor
+
+de 3 toneladas. 0.54 0.42 0.30
 
 ### CAPITULO UNICO
 
@@ -2287,17 +2851,23 @@ TARIFA:
 
 CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
-a) Infracciones al Bando de Policía (Número
+a) Infracciones al Bando
 
-de veces el salario mínimo diario de la zona
+de Policía (Número de
+
+veces el salario mínimo
+
+diario de la zona
 
 por infracción). de 5.00 de 4.50 de 4.00
 
 a 118.00 a 104.50 a 91.50
 
-b) Infracción al Reglamento de Aseo y Limpia
+b) Infracción al Reglamento
 
-(porcentaje sobre el valor Catastral
+de Aseo y Limpia (porcentaje
+
+sobre el valor Catastral
 
 del Inmueble). 3.0% 3.0% 3.0%
 
@@ -2331,9 +2901,13 @@ Los honorarios de ejecución a que se refiere el inciso a) de este Artículo, se
 
 GRUPO 1 GRUPO 2 GRUPO 3
 
-Sobre el importe total del crédito por
+Sobre el importe
 
-(cada diligencia). 2% 1.5% 1%
+total del crédito
+
+por (cada
+
+diligencia). 2% 1.5% 1%
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -2371,13 +2945,25 @@ CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
 a) Pro-Alfabetización. 5.0% 5.0% 5.0%
 
-b) Pro-Centro de Salud y/o Pro-Hospital Civil. 5.0% 5.0% 5.0%
+b) Pro-Centro de
 
-c) Pro-Mejoras Materiales. 15.0% 15.0% 15.0%
+Salud y/o Pro-Hospital
 
-d) Pro-Servicios Asistenciales a Indigentes. 10.0% 10.0% 1.0%
+Civil. 5.0% 5.0% 5.0%
 
-e) Pro-Comité de Promoción y Desarrollo
+c) Pro-Mejoras
+
+Materiales. 15.0% 15.0% 15.0%
+
+d) Pro-Servicios
+
+Asistenciales a
+
+Indigentes. 10.0% 10.0% 1.0%
+
+e) Pro-Comité de
+
+Promoción y Desarrollo
 
 Turístico. 5.0% 5.0% 5.0%
 
@@ -2389,7 +2975,7 @@ En tratándose del Impuesto Predial, se causará únicamente un Impuesto Adicion
 
 Los ingresos extraordinarios que tengan como fuente empréstitos públicos, se percibirán con arreglo a los Convenios que se celebren para su otorgamiento y previa autorización del Congreso del Estado, cuando su plazo rebase el período constitucional del Ayuntamiento en funciones.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 145.
 
@@ -2631,7 +3217,7 @@ III.- Crédito o créditos fiscales reclamados.
 
 Hechas las aplicaciones especificadas en el artículo anterior, el saldo si lo hubiere, quedará a disposición del ejecutado, salvo que haya orden de retención dictada por autoridades judiciales o administrativas competentes.
 
-> <small>(ADICIONADO CON LAS DENOMINACIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 160.
 
@@ -2677,6 +3263,10 @@ VIII.- Imponer sanciones en el orden administrativo por infracciones a la Legisl
 
 IX.- Aplicar el procedimiento fiscal de ejecución con arreglo a la Legislación Fiscal aplicable.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1994)</small>
+
+El Ayuntamiento será el único facultado para otorgar las reducciones a que se refiere la Ley de Fomento Industrial del Estado de Sinaloa.
+
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 162.
@@ -2703,7 +3293,7 @@ Cuando sea necesario un cateo, se solicitará la orden respectiva del Juez compe
 
 Los funcionarios y empleados fiscales y los miembros de cuerpos colegiados fiscales, bajo su responsabilidad personal, están obligados a guardar el secreto de la situación económica de los contribuyentes, que haya llegado a su conocimiento en actos del servicio y les está prohibido explotar o aprovechar en cualquier forma sin autorización expresa del interesado, dada por escrito, los secretos profesionales del negocio que en actos del servicio hayan llegado a su conocimiento así como suministrar datos fiscales de los causantes salvo orden judicial o solicitud de los dueños, encargados o representantes de los negocios.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 166.
 
@@ -2711,7 +3301,7 @@ Los créditos fiscales nacen en el momento en que se realizan las situaciones ju
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
-### CAPITULO III. DE LAS AUTORIDADES FISCALES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -2865,15 +3455,11 @@ El derecho de reclamación del pago de lo indebido o de lo pagado en exceso, pre
 
 La prescripción se interrumpe por cualquier gestión del interesado, hecha por escrito, ante la Autoridad competente para obtener la devolución.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
-REQUERIMIENTO DE PAGO
+### CAPITULO V. DISPOSICIONES DIVERSAS
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
-
-### CAPITULO VI. PROCEDIMIENTO DE EJECUCION
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
+(ADICIONADO, P.O. 31 DE ENERO DE 1992) (F. DE E., P.O. 5 DE FEBRERO DE 1992)
 
 ###### ARTICULO 189.
 
@@ -2903,27 +3489,15 @@ III.- Por edictos, únicamente en caso de que la persona a quien deba notificars
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
+ARTICULO 191 BIS-4.- Las notificaciones surtirán sus efectos el día hábil siguiente al en que fueron hechas o al de la publicación, en el caso del artículo que antecede.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ARTICULO 191 BIS-3.- Las notificaciones por edictos se realizarán haciendo una publicación que contendrá un resumen de las resoluciones por notificar; dicha publicación deberá efectuarse en uno de los periódicos de mayor circulación del lugar.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-ARTICULO 191 BIS-5.- La manifestación que hagan el interesado o su representante legal, de conocer un acuerdo, surtirá efectos de notificación en forma, desde la fecha en que se manifieste haber tenido tal conocimiento; si ésta es anterior a la en que debiere surtir sus efectos la notificación de acuerdo con el artículo precedente.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
 ARTICULO 191 BIS-2.- Las notificaciones por oficio se harán en el domicilio que el interesado haya señalado para el efecto de iniciar alguna instancia, y solo por lo que toca al trámite y resolución de ésta. Bastará para considerar que se ha señalado domicilio para recibir notificaciones en instancias administrativas, el que la dirección del interesado aparezca impresa en la promoción respectiva. A falta del domicilio designado se tendrá en cuenta el que resulte de las disposiciones fiscales.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
-ARTICULO 191 BIS-1.- Las notificaciones personales se harán en el último domicilio que la persona a quien se deba notificar, haya señalado ante las autoridades fiscales en el procedimiento administrativo de que se trate, a falta de señalamiento, se estará a las reglas previstas en el Artículo 192 a partir de su segundo párrafo de este Ordenamiento.
-
-Se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que se le espere a una hora fija del día siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato.
-
-Si la persona a quien haya que notificarse no atendiere el citatorio, la notificación se le hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla, se realizará por instructivo que se fijará en la puerta del domicilio.
-
-En el momento de la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación.
-
-De las diligencias en que conste la notificación o cita, el ejecutor notificador tomará razón por escrito.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -2939,7 +3513,19 @@ IV.- El plazo para el pago que será de quince días, salvo que la Ley señale o
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-ARTICULO 191 BIS-4.- Las notificaciones surtirán sus efectos el día hábil siguiente al en que fueron hechas o al de la publicación, en el caso del artículo que antecede.
+ARTICULO 191 BIS-1.- Las notificaciones personales se harán en el último domicilio que la persona a quien se deba notificar, haya señalado ante las autoridades fiscales en el procedimiento administrativo de que se trate, a falta de señalamiento, se estará a las reglas previstas en el Artículo 192 a partir de su segundo párrafo de este Ordenamiento.
+
+Se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que se le espere a una hora fija del día siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato.
+
+Si la persona a quien haya que notificarse no atendiere el citatorio, la notificación se le hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla, se realizará por instructivo que se fijará en la puerta del domicilio.
+
+En el momento de la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación.
+
+De las diligencias en que conste la notificación o cita, el ejecutor notificador tomará razón por escrito.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+ARTICULO 191 BIS-5.- La manifestación que hagan el interesado o su representante legal, de conocer un acuerdo, surtirá efectos de notificación en forma, desde la fecha en que se manifieste haber tenido tal conocimiento; si ésta es anterior a la en que debiere surtir sus efectos la notificación de acuerdo con el artículo precedente.
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -3053,13 +3639,17 @@ Los escritos y las promociones de los causantes no suspenderán el procedimiento
 
 Los honorarios de los ejecutores y demás gastos a que dé lugar el procedimiento fiscal de ejecución, serán a cargo del deudor y se harán efectivos conjuntamente con el crédito fiscal que origine el procedimiento.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
-### CAPITULO V. DISPOSICIONES DIVERSAS
+REQUERIMIENTO DE PAGO
 
-(ADICIONADO, P.O. 31 DE ENERO DE 1992) (F. DE E., P.O. 5 DE FEBRERO DE 1992)
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO VI. PROCEDIMIENTO DE EJECUCION
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
+
+### CAPITULO III. DE LAS AUTORIDADES FISCALES
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -3405,7 +3995,7 @@ IV.- Hecha la revisión se comunicará el resultado a la oficina ejecutora, devo
 
 V.- Aprobado el expediente o corregidas las irregularidades observadas, se procederá al remate.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LAS DENOMINACIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
 ### CAPITULO IV. DE LOS CREDITOS FISCALES
 
@@ -3449,9 +4039,15 @@ Al hacer efectivas las reducciones a que se refiere el párrafo que precede en n
 
 Además para el Ejercicio Fiscal de 1993, los contribuyentes obligados al pago del Impuesto Predial sobre fincas urbanas habitadas exclusivamente por su propietario tendrán derecho a reducir del impuesto que resulte, el porcentaje según la fecha de la revaluación catastral que en determinada población haya entrado en vigor, en los términos siguientes:
 
-POBLACION CUYA REVALUACION
+POBLACION REDUCCION:
 
-ENTRO EN VIGOR EN: REDUCCION:
+CUYA
+
+REVALUACION
+
+ENTRO EN
+
+VIGOR EN:
 
 1993 El 50% del impuesto a pagar
 
@@ -3471,19 +4067,25 @@ La casa habitación propiedad de pensionados o jubilados o de sus cónyuges con 
 
 TARIFA:
 
-VALOR CATASTRAL DEL CUOTA FIJA TASA AL MILLAR
+VALOR CATASTRAL DEL CUOTA FIJA TASA AL MILLAR PREDIO
 
-PREDIO EN Número de Días de Salarios sobre el excedente
+EN Número de Días de Salarios sobre el excedente
 
-veces el Salario Mínimo Mínimos del límite inferior
+veces el Salario Mínimos del límite inferior
 
-Diario de la Zona.
+Mínimo Diario
+
+de la Zona.
 
 a). Hasta 10,000 3 -
 
-b). Más de 10,000 a 15,000 3 4
+b). Más de 10,000
 
-c). Más de 15,000 a 40,000 48 10
+a 15,000 3 4
+
+c). Más de 15,000
+
+a 40,000 48 10
 
 d) Más de 40,000 348 16
 
@@ -3700,3 +4302,33 @@ Para el ejercicio fiscal de 1994, las Asociaciones Religiosas constituidas en lo
 ###### ARTICULO TERCERO.
 
 Durante el año de 1994 el Impuesto sobre Adquisición de Inmuebles que resulte a cargo del Contribuyente en dicho año, en ningún caso será mayor a aquel que se hubiere determinado en los términos de las disposiciones vigentes al 30 de Junio de 1991.
+
+P.O. 21 DE DICIEMBRE DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de 1995, previa publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+Durante el año 1995 el Impuesto Predial que resulte a cargo del contribuyente jubilado o pensionado o de sus cónyuges, en ningún caso será mayor a aquél que se hubiere determinado en los términos de las disposiciones vigentes al 31 de diciembre de 1994.
+
+###### ARTICULO TERCERO.
+
+Para el ejercicio fiscal de 1995, atendiendo las fechas en que entraron en vigor las revaluaciones de poblaciones, el Impuesto Predial sobre fincas urbanas se calculará aplicando las tasas señaladas en la tarifa contenida en la Fracción I del Artículo 52 de la presente Ley, de conformidad con los siguientes incisos:
+
+a).- En las poblaciones en que hayan entrado en vigor las revaluaciones en 1990, sobre un 80% del valor catastral que se determine para el año de 1995.
+
+b).- En las poblaciones en que hayan entrado en vigor las revaluaciones en 1991, sobre un 85% del valor catastral que se determine para el año de 1995.
+
+c).- En las poblaciones en que hayan entrado en vigor las revaluaciones en 1992, sobre un 90% del valor catastral que se determine para el año de 1995.
+
+d).- En las poblaciones en que hayan entrado en vigor las revaluaciones en 1993, sobre un 95% del valor catastral que se determine para el año de 1995.
+
+###### ARTICULO CUARTO.
+
+Para el ejercicio fiscal de 1995, las Asociaciones Religiosas constituidas en los términos de la Ley de Asociaciones Religiosas y Culto Público, no pagarán el Impuesto sobre Adquisición de Inmuebles a que se refiere el Artículo 58 de la Ley de Hacienda Municipal vigente.
+
+###### ARTICULO QUINTO.
+
+Para el año de 1995 el plazo del pago del impuesto que corresponda al primer trimestre conforme a lo dispuesto en el Artículo 53 fracción I-B se amplía hasta el 28 de febrero de 1995.
