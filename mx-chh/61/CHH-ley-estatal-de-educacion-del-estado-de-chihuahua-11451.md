@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "1997-12-27"
+last_updated: "2000-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2000.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -269,7 +269,11 @@ XXV.- Integrar el Consejo Estatal de Participación Social en la Educación;
 
 XXVI.- Vigilar que las instituciones educativas apoyen académicamente dentro de lo posible a las alumnas que se encuentren en estado de gravidez, sin importar su estado civil, para que continúen cursando sus estudios. Queda prohibida su expulsión por esa causa;
 
-XXVII.- Promover en las escuelas el diseño y operación de propuestas innovadoras que contribuyan a mejorar la calidad del servicio educativo, considerando las características regionales y locales específicas;
+XXVII.- Promover en las escuelas el diseño y operación de propuestas innovadoras que contribuyan a mejorar la calidad del servicio educativo, considerando las características regionales y locales específicas.
+
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2000)</small>
+
+Asimismo, el Estado proveerá a la formación y desarrollo de recursos humanos especializados en las materias de geriatría y gerontología, impulsando programas académicos y prácticos en los niveles educativos superior y medio superior;
 
 XXVIII.- Impulsar el servicio de educación vial en el tipo básico, otorgando los apoyos necesarios para que cobre mayor importancia en las escuelas; y
 
@@ -1649,9 +1653,13 @@ El Estado otorgará los apoyos necesarios, de acuerdo a sus posibilidades, para 
 
 La implementación de programas y contenidos, en cuanto a formación de valores, deberá ser conocido, aceptado y aplicado por los diversos sectores que participan en el proceso educativo.
 
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2000)</small>
+
 ###### Artículo 163.
 
-La implementación de la formación en valores deberá hacerse bajo criterios científicos, procurando evaluar los resultados a través de su impacto social.
+La instrumentación de la formación en valores deberá hacerse bajo criterios científicos, procurando evaluar los resultados a través de su impacto social.
+
+Las autoridades educativas del estado deberán establecer y operar programas académicos en los niveles de preprimaria y básico, que tengan por objeto la formación de adecuadas actitudes filosóficas, científicas y humanísticas de niños y jóvenes frente a los adultos mayores, a fin de fortalecer en los educandos los valores esenciales de la moral y de la solidaridad con este grupo social.
 
 ###### Artículo 164.
 
@@ -1924,3 +1932,15 @@ C.P. FRANCISCO JAVIER BARRIO TERRAZAS.
 EL SECRETARIO DE GOBIERNO
 
 LIC. FRANCISCO HUGO GUTIERREZ DAVILA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE MAYO DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado, deberá expedir el reglamento correspondiente en un término de noventa días contados apartir (sic) del siguiente día en que se publique en el Periódico Oficial del Estado.
