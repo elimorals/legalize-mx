@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1998-12-31"
+last_updated: "1999-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,6 +23,8 @@ abbreviation: "LIVA"
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1998.
+
+ULTIMA MODIFICACION MISCELANEA FISCAL, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE FEBRERO DE 1999.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -190,11 +192,11 @@ Los actos o actividades a los que se les aplica la tasa del 0%, producirán los 
 
 (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADA EN SU MONTO POR EL ANEXO 5 DE LA RESOLUCION MISCELANEA FISCAL PARA 1998, D.O.F. 15 DE FEBRERO DE 1999) (REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 ###### ARTICULO 2o-C.
 
-Las personas físicas con actividades empresariales que únicamente enajenen bienes o presten servicios al público en general, no estarán obligadas al pago del impuesto por dichas actividades, siempre que en el año de calendario anterior hayan obtenido ingresos que no excedan de $1'000,000.00 por dichas actividades. La cantidad a que se refiere este párrafo se actualizará anualmente, en el mes de enero, en los términos del artículo 17-A del Código Fiscal de la Federación.
+Las personas físicas con actividades empresariales que únicamente enajenen bienes o presten servicios al público en general, no estarán obligadas al pago del impuesto por dichas actividades, siempre que en el año de calendario anterior hayan obtenido ingresos que no excedan de $1,174,000.00 por dichas actividades. La cantidad a que se refiere este párrafo se actualizará en el mes de enero, en los términos del artículo 17-a del Código Fiscal de la Federación.
 
 Asimismo, estarán sujetas a lo previsto en este artículo las personas físicas que se dediquen a actividades agrícolas, silvícolas o pesqueras, no obstante que la totalidad o parte de sus actos o actividades no las realicen con el público en general, debiendo reunir, en todo caso, el requisito de límite de ingresos a que se refiere el párrafo anterior.
 
@@ -1010,9 +1012,9 @@ En el caso de que los ingresos deriven de actos o actividades que realice una su
 
 Tratándose de servicios personales independientes prestados a través de una asociación o sociedad civil, será ésta la que a nombre de los asociados o socios cumpla con las obligaciones señaladas en esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997) (ACTUALIZADO EN SU MONTO POR MISCELANEA FISCAL, D.O.F. 15 DE FEBRERO DE 1999)
 
-Las personas físicas a que se refiere la Sección III, Capítulo VI, Título IV de la Ley del Impuesto sobre la Renta, que únicamente enajenen bienes o presten servicios al público en general, que en el año de calendario anterior hayan obtenido ingresos mayores de $1'000,000.00, en lugar de la contabilidad a que se refiere la fracción I de este artículo, deberán llevar el registro de sus ingresos diarios efectuando la separación de los actos o actividades por los que deba pagarse el impuesto por las distintas tasas, de aquéllos por los cuales esta Ley libera de su pago. Asimismo, por lo que se refiere a sus compras deberán contar con comprobantes que reúnan requisitos fiscales.
+Las personas físicas a que se refiere la Sección III, Capítulo VI, Título IV de la Ley del Impuesto sobre la Renta, que únicamente enajenen bienes o presten servicios al público en general, que en el año de calendario anterior hayan obtenido ingresos mayores de $1,174,000.00, en lugar de la contabilidad a que se refiere la fracción II de este artículo, deberán llevar el registro de sus ingresos diarios efectuando la separación de los actos o actividades por los que deba pagarse el impuesto por las distintas tasas, de aquellos por los cuales esta Ley libera de su pago. Asimismo, por lo que se refiere a sus compras deberán contar con comprobantes que reúnan requisitos fiscales.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -1687,6 +1689,10 @@ IV. Para efectos del artículo 32, fracción III, cuarto párrafo de la Ley del 
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO. El presente Decreto entrará en vigor el 1o. de enero de 1999.
+
+D.O.F. 15 DE FEBRERO DE 1999.
+
+> <small>N. DE E. LAS ACTUALIZACIONES CON ANTELACION CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL.</small>
 
 ## Transitorio
 
