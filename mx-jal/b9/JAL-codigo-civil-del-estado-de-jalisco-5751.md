@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "1996-12-28"
+last_updated: "1997-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1997.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -1093,9 +1093,11 @@ La inscripción en el Registro Público de la Propiedad, de las fundaciones, es 
 
 Para que proceda la inscripción en el Registro Público de la Propiedad de una fundación, se requiere que la Secretaría General de Gobierno, emita dictamen sobre la viabilidad de la misma.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1997)</small>
+
 ###### Art. 197.
 
-La emisión del dictamen a que se refiere el artículo anterior, obliga y faculta a su emisor a la vigilancia sobre el funcionamiento de dichas fundaciones; pudiendo inclusive designar de una manera provisional a los integrantes del patronato.
+La emisión del dictamen a que se refiere el artículo anterior obliga y faculta a su emisor a la vigilancia sobre el funcionamiento de dichas fundaciones. En las fundaciones constituidas mortis causa, o por acto entre vivos cuando el o los fundadores hubieren dejado de existir, la facultad de vigilancia a que se refiere este artículo tendrá, inclusive, el alcance de designar de una manera provisional a los integrantes del patronato.
 
 ###### Art. 198.
 
@@ -1159,9 +1161,11 @@ II. Por el cumplimiento o realización de sus fines; y
 
 III. Por la imposibilidad financiera de seguir operando.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1997)</small>
+
 ###### Art. 207.
 
-Cuando sea imposible el funcionamiento de las fundaciones, a instancias de quien competa su vigilancia o del ministerio público en su caso, se tramitará su disolución, debiendo pasar sus bienes en los términos que dispongan sus bases constitutivas o en su defecto al patrimonio de fundaciones que tengan objeto similar al suyo, y cuando no existan éstas a la Beneficencia Pública.
+Cuando sea imposible el funcionamiento de las fundaciones a instancias del fundador, o en su defecto de quien competa su vigilancia o del Ministerio Público en su caso, se tramitarán (sic) su disolución, debiendo pasar sus bienes en los términos que dispongan sus bases constitutivas o en su defecto al patrimonio de fundaciones que tengan objeto similar al suyo, y cuando no existan éstas a la beneficencia pública.
 
 ### CAPITULO V. De los socios
 
@@ -4769,7 +4773,7 @@ No tiene derecho a los frutos naturales y civiles que produzca el bien que posee
 
 ###### Art. 864.
 
-La persona que haya adquirido la posesión por algún hecho delictuoso, está obligado a restituir todos los frutos que haya producido el bien y los que haya dejado de producir por omisión culpable.
+La persona que haya adquirido la posesión por algún hecho delictuoso, está obligado (sic) a restituir todos los frutos que haya producido el bien y los que haya dejado de producir por omisión culpable.
 
 Tiene también la obligación de responder de la pérdida o deterioro del bien sobrevenidos por su culpa, o en caso fortuito o fuerza mayor; a no ser que se pruebe que éstos se habrían causado aunque el bien hubiere estado poseído por su dueño. No responderá de la pérdida que sea sobrevenida natural e inevitablemente por el transcurso del tiempo.
 
@@ -9527,7 +9531,7 @@ En los derechos de orden público y social, podrá establecerse por las partes u
 
 En caso de que en esta clase de derechos, el término para la caducidad convencional no beneficie al deudor, dicha cláusula se tendrá por no puesta, y se atenderá al término para la caducidad legal.
 
-## TITULO PRIMERO. De la concurrencia y graduación de créditos, y de la insolvencia de los deudores
+## TITULO UNICO. De la concurrencia y graduación de créditos, y de la insolvencia de los deudores
 
 ### CAPITULO V. De la inoficiocidad
 
@@ -9625,9 +9629,11 @@ Se da la revocación de un acto jurídico perfecto, legítimo y válido cuando q
 
 La revocación debe consignarse en la misma formalidad con la que se celebró el acto jurídico revocado.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1997)</small>
+
 ###### Art. 1782.
 
-Cuando se pretende la revocación de un contrato sinalagmático, debe convenirse por todas las partes involucradas, salvo que se pactare que una de ellas tiene la facultad de revocarlos.
+Cuando se pretende la revocación de un contrato sinalagmático, debe convenirse por todas las partes involucradas. Será nulo el pacto por el que se faculte a una sola de las partes a revocarlo, salvo en los casos expresamente previstos por este Código.
 
 ### CAPITULO I. Disposiciones generales
 
@@ -9709,6 +9715,8 @@ Se da la reducibilidad en un contrato sinalagmático cuando en el momento de oto
 
 SEGUNDA PARTE
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1997)</small>
+
 ## TITULO PRIMERO. De los contratos preliminares
 
 ### CAPITULO V. Acreedores de segunda clase
@@ -9733,9 +9741,11 @@ IV. Hicieren, a favor de los acreedores, abandono de sus bienes por medio de la 
 
 Para que los acreedores puedan considerarse como tales y promover la declaración del concurso, no será preciso que haya cosa juzgada sobre su carácter, bastando que sus créditos consten en título ejecutivo; sin perjuicio, de que oportunamente se pueda discutir la admisión de cada crédito por el deudor o por el representante del concurso.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1997)</small>
+
 ###### Art. 1799.
 
-El concurso tiene por objeto resolver en un solo procedimiento todas las cuestiones referentes a la liquidación de los bienes del deudor, para pagarse justa y equitativamente en los términos de este capítulo.
+El concurso tiene por objeto resolver en un sólo procedimiento todas las cuestiones referentes a la liquidación de los bienes del deudor, para pagar los créditos en los términos de este título.
 
 ###### Art. 1800.
 
@@ -9747,15 +9757,17 @@ Esa declaración produce también el efecto de que dejan de causar intereses las
 
 Los capitales debidos serán pagados en el orden establecido en este título; y si después de satisfechos quedaren fondos pertenecientes al concurso, se pagarán los réditos correspondientes, en el mismo orden en que se pagaron los capitales, pero reducidos los intereses al tipo legal, a no ser que se hubiere pactado un tipo menor. Sólo que hubieren bienes suficientes para que todos los acreedores queden pagados, se cubrirán los réditos al tipo convenido que sea superior al legal.
 
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1997)</small>
+
 ###### Art. 1802.
 
-El deudor puede celebrar con sus acreedores los convenios que estime oportunos; pero estos convenios se harán precisamente en junta de acreedores debidamente constituida y sólo obligarán cuando se adopten por unanimidad, con la aprobación del juez que conozca del concurso.
+El deudor declarado en estado de concurso puede celebrar con sus acreedores los convenios que estime oportunos, pero estos convenios se harán precisamente en junta de acreedores debidamente constituida y sólo obligarán cuando se adopten por la conformidad de la mayoría, con la aprobación del juez que conozca del concurso.
 
-Los pactos particulares entre el deudor y cualesquiera de sus acreedores, serán nulos sin requerimiento de declaratoria judicial alguna.
+Aquellos convenios que se celebren entre el deudor y cualquiera de sus acreedores y que no se ajusten a los lineamientos previstos en el supuesto anterior, serán nulos sin el requerimiento de la declaratoria judicial.
 
 ###### Art. 1803.
 
-Los convenios a que se refiere el artículo anterior podrán celebrarse antes o después de declarado el concurso, bien sea para evitar la declaración del mismo o tener por objeto la terminación de éste y la rehabilitación del deudor.
+(DEROGADO, P.O. 4 DE ENERO DE 1997)
 
 ###### Art. 1804.
 
@@ -9821,7 +9833,9 @@ Son acreedores privilegiados los que a continuación se listan, y cuya prelació
 
 I. Los acreedores por gastos de funeral del deudor, de su esposa, de sus descendientes sujetos a patria potestad o a tutela y de sus ascendientes cuando éstos no tengan bienes suficientes para cubrirlos, ni algún otro descendiente que pueda sufragarlos. Los costos de funeral deben de ser proporcionados al modo y condición de vida del deudor;
 
-II. Los gastos de la última enfermedad de las personas mencionadas en la fracción anterior; y
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 1997)</small>
+
+II. Los gastos de la última enfermedad de las personas mencionadas en la Fracción anterior, hechos en los últimos seis meses que precedieron al fallecimiento; y
 
 III. El crédito por alimentos fiados al deudor para su subsistencia y la de su familia, en los seis meses anteriores a la formación del concurso y el aseguramiento de las obligaciones alimentarias a cargo del deudor por el término de un año.
 
@@ -11063,8 +11077,6 @@ Cuando este tipo de arrendamiento exceda de cinco años, deberá ser inscrito en
 
 El arrendador que no haga las obras que ordene la autoridad competente, como necesarias para que una localidad sea habitable e higiénica, es responsable de los daños y perjuicios que los arrendatarios sufran por esa causa. Este derecho no es renunciable.
 
-Art. 2044 (sic).- Las disposiciones contenidas en el artículo anterior son de orden público. Por lo tanto, son irrenunciables y en consecuencia, cualquier estipulación en contrario se tendrá por no puesta.
-
 ###### Art. 2041.
 
 Cuando el valor comercial del inmueble sea el equivalente hasta diez mil días de salario mínimo general se seguirán las siguientes reglas:
@@ -11084,6 +11096,8 @@ a) Su plazo mínimo de vigencia será de un año;
 b) El plazo será obligatorio solamente para el arrendador; y
 
 c) El arrendatario podrá dar por concluido el contrato en cualquier tiempo, con la obligación respecto del pago de las rentas de cubrirlas hasta la fecha en que desocupe el inmueble.
+
+Art. 2044 (sic).- Las disposiciones contenidas en el artículo anterior son de orden público. Por lo tanto, son irrenunciables y en consecuencia, cualquier estipulación en contrario se tendrá por no puesta.
 
 ###### Art. 2042.
 
@@ -16820,3 +16834,7 @@ P.O. 28 DE DICIEMBRE DE 1996.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO.- Los procedimientos de constitución de patrimonio familiar iniciados con anterioridad a la fecha de entrada en vigor del presente decreto, se continuarán hasta su conclusión con arreglo a las disposiciones vigentes al momento de iniciar el trámite.
+
+P.O. 4 DE ENERO DE 1997.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
