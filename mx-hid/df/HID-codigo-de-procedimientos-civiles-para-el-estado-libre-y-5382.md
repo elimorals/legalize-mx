@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-procedimientos-civiles-para-el-estado-libre-y-5382"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-12-01"
-last_updated: "1940-12-01"
+last_updated: "1982-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1982.
 
 Código publicado en el Apéndice del Periódico Oficial del Estado de Hidalgo, el 1 de diciembre de 1940.
 
@@ -5685,13 +5685,39 @@ La mujer menor de edad que deseando contraer matrimonio necesite acudir a la aut
 
 En ambos casos no son necesarias formalidades de ninguna clase, asentándose solamente en una o más actas las diligencias del día.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 1982)</small>
+
+## TITULO XVI.
+
 TITULO ESPECIAL.
 
 DE LOS JUICIOS ANTE LOS JUECES CONCILIADORES.
 
-## TITULO I.- De las acciones y excepciones. 3
+### CAPITULO UNICO.
 
-### CAPITULO I.- De las acciones. 3
+De la caducidad.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 1982)</small>
+
+###### Artículo 926.
+
+Se tendrá por abandonado un juicio y por perdido el derecho a continuarlo, si las partes no promueven durante ciento ochenta días, tanto en Primera como en Segunda Instancia.
+
+El abandono de la Segunda Instancia solo da lugar a la pérdida del recurso y a la devolución de los Autos, quedando firme la resolución recurrida.
+
+Con la caducidad de la instancia no se extinguen ni las acciones ni las excepciones de las partes, por lo que podrían iniciar otro juicio. El procedimiento abandonado por las partes, cuando causa ejecutoria el auto que declara caduce (sic) la instancia, no interrumpirá la prescripción.
+
+La caducidad de la instancia será declarada de oficio por el Tribunal o a petición de parte legítima.
+
+No procede la caducidad: en período de ejecución de sentencia, en juicios sucesorios, en concursos, cuando esté pendiente la resolución y la morosidad dependa de los Tribunales, cuando esté pendiente de desahogarse alguna prueba, por pérdida de los autos y cuando fallezca alguna de las partes o las dos, en cuyo caso, el Albacea tendrá derecho de apelar del auto que declare la caducidad de la Instancia, dentro de los treinta días siguientes a la fecha de su nombramiento.
+
+> <small>(ADICIONADO P.O. 1 DE JUNIO DE 1982)</small>
+
+###### Artículo 927.
+
+Los Juicios que se tramitan en primera y Segunda Instancia, conforme al Código de Procedimientos Civiles vigente, se aplicarán los términos fijados por el Artículo anterior, debiendo contarse los plazos a partir de la fecha en que entren en vigor las presentes reformas.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 1982)</small>
 
 ###### Artículo 1.
 
@@ -6071,13 +6097,15 @@ GENERAL DEL NUEVO CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE HIDALGO
 
 Pag.
 
-## TITULO II.- Reglas generales. 9
+## TITULO I.- De las acciones y excepciones. 3
+
+### CAPITULO I.- De las acciones. 3
 
 ### CAPITULO II.- De las excepciones. 8
 
-### CAPITULO I.- De la capacidad y personalidad. 9
+## TITULO II.- Reglas generales. 9
 
-## TITULO III.- De la competencia. 22
+### CAPITULO I.- De la capacidad y personalidad. 9
 
 ### CAPITULO II.- De las actuaciones y resoluciones judiciales. 10
 
@@ -6091,17 +6119,17 @@ Pag.
 
 ### CAPITULO VII.- De las costas. 21
 
-### CAPITULO I.- Disposiciones generales. 22
+## TITULO III.- De la competencia. 22
 
-## TITULO IV.- De los impedimentos, recusaciones y excusas. 26
+### CAPITULO I.- Disposiciones generales. 22
 
 ### CAPITULO II.- Reglas para la fijación de la competencia. 23
 
 ### CAPITULO III.- De la substanciación y decisión de las competencias. 25
 
-### CAPITULO I.- De los impedimentos y excusas. 26
+## TITULO IV.- De los impedimentos, recusaciones y excusas. 26
 
-## TITULO V.- Actos prejudiciales. 30
+### CAPITULO I.- De los impedimentos y excusas. 26
 
 ### CAPITULO II.- De la recusación. 28
 
@@ -6113,9 +6141,9 @@ Pag.
 
 ### CAPITULO VI.- De la substanciación y decisión de la recusación con causa. 29
 
-### CAPITULO I.- Medios preparatorios del juicio en general. 30
+## TITULO V.- Actos prejudiciales. 30
 
-## TITULO VI.- Del juicio ordinario. 37
+### CAPITULO I.- Medios preparatorios del juicio en general. 30
 
 ### CAPITULO II.- Medios preparatorios del juicio ejecutivo. 31
 
@@ -6127,9 +6155,9 @@ Pag.
 
 ### CAPITULO VI.- De las providencias precautorias. 35
 
-### CAPITULO I.- De la demanda, contestación y fijación de la cuestión. 37
+## TITULO VI.- Del juicio ordinario. 37
 
-## TITULO VII.- De los juicios sumarios y de la vía de apremio. 61
+### CAPITULO I.- De la demanda, contestación y fijación de la cuestión. 37
 
 ### CAPITULO II.- De la prueba.- Reglas generales. 41
 
@@ -6138,8 +6166,6 @@ Pag.
 ### CAPITULO IV.- De la recepción y práctica de las pruebas. 43
 
 ### CAPITULO V.- De la forma escrita en la recepción de pruebas. 43
-
-### CAPITULO VI.- De la recepción oral de las pruebas. 54
 
 #### SECCION I.- Del término probatorio. 43
 
@@ -6159,29 +6185,29 @@ Pag.
 
 #### SECCION IX.- De las presunciones. 54
 
+### CAPITULO VI.- De la recepción oral de las pruebas. 54
+
 ### CAPITULO VII.- Del valor de las pruebas. 58
 
 ### CAPITULO VIII.- De los alegatos en el procedimiento escrito. 60
 
 ### CAPITULO IX.- De la sentencia ejecutoria. 60
 
+## TITULO VII.- De los juicios sumarios y de la vía de apremio. 61
+
 ### CAPITULO I.- De los juicios sumarios.- Reglas generales. 61
 
-## TITULO VIII.- Del juicio arbitral. 88. Reglas generales. 88
-
 ### CAPITULO II.- Del juicio ejecutivo. 63
-
-### CAPITULO III.- Del juicio hipotecario. 66
 
 #### SECCION I.- Reglas generales. 63
 
 #### SECCION II.- Acción rescisoria. 66
 
+### CAPITULO III.- Del juicio hipotecario. 66
+
 ### CAPITULO IV.- Del juicio sumario de desahucio. 69
 
 ### CAPITULO V.- 70
-
-### CAPITULO I.- Procedimiento estando ausente el rebelde. 91
 
 #### SECCION I.- 70
 
@@ -6191,11 +6217,15 @@ Pag.
 
 #### SECCION IV.- De la ejecución de las sentencias y demás resoluciones dictadas por los tribunales y jueces de los estados y del extranjero. 86
 
+## TITULO VIII.- Del juicio arbitral. 88. Reglas generales. 88
+
 ## TITULO IX.- De los juicios en rebeldía. 91
 
-## TITULO X.- De las Terciarías. 92
+### CAPITULO I.- Procedimiento estando ausente el rebelde. 91
 
 ### CAPITULO II.- Procedimiento estando presente el rebelde. 92
+
+## TITULO X.- De las Terciarías. 92
 
 ### CAPITULO UNICO.- 92
 
@@ -6207,17 +6237,15 @@ Pag.
 
 ### CAPITULO I.- De las revocaciones y apelaciones. 96
 
-## TITULO XIII.- De los concursos. 102
-
 ### CAPITULO II.- De la apelación extraordinaria. 100
 
 ### CAPITULO III.- De la queja. 101
 
 ### CAPITULO IV.- Recurso de responsabilidad. 101
 
-### CAPITULO I.- Reglas generales. 102
+## TITULO XIII.- De los concursos. 102
 
-## TITULO XIV.- Juicios sucesorios. 108
+### CAPITULO I.- Reglas generales. 102
 
 ### CAPITULO II.- De la rectificación y graduación de créditos. 104
 
@@ -6225,9 +6253,9 @@ Pag.
 
 ### CAPITULO IV.- Del deudor común. 107
 
-### CAPITULO I.- Disposiciones generales. 108
+## TITULO XIV.- Juicios sucesorios. 108
 
-## TITULO XV.- De la jurisdicción voluntaria. 124
+### CAPITULO I.- Disposiciones generales. 108
 
 ### CAPITULO II.- De las testamentarias. 111
 
@@ -6255,6 +6283,8 @@ Pag.
 
 ### CAPITULO XIV.- Del testamento hecho en país extranjero. 124
 
+## TITULO XV.- De la jurisdicción voluntaria. 124
+
 ### CAPITULO I.- Disposiciones generales. 124
 
 ### CAPITULO II.- Del nombramiento de tutores y curadores y discernimiento de estos cargos. 126
@@ -6270,3 +6300,11 @@ Pag.
 ### CAPITULO VII.- Disposiciones relativas a otros actos de jurisdicción voluntaria. 133. TITULO ESPECIAL.- De los juicios ante los Jueces Conciliadores. 134
 
 ARTICULOS TRANSITORIOS. 141
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 1 DE JUNIO DE 1982.
+
+1.- Se derogan los Artículos 12 y 13 Transitorios del Código de Procedimientos Civiles para el Estado de Hidalgo.
+
+2.- El presente Decreto entrará en vigor a los treinta días de su publicación en el Periódico Oficial del Gobierno del Estado.
