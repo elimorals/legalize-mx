@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-municipal-del-estado-de-veracruz-llave-6579"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1998-09-08"
+last_updated: "1998-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE SEPTIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 1998.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -511,7 +511,9 @@ II.- La propiedad de predios rústicos;
 
 III.- La posesión de predios urbanos o rústicos, en los casos siguientes:
 
-a).- Cuando no exista el propietario;
+> <small>(REFORMADO, G.O.31 DE DICIEMBRE DE 1998)</small>
+
+a).- Cuando el inmueble no se encuentre inscrito en el Registro Público de la Propiedad a nombre de persona alguna.
 
 b).- Cuando se derive de contrato de promesa de venta, de venta con reserva de dominio; y de promesa de venta o venta de certificados de participación inmobiliaria, de vivienda, de simple uso o de cualquier otro título similar que autorice la ocupación material del inmueble y que origine algún derecho posesorio, aun cuando los mencionados contratos, certificados o títulos, se hayan celebrado u obtenido con motivo de operaciones de fideicomiso.
 
@@ -521,7 +523,9 @@ d).- Cuando siendo propiedad del Estado o de sus Municipios, de la Federación y
 
 IV.-(DEROGADA, G.O. 28 DE DICIEMBRE DE 1995)
 
-V.- La propiedad o posesión en los términos de la Legislación Agraria Federal.
+> <small>(REFORMADA, G.O.31 DE DICIEMBRE DE 1998)</small>
+
+V.- La propiedad o posesión ejidal y la comunal.
 
 El objeto del impuesto a que se refiere este artículo incluye la propiedad o posesión de las construcciones permanentes edificadas sobre los predios, tratándose de predios rústicos el objeto del Impuesto incluye solamente la propiedad o posesión de las construcciones permanentes que no sean utilizadas directamente por propio destino, con fines agrícolas, ganaderos y forestales.
 
@@ -529,31 +533,33 @@ El objeto del impuesto a que se refiere este artículo incluye la propiedad o po
 
 Son sujetos de este impuesto:
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-I.- Los propietarios y los poseedores de predios urbanos o rústicos, ejidales o comunales;
+I.- Los propietarios y los poseedores de predios urbanos o rústicos;
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-II.- Los copropietarios, los coposeedores y los nudopropietarios de bienes inmuebles sujetos a régimen de copropiedad o condominio y los titulares de certificados de participación inmobiliaria;
+II.- Los copropietarios, los coposeedores los nudopropietarios, los usufructuarios y los titulares de certificados de participación inmobiliaria, de vivienda y de simple uso;
 
-III.- Los fideicomitentes mientras sean poseedores del predio objeto del fideicomiso, los fideicomisarios que estén en posesión del predio, aun cuando todavía no se les trasmita la propiedad, en cumplimiento del fideicomiso, y los usufructuarios;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+III.- Los fideicomitentes mientras sean poseedores del predio objeto del fideicomiso y los fideicomisarios que estén en posesión del predio, aún cuando todavía no se les trasmita la propiedad, en cumplimiento del fideicomiso;
 
-IV.- Los ejidatarios, comuneros y los titulares de derechos parcelarios en los términos de la Legislación Agraria;
+> <small>(REFORMADA, G.O.31 DE DICIEMBRE DE 1998)</small>
 
-a).-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-b).-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-c).-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-d).-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
-
-e).-(DEROGADO, G.O. 24 DE DICIEMBRE DE 1996)
+IV.- Los núcleos de población ejidales o ejidos y los comuneros;
 
 V.-Los demás sujetos que señalen las Leyes Fiscales.
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
+
+d).- Los representantes legales de personas físicas y morales, respecto de los impuestos a cargo de sus representados cuando tengan facultades para actos de administración;
+
+e).- Los albaceas de la sucesión hasta en tanto no se adjudiquen los bienes los herederos;
+
+f).- Las Instituciones fiduciarias en los casos de la fracción III del artículo 34 de esta Ley, y
+
+g).- Los demás sujetos que señalen las Leyes Fiscales.
 
 > <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -561,11 +567,15 @@ ARTICULO 34 BIS.- Son sujetos con responsabilidad solidaria los siguientes:
 
 a).- La persona o personas cualquiera que sea el nombre con que se les designe que tengan conferida la dirección general, la gerencia general, o la administración única de una persona moral;
 
-b).- Los representantes del Comisariado Ejidal o del Consejo de Vigilancia, en los términos de la Legislación Agraria;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+b).- El comisariado ejidal, el consejo de vigilancia y los ejidatarios;
 
 c).- Tratándose de copropietarios, coposeedores y nudopropietarios, cualquiera de ellos responderá al monto total del adeudo del crédito fiscal y sus accesorios sin que la autoridad fiscal quede obligada al cobro proporcional de dicho adeudo;
 
-d).- Los representantes legales de sociedades, asociaciones civiles y comunidades respecto de los impuestos a cargo de sus representados cuando tengan facultades para actos de administración;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
+
+d).- Los representantes legales de personas físicas y morales, respecto de los impuestos a cargo de sus representados cuando tengan facultades para actos de administración;
 
 e).- Los albaceas de la sucesión hasta en tanto no se adjudiquen los bienes los herederos;
 
@@ -577,13 +587,11 @@ g).- Los demás sujetos que señalen las Leyes Fiscales.
 
 La base del impuesto será:
 
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-I.- El 100% del Valor Catastral del predio, señalado en los términos de la Ley de Catastro.
+I.- El 100% del Valor Catastral o Catastral Provisional en términos de lo dispuesto por la Ley de Catastro.
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
-
-II.- El 100% del valor catastral provisional que la Autoridad Catastral fije con los elementos de que disponga y el cual deberá comunicar inmediatamente a la Tesorería Municipal que corresponda.
+II.-(DEROGADA, G.O. 31 DE DICIEMBRE DE 1998)
 
 III.-(DEROGADA, G.O. 28 DE DICIEMBRE DE 1995)
 
@@ -599,6 +607,10 @@ Dicha nueva base estará vigente hasta el 31 de diciembre del año en que se det
 
 Las Tesorerías Municipales formularán liquidaciones por las diferencias del impuesto que resulten del cambio de base, proporcionalmente al lapso que falte por transcurrir hasta el 31 de diciembre.
 
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
+
+En los casos de predios que no hayan tenido modificaciones físicas no procederá el cobro de diferencias de años anteriores, cuando éstas sean consecuencia de la actualización del Valor Catastral Provisional, resultante de la valuación en que se utilicen sistemas aerofogramétricos digitales para elaborar la cartografía. El nuevo valor surtirá efectos a partir del mes siguiente al que se produzca la actualización.
+
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 38.
@@ -607,25 +619,21 @@ El impuesto predial se determinará, liquidará y pagará de acuerdo con la sigu
 
 TARIFA TASA AL MILLAR ANUAL
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-I.- Predios Urbanos 2
+I.-Predios urbanos construidos ……………………………………………………...2
 
-Si la cuota anual que resulte por la aplicación de la tasa anterior es inferior al importe de dos salarios mínimos diarios de la zona económica en que se encuentre ubicado el predio, esta cantidad será la que se cobre por cada predio.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
-
-II.- Predios Rústicos 4
-
-Si la cuota anual que resulte por la aplicación de la tasa anterior es inferior al importe de dos salarios mínimos diarios de la zona económica en que se encuentre ubicado el predio, esta cantidad será la que se cobre por cada predio.
+II.-Predios rústicos con o sin edificaciones …………………………………………4.
 
 III.-(DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
-IV.- Predios Baldíos …………………………………………………………………… 7.5
+IV.- Predios urbanos baldíos ………………………………………………………………...........7.5
 
-Por predio baldío se entiende el urbano sin edificaciones, en los términos de la Ley de Catastro del Estado.
+> <small>(DEROGADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
 > <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 1998)</small>
 
@@ -641,6 +649,10 @@ d) Se trate de la casa-habitación del beneficiado.
 
 Por ningún motivo se extenderá este beneficio a más de un inmueble por persona y, en todo caso, corresponderá a los ayuntamientos establecer con claridad los mecanismos o documentos con los que se deban satisfacer los requisitos exigidos.
 
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
+
+En ningún caso el impuesto anual a pagar por la aplicación de las tasas anteriores será inferior a dos salarios mínimos diarios de la zona económica en que se encuentre ubicado el predio.
+
 > <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 39.
@@ -649,9 +661,7 @@ El pago del impuesto será semestral y deberá hacerse dentro de los meses de en
 
 Cuando se hayan establecido bases provisionales para determinar el monto del impuesto, al aplicar la base definitiva, se cobrará o reintegrarán las diferencias que resulten.
 
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 1995)</small>
-
-En los casos de predios que no hayan tenido modificaciones físicas no procederá el cobro de diferencias, cuando éstas sean consecuencia de la actualización del valor catastral o provisional que resulte de la valuación masiva por la ejecución de programas de modernización del Catastro, donde se utilicen sistemas aerofotogramétricos digitales para elaborar la cartografía catastral.
+> <small>(DEROGADO TERCER PARRAFO, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 40.
 
@@ -1155,11 +1165,11 @@ III.- Cuando en cualquier forma se impida a las autoridades fiscales cumplir su 
 
 ### CAPITULO IV. SOBRE LOTERIAS, RIFAS, SORTEOS Y CONCURSOS
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 91.
 
-Es objeto de este impuesto la celebración de loterías, rifas, sorteos y concursos de cualquier clase dentro del territorio de cualquiera de los Municipios del Estado, así como los ingresos que se obtengan derivados de premios por participar en los eventos señalados.
+Es objeto de este impuesto la celebración de loterías, rifas, sorteos y concursos de cualquier clase que se lleven a cabo dentro del territorio de cualesquiera de los Municipios del Estado, así como los ingresos que se obtengan derivados de premios por participar en los eventos señalados, cuando el billete, boleto, contraseña o cualquier otro comprobante que permita participar en el evento haya sido enajenado en el Estado, sin importar en donde se lleve a cabo la lotería, rifa, sorteo o concurso.
 
 > <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 1997)</small>
 
@@ -3922,3 +3932,7 @@ Artículo Único. La presente Ley entrará en vigor el día 1° de enero de 1998
 G.O. 8 DE SEPTIEMBRE DE 1998.
 
 ÚNICO.- Esta ley entrará en vigor al siguiente día de su publicación en la Gaceta Oficial órgano del Gobierno del Estado.
+
+G.O. 31 DE DICIEMBRE DE 1998.
+
+Artículo Unico.- La presente ley entrará en vigor el día 1° de enero de 1999, previa su publicación ene la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz-Llave.
