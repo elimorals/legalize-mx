@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-374-apicola-del-estado-de-veracruz-de-ignacio-de-673
 country: "mx"
 rank: "ley"
 publication_date: "1979-06-16"
-last_updated: "1988-12-10"
+last_updated: "2004-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY APICOLA DEL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE DICIEMBRE DE 1988.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY APICOLA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA GACETA OFICIAL EL 12 DE FEBRERO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 16 de junio de 1979.
 
@@ -442,3 +444,13 @@ El presente decreto entrará en vigor al día siguiente de su publicación en la
 ###### ARTICULO 2º.
 
 Se derogan todas las disposiciones legales que se opongan al presente.
+
+G. O. 12 DE FEBRERO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley número 374 Apícola del Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del estado el 19 de junio de 1979, y se derogan todas las disposiciones que se opongan al presente ordenamiento.
