@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-educacion-del-estado-de-quintana-roo-11918"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "1994-12-30"
+last_updated: "2005-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 LEY DE EDUCACION DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE EDUCACION DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL PERIODICO OFICIAL EL 14 DE MARZO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial el 30 de Diciembre de 1994.
 
@@ -776,3 +778,19 @@ C. PROFR. RAUL OMAR SANTANA BASTARRACHEA
 EL C. SECRETARIO DE EDUCACION, CULTURA Y BIENESTAR SOCIAL.
 
 C. PROFR. ALFREDO DIAZ JIMENEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 14 DE MARZO DE 2005.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+SEGUNDO.- Se abroga la Ley de Educación del Estado de Quintana Roo, publicada en el Periódico Oficial del Gobierno del Estado, el 30 de diciembre de 1994, y se derogan las disposiciones relativas que se opongan a la presente Ley.
+
+TERCERO.- De conformidad con lo establecido en los artículos transitorios del Decreto por el que se adiciona el Artículo 3o., en su párrafo primero, fracciones III, V y VI, y el Artículo 31 en su fracción I, de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 12 de noviembre de 2002, el Estado deberá implementar la educación preescolar obligatoria en los siguientes plazos: el tercer año de preescolar a partir del ciclo 2004-2005; el segundo año de preescolar, a partir del ciclo 2005-2006; el primer año de preescolar, a partir del ciclo 2008-2009.
+
+CUARTO.- Los particulares que actualmente ofrecen servicios educativos de educación preescolar, sin reconocimiento de validez oficial de estudios, deberán tramitar la autorización correspondiente, antes del inicio del ciclo escolar 2005-2006.
+
+Para el caso de los particulares que cuenten con reconocimiento de validez oficial de estudios en la educación preescolar, el mismo les será sustituido por la autorización correspondiente, siempre y cuando acrediten que mantienen las condiciones que sustentaron dicho reconocimiento; en caso contrario, se sujetarán a lo que disponga el acuerdo específico que emita al respecto la Autoridad Educativa Estatal.
+
+QUINTO.- En el plazo de ciento ochenta días siguientes al inicio de vigencia de la presente Ley, la Secretaría presentará al Ejecutivo Estatal, los proyectos de reglamentos, acuerdos, manuales de organización y de procedimientos que de ella deriven.
