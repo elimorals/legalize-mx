@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2004-02-10"
+last_updated: "2004-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -103,9 +103,9 @@ j) Supervisión, cuando se trate de actividades específicamente que requieren r
 
 Además de los anteriores, tendrán tal carácter los siguientes:
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2004)</small>
 
-I. En el Poder Legislativo, el Secretario Particular, Oficial Mayor, directores, subdirectores, jefes, Contador Mayor de Hacienda, coordinadores, supervisores y auditores, así como el personal que se encuentra al servicio directo de los diputados cuando sean designados por ellos mismos;
+I. En el Poder Legislativo, el Secretario General del Congreso, Auditor Superior del Estado, Secretarios particulares, Directores, Jefes de departamento, Coordinadores, Supervisores y Auditores, así como el personal que se encuentre al servicio directo de los Diputados cuando sean designados por ellos mismos;
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -1175,7 +1175,7 @@ V. Por desistimiento.
 
 ###### Art. 105.
 
-Las acciones que nazcan de esa ley o del nombramiento expedido en favor de los Servidores Públicos prescribirán en un año, con excepción de los casos señalados en el artículo siguiente.
+Las acciones que nazcan de esa ley, o del nombramiento expedido en favor de los Servidores Públicos prescribirán en un año, con excepción de los casos señalados en el artículo siguiente.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
@@ -2160,3 +2160,7 @@ P.O. 30 DE DICIEMBRE DE 2003.
 P.O. 10 DE FEBRERO DE 2004.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco.
+
+P.O. 18 DE MAYO DE 2004.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco.
