@@ -4,7 +4,7 @@ identifier: "DUR-ley-estatal-de-salud-4940"
 country: "mx"
 rank: "ley"
 publication_date: "1987-02-08"
-last_updated: "1987-02-08"
+last_updated: "1990-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ESTATAL DE SALUD
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 1990.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el 8 de Febrero de 1987.
 
@@ -1397,13 +1397,17 @@ Para los efectos de esta Ley, se entiende por construcción toda edificación o 
 
 En los aspectos sanitarios, las construcciones, reconstrucciones, modificaciones y adaptaciones deberán cumplir con las disposiciones de esta Ley, las demás disposiciones legales aplicables y las normas técnicas correspondientes.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 1990)</small>
+
 ###### ARTICULO 174o.
 
-Para iniciar y realizar la construcción, reconstrucción, modificación y acondicionamiento de un edificio, se requiere de permiso sanitario del proyecto en cuanto a iluminación, ventilación, instalaciones sanitarias y contra accidentes.
+Para iniciar y realizar la construcción, reconstrucción, modificación y acondicionamiento de un edificio. Se requiere de permiso sanitario del proyecto en cuanto a iluminación, ventilación, instalaciones sanitarias e instalaciones contra accidentes, además de la licencia de la Dirección de Normas Urbanas y arquitectónicas para Auxilio de Minusválidos, cuando este edificio se vaya a destinar a la administración, comercio, industria, servicios educativos y/o recreativos.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 1990)</small>
 
 ###### ARTICULO 175o.
 
-Cuando el uso que se pretenda dar a un edificio o local sea público, además de los requisitos previstos en otras disposiciones aplicables, deberá contar con agua potable corriente y retretes públicos, los cuales deberán reunir los requisitos correspondientes.
+Cuando el uso que se pretenda dar a un edificio o local sea público, además de los requisitos previstos en otras disposiciones aplicables, deberá contar con agua potable corriente y retretes públicos, los cuales deberá (sic) reunir los requisitos para uso de minusválidos y los correspondientes que indica la legislación sanitaria.
 
 ARTICULO 183o (sic).- El funcionamiento, la construcción, reconstrucción, modificación y acondicionamiento de cualquiera de los establecimientos a que se refiere este Título deberá dar aviso de inicio y terminación de obra a la autoridad municipal, quien vigilará el cumplimiento de los requisitos aprobados en el proyecto a que se refiere esta Ley, y demás disposiciones legales aplicables y las normas técnicas correspondientes.
 
@@ -1411,13 +1415,17 @@ ARTICULO 183o (sic).- El funcionamiento, la construcción, reconstrucción, modi
 
 Los edificios y locales terminados, podrán dedicarse al uso que se destinen, una vez inspeccionados y declarada la conformidad por parte de la autoridad estatal.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 1990)</small>
+
 ###### ARTICULO 178o.
 
-Los edificios, locales, construcciones o terrenos urbanos, podrán ser inspeccionados por la autoridad estatal, quien ordenará las obras necesarias para satisfacer las condiciones higiénicas y de seguridad en los términos de esta Ley, otras condiciones legales aplicables y las normas técnicas correspondientes.
+Los edificios, locales, construcciones o terrenos urbanos, podrán ser inspeccionados por la autoridad estatal, quien ordenará las obras necesarias para satisfacer las condiciones higiénicas, de seguridad y de auxilio a minusválidos en los términos de esta Ley, otras condiciones legales aplicables y las normas técnicas correspondientes.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 1990)</small>
 
 ###### ARTICULO 179o.
 
-Los propietarios o poseedores de edificios y locales o de los negocios en ellos establecidos, están obligados a ejecutar las obras que se requieran para cumplir con las condiciones de higiene y seguridad que establezcan las disposiciones legales aplicables y las normas técnicas correspondientes.
+Los propietarios o poseedores de edificios y locales o de los negocios en ellos establecidos, están obligados a ejecutar las obras que se requieran para cumplir con las condiciones de higiene, seguridad y auxilio a minusválidos que establezcan las disposiciones legales aplicables y las normas técnicas correspondientes.
 
 ###### ARTICULO 180o.
 
@@ -1579,11 +1587,23 @@ Los reclusorios estarán sujetos al control del Gobierno del Estado, de conformi
 
 Los reclusorios deberán contar además de lo previsto por las disposiciones legales aplicables y las normas técnicas correspondientes, con un departamento de baños y regadera y otro de enfermería, éste para la atención de aquellos casos de enfermedad de los internos, en que no sea necesario el paso de éstos a un hospital.
 
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 1990)</small>
+
+###### ARTICULO 215 Bis.
+
+Los reclusorios deberán contar además de lo previsto por las disposiciones legales aplicables y las normas técnicas correspondientes, con facilidades arquitectónicas para el libre desplazamiento de los internos con algún grado de invalidéz somática.
+
 ### CAPITULO XI. Baños Públicos
 
 ###### ARTICULO 216o.
 
 Para los efectos de esta Ley, se entiende por baño público el establecimiento destinado a utilizar el agua para el aseo corporal, deporte o uso medical bajo la forma de baño y al que pueda concurrir el público. Quedan incluidos en la denominación de baños, los llamados de vapor y de aire caliente.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 1990)</small>
+
+###### ARTICULO 216 Bis.
+
+Los baños públicos mencionados en el artículo anterior, deberán contar para su operación, con las instalaciones necesarias para su uso, por personas con algún grado de invalidéz somática, conforme a las normas técnicas y las disposiciones legales aplicables.
 
 ###### ARTICULO 217o.
 
@@ -1599,9 +1619,11 @@ Para abrir al servicio público éstos establecimientos deberá obtenerse licenc
 
 Para los efectos de esta Ley, se entiende por centros de reunión todas aquellas edificaciones destinadas al agrupamiento de personas con fines recreativos, sociales, deportivos o culturales.
 
+> <small>(REFORMADO , P.O. 19 DE AGOSTO DE 1990)</small>
+
 ###### ARTICULO 220o.
 
-El funcionamiento de los establecimientos a que se refiere el Artículo 219 de esta Ley, deberá acatarse a lo indicado por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan por los reglamentos de ésta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
+El funcionamiento de los establecimientos a que se refiere el Artículo 219 de ésta Ley, deberá acatarse a lo indicado por las disposiciones legales aplicables y contará con los servicios de higiene, seguridad y auxilio minusvalidos (sic) que se establezcan por los reglamentos de ésta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
 ### CAPITULO XIII. Establecimientos dedicados a la Prestación
 
@@ -2137,7 +2159,9 @@ Al escrito deberán acompañarse los siguientes documentos:
 
 I.- Los que acrediten la personalidad del promovente, siempre que no sea él directamente afectado y cuando dicha personalidad no hubiera sido reconocida con anterioridad en la instancia o expediente que concluyó con la resolución impugnada;
 
-II.- Los documentos que el recurrente ofrezca como pruebas y que tengan relación inmediata y directa con la resolución o acto impugnado, y
+II.- Los documentos que el recurrente ofrezca como pruebas y que tengan relación inmediata y directa con la
+
+resolución o acto impugnado, y
 
 III.- Original de la resolución impugnada, en su caso.
 
@@ -2230,3 +2254,11 @@ Por tanto mando se imprima, publique, circule y comuníquese a quienes correspon
 DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo. a los veintiocho días del mes de Diciembre de mil novecientos ochenta y seis.
 
 El Gobernador Constitucional del Estado, LIC. JOSE RAMIREZ GAMERO.- El Secretario General de Gobierno, LIC. GUSTAVO RIVERA RAMOS.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE AGOSTO DE 1990.
+
+PRIMERO.- El presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a las presentes reformas y artículos que se crean.
