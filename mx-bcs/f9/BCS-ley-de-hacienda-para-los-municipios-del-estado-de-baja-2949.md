@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-los-municipios-del-estado-de-baja-2949"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "2000-03-31"
+last_updated: "2002-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE MARZO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2002.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1985.
 
@@ -177,15 +177,15 @@ La falta de pago oportuno generará los recargos a la tasa que determine la ley 
 
 EXENCIONES.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 12.
 
-Están exentos del pago del Impuesto Predial:
+Están exentos del pago del impuesto predial:
 
-> <small>(REFORMADA, B.O. 31 DE ENERO DE 2000)</small>
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2002)</small>
 
-I.- Los bienes de dominio público de la Federación, de los Estados y Municipios, salvo que sean utilizados con propósitos distintos a su objetivo público.
-
-No quedan exentos de pago los bienes de dominio público que organismos públicos descentralizados utilicen para oficinas administrativas o en general para propósitos distintos a los de su objeto.
+I.- Los bienes de dominio público de la Federación, Estados y Municipios, salvo sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público, en los términos de las leyes correspondientes.
 
 II.- Por un año, las fincas inutilizadas por incendio, derrumbe u otra cosa semejante ajena a la voluntad del dueño, siempre y cuando dentro del plazo señalado no se determinen nuevas construcciones o se dé en arrendamiento el predio.
 
@@ -1809,13 +1809,13 @@ III.- Licencia de motociclista (por 3 años) 2 días de salario mínimo.
 
 IV.- Permiso para conducir a menores: Jóvenes mayores de 16 y menores De 18 años (máximo 90 días), previo curso de manejo 2 días de salario mínimo.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA [N. DE E. CONFORME AL DECRETO DE REFORMAS DE LA PRESENTE FECHA, AL CREARSE ESTE CAPITULO Y EL SIGUIENTE, SE RECORREN EN SU ORDEN LOS ARTICULOS A PARTIR DEL 86, QUEDANDO UBICADOS EN LOS ARTICULOS 94 AL 139], B.O. 31 DE ENERO DE 2000)</small>
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
-### CAPITULO DECIMO SEXTO
+### CAPITULO DECIMO QUINTO
 
-POR SERVICIOS DE INSPECCION MUNICIPAL.
+RECOLECCION DE BASURA.
 
-> <small>(ADICIONADO, B.O. 31 DE ENERO DE 2000)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 87.
 
@@ -1865,17 +1865,7 @@ b).- Los que se deriven de las Entidades Gubernamentales en sus funciones de der
 
 c).- El anuncio principal del establecimiento destinado a anunciar su propio negocio, siempre que este se localice en los límites de construcción del mismo, sin hacer este la vía pública.
 
-### CAPITULO DECIMO QUINTO
-
-RECOLECCION DE BASURA.
-
-> <small>(REFORMADO, B.O. 31 DE ENERO DE 2000)</small>
-
-###### ARTICULO 85.
-
-Es objeto de este derecho el servicio que por recolección de basura presta el Ayuntamiento a los establecimientos comerciales, industriales, hoteles, restaurantes, hospitales privados, oficinas administrativas o de prestación de servicios. Los sujetos de estos derechos pagarán con base en el volumen y basura que generen, teniendo la obligación de celebrar convenio con la Tesorería Municipal a través de la unidad administrativa que ésta designe y de acuerdo a la tabla tarifaria del reglamento de aseo y limpia municipal.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE ENERO DE 2000)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA [N. DE E. CONFORME AL DECRETO DE REFORMAS DE LA PRESENTE FECHA, AL CREARSE ESTE CAPITULO Y EL SIGUIENTE, SE RECORREN EN SU ORDEN LOS ARTICULOS A PARTIR DEL 86, QUEDANDO UBICADOS EN LOS ARTICULOS 94 AL 139], B.O. 31 DE ENERO DE 2000)</small>
 
 ### CAPITULO DECIMO SEPTIMO
 
@@ -1883,11 +1873,21 @@ DE LAS LICENCIAS, PERMISOS O AUTORIZACIONES POR ANUNCIOS, CARTELES O PUBLICIDAD.
 
 > <small>(ADICIONADO, B.O. 31 DE ENERO DE 2000)</small>
 
+###### ARTICULO 85.
+
+Los comercios, hoteles, restaurantes, hospitales privados, oficinas administrativas e industriales, deberán contratar individualmente con el ayuntamiento, los servicios de limpia, recolección, traslado, tratamiento y disposición final de residuos y pagarán una cuota mensual o anual que será convenida con la autoridad municipal correspondiente, o comprobar la eliminación de estos desperdicios o residuos, siempre y cuando, no afecten la salud o contaminen el medio ambiente.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE ENERO DE 2000)</small>
+
+### CAPITULO DECIMO SEXTO
+
+POR SERVICIOS DE INSPECCION MUNICIPAL.
+
+> <small>(ADICIONADO, B.O. 31 DE ENERO DE 2000)</small>
+
 ###### ARTICULO 86.
 
 Los derechos por el servicio de inspección municipal serán causados por los trabajos que se deriven de cualquier acto de inspección que se realicen en los municipios a solicitud expresa hecha a cualquier dependencia municipal por cualquier persona física o moral que lo solicite y/o cuando la autoridad municipal lo dicte convenientemente. Los derechos se cobrarán de 1 a 3 salarios mínimos.
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ## TITULO TERCERO
 
@@ -2502,3 +2502,13 @@ B.O. 31 DE MARZO DE 2000.
 PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 10 DE JULIO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Los ayuntamientos de la entidad contarán con noventa días naturales par (sic) los efectos de lo dispuesto por los artículos 26, 90, 91, 92, y 94 de la Ley Orgánica Municipal Reglamentaria del Título Octavo de la Constitución Política del Estado de Baja California Sur, reformados por este Decreto, en lo que se refiere a los bandos de policía y gobierno y reglamentos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
