@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1975-04-29"
+last_updated: "1978-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 1975.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 1978.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -349,11 +349,21 @@ Se deposita el ejercicio del Poder Legislativo del Estado en una asamblea que se
 
 El Congreso del Estado se compondrá de representantes electos directamente en su totalidad cada tres años por ciudadanos campechanos y en los términos que disponga la Ley Electoral del Estado.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1971)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 31.
 
-Se elegirá un diputado propietario y un suplente por cada 20,000 habitantes. En los Municipios que no alcancen esta cifra, se elegirán, sin embargo, un diputado propietario y un suplente.
+Se elegirán un diputado propietario y un suplente, por cada 20,000 habitantes, según el principio de votación mayoritaria relativa. En los Municipios que no alcancen esta cifra, se elegirán, sin embargo, un diputado propietario y un suplente.
+
+Se elegirán asimismo hasta 3 diputados propietarios y 3 suplentes, según el principio de representación proporcional mediante el sistema de listas.
+
+La elección de los diputados según el principio de representación proporcional, se sujetará a las bases generales siguientes y a lo que sobre el particular disponga la ley.
+
+a) Que los partidos políticos que los postulen obtengan, cuando menos, el 1.5 por ciento de la votación total del Estado;
+
+b) Que los mismos partidos hayan postulado también candidatos en seis distritos electorales, cuando menos, y
+
+c) Que los propios partidos no hayan acreditado dos o más diputados de mayoría relativa, pudiendo obtener hasta 2 de representación proporcional, siempre que no se les hubiese atribuído alguno de mayoría relativa.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -407,11 +417,11 @@ VI.- Los Jueces de Primera Instancia, los Recaudadores de Rentas y los President
 
 Los ciudadanos comprendidos en las fracciones de la III a la VI del artículo anterior podrán ser electos, siempre que se separen de sus cargos cuando menos 45 días antes de la elección.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 36.
 
-El Congreso calificará las elecciones de sus miembros y resolverá las dudas que hubieren sobre ellas. Su resolución será definitiva e inatacable.
+El Congreso calificará las elecciones de sus miembros a través de un Colegio Electoral que se integrará por los cinco presuntos diputados que de acuerdo con las constancias de mayoría que registre la Comisión Local Electoral, hubieren obtenido mayor número de votos, y por dos presuntos diputados de representación proporcional. La ley determinará la forma de seleccionar a los miembros del Colegio.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -777,9 +787,9 @@ V.- Facilitar al Poder Judicial los auxilios que necesite para el ejercicio expe
 
 VI.- Nombrar y remover libremente:
 
-A).- Al Secretario General de Gobierno y demás funcionarios y empleados de la Administración Pública, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las leyes.
+A).- Al Secretario General de Gobierno y demás funcionarios y empleados de la Administración Pública, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las leyes;
 
-B).- Al Tesorero General del Estado y demás empleados del ramo de Hacienda;
+B).- Al Tesorero General del Estado y demás empleados del ramo de Hacienda.
 
 VII.- Exigir el mejor cumplimiento de sus deberes a todas las autoridades administrativas del Estado, aplicando las penas a que se hagan acreedoras, en los términos que prevengan las Leyes o Decretos especiales;
 
@@ -839,7 +849,7 @@ Para ser Secretario General se requiere ser ciudadano campechano y tener 25 año
 
 ###### ARTICULO 74.
 
-Las faltas del Secretario General serán suplidas por el Oficial Mayor de la Secretaría quien, para serlo deberá reunir los mismos requisitos que el Secretario General.
+Las faltas del Secretario General serán suplidas por el Oficial Mayor de la Secretaría, quien para serlo deberá reunir los mismos requisitos que el Secretario General.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1079,9 +1089,21 @@ Se concede acción popular, sin obligación de constituírse en parte, para denu
 
 Los municipios que integran el Estado serán libres, se regirán por la Ley Orgánica relativa, la que tendrá como bases, las siguientes:
 
-I.- Cada Municipio será administrado por un ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
 
-II.- Los ayuntamientos se compondrán de un Presidente Municipal y de tantos regidores y síndicos como determine la Ley Orgánica respectiva;
+I.- Cada Municipio será administrado por un Ayuntamiento de elección popular directa. En la elección de los Ayuntamientos del Municipio de la Capital del Estado y de los Municipios cuya población sea de 300,000 o más habitantes, se aplicará, además, el principio de representación proporcional. No habrá ninguna autoridad intermedia entre los Ayuntamientos y el Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
+
+II.- Los Ayuntamientos del Municipio de la Capital del Estado y de aquellos municipios cuya población sea de 300,000 o más habitantes, tendrán tantos regidores y síndicos como determine la Ley Orgánica respectiva, electos por el principio de mayoría relativa y adicionalmente hasta dos regidores y síndicos electos por el sistema de representación proporcional.
+
+De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuido un Regidor, el partido político que alcance el mayor porcentaje de votación minoritaria, siempre y cuando satisfaga los siguientes requisitos:
+
+a) Que hubiere registrado fórmula de candidatos en las elecciones municipales respectivas;
+
+b) Que alcance por lo menos el 1.5 por ciento del total de la votación emitida en el municipio correspondiente.
+
+La Ley Electoral, determinará los procedimientos que se observarán en dicha designación.
 
 III.- Cuando su extensión o densidad de población lo exija, los municipios podrán subdividirse en secciones municipales y comisarías, debiéndose establecer de acuerdo con la Ley Orgánica de los Municipios, las relaciones y dependencias que existan entre unas y otras;
 
@@ -1568,5 +1590,9 @@ P.O. 5 DE ENERO DE 1974.
 UNICO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 29 DE ABRIL DE 1975.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1978.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
