@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-de-veracruz-268
 country: "mx"
 rank: "codigo"
 publication_date: "1948-02-12"
-last_updated: "1994-09-01"
+last_updated: "1995-11-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE SEPTIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE NOVIEMBRE DE 1995.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave el jueves 12, sábado 14, martes 17, jueves 19, sábado 21, martes 24, jueves 26 y sábado 28 de febrero; martes 2, jueves 4, sábado 6, martes 9, jueves 11, sábado 13 y martes 16 de marzo de 1948.
 
@@ -339,11 +339,13 @@ Son correcciones disciplinarias:
 
 I.- Apercibimiento;
 
-> <small>(REFORMADA, G.O. 24 DE JUNIO DE 1980)</small>
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 1995)</small>
 
-II.- Multa de cincuenta a mil pesos;
+II.- Multa hasta por el equivalente a treinta días del salario mínimo general diario, que esté vigente en la zona y tiempo en que se cometieron los hechos, que se duplicará en caso de reincidencia;
 
-III.- Arresto hasta de quince días; y
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 1995)</small>
+
+III.- Arresto hasta por treinta y seis horas;
 
 IV.- Suspensión hasta por un mes.
 
@@ -361,13 +363,15 @@ En vista de lo que manifieste el interesado, el funcionario que la hubiere impue
 
 El Ministerio Público en la averiguación previa y los tribunales, podrán emplear, para hacer cumplir sus determinaciones, los siguientes medios de apremio:
 
-> <small>(REFORMADA, G.O. 24 DE JUNIO DE 1980)</small>
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 1995)</small>
 
-I.- Multa de cincuenta a mil pesos;
+I.- Multa hasta por el equivalente a treinta días de salario mínimo general diario, que esté vigente en la zona y tiempo que se cometieron los hechos, que se duplicará en caso de reincidencia;
 
 II.- Auxilio de la fuerza pública; y
 
-III.- Arresto hasta de quince días.
+> <small>(REFORMADA, G.O. 21 DE NOVIEMBRE DE 1995)</small>
+
+III.- Arresto hasta por treinta y seis horas.
 
 ### CAPITULO VI. Requisitorias y exhortos
 
@@ -2894,3 +2898,13 @@ G.O. 1 DE SEPTIEMBRE DE 1994.
 PRIMERO.-El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz-Llave.
 
 SEGUNDO.-Se derogan todas las disposiciones que se opongan al presente.
+
+G.O. 21 DE NOVIEMBRE DE 1995.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en la 'Gaceta Oficial', órgano del Gobierno del estado de Veracruz-Llave.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
