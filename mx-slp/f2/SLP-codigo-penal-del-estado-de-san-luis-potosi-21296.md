@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2000-09-30"
+last_updated: "2002-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2002.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -249,7 +249,9 @@ La reparación del daño comprende:
 
 I. La restitución de la cosa obtenida por el delito y, si no fuere posible, el pago del precio de la misma;
 
-II. La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima. En los casos de delitos contra la libertad y el normal desarrollo psicosexual y de violencia familiar; además se comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima, y
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2002)</small>
+
+II. La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud del ofendido. En los casos de delitos contra la libertad y el normal desarrollo psicosexual y de violencia familiar, además se comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima, y
 
 III. Tratándose de los delitos cometidos contra la administración pública, la reparación del daño abarcará la restitución de la cosa o de su valor y, además, hasta dos tantos del valor de la cosa o los bienes obtenidos por el delito.
 
@@ -257,7 +259,9 @@ III. Tratándose de los delitos cometidos contra la administración pública, la
 
 Tienen derecho a la reparación del daño en el siguiente orden:
 
-I. El ofendido;
+> <small>(REFORMADA, P.O. 1 DE JUNIO DE 2002)</small>
+
+I. El ofendido o la víctima;
 
 II. En caso de fallecimiento del ofendido, el cónyuge supérstite o el concubinario o la concubina y sus hijos menores o incapacitados, y
 
@@ -917,6 +921,12 @@ Comete el delito de homicidio quien priva de la vida a otro.
 
 Incurre en homicidio por omisión, quien teniendo el deber de cuidado hacia un enfermo, incapaz o menor por razones de cercanía o parentesco se abstenga de prestarle protección o impida su tratamiento medico, influyendo con tal indolencia en su muerte.
 
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 107 Bis.
+
+Para los efectos de este Capítulo, se entiende por pérdida de la vida en los términos de los artículos 343 y 344 de la Ley General de Salud de aplicación en toda la República, la muerte cerebral; o la ausencia completa y permanente de conciencia; la ausencia permanente de respiración espontánea; ausencia de reflejos del tallo cerebral; y el paro cardíaco irreversible.
+
 ###### ARTICULO 108.
 
 Para la imposición de las sanciones que correspondan a quien cometa el delito a que se refiere el artículo anterior se tendrá como mortal una lesión cuando se verifiquen las circunstancias siguientes:
@@ -1144,6 +1154,10 @@ III. Retener como rehén al secuestrado y amenazar con privarle de la vida o cau
 Este delito se sancionará con una pena de diez a cuarenta años de prisión y sanción pecuniaria de ochocientos a cuatro mil días de salario mínimo.
 
 Si el secuestrador o secuestradores espontáneamente ponen en libertad al secuestrado dentro de los tres días siguientes a la privación de la libertad y sin causarle ningún daño, se impondrá una pena de dos a seis años de prisión y sanción pecuniaria de cuarenta a seiscientos días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2002)</small>
+
+Es equiparable al secuestro y se castiga como tal, la retención transitoria o prolongada de una persona, para obligarla a retirar fondos monetarios en cajeros automáticos o ventanillas de instituciones de crédito; o utilizando violencia física o moral, forzarla para que adquiera bienes o servicios en establecimientos comerciales mediante el uso de tarjetas electrónicas o cheques bancarios.
 
 ###### ARTICULO 136.
 
@@ -2826,3 +2840,11 @@ El Secretario General de Gobierno
 LIC. JUAN CARLOS BARRON CERDA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 1 DE JUNIO DE 2002.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
