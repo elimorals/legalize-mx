@@ -4,7 +4,7 @@ identifier: "COA-ley-de-transito-y-transporte-del-estado-de-coahuila-de-3803"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-19"
-last_updated: "1999-11-30"
+last_updated: "2001-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 19 de enero de 1996.
 
@@ -47,19 +47,25 @@ La presente Ley es de orden público e interés social y tiene por objeto regula
 
 Para los efectos del artículo anterior y demás disposiciones aplicables, se consideran vías públicas las avenidas, calzadas, plazas, plazuelas, calles, puentes, carreteras y tramos de caminos que se encuentran dentro de los límites del Estado de Coahuila, excepto aquellas vías reservadas a la jurisdicción federal.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 3.
 
-El Gobernador del Estado, a través de la Secretaría de Comunicaciones y Obras Públicas, aplicará las medidas que se requieran para el cumplimiento de esta Ley y aquellas que reclama el interés público en orden a la organización del tránsito de vehículos sobre las vías en la entidad, y al aprovechamiento de éstas en la ejecución de los diversos servicios de transporte de personas y carga que clasifica esta misma Ley.
+El Gobernador del Estado, a través de la Secretaría de Urbanismo y Obras Públicas, aplicará las medidas que se requieran para el cumplimiento de esta Ley y aquellas que reclama el interés público en orden a la organización del tránsito de vehículos sobre las vías en la entidad y al aprovechamiento de éstas en la ejecución de los diversos servicios de transporte de personas y carga que clasifica esta misma Ley.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 4.
 
-El Estado y los municipios podrán convenir, en el ámbito de su competencia, las condiciones que resulten más benéficas para el interés público en cuanto a la aplicación de esta Ley en sus respectivas jurisdicciones.
+El Gobierno del Estado y los gobiernos municipales podrán convenir, en el ámbito de su competencia y en los términos previstos en las disposiciones aplicables, las condiciones que resulten más benéficas para el interés público en cuanto a la aplicación de esta Ley en sus respectivas jurisdicciones.
 
 ###### ARTICULO 5.
 
 Para los efectos de esta Ley se entenderá por:
 
-I.- Secretaría: La Secretaría de Comunicaciones y Obras Públicas;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+I.- Secretaría: La Secretaría de Urbanismo y Obras Públicas;
 
 II.- Dirección General: La Dirección General de Comunicaciones y Transportes;
 
@@ -77,7 +83,9 @@ Son autoridades en materia de tránsito y transporte:
 
 I.- El Gobernador del Estado;
 
-II.- El Secretario de Comunicaciones y Obras Públicas;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+II.- El Secretario de Urbanismo y Obras Públicas;
 
 III.- El Director General de Comunicaciones y Transportes;
 
@@ -89,9 +97,11 @@ V.- Las demás que con este carácter prevean las disposiciones aplicables en es
 
 Son auxiliares de las autoridades a que se refiere el artículo anterior, los peritos, inspectores y delegados regionales de la Dirección General, así como las corporaciones e instituciones que con ese carácter determinen otras disposiciones legales o designe el Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 8.
 
-La Secretaría es la dependencia del Poder Ejecutivo a la que corresponde la interpretación de la presente Ley, así como la vigilancia de su estricta observancia. Para tal efecto, emitirá, en el ámbito de su competencia, la normatividad técnica relacionada con el tránsito en las vías públicas, el servicio de transporte y los servicios conexos a él.
+La interpretación de las disposiciones previstas en esta Ley corresponderá a la Secretaría de Gobierno. Corresponderá a la Secretaría, previa opinión de aquélla, la interpretación técnica de las disposiciones de la presente Ley, así como la vigilancia de su estricta observancia. Para tal efecto, emitirá, en el ámbito de su competencia, la normatividad técnica relacionada con el tránsito en las vías públicas, el servicio de transporte y los servicios conexos a él.
 
 ###### ARTICULO 9.
 
@@ -111,9 +121,13 @@ VI.- Analizar y opinar, en el ámbito de su competencia, sobre la solicitud de l
 
 VII.- Expedir, a través de las oficinas recaudadoras de rentas de la Secretaría de Finanzas, en el ámbito de su competencia, las láminas de identificación y los documentos relacionados con la circulación de vehículos en las vías públicas del Estado;
 
-VIII.- Proponer al Ejecutivo del Estado, a través del Secretario de Gobierno, la celebración de convenios de coordinación en la materia con la Federación, así como con otras entidades Federativas y Municipios;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-IX.- Inspeccionar periódicamente el adecuado funcionamiento de los medios de transporte, auxiliándose, en los términos de los convenios que para el efecto se celebren, de las autoridades municipales competentes;
+VIII.- Proponer al Ejecutivo del Estado, a través del Secretario de Gobierno, la celebración de convenios de coordinación en la materia con los Gobiernos Federal, de otras entidades Federativas y de los Ayuntamientos;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+IX.- Inspeccionar periódicamente el adecuado funcionamiento de los medios de transporte. Para tal efecto podrá, en los términos de las disposiciones aplicables y conforme a los convenios que para el efecto se celebren, contar con el auxilio de las autoridades municipales competentes;
 
 X.- Planear y coordinar el tránsito y vialidad en las vías públicas del Estado, ejecutando acciones tendientes a su mejoramiento;
 
@@ -127,9 +141,13 @@ XIII.- Las demás que esta Ley y otros ordenamientos le atribuyan.
 
 La Secretaría, por conducto de su titular y salvo que esta Ley y demás disposiciones aplicables prevean lo contrario, podrá delegar las atribuciones que le confiere el artículo anterior.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 11.
 
-Los ayuntamiento (sic), en sus respectivos ámbitos de competencia, emitirán las normas de tránsito y vialidad a través de los reglamentos que correspondan, conforme a las disposiciones aplicables.
+Los Gobiernos Municipales, en sus respectivos ámbitos de competencia, emitirán las normas de tránsito y vialidad a través de los reglamentos que correspondan, conforme a las disposiciones aplicables.
+
+Así mismo, los Ayuntamientos de la entidad podrán, previo acuerdo de sus órganos de gobierno, celebrar convenios de coordinación o de asociación entre ellos o con los ayuntamientos de dos o más estados, para el mejor ejercicio de las funciones que les correspondan en la materia. En este último caso, tratándose de convenios de asociación los municipios del estado deberán contar con la aprobación del Congreso del Estado.
 
 ###### ARTICULO 12.
 
@@ -138,6 +156,10 @@ Los peritos, según sea su especialidad, asesorarán a la Dirección General en 
 ###### ARTICULO 13.
 
 Los Delegados Regionales de la Dirección General, supervisarán el exacto cumplimiento de las disposiciones de esta Ley y su Reglamento en la región que corresponda y, en su caso, podrán proponer a la Dirección General las medidas que estimen necesarias para la adecuada planeación de los servicios de tránsito y transporte en dicha región.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+La Dirección General al elaborar programas regionales de transporte público de pasajeros deberá contar siempre con la participación de las autoridades municipales competentes que correspondan.
 
 ### CAPITULO TERCERO. DE LAS LICENCIAS PERMISOS PROVISIONALES, PLACAS Y REGISTRO DE VEHICULOS
 
@@ -295,13 +317,15 @@ Para ello, es responsabilidad de los propietarios y, en su caso, de los conducto
 
 Cuando los vehículos no reúnan las condiciones de funcionamiento adecuadas para prestar el servicio a que estén destinados, o no satisfagan las normas técnicas que determinen las autoridades correspondientes, sin perjuicio de la aplicación de las sanciones que correspondan, se concederá a los propietarios de los mismos un plazo que no excederá de treinta días para llevar a cabo la regularización respectiva. En caso de incumplimiento o, cuando no se presenten a revisión, se prohibirá la circulación del vehículo.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 36.
 
-El Gobierno del Estado, por conducto de la Secretaría, y los Ayuntamientos podrán convenir, en los términos de las disposiciones aplicables, que el establecimiento y operación de los centros de verificación de emisiones contaminantes provenientes de vehículos automotores, en dichas municipalidades, esté a cargo de la propia Secretaría.
+El Gobierno del Estado, por conducto de la Secretaría, y los Gobiernos Municipales podrán convenir, en los términos de las disposiciones aplicables, que el establecimiento y la operación de los centros de verificación de emisiones contaminantes provenientes de vehículos automotores, en dichas municipalidades, esté a cargo de la propia Secretaría.
 
-El titular del Ejecutivo Estatal, a través de la Secretaría podrá concesionar a particulares, personas físicas o morales que cuenten con la capacidad técnica, administrativa y financiera, el establecimiento y operación de los centros de verificación en aquellos municipios en que así se estime conveniente.
+El titular del Ejecutivo Estatal, a través de la Secretaría podrá concesionar a particulares, personas físicas o morales que cuenten con la capacidad técnica, administrativa y financiera, el establecimiento y operación de los centros de verificación en aquellos municipios en que, previa la suscripción de los convenios o acuerdos que correspondan, así se estime conveniente.
 
-La operación de los centros a que se refiere el presente artículo, deberá sujetarse a las disposiciones y normas técnicas ecológicas que para tal efecto emita la Secretaría de Desarrollo Social del Estado, así como a las demás que prevean otras disposiciones aplicables.
+La operación de los centros a que se refiere el presente artículo, deberá sujetarse a las disposiciones y normas técnicas ecológicas que para tal efecto emita el Instituto Coahuilense de Ecología, así como a las demás que prevean otras disposiciones aplicables.
 
 ###### ARTICULO 37.
 
@@ -409,7 +433,9 @@ Por cada concesión o permiso sólo se autorizará la explotación de un vehícu
 
 Es facultad de los Ayuntamientos otorgar concesiones para los servicios de transporte público urbano de pasajeros, carga y materiales de construcción, cuando dichos servicios se presten exclusivamente dentro de los límites de su Municipio.
 
-Los interesados cuyas solicitudes de concesión, que de conformidad con la presente Ley deban ser autorizadas por los Ayuntamientos y sean denegadas, deberán agotar los recursos previstos en la legislación aplicable y de resolverse contrario a sus pretensiones, podrán someter ante el Ejecutivo del Estado la revisión de su petición, el cual, a través de la Secretaría emitirá su opinión sobre dicha revisión. La solicitud de revisión deberá presentarse dentro de un término de quince días naturales siguientes al de la notificación.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Los interesados cuyas solicitudes de concesión, que de conformidad con la presente Ley deban ser autorizadas por los Ayuntamientos y sean denegadas, deberán agotar los recursos previstos en la legislación aplicable y de resolverse contrario a sus pretensiones, podrán presentar su impugnación ante el órgano competente para dirimir las controversias entre la administración municipal y los particulares.
 
 El Gobierno del Estado y los Ayuntamientos de la Entidad podrán suscribir los convenios que se requieran, en los términos de las disposiciones aplicables, para el otorgamiento de concesiones y permisos relativos a la prestación de los servicios previstos en este ordenamiento.
 
@@ -755,7 +781,9 @@ Las condiciones y requisitos para la práctica de dichos exámenes médicos se d
 
 Se establece el Registro Público de Transporte del Estado de Coahuila, que estará a cargo de la Secretaría, que tiene por objeto controlar y ordenar el servicio público de transporte mediante la inscripción de los actos relacionados con la prestación del servicio público de transporte; la constitución, transmisión, gravamen y extinción de concesiones; el otorgamiento y extinción de permisos, así como los demás datos relativos a los concesionarios, permisionarios, así como a vehículos destinados al servicio público y operadores.
 
-El Titular del Registro Público de Transporte será designado por el Secretario de Comunicaciones y Obras Públicas y contará con el personal que para el efecto autorice el presupuesto de egresos correspondiente.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+El Titular del Registro Público de Transporte será designado por el Secretario de Urbanismo y Obras Públicas y contará con el personal que para el efecto autorice el presupuesto de egresos correspondiente.
 
 ###### ARTICULO 86.
 
@@ -797,9 +825,11 @@ IX.- Expedir las certificaciones que le sean requeridas; y
 
 X.- Las demás que le confiera la presente Ley, su Reglamento y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 88.
 
-Para el mejor desempeño de las funciones encomendadas al Registro, el titular del Ejecutivo Estatal, a través de la Secretaría, podrá convenir con los Ayuntamientos, el establecimiento de mesas receptoras en los municipios en que así se estime conveniente, exclusivamente para la recepción de la documentación que haya de inscribirse.
+Para el mejor desempeño de las funciones encomendadas al Registro, el titular del Ejecutivo Estatal, a través de la Secretaría y en los términos de las disposiciones aplicables, podrá convenir con los Ayuntamientos el establecimiento de mesas receptoras en los municipios en que así se estime conveniente, exclusivamente para la recepción de la documentación que haya de inscribirse.
 
 ###### ARTICULO 89.
 
@@ -896,6 +926,14 @@ V.- Carteros.
 ###### ARTICULO 103.
 
 El titular del Ejecutivo Estatal, a través de la Secretaría y los municipios, en la esfera de su competencia, podrán en cualquier tiempo, modificar las rutas, itinerarios, tarifas y horarios por razón del interés público.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Los programas de transporte público de pasajeros o, en su caso, las modificaciones que a ellos realice la Secretaría, por conducto de la Dirección General, con relación a lo previsto en el párrafo que antecede, así como de conformidad a lo señalado en los artículos 73 y 117 de esta Ley, se formularán y aplicarán invariablemente con la intervención de los Ayuntamientos de los municipios que correspondan. Dicha intervención se realizará en los términos que señalen los convenios que para tal efecto celebren.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+De igual forma, en los programas de transporte público de pasajeros y, en su caso, las modificaciones que elaboren las autoridades federales y que incidan sobre el territorio de los municipios de la entidad, los Ayuntamientos respectivos intervendrán en su formulación en los términos que establezcan las leyes federales de la materia, en cumplimiento de las disposiciones previstas en la Constitución Política de los Estados Unidos Mexicanos y demás aplicables.
 
 ###### ARTICULO 104.
 
@@ -1085,7 +1123,9 @@ VIII.- En general, llevar a cabo las actividades que le encomiende el Presidente
 
 Se instalarán Comités Municipales de Tránsito y Transporte en las diversas municipalidades de la entidad, que tendrán cuando menos las atribuciones, en el ámbito de competencia del municipio, que se confieren al Consejo Estatal en el presente ordenamiento.
 
-La integración de cada uno de los Comités referidos será la que determine su instrumento de creación, debiendo sujetarse, cuando menos, a la siguiente integración:
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+La integración de cada uno de los Comités referidos será la que determine su instrumento de creación. En todo caso, deberá preverse por los Ayuntamientos la participación de los sectores social y privado involucrados en la materia.
 
 I.- Un Presidente, designado por el Presidente Municipal;
 
@@ -1094,6 +1134,8 @@ II.- Un Secretario Técnico, designado por el Presidente del Consejo Municipal;
 III.- Vocales, que no serán menos de 10 y más de 25, que estarán representadas, previa invitación y aceptación correspondiente, por aquellos miembros del sector público, social y privado relacionados con la materia objeto de esta Ley.
 
 ### CAPITULO DECIMO CUARTO. DE LOS RECURSOS
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 124.
 
@@ -1187,19 +1229,27 @@ Las autoridades competentes harán uso de las medidas legales necesarias, incluy
 
 ###### ARTICULO 135.
 
-Contra los actos y resoluciones que dicte la Secretaría, excepto aquellos que impliquen la cancelación de alguna concesión o permiso, procederá el recurso de revisión, el cual se interpondrá por escrito ante el titular del Ejecutivo Estatal en un plazo de quince días hábiles, contados a partir del día siguiente a aquél en el que se hubiese notificado la resolución o acto impugnado. Aquellos contra los actos y resoluciones que dicten los Ayuntamientos, se interpondrán ante el Presidente Municipal correspondiente.
+Contra los actos y resoluciones que dicte la Secretaría, excepto aquellos que impliquen la cancelación de alguna concesión o permiso, procederá el recurso de revisión, el cual se interpondrá por escrito ante el titular del Ejecutivo Estatal en un plazo de quince días hábiles, contados a partir del día siguiente a aquél en el que se hubiese notificado la resolución o acto impugnado.
 
 En el escrito deberán expresarse los agravios que, en concepto del recurrente, le causen perjuicio.
 
 El recurso deberá resolverse en un plazo que no excederá de veinte días.
 
+Aquellos recursos que se promuevan contra los actos y resoluciones que dicten los ayuntamientos, se interpondrán y substanciarán ante la autoridad competente en los términos de las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 136.
 
-El recurso deberá acompañarse, en su caso, de las pruebas que el recurrente estime convenientes.
+El recurso que se interponga en los términos del artículo que antecede, deberá acompañarse, en su caso, de las pruebas que el recurrente estime convenientes.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 137.
 
-Promovido el recurso ante el titular del Ejecutivo o, en su caso, ante el Presidente Municipal correspondiente, este suspenderá la aplicación de las sanciones pecuniarias siempre que el infractor otorgue caución suficiente para garantizar el interés fiscal.
+Promovido el recurso ante el titular del Ejecutivo este suspenderá la aplicación de las sanciones pecuniarias siempre que el infractor otorgue caución suficiente para garantizar el interés fiscal.
+
+Tratándose de los recursos interpuestos contra actos o resoluciones dictadas por las autoridades municipales, procederá, así mismo, la suspensión en los términos del párrafo anterior.
 
 ###### ARTICULO 138.
 
@@ -1292,3 +1342,43 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 30 DE NOVIEMBRE DE 1999.
 
 UNICO. Para que las autoridades de tránsito y de salud puedan implementar las disposiciones del artículo que se reforma, ésta iniciará su vigencia a los 180 días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE MARZO DE 2001.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado en coordinación con todos los Ayuntamientos de la entidad, antes del inicio del ejercicio fiscal del año 2002, establecerán los criterios necesarios para que los valores unitarios de suelo y de construcción que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, sean equiparables a los valores del mercado de dicha propiedad y procederán, en su caso, a realizar las reformas o adiciones legales correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
+
+Para tal efecto, el Congreso del Estado a través de la Comisión de Finanzas coordinará, a partir de la entrada en vigor de este decreto, un programa con los municipios para definir los criterios proporcionales y equitativos que se deben establecer para fijar la base de las contribuciones sobre la propiedad inmobiliaria, de conformidad con las disposiciones aplicables.
+
+En este programa deberá participar el Instituto Coahuilense del Catastro y la Información Territorial como órgano de apoyo y asesoría necesaria.
+
+###### ARTÍCULO TERCERO.
+
+Los juzgados de conciliación deberán continuar con la denominación y competencia que actualmente tienen, hasta el treinta y uno de agosto del año dos mil uno, fecha en que concluirán sus funciones, quedando sin efecto los nombramientos de sus titulares. Consecuentemente, las disposiciones contenidas en los artículos de la Ley Orgánica del Poder Judicial que hagan referencia a los juzgados de conciliación estarán en vigor hasta la fecha señalada, con excepción de lo dispuesto en la fracción I del artículo 43.
+
+El personal que formaba parte de los Juzgados de Conciliación podrán integrar los juzgados municipales que establece el Código Municipal, según lo acuerde el Ayuntamiento respectivo.
+
+En todo caso, se deberán respetar los derechos laborales del personal que formaba parte de los Juzgados de Conciliación. Los ayuntamientos emitirán los acuerdos necesarios para regularizar su situación laboral y su reorganización dentro de la administración pública municipal.
+
+Hasta en tanto el Consejo de la Judicatura determine nuevos distritos judiciales, seguirán vigentes, para todos los efectos legales, los ocho distritos previstos en el texto anterior del artículo 5° de la Ley Orgánica del Poder Judicial, que ahora se reforma; y que tienen como cabecera las ciudades de: Saltillo, Monclova, Sabinas, Piedras Negras, Acuña, Torreón, San Pedro de las Colonia y Parras de la Fuente.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos dentro del plazo de un año contado a partir de la entrada en vigor de este decreto, deberán instalar las Unidades Municipales de Protección Civil, según sus necesidades, condiciones y particularidades socioeconómicas.
+
+Estas unidades formarán parte de la administración pública municipal, según el acuerdo que emita el Ayuntamiento.
+
+En aquellos municipios que no cuenten con estas unidades, el Ejecutivo del Estado a través de la instancia correspondiente podrá coadyuvar, colaborar o sustituir la función de las mismas hasta en tanto el municipio pueda asumir plenamente esta función.
+
+###### ARTÍCULO QUINTO.
+
+Dentro del plazo de un año contado a partir de la entrada en vigor de este decreto, los ayuntamientos deberán adecuar su reglamentación, acuerdos, circulares y demás disposiciones generales.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones en contrario.
