@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "1983-12-31"
+last_updated: "1986-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 1986.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -503,11 +503,11 @@ En los casos de las fracciones II y III, se hará la convocatoria por conducto d
 
 Si el período extraordinario se prolongare hasta la fecha en que deba comenzar el ordinario, cesará aquel; pero en éste se tratarán de preferencia los asuntos que hubieren quedado pendientes.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 53.
 
-Señalado el día para la discusión de iniciativas presentadas por el Ejecutivo, por el Supremo Tribunal de Justicia o por algún Ayuntamiento, se les dará aviso con anticipación para que puedan intervenir en la discusión el mismo Ejecutivo, por sí o en su nombre el Secretario General de Gobierno o algún Director o Jefe de Departamento, un Magistrado del Tribunal por parte del mismo, o algún representante del Ayuntamiento de que se trate, cada uno en su caso y si concurrieren, se les concederá el uso de la palabra de igual modo que a los diputados, pero sin derecho a votar.
+Señalado el día para la discusión de iniciativas presentadas por el Ejecutivo; por el Supremo Tribunal de Justicia o por algún Ayuntamiento, se les dará aviso con anticipación para que puedan intervenir en la discusión, el mismo Ejecutivo, por sí o en su nombre el Secretario de Gobierno, el Procurador General de Justicia o Director General que para tal efecto designe, un Magistrado del Tribunal por parte del mismo, o algún representante del Ayuntamiento de que se trate, cada uno en su caso y si concurrieren, se les concederá el uso de la palabra de igual modo que a los Diputados, pero sin derecho a votar.
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
@@ -685,7 +685,9 @@ XVIII.- Convocar para elecciones extraordinarias de Gobernador en los casos que 
 
 XIX.- Conceder licencia temporal para separarse del ejercicio de sus funciones al Gobernador, Diputados y Magistrados del Supremo Tribunal de Justicia, cuando la de estos dos últimos sea por más de diez días.
 
-XX.- Declarar, en calidad de Gran Jurado y por el voto de los dos tercios del número total de sus miembros, si ha o no lugar a formación de causa por delitos, tanto oficiales como comunes, de que sean acusados el Gobernador del Estado, los Diputados al mismo Congreso, los Magistrados del Supremo Tribunal de Justicia, el Procurador General, el Secretario de Gobierno y Jefes de las demás Dependencias del Ejecutivo, no siendo revisables las resoluciones del Congreso en este caso.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1986)</small>
+
+XX.- Declarar, en calidad de gran jurado y por el voto de dos tercios del número total de sus miembros, si hay o no lugar a la formación de causa por delitos, tanto oficiales como comunes, de que sean acusados el Gobernador del Estado, los Diputados al mismo Congreso, los Magistrados del Supremo Tribunal de Justicia, los Jueces de Primera Instancia, Menores y de Paz, el Secretario de Gobierno, el Procurador General de Justicia y los Directores Generales, no siendo revisables las resoluciones del Congreso en este caso.
 
 XXI.- Dirimir los conflictos que se susciten entre los Poderes Ejecutivo y Judicial del Estado, salvo el caso en que deba intervenir el Senado o la Suprema Corte de Justicia de la Nación.
 
@@ -715,7 +717,9 @@ XXXI.- Autorizar la enajenación o gravamen de los bienes inmuebles de los Munic
 
 XXXII.- Recabar de quien corresponda y por los conductos debidos, informes sobre todos los ramos de Administración Pública del Estado y de los Municipios, cuando lo estime necesario para el mejor ejercicio de las funciones de la Legislatura.
 
-XXXIII.- (DEROGADA, P.O. 24 DE ENERO DE 1979)
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 1986)</small>
+
+XXXIII.- En los términos del Artículo 93 Fracción XXII, emitir las opiniones que le solicite el Gobernador del Estado, para nombramientos de funcionarios.
 
 XXXIV.- Declarar beneméritos del Estado a los individuos que se hayan distinguido por servicios eminentes prestados al mismo, siempre que hayan transcurrido diez años desde su fallecimiento; otorgar premios o recompensas tanto a dichos individuos como a los que hayan prestado iguales servicios a la humanidad y conceder auxilios o pensiones a las viudas o huérfanas de los que hubieren fallecido siendo merecedores de aquellas recompensas, sin haberlas recibido.
 
@@ -923,6 +927,8 @@ DEL PODER EJECUTIVO.
 
 DEL DESPACHO DEL EJECUTIVO.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1986)</small>
+
 ###### Art. 84.
 
 Para poder ser electo Gobernador Constitucional del Estado, se requiere:
@@ -935,7 +941,9 @@ III.- No ser ni haber sido ministro de algún culto religioso.
 
 IV.- No haber sido nombrado Gobernador Interino, Provisional o Substituto, en los términos que establece el artículo 90 de esta Constitución.
 
-V.- No ser Secretario de Gobierno, Oficial Mayor o quien haga sus veces, Magistrado del Supremo Tribunal de Justicia, Procurador General, Tesorero General del Estado, ni Jefe de Departamento del Poder Ejecutivo.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1986)</small>
+
+V.- No ser Secretario de Gobierno, Procurador General de Justicia, Director General, ni Magistrado del Supremo Tribunal de Justicia.
 
 VI.- No ser funcionario federal, Jefe de Hacienda, Administrador de Aduana o Principal de Timbre ni Militar con mando en el Ejército Nacional o fuerzas del Estado.
 
@@ -963,7 +971,9 @@ El Gobernador al tomar posesión de su cargo, prestará ante el Congreso, o ante
 
 Las faltas temporales o absolutas del Gobernador se suplirán en la siguiente forma:
 
-I.- En caso de falta temporal que no exceda de sesenta días, el Secretario General de Gobierno asumirá el cargo de Gobernador Interino, previa protesta que deberá rendir ante el Congreso del Estado o la Diputación Permanente. Si la falta excediere de dicho plazo, el Congreso o la citada Diputación, nombrará un Gobernador Interino. Si la falta temporal se convirtiere en absoluta, se estará a lo dispuesto en la fracción IV de este precepto.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1986)</small>
+
+I.- En caso de falta temporal que no exceda de 60 días, el Secretario de Gobierno asumirá el cargo de Gobernador Interino, previa protesta que deberá rendir ante el Congreso del Estado o la Diputación Permanente, si la falta excediere de dicho plazo, el Congreso o la citada Diputación nombrará un Gobernador Interino, si la falta temporal se convirtiere en absoluta, se estará a lo dispuesto en la Fracción IV de este precepto.
 
 II.- En caso de falta absoluta ocurrida durante los dos primeros años del período, el Congreso, por mayoría absoluta de votos y con asistencia de los dos tercios del número total de Diputados, o la Diputación Permanente en su caso, nombrará un Gobernador Provisional y convocará inmediatamente a elecciones de Gobernador, las que deberán efectuarse en un término que no exceda de tres meses. El Congreso, al entrar en sesiones, podrá modificar el nombramiento de Gobernador Provisional hecho por la Diputación Permanente.
 
@@ -973,9 +983,13 @@ En los casos de esta fracción y de la próxima anterior la Diputación Permanen
 
 IV.- Si la falta absoluta ocurriere no encontrándose el Gobernador en ejercicio de sus funciones, el Gobernador Interino continuará en el desempeño del cargo hasta que tomen posesión en sus respectivos casos, el Gobernador Provisional o el Gobernador Substituto.
 
-V.- Si la falta absoluta ocurriere encontrándose el Gobernador en el ejercicio de sus funciones, el Secretario General de Gobierno se encargará del Despacho, hasta la toma de posesión del Gobernador Provisional o del Substituto, en sus respectivos casos.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1986)</small>
 
-VI.- Para poder ser nombrado Gobernador Interino, cuando no lo sea por ministerio de ley el Secretario General de Gobierno, Provisional o Substituto, se requieren las condiciones que para ser Gobernador Constitucional exigen las fracciones I, II, III y IV del artículo 84 de esta Constitución.
+V.- Si la falta absoluta ocurriere encontrándose el Gobernador en el ejercicio de sus funciones, el Secretario de Gobierno se encargará del Despacho hasta la Toma de Posesión del Gobernador Provisional o del Sustituto, en sus respectivos casos.
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1986)</small>
+
+VI.- Para poder ser nombrado Gobernador Interino, cuando no lo sea por Ministerio de Ley el Secretario de Gobierno, Provisional o Sustituto, se requieren las condiciones que para ser Gobernador Constitucional exigen las Fracciones I, II, III y IV del Artículo 84 de esta Constitución.
 
 ###### Art. 90.
 
@@ -1051,13 +1065,13 @@ XX.- Reconocer, cuando se hubiere dividido en varios grupos la Legislatura, al q
 
 XXI.- Pedir informes al Congreso y al Supremo Tribunal de Justicia sobre asuntos de los ramos de su incumbencia, respectivamente, y darlos cuando dichos Poderes los pidan acerca de los que competen al Ejecutivo.
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1986)</small>
 
-XXII.- Nombrar Secretario General de Gobierno, Abogado Consultor del Gobierno, Cuerpo Consultivo de Abogados cuando se haga necesario, Procurador General de Justicia, Tesorero General, Directores y demás Jefes de Departamento y Agentes del Ministerio Público; recibirles la protesta de ley, concederles licencias y removerlos libremente.
+XXII.- Nombrar y remover libremente al Secretario de Gobierno, Procurador General de Justicia, Directores Generales, Sub-Procuradores y Jefes de Departamento y recibirles la Protesta de Ley, pudiendo recabar la opinión del Congreso del Estado, si lo estimare conducente.
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
+Asimismo nombrar y remover libremente a los demás funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no estén determinados de otro modo en esta Constitución o en las Leyes.
 
-XXIII.- Nombrar a los Oficiales o Encargados del Registro Civil, a los Registradores de la Propiedad y a todos los demás empleados públicos del Ejecutivo; así como concederles licencias, resolver sobre sus renuncias y removerlos conforme a esta Constitución, siempre que en ella o en las leyes no estén concedidas esas facultades a otra autoridad.
+XXIII.- (DEROGADA, P.O. 1 DE OCTUBRE DE 1986)
 
 XXIV.- Cuidar de que los fondos públicos estén siempre asegurados y de que su recaudación y distribución se haga con arreglo a la ley.
 
@@ -1081,11 +1095,11 @@ XXXII.- Conceder las dispensas matrimoniales conforme a la ley.
 
 XXXIII.- Formar la Estadística y el Catastro del Estado.
 
-XXXIV.- Formar el Reglamento de la Secretaría de su Despacho.
+XXXIV.- (DEROGADA, P.O. 1 DE OCTUBRE DE 1986)
 
 XXXV.- Convocar a elecciones de Ayuntamientos, cuando por cualquier motivo desaparecieren éstos, dentro del primer semestre del período constitucional correspondiente.
 
-XXXVI.- Presidir el Jurado de Responsabilidades a que se refiere la fracción II del artículo 180.
+XXXVI.- (DEROGADA, P.O. 1 DE OCTUBRE DE 1986)
 
 > <small>(ADICIONADA, P.O. 13 DE JULIO DE 1963)</small>
 
@@ -1107,37 +1121,53 @@ DEL SUPREMO TRIBUNAL DE JUSTICIA.
 
 ###### Art. 94.
 
-Para el despacho de los negocios del Poder Ejecutivo habrá un "Secretario General de Gobierno".
+La Administración Pública será centralizada y paraestatal conforme a la Ley Orgánica que expida el Congreso, que distribuirá los negocios del orden administrativo del Estado que estarán a cargo de las dependencias del Poder Ejecutivo y definirá las bases generales de creación de las Entidades Paraestatales y la intervención del Ejecutivo del Estado en su operación.
+
+Las leyes determinarán las relaciones entre las Entidades Paraestatales y el Ejecutivo del Estado, o entre estas y las dependencias centralizadas en su caso.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 95.
 
-Para ser Secretario General de Gobierno se requiere:
+Para ser Secretario de Gobierno, Procurador General de Justicia o Director General, se requiere:
 
 I.- Ser mexicano por nacimiento.
 
 II.- Ser ciudadano del Estado en pleno ejercicio de sus derechos.
 
-III.- Ser originario del Estado y haber tenido residencia en el mismo durante el último año anterior a la fecha de su nombramiento.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1986)</small>
 
-IV.- Ser mayor de treinta años.
+III.- Ser originario del Estado o en su defecto, haber tenido residencia en el mismo durante los diez años anteriores a la fecha de su nombramiento.
 
-V.- No ser ni haber sido ministro de algún culto religioso.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1986)</small>
+
+IV.- Ser mayor de 25 años.
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1986)</small>
+
+V.- No pertenecer al estado eclesiástico ni ser ministro de algún culto.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1986)</small>
+
+En los casos del Secretario de Gobierno y del Procurador General de Justicia, se requiere ser mayor de 30 años y este último tener título de Licenciado en Derecho debidamente registrado y 5 años cuando menos de ejercicio profesional.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 96.
 
-El Secretario General de Gobierno y los Titulares de las demás Dependencias del Ejecutivo serán los órganos de comunicación entre el Gobernador y las autoridades y empleados del Estado, con excepción del Congreso, el Supremo Tribunal y sus Salas, con los cuales llevará la correspondencia el Gobernador.
+Las relaciones entre el Poder Ejecutivo y los Poderes Legislativo y Judicial, se establecerán entre el Gobernador o el Secretario de Gobierno en su caso, y los titulares de dichos poderes.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 97.
 
-Todas las leyes y decretos del Congreso salvo los casos previstos en el artículo 74, deberán ser firmados por el Gobernador y el Secretario General, requisito sin el cual no serán obligatorios. Los reglamentos, acuerdos, órdenes y demás disposiciones del Gobernador, serán firmados por el Secretario General y por el funcionario del ramo a que el asunto corresponda.
+Todas las Leyes o Decretos del Congreso, salvo los casos previstos en el Artículo 74, deberán ser firmados por el Gobernador y el Secretario de Gobierno, requisito sin el cual no serán obligatorios; los Reglamentos, Acuerdos, Ordenes y Circulares y demás disposiciones del Gobernador, serán firmados por el Secretario de Gobierno y por el Director General a que el asunto corresponda o por el Procurador General de Justicia, en su caso.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 98.
 
-Las faltas temporales del Secretario de Gobierno, cuando no excedan de dos meses, serán suplidas por el Oficial Mayor del Poder Ejecutivo.
+Las ausencias temporales del Secretario de Gobierno, cuando no excedan de 60 días, serán suplidas por el Procurador General de Justicia.
 
 ## TITULO IX.
 
@@ -1199,6 +1229,8 @@ El Supremo Tribunal de Justicia funcionará en Acuerdo Pleno y en Salas Unitaria
 
 DE LA SEGURIDAD PUBLICA.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1986)</small>
+
 ###### Art. 106.
 
 Nunca podrán funcionar simultáneamente en el Tribunal dos o más Magistrados que sean parientes consanguíneos dentro del cuarto grado o afines dentro del segundo.
@@ -1229,9 +1261,7 @@ Corresponde al Supremo Tribunal de Justicia:
 
 I.- Iniciar ante el Congreso leyes y decretos, conforme a esta Constitución.
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
-
-II.- Conocer en segunda instancia, de las causas que, por delitos oficiales, se hubieren instruido al Gobernador, Diputados, Magistrados, Secretario General de Gobierno, Procurador de Justicia y Jefes de las demás Dependencias del Ejecutivo.
+II.- (DEROGADA, P.O. 1 DE OCTUBRE DE 1986)
 
 III.- Dirimir los conflictos que surjan entre los Poderes Legislativo y Ejecutivo del Estado, siempre que no sean de carácter político ni de la competencia de la Suprema Corte de Justicia de la Nación.
 
@@ -1337,7 +1367,7 @@ El Ministerio Público estará a cargo de un Procurador General de Justicia, com
 
 ###### Art. 122.
 
-Para poder ser nombrado Procurador General de Justicia o Agente del Ministerio Público, se requieren las mismas condiciones que para ser Magistrado del Supremo Tribunal, o Juez Menor, respectivamente.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 1986)
 
 ###### Art. 123.
 
@@ -1671,7 +1701,7 @@ El Ejecutivo del Estado podrá retirar discrecionalmente, en cualquier tiempo, e
 
 ###### Art. 154.
 
-Para la conservación de la tranquilidad de orden públicos en el Estado, se organizará la competente fuerza de policía, tanto urbana como rural, y las Guardias Municipales, en los términos que establecen las leyes relativas.
+Para la conservación de la tranquilidad y del orden público en el Estado, se organizarán las fuerzas de Policía Estatal y Municipal, en los términos que establezcan las leyes relativas.
 
 ### CAPITULO V.
 
@@ -1733,17 +1763,19 @@ Si el Congreso dejare de expedir en la época oportuna el presupuesto de egresos
 
 ###### Art. 165.
 
-En el lugar de la residencia de los Poderes del Estado habrá una Oficina denominada "Tesorería General", a la que ingresarán, real o virtualmente, todos los caudales públicos pertenecientes al Estado.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 1986)
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 166.
 
-La Tesorería General del Estado estará a cargo de un empleado que se denominará "Tesorero General", el que distribuirá los caudales públicos con estricto arreglo al presupuesto de egresos, y será responsable, personal y pecuniariamente, por los pagos que hiciere u ordenare sin estar comprendidos en dicho presupuesto o autorizados por ley posterior.
+Para el cumplimiento de sus atribuciones, los Poderes Legislativo y Judicial, deberán comunicar oportunamente al Ejecutivo para su estudio, sus requerimientos presupuestales para cada Ejercicio Fiscal.
 
-El Tesorero tendrá derecho de hacer observaciones a las órdenes de pago, cumpliéndolas sin su responsabilidad si el Gobernador insistiere en ellas.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 167.
 
-Cuando estuviere por agotarse alguna asignación en cualquiera partida del presupuesto, el Tesorero deberá dar aviso al Gobernador para que éste promueva lo conveniente.
+Cuando estuviere por agotarse alguna asignación en cualquier partida del Presupuesto, el Director General de Finanzas deberá dar aviso al Gobernador para que este promueva lo conducente.
 
 ###### Art. 168.
 
@@ -1757,13 +1789,17 @@ Toda cuenta de inversión de fondos públicos quedará glosada, a más tardar, d
 
 La Contaduría General expedirá el finiquito de las cuentas que glose del Ejecutivo y de los Ayuntamientos y rendirá informe al Congreso, cada tres meses y por conducto de la comisión respectiva, de las operaciones que hubiere practicado.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1986)</small>
+
 ###### Art. 171.
 
-El Tesorero General y los demás empleados que manejen fondos públicos, afianzarán su manejo en la forma legal.
+El Director General de Finanzas y los demás funcionarios y empleados que manejen, recauden o administren fondos públicos, otorgarán garantía suficiente.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1986)</small>
 
 ###### Art. 172.
 
-Una ley determinará la organización, atribuciones, planta, dotación y lo demás relativo a las oficinas de la Tesorería General del Estado y sus dependencias.
+La Ley determinará las atribuciones de la Dirección General que se encargue de las Finanzas Públicas del Estado.
 
 ###### Art. 173.
 
@@ -1821,7 +1857,9 @@ Tienen fuero:
 
 I.- Del Poder Legislativo, los Diputados al Congreso del Estado.
 
-II.- Del Poder Ejecutivo, el Gobernador del Estado, el Secretario General de Gobierno, el Tesorero General, el Oficial Mayor, el Procurador General de Justicia y los Directores que dependan directamente del Titular del Ejecutivo.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1986)</small>
+
+II.- Del Poder Ejecutivo, el Gobernador del Estado, el Secretario de Gobierno, los Directores Generales y el Procurador General de Justicia.
 
 III.- Del Poder Judicial, los Magistrados del Supremo Tribunal de Justicia del Estado, los Jueces de Primera Instancia, Menores y de Paz.
 
@@ -1925,9 +1963,11 @@ Todos los funcionarios y empleados públicos del Estado y de los Municipios, al 
 
 La ley determinará la fórmula de la protesta y ante quien deba otorgarse, en los casos que esta Constitución no especifique.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1986)</small>
+
 ###### Art. 197.
 
-El Gobernador, los Magistrados, los representantes del Ministerio Público, el Secretario General de Gobierno, el Oficial Mayor, el Abogado Consultor General del Ejecutivo o de la Secretaría, los Jueces, los Defensores de Oficio en materia penal, los Presidentes Municipales y sus Secretarios, los del Supremo Tribunal de Justicia y Juzgados, los Recaudadores de Rentas, los empleados de Hacienda y todos aquellos a quienes se los prohiban las leyes secundarias, no podrán, mientras conserven sus respectivos caracteres, ejercer la abogacía ni la procuración en los Tribunales del Estado, sino en negocio propio, de su cónyuge o de personas que estén bajo su patria potestad; ni actuar como Notarios, a no ser los Jueces que deban hacerlo por Ministerio de la ley.
+La Ley establecerá los casos en que exista conflicto entre el desempeño de la función pública y el ejercicio profesional.
 
 ###### Art. 198.
 
@@ -2050,3 +2090,7 @@ P.O. 31 DE DICIEMBRE DE 1983.
 DECRETO No. 794-83-10-P.E.-BIS
 
 ARTICULO TRANSITORIO.- Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE OCTUBRE DE 1986.
+
+ARTICULO TRANSITORIO.- Las presentes reformas y adiciones entrarán en vigor el día 4 de Octubre de 1986.
