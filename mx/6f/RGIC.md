@@ -4,7 +4,7 @@ identifier: "RGIC"
 country: "mx"
 rank: "reglamento"
 publication_date: "1934-03-20"
-last_updated: "1966-10-21"
+last_updated: "1975-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=586&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "RGIC"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE OCTUBRE DE 1966.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 1975.
 
 Reglamento publicado en el Diario Oficial de la Federación el martes 20 de marzo de 1934.
 
@@ -58,7 +58,7 @@ El quórum para las Juntas Preparatorias de la Cámara de Diputados, se formará
 
 ###### ARTICULO 4º.
 
-Cuando a dicha reunión o a cualquiera otra posterior, concurrieren más de la mitad del número total de los diputados que deben enviar todos los Distritos Electorales y las dos terceras partes del de senadores, se constituirá Junta Preparatoria nombrando entonces una y otra Cámara de entre sus respectivos miembros, en escrutinio secreto y a mayoría de votos, un Presidente, un Vicepresidente y dos Secretarios.
+Cuando a dicha reunión o a cualquiera otra posterior, concurrieren más de la mitad del número total de los diputados que deben enviar todos los Distritos Electorales y las dos terceras partes del de senadores, se constituirá Junta Preparatoria, nombrando entonces una y otra Cámara de entre sus respectivos miembros, en escrutinio secreto y a mayoría de votos, un Presidente, un Vicepresidente y dos Secretarios.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1963)</small>
 
@@ -84,7 +84,7 @@ El Presidente de cada Comisión firmará por su recibo en el libro de control.
 
 ###### ARTICULO 6º.
 
-Dentro de los tres días siguientes a la primera Junta Preparatoria se celebrará la segunda, en la que las dos primeras Comisiones Dictaminadoras de la Cámara de Diputados y las del Senado, iniciarán la presentación de sus dictámenes. Darán preferencia a los casos que a su juicio no ameriten discusión. Las juntas subsecuentes serán diarias.
+Dentro de los tres días siguientes a la primera Junta Preparatoria se celebrará la segunda, en la que las dos primeras Comisiones Dictaminadoras de la Cámara de Diputados y las del Senado, iniciarán la presentación de sus dictámenes. Darán preferencia a los casos que a su juicio no ameriten discusión. Las Juntas subsecuentes serán diarias.
 
 Tratándose de los Diputados de mayoría y de los Senadores los dictámenes serán elaborados unitariamente. En el caso de los Diputados de partido, la Tercera Comisión formulará dictamen por cada Partido Político Nacional que hubiese adquirido el derecho relativo.
 
@@ -112,7 +112,7 @@ Se nombrarán en el mismo día tres comisiones de cinco individuos de las respec
 
 ###### ARTICULO 12.
 
-El día primero de septiembre a las 17 horas, se reunirán las Dos Cámaras en el Salón de Sesiones de la de Diputados para el solo efecto de la apertura del Congreso. Antes de que se presente el Presidente de la República, el Presidente de la Cámara de Diputados, que en ese acto lo es también del Congreso, hará en alta voz la siguiente declaración: "El Congreso (aquí el número que corresponda), de los Estados Unidos Mexicanos, abre hoy (aquí la fecha) el período de Sesiones ordinarias del primero (segundo o tercero) año de su ejercicio."
+El día primero de septiembre a las 17 horas, se reunirán las dos Cámaras en el Salón de Sesiones de la de Diputados para el solo efecto de la apertura del Congreso. Antes de que se presente el Presidente de la República, el Presidente de la Cámara de Diputados, que en ese acto lo es también del Congreso, hará en alta voz la siguiente declaración: "El Congreso (aquí el número que corresponda), de los Estados Unidos Mexicanos, abre hoy (aquí la fecha) el período de Sesiones ordinarias del primero (segundo o tercero) año de su ejercicio."
 
 ###### ARTICULO 13.
 
@@ -256,7 +256,7 @@ Son ordinarias las que se celebren durante los días hábiles de los períodos c
 
 Serán extraordinarias las que se celebren fuera de los períodos constitucionales o en los días feriados, dentro de ellos.
 
-Serán permanentes las que se celebren con este carácter por acuerdo expreso de los miembros presentes de cada Cámara y a efecto de tratar un asunto previamente determinado.
+Serán permanentes las que se celebren con este carácter por acuerdo expreso de los miembros de cada Cámara y a efecto de tratar un asunto previamente determinado.
 
 ###### ARTICULO 29.
 
@@ -312,7 +312,7 @@ El Congreso tendrá sesiones extraordinarias cada vez que la Comisión Permanent
 
 ###### ARTICULO 36.
 
-Cuando se trate de renuncia, licencia o falta absoluta del Presidente de la República, estando el Congreso en sesiones, las Cámaras deberán reunirse en el local de la de Diputados a las nueve de la mañana del día siguiente a aquel en que se reciba la solicitud de renuncia o la nota de licencia, o haya ocurrido la falta aun cuando ese día sea feriado. La reunión de ambas Cámaras en sesión de Congreso de la Unión, para los efectos de los citados artículos 84, 85 y 86 de la Constitución, se verificará sin necesidad de convocatoria alguna y la sesión será dirigida por la mesa de la Cámara de Diputados.
+Cuando se trate de renuncia, licencia o falta absoluta del Presidente de la República, estando el Congreso en sesiones, las Cámaras deberán reunirse en el local de la de Diputados a las nueve de la mañana del día siguiente a aquel en que se reciba la solicitud de renuncia o la nota de licencia, o haya ocurrido la falta aun cuando ese día sea feriado. La reunión de ambas Cámaras en sesión de Congreso de la Unión, para los efectos de los citados artículos 84, 85 y 86 de la Constitución, se verificará sin necesidad de convocatoria alguna y la sesión será dirigida por la Mesa de la Cámara de Diputados.
 
 ###### ARTICULO 37.
 
@@ -330,7 +330,7 @@ A continuación se preguntará si el asunto que se versa es de tratarse en sesi�
 
 ###### ARTICULO 40.
 
-Cuando el Congreso General se reúna en sesiones extraordinarias, se ocupará exclusivamente del objeto u objetos designados en la convocatoria y si no los hubiere llenado el día en que deban abrirse las sesiones ordinarias, cerrará aquellas dejando los puntos pendientes para ser tratados en éstas.
+Cuando el Congreso General se reúna en sesiones extraordinarias, se ocupará exclusivamente del objeto u objetos designados en la convocatoria y si no los hubiere llenado el día en que deban abrirse las sesiones ordinarias, cerrará aquéllas dejando los puntos pendientes para ser tratados en éstas.
 
 ###### ARTICULO 41.
 
@@ -386,13 +386,17 @@ Con igual fin presentará el presupuesto de lo que por sueldos venzan los emplea
 
 Si un miembro de alguna de las Cámaras se enfermase de gravedad, el Presidente respectivo nombrará una comisión de dos individuos que lo visite cuantas veces crea oportuno y dé cuenta de su estado. En caso de que el enfermo falleciese, se imprimirán y distribuirán esquelas a nombre del Presidente de la Cámara y se nombrará una Comisión de seis individuos para que asista a sus funerales, siempre que éstos se verifiquen en el lugar de la residencia del Congreso. Si el diputado o senador falleciere en un lugar fuera de la capital, el Presidente de la Cámara suplicará a alguna autoridad del lugar, que asista a los funerales o designe representante que lo haga. En los recesos del Congreso, corresponde a la Comisión Permanente cumplir con todo lo anterior. Los gastos de funerales serán cubiertos por el tesoro de la Cámara, de acuerdo con lo que establece el artículo 204 de este Reglamento.
 
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 53.
 
-Los Secretarios del Despacho asistirán a las sesiones siempre que fueren enviados por el Presidente de la República o llamados por acuerdo de la Cámara, en los términos que dispone la segunda parte del artículo 93 de la Constitución; sin perjuicio de la libertad que tienen de asistir, cuando quisieren, a las sesiones y, si se discute un asunto de su Secretaría, tomar parte en el debate.
+Los Secretarios del Despacho, los Jefes de los Departamentos Administrativos, los Directores y Administradores de los Organismos Descentralizados Federales o de las Empresas de Participación Estatal Mayoritaria, asistirán a las sesiones siempre que fueren enviados por el Presidente de la República o llamados por acuerdo de la Cámara, en los términos que dispone la segunda parte del Artículo 93 de la Constitución sin perjuicio de la libertad que tienen de asistir, cuando quisieren, a las sesiones y, si se discute un asunto de su Dependencia, tomar parte en el debate.
+
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 54.
 
-Cuando un Secretario del Despacho sea llamado al mismo tiempo por ambas Cámaras, el Presidente de la República podrá acordar que concurra primero a la que sea más necesario o conveniente, y después a la otra.
+Cuando alguno de los funcionarios del Ejecutivo a que se refiere el artículo anterior sea llamado al mismo tiempo por ambas Cámaras, el Presidente de la República podrá acordar que concurra primero a la que sea más necesario o conveniente, y después a la otra.
 
 De la iniciativa de las leyes
 
@@ -404,7 +408,7 @@ I.- Al Presidente de la República;
 
 II.- A los diputados y senadores al Congreso General;
 
-III.- A las legislaturas de los Estados.
+III.- A las Legislaturas de los Estados.
 
 ###### ARTICULO 56.
 
@@ -436,7 +440,7 @@ Ninguna proposición o proyecto podrá discutirse sin que primero pase a la Comi
 
 ###### ARTICULO 61.
 
-Toda petición de particulares, corporaciones o autoridades que no tenga derecho de iniciativa, se mandará pasar directamente por el C. Presidente de la Cámara a la comisión que corresponda, según la naturaleza del asunto de que se trate. Las Comisiones dictaminarán si son de tomarse o no en consideración estas peticiones.
+Toda petición de particulares, corporaciones o autoridades que no tenga derecho de iniciativa, se mandará pasar directamente por el C. Presidente de la Cámara a la comisión que corresponda, según la naturaleza del asunto de que se trate. Las comisiones dictaminarán si son de tomarse o no en consideración estas peticiones.
 
 ###### ARTICULO 62.
 
@@ -574,9 +578,11 @@ Para que haya dictamen de comisión, deberá éste presentarse firmado por la ma
 
 Las Comisiones, por medio de su presidente, podrán pedir a cualesquiera archivos y oficinas de la Nación, todas las instrucciones y copias de documentos que estimen convenientes para el despacho de los negocios, y estas constancias les serán proporcionadas, siempre que el asunto a que se refieran no sea de los que deban conservarse en secreto; en la inteligencia de que la lenidad o negativa a proporcionar dichas copias en plazos pertinentes, autorizará a las mencionadas Comisiones para dirigirse oficialmente en queja al C. Presidente de la República.
 
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 90.
 
-Pueden también las Comisiones, para ilustrar su juicio en el despacho de los negocios que se les encomiende, tener conferencias con los Secretarios de Estado, quienes están obligados a guardar a cualesquiera de los miembros de las Comisiones las atenciones y consideraciones necesarias al cumplimiento de su misión. En el caso de que las Comisiones tuvieren alguna dificultad u obstrucción en el disfrute de esta prerrogativa, están autorizadas para obrar en la forma indicada en el artículo anterior. Las Comisiones de ambas Cámaras pueden también tener conferencias entre sí, para expeditar el despacho de alguna ley u otro asunto importante.
+Pueden también las Comisiones, para ilustrar su juicio en el despacho de los negocios que se les encomienden, tener conferencias con los funcionarios a que se refiere el artículo 53 de este Reglamento, quienes están obligados a guardar a cualesquiera de los miembros de las Comisiones las atenciones y consideraciones necesarias al cumplimiento de su misión. En el caso de que las Comisiones tuvieren alguna dificultad u obstrucción en el disfrute de esta prerrogativa, están autorizadas para obrar en la forma indicada en el artículo anterior. Las Comisiones de ambas Cámaras pueden también tener conferencias entre sí, para expeditar el despacho de alguna ley u otro asunto importante.
 
 ###### ARTICULO 91.
 
@@ -690,9 +696,11 @@ La falta de quórum se establece, cuando es verdaderamente notoria, por una simp
 
 Cuando algún individuo de la Cámara quisiera que se lea algún documento en relación con el debate para ilustrar la discusión, pedirá la palabra para el solo efecto de hacer la moción correspondiente y aceptada que sea por la Cámara, la lectura del documento deberá hacerse por uno de los Secretarios, continuando después en el uso de la palabra el orador.
 
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 114.
 
-Antes de cerrarse en lo general la discusión de los proyectos de ley y en lo particular cada uno de sus artículos, podrán hablar seis individuos en pro y otros tantos en contra, además de los miembros de la Comisión dictaminadora y de los Secretarios de Estado. En los demás asuntos que sean económicos de cada Cámara, bastará que hablen tres en cada sentido, a no ser que ésta acuerde ampliar el debate.
+Antes de cerrarse en lo general la discusión de los proyectos de ley, y en lo particular cada uno de sus artículos, podrán hablar seis individuos en pro y otros tantos en contra, además de los miembros de la Comisión dictaminadora y de los funcionarios a que alude el artículo 53 de este Reglamento. En los demás asuntos que sean económicos de cada Cámara, bastará que hablen tres en cada sentido, a no ser que ésta acuerde ampliar el debate.
 
 ###### ARTICULO 115.
 
@@ -738,29 +746,41 @@ En la sesión en que definitivamente se vote una proposición o proyecto de ley,
 
 Leída por primera vez una adición, y oídos los fundamentos que quiera exponer su autor, se preguntará inmediatamente si se admite o no a discusión. Admitida, se pasará a la Comisión respectiva; en caso contrario, se tendrá por desechada.
 
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 126.
 
-Cuando los Secretarios del Despacho fueren llamados por la Cámara o enviados por el Ejecutivo para asistir a alguna discusión, podrán pedir el expediente para instruirse, sin que por esto deje de verificarse la discusión en el día señalado.
+Cuando los Secretarios de Despacho y demás funcionarios que menciona el artículo 53 reglamentario fueren llamados por la Cámara o enviados por el Ejecutivo para asistir a alguna discusión, podrán pedir el expediente para instruirse, sin que por ésto deje de verificarse la discusión en el día señalado.
+
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 127.
 
-Para los efectos del artículo anterior se pasará oportunamente por las Secretarías de ambas Cámaras a la Secretaría correspondiente del ejecutivo, noticia de los asuntos que vayan a discutirse y que tengan relación con ella, especificando los días señalados para la discusión.
+Para los efectos del artículo anterior, pasará oportunamente por las Secretarías de ambas Cámaras a la Secretaría o Dependencia correspondiente, noticia de los asuntos que vayan a discutirse y que tenga relación con ella, especificando los días señalados para la discusión.
+
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 128.
 
-Antes de comenzar la discusión podrán los Secretarios del Despacho informar a la Cámara lo que estimen conveniente y exponer cuantos fundamentos quieran en apoyo de la opinión que pretendan sostener.
+Antes de comenzar la discusión podrán los funcionarios señalados en el artículo 53 de este Reglamento informar a la Cámara lo que estimen conveniente y exponer cuantos fundamentos quieran en apoyo de la opinión que pretendan sostener.
+
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 129.
 
-Cuando un Secretario de Estado se presente a alguna de las Cámaras, por acuerdo de la misma, se concederá la palabra a quien hizo la moción respectiva, en seguida al Secretario de Estado para que conteste o informe sobre el asunto a debate y posteriormente a los que la solicitaren en el orden establecido en los artículos precedentes.
+Cuando un Secretario de Estado u otro funcionario de los que comprende el artículo 53 Reglamentario se presente a alguna de las Cámaras, por acuerdo de la misma, se concederá la palabra a quien hizo la moción respectiva, en seguida al Secretario de Estado o funcionario compareciente para que conteste o informe sobre el asunto a debate y posteriormente a los que la solicitaren en el orden establecido en los artículos precedentes.
+
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 130.
 
-Cuando algún Secretario de Estado concurra a las Cámaras para informar sobre algún proyecto de ley a discusión o sobre cualquier asunto a debate, ya sea invitado por el Ejecutivo o a iniciativa propia, se concederá primero la palabra al Secretario de Estado presente para que informe a la Cámara lo que estime conveniente y exponga cuantos fundamentos quiera en apoyo de la opinión que pretenda sostener; después se concederá la palabra a los miembros de la asamblea inscritos en la Presidencia en el orden establecido en este Reglamento. Si durante la discusión el Secretario o Secretarios presentes fueren interrogados, podrán contestar entre los debates las interrogaciones de que fueren objeto. Si alguno de los diputados o senadores inscritos en pro quisiere ceder su turno al Secretario de Estado presente se concederá a éste la palabra, sin perjuicio de que al venir la discusión se le permita hablar al Secretario de Estado sobre los puntos versados durante el debate.
+Cuando alguno de los funcionarios a que hace referencia el artículo 53 de este Reglamento concurra a las Cámaras para informar sobre algún proyecto de ley a discusión o sobre cualquier asunto a debate, ya sea invitado por el Ejecutivo o a iniciativa propia, se concederá primero la palabra al funcionamiento (sic) compareciente para que informe a la Cámara lo que estime conveniente y exponga cuantos fundamentos quiera en apoyo de la opinión que pretenda sostener; después se concederá la palabra a los miembros de la Asamblea inscritos en la Presidencia en el orden establecido en este Reglamento. Si durante la discusión el funcionario o funcionarios comparecientes fueren interrogados, podrán contestar entre los debates las interrogaciones de que fueren objeto. Si alguno de los diputados o senadores inscritos en pro quisiese ceder su turno al compareciente, se concederá a éste la palabra, sin perjuicio de que al venir la discusión se le permita hablar sobre los puntos versados durante el debate.
+
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 131.
 
-Los Secretarios del Despacho no podrán hacer proposiciones ni adición alguna en las sesiones. Todas las iniciativas o indicaciones del Ejecutivo deberán dirigirse a la Cámara por medio de oficio.
+Los Secretarios de Despacho y demás funcionarios que menciona el artículo 53 Reglamentario, no podrán hacer proposiciones ni adición alguna en las sesiones. Todas las iniciativas o indicaciones del Ejecutivo deberán dirigirse a la Cámara por medio de oficio.
 
 ###### ARTICULO 132.
 
@@ -986,7 +1006,7 @@ Los empleados y obreros que presten sus servicios al Congreso de la Unión, no s
 
 ###### ARTICULO 178.
 
-Durante los recesos del Congreso, las Comisiones Administrativas de ambas Cámaras, presentarán a la Comisión Permanente, para su examen y aprobación, los Presupuesto de dietas, sueldos y gastos de las mismas, y de sus Secretarías, y la Comisión Inspectora, los de la Contaduría Mayor de Hacienda.
+Durante los recesos del Congreso, las Comisiones Administrativas de ambas Cámaras, presentarán a la Comisión Permanente, para su examen y aprobación, los Presupuesto (sic) de dietas, sueldos y gastos de las mismas, y de sus Secretarías, y la Comisión Inspectora, los de la Contaduría Mayor de Hacienda.
 
 (REFORMADO, D.O.F. 21 DE OCTUBRE DE 1966) (F. DE E., D.O.F. 22 DE OCTUBRE DE 1966)
 
@@ -1004,11 +1024,11 @@ El último día útil de su ejercicio, en cada período la Comisión Permanente 
 
 ###### ARTICULO 181.
 
-Además, en los inventarios correspondientes en el último receso de cada Legislatura, se comprenderán los expedientes que la Comisión Permanente hubiese recibido de las Cámaras al clausurarse sus últimas sesiones ordinarias, para los efectos de la fracción III del artículo 79 de la Constitución.
+Además, en los inventarios correspondientes, en el último receso de cada Legislatura, se comprenderán los expedientes que la Comisión Permanente hubiese recibido de las Cámaras al clausurarse sus últimas sesiones ordinarias, para los efectos de la fracción III del artículo 79 de la Constitución.
 
 ###### ARTICULO 182.
 
-Cuando el Congreso General o una sola de las Cámaras que lo componen, celebre sesión extraordinaria, la Comisión Permanente no suspenderá sus trabajos, sino en aquello que se refiere al asunto para el que se haya convocado a sesión extraordinaria.
+Cuando el Congreso General, o una sola de las Cámaras que lo componen, celebre sesión extraordinaria, la Comisión Permanente no suspenderá sus trabajos, sino en aquello que se refiere al asunto para el que se haya convocado a sesión extraordinaria.
 
 ###### ARTICULO 183.
 
@@ -1104,7 +1124,7 @@ Los tesoreros cobrarán y recibirán de la Tesorería de la Federación, los cau
 
 ###### ARTICULO 203.
 
-Los Tesoreros descontarán de las cantidades que deben entregar como dietas a los diputados y senadores, la suma que corresponda a los días que dejaron de asistir conforme a la orden escrita del Presidente de la Cámara o el de la Permanente. El Presidente de cada Cámara o de la Permanente, en su caso, pasarán oportunamente las listas de asistencia a las sesiones.
+Los Tesoreros descontarán de las cantidades que deben entregar como dietas a los diputados y senadores, la suma que corresponda a los días que dejaron de asistir conforme a la orden escrita del Presidente de la Cámara o de la Permanente. El Presidente de cada Cámara o el de la Permanente, en su caso, pasarán oportunamente las listas de asistencia a las sesiones.
 
 ###### ARTICULO 204.
 
@@ -1219,3 +1239,7 @@ Publíquense las presentes reformas en el "Diario Oficial" de la Federación.
 ###### ARTICULO 2o.
 
 Estas reformas entrarán en vigor, en la misma fecha que las correlativas de los artículos 79, 88 y 135 de la Constitución Política de los Estados Unidos Mexicanos.
+
+D.O.F. 20 DE ENERO DE 1975.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
