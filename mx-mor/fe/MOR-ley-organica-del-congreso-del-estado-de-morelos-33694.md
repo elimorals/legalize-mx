@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-congreso-del-estado-de-morelos-33694"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-27"
-last_updated: "2003-09-17"
+last_updated: "2004-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de agosto de 2003.
 
@@ -609,11 +609,11 @@ Se denominarán Comisiones Ordinarias, las que se constituyan con carácter defi
 
 Las comisiones especiales serán aquellas que se establezcan de manera transitoria, funcionarán en términos de las facultades que el Congreso les otorgue y conocerán específicamente de los hechos que hayan motivado su conformación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE FEBRERO DE 2004)</small>
 
 ###### ARTÍCULO 43.
 
-Las Comisiones se integrarán por al menos tres diputados y su composición deberá reflejar en lo posible la conformación política del Congreso. De los diputados que integren las comisiones, uno será Presidente, podrán ser hasta dos Secretarios y los vocales que se requieran; ningún diputado podrá participar en más de tres comisiones.
+Las Comisiones se integrarán por al menos tres diputados y su composición deberá reflejar en lo posible la conformación política del Congreso. De los diputados que integren las comisiones, uno será Presidente, podrán ser hasta dos Secretarios y los vocales que se requieran; ningún diputado podrá participar en más de cuatro comisiones.
 
 La Presidencia de la Comisión de Hacienda, Presupuesto y Cuenta Pública no podrá ser presidida por el Grupo Parlamentario del partido que haya obtenido la gubernatura del Estado.
 
@@ -651,6 +651,8 @@ Las comisiones contarán con un Secretario Técnico que será nombrado en los t�
 
 Al concluir cada uno de los periodos ordinarios de sesiones, los Presidentes de las comisiones presentarán a la Mesa Directiva un Informe de sus actividades, en el que se incluya una relación de los asuntos dictaminados y pendientes.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 48.
 
 Las Comisiones Ordinarias serán las siguientes:
@@ -669,13 +671,13 @@ Las Comisiones Ordinarias serán las siguientes:
 
 7. Justicia y Derechos Humanos.
 
-8. Trabajo y Previsión Social.
+8. Trabajo, Previsión Social y Fomento Cooperativo.
 
 9. Asuntos de Seguridad Pública.
 
 10. Planeación para el Desarrollo y Asentamientos Humanos.
 
-11. Industria, Comercio, Servicios y Turismo.
+11. Industria, Comercio y Servicios.
 
 12. Salud, Deporte y Bienestar Social.
 
@@ -690,6 +692,16 @@ Las Comisiones Ordinarias serán las siguientes:
 17. Asuntos de la Juventud.
 
 18. Participación Ciudadana.
+
+19. Atención a Grupos Vulnerables y a Personas con Capacidades Diferentes.
+
+20. Fortalecimiento Municipal y Desarrollo Regional.
+
+21. Tránsito, Transportes y Vías de Comunicación.
+
+22. Turismo.
+
+23. Asuntos migratorios.
 
 Y las demás que la Legislatura determine.
 
@@ -813,15 +825,21 @@ VI. Conocer y opinar sobre los asuntos relacionados con la violación a derechos
 
 VII. Conocer y opinar sobre las actividades de readaptación social en el Estado y dictaminar las iniciativas de dicha materia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 56.
 
-La Comisión de Trabajo y Previsión Social tendrá bajo su responsabilidad:
+La Comisión de Trabajo, Previsión Social y Fomento Cooperativo tendrá bajo su responsabilidad:
 
 I. El conocimiento, estudio y dictamen de todos los asuntos referentes a las pensiones de los trabajadores al servicio del Estado y los municipios, así como realizar la investigación correspondiente tendiente a comprobar fehacientemente los datos que acrediten la antigüedad necesaria para el goce de este derecho;
 
 II. Opinar sobre la política laboral y desempeño de los Tribunales Laborales; y
 
 III. Revisar los ordenamientos de previsión y seguridad social y en su caso se promuevan reformas ante el Congreso de la Unión.
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2004)</small>
+
+IV. Conocer y opinar sobre la política cooperativa, así como promover la educación y organización cooperativa en el Estado.
 
 ###### ARTÍCULO 57.
 
@@ -841,19 +859,27 @@ I. Conocer y en su caso recomendar las modificaciones o adiciones al plan estata
 
 II. Participar en los foros de consulta relacionados con la planeación democrática;
 
-III. Conocer y dictaminar sobre la legislación en materia de desarrollo urbano y asentamientos humanos; y
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2004)</small>
+
+III. Conocer y dictaminar sobre la legislación en materia de desarrollo urbano y asentamientos humanos, que no sean competencia de otra comisión; y
 
 IV. Conocer los asuntos relacionados con la creación de centros de población, declaratorias sobre provisiones, reservas, uso y destinos de áreas.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2004)</small>
+
 ###### ARTÍCULO 59.
 
-Corresponde a la Comisión de Industria, Comercio, Servicios y Turismo:
+Corresponde a la Comisión de Industria, Comercio y Servicios:
 
-I. Conocer sobre los asuntos relacionados con la producción, comercio, turismo, abasto y la prestación de servicios;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2004)</small>
 
-II. Conocer y recomendar las modificaciones o adiciones de los planes y proyectos que emprenda el Gobierno del Estado sobre el desarrollo económico, comercial, industrial, de servicios y de turismo; y
+I. Conocer sobre los asuntos relacionados con la producción, comercio, abasto y la prestación de servicios que no sean facultad de otra comisión;
 
-III. Conocer y dictaminar todo lo relacionado con los servicios de transporte.
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2004)</small>
+
+II. Conocer y hacer recomendaciones respecto de las modificaciones o adiciones de los planes y proyectos que emprenda el Gobierno del Estado sobre el desarrollo económico, comercial, industrial y de servicios que no sean facultad de otra comisión; y
+
+III. (DEROGADA, P.O. 25 DE FEBRERO DE 2004)
 
 ###### ARTÍCULO 60.
 
@@ -865,7 +891,9 @@ II. En el ámbito de la competencia estatal, dictaminar sobre la legislación en
 
 III. Conocer de los programas deportivos que coadyuven al mejoramiento de la salud de los morelenses; y
 
-IV. Conocer y dictaminar en su caso, los asuntos relacionados con el cuidado y atención que merecen los grupos vulnerables y especiales de la sociedad.
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2004)</small>
+
+IV. Conocer y dictaminar en su caso, los asuntos relacionados con el cuidado y atención que merecen la familia y los menores de edad.
 
 ###### ARTÍCULO 61.
 
@@ -940,6 +968,94 @@ II. Conocer los mecanismos institucionales e institucionalizados para facilitar 
 III. Turnar a las dependencias correspondientes del Gobierno del Estado y los municipios, las demandas de los ciudadanos; y
 
 IV. Los relacionados con el otorgamiento de premios, estímulos y recompensas al mérito ciudadano.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 66 Bis 1.
+
+Corresponde a la Comisión de Atención a Grupos Vulnerables y a Personas con Capacidades Diferentes:
+
+I. Analizar y dictaminar, en su caso, sobre la legislación relacionada con las personas con capacidades diferentes, que no sean materia de otra Comisión;
+
+II. Conocer y dictaminar en su caso, los asuntos relacionados con el cuidado y atención que merecen los grupos vulnerables y las personas con capacidades diferentes;
+
+III. Conocer e impulsar acciones que conlleven a la realización de planes y programas que contribuyan a mejorar la inserción productiva en la sociedad de las personas con capacidades diferentes, para garantizar una situación de vida más digna a estos grupos;
+
+IV. Promover la coordinación entre los niveles federal, estatal y municipal, así como, con las instituciones y organizaciones especializadas que brindan servicios de promoción y atención a personas con capacidades diferentes;
+
+V. Organizar foros de consulta, a efecto de recibir y realizar propuestas que tiendan a mejorar la aplicación o adecuación de la legislación en materia de personas con capacidades diferentes y lograr el cumplimiento de sus objetivos; y
+
+VI. Conocer y dictaminar en su caso, los demás asuntos que le turne el Presidente del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 66 Bis 2.
+
+Corresponde a la Comisión de Fortalecimiento Municipal y Desarrollo Regional:
+
+I. Conocer y dictaminar sobre los asuntos de carácter municipal y regional que no sean competencia de otra comisión;
+
+II. Conocer de los asuntos encaminados a coadyuvar en la capacitación y actualización a los integrantes de los ayuntamientos, sobre las atribuciones que las leyes les señalen;
+
+III. Promover la corresponsabilidad entre gobierno municipal y sociedad para el logro de los objetivos municipales;
+
+IV. Contribuir a una mayor participación municipal en los programas de desarrollo regional;
+
+V. Contribuir al fortalecimiento y autonomía municipal;
+
+VI. Promover la coordinación y colaboración entre dos o más ayuntamientos y entre éstos y los gobiernos estatal y federal, así como con otras instancias de gobierno y de la sociedad, para elaborar y ejecutar planes, programas, obras y servicios de interés regional; y
+
+VII. Conocer de los demás asuntos que le sean turnados.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 66 Bis 3.
+
+Corresponde a la Comisión de Tránsito, Transportes y Vías de Comunicación:
+
+I. Conocer y dictaminar sobre las iniciativas en materia de tránsito, transporte y vialidad en el Estado;
+
+II. Promover las iniciativas o acciones para consolidar la estructura del transporte público de pasajeros y de carga;
+
+III. Emitir opinión sobre los programas de expansión y mejoramiento del transporte público implementados por el Ejecutivo del Estado;
+
+IV. Recibir las propuestas de los prestadores del servicio del transporte público para la actualización del marco jurídico que regula esta actividad;
+
+V. Promover la celebración de convenios con las autoridades federales, del Estado, sus municipios o de otras entidades federativas, en materia de sistemas de tránsito, control de vehículos, de conductores y de transportes, cuando se trate de servicios en que tenga interés el Estado y coadyuve a la solución de conflictos en la materia;
+
+VI. Emitir opinión y en su caso impulsar ante el Pleno acuerdos para fijar postura en relación a las tarifas por el servicio público de transporte concesionado;
+
+VII. Conocer de los demás asuntos que le sean turnados.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 66 Bis 4.
+
+Corresponde a la Comisión de Turismo;
+
+I. Conocer y dictaminar sobre las iniciativas en materia de turismo;
+
+II. Conocer los asuntos que se relacionen con los programas y acciones que contribuyan al desarrollo de la actividad turística;
+
+III. Emitir opinión sobre los programas que se relacionen con la infraestructura turística; y
+
+IV. Las demás que le sean turnadas por la Mesa Directiva del Congreso.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2004)</small>
+
+###### ARTÍCULO 66 Bis 5.
+
+Corresponde a la Comisión de Asuntos Migratorios:
+
+I. Conocer y dictaminar aquellas iniciativas en donde se encuentren involucrados derechos y obligaciones de los migrantes;
+
+II. Impulsar acciones ante el Gobierno del Estado de Morelos, que coadyuven al bienestar y prosperidad de las familias de los migrantes;
+
+III. Atender y dar seguimiento ante las instancias públicas Federal, Estatal y Municipal, así como privadas y sociales, a la problemática que en materia de educación, salud, cultura y desarrollo presenten los morelenses migrados y sus familiares residentes en el territorio estatal;
+
+IV. Realizar foros y estudios sobre las causas de migración de los morelenses y proponer las medidas para la atención de éstas; y
+
+V. Todos aquellos asuntos en la materia que le sean turnados.
 
 ### CAPÍTULO IV. DE LOS COMITÉS DEL CONGRESO DEL ESTADO
 
@@ -1095,7 +1211,9 @@ III. Supervisar y vigilar el cumplimiento, y en su caso, ejecutar las políticas
 
 IV. Imprimir, publicar y distribuir el Semanario de los Debates y los documentos que requieran su difusión y publicación por el Congreso del Estado;
 
-V. Informar trimestralmente a la Conferencia para la Dirección y Programación de los Trabajos Legislativos, sobre el cumplimiento de las políticas, lineamientos y acuerdos adoptados por ésta y respecto al desempeño en la prestación de los servicios parlamentarios;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2004)</small>
+
+V. Imprimir, publicar y distribuir el Semanario de los Debates y los documentos que requieran su difusión y publicación por el Congreso del Estado, así como atender y gestionar de acuerdo con el Consejo de Información Clasificada, las solicitudes de acceso a la información y todas las solicitudes que se realicen en ejercicio de la acción de habeas data y proporcionar de manera directa o por medio de la Dirección para la Transparencia y el Acceso a la Información Pública, la información, documentos y expedientes que requiera el Instituto Morelense de Información Pública y Estadística y poner a disposición del público, difundir y actualizar la información establecida en la Ley de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos;
 
 VI. Formular y presentar al Secretario General de Servicios Administrativos y Financieros su programa operativo anual, incorporando los proyectos de las comisiones legislativas;
 
@@ -1282,3 +1400,35 @@ El presente Decreto iniciará su vigencia en la misma fecha de su expedición.
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto al Titular del Poder Ejecutivo para los efectos a que se refieren los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 25 DE FEBRERO DE 2004.
+
+DECRETO NO. 124, QUE REFORMA LOS ARTICULOS 43, 48, 58, 59 y 60 DE LA LEY ORGANICA DEL CONGRESO DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su aprobación por el Congreso del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para la integración de las Comisiones Ordinarias que se crean por virtud del presente Decreto, la Junta de Coordinación Política de este Congreso deberá presentar a la Asamblea Legislativa la propuesta respectiva antes de la conclusión del Primer Periodo de Sesiones Ordinarias del Primer Año de Ejercicio Constitucional de esta XLIX Legislatura; en tanto dichas comisiones son integradas, los asuntos que se reciban por este Congreso y que correspondan a materias de sus respectivas atribuciones, quedarán en reserva en la Secretaría General de Servicios Legislativos y Parlamentarios, la que los integrará a la Comisión respectiva, al encontrarse ésta debidamente integrada e instalada.
+
+###### ARTÍCULO TERCERO.
+
+Las Comisiones Legislativas a las cuales se les hayan turnado asuntos que con motivo del presente Decreto sean facultad de alguna de las Comisiones Ordinarias creadas, deberán de continuar con el trámite o proceso legislativo correspondiente hasta su conclusión.
+
+###### ARTÍCULO CUARTO.
+
+Remítase el presente decreto al Gobernador Constitucional del Estado, para los efectos de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 25 DE FEBRERO DE 2004.
+
+DECRETO NO. 125, QUE REFORMA EL ARTICULO 81 DE LA LEY ORGANICA DEL CONGRESO DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su aprobación.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
