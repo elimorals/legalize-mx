@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "1998-10-31"
+last_updated: "2000-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2000.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -75,11 +75,99 @@ ART. 16.- La ignorancia de las leyes debidamente publicadas no sirve de excusa y
 
 ## TITULO PRIMERO. De las Personas Físicas
 
-ART. 17.- Son personas físicas los individuos, quienes adquieren la capacidad jurídica por el nacimiento y la pierden por la muerte; pero desde el momento en que un individuo es concebido, entra bajo la protección de la ley y se le tiene por nacido para los efectos expresamente declarados en el presente Código.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 18.- Las incapacidades establecidas por la ley, sólo son restricciones a la personalidad jurídica; pero los incapaces pueden ejercitar sus derechos o contraer obligaciones por medio de sus representantes.
+ART. 17.- La personalidad jurídica es uno de los atributos de la persona física, se adquiere por el nacimiento viable y se extingue por la muerte, pero desde el momento en que el ser humano es concebido, entra bajo la protección de la ley y se le tiene por nacido para todos los efectos legales.
 
-ART. 19.- El mayor de edad puede disponer libremente de su persona y de sus bienes, salvo las limitaciones establecidas por la ley.
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 17.1.- Sólo a la ley le corresponde regular la capacidad e incapacidad de las personas.
+
+Habrá capacidad de goce, cuando se tiene la aptitud para adquirir derechos y contraer obligaciones y, capacidad de ejercicio cuando se tiene la aptitud para ejercitar los derechos y cumplir las obligaciones.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 17.2. Las incapacidades establecidas por la ley, sólo son restricciones a la personalidad jurídica, pero los incapaces pueden ejercitar sus derechos y contraer obligaciones por medio de sus representantes.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 17.3.- El mayor de edad y los menores emancipados pueden disponer libremente de su persona y de sus bienes, salvo las limitaciones establecidas por la ley.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 18.- Los derechos de personalidad son:
+
+Esenciales, en cuanto garantizan el desarrollo individual y social, así como la existencia digna y reconocida del ser humano;
+
+Personalísimos, en cuanto a que por ellos alcanza su plena individualidad la persona humana;
+
+Originarios, ya que se dan por el sólo nacimiento de la persona, sin importar el estatus jurídico que después pueda corresponder a la misma;
+
+Innatos, ya que su existencia no requiere de reconocimiento jurídico alguno;
+
+Sin contenido patrimonial, en cuanto que no son sujetos de valorización pecuniaria;
+
+Absolutos, porque no es admisible bajo ningún concepto su disminución ni su confrontación y valen frente a todas las personas;
+
+Inalienables, porque no pueden ser objeto de enajenación;
+
+Intransferibles, por que son exclusivos de su titular y se extinguen con la muerte;
+
+Imprescriptibles, porque no se pierden por el transcurso del tiempo; e
+
+Irrenunciables, por que ni siquiera la voluntad basta para privar su eficacia.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 19.- El nombre de las personas físicas se forma con el nombre propio y sus apellidos.
+
+El nombre propio, será impuesto por quien declare el nacimiento de una persona, respetando la voluntad de los progenitores, pudiendo ser simple o compuesto y los apellidos serán el del padre y el de la madre o, en su caso, sólo los de aquél o los de ésta en el supuesto de reconocimiento por separado.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 19.1.- Si al hacer el registro no se sabe quienes son los padres, el nombre propio y los apellidos serán puestos por quien lo presenta o en su defecto por el Oficial del Registro Civil.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 19.2.- No estará permitido el cambio de nombre a persona alguna.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 19.3.- Se exceptúa de lo dispuesto en el artículo que antecede:
+
+I.- Cuando el nombre propio puesto a una persona le cause afrenta;
+
+II.- En los casos de desconocimiento, reconocimiento de la paternidad o maternidad y de adopción;
+
+III.- En el caso de homonimia, que le cause un perjuicio, podrá pedirse al juez competente del lugar donde esté asentada el acta de nacimiento, se autorice transformar el primero de los apellidos de simple a compuesto o de compuesto a simple, y
+
+IV.- Cuando alguien hubiere sido conocido con nombre diferente al que aparece en su acta de nacimiento.
+
+Declarado el cambio de nombre por sentencia ejecutoriada, se asentará el mismo en el acta de nacimiento, subsistiendo en los libros del Registro Civil, el nombre de la persona que primeramente se haya asentado.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 19.4.- La mujer casada podrá agregar a su nombre de soltera y anteponiendo la preposición "de" uno o dos apellidos de su marido.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 19.5.- El uso del apellido conyugal, subsistirá por todo el tiempo que se conserve el vínculo matrimonial o cuando ocurra la viudez.
+
+No se podrá utilizar dicho apellido en los casos de divorcio o de ilegitimidad del matrimonio.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 19.6.- Rúbrica es la expresión gráfica que estampa una persona, para dejar constancia de su voluntad en el documento que con su persona está referido.
+
+Esta expresión gráfica es libre y solamente se presumirá como auténtica, para efectos de cotejo y comprobación, aquella que se estampe en presencia de fedatarios públicos o con motivo de funciones oficiales.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 19.7.- La manuscripción y el estampar las huellas digitales constituyen conjunta o separadamente otras formas de identificar a sus autores por medio de los métodos científicos.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 19.8.- La persona que no sepa o no pueda firmar o escribir, estampará cuando menos como medio de identificación, su huella digital, debiendo hacerlo ante dos testigos o ante fedatario público.
 
 ## TITULO SEGUNDO. De las Personas Morales
 
@@ -131,77 +219,103 @@ ART. 27.- Se tiene derecho de designar un domicilio convencional para el cumplim
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 28.- El Registro Civil es la Institución de carácter públiico (sic) y de interés social por el cual el Estado inscribe y da publicidad de los actos constitutivos o mdificativos (sic) del estado civil de las personas físicas en lo que corresponde a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, emancipación y muerte de los mexicanos y de los extranjeros residentes en el Territorio del Estado; de los actos del estado civil de los mexicanos efectuados en el extranjero; así como la inscripción de las sentencias ejecutorias que ordenen la rectificación de los asientos, declaren la ausencia, la presunción de muerte o pérdida de capacidad para administrar bienes, y los demás que así lo exijan las leyes.
+ART. 28.- El Registro Civil es la institución de orden público, por medio del cual el Estado inscribe, autentifica y da publicidad a todo lo relativo al estado civil de las personas; este sólo se comprueba con las copias certificadas de las actas del Registro Civil. Ningún otro medio de prueba es admisible para comprobarlo, salvo los casos expresamente exceptuados por la ley o cuando materialmente resulte imposible su demostración.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 29.- El Registro Civil, mediante la inscripción de los actos constitutivos o modificativos del estado civil de las personas, hará que surtan efectos contra terceros, o que hagan prueba plena en todo lo que el Oficial del Registro Civil, en el desempeño de sus funciones de fe de haber pasado en su presencia, sin perjuicio de las acciones que en contrario concedan las leyes.
+ART. 29.- El Registro Civil estará constituido por la Dirección del mismo, su archivo estatal y las oficialías que sean necesarias para el cumplimiento eficaz de su función. El número y ubicación de las oficialías, se determinará de acuerdo a las circunstancias socioeconómicas del lugar, sus distancias, medios de comunicación y distribución de la población.
 
-Las declaraciones de los comparecientes hechas en cumplimiento de lo establecido por este Código hacen fe hasta que se pruebe lo contrario.
+La titularidad de las oficinas del Registro Civil estará a cargo de funcionarios denominados Oficiales del Registro Civil, quienes preferentemente serán abogados y deberán además cubrir los requisitos que señale el ordenamiento respectivo, correspondiéndoles autorizar los actos del estado civil y expedir constancia de las actas relativas a los casos a que se refiere el artículo 28 de éste Código.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 30.- El Registro Civil está constituído por la Dirección General del mismo, su Archivo Estatal y las Oficialías que determine el reglamento respectivo.
+ART. 30.- Los oficiales tendrán fe pública en el desempeño de las labores propias de su cargo y sólo asentarán en las actas lo que deba ser declarado en el acto preciso a que ellas se refieren y lo que esté expresamente previsto por la ley.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
+Será objeto de inscripción en el registro civil, el nacimiento, reconocimiento de hijos, matrimonio, defunción, sentencias ejecutorias que declaren la ausencia, la presunción de muerte, la tutela, la pérdida o la limitación de la capacidad legal para administrar bienes, nulidad de matrimonio, divorcio, adopción, nulidad de reconocimiento de hijo y las dictadas en las informaciones testimoniales para acreditar hechos relativos al nacimiento de los mexicanos, de actas de los extranjeros residentes en el territorio del Estado, así como de los actos del estado civil de los mexicanos efectuados en el extranjero.
 
-ART. 31.- En el Estado de San Luis Potosí, estará a cargo de los Oficiales del Registro Civil, o quienes ejerzan sus funciones, en su caso, autorizar los actos del estado civil y expedir constancias de las actas relativas a los casos a que se refiere el Artículo 28 de este Código.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
+ART. 31.- Los oficiales del Registro Civil llevarán seis libros que se denominarán "Registro Civil" y que contendrán: el primero, actas de nacimiento y reconocimiento de hijos; el segundo, actas de adopción, el tercero, actas de matrimonio y divorcio; el cuarto, actas de tutela, emancipación y habilitación de edad; el quinto, actas de defunción y muertes fetales; el sexto, las inscripciones de las ejecutorias relacionadas con el estado civil de las personas.
 
-ART. 32.- Las actas a que se refiere el Artículo 28, se asentarán en formas especiales, que se denominarán "Formas de Registro Civil", las que una vez utilizadas se encuadernarán en volúmenes que correspondan al año a que se refieran.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-Las inscripciones se harán mecanográficamente y por cuadruplicado.
+ART. 32.- Las actas a que se refiere el artículo 28, se asentarán en formas especiales suministradas por la Dirección del Registro Civil, que se denominarán "formatos del Registro Civil", las que una vez utilizadas se encuadernarán en volúmenes que correspondan al año a que se refieran.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
+Las inscripciones se harán en manuscrito, mecanográficamente o por cualquier otro medio aportado por la ciencia o la tecnología.
 
-ART. 33.- Los Oficiales del Registro Civil o quienes ejerzan sus funciones, tendrán fe pública en el desempeño de las labores propias de su cargo.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
+ART. 33.- Para asentar los actos a que se refiere el artículo 31 de este Código, habrá los formatos necesarios que serán expedidos de acuerdo al número que se requiera por la Dirección del Registro Civil. Un ejemplar del acta se entregará al interesado.
 
-ART. 34.- En las actas del Registro Civil intervendrán el Oficial del Registro Civil o funcionario que deba autorizarlas, los particulares interesados o sus representantes legales, en su caso, así como los testigos que deban concurrir; las actas deberán ser firmadas en el espacio correspondiente en las que además se imprimirá el sello de la Oficialía que corresponda.
+Las actas correspondientes al Archivo General y a la Oficialía se integrarán en libros, de acuerdo a su contenido, enumerándolas progresivamente.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 35.- Las formas del Registro Civil serán suministradas por la Dirección del Registro Civil, de acuerdo con las necesidades que en número se requieran.
+ART. 34.- En las actas del Registro Civil intervendrán el Oficial del Registro Civil o funcionario que deba autorizarlas, los particulares interesados o sus representantes legales, en su caso, así como los testigos que intervengan en las actas del estado civil, quienes serán mayores de edad, prefiriéndose a los que designen los interesados, aún cuando sean sus parientes; las actas deberán ser firmada (sic)en el espacio correspondientes en las que además se imprimirá el sello de la Oficialía que corresponda.
 
-De las actas que se levanten en las formas mencionadas, los Oficiales del Registro Civil, entregarán una copia de ellas al interesado, el original quedará en al (sic) archivo de la Oficialía, y dos se remitirán a la Dirección del Registro Civil para que conserve una y la otra la envíe a la Dirección General del Registro Nacional de Población de la Secretaría de Gobernación.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
+ART. 35.- La elaboración de las actas de nacimiento, matrimonio, defunción y los asentamientos de los actos celebrados por mexicanos en el extranjero será por quintuplicado, las demás actas se levantarán por cuadruplicado; debiendo contener la Clave Unica del Registro de Población.
 
-ART. 36.- Las actas del Registro Civil se concretarán exclusivamente al acto o hecho que correspondan y en ellas se hará mención del parentesco de quienes intervienen en relación con los interesados o sujetos de las mismas, en su caso, de acuerdo con las formas impresas que al efecto se establezcan.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
+ART. 36.- Las actas del Registro Civil se concretarán exclusivamente al acto o hecho que corresponda y en ellas se hará mención del parentesco de quienes intervienen en relación con los interesados o sujetos de las mismas en su caso.
 
-ART. 37.- Si se perdiere o destruyere alguna de las formas del Registro Civil se sacará inmediatamente copia de alguno de los otros ejemplares, bajo la responsabilidad del Oficial y del Director del Registro Civil, para cuyo efecto, el funcionario titular de la Oficialía donde ocurra la pérdida, dará el aviso correspondiente a la Dirección, así como al Ministerio Público.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
+ART. 37.- Si se perdiere o destruyere total o parcialmente alguno de los libros del registro, el Oficial del Registro Civil que tuviere a su cargo el libro perdido o destruido, inmediatamente sacará copia del otro ejemplar que se encuentra en el Archivo de la Dirección.
 
-ART. 38.- En relación con las actas del Registro Civil, se formará un apéndice, constituído por los documentos a que se refieren aquéllas, toda persona puede solicitar certificación de las actas y de los documentos del apéndice.
+Si la pérdida o la destrucción ocurriera en la Dirección del Registro Civil, el Director ejecutará la reposición, del libro que existiere.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
+El Director del Registro Civil o el Oficial del mismo dará aviso inmediatamente de la pérdida o destrucción al Ministerio Público.
 
-ART. 39.- El estado civil de las personas sólo se comprueba con las constancias relativas del Registro Civil. Ningún otro medio de prueba es admisible para comprobarlo, salvo los casos expresamente exceptuados por la Ley.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 38.- Cada Oficialía tendrá su propio apéndice del archivo, que estará integrado por todos los documentos relacionados con el acta formulada. Los documentos del apéndice estarán relacionados con el acta respectiva al igual que las actas lo estarán con éstos. Toda persona puede solicitar certificación de las actas y de los documentos del apéndice.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 39.- La falsificación de las actas y la inserción en ellas de circunstancias o declaraciones prohibidas por la ley, causarán la destitución del Oficial del Registro Civil, sin perjuicio de las sanciones de carácter penal a que se hubiese hecho acreedor.
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
 ART. 40.- Los vicios o defectos que por error u omisión, existan en las actas y de ellos sean atribuibles al Oficial del Registro, se podrán corregir a petición de parte interesada, mediante procedimiento administrativo seguido en la Dirección del Registro Civil, conforme lo señale el reglamento respectivo; pero cuando no sean substanciales, no producirán la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
 
-La enmienda o corrección se hará mediante anotación marginal en el acta de que se trate.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 3 DE OCTUBRE DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
+Sin perjuicio de lo dispuesto en el párrafo precedente, las actas del Registro Civil podrán ser aclaradas ante el propio oficial del Registro Civil, cuando existan errores mecanográficos u ortográficos manifiestos, entendiéndose por éstos los que se desprendan fehacientemente de la sola lectura de la inscripción correspondiente y de los demás actos del Registro Civil relacionados.
 
-ART. 41.- Cuando no hayan existido registros, se hubieren perdido, estuvieren ilegibles o faltaren las actas en que se pueda suponer se encontraba la inscripción, se podrá recibir prueba del acto por instrumentos o testigos; pero si una sola de las actas del Registro se hubiere inutilizado y existan los otros ejemplares, de éstos deberá tomarse la prueba sin admitirla de otra clase.
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+La aclaración se hará previa autorización por escrito otorgada por el Director del Registro con vista al Ministerio Público, debiendo hacerse la anotación marginal en el acta de que se trate. Si el Ministerio Público se opone cesará el procedimiento administrativo.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+La infracción de lo antes previsto se sancionará con la destitución del Oficial del Registro Civil, sin perjuicio de la responsabilidad civil y penal en que se incurra.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+El Director del Registro Civil o el oficial del mismo, podrán utilizar un libro auxiliar de márgenes.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 41.- Sólo para el caso de que no existan duplicados o cuando no hayan existido registros, se podrá recibir prueba del acto, y previo el trámite judicial correspondiente, se hará la inscripción respectiva.
+
+Tratándose de nacimientos no registrados, el oficial del Registro Civil hará la inscripción si el menor no excede de los siete años, debiendo al efecto exhibirse el certificado médico legal.
+
+El titular del Ejecutivo del Estado, por medio del Registro Civil, podrá autorizar la inscripción de nacimientos hasta la edad de catorce años por motivos graves, causas de fuerza mayor o en campañas de beneficio social, debiéndose acreditar esa edad mediante la exhibición del certificado médico legal.
+
+Tratándose de personas mayores de esa edad, el registro del nacimiento se regirá por las disposiciones contenidas en éste Código y ordenamientos complementarios.
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
 ART. 42.- Cuando los interesados no puedan concurrir personalmente ante el Oficial del Registro Civil, podrán solicitar que éste acuda al lugar donde se encuentren o podrán hacerse representar por mandatario especial con facultades expresas para el acto, mediante poder otorgado en escritura pública. El reconocimiento de hijos fuera de matrimonio sólo podrá hacerse personalmente.
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 43.- Para acreditar el estado civil adquirido por los mexicanos fuera de la República, bastarán las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto por el Código Federal de Procedimientos Civiles, en cuanto a su legalización, debiendo inscribirse estos actos en la Oficialía correspondiente.
+ART. 43.- Para acreditar el estado civil adquirido por los mexicanos fuera de la república, bastarán las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto por las leyes en cuanto a su legalización, debiendo inscribirse estos actos en la Oficialía correspondiente.
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 1990)</small>
 
@@ -241,7 +355,9 @@ ART. 53.- La madre no tiene derecho de dejar de reconocer a su hijo. Tiene oblig
 
 Queda absolutamente prohibido asentar en el acta, que el hijo es natural o nacido fuera del matrimonio.
 
-ART. 54.- Si el padre o la madre no pudieren concurrir, ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos, la presencia del oficial del registro, éste pasará al lugar en que se halle el interesado, y allí recibirá de él la petición de que se mencione su nombre; todo lo cual se asentará en el acta.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 54.- Si el padre o la madre no pudieren concurrir, ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos por sí o por interpósita persona, la presencia del oficial del Registro Civil, este pasará al lugar en que se halle el interesado, y allí recibirá de él la partición de que se mencione su nombre; todo lo cual se asentará en el acta.
 
 ART. 55.- Si el hijo fuere adulterino, podrá asentarse el nombre del padre, casado o soltero, si lo pidiere; pero no podrá asentarse el nombre de la madre cuando sea casada y viva con su marido, a no ser éste haya desconocido al hijo y exista sentencia ejecutoria que declare que no es hijo suyo.
 
@@ -251,9 +367,13 @@ No se expresará en el acta que el hijo es adulterino.
 
 ART. 56.- Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna, podrá el oficial del registro asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
 
-ART. 57.- Los padres de un hijo incestuoso podrán reconocerlo y hacer que consten sus nombres en el acta, pero no se expresará que es incestuoso.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 58.- Toda persona que encontrare un recién nacido, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al oficial del registro civil, con los vestidos, papeles o cualesquiera otros objetos encontrados con él, y declarará el día y lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido.
+ART. 57.- Los padres de un hijo producto de una relación incestuosa podrán reconocerlo y hacer que consten sus nombres en el acta, pero no se expresará en la misma que el hijo es incestuoso.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 58.- Toda persona que encontrare un recién nacido, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al oficial del Registro Civil o al Sistema para el Desarrollo Integral de la Familia, con los vestidos, papeles o cualesquiera otros objetos encontrados con él, y declarará el día y lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido.
 
 ART. 59.- La misma obligación tienen los jefes, directores o administradores de las prisiones o de cualquiera casa de comunidad, especialmente los de los hospitales, casas de maternidad e inclusas, respecto de los niños nacidos o expuestos en ellas.
 
@@ -261,7 +381,9 @@ ART. 60.- En las actas que se levanten en estos casos, se expresarán con especi
 
 ART. 61.- Si con el expósito se hubieren encontrado papeles, alhajas u otros objetos que puedan conducir al reconocimiento permitido de aquél, se depositarán en el archivo del registro, mencionándolos en el acta y dando formal recibo de ellos al que recoja al niño.
 
-ART. 62.- Se prohibe absolutamente al oficial del registro civil y a los testigos que conforme al artículo 51 deben asistir al acto, hacer inquisición sobre la paternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten al niño, aunque parezcan sospechosas de falsedad; sin perjuicio de que ésta sea castigada conforme a las prescripciones del Código Penal.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 62.- Se prohíbe absolutamente al oficial del Registro Civil y a los testigos que conforme al articulo 51 deben asistir al acto, hacer inquisiciones sobre la paternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten al niño, aunque parezcan sospechosas de falsedad, debiendo dar aviso, en tal caso, al Ministerio Público.
 
 ART. 63.- (DEROGADO, P.O. 15 DE JULIO DE 1976)
 
@@ -275,9 +397,9 @@ ART. 67.- Si el nacimiento aconteciere durante un viaje por tierra, podrá regis
 
 ART. 68.- Si al dar el aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de fallecimiento, en los libros respectivos.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 69.- Cuando en un mismo parto se produzca más de un nacimiento, se asentará por separado el nombre de cada uno de los nacidos, siguiendo un orden progresivo de nacimiento.
+ART. 69.- Cuando se trate de un parto múltiple se levantará un acta por cada uno de los nacidos, haciendo constar las particularidades que los distingan, siguiendo el orden progresivo del nacimiento, según la información que proporcionen las personas que hayan asistido al parto.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MAYO DE 1977)</small>
 
@@ -287,19 +409,27 @@ ART. 69.- Cuando en un mismo parto se produzca más de un nacimiento, se asentar
 
 ART. 70.- Si el padre o la madre de un hijo sin estar unidos en matrimonio civil, o ambos, lo reconocieren al presentarlo dentro del término de Ley para que se registre su nacimiento, el acta contendrá los requisitos establecidos en los artículos anteriores, los generales del progenitor o progenitores que lo reconozcan, así como el nombre de los abuelos respecto del padre o la madre que aparezcan en el acta. Esta acta surtirá los efectos del reconocimiento.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 1977)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 71.- Si el reconocimiento del hijo se hiciere después de haber sido registrado su nacimiento, se formará acta separada, en la que además de los requisitos a que se refiere el artículo que precede, se hará constar la declaración del reconocimiento de quien lo haga, y el consentimiento del reconocido si es mayor de 14 años. Si es menor de esta edad, el consentimiento lo dará quien ejerza la patria potestad y en todo caso el Ministerio Público.
+ART. 71.- Si el reconocimiento del hijo se hiciere después de haber sido registrado su nacimiento, se formará acta separada, en la que además de los requisitos a que se refiere al artículo que precede, se hará constar la declaración del reconocimiento de quien lo haga, y el consentimiento del reconocido si es mayor de edad. Si es menor de edad, el consentimiento lo dará quien ejerza la patria potestad o la custodia y en oposición de estos, el Ministerio Público.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 1977)</small>
 
 En estas actas queda prohibido expresar que el hijo es natural o nacido fuera de matrimonio.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 1977)</small>
+
 Lo mismo se observará cuando se haya omitido la presentación para el registro del nacimiento del hijo, o esta presentación se haya hecho fuera del término de Ley.
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 1977)</small>
 
 Cuando se observe que en una acta, aún las no autorizadas, se hace mención de cualquiera de las expresiones prohibidas por este Código, se testarán éstas por el Oficial del Registro Civil, de oficio o a petición de parte, de tal manera que queden absolutamente ilegibles, advirtiéndose al final del acta la causa por la que se hace.
 
 ART. 72.- Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará, dentro del término de quince días, al encargado del registro el original o copia certificada del documento que lo compruebe, observándose las demás prescripciones contenidas en este capítulo y en el capítulo IV del título séptimo de este libro.
 
-ART. 73.- La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en una multa de veinte a cien pesos, que impondrá y hará efectiva el juez ante quien se haga valer el reconocimiento.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 73.- La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión quedarán sujetos a la sanción establecida en las disposiciones legales aplicables, la cual será impuesta por el juez ante quien se haga valer el reconocimiento.
 
 ART. 74.- En el acta de reconocimiento hecho con posterioridad al acta de nacimiento, se hará mención de ésta, poniendo en ella la anotación marginal correspondiente.
 
@@ -307,7 +437,7 @@ ART. 75.- Si el reconocimiento se hiciere en oficina distinta de aquélla en que
 
 ### CAPITULO IV. De las Actas de Adopción
 
-ART. 76.- Dictada la resolución judicial definitiva que autorice la adopción, el adoptante, dentro del término de ocho días, presentará al oficial del registro civil copia certificada de las diligencias relativas, a fin de que se levante el acta correspondiente.
+ART. 76.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
 
 ART. 77.- La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el artículo 73.
 
@@ -319,25 +449,25 @@ ART. 79.- Extendida el acta de la adopción, se anotará la de nacimiento del ad
 
 ART. 80.- El juez o tribunal que resuelva que una adopción queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al oficial del registro civil, para que cancele el acta de adopción y anote la de nacimiento.
 
-### CAPITULO V. De las Actas de Tutela
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 81.- Pronunciado el auto de discernimiento de la tutela y publicado en los términos que disponga el Código de Procedimientos Civiles, el tutor, dentro de setenta y dos horas de hecha la publicación, presentará copia certificada del auto mencionado al oficial del registro civil, para que levante al acta respectiva. El curador cuidará del cumplimiento de este artículo.
+### CAPITULO V. De las Actas de Inscripción de Sentencias
 
-ART. 82.- La omisión del registro de tutela no impide al tutor entrar en ejercicio de su cargo, ni puede alegarse por ninguna persona como causa para dejar de tratar con él; pero hace responsables al tutor y al curador en los términos que establece el artículo 73.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 83.- El acta de tutela contendrá:
+ART. 81.- Las autoridades judiciales que declaren la ausencia, la presunción de muerte, la tutela, la pérdida o limitación de la capacidad legal para administrar bienes o la nulidad de matrimonio, remitirán al Oficial del Registro Civil correspondiente, dentro del término de ocho días, copia certificada de la resolución ejecutoriada o auto de discernimiento para su registro y levantamiento del acta correspondiente, en la que se insertará dicha resolución
 
-I.- El nombre, apellido y edad del incapacitado;
+La falta de registro de la sentencia no impedirá que se produzcan todos los efectos legales del acto respectivo.
 
-II.- La clase de incapacidad por la que se haya diferido la tutela;
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-III.- El nombre y demás generales de las personas que han tenido al incapacitado bajo su patria potestad antes del discernimiento de la tutela;
+ART. 82.- Cuando se recobre la capacidad legal para administrar, se revoque la tutela, se presente la persona declarada ausente o cuya muerte se presumía, la autoridad respectiva dará aviso al Oficial del Registro Civil para que cancele la inscripción a que se refiere el artículo anterior.
 
-IV.- El nombre, apellido, edad, profesión y domicilio del tutor y del curador;
+Los oficiales que no cumplan con estas prevenciones o no realicen las anotaciones en los casos en que así proceda, serán sancionados en los términos que establezca el ordenamiento correspondiente.
 
-V.- La garantía dada por el tutor, expresando el nombre, apellido y demás generales del fiador, si la garantía consiste en fianza; o la ubicación y demás señas de los bienes, si la garantía consiste en hipoteca o prenda;
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-VI.- El nombre del juez que pronunció el auto de discernimiento y la fecha de éste.
+ART. 83.- Las actas a que se refiere el artículo 81 contendrán: el nombre, apellidos, edad, estado civil y nacionalidad de la persona de quien se trate; los puntos resolutivos de la sentencia, la fecha en que se dictó y aquella en que causó estado, así como el Tribunal que la pronunció.
 
 ART. 84.- Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, observándose para el caso de que no exista en la misma oficina del registro, lo prevenido en el artículo 75.
 
@@ -355,27 +485,43 @@ ART. 88.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
 ### CAPITULO VII. De las Actas de Matrimonio
 
-ART. 89.- Las personas que pretendan contraer matrimonio presentarán un escrito al oficial del registro civil del domicilio de cualquiera de ellas, que exprese:
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-I.- Los nombres, apellidos, edad, ocupación y domicilio, tanto de los pretendientes como de sus padres, sí éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta;
+ART. 89.- Las personas que pretendan contraer matrimonio presentarán una solicitud por escrito al Oficial del Registro Civil del domicilio de cualquiera de los contrayentes, en la que se expresará:
 
-II.- Que no tiene impedimento legal para casarse, y
+I.- Que es voluntad de ambos unirse en matrimonio;
 
-III.- Que es su voluntad unirse en matrimonio.
+II.- Que no tienen impedimento legal para casarse o ha sido dispensado;
 
-Este escrito deberá ser firmado por los solicitantes y si alguno no pudiere o no supiere escribir, lo hará otra persona conocida, mayor de edad y vecina del lugar.
+III.- Los nombres, apellidos, lugar y fecha de su nacimiento, nacionalidad, estado civil, ocupación y domicilio, tanto de los pretendientes como de sus padres, si éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien se celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta; y
 
-ART. 90.- Al escrito a que se refiere el artículo anterior, se acompañará:
+IV.- El régimen patrimonial bajo el cual se celebrará el matrimonio.
 
-I.- El acta de nacimiento de los pretendientes y en su defecto dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que el varón es mayor de dieciséis años y la mujer mayor de catorce;
+La solicitud deberá ser firmada por los pretendientes y si alguno no pudiere o no supiere escribir, lo hará, a su ruego, una persona conocida, mayor de edad y vecina del lugar.
 
-II.- La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 133, 134 y 135;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
+ART. 90.- A la solicitud a que se refiere el artículo anterior, se acompañará:
 
-IV.- Un certificado suscrito por un médico titulado que asegure, bajo protesta de decir verdad, que los pretendientes no padecen sífilis, tuberculosis, ni enfermedad alguna crónica e incurable que sea, además, contagiosa y hereditaria.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de sanidad de carácter oficial o en su defecto los médicos que tuvieren cualquier empleo del Estado;
+I.- Copia certificada del acta de nacimiento, identificación idónea o en su defecto cualquier otro medio de prueba que señale el Código Civil, para acreditar sus nombres, nacionalidad, fecha y lugar de nacimiento;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+II.- La constancia de que otorgan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 133, 134 y 135 de este Código;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+III.- La declaración de dos testigos mayores de edad por cada uno de los contrayentes, que los conozcan y que les conste que no tienen impedimento legal para contraer matrimonio;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+IV.- Certificado médico en el que conste el resultado del análisis practicado por laboratorios de instituciones de salud pública o privados, en donde el médico que los extienda certifique, bajo protesta de decir verdad, haber examinado a los pretendientes y que los mismos no padecen enfermedad infecto contagiosa o hereditaria, que constituya impedimento para el matrimonio.
+
+Los servicios de salud dependientes del Estado, tendrán obligación de expedir gratuitamente a las personas de escasos recursos económicos, el certificado médico a que se refiere el párrafo anterior.
+
+Dicho documento deberá expedirse dentro de los quince días previos a la celebración del matrimonio;
 
 V.- Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente;
 
@@ -383,7 +529,9 @@ VI.- Copia de la dispensa de impedimentos, si los hubo.
 
 ART. 91.- El oficial del registro civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento, reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del artículo 90 serán ratificadas bajo la protesta de decir verdad, ante el mismo oficial del registro civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado.
 
-ART. 92.- El matrimonio se celebrará dentro de los ocho días siguientes, en el lugar, día y hora que señale el oficial del registro civil.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 92.- El matrimonio se celebrará dentro de los ocho días siguientes en el lugar, día y hora que señale el Oficial del Registro Civil; pero si por causa imputable a los pretendientes no se celebrare el matrimonio dentro de los seis meses a partir de la fecha del acta de presentación, las gestiones relativas quedarán sin efecto, debiendo repetirse íntegramente.
 
 ART. 93.- En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes ante el oficial del registro civil, los pretendientes o sus apoderados especiales constituídos en la forma prevenida en el artículo 37 y dos testigos por cada uno de ellos, que acrediten su identidad.
 
@@ -413,47 +561,87 @@ El acta será firmada por el oficial del registro civil, los contrayentes, los t
 
 Al margen del acta se imprimirán las huellas digitales de los contrayentes.
 
-ART. 95.- Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquéllos o su identidad y los médicos que se produzcan falsamente al expedir el certificado a que se refiere la fracción IV del artículo 90, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por los padres o tutores de los pretendientes.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 96.- El oficial del registro civil que tenga conocimiento de que los pretendientes tienen impedimento para contraer matrimonio, levantará una acta, ante dos testigos en la que hará constar los datos que le hagan suponer que existe el impedimento. Cuando haya denuncia, se expresará en la acta el nombre, edad, ocupación, estado y domicilio del denunciante, insertándose al pie de la letra la denuncia. El acta firmada por los que en ella intervinieren, será remitida al juez de primera instancia que corresponda, para que haga la calificación del impedimento.
+ART. 95.- Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquellos o su identidad y los médicos que se conduzcan falsamente al expedir el certificado a que se refiere la fracción IV del artículo 90, serán sancionados en los términos que establezca el Código Penal del Estado. Lo mismo se hará con las personas que falsamente se hicieren pasar por los padres o tutores de los pretendientes. El matrimonio celebrado bajo alguna de estas circunstancias surtirá efectos legales entre los contrayentes.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 96.- Si antes de celebrar el matrimonio, el Oficial del Registro Civil tuviere conocimiento de que los pretendientes tienen impedimento para contraerlo, levantará un acta, ante dos testigos, en la que hará constar los datos que le hagan presumir que existe el impedimento.
+
+Cuando haya denuncia, se expresará en el acta el nombre, edad, ocupación, estado civil y domicilio del denunciante insertándose al pie de la letra la denuncia.
+
+En ambos casos, el Oficial del Registro Civil se abstendrá de celebrar el matrimonio, hasta en tanto no cese la causa del impedimento.
+
+La abstención de celebrar el matrimonio, podrá ser impugnada ante el Juez que corresponda, a fin de que sea ésta autoridad quien califique el impedimento.
 
 ART. 97.- Las denuncias del impedimento pueden hacerse por cualquiera persona. Las que sean falsas sujetan al denunciante a las penas establecidas para el falso testimonio en materia civil. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios.
 
-ART. 98.- Antes de remitir el acta al juez de primera instancia, el oficial del registro civil hará saber a los pretendientes el impedimento denunciado, aunque sea relativo solamente a uno de ellos, absteniéndose de todo procedimiento ulterior hasta que la sentencia que decida el impedimento cause ejecutoria.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 99.- Las denuncias anónimas o hechas por cualquier otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas. En este caso, el oficial del registro civil dará cuenta a la autoridad judicial de primera instancia que corresponda y suspenderá todo procedimiento hasta que ésta resuelva.
+ART. 98.- El Oficial del Registro Civil hará saber a los pretendientes el impedimento denunciado, aunque sea relativo solamente a uno de ellos, absteniéndose de todo procedimiento ulterior hasta que la sentencia que decida el impedimento cause ejecutoria.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 99.- Las denuncias anónimas o hechas por cualquier otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas.
 
 ART. 100.- Denunciado un impedimento, el matrimonio no podrá celebrarse aunque el denunciante se desista, mientras no recaiga sentencia judicial que declare su inexistencia o se obtenga dispensa de él.
 
-ART. 101.- El oficial del registro civil que autorice un matrimonio teniendo conocimiento de que hay impedimento legal, o de que éste se ha denunciado, será castigado como lo disponga el Código Penal.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 101.- Será sancionado en los términos que establezca la legislación respectiva el Oficial del Registro Civil que:
+
+I.- Autorice un matrimonio teniendo conocimiento de que hay impedimento legal o de que éste se ha denunciado, o
+
+II.- Se niegue injustificadamente a celebrar un matrimonio o lo retarde en forma indebida.
 
 ART. 102.- Los oficiales del registro civil sólo podrán negarse a autorizar un matrimonio, cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuvieren noticia de que alguno de los pretendientes, o los dos carecen de aptitud legal para celebrar el matrimonio.
 
-ART. 103.- El oficial del registro civil que sin motivo justificado retarde la celebración de un matrimonio, será castigado, por la primera vez con una multa de cien pesos y en caso de reincidencia, con la destitución de su cargo.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 103.- Tratándose de matrimonio en que alguno o ambos pretendientes sean extranjeros, deberá cumplirse además con lo que dispongan al respecto las leyes federales.
+
+La celebración colectiva de matrimonios no exime al Oficial del Registro Civil del cumplimiento estricto de las solemnidades previstas en este Código.
 
 ART. 104.- El oficial del registro civil que reciba una solicitud de matrimonio, está plenamente autorizado para exigir de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime convenientes a fin de asegurarse de su identidad y de su aptitud para contraer matrimonio.
 
 También podrá exigir declaración bajo protesta a los testigos que los interesados presenten; a las personas que figuren como padres o tutores de los pretendientes y a los médicos que suscriban el certificado exigido por la fracción IV del artículo 90.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+Celebrado el matrimonio, el Oficial del Registro Civil remitirá copia del acta al encargado de la oficina en que se encuentren registrados los nacimientos de los contrayentes, para que se haga la anotación marginal correspondiente.
+
 ### CAPITULO VIII. De las Actas de Divorcio
 
-ART. 105.- La sentencia ejecutoria que decrete un divorcio se remitirá en copia al oficial del registro civil para que levante el acta correspondiente.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 106.- En el acta de divorcio se expresará el nombre, apellido, edad, ocupación y domicilio de los divorciados, la fecha y lugar en que se celebró su matrimonio y la parte resolutiva de la sentencia que haya decretado el divorcio.
+ART. 105.- De la sentencia ejecutoria que decrete un divorcio, se remitirá copia certificada a la Dirección del Registro Civil y al Oficial del Registro donde se celebró el matrimonio, para que se asiente el acta correspondiente.
 
-ART. 107.- Extendida el acta se anotarán las de nacimiento y matrimonio de los divorciados y la copia de la sentencia mencionada se archivará con el mismo número del acta de divorcio.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 106.- En el acta de divorcio se expresará el nombre, apellidos, edad, domicilio, nacionalidad de los divorciados, lugar y fecha en que se celebró su matrimonio, la clave única del registro de población, si la tuvieren, los datos de ubicación de las actas de nacimiento de los divorciados, la parte resolutiva de la sentencia judicial que lo decretó, fecha de la misma y la autoridad que la dictó.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 107.- Extendida el acta por el Oficial del Registro Civil, remitirá copia de la misma al del lugar en que se encuentre registrado el nacimiento de los divorciados, a efecto de que haga la anotación marginal respectiva. La copia de la sentencia mencionada, se archivará con el mismo número del acta de divorcio en el apéndice correspondiente.
 
 ### CAPITULO IX. De las Actas de Defunción
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 108.- El destino de los cadáveres, puede ser por inhumación, cremación, embalsamiento u otro que permita la Ley de Salud; pero en cualquiera de los casos señalados, será el Oficial del Registro Civil quien asiente el Acta de Defunción, el que disponga y dé por escrito la orden, para el tratamiento de los restos, y siempre, respetando los términos y condiciones que ordena la propia Ley de Salud.
+ART. 108.- Ninguna inhumación o cremación se hará sin autorización escrita del Oficial del Registro Civil, quien se asegurará suficientemente del fallecimiento mediante el certificado de defunción que expida el médico. No se procederá a la inhumación o cremación sino después de que transcurran dieciocho horas del fallecimiento, excepto los casos en que se ordene otra cosa por la autoridad que corresponda.
 
-ART. 109.- En el acta de fallecimiento se asentarán los datos que el oficial del registro civil adquiera, o la declaración que se le haga, y será firmada por dos testigos, prefiriéndose para el caso los parientes, si los hay, o los vecinos. Si la persona ha muerto fuera de su habitación, uno de los testigos será aquél en cuya casa se haya verificado el fallecimiento, o alguno de los vecinos más inmediatos.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 110.- El acta de fallecimiento contendrá:
+ART. 109.- En el acta de defunción se asentarán los datos que el oficial del Registro Civil recabe de la declaración que se le haga, y será firmada por dos testigos, prefiriéndose para el caso, los parientes del fallecido, si los hay, o los vecinos.
 
-I.- El nombre, apellido, edad, ocupación y domicilio que tuvo el difunto;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 110.- El acta de defunción contendrá:
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+I.- El nombre, apellidos, edad, nacionalidad, sexo, domicilio y en su caso la clave única del Registro Nacional de Población, que tuvo el difunto;
 
 II.- El estado civil de éste y si era casado o viudo, el nombre y apellido de su cónyuge;
 
@@ -463,51 +651,101 @@ IV.- Los nombres de los padres del difunto si se supiese;
 
 V.- La clase de enfermedad que determinó la muerte y especificadamente el lugar en que se sepulta el cadáver, y
 
-VI.- La hora de la muerte, si se supiere y todos los informes que se tengan en caso de muerte violenta.
+VI.- La hora de la muerte, si se supiere y todos los informes que se tengan en caso de muerte violenta;
 
-ART. 111.- Los dueños o habitantes de la casa en que ocurra el fallecimiento; los directores o administradores de las prisiones, hospitales, colegios u otra cualquiera casa de comunidad; los huéspedes de los mesones u hoteles y los caseros de las casas de vecindad tienen obligación de dar aviso del fallecimiento al oficial del registro civil, dentro de las veinticuatro horas siguientes a la muerte.
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 112.- Si el fallecimiento ocurriere en un lugar o población en donde no haya oficina del registro, la autoridad municipal extenderá la constancia respectiva que remitirá al oficial del registro civil que corresponda, para que asiente el acta.
+VII.- El nombre, apellidos, domicilio y número de cédula profesional del médico que certifica la defunción; y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+VIII.- Tratándose de extranjeros se dará aviso a la autoridad federal correspondiente.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 111.- Los dueños, habitantes o encargados del lugar en que ocurra la defunción; tendrán la obligación de dar aviso del fallecimiento al Oficial del Registro Civil que corresponda, para que asiente el acta.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 112.- Si la defunción ocurre en un lugar o población en donde no hay oficina del Registro, la autoridad municipal extenderá la constancia respectiva que remitirá al Oficial del Registro Civil que corresponda, para que asiente el acta.
 
 ART. 113.- Cuando el oficial del registro civil sospeche que la muerte fue violenta, dará parte al Ministerio Público, comunicándole todos lo informes que tenga, para que proceda a la averiguación conforme a derecho. Cuando la autoridad judicial o el Ministerio Público averigüe un fallecimiento, dará parte al oficial del registro civil para que asiente el acta respectiva. Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y, en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al oficial del registro civil para que los anote al margen del acta.
 
 ART. 114.- En los casos de inundación, naufragio, incendio o cualquier otro siniestro en que no sea fácil reconocer el cadáver, se formará el acta con los datos que ministren los que lo recogieron, expresando, en cuanto fuere posible, las señas del mismo y de los vestidos u objetos que con él se hayan encontrado.
 
-ART. 115.- Si no parece (sic) el cadáver, pero hay certeza de que alguna persona ha sucumbido en el lugar del desastre, el acta contendrá el nombre de las personas que hayan conocido a la que no parece (sic) y las demás noticias que sobre el suceso puedan adquirirse.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 116.- (DEROGADO, P.O. 22 DE MAYO DE 1977)
+ART. 115.- Si no aparece el cadáver, pero existe la presunción de que alguna persona ha sucumbido en el lugar del desastre, el acta contendrá el nombre y las declaraciones de las personas que hayan conocido a la que no aparece, los datos que tengan sobre su desaparición; y las demás noticias que sobre el acontecimiento puedan recabarse.
 
-ART. 117.- Cuando alguno falleciere en el lugar que no sea el de su domicilio, se remitirá al oficial del registro civil de su domicilio, copia certificada del acta para que se asiente en el libro respectivo, anotándose la remisión al margen del acta original.
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 116.- Si por cualquier motivo no se hubiere levantado el acta de defunción oportunamente, quienes tengan conocimiento de la omisión, darán aviso al Oficial del Registro Civil, allegándole la documentación e información conducente, para que asiente el acta respectiva, dando aviso al Ministerio Público, para que éste proceda de acuerdo a sus atribuciones, cuando se presuma la comisión de un ilícito.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 117.- Cuando alguien falleciere en lugar distinto al del registro de su nacimiento, se remitirá al oficial del Registro Civil que le corresponda, copia certificada del acta de defunción para que haga la anotación en el acta de nacimiento y en las demás que estén relacionadas con la misma.
 
 ART. 118.- El jefe de cualquier cuerpo o destacamento militar tiene obligación de dar parte al oficial del registro civil, de los muertos que haya habido en campaña, o en otro acto del servicio, especificándose la filiación; el oficial del registro civil observará en este caso lo dispuesto en el artículo anterior.
 
-ART. 119.- Los Tribunales cuidarán de remitir dentro de las veinticuatro horas siguientes a la ejecución de la sentencia de muerte, una noticia al oficial del registro civil del lugar donde se haya verificado la ejecución. Esa noticia contendrá el nombre, apellido, edad, estado y ocupación que tuvo el ejecutado.
+ART. 119.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
 
-ART. 120.- En todos los casos de muerte violenta en las prisiones o en las casas de detención y en los de ejecución de la pena de muerte, no se hará en los registros mención de estas circunstancias y las actas solamente contendrán los demás requisitos que prescribe el artículo 110.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 120.- En todos los casos de muerte violenta en las prisiones o en las casas de detención, no se hará en los registros mención de estas circunstancias y las actas solamente contendrán los demás requisitos que prescribe el artículo 110.
 
 ART. 121.- En los registros de nacimiento y matrimonio se hará referencia al acta de defunción, expresándose los folios en que consta ésta.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2000)</small>
+
 ### CAPITULO X. Inscripciones de las Ejecutorias que declaren Incapacidad legal para administrar bienes, la ausencia o la presunción de muerte
 
-ART. 122.- Las autoridades judiciales que declaren perdida la capacidad legal de alguna persona para administrar bienes, la ausencia o la presunción de su muerte, dentro del término de ocho días remitirán al oficial del registro civil que corresponda, copia certificada de la ejecutoria respectiva.
+ART. 122.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
 
-ART. 123.- El oficial del registro levantará el acta correspondiente, en la que insertará la resolución judicial que se le haya comunicado.
+ART. 123.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
 
-ART. 124.- Cuando se recobre la capacidad legal para administrar, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al oficial del registro civil por el mismo interesado o por la autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior.
+ART. 124.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
 
 ### CAPITULO XI. De la rectificación de las Actas del Registro Civil
 
-ART. 125.- La rectificación o modificación de una acta del estado civil no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste, salvo el reconocimiento que voluntariamente haga un padre de su hijo, el cual se sujetará a las prescripciones de este Código.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 1978)</small>
+ART. 125.- La cancelación, rectificación o modificación de una acta del estado civil, no puede hacerse sino en virtud de resolución pronunciada por autoridad judicial en el procedimiento que corresponda.
 
-No obstante lo anterior, podrá modificarse una acta por enmienda administrativa en los casos a que se refieren los artículos 40 de este Código y 8o. del Reglamento respectivo.
+Lo dispuesto en este artículo, no es aplicable a los casos de reconocimiento voluntario de un hijo, el cual se sujetará a las prescripciones de este Ordenamiento.
 
-ART. 126.- Ha lugar a pedir la rectificación:
+No obstante lo anterior, podrá modificarse una acta por enmienda administrativa en los casos a que se refieren este código y las demás disposiciones legales aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 126.- Ha lugar a pedir la rectificación de un acta del registro civil:
 
 I.- Por falsedad, cuando se alegue que el suceso registrado no pasó;
 
-II.- Por enmienda, cuando se solicite variar algún nombre u otra circunstancia, sea esencial o accidental.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+II.- En los casos en que estas contengan los vicios o defectos de carácter genérico o específico que a continuación se indican:
+
+Los genéricos son:
+
+a).- La falta de correlación de apellidos de los ascendientes y descendientes, cuyos datos aparezcan consignados en una misma acta.
+
+b).- La no correlación de los datos que contenga un acta con los expresados en el documento relacionado con ella y del cual procedan.
+
+c).- La ilegibilidad de los datos en alguno de los libros correspondientes.
+
+d).- La existencia de abreviaturas.
+
+e).- La omisión de algún dato relativo al acta o hecho de que se trate, según su propia naturaleza o de la anotación que debe contener.
+
+f).- Los apellidos invertidos.
+
+Los específicos son:
+
+a).- Tratándose de un acta de nacimiento, que contenga datos de registro relativos a dos o más personas.
+
+b).- Haber anotado en el acta de que se trate, datos correspondientes a una hipótesis legal diferente a la que precediere.
+
+c).- La falta de correlación del nombre propio asentado en el acta con el que socialmente se le identifica.
 
 ART. 127.- Pueden pedir la rectificación de una acta del estado civil:
 
@@ -523,15 +761,23 @@ ART. 128.- El juicio de rectificación de acta se seguirá en la forma que se es
 
 ART. 129.- La sentencia que cause ejecutoria se comunicará al oficial del registro civil, y éste hará una referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
 
-## TITULO QUINTO. Del Matrimonio
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO I. De los requisitos para contraer Matrimonio
+## TITULO QUINTO. Del Matrimonio y del concubinato
 
-ART. 130.- El matrimonio debe celebrarse ante los funcionarios que establece la ley y con las formalidades que ella exige.
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+### CAPITULO I. Disposiciones Generales del Matrimonio
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 130.- El matrimonio es la unión consensual de un hombre y una mujer que con igualdad de derechos, deberes y obligaciones, hacen vida en común, para ayudarse y promoverse mutuamente, guardarse fidelidad recíproca y perpetuar la especie formando una familia.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 131.- El matrimonio deberá celebrarse ante los funcionarios que establezca la ley y con las formalidades que ella exija.
 
 La ley no reconoce esponsales de futuro.
-
-ART. 131.- Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
 
 > <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 1948)</small>
 
@@ -553,33 +799,37 @@ ART. 138.- Si el ascendiente o tutor que ha firmado o ratificado la solicitud de
 
 ART. 139.- El juez que hubiere autorizado a un menor para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado, sino por causa superveniente.
 
-ART. 140.- Son impedimentos para celebrar el contrato de matrimonio:
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 140.- Son impedimentos para celebrar el matrimonio:
 
 I.- La falta de edad requerida por la ley, cuando no haya sido dispensada;
 
-II.- La falta de consentimiento del que o los que ejerzan la patria potestad, del tutor o del juez en sus respectivos casos;
+II.- La falta de consentimiento de quien o quienes ejerzan la patria potestad, del tutor o del juez, en sus respectivos casos;
 
-III.- El parentezco (sic) de consanguinidad legítima o natural sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
+III.- El parentesco por consanguinidad legítima, natural o legal sin limitación de grado en línea recta, ascendente o descendente. En línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
 
-IV.- El parenteco (sic) de afinidad en línea recta, sin limitación alguna;
+IV.- El parentesco de afinidad en línea recta, sin limitación alguna;
 
-V.- El adulterio habido entre las personas que pretendan contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado;
+V.- La privación de la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 
-VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
+VI.- El consentimiento obtenido por violencia o miedo grave.
 
-VII.- La fuerza o miedo grave. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituída a lugar seguro, donde libremente pueda manifestar su voluntad;
+VII.- Padecer alguna enfermedad crónica e incurable que sea además infecto contagiosa;
 
-VIII.- La embriaguez habitual, la morfinomanía, la eteromanía y el uso indebido y persistente de las demás drogas enervantes. La impotencia incurable para la cópula; la sífilis, la locura y las enfermedades crónicas e incurables, que sean, además, contagiosas o hereditarias;
+VIII.- La incapacidad permanente;
 
-IX.- El idiotismo y la imbecilidad;
+IX.- El matrimonio subsistente con persona distinta de aquélla con quien se pretenda contraer.
 
-X.- El matrimonio subsistente con persona distinta de aquélla con quien se pretenda contraer.
+De estos impedimentos sólo son dispensables la falta de edad y el parentesco por consanguinidad en línea colateral desigual.
 
-De estos impedimentos sólo son dispensables la falta de edad y el parentezco (sic) de consanguinidad en línea colateral desigual.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 141.- El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, en tanto que dure el lazo jurídico resultante de la adopción.
+ART. 141.- El adoptante no puede contraer matrimonio con el adoptado o con sus descendientes.
 
-ART. 142.- La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz un hijo. En los casos de nulidad o de divorcio, puede contarse este tiempo desde que se interrumpió la cohabitación.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 142.- La mujer no puede contraer nuevo matrimonio hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz a un hijo, o acreditare con prueba indubitable, que no se encuentra en estado de gravidez.
 
 ART. 143.- El tutor no puede contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que obtenga dispensa, la que no se le concederá por el juez de primera instancia respectivo, sino cuando hayan sido aprobadas las cuentas de la tutela.
 
@@ -599,9 +849,33 @@ ART. 146.- El matrimonio entre extranjeros, celebrado fuera de la República, v�
 
 ART. 147.- Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos. Por lo que toca al matrimonio, este derecho será ejercido de común acuerdo por los cónyuges.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 148.- Los cónyuges vivirán juntos en el domicilio conyugal. Los Tribunales, con conocimiento de causa, podrán eximir de esta obligación a alguno de ellos, cuando el otro traslade su domicilio a País extranjero, a no ser que lo haga en servicio público o social, o se establezca en lugar insalubre o indecoroso.
+Podrán ser utilizados los métodos de la fecundación artificial o asistida, exceptuando la madre sustituta.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 148.- Los cónyuges vivirán juntos en el domicilio conyugal.
+
+Se considera domicilio conyugal, el lugar establecido de común acuerdo por los cónyuges en el que ambos, en igualdad de circunstancias, tengan autoridad propia y consideraciones iguales.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 148 BIS.- Cualquiera de los cónyuges o ambos, podrán solicitar al juez su separación temporal:
+
+I.- Cuando alguno de ellos traslade su domicilio a país extranjero, a no ser que lo haga en servicio público o social;
+
+II.- Cuando el domicilio conyugal se establezca en lugar insalubre o indecoroso;
+
+III.- Cuando alguno de ellos padezca temporalmente enfermedad del orden psíquico y ésta represente un riesgo para la familia. Al cesar el peligro, los cónyuges deberán reunirse nuevamente;
+
+IV.- Cuando uno de los cónyuges intente denunciar o haya denunciado la comisión de un delito, atribuyendo ésta al otro cónyuge, y
+
+V.- Cuando uno de los cónyuges realice actos de violencia familiar contra el otro o hacia los hijos de ambos o de alguno de ellos.
+
+La separación conyugal autorizada por el juez no disuelve el vínculo matrimonial, sólo suspende la obligación de los cónyuges de vivir juntos, pero subsisten todos los demás derechos, deberes y obligaciones entre ellos y con relación a sus hijos. Al autorizar la separación el juez deberá proveer sobre los alimentos, guarda y custodia de los hijos.
+
+La separación no excederá de seis meses y sólo podrá ser solicitada cuando hubiese transcurrido al menos un año de la celebración del matrimonio, salvo los casos previstos en las fracciones III y V de este artículo.
 
 > <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
@@ -609,7 +883,13 @@ ART. 149.- La obligación de proporcionar los alimentos recaerá en aquel cónyu
 
 Solamente estando imposibilitado para trabajar y careciendo de bienes propios, se eximirá de esta obligación al que se encontrara en este caso.
 
-Quien dolosamente abandone su trabajo, y no teniéndolo, no procure conseguirlo, dilapide sus bienes o simule actos con el objeto de parecer insolvente, independientemente de las obligaciones que le impone esta Ley, se le aplicarán las penas a que refiere el delito de abandono de personas del Código Penal vigente en el Estado.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+Quien dolosamente abandone su trabajo o no teniéndolo, no procure conseguirlo, dilapide sus bienes o simule actos con el objeto de parecer insolvente, independientemente de las obligaciones que le impone esta ley, se le aplicarán las penas a que se refiere el Código Penal del Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 149 BIS.- El desempeño del trabajo en el hogar o el cuidado de los hijos, se estiman como contribución o participación económica por parte del cónyuge que los realice.
 
 > <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
@@ -617,15 +897,17 @@ ART. 150.- Los cónyuges y los hijos, en materia de alimentos, tendrán derecho 
 
 ART. 151.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 152.- Los cónyuges resolverán de común acuerdo todo lo conducente al manejo del hogar, formación y educación de los hijos. En caso de desacuerdo el Juez de Primera Instancia del domicilio del hogar conyugal resolverá sobre la oposición de cualquiera de ellos.
+ART. 152.- Estará a cargo de ambos cónyuges, la dirección y cuidado de los trabajos del hogar.
 
-ART. 153.- Estará a cargo de la mujer la dirección y cuidado de los trabajos del hogar.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+ART. 153.- Los cónyuges tendrán autoridad y consideraciones iguales, por lo tanto, resolverán de común acuerdo todo lo relativo a la educación de los hijos, al manejo del hogar y de los bienes comunes que a éstos pertenezcan. En caso de desacuerdo, el juez competente de su domicilio resolverá lo conducente.
 
-ART. 154.- Los cónyuges podrán desempeñar cualquier actividad, excepto las que dañen la moral de la familia o la estructura de ésta. Cualquiera de ellos podrá oponerse a que el otro desempeñe la actividad de que se trate y el Juez de Primera Instancia del domicilio conyugal, resolverá sobre la oposición.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 154.- Los cónyuges podrán desempeñar cualquier actividad, excepto las que dañen la moral de la familia o a la estructura de ésta. Cualquiera de ellos podrá oponerse a que el otro desempeñe la actividad de que se trate y el juez competente, resolverá sobre la oposición de cualquiera de ellos.
 
 ART. 155.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
@@ -657,15 +939,17 @@ ART. 164.- Serán también propios de cada uno de los consortes los salarios, su
 
 ART. 165.- El hombre y la mujer, antes o después de contraer matrimonio, pueden convenir en que los productos de todos los bienes que poseen o de alguno o algunos de ellos, especificándolos en todo caso, serán comunes; pero entonces fijarán de una manera clara y precisa la fecha en que se ha de hacer la liquidación y presentar las cuentas correspondientes.
 
-> <small>(REFORMADO, 20 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 166.- El hombre y la mujer antes y después de contraer matrimonio, pueden convenir en que los productos de su trabajo, profesión, industria o comercio, se dividen entre ellos en la proporción y términos que convengan.
+ART. 166.- El hombre y la mujer antes y después de contraer matrimonio, pueden convenir en que los productos de su trabajo, profesión, industria o comercio se dividan entre ellos en la proporción y términos que convengan.
 
 ART. 167.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 
-ART. 168.- Los pactos a que se refiere el artículo anterior, sólo surtirán efectos con relación a tercero, siempre que consten en escritura pública debidamente registrada si se tratare de bienes raíces y que no comprendan más de la mitad de los frutos o productos.
+ART. 168.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
 
-ART. 169.- El cónyuge que faltare a lo convenido dará derecho al otro o para pedir el cumplimiento del contrato, o para pedir su rescisión para lo sucesivo y el cumplimiento de él hasta la fecha de la demanda.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 169.- El cónyuge que faltare a lo convenido dará derecho al otro para pedir el cumplimiento del contrato, o para pedir su rescisión para lo sucesivo y el cumplimiento de él hasta la fecha de la demanda.
 
 > <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
 
@@ -687,9 +971,13 @@ ART. 175.- El marido responde a la mujer y ésta a aquél, de los daños y perju
 
 ART. 176.- Las sentencias que se pronunciaren en contra del marido no podrán hacerse efectivas en contra de la mujer; y de la misma manera las que se pronunciaren en contra de ésta no podrán afectar al marido.
 
-ART. 177.- La casa en que esté establecida la morada conyugal y los bienes que le pertenezcan, sean propios de uno de los cónyuges o de ambos, no podrán ser enajenados si no es con el consentimiento expreso de los dos; y nunca podrán ser hipotecados o de otra manera gravados, ni embargados por los acreedores del marido o de la mujer o de ambos, siempre que dichos objetos no tengan en junto un valor mayor de diez mil pesos.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-Si la residencia conyugal estuviere en el campo, ella y los objetos que le pertenezcan tampoco podrán ser enajenados sino con consentimiento expreso de ambos consortes; y en ningún caso podrán ser hipotecados o de otra manera gravados juntamente con los terrenos que le correspondan, si no valen en conjunto más de diez mil pesos.
+ART. 177.- La casa en que esté establecida la morada conyugal y los bienes muebles que les pertenezcan, sean propios de uno de los cónyuges o de ambos, no podrán ser enajenados si no es con el consentimiento expreso de los dos; tampoco podrán ser gravados esos bienes, ni embargados por los acreedores del marido o de la mujer o de ambos, siempre que dichos objetos no tengan en conjunto un valor mayor de dos mil salarios mínimos vigentes en el Estado.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+Si el domicilio conyugal estuviere en el campo, el mismo y los objetos que le pertenezcan tampoco podrán ser enajenados sino con el consentimiento expreso de ambos consortes; y en ningún caso podrán ser hipotecados o de otra manera gravados juntamente con los terrenos que le corresponda, si no valen en conjunto más de dos mil salarios mínimos vigentes en el Estado.
 
 Cuando un matrimonio tuviere varias casas o propiedades en que residan en distintos períodos del año, deberá designar ante la autoridad municipal del lugar en que esté ubicada la residencia que quiera señalar, cuál es la que ha de gozar del privilegio que le concede esta disposición.
 
@@ -741,13 +1029,19 @@ II.- Que el matrimonio se haya celebrado concurriendo alguno de los impedimentos
 
 III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 89, 90, 91, 93 y 94.
 
-ART. 195.- La acción de nulidad que nace de error, sólo puede deducirse por el cónyuge engañado, pero si éste no denuncia el error inmediatamente que lo advierte, se tiene por ratificado el consentimiento y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+ART. 195.- La acción de nulidad que nace de error, sólo puede deducirse por el cónyuge engañado, pero si éste no denuncia el error dentro del término de dos meses a partir de la fecha en que lo advierte, se tiene por ratificado el consentimiento y queda subsistente el matrimonio, a no ser que exista alguna otra causa que lo anule.
 
-ART. 196.- La menor de edad de 16 años en el hombre y de 14 en la mujer dejará de ser causa de nulidad:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 196.- La minoría de edad dejará de ser causa de nulidad:
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
 
 I.- Cuando haya habido hijos.
+
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 1975)</small>
 
 II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los 18 años, y ni él ni el otro cónyuge hubieran intentado la nulidad.
 
@@ -765,11 +1059,11 @@ ART. 200.- El parentezco (sic) de consanguinidad no dispensado anula el matrimon
 
 ART. 201.- La acción que nace de esta clase de nulidad y la que dimana del parentezco (sic) de afinidad en línea recta, pueden ejercitarse por cualquiera de los cónyuges, por sus ascendientes y por el Ministerio Público.
 
-ART. 202.- La acción de nulidad que nace de la causa prevista en la fracción V del artículo 140, podrá deducirse por el cónyuge ofendido o por el Ministerio Público, en el caso de disolución del matrimonio anterior por causa de divorcio; y sólo por el Ministerio Público, si este matrimonio se ha disuelto por muerte del cónyuge ofendido.
+ART. 202.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
 
-En uno y en otro caso, la acción debe intentarse dentro de los seis meses siguientes a la celebración del matrimonio de los adúlteros.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 203.- La acción de nulidad proveniente del atentado contra la vida de alguno de los cónyuges para casarse con el que quede libre, puede ser deducida por los hijos del cónyuge víctima del atentado, o por el Ministerio Público dentro del término de seis meses, contados desde que se celebró el nuevo matrimonio.
+ART. 203.- La acción de nulidad proveniente de la privación de la vida de alguno de los cónyuges para casarse con el que queda libre, puede ser deducido por los hijos del cónyuge víctima del atentado o por el Ministerio Público dentro del término de seis meses, contados desde que se celebró el nuevo matrimonio.
 
 ART. 204.- El miedo y la violencia serán causa de nulidad del matrimonio si concurren las circunstancias siguientes:
 
@@ -783,7 +1077,9 @@ La acción que nace de esta causa de nulidad sólo puede deducirse por el cónyu
 
 ART. 205.- La nulidad que se funde en alguna de las causas expresadas en la fracción VIII del artículo 140, sólo puede ser pedida por los cónyuges, dentro del término de sesenta días contados desde que se celebró el matrimonio.
 
-ART. 206.- Tienen derecho a pedir la nulidad a que se refiere la fracción IX del artículo 140, el otro cónyuge o el tutor del incapacitado.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 206.- Tiene derecho a pedir la nulidad a que se refiere la fracción VIII del artículo 140, el otro cónyuge o el tutor del incapacitado, dentro del término de sesenta días siguientes a la celebración del matrimonio.
 
 ART. 207.- El vínculo de un matrimonio anterior, existente al tiempo de contraerse, anula éste aunque se contraiga de buena fe, creyéndose fundadamente que el consorte anterior había muerto. La acción que nace de esta causa de nulidad puede deducirse por el cónyuge del primer matrimonio, por sus hijos o herederos y por los cónyuges que contrajeron el segundo. No deduciéndola ninguna de las personas mencionadas, la deducirá el Ministerio Público.
 
@@ -793,7 +1089,9 @@ ART. 209.- No se admitirá demanda de nulidad por falta de solemnidad en el acta
 
 ART. 210.- El derecho para demandar la nulidad del matrimonio corresponde a quienes la ley lo concede expresamente, y no es transmisible por herencia ni de cualquiera otra manera. Sin embargo, los herederos podrán continuar la demanda de nulidad entablada por aquél a quien heredan.
 
-ART. 211.- Ejecutoriada la sentencia que declare la nulidad, el tribunal, de oficio, enviará copia certificada de ella al oficial del registro civil ante quien pasó el matrimonio, para que al margen del acta ponga nota circunstanciada en que conste: la parte relativa de la sentencia, su fecha, el tribunal que la pronunció y el número con que se marcó la copia la cual será depositada en el archivo.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 211.- Ejecutoriada la sentencia que declare la nulidad, el Tribunal de oficio, enviará copia certificada de ella al Oficial del Registro Civil ante quien se celebró el matrimonio para que al margen del acta ponga nota circunstanciada en que conste: la parte relativa de la sentencia; su fecha, el tribunal que la pronunció y el número con que se marco la copia, la cual será depositada en el archivo.
 
 ART. 212.- El matrimonio tiene a su favor la presunción de ser válido; sólo se considerará nulo cuando así lo declare una sentencia que cause ejecutoria.
 
@@ -813,9 +1111,9 @@ ART. 217.- Si la demanda de nulidad fuere entablada por uno solo de los cónyuge
 
 ART. 218.- Luego que la sentencia sobre nulidad cause ejecutoria, el padre y la madre propondrán la forma y términos del cuidado y custodia de los hijos. En el caso de que no exista este acuerdo, el Juez con la intervención del Ministerio Público tomando en cuenta el beneficio de los menores, resolverá lo conducente.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 219.- El Juez en todo tiempo, podrá modificar la determinación a que se refiere el artículo anterior, atento a las nuevas circunstancias y a lo dispuesto en los artículos 382, 383, y 394 Fracción III de esta Ley.
+ART. 219.- En todo tiempo podrá modificarse la determinación a que se refiere el artículo anterior, atento a las nuevas circunstancias y a lo dispuesto en los artículos 382, 383 y 394 fracción II de esta ley.
 
 ART. 220.- Declarada la nulidad del matrimonio se procederá a la división de los bienes comunes, si los hubiere. Los productos repartibles, si los dos cónyuges hubieren procedido de buena fe, se dividirá entre ellos en la forma convenida en las capitulaciones matrimoniales; si sólo hubiere habido buena fe por parte de uno de los cónyuges, a éste se aplicarán íntegramente esos productos. Si ha habido mala fe de parte de ambos cónyuges, los productos se aplicarán a favor de los hijos.
 
@@ -837,7 +1135,9 @@ I.- Cuando se ha contraído pendiente la decisión de un impedimento que sea sus
 
 II.- Cuando no se ha otorgado la previa dispensa que requiera el artículo 143, y cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 142 y 250.
 
-ART. 224.- Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en las penas que señale el Código de la materia.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 224.- Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en las penas o sanciones que señale la ley de la materia.
 
 ### CAPITULO VII. Del Divorcio
 
@@ -845,7 +1145,9 @@ ART. 225.- El divorcio disuelve el vínculo del matrimonio y deja a los cónyuge
 
 ART. 226.- Son causas de divorcio:
 
-I.- El adulterio debidamente probado de uno de los cónyuges;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+I.- Tener alguno de los cónyuges relaciones sexuales fuera del matrimonio;
 
 II.- El hecho de que la mujer dé a luz, durante el matrimonio, un hijo concebido antes de celebrarse este contrato, y que judicialmente sea declarado ilegítimo;
 
@@ -853,11 +1155,17 @@ III.- La propuesta del marido para prostituir a su mujer, no sólo cuando el mis
 
 IV.- La incitación a la violencia hecha por un cónyuge al otro para cometer algún delito, aunque no sea de incontinencia carnal;
 
-V.- Los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, así como la tolerancia en su corrupción;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-VI.- Padecer sífilis, tuberculosis, o cualquiera otra enfermedad crónica o incurable que sea, además, contagiosa o hereditaria, y la impotencia incurable que sobrevenga después de celebrado el matrimonio;
+V.- Los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, ya sean éstos de ambos o de uno solo de ellos, así como la tolerancia en su corrupción;
 
-VII.- Padecer enajenación mental incurable;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+VI.- Padecer alguna enfermedad crónica incurable que sea además infecto contagiosa;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+VII.- Padecer enajenación mental incurable; previa declaración de estado de interdicción;
 
 VIII.- La separación de la casa conyugal por más de seis meses sin causa justificada;
 
@@ -877,7 +1185,7 @@ XIV.- Haber cometido uno de los cónyuges un delito que no sea político, pero q
 
 XV.- Los hábitos de juego o de embriaguez o el uso indebido y persistente de drogas enervantes, cuando amenacen causar la ruina de la familia, o constituyan un contínuo motivo de desaveniencia conyugal;
 
-XVI.- Cometer un cónyuge contra la persona o los bienes del otro, un acto que sería punible si se tratara de persona extraña, siempre que tal acto tenga señalada en la Ley una pena que pase de un año de prisión;
+XVI.- (REFORMADA [N. DE E. DEROGADA], P.O. 3 DE OCTUBRE DE 2000)
 
 XVII.- El mutuo consentimiento;
 
@@ -893,15 +1201,23 @@ Para los efectos de esta fracción se entiende por violencia familiar lo dispues
 
 > <small>(ADICIONADA, P.O. 31 DE OCTUBRE DE 1998)</small>
 
-XX.- El incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, tendientes a corregir los actos de violencia familiar hacia el otro cónyuge o los hijos, por el cónyuge obligado a ello.
+XX.- El incumplimiento injustificado de las determinaciones de las autoridades administrativas o judiciales que se hayan ordenado, tendientes a corregir los actos de violencia familiar hacia el otro cónyuge o los hijos, por el cónyuge obligado a ello;
 
-ART. 227.- Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causa que no haya justificado o que haya resultado insuficiente, el demandado tiene a su vez el derecho de pedir el divorcio; pero no podrá hacerlo sino pasados tres meses de la notificación de la última sentencia. Durante estos tres meses, los cónyuges no están obligados a vivir juntos.
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+XXI.- El uso de métodos de fecundación artificial o asistida sin el consentimiento del esposo, y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+XXII.- El uso de métodos de esterilización permanente sin el consentimiento del cónyuge.
+
+ART. 227.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
 
 ART. 228.- Cualquiera de los esposos puede pedir el divorcio por el adulterio de su cónyuge. Esta acción dura seis meses, contados desde que se tuvo conocimiento del adulterio.
 
-ART. 229.- Son causas de divorcio los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, ya lo sean éstos de ambos, ya de uno solo de ellos. La tolerancia en la corrupción que dá derecho a pedir el divorcio, debe consistir en actos positivos, y no en simples omisiones.
+ART. 229.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
 
-ART. 230.- Para que pueda pedirse divorcio por causa de enajenación mental que se considere incurable, es necesario que hayan transcurrido dos años desde que comenzó a padecerse la enfermedad.
+ART. 230.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
 
 ART. 231.- Cuando ambos consortes convengan en divorciarse, no podrán verificarlo sino ocurriendo por escrito al juez y en los términos que expresan los artículos siguientes; en caso contrario, aunque vivan separados se tendrán por unidos para todos los efectos legales del matrimonio.
 
@@ -919,13 +1235,29 @@ IV.- La cantidad que a título de alimentos un cónyuge debe pagar al otro duran
 
 V.- Si hubiere sociedad conyugal, la manera de administrar los bienes de esta sociedad durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. A ese efecto se acompañarán un inventario y avalúo de todos los bienes muebles o inmuebles de la sociedad.
 
-ART. 233.- El divorcio por mutuo consentimiento no puede pedirse sino pasado un año de la celebración del matrimonio. Presentada la solicitud, el juez de primera instancia del domicilio de los cónyuges remitirá el extracto de ella al oficial del registro civil del mismo lugar, para que éste la haga publicar en la tabla de avisos, y citará a los solicitantes a una junta, en la cual procurará restablecer entre ellos la concordia y cerciorarse de la completa libertad de ambos para divorciarse. Si no lograre avenirlos, se celebrarán todavía, con el mismo objeto, dos juntas más, que el juez citará a petición de ambos cónyuges. Esta petición no podrá hacerse sino después de transcurrido un mes desde la última junta celebrada. Entre una y otra deberá mediar, cuando menos, un mes.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 234.- Si celebradas las tres juntas mencionadas, los cónyuges se mantuvieren firmes en el propósito de divorciarse, el juez aprobará el arreglo con las modificaciones que crea oportunas, oyendo al efecto al Ministerio Público y cuidando de que no se violen los derechos de los hijos o de tercera persona.
+ART. 233.- El divorcio por mutuo consentimiento no puede pedirse si no pasado un año de celebración del matrimonio. Presentada la solicitud, el Juez de Primera Instancia del domicilio de los cónyuges, remitirá el extracto de ella al Oficial del Registro Civil del mismo lugar, para que esta la haga publicar en la tabla de avisos, y citará a los solicitantes a una junta, en la cual procurará restablecer entre ellos la concordia y cerciorarse de la completa libertad de ambos para divorciarse. Si no lograre avenirlos, se celebrará todavía con el mismo objeto, una junta más, que el Juez citará a petición de ambos cónyuges. Esta petición no podrá hacerse sino después de transcurrido un mes desde la última junta celebrada.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 234.- Si celebradas las dos juntas mencionadas, los cónyuges se mantuvieren firmes en el propósito de divorciarse. El Juez aprobará el arreglo con las modificaciones que crea oportunas, oyendo al efecto al Ministerio Público y cuidando de que no se violen los derechos de los hijos o de terceras personas.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 234 BIS.- Cuando ambos cónyuges acuerden divorciarse, sean mayores de edad, no tengan hijos, la mujer no se encuentre encinta y estén sujetos al régimen de separación de bienes o de existir la sociedad conyugal, ésta se encuentre liquidada o no existan bienes pertenecientes a la misma, presentarán su solicitud de divorcio por mutuo consentimiento ante el Juez competente del lugar de su residencia, justificando legalmente que reúnen los requisitos que anteceden.
+
+El Juez los citará dentro del término de quince días para que ratifiquen de una manera terminante y explícita su voluntad de divorciarse. Ratificada la solicitud, sin más trámite se citará a las partes para oír sentencia.
+
+Para la procedencia del divorcio a que se refiere este artículo será requisito indispensable que los solicitantes tengan su domicilio familiar actual dentro del territorio del Estado de San Luis Potosí, y haberlo tenido durante el año anterior a su solicitud.
+
+El divorcio no surtirá efectos legales si se comprueba que los cónyuges incumplieron con alguno de los requisitos señalados en los párrafos precedentes, y en tal caso serán sujetos de las penas que al efecto establezca el Código Penal del Estado.
 
 ART. 235.- Mientras que se decreta el divorcio, el juez autorizará la separación de los cónyuges de una manera provisional, y dictará las medidas necesarias para asegurar la subsistencia de los hijos a quienes haya obligación de dar alimentos.
 
-ART. 236.- Si el procedimiento de divorcio por mutuo consentimiento quedare en suspenso por más de seis meses, no podrá reanudarse sino volviendo a efectuarse las publicaciones en las tablas de avisos de la oficina del registro civil y las juntas de que habla el artículo 233.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 236.- Si en el procedimiento de divorcio por mutuo consentimiento, dejasen de asistir los cónyuges sin causa justificada a cualquiera de las juntas a que se refiere el artículo 233 de este Código y no se efectúa ningún acto procesal durante el mes siguiente contado a partir de la fecha fijada para la celebración de ésta, operará la caducidad de la instancia y se acordará remitir el expediente al archivo como asunto concluido.
 
 ART. 237.- Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año desde su reconciliación.
 
@@ -937,7 +1269,7 @@ ART. 240.- Ninguna de las causas enumeradas en el artículo 226 pueden alegarse 
 
 ART. 241.- La reconciliación de los cónyuges pone término al juicio de divorcio en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoria. En este caso los interesados deberán denunciar su reconciliación al juez, sin que la omisión de esta denuncia destruya los efectos producidos por la reconciliación.
 
-ART. 242.- El cónyuge que no haya dado causa al divorcio, puede antes que se pronuncie la sentencia que ponga fin al litigio, prescindir de sus derechos y obligar al otro a reunirse con él; más, en este caso, no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie.
+ART. 242.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
 
 ART. 243.- Al admitirse la demanda de divorcio, o antes, si hubiere urgencia, se dictarán provisionalmente y sólo mientras dure el juicio, las disposiciones siguientes:
 
@@ -967,9 +1299,9 @@ ART. 244.- La sentencia de divorcio fijará en definitiva la situación de los h
 
 La protección para los menores incluirá las medidas de seguridad, seguimiento y terapia necesarias para evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas en los términos previstos por el artículo 90 del Código de Procedimientos Civiles del Estado.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 245.- Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, el Juez podrá acordar, a petición de los abuelos, tíos o hermanos mayores, cualquier medida que se considere benéfica para los menores. El Juez podrá modificar esta decisión atento a lo dispuesto en los Artículos 382, 383 y 394 Fracción III de esta Ley.
+ART. 245.- Antes de que se provea sobre derechos y obligaciones inherentes a la patria potestad o tutela de los hijos, el Juez podrá acordar, a petición de los abuelos, tíos o hermanos mayores, cualquier medida que se considere benéfica para los menores. El Juez podrá modificar esa decisión atento a lo dispuesto en los artículos 382, 283 (sic) y 394 fracción III de esta ley.
 
 ART. 246.- El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas las obligaciones que tienen para con sus hijos.
 
@@ -979,21 +1311,107 @@ ART. 247.- El cónyuge que diere causa al divorcio perderá todo lo que se le hu
 
 ART. 248.- Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos, de acuerdo con lo dispuesto y en los términos del Artículo 149, subsistiendo esta obligación para estos últimos hasta que lleguen a la mayoría de edad.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 249.- En los casos de divorcio el cónyuge inocente tendrá derecho a alimentos mientras no contraiga nuevas nupcias y viva honestamente. Sólo gozará de este derecho cuando no cuente con recursos, esté imposibilitado para trabajar y no tenga bienes propios para subsistir.
+ART. 249.- En los casos de divorcio el cónyuge inocente tendrá derecho a los alimentos mientras no contraiga nuevas nupcias y viva honestamente. Sólo gozará de este derecho cuando no cuente con recursos, ni bienes propios para subsistir o esté imposibilitado para trabajar.
 
-ART. 250.- En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
+El cónyuge demandado tendrá derecho a los alimentos, en el caso de la causal a que se refiere la fracción VII del artículo 226 de este Código.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 250.- El cónyuge que haya dado causa al divorcio no podrá volver a casarse sino después de un año, a contar desde que se decretó el divorcio.
 
 El cónyuge que haya dado causa al divorcio, no podrá volver a casarse, sino después de dos años, a contar desde que se decretó el divorcio.
 
 Para que los cónyuges que se divorcian voluntariamente puedan volver a contraer matrimonio, es indispensable que haya transcurrido un año desde que obtuvieron el divorcio.
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 250 BIS.- En la demanda de divorcio, la parte actora podrá demandar del otro cónyuge una indemnización de hasta el treinta por ciento del valor de los bienes que hubiere adquirido durante el matrimonio, siempre que:
+
+I.- Hubieran estado casados bajo el régimen de separación de bienes;
+
+II.- El demandante se haya dedicado en el lapso que duró el matrimonio, preponderantemente, al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos, y
+
+III.- Durante el matrimonio el demandante no haya adquirido bienes propios o habiéndolos adquirido, sean notoriamente menores a los de la contraparte.
+
+El juez, al dictar la sentencia de divorcio, resolverá sobre tal indemnización, atendiendo a las circunstancias especiales de cada caso.
+
 ART. 251.- La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los herederos del muerto tienen los mismos derechos y obligaciones que tendrían si no hubiere existido el juicio.
 
 ART. 252.- Ejecutoriada una sentencia de divorcio, el juez de primera instancia remitirá copia de ella al oficial del registro civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y, además, para que publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE OCTUBRE DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+### CAPITULO VIII. Del concubinato
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.1.- El concubinato es la unión de hecho de un sólo hombre y una sola mujer, libres de impedimentos de parentesco y ligamen matrimonial, con el propósito tácito de integrar una familia a través de la cohabitación doméstica y sexual, el respeto y protección recíprocos, así como la eventual perpetuación de la especie.
+
+Si una misma persona establece varias uniones del tipo antes descrito, en ninguna se reputará concubinato.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.2.- Para que exista jurídicamente el concubinato, es necesario que la manifestación de voluntad se prolongue de manera pública y permanente:
+
+I.- Durante cinco años ininterrumpidos;
+
+II.- Durante dos años si la unión se produjo por medio de rito indígena o religioso de carácter público; o
+
+III.- Desde el nacimiento del primer hijo, si esto ocurre antes de los plazos anteriores, siempre y cuando la cohabitación se hubiere dado al menos por un año.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.3.- Se presumen hijos de los concubinos:
+
+I.- Los nacidos después de iniciada la unión libre, y
+
+II.- Los nacidos dentro de los trescientos días de terminado el concubinato.
+
+Los hijos nacidos de concubinato tendrán los mismos derechos y obligaciones como si lo fueran de matrimonio.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.4.- No estará obligado a contribuir económicamente el concubino que se encuentre imposibilitado para trabajar y careciere de bienes propios, ni tampoco el que por convenio expreso o tácito se ocupe íntegramente del cuidado del hogar o de la atención de los hijos menores, ya que en este caso el otro concubino responderá del sostenimiento del hogar.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.5.- Si el concubinato se prolonga hasta la muerte de uno de sus miembros, el concubino supérstite tendrá derecho a heredar en la misma proporción y condiciones de un cónyuge.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.6.- Las funciones paterno-filiares son iguales en el concubinato y en el matrimonio. Los concubinos arreglarán de común acuerdo todo lo relativo a educación y atención de los hijos.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.7.- La concubina no tiene derecho a llevar el apellido del concubinario, ni durante la unión ni después de muerto éste.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+### CAPITULO IX. De la disolución del concubinato
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.8.- El concubinato se termina por las siguientes causas:
+
+I.- Por acuerdo mutuo entre las partes;
+
+II.- Por abandono del domicilio común, por parte de uno de los concubinos, si la separación es injustificada y se prolonga por más de seis meses sin ánimo de reconciliación. Durante éste plazo, el concubinato sigue produciendo sus efectos, y
+
+III.- Por muerte de alguno de los concubinos.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.9.- La disolución del concubinato faculta a los concubinos a reclamarse mutuamente alimentos.
+
+Atendiendo a las circunstancias del caso, el Juez competente tendrá facultades para fijar el tiempo en que deban otorgarse y el monto de los mismos, considerando que la concubina o concubinario, no tengan bienes o no estén en aptitud de trabajar. Esta acción deberá ejercerse dentro de los seis meses siguientes a la ruptura del concubinato.
+
+En los casos de disolución del concubinato, el concubino inocente tendrá derecho a alimentos, mientras no contraiga matrimonio o establezca una nueva relación concubinaria y viva honestamente. Solo gozará de este derecho cuando no cuente con recursos, esté imposibilitado para trabajar o no tenga bienes propios para subsistir.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+## TITULO SEXTO. Del parentesco, de los alimentos y de la familia
 
 ### CAPITULO I. Del Parentesco
 
@@ -1091,21 +1509,43 @@ ART. 283.- Cuando el deudor alimentario no estuviere presente o estándolo rehus
 
 ART. 284.- El cónyuge que se haya amparado del otro, sigue obligado a cumplir con los gastos a que se refiere el Artículo 149. En tal virtud, el que no haya dado lugar a ese hecho, podrá pedir al Juez de Primera Instancia del lugar de su residencia, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo hasta antes de la separación, y que satisfaga los adeudos contraídos en los términos del Artículo anterior. Si dicha proporción no se pudiera determinar, el Juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que ha dejado de cubrir desde que se separó.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-## TITULO SEXTO. Del Parentesco, de los Alimentos y de la Violencia Familiar
+### CAPITULO III. De la familia
 
-### CAPITULO III. De la Violencia Familiar
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1998)</small>
+ART. 284 BIS.- La familia es un grupo social, permanente, compuesto por un conjunto de personas unidas por el vínculo del matrimonio o concubinato, por los parentescos de consanguinidad, de afinidad o civil, que proporciona a sus miembros satisfacción de necesidades, estabilidad y formación.
 
-ART. 284 BIS.- Los integrantes de la familia tienen derecho a que los demás miembros les respeten su integridad física y psíquica, para lograr su sano desarrollo y plena incorporación y participación en el núcleo familiar y social. Al efecto, contará con la asistencia y protección de las instituciones públicas, de conformidad con lo dispuesto en las leyes.
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 1998)</small>
+ART. 284.1.- El Estado promoverá el vínculo del matrimonio como medio para la organización y desarrollo social de la familia.
 
-ART. 284 TER.- Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-Por violencia familiar se considera el uso de la fuerza física o moral, así como las omisiones graves, que ejerza un miembro de la familia en contra de otro integrante de la misma, que atente contra su integridad física o psíquica o ambas, independientemente de que pueda producir o no lesiones, y exista una relación de parentesco, matrimonio o concubinato.
+ART. 284.2.- Los miembros de la familia tienen derecho a desarrollarse y ser educados dentro de su propio ámbito familiar, bajo la custodia y cuidado de sus padres y a falta de ellos por sus ascendientes o demás parientes por consanguinidad o afinidad hasta el cuarto grado, y en su defecto por padres adoptivos.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 284.3.- Los integrantes de la familia tienen derecho a que los demás miembros respeten su integridad física y psíquica, de manera que no se afecten su sano desarrollo individual y su plena incorporación al núcleo social. Al efecto, contará con la asistencia y protección de las instituciones públicas y privadas en la forma y términos que prevengan las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 284.4.- Es obligación de los progenitores e integrantes de la familia promover la cultura del respeto y atención hacia todos los miembros de la misma, principalmente a los niños y niñas, mujeres, incapacitados y adultos mayores; proporcionándole siempre los cuidados que requieran y procurar la unidad de la familia.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 284.5.- Los miembros de la familia están obligados a evitar conductas que generen violencia familiar.
+
+Por violencia familiar se considera el uso de la fuerza física o moral, así como las omisiones graves que ejerza un miembro de la familia en contra de otro integrante de la misma, que atenté contra su integridad física o psíquica o ambas, independientemente de que pueda producir o no lesiones, y exista una relación de parentesco, matrimonio o concubinato.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 284.6.- Los conflictos familiares se atenderán y resolverán, considerando preferentemente el interés superior de los menores, incapacitados cualquiera que sea su edad y de los adultos mayores procurando mantener la armonía de la familia.
+
+ART. 284 TER.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
+
+## TITULO SEPTIMO. De la Paternidad y Filiación
 
 ### CAPITULO I. De los Hijos de Matrimonio
 
@@ -1202,8 +1642,6 @@ ART. 311.- Las acciones de que hablan los tres artículos que preceden, prescrib
 ART. 312.- La posesión de hijos nacido de matrimonio no pueden perderse sino por sentencia ejecutoriada, la cual admitirá los recursos que den las leyes en los juicios de mayor interés.
 
 ART. 313.- Si el que está en posesión de los derechos de padre o de hijo fuere despojado de ellos o perturbado en su ejercicio sin que preceda sentencia por la cual deba perderlos, podrá hacer uso de las acciones que establecen las leyes para que se le ampare o restituya en la posesión.
-
-## TITULO SEPTIMO. De la Paternidad y Filiación
 
 ### CAPITULO III. De la Legitimación
 
@@ -1321,83 +1759,215 @@ III.- A percibir la pensión hereditaria y los alimentos que fije la Ley.
 
 ### CAPITULO V. De la Adopción
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 350.- Los mayores de edad en pleno ejercicio de sus derechos, que no tengan descendientes pueden adoptar a un menor o a un incapacitado, aún cuando éste sea mayor de edad, siempre que el adoptante tenga quince años más que el adoptado y que la adopción sea benéfica a éste. Cuando circunstancias especiales lo ameriten y con intervención del Ministerio Público, el Juez puede autorizar la adopción a los adoptantes aún cuando éstos tengan descendientes, con los mismos presupuestos anteriores, e instituye la adopción plena con efectos irrevocables, en los términos establecidos por este Código en favor de los menores de 12 años abandonados, expósitos o los que sean entregados a una Institución de Asistencia autorizada para promover su adopción.
+ART. 350.- La adopción es un acto jurídico destinado a crear entre el adoptante y el adoptado los derechos y obligaciones resultantes de la patria potestad y en su caso, la filiación. Esta institución se establece en función del interés superior y beneficio del adoptado.
 
-ART. 351.- El marido y la mujer podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 352.- Nadie puede ser adoptado por más de una persona, salvo en el caso del artículo anterior.
+ART. 351.- En el Estado de San Luis Potosí, la adopción puede ser plena o simple, según se desprenda de los elementos aportados por los adoptantes en el procedimiento.
 
-ART. 353.- El tutor no puede adoptar al pupilo sino hasta después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 354.- El menor o el incapacitado que hayan sido adoptados podrán impugnar la adopción dentro del año siguiente a la mayor edad o a la fecha en que haya desaparecido la incapacidad.
+ART. 352.- La adopción procede respecto de menores de edad y de incapacitados. Los adoptantes deberán de ser mayores de 25 años de edad en pleno ejercicio de sus derechos y deberán tener 15 años mas que el adoptado, tener reconocida solvencia moral y un modo honesto de vivir.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 355.- El que adopte tendrá derecho respecto de la persona y bienes del adoptade (sic) los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos. En la adopción plena la obligación se extenderá a todos los ascendientes, descendientes colaterales de los adoptantes.
+ART. 353.- Nadie puede ser adoptado por más de una persona, salvo en el caso de que los adoptantes sean cónyuges. Estos sólo podrán adoptar cuando ambos estén de acuerdo en considerar al adoptado como hijo. Cuando la persona a adoptar sea hijo solamente de uno de los cónyuges, y éste ejerza exclusivamente la patria potestad, el otro podrá adoptarlo con el consentimiento del primero.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 356.- El adoptado tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo. En la adopción plena se extenderá a los ascendientes, descendientes y colaterales de los adoptantes.
+ART. 354.- El tutor no podrá adoptar al pupilo sino hasta después que hayan sido definitivamente aprobadas las cuentas de la tutela.
 
-ART. 357.- Para que la adopción pueda tener lugar, deberán consentir en ella:
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-I.- El que ejerce la patria potestad sobre el menor que se trata de adoptar;
+ART. 355.- Para que la adopción pueda efectuarse deberán consentir en ella en sus respectivos casos:
 
-II.- El tutor del que se va a adoptar;
+I.- El o los que ejerzan la patria potestad sobre el menor que se trata de adoptar;
 
-III.- Las personas que hayan acogido al que se pretende adoptar y lo traten como hijo, cuando no hubiere quien ejerza la patria potestad sobre él ni tenga tutor;
+II.- El tutor de quien va a ser adoptado;
 
-IV.- El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos ni tutor, ni persona que ostensiblemente le imparta su protección o le haya acogido como hijo.
+III.- La persona o personas que lo hayan acogido y lo traten como a un hijo, cuando no exista quien ejerza la patria potestad o la tutela;
 
-Si el menor que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para su adopción.
+IV.- Los directores de las instituciones públicas o privadas autorizadas que alberguen al menor, cuando éste no tenga padres conocidos ni tutor, ni persona que ostensiblemente le imparta su protección o le haya acogido como hijo;
 
-ART. 358.- Si el tutor o el Ministerio Público, sin causa justificada, no consienten en la adopción, podrá suplir el consentimiento el Presidente Municipal del lugar en que resida el incapacitado cuando encontrare que la adopción es notoriamente conveniente para los intereses morales y materiales de éste.
+V.- Los padres de la o las personas que pretendan adoptar, tratándose de adopción plena; y
 
-ART. 359.- El procedimiento para hacer la adopción será el fijado en el Código de Procedimientos Civiles.
+VI.- El menor que va a ser adoptado, cuando éste tenga más de doce años de edad.
 
-ART. 360.- Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando la adopción, quedará ésta consumada.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
+ART. 356.- Si la persona que ejerce la tutela o quien hubiere acogido como hijo, no consiente en la adopción sin causa justificada, el juez tomando en cuenta las circunstancias del caso y cuando se pruebe que la adopción será notoriamente benéfica y conveniente para el bienestar integral del adoptando (sic), podrá suplir el consentimiento.
 
-ART. 361.- El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente. En la adopción plena la resolución Judicial que la apruebe contendrá la orden al Oficial del Registro Civil, para que cancele en su caso el acta de Nacimiento del adoptado, así como para que levante acta de Nacimiento en la que figuren como padres los adoptantes y como hijo el adoptado y demás datos que se requieren conforme a la Ley, sin hacer mención sobre la adopción.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
+ART. 357.- El procedimiento judicial será el que fije el Código de Procedimientos Civiles en el Estado.
 
-ART. 362.- Los derechos y obligaciones que nacen de la adopción, así como el parentesco que de ella resulte se limitan al adoptante y al adoptado excepto en lo relativo a los impedimentos de matrimonio, respecto de los cuales se observará lo dispuesto por el Artículo 141. En la adopción plena el parentesco se extenderá a todos los ascendientes, descendientes y colaterales de los adoptantes.
+Las instituciones de asistencia públicas y privadas autorizadas, observarán las disposiciones administrativas que sobre la materia establezca la Ley sobre el Sistema de Asistencia Social en el Estado y demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 363.- Los derechos y obligaciones que resulten del parentesco natural, no se extinguen por la adopción excepto la patria potestad que será transferida al adoptante. En la adopción plena los parientes naturales, ascendientes y colaterales del adoptado no conservarán ningún derecho sobre el mismo, quedando éste exento de deberes para con ellos, pero conservando en su caso sus derechos sucesorios por naturaleza.
+### CAPITULO VI. De la adopción simple
 
-ART. 364.- La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 365.- La adopción puede revocarse:
+ART. 358.- La adopción simple crea entre el adoptante o adoptantes y el adoptado los mismos vínculos jurídicos que ligan a los padres con los hijos.
 
-I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento conforme al artículo 357;
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-II.- Por ingratitud del adoptado.
+ART. 359.- La adopción simple concede a los adoptantes los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos y a los adoptados los mismos derechos y obligaciones que tienen los hijos respecto de sus padres.
 
-ART. 366.- Para los efectos de la fracción II del artículo anterior, se considera ingrato al adoptado:
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-I.- Si comete algún delito que merezca una pena mayor de un año de prisión contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
+ART. 360.- Los derechos y obligaciones que nacen de la adopción simple, así como el parentesco que de ella resulte se limitan a las personas de los adoptantes y adoptado, excluyendo a los demás familiares.
 
-II.- Si el adoptado acusa judicialmente al adoptante de algún delito grave que pudiera ser perseguido de oficio aunque lo pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes y descendientes;
+Los derechos y obligaciones que emanen del parentesco natural no se extinguen por la adopción simple, excepto la patria potestad que será transferida al adoptante, salvo que éste se encuentre casado con alguno de los progenitores del adoptado, caso en el cual será ejercida por ambos cónyuges.
 
-III.- Si el adoptado rehusa dar alimentos al adoptante que ha caído en pobreza.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 367.- En el primer caso del artículo 365, el juez decretará que la adopción queda revocada si, convencido de la espontaneidad con que se solicitó la revocación, encuentra que ésta es conveniente para los intereses morales y materiales del adoptado.
+ART. 361.- La adopción simple será revocable cuando se actualice alguna de las causas que este Código señala. También podrá el adoptado impugnarla una vez que adquiera la mayoría de edad, o desaparezca su incapacidad.
 
-ART. 368.- El decreto del juez deja sin efecto la adopción y restituye las cosas al estado que guardaban antes de efectuarse ésta.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 369.- En el segundo caso de artículo 365, la adopción deja de producir efectos desde que se comete el acto de ingratitud, aún cuando la resolución judicial que declare revocada la adopción sea posterior.
+ART. 362.- La adopción simple podrá revocarse en los casos siguientes:
 
-ART. 370.- Las resoluciones que dicten los jueces aprobando la revocación, se comunicarán al oficial del registro civil del lugar en que aquélla se hizo para que cancele el acta de adopción.
+I.- Cuando el adoptado y adoptante convengan en ello y la persona adoptada sea mayor de edad; si no lo es, será necesario que consientan en la revocación las personas que prestaron su consentimiento para la adopción;
 
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1992)</small>
+II.- Por ingratitud del adoptado o del adoptante; y
 
-ART. 370 BIS.- Las disposiciones de este Capítulo relativas a la adopción serán aplicables para la adopción plena en cuanto a no se opongan a las que regulan este Código.
+III.- Por actos inmorales que ejecute cualquiera de los adoptantes contra el adoptado con el fin de corromperlo o conducirlo a una conducta inadecuada.
+
+En este caso la revocación de la adopción podrá solicitarse por el Ministerio Publico, si el adoptado es menor de edad.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 363.- En el caso de la fracción I del artículo anterior el juez decretará la revocación si de la misma se desprende que es un acto voluntario, que beneficie y resulte conveniente para el bienestar integral del adoptado.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 364.- Para los efectos de la fracción II del artículo 362 de este Código, se considera ingrata a la persona:
+
+I.- Si comete algún delito intencional que merezca pena mayor a un año de prisión contra la honra o los bienes del adoptante o adoptado según sea el caso, su cónyuge, sus ascendientes o descendientes;
+
+II.- Si rehusa a dar alimentos al adoptante o adoptado, y
+
+III.- Si acusa oficialmente al adoptante o al adoptado de haber cometido un delito grave que pudiera perseguirse de oficio, aunque lo pruebe, excepto en el caso de que ese delito se hubiere cometido en contra del adoptante, el adoptado, su cónyuge, sus ascendientes o descendientes.
+
+En estos casos la adopción deja de surtir efectos a partir del acto de ingratitud, aun cuando la resolución judicial que declare la revocación sea posterior.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 365.- Tomando en cuenta las circunstancias del caso el juez autorizará la separación del adoptado y dictará las medidas necesarias para asegurar su subsistencia.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 366.- La resolución judicial que revoque la adopción dejará sin efectos ésta y restituirá las cosas al estado que guardaban antes de la adopción.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 367.- El juez que decrete la adopción o su revocación, remitirá oficio que contenga los puntos resolutivos tanto al director como al oficial del Registro Civil que los inscribió para que levanten o cancelen el acta correspondiente y en su caso haga las anotaciones que marca la ley.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 368.- La adopción simple podrá convertirse en plena, cuando se acredite que tal modificación resulta notoriamente benéfica para el adoptado, debiéndose obtener su consentimiento si hubiere cumplido doce años. Si fuese menor de esa edad se requiere la aceptación de quien hubiese consentido en la adopción, siempre y cuando sea posible obtenerlo; cuando no sea posible obtenerlo o existiera oposición, el juez deberá resolver atendiendo al interés superior del menor.
+
+En el procedimiento de conversión a que se refiere este artículo, deberá darse intervención al Ministerio Público y al órgano rector de la asistencia social en el Estado.
+
+Decretada la conversión, serán aplicadas las reglas de la adopción plena.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+### CAPITULO VII. De la adopción plena
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 369.- La adopción plena es irrevocable, integra al adoptado como miembro de la familia de él o los adoptantes con todos los derechos y obligaciones del parentesco consanguíneo, extingue la filiación preexistente entre el adoptado y sus progenitores y el parentesco con la familia de éstos.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 370.- La adopción plena procede cuando se trate de:
+
+I.- Expósitos;
+
+II.- Menores de edad abandonados;
+
+III.- Menores de edad que sean entregados a una institución publica o privada autorizada para promover su adopción; y
+
+IV.- Huérfanos de padre y madre que carezcan de ascendiente alguno o que teniéndolos se hubiere decretado la perdida de patria potestad.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 370.1.- Las instituciones privadas a quienes en los términos de la Ley de Asistencia Social del Estado les sean conferidos menores para promover su adopción, contarán con un Consejo Interno de Adopciones en el que deberá participar el Ministerio Público y la autoridad rectora de la asistencia social en el Estado, quien vigilará la aplicación de las políticas que sobre la materia establezca ese organismo.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 370.2.- Cuando el menor sea entregado a una institución de asistencia privada para que ésta promueva su adopción, además de observarse las formalidades establecidas en el artículo anterior el consentimiento deberá referirse inequívocamente a la adopción plena y deberá manifestarse ante el juez competente, quien informará al declarante de manera que no le queden dudas sobre el contenido y alcance del acto, con asistencia del Ministerio Público.
+
+El consentimiento dado por escrito a la institución privada deberá ser presentado en el procedimiento de adopción a fin de que el juez certifique la voluntad de quien lo otorga, debiendo ratificar el mismo, ante la presencia judicial.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 370.3.- En el caso del último párrafo del artículo que antecede, el juez podrá dispensar la ratificación del consentimiento de las personas que debieran otorgarlo, si por alguna razón existiere grave dificultad para recabarlo y esto resulte en perjuicio del menor.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 370.4.- No procederá la adopción plena, tratándose de personas que tengan vínculo de parentesco consanguíneo con el menor o incapacitado.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 370.5.- Con vistas a la futura adopción plena y con audiencia del Ministerio Público, podrá ser declarado por el juez el estado de abandono de un menor, cuando los padres o quien ejerza la patria potestad del mismo se hubieran comportado con manifiesto desinterés hacia él, en términos que afecten su salud o seguridad, si conservaren tal conducta durante por lo menos tres meses anteriores a la solicitud de la declaración. La declaración se hará como medio preparatorio del juicio.
+
+Tendrán legitimación activa para requerir la declaración del estado de abandono, quienes hubieren tenido al menor bajo su guarda.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 370.6.- El vínculo de adopción plena será constituido por sentencia dictada por el juez competente, una vez que se acredite que existen ventajas para el menor, que los motivos en que se funda son legítimos y que no entraña sacrificio injusto para los hijos de los adoptantes en el caso de que los hubiere.
+
+En el procedimiento el juez con independencia de las pruebas que se aporten, tendrá facultad para allegarse toda la información relativa a la salud y personalidad de los adoptantes y sobre su capacidad psicológica y económica para adoptar al menor.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 370.7.- El juez que apruebe la adopción plena remitirá copia de las diligencias respectivas al oficial del Registro Civil del lugar, para que levante el acta correspondiente. La resolución judicial que la apruebe contendrá la orden a dicho funcionario, para que cancele en su caso el acta de nacimiento del adoptado, así como para que levante acta de nacimiento en la que figuren como padres los adoptantes y como hijo el adoptado y demás datos que se requieren conforme a la ley, sin hacer mención sobre la adopción.
+
+Tratándose de la adopción plena, el Registro Civil se abstendrá de proporcionar información sobre los antecedentes de la familia de origen del adoptado.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 370.8.- Ejecutoriada que sea la sentencia que decrete la adopción plena, quedarán extinguidos todos los vínculos con la familia de origen del menor.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+### CAPITULO VIII. De la adopción internacional
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 370.9.- Se considera adopción internacional cuando los adoptantes son extranjeros con residencia habitual fuera del territorio nacional, que desean adoptar a un menor mexicano domiciliado en territorio potosino, a través de una institución reconocida y validada en su país de origen vinculada a la protección de los menores.
+
+Los extranjeros que pretendan adoptar deberán ser personas de distinto sexo unidas en legítimo matrimonio y cumplir con los requisitos administrativos que contiene la Convención Internacional de la Haya y los que fije el Organismo Rector de la Asistencia Social en el Estado, en su carácter de autoridad central en materia de adopciones internacionales.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 370.10.- Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano y, en lo conducente, por las disposiciones de este Código. Las adopciones internacionales siempre serán plenas.
+
+En el procedimiento de adopción internacional en igualdad de circunstancias, se dará preferencia a adoptantes mexicanos sobre los extranjeros.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 370.11.- Los cónyuges extranjeros que pretendan adoptar a un menor de nacionalidad mexicana en el Estado de San Luis Potosí deberán presentar ante el juez, certificado de idoneidad expedido por la autoridad competente de su país de origen que acredite que los solicitantes son considerados aptos para adoptar, constancia de que el menor que se pretende adoptar ha sido autorizado para entrar y residir permanentemente en dicho estado y la autorización de la Secretaría de Gobernación para internarse y permanecer en el país con la finalidad de realizar una adopción.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 370.12.- El Sistema para el Desarrollo Integral de la Familia del Estado o su equivalente en su carácter de autoridad central en materia de adopciones internacionales, tramitará y conocerá en exclusiva de los procedimientos administrativos sobre esta materia.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 370.13.- El Sistema para el Desarrollo Integral de la Familia en el Estado, o su equivalente en su carácter de autoridad central en materia de adopciones internacionales, deberá de informar semestralmente al juez que decretó la adopción y hasta que el adoptado adquiera la edad de doce años, sobre el estado, evolución y desarrollo de los menores concedidos en adopción.
+
+El Ministerio Público vigilará que se cumpla con esta disposición.
+
+ART. 370 BIS.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
+
+## TITULO OCTAVO. De la Patria Potestad
 
 ### CAPITULO I. De los Efectos de la Patria Potestad Respecto de la Persona de los Hijos
 
@@ -1458,6 +2028,12 @@ ART. 383.- Para los efectos del artículo anterior, quienes ejerzan la patria po
 La facultad de corregir no implica infringir al menor actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el artículo 284 ter de este Código.
 
 ART. 384.- El que está sujeto a la patria potestad no puede comparecer en juicio ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejercen igual derecho. En caso de irracional disenso, resolverá el juez.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 384 BIS.- La patria potestad, bajo ninguna circunstancia, faculta a quienes la ejercen para tomar determinaciones que afecten negativamente la vida, la salud, la seguridad o la integridad de los menores sujetos a ella, por ser estos bienes jurídicos de interés social, cuya preservación corresponde por tanto al Estado.
+
+El juez deberá tomar al respecto las medidas inmediatas que resulten necesarias para la protección de tales bienes.
 
 ### CAPITULO II. De los Efectos de la Patria Potestad Respecto de los Bienes del Hijo
 
@@ -1537,7 +2113,7 @@ ART. 404.- La patria potestad se pierde por resolución judicial:
 
 I.- Cuando el que la ejerza sea condenado expresamente a la pérdida de ese derecho;
 
-II.- En los casos de divorcio teniendo en cuenta lo que dispone el artículo 244;
+II.- (DEROGADA, P.O. 3 DE OCTUBRE DE 2000)
 
 III.- Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad o la moralidad de los hijos, aún cuando esos hechos no cayeren bajo la sanción de la ley penal;
 
@@ -1572,6 +2148,8 @@ ART. 408.- La patria potestad no es renunciable; pero aquellos a quienes corresp
 I.- Cuando tengan sesenta años cumplidos;
 
 II.- Cuando por su mal estado habitual de salud no puedan atender debidamente a su desempeño.
+
+## TITULO NOVENO. De la Tutela
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -1659,8 +2237,6 @@ ART. 439.- Si por un nombramiento condicional de tutor o por algún otro motivo 
 
 ART. 440.- El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo, aplicándose a esta tutela lo dispuesto en los artículos anteriores.
 
-## TITULO OCTAVO. De la Patria Potestad
-
 ### CAPITULO III. De la Tutela Legítima de los Menores
 
 ART. 441.- Ha lugar a tutela legítima:
@@ -1707,11 +2283,9 @@ Se considera expósito al menor que es colocado en una situación de desamparo p
 
 ART. 452.- Los responsables de las casas de asistencia, públicas o privadas, donde se reciban expósitos o abandonados, desempeñarán la tutela de éstos con arreglo a las leyes y a lo que prevengan los estatutos de la institución. En este caso no es necesario el discernimiento del cargo.
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 453.- Los responsables de las casas de asistencia, públicas o privadas, donde se reciban menores que hayan sido objeto de la violencia familiar a que se refiere el artículo 284 ter de este Código, tendrán la custodia de éstos en los términos que prevengan las leyes y los estatutos de la institución. En todo caso harán del conocimiento del Ministerio Público y de a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar.
-
-## TITULO NOVENO. De la Tutela
+ART. 453.- Los responsables de las casas de asistencias, públicas y privadas donde se reciban menores que hayan sido objeto de la violencia familiar a que se refiere el artículo 284.6 de este código, tendrán la custodia de éstos en los términos que establezcan las disposiciones legales aplicables o los estatutos que normen a la institución. En todo caso harán del conocimiento del ministerio público y de a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar.
 
 ### CAPITULO VI. De la Tutela Dativa
 
@@ -2129,6 +2703,8 @@ ART. 585.- Los menores de edad no pueden alegar la nulidad de que hablan los art
 
 ART. 586.- Tampoco pueden alegarla los menores, si han presentado certificados falsos del registro civil, para hacerse pasar como mayores o han manifestado dolosamente que lo eran.
 
+## TITULO DECIMO. De la Emancipación y la Mayor Edad
+
 ### CAPITULO I. De la Emancipación
 
 ART. 587.- El matrimonio del menor produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
@@ -2154,6 +2730,8 @@ ART. 591.- (DEROGADO, P.O. 20 DE JULIO DE 1975)
 ART. 592.- La mayor edad comienza a los dieciocho años cumplidos.
 
 ART. 593.- El mayor de edad dispone libremente de su persona y de sus bienes.
+
+## TITULO UNDECIMO. De los Ausentes e Ignorados
 
 ### CAPITULO I. De las medidas Provisionales en caso de Ausencia
 
@@ -2297,8 +2875,6 @@ ART. 642.- Muerto el que haya obtenido la posesión provisional le sucederán su
 
 ART. 643.- Si el ausente se presenta o se prueba su existencia antes de que sea declarada la presunción de muerte, recobrará sus bienes. Los que han tenido la posesión provisional, hacen suyos todos los frutos, ya sea industriales, naturales o civiles.
 
-## TITULO DECIMO. De la Emancipación y la Mayor Edad
-
 ### CAPITULO IV. De la Administración de los Bienes del Ausente Casado
 
 ART. 644.- La declaración de ausencia interrumpe la sociedad conyugal, a menos de que en las capitulaciones matrimoniales se haya estipulado que continúe.
@@ -2351,8 +2927,6 @@ ART. 660.- Transcurridos diez años de la declaración de presunción de muerte 
 
 ART. 661.- Después de diez años de declarada la presunción de muerte, el ausente que regrese o de cuya existencia se tenga noticia cierta, no podrá recobrar sus bienes sino sólo tendrá derecho a alimentos o a participar en la mitad de los frutos, a su elección.
 
-## TITULO UNDECIMO. De los Ausentes e Ignorados
-
 ### CAPITULO VI. De los efectos de la Ausencia respecto de los derechos eventuales del ausente
 
 ART. 662.- Cualquiera que reclame un derecho referente a una persona cuya existencia no esté reconocida, deberá probar que esta persona vivía en el tiempo en que era necesaria su existencia para adquirir aquel derecho.
@@ -2372,6 +2946,8 @@ ART. 667.- El representante y los poseedores provisionales y definitivos, en sus
 ART. 668.- Por causa de ausencia no se suspenden los términos que fija la Ley para la prescripción.
 
 ART. 669.- El Ministerio Público velará por los intereses del ausente, será oído en todos los juicios que tengan relación con él, y en las declaraciones de ausencia y presunción de muerte.
+
+## TITULO DUODECIMO. Del Patrimonio de la Familia
 
 ### CAPITULO UNICO
 
@@ -2505,43 +3081,61 @@ ART. 692.- El Ministerio Público será oído en la extinción y en la reducció
 
 ART. 693.- Extinguido el patrimonio de la familia, los bienes que lo conformaban se reincorporarán al pleno dominio del que lo constituyó, o pasan hasta entonces a los beneficiarios en términos de este capítulo si aquél ha muerto.
 
+# LIBRO SEGUNDO. De los Bienes
+
+## TITULO PRIMERO. Disposiciones Preliminares
+
+ART. 694.- Pueden ser objeto de apropiación todas las cosas que no estén excluídas del comercio.
+
+ART. 695.- Las cosas pueden estar fuera del comercio por su naturaleza o por disposición de Ley.
+
+ART. 696.- Están fuera del comercio por su naturaleza las que no pueden ser poseídas por algún individuo exclusivamente, y por disposición de la Ley, las que ella declara irreductibles a propiedad particular.
+
+## TITULO SEGUNDO. Clasificación de los Bienes
+
 ### CAPITULO I. De los Bienes Inmuebles
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
 ART. 697.- Son bienes inmuebles:
 
 I.- El suelo y las construcciones adheridas a él;
 
-II.- Las plantas y árboles, mientras estuvieren unidos a la tierra, y los frutos pendientes de los mismos árboles y plantas, mientras no sean separados de ellos por cosechas o cortes regulares;
+II.- Las plantas y árboles, mientras estuvieren unidos al inmueble, y los frutos pendientes de los mismos árboles y plantas, mientras no sean separados de ellos por cosechas o cortes regulares;
 
-III.- Todo lo que esté unido a un inmueble de una manera fija, de modo que no pueda separarse sin deterioro del mismo inmueble o del objeto a él adherido;
+III.- Todo lo que esté unido a un inmueble de una manera fija, de modo que no puede separarse sin deterioro del mismo inmueble o del objeto a él adherido;
 
-IV.- Las estatuas, relieves, pinturas u otros objetos de ornamentación, colocados en edificios o heredades por el dueño del inmueble, en tal forma que revele el propósito de unirlos de un modo permanente al fundo;
+IV.- Las estatuas, relieves, pinturas u otros objetos de ornamentación, colocados en edificios o heredades por el dueño del inmueble, en tal forma que revele el propósito de unirlos de un modo permanente al inmueble;
 
-V.- Los palomares, colmenas, estanques de peces o criaderos análogos, cuando el propietario los conserve con el propósito de mantenerlos unidos a la finca y formando parte de ella de un modo permanente;
+V.- Los palomares, colmenas, estanques de peces o criaderos análogos, cuando el propietario los conserve con el propósito de mantenerlos unidos al inmueble y formando parte de ella de un modo permanente;
 
 VI.- Las máquinas, vasos, instrumentos o utensilios destinados por el propietario de la finca directa y exclusivamente a la industria o explotación de la misma;
 
 VII.- Los abonos destinados al cultivo de una heredad, que estén en las tierras donde hayan de utilizarse; y las semillas necesarias para el cultivo de la finca;
 
-VIII.- Los aparatos eléctricos y accesorios adheridos al suelo o a los edificios por el dueño de éstos, salvo convenio en contrario;
+VIII.- Los aparatos eléctricos y accesorios adheridos al inmueble por el dueño de éstos, salvo convenio en contrario;
 
-IX.- Los manantiales, estanques, aljibes y corrientes de agua, así como los acueductos y las cañerías de cualquiera especie que sirvan para conducir los líquidos o gases a una finca o para extraerlos de ella;
+IX.- Los manantiales, estanques, aljibes y corrientes de agua, así como los acueductos y las cañerías de cualquiera especie que sirva para conducir los líquidos o gases a un inmueble o para extraerlo de él;
 
-X.- Los animales que formen el pie de cría en los predios rústicos destinados total o parcialmente al ramo de ganadería; así como las bestias de trabajo indispensables para el cultivo de la finca, mientras están destinadas a ese objeto;
+X.- Los animales que formen el pie de cría en los predios rústicos destinados total o parcialmente al ramo de ganadería; así como las bestias, tractores y demás implementos mecanizados, de trabajo indispensables para el cultivo del inmueble, mientras están destinadas a ese objeto;
 
-XI.- Los diques y construcciones que, aún cuando sean flotantes, estén destinados por su objeto y condiciones a permanecer en un punto fijo de un río o laguna;
+XI.- Los diques y construcciones que, aún cuando sean flotantes, estén destinados por su objeto y condiciones a permanecer en un punto fijo de un río, laguna o costa;
 
 XII.- Los derechos reales sobre inmuebles;
 
-XIII.- El material rodante de los ferrocarriles, las líneas telefónicas y telegráficas y las estaciones radiotelegráficas fijas.
+XIII.- Las vías de los ferrocarriles, los cables de transmisiones y de comunicaciones electrónicas las líneas telefónicas, telegráficas, televisivas y de comunicación en general y las estaciones radiotelegráficas y radiotelefónicas fijas.
 
-ART. 698.- Los bienes muebles, por su naturaleza, que se hayan considerado como inmuebles, conforme a lo dispuesto en varias fracciones del artículo anterior, recobrarán su calidad de muebles cuando el mismo dueño los separe del edificio; salvo el caso de que en el valor de éste se haya computado el de aquéllos, para constituir algún derecho real a favor de un tercero.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 698.- Los bienes muebles, por su naturaleza, que se hayan considerado como inmuebles, conforme a lo dispuesto en varias fracciones del artículo anterior, recobrarán su calidad de muebles, cuando el mismo dueño los separe del edificio, o se ordene su separación mediante resolución de autoridad competente; salvo el caso de que en el valor de éste se haya computado el de aquellos, para constituir algún derecho real a favor de un tercero.
 
 ### CAPITULO II. De los Bienes Muebles
 
 ART. 699.- Los bienes son muebles por su naturaleza o por disposición de Ley.
 
-ART. 700.- Son muebles por su naturaleza, los cuerpos que pueden transladarse de un lugar a otro, ya se muevan por sí mismos, ya por efecto de una fuerza exterior.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 700.- Son muebles por su naturaleza, los cuerpos que pueden trasladarse de un lugar a otro, ya se muevan por sí mismos, ya por efecto de una fuerza exterior, salvo en los casos a que se refiere el Artículo 697 anterior.
 
 ART. 701.- Son bienes muebles por determinación de la Ley, las obligaciones y los derechos o acciones que tienen por objeto cosas muebles o cantidades exigibles en virtud de acción personal.
 
@@ -2549,7 +3143,9 @@ ART. 702.- Por igual razón se reputan muebles las acciones que cada socio tiene
 
 ART. 703.- Las embarcaciones de todo género son bienes muebles.
 
-ART. 704.- Los materiales procedentes de la demolición de un edificio, y los que se hubieren acopiado para repararlo o para construir uno nuevo, serán muebles mientras no se hayan empleado en la fabricación.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 704.- Los materiales procedentes de la demolición de un edificio, y los que se hubieren acopiado para repararlo o para construir uno nuevo, serán muebles mientras no se hayan empleado, para ello en la edificación.
 
 ART. 705.- Los derechos de autor se consideran bienes muebles.
 
@@ -2557,7 +3153,9 @@ ART. 706.- En general, son bienes muebles todos los demás no considerados por l
 
 ART. 707.- Cuando en una disposición de la Ley o en los actos y contratos se use de las palabras bienes muebles, se comprenderán bajo esa denominación los enumerados en los artículos anteriores.
 
-ART. 708.- Cuando se use de las palabras muebles o bienes muebles de una casa, se comprenderán los que formen el ajuar y utensilios de ésta y que sirven exclusiva y propiamente para el uso y trato ordinario de una familia, según las circunstancias de las personas que la integran. En consecuencia, no se comprenderán: el dinero, los documentos y papeles, las colecciones científicas y artísticas, los libros y sus estantes, las medallas, las armas, los instrumentos de artes y oficios, las joyas, ninguna clase de ropa de uso, los granos, caldos, mercancías y demás cosas similares.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 708.- Cuando se usen las palabras muebles o bienes muebles de una casa, se comprenderán los que formen el ajuar y utensilios de ésta y que sirven exclusiva y propiamente para el uso y trato ordinario de una familia según las circunstancias de las personas que la integran. En consecuencia, no se comprenderán: el dinero, los documentos y papeles, las colecciones científicas y artísticas, los libros y sus estantes, las medallas, las armas, los instrumentos de artes y oficios, las joyas, ninguna clase de ropa de uso, los granos, caldos, mercancías y demás cosas similares.
 
 ART. 709.- Cuando por la redacción de un testamento o de un convenio, se descubra que el testador o las partes contratantes han dado a las palabras muebles o bienes muebles una significación diversa de la fijada en los artículos anteriores, se estará a lo dispuesto en el testamento o convenio.
 
@@ -2577,7 +3175,9 @@ ART. 714.- Los bienes del dominio del poder público se dividen en bienes de uso
 
 ART. 715.- Los bienes de uso común son inalienables e imprescriptibles. Pueden aprovecharse de ellos todos los habitantes, con las restricciones establecidas por la Ley; pero para aprovechamientos especiales se necesita concesión otorgada con los requisitos que prevengan las leyes respectivas.
 
-ART. 716.- Los que estorben el aprovechamiento de los bienes de uso común, quedan sujetos a las penas correspondientes, a pagar los daños y perjuicios causados y a la pérdida de las obras que hubieren ejecutado.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 716.- Las personas que estorben el aprovechamiento de los bienes de uso común, quedan sujetos a las penas correspondientes, a pagar los daños y perjuicios causados y a la pérdida de las obras que hubieren ejecutado.
 
 ART. 717.- Los bienes destinados a un servicio público y los bienes propios, pertenecen en pleno dominio a la Federación, a los Estados o a los Municipios; pero los primeros son inalienables e imprescriptibles, mientras no se les desafecte del servicio público a que se hallen destinados.
 
@@ -2585,7 +3185,9 @@ ART. 718.- Cuando conforme a la Ley pueda enajenarse y se enajene una vía públ
 
 ART. 719.- Son bienes de propiedad de los particulares todas las cosas cuyo dominio les pertenece legalmente, y de las que no puede aprovecharse ninguno sin consentimiento del dueño o autorización de la Ley.
 
-ART. 720.- Los extranjeros y las personas morales para adquirir la propiedad de bienes inmuebles, observarán lo dispuesto en el artículo 27 de la Constitución de los Estados Unidos Mexicanos y sus leyes reglamentarias.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 720.- Las personas físicas o morales extranjeras para adquirir la propiedad de bienes inmuebles, observarán lo dispuesto en el artículo 27 de la Constitución de los Estados Unidos Mexicanos y sus leyes reglamentarias.
 
 ### CAPITULO IV. De los Bienes Mostrencos
 
@@ -2609,8 +3211,6 @@ ART. 729.- Cuando por alguna circunstancia especial fuere necesario, a juicio de
 
 ART. 730.- La venta se hará siempre en almoneda pública.
 
-## TITULO DUODECIMO. Del Patrimonio de la Familia
-
 ### CAPITULO V. De los Bienes Vacantes
 
 ART. 731.- Son bienes vacantes los inmuebles que no tienen dueño cierto y conocido.
@@ -2623,27 +3223,23 @@ ART. 734.- El denunciante recibirá la cuarta parte del valor catastral de los b
 
 ART. 735.- El que se apodere de un bien vacante sin cumplir lo prevenido en este capítulo, pagará una multa de cinco a cincuenta pesos, sin perjuicio de las penas que señale el respectivo Código.
 
-# LIBRO SEGUNDO. De los Bienes
-
-## TITULO PRIMERO. Disposiciones Preliminares
-
-ART. 694.- Pueden ser objeto de apropiación todas las cosas que no estén excluídas del comercio.
-
-ART. 695.- Las cosas pueden estar fuera del comercio por su naturaleza o por disposición de Ley.
-
-ART. 696.- Están fuera del comercio por su naturaleza las que no pueden ser poseídas por algún individuo exclusivamente, y por disposición de la Ley, las que ella declara irreductibles a propiedad particular.
-
-## TITULO SEGUNDO. Clasificación de los Bienes
+## TITULO TERCERO. De la Posesión
 
 ### CAPITULO UNICO
 
-ART. 736.- Es poseedor de una cosa el que ejerce sobre ella un poder de hecho, salvo lo dispuesto en el artículo 739. Posee un derecho el que goza de él.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 736.- Posesión es la tenencia o goce, por una persona, o por otra en su nombre, de un bien corpóreo o de un derecho, respectivamente, con el ánimo de comportarse como propietarios de ese bien o como titulares de ese derecho.
+
+Es poseedor de un bien el que ejerce sobre él un poder de hecho, salvo lo dispuesto en el artículo 739. Posee un derecho el que goza de él.
 
 ART. 737.- Cuando en virtud de un acto jurídico el propietario entrega a otro una cosa, concediéndole el derecho de retenerla temporalmente en su poder en calidad de usufructuario, arrendatario, acreedor pignoraticio, depositario u otro título análogo, los dos son poseedores de la cosa. El que la posee a título de propietario tiene una posesión originaria; el otro, una posesión derivada.
 
 ART. 738.- En caso de despojo, el que tiene la posesión originaria goza del derecho de pedir que sea restituído el que tenía la posesión derivada, y si éste no puede o no quiere recobrarla, el poseedor originario puede pedir que se le dé la posesión a él mismo.
 
-ART. 739.- Cuando se demuestre que una persona tiene en su poder una cosa en virtud de la situación de dependencia en que se encuentra respecto del propietario de esa cosa, y que la retiene en provecho de éste, en cumplimiento de las órdenes e instrucciones que de él ha recibido, no se le considera poseedor.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 739.- Quien tenga en su poder un bien en virtud de la situación de dependencia en que se encuentra respecto del propietario de ese bien, y que lo retiene en provecho de éste, en cumplimiento de las órdenes e instrucciones que de él ha recibido, no se le considera poseedor.
 
 ART. 740.- Sólo pueden ser objeto de posesión las cosas y derechos que sean susceptibles de apropiación.
 
@@ -2759,6 +3355,8 @@ VII.- Por expropiación por causa de utilidad pública.
 
 ART. 775.- Se pierde la posesión de los derechos cuando es imposible ejercitarlos o cuando no se ejercen por el tiempo que baste para que queden prescritos.
 
+## TITULO CUARTO. De la Propiedad
+
 ### CAPITULO I. Disposiciones Generales
 
 ART. 776.- El propietario de una cosa puede gozar y disponer de ella con las limitaciones y modalidades que fijen las leyes.
@@ -2769,7 +3367,9 @@ ART. 778.- Se declara de utilidad pública la adquisición que haga el Gobierno 
 
 ART. 779.- El Gobierno del Estado podrá expropiar las cosas que pertenezcan a los particulares y que se consideren como notables y características manifestaciones de nuestra cultura.
 
-ART. 780.- Quienes actualmente sean propietarios de las cosas mencionadas en el artículo anterior no podrán enajenarlas o gravarlas, ni alterarlas en forma que pierdan sus características, sin autorización del C. Gobernador del Estado.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 780.- Quienes actualmente sean propietarios de las cosas mencionadas en el artículo anterior serán notificados de ello y no podrán enajenarlas o gravarlas, ni alterarlas en forma que pierdan sus características, sin autorización de la autoridad correspondiente.
 
 ART. 781.- La infracción del artículo que precede, se castigará como delito, de acuerdo con lo que disponga el código de la materia.
 
@@ -2819,7 +3419,9 @@ ART. 802.- El derecho de caza y el de apropiarse los productos de ésta en terre
 
 ART. 803.- En terrenos de propiedad particular no puede ejercitarse el derecho a que se refiere el artículo anterior, ya sea comenzando en él la caza, ya continuando la comenzada en terreno público, sin permiso del dueño. Los campesinos asalariados y los aparceros gozan del derecho de caza en las fincas donde trabajen, en cuanto se aplique a satisfacer sus necesidades y las de sus familias.
 
-ART. 804.- El ejercicio del derecho de cazar se regirá por los reglamentos administrativos y por las siguientes bases:
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 804.- El ejercicio del derecho de cazar se regirá por las leyes y reglamentos administrativos.
 
 ART. 805.- El cazador se hace dueño del animal que caza, por el acto de apoderarse de él, observándose lo dispuesto en el artículo 807.
 
@@ -2853,7 +3455,11 @@ ART. 819.- La apropiación de los animales domésticos se rige por las disposici
 
 ### CAPITULO III. De los Tesoros
 
-ART. 820.- Para los efectos de los artículos que siguen, se entiende por tesoro, el depósito oculto de dinero, alhajas u otros objetos preciosos cuya legítima procedencia se ignore. Nunca un tesoro se considera como fruto de una finca.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 820.- Se entiende como tesoro para los efectos de los artículos que siguen, el depósito oculto de dinero, alhajas, pinturas u otros objetos preciosos cuya legítima procedencia se ignore y que estén ocultos en un inmueble o mueble. Nunca un tesoro se considera como fruto de una finca.
+
+Si el tesoro se hallare en un bien mueble se aplicarán las reglas establecidas para el tesoro encontrado en un inmueble.
 
 ART. 821.- El tesoro oculto, pertenece al que lo descubre en sitio de su propiedad.
 
@@ -2867,13 +3473,17 @@ ART. 825.- De propia autoridad nadie puede, en terreno o edificio ajenos, hacer 
 
 ART. 826.- El tesoro descubierto en terreno ajeno, por obras practicadas sin consentimiento de su dueño, pertenece íntegramente a éste.
 
-ART. 827.- El que sin consentimiento del dueño hiciere en terreno ajeno obras para descubrir un tesoro, estará obligado en todo caso a pagar los daños y perjuicios, y, además, a costear la reposición de las cosas a su primer estado; perderá también el derecho de inquilinato si lo tuviere en el fundo, aunque no éste fenecido el término de arrendamiento, cuando así lo pidiere el dueño.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 827.- El que sin consentimiento del dueño hiciere en terreno ajeno obras para descubrir un tesoro, estará obligado en todo caso a pagar los daños y perjuicios, y, además a costear la reposición de las cosas a su primer estado; perderá también el derecho de inquilino, comodatario, depositario, acreedor, prendario u otro título si lo tuviere en el fundo, aunque no haya concluido el plazo a que se sometió el derecho por virtud del cual tenía en su poder ese bien.
 
 ART. 828.- Si el tesoro se buscare con consentimiento del dueño del fundo, se observarán las estipulaciones que se hubieren hecho para la distribución; y si no las hubiere, los gastos y lo descubierto se distribuirán por mitad.
 
 ART. 829.- Cuando uno tuviere la propiedad y otro el usufructo de una finca en que se haya encontrado el tesoro, si el que lo encontró fué el mismo usufructuario, la parte que le corresponde se determinará según las reglas que quedan establecidas para el descubridor extraño. Si el descubridor no es el dueño ni el usufructuario el tesoro se repartirá entre el dueño y el descubridor, con exclusión del usufructuario observándose en este caso lo dispuesto en los artículos 826, 827 y 828.
 
-ART. 830.- Si el propietario encuentra el tesoro en la finca o terreno cuyo usufructo pertenece a otra persona, ésta no tendrá parte alguna en el tesoro, pero sí derecho de exigir del propietario una indemnización por los daños y perjuicios que origine la interrupción del usufructo, en la parte ocupada o demolida para buscar el tesoro; la indemnización se pagará aún cuando no se encuentre el tesoro.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 830.- Si el nudo propietario encuentra el tesoro en la finca o terreno cuyo usufructo pertenece a otra persona, el usufructuario no tendrá parte alguna en el tesoro, pero sí derecho de exigir del nudo propietario una indemnización por los daños y perjuicios que origine la interrupción del usufructo, en la parte ocupada o demolida para buscar el tesoro; la indemnización se pagará aún cuando no se encuentre el tesoro.
 
 ### CAPITULO IV. Del Derecho de Accesión
 
@@ -2889,13 +3499,21 @@ III.- Los frutos civiles.
 
 ART. 833.- Son frutos naturales las producciones espontáneas de la tierra, las crías y demás productos de los animales.
 
-ART. 834.- Las crías de los animales pertenecen al dueño de la madre y no al del padre, salvo convenio anterior en contrario.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 835.- Son frutos industriales los que producen las heredades o fincas de cualquiera especie, mediante el cultivo o trabajo.
+ART. 834.- Las crías de los animales pertenecen al dueño de la hembra que los parió, salvo convenio anterior en contrario.
 
-ART. 836.- No se reputan frutos naturales o industriales sino desde que estén manifiestos o nacidos.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 837.- Para que los animales se consideren frutos, basta que estén en el vientre de la madre, aunque no hayan nacido.
+ART. 835.- Son frutos industriales los que producen los inmuebles mediante el trabajo realizado en ellos.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 836.- Se reputan frutos naturales o industriales desde que estén manifiestos o nacidos.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 837.- Para que los animales se consideren frutos, basta que estén en el vientre de la hembra, aunque no hayan nacido.
 
 ART. 838.- Son frutos civiles los alquileres de los bienes muebles, las rentas de los inmuebles, los réditos de los capitales y todos aquellos que no siendo producidos por la misma cosa directamente, vienen de ella por contrato, por última voluntad o por la Ley.
 
@@ -2907,13 +3525,17 @@ ART. 841.- Todas las obras siembras y plantaciones, así como las mejoras y repa
 
 ART. 842.- El que siembre, plante o edifique en finca propia, con semillas, plantas o materiales ajenos, adquiere la propiedad de unas y otros, pero con la obligación de pagarlos en todo caso y de resarcir daños y perjuicios si ha procedido de mala fe.
 
-ART. 843.- El dueño de la semillas, plantas o materiales nunca tendrá derecho de pedir que se le devuelvan destruyéndose la obra o plantación; pero si las plantas no han echado raíces y pueden sacarse, el dueño de ellas tiene derecho de pedir que así se haga.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 843.- El dueño de las semillas, plantas o materiales no tendrá derecho de pedir que se le devuelvan destruyéndose la obra o plantación; pero si las plantas no han echado raíces y pueden sacarse, el dueño de ellas tiene derecho de pedir que así se haga.
 
 ART. 844.- Cuando las semillas o los materiales no estén aún aplicados a su objeto ni confundidos con otros, pueden reivindicarse por el dueño.
 
 ART. 847 (SIC).- El dueño del terreno en que se edifique, siembre o plante de buena fe, tendrá derecho de hacer suya la obra, siembra o plantación, previa la indemnización prescrito (sic) en el artículo 842, o de obligar al que edificó o plantó a pagarle el precio del terreno, y al que sembró, solamente su renta. Si el dueño del terreno ha procedido de mala fe, sólo tendrá derecho de que se le pague el valor de la renta o el precio del terreno, en sus respectivos casos.
 
-ART. 846.- El que edifica, planta o siembra de mala fe en terreno ajeno, pierde lo edificado, plantado o sembrado, sin que tenga derecho de reclamar indemnización alguna del dueño del suelo, ni de retener la cosa.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 846.- El que edifica, planta o siembra de mala fé en terreno ajeno, pierde lo edificado, plantado o sembrado, sin que tenga derecho de reclamar indemnización alguna del dueño del suelo, ni de retener el bien.
 
 ART. 847.- El dueño del terreno en que se haya edificado con mala fe, podrá pedir la demolición de la obra, y la reposición de las cosas a su estado primitivo, a costa del edificador.
 
@@ -2923,7 +3545,9 @@ ART. 849.- Se entiende que hay mala fe de parte del edificador, plantador o semb
 
 ART. 850.- Se entiende haber mala fe por parte del dueño, siempre que a su vista, ciencia y paciencia se hiciere el edificio, la siembra o la plantación.
 
-ART. 851.- Si los materiales, plantas o semillas pertenecen a un tercero que no ha procedido de mala fe, el dueño del terreno es responsable subsidiariamente del valor de aquellos objetos, siempre que concurran las dos circunstancias siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 851.- Si los materiales, plantas o semillas pertenecen a un tercero que no ha procedido de mala fé, el dueño del terreno es responsable subsidiariamente del valor de aquellos, siempre que concurran las dos circunstancias siguientes:
 
 I.- Que el que de mala fe empleó materiales, plantas o semillas, no tenga bienes con que responder de su valor;
 
@@ -2943,6 +3567,8 @@ ART. 857.- La Ley Sobre Aguas de Jurisdicción Federal, determinará a quién pe
 
 ART. 858.- Son del dominio del poder público las islas que se formen en los ríos que pertenecen a la Federación.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
 ART. 859.- Los cauces abandonados por corrientes de agua que no sean de la Federación, pertenecen a los dueños de los terrenos por donde corren esas aguas. Si la corriente era limítrofe de varios predios, el cauce abandonado pertenece a los propietarios de ambas riberas proporcionalmente a la extensión del frente de cada heredad, a lo largo de la corriente, tirando una línea divisoria por en medio al álveo.
 
 ART. 860.- Cuando la corriente del río se divide en dos brazos o ramales, dejando aislada una heredad o parte de ella, el dueño no pierde su propiedad sino en la parte ocupada por las aguas, salvo lo que sobre el particular disponga la Ley Sobre Aguas de Jurisdicción Federal.
@@ -2951,13 +3577,21 @@ ART. 861.- Cuando dos cosas muebles que pertenecen a dos dueños distintos, se u
 
 ART. 862.- Se reputa principal, entre dos cosas incorporadas, la de mayor valor.
 
-ART. 863.- Si no pudiere hacerse la calificación conforme a la regla establecida en el artículo que precede, se reputará principal el objeto cuyo uso, perfección, o adorno se haya conseguido por la unión del otro.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 864.- En la pintura, escultura y bordado; en los escritos, impresos, grabados, litografías, fotograbados, oleograbados, oleografías, cromolitografías, y en las demás obtenidas por otros procedimientos análogos a los anteriores, se estima accesorio la tabla, el metal, la piedra, el lienzo, el papel o el pergamino.
+ART. 863.- Si no pudiere hacerse la calificación conforme a la regla establecida en el artículo que precede, se reputará principal el bien cuyo uso, perfección, o adorno se haya conseguido por la unión del otro.
 
-ART. 865.- Cuando las cosas unidas pueden separarse sin detrimento y subsistir independientemente, los dueños respectivos pueden exigir la separación.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 866.- Cuando las cosas unidas no pueden separarse sin que la que se reputa accesoria sufra deterioro, el dueño de la principal tendrá también derecho a pedir la separación; pero quedará obligado a indemnizar al dueño de la accesoria siempre que éste haya procedido de buena fe.
+ART. 864.- En la pintura, escultura y bordado; en los escritos, impresos, grabados, litografías, fotograbados, oleograbados, oleografías, cromolitografías, y en las demás obtenidas por otros procedimientos análogos a los anteriores, se estima accesorio la tabla, el metal, la piedra, el lienzo, el papel, el pergamino, el plástico o cualquier otro material que sirva de base.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 865.- Cuando los bienes unidos pueden separarse sin detrimento y subsistir independientemente, los dueños respectivos pueden exigir la separación.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 866.- Cuando en los bienes unidos no pueden separarse sin que la que se reputa accesoria sufra deterioro, el propietario de la principal tendrá también derecho a pedir la separación; pero quedará obligado a indemnizar al propietario de la accesoria si éste ha procedido de buena fé.
 
 ART. 867.- Cuando el dueño de la cosa accesoria es el que ha hecho la incorporación, la pierde si ha obrado de mala fe; y está, además, obligado a indemnizar al propietario de los perjuicios que se le hayan seguido a causa de la incorporación.
 
@@ -2965,23 +3599,33 @@ ART. 868.- Si el dueño de la cosa principal es el que ha procedido de mala fe, 
 
 ART. 869.- Si la incorporación se hace por cualquiera de los dueños a la vista o ciencia y paciencia del otro, y sin que éste se oponga, los derechos respectivos se arreglarán conforme a lo dispuesto en los artículos 881 (sic), 862, 863 y 864.
 
-ART. 870.- Siempre que el dueño de la materia empleada sin su consentimiento, tenga derecho a indemnización, podrá exigir que ésta consista en la entrega de una cosa igual en especie, en valor y en todas las circunstancias a la empleada; o bien en el precio de ella fijado por peritos.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 871.- Si se mezclan dos cosas de igual o diferente especie por voluntad de sus dueños o por casualidad, y en este último caso las cosas no son separables sin detrimento, cada propietario adquirirá un derecho proporcional a la parte que le corresponda, atendido el valor de las cosas mezcladas o confundidas.
+ART. 870.- Siempre que el dueño de la materia empleada sin su consentimiento, tenga derecho a indemnización, podrá exigir que ésta consista en la entrega de un bien igual en especie, en valor y en todas las circunstancias a la empleada o bien en el precio del fijado por peritos.
 
-ART. 872.- Si por voluntad de uno solo, pero con buena fe, se mezclan o confunden dos cosas de igual o diferente especie, los derechos de los propietarios se arreglarán por lo dispuesto en el artículo anterior; a no ser que el dueño de la cosa mezclada sin su consentimiento, prefiera la indemnización de daños y perjuicios.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 873.- El que de mala fe hace la mezcla o confusión, pierde la cosa mezclada o confundida que fuere de su propiedad y queda, además, obligado a la indemnización de los perjuicios causados al dueño de la cosa o cosas con que se hizo la mezcla.
+ART. 871.- Si se mezclan dos bienes de igual o diferente especie por voluntad de sus dueños o por casualidad, y no son separables sin detrimento, cada propietario adquirirá un derecho proporcional a la parte que le corresponda, atendido el valor de las cosas mezcladas o confundidas.
 
-ART. 874.- El que de buena fe empleó materia ajena en todo o en parte, para formar una cosa de nueva especie, hará suya la obra, siempre que el mérito artístico de ésta exceda en precio a la materia, cuyo valor indemnizará al dueño.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 872.- Si por voluntad de uno solo, pero con buena fe, se mezclan o confunden dos bienes de igual o diferente especie, los derechos de los propietarios se arreglarán por lo dispuesto en el artículo anterior; a no ser que el dueño del bien mezclado sin su consentimiento, prefiera la indemnización de daños y perjuicios.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 873.- El que de mala fe hace la mezcla o confusión, pierde el bien mezclado o confundido que fuere de su propiedad y queda, además, obligado a la indemnización de los perjuicios causados al dueño del bien o bienes con que se hizo la mezcla.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 874.- El que de buena fe empleó materia ajena en todo o en parte, para formar un bien de nueva especie, hará suya la obra, siempre que el mérito artístico de ésta exceda en precio a la materia cuyo valor indemnizará al dueño.
 
 ART. 875.- Cuando el mérito artístico de la obra sea inferior en precio a la materia, el dueño de ésta hará suya la nueva especie, y tendrá derecho, además, para reclamar indemnización de daños y perjuicios; descontándose del monto de éstos el valor de la obra, a tasación de peritos.
 
-ART. 876.- Si la especificación se hizo de mala fe, el dueño de la materia empleada tiene derecho de quedarse con la obra sin pagar nada al que la hizo, o exigir de éste que le pague el valor de la materia y le indemnice de los perjuicios que se le hayan seguido.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 876.- Si la especificación se hizo de mala fé, el dueño de la materia empleada tiene derecho de quedarse con la obra sin pagar nada al que la hizo, o exigir de éste que le pague el valor de la materia y le indemnice de los daños y perjuicios que se le hayan seguido.
 
 ART. 879 (SIC).- La mala fe en los casos de mezcla o confusión se calificará conforme a lo dispuesto en los artículos 849 y 850.
-
-## TITULO TERCERO. De la Posesión
 
 ### CAPITULO V. Del Dominio de las Aguas
 
@@ -2996,8 +3640,6 @@ ART. 880.- El propietario de las aguas no podrá desviar su curso de modo que ca
 ART. 881.- El uso y aprovechamiento de las aguas de dominio público se regirá por la ley especial respectiva.
 
 ART. 882.- El propietario de un predio que sólo con muy costosos trabajos pueda proveerse del agua que necesite para utilizar convenientemente ese predio, tiene derecho de exigir de los dueños de los predios vecinos que tengan aguas sobrantes, que le proporcionen la necesaria, mediante el pago de una indemnización fijada por peritos.
-
-## TITULO CUARTO. De la Propiedad
 
 ### CAPITULO VI. De la Copropiedad
 
@@ -3124,6 +3766,8 @@ ART. 922.- La división de una cosa común no perjudica a tercero, el cual conse
 ART. 923.- La división de bienes inmuebles es nula si no se hace con las mismas formalidades que la Ley exige para su venta.
 
 ART. 924.- Son aplicables a la división entre partícipes las reglas concernientes a la división de herencias.
+
+## TITULO QUINTO. Del Usufructo, del Uso y de la Habitación
 
 ### CAPITULO I. Del Usufructo en General
 
@@ -3313,7 +3957,7 @@ ART. 1000.- Si el usuario consume todos los frutos de los bienes, o el que tiene
 
 ART. 1001.- Si los frutos que quedan al propietario no alcanzan a cubrir los gastos y cargas, la parte que falte será cubierta por el usuario, o por el que tiene derecho a la habitación.
 
-## TITULO QUINTO. Del Usufructo, del Uso y de la Habitación
+## TITULO SEXTO. De las Servidumbres
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -3439,8 +4083,6 @@ ART. 1052.- Si fuere indispensable para construír o reparar algún edificio, pa
 
 ART. 1053.- Cuando para establecer comunicaciones telefónicas particulares entre dos o más fincas, o para conducir energía eléctrica a una finca, sea necesario colocar postes y tender alambres en terrenos de una finca ajena, el dueño de ésta tiene obligación de permitirlo, mediante la indemnización correspondiente. Esta servidumbre trae el derecho de tránsito de las personas y el de conducción de los materiales necesarios para la construcción y vigilancia de las líneas.
 
-## TITULO SEXTO. De las Servidumbres
-
 ### CAPITULO VI. De las Servidumbres Voluntarias
 
 ART. 1054.- El propietario de una finca o heredad puede establecer en ella cuantas servidumbres tenga por conveniente, y en el modo y forma que mejor le parezca, siempre que no contravenga las leyes, ni perjudique derechos de tercero.
@@ -3522,6 +4164,8 @@ ART. 1077.- Si el predio dominante pertenece a varios dueños proindiviso, el us
 ART. 1078.- Si entre los propietarios hubiere alguno contra quien por leyes especiales no pueda correr la prescripción, ésta no correrá contra los demás.
 
 ART. 1079.- El modo de usar la servidumbre puede prescribirse en el tiempo y de la manera que la servidumbre misma.
+
+## TITULO SEPTIMO. De la Prescripción
 
 ### CAPITULO I. Disposiciones Generales
 
@@ -3671,8 +4315,6 @@ ART. 1119.- La interrupción de la prescripción a favor de alguno de los acreed
 
 ART. 1120.- El efecto de la interrupción es inutilizar, para la prescripción, todo el tiempo corrido antes de ella.
 
-## TITULO SEPTIMO. De la Prescripción
-
 ### CAPITULO VI. De la manera de contar el tiempo para la Prescripción
 
 ART. 1121.- El tiempo para la prescripción se cuenta por años y no de momento a momento, excepto en los casos en que así lo determine la Ley expresamente.
@@ -3684,6 +4326,42 @@ ART. 1123.- Cuando la prescripción se cuente por días, se entenderán éstos d
 ART. 1124.- El día en que comienza la prescripción se cuenta siempre entero, aunque no lo sea; pero aquél en que la prescripción termina, debe ser completo.
 
 ART. 1125.- Cuando el último día sea feriado, no se tendrá por completa la prescripción, sino cumplido el primero que siga, si fuere útil.
+
+# LIBRO TERCERO. De las Sucesiones
+
+## TITULO PRIMERO. Disposiciones Preliminares
+
+ART. 1126.- Herencia es la sucesión en todos los bienes del difunto y en todos sus derechos y obligaciones que no se extinguen por la muerte.
+
+ART. 1127.- La herencia se defiere por la voluntad del testador o por disposición de la Ley. La primera se llama testamentaría, y la segunda legítima.
+
+ART. 1128.- El testador puede disponer del todo o de parte de sus bienes. La parte de que no disponga quedará regida por los preceptos de la sucesión legítima.
+
+ART. 1129.- El heredero adquiere a título universal y responde de las cargas de la herencia hasta donde alcance la cuantía de los bienes que hereda.
+
+ART. 1130.- El legatario adquiere a título particular y no tiene más cargas que las que expresamente le imponga el testador, sin perjuicio de su responsabilidad subsidiaria con los herederos.
+
+ART. 1131.- Cuando toda la herencia se distribuya en legados, los legatarios serán considerados como herederos.
+
+ART. 1132.- Si el autor de la herencia y sus herederos o legatarios perecieren en el mismo desastre o en el mismo día, sin que se pueda averiguar a ciencia cierta quiénes murieron antes, se tendrán todos por muertos al mismo tiempo, y no habrá lugar entre ellos a la transmisión de la herencia o legado.
+
+ART. 1133.- A la muerte del autor de la sucesión, los herederos adquieren derecho a la masa hereditaria como a un patrimonio común, mientras que no se hace la división.
+
+ART. 1134.- Cada heredero puede disponer del derecho que tiene en la masa hereditaria; pero no puede disponer de las cosas que forman la sucesión.
+
+ART. 1135.- El legatario adquiere derecho al legado puro y simple, así como al de día cierto desde el momento de la muerte del testador.
+
+ART. 1136.- El heredero o legatario no puede enajenar su parte en la herencia sino después de la muerte de aquél a quien hereda.
+
+ART. 1137.- El heredero de parte de los bienes que quiera vender a un extraño su derecho hereditario, debe notificar a sus coherederos por medio de Notario, judicialmente o por medio de dos testigos, las bases o condiciones en que se ha concertado la venta, a fin de que aquéllos, dentro del término de ocho días, hagan uso del derecho del tanto; si los herederos hacen uso de este derecho, el vendedor está obligado a consumar la venta en su favor, conforme a las bases concertadas. Por el solo lapso de los ocho días se pierde el derecho del tanto. Si la venta se hace omitiéndose la notificación prescrita en este artículo, será nula.
+
+ART. 1138.- Si dos o más coherederos quisieren hacer uso del derecho del tanto, se preferirá al que represente mayor porción en la herencia, y si las porciones son iguales, la suerte decidirá quién hace uso del derecho.
+
+ART. 1139.- El derecho concedido en el artículo 1137 cesa si la enajenación se hace a un coheredero.
+
+ART. 1140.- La propiedad y la posesión legal de los bienes, y los derechos y las obligaciones del autor de la herencia, se transmiten por la muerte de éste a sus herederos, en los términos establecidos en el presente libro.
+
+## TITULO SEGUNDO. De la Sucesión por Testamento
 
 ### CAPITULO I. De los Testamentos en General
 
@@ -3940,42 +4618,6 @@ ART. 1221.- El preterido tendrá solamente derecho a que se le dé la pensión q
 ART. 1222.- La pensión alimenticia es carga de la masa hereditaria excepto cuando el testador haya gravado con ella a alguno o algunos de los partícipes de la sucesión.
 
 ART. 1223.- No obstante lo dispuesto en el artículo 1221, el hijo póstumo tendrá derecho a percibir íntegra la porción que le correspondería como heredero legítimo si no hubiere testamento, a menos que el testador hubiere dispuesto expresamente otra cosa.
-
-# LIBRO TERCERO. De las Sucesiones
-
-## TITULO PRIMERO. Disposiciones Preliminares
-
-ART. 1126.- Herencia es la sucesión en todos los bienes del difunto y en todos sus derechos y obligaciones que no se extinguen por la muerte.
-
-ART. 1127.- La herencia se defiere por la voluntad del testador o por disposición de la Ley. La primera se llama testamentaría, y la segunda legítima.
-
-ART. 1128.- El testador puede disponer del todo o de parte de sus bienes. La parte de que no disponga quedará regida por los preceptos de la sucesión legítima.
-
-ART. 1129.- El heredero adquiere a título universal y responde de las cargas de la herencia hasta donde alcance la cuantía de los bienes que hereda.
-
-ART. 1130.- El legatario adquiere a título particular y no tiene más cargas que las que expresamente le imponga el testador, sin perjuicio de su responsabilidad subsidiaria con los herederos.
-
-ART. 1131.- Cuando toda la herencia se distribuya en legados, los legatarios serán considerados como herederos.
-
-ART. 1132.- Si el autor de la herencia y sus herederos o legatarios perecieren en el mismo desastre o en el mismo día, sin que se pueda averiguar a ciencia cierta quiénes murieron antes, se tendrán todos por muertos al mismo tiempo, y no habrá lugar entre ellos a la transmisión de la herencia o legado.
-
-ART. 1133.- A la muerte del autor de la sucesión, los herederos adquieren derecho a la masa hereditaria como a un patrimonio común, mientras que no se hace la división.
-
-ART. 1134.- Cada heredero puede disponer del derecho que tiene en la masa hereditaria; pero no puede disponer de las cosas que forman la sucesión.
-
-ART. 1135.- El legatario adquiere derecho al legado puro y simple, así como al de día cierto desde el momento de la muerte del testador.
-
-ART. 1136.- El heredero o legatario no puede enajenar su parte en la herencia sino después de la muerte de aquél a quien hereda.
-
-ART. 1137.- El heredero de parte de los bienes que quiera vender a un extraño su derecho hereditario, debe notificar a sus coherederos por medio de Notario, judicialmente o por medio de dos testigos, las bases o condiciones en que se ha concertado la venta, a fin de que aquéllos, dentro del término de ocho días, hagan uso del derecho del tanto; si los herederos hacen uso de este derecho, el vendedor está obligado a consumar la venta en su favor, conforme a las bases concertadas. Por el solo lapso de los ocho días se pierde el derecho del tanto. Si la venta se hace omitiéndose la notificación prescrita en este artículo, será nula.
-
-ART. 1138.- Si dos o más coherederos quisieren hacer uso del derecho del tanto, se preferirá al que represente mayor porción en la herencia, y si las porciones son iguales, la suerte decidirá quién hace uso del derecho.
-
-ART. 1139.- El derecho concedido en el artículo 1137 cesa si la enajenación se hace a un coheredero.
-
-ART. 1140.- La propiedad y la posesión legal de los bienes, y los derechos y las obligaciones del autor de la herencia, se transmiten por la muerte de éste a sus herederos, en los términos establecidos en el presente libro.
-
-## TITULO SEGUNDO. De la Sucesión por Testamento
 
 ### CAPITULO VI. De la Institución de Heredero
 
@@ -4253,6 +4895,8 @@ III.- Si renuncia a su derecho.
 
 ART. 1344.- La disposición testamentaria que contenga condición de suceso pasado o presente desconocidos, no caduca aunque la noticia del hecho se adquiera después de la muerte del heredero o legatario, cuyos derechos se transmiten a sus respectivos herederos.
 
+## TITULO TERCERO. De la Forma de los Testamentos
+
 ### CAPITULO I. Disposiciones Generales
 
 ART. 1345.- El testamento, en cuanto a su forma, es ordinario o especial.
@@ -4481,8 +5125,6 @@ ART. 1422.- Lo dispuesto en el artículo anterior se observará también en el c
 
 ART. 1423.- Sabiéndose el lugar donde se hallan los testigos, serán examinados por exhorto.
 
-## TITULO TERCERO. De la Forma de los Testamentos
-
 ### CAPITULO VI. Del Testamento Militar
 
 ART. 1424.- Si el militar o asimilado del Ejército hace su disposición en el momento de entrar en acción de guerra, o estando herido sobre el campo de batalla, bastará que declare su voluntad ante dos testigos, o que entregue a los mismos el pliego cerrado que contenga su última disposición, firmada de su puño y letra.
@@ -4540,6 +5182,8 @@ ART. 1440.- Los parientes más próximos excluyen a los más remotos, salvo lo d
 ART. 1441.- Los parientes que se hallaren en el mismo grado, heredarán por partes iguales.
 
 ART. 1442.- Las líneas y grados de parentesco se arreglarán por las disposiciones contenidas en el Capítulo I, Título VI, Libro Primero.
+
+## TITULO CUARTO. De la Sucesión Legítima
 
 ### CAPITULO II. De la Sucesión de los Descendientes
 
@@ -4609,27 +5253,7 @@ Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el ca
 
 ### CAPITULO VI. De la Sucesión de la Concubina
 
-ART. 1471.- La mujer con quien el autor de la herencia vivió como si fuera su marido durante los cinco años que precedieron inmediatamente a su muerte o con la que tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar conforme a las reglas siguientes:
-
-I.- Si la concubina concurre con sus hijos que lo sean también del autor de la herencia, se observará lo dispuesto en los artículos 1460 y 1461;
-
-II.- Si la concubina concurre con descendientes del autor de la herencia, que no sean también descendientes de ella, tendrá derecho a la mitad de la porción que le corresponda a un hijo;
-
-III.- Si concurre con hijos que sean suyos y con hijos que el autor de la herencia hubo con otra mujer, tendrá derecho a las dos terceras partes de la porción de un hijo;
-
-IV.- Si concurre con ascendientes del autor de la herencia, tendrá derecho a la cuarta parte de los bienes que forman la sucesión;
-
-V.- Si concurre con parientes colaterales dentro del cuarto grado del autor de la sucesión, tendrá derecho a una tercera parte de ésta;
-
-VI.- Si el autor de la herencia no deja descendientes, ascendientes, cónyuge o parientes colaterales dentro del cuarto grado, la mitad de los bienes de la sucesión pertenece a la concubina y la otra mitad a la Beneficencia Pública del Estado.
-
-En los casos a que se refieren las fracciones II, III y IV, debe observarse lo dispuesto en los artículos 1460 y 1461, si la concubina tiene bienes.
-
-Si al morir el autor de la herencia tenía varias concubinas en las condiciones mencionadas al principio de este artículo, ninguna de ellas heredará.
-
-Sólo cuando el concubinario se encuentre en las condiciones establecidas al principio de este artículo tendrá derecho a heredar la mitad de los bienes de la sucesión de la concubina, cuando ésta no deje descendientes, ascendientes, cónyuge o parientes colaterales dentro del cuarto grado; la otra mitad la heredarán los Establecimientos de Beneficencia Pública.
-
-## TITULO CUARTO. De la Sucesión Legítima
+ART. 1471.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
 
 ### CAPITULO VII. De la Sucesión de la Beneficencia Pública del Estado
 
@@ -4662,6 +5286,8 @@ ART. 1482.- El juez decidirá de plano todas las cuestiones relativas a alimento
 ART. 1483.- Para cualquiera de las diligencias que se practiquen conforme a lo dispuesto en este Capítulo, deberá ser oída la viuda.
 
 ART. 1484.- La división de la herencia se suspenderá hasta que se verifique el parto o hasta que transcurra el término máximo de la preñez; mas los acreedores podrán ser pagados por mandato judicial.
+
+## TITULO QUINTO. Disposiciones comunes a las Sucesiones Testamentaria y Legítima
 
 ### CAPITULO II. De la apertura y transmisión de la Herencia
 
@@ -5017,8 +5643,6 @@ ART. 1613.- La partición constará en escritura pública, siempre que en la her
 
 ART. 1614.- Los gastos de la partición se rebajarán del fondo común; los que se hagan por el interés particular de alguno de los herederos o legatarios, se imputarán a su haber.
 
-## TITULO QUINTO. Disposiciones comunes a las Sucesiones Testamentaria y Legítima
-
 ### CAPITULO VII. De los efectos de la Partición
 
 ART. 1615.- La partición legalmente hecha, fija la porción de bienes hereditarios que corresponde a cada unos de los herederos.
@@ -5083,6 +5707,14 @@ ART. 1633.- La validez y el cumplimiento de los contratos no puede dejarse al ar
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE AGOSTO DE 1997)</small>
 
+# LIBRO CUARTO. De las Obligaciones
+
+PRIMERA PARTE
+
+De las Obligaciones en General
+
+## TITULO PRIMERO. Fuentes de las Obligaciones
+
 ### CAPITULO I BIS. De la Imprevisión en los Contratos
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 1997)</small>
@@ -5096,6 +5728,68 @@ ART. 1633.2.- Si en cualquier momento de la ejecución de los contratos a que se
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 1997)</small>
 
 ART. 1633.3.- Se entiende por acontecimientos extraordinarios, aquellas alteraciones imprevisibles que sobrevengan por hechos o circunstancias que alteren la situación económica del país o del Estado de San Luis Potosí, de tal manera que de haber sabido el deudor se iban a manifestar en perjuicio de lo pactado por él, no se habría obligado, ni convenido en la forma y términos en que lo hizo.
+
+De la Capacidad
+
+ART. 1634.- Son hábiles para contratar todas las personas no exceptuadas por la Ley.
+
+ART. 1635.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
+
+Vicios del Consentimiento
+
+ART. 1648.- El consentimiento no es válido si ha sido dado por error, arrancando por violencia o sorprendido por dolo.
+
+ART. 1649.- El error de derecho o de hecho invalida el contrato cuando recae sobre el motivo determinante de la voluntad de cualquiera de los que contratan, si en el acto de la celebración se declara ese motivo o si se prueba por las circunstancias del mismo contrato que se celebró éste en el falso supuesto que lo motivó y no por otra causa.
+
+ART. 1650.- El error de cálculo sólo da lugar a que se rectifique.
+
+ART. 1651.- Se entiende por dolo en los contratos, cualquiera sugestión o artificio que se emplee para inducir a error o mantener en él a alguno de los contratantes, y por mala fe, la disimulación del error de uno de los contratantes, una vez conocido.
+
+ART. 1652.- El dolo o mala fe de una de las partes y el dolo que proviene de un tercero, sabiéndolo aquélla, anulan el contrato si ha sido la causa determinante de este acto jurídico.
+
+ART. 1653.- Si ambas partes proceden con dolo, ninguna de ellas puede alegar la nulidad del acto o reclamarse indemnizaciones.
+
+ART. 1654.- Es nulo el contrato celebrado por violencia, ya provenga ésta de alguno de los contratantes, ya de un tercero, interesado o no en el contrato.
+
+ART. 1655.- Hay violencia cuando se emplea fuerza física o amenaza que importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes del contratante, de su cónyuge, de sus ascendientes, de sus descendientes o de sus parientes colaterales dentro del segundo grado.
+
+ART. 1656.- El temor reverencial, esto es, el sólo temor de desagradar a las personas a quienes se debe sumisión y respeto, no basta para viciar el consentimiento.
+
+ART. 1657.- Las consideraciones generales que los contratantes expusieren sobre los provechos y perjuicios que naturalmente pueden resultar de la celebración o no celebración del contrato, y que no importen engaño o amenaza alguna de las partes, no serán tomadas en cuenta al calificar el dolo o la violencia.
+
+ART. 1658.- No es lícito renunciar para lo futuro la nulidad que resulte del dolo o de la violencia.
+
+ART. 1659.- Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
+
+Representación
+
+ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
+
+ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
+
+ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
+
+Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
+
+Del Consentimiento
+
+ART. 1639.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por la Ley o por convenio la voluntad deba manifestarse expresamente.
+
+ART. 1640.- Toda persona que propone a otra la celebración de un contrato fijándole un plazo para aceptar, queda ligada por su oferta hasta la expiración del plazo.
+
+ART. 1641.- Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono.
+
+ART. 1642.- Cuando la oferta se haga sin fijación de plazo a una persona no presente, el autor de la oferta quedará ligado durante tres días, además del tiempo necesario para la ida y vuelta regular del correo público, o del que se juzgue bastante, no habiendo correo público, según las distancias y la facilidad o dificultad de las comunicaciones.
+
+ART. 1643.- El contrato se forma en el momento en que el proponente reciba la aceptación, estando ligado por su oferta según los artículos precedentes.
+
+ART. 1644.- La oferta se considerará como no hecha si la retira su autor y el destinatario recibe la retractación antes que la oferta. La misma regla se aplica al caso en que se refiere la aceptación.
+
+ART. 1645.- Si al tiempo de la aceptación hubiere fallecido el proponente, sin que el aceptante fuere sabedor de su muerte, quedarán los herederos de aquél obligados a sostener el contrato.
+
+ART. 1646.- El proponente quedará libre de su oferta cuando la respuesta que reciba no sea una aceptación lisa y llana, sino que importe modificación de la primera. En este caso la respuesta se considerará como nueva proposición que se regirá por lo dispuesto en los artículos anteriores.
+
+ART. 1647.- La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
 
 Del objeto y del motivo o fin de los Contratos
 
@@ -5123,11 +5817,25 @@ ART. 1666.- Es ilícito el hecho que es contrario a las leyes de orden público 
 
 ART. 1667.- El fin o motivo determinante de la voluntad de los que contratan, tampoco debe ser contrario a las leyes de orden público ni a las buenas costumbres.
 
-De la Capacidad
+Forma
 
-ART. 1634.- Son hábiles para contratar todas las personas no exceptuadas por la Ley.
+ART. 1668.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas fuera de los casos expresamente designados por la Ley.
 
-ART. 1635.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
+ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
+
+ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
+
+Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
+
+División de los Contratos
+
+ART. 1671.- El contrato es unilateral cuando una sola de las partes se obliga hacia la otra sin que ésta le quede obligada.
+
+ART. 1672.- El contrato es bilateral cuando las partes se obligan recíprocamente.
+
+ART. 1673.- Es contrato oneroso aquél en que se estipulan provechos y gravámenes recíprocos; y gratuito aquél en que el provecho es solamente de una de las partes.
+
+ART. 1674.- El contrato oneroso es conmutativo cuando las prestaciones que se deben las partes son ciertas desde que se celebra el contrato, de tal suerte que ellas pueden apreciar inmediatamente el beneficio o la pérdida que les cause éste. Es aleatorio, cuando la prestación debida depende de un acontecimiento incierto que hace que no sea posible la elevación de la ganancia o pérdida, sino hasta que ese acontecimiento se realice.
 
 Cláusulas que pueden contener los Contratos
 
@@ -5159,88 +5867,6 @@ ART. 1685.- En el caso del artículo anterior, cada uno de los herederos respond
 
 ART. 1686.- Tratándose de obligaciones indivisibles, se observará lo dispuesto en el artículo 1840.
 
-Representación
-
-ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
-
-ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
-
-ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
-
-Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
-
-Vicios del Consentimiento
-
-ART. 1648.- El consentimiento no es válido si ha sido dado por error, arrancando por violencia o sorprendido por dolo.
-
-ART. 1649.- El error de derecho o de hecho invalida el contrato cuando recae sobre el motivo determinante de la voluntad de cualquiera de los que contratan, si en el acto de la celebración se declara ese motivo o si se prueba por las circunstancias del mismo contrato que se celebró éste en el falso supuesto que lo motivó y no por otra causa.
-
-ART. 1650.- El error de cálculo sólo da lugar a que se rectifique.
-
-ART. 1651.- Se entiende por dolo en los contratos, cualquiera sugestión o artificio que se emplee para inducir a error o mantener en él a alguno de los contratantes, y por mala fe, la disimulación del error de uno de los contratantes, una vez conocido.
-
-ART. 1652.- El dolo o mala fe de una de las partes y el dolo que proviene de un tercero, sabiéndolo aquélla, anulan el contrato si ha sido la causa determinante de este acto jurídico.
-
-ART. 1653.- Si ambas partes proceden con dolo, ninguna de ellas puede alegar la nulidad del acto o reclamarse indemnizaciones.
-
-ART. 1654.- Es nulo el contrato celebrado por violencia, ya provenga ésta de alguno de los contratantes, ya de un tercero, interesado o no en el contrato.
-
-ART. 1655.- Hay violencia cuando se emplea fuerza física o amenaza que importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes del contratante, de su cónyuge, de sus ascendientes, de sus descendientes o de sus parientes colaterales dentro del segundo grado.
-
-ART. 1656.- El temor reverencial, esto es, el sólo temor de desagradar a las personas a quienes se debe sumisión y respeto, no basta para viciar el consentimiento.
-
-ART. 1657.- Las consideraciones generales que los contratantes expusieren sobre los provechos y perjuicios que naturalmente pueden resultar de la celebración o no celebración del contrato, y que no importen engaño o amenaza alguna de las partes, no serán tomadas en cuenta al calificar el dolo o la violencia.
-
-ART. 1658.- No es lícito renunciar para lo futuro la nulidad que resulte del dolo o de la violencia.
-
-ART. 1659.- Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
-
-División de los Contratos
-
-ART. 1671.- El contrato es unilateral cuando una sola de las partes se obliga hacia la otra sin que ésta le quede obligada.
-
-ART. 1672.- El contrato es bilateral cuando las partes se obligan recíprocamente.
-
-ART. 1673.- Es contrato oneroso aquél en que se estipulan provechos y gravámenes recíprocos; y gratuito aquél en que el provecho es solamente de una de las partes.
-
-ART. 1674.- El contrato oneroso es conmutativo cuando las prestaciones que se deben las partes son ciertas desde que se celebra el contrato, de tal suerte que ellas pueden apreciar inmediatamente el beneficio o la pérdida que les cause éste. Es aleatorio, cuando la prestación debida depende de un acontecimiento incierto que hace que no sea posible la elevación de la ganancia o pérdida, sino hasta que ese acontecimiento se realice.
-
-Disposiciones Finales
-
-ART. 1694.- Los contratos que no están especialmente reglamentados en este Código, se regirán por las reglas generales de los contratos; por las estipulaciones de las partes, y en lo que fueren omisas, por las disposiciones del contrato con el que tengan más analogía, de los reglamentados en este ordenamiento.
-
-ART. 1695.- Las disposiciones legales sobre contratos, serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la Ley sobre los mismos.
-
-Forma
-
-ART. 1668.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas fuera de los casos expresamente designados por la Ley.
-
-ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
-
-ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
-
-Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
-
-Del Consentimiento
-
-ART. 1639.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por la Ley o por convenio la voluntad deba manifestarse expresamente.
-
-ART. 1640.- Toda persona que propone a otra la celebración de un contrato fijándole un plazo para aceptar, queda ligada por su oferta hasta la expiración del plazo.
-
-ART. 1641.- Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono.
-
-ART. 1642.- Cuando la oferta se haga sin fijación de plazo a una persona no presente, el autor de la oferta quedará ligado durante tres días, además del tiempo necesario para la ida y vuelta regular del correo público, o del que se juzgue bastante, no habiendo correo público, según las distancias y la facilidad o dificultad de las comunicaciones.
-
-ART. 1643.- El contrato se forma en el momento en que el proponente reciba la aceptación, estando ligado por su oferta según los artículos precedentes.
-
-ART. 1644.- La oferta se considerará como no hecha si la retira su autor y el destinatario recibe la retractación antes que la oferta. La misma regla se aplica al caso en que se refiere la aceptación.
-
-ART. 1645.- Si al tiempo de la aceptación hubiere fallecido el proponente, sin que el aceptante fuere sabedor de su muerte, quedarán los herederos de aquél obligados a sostener el contrato.
-
-ART. 1646.- El proponente quedará libre de su oferta cuando la respuesta que reciba no sea una aceptación lisa y llana, sino que importe modificación de la primera. En este caso la respuesta se considerará como nueva proposición que se regirá por lo dispuesto en los artículos anteriores.
-
-ART. 1647.- La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
-
 Interpretación
 
 ART. 1687.- Si los términos de un contrato son claros y no dejan duda sobre la intención de los contratantes, se estará al sentido literal de sus cláusulas.
@@ -5260,6 +5886,12 @@ ART. 1692.- El uso o la costumbre se tendrán en cuenta para interpretar las amb
 ART. 1693.- Cuando absolutamente fuere imposible resolver las dudas por las reglas establecidas en los artículos precedentes, si aquéllas recaen sobre circunstancias accidentales del contrato, y éste fuere gratuito, se resolverá en favor de la menor transmisión de derechos e intereses; si fuere oneroso se resolverá la duda en favor de la mayor reciprocidad de intereses.
 
 Si las dudas de cuya resolución se trata en este artículo recayesen sobre el objeto principal del contrato, de suerte que no pueda venirse en conocimiento de cual fue la intención o la voluntad de los contratantes, el contrato será nulo.
+
+Disposiciones Finales
+
+ART. 1694.- Los contratos que no están especialmente reglamentados en este Código, se regirán por las reglas generales de los contratos; por las estipulaciones de las partes, y en lo que fueren omisas, por las disposiciones del contrato con el que tengan más analogía, de los reglamentados en este ordenamiento.
+
+ART. 1695.- Las disposiciones legales sobre contratos, serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o a disposiciones especiales de la Ley sobre los mismos.
 
 ### CAPITULO II. De la declaración unilateral de la voluntad
 
@@ -5481,14 +6113,6 @@ ART. 1769.- Los jefes de familia que habiten una casa o parte de ella, son respo
 
 ART. 1770.- La acción para exigir la reparación de los daños causados en los términos del presente Capítulo, prescribe en dos años contados a partir del día en que se haya causado el daño.
 
-# LIBRO CUARTO. De las Obligaciones
-
-PRIMERA PARTE
-
-De las Obligaciones en General
-
-## TITULO PRIMERO. Fuentes de las Obligaciones
-
 ### CAPITULO I. De las Obligaciones Condicionales
 
 ART. 1771.- La obligación es condicional cuando su existencia o su resolución dependen de un acontecimiento futuro e incierto.
@@ -5542,6 +6166,8 @@ ART. 1783.- La resolución del contrato fundado en falta de pago por parte del a
 ART. 1784.- Respecto de bienes muebles no tendrá lugar la rescisión, salvo lo previsto para las ventas en las que se faculte al comprador a pagar el precio en abonos.
 
 ART. 1785.- Si la rescisión del contrato dependiere de un tercero y éste fuere dolosamente inducido a rescindirlo, se tendrá por no rescindido.
+
+## TITULO SEGUNDO. Modalidades de las Obligaciones
 
 ### CAPITULO II. De las Obligaciones a Plazo
 
@@ -5771,8 +6397,6 @@ Esto mismo se observará si no lo hiciere de la manera convenida. En este caso e
 
 ART. 1861.- El que estuviere obligado a no hacer alguna cosa, quedará sujeto al pago de daños y perjuicios en caso de contravención. Si hubiere obra material, podrá exigir al acreedor que sea destruída a costa del obligado.
 
-## TITULO SEGUNDO. Modalidades de las Obligaciones
-
 ### CAPITULO I. De la Cesión de Derechos
 
 ART. 1862.- Habrá cesión de derechos cuando el acreedor transfiere a otro los que tenga contra su deudor.
@@ -5830,6 +6454,8 @@ ART. 1881.- Si el cedente se hubiere aprovechado de algunos frutos o percibido a
 ART. 1882.- El cesionario debe, por su parte, satisfacer al cedente todo lo que haya pagado por las deudas o cargas de la herencia y sus propios créditos contra ella, salvo si hubiere pactado lo contrario.
 
 ART. 1883.- Si la cesión fuere gratuita, el cedente no será responsable para con el cesionario, ni por la existencia del crédito, ni por la solvencia del deudor.
+
+## TITULO TERCERO. De la Transmisión de las Obligaciones
 
 ### CAPITULO II. De la Cesión de Deudas
 
@@ -5943,6 +6569,10 @@ ART. 1928.- La obligación queda extinguida cuando el acreedor recibe en pago un
 
 ART. 1929.- Si el acreedor sufre la evicción de la cosa que recibe en pago, renacerá la obligación primitiva, quedando sin efecto la dación en pago.
 
+## TITULO CUARTO. Efectos de las Obligaciones
+
+I.- Efectos de las Obligaciones entre las Partes Cumplimiento de las Obligaciones
+
 ### CAPITULO II. Del Ofrecimiento del Pago y de la Consignación
 
 ART. 1930.- El ofrecimiento seguido de la consignación hace veces de pago, si reúne todos los requisitos que para éste exige la Ley.
@@ -6002,8 +6632,6 @@ ART. 1950.- La responsabilidad civil puede ser regulada por convenio de las part
 Si la prestación consistiere en el pago de cierta cantidad de dinero, los daños y perjuicios que resulten de la falta de cumplimiento, no podrán exceder del interés legal, salvo convenio en contrario.
 
 ART. 1951.- El pago de los gastos judiciales será a cargo del que faltare al cumplimiento de la obligación, y se hará en los términos que establezca el Código de Procedimientos Civiles.
-
-## TITULO TERCERO. De la Transmisión de las Obligaciones
 
 ### CAPITULO II. De la Evicción y Saneamiento
 
@@ -6175,10 +6803,6 @@ ART. 2017.- Luego que se anule un acto simulado, se restituirá la cosa o derech
 
 También subsistirán los gravámenes impuestos a favor de tercero de buena fe.
 
-## TITULO CUARTO. Efectos de las Obligaciones
-
-I.- Efectos de las Obligaciones entre las Partes Cumplimiento de las Obligaciones
-
 ### CAPITULO I. De la Compensación
 
 ART. 2018.- Tiene lugar la compensación cuando dos personas reúnen la calidad de deudores y acreedores recíprocamente y por su propio derecho.
@@ -6238,6 +6862,8 @@ ART. 2036.- Si la cesión se realizare sin consentimiento del deudor, podrá és
 ART. 2037.- Las deudas pagaderas en diferente lugar pueden compensarse mediante indemnización de los gastos de transporte o cambio al lugar del pago.
 
 ART. 2038.- La compensación no puede tener lugar en perjuicio de los derechos de tercero legítimamente adquiridos.
+
+## TITULO QUINTO. Extinción de las Obligaciones
 
 ### CAPITULO II. De la Confusión de Derechos
 
@@ -6327,6 +6953,64 @@ ART. 2098.- Son nulas las ventas que produzcan la concentración o acaparamiento
 
 ART. 2099.- Las ventas al menudeo de bebidas embriagantes hechas al fiado en cantinas, no dan derecho para exigir su precio.
 
+## TITULO SEXTO. De la Inexistencia y de la Nulidad
+
+ART. 2057.- El acto jurídico inexistente por la falta de consentimiento o de objeto que pueda ser materia de él, no producirá efecto legal alguno. No es susceptible de valer por confirmación ni por prescripción; su inexistencia puede invocarse por todo interesado.
+
+ART. 2058.- La ilicitud en el objeto, en el fin o en la condición del acto produce su nulidad, ya absoluta, ya relativa, según lo disponga la Ley.
+
+ART. 2059.- La nulidad absoluta por regla general no impide que el acto produzca provisionalmente sus efectos; los cuales serán destruídos retroactivamente cuando se pronuncie por el juez la nulidad. De ella puede prevalerse todo interesado y no desaparece por la confirmación o la prescripción.
+
+ART. 2060.- La nulidad es relativa cuando no reúne todos los caracteres enumerados en el artículo anterior. Siempre permite que el acto produzca provisionalmente sus efectos.
+
+ART. 2061.- La falta de forma establecida por la Ley, si no se trata de actos solemnes, así como el error, el dolo, la violencia, la lesión, y la incapacidad de cualquiera de los autores del acto, produce la nulidad relativa del mismo.
+
+ART. 2062.- La acción y la excepción de nulidad por falta de forma compete a todos los interesados.
+
+ART. 2063.- La nulidad por causa de error, dolo, violencia, lesión o incapacidad, sólo puede invocarse por el que ha sufrido esos vicios de consentimiento, se ha perjudicado por la lesión o es el incapaz.
+
+ART. 2064.- La nulidad de un acto jurídico por falta de forma establecida por la Ley, se extingue por la confirmación de ese acto hecho en la forma omitida.
+
+ART. 2065.- Cuando la falta de forma produzca nulidad del acto, si la voluntad de las partes ha quedado constante de una manera indudable y no se trata de un acto revocable, cualquiera de los interesados puede exigir que el acto se otorgue en la forma prescrita por la Ley.
+
+ART. 2066.- Cuando el contrato es nulo por incapacidad, violencia o error, puede ser confirmado cuando cese el vicio o motivo de nulidad, siempre que no concurra otra causa que invalide la confirmación.
+
+ART. 2067.- El cumplimiento voluntario por medio del pago, novación, o por cualquier otro modo, se tiene por ratificación tácita y extingue la acción de nulidad.
+
+ART. 2068.- La confirmación se retrotrae al día en que se verificó el acto nulo; pero ese efecto retroactivo no perjudica a los derechos de tercero.
+
+ART. 2069.- La acción de nulidad fundada en incapacidad o en error, puede intentarse en los plazos establecidos en el artículo 584. Si el error se conoce antes de que transcurran esos plazos, la acción de nulidad prescribe a los sesenta días, contados desde que el error fué conocido.
+
+ART. 2070.- La acción para pedir la nulidad de un contrato hecho por violencia, prescribe a los seis meses contados desde que cese ese vicio del consentimiento.
+
+ART. 2071.- El acto jurídico viciado de nulidad en parte, no es totalmente nulo, si las partes que lo forman pueden legalmente subsistir separadas, a menos que se demuestre que al celebrarse el acto se quiso que sólo íntegramente subsistiera.
+
+ART. 2072.- La anulación del acto obliga a las partes a restituirse mutuamente lo que han recibido o percibido en virtud o por consecuencia del acto anulado.
+
+ART. 2073.- Si el acto fuere bilateral y las obligaciones correlativas consisten ambas en sumas de dinero o en cosas productivas de frutos, no se hará la restitución respectiva, de intereses o de frutos sino desde el día de la demanda de nulidad. Los intereses y los frutos percibidos hasta esa época se compensan entre sí.
+
+ART. 2074.- Mientras que uno de los contratantes no cumpla con la devolución de aquello que en virtud de la declaración de nulidad del contrato está obligado, no puede ser compelido el otro a que cumpla por su parte.
+
+ART. 2075.- Todos los derechos reales o personales transmitidos a tercero sobre un inmueble, por una persona que ha llegado a ser propietaria de él en virtud del acto anulado, quedan sin ningún valor y pueden ser reclamados directamente del poseedor actual mientras que no se cumpla la prescripción, observándose lo dispuesto para los terceros adquirientes de buena fe.
+
+PARTE SEGUNDA
+
+De las diversas especies de Contratos
+
+## TITULO PRIMERO. De los Contratos Preparatorios.- La Promesa
+
+ART. 2076.- Puede asumirse contractualmente la obligación de celebrar un contrato futuro.
+
+ART. 2077.- La promesa de contratar o sea el contrato preliminar de otro puede ser unilateral o bilateral.
+
+ART. 2078.- La promesa de contrato sólo da origen a obligaciones de hacer, consistentes en celebrar el contrato respectivo de acuerdo con lo ofrecido.
+
+ART. 2079.- Para que la promesa de contratar sea válida debe constar por escrito, contener los elementos característicos del contrato definitivo y limitarse a cierto tiempo.
+
+ART. 2080.- Si el promitente rehusa firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el juez; salvo el caso de que la cosa ofrecida haya pasado por título oneroso a la propiedad de tercero de buena fe, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
+
+## TITULO SEGUNDO. De la Compra-Venta
+
 ### CAPITULO II. De la materia de la Compra-Venta
 
 ART. 2100.- Ninguno puede vender sino lo que es de su propiedad.
@@ -6338,8 +7022,6 @@ ART. 2102.- El contrato quedará revalidado, si antes de que tenga lugar la evic
 ART. 2103.- La venta de cosa o derechos litigiosos no está prohibida; pero el vendedor que no declare la circunstancia de hallarse la cosa en litigio, es responsable de los daños y perjuicios si el comprador sufre la evicción, quedando, además, sujeto a las penas respectivas.
 
 ART. 2104.- Tratándose de la venta de determinados bienes, como los pertencientes (sic) a incapacitados, los de propiedad pública, los empeñados o hipotecados, etc., deben observarse los requisitos exigidos por la ley para que la venta sea perfecta.
-
-## TITULO QUINTO. Extinción de las Obligaciones
 
 ### CAPITULO III. De los que pueden Vender y Comprar
 
@@ -6432,64 +7114,6 @@ ART. 2129.- Si la concesión del plazo fué posterior al contrato, el comprador 
 ART. 2130.- Cuando el comprador a plazo o con espera del precio, fuere perturbado en su posesión o derecho, o tuviere justo temor de serlo, podrá suspender el pago si aun no lo ha hecho, mientras el vendedor le asegure la posesión o le dé fianza, salvo si hay convenio en contrario.
 
 ART. 2131.- La falta de pago del precio dá derecho para pedir la rescisión del contrato, aunque la venta se haya hecho a plazo; pero si la cosa ha sido enajenada a un tercero, se observará lo dispuesto en los artículos 1783 y 1784.
-
-## TITULO SEXTO. De la Inexistencia y de la Nulidad
-
-ART. 2057.- El acto jurídico inexistente por la falta de consentimiento o de objeto que pueda ser materia de él, no producirá efecto legal alguno. No es susceptible de valer por confirmación ni por prescripción; su inexistencia puede invocarse por todo interesado.
-
-ART. 2058.- La ilicitud en el objeto, en el fin o en la condición del acto produce su nulidad, ya absoluta, ya relativa, según lo disponga la Ley.
-
-ART. 2059.- La nulidad absoluta por regla general no impide que el acto produzca provisionalmente sus efectos; los cuales serán destruídos retroactivamente cuando se pronuncie por el juez la nulidad. De ella puede prevalerse todo interesado y no desaparece por la confirmación o la prescripción.
-
-ART. 2060.- La nulidad es relativa cuando no reúne todos los caracteres enumerados en el artículo anterior. Siempre permite que el acto produzca provisionalmente sus efectos.
-
-ART. 2061.- La falta de forma establecida por la Ley, si no se trata de actos solemnes, así como el error, el dolo, la violencia, la lesión, y la incapacidad de cualquiera de los autores del acto, produce la nulidad relativa del mismo.
-
-ART. 2062.- La acción y la excepción de nulidad por falta de forma compete a todos los interesados.
-
-ART. 2063.- La nulidad por causa de error, dolo, violencia, lesión o incapacidad, sólo puede invocarse por el que ha sufrido esos vicios de consentimiento, se ha perjudicado por la lesión o es el incapaz.
-
-ART. 2064.- La nulidad de un acto jurídico por falta de forma establecida por la Ley, se extingue por la confirmación de ese acto hecho en la forma omitida.
-
-ART. 2065.- Cuando la falta de forma produzca nulidad del acto, si la voluntad de las partes ha quedado constante de una manera indudable y no se trata de un acto revocable, cualquiera de los interesados puede exigir que el acto se otorgue en la forma prescrita por la Ley.
-
-ART. 2066.- Cuando el contrato es nulo por incapacidad, violencia o error, puede ser confirmado cuando cese el vicio o motivo de nulidad, siempre que no concurra otra causa que invalide la confirmación.
-
-ART. 2067.- El cumplimiento voluntario por medio del pago, novación, o por cualquier otro modo, se tiene por ratificación tácita y extingue la acción de nulidad.
-
-ART. 2068.- La confirmación se retrotrae al día en que se verificó el acto nulo; pero ese efecto retroactivo no perjudica a los derechos de tercero.
-
-ART. 2069.- La acción de nulidad fundada en incapacidad o en error, puede intentarse en los plazos establecidos en el artículo 584. Si el error se conoce antes de que transcurran esos plazos, la acción de nulidad prescribe a los sesenta días, contados desde que el error fué conocido.
-
-ART. 2070.- La acción para pedir la nulidad de un contrato hecho por violencia, prescribe a los seis meses contados desde que cese ese vicio del consentimiento.
-
-ART. 2071.- El acto jurídico viciado de nulidad en parte, no es totalmente nulo, si las partes que lo forman pueden legalmente subsistir separadas, a menos que se demuestre que al celebrarse el acto se quiso que sólo íntegramente subsistiera.
-
-ART. 2072.- La anulación del acto obliga a las partes a restituirse mutuamente lo que han recibido o percibido en virtud o por consecuencia del acto anulado.
-
-ART. 2073.- Si el acto fuere bilateral y las obligaciones correlativas consisten ambas en sumas de dinero o en cosas productivas de frutos, no se hará la restitución respectiva, de intereses o de frutos sino desde el día de la demanda de nulidad. Los intereses y los frutos percibidos hasta esa época se compensan entre sí.
-
-ART. 2074.- Mientras que uno de los contratantes no cumpla con la devolución de aquello que en virtud de la declaración de nulidad del contrato está obligado, no puede ser compelido el otro a que cumpla por su parte.
-
-ART. 2075.- Todos los derechos reales o personales transmitidos a tercero sobre un inmueble, por una persona que ha llegado a ser propietaria de él en virtud del acto anulado, quedan sin ningún valor y pueden ser reclamados directamente del poseedor actual mientras que no se cumpla la prescripción, observándose lo dispuesto para los terceros adquirientes de buena fe.
-
-PARTE SEGUNDA
-
-De las diversas especies de Contratos
-
-## TITULO PRIMERO. De los Contratos Preparatorios.- La Promesa
-
-ART. 2076.- Puede asumirse contractualmente la obligación de celebrar un contrato futuro.
-
-ART. 2077.- La promesa de contratar o sea el contrato preliminar de otro puede ser unilateral o bilateral.
-
-ART. 2078.- La promesa de contrato sólo da origen a obligaciones de hacer, consistentes en celebrar el contrato respectivo de acuerdo con lo ofrecido.
-
-ART. 2079.- Para que la promesa de contratar sea válida debe constar por escrito, contener los elementos característicos del contrato definitivo y limitarse a cierto tiempo.
-
-ART. 2080.- Si el promitente rehusa firmar los documentos necesarios para dar forma legal al contrato concertado, en su rebeldía los firmará el juez; salvo el caso de que la cosa ofrecida haya pasado por título oneroso a la propiedad de tercero de buena fe, pues entonces la promesa quedará sin efecto, siendo responsable el que la hizo de todos los daños y perjuicios que se hayan originado a la otra parte.
-
-## TITULO SEGUNDO. De la Compra-Venta
 
 ### CAPITULO VII. De algunas modalidades del Contrato de Compra-Venta
 
@@ -6623,6 +7247,20 @@ ART. 2184.- Si la donación fuere de todos los bienes, el donatario será respon
 
 ART. 2185.- Salvo que el donador dispusiere otra cosa, las donaciones que consistan en prestaciones periódicas se extinguen con la muerte del donante.
 
+## TITULO TERCERO. De la Permuta
+
+ART. 2156.- La permuta es un contrato por el cual cada uno de los contratantes se obliga a dar una cosa por otra. Se observará en su caso lo dispuesto en el artículo 2083.
+
+ART. 2157.- Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredita que no era propia del que la dió, no puede ser obligado a entregar la que él ofreció en cambio, y cumple con devolver la que recibió.
+
+ART. 2158.- El permutante que sufra la evicción de la cosa que recibió en cambio, podrá reivindicar la que dió, si se halla aún en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
+
+ART. 2159.- Lo dispuesto en el artículo anterior, no perjudica los derechos que a título oneroso haya adquirido un tercero de buena fe sobre la cosa que reclame el que sufrió la evicción.
+
+ART. 2160.- Con excepción de lo relativo al precio, son aplicables a este contrato las reglas de la compra-venta, en cuanto no se opongan a los artículos anteriores.
+
+## TITULO CUARTO. De las Donaciones
+
 ### CAPITULO II. De las personas que pueden recibir Donaciones
 
 ART. 2186.- Los no nacidos pueden adquirir por donación, con tal que hayan estado concebidos al tiempo en que aquélla se hizo y sean viables conforme a lo dispuesto en el artículo 297.
@@ -6727,6 +7365,8 @@ ART. 2220.- En el caso de haberse pactado que la restitución se hará cuando pu
 
 ART. 2221.- No se declararán nulas las deudas contraídas por el menor para proporcionarse los alimentos que necesite, cuando su representante legítimo se encuentre ausente.
 
+## TITULO QUINTO. Del Mutuo
+
 ### CAPITULO II. Del Mutuo con Interés
 
 ART. 2222.- Es permitido estipular interés por el mutuo, ya consista en dinero, ya en géneros.
@@ -6777,19 +7417,7 @@ ART. 2239.- Si la transmisión de la propiedad se hiciere por causa de utilidad 
 
 ART. 2240.- Los arrendamientos de bienes del Estado, municipales o de establecimientos públicos, estarán sujetos a las leyes respectivas y en lo que no lo estuvieren, a las disposiciones de este Título.
 
-## TITULO TERCERO. De la Permuta
-
-ART. 2156.- La permuta es un contrato por el cual cada uno de los contratantes se obliga a dar una cosa por otra. Se observará en su caso lo dispuesto en el artículo 2083.
-
-ART. 2157.- Si uno de los contratantes ha recibido la cosa que se le da en permuta, y acredita que no era propia del que la dió, no puede ser obligado a entregar la que él ofreció en cambio, y cumple con devolver la que recibió.
-
-ART. 2158.- El permutante que sufra la evicción de la cosa que recibió en cambio, podrá reivindicar la que dió, si se halla aún en poder del otro permutante, o exigir su valor o el valor de la cosa que se le hubiere dado en cambio, con el pago de daños y perjuicios.
-
-ART. 2159.- Lo dispuesto en el artículo anterior, no perjudica los derechos que a título oneroso haya adquirido un tercero de buena fe sobre la cosa que reclame el que sufrió la evicción.
-
-ART. 2160.- Con excepción de lo relativo al precio, son aplicables a este contrato las reglas de la compra-venta, en cuanto no se opongan a los artículos anteriores.
-
-## TITULO CUARTO. De las Donaciones
+## TITULO SEXTO. Del Arrendamiento
 
 ### CAPITULO II. De los Derechos y Obligaciones del Arrendador
 
@@ -6907,8 +7535,6 @@ ART. 2281.- La renta debe pagarse en los plazos convenidos, y a falta de conveni
 
 ART. 2282.- Podrá solicitarse la modificación del precio del arrendamiento en las fincas destinadas a habitación, siempre que haya transcurrido cuando menos un año de la fecha en que se haya entregado la finca y se demuestre que los alquileres en el lugar de que se trate registran una alza o baja; el juez teniendo en cuenta las circunstancias especiales del caso, decretará el aumento o disminución hasta en un 25% de la renta estipulada. La resolución que dicte no admitirá recurso alguno.
 
-## TITULO QUINTO. Del Mutuo
-
 ### CAPITULO V. Del Arrendamiento de Fincas Rústicas
 
 ART. 2283.- El propietario de un predio rústico debe cultivarlo, sin perjuicio de dejarlo descansar el tiempo que sea necesario para que no se agote su fertilidad. Si no lo cultiva, tiene obligación de darlo en arrendamiento o en aparcería, de acuerdo con lo dispuesto en la Ley de Tierras Ociosas.
@@ -6968,8 +7594,6 @@ ART. 2305.- En el caso del artículo anterior, si en el contrato de alquiler no 
 ART. 2306.- Si en el arrendamiento de un predio rústico se incluyere el ganado de labranza o de cría existente en él, el arrendatario tendrá, respecto del ganado, los mismos derechos y obligaciones que el usufructuario, pero no está obligado a dar fianza.
 
 ART. 2307.- Lo dispuesto en el artículo 2295 es aplicable a los aperos de la finca arrendada.
-
-## TITULO SEXTO. Del Arrendamiento
 
 ### CAPITULO VII. Disposiciones especiales respecto de los arrendamientos por tiempo indeterminado
 
@@ -7091,6 +7715,48 @@ ART. 2367.- El posadero no se exime de la responsabilidad que le imponen los dos
 
 ART. 2368.- Las fondas, cafés, casas de baño y otros establecimientos semejantes, no responden de los efectos que introduzcan los parroquianos, a menos que los pongan bajo el cuidado de los empleados del establecimiento.
 
+## TITULO SEPTIMO. Del Comodato
+
+ART. 2327.- El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible, y el otro contrae la obligación de restituirla individualmente.
+
+ART. 2328.- Cuando el préstamo tuviere por objeto cosas consumibles, sólo será comodato si ellas fuesen prestadas como no fungibles, es decir, para ser restituidas idénticamente.
+
+ART. 2329.- Los tutores, curadores y en general todos los administradores de bienes ajenos, no podrán dar en comodato, sin autorización especial, los bienes confiados a su guarda.
+
+ART. 2330.- Sin permiso del comodante no puede el comodatario conceder a un tercero el uso de la cosa entregada en comodato.
+
+ART. 2331.- El comodatario adquiere el uso, pero no los frutos y accesiones de la cosa prestada.
+
+ART. 2332.- EL comodatario está obligado a poner toda diligencia en la conservación de la cosa, y es responsable de todo deterioro que ella sufra por su culpa.
+
+ART. 2333.- Si el deterioro es tal que la cosa no sea susceptible de emplearse en su uso ordinario, podrá el comodante exigir el valor anterior de ella, abandonando su propiedad al comodatario.
+
+ART. 2334.- El comodatario responde de la pérdida de la cosa si la emplea en uso diverso o por más tiempo del convenido, aún cuando aquélla sobrevenga por caso fortuito.
+
+ART. 2335.- Si la cosa perece por caso fortuito, de que el comodatario haya podido garantizarla, empleando la suya propia, o si no pudiendo conservar más que una de las dos, ha preferido la suya, responde de la pérdida de la otra.
+
+ART. 2336.- Si la cosa ha sido estimada al prestarla, su pérdida, aún cuando sobrevenga por caso fortuito, es de cuenta del comodatario, quien deberá entregar el precio si no hay convenio expreso en contrario.
+
+ART. 2337.- Si la cosa se deteriora por el sólo efecto del uso para que fue prestada, y sin culpa del comodatario, no es éste responsable del deterioro.
+
+ART. 2338.- El comodatario no tiene derecho para repetir el importe de los gastos ordinarios que se necesiten para el uso y la conservación de la cosa prestada.
+
+ART. 2339.- Tampoco tiene derecho el comodatario para retener la cosa a pretexto de lo que por expensas o por cualquiera otra causa le deba el dueño.
+
+ART. 2340.- Siendo dos o más los comodatarios, están sujetos solidariamente a las mismas obligaciones.
+
+ART. 2341.- Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir la cosa cuando le pareciere. En este caso, la prueba de haber convenido uso a plazo, incumbe al comodatario.
+
+ART. 2342.- El comodante podrá exigir la devolución de la cosa antes de que termine el plazo o uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta perezca si continúa en poder del comodatario, o si éste ha autorizado a un tercero a servirse de la cosa, sin consentimiento del comodante.
+
+ART. 2343.- Si durante el préstamo el comodatario ha tenido que hacer, para la conservación de la cosa, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de él al comodante, éste tendrá obligación de reembolsarlo.
+
+ART. 2344.- Cuando la cosa prestada tiene defectos tales que causen perjuicios al que se sirva de ella, el comodante es responsable de éstos, si conocía los defectos y no dió aviso oportuno al comodatario.
+
+ART. 2345.- El comodato termina por la muerte del comodatario.
+
+## TITULO OCTAVO. Del Depósito y del Secuestro
+
 ### CAPITULO II. Del Secuestro
 
 ART. 2369.- El secuestro es el depósito de una cosa litigosa en poder de un tercero, hasta que se decida a quien debe entregarse.
@@ -7173,6 +7839,8 @@ En este caso, el mandatario es el obligado directamente en favor de la persona c
 
 Lo dispuesto en este artículo se entiende sin perjuicio de las acciones entre mandante y mandatario.
 
+## TITULO NOVENO. Del Mandato
+
 ### CAPITULO II. De las Obligaciones del Mandatario con respecto del Mandante
 
 ART. 2392.- El mandatario, en el desempeño de su encargo, se sujetará a las instrucciones recibidas del mandante y en ningún caso podrá proceder contra disposiciones expresas del mismo.
@@ -7228,48 +7896,6 @@ ART. 2412.- El mandatario no tendrá acción para exigir el cumplimiento de las 
 ART. 2413.- Los actos que el mandatario practique a nombre del mandante, pero traspasando los límites expresos del mandato, serán nulos, con relación al mismo mandante, si no los ratifica tácita o expresamente.
 
 ART. 2414.- El tercero que hubiere contratado con el mandatario que se excedió en sus facultades, no tendrá acción contra éste, si le hubiere dado a conocer cuáles fueron aquéllas y no se hubiere obligado personalmente por el mandante.
-
-## TITULO SEPTIMO. Del Comodato
-
-ART. 2327.- El comodato es un contrato por el cual uno de los contratantes se obliga a conceder gratuitamente el uso de una cosa no fungible, y el otro contrae la obligación de restituirla individualmente.
-
-ART. 2328.- Cuando el préstamo tuviere por objeto cosas consumibles, sólo será comodato si ellas fuesen prestadas como no fungibles, es decir, para ser restituidas idénticamente.
-
-ART. 2329.- Los tutores, curadores y en general todos los administradores de bienes ajenos, no podrán dar en comodato, sin autorización especial, los bienes confiados a su guarda.
-
-ART. 2330.- Sin permiso del comodante no puede el comodatario conceder a un tercero el uso de la cosa entregada en comodato.
-
-ART. 2331.- El comodatario adquiere el uso, pero no los frutos y accesiones de la cosa prestada.
-
-ART. 2332.- EL comodatario está obligado a poner toda diligencia en la conservación de la cosa, y es responsable de todo deterioro que ella sufra por su culpa.
-
-ART. 2333.- Si el deterioro es tal que la cosa no sea susceptible de emplearse en su uso ordinario, podrá el comodante exigir el valor anterior de ella, abandonando su propiedad al comodatario.
-
-ART. 2334.- El comodatario responde de la pérdida de la cosa si la emplea en uso diverso o por más tiempo del convenido, aún cuando aquélla sobrevenga por caso fortuito.
-
-ART. 2335.- Si la cosa perece por caso fortuito, de que el comodatario haya podido garantizarla, empleando la suya propia, o si no pudiendo conservar más que una de las dos, ha preferido la suya, responde de la pérdida de la otra.
-
-ART. 2336.- Si la cosa ha sido estimada al prestarla, su pérdida, aún cuando sobrevenga por caso fortuito, es de cuenta del comodatario, quien deberá entregar el precio si no hay convenio expreso en contrario.
-
-ART. 2337.- Si la cosa se deteriora por el sólo efecto del uso para que fue prestada, y sin culpa del comodatario, no es éste responsable del deterioro.
-
-ART. 2338.- El comodatario no tiene derecho para repetir el importe de los gastos ordinarios que se necesiten para el uso y la conservación de la cosa prestada.
-
-ART. 2339.- Tampoco tiene derecho el comodatario para retener la cosa a pretexto de lo que por expensas o por cualquiera otra causa le deba el dueño.
-
-ART. 2340.- Siendo dos o más los comodatarios, están sujetos solidariamente a las mismas obligaciones.
-
-ART. 2341.- Si no se ha determinado el uso o el plazo del préstamo, el comodante podrá exigir la cosa cuando le pareciere. En este caso, la prueba de haber convenido uso a plazo, incumbe al comodatario.
-
-ART. 2342.- El comodante podrá exigir la devolución de la cosa antes de que termine el plazo o uso convenidos, sobreviniéndole necesidad urgente de ella, probando que hay peligro de que ésta perezca si continúa en poder del comodatario, o si éste ha autorizado a un tercero a servirse de la cosa, sin consentimiento del comodante.
-
-ART. 2343.- Si durante el préstamo el comodatario ha tenido que hacer, para la conservación de la cosa, algún gasto extraordinario y de tal manera urgente que no haya podido dar aviso de él al comodante, éste tendrá obligación de reembolsarlo.
-
-ART. 2344.- Cuando la cosa prestada tiene defectos tales que causen perjuicios al que se sirva de ella, el comodante es responsable de éstos, si conocía los defectos y no dió aviso oportuno al comodatario.
-
-ART. 2345.- El comodato termina por la muerte del comodatario.
-
-## TITULO OCTAVO. Del Depósito y del Secuestro
 
 ### CAPITULO V. Del Mandato Judicial
 
@@ -7377,11 +8003,11 @@ ART. 2433.- El mandatario que renuncie tiene obligación de seguir el negocio mi
 
 ART. 2434.- Lo que el mandatario, sabiendo que ha cesado el mandato, hiciere con un tercero que ignora el término de la procuración, no obliga al mandante, fuera del caso previsto en el artículo 2427.
 
-## TITULO NOVENO. Del Mandato
-
 ### CAPITULO I. Del Servicio Doméstico, del Servicio por Jornal, del Servicio a Precio Alzado en el que el operario sólo pone su trabajo y del Contrato de Aprendizaje
 
 ART. 2435.- El servicio doméstico, el servicio por jornal, el servicio a precio alzado en el que el operario sólo pone su trabajo, y el contrato de aprendizaje, se regirán por la Ley Federal del Trabajo.
+
+## TITULO DECIMO. Del Contrato de Prestación de Servicios
 
 ### CAPITULO II. De la prestación de Servicios Profesionales
 
@@ -7648,8 +8274,6 @@ ART. 2528.- Después de la razón social, se agregarán estas palabras "Sociedad
 ART. 2529.- La capacidad para que las sociedades adquieran bienes raíces, se regirá por lo dispuesto en el artículo 27 de la Constitución Federal y en sus leyes reglamentarias.
 
 ART. 2530.- No quedan comprendidas en este título las sociedades cooperativas, ni las mutualistas, que se regirán por las respectivas leyes especiales.
-
-## TITULO DECIMO. Del Contrato de Prestación de Servicios
 
 ### CAPITULO II. De los Socios
 
@@ -8511,6 +9135,8 @@ ART. 2808.- Los gastos judiciales hechos por un acreedor, en lo particular, ser�
 
 ART. 2809.- El crédito cuya preferencia provenga de convenio fraudulento entre el acreedor y el deudor, pierde toda preferencia, a no ser que el dolo prevenga sólo del deudor, quien en este caso será responsable de los daños y perjuicios que se sigan a los demás acreedores, además de las penas que merezcan por el fraude.
 
+## TITULO PRIMERO. De la concurrencia y prelación de los Créditos
+
 ### CAPITULO II. De los Créditos Hipotecarios y Pignoraticios y de algunos otros privilegios
 
 ART. 2810.- Preferentemente se pagarán los adeudos fiscales provenientes de impuestos, con el valor de los bienes que los hayan causado.
@@ -8605,8 +9231,6 @@ III.- Los créditos de los establecimientos de beneficencia pública o privada.
 
 ART. 2826.- Satisfechos los créditos de que se ha hablado anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
 
-## TITULO PRIMERO. De la concurrencia y prelación de los Créditos
-
 ### CAPITULO VII. Acreedores de Cuarta Clase
 
 ART. 2827.- Pagados los créditos enumerados en los capítulos que preceden, se pagarán los créditos que consten en documento privado.
@@ -8622,6 +9246,8 @@ ART. 2830.- El reglamento fijará el número de secciones de que se componga el 
 ART. 2831.- El Registro será público. Los encargados de la oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones constantes en los libros del Registro, y de los documentos relacionados con las inscripciones, que estén archivados. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros del Registro; así como certificaciones de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
 
 Tratándose de testamentos ológrafos depositados en el Registro, se observará lo dispuesto en el artículo 1409.
+
+## TITULO SEGUNDO. Del Registro Público
 
 ### CAPITULO II. De los títulos sujetos a registro y de los efectos legales del registro
 
@@ -8695,11 +9321,17 @@ III.- Los documentos privados que en esta forma fueren válidos con arreglo a la
 
 ART. 2842.- El interesado presentará el título que va a ser registrado, y cuando se trate de documentos que impliquen transmisiones o modificaciones de la propiedad de fincas rústicas o rubanas (sic), un plano o croquis de esas fincas.
 
-ART. 2843.- El registrador hará la inscripción si encuentra que el título presentado es de los que deben inscribirse, llena las formas extrínsecas exigidas por la Ley y contiene los datos a que se refiere el artículo 2845. En caso contrario, devolverá el título sin registrar, asentando razón de los motivos porque se niega el registro, siendo necesaria resolución judicial para que se haga el registro.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-ART. 2844.- En el caso a que se refiere la parte final del artículo anterior, el registrador tiene obligación de hacer una inscripción preventiva, a fin de que si la autoridad judicial ordena que se registre el título rechazado, la inscripción definitiva surta sus efectos desde que por primera vez se presentó el título. Si el juez aprueba la calificación hecha por el registrador, se cancelará la inscripción preventiva.
+ART. 2843.- El registrador hará la inscripción si encuentra que el título presentado es de los que deben inscribirse, llena las formas extrínsecas exigidas por la ley y contiene los datos a que se refiere el artículo 2845. En caso contrario, devolverá el título sin registrar, fundado y motivando las razones por las que se niega el registro, siendo necesaria resolución judicial para que se haga el registro.
 
-Transcurrido un año sin que se comunique al registrador la calificación que del título presentado haya hecho el juez, a petición de parte interesada se cancelará la inscripción preventiva.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 2844.- En el caso de la devolución a que se refiere la parte final del artículo anterior, el registrador tiene obligación de hacer una inscripción preventiva a fin de que si la autoridad judicial ordena que se registre el título rechazado, la inscripción definitiva surta sus efectos desde que por primera vez se presentó el título. Si el juez aprueba la calificación hecha por el registrador, notificará esta resolución al registrador quien una vez que cause ejecutoria ese fallo cancelará la inscripción preventiva, asentando razón de la resolución judicial.
+
+Transcurrido un mes sin que se comunique al registrador la instauración del procedimiento o la calificación que del título presentado haya hecho el juez, de oficio se cancelará la inscripción preventiva.
+
+En ningún caso los efectos de la inscripción preventiva excederán de un año.
 
 ART. 2845.- Toda inscripción que se haga en el Registro expresará las circunstancias siguientes:
 
@@ -8836,8 +9468,6 @@ ART. 2871.- Podrán cancelarse parcialmente las inscripciones hipotecarias de qu
 ART. 2872.- Las cancelaciones se harán en la forma que fije el reglamento; pero deberán contener, para su validez, los datos necesarios a fin de que con toda exactitud se conozca cuál es la inscripción que se cancela, la causa porque se hace la cancelación y su fecha.
 
 ART. 2873.- Las inscripciones preventivas se cancelarán no solamente cuando se extinga el derecho inscrito, sino también cuando esa inscripción se convierta en definitiva.
-
-## TITULO SEGUNDO. Del Registro Público
 
 ## TRANSITORIOS
 
@@ -9048,3 +9678,9 @@ P.O. 31 DE OCTUBRE DE 1998.
 PRIMERO. Este Decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Los procedimientos de carácter civil que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
+
+P.O. 3 DE OCTUBRE DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
