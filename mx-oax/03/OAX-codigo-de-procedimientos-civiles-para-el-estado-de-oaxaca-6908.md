@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2001-07-20"
+last_updated: "2001-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2001.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -1581,6 +1581,10 @@ El Juez practicará todas las diligencias que sean necesarias para proteger a lo
 
 Asimismo, dictará todas las medidas que sean necesarias para evitar que los cónyuges, se causen daños y perjuicios entre sí, o los causen a los bienes comunes.
 
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+
+El Juez practicara las diligencias que a su juicio sean necesarias antes de dictar resolución. En el caso de violencia intrafamiliar tomará en cuenta los dictámenes, informes y opiniones que hubieren realizado las Instituciones públicas o privadas dedicadas a atender estos asuntos.
+
 > <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
 
 ###### Artículo 201.
@@ -1628,6 +1632,12 @@ Previa autorización del Juez y durante el plazo señalado en el artículo anter
 ###### Artículo 210.
 
 (DEROGADO, P.O. 7 DE FEBRERO DE 1998)
+
+> <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+
+###### Artículo 210 Bis.
+
+Los derechos contemplados en el presente capítulo, también podrán ejercerlos las personas que vivan en concubinato, siempre y cuando tengan un domicilio común, con las características a que se refiere el Código Civil del domicilio conyugal.
 
 ### CAPITULO IV. De la preparación del juicio arbitral
 
@@ -6489,11 +6499,13 @@ Cuando la solicitud se fundamente en la existencia de violencia intrafamiliar, o
 
 Contra las medidas provisionales y urgentes que tome el Juez en los casos anteriores, no se admite más recurso que el de responsabilidad.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
 ###### Artículo 963.
 
-El Juez de lo familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores y de alimentos, decretando las medidas que tiendan a preservarla y a proteger a sus miembros.
+El Juez de lo Familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores, de alimentos y de violencia intrafamiliar, decretando las medidas precautorias que tiendan a preservar la familia y proteger a sus miembros.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
 
 En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el Juez deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
 
@@ -6760,3 +6772,23 @@ P.O. 11 DE DICIEMBRE DE 1999.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Las declaraciones de incapacidad o de nombramiento de tutor que actualmente se encuentren en trámite ante los Tribunales competentes, en sus resoluciones que se dicten respecto de los motivos que les dieron origen y causa, deberán apegarse al texto de los artículos reformados, debiendo declarar en sus puntos resolutivos el tipo de incapacidad que padezca la persona.
+
+P.O. 20 DE ABRIL DE 2001.
+
+PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Todos los juicios que se encuentran en trámite, se continuarán de acuerdo con las disposiciones anteriores al presente Decreto.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 20 DE JULIO DE 2001.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los juicios sucesorios que al entrar en vigor las disposiciones de este Decreto, se estén tramitando ante un Juez, podrán, a elección de las partes continuar su tramitación ante Notario, en los términos establecidos en el presente.
+
+P.O. 15 DE SEPTIEMBRE DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los procedimientos de carácter civil que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
