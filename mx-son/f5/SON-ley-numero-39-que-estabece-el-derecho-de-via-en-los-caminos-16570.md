@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-39-que-estabece-el-derecho-de-via-en-los-caminos-165
 country: "mx"
 rank: "ley"
 publication_date: "1986-06-30"
-last_updated: "1986-06-30"
+last_updated: "1992-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY QUE ESTABLECE EL DERECHO DE VIA EN LOS CAMINOS Y CARRETERAS DE JURISDICCION ESTATAL DE SONORA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO TERCERO TRANSITORIO DE LA LEY DE BIENES Y CONCESIONES DEL ESTADO DE SONORA, PUBLICADA EN EL BOLETIN OFICIAL EL 31 DE DICIEMBRE DE 1992.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Sexta del Boletín Oficial Gobierno del Estado de Sonora, el lunes de 30 de junio de 1986.
 
@@ -102,3 +104,23 @@ RODOLFO FELIX VALDES.
 EL SECRETARIO DE GOBIERNO.
 
 MANLIO FABIO BELTRONES R.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 31 DE DICIEMBRE DE 1992.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley General de Bienes del Estado de Sonora, publicada en el Boletín Oficial del Estado No. 34, Sección I, de fecha 27 de octubre de 1980, así como sus reformas.
+
+###### ARTICULO TERCERO.
+
+Se abroga la Ley que Establece el Derecho de Vía en los Caminos y Carreteras de Jurisdicción Estatal, publicada en el Boletín Oficial número 52, Sección VI, de 30 de junio de 1986.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
