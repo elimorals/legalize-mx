@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1968-10-30"
+last_updated: "1969-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 1968.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 1969.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -477,11 +477,15 @@ En los períodos intermediarios entre los de sesiones ordinarias, o sea en los r
 
 El Congreso tendrá sesiones extraordinarias cuando así lo demanden la naturaleza, urgencia y gravedad de los negocios a juicio de la Diputación Permanente o del Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1958)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1969)</small>
 
 ###### Artículo 46.
 
-Un mes después de iniciado el Primer Período de Sesiones, o sea el día primero de abril de cada año, el C. Gobernador del Estado se presentará ante el H. Congreso y rendirá un informe pormenorizado, relativo a la Gestión Administrativa realizada durante los doce meses anteriores, a efecto de que el pueblo conozca el estado que guardan los distintos ramos de la Administración Pública.
+El día primero de abril de cada año el C. Gobernador del Estado se presentará ante el H. Congreso y rendirá un informe pormenorizado, relativo a la Gestión Administrativa realizada durante el año anterior a efecto de que el pueblo conozca el estado que guardan los distintos ramos de la Administración Pública.
+
+Se exceptúa el último informe del Ejecutivo, correspondiente al año en que termine su periodo constitucional, que se rendirá precisamente el primero de marzo, al iniciarse el primer período de sesiones del H. Congreso del Estado, correspondiente al primer año de su ejercicio constitucional.
+
+El Presidente de la Cámara contestará en términos generales.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
 
@@ -1628,3 +1632,9 @@ Se derogan todas las disposiciones que se opongan a las contenidas en el present
 ###### ARTICULO SEGUNDO.
 
 Este Decreto surtirá sus efectos al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ENERO DE 1969.
+
+PRIMERO.- Se derogan todas las disposiciones legales que en cualquier forma se opongan a las del presente Decreto.
+
+SEGUNDO.- Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
