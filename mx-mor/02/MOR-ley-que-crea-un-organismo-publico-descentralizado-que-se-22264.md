@@ -4,7 +4,7 @@ identifier: "MOR-ley-que-crea-un-organismo-publico-descentralizado-que-se-22264"
 country: "mx"
 rank: "ley"
 publication_date: "1965-02-10"
-last_updated: "1965-02-10"
+last_updated: "1965-07-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY QUE CREA UN ORGANISMO PUBLICO DESCENTRALIZADO QUE SE DENOMINARA "DESARROLLO INDUSTRIAL DE MORELOS"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 1965.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 10 de febrero de 1965.
 
@@ -60,6 +60,10 @@ V.- Un Vocal, designado de común acuerdo, por las Centrales Obreras de los Sind
 VI.- Un Vocal, designado por Fomento Agropecuario de Morelos.
 
 VII.- Un Vocal, designado por la Liga de Comunidades Agrarias y Sindicatos Campesinos del Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 1965)</small>
+
+El Gobernador del Estado, en su carácter de Presidente o en su ausencia el Secretario General de Gobierno, y el Vocal Ejecutivo, en su carácter de Director General del Consejo de Administración, serán los representantes de éste y mancomunadamente podrán ejercer las facultades que conciernen al Consejo, para realizar los fines de la Institución.
 
 ###### ARTICULO 4o.
 
@@ -107,7 +111,9 @@ II.- Dictaminar las consultas del Ejecutivo del Estado sobre las solicitudes de 
 
 III.- Planear sus actividades como empresa de interés público, elaborando para cada industria que tome a su cargo, los planes económicos y financieros respectivos con determinación de las etapas de desarrollo y con cuantificación de las inversiones necesarias, así como con estudios y costos de mercados demostrativos de la viabilidad de cada industria.
 
-IV.- Adquirir bienes muebles e inmuebles para establecer fraccionamientos industriales con todas sus instalaciones y anexos necesarios.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE JULIO DE 1965)</small>
+
+IV.- Adquirir bienes muebles e inmuebles para establecer fraccionamientos industriales con todas sus instalaciones y anexos necesarios, y, así mismo, enajenar los lotes o muebles de estos fraccionamientos.
 
 V.- Formar parte de consorcios industriales y empresas que operen en el Estado, así como integrar sociedades cooperativas de participación estatal.
 
@@ -152,3 +158,11 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 Lic. Fausto Galván Campos.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 7 DE JULIO DE 1965.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Remítase al Ejecutivo del Estado, para los efectos de la Fracción I del Artículo 71 de la Constitución Política Local.
