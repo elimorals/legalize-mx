@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-de-los-municipios-del-estado-de-durango-4912"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-06"
-last_updated: "1993-11-11"
+last_updated: "1993-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 6 de marzo de 1988.
 
@@ -568,6 +568,10 @@ En los fideicomisos en garantía sólo se causará el impuesto al transmitirse l
 ARTICULO 63 BIS.- No están obligados al pago del Impuesto establecido en esta Ley, las adquisiciones de inmuebles que realicen la Federación, el Estado y los Municipios, para formar parte del dominio público; los partidos políticos, siempre y cuando dichos inmuebles sean para su propio uso; los que adquieran los Estados extranjeros en caso de reciprocidad; y, las donaciones por parentesco entre ascendientes y descendientes en línea directa y en primer grado.
 
 Tampoco se pagará el impuesto establecido en esta Ley en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1993)</small>
+
+Gozarán de la misma exención todas las adquisiciones que realicen las Asociaciones Religiosas constituidas en los términos de la Ley de la materia, siempre que, en este último caso, la adquisición se realice dentro de los seis meses siguientes a su constitución.
 
 > <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 1993)</small>
 
@@ -2785,11 +2789,15 @@ El derecho por servicio público de iluminación será recaudado por conducto de
 
 POR LA EXPLOTACIÓN COMERCIAL DE MATERIAL DE CONSTRUCCION.
 
+> <small>N. DE E. SE SUSPENDE EN EL TERRITORIO DEL ESTADO DE DURANGO, LA APLICACION DEL DERECHO ESTABLECIDO EN EL PRESENTE ARTICULO, P.O. 23 DE DICIEMBRE DE 1993.</small>
+
 ###### ARTICULO 211.
 
 La explotación comercial de materiales de construcción, bancos ubicados dentro del Municipio, causarán el pago de un derecho que se calculará conforme a la siguiente tarifa:
 
 Por metro cúbico de arena, cascajo de tierra, de 0.010 sobre el salario mínimo; así como 0.001 por metro cúbico de otros materiales no especificados.
+
+> <small>N. DE E. SE SUSPENDE EN EL TERRITORIO DEL ESTADO DE DURANGO, LA APLICACION DEL DERECHO ESTABLECIDO EN EL PRESENTE ARTICULO, P.O. 23 DE DICIEMBRE DE 1993.</small>
 
 ###### ARTICULO 212.
 
@@ -2935,9 +2943,7 @@ Serán ingresos municipales de los denominados aprovechamientos:
 
 3.- Rezagos;
 
-4.- Fianzas que se hagan efectivas a favor del Municipio por resolución firme de Autoridad
-
-competente;
+4.- Fianzas que se hagan efectivas a favor del Municipio por resolución firme de Autoridad competente;
 
 5.- Donativos y Aportaciones;
 
@@ -3130,3 +3136,13 @@ UNICO:- El presente Decreto entrará en vigor a partir del día siguiente de su 
 P.O. 11 DE NOVIEMBRE DE 1993.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE DICIEMBRE DE 1993.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor en el Estado de Durango, el día primero de Enero de 1994.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
