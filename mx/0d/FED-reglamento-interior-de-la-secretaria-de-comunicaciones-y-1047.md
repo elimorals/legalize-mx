@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-comunicaciones-y-1047"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-06-21"
-last_updated: "1999-09-08"
+last_updated: "2001-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1047&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1995-06-19"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y TRANSPORTES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE SEPTIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE DICIEMBRE DE 2001.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 21 de junio de 1995.
 
@@ -57,6 +57,10 @@ Para el despacho de los asuntos que le competen, la Secretaría contará con los
 
 - Coordinador General de Planeación y Centros SCT
 
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2001)</small>
+
+- Coordinador General del Sistema Nacional e-México
+
 - Contraloría Interna
 
 - Dirección General de Asuntos Jurídicos
@@ -72,10 +76,6 @@ Para el despacho de los asuntos que le competen, la Secretaría contará con los
 - Dirección General de Aeronáutica Civil
 
 - Dirección General de Autotransporte Federal
-
-> <small>(REFORMADO POR EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE LA POLICIA FEDERAL DE CAMINOS, D.O.F. 13 DE OCTUBRE DE 1997)</small>
-
-- Organo Desconcentrado Policía Federal de Caminos
 
 - Dirección General de Tarifas, Transporte Ferroviario y Multimodal
 
@@ -1119,9 +1119,7 @@ VIII. Diseñar, establecer, integrar y operar los sistemas de información de ca
 
 IX. Recabar, analizar, integrar y evaluar los reportes periódicos que rindan las capitanías de puerto y sus delegaciones, consolidar la información, emitir recomendaciones y dar el seguimiento correspondiente, y
 
-X. Evaluar el desempeño de las capitanías de puerto y sus delegaciones, así como formular, con
-
-base en los resultados obtenidos, las propuestas correspondientes;
+X. Evaluar el desempeño de las capitanías de puerto y sus delegaciones, así como formular, con base en los resultados obtenidos, las propuestas correspondientes.
 
 > <small>(ADICIONADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
 
@@ -1508,3 +1506,7 @@ TERCERO.- A partir de la fecha en que se concluya la transferencia de recursos a
 CUARTO.- Para dar cumplimiento a lo dispuesto en los capítulos III y IV de la Ley de la Policía Federal Preventiva y Tercero Transitorio del Decreto por el que se expidió, el Comisionado de ésta tomará las medidas necesarias para seleccionar, con base en dichas normas legales, a los recursos humanos procedentes de la Policía Federal de Caminos que reúnan los requisitos para ingresar como personal activo a la Policía Federal Preventiva. Respecto de los demás, se estará a lo previsto en las disposiciones legales y administrativas aplicables.
 
 QUINTO.- Se derogan todas las disposiciones previstas en reglamentos, acuerdos y circulares que se opongan al presente Decreto.
+
+D.O.F. 7 DE DICIEMBRE DE 2001.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
