@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1943-03-13"
+last_updated: "1944-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MARZO DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE JULIO DE 1944.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -296,13 +296,15 @@ En este caso, el expropiado o su causahabiente no estarán obligados a devolver 
 
 El plazo de cinco años a que se refiere este artículo, se contará desde la fecha en que los bienes materia de la expropiación queden desafectos al uso para el que se autorizó la expropiación.
 
+> <small>(REFORMADO, D.O.F. 7 DE JULIO DE 1944)</small>
+
 ###### ARTICULO 24.
 
-La Secretaría de Hacienda, a sugestión (sic) de la de Comunicaciones y Obras Públicas, concederá en sus respectivos casos la libre importación de los materiales, aparatos, maquinaria, equipo y efectos destinados a la construcción, establecimiento, conservación y explotación de las vías federales de comunicación y medios de transporte, sus dependencias y accesorios, conforme a las siguientes bases:
+La Secretaría de Hacienda, a sugestión de la de Comunicaciones y Obras Públicas, concederá en sus respectivos casos, la libre importación de los materiales, aparatos, maquinaria, equipo y efectos destinados a la construcción, establecimiento, conservación y explotación de las vías generales de comunicación y medios de transporte, sus dependencias y accesorios, conforme a las siguientes bases:
 
-I.- Que no se fabriquen en la República en cantidad o clase adecuadas al objeto a que van a destinarse, y
+I.- Que no se fabrique en la República en cantidad o clase adecuadas al objeto a que van a destinarse; y
 
-II.- Que la cantidad de artículos cuya importación se concede en franquicia, sea la indispensable para el objeto a que se destinen a juicio de la Secretaría de Comunicaciones.
+II.- Que la cantidad de artículos cuya importación se conceda en franquicia sea la indispensable para el objeto a que se destinen a juicio de la Secretaría de Comunicaciones.
 
 La duración de la franquicia se determinará por la Secretaría de Comunicaciones.
 
@@ -2848,61 +2850,39 @@ La Secretaría de Comunicaciones podrá ordenar que sean modificadas en su altur
 
 El Ejecutivo Federal, por conducto de la Secretaría de Comunicaciones, queda facultado para determinar las tarifas y derechos que deben regir en materia de comunicaciones eléctricas de la Red Nacional.
 
+> <small>(REFORMADO, D.O.F. 7 DE JULIO DE 1944)</small>
+
 ###### ARTICULO 390.
 
 Tendrán franquicia en la Red Nacional:
 
-I.- Los mensajes oficiales de los funcionarios y empleados de los poderes Legislativo, Ejecutivo y Judicial de la Federación, con las restricciones que establezca el Reglamento;
+I.- Los mensajes oficiales de los funcionarios y empleados de los Poderes Legislativo, Ejecutivo y Judicial de la Federación, con las restricciones que establezca el reglamento;
 
-II.- Los mensajes de las autoridades judiciales de los Estados que actúen en auxilio de la Justicia Federal, en los casos previstos en el artículo 23 de la Ley Orgánica de los artículos 103 y 107 de la Constitución Federal;
+II.- Los mensajes de las autoridades judiciales de los Estados que actúen en auxilio de la justicia federal, en los casos previstos en el artículo 23 de la Ley Orgánica de los artículos 103 y 107 de la Constitución Federal;
 
-III.- Las comunicaciones de cualquiera autoridad, relacionadas con la seguridad o defensa del Territorio Nacional, la conservación del orden o cualquiera calamidad pública;
+III.- Las comunicaciones de cualquiera autoridad, relacionadas con la seguridad o defensa del territorio nacional, la conservación del orden, o cualquiera calamidad pública;
 
-IV.- Los mensajes que dirijan los funcionarios y empleados de los Gobiernos de los Estados y Municipios sobre asuntos oficiales de la Federación.
+IV.- Los mensajes que dirijan los funcionarios y empleados de los Gobiernos de los Estados y Municipios sobre asuntos oficiales de la Federación;
 
-V.- Los particulares, en los casos que prevé el artículo 23 de la Ley Orgánica de los artículos 103 y 107 de la Constitución Federal.
+V.- Los particulares, en los casos que prevé el artículo 23 de la Ley Orgánica de los artículos 103 y 107 de la Constitución Federal;
 
 VI.- Los jefes de las embarcaciones y aeronaves que soliciten auxilio o quienes firmen a nombre de ellos;
 
-VII.- El Observatorio Meteorológico Nacional y sus estaciones, tratándose de correspondencias del servicio meteorológico, bien sea interior o internacional, y
+VII.- El Observatorio Meteorológico Nacional y sus estaciones, tratándose de correspondencias del servicio meteorológico, bien sea interior o internacional;
 
-VIII.- El Instituto Geológico y sus dependencias, en mensajes del servicio sismológico. Causarán el veinticinco por ciento de la tarifa ordinaria:
+VIII.- El Instituto Geológico y sus dependencias, en mensajes del servicio sismológico;
 
-1º.- Los mensajes de las Universidades Obreras de la República.
+IX.- Causarán el veinticinco por ciento de la tarifa ordinaria:
 
-2º.- Los mensajes de los Presidentes de las Comisiones Agrarias Mixtas.
+a).- Los mensajes de las Universidades Obreras de la República.
 
-3º.- Los mensajes de las Instituciones de Crédito en las que el Gobierno Federal sea accionista mayoritario, exceptuándose de la franquicia los giros telegráficos. Pagarán el cincuenta por ciento de la tarifa, en asuntos oficiales:
+b).- Los mensajes de los presidentes de las Comisiones Agrarias Mixtas.
 
-a).- Los funcionarios y empleados de los Estados y Municipios en los mensajes oficiales que se cambien entre sí, con los particulares o con las dependencias federales, cuando ventilen asuntos oficiales de carácter legal.
+c).- Los mensajes de las instituciones de crédito, en las que el Gobierno Federal sea accionista mayoritario, exceptuándose de la franquicia los giros telegráficos.
 
-b).- La Lotería Nacional y sus corresponsales en la República, siempre que los mensajes no traten asunto de interés de tercera persona o ajenos a la Institución.
+X.- Pagarán el cincuenta por ciento de la tarifa en asuntos oficiales, los funcionarios y empleados de los Estados y Municipios, en los mensajes oficiales que se cambien entre sí, con los particulares o con las dependencias federales, cuando ventilen asuntos oficiales de carácter legal.
 
-Por causa de utilidad pública, la Secretaría de Comunicaciones podrá conceder franquicia telegráfica, parcial o totalmente, a instituciones culturales y científicas por tiempo limitado y señalando la clase de asuntos que comprende la franquicia.
-
-> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 1941)</small>
-
-X (sic).- Gozarán de franquicia en la red nacional, para toda clase de asuntos:
-
-a).- El Presidente de la República.
-
-b).- Los Secretarios Particulares, el Oficial Mayor y el Jefe de Ayudantes, cuando firmen por el Primer Magistrado.
-
-> <small>(ADICIONADA, D.O.F. 3 DE JULIO DE 1941)</small>
-
-XI (sic).- Disfrutarán de franquicia para asuntos particulares, limitada a cinco mensajes de veinticinco palabras cada uno diariamente, como máximo:
-
-a).- Los Secretarios y Subsecretarios de Estado.
-
-b).- Los Ministros de la Suprema Corte de Justicia de la Nación.
-
-c).- Los Jefes de Departamento Administrativo Autónomo.
-
-d).- El Procurador General de la República.
-
-e).- El Procurador General de Justicia del Distrito y Territorios Federales.
-
-f).- El Director General de Correos y Telégrafos.
+Por causa de utilidad pública, la Secretaría de Comunicaciones podrá conceder franquicia telegráfica, parcial o totalmente, a instituciones culturales y científicas, por tiempo limitado y señalando la clase de asuntos que comprende la franquicia.
 
 ###### ARTICULO 391.
 
@@ -4131,6 +4111,18 @@ D.O.F. 9 DE ENERO DE 1942.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 D.O.F. 13 DE MARZO DE 1943.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 7 DE JULIO DE 1944.
+
+DECRETO QUE REFORMA EL ARTICULO 390 DE LA LEY DE VIAS GENERALES DE COMUNICACION.
+
+Esta ley entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 7 DE JULIO DE 1944.
+
+DECRETO QUE MODIFICA EL ARTICULO 24 DE LA LEY DE VIAS GENERALES DE COMUNICACION DE 31 (SIC) DE DICIEMBRE DE 1939
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
