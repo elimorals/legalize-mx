@@ -4,7 +4,7 @@ identifier: "FED-ley-del-mercado-de-valores-476"
 country: "mx"
 rank: "ley"
 publication_date: "1975-01-02"
-last_updated: "1981-12-31"
+last_updated: "1983-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=476&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMV"
 
 LEY DEL MERCADO DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 2 de enero de 1975.
 
@@ -66,11 +66,11 @@ Las operaciones con valores que realicen las instituciones y organizaciones auxi
 
 Los comisionistas o intermediarios que auxilien a las instituciones de crédito en sus operaciones pasivas, se regirán, en lo que toca a esta actividad, por lo señalado en el artículo 138 Bis 7 de la Ley General de Instituciones de Crédito y Organizaciones Auxiliares y en sus disposiciones reglamentarias.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 7o.
 
-Las Leyes Mercantiles, los Códigos Civil para el Distrito Federal y Federal de Procedimientos Civiles, y los usos Bursátiles y Mercantiles, serán supletorios en ese orden, de la presente Ley.
+Las leyes mercantiles, los usos bursátiles y mercantiles, y los Códigos Civil para el Distrito Federal y Federal de Procedimientos Civiles, serán supletorios de la presente Ley en el orden citado.
 
 ###### ARTICULO 8o.
 
@@ -120,13 +120,19 @@ III.- Que los valores tengan o puedan llegar a tener una circulación amplia en 
 
 IV.- Que se prevea razonablemente que sus emisores tendrán solvencia y liquidez.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
 
-V.- Que los emisores sigan políticas congruentes con los intereses de los inversionistas.
+V.- Que los emisores sigan políticas, respecto de su participación en el mercado de valores, congruentes con los intereses de los inversionistas, a cuyo efecto la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Valores, podrá expedir disposiciones de carácter general que deberán comprender:
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+a) A las sociedades que dentro de sus actividades realicen la inversión en el capital de otras sociedades, si como mínimo el 20% de sus ingresos tuvo origen en tales inversiones durante el ejercicio social correspondiente al año anterior o a aquél en que pretendan obtener o mantener el registro al que se refiere este artículo, independientemente del número de acciones o partes sociales de que sean titulares o de que tenga facultad de determinar el manejo de las sociedades correspondientes.
 
-VI.- Que los emisores proporcionen a la Comisión Nacional de Valores y al público la información que la misma determine mediante disposiciones de carácter general.
+b) A las sociedades de capital variable emisoras de valores, y
+
+c) A las sociedades controladoras, considerándose como tales, para efectos de esta Ley, aquéllas que realicen como actividad exclusiva o concurrente la inversión en acciones o partes sociales de otras sociedades que les permita, directa o indirectamente, ser titulares del 50% o más del capital de dichas sociedades o que por cualquier título tengan la facultad de determinar el manejo de las mismas, siempre que dicha inversión sea igual o superior al 20% del capital pagado y de las reservas de la controladora.
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+
+VI.- Que los emisores proporcionen a la Comisión Nacional de Valores, a la bolsa de valores correspondiente y al público, la información que la propia Comisión determine mediante reglas de carácter general, que deberá comprender el procedimiento para su formulación y presentación.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -148,9 +154,63 @@ Asimismo, se inscribirá en la Sección de Valores y sin que para ello sea neces
 
 La Comisión Nacional de Valores podrá suspender o cancelar el registro de valores, cuando éstos o sus emisores dejen de satisfacer o de cumplir, a juicio de la propia Comisión, los requisitos u obligaciones señalados en las fracciones II, III, IV, V y VI del artículo 14 o cuando dichos emisores proporcionen informaciones falsas o que induzcan a error, sobre su situación económica o sobre los valores respectivos.
 
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+
+Tratándose de emisores de valores registrados que soliciten la cancelación de la inscripción correspondiente, la Comisión Nacional de Valores no la autorizará hasta en tanto el emisor no demuestre, a juicio de la propia Comisión, que han quedado salvaguardados debidamente los intereses del público inversionista y del mercado en general.
+
 La Comisión, para dictar la resolución que corresponda, deberá oír previamente al emisor de los valores de que se trate. Este último requisito no será necesario cuando la propia Comisión, tan pronto considere que se ha realizado alguno de los supuestos previstos en el presente artículo, suspenda, como medida precautoria, en forma temporal y por un plazo no mayor de 60 días, los efectos de la inscripción en el Registro.
 
 Sin perjuicio de la medida precautoria a que se refiere el párrafo inmediato anterior, la Comisión Nacional de Valores, deberá recabar previamente la opinión de la Comisión Nacional Bancaria y de Seguros para resolver sobre la suspensión o cancelación del registro de valores emitidos o garantizados por instituciones u organizaciones auxiliares de crédito o instituciones de seguros.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+
+###### ARTICULO 16
+
+Bis.- Las personas que por su posición respecto de sociedades emisoras de valores inscritos en el Registro Nacional de Valores e Intermediarios, o del mercado de valores en general, tengan acceso a información privilegiada relativa a una de dichas sociedades en particular, deberán abstenerse de efectuar operaciones con cualquier clase de valores emitidos por la misma sociedad, en beneficio propio o de terceros, mientras la citada información no sea divulgada entre el público inversionista.
+
+Las citadas personas y emisoras se ajustarán al siguiente régimen:
+
+I.- Se entiende por información privilegiada la relativa a una sociedad emisora de valores inscritos en el citado Registro, que en los términos de la presente Ley debe proporcionarse a la Comisión Nacional de Valores, al público inversionista y, en su caso, a la bolsa de valores correspondiente, conforme a los criterios de carácter general que emita la citada Comisión, aún no divulgada entre el público inversionista y cuyo conocimiento, por su naturaleza, pueda influir en los precios de cotización de los valores emitidos por dicha sociedad.
+
+II.- Quedan incluidos en lo dispuesto en el primer párrafo de este artículo:
+
+a) Los administradores, funcionarios y comisarios de las sociedades con valores inscritos en el Registro Nacional de Valores e Intermediarios;
+
+b) Los accionistas de las indicadas sociedades que detenten el control del 10% o más de acciones representativas de su capital social;
+
+c) Los cónyuges de las personas a que se refieren los incisos a) y b) de esta fracción;
+
+d) Los servidores públicos de la Secretaría de Hacienda y Crédito Público y de las entidades de la Administración Pública Paraestatal por ella coordinadas, cuyas actividades los relacionen directamente con la promoción, regulación y control del mercado de valores;
+
+e) Los vocales y secretarios de la Junta de Gobierno de la Comisión Nacional de Valores y los servidores públicos de la misma;
+
+f) Los agentes de valores y, cuando estén constituidos como sociedades anónimas, los accionistas que detenten el control del 10% o más de las acciones representativas de su capital social, los administradores, funcionarios, empleados y apoderados para celebrar operaciones con el público, y
+
+g) Los administradores, funcionarios y empleados de las bolsas de valores.
+
+III.- Tendrán como obligaciones complementarias:
+
+a) Las personas a que se refieren los incisos a) al c) de la fracción anterior informarán a la Comisión Nacional de Valores de las operaciones que realicen con valores emitidos por la sociedad a que se encuentren vinculados en los términos de los propios incisos.
+
+b) Las personas señaladas en los incisos b) al g) de dicha fracción informarán a dicha Comisión de todas las operaciones que realicen con valores inscritos en el Registro Nacional de Valores e Intermediarios.
+
+c) Las sociedades emisoras informarán a la propia Comisión Nacional de Valores de cualquier cambio en la composición de su consejo de administración, así como de las renuncias y nuevas designaciones de funcionarios y comisarios, dentro de los diez días hábiles siguientes a la fecha en que dichos eventos se produzcan. La misma obligación tendrán los accionistas respecto de las variaciones en el porcentaje de su tenencia accionaria, que impliquen la adquisición o pérdida de control de acciones que representen 10% o más del capital de la sociedad de que se trate.
+
+La Comisión, mediante disposiciones de carácter general, determinará la forma y términos en que deberán proporcionarse las informaciones a que se refieren los incisos anteriores.
+
+IV.- Las operaciones celebradas en contravención a lo dispuesto en este artículo, aprovechando la información privilegiada, darán lugar a que:
+
+a) Estén afectadas de nulidad relativa y a que la contraparte perjudicada por su celebración pueda demandar ante los tribunales competentes su anulación y el pago de los perjuicios causados.
+
+Dicha acción prescribirá a los seis meses, contados a partir de que la información privilegiada haya sido divulgada entre el público inversionista.
+
+b) La Secretaría de Hacienda y Crédito Público imponga a cada un de los infractores, multa hasta por dos veces el monto del beneficio que origine la operación de que se trate.
+
+La imposición de la multa no libera a los infractores de las acciones que procedan y de las demás responsabilidades que sean a su cargo.
+
+c) Las personas a que se refieren los incisos f) y g) de la fracción II, queden inhabilitados para desempeñar actividades en el mercado de valores. La Comisión Nacional de Valores dictará las medidas que aseguren la efectiva inhabilitación de que se trata.
+
+Además de las obligaciones señaladas en las disposiciones anteriores, las personas a que se refieren los incisos d) y e) de la fracción II, sólo podrán invertir en acciones inscritas en el Registro Nacional de Valores e Intermediarios, por conducto de fideicomisos constituidos para ese único fin en instituciones o sociedades nacionales de crédito, o en acciones representativas del capital de sociedades de inversión, absteniéndose de realizar cualquiera otra inversión directa, por sí o a través de interpósita persona. El incumplimiento de esta disposición será sancionado con la destitución del puesto en los términos del Capítulo II del Título Tercero de la Ley Federal de Responsabilidades de los Servidores Públicos.
 
 ### CAPITULO TERCERO. De los Agentes de Valores
 
@@ -162,7 +222,9 @@ I.- Ser de nacionalidad mexicana o tener el carácter de inmigrados, declarando,
 
 II.- Tener solvencia moral y económica, así como capacidad técnica y administrativa.
 
-III.- No ser propietarios del 10% o más del capital de una institución u organización auxiliar de crédito, ni ser funcionarios o empleados de este tipo de instituciones u organizaciones.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+
+III.- No ser funcionario o empleado de instituciones u organizaciones auxiliares de crédito, ni propietarios del 10% o más del capital de alguna de estas últimas.
 
 IV.- Garantizar su manejo mediante fianza que se expida con las características que la Comisión Nacional de Valores determine, mediante disposiciones de carácter general.
 
@@ -190,7 +252,17 @@ III.- Tener por administradores, directores y apoderados para celebrar operacion
 
 IV.- El número de sus administradores no será inferior a tres y actuarán constituidos en consejo de administración.
 
-El acta constitutiva y estatutos de las sociedades de que se trata, así como sus modificaciones, deberán someterse a la aprobación de la Comisión Nacional de Valores. Dictada dicha aprobación, la escritura o sus reformas podrán ser inscritas en el Registro de Comercio, sin que sea preciso mandamiento judicial.
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+
+V.- Presentar un proyecto general del funcionamiento de la sociedad que indique:
+
+a) La viabilidad de la misma en el contexto general del mercado de valores y de la intermediación en dicho mercado.
+
+b) Un programa de trabajo que señale los objetivos a corto y mediano plazo.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+
+El acta constitutiva y estatutos de las sociedades de que se trata, así como sus modificaciones, deberán ser aprobadas por la Comisión Nacional de Valores. Obtenida esta aprobación, la escritura o sus reformas podrán ser inscritas en el Registro de Comercio, sin que sea necesario mandamiento judicial, pero deberán proporcionar a dicha Comisión copia certificada de las actas de sus asambleas y, en su caso, la protocolización de las mismas.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -270,6 +342,10 @@ c) Realizar operaciones con cargo a su capital pagado y reservas de capital.
 
 d) Llevar a cabo actividades de las que le son propias a través de oficinas, sucursales o agencias de instituciones de crédito.
 
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+
+e) Invertir en acciones de otras sociedades que les presten servicios o cuyo objeto principal sea auxiliar o complementario de las actividades que realicen estos agentes de valores que señale la propia Comisión. Dichas sociedades deberán sujetarse a las disposiciones de carácter general que emita la Comisión Nacional de Valores, así como a la inspección y vigilancia de la misma.
+
 Las operaciones a que se refieren los incisos a) y c) anteriores, sólo podrán tener por objeto valores aprobados para tal efecto por la mencionada Comisión, con la salvedad de que en el segundo supuesto, dichos agentes no podrán comprar ni vender por cuenta propia los valores que les hubieren sido confiados para su venta o que les hubieren sido pedidos en compra.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
@@ -316,7 +392,7 @@ II.- Proporcionar a la misma Comisión sus estados financieros.
 
 III.- Obtener la previa autorización de la Comisión Nacional de Valores para la apertura, cambio y clausura de oficinas. En caso de que los agentes de valores abran o cambien oficinas sin la autorización exigida por esta fracción, la Comisión Nacional de Valores podrá proceder a la clausura de las mismas.
 
-Las sociedades anónimas que tengan el carácter de agentes de valores deberán además remitir a la Comisión Nacional de Valores copia certificada de las actas de sus asambleas y, en su caso, la protocolización de las mismas.
+> <small>(DEROGADO ULTIMO PARRAFO, 28 DE DICIEMBRE DE 1983)</small>
 
 > <small>(F. DE E., D.O.F. 10 DE FEBRERO DE 1975)</small>
 
@@ -480,6 +556,20 @@ I.- Inspeccionar y vigilar el funcionamiento de los agentes y bolsas de valores.
 
 II.- Inspeccionar y vigilar a los emisores de valores inscritos en el Registro Nacional de Valores e Intermediarios, solo respecto de las obligaciones que les impone la presente Ley.
 
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 1983)</small>
+
+II-Bis.- Autorizar, en acatamiento a lo dispuesto por el artículo 116 de la Ley General de Sociedades Mercantiles, a los valuadores independientes para efectuar avalúos de activos fijos que apoyarán la cuenta de actualización patrimonial, susceptible de capitalizarse, de sociedades anónimas mexicanas, inclusive de los emisores a que se refiere
+
+el artículo 14 de eta Ley, así como establecer, a través de disposiciones de carácter general, los criterios y medidas a que deberán sujetarse tales valuadores en la formulación de los avalúos que lleven a cabo.
+
+Para obtener esta autorización deberán satisfacer, a juicio de la propia Comisión los requisitos de solvencia moral y económica; capacidad técnica y administrativa; experiencia de tres años en la realización de dicha actividad, así como no participar en el capital o en los órganos de administración, ni tener relación de dependencia con las sociedades a las que pueden prestar sus servicios o con agentes y bolsas de valores.
+
+Esta autorización tendrá vigencia anual y podrá ser renovada cuando, a juicio de la Comisión se sigan reuniendo los requisitos que motivaron su otorgamiento.
+
+El incumplimiento de cualquiera de los requisitos y la inobservancia de las disposiciones de carácter general citadas, dará lugar a revocar la autorización, previa audiencia del interesado.
+
+La autorización a que se refiere este precepto es independiente de las que, para efectos distintos, dispongan otras leyes para el desempeño de la actividad valuatoria.
+
 III.- Investigar actos que hagan suponer la ejecución de operaciones violatorias de esta Ley, pudiendo al efecto ordenar visitas de inspección a los presuntos responsables.
 
 IV.- Dictar medidas de carácter general a los agentes y bolsas de valores para que ajusten sus operaciones a la presente Ley y a sus disposiciones reglamentarias, así como a sanos usos o prácticas del mercado.
@@ -522,13 +612,15 @@ Las facultades a que se refieren las fracciones II, III y VIII no comprenden atr
 
 Son órganos de la Comisión Nacional de Valores: la Junta de Gobierno, la Presidencia de la Comisión y el Comité Consultivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 43.
 
-La Junta de Gobierno estará integrada por once vocales. La Secretaría de Hacienda y Crédito Público designará tres vocales, uno de los cuales será el Presidente de la Comisión. Cada una de las entidades que a continuación se mencionan designará un vocal: Secretaría de Patrimonio y Fomento Industrial, Secretaría de Comercio, Banco de México, S. A., Nacional Financiera, S. A. y Comisión Nacional Bancaria y de Seguros.
+La Junta de Gobierno estará integrada por once vocales. La Secretaría de Hacienda y Crédito Público designará cuatro vocales, uno de los cuales será Presidente de la Comisión. La Secretaría de Comercio y Fomento Industrial, el Banco de México, la Comisión Nacional Bancaria y de Seguros y Nacional Financiera, S. A., designarán un vocal.
 
-La propia Secretaría designará además a los tres vocales restantes, cuyos nombramientos deberán recaer en personas con conocimientos en materia bursátil, financiera, industrial o comercial, que no sean funcionarios o empleados de las entidades citadas. Estos vocales durarán en su encargo tres años que podrán prorrogarse por periodos iguales.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+
+La propia Secretaría designará además a los tres vocales restantes, cuyos nombramientos deberán recaer en personas con conocimientos en materia bursátil, financiera, industrial o comercial, que no sean servidores públicos de las entidades citadas.
 
 Por cada representante propietario se nombrará un suplente.
 
@@ -552,7 +644,9 @@ III.- Examinar y, en su caso, aprobar los informes generales y especiales que de
 
 IV.- Dictar las disposiciones generales que, conforme a esta Ley, compete expedir a la Comisión Nacional de Valores.
 
-V.- Aprobar los nombramientos del personal directivo y los tabuladores de sueldos del personal de la Comisión, a propuesta de su Presidente, y proponer a la Secretaría de Hacienda y Crédito Público la designación de auditor o auditores externos de la Comisión.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+
+V.- Aprobar los nombramientos del personal directivo a propuesta de su Presidente. La Secretaría de la Contraloría General de la Federación designará el auditor o auditores externos.
 
 VI.- Aprobar los reglamentos, instructivos y disposiciones a que se refiere la fracción VIII del artículo 45.
 
@@ -578,7 +672,9 @@ III.- Ejecutar los acuerdos de la Junta de Gobierno.
 
 IV.- Designar interventor en los casos en que se ejerzan las atribuciones previstas en las fracciones VII y VIII del artículo 41.
 
-V.- Formular y presentar a la Junta de Gobierno los presupuestos de ingresos y de gastos para cada ejercicio anual y presentarlos, una vez encontrados de conformidad por la Junta de Gobierno, a la Secretaría de Hacienda y Crédito Público, para que ésta los apruebe, en su caso.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+
+V.- Formular y someter a aprobación de la Junta de Gobierno, los proyectos de presupuesto de ingresos y de gastos para cada ejercicio anual, y presentarlos una vez aprobados, por conducto de la Secretaría de Hacienda y Crédito Público a la Secretaría de Programación y Presupuesto para la autorización respectiva.
 
 VI.- Informar a la Junta de Gobierno sobre el ejercicio del presupuesto, con la periodicidad que la misma determine.
 
@@ -654,9 +750,13 @@ III.- Los administradores, funcionarios o empleados de personas morales que sean
 
 Lo dispuesto en este artículo no excluye la imposición de las sanciones que, conforme a esta u otras leyes, fueren aplicables.
 
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 53.
 
-(DEROGADO POR ARTICULO, TRIGESIMO TRANSITORIO DE LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES EN MATERIA FISCAL, D.O.F. 31 DE DICIEMBRE DE 1981)
+Cuando los titulares de acciones inscritas en bolsas de valores realicen fuera de ellas operaciones simultáneas o sucesivas, que impliquen la transmisión de cuando menos el 10% de las acciones representativas del capital de la sociedad de que se trate, tendrán obligación de informar de las mismas a la Comisión Nacional de Valores, previamente a su celebración, y de sus resultados, tres días después de que se realice la última de ellas, o bien, la circunstancia de no haberse efectuado.
+
+En caso de que las operaciones a que se refiere el párrafo anterior se lleven a efecto, la Comisión Nacional de Valores lo comunicará a la bolsa en que se encuentren registradas las acciones, sin especificar los participantes en la operación.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 12 DE MAYO DE 1978)</small>
 
@@ -710,11 +810,11 @@ VI.- Dar fe de los actos que realice en ejercicio de las funciones a su cargo; y
 
 VII.- Realizar las demás operaciones conexas que le autorice la Secretaría de Hacienda y Crédito Público y que se relacionen con su objeto.
 
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 58.
 
-El órgano de gobierno del Instituto será el Consejo Directivo compuesto de nueve miembros y se integrará: con el Presidente de la Comisión Nacional de Valores, quien lo presidirá, con sendos representantes de la Secretaría de Hacienda y Crédito Público, del Banco de México, S. A. y de la Comisión Nacional de Bancaria y de Seguros; con un representante de las bolsas de valores y otro de la asociación de banqueros, a invitación que les formule la Secretaría de Hacienda y Crédito Público, y con tres miembros más designados por la propia Secretaría, cuyos nombramientos deberán recaer en personas con conocimientos en materia bursátil, financiera, industrial o comercial, que no sean funcionarios o empleados de las dependencias o entidades citadas o de las que puedan ser depositantes.
+El órgano de gobierno del Instituto será el Consejo Directivo compuesto de once miembros y se integrará: con el Presidente de la Comisión Nacional de Valores, quien lo presidirá, con dos representantes de la Secretaría de Hacienda y Crédito Público y con sendos representantes del Banco de México y de la Comisión Nacional de Bancaria y de Seguros; con un representante de las bolsas de valores, uno de las instituciones de crédito y otro más de las casas de bolsa, a invitación que les formule la Secretaría de Hacienda y Crédito Público, y con tres miembros más designados por la propia Secretaría, cuyos nombramientos deberán recaer en personas con experiencia en materia bursátil, financiera, industrial o comercial, que no sean servidores públicos de las dependencias o entidades citadas o de los depositantes de valores.
 
 Por cada miembro propietario se designará un suplente.
 
@@ -796,11 +896,11 @@ IX.- Las demás que le señale el Consejo Directivo o le atribuya esta Ley u otr
 
 La Comisión Nacional de Valores, como órgano competente para vigilar e inspeccionar al Instituto, tendrá todas las facultades necesarias para cuidar del buen funcionamiento del mismo.
 
-> <small>(ADICIONADO, D.O.F. 12 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 66.
 
-La Secretaría de Hacienda y Crédito Público designará a un auditor externo para auditar y certificar los estados financieros del Instituto. El auditor externo tendrá las más amplias facultades para revisar la contabilidad y los documentos del Instituto, realizando sus labores bajo la supervisión de la Comisión Nacional de Valores.
+La Secretaría de la Contraloría General de la Federación designará un auditor externo para auditar y certificar los estados financieros del Instituto. El auditor externo tendrá las más amplias facultades para revisar la contabilidad y documentos del Instituto.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -1074,7 +1174,13 @@ La oferta pública de valores y documentos a que se refiere esta Ley, requerirá
 
 Son valores las acciones, obligaciones y demás títulos de crédito que se emitan en serie o en masa.
 
-El régimen que establece la presente Ley para los valores y las actividades relacionadas con ellos, también será aplicable a los documentos respecto de los cuales se realice oferta pública, que otorguen a sus titulares derechos de crédito, de propiedad o de participación en el capital de personas morales.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+
+El régimen que establece la presente Ley para los valores y las actividades realizadas con ellos, también será aplicable a los documentos que otorguen a sus titulares derechos de crédito, de propiedad o de participación en el capital de personas morales, así como a otros documentos que por sus características sean susceptibles de ofrecerse al público y que, mediante disposiciones de carácter general, señale la Secretaría de Hacienda y Crédito Público, a propuesta de la Comisión Nacional de Valores, cuando respecto de unos y otros se realice oferta pública.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+
+La Secretaría de Hacienda y Crédito Público, a propuesta de la Comisión Nacional de Valores, podrá establecer mediante disposiciones de carácter general, las características a que se deberá sujetar la operación con los valores y documentos a que se refiere este artículo.
 
 Se prohibe la oferta pública de cualquier documento que no sea de los mencionados en este artículo.
 
@@ -1093,3 +1199,17 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 ###### ARTICULO PRIMERO.
 
 La presente Ley entrará en vigor el día 1o. de enero de 1982.
+
+D.O.F. 28 DE DICIEMBRE DE 1983.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1o. de enero de 1984.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Los servidores públicos de la Secretaria de Hacienda y Crédito Público y de las entidades de la Administración Pública Paraestatal por ella coordinadas, cuyas actividades los relacionen directamente con la promoción, regulación y control del mercado de valores; así como los vocales y secretarios de la Junta de Gobierno de la Comisión Nacional de Valores y los servidores públicos de la misma, deberán informar a dicha Comisión Nacional de Valores, dentro de los sesenta días hábiles siguientes a la fecha en que entre en vigor el presente Decreto, la tenencia de acciones inscritas en el Registro Nacional de Valores e Intermediarios, con anterioridad a dicha vigencia. La falta del informe señalado en este precepto, dará lugar a que la tenencia de acciones quede sometidas (sic) a las disposiciones de este Decreto.
