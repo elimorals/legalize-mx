@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1979-12-06"
+last_updated: "1983-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 1979.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 1983.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -427,11 +427,11 @@ La Legislatura del Estado se instalará el día 14 de septiembre, y el 16 del mi
 
 La Legislatura llevará a cabo, cada año, dos períodos de sesiones: el primero comenzará el 16 de Septiembre y concluirá el 31 de Diciembre; el segundo se iniciará el día 1° de abril y terminará el 31 de julio.
 
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 1975)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 43.
 
-Durante el primer período de sesiones se analizarán y votarán los presupuestos, y se decretarán las contribuciones para cubrirlos, atendiendo a las iniciativas que oportunamente deberán presentar el Titular del Poder Ejecutivo, en su caso y los Ayuntamientos.
+Durante el primer período se examinarán y aprobarán, en su caso, las leyes de Ingresos del Estado y Municipios, así como el Presupuesto de Egresos del Estado, atendiendo a las iniciativas que oportunamente deberán presentar el Titular del Ejecutivo y los Ayuntamientos.
 
 ###### Art. 44.
 
@@ -441,9 +441,11 @@ La Legislatura celebrará sesiones extraordinarias cuando para ello fuere convoc
 
 Siempre que la Legislatura abra o cierre sus sesiones o las prorrogue, lo hará por formal decreto.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 46.
 
-La Legislatura deberá residir en la capital del Estado.
+La Legislatura deberá residir en la capital del Estado, sin perjuicio de que para los efectos de la sesión pública a que se refiere el artículo 50 de esta Constitución, pueda declararse recinto oficial otro lugar diferente al destinado normalmente para sesionar.
 
 ###### Art. 47.
 
@@ -549,15 +551,17 @@ Son facultades y obligaciones de la Legislatura:
 
 I.- Fijar cada año la Ley General de Ingresos y los Presupuestos de Egresos, con vista de los proyectos que presente el Ejecutivo;
 
-II.- Dar la resolución que corresponda, aprobando, reformando o reprobando las leyes de ingresos de los Municipios, y sus planes de arbitrios para cubrirlos;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
+II.- Dar la resolución que corresponda, aprobando, reformando o reprobando las leyes de ingresos de los Municipios;
 
 III.- Computar los votos emitidos en las elecciones de Diputados y de Gobernador del Estado, calificar la elección y hacer la declaración de los electos, en los términos de la ley; así como tomarles la protesta legal, lo mismo que a los Magistrados del Tribunal de Justicia del Estado;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 1973)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
-IV.- Exigir de la Contraloría que dé cuenta sobre la recaudación e inversión de los caudales públicos de acuerdo con la ley que reglamente el funcionamiento de la misma Contraloría, especialmente en lo que se refiere al informe trimestral que sobre tal recaudación e inversión deberá rendir el C. Gobernador del Estado.
+IV.- Exigir de la Contaduría Mayor de Hacienda que dé cuenta sobre la recaudación e inversión de los caudales públicos de acuerdo con la ley que reglamente el funcionamiento de la misma Contaduría, especialmente en lo que se refiere al informe trimestral que sobre tal recaudación e inversión deberá rendir el C. Gobernador del Estado.
 
-La Legislatura, dentro del período ordinario de sesiones en que se dé por la Contraloría el informe a que alude el párrafo anterior o en el período inmediato siguiente si se hubiera presentado durante un receso, aprobará ó reprobará la cuenta presentada, expresando en el segundo caso las razones que para ello estime pertinentes.
+La Legislatura, dentro del período ordinario de sesiones en que se dé por la Contaduría el informe a que alude el párrafo anterior o en el período inmediato siguiente si se hubiera presentado durante un receso, aprobará ó reprobará la cuenta presentada, expresando en el segundo caso las razones que para ello estime pertinentes.
 
 V.- Expedir en su caso la convocatoria para elecciones:
 
@@ -575,9 +579,15 @@ VIII.- Reclamar ante la Suprema Corte de Justicia de la Nación, cuando la ley g
 
 IX.- Hacer la división del Estado en Distritos electorales;
 
-X.- (DEROGADA, P.O. 22 DE SEPTIEMBRE DE 1923)
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
-XI.- Resolver lo que crea conveniente, cuando fuere suspendido alguno o todos los miembros del Ayuntamiento por el Gobernador;
+X.- Por acuerdo, de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que la Ley señale, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y alegatos que a su juicio convengan.
+
+Las resoluciones que emita la Legislatura sobre tales asuntos, serán definitivas e inatacables;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
+XI.- Designar de entre los vecinos a los Consejos Municipales, a propuesta del Ejecutivo, a efecto de que éstos concluyan los períodos constitucionales respectivos, en el supuesto de que se hubiese declarado desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la Ley no procediere que entraren en funciones los suplentes ni se celebraren nuevas elecciones. Si alguno de los miembros dejare de desempeñar su cargo, será substituído por el suplente, o se procederá según lo disponga la Ley;
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1977)</small>
 
@@ -599,9 +609,9 @@ XVII.- Conocer de las acusaciones que se hagan a los funcionarios públicos de q
 
 XVIII.- Autorizar al Ejecutivo para que arregle los límites del Estado, por convenios que sujetarán a la aprobación de la Legislatura, y ésta al Congreso de la Unión;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
-XIX.- Aprobar las cuentas que periódicamente presente la Contraloría por conducto del Auditor Delegado de la Cámara, sobre la inversión de todos los caudales del Estado y de los Ayuntamientos, de acuerdo con las leyes, presupuestos de egresos y reglamentos respectivos.
+XIX.- Aprobar las cuentas que periódicamente presente la Contaduría Mayor de Hacienda, sobre la inversión de todos los caudales del Estado y de los Municipios, de acuerdo con las leyes, presupuestos de egresos y disposiciones respectivas.
 
 XX.- Crear y suprimir empleos públicos en el Estado, y señalar, aumentar o disminuir las respectivas remuneraciones;
 
@@ -613,7 +623,9 @@ XXIII.- Conceder al Ejecutivo por tiempo limitado, y por voto de las dos tercera
 
 XXIV.- Trasladarse de la Capital a otra parte del territorio del Estado, previo el acuerdo de la tres cuartas partes del número de los Diputados presentes;
 
-XXV.- Decretar la organización de las fuerzas de seguridad pública del Estado;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
+XXV.- Legislar en materia de organización de las fuerzas de seguridad pública y tránsito del Estado y de los Municipios;
 
 XXVI.- Conceder amnistía por delitos de la competencia de los Tribunales del Estado;
 
@@ -637,7 +649,9 @@ XXXIII.- Expedir su Ley Orgánica, tomar las providencias necesarias para hacer 
 
 XXXIV.- Autorizar al Ejecutivo para armar la Guardia Nacional, en los casos que determine la ley;
 
-XXXV.- Vigilar por medio de una Comisión de su seno el exacto funcionamiento de la Contaduría de Hacienda;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
+XXXV.- Vigilar, por medio de una comisión de su seno, el exacto funcionamiento de la Contaduría Mayor de Hacienda;
 
 XXXVI.- Expedir las leyes sobre el trabajo, fundadas en las necesidades del Estado, sin contravenir las bases establecidas por el artículo 123 de la Constitución General de la República, las cuales leyes reglamentarán los derechos y obligaciones de los obreros, jornaleros, empleados, domésticos y artesanos, y de una manera general toda clase de trabajo.
 
@@ -697,13 +711,17 @@ II.- Despachar, dentro del término que señale el reglamento respectivo, los ne
 
 III.- Emitir su voto en los negocios que se sujeten a la deliberación de la Legislatura, salvo el caso de que tengan interés personal en el asunto;
 
-IV.- Visitar en los recesos de la Cámara, una vez cuando menos, durante el primer año del período constitucional, las poblaciones de la Municipalidad que representen, para informarse:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
+IV.- Visitar en los recesos de la Cámara, una vez cuando menos, las poblaciones del Distrito que representen, para informarse:
 
 1º - Del estado en que se encuentre la Instrucción Pública;
 
 2º - Del progreso o decadencia en que hallen la industria, el comercio, la agricultura y la minería;
 
-3º - De los obstáculos que se opongan al adelanto de la Municipalidad, y de las medidas que deban tomarse para impulsar todos o algunos ramos de la riqueza pública.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
+3º - De los obstáculos que se opongan al adelanto de las Poblaciones del Distrito, y de las medidas que deban tomarse para impulsar todos o algunos ramos de la riqueza pública.
 
 ###### Art. 66.
 
@@ -761,11 +779,11 @@ XI.- Ejercer las demás facultades que le estén cometidas por esta Constitució
 
 Del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1936)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 100.
 
-El Poder Judicial del Estado se deposita en un Tribunal Superior de Justicia, en un Tribunal para Menores, en los Juzgados de Primera Instancia, Menores y Mnicipales (sic) y en los Jurados que establezca la Ley.
+El Poder Judicial del Estado se deposita en un Tribunal Superior de Justicia y en los Juzgados y Jurados que establezca la Ley Orgánica del Poder Judicial.
 
 ###### Art. 101.
 
@@ -835,9 +853,13 @@ I.- Iniciar ante la Legislatura las leyes, decretos y reglamentos que tengan por
 
 II.- Conocer como Jurado de sentencia, de las causas de responsabilidad que hubieren de formarse por delitos oficiales a los Diputados; al Gobernador; a los miembros del Tribunal Superior de Justicia, a los Secretarios del Despacho y al Procurador General de Justicia;
 
-III.- Nombrar los Jueces de Primera Instancia y los Menores, admitirles sus renuncias, concederles las licencias que soliciten para separarse del despacho, suspenderlos hasta por tres meses, por causa grave justificada, que no dé motivo a que se les enjuicie, y multarlos en cantidad que no exceda de la mitad del sueldo de un mes;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
-IV.- Conceder licencias que no pasen de un mes, a sus empleados y a los de los Juzgados de Primera Instancia y Menores;
+III.- Nombrar a los jueces del Estado, admitirles sus renuncias, concederles las licencias que soliciten para separarse del despacho. En caso de que existan causas justificadas que ameriten suspensión o sanción, se sujetará a lo previsto por la Ley que corresponda.
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
+IV.- Conceder a sus empleados y a los de los juzgados licencias que no pasen de un mes;
 
 V.- Nombrar y remover libremente a los empleados de sus Secretarías, castigar sus faltas con multas o suspensión o admitir sus renuncias;
 
@@ -855,63 +877,43 @@ X.- Nombrar, a propuesta de los Jueces respectivos, a los empleados de los Juzga
 
 XI.- Las demás obligaciones que les impongan las leyes.
 
-### CAPITULO III
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
-De los Jueces de Primera Instancia, Menores y Municipales.
+### CAPITULO III. De los Jueces del Estado
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1939)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 110.
 
-Los Jueces de Primera Instancia y los Menores, serán nombrados por el Tribunal Superior de Justicia cada vez que el caso lo requiera. Los Jueces Municipales serán nombrados por los Ayuntamientos respectivos, dentro de los ocho días siguientes a su instalación.
+Los jueces del Estado, serán nombrados por el Tribunal Superior de Justicia cada vez que el caso lo requiera.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1939)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 111.
 
-Los Jueces de Primera Instancia durarán en su encargo todo el tiempo que dure su buen comportamiento en el cargo y serán removidos por el Tribunal Superior cuando den lugar a ello, previo juicio de responsabilidad seguído ante el Tribunal, pudiendo ser acusador cualquier persona ofendida, pero siempre a pedimento del C. Procurador de Justicia como representante social.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1939)</small>
+Los jueces del Estado durarán en su encargo todo el tiempo que dure su recto y eficiente cumplimiento de las funciones propias del cargo y serán removidos por el Tribunal Superior de Justicia cuando den lugar a ello, previo juicio de responsabilidad seguido ante el mismo, pudiendo ser acusador cualquier persona ofendida, pero siempre a pedimento del Procurador General de Justicia del Estado como representante social.
 
 ###### Art. 112.
 
-Los Jueces Menores y Municipales durarán en su encargo, todo el tiempo que dure su buen comportamiento y serán removidos, los primeros por el Tribunal Superior de Justicia cuando den lugar a ello, previo jnicio(sic) de responsabilidad seguido ante el mismo, pudiendo ser acusador cualquier persona ofendida y, los segundos, por los Ayuntamientos respectivos.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 1983)
 
 ###### Art. 113.
 
-Para ser Juez de Primera Instancia se requiere:
-
-I.- Ser ciudadano mexicano en el ejercicio de sus derechos;
-
-II.- Tener más de veintiún años de edad;
-
-III.- Tener título profesional de abogado, expedido por la autoridad competente, o por corporación legalmente facultada para ello, y no estar suspenso en el ejercicio de su profesión;
-
-IV.- No haber sido condenado por delito grave en proceso criminal;
-
-V.- Tener antecedentes intachables de moralidad;
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 1983)
 
 ###### Art. 114.
 
-Para ser Juez Menor o Municipal se requiere:
-
-I.- Ser ciudadano mexicano en el ejercicio de sus derechos;
-
-II.- Tener veintiún años cumplidos;
-
-III.- Ser Abogado con título oficial, o estar instruído en la ciencia del derecho;
-
-IV.- No haber sido condenado por delito grave en proceso criminal;
-
-V.- Tener antecedentes intachables de moralidad.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 1983)
 
 ###### Art. 115.
 
-Los Jueces Municipales deberán ser vecinos de la población en que hayan de ejercer sus funciones.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 1983)
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 116.
 
-La Ley Orgánica del Poder Judicial determinará el número de Jueces que deba haber en el Estado, sus respectivas jurisdicciones y competencias, el modo de suplir sus faltas, y las facultades y obligaciones de los Magistrados, Jueces, funcionarios del Ministerio Público, y demás empleados de la Administración de Justicia.
+La Ley Orgánica del Poder Judicial determinará el número de Jueces que debe haber en el Estado, los requisitos que deberán ser satisfechos para ser juez, sus respectivas jurisdicciones y competencia, el modo se suplir sus faltas, y las facultades y obligaciones de los Magistrados, jueces y demás empleados de la Administración de Justicia.
 
 ### CAPITULO IV
 
@@ -977,21 +979,29 @@ El Gobierno interior de las Municipalidades, estará a cargo de corporaciones, q
 
 La designación de los miembros de los Ayuntamientos la hará el pueblo, por medio de elección directa, en los términos prescriptos(sic) por la ley.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 130.
 
-Los Ayuntamientos se compondrán de un Presidente Municipal que política y administrativamente, será el representante de ellos, y del número de miembros que se determine en los artículos siguientes, y que llevarán el nombre de Regidores. Ni el uno ni los otros podrán ser reelectos para ninguno de esos cargos, sino hasta después de dos años de aquél en el que ejercieron sus funciones.
+Los Ayuntamientos se compondrán de un Presidente Municipal que, política y administrativamente, será el representante del Municipio, y del número de miembros que se determina en los artículos siguientes, y que llevarán el nombre de Regidores. Ni el uno ni los otros podrán ser reelectos para ninguno de esos cargos, sino hasta después de un período siguiente a aquel en el que ejercieron sus funciones.
+
+Las personas que por elección indirecta, o por nombramiento o por designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes si podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 131.
 
-Judicialmente los Ayuntamientos serán representados por uno o dos de sus miembros, que llevarán el nombre de Procuradores Municipales, y que serán designados por las mismas Corporaciones, en las formas y términos que determine la Ley Orgánica respectiva.
+Jurisdiccionalmente, los Municipios serán representados por uno o dos de los miembros del Ayuntamiento que llevarán el nombre de Síndicos Municipales y serán designados por los propios Ayuntamientos, en la forma y términos que señale la Ley Orgánica Municipal del Estado.
 
 ###### Art. 132.
 
 Entre los Ayuntamientos y el Gobierno del Estado no habrá autoridad intermedia alguna.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 133.
 
-Los cargos de Presidente Municipal y Regidores en ningún caso serán gratuitos. La ley determinará la remuneración que deban percibir.
+Los cargos de Presidente Municipal y Regidores, en ningún caso serán gratuitos. El Presupuesto de Egresos determinará la remuneración que deban percibir.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1978)</small>
 
@@ -999,17 +1009,31 @@ Los cargos de Presidente Municipal y Regidores en ningún caso serán gratuitos.
 
 El número de Regidores que deberá haber en cada Municipalidad, será el que demande la eficaz atención de sus servicios públicos; pero no será menor de ocho en el Municipio de Querétaro, seis en los de Jalpan, San Juan del Río y Tequisquiapan y cuatro en las demás Municipalidades.
 
-En los Municipios cuya población sea de doscientos mil o más habitantes, los ayuntamientos tendrán adicionalmente hasta dos Regidores electos, según el principio de representación proporcional.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
+En todos los Municipios del Estado, los Ayuntamientos podrán tener adicionalmente hasta dos Regidores electos según el principio de representación proporcional.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1978)</small>
 
 De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuido un Regidor, al Partido Político que alcance el mayor porcentaje de votación minoritaria, siempre y cuando satisfaga los siguientes requisitos:
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1978)</small>
+
 a).- Que hubieren registrado fórmula de candidato en las elecciones municipales respectivas;
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1978)</small>
 
 b).- No haya alcanzado el triunfo por mayoría relativa en la misma elección;
 
-c).- Alcance por lo menos el 1.5% del total de la votación emitida en el Municipio correspondiente.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
+c).- Alcance por lo menos el 12% por ciento del total de la votación emitida en el Municipio correspondiente.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1978)</small>
 
 Un segundo regidor podrá ser atribuido, al Partido que habiendo obtenido el segundo porcentaje en la votación minoritaria, tenga por lo menos más de la mitad de los sufragios que el Partido triunfador minoritario haya alcanzado, de no darse este mínimo de proporción se le atribuirá este segundo Regidor al Partido triunfador minoritario.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1978)</small>
 
 La ley electoral determinará los procedimientos que se observarán en dicha designación.
 
@@ -1033,21 +1057,39 @@ Diputación Permanente, en su caso, convocar a elecciones, para cubrir la vacant
 
 Si la falta absoluta ocurriere del tercer año en adelante, el Ayuntamiento elegirá de entre los Regidores propietarios, el que deba desempeñar la Presidencia hasta terminar el período municipal.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 138.
 
-Los Municipios administrarán libremente sn(sic) hacienda, la cual se formará de las contribuciones que señale la Legislatura, y que en todo caso serán suficientes para atender a sus necesidades.
+Los Municipios administrarán su patrimonio conforme a la Ley. La Legislatura del Estado aprobará, en su caso, las leyes de ingresos y revisará las cuentas públicas. Los presupuestos de egresos serán aprobados por los Ayuntamientos en base a sus ingresos disponibles.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 139.
 
-Los Ayuntamientos mandarán todas sus cuentas, en los primeros quince días del mes de septiembre, a la Contaduría General de Hacienda.
+Los Ayuntamientos mandarán todas sus cuentas, en los primeros quince días del mes de septiembre, a la Contaduría Mayor de Hacienda.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 140.
 
-El Presidente Municipal, el día 1º de octubre de cada año, rendirá ante el Ayuntamiento un informe de todas las labores que dicha Corporación hubiere llevado a cabo en el año anterior, y dicho informe se publicará en el Periódico Oficial.
+El Presidente Municipal, dentro de los cinco últimos días del mes de septiembre o cinco primeros días del mes de octubre de cada año, rendirá ante el Ayuntamiento un informe de todas las labores que dicha corporación hubiere llevado a cabo en el año anterior y dicho informe se publicará en el Periódico Oficial del Gobierno del Estado.
 
 ###### Art. 141.
 
 Los Municipios tienen personalidad jurídica para todos los efectos legales.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
+Los Ayuntamientos poseen facultades para expedir sus Reglamentos de Policía y Gobierno Municipal, circulares y disposiciones administrativas de observancia general, dentro de sus respectivas jurisdicciones, y para promover todo lo necesario, dentro de las bases normativas que estabezca (sic) la Ley Orgánica Mnicipal (sic), para la eficaz prestación de los servicios públicos de agua potable y alcantarillado, alumbrado público, limpia, mercados y centrales de abasto, panteones, rastros, calles, parques y jardines, seguridad pública y tránsito municipales.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
+Los Municipios del Estado, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley, podrán coordinarse y asociarse entre sí y con el Estado, para la más eficaz prestación de los servicios públicos que les corresponda.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
+Los Municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución General de la República, expedirán los reglamentos y disposiciones administratrivas quue fueren necesarias.
 
 ###### Art. 142.
 
@@ -1081,13 +1123,23 @@ VIII.- Tener un modo honesto de vivir.
 
 El cargo de miembro del Ayuntamiento no es renunciable, sino por causa grave y justificada, que calificará y resolverá el mismo Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 145.
 
 Los Ayuntamientos residirán en las cabeceras de las Municipalidades.
 
+En las poblaciones que no sean cabeceras de Municipalidad, según la importancia del poblado, los Ayuntamientos respectivos nombrarán Delegados o Subdelegados con las facultades y obligaciones que se señalarán en la Ley Orgánica Municipal, y los cuales serán sus representantes directos.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 146.
 
-En las poblaciones que no sean cabeceras de Municipalidad, según la importancia del poblado, los Ayuntamientos respectivos, nombrarán Delegados o Subdelegados, con las facultades y obligaciones que se señalarán en la ley Orgánica Municipal, y los cuales serán sus representantes directos.
+La Hacienda de los Municipios se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que la Legislatura establezca en su favor, y de las contribuciones sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación, mejora y las que tengan por base el cambio de valor de los inmuebles, incluyendo tasas adicionales. Los Municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones.
+
+También percibirán los Municipios las participaciones federales, que les serán cubiertas con arreglo a las bases, montos y plazos que anualmente se determinen por la legislatura; y percibirán ingresos derivados de la prestación de servicios públicos a su cargo.
+
+En consecuencia, las leyes del Estado no establecerán exenciones o subsidios respecto de las mencionadas contribuciones, en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Solo los bienes del dominio público de la Federación, del Estado y sus Municipios están exentos de dichas contribuciones.
 
 > <small>(REFORMADO, P.O. 13 DE MAYO DE 1943)</small>
 
@@ -1095,9 +1147,11 @@ En las poblaciones que no sean cabeceras de Municipalidad, según la importancia
 
 Los Ayuntamientos se renovarán en su totalidad cada tres años y los miembros que los integran deberán entrar en funciones el primero de octubre, previa protesta que otorgarán ante el Ayuntamiento saliente.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 148.
 
-Los miembros del Ayuntamiento serán responsables personal y colectivamente, conforme a las leyes civiles y penales, de los actos que ejecuten en el ejercicio de sus funciones, y dichas responsabilidades podrán ser exigidas ante las autoridades que correspondan, ya sea directamente por los particulares, cuando se ofendan sus derechos, o ya por los Procuradores Municipales, o el Procurador General de Justicia del Estado, cuando se ofendan los de la sociedad.
+Los miembros del Ayuntamiento serán responsables personal y colectivamente, conforme a las leyes civiles y penales, de los actos que ejecuten en el ejercicio de sus funciones, y dichas responsabilidades podrán ser exigidas ante las autoridades que corresponda, ya sea directamente por los particulares, cuando se ofendan sus derechos, o ya por los Síndicos Municipales o por el Procurador General de Justicia del Estado, cuando se ofendan los de la sociedad.
 
 ###### Art. 149.
 
@@ -1116,6 +1170,8 @@ Sin embargo, siempre que de cualquier modo lo exija el bien público, podrá igu
 ###### Art. 72.
 
 Si llegado el tiempo de las sesiones ordinarias, el Congreso se hallare reunido en extraordinarias, cesarán éstas y el asunto que las motivó se continuará tratando en aquéllas.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ## TITULO OCTAVO
 
@@ -1149,21 +1205,21 @@ Todos los funcionarios y empleados que manejen fondos públicos, deberán caucio
 
 El año fiscal comenzará el día 1º de enero y terminará el día 31 de diciembre.
 
-### CAPITULO VII
+### CAPITULO VII. De la Contaduría Mayor de Hacienda
 
-De la Contaduría General de Hacienda del Estado.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 73.
 
-Se establece en el Estado el Departamento de Contraloría cuya organización y funcionamiento se determinarán en la ley respectiva.
+En el Congreso habrá una sección que se denominará Contaduría Mayor de Hacienda, para el examen y glosa de las cuentas de los caudales públicos del Estado y de los Municipios. Dependerá exclusivamente del Congreso, siendo su órgano inmediato la Comisión Inspectora de Hacienda, y será regulada por una Ley.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 74.
 
-El Contador General de Hacienda, en los términos que señale el Reglamento respectivo, rendirá trimestralmente al Congreso un informe pormenorizado sobre las cuentas presentadas por el Ejecutivo, haciendo en él las observaciones que estime pertinentes.
+El Titular de la Contaduría Mayor de Hacienda, en los términos que señale el Ordenamiento
+
+respectivo, rendirá trimestralmente al Congreso un informe pormenorizado sobre las cuentas presentadas por el Ejecutivo, haciendo en él las observaciones que estime pertinentes. También informará, en el término señalado por la Ley, respecto de la cuenta pública presentada por los Municipios.
 
 ## TITULO NOVENO
 
@@ -1189,9 +1245,11 @@ En los delitos del orden común que cometieren el Secretaría (sic) de Gobierno,
 
 En los delitos oficiales de los funcionarios a que se refiere el artículo anterior, conocerá la Legislatura como Jurado de acusación, y el Tribunal Superior como Jurado de sentencia, en la forma que determine la ley. El Jurado de acusación declarará, a mayoría absoluta de votos, si el acusado es o no culpable. Si la declaración fuese absolutoria, el acusado continuará en el ejercicio de su encargo; si fuere condenatoria, quedará suspenso y a disposición del Tribunal Superior. Este, en acuerdo pleno, y mediante las formalidades que la ley determine, impondrá la pena que corresponda, la cual se ejecutará sin ulterior recurso.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 157.
 
-De los delitos oficiales y comunes cometidos por los Jueces de Primera Instancia, Menores, Municipales, Presidentes Municipales y Regidores, el Tribunal Superior declarará, en la forma que determine la ley, si ha lugar o no a proceder. En caso negativo, el acusado continuará en el ejercicio de su encargo, cesando todo procedimiento en su contra. En lo afirmativo, quedará suspenso el acusado en sus funciones, y sujeto a los tribunales comunes.
+De los delitos oficiales y comunes cometidos por los jueces del Estado, Presidentes Municipales y Regidores, el Tribunal Superior de Justicia declarará, en la forma que determine la Ley, si hay lugar o no a proceder. En caso negativo, el acusado continuará en el ejercicio de su encargo, cesando todo procedimiento en su contra. En el afirmativo, quedará suspenso el acusado en sus funciones, y sujeto a los tribunales comunes.
 
 ###### Art. 158.
 
@@ -1222,6 +1280,14 @@ Las proposiciones de reforma o adición, que no fueren admitidas por la Legislat
 ###### Art. 163.
 
 La Legislatura al discutir las reformas o adiciones a esta Constitución, se sujetará a los trámites establecidos para la formación de las leyes, sin que pueda ser dispensado ninguno de ellos; y en el caso de que las reformas o adiciones sean aprobadas por las tres cuartas partes del número total de los miembros de la Legislatura, se mandarán publicar, y se remitirán a los Ayuntamientos de las Municipalidades. Si la mayoría de éstos las aprueban, se tendrá por reformado o adicionada la Constitución.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
+Si transcurriesen treinta días naturales después de la recepción comprobada del proyecto de reformas y adiciones sin que los Ayuntamientos hubieran remitido a la Legislatura el resultado de la votación, se entenderá que aprueban tales reformas y adiciones.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
+Las reformas hechas a la Constitución Política de los Estados Unidos Mexicanos que afecten a esta Constitución, serán inmediatamente adoptadas por la Legislatura y promulgadas sin más trámite.
 
 ###### Art. 164.
 
@@ -1425,17 +1491,23 @@ Gobernador.
 
 Las facultades y obligaciones del Gobernador son:
 
-I.- Cuidar de la seguridad el Estado y de la de sus habitantes, protegiéndolos en el ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
+I.- Cuidar de la seguridad del Estado, y en coordinación con los Ayuntamientos, cuidar de la seguridad de los habitantes, protegiéndolos en el ejercicio de sus derechos;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1928)</small>
 
 II.- Promulgar, ejecutar y reglamentar las leyes generales y particulares del Estado, cuya reglamentación no esté reservada a la Legislatura, proveyendo respecto de aquellas en la esfera puramente administrativa a su exacta observancia.
 
-III.- Cuidar de la legal recaudación e inversión de todos los caudales públicos. Visitar o hacer visitar cuando lo juzgue conveniente, las oficinas de su dependencia y las Municipales, y multar, suspender o destituir inmediatamente a los empleados responsables, debiendo consignarlos dentro de tercero día al Juez que corresponda, en caso de delito o falta grave;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
+III.- Cuidar la recaudación e inversión de los caudales del Estado, con arreglo a las Leyes; visitar o hacer visitar cuando lo juzgue conveniente, las oficinas de su dependencia, y, en caso de encontrar anomalías, suspender o destituir inmediatamente a los empleados responsables, sin perjuicio de ponerlos a disposición de la autoridad competente para que enjuicie su conducta.
 
 IV.- Iniciar ante la Legislatura las leyes y decretos que juzgue convenientes, para el mejoramiento de la Administración pública;
 
-V.- Visitar, cuando lo crea oportuno, todas las Municipalidades del Estado, para estudiar sus necesidades;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
+V.- Visitar, cuando lo crea oportuno, todas las Municipalidades del Estado, para estudiar sus necesidades, y, en su caso, celebrar con los respectivos Ayuntamientos los convenios indispensables para la eficaz prestación de los servicios públicos;
 
 VI.- Dar su opinión en los proyectos de leyes, decretos o acuerdos, cuando la Legislatura se lo pidiere;
 
@@ -1443,11 +1515,15 @@ VII.- Pedir a la Legislatura que haga al Congreso de la Unión, las iniciativas 
 
 VIII.- Pasar a la Legislatura, y en sus recesos a la Diputación Permanente, los negocios, cuyo conocimiento les corresponda;
 
-IX.- Mandar la Guardia Nacional, las fuerzas de seguridad del Estado y los cuerpos de policía en la Municipalidad en que resida;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
+IX.- Mandar la Guardia Nacional, las fuerzas de seguridad del Estado y los cuerpos de policía y tránsito en la Municipalidad en que resida o se encuentre con motivo del desempeño de sus funciones;
 
 X.- Impartir a los Tribunales y Juzgados los auxilios que bajo su responsabilidad demanden, para el desempeño de sus funciones;
 
-XI.- Suspender provisionalmente a los miembros de los Ayuntamientos que abusen de sus facultades, dando parte a la Legislatura, y en sus recesos a la Diputación Permanente, para que determinen lo que fuere oportuno;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
+XI.- Dar parte a la Legislatura, y en sus recesos a la Diputación Permanente, de los abusos que llegaren a cometer los miembros de los Ayuntamientos en el ejercicio de su encargo, para que determine lo que fuere procedente;
 
 XII.- Hacer cumplir los fallos y las demás resoluciones de los Tribunales de Justicia;
 
@@ -1459,9 +1535,9 @@ XIV.- Excitar a la Diputación Permanente para que convoque a la Legislatura a s
 
 XV.- Proponer a la Legislatura cada año las Leyes de Ingresos del año próximo, tanto del Estado como de los Municipios y los Presupuestos de Egresos del primero y presentarle la cuenta del año en curso para su revisión; en el último año de ejercicio constitucional deberá presentar la cuenta pública ejercida hasta el 31 de julio del año de que se trate.
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 1973)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
-XVI.- Remitir trimestralmente al Congreso a través de la Contaduría General de Hacienda, un informe detallado y documentado de la recaudación e inversión que se haya hecho de los caudales públicos a efecto de que, satisfecho el requisito que establece el articulo 74, se dicte la resolución que previene la fracción IV del articulo 63.- (sic) Independientemente de la obligación que este precepto impone, se cumplirá con la que señala el artículo 50 de esta misma Constitución.
+XVI.- Remitir trimestralmente al Congreso a través de la Contaduría Mayor de Hacienda, un informe detallado y documentado de la recaudación e inversión de los caudales públicos a efecto de que, satisfecho el requisito que establece el artículo 74, se dicte la resolución que previene la fracción IV del articulo 63. Independientemente de la obligación que este precepto impone se cumplirá con la que señala el artículo 50 de esta misma Constitución;
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1979)</small>
 
@@ -1469,7 +1545,9 @@ XVII.- Nombrar y remover libremente a los Secretarios del Despacho, al Procurado
 
 XVIII.- Conceder o denegar indulto, y reducción o conmutación de pena, por los delitos de la competencia de los Tribunales del Estado, con los requisitos establecidos per(sic) las leyes;
 
-XIX.- (DEROGADA, P.O. 11 DE JULIO DE 1935)
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
+XIX.- El Ejecutivo podrá convenir con la Federación, la asunción por parte del Estado de las funciones de aquella, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario. Estará igualmente facultado para celebrar esos convenios con los Municipios de la Entidad, a efecto de que aquellos asuman la prestación de los servicios o la atención de las funciones mencionadas;
 
 XX.- Recibir la protesta de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo para el cual hubieren sido designados, mirando en todo por el bien y prosperidad de la Nación y del Estado, al Secretario de Gobierno y demás empleados y funcionarios que conforme a la Ley no deban prestar la protesta ante otras Autoridades;
 
@@ -1591,11 +1669,13 @@ El Estado de Querétaro Arteaga es parte integrante de la Federación Mexicana. 
 
 El territorio del Estado se divide en 18 Municipios que son: Amealco, Arroyo Seco, Cadereyta de Montes, Colón, Corregidora, Jalpan de Serra, Pinal de Amoles, Querétaro, San Juan del Río, Tequisquiapan, Toliman, El Marques, Pedro Escobedo, Huimilpan, San Joaquín, Landa de Matamoros, Ezequiel Montes y Peñamiller.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1929)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 3°.
 
-Las Municipalidades mencionadas en el artículo anterior tendrán los límites y extensiones que señale la Ley Orgánica del Municipio Libre y sus cabeceras serán las poblaciones de sus mismos nombres.
+Las Municipalidades mencionadas en el artículo anterior, tendrán los límites y extensiones que señale la Ley Orgánica del Municipio Libre y sus cabeceras serán las poblaciones de sus mismos nombres, con excepción de El Marqués que tiene por cabecera a La Cañada, y él de Corregidora que tiene por cabecera a El pueblito.
+
+La ciudad de Querétaro es la residencia oficial de los Poderes del Estado, y éstos no podrán trasladarse a otro lugar sino por causa grave calificada por las tres cuartas partes de los individuos presentes de la Legislatura.
 
 ###### Art. 3º.
 
@@ -1834,3 +1914,17 @@ Publíquese la presente en el Periódico Oficial del Estado y en las Cartulinas 
 ###### ARTICULO SEGUNDO.
 
 Envíese al total de municipios que integran el Estado para los efectos del artículo 163 de la misma Constitución.
+
+P.O. 8 DE DICIEMBRE DE 1983
+
+###### ARTICULO PRIMERO.
+
+Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado y en los cartelones que ordena el artículo 164 de la Constitución Política Local y remítase copia autorizada de la misma a los Ayuntamientos de los Municipios de la Entidad, para que se sirvan aprobarla o reprobarla y manifiesten a esta Legislatura su resolución.
+
+###### ARTICULO SEGUNDO.
+
+El Presidente de la Cámara, luego que se hayan recibido las constancias de la votación a que se refiere el artículo anterior, convocará al Pleno a Sesión para el solo efecto de que se haga el cómputo de las aprobaciones o desaprobaciones de los Ayuntamientos, y se emita el Acuerdo respectivo.
+
+###### ARTICULO TERCERO.
+
+La presente Ley entrará en vigor al día siguiente de la publicación del Acuerdo a que se refiere el artículo anterior, en el Periódico Oficial del Gobierno del Estado.
