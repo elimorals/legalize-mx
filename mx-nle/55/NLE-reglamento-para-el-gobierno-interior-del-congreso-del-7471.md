@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "1993-03-26"
+last_updated: "1994-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 1994.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -1201,6 +1201,10 @@ Se designará también un lugar conveniente para que las taquígrafas de la Legi
 
 Los asistentes a las sesiones se presentarán con el decoro que exige el lugar a que asisten, no podrán portar armas, deberán guardar silencio, respeto y compostura y no tomarán parte en los debates con ninguna clase de demostración.
 
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 1994)</small>
+
+Toda persona que concurra al Salón de Sesiones deberá abstenerse de Fumar.
+
 ###### Artículo 157.
 
 Los que perturben de cualquier modo el orden serán amonestados por el Presidente, si no acatara la excitativa éste ordenará expulsarlo de la sesión.
@@ -1276,3 +1280,7 @@ LIC. ALEJANDRO LAMBRETON NARRO
 P.O. 26 DE MARZO DE 1993.
 
 UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE MARZO DE 1994.
+
+UNICO:- El presente decreto entrará en vigor el día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado.
