@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2001-02-03"
+last_updated: "2001-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -429,7 +429,9 @@ III. Las demás personas que señalen las Leyes Fiscales.
 
 Están exentos del pago de Impuestos, Contribuciones Especiales y Derechos, salvo lo que las Leyes Fiscales determinen:
 
-I. La Federación, el Estado y sus municipios, cuando la actividad corresponda a su función de derecho público; y
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2001)</small>
+
+I. Los bienes de dominio público de la Federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propositivos distintos a los de su objeto público; y
 
 II. Las demás personas que, de modo general, señalen las Leyes Fiscales Municipales.
 
@@ -1819,25 +1821,31 @@ Para la percepción de estos ingresos se estará a lo dispuesto, según el caso,
 
 ### CAPITULO II. Bienes Muebles e Inmuebles
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)</small>
+
 ###### Art. 179.
 
-Sólo podrán ser enajenados los bienes inmuebles municipales, en los casos previstos en la Ley Orgánica, o cuando resulten antieconómicos en su conservación y mantenimiento. Excepcionalmente, podrán ser donados dichos bienes a Instituciones Públicas Oficiales, cuando éstos no sean indispensables para los fines del Ayuntamiento y que la obra, que se pretenda llevar a cabo en los mismos, represente un beneficio común para los habitantes del Municipio, conforme a las siguientes bases:
+Sólo podrán ser enajenados los bienes inmuebles municipales, en los casos previstos en la ley que establezca las bases generales de la administración pública municipal, o cuando resulten antieconómicos en su conservación y mantenimiento. Excepcionalmente, podrán ser donados dichos bienes a instituciones públicas oficiales, cuando éstos no sean indispensables para los fines del Ayuntamiento y que la obra, que se pretenda llevar a cabo en los mismos, represente un beneficio común para los habitantes del Municipio, conforme a las siguientes bases:
 
-I. La Tesorería Municipal, cuando lo acuerde el Ayuntamiento, formará un expediente en que se acredite que existen las condiciones antes mencionadas y en él incluirá el proyecto para una construcción inmobiliaria o para la ejecución de obras de necesidad o utilidad notorias, a las que invariablemente destinará el producto de la venta;
+> <small>(REFORMADA, P.O. 21 DE JULIO DE 2001)</small>
 
-II. En vista de ese expediente, el Congreso del Estado concederá o negará la autorización respectiva; y
+I. La Tesorería Municipal, cuando lo acuerde el Ayuntamiento, formará un expediente en que se acredite que existen las condiciones antes mencionadas y en él incluirá el proyecto para una construcción inmobiliaria o para la ejecución de obras de necesidad o utilidad notorias, a las que invariablemente destinará el producto de la venta; y
 
-III. La venta se efectuará en subasta pública que anuncie y presida el Tesorero Municipal, con citación del Síndico del Ayuntamiento.
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN III], P.O. 21 DE JULIO DE 2001)</small>
 
-Dichas enajenaciones, para que tengan validez jurídica, deberán ser aprobadas por el Congreso del Estado a solicitud de las Autoridades Municipales, previo acuerdo del Ayuntamiento, en sesión de Cabildo.
+II. La venta se efectuará en subasta pública que anuncie y presida el Tesorero Municipal, con citación del Síndico del Ayuntamiento.
+
+Dichas enajenaciones, para que tengan validez jurídica, deberán ser aprobadas por el Gobierno Municipal, en sesión de Ayuntamiento, conforme a la ley.
 
 Las ventas que se efectúen en contravención a este artículo serán nulas de pleno derecho.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+
 ###### Art. 180.
 
-Podrán ser materia de arrendamiento los bienes inmuebles municipales, cuando no se destinen a la administración o a la prestación de servicios públicos, mediante la celebración del contrato respectivo que apruebe el Cabildo, el cual será suscrito por el Síndico del Ayuntamiento, oyendo al Tesorero Municipal para efectos de determinar el importe del arrendamiento, con la persona que en concurso público ofrezca mejores condiciones.
+Podrán ser materia de arrendamiento los bienes inmuebles municipales, cuando no se destinen a la administración o a la prestación de servicios públicos, mediante la celebración del contrato respectivo que apruebe el Ayuntamiento, el cual será suscrito por el Síndico del Ayuntamiento, oyendo al Tesorero Municipal para efectos de determinar el importe del arrendamiento, con la persona que en concurso público ofrezca mejores condiciones.
 
-Los actos o contratos que surtan efectos posteriores al período del Ayuntamiento en cuya administración se celebren, serán válidos, siempre que hayan sido aprobados por el Congreso del Estado.
+Los actos o contratos que surtan efectos posteriores al período del Ayuntamiento en cuya administración se celebren, serán válidos, siempre que hayan sido aprobados por el Ayuntamiento de conformidad con la ley que establezca las bases generales de la administración pública municipal.
 
 ###### Art. 181.
 
@@ -1849,9 +1857,11 @@ La Tesorería Municipal llevará un inventario de los bienes muebles e inmuebles
 
 La obligación anterior no será aplicable cuando se trate de bienes muebles cuyo valor no exceda del importe de dos días de salario.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+
 ###### Art. 183.
 
-Ningún bien mueble podrá ser dado de baja, sin el previo acuerdo del Cabildo.
+Ningún bien mueble podrá ser dado de baja, sin el previo acuerdo del Ayuntamiento.
 
 ### CAPITULO III. Cementerios
 
@@ -2071,9 +2081,11 @@ VI. De acuerdo con las modificaciones al presupuesto en ejercicio, y para la pre
 
 ### CAPITULO I. De la Estructura
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)</small>
+
 ###### Art. 206.
 
-El Presidente Municipal, para la elaboración del presupuesto de egresos, presentará al cabildo los siguientes documentos:
+El Presidente Municipal, para la elaboración del presupuesto de egresos, presentará al Ayuntamiento los siguientes documentos:
 
 I. La estimación de los ingresos a recaudar, tomando como base los rubros señalados en la Ley de Ingresos correspondiente al ejercicio fiscal siguiente;
 
@@ -2129,7 +2141,7 @@ Los Ayuntamientos deberán cumplir con los criterios de racionalidad, austeridad
 
 ###### Art. 208.
 
-Para los efectos de la determinación del monto del gasto público, el Tesorero Municipal deberá allegarse todos aquellos datos que considere necesarios, elaborando con ellos el proyecto que presentará al Presidente Municipal, para que éste, a su vez, lo presente al Cabildo.
+Para los efectos de la determinación del monto del gasto público, el Tesorero Municipal deberá allegarse todos aquellos datos que considere necesarios, elaborando con ellos el proyecto que presentará al Presidente Municipal, para que éste, a su vez, lo presente al Ayuntamiento.
 
 ###### Art. 209.
 
@@ -2137,7 +2149,7 @@ El Tesorero Municipal, ajustándose a las estimaciones de ingresos aprobadas, fo
 
 ###### Art. 210.
 
-El Presidente Municipal, dentro de los primeros quince días del mes de noviembre de cada año, deberá presentar al Cabildo el proyecto de gasto público, el cual se integrará con los documentos siguientes:
+El Presidente Municipal, dentro de los primeros quince días del mes de noviembre de cada año, deberá presentar al Ayuntamiento el Proyecto de Gasto Público, el cual se integrará con los documentos siguientes:
 
 I. Estimación de los ingresos a recaudar, tomando como base la política recaudatoria y la Ley de Ingresos que regirá en el ejercicio fiscal siguiente;
 
@@ -2173,15 +2185,17 @@ XI. Sueldo y demás prestaciones económicas asignadas a cada una de las plazas 
 
 XII. Los demás informes financieros y datos estadísticos que considere conveniente, para la mejor comprensión de su política hacendaria y del programa de administración.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+
 ###### Art. 211.
 
-Una vez estudiado y revisado el proyecto del gasto público, el monto del mismo será el que se apruebe por el Cabildo, para erogar dicho gasto, durante el período de un año, a partir del día 1.° de enero.
+Una vez estudiado y revisado el Proyecto del Gasto Público, el monto del mismo será el que se apruebe por el Ayuntamiento, para erogar dicho gasto, durante el período de un año, a partir del día 1 de enero.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1997)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
 
 ###### Art. 212.
 
-Aprobado el Presupuesto de Egresos para el ejercicio fiscal respectivo, el Ayuntamiento deberá remitir, antes del día veinte de diciembre de cada año, las copias del mismo y del acta de la sesión de Cabildo en que se aprobó, al Congreso del Estado, para su conocimiento y efectos y revisión de la cuenta pública.
+Aprobado el presupuesto de egresos para el ejercicio fiscal respectivo, el gobierno municipal deberá remitir, antes del día veinte de diciembre de cada año, las copias del mismo y del acta de la sesión de ayuntamiento en que se aprobó, al Congreso del Estado, para su conocimiento y efectos de control y revisión de la cuenta pública.
 
 > <small>(ADICIONADO, P.O. 23 DE ENERO DE 2001)</small>
 
@@ -2201,6 +2215,8 @@ La publicación a que se refiere el párrafo anterior deberá hacerse en la Gace
 
 ### CAPITULO II. De la Estimación del Monto
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+
 ###### Art. 213.
 
 La ministración de los fondos correspondientes será autorizada, en todos los casos, por el Tesorero Municipal, en los términos de la Ley Orgánica Municipal.
@@ -2215,6 +2231,8 @@ El gasto público deberá de ejercerse, conforme a lo autorizado en cada una de 
 
 ### CAPITULO III. De la Iniciativa, Discusión y Aprobación
 
+(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
+
 ###### Art. 216.
 
 Los nombramientos que expida el Ayuntamiento serán enviados a su Tesorería, con copia al Congreso del Estado, a más tardar, dentro de los 5 días siguientes a la fecha en que se expidan los documentos relativos.
@@ -2227,7 +2245,7 @@ Toda erogación deberá ajustarse estrictamente, al texto de la partida que reci
 
 ###### Art. 218.
 
-El gasto público no podrá modificarse en ninguna de sus partidas, sin la previa autorización del Cabildo.
+El gasto público no podrá modificarse en ninguna de sus partidas, sin la previa autorización del Ayuntamiento.
 
 ### CAPITULO IV. De su Ejercicio
 
@@ -2239,11 +2257,15 @@ A toda proposición de creación de partida o aumento del gasto en el presupuest
 
 En los casos a que se refiere el artículo anterior, el Presidente Municipal, por conducto del Tesorero del Ayuntamiento, preparará las iniciativas de las modificaciones correspondientes, debiendo comunicar al Congreso del Estado dichos cambios, a más tardar, 5 días posteriores a la realización de los mismos.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
+
 ###### Art. 221.
 
-Excepcionalmente, cuando por razones contingentes, la Hacienda Pública Municipal cuente con disponibilidades cuyo monto supere la cobertura del gasto público autorizado para el ejercicio fiscal, el Presidente Municipal, previo acuerdo de Cabildo, queda facultado para aplicarlo, dentro de la programación general de las actividades oficiales, obras y servicios públicos a cargo del Ayuntamiento sin perjuicio de la revisión, glosa y control que debe practicar el Poder Legislativo, a través de la Contaduría Mayor de Hacienda.
+Excepcionalmente, cuando por razones contingentes, la Hacienda Pública Municipal cuente con disponibilidades cuyo monto supere la cobertura del gasto público autorizado para el ejercicio fiscal, el Presidente Municipal, previo acuerdo de Ayuntamiento, queda facultado para aplicarlo, dentro de la programación general de las actividades oficiales, obras y servicios públicos a cargo del Ayuntamiento sin perjuicio de la revisión, glosa y control que debe practicar el Poder Legislativo, a través de la Contaduría Mayor de Hacienda.
 
 ### CAPITULO V. De las Modificaciones
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2001)</small>
 
 ## TITULO TERCERO. De la Cuenta Pública
 
@@ -2265,9 +2287,11 @@ El Congreso del Estado, a través de la Contaduría Mayor de Hacienda para el cu
 
 Para tal efecto, podrá servirse de cualquier medio lícito que conduzca al esclarecimiento de los hechos y aplicar, en el caso, técnicas y procedimientos de auditoría.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE JULIO DE 2001)</small>
+
 ###### Art. 225.
 
-La revisión de la Cuenta Pública de los Municipios precisará el ingreso y el gasto público; determinará el resultado de la gestión financiera; verificará si el ingreso deriva de la aplicación de las Leyes de Ingresos; comprobará si el gasto público se ajustó a los presupuestos, y si se han cumplido los programas aprobados por el Cabildo.
+La revisión de la cuenta pública de los municipios precisará el ingreso y el gasto público; determinará el resultado de la gestión financiera; verificará si el ingreso deriva de la aplicación de las leyes de ingresos; comprobará si el gasto público se ajustó a los presupuestos, y si se han cumplido los programas aprobados por el Ayuntamiento.
 
 La revisión no sólo comprenderá la conformidad de ingresos y egresos, sino que se extenderá a una revisión legal, económica y contable del ingreso y del gasto público, y verificará la exactitud y la justificación de los cobros y pagos hechos, de acuerdo con los precios y tarifas autorizadas o de mercado, y de las cantidades erogadas.
 
@@ -3261,8 +3285,20 @@ P.O. 25 DE JULIO DE 2000.
 
 P.O. 23 DE ENERO DE 2001.
 
-ÚNICO.- Este decreto entrará en vigor a los 60 sesenta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
+ÚNICO.- Este decreto entrará en vigor a los 60 sesenta días siguientes a su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 3 DE FEBRERO DE 2001.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE JULIO DE 2001.
+
+DECRETO NUMERO 19112.
+
+ÚNICO. El presente decreto entrará en vigor el mismo día que la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 21 DE JULIO DE 2001.
+
+DECRETO NUMERO 19113.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
