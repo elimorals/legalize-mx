@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "1995-12-25"
+last_updated: "1996-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -233,51 +233,37 @@ En todo momento las Autoridades Municipales, están facultadas para nombrar los 
 
 Las infracciones a este Capítulo serán sancionadas, de conformidad con lo previsto por el Código Fiscal Municipal.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 16.
 
-Es objeto de este impuesto la propiedad o posesión de solares urbanos con construcciones ruinosas o sin construcción que estén ubicados en lugares que cuenten con servicio de agua potable y drenaje, en poblaciones con más de 5,000 habitantes.
-
-Se entiende por solares urbanos con construcciones ruinosas y solares sin construcción aquellos que no tengan una edificación cuando menos de 2 piezas habitadas o en uso en las ciudades o en los pueblos y villas.
-
-Asimismo, se equipara a los solares sin construcción:
-
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 1991)</small>
-
-I.- Los que teniéndola sea inhabitable por abandono o ruina;
-
-II.- Los que estando ubicados dentro del área urbana, tengan construcciones permanentes en un área inferior al 25% de la superficie total del predio y que, al practicar avalúo de las edificaciones, resultan con valor inferior al 50% del valor del terreno.
-
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1991)</small>
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 17.
 
-Son sujetos de este impuesto, los propietarios o poseedores o en su caso los promitentes o compradores de solares urbanos que cuenten con servicio de agua potable y drenaje, ubicados en poblaciones con más de 5,000 habitantes, en los que no exista construcción o que existiendo se encuentre en el supuesto de la fracción II del artículo anterior.
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1993)</small>
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 18.
 
-La base del impuesto será, en el caso del impuesto sobre Construcciones Ruinosas el número de metros cuadrados en condiciones ruinosas y se causará por metro cuadrado o fracción y en el caso de Solares sin Construcción sobre el valor catastral del bien inmueble de que se trate, considerándose como uno solo los lotes que estén o resulten colindantes por sus lados o por sus vértices, a nombre de un mismo propietario o poseedor. Este impuesto se causará de conformidad a la tarifa establecida en la fracción I del artículo 52 de la presente ley.
-
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1991)</small>
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 19.
 
-El pago de este impuesto se hará trimestralmente y se efectuará por trimestre vencido durante los primeros veinte días, los meses de Abril, Julio, Octubre y Enero de cada año.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 20.
 
-Tratándose de solares baldíos enmontados y habiendo transcurrido el término concedido en el Artículo precedente, el Presidente Municipal tendrá amplias facultades para ordenar el desmonte y limpieza de dichos solares cargando a la cuenta de él (o los) propietarios de los lotes, los gastos originados, mismos que se harán efectivos al realizar el pago del Impuesto Predial.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1996)
 
 ### CAPITULO III. POR ACERAS NO CONSTRUIDAS
 
 ###### ARTICULO 21.
 
-Quedan exentos del pago del impuesto a que se refiere la tarifa del Artículo 18, las empresas fraccionadoras o urbanizadoras legalmente autorizadas por los solares sin construcción que destinen a la venta, por un lapso de tres años a partir de la fecha en que de hecho o de derecho se inicie la venta de lotes, pudiendo realizarse ésta por etapas previa autorización de la Presidencia Municipal, debiendo el fraccionador conservarlos limpios.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 22.
 
-La falta de cumplimiento a las disposiciones contenidas en este Capítulo, se sancionarán conforme a lo estipulado en el Código Fiscal Municipal.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1996)
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 1993)</small>
 
@@ -1059,7 +1045,9 @@ Responderán subsidiariamente del pago de este impuesto; los funcionarios, emple
 
 Las bases para la determinación del Impuesto Predial serán las siguientes:
 
-I.- En tratándose de predios rústicos o fincas urbanas, el valor catastral determinado conforme a la Ley de Catastro.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+I.- Tratándose de predios rústicos o fincas urbanas el contribuyente podrá determinar o declarar el valor de los inmuebles mediante avalúo directo practicado por perito debidamente registrado ante el Instituto Catastral del Estado de Sinaloa, o mediante el valor catastral determinado conforme a la Ley de Catastro.
 
 II.- Tratándose de predios rústicos:
 
@@ -1075,39 +1063,21 @@ b). Los demás, en los términos establecidos por la fracción I de este precept
 
 El Impuesto Predial se causará mediante la aplicación de la siguiente tarifa y tasas anuales:
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-I.- Predios o Fincas urbanas.
+I.- Predios o fincas urbanas.
 
-RANGO LIMITE LIMITE TASA AL
+(VEASE TABLA ANEXA)
 
-INFERIOR SUPERIOR MILLAR
+Para la aplicación de la tarifa a que se refiere esta fracción, se considera predio urbano sin construcción, aquellos que no tengan edificación y que estén ubicados en lugares que cuenten con servicio de agua potable y drenaje, en poblaciones con más de 5,000 habitantes.
 
-1 0.00 9,000.99 Cuota fija de 2 salarios
+Asimismo se equipara a los predios sin construcción:
 
-mínimos
+a) Los que teniéndola sea inhabitable por abandono o ruina.
 
-2 9,001.00 18,000.99 3.0000
+b) Los que estando ubicados dentro del área urbana, tengan construcciones permanente en un área inferior al 25% de la superficie total del predio y que al practicar avalúo de las edificaciones, resulten con valor inferior al 50% del valor del terreno.
 
-3 18,001.00 36,000.99 3.1066
-
-4 36,001.00 48,000.99 3.2545
-
-5 48,001.00 60,000.99 3.4695
-
-6 60,001.00 90,000.99 3.8989
-
-7 90,001.00 180,000.99 4.4886
-
-8 180,001.00 275,000.99 5.0361
-
-9 275,001.00 482,000.99 5.8533
-
-10 482,001.00 1,000,000.99 6.3233
-
-11 1,000,001.00 en adelante 7.7304
-
-Cuando se trate de solares sin construcción o construcciones ruinosas a las que se refiere el capítulo II de la presente ley, el impuesto se calculará aplicando la tarifa anterior, más una sobretasa del 2 al millar.
+Las tasas para predios sin construcción no serán aplicables a aquellos que las empresas fraccionadoras o urbanizadoras legalmente autorizadas destinen a la venta, por un lapso de tres años a partir de la fecha en que de hecho o de derecho se inicie la venta de lotes, pudiendo realizarse ésta por etapas, previa autorización de la Presidencia Municipal, debiendo el fraccionador conservarlos limpios.
 
 II.- de los Predios Rústicos destinados a:
 
@@ -1139,7 +1109,17 @@ I.- Para los que les resulte aplicable la tarifa contenida en la Fracción I del
 
 a). A presentar los avisos, documentos y declaraciones que señalen la Ley de Catastro y su Reglamento, así como las que le soliciten las autoridades fiscales para la determinación del impuesto.
 
-b). A pagar el impuesto a su cargo en la Oficina Recaudadora que corresponda a la ubicación de los predios por trimestres adelantados, dentro de los primeros veinte días de los meses de enero, abril, julio y octubre.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+b). A pagar el impuesto a su cargo en la Oficina Recaudadora que corresponda a la ubicación de los predios, por trimestres naturales adelantados, a más tardar el último día de los meses de febrero, mayo, agosto y noviembre.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+c). Quienes opten por determinar el valor de sus inmuebles mediante avalúo directo practicado por perito debidamente registrado ante el Instituto Catastral, deberá presentar por cada predio, declaración de pago junto con el avalúo del inmueble, usando para ello el formulario autorizado que apruebe la Tesorería Municipal.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+d). En los casos en que el contribuyente no ejerza la opción de pago señalada en el inciso anterior, la Tesorería Municipal le emitirá un informe con las características físicas del predio, el valor catastral determinado conforme a las Tablas de Valores Catastrales y el impuesto a pagar.
 
 II.- Para los que les resulte aplicable la tarifa contenida en la Fracción II del Artículo 52:
 
@@ -1197,15 +1177,17 @@ El pago anticipado del impuesto no impide el cobro de diferencias que deba hacer
 
 ARTICULO 57 BIS-1.- Tratándose de casa habitación propiedad de pensionados o jubilados, o de sus cónyuges, siempre y cuando la habiten, el Impuesto Predial se pagará con un descuento del 65% del monto total del impuesto determinado, aplicando la tasa que señala la tarifa contenida en la Fracción I del Artículo 52 de la presente Ley, previa comprobación de su calidad de jubilado, pensionado o cónyuge a satisfacción plena de la Tesorería del Municipio en que se encuentre ubicada. Los Ayuntamientos deberán informar al Instituto Catastral del Estado de Sinaloa, sobre los predios que les sea otorgado este beneficio.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-ARTICULO 57 BIS-2.- A los propietarios de fincas destinadas a casa habitación, siempre y cuando la habiten en forma permanente, previa comprobación de manera fehaciente ante la Tesorería del municipio que corresponda se les hará un descuento del 50% del monto total del impuesto a pagar.
+ARTICULO 57 BIS-2.- A los propietarios de fincas destinadas a casa habitación, siempre y cuando la habiten en forma permanente, previa comprobación de manera fehaciente ante la Tesorería del Municipio que corresponda, así como a los clubes deportivos, se les hará un descuento del 50% del monto total del Impuesto a pagar.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1994)</small>
 
 El descuento a que se refiere este Artículo no será aplicable en ningún caso, a las casas habitación sujetas a cuota fija señalada en la tarifa contenida en la Fracción I del Artículo 52 de la presente Ley, ni a jubilados, pensionados o sus cónyuges que resulten beneficiados con el descuento señalado en el artículo anterior.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-ARTICULO 57 BIS-3.- Tratándose de predios en que se encuentren ubicadas empresas comerciales e industriales, previa comprobación de dicha circunstancia a satisfacción de la Tesorería Municipal que corresponda, el Impuesto Predial se pagará aplicando la tasa que señala la Tarifa contenida en la Fracción I del Artículo 52 de la presente Ley, con un descuento de hasta un 50% del monto total del impuesto a pagar, el cual deberá ser aprobado por el Ayuntamiento; se exceptúan de este beneficio las industrias acreedoras a las reducciones del Impuesto Predial previstas en la Ley de Fomento Industrial, entendiéndose por industria lo señalado en la Fracción IV del Artículo 2 de dicha Ley. Los Ayuntamientos deberán informar al Instituto Catastral del Estado de Sinaloa, sobre los predios que les sea otorgado este beneficio.
+ARTICULO 57 BIS-3.- Tratándose de predios en que se encuentren ubicadas empresas comerciales, industriales y de servicio, previa comprobación de dicha circunstancia a satisfacción de la Tesorería Municipal que corresponda, el Impuesto Predial se pagará aplicando la tasa que señala la tarifa contenida en la fracción I del Artículo 52 de la presente Ley, con un descuento de hasta un 40% del monto total del impuesto a pagar, el cual deberá ser aprobado por el Ayuntamiento; exceptúandose las empresas acreedoras a los beneficios que en materia del Impuesto Predial contempla la Ley de Fomento a la Inversión para el Desarrollo Económico de Sinaloa. Los ayuntamientos deberán informar al Instituto Catastral del Estado de Sinaloa, sobre los predios que le sea otorgado este beneficio.
 
 ###### ARTICULO 58.
 
@@ -1279,7 +1261,7 @@ Aquellos avalúos que no sean realizados por el Instituto Catastral podrán ser 
 
 Para las operaciones en que se trate de adquisiciones de casa habitación tipo interés social que no excedan de 6,500 veces el salario mínimo general diario vigente en la zona, la base gravable del impuesto se determinará conforme al valor comercial que deberá ser fijado por el Instituto Catastral.
 
-El contribuyente podrá optar por considerar como base gravable el valor de adquisición de su inmueble disminuido con el valor que se tomó como base en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 62.
 
@@ -2987,7 +2969,7 @@ En tratándose del Impuesto Predial, se causará únicamente un Impuesto Adicion
 
 Los ingresos extraordinarios que tengan como fuente empréstitos públicos, se percibirán con arreglo a los Convenios que se celebren para su otorgamiento y previa autorización del Congreso del Estado, cuando su plazo rebase el período constitucional del Ayuntamiento en funciones.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 145.
 
@@ -3023,7 +3005,7 @@ II.- Ninguna Autoridad podrá si no existe precepto legal que la faculte para el
 
 III.- Las Autoridades Fiscales ejercerán las facultades discrecionales que las leyes fiscales les otorguen, de la manera más adecuada para que se alcancen las finalidades de interés público que las mismas disposiciones legales propongan, con arreglo a los principios de igualdad y equidad, sin crear indebidos privilegios o discriminaciones.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
 ### CAPITULO UNICO
 
@@ -3089,7 +3071,7 @@ Queda prohibida la celebración de igualas o convenios para el pago o cobro de i
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
-REQUERIMIENTO DE PAGO
+REMATES
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -3233,7 +3215,11 @@ III.- Crédito o créditos fiscales reclamados.
 
 Hechas las aplicaciones especificadas en el artículo anterior, el saldo si lo hubiere, quedará a disposición del ejecutado, salvo que haya orden de retención dictada por autoridades judiciales o administrativas competentes.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+
+EMBARGOS
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 160.
 
@@ -3473,7 +3459,7 @@ La prescripción se interrumpe por cualquier gestión del interesado, hecha por 
 
 > <small>(ADICIONADO CON LAS DENOMINACIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
-### CAPITULO IV. DE LOS CREDITOS FISCALES
+### CAPITULO VI. PROCEDIMIENTO DE EJECUCION
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -3505,22 +3491,6 @@ III.- Por edictos, únicamente en caso de que la persona a quien deba notificars
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-ARTICULO 191 BIS-2.- Las notificaciones por oficio se harán en el domicilio que el interesado haya señalado para el efecto de iniciar alguna instancia, y solo por lo que toca al trámite y resolución de ésta. Bastará para considerar que se ha señalado domicilio para recibir notificaciones en instancias administrativas, el que la dirección del interesado aparezca impresa en la promoción respectiva. A falta del domicilio designado se tendrá en cuenta el que resulte de las disposiciones fiscales.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
-ARTICULO 191 BIS-1.- Las notificaciones personales se harán en el último domicilio que la persona a quien se deba notificar, haya señalado ante las autoridades fiscales en el procedimiento administrativo de que se trate, a falta de señalamiento, se estará a las reglas previstas en el Artículo 192 a partir de su segundo párrafo de este Ordenamiento.
-
-Se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que se le espere a una hora fija del día siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato.
-
-Si la persona a quien haya que notificarse no atendiere el citatorio, la notificación se le hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla, se realizará por instructivo que se fijará en la puerta del domicilio.
-
-En el momento de la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación.
-
-De las diligencias en que conste la notificación o cita, el ejecutor notificador tomará razón por escrito.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
 ARTICULO 191 BIS-6.- Para iniciar un procedimiento de cobro en contra de un responsable solidario del crédito fiscal; será necesario hacerle notificación, en la que se expresará:
 
 I.- El nombre del causante;
@@ -3533,15 +3503,31 @@ IV.- El plazo para el pago que será de quince días, salvo que la Ley señale o
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-ARTICULO 191 BIS-4.- Las notificaciones surtirán sus efectos el día hábil siguiente al en que fueron hechas o al de la publicación, en el caso del artículo que antecede.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
 ARTICULO 191 BIS-3.- Las notificaciones por edictos se realizarán haciendo una publicación que contendrá un resumen de las resoluciones por notificar; dicha publicación deberá efectuarse en uno de los periódicos de mayor circulación del lugar.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
+ARTICULO 191 BIS-2.- Las notificaciones por oficio se harán en el domicilio que el interesado haya señalado para el efecto de iniciar alguna instancia, y solo por lo que toca al trámite y resolución de ésta. Bastará para considerar que se ha señalado domicilio para recibir notificaciones en instancias administrativas, el que la dirección del interesado aparezca impresa en la promoción respectiva. A falta del domicilio designado se tendrá en cuenta el que resulte de las disposiciones fiscales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ARTICULO 191 BIS-5.- La manifestación que hagan el interesado o su representante legal, de conocer un acuerdo, surtirá efectos de notificación en forma, desde la fecha en que se manifieste haber tenido tal conocimiento; si ésta es anterior a la en que debiere surtir sus efectos la notificación de acuerdo con el artículo precedente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+ARTICULO 191 BIS-4.- Las notificaciones surtirán sus efectos el día hábil siguiente al en que fueron hechas o al de la publicación, en el caso del artículo que antecede.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+ARTICULO 191 BIS-1.- Las notificaciones personales se harán en el último domicilio que la persona a quien se deba notificar, haya señalado ante las autoridades fiscales en el procedimiento administrativo de que se trate, a falta de señalamiento, se estará a las reglas previstas en el Artículo 192 a partir de su segundo párrafo de este Ordenamiento.
+
+Se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que se le espere a una hora fija del día siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato.
+
+Si la persona a quien haya que notificarse no atendiere el citatorio, la notificación se le hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla, se realizará por instructivo que se fijará en la puerta del domicilio.
+
+En el momento de la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación.
+
+De las diligencias en que conste la notificación o cita, el ejecutor notificador tomará razón por escrito.
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -3617,7 +3603,11 @@ Las autoridades, cuando sean requeridas para ello por los ejecutores, prestarán
 
 Para hacer gestiones en nombre ajeno ante las Oficinas Fiscales Municipales, bastará carta poder suscrita por el mandante y dos testigos, o con carta poder suscrita por el mandante y ratificada la firma ante el jefe de la Oficina Fiscal respectiva, este funcionario podrá ordenar la ratificación del poder cuando lo estime conveniente, antes de admitir al procurador y aún después de haberlo admitido.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+
+REQUERIMIENTO DE PAGO
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 200.
 
@@ -3651,15 +3641,11 @@ Los escritos y las promociones de los causantes no suspenderán el procedimiento
 
 Los honorarios de los ejecutores y demás gastos a que dé lugar el procedimiento fiscal de ejecución, serán a cargo del deudor y se harán efectivos conjuntamente con el crédito fiscal que origine el procedimiento.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
-EMBARGOS
+### CAPITULO V. DISPOSICIONES DIVERSAS
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
-
-### CAPITULO VI. PROCEDIMIENTO DE EJECUCION
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
+(ADICIONADO, P.O. 31 DE ENERO DE 1992) (F. DE E., P.O. 5 DE FEBRERO DE 1992)
 
 ### CAPITULO III. DE LAS AUTORIDADES FISCALES
 
@@ -3689,7 +3675,7 @@ VII.- La circunstancia de que no encontrara testigos no interrumpirá la diligen
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
-### CAPITULO VIII. RECURSO DE INCONFORMIDAD
+### CAPITULO VII. INFRACCIONES FISCALES Y SANCIONES CORRESPONDIENTES
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -3763,9 +3749,9 @@ Si al cometerse una infracción a las disposiciones fiscales, se ha incurrido en
 
 Las sanciones previstas por este capítulo serán determinadas por el Tesorero Municipal; en consecuencia, la autoridad fiscal que descubra la infracción remitirá a la Tesorería Municipal las actas que levante consignando la infracción.
 
-TRANSITORIOS:
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
-### CAPITULO VII. INFRACCIONES FISCALES Y SANCIONES CORRESPONDIENTES
+### CAPITULO VIII. RECURSO DE INCONFORMIDAD
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -3847,7 +3833,7 @@ IV.- El desvío del poder, tratándose de sanciones impuestas por infracción a 
 
 Las resoluciones de la autoridad que conozca el recurso, tendrán el carácter de definitivas e inapelables en el orden administrativo, salvo los casos en que proceda la condonación con arreglo a las disposiciones fiscales.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+TRANSITORIOS:
 
 ###### ARTICULO 206.
 
@@ -4003,15 +3989,11 @@ IV.- Hecha la revisión se comunicará el resultado a la oficina ejecutora, devo
 
 V.- Aprobado el expediente o corregidas las irregularidades observadas, se procederá al remate.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
-REMATES
+### CAPITULO IV. DE LOS CREDITOS FISCALES
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
-
-### CAPITULO V. DISPOSICIONES DIVERSAS
-
-(ADICIONADO, P.O. 31 DE ENERO DE 1992) (F. DE E., P.O. 5 DE FEBRERO DE 1992)
 
 ###### ARTICULO PRIMERO.
 
@@ -4378,3 +4360,79 @@ P.O. 25 DE DICIEMBRE DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE DICIEMBRE DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día primero de enero de 1997.
+
+###### ARTICULO SEGUNDO.
+
+En tanto el Estado se mantenga adherido al Sistema Nacional de Coordinación Fiscal en los términos del Convenio de Adhesión continuarán suspendidas las contribuciones estatales siguientes:
+
+I.- IMPUESTOS
+
+a).- Impuesto Sobre Ingresos Mercantiles.
+
+b).- Impuesto Sobre Productos de Capitales.
+
+c).- Impuesto Sobre Producción de Alcohol.
+
+d).- Impuesto Sobre Producción de Azúcar y Mascabado.
+
+e).- Impuesto Sobre Producción de Mieles Incristalizables.
+
+f).- Impuesto Sobre Producción Agrícola.
+
+g).- Impuesto Sobre Plantas de Beneficio y Establecimientos Metalúrgicos.
+
+h).- Impuesto Sobre Adquisición de Alcohol.
+
+i).- Impuesto Sobre Enajenación de Alcohol.
+
+j).- Impuesto Sobre Elaboración y Adquisición de Bebidas Alcohólicas.
+
+k).- Impuesto Sobre Almacenes y Expendios de Bebidas Alcohólicas.
+
+l).- Impuesto Sobre Juegos Permitidos.
+
+ll).- Impuesto Sobre Primera Venta de Gasolina, Grasas Lubricantes y demás derivados del petróleo.
+
+m).- Impuesto a la Industria Congeladora de Mariscos.
+
+n).- Impuesto a la Industria Harinera.
+
+ñ).- Impuesto a la Industria Algodonera.
+
+o).- Impuesto a la Industria Arrocera.
+
+p).- Impuesto Sobre Producción y Sacrificio de Ganado.
+
+q).- Impuesto Sobre Primera Venta de Productos Avícolas.
+
+r).- Impuesto Pro-Caminos Vecinales.
+
+II.- DERECHOS
+
+a).- Registro de Títulos Profesionales.
+
+b).- Registro de Fierros, Marcas, Tatuajes, Aretes y Señales de los Ganaderos.
+
+###### ARTICULO TERCERO.
+
+Cuando el Estado decida no continuar adherido al Sistema Nacional de Coordinación Fiscal, procederá a restablecer en la Ley, los elementos de cada una de las contribuciones señaladas en el Artículo anterior.
+
+###### ARTICULO CUARTO.
+
+Durante el ejercicio fiscal de 1997, el Impuesto Predial Sobre Fincas Urbanas que resulte a cargo de contribuyentes pensionados y jubilados o de sus cónyuges, en ningún caso será mayor a aquel que se hubiere determinado conforme a las disposiciones vigentes al 31 de diciembre de 1996.
+
+###### ARTICULO QUINTO.
+
+Durante el año de 1997, el cálculo del Impuesto Predial Sobre Fincas Urbanas se efectuará considerándose el porcentaje de la base gravable sobre la cual en el año de 1996 se aplicó la tarifa contenida en la fracción segunda del Artículo 52 de la presente Ley, de acuerdo a lo siguiente:
+
+A).- En las poblaciones en que la base gravable para el cálculo del Impuesto Predial en 1996 fue del 80%, para el presente ejercicio fiscal será de un 90%;
+
+B).- En las poblaciones en que la base gravable para el cálculo del Impuesto Predial en 1996 fue del 85%, para el presente ejercicio fiscal será de un 95%; y,
+
+C).- En las poblaciones en que la base gravable para el cálculo del Impuesto Predial en 1996 fue del 90 y 95%, para el presente ejercicio fiscal será de un 100%.
