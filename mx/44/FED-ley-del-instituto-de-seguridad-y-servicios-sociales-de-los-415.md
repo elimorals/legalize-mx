@@ -4,7 +4,7 @@ identifier: "FED-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-415"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-27"
-last_updated: "1985-02-07"
+last_updated: "1985-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=415&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,13 @@ abbreviation: "LISSSTE"
 ---
 # LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE MARZO DE 1985 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE ABRIL DE 1985 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE FEBRERO DE 1985.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION DEL 29 DE MARZO DE 1985.</small>
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el martes 27 de diciembre de 1983.
 
@@ -912,11 +914,11 @@ El plazo mayor que se considerará para estas adquisiciones, será de 5 años; e
 
 #### SECCION PRIMERA. Del Crédito para Vivienda
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE FEBRERO DE 1985) (F. DE E., D.O.F. 29 DE MARZO DE 1985)
 
 ###### Artículo 100.
 
-Para los fines a que se refieren las fracciones XI, inciso f) del apartado b) del artículo 123 Constitucional; el inciso h) de la fracción VI del artículo 43 de la Ley Federal de los Trabajadores al Servicio del Estado; y las fracciones XIII y XIV del artículo 3o. de esta Ley, se constituirá el Fondo de la Vivienda que tiene por objeto:
+Para los fines a que se refieren las fracciones XI, inciso f) del apartado B) del artículo 123 Constitucional; el inciso h) de la fracción VI del artículo 43 de la Ley Federal de los Trabajadores al Servicio del Estado; y las fracciones XIII y XIV del artículo 3o. de esta Ley, se constituirá el Fondo de la Vivienda que tiene por objeto:
 
 > <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1985)</small>
 
@@ -1110,9 +1112,9 @@ Los financiamientos señalados en la fracción II del mismo artículo, se otorga
 
 Todos los inmuebles adquiridos o construidos por los trabajadores para su propia habitación, con los recursos del Fondo para la Vivienda administrados por el Instituto, quedarán exentos a partir de la fecha de su adquisición o construcción de todos los impuestos federales y del Departamento del Distrito Federal por el doble del crédito y hasta por la suma de diez veces el salario mínimo del Distrito Federal elevado al año, durante el término que el crédito permanezca insoluto.
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985) (F. DE E., D.O.F. 29 DE MARZO DE 1985)
 
-Gozarán también de exención los convenios, contratos o actos en los que se hagan constar las correspondientes operaciones, los cuales tendrán el carácter de escritura pública para todos los efectos legales y se inscribirán en el Registro Público de la Propiedad respectivo, incluyendo la constitución del régimen de propiedad en condominio que haga constar el Instituto en relación con los conjuntos que financie o adquiera, sin menoscabo de que el trabajador pueda acudir ante Notario Público de su elección en las operaciones en que sea parte. Los gastos que se causen por los referidos conceptos serán cubiertos por mitad entre el Instituto y los Trabajadores; para tal efecto la Junta Directiva tomando como base el arancel que establece los honorarios de los notarios, determinará el porcentaje de reducción de los mismos, sin que dicha reducción pueda ser inferior al 50%. Las exenciones quedarán insubsistentes si los inmuebles fueran enajenados por los trabajadores o destinados a otros fines.
+Gozarán también de exención los convenios, contratos o actos en los que se hagan constar las correspondientes operaciones, los cuales tendrán el carácter de escritura pública para todos los efectos legales y se inscribirán en el Registro Público de la Propiedad respectivo, incluyendo la constitución del régimen de propiedad en condominio que haga constar el Instituto en relación con los conjuntos que financie o adquiera, sin menoscabo de que el trabajador pueda acudir ante Notario Público de su elección en las operaciones en que sea parte. Los gastos que se causen por los referidos conceptos serán cubiertos por mitad entre el Instituto y los trabajadores; para tal efecto la Junta Directiva tomando como base el arancel que establece los honorarios de los notarios, determinará el porcentaje de reducción de los mismos, sin que dicha reducción pueda ser inferior al 50%. Las exenciones quedarán insubsistentes si los inmuebles fueran enajenados por los trabajadores o destinados a otros fines.
 
 El Instituto gestionará los convenios correspondientes con los gobiernos de los Estados y Municipios para que los trabajadores protegidos por esta Ley gocen de las exenciones de impuestos que correspondan a la propiedad raíz, en los términos de este artículo.
 
@@ -1250,11 +1252,11 @@ VI. Los convenios, contratos o actos en los que se hagan constar las correspondi
 
 Los pensionistas gozarán de los beneficios de este artículo en los términos que dentro de los lineamientos de esta ley fije la Junta Directiva por medio de acuerdos Generales.
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985) (F. DE E., D.O.F. 29 DE MARZO DE 1985)
 
 ###### Artículo 136.
 
-Los arrendamientos, con opción de venta, de habitaciones a los trabajadores y pensionistas, se regirán por las disposiciones reglamentarias que dicte la Junta Directiva, las que tendrán por objeto social en todo caso, el beneficio de los mismos.
+Los arrendamientos, con opción de venta, de habitaciones a los trabajadores y pensionistas, se regirán por las disposiciones reglamentarias que dicte la Junta Directiva, las que tendrán por objetivo social en todo caso, el beneficio de los mismos.
 
 ### CAPITULO VIII. De las Prestaciones Sociales y Culturales
 
@@ -1488,7 +1490,9 @@ XVI. En general, realizar todos aquellos actos y operaciones autorizados por est
 
 La Junta Directiva celebrará por lo menos una sesión cada dos meses y cuantas sean necesarias para la debida marcha de la Institución.
 
-Las sesiones serán válidas con la asistencia de por lo menos seis consejeros, tres de los cuales deberán ser representantes del Estado y tres de la Federación de Sindicatos de los Trabajadores al Servicios (sic) del Estado.
+> <small>(F. DE E., D.O.F. 29 DE MARZO DE 1985)</small>
+
+Las sesiones serán válidas con la asistencia de por lo menos seis consejeros, tres de los cuales deberán ser representantes del Estado y tres de la Federación de Sindicatos de los Trabajadores al Servicio del Estado.
 
 ###### Artículo 159.
 
@@ -1562,7 +1566,9 @@ Los Vocales de la Comisión Ejecutiva durarán en sus funciones por todo el tiem
 
 La Comisión Ejecutiva sesionará por lo menos dos veces al mes.
 
-Las sesiones serán válidas con la asistencia de por lo menos cinco de sus miembros, de los cuales uno será el Vocal Ejecutivo, dos representantes del Gobierno Federal y dos de la Federación de Sindicatos de Trabajadores al Servicios (sic) del Estado. Las decisiones se tomarán por mayoría de los presentes y en caso de empate el Vocal Ejecutivo tendrá voto de calidad.
+> <small>(F. DE E., D.O.F. 29 DE MARZO DE 1985)</small>
+
+Las sesiones serán válidas con la asistencia de por lo menos cinco de sus miembros, de los cuales uno será el Vocal Ejecutivo, dos representantes del Gobierno Federal y dos de la Federación de Sindicatos de Trabajadores al Servicio del Estado. Las decisiones se tomarán por mayoría de los presentes y en caso de empate el Vocal Ejecutivo tendrá voto de calidad.
 
 ###### Artículo 169.
 
@@ -1616,7 +1622,7 @@ Uno del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Esta
 
 Tres designados por la Federación de Sindicatos de los Trabajadores al Servicio del Estado.
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985) (F. DE E., 29 DE MARZO DE 1985
 
 La Junta Directiva cada 6 meses designará de entre los miembros de la Comisión de Vigilancia representantes del Gobierno Federal a quien debe presidirla.
 
@@ -1710,11 +1716,11 @@ El régimen financiero que se seguirá para las prestaciones médicas de los seg
 
 Para las pensiones del seguro de riesgos del trabajo y el seguro de jubilación, de retiro por edad y tiempo de servicios, invalidez, muerte e indemnización global y cesantía en edad avanzada, será el régimen financiero denominado de primas escalonadas.
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985)</small>
+(REFORMADO, D.O.F. 7 DE FEBRERO DE 1985) (F. DE E., 29 DE MARZO DE 1985)
 
 ###### Artículo 182.
 
-La Constitución de las reservas actuariales será prioritaria sobre las financieras, con el fin de garantizar el pago de los compromisos de pensiones, indemnizaciones globales, amortizaciones de créditos otortados (sic) a los trabajadores en los términos de las fracciones I y II del artículo 103 de esta Ley, y entrega de depósitos prevista en el artículo 112 de este propio ordenamiento.
+La constitución de las reservas actuariales será prioritaria sobre las financieras, con el fin de garantizar el pago de los compromisos de pensiones, indemnizaciones globales, amortizaciones de créditos otortados (sic) a los trabajadores en los términos de las fracciones I y II del artículo 103 de esta Ley, y entrega de depósitos prevista en el artículo 112 de este propio ordenamiento.
 
 Las reservas actuariales serán invertidas en las condiciones generales que proponga el Gobierno Federal por conducto de la Secretaría de Hacienda y Crédito Público.
 
