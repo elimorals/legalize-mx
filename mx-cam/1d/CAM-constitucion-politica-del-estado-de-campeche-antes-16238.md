@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1921-10-15"
+last_updated: "1922-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 1921.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 1922.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -283,7 +283,9 @@ XV. Revisar los expedientes relativos a las elecciones de funcionarios municipal
 
 XVI. Aprobar las cuentas de la Recaudación e inversión de las rentas públicas del Estado, que anualmente debe presentar el Ejecutivo;
 
-XVII. Otorgar la licencia que necesite el Gobernador del Estado para separarse de sus funciones o para salir del territorio del Estado;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1922)</small>
+
+XVII. Otorgar la licencia que necesite el Gobernador del Estado, para separarse de sus funciones;
 
 XVIII. Conocer como Jurado de declaración en los delitos oficiales de que se acuse al Gobernador del Estado, a los Diputados, al Secretario y al Tesorero del Estado y como Jurado de declaración y de sentencia en los delitos oficiales cometidos por los Magistrados del Tribunal Superior de Justicia y el Procurador General;
 
@@ -391,9 +393,11 @@ El cargo de Gobernador del Estado solo es renunciable por causa grave, que calif
 
 El Gobernador al tomar posesión de su cargo prestará ante el Congreso del Estado o ante la Diputación permanente, en los recesos de aquél, la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ambas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador Constitucional que el pueblo me ha conferido, mirando en todo por el bien y prosperidad del mismo, y si así no lo hiciere que la Nación o el Estado me lo demanden".
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 1922)</small>
+
 ###### Art. 59.
 
-El Gobernador del Estado no podrá ausentarse del territorio del Estado, sin permiso del Congreso.
+El Gobernador del Estado, no podrá ausentarse por más de tres días del territorio del mismo, sin permiso del Congreso.
 
 ###### Art. 60.
 
@@ -417,7 +421,9 @@ B. Al Tesorero General del Estado y demás empleados del Ramo de Hacienda;
 
 C. Al Secretario General del Despacho y demás empleados de la Administración pública, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución o en las leyes;
 
-VII. Nombrar a los Jueces de primera instancia a propuesta en terna del Tribunal Superior de Justicia y a los empleados de los Juzgados a propuesta en terna de los Jueces respectivos;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1922)</small>
+
+VII. Nombrar a los Jueces de Primera Instancia, Menores y de Paz, a propuesta en terna del Tribunal Superior de Justicia, y a los empleados de los Juzgados a propuesta en terna de los Jueces respectivos;
 
 VIII. Las atribuciones que en lo referente a Guardia Nacional y fuerza pública confieran a los Estados de la Federación la Constitución General y las leyes relativas;
 
@@ -531,7 +537,9 @@ I. Iniciar ante el Congreso del Estado las leyes y decretos que tiendan a mejora
 
 II. Conocer como Jurado de sentencia, del que también formarán parte los Magistrados suplentes, en los delitos oficiales que cometan el Gobernador del Estado, los Diputados al Congreso, el Secretario General de Gobierno y el Tesorero General;
 
-III. Juzgar por los mismos delitos a los Presidentes de Ayuntamientos y a los Jueces de primera Instancia y de Paz;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 1922)</small>
+
+III. Juzgar por los mismos delitos a los Presidentes de Ayuntamientos y a los Jueces de Primera Instancia, Menores y de Paz;
 
 IV. Dirimir la (sic) competencias que se susciten entre los tribunales inferiores del Estado;
 
@@ -575,13 +583,15 @@ Si los funcionarios a que se refieren los artículos 81 y 82 fuesen acusados por
 
 Pronunciada una sentencia de responsabilidad por delitos oficiales, no podrá concederse al reo la gracia de indulto.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 1922)</small>
+
 ### CAPITULO X.
 
 De los Municipios Libres.
 
 ###### Art. 89.
 
-La responsabilidad oficial de los Presidentes de Ayuntamiento y Jueces de Primera Instancia y de Paz, se exigirá ante el Tribunal Superior de Justicia, en la forma que establezcan las leyes relativas, y las faltas u omisiones que cometan en el ejercicio de su empleo, serán castigadas por sus respectivos superiores.
+La responsabilidad oficial de los Presidentes de Ayuntamiento y Jueces de Primera Instancia, Menores y de Paz, se exigirá ante el Tribunal Superior de Justicia en la forma que establezcan las leyes respectivas, y las faltas u omisiones que cometan en el ejercicio de su empleo, serán castigadas por sus respectivos superiores.
 
 ###### Art. 90.
 
@@ -890,5 +900,9 @@ III. Cuando siendo campechano por vecindad pierda ésta por avecindarse fuera de
 ###### Art. 3°.
 
 Los componentes de los Ayuntamientos, Juntas y Comisarios Municipales, durarán también un año en sus respectivos encargos y no podrán ser nuevamente electos sino dos años después de haber cesado en sus funciones.
+
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+
+P.O. 7 DE MARZO DE 1922.
 
 > <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
