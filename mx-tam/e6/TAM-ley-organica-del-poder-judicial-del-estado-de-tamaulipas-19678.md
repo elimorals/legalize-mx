@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-19678"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-19"
-last_updated: "2000-12-19"
+last_updated: "2001-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19678&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 19 de diciembre de 2000.
 
@@ -61,9 +61,7 @@ a).- El Pleno del Supremo Tribunal de Justicia; y,
 
 b).- Las Salas Numerarias y Auxiliares.
 
-II.- En sus respectivas circunscripciones territoriales, en el grado y términos previstos por esta
-
-ley y los demás ordenamientos legales aplicables:
+II.- En sus respectivas circunscripciones territoriales, en el grado y términos previstos por esta ley y los demás ordenamientos legales aplicables:
 
 a).- Los Jueces de Primera Instancia;
 
@@ -137,9 +135,7 @@ II.- Los peritos designados en los procesos judiciales;
 
 III.- Los depositarios;
 
-IV.- Los albaceas e interventores de sucesiones, tutores, directores y notarios públicos, en las
-
-funciones que les encomienden las leyes relativas;
+IV.- Los albaceas e interventores de sucesiones, tutores, directores y notarios públicos, en las funciones que les encomienden las leyes relativas;
 
 V.- El Procurador de la Defensa del Menor y la Familia, y los interventores;
 
@@ -161,7 +157,9 @@ El territorio del Estado de Tamaulipas se divide en quince Distritos Judiciales,
 
 PRIMER DISTRITO JUDICIAL: Cabecera en Victoria, y comprende los Municipios de Victoria, Güemez y Casas.
 
-SEGUNDO DISTRITO JUDICIAL: Cabecera en Tampico, y comprende los Municipios de Tampico, Ciudad Madero y Altamira.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+SEGUNDO DISTRITO JUDICIAL: Cabecera en Altamira, y comprende los Municipios de Altamira, Tampico y Ciudad Madero.
 
 TERCER DISTRITO JUDICIAL: Cabecera en Nuevo Laredo, y comprende el Municipio del mismo nombre.
 
@@ -209,15 +207,17 @@ El Supremo Tribunal de Justicia se integrará por siete Magistrados de Número y
 
 Para ser designado Magistrado del Supremo Tribunal de Justicia, se requiere cumplir con los requisitos que establece el artículo 111 de la Constitución Política del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 15.
 
-El Supremo Tribunal de Justicia contará para su debido funcionamiento con:
+El Supremo Tribunal de Justicia complementará su integración con:
 
 I.- Un Secretario General de Acuerdos;
 
 II.- Dos Subsecretarios Generales de Acuerdos;
 
-III.- Un Secretario de Acuerdos por cada Sala;
+III.- Un Secretario de Acuerdos para cada Sala;
 
 IV.- Los Secretarios Relatores;
 
@@ -225,7 +225,9 @@ V.- Los Actuarios;
 
 VI.- Los Archivistas.
 
-VII.- Los titulares de las dependencias que esta ley establezca; así como el personal que realice funciones de dirección, administración, vigilancia o fiscalización.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+VII.- Los Titulares de las Dependencias que esta Ley establezca; así como también el demás personal que realice funciones de Dirección, Administración, Vigilancia o Fiscalización.
 
 ### CAPITULO II. DEL PLENO DEL SUPREMO TRIBUNAL DE JUSTICIA
 
@@ -273,7 +275,9 @@ El Presidente del Supremo Tribunal de Justicia, como representante del Poder Jud
 
 I.- Servir de conducto en las relaciones del Poder Judicial y los Poderes Legislativo y Ejecutivo, así como con los de la Federación y los del resto de las Entidades Federativas;
 
-II.- Rendir el informe anual que dispone la fracción XII del artículo 114 de la Constitución Política del Estado;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+II.- Rendir el informe anual que dispone la fracción XIII del artículo 114 de la Constitución Política del Estado y los informes trimestrales de cuenta pública de los recursos que se ejercieron.
 
 III.- Turnar al Congreso del Estado el proyecto anual de presupuesto de egresos del Poder Judicial, una vez que sea aprobado por el Pleno, para los efectos legales que correspondan;
 
@@ -531,17 +535,31 @@ XI.- Practicar las diligencias que les encomienden el Supremo Tribunal de Justic
 
 XII.- Las demás que les señalen las leyes, les encomiende el Pleno del Supremo Tribunal de Justicia o el Presidente de éste.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 48.
 
-Los Juzgados de Primera Instancia tendrán para el despacho de los negocios, por lo menos, el personal siguiente:
+Los Juzgados de Primera Instancia tendrán para el despacho de los negocios el personal siguiente:
 
 I.- El número de Secretarios de Acuerdos que determine el Supremo Tribunal de Justicia, tomando en consideración el presupuesto de egresos a ejercer y el volumen de asuntos judiciales que se tramiten en cada distrito, y actuarán en la rama o ramas que se señale al hacer su adscripción;
 
-II.- Cuando así lo solicite el Juez y el Pleno lo estime necesario, se nombrará a uno o varios Secretarios Relatores para realizar proyectos de sentencia y las demás tareas que el Juez les encomiende;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-III.- Un Actuario, cuando el volumen de negocios lo justifique a juicio del Pleno del Supremo Tribunal de Justicia. En caso contrario, el Secretario llevará a cabo las diligencias que también deban practicarse fuera del Juzgado o de ser necesario el Juez podrá autorizar a uno de los escribientes del Juzgado para que actúe como tal; y,
+II.- Cuando el Pleno lo estime necesario, los Secretarios Relatores para proyectos de sentencia, y demás tareas que el Juez le encomiende;
 
-IV.- Los escribientes que determine el Pleno del Supremo Tribunal de Justicia;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+III.- Los Actuarios, cuando el volumen de negocios lo justifique a juicio del Pleno del Supremo Tribunal. En caso contrario, el Secretario llevará a cabo las diligencias que deban practicarse fuera del Juzgado o de ser necesario el Juez podrá autorizar a uno de los escribientes del Juzgado para que actúe como tal;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+IV.- Un archivista; y,
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+V.- Los oficiales Judiciales que determine la Presidencia del Suprema Tribunal de Justicia, de acuerdo al volumen de negocios del juzgado.
+
+Los trabajadores de las fracciones I, II, III y IV tendrán, por su naturaleza, el carácter de trabajadores de confianza.
 
 ### CAPITULO VII. DE LOS JUZGADOS MENORES
 
@@ -1305,9 +1323,33 @@ G).- Los bienes confiscados o decomisados por orden de la autoridad judicial com
 
 H).- El importe de los derechos por la expedición de copias certificadas;
 
-I).- Los intereses provenientes de los depósitos en dinero o en valores que se efectúen ante los tribunales judiciales del orden común; y,
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-J).- Las donaciones y aportaciones hechas con arreglo a la ley a favor del Fondo Auxiliar para la Administración de Justicia; y,
+I).- El importe de los derechos por legalización o ratificación de firmas.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+J).- El importe de los derechos por la búsqueda en el Archivo Judicial de expedientes concluidos.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+K).- El importe de los derechos por el registro de títulos profesionales.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+L).- El importe de los derechos por los servicios electrónicos y tecnológicos que proporcione el Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+M).- Los intereses provenientes de los depósitos de dinero o en valores que se efectúen ante los tribunales judiciales del orden común;
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+N).- Las donaciones y aportaciones hechas con arreglo a la ley a favor del Fondo Auxiliar para la Administración de Justicia; y,
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+O).- El cobro de derechos por otros servicios que preste el Poder Judicial del Estado, susceptibles de gravamen.
 
 II.- Fondos ajenos constituidos por depósitos en efectivo o en valores, que por cualquier causa se realicen o se hayan realizado ante los tribunales judiciales del fuero común del Estado.
 
@@ -1325,9 +1367,11 @@ El Fondo Auxiliar para la Administración de Justicia será administrado por un 
 
 A efecto de captar las cantidades o depósitos de bienes y valores que deben ingresar al Fondo, la Dirección del mismo contara con oficinas receptoras a cargo de quiénes sean designados para tal efecto por el Presidente del Supremo Tribunal.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 139.
 
-El titular de la Dirección Administradora del Fondo informará al Pleno del Supremo Tribunal, por sí o por conducto de los Magistrados Supernumerarios, por lo menos cada treinta días, de los movimientos y pormenores del Fondo.
+El titular de la Dirección Administradora del Fondo informará al Pleno del Supremo Tribunal, por sí o por conducto de los Magistrados Supernumerarios, por lo menos cada treinta días, de los movimientos y pormenores del Fondo y deberá reunir y proporcionar la información necesaria relativa a esa Dependencia para rendir los informes trimestrales de cuenta pública al Congreso.
 
 ###### ARTICULO 140.
 
@@ -1559,7 +1603,7 @@ El inicio de funciones del Segundo Distrito Judicial y de las Centrales de Actua
 
 La recaudación de los montos o depósitos de bienes y valores que deban ingresar al Fondo Auxiliar para la Administración de Justicia se harán directamente ante las oficinas receptoras del mismo, con excepción de aquellos distritos judiciales en que aún no existan, en los cuales la recaudación se seguirá haciendo con el auxilio de las Oficinas Fiscales, las que oportunamente las integrarán al Fondo, en tanto sean creadas oficinas receptoras en dichos distritos.
 
-SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 13 de diciembre del año 2000.- Diputado Presidente, ING. ERNESTO HOMAR CANTU RESENDEZ.- Rúbrica.- Diputado Secretario, GABRIEL ANAYA FERNÁNDEZ.- Rúbrica.- Diputado Secretario, ING. VICTOR HUGO MORENO DELGADILLO.- Rúbrica.
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 13 de diciembre del año 2000.- Diputado Presidente, ING. ERNESTO HOMAR CANTU RESENDEZ.- Rúbrica.- Diputado Secretario, GABRIEL ANAYA FERNÁNDEZ.- Rúbrica.- Diputado Secretario, VICTOR HUGO MORENO DELGADILLO.- Rúbrica.
 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -1570,3 +1614,15 @@ ATENTAMENTE
 "SUFRAGIO EFECTIVO. NO REELECCION".
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- EL SECRETARIO GENERAL DE GOBIERNO.- HOMERO DIAZ RODRIGUEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE DICIEMBRE DE 2001
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1o. de enero del año 2002.
+
+###### ARTICULO SEGUNDO.
+
+Las cuentas públicas relativas al ejercicio fiscal de 2001 y anteriores serán revisadas de acuerdo al procedimiento previsto con anterioridad a la entrada en vigencia del presente Decreto.
