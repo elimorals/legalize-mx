@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2001-11-16"
+last_updated: "2004-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -1435,11 +1435,65 @@ III. No haber sido inhabilitado para desempeñar empleo, cargo o comisión, ni c
 
 IV. Cumplir con los demás requisitos que le señalen las leyes, o acuerde el Ayuntamiento.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE JULIO DE 2004)</small>
+
+### CAPÍTULO II BIS. DEL CRONISTA MUNICIPAL
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2004)</small>
+
+###### ARTÍCULO 134-A.
+
+Para los efectos del presente ordenamiento, se considera como Cronista Municipal, al ciudadano cuya función fundamental es el registro de sucesos notables acaecidos dentro de la jurisdicción territorial del Municipio al que pertenezca, así como investigar, conservar, exponer y promover la cultura de dicho Municipio.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2004)</small>
+
+###### ARTÍCULO 134-B.
+
+El Cronista Municipal será electo por las dos terceras partes de los miembros del ayuntamiento, a propuesta del Presidente Municipal. Su elección será con base a su demostrada vocación por custodiar y promover la crónica de los acontecimientos del devenir histórico de su comunidad; así como por su experiencia en el dominio del conocimiento de la historia local.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2004)</small>
+
+###### ARTÍCULO 134-C.
+
+El Cronista Municipal recibirá su nombramiento como honorario.
+
+El Cronista Municipal permanecerá indefinidamente en su cargo y sólo podrá ser removido por justa causa a juicio del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2004)</small>
+
+###### ARTÍCULO 134-D.
+
+El Cronista Municipal para el desarrollo de sus funciones contará con las atribuciones siguientes:
+
+I.- Llevar el registro cronológico de los sucesos notables de su Municipio;
+
+II.- Investigar, conservar, exponer y promover la cultura municipal;
+
+III.- Elaborar la monografía de su Municipio; compilar tradiciones y leyendas o crónicas; llevar un registro de monumentos arqueológicos, artísticos e históricos de su Municipio;
+
+IV.- Elaborar el calendario cívico municipal, derivándose de éste la promoción de eventos cívicos a conmemorarse;
+
+V.- Proponer la creación, modificación o cambio de escudos y lemas y nomenclatura de calles y avenidas del Municipio; y
+
+VI.- Las demás que le confiera el Ayuntamiento, esta Ley, reglamentos o disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2004)</small>
+
+###### ARTÍCULO 134-E.
+
+Constituyen causas que ameritan la remoción a dicho cargo, las siguientes:
+
+I.- Incapacidad legal;
+
+II.- Incumplimiento de las actividades señaladas y las propias de su función;
+
+III.- El cambio de residencia fuera de su Municipio; y
+
+IV.- Las demás que resulten procedentes a juicio del Ayuntamiento.
+
 ### CAPÍTULO III. DE LA ADMINISTRACIÓN DESCENTRALIZADA
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
-
-### CAPÍTULO IV. DE LA ADMINISTRACIÓN PARAMUNICIPAL
 
 ###### ARTÍCULO 135.
 
@@ -1465,7 +1519,7 @@ El Congreso del Estado deberá incluir lo conducente en el decreto de creación 
 
 Los organismos descentralizados, deberán rendir informes trimestrales al Ayuntamiento, sobre el ejercicio de sus funciones. Lo anterior sin perjuicio de los informes que el Ayuntamiento, el órgano de control interno o el Presidente Municipal les soliciten en cualquier tiempo.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO IV. DE LA ADMINISTRACIÓN PARAMUNICIPAL
 
 ###### ARTÍCULO 139.
 
@@ -1499,7 +1553,7 @@ En el caso de que la entidad paramunicipal se cree por ley o decreto del Congres
 
 ## TÍTULO CUARTO. DE LA PLANEACIÓN DEL DESARROLLO MUNICIPAL
 
-### CAPÍTULO II. DEL PROCESO DE PLANEACIÓN
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 141.
 
@@ -1539,7 +1593,7 @@ III. La responsabilidad del Estado de Coahuila para organizar su propio sistema 
 
 IV. Los principios, normas y bases de la planeación para que el Ejecutivo del Estado coordine las actividades de planeación con los municipios y aquellas que garanticen la participación activa y democrática de los sectores sociales de la entidad en estas tareas.
 
-### CAPÍTULO III. DEL PLAN MUNICIPAL DE DESARROLLO
+### CAPÍTULO II. DEL PROCESO DE PLANEACIÓN
 
 ###### ARTÍCULO 145.
 
@@ -1595,7 +1649,7 @@ IV. Control. Consiste en identificar el grado de cumplimiento del plan y el avan
 
 V. Evaluación. En esta etapa se hace una valoración cualitativa de los resultados de la planeación. Debe hacerse durante la ejecución del plan y una vez concluido el mismo, para saber si los objetivos propuestos se lograron. Los resultados de la evaluación deberán documentarse para que sirvan para mejorar los futuros planes y programas municipales.
 
-### CAPÍTULO IV. DEL COMITE DE PLANEACIÓN DEL DESARROLLO MUNICIPAL
+### CAPÍTULO III. DEL PLAN MUNICIPAL DE DESARROLLO
 
 ###### ARTÍCULO 150.
 
@@ -1649,7 +1703,7 @@ Los ayuntamientos difundirán su Plan de Desarrollo Municipal y lo publicarán e
 
 El Plan de Desarrollo Municipal y los programas que de éste se deriven, serán obligatorios para las dependencias, organismos y entidades de la administración pública municipal. Cuando lo demande el interés social o lo exijan las circunstancias de tipo técnico o económico, los planes y programas podrán ser reformados o adicionados a través del mismo procedimiento que se siguió para su aprobación.
 
-### CAPÍTULO V. DEL DESARROLLO URBANO MUNICIPAL
+### CAPÍTULO IV. DEL COMITE DE PLANEACIÓN DEL DESARROLLO MUNICIPAL
 
 ###### ARTÍCULO 158.
 
@@ -1677,7 +1731,7 @@ Los titulares de las dependencias, organismos y entidades de la administración 
 
 El Comité tendrá las funciones que determine el Ayuntamiento y el reglamento respectivo. Según las diferentes condiciones de los municipios, fungirá como órgano técnico y de consulta de la Comisión de Planeación, Urbanismo y Obras Públicas, integrada por munícipes.
 
-### CAPÍTULO VI. DE LA ASOCIACIÓN DE MUNICIPIOS PARA LA PLANEACIÓN DEL DESARROLLO
+### CAPÍTULO V. DEL DESARROLLO URBANO MUNICIPAL
 
 ###### ARTÍCULO 163.
 
@@ -1749,9 +1803,7 @@ XI. Ajustar en general sus acciones a las disposiciones de este código, a los p
 
 Cuando el Municipio lleve a cabo, obra de cualesquier tipo que sea de evidente beneficio para las fincas, predios y vecinos circundantes, porque notoriamente incrementen el valor de los inmuebles, el ayuntamiento, atendiendo a la ubicación de los mismos, podrá considerar que existe una plusvalía para la propiedad raíz de este sector; por lo que tomando en cuenta el mayor o menor beneficio recibido en cada caso, reconsiderará el valor catastral que corresponda, e implementará por conducto de las dependencias respectivas, el procedimiento y forma para el pago del impuesto por dicha plusvalía.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+### CAPÍTULO VI. DE LA ASOCIACIÓN DE MUNICIPIOS PARA LA PLANEACIÓN DEL DESARROLLO
 
 ###### ARTÍCULO 172.
 
@@ -1779,9 +1831,9 @@ Los ayuntamientos aprobarán los convenios de asociación de los municipios corr
 
 ## TÍTULO QUINTO. DE LA LEGISLACIÓN MUNICIPAL
 
-### CAPÍTULO II. DE LAS BASES GENERALES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 173.
 
@@ -1793,9 +1845,9 @@ La reglamentación municipal debe contener las normas de observancia general que
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 20 DE MARZO DE 2001)</small>
 
-### CAPÍTULO III. DE LOS BANDOS DE POLICÍA Y GOBIERNO
+### CAPÍTULO II. DE LAS BASES GENERALES
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 175.
 
@@ -1853,7 +1905,9 @@ La modificación de las condiciones socioeconómicas de los municipios en virtud
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 20 DE MARZO DE 2001)</small>
 
-### CAPÍTULO IV. DE LOS REGLAMENTOS
+### CAPÍTULO III. DE LOS BANDOS DE POLICÍA Y GOBIERNO
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 179.
 
@@ -1893,9 +1947,7 @@ XI. Regularán el uso, conservación y cuidado de las vías públicas, parques, 
 
 XII. Establecerán cualesquier otra disposición que se considere útil para cumplir los objetivos expresados en este artículo.
 
-### CAPÍTULO V. DEL REGLAMENTO INTERIOR PARA LA ORGANIZACIÓN POLÍTICA DEL MUNICIPIO
-
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+### CAPÍTULO IV. DE LOS REGLAMENTOS
 
 ###### ARTÍCULO 181.
 
@@ -2007,7 +2059,9 @@ Los Municipios deberán promover e instrumentar en sus reglamentos las garantía
 
 En los reglamentos municipales deberán observarse, en el ámbito de su competencia, las leyes o decretos que apruebe el Congreso del Estado en materia municipal, así como las demás normas reglamentarias que expidan los poderes públicos del Estado para uniformar el régimen interno de la entidad.
 
-### CAPÍTULO VI. DE LAS CIRCULARES Y DISPOSICIONES ADMINISTRATIVAS DE OBSERVANCIA GENERAL
+### CAPÍTULO V. DEL REGLAMENTO INTERIOR PARA LA ORGANIZACIÓN POLÍTICA DEL MUNICIPIO
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 184.
 
@@ -2017,7 +2071,7 @@ El reglamento interior para la organización política del Municipio tiene por o
 
 El reglamento interior para la organización política del Municipio, podrá contener entre otras disposiciones, las relativas a la división territorial interna del Municipio, las categorías de sus centros de población y la organización y facultades de los representantes o delegados de la autoridad municipal.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VI. DE LAS CIRCULARES Y DISPOSICIONES ADMINISTRATIVAS DE OBSERVANCIA GENERAL
 
 ###### ARTÍCULO 186.
 
@@ -2037,9 +2091,7 @@ Las circulares administrativas no deberán ser de naturaleza legislativa autóno
 
 ## TÍTULO SEXTO. DE LOS SERVICIOS PÚBLICOS MUNICIPALES
 
-### CAPÍTULO II. SERVICIOS PÚBLICOS, COMPETENCIA DEL MUNICIPIO
-
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 189.
 
@@ -2073,7 +2125,9 @@ En caso de destrucción o de daños causados a la infraestructura de los servici
 
 En caso de catástrofes, calamidades o desastres en la comunidad, los servicios públicos municipales, concesionados o no, y las instalaciones, transportes y recursos de toda índole destinados a los mismos, necesarios para la prevención, atención y control de estas situaciones, quedarán sujetos al régimen de protección civil, durante el tiempo que dure la emergencia, en los términos de la ley de protección civil para el estado de Coahuila.
 
-### CAPÍTULO III. DE LAS OBRAS PÚBLICAS
+### CAPÍTULO II. SERVICIOS PÚBLICOS, COMPETENCIA DEL MUNICIPIO
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 197.
 
@@ -2113,7 +2167,7 @@ IV. Se aplicarán equitativamente, buscando asegurar un mínimo para todos los h
 
 V. La imposibilidad de su prestación para todos los habitantes, determinará que aquellos que no lo disfruten, sean sujetos de programas compensatorios.
 
-### CAPÍTULO IV. DE LA SEGURIDAD PÚBLICA MUNICIPAL
+### CAPÍTULO III. DE LAS OBRAS PÚBLICAS
 
 ###### ARTÍCULO 201.
 
@@ -2191,7 +2245,7 @@ Las adquisiciones que realice el municipio o sus dependencias, deberán de sujet
 
 La Contraloría Interna Municipal, verificará que las adquisiciones públicas se realicen conforme a los ordenamientos legales estatales y municipales.
 
-### CAPÍTULO V. DE LA PROTECCIÓN CIVIL
+### CAPÍTULO IV. DE LA SEGURIDAD PÚBLICA MUNICIPAL
 
 ###### ARTÍCULO 209.
 
@@ -2287,7 +2341,7 @@ Los municipios de la Entidad promoverán y fomentarán la participación social 
 
 Para lo no previsto en el presente capítulo, en materia de seguridad pública, se atenderá a lo dispuesto en la Ley de Seguridad Pública del Estado de Coahuila de Zaragoza, sus reglamentos y la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública.
 
-### CAPÍTULO VI. DE LA CONCURRENCIA DEL ESTADO EN LA PRESTACIÓN DE LOS SERVICIOS
+### CAPÍTULO V. DE LA PROTECCIÓN CIVIL
 
 ###### ARTÍCULO 227.
 
@@ -2323,7 +2377,7 @@ Los cargos del Consejo serán honoríficos, por lo que sus miembros no percibir�
 
 Las atribuciones y obligaciones de los Consejos Municipales de Protección Civil, en el ámbito de sus respectivas competencias, serán aquellas que se encuentren determinadas en la Ley Estatal de Protección Civil para el Estado de Coahuila de Zaragoza.
 
-### CAPÍTULO VII. DE LA CONCESIÓN DE SERVICIOS PÚBLICOS
+### CAPÍTULO VI. DE LA CONCURRENCIA DEL ESTADO EN LA PRESTACIÓN DE LOS SERVICIOS
 
 ###### ARTÍCULO 230.
 
@@ -2355,9 +2409,7 @@ Para la prestación de servicios públicos municipales que requieren la celebrac
 
 Para la prestación de los servicios públicos municipales que impliquen una coordinación legal necesaria entre el municipio y otros ordenes o niveles de gobierno, como es el caso de los servicios de seguridad pública y educación, el Ejecutivo del Estado concurrirá con la competencia preestablecida en la ley correspondiente, y los reglamentos municipales relativos a estos servicios regularán, en los marcos legales respectivos, la competencia y funciones del municipio.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+### CAPÍTULO VII. DE LA CONCESIÓN DE SERVICIOS PÚBLICOS
 
 ###### ARTÍCULO 234.
 
@@ -2461,7 +2513,9 @@ El plazo de las concesiones que se otorguen conforme a las disposiciones de este
 
 ## TÍTULO SÉPTIMO. DE LAS FINANZAS PÚBLICAS MUNICIPALES
 
-### CAPÍTULO II. DE LAS COMPETENCIAS EN MATERIA FINANCIERA
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 242.
 
@@ -2479,7 +2533,7 @@ En materia financiera corresponderá a las autoridades municipales, las atribuci
 
 En materia de obtención y administración de los ingresos, los ayuntamientos formularán anualmente su presupuesto, determinando las cantidades que obtendrán por cada concepto en el ejercicio fiscal siguiente. Durante el mes de noviembre de cada año, acompañando a la iniciativa de ley de ingresos, el ayuntamiento someterá el presupuesto de ingresos a la consideración y opinión del Congreso del Estado.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LAS COMPETENCIAS EN MATERIA FINANCIERA
 
 ###### ARTÍCULO 245.
 
@@ -2535,7 +2589,7 @@ En contra de los actos que con carácter definitivo emitan las autoridades admin
 
 ## TÍTULO OCTAVO. DE LAS RELACIONES JURÍDICAS LABORALES ENTRE LAS ENTIDADES PÚBLICAS MUNICIPALES Y SUS TRABAJADORES
 
-### CAPÍTULO II. DERECHOS Y OBLIGACIONES DE LAS PARTES EN LA RELACIÓN JURÍDICA LABORAL
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 256.
 
@@ -2581,7 +2635,7 @@ La prestación de servicios profesionales se regirá por las normas del derecho 
 
 En todo lo no previsto por este título o disposiciones especiales se aplicará supletoriamente, y en su orden, el Estatuto Jurídico para los Trabajadores al Servicio del Estado de Coahuila, la Ley Federal de los Trabajadores al Servicio del Estado, la Ley Federal del Trabajo, la jurisprudencia, los principios generales del derecho y de justicia social que se deriven del artículo 123 apartado "B" de la Constitución Política de los Estados Unidos Mexicanos; la costumbre y la equidad.
 
-### CAPÍTULO III. DE LAS HORAS DE TRABAJO Y DE DESCANSO
+### CAPÍTULO II. DERECHOS Y OBLIGACIONES DE LAS PARTES EN LA RELACIÓN JURÍDICA LABORAL
 
 ###### ARTÍCULO 263.
 
@@ -2643,7 +2697,7 @@ III. Por permuta debidamente autorizada.
 
 En ningún caso el cambio de funcionarios de una entidad pública municipal podrá afectar los derechos de los trabajadores de base derivados de su nombramiento.
 
-### CAPÍTULO IV. DE LAS VACACIONES
+### CAPÍTULO III. DE LAS HORAS DE TRABAJO Y DE DESCANSO
 
 ###### ARTÍCULO 270.
 
@@ -2691,7 +2745,7 @@ Por cada seis días de trabajo disfrutará el trabajador de un día de descanso,
 
 En los trabajos que requieran una labor continua, el sindicato y los titulares de las dependencias fijarán de común acuerdo en los reglamentos de condiciones generales de trabajo, los días en que los trabajadores deban disfrutar el descanso semanal, a que se refiere el artículo anterior.
 
-### CAPÍTULO V. DE LOS SUELDOS
+### CAPÍTULO IV. DE LAS VACACIONES
 
 ###### ARTÍCULO 280.
 
@@ -2707,7 +2761,7 @@ Cuando un trabajador no pudiere hacer uso de las vacaciones en los períodos se�
 
 Los trabajadores tendrán derecho a una prima vacacional no menor del 25% sobre los salarios que les correspondan durante el período de vacaciones.
 
-### CAPÍTULO VI. DE LAS OBLIGACIONES Y PROHIBICIONES DE LOS TRABAJADORES
+### CAPÍTULO V. DE LOS SUELDOS
 
 ###### ARTÍCULO 283.
 
@@ -2761,7 +2815,7 @@ El sueldo no es susceptible de embargo judicial o administrativo, salvo lo estab
 
 Los trabajadores tendrán derecho a un aguinaldo anual que estará comprendido en el presupuesto de egresos; éste deberá pagarse de la siguiente forma: el 50% antes del día 15 de diciembre y el 50% restante antes del día 15 de enero, y será equivalente a 15 días de sueldo, cuando menos, sin deducción alguna. En caso de que el trabajador hubiere prestado sus servicios menos de un año, tendrá derecho a que se le pague la parte proporcional.
 
-### CAPÍTULO VII. OBLIGACIONES DE LAS ENTIDADES PÚBLICAS MUNICIPALES
+### CAPÍTULO VI. DE LAS OBLIGACIONES Y PROHIBICIONES DE LOS TRABAJADORES
 
 ###### ARTÍCULO 292.
 
@@ -2827,7 +2881,7 @@ XIII. Solicitar o aceptar gratificaciones por hacer o dejar de prestar un servic
 
 XIV. Las demás que determine este código y otros ordenamientos aplicables.
 
-### CAPÍTULO VIII. DE LA SUSPENSIÓN DE LA RELACIÓN JURÍDICA LABORAL
+### CAPÍTULO VII. OBLIGACIONES DE LAS ENTIDADES PÚBLICAS MUNICIPALES
 
 ###### ARTÍCULO 294.
 
@@ -2883,7 +2937,7 @@ Las vacantes temporales mayores de seis meses serán ocupadas por riguroso escal
 
 Los titulares de las entidades públicas municipales no podrán intervenir en forma alguna en el régimen interno del sindicato, ni ejecutar cualquier acto que restrinja a los trabajadores, los derechos que les otorguen las leyes.
 
-### CAPÍTULO IX. DE LA TERMINACIÓN DE LA RELACIÓN JURÍDICA LABORAL
+### CAPÍTULO VIII. DE LA SUSPENSIÓN DE LA RELACIÓN JURÍDICA LABORAL
 
 ###### ARTÍCULO 297.
 
@@ -2907,7 +2961,7 @@ V. Cuando el trabajador tenga que cumplir con lo dispuesto en la fracción III d
 
 VI. Por sanción disciplinaria hasta por el término de ocho días sin goce de sueldo, impuesta por el titular de la entidad pública municipal, escuchando previamente al trabajador, como consecuencia directa de faltas cometidas en el desempeño del servicio, siempre que no ameriten la rescisión.
 
-VII. La falta de los documentos que exijan las leyes y reglamentos, necesarios para la prestación del servicios, cuando sea imputable al trabajador.
+VII. La falta de los documentos que exijan las leyes y reglamentos, necesarios para la prestación del servicios (sic), cuando sea imputable al trabajador.
 
 VIII. Las demás que este código y otros ordenamientos reglamentarios del mismo establezcan.
 
@@ -2915,7 +2969,7 @@ En los casos previstos en las fracciones I y II de este artículo se releva al t
 
 El trabajador deberá reintegrarse a su trabajo al día siguiente al en que desaparezca la causa que motivo o dio origen a la suspensión de sus obligaciones.
 
-### CAPÍTULO DÉCIMO (SIC). DE LA RESCISIÓN DE LA RELACIÓN JURÍDICA LABORAL
+### CAPÍTULO IX. DE LA TERMINACIÓN DE LA RELACIÓN JURÍDICA LABORAL
 
 ###### ARTÍCULO 298.
 
@@ -2931,7 +2985,7 @@ IV. La incapacidad física o mental o inhabilidad manifiesta del trabajador, que
 
 V. Las demás que prevengan las leyes y reglamentos.
 
-### CAPÍTULO XI. DE LA REINSTALACIÓN EN EL TRABAJO
+### CAPÍTULO DÉCIMO (SIC). DE LA RESCISIÓN DE LA RELACIÓN JURÍDICA LABORAL
 
 ###### ARTÍCULO 299.
 
@@ -2983,7 +3037,7 @@ En el caso de que el cese sea justificado, el trabajador no tiene derecho al pag
 
 Los efectos del nombramiento de los trabajadores de confianza se darán por terminados sin responsabilidad para los titulares de las entidades públicas municipales, en cualesquier tiempo y por acuerdo del funcionario autorizado por este código para hacerlo.
 
-### CAPÍTULO XII. DE LAS CONDICIONES GENERALES DE TRABAJO
+### CAPÍTULO XI. DE LA REINSTALACIÓN EN EL TRABAJO
 
 ###### ARTÍCULO 302.
 
@@ -2999,7 +3053,7 @@ II. Tratándose de trabajadores de confianza.
 
 III. Tratándose de trabajadores temporales.
 
-### CAPÍTULO XIII. DEL ESCALAFÓN
+### CAPÍTULO XII. DE LAS CONDICIONES GENERALES DE TRABAJO
 
 ###### ARTÍCULO 304.
 
@@ -3063,7 +3117,7 @@ VII. Las que estipulen trabajo para menores de catorce años.
 
 VIII. Un sueldo inferior al salario mínimo general establecido para el área geográfica de que se trate.
 
-### CAPÍTULO XIV. DE LOS SINDICATOS
+### CAPÍTULO XIII. DEL ESCALAFÓN
 
 ###### ARTÍCULO 311.
 
@@ -3113,7 +3167,7 @@ d). Disciplina. La conducta asumida para el cumplimiento del servicio; y puntual
 
 Los trabajadores de cada entidad pública municipal se clasificarán conforme a las categorías y denominaciones señaladas en el reglamento respectivo, en el catálogo de puestos o en el presupuesto de egresos.
 
-### CAPÍTULO XV. DE LA HUELGA
+### CAPÍTULO XIV. DE LOS SINDICATOS
 
 ###### ARTÍCULO 318.
 
@@ -3241,7 +3295,7 @@ Las remuneraciones que se paguen a los directivos de los sindicatos y, en genera
 
 Todos los conflictos que surjan entre la Federación de sindicatos y éstos o entre sindicatos, serán resueltos por el Tribunal de Conciliación y Arbitraje.
 
-### CAPÍTULO XVI. DE LOS RIESGOS Y ENFERMEDADES NO PROFESIONALES
+### CAPÍTULO XV. DE LA HUELGA
 
 ###### ARTÍCULO 338.
 
@@ -3333,7 +3387,7 @@ VI. Por allanamiento de la entidad pública municipal a las peticiones contenida
 
 VII. Por sobrevenir el estado previsto por el artículo 29 de la Constitución General de la República.
 
-### CAPÍTULO XVII. DE LA PRESCRIPCIÓN
+### CAPÍTULO XVI. DE LOS RIESGOS Y ENFERMEDADES NO PROFESIONALES
 
 ###### ARTÍCULO 354.
 
@@ -3351,7 +3405,7 @@ III. A los que tengan de cinco a diez años de servicio, hasta cuarenta y cinco 
 
 IV. A los que tengan de diez años de servicio en adelante, hasta setenta días con goce de sueldo y hasta setenta días más, con goce de medio sueldo.
 
-### CAPÍTULO XVIII. DEL TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE
+### CAPÍTULO XVII. DE LA PRESCRIPCIÓN
 
 ###### ARTÍCULO 356.
 
@@ -3403,7 +3457,7 @@ II. Si la persona a cuyo favor corre la prescripción reconoce el derecho de aqu
 
 Para los efectos de la prescripción los meses se regularán con el número de días que les correspondan; el primer día se contará completo y cuando sea inhábil el último, no se tendrá por completa la prescripción, sino cumplido el primer día hábil siguiente.
 
-### CAPÍTULO XIX. DE LOS PROCEDIMIENTOS PARAPROCESALES O VOLUNTARIOS
+### CAPÍTULO XVIII. DEL TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE
 
 ###### ARTÍCULO 362.
 
@@ -3435,9 +3489,7 @@ IV. No pertenecer al estado eclesiástico.
 
 V. No haber sido condenados por delito intencional que se encuentre sancionado con pena corporal.
 
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+### CAPÍTULO XIX. DE LOS PROCEDIMIENTOS PARAPROCESALES O VOLUNTARIOS
 
 ###### ARTÍCULO 366.
 
@@ -3455,7 +3507,9 @@ Cuando tenga que otorgarse depósito o fianza, por mandato de la ley o por dispo
 
 ## TÍTULO NOVENO. DEL SERVICIO PROFESIONAL DE CARRERA MUNICIPAL
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTÍCULO 369.
 
@@ -3561,7 +3615,7 @@ En lo que se refiere a la Profesionalización del personal de la Policía Preven
 
 ## TÍTULO DÉCIMO. DE LA JUSTICIA MUNICIPAL Y LOS RECURSOS ADMINISTRATIVOS
 
-### CAPÍTULO II. DE LA ORGANIZACIÓN, COMPETENCIA Y FUNCIONAMIENTO DE LOS JUZGADOS MUNICIPALES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 378.
 
@@ -3579,7 +3633,7 @@ En las cabeceras de los municipios urbanos y metropolitanos del Estado de Coahui
 
 La creación de los juzgados municipales en los municipios semi-urbanos o rurales, constituye una facultad discrecional de los Ayuntamientos, la cual ejercerán tomando en consideración las condiciones demográficas, económicas y culturales de los centros de población ubicados en sus respectivos territorios.
 
-### CAPÍTULO III. DEL RECURSO DE INCONFORMIDAD
+### CAPÍTULO II. DE LA ORGANIZACIÓN, COMPETENCIA Y FUNCIONAMIENTO DE LOS JUZGADOS MUNICIPALES
 
 ###### ARTÍCULO 382.
 
@@ -3617,7 +3671,7 @@ IV. Gozar de buena reputación y no haber sido condenados por delito intencional
 
 Los ayuntamientos acordarán lo conducente para que los juzgados municipales cuenten con el personal profesional y los recursos financieros y técnicos necesarios para el cumplimiento de su función.
 
-### CAPÍTULO IV. DEL PROCEDIMIENTO DEL RECURSO DE INCONFORMIDAD
+### CAPÍTULO III. DEL RECURSO DE INCONFORMIDAD
 
 ###### ARTÍCULO 389.
 
@@ -3633,7 +3687,7 @@ El recurso de inconformidad contra actos y resoluciones del Ayuntamiento, se int
 
 Tratándose de actos y resoluciones que emitan el presidente municipal y las dependencias y entidades de la administración pública municipal, el recurso de inconformidad se interpondrá ante los juzgados municipales.
 
-### CAPÍTULO V. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO IV. DEL PROCEDIMIENTO DEL RECURSO DE INCONFORMIDAD
 
 ###### ARTÍCULO 392.
 
@@ -3694,6 +3748,8 @@ Las notificaciones personales se harán directamente al recurrente si acude a la
 ###### ARTÍCULO 398.
 
 La ejecución del acto reclamado podrá suspenderse cuando no se afecte el interés público y se garanticen suficientemente los posibles daños o perjuicios que pudieran causarse en el supuesto de confirmarse la resolución impugnada. La garantía de que se trata podrá ser constituida mediante depósito en dinero fijado por la autoridad, o fianza que ella misma considere aceptable.
+
+### CAPÍTULO V. DE LAS INFRACCIONES Y SANCIONES
 
 ###### ARTÍCULO 399.
 
@@ -3916,3 +3972,9 @@ El período constitucional de gobierno de los Ayuntamientos del estado de cuatro
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales o reglamentarias que se opongan al presente Decreto.
+
+P.O. 20 DE JULIO DE 2004.
+
+PRIMERO. El presente decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el día primero de enero del año 2005.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
