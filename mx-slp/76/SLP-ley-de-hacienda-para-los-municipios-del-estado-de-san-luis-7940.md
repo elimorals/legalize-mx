@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-del-estado-de-san-luis-7940
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-01"
-last_updated: "1988-12-30"
+last_updated: "1989-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1989.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de San Luis Potosí, el 1o. de enero de 1988.
 
@@ -45,11 +45,15 @@ LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI
 
 Es objeto de la presente Ley establecer las características generales que tendrán los ingresos de los 56 Ayuntamientos del Estado, tales como objeto, sujeto y base, y las obligaciones de los contribuyentes; las infracciones a las Leyes Fiscales, así como sus respectivas sanciones y las formas de extinción de los Créditos y Obligaciones Fiscales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 2.
 
-Los Ayuntamientos del Estado percibirán en cada Ejercicio Fiscal los ingresos ordinarios y extraordinarios que señalen las Leyes de Ingresos Municipales.
+Los Ayuntamientos del Estado percibirán en cada ejercicio fiscal los ingresos ordinarios y extraordinarios que señalen las Leyes de Ingresos Municipales, así como las aportaciones en el rendimiento de ingresos federales y estatales, derivado de la aplicación de las leyes de coordinación y convenios respectivos.
 
-Para los efectos de esta Ley se entiende que son Ingresos Ordinarios los Impuestos, Derechos, Productos, Aprovechamientos, Contribuciones de mejoras y participaciones.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+Para los efectos de esta ley se entiende que son ingresos ordinarios los impuestos, derechos, productos, aprovechamientos, contribuciones de mejoras y participaciones que se regularán por las leyes fiscales respectivas.
 
 Por Ingresos Extraordinarios se entienden los Empréstitos y cualesquiera otros cuya percepción se decreta excepcionalmente para proveer al pago de gastos o inversiones accidentales, extraordinarias o especiales de los Municipios.
 
@@ -95,9 +99,17 @@ III.- Las que autoricen Ingresos Extraordinarios.
 
 IV.- La de Deuda Pública Municipal.
 
-V.- Las que organicen los Servicios Administrativos necesarios para la recaudación, distribución y control de los Ingresos y Egresos.
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
-VI.- Las demás que con este carácter autorice el Congreso del Estado.
+V.- La Ley de Coordinación Fiscal del Estado de San Luis Potosí.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+VI.- Las que organicen los servicios administrativos necesarios para la recaudación y control de los ingresos y egresos.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+VII.- Las demás que con este carácter autorice el Congreso del Estado.
 
 ###### ARTICULO 11.
 
@@ -131,9 +143,11 @@ La interpretación de las Leyes Fiscales relativas a la Hacienda Municipal, corr
 
 La interpretación que haga la Legislatura o la Diputación Permanente, es obligatoria en el orden administrativo, para todos los Municipios del Estado, a los que deberá hacerla conocer en los términos que establezcan las Leyes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 15.
 
-La determinación, liquidación, recaudación y cobro de los ingresos municipales estarán a cargo de los Ayuntamientos, quienes los efectuarán por conducto de sus respectivas Tesorerías y bajo la vigilancia de los Presidentes Municipales con sujeción a las disposiciones de la Constitución Política del Estado, la Ley Orgánica del Municipio Libre, la Ley de Catastro, las de esta Ley y la respectiva Ley de Ingresos Municipal.
+La determinación, liquidación, recaudación y cobro de los ingresos municipales estarán a cargo de los Ayuntamientos, quienes los efectuarán por conducto de sus respectivas Tesorerías y bajo la vigilancia de los Presidentes Municipales con sujeción a las disposiciones de la Constitución Política del Estado, la Ley Orgánica del Municipio Libre, la Ley de Catastro, las de esta Ley, la respectiva Ley de Ingresos Municipal y la Ley de Coordinación Fiscal del Estado de San Luis Potosí.
 
 Los Municipios podrán celebrar convenios con el Ejecutivo Estatal para la administración de alguno o algunos de los ingresos, en los términos de las Fracciones Cuartas de los Artículos 115 de la Constitución General de la Republica y 83 de la Constitución local respectivamente.
 
@@ -221,6 +235,10 @@ El Crédito Fiscal es la obligación fiscal determinada en cantidad líquida a c
 
 Lo relativo al pago de los Créditos Fiscales, las devoluciones del pago de lo indebido, compensaciones, prescripciones y la cancelación de los mismos, se sujetarán a lo establecido por el Capítulo Quinto del Título Segundo del Código Fiscal del Estado en vigor, exceptuando lo dispuesto por el Artículo 61 de dicho Ordenamiento.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+Todos los actos de las autoridades fiscales municipales que afecten los intereses jurídicos de los particulares, son recurribles y procederán contra ellos los recursos ordinarios que establezcan las leyes fiscales municipales y a falta de éstos los que señalen el Código Fiscal del Estado en su Capítulo VIII.
+
 ### CAPITULO TERCERO. LOS SUJETOS
 
 ###### ARTICULO 32.
@@ -273,9 +291,11 @@ IV.- La propiedad ejidal y comunal.
 
 DE LOS CONTRIBUYENTES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 37.
 
-Son sujetos de este Impuesto, los propietarios o poseedores de bienes inmuebles ubicados dentro del territorio del Estado; y en todo caso:
+Son sujetos de este impuesto los propietarios o poseedores de bienes inmuebles ubicados dentro de la jurisdicción de los Municipios del Estado; y en todo caso:
 
 I.- Los propietarios o condóminos de la tierra, tanto en proporción con el impuesto que grave a ésta, como el que grave las construcciones y mejoras.
 
@@ -373,7 +393,9 @@ El impuesto se determinará aplicando la tasa y el procedimiento para su cáulcu
 
 Para los efectos de esta Ley, se entiende por adquisición la que se derive de:
 
-I.- Todo acto por el que transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones y sociedades.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+I.- Todo acto por el que se transmita la propiedad, excluyendo la donación a toda clase de asociaciones e instituciones de beneficencia, así como la que ocurra por causa de muerte y cesión de derechos entre padres e hijos.
 
 II.- La compra-venta en la que el vendedor se reserve el dominio, aún cuando la transferencia de este opere con posterioridad.
 
@@ -467,9 +489,11 @@ Están exentos del pago de este impuesto los bienes de dominio público de la Fe
 
 ### CAPITULO CUARTO. IMPUESTO DE PLUSVALÍA
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 59.
 
-Es objeto de este impuesto el incremento que obtengan los propietarios de predios urbanos, suburbanos y rústicos de los Municipios del Estado, por el simple transcurso del tiempo o por la realización de obras públicas o privadas dentro de su área de influencia.
+Es objeto de este impuesto el incremento que obtengan los propietarios de predios urbanos, suburbanos y rústicos de los Municipios del Estado por la realización de obras públicas o privadas dentro de su área de influencia.
 
 ###### ARTICULO 60.
 
@@ -649,9 +673,11 @@ Este derecho sólo se podrá cobrar cuando los Ayuntamientos presten el servicio
 
 El servicio público de panteones se proporcionará en el panteón o panteones autorizados por el Municipio, el cual los atenderá mediante el pago de los derechos correspondientes.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 91.
 
-Causan estos derechos, la inhumación y exhumación de cadáveres, la licencia para el traslado de cadáveres o restos áridos y la construcción de criptas o monumentos.
+Causarán estos derechos, la inhumación y exhumación de cadáveres o restos áridos y la construcción de instalación de criptas o monumentos.
 
 ###### ARTICULO 92.
 
@@ -681,7 +707,9 @@ II.- Inspección y autorización para construcciones, reconstrucciones y demolic
 
 III.- Fraccionamiento o urbanizaciones en zonas rurales.
 
-En todos los casos anteriores la autorización correspondiente se extenderá previo cumplimiento de los requisitos que establece la Ley de Catastro.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+En todos los casos anteriores, el Departamento de Obras Públicas del Municipio extenderá la autorización a constructores que previamente se hayan inscrito en el padrón que para el efecto se llevará en dicho departamento, presentando el recibo de pago de los derechos correspondientes, y en todo caso, la autorización se extenderá previo cumplimiento de los requisitos que establece la Ley de Catastro y las demás leyes de la materia.
 
 ###### ARTICULO 96.
 
@@ -721,9 +749,11 @@ Estos permisos se otorgarán gratuitamente.
 
 Las Presidencias Municipales quedan facultadas para aplicar a los propietarios o poseedores de predios urbanos que constituyan un obstáculo para la rectificación, ensanchamiento o prolongación de las calles o avenidas de los Municipios, o para la creación de otras, una sanción mensual mientras dure el obstáculo, que será de cinco veces el salario mínimo que corresponda a la zona de que se trate, en caso de no tramitar el permiso correspondiente.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 103.
 
-A los propietarios, poseedores o responsables de negocios, con cuya actividad se ocasione una obstrucción u obstáculo a la vialidad de las calles o lugares públicos, se aplicará la misma sanción a que se refiere el artículo que antecede, en caso de no solicitar el permiso correspondiente.
+A los propietarios, poseedores o responsables de obras, negocios, construcciones o demoliciones o cualquier actividad que ocasione una obstrucción u obstáculo a la vialidad de las calles o lugares públicos, se les aplicará la misma sanción a que se refiere el artículo que antecede, en caso de no solicitar el permiso correspondiente.
 
 ### CAPITULO OCTAVO. SERVICIO DE REGISTRO Y REFRENDO DE FIERROS
 
@@ -751,9 +781,11 @@ A los propietarios de establecimientos comerciales, industriales, agrícolas, ga
 
 ### CAPITULO DECIMO. REGISTRO COMERCIAL E INDUSTRIAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 109.
 
-Los Ayuntamientos del Estado por conducto de sus Tesorerías Municipales deberán llevar libros especiales que se denominarán de Padrón Municipal en los que se asentarán los siguientes datos:
+Los Ayuntamientos del Estado por conducto de sus Tesorerías Municipales deberán llevar libros especiales que se denominarán "De Padrón Municipal", en los que se asentarán los siguientes datos y por cuyo registro o expedición de certificado se causarán los derechos que anualmente fijen las Leyes de Ingresos de los Municipios:
 
 a).- Contribuyentes en giros comerciales e industriales.
 
@@ -848,6 +880,14 @@ Las cuotas o tarifas de derechos por servicio doméstico, industrial, comercial,
 ###### ARTICULO 126.
 
 El pago de los derechos por suministros de agua potable, ya sea por cuota fija o por servicio medido, se cubrirá por bimestre dentro de los 15 días del mes siguiente.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+### CAPITULO DECIMO QUINTO. SERVICIOS PRESTADOS POR LA DIRECCIÓN DE TRANSITO MUNICIPAL
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+ARTICULO 126 BIS.- Los derechos que causen los servicios prestados por la Dirección Municipal de Tránito (sic), serán fijados por las Leyes de Ingresos de los Municipios, o por el Reglamento respectivo, y el Código Fiscal del Estado.
 
 ### CAPITULO UNICO. PRODUCTOS
 
@@ -1175,6 +1215,12 @@ A partir de la fecha en que entre en vigor esta Ley, se abrogan las disposicione
 
 Los Ayuntamientos no podrán recibir pagos de contribuciones o impuestos de ejercicios de años siguientes al que establezca la Ley de Ingresos vigente.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 4.
+
+En tanto el Estado se encuentre coordinado con la Federación en materia fiscal, quedan suspendidos en su cobro los impuestos y derechos mencionados en los Decretos Número 103 y 104, publicado en el Periódico Oficial del Estado número 21, de fecha 12 de marzo de 1982.
+
 Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado a los treinta y un días del mes de diciembre de mil novecientos ochenta y siete.
@@ -1196,3 +1242,7 @@ ADALBERTO NOYOLA VÁZQUEZ
 P.O. 30 DE DICIEMBRE DE 1988.
 
 UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1989.
+
+P.O. 29 DE DICIEMBRE DE 1989.
+
+UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1990.
