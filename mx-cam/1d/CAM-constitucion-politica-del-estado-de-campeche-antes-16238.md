@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1985-11-06"
+last_updated: "1986-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 1985.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 1986.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -359,7 +359,9 @@ Se elegirán asimismo hasta 3 diputados propietarios y 3 suplentes, según el pr
 
 La elección de los diputados según el principio de representación proporcional, se sujetará a las bases generales siguientes y a lo que sobre el particular disponga la ley.
 
-a) Que los partidos políticos que los postulen obtengan, cuando menos, el 1.5 por ciento de la votación total del Estado;
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1986)</small>
+
+a) Que los Partidos Políticos que los postulen obtengan cuando, menos el 5 por ciento de la votación total del Estado;
 
 b) Que los mismos partidos hayan postulado también candidatos en seis distritos electorales, cuando menos, y
 
@@ -1255,7 +1257,9 @@ De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuído un 
 
 a) Que hubiere registrado fórmula de candidatos en las elecciones municipales respectivas;
 
-b) Que alcance por lo menor (sic) el 1.5 por ciento del total de la votación emitida en el municipio correspondiente.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1986)</small>
+
+b) Que alcance por lo menos el 5 por ciento del total de la votación emitida en el municipio correspondiente.
 
 La Ley Electoral, determinará los procedimientos que se observarán en dicha designación.
 
@@ -1758,3 +1762,7 @@ PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación, e
 SEGUNDO.- Se derogan todas las disposiciones legislativas y reglamentarias que se opongan al presente decreto.
 
 TERCERO.- Queda facultado el Tribunal Pleno para emitir las disposiciones necesarias con motivo de la supresión de los juzgados de paz.
+
+P.O. 5 DE ABRIL DE 1986.
+
+UNICO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
