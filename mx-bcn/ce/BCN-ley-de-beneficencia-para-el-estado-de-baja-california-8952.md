@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-beneficencia-para-el-estado-de-baja-california-8952"
 country: "mx"
 rank: "ley"
 publication_date: "1954-06-20"
-last_updated: "1954-06-20"
+last_updated: "1954-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE BENEFICENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 1954.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 20 de junio de 1954.
 
@@ -45,19 +45,23 @@ DE LA ASISTENCIA PUBLICA
 
 Se establece el "Patronato de la Asistencia Pública en el Estado de Baja California" con personalidad jurídica propia y capacidad para realizar todos los actos necesarios para el desempeño de sus funciones. Consecuentemente puede adquirir y poseer toda clase de bienes por cualquiera de los medios admitidos en derecho y disfrutar de los privilegios y exenciones en los términos que marca la presente Ley.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1954)</small>
+
 ###### Artículo 2.
 
 El Patronato de la Asistencia Pública del Estado tendrá por objeto:
 
-1.- La fundación y mantenimiento de hospitales, comedores públicos, casas hogar, escuelas, casas de maternidad, casas de trabajo, hospicios, asilos, manicomios, casas de huérfanos, cajas de ahorros, montes de piedad, explotaciones de economía mixta; y en general de centros o unidades de asistencia pública;
+1.- La fundación y mantenimiento de hospitales, comedores públicos, casas hogar, escuelas, casas de maternidad, casas de trabajo, hospicios asilos, manicomios, casas de huérfanos, cajas de ahorros, montepíos, explotaciones de economía mixta, y en general de centros o unidades de asistencia pública;
 
 2.- La realización de toda clase de actividades de asistencia pública dentro de las normas y procedimientos fijados en esta Ley y sus reglamentos;
 
-3.- La organización o vigilancia de festivales, colectas, y, en general actos encaminados a recaudar fondos para la Asistencia Pública;
+3.- La organización o vigilancia de ferias, festivales, colectas, y, en general actos encaminados a recaudar fondos para la Asistencia Pública;
 
-4.- La conservación y cuidado de su patrimonio así como el control administrativo de centros asistenciales y el manejo de los fondos que reciba para garantizar su correcta inversión; y
+4.- La conservación y cuidado de su patrimonio así como el control administrativo de centros asistenciales y el manejo de fondos que reciba para garantizar su correcta inversión; y
 
-5.- Todo lo demás que las Leyes y Reglamentos le señalen.
+5.- La representación legal de la Beneficencia Pública en los juicios sucesorios en que ésta tenga interés, en relación a los casos previstos por los artículos 1636 y 1637 del Código Civil vigente en el Estado; y
+
+6.- Todo lo demás que las Leyes y Reglamentos le señalen.
 
 ###### Artículo 3.
 
@@ -93,21 +97,25 @@ Podrán constituirse delegaciones del Patronato que actúen en poblaciones o lug
 
 Los miembros del Patronato y los empleados de su dependencia, serán consignados como funcionarios o empleados para los efectos de las responsabilidades civiles o criminales en que incurran.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1954)</small>
+
 ###### Artículo 9.
 
 Forman el patrimonio de la Asistencia Pública:
 
-I.- Los legados o donativos que para la asistencia en general o para determinados establecimientos, hagan las autoridades, corporaciones o particulares;
+I.- Los legados o donativos que para la asistencia en general o para determinados establecimientos, hagan las autoridades, corporaciones o particulares; así como los bienes de cualquier especie que adquiera el Patronato en los juicios sucesorios en que tenga interés la Beneficencia Pública;
 
 II.- El subsidio que el Gobierno del Estado asigne en su presupuesto;
 
 III.- El subsidio en que los Municipios del Estado contribuyan;
 
-IV.- Los impuestos que se consignen por la Ley a fines de asistencia;
+IV.- Los impuestos que consignen por la Ley a fines de Asistencia;
 
-V.- Las multas que se impongan por la autoridad siempre que estén destinadas a fines de asistencia;
+V.- Las multas que se impongan por la autoridad siempre que estén destinadas a fines de Asistencia;
 
-VI.- Los demás bienes que adquiera o productos que obtenga en las explotaciones de economía mixta a que se refiere la Frac. I del Artículo 2 de esta Ley y que se autoricen o permitan por el Gobierno del Estado para fines de Asistencia Pública, con arreglo a las Leyes y que no estén comprendidos en las fracciones anteriores.
+VI.- Los productos que se obtengan de la organización de ferias, festivales y colectas;
+
+VII.- Los demás bienes que adquiera o productos que obtenga en las explotaciones de economía mixta a que se refiere la Fracción I del artículo 2 de esta Ley, y que se autoricen o permitan por el Gobierno del Estado para fines de Asistencia Pública, con arreglo a las Leyes y que no estén comprendidos en las fracciones anteriores.
 
 ###### Artículo 10.
 
@@ -231,21 +239,29 @@ Las delegaciones se integrarán por tres personas de las cuales dos serán nombr
 
 Las delegaciones desempeñarán en las Municipalidades del Estado, las mismas funciones que esta Ley encomienda al patronato de la Asistencia Pública del Estado; tendrán las mismas obligaciones y derechos que el Patronato al cual estarán supeditados y serán directamente responsables de la marcha administrativa de los centros asistenciales establecidos en su jurisdicción dependientes del Patronato.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1954)</small>
+
 ###### Artículo 23.
 
-Son causas de responsabilidad de los miembros del Patronato, Secretario y miembros de las delegaciones así como del personal de la Asistencia Pública:
+Son causas de responsabilidad de los miembros del Patronato, Secretario y miembros de las delegaciones, así como del personal de la Asistencia Pública:
 
-I.- Faltar sin causa justificada a las sesiones;
+I.- No rendir cuentas bimestrales al Gobierno del Estado.
 
-II.- Demorar indebidamente, por más de quince días los dictámenes o informes sobre los asuntos que se les turnan para su estudio.
+II.- Faltar sin causa justificada a las sesiones;
 
-III.- Aceptar o exigir de cualquier persona regalos o retribuciones, en efectivo o en especie, por ejercer las funciones de su cargo, o por faltar al cumplimiento de sus obligaciones; y
+III.- Demorar indebidamente, por más de quince días los dictámenes o informes sobre los asuntos que les turnan para su estudio;
 
-IV.- Faltar al cumplimiento de las demás obligaciones que les imponga esta Ley o los reglamentos.
+IV.- Aceptar o exigir de cualquier persona regalos o retribuciones, en efectivo o en especies por ejercer las funciones de su cargo, o por faltar al cumplimiento de sus obligaciones; y
+
+V.- Faltar al cumplimiento de las demás obligaciones que les imponga esta Ley o los reglamentos.
+
+Las responsabilidades mencionadas se harán efectivas en vía administrativa y las castigará disciplinariamente el Ejecutivo del Estado, salvo el caso de que constituyan una infracción antisocial, pues en este evento serán consignadas a las autoridades competentes.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1954)</small>
 
 ###### Artículo 24.
 
-Las responsabilidades que se mencionan en el Artículo anterior, se harán efectivas en vía administrativa y las castigará disciplinariamente el Ejecutivo del Estado, salvo el caso de que constituyan una infracción antisocial, pues en este evento serán consignadas a las autoridades competentes.
+Se exceptúa al "Patronato de la Asistencia Pública en el Estado de Baja California", de toda clase de impuestos y derechos que pudiere causar al Fisco del Estado y a los Municipios por concepto de propiedad raíz y por los actos de obtención, producción y demás actividades gravables, tanto propias como de los demás organismos sujetos a su control.
 
 ###### Artículo 25.
 
@@ -1600,3 +1616,19 @@ LIC. BRAULIO MALDONADO SANDEZ.
 El Secretario General de Gobierno,
 
 LIC. RAFAEL MORENO HENRIQUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+
+P.O. 20 DE NOVIEMBRE DE 1954.
+
+###### ARTICULO 1o.
+
+Se conceden facultades extraordinarias al Ejecutivo para que expida el reglamento de la Ley de Beneficencia para el Estado de Baja California.
+
+###### ARTICULO 2o.
+
+Quedan derogadas las disposiciones que se opongan a la presente Ley y su Reglamento.
+
+###### ARTICULO 3o.
+
+Esta Ley entrará en vigor el día siguiente de su publicación ed (sic) el Periódico Oficial del Estado.
