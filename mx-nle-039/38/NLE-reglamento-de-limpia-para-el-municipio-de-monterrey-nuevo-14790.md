@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-limpia-para-el-municipio-de-monterrey-nuevo-14790
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-08-05"
-last_updated: "1996-08-05"
+last_updated: "1999-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE LIMPIA PARA EL MUNICIPIO DE MONTERREY, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 1999.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 5 de agosto 1996.
 
@@ -127,7 +127,9 @@ I.- La recolección de basura domiciliaria se hará en el horario y con la frecu
 
 II.- Los propietarios de casa-habitación, encargados, detentadores o poseedores originarios o derivados, así como los dueños o representantes de establecimientos comerciales, industriales, profesionales o de cualquier otra índole, tiene la obligación de mantener limpias las fachadas y barridas las banquetas.
 
-III.- Los propietarios o poseedores de terrenos baldíos deberán cercarlos y embanquetarlos en los lados que colinden con la calle o vía pública. Igualmente deberán mantenerlos limpios, libres de basura, escombro y sin maleza, realizando el desmonte y deshierbe en los plazos señalados por la Ley, evitando la insalubridad e impidiendo que sean usados como tiraderos. En todo caso se observará lo dispuesto en la Ley de Hacienda para los Municipios.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 1999)</small>
+
+III.- Los propietarios o poseedores de terrenos baldíos deberán cercarlos y embanquetarlos en los lados que colinden con la Calle o vía pública. Igualmente deberán mantenerlos limpios, libres de basura, escombro, animales muertos, vehículos y objetos abandonados y maleza, realizando en ellos la limpieza, desmonte y deshierba cuando la altura de la hierba rebase 30 centímetros, evitando la insalubridad e impidiendo que sean usados como tiraderos. En todo caso se estará a lo dispuesto en la Ley de Hacienda de referencia.
 
 ###### Art. 16.
 
@@ -247,7 +249,9 @@ XIX.- Toda persona física o moral que con motivo de su actividad obstaculice la
 
 XX.- Todo acto u omisión que contribuya al desaseo de las vías públicas, plazas y parques o que impida la prestación del servicio de limpia.
 
-XXI.- Arrojar basura o escombro en terrenos baldíos.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 1999)</small>
+
+XXI.- Arrojar basura, animales muertos o escombro en terrenos baldíos y mantenerlos tanto los propietarios o poseedores de dichos terrenos sin cerco y banqueta en los lados en que colinden con la calle o la vía Pública, o mantenerlos con basura, escombro, animales muertos, vehículos abandonados y maleza.
 
 XXII.- La quema o incineración de desechos sólidos tales como llantas, telas, papel, plásticos u otros elementos, cuya combustión sea perjudicial para la salud.
 
@@ -341,9 +345,11 @@ La infracción a lo dispuesto por las fracciones VII a X inclusive, del artícul
 
 La infracción a lo dispuesto por las fracciones XI a XX inclusive, del artículo 31, así como a los artículos 18, 19, 21 y 26 de este reglamento, se sancionarán con multa equivalente de 51 a 100 días de salario mínimo general vigente en el municipio de Monterrey.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1999)</small>
+
 ###### Art. 47.
 
-La infracción a lo dispuesto por las fracciones XXI a XXV inclusive, del artículo 31, así como al artículo 10, de este reglamento, se sancionarán con multa equivalente de 101 a 200 días de salario mínimo general vigente en el municipio de Monterrey.
+La infracción a lo dispuesto por las Fracciones XXI a XXV inclusive, del artículo 31, así como al artículo 10 y 15 en su Fracción III de este Reglamento, se sancionarán con multa equivalente de 101 a 200 días de salario mínimo general vigente en el Municipio de Monterrey.
 
 ###### Art. 48.
 
@@ -414,3 +420,11 @@ C. Jesús Hinojosa Tijerina
 Secretario Del R. Ayuntamiento
 
 C. José Martínez González.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE JULIO DE 1999.
+
+PRIMERO.- Se derogan todas las disposiciones que se opongan a las presentes modificaciones y reformas.
+
+SEGUNDO.- Las presentes reformas y modificaciones al Reglamento de Limpia para el Municipio de Monterrey, entraran en vigor 5 días después de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal.
