@@ -4,7 +4,7 @@ identifier: "CHP-ley-para-la-proteccion-de-los-no-fumadores-del-estado-de-22096"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-15"
-last_updated: "2001-08-15"
+last_updated: "2004-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY PARA LA PROTECCION DE LOS NO FUMADORES DEL ESTADO DE CHIAPAS, REGLAMENTARIA DE LOS ARTICULOS 124 Y 125 DE LA LEY SALUD DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL DECRETO NO. 223 QUE REFORMA, MODIFICA Y ADICIONA DIVERSOS ARTICULOS DE LA LEY DE SALUD DEL ESTADO DE CHIAPAS, PUBLICADA EN EL PERIODICO OFICIAL EL 26 DE NOVIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el miércoles 15 de agosto de 2001.
 
@@ -274,3 +276,21 @@ DADO EN EL SALON DE SESIONES DEL H. PODER LEGISLATIVO DEL ESTADO, EN LACIUDAD DE
 DE CONFORMIDAD CON LA FRACCION I DEL ARTICULO 42 DE LA CONSTITUCION POLITICA LOCAL Y PARA SU OBSERVANCIA, PROMULGO EL PRESENTE DECRETO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS, A LOS DIEZ DIAS DEL MES DE AGOSTO DEL AÑO DOS MIL UNO.
 
 PABLO SALAZAR MENDIGUCHIA, GOBERNADOR DEL ESTADO.- EMILIO ZEBADUA GONZALEZ, SECRETARIO DE GOBIERNO.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 26 DE NOVIEMBRE DE 2004.
+
+Artículo Primero.- Se derogan en el Estado todas aquella disposiciones que contravengan lo dispuesto en la presente Ley.
+
+Artículo Segundo.- Las presentes modificaciones legislativas, es decir reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Tercero.- Por ser de urgencia presupuestal el Ejecutivo del Estado deberá publicar el respectivo reglamento al que se refiere el Título Noveno Bis de la presente, dentro de los 15 días siguientes a la publicación de las presentes modificaciones, en el Periódico Oficial del Estado.
+
+Artículo Cuarto.- Se abroga la Ley para la Protección de los No Fumadores del Estado de Chiapas, Reglamentaria de los artículos 124 y 125 de la Ley de Salud del Estado de Chiapas, que había sido creada mediante el Decreto No. 195 publicado en el Periódico Oficial No. 054, con fecha 15 de agosto de 2001.
+
+Artículo Quinto.- En los locales cerrados y establecimientos a que se refiere el artículo 125 Sex y 125 Novem fracciones I, II, IV, V; VI; VII, y VIII; deberán delimitarse las secciones reservadas para los fumadores y no fumadores, dentro de los treinta días siguientes a la publicación de las presentes modificaciones legislativas, es decir reformas o adiciones, en el Periódico Oficial del Estado.
+
+Artículo Sexto.- Los propietarios poseedores o responsables de los vehículos a que se refieren los artículos 125 Novem fracción III, y 125 Duodecem deberán dar cumplimiento a la obligación de fijar en el interior y exterior de los vehículos las señalizaciones adecuadas, dentro de los treinta días siguientes contados a partir de la publicación de las presente reformas en el Periódico Oficial del Estado.
+
+Artículo Séptimo.- El Ejecutivo del Estado dispondrá que se publique la presente, circule y se le dé el debido cumplimento.
