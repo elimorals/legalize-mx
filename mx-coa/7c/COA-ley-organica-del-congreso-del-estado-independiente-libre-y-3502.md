@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-3502
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-09-06"
-last_updated: "1998-04-17"
+last_updated: "1998-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 6 de septiembre de 1994.
 
@@ -355,7 +355,9 @@ Son funciones de la Gran Comisión, las siguientes:
 
 1.- Proponer al Congreso, los integrantes de las comisiones permanentes y las especiales;
 
-2.- Proponer al Pleno del Congreso, la designación del Oficial Mayor, el Contador Mayor de Hacienda y el Tesorero;
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 1998)</small>
+
+2.- Proponer al Pleno del Congreso, la designación del Oficial Mayor y el Tesorero del Congreso del Estado, así como el Contador Mayor de Hacienda. Esta última propuesta la deberá remitir a la Comisión de la Contaduría Mayor de Hacienda, para su trámite legislativo correspondiente;
 
 3.- Aprobar el proyecto de Presupuesto Anual de Egresos del Congreso;
 
@@ -911,9 +913,11 @@ A la Oficialía Mayor del Congreso, le corresponde el despacho de los siguientes
 
 13.- Las demás que le confieran esta ley y sus reglamentos, así como las que les sean encomendadas por el Pleno, la Gran Comisión y la Diputación Permanente.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 1998)</small>
+
 ###### ARTICULO 110.
 
-Habrá en el Congreso una dependencia que se denominará Contaduría Mayor de Hacienda, que se encargará de revisar, discutir y aprobar, las Cuentas Públicas Estatales y Municipales del año anterior, para conocer los resultados de las gestiones financieras respectivas y comprobar si se han ajustado a los correspondientes presupuestos de egresos. Su estructura y funcionamiento se regirán por la Ley Orgánica de la Contaduría Mayor de Hacienda.
+Habrá en el Congreso una dependencia que se denominará Contaduría Mayor de Hacienda, que se encargará de revisar, discutir y dictaminar trimestralmente las Cuentas Públicas de las entidades estatales y municipales y para conocer los resultados de las gestiones financieras respectivas y comprobar si se han ajustado a los correspondientes presupuestos de egresos. Su estructura y funcionamiento se regirán por la Ley Orgánica de la Contaduría Mayor de Hacienda.
 
 ###### ARTICULO 111.
 
@@ -976,3 +980,11 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 30 DE JUNIO DE 1998.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+Artículo Cuarto.- Se derogan todas las disposiciones que contravengan el sentido de la presente reforma.
