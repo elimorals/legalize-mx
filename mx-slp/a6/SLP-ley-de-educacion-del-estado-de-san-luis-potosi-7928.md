@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "1995-06-16"
+last_updated: "2003-09-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACION DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -467,13 +467,53 @@ Los planes y programas de estudio destinados a la capacitación para el trabajo,
 
 Los planes y programas que las Secretarías de Educación de la Administración Pública Federal y Estatal determinen, así como sus modificaciones, deberán publicarse oportunamente en el Periódico Oficial del Estado.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+
+### Capítulo II Bis.
+
+De las Instituciones Autónomas de Educación Superior.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+
+ARTICULO 46 BIS.- Las instituciones particulares de educación superior del sistema educativo del Estado, después de cinco años de contar con reconocimientos de validez oficial de estudios en los términos de esta Ley, obtendrán la condición de instituciones autónomas de Educación Superior, si además cumplen con los requisitos siguientes:
+
+I.- Acreditar que en lo general su planta de docentes tenga la preparación científica o tecnológica indispensable; y que por lo menos el cincuenta por ciento de ellos, tiene el grado de maestría en la rama del saber humano en que imparte su cátedra;
+
+II.- Disponer de local adecuado a la enseñanza que haya que impartirse; así como las instalaciones, equipo y laboratorios convenientes, según el caso;
+
+III.- Reunir las condiciones necesarias de seguridad e higiene en su establecimiento, y cumplir con todas las disposiciones de carácter administrativo;
+
+IV.- Obtener de la Secretaría de Educación de Gobierno del Estado, dictamen favorable en el sentido de que la educación que imparte tiene un alto nivel académico;
+
+V.- Declarar, bajo protesta de decir verdad, que mantendrán los altos niveles académicos, bajo pena de revocación del decreto donde se otorga autonomía a la institución; y que dará a la Secretaría de Educación todas las facilidades que requiera para que ejecute sus facultades de inspección y vigilancia, con la finalidad de constatar el mantenimiento permanente de los altos niveles académicos, y
+
+VI.- Publicar en el Periódico Oficial del Estado el compromiso de mantener los altos niveles académicos, bajo pena de revocación de su calidad de autónoma conforme al procedimiento previsto en el artículo siguiente.
+
+Reunidos los requisitos enumerados, el titular del Poder Ejecutivo del Estado, expedirá el decreto respectivo que reconozca la calidad de las instituciones autónomas de educación superior, en donde se hará una relación suscinta de los antecedentes académicos de la institución.
+
+> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2003)</small>
+
+ARTICULO 46 TER.- Las instituciones de educación superior que, conforme a esta Ley reciban la calidad de autónomas, gozarán de plena libertad académica, entendida no sólo como el ejercicio de la más irrestricta libertad de cátedra, sino como la autonomía para elaborar sus planes y programas de estudio, los que sólo deberán registrar ante la Secretaría de Educación de Gobierno del Estado.
+
+Las instituciones autónomas de educación superior:
+
+I.- Podrán impartir los conocimientos que ellas mismas determinen;
+
+II.- Señalarán los estudios que sirvan como antecedente propedéutico para cursar los que ellas mismas impartan;
+
+III.- Gozarán de libertad administrativa para el efecto de que puedan determinar libremente su estructura, órganos de gobierno, normatividad interna general y la forma de manejar, dirigir, controlar y vigilar la documentación y su propio patrimonio;
+
+IV.- Contarán con validez oficial los estudios que impartan, y los títulos que expidan serán registrados, una vez que satisfagan los requisitos de la ley federal reglamentaria al ejercicio de las profesiones;
+
+V.- Deberán publicar, en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación de la Entidad, un informe anual donde se expresen las labores desarrolladas durante ese término, sus estados financieros, así como los cambios hechos en su organización administrativa y régimen académico, y
+
+VI.- Estarán obligadas a mantener en forma permanente programas de investigación científica y tecnológica, sobre todo en su aspecto aplicado, con miras a acrecentar los campos de producción de bienes y servicios en el Estado.
+
+La calidad de institución autónoma de educación superior, sólo podrá ser revocada por decreto expreso del titular del Poder Ejecutivo del Estado, debidamente fundado y motivado, cuando a juicio de éste, la institución haya dejado de cumplir las condiciones y obligaciones impuestas por la legislación aplicable.
+
 ### Capítulo III.
 
 Del Calendario Escolar.
-
-### Capítulo IV.
-
-De la Evaluación del Sistema Educativo Estatal.
 
 ###### ARTICULO 47.
 
@@ -493,9 +533,9 @@ De presentarse interrupciones por caso extraordinario o fuerza mayor, la autorid
 
 La Autoridad Educativa Local, publicará el calendario escolar para cada ciclo lectivo en el Periódico Oficial del Estado y por lo menos en uno de los diarios de mayor circulación de la Entidad.
 
-### Capítulo I.
+### Capítulo IV.
 
-De los Servicios Educativos.
+De la Evaluación del Sistema Educativo Estatal.
 
 ###### ARTICULO 50.
 
@@ -527,9 +567,9 @@ Las instituciones educativas deberán informar periódicamente a los educandos y
 
 Servicios Educativos, Culturales, Recreativos, Deportivos y de Extensión y Difusión Educativos.
 
-### Capítulo II.
+### Capítulo I.
 
-De los Servicios Culturales.
+De los Servicios Educativos.
 
 ###### ARTICULO 55.
 
@@ -603,9 +643,9 @@ II.- Participar en cursos de superación académica para el mejor desempeño de 
 
 En reconocimiento a su labor, las autoridades educativas le otorgarán los estímulos económicos y laborales, así como las prestaciones sociales que por derecho le correspondan.
 
-### Capítulo III.
+### Capítulo II.
 
-De los Servicios Deportivos y Recreativos.
+De los Servicios Culturales.
 
 ###### ARTICULO 65.
 
@@ -627,9 +667,9 @@ V.- Establecer la Academia de las Lenguas y de Estudios Históricos de las Cultu
 
 VI.- Apoyar la elaboración y difusión de libros y materiales didácticos en lenguas Náhuatl, Tének y Pame.
 
-### Capítulo IV.
+### Capítulo III.
 
-De los Servicios Educativos de Difusión y Extensión.
+De los Servicios Deportivos y Recreativos.
 
 ###### ARTICULO 67.
 
@@ -643,9 +683,9 @@ III.- Impulsar la participación en actividades y competencias deportivas y recr
 
 IV.- Otorgar becas para alumnos y maestros destacados en el área deportiva.
 
-### Capítulo Unico.
+### Capítulo IV.
 
-De la Equidad.
+De los Servicios Educativos de Difusión y Extensión.
 
 ###### ARTICULO 68.
 
@@ -677,7 +717,7 @@ De la Equidad en la Educación.
 
 ### Capítulo Unico.
 
-De la Educación que Impartan los Particulares.
+De la Equidad.
 
 ###### ARTICULO 74.
 
@@ -724,6 +764,8 @@ Las autoridades educativas estatales y municipales celebrarán convenios con la 
 De los Prestadores de Servicios Educativos.
 
 ### Capítulo Unico.
+
+De la Educación que Impartan los Particulares.
 
 ###### ARTICULO 77.
 
@@ -785,9 +827,7 @@ Los particulares que presten servicios educativos por los que se impartan estudi
 
 De la Validez Oficial de Estudios y de la Certificación de Conocimientos.
 
-### Capítulo I.
-
-De los Padres de Familia.
+### Capítulo Unico.
 
 ###### ARTICULO 83.
 
@@ -817,9 +857,9 @@ El acuerdo secretarial respectivo señalará los requisitos específicos que deb
 
 De la Participación Social en la Educación.
 
-### Capítulo II.
+### Capítulo I.
 
-De los Consejos de Participación Social.
+De los Padres de Familia.
 
 ###### ARTICULO 88.
 
@@ -865,9 +905,9 @@ IV.- Proponer las medidas que estimen conducentes para alcanzar los objetivos se
 
 V.- Informar a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos.
 
-### Capítulo III.
+### Capítulo II.
 
-De los Medios de Comunicación Social.
+De los Consejos de Participación Social.
 
 ###### ARTICULO 91.
 
@@ -881,9 +921,9 @@ III.- Un consejo estatal de participación social que como órgano de consulta, 
 
 Los consejos de participación social tendrán las funciones que son establecidas en los artículos 69, 70 y 71 de la Ley General de Educación, se regirán por los lineamientos generales que emita la autoridad educativa federal competente; y, se abstendrán de participar en cuestiones políticas y religiosas y de intervenir en los aspectos laborales de las escuelas públicas de educación básica.
 
-### Capítulo I.
+### Capítulo III.
 
-De las Infracciones y las Sanciones.
+De los Medios de Comunicación Social.
 
 ###### ARTICULO 92.
 
@@ -901,9 +941,9 @@ Para impartir educación por correspondencia, prensa, radio, fonografía, televi
 
 De las Infracciones, Sanciones y el Recurso Administrativo.
 
-### Capítulo II.
+### Capítulo I.
 
-Del Procedimiento y del Recurso Administrativo.
+De las Infracciones y las Sanciones.
 
 ###### ARTICULO 95.
 
@@ -969,9 +1009,9 @@ El retiro del reconocimiento de la validez oficial, se referirá a los estudios 
 
 La autoridad que dicte la resolución adoptará las medidas que sean necesarias para evitar perjuicios a los educandos. En el caso de autorizaciones, cuando la revocación se dicte durante un ejercicio lectivo, la institución podrá seguir prestando el servicio, a juicio y vigilancia de la autoridad, hasta que el mismo concluya.
 
-### CAPITULO I.
+### Capítulo II.
 
-Disposiciones Generales.
+Del Procedimiento y del Recurso Administrativo.
 
 ###### ARTICULO 99.
 
@@ -1065,6 +1105,10 @@ IV.- Que no ocasionen daños o perjuicios a los educandos o terceros en término
 
 Del Sistema Educativo Estatal.
 
+### CAPITULO I.
+
+Disposiciones Generales.
+
 ### CAPITULO II.
 
 De la Estructura del Sistema Educativo Estatal.
@@ -1077,13 +1121,13 @@ De la Distribución Social Educativa.
 
 Del Financiamiento de la Educación.
 
-### CAPITULO I.
-
-De los Tipos y Modalidades de Educación.
-
 ## TITULO SEGUNDO.
 
 Del Proceso Educativo.
+
+### CAPITULO I.
+
+De los Tipos y Modalidades de Educación.
 
 ### CAPITULO II.
 
@@ -1097,13 +1141,13 @@ Del Calendario Escolar.
 
 De la Evaluación del Sistema Educativo Estatal.
 
-### CAPITULO I.
-
-De los Servicios Educativos.
-
 ## TITULO TERCERO.
 
 Servicios Educativos, Culturales, Recreativos, Deportivos y de Extensión y Difusión Educativos.
+
+### CAPITULO I.
+
+De los Servicios Educativos.
 
 ### CAPITULO II.
 
@@ -1117,17 +1161,13 @@ De los Servicios Deportivos y Recreativos.
 
 De los Servicios Educativos de Difusión y Extensión.
 
-### CAPITULO UNICO.
-
-De la Equidad.
-
 ## TITULO CUARTO.
 
 De la Equidad en la Educación.
 
 ### CAPITULO UNICO.
 
-De la Educación que impartan los Particulares.
+De la Equidad.
 
 ## TITULO QUINTO.
 
@@ -1135,17 +1175,21 @@ De los Prestadores de Servicios Educativos.
 
 ### CAPITULO UNICO.
 
+De la Educación que impartan los Particulares.
+
 ## TITULO SEXTO.
 
 De la Validez Oficial de Estudios y de la Certificación de Conocimientos.
 
-### CAPITULO I.
-
-De los Padres de Familia.
+### CAPITULO UNICO.
 
 ## TITULO SEPTIMO.
 
 De la Participación Social en la Educación.
+
+### CAPITULO I.
+
+De los Padres de Familia.
 
 ### CAPITULO II.
 
@@ -1155,13 +1199,13 @@ De los Consejos de Participación Social.
 
 De los Medios de Comunicación Social.
 
-### CAPITULO I.
-
-De las Infracciones y las Sanciones.
-
 ## TITULO OCTAVO.
 
 De las Infracciones, Sanciones y el Recurso Administrativo.
+
+### CAPITULO I.
+
+De las Infracciones y las Sanciones.
 
 ### CAPITULO II.
 
@@ -1186,6 +1230,14 @@ LIC. HORACIO SANCHEZ UNZUETA.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 JUAN JOSE RODRIGUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE SEPTIEMBRE DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## TRANSITORIOS
 
