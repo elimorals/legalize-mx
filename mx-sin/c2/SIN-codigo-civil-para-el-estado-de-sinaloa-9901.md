@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "2001-01-10"
+last_updated: "2001-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 2001.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -547,23 +547,35 @@ De las Actas de Adopción.
 
 Dictada la resolución judicial definitiva que autorice la adopción, el adoptante o los adoptantes, dentro del término de quince días, presentarán al Oficial del Registro Civil de su domicilio, copia certificada de la misma, a efecto de que se asiente el acta respectiva.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 85.
 
-El acta de adopción contendrá nombre, apellidos, fecha y lugar de nacimiento y domicilio del adoptado; nombres, apellidos, estado civil, domicilio y nacionalidad del o de los adoptantes y los datos esenciales de la resolución judicial, fecha en que causó ejecutoria y tribunal que la dictó.
+El acta de adopción simple contendrá los nombres, apellidos y domicilio del adoptante y del adoptado; el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción, y los nombres, apellidos y domicilio de las personas que intervengan como testigos. En el acta se insertarán los datos esenciales de la resolución judicial.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 86.
 
-El acta de adopción contendrá los nombres, apellidos, edad, y domicilio del adoptante y del adoptado, el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción y los nombres, apellidos y domicilios de las personas que intervengan como testigos. En el acta se insertará íntegramente la resolución judicial que haya autorizado la adopción.
+En los casos de adopción plena, se levantará un acta como si fuera de nacimiento, en los mismos términos que la que se expide para los hijos consanguíneos, sin perjuicio de lo dispuesto en el artículo 87 Bis.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 87.
 
-Extendida el acta de la adopción, se anotará la de nacimiento del adoptado, y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
+Extendida el acta de la adopción simple, se harán las anotaciones que correspondan al acta de nacimiento del adoptado, y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
+
+###### Artículo 87 Bis.
+
+En el caso de adopción plena, a partir del levantamiento del acta a que se refiere el artículo anterior, se harán las anotaciones en el acta de nacimiento originaria, la cual quedará reservada. No se publicará ni se expedirá constancia alguna que revele el origen del adoptado ni su condición de tal, salvo providencia dictada en juicio conforme a lo dispuesto en el artículo 410 Bis-3.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 88.
 
-El Juez o Tribunal que resuelva que una adopción queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Oficial del Registro Civil, para que cancele el acta de adopción y anote la de nacimiento.
+El juez o tribunal que resuelva que una adopción simple queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Oficial del Registro Civil, para que cancele el acta de adopción y anote la de nacimiento.
 
 ### CAPITULO V.
 
@@ -889,9 +901,11 @@ Las autoridades judiciales que declaren la ausencia, la presunción de muerte, l
 
 El Oficial del Registro levantará el acta correspondiente, en la que insertará la resolución judicial que se le haya comunicado, anotándose el acta de nacimiento.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 133.
 
-Cuando se recobre la capacidad legal para administrar bienes, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por el mismo interesado o por la Autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior y teste la anotación que se hubiere hecho en el acta de nacimiento respectiva.
+Cuando se recobre la capacidad legal para administrar, se revoque la adopción simple o se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por el mismo interesado y por la autoridad que corresponda, para que cancele la inscripción a que se refiere el artículo anterior.
 
 ### CAPITULO XI.
 
@@ -1053,9 +1067,11 @@ X.- El matrimonio subsistente con persona distinta de aquella con quien se prete
 
 De estos impedimentos solamente son dispensables la falta de edad y el parentesco de consanguinidad en la línea colateral desigual.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 157.
 
-El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, en tanto que dure el lazo jurídico resultante de la adopción.
+Bajo el régimen de adopción simple, el adoptante no puede contraer matrimonio con el adoptado o sus descendientes.
 
 ###### Artículo 158.
 
@@ -1855,13 +1871,21 @@ La ley no reconoce más parentescos que los de consanguinidad, afinidad y civil.
 
 El parentesco de consanguinidad es el que existe entre personas que descienden de un mismo progenitor.
 
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
+
+###### Artículo 293 Bis.
+
+En el caso de la adopción plena, se equiparará al parentesco por consanguinidad aquél que existe entre el adoptado, el adoptante, los parientes de éste y los descendientes de aquél, como si el adoptado fuera hijo consanguíneo.
+
 ###### Artículo 294.
 
 El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes de la mujer, y entre la mujer y los parientes del varón.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 295.
 
-El parentesco civil es el que nace de la adopción y sólo existe entre el adoptante y el adoptado.
+El parentesco civil es el que nace de la adopción simple y sólo existe entre adoptante y adoptado.
 
 ###### Artículo 296.
 
@@ -2233,7 +2257,7 @@ Pueden gozar también de ese derecho los hijos no nacidos, si el padre al casars
 
 De la Adopción.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1975)</small>
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 361.
 
@@ -2393,21 +2417,29 @@ De los efectos de la Patria Potestad respecto de la persona de los hijos.
 
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1998)</small>
 
+#### SECCION I.
+
+Disposiciones Generales.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 391.
 
-Los mayores de treinta años, en pleno ejercicio de sus derechos, pueden adoptar a un menor o a un incapacitado, aún cuando sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que la adopción sea benéfica a éste.
+Los mayores de veinticinco años, libres de matrimonio, en pleno ejercicio de sus derechos, pueden adoptar a un menor o a un incapacitado, aun cuando sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que además acredite lo siguiente:
+
+I.- Que tiene medios bastantes para proveer a la subsistencia, la educación y el cuidado de la persona que trata de adoptarse, como hijo propio, según las circunstancias de la persona que trata de adoptar;
+
+II. Que la adopción es benéfica para la persona que trata de adoptarse, atendiendo el interés superior de la misma, y
+
+III.- Que el adoptante es persona de buenas costumbres, apta y adecuada para adoptar.
+
+Toda resolución o medida que se dicte por los tribunales en relación con las niñas o niños adoptados, se harán tomando en cuenta el interés superior de éstos.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 392.
 
-El marido y la mujer podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo.
-
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1975)</small>
-
-Una persona casada podrá adoptar uno o más hijos de su cónyuge, cuando éste ejerza la patria potestad sobre quienes se trate de adoptar sin compartirla con el otro progenitor.
-
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1975)</small>
-
-También podrá llevarse a cabo la adopción a que se refiere el párrafo anterior, si ejerciendo la patria potestad el otro progenitor, consiente en ella de acuerdo con lo que dispone la fracción I del artículo 398.
+El marido y la mujer podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo y aunque sólo uno de los cónyuges cumpla el requisito de la edad a que se refiere el artículo anterior, pero siempre y cuando la diferencia de edad entre cualquiera de los adoptantes y el adoptado sea de diecisiete años cuando menos. Se deberán acreditar además los requisitos previstos en las fracciones del artículo anterior.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1975)</small>
 
@@ -2419,13 +2451,19 @@ Nadie puede ser adoptado por más de una persona, salvo en el caso previsto en e
 
 El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de tutela.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 395.
 
-El menor o el incapacitado que hayan sido adoptados, podrán impugnar la adopción dentro del año siguiente a la mayor edad o a la fecha en que haya desaparecido la incapacidad.
+El menor o la persona con incapacidad que haya sido adoptado bajo la forma de adopción simple, podrá impugnar la adopción dentro del año siguiente a la mayoría de edad o a la fecha en que haya desaparecido la incapacidad.
 
 ###### Artículo 396.
 
 El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
+
+El adoptante dará nombre y sus apellidos al adoptado, salvo que por circunstancias específicas, en el caso de la adopción simple, no se estime conveniente.
 
 ###### Artículo 397.
 
@@ -2445,6 +2483,16 @@ IV.- El Ministerio Público del lugar del domicilio del adoptado, cuando éste n
 
 Si el menor que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción.
 
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2001)</small>
+
+V. Las instituciones de asistencia social, públicas o privadas, que hubieren acogido al menor o al incapacitado que se pretenda adoptar.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
+
+###### Artículo 398 Bis.
+
+Si la persona que se va a adoptar tiene más de doce años, también se necesita su consentimiento para la adopción. En el caso de las personas incapaces, será necesario su consentimiento, cuando fuese posible la expresión indubitable de su voluntad.
+
 ###### Artículo 399.
 
 Si el tutor o el Ministerio Público, sin causa justificada, no consienten en la adopción, podrá suplir el consentimiento el Presidente Municipal del lugar en que resida el incapacitado, cuando encontrare que la adopción es notoriamente conveniente para los intereses morales y materiales de éste.
@@ -2461,33 +2509,41 @@ Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando
 
 El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
 
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2001)</small>
+
+#### SECCION II.
+
+De la Adopción Simple.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 403.
 
-Los derechos y obligaciones que nacen de la adopción, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio, respecto de los cuales se observará lo que dispone el artículo 157.
+Los derechos y obligaciones que nacen de la adopción simple, así como el parentesco que de ella resulte se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio, respecto de los cuales se observará lo que dispone el artículo 157.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1975)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 404.
 
-Los derechos y obligaciones que resulten del parentesco natural no se extinguen por la adopción, excepto la patria potestad que será transferida al padre adoptivo.
+Los derechos y obligaciones que resultan del parentesco natural no se extinguen por la adopción simple, excepto la patria potestad, que será transferida al adoptante, salvo que, en su caso, esté casado con alguno de los progenitores del adoptado porque entonces se ejercerá por ambos cónyuges.
 
-En los casos de los párrafos segundo y tercero del artículo 392, el padre o la madre del hijo o de los hijos adoptados, compartirán la patria potestad sobre estos con el cónyuge adoptante.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 405.
 
-La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
+La adopción simple podrá convertirse en plena, debiendo obtenerse el consentimiento del adoptado, si éste hubiere cumplido doce años. Si fuere menor de esa edad se requiere el consentimiento de quien hubiese consentido en la adopción, siempre y cuando sea posible obtenerlo; de lo contrario el juez deberá resolver atendiendo al interés superior del menor.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 406.
 
-La adopción puede revocarse:
+La adopción simple puede revocarse:
 
 I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento, conforme al artículo 398;
 
 II.- Por ingratitud del adoptado.
 
-> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 1975)</small>
-
-III.- En los casos de los párrafos segundo y tercero del artículo 392, cuando siendo aún menores de edad o mayores incapacitados el hijo o los hijos adoptados, se disuelve el matrimonio por causas de divorcio o nulidad. Cualquiera de los dos cónyuges podrá pedir esta revocación.
+III.- (DEROGADO, P.O. 2 DE FEBRERO DE 2001)
 
 ###### Artículo 407.
 
@@ -2510,6 +2566,56 @@ El decreto del Juez deja sin efecto la adopción y restituye las cosas al estado
 ###### Artículo 410.
 
 En el segundo caso del artículo 406 la adopción deja de producir efectos desde que se comete el acto de ingratitud, aunque la resolución judicial que declare revocada la adopción sea posterior.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 2 DE FEBRERO DE 2001)</small>
+
+#### SECCION III.
+
+De la Adopción Plena.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
+
+###### Artículo 410 Bis.
+
+La adopción plena, es el vinculo jurídico y familiar que existe entre el adoptante y el adoptado semejante al hijo consanguíneo, para todos los efectos legales, incluyendo los impedimentos de matrimonio. El adoptado tiene en la familia del o los adoptantes los mismos derechos, deberes y obligaciones del hijo consanguíneo y debe llevar los apellidos del adoptante o adoptantes.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
+
+###### Artículo 410 Bis
+
+1.- La adopción plena es irrevocable y extingue la filiación preexistente entre el adoptado y sus progenitores y el parentesco con las familias de éstos, salvo para los impedimentos de matrimonio. En el supuesto de que el adoptante esté casado con alguno de los progenitores del adoptado no se extinguirán los derechos, obligaciones y demás consecuencias jurídicas que resultan de la filiación consanguínea.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
+
+###### Artículo 410 Bis
+
+2.- Para que la adopción plena pueda tener afectos (sic), además de las personas a que se refiere el artículo 398 de este Código, deberá otorgar su consentimiento el padre o madre del menor que se pretende adoptar, salvo que exista al respecto declaración judicial de abandono; así mismo, que el menor que se pretenda adoptar no tenga más de cinco años de edad.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
+
+###### Artículo 410 Bis
+
+3.- Tratándose de la adopción plena, el Registro Civil se abstendrá de proporcionar información sobre los acontecimientos de la familia de origen del adoptado, excepto en los casos siguientes y contando con autorización judicial.
+
+I.- Para efectos de impedimentos para contraer matrimonio; y
+
+II.- Cuando el adoptado desee conocer sus antecedentes familiares, siempre y cuando sea mayor de edad, si fuera persona menor de edad se requerirá petición de su representante legal.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
+
+###### Artículo 410 Bis
+
+4.- No pueden adoptar mediante adopción plena, las personas que tengan vínculo de parentesco consanguíneo con el menor o incapaz.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
+
+###### Artículo 410 Bis
+
+5.- La adopción internacional se sujetará a lo previsto en los tratados internacionales suscritos y ratificados por el Estado Mexicano y, en lo conducente, por las disposiciones de este Código.
+
+En igualdad de circunstancias se dará preferencia en la adopción a mexicanos sobre extranjeros.
+
+Las adopciones internacionales siempre serán plenas.
 
 ###### Artículo 411.
 
@@ -8123,13 +8229,17 @@ Si sólo quedan descendientes de ulterior grado, la herencia se dividirá por es
 
 Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos, que en ningún caso pueden exceder de la porción de uno de los hijos.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 1496.
 
-El adoptado hereda como un hijo; pero no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+El adoptado hereda como hijo, pero en la adopción simple no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
 
 ###### Artículo 1497.
 
-Concurriendo los padres adoptantes y descendientes del adoptante, los primeros sólo tendrán derecho a alimentos.
+Concurriendo padres adoptantes y descendientes del adoptado en forma simple, los primeros sólo tendrán derecho a alimentos.
 
 ###### Artículo 1498.
 
@@ -8159,9 +8269,11 @@ Si hubiere ascendientes por ambas líneas, se dividirá la herencia en dos parte
 
 Los miembros de cada línea dividirán entre sí por partes iguales la porción que les corresponda.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 1504.
 
-Concurriendo los adoptantes con ascendientes del adoptado, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes.
+Concurriendo los adoptantes con ascendientes del adoptado en forma simple, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes.
 
 ###### Artículo 1505.
 
@@ -15808,3 +15920,21 @@ P.O. 10 DE ENERO DE 2001.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa" y no será aplicable a los convenios o contratos celebrados con anterioridad a su entrada en vigencia.
+
+P.O. 2 DE FEBRERO DE 2001.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa.
+
+###### ARTÍCULO SEGUNDO.
+
+Las adopciones que se encuentren en trámites, a la fecha de publicación de las presentes reformas, se resolverán de acuerdo con las disposiciones vigentes hasta antes de la publicación del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+No obstante, si en las adopciones que actualmente se tramitan hubiere la voluntad del adoptante de obtener la adopción plena, podrá seguirse el procedimiento establecido por el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Las adopciones realizadas con anterioridad a la entrada en vigor del presente Decreto podrán convertirse a plenas, de acuerdo con los requisitos y procedimientos establecidos por este Decreto.
