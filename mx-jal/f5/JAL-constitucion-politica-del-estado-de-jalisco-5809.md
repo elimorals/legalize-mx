@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1961-04-18"
+last_updated: "1966-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 1961.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1966.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -457,6 +457,10 @@ XV. Conceder, conforme a la Ley, indulto, reducción o conmutación de pena.
 
 XVI. Convocar al Congreso a sesiones extraordinarias, debiendo hacerlo a la mayor brevedad en los casos graves de responsabilidad de los Funcionarios y empleados públicos que gocen de fuero.
 
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 1966)</small>
+
+XVII. Celebrar convenios con los Gobiernos Federal y de los Estados, para que los reos sentenciados por delitos del orden común, puedan cumplir las sanciones privativas de libertad en establecimientos ubicados fuera de la Entidad.
+
 ## Título Quinto
 
 ### CAPITULO UNICO. Del Poder Judicial
@@ -768,3 +772,7 @@ EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITO
 P.O. 18 DE ABRIL DE 1961.
 
 UNICO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco", previa declaración de que forma parte de la Constitución Política del Estado en los términos del Artículo 66 de la propia Constitución.
+
+P.O. 15 DE FEBRERO DE 1966.
+
+UNICO.- Esta reforma entrará en vigor tres días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
