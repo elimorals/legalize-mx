@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-catastro-del-estado-de-chihuahua-4543"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-18"
-last_updated: "2002-08-10"
+last_updated: "2002-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4543&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CATASTRO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2002.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -91,11 +91,11 @@ IX. Instalaciones especiales: Aquellas que complementan en servicios y funcionam
 
 X. Límite de Centro de Población: La línea que envuelve las áreas que conforman un centro de población;
 
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
 XI. Predio:
 
-a) El terreno urbano o rústico con o sin construcciones, cuyos linderos forman un polígono sin solución de continuidad;
-
-b) Cada una de las unidades que integran un condominio;
+El terreno urbano, suburbano o rústico, con o sin construcciones, cuyos linderos forman un polígono sin solución de continuidad;
 
 XII. Predio edificado: El que tenga construcción permanente;
 
@@ -125,17 +125,21 @@ a) El que se encuentre ubicado dentro de los límites de algún centro de poblac
 
 b) Los que encontrándose fuera de los límites de algún centro de población, por su uso y servicios con que cuente, así lo determine la autoridad catastral municipal;
 
-XVII. Sistema de Información Catastral: Elemento fundamental de validación e información jurídica, social y económica respecto a las características y valoración de la propiedad inmobiliaria en el territorio Estatal, con sus consiguientes efectos informativos, fiscales, administrativas y civiles;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE NOVIEMBRE DE 2002)</small>
 
-XVIII. Valor Catastral: El obtenido mediante la aplicación de valores unitarios de suelo y construcción, a las partes integrantes del predio, en combinación con los factores de incremento y demérito correspondientes.
+XVII. Predio Suburbano: Los bienes inmuebles ubicados fuera de los perímetros de las poblaciones, con valores de mercado intermedios entre los urbanos y los rústicos, determinados por su proximidad a las poblaciones en proceso de crecimiento, aún cuando estén destinados a la explotación agrícola, pecuaria o industrial rural. Quedarán también comprendidos dentro de esta clasificación, los predios destinados a fraccionamientos denominados "campestres" o "granjas", o cualquier otro que sea fraccionado o lotificado y, en general, todas aquellas zonas fuera de los perímetros poblacionales donde se presten los servicios municipales de agua potable y energía eléctrica como máximo.
 
-XIX. Valor Real: Es la determinación valorativa en unidades monetarias de un predio, atendiendo a sus elementos cualitativos y cuantitativos a una fecha determinada;
+XVIII. Sistema de Información Catastral: Elemento fundamental de validación e información jurídica, social y económica respecto a las características y valoración de la propiedad inmobiliaria en el territorio Estatal, con sus consiguientes efectos informativos, fiscales, administrativas y civiles;
 
-XX. Valor Unitario: El que fija la autoridad catastral municipal por unidad de superficie;
+XIX. Valor Catastral: El obtenido mediante la aplicación de valores unitarios de suelo y construcción, a las partes integrantes del predio, en combinación con los factores de incremento y demérito correspondientes.
 
-XXI. Valuación: El procedimiento para obtener el valor catastral de un predio; y
+XX. Valor Real: Es la determinación valorativa en unidades monetarias de un predio, atendiendo a sus elementos cualitativos y cuantitativos a una fecha determinada;
 
-XXII. Zona Catastral: La división geográfica que establece la autoridad catastral municipal con respecto de su territorio y que agrupa a un número determinado de predios en función de su homogeneidad para los efectos legales a que se refiere esta ley.
+XXI. Valor Unitario: El que fija la autoridad catastral municipal por unidad de superficie;
+
+XXII. Valuación: El procedimiento para obtener el valor catastral de un predio; y
+
+XXIII. Zona Catastral: La división geográfica que establece la autoridad catastral municipal con respecto de su territorio y que agrupa a un número determinado de predios en función de su homogeneidad para los efectos legales a que se refiere esta ley.
 
 ### CAPITULO SEGUNDO. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
@@ -468,3 +472,9 @@ P.O. 10 DE AGOSTO DE 2002.
 El presente decreto entrará en vigor sesenta días después de su publicación en el Periódico Oficial del Estado.
 
 En lo relativo al artículo 6, fracción IV, primer párrafo, de la Ley de Catastro del Estado, la obligación de actualización entrará en vigor el 1 de enero del 2003.
+
+P.O. 9 DE NOVIEMBRE DE 2002.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
