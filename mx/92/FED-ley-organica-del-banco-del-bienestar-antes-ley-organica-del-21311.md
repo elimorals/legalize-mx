@@ -1,0 +1,464 @@
+---
+title: "LEY ORGANICA DEL BANCO DEL BIENESTAR -- ANTES LEY ORGANICA DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS --"
+identifier: "FED-ley-organica-del-banco-del-bienestar-antes-ley-organica-del-21311"
+country: "mx"
+rank: "ley_organica"
+publication_date: "2001-06-01"
+last_updated: "2001-06-01"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21311&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "21311"
+scjn_status: "VIGENTE"
+gazette: "Diario Oficial de la Federación"
+original_category: "LEY"
+original_gazette_section: "1 PRIMERA SECCION"
+reform_count: "5"
+scjn_last_update: "2019-07-19"
+issue_date: "2001-05-30"
+---
+# LEY ORGANICA DEL BANCO DEL BIENESTAR -- ANTES LEY ORGANICA DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS --
+
+LEY ORGANICA DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Primera Sección del Diario Oficial de la Federación el viernes 1 de junio de 2001.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
+
+Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
+
+DECRETO
+
+"EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
+
+LEY ORGÁNICA DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS
+
+### CAPÍTULO I. Denominación, definiciones, objeto y domicilio
+
+###### Artículo 1.
+
+La presente Ley rige al Banco del Ahorro Nacional y Servicios Financieros, con el carácter de Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, con personalidad jurídica y patrimonio propios.
+
+###### Artículo 2.
+
+Para los efectos de esta Ley se entenderá por:
+
+I. Ley: A la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros;
+
+II. Secretaría: A la Secretaría de Hacienda y Crédito Público;
+
+III. Institución: Al Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, y
+
+IV. Sector: Al conformado por los Organismos de Integración y las Entidades de Ahorro y Crédito Popular regulados por la Ley de Ahorro y Crédito Popular y a las personas físicas y morales que reciban de (sic) u otorguen servicios a éstas.
+
+###### Artículo 3.
+
+El Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, tendrá por objeto promover el ahorro, el financiamiento y la inversión entre los integrantes del Sector, ofrecer instrumentos y servicios financieros entre los mismos, así como canalizar apoyos financieros y técnicos necesarios para fomentar el hábito del ahorro y el sano desarrollo del Sector y en general, al desarrollo económico nacional y regional del país.
+
+La operación y funcionamiento de la Institución se realizará con apego al marco legal aplicable y a las sanas prácticas y usos bancarios para alcanzar en colaboración con el Sector, los objetivos de carácter general señalados en el artículo 4o. de la Ley de Instituciones de Crédito.
+
+###### Artículo 4.
+
+El domicilio de la Institución será la ciudad de México, Distrito Federal. Podrá establecer o clausurar sucursales o agencias o cualquier otra clase de oficinas y nombrar corresponsales en el país o en el extranjero, informando a la Secretaría en el primer caso y con autorización de la misma en el segundo.
+
+###### Artículo 5.
+
+La duración de la Institución será indefinida.
+
+###### Artículo 6.
+
+Las operaciones y servicios de la Institución, se regirán por lo dispuesto en la presente Ley, la Ley de Instituciones de Crédito, la Ley del Banco de México y por las demás disposiciones legales aplicables.
+
+La Secretaría interpretará a efectos administrativos la presente Ley.
+
+### CAPÍTULO III. Capital Social
+
+###### Artículo 7.
+
+La Institución, con el fin de fomentar el desarrollo integral del Sector y promover su eficiencia y competitividad, en el ejercicio de su objeto estará facultada para:
+
+I. Promover, gestionar y financiar proyectos que atiendan las necesidades de los Organismos de Integración y que permitan cumplir con su objeto, en las distintas zonas del país y que propicien el mejor aprovechamiento de los recursos de cada región;
+
+II. Promover, encauzar y coordinar la inversión de capitales en el Sector;
+
+III. Promover el desarrollo tecnológico, la capacitación, la asistencia técnica y el incremento de la productividad de los Organismos de Integración y de las Entidades de Ahorro y Crédito Popular;
+
+IV. Ser agente financiero del Gobierno Federal en lo relativo a la negociación, contratación y manejo de créditos del exterior, cuyo objetivo sea fomentar el desarrollo del Sector, que se otorguen por instituciones extranjeras privadas, gubernamentales o intergubernamentales, así como por cualquier otro organismo de cooperación financiera internacional.
+
+No se incluyen en esta disposición los créditos para fines monetarios;
+
+V. Gestionar y, en su caso, obtener concesiones, permisos y autorizaciones para la prestación de servicios vinculados con la consecución de su objeto;
+
+VI. Realizar los estudios económicos, sociales y financieros necesarios para el desarrollo del Sector;
+
+VII. Propiciar acciones conjuntas de financiamiento y asistencia con otras instituciones de crédito, fondos de fomento, fideicomisos, organizaciones auxiliares del crédito, con los sectores social y privado y con los Organismos de Integración y las Entidades de Ahorro y Crédito Popular;
+
+VIII. Ser administradora y fiduciaria de fideicomisos, mandatos y comisiones que se constituyan para el adecuado desempeño de su objeto, y
+
+IX. Promover, gestionar y financiar toda clase de proyectos, operaciones y actividades que atiendan las necesidades de servicios financieros de los Organismos de Integración y de las Entidades de Ahorro y Crédito Popular.
+
+La Institución deberá contar con la infraestructura necesaria para la adecuada prestación de servicios y realización de operaciones, en las distintas regiones del país y en su caso, en el extranjero.
+
+###### Artículo 8.
+
+Para el cumplimiento del objeto y la realización de los objetivos a que se refieren los artículos 3 y 7 anteriores, la Institución podrá:
+
+I. Realizar las operaciones y prestar los servicios a que se refiere el artículo 46 de la Ley de Instituciones de Crédito;
+
+Las operaciones señaladas en el citado artículo 46, fracciones I y II, las realizará en los términos del artículo 47 de dicho ordenamiento;
+
+II. Establecer planes de ahorro;
+
+III. Emitir o garantizar valores, así como garantizar obligaciones de terceros, ya sea a través de operaciones particulares o de programas masivos de garantías, sin que sean aplicables las limitantes previstas en el artículo 46 fracción VIII de la Ley de Instituciones de Crédito;
+
+IV. Contratar créditos para la realización de sus funciones de fomento, conforme a las disposiciones legales aplicables;
+
+V. Adquirir tecnología, promover su desarrollo y transferirla conforme a lo dispuesto por las leyes aplicables;
+
+VI. Emitir certificados de participación con base en fideicomisos constituidos al efecto;
+
+VII. Otorgar financiamiento a fondos y fideicomisos públicos de fomento;
+
+VIII. Realizar sorteos conforme a las reglas generales de operación que autorice la Secretaría, y
+
+IX. Realizar las demás operaciones y servicios de naturaleza análoga o conexa que autorice y regule la Secretaría.
+
+###### Artículo 9.
+
+La Secretaría, como excepción a lo dispuesto por los artículos 48 de la Ley de Instituciones de Crédito y 26 de la Ley del Banco de México, determinará mediante disposiciones de carácter general las características de las operaciones activas, pasivas que no impliquen captación de recursos del público y de servicios, excepto lo relativo a fideicomisos, mandatos y comisiones, que realice la Institución para cumplir el objetivo y ejercer las facultades que se le han encomendado en su carácter de banca de desarrollo en esta Ley.
+
+Corresponde al Banco de México, en los términos de su Ley regular mediante disposiciones de carácter general, las características de las operaciones pasivas que impliquen captación de recursos del público, los fideicomisos, mandatos y comisiones, las operaciones en el mercado de dinero, así como las operaciones financieras conocidas como derivadas que celebre la Institución.
+
+###### Artículo 10.
+
+El Gobierno Federal responderá en todo tiempo:
+
+I. De las operaciones que celebre la Institución con personas físicas o morales nacionales, y
+
+II. De las operaciones concertadas por la Institución con instituciones del extranjero privadas, gubernamentales o intergubernamentales.
+
+###### Artículo 11.
+
+En adición a lo dispuesto en el penúltimo párrafo del artículo 383 de la Ley General de Títulos y Operaciones de Crédito, y como excepción a lo dispuesto en el inciso a) de la fracción XIX del artículo 106 de la Ley de Instituciones de Crédito, en los contratos de fideicomiso que celebre la Institución, inclusive en aquellos que constituya para cumplir obligaciones laborales a su cargo, ésta podrá actuar en el mismo negocio como fiduciaria y como fideicomisaria y realizar operaciones con la propia Institución en el cumplimiento de fideicomisos.
+
+### CAPÍTULO II. Objetivos y operaciones
+
+###### Artículo 12.
+
+El capital social de la Institución estará representado por certificados de aportación patrimonial en un 66% de la serie "A" y en un 34% de la serie "B". El valor nominal de estos títulos se determinará en su Reglamento Orgánico.
+
+La serie "A" sólo será suscrita por el Gobierno Federal, se emitirá en un título que no llevará cupones, el cual será intransmisible y en ningún momento podrá cambiar su naturaleza o los derechos que le confiere al propio Gobierno Federal.
+
+La serie "B" podrá ser suscrita por el Gobierno Federal y por personas físicas o morales mexicanas de conformidad con lo dispuesto por el artículo 33 de la Ley de Instituciones de Crédito.
+
+###### Artículo 13.
+
+El capital neto a que se refiere el artículo 50 de la Ley de Instituciones de Crédito, será el que fije la Secretaría oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores.
+
+###### Artículo 14.
+
+La Secretaría podrá autorizar la adquisición de certificados de aportación patrimonial de la serie "B" conforme a lo establecido en el artículo 33 de la Ley de Instituciones de Crédito, por parte de personas morales mexicanas que tengan una participación extranjera y la inversión extranjera tenga por objeto proveer de tecnología, capacitación o capital de riesgo contribuyendo al cumplimiento del objeto y la realización de los objetivos a que se refieren los artículos 3 y 7 de esta Ley.
+
+###### Artículo 15.
+
+La Secretaría establecerá la forma, proporciones y demás condiciones aplicables a la suscripción, tenencia y circulación de los certificados de la serie "B".
+
+### CAPÍTULO IV. Administración
+
+###### Artículo 16.
+
+La administración de la Institución, estará encomendada a un Consejo Directivo y a un Director General, en sus respectivas esferas de competencia.
+
+###### Artículo 17.
+
+El Consejo Directivo estará integrado por nueve consejeros propietarios conforme a lo siguiente:
+
+I. Cinco consejeros propietarios representarán a la serie "A" de certificados de aportación patrimonial que serán:
+
+a) El Secretario de Hacienda y Crédito Público, quien presidirá el Consejo Directivo y el Subsecretario de Hacienda y Crédito Público.
+
+b) El Gobernador del Banco de México, los titulares de las Secretarías de Economía y de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+
+Por cada consejero propietario de esta serie, se deberá nombrar preferentemente a un suplente del nivel jerárquico inferior inmediato siguiente al de los propietarios.
+
+En ausencia del Secretario de Hacienda y Crédito Público, el Subsecretario de Hacienda y Crédito Público tendrá el carácter de presidente del Consejo Directivo;
+
+II. Dos consejeros propietarios de la serie "B" designados en asamblea por las personas físicas o morales mexicanas tenedoras de los certificados de aportación patrimonial de esta serie y por el Ejecutivo Federal, a través de la Secretaría, para el caso de que el Gobierno Federal suscriba certificados de esta serie. Los consejeros de la serie "B" no tendrán suplentes, y
+
+III. Dos consejeros independientes, designados de común acuerdo por los consejeros propietarios de las series "A" y "B". Los nombramientos de consejeros independientes deberán recaer en personas que por sus conocimientos, honorabilidad, prestigio profesional y experiencia sean ampliamente reconocidos.
+
+Los consejeros independientes no tendrán suplentes y deberán asistir cuando menos al setenta por ciento de las sesiones que se hayan convocado en un ejercicio, y en caso contrario, podrán ser designados otros con las mismas características en su lugar, siempre que las ausencias no se justifiquen en opinión del Consejo Directivo.
+
+El cargo de consejero es personal y no podrá desempeñarse por medio de representantes.
+
+###### Artículo 18.
+
+El Consejo Directivo se reunirá por lo menos seis veces al año, sin perjuicio de que lo haga en forma extraordinaria en cualquier tiempo, siempre que sea convocado por su presidente, o por cuando menos tres de los consejeros propietarios.
+
+Las sesiones del Consejo Directivo se celebrarán con la asistencia de por lo menos seis consejeros, siempre y cuando se cuente con la presencia de un consejero independiente y por lo menos tres consejeros de la serie "A", incluido el presidente del Consejo Directivo.
+
+Las resoluciones del Consejo Directivo se tomarán por mayoría de votos de los consejeros presentes, teniendo el presidente voto de calidad en caso de empate.
+
+El Consejo Directivo podrá invitar a sus sesiones, cuando así lo considere conveniente, a representantes de otras instituciones públicas y organizaciones del sector social o privado y en general a cualquier persona, que de conformidad con la opinión del Consejo Directivo desarrolle actividades relevantes para el cumplimiento de los objetivos de la Institución, quienes concurrirán con voz pero sin voto.
+
+Los consejeros tendrán la obligación de comunicar al presidente del consejo sobre cualquier situación de la que se pueda derivar un conflicto de interés y abstenerse de participar en la deliberación correspondiente. Asimismo, deberán mantener absoluta confidencialidad sobre todos aquellos actos, hechos o acontecimientos que pudieran afectar la operación de la Institución, mientras tal información no se haya hecho del conocimiento público, así como de las deliberaciones que se adopten en el Consejo Directivo.
+
+En el orden del día de las sesiones del Consejo Directivo, se deberán listar los asuntos a tratar, no pudiendo incluirse en dicho orden el rubro de asuntos generales.
+
+La documentación e información relacionada con los temas a tratar en las correspondientes sesiones del Consejo Directivo, deberá hacerse llegar a los consejeros por lo menos con 5 días hábiles de anticipación a la celebración de tales sesiones.
+
+###### Artículo 19.
+
+En ningún caso podrán ser consejeros:
+
+I. Las personas que se encuentren en los supuestos señalados en el artículo 23 de la Ley de Instituciones de Crédito;
+
+II. Las personas que ocupen un puesto de elección popular o de dirigencia partidista, mientras se encuentren en el ejercicio del mismo, y
+
+III. Las personas que tengan parentesco por consanguinidad o afinidad hasta el segundo grado o civil, con alguno de los consejeros.
+
+Si alguno de los consejeros propietarios designados llegare a encontrarse comprendido durante el ejercicio de su cargo, en cualquiera de los supuestos anteriores, será sustituido por su suplente, durante el tiempo que dure el impedimento y no se haga designación del consejero propietario.
+
+Adicionalmente, no podrán ser consejeros independientes:
+
+a) Las personas que tengan nexo patrimonial o vínculo laboral con la Institución, conforme a lo establecido en el Reglamento Orgánico;
+
+b) Las personas que tengan un nexo patrimonial o vínculo laboral con una persona física o moral que sea acreedor, deudor, cliente o proveedor importante de la Institución, conforme a lo establecido en el Reglamento Orgánico;
+
+c) Las personas que tengan conflicto de intereses con la Institución por ser clientes, proveedores, deudores, acreedores importantes o de cualquier otra naturaleza, conforme a lo establecido en el Reglamento Orgánico, y
+
+d) Las personas que tengan un vínculo laboral o la representación de asociaciones, gremios, federaciones, confederaciones de trabajadores, patrones, o de los Organismos de Integración y Entidades del Sector, o sean miembros de sus órganos directivos.
+
+###### Artículo 20.
+
+Son causas de remoción de los consejeros de la serie "B", de los consejeros independientes y del Director General:
+
+I. La incapacidad mental, así como la incapacidad física que impida el correcto ejercicio de sus funciones durante más de seis meses;
+
+II. No cumplir los acuerdos del Consejo Directivo o actuar deliberadamente en exceso o defecto de sus atribuciones;
+
+III. Utilizar, en beneficio propio o de terceros, la información confidencial de que disponga en razón de su cargo, así como divulgar la mencionada información sin la autorización del Consejo Directivo, y
+
+IV. Someter a sabiendas, a la consideración del Consejo Directivo información falsa.
+
+###### Artículo 21.
+
+El Consejo Directivo dirigirá a la Institución en los términos de lo previsto por el artículo 42 y demás relativos de la Ley de Instituciones de Crédito.
+
+El Consejo Directivo podrá acordar la realización de las operaciones inherentes al objeto de la Institución. Los acuerdos que en su caso dicte respecto a las operaciones previstas en las fracciones VI y IX del artículo 46 de la Ley de Instituciones de Crédito, deberán considerar la propuesta del Director General.
+
+###### Artículo 22.
+
+También serán facultades del Consejo Directivo, en los términos de la Ley de Instituciones de Crédito, las siguientes:
+
+I. Aprobar en su caso, el informe anual de actividades que le presente el Director General;
+
+II. Aprobar las reglas generales de operación de los planes de ahorro y demás instrumentos de captación que ofrezca la Institución, y las modificaciones a las mismas;
+
+III. Autorizar la adquisición y uso de tecnología a que se refiere la fracción III del artículo 7 de la presente Ley;
+
+IV. Aprobar los demás programas específicos y reglamentos internos de la Institución que le presente el Director General;
+
+V. Expedir con sujeción a los criterios de carácter general señalados en el artículo 134 constitucional las bases, procedimientos, reglas, requisitos, políticas, lineamientos y las normas conforme a las cuales la Institución deba contratar las adquisiciones, enajenaciones de bienes, arrendamientos, realización de obra inmobiliaria y prestaciones de servicios de cualquier naturaleza, que acreditarán la economía, eficacia, imparcialidad y honradez, que aseguren las mejores condiciones para la Institución, cuando las licitaciones públicas no sean idóneas para asegurar dichas condiciones;
+
+VI. Expedir las normas y criterios a los cuales deberá sujetarse la elaboración y ejercicio del presupuesto de gasto corriente y de inversión física de la Institución, así como aprobar dicho presupuesto y las modificaciones que corresponda efectuar durante el ejercicio, una vez autorizados los montos globales de estos conceptos por parte de la Secretaría;
+
+VII. Aprobar los tabuladores e incrementos de sueldos, pensiones o jubilaciones y demás prestaciones de carácter económico y de seguridad social que corresponda previa opinión y recomendación que en su caso emita el comité de sueldos y prestaciones, y
+
+VIII. Las demás que prevea el Reglamento Orgánico de la Institución, así como aquellas que señalen otras leyes, reglamentos, decretos, acuerdos y disposiciones administrativas aplicables.
+
+###### Artículo 23.
+
+La Institución tendrá un comité de sueldos y prestaciones, que estará integrado de la siguiente forma:
+
+Dos representantes de la Subsecretaría de Hacienda y Crédito Público;
+
+Un representante del Banco de México;
+
+Un miembro del consejo directivo que tenga el carácter de independiente y el Director General, y
+
+Un representante de la Comisión Nacional Bancaria y de Valores con voz, pero sin voto.
+
+El comité contará con un secretario técnico de la institución con voz y sin voto.
+
+Este comité opinará y propondrá en términos de las condiciones generales de trabajo, el pago, modificación, tabulación o incremento de sueldos, salarios, pensiones, jubilaciones y demás prestaciones económicas y de seguridad social establecidas en beneficio de los servidores públicos que laboren para la Institución. El Director General se abstendrá de participar en las sesiones del comité que tengan por objeto emitir opiniones o recomendaciones con respecto a sus prestaciones económicas y de seguridad social.
+
+Este comité sesionará a petición del director general de la Institución, quien enviará la convocatoria respectiva a los miembros del mismo, en donde establecerá el orden del día, así como el lugar y fecha para la celebración de la sesión.
+
+###### Artículo 24.
+
+El Director General será designado por el Ejecutivo Federal a través del Secretario de Hacienda y Crédito Público, debiendo recaer ese nombramiento en persona que reúna los requisitos que establece el artículo 24 de la Ley de Instituciones de Crédito.
+
+###### Artículo 25.
+
+El Director General tendrá a su cargo la administración y representación legal del Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, sin perjuicio de las atribuciones que correspondan al Consejo Directivo; al efecto tendrá las siguientes facultades y funciones:
+
+I. En el ejercicio de sus atribuciones de representación legal, podrá celebrar u otorgar toda clase de actos y documentos inherentes al objeto de la Institución. Contará para ello con las más amplias facultades para realizar actos de dominio, administración, pleitos y cobranzas, aun de aquellas que requieran autorización especial según otras disposiciones legales o reglamentarias. En tal virtud y de manera enunciativa y no limitativa, podrá emitir, avalar y negociar títulos de crédito, querellarse y otorgar perdón, ejercitar y desistirse de acciones judiciales inclusive en el juicio de amparo, comprometer en árbitros y transigir, otorgar poderes generales y especiales con todas las facultades que le competan, aun las que requieran cláusula especial, sustituirlos y revocarlos, y otorgar facultades de sustitución a los apoderados debiendo obtener autorización expresa del Consejo Directivo cuando se trate de otorgar poderes generales para actos de dominio;
+
+II. Ejecutar las resoluciones del Consejo Directivo;
+
+III. Llevar la firma de la Institución;
+
+IV. Actuar como Delegado Fiduciario General;
+
+V. Decidir la designación y contratación de los servidores públicos de la Institución, distintos de los señalados en la fracción I del artículo 42 de la Ley de Instituciones de Crédito, administrar al personal en su conjunto y establecer y organizar las oficinas de la institución;
+
+VI. Autorizar la publicación de los balances mensuales de la Institución, conforme a las bases acordadas por el Consejo Directivo;
+
+VII. Participar en las sesiones del Consejo Directivo;
+
+VIII. Las que le confiera el Reglamento Orgánico, y
+
+IX. Las que le delegue el Consejo Directivo.
+
+###### Artículo 26.
+
+Los Consejeros, el Director General y los Delegados Fiduciarios de la Institución, sólo estarán obligados a absolver posiciones o rendir testimonio en juicio en representación de la misma, cuando las posiciones y las preguntas se formulen por medio de oficio, el que contestarán por escrito dentro del término que señalen las autoridades respectivas.
+
+### CAPÍTULO V. Vigilancia
+
+###### Artículo 27.
+
+La vigilancia de la Institución estará encomendada a dos comisarios designados, uno por la Secretaría de Contraloría y Desarrollo Administrativo y el otro por los consejeros de la serie "B". Por cada comisario se nombrará el respectivo suplente.
+
+Los comisarios tendrán en los términos de la Ley de Instituciones de Crédito, y del Reglamento Orgánico de la Institución, las facultades y obligaciones que requieran para el adecuado cumplimiento de sus funciones, las que podrán ejercer conjunta o separadamente.
+
+### CAPÍTULO VI. Disposiciones generales
+
+###### Artículo 28.
+
+Conforme a las reglas generales de operación que autorice la Secretaría, los planes de ahorro; así como los demás instrumentos de captación que determine el Consejo Directivo, participarán en sorteos con derecho a premio durante todo el tiempo de su vigencia y hasta que sean pagados al depositante.
+
+Los sorteos serán públicos y se harán ante Notario Público o Corredor Público con la intervención de la Comisión Nacional Bancaria y de Valores, de acuerdo a las bases que al efecto establezca la Institución.
+
+###### Artículo 29.
+
+Los premios son una ganancia adicional y, en consecuencia, por ningún motivo se considerarán como un pago anticipado del valor de vencimiento de los planes de ahorro o de los demás instrumentos de captación que determine el Consejo Directivo.
+
+El derecho a recibir el pago del premio prescribe en un año, contado a partir de la fecha en que se haga la publicación de los resultados del sorteo respectivo, en un periódico de circulación nacional, o de su colocación en lugares abiertos al público en las sucursales de la propia Institución.
+
+###### Artículo 30.
+
+Los depósitos que se entreguen a la Institución, se documentarán en los recibos autorizados que emitan los sistemas de cómputo de la misma, siendo el único comprobante válido de la entrega de dinero por el depositante, así como para el rescate de aquéllos.
+
+###### Artículo 31.
+
+Cuando se cumplan los requisitos especificados en el contrato respectivo, para la emisión del estado de cuenta autorizado de las cantidades depositadas y retiradas, los asientos que figuren en la contabilidad de la Institución, harán fe, salvo prueba en contrario, en el juicio respectivo.
+
+###### Artículo 32.
+
+La Institución formulará anualmente sus programas operativos y financieros, así como las estimaciones de ingresos, de acuerdo a los lineamientos, medidas y mecanismos que al efecto establezca la Secretaría.
+
+A la Secretaría compete coordinar, evaluar y vigilar la actuación de la Institución en los términos del artículo 31 de la Ley de Instituciones de Crédito.
+
+La Institución, en el marco de la autonomía de gestión requerida para su eficaz funcionamiento, de conformidad con las disposiciones legales aplicables, procurará el mejor aprovechamiento y la canalización más adecuada de sus recursos.
+
+###### Artículo 33.
+
+Las operaciones realizadas por la Institución en la prestación del servicio de banca y crédito en las que se constituyan garantías reales, podrán hacerse constar en documento privado que, sin más formalidad, deberá ser inscrito por los encargados de los registros públicos correspondientes, en los términos del artículo 66 de la Ley de Instituciones de Crédito.
+
+###### Artículo 34.
+
+Previa autorización de la Secretaría, la Institución deberá constituir las reservas y fondos necesarios para el adecuado cumplimiento del objeto que esta Ley le encomienda. Las cantidades que se hayan llevado a dichas reservas y fondos no se considerarán remanentes de operación.
+
+Fijado el monto del remanente y separada la cantidad que corresponda pagar por el impuesto respectivo y por la participación de los trabajadores en las utilidades de la Institución, el saldo se aplicará en los términos previstos por el Reglamento Orgánico.
+
+###### Artículo 35.
+
+La Institución no estará obligada a constituir el Fideicomiso a que se refiere el artículo 55 Bis de la Ley de Instituciones de Crédito, cuando los recursos captados de manera directa, mediante actos causantes de pasivo directo, ya sea a través del gran público inversionista, de ventanilla o de cualquier otro medio, con el objeto de promover el ahorro popular conforme a su Reglamento Orgánico, se encuentren invertidos en valores gubernamentales; así como en aquellos que determine la Secretaría.
+
+###### Artículo 36.
+
+La Institución otorgará sus financiamientos únicamente a los Organismos de Integración regulados por la Ley de Ahorro y Crédito Popular que asuman parcial o totalmente el riesgo de recuperación de estos apoyos, en cumplimiento de su objeto conforme a lo señalado en el artículo 7 de esta Ley.
+
+No obstante lo anterior, la Institución podrá realizar las siguientes operaciones de financiamiento:
+
+I. La inversión accionaria y las inversiones en el mercado de dinero;
+
+II. Los financiamientos otorgados por la Institución por un monto total igual al porcentaje que determine el Consejo Directivo con autorización de la Secretaría;
+
+III. Las operaciones que correspondan a prestaciones de carácter laboral otorgadas de manera general;
+
+IV. Las operaciones realizadas con el gobierno federal, las entidades paraestatales, las entidades federativas y los municipios;
+
+V. Los financiamientos a proyectos de infraestructura, capacitación, tecnología, o cualquier otro servicio requerido por las Entidades de Ahorro y Crédito Popular o los Organismos de Integración regulados por la Ley de Ahorro y Crédito Popular;
+
+VI. Los financiamientos conjuntos a que se refiere la fracción VII del artículo 7 de esta Ley, y
+
+VII. Los financiamientos a las Entidades de Ahorro y Crédito Popular destinados a proveerlas de liquidez.
+
+Tratándose de los financiamientos que tengan por objeto proveer de liquidez a las Entidades de Ahorro y Crédito deberán quedar garantizados por el fondo de protección, que tengan constituido conforme a la Ley de Ahorro y Crédito Popular, en los términos y con las limitaciones que se establecen en esa misma Ley. El Consejo Directivo determinará en cada caso, las características de las garantías que las Entidades tendrán que otorgar.
+
+###### Artículo 37.
+
+La Institución enviará al Ejecutivo Federal por conducto de la Secretaría y ésta a su vez al Congreso de la Unión junto con los Informes sobre la Situación Económica, las Finanzas Públicas y la Deuda Pública y en los recesos de éste, a la Comisión Permanente, lo siguiente:
+
+I. En el informe de enero a marzo de cada año, una exposición sobre los programas de créditos y garantías a seguir por la Institución durante el ejercicio respectivo, indicando las políticas y criterios conforme a los cuales realizará sus operaciones a fin de coadyuvar al cumplimiento del Plan Nacional de Desarrollo, así como un informe sobre el presupuesto de gasto corriente y de inversión de la Institución, correspondiente a dicho ejercicio;
+
+II. En el informe de abril a junio de cada año, un informe sobre el cumplimiento del programa anual de la Institución durante el segundo semestre del ejercicio inmediato anterior y en general, sobre el ejercicio del gasto corriente y de inversión, así como de las actividades de la Institución en el conjunto de dicho ejercicio, y
+
+III. En el informe de julio a septiembre de cada año, un informe sobre el cumplimiento del programa anual de la Institución durante el primer semestre del ejercicio de que se trate.
+
+Asimismo, la Institución deberá publicar trimestralmente en dos periódicos de amplia circulación en el país, el estado que guarda el patrimonio, así como los indicadores más representativos de la situación financiera y de la administración de la Institución.
+
+### CAPÍTULO VII. Del Régimen Laboral
+
+###### Artículo 38.
+
+Las relaciones laborales entre la Institución y sus trabajadores se regirán por el artículo 123 apartado "B" fracción XIII bis de la Constitución Política de los Estados Unidos Mexicanos; por la Ley Reglamentaria de dicho precepto; y por las condiciones generales de trabajo que al efecto se determinen.
+
+## TRANSITORIOS
+
+Artículo Primero.- Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación. El Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, contará con ciento ochenta días hábiles contados a partir de la entrada en vigor de la presente Ley, para ajustar su operación y administración a lo dispuesto en esta Ley.
+
+Artículo Segundo.- La presente Ley abroga la Ley Orgánica del Patronato del Ahorro Nacional, publicada en el Diario Oficial de la Federación el 26 de diciembre de 1986 y deroga las demás disposiciones legales que se opongan a lo establecido en la presente Ley.
+
+Artículo Tercero.- El Ejecutivo Federal, en un plazo de 180 días contados a partir de la vigencia de esta Ley, expedirá el decreto mediante el cual se transforme el Patronato del Ahorro Nacional, Organismo Descentralizado del Gobierno Federal, en el Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, de acuerdo con las bases siguientes:
+
+I. La Secretaría de Hacienda y Crédito Público señalará la forma y términos en que deberá llevarse a cabo la transformación, cuidando en todo tiempo la adecuada protección de los intereses del público;
+
+II. La transformación surtirá efectos en la fecha que se indique en el decreto respectivo;
+
+III. Los acreedores del Patronato del Ahorro Nacional no podrán oponerse a la transformación.
+
+IV. El decreto a que se refiere este artículo, se inscribirá en el Registro Público de Comercio;
+
+V. Mientras se lleva a cabo la citada transformación, los aspectos operativos y administrativos seguirán rigiéndose por la Ley Orgánica del Patronato del Ahorro Nacional y demás disposiciones vigentes con anterioridad a la entrada en vigor de esta Ley, debiendo el Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, proveer lo necesario a efecto de que el Patronato del Ahorro Nacional continúe prestando de manera adecuada y eficiente sus servicios.
+
+VI. Una vez transformado y, hasta en tanto se aprueba el Reglamento Orgánico, se seguirá aplicando su estatuto orgánico;
+
+VII. La conformación de su capital social;
+
+VIII. El Director General, así como los consejeros y comisarios continuarán en el desempeño de sus funciones mientras no se realicen nuevas designaciones y los designados tomen posesión de sus cargos;
+
+IX. Los derechos de los trabajadores en todo momento serán respetados;
+
+X. Se entienden referidas al Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, las inscripciones y anotaciones marginales de cualquier naturaleza efectuadas en los registros públicos de la propiedad y del comercio, así como en cualquier otro registro del país, relativas al Patronato del Ahorro Nacional, respecto de inmuebles, muebles, marcas, todo tipo de contratos, convenios, comisiones de carácter mercantil y cualesquiera otras.
+
+Asimismo, corresponden al Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, las acciones, excepciones, defensas y recursos de cualquier naturaleza deducidos en los juicios o procedimientos administrativos en los que el Patronato del Ahorro Nacional, sea parte con anterioridad a la fecha en que surta efectos su transformación. Los poderes, mandatos y representaciones otorgados y las facultades concedidas por el organismo que se transforma, subsistirán en sus términos en tanto no sean modificados o revocados expresamente.
+
+Las autorizaciones, poderes, mandatos y demás actos jurídicos y medidas administrativas, otorgados, dictados o celebrados con fundamento en la Ley que se abroga, continuarán en vigor hasta en tanto no sean revocados o modificados por los órganos o autoridades competentes;
+
+XI. Llevada a cabo la transformación, cuando las leyes, reglamentos y disposiciones administrativas hagan referencia a la Ley Orgánica del Patronato del Ahorro Nacional, o al Patronato del Ahorro Nacional, se entenderá que se hace para esta Ley o para el Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en lo que no se oponga a la misma o a su naturaleza, y
+
+XII. Previo al inicio de operaciones, el Banco del Ahorro Nacional y Servicios Financieros, someterá a la aprobación de la Comisión Nacional Bancaria y de Valores, sus sistemas operativos, de procesamiento de información y de control interno, así como sus manuales de organización y operación.
+
+Artículo Cuarto.- El Reglamento Orgánico de la Institución deberá expedirse en un plazo no mayor de 180 días, contados a partir de la fecha de entrada en vigor de la presente Ley y deberá inscribirse en el Registro Público de Comercio de conformidad con lo establecido en el artículo 30 de la Ley de Instituciones de Crédito, así como sus modificaciones. Hasta en tanto, continuará en vigor el Estatuto Orgánico publicado en el Diario Oficial de la Federación el 18 de octubre de 2000.
+
+Artículo Quinto.- Los procedimientos de conciliación laboral que se hayan iniciado con anterioridad a la entrada en vigor de esta Ley, se continuarán tramitando hasta su total terminación conforme a lo establecido en las Condiciones Generales de Trabajo.
+
+Artículo Sexto.- Las operaciones que actualmente realiza el Patronato del Ahorro Nacional se seguirán rigiendo por las disposiciones y autorizaciones aplicables hasta en tanto se expida y apruebe su Reglamento Orgánico y sus Reglas de Operación.
+
+Artículo Séptimo.- Para los efectos de lo dispuesto por los artículos 17 y 18 de esta Ley, en tanto no se suscriban los certificados de aportación patrimonial de la serie "B", el Consejo Directivo estará integrado por cinco consejeros propietarios que representarán a los certificados de aportación patrimonial de la serie "A" y por dos consejeros independientes. Los consejeros independientes serán designados en la primer sesión de los cinco consejeros propietarios que representen a los certificados de aportación patrimonial de la serie "A".
+
+Las sesiones del Consejo Directivo se celebrarán con la asistencia de por lo menos cinco consejeros, siempre y cuando se cuente con la presencia de por lo menos tres consejeros de la serie "A", incluido el presidente del Consejo.
+
+Artículo Octavo.- Para los efectos del artículo 27 de esta Ley, en tanto no se suscriban los certificados de aportación patrimonial de la serie "B", la vigilancia de la Institución estará encomendada exclusivamente al comisario designado por la Secretaría de Contraloría y Desarrollo Administrativo.
+
+México, D.F., a 30 de abril de 2001.- Dip. Ricardo García Cervantes, Presidente.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Manuel Medellín Milán, Secretario.- Sen. Yolanda González Hernández, Secretaria.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de mayo de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
