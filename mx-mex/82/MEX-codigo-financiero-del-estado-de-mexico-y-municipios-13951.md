@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2001-12-31"
+last_updated: "2002-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE JUNIO DE 2002.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -3525,11 +3525,15 @@ XXIV. Por la expedición de hojas de servicio, por cada hoja. 0.38
 
 Por los servicios prestados por la Secretaría de Desarrollo Urbano y Obras Públicas, se pagarán los siguientes derechos:
 
-I. Por la supervisión de las obras de urbanización de fraccionamientos, conjuntos urbanos y en su caso de subdivisiones y condominios, se pagarán derechos equivalentes al 2% sobre el monto total del presupuesto aprobado, a costo directo, de las obras de urbanización.
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 10 DE JUNIO DE 2002)</small>
+
+I. Por la supervisión de las obras de urbanización, infraestructura y equipamiento de conjuntos urbanos lotificaciones condominales y en su caso de subdivisiones de más de 6,000 metros cuadrados de superficie, se pagarán derechos equivalentes al 2% sobre el monto total del presupuesto aprobado, a costo directo, de las obras de urbanización.
 
 En el caso de que no se hayan concluido las obras de urbanización del fraccionamiento, conjunto urbano y subdivisión o condominio en su caso, dentro del plazo fijado en la autorización correspondiente y se conceda prórroga, se pagará el 2% adicional sobre el importe del presupuesto aprobado a costo directo, de las obras por ejecutar en el período de vigencia de la prórroga.
 
-Tratándose de viviendas de interés social, social progresiva y popular, los derechos a que se refiere esta fracción se causarán a una tasa del 1%.
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2002)</small>
+
+Tratándose de conjuntos urbanos habitacionales de interés social, popular y social progresivo, los derechos a que se refiere esta fracción se causarán a una tasa del 1%.
 
 II. Por la conexión de la toma para el suministro de agua en bloque a municipios o sus descentralizadas, proporcionada por autoridades estatales o sus descentralizadas, se pagará de acuerdo a la siguiente:
 
@@ -3597,23 +3601,9 @@ Cuando estos servicios se presten de manera eventual, el pago deberá hacerse pr
 
 Los precios públicos relativos a los servicios a que se refiere esta fracción, deberán publicarse por la dependencia descentralizada, en el periódico oficial, veinte días naturales antes del inicio de la vigencia, donde se especifique y se explicite las causales y sus montos.
 
-(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000) (F. DE E., G.G. 3 DE ENERO DE 2002)
+IV. (DEROGADA, G.G. 10 DE JUNIO DE 2002)
 
-IV. Expedición de licencia estatal de uso de suelo con vigencia anual, 10.0 días de salario mínimo general vigente del área geográfica que corresponda.
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
-
-En el caso de que para la expedición de licencia de uso del suelo se requiera realizar estudios técnicos, se pagará una cuota equivalente a 50.0 veces el salario mínimo general vigente según área geográfica que corresponda. Cuando se trate solamente de inspección de campo, se pagará una cuota adicional equivalente a 25.0 veces el salario mínimo general vigente del área geográfica que corresponda.
-
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
-
-Tratándose de usos del suelo que generen un impacto significativo en su área de influencia, se pagará una cuota equivalente a 50.0 días de salario mínimo vigente del área geográfica que corresponda.
-
-Tratándose de viviendas de interés social, popular y social progresiva, no se pagarán los derechos previstos en el párrafo primero de esta fracción.
-
-> <small>(F. DE E., G.G. 3 DE ENERO DE 2002)</small>
-
-V. Cuando la licencia de uso del suelo, se expida por un período mayor al determinado en la fracción IV, o se emita prórroga, se pagarán derechos en forma proporcional por el período correspondiente.
+V. (DEROGADA, G.G. 10 DE JUNIO DE 2002)
 
 VI. Por la expedición de duplicados existentes en archivo, se pagarán los derechos conforme a la siguiente:
 
@@ -3645,31 +3635,31 @@ usuario 1.63
 
 La expedición certificada de estos documentos, pagará un tanto adicional de la tarifa anterior correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2002)</small>
 
-VII. Por la inscripción en el registro de peritos responsables de obras, se pagarán derechos equivalentes a 15.33 días de salario mínimo general vigente del área geográfica que corresponda.
+VII. Por la expedición de nombramientos de peritos responsables de obras se pagarán derechos equivalentes a 15.33 días de salario mínimo general vigente del área geográfica que corresponda.
 
-Por el refrendo anual de la inscripción en el Registro de Peritos se pagará el 50% de la tarifa establecida.
+Por el refrendo anual del nombramiento de perito responsable de obra, se pagará el 50% de la tarifa establecida.
 
 > <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 VIII. Por la conexión y descarga de aguas residuales y su tratamiento, así como por la conexión y suministro de agua residual tratada para uso no doméstico, se pagarán los precios públicos que emita, fije o autorice en su caso, la Comisión del Agua del Estado de México, previa opinión que emita la Secretaría de Desarrollo Urbano y Obras Públicas.
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+IX. (DEROGADA, G.G. 10 DE JUNIO DE 2002)
 
-IX. Por la autorización de cambios de uso del suelo, de densidad o intensidad de su aprovechamiento, así como por cambios de altura de edificaciones, se pagará una cuota equivalente a 50.0 días de salario mínimo general vigente del área geográfica que corresponda.
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2002)</small>
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+X. Por los dictámenes para usos de impacto regional o dictámenes de factibilidad para conjuntos urbanos se pagará una cuota de 20 días de salario mínimo general vigente del área geográfica que corresponda.
 
-X. Por los dictámenes de factibilidad de uso del suelo y de densidad e intensidad de su aprovechamiento, y de la altura de edificaciones, que no formen parte de los procedimientos a que se refieren los artículos 33 y 70 fracción I de la Ley de Asentamientos Humanos del Estado de México, se pagará una cuota equivalente a 10.0 días de salario mínimo general vigente del área geográfica que corresponda.
-
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
-
-XI. Por las cédulas informativas de zonificación, se pagará una cuota equivalente a 2.84 días de salario mínimo general vigente del área geográfica que corresponda.
+XI. (DEROGADA, G.G. 10 DE JUNIO DE 2002)
 
 > <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 XII. Por servicios de control necesarios para su ejecución, se cobrará un 2% a las compañías contratistas con quien se celebren contratos de obra pública o de servicios relacionados con la misma, sobre el importe de cada una de las estimaciones de trabajo generadas por las dependencias o entidades; la secretaría y las entidades en su caso, al realizar el pago de las estimaciones retendrá el importe respectivo.
+
+> <small>(ADICIONADA, G.G. 10 DE JUNIO DE 2002)</small>
+
+XIII. Por las constancias de viabilidad o de aprovechamientos (sic) inmobiliario se pagará una cuota de 3.0 días de salario mínimo general vigente del área geográfica que corresponda.
 
 ###### Artículo 95.
 
@@ -4901,6 +4891,8 @@ Por la expedición de guía sanitaria se pagará 0.76 días de salario mínimo g
 
 #### SECCION TERCERA. DE LOS DERECHOS DE DESARROLLO URBANO Y OBRAS PUBLICAS
 
+> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2002)</small>
+
 ###### Artículo 105.
 
 No pagarán estos derechos los propietarios de las empresas registradas en el Padrón Nacional de la Microindustria, así como las viviendas de tipos social progresivo, interés social y popular.
@@ -5332,6 +5324,24 @@ Industrial, Por cada 1,000 m2 de
 comercio y superficie vendible 179.85 105.73
 
 servicios
+
+> <small>(ADICIONADO, G.G. 10 DE JUNIO DE 2002)</small>
+
+Industrial Por cada 1,000 m2 de 179.85 105.73
+
+superficie vendible
+
+> <small>(ADICIONADO, G.G. 10 DE JUNIO DE 2002)</small>
+
+Agroindustrial. Por cada 1,000 m2 de 179.85 105.73
+
+superficie vendible
+
+> <small>(ADICIONADO, G.G. 10 DE JUNIO DE 2002)</small>
+
+Abasto, comercio Por cada 1,000 m2 de 179.85 105.73
+
+y servicios. superficie vendible
 
 > <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -6317,7 +6327,23 @@ En los casos de desastres como heladas, inundaciones, epidemias, sismos o de cam
 
 ###### Artículo 143.
 
-Están obligadas al pago de los derechos previstos en esta Sección, las personas físicas o morales que reciban cualesquiera de los siguientes servicios: autorización de licencia para construcción de obras nuevas con vigencia de un año, alineamiento y número oficial, subrogación de los derechos de titularidad de fraccionamientos, conjuntos urbanos, subdivisiones y condominios y su relotificación, de autorización para realizar obras de modificación o rotura de pavimento o concreto en calles o banquetas y para la instalación o permanencia anual de cables o tuberías subterráneas o aéreas en la vía pública, cuya expedición y vigilancia corresponde a las autoridades de obras públicas municipales, de acuerdo con los ordenamientos de la materia.
+Están obligadas al pago de los derechos previstos en esta Sección, las personas físicas o morales que reciban cualesquiera de los siguientes servicios, cuya expedición y vigilancia corresponde a las autoridades municipales en materia de desarrollo urbano, obras públicas o servicios públicos de acuerdo con los ordenamientos de la materia:
+
+I. Expedición de licencia para construcción de obras nuevas con vigencia de un año;
+
+II. Autorización por alineamiento y número oficial;
+
+III. Subrogación de los derechos de titularidad de fraccionamientos, conjuntos urbanos, subdivisiones y condominios y su relotificación;
+
+IV. Autorización para realizar obras de modificación o rotura de pavimento o concreto en calles o banquetas y para la instalación o permanencia anual de cables o tuberías subterráneas o aéreas en la vía pública;
+
+V. Expedición de licencias de uso de suelo;
+
+VI. Autorización de cambios de uso de suelo, de densidad e intensidad y altura de edificaciones;
+
+VII. Expedición de cédulas informativas de zonificación;
+
+VIII. Expedición de duplicados existentes en archivo.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -6579,19 +6605,61 @@ VII. Por servicios de control necesarios para su ejecución, se cobrará un 2% a
 
 Se exceptúan de la aplicación del pago de los derechos establecidos en esta fracción, las obras realizadas con cargo total o parcial a los recursos del Fondo para la Infraestructura Social Municipal, derivado del ramo 33.
 
-(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001) (F. DE E., G.G. 3 DE ENERO DE 2002)
+> <small>(ADICIONADA, G.G. 10 DE JUNIO DE 2002)</small>
 
-VIII. Expedición de licencia de uso de suelo, con vigencia anual, 10.0 días de salario mínimo general vigente del área geográfica que corresponda.
+VIII. Por la expedición de licencias de uso de suelo, con vigencia anual, se pagará una cuota equivalente a 10.0 días de salario mínimo general vigente del área geográfica que corresponda.
 
-En el caso de que para la expedición de licencia de uso del suelo se requiera realizar estudios técnicos, se pagará una cuota equivalente a 50.0 veces el salario mínimo general vigente según el área geográfica que corresponda. Cuando se trate solamente de inspección de campo, se pagará una cuota adicional equivalente a 25.0 veces el salario mínimo general vigente del área geográfica que corresponda.
+En el caso de que para la expedición de licencia de uso del suelo se requiera de inspección de campo, se pagará una cuota adicional equivalente a 25.0 días de salario mínimo general vigente del área geográfica que corresponda.
 
-Tratándose de usos del suelo que generen un impacto significativo en su área de influencia, se pagará una cuota equivalente a 50.0 días de salario mínimo general vigente del área geográfica que corresponda.
+Cuando se requiera realizar estudios técnicos, se pagará una cuota equivalente a 50.0 días de salario mínimo general vigente del área geográfica que corresponda.
 
-Tratándose viviendas de interés social, popular y social progresivo, no se pagarán los derechos previstos en el párrafo primero de esta fracción.
+Tratándose (sic) viviendas de interés social, popular y social progresivo, no se pagarán los derechos previstos en el párrafo primero de esta fracción.
 
-(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001) (F. DE E., G.G. 3 DE ENERO DE 2002)
+> <small>(ADICIONADA, G.G. 10 DE JUNIO DE 2002)</small>
 
-IX. Cuando la licencia de uso del suelo, se expida por un período mayor al determinado en la fracción IV, o se emita prórroga, se pagarán derechos en forma proporcional por el período correspondiente.
+IX. Cuando la licencia de uso del suelo, se expida por un periodo mayor al determinado en la fracción VIII, o se emita prórroga, se pagarán derechos en forma proporcional por el período correspondiente.
+
+> <small>(ADICIONADA, G.G. 10 DE JUNIO DE 2002)</small>
+
+X. Por la autorización de cambios de uso del suelo, de densidad e intensidad de su aprovechamiento, así como por cambios de altura de edificaciones, se pagará una cuota equivalente a 50.0 días de salario mínimo general vigente del área geográfica que corresponda.
+
+> <small>(ADICIONADA, G.G. 10 DE JUNIO DE 2002)</small>
+
+XI. Por la expedición de cédulas informativas de zonificación, se pagará una cuota equivalente a 2.84 días de salario mínimo general vigente del área geográfica que corresponda.
+
+> <small>(ADICIONADA, G.G. 10 DE JUNIO DE 2002)</small>
+
+XII. Por la expedición de duplicados existentes en archivo, se pagarán los derechos conforme a la siguiente:
+
+TARIFA
+
+CONCEPTO Número de Salarios Mínimos
+
+Generales Vigentes del Área
+
+Geográfica que corresponda.
+
+A). Por el duplicado de la
+
+primera hoja. 0.77
+
+B). Por el duplicado de
+
+las subsecuentes. 0.08
+
+C). Por duplicado de
+
+cada plano. 2.30
+
+D). Por duplicado de
+
+planos con material
+
+proporcionado por
+
+el usuario. 1.63
+
+Por la expedición certificada de estos documentos, se pagará un tanto adicional de la tarifa anterior correspondiente.
 
 ###### Artículo 145.
 
@@ -10640,3 +10708,9 @@ G.G. 31 DE DICIEMBRE DE 2001.
 PRIMERO.- El presente Decreto entrará en vigor a partir el 1 de enero de 2002.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.G. 10 DE JUNIO DE 2002.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
