@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2004-10-02"
+last_updated: "2004-11-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 2004.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -195,9 +195,9 @@ IV.- Las intervenciones consistirán en comentarios generales en torno al docume
 
 V.- Quedan prohibidas las imputaciones irrespetuosas y en forma de diálogo.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2004)</small>
 
-Una vez recibido el informe, el Presidente lo turnará a una comisión especial para su análisis a fin de que dentro del término de cuarenta y cinco días emita una opinión al Pleno. El mismo trámite se le dará a los informes que rindan los servidores públicos a que se refiere el párrafo segundo del artículo 96 de la Constitución Local. En ambos casos el Pleno podrá acordar a petición de la Comisión que se remitan a los presentadores del informe las observaciones que se estime pertinentes las que, en ningún caso, serán vinculantes.
+Una vez recibido el informe el Presidente lo turnará a una comisión especial para su análisis a fin de que dentro del término de cuarenta y cinco días emita una opinión al Pleno. Asimismo, esta Comisión Especial tendrá a su cargo el análisis del Plan Estatal de Desarrollo, así como el seguimiento del mismo en forma semestral presentando sus conclusiones al Pleno. El mismo trámite se le dará a los informes que rindan los servidores públicos a que se refiere el párrafo segundo del artículo 96 de la Constitución Local. En ambos casos el Pleno podrá acordar a petición de la Comisión que se remitan a los presentadores del informe las observaciones que se estime pertinentes las que, en ningún caso, serán vinculantes.
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2004)</small>
 
@@ -381,11 +381,11 @@ Corresponde a la Mesa Directiva, bajo la autoridad de su Presidente, preservar l
 
 ###### Art. 30.
 
-Son atribuciones del presidente de la mesa directiva:
+Son atribuciones del Presidente de la Mesa Directiva:
 
 I.- Dirigir y coordinar la acción de la misma y ostentar la representación oficial del Congreso;
 
-II.- Adoptar las medidas necesarias para la organización del trabajo de las sesiones del pleno;
+II.- Adoptar las medidas necesarias para la organización del trabajo de las sesiones del Pleno;
 
 III.- Asistir con voz y voto a las reuniones de la Junta de Coordinación Parlamentaria;
 
@@ -1970,3 +1970,13 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 P.O. 2 DE OCTUBRE DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE NOVIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+Una vez iniciado el Periodo Ordinario de Sesiones, dentro del Primer Año de Ejercicio Constitucional, la Junta de Coordinación Parlamentaria propondrá al Pleno la designación la Comisión Especial a que se refiere el presente decreto, cuando el Ejecutivo del Estado haga uso de la facultad que le confiere el artículo 55 en relación con el 93 fracción IXX.(sic) de la Constitución Política del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
