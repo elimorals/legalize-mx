@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2000-12-13"
+last_updated: "2001-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2001.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -595,21 +595,23 @@ Si el reconocimiento se hiciere en oficinas distintas de aquélla en que se leva
 
 De las actas de adopción.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 84.
 
-Dictada la resolución judicial definitiva que autorice la adopción, el adoptante o los adoptantes, dentro del término de quince días, presentarán al Oficial del Registro Civil de su domicilio copia certificada de la misma, a efecto de que se asiente el acta respectiva.
+Dictada la resolución judicial definitiva que autorice la adopción, o la adopción plena, el adoptante o los adoptantes, dentro del término de quince días, presentará al Oficial del Registro Civil, copia certificada de la misma, a efecto de que se levante el acta correspondiente. El juez en todo caso, enviará al Registro Civil la copia mencionada para que se levante el acta que proceda.
 
 ###### Artículo 85.
 
 La falta de registro de la adopción no quita a ésta sus efectos legales, pero sujeta al responsable a la pena señalada en el artículo 81.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 86.
 
-El acta de adopción contendrá: nombre propio, apellidos, sexo, fecha y lugar de nacimiento, edad y domicilio del adoptado; nombre, edad, estado civil, domicilio y nacionalidad del adoptante o adoptantes, y los datos esenciales de la resolución judicial, fecha de ésta y Autoridad que la dictó.
+El acta de adopción contendrá, nombre propio, apellidos, sexo, fecha y lugar de nacimiento, edad y domicilio del adoptado, nombre, edad, estado civil, domicilio y nacionalidad el (sic) adoptante o adoptantes, nombre y demás datos de la persona o personas que hayan dado su consentimiento para la adopción, y los datos esenciales de la resolución judicial, fecha que causó ejecutoria ésta, y la autoridad que la dictó.
+
+Cuando se haya autorizado la adopción plena, se anotarán los datos en el acta de nacimiento originaria, la cual quedará reservada y no se publicará, ni se expedirá constancia que revele el origen del adoptado ni su condición de tal, salvo providencia dictada en juicio; y se expedirá acta en los mismos términos que para los hijos consanguíneos.
 
 ###### Artículo 87.
 
@@ -1869,9 +1871,13 @@ El parentesco de consanguinidad es el que existe entre personas que descienden d
 
 El parentesco de afinidad es el que contrae por el matrimonio, entre el varón los parientes de la mujer y entre la mujer y los parientes del varón.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 288.
 
-El parentesco civil es el que nace de la adopción, y sólo existe entre el adoptante y el adoptado.
+El parentesco civil es el que nace de la adopción y, solo existe entre el adoptante y el adoptado.
+
+La adopción plena, es aquella que se equipara al parentesco por consanguinidad para todos los efectos legales.
 
 ###### Artículo 289.
 
@@ -1923,9 +1929,13 @@ Faltando los parientes a que se refieren las disposiciones anteriores, tienen ob
 
 Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores, mientras éstos llegan a la edad de dieciocho años. También deben alimentar a sus parientes dentro del grado mencionado, que fueren incapaces.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 300.
 
 El adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen el padre y los hijos.
+
+En virtud de que por la adopción plena se equipara al parentesco por consanguinidad, en este caso, se aplicarán las reglas de los artículos anteriores.
 
 ###### Artículo 301.
 
@@ -2189,6 +2199,8 @@ Si el que está en posesión de los derechos de padre o de hijo fuere despojado 
 
 De la adopción.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 347.
 
 El matrimonio subsecuente de los padres hace que se tenga como nacidos de matrimonio a los hijos habidos antes de su celebración.
@@ -2383,7 +2395,7 @@ De los efectos de la patria potestad respecto de los bienes del hijo.
 
 ###### Artículo 382.
 
-El mayor de veinticinco años, libre de matrimonio en pleno ejercicio de sus derechos, puede adoptar uno o más menores o a un incapacitado, aun cuando éste sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que acredite además:
+El mayor de veinticinco años, libre de matrimonio en pleno ejercicio de sus derechos, pueden (sic) adoptar uno o más menores o a un incapacitado, aún cuando éste sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que acredite además:
 
 I.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como de hijo propio, según las circunstancias de la persona que trata de adoptar;
 
@@ -2391,7 +2403,11 @@ II.- Que la adopción es benéfica para la persona que trata de adoptarse; y
 
 III.- Que el adoptante es persona de buenas costumbres.
 
-Cuando circunstancias especiales lo aconsejen, el juez puede autorizar la adopción de dos o más incapacitados o de menores e incapacitados simultáneamente.
+Cuando circunstancias especiales lo aconsejen, el Juez puede autorizar la adopción de dos o más incapacitados o de menores e incapacitado simultáneamente.
+
+Con los mismos presupuestos anteriores, se instituye la adopción plena con efectos irrevocables, en los términos establecidos por este Código, a favor de menores de ocho años de edad abandonados, expósitos o los que sean entregados al Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit o a instituciones de asistencia privada autorizadas para promover su adopción.
+
+El adoptado bajo la forma de adopción plena, se equipara al hijo consanguíneo para todos los efectos legales.
 
 ###### Artículo 383.
 
@@ -2445,19 +2461,29 @@ El procedimiento para hacer la adopción será fijado en el Código de Procedimi
 
 Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 393.
 
 El Juez que apruebe la adopción remitirá copias de las diligencias respectivas al Oficial del Registro Civil del lugar para que se levante el acta correspondiente.
 
+En la adopción plena, la resolución judicial que la apruebe, contendrá la orden al Oficial del Registro Civil, para que cancele los efectos del acta de nacimiento del adoptado, así como para que levante acta de nacimiento en la que figuren como padres, el o los adoptantes y como hijo el adoptado, y demás datos que se requieran conforme a este Código. Sin hacer mención sobre la adopción.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 394.
 
 Los derechos y obligaciones que nacen de la adopción, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio, respecto de los cuales se observará lo que dispone el artículo 153.
 
+En la adopción plena, el parentesco se extenderá a todos los ascendientes, descendientes y colaterales del o de los adoptantes; así como a los descendientes del adoptado.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 395.
 
-Los derechos y obligaciones que resultan del parentesco natural, no se extinguen por la adopción excepto la patria potestad, que será transferida al adoptante, salvo que en su caso esté casado con alguno de los progenitores del adoptado, porque entonces se ejercerá por ambos cónyuges.
+Los derechos y obligaciones que resultan del parentesco natural, no se extinguen por la adopción, excepto la patria potestad, que será transferida al adoptante, salvo que en su caso, esté casado con alguno de los progenitores del adoptado, porque entonces se ejercerá por ambos cónyuges.
+
+En la adopción plena, los parientes naturales, ascendientes y colaterales del adoptado no conservarán ningún derecho sobre el mismo, quedando éste exento de deberes para con ellos, pero conservando sus derechos sucesorios por naturaleza.
 
 ###### Artículo 396.
 
@@ -2498,6 +2524,12 @@ En el segundo caso del artículo 397, la adopción deja de producir efectos desd
 ###### Artículo 402.
 
 Las resoluciones que dicten los Jueces aprobando la revocación, se comunicarán al Oficial del Registro Civil del lugar en que aquélla se hizo para que cancele el acta de adopción.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
+
+###### Artículo 402 Bis.
+
+Las disposiciones de este Capítulo, serán aplicables a la adopción plena, en cuanto no se opongan a su naturaleza jurídica.
 
 ## TITULO OCTAVO
 
@@ -2547,9 +2579,11 @@ Cuando los padres del hijo nacido fuera de matrimonio, que vivían juntos se sep
 
 A falta de padres, ejercerán la patria potestad sobre el hijo los demás ascendientes a que se refieren las fraccion-s (sic) II y III del artículo 406, en el orden que determine el juez de Primera Instancia, tomando en cuenta las circunstancias del caso.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 411.
 
-La patria potestad sobre el hijo adoptivo, la ejercerán únicamente las personas que lo adopten.
+La patria potestad sobre el hijo adoptivo, la ejercerán únicamente las personas que lo adopten. En la adopción plena el ejercicio será como hijo consanguíneo.
 
 ###### Artículo 412.
 
@@ -2697,7 +2731,9 @@ II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 27
 
 III.- Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes pudiere comprometerse la salud, la seguridad o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la ley penal;
 
-IV.- Por la exposición que el padre o la madre hicieren de sus hijos, o porque los dejen abandonados por más de seis meses.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2001)</small>
+
+IV.- Por la exposición que el padre o la madre hicieren de sus hijos, o porque los dejen abandonados por más de seis meses o porque acepten ante el Juez Familiar entregarlos al sistema para el Desarrollo Integral de la Familia del Estado de Nayarit o a una institución de asistencia privada legalmente autorizada para ello, para que sean dados en adopción, conforme al procedimiento fijado por el Código de Procedimientos Civiles.
 
 ###### Artículo 437.
 
@@ -2955,9 +2991,11 @@ De las personas inhábiles para el desempeño de la tutela y de las que deben se
 
 La ley coloca a los expósitos bajo la tutela de la persona que los haya acogido, quien tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 484.
 
-Los directores de las inclusas, hospicios, y demás casas de beneficencia donde se reciban expósitos, desempeñarán la tutela de éstos con arreglo a las leyes y a lo que prevengan los estatutos del establecimiento.
+Los directores de las inclusas, hospicios, y demás casas de beneficencia donde se reciban expósitos, desempeñarán la tutela de éstos con arreglo a las leyes y a lo que prevengan los estatutos del establecimiento. Bajo las mismas circunstancias quedarán los menores entregados y aceptados, conforme a lo señalado en la parte final de la fracción IV del artículo 436.
 
 ###### Artículo 485.
 
@@ -9403,9 +9441,9 @@ Revocada o reducida una donación por inoficiosa, el donatario sólo responderá
 
 Del mutuo.
 
-### CAPITULO III
+### CAPITULO II
 
-De los derechos y obligaciones del arrendatario.
+De los derechos y obligaciones del arrendador.
 
 ###### Artículo 1756.
 
@@ -9453,9 +9491,9 @@ En el caso de haberse pactado que la restitución se hará cuando pueda o tenga 
 
 No se declararán nulas las deudas contraídas por el menor para proporcionarse los alimentos que necesite cuando su representante legítimo se encuentre ausente.
 
-### CAPITULO II
+### CAPITULO III
 
-De los derechos y obligaciones del arrendador.
+De los derechos y obligaciones del arrendatario.
 
 ###### Artículo 1765.
 
@@ -9615,8 +9653,6 @@ III.- Cuando el contrato fuere por tiempo indeterminado, si el arrendador autori
 
 Las mejoras a que se refieren las fracciones II y III del artículo anterior deberán ser pagadas por el arrendador, no obstante que en el contrato se hubiese estipulado que las mejoras quedasen a beneficio de la cosa arrendada.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE NOVIEMBRE DE 1989)</small>
-
 ### CAPITULO VI
 
 Del arrendamiento de bienes muebles.
@@ -9720,6 +9756,8 @@ Si el arrendamiento debe ser inscrito en el Registro sólo vale el inscrito.
 ###### Artículo 1819.
 
 En los arrendamientos que han durado más de cinco años y cuando el arrendatario ha hecho mejoras de importancia en la finca arrendada, tiene éste derecho, si está al corriente en el pago de la renta, a que, en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrendamiento de la finca. También gozará del derecho del tanto si el propietario quiere vender la finca arrendada, aplicándose en lo conducente lo dispuesto en los artículos 1676 y 1677.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE NOVIEMBRE DE 1989)</small>
 
 ### CAPITULO VII
 
@@ -14589,9 +14627,11 @@ Si solo quedaren descendientes de ulterior grado, la herencia se dividirá por e
 
 Concurriendo hijos con ascendientes, éstos solo tendrán derecho a alimentos, que en ningún caso pueden exceder de la porción de uno de los hijos.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 2726.
 
-El adoptado hereda como un hijo, pero no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+El adoptado hereda como un hijo, pero no hay derecho de sucesión entre el adoptado y los parientes del adoptante, salvo en el caso de la adopción plena, en que el adoptado se equipara al hijo consanguíneo y por lo mismo, concurre a la sucesión como tal.
 
 ###### Artículo 2727.
 
@@ -14627,13 +14667,17 @@ Si hubiere ascendientes por ambas líneas, se dividirá la herencia en dos parte
 
 Los miembros de cada línea dividirán entre sí por partes iguales la porción que les corresponda.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 2734.
 
-Concurriendo los adoptantes con ascendientes del adoptado, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes.
+Concurriendo los adoptantes con ascendientes del adoptado, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes, excepto cuando haya sido adopción plena, pues en este caso sólo heredan los adoptantes.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 2735.
 
-Si concurre el cónyuge del adoptado con los adoptantes, las dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte a los que hicieron la adopción.
+Si concurre el cónyuge del adoptado con los adoptantes, las dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte a los que hicieron la adopción. Si la adopción fue plena, entonces se aplicará el artículo 2740 de este Código.
 
 ###### Artículo 2736.
 
@@ -15564,3 +15608,9 @@ P.O. 13 DE DICIEMBRE DE 2000
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2001
+
+PRIMERO.- Se derogan todas aquellas disposiciones legales que contravengan el contenido de este Decreto.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno de Nayarit.
