@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "1997-02-28"
+last_updated: "1997-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 1997.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -4851,7 +4851,9 @@ La Institución a que se refiere el artículo anterior, estará a cargo de la Di
 
 El Director del Registro del Estado Civil será abogado, procurándose que también lo sean los Jueces del Registro del Estado Civil.
 
-El Secretario de Gobernación habilitará a una persona para sustituir al Juez del Registro Civil, cuando por cualquier circunstancia el titular no desempeñe su función. Este suplente no podrá ser el Director del Registro Civil.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1997)</small>
+
+El Secretario de Gobernación nombrará a Jueces Itinerantes, con jurisdicción en todo el territorio del Estado, quienes podrán desempeñar sus funciones en coordinación y para efectos de informe con el Juez del Registro Civil del Municipio o de la localidad correspondiente.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 1992)</small>
 
@@ -4961,9 +4963,11 @@ Para probar el estado civil adquirido por poblanos fuera de la República Mexica
 
 Los actos del estado civil relativos a la misma persona, deberán anotarse, en el acta de nacimiento de ésta y las anotaciones se insertarán en todos los testimonios que se expidan.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1997)</small>
+
 ###### Artículo 855.
 
-Los Juzgados del Registro del Estado Civil estarán bajo la coordinación, inspección y vigilancia de la Dirección del Registro Civil de acuerdo con las Leyes y Reglamentos aplicable.
+Los Juzgados del Registro del Estado Civil y los Jueces Itinerantes, estarán bajo la coordinación, inspección y vigilancia de la Dirección del Registro del Estado Civil, de acuerdo con las Leyes y Reglamentos aplicables.
 
 #### Sección Cuarta.- Actas de Adopción. Artículos 881.- (DEROGADO, P.O. 15 DE DICIEMBRE DE 1992)
 
@@ -5057,7 +5061,9 @@ Si el nacimiento no se registra dentro de los plazos establecidos en los artícu
 
 I.- Antes que el menor cumpla dieciocho años de edad, el Juez del Registro Estado Civil, autorizará la inscripción de su nacimiento, e impondrá a quien declare éste una multa hasta por el importe de dos días de salario mínimo.
 
-II.- El registro de nacimiento de una persona que tenga más de 18 años de edad, sólo podrá ser autorizada por el Juez del Registro Civil, cuando lo ordene una sentencia ejecutoriada de un Juez competente.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1997)</small>
+
+II.- El registro de nacimiento de una persona que tenga más de dieciocho años de edad, sólo podrá ser autorizado por el Director del Registro del Estado Civil, una vez cumplidos los trámites que dispongan las Leyes y Reglamentos aplicables.
 
 #### Sección Quinta.- Actas de Tutela
 
@@ -5253,6 +5259,8 @@ El acta de divorcio contendrá los nombres, apellidos, edad, domicilio y naciona
 
 #### Sección Décima.- Rectificación de las actas del estado civil
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 1997)</small>
+
 ###### Artículo 912.
 
 Ningún entierro o cremación se hará sin autorización escrita, del Juez del Registro del Estado Civil, quien se asegurará prudentemente del fallecimiento.
@@ -5351,7 +5359,7 @@ Cuando se presente la persona declarada ausente o cuya muerte se presumía o se 
 
 ###### Artículo 930.
 
-La rectificación o modificación de una acta de estado civil, se hará ante el Poder Judicial y en virtud de sentencia de éste.
+La rectificación o modificación de un acta de estado civil, se hará ante el Poder Judicial y en virtud de sentencia de éste; salvo el reconocimiento que voluntariamente haga un padre de su hijo ante el Juez del Registro del Estado Civil correspondiente.
 
 ###### Artículo 931.
 
@@ -15055,7 +15063,7 @@ Si son varios los fiadores de un deudor por una sola deuda, se aplicarán las si
 
 I.- Cuando no haya convenio en contrario, responderá cada uno de ellos por la totalidad de la deuda;
 
-II.- Si sólo uno de los fiadores es demandado, podrá llamar al juicio a los demás para que se defiendan juntamente y en la proporción debida, o de igual manera estén a la (sic) resultas del mismo.
+II.- Si sólo uno de los fiadores es demandado, podrá llamar al juicio a los demás para que se defiendan juntamente y en la proporción debida, o de igual manera estén a las resultas del mismo.
 
 ###### Artículo 2771.
 
@@ -19450,3 +19458,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE SEPTIEMBRE DE 1997.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
+
+TERCERO.- Los procedimientos de registro extemporáneo de nacimiento previstos por el Artículo 875 Fracción II, que se reforma que se encuentran en trámite ante los Juzgados de lo Familiar del Estado, serán substanciados por dichos órganos jurisdiccionales hasta su autorización final.
