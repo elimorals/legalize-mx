@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-estatal-de-zonificacion-del-estado-de-jalisco-22539"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-10-27"
-last_updated: "2001-10-27"
+last_updated: "2003-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO ESTATAL DE ZONIFICACIÓN DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2003.
 
 Reglamento publicado en la Sección III al Número 42 del Periódico Oficial del Estado de Jalisco, el sábado 27 de octubre de 2001.
 
@@ -184,7 +184,9 @@ XLIX. Suelo urbanizado: aquel donde se ejecutaron las obras de urbanización aut
 
 L. Superficie edificable: el área de un lote o predio que puede ser ocupado por la edificación y corresponde a la proyección horizontal de la misma, excluyendo los salientes de los techos, cuando son permitidos. Por lo general, la superficie edificable coincide con el área de desplante;
 
-LI. Unidad Privativa: el conjunto de bienes cuyo aprovechamiento y libre disposición corresponden a un condominio, para efecto de este Reglamento es equivalente al índice de edificación;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2003)</small>
+
+LI. Unidad Privativa: el conjunto de bienes cuyo aprovechamiento y libre disposición corresponden a un condómino;
 
 LII. Urbanización: el proceso técnico para lograr a través de la acción material y de manera ordenada, la adecuación de los espacios que el ser humano y sus comunidades requieren para su asentamiento;
 
@@ -1102,11 +1104,17 @@ I. Altura máxima. Es la resultante de aplicar los coeficientes de ocupación y 
 
 II. Cajón de estacionamiento. Es el espacio para la detención momentánea o temporal de vehículos ya sea que este se encuentre en la calle, dentro o fuera del arroyo de circulación, o dentro de los predios o edificaciones;
 
-III. Frente mínimo de lote: la distancia frontal en metros lineales que deberá respetar un lote o unidad privativa;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2003)</small>
 
-IV. Superficie máxima del lote: la superficie máxima en metros cuadrados de un lote o unidad privativa que se deberá de respetar para determinada zona; y
+III. Frente mínimo de lote: la distancia frontal en metros lineales que deberá respetar un lote;
 
-V. Superficie mínima del lote: la superficie mínima en metros cuadrados de un lote o unidad privativa que se deberá respetar para determinada zona.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2003)</small>
+
+IV. Superficie máxima del lote: la superficie máxima en metros cuadrados de un lote que se deberá respetar para determinada zona; y
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2003)</small>
+
+V. Superficie mínima del lote: la superficie mínima en metros cuadrados de un lote que se deberá respetar en determinada zona.
 
 ### CAPITULO VII. Reglamentación de zonas de aprovechamiento de recursos naturales
 
@@ -4310,17 +4318,19 @@ En toda acción urbanística que se pretenda realizar, deberá conservarse la co
 
 En este capítulo se establecen los lineamientos de diseño, referentes a las características geométricas y operacionales, para todos los tipos de vialidades en las nuevas zonas a desarrollar sujetas a las consideraciones anteriores. En los cuadros 45, 46 y 47, mismos que se pueden apreciar al final de este capítulo, se define en forma resumida las normas básicas de diseño de los diferentes sistemas y tipos de vialidades y en los artículos posteriores se establecen las normas de manera desglosada.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2003)</small>
+
 ###### Artículo 302.
 
 Las vialidades tranquilizadas deberán contar con estacionamiento para visitantes previsto en playas especiales, con el número de cajones resultante de los siguientes indicadores:
 
 Para zonas tipo H4-H y H4-V: un cajón por cada 4 viviendas;
 
-Para zonas tipo H3-H y H3-V: un cajón por cada 3 viviendas;
+Para zonas tipo H3-H y H3-V: un cajón por cada 3 viviendas:
 
-Para los demás tipos de zonas: un cajón por cada 2 viviendas; y
+Para los demás tipos de zonas: un cajón por cada dos viviendas; y
 
-Este tipo de calles no podrán formar parte de las áreas de cesión para destinos de vialidad pública, por lo que serán sujetas a la propiedad en régimen de condominio u otras, con excepción de las zonas H4-H (habitacional plurifamiliar horizontal densidad alta), que en su caso puedan ser consideradas como públicas, para los efectos que señalan en el artículo 61 de este Reglamento.
+Este tipo de calles no podrán formar parte de las áreas de cesión para destinos de vialidad pública, por lo que serán sujetas a la propiedad en régimen de condominio u otras, con excepción de las zonas H4-H y H4-U (habitacional plurifamiliar y unifamiliar de densidad alta), que en su caso puedan ser consideradas como públicas, para los efectos que señalan en el artículo 61 de este Reglamento.
 
 ###### Artículo 303.
 
@@ -4530,7 +4540,9 @@ III. Anchura de los carriles de circulación: 3.50 metros;
 
 IV. Anchura de los carriles de estacionamiento: 2.50 metros;
 
-V. Anchura mínima de las aceras: 2.40 mínimo;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2003)</small>
+
+V. Anchura mínima de las aceras: de acuerdo a los señalado en el cuadro 46;
 
 VI. Anchura de la faja separadora central, o camellón central: este elemento es opcional, dependiendo de las características del diseño urbano, cuando se ubique su ancho mínimo será de 1.50 metros;
 
@@ -4933,6 +4945,8 @@ c) Cambiar el diseño de las principales intersecciones para lograr configuracio
 > <small>[N. DE E. VÉASE CUADRO 45 CARACTERÍSTICAS GEOMÉTRICAS SISTEMA VIAL PRIMARIO, EN LA SECCIÓN III DEL P.O. DE 27 DE OCTUBRE DE 2001, PÁGINA 162.]</small>
 
 > <small>[N. DE E. VÉASE CUADRO 46 SISTEMA VIAL SECUNDARIO, EN LA SECCIÓN III DEL P.O. DE 27 DE OCTUBRE DE 2001, PÁGINA 163.]</small>
+
+> <small>[N. DE E. VÉASE REFORMA AL CUADRO 46 EN LA SECCIÓN II DEL P.O. DE 29 DE MAYO DE 2003, PÁGINA 7.]</small>
 
 > <small>[N. DE E. VÉASE CUADRO 47 EN LA SECCIÓN III DEL P.O. DE 27 DE OCTUBRE DE 2001, PÁGINA 163.]</small>
 
@@ -5981,3 +5995,13 @@ HÉCTOR PÉREZ PLAZOLA
 EL SECRETARIO DE DESARROLLO URBANO
 
 ARQ. JOSÉ LUIS MACÍAS ROMANO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE MAYO DE 2003.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE "SE REFORMAN LOS ARTÍCULOS 3 FRACCIÓN LI, 36 FRACCIONES III, IV Y V, 302, 305 FRACCIÓN V Y CUADRO 46 DEL REGLAMENTO ESTATAL DE ZONIFICACIÓN".]
+
+PRIMERO.- Se derogan las disposiciones reglamentarias y administrativas que se opongan a lo previsto en el presente acuerdo.
+
+SEGUNDO.- El presente acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco”.
