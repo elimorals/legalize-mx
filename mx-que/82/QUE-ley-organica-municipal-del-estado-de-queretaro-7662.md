@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-7662"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-07-15"
-last_updated: "1996-12-31"
+last_updated: "1997-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 1996.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 1997.
 
 Ley publicada en el Número 28 del Periódico Oficial del Estado de Querétaro, el jueves 15 de julio de 1993.
 
@@ -1619,11 +1619,11 @@ Las obligaciones de los comisarios y el funcionamiento interno de las correccion
 
 ###### ARTICULO 154.
 
-En cada municipio habrá juzgados mixtos para la impartición de justicia, con base en la competencia señalada por la Ley Orgánica del Poder Judicial y cuyos Titulares serán nombrados y, en su caso, removidos por el Tribunal Superior de Justicia del Estado, previos los requisitos y formalidades fijados por dicho Ordenamiento.
+(DEROGADO, P.O. 20 DE MARZO DE 1997)
 
 ###### ARTICULO 155.
 
-Para el procedimiento ante los jueces municipales se estará a lo previsto en el Título Especial del Código de Procedimientos Civiles para el Estado.
+(DEROGADO, P.O. 20 DE MARZO DE 1997)
 
 ### CAPITULO SEGUNDO. De los Recursos Administrativos
 
@@ -2034,3 +2034,11 @@ La presente Ley entrará en vigor el día 1 de enero de 1997.
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a esta Ley.
+
+P.O. 20 DE MARZO DE 1997.
+
+## [N. DE E. TRANSITORIO DE LA “LEY QUE DEROGA LOS ARTÍCULOS 154 Y 155 DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
