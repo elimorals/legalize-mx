@@ -4,7 +4,7 @@ identifier: "VER-codigo-hacendario-municipal-para-el-estado-de-veracruz-de-26777
 country: "mx"
 rank: "codigo"
 publication_date: "2002-11-22"
-last_updated: "2003-03-21"
+last_updated: "2003-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 CODIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE MARZO DE 2003.
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO HACENDARIO PARA EL MUNICIPIO DE MINATITLAN, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN TERMINOS DEL ARTICULO 1 DEL CODIGO NUMERO 302 HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ-LLAVE, PUBLICADO EN LA G.O. DE 22 DE NOVIEMBRE DE 2002, QUEDARA SIN APLICACION DICHO ORDENAMIENTO EN EL MUNICIPIO DE MINATITLAN, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, A PARTIR DE LA VIGENCIA DEL CITADO CODIGO.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE AGOSTO DE 2003.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 22 de noviembre de 2002.
 
@@ -4105,7 +4107,7 @@ El Ayuntamiento tendrá los siguientes aprovechamientos:
 
 I. Multas administrativas: Todas las que no sean consideradas como multas fiscales en el presente Código;
 
-II. Reintegros e Indemnizaciones: Para el pago de reintegros e indemnizaciones se estará al dictamen de la autoridad correspondiente;
+II. Reintegros e Indemnizaciones: Para el pago de reintegros e indemnizaciones se estará al dictamen de la autoridad correspondiente.
 
 En el caso de que se cause un daño imprudencial o intencional a los bienes municipales, la autoridad determinará el monto de la indemnización atendiendo al valor comercial de los bienes dañados o al de su reparación;
 
@@ -5892,3 +5894,13 @@ TERCERO.- Los ordenamientos que aludan a la Ley de Deuda Pública Municipal del 
 CUARTO.- Las disposiciones relativas a la clasificación de predios suburbanos, de conformidad con lo previsto por el Artículo Sexto Transitorio de la Ley de Catastro del Estado de Veracruz-Llave, entrarán en vigor a partir del 1 de enero del año 2004.
 
 QUINTO.- En la aplicación de lo dispuesto por el artículo 202 de este Código, el Ayuntamiento cobrará a los establecimientos que operaban con anterioridad a la entrada en vigor del mismo, únicamente la cuota que corresponda a los derechos por el refrendo anual, previa comprobación de dicha circunstancia por parte de los interesados, mediante la exhibición de las cédulas de empadronamiento o de otros documentos probatorios.
+
+G.O. 26 DE AGOSTO DE 2003.
+
+PRIMERO.- El presente Código entrará en vigor el 1 de enero de 2004, previa publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+SEGUNDO.- En términos del artículo 1 del Código número 302 Hacendario Municipal para el estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del estado el 22 de noviembre de 2002, quedará sin aplicación dicho ordenamiento en el municipio de Minatitlán del estado de Veracruz de Ignacio de la Llave, a partir de la vigencia del presente Código.
+
+TERCERO.- Los ordenamientos que aludan a la Ley de Deuda Pública Municipal del Estado de Veracruz de Ignacio de la Llave y a la Ley de Hacienda Municipal del Estado de Veracruz de Ignacio de la Llave, abrogada y derogada, respectivamente, por el Código número 302 Hacendario Municipal para el estado de Veracruz de Ignacio de la Llave, así como a este último, se entenderán referidos al presente Código.
+
+CUARTO.- En la aplicación de lo dispuesto por el artículo 202 de este Código, el Ayuntamiento cobrará a los establecimientos que operaban con anterioridad a la entrada en vigor del mismo, únicamente la cuota que corresponda a los derechos por el refrendo anual, previa comprobación de dicha circunstancia por parte de los interesados, mediante la exhibición de las cédulas de empadronamiento o de otros documentos probatorios.
