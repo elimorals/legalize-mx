@@ -4,7 +4,7 @@ identifier: "FED-ley-de-navegacion-y-comercio-maritimos-588"
 country: "mx"
 rank: "ley"
 publication_date: "1963-11-21"
-last_updated: "1982-12-30"
+last_updated: "1985-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=588&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LNCM"
 
 LEY DE NAVEGACION Y COMERCIO MARITIMOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1985.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 21 de noviembre de 1963.
 
@@ -134,9 +134,11 @@ D.O.F. 23 DE DICIEMBRE DE 1974.
 
 A falta de disposición especial expresa, esta ley será aplicable en lo conducente y por analogía a la navegación interior.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1985)</small>
+
 ###### ARTICULO 8o.
 
-Las infracciones a esta ley y a sus reglamentos, excepto las que expresamente estén encomendadas a otras autoridades y que no constituyan delito, serán sancionadas por la Secretaría de Marina, previa audiencia del infractor, con multas de $100.00 hasta $100,000.00. Al efecto, al tenerse conocimiento de una posible infracción, se notificará debidamente al presunto responsable, emplazándolo para que dentro de un término de 15 días, que puede ampliarse a juicio de la autoridad si las circunstancias así lo requieren, ofrezca las pruebas que estime convenientes. El monto de la multa será fijado teniendo en cuenta la naturaleza de los hechos y las condiciones económicas del infractor. En caso de reincidencia, que se considerará como tal la repetición de un acto de la misma naturaleza en un lapso de seis meses, la Secretaría de Marina podrá imponer una multa hasta de $200,000.00.
+Las infracciones a esta Ley y sus reglamentos, excepto las que expresamente estén encomendadas a otras autoridades y que no constituyan delito, serán sancionadas por la Secretaría de Comunicaciones y Transportes, previa audiencia del infractor, con multa de diez hasta diez mil días de salario mínimo general vigente en el Distrito Federal y Area Metropolitana en el momento en que se cometa la infracción. Al efecto, al tenerse conocimiento de una posible infracción se notificará debidamente al responsable, emplazandolo para que ofrezca las pruebas que estime convenientes, dentro de un término de 15 días, que puede ampliarse a juicio de la autoridad si la circunstancia así lo requiere, hasta un máximo de 45 días naturales. El monto de la multa será fijado teniendo en cuenta la naturaleza de los hechos y las condiciones económicas del infractor. En caso de reincidencia, que se considerará como la repetición de un acto de la misma naturaleza en un lapso de 6 meses, la Secretaría de Comunicaciones y Transportes podrá imponer una multa equivalente hasta el doble de las cuantías señaladas.
 
 > <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 1975)</small>
 
@@ -1358,7 +1360,7 @@ La garantía de pago de crédito privilegiado se inscribirá en el Registro Púb
 
 ###### ARTICULO 126-C.
 
-La falta de cumplimiento por parte del deudor del contrato de hipoteca dará lugar a hacer efectiva la fianza constituida en términos del Artículo 126-B y a la dimisión de bandera del buque objeto del contrato.
+La falta de cumplimiento por parte del deudor del contrato de hipoteca dará lugar a hacer efectiva la fianza constituída en términos del Artículo 126-B y a la dimisión de bandera del buque objeto del contrato.
 
 ### CAPITULO IV. De la empresa marítima
 
@@ -2273,3 +2275,13 @@ D.O.F. 30 DE DICIEMBRE DE 1982.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor treinta días después de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE DICIEMBRE DE 1985.
+
+###### ARTICULO PRIMERO.
+
+Seguirán vigentes, en todo lo que no se oponga a la presente reforma, las disposiciones que se contienen en el Reglamento de la Ley de Navegación y Comercio Marítimos.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
