@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1980-07-16"
+last_updated: "1980-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 1980.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -737,9 +737,9 @@ II.- Sancionar, promulgar y ejecutar las Leyes y Decretos dados por el Poder Leg
 
 III.- Iniciar ante la Legislatura, las Leyes y Decretos que juzgue convenientes para el mejoramiento de la administración pública y pedirle que inicie ante el Congreso de la Unión, lo que sea de la competencia Federal.
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 1977)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 1980)</small>
 
-IV.- Presentar a la Legislatura, en la primera decena del mes de Diciembre, el Presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo.
+IV.- Presentar a la Legislatura en la primera decena del primer periodo ordinario de sesiones, el Presupuesto del gasto del año siguiente, proponiendo arbitrios para cubrirlo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MARZO DE 1977)</small>
 
@@ -1197,11 +1197,13 @@ La Contaduría del Estado tendrá una coordinación estrecha con la Contraloría
 
 Todo empleado de la Dirección General de Finanzas y Administración que tuviere manejo de caudales públicos, le caucionará competentemente en los términos que establezca la Ley.
 
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 1980)</small>
+
 ### CAPITULO UNICO. Prevenciones Generales
 
 ###### Art. 121.
 
-El año fiscal queda comprendido del primero de enero al treinta y uno de diciembre inclusive.
+El año fiscal queda comprendido del diecinueve de septiembre de cada año al dieciocho de septiembre del año siguiente inclusive.
 
 ###### Art. 121 Bis.
 
@@ -1375,7 +1377,7 @@ P.O. 12 DE DICIEMBRE DE 1929.
 
 El presente decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
 
-P.O. 5 DE ENERO DE 1930.
+P.O. 5 DE ENERO DE 1930
 
 El presente decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
 
@@ -1457,7 +1459,7 @@ P.O. 7 DE ENERO DE 1939.
 
 UNICO.- El presente Decreto surte sus efectos a partir del día primero de enero de mil novecientos treinta y nueve.
 
-P.O. 27 DE NOVIEMBRE DE 1940.
+P.O. 27 DE NOVIEMBRE DE 1940
 
 ART. PRIMERO.- Los juicios de responsabilidad oficial que se encuentren instaurados en contra de Ayuntamientos en general o de CC. Regidores en particular, se declaran sujetos a la revisión del H. Congreso, para lo cual el Magistrado del Supremo Tribunal o el Procurador General de Justicia del Estado, en su caso, remitirán al propio Congreso los expedientes respectivos dentro del término de diez días contados desde la fecha en que entre en vigor esta disposición.
 
@@ -1571,17 +1573,17 @@ DECRETO 5979, REFORMA ART. 42.
 
 UNICO.- Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
-P.O. 5 DE NOVIEMBRE DE 1977.
-
-DECRETO 5980, REFORMA ARTS. 37 Y 69.
-
-UNICO.- Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
-
 P.O. 22 DE ABRIL DE 1978.
 
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE NOVIEMBRE DE 1977.
+
+DECRETO 5980, REFORMA ARTS. 37 Y 69.
+
+UNICO.- Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 P.O. 18 DE JUNIO DE 1980.
 
@@ -1610,3 +1612,13 @@ UNICO.- Este Decreto entrará en vigor en la fecha de su publicación en el Peri
 P.O. 16 DE JULIO DE 1980.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE NOVIEMBRE DE 1980.
+
+###### ARTICULO PRIMERO.
+
+Sólo por lo que respecta al presente año, el Gobernador presentará ante el Congreso el Presupuesto de Gastos que comprenderá del primero de enero al dieciocho de septiembre de mil novecientos ochenta y uno en la primera decena del mes de diciembre de 1980.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
