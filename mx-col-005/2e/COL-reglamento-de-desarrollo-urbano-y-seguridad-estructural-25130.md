@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-desarrollo-urbano-y-seguridad-estructural-25130"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-25"
-last_updated: "2002-05-25"
+last_updated: "2003-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25130&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "COL"
 
 REGLAMENTO DE DESARROLLO URBANO Y SEGURIDAD ESTRUCTURAL PARA EL MUNICIPIO DE CUAUHTEMOC
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2003.
 
 Reglamento publicado en el Suplemento del Periódico del Estado de Colima, el sábado 25 de mayo del 2002.
 
@@ -54,7 +54,9 @@ Terminología.
 
 Para efectos del presente Reglamento, se entenderá por:
 
-I.- DIRECCION: A la Dirección de Desarrollo Urbano, Obras Servicios Públicos Municipales.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2003)</small>
+
+I.- DIRECCION: A la Dirección de Desarrollo Urbano y Obras Públicas Municipales.
 
 II.- LA LEY: Ley de Asentamientos Humanos del Estado de Colima.
 
@@ -192,7 +194,9 @@ Cuando exista una edificación o predio que presente peligro, insalubridad o mol
 
 Si vencido el plazo no se cumpliese dicha orden, la DIRECCION, podrá llevar a cabo administrativamente y a costa del interesado, la desocupación, obras requeridas o clausura.
 
-Dentro de los ocho días siguientes a la fecha en que se reciba la orden a la que se refieren los dos párrafos anteriores, el interesado podrá recurrir dicha orden, de acuerdo a lo consignado en los Artículos 103 al 105 del Reglamento General del Municipio de Cuauhtémoc, debiendo presentar dictamen de un Técnico Especializado con el registro correspondiente. El H. Ayuntamiento después de analizar la defensa del interesado, dictará la resolución procedente y en caso de incumplimiento, podrá ejecutarla como se dispone en el párrafo anterior.
+> <small>(REFORMADO, P.O, 22 DE MARZO DE 2003)</small>
+
+Dentro de los ocho días siguientes a la fecha en que se reciba la orden a la que se refieren los dos párrafos anteriores, el interesado podrá recurrir dicha orden, de acuerdo a lo consignado en el Código Fiscal Municipal, debiendo presentar dictamen de un Técnico Especializado con el registro correspondiente. El H. Ayuntamiento después de analizar la defensa del interesado, dictará la resolución procedente y en caso de incumplimiento, podrá ejecutarla como se dispone en el párrafo anterior.
 
 Autorizaciones Especiales.
 
@@ -3460,9 +3464,11 @@ Se entiende por reincidencia la infracción a una misma disposición reglamentar
 
 Recursos.-
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 367.
 
-Contra los acuerdos emitidos por la DIRECCION, los afectados podrán interponer el recurso de revisión previsto por los Artículos 103 a 105 del Reglamento General del Municipio de Cuauhtémoc y 120 al 128 de la Ley del Municipio Libre del Estado de Colima.
+Contra los acuerdos emitidos por la DIRECCION, los afectados podrán interponer el recurso de revisión previsto por los Artículos 120 a 128 de la Ley del Municipio Libre del Estado de Colima.
 
 ###### ARTICULO 368.
 
@@ -3487,3 +3493,9 @@ SEXTO.- Los trámites, que los particulares hayan iniciado con anterioridad a la
 SEPTIMO.- La DIRECCION expedirá las NORMAS a que se refiera este REGLAMENTO, que en este caso y en forma provisional, serán las del Municipio de Colima actualmente en vigor, en tanto no se expidan las correspondientes para el Municipio.
 
 OCTAVO.- Para la autorización de edificaciones, cuyo uso o destino sea distinto a viviendas unifamiliares o bifamiliares, y siempre que la factibilidad de uso del suelo no esté contemplado en los INSTRUMENTOS DE PLANEACION, o consignado uso diverso en la autorización definitiva del fraccionamiento, se deberá previamente recabar la conformidad del grupo de vecinos correspondientes, así como el Visto Bueno de la Dirección General de Desarrollo urbano y Obras Públicas del Estado, en tanto no se expida el Programa de Desarrollo Urbano respectivo.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE MARZO DE 2003.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
