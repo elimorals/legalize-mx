@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1937-06-29"
+last_updated: "1938-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 1937.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1938.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -393,7 +393,7 @@ XXIX. Conceder amnistía por delitos políticos e indultos y conmutación de pen
 
 XXX. Rehabilitar en los derechos de ciudadano a quienes tengan perdido o suspenso su ejercicio de acuerdo con las leyes.
 
-XXXI. Habilitar de edad a los menores que reúnan los requisitos exigidos por la ley.
+XXXI. Habilitar de edad a los menores que reunan los requisitos exigidos por la ley.
 
 XXXII. Fijar las bases para las concesiones que deba otorgar el Ejecutivo, en los casos que no haya una ley especial que las determine.
 
@@ -428,6 +428,10 @@ III. Al Supremo Tribunal de Justicia del Estado.
 IV. A los Ayuntamientos del Estado.
 
 V. A los ciudadanos sinaloenses.
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 1938)</small>
+
+VI. A los grupos legalmente organizados en el Estado.
 
 El reglamento interior del Congreso, especificará los trámites que tenga cada una de esas iniciativas.
 
@@ -965,11 +969,17 @@ La designación de Primer Regidor Presidente Municipal, Propietario y Suplente, 
 
 Los Ayuntamientos, en unión de un Representante por cada Partido Político, con voz pero sin voto, harán la calificación de las elecciones de funcionarios Municipales, en su jurisdicción, cuya calificación es revisable por el Congreso del Estado en el caso de la Fracción XXXIII bis del artículo 43 de la presente ley. Los propios Ayuntamientos harán la declaratoria respectiva una vez confirmada la calificación por el Congreso, en su caso.
 
-(REFORMADO, P.O. 6 DE OCTUBRE DE 1928) (F. DE E., 13 DE NOVIEMBRE DE 1928)
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1938)</small>
 
 ###### Art. 115.
 
-Las faltas temporales o absolutas del Presidente Municipal y Regidores, serán cubiertas por sus respectivos suplentes, las primeras por el tiempo que duren, y las segundas por mientras se hace nueva elección.
+Las faltas temporales del Presidente Municipal, cuando no excedan de cinco días, serán cubiertas por el Secretario del Ayuntamiento, con el carácter de Encargado del Despacho, bastando el aviso respectivo que dará el Presidente al propio Ayuntamiento.
+
+Cuando la falta excediere del tiempo señalado en el párrafo anterior, sólo podrá separarse de su puesto mediante licencia concedida por el Ayuntamiento y lo substituirá el Presidente Municipal Suplente. Más si éste no radicara en la cabecera o estuviera ausente de ella al faltar el titular, el Ayuntamiento nombrará de entre sus miembros, un Presidente Municipal Provisional. El Suplente del electo será llamado a substituirlo como Regidor.
+
+En ningún caso podrá un Presidente Municipal ausentarse del territorio del Estado - salvo por causa de fuerza mayor evidente– sin la previa autorización del Ayuntamiento. Cuando infringiere el anterior precepto, perderá automáticamente su carácter de funcionario y sólo podrá recuperarlo mediante el juicio respectivo.
+
+Las faltas temporales de los demás Regidores, serán cubiertas por sus respectivos suplentes, al igual que las absolutas de cualquier Regidor, por mientras se hace nueva elección.
 
 ###### Art. 116.
 
@@ -1283,23 +1293,13 @@ Queda absolutamente abolida la pena de muerte para los delitos políticos, y en 
 
 Esta Constitución es la ley fundamental del Gobierno interior del Estado y nadie podrá estar dispensado de acatar sus preceptos, los cuales no perderán su fuerza y vigor aun cuando por la violencia se interrumpa su observancia.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1938)</small>
+
 ###### Art. 159.
 
-Sólo el Congreso del Estado, en representación del pueblo sinaloense, podrá reformar esta Constitución, con sujeción de los siguientes requisitos:
+La presente Constitución puede ser adicionada o reformada.
 
-I. Toda iniciativa de reforma presentada al Congreso por funcionario o ciudadano alguno del Estado, tendrá su primera lectura, después de la cual se consultará a la Cámara si es de tomarse en consideración o no. Si previa discusión, se responde negativamente por unanimidad, se tendrá por desechada y así se comunicará a su autor. Si sólo una minoría está por la afirmativa, los Diputados que la sustenten se constituirán en Comisión para producir dictamen dentro de los diez días siguientes; más si fuere aprobada la iniciativa, por la mayoría absoluta de los Diputados presentes, la Cámara designará la Comisión que deba tener a su cargo la producción del dictamen.
-
-II. Presentado el dictamen en uno y otro caso de los señalados en la fracción anterior, se le dará lectura y se le designará un plazo no menor de diez días para su discusión, girando los avisos correspondientes al Ejecutivo; al Supremo Tribunal, a los Ayuntamientos y al autor de la iniciativa.
-
-III. Discutida en el día fijado la iniciativa, con o sin las enmiendas que el dictamen pudiere sugerir, se pondrá a votación, si es desechada por la mayoría absoluta de los Diputados presentes, se devolverá a su autor sin más gestión ulterior, más si fuere aprobada por dicha cantidad de votos, se remitirá al Ejecutivo para que mande publicarla con la exposición de los fundamentos y una invitación a las autoridades y ciudadanos del Estado, para emitir sus pareceres ante la Cámara, dentro de un plazo de diez días hábiles, contados desde la fecha de su publicación.
-
-IV. Vencido ese término, pasará el expediente a la misma Comisión, con las opiniones oficiales o particulares que se hubieren presentado, a (sic) Comisión producirá nuevo dictamen ratificando o modificando el anterior, que deberá finalmente discutirse en el décimo quinto día de presentado o al siguiente si no fuere útil. En la Convocatoria que oportunamente se lanzará, se invitará de nuevo a las autoridades mencionadas en la fracción II, y a los ciudadanos en general.
-
-V. En la sesión de la discusión final hablarán por orden de preferencia, el autor de la iniciativa, los miembros de la Comisión, los de los (sic) Diputados, los Representantes del Ejecutivo, del Supremo Tribunal y de los Ayuntamientos y los ciudadanos presentes. Sólo los Diputados tendrán voto y su mayoría de dos terceras partes de los presentes, decidirá definitivamente sobre la iniciativa.
-
-VI. Aprobada por el Congreso la reforma, se girará copia del expediente a cada Ayuntamiento, quienes deberán dar su voto dentro de los quince días siguientes, y aprobada por mayoría absoluta de ellos quedará incorporada la reforma en el texto de la Constitución. El Ayuntamiento que dejare de emitir su voto dentro del plazo designado, se le computará como afirmativo.
-
-VII. El Ejecutivo del Estado no podrá en manera alguna observar ni oponerse a sancionar y promulgar las reformas constitucionales aprobadas en los términos expresados en las fracciones que anteceden.
+Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que el Congreso del Estado, por voto de las dos terceras partes del número total de Diputados, acuerde las reformas o adiciones, y que éstas sean aprobadas por las dos terceras partes de los Ayuntamientos del Estado, dentro de los quince días siguientes a la fecha en que les fueren comunicadas. El Ayuntamiento que dejare de emitir su voto dentro del plazo asignado, se computará como afirmativo. El Congreso hará el cómputo de votos de los Ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas.
 
 TRANSITORIOS:
 
@@ -1378,3 +1378,7 @@ Artículo Primero. Surtirá sus efectos el artículo 36 desde la próxima Legisl
 Artículo Segundo. Los Diputados de la actual Legislatura, durarán en su encargo hasta el último día de noviembre del año de 1940.
 
 Artículo Tercero. Las presentes reformas entrarán en vigor a partir de la fecha de su publicación.
+
+P.O. 15 DE ENERO DE 1938.
+
+Artículo Unico.- El presente Decreto surte sus efectos desde el día de su publicación y deroga todas las disposiciones que se opongan a su cumplimiento.
