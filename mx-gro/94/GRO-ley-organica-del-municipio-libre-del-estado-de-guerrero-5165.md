@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "1993-02-09"
+last_updated: "1995-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -97,153 +97,159 @@ Los municipios del Estado de Guerrero conservarán la extensión territorial que
 
 1. Acapulco de Juárez;
 
-2. Ahuacuotzingo;
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 1995)</small>
 
-3. Ajuchitlán del Progreso;
+2. Acatepec;
 
-4. Alcozauca de Guerrero;
+3. Ahuacuotzingo;
 
-5. Alpoyeca;
+4. Ajuchitlán del Progreso;
 
-6. Apaxtla;
+5. Alcozauca de Guerrero;
 
-7. Arcelia;
+6. Alpoyeca;
 
-8. Atenango del Río;
+7. Apaxtla;
 
-9. Atlamajalcingo del Monte;
+8. Arcelia;
 
-10. Atlixtac;
+9. Atenango del Río;
 
-11. Atoyac de Alvarez;
+10. Atlamajalcingo del Monte;
 
-12. Ayutla de los Libres;
+11. Atlixtac;
 
-13. Azoyú;
+12. Atoyac de Alvarez;
 
-14. Benito Juárez;
+13. Ayutla de los Libres;
 
-15. Buenavista de Cuéllar;
+14. Azoyú;
 
-16. Coahuayutla de José María Izazaga;
+15. Benito Juárez;
 
-17. Cocula;
+16. Buenavista de Cuéllar;
 
-18. Copala;
+17. Coahuayutla de José María Izazaga;
 
-19. Copalillo;
+18. Cocula;
 
-20. Copanatoyac;
+19. Copala;
 
-21. Coyuca de Benítez;
+20. Copalillo;
 
-22. Coyuca de Catalán;
+21. Copanatoyac;
 
-23. Cuajinicuilapa;
+22. Coyuca de Benítez;
 
-24. Cualác;
+23. Coyuca de Catalán;
 
-25. Cuautepec;
+24. Cuajinicuilapa;
 
-26. Cuetzala del Progreso;
+25. Cualác;
 
-27. Cutzamala de Pinzón;
+26. Cuautepec;
 
-28. Chilapa de Alvarez;
+27. Cuetzala del Progreso;
 
-29. Chilpancingo de los Bravo;
+28. Cutzamala de Pinzón;
 
-30. Eduardo Neri;
+29. Chilapa de Alvarez;
 
-31. Florencio Villarreal;
+30. Chilpancingo de los Bravo;
 
-32. General Canuto A. Neri;
+31. Eduardo Neri;
 
-33. General Heliodoro Castillo;
+32. Florencio Villarreal;
 
-34. Huamuxtitlán;
+33. General Canuto A. Neri;
 
-35. Huitzuco de los Figueroa;
+34. General Heliodoro Castillo;
 
-36. Iguala de la Independencia;
+35. Huamuxtitlán;
 
-37. Igualapa;
+36. Huitzuco de los Figueroa;
 
-38. Ixcateopan de Cuauhtémoc;
+37. Iguala de la Independencia;
 
-39. José Azueta;
+38. Igualapa;
 
-40. Juan R. Escudero;
+39. Ixcateopan de Cuauhtémoc;
 
-41. Leonardo Bravo;
+40. José Azueta;
 
-42. Malinaltepec;
+41. Juan R. Escudero;
 
-43. Mártir de Cuilapan;
+42. Leonardo Bravo;
 
-44. Metlatónoc;
+43. Malinaltepec;
 
-45. Mochitlán;
+44. Mártir de Cuilapan;
 
-46. Olinalá;
+45. Metlatónoc;
 
-47. Ometepec;
+46. Mochitlán;
 
-48. Pedro Ascencio Alquisiras;
+47. Olinalá;
 
-49. Petatlán;
+48. Ometepec;
 
-50. Pilcaya;
+49. Pedro Ascencio Alquisiras;
 
-51. Pungarabato;
+50. Petatlán;
 
-52. Quechultenango;
+51. Pilcaya;
 
-53. San Luis Acatlán;
+52. Pungarabato;
 
-54. San Marcos;
+53. Quechultenango;
 
-55. San Miguel Totolapan;
+54. San Luis Acatlán;
 
-56. Taxco de Alarcón;
+55. San Marcos;
 
-57. Tecoanapa;
+56. San Miguel Totolapan;
 
-58. Tecpan de Galeana;
+57. Taxco de Alarcón;
 
-59. Teloloapan;
+58. Tecoanapa;
 
-60. Tepecuacuilco de Trujano;
+59. Tecpan de Galeana;
 
-61. Tetipac;
+60. Teloloapan;
 
-62. Tixtla de Guerrero;
+61. Tepecuacuilco de Trujano;
 
-63. Tlacoapa;
+62. Tetipac;
 
-64. Tlacoachistlahuaca;
+63. Tixtla de Guerrero;
 
-65. Tlalchapa;
+64. Tlacoapa;
 
-66. Tlalixtaquilla de Maldonado;
+65. Tlacoachistlahuaca;
 
-67. Tlapa de Comonfort;
+66. Tlalchapa;
 
-68. Tlapehuala;
+67. Tlalixtaquilla de Maldonado;
 
-69. La Unión;
+68. Tlapa de Comonfort;
 
-70. Xalpatláhuac;
+69. Tlapehuala;
 
-71. Xochistlahuaca;
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1995)</small>
 
-72. Xochihuehuetlán;
+70. La Unión de Isidoro Montes de Oca;
 
-73. Zapotitlán Tablas;
+71. Xalpatláhuac;
 
-74. Zirándaro, y
+72. Xochistlahuaca;
 
-75. Zitlala.
+73. Xochihuehuetlán;
+
+74. Zapotitlán Tablas;
+
+75. Zirándaro, y
+
+76. Zitlala.
 
 ###### ARTICULO 10.
 
@@ -2874,5 +2880,9 @@ Las Delegaciones Municipales existentes al momento de entrada en vigor del prese
 Las autoridades municipales de aquellos municipios en los que su cabecera municipal cuente con más de 20,000 habitantes y su zona urbana se integre por colonias, impulsarán la constitución de los Consejos de Presidentes de Colonias a que se refiere el Capítulo VII BIS de la Ley Orgánica del Municipio Libre.
 
 P.O. 9 DE FEBRERO DE 1993.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE FEBRERO DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
