@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "1983-03-31"
+last_updated: "1983-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 1983.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -397,17 +397,17 @@ No podrán reunirse dos o más de estos poderes en una persona o corporación ni
 
 #### SECCION PRIMERA. De la Elección e Instalación de la Legislatura
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1983)</small>
 
 ###### ARTICULO 52.
 
-La Legislatura del Estado de Quintana Roo, se integra con nueve Diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales nominales, y hasta con tres Diputados electos según el principio de representación proporcional mediante el sistema de listas votadas en una circunscripción plurinominal. Los Diputados serán electos cada tres años por votación universal, directa libre y secreta de los ciudadanos quintanarroenses en ejercicio de sus derechos.
+La Legislatura del Estado de Quintana Roo, se integra con once Diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de Distritos Electorales Uninominales, y hasta con cuatro Diputados electos según el principio de Representación Proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal. Los Diputados serán electos cada tres años por votación universal, directa, libre y secreta de los ciudadanos quintanarroenses en ejercicio de sus derechos.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 1983)</small>
 
-ARTICULO 52 BIS.- Para la elección de los nueve Diputados electos según el principio de votación mayoritaria relativa, la Comisión Estatal Electoral hará la demarcación territorial correspondiente en distritos electorales uninominales.
+ARTICULO 52 BIS.- Para la elección de los once Diputados electos según el principio de votación mayoritaria relativa, la Comisión Estatal Electoral hará la demarcación territorial correspondiente en Distritos Electorales Uninominales.
 
-Para la elección de los tres Diputados según en principio de representación proporcional, el Estado constituirá una circunscripción electoral plurinominal.
+Para la elección de los cuatro Diputados según el principio de Representación Proporcional, el Estado constituirá una Circunscripción Electoral Plurinominal.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1978)</small>
 
@@ -417,15 +417,23 @@ Los diputados electos según el principio de votación mayoritaria relativa y lo
 
 Por cada diputado propietario se elegirá un suplente.
 
-> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 1978)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 1983)</small>
 
-ARTICULO 53 BIS.- La elección de los tres diputados según el principio de representación en la circunscripción plurinominal, se sujetará a las bases generales siguientes y a lo que en particular disponga la Ley reglamentaria.
+ARTICULO 53 BIS.- La elección de los cuatro Diputados según el principio de Representación Proporcional en la Circunscripción plurinominal, se sujetará a las bases generales siguientes y a lo que en particular disponga la ley reglamentaria.
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1978)</small>
 
 I. Para obtener el registro de sus listas, el partido político que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa en cuando menos seis de los distritos electorales uninominales.
 
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1978)</small>
+
 II. Tendrá derecho a participar en la asignación de diputados electos según el principio de representación proporcional, todo aquel partido que no haya obtenido dos o más constancias de mayoría y haya alcanzado por lo menos el 1.5% de la votación total emitida en las listas de la circunscripción plurinominal.
 
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1978)</small>
+
 III. El partido que cumpla con los supuestos señalados en las Fracciones I y II de este Artículo, le serán asignados por el principio de representación proporcional el número de diputados de su lista que corresponda al porcentaje de votos obtenidos en la circunscripción plurinominal. La Ley reglamentará las formulas electorales y los procedimientos que se observarán en dicha asignación; en todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
+
+> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1978)</small>
 
 IV. En el caso de que dos o más partidos políticos con derecho a participar en la distribución de listas obtengan en su conjunto dos o más constancias de mayoría, solo será objeto de reparto una curul de las que deban asignarse por el principio de representación proporcional.
 
@@ -1688,3 +1696,7 @@ SEGUNDO.- Las contribuciones señaladas en el artículo 143 que no estén recibi
 TERCERO. Las leyes locales y sus reglamentos así como los reglamentos municipales respectivos, deberán reformarse o adicionarse en el término que establece el artículo 2º transitorio del decreto que reforma y adiciona el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
 CUARTO.- En tanto se deroga en lo conducente la Ley de Tránsito y Explotación de Vías y Carreteras del Estado de Quintana Roo y su reglamento, el Ejecutivo del Estado ejercerá el mando en la corporación de Tránsito del Estado en la forma que lo ha venido haciendo.
+
+P.O. 29 DE JULIO DE 1983.
+
+UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
