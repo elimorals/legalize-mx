@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2004-01-30"
+last_updated: "2004-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2004.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -425,23 +425,17 @@ El otorgamiento de las constancias de mayoría y la asignación de Diputados de 
 
 El Congreso del Estado, designará a los Consejeros Ciudadanos del Consejo Estatal Electoral, mediante el voto de las dos terceras partes de sus integrantes, en la forma y términos que establezca la Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 22.
 
-El Congreso del Estado tendrá cada año de ejercicio constitucional, tres períodos de sesiones, del 1 de octubre al 31 de Enero el primero; del 1° de febrero al 31 de mayo el segundo; y el tercero del 1° de Junio al 30 de Septiembre.
+El Congreso del Estado tendrá cada año de ejercicio constitucional, dos períodos de sesiones ordinarias que comprenderán del primero de octubre al último día de enero de cada año y del primero de abril al último día de julio; y períodos en los que funcionará la Comisión Permanente, los que abarcarán del primero de febrero al último día de marzo y del primero de agosto al último día de septiembre.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+En el Primer Período Ordinario, antes de concluir el año, examinará, discutirá y aprobará el Presupuesto del Estado correspondiente al siguiente Ejercicio Fiscal, decretando las contribuciones y percepciones necesarias para cubrirlo e impondrá también las contribuciones y demás ingresos para cubrir las necesidades de los Municipios del Ejercicio Fiscal siguiente y determinará las bases, montos y plazos conforme a los cuales cubrirá la Federación sus participaciones a los propios Municipios.
 
-En el Primer Período, antes de concluir el año, examinará, discutirá y aprobará el Presupuesto del Estado correspondiente al siguiente Ejercicio Fiscal, decretando las contribuciones y percepciones necesarias para cubrirlo e impondrá también las contribuciones y demás ingresos para cubrir las necesidades de los Municipios del Ejercicio Fiscal siguiente y determinará las bases, montos y plazos conforme a los cuales cubrirá la Federación sus participaciones a los propios Municipios.
+En el Segundo Período Ordinario, el Congreso se ocupará preferentemente del examen, discusión y aprobación de las Cuentas Públicas del año anterior, tanto del Estado como de los Municipios. En esta función el Congreso investigará si las cantidades gastadas están o no de acuerdo con las partidas respectivas del Presupuesto; comprobando la exactitud y justificación de los gastos hechos y determinará las responsabilidades que resultaren.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
-
-En el segundo y tercer períodos, el Congreso se ocupará del examen, discusión y aprobación de las Cuentas Públicas del año anterior, tanto del Estado como de los Municipios. En esta función el Congreso investigará si las cantidades gastadas están o no de acuerdo con las partidas respectivas del Presupuesto; comprobando la exactitud y justificación de los gastos hechos y determinará las responsabilidades que resultaren.
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
-En ambos Períodos Ordinarios, la Legislatura del Estado estudiará y votará las Iniciativas de Leyes o Decretos que se presenten y resolverá los demás asuntos que le correspondan, conforme a esta Constitución.
+En ambos Períodos Ordinarios, la Legislatura del Estado estudiará y votará las iniciativas de Leyes o Decretos que se presenten y resolverá los demás asuntos que le correspondan, conforme a esta Constitución.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
 
@@ -579,23 +573,27 @@ XXXII.- Nombrar al Procurador General de Justicia del Estado, por el voto de las
 
 XXXIII.- Aprobar los convenios de asociación que celebren los municipios del Estado con los de otras entidades federativas que tengan por objeto la eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan, y
 
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DEL 2001)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2004)</small>
 
-XXXIV.- Erigirse en Asamblea de Transición, a mas tardar la primera semana del mes de Septiembre del año de la elección, cuyas funciones serán las siguientes:
+XXXIV.- Erigirse en Asamblea de Transición por medio de la Mesa Directiva de la Comisión Permanente, a fin de preparar y cumplir con el proceso de entrega recepción de una Legislatura a otra, en los términos que disponga la Ley;
 
-a).- Entregar credenciales de identificación y acceso a los Diputados electos que integran la nueva legislatura, a más tardar el 15 de Septiembre del año de la elección, cuyas constancias de mayoría y validez; de asignación por el principio de representación proporcional o por resolución firme que haya recibido el Congreso del Tribunal de Justicia Electoral del Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2004)</small>
 
-b).- Citar a los Diputados electos a la Junta Previa a celebrarse el día anterior del inicio del ejercicio de la legislatura;
+XXXV.- Elaborar y aprobar el Plan de Desarrollo Legislativo en los términos de esta Constitución y de lo que disponga la Ley;
 
-c).- Preparar y cumplir el proceso de entrega recepción de una Legislatura a otra, de todos los efectos administrativos, patrimoniales y legislativos, de conformidad con los procedimientos y demás asuntos que su Ley Orgánica y Reglamento Interior le atribuyan, a fin de conocer el estado que guarda el poder legislativo al término de cada ejercicio constitucional;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2004)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1998)</small>
+XXXVI.- Expedir el Reglamento Interior del Congreso y demás acuerdos que resulten necesarios para la adecuada organización administrativa del Congreso;
 
-XXXV.- Formar su reglamento interior y expedir todas las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución y la Constitución Política de los Estados Unidos Mexicanos a los Poderes del Estado;
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2004)</small>
 
-> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+XXXVII.- Citar a los Secretarios del ramo, Procurador de Justicia del Estado, Titulares o Administradores de los Organismos Descentralizados Estatales o de las empresas de participación estatal mayoritaria, así como al Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura y a los Titulares de los Órganos Constitucionales Autónomos, para que informen cuando se discute una Ley, se realice la Glosa del Informe que rindan el Titular del Ejecutivo del Estado o del Poder Judicial o cuando se estudie un asunto concerniente a sus respectivos ramos o actividades.
 
-XXXVI. - Elaborar y aprobar el Plan de Desarrollo Legislativo, en los términos de esta Constitución.
+Los funcionarios a que se refiere el párrafo anterior, estarán obligados a acudir a las sesiones correspondientes, y
+
+> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2004)</small>
+
+XXXVIII.- Expedir todas las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución y la Constitución Política de los Estados Unidos Mexicanos, a los Poderes del Estado de Baja California.
 
 ### CAPITULO IV.. DEL ORGANO DE FISCALIZACION SUPERIOR
 
@@ -653,6 +651,10 @@ En los casos de urgencia notoria calificada por mayoría de votos, de los diputa
 
 Desechada una iniciativa no podrá volver a presentarse en el mismo período de sesiones.
 
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2004)</small>
+
+En la reforma, derogación o abrogación de las leyes o decretos, se observarán los mismos trámites establecidos para su formación.
+
 ###### ARTICULO 33.
 
 Las iniciativas adquirirán el carácter de ley cuando sean aprobadas por el Congreso y promulgadas por el Ejecutivo.
@@ -681,6 +683,10 @@ Las leyes, ordenamientos y disposiciones de observancia general que hayan sido a
 
 Si los reglamentos, circulares y demás disposiciones de observancia general, no fijan el día en que deben comenzar a observarse, serán obligatorias tres días después de su publicación en el Periódico Oficial del Estado.
 
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2004)</small>
+
+Los asuntos que sean materia de acuerdo económico, se sujetarán a los trámites que fije la Ley.
+
 > <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 1997)</small>
 
 Las leyes que expida el Congreso del Estado, excepto las de índole tributario o fiscal, podrán ser sometidas a Referéndum, conforme lo disponga la Ley.
@@ -695,9 +701,29 @@ Los proyectos de Ley y los decretos aprobados por el Congreso, se remitirán al 
 
 El Gobernador del Estado no podrá hacer observaciones sobre los decretos que manden abrir o cerrar sesiones del Congreso o los emitidos por éste cuando actúe en funciones de Jurado de Sentencia.
 
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 36.
 
-Los asuntos que sean materia de acuerdo económico, se sujetarán a los trámites que fija el Reglamento Interior del Congreso.
+La Comisión Permanente es el órgano del Congreso del Estado que, fuera de los períodos ordinarios, desempeña las funciones que le señala la Constitución Política del Estado.
+
+La Comisión Permanente se compone de cinco miembros, quienes serán designados mediante el voto de la mayoría de los Diputados presentes, en los términos en que lo disponga la Ley.
+
+La Comisión Permanente podrá convocar a períodos extraordinarios de sesiones de la Cámara de Diputados; sin embargo, no suspenderá sus trabajos durante dichos períodos. En tal circunstancia, el Pleno, solo se ocupará del asunto o asuntos que la propia Comisión sometiese a su conocimiento, los cuales se expresarán en la convocatoria respectiva.
+
+La Comisión podrá conceder las licencias y permisos de la competencia del Congreso, siempre y cuando no sean de aquéllas que se regulan en los párrafos siguientes.
+
+Tratándose de las faltas absolutas o temporales del Ejecutivo del Estado durante el período en que esté en funciones la Comisión Permanente, ésta convocará de inmediato al Pleno a un período extraordinario de sesiones, para el efecto de que procedan en los términos que prevé esta Constitución. La convocatoria no podrá ser vetada por el Gobernador provisional.
+
+Si el Congreso del Estado, se encuentra reunido en un período extraordinario de sesiones y ocurre la falta absoluta o temporal del Gobernador del Estado, la Comisión Permanente, de inmediato, ampliará el objeto de la convocatoria a fin de que el Congreso esté en aptitud de nombrar al Gobernador interino o sustituto, según proceda.
+
+La Mesa Directiva de la Comisión Permanente, se integrará por un Presidente y un Secretario, quienes tendrán las atribuciones que disponga la Ley.
+
+Llevada a cabo la elección de la Mesa Directiva, los electos tomarán posesión de sus cargos y el Presidente de la Mesa procederá a declarar instalada la Comisión Permanente.
+
+Las sesiones de la Comisión Permanente se efectuarán en la forma y términos que disponga la Ley.
+
+La elección de la Mesa Directiva se comunicará al Titular del Ejecutivo del Estado y al Tribunal Superior de Justicia del Estado, a la Cámara de Diputados Federal y la de Senadores, así como a los Órganos Legislativos de los Estados y del Distrito Federal.
 
 > <small>(ADICIONADO, P.O. 30 DE ENERO DE 2004)</small>
 
@@ -2572,3 +2598,9 @@ Los servidores públicos de la Contaduría Mayor de Hacienda del Congreso del Es
 ###### ARTÍCULO SÉPTIMO.
 
 Las referencias que se hagan en otras disposiciones legales a la Contaduría Mayor de Hacienda, o al Contador Mayor de Hacienda, se entenderán hechas al Órgano de Fiscalización Superior o al Auditor Superior de Fiscalización respectivamente.
+
+P.O. 20 DE OCTUBRE DE 2004.
+
+PRIMERO.- Túrnese a los Ayuntamientos del Estado para el trámite previsto por el Artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
