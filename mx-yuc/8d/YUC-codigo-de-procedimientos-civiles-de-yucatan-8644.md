@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-procedimientos-civiles-de-yucatan-8644"
 country: "mx"
 rank: "codigo"
 publication_date: "1941-12-24"
-last_updated: "1946-07-12"
+last_updated: "1970-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE JULIO DE 1946.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE MARZO DE 1970.
 
 Código publicado en el Diario Oficial los días 24, 26, 27, 29, 30 y 31 de Diciembre de 1941 y 5 de Enero de 1942.
 
@@ -4821,29 +4821,23 @@ Después de la declaración de ausencia o de la presunción de muerte del ausent
 
 Lo dispuesto en los dos artículos que preceden, es aplicable al gravamen de los bienes de los menores, y a su arrendamiento por más de tres años, con los requisitos establecidos en los artículos 908, 909, 912 y 913.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 19 DE MARZO DE 1970)</small>
+
 ### CAPITULO IX. De la autorización para separarse del domicilio
 
 conyugal o paterno
 
 ###### ARTICULO 916.
 
-El menor sujeto a tutela que esté en el caso del artículo 526 del Código Civil y quiera ser emancipado, lo solicitará por escrito al Juez de su domicilio, presentando los documentos que acrediten:
-
-I.- Su edad.
-
-II. Su capacidad para proveer por sí mismo a su subsistencia.
-
-III. Que tiene o no bienes que le pertenezcan, especificando en caso afirmativo, cuáles sean.
-
-Si por causas graves calificadas por el Juez, no pudieren exhibirse estos documentos, se comprobarán los hechos con información de testigos.
+(DEROGADO, D.O. 19 DE MARZO DE 1970)
 
 ###### ARTICULO 917.
 
-Cumplidos los requisitos que expresa el artículo anterior, citará el Juez a su presencia al menor, al tutor, al curador y al representante del Ministerio Público; dispondrá que se dé lectura al expediente, y estando todos conformes, decretará la emancipación y enviará copia certificada de la sentencia al Oficial del Registro Civil para que la registre.
+(DEROGADO, D.O. 19 DE MARZO DE 1970)
 
 ###### ARTICULO 918.
 
-Del auto en que se deniegue la emancipación no cabe más curso que el de responsabilidad. Del auto en que se conceda pueden apelar el Ministerio Público y el tutor.
+(DEROGADO, D.O. 19 DE MARZO DE 1970)
 
 ### CAPITULO X. De las informaciones judiciales
 
@@ -6159,8 +6153,6 @@ El Secretario General
 
 Gonzalo López M.
 
-}
-
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
 D.O. 1 DE OCTUBRE DE 1942.
@@ -6176,3 +6168,13 @@ Segundo.- Los avisos o notificaciones que se hubieren hecho de conformidad con e
 Tercero.- La substanciación de los procedimientos de arrendamiento pendientes se sujetará a las disposiciones del Código de Procedimientos Civiles vigente en la fecha de la publicación de este Decreto.
 
 Cuarto.- En aquellos juicios en que no se hubiere dictado aun sentencia de primera instancia se aplicará el artículo 576 del Código de Procedimientos Civiles en los términos en que queda concebido por virtud de la reforma de que ha sido objeto.
+
+D.O. 19 DE MARZO DE 1970.
+
+###### ARTICULO PRIMERO.
+
+Se derogan las disposiciones que se opongan a la reformas de los artículos 34 y 6 de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Local, respectivamente y a ese Decreto.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado.
