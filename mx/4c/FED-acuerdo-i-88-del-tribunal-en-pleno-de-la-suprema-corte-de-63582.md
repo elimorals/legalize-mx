@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-i-88-del-tribunal-en-pleno-de-la-suprema-corte-de-63582
 country: "mx"
 rank: "acuerdo"
 publication_date: "1988-02-15"
-last_updated: "1988-02-15"
+last_updated: "1992-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63582&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-01-19"
 
 ACUERDO I/88 DEL TRIBUNAL EN PLENO DEL DIECINUEVE DE ENERO DE MIL NOVECIENTOS OCHENTA Y OCHO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE ENERO DE 1992.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 15 de febrero de 1988.
 
@@ -57,7 +57,9 @@ II.- Los recursos de revisión en contra de sentencias dictadas en amparo direct
 
 III.- Los juicios de amparo en revisión y los recursos de revisión en contra de sentencias dictadas en amparo directo por Tribunales Colegiados de Circuito en los que subsistiendo en el recurso el problema de constitucionalidad y teniendo que resolver sobre el mismo, exista jurisprudencia del Pleno sobre esa cuestión y no existan razones para dejar de aplicarla;
 
-IV.- Los incidentes de inejecución y de inconformidad en que no proceda aplicar la sanción prevista en la fracción XVI del artículo 107 Constitucional.
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO NUMERO I/92 DEL TRIBUNAL EN PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 22 DE ENERO DE 1992)</small>
+
+IV.- Las denuncias de contradicción referentes a tesis cuyo criterio haya sido decidido con anterioridad por el Pleno de la Suprema Corte de Justicia de la Nación.
 
 SEGUNDO.- Se distribuirán en igual número entre las cuatro Salas, los juicios de amparo en revisión de nuevo ingreso contra sentencias dictadas en la audiencia constitucional por los Jueces de Distrito cuando subsista en el recurso el problema de la constitucionalidad, si en la demanda de amparo se hubiese impugnado un reglamento expedido por el Presidente de la República de acuerdo con la fracción I del artículo 89 de la Constitución o un reglamento de ley local expedido por el Gobernador de un Estado, por estimarlo directamente violatorio de un precepto de la Constitución, sin importar la naturaleza jurídica del reglamento.
 
@@ -90,3 +92,11 @@ CERTIFICA:
 Que este acuerdo 1/88 relativo a la determinación del envío de asuntos del Pleno a las Salas de este alto Tribunal, fue aprobado por el Tribunal en Pleno en Sesión Privada celebrada el martes diecinueve de enero de mil novecientos ochenta y ocho, por unanimidad de veintiún votos de los señores ministros: Presidente Carlos del Río Rodríguez, Carlos de Silva Nava, Felipe López Contreras, Raúl Cuevas Mantecón, Samuel Alba Leyva, Mariano Azuela Güitrón, Noé Castañón León, Ernesto Díaz Infante, Luis Fernández Doblado, Francisco H. Pavón Vasconcelos, Victoria Adato Green, Santiago Rodríguez Roldán, José Martínez Delgado, Manuel Gutiérrez de Velasco, Atanasio González Martínez, José Manuel Villagordoa Lozano, Fausta Moreno Flores, Angel Suárez Torres, Sergio Hugo Chapital Gutiérrez, Juan Díaz Romero y Ulises Schmill Ordóñez.- México, Distrito Federal, a veintiuno de enero de mil novecientos ochenta y ocho.
 
 El Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, José Javier Aguilar Domínguez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 22 DE ENERO DE 1992.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, y en el Semanario Judicial de la Federación.
