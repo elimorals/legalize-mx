@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2003-10-23"
+last_updated: "2004-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 23 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE MARZO DE 2004.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -81,7 +81,7 @@ La Ley Orgánica respectiva contendrá la designación de cada uno de los munici
 
 ###### Artículo 5.
 
-Los municipios continuarán con la extensión y límites que hasta hoy han tenido, salvo los casos a que se contraen las fracciones XII y XIII del Artículo 64 de esta Constitución.
+Los Municipios continuarán con la extensión y límites que hasta hoy han tenido, salvo los casos a que se contraen las fracciones XII y XIII del Artículo 64 de esta Constitución.
 
 ###### Artículo 6.
 
@@ -157,7 +157,7 @@ Son obligaciones de los ciudadanos sonorenses:
 
 I. Las mismas enumeradas para los sonorenses.
 
-> <small>(REFORMADA, B.O. 23 DE OCTUBRE DE 2003)</small>
+(REFORMADA, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADA, B.O. 15 DE MARZO DE 2004)
 
 II. Votar en las elecciones populares, en los términos que señale la Ley Electoral correspondiente.
 
@@ -191,11 +191,11 @@ Los mexicanos no sonorenses tienen las mismas obligaciones que los sonorenses. N
 
 Son derechos y prerrogativas del ciudadano sonorense:
 
-> <small>(REFORMADA, B.O. 23 DE OCTUBRE DE 2003)</small>
+(REFORMADA, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADA, B.O. 15 DE MARZO DE 2004)
 
 I. Votar en las elecciones populares y en los procesos de participación ciudadana, en los términos que señalen las leyes respectivas.
 
-> <small>(REFORMADA, B.O. 23 DE OCTUBRE DE 2003)</small>
+(REFORMADA, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADA, B.O. 15 DE MARZO DE 2004)
 
 II. Ser votado para los cargos de elección popular del Estado y los municipios en igualdad de oportunidades y equidad entre las mujeres y los hombres; así como ser nombrado para desempeñar cualquier otro empleo, cargo o comisión.
 
@@ -251,7 +251,7 @@ VI. Los que por causa de enfermedad mental tuvieren en suspenso el ejercicio de 
 
 ###### Artículo 20.
 
-Fuera de los casos ya especificados en el artículo anterior, la ley determinará la duración de la suspensión así como también cuando se pierden tales derechos y los requisitos necesarios para que el ciudadano sonorense quede rehabilitado en sus prerrogativas o derechos suspendidos.
+Fuera de los casos ya especificados en el artículo anterior, la Ley determinará la duración de la suspensión así como también cuando se pierden tales derechos y los requisitos necesarios para que el ciudadano sonorense quede rehabilitado en sus prerrogativas o derechos suspendidos.
 
 ## TITULO TERCERO.
 
@@ -265,7 +265,7 @@ Soberanía.
 
 El Estado de Sonora forma parte de la Federación de los Estados Unidos Mexicanos. Es libre e independiente de los demás Estados de la Federación y soberano en todo lo que se refiere a su administración y régimen interiores. Conserva con los demás Estados de la Unión las relaciones que le impone la Constitución General de la República.
 
-> <small>(REFORMADO, B.O. 23 DE OCTUBRE DE 2003)</small>
+(REFORMADO, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADO, B.O. 15 DE MARZO DE 2004)
 
 ###### Artículo 22.
 
@@ -281,7 +281,7 @@ La designación de los Consejeros Estatales Electorales compete al Congreso del 
 
 Los Consejeros Estatales Electorales durarán en su encargo dos procesos electorales ordinarios sucesivos. El Consejo Estatal Electoral será renovado parcialmente cada proceso electoral ordinario.
 
-Los partidos políticos son entidades de interés público cuyo fin es promover la participación del pueblo en la vida democrática del Estado, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán afiliarse libre e individuamente a os parados políticos. La Ley determinará las formas específicas de intervención de los partidos políticos en el proceso electoral.
+Los partidos políticos son entidades de interés público cuyo fin es promover la participación del pueblo en la vida democrática del Estado, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos. La Ley determinará las formas específicas de intervención de los partidos políticos en el proceso electoral.
 
 Los partidos políticos con registro tendrán derecho a participar en las elecciones estatales, distritales y municipales. Tendrán, en igualdad de circunstancias, acceso a los medios de comunicación social, de acuerdo a la forma que establezca la Ley. Asimismo, promoverán y garantizarán, en los términos de esta Constitución y la Ley, la igualdad de oportunidades y la equidad entre las mujeres y los hombres en la vida política del Estado y sus municipios, a través de la postulación a cargos de elección popular en el Congreso del Estado y en los ayuntamientos, tanto de mayoría relativa como de representación proporcional.
 
@@ -305,15 +305,15 @@ La Ley establecerá los montos máximos que tendrán las aportaciones pecuniaria
 
 El financiamiento público de los partidos políticos y de sus campañas electorales deberá prevalecer sobre los privados, para tal efecto, el Consejo Estatal Electoral integrará un órgano de fiscalización que controlará y vigilará el uso de todos los recursos con que cuenten, sean de origen privado o público y propondrá las sanciones que deban imponerse por el uso indebido de estos recursos, de conformidad con lo que establezca la Ley.
 
-La Ley establecerá un sistema de medios de impugnación de los que conocerán los organismos electorales y un Tribunal Estatal Electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten, invariablemente, al principio de legalidad. Sus sesiones serán públicas.
+La Ley establecerá un sistema de medios de impugnación de los que conocerán los organismos electorales y un Tribunal Estatal Electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten,w invariablemente, al principio de legalidad. Sus sesiones serán públicas.
 
-El Tribunal Estatal Electoral será en el Estado, el órgano especializado y la máxima autoridad jurisdiccional en materia electoral y de procesos de participación ciudadana, funcionara de manera permanente y tendrá a su cargo la substanciación y resolución, en única instancia, de los medios de impugnación que establezcan las leyes respectivas.
+El Tribunal Estatal Electoral será, en el Estado, el órgano especializado y la máxima autoridad jurisdiccional en materia electoral y de procesos de participación ciudadana, funcionará de manera permanente y tendrá a su cargo la substanciación y resolución, en única instancia, de los medios de impugnación que establezcan las leyes respectivas.
 
 El Tribunal estará compuesto por tres Magistrados Propietarios y dos Magistrados Suplentes Comunes, los cuales serán nombrados por el Congreso del Estado el que deberá emitir una convocatoria pública para tal fin. El Congreso integrará una Comisión Plural que presentará al Pleno la lista de aspirantes y mediante el voto de las dos terceras partes de sus integrantes, nombrará a los Magistrados del Tribunal Estatal Electoral.
 
 Los Magistrados del Tribunal Estatal Electoral durarán en su encargo nueve años. El Tribunal Estatal será renovado parcialmente cada tres años, salvo que se actualice el supuesto de remoción previsto por la Ley respectiva.
 
-Los Magistrados nombrados para concluir el período de otro, por falta definitiva o absoluta de éste, desempeñarán sus funciones hasta la conclusión del período de aquél.
+Los Magistrados nombrados para concluir el periodo de otro, por falta definitiva o absoluta de éste, desempeñarán sus funciones hasta la conclusión del periodo de aquél.
 
 La organización y competencia del Tribunal Estatal Electoral será fijada por la Ley.
 
@@ -321,13 +321,13 @@ En materia electoral la interposición de los medios de impugnación no producir
 
 El Consejo Estatal Electoral realizará el cómputo final de la elección de Gobernador del Estado y declarará la validez de la elección y la de Gobernador Electo.
 
-Las leyes en materia electoral, deberán promulgarse y publicarse por lo menos noventa días naturales antes de que inicie el proceso electoral en que vayan a aplicarse y durante el mismo no podrá realizarse modificación alguna.
+Las leyes en materia electoral deberán promulgarse y publicarse por lo menos noventa días naturales antes de que inicie el proceso electoral en que vayan a aplicarse y durante el mismo no podrá realizarse modificación alguna.
 
 En la integración de los organismos electorales habrá paridad de género y se observará, en su conformación, el principio de alternancia de género. Asimismo, en la integración del Tribunal Estatal Electoral será obligatorio conformarlo por ambos géneros.
 
 ###### Artículo 23.
 
-El Estado de Sonora no reconoce en los Poderes Supremos de la Unión ni en otro alguno, derecho para pactar o convenir entre ellos o con nación extraña, aquello que lesione la integridad de su territorio, su nacionalidad, soberanía, libertad e independencia.
+El Estado de Sonora no reconoce en los Poderes Supremos de la Unión ni en otro alguno, derecho para pactar o convenir entre ellos o con nación extraña, aquello que lesione la integridad de su territorio, su nacionalidad, soberanía, libertad, e independencia.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -529,7 +529,7 @@ En todos los casos en que por cualquiera causa desaparezca el Congreso, el Ejecu
 
 ###### Artículo 40.
 
-Para designar el Congreso electo en la forma establecida en el Artículo anterior, se añadirá al número que le corresponda la palabra "BIS", si dentro del período constitucional del Congreso desaparecido se instalare el nuevo.
+Para designar el Congreso electo en la forma establecida en el Artículo anterior, se añadirá al número que le corresponda la palabra "BIS", si dentro del periodo constitucional del Congreso desaparecido se instalare el nuevo.
 
 > <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
@@ -567,7 +567,7 @@ El último año de su ejercicio constitucional, el Gobernador presentará el inf
 
 ###### Artículo 47.
 
-Los Diputados que no concurran a una sesión sin causa justificada, o sin permiso del Congreso, no tendrán derecho a la dieta correspondiente.
+Los Diputados que no concurran a una sesión sin causa justificada o sin permiso del Congreso, no tendrán derecho a la dieta correspondiente.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -621,7 +621,7 @@ III. A los Diputados al Congreso de Sonora.
 
 IV. A los Ayuntamientos del Estado.
 
-> <small>(ADICIONADA, B.O. 23 DE OCTUBRE DE 2003)</small>
+(ADICIONADA, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADA, B.O. 15 DE MARZO DE 2004)
 
 V. A los ciudadanos que representen el 1% del total inscrito en el Padrón Estatal Electoral, conforme a los términos que establezca la Ley.
 
@@ -649,7 +649,7 @@ Se reputará aprobado por el Ejecutivo todo proyecto de ley o de decreto no devu
 
 El Congreso o la Diputación Permanente podrán ordenar la publicación de las leyes o decretos si el Ejecutivo no lo hace dentro de los ocho días siguientes al vencimiento del término fijado para hacer observaciones, o el día en que reciba la ley o decreto confirmados por aquella Asamblea. En este caso se harán constar las circunstancias que lo motiven.
 
-> <small>(ADICIONADO, B.O. 23 DE OCTUBRE DE 2003)</small>
+(ADICIONADO, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADO, B.O. 15 DE MARZO DE 2004)
 
 La creación, reforma, adición, derogación u abrogación de leyes o decretos expedidos por el Congreso del Estado podrán ser sometidos a referéndum, conforme a los términos y condiciones establecidas en la Ley de la materia.
 
@@ -753,7 +753,7 @@ XIII Bis. Para conocer, substanciar y resolver los procedimientos relativos a la
 
 XIV. Para trasladar, provisionalmente, fuera de la ciudad de Hermosillo, la residencia de los Poderes del Estado.
 
-XV. (DEROGADA, B.O. 23 DE OCTUBRE DE 2003)
+XV. (DEROGADA, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADA, B.O. 15 DE MARZO DE 2004)
 
 XVI. Para resolver sobre la renuncia de sus propios miembros y la del Gobernador, y para conceder licencias a unos y otro.
 
@@ -767,7 +767,7 @@ XVIII. Para aprobar o rechazar los nombramientos de los Magistrados del Supremo 
 
 XIX. Para aceptar a dichos funcionarios la renuncia de sus respectivos cargos y concederles licencia hasta por dos meses con goce de sueldo y por más de ese tiempo sin goce de él.
 
-> <small>(REFORMADA, B.O. 23 DE OCTUBRE DE 2003)</small>
+(REFORMADA, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADA, B.O. 15 DE MARZO DE 2004)
 
 XX. Para nombrar a los Magistrados Propietarios y a los Magistrados Suplentes Comunes del Tribunal Estatal Electoral y a los Consejeros Estatales Electorales Propietarios y Suplentes Comunes del Consejo Estatal Electoral, según el procedimiento establecido por esta Constitución y la Ley.
 
@@ -1027,13 +1027,13 @@ Nunca podrá ser electo en el período inmediato:
 
 a). El Gobernador substituto Constitucional, o el designado para concluir el período en caso de falta absoluta del Constitucional, aún cuando tenga distinta denominación.
 
-b). El Gobernador Interino, el Provisional o el ciudadano que, bajo cualquier denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
+b). El Gobernador Interino, el Provisional o el ciudadano que, bajo cualquier denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del periodo.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 74.
 
-En caso de falta absoluta del Gobernador, ocurrida en los dos primeros años del período respectivo, si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, un Gobernador Interino, que tomará posesión de su cargo dentro del término de diez días posteriores a la fecha en que se haga la declaratoria correspondiente; el mismo Congreso expedirá dentro de los diez días siguientes al de la designación de Gobernador interino, la convocatoria para la elección del Gobernador que deba concluir el período respectivo; debiendo mediar entre la fecha de la convocatoria y la que señale para la verificación de las elecciones, un plazo no menor de seis meses ni mayor de ocho.
+En caso de falta absoluta del Gobernador, ocurrida en los dos primeros años del periodo respectivo, si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, un Gobernador Interino, que tomará posesión de su cargo dentro del término de diez días posteriores a la fecha en que se haga la declaratoria correspondiente; el mismo Congreso expedirá dentro de los diez días siguientes al de la designación de Gobernador interino, la convocatoria para la elección del Gobernador que deba concluir el período respectivo; debiendo mediar entre la fecha de la convocatoria y la que señale para la verificación de las elecciones, un plazo no menor de seis meses ni mayor de ocho.
 
 Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará desde luego un Gobernador provisional y convocará a sesiones extraordinarias al Congreso para que éste, a su vez, designe al Gobernador interino y expida la convocatoria a elecciones en los términos del párrafo anterior.
 
@@ -1099,9 +1099,13 @@ IV. Hacer cumplir las resoluciones de los tribunales y prestar a éstos los medi
 
 V. Exigir de las autoridades que dependan del Ejecutivo del Estado, el cumplimiento estricto de las obligaciones que les imponen la Constitución Federal, la Estatal y las Leyes que de ellas emanen, aplicándoles las sanciones a que se hagan acreedores, en los términos que prevengan las leyes.
 
-> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
 VI. Imponer las sanciones administrativas que determinen las leyes y reglamentos.
+
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1956)</small>
+
+Imponer asímismo, las sanciones que por infracciones a las Leyes y Reglamentos Gubernativos se señalen en los mismos, cuando en tales Ordenamientos no se especifique qué Autoridad debe imponerlas.
 
 > <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
 
@@ -1163,7 +1167,7 @@ XXV. Nombrar a los oficiales del Registro Civil y fijar la demarcación en que d
 
 XXVI. Presentar ante el Congreso, al terminar su período constitucional, una memoria sobre el estado de los negocios públicos, expresando cuáles sean las deficiencias que hubiere observado en la Administración y qué medidas en su concepto deben aplicarse para subsanarlas.
 
-XXVII. Fomentar, por todos los medios posibles, la educación popular y procurar el adelanto social, favoreciendo el mejoramiento moral, cívico y material de la colectividad.
+XXVII. Fomentar, por todos los medios posibles la educación popular y procurar el adelanto social, favoreciendo el mejoramiento moral, cívico y material de la colectividad.
 
 XXVIII. Organizar y disciplinar la Guardia Nacional y las demás fuerzas del Estado y ejercer, respecto de una y otras, el mando conforme a las atribuciones que le conceden las Constituciones General y Local.
 
@@ -1187,7 +1191,7 @@ XXXVI. Turnar al Procurador General de Justicia los asuntos que deban ventilarse
 
 XXXVI Bis. Plantear al Congreso del Estado, los casos de servidores públicos que ameriten la iniciación de un juicio político por las faltas u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho.
 
-XXXVII. (DEROGADA, B.O. 23 DE OCTUBRE DE 2003)
+XXXVII. (DEROGADA, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADA, B.O. 15 DE MARZO DE 2004)
 
 XXXVIII. Organizar el sistema penal sobre la base de trabajo como medio de regeneración.
 
@@ -1237,7 +1241,7 @@ Para el despacho de los asuntos de orden administrativo del Poder Ejecutivo, la 
 
 > <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1992)</small>
 
-Habrá un Secretario de Gobierno, quien tendrá las facultades y obligaciones que le confiere esta Constitución y demás leyes. Además, habrá los Secretarios y demás órganos y unidades que la administración requiera, quienes tendrán las atribuciones que les señale la Ley Orgánica.
+Habrá un Secretario de Gobierno, quien tendrá las facultades y obligaciones que le confiere esta Constitución y demás leyes. Además, habrá los Secretarios y demás órganos y unidades que la administración requiera, quienes tendrán las atribuciones que le señale la Ley Orgánica.
 
 > <small>(REFORMADO, B.O. 11 DE JUNIO DE 1984)</small>
 
@@ -1273,7 +1277,7 @@ Los ingresos no tendrán otro objeto que cubrir los gastos decretados por el Con
 
 ###### Artículo 85.
 
-El Estado, para la recaudación de las contribuciones y para efectuar el pago de los gastos, se deberá sujetar estrictamente a las Leyes de Ingresos y a los presupuestos de Egresos del Estado, y demás Leyes relativas.
+El Estado, para la recaudación de las contribuciones y para efectuar el pago de los gastos, se deberá sujetar estrictamente a las Leyes de Ingresos y a los presupuestos de Egresos del Estado y demás leyes relativas.
 
 > <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1992)</small>
 
@@ -1511,7 +1515,7 @@ El servicio judicial será gratuito. En consecuencia, quedan prohibidas las cost
 
 > <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
 
-Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuída durante su encargo.
+Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
@@ -1719,7 +1723,7 @@ Los cargos del Presidente Municipal, Síndico y Regidor serán obligatorios y re
 
 > <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
-Si alguno de los miembros de un Ayuntamiento dejare de desempeñar su cargo, será substituído por su suplente, o se procederá según lo disponga esta Constitución y la Ley.
+Si alguno de los miembros de un Ayuntamiento dejare de desempeñar su cargo, será substituido por su suplente, o se procederá según lo disponga esta Constitución y la Ley.
 
 > <small>(REFORMADO, B.O. 29 DE MARZO DE 2001)</small>
 
@@ -1985,11 +1989,11 @@ De conformidad con las bases establecidas en la legislación secundaria, los Con
 
 Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 23 DE OCTUBRE DE 2003)</small>
+(REFORMADO PRIMER PARRAFO, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADO, B.O. 15 DE MARZO DE 2004)
 
 ###### Artículo 143.
 
-Se reputará como servidor público para los efectos de este Título será responsable por los actos u omisiones en que incurra en el ejercicio de su función, toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza, en la Administración Pública Estatal o Municipal, en el Poder Legislativo, en el Poder Judicial, así como los servidores del Consejo Estatal Electoral, Consejos Distritales Electorales, Consejos Municipales Electorales y los del Tribunal Estatal Electoral.
+Se reputará como servidor público para los efectos de este Título y será responsable por los actos u omisiones en que incurra en el ejercicio de su función, toda persona que desempeñe un empleo, cargo o comisión, de cualquier naturaleza, en la Administración Pública Estatal o Municipal, en el Poder Legislativo, en el Poder Judicial, así como los servidores del Consejo Estatal Electoral, Consejos Distritales Electorales, Consejos Municipales Electorales y los del Tribunal Estatal Electoral.
 
 > <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -2003,9 +2007,9 @@ El Congreso expedirá la Ley de Responsabilidades de los servidores públicos me
 
 I. Responsabilidad política, determinada mediante juicio político, cuando el servidor público, en el ejercicio de sus funciones, incurra en actos u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. No procede el juicio político por la mera expresión de ideas.
 
-> <small>(REFORMADO, B.O. 23 DE OCTUBRE DE 2003)</small>
+(REFORMADA, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADA, B.O. 15 DE MARZO DE 2004)
 
-Sólo podrán ser sujetos a Juicio Político, los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los Magistrados Regionales de Circuito y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los Subprocuradores, los Secretarios y Subsecretarios, los Jueces de Primera Instancia, los Agentes del Ministerio Público, los Consejeros Estatales Electorales, el Secretario del Consejo Estatal Electoral, los Magistrados y Secretario General del Tribunal Estatal Electoral, Presidentes Municipales, Síndicos, Regidores. Secretarios y Tesoreros de los Ayuntamientos, así como los Directores Generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los Municipios.
+Sólo podrán ser sujetos a Juicio Político, los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los Magistrados Regionales de Circuito y del Tribunal de lo Contencioso Administrativo, el Procurador General de Justicia y los Subprocuradores, los Secretarios y Subsecretarios, los Jueces de Primera Instancia, los Agentes del Ministerio Público, los Consejeros Estatales Electorales, el Secretario del Consejo Estatal Electoral, los Magistrados y Secretario General del Tribunal Estatal Electoral, Presidentes Municipales, Síndicos, Regidores, Secretarios y Tesoreros de los Ayuntamientos, así como los Directores Generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los Municipios.
 
 Las sanciones consistirán en la destitución del servidor público y, en su caso, la inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
@@ -2021,7 +2025,7 @@ Las sanciones aplicables a esta forma de responsabilidad, además de las que se�
 
 ###### Artículo 145.
 
-Para determinar la responsabilidad política del servidor público y, en su caso, la sanción aplicable, la Comisión del Congreso que determine la Ley, substanciará el procedimiento con audiencia del inculpado y con la intervención de un Diputado Acusador nombrado del seno del propio Congreso.
+Para determinar la responsabilidad política del servidor público y, en su caso, la sanción aplicable, la Comisión del Congreso que determine la ley, substanciará el procedimiento con audiencia del inculpado y con la intervención de un Diputado Acusador nombrado del seno del propio Congreso.
 
 El Congreso del Estado erigido en Jurado de Sentencia decidirá, por votación de las dos terceras partes de sus miembros presentes en sesión, sobre la responsabilidad del acusado y aplicará la sanción que corresponda, una vez practicadas las diligencias que garanticen la defensa del mismo.
 
@@ -2029,11 +2033,11 @@ En el caso de que el Gobernador del Estado, Diputados Locales y Magistrados del 
 
 El procedimiento de juicio político, deberá iniciarse durante el tiempo en que el servidor público desempeñe un empleo, cargo o comisión, o dentro del año siguiente al de la conclusión de sus funciones. La (sic) sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 23 DE OCTUBRE DE 2003)</small>
+(REFORMADO PRIMER PARRAFO, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADO, B.O. 15 DE MARZO DE 2004)
 
 ###### Artículo 146.
 
-Para proceder penalmente contra el Gobernador. Diputados al Congreso del Estado, Magistrados del Supremo Tribunal de Justicia, Magistrados Regionales de Circuito y del Tribunal de lo Contencioso Administrativo, Procurador General de Justicia., Secretarios y Subsecretarios, Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, Jueces de Primera Instancia y Agentes del Ministerio Público, los Consejeros Estatales Electorales, Secretario del Consejo Estatal Electoral, los Magistrados y Secretario General del Tribunal Estatal Electoral por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará, por mayoría absoluta de sus miembros presentes en sesión y por dos terceras partes si se trata del Gobernador, si ha lugar a proceder contra el inculpado.
+Para proceder penalmente contra el Gobernador, Diputados al Congreso del Estado, Magistrados del Supremo Tribunal de Justicia, Magistrados Regionales de Circuito y del Tribunal de lo Contencioso Administrativo, Procurador General de Justicia, Secretarios y Subsecretarios, Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, Jueces de Primera Instancia y Agentes del Ministerio Público, los Consejeros Estatales Electorales, Secretario del Consejo Estatal Electoral, los Magistrados y Secretario General del Tribunal Estatal Electoral por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará, por mayoría absoluta de sus miembros presentes en sesión y por dos terceras partes si se trata del Gobernador, si ha lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -2107,11 +2111,11 @@ El manejo de recursos económicos estatales se sujetará a las bases de esta Con
 
 Artículo 150 A. En el Estado las mujeres tienen los mismos derechos civiles y políticos que los hombres; podrán ser electas y tendrán derecho a voto en cualquier elección, siempre que reúnan los requisitos que señala la Ley.
 
-> <small>(ADICIONADO, B.O. 23 DE OCTUBRE DE 2003)</small>
+(ADICIONADO, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADO, B.O. 15 DE MARZO DE 2004)
 
 En los procesos electorales distritales y municipales que se rigen por el principio de mayoría relativa, los partidos políticos promoverán, en términos de equidad, que se postule una proporción paritaria de candidatos de ambos géneros, lo que será aplicable para candidatos propietarios y suplentes. Se exceptúa de lo anterior el caso de que las candidaturas de mayoría relativa sean resultado de un proceso de elección interna de democracia directa.
 
-> <small>(ADICIONADO, B.O. 23 DE OCTUBRE DE 2003)</small>
+(ADICIONADO, B.O. 23 DE OCTUBRE DE 2003) (REPUBLICADA, B.O. 15 DE MARZO DE 2004)
 
 Las listas de representación proporcional a cargos de elección popular a nivel estatal y municipal de propietarios y suplentes, se conformarán y asignarán en fórmulas y planillas, bajo el principio de alternancia de ambos géneros, hasta agotar el derecho de cada partido político.
 
@@ -2153,11 +2157,11 @@ Quienes teniendo la residencia y vecindad se ausentaren del lugar de su residenc
 
 ###### Artículo 157.
 
-Todo funcionario o empleado público, tiene el deber de protestar antes de encargarse de sus funciones, en la forma siguiente: La autoridad que deba recibir la protesta dirá: "Protestáis guardar y hacer guardar la Constitución de los Estados Unidos Mexicanos, la Constitución del Estado, las leyes que de ellas emanen, y cumplir leal y patrióticamente el cargo de ………. que el pueblo (o la autoridad que lo confiere) os ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado?" -El interpelado contestará: "Sí protesto". Acto contínuo dirá la persona ante quien se otorga la protesta: "Si no lo hiciéreis así la Nación y el Estado os lo demanden".
+Todo funcionario o empleado público, tiene el deber de protestar antes de encargarse de sus funciones, en la forma siguiente: La autoridad que deba recibir la protesta dirá: "Protestáis guardar y hacer guardar la Constitución de los Estados Unidos Mexicanos, la Constitución del Estado, las leyes que de ella emanen, y cumplir leal y patrióticamente el cargo de ………. que el pueblo (o la autoridad que lo confiere) os ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado?" -El interpelado contestará: "Sí protesto". Acto contínuo dirá la persona ante quien se otorga la protesta: "Si no lo hiciéreis así la Nación y el Estado os lo demanden".
 
 ###### Artículo 158.
 
-Será motivo de responsabilidad el hecho de que las autoridades, funcionarios o empleados del Estado o de los Municipios, ejecuten en perjuicio de tercero o de la Sociedad, actos que no les están mandados o permitidos expresamente por la Ley.
+Será motivo de responsabilidad el hecho de que las autoridades, funcionarios o empleados del Estado o de los Municipios, ejecuten en perjuicio de tercero o de la sociedad, actos que no les están mandados o permitidos expresamente por la Ley.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -2175,7 +2179,7 @@ Cuando la desaparición ocurriere durante los dos primeros años del período co
 
 La instalación de la Legislatura, en uno y otro caso, la hará la última Diputación Permanente, la cual será presidida por el Vice-Presidente de la misma si su Presidente hubiere asumido el Poder Ejecutivo de conformidad con este artículo. Los Magistrados del Supremo Tribunal, nombrados con carácter provisional, seguirán en funciones entre tanto aprueba el Congreso los nombramientos de Propietarios, que deberá someterle el Ejecutivo a más tardar dentro de treinta días contados a partir de la instalación de la Legislatura. Quien asumiere el Poder Ejecutivo en los casos de este Artículo dictará todas aquellas medidas estrictamente indispensables para la buena marcha de la Administración Pública.
 
-En el segundo de los casos mencionados, la persona que asuma el Poder Ejecutivo comunicará al Ejecutivo Federal la situación que prevalece para que se dé cumplimiento a la designación, por parte del Senado, de Gobernador substituto Constitucional, mediante terna que para tal efecto le enviará el Presidente de la República, de conformidad con la fracción V del artículo 76 de la Constitución Federal.
+En el segundo de los casos mencionados, la persona que asuma el Poder Ejecutivo, comunicará al Ejecutivo Federal la situación que prevalece para que se dé cumplimiento a la designación, por parte del Senado, de Gobernador substituto Constitucional, mediante terna que para tal efecto le enviará el Presidente de la República, de conformidad con la fracción V del artículo 76 de la Constitución Federal.
 
 ###### Artículo 160.
 
@@ -2185,7 +2189,7 @@ Los Tribunales del Estado se arreglarán a la Constitución General y al present
 
 ###### Artículo 161.
 
-Ningún funcionario o empleado en ejercicio podrá ser representante, apoderado, o abogado en negocios ajenos ante los tribunales ni ante las demás autoridades públicas.
+Ningún funcionario o empleado en ejercicio podrá ser representante, apoderado, o abogado en negocios ajenos ante los tribunales, ni ante las demás autoridades públicas.
 
 La prohibición anterior se entiende impuesta a los magistrados suplentes cuando estén en ejercicio por un plazo mayor de dos meses.
 
@@ -2237,7 +2241,7 @@ La presente Constitución será promulgada por bando solemne, en esta Villa, el 
 
 ###### Artículo 2.
 
-Las Leyes, Decretos, Circulares y Disposiciones de observancia general, que se han estado aplicando hasta hoy, continuarán en vigor, en todo aquello en que no contravengan a esta Constitución.
+Las Leyes, Decretos, Circulares y Disposiciones de observancia general que se han estado aplicando hasta hoy, continuarán en vigor, en todo aquello en que no contravengan a esta Constitución.
 
 ###### Artículo 3.
 
@@ -2293,7 +2297,7 @@ Tercero.- Esta Ley entrará en vigor cuando sea aprobada por la mayoría de los 
 
 B.O. 11 DE DICIEMBRE DE 1926.
 
-Primero.- Solamente la próxima renovación de Presidentes Municipales de los actuales Ayuntamientos que debe efectuarse en el mes de marzo de mil novecientos veintisiete, se sujetará a lo dispuesto por el artículo 134 que figura en la Ley número 29 de 11 de diciembre de 1923.
+Primero.- Solamente la próxima renovación de Presidentes Municipales de los actuales Ayuntamientos que debe efectuarse en el mes de marzo de mil novecientos veintisiete, se sujetará a lo dispuesto por el artículo 134 que figura en la Ley número 29 del 11 de diciembre de 1923.
 
 Segundo.- Esta Ley entrará en vigor desde la fecha de su publicación en el Boletín Oficial del Estado.
 
@@ -2303,7 +2307,7 @@ UNICO.- Esta Ley entrará en vigor desde la fecha de su publicación en el Bolet
 
 B.O. 4 DE AGOSTO DE 1928.
 
-UNICO. Esta Ley principiará a surtir sus efectos desde la fecha de su publicación en el Boletín Oficial del Estado.
+UNICO. Esta Ley principiará a surtir efectos desde la fecha de su publicación en el Boletín Oficial del Estado.
 
 B.O. 24 DE OCTUBRE DE 1928.
 
@@ -2319,7 +2323,7 @@ UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el
 
 B.O. 5 DE OCTUBRE DE 1932.
 
-UNICO.- Las reformas a los artículos 132, 134 y 134 Bis de la expresada Constitución entrará en vigor al verificarse las elecciones de Ayuntamiento para el próximo período constitucional.
+UNICO.- La reformas a los artículos 132, 134 y 134 Bis de la expresada Constitución entrará en vigor al verificarse las elecciones de Ayuntamiento para el próximo período constitucional.
 
 B.O. 28 DE ABRIL DE 1934.
 
@@ -2337,7 +2341,7 @@ B.O. 29 DE ABRIL DE 1939.
 
 LEY No. 112, QUE REFORMA EL ARTICULO 66 DE LA CONSTITUCION.
 
-UNICO. Esta Ley estará en vigor desde la fecha de su publicación en el Boletín Oficial del Estado.
+UNICO. Esta Ley entrará en vigor desde la fecha de su publicación en el Boletín Oficial del Estado.
 
 B.O. 29 DE ABRIL DE 1939.
 
@@ -2389,13 +2393,13 @@ PRIMERO.- Los Magistrados del Supremo Tribunal de Justicia electos para el perí
 
 SEGUNDO.- El Procurador General de Justicia electo para el período 1953-1957 continuará en funciones hasta la conclusión de dicho período.
 
-TERCERO.- Los Comisarios de Policía que al entrar en vigor las presentes reformas se encuentren en funciones, seguirán desempeñando su cargo hasta la terminación del período para el cual fueron electos.
+TERCERO.- Los Comisarios de Policías que al entrar en vigor las presentes reformas se encuentren en funciones, seguirán desempeñando su cargo hasta la terminación del período para el cual fueron electos.
 
 CUARTO.- Para los efectos del Artículo 31 reformado de esta Constitución y mientras se expidan las leyes que los determinen, se tendrán como Distritos electorales las actuales divisiones en la forma en que las establece la vigente Ley Orgánica Electoral del Estado.
 
 QUINTO.- Los preceptos que establecen los requisitos necesarios para los funcionarios públicos de elección popular directa o de elección indirecta, no son aplicables a los electos últimamente.
 
-SEXTO.- Entre tanto se expidan las Leyes Orgánicas y Reglamentarias relativas o las reformas que deban introducirse en las Leyes y Decretos actualmente vigentes, continuarán rigiendo dichos Ordenamientos en todo lo que no se opongan a la presente Constitución.
+SEXTO.- Entre tanto se expidan las Leyes Orgánicas y Reglamentarias relativas o las reformas que deban introducirse a las Leyes y Decretos actualmente vigentes, continuarán rigiendo dichos Ordenamientos en todo lo que no se opongan a la presente Constitución.
 
 SEPTIMO.- La presente Ley entrará en vigor el día 5 de mayo de 1954, previa su publicación en el Boletín Oficial del Estado.
 
@@ -2439,7 +2443,7 @@ Para el presente período gubernamental, que terminará el día 31 de agosto de 
 
 ###### ARTICULO SEGUNDO.
 
-Por esta sola ocasión, el Congreso del Estado designará a un Gobernador Provisional, para que con tal carácter se haga cargo del Poder Ejecutivo a partir del día 1o. de septiembre de 1967 y cubra el período comprendido entre esta fecha y el día 13 del mismo mes y año, hasta el acto de la toma de posesión y protesta del ciudadano que resulte electo como Gobernador Constitucional en los comicios que habrán de celebrarse en julio del presente año.
+Por esta sola ocasión, el Congreso del Estado, designará a un Gobernador Provisional para que con tal carácter se haga cargo del Poder Ejecutivo a partir del día 1o. de septiembre de 1967 y cubra el período comprendido entre esta fecha y el día 13 de del mismo mes y año, hasta el acto de la toma de posesión y protesta del ciudadano que resulte electo como Gobernador Constitucional en los comicios que habrán de celebrarse en julio del presente año.
 
 ###### ARTICULO TERCERO.
 
@@ -2519,7 +2523,7 @@ UNICO.- La presente ley entrará en vigor tres días después de su publicación
 
 B.O. 13 DE ENERO DE 1979.
 
-UNICO.- La presente ley entrará en vigor tres días después de la fecha de su publicación en el Boletín Oficial del Estado.
+UNICO.- La presente ley entrará en vigor tres días después de la fecha de publicación en el Boletín Oficial del Estado.
 
 B.O. 28 DE JULIO DE 1979.
 
@@ -2527,7 +2531,7 @@ UNICO.- La presente ley entrará en vigor al día siguiente de su publicación e
 
 B.O. 10 DE DICIEMBRE DE 1979.
 
-UNICO.- La presente ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+UNICO.- La presente ley entrará en vigor a partir de la fecha de publicación en el Boletín Oficial del Estado.
 
 B.O. 24 DE MARZO DE 1980.
 
@@ -2625,15 +2629,15 @@ Los integrantes de los Ayuntamientos que se elijan para el próximo período con
 
 ###### ARTICULO CUARTO.
 
-El Congreso del Estado designará a un Gobernador Provisional, para que con tal carácter se haga cargo del Poder Ejecutivo, a partir del 13 de septiembre de 1991 y hasta el día 21 de octubre del mismo año.
+El Congreso del Estado designará a un Gobernador Provisional, para que con tal carácter se haga cargo del Poder Ejecutivo, a partir del 13 de septiembre de 1991 y hasta el 21 de octubre del mismo año.
 
 ###### ARTICULO QUINTO.
 
-Los ayuntamientos electos para el período constitucional de 1985 a 1988, así como los que se elijan para el período de 1988 a 1991, rendirán, por conducto de sus Presidentes Municipales, un informe anual detallado sobre el estado que guarden los asuntos municipales, el día 15 de septiembre de cada año. Dicho informe será comunicado por escrito al Gobernador del Estado y al Congreso del Estado.
+Los ayuntamientos electos para el periodo constitucional de 1985 a 1988, así como los que se elijan para el periodo de 1988 a 1991, rendirán, por conducto de sus Presidentes Municipales, un informe anual detallado sobre el estado que guarden los asuntos municipales, el día 15 de septiembre de cada año. Dicho informe será comunicado por escrito al Gobernador del Estado y al Congreso del Estado.
 
 ###### ARTICULO SEXTO.
 
-La LI y LII, Legislaturas del Congreso del Estado, tendrán dos períodos de sesiones ordinarias en el año. El primero comenzará el 16 de septiembre y terminará el 15 de diciembre y el segundo comprenderá desde el 1o. de abril hasta el último de junio; ambos períodos pueden ser prorrogables.
+La LI y LII, Legislaturas del Congreso del Estado, tendrán dos períodos de sesiones ordinarias en el año. El primero comenzará el 16 de septiembre y terminará el 15 de diciembre y el segundo comprenderá desde el 1o. de abril hasta el último de junio; ambos periodos pueden ser prorrogables.
 
 ###### ARTICULO SEPTIMO.
 
@@ -2643,7 +2647,7 @@ B.O. 17 DE MARZO DE 1988.
 
 ###### ARTICULO PRIMERO.
 
-La presente Ley entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, con excepción del segundo párrafo del artículo 113, el cual entrará en vigor el día 22 de octubre de 1991; en consecuencia, los magistrados actualmente designados, culminarán sus períodos el día 24 de octubre de 1991.
+La presente Ley entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, con excepción del segundo párrafo del artículo 113, el cual entrará en vigor el día 22 de octubre de 1991; en consecuencia, los magistrados actualmente designados, culminarán sus periodos el día 24 de octubre de 1991.
 
 ###### ARTICULO SEGUNDO.
 
@@ -2701,13 +2705,13 @@ Los Diputados que se elijan a la LIV Legislatura del Congreso del Estado, durar�
 
 ###### ARTICULO TERCERO.
 
-El período ordinario del Congreso del Estado, correspondiente a los meses de noviembre a diciembre del año de 1993 y los períodos ordinarios correspondientes al año de 1994, se celebrarán de acuerdo con las fechas que han venido rigiendo en los términos de la Ley 109, publicada en el Boletín Oficial número 23, sección I, del 17 de septiembre de 1987.
+El período ordinario del Congreso del Estado, correspondiente a los meses de noviembre a diciembre del año de 1993 y los períodos ordinarios correspondientes al año de 1994 se celebrarán de acuerdo con las fechas que han venido rigiendo en los términos de la Ley 109, publicada en el Boletín Oficial número 23, sección I del 17 de septiembre de 1987.
 
 A partir del 16 de septiembre de 1995 los períodos de sesiones ordinarios se celebrarán de acuerdo con las fechas establecidas en la presente Ley.
 
 ###### ARTICULO CUARTO.
 
-Los informes del Gobernador a que se refiere el artículo 46 constitucional se entregarán, en los años de 1994 a 1996, conforme a la fecha que ha venido rigiendo en los términos de la Ley 109, publicada en el Boletín Oficial Número 23, sección I, de 17 de septiembre de 1987; en 1997, conforme a la fecha que se señala en la Ley 210, publicada en el Boletín Oficial Número 18, Sección II, de 30 de agosto de 1990.
+Los informes del Gobernador a que se refiere el artículo 46 constitucional se entregarán, en los años de 1994 a 1996, conforme a la fecha que ha venido rigiendo en los términos de la Ley 109, publicada en el Boletín Oficial Número 23, sección I, de 17 de septiembre de 1987; en 1997, conforme a la fecha que se señala en la Ley 210 publicada en el Boletín Oficial Número 18, Sección II, de 30 de agosto de 1990.
 
 ###### ARTICULO QUINTO.
 
@@ -2723,7 +2727,7 @@ Los Ayuntamientos que se elijan para los municipios de la Entidad, para el perí
 
 ###### ARTICULO OCTAVO.
 
-El informe anual que rindan los Ayuntamientos a la población, en 1994, se efectuará en las fechas que señala la Ley 109, publicada en el Boletín Oficial número 23, sección I, de 17 de septiembre de 1987.
+El informe anual que rindan los Ayuntamientos a la población, en 1994, se efectuará en las fechas que señala la Ley 109, publicada en el Boletín Oficial Número 23, sección I, de 17 de septiembre de 1987.
 
 B.O. 8 DE NOVIEMBRE DE 1993.
 
@@ -2767,7 +2771,7 @@ La presente ley entrará en vigor al día siguiente de su publicación en el Bol
 
 ###### ARTICULO SEGUNDO.
 
-Para adoptar la sustitución escalonada que previene esta ley, la designación de los Magistrados del Supremo Tribunal de Justicia que integrarán el Pleno de dicho órgano, se sujetará a lo siguiente: tres de los actuales Magistrados del Supremo Tribunal de Justicia concluirán sus funciones el 24 de octubre de 1997; la tercer ponente del Pleno del Supremo Tribunal de Justicia, dado su carácter inamovible, continuará en el ejercicio de su cargo; tres de los Magistrados más antiguos en su designación como tales prorrogarán el ejercicio de sus funciones, dos de ellos hasta el 24 de octubre del año 2000 y, el diverso, el de mayor antigüedad al servicio del Poder Judicial, hasta el 15 de septiembre del año 2003.
+Para adoptar la sustitución escalonada que previene esta ley, la designación de los Magistrados del Supremo Tribunal de Justicia que integrarán el Pleno de dicho órgano, se sujetará a lo siguiente: tres de los actuales Magistrados del Supremo Tribunal de Justicia concluirán sus funciones el 24 de octubre de 1997; la tercer ponente del Pleno de Supremo Tribunal de Justicia, dado su carácter inamovible, continuarán en el ejercicio de su cargo; tres de los Magistrados más antiguos en su designación como tales prorrogarán el ejercicio de sus funciones, dos de ellos hasta el 24 de octubre del año 2000 y, el diverso, el de mayor antigüedad al servicio del Poder Judicial, hasta el 15 de septiembre del años 2003.
 
 ###### ARTICULO TERCERO.
 
@@ -2785,7 +2789,7 @@ Las disposiciones que reconozcan competencia al Supremo Tribunal de Justicia, se
 
 Los Magistrados de las Salas Regionales del Supremo Tribunal de Justicia, previa la actualización que de sus nombramientos realice el Pleno del Supremo Tribunal de Justicia, continuarán en el ejercicio de sus cargos, como Magistrados Regionales de Circuito, hasta el 15 de septiembre de 1997.
 
-Asimismo, los Jueces de Primera Instancia nombrados para el período comprendido del 16 de septiembre de 1995 al 15 de septiembre de 1997, así como los que fueren designados en el curso de dicho período, continuarán en el desempeño de sus cargos, hasta la conclusión del mismo.
+Asimismo, los Jueces de Primera Instancia nombrados para el período comprendido de 16 de septiembre de 1995 al 15 de septiembre de 1997, así como los que fueren designados en el curso de dicho período, continuarán en el desempeño de sus cargos, hasta la conclusión del mismo.
 
 Si al concluir el término precisado en los párrafos que anteceden el Consejo del Poder Judicial del Estado de Sonora no ha expedido los nombramientos correspondientes de Magistrado Regional de Circuito y de Jueces de Primera Instancia, continuarán en funciones quienes se encuentren desempeñando dichos cargos, hasta en tanto tomen posesión los nuevamente nombrados.
 
@@ -2858,6 +2862,36 @@ C).- En virtud de la nueva estructura del Tribunal Estatal Electoral que plantea
 Los ciudadanos Luis Enrique Pérez Alvidrez y María Teresa González Saavedra, deberán rendir protesta del cargo a la entrada en vigor de esta Ley, ante el Pleno o la Diputación Permanenete de este Congreso, según sea el caso.
 
 A fin de culminar la integración del Tribunal Estatal Electoral, el Congreso del Estado emitirá convocatoria pública para designar al tercer Magistrado Propietario y a los dos Magistrados Suplentes Comunes, cuyos períodos para el ejercicio de su encargo será de nueve años. En la desiganación de los Magistrados Suplentes Comunes se respetará el principio de equidad y paridad de género.
+
+B.O. 15 DE MARZO DE 2004.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo, en su caso, que emitan los Ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley para los efectos dispuestos por el artículo 163 de la Constitución Política Local.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto que lleve a cabo el cómputo respectivo y en su caso de resultar aprobada la presente Ley, por cuando menos, la mitad más uno de los Ayuntamientos de los Municipios de la Entidad, se remita al Titular del Poder Ejecutivo Estatal para su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los Consejeros integrantes del Consejo Estatal Electoral, continuarán en sus cargos conforme a las bases de su designación por el Congreso de Estado de Sonora.
+
+La renovación parcial que establece esta Ley para el Consejo Estatal Electoral iniciará con la renovación del mismo una vez culminado el encargo de los actuales Consejeros Estatales Electorales, atendiendo a las bases que señala la Constitución Política del Estado y la Ley Electoral, así como los principios de paridad de género y alternancia en la conformación del mismo, tanto en los Consejeros Propietarios como en los Consejeros Suplentes Comunes.
+
+El Congreso del Estado, al renovar los Consejeros Estatales Electorales, de conformidad con el párrafo anterior, por única ocasión y con el objeto de materializar la renovación parcial en lo sucesivo, nombrará a dos Consejeros Propietarios y dos Consejeros Suplentes para que ejerzan sus funciones por el período de un proceso electoral ordinario y, los restantes, tres Consejeros Propietarios y un Consejero Suplente, para el período de dos procesos electorales ordinarios, circunstancia que deberá asentarse en la convocatoria que se emita para tal efecto.
+
+###### ARTICULO TERCERO.
+
+Para efectos de dar cumplimiento a la obligación de renovar parcialmente y garantizar la representación de ambos géneros en la integración del Tribunal Estatal Electoral, se procederá de la siguiente manera:
+
+A).- Los actuales Magistrados Numerarios del Tribunal Estatal Electoral, ciudadanos Alfredo López Moreno, Pedro González Avilés y Francisco Peralta Núñez, concluirán el ejercicio de sus funciones a la entrada en vigor de la presente Ley, como consecuencia de la nueva estructura del Tribunal y en virtud de haber fenecido el periodo de su encargo.
+
+B).- De igual manera, en virtud de la nueva estructura del Tribunal Estatal Electoral que propone esta Ley, los actuales Magistrados Supernumerarios, ciudadanos Marco Antonio Encinas Cajigas y Jorge Guadalupe Romero Meneses, concluirán el ejercicio de sus funciones a la entrada en vigor de la presente Ley.
+
+C).- En virtud de la nueva estructura del Tribunal Estatal Electoral que plantea la presente reforma, continuará en el ejercicio de su encargo como Magistrado Propietario el C. Lic. Luis Enrique Pérez Alvidrez, por un período de tres años, contados a partir de la toma de protesta en el cargo. Asimismo, derivado del imperativo que previene garantizar la representación de género, se designa a la actual Magistrada Supernumeraria C. Lic. María Teresa González Saavedra como Magistrada Propietaria del Tribunal Estatal Electoral, por un período de seis años, contados a partir de la toma de protesta en el cargo.
+
+Los ciudadanos Luis Enrique Pérez Alvidrez y María Teresa González Saavedra, deberán rendir protesta del cargo a la entrada en vigor de esta Ley, ante el Pleno o la Diputación Permanente de este Congreso, según sea el caso.
+
+A fin de culminar la integración del Tribunal Estatal Electoral, el Congreso del Estado emitirá convocatoria pública para designar al tercer Magistrado Propietario y a los dos Magistrados Suplentes Comunes, cuyos periodos para el ejercicio de su encargo será de nueve años. En la designación de los Magistrados Suplentes Comunes se respetará el principio de equidad y paridad de género.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
