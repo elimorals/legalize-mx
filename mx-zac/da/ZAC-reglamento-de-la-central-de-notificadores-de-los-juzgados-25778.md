@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-central-de-notificadores-de-los-juzgados-25778
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-10"
-last_updated: "2002-08-10"
+last_updated: "2003-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 REGLAMENTO DE LA CENTRAL DE NOTIFICADORES DE LOS JUZGADOS CIVILES, FAMILIARES Y MERCANTILES DEL DISTRITO JUDICIAL DE LA CAPITAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2003.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de agosto de 2002.
 
@@ -51,9 +51,13 @@ La actividad que desarrollen los elementos que integren la Central de Notificado
 
 Para el cumplimiento de sus obligaciones y atribuciones la central de notificadores se estructurará de la siguiente manera:
 
-l.- Director.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
-II.- Area de asistencia operativa.
+I.- Coordinador de las Centrales de Notificadores y Actuarios.
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+II.- Jefe de la Central.
 
 III.- Notificadores adscritos a la central.
 
@@ -61,11 +65,17 @@ IV.- Notificadores adscritos a los juzgados.
 
 V.- Notificadores adscritos al área de consulta.
 
-### CAPITULO III. DE LA DIRECCIÓN
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+### CAPITULO III. DE LA COORDINACIÓN
+
+> <small>N. DE E. DE CONFORMIDAD CON EL INCISO A) DEL ACUERDO NO. 7/2003 QUE MODIFICA EL REGLAMENTO, PUBLICADO EN EL P.O. DE 22 DE OCTUBRE DE 2003, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTICULO DE QUINCE FRACCIONES A TRECE.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 2003)</small>
 
 ###### Artículo 5.
 
-La Central de Notificaciones estará a cargo del Director, cuyas atribuciones son las siguientes:
+La Central de Notificadores estará o cargo del Coordinador de las Centrales de Notificadores y Actuarios, cuyas atribuciones son las siguientes:
 
 l.- Planear, organizar, coordinar, controlar, dirigir y evaluar la realización de las diversas notificaciones que turnen para esos efectos a la Central a su cargo.
 
@@ -73,35 +83,55 @@ II.- Promover planes, programas y métodos que contribuyan a la mejor aplicació
 
 III.- Hacer la división de las áreas por zonas o sectores para llevar a cabo las notificaciones, tomando en cuenta el volumen de trabajo y numero de notificadores.
 
-IV.- Asignar a cada notificador de la central su zona en la que deba laborar, pudiendo ser susceptible de cambio a criterio del Director.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
-V.- Entregar el trabajo que debe desarrollar el personal del área de asistencia operativa.
+IV.- Asignar a cada notificador de la central su zona en la que deba laborar, pudiendo ser susceptible de cambio de acuerdo a su criterio o al del Jefe de la Central.
 
-VI.- Elaborar y ordenar la impresión de los diversos formatos o sellos de notificación que se requieran.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
-VII.- Promover cursos de capacitación para los elementos del personal a su cargo, con el objeto de eficientar el trabajo que se realice.
+V.- Cuidar que las notificaciones se realicen con estricto apego a la ley y conforme a los lineamientos que marquen los jueces.
 
-VIII.- Atender las consultas o planteamientos que hagan los abogados, postulantes, autoridades y demás interesados.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
-IX.- Cuidar que las notificaciones se realicen con estricto apego a la ley.
+VI.- Supervisor el área de consulta con el propósito de que se dé al público una esmerada atención.
 
-X.- Supervisar el área de consulta con el propósito de que se dé al público una esmerada atención.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
-XI.- Rendir un informe mensual de sus actividades al Presidente del Tribunal Superior de Justicia.
+VII.- Coordinar su trabajo con el de los titulares de los respectivos juzgados, en lo que respecto al rubro de notificaciones.
 
-XII.- Coordinar su trabajo con el de los titulares de los respectivos juzgados, en lo que respecta al rubro de notificaciones.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
-XIII.- Levantar las actas administrativas correspondientes a las faltas cometidas por el personal a su cargo.
+VIII.- Elaborar y ordenar la impresión de los diversos formatos o sellos de notificación que se requieran.
 
-XIV.- Plantear ante la Secretaría General de Acuerdos del Tribunal Superior de justicia la problemática o necesidades que tenga la Central.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
-XV.- Y las demás que se le encomienden o que determinen las demás disposiciones legales relativas.
+IX.- Recibir del Jefe de la Central y levantar las actas administrativas del Personal de la Central, para dar cuenta a la Secretaría General de Acuerdos del Tribunal Superior de Justicia y tomar las medidas disciplinarias correspondientes.
 
-### CAPITULO IV. DEL AREA DE ASISTENCIA OPERATIVA
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+X.- Plantear ante la Secretaría General de Acuerdos del Tribunal la problemática o necesidades que tenga la Central.
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+XI.- Convocar a las reuniones de trabajo que sean necesarias y promover la capacitación o actualización del personal a efecto de mejorar la calidad del servicio.
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+XII.- Rendir un informe mensual de sus actividades al Presidente del Tribunal Superior de Justicia.
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+XIII.- Las demás que se le encomienden o que determinen las disposiciones legales relativas.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+### CAPITULO IV. DEL JEFE DE LA CENTRAL
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE OCTUBRE DE 2003)</small>
 
 ###### Artículo 6.
 
-Son atribuciones de los encargados del área de asistencia operativa las siguientes:
+Son atribuciones del Jefe de la Central las siguientes:
 
 l.- Recibir diariamente, y de acuerdo a las reglas de control correspondientes, las cédulas de notificación y sus anexos, debidamente requisitadas de parte de los notificadores adscritos a cada juzgado.
 
@@ -129,13 +159,19 @@ II.- Agotar el trabajo encomendado dentro de los plazos que señalen los Código
 
 III.- Asentar en las actas, de manera clara y veraz las circunstancias de cada notificación, así como las razones que deba conocer el juez que la ordenó.
 
-IV.- Entregar al área operativa la documentación relativa a las notificaciones, de preferencia el mismo día que las realizó.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
 
-V.- Informar al Director sobre las notificaciones realizadas y en su caso, dará las razones de aquellas que no fue posible llevar a cabo.
+IV.- Entregar al Jefe de la Central la documentación relativa a las notificaciones, de preferencia el mismo día que las realizó.
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+V.- Informar al Jefe de la Central sobre las notificaciones realizadas y en su caso, dará las razones de aquellas que no fue posible llevar a cabo.
 
 VI.- Rendir informes en tiempo y forma legales en los juicios de amparo y recursos que se promuevan en su contra, con motivo del ejercicio de sus funciones.
 
-VII.- Rendir un informe semanal al director respecto al trabajo que desarrollaron en ese periodo.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+VII.- Rendir un informe semanal al Jefe de la Central, respecto al trabajo que desarrollaron en ese periodo.
 
 VIII.- Y las demás que se le encomienden o que determinen las demás disposiciones legales relativas.
 
@@ -211,9 +247,11 @@ X.- Y las demás que se le encomienden o que determinen las demás disposiciones
 
 Los formatos para notificar serán autorizados por el pleno del H. Tribunal Superior de Justicia, previo estudio y consideración del contenido de cada uno de ellos.
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2003)</small>
+
 ###### Artículo 11.
 
-El deposito y guarda de los diversos formatos de notificación y sellos, será responsabilidad del director de notificadores, a fin de tener el control y reparto de los mismos para su utilización.
+El depósito y guarda de los diversos formatos de notificación y sellos, será responsabilidad del Jefe de la Central, a fin de tener el control y reparto de los mismos para su utilización.
 
 ## ARTICULO TRANSITORIO
 
@@ -232,3 +270,9 @@ LIC. FELIPE BORREGO
 EL SECRETARIO GENERAL DE ACUERDOS DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
 LIC. MARCO AURELIO RENTERÍA SALCEDO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE OCTUBRE DE 2003.
+
+UNICO.- Publíquese el presente Reglamento en el Periódico Oficial Órgano de Gobierno del Estado, el cual· entrará en vigor al día siguiente de su publicación.
