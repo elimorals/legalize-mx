@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "1997-05-07"
+last_updated: "1999-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ENERO DE 1999.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -1802,71 +1802,11 @@ Lo establecido en el presente artículo es sin perjuicio de que los usuarios pue
 
 ###### ARTICULO 119.
 
-Los usuarios del servicio de banca y crédito podrán, a su elección, presentar sus reclamaciones ante la Comisión Nacional Bancaria, o hacer valer sus derechos ante los tribunales competentes de la Federación o del orden común. Las instituciones de crédito estarán obligadas, en su caso, a someterse al procedimiento de conciliación a que se refiere el artículo siguiente.
-
-En el caso en que las reclamaciones se presenten ante la Comisión Nacional Bancaria, ésta conciliará y, en su caso, resolverá las diferencias que se susciten entre las instituciones de crédito y los usuarios del servicio de banca y crédito, derivadas de la realización de operaciones y de la prestación de servicios bancarios. Tratándose de diferencias que surjan respecto al cumplimiento de fideicomisos, sólo conocerá de las reclamaciones que presenten los fideicomitentes o fideicomisarios en contra de los fiduciarios.
-
-La sola presentación de la reclamación que se prevé en este artículo, interrumpe la prescripción.
-
-> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
-
-La Comisión Nacional Bancaria y de Valores estará facultada para suplir la deficiencia en las reclamaciones en beneficio del usuario. Asimismo, desechará las reclamaciones que sean notoriamente improcedentes y aquéllas de las que esté conociendo la autoridad judicial, de lo cual se notificará al usuario.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, D.O.F. 18 DE ENERO DE 1999)
 
 ###### ARTICULO 120.
 
-Las reclamaciones a que se refiere el artículo anterior, se ajustarán a las bases siguientes:
-
-I. Se presentarán por escrito ante la Comisión Nacional Bancaria, o en su delegación regional correspondiente; en las mismas se correrá traslado a la institución de que se trate, requiriéndole un informe detallado, mismo que deberá presentar por conducto de un representante en la fecha que dicha Comisión señale, de manera perentoria, para la realización de una junta de avenencia para la cual se citará a las partes y que sólo podrá diferirse por una vez;
-
-> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
-
-II. En la junta a que se refiere la fracción anterior, la Comisión exhortará a las partes a conciliar sus intereses.
-
-Si la institución de crédito no presenta el informe en la junta de avenencia, o no lo rinde en la forma señalada en la fracción anterior, la Comisión podrá diferir la junta y solicitarle las aclaraciones que estime necesarias.
-
-En caso que el reclamante no comparezca, ni justifique su ausencia en un plazo de diez días hábiles, contado a partir de la fecha fijada para la celebración de la junta de avenencia, se entenderá que no desea la conciliación, dándose por concluido el procedimiento respectivo, quedando a salvo sus derechos para hacerlos valer ante los tribunales competentes.
-
-Si en la junta no se logra la conciliación de las partes, la Comisión las invitará a que de común acuerdo designen árbitro, ya sea a la propia Comisión o a quien ésta les proponga, quedando a elección de las mismas que el juicio arbitral sea en amigable composición o en juicio arbitral de estricto derecho. El compromiso correspondiente se hará constar en el acta que al efecto se levante.
-
-> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
-
-III. En el evento de que sea la institución de crédito la que decline el arbitraje y siempre que del contenido del escrito de reclamación y del informe que dicha institución presente, se desprendan elementos que a juicio de la Comisión permitan suponer la procedencia de lo reclamado, la propia Comisión podrá emitir un dictamen técnico que contenga su opinión.
-
-La Comisión entregará al reclamante copia certificada del dictamen técnico, a efecto de que lo pueda hacer valer ante los tribunales competentes, los que deberán tomarlo en cuenta para mejor proveer en el procedimiento respectivo.
-
-> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
-
-IV. La Comisión tendrá la facultad de allegarse todos los elementos que juzgue necesarios para procurar la conciliación o resolver las cuestiones que se le hayan sometido en arbitraje, así como para formular el dictamen técnico a que se refiere la fracción anterior, pudiendo al efecto requerir a la institución de que se trate los datos, informes, registros, auxiliares, correspondencia y demás documentación relativa, así como practicar las visitas de inspección que se requieran.
-
-> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
-
-V. Las delegaciones regionales podrán tramitar la etapa conciliatoria y, en su caso, el procedimiento arbitral escogido.
-
-> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
-
-VI. En la amigable composición se fijarán las cuestiones que deberán ser objeto del arbitraje y la Comisión tendrá libertad de resolver en conciencia y a buena fe guardada, sin sujeción a las reglas legales, pero observando las formalidades esenciales del procedimiento. No habrá términos ni incidentes y la resolución correspondiente sólo admitirá aclaración de la misma.
-
-> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
-
-VII. En el juicio arbitral de estricto derecho las partes formularán compromiso, en el que fijarán igualmente las reglas del procedimiento que convencionalmente establezcan, aplicándose supletoriamente el Código de Comercio, con excepción de los artículos 1217, 1235 y 1296.
-
-Las resoluciones en el juicio arbitral de estricto derecho, dictadas en el curso del procedimiento, admitirán como único recurso el de revocación y el laudo dictado sólo podrá ser impugnado en juicio de amparo.
-
-> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
-
-VIII. El incumplimiento o desacato por parte de las instituciones de crédito a los requerimientos, solicitudes de informes, acuerdos o resoluciones dictados por la Comisión Nacional Bancaria y de Valores en el curso de los procedimientos establecidos en el presente artículo, serán castigados con multa administrativa que imponga la propia Comisión, por cantidad equivalente de cien a un mil veces el salario mínimo general diario vigente en el Distrito Federal;
-
-> <small>(REFORMADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
-
-IX. El laudo que en amigable composición o en juicio arbitral de estricto derecho condene a una institución, le otorgará para su cumplimiento un plazo de quince días hábiles a partir de la notificación; si no lo efectuare, sin perjuicio de lo señalado en la fracción siguiente, la Comisión Nacional Bancaria y de Valores impondrá a la institución una multa de hasta tres veces el importe de lo condenado, si éste fuera cuantificable o hasta cinco mil veces el salario mínimo general diario vigente en el Distrito Federal, si no lo fuere;
-
-> <small>(ADICIONADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
-
-X. Cuando se faltare al cumplimiento voluntario de lo convenido en la conciliación o al laudo en la amigable composición o en el juicio arbitral de estricto derecho, la parte afectada deberá acudir a los tribunales competentes, para efectos de ejecución de una u otra resolución, y
-
-> <small>(ADICIONADA, D.O.F. 17 DE NOVIEMBRE DE 1995)</small>
-
-XI. Las notificaciones en el juicio arbitral de estricto derecho se harán a las partes por cédula fijada en los estrados de la Comisión Nacional Bancaria y de Valores o de la delegación regional correspondiente, excepción hecha del traslado de la reclamación, de la demanda, de la citación a la junta conciliatoria y del laudo, que tendrán que hacerse personalmente o por correo certificado con acuse de recibo. Las notificaciones surtirán efecto al día siguiente a aquél en que se efectúen.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCION Y DEFENSA AL USUARIO DE SERVICIOS FINANCIEROS, D.O.F. 18 DE ENERO DE 1999)
 
 ###### ARTICULO 121.
 
@@ -2321,3 +2261,13 @@ D.O.F. 7 DE MAYO DE 1997.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las disposiciones de carácter general que la Secretaría de Hacienda y Crédito Público haya emitido bajo la vigencia de los artículos que se reforman en este decreto, continuarán vigentes hasta en tanto no sean modificadas, abrogadas o derogadas por la misma dependencia.
+
+D.O.F. 18 DE ENERO DE 1999.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor noventa días después de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan los artículos 119 y 120 de la Ley de Instituciones de Crédito; 102 y 103 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; 87 y 88 de la Ley del Mercado de Valores; 45 de la Ley de Sociedades de Inversión; la fracción XI del artículo 108 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros; la fracción XII del artículo 5o., 109 y 110 de la Ley de los Sistemas de Ahorro para el Retiro, y la fracción X del artículo 4o. de la Ley de la Comisión Nacional Bancaria y de Valores, así como las demás disposiciones que se opongan a la presente Ley.
+
+...
