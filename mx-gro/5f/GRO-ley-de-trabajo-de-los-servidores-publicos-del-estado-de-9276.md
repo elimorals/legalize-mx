@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-trabajo-de-los-servidores-publicos-del-estado-de-9276"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-06"
-last_updated: "1989-01-06"
+last_updated: "1989-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE TRABAJO DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUERRERO NUMERO 248
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 1989.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 6 de enero de 1989.
 
@@ -877,9 +877,11 @@ Para los efectos de la prescripción, los meses se regularán por el número de 
 
 El Tribunal de Conciliación y Arbitraje será colegiado y se integrará por un representante del gobierno que designará el Ejecutivo, un representante del trabajo designado por el sindicato y un tercer árbitro que será nombrado de común acuerdo y quien fungirá como Presidente.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1989)</small>
+
 ###### ARTICULO 107.
 
-En los primeros diez días del mes de abril del año en que se renueve el Poder Ejecutivo, la Secretaría de Gobierno lanzará una convocatoria dirigida a los trabajadores, para que a más tardar el día último de ese mismo mes elijan a su representante.
+En los primeros diez días del mes de abril del año en que se renueve el Poder Ejecutivo, la Secretaría General de Gobierno lanzará una convocatoria dirigida a los trabajadores, para que a más tardar el día último de ese mismo mes elijan a su representante.
 
 ###### ARTICULO 108.
 
@@ -1126,3 +1128,9 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE NOVIEMBRE DE 1989.
+
+UNICO.- El presente Decreto de reformas y adiciones a la Ley Orgánica de la Administración Pública entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
