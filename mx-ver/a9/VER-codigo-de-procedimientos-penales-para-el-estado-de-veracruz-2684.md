@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-de-veracruz-268
 country: "mx"
 rank: "codigo"
 publication_date: "1948-02-12"
-last_updated: "2002-05-22"
+last_updated: "2003-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE MAYO DE 2002.
+> <small>N. DE E. EL PRESENTE CODIGO HA SIDO ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA GACETA OFICIAL EL VIERNES 7 DE NOVIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave el jueves 12, sábado 14, martes 17, jueves 19, sábado 21, martes 24, jueves 26 y sábado 28 de febrero; martes 2, jueves 4, sábado 6, martes 9, jueves 11, sábado 13 y martes 16 de marzo de 1948.
 
@@ -2941,7 +2943,7 @@ Concedida la rehabilitación por la Legislatura del Estado, se comunicará la re
 
 Al que una vez se le hubiere concedido la rehabilitación, nunca se le podrá conceder otra.
 
-TRANSITORIOS:
+T R A N S I T O R I O S :
 
 1o.- Este Código entrará en vigor el día 1º. de julio del año 1948.
 
@@ -3084,3 +3086,33 @@ G.O. 22 DE MAYO DE 2002.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 SEGUNDO. Remítase al ciudadano Gobernador del Estado par su promulgación y publicación.
+
+G.O. 18 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "...Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "...Estado de Varacruz-Llave", se entenderán referidas al "...Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "...del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 7 DE NOVIEMBRE DE 2003.
+
+PRIMERO.- El presente ordenamiento entrará en vigor el día primero de enero de 2004, previa publicación en la Gaceta Oficial del estado.
+
+SEGUNDO.- A partir de la entrada en vigor de este ordenamiento quedará abrogado el Código de Procedimientos Penales para el Estado Libre y Soberano de Veracruz-Llave, que inició su vigencia el primero de julio de mil novecientos cuarenta y ocho; y se derogarán sus reformas y adiciones subsiguientes, así como las demás disposiciones que se opongan al presente Código.
+
+TERCERO.- Todos los procesos y averiguaciones que estuvieren en trámite al comenzar la vigencia de este Código se sujetarán a sus disposiciones. Asimismo, las averiguaciones previas iniciadas o en trámite se entenderán referidas, en su denominación y contenido al concepto de investigación ministerial.
+
+CUARTO.- Los recursos interpuestos antes de la entrada en vigor de este Código, que no se hayan admitido o desechado, se admitirán siempre que en este Código o en el anterior sean procedentes y se substanciarán conforme a lo dispuesto en el presente.
+
+QUINTO.- Los términos que estén corriendo para interponer algún recurso al iniciar la vigencia de este Código, se computarán conforme al mismo o al Código anterior, aplicándose las disposiciones que señalen mayor competencia.
