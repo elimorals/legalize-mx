@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-los-municipios-del-estado-de-guanajuato-53
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "1991-12-27"
+last_updated: "1992-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1992.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -1577,11 +1577,11 @@ Todo inmueble deberá estar inscrito en los padrones fiscales. La violación de 
 
 El valor fiscal de los inmuebles, solo podrá ser modificado, por la manifestación del valor de los inmuebles de los contribuyentes; cuando se produzca un cambio en cuanto al nombre del contribuyente, a las características del inmueble; o por otra circunstancia que origine una alteración de su valor con motivo de la ejecución de obras públicas, así como en la reconstrucción o rehabilitación de dichas obras.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1991)</small>
+(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992) (F. DE E., P.O. 26 DE MARZO DE 1993)
 
 No habiendo alguna de las causas anteriores, el valor fiscal solo podrá ser modificado por avalúo, si han transcurrido cuando menos cuatro años fiscales desde la fecha en que haya surtido efectos el anterior. Dicho avalúo entrará en vigor a partir del bimestre siguiente a la fecha en que se notifique.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1991)</small>
+(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992) (F. DE E., P.O. 26 DE MARZO DE 1993)
 
 Al término de la vigencia de los cuatro años, a que se refiere el párrafo anterior, en tanto se practica el nuevo avalúo, la Tesorería Municipal, incrementará la base del impuesto, aplicándole el factor que resulte de dividir el índice nacional de precios al consumidor que publique el Banco de México, del primer mes del bimestre en que haya vencido al avalúo anterior, entre el índice nacional de precios al consumidor del primer mes del bimestre en que se haya notificado.
 
@@ -1651,9 +1651,9 @@ IV.- Existan inmuebles ocultos a la acción fiscal.
 
 Están obligados al pago de este Impuesto las personas físicas o morales que transmiten o adquieren por cualquier título o causa, bienes inmuebles ubicados en el Estado, así como los derechos reales vinculados a los mismos.
 
-> <small>(REFORMADO P.O. 27 DE DICIEMBRE DE 1991)</small>
+(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992) (F. DE E., P.O. 26 DE MARZO DE 1993)
 
-No se causará este impuesto tratándose de adquisiciones de inmuebles que hayan realizado la Federación, el Estado o los Municipios para formar parte del dominio público, y los Partidos Políticos Nacionales, siempre y cuando dichos inmuebles sean para su propio uso; asimismo en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos de contrato de arrendamiento financiero.
+No se causará este impuesto tratándose de adquisiciones de inmuebles que hayan realizado la Federación, el Estado o los Municipios que forman parte del dominio público, y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso; asimismo en las adquisiciones de inmuebles que hagan los arrendatarios al ejercer la opción de compra en los términos de los contratos de arrendamiento financiero, y de las asociaciones religiosas constituidas en los términos de la ley de la materia, siempre que, en este último caso, la adquisición se realice dentro de los seis meses siguientes a su constitución.
 
 ###### ARTICULO 180.
 
@@ -2254,3 +2254,9 @@ P.O. 27 DE DICIEMBRE DE 1991.
 ###### ARTICULO UNICO.
 
 El presente decreto entrara en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE DICIEMBRE DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
