@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-merito-civil-del-estado-de-mexico-26748"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-30"
-last_updated: "2002-08-30"
+last_updated: "2003-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL MERITO CIVIL DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE DICIEMBRE DE 2003.
 
 Reglamento publicado en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el viernes 30 de agosto de 2002.
 
@@ -87,7 +87,11 @@ XII. Al impulso económico "Filiberto Gómez";
 
 XIII. Al mérito en la preservación del ambiente "José Mariano Mociño Suárez Lozada"; y
 
-XIV. "José María Luis Mora".
+XIV. "José María Luis Mora";
+
+> <small>(ADICIONADA, G.G. 2 DE DICIEMBRE DE 2003)</small>
+
+XV. A residentes en el extranjero “José María Heredia y Heredia”.
 
 ###### Artículo 6.
 
@@ -439,6 +443,22 @@ La presea "José María Luis Mora" es la distinción que se otorga a quienes no 
 
 Esta presea se tramitará a través del Consejo de Premiación, quien propondrá las candidaturas al Gobernador del Estado, tanto las formuladas en los términos del artículo 28 de este reglamento, como las directamente emanadas del propio Consejo.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 2 DE DICIEMBRE DE 2003)</small>
+
+PRESEA A RESIDENTES EN EL EXTRANJERO "JOSÉ MARÍA HEREDIA Y HEREDIA".
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 68-A.
+
+La presea "José María Heredia y Heredia" se entregará a las personas físicas residentes en el extranjero que sean originarias del Estado de México, y que hayan realizado acciones, obras o servicios de carácter relevante en favor de la humanidad, el país, el Estado de México o su comunidad.
+
+> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2003)</small>
+
+###### Artículo 68-B.
+
+Este reconocimiento se tramitará ante el Consejo de Premiación, el que integrará un jurado calificador con el Coordinador General de Enlace Institucional o su equivalente, el Subsecretario General de Gobierno, el Subsecretario de Industria y Promoción Internacional, un representante de la Secretaría del Trabajo y de la Previsión Social y otro de la Secretaría de Educación, Cultura y Bienestar Social, y tres presidentes municipales.
+
 ### CAPITULO SEXTO. DE LOS RECONOCIMIENTOS ESPECIALES
 
 «León Guzmán»
@@ -508,3 +528,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.G. 2 DE DICIEMBRE DE 2003.
+
+PRIMERO.- Publíquese el presente acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente acuerdo.
