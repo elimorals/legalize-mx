@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-organica-de-petroleos-mexicanos-2085"
 country: "mx"
 rank: "reglamento"
 publication_date: "1972-08-10"
-last_updated: "1972-08-10"
+last_updated: "2001-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2085&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1972-07-25"
 
 REGLAMENTO DE LA LEY ORGANICA DE PETROLEOS MEXICANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 2001.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 10 de agosto de 1972.
 
@@ -128,6 +128,28 @@ El Secretario del Consejo de Administración levantará acta de cada sesión, en
 ###### ARTICULO 11.
 
 El Secretario formulará un extracto de los acuerdos y resoluciones del Consejo de Administración; y al día hábil siguiente de la sesión, lo comunicará por escrito, para su cumplimiento, al Director General, con copia para el Presidente del Consejo.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 2001)</small>
+
+ARTICULO 11 bis.- El Consejo de Administración de Petróleos Mexicanos contará con un Comité Consultivo que se compondrá de ocho miembros, a saber:
+
+I. Dos representantes de la Administración Pública Federal, siendo ellos el titular de la Coordinadora de Sector al que está adscrito el Organismo, quien fungirá como coordinador del Comité, y el director general de Petróleos Mexicanos, y
+
+II. Seis personas de reconocida capacidad, prestigio y experiencia en el desempeño de cargos de alto nivel decisorio, que puedan contribuir al logro de los fines del Organismo y al mejor desempeño de las atribuciones conferidas al Consejo de Administración.
+
+Las personas mencionadas en la fracción II de este artículo deberán ser mexicanos en pleno ejercicio de sus derechos ciudadanos, y en ningún caso podrán ser designados personas que hayan sido sentenciadas por delitos patrimoniales o inhabilitadas para ejercer el comercio o para desempeñar un empleo en el servicio público, así como tener parentesco por consanguinidad o afinidad hasta el cuarto grado o civil con cualquiera de los miembros del Consejo de Administración o del director general de Petróleos Mexicanos.
+
+El Presidente de la República designará a las personas que formarán parte del Comité Consultivo, a que alude la fracción II anterior.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ABRIL DE 2001)</small>
+
+ARTICULO 11 ter.- El Comité Consultivo tendrá por objeto analizar y opinar sobre los asuntos que el Consejo de Administración y el director general de Petróleos Mexicanos le encomiende, proponer los programas y acciones que juzgue necesarias para el mejor desarrollo del Organismo, y sugerir asuntos específicos que deban tratarse en las sesiones del Consejo.
+
+Los integrantes del Comité podrán participar con voz, pero sin voto, en las sesiones del Consejo de Administración e informarán al mismo de los asuntos que hayan tratado.
+
+El Comité sesionará en forma ordinaria cuando menos cuatro veces al año; las sesiones extraordinarias tendrán verificativo en cualquier tiempo a solicitud del Consejo de Administración, su presidente o el director general del Organismo.
+
+El secretario del Consejo de Administración actuará como secretario técnico del Comité, y será quien convoque a las sesiones ordinarias o extraordinarias y levante las minutas correspondientes.
 
 ### CAPITULO TERCERO. Del Director General
 
@@ -252,3 +274,11 @@ El Consejo de Administración conocerá y en su caso aprobará y determinará si
 El presente Reglamento entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los 25 días del mes de julio de mil novecientos setenta y dos.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Hugo B. Margáin.- Rúbrica.- El Secretario del Patrimonio Nacional, Horacio Flores de la Peña.- Rúbrica.- El Secretario de la Presidencia, Hugo Cervantes del Río.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Rafael Hernández Ochoa.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 30 DE ABRIL DE 2001.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
