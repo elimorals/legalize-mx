@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "1995-03-17"
+last_updated: "1995-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1995.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -481,49 +481,39 @@ No podrán reunirse dos o más de estos poderes en una persona o corporación ni
 
 #### SECCION PRIMERA. De la Elección e Instalación de la Legislatura
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
 
 ###### ARTICULO 52.
 
-La Legislatura del Estado de Quintana Roo, se integra con trece Diputados Electos según el principio de Votación Mayoritaria Relativa, mediante el Sistema de Distritos Electorales Uninominales, y hasta con cinco Diputados Electos según el Principio de Representación Proporcional mediante el sistema de listas votadas en una circunscripción Plurinominal. Los Diputados serán electos cada tres años por votación universal, directa, libre y secreta de los ciudadanos quintanarroenses en ejercicio de sus derechos.
+La Legislatura del Estado de Quintana Roo, se integra con quince Diputados electos en igual número de distritos electorales según el principio de votación mayoritaria relativa, y con diez Diputados electos según el principio de representación proporcional. Los Diputados serán electos cada tres años por sufragio universal, libre, secreto, directo, personal e instransferible de los ciudadanos quintanarroenses en ejercicio de sus derechos.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1989)</small>
+Por cada Diputado propietario se elegirá un suplente.
 
-ARTICULO 52 BIS.- Para la elección de los trece Diputados Electos según el Principio de Votación Mayoritaria Relativa, la Comisión Estatal Electoral hará la demarcación territorial correspondiente en Distritos Electorales Uninominales.
+Los Diputados electos según el principio de votación mayoritaria relativa y los de representación proporcional, son representantes del pueblo quintanarroense, y tienen la misma calidad e igualdad de derechos y obligaciones.
 
-Para la Elección de los cinco Diputados según el Principio de Representación Proporcional, el territorio del Estado constituirá una circunscripción electoral plurinominal.
+ARTICULO 52 BIS.- (DEROGADO, P.O. 20 DE SEPTIEMBRE DE 1995)
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1978)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
 
 ###### ARTICULO 53.
 
-Los diputados electos según el principio de votación mayoritaria relativa y los de representación proporcional, son representantes del pueblo quintanarroense, tienen la misma calidad e igualdad de derechos y obligaciones.
+Para la elección de los quince Diputados electos según el principio de votación mayoritaria relativa, la autoridad competente hará la demarcación territorial correspondiente en distritos electorales.
 
-Por cada diputado propietario se elegirá un suplente.
+La ley de la materia fijará los criterios que tomará en cuenta la autoridad competente para establecer la demarcación, atendiendo las condiciones geográficas y las circunstancias socioeconómicas prevalecientes en las diversas regiones de la entidad, así como la representatividad de los distintos sectores de la sociedad que deban obtener los Diputados por mayoría relativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 1989)</small>
+ARTICULO 53 BIS.- (DEROGADO, P.O. 20 DE SEPTIEMBRE DE 1995)
 
-ARTICULO 53 BIS.- La elección de los cinco Diputados según el principio de Representación Proporcional en la Circunscripción plurinominal, se sujetará a las bases generales siguientes y a lo que en lo particular disponga la Ley Reglamentaria.
-
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1978)</small>
-
-I. Para obtener el registro de sus listas, el partido político que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa en cuando menos seis de los distritos electorales uninominales.
-
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1978)</small>
-
-II. Tendrá derecho a participar en la asignación de diputados electos según el principio de representación proporcional, todo aquel partido que no haya obtenido dos o más constancias de mayoría y haya alcanzado por lo menos el 1.5% de la votación total emitida en las listas de la circunscripción plurinominal.
-
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1978)</small>
-
-III. El partido que cumpla con los supuestos señalados en las Fracciones I y II de este Artículo, le serán asignados por el principio de representación proporcional el número de diputados de su lista que corresponda al porcentaje de votos obtenidos en la circunscripción plurinominal. La Ley reglamentará las formulas electorales y los procedimientos que se observarán en dicha asignación; en todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
-
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1978)</small>
-
-IV. En el caso de que dos o más partidos políticos con derecho a participar en la distribución de listas obtengan en su conjunto dos o más constancias de mayoría, solo será objeto de reparto una curul de las que deban asignarse por el principio de representación proporcional.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
 
 ###### ARTICULO 54.
 
-La Legislatura calificará las elecciones de sus miembros y resolverálas (sic) dudas que hubiere sobre ellas. Su resolución será definitiva e inatacable.
+La elección de los diez Diputados según el principio de representación proporcional, se sujetará a las bases siguientes y a lo que en particular disponga la Ley de la materia.
+
+I.- Para obtener el registro de sus listas de candidatos a Diputados por el principio de representación proporcional, el Partido Político que lo solicite deberá acreditar que participa con candidatos a Diputados por mayoría relativa en cuando menos ocho de los distritos electorales, y
+
+II.- Tendrá derecho a participar en la asignación de Diputados electos según el principio de representación proporcional, todo aquel Partido que haya alcanzado por lo menos el dos por ciento de la votación total emitida en el territorio del Estado.
+
+La ley de la materia reglamentará las fórmulas electorales y los procedimientos que se observarán en la asignación de Diputados electos según el principio de representación proporcional. En todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
@@ -585,13 +575,17 @@ Los diputados que incumplan con las obligaciones contenidas en las fracciones II
 
 #### SECCION SEGUNDA. De las Sesiones
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
+
 ###### ARTICULO 61.
 
-La Legislatura tendrá durante el año dos períodos ordinarios de sesiones que comenzarán el 26 de marzo, y el segundo el 24 de noviembre. La duración será de dos meses cada uno.
+La Legislatura tendrá durante el año dos períodos ordinarios de sesiones que comenzarán, el primero, el 26 de marzo y el segundo, el 8 de octubre. El primero no podrá prolongarse sino hasta el 26 de mayo y el segundo hasta el 15 de diciembre, del mismo año.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
 
 ###### ARTICULO 62.
 
-La Legislatura celebrará sesiones extraordinarias, a convocatoria del Gobernador o la Diputación Permanente. En la convocatoria correspondiente se señalarán el motivo y la finalidad de las sesiones extraordinarias.
+La Legislatura, a convocatoria de la Diputación Permanente, por sí o a solicitud del Gobernador del Estado, celebrará sesiones extraordinarias en períodos cuya duración será el tiempo que requiera la atención del asunto o asuntos que las motivaren. En la convocatoria, o en la solicitud que presente el Gobernador, se señalarán el motivo y la finalidad de las sesiones extraordinarias.
 
 ###### ARTICULO 63.
 
@@ -675,11 +669,15 @@ II.- Expedir leyes reglamentarias y ejercer las facultades explícitas otorgadas
 
 III.- Iniciar leyes y decretos ante el Congreso de la Unión.
 
-IV.- Formular su Reglamento Interior, así como el de la Contaduría Mayor de Hacienda.
+(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1995) (F. DE E., P.O. 21 DE SEPTIEMBRE DE 1995)
+
+IV.- Expedir su Ley Orgánica y su Reglamento Interior, así como la Ley Orgánica de la Contaduría Mayor de Hacienda y su Reglamento.
 
 V.- En las elecciones de Gobernador erigirse en Colegio electoral para calificarlas y declarar electo al ciudadano que haya obtenido la mayoría de votos.
 
-VI.- Declarar electos a los senadores de la República.
+(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1995) (F. DE E., P.O. 21 DE SEPTIEMBRE DE 1995)
+
+VI.- Legislar sobre la protección, conservación y restauración del patrimonio histórico, cultural y artístico del Estado.
 
 VII.- Convocar a elecciones para Gobernador, en caso de falta aboluta (sic) de éste ocurrida dentro de los dos primeros años del período constitucional, conforme al artículo 83 de este ordenamiento.
 
@@ -779,17 +777,19 @@ XLIII.- Legislar en materia de seguridad social, teniendo como objetivo la perma
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
 
-XLIV.- Recibir la protesta de ley y aprobar o rechazar el nombramiento de Procurador General de Justicia que otorgue el Gobernador del Estado; y
+XLIV.- Legislar sobre la protección, conservación y restauración del patrimonio histórico, cultural y artístico del Estado.
 
-> <small>(ADICIONADA, P.O. 17 DE MARZO DE 1995)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
 
 XLV.- Expedir todas las leyes y decretos que sean necesarios para hacer efectivas las facultades anteriores.
 
 #### SECCION QUINTA. De la Diputación Permanente
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
+
 ###### ARTICULO 76.
 
-El día de clausura del período de sesiones ordinarias, la Legislatura elegirá por escrutinio secreto y mayoría de votos, una Diputación Permanente compuesta de tres miembros que durarán en su cargo el tiempo intermedio entre los períodos de sesiones ordinarias. El primero de los nombrados será el Presidente y los otros dos secretarios.
+El día de clausura del período de sesiones ordinarias, la Legislatura elegirá por escrutinio secreto y mayoría de votos, una Diputación Permanente compuesta de siete miembros que durarán en su encargo el período de receso para el que fueron designados. El primero de los nombrados será el Presidente y el segundo y tercero, Secretarios, de su Mesa Directiva.
 
 #### SECCION PRIMERA. Del Gobernador
 
@@ -1505,13 +1505,15 @@ Concepto e Integración
 
 Los Ayuntamientos se integran en la siguiente forma:
 
-I.- En los municipios de Othón P. Blanco y Benito Juárez, con un Presidente, un Síndico, nueve Regidores electos según el principio de mayoría relativa y hasta tres regidores electos según el principio de representación proporcional.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 1993)</small>
+I.- En los Municipios de Othón P. Blanco y Benito Juárez, con un presidente, un Síndico, nueve Regidores electos según el principio de mayoría relativa y seis Regidores electos según el principio de representación proporcional.
 
-II.- En los municipios de Felipe Carrillo Puerto, José Ma. Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres y Solidaridad, con un Presidente, un Síndico, seis Regidores de mayoría relativa y hasta dos Regidores de representación proporcional.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
 
-Se elegirá un suplente por el Síndico y uno por cada Regidor.
+II.- En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Solidaridad e Isla Mujeres, con un Presidente, un Síndico, seis Regidores electos según el principio de mayoría relativa y tres Regidores electos según el principio de representación proporcional.
+
+Se elegirá un suplente para el Síndico y uno para cada Regidor.
 
 ###### ARTICULO 146.
 
@@ -1537,9 +1539,9 @@ I.- En los Municipios de Othón P. Blanco y Benito Juárez, cada partido políti
 
 II. El Partido Político que obtenga mayoría de votos acreditará a sus miembros en los cargos para los que fueron postulados.
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 1983)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
 
-III. Los cargos de Regidores de representación proporcional, se asignarán a los partidos políticos que hayan obtenido por lo menos el 1.5 por ciento del total de votos válidos emitidos en los Municipios donde hubieren participado; excepto el Partido Político que haya obtenido mayoría de votos. Para la Asignación se observará lo dispuesto en la Ley Electoral del Estado, la que reglamentará las fórmulas electorales y los procedimientos que se establezcan.
+III.- Los cargos de Regidores electos según el principio de representación proporcional, se asignarán a los Partidos Políticos que hayan obtenido por los menos el cuatro por ciento del total de votos válidos emitidos en los Municipios donde hubiere participado, excepto al Partido Político que haya obtenido mayoría de votos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE NOVIEMBRE DE 1983)</small>
 
@@ -1563,9 +1565,11 @@ V.- No desempeñar, con excepción de los docentes, cargo o comisión del gobier
 
 VI.- No pertenecer al estado eclesiástico ni ser ministro de algún culto.
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1995)</small>
+
 ###### ARTICULO 150.
 
-Los ayuntamientos calificarán la elección de sus propios miembros y resolverán las dudas que se presenten.
+La Ley reglamentaria, establecerá las fórmulas electorales y los procedimientos que se observarán en la asignación de Regidores electos según el principio de representación proporcional.
 
 ###### ARTICULO 151.
 
@@ -2164,3 +2168,17 @@ El presente decreto entrará en vigor el día de su publicación en el Periódic
 ###### ARTICULO SEGUNDO.
 
 Remítase la presente Minuta Proyecto de Decreto a los Honorables Ayuntamientos de los Municipios del Estado, en cumplimiento a lo dispuesto por el Artículo 174 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+P.O. 20 DE SEPTIEMBRE DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, con excepción de lo dispuesto en los siguientes artículos segundo y tercero transitorios.
+
+###### ARTICULO SEGUNDO.
+
+La reforma al artículo 61 de la Constitución Política del Estado, contenida en el presente Decreto, entrará en vigor y regirá a partir de la fecha de instalación de la VIII Legislatura Constitucional del Estado.
+
+###### ARTICULO TERCERO.
+
+La Diputación Permanente se elegirá conforme a lo dispuesto en este Decreto, el día de clausura del primer periodo ordinario de sesiones del primer año de ejercicio constitucional de la VIII Legislatura Constitucional del Estado.
