@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2003-03-20"
+last_updated: "2004-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CODIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JUNIO DE 2004.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -1149,74 +1149,6 @@ II.- Cuando no se ha otorgado la previa dispensa que requiera el artículo 143, 
 
 ART. 224.- Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en las penas o sanciones que señale la ley de la materia.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-### CAPITULO IX. De la disolución del concubinato
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 252.8.- El concubinato se termina por las siguientes causas:
-
-I.- Por acuerdo mutuo entre las partes;
-
-II.- Por abandono del domicilio común, por parte de uno de los concubinos, si la separación es injustificada y se prolonga por más de seis meses sin ánimo de reconciliación. Durante éste plazo, el concubinato sigue produciendo sus efectos, y
-
-III.- Por muerte de alguno de los concubinos.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 252.9.- La disolución del concubinato faculta a los concubinos a reclamarse mutuamente alimentos.
-
-Atendiendo a las circunstancias del caso, el Juez competente tendrá facultades para fijar el tiempo en que deban otorgarse y el monto de los mismos, considerando que la concubina o concubinario, no tengan bienes o no estén en aptitud de trabajar. Esta acción deberá ejercerse dentro de los seis meses siguientes a la ruptura del concubinato.
-
-En los casos de disolución del concubinato, el concubino inocente tendrá derecho a alimentos, mientras no contraiga matrimonio o establezca una nueva relación concubinaria y viva honestamente. Solo gozará de este derecho cuando no cuente con recursos, esté imposibilitado para trabajar o no tenga bienes propios para subsistir.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-### CAPITULO VIII. Del concubinato
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 252.1.- El concubinato es la unión de hecho de un sólo hombre y una sola mujer, libres de impedimentos de parentesco y ligamen matrimonial, con el propósito tácito de integrar una familia a través de la cohabitación doméstica y sexual, el respeto y protección recíprocos, así como la eventual perpetuación de la especie.
-
-Si una misma persona establece varias uniones del tipo antes descrito, en ninguna se reputará concubinato.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 252.2.- Para que exista jurídicamente el concubinato, es necesario que la manifestación de voluntad se prolongue de manera pública y permanente:
-
-I.- Durante cinco años ininterrumpidos;
-
-II.- Durante dos años si la unión se produjo por medio de rito indígena o religioso de carácter público; o
-
-III.- Desde el nacimiento del primer hijo, si esto ocurre antes de los plazos anteriores, siempre y cuando la cohabitación se hubiere dado al menos por un año.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 252.3.- Se presumen hijos de los concubinos:
-
-I.- Los nacidos después de iniciada la unión libre, y
-
-II.- Los nacidos dentro de los trescientos días de terminado el concubinato.
-
-Los hijos nacidos de concubinato tendrán los mismos derechos y obligaciones como si lo fueran de matrimonio.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 252.4.- No estará obligado a contribuir económicamente el concubino que se encuentre imposibilitado para trabajar y careciere de bienes propios, ni tampoco el que por convenio expreso o tácito se ocupe íntegramente del cuidado del hogar o de la atención de los hijos menores, ya que en este caso el otro concubino responderá del sostenimiento del hogar.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 252.5.- Si el concubinato se prolonga hasta la muerte de uno de sus miembros, el concubino supérstite tendrá derecho a heredar en la misma proporción y condiciones de un cónyuge.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 252.6.- Las funciones paterno-filiares son iguales en el concubinato y en el matrimonio. Los concubinos arreglarán de común acuerdo todo lo relativo a educación y atención de los hijos.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 252.7.- La concubina no tiene derecho a llevar el apellido del concubinario, ni durante la unión ni después de muerto éste.
-
 ### CAPITULO VII. Del Divorcio
 
 ART. 225.- El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro.
@@ -1418,6 +1350,74 @@ El juez, al dictar la sentencia de divorcio, resolverá sobre tal indemnización
 ART. 251.- La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los herederos del muerto tienen los mismos derechos y obligaciones que tendrían si no hubiere existido el juicio.
 
 ART. 252.- Ejecutoriada una sentencia de divorcio, el juez de primera instancia remitirá copia de ella al oficial del registro civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y, además, para que publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+### CAPITULO VIII. Del concubinato
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.1.- El concubinato es la unión de hecho de un sólo hombre y una sola mujer, libres de impedimentos de parentesco y ligamen matrimonial, con el propósito tácito de integrar una familia a través de la cohabitación doméstica y sexual, el respeto y protección recíprocos, así como la eventual perpetuación de la especie.
+
+Si una misma persona establece varias uniones del tipo antes descrito, en ninguna se reputará concubinato.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.2.- Para que exista jurídicamente el concubinato, es necesario que la manifestación de voluntad se prolongue de manera pública y permanente:
+
+I.- Durante cinco años ininterrumpidos;
+
+II.- Durante dos años si la unión se produjo por medio de rito indígena o religioso de carácter público; o
+
+III.- Desde el nacimiento del primer hijo, si esto ocurre antes de los plazos anteriores, siempre y cuando la cohabitación se hubiere dado al menos por un año.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.3.- Se presumen hijos de los concubinos:
+
+I.- Los nacidos después de iniciada la unión libre, y
+
+II.- Los nacidos dentro de los trescientos días de terminado el concubinato.
+
+Los hijos nacidos de concubinato tendrán los mismos derechos y obligaciones como si lo fueran de matrimonio.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.4.- No estará obligado a contribuir económicamente el concubino que se encuentre imposibilitado para trabajar y careciere de bienes propios, ni tampoco el que por convenio expreso o tácito se ocupe íntegramente del cuidado del hogar o de la atención de los hijos menores, ya que en este caso el otro concubino responderá del sostenimiento del hogar.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.5.- Si el concubinato se prolonga hasta la muerte de uno de sus miembros, el concubino supérstite tendrá derecho a heredar en la misma proporción y condiciones de un cónyuge.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.6.- Las funciones paterno-filiares son iguales en el concubinato y en el matrimonio. Los concubinos arreglarán de común acuerdo todo lo relativo a educación y atención de los hijos.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.7.- La concubina no tiene derecho a llevar el apellido del concubinario, ni durante la unión ni después de muerto éste.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+### CAPITULO IX. De la disolución del concubinato
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.8.- El concubinato se termina por las siguientes causas:
+
+I.- Por acuerdo mutuo entre las partes;
+
+II.- Por abandono del domicilio común, por parte de uno de los concubinos, si la separación es injustificada y se prolonga por más de seis meses sin ánimo de reconciliación. Durante éste plazo, el concubinato sigue produciendo sus efectos, y
+
+III.- Por muerte de alguno de los concubinos.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 252.9.- La disolución del concubinato faculta a los concubinos a reclamarse mutuamente alimentos.
+
+Atendiendo a las circunstancias del caso, el Juez competente tendrá facultades para fijar el tiempo en que deban otorgarse y el monto de los mismos, considerando que la concubina o concubinario, no tengan bienes o no estén en aptitud de trabajar. Esta acción deberá ejercerse dentro de los seis meses siguientes a la ruptura del concubinato.
+
+En los casos de disolución del concubinato, el concubino inocente tendrá derecho a alimentos, mientras no contraiga matrimonio o establezca una nueva relación concubinaria y viva honestamente. Solo gozará de este derecho cuando no cuente con recursos, esté imposibilitado para trabajar o no tenga bienes propios para subsistir.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2000)</small>
 
@@ -1769,6 +1769,38 @@ III.- A percibir la pensión hereditaria y los alimentos que fije la Ley.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
+### CAPITULO VIII. De la adopción internacional
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 370.9.- Se considera adopción internacional cuando los adoptantes son extranjeros con residencia habitual fuera del territorio nacional, que desean adoptar a un menor mexicano domiciliado en territorio potosino, a través de una institución reconocida y validada en su país de origen vinculada a la protección de los menores.
+
+Los extranjeros que pretendan adoptar deberán ser personas de distinto sexo unidas en legítimo matrimonio y cumplir con los requisitos administrativos que contiene la Convención Internacional de la Haya y los que fije el Organismo Rector de la Asistencia Social en el Estado, en su carácter de autoridad central en materia de adopciones internacionales.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 370.10.- Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano y, en lo conducente, por las disposiciones de este Código. Las adopciones internacionales siempre serán plenas.
+
+En el procedimiento de adopción internacional en igualdad de circunstancias, se dará preferencia a adoptantes mexicanos sobre los extranjeros.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 370.11.- Los cónyuges extranjeros que pretendan adoptar a un menor de nacionalidad mexicana en el Estado de San Luis Potosí deberán presentar ante el juez, certificado de idoneidad expedido por la autoridad competente de su país de origen que acredite que los solicitantes son considerados aptos para adoptar, constancia de que el menor que se pretende adoptar ha sido autorizado para entrar y residir permanentemente en dicho estado y la autorización de la Secretaría de Gobernación para internarse y permanecer en el país con la finalidad de realizar una adopción.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 370.12.- El Sistema para el Desarrollo Integral de la Familia del Estado o su equivalente en su carácter de autoridad central en materia de adopciones internacionales, tramitará y conocerá en exclusiva de los procedimientos administrativos sobre esta materia.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 370.13.- El Sistema para el Desarrollo Integral de la Familia en el Estado, o su equivalente en su carácter de autoridad central en materia de adopciones internacionales, deberá de informar semestralmente al juez que decretó la adopción y hasta que el adoptado adquiera la edad de doce años, sobre el estado, evolución y desarrollo de los menores concedidos en adopción.
+
+El Ministerio Público vigilará que se cumpla con esta disposición.
+
+ART. 370 BIS.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
 ### CAPITULO VI. De la adopción simple
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
@@ -1839,86 +1871,6 @@ Decretada la conversión, serán aplicadas las reglas de la adopción plena.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
-### CAPITULO VIII. De la adopción internacional
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 370.9.- Se considera adopción internacional cuando los adoptantes son extranjeros con residencia habitual fuera del territorio nacional, que desean adoptar a un menor mexicano domiciliado en territorio potosino, a través de una institución reconocida y validada en su país de origen vinculada a la protección de los menores.
-
-Los extranjeros que pretendan adoptar deberán ser personas de distinto sexo unidas en legítimo matrimonio y cumplir con los requisitos administrativos que contiene la Convención Internacional de la Haya y los que fije el Organismo Rector de la Asistencia Social en el Estado, en su carácter de autoridad central en materia de adopciones internacionales.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 370.10.- Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano y, en lo conducente, por las disposiciones de este Código. Las adopciones internacionales siempre serán plenas.
-
-En el procedimiento de adopción internacional en igualdad de circunstancias, se dará preferencia a adoptantes mexicanos sobre los extranjeros.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 370.11.- Los cónyuges extranjeros que pretendan adoptar a un menor de nacionalidad mexicana en el Estado de San Luis Potosí deberán presentar ante el juez, certificado de idoneidad expedido por la autoridad competente de su país de origen que acredite que los solicitantes son considerados aptos para adoptar, constancia de que el menor que se pretende adoptar ha sido autorizado para entrar y residir permanentemente en dicho estado y la autorización de la Secretaría de Gobernación para internarse y permanecer en el país con la finalidad de realizar una adopción.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 370.12.- El Sistema para el Desarrollo Integral de la Familia del Estado o su equivalente en su carácter de autoridad central en materia de adopciones internacionales, tramitará y conocerá en exclusiva de los procedimientos administrativos sobre esta materia.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 370.13.- El Sistema para el Desarrollo Integral de la Familia en el Estado, o su equivalente en su carácter de autoridad central en materia de adopciones internacionales, deberá de informar semestralmente al juez que decretó la adopción y hasta que el adoptado adquiera la edad de doce años, sobre el estado, evolución y desarrollo de los menores concedidos en adopción.
-
-El Ministerio Público vigilará que se cumpla con esta disposición.
-
-ART. 370 BIS.- (DEROGADO, P.O. 3 DE OCTUBRE DE 2000)
-
-### CAPITULO V. De la Adopción
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 350.- La adopción es un acto jurídico destinado a crear entre el adoptante y el adoptado los derechos y obligaciones resultantes de la patria potestad y en su caso, la filiación. Esta institución se establece en función del interés superior y beneficio del adoptado.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 351.- En el Estado de San Luis Potosí, la adopción puede ser plena o simple, según se desprenda de los elementos aportados por los adoptantes en el procedimiento.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 352.- La adopción procede respecto de menores de edad y de incapacitados. Los adoptantes deberán de ser mayores de 25 años de edad en pleno ejercicio de sus derechos y deberán tener 15 años mas que el adoptado, tener reconocida solvencia moral y un modo honesto de vivir.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 353.- Nadie puede ser adoptado por más de una persona, salvo en el caso de que los adoptantes sean cónyuges. Estos sólo podrán adoptar cuando ambos estén de acuerdo en considerar al adoptado como hijo. Cuando la persona a adoptar sea hijo solamente de uno de los cónyuges, y éste ejerza exclusivamente la patria potestad, el otro podrá adoptarlo con el consentimiento del primero.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 354.- El tutor no podrá adoptar al pupilo sino hasta después que hayan sido definitivamente aprobadas las cuentas de la tutela.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 355.- Para que la adopción pueda efectuarse deberán consentir en ella en sus respectivos casos:
-
-I.- El o los que ejerzan la patria potestad sobre el menor que se trata de adoptar;
-
-II.- El tutor de quien va a ser adoptado;
-
-III.- La persona o personas que lo hayan acogido y lo traten como a un hijo, cuando no exista quien ejerza la patria potestad o la tutela;
-
-IV.- Los directores de las instituciones públicas o privadas autorizadas que alberguen al menor, cuando éste no tenga padres conocidos ni tutor, ni persona que ostensiblemente le imparta su protección o le haya acogido como hijo;
-
-V.- Los padres de la o las personas que pretendan adoptar, tratándose de adopción plena; y
-
-VI.- El menor que va a ser adoptado, cuando éste tenga más de doce años de edad.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 356.- Si la persona que ejerce la tutela o quien hubiere acogido como hijo, no consiente en la adopción sin causa justificada, el juez tomando en cuenta las circunstancias del caso y cuando se pruebe que la adopción será notoriamente benéfica y conveniente para el bienestar integral del adoptando (sic), podrá suplir el consentimiento.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
-ART. 357.- El procedimiento judicial será el que fije el Código de Procedimientos Civiles en el Estado.
-
-Las instituciones de asistencia públicas y privadas autorizadas, observarán las disposiciones administrativas que sobre la materia establezca la Ley sobre el Sistema de Asistencia Social en el Estado y demás disposiciones legales aplicables.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
-
 ### CAPITULO VII. De la adopción plena
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
@@ -1976,6 +1928,54 @@ Tratándose de la adopción plena, el Registro Civil se abstendrá de proporcion
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2000)</small>
 
 ART. 370.8.- Ejecutoriada que sea la sentencia que decrete la adopción plena, quedarán extinguidos todos los vínculos con la familia de origen del menor.
+
+### CAPITULO V. De la Adopción
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 350.- La adopción es un acto jurídico destinado a crear entre el adoptante y el adoptado los derechos y obligaciones resultantes de la patria potestad y en su caso, la filiación. Esta institución se establece en función del interés superior y beneficio del adoptado.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 351.- En el Estado de San Luis Potosí, la adopción puede ser plena o simple, según se desprenda de los elementos aportados por los adoptantes en el procedimiento.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 352.- La adopción procede respecto de menores de edad y de incapacitados. Los adoptantes deberán de ser mayores de 25 años de edad en pleno ejercicio de sus derechos y deberán tener 15 años mas que el adoptado, tener reconocida solvencia moral y un modo honesto de vivir.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 353.- Nadie puede ser adoptado por más de una persona, salvo en el caso de que los adoptantes sean cónyuges. Estos sólo podrán adoptar cuando ambos estén de acuerdo en considerar al adoptado como hijo. Cuando la persona a adoptar sea hijo solamente de uno de los cónyuges, y éste ejerza exclusivamente la patria potestad, el otro podrá adoptarlo con el consentimiento del primero.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 354.- El tutor no podrá adoptar al pupilo sino hasta después que hayan sido definitivamente aprobadas las cuentas de la tutela.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 355.- Para que la adopción pueda efectuarse deberán consentir en ella en sus respectivos casos:
+
+I.- El o los que ejerzan la patria potestad sobre el menor que se trata de adoptar;
+
+II.- El tutor de quien va a ser adoptado;
+
+III.- La persona o personas que lo hayan acogido y lo traten como a un hijo, cuando no exista quien ejerza la patria potestad o la tutela;
+
+IV.- Los directores de las instituciones públicas o privadas autorizadas que alberguen al menor, cuando éste no tenga padres conocidos ni tutor, ni persona que ostensiblemente le imparta su protección o le haya acogido como hijo;
+
+V.- Los padres de la o las personas que pretendan adoptar, tratándose de adopción plena; y
+
+VI.- El menor que va a ser adoptado, cuando éste tenga más de doce años de edad.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 356.- Si la persona que ejerce la tutela o quien hubiere acogido como hijo, no consiente en la adopción sin causa justificada, el juez tomando en cuenta las circunstancias del caso y cuando se pruebe que la adopción será notoriamente benéfica y conveniente para el bienestar integral del adoptando (sic), podrá suplir el consentimiento.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2000)</small>
+
+ART. 357.- El procedimiento judicial será el que fije el Código de Procedimientos Civiles en el Estado.
+
+Las instituciones de asistencia públicas y privadas autorizadas, observarán las disposiciones administrativas que sobre la materia establezca la Ley sobre el Sistema de Asistencia Social en el Estado y demás disposiciones legales aplicables.
 
 ## TITULO OCTAVO. De la Patria Potestad
 
@@ -5837,81 +5837,11 @@ ART. 1646.- El proponente quedará libre de su oferta cuando la respuesta que re
 
 ART. 1647.- La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
 
-Representación
+De la Capacidad
 
-ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
+ART. 1634.- Son hábiles para contratar todas las personas no exceptuadas por la Ley.
 
-ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
-
-ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
-
-Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
-
-Del objeto y del motivo o fin de los Contratos
-
-ART. 1660.- Son objeto de los contratos:
-
-I.- La cosa que el obligado debe dar;
-
-II.- El hecho que el obligado debe hacer o no hacer.
-
-ART. 1661.- La cosa objeto del contrato debe: 1o. Existir en la naturaleza. 2o. Ser determinada o determinable en cuanto a su especie. 3o. Estar en el comercio.
-
-ART. 1662.- Las cosas futuras pueden ser objeto de un contrato. Sin embargo, no puede serlo la herencia de una persona viva, aun cuando ésta preste su consentimiento.
-
-ART. 1663.- El hecho positivo o negativo, objeto del contrato, debe ser:
-
-I.- Posible;
-
-II.- Lícito.
-
-ART. 1664.- Es imposible el hecho que no puede existir porque es incompatible con una ley de la naturaleza o con una norma jurídica que debe regirlo necesariamente y que constituye un obstáculo insuperable para su realización.
-
-ART. 1665.- No se considerará imposible el hecho que no pueda ejecutarse por el obligado, pero sí por otra persona en lugar de él.
-
-ART. 1666.- Es ilícito el hecho que es contrario a las leyes de orden público o a las buenas costumbres.
-
-ART. 1667.- El fin o motivo determinante de la voluntad de los que contratan, tampoco debe ser contrario a las leyes de orden público ni a las buenas costumbres.
-
-Forma
-
-ART. 1668.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas fuera de los casos expresamente designados por la Ley.
-
-ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
-
-ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
-
-Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
-
-Cláusulas que pueden contener los Contratos
-
-ART. 1675.- Los contratantes pueden poner las cláusulas que crean convenientes; pero las que se refieren a requisitos esenciales del contrato o sean consecuencia de su naturaleza ordinaria, se tendrán por puestas aunque no se expresen, a no ser que las segundas sean renunciadas en los casos y términos permitidos por la Ley.
-
-ART. 1676.- Pueden los contratantes estipular cierta prestación como pena para el caso de que la obligación no se cumpla, o no se cumpla de la manera convenida. Si tal estipulación se hace, no podrá reclamarse, además, daños y perjuicios.
-
-ART. 1677.- La nulidad del contrato importa la de la cláusula penal; pero la nulidad de ésta no acarrea la de aquél.
-
-Sin embargo, cuando se promete por otra persona, imponiéndose una pena para el caso de no cumplirse por ésta lo prometido, valdrá la pena aunque el contrato no se lleve a efecto por falta del consentimiento de dicha persona.
-
-Lo mismo sucederá cuando se estipule con otro, a favor de un tercero, y la persona con quien se estipule se sujete a una pena para el caso de no cumplir lo prometido.
-
-ART. 1678.- Al pedir la pena, el acreedor no está obligado a probar que ha sufrido perjuicios, ni el deudor podrá eximirse de satisfacerla, probando que el acreedor no ha sufrido perjuicio alguno.
-
-ART. 1679.- La cláusula penal no puede exceder ni en valor ni en cuantía a la obligación principal.
-
-ART. 1680.- Si la obligación fuere cumplida en la parte, la pena se modificará en la misma proporción.
-
-ART. 1681.- Si la modificación no pudiere ser exactamente proporcional, el juez reducirá la pena de una manera equitativa, teniendo en cuenta la naturaleza y demás circunstancias de la obligación.
-
-ART. 1682.- El acreedor puede exigir el cumplimiento de la obligación o el pago de la pena, pero no ambos; a menos que aparezca haberse estipulado la pena por el simple retardo en el cumplimiento de la obligación, o porque ésta no se preste de la manera convenida.
-
-ART. 1683.- No podrá hacerse efectiva la pena cuando el obligado a ella no haya podido cumplir el contrato por hecho del acreedor, caso fortuito o fuerza insuperable.
-
-ART. 1684.- En las obligaciones mancomunadas con cláusula penal, bastará la contravención de uno de los herederos del deudor para que se incurra en la pena.
-
-ART. 1685.- En el caso del artículo anterior, cada uno de los herederos responderá de la parte de la pena que le corresponda, en proporción a su cuota hereditaria.
-
-ART. 1686.- Tratándose de obligaciones indivisibles, se observará lo dispuesto en el artículo 1840.
+ART. 1635.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
 
 Interpretación
 
@@ -5965,11 +5895,51 @@ ART. 1658.- No es lícito renunciar para lo futuro la nulidad que resulte del do
 
 ART. 1659.- Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
 
-De la Capacidad
+Representación
 
-ART. 1634.- Son hábiles para contratar todas las personas no exceptuadas por la Ley.
+ART. 1636.- El que es hábil para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
 
-ART. 1635.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
+ART. 1637.- Ninguno puede contratar a nombre de otro sin estar autorizado por él o por la Ley.
+
+ART. 1638.- Los contratos celebrados a nombre de otro por quien no sea su legítimo representante, serán nulos, a no ser que la persona a cuyo nombre fueron celebrados, los ratifique antes de que se retracten por la otra parte. La ratificación debe ser hecha con las mismas formalidades que para el contrato exige la Ley.
+
+Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
+
+Forma
+
+ART. 1668.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas fuera de los casos expresamente designados por la Ley.
+
+ART. 1669.- Cuando la Ley exija determinada forma para un contrato, mientras que éste no revista esa forma no será válido, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
+
+ART. 1670.- Cuando se exija la forma escrita para el contrato, los documentos relativos deben ser firmados por todas las personas a las cuales se imponga esa obligación.
+
+Si alguna de ellas no puede o no sabe firmar, lo hará otra a su ruego y en el documento se imprimirá la huella digital del interesado que no firmó.
+
+Del objeto y del motivo o fin de los Contratos
+
+ART. 1660.- Son objeto de los contratos:
+
+I.- La cosa que el obligado debe dar;
+
+II.- El hecho que el obligado debe hacer o no hacer.
+
+ART. 1661.- La cosa objeto del contrato debe: 1o. Existir en la naturaleza. 2o. Ser determinada o determinable en cuanto a su especie. 3o. Estar en el comercio.
+
+ART. 1662.- Las cosas futuras pueden ser objeto de un contrato. Sin embargo, no puede serlo la herencia de una persona viva, aun cuando ésta preste su consentimiento.
+
+ART. 1663.- El hecho positivo o negativo, objeto del contrato, debe ser:
+
+I.- Posible;
+
+II.- Lícito.
+
+ART. 1664.- Es imposible el hecho que no puede existir porque es incompatible con una ley de la naturaleza o con una norma jurídica que debe regirlo necesariamente y que constituye un obstáculo insuperable para su realización.
+
+ART. 1665.- No se considerará imposible el hecho que no pueda ejecutarse por el obligado, pero sí por otra persona en lugar de él.
+
+ART. 1666.- Es ilícito el hecho que es contrario a las leyes de orden público o a las buenas costumbres.
+
+ART. 1667.- El fin o motivo determinante de la voluntad de los que contratan, tampoco debe ser contrario a las leyes de orden público ni a las buenas costumbres.
 
 División de los Contratos
 
@@ -5980,6 +5950,36 @@ ART. 1672.- El contrato es bilateral cuando las partes se obligan recíprocament
 ART. 1673.- Es contrato oneroso aquél en que se estipulan provechos y gravámenes recíprocos; y gratuito aquél en que el provecho es solamente de una de las partes.
 
 ART. 1674.- El contrato oneroso es conmutativo cuando las prestaciones que se deben las partes son ciertas desde que se celebra el contrato, de tal suerte que ellas pueden apreciar inmediatamente el beneficio o la pérdida que les cause éste. Es aleatorio, cuando la prestación debida depende de un acontecimiento incierto que hace que no sea posible la elevación de la ganancia o pérdida, sino hasta que ese acontecimiento se realice.
+
+Cláusulas que pueden contener los Contratos
+
+ART. 1675.- Los contratantes pueden poner las cláusulas que crean convenientes; pero las que se refieren a requisitos esenciales del contrato o sean consecuencia de su naturaleza ordinaria, se tendrán por puestas aunque no se expresen, a no ser que las segundas sean renunciadas en los casos y términos permitidos por la Ley.
+
+ART. 1676.- Pueden los contratantes estipular cierta prestación como pena para el caso de que la obligación no se cumpla, o no se cumpla de la manera convenida. Si tal estipulación se hace, no podrá reclamarse, además, daños y perjuicios.
+
+ART. 1677.- La nulidad del contrato importa la de la cláusula penal; pero la nulidad de ésta no acarrea la de aquél.
+
+Sin embargo, cuando se promete por otra persona, imponiéndose una pena para el caso de no cumplirse por ésta lo prometido, valdrá la pena aunque el contrato no se lleve a efecto por falta del consentimiento de dicha persona.
+
+Lo mismo sucederá cuando se estipule con otro, a favor de un tercero, y la persona con quien se estipule se sujete a una pena para el caso de no cumplir lo prometido.
+
+ART. 1678.- Al pedir la pena, el acreedor no está obligado a probar que ha sufrido perjuicios, ni el deudor podrá eximirse de satisfacerla, probando que el acreedor no ha sufrido perjuicio alguno.
+
+ART. 1679.- La cláusula penal no puede exceder ni en valor ni en cuantía a la obligación principal.
+
+ART. 1680.- Si la obligación fuere cumplida en la parte, la pena se modificará en la misma proporción.
+
+ART. 1681.- Si la modificación no pudiere ser exactamente proporcional, el juez reducirá la pena de una manera equitativa, teniendo en cuenta la naturaleza y demás circunstancias de la obligación.
+
+ART. 1682.- El acreedor puede exigir el cumplimiento de la obligación o el pago de la pena, pero no ambos; a menos que aparezca haberse estipulado la pena por el simple retardo en el cumplimiento de la obligación, o porque ésta no se preste de la manera convenida.
+
+ART. 1683.- No podrá hacerse efectiva la pena cuando el obligado a ella no haya podido cumplir el contrato por hecho del acreedor, caso fortuito o fuerza insuperable.
+
+ART. 1684.- En las obligaciones mancomunadas con cláusula penal, bastará la contravención de uno de los herederos del deudor para que se incurra en la pena.
+
+ART. 1685.- En el caso del artículo anterior, cada uno de los herederos responderá de la parte de la pena que le corresponda, en proporción a su cuota hereditaria.
+
+ART. 1686.- Tratándose de obligaciones indivisibles, se observará lo dispuesto en el artículo 1840.
 
 ### CAPITULO II. De la declaración unilateral de la voluntad
 
@@ -9327,9 +9327,13 @@ ART. 2828.- Con los bienes restantes serán pagados todos los demás créditos q
 
 ART. 2829.- Habrá Oficinas del Registro Público de la Propiedad en la Capital del Estado y en cada una de las cabeceras de los distintos Distritos Judiciales.
 
-ART. 2830.- El reglamento fijará el número de secciones de que se componga el Registro y la sección en que deban inscribirse los títulos que se registren.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2004)</small>
 
-ART. 2831.- El Registro será público. Los encargados de la oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones constantes en los libros del Registro, y de los documentos relacionados con las inscripciones, que estén archivados. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros del Registro; así como certificaciones de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
+ART. 2830.- El Registro Público de la Propiedad y de Comercio, funcionará conforme al sistema y métodos que determinen su Ley y Reglamento, los cuales fijarán las secciones o divisiones de que se componga la oficina y en dónde deben registrarse los títulos susceptibles de inscripción; así como la forma de realizar las consultas correspondientes y los requisitos necesarios para desempeñar los cargos que requiera el funcionamiento del Registro.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2004)</small>
+
+ART. 2831.- El Registro será público. Los encargados de la oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de los asientos que obren en los folios o los libros del Registro, y de los documentos relacionados con los mismos, que estén archivados. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros y folios del Registro; así como certificados de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
 
 Tratándose de testamentos ológrafos depositados en el Registro, se observará lo dispuesto en el artículo 1409.
 
@@ -9800,3 +9804,11 @@ P.O. 20 DE MARZO DE 2003.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE JUNIO DE 2004.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+TERCERO. De acuerdo a las reformas aprobadas, se concede al titular del Poder Ejecutivo del Estado, el término de ciento ochenta días para que formule el Reglamento del Registro Público de la Propiedad y de Comercio.
