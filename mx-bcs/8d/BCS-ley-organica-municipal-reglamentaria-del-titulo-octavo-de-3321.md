@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-municipal-reglamentaria-del-titulo-octavo-de-3321"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "1989-10-31"
+last_updated: "1991-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA MUNICIPAL REGLAMENTARIA DEL TITULO OCTAVO DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE OCTUBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 1991.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 1976.
 
@@ -783,9 +783,11 @@ Los Tesoreros Municipales, tomarán posesión de su cargo, previo el corte de ca
 
 El acta y los cortes de caja e inventarios que con tal motivo se levanten, se formularán por quintuplicado, para distribuir los respectivos ejemplares en la siguiente forma: uno al Ayuntamiento, uno a la Contaduría Mayor de Hacienda, uno al Archivo de la Tesorería, uno a las personas que entreguen y uno al Tesorero que reciba.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE DICIEMBRE DE 1991)</small>
+
 ###### Artículo 62.
 
-El Tesorero Municipal, tendrá como facultades y obligaciones, las siguientes:
+El Tesorero Municipal, tendrá como facultades y obligaciones las siguientes:
 
 I. Verificar, por si mismo o por medio de sus subalternos, la recaudación de las contribuciones y toda clase de ingresos municipales, cobrando únicamente los créditos que correspondan a los ejercicios fiscales de la administración municipal respectiva, de acuerdo con las disposiciones generales.
 
@@ -813,7 +815,9 @@ Cuando el Ayuntamiento o el Presidente Municipal ordenen algún gasto que no re�
 
 XII. Realizar junto con el Síndico, las gestiones oportunas en los asuntos en que tenga interés el Erario Municipal.
 
-XIII. Remitir a la Contaduría Mayor de Hacienda, las cuentas, informes contables y financieros mensuales, dentro de los primeros quince días hábiles del mes siguiente.
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 1991)</small>
+
+XIII. Remitir a la Contaduría Mayor de Hacienda, previa aprobación del Ayuntamiento, las cuentas, informes contables y financieros mensuales, dentro de los cuarenta y cinco días siguientes al período que comprendan.
 
 XIV. Presentar mensualmente al Ayuntamiento, el corte de caja de la Tesorería Municipal con el visto bueno del Síndico.
 
@@ -1376,3 +1380,9 @@ B.O. 31 DE OCTUBRE DE 1989.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 10 DE DICIEMBRE DE 1991.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
