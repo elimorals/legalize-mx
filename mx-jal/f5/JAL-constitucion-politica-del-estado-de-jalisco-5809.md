@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1989-10-10"
+last_updated: "1990-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1990.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -185,13 +185,13 @@ Los Diputados Suplentes sólo podrán ser electos para el período inmediato con
 
 El Congreso del Estado se instalará cada tres años, el día quince de marzo del año de la elección.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1990)</small>
 
 ### CAPITULO TERCERO. De las facultades del Congreso
 
 ###### Art. 13.
 
-El Congreso tendrá cada año dos períodos ordinarios de sesiones; uno durará del tercer sábado de marzo al treinta y uno de mayo y el otro comprenderá del primero de septiembre al treinta y uno de diciembre.
+El Congreso tendrá cada año dos Períodos Ordinarios de Sesiones uno, del quince de marzo al treinta y uno de mayo, y el otro comprenderá del primero de septiembre al treinta y uno de diciembre.
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 1987)</small>
 
@@ -945,7 +945,9 @@ Art. 3º El actual período de sesiones continuará con el carácter de ordinari
 
 Art. 4º La LII Legislatura del Congreso del Estado, se instalará el primero de febrero de mil novecientos ochenta y nueve y los Diputados que la integren durarán en sus funciones, del citado día, al catorce de marzo de mil novecientos noventa y dos.
 
-Los periodos Ordinarios de Sesiones de esta Legislatura serán, del primer sábado de febrero al treinta y uno de marzo y del primero de septiembre al treinta y uno de diciembre de los años 1989, 1990 y 1991, respectivamente.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 1990)</small>
+
+Los periodos Ordinarios de Sesiones de la LII Legislatura serán del primero de febrero al treinta y uno de marzo, y del primero de septiembre al treinta y uno de diciembre de los años 1990 y 1991, respectivamente.
 
 > <small>(REFORMADO, P.O. 19 DE ENERO DE 1989)</small>
 
@@ -1154,3 +1156,7 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 Primero.- Este Decreto deroga las disposiciones que se opongan al mismo.
 
 Segundo.- La reforma al Art. 24 de la Constitución Política del Estado de Jalisco entrará en vigor tres días después de su publicación en el Periódico oficial El Estado de Jalisco.
+
+P.O. 2 DE ENERO DE 1990.
+
+Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco, una vez que haya sido aprobado por la mayoría de los Ayuntamientos del Estado de Jalisco, en los términos que dispone el Art. 66 de la Constitución Política Local.
