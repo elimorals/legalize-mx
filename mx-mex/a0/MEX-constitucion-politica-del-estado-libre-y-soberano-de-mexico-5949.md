@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1945-09-05"
+last_updated: "1945-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE SEPTIEMBRE DE 1945 (DECRETO No. 99)
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE OCTUBRE DE 1945.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -144,8 +144,6 @@ III. Prestar el servicio de armas para la defensa y seguridad públicas del Muni
 IV. Votar en las elecciones para cargos municipales de la localidad en que residan y servir a aquellos para los que fueren electos. Los extranjeros no podrán ejercitar el derecho de voto activo ni pasivo;
 
 V. Hacer constar en el registro respectivo, los actos que se refieren a su estado civil.
-
-AArt. 26. La falta de cumplimiento de las obligaciones que impone el artículo anterior, será causa de suspensión de los derechos correlativos a la calidad de vecino, sin perjuicio de las demás sanciones que las leyes establezcan. Esta suspensión durará un año y será impuesta por la autoridad judicial correspondiente.
 
 ###### Art. 26.
 
@@ -543,9 +541,7 @@ XIV.- Resolver sobre las renuncias de sus propios miembros, del Gobernador, de l
 
 XV.- Conceder, licencias a sus propios miembros, al Gobernador, a los Magistrados del Tribunal Superior de Justicia y a los Jueces de Primera Instancia, cuando la de los Funcionarios Judiciales, excedieren de tres meses y les sean sometidas por el Ejecutivo.
 
-> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 1943)</small>
-
-XVI.- Revisar los expedientes relativos a elecciones municipales, cuando se solicite su intervención, haciendo la declaración que corresponda.
+XVI.- (DEROGADA, P.O. 17 DE OCTUBRE DE 1945)
 
 XVII. Decretar anualmente, a iniciativa del Ejecutivo, los gastos del Estado e imponer para cubrirlos, las contribuciones indispensables, determinando su cuota, duración, y modo derecaudarlas (sic);
 
@@ -627,9 +623,7 @@ V. Conceder o negar las licencias a que se refiere la fracción XV del artículo
 
 VI. Dictaminar sobre todos los asuntos que quedan pendientes de resolución a fin de que continúen sus trámites al abrirse los períodos de sesiones;
 
-> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 1943)</small>
-
-VII.- Revisar los expedientes de elecciones municipales a que se refiere la fracción XVI del Artículo 70 de esta Constitución, en los casos de receso de la Legislatura.
+VII.- (DEROGADA, P.O. 17 DE OCTUBRE DE 1945)
 
 VIII. Cumplir con las obligaciones que le impongan la Legislatura siempre que no fueren contrarias a las leyes.
 
@@ -1126,6 +1120,14 @@ Cuando el número de miembros de un Ayuntamiento sea menor de nueve, formará pa
 ###### Art. 138.
 
 Los miembros de un Ayuntamiento serán designados en una sola elección, distinguiéndose los Regidores lo mismo que los Síndicos, cuando éstos sean dos, por el orden numérico en que fueren electos.
+
+(ADICIONADO, P.O. 17 DE OCTUBRE DE 1945) (F. DE E., P.O. 27 DE OCTUBRE DE 1945)
+
+Para conocer y resolver en última instancia de la elección a que se refiere este artículo, se instituye un Consejo de Revisión Municipal que estará compuesto de siete miembros, más un Vicepresidente con sus respectivos suplentes, insaculados de entre los Presidentes de las Juntas Computadoras Municipales de las Cabeceras de los dieciséis Distritos Rentísticos y Judiciales del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 1945)</small>
+
+La Ley Electoral y el Reglamento respectivo, determinarán el funcionamiento de este Consejo.
 
 ###### Art. 139.
 
@@ -1940,3 +1942,7 @@ DECRETO NUMERO 99, POR EL QUE SE REFORMAN LOS ARTICULOS 70 FRACCION XI Y 115 DE 
 ###### ARTICULO SEGUNDO.
 
 Este decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
+
+G.G. 17 DE OCTUBRE DE 1945.
+
+Este Decreto entrará en vigor a partir de la fecha de su publicación en la "Gaceta del Gobierno".
