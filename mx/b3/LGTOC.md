@@ -4,7 +4,7 @@ identifier: "LGTOC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1932-08-27"
-last_updated: "1935-04-17"
+last_updated: "1945-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2348&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGTOC"
 
 LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE ABRIL DE 1935.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE MAYO DE 1945.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 27 de agosto de 1932.
 
@@ -2566,7 +2566,9 @@ I.- Los fideicomisos secretos;
 
 II.- Aquellos en los cuales el beneficio se conceda a diversas personas sucesivamente que deban substituirse por muerte de la anterior, salvo el caso de que la substitución se realice en favor de personas que estén vivas o concebidas ya, a la muerte del fideicomitente; y
 
-III.- Aquellos cuya duración sea mayor de 30 años, cuando se designe como beneficiario a una persona jurídica que no sea de orden público o institución de beneficencia.
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 8 DE MAYO DE 1945)</small>
+
+III.- Aquellos cuya duración sea mayor de 30 años, cuando se designe como beneficiario a una persona jurídica que no sea de orden público o institución de beneficencia. Sin embargo, pueden constituirse con duración mayor de 30 años cuando el fin del fideicomiso sea el mantenimiento de museos de carácter científico o artístico que no tengan fines de lucro.
 
 ## TRANSITORIOS
 
@@ -2629,3 +2631,9 @@ Por ella se regirán los efectos jurídicos de los hechos anteriores a su vigenc
 D.O.F. 17 DE ABRIL DE 1935.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 8 DE MAYO DE 1945.
+
+## TRANSITORIO
+
+El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
