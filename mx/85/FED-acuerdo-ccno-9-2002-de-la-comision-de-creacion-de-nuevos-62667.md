@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ccno-9-2002-de-la-comision-de-creacion-de-nuevos-62667"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2002-02-28"
-last_updated: "2002-02-28"
+last_updated: "2002-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62667&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-02-19"
 
 ACUERDO CCNO/9/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA PRORROGA DEL PLAZO DE EXCLUSION DEL TURNO DE NUEVOS ASUNTOS AL SEGUNDO Y TERCER TRIBUNALES COLEGIADOS DEL DECIMOSEPTIMO CIRCUITO, CON RESIDENCIA EN CHIHUAHUA, CHIHUAHUA; ASI COMO A LA EXCLUSION TEMPORAL DEL TURNO DE NUEVOS ASUNTOS AL PRIMER TRIBUNAL COLEGIADO DEL MENCIONADO CIRCUITO, CON SEDE EN LA INDICADA CIUDAD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE MARZO DE 2002.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 28 de febrero de 2002.
 
@@ -49,6 +49,8 @@ En consecuencia, con fundamento en los preceptos constitucionales y legales invo
 
 ACUERDO
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO CCNO/15/2002, DE LA COMISION DE CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 26 DE MARZO DE 2002, SE PRORROGA EL PLAZO DE EXCLUSION DEL TURNO DE NUEVOS ASUNTOS PARA EL SEGUNDO Y TERCER TRIBUNALES COLEGIADOS DEL DECIMOSEPTIMO CIRCUITO, CON RESIDENCIA EN CHIHUAHUA, CHIHUAHUA, POR EL LAPSO DE DOS MESES, DEL 1 DE ABRIL AL 31 DE MAYO DE 2002.</small>
+
 PRIMERO.- Se prorroga el plazo de exclusión del turno de nuevos asuntos establecido en el punto Quinto del Acuerdo General 90/2001 para el Segundo y Tercer Tribunales Colegiados del Decimoséptimo Circuito, con residencia en Chihuahua, Chihuahua, por un lapso de treinta días; asimismo se excluye temporalmente del turno de nuevos asuntos al Primer Tribunal Colegiado del Circuito y sede señalados, por un término de quince días.
 
 Los periodos de exclusión señalados comprenderán del uno al quince de marzo de dos mil dos, para el Primer Tribunal Colegiado del Circuito y sede mencionados y; del uno al treinta de marzo de dos mil dos, para el Segundo y Tercer Tribunales Colegiados del propio Circuito y residencia; por ende, los nuevos asuntos que se reciban en el lapso inicialmente indicado en la Oficina de Correspondencia Común de los Tribunales Colegiados del Decimoséptimo Circuito, con residencia en Chihuahua, Chihuahua, serán del conocimiento del Quinto Tribunal Colegiado del citado Circuito, concluido este periodo el conocimiento corresponderá al Primer y Quinto Tribunales Colegiados del referido Circuito; con excepción de aquellos que estén relacionados con los que se encuentren en trámite en el Primer, Segundo y Tercer Tribunales Colegiados del Circuito aludido, en cuyo supuesto se turnarán a estos últimos, con el propósito de evitar el pronunciamiento de resoluciones contradictorias; y las demás excepciones que procedan conforme a lo dispuesto en el Acuerdo General 50/2001, del Pleno del Consejo de la Judicatura Federal.
@@ -64,3 +66,11 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO CESAR THOME GONZALEZ, SECRETARIO EJECUTIVO DE CARRERA JUDICIAL, ADSCRIPCION Y CREACION DE NUEVOS ORGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo CCNO/9/2002, de la Comisión de Creación de Nuevos Organos del Consejo de la Judicatura Federal, relativo a la Prórroga del Plazo de Exclusión del Turno de Nuevos Asuntos al Segundo y Tercer Tribunales Colegiados del Decimoséptimo Circuito, con residencia en Chihuahua, Chihuahua; así como a la Exclusión Temporal del Turno de Nuevos Asuntos al Primer Tribunal Colegiado del mencionado Circuito, con sede en la indicada ciudad, fue aprobado por la propia Comisión en sesión privada ordinaria celebrada el diecinueve de febrero de dos mil dos, por los señores Consejeros: Presidente José Guadalupe Torres Morales y Manuel Barquín Alvarez.- México, Distrito Federal, a diecinueve de febrero de dos mil dos.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 26 DE MARZO DE 2002.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
