@@ -4,7 +4,7 @@ identifier: "YUC-ley-sobre-el-sistema-estatal-de-asistencia-social-de-yucatan-14
 country: "mx"
 rank: "ley"
 publication_date: "1986-09-12"
-last_updated: "1992-06-24"
+last_updated: "1994-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE JUNIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 1994.
 
 Ley publicada en el Diario Oficial el Viernes 12 de Septiembre de 1996.
 
@@ -491,7 +491,9 @@ Las relaciones laborales entre el Organismo y sus trabajadores, se rigen por el 
 
 Se considerarán como empleados de confianza:
 
-A) El Director General; B) Los Subdirectores Generales; C) El Gerente de la Planta Industrializadora; D) Los Gerentes de la propia Planta; E) Los Jefes de Departamento; F) Los Subjefes de Departamento; G) Los Asesores; H) Los Jefes de turno; I) Los Secretarios Particulares; J) El Subprocurador y Delegados de la Procuraduría de la Defensa del Menor y la Familia; K) Los Directores y Administradores de los Centros de Desarrollo, Casa Cuna, Educación Especial y Rehabilitación dependientes del Sistema; L) Las secretarias y los choferes de los antes mencionados y, en general, el personal que efectué labores de inspección y vigilancia.
+(REFORMADO [N. DE E. REFORMADO INCISO K)], D.O. 18 DE JULIO DE 1994)
+
+A) El Director General; B) Los Subdirectores Generales; C) El Gerente de la Planta Industrializadora; D) Los Gerentes de la propia Planta; E) Los Jefes de Departamento; F) Los Subjefes de Departamento; G) Los Asesores; H) Los Jefes de turno; I) Los Secretarios Particulares; J) El Subprocurador y Delegados de la Procuraduría de la Defensa del Menor y la Familia; K) Los Directores y Administradores de los Centros de Desarrollo, Casa Cuna y Educación Especial; L) Las secretarias y los choferes de los antes mencionados y, en general, el personal que efectué labores de inspección y vigilancia.
 
 ### CAPITULO SEGUNDO
 
@@ -525,7 +527,7 @@ Las características del Sistema Municipal constituido como órgano desconcentra
 
 - Se crea mediante acuerdo de cabildo.
 
-- Se le confieren ciertas funciones de autoridad.
+- Se le confiere ciertas funciones de autoridad.
 
 - Cuenta con estructura orgánica propia.
 
@@ -776,3 +778,13 @@ ABOG. ORLANDO A. PAREDES LARA.
 D.O. 24 DE JUNIO DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 18 DE JULIO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+Se derogan las disposiciones legales que se opongan a lo dispuesto en el Presente Decreto.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
