@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-organiza-la-comision-estatal-de-turismo-12488"
 country: "mx"
 rank: "ley"
 publication_date: "1950-06-24"
-last_updated: "1984-11-02"
+last_updated: "2003-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY QUE ORGANIZA LA COMISION ESTATAL DE TURISMO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 1984.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO DECIMO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA PARA EL ESTADO DE NUEVO LEON, PUBLICADA EN EL P.O. DE 9 DE OCTUBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 24 de junio de 1950.
 
@@ -79,7 +81,11 @@ a).- Un Presidente designado por el Gobernador del Estado y que será el represe
 
 b).- Un Secretario designado por el Ayuntamiento de Monterrey, y
 
-c).- Un Tesorero que será designado por la Cámara Nacional de Comercio de Monterrey.- Por cada miembro se designará un suplente.- Los miembros de la Comisión durarán en su encargo un año, y podrán ser reelectos. Las decisiones se tomarán por mayoría de votos, teniendo el Presidente voto de calidad. La Comisión rendirá un informe anual al Ejecutivo del Estado sobre el manejo de su patrimonio y en general sobre sus actividades, antes de finalizar el mes de julio de cada año.
+c).- Un Tesorero que será designado por la Cámara Nacional de Comercio de Monterrey.
+
+Por cada miembro se designará un suplente.
+
+Los miembros de la Comisión durarán en su encargo un año, y podrán ser reelectos. Las decisiones se tomarán por mayoría de votos, teniendo el Presidente voto de calidad. La Comisión rendirá un informe anual al Ejecutivo del Estado sobre el manejo de su patrimonio y en general sobre sus actividades, antes de finalizar el mes de julio de cada año.
 
 ###### Artículo 4o.
 
@@ -128,3 +134,33 @@ ALFREDO GARZA RIOS.
 P.O. 2 DE NOVIEMBRE DE 1984.
 
 UNICO:- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE OCTUBRE DE 2003.
+
+PRIMERO.- Esta Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley Orgánica de la Administración Pública para el Estado de Nuevo León publicada en el Periódico Oficial del Estado de fecha 31 de julio de 1991, con sus reformas y adiciones.
+
+TERCERO.- Quedan vigentes todas las leyes, reglamentos y demás disposiciones legales, en cuanto no se opongan a la presente Ley.
+
+CUARTO.- Para el cumplimiento de esta Ley, el Ejecutivo podrá reorganizar la estructura de las dependencias, así como crear, fusionar, escindir o disolver las oficinas y departamentos necesarios, estando facultado para modificar y redistribuir las partidas del Presupuesto de Egresos para el presente ejercicio fiscal, sin exceder los montos autorizados.
+
+QUINTO.- El personal que en aplicación de esta Ley pase a otra dependencia o entidad, conservará los derechos que haya adquirido en virtud de su relación laboral con la Administración Pública Estatal.
+
+SEXTO.- El cambio de alguna dependencia o entidad a otra, se hará incluyendo al personal a su servicio, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos, y en general el equipo que hayan venido usando para la atención de los asuntos que tuvieren encomendados conforme a la Ley que se abroga.
+
+SÉPTIMO.- Las dependencias y entidades que se crean o modifican en virtud de la aprobación de la presente Ley, seguirán con los trámites de los asuntos relativos a su objeto y que actualmente corresponden a las autoridades que se encuentran en funciones.
+
+Para una mayor información a los gobernados y para facilitar la atención y continuidad de los asuntos que éstos hayan promovido ante la Administración Pública del Estado, las dependencias y entidades a que se hace referencia en el párrafo anterior, difundirán ante la ciudadanía los cambios de denominación, ubicación y funciones básicas de las nuevas dependencias o entidades aludidas.
+
+OCTAVO.- Cuando en esta Ley se dé una denominación nueva o distinta a alguna dependencia o entidad cuyas funciones estén establecidas por otro ordenamiento jurídico, dichas atribuciones se entenderán concedidas a la dependencia o entidad que determinen la presente Ley y demás disposiciones relativas, en tanto no se expidan o reformen los ordenamientos jurídicos correspondientes.
+
+NOVENO.- En tanto se expidan por el Congreso del Estado las leyes, que regirán la organización y funcionamiento de los Organismos Públicos Descentralizados de Participación Ciudadana, a que se refiere el artículo 41 de la presente Ley, o el Ejecutivo, en el ámbito de su competencia emita los Decretos que contengan las disposiciones administrativas correspondientes, estas entidades ejercerán las facultades y atribuciones inherentes a su objeto, así como las previstas en otras leyes, reglamentos y demás disposiciones jurídicas, federales, estatales o municipales que regulen la materia correspondiente.
+
+Las acciones tendientes a establecer las bases y regulación jurídica de estas entidades serán presentadas por el Ejecutivo al H. Congreso del Estado en un plazo máximo de ciento ochenta días contados a partir de la fecha de inicio de vigencia de esta Ley.
+
+DÉCIMO.- Los Organismos Públicos Descentralizados de Participación Ciudadana a que se refiere el Artículo 41 de este ordenamiento, iniciarán sus actividades con los recursos humanos, materiales, financieros y demás bienes de las áreas de la Administración Central o Paraestatal cuyas atribuciones serán ahora desempeñadas por las nuevas entidades. Al efecto sus titulares coordinarán estos aspectos con el Secretario de Finanzas y Tesorero General del Estado y con el Oficial Mayor de Gobierno.
+
+DÉCIMO PRIMERO.- Para todos los efectos legales se considerará que los Organismos Públicos Descentralizados de Participación Ciudadana, al ser parte integrante del Poder Ejecutivo, tendrán su domicilio en el Estado, gozarán del carácter de autoridad y poseerán personalidad jurídica propia como sujetos de derecho público, a partir de la fecha de inicio de vigencia de la presente Ley. El titular del Ejecutivo, de conformidad con lo establecido en el Artículo 41 de esta Ley, designará a las personas que tengan el carácter de Presidente Ejecutivo o Delegado, Presidente Honorario, o de Director General o Ejecutivo de estas entidades, según el caso, en tanto se establezcan las normas que regirán la estructura y organización de estas entidades.
+
+DÉCIMO SEGUNDO.- Se abroga la Ley que crea el organismo público descentralizado denominado Instituto Estatal de la Juventud y el Deporte, publicada en el Periódico Oficial del Estado de fecha 12 de mayo de 1989; y se abroga la Ley que organiza la Comisión Estatal de Turismo, publicada en el Periódico Oficial del Estado de fecha 24 de junio de 1950.
