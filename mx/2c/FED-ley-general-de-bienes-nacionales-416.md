@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-bienes-nacionales-416"
 country: "mx"
 rank: "ley_general"
 publication_date: "1982-01-08"
-last_updated: "1994-07-29"
+last_updated: "2001-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGBN"
 
 LEY GENERAL DE BIENES NACIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 8 de enero de 1982.
 
@@ -108,7 +108,7 @@ V. Los bienes muebles de propiedad federal al servicio de las dependencias de lo
 
 VI. Los demás inmuebles y muebles que por cualquier título jurídico adquiera la Federación;
 
-VII. Los bienes muebles e inmuebles que la Federación adquiera en el extranjero.
+VII. Los bienes muebles e inmuebles que la Federación adquiera en el extranjero;
 
 > <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 1984)</small>
 
@@ -182,7 +182,7 @@ La Secretaría de Relaciones Exteriores será competente para adquirir, administ
 
 ###### ARTICULO 9o.
 
-Quedan sujetos a las disposiciones de esta Ley y sus reglamentos los actos de adquisición, administración, uso, aprovechamiento, explotación y enajenación de bienes inmuebles federales; así como la ejecución de las obras de construcción, reconstrucción, modificación, adaptación, conservación, mantenimiento y demolición que sobre ellos se realicen, sin perjuicio de las disposiciones de la Ley de Obras Públicas
+Quedan sujetos a las disposiciones de esta Ley y sus reglamentos los actos de adquisición, administración, uso, aprovechamiento, explotación y enajenación de bienes inmuebles federales; así como la ejecución de las obras de construcción, reconstrucción, modificación, adaptación, conservación, mantenimiento y demolición que sobre ellos se realicen, sin perjuicio de las disposiciones de la Ley de Obras Públicas.
 
 Las operaciones inmobiliarias, incluso las enajenaciones que realicen las entidades de la Administración Pública Federal que tengan por objeto principal la adquisición, desarrollo, fraccionamiento o comercialización de inmuebles, se sujetarán a lo dispuesto en sus respectivas leyes, decretos o acuerdos de creación y a las reglas generales que al efecto expida la Secretaría de Desarrollo Urbano y Ecología, las cuales deberán publicarse en el Diario Oficial de la Federación.
 
@@ -292,7 +292,7 @@ I. Quien sufra un perjuicio individual, directo y actual, podrá oponerse por es
 
 > <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
 
-II. La oposición a que se refiere la fracción anterior deberá promoverse dentro de los 30 días siguientes al de la notificación o al inicio de la ejecución, cuando el opositor no hubiere sido notificado.
+II. La oposición a que se refiere la fracción anterior deberá promoverse dentro de los 30 días siguientes al de la notificación o al inicio de la ejecución, cuando el opositor no hubiere sido notificado;
 
 > <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
 
@@ -342,7 +342,7 @@ I. Vencimiento del término por el que se hayan otorgado;
 
 II. Renuncia del concesionario;
 
-III. Desaparición de su finalidad o del bien objeto de la concesión.
+III. Desaparición de su finalidad o del bien objeto de la concesión;
 
 > <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
 
@@ -448,7 +448,7 @@ Los bienes de dominio público que lo sean por disposición de la autoridad, pod
 
 Son bienes de uso común:
 
-I. El espacio situado sobre el territorio nacional, con la extensión y modalidades que establezca el derecho internacional.
+I. El espacio situado sobre el territorio nacional, con la extensión y modalidades que establezca el derecho internacional;
 
 > <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
 
@@ -510,11 +510,11 @@ Los propietarios que tengan derecho a demandar la reversión de los bienes expro
 
 ###### ARTICULO 34.
 
-Están destinados a un servicio público, y por tanto, se hayan comprendidos en la fracción V del artículo 2o.:
+Están destinados a un servicio público, y por tanto, se hayan comprendidos en la fracción V del artículo 2o:
 
 > <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
 
-I. Los inmuebles utilizados por los Poderes Legislativo y Judicial de la Federación, así como por el Poder Ejecutivo y sus dependencias.
+I. Los inmuebles utilizados por los Poderes Legislativo y Judicial de la Federación, así como por el Poder Ejecutivo y sus dependencias;
 
 II. Los inmuebles destinados al servicio de los Poderes Legislativo y Judicial;
 
@@ -694,7 +694,7 @@ II. La totalidad de la superficie de los cayos y arrecifes ubicados en el mar te
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1992)</small>
 
-III. En el caso de lagos, lagunas, esteros o depósitos naturales de agua marina que se comuniquen directa o indirectamente con el mar, la faja de veinte metros de zona federal marítimo terrestre se contará a partir del punto a donde llegue el mayor embalse anual o límite de la pleamar, en los términos que determine el reglamento.
+III. En el caso de lagos, lagunas, esteros o depósitos naturales de agua marina que se comuniquen directa o indirectamente con el mar, la faja de veinte metros de zona federal marítimo terrestre se contará a partir del punto a donde llegue el mayor embalse anual o límite de la pleamar, en los términos que determine el reglamento;
 
 > <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 1992)</small>
 
@@ -704,11 +704,43 @@ IV. En el caso de marinas artificiales o esteros dedicados a la acuacultura, no 
 
 A la Secretaría de Desarrollo Urbano y Ecología corresponderá el deslinde y delimitación de la zona federal marítimo terrestre.
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 50.
 
-El Ejecutivo Federal, a través de la Secretaría de Desarrollo Urbano y Ecología, promoverá el aprovechamiento óptimo y adecuado de la zona federal marítimo terrestre, con la intervención que corresponda a otras dependencias federales. Con este objetivo, dicha Secretaría establecerá las normas y políticas de aprovechamiento conducentes, considerando los planes y programas de desarrollo urbano, la satisfacción de los requerimientos de la navegación y el comercio marítimo, de la defensa del país, el impulso a las actividades pesqueras y el fomento de las actividades turísticas y recreativas.
+El Ejecutivo Federal, a través de la Secretaría de Medio Ambiente y Recursos Naturales, promoverá el uso y aprovechamiento sustentables de la zona federal marítimo terrestre y los terrenos ganados al mar. Con este objetivo, dicha dependencia, previamente, en coordinación con las demás que conforme a la materia deban intervenir, establecerá las normas y políticas aplicables, considerando los planes y programas de desarrollo urbano, el ordenamiento ecológico, la satisfacción de los requerimientos de la navegación y el comercio marítimo, la defensa del país, el impulso a las actividades pesqueras y el fomento de las actividades turísticas y recreativas.
+
+El Ejecutivo Federal, a través de la Secretaría de Medio Ambiente y Recursos Naturales, podrá celebrar convenios o acuerdos de coordinación con el objeto de que los Gobiernos de los Estados y los Municipios, en su caso, administren, conserven y vigilen dichos bienes.
+
+Dichas facultades serán ejercidas conforme a lo dispuesto en esta ley y demás disposiciones federales y locales aplicables, así como en aquellas que de las mismas deriven.
+
+En contra de los actos que emitan los Gobiernos de los Estados y, en su caso, de sus Municipios, en ejercicio de las facultades que asuman de conformidad con este precepto respecto de los particulares, procederán los recursos y medios de defensa establecidos en la Ley Federal de Procedimiento Administrativo.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+
+###### ARTICULO 50 Bis.
+
+Para los efectos del artículo anterior, los convenios o acuerdos de coordinación que celebre la Federación, por conducto de la Secretaría de Medio Ambiente y Recursos Naturales, con los Gobiernos de los Estados, con la participación, en su caso, de sus Municipios, deberán sujetarse a las siguientes bases:
+
+I. Se celebrarán a propuesta del Ejecutivo Federal o a petición de una entidad federativa, cuando ésta considere que cuenta con los medios necesarios, el personal capacitado, los recursos materiales y financieros, así como la estructura institucional específica para el desarrollo de las facultades que asumiría;
+
+II. Establecerán con precisión su objeto, así como las materias y facultades que se asumirán, debiendo ser congruente con los objetivos de los instrumentos de planeación nacional de desarrollo y con la política ambiental nacional;
+
+III. Determinarán la participación y responsabilidad que corresponda a cada una de las partes, así como los bienes y recursos aportados por las mismas, especificando su destino y forma de administración;
+
+IV. Establecerán el órgano u órganos que llevarán a cabo las acciones que resulten de los convenios o acuerdos de coordinación, incluyendo las de evaluación, así como el cronograma de las actividades a realizar;
+
+V. Definirán los mecanismos de información que se requieran, a fin de que las partes suscriptoras puedan asegurar el cumplimiento de su objeto;
+
+VI. Precisarán la vigencia del instrumento, sus formas de modificación y terminación y, en su caso, el número y duración de sus prórrogas;
+
+VII. Contendrán, en su caso, los anexos técnicos necesarios para detallar los compromisos adquiridos, y
+
+VIII. Las demás estipulaciones que las partes consideren necesarias para el correcto cumplimiento del convenio o acuerdo de coordinación.
+
+Corresponde a la Secretaría evaluar el cumplimiento de los compromisos que se asuman en los convenios o acuerdos de coordinación a que se refiere este artículo. Dicha evaluación se realizará trimestralmente, debiendo publicarse el resultado en la Gaceta de la Secretaría de Medio Ambiente y Recursos Naturales. En caso de incumplimiento, la Secretaría podrá dar por terminados anticipadamente dichos convenios.
+
+Los convenios o acuerdos de coordinación a que se refiere el presente artículo, sus modificaciones, así como su acuerdo de terminación, deberán publicarse en el Diario Oficial de la Federación y en la gaceta o periódico oficial de la respectiva entidad federativa.
 
 ###### ARTICULO 51.
 
@@ -770,7 +802,7 @@ Los inmuebles de dominio privado que no sean adecuados para destinarlos a los fi
 
 > <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 1984)</small>
 
-I. Transmisión de dominio a título oneroso o gratuito, según el caso, de conformidad con los criterios que determine la Secretaría de Desarrollo Urbano y Ecología, en favor de instituciones públicas que tengan a su cargo resolver problemas de habitación popular para atender necesidades colectivas.
+I. Transmisión de dominio a título oneroso o gratuito, según el caso, de conformidad con los criterios que determine la Secretaría de Desarrollo Urbano y Ecología, en favor de instituciones públicas que tengan a su cargo resolver problemas de habitación popular para atender necesidades colectivas;
 
 II. Permuta con las entidades paraestatales o con los Gobiernos de los Estados y Municipios, de inmuebles que por su ubicación, características y aptitudes satisfagan necesidades de las partes;
 
@@ -910,7 +942,7 @@ Los bienes de dominio privado pueden ser objeto de todos los contratos que regul
 
 ###### ARTICULO 72.
 
-Los actos jurídicos relacionados con inmuebles en los que sea parte el Gobierno Federal y que en los términos de esta ley requieran la intervención de notario, se celebrarán ante los notarios del Patrimonio Inmueble Federal que nombrará la Secretaría de Desarrollo Urbano y Ecología, entre los autorizados legalmente para ejercer el notariado.
+Los actos jurídicos relacionados con inmuebles en los que sea parte el Gobierno Federal y que en los términos de esta ley requieran la intervención de notario, se celebrarán ante los notarios del Patrimonio Inmueble Federal que nombrará la Secretaría de Desarrollo Urbano y Ecología, entre los autorizados legalmente para ejercer el Notariado.
 
 Los notarios del Patrimonio Inmueble Federal llevarán protocolo especial para los actos jurídicos de este ramo, y sus respectivos apéndices e índices de instrumentos y con los demás requisitos que la Ley exija para la validez de los actos notariales. Estos protocolos especiales serán autorizados por las autoridades locales competentes y por la Secretaría de Desarrollo Urbano y Ecología, quien podrá realizar revisiones o requerir información periódica sobre los mismos.
 
@@ -1038,7 +1070,7 @@ Se inscribirán en el Registro Público de la Propiedad Federal:
 
 > <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
 
-I. Los títulos por los cuales se adquiera, transmita, modifique, grave o extinga el dominio, la posesión y los demás derechos reales pertenecientes al Gobierno Federal o respecto de los bienes inmuebles de dominio público de los organismos descentralizados.
+I. Los títulos por los cuales se adquiera, transmita, modifique, grave o extinga el dominio, la posesión y los demás derechos reales pertenecientes al Gobierno Federal o respecto de los bienes inmuebles de dominio público de los organismos descentralizados;
 
 > <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1987)</small>
 
@@ -1241,3 +1273,7 @@ D.O.F. 29 DE JULIO DE 1994.
 ###### ARTICULO UNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 2001.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
