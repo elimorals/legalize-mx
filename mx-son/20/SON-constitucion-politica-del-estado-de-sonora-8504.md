@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1987-09-17"
+last_updated: "1988-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,25 +21,19 @@ state: "SON"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE SONORA
 
-LEY DE INGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS, CORRESPONDIENTE AL EJERCICIO FISCAL DEL PRIMERO DE ENERO AL TREINTA Y UNO DE DICIEMBRE DEL AÑO 2015
+CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE MARZO DE 1988.
 
-Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 24 de diciembre de 2014.
+Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
-Al margen izquierdo un Escudo del Estado de Morelos que dice: “Tierra y Libertad”.- La tierra volverá a quienes la trabajan con sus manos.- Poder Legislativo. LII Legislatura. 2012-2015.
+CESAREO G. SORIANO, Gobernador Constitucional Interino del Estado Libre y Soberano de Sonora, a sus habitantes, sabed:
 
-GRACO LUIS RAMÍREZ GARRIDO ABREU, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
+Que el Congreso Constituyente del mismo, ha tenido a bien decretar lo siguiente:
 
-Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
+EL CONGRESO CONSTITUYENTE DE SONORA, reunido en esta Villa, en virtud de las facultades que le conceden los Decretos Números 90 y 91, de fecha 29 de Marzo de 1917, expedidos por el C. Gobernador Interino del Estado, de conformidad con el Artículo 1º. del Decreto de 22 de Marzo de 1917 del Ciudadano Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Unión, y con apoyo en el Artículo 5º. del expresado Decreto, en nombre del pueblo sonorense ha tenido a bien expedir la siguiente:
 
-LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTICULO 40, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:
-
-I.- ANTECEDENTES: ...
-
-Por lo anteriormente expuesto, esta LII Legislatura ha tenido a bien expedir la siguiente:
-
-LEY DE INGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS, CORRESPONDIENTE AL EJERCICIO FISCAL DEL PRIMERO DE ENERO AL TREINTA Y UNO DE DICIEMBRE DEL AÑO 2015
+Constitución Política del Estado de Sonora, que reforma la de 1º. de Noviembre de 1872.
 
 ## TITULO PRELIMINAR.
 
@@ -261,6 +255,10 @@ La soberanía reside esencial y originariamente en el pueblo sonorense y se ejer
 
 Los Partidos Políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral.
 
+> <small>(ADICIONADO, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
+
+Corresponde al Gobierno del Estado la preparación, desarrollo y vigilancia de los procesos electorales. La Ley determinará los organismos que tendrán a su cargo esta función y la debida corresponsabilidad de los partidos políticos y de los ciudadanos. Además, establecerá los medios de impugnación para garantizar que los actos de los organismos electorales se ajusten a lo dispuesto por esta Constitución y por las Leyes que de ella emanen e instituirá un Tribunal Electoral que tendrá la competencia que determine la Ley.
+
 ###### Artículo 23.
 
 El Estado de Sonora no reconoce en los Poderes Supremos de la Unión ni en otro alguno, derecho para pactar o convenir entre ellos o con nación extraña, aquello que lesione la integridad de su territorio, su nacionalidad, soberanía, libertad e independencia.
@@ -357,47 +355,27 @@ Elección de Diputados.
 
 Los Diputados al Congreso del Estado serán electos en su totalidad cada tres años.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 2 DE JULIO DE 1981)</small>
+> <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
 
 ###### Artículo 31.
 
-El Congreso del Estado estará integrado por dieciocho Diputados Electos en forma directa según el principio de votación mayoritaria relativa, en igual número de Distritos Uninominales y hasta con un máximo de seis Diputados electos según el principio de representación proporcional, mediante el sistema de listas, votados en una sola circunscripción plurinominal que comprenderá todo el territorio del Estado. Por cada Diputado propietario se elegirá un suplente.
+El Congreso del Estado estará integrado por dieciocho Diputados electos en forma directa por el principio de mayoría relativa, en igual número de distritos uninominales y hasta nueve Diputados electos por el principio de representación proporcional, mediante el sistema de listas, votadas en una sola circunscripción plurinominal que comprenderá todo el territorio del Estado. Por cada Diputado Propietario se elegirá un suplente.
 
-> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 1978)</small>
+Los Diputados electos por mayoría relativa y los electos por el principio de representación proporcional, siendo ambos representantes del pueblo, tendrán idéntica categoría e igualdad de derechos y deberes.
 
-El Partido que solicite el registro de candidatos a diputados por votación mayoritaria relativa, deberá acompañar la lista de sus candidatos para ser electos según el principio de representación proporcional.
+La Ley establecerá la demarcación de cada distrito electoral.
 
-> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 1978)</small>
-
-Los diputados electos por mayoría relativa y los electos según el principio de representación proporcional, siendo ambos representantes del pueblo, tendrán idéntica categoría e igualdad de derechos y deberes.
-
-> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 1978)</small>
-
-La ley establecerá las bases demográficas y territoriales para la división del Estado en distritos electorales uninominales.
-
-> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 1978)</small>
+> <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
 
 ###### Artículo 32.
 
-La elección de los diputados, según el principio de representación proporcional y el sistema de listas se sujetará a las bases generales siguientes y a lo que en particular disponga la ley:
+La asignación de Diputados, por el principio de representación proporcional, mediante el sistema de listas, se sujetará a las bases generales siguientes y a lo que en particular disponga la Ley:
 
-I. Para obtener el registro de su lista plurinominal el Partido Político que lo solicite, deberá acreditar:
+I. Tendrá derecho a que le sean asignados Diputados por el principio de representación proporcional, todo aquel partido político que obtenga el uno punto cinco por ciento o más de la votación total emitida en el Estado, para las listas plurinominales.
 
-a). Que obtuvo su registro como Partido cuando menos con un año de anticipación al día de la elección; y
+II. El partido que hubiere obtenido el mayor número de diputaciones de mayoría relativa, participará de la asignación de la representación proporcional hasta completar un máximo de diecinueve Diputados.
 
-> <small>(REFORMADO, B.O. 2 DE JULIO DE 1981)</small>
-
-b). Que participa con candidatos a diputados de mayoría relativa cuando menos en diez de los Distritos Uninominales del Estado.
-
-II. Tendrá derecho a que le sean asignados diputados electos según el principio de representación proporcional, todo aquel Partido que:
-
-a). En las mismas elecciones, no haya obtenido mas de tres diputaciones de mayoría; y
-
-b). Que alcance cuando menos el uno y medio por ciento de la votación total emitida en el Estado, para las listas plurinominales.
-
-III. Al Partido que cumpla con los supuestos señalados en las fracciones I y II de este artículo, le serán asignados por el principio de representación proporcional el número de diputados de su lista que le correspondan de acuerdo con el porcentaje de votos que haya obtenido en la votación por listas en todo el Estado. La ley determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación; en todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
-
-IV. En el caso de que dos o más partidos con derecho a participar en la asignación de diputaciones por el sistema de listas, obtengan en su conjunto cinco o más constancias de mayoría, sólo serán objeto de reparto dos diputaciones según el principio de representación proporcional.
+III. El número de diputaciones de representación proporcional que corresponda a cada partido político, se determinará de acuerdo con el porcentaje de votos que haya obtenido para sus listas en la circunscripción. La Ley establecerá la fórmula electoral y los procedimientos que se observarán para la asignación respectiva; en todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
 
 > <small>(REFORMADO, B.O. 19 DE FEBRERO DE 1977)</small>
 
@@ -435,11 +413,11 @@ Los Diputados rendirán la protesta de Ley ante el Congreso o ante la Diputació
 
 Instalación y funcionamiento del Congreso.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
 
 ###### Artículo 35.
 
-El Congreso del Estado se instalará el día dieciséis de septiembre del año de su elección.
+El Congreso del Estado se instalará el trece de octubre del año de su elección.
 
 > <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 1928)</small>
 
@@ -467,9 +445,11 @@ En todos los casos en que por cualquiera causa desaparezca el Congreso, el Ejecu
 
 Para designar el Congreso electo en la forma establecida en el Artículo anterior, se añadirá al número que le corresponda la palabra "BIS", si dentro del período constitucional del Congreso desaparecido se instalare el nuevo.
 
+> <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
+
 ###### Artículo 41.
 
-El Congreso tendrá en el año dos períodos de sesiones ordinarias; el primero comenzará el diez y seis de Septiembre y terminará el quince de Diciembre y el segundo comprenderá desde el primero de Abril hasta el último de Junio. Ambos períodos pueden ser prorrogables.
+El Congreso tendrá en el año, dos períodos de sesiones ordinarias: el primero comenzará el trece de octubre y terminará el veintitrés de diciembre y el segundo comprenderá el primero de abril hasta el último de junio. Ambos períodos pueden ser prorrogables.
 
 ###### Artículo 42.
 
@@ -489,15 +469,13 @@ En sesiones extraordinarias el Congreso se ocupará exclusivamente del asunto o 
 
 Si al comenzar un período de sesiones ordinarias el Congreso estuviere celebrando extraordinarias, cesarán éstas y continuarán discutiéndose en aquellas los negocios para que fue convocado.
 
-> <small>(REFORMADO, B.O. 24 DE ENERO DE 1976)</small>
+> <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
 
 ###### Artículo 46.
 
-El día 13 del mes de octubre de cada año, con la exclusión del inmediato siguiente a la fecha del inicio de su ejercicio constitucional, asistirá el Gobernador a la sesión especial que en ese día deberá celebrar el Congreso ante quien rendirá, en el acto, un informe sobre el estado que guarde la Administración Pública en sus diversos ramos.
+El veintidós de octubre de cada año, asistirá el Gobernador a la sesión especial que en ese día deberá celebrar el Congreso, ante quien rendirá un informe sobre el estado que guarde la administración pública en sus diversos ramos.
 
-> <small>(REFORMADO, B.O. 28 DE JULIO DE 1979)</small>
-
-El último año de su ejercicio constitucional, el Gobernador rendirá el informe a que este precepto se refiere, el día veintiséis de agosto.
+El último año de su ejercicio constitucional, el Gobernador rendirá el informe a que este precepto se refiere, el primero de octubre.
 
 ###### Artículo 47.
 
@@ -514,6 +492,10 @@ El diputado que falte a cinco sesiones consecutivas dentro del período, sin cau
 ###### Artículo 49.
 
 Los diputados suplentes substituirán a los propietarios en todas sus faltas temporales y absolutas.
+
+> <small>(ADICIONADO, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
+
+Los Diputados por el principio de representación proporcional serán suplidos por aquellos candidatos del mismo partido que sigan en el orden de la lista respectiva, después de habérsele asignado los Diputados que le hubieren correspondido.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -663,9 +645,9 @@ XIII Bis. Para conocer, substanciar y resolver los procedimientos relativos a la
 
 XIV. Para trasladar, provisionalmente, fuera de la ciudad de Hermosillo, la residencia de los Poderes del Estado.
 
-> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
 
-XV. Para erigirse en Colegio Electoral con el fin de computar y calificar las elecciones de Gobernador, Diputados Locales y Ayuntamientos del Estado con el objeto de resolver de oficio y en definitiva quiénes hayan sido electos para los cargos respectivos y también para hacer lo propio con los resultados obtenidos por los partidos políticos para los efectos de determinar y asignar respectivamente, cuáles candidatos deberán acreditarse como Diputados de Minoría y cuáles Regidores según el principio de representación proporcional a que se refieren el Artículo 115 de la Constitución Federal y los Artículos 31 y 130 de esta Constitución.
+XV. Para erigirse en Colegio Electoral con el fin de computar y calificar en definitiva las elecciones de Gobernador; calificar en definitiva las elecciones de Diputados Locales y Ayuntamientos del Estado y hacer las asignaciones definitivas de Diputados y Regidores por el principio de representación proporcional.
 
 XVI. Para resolver sobre la renuncia de sus propios miembros y la del Gobernador, y para conceder licencias a unos y otro.
 
@@ -679,9 +661,9 @@ XVIII. Para aprobar o rechazar los nombramientos de los Magistrados del Supremo 
 
 XIX. Para aceptar a dichos funcionarios la renuncia de sus respectivos cargos y concederles licencia hasta por dos meses con goce de sueldo y por más de ese tiempo sin goce de él.
 
-> <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
 
-XX. Para erigirse en Colegio Electoral en los términos de la Fracción XV de este Artículo, y resolver en definitiva las peticiones de nulidad y los recursos que se hubieren presentado y emitir las declaratorias correspondientes.
+XX. Para erigirse en Colegio Electoral y resolver las peticiones de nulidad de elecciones y emitir las declaratorias correspondientes.
 
 > <small>(REFORMADA, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -901,11 +883,11 @@ VII. No haber sido condenado por la Comisión de un delito intencional, aún cua
 
 Las funciones de Gobernador son incompatibles con cualquier cargo o empleo de la Federación o del Estado.
 
-> <small>(REFORMADO, B.O. 8 DE FEBRERO DE 1967)</small>
+> <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
 
 ###### Artículo 72.
 
-El Gobernador durará en su encargo seis años. Tomará posesión el día 13 de septiembre posterior a la elección, previa formal protesta ante el Congreso de guardar y hacer guardar la Constitución General de la República y la presente Constitución, así como las leyes que de ella emanen y cumplir leal y patrióticamente las obligaciones de su encargo.
+El Gobernador del Estado durará en su encargo seis años. Tomará posesión el veintidós de octubre posterior a la elección, previa formal protesta ante el Congreso de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y la presente Constitución, así como las leyes que de ella emanen y cumplir leal y patrióticamente las obligaciones de su encargo.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -993,7 +975,9 @@ V. Exigir de las autoridades que dependan del Ejecutivo del Estado, el cumplimie
 
 VI. Imponer las sanciones administrativas que determinen las leyes y reglamentos.
 
-VII. Presentar cada año ante el Congreso durante la primera quincena del mes de noviembre, los proyectos de presupuestos de ingresos y egresos del Estado, que deberán regir en el año fiscal inmediato siguiente, y en la primera quincena del segundo periodo de sesiones ordinarias, la cuenta de gastos del año anterior.
+> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
+
+VII. Presentar cada año ante el Congreso, durante la segunda quincena del mes de noviembre, los Proyectos de Presupuestos de Ingresos y Egresos del Estado, que deberán regir en el año fiscal inmediato siguiente; y, en la primera quincena del segundo período de sesiones ordinarias, la cuenta de gastos del año anterior.
 
 > <small>(REFORMADA, B.O. 24 DE SEPTIEMBRE DE 1969)</small>
 
@@ -1143,7 +1127,7 @@ Articulo 82 A. (DEROGADO, B.O. 18 DE JUNIO DE 1977)
 
 Disposiciones Generales.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
 
 ###### Artículo 83.
 
@@ -1339,43 +1323,33 @@ Integración y Organización de los Municipios.
 
 ###### Artículo 112.
 
-El Poder Judicial se depositará para su ejercicio en un Supremo Tribunal de Justicia, en los juzgados de Primera Instancia, locales y menores, y en los demás organismos que la ley establezca.
+El Poder Judicial se depositará para su ejercicio en un Supremo Tribunal de Justicia y en los Juzgados de Primera Instancia, Locales y Menores.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1978)</small>
+Las resoluciones judiciales deberán emitirse de manera pronta, completa e imparcial, debiéndose garantizar su ejecución a través de los procedimientos idóneos que consignen las leyes aplicables.
+
+El servicio judicial será gratuito. En consecuencia, quedan prohibidas las costas judiciales.
+
+Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuída durante su encargo.
+
+> <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
 
 ###### Artículo 113.
 
-El Supremo Tribunal de Justicia se compondrá de siete magistrados propietarios y ocho suplentes, nombrados cada seis años, pudiendo los designados ser reelectos, y tomarán posesión de su encargo el día dieciséis de septiembre del año en que se inicie el período constitucional del Ejecutivo. Si por cualquier motivo no se hace el nombramiento o los designados no se presenten (sic) al desempeño de su cargo, continuarán en funciones los individuos que lo formen hasta que tomen posesión los nuevamente nombrados. Los que fueren nombrados en el curso del período, desempeñarán sus funciones hasta la conclusión del mismo. Habrá también magistrados insaculados, cuya designación se hará en la forma que establezca la ley orgánica respectiva.
+El Supremo Tribunal de Justicia se compondrá de diez Magistrados Propietarios y once Suplentes, nombrados cada seis años.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+Los Magistrados designados podrán ser reelectos y, si lo fueren, sólo podrán ser privados del cargo en los términos del Título Sexto de esta Constitución.
 
-Los nombramientos de los Magistrados del Supremo Tribunal de Justicia serán hechos por el Gobernador del Estado y sometidos a la aprobación del Congreso, el que otorgará o negará esa aprobación dentro del término de cinco días. Si el Congreso no resolviere dentro de dicho término, se tendrán por aprobado los nombramientos. Sin aprobación expresa o tácita no podrán tomar posesión del cargo.
+Los Magistrados tomarán posesión de su cargo el día veinticinco de octubre del año en que se inicie el período constitucional del Ejecutivo. Si por cualquier motivo no se hace nombramiento o los designados no se presentan al desempeño de su cargo, continuarán en funciones los individuos que formen el Supremo Tribunal de Justicia, hasta que tomen posesión los nuevamente nombrados. Los que fueren nombrados en el curso del período, desempeñarán sus funciones hasta la conclusión del mismo. Habrá también magistrados insaculados, cuya designación se hará en la forma que establezca la Ley Orgánica respectiva.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+Los nombramientos de los magistrados del Supremo Tribunal de Justicia serán hechos por el Gobernador del Estado, preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad dentro del Poder Judicial o entre las que lo merezcan por su honorabilidad, competencia y antecedentes, en otras ramas de la profesión jurídica. Dichos nombramientos serán sometidos a la aprobación del Congreso, el que otorgará o negará esta aprobación dentro del término de tres días. Si el Congreso no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin aprobación expresa o tácita no se podrá tomar posesión del cargo.
 
-En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación de la Cámara en el siguiente período ordinario de sesiones. En este período ordinario de sesiones, dentro de los primeros cinco días el Congreso deberá aprobar o reprobar el nombramiento y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si el Congreso rechaza el nombramiento cesará desde luego en sus funciones de Magistrado provisional y el Gobernador del Estado someterá nuevo nombramiento para su aprobación en los términos señalados.
+En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación del Congreso en el siguiente período ordinario de sesiones. En este período ordinario de sesiones, dentro de los primeros tres días, el Congreso deberá aprobar o reprobar el nombramiento y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente, continuará en sus funciones con el carácter de definitivo. Si el Congreso rechaza el nombramiento, cesará desde luego en sus funciones de Magistrado Provisional y el Gobernador del Estado someterá nuevo nombramiento, para su aprobación en los términos señalados.
 
-> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
-
-Los Magistrados en ejercicio, sólo podrán ser privados de sus cargos, en los términos del Título Sexto de esta Constitución.
-
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
 
 ###### Artículo 114.
 
-Para ser magistrado se requiere:
-
-I. Ser mexicano por nacimiento; nativo del Estado, o no siéndolo tener residencia efectiva en él no menor de cinco años inmediatamente anteriores al día de la elección, y estar en pleno ejercicio de sus derechos políticos.
-
-> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 1972)</small>
-
-II. Tener veinticinco años cumplidos, por lo menos, el día de la elección.
-
-III. No haber sido condenado en proceso por ningún delito.
-
-IV. Ser de reconocida moralidad.
-
-V. Poseer el día de la elección, con antigüedad mínima de cinco años, título de licenciado en derecho, expedido por autoridad o corporación legalmente facultada para ello, y tener tres años cuando menos, de práctica profesional reconocida.
+Para ser Magistrado se requiere reunir los requisitos señalados en el artículo 95 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 115.
 
@@ -1417,7 +1391,9 @@ II. Conocer en segunda instancia de los juicios penales.
 
 III. Dirimir las competencias de jurisdicción que se susciten entre los jueces del Estado; así como las que surjan entre cualquiera autoridad judicial del Estado y la Junta Central de Conciliación y Arbitraje, y entre aquéllas y las juntas municipales de conciliación.
 
-IV. Nombrar y remover a los jueces de primera instancia y aceptarles su renuncia en la forma y términos señalados por la Ley.
+> <small>(REFORMADA, B.O. 17 DE MARZO DE 1988)</small>
+
+IV. Nombrar y remover a los Jueces de Primera Instancia, y aceptarles sus renuncias en la forma y términos señalados por la Ley. Los nombramientos de los Jueces serán hechos, preferentemente, entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
 V. Nombrar y remover a sus Secretarios y a sus demás empleados subalternos, así como aceptarles su renuncia.
 
@@ -1439,7 +1415,9 @@ XIII. Autorizar el pago de los honorarios de los magistrados suplentes y de los 
 
 XIV. Proponer al Congreso se tomen las medidas encaminadas a remediar las omisiones y contradicciones que observare en las leyes.
 
-XV. Rendir al Congreso y al Ejecutivo los informes que le pidan sobre el ramo judicial.
+> <small>(REFORMADA, B.O. 17 DE MARZO DE 1988)</small>
+
+XV. Rendir, por conducto de su Presidente, ante el Congreso del Estado, en sesión especial, el último sábado del mes de septiembre de cada año, un informe sobre el estado que guarde la administración de justicia; así como rendir al Congreso y al Ejecutivo los informes que le pidan sobre el ramo judicial.
 
 XVI. Conocer de las controversias que se susciten entre el Ejecutivo del Estado y los Ayuntamientos.
 
@@ -1449,11 +1427,13 @@ XVII. Instruir y sentenciar de conformidad con las leyes relativas, en única in
 
 XVIII. Las demás que le confieran o impongan las leyes.
 
-> <small>(REFORMADO, B.O. 14 DE AGOSTO DE 1957)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE MARZO DE 1988)</small>
 
 ###### Artículo 121.
 
-Cuando algún Magistrado tuviere que eximirse de conocer de un asunto determinado, por recusación o excusa, se llamará para que lo substituya al Suplente que corresponda. Si el Magistrado impedido fuere el ponente en dicho asunto, el Suplente que lo substituya no asumirá la ponencia, quedando la elaboración del proyecto de resolución respectivo a cargo del Magistrado Propietario siguiente en número a quien no afecte impedimento.
+Cuando algún magistrado estuviere impedido para conocer de un asunto determinado, será suplido, en los términos establecidos por la Ley Orgánica del Poder respectivo. Si el magistrado impedido fuere el ponente en dicho asunto, quien lo substituya no asumirá la ponencia, quedando la elaboración del proyecto a cargo del magistrado siguiente en número, a quien no afecte impedimento.
+
+> <small>(REFORMADO, B.O. 14 DE AGOSTO DE 1957)</small>
 
 Cuando todos los Magistrados en ejercicio estuvieren impedidos para conocer de determinado negocio, el Supremo Tribunal se integrará por Magistrados Suplentes o Insaculados, en su caso, correspondiendo presidir los debates y ser ponente al primero que conforme a la Ley hubiere sido llamado.
 
@@ -1555,13 +1535,17 @@ III. No desempeñar ningún cargo público en el Municipio donde se hace la elec
 
 IV. No haber sido condenado por la Comisión de un delito intencional, aún cuando se haya cumplido la condena o extinguido la pena.
 
-> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
 
 ###### Artículo 133.
 
-El Presidente Municipal y demás miembros del Ayuntamiento durarán en su cargo tres años, y tomarán posesión el día dieciséis de Septiembre del año en que se verifique la elección.
+El Presidente Municipal y demás miembros del Ayuntamiento durarán en su cargo tres años, y tomarán posesión el trece de octubre del año de su elección.
+
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
 Los cargos del Presidente Municipal, Síndico y Regidor serán obligatorios y remunerados. Solamente serán renunciables por causa justificada que califique el Ayuntamiento y apruebe el Congreso.
+
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
 Si alguno de los miembros de un Ayuntamiento dejare de desempeñar su cargo, será substituído por su suplente, o se procederá según lo disponga esta Constitución y la Ley.
 
@@ -1595,9 +1579,9 @@ I. En el ámbito de su competencia, promover e inducir el desarrollo económico,
 
 II. En el marco del sistema estatal de planeación, conducir la formulación, instrumentación, control y evaluación del Plan Municipal de Desarrollo, al que estarán sujetas las funciones y actividades del Ayuntamiento y la Administración Pública Municipal e inducir y concertar con las representaciones de los sectores social y privado las acciones a realizar para su elaboración y ejecución.
 
-> <small>(REFORMADA, B.O. 5 DE JULIO DE 1984)</small>
+> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
 
-III. Hacer la declaratoria correspondiente a las elecciones para la integración del Ayuntamiento de acuerdo con el sistema de mayoría relativa y las asignaciones preliminares según el principio de representación proporcional, sujetándose en ambos casos a los resultados que les comunique la Comisión Municipal Electoral. Tanto la declaratoria como las asignaciones serán revisadas, calificadas y resueltas en definitiva por el Congreso del Estado.
+III. Hacer la declaratoria correspondiente a las elecciones para la integración del Ayuntamiento, de acuerdo con el sistema de mayoría relativa y las asignaciones preliminares por el principio de representación proporcional, sujetándose en ambos casos a los resultados que le comunique la Comisión Municipal Electoral. Tanto la declaratoria como las asignaciones serán calificadas y resueltas por el Congreso del Estado.
 
 IV. Expedir, de acuerdo con las bases normativas que establezca el Congreso, los Bandos de Policía y Buen Gobierno y los reglamentos, circulares y demás disposiciones administrativas de observancia general, dentro de sus respectivas jurisdicciones, que serán publicadas en el Boletín Oficial del Gobierno del Estado de Sonora.
 
@@ -1633,7 +1617,9 @@ XIX. Administrar su patrimonio y prestar los servicios públicos en los término
 
 XX. Vigilar los establecimientos de asistencia y beneficencia pública y privada en la forma que determine la Ley.
 
-XXI. Someter al examen y aprobación del Congreso, durante la primera quincena del mes de Noviembre de cada año, la Ley de Ingresos y el correspondiente Presupuesto de Ingresos (sic), que deberán regir en el año fiscal siguiente. Todo ingreso adicional o excedente que reciba el Ayuntamiento para su ejercicio, deberá ser autorizado previamente por el Congreso del Estado.
+> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
+
+XXI. Someter al examen y aprobación del Congreso, durante la segunda quincena del mes de noviembre de cada año, la Ley de Ingresos y el correspondiente Presupuesto de Ingresos (sic) que deberán regir en el año fiscal siguiente. Todo ingreso adicional y excedente que reciba el Ayuntamiento para su ejercicio, deberá ser autorizado previamente por el Congreso del Estado.
 
 XXII. Aprobar, con base en las contribuciones y demás ingresos que determine anualmente el Congreso, sus Presupuestos de Egresos y publicarlos en el Boletín Oficial del Gobierno del Estado de Sonora.
 
@@ -1645,7 +1631,9 @@ XXV. Glosar las cuentas del Ayuntamiento saliente, en un término de noventa dí
 
 XXVI. Formular los Estados Financieros correspondientes al último año de su gestión que comprenderán la balanza de comprobación, el balance general, y el estado de resultados que contenga el Ejercicio presupuestario de Ingresos y Egresos y entregarlos, al concluir sus funciones, al Ayuntamiento entrante y al Congreso.
 
-XXVII. Rendir a la población, por conducto del Presidente Municipal, un informe anual detallado sobre el estado que guarden los asuntos municipales, los días quince de Septiembre de cada año. Dicho informe será comunicado por escrito al Congreso del Estado y al Gobernador.
+> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
+
+XXVII. Rendir a la población por conducto del Presidente Municipal, un informe anual detallado sobre el estado que guarden los asuntos municipales, el trece de octubre de cada año. Dicho informe será comunicado por escrito al Congreso del Estado y al Gobernador.
 
 XXVIII. Proporcionar a los Poderes del Estado los informes y documentos que les soliciten.
 
@@ -2187,241 +2175,19 @@ UNICO.- La presente Ley entrará en vigor a partir de la fecha de su publicació
 
 B.O. 8 DE FEBRERO DE 1967.
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO.
 
-Se aprueba la Ley de Ingresos del Gobierno del Estado de Morelos, correspondiente al Ejercicio Fiscal del primero de enero al treinta y uno de diciembre del año 2015.
+Para el presente período gubernamental, que terminará el día 31 de agosto de 1967, el actual Gobernador deberá rendir su último Informe de Gobierno, ante el Congreso del Estado, el día 25 de agosto del mismo año, en sesión especial que para ese efecto se celebre.
 
-El Gobierno del Estado de Morelos, percibirá los ingresos provenientes de los conceptos señalados en el Articulo Segundo de la presente Ley de Ingresos, por la cantidad de $ 19´975,370.000.00 (DIECINUEVE MIL NOVECIENTOS SETENTA Y CINCO MILLONES TRESCIENTOS SETENTA MIL PESOS 00/100 M.N.), siendo el detalle de los ingresos estimados el siguiente:
+###### ARTICULO SEGUNDO.
 
-I. INGRESOS PROPIOS
+Por esta sola ocasión, el Congreso del Estado designará a un Gobernador Provisional, para que con tal carácter se haga cargo del Poder Ejecutivo a partir del día 1o. de septiembre de 1967 y cubra el período comprendido entre esta fecha y el día 13 del mismo mes y año, hasta el acto de la toma de posesión y protesta del ciudadano que resulte electo como Gobernador Constitucional en los comicios que habrán de celebrarse en julio del presente año.
 
-a. IMPUESTOS
+###### ARTICULO TERCERO.
 
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 24 DE DICIEMBRE DE 2014, PÁGINA 8.</small>
+La presente Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
 
-b. DERECHOS
-
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 24 DE DICIEMBRE DE 2014, PÁGINA 8.</small>
-
-c. PRODUCTOS
-
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 24 DE DICIEMBRE DE 2014, PÁGINA 9.</small>
-
-d. APROVECHAMIENTOS
-
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 24 DE DICIEMBRE DE 2014, PÁGINA 9.</small>
-
-II. INGRESOS COORDINADOS
-
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 24 DE DICIEMBRE DE 2014, PÁGINA 9.</small>
-
-III. INCENTIVOS ECONÓMICOS
-
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 24 DE DICIEMBRE DE 2014, PÁGINA 9.</small>
-
-IV. FONDO DE FISCALIZACIÓN Y RECAUDACIÓN
-
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 24 DE DICIEMBRE DE 2014, PÁGINA 9.</small>
-
-V. CUOTA VENTA FINAL COMBUSTIBLES
-
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 24 DE DICIEMBRE DE 2014, PÁGINA 9.</small>
-
-VI. PARTICIPACIONES EN INGRESOS FEDERALES
-
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 24 DE DICIEMBRE DE 2014, PÁGINA 9.</small>
-
-VII. RAMO 20 DESARROLLO SOCIAL
-
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 24 DE DICIEMBRE DE 2014, PÁGINA 9.</small>
-
-VIII. RAMO 33 FONDOS DE APORTACIONES FEDERALES PARA ENTIDADES FEDERATIVAS Y MUNICIPIOS
-
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 24 DE DICIEMBRE DE 2014, PÁGINA 9.</small>
-
-IX. CONVENIOS FEDERALES
-
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 24 DE DICIEMBRE DE 2014, PÁGINA 9.</small>
-
-X. RECUPERACIONES DIVERSAS
-
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 24 DE DICIEMBRE DE 2014, PÁGINA 9.</small>
-
-XI. INGRESOS DERIVADOS DE FINANCIAMIENTO
-
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 24 DE DICIEMBRE DE 2014, PÁGINA 9.</small>
-
-RESUMEN (Miles de pesos)
-
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 24 DE DICIEMBRE DE 2014, PÁGINA 9.</small>
-
-La estimación de las cantidades por Impuestos, Derechos, Productos, Aprovechamientos, Fondo de Fiscalización y Recaudación, cuota a la venta final de combustibles y las derivadas de participaciones federales, se verán modificadas de acuerdo a la evolución que observe la recaudación estatal y la Recaudación Federal Participable.
-
-###### ARTÍCULO SEGUNDO.
-
-Los ingresos que el Gobierno del Estado de Morelos percibirá durante el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre del año 2015, serán de acuerdo a lo señalado en las Leyes Fiscales aplicables, de conformidad con los siguientes conceptos:
-
-I. INGRESOS PROPIOS:
-
-a) IMPUESTOS:
-
-1. Sobre Tenencia o Uso de Vehículos (rezago de ejercicios anteriores);
-
-2. Sobre Adquisición de Vehículos Automotores Usados;
-
-3. Sobre la Prestación de Servicios de Hospedaje;
-
-4. Sobre Diversiones y Espectáculos Públicos;
-
-5. Sobre los Servicios de Parques Acuáticos y Balnearios;
-
-6. Sobre Loterías, Rifas, Sorteos, Juegos permitidos con apuesta y la obtención de premios en apuestas permitidas;
-
-7. Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal;
-
-8. Impuesto sobre Demasías Caducas, y
-
-9. Impuesto Adicional;
-
-b) DERECHOS:
-
-1. Servicios Registrales de la Propiedad y del Comercio;
-
-2. Servicios de Archivo y Notariales;
-
-3. Servicios de la Dirección Estatal del Registro Civil;
-
-4. Servicios de Control Vehicular;
-
-5. Servicios en materia de Desarrollo Sustentable;
-
-6. Servicios de Verificación Vehicular;
-
-7. Derechos en materia de Agua y Saneamiento;
-
-8. Servicios de la Policía Industrial, Bancaria y Auxiliar;
-
-9. Control de los Servicios de Seguridad Privada;
-
-10. Control de los Servicios de Educación por Instituciones Privadas;
-
-11. Registro de Títulos Profesionales, Expedición de Cédulas y Conexos;
-
-12. Registro de Contratos de Arrendamiento y otros contratos relativos a inmuebles;
-
-13. Servicios en materia de Carreteras de Cuota;
-
-14. Servicios por uso o aprovechamiento del derecho de vía;
-
-15. Derechos de Inspección y Vigilancia en Materia de Constancias para el Servicio Público;
-
-16. Derechos por servicios de expedición de constancias de no antecedentes penales;
-
-17. Legalización de Firmas, Certificados, Certificaciones, Constancias y Copias Certificadas;
-
-18. Recuperación de los materiales utilizados en el proceso de respuesta a las solicitudes de acceso a la información pública;
-
-19. De los servicios en materia de innovación, ciencia y tecnología;
-
-20. De los servicios prestados por instituciones educativas de nivel medio superior y superior;
-
-21. De los servicios prestados por instituciones de educación básica y normal;
-
-22. Servicios prestados por la Coordinación Estatal de Preparatoria Abierta, y
-
-23. Otros derechos;
-
-c) PRODUCTOS:
-
-1. Enajenación, arrendamiento, uso y explotación de bienes muebles e inmuebles;
-
-2. Utilidad por acciones y participaciones en Sociedades o Empresas, Rendimiento por otras inversiones en créditos y valores y Recuperaciones de Inversiones en Acciones, Créditos y Valores;
-
-3. Publicaciones Oficiales;
-
-4. Impresos y papel especial;
-
-5. Almacenaje;
-
-6. Actividades del Secretariado Ejecutivo de Seguridad Pública;
-
-7. Actividades de la Industria Penitenciaria, y
-
-8. Otros productos;
-
-d) APROVECHAMIENTOS:
-
-1. Recargos;
-
-2. Multas;
-
-3. Gastos de Ejecución;
-
-4. Administración de contribuciones federales y municipales, y
-
-5. Otros aprovechamientos;
-
-II. INGRESOS COORDINADOS:
-
-1. Impuesto Sobre Tenencia o Uso de Vehículos (Rezago), e
-
-2. Impuesto Sobre Automóviles Nuevos.
-
-III. INCENTIVOS ECONÓMICOS:
-
-1. Incentivos Económicos, y
-
-2. Multas Administrativas Federales No fiscales.
-
-IV. FONDO DE FISCALIZACIÓN Y RECAUDACIÓN;
-
-V. CUOTA VENTA FINAL COMBUSTIBLES;
-
-VI. PARTICIPACIONES EN INGRESOS FEDERALES:
-
-1. Fondo General de Participaciones;
-
-2. Fondo de Fomento Municipal, y
-
-3. Impuesto Especial sobre Producción y Servicios;
-
-VII. RAMO 20 DESARROLLO SOCIAL;
-
-VIII. RAMO 33 FONDOS DE APORTACIONES FEDERALES PARA ENTIDADES FEDERATIVAS Y MUNICIPIOS:
-
-1. Fondo I Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo;
-
-2. Fondo II Fondo de Aportaciones para los Servicios de Salud;
-
-3. Fondo III Fondo de Aportaciones para la Infraestructura Social;
-
-4. Fondo IV Fondo de Aportaciones para el Fortalecimiento de los Municipios;
-
-5. Fondo V Fondo de Aportaciones Múltiples;
-
-6. Fondo VI Fondo de Aportaciones para la Educación Tecnológica y de Adultos;
-
-7. Fondo VII Fondo de Aportaciones para la Seguridad Pública, y
-
-8. Fondo VIII Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas;
-
-IX. CONVENIOS FEDERALES;
-
-X. RECUPERACIONES DIVERSAS, y
-
-XI. INGRESOS DERIVADOS DE FINANCIAMIENTO.
-
-###### ARTÍCULO TERCERO.
-
-Los impuestos, derechos y contribuciones especiales que no sean pagados dentro del plazo legal previsto en las Leyes Fiscales correspondientes, causarán recargos en concepto de indemnización al fisco, de un 1.13% mensual sobre el monto del saldo total insoluto, por cada mes o fracción que transcurra sin hacerse el pago.
-
-Para los contribuyentes que obtengan prórroga para cubrir sus créditos fiscales, conforme a las disposiciones del Código Fiscal para el Estado de Morelos, además de otorgar la garantía respectiva, cubrirán el 0.75% mensual; en el caso de autorización de pago en parcialidades; los recargos serán de 1.0% para parcialidades de hasta 12 meses, 1.25% para parcialidades de más de 12 meses y hasta 24 meses. 1.5% para parcialidades de más de 24 meses y hasta 36 meses, sobre saldos insolutos, en los términos del párrafo anterior.
-
-Todos aquellos gastos de ejecución que se generen con motivo de la aplicación del procedimiento administrativo de ejecución, gastos de ejecución y embargo, no rebasarán el doce por ciento del importe total del crédito fiscal.
-
-Los gastos de ejecución comprenden: Gastos de notificación y de requerimientos de cumplimiento de las obligaciones fiscales y de las multas, en los casos de incumplimiento y extemporaneidad, gastos de ejecución, derivados de mandamientos de ejecución, y gastos de ejecución por la práctica de embargos.
-
-En los gastos de notificación y de requerimiento se incluyen las notificaciones realizadas por correo certificado, a través del Servicio Postal Mexicano.
+B.O. 24 DE SEPTIEMBRE DE 1969.
 
 ###### ARTICULO UNICO.
 
@@ -2585,49 +2351,45 @@ LEY No. 98, QUE REFORMA LOS ARTICULOS 70 Y 156 DE LA CONSTITUCION.
 
 UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
-###### ARTÍCULO CUARTO.
+B.O. 17 DE SEPTIEMBRE DE 1987.
 
-Los tres Poderes y los Organismos Autónomos del Estado, a través de las instancias correspondientes, podrán realizar la enajenación de bienes muebles, que ya no sean aptos para el servicio que prestan o resulta inconveniente seguirlos utilizando, en virtud de que no son rentables por su mantenimiento o por haber agotado su vida útil.
+###### ARTICULO PRIMERO.
 
-Se autoriza al Titular del Poder Ejecutivo Estatal, para enajenar bienes inmuebles que hayan dejado de ser útiles para fines de servicio público, el ejercicio de esta facultad, se informará al Congreso Local a través de la cuenta pública.
+La presente Ley entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado y las reformas de los artículos 35, 41, 46, 133 y 136 fracción XXVII, surtirán sus efectos a partir del 13 de octubre de 1991.
 
-###### ARTÍCULO QUINTO.
+###### ARTICULO SEGUNDO.
 
-Todos los ingresos, deberán ser concentrados en la Tesorería General del Estado por las Secretarías, Dependencias, Entidades, Organismos Públicos Descentralizados y Fideicomisos de la Administración Pública Estatal que los generen, correspondiendo a la Secretaría de Hacienda del Poder Ejecutivo Estatal, a través de la Tesorería General, la integración de los reportes para su registro en la Cuenta Pública correspondiente.
+Los Diputados que se elijan a la LII Legislatura del Congreso del Estado, durarán en funciones del 16 de septiembre de 1988 hasta el 12 de octubre de 1991.
 
-###### ARTÍCULO SEXTO.
+###### ARTICULO TERCERO.
 
-Se autoriza al Titular del Poder Ejecutivo Estatal, para que, por conducto de la Secretaría de Hacienda, celebre con las autoridades federales, estatales y municipales, los convenios que sean necesarios para la mejor administración de los ingresos públicos.
+Los integrantes de los Ayuntamientos que se elijan para el próximo período constitucional, durarán en funciones del 16 de septiembre de 1988 hasta el 12 de octubre de 1991.
 
-DISPOSICIONES TRANSITORIAS
+###### ARTICULO CUARTO.
 
-PRIMERA.- Remítase la presente Ley al Titular del Poder Ejecutivo del Estado, para los fines que indica el articulo 44 y la fracción XVII, del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+El Congreso del Estado designará a un Gobernador Provisional, para que con tal carácter se haga cargo del Poder Ejecutivo, a partir del 13 de septiembre de 1991 y hasta el día 21 de octubre del mismo año.
 
-SEGUNDA.- La Ley de Ingresos del Gobierno del Estado de Morelos, correspondiente al Ejercicio Fiscal del primero de enero al treinta y uno de diciembre del año 2015, entrará en vigor a partir del día primero de enero del año dos mil quince, previa su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+###### ARTICULO QUINTO.
 
-TERCERA.- Con la finalidad de homologar los sistemas automatizados de recaudación, así como el proceso de depósito de recursos en el sistema bancario nacional, respecto del esquema aplicado en la determinación de los impuestos y derechos cuyo importe sea o comprenda fracciones en pesos, se autoriza que en el caso de productos y aprovechamientos se aplique un ajuste de los montos a la unidad más próxima; por lo que, tratándose de cantidades terminadas hasta cincuenta centavos, el ajuste se hará a la unidad inmediata inferior y tratándose de cantidades terminadas por arriba de los cincuenta centavos, el ajuste se hará a la unidad inmediata superior.
+Los ayuntamientos electos para el período constitucional de 1985 a 1988, así como los que se elijan para el período de 1988 a 1991, rendirán, por conducto de sus Presidentes Municipales, un informe anual detallado sobre el estado que guarden los asuntos municipales, el día 15 de septiembre de cada año. Dicho informe será comunicado por escrito al Gobernador del Estado y al Congreso del Estado.
 
-CUARTA.- Se derogan todas las disposiciones que concedan subsidios o exenciones y se hayan publicado con anterioridad al inicio de vigencia de la presente Ley, con excepción de las previstas en la Ley General de Hacienda del Estado de Morelos y de los subsidios fiscales que se encuentren vigentes en materia del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal.
+###### ARTICULO SEXTO.
 
-Recinto Legislativo, Sesión Ordinaria de Pleno iniciada el día nueve del mes de diciembre de dos mil catorce.
+La LI y LII, Legislaturas del Congreso del Estado, tendrán dos períodos de sesiones ordinarias en el año. El primero comenzará el 16 de septiembre y terminará el 15 de diciembre y el segundo comprenderá desde el 1o. de abril hasta el último de junio; ambos períodos pueden ser prorrogables.
 
-Atentamente. Los CC. Diputados Integrantes de la Mesa Directiva del Congreso del Estado. Dip. Lucía Virginia Meza Guzmán. Presidenta. Dip. Erika Hernández Gordillo. Secretaría. Dip. Antonio Rodríguez Rodríguez. Secretario. Rúbricas.
+###### ARTICULO SEPTIMO.
 
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+Para el período gubernamental comprendido del 13 de septiembre de 1985 y que terminará el día 12 de septiembre de 1991, el Gobernador rendirá su último informe de Gobierno, ante el Congreso del Estado, el día 26 de agosto.
 
-Dado en la Residencia del Poder Ejecutivo, Casa Morelos, en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los veintitrés días del mes de diciembre de dos mil catorce.
+B.O. 17 DE MARZO DE 1988.
 
-“SUFRAGIO EFECTIVO. NO REELECCIÓN”
+###### ARTICULO PRIMERO.
 
-GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+La presente Ley entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, con excepción del segundo párrafo del artículo 113, el cual entrará en vigor el día 22 de octubre de 1991; en consecuencia, los magistrados actualmente designados, culminarán sus períodos el día 24 de octubre de 1991.
 
-GRACO LUIS RAMÍREZ GARRIDO ABREU
+###### ARTICULO SEGUNDO.
 
-SECRETARIO DE GOBIERNO
-
-DR. MATÍAS QUIROZ MEDINA
-
-RÚBRICAS.
+Se derogan todas las disposiciones que se opongan a la aplicación de esta Ley.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
