@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-trabajadores-al-servicio-del-estado-y-municipios-770
 country: "mx"
 rank: "ley"
 publication_date: "1987-08-27"
-last_updated: "2002-12-20"
+last_updated: "2005-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 27 de agosto de 1987.
 
@@ -239,9 +239,15 @@ Para las guardias se utilizarán, de preferencia, los servicios de quienes no tu
 
 Los trabajadores además de su salario ordinario, tendrán derecho al pago de una prima vacacional en cada período, de cuando menos el 25% sobre el salario de una quincena, agregándose además los días a que tengan derecho de acuerdo a su antigüedad.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 33.
 
-Las mujeres disfrutarán con goce de sueldo de 30 días de descanso antes de la fecha aproximada que médicamente se fije para el parto, y de 60 días después del mismo. Durante la lactancia tendrán dos descansos extraordinarios por día. Durante la jornada de trabajo continua, de media hora cada uno, para amamantar a sus hijos.
+Las trabajadoras disfrutarán de noventa días de descanso con goce de sueldo, con motivo del nacimiento de sus hijos, los cuales podrá disfrutar antes de la fecha que médicamente se fije para eI parto o después de éste, a su elección. Cuando se disfruten días de descanso antes del parto, se deberá exhibir a la dependencia en que labore la autorización médica que les permita laborar hasta antes del mismo, por los mismos días.
+
+Durante el embarazo, las trabajadoras no realizarán trabajos que exijan esfuerzos considerables y signifiquen un peligro para su salud en relación con la gestación, tales como levantar, tirar o empujar grandes pesos, que produzcan trepidación, estar de pie durante largo tiempo o que actúen o que puedan alterar su estado psíquico y nervioso a ellas o al producto.
+
+Durante la lactancia y hasta por un período de seis meses, contados a partir de la fecha de su reincorporación al trabajo, al concluir el período de noventa días antes mencionado, tendrán dentro de la jornada de trabajo dos descansos extraordinarios por día, de media hora cada uno para amamantar a sus hijos o hijas; dichos descansos a elección de la trabajadora, podrán ser acumulados para tomarse al inicio o conclusión de la jornada diaria y serán computados como tiempo efectivamente laborado.
 
 ### CAPITULO III. DE LOS SALARIOS
 
@@ -1556,3 +1562,9 @@ Esta ley entrará en vigor a partir del día siguiente de su publicación en el 
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan a la presente ley.
+
+P.O. 11 DE FEBRERO DE 2005.
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
