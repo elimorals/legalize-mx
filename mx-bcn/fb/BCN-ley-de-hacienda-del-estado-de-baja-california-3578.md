@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1996-12-31"
+last_updated: "1998-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 1998.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1297,19 +1297,29 @@ a).- Enajenación de bienes o prestación de servicios, cuando unos u otros se e
 
 b).- Operaciones de maquila para exportación en los términos de la Legislación Aduanera de los Estados Unidos Mexicanos.
 
-La excepción a que se refiere este Inciso, solo será aplicable respecto los pagos que efectúen durante los dos primeros años de haber iniciado la primera exportación.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1998)</small>
+
+La excepción a que se refiere este Inciso sólo será aplicable respecto de los pagos que se efectúen durante el período preoperativo, es decir, aquellos destinados a la investigación y desarrollo relacionados con el diseño, elaboración, mejoramiento, empaque o distribución de un producto, siempre que se efectúen antes de que el contribuyente realice su primera exportación; y de los que se realicen durante los dos primeros años de haber iniciado la primera exportación.
 
 c).- Enajenación de bienes o prestación de servicios que se realicen por residentes en el Estado, a quien resida en una entidad federativa diferente a Baja California, siempre que la entrega material de bienes o la prestación de servicios se lleve a cabo fuera del Estado.
 
-Cuando los pagos por remuneraciones al trabajo personal prestado bajo la dirección o dependencia de un tercero, no sean plenamente identificables como necesarios para la realización de los actos no gravados a que se refiere este Artículo, se podrán considerar como tales, en el porciento (sic) que el valor de dichos actos represente en el valor total de los que el contribuyente realice en el mes.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1998)</small>
+
+Cuando los pagos por remuneraciones al trabajo personal prestado bajo la dirección o dependencia de un tercero, no sean plenamente identificables como necesarios para la realización de los actos no gravados a que se refiere este Artículo, se podrán considerar como tales, en el porciento que el valor de dichos actos represente en el valor total de los que el contribuyente realice en el período correspondiente.
 
 Para los efectos de este Artículo se aplicarán supletoriamente en lo conducente las normas de la Ley del Impuesto al Valor Agregado, vigente a nivel federal.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1998)</small>
 
 ###### ARTICULO 151
 
-14.- La base del Impuesto es el monto total de los pagos que efectúen en los términos del Artículo anterior, aún cuando no excedan del salario mínimo, o bien, el monto total de la percepción que obtenga el trabajador, si quien efectúa los pagos está domiciliado fuera del Estado, y no tiene dentro de éste, sucursal, o representación.
+14.- La base del impuesto es el monto total de los pagos que se efectúen bajo las condiciones establecidas en el Artículo anterior, en base a los siguientes términos:
+
+I.- Para los contribuyentes personas físicas o contribuyentes personas morales que en el ejercicio inmediato anterior les hayan prestado servicios subordinados hasta veinticinco trabajadores como promedio mensual, comprenderá el monto total de los pagos efectuados trimestralmente. La misma periodicidad aplicará para el primer ejercicio de operaciones independientemente del número de trabajadores que tengan a su servicio.
+
+II.- Para los demás contribuyentes, comprenderá el monto total de los pagos efectuados mensualmente.
+
+Aún cuando en ambos casos dichos pagos no excedan del salario mínimo o bien, el monto total de las percepciones que obtenga el trabajador, si quien efectúa los pagos efectuados está domiciliado fuera del Estado, y no tiene dentro de éste, sucursal, agencia o representación.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
@@ -1317,11 +1327,11 @@ Para los efectos de este Artículo se aplicarán supletoriamente en lo conducent
 
 15.- Son sujetos del impuesto quienes se encuentran domiciliados en el Estado, o tengan en éste agencias, sucursales o representación y realicen los pagos por remuneración al trabajo personal prestado bajo la dirección y dependencia de un tercero. Serán responsables solidarios quienes perciban dichos pagos, cuando quien los realiza resida fuera del Estado, sin tener en él agencia sucursal o representación.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1998)</small>
 
 ###### ARTICULO 151
 
-16.- Este Impuesto se liquidará y pagará de conformidad con la tasa que estipule la Ley de Ingresos del Estado, aplicada al total de los pagos mensuales efectuados por el causante, o al total de las percepciones que en el mismo período obtengan de fuera del Estado, quienes presten servicios de carácter personal dentro del mismo.
+16.- Este Impuesto se liquidará y pagará de conformidad con la tasa que estipule la Ley de Ingresos del Estado, aplicada al total de los pagos efectuados por el empleador, según los períodos establecidos por el Artículo 151-14, o al total de las percepciones que en el mismo período obtengan de fuera del Estado, quienes presten servicios de carácter personal dentro del mismo.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
@@ -1335,13 +1345,15 @@ Para los efectos de este Artículo se aplicarán supletoriamente en lo conducent
 
 18.- Para efectos de este impuesto, se consideran erogaciones destinadas a remunerar el trabajo personal subordinado, los salarios y demás cantidades que se entreguen al trabajador como contraprestación por su trabajo.
 
-No quedan comprendidas dentro de las remuneraciones objeto del impuesto, las prestaciones de previsión social, las participaciones de los trabajadores en las utilidades de las empresas, ni las indemnizaciones por terminación de la relación laboral.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1998)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+No quedan comprendidas dentro de las remuneraciones objeto del impuesto, las prestaciones de previsión social como los vales de despensa entre otras, las participaciones de los trabajadores en las utilidades de las empresas, ni las indemnizaciones por terminación de la relación laboral.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1998)</small>
 
 ###### ARTICULO 151
 
-19.- Este Impuesto se enterará en efectivo mensualmente mediante declaración que presentarán los causantes o responsables solidarios según sea el caso, ante la Oficina Receptora de su jurisdicción a más tardar dentro del mes siguiente al en que hagan o reciban los pagos base del gravamen.
+19.- Este Impuesto se enterará en efectivo mediante declaración que presentarán los contribuyentes o responsables solidarios según sea el caso, ante la oficina Receptora de su jurisdicción a más tardar dentro del mes siguiente al período correspondiente en que hagan o reciban los pagos base del gravamen, o en los meses de abril, julio, octubre y enero del año siguiente, tratándose de pagos trimestrales.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
@@ -1351,7 +1363,9 @@ No quedan comprendidas dentro de las remuneraciones objeto del impuesto, las pre
 
 I.- Empadronarse en la Oficina de Recaudación de Rentas del Estado de su jurisdicción, dentro de los diez días siguientes a la fecha en que se efectúen las operaciones gravadas por este Impuesto;
 
-II.- Presentar la declaración mensual para el pago del Impuesto; y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 1998)</small>
+
+II.- Presentar la declaración mensual o trimestral según corresponda, para el pago del Impuesto; y
 
 III.- Las demás que impongan otras disposiciones fiscales.
 
@@ -2144,3 +2158,7 @@ El presente Decreto entrará en vigor el siguiente día al de su publicación en
 P.O. 31 DE DICIEMBRE DE 1996.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+P.O. 20 DE FEBRERO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor el día primero de enero de 1998.
