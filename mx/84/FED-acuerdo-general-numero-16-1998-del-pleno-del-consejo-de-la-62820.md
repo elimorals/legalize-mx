@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-1998-del-pleno-del-consejo-de-la-6282
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-06-25"
-last_updated: "2001-04-25"
+last_updated: "2001-06-21"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62820&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, R
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 25 DE ABRIL DE 2001, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: SIN EFECTO.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JUNIO DE 2001.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de junio de 1998.
 
@@ -51,9 +51,9 @@ En consecuencia, con fundamento en las citadas disposiciones constitucionales y 
 
 ACUERDO
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 86/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 18/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE JUNIO DE 2001)</small>
 
-PRIMERO.- El territorio de la República se divide en veintiséis Circuitos cuya circunscripción territorial es la siguiente:
+PRIMERO.- El territorio de la República se divide en veintisiete circuitos, cuya circunscripción territorial es la siguiente:
 
 I.- PRIMER CIRCUITO: Distrito Federal.
 
@@ -85,7 +85,9 @@ XII.- DECIMOSEGUNDO CIRCUITO: Estado de Sinaloa.
 
 XIII.- DECIMO TERCER CIRCUITO: Estado de Oaxaca.
 
-XIV.- DECIMO CUARTO CIRCUITO: Estados de Campeche, Quintana Roo y Yucatán.
+> <small>(REFORMADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 18/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE JUNIO DE 2001)</small>
+
+XIV.- DECIMO CUARTO CIRCUITO: Estados de Campeche y Yucatán.
 
 XV.- DECIMO QUINTO CIRCUITO: Estado de Baja California y Municipio de San Luis Río Colorado del Estado de Sonora.
 
@@ -116,6 +118,10 @@ XXV.- VIGESIMO QUINTO CIRCUITO: Estado de Durango, con excepción de los Municip
 > <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 86/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE DICIEMBRE DE 2000)</small>
 
 XXVI.- VIGESIMO SEXTO CIRCUITO: Estado de Baja California Sur.
+
+> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 18/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE JUNIO DE 2001)</small>
+
+XXVII.- VIGESIMO SEPTIMO CIRCUITO: Estado de Quintana Roo.
 
 > <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO QUINTO DEL ACUERDO GENERAL NUMERO 92/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2000)</small>
 
@@ -257,11 +263,13 @@ XIII.- DECIMO TERCER CIRCUITO:
 
 XIV.- DECIMO CUARTO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 39/1998, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 18/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE JUNIO DE 2001)</small>
 
-1.- Tres tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Mérida.
+1.- Tres tribunales colegiados y un tribunal unitario, con residencia en Mérida.
 
-2.- Tres juzgados de distrito con sede en la ciudad de Mérida.
+> <small>(REFORMADO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL NUMERO 17/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE JUNIO DE 2001)</small>
+
+2.- Cuatro juzgados de distrito: con sede en la ciudad de Mérida.
 
 3.- Dos juzgados de distrito en el Estado de Campeche, con residencia en la ciudad del mismo nombre.
 
@@ -393,6 +401,14 @@ XXVI.- VIGESIMO SEXTO CIRCUITO:
 
 2.- Dos Juzgados de Distrito en el Estado de Baja California Sur, con sede en La Paz.
 
+> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 18/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE JUNIO DE 2001)</small>
+
+XXVII.- VIGESIMO SEPTIMO CIRCUITO:
+
+1.- Un tribunal colegiado y un tribunal unitario.
+
+2.- Tres juzgados de distrito en el estado de Quintana Roo; uno, con sede en Chetumal, y dos, con residencia en Cancún.
+
 TERCERO.- La jurisdicción territorial de los tribunales colegiados y unitarios de circuito es la que en seguida se indica:
 
 I.- PRIMER CIRCUITO: Distrito Federal.
@@ -429,7 +445,9 @@ XII.- DECIMO SEGUNDO CIRCUITO: Estado de Sinaloa.
 
 XIII.- DECIMO TERCER CIRCUITO: Estado de Oaxaca.
 
-XIV.- DECIMO CUARTO CIRCUITO: Estados de Campeche, Quintana Roo y Yucatán.
+> <small>(REFORMADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 18/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE JUNIO DE 2001)</small>
+
+XIV.- DECIMOCUARTO CIRCUITO: Estados de Campeche y Yucatán.
 
 > <small>(REFORMADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 39/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 1999)</small>
 
@@ -504,6 +522,10 @@ XXV.- VIGESIMO QUINTO CIRCUITO: Estado de Durango, con excepción de los Municip
 > <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 86/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE DICIEMBRE DE 2000)</small>
 
 XXVI.- VIGESIMO SEXTO CIRCUITO: Estado de Baja California Sur.
+
+> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 18/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE JUNIO DE 2001)</small>
+
+XXVII.- VIGESIMO SEPTIMO CIRCUITO: Estado de Quintana Roo.
 
 CUARTO.- La jurisdicción territorial de los juzgados de distrito es la siguiente:
 
@@ -621,8 +643,6 @@ Los Juzgados Octavo, Noveno y Décimo de Distrito en el Estado de Sinaloa, con r
 
 Los Juzgados de Distrito en el Estado de Baja California Sur, con residencia en la ciudad de La Paz, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
-> <small>(DEROGADO ULTIMO PARRAFO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 86/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE DICIEMBRE DE 2000)</small>
-
 XIII.- DECIMO TERCER CIRCUITO:
 
 Los Juzgados Primero, Segundo, Tercero, Cuarto y Quinto de Distrito en el Estado de Oaxaca, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa, excepto en el distrito judicial en el que ejercen jurisdicción territorial los juzgados de distrito con residencia en Salina Cruz.
@@ -633,7 +653,9 @@ Los Juzgados Sexto y Séptimo de Distrito en el Estado de Oaxaca, con residencia
 
 XIV.- DECIMO CUARTO CIRCUITO:
 
-Los Juzgados Primero, Segundo y Tercero de Distrito en el Estado de Yucatán, con residencia en la ciudad de Mérida, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+> <small>(REFORMADO POR EL PUNTO OCTAVO DEL ACUERDO GENERAL NUMERO 17/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE JUNIO DE 2001)</small>
+
+Los Juzgados de Distrito en el Estado de Yucatán, con residencia en la ciudad de Mérida, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
 Los Juzgados Primero y Segundo de Distrito en el Estado de Campeche, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
@@ -748,6 +770,14 @@ Los Juzgados Primero, Segundo y Tercero de Distrito en el Estado de Durango, con
 XXVI.- VIGESIMO SEXTO CIRCUITO:
 
 Los Juzgados de Distrito en el Estado de Baja California Sur, con residencia en La Paz, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+
+> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 18/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE JUNIO DE 2001)</small>
+
+XXVII.- VIGESIMO SEPTIMO CIRCUITO:
+
+El Juzgado de Distrito en el estado de Quintana Roo, con residencia en Chetumal, ejercerá jurisdicción territorial en el distrito judicial conformado por los municipios de: Felipe Carrillo Puerto, José María Morelos y Othón P. Blanco.
+
+Los Juzgados de Distrito en el estado de Quintana Roo, con residencia en Cancún, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Benito Juárez, Cozumel, Isla Mujeres, Lázaro Cárdenas y Solidaridad.
 
 QUINTO.- El Pleno del Consejo de la Judicatura Federal interpretará y resolverá cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente Acuerdo.
 
@@ -1245,7 +1275,7 @@ SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en e
 
 D.O.F. 17 DE NOVIEMBRE DE 2000.
 
-ACUERDO GENERAL NUMERO 78/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+ACUERDO GENERAL NUMERO 78/2000. DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
 
 PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 
@@ -1340,3 +1370,21 @@ D.O.F. 25 DE ABRIL DE 2001.
 PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Queda sin efecto el Acuerdo General 16/1998 de veinte de mayo de mil novecientos noventa y ocho, del Pleno del Consejo de la Judicatura Federal. Asimismo, quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+D.O.F. 21 DE JUNIO DE 2001.
+
+ACUERDO GENERAL NUMERO 17/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 21 DE JUNIO DE 2001.
+
+ACUERDO GENERAL NUMERO 18/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- La Dirección General de Recursos Humanos del Consejo de la Judicatura Federal atenderá, en términos de ley, la situación laboral del personal adscrito a la Oficialía de Partes Común de los Tribunales Unitarios del Decimocuarto Circuito y del actual Segundo Tribunal Unitario del propio Circuito que se traslada al Vigésimo Séptimo Circuito.
+
+TERCERO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
