@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2000-01-05"
+last_updated: "2000-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MAYO DE 2000.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -1282,11 +1282,13 @@ Las instituciones de crédito, con sujeción a las disposiciones de carácter ge
 
 El personal que las instituciones de crédito utilicen directa o exclusivamente para la realización de fideicomisos, no formará parte del personal de la institución, sino que, según los casos se considerará al servicio del patrimonio dado en fideicomiso. Sin embargo, cualesquier derechos que asistan a esas personas conforme a la ley, los ejercitarán contra la institución de crédito, la que, en su caso, para cumplir con las resoluciones que la autoridad competente dicte afectará, en la medida que sea necesaria, los bienes materia del fideicomiso.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 2000)</small>
+
 ###### ARTICULO 83.
 
-A falta de procedimiento convenido en forma expresa por los partes en el acto constitutivo de los fideicomisos que tengan por objeto garantizar el cumplimiento de obligaciones, se aplicará el procedimiento establecido en los dos primeros párrafos del artículo 341 de la Ley General de Títulos y Operaciones de Crédito, a petición del fiduciario.
+A falta de procedimiento convenido en forma expresa por las partes en el acto constitutivo de los fideicomisos que tengan por objeto garantizar el cumplimiento de obligaciones, se aplicarán los procedimientos establecidos en el Título Tercero Bis del Código de Comercio, a petición del fiduciario.
 
-Si el deudor no se opone conforme a lo previsto en dicho artículo, el juez mandará que se dé cumplimiento a lo establecido en el acto constitutivo del fideicomiso o sus modificaciones.
+> <small>(DEROGADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 84.
 
@@ -1299,6 +1301,22 @@ En caso de renuncia o remoción se estará a lo dispuesto en el párrafo final d
 ###### ARTICULO 85.
 
 Cuando se trate de operaciones de fideicomiso que constituya el Gobierno Federal o que el mismo, para los efectos de este artículo declare de interés público a través de la Secretaría de Hacienda y Crédito Público, no será aplicable el plazo que establece la fracción III del artículo 359 de la Ley General de Títulos y Operaciones de Crédito.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+###### ARTICULO 85 Bis.
+
+Para poder actuar como fiduciarias de los fideicomisos de garantía las instituciones a que se refieren las fracciones II a V del artículo 398 de la Ley de Títulos y Operaciones de Crédito, deberán contar con el capital mínimo adicional que, para este efecto, determine la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general, previa opinión de las Comisiones Nacionales Bancaria y de Valores y de Seguros y Fianzas, según corresponda en virtud de la institución de que se trate, y del Banco de México, así como con la autorización que otorgará discrecionalmente el Gobierno Federal, a través de dicha Secretaría.
+
+Las sociedades financieras de objeto limitado que cumplan con los requisitos señalados en el párrafo anterior, sólo podrán aceptar el desempeño de fideicomisos cuyos bienes afectos, deriven de las operaciones inherentes a su objeto social.
+
+Las sociedades a que se refieren las fracciones II a V del artículo 399 de la Ley General de Títulos y Operaciones de Crédito, deberán administrar las operaciones de fideicomiso en los términos que para las instituciones de crédito señalan los artículos 79 y 80 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+###### ARTICULO 85 Bis 1.
+
+La Comisión Nacional Bancaria y de Valores y la Comisión Nacional de Seguros y Fianzas, según corresponda, podrán suspender, por un período no menor de seis meses, la contratación de nuevas operaciones de fideicomisos de garantía, a las entidades que sean condenadas a pagar en más de una ocasión las indemnizaciones a que se refiere el artículo 410 de la Ley General de Títulos y Operaciones de Crédito.
 
 ## TITULO CUARTO. De las Disposiciones Generales y de la Contabilidad
 
@@ -2485,5 +2503,13 @@ D.O.F. 5 DE ENERO DE 2000.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
+
+D.O.F. 23 DE MAYO DE 2000.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en el Artículo Transitorio siguiente.
 
 ...
