@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1935-07-06"
+last_updated: "1936-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JULIO DE 1935.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 1936.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -145,11 +145,11 @@ II.- Tener 25 años cumplidos el día de la elección.
 
 III.- No ejercer en el Estado cargo militar alguno por lo menos dos años antes de la elección.
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
-IV.- No ser Secretario de Gobierno, Magistrado del Supremo Tribunal de Justicia, Tesorero General ni Juez de Distrito a menos que se separen de sus cargos noventa días antes de verificarse la elección.
+IV.- No ser Secretario General de Gobierno, Magistrado del Supremo Tribunal de Justicia, Tesorero General del Estado, ni desempeñar el cargo de Juez de Distrito en el Estado, a menos que se separen de sus cargos noventa días antes de verificarse la elección.
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
+(REFORMADA, P.O. 6 DE JULIO DE 1935) (REPUBLICADA, P.O. 12 DE DICIEMBRE DE 1936)
 
 V.- No ser Presidente Municipal en el lugar donde hayan de celebrarse las elecciones, salvo si renunciare el cargo noventa días antes de verificarse el acto democrático.
 
@@ -255,9 +255,9 @@ XI.- Conocer y resolver acerca de las renuncias a sus respectivos cargos present
 
 XII.- Recibir las protestas de los funcionarios a que se contrae la fracción anterior.
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
-XIII.- Otorgar permiso al Gobernador para salir del territorio del Estado cuando su ausencia fuere mayor de setenta y dos horas, en cuyo caso nombrará el Congreso un Gobernador Interino.
+XIII.- Otorgar permiso al Gobernador para salir del Territorio del Estado, cuando su ausencia fuere mayor de setenta y dos horas.
 
 (REFORMADA, P.O. 1 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -295,7 +295,7 @@ XXIII.- Interpelar, a moción de alguno o varios Diputados, al Ejecutivo, a los 
 
 XXIV.- Aprobar o reprobar la suspensión de los Ayuntamientos o de sus miembros, y la de los miembros de las Juntas Municipales que hubiere acordado el Ejecutivo.
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
+(REFORMADA, P.O. 6 DE JULIO DE 1935) (REPUBLICADA, P.O. 12 DE DICIEMBRE DE 1936)
 
 XXV.- Nombrar a los Magistrados del Supremo Tribunal de Justicia, en la forma establecida en el artículo 70 de esta Constitución.
 
@@ -340,6 +340,10 @@ XXXVII.- Dirimir las cuestiones que sobre límites se susciten entre Municipios.
 (REFORMADA, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
 XXXVIII.- Erigir nuevos Municipios y suprimir los que no satisfagan las condiciones Constitucionales, agregando su territorio a donde corresponda.
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
+
+XXXIX.- Autorizar, cuando lo juzgue conveniente las enagenaciones (sic) que debe hacer el Ejecutivo de los bienes que, según las Leyes, pertenezcan al Estado.
 
 ### CAPITULO IV.
 
@@ -427,6 +431,10 @@ Tampoco será oído el Ejecutivo ni podrá hacer observaciones a la Legislatura,
 
 El Gobernador podrá nombrar un representante para que sin voto, asista a las sesiones con obJeto (sic) de apoyar las observaciones que hiciere a las iniciativas de ley o Decreto y para sostener las que procedieren de él, a cuyo efecto se le dará oportuno aviso del día de la discusión.
 
+###### Artículo 44.
+
+El Gobernador podrá nombrar un representante para que sin voto, asista a las sesiones con obJeto (sic) de apoyar las observaciones que hiciere a las iniciativas de ley o Decreto y para sostener las que procedieren de él, a cuyo efecto se le dará oportuno aviso del día de la discusión.
+
 ###### Artículo 45.
 
 El mismo derecho tendrá el Supremo Tribunal de Justicia del Estado, cuando la iniciativa de ley o Decreto sea del ramo Jndicial (sic), y para facilitarle su ejercicio, al darle aviso del día de la discusión se le remitirá copia de la iniciativa.
@@ -473,9 +481,9 @@ V.- No ser ni haber sido ministro de algún culto.
 
 VI.- No haber figurado directa ni indirectamente en alguna asonada, motín o cuartelazo.
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
-VII.- No estar en servicio activo con dos años de anticipación al día de la elección, en el Ejército Nacional ni en las fuerzas del Estado. El Secretario General de Gobierno, los Magistrados del Supremo Tribunal de Justicia, el Tesorero General y el Presidente Municipal de la capital, pueden ser electos para desempeñar la Primera Magistratura del Estado, sólo en el caso de que se separe de su cargo noventa días antes de la elección.
+VII.- No estar en servicio activo en el Ejército Nacional ni en las fuerzas del Estado, con noventa días de anticipación al día de la elección. El Secretario General de Gobierno, los Magistrados del Supremo Tribunal de Justicia, el Tesorero General y el Presidente Municipal de la Capital, pueden ser electos para desempeñar la Primera Magistratura del Estado, sólo en el caso de haber cesado en su encargo noventa días antes de la elección.
 
 (REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -491,11 +499,11 @@ El Gobernador será electo popular y directamente, entrará a ejercer sus funcio
 
 El Gobernador, antes de tomar posesión de su cargo rendirá la protesta de Ley ante la H. Legislatura, y en sus recesos ante la H. Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
 ###### Artículo 54.
 
-No podrá ser electo para el período inmediato el ciudadano que haya desempeñado el Poder Ejecutivo con el carácter de Gobernador Substituto; ni el de Interino o el Provisional siempre que desempeñe el cargo en los dos últimos años del periodo.
+No podrán ser electos para el período inmediato los Ciudadanos que hayan desempeñado el Poder Ejecutivo con el carácter de Gobernador Substituto, Interino o Provisional, siempre que desempeñen el cargo en los dos últimos años del período.
 
 (REFORMADO, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -577,7 +585,9 @@ XXII.- Inspeccionar las obras de mejoras materiales costeadas por las rentas del
 
 XXIII.- Celebrar, con aprobación del Congreso, los convenios que juzguen necesarios con los Gobernadores de otros Estados, con la limitación que establece el artículo 117 fracción I de la Constitución General.
 
-XXIV.- (DEROGADA, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 1932)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 1936)</small>
+
+XXIV.- Enajenar, con autorización del Congreso, los bienes que según las leyes pertenezcan al Estado.
 
 XXV.- Recibir la protesta de todos los funcionarios y empleados de nombramiento del Gobernador, que conforme a las leyes no deban otorgarla ante otra Autoridad.
 
@@ -587,9 +597,9 @@ XXVII.- Remitir al Congreso y en sus recesos a la Diputación Permanente, los ne
 
 XXVIII.- Rendir ante la Cámara el informe a que se refiere el artículo 31 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
-XXIX.- Castigar a los que le fueren irrespetuosos o infringieren sus órdenes con multa hasta por doscientos pesos o arresto hasta por treinta y seis horas; pero si a quien se le impusiere no pagare la multa, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de quince días. Tratándose de jornaleros u obreros, les impondrá a lo sumo, la multa equivalente al importe de su jornal o sueldo en una semana.
+XXIX.- Castigar a los que fueren irrespetuosos o infringieren sus órdenes con multa hasta por doscientos pesos o arresto hasta por treinta y seis horas; pero sí a quien se le impusiere no pagare la multa, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de quince días. Tratándose de jornaleros y obreros, les impondrá a lo sumo la multa equivalente al importe de su jornal o sueldo en una semana.
 
 XXX.- Suspender a los Ayuntamiento (sic), a las Juntas Municipales, o a los miembros de ambos y a los Comisarios, en el ejercicio de sus funciones, en los casos que determinen las leyes; dando inmediatamente parte justificada al Congreso y en sus recesos a la Diputación Permanente, para que se apruebe o no la suspensión.
 
@@ -603,13 +613,13 @@ XXXIII.- Vigilar que las elecciones se verifiquen en el tiempo y en la forma que
 
 XXXIV.- (DEROGADA, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 1932)
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
-XXXV.- Asumir facultades especiales o extraordinarias conforme a la fracción XXI del artículo 33 de esta Constitución, cuando en virtud de las circunstancias no se pudiere recabar las del Congreso, a quien dará cuenta de lo que hiciere para su aprobación o reprobación.
+XXXV.- Asumir facultades especiales o extraordinarias conforme a la fracción XXI del artículo 33 de esta Constitución, cuando en virtud de las circunstancias no se pudieren recabar del Congreso, a quien dará cuenta de lo que hiciere para su aprobación o reprobación.
 
 XXXVI.- Decretar la expropiación por causa de utilidad pública, en la forma que determinen las leyes.
 
-(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JULIO DE 1935) (F. DE E., 20 DE JULIO DE 1935)
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE DICIEMBRE DE 1936)</small>
 
 XXXVII.- Siempre que esté en goce de facultades extraordinarias en el Ramo de Hacienda, condonar contribuciones cuando lo considere justo y equitativo.
 
@@ -629,9 +639,9 @@ V.- Intervenir en las elecciones para que recaigan en determinada persona, ya se
 
 VI.- Mezclarse en los asuntos judiciales ni disponer, durante el juicio, de las cosas que en él se versen o de las personas que estén bajo la acción de la justicia.
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
-VII.- Ausentarse del Estado por más de sesenta y dos horas sin licencia del Congreso. La ley castigará severamente la infracción a la disposición contenida en este Artículo.
+VII.- Ausentarse del Territorio del Estado por más de setenta y dos horas sin licencia del Congreso.
 
 ## TITULO IV.
 
@@ -683,21 +693,23 @@ Del Poder Judicial.
 
 El Poder Judicial del Estado se deposita en el Supremo Tribunal de Justicia, Jueces de Primera Instancia, Jueces Pupilares, Jueces Menores, Jueces de Paz, Presidentes de las Juntas Municipales, Comisarios y Jurados.
 
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1936)</small>
+
 ###### Artículo 68.
 
-El Supremo Tribunal de Justicia, se compone de tres Magistrados Propietarios y tres Suplentes.
+El Supremo Tribunal de Justicia se compone de dos Magistrados Propietarios, un Supernumerario y dos Suplentes de los primeros.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
 ###### Artículo 69.
 
-Para ser magistrado del Supremo Tribunal de Justicia, se requiere:
+Para ser Magistrado del Supremo Tribunal de Justicia o Juez de Primera Instancia se requiere:
 
 I.- Ser ciudadano Mexicano por nacimiento y estar en pleno goce de sus derechos.
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
-II.- Tener cuando menos 25 años de edad y dos de práctica forense, con título oficial de Abogado en los Tribunales de la República.
+II.- Tener cuando menos treinta años de edad y cuatro de práctica forense, con título oficial de Abogado en los Tribunales de la República, para lo primero; y para lo segundo tener veinticinco años de edad, dos de práctica forense y título Oficial de Abogado en los Tribunales de la República; pudiendo desempeñar el cargo de Juez cuando falte éste, el Secretario del Juzgado siempre que la falta no exceda de un mes y lo acuerde previamente el Presidente o el (sic) Supremo Tribunal de Justicia.
 
 III.- No ser Ministro de algún culto ni pertenecer al estado eclesiástico.
 
@@ -711,11 +723,11 @@ V.- Gozar de buena reputación y no haber sido condenado por delito que amerite 
 
 Los magistrados del Supremo Tribunal de Justicia, serán nombrados por la Legislatura en funciones de Colegio Electoral y por mayoría de votos. La elección se hará en escrutinio secreto y en caso de empate, se repetirá la votación hasta que se obtenga la mayoría indicada.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
 ###### Artículo 71.
 
-Los Jueces de Primera Instancia, los Jueces Pupilares, los Jueces Menores y Jueces de Paz, serán nombrados por el Supremo Tribunal de Justicia y tendrán los requisitos que fija el artículo 69, excepto el de la edad, pues se requerirá tener cuando menos veintiún años y uno de práctica forense y podrá recaer nombramiento en persona que carezca de título de Abogado, cuando así lo requieran las circunstancias.
+Los Jueces de Primera Instancia y los Menores, serán nombrados por el Supremo Tribunal de Justicia y tendrán los requisitos que fije el artículo 69 de esta Constitución, a excepción del título de Abogado para los Jueces Menores, que será dispensado cuando las circunstancias lo requieran.
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
 
@@ -735,19 +747,19 @@ I.- Formar su reglamento interior.
 
 II.- Conocer, de acuerdo con lo dispuesto en el artículo 123, de los procesos que por delitos oficiales se animen contra el Gobernador, los Diputados, el Procurador de Justicia, los Magistrados, Secretario de Gobierno, Director General de Rentas y Munícipes.
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
-III.- Consignar a los Jueces de Primera Instancia, Jueces Pupilares, Jueces Menores y Jueces de Paz a la autoridad competente, por delitos comunes o responsabilidades oficiales en que incurran, a solicitud del Procurador General o Agentes del Ministerio Público.
+III.- Consignar a los Jueces de Primera Instancia y Menores, a la Autoridad competente por delitos comunes o responsabilidades oficiales en que incurran a solicitud del Procurador General de Justicia.
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
-IV.- Conceder licencias a los Jueces de Primera Instancia, Jueces Pupilares, Jueces Menores, Jueces de Paz, y a los empleados inferiores de su dependencia y resolver acerca de la renuncia de los mismos.
+IV.- Conceder licencia a los Jueces de Primera Instancia, Menores y a los Empleados inferiores, de su dependencia y resolver acerca de la renuncia de los mismos.
 
 V.- (DEROGADA, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 12 DE NOVIEMBRE DE 1932)
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
-VI.- Dirimir los conflictos que surjan entre los Municipios y cualesquiera de los Poderes del Estado y que no sean de los previstos por la fracción XXXVIII del artículo 33 de esta Constitución.
+VI.- Dirimir los conflictos que surjan entre los Municipios y cualesquiera de los Poderes del Estado, y que no sean de los previstos por la fracción XXXVIII del artículo 33 de esta Constitución.
 
 VII.- Dirimir las competencias de jurisdicción que se susciten entre los Tribunales del Estado.
 
@@ -755,9 +767,9 @@ VIII.- Conocer en Segunda Instancia, de todos los negocios civiles y criminales 
 
 IX.- Ejercitar el derecho de iniciar leyes ante el Congreso Local y nombrar en su caso el representante a que se refiere el artículo 45 de la Constitución.
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
-X.- Nombrar y remover a los empleados del Supremo Tribunal de Justicia, Juzgados de Primera Instancia, Juzgados Pupilares, Juzgados Menores y de Paz, y tomarles la protesta en los términos prevenidos por la ley.
+X.- Nombrar y remover a los Empleados del Supremo Tribunal de Justicia, Juzgados de Primera Instancia y Menores, y tomarles la protesta respectiva en los términos prevenidos por la Ley.
 
 (REFORMADO, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -793,7 +805,7 @@ Las faltas temporales de Magistrado del Supremo Tribunal, se cubrirán por el su
 
 El Ministerio Público es una Magistratura instituida para velar por la exacta observancia de las leyes de interés general. A ese fin deberá ejercitar las acciones que corresponda contra los violadores de dichas leyes, hacer efectivos los derechos concedidos al Estado, e intervenir en los juicios que afecten a las personas a quienes la ley otorgue especial protección.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
+(REFORMADO, P.O. 6 DE JULIO DE 1935) (REPUBLICADO, P.O. 12 DE DICIEMBRE DE 1936)
 
 ###### Artículo 81.
 
@@ -803,11 +815,11 @@ Desempeñarán la expresada Magistratura en el Estado: un Procurador General de 
 
 Los funcionarios de que trata el artículo anterior serán considerados como parte en los juicios en que hayan de intervenir, sin gozar de prerrogativa alguna y se sujetarán en todo a las leyes relativas.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
 ###### Artículo 83.
 
-Para ser Procurador General de Justicia se requieren las mismas condiciones que para ser Magistrado; y para ser Agente del Ministerio Público, las mismas que para los Jueces de Primera Instancia, Jueces Menores y Jueces de Paz, fija el artículo 71 de esta Constitución.
+Para ser Procurador General de Justicia se requieren las mismas condiciones que para ser Magistrado del Supremo Tribunal de Justicia; y para ser Agente del Ministerio Público se requieren las mismas condiciones que fija el artículo 71 de esta Constitución; pudiendo recaer el nombramiento de Agente del Ministerio Público en persona que carezca de título de Abogado, cuando así lo requieran las circunstancias.
 
 ###### Artículo 84.
 
@@ -895,17 +907,17 @@ De la Administración Municipal.
 
 ###### Artículo 97.
 
-Es obligación del Estado proporcionar al pueblo la instrucción Primaria Elemental y Superior, que será gratuita, uniforme y con tendencia socialista claramente definida en el proyecto, método, desarrollo y finalidad; obligatoria para todos los habitantes del Estado solamente la Primaria Elemental, impartiéndose en los términos que prevengan las Leyes y se pagará con los fondos públicos.
+Es obligación del Estado proporcionar al pueblo la Educación Primaria Elemental y Superior, que será gratuita, uniforme, con la tendencia que marque la Constitución General de la República y obligatoria para todos los habitantes del Estado solamente la Primaria Elemental.
 
 ###### Artículo 98.
 
 Cuando las circunstancias del Erario lo permitan, el Estado impartirá gratuitamente la enseñanza preparatoria y la Profesional.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
 ###### Artículo 99.
 
-Podrán existir establecimientos particulares de enseñanza, siempre que se encuentren incorporados y sujetos a los programas y vigilancia oficiales, interviniendo directamente el Gobierno en el nombramiento del cuerpo docente para procurar elementos netamente identificados con la ideología socialista, designándose por las autoridades del Ramo un asistente técnico permanente que será pagado con los fondos de la escuela particular, para que vigile el estricto cumplimiento de las leyes, acuerdos y programas de la materia.
+Podrán existir establecimientos particulares de enseñanza siempre que se encuentren incorporados y sujetos a los programas y vigilancia oficiales, interviniendo directamente el Gobierno en el nombramiento del Cuerpo Docente para procurar elementos netamente identificados con la ideología educacional que señale la Constitución General de la República, designándose por las Autoridades del Ramo, un asistente técnico permanente que será pagado con los fondos de la escuela particular, para que vigile el estricto cumplimiento de las Leyes, acuerdos y programas de la materia.
 
 ###### Artículo 100.
 
@@ -921,17 +933,17 @@ Las profesiones de Abogacía, Ingeniería, Medicina, Obstetricia, Farmacia y Odo
 
 (DEROGADO, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 1932)
 
-(REFORMADO, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
 ###### Artículo 103.
 
-Para la expedición de Fiats de Notarios, no se requiere examen especial, pero el peticionario deberá ser Abogado con título oficial y tener una práctica forense de un año. El Ejecutivo queda facultado para expedir los Fiats de acuerdo con la Ley relativa, la que fijará el número de Notarios que puedan ejercer en el Estado.
+Para la expedición de Fiats de Notarios, no se requiere examen especial, pero el peticionario deberá ser abogado con título Oficial y tener una práctica forense de cinco años. El Ejecutivo queda facultado para expedir los Fiats de acuerdo con la Ley relativa, la que fijará el número de Notarios que puedan ejercer en el Estado.
 
 ## TITULO VIII.
 
 De la Instrucción Pública.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
 ###### Artículo 104.
 
@@ -965,7 +977,9 @@ La Hacienda Pública se formará:
 
 I.- Del producto de las contribuciones que decrete el Congreso.
 
-II.- Del producto de los bienes, que según las leyes pertenezcan al Estado.
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
+
+II.- Del producto y venta de los bienes que, según las Leyes, pertenezcan al Estado.
 
 III.- De las multas que conforme a las leyes deban ingresar al Erario.
 
@@ -1001,11 +1015,11 @@ Las oficinas a que se refieren los artículos anteriores, podrán ejercer la fac
 
 Los encargados de las Oficinas de referencia, distribuirán los caudales públicos con estricto arreglo al presupuesto y serán responsables personal y pecuniariamente, por los gastos que hicieren u ordenaren sin estar comprendidos o autorizados por ley posterior.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
 ###### Artículo 115.
 
-El Tesorero General y los demás empleados que manejen fondos públicos, otorgarán fianza en la forma que la Ley determine.
+El Tesorero General del Estado y los demás empleados que manejen fondos públicos, otorgarán fianza en la forma que la Ley determine.
 
 ## TITULO X.
 
@@ -1055,11 +1069,11 @@ Contra los funcionarios Públicos de que habla el artículo 74, fracción III s�
 
 Lo dispuesto en el artículo anterior se observará desde que los funcionarios entren en el ejercicio de su cargo, aún por delitos cometidos con anterioridad.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
 ###### Artículo 125.
 
-Todo funcionario público a los que se refiere el artículo 139, que esté separado de su cargo con licencia, gozará de fuero Constitucional.
+Todos los Funcionarios Públicos a que se refiere el artículo 139 de esta Constitución, que estén separados de su cargo con licencia, gozarán de fuero Constitucional.
 
 ###### Artículo 126.
 
@@ -1129,13 +1143,13 @@ Se prohibe ejercer simultáneamente dos o más cargos de elección popular; pero
 
 Todo cargo o empleo público es incompatible con cualquiera otro de la Federación, del Estado o de los Municipios, cuando por ellos se perciba sueldo, exceptuándose los de los Ramos de Instrucción, de Beneficencia Pública o los honoríficos en asociaciones científicas o literarias.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
 ###### Artículo 139.
 
-Los Diputados, el Gobernador, los Magistrados del Supremo Tribunal de Justicia, el Secretario de Gobierno, el Procurador General de Justicia, el Tesorero General y los Munícipes, gozan de fuero desde el día de su elección o nombramiento en su caso.
+Los Diputados, el Gobernados (sic), los Magistrados del Supremo Tribunal de Justicia, el Secretario General de Gobierno, el Procurador General de Justicia; el Tesorero General del Estado y los Munícipes, gozan de fuero desde el día de su elección o nombramiento en su caso.
 
-La Ley castigará severamente a la autoridad que viole el fuero que otorga esta Constitución.
+La Ley castigará severamente a la autoridad que viole el fuero que otorga esta Constitución a los Funcionarios citados.
 
 (REFORMADO, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 1932)
 
@@ -1299,9 +1313,11 @@ Sus personas e intereses estarán bajo la garantía de las leyes y sujetos a ell
 
 Son obligaciones de los habitantes del Estado:
 
-(REFORMADA, P.O. 6 DE JULIO DE 1935) (F. DE E., P.O. 20 DE JULIO DE 1935)
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
-I.- Si son mexicanos: Las que determine el artículo 31 de la Constitución General, y manifestar enlas (sic) oficinas respectivas el capital, industria o trabajo de que subsistan, en los casos que lo prevengan las leyes, e inscribir el nacimiento de sus hijos en las oficinas del Registro Civil.
+I.- Si son mexicanos:
+
+Las que determina el artículo 31 de la Constitución Política de los Estados Unidos Mexicanos; inscribirse en el Registro Civil y manifestar en las Oficinas respectivas el capital, industria o trabajo de que subsistan, en los casos que lo prevengau (sic) las Leyes.
 
 II.- Si son extranjeros:
 
@@ -1329,9 +1345,9 @@ II.- Por vecindad los nacidos fuera del territorio del Estado, que sean mexicano
 
 Son prerrogativas del ciudadano colimense:
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
-I.- Las establecidas en el artículo 35 de la Constitución General, y además votar en las elecciones populares siempre que en él concurran las circunstancias siguientes: no ser ni haber sido Ministro d' (sic) algún culto; no haberse comprometido ante autoridad o persona alguna a no observar la presente Constitución, la Federal y las Leyes que de ellas emanen.
+I.- Las establecidas en el artículo 35 de la Constitución Política de los Estados Unidos Mexicanos, y además, votar en las elecciones populares, siempre que en él concurran las circunstancias siguientes: estar inscrito en el Registro Civil antes del día de la elección; no ser ni haber sido Ministro de algún culto; no haberse comprometido ante Autoridad o persona alguna a no observar la presente Constitución, la Federal y las Leyes que de ellas emanen.
 
 (REFORMADA, P.O. 24 DE SEPTIEMBRE DE 1932) (REPUBLICADA, P.O. 29 DE OCTUBRE DE 1932)
 
@@ -1341,9 +1357,9 @@ II.- Ser votado en toda elección popular y desempeñar cualquier empleo del Est
 
 Son obligaciones del ciudadano colimense:
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 1935)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 1936)</small>
 
-I.- Las que determina el artículo 36 de la Constitución General.
+I.- Las que determina el artículo 36 de la Constitución Política de los Estados Unidos Mexicanos.
 
 II.- Tomar las armas en defensa del Estado.
 
@@ -1412,6 +1428,24 @@ Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicac
 P.O. 6 DE JULIO DE 1935.
 
 Unico.- Mientras las condiciones del Erario no permitan el establecimiento de los Juzgados Pupilares, desempeñará estas funciones el Juzgado de Primera Instancia de lo Civil y de Hacienda.
+
+P.O. 12 DE DICIEMBRE DE 1936.
+
+###### Artículo 1º.
+
+Las presentes reformas y adiciones entrarán en vigor el día primero de enero de mil novecientos treinta y siete.
+
+###### Artículo 2º.
+
+Sin embargo, la designación de los Magistrados se hará a más tardar el día treinta de diciembre del corriente año, si bien las personas nombradas no prestarán la protesta Constitucional ni tomarán posesión de su cargo sino hasta la fecha que señala el artículo anterior.
+
+###### Artículo 3º.
+
+La designación de Jueces deberá hacerse el día primero de enero de mil novecientos treinta y siete, en cuya fecha deberán tomar posesión de sus cargos.
+
+###### Artículo 4º.
+
+Se derogan los preceptos de la Ley Orgánica de los Tribunales de Justicia del Fuero Común y demás disposiciones legales en cuanto se opongan al cumplimiento de las presentes adiciones y reformas.
 
 ###### Artículo 2.
 
