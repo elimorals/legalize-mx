@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "1997-01-09"
+last_updated: "1998-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -47,21 +47,25 @@ LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
 La presente ley es obligatoria y de observancia general para los titulares y servidores públicos de los poderes Legislativo, Ejecutivo y Judicial y sus dependencias respectivas; de los Ayuntamientos; de los organismos descentralizados del Estado y sus Municipios, así como de aquellas empresas o asociaciones de participación Estatal o Municipal mayoritaria, en que por leyes, decretos, reglamentos o convenios, llegue a establecerse su aplicación.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Art. 2°.
 
-Servidor público es toda persona que preste un trabajo subordinado físico o intelectual con las condiciones establecidas como mínimas por la ley, a las Entidades Públicas a que se refiere el artículo anterior, en virtud del nombramiento expedido, o por su inclusión en la nómina del pago de sueldos.
+Servidor público es toda persona que preste un trabajo subordinado físico o intelectual, a las Entidades Públicas a que se refiere el Artículo anterior, en virtud del nombramiento expedido que corresponda a alguna plaza legalmente autorizada en los respectivos presupuestos de egresos aplicables.
 
-Se presume la existencia de la relación de servicio público entre el particular que presta un trabajo personal y la Entidad Pública que lo recibe.
+Cualquiera otra prestación de servicios a las Entidades Públicas aludidas en el párrafo que antecede, no se regirá por la presente Ley, ni se le considerará al prestador como servidor público.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Art. 3°.
 
-Para los efectos de esta ley, los servidores públicos se dividen en:
+Para los efectos de esta ley, los servidores públicos se clasifican en:
 
-I. Servidor de base;
+I. De base;
 
-II. Servidor de confianza; y
+II. De confianza; y
 
-III. Servidor Supernumerario.
+III. Interinos, provisionales y transitorios, conforme a las fracciones III, IV y V del Artículo 16 de esta Ley.
 
 ###### Art. 4°.
 
@@ -133,7 +137,7 @@ Son servidores públicos de base los no comprendidos en el artículo anterior.
 
 ###### Art. 6°.
 
-Son servidores públicos supernumerarios, aquéllos a quienes se otorgue nombramiento de los señalados en las fracciones II, III, IV y V del Art. 16 de esta ley.
+(DEROGADO, P.O. 17 DE ENERO DE 1998)
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -141,9 +145,11 @@ Son servidores públicos supernumerarios, aquéllos a quienes se otorgue nombram
 
 Los servidores públicos de base serán inamovibles; los de nuevo ingreso, no lo serán sino después de transcurridos seis meses ininterrumpidos de servicios, sin nota desfavorable en su expediente.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Art. 8°.
 
-Tratándose de servidores públicos de confianza, las entidades públicas de que se trate, podrán rescindir la relación laboral, si existiere un motivo razonable de pérdida de confianza, aún cuando no coincida con las causas justificadas de terminación de los efectos del nombramiento o contrato de trabajo.
+Tratándose de servidores públicos de confianza, las entidades públicas de que se trate, sin responsabilidad para ellas, y sin necesidad de instaurar Procedimiento Administrativo, conforme al Artículo 123 apartado B fracción XIV de la Constitución Federal, podrán sin más trámite, dictar el cese que termine la relación laboral, si existiere un motivo razonable de pérdida de confianza a juicio del Titular de dicha entidad pública.
 
 ###### Art. 9°.
 
@@ -167,7 +173,9 @@ V. En los organismos descentralizados y empresas o asociaciones de participació
 
 En lo no provisto por esta ley, se aplicarán supletoriamente, y en su orden:
 
-I. Los Principios Generales de Justicia Social, que derivan del Art. 123 de la Constitución General de la República;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+I. Los principios generales de justicia social, que derivan del Artículo 123 apartado B, de la Constitución Política de los Estados Unidos Mexicanos;
 
 II. La Ley Federal de los Trabajadores al Servicio del Estado;
 
@@ -203,19 +211,21 @@ Las actuaciones y certificaciones que hubieren de hacerse con motivo de la aplic
 
 ### CAPITULO II. De los nombramientos
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Art. 16.
 
-Los nombramientos de los Servidores Públicos podrán ser:
+Los nombramientos de los servidores públicos sólo podrán otorgarse si se encuentra creada alguna plaza específica en los presupuestos de egresos legalmente expedidos. Dichos nombramientos podrán ser :
 
-I. Definitivos, aquellos que se otorguen para ocupar plazas permanentes;
+I. De Base, cuando se otorguen para ocupar en forma permanente una plaza;
 
-II. Interinos, los que se otorgan para ocupar plazas vacantes temporales que no excedan de 6 meses;
+II. De Confianza, cuando se otorguen para cubrir una plaza cuyo titular tenga alguna de las características a que se refiere el Artículo 4° de esta Ley, y que por lo tanto, a quienes se les otorgue, no tienen estabilidad e inamovilidad en el empleo;
 
-III. Provisionales, los que de acuerdo con el escalafón se otorguen para ocupar plazas de base vacantes, por licencias mayores de seis meses;
+III. Interinos, los que se otorgan para ocupar plazas vacantes por licencias del servidor público titular de la plaza;
 
-IV. Por tiempo determinado, los que se expidan con fecha precisa de terminación para trabajos eventuales o de temporada; y
+IV. Provisionales, aquellos que se otorgan para cubrir las ausencias de titulares de plazas, provocadas por incapacidad física o legal; permisos; o suspensiones temporales de la relación de trabajo, y
 
-V. Por obra determinada, los que se otorgan para realizar tareas directamente ligadas a una obra que por su naturaleza no es permanente; su duración será la de la materia que le dio origen.
+V. Transitorios, cuando se otorguen para cubrir temporalmente una plaza de confianza, en virtud de que quien la estuviese ocupando, haya renunciado o sea cesado, en tanto se nombra al titular definitivo.
 
 ###### Art. 17.
 
@@ -259,9 +269,11 @@ La protesta de los servidores públicos se rendirá en los términos siguientes:
 
 Cuando el Servidor Público sea cambiado, previa su anuencia, en forma eventual o definitiva de una entidad pública a otra, conservará los derechos adquiridos con motivo de la relación de trabajo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Art. 20.
 
-Cuando un Servidor Público de base, previa su anuencia, sea trasladado de una población a otra, la Entidad Pública en la que preste sus servicios le cubrirá el importe de los gastos inherentes al traslado de él, su familia y pertenencias al nuevo lugar de trabajo, salvo que el traslado se verifique a solicitud del interesado o por permuta.
+Cuando un servidor público de base, previa su anuencia por escrito, sea trasladado de una población a otra, la Entidad Pública en la que Preste sus servicios le cubrirá el importe de los gastos inherentes al traslado de él, su familia y pertenencias al nuevo lugar de trabajo, salvo que el traslado se verifique a solicitud del interesado o por permuta.
 
 Cuando las necesidades del Servicio lo requieran, los titulares de las Entidades Públicas podrán cambiar la adscripción del Servidor Público, conservando éstos sus derechos y cubriendo los requisitos a que se refiere este precepto.
 
@@ -277,11 +289,17 @@ II. La incapacidad física del Servidor Público, cuando la misma derive de un a
 
 III. La prisión preventiva del Servidor seguida de auto de formal prisión, o el arresto impuesto por Autoridad Judicial o Administrativa. Cuando en el caso de prisión preventiva recaiga sentencia absolutoria, el Servidor Público se reincorporará a sus labores. Si con respecto al arresto, este dio origen a una causal de terminación de los efectos del nombramiento, se procederá en los términos de esta ley. Los servidores que tengan encomendado manejo de fondos, valores o bienes, podrán ser suspendidos por el Jefe Superior de su área de adscripción, cuando apareciera alguna irregularidad en su gestión, mientras se practica la investigación y se resuelve sobre su responsabilidad.
 
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 1998)</small>
+
+IV. Las licencias o permisos que conceda el Titular de la entidad pública correspondiente, en los términos de las disposiciones legales aplicables en la materia.
+
 ### CAPITULO IV. De la terminación de la relación de trabajo
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Art. 22.
 
-Ningún servidor público podrá ser cesado sino por causa justificada. En consecuencia el nombramiento o designación de los servidores sólo dejará de surtir efectos, sin responsabilidad para la Entidad Pública en que preste sus servicios, en los siguientes casos:
+Ningún servidor público de base podrá ser cesado, sino por causa justificada; en consecuencia, el nombramiento de estos servidores de base sólo dejará de surtir efectos, sin responsabilidad para la Entidad Pública en que preste sus servicios, en los siguientes casos:
 
 I. Por renuncia o abandono del empleo;
 
@@ -423,15 +441,17 @@ Por cada cinco ddías (sic) de trabajo, disfrutará el servidor público de dos 
 
 En los trabajos que requieran una labor continua, se fijarán los días en que los servidores públicos disfrutarán de los días de descanso semanal, de acuerdo a los roles de actividades que se establezcan por las dependencias o entidades públicas.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Art. 38.
 
-Serán considerados como días de descanso obligatorio, los que señala el Calendario Oficial.
+Serán considerados como días de descanso obligatorio, los siguientes: 1 de Enero; 5 de Febrero; 21 de Marzo; 1 y 5 de Mayo; 16 y 28 de Septiembre; 12 de Octubre; 2 y 20 de Noviembre; 25 de Diciembre; el día correspondiente a la transmisión del Poder Ejecutivo Federal; los que determinen las Leyes Federal y Local electorales en el caso de elecciones ordinarias para efectuar la jornada electoral; y los que se determinen por Acuerdo del Titular del Poder Ejecutivo del Estado, previa su publicación en el Periódico Oficial.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Art. 39.
 
-Los servidores públicos, que por necesidades del servicio, laboren en sus días de descanso obligatorio, independientemente de su sueldo, percibirán un 200% del mismo por el servicio prestado, sin que tal evento pueda repetirse en más de dos ocasiones en treinta días naturales.
+Los servidores públicos, que por necesidad del servicio, laboren en sus días de descanso obligatorio, independientemente de su sueldo percibirán un 200% del mismo por el servicio prestado, pero si coincide el día de descanso obligatorio con el día de descanso semanal obligatorio, se pagará un 300% más del sueldo, independientemente de su salario normal por ese día, sin que tales eventos puedan repetirse en más de dos ocasiones en treinta días naturales.
 
 ### CAPITULO IV. De los sueldos
 
@@ -443,9 +463,11 @@ Los servidores públicos que tengan más de seis meses consecutivos de servicio 
 
 Cuando un servidor no pudiere hacer uso de las vacaciones en los períodos señalados por necesidades del servicio, disfrutará de ellas durante los 10 días siguientes a la fecha en que haya desaparecido la causa que impidiere el disfrute de ese descanso, pero en ningún caso los servidores que laboren en períodos vacacionales tendrán derecho a doble pago de sueldo.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Art. 41.
 
-Los días de vacaciones se cobrarán de sueldo promedio y la base para el cálculo del pago de los días a que tengan derecho será en proporción al número de días efectivamente trabajados, en el lapso de los seis meses anteriores al nacimiento del derecho.
+Los días de vacaciones se cobrarán de sueldo íntegro, y la base para el cálculo del pago de los días a que tengan derecho será en proporción al número de días efectivamente trabajados, en el lapso de los seis meses anteriores al nacimiento del derecho.
 
 ###### Art. 42.
 
@@ -457,11 +479,11 @@ Se podrá otorgar permiso o licencia sin goce de sueldo a los servidores públic
 
 Para que los permisos o licencias se concedan es requisito previo la solicitud por escrito con 8 días anteriores a la fecha en que debe empezar a surtir sus efectos el mismo.
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Art. 43.
 
-Las mujeres durante el embarazo, no realizarán trabajos que exijan un esfuerzo considerable o signifiquen un peligro para su salud, en relación con la gestación. Gozarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto, y de dos meses más, después del mismo; durante estos períodos percibirán el sueldo íntegro que les corresponda.
+Las mujeres durante el embarazo, no realizarán trabajos que exijan un esfuerzo considerable o signifiquen un peligro para su salud, en relación con la gestación; gozarán siempre de noventa días de descanso, pudiendo ser, treinta días antes de la fecha que aproximadamente se fije para el parto, y sesenta días después del mismo; durante estos períodos percibirán el sueldo íntegro que les corresponda. Lo anterior, independientemente de que la autoridad encargada de expedir las incapacidades, las otorgue o no en el momento acertado. Ese lapso se considerará como tiempo efectivo de trabajo.
 
 Durante los primeros cinco meses a partir de la fecha de reanudación de labores, las madres tendrán derecho a un descanso extraordinario por cada tres horas de trabajo, en la inteligencia de que aquellas, con jornadas de seis horas y media o menos, disfrutarán de un solo descanso de media hora, para alimentar a sus hijos.
 
@@ -581,7 +603,7 @@ XVI. Comunicar por escrito al titular de la Dependencia o Entidad de la que pres
 
 XVII. Abstenerse de ejercer las funciones de un empleo, cargo o comisión, después de concluido el período para el cual se le designó o de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones;
 
-XVIII. Abstenerse el superior jerárquico de disponer o autorizar a un servidor público a no asistir, sin causa justificada, a sus labores por más de quince días continuos o treinta discontínuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando las necesidades del servicio público no lo exijan;
+XVIII. Abstenerse el superior jerárquico de disponer o autorizar a un servidor público a no asistir, sin causa justificada, a sus labores por más de quince días contínuos o treinta discontinuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando las necesidades del servicio público no lo exijan;
 
 XIX. Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o particular que la ley le prohíba;
 
@@ -623,7 +645,9 @@ IX. Aplicar los descuentos de cuotas sindicales;
 
 X. Conceder licencia a los servidores públicos en los casos en que proceda, de acuerdo a esta propia ley o a las condiciones generales de trabajo;
 
-XI. En la medida de sus posibilidades, proporcionar servicios médicos, quirúrgicos, hospitalarios, farmacéuticos y asistenciales a los servidores públicos o, en su caso, afiliarlos a través de convenios de incorporación correspondientes a alguna Institución Federal, Estatal u Organismo descentralizado que sea instrumento básico de la seguridad social; y
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+XI. Proporcionar servicios médicos, quirúrgicos, hospitalarios, farmacéuticos y asistenciales, a los servidores públicos, o en su caso, afiliarlos a través de convenios de incorporación, al Instituto Mexicano del Seguro Social, o a alguna institución federal, estatal u organismo público descentralizado, que sea instrumento básico de la seguridad social, y
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -959,11 +983,11 @@ V. Las acciones para impugnar los dictámenes escalafonarios; y
 
 VI. Las acciones para impugnar las sanciones impuestas por los titulares de las Entidades Públicas que no ameriten cese, en los términos del Art. 25 de esta ley.
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Art. 107.
 
-Prescribirán en 60 días las acciones para pedir la reinstalación en su trabajo, o la indemnización que la ley concede, contando el término a partir del momento en que sea notificado el cese al Servidor Público.
+Prescribirán en 60 días las acciones de los servidores públicos de base, para pedir la reinstalación en su trabajo, o la indemnización que la ley concede, contando el término a partir del día siguiente en que le sea notificado el cese.
 
 ###### Art. 108.
 
@@ -1033,59 +1057,101 @@ V. Para tener el cargo de Magistrado representante de los Trabajadores al Servic
 
 El Tribunal de Arbitraje y Escalafón será competente para resolver las controversias que se susciten entre los Poderes del Estado, los Ayuntamientos los Organismos Descentralizados, empresas o asociaciones de participación mayoritaria estatal o municipal y sus servidores, así como de los conflictos que surjan entre la Federación de Sindicatos de Servidores Públicos y los Sindicatos que la integran, o sólo entre éstos. También será competente para invalidar las resoluciones de las Comisiones Mixtas de Escalafón, a instancia de uno o varios concursantes que consideren vulnerados sus derechos escalafonarios.
 
-Dicho Tribunal queda exceptuado para conocer y resolver de las controversias o conflictos en materia de relaciones de trabajo que se susciten entre los tribunales a que se refiere el primer párrafo del Art. 39, de la Constitución Política del Estado y sus dependencias, con sus servidores públicos.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
+Dicho Tribunal queda exceptuado para conocer y resolver de las controversias o conflictos en materia de relaciones de trabajo que se susciten entre los servidores públicos que presten sus servicios en los tribunales a que se refiere el primer párrafo del Artículo 56 de la Constitución Política del Estado.
 
 ###### Art. 115.
 
 El Tribunal de Arbitraje y Escalafón actuará en pleno, cuando se trate de conflictos de naturaleza colectiva o de importancia trascendente, a juicio de los Magistrados; las votaciones serán nominales sin perjuicio de que en caso de discrepancia, el Magistrado inconforme emita voto particular por escrito.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Art. 116.
 
-En los conflictos de naturaleza individual, el Tribunal de Arbitraje y Escalafón podrá comisionar a un Auxiliar de Instrucción, quien se encargará del desahogo de las pruebas que se admitan en la audiencia de Conciliación, Demanda y Excepciones, y Ofrecimiento y Admisión de Pruebas.
+En los conflictos de naturaleza individual, el Tribunal de Arbitraje y Escalafón podrá comisionar a un auxiliar de instrucción, o secretario, para la tramitación del procedimiento desde su inicio hasta el cierre de instrucción.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Art. 117.
 
-El procedimiento ante el Tribunal de Arbitraje y Escalafón será público, gratuito, inmediato, predominantemente oral, y se iniciará a instancia de parte. Los Magistrados, y los Auxiliares de Instrucción, deberán tomar las medidas conducentes para lograr la mayor economía del tiempo, concentración y sencillez en el proceso.
+El procedimiento será público, gratuito, inmediato, y se iniciará a instancia de parte. Los Magistrados, secretarios y auxiliares de instrucción, deberán de tomar las medidas conducentes para lograr la mayor economía de tiempo, concentración y sencillez en el proceso.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Art. 118.
 
-Todas las demandas o instancias que se formulen o sometan al conocimiento del Tribunal de Arbitraje y Escalafón, deberán ser por escrito, sin sujetarse a forma determinada; pero las partes deberán precisar los puntos petitorios. Al escrito inicial, deberán acompañarse las copias simples necesarias para la distribución entre las Autoridades o partes demandadas, así como una más para el promovente, que firmará el Servidor Público encargado por el Tribunal para recibir los escritos, haciendo constar el día y hora en que se reciba.
+Todas las demandas o instancias que se formulen o sometan al conocimiento del Tribunal de Arbitraje y Escalafón, deberán ser por escrito, sin sujetarse a forma determinada; pero las partes deberán precisar los hechos y puntos petitorios. Al escrito inicial, deberán acompañarse las copias simples necesarias para la distribución entre las autoridades o partes demandadas, así como una más para el promovente, que firmará el servidor público encargado por el Tribunal para recibir los escritos, haciendo constar el día y hora en que se reciba.
 
 ###### Art. 119.
 
 Si las copias fueran insuficientes, el Tribunal de Arbitraje y Escalafón deberán prevenir al demandante que las exhiba en un término de cinco días, o en su defecto, las mandará expedir, sin que implique costo alguno para el Servidor Público.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Art. 120.
 
-Son partes en el proceso, las autoridades que dirijan las Entidades Públicas, en donde hubiera desempeñado las labores el servidor demandante; las personas físicas, que ejerciten acciones por sí o como beneficiarios de los trabajadores al servicio del Estado, de los Municipios o de sus Organismos Descentralizados, Empresas o Asociaciones de participación mayoritaria Estatal o Municipal, así como las personas que puedan ser afectadas por la resolución que se pronuncie en un conflicto, comprobando su interés jurídico, o que sean llamadas por el Tribunal de Arbitraje y Escalafón.
+Son partes en el proceso:
+
+I. El servidor público demandante.
+
+II. La entidad pública.
+
+III. Los organismos públicos descentralizados.
+
+IV. Las empresas o asociaciones de participación mayoritaria estatal o municipal y fideicomisos públicos.
+
+V. Las Comisiones Mixtas de Escalafón.
+
+VI. Los sindicatos y la federación de éstos.
+
+VII. Las personas físicas que ejerciten acciones por sí o como beneficiarios de trabajadores públicos al servicio del Estado o de los Municipios, sus organismos públicos descentralizados, Empresas o Asociaciones de participación mayoritaria estatal o municipal.
+
+VIII. Las personas que puedan ser afectadas por la resolución que se pronuncie en un conflicto, comprobando su interés jurídico o que sean llamadas a juicio por el Tribunal de Arbitraje y Escalafón.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Art. 121.
 
-Las Autoridades acreditarán su representación con el nombramiento respectivo. Los trabajadores con el nombramiento, credencial o constancia que los acredite como Servidores Públicos al servicio de la Entidad Pública.
+Las partes podrán comparecer a juicio en forma directa o por conducto de apoderado legalmente autorizado, para lo cual bastará una carta poder firmada ante dos testigos sin necesidad de ser ratificada ante el Tribunal de Arbitraje y Escalafón.
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Art. 122.
 
-Las partes podrán comparecer a juicio, en forma directa o por conducto de apoderado legalmente autorizado, para lo cual bastará una carta poder firmada ante dos testigos, sin necesidad de ser ratificada ante el Tribunal de Arbitraje y Escalafón. Los representantes de los Sindicatos acreditarán su personalidad con la certificación que les extienda la Secretaría del Tribunal, de haber quedado registrada la directiva del Sindicato.
+Las partes en el proceso ante el Tribunal de Arbitraje y Escalafón, podrán acreditar su interés jurídico de la siguiente manera:
+
+I. Los trabajadores, con el nombramiento, credencial o constancia que los acredite como servidores públicos al servicio de la entidad pública a la que demanda.
+
+II. El Titular de alguna Entidad Pública, con el nombramiento o la constancia de mayoría emitida por el Consejo Electoral, documentos éstos que serán sujetos de un registro en el Tribunal de Arbitraje y Escalafón, el cual tendrá el carácter de público y por lo tanto, las partes podrán imponerse de ellos y hacer las objeciones que estimen pertinentes. Una vez registrado ante el Tribunal un Titular de Entidad Pública, al acudir a algún procedimiento, quedará acreditado el carácter con que comparece, con sólo hacer alusión precisa a los datos del registro correspondiente.
+
+III. Los representantes de los sindicatos o de la Federación de éstos, con la certificación que les extienda la Secretaría del Tribunal de haber quedado registrada la directiva del sindicato o federación.
+
+IV. Las demás partes, podrán hacerlo conforme a la Ley que los rija para acreditarlo.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Art. 123.
 
-El Tribunal de Arbitraje y Escalafón podrá tener acreditada la personalidad de los trabajadores, sindicatos o autoridades, así como de sus apoderados, sin sujetarse a las reglas de los artículos anteriores; siempre que, de los documentos exhibidos, llegue al convencimiento de que efectivamente representan a la parte interesada, haciendo constar tal circunstancia en la actuación de la audiencia correspondiente.
+Las partes podrán autorizar para oír notificaciones en su nombre, a cualquier persona con capacidad legal. La facultad de recibir notificaciones autoriza a la persona designada para promover o interponer los recursos que procedan, ofrecer y rendir las pruebas y alegar en las audiencias.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Art. 124.
 
-Los trabajadores podrán otorgar poder mediante siempre comparecencia, previa identificación, ante el Tribunal de Arbitraje y Escalafón, cuando no radiquen en la capital del Estado.
+El Tribunal de Arbitraje y Escalafón podrá tener acreditada la personalidad de los trabajadores, sindicatos o autoridades, así como de sus apoderados sin sujetarse a las reglas de los Artículos anteriores siempre que de los documentos exhibidos, llegue al convencimiento de que efectivamente representan a la parte interesada, haciendo constar tal circunstancia en la actuación de la audiencia correspondiente.
 
-> <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Art. 125.
 
-Siempre que dos o más personas ejerciten la misma acción, en un mismo proceso, deben litigar unidas y con una representación común, salvo que los colitigantes puedan tener intereses opuestos. Si los interesados no hicieren el nombramiento, el Tribunal de Arbitraje y Escalafón podrá hacerlo, escogiendo de entre los propios interesados. El representante común tendrá los derechos, obligaciones y responsabilidad inherentes a un mandatario judicial.
+Siempre que dos o más personas ejerciten la misma acción u opongan idéntica excepción en un mismo proceso, deben litigar unidas y con una representación en común, salvo que los colitigantes puedan tener intereses opuestos. Si los interesados no hicieren el nombramiento, el Tribunal de Arbitraje y Escalafón deberá hacerlo, escogiendo de entre los propios interesados. El representante común tendrá los derechos, obligaciones y responsabilidad inherentes a un mandatario judicial.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Art. 126.
 
-Los Magistrados del Tribunal de Arbitraje y Escalafón no son recusables, pero deberán excusarse de conocer de los juicios en que intervengan, cuando exista una causa fundada para ello, que manifestarán en el momento de proponerla a calificación por el Pleno del Tribunal.
+Los Magistrados, secretarios y auxiliares de instrucción del Tribunal de Arbitraje y Escalafón no son recusables, pero deberán excusarse de conocer de los juicios en que intervengan, cuando exista una causa fundada para ello, que manifestarán en el momento de proponer la calificación al Tribunal.
 
 ###### Art. 127.
 
@@ -1093,43 +1159,71 @@ Las excusas e impedimentos se calificarán de plano y, en su tramitación, se ob
 
 I. Se deberá manifestar la excusa por escrito, dentro de las 48 horas siguientes a la que se tenga conocimiento del impedimento.
 
-II. Si el pleno lo declara procedente, se llamará al Magistrado Suplente de la Institución que lo haya designado quien integrará el Tribunal, únicamente en el juicio en donde se haya excusado el Magistrado en funciones; y
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
 
-III. Si se estima por el mismo Pleno que no es causa suficiente para que constituya impedimento legal, el Magistrado continuará en sus funciones y seguirá conociendo del juicio.
+II. Si el Pleno lo declara procedente, se llamará al Magistrado suplente de la Institución que lo haya designado quien integrará el Tribunal únicamente en el juicio en donde se haya excusado el Magistrado en funciones;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+III. Si se estima por el Pleno que no es causa suficiente para que constituya impedimento legal, el Magistrado continuará en sus funciones y seguirá conociendo del juicio.
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 1998)</small>
+
+IV. En los casos de secretarios y auxiliares de instrucción, el Pleno designará a la persona que deberá de seguir conociendo del negocio.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Art. 128.
 
-El procedimiento ante el Tribunal de Arbitraje y Escalafón se iniciará con la presentación del escrito de demanda, la cual de inmediato se notificará a la parte de mandada, mediante la entrega de una copia simple, a efecto de que produzca su contestación en el improrrogable término de cinco días hábiles, siguientes al del traslado, con el apercibimiento de tener a la demandada aceptando los hechos expresados en la reclamación.
+El procedimiento ante el Tribunal de Arbitraje y Escalafón se iniciará con la presentación del escrito de demanda ante la Oficialía de Partes, quien la turnará al secretario o auxiliar de instrucción el mismo día, antes de que concluyan las labores. El auxiliar de instrucción o el secretario, dictará acuerdo admitiendo la demanda, si procediere conforme a Derecho, o la desechará de plano cuando sea notoriamente frívola e improcedente. En caso de admitirla, en el acuerdo respectivo señalará día y hora para que tenga verificativo la Audiencia de Conciliación, Demanda y Excepciones, Ofrecimiento y Admisión de Pruebas. En el mismo acuerdo se ordenará se notifique a las partes personalmente, entregando a la demandada copia certificada de la demanda para que en un término de diez días contados a partir del día siguiente de su notificación, produzca contestación, con el apercibimiento a la demanda que de no comparecer, se le tendrá por inconforme a todo arreglo, por contestada la demanda en sentido afirmativo, y por perdido el derecho de ofrecer pruebas; y al actor por ratificada su demanda, y por cerrado el periodo probatorio.
 
-Cuando el domicilio del o de los demandados se encuentre fuera del lugar en donde radica el Tribunal, se ampliará el término en un día más, por cada 40 k (sic) de distancia o fracción que exceda de la mitad.
+Cuando el actor sea el trabajador o sus beneficiarios, el Tribunal en caso de que notare alguna irregularidad en el escrito de demanda, o que estuviera ejercitando acciones contradictorias, al admitir la demanda le señalará los defectos u omisiones en que haya incurrido y lo prevendrá para que los subsane dentro de un término improrrogable de tres días.
+
+La falta de notificación a algunas de las partes, obliga al Tribunal a señalar de oficio nuevo día y hora para la celebración de la Audiencia, salvo que las partes concurran a la misma, o que el actor se desista de las acciones intentadas en contra de alguna demandada que no haya sido notificada.
+
+Cuando el domicilio del o los demandados se encuentre fuera del lugar en donde radica el Tribunal, se ampliará el término de un día por cada 40 kilómetros de distancia o fracción que exceda de la mitad. Además se le apercibirá al o a los demandados para que señalen domicilio para recibir notificaciones en la Zona Metropolitana de Guadalajara, con el apercibimiento que de no hacerlo, las posteriores notificaciones, aún las personales, se harán en los estrados del Tribunal.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Art. 129.
 
-Concluido el término mencionado en el artículo anterior, el Tribunal, a petición de parte, señalará fecha para que tenga verificativo la audiencia de Conciliación, demanda y excepciones, ofrecimiento y admisión de pruebas, mandando notificar el acuerdo, personalmente a las partes.
+Concluido el término determinado para la contestación de la demanda, mencionado en el Artículo anterior, y si en dicha contestación no se promovió incidente alguno respecto al auto de admisión, el Tribunal señalará fecha para que se tenga verificativo la audiencia de Conciliación, Demanda y Excepciones, Ofrecimiento y Admisión de Pruebas, mandando notificar el acuerdo, personalmente a las partes.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Art. 130.
 
-La audiencia se iniciará con la intervención del Tribunal o del Auxiliar de Instrucción, haciendo una exhortación a las partes para que solucionen la controversia en forma conciliatoria y, de lograrse, el convenio relativo, aprobado por el Tribunal, surtirá todos los efectos legales de un laudo y se dará por concluido el procedimiento, sin perjuicio de la ejecución de los acuerdos consignados por las partes.
+La audiencia se iniciará con la intervención del Pleno del Tribunal, del auxiliar de instrucción o del secretario, haciendo una exhortación a las partes para que solucionen la controversia en forma conciliatoria, y de lograrse el convenio relativo aprobado por el Tribunal, surtirá todos los efectos legales de un laudo y se dará por concluido el procedimiento, sin perjuicio de la ejecución de los acuerdos consignados por las partes.
+
+Sólo podrá suspenderse una sola vez la audiencia, si las partes lo solicitan por encontrarse en pláticas conciliatorias, por lo que el Tribunal en ese acto, señalará nuevo día y hora para la continuación de la misma, fecha ésta que se procurará ser la más cercana, con la finalidad de darle celeridad al procedimiento.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Art. 131.
 
-En el caso de no lograrse el arreglo conciliatorio, el Tribunal, o el Auxiliar de Instrucción, tendrá a las partes como inconformes y concederá el uso de la palabra al actor o a su representante legal, para la ratificación o ampliación de la demanda. En el caso de que se ejerciten nuevas acciones o se adicionen hechos substanciales a los narrados en la demanda, se suspenderá la audiencia para dar conocimiento a los demandados de los nuevos conceptos, fijándose el término previsto en el Art. 128 de esta ley, para que manifiesten lo que a su derecho convenga y la fecha en que se reanudará la audiencia, a partir del momento en que ocurrió la suspensión decretada.
+En el caso de no lograrse el arreglo conciliatorio, el Tribunal, tendrá a las partes como inconformes y concederá el uso de la palabra al actor o a su representante legal, para que ratifique, rectifique o amplíe su escrito inicial de demanda, en cuya ampliación sólo podrá aportar nuevos datos respecto a los hechos o incluir mayores prestaciones, sin poder demandar en ese acto a quien no haya incluido en su escrito inicial. En el caso de que se ejerciten nuevas acciones o se adicionen hechos substanciales a los narrados en la demanda y el demandado o demandados no estén en aptitud de contestar los mismos en ese acto por su desconocimiento o inasistencia, se suspenderá la audiencia para dar conocimiento a los demandados de los nuevos conceptos, fijándose el término y apercibimientos contenidos en el Artículo 128 de esta Ley para que manifiesten lo que a su derecho convenga, y se señalará la fecha en que se reanudará la audiencia, a partir del momento en que ocurrió la suspensión decretada.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Art. 132.
 
-Concluida la intervención de la parte actora, o transcurrido el plazo mencionado en el artículo anterior, se concederá el uso de la palabra a la parte demandada, para que por sí, o por conducto del apoderado o representante legítimo, ratifique o rectifique lo aseverado en la contestación producida, procediendo de inmediato a abrir la etapa de ofrecimiento de pruebas, en donde las partes podrán aportar todos los elementos de convicción que deseen, sin más limitaciones que las derivadas de la existencia, factibidlidad o posibilidad de su desahogo en forma física, por los servidores del Tribunal.
+Concluida la intervención de la parte actora, o transcurrido el término mencionado en el Artículo inmediato anterior, se concederá el uso de la palabra a la parte demandada, para que por sí, o por conducto de su apoderado o representante legítimo, ratifique o precise lo aseverado en la contestación producida. Asimismo en caso de que el actor necesite ofrecer pruebas relacionadas con hechos desconocidos que se desprendan de la contestación de la demanda, podrá solicitar que la audiencia se suspenda para reanudarse a los diez días siguientes a fin de preparar dentro de este plazo las pruebas correspondientes a tales hechos, procediendo de inmediato a abrir la etapa de ofrecimiento de pruebas, en donde las partes podrán aportar todos los elementos de convicción que deseen, sin más limitaciones que las derivadas de la existencia, factibilidad o posibilidad de su desahogo en forma física, por los servidores del Tribunal.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Art. 133.
 
-El Tribunal calificará las pruebas admitiendo las que estime pertinentes y desechando aquellas que resulten notoriamente inconducentes o contrarias a la moral o al derecho, o que no tengan relación con la litis planteada. Acto continuo, se señalará el orden de su desahogo: primero las del actor y después las de la parte demandada, en forma y términos que el Tribunal estime oportuno, tomando en cuenta la naturaleza de las pruebas y procurando la celeridad en el procedimiento.
+El Pleno del Tribunal, el auxiliar de instrucción, o el secretario, calificará las pruebas admitiendo las que estime pertinentes y desechando aquellas que resulten notoriamente inconducentes o contrarias a la moral o al derecho, o que no tengan relación con la litis planteada. Acto continuo se señalará el orden de su desahogo, procurando que sean primero las del actor y posteriormente las del demandado, tomando en cuenta la naturaleza de las pruebas y la celeridad del procedimiento.
 
 ###### Art. 134.
 
 En la audiencia de desahogo, sólo se recibirán las pruebas admitidas previamente, a no ser que se refieran a hechos supervenientes, en cuyo caso, se dará vista a la contraria antes de resolver lo procedente. Se exceptúan las relativas a las tachas de testigos o la confesional, siempre que se ofrezcan antes de la declaratoria de haberse concluido el procedimiento y se cite a las partes a oír el laudo correspondiente.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Art. 135.
 
-El Tribunal tendrá las más amplias facultades para la práctica de las diligencias de desahogo de pruebas. Las Autoridades pondrán a disposición del Tribunal los documentos, archivos y constancias que se refieren o se relacionen con los hechos investigados en el procedimiento, sin perjuicio de que envíen las copias que les solicite el Tribunal. Concluida la recepción de pruebas y practicadas las diligencias ordenadas por el Tribunal, se declarará concluido el procedimiento y se citará a las partes a oír el laudo.
+El Tribunal tendrá las más amplias facultades para la práctica de las diligencias de desahogo de pruebas. Los servidores públicos autorizados de las entidades públicas, pondrán a disposición del Tribunal los documentos, archivos y constancias que se refieran o se relacionen con los hechos investigados en el procedimiento, sin perjuicio de quien envíen las copias que les solicite el Tribunal. Concluida la recepción de pruebas y practicadas las diligencias ordenadas por el Tribunal, se declarará concluido el procedimiento y se citará a las partes a oír el laudo.
 
 ###### Art. 136.
 
@@ -1145,9 +1239,11 @@ Antes de pronunciarse el laudo, los Magistrados podrán solicitar mayor informac
 
 La caducidad en el proceso se producirá, cuando cualquiera que sea su estado, no se haya efectuado algún acto procesal, ni promoción durante un término mayor de seis meses, así sea con el fin de pedir que se dicte el laudo. No operará la caducidad, aún cuando dicho término transcurra, por estar pendiente el desahogo de diligencias que deban practicarse fuera del local del Tribunal o de recibirse informes o copias certificadas que hayan sido solicitadas. A petición de parte interesada, o de oficio, el Tribunal declarará la caducidad cuando se estime consumada.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Art. 139.
 
-Las resoluciones dictadas por el Tribunal de Arbitraje y Escalafón serán inapelables, y deberán cumplirse desde luego, por las Autoridades correspondientes. Pronunciado el laudo, el Tribunal lo notificará personalmente a las partes.
+Las resoluciones dictadas por el Tribunal de Arbitraje y Escalafón serán inapelables, excepto el auto de admisión de demanda respecto del cual se establece el incidente de inadmisibilidad por demanda frívola e improcedente, el cual debe de promoverse por la parte demandada, dentro del improrrogable término de los cinco días siguientes al emplazamiento, y resolverse como de previo y especial pronunciamiento por el Pleno del Tribunal dentro de los 10 días siguientes a su interposición; la promoción de este incidente suspende todo el procedimiento y el término para contestar la demanda en el caso de que sea desechado, correrá íntegro a favor de la demandada a partir de la notificación de la resolución que lo deseche. Todas las resoluciones del Tribunal deberán cumplirse, especialmente por parte de quien sea condenado en el Laudo. Pronunciado el Laudo, el Tribunal lo notificará personalmente a las partes.
 
 ###### Art. 140.
 
@@ -1161,9 +1257,11 @@ El Tribunal tiene la obligación de proveer a la eficaz e inmediata ejecución d
 
 Cuando se pida la ejecución de un laudo, el Tribunal despachará auto con efectos de mandamiento en forma y autorizará a un Secretario para que, asociado de la parte que obtuvo resolución favorable, se constituya en el domicilio de la parte contraria y la requiera para que cumpla la resolución, apercibiéndola de que, de no hacerlo, se procederá al uso de los medios de apremio.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Art. 143.
 
-El Tribunal, para hacer cumplir sus determinaciones, podrá imponer sanciones que sean equivalentes de hasta cien veces el monto del salario mínimo general de la zona económica en donde resida la persona o autoridad rebelde. En el caso de que impuesta la sanción, se continúe en la negativa de cumplimiento, se procederá en los términos de la Ley de Responsabilidades de los Servidores Públicos.
+El Tribunal, para hacer cumplir sus determinaciones, podrá imponer sanciones que sean equivalentes de hasta cien veces el salario mínimo general de la zona económica en donde resida la autoridad rebelde. En el caso de que impuesta la sanción, la autoridad continúe en la negativa de cumplimiento, a petición de parte, se procederá en los términos de la Ley de Responsabilidades de los Servidores Públicos.
 
 ###### Art. 144.
 
@@ -1268,3 +1366,7 @@ UNICO.- Este decreto entrará en vigor el día 1° de enero de 1995, previa su p
 P.O. 9 DE ENERO DE 1997.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 32 DE LA CONSTITUCION POLITICA VIGENTE DEL ESTADO DE JALISCO.
+
+P.O. 17 DE ENERO DE 1998.
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
