@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-deuda-publica-antes-ley-general-de-deuda-2614"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1976-12-31"
-last_updated: "1976-12-31"
+last_updated: "1983-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2614&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1976-12-30"
 
 LEY GENERAL DE DEUDA PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 31 de diciembre de 1976.
 
@@ -51,7 +51,9 @@ III.- Los organismos descentralizados.
 
 IV.- Las empresas de participación estatal mayoritaria.
 
-V.- Las instituciones y organizaciones auxiliares nacionales de crédito, las nacionales de seguros y de fianzas, y
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+
+V.- Las Instituciones que presten el servicio público de banca y crédito, las organizaciones auxiliares nacionales de crédito, las instituciones nacionales de seguros y las de fianzas, y
 
 VI.- Los fideicomisos en los que el fideicomitente sea el Gobierno Federal o alguna de las entidades mencionadas en las fracciones II al V (sic)
 
@@ -125,9 +127,11 @@ Los financiamientos que la Secretaría de Hacienda y Crédito Público contrate 
 
 ### CAPITULO III. De la Programación de la Deuda Pública
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 9o.
 
-El Congreso de la Unión autorizará los montos del endeudamiento directo neto interno y externo que sea necesario para el financiamiento del Gobierno Federal y de las entidades del sector público federal incluidas en la Ley de Ingresos y en el Presupuesto de Egresos de la Federación así como del Departamento del Distrito Federal. El Ejecutivo Federal informará al Congreso de la Unión del estado de la deuda, al rendir la cuenta pública anual y al remitir el proyecto de ingresos, asimismo informará trimestralmente de los movimientos de la misma. No se computarán dentro de dichos montos los movimientos referentes a propósitos de regulación monetaria.
+El Congreso de la Unión autorizará los montos del endeudamiento directo neto interno y externo que sea necesario para el financiamiento del Gobierno Federal y de las entidades del sector público federal incluidas en la Ley de Ingresos y en el Presupuesto de Egresos de la Federación, así como del Departamento del Distrito Federal. El Ejecutivo Federal informará al Congreso de la Unión del estado de la deuda, al rendir la cuenta pública anual y al remitir el proyecto de ingresos, asimismo informará trimestralmente de los movimientos de la misma, dentro de los cuarenta y cinco días siguientes al vencimiento del trimestre respectivo. No se computarán dentro de dichos montos los movimientos referentes a propósitos de regulación monetaria.
 
 ###### ARTICULO 10.
 
@@ -161,9 +165,13 @@ El monto de las partidas que las entidades deban destinar anualmente para satisf
 
 ### CAPITULO IV. De la Contratación de los Financiamientos del Gobierno Federal
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 17.
 
-El Ejecutivo Federal y sus dependencias sólo podrán contratar financiamientos a través de la Secretaría de Hacienda y Crédito Público. El Departamento del Distrito Federal, los organismos descentralizados, las empresas de participación estatal mayoritarias, las instituciones y organizaciones auxiliares nacionales de crédito, las nacionales de seguros y fianzas y los fideicomisos a que se refiere el artículo 1o., sólo podrán contratar financiamientos con la autorización previas (sic) de la Secretaría de Hacienda y Crédito Público.
+El Ejecutivo Federal y sus dependencias sólo podrán contratar financiamientos a través de la Secretaría de Hacienda y Crédito Público.
+
+Las entidades mencionadas en las fracciones II a VI del artículo 1o. de esta Ley, sólo podrán contratar financiamientos con la autorización previa de la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTICULO 18.
 
@@ -178,6 +186,18 @@ La capacidad de pago de las dependencias del Gobierno Federal se establecerá en
 Las entidades mencionadas en las fracciones II a VI del artículo 1o. de esta Ley, que no estén comprendidas dentro del Presupuesto de Egresos de la Federación, requieren autorización previa y expresa de la Secretaría de Hacienda y Crédito Público para la contratación de toda clase de financiamientos.
 
 La autorización sólo podrá comprender aquellos financiamientos incluidos dentro del programa de deuda, salvo el caso de los que se obtengan para fines de regulación monetaria.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
+
+Las instituciones que presten el servicio público de banca y crédito, cuando se trate de financiamientos originados en el ejercicio de dicho servicio, sólo requieren la autorización a que se refieren este artículo y el 17, cuando tales financiamientos deriven de las siguientes operaciones concertadas con instituciones de crédito y entidades financieras del país o del exterior:
+
+I.- Créditos directos a plazo mayor de un año;
+
+II.- Créditos Sindicados;
+
+III.- Emisiones de títulos en serie o en masa, colocados y pagaderos entre el público inversionista; y
+
+IV.- Operaciones que originen pasivos contingentes y aceptaciones bancarias, de conformidad con las disposiciones de carácter general que expida la Secretaría de Hacienda y Crédito Público.
 
 ###### ARTICULO 20.
 
@@ -197,7 +217,7 @@ La Secretaría de Hacienda y Crédito Público comunicará por escrito su resolu
 
 Si el crédito obtenido se formaliza con una emisión de bonos o con un contrato, tanto en el acta de emisión, como en el contrato, así como en los bonos y documentos que de ellos se deriven, deberán citarse los datos fundamentales de la mencionada autorización. Igual disposición será observada en los demás títulos de crédito que suscriban, avalen o acepten las entidades del sector público federal. Los documentos de referencia no tendrán validez si en ellos no están consignados los datos de la autorización otorgada por la Secretaría de Hacienda y Crédito Público.
 
-Los documentos o títulos de crédito en que se hagan constar las obligaciones que contraigan las instituciones nacionales y las organizaciones auxiliares nacionales de crédito, así como las instituciones nacionales de seguros y fianzas, no requerirán para su validez que se incorpore en ellos los datos de la autorización relativa.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1983)</small>
 
 ### CAPITULO VI. De la Vigilancia de las Operaciones de Endeudamiento
 
@@ -280,3 +300,11 @@ Se deroga el artículo 26 de la Ley Orgánica de Nacional Financiera, S. A., rel
 México, D.F., a 29 de diciembre de 1976.-Enrique Ramírez y Ramírez, D. P.- Hilda Anderson de Rojas, S. P.- Crescencio Herrera Herrera, D. S.- Mario Carballo Pazos, S. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos setenta y seis.- José López Portillo.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Julio Rodolfo Moctezuma Cid.- Rúbrica.- El Secretario de Gobernación, Jesús Reyes Heroles.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 28 DE DICIEMBRE DE 1983.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor el día 1o. de enero de 1984.
