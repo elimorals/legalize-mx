@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-y-desarrollo-urbano-del-estado-345
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-26"
-last_updated: "1996-06-21"
+last_updated: "2000-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de julio de 1994.
 
@@ -1791,9 +1791,11 @@ Queda prohibido el establecimiento de fraccionamientos en lugares no aptos para 
 
 La construcción de vivienda multifamiliar o de edificios de departamentos habitacionales dentro de algún fraccionamiento, sólo podrá ejecutarse en las zonas y porcentajes que para tal efecto hayan sido previamente autorizados por la autoridad competente.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2000)</small>
+
 ###### ARTICULO 159.
 
-Las áreas cedidas por el fraccionador a título gratuito en favor de los ayuntamientos en cumplimiento de lo dispuesto por esta ley, serán de dominio público y, por lo tanto, el ayuntamiento correspondiente sólo podrá ejercer actos de dominio, a título oneroso o gratuito, previa autorización de la Legislatura del Estado y consulta con los vecinos, respecto de las áreas de cesión siempre y cuando no se afecten las características del fraccionamiento respectivo y se garantice el equipamiento y la suficiencia de los servicios en el mismo. No podrá autorizarse la enajenación de los espacios destinados a áreas verdes.
+Las áreas cedidas por el fraccionador a título gratuito a favor de los ayuntamientos en cumplimiento de lo dispuesto por esta ley, serán de dominio público y, por lo tanto, el ayuntamiento correspondiente sólo podrá ejercer actos de dominio a título oneroso o gratuito, previa autorización de la Legislatura del Estado y consulta con los vecinos, respecto de las áreas de cesión siempre y cuando no se afecten las características del fraccionamiento respectivo y se garantice el equipamiento y la suficiencia de los servicios en el mismo. No podrá autorizarse la enajenación de los espacios destinados a áreas verdes, ni los relativos a las áreas de equipamiento urbano para espacios educativos, sin la opinión de la autoridad educativa estatal.
 
 ###### ARTICULO 160.
 
@@ -2021,9 +2023,13 @@ II.- USOS DEL SUELO.- El aprovechamiento predominante será vivienda y se permit
 
 En este tipo de fraccionamiento se permitirá la construcción de viviendas multifamiliares o edificios habitacionales en un máximo de 60% de la superficie vendible, la cual deberá ser señalada en el proyecto de lotificación.
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1996)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2000)</small>
 
-III.- CESION DE AREAS.- El fraccionador deberá ceder a título gratuito a favor del municipio el 15% de la superficie vendible del fraccionamiento debidamente urbanizada, de la cual el ayuntamiento podrá destinar el 80% para equipamiento urbano, en el caso de que el equipamiento urbano sea distinto al establecido en el artículo 3o, fracción XIV de esta ley se deberá contar con el consentimiento de los vecinos, y el 20% restante como área verde. Dicha área deberá ser entregada debidamente arborizada por el fraccionador, quien deberá, además darle mantenimiento durante un año, contado a partir de la fecha del acta de entrega recepción del fraccionamiento;
+III.- CESION DE AREAS.- El fraccionador deberá ceder a título gratuito a favor del municipio el 15% de la superficie vendible del fraccionamiento debidamente urbanizada, de la cual el ayuntamiento destinará el 80% para equipamiento urbano y el 20% restante para área verde.
+
+En este tipo de fraccionamientos el área de equipamiento urbano destinada a la construcción de espacios educativos no podrá dedicarse a otro fin. Para variar el destino del resto de las áreas cedidas se requiere el consentimiento de los vecinos. El área verde deberá ser entregada debidamente arborizada por el fraccionador, quien deberá además darle mantenimiento durante un año, contado a partir de la fecha del acta de entrega de recepción del fraccionamiento.
+
+Si conforme a la planeación de infraestructura educativa no se requiere la implementación de planteles, el área de equipamiento urbano respectiva podrá destinarse, preferentemente, a áreas verdes o a los usos de los previstos en el artículo 3º Fracción XIV, de esta ley previo consentimiento de las instancias competentes, así como de los vecinos;
 
 IV.- VIALIDAD.- Las avenidas deberán tener un ancho de 16 metros, medido de alineamiento a alineamiento; las banquetas serán de 2 metros de ancho, de los cuales del 20 al 40% se empleará como zona arbolada.
 
@@ -2065,9 +2071,13 @@ II.- USOS DEL SUELO.- El aprovechamiento predominante será vivienda y se permit
 
 En este tipo de fraccionamiento se permitirá la construcción de viviendas multifamiliares o edificios habitacionales en un máximo de 60% de la superficie vendible;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1996)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2000)</small>
 
-III.- CESION DE AREAS.- El fraccionador deberá ceder a título gratuito a favor del municipio el 15% de la superficie vendible del fraccionamiento debidamente urbanizada, de la cual el ayuntamiento podrá destinar el 80% para equipamiento urbano, en el caso de que el equipamiento urbano sea distinto al establecido en el artículo 3o, fracción XIV de esta ley se deberá contar con el consentimiento de los vecinos, y el 20% restante como área verde. Dicha área deberá ser entregada debidamente arborizada por el fraccionador, quien deberá, además darle mantenimiento durante un año, contado a partir de la fecha del acta de entrega recepción del fraccionamiento.
+III.- CESION DE AREAS.- El fraccionador deberá ceder a título gratuito a favor del municipio el 15% de la superficie vendible del fraccionamiento debidamente urbanizada, de la cual el ayuntamiento destinará el 80% para equipamiento urbano y el 20% restante para área verde.
+
+En este tipo de fraccionamientos el área de equipamiento urbano destinada a la construcción de espacios educativos no podrá dedicarse a otro fin. Para variar el destino del resto de las áreas cedidas se requiere el consentimiento de los vecinos. El área verde deberá ser entregada debidamente arborizada por el fraccionador, quien deberá además darle mantenimiento durante un año, contado a partir de la fecha del acta de entrega de recepción del fraccionamiento.
+
+Si conforme a la planeación de infraestructura educativa no se requiere la implementación de planteles, el área de equipamiento urbano respectiva podrá destinarse, preferentemente, a áreas verdes o a los usos de los previstos en el artículo 3º Fracción XIV, de esta ley previo consentimiento de las instancias competentes, así como de los vecinos;
 
 IV.- VIALIDAD.- Las avenidas deberán tener un ancho de 16 metros, medido de alineamiento a alineamiento; las banquetas serán de 2 metros de ancho.
 
@@ -2507,9 +2517,17 @@ El ayuntamiento podrá si lo estima conveniente, en función del interés genera
 
 Los propietarios de fraccionamientos deberán ceder a título gratuito en favor del municipio respectivo las áreas para equipamiento urbano en las condiciones y porcentajes establecidos en la presente ley, según el tipo de fraccionamiento de que se trate.
 
-La ubicación de dicha superficie deberá localizarse en áreas de fácil acceso, circundadas por vialidades y de topografía apta para los fines de su destino.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2000)</small>
 
-En el caso de los fraccionamientos de interés social y populares, el fraccionador podrá entregar, para el fin indicado, una superficie equivalente al área destinada para equipamiento fuera del fraccionamiento, siempre y cuando el valor del mismo sea equivalente al del fraccionamiento que corresponda, se garantice el acceso a las obras y servicios públicos materia del equipamiento y el ayuntamiento considere que conviene al interés general y no altera el orden público.
+La ubicación de dicha superficie deberá localizarse en áreas de fácil acceso, circundadas preferentemente por vialidades no consideradas primarias, así como de topografía apta para los fines de su destino y con una pendiente natural de terreno no mayor de 10%.
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2000)</small>
+
+Para los efectos de este artículo el fraccionador deberá proporcionar al ayuntamiento respectivo el estudio de mecánica de suelos del predio a ceder, a fin de que se verifique que las condiciones de éste son aptas para llevar a cabo construcciones. Los terrenos deberán encontrarse desmontados, limpios y nivelados.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2000)</small>
+
+Las áreas destinadas a espacios educativos, conforme a lo dispuesto por este ordenamiento, invariablemente deberán ubicarse, cuando menos, a una distancia de 100 metros de cualquier cauce de corriente permanente o intermitente de agua.
 
 ###### ARTICULO 232.
 
@@ -3052,3 +3070,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO.- Las personas que hayan obtenido autorización para fraccionamientos y que no hubiesen llevado al cabo la entrega al Ayuntamiento que corresponda de los bienes inmuebles, equipo e instalaciones destinados a los servicios públicos y obras de urbanización a la fecha en que entre en vigor el presente decreto, deberán observar lo dispuesto en las reformas contenidas en los artículos 174 a 178 de este instrumento.
 
 CUARTO.- Las solicitudes de autorización de fraccionamientos que hayan sido presentadas ante los ayuntamientos con anterioridad a la fecha en que entre en vigor este decreto, serán atendidas y resueltas conforme lo dispuesto a las reformas previstas en este instrumento.
+
+P.O. 7 DE MARZO DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
