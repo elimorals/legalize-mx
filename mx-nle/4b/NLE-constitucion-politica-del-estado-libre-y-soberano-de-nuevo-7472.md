@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2004-06-21"
+last_updated: "2004-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2004.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -37,7 +37,7 @@ CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON.
 
 De los Derechos del Hombre.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
 
 ## TITULO II
 
@@ -299,7 +299,7 @@ II.- El Secretario de Gobierno y los otros Secretarios del Despacho del Ejecutiv
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2004)</small>
 
-III.- Los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral del Estado, el Presidente de la Comisión Estatal de Derechos Humanos, los Consejeros de la Judicatura del Estado, los Comisionados de la Comisión de Acceso a la IOnformación Pública y el Procurador General de Justicia;
+III.- Los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, los Comisionados Ciudadanos de la Comisión Estatal Electoral, los Magistrados del Tribunal Electoral del Estado, el Presidente de la Comisión Estatal de Derechos Humanos, los Consejeros de la Judicatura del Estado, los Comisionados de la Comisión de Acceso a la Información Pública y el Procurador General de Justicia;
 
 > <small>(REFORMADA, P.O. 1o. DE FEBRERO DE 1975)</small>
 
@@ -689,7 +689,7 @@ Aprobada una ley o decreto se enviará al Gobernador para su publicación. Si é
 
 ###### Art. 72.
 
-Ningún proyecto de ley o decreto, desechado o reprobado, podrá volverse a presentar sino pasado un periodo de sesiones; pero ésto no impedirá que alguno de sus artículos forme parte de otros proyectos no desechados.
+Ningún proyecto de ley o decreto, desechado o reprobado, podrá volverse a presentar sino pasado un periodo de sesiones; pero esto no impedirá que alguno de sus artículos forme parte de otros proyectos no desechados.
 
 ###### Art. 73.
 
@@ -1781,7 +1781,7 @@ Las leyes a que se refieren los artículos 45, 63 fracción XIX, 94, 95 y 118 so
 
 Esta Constitución es Ley Suprema del Estado de Nuevo León, en todo lo concerniente al régimen interior de éste.
 
-Esta Constitución no perderá su fuerza y vigor ni aún en el caso de que por alguna rebelión se interrumpa su observancia. Cuando por cualquiera causa se establezca un Gobierno contrario a los principios que ella sanciona, tan luego como el Pueblo recobre su libertad, se restablecerá su observancia, y con arreglo a aquélla y a las leyes que en su virtud se hubieren expedido serán juzgados asi los que hubieren figurado en el Gobierno emanado de la rebelión, como los que hubieren cooperado a ésta.
+Esta Constitución no perderá su fuerza y vigor ni aún en el caso de que por alguna rebelión se interrumpa su observancia. Cuando por cualquiera causa se establezca un Gobierno contrario a los principios que ella sanciona, tan luego como el Pueblo recobre su libertad, se restablecerá su observancia, y con arreglo a aquélla y a las leyes que en su virtud se hubieren expedido serán juzgados así los que hubieren figurado en el Gobierno emanado de la rebelión, como los que hubieren cooperado a ésta.
 
 ## ARTICULOS TRANSITORIOS.
 
@@ -1799,13 +1799,11 @@ El censo electoral a que se refiere el art. 45 se levantará desde la próxima e
 
 ###### Art. 1o.
 
-El pueblo nuevoleonés reconoce que los derechos del ser humano son la base y el objeto de las instituciones sociales. En consecuencia, declara que todas las leyes y todas las autoridades del Estado deben respetar y sostener las garantías que otorga la presente Constitución.
+El Pueblo nuevoleonés reconoce que los derechos del ser humano son la base y el objeto de las instituciones sociales. Todas las leyes y todas las autoridades del Estado deben respetar y hacer respetar las garantías que otorga la presente Constitución.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2002)</small>
+Queda prohibida toda discriminación motivada por origen étnico o nacional, género, edad, capacidades diferentes, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos y libertades.
 
 El varón y la mujer son iguales ante la Ley. Ésta protegerá la integración y el desarrollo de la familia. Cuando la terminología de género empleada en las disposiciones de observancia general sea en masculino, deberá entenderse que se refieren tanto al varón como a la mujer, salvo disposición expresa en contrario.
-
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2002)</small>
 
 Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos.
 
@@ -1835,13 +1833,13 @@ Toda persona tiene derecho a la protección de la salud. La ley establecerá las
 
 Todos los habitantes tienen el derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como del deber de conservarlo. Los Poderes del Estado, en forma coordinada con la ciudadanía, velarán por la conservación de los recursos naturales, así como su uso y explotación; a proteger y mejorar la calidad de vida, tanto como defender y restaurar el medio ambiente, en forma solidaria en el logro de estos objetivos de orden superior.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 1982)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
 
-El niño tiene derecho a la vida sana, a la salud, a la alimentación, a la educación, a la recreación, a la preparación para el trabajo y a llevar una vida digna en el seno de la familia. Nadie podrá darle malos tratos, ni inducirlo a prácticas que afecten su buena formación. El Estado proveerá lo necesario y expedirá leyes y normas para garantizar los derechos del niño.
+El niño tiene derecho a la vida sana, a la satisfacción de sus necesidades de salud, alimentación, educación, sano esparcimiento, a la preparación para el trabajo y a llevar una vida digna y libre de violencia, para su desarrollo integral. Nadie podrá darle malos tratos, ni inducirlo a prácticas que afecten su formación. El Estado proveerá lo necesario y expedirá leyes y normas para garantizar el acceso y goce pleno de los derechos del niño.
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
 
-El Estado promoverá el bienestar de las personas de edad avanzada mediante un sistema de servicio social con la participación de la comunidad nuevoleonesa que atienda sus problemas específicos en materia de salud, cultura y recreación, debiendo expedir los ordenamientos jurídicos necesarios para garantizar o proteger sus derechos y lograr como meta mejorar su calidad de vida.
+El Estado realizará todas las acciones necesarias orientadas a lograr el derecho a una vida digna de las personas adultas mayores y promoverá su bienestar mediante un sistema de servicio social con la participación de la comunidad nuevoleonesa, que atienda sus problemas específicos en materia de salud, cultura, recreación y calidad de vida, debiendo expedir los ordenamientos jurídicos necesarios para garantizar o proteger sus derechos. La Ley ordinaria establecerá quienes serán considerados como personas adultas mayores para los efectos del presente Artículo.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2004)</small>
 
@@ -2932,3 +2930,7 @@ Artículo Quinto.- Los asuntos en trámite ante el Tribunal Superior de Justicia
 P.O. 21 DE JUNIO DE 2004.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2004.
+
+Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
