@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2003-05-15"
+last_updated: "2003-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 7 de febrero de 1984.
 
@@ -1020,7 +1020,7 @@ N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO V. De las Cuotas Familiares
+### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
 
 N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
@@ -1120,7 +1120,7 @@ N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, REMITASE AL
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE MAYO DE 2003)</small>
 
-### CAPITULO IV. Del Fondo de Aportaciones para los Servicios de Salud a la Comunidad
+### CAPITULO V. De las Cuotas Familiares
 
 N. DE E.: EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.
 
@@ -3666,7 +3666,9 @@ II.- En los establecimientos a que se refieren las fracciones II y VII, además 
 
 III.- En los establecimientos señalados en las fracciones III y VIII, además de los profesionales citados en la fracción I, podrá ser responsable un médico;
 
-IV.- En los establecimientos señalados en las fracciones IX y X, únicamente requieren dar aviso de responsable, aquéllos que expendan medicamentos que contengan estupefacientes o substancias psicotrópicas. De no ser el caso, el propietario será el responsable en los términos del artículo 261 de esta ley;
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+IV.- En los establecimientos señalados en las fracciones IX y X, únicamente requieren dar aviso de responsable, aquellos que expendan medicamentos que contengan estupefacientes o substancias psicotrópicas, quienes podrán ser cualquiera de los profesionales enunciados en las fracciones I, II y III del presente artículo. De no ser el caso, el propietario será responsable en los términos del artículo 261 de esta ley;
 
 V.- En los establecimientos señalados en la fracción XI, el responsable podrá ser además de los profesionales indicados en la fracción I de este artículo, un médico veterinario zootecnista, y
 
@@ -4866,11 +4868,13 @@ X.- Las modificaciones a las instalaciones de establecimientos que manejan subst
 
 Los permisos a que se refiere este artículo sólo podrán ser expedidos por la Secretaría de Salud, con excepción de los casos previstos en las fracciones II y V en lo relativo al embalsamamiento.
 
-> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 376.
 
 Requieren registro sanitario los medicamentos, estupefacientes, substancias psicotrópicas y productos que los contengan; equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, materiales quirúrgicos y de curación y productos higiénicos; así como los plaguicidas, nutrientes vegetales y substancias tóxicas o peligrosas. El registro sólo podrá ser otorgado por la Secretaría de Salud y será por tiempo indeterminado, sin perjuicio de lo establecido en el artículo 378 de esta ley.
+
+> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 376 Bis.
 
@@ -4881,8 +4885,6 @@ El registro sanitario a que se refiere el artículo anterior se sujetará a los 
 I.- En el caso de medicamentos, estupefacientes y psicotrópicos, la clave de registro será única, no pudiendo aplicarse la misma a dos productos que se diferencien ya sea en su denominación genérica o distintiva o en su formulación. Por otra parte, el titular de un registro, no podrá serlo de dos registros que ostenten el mismo principio activo, forma farmacéutica o formulación, salvo cuando uno de éstos se destine al mercado de genéricos. En los casos de fusión de establecimientos se podrán mantener, en forma temporal, dos registros, y
 
 II.- En el caso de los productos que cita la fracción II del artículo 194, podrá aceptarse un mismo número de registro para líneas de producción del mismo fabricante, a juicio de la Secretaría.
-
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 377.
 
@@ -5378,7 +5380,7 @@ V.- Cuando en el establecimiento se vendan o suministren estupefacientes sin cum
 
 VI.- Cuando en un establecimiento se vendan o suministren substancias psicotrópicas sin cumplir con los requisitos que señale esta Ley y sus reglamentos, y (sic)
 
-VII.- Cuando se compruebe que las actividades que se realicen en un establecimiento, violan las disposiciones sanitarias, constituyendo un peligro grave para la salud;
+VII.- Cuando se compruebe que las actividades que se realicen en un establecimiento, violan las disposiciones sanitarias, constituyendo un peligro grave para la salud.
 
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -5883,3 +5885,7 @@ DÉCIMO NOVENO. La Secretaría de Salud dispondrá lo necesario para dar continu
 VIGÉSIMO. El Congreso de la Unión en uso de sus facultades legales, podrá a través de sus órganos dar seguimiento al cumplimiento de las normas aprobadas en el presente Decreto.
 
 VIGÉSIMO PRIMERO. El Programa de Desarrollo Humano Oportunidades, continuará operando conforme al modelo de atención establecido en sus reglas de operación. La Secretaría de Desarrollo Social administrará el padrón de beneficiarios de este Programa, y para su operación se coordinará con la Secretaría de Salud, a fin de evitar duplicidades administrativas.
+
+D.O.F. 13 DE JUNIO DE 2003.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
