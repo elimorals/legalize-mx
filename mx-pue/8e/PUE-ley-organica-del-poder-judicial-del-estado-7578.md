@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-7578"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1987-01-06"
-last_updated: "1992-08-04"
+last_updated: "2002-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1992.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, PUBLICADA EN EL P.O. EL 30 DE DICIEMBRE DE 2002, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley Publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla el martes 6 de enero de 1987.
 
@@ -1682,3 +1684,51 @@ TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publ
 P.O. 4 DE AGOSTO DE 1992.
 
 TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día primero de enero de dos mil tres.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica del Poder Judicial del Estado, publicado en el Periódico Oficial el día seis de enero de mil novecientos ochenta y siete, y sus reformas, y se derogan todas las disposiciones que se opongan a este ordenamiento, con excepción del decreto de fecha cinco de noviembre de mil novecientos noventa y dos, en relación con el artículo 226 y demás relativos de la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Las Salas y los Juzgados denominados en las leyes del Estado como Salas o Juzgados de Defensa Social, a partir de la publicación de la presente Ley se denominarán Salas o Juzgados Penales, conservando sus actuales jurisdicciones y competencias.
+
+###### ARTÍCULO CUARTO.
+
+Los juicios que se encuentren en trámite en los Juzgados Menores de lo Civil y de lo Penal, seguirán radicados en los Juzgados Municipales de nueva creación.
+
+###### ARTÍCULO QUINTO.
+
+Los juicios que se encuentren en trámite en los Juzgados de lo Civil y de lo Penal, y que conforme a esta Ley sean competencia de los Juzgados Municipales, continuarán radicados en los primeros Juzgados, hasta su conclusión.
+
+###### ARTÍCULO SEXTO.
+
+Los Juzgados Municipales y los de Paz empezarán a conocer de los negocios a que se refiere esta Ley cuando así lo determine el Pleno del Tribunal Superior de Justicia.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las Unidades Administrativas del Poder Judicial del Estado, que actualmente se encuentran funcionando, así como los recursos humanos y materiales que tienen a su cargo, deberán pasar a formar parte de los nuevos órganos que contempla esta Ley, de acuerdo con sus respectivas áreas y competencias y por acuerdo del Pleno del Tribunal Superior de Justicia.
+
+###### ARTÍCULO OCTAVO.
+
+El Servicio Médico Legal, con todos sus recursos humanos, materiales y financieros, al entrar en vigor a la presente Ley y una vez que lo determine el Pleno del Tribunal Superior de Justicia, pasará a formar parte de la Procuraduría General de Justicia del Estado, de acuerdo con las disposiciones jurídicas aplicables.
+
+El personal que a la fecha de expedición de la presente Ley labora en el Servicio Médico Legal, conservará todos los derechos que actualmente le son reconocidos.
+
+###### ARTÍCULO NOVENO.
+
+Los servidores públicos del Poder Judicial del Estado que actualmente prestan sus servicios en el mismo, conservarán todos los derechos que les sean concedidos por las leyes aplicables.
+
+###### ARTÍCULO DÉCIMO.
+
+El Pleno del Tribunal Superior de Justicia tendrá facultad para resolver cualquier cuestión relacionada con la organización y el funcionamiento de los nuevos órganos judiciales.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+La estructura orgánica que derive de la presente Ley, quedará sujeta a la disponibilidad presupuestal que se establezca en el Presupuesto de Egresos para ejercicios fiscales subsecuentes.
