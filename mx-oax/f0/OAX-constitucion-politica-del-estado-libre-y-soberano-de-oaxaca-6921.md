@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1944-06-17"
+last_updated: "1944-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1944.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -903,7 +903,7 @@ Los Ayuntamientos serán asambleas formadas por elección popular directa; se co
 
 #### SECCION SEGUNDA. Del Tribunal Superior de Justicia
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1934)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1944)</small>
 
 ### CAPITULO IV. Del Poder Judicial del Estado
 
@@ -1129,9 +1129,7 @@ El Poder Judicial se ejerce: por el Tribunal Superior de Justicia, por los Juece
 
 ###### ARTICULO 121.
 
-El Tribunal Superior de Justicia del Estado se compondrá de tres Magistrados Propietarios y dos Supernumerarios que serán electos libremente por la Legislatura.
-
-Los Magistrados del Tribunal Superior de Justicia y los Jueces de Primera Instancia podrán ser privados de sus puestos cuando observen mala conducta, a petición del Ejecutivo que resolverá la Legislatura a mayoría absoluta de votos del número total de los miembros.
+El Tribunal Superior de Justicia del Estado se compondrá de CINCO Magistrados Propietarios y dos Supernumerarios que serán electos libremente por la Legislatura.
 
 ###### ARTICULO 122.
 
@@ -1446,3 +1444,7 @@ EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORI
 P.O. 17 DE JUNIO DE 1944.
 
 Unico.- El presente Decreto surte sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 1944.
+
+UNICO.- El presente Decreto surte sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
