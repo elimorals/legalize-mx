@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2003-01-18"
+last_updated: "2003-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CODIGO PENAL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -273,6 +273,8 @@ CONSECUENCIAS JURIDICAS DE LA CONDUCTA O HECHO.
 
 LA PRISION.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 25.
 
 Las penas y medidas de seguridad son:
@@ -331,7 +333,7 @@ MULTA.
 
 ###### ARTICULO 27.
 
-La prisión consistirá en la privación de la libertad del sentenciado y podrá durar de tres días a cuarenta años y se extinguirá en los lugares que designe el órgano ejecutor de sanciones.
+La Prisión consistirá en la privación de la libertad del sentenciado y podrá durar de tres días a cincuenta años y se extinguirá en los lugares que designe el órgano ejecutor de sanciones.
 
 ### CAPITULO IV.
 
@@ -341,11 +343,11 @@ REPARACION DEL DAÑO.
 
 La multa consiste en el pago de una cantidad cierta y determinada que se impone al delincuente, en beneficio del Estado y se hará efectiva mediante el procedimiento económico coactivo.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 29.
 
-La multa será por el equivalente de una a 100 unidades, salvo el caso de los delitos ambientales, que será de 100 a 20 mil unidades, y se fijará atendiendo a las condiciones económicas del sentenciado.
+La multa será por el equivalente de una a mil quinientas unidades, salvo el caso de los delitos ambientales que será de cien a veinte mil unidades y se fijará atendiendo a las condiciones económicas del sentenciado.
 
 ###### ARTICULO 30.
 
@@ -2942,3 +2944,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 18 DE ENERO DE 2003.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 15 DE FEBRERO DE 2003.
+
+UNICO:- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
