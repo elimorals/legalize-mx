@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-reguladora-de-energia-873"
 country: "mx"
 rank: "ley"
 publication_date: "1995-10-31"
-last_updated: "1995-10-31"
+last_updated: "1998-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=873&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1995-10-30"
 
 LEY DE LA COMISION REGULADORA DE ENERGIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
-Ley publicada en la Primera Sección del Diario Oficial de la Federación el martes 31 de octubre de 1995.
+Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 31 de octubre de 1995.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -129,7 +129,9 @@ Las resoluciones de la Comisión se inscribirán en el registro a que se refiere
 
 Los comisionados serán designados por el Titular del Ejecutivo Federal, a propuesta del Secretario de Energía, y deberán cumplir con los requisitos siguientes:
 
-I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+
+I. Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce de sus derechos civiles y políticos;
 
 II. Haberse desempeñado en forma destacada en cuestiones profesionales o académicas, relacionadas con las actividades reguladas, y
 
@@ -200,3 +202,9 @@ SEGUNDO.- El período del primer presidente de la Comisión, a partir de la entr
 México, D.F., a 26 octubre de 1995.- Dip. Adolfo R. Flores Rodríguez, Presidente.- Sen. Eugenio Ruiz Orozco, Presidente.- Dip. Francisco Martínez Rivera, Secretario.- Sen. Manuel Medellín Milán, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de octubre de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 23 DE ENERO DE 1998.
+
+ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
