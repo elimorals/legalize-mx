@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1997-06-17"
+last_updated: "1997-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 1997.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -4111,6 +4111,10 @@ Tramitación por notarios.
 
 Cuando todos los herederos fueren mayores de edad y hubieren sido instituídos en un testamento público, la testamentaría podrá ser extrajudicial, con intervención de un notario, mientras no hubiere controversia alguna; con arreglo a lo que se establece en los artículos siguientes.
 
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 1997)</small>
+
+Antes de su primera actuación, el notario deberá recabar informe certificado del Registro Público de la Propiedad del domicilio de la persona cuya sucesión se trate, sobre la existencia de testamentos otorgados por el testador y en su caso, el nombre de los notarios que intervinieron y la fecha del otorgamiento.
+
 ###### Art. 672.
 
 El albacea, si lo hubiere, y los herederos, exhibiendo la partida de defunción del autor de la herencia y un testimonio del testamento, se presentarán ante un notario para hacer constar que aceptan la herencia, que se reconocen sus derechos hereditarios y que el albacea va a proceder a formar el inventario de los bienes de la herencia.
@@ -5062,6 +5066,12 @@ El presente Decreto entrará en vigor el cuarto día siguiente al de su publicac
 Para los efectos de los artículos 23 del Código de Procedimientos Civiles y 295 y 351 del Código de Procedimientos Penales reformados, los asuntos que se encuentren en trámite al momento de entrada en vigor del presente Decreto, continuarán substanciándose ante el Juzgado que esté conociendo de los mismos.
 
 P.O. 17 DE JUNIO DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE JULIO DE 1997.
 
 ###### ARTICULO UNICO.
 
