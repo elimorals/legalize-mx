@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-administracion-municipal-8463"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1984-02-02"
-last_updated: "1996-07-08"
+last_updated: "1996-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DE ADMINISTRACION MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE JULIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Sonora, el jueves 2 de febrero de 1984.
 
@@ -93,11 +93,11 @@ Los Municipios en todos aquellos asuntos que deban tratarse y resolverse con el 
 
 Las Autoridades Municipales tiene competencia plena sobre su territorio y población, así como en su organización administrativa con las limitaciones que establezcan las leyes.
 
-> <small>(ADICIONADO, B.O. 21 DE AGOSTO DE 1989)</small>
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 9o.
 
-El Estado se integra con los siguientes Municipios: Aconchi, Agua Prieta, Alamos, Altar, Arivechi, Arizpe, Atil, Bacadéhuachi, Bacanora, Bacerac, Bacoachi, Bácum, Banámichi, Baviácora, Bavispe, Benjamín Hill, Caborca, Cajeme, Cananea, Carbó, La Colorada, Cucurpe, Cumpas, Divisaderos, Empalme, Etchojoa, Fronteras, General Plutarco Elías Calles, Granados, Guaymas, Hermosillo, Huachinera, Huásabas, Huatabampo, Huépac, Imuris, Magdalena, Mazatán, Moctezuma, Naco, Nácori Chico, Nacozari de García, Navojoa, Nogales, Onavas, Opodepe, Oquitoa, Pitiquito, Puerto Peñasco, Quiriego, Rayón, Rosario, Sahuaripa, San Felipe de Jesús, San Javier, San Luis Río Colorado, San Miguel de Horcasitas, San Pedro de la Cueva, Santa Ana, Santa Cruz, Sáric, Soyopa, Suaqui Grande, Tepache, Trincheras, Tubutama, Ures, Villa Hidalgo, Villa Pesqueira y Yécora.
+El Estado se integra con los siguientes Municipios: Aconchi, Agua Prieta, Alamos, Altar, Arivechi, Arizpe, Atil, Bacadéhuachi, Bacanora, Bacerac, Bacoachi, Bácum, Banámichi, Baviácora, Bavispe, Benito Juárez, Benjamín Hill, Caborca, Cajeme, Cananea, Carbó, La Colorada, Cucurpe, Cumpas, Divisaderos, Empalme, Etchojoa, Fronteras, General Plutarco Elías Calles, Granados, Guaymas, Hermosillo, Huachinera, Huásabas, Huatabampo, Huépac, Imuris, Magdalena, Mazatán, Moctezuma, Naco, Nácori Chico, Nacozari de García, Navojoa, Nogales, Onavas, Opodepe, Oquitoa, Pitiquito, Puerto Peñasco, Quiriego, Rayón, Rosario, Sahuaripa, San Felipe de Jesús, San Javier, San Iganacio Rio Muerto, San Luis Río Colorado, San Miguel de Horcasitas, San Pedro de la Cueva, Santa Ana, Santa Cruz, Sáric, Soyopa, Suaqui Grande, Tepache, Trincheras, Tubutama, Ures, Villa Hidalgo, Villa Pesqueira y Yécora.
 
 ###### ARTICULO 10.
 
@@ -1608,3 +1608,75 @@ B.O. 8 DE JULIO DE 1996.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 26 DE DICIEMBRE DE 1996.
+
+LEY No. 253
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se adicionan los artículos 9º de la Ley Orgánica de Administración Municipal, para incluir el nombre del Municipio de Benito Juárez entre los Municipios de Bavispe y Benjamín Hill; y 13 de la Ley de Hacienda Municipal para incluir al final de la enumeración del grupo III, el nombre de la municipalidad de Benito Juárez.
+
+###### ARTICULO TERCERO.
+
+El Congreso del Estado Procederá, en la fecha en que entre en vigor la presente Ley, a nombrar un Concejo Municipal, a propuesta del Ciudadano Gobernador del Estado, que fungirá en lo que resta del período constitucional y tendrá la integración y las atribuciones que la Ley establece para los Ayuntamientos.
+
+###### ARTICULO CUARTO.
+
+Para Proveer a la existencia política del Municipio de Benito Juárez, durante el período que medie entre el día en que entre en funciones el Concejo Municipal que designe y el día 31 de diciembre de 1996, el Gobierno del Estado transferirá los recursos correspondientes.
+
+###### ARTICULO QUINTO.
+
+Los bienes muebles e inmuebles del dominio público que actualmente ocupa la Comisaría de Villa Juárez, y los muebles e inmuebles de dominio privado, existentes en su jurisdicción, pertenecientes al Municipio de Etchojoa, pasarán a formar parte del patrimonio del nuevo Municipio que se erige.
+
+###### ARTICULO SEXTO.
+
+Los servidores públicos que actualmente se encuentren laborando en la Comisaría de Villa Juárez, continuarán en sus funciones pasando a formar parte, respetándose todos sus derechos laborales, de la nueva Administración, sin perjuicio de las facultades y atribuciones que le corresponden al de gobierno municipal.
+
+###### ARTICULO SEPTIMO.
+
+Con efectos hasta la conclusión del actual período constitucional, la autoridad municipal, procederá de inmediato a convenir lo que corresponda con el Organismo Operador Municipal del Agua Potable y Alcantarillado del Municipio de Etchojoa, Sonora, a fin de asegurar la continuidad en la prestación de los servicios de dicho organismo paramunicipal.
+
+###### ARTICULO OCTAVO.
+
+Las acciones del Concejo Municipal se apegarán, en lo que corresponda y sea factible, al Plan Municipal de Desarrollo del Municipio de Etchojoa y los programas de él derivados.
+
+B.O. 26 DE DICIEMBRE DE 1996.
+
+LEY No. 254
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se adicionan los artículos 9º de la Ley Orgánica de Administración Municipal, para incluir el nombre del Municipio de San Iganacio Rio Muerto entre los Municipios de San Javier y San Luis Rio Colorado; y 13 de la Ley de Hacienda Municipal para incluir al final de la enumeración del grupo II, el nombre de la municipalidad de San Ignacio Rio Muerto, entre los Municipios de Imuris y Opodepe.
+
+###### ARTICULO TERCERO.
+
+En la fecha en que entre en vigor la presente Ley, y a propuesta del Gobernador del Estado, el Congreso del Estado designará un Concejo Municipal, que fungirá en lo que resta del período constitucional y tendrá la integración y las atribuciones que la Ley establece para los Ayuntamientos.
+
+###### ARTICULO CUARTO.
+
+Para proveer a la existencia política del Municipio de San Ignacio Rio Muerto, durante el período que medie entre el día en que entre en funciones el Concejo Municipal que designe y el día 31 de diciembre de 1996, el Gobierno del Estado, le transferirá los recursos correspondientes.
+
+###### ARTICULO QUINTO.
+
+Los bienes muebles e inmuebles del dominio público que actualmente ocupa la Comisaría de San Ignacio Rio Muerto, y los muebles e inmuebles de dominio privado, existentes en su jurisdicción, pertenecientes al Municipio de Guaymas, pasarán a formar parte del patrimonio del nuevo Municipio que se erige.
+
+###### ARTICULO SEXTO.
+
+Los servidores públicos que actualmente se encuentren laborando en la Comisaría de San Ignacio Rio Muerto, continuarán en sus funciones pasando a formar parte de la nueva administracion, respetándose todos sus derechos laborales, sin perjuicio de las facultades y atribuciones que le corresponden al de gobierno municipal.
+
+###### ARTICULO SEPTIMO.
+
+Con efectos hasta la conclusión del actual período constitucional, la autoridad municipal procederá de inmediato a convenir lo que corresponda con el Organismo Operador Municipal del Agua Potable y Alcantarillado del Municipio de Guaymas, Sonora, a fin de asegurar la continuidad en la prestación de los servicios de dicho organismo paramunicipal.
+
+###### ARTICULO OCTAVO.
+
+Las acciones del Concejo Municipal se apegarán, en lo que corresponda y sea factible, al Plan Municipal de Desarrollo del Municipio de Guaymas y los programas de él derivados.
