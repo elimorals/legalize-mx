@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1980-02-29"
+last_updated: "1980-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE FEBRERO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JULIO DE 1980.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -835,7 +835,9 @@ III.- Los templos destinados a los cultos;
 
 IV.- Las propiedades de la beneficiencia (sic) pública o privada del Estado de Sinaloa y los bienes inmuebles destinados a la instrucción pública, si pertenecen al fondo de los establecimientos respectivos y han sido facilitados a título gratuito para tales objetos, y siempre que la institución que preste los servicios demuestre que no persigue fines de lucro;
 
-V.- Los predios rústicos y urbanos cuyo valor, de uno o de varios en conjunto pertenecientes a un mismo dueño, no exceda de $ 3,500.00 y siempre y cuando el predio de que se trate esté habitado por su propietario o trabajado por él.
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 1980)</small>
+
+V.- Los predios rústicos y urbanos cuyo valor, de uno o de varios en conjunto pertenecientes a un mismo dueño, no exceda de $ 40,000.00 y siempre y cuando el predio de que se trate esté habitado por su propietario o trabajado por él.
 
 ART. 81.- Los beneficiarios de alguna de las exenciones autorizadas por el Artículo 80, no quedan liberados por ese hecho de la obligación de presentar las declaraciones e informes prevenidos por la Ley de Catastro del Estado, ni del cumplimiento de otras obligaciones que esta Ley o alguna otra Ley Fiscal les imponga.
 
@@ -2863,7 +2865,7 @@ pasaje 40.00 "
 
 d).- Para vehículos de servicio exclusivo de turismo 100.00 "
 
-XIV.- Para cada permiso para circular sin placas correspondientes a vehículos de servicio particular o público 20.00 "
+XIV.- Para cada permiso para circular sin placas correspondientes a vehículos de servicio particular o público 20.00"
 
 XV.- Por cada permiso para manejar sin licencia de conductor correspondiente a vehículos de servicio particular o público
 
@@ -4837,17 +4839,21 @@ ART. 283.- Las Autoridades Municipales no deberán permitir el sacrificio de gan
 
 ART. 284.- Es objeto de este impuesto la primera venta de productos avícolas en el Estado.
 
-ART. 285.- El impuesto se causará conforme a la siguiente:
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 1980)</small>
 
-T A R I F A
+ART. 285.- Impuesto se causará conforme a la siguiente:
 
-I.- Por caja de 360 huevos $ 50.00
+T A R I F A:
 
-II.- Por ave viva o en canal 5.00
+I.- Por caja de 360 huevos $ 3.55
+
+II.- Por ave viva o en canal $ 0.65
 
 ART. 286.- Son causantes de este impuesto las personas físicas o morales que se dediquen permanente o eventualmente a las actividades gravadas por este impuesto, siendo solidariamente responsables de su pago los compradores o intermediarios de productos avícolas.
 
-ART. 287.- El impuesto se causará al efectuarse la primera venta de productos avícolas, y deberá pagarse en la Oficina Recaudadora correspondiente al domicilio del causante, a más tardar al día siguiente hábil de aquél en que se efectúe la operación de primera venta.
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 1980)</small>
+
+ART. 287.- El impuesto se causará al efectuarse la primera venta de productos avícolas, y deberá pagarse previamente a la movilización de los productos avícolas de que se trate o a más tardar al día siguiente hábil de aquel en que se efectúe la operación de primera venta, en la Oficina Recaudadora o Colectora de Rentas correspondiente al domicilio del causante. El Recibo Oficial de pago de este impuesto, será el documento con el que se amparará la movilización de productos avícolas en el Estado.
 
 ART. 288.- Se presumirá que hay venta para los efectos legales, cuando los productos avícolas se remitan de una población a otra del Estado, aún con el carácter de remitidos en remisión o en consignación, a falta de otros elementos que acrediten el momento de la operación.
 
@@ -5172,3 +5178,19 @@ P.O. 29 DE FEBRERO DE 1980.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 23 DE JULIO DE 1980.
+
+DECRETO NO. 206, QUE REFORMA EL ART. 80.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 23 DE JULIO DE 1980.
+
+DECRETO NO. 207 QUE REFORMA EL ART. 287
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
