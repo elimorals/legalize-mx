@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-15880"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-02-18"
-last_updated: "2002-07-10"
+last_updated: "2002-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15880&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE OCTUBRE DE 2002.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 18 de febrero de 2000.
 
@@ -49,9 +49,11 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
 La presente Ley regula las actividades que el Poder Ejecutivo del Estado deba realizar, con las facultades que para ello le otorgan la Constitución General de la República y la del Estado, así como las Leyes y demás disposiciones reglamentarias que de ellas emanen.
 
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2002)</small>
+
 ###### ARTICULO 2o.
 
-Para el ejercicio de sus funciones y el desempeño de los asuntos encomendados, el titular del Ejecutivo se auxiliará por dependencias de la Administración Pública Centralizada, compuestas por Secretarías del Despacho, Oficialía Mayor, Procuraduría General de Justicia, Comités, Consejos, Coordinaciones y Unidades de Asesoría, Control y Apoyo Técnico que el propio Ejecutivo determine en ejercicio de sus atribuciones; así como las entidades de la Administración Pública Paraestatal, integrada por los Órganos Descentralizados, Empresas de Participación Estatal, Comisiones, Patronatos y Juntas previstas por la Constitución Política del Estado, las Leyes y Decretos, de acuerdo al Presupuesto de Egresos y las demás disposiciones vigentes.
+Para el ejercicio de sus funciones y el desempeño de los asuntos encomendados, el titular del Ejecutivo se auxiliará por dependencias de la Administración Pública Centralizada, compuestas por Secretarías del Despacho, Oficialía Mayor, Procuraduría General de Justicia, Comités, Consejos, Coordinaciones y Unidades de Asesoría, Control y Apoyo Técnico que el propio Ejecutivo determine en ejercicio de sus atribuciones; así como por las entidades de la Administración Pública Paraestatal, integradas por los Organos Descentralizados, Empresas de Participación Estatal, Comisiones, Patronatos, Fideicomisos y Juntas previstas por la Constitución Política del Estado, y las Leyes y Decretos, de acuerdo al presupuesto de Egresos y a las demás disposiciones vigentes.
 
 ###### ARTICULO 3o.
 
@@ -79,9 +81,13 @@ La Delegación de facultades debe ser expresa, transitoria y limitada y no requi
 
 El Gobernador del Estado podrá convenir con el Ejecutivo Federal, con otras entidades federativas y con los ayuntamientos de la entidad, la prestación en forma temporal de servicios públicos, la administración de tributos, la ejecución de obras o la realización de cualquier otro propósito en beneficio colectivo, en los términos que establezca la Constitución General de la República, la del Estado y demás disposiciones que de ellas emanen.
 
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2002)</small>
+
 ###### ARTICULO 7º.
 
-Todos los reglamentos, decretos, acuerdos y demás disposiciones que expida el Gobernador del Estado deberán ser firmados por el Secretario General de Gobierno y por el Secretario del ramo al que el asunto corresponda, y sin este requisito no surtirán efecto legal alguno.
+Todos los Reglamentos, Decretos, Acuerdos y demás disposiciones que expida el Gobernador del Estado, deberán ser firmados por el Secretario General de Gobierno y por el Secretario del ramo al que el asunto corresponda, y sin este requisito no surtirán (sic) efecto legal alguno.
+
+Tratándose de los Decretos de publicación de la (sic) Leyes o Decretos expedidos por el Congreso del Estado, solo se requerirá el refrendo del Secretario General de Gobierno.
 
 ###### ARTICULO 8o.
 
@@ -587,7 +593,9 @@ X.- Prestar servicios de Informática a todas las Dependencias del Gobierno.
 
 XI.- Las demás que les señalen las disposiciones legales vigentes o las que le asigne el Gobernador, de acuerdo a sus atribuciones.
 
-### CAPITULO CUARTO. ADMINISTRACION PUBLICA PARAESTATAL
+### CAPITULO CUARTO
+
+ADMINISTRACION PUBLICA PARAESTATAL.
 
 ###### ARTICULO 27.
 
@@ -692,5 +700,11 @@ B.O. 10 DE JULIO DE 2002.
 Los ayuntamientos de la entidad contarán con noventa días naturales par (sic) los efectos de lo dispuesto por los artículos 26, 90, 91, 92 y 94 de la Ley Orgánica Municipal Reglamentaria del Título Octavo de la Constitución Política del Estado de Baja California Sur, reformados por este Decreto, en lo que se refiere a los bandos de policía y gobierno y reglamentos.
 
 ###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE OCTUBRE DE 2002.
+
+###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
