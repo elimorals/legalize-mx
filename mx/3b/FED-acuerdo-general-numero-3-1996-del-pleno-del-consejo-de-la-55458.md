@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-3-1996-del-pleno-del-consejo-de-la-55458
 country: "mx"
 rank: "acuerdo"
 publication_date: "1996-02-14"
-last_updated: "1999-05-21"
+last_updated: "2000-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55458&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1996-02-08"
 
 ACUERDO GENERAL NUMERO 3/1996, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ORDENA EL USO DEL SISTEMA COMPUTARIZADO PARA LA DISTRIBUCION DE ASUNTOS EN LOS TRIBUNALES COLEGIADOS EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE MAYO DE 1999.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NUMERO 29/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 26 DE MAYO DE 2000, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: DEROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 14 de febrero de 1996.
 
@@ -92,3 +94,11 @@ TERCERO.- Respecto de los demás asuntos que se presenten en la Oficialía de Pa
 CUARTO.- De la demanda de amparo directo que hasta el día treinta y uno del mes de mayo de mil novecientos noventa y nueve haya sido turnada a un tribunal colegiado, seguirá conociendo éste hasta la terminación del procedimiento respectivo.
 
 ...
+
+D.O.F. 26 DE MAYO DE 2000.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el primero de junio del año en curso.
+
+SEGUNDO.- Se derogan los Acuerdos Generales números 3/1996 y 15/1999, emitidos por el Pleno del Consejo de la Judicatura Federal, así como los que se opongan al presente.
+
+TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, y comuníquese a los Tribunales de Circuito y Juzgados de Distrito del Poder Judicial de la Federación para su cumplimiento.
