@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-6947"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-12-01"
-last_updated: "1992-12-01"
+last_updated: "1993-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6947&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el 1° de diciembre de 1992.
 
@@ -789,6 +789,10 @@ Son Empresas de participación Estatal las Sociedades de cualquier naturaleza, e
 
 El Poder Ejecutivo intervendrá en las operaciones de las Entidades Paraestatales a través de una Coordinación Sectorial por parte de sus Dependencias, considerando la esfera de competencia de éstas y su relación con el objeto de dichas Entidades.
 
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1993)</small>
+
+La Comisión de Derechos Humanos del Estado Libre y Soberano de Oaxaca atendiendo a sus objetivos específicos y a la naturaleza de sus funciones, queda excluida de lo dispuesto en el párrafo anterior, sin perjuicio de lo establecido por los artículos 15, fracción IX y19, fracción VI de la Ley que la rige.
+
 ###### ARTICULO 45.
 
 Corresponde a las Coordinadoras de Sector coordinar la Programación, Presupuestación y Operación, Evaluar los resultados y participar en los órganos de Gobierno de las Entidades Sectorizadas.
@@ -822,3 +826,9 @@ Oaxaca de Juárez, a 1 de diciembre de 1992.- EL GOBERNADOR CONSTITUCIONAL DEL E
 y lo comunico a usted para su conocimiento y fines consiguientes.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxaca de Juárez, Oax., a 1 de diciembre de 1992.- El Secretario General de Gobierno.- Lic. Agustín Márquez Uribe.- Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE OCTUBRE DE 1993.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
