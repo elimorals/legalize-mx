@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-tutela-y-de-asistencia-social-para-menores-5201"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-13"
-last_updated: "1989-11-28"
+last_updated: "1990-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "GRO"
 
 LEY DE TUTELA Y DE ASISTENCIA SOCIAL PARA MENORES INFRACTORES DEL ESTADO DE GUERRERO
 
-> <small>N. DE E. POR DISPOSICION DEL ARTICULO QUINTO DEL DECRETO DE REFORMAS Y ADICIONES A LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA, SE REFORMAN TODAS AQUELLAS LEYES, A EFECTO DE QUE CUANDO SE REFIERAN A LA "SECRETARIA DE GOBIERNO" EN LO SUCESIVO LO HAGAN A LA "SECRETARIA GENERAL DE GOBIERNO, P.O. 28 DE NOVIEMBRE DE 1989.</small>
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 1990.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 1989.
-
-Ley publicada en el Periódico Oficial, el martes 13 de diciembre de 1988.
+Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 13 de diciembre de 1988.
 
 JOSE FRANCISCO RUIZ MASSIEU, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, a sus habitantes, sabed
 
@@ -845,6 +843,50 @@ El Albergue Asistencial hará realidad la función de tutela estatal a través d
 
 El Albergue Asistencial, se regirá por un reglamento que establecerá las bases mínimas de organización y funcionamiento. Estas normas reglamentarias serán propuestas por el Director de esta Institución al Poder Ejecutivo del Estado, para su expedición.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 1990)</small>
+
+## TITULO SEPTIMO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE JULIO DE 1990)</small>
+
+### CAPITULO UNICO. DE LOS ALBERGUES MUNICIPALES DE PROTECCION Y ARTES Y OFICIOS PARA MENORES
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 1990)</small>
+
+###### ARTICULO 109.
+
+Los ayuntamientos, cuando así se requiera, contarán con establecimientos de carácter asistencial para la protección de menores abandonados, y de aquéllos impelidos a infraccionar las leyes y bandos por quienes ejercen patria potestad, custodia, tutela o curatela.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 1990)</small>
+
+###### ARTICULO 110.
+
+En los establecimientos se proporcionará atención médica y psicológica, servicios educativos y de capacitación en artes y oficios acordes a la edad, condiciones y facultades físicas e intelectuales de los menores.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 1990)</small>
+
+###### ARTICULO 111.
+
+Cuando así lo hagan conveniente las posibilidades financieras, materiales o técnicas de los ayuntamientos, o las necesidades sociales, los ayuntamientos podrán habilitar hogares substitutos con familias moral y técnicamente idóneas, y siempre que las autoridades competentes establezcan las normas técnicas y vigilen su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 1990)</small>
+
+###### ARTICULO 112.
+
+Los albergues, y en su caso, los hogares substitutos, se organizarán considerando sexo y edad, y su creación será hecha del conocimiento del Ministerio Público a efecto de que éste ejerza las facultades que la Ley le confiere en la materia.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 1990)</small>
+
+###### ARTICULO 113.
+
+En la creación de los albergues y hogares substitutos, los ayuntamientos tomarán en cuenta las siguientes prioridades:
+
+I. Menores abandonados, gravemente enfermos, o aquéllos que sean sujetos pasivos en los casos a los que se refieren los artículos 123, 125, 188 y 190 del Código Penal del Estado;
+
+II. Menores incapaces; y
+
+III. Menores dedicados habitualmente a la mendicidad o actividades, ilícitas, o de carácter económico que quebranten las leyes o bandos.
+
 T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
@@ -898,3 +940,9 @@ Rúbrica.
 P.O. 28 DE NOVIEMBRE DE 1989.
 
 UNICO.- El presente Decreto de reformas y adiciones a la Ley Orgánica de la Administración Pública entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 27 DE JULIO DE 1990.
+
+###### ARTICULO UNICO.
+
+El presente Decreto de reformas y adiciones entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
