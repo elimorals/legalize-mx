@@ -4,7 +4,7 @@ identifier: "LMCCBDC"
 country: "mx"
 rank: "ley"
 publication_date: "1982-01-05"
-last_updated: "1991-01-04"
+last_updated: "1991-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=461&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMCCBDC"
 
 LEY QUE APRUEBA LA ADHESION DE MEXICO AL CONVENIO CONSTITUTIVO DEL BANCO DE DESARROLLO DEL CARIBE Y SU EJECUCION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1991.
 
 Ley publicada en el Diario Oficial de la Federación el martes 5 de enero de 1982.
 
@@ -52,7 +52,7 @@ El Banco de México hará, con la garantía del Gobierno Federal, la suscripció
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1991)</small>
 
-De igual manera, el Banco de México hará, con la Garantía del Gobierno Federal, la suscripción de acciones o partes sociales del Banco de Desarrollo del Caribe, hasta por el equivalente de U.S.DLS. 6'260,946.12 (SEIS MILLONES DOSCIENTOS SESENTA MIL NOVECIENTOS CUARENTA Y SEIS DOLARES 12/100, MONEDA DE LOS ESTADOS UNIDOS DE AMERICA), de los cuales serían pagaderos en efectivo U.S.DLS. 1'254,601.92 (UN MILLON DOSCIENTOS CINCUENTA Y CUATRO MIL SEISCIENTOS UN DOLARES 92/100 MONEDA DE LOS ESTADOS UNIDOS DE AMERICA), correspondientes al Primer Incremento General del Capital Social y Suscripciones de los Paises Miembros del Banco de Desarrollo del Caribe, mediante cinco pagos anuales, equivalentes al 20% (VEINTE POR CIENTO) cada una a partir de 1991.
+De igual manera, el Banco de México hará, con la Garantía del Gobierno Federal, la suscripción de acciones o partes sociales del Banco de Desarrollo del Caribe, hasta por el equivalente de U.S.DLS. 6'260,946.12 (SEIS MILLONES DOSCIENTOS SESENTA MIL NOVECIENTOS CUARENTA Y SEIS DOLARES 12/100, MONEDA DE LOS ESTADOS UNIDOS DE AMERICA), de los cuales serían pagaderos en efectivo U.S.DLS. 1'254,601.92 (UN MILLON DOSCIENTOS CINCUENTA Y CUATRO MIL SEISCIENTOS UN DOLARES 92/100 MONEDA DE LOS ESTADOS UNIDOS DE AMERICA), correspondientes al Primer Incremento General del Capital Social y Suscripciones de los Países Miembros del Banco de Desarrollo del Caribe, mediante cinco pagos anuales, equivalentes al 20% (VEINTE POR CIENTO) cada una a partir de 1991.
 
 ###### ARTICULO 4o.
 
@@ -65,6 +65,10 @@ Asimismo, el Banco de México cubrirá, con la garantía del Gobierno Federal, e
 > <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 1988)</small>
 
 Asimismo el Banco de México cubrirá, con la garantía del Gobierno Federal, el equivalente a U.S. Dls. 3'333,000.00 (tres millones trescientos treinta y tres mil) dólares de los Estados Unidos de América, correspondientes a la segunda reposición adicional de capital al citado Fondo Especial de Desarrollo, mediante cuatro pagos anuales a partir de 1988.
+
+> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1991)</small>
+
+De igual manera, el Banco de México cubrirá, con la garantía del Gobierno Federal, el equivalente a 5.000,000.00 (cinco millones) de dólares de los Estados Unidos de América, correspondiente a la tercera reposición adicional de capital al citado Fondo Especial de Desarrollo, mediante cuatro pagos anuales, iguales y sucesivos a partir de 1992.
 
 ###### ARTICULO 5o.
 
@@ -121,3 +125,7 @@ D.O.F. 4 DE ENERO DE 1991.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. El Primer Incremento General del Capital Social y Suscripciones de los Países Miembros del Banco de Desarrollo del Caribe, se realizará mediante cinco pagos anuales, iguales y sucesivos, a partir de 1991 y serán pagaderos 50% en Dólares de los Estados Unidos de América y 50% en pesos mexicanos, cada uno de ellos.
+
+D.O.F. 24 DE DICIEMBRE DE 1991.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
