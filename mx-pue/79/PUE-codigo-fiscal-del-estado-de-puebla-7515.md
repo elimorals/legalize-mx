@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "1996-12-06"
+last_updated: "1998-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1998.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -45,9 +45,11 @@ CODIGO FISCAL DEL ESTADO DE PUEBLA
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 1.
 
-La Hacienda Pública para atender los gastos del Estado percibirá en cada ejercicio las contribuciones, productos, aprovechamientos y participaciones que determinen las leyes fiscales y en su caso las donaciones, legados, herencias y reintegros que se hicieren a su favor.
+La hacienda pública para atender los gastos del Estado percibirá en cada ejercicio las contribuciones, productos, aprovechamientos, participaciones, aportaciones, reasignaciones y demás ingresos que determinen las leyes fiscales, así como las donaciones, legados, herencias y reintegros que se hicieren a su favor.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
 
@@ -57,11 +59,11 @@ No serán válidas las exenciones a las contribuciones estatales no contenidas e
 
 Para efectos de la aplicación de las Leyes Fiscales del Estado se entenderá por ejercicio fiscal el período comprendido del 1o de enero al 31 de diciembre de cada año.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 2.
 
-Los ingresos del Estado y sus Organismos Auxiliares se clasifican en ordinarios y extraordinarios. Son ingresos ordinarios las contribuciones, productos, aprovechamientos y participaciones.
+Los ingresos del Estado y sus organismos auxiliares se clasifican en ordinarios y extraordinarios. Son ingresos ordinarios las contribuciones, productos, aprovechamientos, participaciones, aportaciones y reasignaciones.
 
 Son ingresos extraordinarios aquellos cuya percepción se decreta excepcionalmente para proveer el pago de gastos e inversiones accidentales o especiales del Estado.
 
@@ -101,11 +103,11 @@ Son aprovechamientos los ingresos que percibe el Estado por funciones de derecho
 
 Los recargos, las sanciones, los gastos de ejecución e indemnizaciones a que se refiere el segundo párrafo del Artículo 33 de este Código, que se apliquen en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 7.
 
-Son participaciones las cantidades que el Gobierno del Estado tiene derecho a percibir de los ingresos federales o municipales en virtud de su adhesión al Sistema Nacional de Coordinación Fiscal del Convenio de Colaboración Administrativa en Materia Fiscal Federal y Municipal.
+Son participaciones, aportaciones y reasignaciones, las cantidades que el Gobierno del Estado tiene derecho a percibir con arreglo a las disposiciones legales aplicables.
 
 ###### ARTICULO 8.
 
@@ -131,7 +133,9 @@ IV.- La Ley de Egresos del Estado de Puebla.
 
 V.- La Ley de Catastro del Estado de Puebla.
 
-VI.- La Ley de Coordinación Fiscal del Estado de Puebla.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1998)</small>
+
+VI.- La Ley para el Federalismo Hacendario del Estado de Puebla.
 
 VII.- Los demás ordenamientos que contengan disposiciones de carácter hacendario.
 
@@ -1953,6 +1957,20 @@ IV.- Que sean conexos a otros que hayan sido impugnados a través del presente r
 
 V.- Si son revocados los actos por la autoridad.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 134 -A.
+
+Procede el sobreseimiento en los casos siguientes:
+
+I.- Cuando el promovente se desista expresamente de su recurso.
+
+II.- Cuando durante el procedimiento en que se substancie el recurso administrativo sobrevenga alguna de las causas de improcedencia a que se refiere el artículo 134 de este Código.
+
+III.- Cuando de las constancias que obren en el expediente administrativo quede demostrado que no existe el acto o resolución impugnados.
+
+IV.- Cuando hayan cesado los efectos del acto o resolución impugnados.
+
 ###### ARTICULO 135.
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 1991)
@@ -1985,7 +2003,9 @@ Durante la tramitación del recurso administrativo de revocación la Autoridad F
 
 La resolución que ponga fin al recurso podrá:
 
-I.- Desecharlo por improcedente.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1998)</small>
+
+I.- Desecharlo por improcedente, tenerlo por no interpuesto o sobreseerlo, en su caso.
 
 II.- Confirmar el acto impugnado.
 
@@ -2112,3 +2132,13 @@ P.O. 6 DE DICIEMBRE DE 1996.
 PRIMERO.- El presente Decreto entrará en vigor el primero de enero de mil novecientos noventa y siete.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE DICIEMBRE DE 1998.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el primero de enero de mil novecientos noventa y nueve.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
