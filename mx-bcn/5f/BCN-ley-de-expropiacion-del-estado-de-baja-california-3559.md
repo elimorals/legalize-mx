@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-expropiacion-del-estado-de-baja-california-3559"
 country: "mx"
 rank: "ley"
 publication_date: "1954-02-28"
-last_updated: "1960-05-10"
+last_updated: "1995-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EXPROPIACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 1960.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 28 de febrero de 1954.
 
@@ -43,11 +43,11 @@ LEY DE EXPROPIACION DEL ESTADO DE BAJA CALIFORNIA.
 
 La propiedad particular no puede ser ocupada sin consentimiento de su dueño sino por causas de utilidad pública y mediante indemnización, de acuerdo con las prescripciones siguientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 1960)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE OCTUBRE DE 1995)</small>
 
 ###### ARTICULO 2o.
 
-Se considerarán causas de utilidad pública:
+Se consideran causas de utilidad pública:
 
 I.- El establecimiento, explotación o conservación de un servicio público;
 
@@ -73,7 +73,17 @@ X.- Las medidas necesarias para evitar la destrucción de los elementos naturale
 
 XI.- La creación o mejoramiento de centros de población, colonias urbanas y agrícolas y de sus propias fuentes de vida; o ampliación de los ya existentes.
 
-XII.- Los demás casos previstos por las leyes especiales.
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 1995)</small>
+
+XII.- La satisfacción de necesidades de reubicación de familias que por motivos de desastres ocasionados por elementos de la naturaleza o atribuíbles a la acción humana, pierdan sus hogares o se encuentren en zonas que por el altos (sic) riesgo que representan, sea inminente la pérdida de vidas humanas; en estos casos deberá mediar petición expresa del Presidente Municipal correspondiente.
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 1995)</small>
+
+XIII.- La regulación Jurídica de la tenencia de terrenos destinados a vivienda popular, y ocupados por grupos sociales de escasos recursos económicos o a la reubicación de los (sic) mismas por causas de beneficio colectivo e interés social.
+
+> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 1995)</small>
+
+XIV.- Los demás casos previstos por las leyes especiales.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 1960)</small>
 
@@ -89,11 +99,19 @@ Al Ejecutivo corresponde declarar la utilidad pública, bien sea de oficio o bie
 
 Con la iniciativa se acompañará un proyecto de la obra que se pretenda ejecutar, expresando la utilidad pública que produzca la propiedad o propiedades que deban ocuparse; nombres y domicilios de sus dueños o poseedores, o la circunstancia de ser desconocidos. El Ejecutivo, cuando lo crea conveniente, recabará información, dictámenes u opiniones, a efecto de resolver sobre la pública utilidad; y cuando proceda de oficio a la expropiación, formará el expediente relativo.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 1960)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE MAYO DE 1960)</small>
 
 ###### ARTICULO 6o.
 
 La declaratoria de utilidad pública y el acuerdo de expropiación, la ocupación temporal, total o parcial, o la simple limitación de los derechos de dominio o de posesión, del Ejecutivo, se publicará en el Periódico Oficial del Estado y será notificada personalmente a los interesados. En caso de ignorarse el nombre o el domicilio de éstos, surtirá efectos de notificación personal, una segunda publicación del acuerdo en el Periódico Oficial, la que se hará no menos de quince días después de la primera.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 1995)</small>
+
+El Ejecutivo del Estado en acuerdo relativo determinará si el bien expropiado formará parte del patrimonio del dominio público del Gobierno del estado, según el destino o uso al que se le vaya a destinar.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 1995)</small>
+
+En todo caso los inmuebles expropiados cuyos destinos sean la regularización de la tenencia de la tierra para uso habitacional, se consideran del patrimonio privado del Gobierno del Estado.
 
 ###### ARTICULO 7o.
 
@@ -210,3 +228,13 @@ La presente Ley entrará en vigor desde la fecha de su publicación en el Perió
 ###### ARTICULO SEGUNDO.
 
 En todos los casos en los que se hubiere hecho la declaratoria de expropiación con anterioridad a la vigencia de esta Ley, y estuviere pendiente la ocupación o la ejecución de la limitación de los derechos o la resolución del recurso de revocación, se aplicará la Ley conforme a la cual se decretó la expropiación o la limitación de esos derechos.
+
+P.O. 13 DE OCTUBRE DE 1995.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el periódico oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las expropiaciones realizadas hasta antes de la publicación del presente Decreto, que pudieran conllevar la finalidad de regularizar la tenencia de la tierra para uso habitacional, no requerirán autorización expresa del Congreso del Estado para su enajenación.
