@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-16336
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-13"
-last_updated: "2000-04-13"
+last_updated: "2004-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2004.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán, el jueves 13 de abril del 2000.
 
@@ -81,7 +81,7 @@ IX. La prevención y control de las actividades que propicien la contaminación 
 
 X. El ordenamiento ecológico en el Estado y los municipios, así como de los asentamientos humanos, a través de los programas de desarrollo urbano y demás instrumentos regulados en esta Ley o en otras disposiciones aplicables;
 
-XI. El establecimiento de las políticas estatales relativas a la conservación, restauración, protección, supervisión, fomento y aprovechamiento de los recursos forestales y su industrialización en la Entidad, de conformidad con los convenios y/o acuerdos que concerten los gobiernos Federal y Estatal.
+XI. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
 XII. El fomento y promoción de la cultura ambiental en todos los sectores de la sociedad, del uso racional de los recursos naturales y de la tecnología e investigación forestal, en el ámbito estatal;
 
@@ -93,13 +93,17 @@ XV. La evaluación del impacto ambiental de las obras y acciones de competencia 
 
 XVI. La regulación del manejo y disposición final de los residuos sólidos e industriales que no estén considerados como peligrosos, conforme a esta ley y demás ordenamientos aplicables;
 
-XVII. La regulación de las áreas estatales que tengan un valor escénico o de paisaje para protegerlas de la contaminación visual;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2004)</small>
+
+XVII. La regulación de las áreas estatales urbanas que tengan un valor escénico o de paisaje para protegerlas de la contaminación visual.
 
 XVIII. La atención de emergencias o contingencias ambientales, de conformidad con las disposiciones que en materia de protección civil deban observarse, además de lo dispuesto por otros ordenamientos jurídicos aplicables;
 
 XIX. La concertación de acciones entre los sectores social y privado, en las materias de esta Ley;
 
-XX. Propiciar el desarrollo sustentable de la Entidad, mediante el aprovechamiento racional de sus recursos naturales;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2004)</small>
+
+XX. Propiciar el desarrollo sustentable en la entidad, mediante el aprovechamiento racional de los recursos naturales no considerados en otras leyes.
 
 XXI. La participación del Estado en contingencias ambientales, cuando éstas incidan en dos o más municipios, conforme a las políticas y programas de protección civil que al efecto se establezcan;
 
@@ -121,25 +125,33 @@ III. El cuidado de los sitios necesarios para asegurar la protección de la biod
 
 IV. El saneamiento de cuerpos de agua de jurisdicción estatal;
 
-V. El establecimiento de zonas reservadas que permitan el cuidado y la preservación de especies de flora y fauna silvestre y acuática;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2004)</small>
 
-VI. La ejecución de los programas de protección de los recursos forestales y faunísticos, y las acciones de inspección y vigilancia que se realicen para evitar la tala inmoderada, así como las acciones de forestación y reforestación;
+V. El cuidado de los sitios necesarios para asegurar la protección de la biodiversidad y el mantenimiento e incremento de los recursos genéticos de fauna silvestre y acuática.
 
-VII. Las actividades de reforestación en zonas siniestradas y/o erosionadas, para la rehabilitación de las cuencas hidrológicas y la reordenación de los aprovechamientos forestales y su industrialización;
+VI. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-VIII. Las auditorías técnicas y las acciones de inspección, para evitar el aprovechamiento inmoderado de los recursos forestales;
+VII. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-IX. La regulación de las prácticas agropecuarias de roza, tumba y quema, consideradas como labores previas a la preparación de los suelos y/o cultivos en terrenos forestales o de aptitud preferentemente forestal, agrícola o ganadera;
+VIII. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-X. La prevención, combate y control de incendios forestales;
+IX. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
+
+X. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
 XI. Las investigaciones y estudios relativos a los recursos del suelo, flora, fauna y agua, y de métodos y prácticas más adecuados para su preservación;
 
-XII. Las acciones tendientes a preservar los recursos suelo y agua de jurisdicción estatal, con el objeto de evitar la erosión, propiciar el control de torrentes y evitar daño a presas y vasos en el Estado;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2004)</small>
 
-XIII. La protección del paisaje rural y urbano del Estado;
+XII. Las acciones tendentes a preservar los recursos suelos agropecuarios y agua de jurisdicción estatal, con el objeto de evitar la erosión, propiciar el control de torrentes y evitar daño a presas y vasos en el Estado;
 
-XIV. El establecimiento de zoológicos y jardines botánicos para la preservación de especies raras, endémicas, amenazadas o en peligro de extinción; y,
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2004)</small>
+
+XIII. La protección del paisaje urbano del Estado;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2004)</small>
+
+XIV. El establecimiento de zoológicos para la preservación de especies de fauna raras, endémicas, amenazadas o en peligro de extinción.
 
 XV. Las interacciones del sector pesquero y acuícola con el medio ambiente y los ecosistemas acuáticos y marinos, de tal manera que garanticen su aprovechamiento sustentable.
 
@@ -185,9 +197,9 @@ XVIII. Cultura ecológica: El conjunto de conocimientos, hábitos y actitudes, q
 
 XIX. Criterios ecológicos: Los lineamientos obligatorios destinados a orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente, que tendrán carácter de instrumentos de la política ambiental.
 
-XX. Conservación forestal: El mantenimiento de la diversidad y población de los ecosistemas forestales, bajo condiciones naturales o con la intervención del hombre.
+XX. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-XXI. Cultura forestal: El conjunto de conocimientos básicos, hábitos y actitudes en relación a la preservación de la biodiversidad florística, faunística y de especies forestales, así como de los satisfactores que proporcionan a la sociedad, adquiridos por cualquier medio.
+XXI. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
 XXII. Cuenca Hidrológica: El espacio físico geográfico que comprende una superficie de drenaje natural común, en donde interactúan los sistemas hidrológicos y físicos. Es el componente básico para el manejo de los recursos naturales.
 
@@ -223,25 +235,19 @@ XXXVII. Fauna silvestre: Las especies animales que subsisten sujetas a los proce
 
 XXXVIII. Flora silvestre: Las especies vegetales así como los hongos, que subsisten sujetas a los procesos de selección natural y que se desarrollan libremente, incluyendo las poblaciones o especímenes que se encuentran bajo control del hombre.
 
-XXXIX. Incendios forestales: El siniestro causado intencional, accidental o fortuitamente por el fuego, que se presenta en áreas cubiertas de vegetación, árboles, pastizales maleza, matorrales y, en general, en cualesquiera de los diferentes tipos de asociaciones vegetales; estos pueden ser:
-
-a) Rastreros o de superficie: Cuando se producen en hierbas y arbustos;
-
-b) Aéreo o de copa: Cuando involucran las copas de los árboles; y,
-
-c) Subterráneos: Cuando involucran la capa vegetal del suelo.
+XXXIX. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004) (F. DE E., P.O. 30 DE NOVIEMBRE DE 2004)
 
 XL. Impacto ambiental: La modificación del ambiente ocasionada por la acción del hombre o de la naturaleza.
 
-XLI. Madera en rollo: Los troncos de arboles derribados o seccionados, con un diámetro mayor a 20 centímetros, en cualquiera de sus extremos, sin incluir la corteza y una longitud superior a 240 centímetros.
+XLI. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-XLII. Madera con escuadría: La materia prima maderable con un nivel primario de transformación, consistente en cortes angulares en cuya elaboración se han utilizado herramientas o equipos manuales o mecánicos.
+XLII. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
 XLIII. Manifestación del impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo.
 
 XLIV. Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia.
 
-XLV. Materia prima: El producto natural que no ha recibido ningún proceso de transformación industrial.
+XLV. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
 XLVI. Mejoramiento: La modificación planeada de los elementos de la naturaleza, a fin de mejorar las condiciones ambientales.
 
@@ -255,27 +261,27 @@ L. Preservación: El conjunto de políticas y medidas, para mantener las condici
 
 Ll. Prevención: El conjunto de disposiciones y medidas anticipadas, para evitar el deterioro del ambiente.
 
-Lll. Producto forestal maderable: El bien obtenido del resultado de un proceso de transformación de materias primas maderables, con otra denominación, nuevas características y un uso final distinto
+Lll. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
 LIII. Protección: El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro.
 
-LIV. Programa de manejo: El componente orientado hacia la ejecución de un plan de acciones que identifica necesidades, establece prioridades y organiza acciones a corto, mediano y largo plazos, para la conservación de la biodiversidad y el aprovechamiento sustentable de los recursos naturales de un área determinada.
+LIV. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-LV. Programa de manejo forestal: El documento técnico de planeación y seguimiento que describe, de acuerdo con la Ley, las acciones y procedimientos de cultivo, protección, conservación, restauración y aprovechamiento de los recursos forestales.
+LV. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-LVI. Plantaciones forestales comerciales: Las áreas de cultivo forestal de especies determinadas para un objetivo específico con fines comerciales, donde se deben adoptar las medidas y acciones que establece la normatividad vigente.
+LVI. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-LVII. Protección forestal: El conjunto de medidas y actividades para prevenir y controlar los factores nocivos y destructores de los recursos forestales.
+LVII. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-LVIII. Quema: La acción humana dirigida a la incineración parcial o total de bosques, selvas, vegetación forestal o no forestal, acahuales, rastrojos o esquilmos y en general de materia vegetal, independientemente de que ésta se derive de actividades agropecuarias, y que puedan causar incendios forestales.
+LVIII. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-LIX. Recurso natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre.
+LIX. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-LX. Recursos forestales: La vegetación forestal, natural, artificial o inducida, sus productos o residuos, así como los suelos de los terrenos forestales o de aptitud preferentemente forestal.
+LX. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-LXI. Recursos forestales maderables: Los constituidos por árboles.
+LXI. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-LXII. Recursos forestales no maderables: Las semillas, resinas, fibras, gomas, ceras, rizomas, hojas, pencas y tallos, provenientes de vegetación forestal; así como los suelos de terrenos forestales o de aptitud preferentemente forestal.
+LXII. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
 LXIII. Región ecológica: La unidad territorial que comparte características ecológicas comunes.
 
@@ -285,27 +291,27 @@ LXV. Residuo: Cualquier material generado en los procesos de extracción, benefi
 
 LXVI. Residuos peligrosos: Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, tóxicas, reactivas, explosivas, inflamables, biológico-infecciosas, representen un peligro para el equilibrio ecológico o el ambiente.
 
-LXVII. Restauración: El conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales.
+LXVII. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-LXVIII. Restauración forestal: El conjunto de actividades encaminadas a rehabilitar terrenos forestales o de aptitud preferentemente forestal degradados, para que recuperen o mantengan parcial o totalmente su vegetación, fauna, suelo, dinámica hidrológica y biodiversidad.
+LXVIII. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-LXIX. Roza: La destrucción o arrasamiento deliberado por la acción humana de bosques, selvas, vegetación forestal o de otras especies, con propósitos de actividad agropecuaria o con diversa intención.
+LXIX. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
 LXX. Secretaría: La Secretaría de Desarrollo Urbano y Ecología.
 
 LXXI. Sedagro: La Secretaría de Desarrollo Agropecuario del Estado.
 
-LXXII. Servicios técnicos forestales: Las actividades especializadas consistentes en la elaboración, dirección de la ejecución y evaluación de los programas de manejo forestal.
+LXXII. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
 LXXIII. Sistema: El Sistema de Información y Vigilancia de los Ecosistemas y su Equilibrio en el Estado.
 
 LXXIV. Tratamiento de agua residual: El proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar las características perjudiciales que se les hayan incorporado.
 
-LXXV. Tumba: La acción intencionada del hombre de cortar o talar bosques, selvas o vegetación forestal, con fines agropecuarios u otros que no sean los de aprovechamiento sustentable de recursos forestales.
+LXXV. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-LXXVI. Terrenos de aptitud preferentemente forestal: Aquellos que no estando cubiertos por vegetación forestal, por sus condiciones de clima, suelo y topografía, puedan incorporarse al uso forestal, excluyendo aquellos situados en áreas urbanas y los que, sin sufrir degradación permanente, puedan ser utilizados en agricultura y ganadería.
+LXXVI. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-LXXVII. Terrenos forestales: Los que están cubiertos por vegetación forestal, excluyendo aquellos situados en áreas urbanas.
+LXXVII. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
 LXXVIII. Vocación natural: Las condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
 
@@ -331,7 +337,7 @@ II. La Secretaría de Desarrollo Urbano y Ecología;
 
 III. La Secretaría de Desarrollo Agropecuario;
 
-IV. La Comisión Forestal del Estado;
+IV. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
 V. La Comisión de Pesca del Estado;
 
@@ -347,19 +353,27 @@ Para el cumplimiento del objeto de esta Ley, el Titular del Poder Ejecutivo del 
 
 I. Conducir la política ambiental y los criterios ecológicos en el Estado, en congruencia con los que, en su caso, hubiere formulado la Federación;
 
-II. Aprobar, en su caso, a propuesta de la Secretaría, Comisión, Comapas y/o de la Sedagro, los programas que incidan en las siguientes materias:
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2004)</small>
 
-a) Protección, preservación, fomento y conservación de los recursos naturales básicos para el desarrollo de la actividad agropecuaria y forestal, en el ámbito estatal;
+II. Aprobar, en su caso, a propuesta de la Secretaría, Comapas y/o de la Sedagro, los programas que incidan en las siguientes materias:
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2004)</small>
+
+a) Protección, preservación, fomento y conservación de los recursos naturales, no considerados en otras leyes, básicos para el desarrollo de la actividad agropecuaria, en el ámbito Estatal;
 
 b) Reservas hidrológicas;
 
-c) Conservación, restauración y uso del suelo;
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2004)</small>
+
+c) Conservación, restauración y uso del suelo agropecuario y urbano;
 
 d) Preservación y protección del equilibrio ecológico en áreas que abarquen dos o más municipios, salvo cuando se refieran a espacios reservados a la Federación; y,
 
 e) Prevención y control de las emergencias ecológicas y contingencias ambientales, cuando se afecten áreas de dos o más municipios del Estado;
 
-III. Expedir, a propuesta de la Secretaría, los reglamentos de esta Ley sobre:
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2004)</small>
+
+III. Expedir, a propuesta de la Secretaría, los reglamentos de la Ley sobre:
 
 a) La regulación de las actividades que no sean consideradas como altamente riesgosas, cuando por los efectos que se puedan generar, se afecten ecosistemas de la Entidad o de sus municipios;
 
@@ -375,33 +389,13 @@ f) La regulación con criterios ecológicos, del aprovechamiento de los minerale
 
 g) El manejo y disposición final de los residuos sólidos que no sean peligrosos, conforme a esta Ley y demás disposiciones aplicables;
 
-h) La regulación de las zonas estatales, que tengan un valor escénico o de paisaje para protegerlas de la contaminación visual; e,
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2004)</small>
+
+h) La regulación de las zonas estatales urbanas, que tengan un valor escénico o de paisaje para protegerlas de la contaminación visual; e,
 
 i) Los demás que se consideren necesarios;
 
-IV. Expedir, a propuesta de la Comisión, los reglamentos sobre:
-
-a) Integración y operación del Padrón Forestal del Estado;
-
-b) Integración y operación del Inventario Forestal del Estado;
-
-c) Formulación y aplicación de los programas de manejo forestal de competencia estatal;
-
-d) Regulación, vigilancia y supervisión de la producción forestal, en el ámbito local;
-
-e) Abastecimiento forestal;
-
-f) Protección y restauración forestal;
-
-g) Investigación forestal aplicada;
-
-h) Organización, capacitación y profesionalización forestal;
-
-i) Construcción y mantenimiento de caminos forestales;
-
-j) Transformación y comercialización de la materia prima forestal; y,
-
-k) Los demás necesarios para los efectos de esta Ley.
+IV. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
 V. Aplicar los criterios de la Federación en las obras e instalaciones municipales de tratamiento de aguas residuales, a fin de que las descargas en los cuerpos y corrientes de agua que pasen al territorio de otra Entidad Federativa, satisfagan las normas oficiales mexicanas aplicables;
 
@@ -425,7 +419,9 @@ II. Formular y aplicar, en su caso, en coordinación con las dependencias o enti
 
 III. Formular y aplicar los reglamentos a que se refiere la fracción III del artículo 8º de esta Ley;
 
-IV. Elaborar y someter a consideración del Titular del Poder Ejecutivo, las declaratorias de las áreas naturales protegidas;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2004)</small>
+
+IV. Elaborar y someter a consideración del Titular del Poder Ejecutivo, las declaratorias de las áreas naturales protegidas, con la opinión previa de la Comisión, tratándose de áreas forestales;
 
 V. Proponer al Titular del Poder Ejecutivo del Estado, el establecimiento del ordenamiento ecológico del Estado;
 
@@ -439,7 +435,9 @@ IX. Prevenir y controlar la contaminación atmosférica generada por fuentes fij
 
 X. Evaluar y dictaminar en la competencia estatal, el impacto ambiental de los proyectos, obras, acciones y servicios que se ejecuten o pretendan ejecutar en el Estado, de conformidad con las normas oficiales mexicanas y las disposiciones aplicables;
 
-XI. Supervisar la adecuada preservación y aprovechamiento sustentable de los recursos naturales, desde su extracción hasta su transformación, vigilando la utilización racional de los elementos naturales, cuando sean insumos en procesos de transformación y la utilización de los subproductos en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2004)</small>
+
+XI. Supervisar la adecuada preservación y aprovechamiento sustentable de los recursos naturales, que no estén bajo responsabilidad de otra dependencia o entidad, desde su extracción hasta su transformación, vigilando la utilización racional de los elementos naturales, cuando sean insumos en procesos de transformación y la utilización de los subproductos en el ámbito de su competencia;
 
 XII. Imponer, en la esfera de su competencia, las sanciones que determina esta Ley; y,
 
@@ -447,45 +445,7 @@ XIII. Las demás que conforme a esta Ley y otras disposiciones legales aplicable
 
 ###### Artículo 10.
 
-La Comisión, en la materia de esta Ley, tendrá las siguientes atribuciones:
-
-I. Promover la conservación de los recursos forestales, en coordinación con los ayuntamientos, dependencias y entidades estatales y federales, así como con los diferentes sectores de la sociedad;
-
-II. Impulsar la producción forestal, privilegiando el abastecimiento de la industria local, para promover la creación de empleos en el sector;
-
-III. Formular y aplicar los reglamentos a que se refiere la fracción IV del artículo 8° de esta Ley;
-
-IV. Promover la industrialización integral de las materias primas forestales procurando se les dé el mayor valor agregado posible;
-
-V. Integrar, operar y mantener actualizado el Padrón Forestal del Estado, a fin de realizar evaluaciones periódicas y de apoyar las políticas, medidas, programas e instrumentos de regulación y fomento forestal;
-
-VI. Instrumentar y ejecutar los programas y acciones, que se deriven de los convenios celebrados para la protección, conservación, fomento y restauración de los recursos forestales;
-
-VII. Promover la ejecución de acciones para la inspección y vigilancia forestal, en coordinación con las dependencias y entidades federales y estatales competentes, con los ayuntamientos y sociedad en general y, supervisar y evaluar la prestación de los servicios técnicos forestales;
-
-VIII. Estimular la participación activa y ordenada de los propietarios y poseedores de tierras de vocación forestal, en la protección y vigilancia de sus recursos forestales, en el aprovechamiento, industrialización y comercialización de sus productos, así como en el uso adecuado de sus tierras;
-
-IX. Fomentar la educación, capacitación e investigación en materia forestal, en coordinación con las autoridades competentes, instituciones públicas y privadas y organizaciones sociales, con el objeto de satisfacer las necesidades de recursos humanos y de tecnología que se requiera para el desarrollo del sector;
-
-X. Promover, con la participación de la Secretaría y otras dependencias y entidades competentes, en terrenos forestales o de aptitud preferentemente forestal, el establecimiento de centros de reproducción de especies y de ranchos cinegéticos, donde los usuarios puedan realizar actividades de caza, pesca y ecoturismo;
-
-XI. Emitir opinión fundada sobre las solicitudes y programas de manejo para los aprovechamientos de recursos forestales en la Entidad;
-
-XII. Recabar oportunamente la información sobre los aprovechamientos forestales que se autoricen en el Estado;
-
-XIII. Promover ante la autoridad competente, fundadamente y por escrito, la cancelación, suspensión o modificación de los aprovechamientos forestales autorizados, y en el caso de aquellas personas físicas o morales que se dediquen a la transformación de materias primas o productos forestales maderables, los servicios públicos que utilicen, cuando se detecte que han incurrido en irregularidades o en infracciones a esta Ley o a sus disposiciones reglamentarias;
-
-XIV. Determinar los criterios para caracterizar y delimitar los distintos tipos de zonas forestales, en que se dividirá el territorio del Estado:
-
-XV. Promover la organización y capacitación de los productores forestales, eficientando la cadena productiva y logrando mayores utilidades, que les permita destinar fondos a la protección y fomento de sus recursos forestales;
-
-XVI. Vigilar y supervisar la adecuada conservación y aprovechamiento racional de los recursos forestales, desde su extracción hasta su transformación en materia prima;
-
-XVII. Vigilar y supervisar la utilización racional de los recursos forestales cuando sean insumos, en procesos de transformación y la utilización de sus subproductos; así como, a las industrias, talleres o factorías que los utilicen como materias primas;
-
-XVIII. Imponer en el ámbito de su competencia las sanciones que determina esta Ley; y,
-
-XIX. Las demás que conforme a esta Ley y otras disposiciones le correspondan.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 11.
 
@@ -493,7 +453,7 @@ Los ayuntamientos, en la materia de esta Ley, tendrán las siguientes atribucion
 
 I. Formular, conducir y evaluar la política ambiental municipal en congruencia con los criterios que, en su caso, hubiere formulado la Federación y el Gobierno del Estado;
 
-II. Prevenir, proteger y fomentar la conservación de los recursos bosque, suelo y agua, básicos para el desarrollo de la actividad agropecuaria y forestal en el Estado;
+II. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
 III. Proteger y preservar el equilibrio ecológico en sus respectivas circunscripciones territoriales, salvo cuando se trate de áreas reservadas a la Federación o al Estado;
 
@@ -533,9 +493,11 @@ XX. Formular y aplicar programas de ordenamiento ecológico municipal; y,
 
 XXI. Las demás que establezcan otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 12.
 
-El Titular del Ejecutivo del Estado, por sí o por conducto de la Secretaría y/o de la Comisión, dentro del ámbito de sus respectivas competencias, podrá celebrar convenios o acuerdos con la Federación y/o los ayuntamientos, a fin de establecer medidas de coordinación, concertación o fortalecimiento de las actividades que regula esta Ley.
+El Titular del Ejecutivo del Estado, por si o por conducto de la Secretaría dentro del ámbito de sus respectivas competencias, podrá celebrar convenios o acuerdos con la Federación y/o los Ayuntamientos, a fin de establecer medidas de coordinación, concertación o fortalecimiento de las actividades que regula esta Ley.
 
 ### Capítulo III. De la Comisión Estatal de Ecología y de las Comisiones Municipales de Ecología
 
@@ -623,7 +585,9 @@ Se crea el Consejo Estatal de Ecología, como órgano técnico permanente de con
 
 El Consejo Estatal de Ecología se integrará por:
 
-I. Un Presidente, que será un ciudadano distinguido por sus conocimientos y experiencia en los temas ambientales, que no sea servidor público, y que será designado por el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2004)</small>
+
+I. Un Presidente, que será un ciudadano distinguido por sus conocimientos y experiencia en los temas ambientales, que no sea servidor público, y que será electo por el Congreso del Estado de una terna que proponga el Gobernador del Estado para ese efecto.
 
 II. Un Secretario Técnico, que será el Secretario de Desarrollo Urbano y Ecología;
 
@@ -679,9 +643,11 @@ IX. Las demás que sean necesarias para la consecución de sus fines y del objet
 
 ### Capítulo V. De la Política Ecológica en el Estado
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 21.
 
-Para la formulación y conducción de la política ecológica estatal y la expedición de los instrumentos previstos en esta Ley, en materia de preservación, conservación y restauración del equilibrio ecológico y protección al ambiente y a los recursos naturales, se observarán los siguientes principios:
+Para la formulación y conducción de la política ecológica estatal y la expedición de los instrumentos previstos en esta Ley, en materia de preservación, conservación y restauración del equilibrio ecológico y protección al ambiente y a los recursos naturales que no estén considerados en otras leyes, se observarán los siguientes principios:
 
 I. Los ecosistemas son patrimonio común de la sociedad, y de su preservación y equilibrio depende que se asegure la calidad de vida acorde con las posibilidades productivas del país y del Estado;
 
@@ -927,19 +893,21 @@ La Secretaría de Gobierno, por conducto de la Dirección del Trabajo y Previsi�
 
 ###### Artículo 40.
 
-La Comisión proveerá a la Secretaría de Educación del Estado, de material relativo a temas de cultura forestal para su inclusión en las curriculas formales de la educación primaria y secundaria del sistema estatal de educación.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
-###### Artículo 41.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2004)</small>
 
-A fin de difundir la educación forestal y de conservación de suelos y aguas entre la población rural del Estado, la Secretaría y la Comisión, utilizarán los medios de comunicación, mediante la concertación de acuerdos con las agrupaciones o cámaras de radio, televisión, prensa escrita, iniciativa privada y organizaciones sociales que coadyuven a la difusión de los programas y campañas que instrumenten.
+###### Articulo 41.
+
+A fin de difundir la Educación de conservación de suelos agropecuarios y aguas, entre la población rural del Estado, la Secretaría utilizará los medios de comunicación, mediante la concertación de acuerdos con las agrupaciones o cámaras de Radio, Televisión, Prensa escrita, Iniciativa Privada y Organizaciones Sociales que coadyuven a la difusión de los programas y campañas que instrumenten.
 
 ###### Artículo 42.
 
-La Comisión, en coordinación con las instituciones de educación superior y de investigación del Estado, nacionales e internacionales, implementará los proyectos de investigación aplicada, para la búsqueda de mejores alternativas en la solución de la problemática forestal en la Entidad.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 43.
 
-Mediante la celebración de acuerdos y convenios de cooperación en materia forestal, con organismos locales, nacionales e internacionales, la Comisión propiciará la transferencia de tecnologías innovadoras para el logro del desarrollo sustentable de los recursos forestales de la Entidad.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 #### Sección VII. La Vigilancia e Información Ecológica
 
@@ -997,11 +965,11 @@ I. El Ordenamiento Ecológico del Estado;
 
 II. Los programas de desarrollo urbano estatal y municipal;
 
-III. La planeación y ejecución de campañas de reforestación;
+III. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
 IV. Los aprovechamientos cinegéticos y de la flora silvestre; y,
 
-V. Las autorizaciones y permisos de aprovechamiento de los recursos naturales.
+V. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 52.
 
@@ -1017,23 +985,23 @@ Para efectos de preservar y restaurar el equilibrio ecológico, el Titular del P
 
 ###### Artículo 55.
 
-La Comisión solicitará a las dependencias y entidades federales y estatales, ayuntamientos, industriales forestales y organizaciones sociales, su participación en la elaboración del Programa de Reforestación del Estado, que contemplará la reforestación de las zonas rural, urbana y suburbana, con las especies más adecuadas para no alterar los ecosistemas.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 56.
 
-La Comisión procurará que para la recolección de partes vegetativas forestales en la Entidad, se cumplan los requisitos de las normas oficiales aplicables por parte de las personas físicas o morales e instituciones públicas o privadas que se dediquen a esa actividad.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 57.
 
-La Comisión, en coordinación con las autoridades federales, estatales y municipales, así como con propietarios o poseedores de terrenos forestales, llevará a cabo los convenios para la ejecución del Programa de Reforestación del Estado.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 58.
 
-Cuando se detecten procesos de degradación, desertificación o posibles desequilibrios ecológicos en terrenos forestales o de aptitud preferentemente forestal, la Comisión elaborará y ejecutará los programas de restauración pertinentes, realizando todas aquellas acciones que se requieran para la evolución y continuidad de los procesos biológicos. En la ejecución de estas acciones solicitará la participación de las autoridades correspondientes.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 59.
 
-La Comisión promoverá la celebración de convenios y/o acuerdo con los propietarios o poseedores de predios, donde la Comisión haya realizado actividades forestales con propósitos de conservación, restauración, actividades de reforestación y las prácticas de agroforestería, quienes en los términos que al efecto se establezcan, estarán obligados a la protección de las mismas, debiendo proporcionarles los cuidados y labores silviculturales necesarias hasta que la planta alcance la talla para su aprovechamiento.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ### Capítulo II. Del Fomento y la Protección Forestal
 
@@ -1041,237 +1009,129 @@ a) De la Autoridad Forestal
 
 ###### Artículo 60.
 
-La aplicación de las disposiciones de esta Ley, que tengan relación con los recursos forestales del Estado, corresponderá a la Comisión.
-
-La Comisión propiciará la participación del Consejo Consultivo Técnico Forestal, en la aplicación de las políticas forestales del Estado, y sus acuerdos siempre se tomarán en cuenta para la realización de las mismas.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 61.
 
-El Titular del Poder Ejecutivo del Estado fomentará la celebración de convenios y/o acuerdos con el Gobierno Federal, con el objeto de que las dependencias y entidades federales competentes transmitan oportunamente la información que requiera la Comisión para organizar y operar el Padrón Forestal del Estado.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 62.
 
-El contenido y la determinación del funcionamiento del Padrón Forestal del Estado, se establecerán en las disposiciones que para tal efecto emita la Comisión.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 63.
 
-La Comisión recabará entre las personas físicas y morales vinculadas al sector forestal en el Estado, los datos, estadística y otros elementos complementarios a los que obren en los archivos de las dependencias y entidades, para integrarlos al Padrón Forestal del Estado.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 64.
 
-La Comisión, en base al Padrón Forestal del Estado, podrá expedir constancias de los datos que existan en sus archivos, previa solicitud de los interesados y del pago respectivo de los derechos que se causen.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 65.
 
-El Titular del Poder Ejecutivo del Estado promoverá la constitución de un Fondo para el Desarrollo forestal del Estado, cuyo objetivo será la obtención de recursos para la elaboración de proyectos relacionados con el fomento, protección y restauración de los recursos forestales y faunísticos, para lo cual, se promoverá la participación de los tres niveles de gobierno, organizaciones no gubernamentales, industriales y productores forestales, involucrados en la actividad forestal.
-
-El funcionamiento y administración del fondo, se determinarán en los instrumentos legales que se celebren para tal efecto.
-
-El patrimonio del fondo se integrará con los bienes, derechos y obligaciones que le sean transmitidos o que adquiera por cualquier título legal.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 b) De la Planeación, Desarrollo Forestal y del Aprovechamiento de los Recursos Forestales.
 
 ###### Artículo 66.
 
-El Titular del Poder Ejecutivo promoverá ante las dependencias y entidades competentes, el establecimiento y funcionamiento de una ventanilla única para asuntos forestales, con la finalidad de otorgar agilidad a la atención de los mismos, propiciar el intercambio de información y apoyar la coordinación en esta materia, entre las autoridades federales y estatales.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 67.
 
-La Comisión coadyuvará con la dependencia o entidad federal competente, emitiendo opinión fundada dentro del término de 15 días hábiles, contados a partir de la recepción de la solicitud de autorización de aprovechamiento de recursos forestales, a fin de que la instancia federal emita la resolución correspondiente. En el caso de solicitudes para autorizaciones en selvas o de especies de difícil regeneración, el término para emitir la opinión fundada, será de 40 días hábiles.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 68.
 
-Los interesados en aprovechar resina de pino, para los efectos de registro y de la emisión de opinión fundada por parte de la Comisión, deberán presentar copia del aviso presentado ante la autoridad federal competente.
-
-d) De los Servicios Técnicos Forestales
-
-###### Artículo 69.
-
-La Comisión promoverá el establecimiento de plantaciones que tengan como propósito fines comerciales, dendroenergéticos y para la producción de maderas de uso artesanal, siempre y cuando no sea con especies que alteren el ecosistema. Los titulares de las autorizaciones le deberán presentar un informe anual de la forestación correspondiente.
-
-e) De la Infraestructura Caminera Forestal.
-
-###### Artículo 70.
-
-Las personas físicas y morales que presten servicios técnicos forestales en la Entidad, para elaborar y dirigir la ejecución técnica de los programas de manejo forestal, deberán registrarse en el Padrón Forestal del Estado.
-
-Para su registro los prestadores de servicios técnicos forestales, presentarán la siguiente documentación:
-
-I. Copia de los documentos y requisitos establecidos por el Artículo 77 del Reglamento de la Ley Forestal;
-
-II. Copia del certificado de inscripción del Registro Forestal Nacional; y,
-
-III. Nombre y curriculum vitae de los profesionistas forestales que en sustitución del responsable técnico y bajo su dirección, podrán marcar el arbolado a derribar, conforme a los programas de manejo autorizados.
-
-En un plazo de cinco días hábiles contados a partir de la solicitud, se expedirá el certificado de inscripción al Padrón Forestal del Estado o se emitirá la resolución respectiva, que se hará del conocimiento de la autoridad competente, para los efectos procedentes.
-
-El Titular del Poder Ejecutivo por conducto de la Comisión, en coordinación con las autoridades federales, promoverá la organización, planeación o mejoramiento de los servicios técnicos forestales, mediante la promoción de unidades de manejo forestal, conforme a lo previsto en las disposiciones aplicables.
-
-La Comisión podrá prestar asesoría técnica en la elaboración de programas de manejo forestal, así como desarrollar actividades de capacitación y apoyar la contratación de servicios técnicos privados.
-
-La evaluación y control de los servicios técnicos forestales se realizará a través de las actividades de vigilancia que realice la Comisión, en coordinación con las autoridades federales competentes.
-
-###### Artículo 71.
-
-La Comisión llevará a cabo la evaluación de los servicios técnicos, mediante la revisión de las siguientes actividades que se originen con la prestación de ese servicio:
-
-I. Los programas de manejo forestal, conforme a lo previsto en este ordenamiento legal, y en la Ley Forestal y su reglamento;
-
-II. La dirección, ejecución y evaluación de los programas de manejo forestal, que deberán sujetarse a las disposiciones técnicas aplicables y a las normas oficiales mexicanas;
-
-III. Los ajustes y modificaciones de los programas de manejo;
-
-IV. Los informes técnicos previstos en esta Ley, en la Ley Forestal y su reglamento;
-
-V. Las relaciones de marqueo, que deberán ser presentadas conforme a lo establecido por esta Ley, la Ley Forestal y su reglamento;
-
-VI. La aplicación correcta de los tratamientos silvícolas y complementarios;
-
-VII. La mitigación de los impactos ambientales;
-
-VIII. La comprobación de las medidas para prevenir y combatir incendios, plagas y enfermedades forestales;
-
-IX. El establecimiento de plantaciones de forestación y reforestación, así como las medidas de conservación y restauración de suelos, flora y fauna; principalmente aquellas que están contempladas en los programas de manejo respectivos;
-
-X. El trazo y construcción de caminos para la extracción de materias primas, sin ocasionar impactos severos en el equilibrio ecológico de los predios; y,
-
-XI. La elaboración de avisos de aprovechamiento de recursos forestales no maderables.
-
-Las relaciones de marqueo a que se refiere la fracción V de este artículo, deberán contener la siguiente información:
-
-a) La denominación y clave de predio;
-
-b) El número y fecha del oficio de autorización de aprovechamiento y nombre del titular;
-
-c) El número de árboles marcados y categoría diamétrica, así como el tratamiento silvícola que se este aplicando;
-
-d) El volumen de metros cúbicos que ampara la relación y el total acumulado;
-
-e) El nombre y firma del responsable técnico, así como sus números de inscripción en el Registro Nacional Forestal y en el Padrón Forestal del Estado; y,
-
-f) Nombre y firma del titular del aprovechamiento, manifestando su conocimiento y conformidad con el marqueo realizado.
-
-El incumplimiento de cualquiera de las actividades previstas en este artículo, será motivo de la suspensión temporal o cancelación definitiva de la inscripción del responsable técnico en el Padrón Forestal del Estado, independientemente de las responsabilidades en que incurra con su desacato.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 c) De las Plantaciones Forestales Comerciales
 
+###### Artículo 69.
+
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
+
+d) De los Servicios Técnicos Forestales
+
+###### Artículo 70.
+
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
+
+###### Artículo 71.
+
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
+
+e) De la Infraestructura Caminera Forestal.
+
 ###### Artículo 72.
 
-Los titulares de programas de aprovechamiento de recursos forestales, en la construcción y mantenimiento de caminos secundarios y vías de saca, se sujetarán a las disposiciones que les imponga la Comisión, las normas oficiales mexicanas y demás ordenamientos jurídicos aplicables. Debiendo esta dependencia supervisar los proyectos de construcción de los mismos, antes del inicio del aprovechamiento, con la finalidad de preservar dichos recursos.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 73.
 
-La Comisión, con el apoyo de las instancias federales, estatales y municipales, y con la participación de los productores e industriales forestales, elaborará el proyecto rector de caminos forestales, constituido por caminos principales, secundarios y vías de saca, que comuniquen a los macizos forestales con los centros industriales forestales de transformación primaria. Dicho proyecto, será enviado a la autoridad federal competente para que en su caso, se considere en las autorizaciones de los programas de manejo forestal.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 74.
 
-El desacato a lo establecido en los preceptos legales anteriores, podrá generar que la Comisión solicite a la autoridad competente, la revocación o suspensión temporal de la autorización del programa de manejo, independientemente de las sanciones administrativas a que haya lugar.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 f) Del Abastecimiento e Industrial Forestal
 
 ###### Artículo 75.
 
-A efecto de fortalecer y desarrollar la industria estatal, la Comisión elaborará el proyecto de abastecimiento de materia prima forestal, dictando las normas y procedimientos a los que se han de sujetar; así como la organización y mejoramiento de la industria forestal, incluyendo estudios de financiamiento y de mercados.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 76.
 
-La Comisión operará el Sistema de Ordenación del Abasto y de la Industria Forestal del Estado.
-
-Los titulares de autorizaciones de aprovechamiento forestal y de forestación, los productores de no maderables, así como los propietarios o representantes legales de los centros de transformación o de almacenamiento de materias primas forestales, estarán obligados a proporcionar los documentos e información que se les requiera para la instrumentación de este Sistema.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 77.
 
-Las personas físicas o morales que se dediquen a la transformación o almacenamiento de materias primas forestales en la Entidad, así como todos aquellos que pretendan instalar y operarlos, deberán solicitar su inscripción al Padrón Forestal del Estado, independientemente de lo que determinen otras disposiciones, proporcionando lo siguiente:
-
-I. Datos particulares:
-
-a) Denominación o razón social del centro de transformación y/o almacenamiento;
-
-b) Nombre del propietario y del representante legal, en su caso, y número del Registro Federal de Contribuyentes;
-
-c) Domicilio fiscal y domicilio social del centro de transformación y/o almacenamiento;
-
-d) Número de inscripción en el Registro Forestal Nacional;
-
-e) Giro o giros del establecimiento, determinados por las materias primas a procesar y/o almacenar, así como por el producto beneficiado a obtener;
-
-f) Descripción de la maquinaria, planos de instalación, diagramas de flujos de las materias primas, utilizando para dicha descripción, unidades de medida del sistema métrico decimal;
-
-g) La capacidad por turno de ocho horas, tomando como base las características de la maquinaria instalada y el flujo de las materias primas; y,
-
-h) El abastecimiento de materias primas que dispone el centro de referencia, especificando el producto, cantidad o volumen contratado, predio de donde procede la materia prima, fecha y número de autorización de aprovechamiento, así como el nombre del titular.
-
-II. Documentos que deben anexarse en forma certificada:
-
-a) En el caso de personas morales, acta constitutiva inscrita en los registros correspondientes;
-
-b) Copia de los contratos de compra-venta de materias primas forestales, señalando específicamente los productos y volúmenes que componen el abastecimiento del centro;
-
-c) Documento que acredite la propiedad o posesión originaria o derivada del predio; y,
-
-d) Copia del certificado de inscripción en el Registro Forestal Nacional.
-
-III. Documentos que debe presentar en copia simple, mostrando el original para su cotejo:
-
-a) Identificación oficial con fotografía y firma del solicitante; y,
-
-b) Tratándose de ejidos y comunidades o de personas morales, el acta de asamblea en la que conste el nombramiento del administrador o directivo y/o el poder general para representar legalmente a la empresa, según el caso.
-
-La Comisión tendrá un plazo de 30 días hábiles para resolver respecto a las solicitudes de inscripción de los centros referidos, en caso favorable, otorgará el certificado de inscripción correspondiente, asignándole su clave de inscripción.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 78.
 
-Las autorizaciones de instalación y funcionamiento que otorgue el Padrón Forestal del Estado, sólo podrán ser transferidos a terceras personas, previa autorización de éste, siempre que el adquirente asuma las obligaciones del cedente y cumpla con los requisitos de las disposiciones aplicables.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 79.
 
-Los centros de transformación y/o almacenamiento de materias primas forestales que no cuenten con su inscripción en el Padrón Forestal del Estado, no podrán instalarse, ni funcionar, y su propietario o representante legal será sujeto a la sanción administrativa que la Comisión le imponga de conformidad con esta Ley o sus disposiciones reglamentarias; asimismo podrá proceder la clausura temporal, parcial o definitiva del establecimiento, por parte de la autoridad competente.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 80.
 
-La Comisión promoverá la celebración de convenios con los productores forestales estatales que vendan madera en rollo o en escuadría fuera del Estado, para procurar que se destine cuando menos el veinte por ciento del total del volumen autorizado al aprovechamiento forestal, para abastecer las necesidades de materia prima de la industria forestal instalada en la Entidad.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 81.
 
-En la elaboración de cajas de empaque y tarimas industriales, se utilizará única y exclusivamente madera en rollo de cortas dimensiones.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 82.
 
-Para los efectos de esta Ley, la madera en rollo de largas dimensiones será considerada como trocería comercial, con diámetros mínimos de 25 centímetros y una longitud mínima de 2.52 metros; como madera en rollo de cortas dimensiones, la que tenga un diámetro mínimo de 10 y máximo de 25 centímetros y una longitud máxima de 1.20 metros; como material celulósico, los productos descortezados con diámetro máximo de 15 centímetros y longitud de 60 centímetros y 1.20 metros; y como brazuelo o leñas para combustible, la madera que tenga diámetros que fluctúen entre 2 y 10 centímetros y una longitud hasta de 1.20 metros. El resto del árbol, las hojas y ramillas se tienen como desperdicio y éste deberá desmenuzarse y esparcirse en el área de corta.
-
-Los que realicen actividades de trituración de productos forestales maderables, tales como astilladoras y otras similares, sólo deberán utilizar como materia prima para la elaboración de sus productos, la leña de brazuelos y los desperdicios del proceso de aserrío, para lo cual se prohibe utilizar cualquier producto forestal maderable en rollo.
-
-Las actividades de elaboración de productos forestales maderables, tales como derribo, troceo de fustes y arrime, se ajustarán a las medidas y normas que se establezcan en el programa de manejo forestal respectivo.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 83.
 
-Para la transportación de materias primas forestales maderables y no maderables, los productores forestales y todos aquéllos que se dediquen a esas actividades en el Estado, deberán obtener de la Comisión, los formatos autorizados para acreditar la legal procedencia de dichos productos, así como de la remisión correspondiente. Para tal efecto, la Comisión, en coordinación con las autoridades competentes, instrumentará los mecanismos y procedimientos para la verificación y, en su caso, aplicación de las sanciones que correspondan, de acuerdo a su competencia.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 84.
 
-En los aprovechamientos forestales maderables o no maderables, el titular del aprovechamiento y el prestador de servicios técnicos, deberán cubicar y documentar los productos a transportar.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 85.
 
-Los permisionarios de aprovechamientos forestales maderables y los productores de no maderables, deberán rendir informe cada tres meses a la Comisión, de los productos extraídos con cargo a su autorización o aviso de aprovechamiento, llenando para tal efecto los formatos que se les proporcione.
-
-De igual manera, deberán presentar copia de los avisos de aprovechamiento, remisiones forestales, facturas y/o documentos de venta y registros de existencia.
-
-Al término de la anualidad, el permisionario junto con el prestador de servicios técnicos, deberá rendir un informe del aprovechamiento realizado, citando relaciones de marqueo, documentación de transporte utilizada y demás información que la Comisión considere conveniente recabar.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 86.
 
-Todas las personas físicas o morales que se dediquen a la transformación de productos forestales maderables y no maderables, deberán llevar un libro de registro, en donde se inscribirán fechas de embarques recibidos, de sus salidas, volúmenes por especie, consignatario y número de la anualidad autorizada.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 87.
 
-La Comisión promoverá el establecimiento de centros de acopio para el abastecimiento a los artesanos, en base a convenios que se celebren entre las organizaciones de artesanos de las diferentes regiones, con los productores forestales.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 88.
 
-La Comisión formulará proyectos y programas de difusión para eficientar el uso de leñas en las áreas rurales destinadas a la cocción de alimentos, panaderías, tortillerías, y de todos aquellos talleres que empleen este tipo de combustible.
-
-Las tabiqueras sólo podrán utilizar aserrín, hojas, ramillas y desperdicio forestal.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ### Capítulo III. Del Uso Racional del Agua
 
@@ -1423,17 +1283,23 @@ c) Las disposiciones, programas y lineamientos técnicos para la conservación, 
 
 d) Las actividades de extracción de materiales del suelo y del subsuelo; la exploración, explotación, beneficio y aprovechamiento de sus minerales, que no sean de competencia federal.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 97.
 
-La Sedagro, la Secretaría y la Comisión, en el ámbito de sus competencias, supervisarán que en el territorio estatal las actividades agropecuarias y forestales se realicen aplicando las disposiciones de esta Ley, en materia de conservación, restauración, recuperación y cambio de uso de los suelos.
+La Sedagro y la Secretaría, en el ámbito de sus competencias, supervisarán que en el territorio Estatal las actividades agropecuarias se realicen aplicando las disposiciones de esta Ley, en materia de conservación, restauración, recuperación y cambio de uso de los suelos agropecuarios y urbanos.
 
-###### Artículo 98.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2004)</small>
 
-Para el otorgamiento de autorizaciones de cambio de uso del suelo, se deberán presentar los estudios de impacto y riesgo ambientales respectivos, los que deberán ser presentados ante la Sedagro, la Secretaría o la Comisión, según se trate de la actividad que motiva dicho cambio, las que resolverán lo procedente en los términos de las disposiciones aplicables.
+###### Articulo 98.
 
-###### Artículo 99.
+Para el otorgamiento de autorizaciones de cambio de uso del suelo agropecuario o urbano, se deberán presentar los estudios de impacto y riesgo ambientales respectivos, los que deberán ser presentados ante la Sedagro o la Secretaría, según se trate de la actividad que motiva dicho cambio, las que resolverán lo procedente en los términos de las disposiciones aplicables.
 
-El Titular del Poder Ejecutivo, instrumentará a través de la Sedagro, la Secretaría y la Comisión, programas y acciones de conservación, protección y restauración de la calidad de los suelos, adoptando técnicas agroecológicas, en coordinación con las autoridades federales y estatales competentes.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2004)</small>
+
+###### Articulo 99.
+
+El Titular del Poder Ejecutivo, instrumentará a través de la Sedagro programas y acciones de conservación, protección y restauración de la calidad de los suelos agropecuarios, adoptando técnicas agroecológicas, en coordinación con las autoridades Federales y Estatales competentes.
 
 ### Capítulo VI. De las Áreas Naturales Protegidas de Jurisdicción Estatal
 
@@ -1449,7 +1315,9 @@ I. Preservar los ambientes naturales dentro de las zonas de los asentamientos hu
 
 II. Salvaguardar la integridad genética de las especies silvestres que habitan en los centros de población y sus entornos, particularmente las endémicas, amenazadas o en peligro de extinción;
 
-III. Asegurar el aprovechamiento racional de los ecosistemas y sus elementos;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2004)</small>
+
+III. Asegurar el aprovechamiento racional de los ecosistemas y sus elementos que no estén considerados en otras leyes.
 
 IV. Proporcionar un campo propicio para la investigación científica, el estudio y monitoreo de los ecosistemas y su equilibrio y la educación sobre el medio natural;
 
@@ -1503,9 +1371,11 @@ El patrimonio del fondo se constituirá de conformidad con los lineamientos que 
 
 b) De las declaratorias de áreas naturales protegidas en el Estado
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 108.
 
-Las áreas naturales protegidas se establecerán mediante declaratoria que expida el Titular del Poder Ejecutivo del Estado, conforme a esta Ley y a las demás disposiciones aplicables, según proceda, previo estudio técnico que se elabore en los términos que emita la Secretaría, la que coordinará dicho estudio con la participación de los ayuntamientos que corresponda, las dependencias federales y estatales competentes y, en su caso, los sectores público y social.
+Las áreas naturales protegidas se establecerán mediante declaratoria que expida el Titular del Poder Ejecutivo del Estado, conforme a esta Ley y a las demás disposiciones aplicables, según proceda, previo estudio técnico que se elabore en los términos que emita la Secretaría, la que coordinará dicho estudio con la participación de los ayuntamientos que corresponda, las dependencias y entidades federales y estatales competentes y, en su caso, los sectores público y social.
 
 ###### Artículo 109.
 
@@ -1573,137 +1443,95 @@ Los notarios públicos sólo podrán autorizar las escrituras públicas, actos, 
 
 ###### Artículo 117.
 
-La Comisión supervisará, coordinar y ejecutará acciones para la prevención y control de los incendios forestales, así como la restauración de las áreas afectadas por los mismos, promoviendo la participación de las demás dependencias federales, estatales y/o ayuntamientos, organizaciones no gubernamentales y sociedad en general.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 118.
 
-Los propietarios y poseedores de terrenos forestales y de aptitud preferentemente forestal, así como sus colindantes y quienes realicen el aprovechamiento o la transformación de recursos forestales maderables o no maderables, tienen la obligación de realizar trabajos para la prevención y control de incendios forestales, en los términos de las normas oficiales mexicanas aplicables y las demás que establezca esta Ley.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 119.
 
-La Comisión formulará y aplicará el Programa Anual para la Prevención y Combate de los Incendios Forestales, del cual se derivarán las siguientes acciones:
-
-I. La formación de brigadas de divulgación, para la concientización de la población rural en el uso del fuego como herramienta en actividades agropecuarias, de acuerdo a las disposiciones de la Ley Forestal y su reglamento, las normas oficiales mexicanas y la presente Ley, así como las actividades necesarias para la prevención de los incendios forestales;
-
-II. La capacitación de comunidades rurales, en la utilización de técnicas agrícolas, que permitan el empleo de material orgánico en la fertilización de sus tierras; y,
-
-III. El fomento del cultivo de veza de invierno y avenas en los terrenos colindantes a bosques y selvas y en áreas de alto riesgo de incendios forestales, para establecer barreras naturales contra la propagación de éstos.
-
-La Comisión formulará y ejecutará el Programa Estatal Anual de Restauración de Areas Afectadas por Incendios Forestales.
-
-Las dependencias y entidades estatales y/o los ayuntamientos, coadyuvarán con la Comisión en la aplicación de los programas a que se refiere este artículo.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 120.
 
-Las organizaciones agropecuarias, así como propietarios y poseedores de terrenos forestales tendrán la obligación en la temporada de estiaje de solicitar de la Comisión su intervención, para que ésta brinde asesoría y apoyo en sus quemas.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 121.
 
-Los ayuntamientos con el apoyo técnico de la Comisión deberán integrar, constituir, operar y mantener permanentemente, durante la época de estiaje, brigadas para el combate y control de incendios, así como la integración de grupos voluntarios para la prevención, combate y control de los mismos, proveyendo a éstos, de los recursos materiales y del apoyo económico necesario para su operación.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 122.
 
-Los titulares de aprovechamientos de recursos forestales y los prestadores de servicios técnicos forestales, tendrán la obligación de establecer brigadas de prevención y combate de incendios forestales, debiendo realizar durante el periodo que contemple el programa de manejo, las siguientes acciones:
-
-Para los Titulares:
-
-I. La apertura de brechas corta fuego;
-
-II. El mantenimiento de brechas corta fuego y de saca; y,
-
-III. La limpia de desperdicios y malezas.
-
-Para los Prestadores de Servicios Técnicos:
-
-I. Hacer cumplir las condicionantes impuestas al permisionario en la autorización de aprovechamientos de recursos forestales; en caso de contravención a las disposiciones de la materia, deberá comunicar lo procedente a la Comisión para que ésta actúe, en los términos de las disposiciones de esta Ley y de sus reglamentos. La omisión implicará responsabilidad solidaria en tal infracción;
-
-II. Capacitar a las brigadas que para tal efecto se formen; y,
-
-III. Realizar la divulgación forestal tendiente a la prevención de incendios forestales, en el área de influencia del aprovechamiento.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 123.
 
-Están obligados a la ejecución de los trabajos de prevención, combate y control de los incendios forestales, las siguientes personas:
-
-I. Los propietarios o poseedores de terrenos forestales o de aptitud preferentemente forestal y sus colindantes;
-
-II. Los titulares de autorizaciones de aprovechamiento de recursos forestales, de forestación y reforestación;
-
-III. Todos los que realicen actividades agropecuarias y cualquier otra actividad en terrenos forestales o de aptitud preferentemente forestal, haciendo uso del fuego; y,
-
-IV. Todas aquellas personas físicas o morales que participen en la transformación de la materia prima proveniente de los aprovechamientos de recursos forestales.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 124.
 
-La prevención, combate y control de los incendios forestales en la Entidad, son de orden público e interés social, por lo que el Titular del Poder Ejecutivo a través de la Comisión gestionará, ante aquellas personas físicas o morales involucradas en la actividad forestal, una aportación voluntaria con la finalidad de integrar un fondo especial que se destinará a las actividades mencionadas.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 125.
 
-En todas las áreas forestales afectadas por incendios en las que resulte arbolado muerto éste podrá ser susceptible de extracción y comercialización, mediante la intervención de la Comisión ante la autoridad competente para su autorización, siempre y cuando se establezca un convenio entre el propietario o poseedor con el organismo referido, para la restauración y protección del área siniestrada. Para tal efecto, la Comisión notificará al dueño o poseedor del área afectada, en la que se establecerá el plazo para su realización.
-
-Si al vencimiento de la vigencia de la notificación, no se han realizado los trabajos mencionados, la Comisión en acuerdo con los dueños o poseedores de los terrenos, tendrá la facultad de realizar la extracción y comercialización del arbolado muerto, comprometiéndose el producto de esto último, a la protección y restauración del área siniestrada.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 a) De la Sanidad Forestal
 
 ###### Artículo 126.
 
-La Comisión formulará y aplicará el Programa de Sanidad Forestal del Estado, que se integrará por un conjunto de normas y lineamientos que sustentarán la ejecución de acciones encaminadas a la detección, prevención, combate y control de plagas y enfermedades forestales en el Estado.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 127.
 
-Los propietarios o poseedores de terrenos forestales o de aptitud preferentemente forestal, así como los titulares de autorizaciones de aprovechamiento de recursos forestales y los prestadores de servicios técnicos forestales, cuando detecten la existencia de una plaga o enfermedad en sus predios, deberán hacerlo del conocimiento de la autoridad competente y simultáneamente comunicar lo propio a la Comisión para su supervisión.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 128.
 
-Cuando los trabajos de sanidad forestal no sean ejecutados por las personas a que se refiere el artículo anterior, y siempre que exista riesgo grave o de alteración o daños al ecosistema forestal de la región, la Comisión realizará los trabajos correspondientes con cargo a quienes debieron de ejecutarlos.
-
-En el caso de personas que carezcan de recursos para pagar los trabajos de sanidad forestal, éstos serán cubiertos con el producto de la subasta pública a que se someta la madera plagada o enferma de su predio.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 129.
 
-Los titulares de autorizaciones de aprovechamiento de recursos forestales, están obligados a suspender los trabajos respectivos, cuando se detecte la existencia de alguna plaga o enfermedad, hasta en tanto ésta no se haya combatido y exterminado.
-
-Al término del saneamiento, las personas a que se refiere este artículo, deberán presentar un informe a la Comisión, señalado la especie o especies y el volumen que hayan sido afectados por la plaga o enfermedad en su caso.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 b) De la Inspección y Vigilancia Forestal
 
 ###### Artículo 130.
 
-­ La Comisión integrará y operará el Servicio Estatal de Inspección y Vigilancia Forestal de Michoacán, el cual se constituirá bajo las normas y procedimientos que para tal efecto ésta emita, de conformidad con los convenios y/o acuerdos de coordinación que se celebren entre los gobiernos federal y estatal.
+­ (DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 131.
 
-La Comisión supervisará y evaluará los servicios técnicos forestales en coordinación con la dependencia o entidad federal competente, a través de inspecciones a los predios autorizados, con el objeto de llevar el seguimiento de la calidad de su prestación, de conformidad con las normas oficiales mexicanas y las condicionantes establecidas en las autorizaciones de aprovechamiento de recursos forestales, emitidas por la autoridad competente.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 132.
 
-La Comisión ubicará estratégicamente módulos de vigilancia forestal sobre las principales vías de acceso de la Entidad, con el objeto de revisar la transportación de materias primas forestales, maderables y no maderables, para hacer cumplir las disposiciones de esta Ley, la Ley Forestal y su reglamento, las normas oficiales mexicanas, los acuerdos y los convenios que en materia forestal se hayan celebrado.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 133.
 
-La Comisión establecerá campamentos forestales de guardabosques en las áreas forestales de la Entidad, quienes llevarán a cabo la organización y capacitación de los permisionarios, dueños y poseedores de recursos forestales, así como la evaluación y seguimiento de proyectos productivos forestales.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 134.
 
-Las motosierras para los efectos de esta Ley, se consideran como herramientas de alta tecnología cuyo uso indebido incrementa la tala inmoderada de los recursos forestales del Estado. Con la finalidad de salvaguardar el interés público, el registro, uso y tenencia de las motosierras que existan en las zonas sujetas a aprovechamientos forestales o en aquellas susceptibles de incorporarse a la producción forestal en la Entidad, serán objeto de regulación, de conformidad con las disposiciones que emita la Comisión, en las que se establecerá entre otras cosas, aquellos tipos que no les es aplicable dicha regulación.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 135.
 
-Los interesados podrán presentar su solicitud de registro, uso y tenencia de motosierras ante la Comisión o sus delegaciones regionales.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 136.
 
-No son objeto de regulación las motosierras que vayan en tránsito por el territorio estatal, que se trasladen desarticuladas y además, que el portador compruebe su destino con la documentación pertinente, así como tampoco las que se destinen única y exclusivamente para actividades agrícolas.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 137.
 
-El solicitante de un permiso de uso de motosierra, atendiendo al volumen autorizado y al rendimiento de la misma, propondrá a la Comisión el número requerido.
-
-Los permisos de uso de motosierras, serán para lugares específicos y por el término de un año, pudiendo prorrogarse.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ###### Artículo 138.
 
-Los propietarios y poseedores de terrenos forestales o de aptitud preferentemente forestal, tienen la obligación de cercar y abrir brechas cortafuego, para proteger las áreas de regeneración natural o de reforestación de los daños que causen el pastoreo y quemas agropecuarias, quedando prohibido terminantemente, el pastoreo de ganado caprino, debiendo hacer del conocimiento de la Comisión el desacato en que incurran otras personas al invadir con ganado sus propiedades.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2004)
 
 ### Capítulo II. De la Prevención y Control de la Contaminación del Agua de Jurisdicción Estatal y de los Ecosistemas Acuáticos
 
@@ -1803,31 +1631,39 @@ El otorgamiento de asignaciones, autorizaciones, concesiones o permisos para la 
 
 La Secretaría, con la participación que corresponda a las dependencias y entidades federales y estatales competentes, y con el apoyo de los ayuntamientos, realizará un monitoreo sistemático permanente de la calidad de las aguas de jurisdicción estatal para detectar la presencia de contaminantes o exceso de desechos orgánicos, y aplicará las medidas correspondientes en el ámbito de su competencia.
 
-### Capítulo III. De la Protección del Suelo
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE NOVIEMBRE DE 2004)</small>
+
+### Capítulo III. De la Protección del Suelo Agropecuario
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 150.
 
-La Sedagro realizará a través de sus distritos de desarrollo rural, los estudios, investigaciones, experimentaciones y demostraciones necesarias para determinar localmente los mejores métodos para conservar y proteger el recurso suelo, entre los que se incluirán los indispensables para evitar los cambios de los métodos y procedimientos de cultivo que aceleren la erosión.
+La Sedagro, con la participación que corresponda, realizará a través de sus distritos de desarrollo rural, los estudios, investigaciones, experimentaciones y demostraciones necesarias para determinar localmente los mejores métodos para conservar y proteger el recurso suelo agropecuario, entre los que se incluirán los indispensables para evitar los cambios de los métodos y procedimientos de cultivo que aceleren la erosión.
 
-Asimismo, promoverá la utilización de métodos y procedimientos agroecológicos en los cultivos, entre otros, la construcción de terrazas o bancales, presas, diques y bordos, la utilización de cultivos en fajas, en contorno, labranza de conservación, incorporación de residuos de cosecha, cultivos de cobertura, sistemas adecuados de riego, de revegetación con árboles y pastos, rotación de cultivos, control del pastoreo en suelos agrícolas, control de escurrimientos, cambio de uso del suelo, control de torrenteras, y en general, todas las medidas técnicas que sean aplicables a cada región, considerando el medio social y económico de sus habitantes.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 151.
 
-La Sedagro, la Comisión y la Secretaría formularán y aplicarán, en el ámbito de sus respectivas competencias, el Programa Estatal de Conservación, Restauración y Uso del Suelo, el cual deberán someter a la consideración del Titular del Poder Ejecutivo, en el seno de la Comisión Estatal de Ecología.
+La Sedagro y la Secretaría formularán y aplicarán, en el ámbito de sus respectivas competencias, el programa Estatal de conservación restauración y uso del suelo agropecuario y urbano, el cual deberán someter a la consideración del Poder Ejecutivo, en el seno de la Comisión Estatal de Ecología.
 
-Las dependencias y entidades estatales, que tengan relación con el sector agropecuario, coadyuvarán en la formulación y ejecución de este programa.
+Las Dependencias y Entidades que tengan relación con el sector agropecuario, coadyuvarán en la formulación y ejecución de este programa.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 152.
 
-La implantación de medidas o prácticas de conservación, restauración y protección del suelo, deberá realizarse empleando en primer lugar procedimientos educativos que tomen en consideración las características y condiciones socioeconómicas de los habitantes de las comunidades.
+La implantación de medidas o prácticas de conservación, restauración y protección del suelo agropecuario, deberá realizarse empleando en primer lugar procedimientos educativos que tomen en consideración las características y condiciones socioeconómicas de los habitantes de las comunidades.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 153.
 
-La Sedagro propondrá al Titular del Poder Ejecutivo del Estado, la celebración de acuerdos y/o convenios de coordinación con la Federación, municipios, organismos privados y productores agropecuarios para concertar recursos y acciones que promuevan la conservación y protección del suelo en el Estado.
+La Sedagro propondrá al Titular del Poder Ejecutivo del Estado, la celebración de acuerdos y/o convenios de coordinación con la Federación, municipios, organismos privados y productores agropecuarios para concertar recursos y acciones que promuevan la conservación y protección del suelo agropecuario en el Estado.
 
-La Sedagro y la Secretaría integrarán y operarán el Inventario Estatal de Areas y Zonas Erosionadas, que permitan obtener un diagnóstico actual para conocer el deterioro del suelo en las distintas regiones del Estado, para planear y ejecutar las acciones de conservación y restauración que garanticen el aprovechamiento sostenible y productivo del recurso.
+La Sedagro y la Secretaría integrarán y operarán el Inventario Estatal de Areas y Zonas Erosionadas agropecuarias, que permitan obtener un diagnóstico actual para conocer el deterioro del suelo en las distintas regiones del Estado, para planear y ejecutar las acciones de conservación y restauración que garanticen el aprovechamiento sostenible y productivo del recurso.
 
-La Sedagro y la Secretaría otorgarán permanentemente información, capacitación y orientación a los productores, técnicos y profesionistas del campo, sobre los métodos, procedimientos y formas de uso del suelo.
+La Sedagro y la Secretaría otorgarán permanentemente información, capacitación y orientación a los productores, técnicos y profesionistas del campo, sobre los métodos, procedimientos y formas de uso del suelo agropecuario.
 
 ### Capítulo IV. De la Prevención y Control de la Contaminación de la Atmósfera
 
@@ -2037,31 +1873,31 @@ Las violaciones que las personas físicas o morales cometan a las disposiciones 
 
 Se considerarán infracciones a esta Ley:
 
-I. No presentar los informes o avisos en tiempo y forma ante las autoridades estatales, de conformidad con lo dispuesto en esta Ley;
+I. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-II. Cambiar el medio de transporte al movilizar materias primas forestales, sin autorización de la dependencia oficial correspondiente;
+II. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-III. Incumplir con las restricciones y condicionantes ecológicas que se contemplan en los programas de manejo forestal de agua y suelo;
+III. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-IV. Obstaculizar al personal autorizado de la Comisión en la realización de las funciones de inspección y vigilancia forestal que le confiere esta Ley y el reglamento respectivo;
+IV. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-V. Carecer de la inscripción y autorización de uso de motosierras que otorgue la Comisión;
+V. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-VI. Desatender emergencias y/o contingencias ambientales, tales como incendios, plagas y enfermedades forestales, en desacato de mandamiento legítimo de la Comisión, conforme a las atribuciones que le otorga este ordenamiento legal;
+VI. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-VII. Degradar y/o eliminar parcial o totalmente áreas verdes;
+VII. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
 VIII. Degradar y/o eliminar parcial o totalmente zonas de preservación en centros urbanos;
 
-IX. Degradar y/o eliminar parcial o totalmente zonas de reserva ecológica o sujetas a protección especial;
+IX. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-X. Cambiar de domicilio o de giro los centros de transformación, almacenamiento o depósitos de productos forestales, modificar o adicionar maquinaria, modificar o cambiar las fuentes de abastecimiento, sin la autorización oficial correspondiente;
+X. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-XI. Realizar actividades agropecuarias sin acatar las disposiciones de esta ley en materia de conservación, restauración, recuperación y cambio de uso de suelo;
+XI. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-XII. Cambiar el uso del suelo, sin la autorización correspondiente, en aquellos casos que se atente irreversiblemente en contra de su vocación natural;
+XII. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
-XIII. Realizar quemas de residuos de cosechas, de huertos frutícolas y de agostaderos o praderas siempre y cuando esta actividad propicie la degradación de los suelos, de conformidad con las disposiciones aplicables;
+XIII. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
 XIV. Obstaculizar u oponerse al personal autorizado para la obtención de la información necesaria para la elaboración del Inventario Estatal de Areas y Zonas Erosionadas;
 
@@ -2089,9 +1925,11 @@ XXV. Arrojar basura, ácidos, combustibles o cualquier producto contaminante en 
 
 XXVI. Las demás acciones u omisiones que contravengan las disposiciones de esta Ley o su reglamentación.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 183.
 
-La Secretaría, la Comisión, Comapas, Sedagro o los ayuntamientos, intervendrán ante quien suministre servicios públicos, tales como energía eléctrica, agua u otros que requieran para su funcionamiento, los establecimientos que no satisfagan las disposiciones que les impone esta Ley y sus reglamentos, previamente o durante su funcionamiento cuando se detecte alguna irregularidad o incumplimiento, sin menoscabo de la imposición de las sanciones a que haya lugar, solicitarán, en su caso, la clausura definitiva o temporal, según sea la gravedad de la o las infracciones en que incurran.
+La Secretaría, Comapas, Sedagro o los Ayuntamientos, intervendrán ante quien suministre servicios públicos, tales como energía eléctrica, agua u otros que requieran para su funcionamiento, los establecimientos que no satisfagan las disposiciones que les impone esta Ley y sus Reglamentos, previamente o durante su funcionamiento cuando se detecte alguna irregularidad o incumplimiento, sin menoscabo de la imposición de las sanciones a que haya lugar, solicitaran, en su caso, la clausura definitiva o temporal, según sea la gravedad de la o las infracciones en que incurran.
 
 ###### Artículo 184.
 
@@ -2101,15 +1939,21 @@ Las sanciones serán:
 
 I. Multa que se determinará en los siguientes casos y montos:
 
-a) Con el equivalente de 100 a 3,000 días de salario mínimo general vigente en el Estado, en el momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones I, V, VI, VII, X, XI, XIII, XIV, XVI, XIX, XX, XXI y XXII del artículo 182 de esta Ley;
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2004)</small>
 
-b) Con el equivalente de 250 a 20,000 días de salario mínimo general vigente en el Estado, en el momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones II, III, IV, VIII, XII, XV, XVII, XVIII y XXIV del artículo 182 de esta Ley; y,
+a) Con el equivalente de 100 a 3,000 días de salario mínimo general vigente en el Estado, en el momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones XIV, XVI, XIX, XX, XXI Y XXII del artículo 182 de esta Ley;
 
-c) Con el equivalente de 500 a 40,000 días de salario mínimo general vigente en el Estado, en el momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones IX, XXIII y XXV del artículo 182 de esta Ley.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2004)</small>
 
-II.- Además de las multas que se establecen en la fracción anterior, se harán acreedores, en su caso, a la clausura temporal o definitiva, parcial o total de los establecimientos y/o la cancelación temporal o definitiva, parcial o total de las autorizaciones de aprovechamiento o uso, o de la inscripción registral, o de las actividades de que se trate, las personas físicas o morales que incurran en los supuestos previstos en las fracciones III, VI, VII, VIII, IX, X y XI del artículo 182 de esta Ley; y,
+b) Con el equivalente de 250 a 20,000 días de salario mínimo general vigente en el Estado, en el momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones XV, XVII, XVIII Y XXIV del articulo 182 de esta Ley; y,
 
-III.- Además de las sanciones que se establecen en las fracciones I y II, se harán acreedores, en su caso, al decomiso por parte de la autoridad, de las materias primas obtenidas, así como de los instrumentos, maquinaria, equipos y herramientas y/o los medios de transporte utilizados, las personas físicas o morales que incurran en los supuestos previstos en las fracciones del artículo 182 de esta Ley.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2004)</small>
+
+c) Con el equivalente de 500 a 40,000 días de salario mínimo general vigente en el Estado, en el momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones XXIII Y XXV del artículo 182 de esta Ley.
+
+II.- (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
+
+III.- (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2004)
 
 Las sanciones anteriores se aplicarán sin perjuicio de la responsabilidad penal que se derive de la comisión de dichas conductas.
 
@@ -2121,7 +1965,7 @@ Cuando la gravedad de la infracción lo amerite, de conformidad a lo que estable
 
 En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces el monto original impuesto, sin excederse del doble máximo permitido, así como la clausura o cancelación definitiva.
 
-En el caso de las sanciones impuestas por infracciones a esta Ley en materia forestal, la Comisión inscribirá de oficio lo correspondiente en el Padrón Forestal del Estado.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 22 DE NOVIEMBRE DE 2004)</small>
 
 ###### Artículo 185.
 
@@ -2143,9 +1987,11 @@ VI. La reincidencia.
 
 Cuando proceda como sanción la clausura o cancelación temporal o definitiva, total o parcial, el personal comisionado para ejecutarla procederá a levantar acta administrativa detallada de la diligencia, cumpliendo para ello los lineamientos generales establecidos en esta Ley para las inspecciones.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 187.
 
-La Secretaría, la Comisión o la autoridad municipal, podrá promover ante las autoridades federales, estatales o municipales competentes, sobre la base de los estudios que para tal efecto realice, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos o cualquier actividad que afecte o pueda afectar el ambiente o causar desequilibrio ecológico.
+La Secretaría o la autoridad municipal, podrán promover ante las autoridades Federales, Estatales o Municipales competentes, sobre la base de los estudios que para tal efecto realice, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos o cualquier actividad que afecte o pueda afectar el ambiente o causar desequilibrio ecológico.
 
 ###### Artículo 188.
 
@@ -2197,7 +2043,7 @@ VIII. La solicitud de suspensión del acto o resolución que le afecte, previa c
 
 Al recibir el recurso, la autoridad verificará si éste fue interpuesto en tiempo, admitiéndolo a trámite o rechazándolo.
 
-Para el caso de que lo admita, decretará la suspensión si fuese procedente, y desahogará las pruebas que procedan, en un plazo que no exceda de quince días hábiles contados a partir de la notificación del proveido de admisión.
+Para el caso de que lo admita, decretará la suspensión si fuese procedente, y desahogará las pruebas que procedan, en un plazo que no exceda de quince días hábiles contados a partir de la notificación del proveído de admisión.
 
 ###### Artículo 194.
 
@@ -2296,3 +2142,11 @@ DIPUTADO PRESIDENTE.- CENOBIO CONTRERAS ESQUIVEL.- DIPUTADA SECRETARIA.- MARÍA 
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 30 treinta días del mes de Marzo del año 2000 dos mil.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.-LIC. VICTOR MANUEL TINOCO RUBI.- EL SECRETARIO DE GOBIERNO.- LIC. JUAN BENITO COQUET RAMOS. (Firmados).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE NOVIEMBRE DE 2004.
+
+###### ARTICULO UNICO.
+
+El presente Decreto iniciará su vigencia a partir de los treinta días siguientes al día de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
