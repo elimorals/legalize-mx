@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1979-12-22"
+last_updated: "1979-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1979.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -385,7 +385,7 @@ Las autoridades judiciales o administrativas que embarguen o decomisen bienes a 
 
 ###### ARTICULO 41.
 
-La Tesorería General y sus organismos subalternos, en vista de las reclusiones que reciban y de las que dicten respecto de los depósitos cuya constitución hubiere exigido por propia determinación, de conformidad con lo establecido por el Código Fiscal declararán de oficio la caducidad y dispondrán de los depósitos respectivos aplicando su importe a beneficio del erario estatal. Cuando no sea posible determinar la fecha en que legalmente pueda exigirse su devolución o aplicación se tomará como base la de la constitución del depósito para los mismos efectos.
+La Tesorería General y sus organismos subalternos, en vista de las resclusiones que reciban y de las que dicten respecto de los depósitos cuya constitución hubiere exigido por propia determinación, de conformidad con lo establecido por el Código Fiscal declararán de oficio la caducidad y dispondrán de los depósitos respectivos aplicando su importe a beneficio del erario estatal. Cuando no sea posible determinar la fecha en que legalmente pueda exigirse su devolución o aplicación se tomará como base la de la constitución del depósito para los mismos efectos.
 
 DE LA OFICIALIA MAYOR
 
@@ -951,11 +951,15 @@ Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadam
 
 Serán días de descanso obligatorio los que señale el Calendario Oficial del Estado o así se determinen por acuerdo expreso del Gobernador.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE DICIEMBRE DE 1979)</small>
+
 ###### ARTICULO 94.
 
 Los trabajadores disfrutarán de un período anual de vacaciones, de veinte días en las fechas que se señalen al efecto. Para poder gozar de tal beneficio se requiere un mínimo de seis meses consecutivos de servicios o una antigüedad no menor de seis meses, en cuyo caso se le concederá la proporción correspondiente al período anual.
 
-Cuando por cualquier motivo un trabajador no pudiere hacer uso de las vacaciones en el período señalado, disfrutará de ellas durante los diez siguientes días a la fecha en que haya desaparecido la causa que impidiere el disfrute de ese descanso, pero en ningún caso los trabajadores que laboren en períodos de vacaciones tendrán derecho a doble pago de sueldos. Tampoco serán acumulables los sueldos o las vacaciones.
+Cuando por cualquier motivo un trabajador no pudiere hacer uso de las vacaciones en el período señalado, disfrutará de ellas durante los diez siguientes días a la fecha en que haya desaparecido la causa que impidiere el disfrute de este descanso, pero en ningún caso los trabajadores que laboren en períodos de vacaciones tendrán derecho a doble pago de sueldos. Tampoco serán acumulables los sueldos o las vacaciones.
+
+El trabajador tendrá derecho a que se le pague una prima no menor a dos días y medio de salario, al disfrutar cada período vacacional.
 
 ###### ARTICULO 95.
 
@@ -1985,7 +1989,7 @@ Las actas del Registro Civil sólo se asentarán en los libros a que se refiere 
 
 ###### ARTICULO 232.
 
-Si al terminar el año en curso quedaren en los libros hojas en blanco, seguirá actuándose en las restantes una vez que se haya asentado la razón correspondiente sobre el número de actas levantadas en el año concluido.
+Si al terminar el año en curso quedaren en los libros hojas en blanco, seguirá actuándose en las restantes una vez que se haya asentado la razón correspondiente sobre el número de actas levantadas en el año conluido.
 
 ###### ARTICULO 233.
 
@@ -10517,9 +10521,9 @@ ECONOMIA
 
 ## TITULO PRIMERO
 
-### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
+### CAPITULO VII. DE LAS CONURBACIONES
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1452.
 
@@ -10539,7 +10543,7 @@ VI.- Fundar y mantener organismos coordinados, establecimientos públicos descen
 
 ## TITULO SEGUNDO
 
-### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
+### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10611,9 +10615,9 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO VII. DE LAS CONURBACIONES
+### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1460.
 
@@ -10689,7 +10693,7 @@ Los notarios públicos y los funcionarios que actúen por receptoría sólo podr
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
+### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10979,13 +10983,13 @@ VII.- Intervenir en los casos a que se refiere el artículo 1491 en lo que afect
 
 VIII.- Las demás que les otorgue el presente título y las disposiciones legales relativas.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO II. DE LA RESPONSABILIDAD DE LOS ALTOS FUNCIONARIOS DEL ESTADO
 
 (REUBICADO, P.O. 5 DE FEBRERO DE 1977)
 
-#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
+#### SECCION QUINTA. DE LA VIVIENDA
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11111,11 +11115,9 @@ IV.- La duración.
 
 Los predios de las zonas incluidas en los artículos 1495 y 1500 de este Título, se podrán utilizar en forma compatible con su destino o uso previsto, hasta la fecha señalada en que deberán aplicarse dichos predios a los usos y destinos que la autoridad haya determinado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1502.
 
@@ -11127,9 +11129,13 @@ Para los efectos de este Título se entiende por estructura vial y sistema de tr
 
 En todo lo relativo a la estructura vial y sistema de transporte en el Estado, se estará a lo dispuesto por este Código, la Ley de Tránsito y el Código Municipal.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+(REUBICADA, P.O. 5 DE FEBRERO DE 1977)
 
-#### SECCION QUINTA. DE LA VIVIENDA
+DECIMA PRIMERA PARTE
+
+(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+
+#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11227,9 +11233,11 @@ También se considerarán ilegales la fusión, subdivisión, relotificación y f
 
 En los casos del artículo anterior, a solicitud del ayuntamiento el Programa de Desarrollo Urbano podrá intervenir en coordinación con aquél en la administración de los fraccionamientos, subdivisiones, relotificaciones o fusiones o en las operaciones celebradas con estos motivos.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEXTA. DEL MEJORAMIENTO
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS MUNICIPALES
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1515.
 
@@ -11269,9 +11277,9 @@ II.- A la introducción de los servicios públicos.
 
 Una vez determinados los jefes de familia beneficiados, la presidencia municipal otorgará los títulos de propiedad correspondientes, los que deberán inscribirse en el Registro Público de la Propiedad respectivo sin causar derechos al fisco del Estado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11317,7 +11325,7 @@ Para la construcción de viviendas deberá mediar solicitud del interesado ante 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS MUNICIPALES
+#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11361,7 +11369,7 @@ En el caso de que los propietarios o poseedores no cumplan con las obligaciones 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
+#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -11413,7 +11421,7 @@ V.- Medios para la satisfacción de la demanda; y
 
 VI.- Régimen financiero para la ejecución de la obra.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO III. DE LA RESPONSABILIDAD DE LOS DEMAS FUNCIONARIOS Y EMPLEADOS PUBLICOS
 
@@ -11431,7 +11439,7 @@ Se consideran afectos al patrimonio cultural del Estado: los edificios, monument
 
 Para la conservación del patrimonio a que se refiere el artículo anterior, el plan estatal y los reglamentos de este Título, considerarán las medidas y disposiciones que impiden el menoscabo o la degradación de dicho patrimonio, estableciendo disposiciones que reduzcan el empleo de idiomas, giros y modismos extranjeros, y que excluyan la adopción de estilos arquitectónicos, deformantes de los valores tradicionales de la ciudad.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO I. DE LAS COMPETENCIAS
 
@@ -11485,11 +11493,7 @@ Se atenderá el crecimiento de los centros de población mediante la determinaci
 
 A partir de la publicación de los planes de desarrollo urbano prevista en el artículo 1480, las áreas y predios en ellos comprendidos quedarán sujetos a las normas de la misma.
 
-(REUBICADA, P.O. 5 DE FEBRERO DE 1977)
-
-DECIMA PRIMERA PARTE
-
-(REUBICADO, P.O. 5 DE FEBRERO DE 1977)
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO II. DE LOS PROCEDIMIENTOS
 
@@ -12614,3 +12618,7 @@ Este decreto entrará en vigor al día siguiente de su publicación en el Perió
 P.O. 22 DE DICIEMBRE DE 1979.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1979.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
