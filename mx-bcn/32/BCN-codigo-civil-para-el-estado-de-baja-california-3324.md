@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1983-05-10"
+last_updated: "1983-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 1983.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -2861,7 +2861,7 @@ Cuando haya dos o más hijos, será preferido el que viva en compañía del padr
 
 ###### ARTICULO 486.
 
-Los padres son de derecho tutores de sus hijos, solteros o viudos, cuando éstos no tengan hijos que puedan desempeñar la tutela, debiéndose poner de acuerdo respecto a quién de los dos ejercerá el cargo.
+Los padres son de derecho tutores de sus hijos, solteros o viudos, cuando éstos no tengan hijos que puedan desempeñar la tutela, debiéndose poner de acuerdo respecto a quien de los dos ejercerá el cargo.
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 1975)</small>
 
@@ -11497,9 +11497,11 @@ Hay arrendamiento cuando las dos partes contratantes se obligan recíprocamente,
 
 El arrendamiento no puede exceder de diez años para las fincas destinadas a habitación; de quince para las fincas destinadas al comercio y de veinte para las fincas destinadas al ejercicio de una industria.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1983)</small>
+
 ###### ARTICULO 2273.
 
-La renta o precio del arrendamiento puede consistir en una suma de dinero o en cualquieraotra (sic) cosa equivalente, con tal que sea cierta y determinada.
+El precio del arrendamiento consistirá en la cantidad que en moneda de curso legal en nuestro País, convengan las partes.
 
 ###### ARTICULO 2274.
 
@@ -14944,3 +14946,7 @@ P.O. 10 DE MAYO DE 1983.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 SEGUNDO.- Los libros del Registro Civil que obren en el Archivo del Tribunal Superior de Justicia del Estado, deberán ser remitidos en un plazo no mayor de seis meses, al Archivo General del Departamento del Registro Civil.
+
+P.O. 10 DE JUNIO DE 1983.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
