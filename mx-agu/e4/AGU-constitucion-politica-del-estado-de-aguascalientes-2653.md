@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1985-06-02"
+last_updated: "1989-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JUNIO DE 1985.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 1989.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -289,17 +289,17 @@ El cargo de Diputado Propietario o Suplente en ejercicio, es incompatible con cu
 
 La infracción de esta disposición será sancionada con la pérdida de la investidura de Diputado.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1989)</small>
 
 ###### Artículo 23.
 
-El Congreso se instalará cada tres años, el 1o. de noviembre del año de la elección.
+El Congreso se instalará cada tres años, el 15 de noviembre del año de la elección.
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1989)</small>
 
 ###### Artículo 24.
 
-El Congreso tendrá cada año un Período Ordinario de Sesiones que comprenderá del 1o. de noviembre al 15 de marzo.
+El Congreso se reunirá cada año, del 15 de noviembre al 31 de enero para celebrar un primer período de sesiones ordinarias y del 15 de mayo al 31 de julio para celebrar un segundo período de sesiones ordinarias.
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 1977)</small>
 
@@ -657,9 +657,9 @@ II.- Presentar cada año al Congreso a más tardar el día 15 de diciembre, los 
 
 III.- Asistir a la apertura de los períodos ordinarios de sesiones del Congreso;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 1989)</small>
 
-IV.- Informar anualmente y por escrito al Congreso del Estado, el día 22 de octubre, en sesión especial convocada para ese objeto, sobre el estado general que guarde la Administración Pública Estatal.
+IV.- Informar anualmente y por escrito al Congreso del Estado, en la apertura del Primer Período de Sesiones Ordinarias, sobre el estado general que guarde la Administración Pública Estatal.
 
 V.- Pedir y dar informes al Congreso sobre cualquier ramo de la Administración, y al Supremo Tribunal sobre el de Justicia;
 
@@ -809,7 +809,7 @@ II.- Conocer, en los términos de esta Constitución de los procesos que por il�
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
-III.- Declarar si ha lugar a formación causa en contra de los Jueces, por ilícitos oficiales o del orden común.
+III.- Declarar si ha lugar a formación de causa en contra de los Jueces, por ilícitos oficiales o del orden común.
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
@@ -1476,3 +1476,13 @@ P.O. 2 DE JUNIO DE 1985.
 DECRETO NÚMERO 55, QUE REFORMA EL ARTÍCULO 52 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
 Unico.- El Supremo Tribunal de Justicia, sin perjuicio de lo dispuesto en el Artículo 30, Fracciones I y II de la Constitución Política del Estado, deberá promover dentro del plazo de nueve meses contados a partir de la vigencia del presente Decreto, la reforma de la Ley Orgánica del Poder Judicial en la parte conducente para proveer al exacto cumplimiento del presente Decreto. Mientras transcurre dicho plazo el Supremo Tribunal de Justicia acordará sobre la forma de su funcionamiento.
+
+P.O. 16 DE JULIO DE 1989.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado y serán dadas a conocer mediante Bando Solemne simultáneamente en todas las Cabeceras Municipales del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El ejercicio constitucional de la H. LIII Legislatura del Estado, concluirá al instalarse legalmente la H. LIV Legislatura.
