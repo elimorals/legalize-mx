@@ -4,7 +4,7 @@ identifier: "COA-ley-de-pensiones-y-otros-beneficios-sociales-para-los-16964"
 country: "mx"
 rank: "ley"
 publication_date: "1999-11-19"
-last_updated: "1999-11-19"
+last_updated: "2000-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COA"
 
 LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES DE LA EDUCACION PUBLICA DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2000.
 
-Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 19 de noviembre de 1999.
+Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 19 de noviembre de 1999.
 
 EL C. ROGELIO MONTEMAYOR SEGUY, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
 
@@ -1057,7 +1057,9 @@ T R A N S I T O R I O S
 
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado y será aplicable integralmente a los trabajadores que ingresen al Sistema Educativo Estatal a partir de la iniciación de la vigencia de esta ley.
 
-Para los trabajadores en servicio afiliados a la Dirección de Pensiones de los Trabajadores de la Educación, la presente ley iniciará su vigencia a partir del 1° de septiembre del año 2000.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2000)</small>
+
+Para los trabajadores en servicio afiliados a la Dirección de Pensiones de los Trabajadores de la Educación, la presente ley iniciará su vigencia a partir del 1°. de enero del año 2001.
 
 SEGUNDO. Los trabajadores que hayan ingresado a laborar en alguna de las entidades y organismos con anterioridad a la entrada en vigor de la presente ley, al momento de cumplirse los supuestos legales para el disfrute de cualesquiera de las pensiones, podrán acogerse a las disposiciones previstas en la presente ley o en aquellas de la Ley de Pensiones y otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila, publicada el 28 de junio de 1975 en el Periódico Oficial del Gobierno del Estado N° 52, así como a sus respectivas reformas, especialmente la que se refiere al derecho de gozar de una pensión dinámica vitalicia como se establece en el artículo 68 de dicho ordenamiento que textualmente señala: "Cada vez que los trabajadores reciban un aumento de sueldo, los pensionados y los beneficiarios recibirán a partir del 1° de enero de 1986 el 80%, a partir del 1° de enero de 1989 el 85%, a partir del 1° de enero de 1990 el 90%, a partir del 1° de enero de 1991 el 95% y a partir del 1° de enero de 1992 el 100% de la cantidad que constituye el aumento concedido al personal en servicio conforme a las categorías y proporcionalmente al porcentaje de la pensión dictaminada".
 
@@ -1138,3 +1140,11 @@ ROGELIO MONTEMAYOR SEGUY
 EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIEN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE AGOSTO DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
