@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "1972-04-24"
+last_updated: "1974-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ABRIL DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE ENERO DE 1974.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -694,6 +694,10 @@ Salario mínimo es la cantidad menor que debe recibir en efectivo el trabajador 
 
 El salario mínimo deberá ser suficiente para satisfacer las necesidades normales de un jefe de familia en el orden material, social y cultural, y para proveer a la educación obligatoria de los hijos.
 
+> <small>(ADICIONADO, D.O.F. 9 DE ENERO DE 1974)</small>
+
+Se considera de utilidad social el establecimiento de instituciones y medidas que protejan la capacidad adquisitiva del salario y faciliten el acceso de los trabajadores a la obtención de satisfactores.
+
 ###### Artículo 91.
 
 Los salarios mínimos podrán ser generales para una o varias zonas económicas, que pueden extenderse a una, dos o más Entidades Federativas, o profesionales, para una rama determinada de la industria o del comercio o para profesiones, oficios o trabajos especiales, dentro de una o varias zonas económicas.
@@ -718,11 +722,11 @@ Las Comisiones Regionales y la Comisión Nacional fijarán los salarios mínimos
 
 Los salarios mínimos profesionales regirán para todos los trabajadores de la rama de la industria o del comercio, de la profesión, oficio o trabajo especial considerado, dentro de una rama o varias zonas económicas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE ABRIL DE 1972)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE ENERO DE 1974)</small>
 
 ###### Artículo 97.
 
-Los salarios mínimos no podrán ser objeto de compensación, descuento o reducción salvo en los casos siguientes:
+Los salarios mínimos no podrán ser objeto de compensación, descuento o reducción, salvo en los casos siguientes:
 
 I. Pensiones alimenticias decretadas por la autoridad competente en favor de las personas mencionadas en el artículo 110, fracción V; y
 
@@ -733,6 +737,10 @@ II. Pago de rentas a que se refiere el artículo 151. Este descuento no podrá e
 > <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 1972)</small>
 
 III. Pago de abonos para cubrir préstamos provenientes del Fondo Nacional de la Vivienda, destinados a la adquisición, construcción, reparación o mejoras de casas habitación o al pago de pasivos adquiridos por estos conceptos. Estos descuentos deberán haber sido aceptados libremente por el trabajador y no podrán exceder del veinte por ciento del salario.
+
+> <small>(ADICIONADA, D.O.F. 9 DE ENERO DE 1974)</small>
+
+IV.- Pago de abonos para cubrir créditos garantizados por el Fondo a que se refiere el artículo 103-bis de esta Ley, destinados a la adquisición de bienes de consumo duradero o al pago de servicios. Estos descuentos deberán haber sido aceptados libremente por el trabajador y no podrán exceder del 10% del salario.
 
 ### CAPITULO VII. Normas Protectoras y Privilegios del Salario
 
@@ -758,9 +766,11 @@ El salario en efectivo deberá pagarse precisamente en moneda de curso legal, no
 
 Las prestaciones en especie deberán ser apropiadas al uso personal del trabajador y de su familia y razonablemente proporcionadas al monto del salario que se pague en efectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE ENERO DE 1974)</small>
+
 ###### Artículo 103.
 
-Los almacenes y tiendas en que se expenda ropa, comestibles y artículos para el hogar, podrán crearse por convenio entre los trabajadores y los patrones, de conformidad con las normas siguientes:
+Los almacenes y tiendas en que se expenda ropa, comestibles y artículos para el hogar, podrán crearse por convenio entre los trabajadores y los patrones, de una o varias empresas, de conformidad con las normas siguientes:
 
 I. La adquisición de las mercancías será libre sin que pueda ejercerse coacción sobre los trabajadores;
 
@@ -769,6 +779,12 @@ II. Los precios de venta de los productos se fijarán por convenio entre los tra
 III. Las modificaciones en los precios se sujetarán a lo dispuesto en la fracción anterior; y
 
 IV. En el convenio se determinará la participación que corresponda a los trabajadores en la administración y vigilancia del almacén o tienda.
+
+> <small>(ADICIONADO, D.O.F. 9 DE ENERO DE 1974)</small>
+
+###### Artículo 103
+
+bis. El Ejecutivo Federal, reglamentará la forma y términos en que se establecerá un Fondo de Fomento y Garantía para el Consumo de los Trabajadores, que otorgará financiamiento para la operación de los almacenes y tiendas a que se refiere el artículo anterior y garantizará, asimismo, créditos institucionales, baratos y oportunos, para la adquisición de bienes y el pago de servicios por parte de los trabajadores.
 
 ###### Artículo 104.
 
@@ -794,9 +810,11 @@ El pago del salario se efectuará en el lugar donde los trabajadores presten sus
 
 El pago deberá efectuarse en día laborable, fijado por convenio entre el trabajador y el patrón, durante las horas de trabajo o inmediatamente después de su terminación.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE ENERO DE 1974)</small>
+
 ###### Artículo 110.
 
-Los descuentos en los salarios de los trabajadores están prohibidos, salvo en los casos y con los requisitos siguientes:
+Los descuentos en los salarios de los trabajadores, están prohibidos salvo en los casos y con los requisitos siguientes:
 
 I. Pago de deudas contraídas con el patrón por anticipo de salarios, pagos hechos con exceso al trabajador, errores, pérdidas, averías o adquisición de artículos producidos por la empresa o establecimiento. La cantidad exigible en ningún caso podrá ser mayor del importe de los salarios de un mes y el descuento será el que convengan el trabajador y el patrón, sin que pueda ser mayor del treinta por ciento del excedente del salario mínimo;
 
@@ -813,6 +831,10 @@ IV. Pago de cuotas para la constitución y fomento de sociedades cooperativas y 
 V. Pago de pensiones alimenticias en favor de la esposa, hijos, ascendientes y nietos, decretado por la autoridad competente; y
 
 VI. Pago de las cuotas sindicales ordinarias previstas en los estatutos de los sindicatos.
+
+> <small>(ADICIONADA, D.O.F. 9 DE ENERO DE 1974)</small>
+
+VII. Pago de abonos para cubrir créditos garantizados por el Fondo a que se refiere el artículo 103-bis de esta Ley, destinados a la adquisición de bienes de consumo, o al pago de servicios. Estos descuentos deberán haber sido aceptados libremente por el trabajador y no podrán exceder del veinte por ciento del salario.
 
 ###### Artículo 111.
 
@@ -1004,11 +1026,15 @@ XXI. Proporcionar a los sindicatos, si lo solicitan, en los centros rurales de t
 
 XXII. Hacer las deducciones que soliciten los sindicatos de las cuotas sindicales ordinarias, siempre que se compruebe que son las previstas en el artículo 110, fracción VI;
 
-XXIII. Hacer las deducciones de las cuotas para la constitución y fomento de sociedades cooperativas y de cajas de ahorro, de conformidad con lo dispuesto en el artículo 110, fracción IV;
+XXIII.- Hacer las deducciones de las cuotas para la constitución y fomento de sociedades cooperativas y de cajas de ahorro, de conformidad con lo dispuesto en el artículo 110, fracción IV;
 
 XXIV. Permitir la inspección y vigilancia que las autoridades del trabajo practiquen en su establecimiento para cerciorarse del cumplimiento de las normas de trabajo y darles los informes que a ese efecto sean indispensables, cuando lo soliciten. Los patrones podrán exigir a los inspectores o comisionados que les muestren sus credenciales y les den a conocer las instrucciones que tengan; y
 
 XXV. Contribuir al fomento de las actividades culturales y del deporte entre sus trabajadores y proporcionarles los equipos y útiles indispensables.
+
+(REFORMADA [N. DE E. ADICIONADA], D.O.F. 9 DE ENERO DE 1974)(F. DE E., D.O.F. 10 DE ENERO DE 1974)
+
+XXVI. Hacer las deducciones previstas en las fracciones IV del artículo 97 y VII del artículo 110, y enterar los descuentos a la institución bancaria acreedora, o en su caso al Fondo de Fomento y Garantía para el Consumo de los Trabajadores. Esta obligación no convierte al patrón en deudor solidario del crédito que se haya concedido al trabajador.
 
 ###### Artículo 133.
 
@@ -1194,7 +1220,7 @@ El Ejecutivo Federal podrá establecer modalidades para facilitar la aportación
 
 El organismo que se cree para administrar los recursos del Fondo Nacional de la Vivienda, determinará las sumas que se asignarán al financiamiento de programas de casas habitación destinadas a ser adquiridas en propiedad por los trabajadores y los que se aplicarán para la adquisición, construcción, reparación o mejoras de dichas casas, así como para el pago de pasivos adquiridos por estos conceptos.
 
-Al efectuar la aplicación de recursos, se distribuirán equitativamente entre la distintas regiones y localidades del país, así como entre las diversas empresas o grupos de trabajadores.
+Al efectuar la aplicación de recursos, se distribuirán equitativamente entre las distintas regiones y localidades del país, así como entre las diversas empresas o grupos de trabajadores.
 
 Para el otorgamiento individual de los créditos se procederá en caso necesario conforme a un sistema de sorteos, en los términos que establezca la ley a que se refiere el artículo 139.
 
@@ -2352,7 +2378,7 @@ Queda prohibida la utilización de intermediarios. En el caso de la empresa que 
 
 ###### Artículo 317.
 
-Los patrones que den trabajo a domicilio deberán inscribirse previamente en el "Registro de patrones del trabajo a domicilio", que funcionará en la Inspección del Trabajo. En el registro constará el nombre y el domicilio del patrón para el que se ejecutará el trabajo y los demás datos que señalen los reglamentos respectivos.
+Los patrones que den trabajo a domicilio deberán inscribirse previamente en el "Registro del patrones de trabajo a domicilio", que funcionará en la Inspección del Trabajo. En el registro constará el nombre y el domicilio del patrón para el que se ejecutará el trabajo y los demás datos que señalen los reglamentos respectivos.
 
 ###### Artículo 318.
 
@@ -6955,3 +6981,9 @@ Las empresas que con anterioridad a esta ley estén otorgando cualquier prestaci
 ###### ARTICULO CUARTO.
 
 Por lo que toca a aquellos trabajadores que hayan adquirido en propiedad casas habitación antes de la reforma de esta Ley, en aplicación a las disposiciones contenidas en el Artículo 123 de la Constitución o en los contratos individuales y colectivos, las empresas estarán obligadas a aportar al Fondo Nacional de la Vivienda el equivalente al 60% correspondiente al depósito a que se refiere el Artículo 141, y en esa virtud los trabajadores seguirán siendo sujetos de crédito. No quedan comprendidas dentro de esta excepción, las empresas cuyos trabajadores de su salario hayan o estén pagando sus casas habitación. Los casos de controversia se resolverán por el organismo tripartita a que se refiere el artículo anterior.
+
+D.O.F. 9 DE ENERO DE 1974.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
