@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1947-08-20"
+last_updated: "1953-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE AGOSTO DE 1947.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1953.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -159,11 +159,17 @@ Los extranjeros residentes en el Estado, contribuirán para los gastos públicos
 
 Son nayaritas los que nazcan en Territorio del Estado, sea cual fuere la nacionalidad de sus padres.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
 
 ###### Art. 16.
 
-Son ciudadanos nayaritas, los vecinos del Estado que reúnan los requisitos que señala el Artículo 34º de la Constitución Política del País.
+Son Ciudadanos Nayaritas los varones y Mujeres Mexicanos por nacimiento o por naturalización que reúnan además los siguientes requisitos:
+
+I. Vecindad en el Estado con seis meses de residencia, por lo menos, dentro de su territorio;
+
+II. Haber cumplido dieciocho años de edad, si son casados; o 21 si no lo son, y
+
+III. Tener un modo honesto de vivir.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1947)</small>
 
@@ -1353,7 +1359,7 @@ Primero:- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 SEGUNDO:- Este Decreto comienza a surtir sus efectos a partir del día de su publicación.
 
-P.O. 11 DE SEPTIEMBRE DE 1935
+P.O. 11 DE SEPTIEMBRE DE 1935.
 
 Este Decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
 
@@ -1432,3 +1438,7 @@ UNICO.- El presente Decreto entrará en vigor el día primero de enero de mil no
 P.O. 20 DE AGOSTO DE 1947
 
 UNICO.- El presente Decreto entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE DICIEMBRE DE 1953
+
+UNICO.- La reforma a que se contrae el presente Decreto, surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
