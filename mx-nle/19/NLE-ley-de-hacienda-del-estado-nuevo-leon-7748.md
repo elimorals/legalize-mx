@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1985-12-30"
+last_updated: "1986-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1986.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -897,15 +897,17 @@ III.- Los empleados o funcionarios públicos que autoricen cualquier trámite de
 
 ### CAPITULO CUARTO. Del Impuesto sobre Herencias Legados y Donaciones
 
-ARTICUULUO (SIC) 113.- Las sucesiones abiertas y las donaciones realizadas con anterioridad a los Decretos del H. Congreso del Estado, de fecha 5 de octubre de 1962 y 13 de enero de 1964, respectivamente, causarán los impuestos a que se refieren, en su caso, la Ley del Impuesto sobre Herencias y Legados del 14 de mayo de 1935 y la Ley del Impuesto sobre Donaciones del 14 de noviembre de 1927.
+###### ARTICULO 113.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 114.
 
-El importe de las donaciones hechas a la Universidad Autónoma de Nuevo León, se compensará con el Impuesto sobre Herencias y Legados causado por la herencia del donante.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 115.
 
-La Universidad Autónoma de Nuevo León notificará a la Tesorería General, de todas las donaciones hechas a su favor.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1986)
 
 ###### ARTICULO 116.
 
@@ -1181,7 +1183,9 @@ II.- Las erogaciones que efectúen:
 
 a).- La Federación, Estados y Municipios, así como las instituciones descentralizadas;
 
-b).- Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas, así como actividades deportivas, culturales o sociales;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+b).- Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas;
 
 c).- Agrupaciones de trabajadores, de profesionales, de empresarios o de propietarios;
 
@@ -1769,33 +1773,33 @@ S u p e r f i c i e d e C a l e f a c c i ó n
 
 Tasa:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-I.- Hasta 15 M2 $200.00
+I.- Hasta 15 M2 $300.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-II.- Mayor de 15 y hasta 25 M2 $300.00
+II.- Mayor de 15 y hasta 25 M2 $450.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-III.- Mayor de 25 y hasta 50 M2 $400.00
+III.- Mayor de 25 y hasta 50 M2 $600.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-IV.- Mayor de 50 y hasta 75 M2 $500.00
+IV.- Mayor de 50 y hasta 75 M2 $750.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-V.- Mayor de 75 y hasta 100 M2 $900.00
+V.- Mayor de 75 y hasta 100 M2 $1,400.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-VI.- Mayor de 100 y hasta 200 M2 $1,500.00
+VI.- Mayor de 100 y hasta 200 M2 $2,500.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-VII. Por cada metro cuadrado, excedente de 200 $4.00
+VII.- Por cada metro cuadrado, excedente de 200 $4.00
 
 Para la aplicación de esta Tarifa, se tomará en cuenta el número total de metros cuadrados de superficie de calefacción, generados por todas las calderas que se tengan instaladas en cada establecimiento, sin importar el número de éstas.
 
@@ -1803,9 +1807,9 @@ La inspección inicial deberá llevarse a cabo previamente a su funcionamiento y
 
 Lo (sic) derechos, establecidos por este Artículo, se cubrirán por semestres anticipados dentro de los primeros quince días de los meses de enero y julio.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-Los operarios de las calderas deberán previamente obtener la licencia correspondiente como "calderero", la cual tendrá vigencia anual. Por la expedición de la licencia citada se cobrará un derecho de $ 500.00.
+Los operarios de las calderas deberán previamente obtener la licencia correspondiente como "calderero", la cual tendrá vigencia anual. Por la expedición de la licencia citada se cobrará un derecho de $ 800.00.
 
 ###### ARTICULO 268.
 
@@ -1817,45 +1821,45 @@ POTENCIA EN CABALLOS DE FUERZA
 
 T a s a
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-I.- Hasta 5 $200.00
+I.- Hasta 5 $300.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-II.- Mayor de 5 y hasta 10 $300.00
+II.- Mayor de 5 y hasta 10 $450.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-III.- Mayor de 10 y hasta 25 $400.00
+III.- Mayor de 10 y hasta 25 $600.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-IV.- Mayor de 25 y hasta 50 $500.00
+IV.- Mayor de 25 y hasta 50 $750.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-V.- Mayor de 50 y hasta 75 $600.00
+V.- Mayor de 50 y hasta 75 $900.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-VI.- Mayor de 75 y hasta 100 $700.00
+VI.- Mayor de 75 y hasta 100 $1,000.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-VII.- Mayor de 100 y hasta 150 $800.00
+VII.- Mayor de 100 y hasta 150 $1,200.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-VIII.- Mayor de 150 y hasta 200 $900.00
+VIII.- Mayor de 150 y hasta 200 $1,400.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-IX.- Mayor de 200 y hasta 250 $1,200.00
+IX.- Mayor de 200 y hasta 250 $2,000.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-X.- Por cada caballo de fuerza excedente $4.00
+X.- Por cada caballo de fuerza excedente $6.00
 
 Para la aplicación de esta Tarifa se tomará en cuenta la capacidad total en caballos de fuerza, de potencia generada por todos los motores que se tengan instalados en cada establecimiento, sin importar el número de ellos.
 
@@ -1863,7 +1867,7 @@ La inspección inicial deberá llevarse a cabo previamente a su funcionamiento y
 
 Lo (sic) derechos, establecidos por este Artículo, se cubrirán por semestres anticipados dentro de los primeros 15 días de los meses de enero y julio.
 
-> <small>(DEROGADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ### CAPITULO DECIMO QUINTO. Impuesto sobre Ganado y Aves que se sacrifiquen
 
@@ -1873,13 +1877,17 @@ Lo (sic) derechos, establecidos por este Artículo, se cubrirán por semestres a
 
 Por los servicios prestados en la Secretaría General de Gobierno, se causarán y pagarán los siguientes derechos:
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
 I.- Por autorización a las sociedades comerciales para la adquisición de terrenos
 
-necesarios para su objeto, en los términos de la Fracción IV del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos $800.00
+necesarios para su objeto, en los términos de la Fracción IV del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos $1,500.00
 
-II.- Por expedición de constancias y certificados que extiendan las Dependencias de la Secretaría General de Gobierno $300.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-III.- Por registro de fierros y señales de ganado, así como por su refrendo, por cada uno $1,000.00
+II.- Por expedición de constancias y certificados que extiendan las Dependencias de la Secretaría General de Gobierno $500.00
+
+III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1986)
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
 
@@ -1891,27 +1899,27 @@ T A R I F A
 
 Concepto:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-I.- Inscripción de hechos relativos al nacimiento y reconocimiento de hijos y de defunción $100.00
+I.- Inscripción de actas de nacimiento, reconocimiento de hijos, adopción, tutela y defunción $200.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-II.- Inscripción de actas de matrimonio $500.00
+II.- Inscripción de actas de matrimonio $1,000.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-III.- Inscripción de actas de divorcio $1,000.00
+III.- Inscripción de actas de divorcio $2,000.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-IV.- Expedición de copias certificadas de las actas del estado civil, cada una $100.00
+IV.- Expedición de copias certificadas de las actas del estado civil, cada una $200.00
 
 V.- Cuando los servicios del oficial se presten a solicitud del interesado en horas, días inhábiles, o en lugar distinto a la sede de la Oficialía, su inscripción causará cuota de otro tanto más de la suma fijada en las fracciones anteriores.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-VI.- Las anotaciones marginales $150.00
+VI.- Las anotaciones marginales $300.00
 
 Gozarán de reducción del 50% del monto de los derechos indicados en las fracciones precedentes, las personas de escasos recursos, sin ingresos fijos o regulares, que comprueben tal situación, bajo la responsabilidad del oficial del Registro Civil al que corresponda la prestación del servicio.
 
@@ -1933,37 +1941,35 @@ Concepto: Tasa:
 
 I.- Por inscripción o registro de Título ya se trate de documentos públicos o privados; de resoluciones judiciales, administrativas o de cualquier otra clase, por virtud de las cuales se adquiera, trasmita, grave, modifique o extinga el dominio o la posesión de bienes inmuebles, así como el de bienes muebles que deban registrarse conforme a las leyes, por el valor mayor, legal o convencional que en ellos se especifique:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-a) Hasta de $5,000.00 ….. $100.00
+a) Hasta de $50,000.00 ….. $500.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-b) Mayor de $5,000.00 y hasta $15,000.00 ….. $200.00
+b) Mayor de $50,000.00 y hasta $250,000.00 ….. $2,000.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-c) Mayor de $15,000.00 y hasta $250,000.00, por cada millar o fracción ….. $8.00
+c) Mayor de $250,000.00, y hasta $1,000,000.00 ….. $4,000.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-d) Mayor de $250,000.00 y hasta $1'000,000.00, por los primeros $250,000.00 de acuerdo con el inciso anterior y por cada millar o fracción excedente …... $3.00
+d) Mayor de $1'000,000.00 y hasta $50,000,000.00 por cada millar o fracción ….. $4.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-e) Mayor de $1'000,000.00, por cada millar o fracción excedente, hasta $50'000,000.00 ….. $4.00
+e) Por el excedente de $ 50'000,000.00, por cada millar o fracción ….. $5.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-f) Por el excedente de $50'000,000.00, se pagarán por cada millar o fracción ….. $5.00
+f) Si no se consigna valor alguno o éste es indeterminado, se pagará por hoja ….. $500.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+Cuando una parte del valor sea determinada y la otra no, se cubrirá por la determinada conforme a los incisos del a) al e) y por la indeterminada la cuota que señale este inciso. En los casos de donación sin valor se procederá a practicar avalúo por la Secretaría de Finanzas y Tesorería General del Estado y según el valor resultante se aplicará la tarifa correspondiente.
 
-g) Si el valor es indeterminado se pagará por hoja ….. $300.00
+g) (DEROGADO, P.O. 31 DE DICIEMBRE DE 1986)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
-
-h) Cuando una parte del valor sea determinada y la otra no, se cubrirá por la determinada conforme a los incisos del a) al f) y por la indeterminada la cuota que señala el inciso anterior. En los casos de donación sin valor (usufructo, uso, habitación, nuda propiedad) se procederá a practicar avalúo bancario o de la Secretaría de Finanzas y Tesorería General del Estado y según el valor resultante se aplicará esta tarifa.
+h) (DEROGADO, P.O. 31 DE DICIEMBRE DE 1986)
 
 Las cuotas señaladas en esta fracción serán aplicables, por el valor que consignen, a todo documento o acto jurídico que sea motivo de inscripción en el Registro Público.
 
@@ -1971,61 +1977,61 @@ Tratándose de documentos o contratos que consignen prestaciones periódicas, si
 
 Por lo que hace a operaciones sobre bienes muebles o inmuebles, en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra que haya de dar lugar a una inscripción complementaria para su perfeccionamiento, se pagará el 75% de la tasa correspondiente y el 25 % restante, al practicarse la inscripción complementaria.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-II.- Por la expedición de copias o certificados, por cada hoja, sin perjuicio del derecho establecido por esta Ley $40.00
+II.- Por la expedición de copias o certificados, por cada hoja, sin perjuicio del derecho establecido por esta Ley $50.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-III.- Por cancelación de inscripciones se pagará el 10% de la tasa que cause la inscripción, pero en ningún caso la cantidad a pagar será menor de $300.00
+III.- Por cancelación de inscripciones se pagará el 10% de la tasa que cause la inscripción, pero en ningún caso la cantidad a pagar será menor de $500.00 ni mayor de $30,000.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-IV.- Por cualquier rectificación de inscripciones $300.00
+IV.- Por cualquier rectificación de inscripciones $500.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-V.- Por ratificación de firmas ante el Registrador, en los casos a que se refiere el Artículo 55 de la Ley Reglamentaria del Registro Público de la Propiedad $300.00
+V.- Por ratificación de firmas ante el Registrador en los casos a que se refiere el Artículo 55 de la Ley Reglamentaria del Registro Público de la Propiedad $500.00
 
 VI.- Por el Registro de Planos de Fraccionamientos, por cada lote vendible:
 
 A) Fraccionamientos habitacionales.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-a) De primera categoría $60.00
+a) De primera categoría $100.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-b) De segunda categoría $30.00
+b) De segunda categoría $50.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-B.- Fraccionamientos comerciales, industriales y campestres $200.00
+B.- Fraccionamientos comerciales, industriales y campestres $300.00
 
 C.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
 D.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-E.- Cementerios $50.00
+E.- Cementerios $80.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-VII.- Por certificado de no inscripción de inmuebles $850.00
+VII.- Por certificado de no inscripción de inmuebles $1,000.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-VIII.- Por certificado de gravámenes o de libertad de gravámenes $400.00
+VIII.- Por certificado de gravámenes o de libertad de gravámenes $600.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-IX.- Por acreditación o rectificación de medidas $3,000.00
+IX.- Por acreditación o rectificación de medidas $5,000.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-X.- Por inscripción de aviso preventivo $500.00
+X.- Por inscripción de aviso preventivo $800.00
 
 XI.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1985)
 
@@ -2037,27 +2043,27 @@ Por autorización de apertura de:
 
 I.- Protocolos:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-a) Para Notarías Públicas ubicadas en los municipios de Monterrey, Guadalupe, San Nicolás de los Garza, Garza García, Santa Catarina y Apodaca, por cada libro autorizado $10,000.00
+a) Para Notarías Públicas ubicadas en los municipios de Monterrey, Guadalupe, San Nicolás de los Garza, Garza García, Santa Catarina y Apodaca, por cada libro autorizado $20,000.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-b) Para Notarías Públicas ubicadas en los demás municipios, por cada libro autorizado $5,000.00
+b) Para Notarías Públicas ubicadas en los demás municipios, por cada libro autorizado $8,000.00
 
 II.- Libros de Actas Fuera de Protocolo:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-a) Para Notarías Públicas ubicadas en los Municipios de Monterrey, Guadalupe, San Nicolás de los Garza, Garza García, Santa Catarina y Apodaca, por cada libro autorizado $5,000.00
+a) Para Notarías Públicas ubicadas en los municipios de Monterrey, Guadalupe, San Nicolás de los Garza, Garza García, Santa Catarina y Apodaca, por cada libro autorizado $10,000.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-b) Para Notarías Públicas ubicadas en los demás municipios, por cada libro autorizado $3,000.00
+b) Para Notarías Públicas ubicadas en los demás municipios, por cada libro autorizado $5,000.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-III.- Por cada Libro de Registro de Corredores Públicos $5,000.00.
+III.- Por cada Libro de Registro de Corredores Públicos $10,000.00
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -2067,59 +2073,63 @@ Por autorización de cierre de:
 
 I.- Protocolos:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-a) Para Notarías Públicas ubicadas en los Municipios de Monterrey, Guadalupe, San Nicolás de los Garza, Garza García, Santa Catarina y Apodaca, por cada libro autorizado $5,000.00
+a) Para Notarías Públicas ubicadas en los municipios de Monterrey, Guadalupe, San Nicolás de los Garza, Garza García, Santa Catarina y Apodaca, por cada libro autorizado $10,000.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-b) Para Notarías Públicas ubicadas en los demás Municipios, por cada libro autorizado $2,000.00
+b) Para Notarías Públicas ubicadas en los demás municipios, por cada libro autorizado $4,000.00
 
 II.- Libros de Actas Fuera de Protocolo:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-a) Para Notarías Públicas ubicadas en los municipios de Monterrey, Guadalupe, San Nicolás de los Garza, Garza García, Santa Catarina y Apodaca, por cada libro autorizado $2,000.00
+a) Para Notarías Públicas ubicadas en los municipios de Monterrey Guadalupe, San Nicolás de los Garza, Garza García, Santa Catarina y Apodaca, por cada libro autorizado $4,000.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-b) Para Notarías Públicas ubicadas en los demás municipios, por cada libro autorizado $1,000.00
+b) Para Notarías Públicas ubicadas en los demás municipios, por cada libro autorizado $2,000.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-III.- Por cada Libro de Registro de Corredores Públicos $3,000.00
+III.- Por cada libro de Registro de Corredores Públicos $6,000.00.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 273.
 
-Por legalización de firmas $300.00
+Por legalización de firmas $500.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 274.
 
-Por la expedición de licencia para la portación de armas de fuego y su refrendo anual $2,500.00
+Por la expedición de licencia para la portación de armas de fuego y su refrendo anual $4,000.00.
 
-(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985).
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 275.
 
 Por los siguientes servicios prestados por la Dirección de Archivo General de Notarías:
 
-I.- Por certificación de constancia $1,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-II.- Por expedición de Segundos Testimonios, por hoja $500.00
+I.- Por certificación de constancia $2,000.00
 
-III.- Por presentación de aviso testamentario $1,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+II.- Por expedición de Segundos Testimonios, por hoja $800.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+III.- Por presentación de aviso testamentario $2,000.00
 
 ### CAPITULO DECIMO SEXTO. Impuesto Sobre Traslado de Dominio
 
 ###### ARTICULO 275 Bis.
 
-Por autorización de traslado de cadáveres fuera del Estado $300.00.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1986)
 
 ### CAPITULO PRIMERO. Disposiciones Generales
 
@@ -2129,29 +2139,57 @@ Por los servicios prestados por la Secretaría de Finanzas y Tesorería General 
 
 I.- Por empadronamiento y refrendo anual:
 
-a) Expendio de bebidas alcohólicas $3,000.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-b) Expendio de bebidas alcohólicas, restaurantes con servicio de variedad artística o musical $30,000.00
+a) Expendio de bebidas alcohólicas $5,000.00
 
-Si en dichos establecimientos se presenta al público habitualmente la actuación personal de filarmónicos $15,000.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-c) Hoteles de paso, cabarets, prostíbulos, casas de asignación o lugares semejantes $60,000.00
+b) Expendio de bebidas alcohólicas, restaurantes con servicio de variedad artística o musical $50,000.00
 
-II.- Por registro de contratos de arrendamiento de bienes inmuebles, cada uno $300.00
+Si en dichos establecimientos se presenta al público habitualmente la actuación personal de filarmónicos $25,000.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+c) Hoteles de paso, cabarets, prostíbulos, casas de asignación o lugares semejantes $100,000.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+II.- Por registro de contratos de arrendamiento de bienes inmuebles, cada uno $500.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
 III.- Por servicios de control vehicular para vehículos de motor, excepto motocicletas, anualmente $4,000.00
 
-IV.- Por servicios de control vehicular para motocicletas con motor mayor de 75 centímetros cúbicos, anualmente $500.00
+Si se proporcionan placas de circulación $6,000.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+IV.- Por servicios de control vehicular para motocicletas con motor mayor de 75 centímetros cúbicos, anualmente $800.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
 V.- Por servicios de control vehicular para remolques, anualmente $2,000.00
 
+Si se proporcionan placas de circulación $3,000.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
 VI.- Por servicios de control vehicular para vehículos de demostración o de prueba, anualmente $4,000.00
 
-VII.- Por reposición de calcomanía o de tarjeta de circulación $400.00
+Si se proporcionan placas de circulación $6,000.00
 
-VIII.- Por expedición de licencia de manejar, o su reposición $400.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-IX.- Por cambio de propietario o baja de vehículos del padrón vehicular $1,000.00
+VII.- Por reposición de calcomanía o de tarjeta de circulación $600.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+VIII.- Por expedición de licencia de manejar, o su reposición, por bienio $1,200.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+IX.- Por cambio de propietario o baja de vehículos del padrón vehicular $1,500.00
 
 Los servicios de control vehicular incluirán entre otros, la expedición de calcomanía, de tarjeta de circulación y el alta, por lo que hace a los vehículos a que se refiere la fracción III; y, la expedición de tarjeta de circulación y el alta, por lo que hace a los vehículos a que se refieren las fracciones IV, V y VI. Tratándose de vehículos por los cuales deba pagarse el Impuesto Sobre Tenencia o Uso de Vehículos, no se dará ningún trámite si no se acredita estar al corriente en el pago del referido impuesto, debiendo acreditarse además que no existe infracción alguna por violaciones al Reglamento de Tránsito en vigor.
 
@@ -2161,17 +2199,41 @@ El canje de placas, de calcomanía y de tarjeta de circulación para los vehícu
 
 X.- Por expedición de certificado de valor actual real, según el valor determinado en avalúo se pagara:
 
-a) Si no excede de $100,000.00 ….. $300.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-b) Si excede de $100,000.00, pero no de $500,000.00 ….. $1,000.00
+a) Si no excede de $1'000,000.00 ….. $1,500.00
 
-c) Si excede $500,000.00, pero no de $2'000.000.00 ….. $1,500.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-d) Si excede de $2'000,000.00, pero no de $10'000.000.00 ….. $3,000.00
+b) Si excede de $1'000,000.00, pero no de $2'000,000.00 ….. $3,000.00
 
-e) Si excede de $10'000.000.00, pero no de $50'000.000.00 ….. $5,000.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-f) Si excede de $50'000,000.00 ….. $8,000.00
+c) Si excede $2'000,000.00, pero no de $5'000,000.00 ….. $4,000.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+d) Si excede de $5'000,000.00, pero no de $10'000.000.00 ….. $7,000.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+e) Si excede de $10'000,000.00, pero no de $25'000,000.00 ….. $10,000.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+f) Si excede de $25'000,000.00 pero no de $50'000,000.00 ….. $13,000.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+g) Si excede de $50'000,000.00 ….. $16,000.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+XI.- Expedición de certificado de no inscripción catastral $1,000.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
+XII.- Por registro y revalidación de fierros y señales de ganado, por cada uno $1,500.00
 
 ### CAPITULO SEGUNDO
 
@@ -2181,15 +2243,13 @@ De los derechos por Servicios Prestados por la Secretaría de Servicios a los Tr
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
-### CAPITULO SEGUNDO BIS
-
-De los derechos por Servicios Prestados por la Secretaría General de Gobierno.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1985)</small>
-
 ### CAPITULO TERCERO. De los Derechos por Servicios Prestados por la Secretaría General de Gobierno
 
 > <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+### CAPITULO CUARTO. De los Derechos por Servicios Prestados por la Tesorería General
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 277.
 
@@ -2201,31 +2261,31 @@ Concepto: Tasa:
 
 I.- Registro de Títulos Profeisonales (sic):
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-a) De maestros $300.00
+a) De maestros $500.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-b) De Corredor Público o de las Patentes de Notario Público $50,000.00
+b) De Corredor Público o de las Patentes de Notario Público $80,000.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-c) De los demás profesionistas $1,000.00
+c) De los demás profesionistas $1,500.00
 
 II.- Por exámenes y expedición de certificados de salud con vigencia de un año, a personas que presten sus servicios en establecimientos de cualquier clase, que fabriquen, elaboren, manejen o expendan bebidas y comestibles; o que tengan contacto directo o personal con el público, como hoteles, casas de asistencia, casas de huéspedes, casas de baños, peluquerías, salones de belleza y similares, hospitales, clínicas, maternidades y en todo aquél establecimiento en que se internen pacientes para su tratamiento, medicina o diagnóstico; médicos consultantes, médicos veterinarios, odontólogos, químicos farmacobiólogos, técnicos radiólogos, parteros, enfermeras, auxiliares de enfermería, recepcionistas y secretarias mdicas (sic), personal de farmacias, personal de bancos de sangre, de laboratorios, clínicas y laboratorios de anatomía patológica:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-a) Examen médico y análisis sanguíneo $300.00
+a) Examen médico y análisis sanguíneo $500.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-b) Expedición de certificado de salud $150.00
+b) Expedición de certificado de salud $200.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-c) Catastro torácico $150.00
+c) Catastro torácico $200.00
 
 Las personas obligadas a obtener certificados de salud podrán hacerse el examen médico, análisis sanguíneo y catastro torácico, con personas o en establecimientos autorizados distintos a los dependientes de los Servicios Coordinados de Salud Pública en el Estado; acreditado lo anterior, únicamente cubrirán lo correspondiente a la expedición del certificado de salud.
 
@@ -2243,21 +2303,19 @@ VII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1981)
 
 VIII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1985)
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1986)</small>
 
-IX.- Por la expedición de constancias y certificados, que expidan las Dependencias del Gobierno del Estado, no mencionadas en las disposiciones de este Título $300.00.
+IX.- Por la expedición de constancias y certificados, que expidan las Dependencias del Gobierno del Estado, no mencionadas en las disposiciones de este Título $500.00.
 
 ###### ARTICULO 277 Bis.
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
-### CAPITULO CUARTO. De los Derechos por Servicios Prestados por la Tesorería General
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+### CAPITULO QUINTO. De los Derechos por Servicios Prestados por Diversas Dependencias
 
 ## TITULO CUARTO. De los Productos
 
-### CAPITULO QUINTO. De los Derechos por Servicios Prestados por Diversas Dependencias
+### CAPITULO UNICO
 
 ###### ARTICULO 278.
 
@@ -2501,11 +2559,21 @@ Este Decreto entrará en vigor el día 1o. de enero de 1984.
 
 Se derogan todas las Leyes, Resoluciones y Disposiciones que se opongan a la presente Ley.
 
-P.O. 30 DE DICIEMBRE DE 1985
+P.O. 30 DE DICIEMBRE DE 1985.
 
 ###### ARTICULO PRIMERO.
 
 Este Decreto entrará en vigor el día 1o. de Enero de 1986.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las Leyes, Resoluciones y Disposiciones que se opongan a la presente Ley.
+
+P.O. 31 DE DICIEMBRE DE 1986.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1o. de enero de 1987.
 
 ###### ARTICULO SEGUNDO.
 
