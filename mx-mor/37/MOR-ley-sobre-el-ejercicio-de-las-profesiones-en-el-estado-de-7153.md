@@ -4,7 +4,7 @@ identifier: "MOR-ley-sobre-el-ejercicio-de-las-profesiones-en-el-estado-de-7153"
 country: "mx"
 rank: "ley"
 publication_date: "1968-01-03"
-last_updated: "1968-01-03"
+last_updated: "1972-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY SOBRE EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 1972.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 3 de enero de 1968.
 
@@ -251,9 +251,11 @@ El Gobernador del Estado podrá solicitar a la Secretaría de Gobernación permi
 
 ### CAPITULO V. LA OFICINA DE PROFESIONES
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1972)</small>
+
 ###### ARTICULO 24.
 
-La Oficina de Profesiones será fundada como una dependencia de la Secretaría General de Gobierno y tendrá el personal que determine el Presupuesto de Egresos.
+La Dirección de Profesiones estará a cargo del Secretario de Gobierno y tendrá el personal que determine el Presupuesto de Egresos.
 
 ###### ARTICULO 25.
 
@@ -642,3 +644,15 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 Lic. Fausto Galván Campos.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE DICIEMBRE DE 1972.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor un día después de su publicación en el Períodico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Remítase el presente Decreto al Ejecutivo del Estado, para los efectos a que se refiere la Fracción XVII del Artículo 70 de la Constitución Política Local.
