@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pensiones-para-los-trabajadores-al-servicio-del-6990"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-16"
-last_updated: "1984-02-25"
+last_updated: "1987-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6990&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PENSIONES PARA LOS TRABAJADORES AL SERVICIO DEL AYUNTAMIENTO DEL MUNICIPIO DE OAXACA DE JUAREZ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 1987.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 16 de diciembre de 1978.
 
@@ -107,9 +107,11 @@ II.- Los documentos que les pidan, para la aplicación de esta ley.
 
 La Dirección recopilará y clasificará la información sobre el personal, a fin de elaborar las estadísticas y cálculos necesarios para proponer al H. Ayuntamiento las modificaciones procedentes.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 8.
 
-Las controversias judiciales que surjan sobre la aplicación de esta ley, y en todas aquellas en que la Dirección tuviere el carácter de actor o demandado, serán de la competencia de los tribunales de la Ciudad de Oaxaca de Juárez.
+Las controversias entre los trabajadores, los pensionistas y los familiares tanto de los trabajadores como de los pensionistas y la Dirección de Pensiones, sobre las prestaciones que esta Ley otorga, serán de la competencia de la Junta de Arbitraje para los Empleados al Servicio del Ayuntamiento del Municipio de Oaxaca de Juárez.
 
 DE LOS SUELDOS, CUOTAS Y APORTACIONES.
 
@@ -117,21 +119,27 @@ DE LOS SUELDOS, CUOTAS Y APORTACIONES.
 
 El sueldo que se tomará en cuenta, para los efectos de esta ley, es el consignado en el presupuesto, y será el que sirva de base para determinar el monto de los seguros y préstamos consignados en esta propia ley.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 10.
 
-Todo trabajador comprendido en el artículo 1 de esta ley deberá aportar a la Dirección una cuota obligatoria del 3% de su sueldo presupuestal.
+Todo trabajador comprendido en el artículo primero de esta Ley, deberá aportar a la Dirección una cuota obligatoria del 6% de su sueldo presupuestal.
 
 ###### ARTICULO 11.
 
 El H. Ayuntamiento está obligado a efectuar los descuentos de la cuota establecida en el artículo 10 de esta ley.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 12.
 
-Cuando no se hubieren hecho los descuentos correspondientes a las aportaciones previstas en el artículo 10 de esta ley, la Dirección mandará descontar hasta un 6% del sueldo, mientras persista el adeudo o que el trabajador solicite y obtenga mayores facilidades para el pago.
+Cuando no se hubieran hecho los descuentos correspondientes a las aportaciones previstas en el artículo 10 de esta Ley, la Dirección mandará descontar hasta el 9% del sueldo mientras persista el adeudo a que el trabajador solicite y obtener mayores facilidades para el pago.
+
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 1987)</small>
 
 ###### ARTICULO 13.
 
-El H. Ayuntamiento aportará a la Dirección, el 3% del sueldo presupuestal de los trabajadores.
+El H. Ayuntamiento aportará a la Dirección una cantidad equivalente al 9% del sueldo presupuestal de los trabajadores.
 
 ###### ARTICULO 14.
 
@@ -229,11 +237,11 @@ La edad y el parentesco de los trabajadores y sus beneficiarios se acreditará (
 
 Para que un trabajador pueda disfrutar la pensión, es necesario cubrir previamente a la Dirección los adeudos que tuviesen con la propia Dirección, respecto a las aportaciones establecidas en el artículo 1o. de esta Ley.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 1987)</small>
 
 ###### ARTICULO 32.
 
-Tiene derecho a la jubilación los trabajadores con treinta o más años de servicio e igual tiempo de contribución a la Dirección, cualquiera que sea su edad. El monto de la pensión jubilatoria será el salario que perciba el trabajador en el momento de la jubilación.
+Tiene derecho a la jubilación el personal masculino con treinta o más años de servicio y el personal femenino con veinticinco o más años de servicio, en ambos casos con igual tiempo de contribución a la Dirección, cualquiera que sea su edad. El monto de la pensión jubilatoria será el salario que perciba el trabajador en el momento de la jubilación.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE FEBRERO DE 1984)</small>
 
@@ -327,9 +335,11 @@ II.- Que se certifique por peritos médicos designados por la Dirección el esta
 
 La pensión de invalidez será revocada si el trabajador recupera su capacidad de trabajo.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 43.
 
-La muerte del trabajador, por causas ajenas al servicio, siempre que hayan contribuido a la Dirección por más de quince años, dará origen a la pensión de viudez y orfandad o pensión a sus ascendientes, de acuerdo con lo previsto por esta Ley y se iniciará al día siguiente del fallecimiento del trabajador.
+La muerte del trabajador, por causa ajena al servicio o la del jubilado o pensionado, dará origen a la pensión de viudez y orfandad o pensión a sus ascendientes, de acuerdo con lo previsto por esta Ley y se iniciará al día siguiente del fallecimiento del trabajador, del jubilado o del pensionado.
 
 ###### ARTICULO 44.
 
@@ -347,19 +357,21 @@ La cantidad a que tengan derecho los deudos se dividirá por partes iguales entr
 
 Sólo se pagará la pensión a la viuda o la concubina mientras no contraiga nupcias o entren en concubinato. Al contraer matrimonio recibirán como única y última prestación el importe de 6 meses de la pensión que hubiere disfrutado alguna de ellas. La divorciada no tendrá derecho a la pensión de quien haya sido cónyuge, a menos que a la muerte del marido éste estuviera pagándole pensión alimenticia por condena judicial y siempre que no exista viuda, hijos, concubina y ascendientes con derecho a la misma. Cuando la divorciada disfrutase de la pensión en los términos de este artículo, perderá dicho derecho si contrae nuevas nupcias, si viviese en concubinato o si no viviese honestamente previa la declaración judicial correspondiente.
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 1987)</small>
 
 ###### ARTICULO 45.
 
-La pensión a que se refiere el Artículo 44 se otorgará en la forma siguiente:
+La pensión a que se refiere el artículo 43 se otorgará en la forma siguiente:
 
-I.- Si el trabajador tenía quince o más años de servicio en los términos de los Artículo 35 y 37 de esta Ley, incluida la prima de antigüedad;
+1.- Si el trabajador tenía quince o más años de servicio en los términos de los artículos 35 y 37 de esta Ley, incluida la prima de antigüedad.
 
-II.- Si el trabajador tenía menos de quince años de servicio, el 25% de su salario;
+2.- Si el trabajador tenía menos de quince años de servicio, el 25% de su salario.
 
-III.- A los deudos del (sic) pensionistas por vejez, el setenta y cinco por ciento del monto de la pensión de la que gozaba el pensionado;
+3.- A los deudos del pensionista por vejez, el 75% del monto de la pensión de la que gozaba el fallecido.
 
-IV.- A los deudos del pensionista por invalidez, seis meses de la pensión que de le tenía concedida.
+4.- A los deudos del pensionista por invalidez, seis meses de la pensión que se le tenía concedida.
+
+5.- A los deudos del jubilado, el 100% del monto de la pensión de la que gozaba el fallecido.
 
 ###### ARTICULO 46.
 
@@ -445,23 +457,27 @@ Los miembros de la Junta Directiva durarán en su cargo tres años y sus nombram
 
 Por cada miembro propietario, exceptuando al Director, habrá un suplente.
 
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 1987)</small>
+
 ###### ARTICULO 57.
 
-Son atribuciones de la Junta Directiva:
+Facultades y obligaciones de la Junta Directiva:
 
 I.- Dictar los acuerdos necesarios para el cumplimiento de esta Ley.
 
 II.- Conceder, negar, suspender, modificar y revocar las jubilaciones y pensiones, en los términos de esta Ley.
 
-III.- Aprobar o negar los prestamos solicitados por los trabajadores y empleados, en los términos de esta Ley y de acuerdo con los recursos de la Dirección.
+III.- Aprobar o negar los préstamos solicitados por los trabajadores en los términos de esta Ley y de acuerdo con los recursos de la Dirección.
 
-IV.- Conferir poderes generales o especiales al Director.
+IV.- Conferir poderes generales o especiales al director cuando sea necesario.
 
-V.- Examinar y aprobar o modificar los balances anuales, los presupuestos de ingresos y egresos y el programa de labores de la Dirección.
+V.- Examinar y aprobar o modificar los balances anuales, presupuestos de ingresos y egresos y el programa de labores de la Dirección.
+
+VI.- Revisar anualmente las pensiones para otorgar a los trabajadores los correspondientes aumentos dentro de las posibilidades presupuestarias de la Dirección.
 
 ###### ARTICULO 58.
 
-El Presidente de la Junta Directiva, será uno de los tres representantes del H. Ayuntamiento.
+El Presidente de la Junta Directiva, será uno de los tres representantes del H Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 25 DE FEBRERO DE 1984)</small>
 
@@ -595,4 +611,8 @@ EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORI
 
 P.O. 25 DE FEBRERO DE 1984.
 
-> <small>[N. DE E. EL "DECRETO NÚMERO 5", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.]</small>
+> <small>[N. DE E. EL “DECRETO NÚMERO 5”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.]</small>
+
+P.O. 25 DE JULIO DE 1987.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
