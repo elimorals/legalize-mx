@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-la-ley-catastral-4849"
 country: "mx"
 rank: "reglamento"
 publication_date: "1933-11-18"
-last_updated: "1945-12-29"
+last_updated: "1946-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 REGLAMENTO DE LA LEY CATASTRAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1945.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 1946.
 
 Reglamento publicado en el Alcance del Periódico Oficial del Estado de Chihuahua, 18 de noviembre de 1933.
 
@@ -180,6 +180,10 @@ VIl.- Suplir de oficio los errores y datos falsos que contengan las declaracione
 VIII.- Remitir a la Junta Central del Catastro para su revisión los avalúos de los predios en particular, cuando dentro del término que señala el artículo 32, el propietario o poseedor afectados, manifiesten su inconformidad. Otro tanto se hará en caso de inconformidad de la Tesorería General del Estado.
 
 IX.- En general todas aquellas que les conceden la Ley Catastral y el presente Reglamento.
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 1946)</small>
+
+XII (SIC).- Practicar anualmente, entre los meses de noviembre y diciembre, la revaluación de los predios urbanos sin fincar.
 
 ###### Artículo 13.
 
@@ -388,5 +392,9 @@ P.O. 23 DE NOVIEMBRE DE 1940.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE DEL ESTADO DE CHIHUAHUA.
 
 P.O. 29 DE DICIEMBRE DE 1945.
+
+El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE ENERO DE 1946.
 
 El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
