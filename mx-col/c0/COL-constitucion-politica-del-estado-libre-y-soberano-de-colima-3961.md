@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "1942-06-27"
+last_updated: "1942-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 1942.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1942.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -899,49 +899,55 @@ Los Ayuntamientos son cuerpos meramente deliberantes, y sus acuerdos y resolucio
 
 Queda encomendado el ejercicio de la Autoridad Judicial, en las cabeceras de las Municipalidades, en los Pueblos y en las Rancherías, a las Autoridades que designe la Ley Orgánica del Poder Judicial.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE DICIEMBRE DE 1942)</small>
+
 ## TITULO VII
 
 De la Administración Municipal.
 
 ###### Artículo 97.
 
-Es obligación del Estado proporcionar al pueblo la Educación Primaria Elemental y Superior, que será gratuita, uniforme, con la tendencia que marque la Constitución General de la República y obligatoria para todos los habitantes del Estado solamente la Primaria Elemental.
+El Estado tiene el deber de impartir el servicio público de la Educación Primaria y Superior, conforme a las normas de nuestra Carta Magna, de la presente Constitución Política Local y de las Leyes y Reglamentos relativos a la materia. La Educación Primaria será obligatoria, y gratuita la que imparte el Estado.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1942)</small>
 
 ###### Artículo 98.
 
-Cuando las circunstancias del Erario lo permitan, el Estado impartirá gratuitamente la enseñanza preparatoria y la Profesional.
+La Universidad Popular de Colima, creada por el Estado el 16 de Septiembre de 1940 se destina a fines de servicio público dentro del campo de la cultura superior, pugnando porque la enseñanza de las profesiones se imparta con el espíritu de formar técnicos y profesionistas al servicio de la colectividad y prestando la mayor atención en la investigación científica y el descubrimiento de técnicas más eficaces, para coadyuvar al aumento de la capacidad productiva de la Nación.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1936)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1942)</small>
 
 ###### Artículo 99.
 
-Podrán existir establecimientos particulares de enseñanza siempre que se encuentren incorporados y sujetos a los programas y vigilancia oficiales, interviniendo directamente el Gobierno en el nombramiento del Cuerpo Docente para procurar elementos netamente identificados con la ideología educacional que señale la Constitución General de la República, designándose por las Autoridades del Ramo, un asistente técnico permanente que será pagado con los fondos de la escuela particular, para que vigile el estricto cumplimiento de las Leyes, acuerdos y programas de la materia.
+Los Establecimientos Particulares de Enseñanza podrán funcionar de acuerdo con las leyes respectivas, y las Escuelas Primarias deberán estar incorporadas a la Educación Oficial del Estado.
 
 ###### Artículo 100.
 
 La Ley fijará los términos en que deba impartirse la enseñanza, así como los lugares en donde hayan de establecerse las escuelas y la categoría de éstas.
 
-(REFORMADO, P.O. 8 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 29 DE OCTUBRE DE 1932)
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1942)</small>
 
 ###### Artículo 101.
 
-Las profesiones de Abogacía, Ingeniería, Medicina, Obstetricia, Farmacia y Odontología, requieren título oficial para poder ser ejercidas en el Estado. La Ley castigará severamente a los que ejerzan las expresadas profesiones sin el título correspondiente.
+Para poder ser ejercidas en el Estado la Abogacía, Ingeniería, Medicina, Obstetricia, Farmacia, Química y Odontología, se requiere título oficial del Estado o legalmente reconocido. Serán sancionados quienes ejerzan las expresadas profesiones sin el título correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE DICIEMBRE DE 1942)</small>
 
 ###### Artículo 102.
 
-(DEROGADO, P.O. 15 DE OCTUBRE DE 1932) (REPUBLICADO, P.O. 12 DE NOVIEMBRE DE 1932)
+Solo el Estado podrá expedir títulos profesionales y éstos se otorgarán únicamente a las personas que cursen las carreras correspondientes en la Universidad Popular de Colima.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1936)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1942)</small>
 
 ###### Artículo 103.
 
-Para la expedición de Fiats de Notarios, no se requiere examen especial, pero el peticionario deberá ser abogado con título Oficial y tener una práctica forense de cinco años. El Ejecutivo queda facultado para expedir los Fiats de acuerdo con la Ley relativa, la que fijará el número de Notarios que puedan ejercer en el Estado.
+Para la expedición de Fiats de Notarios, no se requiere examen especial, pero el solicitante deberá ser Abogado con título oficial del Estado o legalmente reconocido y poseer una práctica forense de cinco años. El Ejecutivo queda facultado para expedir los Fiats de acuerdo con la Ley relativa, la que fijará el número de notarios que puedan ejercer en el Estado.
 
 ## TITULO VIII.
 
-De la Instrucción Pública.
+De la Educación Pública.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1936)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1942)</small>
 
 ###### Artículo 104.
 
@@ -1484,6 +1490,10 @@ P.O. 27 DE JUNIO DE 1942.
 ###### Artículo 2º.
 
 Las presentes reformas entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Bolima" (sic).
+
+P.O. 26 DE DICIEMBRE DE 1942.
+
+UNICO.- Las presentes reformas entrarán en vigor el día 1º de enero de 1943.
 
 ###### Artículo 2.
 
