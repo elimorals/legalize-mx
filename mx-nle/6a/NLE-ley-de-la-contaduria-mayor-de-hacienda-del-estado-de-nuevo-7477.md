@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-contaduria-mayor-de-hacienda-del-estado-de-nuevo-7477
 country: "mx"
 rank: "ley"
 publication_date: "1992-05-08"
-last_updated: "1994-06-01"
+last_updated: "1996-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7477&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA CONTADURIA MAYOR DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 8 de mayo de 1992.
 
@@ -93,7 +93,7 @@ c) Ejecutaron los programas de inversión en los términos y montos aprobados y 
 
 d) Aplicaron los recursos provenientes de financiamientos en tiempo y forma establecidos por la ley.
 
-II.- Rendir al Congreso del Estado a través de la Comisión de Vigilancia, los informes previos y definitivos de las cuentas públicas que se presenten; así como los informes respecto del uso de las facultades expresadas en las Fracciones I, II y III del Artículo 23 de la presente Ley.
+II.- Rendir al Congreso del Estado a través de la Comisión de Vigilancia, los informes previos y definitivos de las cuentas públicas que se presenten; así como los informes respecto del uso de las facultades expresadas en las Fracciones I, II y III del Artículo 23 de la presente Ley;
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 1994)</small>
 
@@ -219,7 +219,9 @@ La Contaduría Mayor de Hacienda, en su calidad de Organo Técnico del Congreso 
 
 Son atribuciones de la Comisión de Vigilancia:
 
-I.- Recibir del Congreso las Cuentas Públicas estatales y municipales y turnarlas a la Contaduría Mayor de Hacienda para su revisión;
+(REFORMADA, P.O. 26 DE ENERO DE 1996) (F. DE E., P.O. 14 DE FEBRERO DE 1996)
+
+I.- Recibir del Congreso o de la Diputación Permanente las cuentas públicas estatales y municipales y los informes trimestrales de origen y aplicación de los caudales públicos y turnarlos a la Contaduría Mayor de Hacienda para su revisión;
 
 II.- Ser el conducto de comunicación entre el Congreso del Estado y la Contaduría Mayor de Hacienda;
 
@@ -233,9 +235,9 @@ VI.- Elaborar el Reglamento Interior de la Contaduría Mayor de Hacienda, y some
 
 VII.- Proponer al Congreso del Estado, la práctica de auditorías, inspecciones y trabajos de investigación adicionales a los contenidos en los programas formulados por la Contaduría Mayor de Hacienda.
 
-### CAPITULO TERCERO
+### CAPITULO TERCERO. DE LA REVISION DE LA CUENTA PUBLICA Y LA FISCALIZACION DE LA GESTION
 
-DE LA REVISION DE LA CUENTA PUBLICA Y LA FISCALIZACION DE LA GESTION FINANCIERA DE LAS ENTIDADES.
+FINANCIERA DE LAS ENTIDADES.
 
 ###### ARTICULO 13.
 
@@ -253,13 +255,15 @@ La Contaduría Mayor de Hacienda podrá contratar los servicios profesionales de
 
 Para el inicio y desahogo de las revisiones que sean ordenadas, la Contaduría Mayor de Hacienda observará las formalidades que para efectos de visitas y revisiones de auditoria fiscal, se contemplan en el Código Fiscal del Estado de Nuevo León.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 1996)</small>
+
 ###### ARTICULO 15.
 
-Las entidades rendirán sus cuentas públicas en los términos previstos en la Constitución Política del Estado y en las leyes de la materia.
+Dentro de los tres primeros meses de cada año el Ejecutivo del Estado y las entidades a que se refiere el artículo 2o. fracción IV, incisos de la a) a f) de esta ley, presentarán sus cuentas públicas al Congreso del Estado o a la Diputación Permanente en los términos previstos en la Constitución Política del Estado y en las leyes de la materia.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1996)</small>
 
-El Congreso del Estado turnará a la Comisión de Vigilancia las cuentas públicas, para que las remita a la Contaduría Mayor de Hacienda y se elabore el informe previo, que deberá presentarse dentro del mes siguiente a su recepción, incluyendo comentarios generales sobre su contenido y si su presentación está de acuerdo con los principios generales de contabilidad aplicables y en su caso si cumplieron con las formalidades exigidas para tal efecto.
+El Congreso del Estado o la Diputación Permanente turnará a la Comisión de Vigilancia, las cuentas públicas así como los informes trimestrales de origen y aplicación de los recursos públicos, para que los remita a la Contaduría Mayor de Hacienda y se elabore el informe previo, que deberá presentarse dentro del mes siguiente a su recepción, incluyendo comentarios generales sobre su contenido, si su presentación esta de acuerdo con los principios generales de contabilidad aplicables y si se cumplieron las formalidades exigidas para tal efecto.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
 
@@ -274,6 +278,18 @@ b) Si las entidades se ajustaron a los criterios señalados en las leyes, presup
 c) El cumplimiento de los objetivos generales y metas de los programas y sub-programas aprobados.
 
 d) El análisis de las desviaciones presupuestales y las irregularidades si las hubiere.
+
+(ADICIONADO, P.O. 26 DE ENERO DE 1996) (F. DE E. , P.O. 14 DE FEBRERO DE 1996)
+
+Dentro de los dos meses siguientes a la fecha de recepción del documento del informe trimestral de origen y aplicación de recursos, la Contaduría Mayor de Hacienda elaborará y remitirá un informe de su revisión, el cual deberá incluir los comentarios a que se refieren los incisos a), b), c) y d), de este artículo.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1996)</small>
+
+Previamente a su presentación a la Comisión de Vigilancia, la Contaduría Mayor de Hacienda deberá comunicar al titular de la dependencia sujeta a revisión y al responsable del manejo de sus finanzas, respecto de las observaciones que se pretendan incluir en los informes que la Contaduría Mayor de Hacienda debe presentar sobre la entidad, otorgándoles un plazo no menor de diez días hábiles ni mayor de treinta, para que los funcionarios hagan las aclaraciones que estimen pertinentes. En el informe de referencia se analizarán las aclaraciones que se hayan formulado.
+
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 1996)</small>
+
+Para los efectos del párrafo anterior, la Contaduría mayor de Hacienda también deberá comunicar el resultado de la auditoría a quienes fueron responsables del manejo de las finanzas durante el período objeto de revisión, en los casos en que tales funcionarios hayan dejado de desempeñar su cargo.
 
 > <small>(ADICIONADO, P.O. 1 DE JUNIO DE 1994)</small>
 
@@ -414,3 +430,7 @@ LIC. ALEJANDRO LAMBRETON NARRO
 P.O. 1 DE JUNIO DE 1994.
 
 UNICO:- El presente Decreto entrará en vigor para la revisión de la Cuenta Pública del Ejercicio Fiscal de 1994.
+
+P.O. 26 DE ENERO DE 1996.
+
+Unico:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
