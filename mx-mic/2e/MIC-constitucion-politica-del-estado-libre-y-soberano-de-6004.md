@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1993-02-08"
+last_updated: "1994-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 1994.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -1721,11 +1721,11 @@ Los empleados que manejen fondos públicos otorgarán fianza en la forma que la 
 
 La educación pública dependerá directamente del Gobernador del Estado, quien cuidará de fomentarla por todos los medios posibles.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1994)</small>
 
 ###### Artículo 138.
 
-La enseñanza primaria será obligatoria para todos los habitantes del Estado, y la que se imparta en los establecimientos oficiales será gratuita.
+Todo individuo tiene derecho a recibir educación, el Estado y sus Municipios impartirán educación preescolar, primaria y secundaria. La educación primaria y la secundaria son obligatorias. Toda educación que el Estado imparta será gratuita.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1741,13 +1741,17 @@ a).- Será democrática, considerando la democracia no sólo como una estructura
 
 b).- Será nacional, en cuanto, sin hostilidades ni exclusivismos, atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura, y
 
-c).- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de sectas, de grupos, de sexos o de individuos.
+> <small>(REFORMADO, P.O. 03 DE ENERO DE 1994)</small>
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+c).- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia la conbicción (sic) del interés general de la sociedad cuando por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
+
+Además de impartir la educación preescolar, primaria y secundaria, el Estado promoverá y atendera todos los tipos y modalidades educativos incluyendo la educación superior necesarios para el desarrollo del Estado, apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y difusión de nuestra cultura.
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1994)</small>
 
 ###### Artículo 140.
 
-Sólo podrán establecerse en el Estado escuelas particulares, si éstas se sujetan a la vigilancia del Gobierno y a las disposiciones de la Ley Orgánica de la Educación.
+Los particulares podrán impartir educación en todos sus tipos y modalidades, sujetos a lo previsto por la fracción VI del artículo 3o. de la Constitución General de la República.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1755,17 +1759,15 @@ Sólo podrán establecerse en el Estado escuelas particulares, si éstas se suje
 
 El Ejecutivo deberá proceder al establecimiento de escuelas rurales, de artes y oficios y de agricultura.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
 ###### Artículo 142.
 
-Ninguna corporación religiosa ni los ministros de cualquier culto, podrán establecer o dirigir escuelas primarias de instrucción.
+(DEROGADO, P.O. 3 DE ENERO DE 1994)
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1994)</small>
 
 ###### Artículo 143.
 
-Por ningún motivo se revalidarán y otorgarán dispensas, o se correrán otros trámites para dar validez a los estudios hechos en los establecimientos de enseñanza profesional de los ministros de algún culto o de las corporaciones religiosas, y si llegan a darse tales dispensas y a expedirse títulos fundados en ellas, dichos títulos serán nulos.
+Las Universidades y las demás instituciones de educación superior a las que la Ley otorgue autonomía, tendrán la facultad y la responsabilidad de gobernarse a sí mismas; realizarán sus fines de educar, investigar y difundir la cultura de acuerdo con los principios de este Título, respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas; determinarán sus planes y programas, fijarán los términos de ingreso, promoción y permanencia de su personal académico; y administrarán su patrimonio. Las relaciones laborales tanto del personal académico como del administrativo, se normarán conforme lo dispone la fracción VII del artículo 3o. de la Constitución General de la República.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2254,5 +2256,9 @@ P.O. 7 DE SEPTIEMBRE DE 1992.
 UNICO. Este Decreto deberá imprimirse y publicarse con las reformas aprobadas.
 
 P.O. 8 DE FEBRERO DE 1993.
+
+UNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE ENERO DE 1994.
 
 UNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
