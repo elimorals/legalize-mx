@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2004-02-12"
+last_updated: "2004-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -229,9 +229,17 @@ XIII. Secretaría de Cultura;
 
 XIV. Oficialía Mayor;
 
-XV. Procuraduría General de Justicia, y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
-XVI. Contraloría General del Estado.
+XV. Procuraduría General de Justicia,
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+XVI. Contraloría General del Estado, y
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+XVII. La Secretaría de Salud.
 
 En el caso de la Consejería Jurídica y de la Defensoría Social, éstas quedarán adscritas al Despacho del Ejecutivo.
 
@@ -995,6 +1003,50 @@ XVII. Instrumentar anualmente su programa de operación, el cual será sometido 
 
 XVIII. Las demás que le señalen otras disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
+ARTICULO 41 TER. A la Secretaría de Salud corresponde el despacho de los siguientes asuntos:
+
+I. Proponer la política estatal en materia de salud, así como conducir y evaluar los programas que operan los Servicios de Salud en el Estado;
+
+II. Establecer y desarrollar los programas que estime convenientes y necesarios, para preservar y mejorar las condiciones de salud de los habitantes, con apoyo y en coordinación con los organismos que forman parte del sector salud y de la administración pública en el Estado;
+
+III. Planear, normar, establecer, coordinar y evaluar el Sistema Estatal de Salud, en coordinación con instituciones de salud públicas, sociales y privadas;
+
+IV. Implementar y fortalecer el Sistema Estatal de Protección Social de Salud en el Estado;
+
+V. Planear, promover, apoyar y vigilar los servicios de atención médica y sus auxiliares de diagnóstico y terapéutico, que realicen las instituciones públicas, privadas y sociales en los términos de las leyes respectivas;
+
+VI. Proponer al Ejecutivo la celebración de convenios, contratos y acuerdos de coordinación de acciones en materia de salud, de conformidad con lo establecido por la legislación federal y estatal vigente;
+
+VII. Vigilar el cumplimiento de las leyes General y Estatal de Salud, así como de los acuerdos, convenios y contratos que en los términos de las mismas se celebren;
+
+VIII. Consolidar el sistema estatal de información básica en materia de salud, y su actualización permanente;
+
+IX. Difundir los contenidos de los programas que establezcan tanto la Federación como el Estado en materia de salud, y orientar a la población en el uso y aprovechamiento de éstos;
+
+X. Presidir la junta de gobierno o equivalentes, de las instituciones y organismos descentralizados de la administración pública estatal, que realicen actividades de salud en el Estado;
+
+XI. Establecer las normas que deben observar las instituciones y organismos públicos privados y sociales, en cuanto a la prestación de los servicios de salud;
+
+XII. Vigilar los servicios que presten las instituciones de la sociedad civil, en los términos de las leyes y reglamentos aplicables en materia de salud;
+
+XIII. Organizar, operar, supervisar y evaluar la prestación de los servicios de salubridad general, que corresponda ejercer al estado en términos de la Ley General de Salud, de conformidad con las disposiciones aplicables y los acuerdos específicos de coordinación que celebre con el Ejecutivo Federal;
+
+XIV. Ejercer el control sanitario de las materias de salubridad general que le correspondan, de conformidad con la Ley General de Salud y la Ley de Salud del Estado, incluidas aquellas ejercidas en los términos de los acuerdos específicos de coordinación que para el efecto se suscriban con la Federación, aplicando las medidas de seguridad y las sanciones que en su ámbito de competencia le corresponda ejercer;
+
+XV. Dictar las normas técnicas en materia local y verificar su cumplimiento;
+
+XVI. Resolver los recursos administrativos que se interpongan en contra de los actos emitidos en las materias de su competencia;
+
+XVII. Promover, apoyar y coordinar las acciones de docencia, investigación y capacitación en el campo de la salud, y difundir los resultados de los estudios realizados;
+
+XVIII. Asesorar y apoyar a los organismos públicos, estatales y municipales, en la instrumentación de medidas y acciones en materia de salud;
+
+XIX. Promover, organizar y participar en conferencias, convenciones, encuentros y congresos en materia de salud, y
+
+XX. Las demás que le confieran las leyes y reglamentos vigentes.
+
 ###### ARTICULO 42.
 
 La Procuraduría General de Justicia es el órgano del Ejecutivo del Estado al que corresponde ejercer las atribuciones conferidas al Ministerio Público por la Constitución Política de los Estados Unidos Mexicanos, por la Constitución Política del Estado y por la Ley Orgánica de la Procuraduría General de Justicia del Estado de San Luis Potosí.
@@ -1244,3 +1296,15 @@ P.O. 12 DE FEBRERO DE 2004.
 PRIMERO. Previa su publicación en el Periódico Oficial del Estado, el presente Decreto entrará en vigor el día siguiente al de la publicación, en el mismo órgano informativo oficial, del diverso Decreto por el que se reforman los párrafos primero y cuarto del artículo 10 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2004.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+TERCERO. De conformidad con este Decreto el Ejecutivo del Estado, deberá adecuar los ordenamientos administrativos aplicables al organismo público descentralizado denominado Servicios de Salud de San Luis Potosí, en un plazo no mayor a sesenta días, a partir de su entrada en vigor.
+
+CUARTO. El Honorable Congreso del Estado destinará la partida presupuestal necesaria, para la operación de la Secretaría de Salud, que se crea por virtud del presente Decreto.
+
+QUINTO. Los Servicios de Salud del Estado quedan sectorizados a la Secretaría de Salud. Los derechos laborales adquiridos por los trabajadores de esa entidad, serán respetados y continuarán vigentes en los términos previos a la expedición y ejecución de este Decreto.
