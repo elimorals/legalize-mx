@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2003-04-30"
+last_updated: "2003-05-29"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MAYO DE 2003.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -95,7 +95,7 @@ XX.- VIGESIMO CIRCUITO: Estado de Chiapas.
 
 XXI.- VIGESIMO PRIMER CIRCUITO: Estado de Guerrero.
 
-> <small>(REFORMADO POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
 
 XXII.- VIGESIMO SEGUNDO CIRCUITO: Estado de Querétaro.
 
@@ -113,7 +113,7 @@ XXVII.- VIGESIMO SEPTIMO CIRCUITO: Estado de Quintana Roo.
 
 XXVIII.- VIGESIMO OCTAVO CIRCUITO: Estado de Tlaxcala.
 
-> <small>(ADICIONADO POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
 
 XXIX.- VIGESIMO NOVENO CIRCUITO: Estado de Hidalgo.
 
@@ -121,9 +121,9 @@ SEGUNDO.- Cada uno de los circuitos a que se refiere el punto primero comprender
 
 I.- PRIMER CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 86/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 29/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MAYO DE 2003)</small>
 
-1.- Cincuenta y dos tribunales colegiados especializados: diez en materia penal, trece en materia administrativa, catorce en materia civil y quince en materia de trabajo, todos con residencia en el Distrito Federal.
+1.- Cincuenta y tres tribunales colegiados especializados: diez en materia penal, catorce en materia administrativa, catorce en materia civil y quince en materia de trabajo, todos con residencia en el Distrito Federal.
 
 2.- Seis tribunales unitarios especializados: cuatro en materia penal y dos en materias civil y administrativa, todos con residencia en el Distrito Federal.
 
@@ -345,7 +345,7 @@ XXI.- VIGESIMO PRIMER CIRCUITO:
 
 3.- Seis juzgados de distrito en el Estado de Guerrero: uno con residencia en Chilpancingo, cuatro con sede en Acapulco y uno con residencia en Iguala.
 
-> <small>(REFORMADA POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMO DEL ACUERDO GENERAL 66/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2002)</small>
 
 XXII.- VIGESIMO SEGUNDO CIRCUITO:
 
@@ -1074,3 +1074,9 @@ D.O.F. 30 DE ABRIL DE 2003.
 PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 29 DE MAYO DE 2003.
+
+PRIMERO.- Este acuerdo entrará en vigor el dos de junio de dos mil tres.
+
+SEGUNDO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
