@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1980-03-18"
+last_updated: "1980-06-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MARZO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JUNIO DE 1980.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -74,7 +74,11 @@ VI.- La educación primaria será obligatoria;
 
 VII.- Toda la educación que el Estado imparta será gratuita;
 
-VIII.- El Congreso de la Unión, con el fin de unificar y coordinar la educación en toda la República, expedirá las leyes necesarias, destinadas a distribuir la función social educativa entre la Federación, los Estados y los Municipios, a fijar las aportaciones económicas correspondientes a ese servicio público y a señalar las sanciones aplicables a los funcionarios que no cumplan o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan.
+> <small>(ADICIONADA, D.O.F. 9 DE JUNIO DE 1980)</small>
+
+VIII.- Las universidades y las demás instituciones de educación superior a las que la Ley otorgue autonomía, tendrán la facultad y la responsabilidad de gobernarse a sí mismas; realizarán sus fines de educar, investigar y difundir la cultura de acuerdo con los principios de este artículo, respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas; determinarán sus planes y programas; fijarán los términos de ingreso, promoción y permanencia de su personal académico; y administrarán su patrimonio. Las relaciones laborales, tanto del personal académico como del administrativo, se normarán por el Apartado A del Artículo 123 de esta Constitución, en los términos y con las modalidades que establezca la Ley Federal del Trabajo conforme a las características propias de un trabajo especial, de manera que concuerden con la autonomía, la libertad de cátedra e investigación y los fines de las instituciones a que esta fracción se refiere;
+
+IX.- El Congreso de la Unión, con el fin de unificar y coordinar la educación en toda la República, expedirá las leyes necesarias, destinadas a distribuir la función social educativa entre la Federación, los Estados y los Municipios, a fijar las aportaciones económicas correspondientes a ese servicio público y a señalar las sanciones aplicables a los funcionarios que no cumplan o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -3173,5 +3177,9 @@ El Pleno de la Suprema Corte de Justicia determinará cuándo la Sala Auxiliar d
 Se faculta a la Suprema Corte de Justicia de la Nación para dictar las medidas necesarias a fin de lograr la efectividad de las presentes reformas.
 
 D.O.F. 18 DE MARZO DE 1980.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 9 DE JUNIO DE 1980.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
