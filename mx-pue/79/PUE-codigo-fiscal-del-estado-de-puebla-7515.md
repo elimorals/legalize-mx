@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "2002-01-11"
+last_updated: "2002-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2002.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -307,7 +307,7 @@ III. Si ambos o todos los acreedores públicos poseen derechos reales, la prefer
 
 Para determinar la preferencia de los créditos fiscales se estará a lo siguiente:
 
-I.- Los créditos a favor del Gobierno del Estado provenientes de impuestos, derechos, productos y aprovechamientos, serán preferentes a cualesquiera otros con excepción de los créditos de alimentos, de salario y sueldos devengados durante el último año, o de indemnizaciones a los obreros conforme lo que dispone la Ley Federal del Trabajo, además de los créditos con garantía hipotecaría o prendaria.
+I.- Los créditos a favor del Gobierno del Estado provenientes de impuestos, derechos, productos y aprovechamientos, serán preferentes a cualesquiera otros con excepción de los créditos de alimentos, de salario y sueldos devengados durante el último año, o de indemnizaciones a los obreros conforme lo que dispone la Ley Federal del Trabajo, además de los créditos con garantía hipotecaria o prendaria.
 
 II.- Para que sea aplicable la excepción a que se refiere la fracción anterior, será requisito indispensable que antes de que se notifique al deudor el crédito fiscal, se haya presentado la demanda ante la Autoridad competente, y ésta, hubiere dictado el auto que la admita. En el caso de las garantías hipotecarias y prendarias, el requisito será que éstas se encuentren inscritas en el Registro Público de la Propiedad y del Comercio, antes de la notificación del crédito Fiscal.
 
@@ -1401,61 +1401,61 @@ La Autoridad Fiscal impondrá las sanciones por infracción a las disposiciones 
 
 A.- Por las infracciones señaladas en el artículo 58:
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2002)
 
-I.- De $ 36.00 a $ 72.00 a la comprendida en la fracción VI.
+I.- De $ 37.00 a $ 74.00 a la comprendida en la fracción VI.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2002)
 
-II.- De $ 106.00 a $ 214.00 a la comprendida en la fracción II.
+II.- De $ 109.00 a $ 220.00 a la comprendida en la fracción II.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2002)
 
-III.- De $ 143.00 a $ 285.00 a la comprendida en la fracción III.
+III.- De $ 147.00 a $ 292.00 a la comprendida en la fracción III.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2002)
 
-IV.- De $ 178.00 a $ 355.00 a la establecida en la fracción V.
+IV.- De $ 183.00 a $ 364.00 a la establecida en la fracción V.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2002)
 
-V.- De $ 178.00 a $ 355.00 a la establecida en la fracción VII.
+V.- De $ 183.00 a $ 364.00 a la establecida en la fracción VII.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2002)
 
-VI.- De $ 214.00 a $ 427.00 a la comprendida en la fracción XV.
+VI.- De $ 220.00 a $ 438.00 a la comprendida en la fracción XV.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2002)
 
-VII.- De $ 285.00 a $ 570.00 a la señalada en la fracción XVIII.
+VII.- De $ 292.00 a $ 585.00 a la señalada en la fracción XVIII.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2002)
 
-VIII.- De $ 356.00 a $ 713.00 a las comprendidas en las fracciones IX y XI.
+VIII.- De $ 365.00 a $ 732.00 a las comprendidas en las fracciones IX y XI.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2002)
 
-IX.- De $ 534.00 a $ 1,067.00 a la establecida en la fracción X.
+IX.- De $ 548.00 a $ 1,095.00 a la establecida en la fracción X.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2002)
 
-X.- De $ 569.00 a $ 1,140.00 a la comprendida en la fracción IV.
+X.- De $ 584.00 a $ 1,170.00 a la comprendida en la fracción IV.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2002)
 
-XI.- De $ 642.00 a $ 1,283.00 a las comprendidas en las fracciones I, VIII, XII y XIII.
+XI.- De $ 659.00 a $ 1,317.00 a las comprendidas en las fracciones I, VIII, XII y XIII.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2002)
 
-XII.- De $ 713.00 a $ 1,425.00 a la señalada en la fracción XVII.
+XII.- De $ 732.00 a $ 1,462.00 a la señalada en la fracción XVII.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2002)
 
-XIII.- De $ 1,781.00 a $ 3,563.00 a la comprendida en la fracción XIX.
+XIII.- De $ 1,828.00 a $ 3,657.00 a la comprendida en la fracción XIX.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 11 DE ENERO DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2002)
 
-XIV.- De $ 109.00 a $ 272.00 a quien cometa la comprendida en la fracción XX.
+XIV.- De $ 112.00 a $ 279.00 a quien cometa la comprendida en la fracción XX.
 
 B.- Cuando la comisión de la infracción señalada en el artículo 58-A sea descubierta por las Autoridades Fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes sanciones:
 
@@ -2326,5 +2326,9 @@ SEGUNDO.- Las Autoridades Fiscales a que se refieren las fracciones IV, VIII, X,
 TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
 
 P.O. 11 DE ENERO DE 2002.
+
+El presente Acuerdo entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JULIO DE 2002.
 
 El presente Acuerdo entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
