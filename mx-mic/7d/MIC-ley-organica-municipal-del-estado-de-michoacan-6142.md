@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-6142"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1982-08-05"
-last_updated: "1992-02-27"
+last_updated: "2001-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6142&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY ORGANICA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 1992.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA MUNICIPAL DEL ESTADO DE MICHOACAN, PUBLICADO EN EL P.O. EL 31 DE DICIEMBRE DE 2001, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán de Ocampo, el jueves 5 de agosto de 1982.
 
@@ -1506,3 +1508,41 @@ P.O. 27 DE FEBRERO DE 1992.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2001.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley iniciará su vigencia a los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica Municipal, publicada en el Periódico Oficial del Estado de fecha 5 de Agosto de 1982 y se derogan sus posteriores reformas y adiciones.
+
+###### ARTÍCULO TERCERO.
+
+Se abrogan las Bases Normativas para la Expedición de Bandos y Reglamentos Municipales, publicadas en el Periódico Oficial del Estado el 31 de julio de 1986.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos deberán expedir el Bando de Gobierno Municipal, los reglamentos y disposiciones administrativas de observancia general, en un plazo no mayor de ciento ochenta días, contado a partir de la vigencia de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Hasta en tanto transcurran los ciento ochenta días, se aplicarán el Bando de Gobierno Municipal, los reglamentos y disposiciones administrativas, vigentes al momento de la entrada en vigor de la presente ley.
+
+###### ARTÍCULO SEXTO.
+
+Para lograr la aplicación de las figuras del referendum, plebiscito e iniciativa popular contenida en artículo 119; hacer operativo el Servicio Civil de Carrera; el funcionamiento del Comité de Obra Pública, Adquisiciones, Enajenaciones, Arrendamientos y contratación de servicios de bienes muebles e inmuebles; los ayuntamientos deberán expedir los reglamentos necesarios respectivos para la regulación de tales figuras jurídicas, en un plazo no mayor de ciento ochenta días, contados a partir de la vigencia de la presente Ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+Si los Ayuntamientos consideran que no están en posibilidad de prestar en forma eficiente el servicio público de tránsito establecido en esta Ley, podrán establecer convenios con la instancia estatal para que lo siga prestando hasta en tanto los municipios cuenten con la infraestructura, capacitación y el presupuesto necesario; pero en ningún caso podrán exceder de un año contado a partir de la vigencia de la presente Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Los recursos interpuestos contra las resoluciones de los Ayuntamientos que se hayan promovido antes de la vigencia de esta Ley, se substanciarán y decidirán conforme a las reglas de la Ley que se abroga.
+
+###### ARTÍCULO NOVENO.
+
+El Congreso del Estado dentro del plazo de un año, contado a partir de la vigencia de la presente Ley, deberá expedir la ley de creación, integración y funcionamiento, del Tribunal de lo Contencioso Administrativo Municipal.
