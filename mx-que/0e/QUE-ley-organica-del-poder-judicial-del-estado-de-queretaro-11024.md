@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-judicial-del-estado-de-queretaro-11024"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-02-27"
-last_updated: "1997-02-27"
+last_updated: "1999-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,15 @@ state: "QUE"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUERETARO
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUERETARO
+LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 27 de febrero de 1997.
 
 ENRIQUE BURGOS GARCIA, Gobernador Constitucional del Estado Libre y Soberano de Querétaro de Arteaga, a los habitantes del mismo, sabed que:
 
-LA QUINCUAGESIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 41 FRACCION II DE LA CONSTITUCION POLITICA LOCAL...ha tenido a bien expedir la siguiente:
+LA QUINCUAGESIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUERETARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 41 FRACCION II DE LA CONSTITUCION POLITICA LOCAL ... ha tenido a bien expedir la siguiente:
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUERETARO
 
@@ -153,9 +153,11 @@ El Pleno se compondrá de los magistrados propietarios que integran el Tribunal 
 
 Los magistrados supernumerarios formarán parte del Pleno cuando sustituyan a los magistrados propietarios y además desempeñarán las funciones que les señala esta Ley.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 13.
 
-Las resoluciones del Pleno se tomarán por unanimidad o mayoría de votos de los magistrados presentes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal o, cuando no hayan estado presentes durante la discusión del asunto de que se trate; en caso de empate, se confiere voto de calidad al Presidente del Tribunal.
+Las resoluciones del Pleno se tomarán por unanimidad o mayoría de votos de los magistrados presentes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal o, en la discusión del asunto que se trate, no hubiesen estado presentes. En caso de empate, el asunto volverá a ser discutido en la misma sesión o en la inmediata posterior y se resolverá en los términos antes establecidos; de continuar el empate, el Presidente del Tribunal decidirá por cualquiera de las posturas, bajo su más estricta responsabilidad, fundando y motivando su determinación.
 
 ###### ARTICULO 14.
 
@@ -225,9 +227,11 @@ XXVIII.- Las demás que ésta u otras leyes le encomienden.
 
 ### CAPITULO III. DEL PRESIDENTE DEL TRIBUNAL
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 16.
 
-El Tribunal Superior de Justicia del Estado tendrá un presidente que durará en su cargo un año y podrá ser reelecto. Será designado anualmente en escrutinio secreto entre los propios Magistrados, en la primera sesión del Pleno del Tribunal que se celebre después del 16 de septiembre de cada año. Será sustituido en sus ausencias y faltas temporales por el magistrado que señale el Tribunal en Pleno, y cuando se trate de ausencia definitiva se hará nueva elección del Magistrado que deba terminar el período.
+El Tribunal Superior de Justicia tendrá un presidente que durará en su encargo un año y podrá ser reelecto sólo por un período inmediato. Será designado entre los propios Magistrados, por lo menos por el voto de las dos terceras partes de la totalidad de los Magistrados Propietarios, quienes lo emitirán en escrutinio secreto, en la primera sesión extraordinaria que para el efecto se convoque durante la última semana del mes de septiembre de cada año, la que no podrá suspenderse hasta darse la designación. En este caso, no es aplicable lo dispuesto por el artículo 13 de esta Ley.
 
 ###### ARTICULO 17.
 
@@ -1670,3 +1674,9 @@ MIGUEL RODRIGUEZ MACIEL
 > <small>(F. DE E., P.O. 21 DE SEPTIEMBRE DEL 2001)</small>
 
 EN CUMPLIMIENTO POR LO DISPUESTO EN LA FRACCION PRIMERA DEL ARTICULO CINCUENTA Y SIETE DE LA CONSTITUCION POLITICA DE ESTA ENTIDAD, Y PARA SU DEBIDA PUBLICACION Y OBSERVANCIA, EXPIDO LA PRESENTE LEY EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO A LOS VEINTICINCO DIAS DEL MES DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y SIETE. LIC. ENRIQUE BURGOS GARCIA. GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. ALEJANDRO ESPINOSA MEDINA. SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE JULIO DE 1999
+
+UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el periódico oficial La Sombra de Arteaga, derogándose las disposiciones que se opongan a esta reforma.
