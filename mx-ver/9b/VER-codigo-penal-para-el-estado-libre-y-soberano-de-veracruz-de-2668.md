@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-266
 country: "mx"
 rank: "codigo"
 publication_date: "1980-09-13"
-last_updated: "2000-07-31"
+last_updated: "2001-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE JULIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE NOVIEMBRE DE 2001.
 
 Código publicado en la Gaceta Oficial de Veracruz-Llave, el sábado 13 de septiembre de 1980.
 
@@ -1519,11 +1519,11 @@ Al que sin tomar las medias indispensables para cerciorarse de su procedencia le
 
 Al que por más de una ocasión participe en la adquisición o comercialización de mercancías o bienes procedentes de robos a vehículos que circulen en carreteras o caminos se le impondrá prisión de cinco a quince años y multa hasta de quinientas veces el salario mínimo.
 
-> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, G.O. 20 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTICULO 178.
 
-Las mismas sanciones establecidas en el artículo anterior, se aplicarán al que robe una colmena, las abejas o sus productos.
+Las mismas sanciones establecidas en el artículo 177, se aplicarán al que robe una colmena, las abejas o sus productos.
 
 > <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1986)</small>
 
@@ -3000,3 +3000,7 @@ Segundo. Se derogan todas las disposiciones que se opongan a la presente Ley.
 G.O. 31 DE JULIO DE 2000.
 
 Único. La presente Ley entrará en vigor cinco días después de su publicación en la Gaceta Oficial del estado.
+
+G.O. 20 DE NOVIEMBRE DE 2001.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
