@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-poder-judicial-del-estado-de-coahuila-de-3733"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-11"
-last_updated: "1991-05-14"
+last_updated: "1996-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MAYO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 1990.
 
@@ -43,6 +43,10 @@ La justicia se imparte en nombre del pueblo y se administra por el Estado a trav
 
 El ejercicio de la potestad jurisdiccional en todo tipo de procesos, corresponde exclusivamente a los órganos del Poder Judicial en los negocios que les encomienden las leyes, según los procedimientos que las mismas establezcan.
 
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 1996)</small>
+
+El Tribunal Superior de Justicia será la máxima autoridad jurisdiccional en materia electoral.
+
 ###### ARTICULO 2o.
 
 La facultad a que se refiere el artículo anterior se ejerce:
@@ -61,7 +65,7 @@ c).- Penales; y
 
 d).- Mixtos, cuando deban conocer de dos o más materias;
 
-IV.- Por los Consejos tutelares para Menores;
+IV.- (DEROGADA, P.O. 2 DE JULIO DE 1996)
 
 V.- Por los Juzgados de Conciliación; y
 
@@ -75,13 +79,15 @@ Los árbitros voluntarios no ejercerán autoridad pública; pero conocerán del 
 
 Son auxiliares de la administración de justicia:
 
-I.- El Ministerio Público y la Policía Judicial;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1996)</small>
+
+I.- El Ministerio Público y la Policía Ministerial;
 
 II.- La Dirección de Seguridad Pública en el Estado;
 
-III.- La Procuraduría de la Defensa del Menor;
+III.- (DEROGADA, P.O. 2 DE JULIO DE 1996)
 
-IV.- Los Patronatos Distritales de Menores;
+IV.- (DEROGADA, P.O. 2 DE JULIO DE 1996)
 
 V.- El director y los jefes de las oficinas del Registro Público de la Propiedad;
 
@@ -149,11 +155,17 @@ VIII.- Distrito de Parras de la Fuente, con cabecera en la ciudad de Parras, que
 
 ### CAPITULO I. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 6o.
 
-El Tribunal Superior de Justicia del Estado, estará integrado por diez magistrados numerarios y seis supernumerarios y funcionará en Pleno o en Salas, según lo determinen esta Ley y demás ordenamientos aplicables.
+El Tribunal Superior de Justicia del Estado, estará integrado por siete Magistrados Numerarios y seis Supernumerarios y funcionará en Pleno o en Salas, según lo determinen esta Ley y demás ordenamientos aplicables.
 
 Será presidente, uno de los magistrados numerarios, designado por el Pleno, quien no integrará Sala durante el tiempo que dure su encargo.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 1996)</small>
+
+El Tribunal Superior de Justicia del Estado, conocerá y resolverá de los asuntos de su competencia en materia electoral, a través de una Sala Auxiliar y del Pleno del propio Tribunal, en los términos ordenados en el artículo 27 de la Constitución Política del Estado y lo que disponga la Ley de la materia.
 
 ###### ARTICULO 7o.
 
@@ -163,11 +175,11 @@ Los magistrados que integren el Tribunal Superior de Justicia deberán residir e
 
 ### CAPITULO II. DEL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1996)</small>
 
 ###### ARTICULO 8o.
 
-El Pleno del Tribunal Superior de Justicia se integra con los diez magistrados numerarios y será presidido por aquel que designe el propio Cuerpo Colegiado, en los términos del artículo 13 de esta Ley.
+El Pleno del Tribunal Superior de Justicia, se integra con los siete Magistrados Numerarios y será presidido por aquel que designe el propio Cuerpo Colegiado, en los términos del artículo 13 de esta Ley.
 
 ###### ARTICULO 9o.
 
@@ -195,7 +207,9 @@ Corresponde al Pleno del Tribunal Superior de Justicia:
 
 I.- Ejercer el derecho de iniciar leyes, en los términos de la fracción III, del artículo 59, de la Constitución Política del Estado;
 
-II.- Conocer en segunda instancia de las causas civiles en que el Estado sea parte;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1996)</small>
+
+II.- Conocer en segunda instancia de las causas civiles en que el Estado sea parte; y del recurso de apelación en materia electoral, en los términos señalados en la Ley correspondiente;
 
 III.- Conocer en única instancia de los procesos a que se refiere el tercer párrafo del artículo 165 de la Constitución Política del Estado;
 
@@ -219,7 +233,9 @@ XI.- Realizar los cambios que sean necesarios entre los magistrados numerarios, 
 
 XII.- Exigir del presidente del Tribunal el fiel cumplimiento de sus obligaciones y la responsabilidad en que incurra de acuerdo a la Ley, en el ejercicio de sus funciones;
 
-XIII.- Nombrar y remover, en los términos que señala esta Ley, a los magistrados de Distrito, jueces de Primera Instancia, de Conciliación, integrantes de los Consejos Tutelares para Menores, secretario del Pleno y demás personal del Tribunal Superior que no dependa de las Salas;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1996)</small>
+
+XIII.- Nombrar y remover, en los términos que señala esta ley, a los Magistrados de Distrito, Jueces de Primera Instancia y de Conciliación, Secretario del Pleno y demás personal del Tribunal Superior que no dependa de las Salas;
 
 XIV.- Señalar o cambiar la adscripción de los titulares de los órganos jurisdiccionales subalternos, variar la materia y circunscripción territorial de éstos y cambiar el lugar de su residencia; así como establecer los criterios generales que sean necesarios para la adecuada distribución de los asuntos en los lugares en donde existan varios Juzgados de Primera Instancia;
 
@@ -231,13 +247,17 @@ XVII.- Discutir, aprobar y modificar, según proceda, el proyecto de presupuesto
 
 XVIII.- Acordar el aumento de las Salas del Tribunal Superior y el aumento o supresión de otros órganos, así como la planta de servidores públicos de la administración de justicia, cuando las necesidades del servicio lo requieran y lo permitan los recursos financieros del Poder Judicial;
 
-XIX.- Acordar, en las mismas condiciones que se señalan en la fracción que antecede, que los magistrados supernumerarios integren Salas Auxiliares del Tribunal Superior, asignándoles en el mismo acuerdo, el tiempo que deberán funcionar y los asuntos de los que deban conocer.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 1996)</small>
+
+XIX.- Acordar, en las mismas condiciones que se señalan en la fracción que antecede, que los Magistrados Supernumerarios integren Salas Auxiliares del Tribunal Superior, asignándoles en el mismo acuerdo, el tiempo que deberán funcionar y los asuntos de los que deban conocer, tratándose de la Sala Auxiliar en materia electoral, a que se refiere el artículo 27 de la Constitución Política del Estado, el tiempo que deberá funcionar y los asuntos de los que será competente para conocer, los determinará la Ley de la materia.
 
 En este caso los magistrados supernumerarios percibirán los mismos emolumentos que los numerarios.
 
 Los acuerdos a que se refiere esta fracción y la que antecede, serán publicados previamente en el Periódico Oficial del Estado, para que surtan sus efectos;
 
-XX.- Ordenar a sus miembros la práctica de visitas ordinarias y extraordinarias a los Tribunales Unitarios de Distritos, Juzgados de Primera Instancia y de Conciliación, Consejos Tutelares para Menores, cuando lo estime necesario a los lugares de reclusión o de readaptación con objeto de proveer a una mejor administración de justicia.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 1996)</small>
+
+XX.- Ordenar a sus miembros la práctica de visitas ordinarias y extraordinarias a los Tribunales Unitarios de Distrito, Juzgados de Primera Instancia y de Conciliación, cuando lo estime necesario a los lugares de reclusión o de readaptación, con objeto de proveer a una mejor administración de justicia.
 
 En el caso de los Juzgados de Conciliación, la práctica de visitas podrán encomendarse a los Jueces de Primera Instancia;
 
@@ -261,7 +281,9 @@ XXVIII.- Designar al oficial mayor y al secretario particular de la Presidencia 
 
 XXIX.- Aprobar el Reglamento Interior del Tribunal y de las Salas;
 
-XXX.- Aprobar el Reglamento interior de los Tribunales Unitarios de Distrito, Juzgados, Consejos Tutelares y demás dependencias del Poder Judicial; y
+> <small>(REFORMADA P.O. 2 DE JULIO DE 1996)</small>
+
+XXX.- Aprobar el Reglamento Interior de los Tribunales Unitarios de Distrito, Juzgados, y demás dependencias del Poder Judicial;
 
 XXXI.- Las demás que le confieran las leyes.
 
@@ -297,11 +319,13 @@ IV.- Autorizar con su firma, en unión del Secretario General, los proveídos de
 
 V.- Presidir las sesiones que celebre el Tribunal Pleno; dirigir los debates conservando el orden durante las sesiones y poner a votación los negocios sometidos al conocimiento del Pleno, cuando se declare cerrada la discusión;
 
-VI.- Convocar a sesiones extraordinarias;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1996)</small>
 
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+VI.- Convocar a sesiones extraordinarias, así como a la instalación de la Sala Auxiliar en materia electoral, y hacer la declaratoria de inicio de sus funciones;
 
-VII.- Formular anualmente el proyecto de Presupuesto de Egresos del Poder Judicial y someterlo a la consideración del Pleno; aprobado éste, el presidente deberá proponerlo al Ejecutivo para los efectos del artículo 152 de la Constitución Política;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1996)</small>
+
+VII.- Formular anualmente el proyecto de presupuesto de egresos del Poder Judicial, o su ampliación cuando la materia electoral de que deba conocer así lo requiera; y someterlo a la consideración del Pleno. Aprobado éste, el Presidente deberá proponerlo al Ejecutivo, para los efectos del artículo 152, de la Constitución Política;
 
 VIII.- Establecer las políticas generales, supervisar la administración de los recursos humanos y el ejercicio del Presupuesto de Egresos que se fije para el Poder Judicial, así como los del Fondo de Mejoramiento de la Administración de Justicia;
 
@@ -313,7 +337,9 @@ XI.- Recibir las quejas motivadas por demoras o faltas en el despacho de los neg
 
 XII.- Dar cuenta al Tribunal Pleno de las demandas de responsabilidad civil que se presenten en contra de los Magistrados del Tribunal Superior;
 
-XIII.- Conceder licencias económicas con goce de sueldo, por causa justificada hasta por quince días, a los magistrados de los Tribunales Unitarios de Distrito, a los jueces, a los integrantes de los Consejos Tutelares para Menores y a los demás empleados del Tribunal, que no dependan de las Salas;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1996)</small>
+
+XIII.- Conceder licencias económicas con goce de sueldo, por causa justificada, hasta por quince días, a los Magistrados Unitarios de Distrito, a los Jueces y a los demás empleados del Tribunal, que no dependan de las Salas;
 
 XIV.- Someter a la consideración del Pleno, las solicitudes de licencias de los servidores del Poder Judicial, cuando excedan de quince días;
 
@@ -367,11 +393,13 @@ La Presidencia del Tribunal Superior de Justicia dispondrá del número de emple
 
 ### CAPITULO IV. DE LAS SALAS DEL TRIBUNAL
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 16.
 
-Habrá tres Salas del Tribunal Superior de Justicia, integradas cada una por tres magistrados numerarios. Estos se designarán por el número ordinal que les corresponda en el orden siguiente: civil, de lo familiar y penal.
+Habrá dos Salas del Tribunal Superior de Justicia, integrada cada una por tres Magistrados Numerarios, los cuales se adscribirán a la Sala Civil y Familiar, y a la Sala Penal.
 
-A cada Sala le corresponden dos magistrados supernumerarios adscritos por el Pleno, los cuales suplirán a los numerarios en los términos establecidos por esta Ley.
+A las Salas se les asignarán Magistrados Supernumerarios adscritos por el Pleno, los cuales suplirán a los numerarios en los términos establecidos por la Ley, y en su caso, suplirán a los Magistrados que integren la Sala Auxiliar en Materia Electoral.
 
 ###### ARTICULO 17.
 
@@ -455,11 +483,15 @@ Toda solicitud de licencia requiere causa justificada y las de los secretarios d
 
 VIII.- Las demás que les confieran las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 22.
 
-Corresponde conocer a la Primera Sala:
+Corresponde conocer a la Sala Civil y Familiar:
 
-I.- De los recursos de apelación contra sentencias definitivas pronunciadas por los Jueces de Primera Instancia, en materia civil;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1996)</small>
+
+I.- De los recursos de apelación contra sentencias definitivas pronunciadas por los Jueces de Primera Instancia, en asuntos en materia civil y familiar;
 
 > <small>(REFORMADA, P.O. 14 DE MAYO DE 1991)</small>
 
@@ -477,11 +509,17 @@ IV.- En única instancia, de las demandas de responsabilidad civil presentadas c
 
 V.- De los Recursos de Apelación que deba conocer el Tribunal Unitario de Distrito, a petición fundada del propio Tribunal o de oficio, cuando por sus características especiales el asunto lo amerite; y
 
-VI.- De los demás asuntos que le encomienden las leyes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 1996)</small>
+
+VI.- De las revisiones forzosas en materia familiar; y,
+
+VII.- De los demás asuntos que le encomienden las leyes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 1996)</small>
 
 ###### ARTICULO 23.
 
-Corresponde conocer a la Segunda Sala:
+Corresponde conocer a la Sala Penal:
 
 I.- De los recursos de apelación contra sentencias definitivas pronunciadas por los jueces de Primera Instancia, en Materia Penal;
 
@@ -491,19 +529,11 @@ III.- De los recursos de apelación, cuya competencia corresponda al Tribunal Un
 
 IV.- De los demás asuntos que determinen las leyes.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 24.
 
-Corresponde conocer a la Tercera Sala:
-
-I.- De los recursos de apelación contra sentencias definitivas pronunciadas por los Jueces de Primera Instancia, en asuntos de derecho familiar;
-
-II.- De las revisiones forzosas, en materia familiar;
-
-III.- En única instancia, las demandas de responsabilidad civil presentadas contra los Magistrados de Distrito y jueces de Primera Instancia, derivadas de asuntos de materia familiar; así como las que se formulen contra los integrantes de los Consejo Tutelares para Menores;
-
-IV.- De los recursos de apelación, cuya competencia corresponda al Tribunal Unitario, a petición fundada del propio Tribunal o de oficio, cuando por las características especiales el asunto lo amerite; y
-
-V.- Los demás asuntos que le señalen, esta Ley y demás disposiciones legales.
+Corresponde conocer a la Sala Auxiliar en Materia Electoral de los asuntos que establezca la Constitución Política del Estado y las leyes de la materia.
 
 ###### ARTICULO 25.
 
@@ -513,7 +543,7 @@ Para el desempeño de sus funciones cada Sala tendrá los Secretarios de acuerdo
 
 ### CAPITULO VI. DE LOS JUZGADOS DE PRIMERA INSTANCIA CIVILES, DE LO FAMILIAR, PENALES Y MIXTOS
 
-### CAPITULO VII. DE LOS CONSEJOS TUTELARES PARA MENORES
+### CAPITULO VII
 
 ### CAPITULO VIII. DE LOS JUECES DE CONCILIACION
 
@@ -683,87 +713,37 @@ Los jueces de Primera Instancia deberán rendir al Tribunal Superior de Justicia
 
 En los Juzgados de Primera Instancia habrá los Secretarios de estudio y cuenta que las necesidades del servicio requieran y autorice el Presupuesto de Egresos.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE JULIO DE 1996)</small>
+
 ### CAPITULO II. DE LA CARRERA JUDICIAL
 
 ###### ARTICULO 40.
 
-En el Estado se instalarán los Consejos Tutelares para Menores que sean necesarios para atender los asuntos y aplicar las medidas tutelares a los menores de dieciséis años en estado de abandono, peligro o infractores, así como para conocer de las accesoriedades que con estos asuntos se relacionen. Su residencia territorial, se determinara por el Pleno del Tribunal.
+(DEROGADO, P.O. 2 DE JULIO DE 1996)
 
 ###### ARTICULO 41.
 
-Los Consejos Tutelares para Menores se integrarán por tres miembros: Un licenciado en derecho, un médico y un pedagogo.
-
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+(DEROGADO, P.O. 2 DE JULIO DE 1996)
 
 ###### ARTICULO 42.
 
-La Presidencia de los Consejos Tutelares la ejercerá el licenciado en derecho, sin perjuicio de la igualdad de sus miembros.
+(DEROGADO, P.O. 2 DE JULIO DE 1996)
 
 ###### ARTICULO 43.
 
-Cada Consejo Tutelar tendrá adscrito un secretario quien deberá reunir los mismos requisitos que se exijan a los demás miembros para su designación, además de tener el título de licenciado en derecho; asimismo, contará con los empleados que señale el Presupuesto de Egresos.
-
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
-
-Prestarán también sus servicios, los trabajadores sociales que autorice el propio presupuesto y que con el carácter de agentes de Libertad Vigilada, realizarán las funciones de investigación, protección y vigilancia de los menores que el Consejo los encomiende.
+(DEROGADO, P.O. 2 DE JULIO DE 1996)
 
 ###### ARTICULO 44.
 
-Son facultades y obligaciones de los Consejos Tutelares para Menores:
-
-I.- Nombrar y remover al secretario y demás personal de su competencia;
-
-II.- Conocer de los asuntos de su competencia;
-
-III.- Sesionar cuando menos tres veces por semana, en los días y hora que determinen, cuidando que el tiempo destinado resulte suficiente para el debido despacho de los asuntos;
-
-IV.- Dar aviso al Tribunal Superior de Justicia de los expedientes que inicien;
-
-V.- Visitar semanalmente las Residencias Juveniles, con objeto de vigilar su funcionamiento, la exacta aplicación de las medidas tutelares decretaras en sus dictámenes integrales y los resultados que con las mismas se hayan alcanzado, comunicando al Director las deficiencias descubiertas y su decisión acerca de si el menor puede o no ser externado;
-
-VI.- Formular coordinadamente con la Procuraduría de la Defensa del Menor y la Familia y demás autoridades competentes, los programas de prevención en favor de los menores que estime convenientes, haciéndolos del conocimiento, tanto del Poder Ejecutivo del Estado como de aquellos ayuntamiento en cuya jurisdicción deban realizarse, con el objeto de que, en su caso, les brinden el apoyo necesario para su ejecución;
-
-VII.- Organizar el cuerpo de agentes de Libertad Vigilada qe (sic) actuará bajo sus órdenes directas y;
-
-VIII.- Rendir un informe mensual de sus actividades al Tribunal Superior de Justicia, en los primeros cinco días de cada mes y otro anual en los primeros cinco días del mes de septiembre.
+(DEROGADO, P.O. 2 DE JULIO DE 1996)
 
 ###### ARTICULO 45.
 
-Son facultades y obligaciones de los Presidentes de los Consejos Tutelares para Menores:
-
-I.- Representar al Consejo de todos los asuntos que les competan;
-
-II.- Tramitar los negocios cuyo conocimiento corresponda al Consejo, hasta ponerlos en estado de resolución;
-
-III.- Distribuir, entre los miembros del Consejo, todos los informes que se reciban relacionados con los menores sujetos a su jurisdicción, para que cada uno de ellos realice el estudio del caso que haya de resolverse;
-
-IV.- Presidir las sesiones del Consejo, dirigir los debates y poner a votación los negocios, cuando hayan sido suficientemente discutidos;
-
-V.- Vigilar que las resoluciones definitivas se pronuncien con arreglo a la Ley;
-
-VI.- Cuidar de que las labores del Consejo se desarrollen normalmente y dentro de los plazos que señale la Ley;
-
-VII.- Proponer a los demás miembros y, en su caso, al Tribunal Superior de Justicia, las medidas y acuerdos que juzgue convenientes para el mejor funcionamiento de la Institución;
-
-VIII.- Cuidar que los delegados de su adscripción, cumplan con las funciones que la ley les encomiende, y comunicar al Tribunal Superior de Justicia las omisiones e irregularidades en que incurran;
-
-IX.- Mantener el orden dentro del Consejo e imponer, en caso necesario, las medidas disciplinarias correspondientes;
-
-X.- Aplicar, en los términos que corresponda, las sanciones por faltas administrativas al personal del Consejo Tutelar;
-
-XI.- Llamar a los supernumerarios que deben suplir, en sus faltas temporales, a los propietarios;
-
-XII.- Dar a conocer al presidente del Patronato del Sistema para el Desarrollo Integral de la Familia, a la Dirección de Prevención y Readaptación Social y a las autoridades coadyuvantes, los acuerdos que el Consejo en Pleno haya tomado para prevenir la comisión de conductas antisociales;
-
-XIII.- Remitir al Tribunal Superior de Justicia del Estado, en los primeros diez días de cada mes, un informe del movimiento de los asuntos habidos durante el mes anterior;
-
-XIV.- Presidir el Consejo Técnico Interdisciplinario de las Residencias Juveniles de su adscripción; y
-
-XV.- Las demás que establezca la ley.
+(DEROGADO, P.O. 2 DE JULIO DE 1996)
 
 ###### ARTICULO 46.
 
-En los lugares en que no existen Consejos Tutelares para Menores, los jueces de lo Familiar, y en su defecto los de Primera Instancia del Ramo Civil y los Mixtos que designe el Tribunal Superior de Justicia en Pleno, funcionarán como delegados de aquellos, dentro de la adscripción y con la jurisdicción que el propio Tribunal Pleno les asigne.
+(DEROGADO, P.O. 2 DE JULIO DE 1996)
 
 ### CAPITULO III. DE LAS DESIGNACIONES
 
@@ -806,6 +786,8 @@ VII.- Practicar las diligencias que les encomienden los jueces de Primera Instan
 VIII.- Las demás que les fije la Ley.
 
 ### CAPITULO IV. DE LA PERMANENCIA EN EL CARGO
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1996)</small>
 
 ###### ARTICULO 49.
 
@@ -943,13 +925,17 @@ V.- Contará con un secretario que deberá satisfacer los mismos requisitos que 
 
 Cuando deban designarse magistrados del Tribunal Superior de Justicia, propondrá al Gobernador del Estado, la lista de candidatos, que no podrá ser menor de tres para cada magistrado numerario o supernumerario. Para la formulación de estas listas, el Consejo de la Judicatura cuidará que los propuestos satisfagan los requisitos del artículo 13 de la Constitución Política del Estado, prefiriendo en todo caso, a aquellas personas que estén prestando o hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad y competencia, ampliamente acreditada en el ejercicio de la profesión de abogado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 59.
 
-El Consejo de la Judicatura emitirá opinión fundada en el improrrogable término de cinco días, en todos los casos de nombramientos que deba hacer el Pleno del Tribunal Superior de Justicia, de magistrados de los Tribunales Unitarios de Distrito, de jueces de Primera Instancia y de integrantes de Consejos Tutelares para Menores.
+El Consejo de la Judicatura emitirá opinión fundada en el improrrogable de cinco días, en todos los casos de nombramientos que deba hacer el Pleno del Tribunal Superior de Justicia, de Magistrados de los Tribunales Unitarios de Distrito y de Jueces de Primera Instancia.
 
 Cuando la opinión del Consejo de la Judicatura sea unánimemente adversa a una propuesta, el Pleno del Tribunal Superior sólo podrá sostenerla mediante el voto de las dos terceras partes de sus integrantes.
 
-Si el Consejo de la Judicatura no admite opinión dentro del término a que se refiere el primer párrafo de este artículo, el Pleno del Tribunal procederá a hacer la designación correspondiente.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1996)</small>
+
+Si el Consejo de la Judicatura no emite opinión dentro del término a que se refiere el primer párrafo de este artículo, el Pleno del tribunal procederá a hacer la designación correspondiente.
 
 ###### ARTICULO 60.
 
@@ -965,7 +951,9 @@ La carrera judicial importa la determinación del sistema de ingreso en la judic
 
 Las condiciones para el ingreso, formación, permanencia, ascenso y retiro del personal de servicio de la administración de justicia se sujetará a las bases siguientes:
 
-I.- La Presidencia del Tribunal Superior de Justicia, por conducto de la Oficialía Mayor, formará un cuerpo de aspirantes que integrará con los abogados y pasantes de derecho que deseen ingresar a la carrera judicial y que reúnan los requisitos para ocupar los cargos de entrada en las especializaciones civil, familiar, penal y tutelar conforme a la reglamentación que se expida para las admisiones;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1996)</small>
+
+I.- La Presidencia del Tribunal Superior de Justicia, por conducto de la Oficialía Mayor, formará un cuerpo de aspirantes que integrará con los abogados y pasantes de derecho que deseen ingresar a la carrera judicial y que reúnan los requisitos para ocupar los cargos de entrada en las especializaciones civil y familiar y penal, conforme a la reglamentación que se expida para las admisiones;
 
 > <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
@@ -977,7 +965,9 @@ IV.- Los ascensos del escalafón sólo podrán hacerse con la voluntad del inter
 
 V.- El Pleno del Tribunal Superior de Justicia será la única autoridad facultada para formalizar el examen de mérito y acordar nombramientos y ascensos;
 
-VI.- Todos los magistrados de los Tribunales Unitarios de Distrito, jueces, secretarios y actuarios serán numerados en los escalafones correspondientes a sus especialidades civil, familiar, penal y tutelar para menores;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1996)</small>
+
+VI.- Todos los Magistrados de los Tribunales Unitarios de Distrito, Jueces, Secretarios y Actuarios serán numerados en los escalafones correspondientes a sus especialidades civil y familiar y penal;
 
 VII.- Cada especialidad del escalafón se dividirá en categorías ascendentes tomando como base las cantidades percibidas por concepto de sueldo y la categoría de la función;
 
@@ -991,9 +981,11 @@ XI.- Los servidores de la administración de justicia de carrera disfrutarán de
 
 XII.- Salvo caso de renuncia voluntaria, cese o jubilación por causa justificada, la carrera judicial termina a los 70 años, en cuya edad la jubilación será forzosa.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 63.
 
-Las vacantes que se registren en los cargos de magistrados de Tribunales Unitarios, jueces de Primera Instancia y consejeros de los Tribunales Tutelares para Menores, así como la de secretario, cualquiera que sea su categoría, y demás servidores públicos de la administración de justicia, serán cubiertas por escalafón, teniendo en cuenta la capacidad y aptitud del aspirante; su eficacia en sus actividades anteriores; las calificaciones periódicas que haya obtenido por su conducta, organización, rendimiento y calidad de su trabajo, en el ejercicio de los cargos que haya desempeñado; las calificaciones que haya obtenido en el Instituto de Especialización Judicial; y en igualdad de circunstancias, su antigüedad en el servicio; sin perjuicio de que también puedan cubrirse las vacantes con personas que, aunque no presten sus servicios al Poder Judicial, los hayan prestado con eficiencia y probidad notorias o por personas que sean merecedoras por su honradez, competencia y antecedentes. En todo caso, unos y otros deberán sustentar y aprobar el examen de méritos correspondiente.
+Las vacantes que se registren en los cargos de Magistrados de Tribunales Unitarios y Jueces de Primera Instancia, así como la de Secretario, cualquiera que sea su categoría, y demás servidores públicos de la administración de justicia, serán cubiertas por escalafón, teniendo en cuenta la capacidad y aptitud del aspirante; su eficacia en sus actividades anteriores; las calificaciones periódicas que haya obtenido por su conducta, organización, rendimiento y calidad de su trabajo, en el ejercicio de los cargos que haya desempeñado; las calificaciones que haya obtenido en el Instituto de Especialización Judicial; y en igualdad de circunstancias, su antigüedad en el servicio; sin perjuicio de que también puedan cubrirse las vacantes con personas que, aunque no presten su servicio al Poder Judicial, los hayan prestado con eficiencia y probidad notorias o por personas que sean merecedoras por su honradez, competencia y antecedentes. En todo caso, unos y otros deberán sustentar y aprobar el examen de méritos correspondiente.
 
 ###### ARTICULO 64.
 
@@ -1013,7 +1005,9 @@ f).- Secretario de acuerdo y trámite de las Salas del Tribunal Superior de Just
 
 g).- Secretario de estudio y cuenta de las Salas y Secretario del Pleno del Tribunal Superior de Justicia;
 
-h).- Juez de Primera Instancia y presidente del Consejo Tutelar para Menores; y
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1996)</small>
+
+h).- Juez de Primera Instancia; e,
 
 i).- Magistrado del Tribunal Unitario.
 
@@ -1159,31 +1153,11 @@ Cuando no haya aspirantes en propuestas para cubrir las vacantes del Segundo Tur
 
 ###### ARTICULO 85.
 
-Para integrar el Consejo Tutelar para Menores deben satisfacerse los requisitos siguientes:
-
-I.- Ser mexicano por nacimiento, en pleno ejercicio de sus deberes civiles y políticos;
-
-II.- No tener menos de veinticinco años el día de su designación;
-
-III.- Tener conocimientos especializados sobre el estudio, prevención y tratamientos de la conducta del menor y de la familia;
-
-IV.- Ser de reconocido honorabilidad;
-
-V.- Preferentemente estar casados y tener descendencia; y
-
-VI.- Sustentar y aprobar el examen de méritos, en los términos de esta Ley.
-
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+(DEROGADO, P.O. 2 DE JULIO DE 1996)
 
 ###### ARTICULO 86.
 
-Los miembros de los Consejos Tutelares para Menores serán nombrados conforme a las disposiciones de esta Ley, por el Pleno del Tribunal Superior, durarán en su encargo seis años, al término de los cuales podrán ser reelectos y, si lo fueren, sólo podrán ser movidos de acuerdo con lo dispuesto por el Título Sexto de la Constitución Política del Estado.
-
-El médico y el pedagogo deberán prestar, preferentemente sus servicios, en las Residencias Juveniles a cargo del Sistema para el Desarrollo Integral de la Familia.
-
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
-
-Por cada titular se designará un supernumerario, quien deberá reunir los mismos requisitos que aquel, para suplirlo en sus faltas temporales o en caso de impedimento o excusa.
+(DEROGADO, P.O. 2 DE JULIO DE 1996)
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE MAYO DE 1991)</small>
 
@@ -1243,7 +1217,9 @@ Los Secretarios, cualquiera que sea su categoría, y los actuarios, serán nombr
 
 Los Magistrados del Tribunal Superior de Justicia al iniciar el ejercicio de su cargo, rendirán la protesta de Ley ante el Congreso del Estado, y en sus recesos, ante la Diputación Permanente.
 
-Los magistrados de distrito, los jueces de Primera Instancia y los integrantes del Consejo Tutelar para menores, lo harán ante el Tribunal Superior de Justicia.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1996)</small>
+
+Los Magistrados de Distrito, los J ueces de Primera Instancia, lo harán ante el Tribunal Superior de Justicia.
 
 Los jueces de Conciliación protestarán ante el ayuntamiento del municipio en que residan.
 
@@ -1261,9 +1237,9 @@ De toda protesta de los servidores públicos del Poder Judicial, se levantará a
 
 ###### ARTICULO 95.
 
-Los magistrados de distrito, los jueces de Primera Instancia y los integrantes de los Consejos Tutelares para menores, durarán seis años en el ejercicio de su encargo y durante este período no podrán ser removidos sin previo juicio político o disciplinario, en los términos previstos por la Constitución Política del Estado, la Ley de la materia y este ordenamiento.
+Los Magistrados de Distrito, los Jueces de Primera Instancia durarán seis años en el ejercicio de su encargo y durante este período no podrán ser removidos sin previo juicio político o disciplinario, en los términos previstos por la Constitución Política del Estado, la Ley de la materia y este ordenamiento.
 
-Los magistrados, los jueces y los integrantes del Consejo Tutelar para Menores que hayan sido reelectos, sólo podrán ser privados de sus puestos en los términos del Título Sexto de la Constitución Política del Estado.
+Los Magistrados, los Jueces que hayan sido reelectos, sólo podrán ser privados de sus puestos en los términos del Título Sexto de la Constitución Política del Estado.
 
 ###### ARTICULO 96.
 
@@ -1310,6 +1286,8 @@ Los magistrados y jueces jubilados que así lo deseen, podrán seguir adscritos 
 ## TITULO QUINTO. DEL FUNCIONAMIENTO DE LOS ORGANOS DEL PODER JUDICIAL
 
 ### CAPITULO V. DE LA VALORACION DEL SERVICIO
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1996)</small>
 
 ###### ARTICULO 103.
 
@@ -1503,13 +1481,13 @@ En el acta de visita se consignarán no sólo las irregularidades resultantes, s
 
 ###### ARTICULO 123.
 
-El Pleno del Tribunal se encargará de ponderar periódicamente, los méritos y la conducta profesional observada por los magistrados, los jueces y los integrantes de los consejos tutelares para menores, así como por secretario del Pleno y el oficial mayor, en el desempeño de sus funciones, teniendo a la vista en cada caso, su hoja de servicios y el resultado de las visitas practicadas.
+El Pleno del Tribunal se encargará de ponderar periódicamente, los méritos y la conducta profesional observada por los Magistrados, los Jueces así como por el Secretario del Pleno y el oficial mayor, en el desempeño de sus funciones, teniendo a la vista en cada caso, su hoja de servicios y el resultado de las visitas practicadas.
 
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1996)</small>
 
 ###### ARTICULO 124.
 
-El presidente del Tribunal Superior de Justicia, los magistrados, los integrantes de los Consejos Tutelares para Menores y los jueces, harán una evaluación periódica de la actuación de sus secretarios, actuarios y demás servidores que laboren en sus respectivas dependencias.
+El Presidente del Tribunal Superior de Justicia, los Magistrados, y los Jueces, harán una evaluación periódica de la actuación de sus Secretarios, actuarios, y demás servidores que laboren en sus respectivas dependencias.
 
 ###### ARTICULO 125.
 
@@ -1565,7 +1543,9 @@ El Archivo Judicial del Estado tendrá sus oficinas centrales en la Capital, y s
 
 Se depositarán en el Archivo General:
 
-I.- Todos los expedientes del orden civil, de lo familiar y de lo penal totalmente concluidos, tanto por el tribunal Superior de Justicia, como por los juzgados de Primera Instancia y de Conciliación, así como los que se hubieren tramitado por los Tribunales Tutelares para Menores y sus delegaciones;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1996)</small>
+
+I.- Todos los expedientes del orden civil, de lo familiar y de lo penal totalmente concluidos, tanto por el tribunal Superior de Justicia, como por los Juzgados de Primera Instancia y de Conciliación;
 
 II.- Los expedientes aún no concluidos en los que haya habido inactividad procesal de las partes por más de un año;
 
@@ -1721,6 +1701,8 @@ VI.- Los demás objetivos que se acuerden por el Pleno.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 153.
 
 Se publicará semestralmente un Boletín de Información Judicial, como órgano del Poder Judicial del Estado, que tendrá por objeto dar a conocer:
@@ -1748,6 +1730,8 @@ La designación del Magistrado del Tribunal Unitario, de los Jueces y del Secret
 En todo lo relativo a la Administración del Boletín, el Consejo Editorial tendrá las más amplias facultades, tanto para el manejo y aplicación de los ingresos que se obtengan, así como para la designación y remoción del personal administrativo.
 
 ### CAPITULO II. DEL JUICIO POLITICO
+
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1996)</small>
 
 ###### ARTICULO 156.
 
@@ -1825,9 +1809,11 @@ Si la ausencia excede de 15 días, la sustitución se hará por acuerdo del Plen
 
 Las faltas temporales de los magistrados del Tribunal Superior, serán suplidas por los magistrados supernumerarios en el orden de su designación y de acuerdo con el turno que lleve el presidente del Pleno.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 1996)</small>
+
 ###### ARTICULO 167.
 
-Las faltas temporales de los magistrados de los Tribunales Unitarios, jueces de Primera Instancia e integrantes de los Consejos Tutelares, serán suplidas por los respectivos secretarios de Acuerdos o del Consejo Tutelar que corresponda. Si las faltas exceden de quince días o son absolutas, continuarán los secretarios supliendo a los titulares en tanto se hace nueva designación de interino o definitivo, según el caso.
+Las faltas temporales de los Magistrados de los Tribunales Unitarios, Jueces de Primera Instancia, serán suplidas por los respectivos Secretarios de Acuerdos. Si las faltas exceden de quince días o son absolutas, continuarán los secretarios supliendo a los titulares en tanto se hace nueva designación de interino o definitivo, según el caso.
 
 ###### ARTICULO 168.
 
@@ -1853,7 +1839,7 @@ Toda ausencia de los jueces de Conciliación será suplida por la persona que de
 
 ###### ARTICULO 172.
 
-Para los efectos de las responsabilidades a que se alude este título se reputarán como servidores públicos de la administración de justicia; a los magistrados del Tribunal Superior de Justicia; a los magistrados de los Tribunales Unitarios de Distrito; a los integrantes de los Consejos Tutelares para Menores; a los jueces de Primera Instancia y de Conciliación; y en general; a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza dentro del Poder Judicial.
+Para los efectos de las responsabilidades a que se refiere este título se reputarán como servidores públicos de la Administración de Justicia; a los Magistrados del Tribunal Superior de Justicia; a los Magistrados de los Tribunales Unitarios de Distrito; a los jueces de Primera Instancia y de Conciliación; y en general; a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza dentro del Poder Judicial.
 
 ###### ARTICULO 173.
 
@@ -1875,7 +1861,7 @@ Todo ciudadano o persona moral, por conducto de sus órganos de representación,
 
 ###### ARTICULO 175.
 
-Son sujetos de juicio político: los magistrados del Tribunal Superior de Justicia; los magistrados de los Tribunales Unitarios de Distrito; los integrantes de los Consejos Tutelares para Menores; y los jueces de Primera Instancia.
+Son sujetos de juicio político: los Magistrados del Tribunal Superior de Justicia; los Magistrados de los Tribunales Unitarios de Distrito; y los Jueces de Primera Instancia.
 
 > <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
@@ -1925,9 +1911,9 @@ II.- Desintegrar sin motivo justificado, el quórum de los Plenos, una vez comen
 
 III.- Dictar acuerdos o providencias que contengan decisiones generales sobre interpretación de las leyes;
 
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1996)</small>
 
-IV.- Llevar a su conocimiento los negocios en trámite ante los Tribunales Unitarios de Distrito, Consejos Tutelares para Menores, jueces de Primera Instancia y de Conciliación, a menos que se trate de una investigación; y
+IV.- Llevar a su conocimiento los negocios en trámite ante los Tribunales Unitarios de Distrito, Jueces de Primera Instancia y de Conciliación, a menos que se trate de una investigación; y
 
 V.- Violar las normas que regulan el procedimiento para llevar a cabo los nombramientos que le competan.
 
@@ -2151,11 +2137,13 @@ La jurisdicción disciplinaria se ejercerá:
 
 I.- Por el Tribunal Pleno, cuando se trate de quejas en contra de su Presidente;
 
-II.- Por el Presidente del Tribunal Superior de Justicia, cuando se trate de quejas en contra de los Magistrados integrantes de las Salas, Magistrados de Distrito, integrantes de los Consejos Tutelares para Menores y Jueces;
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1996)</small>
 
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+II.- Por el Presidente del Tribunal Superior de Justicia, cuando se trate de quejas en contra de los Magistrados integrantes de las Salas, Magistrados de Distrito, y Jueces;
 
-III.- Por el presidente de la Sala, Magistrado de Distrito, presidente del Consejo Tutelar para Menores y jueces, cuando se trate de quejas en contra de los secretarios; y
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 1996)</small>
+
+III.- Por el Presidente de la Sala, Magistrados de Distrito, y Jueces, cuando se trate de quejas en contra de los Secretarios; y
 
 IV.- Por los secretarios de acuerdos, cuando se trate de quejas en contra de sus subalternos, y la falta sólo amerite como sanción, apercibimiento o amonestación.
 
@@ -2656,3 +2644,11 @@ Se derogan las disposiciones que se opongan al presente decreto.
 ###### ARTICULO TERCERO.
 
 Los asuntos de naturaleza mercantil que no rebasen su cuantía a los 182 días de salario mínimo y que se encuentren actualmente en trámite en los juzgados civiles serán resueltos por estos.
+
+P.O. 2 DE JULIO DE 1996.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de aquel en que se publique en el Periódico Oficial del Gobierno del Estado, la Reforma Constitucional en Materia Electoral dictaminada por la LIII Legislatura el 25 de junio de 1996.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
