@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-7805"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-30"
-last_updated: "1995-12-30"
+last_updated: "1996-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 30 de diciembre de 1992.
 
@@ -57,9 +57,11 @@ LEY DE HACIENDA DEL ESTADO DE TABASCO
 
 La presente Ley es de orden público y de interés social. Tiene por objeto regular los impuestos, derechos, productos, aprovechamientos, participaciones y demás ingresos que corresponden al Estado, que estén previstos en la ley y en las disposiciones fiscales aplicables; para cubrir los gastos de gobierno.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### Artículo 2.
 
-Esta Ley será aplicada por el Ejecutivo del Estado, a través de la Secretaría de Finanzas y autoridades auxiliares. Asimismo, se complementa con los reglamentos, circulares, acuerdos, concesiones, convenios, contratos y demás actos jurídicos de carácter fiscal que se expidan, otorguen o celebren por las autoridades competentes.
+Esta ley será aplicada por el Ejecutivo del Estado, a través de la Secretaría de Planeación y Finanzas y autoridades auxiliares. Asimismo, se complementa con los reglamentos, circulares, acuerdos, concesiones, convenios, contratos y demás actos jurídicos de carácter fiscal que se expidan, otorguen o celebren por las autoridades competentes.
 
 ###### Artículo 3.
 
@@ -73,7 +75,9 @@ III. Cuando se trate de viviendas de interés social o popular, se cobrará en e
 
 IV. Las tarifas establecidas que se causan en su equivalente en días de salario mínimo general vigente en el Estado, se refieren en esta Ley con las siglas "D.S.M.G.V.";
 
-V. Los montos de las contribuciones señaladas en esta Ley, se pagarán en nuevos pesos, omitiéndose el cobro de los nuevos centavos, en las receptorías o cajas autorizadas de la Secretaría de Finanzas.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+V. Los montos de las contribuciones señaladas en esta Ley, se pagarán en moneda nacional de conformidad con las reglas que establece para tal efecto el artículo 21 del Código Fiscal del Estado, en las Receptorías o cajas autorizadas de la Secretaría de Planeación y Finanzas.
 
 ###### Artículo 4.
 
@@ -83,9 +87,11 @@ Son sujetos a esta Ley, en general, quienes habitual o accidentalmente realicen 
 
 Las autoridades fiscales del Estado, ejercerán las facultades que esta Ley les otorga, con arreglo a los principios de igualdad y equidad.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### Artículo 6.
 
-La Secretaría de Finanzas podrá ordenar que se practiquen las investigaciones que a su juicio procedan, cuando haya motivos fundados para creer que se ha omitido, en todo o en parte, el pago de alguna de las obligaciones fiscales establecidas en esta Ley, sujetándose a las prevenciones relativas al Código Fiscal del Estado.
+La Secretaría de Planeación y Finanzas podrá ordenar que se practiquen las investigaciones que a su juicio procedan, cuando haya motivos fundados para creer que se ha omitido, en todo o en parte, el pago de alguna de las obligaciones fiscales establecidas en esta Ley, sujetándose a las prevenciones relativas al Código Fiscal del Estado.
 
 ## TITULO SEGUNDO. IMPUESTOS
 
@@ -227,7 +233,9 @@ III. En los que tengan por objeto la transmisión de negociaciones comerciales, 
 
 IV. En los demás contratos, actos, instrumentos notariales de índole no contractual sin valor pecuniario y en los protestos, el número de hojas en que se extienda o, en su caso, el del folio del protocolo que se emplee.
 
-Cuando no sea posible lograr la concurrencia de alguno de los valores señalados, o éstos se aparten notoriamente de su valor comercial, la Secretaría de Finanzas del Estado, con los elementos de que disponga, determinará el valor que sirva de base y que será lo más apegado posible al que le correspondería en una libre transacción mercantil del bien o derecho que se trate.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+Cuando no sea posible lograr la concurrencia de alguno de los valores señalados, o estos se aparten notoriamente de su valor comercial, la Secretaría de Planeación y Finanzas del Estado, con los elementos de que disponga, determinará el valor que sirva de base y que será lo más posible al que le correspondería en una libre transacción mercantil del bien o derecho que se trate.
 
 #### SECCION TERCERA. DE LAS TARIFAS Y PAGO DEL IMPUESTO
 
@@ -295,11 +303,11 @@ En el caso de que las obligaciones estipuladas estén sujetas a alguna condició
 
 Por lo que se refiere a la fracción VI del artículo 14 de este capítulo, al celebrarse el contrato definitivo deberá pagarse el derecho de inscripción en el Registro Público de la Propiedad y del Comercio.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### Artículo 19.
 
-Tratándose de documentos privados u otorgados fuera del Estado, los notarios, particulares o funcionarios judiciales, cuando sea potestativa la protocolización de sus resoluciones, darán aviso a la Secretaría de Finanzas del Estado, de los actos gravados en que intervengan por los impuestos de que habla este capítulo.
-
-Igual obligación tendrán los notarios o quienes hagan sus veces, en el caso de cancelación de créditos.
+Tratándose de documentos privados u otorgados fuera del Estado, los notarios, particulares o funcionarios judiciales, cuando sea potestativa la protocolización de sus resoluciones, darán avisos a la Secretaría de Planeación y Finanzas del Estado, de los actos gravados en que intervengan por los impuestos de que habla este Capítulo.
 
 ###### Artículo 20.
 
@@ -353,7 +361,9 @@ Los contribuyentes presentarán sus declaraciones y efectuarán el pago del impu
 
 Son obligaciones de los contribuyentes de este impuesto:
 
-I. Inscribirse en la Receptoría de Rentas que corresponda a su domicilio fiscal, dentro de los treinta días siguientes al de iniciación de actividades, utilizando al efecto, las formas oficiales aprobadas por la Secretaría de Finanzas, con los datos que las mismas exijan;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+I. Inscribirse en la Receptoría que corresponda a su domicilio fiscal, dentro de los treinta días siguientes al de iniciación de actividades, utilizando al efecto, las formas aprobadas por la Secretaría de Planeación y Finanzas, con los datos que las mismas exijan;
 
 II. Presentar ante las mismas autoridades y dentro del plazo señalado en la fracción anterior, los avisos de cambio de nombre o razón social, domicilio, actividad, suspensión de actividades o clausura;
 
@@ -449,23 +459,31 @@ b) En forma eventual al día siguiente de percibir el ingreso.
 
 Los sujetos de este impuesto están obligados a:
 
-I. Empadronarse en la Receptoría de Rentas que corresponda, dentro de los treinta días siguientes a aquél en que se inicien sus actividades, utilizando al efecto las formas oficiales aprobadas por la Secretaría de Finanzas;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+I. Empadronarse en la Receptoría de rentas que corresponda, dentro de los treinta días siguientes a aquel en que se inicien sus actividades, utilizando al efecto las formas oficiales aprobadas por la Secretaría de Planeación y Finanzas;
 
 II. Dar aviso en la Receptoría de Rentas que corresponda, de los cambios de domicilio, así como los de suspensión de actividades dentro del mismo plazo señalado en la fracción anterior;
 
 III. Presentar los avisos, documentos, datos e información que le solicite la autoridad fiscal en relación con este impuesto, dentro de los plazos y lugares señalados al efecto;
 
-IV. Llevar los libros o registros y expedir la documentación comprobatoria, tanto de sus ingresos como del pago del impuesto, que en forma general señala la Secretaría de Finanzas y que podrán ser los mismos que establezcan las disposiciones fiscales federales correspondientes.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+IV. Llevar los libros o registros y expedir la documentación comprobatoria, tanto de sus ingresos como del pago del impuesto, que en forma general señala la Secretaría de Planeación y Finanzas y que podrán ser los mismos que establezcan las disposiciones fiscales federales correspondientes.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 38.
 
-La obligación de proporcionar los datos y documentos que le sean solicitados por la Secretaría de Finanzas, existe también para los retenedores del impuesto y general quienes hagan los pagos a los contribuyentes a que se refiere este capítulo.
+La obligación de proporcionar los datos y documentos que le sean solicitados por la Secretaría de Planeación y Finanzas, existe también para los retenedores del impuesto y en general para quienes hagan los pagos a los contribuyentes a que se refiere este Capítulo.
 
 #### SECCION CUARTA. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
 ###### Artículo 39.
 
-La Secretaría de Finanzas podrá estimar los ingresos de los sujetos de este impuesto, en los siguientes casos:
+La Secretaría de Planeación y Finanzas, podrá estimar los ingresos de los sujetos de este impuesto, en los siguientes casos:
 
 I. Cuando no presenten sus declaraciones, no lleven los libros o registros o no expidan la documentación comprobatoria a que están obligados;
 
@@ -481,6 +499,104 @@ Respecto a las personas señaladas en el artículo 32, los obligados a retener e
 
 Las infracciones al presente capítulo, serán sancionadas de conformidad con lo previsto por el "Código Fiscal del Estado".
 
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO QUINTO. DEL IMPUESTO SOBRE LOTERIAS, RIFAS, SORTEOS Y CONCURSOS DE TODA CLASE
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+#### SECCION PRIMERA. DEL OBJETO Y DEL SUJETO
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 41 Bis.
+
+Es objeto de este impuesto:
+
+I. La organización o celebración de loterías, rifas, sorteos y concursos de todas clases, aún cuando no se cobre cantidad alguna para tener derecho a participar en ellos;
+
+II. La recepción por registro y la obtención de ingresos o premios derivados de rifas o sorteos, no obstante que el organizador y el evento mismo de cuyo resultado dependa la obtención de ingresos, se encuentren y/o celebren fuera del territorio estatal; y
+
+III. La obtención de ingresos o premios derivados de loterías, rifas, sorteos y concursos de toda clase, cuando el billete, boleto, contraseña o cualquier otro comprobante que permita participar en el evento haya sido enajenado en el territorio del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 41 Bis-A.
+
+Son sujetos de este impuesto en forma solidaria:
+
+I. Las personas físicas, morales o unidades económicas sin personalidad jurídica que obtengan ingresos o premios derivados de loterías, rifas, sorteos y concursos de todo tipo, cuyo billete, boleto, contraseña o cualquier otro comprobante que permita participar en los eventos haya sido enajenado en el territorio del Estado. Las personas o instituciones que organicen o celebren los eventos objeto del impuesto les deberán retener el impuesto que se cause;
+
+II. Las personas físicas, morales o unidades económicas sin personalidad jurídica, que organicen o celebren loterías, rifas, sorteos y concursos de todo tipo; y
+
+III. Las personas físicas, morales o unidades económicas sin personalidad jurídica que reciban para registro y en su caso, obtengan ingresos o premios derivados de rifas o sorteos en los términos del punto que antecede, cuando el organizador y el evento mismo de cuyo resultado dependa la obtención del ingreso o premio, se encuentren o se celebren fuera del territorio estatal.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+#### SECCION SEGUNDA. DE LA BASE, CAUSACION, TASA Y PAGO DEL IMPUESTO
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 41 Bis-B.
+
+Será la base del impuesto:
+
+I. Para los sujetos que organicen o celebren la lotería, rifa, sorteo o concurso de todo tipo, el valor nominal del total de la emisión de los boletos, billetes, contraseñas o cualquier otro comprobante que permita participar en cualquiera de los eventos objeto de este impuesto, disminuyendo aquellos no enajenados.
+
+Cuando los comprobantes que permitan participar en cualquiera de los eventos objeto de este impuesto, sean de tipo gratuito o no se cobre cantidad alguna para tener derecho a participar en ellos, servirá de base del impuesto, el valor con el que se promocione cada uno de los ingresos o premios; en su defecto, el de facturación y en ausencia de ambos, el de avalúo comercial;
+
+II. Para los sujetos que obtengan los ingresos o premios derivados de loterías, rifas, sorteos y concursos de todo tipo cuyo billete, boleto, contraseña o cualquier otro comprobante que permita participar en el evento haya sido enajenado en el territorio del Estado será el valor determinado o determinable que se obtenga.
+
+Tratándose de premios en especie, será base del impuesto el valor con el que se promocione cada uno de los premios; en su defecto, el valor de facturación y en ausencia de ambos, el de avalúo comercial.
+
+Cuando no se desglose y compruebe a satisfacción de la autoridad fiscal el valor o precio que corresponda a la rifa, sorteo o concurso de que se trate, se considerará que el valor o precio total del evento corresponde al objeto del impuesto;
+
+III. Este impuesto se causa:
+
+a) Para los sujetos que organicen o celebren la lotería, rifa, sorteo o concurso de todo tipo en el momento en que se entregue a los participantes los boletos, billetes, contraseñas o cualquier otro tipo de comprobante que permita participar en cualquiera de los eventos señalados como objeto del impuesto;
+
+b) Para los sujetos que obtengan los ingresos o premios derivados de loterías, rifas, sorteos y concursos de todo tipo y cuyo billete, boleto, contraseña o cualquier otro comprobante que permita participar en el evento haya sido enajenado en el territorio del Estado, en el momento que los ingresos o premios sean pagados o entregados.
+
+Los sujetos que organicen o celebren el evento que dé origen al pago del impuesto, incluyendo los exentos, deberán retener el impuesto que se genere por la obtención de ingresos o premios, enterándolo en su caso conjuntamente con el que les corresponda por su propia actividad.
+
+IV. Sobre la base gravable, se aplicará la tasa del 6%, quienes entreguen los premios a que se refiere este capítulo tendrán la obligación de efectuar la retención de este impuesto, así como de proporcionar, cuando así lo solicite el interesado, constancia de retención de dicho impuesto; y
+
+V. Los sujetos obligados al pago del impuesto con responsabilidad directa o solidaria por retención, realizarán el pago a más tardar el día 15 del mes siguiente a aquél al que corresponda el pago, presentándose la declaración aprobada en la Receptoría de Rentas que corresponda. Dicho pago se entenderá definitivo.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+#### SECCION TERCERA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 41 Bis-C.
+
+Los sujetos de este impuesto tendrán las siguientes obligaciones:
+
+I. Solicitar su inscripción en el registro de contribuyentes del Estado, utilizando para tales efectos las formas aprobadas. Las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo;
+
+II. Presentar ante las autoridades fiscales, los avisos y declaraciones que correspondan, dentro de los plazos y en los lugares señalados para tales efectos;
+
+III. Retener y enterar, en su caso, el impuesto que se cause conforme a estas disposiciones;
+
+IV. Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria de los eventos realizados y del pago del impuesto que corresponda; y
+
+V. Cuando los sujetos realicen eventos en varios establecimientos, acumularán la información de todos ellos en la declaración que corresponda a su domicilio fiscal en el Estado.
+
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+#### SECCION CUARTA. DE LAS EXENCIONES
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+###### Artículo 41 Bis-D.
+
+No se pagará este impuesto por la organización o celebración de loterías, rifas, sorteos y concursos de toda clase que celebren las dependencias del Gobierno Federal, el del Distrito Federal, los Gobiernos de los Estados, los de los Municipios, y aquellos eventos organizados por Organismos Públicos Descentralizados de la Administración Pública Federal, así como todas aquellas asociaciones y sociedades que tributen en el Título Tercero de la Ley del Impuesto Sobre la Renta, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública.
+
+No obstante lo anterior, estas instituciones deberán cumplir con la obligación de retener y enterar el impuesto que se cause por la obtención de los ingresos o premios que se entreguen.
+
+En ningún caso, se entenderán exentos del pago del impuesto los ingresos o premios obtenidos.
+
 ### CAPITULO PRIMERO
 
 #### SECCIÓN ÚNICA. DISPOSICIONES GENERALES
@@ -491,29 +607,21 @@ Las infracciones al presente capítulo, serán sancionadas de conformidad con lo
 
 #### SECCION TERCERA
 
+## TITULO TERCERO. DERECHOS
+
 ### CAPITULO SEGUNDO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARIA DE GOBIERNO
 
 #### SECCION CUARTA
-
-#### SECCION QUINTA
-
-#### SECCION UNICA
-
-#### SECCION UNICA
-
-## TITULO TERCERO. DERECHOS
-
-### CAPITULO TERCERO. DE LOS SERVICIOS PRESTADO (SIC) POR LA SECRETARIA DE EDUCACION, CULTURA Y RECREACION
-
-#### SECCION UNICA
 
 ###### Artículo 42.
 
 Como contraprestaciones por los servicios de carácter administrativo prestados por los Poderes del Estado, se causarán los derechos previstos en este capítulo. El monto de cobro de cualquier derecho no será inferior a 2 D.S.M.G.V.
 
-### CAPITULO CUARTO. POR LOS SERVICIOS PRESTADOS POR LA SECRETARIA DE PLANEACION Y FINANZAS
+### CAPITULO TERCERO. DE LOS SERVICIOS PRESTADO (SIC) POR LA SECRETARIA DE EDUCACION, CULTURA Y RECREACION
 
-#### SECCION UNICA
+#### SECCION QUINTA
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 43.
 
@@ -679,77 +787,67 @@ Por los servicios prestados por la Dirección de Prevención Social se causarán
 
 I. Carta de antecedentes no penales 1.0 D.S.M.G.V.
 
+#### SECCION UNICA
+
 ###### Artículo 52.
 
-De los servicios que prestan las autoridades de Tránsito del Estado, se causarán y pagarán los derechos siguientes:
+De los servicios que presten las autoridades de la Dirección General de Seguridad Pública y Tránsito del Estado, se causarán y pagarán los derechos siguientes:
 
-I. A solicitud de parte:
+I. Por los servicios de Seguridad Pública:
 
-a) Estudio para la expedición de concesiones.
+a) Se cobrará por el servicio que efectúa el cuerpo de policía de la Dirección General de Seguridad Pública y Tránsito del Estado, en forma exclusiva y a petición de parte, para proteger valores o proporcionar seguridad a establecimientos mercantiles, de espectáculos públicos y asociaciones civiles e instituciones particulares.
 
-b) Estudios de renovación de concesión.
+b) Pagarán por el derecho a que se refiere el artículo anterior, las personas físicas o morales que soliciten el servicio de seguridad en forma exclusiva para la protección de valores o para establecimientos mercantiles, de espectáculos públicos la prestación de este servicio estará regulado por el reglamento que para tal efecto deba expedirse.
 
-c) Estudios para incremento de unidades.
+c) Se determinará el monto de este derecho en razón de los servicios prestados en forma exclusiva, así como del número de horas laboradas por el cuerpo de policía, el tipo de servicio que preste el mismo y la periodicidad.
 
-d) Estudios para circular en la vía pública y renovación
+d) El pago se deberá efectuar previamente a la prestación del servicio, si éste (sic) esporádico. En el caso de servicio permanente, se debe efectuar dentro de los cinco días siguientes al mes en que se preste el servicio.
 
-e) Estudios para reposición y baja de unidades.
+II. Por los servicios de Tránsito:
 
-f) Estudios de evaluación de cesiones de derechos.
+a) Por emisión o reposición de juegos de placas de circulación, incluyendo calcomanía, tarjeta de circulación para vehículo de servicio particular 10.0 D.S.M.G.V.
 
-g) Estudios de ampliación de rutas y modificación de itinerarios.
+b) Por emisión de placa bianual y tarjeta de circulación para:
 
-h) Estudios de estructuración de planos de rutas (programas de operación y planos).
+b.1) Motocicletas y motonetas 3.0 D.S.M.G.V.
 
-i) Estudios de vialidad de rutas.
+b.2) Bicicletas 2.0. D.S.M.G.V.
 
-j) Estudios de proyectos de horarios.
+b.3) Carro de mano o tracción animal 2.0. D.S.M.G.V.
 
-k) Elaboración de diseños de unidades.
+c) Por reposición de placas de circulación para motocicletas, motonetas, bicicletas y carros de mano o tracción animal 3.0. D.S.M.G.V.
 
-Las tarifas de estos estudios estarán sujetas al Reglamento de Tarifas aprobado por el H. Congreso del Estado.
+d) Por la reposición de cualquier otro documento que ampare el registro para que circule legalmente en la vía pública 5.0. D.S.M.G.V.
 
-II. Por emisión o reposición de juego de placas de circulación, incluyendo calcomanía, tarjeta de circulación para vehículos de servicio particular y público 10.0. D.S.M.G.V.
+e) por el refrendo anual de la placa de circulación, incluyendo tarjeta de circulación, calcomanía, y la tarjeta de circulación para vehículo de servicio particular 7.0. D.S.M.G.V.
 
-III. Por emisión de placa bianual y tarjeta de circulación para:
+f) Por baja de vehículos de servicio particular 5.0. D.S.M.G.V.
 
-a) Motocicletas y motonetas 3.0. D.S.M.G.V.
+g) Por expedición y reposición de licencias para conducir con vigencia de dos años para:
 
-b) Bicicletas 2.0. D.S.M.G.V.
+g.1) Vehículos de servicio público de pasaje 8.0 D.S.M.G.V.
 
-c) Carro de mano o tracción animal 2.0. D.S.M.G.V.
+g.2) Chofer 8.0 D.S.M.G.V.
 
-IV. Por reposición de tarjeta de circulación para:
+g.3) Automovilista 7.0 D.S.M.G.V.
 
-Motocicletas, motonetas, bicicletas y carros de mano o tracción animal 3.0. D.S.M.G.V.
+g.4) Motociclistas 3.0 D.S.M.G.V.
 
-V. Por la reposición de cualquier otro documento que ampare el registro para que circule legalmente en la vía pública 5.0. D.S.M.G.V.
+h) Por la expedición de licencias provisional:
 
-VI. Por el refrendo anual de la placa de circulación, incluyendo tarjeta de circulación, calcomanía, tarjetón de ruta, de jurisdicción y enmicado de la tarjeta de circulación para vehículo de servicio particular y público 7.0. D.S.M.G.V.
+h.1) Para manejar hasta por treinta días 3.0 D.S.M.G.V.
 
-VII. Por baja de vehículos del servicio particular 5.0. D.S.M.G.V.
+h.2) Para menores de edad (de 16 a 18 años) con vigencia de tres meses 5.0 D.S.M.G.V.
 
-VIII. Por expedición y reposición de licencias para conducir con vigencia de 2 años para:
+h.3) Emergente hasta por un año 5.0 D.S.M.G.V.
 
-a) Vehículos de servicio público de pasajeros 8.0. D.S.M.G.V.
+h.4) De traslado hasta por tres días 5.0 D.S.M.G.V.
 
-b) Chofer 8.0. D.S.M.G.V.
+l). Por expedición de permisos provisional para circular sin placas por 15 días 5.0 D.S.M.G.V.
 
-c) Automovilista 7.0. D.S.M.G.V.
+j). Otros 3.0 D.S.M.G.V.
 
-IX. Por la expedición de licencia provisional:
-
-a) Para manejar hasta por 30 días 3.0. D.S.M.G.V.
-
-b) Para menores de edad (de 16 a 18 años) con vigencia de 3 meses 5.0. D.S.M.G.V.
-
-c) Emergente hasta por un año 5.0. D.S.M.G.V.
-
-d) De traslado hasta por tres días 5.0. D.S.M.G.V.
-
-e) Otros 3.0. D.S.M.G.V.
-
-(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1995
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 52 Bis.
 
@@ -759,7 +857,63 @@ I. Tratándose de canje periódico general de placas de circulación, los derech
 
 II. Tratándose de refrendo anual de tarjetas de circulación y calcomanías de automóviles, camiones, camionetas, tractores, automotores, remolques, semirremolques y otros vehículos, los derechos correspondientes deberán pagarse a más tardar el 31 de marzo del año para el que se realice el refrendo.
 
-### CAPITULO QUINTO. BUSQUEDA EN LOS ARCHIVOS, LEGALIZACION DE FIRMAS, EXPEDICION DE CERTIFICACIONES Y COPIAS CERTIFICADAS
+###### Artículo 52-A.
+
+De los servicios prestados por la Dirección de transportes:
+
+I. A solicitud de parte:
+
+a) Estudio para expedición de concesiones.
+
+b) Estudios de renovación de concesión.
+
+c) Estudios para incremento de unidades.
+
+d) Estudios para circular en la vía pública y renovación.
+
+e) Estudios para reposición y baja de unidades.
+
+f) Estudios de evaluación de cesiones de derechos.
+
+g) Estudios de aplicación de rutas y modificación de itinerarios.
+
+h) Estudios de estructuras de planos de rutas (Programa de operación y Planos)
+
+i) Estudios de vialidad de horarios.
+
+j) Estudios de proyectos de horarios.
+
+k) Elaboración de diseños de unidades.
+
+Las tarifas de estos estudios estarán sujetas a las tarifas aprobadas por el H. Congreso del Estado.
+
+II. Por emisión o reposición de juegos de placas de circulación, incluyendo calcomanía, tarjeta de circulación para vehículo de servicio público 10.0 D.S.M.G.V.
+
+III. Por la expedición de gafetes 5.0 D.S.M.G.V.
+
+IV. Por emplacamientos de servicio público.
+
+a) Altas 10.0 D.S.M.G.V.
+
+b) Bajas 5.0 D.S.M.G.V.
+
+c) Permisos provisionales 5.0 D.S.M.G.V.
+
+V. Por el refrendo anual de las placas de circulación, incluyendo tarjeta de circulación, calcomanía, tarjetón de ruta, de jurisdicción y enmicado de la tarjeta de circulación para vehículos de servicio particular y público 7.0 D.S.M.G.V.
+
+VI. Actas levantadas por diversas irregularidades cometidas por los servidores de transporte, multas o sanciones, de 10.0 a 300.0 D.S.M.G.V.
+
+VII. Por constancias de no concesión 5.0 D.S.M.G.V.
+
+VIII. Por constancia de antigüedad del socio 5.0 D.S.M.G.V.
+
+IX. Búsqueda de documentos 5.0 D.S.M.G.V.
+
+X. Otros 3.0 D.S.M.G.V.
+
+### CAPITULO CUARTO. POR LOS SERVICIOS PRESTADOS POR LA SECRETARIA DE PLANEACION Y FINANZAS
+
+#### SECCION UNICA
 
 ###### Artículo 53.
 
@@ -781,7 +935,9 @@ V. Incorporación de escuelas particulares 200.0 D.S.M.G.V.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-### CAPITULO SEXTO. DE LOS SERVICIOS PRESTADOS POR LA DIRECCION DE SEGURIDAD PUBLICA
+### CAPITULO QUINTO. BUSQUEDA EN LOS ARCHIVOS, LEGALIZACION DE FIRMAS, EXPEDICION DE CERTIFICACIONES Y COPIAS CERTIFICADAS
+
+#### SECCION UNICA
 
 ###### Artículo 54.
 
@@ -875,7 +1031,9 @@ VI.- Por reposición de licencia, permiso o autorización 35.0 D.S.M.G.V.
 
 Cuando no se hayan pagado oportunamente los derechos de revalidación dentro del plazo que establece la Ley que Reglamenta la Venta, Distribución y Consumo de Bebidas Alcohólicas en el Estado de Tabasco, se pagarán recargos conforme a las disposiciones fiscales vigentes en la entidad.
 
-### CAPITULO UNICO
+### CAPITULO SEXTO. DE LOS SERVICIOS PRESTADOS POR LA DIRECCION DE SEGURIDAD PUBLICA
+
+#### SECCION UNICA
 
 ###### Artículo 55.
 
@@ -1021,6 +1179,8 @@ Los productos a que se refiere la fracción IV del Artículo anterior, deberán 
 
 ## TITULO QUINTO. APROVECHAMIENTOS
 
+### CAPITULO UNICO
+
 ###### Artículo 66.
 
 Quedan comprendidos dentro de este título los ingresos que el Estado perciba por concepto de herencias, legados, donaciones, concesiones de contratos, subsidios, cooperaciones, multas, recargos, gastos de ejecución, reintegros, remates, rezagos e indemnizaciones a favor de la Hacienda Pública Estatal y en general, cualquier otro ingreso no clasificado como impuesto, derecho, producto o participaciones.
@@ -1070,6 +1230,12 @@ P.O. 15 DE MARZO DE 1995.
 UNICO: En cumplimiento a lo dispuesto por el Artículo 10° de la Ley Orgánica del Poder Ejecutivo, publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, para que entre en vigor al día siguiente de la misma.
 
 P.O. 30 DE DICIEMBRE DE 1995.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+P.O. 28 DE DICIEMBRE DE 1996.
 
 ###### ARTÍCULO ÚNICO.
 
