@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2001-11-23"
+last_updated: "2002-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL REGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -535,7 +535,9 @@ Cuarto.- En los Municipios que no cuenten con el órgano jurisdiccional a que se
 
 Quinto.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 
-Sexto.- Los Municipios de la Entidad, conservarán la extensión y límites territoriales existentes a la fecha de promulgación de la presente Ley. Al efecto, el Congreso del Estado expedirá el Estatuto Territorial de los Municipios del Estado de Baja California a que se refiere el Artículo 26 de esta Ley, dentro de los noventa días posteriores a su entrada en vigor.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2002)</small>
+
+Sexto.- Los Municipios de la Entidad, conservarán la extensión y límites territoriales previstos en la Ley Orgánica de la Administración Pública Municipal del Estado de Baja California, hasta en tanto el Congreso del Estado expida el Estatuto Territorial de los Municipios del Estado de Baja California a que se refiere el artículo 26 de esta Ley. La expedición de dicho estatuto deberá realizarse dentro del término de un año contado a partir de la publicación de esta Ley.
 
 Séptimo.- Los epígrafes de cada artículo de esta Ley, no forman parte de su texto, por tanto, no obligan a su observancia.
 
@@ -570,3 +572,7 @@ C.P. JORGE RAMOS
 P.O. 23 DE NOVIEMBRE DE 2001.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 22 DE FEBRERO DE 2002.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
