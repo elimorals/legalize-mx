@@ -4,7 +4,7 @@ identifier: "COA-ley-de-transito-y-transporte-del-estado-de-coahuila-de-3803"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-19"
-last_updated: "1997-12-26"
+last_updated: "1999-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 19 de enero de 1996.
 
@@ -156,6 +156,30 @@ Las licencias de conducir tendrán una vigencia de dos años y, en su caso, podr
 ###### ARTICULO 17.
 
 Para obtener licencia de conducir, los interesados deberán ser mayores de dieciocho años, haber acreditado los cursos de manejo impartidos por las autoridades de tránsito correspondientes, comprobar su buen estado de salud y satisfacer los demás requisitos que determine esta Ley, su Reglamento y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+Antes de expedir una licencia de conducir se preguntará al interesado que sea mayor de 18 años, si consiente o no consiente en donar sus órganos en caso de muerte, sea o no sea esta con motivo del transito de vehículos, con el objeto de auxiliar a personas que médicamente lo necesiten, siempre y cuando el implante se realice sin fines de lucro. En caso afirmativo, se le explicará al interesado los casos en los que las leyes de salud y el código de procedimientos penales permiten los implantes de órganos y se le entregará por escrito la información al respecto.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+Si el interesado consiente en donar sus órganos, deberá firmar constancia al respecto. En tales casos, siempre se asentará en las licencias de conducir el consentimiento, con la leyenda "sí consiento en donar mis órganos" y se guardará la documentación que lo acredite.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+Cuando muera una persona y haya la posibilidad de que el implante de sus órganos sea útil médicamente, será suficiente la constancia que aparezca en la licencia del conductor para que se proceda al implante, siempre y cuando se cumpla con las condiciones de este artículo y con las demás que establezcan las leyes.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+El interesado podrá revocar en cualquier momento la donación de sus órganos y para ello será suficiente que aquél lo comunique por escrito a las autoridades de tránsito o de salud. Recibida la comunicación, de inmediato se dará de baja al interesado del banco de donadores de órganos y no producirá ningún efecto la leyenda que aparezca en la licencia de conducir.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+Cuando el interesado sea menor de 18 años de edad, será necesario el consentimiento expreso y por escrito de cualquiera de sus padres para que se proceda en los términos de los párrafos anteriores.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+Las autoridades de salud se coordinarán con las de tránsito para que estas tengan disponible la información sobre donación e implantes de órganos que puedan requerir los interesados y, además, para que las primeras puedan formar los bancos de donadores de órganos. Cuando se requiera proceder a un implante con base en la leyenda que aparezca en la licencia de conducir, siempre se verificará si, además, existe el consentimiento por escrito y en debida forma, así como si no hay revocación del mismo, sin perjuicio de que también se cumpla con las restantes condiciones y requisitos que establezcan las leyes para los implantes de órganos.
 
 Los demás requisitos y especificaciones relativas a la expedición y cancelación de las licencias se determinarán en el Reglamento de la presente Ley.
 
@@ -1264,3 +1288,7 @@ P.O. 26 DE DICIEMBRE DE 1997.
 PRIMERO.- El presente decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno de Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 30 DE NOVIEMBRE DE 1999.
+
+UNICO. Para que las autoridades de tránsito y de salud puedan implementar las disposiciones del artículo que se reforma, ésta iniciará su vigencia a los 180 días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
