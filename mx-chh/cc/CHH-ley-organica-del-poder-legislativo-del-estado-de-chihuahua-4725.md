@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2002-09-25"
+last_updated: "2002-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2002.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -1137,6 +1137,10 @@ El Presidente determinará el trámite que corresponda a las peticiones que los 
 
 El Presidente de la Mesa Directiva se reunirá antes de cada sesión con los integrantes de la misma para complementar, en su caso, el orden del día y ordenar el desahogo de los asuntos en el curso de la sesión.
 
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2002)</small>
+
+Cuando las circunstancias lo permitan, el orden del día deberá entregarse a los diputados cuando menos con veinticuatro horas de anticipación a la fijada para las sesiones del Congreso.
+
 ### CAPITULO III. DE LAS INICIATIVAS
 
 ###### Art. 97.
@@ -1724,3 +1728,7 @@ P.O. 25 DE SEPTIEMBRE DE 2002.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
