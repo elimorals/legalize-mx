@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-planeacion-para-el-estado-de-jalisco-y-sus-municipios-19
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-19"
-last_updated: "2004-02-10"
+last_updated: "2004-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PLANEACION PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 19 de Diciembre de 2000.
 
@@ -389,6 +389,10 @@ La aprobación o en su caso actualización o sustitución del Plan Municipal, se
 
 Si algún municipio no cuenta con un órgano propio de difusión, dentro de los quince días naturales siguientes a su aprobación, deberá remitirlo a su costa, a la Secretaría General de Gobierno para su publicación, en el Periódico Oficial "El Estado de Jalisco", en igual término.
 
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+
+Aprobado el Plan Municipal de Desarrollo, o en su caso, sus actualizaciones o sustituciones, el ayuntamiento deberá enviar copias de éstos al Congreso del Estado, para los efectos de lo dispuesto por la fracción VII del artículo 42 de la ley que establece las bases generales de la administración pública municipal.
+
 ###### Artículo 48.
 
 El Plan Municipal y los programas que de él se deriven, serán obligatorios para toda la administración pública municipal en el ámbito de sus respectivas competencias, conforme a las disposiciones legales que resulten aplicables, a partir de su publicación.
@@ -626,3 +630,7 @@ LIC. FELIPE DE JESÚS PRECIADO CORONADO
 P.O. 10 DE FEBRERO DE 2004.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco.
+
+P.O. 18 DE SEPTIEMBRE DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
