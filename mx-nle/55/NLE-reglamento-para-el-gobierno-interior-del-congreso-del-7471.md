@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "1994-03-28"
+last_updated: "1994-06-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1994.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -49,9 +49,11 @@ El Congreso del Estado tiene las facultades que expresamente le señala la Const
 
 ### CAPITULO II. DE LAS JUNTAS PREPARATORIAS Y DE LA INSTALACION DE LA LEGISLATURA
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
+
 ###### Artículo 3o.
 
-Calificadas las elecciones de Diputados con arreglo a la Constitución Política Local y a los Artículos 165 al 172 de la Ley Electoral del Estado de Nuevo León y entregadas las respectivas credenciales, los interesados se presentarán al Recinto del Congreso quince días antes de la apertura de las sesiones, en el año de su instalación a las once horas, para iniciar las Juntas Preparatorias correspondientes.
+Calificadas las elecciones de Diputados con arreglo a la Constitución Política del Estado de Nuevo León y a los Artículos 167 al 171, de la Ley Electoral del Estado y entregadas las respectivas credenciales, los interesados se presentarán al recinto del Congreso quince días antes de la Apertura de las Sesiones, en el año de su instalación a las once horas para iniciar las Juntas Preparatorias correspondientes.
 
 ###### Artículo 4o.
 
@@ -453,13 +455,13 @@ Las Comisiones Jurisdiccionales y de Colegio Electoral serán temporales, se int
 
 Las Comisiones Jurisdiccionales a que se refiere el Artículo 72 de la Ley Orgánica del Poder Legislativo conocerán y dictaminarán de los asuntos sobre Responsabilidad de los Servidores Públicos como lo establece el Título Séptimo de la Constitución Política Local y los Artículos 5, 6 y 7 de la Ley de Responsabilidades de los Servidores Públicos para el Estado de Nuevo León sobre juicios políticos, así mismo de las solicitudes para el desafuero de los miembros de la Legislatura.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
+
 ###### Artículo 43.
 
-La Comisión de Colegio Electoral se integrará para los efectos que establece el Artículo 73 y demás relativos de la Ley Orgánica del Poder Legislativo y conocerá y dictaminará las elecciones de Gobernador y Diputados Locales, tal como lo señala la Constitución Política del Estado de Nuevo León y la Ley Electoral Estatal.
+La comisión de Colegio Electoral se integrará para los efectos que establece el artículo 73 y demás relativos de la Ley Orgánica del Poder Legislativo y conocerá y dictaminará sobre la calificación de la elección de Gobernador, tal como lo señala la Constitución Política del Estado de Nuevo León y la Ley Electoral del Estado.
 
-Además conocerá y dictaminará sobre los Recursos de Nulidad en las Elecciones Municipales de acuerdo a lo señalado por la Constitución Política Local y la Ley Electoral del Estado.
-
-La Comisión de Colegio Electoral conocerá y dictaminará sobre la constancia de mayoría en la Elección de Senador para formular la declaratoria en los términos del Artículo 56 de la Constitución Política de los Estados Unidos Mexicanos.
+Además conocerá y dictaminará, en su caso, sobre los escritos de Nulidad en la elección de Gobernador, de acuerdo a lo señalado por la Constitución Política Local y la Ley Electoral del Estado.
 
 ###### Artículo 44.
 
@@ -807,9 +809,11 @@ Siempre serán Solemnes la Sesión de Apertura del Primer Período Ordinario de 
 
 Cuando así lo acuerde el Pleno, dentro de una Sesión Ordinaria o Extraordinaria podrá señalarse un espacio solemne con el propósito de homenajear o rendir reconocimientos a ciudadanos distinguidos. También lo podrán hacer en los asuntos que la Asamblea considere con merecimiento especial.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
+
 ###### Artículo 85.
 
-Cuando el Congreso o su Diputación Permanente se reúna para ejercer las facultades que les otorga los Artículos 63 fracción V y 66 fracción VIII de la Constitución Política del Estado de Nuevo León, las sesiones respectivas serán de Colegio Electoral.
+Cuando el Congreso se reúna para ejercer las facultades que le otorga el Artículo 63 Fracción XV, de la Constitución Política del Estado de Nuevo León, las sesiones respectivas serán de Colegio Electoral.
 
 ###### Artículo 86.
 
@@ -1231,9 +1235,11 @@ La Diputación Permanente entrará en funciones inmediatamente después de claus
 
 Durante su ejercicio la Diputación Permanente cumplirá con las facultades que le señala el Artículo 66 de la Constitución Política Local, la Ley Orgánica del Poder Legislativo y el presente Reglamento.
 
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
+
 ###### Artículo 162.
 
-La Diputación Permanente en el año en que solo se celebren elecciones para renovar el Poder Legislativo deberá hacer la declaratoria correspondiente para cumplir lo preceptuado en los Artículos 15 y 16 en sus segundos párrafos de la Ley Orgánica del Poder Legislativo, a efecto de constituirse en Comisión Instaladora y para calificar la elección; en su caso expedirá la constancia de mayoría en la elección de Senador.
+En el año en que sólo se celebren elecciones para renovar el Poder Legislativo, la Diputación Permanente, se constituirá en Comisión Instaladora para hacer el enlace con la siguiente Legislatura.
 
 ###### Artículo 163.
 
@@ -1284,3 +1290,7 @@ UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publica
 P.O. 28 DE MARZO DE 1994.
 
 UNICO:- El presente decreto entrará en vigor el día siguiente de su Publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE JUNIO DE 1994.
+
+UNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
