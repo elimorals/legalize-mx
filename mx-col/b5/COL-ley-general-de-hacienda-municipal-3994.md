@@ -4,7 +4,7 @@ identifier: "COL-ley-general-de-hacienda-municipal-3994"
 country: "mx"
 rank: "ley_general"
 publication_date: "1994-04-16"
-last_updated: "1996-11-30"
+last_updated: "2000-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY GENERAL DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial "El Estado de Colima", sábado 16 de abril de 1994.
 
@@ -513,25 +513,21 @@ II.- Los derechos incorporados en los certificados de participación inmobiliari
 
 #### SECCION SEGUNDA. DE LOS SUJETOS
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 56.
 
 Son sujetos de este impuesto:
 
-I.- Los propietarios, los copropietarios y los condóminos de predios;
+I.- Los propietarios y los poseedores de predios urbanos o rústicos, ejidales o comunales;
 
-II.- Los titulares de los derechos incorporados en los certificados de participación inmobiliaria o en cualquier otro título similar;
+II.- Los copropietarios, los coposeedores y los nudo propietarios de bienes inmuebles sujetos a régimen de copropiedad o condominio y los titulares de certificados de participación inmobiliaria;
 
-III.- Los fideicomitentes o los fideicomisarios;
+III.- Los fideicomitentes mientras sean poseedores del predio objeto del fideicomiso, los fideicomisarios que estén en posesión del predio, aún cuando todavía no se les trasmita la propiedad, en cumplimiento del fideicomiso, y los usufructuarios;
 
-IV.- Los nudo-propietarios o los usufructuarios;
+IV.- Los ejidatario, comuneros y los titulares de derechos parcelarios en los términos de la Legislación Agraria;
 
-V.- Quienes tengan la posesión a título de dueño o útil de predios, así como quienes se encuentren en posesión de bienes inmuebles por actos o contratos ajenos a la voluntad de los propietarios;
-
-VI.- Los poseedores de bienes vacantes, mientras los detenten;
-
-VII.- Los titulares de los derechos agrarios sobre la propiedad ejidal o comunal, y los propietarios o poseedores a título de dueño de las construcciones que se hagan en predios ejidales o comunales; y
-
-VIII.- Los propietarios o poseedores, por cualquier título, de predios donde se ubiquen plantas de beneficio o establecimientos mineros y metalúrgicos.
+V.- Los demás sujetos que señalen las Leyes Fiscales.
 
 #### SECCION TERCERA. DE LOS RESPONSABLES SOLIDARIOS
 
@@ -649,9 +645,11 @@ Toda estipulación privada en relación al pago de este impuesto que se oponga a
 
 #### SECCION SEPTIMA. DE LAS EXENCIONES
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 74.
 
-No causan este impuesto los bienes del dominio público de la federación, del estado y de sus municipios.
+No causan este impuesto los bienes del dominio público de la federación, del estado y de sus municipios, salvo que sean utilizados por entidades paraestatales, paramunicipales o por particulares, bajo cualquier título, con fines administrativos o propósitos distintos a su objeto público.
 
 #### SECCION OCTAVA. DE LAS MANIFESTACIONES Y AVISOS
 
@@ -751,23 +749,55 @@ En todo caso, los bienes inmuebles objeto del impuesto garantizarán preferentem
 
 #### SECCION TERCERA. DE LA BASE
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 81.
 
-Será base de este impuesto, el valor que resulte mayor entre el señalado como precio de la transmisión, el de avalúo bancario y el catastral.
+Será base de este impuesto, el valor que resulte mayor entre el catastral vigente en el momento en que se realice la operación objeto del impuesto. y el señalado como precio de la transmisión.
 
-> <small>(ADICIONADO, P.O. 21 ENERO DE 1995)</small>
-
-El contribuyente podrá optar por considerar como base gravable para el pago de este impuesto, el valor de adquisición del inmueble disminuido con el valor que se tomó como base para calcular el impuesto a que se refiere este capítulo en su última adquisición, siempre que la misma se hubiere efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 82.
 
-En los casos en que se transmita la nuda propiedad de inmuebles, el impuesto a pagar será el 50% del monto total que se determine de conformidad con el artículo anterior, y el 50% restante se causará cuando se extinga el usufructo.
+En los casos en que se transmita la nuda propiedad de inmuebles, la base del impuesto será el 50% del valor aplicable. Al extinguirse el usufructo se pagará el impuesto que resulte del otro 50% del valor catastral.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 82 BIS. La base del impuesto será el 50% del valor del inmueble, en los siguientes casos:
+
+I.- En las donaciones entre ascendientes o descendientes en línea recta en primer y segundo grados y entre consortes;
+
+II.- En las adjudicaciones en juicios sucesorios y en remates judiciales; y
+
+III.- En las transmisiones que se realicen con motivo de la disolución de la sociedad conyugal.
 
 #### SECCION CUARTA. DEL PAGO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 83.
 
-El pago de este impuesto deberá efectuarse aplicando a la base que resulte conforme a lo dispuesto por el artículo 81 de esta Ley, la tasa que señale la ley de ingresos municipales en vigor, después de deducirle en diez veces el salario mínimo general de la zona económica a la que corresponde el municipio elevado al año, vigente en el momento en que se esté en los supuestos de pago del mismo, enterando el impuesto dentro de los quince días siguientes a aquél en que se realice cualesquiera de los supuestos que a continuación se señalan:
+Los contribuyentes calcularán el impuesto aplicando a la base que resulte conforme a lo dispuesto por los artículos 81, 82 y 82 bis de esta ley, según el caso, la siguiente:
+
+TARIFA
+
+BASE DEL IMPUESTO LIMITE SUPERIOR CUOTA FIJA TASA PARA
+
+LIMITE INFERIOR APLICARSE AL
+
+EXCEDENTE DEL
+
+LIMITE INFERIOR
+
+$ 0.01 $ 250,000.00 $ 0.00 0.0025
+
+250,000.01 300,000.00 625.00 0.0080
+
+300,000.01 En adelante 1,025.00 0.0200
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+El pago del impuesto deberá efectuarse dentro de los quince días siguientes a aquel en que se realice cualesquiera de los supuestos que a continuación se señalan:
 
 I.- Cuando se constituya o adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga;
 
@@ -789,17 +819,7 @@ En los fideicomisos a que se refiere la fracción XII del artículo 77 de esta L
 
 ###### ARTICULO 86.
 
-Para la aplicación de la reducción a que se refiere el artículo 83 de esta Ley, deberán observarse las siguientes reglas:
-
-I.- Se considerarán como un solo inmueble, los bienes que sean o resulten colindantes, adquiridos por la misma persona, en un período de 24 meses. De la suma de los valores de los predios únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El adquirente deberá manifestar, bajo protesta de decir verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que se hubiere adquirido con anterioridad, para que se ajuste el monto de la reducción y se pagarán, en su caso, las diferencias de impuesto que corresponda. Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte o por donación entre ascendientes y descendientes, o entre cónyuges;
-
-II.- Cuando se adquiera parte de una propiedad o de los derechos de un inmueble, la reducción se hará en la proporción que corresponda a dicha parte;
-
-III.- Tratándose del usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos; y
-
-IV.- Tratándose de inmuebles que estén constituidos por departamentos habitacionales, la reducción a que se refiere este artículo se hará por cada uno de ellos. Lo dispuesto en este párrafo no es aplicable a hoteles.
-
-No se considerarán departamentos habitacionales los que por sus características originales se destinen a servicios domésticos, portería o guarda de vehículos, aun cuando se utilicen para otros fines.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 87.
 
@@ -867,9 +887,23 @@ Cuando la transmisión de la propiedad haya operado teniendo como fundamento con
 
 #### SECCION QUINTA. DE LAS EXENCIONES
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 96.
 
-Se eximen del pago de este impuesto, las transmisiones o adquisiciones de bienes inmuebles que hagan los gobiernos federal, estatal o municipal para formar parte del dominio público, así como los que adquieran los Estados extranjeros en caso de reciprocidad. Tampoco se pagará este impuesto en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
+Se eximen del pago de este impuesto:
+
+I.- Las adquisiciones de bienes inmuebles que hagan los gobiernos federal, estatal o municipal para formar parte del dominio público, salvo que sean utilizados por entidades paraestatales, paramunicipales o particulares, bajo cualquier título, con fines administrativos o propósitos distintos a su objeto público.
+
+II.- Las adquisiciones que realicen los Estados Extranjeros en caso de reciprocidad.
+
+III.- Las Adquisiciones que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
+
+IV.- Las adquisiciones que hagan las personas de menores ingresos, de viviendas subsidiadas por los gobiernos federal, estatal o municipal.
+
+V.- En las adquisiciones de viviendas de interés social, promovidas o financiadas por organismos o fondos públicos federales, estatales o municipales, el impuesto se pagará aplicando al valor que sirva de base, la tasa del 0.005.
+
+Para los efectos de este artículos se consideran viviendas de interés social, las que al término de su edificación tengan un valor de hasta el equivalente a dieciocho días de salario mínimo general de la zona económica del Estado de Colima, elevado al año.
 
 ### CAPITULO III. DEL IMPUESTO SOBRE ESPECTACULOS PUBLICOS
 
@@ -1956,3 +1990,39 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 30 DE NOVIEMBRE DE 1996.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2000
+
+###### ARTICULO PRIMERO
+
+- El Presente Decreto entrará en vigor el día primero de enero del año 2001, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+###### ARTICULO SEGUNDO.
+
+A fin de evitar impactos desproporcionados en el pago del impuesto predial, con motivo de la actualización de los valores catastrales para adecuarlos a las reformas de la Constitución Federal, publicadas en el Diario Oficial de la Federación el 23 de diciembre de 1999 y de la Constitución Política del Estado Libre y Soberano de Colima, publicado en el periódico oficial "El Estado de Colima" el 30 de septiembre del año 2000, en las que se determina que dichos valores serán equiparables a los de mercado, la base para la determinación del mismo se reducirá temporalmente y se irá ajustando hasta alcanzar el 100% del valor catastral en los términos del artículo 58 de esta ley, como a continuación se señala:
+
+MUNICIPIO 2001 2002 2003 2004 2005 2006 2007
+
+ARMERIA 40.00% 50.00% 60.00% 70.00% 80.00% 90.00% 100.00%
+
+COLIMA 40.00% 50.00% 60.00% 70.00% 80.00% 90.00% 100.00%
+
+COMALA 40.00% 50.00% 60.00% 70.00% 80.00% 90.00% 100.00%
+
+COQUIMATLAN 40.00% 50.00% 60.00% 70.00% 80.00% 90.00% 100.00%
+
+CUAUHTEMOC 40.00% 50.00% 60.00% 70.00% 80.00% 90.00% 100.00%
+
+IXTLAHUACAN 40.00% 50.00% 60.00% 70.00% 80.00% 90.00% 100.00%
+
+MANZANILLO 52.00% 60.00% 70.00% 80.00% 90.00% 100.00%
+
+MINATITLAN 40.00% 50.00% 60.00% 70.00% 80.00% 90.00% 100.00%
+
+TECOMAN 40.00% 50.00% 60.00% 70.00% 80.00% 90.00% 100.00%
+
+VILLA DE ALVAREZ40.00% 50.00% 60.00% 70.00% 80.00% 90.00% 100.00%
+
+###### ARTICULO TERCERO.
+
+Durante el ejercicio fiscal 2001, la base del impuesto sobre transmisiones patrimoniales será el 50% del valor que resulte conforme al artículo 81 de la presente ley.
