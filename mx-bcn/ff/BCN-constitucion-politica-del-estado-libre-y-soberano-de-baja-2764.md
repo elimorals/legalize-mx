@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2001-12-07"
+last_updated: "2002-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2002.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -979,11 +979,11 @@ Corresponde al Tribunal de Justicia Electoral como máxima autoridad jurisdiccio
 
 La remuneración de los Magistrados del Poder Judicial a excepción de los Magistrados electorales, así como de los jueces de primera instancia, Jueces de Paz, Jurados y Consejeros de la Judicatura del Estado, no podrá ser disminuida durante el tiempo de su gestión.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 58.
 
-El Tribunal Superior de Justicia estará integrado por trece Magistrados Numerarios como mínimo y tres Supernumerarios. Funcionará en los términos que disponga la Ley. Los Magistrados en Pleno, designarán a uno de sus miembros como Presidente, que durará un año en su cargo, pudiendo ser reelecto.
+El Tribunal Superior de Justicia estará integrado por trece Magistrados Numerarios como mínimo y tres Supernumerarios. Funcionará en los Términos que disponga la Ley. Los Magistrados en Pleno, designarán a uno de sus miembros como Presidente, que durará dos años en su cargo, y no podrá ser reelecto.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DEL 2001)</small>
 
@@ -1177,7 +1177,7 @@ El Tribunal de Justicia Electoral, por conducto de su Presidente, presentará su
 
 El Tribunal expedirá su Reglamento Interno y las disposiciones administrativas para su adecuado funcionamiento.
 
-### CAPITULO V.. DEL PATRIMONIO Y LA HACIENDA PUBLICA MUNICIPAL
+### CAPITULO IV.. DE LAS ATRIBUCIONES, FUNCIONES Y SERVICIOS PUBLICOS MUNICIPALES
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -1227,7 +1227,7 @@ La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y d
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2001)</small>
 
-### CAPITULO IV.. DE LAS ATRIBUCIONES, FUNCIONES Y SERVICIOS PUBLICOS MUNICIPALES
+### CAPITULO V.. DEL PATRIMONIO Y LA HACIENDA PUBLICA MUNICIPAL
 
 > <small>(REFORMADO Y REUBICADO, P.O. 13 DE ABRIL DE 2001)</small>
 
@@ -2428,3 +2428,9 @@ P.O. 7 DE DICIEMBRE DE 2001.
 PRIMERO.- Las presentes reformas entrarán en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado, una vez que se corra el trámite que señala el Artículo 112, de la Constitución Política del Estado a los Municipios para que emitan su opinión, en los términos de Ley.
 
 SEGUNDO.- El Presidente del Tribunal Superior de Justicia, por única ocasión, deberá asistir a sesión solemne del Congreso del Estado en la fecha que al efecto designe dicha Soberanía, para rendir el informe a que hace referencia éstas reformas.
+
+P.O. 24 DE MAYO DE 2002.
+
+PRIMERO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- La designación del Magistrado Presidente del Tribunal Superior de Justicia del Poder Judicial del Estado de Baja California por dos años, deberá recaer preferentemente en aquellos Magistrados que de acuerdo con su respectivo nombramiento, se encuentre vigente para el período que fueron electos por el Congreso del Estado.
