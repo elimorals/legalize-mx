@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-los-municipios-del-estado-de-yucatan-10848"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-10-25"
-last_updated: "1995-12-28"
+last_updated: "1996-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE AGOSTO DE 1996.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 25 de octubre de 1988.
 
@@ -1361,7 +1361,7 @@ XI.- Celebrar a nombre del Ayuntamiento y por acuerdo de éste, todos los actos 
 
 XII.- Inspeccionar las dependencias Municipales y entidades paramunicipales, para cerciorarse de su funcionamiento, tomando aquellas medidas que considere pertinentes para la mejor administración. De lo anterior dará cuenta al Ayuntamiento;
 
-XIII.- Autorizar las órdenes de pago de la Tesorería Municipal, que sea conforme al Presupuesto, firmándolas en unión de los comisionados de Hacienda;
+XIII.- Autorizar las órdenes de pago de la Tesorería Municipal, que sea conforme al presupuesto, firmándolas en unión de los comisionados de Hacienda;
 
 XIV.- Cumplimentar los acuerdos del Ayuntamiento e informarles al respecto;
 
@@ -1841,25 +1841,171 @@ Las concesiones otorgadas en contravención con lo dispuesto con el artículo an
 
 ### CAPITULO V. DEL DESARROLLO MUNICIPAL Y SU PLANEACION
 
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 1996)</small>
+
 ###### ARTÍCULO 91.
 
-Los Municipios para el cumplimiento de sus fines, aprovechamiento de sus recursos, desarrollo, reestructuración, conservación y mejoramiento de centros de población y servicios públicos, podrán formular planes y programas en los términos de la ley de la materia.
+Los ayuntamientos y sus administraciones públicas conducirán sus actividades de manera planeada y programada en la esfera de sus competencias, en coordinación con los otros órdenes de gobierno y con la participación amplia de la sociedad y las comunidades municipales.
+
+Los ayuntamientos reglamentarán las bases que establece esta Ley y la Ley Estatal de Planeación, para integrar sus sistemas municipales de planeación, crear los comités de planeación para el desarrollo de los municipios y establecer los mecanismos de participación de los grupos y organizaciones sociales y comunitarias.
+
+Los municipios para el cumplimiento de sus fines; el desarrollo de las actividades productivas; el aprovechamiento de sus recursos; el establecimiento, ampliación, mejoramiento y conservación de los centros de población y los servicios públicos, podrán formular planes y los programas que de ellos deriven.
+
+Los municipios formularán sus planes municipales de desarrollo o programas trianuales municipales, con la finalidad de promover el desarrollo integral de la comunidad. Cada municipio, de acuerdo con sus recursos técnicos, administrativos y económicos, determinará si opta por uno u otro.
+
+De manera no vinculatoria los planes o programas trianuales podrán cubrir los requisitos siguientes:
+
+a) Los planes expondrán el diagnóstico municipal o describirán su situación general, y precisarán los objetivos generales, estrategias, políticas, programas, acciones y prioridades del desarrollo integral del municipio. Podrán contener objetivos de largo plazo.
+
+b) Los programas trianuales describirán la situación general del municipio y establecerán los programas, proyectos y acciones prioritarios a realizar en el período constitucional de la autoridad municipal.
+
+Las previsiones de ambos se referirán al conjunto de la actividad económica y social del municipio.
+
+Los programas operativos serán los instrumentos anuales de la planeación municipal; estarán determinados por el Plan o el Programa Trianual; y, serán concordantes con los planes estatal y nacional de desarrollo.
+
+El Plan Municipal de Desarrollo o el Programa Trianual será elaborado dentro de los seis primeros meses de la gestión municipal por los órganos, dependencias o funcionarios que determinen los ayuntamientos y será aprobado por éstos.
+
+Los planes municipales de desarrollo y los programas que de él deriven, una vez aprobados y decretados serán obligatorios para toda la administración municipal.
+
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 1996)</small>
 
 ###### ARTÍCULO 92.
 
-Los Municipios podrán contar con el Plan Municipal de Desarrollo como instrumento para el desarrollo integral de la comunidad. Los planes Municipales de desarrollo precisarán los objetivos generales, estrategias y prioridades del desarrollo integral del Municipio. Sus previsiones se referirán al conjunto de la actividad económica y social y regirán el contenido de los programas operativos anuales, en concordancia siempre con el Plan Estatal y el Plan Nacional de Desarrollo.
+En cada municipio se integrará un Comité de Planeación para el Desarrollo, responsable de conducir el sistema municipal de planeación, en el que participarán:
+
+I. El Presidente Municipal en su carácter de Presidente del Comité.
+
+II. Un Secretario Técnico, que será designado por el Presidente.
+
+III. Los Regidores.
+
+IV. Los miembros de la administración pública municipal que determine el presidente municipal.
+
+V. Los comisarios y subcomisarios municipales, cuyo voto global no rebase el número total de regidores. El Reglamento respectivo, señalará la forma o mecanismo en que se dará este voto.
+
+VI. La representación de los grupos y organizaciones sociales y civiles del municipio, entre las que necesariamente se incluirá a las representativas de la etnia maya de Yucatán.
+
+VII. Un Asesor Técnico que será nombrado por el Gobernador del Estado y que podrá ser el Coordinador del Subcomité Regional del Coplade que corresponda.
+
+VIII. Un representante del Delegado de la Secretaría de Desarrollo Social.
+
+IX. Los representantes de las dependencias y entidades de las administraciones públicas estatal y Federal que operen en la región o el municipio, que el presidente municipal convoque a sesiones específicas o invite permanentemente.
+
+Los representantes a que se refieren las fracciones de la VI a la IX, participarán con voz pero sin voto.
+
+El Presidente Municipal, en su carácter de Presidente del Comité determinará los grupos y organizaciones sociales que serán invitadas a participar en el Comité de Planeación Municipal.
+
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 1996)</small>
 
 ###### ARTÍCULO 93.
 
-El Plan Municipal de Desarrollo será elaborado al inicio de la Gestión Municipal por los órganos, dependencias y funcionarios que determinen los Ayuntamientos y será aprobado por éstos.
+Los comités tendrán las atribuciones siguientes:
+
+I. Participar en la elaboración del Plan Municipal de Desarrollo o el Programa Trianual del Municipio y los programas que de él deriven.
+
+II. Presentar conjuntamente con el órgano competente el Plan Municipal de Desarrollo o el Programa Trianual del municipio, y los programas que de él deriven a la aprobación del ayuntamiento.
+
+III. Coordinar las actividades de la planeación municipal para el desarrollo.
+
+IV. Vigilar la efectiva participación de la comunidad en las diversas etapas del proceso de planeación municipal.
+
+V. Participar, por conducto de su Presidente, en la Asamblea Plenaria del Comité de Planeación para el Desarrollo del Estado de Yucatán y en sus subcomités regionales.
+
+VI. Integrar el Programa Operativo Anual del Municipio, que incluirá las propuestas del Consejo de Desarrollo Municipal, conforme a las prioridades determinadas de acuerdo a su importancia para el desarrollo social y productivo del Municipio.
+
+VII. Presentar las propuestas aprobadas por el Consejo de Desarrollo Municipal para integrar al Programa Anual de Inversión, Gasto y Financiamiento del Municipio, para efectos de gestionar su financiamiento con recursos del Fondo de Desarrollo Social Municipal.
+
+VIII. Propiciar la integración y funcionamiento democráticos del Consejo de Desarrollo Municipal.
+
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 1996)</small>
 
 ###### ARTÍCULO 94.
 
-Los Planes Municipales de Desarrollo y los programas que de él se deriven, una vez aprobados y decretados serán obligatorios para toda la administración municipal en el ámbito de sus respectivas competencias.
+El programa operativo anual del municipio contendrá:
+
+a) Los programas y acciones que realizará directamente el municipio.
+
+b) Los programas y acciones coordinados que se realizarán con recursos del Convenio de Desarrollo Social.
+
+c) Los programas y acciones que realizarán en el municipio las dependencias y entidades de las administraciones públicas Federal y estatal.
+
+d) Diagnóstico de la situación económico-social del municipio.
+
+e) Objetivos, programas, proyectos, acciones y metas.
+
+f) Previsión de los recursos necesarios y fuentes de los mismos.
+
+g) Acciones globales a realizar en las vertientes de la planeación obligatoria, coordinada y concertada e inducida en relación a los sectores social y privado.
+
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 1996)</small>
 
 ###### ARTÍCULO 95.
 
-Los Municipios en la esfera de sus competencias planearán y regularán de manera conjunta y coordinada su desarrollo.
+Los grupos y organizaciones sociales y las comunidades de los municipios participarán en las etapas de formulación, instrumentación, vigilancia y control del proceso de planeación municipal y serán partes integrantes de los comités de planeación para el desarrollo.
+
+Los ayuntamientos reglamentarán la participación social y, especialmente, la de las organizaciones representativas de la etnia maya de Yucatán y la de los consejos de desarrollo municipal y los comités comunitarios.
+
+El Consejo de Desarrollo Municipal es el órgano de planeación, decisión, aprobación, vigilancia y control de los proyectos y acciones que se realizarán con los recursos del Fondo de Desarrollo Social Municipal, materia del Convenio de Desarrollo Social que formalizan anualmente la Federación y el Estado, y los convenios de desarrollo social municipal, que celebran anualmente el Ejecutivo estatal y los presidentes municipales.
+
+El Consejo de Desarrollo Municipal se integrará por:
+
+I. El Presidente Municipal, que es el Presidente del Consejo.
+
+II. Los representantes de los comités comunitarios, electos democráticamente en asamblea.
+
+III. Un vocal de control y vigilancia electo por los miembros del Consejo.
+
+IV. Los asesores del Consejo, representantes uno del Ejecutivo estatal y otro de la Secretaría de Desarrollo Social de la Administración Pública Federal, sin derecho a voto y para efectos de coordinación y colaboración, exclusivamente.
+
+Las funciones del Consejo de Desarrollo Municipal son las siguientes:
+
+I. Decidir democráticamente el destino de los recursos del Fondo de Desarrollo Social Municipal, y promover, seleccionar, programar, controlar, vigilar y dar seguimiento a sus acciones.
+
+II. Aprobar en sesión los programas de inversión que proponga, hacerlos constar en acta y darlos a conocer al Comité de Planeación para el Desarrollo del Municipio, para los efectos previstos en esta Ley.
+
+III. Elaborar su programa de trabajo anual.
+
+IV. Formular su Reglamento Interior.
+
+V. Organizar las comisiones de trabajo necesarias para facilitar sus funciones.
+
+VI. Establecer la agenda de las reuniones con las dependencias normativas y ejecutoras para el seguimiento de la gestión y ejecución de obras.
+
+VII. Programar reuniones de consulta a las organizaciones sociales, comunidades y comités comunitarios.
+
+VIII. Nombrar en forma democrática al Vocal de Control y Vigilancia.
+
+IX. Propiciar la integración democrática del Consejo de Desarrollo Social Comunitario, en su caso.
+
+> <small>(ADICIONADO, D.O. 26 DE AGOSTO DE 1996)</small>
+
+###### ARTÍCULO 95
+
+BIS. El comité comunitario es la instancia organizativa local, constituida por los representantes nombrados democráticamente por localidad, comisaría, cuadra, manzana, barrio, colonia, fraccionamiento, entre otros. Su órgano de decisión es la asamblea comunitaria, que contará con un Presidente y un Vocal de Control y Vigilancia, electos democráticamente.
+
+Los comités comunitarios tienen las funciones siguientes:
+
+I. Analizar y priorizar los rezagos y problemas locales, para formular su programa anual de gestión ante el Consejo de Desarrollo Municipal.
+
+II. Organizar y coordinar la realización de tareas y acciones a desarrollar por la comunidad que no requieran recursos del Fondo de Desarrollo Social Municipal, integrados en un Programa de Acción Comunitaria.
+
+III. Definir y nombrar las comisiones de trabajo, sus tareas y tiempos de acción para cada aspecto del desarrollo social.
+
+IV. Nombrar democráticamente a sus representantes ante el Consejo de Desarrollo Municipal y, en su caso, participar en la integración del Consejo de Desarrollo Social Comunitario.
+
+V. Realizar la vigilancia, control y seguimiento social de las obras, acciones y proyectos realizados con recursos del Fondo de Desarrollo Social Municipal.
+
+Se constituirá el Consejo de Desarrollo Social Comunitario, en el caso de que el número de comités comunitarios del municipio fuera mayor de 30 y tendrá las funciones siguientes:
+
+a) Representar a los comités comunitarios ante el Consejo de Desarrollo Municipal.
+
+b) Ordenar y sistematizar las demandas sociales definidas por los comités comunitarios, para ser presentadas al Consejo de Desarrollo Municipal.
+
+c) Establecer comisiones de trabajo por materia, a fin de dar seguimiento a las acciones definidas por los diferentes comités comunitarios.
+
+d) Nombrar a los representantes ante el Consejo de Desarrollo Social Municipal.
+
+e) Apoyar en su labor al Vocal de Control y Vigilancia del Consejo de Desarrollo Municipal, para coordinar la función de contraloría social.
 
 ### CAPITULO VI. DE LA ADMINISTRACION PARAMUNICIPAL
 
@@ -2261,11 +2407,11 @@ EL ESTADO Y LOS MUNICIPIOS
 
 Los Municipios podrán coordinarse entre sí, o con el Estado, para el eficaz desempeño de sus funciones administrativas, fiscales, de obras y servicios públicos. Asimismo podrán crear entre sí entidades paramunicipales y organismos desconcentrados debiendo sujetarse a las disposiciones prescritas en el Capítulo V del Título Cuarto de esta Ley, en su parte conducente.
 
-> <small>(F. DE E., D.O. 7 DE NOVIEMBRE DE 1988)</small>
+> <small>(REFORMADO, D.O. 26 DE AGOSTO DE 1996)</small>
 
 ###### ARTÍCULO 149.
 
-El Ejecutivo, a solicitud de los Ayuntamientos, le dará la asesoría que les permita realizar las finalidades de su exclusiva competencia; asimismo, auxiliará a los propios Ayuntamientos en la realización de los planes y programas que éstos formulen en el cumplimiento de sus fines y la organización administrativa de los mismos.
+El Ejecutivo, a solicitud de los ayuntamientos les dará la asesoría que les permita realizar las finalidades de su exclusiva competencia. Asimismo, la Administración Pública Estatal y el Coplade atenderán oportunamente las solicitudes de apoyo y asesoría de las autoridades municipales para formular e instrumentar el Plan o el Programa Trianual y los programas de ellos derivados; su gestión administrativa; e, impulsar el desarrollo institucional de los municipios.
 
 ###### ARTICULO 150.
 
@@ -2330,3 +2476,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 D.O. 28 DE DICIEMBRE DE 1995.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 26 DE AGOSTO DE 1996.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos del penúltimo párrafo del artículo 91 que se reforma, por esta única ocasión, los Ayuntamientos que no hayan cumplido con esta obligación tendrán ciento veinte días a partir del inicio de la vigencia de este Decreto para cumplir con la citada disposición.
+
+###### ARTICULO TERCERO.
+
+Este decreto deroga todas las disposiciones legales que a él se opongan.
