@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-42-de-catastro-del-estado-de-veracruz-de-ignacio-228
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2003-01-06"
+last_updated: "2003-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE CATASTRO DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MARZO DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 21 de diciembre de 2001.
 
@@ -850,3 +850,11 @@ SEGUNDO. Se derogan las disposiciones que se opongan a lo dispuesto en el presen
 TERCERO. Las visitas domiciliarias y las de verificación ya iniciadas al momento de la entrada en vigor del presente Decreto, se continuarán tramitando conforme a las disposiciones del Código de Procedimientos Administrativos para el Estado de Veracruz-Llave, vigentes al momento de su inicio.
 
 CUARTO. Las disposiciones reglamentarias en materia de catastro, deberán ajustar su contenido a lo dispuesto en el presente Decreto, dentro de un plazo de noventa días contados a partir de la entrada en vigor del presente Decreto.
+
+G.O. 10 DE MARZO DE 2003.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Código entrara en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+CUARTO.- Las disposiciones relativas a la clasificación de predios suburbanos, de conformidad con lo previsto por el artículo sexto transitorio de la Ley de Catastro del Estado de Veracruz-Llave, entraran en vigor a partir del 1 de enero del año 2004.
