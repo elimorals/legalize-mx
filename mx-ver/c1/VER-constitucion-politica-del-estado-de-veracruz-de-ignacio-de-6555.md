@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1977-12-22"
+last_updated: "1978-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE DICIEMBRE DE 1977.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE OCTUBRE DE 1978.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -173,9 +173,11 @@ Son veracruzanos los nacidos en el territorio del Estado o accidentalmente fuera
 
 Son vecinos del Estado los que residen habitualmente dentro de su territorio, sean mexicanos o extranjeros.
 
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
+
 ###### Artículo 15.
 
-Es obligación de los vecinos, inscribirse en el padrón de su respectiva Municipalidad, lo que deberán hacer los recién avecindados, en el preciso término de dos meses después de su llegada. No se permite la inscripción de vecindad en un Municipio al que resida habitualmente en otro. También se prohibe ser vecino de dos o más lugares o no serlo de ninguno.
+Es obligación de los vecinos inscribirse en el padrón de su respectiva municipalidad, lo que deberán hacer los recién avecindados en el preciso término de tres meses después de su llegada. No se permite la inscripción de vecindad en el Municipio al que resida habitualmente en otro. También se prohibe ser vecino de dos o más lugares o no serlo de ninguno.
 
 ###### Artículo 16.
 
@@ -205,7 +207,7 @@ Los individuos que desempeñen algún cargo concejil quedarán exentos, durante 
 
 DEL PODER LEGISLATIVO.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1976)</small>
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
 
 ###### Artículo 20.
 
@@ -257,9 +259,17 @@ I. Votar en las elecciones populares;
 
 II. Poder ser votado en dichas elecciones y nombrado para cualquier cargo o comisión, siempre que tenga los requisitos que exijan las leyes;
 
-III. Reunirse pacíficamente para tratar de los asuntos públicos del Estado; y
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 1978)</small>
 
-IV. Ejercer en toda clase de negocios el derecho de petición.
+III. Ejercer en toda clase de negocios el derecho de petición; y
+
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 1978)</small>
+
+IV. Reunirse pacíficamente para tratar los asuntos públicos del Estado.
+
+> <small>(ADICIONADO, G.O. 10 DE OCTUBRE DE 1978)</small>
+
+Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral.
 
 ###### Artículo 28.
 
@@ -323,25 +333,31 @@ El ejercicio del Poder Judicial se deposita: en un Tribunal Superior de Justicia
 
 No pueden reunirse dos o más de esos Poderes en una sola persona o corporación, ni depositarse el Legislativo en un individuo. La observancia de este precepto podrá suspenderse en los casos de la fracción XXII del artículo 68.
 
-> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 1938)</small>
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
 
 ###### Artículo 38.
 
-Los miembros de la Legislatura, los Ayuntamientos y el Gobernador, serán nombrados popularmente en elección directa, en los términos que disponga la Ley Orgánica respectiva. Los Magistrados del Tribunal Superior, serán propuestos por el Gobernador a la Legislatura o a la Diputación Permanente, en su caso, en la forma que determina esta Constitución.
+El Gobernador del Estado será nombrado popularmente en elección directa. Los miembros de la Legislatura y de los Ayuntamientos serán nombrados de acuerdo con el principio de votación mayoritaria relativa y el principio de representación proporcional. Los Magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal del Estado, serán designados por el Gobernador y los nombramientos sometidos para su aprobación a la Legislatura o la Diputación Permanente en su caso.
 
-(REFORMADO, G.O. 28 DE ENERO DE 1943) (REPUBLICADO, G.O. 31 DE AGOSTO DE 1943)
+En todos los casos que señala este precepto se estará a lo que establece la presente Constitución y a lo que en lo particular disponga la ley.
+
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
 
 ###### Artículo 39.
 
-Para las elecciones de Diputados, se dividirá el Estado en Distritos de ciento cincuenta mil habitantes. La fracción que pase de setenta y cinco mil habitantes, compondrá también un Distrito.
+Para las elecciones de diputados se dividirá el Estado en dieciséis distritos electorales uninominales y toda la entidad constituirá una circunscripción plurinominal, en la que serán electos hasta quince diputados según el principio de representación proporcional, mediante el sistema de listas.
+
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
 
 ###### Artículo 40.
 
-En toda clase de elecciones, bastará la simple mayoría para declarar electo al que haya obtenido, con tal que contenga esa mayoría una cuarta parte, a lo menos, del total de los votos emitidos. Si ninguno obtuviere tal número de votos, se hará segunda elección del mismo modo que la primera, no pudiendo figurar en ella como candidatos sino los dos que hayan tenido mayor número.
+La demarcación de cada uno de los dieciséis distritos electorales uninominales se señalará en la ley respectiva.
 
 ###### Artículo 41.
 
 El ciudadano o vecino que resulte nombrado popularmente para dos o más cargos, estará en libertad de optar por el que estime conveniente, sin que esta facultad se extienda hasta preferir los cargos municipales, a los de la Federación o del Estado.
+
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
 
 ### CAPITULO II.
 
@@ -351,7 +367,7 @@ DE LA INSTALACIÓN DE LA LEGISLATURA Y DE SUS SESIONES.
 
 ###### Artículo 42.
 
-Los ciudadanos veracruzanos, al cambiar de vecindad dentro de los límites del Estado, adquirirán el derecho de votar en la Municipalidad de su nueva residencia los dos meses de haberse inscripto (sic) en el padrón respectivo.
+Los ciudadanos veracruzanos al cambiar de vecindad dentro de los límites del Estado, adquirirán el derecho de votar en la municipalidad de su nueva residencia a los tres meses de haberse inscrito en el padrón respectivo.
 
 ###### Artículo 43.
 
@@ -361,23 +377,29 @@ Sólo los vecinos de una Municipalidad que tengan los requisitos que esta Consti
 
 Los extranjeros no tienen voto activo ni pasivo.
 
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
+
 ###### Artículo 45.
 
-Los padrones electorales se sacarán de los de las Municipalidades y no se expedirán boletas a los que no estuvieren inscriptos en éstos, excepto para la elección de los altos funcionarios del Estado, pues en este caso, todo ciudadano veracruzano conserva el derecho electoral, aún hallándose fuera del lugar de su domicilio, si justifica debidamente su vecindad en el Estado.
+Los padrones electorales se obtendrán en términos de la Ley Electoral respectiva y sólo podrán votar los ciudadanos que posean credencial permanente de elector.
 
 ###### Artículo 46.
 
-La Legislatura del Estado se compondrá cuando menos de once miembros, nombrados popularmente en elección directa, en los distritos electorales que establece la Ley, según lo dispuesto en el artículo 39 de este Código Fundamental y se complementará con Diputados de Partido, sujetándose en ambos casos a lo dispuesto por la Ley Estatal Electoral. En lo referente a Diputados de Partido regirán, además, las reglas siguientes:
+La Legislatura del Estado se compondrá de dieciséis miembros nombrados popularmente en elección directa, por mayoría relativa en los distritos electorales uninominales que establece la ley y hasta con quince diputados que serán electos por representación proporcional, mediante el sistema de listas votadas en la circunscripción plurinominal, que se sujetarán a las bases generales siguientes y a lo que en lo particular disponga la ley:
 
-I. Los Partidos Políticos Nacionales y los Estatales, registrados en la Secretaría de Gobierno del Estado, al obtener el uno y medio por ciento o más de la votación total para la renovación de la Legislatura, tendrán derecho a que se les acredite como Diputados de Partido a uno de sus candidatos.
+I. Para obtener el registro de su lista regional, el partido político que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos ocho de los distritos uninominales.
 
-II. Si logran la mayoría en uno o más distritos electorales, no tendrán derecho a Diputados de Partido.
+II. Tendrá derecho a que le sean atribuidos diputados electos según el principio de representación proporcional, todo aquel partido que alcance por lo menos el uno y medio por ciento del total de la votación emitida en la circunscripción plurinominal;
 
-III. El Diputado de Partido se acreditará, en riguroso orden de acuerdo con el mayor porcentaje de votos que haya logrado en relación a los demás candidatos del mismo Partido.
+III. El partido que cumpla con los supuestos señalados en las fracciones I y II de este artículo le serán asignados, por el principio de representación proporcional, el número de diputados de su lista regional que corresponda al porcentaje de votos obtenidos en la circunscripción plurinominal;
 
-IV. Los Diputados de Mayoría y los de Partido, como representantes del pueblo, tienen la misma categoría e iguales derechos y obligaciones.
+IV. La ley determinará la fórmula electoral y procedimientos que se observarán en dicha asignación, en la que se seguirá el orden que tuviesen los candidatos en la lista correspondiente;
 
-Por cada Diputado propietario se nombrará un suplente.
+V. Los partidos políticos tendrán derecho a que les sean reconocidos hasta veintitrés diputados, sumando los electos por mayoría relativa y por representación proporcional; y
+
+VI. Los diputados de mayoría relativa y de representación proporcional, como representantes del pueblo, tienen la misma categoría e iguales derechos y obligaciones.
+
+Por cada diputado propietario se nombrará un suplente.
 
 ###### Artículo 47.
 
@@ -415,9 +437,13 @@ V. Los Presidentes Municipales por los Distritos en que ejerzan autoridad; y
 
 VI. Los Jefes de las rentas federales, el Tesorero General del Estado y los Administradores de Rentas por los Distritos en donde ejerzan sus funciones.
 
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
+
 ###### Artículo 50.
 
-La Legislatura calificará las elecciones de sus miembros, resolviendo las dudas que hubiera sobre ellas. Su resolución será definitiva e inatacable.
+La Legislatura calificará la elección de sus miembros a través de un Colegio Electoral, que se integrará por los seis presuntos diputados que, de acuerdo con las constancias de mayoría que registre la Comisión Estatal Electoral, hubieren obtenido mayor número de votos y por un presunto diputado de cada una de las 4 listas, de las registradas que hayan alcanzado la votación más alta en la circunscripción plurinominal.
+
+Las resoluciones del Colegio Electoral de la Legislatura del Estado serán definitivas e inatacables.
 
 ###### Artículo 51.
 
@@ -443,15 +469,19 @@ Se reunirá la Legislatura en sesiones extraordinarias cada vez que fuere convoc
 
 DE LAS PRERROGATIVAS DE LOS DIPUTADOS, DE LAS FACULTADES DE LA LEGISLATURA Y RESTRICCIONES DE ELLAS.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 10 DE OCTUBRE DE 1978)</small>
+
 ###### Artículo 55.
 
 Si las sesiones extraordinarias se prolongan hasta el tiempo en que deban comenzar las ordinarias, cesarán aquéllas; y, durante éstas, se despacharán, de preferencia, los asuntos que motivaron la convocatoria y que hayan quedado pendientes.
 
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
+
 ###### Artículo 56.
 
-Ni la Junta Preparatoria ni la Legislatura pueden ejercer sus funciones sin la concurrencia de más de la mitad del número total de Diputados; pero los presentes, cualquiera que sea su número, deberán reunirse los días señalados por la ley y compeler a los ausentes a que concurran dentro de los ocho días siguientes, con la advertencia, de que si no lo hicieren, se entenderá por ese solo hecho, -excepto caso justificado,- que no aceptan el cargo, llamándose luego a los suplentes, los que deberán presentarse en un plazo igual; y si tampoco lo hicieren, se declarará vacante el puesto y se convocará a nuevas elecciones.
+Ni el Colegio Electoral, ni la Legislatura pueden ejercer sus funciones sin la concurrencia de más de la mitad del número total de diputados; pero los presentes, cualquiera que sea el número, deberán reunirse los días señalados por el reglamento para compeler a los ausentes a que concurran dentro de los ocho días siguientes, con la advertencia de que si no lo hicieren, se entenderá por ese solo hecho, excepto caso justificado, que no aceptan el cargo llamándose luego a los suplentes, los que deberán presentarse en un plazo igual; y si tampoco lo hicieren se declarará vacante el puesto y se convocará a nuevas elecciones en tratándose de diputados electos por mayoría relativa. Se llamará al que sigue en el orden de la lista regional votada en la circunscripción plurinominal cuando se trate de diputados electos según el principio de representación proporcional.
 
-Se entiende también que los Diputados que falten a diez días consecutivos, sin causa justificada, o sin previa licencia del Presidente de la Legislatura -con la cual se dará conocimiento a ésta- renuncian a concurrir durante ese período, llamándose, desde luego, a los suplentes. Si no hubiere quórum para instalar la Legislatura o para que ejerza sus funciones una vez instalada, se convocará inmediatamente a los suplentes para que se presenten a la mayor brevedad a desempañar su cargo, entre tanto transcurren los ocho días de que antes se habla.
+Se entiende también que los diputados que falten diez días consecutivos sin causa justificada o sin previa licencia del Presidente de la Legislatura -con la cual se dará conocimiento a ésta- renuncian a concurrir durante ese período llamándose desde luego a los suplentes. Si no hubiere quórum para instalar la Legislatura o para que ejerza sus funciones, una vez instalada, se convocará inmediatamente a los suplentes para que se presenten a la mayor brevedad a desempeñar su cargo, entretanto transcurren los ocho días de que antes se habla.
 
 > <small>(REFORMADO, G.O. 13 DE AGOSTO DE 1932)</small>
 
@@ -459,9 +489,11 @@ Se entiende también que los Diputados que falten a diez días consecutivos, sin
 
 El lugar de sesiones de la H. Legislatura, será la ciudad de Jalapa, en donde residirán los Poderes del Estado, los que sólo podrán transladarse a otro lugar, provisionalmente, por decreto de la Legislatura o de la Diputación Permanente.
 
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
+
 ###### Artículo 58.
 
-A la apertura de sesiones de la Legislatura precederán las reuniones de la Junta Preparatoria, que sean necesarias, para calificar las elecciones de los Diputados, para excitar a los ausentes a que concurran y para nombrar Presidente, Vice-presidente y Secretario de la Legislatura. Las reuniones de la Junta comenzarán diez días antes del fijado para la apertura. Las credenciales que no fueren calificadas por la Junta Preparatoria, lo serán por la Legislatura al presentarse los Diputados.
+Las reuniones del Colegio Electoral que sean necesarias para calificar las elecciones de diputados, para excitar, a los ausentes a que concurran y para nombrar Presidente, Vicepresidente y Secretario de la Legislatura, se iniciarán diez días antes del fijado para la apertura de sesiones. Las credenciales que no fueren calificadas por el Colegio Electoral, lo serán por la Legislatura al presentarse los diputados.
 
 ###### Artículo 59.
 
@@ -495,7 +527,9 @@ Las sesiones, tanto en los períodos ordinarios como en los extraordinarios, ser
 
 ###### Artículo 64.
 
-Los Diputados son inviolables por las opiniones manifestadas en el ejercicio de su encargo.
+Los diputados son inviolables por las opiniones manifestadas en el ejercicio de su encargo.
+
+El Presidente de la Legislatura velará por el respeto al fuero constitucional de los miembros de la misma y por la inviolabilidad del recinto donde se reúnan a sesionar.
 
 ###### Artículo 65.
 
@@ -539,7 +573,9 @@ II. Iniciar ante el Congreso General las leyes y decretos que sean de la compete
 
 III. Reclamar, ante la Suprema Corte de Justicia de la Nación, cuando alguna ley o acto del Gobierno Federal constituya un ataque a la soberanía o independencia del Estado o de la Constitución General;
 
-IV. Hacer el escrutinio de los votos emitidos en las elecciones de Gobernador y declarar electo al que haya obtenido mayoría, con arreglo al artículo 40;
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 1978)</small>
+
+IV. Hacer el escrutinio de los votos emitidos en las elecciones de Gobernador y declarar electo al que haya obtenido mayoría;
 
 > <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
 
@@ -709,11 +745,21 @@ DE LOS MUNICIPIOS.
 
 La base de la división territorial y de la organización política del Estado es el Municipio Libre.
 
-> <small>(REFORMADO, G.O. 6 DE NOVIEMBRE DE 1956)</small>
+> <small>(REFORMADO, G.O. 10 DE OCTUBRE DE 1978)</small>
 
 ###### Artículo 111.
 
-Cada Municipio será administrado por un Ayuntamiento de elección popular directa, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+Cada Municipio será administrado por un Ayuntamiento de elección popular directa por mayoría relativa, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+
+Se aplicará el principio de representación proporcional en la elección de Ayuntamientos de los Municipios cuya población sea de trescientos mil o más habitantes, de la capital del Estado y de aquellos cuya importancia política, económica, social y cultural y el número de integrantes de su cuerpo edilicio así lo ameriten, sujetándose a las bases generales siguientes y a lo que disponga la Ley:
+
+I. Al partido que obtenga la mayor cantidad de votos se le asignarán el Presidente y los Síndicos con sus respectivos suplentes.
+
+II. Los cargos edilicios restantes serán asignados a cada partido incluyendo aquél que se menciona en la fracción anterior. Para tal efecto, se aplicará el principio de representación proporcional de acuerdo con las fórmulas electorales y procedimientos que establezca la Ley.
+
+III. La asignación se hará en primer término al partido que haya acumulado la mayor cantidad de votos y en el orden decreciente a los demás, de entre los integrantes de su planilla.
+
+IV. Los Agentes Municipales se acreditarán al partido político que obtuvo el mayor número de votos.
 
 ###### Artículo 112.
 
@@ -1327,9 +1373,9 @@ XIV. Nombrar y remover libremente al Secretario de Gobierno, al Tesorero General
 
 XV. Nombrar y remover libremente al Procurador General de Justicia, al Director de Educación, al Director General de Salubridad y a todos los Funcionarios y empleados dependientes del Poder Ejecutivo;
 
-> <small>(REFORMADA, G.O. 13 DE DICIEMBRE DE 1947)</small>
+> <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 1978)</small>
 
-XVI. Hacer la designación de Magistrados del Tribunal Superior de Justicia, sometiéndola a la aprobación de la Legislatura o de la Diputación Permanente, en su caso;
+XVI. Hacer la designación de Magistrados del Tribunal Superior de Justicia y del Tribunal Fiscal del Estado, sometiendo los nombramientos para su aprobación a la Legislatura o a la Diputación Permanente en su caso;
 
 > <small>(REFORMADA, G.O. 1 DE NOVIEMBRE DE 1938)</small>
 
@@ -1500,3 +1546,17 @@ Envíese al Ejecutivo del Estado para su publicación en la "Gaceta Oficial" ór
 G.O. 22 DE DICIEMBRE DE 1977.
 
 UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en la 'Gaceta Oficial', órgano del Gobierno del Estado.
+
+G.O. 10 DE OCTUBRE DE 1978.
+
+LEY No. 318.
+
+###### ARTICULO UNICO.
+
+Publíquese en la 'Gaceta Oficial', órgano del Gobierno del Estado, surtiendo sus efectos al día siguiente de su publicación.
+
+G.O. 10 DE OCTUBRE DE 1978.
+
+LEY No. 326.
+
+UNICO.- Esta Ley entrará en vigor al día siguiente al de su publicación en la 'Gaceta Oficial' del Estado.
