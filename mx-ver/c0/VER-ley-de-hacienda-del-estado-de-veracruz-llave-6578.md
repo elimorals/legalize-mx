@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-del-estado-de-veracruz-llave-6578"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1985-12-31"
+last_updated: "1986-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE1985.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE SEPTIEMBRE DE 1986.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -477,7 +477,7 @@ a).-Por la inscripción de documentos que contengan actos jurídicos relativos, 
 
 Cuando se trate del derecho real de usufructo a que se refiere el artículo 1013 del Código Civil del Estado, el cálculo de los Derechos se hará sobre el 75% del valor que sirva de base conforme al párrafo anterior.
 
-I.-Por la inscripción de documentos donde consten lotificaciones, subdivisiones, fraccionamientos, servidumbres y protocolización de permisos expedidos por la Secretaría de Relaciones Exteriores................................………………………….........................$ 1,500.00
+I.-Por la inscripción de documentos donde consten lotificaciones, subdivisiones, fraccionamientos, servidumbres y protocolización de permisos expedidos por la Secretaría de Relaciones Exteriores................................…………………………...........................$ 1,500.00
 
 2.-Por la inscripción de la división de copropiedad, del apeo y deslinde, de rectificación de medidas y linderos, capitulaciones matrimoniales, fusión de predios, constitución de régimen de propiedad en condominio y disolución de sociedad conyugal ……………..……" 1,000.00
 
@@ -583,15 +583,17 @@ PODER JUDICIAL DEL ESTADO
 
 Por los servicios prestados por la Dirección General de Tránsito, se causarán y cobrarán los derechos siguientes:
 
-I.-Expedición de licencias de automovilistas considerados de segunda, con duración de dos años, incluyendo examen de capacidad y médico …………………………….$ 3,300.00
+I.-Expedición de licencias de automovilistas considerados de segunda, con duración de dos años, incluyendo examen de capacidad y médico ……………………..........……….$ 3,300.00
 
-II.-Expedición de licencias de primera para choferes o conductores de vehículos, con duración de dos años, incluyendo examen de capacidad y médico ……………" 4,300.00
+II.-Expedición de licencias de primera para choferes o conductores de vehículos, con duración de dos años, incluyendo examen de capacidad y médico ………….........................…" 4,300.00
 
-III.-Expedición de licencias para motociclistas con duración de dos años, incluyendo examen de capacidad y médico ……………………………………………………….." 3,300.00
+III.-Expedición de licencias para motociclistas con duración de dos años, incluyendo examen de capacidad y médico ………………………………………………………................" 3,300.00
 
-IV.-Expedición o revalidación de permisos para ocupar zonas de estacionamiento del servicio urbano incluyendo carros de alquiler, que se fijen por las oficinas correspondientes, de acuerdo con el Reglamento de Tránsito, por vehículo, anualmente......................................" 1,200.00
+IV.-Expedición o revalidación de permisos para ocupar zonas de estacionamiento del servicio urbano incluyendo carros de alquiler, que se fijen por las oficinas correspondientes, de acuerdo con el Reglamento de Tránsito, por vehículo, anualmente
 
-V.-Permisos de estacionamiento para vehículos de servicios particulares que se fijen por la oficina correspondiente, de acuerdo con las disposiciones relativas del Reglamento de Tránsito, por cada año y por cajón ………………………..………………………….$..2,000.00
+" 1,200.00
+
+V.-Permisos de estacionamiento para vehículos de servicios particulares que se fijen por la oficina correspondiente, de acuerdo con las disposiciones relativas del Reglamento de Tránsito, por cada año y por cajón ………………………..………………………..............….$..2,000.00
 
 VI.-a).-Permisos especiales para manejar sin licencias hasta por el término de quince días ……..……………………………………………………………………………………..." 500.00
 
@@ -637,7 +639,7 @@ f).-Duplicado de tarjetas de circulación ………………………………�
 
 DE ENSEÑANZA MEDIA
 
-> <small>(REFORMADO, G.O. 12 DE SEPTIEMBRE DE 1985)</small>
+> <small>(REFORMADO, G.O. 6 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 49.
 
@@ -655,7 +657,7 @@ II.-Por registro de exhortos de trámite ..………………………………�
 
 III.-Por diligenciación de exhortos de trámite .……………………………………….…" 650.00
 
-IV.-Por la expedición de constancias sobre antecedentes penales en el casillero judicial. ..............................................................................................................................." 400.00
+IV.-Por la expedición de constancias sobre antecedentes penales en el casillero judicial. ..............................................................................................................................................." 400.00
 
 ### CAPITULO NOVENO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA
 
@@ -877,41 +879,43 @@ Reinstalación ………………………………………………………�
 
 ###### ARTICULO 51.
 
-Por los servicios prestados por el Tribunal Superior de Justicia, Juzgados de Primera Instancia y Juzgados Municipales, se causarán y pagarán derechos, por la expedición de copias certificadas, por cada hoja o fracción …………………….....................…..$. 50.00
+Por los servicios prestados por el Tribunal Superior de Justicia, Juzgados de Primera Instancia y Juzgados Municipales, se causarán y pagarán derechos, por la expedición de copias certificadas, por cada hoja o fracción ……...............................…………………..$ 50.00
 
 ### CAPITULO UNICO
 
 ###### ARTICULO 52.
 
-Por los servicios prestados por la Dirección General de Enseñanza Media se causarán y pagarán los derechos siguientes:
+Por los servicios prestados por la Dirección General de Enseñanza Media, se causarán y pagarán los Derechos siguientes:
 
-BACHILLERES SECUNDARIA OTRAS
+CONCEPTO Bachilleres Secundaria Otras
 
-I.-Inscripción $ 600.00 $ 540.00 $ 540.00
+I.-Inscripción . $ 900.00 $ 800.00 $ 800.00
 
-II.- Cuota de incorporación 1,000.00 900.00 950.00
+II.-Cuota de incorporación . 1,500.00 1,300.00 1,400.00
 
-III.- Revalidación de estudios por materia 60.00 60.00 60.00
+III.-Revisión, convalidación y equivalencias
 
-IV.- Examen extraordinario de regularización 350.00 350.00 350.00
+de estudios 1,500.00 1,500.00 1,500.00
 
-V.- Examen a título de suficiencia 700.00 700.00 700.00
+IV.-Examen extraordinario de regularización 500.00 500.00 500.00
 
-VI.- Expedición de certificados 550.00 550.00 550.00
+V.-Examen a título de suficiencia 1,000.00 1,000.00 1,000.00
 
-VII.- Copias de documentos 120.00 120.00 120.00
+VI.-Expedición de certificados 800.00 800.00 800.00
 
-VIII.- Diploma 450.00
+VII.-Copias de documentos 190.00 190.00 190.00
 
-IX.- Legalización de copias fotostáticas 120.00 120.00 120.00
+VIII.-Diploma 650.00
 
-X.- Examen final de aptitudes 540.00
+IX.-Legalización de copias fotostáticas 190.00 190.00 190.00
 
-XI.- Certificado o diploma de aptitud 450.00
+X.-Examen final de aptitudes 800.00
 
-XII.- Examen de Admisión 500.00 500.00 500.00
+XI.-Certificado o diploma de aptitud 650.00
 
-XIII.- Cuota de servicios administrativos 540.00 540.00 540.00
+XII.-Examen de Admisión 750.00 750.00 750.00
+
+XIII.-Cuota de servicios administrativos 800.00 800.00 800.00
 
 ###### ARTICULO 53.
 
@@ -1210,3 +1214,9 @@ La presente Ley entrará en vigor el día 1° de enero de 1986, previa su public
 ###### ARTICULO SEGUNDO.
 
 Los impuesto sobre predial, traslación de dominio y fraccionamientos no pagados, se liquidarán y cobrarán por las Autoridades Fiscales del Estado, en los términos establecidos en la Ley de Hacienda del Estado derogada, subsistiendo para este efecto la acción persecutoria prevista en la misma y en las demás leyes fiscales estatales.
+
+G.O. 6 DE SEPTIEMBRE DE 1986.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial', órgano del Gobierno del Estado.
