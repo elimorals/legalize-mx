@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-3594
 country: "mx"
 rank: "ley"
 publication_date: "1970-12-20"
-last_updated: "1986-06-20"
+last_updated: "1994-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL GOBIERNO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1994.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 20 de diciembre de 1970.
 
@@ -159,9 +159,11 @@ Para que los beneficiarios puedan percibir las prestaciones que les correspondan
 
 Los trabajadores que por cualquier causa no perciban íntegramente su sueldo, sólo podrán continuar disfrutando de los beneficios que esta Ley les otorgue, si pagan la totalidad de las cuotas que les correspondan.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
+
 ###### ARTICULO 11.
 
-El Instituto recopilará y clasificará la información sobre el personal a efecto de formular escalas de sueldos, promedios de duración de los servicios que esta Ley regula, tablas de mortalidad y, en general, las estadísticas y cálculos necesarios para encauzar las prestaciones establecidas en el Artículo 4o. y, en su caso, proponer al Ejecutivo las modificaciones que fueren procedentes.
+El Instituto recopilará y clasificará la información estadística a fin de establecer promedios de duración de los servicios que esta Ley regula: cuantías de las cuotas y aportaciones, tablas de mortalidad y en general los cálculos necesarios para encauzar las prestaciones establecidas en el Artículo 4o. de este Ordenamiento.
 
 ###### ARTICULO 12.
 
@@ -193,15 +195,25 @@ El sueldo básico integrado por las prestaciones a que se refiere el párrafo an
 
 El sueldo básico de los trabajadores de los organismos públicos incorporados se determinará con sujeción a los mismos lineamientos que fija el presente Artículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 1994)</small>
+
 ###### ARTICULO 16.
 
-Todo trabajador comprendido en el Artículo 1o. de este Ordenamiento deberá aportar al Instituto una cuota obligatoria del 8% del sueldo básico que disfrute, definido en el primer párrafo del artículo anterior.
+Todo trabajador comprendido en el Artículo 1o. de este Ordenamiento, deberá aportar al Instituto una cuota obligatoria del 11% de sueldo o sueldos básicos integrados que disfrute, definido en el primer párrafo del artículo anterior.
 
-Dicho cuota se aplicará en la forma siguiente:
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
+
+Dicho porcentaje se aplicará en la forma siguiente:
 
 I.- 2% para cubrir el seguro de enfermedades no profesionales y de maternidad;
 
-II.- 6% como aportación para tener derecho a las prestaciones señaladas en las Fracciones III a XI y XIII a XIV del Artículo 4o.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1994)</small>
+
+II.- 9% para tener derecho a las prestaciones señaladas en las Fracciones III a XI y XIII a XIV del Artículo 4o.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 1994)</small>
+
+Los pensionistas cubrirán al Instituto, previo descuento que se realice, el 1% de la pensión que disfrute destinada a constituir la reserva técnica prevista en el Artículo 129 para el régimen de pensiones y jubilaciones.
 
 > <small>(F. DE E., P.O. 20 DE DICIEMBRE DE 1970)</small>
 
@@ -223,9 +235,11 @@ III.- A expedir los certificados y proporcionar informes que les soliciten tanto
 
 Los pagadores y encargados de cubrir sueldos serán responsables en los términos de esta Ley y de sus Reglamentos, de los actos y omisiones que realicen con perjuicio del Instituto o de los Trabajadores independientemente de la responsabilidad civil, penal o administrativa que proceda.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 1994)</small>
+
 ###### ARTICULO 19.
 
-La separación por licencia sin goce de sueldo o por suspensión de los efectos del nombramiento a que se refiere el Artículo 29 Fracción II y el párrafo final del Artículo 30 de la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California, se computará como tiempo de servicio en los siguientes casos:
+La separación por licencia sin goce de salario, por suspensión o por terminación de los efectos del nombramiento a que se refieren los Artículos 51 Fracción X y 56 de la Ley del Servicio Civil de los trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas de Baja California, se computará como tiempo de servicio en los siguientes casos:
 
 I.- Cuando las licencias sean concedidas por un período que no exceda de seis meses;
 
@@ -233,17 +247,31 @@ II.- Cuando las licencias se concedan para el desempeño de cargos públicos o c
 
 III.- Cuando el trabajador sufra prisión preventiva seguida de sentencia absolutoria, mientras dure la privación de libertad;
 
-IV.- Cuando el trabajador fuere suspendido en los términos del párrafo final del Artículo 30 de la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California, por todo el tiempo que dure la suspensión y siempre que por resolución firme sea reinstalado en su empleo.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1994)</small>
 
-Para disfrutar del cómputo mencionado en los cuatro casos anteriores, el trabajador deberá pagar la totalidad de las cuotas a que se refiere el Artículo 16. Si el trabajador falleciere antes de reanudar sus labores y sus familiares derechohabientes tuvieren derechos a pensión, éstos deberán cubrir el importe de esas cuotas si desean se compute el período de servicios correspondientes. Estas liquidaciones causarán un interés de 6% anual.
+IV.- Cuando el trabajador fuere cesado injustificadamente en los términos del Artículo 56 de la Ley de Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas de Baja California, por todo el tiempo que dure el juicio y siempre que por resolución firme sea reinstalado en su empleo.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
+
+Para el reconocimiento del cómputo mencionado en los tres primeros casos anteriores, el trabajador deberá pagar la totalidad de cuotas y aportaciones a que se refieren los Artículos 16 y 21 de este Ordenamiento, salvo el supuesto de las comisiones sindicales que impliquen la concesión de una licencia con goce de sueldo, en los términos del Artículo 51, Fracción X de la Ley del Servicio Civil vigente en la entidad, así como la prevista en la Fracción IV de este Artículo, en la que únicamente cubrirá la cuota; las aportaciones serán a cargo de las Autoridades públicas y Organismos Incorporados correspondientes.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 1994)</small>
+
+Si el trabajador falleciere antes de reanudar las labores y sus familiares derechohabientes tuvieren derecho a pensión, éstos deberán cubrir el importe de esas cuotas y aportaciones, salvo el caso de la Fracción IV, si desearen se compute a su favor el período de servicios aludido.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 1994)</small>
+
+Las liquidaciones previstas en los supuestos de este Artículo causarán un interés anual que determinará la Junta Directiva.
 
 ###### ARTICULO 20.
 
 Cuando no se hubieren hecho a los trabajadores los descuentos procedentes conforme a esta Ley, el Instituto mandará descontar hasta un treinta por ciento del sueldo mientras el adeudo no esté cubierto, a menos que el trabajador solicite y obtenga mayores facilidades para el pago.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 1994)</small>
+
 ###### ARTICULO 21.
 
-El Estado y organismos públicos incorporados cubrirán al Instituto como aportaciones, 12.75% (doce punto setenta y cinco por ciento) sobre los equivalentes al sueldo básico de los trabajadores definidos por el Artículo 15.
+Las Autoridades públicas y Organismos Incorporados cubrirán al Instituto como aportaciones, el 16.75% sobre los equivalentes al sueldo o sueldos básicos integrados de los trabajadores, definidos por el Artículo 15 de esta Ley.
 
 Dicho porcentaje se aplicará en la forma siguiente:
 
@@ -253,13 +281,17 @@ I.- 6% para cubrir el seguros de enfermedades no profesionales y de maternidad;
 
 II.- 0.75% para cubrir íntegramente el seguro de accidentes del trabajo y enfermedades profesionales;
 
-III.- 6% para cubrir las prestaciones señaladas en las Fracciones III a XI y XIII a XIV del Artículo 4o.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1994)</small>
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 1986)</small>
+III.- 10% para cubrir las prestaciones señaladas en las Fracciones II a XI y XIII a XIV del Artículo 4o. de esta Ley.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 22.
 
-El Estado y Organismos Públicos Incorporados, harán entregas quincenales al Instituto por conducto de sus respectivas Tesorerías y Departamentos correspondientes, del monto de las cantidades que correspondan por concepto de las cuotas y aportaciones a que se refieren los Artículos 16 y 21. Cuando no se enteren las cuotas y aportaciones dentro del plazo señalado, por el Estado y Organismos Públicos Incorporados, éstos cubrirán al Instituto recargos moratorios que acuerde la Junta Directiva. También entregarán quincenalmente el importe de los descuentos que el Instituto ordene que se hagan a los trabajadores por otros adeudos de la aplicación de esta Ley.
+Las Autoridades Públicas y Organismos Incorporados efectuarán el pago de las cuotas y aportaciones a que se refieren los artículos 16 y 21 de esta Ley, a más tardar diez días naturales posteriores a la fecha de pago de los salarios, por conducto de sus respectivas tesorerías o departamentos correspondientes. Cuando no se enteren las cuotas y aportaciones dentro del plazo fijado, se aplicarán recargos conforme a la tasa que prevea la Ley de Ingresos del Estado en el ejercicio fiscal vigente a la fecha del pago; en caso de liquidaciones parciales, los pagos se aplicarán a los créditos más antiguos y antes de éstos a los recargos moratorios. También enterarán dentro del plazo antes señalado, el importe de los descuentos que el Instituto orden (sic) se hagan a los trabajadores por otros adeudos con motivo de la aplicación de esta Ley.
+
+En ningún caso se condonarán totalmente los recargos; sólo la Junta Directiva podrá acordar la condonación parcial.
 
 ### CAPITULO TERCERO
 
@@ -289,7 +321,9 @@ Al principiar la enfermedad y al concederse la licencia respectiva, tanto el tra
 
 También tendrán derecho a los servicios que señale la Fracción I del Artículo 23, en caso de enfermedad, los familiares del trabajador y del pensionista que enseguida se señalan:
 
-I.- La esposa, siempre que no trabaje;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1994)</small>
+
+I.- La Esposa;
 
 II.- El esposo si está incapacitado para trabajar;
 
@@ -303,15 +337,19 @@ VI.- El padre, si está incapacitado para trabajar;
 
 VII.- Las hermanas y hermanos menores de dieciocho años que no estén casados y que no trabajen;
 
-VIII.- A los hijos mayores de 18 años que estén sujetos a estado de interdicción previa declaración de incapacidad de ejercicio por un médico del Instituto.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1994)</small>
 
-Los familiares que se mencionan en este Artículo tendrán los derechos antes establecidos si reúnen los siguientes requisitos:
+VIII.- A los hijos mayores de 18 años que estén sujetos a estado de interdicción previa declaración de incapacidad de ejercicio por un Médico del Instituto. Los familiares que se mencionan en este Artículo tendrán los derechos antes establecidos si reúnen los siguientes requisitos:
 
-a).- Que dependan económicamente del trabajador o del pensionista.
+a).- Que dependan económicamente del trabajador o del pensionado, salvo el caso de la esposa del trabajador o pensionista.
 
 b).- Que el trabajador o pensionista tengan derecho a las prestaciones señaladas en la Fracción I del Artículo 23.
 
-c).- Que dichos familiares no tengan derechos propios a las prestaciones otorgadas por esta Ley o por cualquier otra. El Instituto, señalará la forma en que deberán de acreditarse los diversos supuestos contenidos en el presente Artículo.
+c).- Que dichos familiares no tengan derechos propios a las prestaciones otorgadas por esta Ley o por cualquier otra, salvo el caso de la esposa del trabajador o pensionista.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 1994)</small>
+
+El Instituto señalará la forma en que deberán de acreditarse los diversos supuestos contenidos en el presente artículo.
 
 ###### ARTICULO 25.
 
@@ -363,13 +401,11 @@ Para que la trabajadora, la esposa o concubina derechohabiente tengan derecho a 
 
 Conservación de Derechos.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1976)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 29.
 
-El trabajador dado de baja por cese o renuncia, pero que haya prestado servicios ininterrumpidos inmediatamente antes de la separación durante un mínimo de seis meses, conservará durante los dos meses siguientes a la misma, el derecho de recibir las prestaciones establecidas en este capítulo.
-
-Del mismo derecho disfrutarán, en lo que proceda, sus familiares derechohabientes, pero tratándose de un trabajador fallecido, el término se prorroga hasta seis meses.
+El trabajador dado de baja por cese o renuncia, pero que haya prestado servicios ininterrumpidos inmediatamente antes de la separación durante un mínimo de seis meses, conservará durante los dos meses siguientes a la misma, el derecho de recibir las prestaciones establecidas en este capítulo. Del mismo derecho disfrutarán, en lo que proceda, sus familiares derechohabientes, pero tratándose de un trabajador fallecido, el término se prorroga hasta doce meses.
 
 ### CAPITULO CUARTO
 
@@ -625,13 +661,33 @@ Cuando un trabajador a quien se haya otorgado una pensión, siga en servicio sin
 
 En ningún caso un pensionista podrá regresar a servicio activo, salvo el de inhabilitados que quedaran aptos para el servicio, los que fueren electos para cargos de elección popular, o los designados para puestos de confianza del Ejecutivo, u organismos públicos incorporados.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
+
 ###### ARTICULO 61.
 
-Es incompatible la percepción de una pensión otorgada por el Instituto con la percepción de cualquier otra pensión concedida por el propio Instituto y organismos públicos a que se refieren los Artículos 1o. y 3o. de esta Ley y que estén incorporados al régimen de la misma. Es igualmente incompatible la percepción de una pensión con el desempeño de cualquier cargo, empleo o comisión remunerados por el Estado y organismos públicos siempre que tales cargos y empleos impliquen la incorporación al régimen de esta Ley. Los interesados podrán gozar nuevamente de la pensión cuando desaparezca la incompatibilidad.
+Las pensiones a que se refiere este Capítulo son compatibles con el disfrute de otras pensiones, o con el desempeño de trabajos remunerados, de acuerdo a lo siguiente:
 
-El infractor a la disposición antes expresada, estará obligado a reintegrar las cantidades percibidas indebidamente en el plazo que le será fijado por el Instituto; pero que nunca será menor al tiempo en que las hubiere recibido, desaparecida la incompatibilidad y reintegradas las cantidades indebidamente recibidas, el pensionista puede volver a disfrutar de la pensión otorgada. Si no hiciese el reintegro en los términos de este artículo, perderá todo derecho a la pensión
+I.- La percepción de una pensión por jubilación, de retiro por edad y tiempo de servicios, o invalidez, con:
 
-Los pensionistas quedan obligados a dar aviso inmediato al Instituto cuando acepten cualquiera de los empleos, cargos o comisiones a que se ha hecho referencia; igualmente, quedan obligados a dar aviso en caso de otorgamiento de alguna otra pensión. En todo caso, el Instituto ordenará la suspensión de la pensión otorgada.
+A).- El disfrute de una pensión de viudez o concubinato derivada de los derechos del trabajador o del pensionista y,
+
+B).- El disfrute de una pensión por riesgo de trabajo.
+
+II.- La percepción de una pensión de viudez, o concubinato con:
+
+A).- El disfrute de una pensión por jubilación, de retiro por edad y tiempo de servicios o por invalidez, derivada de los derechos propios como trabajador;
+
+B).- El disfrute de una pensión por riesgo de trabajo, ya sea por derecho propio o derivado como cónyuge o concubinario del trabajador o pensionista y,
+
+C).- El desempeño de un trabajo remunerado.
+
+III.- La percepción de una pensión por orfandad, con el disfrute de otra pensión igual proveniente de los derechos derivados del otro progenitor.
+
+Fuera de los supuestos legales enunciados no se puede ser beneficiario de más de una pensión.
+
+Si el Instituto advierte la incompatibilidad de la pensión o pensiones que esté percibiendo un trabajador o pensionista, estas serán suspendidas de inmediato, pero se puede gozar nuevamente de las mismas cuando desaparezca la incompatibilidad y se reintegren las sumas recibidas, lo que deberá hacerse en el plazo y con los intereses que le fije el Instituto, el cual no deberá exceder al tiempo que indebidamente estuvo percibiendo dicha prestación.
+
+Si no se hiciese el reintegro en la forma señalada se perderá el derecho a la pensión.
 
 ###### ARTICULO 62.
 
@@ -644,6 +700,12 @@ El Instituto podrá ordenar en cualquier tiempo, la verificación de la autentic
 ###### ARTICULO 64.
 
 Para que un trabajador pueda disfrutar de pensión, deberá cubrir previamente al Instituto los adeudos que tuviese con el mismo, por concepto de cuotas, así como las que hubiere retirado o las que hubieren aplicado a cubrir el importe de préstamos insolutos, en los términos del Artículo 57. En caso de fallecimiento del trabajador, sus derechohabientes tendrán igual obligación. Los adeudos que al tramitarse una pensión a los derechohabientes tuviesen el trabajador o pensionista, serán cubiertos por los derechohabientes en los plazos que convengan con el Instituto, con la aprobación de la Junta Directiva.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 1994)</small>
+
+###### ARTICULO 64
+
+BIS.- Cuando las Autoridades Públicas y Organismos incorporados reconozcan antigüedades de servicios a un trabajador, que implique el reconocimiento de derechos en el régimen de pensiones y jubilaciones del Instituto, para que ésto proceda deberán cubrir el capital constitutivo calculado actuarialmente por el Instituto para solventar dicha prestación.
 
 ###### ARTICULO 65.
 
@@ -807,19 +869,23 @@ La muerte del trabajador por causas ajenas al servicio, cualquiera que sea su ed
 
 El orden para gozar de las pensiones a que se refiere este capítulo será el siguiente:
 
-> <small>(F. DE E., P.O. 20 DE DICIEMBRE DE 1970)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1994)</small>
 
-I.- La esposa supérstite e hijos menores de dieciocho años, ya sean habidos dentro o fuera del matrimonio;
+I.- La esposa supérstite e hijos menores de dieciocho años, ya sean habidos dentro o fuera del matrimonio, así como los hijos mayores de dieciocho años inválidos y estudiantes, en los términos del Artículo 84;
 
-II.- A falta de esposa legítima, la mujer con quien viviere el trabajador o pensionado al ocurrir el fallecimiento y tuviere hijos o aquella con la que haya vivido maritalmente durante los cinco años que precedieron a su muerte, siempre que ambos hayan estado libres de matrimonio. Si al morir el trabajador tuviere varias concubinas, ninguna tendrá derecho a pensión;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1994)</small>
+
+II.- A falta de esposa legítima, la mujer con quien viviere el trabajador o pensionado al ocurrir el fallecimiento y tuviere hijos, o aquella con la que haya vivido maritalmente durante los cinco años que precedieron a su muerte, siempre que ambos hayan estado libres de matrimonio. Si al morir el trabajador tuviere concubinas, ninguna tendrá derecho a pensión;
 
 III.- El esposo supérstite, siempre que a la muerte de la esposa trabajadora o pensionada fuese mayor de cincuenta y cinco años, o esté incapacitado para trabajar siendo condición en ambos casos que hubiere dependido económicamente de ella;
 
-> <small>(F. DE E., P.O. 20 DE DICIEMBRE DE 1970)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1994)</small>
 
-IV.- A falta de las personas a las que se refieren las tres fracciones anteriores, la pensión por muerte se entregará a los ascendientes en caso de que hubiesen dependido económicamente del trabajador o pensionado, durante los cinco años anteriores a su muerte.
+IV.- A falta de las personas a las que se refieren las tres fracciones anteriores, la pensión por muerte se entregará a los ascendientes en caso de que hubiese dependido económicamente del trabajador o pensionado, durante los cinco años anteriores a su muerte.
 
-La cantidad total a que tengan derecho los deudos señalados en cada una de las fracciones anteriores, se dividirá por partes iguales entre ellos. Cuando fuesen varios los beneficiarios de una pensión y alguno de ellos perdiera el derecho, la parte que le corresponda será repartida proporcionalmente entre los restantes.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
+
+La cantidad total a que tengan derecho los deudos en cada una de las fracciones anteriores, se dividirá en partes iguales entre ellos. Cuando fuesen varios los beneficiarios de una pensión y alguno perdiera el derecho, la parte que le correspondía será repartida proporcionalmente entre los restantes.
 
 ###### ARTICULO 83.
 
@@ -837,9 +903,11 @@ a).- El 100% del monto original durante el primer año.
 
 b).- Del segundo en adelante se irá rebajando anualmente un diez por ciento hasta llegar a la mitad de la pensión original.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
+
 ###### ARTICULO 84.
 
-Si el hijo pensionado llegase a los dieciocho años y no pudiere mantenerse por su propio trabajo debido a una enfermedad duradera, defectos físicos o enfermedad psíquica, el pago de la pensión se prorrogará por el tiempo que subsista su inhabilitación. En tal caso el hijo pensionado estará obligado a someterse a los reconocimientos y tratamientos que el Instituto le prescriba y proporcione y a las investigaciones que en cualquier tiempo éste ordene para los efectos de determinar su estado de invalidez, haciéndose acreedor, en caso contrario a la suspensión de la pensión.
+Si el hijo pensionado llegase a los dieciocho años y no pudiere mantenerse por su propio trabajo debido a una enfermedad duradera, defectos físicos o enfermedad psíquica, el pago de la pensión se prorrogará por el tiempo que subsista su inhabilitación. En tal caso el hijo pensionado estará obligado a someterse a los reconocimientos y tratamientos que el Instituto le prescriba y de proporcionar la información que el Instituto le requiera en sus investigaciones, para efecto de determinar su estado de invalidez, haciéndose acreedor, en caso de negativa, a la suspensión de la pensión. En caso de los hijos pensionados mayores de dieciocho años que estén estudiando esta se prorrogará hasta los veinticinco años, siempre que se compruebe que continúan en sus estudios, por ser el término razonable y necesario para concluirlos.
 
 ###### ARTICULO 85.
 
@@ -861,9 +929,15 @@ Cuando fallezca un pensionista, se estará a lo dispuesto por el Artículo 99 de
 
 De la Indemnización Global.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 1994)</small>
+
 ###### ARTICULO 88.
 
-Al trabajador que sin tener derecho a pensión por vejez o invalidez, se separe definitivamente del servicio, se le otorgará en sus respectivos casos, una indemnización global equivalente a:
+Al trabajador que sin tener derecho a pensión de retiro por edad y tiempo de servicios o invalidez, se separe definitivamente del servicio, se le otorgará en sus respectivos casos, una indemnización global equivalente al monto total de las cuotas que hubiere contribuido de acuerdo con la Fracción II del Artículo 16 de esta Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JUNIO DE 1994)</small>
+
+Si el trabajador falleciere sin tener derecho a las pensiones mencionadas, el Instituto entregará a sus familiares derechohabientes el importe de la indemnización global, equivalente a:
 
 I.- El monto total de las cuotas con que hubiese contribuido de acuerdo con la Fracción II del Artículo 16, a partir de la fecha de entrada en vigor de esta Ley, si tuviese de uno a cuatro años de servicios;
 
@@ -945,11 +1019,11 @@ CAPITULO DECIMOPRIMERO
 
 Del Pago de los Funerales.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1984)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 99.
 
-Cuando fallezca un trabajador que tuviere 6 meses de servicios como mínimo, un jubilado o un pensionado de retiro por edad y tiempo de servicios o invalidez, sus deudos tendrán derecho a recibir por parte del Instituto, la percepción denominada Pago de Funerales, la que consistirá para el primer caso señalado en el importe de tres meses de sueldo básico percibido por el trabajador en el momento del deceso y para los restantes, en ciento veinte días de la jubilación o pensión disfrutada por el extinto, incluyendo además para gastos de funeral y de la fosa a perpetuidad hasta la cantidad de $30,000.00 (TREINTA MIL PESOS 00/100 MONEDA NACIONAL), sin más trámite que la presentación del Certificado de Defunción y la constancia.
+Cuando fallezca un trabajador que tuviese seis meses de servicios como mínimo, un jubilado o un pensionado de retiro por edad y tiempo de servicios o invalidez, sus deudos tendrán derecho a recibir por parte del Instituto, la percepción denominado pago de funerales, la que consistirá para el primer caso, en el importe de tres meses de salario básico percibido por el trabajador en el momento del deceso y para los restantes, en ciento veinte días de la jubilación o pensión disfrutada por el finado, incluyéndose además para gastos de funeral y de la fosa a perpetuidad, hasta la cantidad de 60 días de salario mínimo regional vigente a la fecha del fallecimiento, sin más trámite que la presentación del certificado de defunción y la constancia correspondiente.
 
 ###### ARTICULO 100.
 
@@ -1203,37 +1277,39 @@ Si llegase a ocurrir en cualquier tiempo que los recursos del Instituto no basta
 
 Inversiones.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
+
 ###### ARTICULO 129.
 
-La inversión de las reservas del Instituto deberá hacerse en las mejores condiciones de seguridad, rendimiento y liquidez, prefiriéndose en igualdad de circunstancias las que, además garanticen mayor utilidad social.
+Las reservas técnicas para prestaciones económicas del Instituto, se constituirán con las cantidades que resulten de las diferencias entre los ingresos por cuotas y aportaciones para el Fondo de Pensiones y Jubilaciones, otros ingresos, aportaciones adicionales que se convengan entre las partes para dicho fin, y los egresos para el pago de pensiones y jubilaciones, indemnizaciones globales, pagos póstumos, pagos de gastos de funeral, gastos administrativos y prestaciones sociales.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 130.
 
-Las reservas se invertirán:
+La administración de las reservas técnicas constituidas en los términos del Artículo anterior, estará a cargo de dos fideicomisos que se constituirán por separado de acuerdo con las organizaciones sindicales de los trabajadores tutelados por esta Ley, mismos que se sujetarán a los siguientes principios:
 
-I.- Hasta un 10% en bonos o títulos emitidos por el Gobierno Federal y del Estado, Instituciones Nacionales de Crédito encargadas del manejo de servicios públicos, siempre que se sujeten a lo dispuesto en el artículo siguiente;
+I.- La inversión de las reservas deberá hacerse en las mejores condiciones de seguridad y rendimiento; su disponibilidad deberá estar acorde con la liquidez requerida por el Instituto para hacer frente al pago de prestaciones económicas.
 
-II.- Hasta un 40% en la adquisición, construcción o financiamiento de hospitales, sanatorios, maternidades, dispensarios, almacenes, farmacias, laboratorios, casa de reposo, habitaciones para trabajadores y demás muebles e inmuebles propios para los fines del Instituto;
+II.- Al ocurrir similitud de circunstancias sobre seguridad, rendimiento y liquidez en diferentes tipos de inversión, se presentará lo que garantice mayor utilidad social.
 
-III.- Hasta un 25% en préstamos hipotecarios que se regirán por las disposiciones de los capítulos respectivos de esta Ley;
+III.- Los rendimientos generales por las reservas a que se refiere el Artículo anterior, serán reinvertidos para incrementarlas.
 
-IV.- Hasta un 25% en préstamos a corto plazo, sujetos a las condiciones señaladas en esta Ley;
+IV.- Las reservas solamente podrán ser utilizadas cuando los ingresos del Instituto, por concepto de prestaciones económicas, sean inferiores a los egresos que se mencionan en el Artículo anterior y solamente podrá utilizarse el monto de dicha referencia.
 
-V.- Todas las cantidades restantes disponibles para la inversión que resulten por no haberse completado los máximos señalados en las fracciones anteriores, se destinarán preferentemente a préstamos hipotecarios y a corto plazo a valores consignados en la Fracción I, a acciones, bonos o títulos de las Instituciones Nacionales de Crédito o acciones de sociedades mexicanas en los términos del Artículo 131 de esta Ley.
+V.- Las reservas creadas por el Instituto para hacer frente a las obligaciones futuras por concepto de prestaciones económicas, podrán destinarse al otorgamiento de créditos en los términos de esta Ley. El monto global que podrá destinarse a créditos, deberá ser determinado actuarialmente, de tal manera que no se ponga en riesgo el pago de futuras pensiones; y,
+
+VI.- Los servidores públicos no adquieren derechos alguno, ni individual ni colectivo, sobre las reservas del Instituto, sino solo a disfrutar de los beneficios que esta Ley concede.
 
 ###### ARTICULO 131.
 
 Los bonos o títulos a que se refiere la Fracción I del artículo anterior, deberán estar garantizados con la afectación en fideicomiso de alguna contribución suficiente para el servicio de sus intereses y amortización, por participaciones en impuestos federales. En los emitidos por el Gobierno Federal o por Instituciones Nacionales de Crédito, bastará con que se hallen al corriente en sus servicios.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
+
 ###### ARTICULO 132.
 
-Todo acto, contrato o documento que implique obligación, o derecho inmediato o eventual para el Instituto, deberá ser registrado en su contabilidad.
-
-La contabilidad del Instituto mostrará la situación de los servicios a que se refiere el Artículo 4o. en la forma siguiente:
-
-I.- Los de las Fracciones I y II;
-
-II.- Los de las Fracciones III a la XIV, por separado.
+Los ingresos y egresos de los seguros, prestaciones y servicios a que se refiere esta Ley, se registrarán contablemente por separado para los trabajadores de la educación con excepción de los egresos correspondientes a los seguros de enfermedades no profesionales y de maternidad y de servicios de guardería. Todo acto, contrato o documento que implique obligación o derecho inmediato o eventual para el Instituto, deberá ser registrado en su contabilidad.
 
 ###### ARTICULO 133.
 
@@ -1243,17 +1319,23 @@ CAPITULO DECIMOQUINTO
 
 De las Responsabilidades y Sanciones.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
+
 ###### ARTICULO 134.
 
-Los funcionarios y trabajadores del Estado y organismos públicos incorporados que dejen de cumplir con alguna de las obligaciones que les impone esta Ley, serán sancionados con multa de cincuenta a cinco mil pesos, según la gravedad del caso.
+Los servidores públicos que incumplan con las obligaciones que les impone esta Ley, y afecten los derechos de los asegurados y sus derechohabientes, el patrimonio del Instituto o la prestación de los servicios, serán sancionados con multa de 100 a 1000 salarios mínimos diarios vigentes a la fecha en que ésto ocurra, independientemente de la responsabilidad civil, penal o administrativa en que incurran.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 135.
 
-Los Pagadores y Encargados de cubrir sueldos que no efectúen los descuentos que procedan en los términos de esta Ley, serán sancionados con una multa equivalente al cinco por ciento de las cantidades no descontadas, independientemente de la responsabilidad civil o penal en que incurran, sin perjuicio de regularizar la situación en los términos del Artículo 20.
+Los servidores públicos encargados de cubrir salarios y no efectúen los descuentos que procedan en los términos de esta Ley, serán sancionados con una multa equivalente al 20% de las cantidades no descontadas, independientemente de la responsabilidad civil, penal o administrativa en que incurran, sin perjuicio de regularizar la situación en los términos del Artículo 20.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
 
 ###### ARTICULO 136.
 
-Las sanciones pecuniarias previstas en los artículos anteriores a que se hicieren acreedores los trabajadores o funcionarios al servicio del Instituto, serán impuestas por el Director General, después de oír al interesado y son revisables por la Junta Directiva si se hace valer la inconformidad por escrito dentro del plazo de quince días. Las mismas sanciones, cuando se trate de los funcionarios o trabajadores que no presten servicios al Instituto, se impondrán por la Tesorería General del Estado o la Dependencia correspondiente en los organismos públicos incorporados al régimen de esta Ley, con vista de dicha Dependencia, al Director General del Instituto y previa audiencia del afectado.
+Las sanciones pecunarias (sic) previstas en los artículos anteriores, se impondrán con sujeción al procedimiento referido en el Título Tercero de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
 
 ###### ARTICULO 137.
 
@@ -1287,7 +1369,9 @@ En tales casos, las empresas o instituciones que hubiesen suscrito esos contrato
 
 Las cuantías de las jubilaciones y pensiones aumentarán al mismo tiempo y en la misma proporción en que aumenten los sueldos de los trabajadores en activo.
 
-Los jubilados y pensionados tendrán derecho a una gratificación anual equivalente a cuarenta veces la cuota diaria de su pensión. Esta gratificación deberá pagarse en un cincuenta por ciento antes del día quince de diciembre y el otro cincuenta por ciento a más tardar el quince de enero, de conformidad con las disposiciones que dicte la Junta Directiva.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
+
+Los jubilados y pensionados tendrán derecho a una gratificación anual y equivalente a cuarenta veces la cuota diaria de su pensión. Esta gratificación deberá pagarse en un setenta y cinco por ciento antes del día quince de Diciembre y el otro veinticinco por ciento a más tardar el día quince de Enero, de conformidad con las disposiciones que dicte la Junta Directiva.
 
 ###### ARTICULO 143.
 
@@ -1430,3 +1514,7 @@ P.O. 20 DE JUNIO DE 1986.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor, el día siguiente al de su publicación, en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 15 DE JUNIO DE 1994.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
