@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "1977-11-17"
+last_updated: "1979-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 1979.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -6827,9 +6827,11 @@ ART. 2199.- Si alguno de los contratantes supiere escribir, firmará a su nombre
 
 ART. 2200.- De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1976)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 18 DE NOVIEMBRE DE 1979)</small>
 
-ART. 2201.- Si el valor de este inmueble excede de $6,000.00 (SEIS MIL PESOS), su venta será en escritura pública.
+ART. 2201.- Si el valor de este inmueble excede de $6,000.00 (SEIS MIL PESOS), su venta será en escritura pública, excepto en operaciones de compra-venta que celebren organismos públicos Federales o Estatales encargados de regularizar la tenencia de la tierra o de dotar de terrenos para viviendas en programas federales, estatales o municipales, cuando se trate de lotes que no excedan de 200 metros cuadrados de superficie.
+
+En estos casos no será necesario que las operaciones se eleven a Escritura Pública, y cualquiera que sea su monto requerirán para su validez únicamente las firmas de las partes y las de los testigos.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1976)</small>
 
@@ -9274,3 +9276,7 @@ P.O. 17 DE NOVIEMBRE DE 1977.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE NOVIEMBRE DE 1979.
+
+UNICO.- El presente Decreto entrará en vigor en todo el Estado el día siguiente de su publicación en el Periódico Oficial del Estado.
