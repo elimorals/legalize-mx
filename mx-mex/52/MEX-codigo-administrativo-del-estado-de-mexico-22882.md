@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2002-12-11"
+last_updated: "2003-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE AGOSTO DE 2003.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -41,7 +41,7 @@ CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
 # LIBRO PRIMERO. Parte general
 
-## TITULO PRIMERO. Del objeto
+## TÍTULO PRIMERO. Del objeto
 
 ###### Artículo 1.
 
@@ -413,7 +413,7 @@ Si el producto o servicio se encuentra en el comercio, los comerciantes o presta
 
 Los productores, fabricantes, importadores y sus distribuidores serán responsables de recuperar de inmediato los productos.
 
-Quienes resulten responsables del incumplimiento de la norma tendrán la obligación de reponer los productos o servicios cuya venta o prestación se prohiba, por otros que cumplan las especificaciones correspondientes o, en su caso, reintegrar o bonificar su valor, así como cubrir los gastos para el tratamiento, reciclaje o disposición final.
+Quienes resulten responsables del incumplimiento de la norma tendrán la obligación de reponer los productos o servicios cuya venta o prestación se prohíba, por otros que cumplan las especificaciones correspondientes o, en su caso, reintegrar o bonificar su valor, así como cubrir los gastos para el tratamiento, reciclaje o disposición final.
 
 ## TITULO SEPTIMO. De los terceros autorizados
 
@@ -695,7 +695,7 @@ XVII. Prestar consultoría a título oneroso a personas de derecho privado;
 
 XVIII. Coadyuvar con la Secretaría de Salud en la actualización de las estadísticas sobre la situación sanitaria de la entidad, respecto a la materia de su especialización;
 
-XIX. Realizar las demás actividades que les correspondan para el cumplimiento de su objeto conforme al presente ordenamiento y otras disposiciones aplicables.
+XIX.- Realizar las demás actividades que les correspondan para el cumplimiento de su objeto conforme al presente ordenamiento y otras disposiciones aplicables.
 
 ## TITULO PRIMERO. Disposiciones generales
 
@@ -2136,6 +2136,10 @@ l) Al impulso económico "Filiberto Gómez";
 m) Al mérito en la preservación del ambiente "José Mariano Mociño Suárez Lozada";
 
 n) "José María Luis Mora", que se entregará a quienes, sin ser mexiquenses, reúnan los requisitos previstos en el reglamento.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2003)</small>
+
+ñ) A residentes en el extranjero "José María Heredia y Heredia".
 
 II. Los especiales "León Guzmán" que, a propuesta de personas físicas o morales, o a juicio del Gobernador del Estado, se podrán conceder, en cualquier tiempo, a las personas con un mérito civil relevante. Estos reconocimientos podrán otorgarse post-mortem;
 
@@ -6848,3 +6852,9 @@ SEGUNDO.- Este decreto entrará en vigor al día siguiente a su publicación en 
 TERCERO.- El Ejecutivo del Estado expedirá el reglamento de los servicios gubernamentales por vía electrónica, dentro del plazo de 90 días siguientes a la publicación de este decreto.
 
 CUARTO.- Se derogan las disposiciones legales de igual o menor rango que se opongan al presente decreto.
+
+P.O. 7 DE AGOSTO DE 2003.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
