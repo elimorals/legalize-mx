@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-gobierno-del-7000
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-28"
-last_updated: "1987-01-10"
+last_updated: "1998-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 1998.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, 28 de Diciembre de 1963.
 
@@ -63,7 +63,9 @@ II.- Empleados de confianza.
 
 Son empleados de confianza:
 
-Secretarios Particulares de los Funcionarios; Representantes y Delegados del Gobierno del Estado; Directores, Sub-Directores y Administradores; Abogados Consultores; Jefes y Sub-Jefes de Departamentos y Oficinas; Profesionistas del Servicio Médico; Ingenieros, Arquitectos y Consultores Técnicos; Sub-Tesorero, Inspectores, Cajeros, Recaudadores, Sub-Recaudadores y Agentes Fiscales, Promotores, Almacenistas y quienes manejen fondos y prendas, Contadores de la Tesorería y Contador Mayor de Glosa; Depositarios y Peritos Valuadores; todo el personal de la Policía cualquiera que sea su denominación, Comisarios, integrantes de la Banda de Guerra; Agentes de Tránsito; personal de vigilancia de todo género de establecimientos penitenciarios y cárceles; integrantes de la Banda de Música del Estado y Marimbistas; Presidente y Secretario de la Junta de Conciliación y Arbitraje; Presidente de las Juntas Municipales de Conciliación; Secretario del Tribunal Superior de Justicia; Secretarios de los Juzgados Civiles y Penales de la Capital y Mixtos de Primera Instancia; Oficial Mayor del Archivo General de Notarías; Intendente y Ayudantes de Funcionarios, Choferes y Servidumbre al servicio de funcionarios, y quienes desempeñen funciones análogas cualquiera que sea su designación. En general, todos los que desempeñen funciones de dirección, vigilancia y trabajos personales al servicio de funcionarios y los empleados cuyos sueldos se cubran con cargo a partidas globales del Presupuesto de Egresos.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1998)</small>
+
+Secretarios particulares de los funcionarios; Representantes y Delegados del Gobierno del Estado; Directores, Sub-Directores y Administradores; Abogados Consultores; Jefes y Sub-Jefes de Departamentos y Oficinas; Profesionistas del Servicio Médico; Ingenieros, Arquitectos y Consultores Técnicos; Sub-Tesorero, Inspectores, Cajeros, Recaudadores, Sub-Recaudadores y Agentes Fiscales, Promotores, Almacenistas y quienes manejen fondos y prendas, Contadores de la Tesorería y Contador Mayor de Glosa; Depositarios y Peritos Valuadores; todo el personal de la Policía cualquiera que sea su denominación, Comisarios, integrantes de la Banda de Guerra, Agentes de Tránsito; personal de vigilancia de todo género de establecimientos penitenciarios y cárceles, integrantes de la Banda de Música del Estado y Marimbistas; Presidente y Secretario de la Junta de Conciliación y Arbitraje; Presidente de las Juntas Municipales de Conciliación; Jueces y Secretarios Judiciales en cualquier categoría; Oficial Mayor del Archivo General de Notarías; Intendente y ayudantes de Funcionarios, Choferes y Servidumbre al servicio de funcionarios, y quienes desempeñen funciones análogas cualquiera que sea su designación. En general todos los que desempeñan funciones de dirección, vigilancia y trabajos personales al servicio de funcionarios y los empleados cuyos sueldos se cubran con cargo a partidas globales del presupuesto de egresos.
 
 Los empleados no incluidos en la enumeración anterior, serán de base y por ello inamovibles. Los de nuevo ingreso serán de base, después de seis meses de servicios sin nota desfavorable en su expediente. Cuando se trate de plazas de nueva creación, la clasificación que corresponda a un empleado será determinada por la disposición legal que la establezca.
 
@@ -275,7 +277,7 @@ ARTICULO 34 BIS.- A los empleados de Base o de Confianza se les otorgará en for
 
 30 AÑOS DE SERVICIOS CUMPLIDOS CON NOMBRAMIENTO 2,800.00
 
-y por cada 5 años más de servicios, se les aumentará $ 500.00 más.
+Y por cada 5 años más de servicios, se les aumentará $ 500.00 más.
 
 ### CAPITULO CUARTO.
 
@@ -343,9 +345,9 @@ VI.- Abstenerse de hacer propaganda de toda clase durante las horas de trabajo.
 
 DE LA SUSPENSION DE LOS EFECTOS DEL NOMBRAMIENTO DE LOS EMPLEADOS.
 
-### CAPITULO SEPTIMO.. DE LA TERMINACION DE LOS EFECTOS DEL
+### CAPITULO SEPTIMO.
 
-NOMBRAMIENTO DE LOS EMPLEADOS.
+DE LA TERMINACION DE LOS EFECTOS DEL NOMBRAMIENTO DE LOS EMPLEADOS.
 
 ###### ARTICULO 38.
 
@@ -353,7 +355,7 @@ La suspensión de los efectos del nombramiento de un empleado de los Poderes del
 
 Son causas de suspensión temporal las siguientes:
 
-I.- La circunstancia de que el empleado contraiga alguna enfermedad contagiosa que signifique un peligro para las personas que trabajen con el.
+I.- La circunstancia de que el empleado contraiga alguna enfermedad contagiosa que signifique un peligro para las personas que trabajen con él.
 
 II.- La prisión preventiva del empleado, seguida de sentencia absolutoria o de arresto impuesto por autoridad judicial o administrativa.
 
@@ -403,9 +405,9 @@ j).- Por supresión de plazas por el H. Congreso del Estado.
 
 Si el empleado reclama la revocación de su nombramiento y aquella resulta injustificada, tendrá derecho a que se le reinstale en su empleo o a que se le indemnice con tres meses de sueldo. En uno y otro caso, se le abonarán los sueldos dejados de percibir. El Estado se librará de la obligación de reinstalar cubriendo la segunda de las prestaciones indicadas.
 
-## TITULO TERCERO.. DE LA ORGANIZACION COLECTIVA DE LOS EMPLEADOS
+## TITULO TERCERO.
 
-DE LOS PODERES DEL ESTADO.
+DE LA ORGANIZACION COLECTIVA DE LOS EMPLEADOS DE LOS PODERES DEL ESTADO.
 
 ### CAPITULO SEGUNDO.
 
@@ -585,9 +587,9 @@ IV.- Por laudo de la Junta o persona que, a solicitud de las partes y con la con
 
 Al resolverse que una declaración de huelga es legal, La Junta de Arbitraje a petición de las autoridades correspondientes y tomando en cuenta las pruebas presentadas, fijará el número de los empleados que los huelguistas están obligados a mantener en el desempeño de sus labores a fin de que continúen realizándose aquellos servicios cuya suspensión perjudique la estabilidad de las instituciones o la conservación de las oficinas o talleres o signifique un peligro para la salud pública.
 
-## TITULO CUARTO.. DE LOS RIESGOS PROFESIONALES Y DE LAS
+## TITULO CUARTO.
 
-ENFERMEDADES NO PROFESIONALES.
+DE LOS RIESGOS PROFESIONALES Y DE LAS ENFERMEDADES NO PROFESIONALES.
 
 ### CAPITULO UNICO.
 
@@ -851,7 +853,7 @@ LIC. RODOLFO BRENA TORRES.- EL SECRETARIO GENERAL DEL DESPACHO, LIC. CUTBERTO CH
 
 Y lo comunico a usted para su conocimiento y fines consiguientes:
 
-SUFRAGIO EFECTIVO. NO REELECCION. EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxaca de Juárez, a 14 de diciembre de 1963.- EL SECRETARIO GENERAL DEL DESPACHO, LIC. CUTBERTO CHAGOYA.-(Rúbrica).
+SUFRAGIO EFECTIVO. NO REELECCION. EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxaca de Juárez, a 14 de diciembre de 1963.- EL SECRETARIO GENERAL DEL DESPACHO, LIC. CUTBERTO CHAGOYA.- (Rúbrica).
 
 Al C...............
 
@@ -876,3 +878,9 @@ P.O. 10 DE ENERO DE 1987.
 DECRETO No. 27
 
 UNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado, con carácter retroactivo al primero de enero de mil novecientos ochenta y seis.
+
+P.O. 19 DE SEPTIEMBRE DE 1998.
+
+PRIMERO.- Los Derechos Laborales de Jueces y Secretarios Judiciales serán respetados íntegramente, en su calidad de empleados de confianza.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
