@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2001-04-03"
+last_updated: "2001-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE DICIEMBRE DE 2001.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -1207,9 +1207,13 @@ III. Presentar copia del dictamen ante la autoridad fiscal estatal para efectos 
 
 La recaudación total, proveniente del impuesto a que se refiere este capítulo, se destinará a financiar gasto público, en el rubro de obra pública.
 
-Al efecto el Gobierno del Estado constituirá un fideicomiso público, al que destinará el cien por ciento de la recaudación que se obtenga por este impuesto. El Fideicomiso se integrará con representantes de los sectores público y privado de la Entidad, en términos de lo dispuesto por la Ley Orgánica del Poder Ejecutivo, para la correcta aplicación de los recursos al fin señalado en el párrafo anterior.
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2001)</small>
 
-El Ejecutivo del Estado al presentar la Cuenta Pública indicará las metas físicas y financieras que se alcanzaron en el año con la aplicación de los recursos provenientes de este impuesto.
+Al efecto, el Gobierno del Estado constituirá un fideicomiso público, al que destinará el 100% de la recaudación que se obtenga por este impuesto. El Comité Técnico del fideicomiso se integrará paritariamente con representantes de los sectores público y privado de la Entidad, de los cuales el Poder Ejecutivo y el sector privado tendrán igual número de representantes, ajustándose en lo conducente a lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado, y estará facultado para conocer y, en su caso aprobar y controlar los proyectos de obra pública que se sometan a su consideración, con el propósito de garantizar la correcta aplicación de los recursos al fin señalado en el párrafo anterior.
+
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2001)</small>
+
+El Ejecutivo del Estado, al presentar la Cuenta Pública, exhibirá el informe pormenorizado que deberá rendir el Comité Técnico del Fideicomiso, sobre las metas fiscales y financieras que se alcanzaron en el año respecto de la aplicación de los recursos provenientes de este impuesto.
 
 ### CAPÍTULO SEGUNDO. DEL IMPUESTO POR LA PRESTACIÓN DE SERVICIOS DE HOSPEDAJE
 
@@ -1691,19 +1695,27 @@ Los derechos por la prestación de servicios públicos en el Estado, se causará
 
 Las cuotas señaladas en este Título para certificados o copias certificadas se entienden referidas a documentos que se expiden en hojas de papel que no excedan de 35 centímetros de largo por 24 centímetros de ancho y no deben contener más de 80 renglones, por ambos lados; los certificados o copias certificadas en hojas de mayor dimensión o mayor número de renglones, causarán doble cuota.
 
-El importe de las tasas que para cada derecho señalan los siguientes capítulos, deberán ser cubiertos en las Oficinas de Hacienda de la jurisdicción donde se preste el servicio.
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2001)</small>
+
+El importe de las tasas que para cada derecho señalan los siguientes capítulos, deberán ser cubiertos en las Oficinas de Hacienda o cobraduría debidamente establecidas, o bien en los lugares o instituciones bancarias previamente autorizadas por la Secretaría, de la jurisdicción donde se preste el servicio, con quienes se hayan celebrado convenios.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 138.
 
-La dependencia, funcionario o empleado que preste el servicio por el cual se paguen los derechos, procederá a la prestación del mismo, al presentar el interesado el recibo que acredite su pago ante la Oficina de Hacienda respectiva; ningún otro comprobante justificará el pago correspondiente.
+La dependencia, funcionario o empleado que preste el servicio por el cual se paguen los derechos, procederá a la prestación del mismo, al presentar el interesado el recibo que acredite su pago ante la Oficina de Hacienda o Cobraduría respectiva; debidamente establecidas, o bien en los lugares o instituciones bancarias previamente autorizadas por la Secretaría.
 
 El funcionario o empleado público que preste algún servicio por el que se cause un derecho, en contravención a lo dispuesto anteriormente, serán responsables de su pago.
 
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 139.
 
-En aquellos casos, en que por circunstancias especiales el Ejecutivo del Estado considere conveniente que el pago del servicio prestado, deba hacerse ante la propia dependencia o funcionario que lo prestó, deberá mediar acuerdo que se publicará en la Gaceta Oficial del Estado previamente a la vigencia de la autorización respectiva.
+En aquellos casos, en que por circunstancias especiales el Ejecutivo del Estado considere conveniente que el pago del servicio prestado, deba hacerse ante la propia dependencia que lo preste, deberá mediar acuerdo emitido por la Secretaría, que se publicará en la Gaceta Oficial del Estado, previamente a la vigencia de la autorización respectiva.
 
-### CAPÍTULO TERCERO. DE LOS DERECHOS PRESTADOS POR LA SECRETARIA DE FINANZAS Y PLANEACION
+### CAPITULO SEGUNDO BIS. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE SEGURIDAD PÚBLICA
+
+> <small>(REFORMADO Y REUBICADO, G.O. 27 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 140.
 
@@ -1905,11 +1917,7 @@ a) Expedición de copia certificada de acta del estado civil de las personas. 1 
 
 b) Expedición de constancias o certificaciones. 1 salario mínimo
 
-IV. Por la autorización para la prestación de servicios de custodia y traslado de valores y de vigilancia de inmuebles pertenecientes a particulares realizada en el interior de los mismos:
-
-a) Por la autorización inicial. 500 salarios mínimos
-
-b) Por la revalidación anual. 100 salarios mínimos
+IV. (DEROGADA, G.O. 27 DE DICIEMBRE DE 2001)
 
 V. Por la conformidad para:
 
@@ -1923,51 +1931,55 @@ VI. Por Adhesión de "Apostilla" en un documento que deba surtir efectos en un P
 
 No causarán los derechos a que se refiere este artículo, la legalización de firmas en materia penal y en otros casos previstos por la Ley.
 
-### CAPÍTULO CUARTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE COMUNICACIONES
+> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2001)</small>
+
+### CAPÍTULO TERCERO. DE LOS DERECHOS PRESTADOS POR LA SECRETARIA DE FINANZAS Y PLANEACION
 
 ###### Artículo 142.
 
-Por los servicios prestados por la Secretaría de Gobierno en materia de Tránsito y Transporte, se causarán y cobrarán los derechos siguientes:
+Por los servicios prestados por la Secretaría de Seguridad Pública, se causarán y cobrarán los derechos siguientes:
 
-I. Expedición de Licencia de Chofer, tipo "A" para conducir vehículos de motor dedicados al Servicio Público de Pasajeros, de acuerdo con el Reglamento de Tránsito y Transporte, previo examen médico y pericial. 12 salarios mínimos
+A. En materia de Tránsito y Transporte:
+
+I. Expedición de Licencia de Chofer, tipo "A" para conducir vehículos de motor dedicados al Servicio Público de Transporte de Pasajeros, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte, previo examen médico y pericial. 12 salarios mínimos
 
 Canje Trianual 4.5 salarios mínimos
 
-II. Expedición de Licencia de Chofer, tipo B para conducir toda clase de vehículos de motor de Servicios Públicos de Carga y Particular, de acuerdo con el Reglamento de Tránsito y Transporte, previo examen médico y pericial. 11 salarios mínimos
+II. Expedición de Licencia de Chofer, tipo B para conducir toda clase de vehículos de motor de Servicios Públicos de Carga y Particular, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte, previo examen médico y pericial. 11 salarios mínimos
 
 Canje Trianual 4 salarios mínimos
 
-III. Expedición de Licencia de Automovilista, tipo "C" para conducir únicamente automóviles de Servicio Particular, de acuerdo con el Reglamento de Tránsito y Transporte, previo examen médico pericial. 9 salarios mínimos.
-
-Canje Trianual 3 salarios mínimos.
-
-IV. Expedición de Licencia de Motociclista, tipo "D", para conducir vehículos de dos o tres ruedas, de acuerdo con el Reglamento de Tránsito y Transporte, previo examen médico y pericial. 6 salarios mínimos
+III. Expedición de Licencia de Automovilista, tipo "C" para conducir únicamente automóviles de Servicio Particular, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte, previo examen médico pericial. 9 salarios mínimos
 
 Canje Trianual 3 salarios mínimos
 
-V. Expedición de licencia de motorista, para conducir maquinaria pesada para construcción: 7 salarios mínimos
+IV. Expedición de Licencia de Motociclista, tipo "D", para conducir vehículos de dos o tres ruedas, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte, previo examen médico y pericial. 6 salarios mínimos
+
+Canje Trianual 3 salarios mínimos
+
+V. Expedición de Licencia de Motorista, para conducir maquinaria pesada para construcción. 7 salarios mínimos
 
 VI. Expedición de Duplicados de cualquier tipo de Licencias de las señaladas en las fracciones anteriores de este artículo. 4 salarios mínimos
 
 VII. Por la expedición de los siguientes permisos:
 
-a) Especiales para conducir hasta por 180 días renovables, a personas mayores de 16 años y menores de 18. 4 salarios mínimos.
+a) Especiales para conducir hasta por 180 días renovables, a personas mayores de 16 y menores de 18 años. 4 salarios mínimos
 
-b) Para ocupar zonas para estacionamiento exclusivo en las Vías Públicas, cuando éstas resulten necesarias para la prestación de un Servicio Público, de acuerdo con el Reglamento de Tránsito y Transporte (por vehículo). 4 salarios mínimos
+b) Para ocupar zonas para estacionamiento exclusivo en las Vías Públicas, cuando éstas resulten necesarias para la prestación de un Servicio Público, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte (por vehículo). 4 salarios mínimos
 
 Por revalidación anual 2 salarios mínimos
 
-c) Para establecer el Servicio al Público de Estacionamiento de Vehículos en Propiedad Privada (Estacionamientos Públicos) de acuerdo con el Reglamento de Tránsito y Transporte. 30 salarios mínimos
+c) Para establecer el Servicio al Público de Estacionamiento de Vehículos en Propiedad Privada (Estacionamientos Públicos) de acuerdo con el Reglamento de la Ley de Tránsito y Transporte. 30 salarios mínimos
 
 Por revalidación anual 15 salarios mínimos
 
-d) Particular para el Transporte de Carga Específica o personas.
+d) Particular, para el Transporte de Carga Específica o personas.
 
 Por un año 10 salarios mínimos
 
 Por un día 1 salario mínimo
 
-e) Particular para circular vehículos nuevos sin placas ni tarjeta de circulación por 15 días. 3 salarios mínimos.
+e) Particular, para circular vehículos nuevos sin placas, ni tarjeta de circulación por 15 días. 3 salarios mínimos
 
 f) Para establecer escuelas para la enseñanza del manejo de vehículos: 100 salarios mínimos
 
@@ -1975,13 +1987,13 @@ Por revalidación anual 50 salarios mínimos
 
 VIII. Por servicios de Transporte Público.
 
-a) Expedición de tarjeta anual de identificación de operador de transporte público de pasajeros. 4 salarios mínimos
+a) Expedición de Tarjeta Anual de Identificación de Operador de Transporte Público de Pasajeros. 4 salarios mínimos
 
 b) Reposición de la Tarjeta Anual de Identificación de Operador de Transporte Público de Pasajeros. 2 salarios mínimos
 
-c) Expedición de Tarifa Oficial para el Cobro de Servicio Público de Pasajeros. 1 salario mínimo
+c) Expedición de Tarifa Oficial para el Cobro de Servicio Público de Transporte de Pasajeros. 1 salario mínimo
 
-d) Expedición de permisos temporales por 15 días: 1 salario mínimo
+d) Expedición de Permisos de Sustitución Temporal de Unidad por 20 días: 1 salario mínimo
 
 IX. Por la prestación de otros Servicios:
 
@@ -1989,33 +2001,47 @@ a) Expedición de Constancias y Certificados Médicos y de cualquier otra natura
 
 b) Expedición de permisos diversos. Por día: 1 salario mínimo
 
-c) Por la utilización de grúas oficiales para el retiro de vehículos accidentados, infraccionados o por orden judicial, dentro de los límites de la ciudad de que se trate. 4 salarios mínimo (sic)
+c) Por la utilización de grúas oficiales para el retiro de vehículos accidentados, infraccionados o por orden judicial, dentro de los límites de la ciudad de que se trate. 4 salarios mínimos
 
 d) Por la utilización de servicio oficial de depósito y custodia de vehículos accidentados, infraccionados o por orden judicial. Por día: 0.50 salario mínimo
 
-X. Por el otorgamiento de una concesión o permisos en trámite para prestar el servicio público de transporte en las diferentes modalidades previstas en el artículo 177 del Reglamento de la Ley de Tránsito y Transporte
+X. Por el otorgamiento de una concesión para prestar el Servicio Público de Transporte en las diferentes modalidades previstas en el artículo 177 del Reglamento de la Ley de Tránsito y Transporte:
 
 a) Taxi y Colectivo. 200 salarios mínimos
 
-b) Urbano, Suburbano y foráneo. 230 salarios mínimos
+b) Urbano, Suburbano y Foráneo. 230 salarios mínimos
 
-c) Carga, escolar, exclusivo de turismo y transporte de personal. 125 salarios mínimos
+c) Carga, Escolar, Exclusivo de Turismo y Transporte de Personal de Empresas. 125 salarios mínimos
 
-XI. Por la transferencia por fallecimiento del titular de una concesión para prestar el servicio público en la modalidad de taxi, colectivo, urbano, suburbano, foráneo, carga, escolar, exclusivo turismo o transporte de personal. 50 salarios mínimos
+XI. Por la transferencia por fallecimiento del titular de una concesión para prestar el Servicio Público de Transporte en la modalidad de Taxi, Colectivo, Urbano, Suburbano, Foráneo, Carga, Escolar, Exclusivo de Turismo o Transporte de Personal de Empresas. 50 salarios mínimos
 
-XII. Por la autorización para prestar el servicio de depósito y custodia de vehículos, de acuerdo con el Reglamento de Tránsito y Transporte: 150 salarios mínimos
+XII. Por la autorización para prestar el servicio de depósito y custodia de vehículos, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte: 150 salarios mínimos
 
 Revalidación anual: 100 salarios mínimos
 
 XIII. Por la transferencia por cesión de derechos de una concesión para prestar el Servicio Público de Transporte en las modalidades siguientes:
 
-a) Taxi, colectivo, urbano, suburbano, foráneo, carga, escolar, exclusivo turismo y transporte de personal. 150 salarios mínimos
+a) Taxi, Colectivo, Urbano, Suburbano, Foráneo, Carga, Escolar, Exclusivo Turismo y Transporte de Personal de Empresas. 150 salarios mínimos
 
-Rural mixto. 100 salarios mínimos
+b) Rural mixto. 100 salarios mínimos
 
-No se causarán estos derechos cuando la transferencia se realice por personas físicas para constituir una moral, siempre y cuando la aportación a la sociedad sea la concesión. Cuando la persona física enajene o transfiere su titularidad en la sociedad, se generará el pago previsto en esta fracción.
+No se causarán estos derechos cuando la transferencia se realice por personas físicas para constituir una moral, siempre y cuando la aportación a la sociedad sea la concesión. Cuando la persona física enajene o transfiera su titularidad en la sociedad, se generará el pago previsto en esta fracción.
 
-### CAPÍTULO QUINTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE EDUCACIÓN Y CULTURA
+B. En Materia de Servicios de Seguridad Privada:
+
+Por la autorización y ratificación anual para la prestación de servicios de seguridad privada en las modalidades de: seguridad, protección, vigilancia y custodia de personas, lugares, establecimientos, bienes o valores y su traslado.
+
+Autorización 500 salarios mínimos
+
+Ratificación 250 salarios mínimos
+
+Por el registro y revalidación anual de los empleados de las prestadoras de servicios de seguridad privada.
+
+Registro Individual 5 salarios mínimos
+
+Revalidación individual 5 salarios mínimos
+
+### CAPÍTULO CUARTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE COMUNICACIONES
 
 ###### Artículo 143.
 
@@ -2029,19 +2055,25 @@ II. Por la expedición de un certificado de Valor Catastral o Catastral Provisio
 
 III. Por la expedición de una constancia de datos catastrales. 3 salarios mínimos
 
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2001)</small>
+
 IV. Por la certificación de cada plano catastral expedido por la Secretaría. 3 salarios mínimos
 
-Se exceptúan del pago de derechos por la expedición de la cédula catastral y el certificado de Valor Catastral o Catastral Provisional:
+a) Se exceptúan del pago de derechos por la expedición de la cédula catastral y el certificado de Valor Catastral o Catastral Provisional:
 
-a) La Federación, el Estado y los Municipios, respecto de los bienes del dominio público, y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso;
+1. La Federación, el Estado y los Municipios, respecto de los bienes del dominio público, y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean parte de su patrimonio.
 
-b) Todos los sujetos pasivos del Catastro, cuando se trate de incorporaciones o revaluaciones masivas por la ejecución de programas de Catastro;
+2. A los poseedores de predios en las colonias populares, reservas territoriales y fundos legales, destinados a usos habitacionales y en proceso de regularización por parte de la Secretaría de Desarrollo Regional y del Instituto Veracruzano de Fomento al Desarrollo Regional, y
 
-c) Los cambios de registro originados por regularización de la nomenclatura Catastral, o de la circunscripción municipal;
+3. A los adquirentes de vivienda de interés social y popular construida en el Estado, cuando la adquisición sea financiada con créditos otorgados por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores (Infonavit), el Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (Fovissste), el Fideicomiso Fondo Nacional de Habitaciones Populares (Fonhapo), el Fondo de Operación y Financiamiento Bancario a la Vivienda (Fovi), el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas (ISSFAM), el Banco Nacional del Ejercito, Fuerza Aérea y Armada S.N.C. (BANJERCITO), y el Instituto de Pensiones del Estado (IPE).
 
-d) A los poseedores de predios en las colonias populares, reservas territoriales y fundos legales, destinados a usos habitacionales y en proceso de regularización por parte de la Secretaría de Desarrollo Regional y del Instituto Veracruzano de Fomento al Desarrollo Regional, y
+4. A los poseedores de predios en proceso de regularización por la Comisión para la Regularización de la Tenencia de la Tierra (Corett).
 
-e) A los adquirentes de vivienda de interés social y popular construidas en el estado, cuyos proyectos habitacionales estén autorizados por la Secretaría de Desarrollo Regional y coordinados por el Instituto Veracruzano de Fomento al Desarrollo Regional, así como por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores (Infonavit), el Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (Fovissste), el Fideicomiso Fondo Nacional de Habitaciones Populares (Fonhapo), el Fondo de Operación y Financiamiento Bancario a la Vivienda (Fovi), el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas (ISSFAM), el Banco Nacional del Ejército, Fuerza Aérea y Armada S.N.C. (BANJERCITO), y el Instituto de Pensiones del Estado (IPE).
+b) Se exceptúan del pago de derechos por la expedición de la Cédula Catastral:
+
+1. Todos los sujetos pasivos del Catastro, cuando se trate de incorporaciones o revaluaciones masivas por la ejecución de programas de Catastro;
+
+2. Los cambios de registro originados por regularización de la nomenclatura Catastral, o de la circunscripción municipal;
 
 V. Por copias en papel heliográfico o bond por plano general de localidad, con curvas de nivel al metro y cotas de crucero, en esc: 1:2,000, por hoja. 4.5 salarios mínimos
 
@@ -2057,25 +2089,33 @@ VIII. Por copias del plano de región catastral, sin escala, con nomenclatura y 
 
 IX. Por copias del plano perimetral tamaño carta de un predio registrado en la cartografía catastral urbana, en esc. 1:500, por plano. 3.0 salarios mínimos
 
-X. Por la graficación en papel bond de la cartografía urbana digitalizada escala 1:1,000 formato 18" x 25" (0.4 km2.) coordenadas u.t.m.
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2001)</small>
 
-a) Con planimetría de: manzanas, predios, construcciones y sus niveles, banquetas y nomenclatura, por hoja. 15.5 salarios mínimos
+X. Por la expedición de cartografía digital Esc. 1:1,000 en formatos DXF., DWG. Y ARC/INFO., por Km2:
 
-c) Con altimetría; manzanas, curvas de nivel al metro, cotas fotogramétricas de crucero, por hoja. 15.5 salarios mínimos
+a) Cobertura de manzanas 22.0 salarios mínimos
 
-XI. Por copias de negativos de vuelo escala 1:4,500, 1:10,000 y 1:20,000.
+b) Cobertura de predios 64.0 salarios mínimos
 
-a) En papel fotográfico, blanco y negro en formato 23 x 23 cm., por copia. 3.0 salarios mínimos
+c) Cobertura de construcciones. 64.0 salarios mínimos
 
-b) Grabada con escaner e impresión en papel bond, blanco y negro en formato 23 x 23 cm., por copia. 1.1 salarios mínimos
+d) Cobertura de curvas de nivel a cada metro 10.0 salarios mínimos
 
-c) Grabada en diskette de 3.5" ó disco compacto por negativo. 3.8 salarios mínimos
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2001)</small>
 
-XII. Por el padrón factura para el cobro del impuesto predial, sobre el impuesto facturado, base de datos o recibos impresos:
+XI. Por copias de contacto de fotografías aéreas escalas 1:4,500 1:10,000 y 1:20,000:
 
-predios urbanos 3%
+a) En papel bond, imagen blanco y negro en formato 23 x 23 cm., por copia. (sic)
 
-predios rústicos 2%
+b) Grabada con escaner e impresión en papel bond, blanco y negro en formato 23 x 23 cm., por copia. 1.0 salarios mínimos
+
+c) Grabada en diskette de 3.5" ó disco compacto, por copia. 3.8 salarios mínimos
+
+Se exceptúan del pago de derechos por la expedición de cartografía catastral y copias de contacto de fotografías aéreas, las dependencias y organismos Federales, Estatales y Municipales; éstos últimos en los términos de los convenios de colaboración que en materia catastral se suscriban, previo cumplimiento de las disposiciones legales aplicables.
+
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2001)</small>
+
+XII. Por la elaboración del padrón factura para el cobro del impuesto predial, incluye recibos impresos o papelería y el sistema para el cobro automatizado del impuesto, por predio registrado. 0.03 salario mínimo
 
 B. Por la certificación de documentos públicos, por hoja: 0.25 salario mínimo
 
@@ -2305,7 +2345,7 @@ C9 Camiones de nueve ejes $48.00
 
 La actualización de tarifas deberá observar las disposiciones de carácter federal y los términos del título de concesión otorgado al Estado.
 
-### CAPÍTULO SEXTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO REGIONAL
+### CAPÍTULO QUINTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE EDUCACIÓN Y CULTURA
 
 ###### Artículo 144.
 
@@ -2319,7 +2359,7 @@ b) Por Minuto excedente. 0.05 salarios mínimos
 
 II. Abonados. Telefónicos en línea comunal de magneto, mensualmente. 1 salario mínimo
 
-### CAPÍTULO SÉPTIMO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL PODER JUDICIAL DEL ESTADO
+### CAPÍTULO SEXTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO REGIONAL
 
 ###### Artículo 145.
 
@@ -2475,7 +2515,7 @@ I. Por los registros correspondientes, a las instituciones que imparten educaci�
 
 2. Por autorización para el ejercicio profesional, por registro de título profesional y por expedición de cédula profesional a los maestros con título específico para enseñanza en cualquiera de sus grados.
 
-### CAPÍTULO OCTAVO. DE LOS DERECHOS POR SERVICIOS DIVERSOS
+### CAPÍTULO SÉPTIMO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL PODER JUDICIAL DEL ESTADO
 
 ###### Artículo 146.
 
@@ -2923,7 +2963,7 @@ de construcción 64
 
 Para las fracciones intermedias entre cada 1,000 m2, se sumará el pago de derechos que de acuerdo al rango de superficie le corresponda.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO OCTAVO. DE LOS DERECHOS POR SERVICIOS DIVERSOS
 
 ###### Artículo 149.
 
@@ -2947,7 +2987,7 @@ IV. Por la expedición de copias certificadas de diligencias de averiguaciones p
 
 ## TÍTULO TERCERO. DE LOS PRODUCTOS
 
-### CAPÍTULO PRIMERO. DE LA INTEGRACIÓN Y ESTRUCTURA DEL PRESUPUESTO
+### CAPÍTULO ÚNICO
 
 ###### Artículo 151.
 
@@ -2985,37 +3025,75 @@ Los productos por conceptos diversos se cobrarán atendiendo a los contratos cel
 
 Por los servicios prestados por la Secretaría de Finanzas y Planeación se pagarán los siguientes productos:
 
-I. Por el estudio técnico de tablas de valores catastrales y niveles de carga fiscal, por predio. 0.10 salarios mínimos
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2001)</small>
 
-II. Por la actualización del padrón catastral de los ayuntamientos, por predio adicionado o modificado.
+I. Por la propuesta de Tablas de Valores Catastrales, por predio.
+
+a) De suelo urbano 0.022 salarios mínimos
+
+b) De suelo rústico 0.012 salarios mínimos
+
+c) De construcción por cada tipo 20.0 salarios mínimos
+
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2001)</small>
+
+II. Por la propuesta de cuotas y tarifas, por predio:
+
+a) De suelo urbano y suburbano 0.008 salarios mínimos
+
+b) De suelo rústico 0.27 salarios mínimos
+
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2001)</small>
+
+III. Por la actualización del padrón catastral de los Ayuntamientos, por predio adicionado o modificado.
 
 a) De la base de datos alfanumérica 0.27 salarios mínimos
 
 b) De la cartografía 0.27 salarios mínimos
 
-III. Por el estudio de factibilidad para la actualización catastal, por predio.
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2001)</small>
 
-a) Hasta 10,000 predios. 0.082 salarios mínimos
+IV. Por el estudio de factibilidad para la actualización catastral, por predio.
+
+a) Hasta 10,000 predios 0.082 salarios mínimos
 
 b) El excedente de 10,000 hasta 50,000 predios. 0.033 salarios mínimos
 
 c) El excedente de 50,000 predios en adelante. 0.016 salarios mínimos
 
-IV. Por la ejecución de programas catastrales de actualización predial, por predio. 1.37 salarios mínimos
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2001)</small>
 
-V. Por el levantamiento perimetral de un predio urbano o suburbano de localidades catastradas, con plano tamaño carta a escala variable, por metro cuadrado resultante.
+V. Por la ejecución de programas para la actualización del padrón catastral gráfico y alfanumérico por predio revisado: 0.61 salarios mínimos
 
-a) Hasta 300 m2. 0.033 salarios mínimos
+> <small>(ADICIONADA, G.O. 27 DE DICIEMBRE DE 2001)</small>
+
+VI. Por el levantamiento perimetral de un predio urbano o suburbano de localidades catastradas, con plano tamaño carta a escala variable, por metro cuadrado resultante:
+
+a) Hasta 300 m2. .033 salarios mínimos
 
 b) El excedente de 301 a 500 m2. 0.027 salarios mínimos
 
 c) El excedente de 501 a 1,000 m2. 0.017 salarios mínimos
 
-d) El excedente de 1,001 m2. en adelante. 0.011 salarios mínimos
+d) El excedente de 1,001 m2 en adelante. 0.011 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 27 DE DICIEMBRE DE 2001)</small>
+
+VII. Por el levantamiento de la poligonal de predios rústicos, con plano y cuadro de construcción a escala variable:
+
+Por hectárea resultante o fracción:
+
+a) Hasta 5 has. 17.0 salarios mínimos
+
+b) El excedente de 5 hasta 50 has. 10.0 salarios mínimos
+
+c) El excedente de 50 hasta 200 has. 3.3. salarios mínimos
+
+d) El excedente de 200 has en adelante 2.2 salarios mínimos
 
 ## TÍTULO CUARTO. DE LOS APROVECHAMIENTOS
 
-### CAPÍTULO SEGUNDO. DE LA INICIATIVA, APROBACIÓN Y REFORMAS DEL PRESUPUESTO
+### CAPÍTULO PRIMERO. DE LA INTEGRACIÓN Y ESTRUCTURA DEL PRESUPUESTO
 
 ###### Artículo 153.
 
@@ -3049,19 +3127,21 @@ XII. Aprovechamientos diversos.
 
 ## TÍTULO PRIMERO. DEL PRESUPUESTO
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO SEGUNDO. DE LA INICIATIVA, APROBACIÓN Y REFORMAS DEL PRESUPUESTO
 
 ###### Artículo 154.
 
 El presupuesto estatal será el que apruebe el Congreso a iniciativa del Gobernador del Estado; en él se estimarán los ingresos a obtener por contribuciones estatales, aprovechamientos, productos y trasferencias federales, así como el costo de las actividades, obras y servicios públicos previstos en los programas anuales a cargo de quienes ejercen el gasto público.
 
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 155.
 
-El Presupuesto del Estado se compone de la Ley de Ingresos y del Decreto del Presupuesto de Egresos, que contendrán las previsiones de ingreso y gasto público comprendidas entre enero y diciembre de cada año, así como los criterios especiales para su ejercicio y control.
+El Presupuesto del Estado se compone de las previsiones de ingreso y gasto público comprendidas entre enero y diciembre de cada año, así como los criterios especiales para su ejercicio y control.
 
-La Ley de Ingresos del Estado señalará los conceptos de ingresos ordinarios que se establecen en este Código, indicando el monto estimado a obtener por cada uno de ellos en el ejercicio fiscal.
+Los Ingresos del Estado comprenderán los conceptos de ingresos ordinarios y en su caso los extraordinarios que se establecen en este Código, indicando el monto estimado a obtener por cada uno de ellos en el ejercicio fiscal.
 
-Al presentarse la iniciativa de Ley de Ingresos del Estado se señalará sólo el monto de los ingresos ordinarios que puedan ser cuantificados; pero, en su caso, al rendir la cuenta pública el Titular del Ejecutivo Estatal cuantificará y desglosará la totalidad de los ingresos obtenidos en el ejercicio fiscal de que se trate.
+Al presentarse el Presupuesto del Estado se señalará sólo el monto de los ingresos ordinarios que puedan ser cuantificados; pero, en su caso, al rendir la cuenta pública el Titular del Ejecutivo Estatal, cuantificará y desglosará la totalidad de los ingresos obtenidos en el ejercicio fiscal de que se trate.
 
 ###### Artículo 156.
 
@@ -3119,7 +3199,7 @@ El gasto público se ejercerá con base en los calendarios financieros y de meta
 
 Durante el mes de agosto de cada año, la Secretaría dará a conocer a las unidades presupuestales los criterios y los lineamientos para la formulación del presupuesto.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES EN MATERIA DE ADMINISTRACIÓN DE RECURSOS PÚBLICOS
+### CAPÍTULO ÚNICO
 
 ###### Artículo 164.
 
@@ -3157,7 +3237,7 @@ El Gobernador del Estado, a través de la Secretaría, proporcionará al Congres
 
 ## TÍTULO SEGUNDO. DEL GASTO PÚBLICO
 
-### CAPÍTULO SEGUNDO. DE LA ADMINISTRACIÓN DE LOS RECURSOS FINANCIEROS
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES EN MATERIA DE ADMINISTRACIÓN DE RECURSOS PÚBLICOS
 
 ###### Artículo 171.
 
@@ -3187,13 +3267,17 @@ La Secretaría será fideicomitente único del Gobierno del Estado.
 
 ## TÍTULO TERCERO. DE LA ADMINISTRACIÓN DE LOS RECURSOS PÚBLICOS
 
-### CAPÍTULO TERCERO. DE LA ADMINISTRACIÓN DE LOS RECURSOS HUMANOS
+### CAPÍTULO SEGUNDO. DE LA ADMINISTRACIÓN DE LOS RECURSOS FINANCIEROS
 
 ###### Artículo 176.
 
 No se podrá hacer pago alguno que no esté comprendido en el presupuesto autorizado o determinado por Ley ulterior.
 
 Las unidades presupuestales se abstendrán de formalizar y modificar convenios, cuando dicha modificación genere una erogación mayor y no se cuente con disponibilidad presupuestal en la correspondiente partida.
+
+> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2001)</small>
+
+Los fideicomisos públicos que se constituyan para ejercer recursos obtenidos de contribuciones estatales, estarán facultados para liberar recursos de sus patrimonios fideicomitidos, a través de las instrucciones que generen sus comités técnicos a sus respectivos fiduciarios, en términos de lo dispuesto por el instrumento de su creación.
 
 ###### Artículo 177.
 
@@ -3207,9 +3291,13 @@ La Secretaría será responsable de llevar un padrón de servidores públicos au
 
 Los servidores públicos que administren fondos y valores del Estado caucionarán debidamente su manejo.
 
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 179.
 
-Quien ejerza gasto público estará obligado a proporcionar la información que requieran la Secretaría, la Controlaría (sic) y el Congreso en el ámbito de sus respectivas competencias.
+Las dependencias y entidades del Poder Ejecutivo, a través de la Secretaría, así como el Poder Judicial y los Organismos Autónomos de (sic) Estado a través de sus respectivas unidades administrativas responsables del ejercicio presupuestal, estarán obligadas a presentar al Congreso informes trimestrales sobre el ejercicio de sus correspondientes gastos públicos. La revisión de dichos informes se realizará con el apoyo del Órgano de Fiscalización Superior.
+
+Con independencia de lo dispuesto en el párrafo anterior, quien ejerza gasto público en el Poder Ejecutivo estará obligado, además, a proporcionar la información que le requiera la Secretaría y la Contraloría. Tratándose de los Poderes Legislativo y Judicial, así como de los Organismos Autónomos de Estado, dicha información será proporcionada a sus correspondientes unidades de control interno.
 
 ###### Artículo 180.
 
@@ -3249,9 +3337,11 @@ Los órganos de gobierno de las entidades reportarán en tiempo y forma a la Sec
 
 El Ejecutivo del Estado podrá ordenar las modificaciones presupuestales de las entidades no incorporadas al presupuesto estatal, mismas que informarán a la Secretaría los cambios efectuados.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 27 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 185.
 
-En cada dependencia o entidad habrá una unidad administrativa encargada de la atención de los asuntos relacionados con los recursos humanos, financieros y materiales asignados.
+En cada dependencia y entidad habrá una unidad administrativa encargada de la atención de los asuntos relacionados con los recursos humanos, financieros y materiales asignados. El titular de cada una de dichas unidades administrativas deberá contar con título profesional de las Licenciaturas en derecho, contaduría pública, administración o economía, expedido por autoridad o institución legalmente facultada para ello, y cumplir con los demás requisitos que establezca la Ley.
 
 Cuando, por la naturaleza de las funciones que correspondan a la dependencia, o cuando el volumen de las operaciones, lugar en donde se efectúe el gasto o por existir circunstancias especiales, se requiera la existencia de coordinaciones administrativas para determinadas áreas, el titular de la dependencia correspondiente determinará su instalación, previo acuerdo con el Gobernador del Estado.
 
@@ -3363,7 +3453,7 @@ V. Elaborar el programa anual de adquisiciones de la dependencia.
 
 El Gobernador del Estado podrá disponer que los fondos o pagos de alguna dependencia o entidad sean manejados, temporal o permanentemente de manera centralizada por la Secretaría.
 
-### CAPÍTULO CUARTO. DE LA ADMINISTRACIÓN DE LOS RECURSOS MATERIALES
+### CAPÍTULO TERCERO. DE LA ADMINISTRACIÓN DE LOS RECURSOS HUMANOS
 
 ###### Artículo 189.
 
@@ -3463,7 +3553,7 @@ De los movimientos que se efectúen en los términos de este artículo, el Gober
 
 Los recursos excedentes preferentemente se destinarán a gastos contingentes no previstos y a proyectos de inversión adicionales a realizarse durante el transcurso del ejercicio.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES DEL SERVICIO DE TESORERÍA
+### CAPÍTULO CUARTO. DE LA ADMINISTRACIÓN DE LOS RECURSOS MATERIALES
 
 ###### Artículo 202.
 
@@ -3537,7 +3627,7 @@ Las unidades administrativas informarán a la Secretaría y a la Contraloría en
 
 Respecto a los contratos por honorarios vigentes de un año a otro, las dependencias solicitarán autorización a la Secretaría, misma que se otorgará si se cuenta con los recursos suficientes, está debidamente justificada y si se considera indispensable. Esta autorización se tramitará durante el mes de enero de cada año.
 
-### CAPÍTULO SEGUNDO. DE LOS PAGOS Y MINISTRACIONES
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES DEL SERVICIO DE TESORERÍA
 
 ###### Artículo 213.
 
@@ -3631,7 +3721,7 @@ Corresponde a las unidades administrativas el uso, conservación y mantenimiento
 
 ## TÍTULO CUARTO. DE LOS SERVICIOS DE TESORERÍA
 
-### CAPÍTULO TERCERO. DE LA PRESCRIPCIÓN DE FONDOS Y CRÉDITOS
+### CAPÍTULO SEGUNDO. DE LOS PAGOS Y MINISTRACIONES
 
 ###### Artículo 224.
 
@@ -3731,11 +3821,13 @@ El servicio de recaudación y concentración de fondos podrá efectuarse por con
 
 Las instituciones bancarias o terceros pagarán intereses, por concepto de indemnización, en caso de entrega o concentración extemporánea de fondos, conforme a la tasa que al respecto determine la Secretaría, misma se establecerá en los contratos de prestación de servicios que con ellos se celebren.
 
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 232.
 
-Cuando la ley destine los fondos a un fin determinado, con objeto de aprovecharlos en actividades de la administración pública estatal, sólo podrá disponerse de ellos asignación presupuestal.
+Cuando la ley destine los fondos a un fin determinado, con objeto de aprovecharlos en actividades de la administración pública estatal, sólo podrá disponerse de ellos mediante asignación presupuestal. Los Fideicomisos Públicos constituidos para administrar recursos derivados de contribuciones estatales ejercerán los montos incorporados a sus patrimonios fideicomitidos a través de las instrucciones que generen sus Comités Técnicos.
 
-### CAPÍTULO CUARTO. DE LAS GARANTÍAS A FAVOR O A CARGO DEL ESTADO
+### CAPÍTULO TERCERO. DE LA PRESCRIPCIÓN DE FONDOS Y CRÉDITOS
 
 ###### Artículo 233.
 
@@ -3755,7 +3847,7 @@ Todo pago o salida de valores se registrará en la contabilidad de la Secretarí
 
 Las unidades administrativas solamente autorizarán el pago de anticipos que estén previstos en las disposiciones legales aplicables.
 
-### CAPÍTULO QUINTO. DE LA CUSTODIA Y VIGILANCIA DE FONDOS Y VALORES
+### CAPÍTULO CUARTO. DE LAS GARANTÍAS A FAVOR O A CARGO DEL ESTADO
 
 ###### Artículo 237.
 
@@ -3767,7 +3859,7 @@ Cuando no sea posible determinar la fecha en que legalmente pudo exigirse la dev
 
 Los depósitos de los particulares en las cuentas de gobierno no generarán intereses a favor de quien los haya constituido o de sus beneficiarios.
 
-### CAPÍTULO PRIMERO. DE LA CONTABILIDAD GUBERNAMENTAL
+### CAPÍTULO QUINTO. DE LA CUSTODIA Y VIGILANCIA DE FONDOS Y VALORES
 
 ###### Artículo 238.
 
@@ -3809,7 +3901,7 @@ Las garantías que se otorguen a favor del gobierno estatal, podrán sustituirse
 
 Tratándose de créditos fiscales a cargo de contribuyentes sujetos a control presupuestal y de adeudos a favor del gobierno estatal distintos de contribuciones y sus accesorios, se dispensará el otorgamiento de garantía observando lo dispuesto en el Libro Segundo de éste Código y en el Código de Procedimientos Administrativos para el Estado de Veracruz.
 
-### CAPÍTULO SEGUNDO. DE LOS CATÁLOGOS DE CUENTAS Y DEL REGISTRO DE LAS OPERACIONES
+### CAPÍTULO PRIMERO. DE LA CONTABILIDAD GUBERNAMENTAL
 
 ###### Artículo 245.
 
@@ -3893,7 +3985,7 @@ II. Cuando sea faltante, requerirá al responsable para que efectúe el reintegr
 
 ## TÍTULO QUINTO. DE LA CONTABILIDAD Y CUENTA PÚBLICA
 
-### CAPÍTULO TERCERO. DE LOS ESTADOS FINANCIEROS
+### CAPÍTULO SEGUNDO. DE LOS CATÁLOGOS DE CUENTAS Y DEL REGISTRO DE LAS OPERACIONES
 
 ###### Artículo 257.
 
@@ -3939,7 +4031,7 @@ Los estados financieros y demás información financiera presupuestal y contable
 
 El registro de las operaciones y la preparación de informes financieros de las unidades presupuestales, deberá llevarse a cabo de acuerdo con los principios de contabilidad gubernamental, así como de las normas políticas y lineamientos que dicte la Secretaría.
 
-### CAPÍTULO CUARTO. DE LA INTEGRACIÓN DE LA CUENTA PÚBLICA
+### CAPÍTULO TERCERO. DE LOS ESTADOS FINANCIEROS
 
 ###### Artículo 265.
 
@@ -4059,7 +4151,7 @@ Las dependencias y entidades que participen en la realización de programas de c
 
 Los beneficiarios de subsidios y transferencias con cargo al presupuesto del Estado, rendirán trimestralmente, dentro de los primeros cinco días del mes siguiente, cuenta detallada de la aplicación de los fondos a las unidades administrativas por el cual se les hubiere canalizado, así como la información y justificación correspondiente; las unidades presupuestales informarán con el mismo detalle a la Secretaría, del ejercicio de estos recursos, dentro de los primeros quince días del mes siguiente.
 
-### CAPÍTULO QUINTO. DE LA PRESENTACIÓN DE LA CUENTA PÚBLICA AL CONGRESO DEL ESTADO
+### CAPÍTULO CUARTO. DE LA INTEGRACIÓN DE LA CUENTA PÚBLICA
 
 ###### Artículo 280.
 
@@ -4133,7 +4225,7 @@ El Titular del Ejecutivo, en los términos establecidos en la Constitución Pol�
 
 ## TÍTULO SEXTO. DEL CONTROL Y EVALUACIÓN DEL GASTO PÚBLICO
 
-### CAPÍTULO PRIMERO. DEL CONTROL Y EVALUACIÓN
+### CAPÍTULO QUINTO. DE LA PRESENTACIÓN DE LA CUENTA PÚBLICA AL CONGRESO DEL ESTADO
 
 ###### Artículo 289.
 
@@ -4181,7 +4273,7 @@ III. Fincamiento de las responsabilidades que procedan, y
 
 IV. Determinación de las previsiones que constituyan una de las bases para la programación - presupuestación del ejercicio siguiente.
 
-### CAPÍTULO SEGUNDO. DE LOS ÓRGANOS INTERNOS DE CONTROL
+### CAPÍTULO PRIMERO. DEL CONTROL Y EVALUACIÓN
 
 ###### Artículo 293.
 
@@ -4299,7 +4391,7 @@ Las dependencias y entidades proporcionarán los informes, documentos y, en gene
 
 ## TÍTULO SÉPTIMO. DE LAS RESPONSABILIDADES RELACIONADAS CON EL EJERCICIO DEL GASTO PÚBLICO
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO SEGUNDO. DE LOS ÓRGANOS INTERNOS DE CONTROL
 
 ###### Artículo 307.
 
@@ -4411,7 +4503,7 @@ En ningún caso se autorizarán financiamientos que generen obligaciones que exc
 
 ## TÍTULO SEGUNDO. DE LA COMPETENCIA EN MATERIA DE DEUDA PÚBLICA
 
-### CAPÍTULO PRIMERO. ATRIBUCIONES DE LAS AUTORIDADES ESTATALES EN MATERIA DE DEUDA PÚBLICA
+### CAPÍTULO ÚNICO
 
 ###### Artículo 323.
 
@@ -4453,7 +4545,7 @@ Las operaciones de endeudamiento que realice el Estado, los municipios y sus ent
 
 En el presupuesto anual se señalarán los montos autorizados para las operaciones de endeudamiento que generen deuda pública; así como para efectuar la amortización de los mismos.
 
-### CAPÍTULO SEGUNDO. DE LA CONTRATACIÓN DE LAS OPERACIONES DE ENDEUDAMIENTO
+### CAPÍTULO PRIMERO. ATRIBUCIONES DE LAS AUTORIDADES ESTATALES EN MATERIA DE DEUDA PÚBLICA
 
 ###### Artículo 327.
 
@@ -4497,7 +4589,7 @@ Las entidades municipales al contratar operaciones de endeudamiento o reestructu
 
 Los municipios y sus entidades presentarán periódicamente, en la forma en que lo determine la Secretaría, los documentos que permitan analizar su capacidad de pago. La aplicación de los recursos económicos provenientes de las operaciones de endeudamiento avaladas por el Estado, será supervisado por la Secretaría.
 
-### CAPÍTULO TERCERO. DE LOS TÍTULOS DE DEUDA PÚBLICA
+### CAPÍTULO SEGUNDO. DE LA CONTRATACIÓN DE LAS OPERACIONES DE ENDEUDAMIENTO
 
 ###### Artículo 333.
 
@@ -4555,7 +4647,7 @@ En todo lo referente al manejo y operación de los instrumentos bursátiles enun
 
 ## TÍTULO TERCERO. DEL REGISTRO PÚBLICO DE DEUDA ESTATAL
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO TERCERO. DE LOS TÍTULOS DE DEUDA PÚBLICA
 
 ###### Artículo 339.
 
@@ -4629,6 +4721,8 @@ Se considerará que un Municipio se encuentra en mora, cuando no presente la doc
 
 De no demostrar el cumplimiento, se procederá a efectuar los pagos de las erogaciones que se hayan dejado de amortizar, mediante la afectación de las participaciones que en ingresos federales le correspondan.
 
+### CAPÍTULO ÚNICO
+
 ## TRANSITORIOS
 
 PRIMERO.- El presente Código entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial del Estado, con excepción de lo dispuesto en el Capítulo Primero, del Título Primero, Libro Tercero, cuya entrada en vigor se sujetará a lo dispuesto en el siguiente artículo.
@@ -4668,3 +4762,11 @@ LICENCIADO MIGUEL ALEMÁN VELAZCO
 GOBERNADOR DEL ESTADO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.O. 27 DE DICIEMBRE DE 2001.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Las dependencias y entidades del Poder Ejecutivo, a través de la Secretaría, así como el Poder Judicial y los Organismos Autónomos de (sic) Estado a través de sus respectivas unidades administrativas adecuarán su sistema de afectación presupuestal y registro contable, a fin de cumplir, a partir del 1 de julio del 2002, lo dispuesto en el artículo 179, que entrará en vigor en esa fecha.
