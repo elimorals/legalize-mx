@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1984-11-15"
+last_updated: "1987-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 1987.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -43,9 +43,19 @@ Constitución Política del Estado de Jalisco
 
 El Estado es Libre y Soberano en su régimen interior, pero unido a las demás partes integrantes de los Estados Unidos Mexicanos en la Federación establecida por la ley fundamental.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 1987)</small>
+
 ###### Art. 2º.
 
-El Gobierno del Estado es Republicano, Representativo y Popular, teniendo como base de su organización política y administrativa, el Municipio Libre, en los términos que establece la Ley.
+El Gobierno del Estado es republicano, democrático, representativo y popular, tiene como base de su organización política y administrativa el municipio libre.
+
+El poder público dimana del pueblo quien designa a sus representantes, mediante elecciones que se verifiquen conforme a las normas y procedimientos establecidos en la Ley Electoral.
+
+Los procesos electorales son funciones de orden público; en consecuencia, compete al Gobierno del Estado, su preparación, desarrollo y vigilancia, con la corresponsabilidad de los partidos políticos registrados y de los ciudadanos.
+
+La Ley señalará los organismos que tendrán a su cargo dicha función; establecerá los medios de impugnación para garantizar que sus actos y resoluciones se ajusten a lo dispuesto por esta Constitución y las Leyes que de ella emanen; instituirá un Tribunal de lo Contencioso Electoral, dotado de autonomía y personalidad jurídica propia, que tendrá la organización y atribuciones que la citada Ley le confiera.
+
+Las resoluciones del Tribunal de lo Contencioso Electoral serán obligatorias y sólo podrán ser modificadas por el Colegio Electoral del Congreso del Estado, que será la última instancia en la calificación de las elecciones, dichas resoluciones tendrán el carácter de inatacables y definitivas.
 
 ### CAPITULO SEGUNDO. Del Territorio del Estado
 
@@ -89,55 +99,71 @@ III. Si son extranjeros, contribuir para los gastos públicos de la manera que d
 
 ###### Art. 6º.
 
-El Supremo Poder del Estado se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial. Nunca podrán reunirse dos o más de estos Poderes en una persona o corporación, ni depositarse el Legislativo en un solo individuo.
+El poder público del Estado se divide para su ejercicio en Legislativo, Ejecutivo y Judicial; nunca podrán reunirse dos o más de estos poderes en una persona o corporación, ni depositarse el Legislativo en un solo individuo.
 
 ###### Art. 7º.
 
 El Poder Legislativo se deposita en una asamblea que se denomina Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1948)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 1987)</small>
 
 ###### Art. 8º.
 
-El Congreso del Estado se compondrá de Diputados electos cada tres años.
+El Congreso del Estado se compondrá de treinta y cuatro Diputados electos en forma directa cada tres años, conforme al procedimiento que establezca la Ley Electoral; veinte se elegirán por el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, y catorce según el principio de representación proporcional, a través del sistema de listas votadas en una o varias circunscripciones plurinominales. Todos los Diputados tendrán los mismos derechos y obligaciones.
 
-Los individuos a quienes el Consejo Electoral expida credenciales, declarando que han obtenido mayoría de votos para Diputados, instalados en Colegio Electoral, calificarán la elección declarando quiénes son Diputados conforme a la Ley. Esta declaratoria y todos los demás actos del Congreso en funciones de Colegio Electoral son irrevocables.
+La demarcación territorial de los veinte distritos electorales, será la que resulte de dividir la población total del Estado entre el número de los distritos mencionados y para su distribución se tomará en cuenta el último censo general de población.
+
+El Colegio Electoral del Congreso del Estado calificará la elección de sus miembros, que se integrará con todos los presuntos Diputados electos, tanto por el principio de mayoría relativa como de representación proporcional, que hubiesen obtenido su constancia expedida por el Consejo Electoral del Estado. El Colegio Electoral hará la declaratoria de quiénes son Diputados conforme a la Ley.
 
 La Diputación Permanente es la facultada para instalar el Colegio Electoral.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 1987)</small>
 
 ###### Art. 9º.
 
-La Cámara de Diputados estará integrada por veinte Diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de veinte distritos electorales uninominales y hasta seis Diputados de Partido. La determinación de los distritos electorales será la que resulte de dividir la población total del Estado entre los distritos señalados y su circunscripción será fijada por los órganos electorales que establezca la Ley. La elección de Diputados será directa de acuerdo con lo que regule la Ley Electoral. Los Diputados de Partido serán asignados de acuerdo con las siguientes reglas:
+La circunscripción o circunscripciones plurinominales serán fijadas por el Consejo Electoral del Estado, en cada una de las elecciones correspondientes.
 
-I. Los Partidos Políticos con registro Nacional que además hubiesen obtenido su registro conforme a la Ley Electoral del Estado tendrán derecho a que se les acredite un Diputado de Partido con su respectivo suplente si obtienen cuando menos el 3.5 por ciento de la votación total en el Estado correspondiente a la elección de Diputados, hasta agotar las seis curules autorizadas.
+La elección de los catorce Diputados según el principio de representación proporcional, se sujetará a las bases generales siguientes y a lo que en particular disponga la Ley Electoral.
 
-Si hubiere curules sobrantes de las seis autorizadas, se asignarán a los Partidos que hubieren alcanzado el 9 por ciento de la votación total en el Estado, por orden decreciente de sufragios,
+I. Tendrá derecho a participar en la asignación de Diputados electos según el principio de representación proporcional, todo aquel partido político, con registro en el Estado, que alcance por lo menos el dos punto cinco por ciento del total de la votación emitida para esta elección, siempre que haya registrado candidatos cuando menos en siete distritos electorales uninominales;
 
-II. Serán asignadas las diputaciones de Partido a los que en la elección hubieren tenido el mayor número de sufragios aunque sin haber triunfado como Diputados de mayoría. El Partido que hubiere obtenido el triunfo para uno o más Diputados de mayoría no tendrá derecho a que se le asignen Diputados de Partido, salvo el caso de la parte final de la fracción anterior, en el cual podrá atribuirse un Diputado de Partido si habiendo obtenido uno de mayoría, se reúnen los demás requisitos ahí señalados.
+II. El partido político que obtenga la mitad más una de las constancias de mayoría tendrá derecho a que se le asigne un Diputado de representación proporcional por cada siete por ciento del porcentaje de su votación. Ningún partido político podrá tener derecho a que se le reconozcan más de veinticuatro Diputados del total del Congreso del Estado;
 
-III. Los Diputados de mayoría y los de Partido tendrán la misma categoría e iguales derechos y obligaciones.
+III. Si ningún partido político alcanza la mitad más una de las constancias de mayoría, al partido con más triunfos en la elección de Diputados de mayoría relativa, le serán asignados Diputados por el principio de representación proporcional, hasta alcanzar la mayoría absoluta en el Congreso;
+
+IV. En el supuesto previsto en la fracción anterior, en caso de empate en el número de constancias, la mayoría absoluta del Congreso será decidida en favor de aquel de los partidos empatados que haya alcanzado la mayor votación emitida en el Estado en la elección de Diputados por el principio de mayoría relativa.
+
+La Ley establecerá la fórmula electoral y el procedimiento que se aplicará en la asignación de curules por el principio de representación proporcional.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 1987)</small>
 
 ### CAPITULO UNICO. De la División del Poder Público
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 1987)</small>
 
 ###### Art. 10.
 
 Para ser Diputado se requiere:
 
-I. Ser ciudadano mexicano, por nacimiento, en ejercicio de sus derechos.
+I. Ser ciudadano mexicano por nacimiento en ejercicio de sus derechos;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 1972)</small>
+II. Tener veintiún años cumplidos al día de la elección;
 
-II. Tener 21 años cumplidos el día de la elección.
+III. Ser nativo de Jalisco o avecindado legalmente en el Estado, cuando menos dos años inmediatos anteriores al día de la elección. La vecindad no se pierde por ausencia debida al desempeño de cargos públicos de elección popular, ni en defensa de la patria y de sus instituciones;
 
-III. Ser nativo de Jalisco o avecindado legalmente en él cuando menos dos años inmediatamente anteriores al día de la elección. La vecindad no se pierde por ausencia en el desempeño de cargos públicos de elección popular, ni en defensa de la Patria y de sus instituciones.
+IV. No estar en servicio activo en el Ejército Nacional, ni tener mando en la policía o en cuerpo de seguridad pública en el distrito en que se pretenda su elección, cuando menos noventa días antes de ella;
 
-IV. No estar en ejercicio activo en el Ejército Nacional ni tener mando en la Policía o Gendarmería del Distrito en que se pretenda su elección, cuando menos noventa días antes de ella.
+V. No ser Secretario de Gobierno o quien haga sus veces, Magistrado del Supremo Tribunal de Justicia o del Tribunal de lo Contencioso Administrativo, a menos que se separe de sus funciones noventa días antes de la elección;
 
-V. No ser Secretario de Gobierno o quien haga sus veces ni Magistrado del Supremo Tribunal de Justicia, a menos que se separe de sus funciones noventa días antes de la elección.
+VI. No ser Magistrado del Tribunal de lo Contencioso Electoral, a menos que se separe de sus funciones 180 días antes de la elección;
 
-VI. No ser Juez, Secretario de Juzgado, Presidente Municipal, Secretario del Ayuntamiento, Empleado de Rentas o Inspector del Timbre, en el Distrito en que se pretenda su elección, a menos que se hubiere separado de su cargo en los términos que previene la fracción anterior.
+VII. No ser integrante de los organismos electorales, a menos que se separe de sus funciones noventa días antes de la elección;
+
+VIII. No ser Juez, Secretario de Juzgado, Presidente Municipal, Secretario de Ayuntamiento, Recaudador de Rentas o Jefe de Oficina Federal de Hacienda en el distrito en que pretenda su elección, a menos que se separe de su cargo en los términos que previene la fracción anterior;
+
+IX. No estar comprendido en alguno de los impedimentos que señalan los párrafos segundo y tercero del Art. 11 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 1987)</small>
 
 ## Título Segundo
 
@@ -145,45 +171,29 @@ VI. No ser Juez, Secretario de Juzgado, Presidente Municipal, Secretario del Ayu
 
 ###### Art. 11.
 
-Los Diputados son inviolables por la manifestación de sus ideas y del ejercicio de sus funciones.
+Los Diputados son inviolables por la manifestación de sus ideas en el ejercicio de sus funciones y nunca podrán ser reconvenidos por ellas.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1961)</small>
+Los Diputados no podrán ser reelectos para el periodo inmediato.
+
+Los Diputados Suplentes sólo podrán ser electos para el período inmediato con el carácter de propietarios siempre que no hubiesen estado en ejercicio; pero los Diputados Propietarios no podrán ser electos para el periodo inmediato con el carácter de Suplentes.
+
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 1987)</small>
 
 ### CAPITULO SEGUNDO. De la iniciativa y formación de las Leyes
 
 ###### Art. 12.
 
-El Congreso se instalará cada tres años, el día primero de febrero posterior a la elección.
+El Congreso del Estado se instalará cada tres años, el día quince de marzo del año de la elección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 1987)</small>
 
 ### CAPITULO TERCERO. De las facultades del Congreso
 
 ###### Art. 13.
 
-El Congreso tendrá cada año dos períodos ordinarios de sesiones, uno durará del primer sábado de febrero al día último de marzo y el otro comprenderá del 1o. de septiembre al 31 de diciembre.
+El Congreso tendrá cada año dos períodos ordinarios de sesiones; uno durará del tercer sábado de marzo al treinta y uno de mayo y el otro comprenderá del primero de septiembre al treinta y uno de diciembre.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1971)</small>
-
-En el primer periodo se ocupará preferentemente:
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1971)</small>
-
-Del examen y aprobación de las cuentas públicas del año anterior, tanto del Estado como de los Municipios.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1971)</small>
-
-En el segundo período se ocupará preferentemente:
-
-I. Del examen, discusión y aprobación del Presupuesto de Egresos del Estado correspondiente al año fiscal y decretará los impuestos necesarios para cubrirlo.
-
-II. Del examen, discusión y aprobación de los presupuestos de ingresos de los Municipios.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1971)</small>
-
-En ambos períodos ordinarios el Congreso se ocupará además, de estudiar, discutir y votar las iniciativas de Ley que se presenten y de resolver los demás asuntos que le corresponden conforme a esta Constitución.
-
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 1932)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 1987)</small>
 
 ## Título Tercero
 
@@ -191,7 +201,7 @@ En ambos períodos ordinarios el Congreso se ocupará además, de estudiar, disc
 
 ###### Art. 14.
 
-El Congreso, fuera de los períodos que señala el artículo anterior, celebrará sesiones extraordinarias sólo cuando fuere convocado al efecto por el Ejecutivo, en los términos del artículo 35 fracción XVI, o por la Comisión Permanente, en los casos de la fracción IX del artículo 23; debiendo ocuparse en ellas sólo de los asuntos para los cuales se haya hecho la convocatoria.
+El Congreso, fuera de las fechas que señala el artículo anterior, celebrará periodos o sesiones extraordinarias, cuando fuere convocado al efecto por el Ejecutivo, o por la Diputación Permanente, debiendo ocuparse en ellos sólo de los asuntos para los cuales se haya hecho la convocatoria.
 
 ###### Art. 15.
 
@@ -281,11 +291,17 @@ V. Crear y suprimir los empleos públicos.
 
 VI. Dar bases para que el Ejecutivo pueda celebrar empréstitos sobre el crédito del Estado, con las limitaciones que establece la fracción VIII del artículo 117 de la Constitución Federal; aprobar los contratos respectivos y reconocer y mandar pagar las deudas que contraiga el Estado.
 
-VII. Hacer el escrutinio de los votos emitidos en la elección de Gobernador; calificar dicha elección y declarar electo al que haya obtenido mayoría.
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 1987)</small>
+
+VII. Erigirse en Colegio Electoral, para efectuar el cómputo de los votos emitidos en la elección de munícipes para integrar los Ayuntamientos de la Entidad, incluyendo la asignación de los Regidores de Representación proporcional; asimismo, el cómputo de los votos emitidos en la elección de Gobernador; calificar dichas elecciones y declarar electos a los que hayan obtenido mayoría.
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 1983)</small>
 
 VIII. Aprobar o rechazar los nombramientos de Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo del Estado que hiciere el Ejecutivo de la Entidad; y, en su caso, designarlos dentro de las ternas que éste le proponga.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 1987)</small>
+
+Designar de entre las listas que hubiesen presentado los partidos políticos registrados, a los Magistrados del Tribunal de lo Contencioso Electoral.
 
 IX. Designar en los términos que previene esta Constitución al ciudadano que deba substituir al Gobernador en sus faltas temporales o absolutas.
 
@@ -293,13 +309,13 @@ IX. Designar en los términos que previene esta Constitución al ciudadano que d
 
 X. Convocar a elecciones extraordinarias cuando fuere necesario y decidir conforme a sus atribuciones.
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1983)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 1987)</small>
 
-XI. Conocer de las renuncias de los Diputados, del Gobernador, de los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo del Estado, que hayan sido previamente aceptadas por el Ejecutivo;
+XI. Conocer de las renuncias de los Diputados; del Gobernador; de los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo del Estado, que hayan sido previamente aceptadas por el Ejecutivo; así como de las presentadas por los Magistrados del Tribunal de lo Contencioso Electoral.
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1983)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 1987)</small>
 
-XII. Otorgar licencias a los Diputados y al Gobernador para separarse de sus cargos, y además, a éste último, para permanecer fuera del territorio del Estado. Conocer de las licencias que, por más de dos meses, conceda el Ejecutivo a los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo del Estado;
+XII. Otorgar licencias a los Diputados y al Gobernador para separarse de sus cargos, y además, a éste último, para permanecer fuera del territorio del Estado. Conocer de las licencias que, por más de dos meses, conceda el Ejecutivo a los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Electoral.
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 1983)</small>
 
@@ -341,11 +357,15 @@ I. Conceder las licencias y permisos a que se refiere la Fracción XII del Artí
 
 II. Dictaminar sobre los negocios que en las últimas sesiones ordinarias hayan quedado pendientes y sobre los que después se presenten, para dar cuenta al Congreso;
 
-III. Convocar al Congreso a sesiones extraordinarias, en los casos de denuncia de grave responsabilidad de servidores públicos; en los que deba ejercer el Congreso sus funciones de Colegio Electoral; para la designación de Gobernador; en los que haya de aprobar o rechazar los nombramientos de Magistrados que expida el Ejecutivo, y en los que tenga que convocar a elecciones extraordinarias;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 1987)</small>
+
+III. Convocar al Congreso a Periodos Extraordinarios; así como a sesiones extraordinarias en los casos de denuncia de grave responsabilidad de servidores públicos; en los que deba ejercer el Congreso sus funciones de Colegio Electoral; para la designación de Gobernador; en los que haya de aprobar o rechazar los nombramientos de Magistrados que expida el Ejecutivo; y en los que tenga que convocar a elecciones extraordinarias;
 
 IV. Llamar a los Suplentes de la misma Diputación para cubrir las faltas absolutas o temporales de los propietarios;
 
-V. Recibir los expedientes electorales relativos a la elección de Diputados y Gobernador, para el solo efecto de entregarlos a la Junta Preparatoria Electoral del Congreso o a éste;
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 1987)</small>
+
+V. Recibir los expedientes electorales relativos a la elección de Diputados, Gobernador, Presidente, Vicepresidente y Regidores de los Ayuntamientos de la Entidad, para el solo efecto de entregarlos a la Junta Preparatoria Electoral del Congreso, o a éste;
 
 VI. Instalar las Juntas Preparatorias del nuevo Congreso; y
 
@@ -369,7 +389,7 @@ IV. No estar en servicio activo en el Ejército Nacional, ni en las fuerzas del 
 
 V. No ser Secretario de Gobierno o quien haga sus veces, a no ser que se separe del cargo cuando menos noventa días antes de la elección.
 
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1947)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 1987)</small>
 
 ### CAPITULO SEGUNDO
 
@@ -379,15 +399,13 @@ De las Facultades y Obligaciones del Gobernador.
 
 ###### Art. 28.
 
-El Gobernador entrará a ejercer su encargo el primer día de marzo posterior a su elección, durará en él seis años y nunca podrá ser reelecto.
+El Gobernador entrará a ejercer su encargo el día primero de abril del año de la elección; durará seis años y nunca podrá ser reelecto, ni volverá a ocupar ese cargo, aún con el carácter de interino, provisional, substituto o encargado del despacho.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1983)</small>
+El Gobernador cuyo origen sea la elección popular extraordinaria, estará sujeto a las mismas prohibiciones señaladas en la parte final del párrafo anterior.
 
-El ciudadano que haya desempeñado el Poder Ejecutivo como Gobernador substituto o interino, no podrá ser electo para el período inmediato, debiéndose estar en todo caso a lo dispuesto por el Art. 115 de la Constitución General de la República.
+La elección de Gobernador será directa y en los términos que disponga la Ley Electoral.
 
-En caso de que el substituto funcione por licencia concedida al Gobernador, no quedará impedido para ser electo en el período inmediato, siempre que no estuviere en el desempeño del cargo, noventa días antes de celebrarse la elección.
-
-La elección del Gobernador será directa y en los términos que disponga la Ley Electoral.
+El ciudadano que haya desempeñado el Poder Ejecutivo como Gobernador Substituto Constitucional o el designado para concluir el periodo en caso de falta absoluta del Constitucional, aun cuando tenga distinta denominación; el interino, el provisional o el que bajo cualquiera denominación supla las faltas temporales del Gobernador, nunca podrá ser electo para el periodo inmediato siempre que desempeñe el cargo dentro de los dos últimos años del periodo.
 
 > <small>(REFORMADO, P.O. 25 DE MARZO DE 1939)</small>
 
@@ -399,9 +417,11 @@ En las faltas temporales que excedan de quince días y en las absolutas, mientra
 
 Cuando la falta absoluta del Gobernador ocurriere en el último año del período constitucional, no se convocará a elecciones extraordinarias, sino que la persona que desempeñe el Poder Ejecutivo por designación de la Legislatura, seguirá encargada de él, hasta la conclusión del período.
 
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 1987)</small>
+
 ###### Art. 30.
 
-Si al comenzar un periodo constitucional, no se presentare el Gobernador o la elección no estuviere hecha y declarado el 1º de marzo, cesará sin embargo el Gobernador cuyo periodo hubiere concluido, y entonces, así como en las faltas repentinas, se encargará desde luego del Poder Ejecutivo en Calidad de Gobernador Interino, el Magistrado que estuviere desempeñando la Presidencia del Supremo Tribunal de Justicia, mientras se hace la designación de que se habla en el artículo anterior y se presenta el designado.
+Si al comenzar un periodo constitucional la elección no se hubiera verificado o calificado; no se hubiere declarado electo al Gobernador o éste no se presentare el primero de abril, cesará el Gobernador cuyo periodo hubiese concluido y desde luego se encargará del Poder Ejecutivo en calidad de Gobernador Interino, el ciudadano que designe el Congreso, mientras se hace la elección correspondiente.
 
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 1950)</small>
 
@@ -511,9 +531,21 @@ Es base de la división territorial y de la organización política y administra
 
 I. Cada Municipio será administrado por un Ayuntamiento de elección popular directa que residirá en la Cabecera de la Municipalidad y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-Los Presidentes y Vice-presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, elegidos popularmente por elección directa, en los términos de las Leyes respectivas, no podrán ser reelectos para el periodo inmediato. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el periodo inmediato. Todos los servidores públicos antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el periodo inmediato con el carácter de suplentes; pero los que tengan el carácter de suplentes sí podrán ser electos para el periodo inmediato como propietarios, a menos que hayan estado en ejercicio.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 1987)</small>
 
-Los Ayuntamientos se integrarán con Munícipes electos popular y directamente, según los principios de mayoría relativa y de representación proporcional, en los términos de la Ley de la materia. Los Munícipes durarán en su cargo tres años y se renovarán en su totalidad al final de cada periodo. Los Ayuntamientos admitirán las renuncias y concederán las licencias que soliciten sus miembros.
+Los Ayuntamientos se integrarán con munícipes electos popular y directamente, según los principios de mayoría relativa y de representación proporcional, en los términos de la Ley de la materia. Los munícipes durarán en su cargo tres años, a partir del día treinta y uno de marzo del año de la elección y se renovarán en su totalidad al final de cada periodo. Los Ayuntamientos admitirán las renuncias, y concederán las licencias que soliciten sus miembros.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 1987)</small>
+
+Son requisitos para ser Presidente, Vicepresidente y Regidor de los Ayuntamientos de la Entidad:
+
+a) Ser ciudadano mexicano;
+
+b) Ser nativo de Jalisco o residente del Municipio o zona conurbada correspondiente, cuando menos dos años inmediatos anteriores al día de la elección. La residencia no se pierde por ausencia debida al desempeño de cargos públicos de elección popular, ni en defensa de la patria y de sus instituciones;
+
+c) Estar en pleno ejercicio de sus derechos;
+
+d) No ser servidor público de la Federación, el Estado o Municipios de que se trate, ni tener mando de fuerza pública en el mismo, a no ser que se separe del cargo sesenta días antes de la elección. Si se trata del Tesorero Municipal, es preciso que haya rendido sus cuentas a la Contaduría Mayor de Hacienda.
 
 El Congreso, por acuerdo de las dos terceras partes de sus integrantes, podrá declarar que los Ayuntamientos se han desintegrado y suspender o revocar el mandado a algunos de sus miembros, por cualquiera de las causas graves que las leyes prevengan, previo el derecho de audiencia y defensa correspondiente. Si no procediere que entraren en funciones los suplentes, ni que se celebren nuevas elecciones, el Congreso designará entre los vecinos a los Consejos Municipales que concluirán los periodos respectivos.
 
@@ -889,6 +921,18 @@ Art. 2º El actual Poder Legislativo, durará hasta el 31 de enero de 1919; el E
 
 Art. 3º El actual período de sesiones continuará con el carácter de ordinario hasta que el Congreso tenga a bien clausurarlo.
 
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 1987)</small>
+
+Art. 4º La LII Legislatura del Congreso del Estado, se instalará el primero de febrero de 1989 mil novecientos ochenta y nueve y los Diputados que la integren durarán en sus funciones del citado día al catorce de marzo de mil novecientos noventa y dos.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 1987)</small>
+
+Art. 5º El Gobernador del Estado que se elija para el próximo periodo constitucional, tomará posesión de su encargo el primero de marzo de mil novecientos ochenta y nueve y durará en él hasta el día último de marzo de mil novecientos noventa y cinco.
+
+> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 1987)</small>
+
+Art. 6º Los Munícipes que se elijan para integrar la siguiente administración de los Ayuntamientos de la Entidad, iniciarán sus funciones el primero de enero de mil novecientos ochenta y nueve y durarán en su encargo hasta el día treinta de marzo de mil novecientos noventa y dos.
+
 Dado en el Salón de sesiones del Congreso del Estado, a ocho de julio de mil novecientos diecisiete.
 
 Firmados: Presidente, M. Bouquet Jr., Diputado por el Primer Distrito.- Vice-Presidente, Carlos Galindo, Diputado por el 5o. Distrito.- V.L. Velarde, Diputado por el 4o. Distrito.- Ramón Delgado, Diputado por el 6o. Distrito.- J.W. Torres, Diputado por el 7o. Distrito.- Tomás Morán, Diputado por el 9o.- Distrito. Jesús Camarena, Diputado por el 10o. Distrito.- Ambrosio Ulloa, Diputado por el 11o. Distrito.- Marcos Guzmán, Diputado por el 12o. Distrito.- Fausto Ulloa, Diputado por el 13o. Distrito.- Pedro Alarcón, Diputado por el 15o. Distrito.- Sebastián Allende, Diputado por el 16o. Distrito.- Secretario, J. Guadalupe Rubalcava, Diputado por el 3er. Distrito.- Secretario, Julián Villaseñor Mejía, Diputado por el 14o. Distrito.
@@ -1058,3 +1102,7 @@ Tercero.- Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 15 DE NOVIEMBRE DE 1984.
 
 Unico.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial el Estado de Jalisco, incluyendo la declaratoria a que se refiere el Art. 66 de la Constitución Política del estado de Jalisco.
+
+P.O. 17 DE OCTUBRE DE 1987.
+
+Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
