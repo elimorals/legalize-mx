@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-deuda-publica-del-estado-de-san-luis-potosi-13904"
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-18"
-last_updated: "1999-03-18"
+last_updated: "2002-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 2002.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de marzo de 1999.
 
@@ -75,15 +75,19 @@ I. La suscripción de títulos de crédito o de cualquier otro documento pagader
 
 II. La adquisición de bienes o la contratación de obras o servicios cuyo pago se pacte a plazos superiores a seis meses o con vencimiento posterior al cierre del ejercicio fiscal de la contratación;
 
-III. La emisión y colocación de valores bursátiles diversos, mediante los cuales el Gobierno del Estado capte recursos públicos para financiar proyectos productivos y autorrecuperables;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2002)</small>
+
+III. La emisión y colocación de valores, títulos de crédito y demás documentos mencionados en la Ley del Mercado de Valores que conforme a su naturaleza tenga permitido emitir, los que serán inscritos en la Sección de Valores del Registro Nacional de Valores e Intermediarios, y se cotizarán en la Bolsa Mexicana de Valores, S.A. de C. V., mediante los cuales se capten recursos financieros para el Estado y se optimicen los ya existentes;
 
 IV. Todas las operaciones de endeudamiento que comprendan obligaciones a plazos, así como obligaciones de exigibilidad contingente derivadas de actos jurídicos, independientemente de la forma en que se les documente, y
 
 V. Los pasivos contingentes relacionados con los actos mencionados en las fracciones anteriores.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 5º.
 
-No se entenderán como deuda pública estatal los financiamientos directos con la banca comercial a corto plazo que contrate el Poder Ejecutivo o las dependencias y entidades de la administración pública estatal y municipal, enunciadas en el artículo 2o. del presente ordenamiento, para solventar necesidades temporales de flujo de caja, cuyos vencimientos y liquidación efectivamente se realicen, sin excepción, en el mismo ejercicio fiscal, y no excedan del término del período constitucional que les corresponda.
+No se entenderán como deuda pública estatal, los financiamientos directos con la banca de desarrollo y la comercial a corto plazo, que contrate el Poder Ejecutivo o las dependencias y entidades de la administración pública estatal y municipal, enunciadas en el artículo 2º del presente ordenamiento, para solventar necesidades temporales de flujo de caja, cuyos vencimientos y liquidación efectivamente se realicen sin excepción, en el mismo ejercicio fiscal, y no excedan del término del período constitucional que les corresponda.
 
 La Secretaría de Finanzas será la única dependencia del Poder Ejecutivo del Estado, facultada para autorizar la contratación de deuda de corto plazo a las dependencias y entidades de la administración pública estatal señaladas en el artículo 2o. de esta Ley.
 
@@ -269,17 +273,27 @@ Las dependencias y entidades señaladas en las fracciones II a IV del artículo 
 
 Deberán, además, proporcionar a la Contraloría General del Estado la información necesaria para llevar a cabo la vigilancia que le compete respecto a la aplicación de recursos provenientes de empréstitos o financiamientos.
 
-### CAPITULO V. DE LOS MECANISMOS DE GARANTIA DE PAGO DE LA DEUDA PUBLICA ESTATAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE FEBRERO DE 2002)</small>
+
+### CAPITULO V. DE LOS MECANISMOS DE GARANTIA Y FUENTE DE PAGO DE LA DEUDA PUBLICA ESTATAL CON CARGO A PARTICIPACIONES
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 21.
 
-En caso de incumplimiento de las obligaciones crediticias contraidas por las dependencias y entidades señaladas en el artículo 2o. de esta Ley, los mecanismos de garantía de pago serán los siguientes:
+Para garantizar o realizar el pago de las obligaciones crediticias contraídas por las dependencias y entidades señaladas en el artículo 2º de esta Ley con cargo a participaciones, los mecanismos de garantía y fuente de pago serán los siguientes:
 
 > <small>(F. DE E., P.O. 6 DE SEPTIEMBRE DE 1999)</small>
 
 I. El contrato de mandato, mediante el cual, previa autorización del Congreso del Estado, el Poder Ejecutivo, como mandante, conviene con el Gobierno Federal, como mandatario el pago de obligaciones vencidas con cargo a sus participaciones, y
 
-II. El contrato de fideicomiso, mediante el cual el Poder Ejecutivo, previa autorización del Congreso del Estado, fideicomite sus participaciones para cubrir obligaciones vencidas con la banca.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2002)</small>
+
+II. El contrato de fideicomiso, mediante el cual el Poder Ejecutivo, previa autorización del Congreso del Estado, fideicomite irrevocablemente un porcentaje determinado de los derechos sobre participaciones presentes y futuras para garantizar y/o realizar el pago de cualquier operación financiera de deuda pública, de las previstas en el artículo 4°. de la presente Ley, y
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2002)</small>
+
+III. Cualquier otro que el Congreso del Estado autorice expresamente de acuerdo al contenido de la presente Ley, la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado.
 
 ## TRANSITORIOS
 
@@ -308,3 +322,11 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. JUAN CARLOS BARRON CERDA.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE FEBRERO DE 2002.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
