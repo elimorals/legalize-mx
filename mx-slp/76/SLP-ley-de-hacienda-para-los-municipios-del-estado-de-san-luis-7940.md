@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-del-estado-de-san-luis-7940
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-01"
-last_updated: "1995-12-29"
+last_updated: "1996-01-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 1996.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de San Luis Potosí, el 1o. de enero de 1988.
 
@@ -325,7 +325,17 @@ b).- Las mejoras y construcciones permanentes.
 
 III.- La propiedad o concesión de plantas de beneficio y establecimientos metalúrgicos.
 
-IV.- La propiedad ejidal y comunal.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1996)</small>
+
+IV.- La propiedad ejidal o comunal en cualquiera de sus modalidades.
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 1996)</small>
+
+V.- La propiedad ejidal derivada de la asignación individual de parcelas y sobre derechos de las tierras de uso común, en los términos de la Ley Agraria, y
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 1996)</small>
+
+VI.- La propiedad o posesión de solares urbanos en áreas ejidales no serán objeto de este impuesto en su primera titulación, entendiéndose por primera titulación, aquella que se haga con motivo del "Programa de Certificación de Derechos Ejidales y Titulación de Solares Urbanos", a favor de las personas físicas o morales, en los términos de la Ley Agraria.
 
 DE LOS CONTRIBUYENTES
 
@@ -349,9 +359,21 @@ IV.- Los ejidatarios.
 
 V.- Los comuneros.
 
-VI.- Los fideicomitentes, mientras el fiduciario no transmita la propiedad del predio al fideicomisario o a terceras personas en ejecución del fideicomiso o de los fideicomisarios que estén en posesión del predio o predios fideicometidos, aún cuando no se les haya transmitido la propiedad.
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 1996)</small>
 
-VII.- Los dueños o concesionarios de plantas de beneficio y establecimientos metalúrgicos.
+VI.- Los propietarios o poseedores de predios rústicos, cuya propiedad o posesión se haya derivado directamente de la asignación individual que al titular de derechos agrarios haga la asamblea en su modalidad de parcela individual y derechos sobre la zona de uso común.
+
+(LA ANTERIOR FRACCION VI PASA A SER LA FRACCION VII, P.O. 24 DE ENERO DE 1996)
+
+VII.- Los fideicomitentes mientras el fiduciario no transmita la propiedad del predio al fideicomisario o a terceras personas en ejecución del fideicomiso o de los fideicomisarios que estén en posesión del predio o predios fideicometidos, aún cuando no se les haya transmitido la propiedad.
+
+(LA ANTERIOR FRACCION VII PASA A SER LA FRACCION VII, P.O. 24 DE ENERO DE 1996)
+
+VIII.- Los dueños o concesionarios de plantas de beneficio y establecimientos metalúrgicos.
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 1996)</small>
+
+IX.- No son sujetos de este impuesto, los propietarios o poseedores de predios urbanos cuyo reconocimiento se haya derivado del "Programa de Certificación de Derechos Ejidales y Titulación de Solares Urbanos", en los términos de la Ley Agraria.
 
 DE LA BASE Y DE LAS TASAS
 
@@ -470,6 +492,10 @@ X.- La enajenación a través de fideicomisos, en los términos del Código Fisc
 XI.- La división de copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía del porciento que le correspondía al copropietario o cónyuge; y
 
 XII.- En las permutas se considerará que se efectúan dos adquisiciones.
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 1996)</small>
+
+XIII.- La primera asignación o titulación que se derive del "Programa de Certificación de Derechos Ejidales y Titulación de Solares Urbanos", en los términos de la Ley Agraria, no son sujetos de este impuesto.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -1474,3 +1500,9 @@ UNICO.- No se pagará el impuesto establecido en esta Ley en las adquisiciones d
 P.O. 29 DE DICIEMBRE DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor el día 1o. de enero de 1996.
+
+P.O. 24 DE ENERO DE 1996.
+
+PRIMERO.- Para efecto de las presentes reformas son causantes de los impuestos que la ley determine, el propietario originario y el adquiriente, que realice la traslación de dominio de solares urbanos, parcela individual en dominio pleno en cualquier forma comercial, o los derechos reales sobre las tierras de uso común, aportados a sociedades mercantiles.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
