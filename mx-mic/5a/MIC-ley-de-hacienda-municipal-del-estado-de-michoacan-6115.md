@@ -1,0 +1,1468 @@
+---
+title: "LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN"
+identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-6115"
+country: "mx"
+rank: "ley"
+publication_date: "1983-12-31"
+last_updated: "1983-12-31"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6115&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-mic"
+scjn_id: "6115"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "18 SECCION II"
+reform_count: "22"
+scjn_last_update: "2014-12-25"
+issue_date: "1983-12-30"
+state: "MIC"
+---
+# LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
+
+LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
+
+TEXTO ORIGINAL.
+
+Ley publicada en Sección Segunda del Periódico Oficial del Estado de Michoacán, el sábado 31 de diciembre de 1983.
+
+CUAUHTEMOC CARDENAS SOLORZANO, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
+
+El H. Congreso del Estado, se ha servido dirigirme el siguiente DECRETO:
+
+EL CONGRESO DE MICHOACAN DE OCAMPO DECRETA:
+
+NUMERO 67
+
+LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
+
+## TITULO PRIMERO. PRINCIPIOS GENERALES
+
+### CAPITULO UNICO
+
+###### ARTICULO 1o.
+
+La Hacienda Pública de los Municipios del Estado de Michoacán, para cubrir los gastos de su administración y demás obligaciones a su cargo, percibirá en cada ejercicio fiscal los ingresos por concepto de impuestos, derechos, contribuciones especiales, productos y aprovechamientos que anualmente establezcan las leyes fiscales correspondientes, así como las participaciones en ingresos Federales y Estatales.
+
+###### ARTICULO 2o.
+
+Los ingresos fiscales que se establecen en este ordenamiento se regularán por lo que el mismo señale y en todo lo no previsto, se aplicará supletoriamente el Código Fiscal Municipal del Estado de Michoacán.
+
+La Ley de Ingresos que anualmente expide el Congreso del Estado, como ordenamiento especial, priva sobre el contenido de esta Ley.
+
+## TITULO SEGUNDO. DE LOS IMPUESTOS
+
+### CAPITULO I. DEL IMPUESTO PREDIAL
+
+#### Sección Primera. Del Objeto
+
+###### ARTICULO 3o.
+
+Es objeto de este impuesto:
+
+I.- La propiedad o copropiedad de predios rústicos, urbanos y las construcciones adheridas a ellos;
+
+II.- Los derechos sobre la propiedad o posesión de terrenos ejidales o comunales y de parcelamiento, en los términos de la legislación agraria federal, así como la posesión de construcciones permanentes en zonas urbanas, ejidales o comunales;
+
+III.- La posesión de predios rústicos o urbanos y las construcciones adheridas a ellos;
+
+IV.- Cuando por cualquier título se tenga la concesión, uso o goce de predios rústicos o urbanos del dominio del Estado, Municipio o de la Federación;
+
+V.- El usufructo, y
+
+VI.- La propiedad o concesión de plantas de beneficio y establecimientos mineros o metalúrgicos, en los términos de la Legislación Federal de la materia, comprendiendo:
+
+a) El terreno.
+
+b) Las mejoras o construcciones.
+
+c) Los equipos industriales, maquinarias e instalaciones.
+
+#### Sección Segunda. De los Sujetos
+
+###### ARTICULO 4o.
+
+Son sujetos de este impuesto:
+
+I.- Los propietarios, copropietarios y condóminos de predios;
+
+II.- Los fideicomitentes y los fideicomisarios, según el caso;
+
+III.- Los titulares de los derechos de propiedad o de posesión de los predios fideicomitidos;
+
+IV.- Los titulares de derechos agrarios sobre la propiedad ejidal o comunal de conformidad con la Legislación Agraria Federal, así como los poseedores de construcciones permanentes en zonas urbanas ejidales o comunales;
+
+V.- Los poseedores que por cualquier título tengan la concesión, uso o goce de predios del dominio del Estado, de sus Municipios o de la Federación;
+
+VI.- Los usufructuarios, y
+
+VII.- Los propietarios de empresas mineras o metalúrgicas, en los términos de la Legislación Federal de la materia.
+
+###### ARTICULO 5o.
+
+Son solidariamente responsables del pago del Impuesto Predial:
+
+I.- Los promitentes vendedores, quienes vendan con reserva de dominio o sujetos a condición;
+
+II.- Los nudo propietarios;
+
+III.- Los fiduciarios respecto de los bienes sujetos a fideicomiso;
+
+IV.- Los concesionarios, o quienes no siendo propietarios, tengan la explotación de las empresas mineras o metalúrgicas;
+
+V.- Los adquirentes de predios en relación al impuesto y sus accesorios insolutos a la fecha de la adquisición; en todo caso los predios quedarán preferentemente afectos al pago del impuesto y sus accesorios, independientemente de quien detenta la propiedad o posesión de los mismos, y
+
+VI.- Los funcionarios y empleados públicos que autoricen algún acto jurídico o dén trámite a algún documento, sin que se esté al corriente en el pago de este impuesto y sus accesorios, independientemente de las sanciones en su contra.
+
+#### Sección Tercera. De la Base
+
+###### ARTICULO 6o.
+
+La base de este impuesto será la siguiente:
+
+I.- Tratándose de predios urbanos o rústicos, el mayor de los siguientes:
+
+a) El valor catastral;
+
+b) El valor de la operación de transmisión de dominio o posesión, si es posterior al señalamiento del valor catastral.
+
+c) En ausencia del valor catastral, el valor del avalúo que al efecto ordene la Tesorería del Municipio donde se encuentre ubicado el predio, con base en la Ley de Catastro del Estado.
+
+II.- Tratándose de condominios, la Tesorería Municipal determinará el valor catastral que le corresponderá a cada apartamento, vivienda o local y éste entrará en vigor a partir del bimestre siguiente a la fecha en que se haya autorizado preventivamente la escritura de constitución del condominio. Si este se constituye sin estar terminadas las construcciones, el impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que los construyeron.
+
+En estos casos la base se aplicará a cada uno de los apartamentos, viviendas o locales a partir del bimestre siguiente a la fecha de la terminación de los mismos o de la fecha en que sean ocupados sin estar terminados, y cada uno se empadronará por separado.
+
+###### ARTICULO 7o.
+
+Los avalúos practicados conforme a las disposiciones de la Ley de Catastro del Estado, servirán de base para el cobro de este impuesto, a partir del bimestre siguiente a la fecha de su notificación.
+
+###### ARTICULO 8o.
+
+En los casos en que no sea posible determinar el valor catastral de los predios, se estará a lo dispuesto por la Ley de Catastro del Estado.
+
+###### ARTICULO 9o.
+
+La nueva base surtirá efectos:
+
+I.- A partir del bimestre siguiente a aquel en que se produzca el hecho, acto o contrato que le dé origen.
+
+II.- A partir del bimestre siguiente al en que se notifique el nuevo avalúo, cuando éste sea efectuado por haber transcurrido el plazo de tres años, y
+
+III.- Tratándose de expropiación o de nacionalización de predios, el impuesto dejará de causarse en la fecha en que las entidades públicas correspondientes tomen posesión material de dichos predios. Si la expropiación o nacionalización quedan sin efecto, el impuesto se causará nuevamente a partir de la fecha en que los predios sean entregados a sus propietarios o poseedores.
+
+#### Sección Cuarta. De la Tasa
+
+###### ARTICULO 10.
+
+Este impuesto se causará y pagará conforme a las tasas que fije la Ley de Ingresos para los Municipios del Estado de Michoacán.
+
+###### ARTICULO 11.
+
+La tasa de este impuesto se modificará cuando:
+
+I.- Se realice alguna de las causas que establece la Ley de Catastro para practicar nuevo avalúo;
+
+II.- Por cualquier circunstancia el predio sufra demérito superior al 25% del valor catastral o registrado;
+
+III.- La base con que esté tributando el propietario o poseedor de un predio sea inferior al valor real del mismo, y
+
+IV.- Con motivo de la aplicación de los valores unitarios vigentes, se practique un avalúo y el valor que resulte sea inferior; la Tesorería Municipal tiene la facultad para realizar un nuevo avalúo que se acerque más al valor real.
+
+###### ARTICULO 12.
+
+En los casos de predios urbanos que la Ley de Catastro del Estado clasifica como no edificados, con servicio de agua, electricidad y drenaje por alguna de sus colindancias, entre tanto conserven esa calidad, no se enajenen o establezcan en ellos alguna industria o comercio que necesite área total para su desarrollo, la tasa que le corresponda se incrementará en un 20% por cada año natural, con el cual continuará hasta en tanto subsistan las condiciones que lo originaron o hasta el 100% de incremento.
+
+Los efectos de este artículo no serán aplicables:
+
+I.- A los predios que vendan los fraccionamientos debidamente autorizados, en tanto no sean recibidos por el Municipio;
+
+II.- Los predios no edificados que formen parte de una unidad comercial o industrial;
+
+III.- Predios que no rebasen la superficie de 300 metros cuadrados;
+
+IV.- Predios rústicos no edificados, y
+
+V.- Los predios que formen parte de escuelas o clubes deportivos.
+
+###### ARTICULO 13.
+
+La progresividad de la tasa del 20% a que se refiere el artículo anterior, se aplicará al inicio del siguiente año de calendario de aquel en que se efectuó la adquisición del predio.
+
+###### ARTICULO 14.
+
+La progresividad de la tasa en los casos de terrenos baldíos propiedad de fraccionamientos, se aplicará a partir de siguiente año de la fecha en que se entregue al Municipio, por los lotes que aún pertenezcan al fraccionador.
+
+###### ARTICULO 15.
+
+La progresividad de la tasa, a que se refiere el artículo 9o. de esta Ley, se interrumpirá:
+
+I.- Cuando el predio haya sido edificado;
+
+II.- Cuando se enajene el predio, y
+
+III.- Cuando en el predio se establezca una industria o comercio que requiera el área total para su actividad.
+
+En este caso se aplicará únicamente la tasa que señale la Ley de Ingresos.
+
+#### Sección Quinta. Del Pago
+
+###### ARTICULO 16.
+
+La Tesorería Municipal deberá determinar el monto del impuesto, de conformidad con las respectivas bases, tasas o cuotas que al efecto establezca la Ley de Ingresos.
+
+###### ARTICULO 17.
+
+La cuota del impuesto es anual y se dividirá en seis partes iguales que se liquidarán bimestralmente en los meses de enero, marzo, mayo, julio, septiembre y noviembre.
+
+###### ARTICULO 18.
+
+Los pagos podrán hacerse por anualidad anticipada en los meses de enero y febrero sin que ello impida el cobro de diferencias que deban hacerse, por cambio del valor catastral o de la tasa del impuesto.
+
+En el caso de la cuota mínima del impuesto que señala la Ley de Ingresos, su pago deberá hacerse en una sola exhibición en los meses de enero y febrero de cada año.
+
+###### ARTICULO 19.
+
+Tratándose de cementerios, el impuesto a pagar durante el año, se liquidará sobre el valor catastral de la parte que no hubiese sido enajenada, durante el mes de enero del ejercicio de que se trate. En el mismo período, los sujetos de este impuesto manifestarán la superficie o gavetas que hubieran vendido el año anterior.
+
+###### ARTICULO 20.
+
+El pago de este impuesto deberá efectuarse en la Tesorería Municipal de la jurisdicción correspondiente, o donde en su caso, lo disponga la Ley de Ingresos.
+
+###### ARTICULO 21.
+
+La Tesorería Municipal tendrá acción real para el cobro de este impuesto y de las prestaciones accesorias del mismo.
+
+En consecuencia, el procedimiento administrativo de ejecución, que establece el Código Fiscal, afectará a los predios directamente, cualquiera que sea el propietario o poseedor.
+
+En esta disposición, no quedan comprendidas las mutas (sic) que se impongan cuando se incurra en infracciones al presente Capítulo, pues dichas sanciones se considerarán personales para todos los efectos legales.
+
+###### ARTICULO 22.
+
+Los Notarios Públicos no podrán autorizar, en forma definitiva, escrituras en que se hagan constar contratos o resoluciones judiciales o administrativas, cuyo objeto sea la transmisión de la propiedad, la posesión o derechos reales sobre predios ubicados en el Estado, mientras no se les exhiba constancia expedida por las Tesorerías Municipales donde se ubique el predio de no adeudo de este impuesto.
+
+Las constancias de no adeudo que se expidan a los Notarios Públicos, tendrán vigencia hasta la fecha de pago del impuesto que en ellas se mencione.
+
+Los Notarios deberán dar aviso a la Tesorería Municipal correspondiente, cuando los predios de que se trata, reporten adeudos fiscales por conceptos distintos de este impuesto.
+
+###### ARTICULO 23.
+
+En los casos de predios no empadronados en la Tesorería Municipal respectiva, de construcciones o ampliaciones que no hayan sido manifestados oportunamente conforme a la Ley de Catastro, se cobrará la cuenta corriente del impuesto más cinco años anteriores, salvo que el interesado pruebe que tales hechos o actos datan de fecha posterior, en cuyo caso el recobro del impuesto se hará a partir de esta fecha en adelante, sin perjuicio de aplicar la sanción que determine el Código Fiscal Municipal.
+
+###### ARTICULO 24.
+
+Toda estipulación privada relativa al pago de este impuesto, que se oponga a lo dispuesto en el presente Capítulo, se tendrá como inexistente jurídicamente y, por tanto, no producirá efecto legal alguno.
+
+#### Sección Sexta. De las Exenciones
+
+###### ARTICULO 25.
+
+Están exentos del pago de este impuesto los bienes inmuebles sobre los que la Federación, el Estado o los Municipios tengan la propiedad o la posesión.
+
+#### Sección Séptima. De las Definiciones
+
+###### ARTICULO 26.
+
+Para los efectos de este impuesto, se estará a las definiciones previstas en el Capítulo I de la Ley de Catastro del Estado.
+
+#### Sección Octava. De las Obligaciones, Manifestaciones y Avisos
+
+###### ARTICULO 27.
+
+Las manifestaciones y avisos de los particulares y Notarios Públicos, que exigen esta Ley y los Ordenamientos relativos, para efectos de este impuesto, deberán hacerse en las formas oficiales que apruebe la Tesorería Municipal y se presentarán en las propias Tesorerías donde esté ubicado el predio.
+
+###### ARTICULO 28.
+
+Las personas obligadas a presentar las manifestaciones y avisos a que se refiere el artículo anterior, deberán expresar todos los datos y acompañarán los documentos o planos que se exijan en las formas oficiales.
+
+###### ARTICULO 29.
+
+Cuando en las manifestaciones o avisos exigidos, no se expresen los datos o no se acompañen los documentos o planos también requeridos, las autoridades fiscales darán un plazo de quince días para que se corrija la omisión que se contará a partir de la fecha en que los interesados reciban el requerimiento.
+
+Si transcurre dicho plazo y no se expresan los datos o no se presentan los documentos o planos a que se refiere el párrafo anterior, la Tesorería Municipal no tomará en cuenta las manifestaciones o avisos, sin perjuicio de imponer al infractor las sanciones que procedan.
+
+###### ARTICULO 30.
+
+Las manifestaciones a que alude este Capítulo y la Ley de Catastro del Estado, respecto de contratos de compraventa o cualesquiera otros transmitivos de dominio, resoluciones administrativas o judiciales, deberán presentarse dentro de los quince días siguientes a la fecha o fechas en que firmaron la escritura los otorgantes o la persona o personas elegidas por ellos, los testigos e intérpretes, si los hubiere, de la celebración del contrato privado; de la fecha en que haya quedado firme la resolución administrativa o judicial, o de la fecha del documento de que se trate.
+
+También se considerarán comprendidas en este artículo las manifestaciones de división o fusión de predios en que no se opere transmisión de dominio alguno, porque las porciones del predio dividido no salgan del dominio del propietario o porque los predios fusionados sean de un solo propietario. Los Notarios Públicos que autoricen dichas escrituras tendrán obligación de manifestar también esos contratos, resoluciones o actos a la Tesorería Municipal correspondiente al lugar donde se ubique el predio, dentro del mismo término que establece el párrafo anterior, pudiendo emplear para este efecto, la manifestación que formulen en relación con el impuesto sobre Transmisión de Dominio y otras operaciones con bienes inmuebles.
+
+###### ARTICULO 31.
+
+Los sujetos de este impuesto estarán obligados a manifestar a la Tesorería Municipal correspondiente los cambios de domicilio, dentro de los quince días siguientes a aquel en que se efectúen.
+
+Si no lo hicieren, se tendrá como domicilio, para los efectos de este Capítulo, el que hubieren señalado anteriormente o, en su defecto, el predio mismo.
+
+#### Sección Novena. Del Impuesto Predial Ejidal y Comunal
+
+###### ARTICULO 32.
+
+El Impuesto Predial de las tierras ejidales se sujetará a las siguientes bases:
+
+I.- Cuando haya parcelamiento ejidal de la tierra, provisional o definitivo, el impuesto lo cubrirá individualmente cada ejidatario. Si no hay parcelamiento, el impuesto será pagado por el núcleo de población, y por lo mismo, obliga a todos los ejidatarios que lo forman;
+
+II.- Tratándose de posesiones provisionales, los ejidatarios pagarán en el primer año, el 25% del Impuesto Predial que les corresponda; y en los subsecuentes el Impuesto aumentará en un 10% cada año, hasta alcanzar la cuota total, o hasta que se ejecute la resolución presidencial, de acuerdo con los avisos que dén las autoridades agrarias;
+
+III.- Las sociedades, agrupaciones, empresas o personas que exploten bosques de comunidades agrarias o de sociedades cooperativas agrícolas, están obligadas a exhibir a las autoridades fiscales las guías, contratos o documentos que sean necesarios para definir el Impuesto Predial Ejidal que corresponda al fisco municipal y para calcular el monto del impuesto de dichas comunidades; en la inteligencia de que el valor de esta tributación predial, no será determinado sobre la base de contratos de arrendamiento, sino sobre el producto total que se obtenga. De no exhibir esos documentos serán sancionados de conformidad con el Código Fiscal vigente.
+
+###### ARTICULO 33.
+
+El Impuesto Predial de los bienes comunales se sujetará a las disposiciones contenidas en la Sección anterior de este Capítulo, en cuanto sean aplicables.
+
+###### ARTICULO 34.
+
+El Impuesto Predial será depositado por cada ejidatario, en la Tesorería del Comisariado Ejidal, la que de inmediato concentrará el importe de dicho impuesto en la Tesorería Municipal que corresponda, recabando los recibos oficiales respectivos.
+
+#### Sección Décima. Disposiciones Generales
+
+###### ARTICULO 35.
+
+Las resoluciones de la Tesorería Municipal dictadas en relación con este impuesto, podrán ser recurridas o impugnadas en su caso, en la forma y términos señalados por el Código Fiscal Municipal.
+
+###### ARTICULO 36.
+
+Las autoridades judiciales o administrativas previamente al remate de inmuebles, recabarán de la Tesorería Municipal respectiva un informe sobre los créditos fiscales que con motivo de tal inmueble se hayan originado hasta la fecha de la subasta.
+
+Si de tal informe apareciere algún crédito fiscal insoluto, la autoridad retendrá del producto del remate la cantidad suficiente a cubrirlo, remitiéndola inmediatamente a la Tesorería Municipal, para que ésta extienda y envíe el recibo oficial correspondiente, que será entregado al adquirente del inmueble.
+
+#### Sección Décima Primera. De las Infracciones y Sanciones
+
+###### ARTICULO 37.
+
+Las infracciones al presente Capítulo serán sancionadas de conformidad con lo previsto por el Código Fiscal Municipal.
+
+### CAPITULO II. IMPUESTO SOBRE TRANSMISION DE DOMINIO DE BIENES INMUEBLES
+
+#### Sección Primera. Del Objeto
+
+###### ARTICULO 38.
+
+Es objeto de este impuesto todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades.
+
+###### ARTICULO 39.
+
+El impuesto sobre Transmisión de dominio de bienes inmuebles se causa por:
+
+I.- La compraventa en la que el vendedor se reserva el dominio, aún cuando la transferencia de éste opere con posterioridad;
+
+II.- La promesa de adquirir, cuando se pacte que el futuro vendedor recibirá el precio de la venta o parte de él, antes de que se celebre el contrato prometido;
+
+III.- La cesión de derechos del comprador o futuro comprador en los casos de las fracciones I y II que anteceden, respectivamente;
+
+IV.- La fusión de sociedades;
+
+V.- La dación en pago y la diquidación (sic), la reducción del capital, pago en especie de remanentes, utilidades o derivados de asociaciones o sociedades civiles o mercantiles;
+
+VI.- Constitución de usufructo, trasmisión de éste o de la nuda propiedad, así como de la extinción del usufructo temporal;
+
+VII.- Resoluciones judiciales o administrativas;
+
+VIII.- Prescripción positiva;
+
+IX. La cesión de derechos del heredero o legatario, cuando entre los bienes de la sucesión haya inmuebles, en la parte relativa y en proporción a éstos, y
+
+X.- Por adjudicación de la propiedad de bienes inmuebles en virtud de remate judicial o administrativo.
+
+En las permutas se considerará que se efectúan dos adquisiciones.
+
+#### Sección Segunda. De los Sujetos y Responsables Solidarios
+
+###### ARTICULO 40.
+
+Están obligados al pago del impuesto sobre Transmisión de Dominio de Bienes Inmuebles, las personas físicas o morales que adquieran inmuebles que consistan en el suelo, o en el suelo y las construcciones adheridas a él ubicadas en el territorio del Estado, así como los derechos relacionados con los mismos inmuebles.
+
+###### ARTICULO 41.
+
+Son solidariamente responsables del pago de este impuesto, los siguientes:
+
+I.- Los transmitentes, cuando el adquirente lo haya eludido;
+
+II.- Los notarios públicos, corredores y demás funcionarios encargados de llevar la fé pública, cuando autoricen algún documento que sea objeto del impuesto sin cerciorarse de haberse efectuado el pago correspondiente a la Tesorería Municipal donde se encuentre ubicado el predio, y
+
+III.- Los demás funcionarios y empleados que inscriban o registren esta clase de documentos sin comprobar estar al corriente en este gravamen.
+
+#### Sección Tercera. De la Base
+
+###### ARTICULO 42.
+
+La base gravable del Impuesto se determinará reduciendo cinco veces el salario mínimo general elevado al año, de la zona económica donde se encuentre ubicado el predio, al valor que resulte mayor entre el del avalúo practicado por perito autorizado, el consignado en el acto transmitivo de dominio, o el catastral registrado.
+
+La base gravable del impuesto cuando se transmita la nuda propiedad de un predio será el 50% del valor correspondiente. El 50% restante será la base gravable al transmitirse el usufructo.
+
+###### ARTICULO 43.
+
+Para efectuar la reducción a que se refiere el artículo anterior, se aplicará el salario mínimo correspondiente al año de calendario en que se esté en los supuestos de pago del impuesto a que se refiere el artículo 46 de esta Ley.
+
+La reducción se realizará conforme a lo siguiente:
+
+I.- Se consideran como un sólo inmueble los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de 24 meses. De la suma de los valores de los predios únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición.
+
+Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte.
+
+II.- Cuando se adquiera parte de la propiedad o de los derechos de un predio a que se refiere el artículo 38 de este Capítulo, la reducción se hará en la proporción que corresponda a dicha parte del inmueble;
+
+III.- Tratándose del usufructo o de la nuda propiedad únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos, y
+
+IV.- Cuando del predio formen parte departamentos habitacionales, la reducción se hará por cada uno de ellos. Lo dispuesto en esta fracción no es aplicable a hoteles.
+
+###### ARTICULO 44.
+
+Los avalúos a que se refiere el artículo 42 de esta Ley, serán practicados por peritos que designe la autoridad competente, y no podrán tener una antigüedad mayor de un año de la fecha de formulación.
+
+Dichos avalúos deberán comprender los valores tanto del terreno como de las construcciones y demás accesorios que tuviere en su caso.
+
+#### Sección Cuarta. De las Declaraciones y Pago del Impuesto
+
+###### ARTICULO 45.
+
+Los sujetos de este impuesto lo enterarán mediante declaración que presentarán en los tantos requeridos, en la Tesorería Municipal que corresponda al municipio en donde se encuentre el inmueble de que se trate, la que contendrá los datos que exija la forma oficial autorizada para tal efecto:
+
+I.- Nombres y domicilios de los contratantes o del adquirente, en su caso;
+
+II.- Fecha en que se extendió la escritura ante notario, de la celebración del contrato privado o de la resolución judicial, y en este último caso, fecha en que se causo ejecutoria;
+
+III.- Nombre del notario ante quien se haya extendido la escritura, mención de que se trata de contrato privado o indicación del juzgado que dictó la resolución;
+
+IV.- Naturaleza del acto o concepto de la adquisición;
+
+V.- Ubicación, nomenclatura, superficie y linderos del predio;
+
+VI.- Antecedentes de propiedad del inmueble en el Registro Público de la Propiedad;
+
+VII.- Número de la cuenta del impuesto predial del inmueble, y
+
+VIII.- Los demás datos que exija la forma oficial en que deberán hacerse las declaraciones.
+
+Si en el acto o contrato transmitivo de dominio se hace constar en escritura otorgada en el Estado, la declaración será firmada por el notario o por cualquier interesado. En este último caso el notario certificará en la declaración la veracidad de los datos que contenga.
+
+Si se trata de actos o contratos que se hagan constar en escritura otorgada fuera del Estado, la declaración será firmada por cualquier interesado, y a ella se acompañará testimonio de la escritura.
+
+Cuando se trate de actos o contratos que se hagan constar en documento privado, la declaración será firmada por cualquier interesado, y a ella deberá acompañar una copia cotejada del contrato privado.
+
+En los casos en que la transmisión de la propiedad se opere como consecuencia de una resolución judicial, el contribuyente firmará la declaración y acompañará copia certificada de la resolución respectiva, con la constancia de la fecha en que causó ejecutoria.
+
+A la declaración deberá acompañarse, además de los documentos señalados en los párrafos anteriores, en sus respectivos casos, una constancia que expida la oficina recaudadora correspondiente de que el propietario del inmueble objeto de la transmisión de dominio no tiene ningún adeudo en relación con el propio inmueble.
+
+Cuando lo estime necesario, la Tesorería Municipal podrá solicitar de los notarios públicos o de los declarantes, que le proporcionen una copia autorizada de la escritura en que se hubiera hecho constar la transmisión de dominio de que se trate.
+
+###### ARTICULO 46.
+
+Las declaraciones a que se refiere el artículo anterior, se presentarán en las formas oficiales que apruebe la Tesorería Municipal, dentro de un plazo de quince días hábiles, contados a partir de la fecha de la autorización preventiva o de firma de los contratantes de la escritura pública o del contrato privado en su caso. Tratándose de la adquisición de la propiedad de bienes inmuebles por resolución judicial o administrativas, el plazo se contará a partir de la fecha en que se hubiere causado ejecutoria la resolución judicial.
+
+###### ARTICULO 47.
+
+El pago del impuesto deberá hacerse en el mismo plazo establecido para la presentación de las declaraciones, aplicando al valor base gravable la tasa que fije la Ley de Ingresos vigente.
+
+El pago extemporáneo del impuesto de que se trata, causará recargos por falta de pago oportuno en los términos que señala el Código Fiscal Municipal.
+
+###### ARTICULO 48.
+
+En los contratos celebrados fuera del Estado, pero en la República, en relación con predios ubicados en territorio del Estado de Michoacán, causarán el impuesto a que se refiere este Capítulo, exceptuándose únicamente lo relacionado al plazo para la presentación de declaraciones y pago, que será de treinta días hábiles, contados a partir de las fechas en que se den los supuestos señalados en los artículos 46 y 47 de esta Sección.
+
+#### Sección Quinta. De las Exenciones
+
+###### ARTICULO 49.
+
+Están exentos del pago de este impuesto, las adquisiciones de bienes inmuebles que realicen los Gobiernos Federales, Estatal o Municipales.
+
+#### Sección Sexta. Disposiciones Generales
+
+###### ARTICULO 50.
+
+Las transmisiones de Dominio de bienes inmuebles que se hagan constar en escritura pública o privada, los Notarios, Jueces, Corredores y demás Fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto de que se trata bajo su estricta responsabilidad, conforme lo dispuesto en este Capítulo.
+
+Los Fedatarios no podrán autorizar definitivamente ninguna escritura en la que hagan constar actos o contratos transmitivos de dominio de bienes inmuebles, si no han obtenido la constancia de no adeudo a que se refiere el artículo 45 de esta Ley y el avalúo correspondiente. Tampoco podrán autorizar definitivamente ninguna escritura en la que se hagan constar esta clase de actos o contratos, mientras los interesados no les entreguen en (sic) comprobante de pago del impuesto que establece este Capítulo.
+
+En los testimonios que los Fedatarios expidan de escrituras públicas o privadas relativas a actos o contratos transmitivos de dominio, deberán hacer constar el número de recibo oficial del pago del impuesto sobre Transmisión de Dominio de bienes inmuebles, así como el importe del mismo y la fecha de expedición.
+
+###### ARTICULO 51.
+
+El encargado de la oficina del Registro Público de la Propiedad Raíz no inscribirá ningún acto, contrato o documento transmitivo de dominio de bienes inmuebles mientras no les sea exhibido el comprobante de pago del impuesto que establece este Capítulo.
+
+En los casos de nuda propiedad, la oficina del Registro Público de la Propiedad no podrá cancelar la inscripción del usufructo, si no se le comprueba previamente que se pagó la diferencia del impuesto a que se refiere el artículo 42 de esta Ley.
+
+###### ARTICULO 52.
+
+En cualquier tiempo el Fisco Municipal a través de sus Tesorerías, podrán seguir el procedimiento administrativo de ejecución para hacer efectivo el adeudo que resulte sobre este impuesto en bienes inmuebles de que se trate.
+
+#### Sección Séptima. De las Infracciones y Sanciones
+
+###### ARTICULO 53.
+
+Las infracciones a las disposiciones del presente capítulo, se sancionarán conforme a lo dispuesto por el Código Fiscal Municipal.
+
+### CAPITULO III. IMPUESTO ADICIONAL PARA CARRETERAS Y CONSTRUCCION DE EDIFICIOS ESCOLARES
+
+#### Sección Primera. Del Objeto
+
+###### ARTICULO 54.
+
+Es objeto de esta contribución todo impuesto a la propiedad inmobiliaria, con las excepciones que esta Ley establece.
+
+#### Sección Segunda. De los Sujetos
+
+###### ARTICULO 55.
+
+Son sujetos de este impuesto, las personas físicas o morales que realicen pagos por los conceptos a que se refiere el artículo anterior.
+
+#### Sección Tercera. De la Base y de la Tasa
+
+###### ARTICULO 56.
+
+La base de este impuesto es el importe de los gravámenes a la propiedad inmobiliaria.
+
+###### ARTICULO 57.
+
+El impuesto se causará conforme a la tasa que señale la Ley de Ingresos y se hará efectivo en el momento de pagar los créditos mencionados en el artículo anterior, sobre la cantidad que se entere con carácter definitivo o en garantía de aquellos.
+
+#### Sección Cuarta. De las Exenciones
+
+###### ARTICULO 58.
+
+Queda exentos del pago de este impuesto, los siguientes conceptos:
+
+I.- Impuesto Predial Ejidal, y
+
+II.- Impuesto sobre Transmisión de Dominio de Bienes Inmuebles.
+
+### CAPITULO IV. DEL IMPUESTO SOBRE INSTRUMENTOS PUBLICOS O PRIVADOS
+
+#### Sección Primera. Del Objeto
+
+###### ARTICULO 59.
+
+Es objeto del impuesto sobre Instrumentos Públicos o Privados, todo documentos (sic) que protocolicen o autoricen los Notarios Públicos o Jueces Receptores en el Estado de Michoacán;
+
+###### ARTICULO 60.
+
+Los Instrumentos Públicos o Privados autorizados fuera del Estado, en que se consigne operaciones de compraventa, causarán el impuesto que señala esta Ley en favor del Municipio en que deba surtir sus efectos, y el encargado del Registro Público de la Propiedad Raíz en el Estado, no registrará dicho instrumento si no se le comprueba haberse pagado dicho gravamen.
+
+#### Sección Segunda. De los Sujetos
+
+#### Sección Tercera. De la Base
+
+###### ARTICULO 61.
+
+Están obligados al pago de este impuesto, las personas físicas o morales que transmitan la propiedad de algún inmueble ubicado dentro del territorio de los Municipios del Estado de Michoacán. El adquirente será responsable solidario del pago del impuesto, cuando aquéllas lo hayan eludido.
+
+#### Sección Cuarta. Del Pago
+
+###### ARTICULO 62.
+
+Responderán solidariamente del pago de este impuesto los Notarios o Jueces Receptores, cuando autoricen o protocolicen algún documento sin haberse cerciorado del correcto cumplimiento de esta obligación, debiendo insertar en los mismos documentos la constancia de pago correspondiente.
+
+Igual inserción se hará en los avisos respectivos en los casos de compraventa, hipoteca y en general en todos aquellos que impliquen alguna anotación catastral.
+
+###### ARTICULO 63.
+
+Los encargados de las oficinas recaudadoras del impuesto predial no practicarán anotación alguna en los libros del catastro si no se ha llenado el requisito contemplado en el artículo anterior. En los casos de escrituras autorizadas fuera del Estado, bastará la exhibición del recibo original de pago.
+
+#### Sección Quinta. De las Exenciones
+
+###### ARTICULO 64.
+
+Será base gravable de este Impuesto:
+
+I.- El valor del avalúo practicado por perito autorizado de conformidad con la Ley de Catastro del Estado;
+
+II.- El valor del avalúo que sirvió de base para el pago del impuesto sobre transmisión de dominio de bienes inmuebles;
+
+III.- El valor registrado en el catastro de la oficina recaudadora, y
+
+IV.- El valor de la operación consignado en el acto o contrato.
+
+Los avalúos deberán comprender tanto el terreno como la construcción que tuviere y sólo tendrán vigencia por un año, a partir de la fecha de formulación. En todo caso la base de este impuesto, será el valor más alto entre el avalúo bancario, avalúo de tesorería, valor catastral registrado o el que se consigne en el acto o documento.
+
+#### Sección Sexta. De las Infracciones y Sanciones
+
+###### ARTICULO 65.
+
+Para los efectos del pago de este impuesto, cada vez que los Notarios o Jueces Receptores protocolicen o autoricen algún instrumento, deberán extender una orden de entero en la que expresarán el valor más alto sobre el que debe calcularse el gravamen de referencia.
+
+El pago de este impuesto deberá hacerse en la Tesorería Municipal correspondiente al lugar donde se encuentre ubicado el predio materia de la operación.
+
+###### ARTICULO 66.
+
+Los Gobiernos Federal, Estatal o Municipales que transmitan o adquieran algún bien inmueble están exentos del pago de este impuesto.
+
+###### ARTICULO 67.
+
+Las infracciones a este capítulo se sancionarán de conformidad con las disposiciones del Código Fiscal Municipal.
+
+### CAPITULO V. IMPUESTO SOBRE LOTES BALDIOS SIN BARDEAR O FALTA DE BANQUETAS
+
+#### Sección Primera. Del Objeto
+
+###### ARTICULO 68.
+
+Son objeto de este impuesto, sobre lotes baldíos sin bardear o falta de banquetas, los terrenos, que carezcan en sus linderos a la vía pública de una cerca o tapía de adobe, ladrillo, material prefabricado u otros similares, de dos o más metros de altura, así como aquellos que no tengan banquetas o que teniéndola ésta se encuentre en mal estado, localizados dentro de la zona urbana de los Municipios del Estado.
+
+#### Sección Segunda. De los Sujetos
+
+###### ARTICULO 69.
+
+Son sujetos de este impuesto, los propietarios o poseedores de lotes baldíos sin bardear o carentes de banquetas, o que existiendo éstas se encuentren en mal estado y que estén ubicados dentro de la zona urbana de los Municipios.
+
+#### Sección Tercera. De la Base
+
+###### ARTICULO 70.
+
+La base de este impuesto será cada metro lineal o fracción que permanezca en las condiciones especificadas en el artículo 68 de esta ley.
+
+#### Sección Cuarta. Del Pago
+
+###### ARTICULO 71.
+
+El pago de este impuesto será anual y se calculará aplicando la cuota o tarifa que señale la Ley de Ingresos correspondiente, el que deberá cubrirse durante los primeros quince días hábiles del mes que corresponda, en la Tesorería Municipal del lugar donde se encuentre el inmueble.
+
+#### Sección Quinta. De las Infracciones y Sanciones
+
+###### ARTICULO 72.
+
+Las infracciones al presente Capítulo se sancionarán de conformidad con las disposiciones contenidas en el Código Fiscal Municipal.
+
+### CAPITULO VI. DEL IMPUESTO SOBRE LA AUTORIZACION DE HORARIO EXTRAORDINARIO A ESTABLECIMIENTOS QUE REALICEN ACTIVIDADES COMERCIALES
+
+#### Sección Primera. Del Objeto
+
+###### ARTICULO 73.
+
+Es objeto de este impuesto, la autorización otorgada por el Ayuntamiento para funcionamiento de establecimientos fuera del horario establecido en el Reglamento Municipal respectivo.
+
+#### Sección Segunda. De los Sujetos
+
+###### ARTICULO 74.
+
+Son sujetos de este impuesto, las personas físicas o morales que obtengan autorización para funcionar sus establecimientos en horas extraordinarias.
+
+###### ARTICULO 75.
+
+No son sujetos de este impuesto, los propietarios de los siguientes establecimientos:
+
+I.- Agencias de Inhumaciones;
+
+II.- Boticas, Farmacias y Droguerías;
+
+III.- Estacionamientos y Pensiones para Automóviles;
+
+IV.- Estaciones de Radio y Televisión;
+
+V.- Gasolinerías;
+
+VI.- Hospitales, Sanatorios, Clínicas, Laboratorios, y
+
+VII.- Hoteles, Moteles y Casas de Huéspedes.
+
+#### Sección Tercera. De la Base y del Pago del Impuesto
+
+###### ARTICULO 76.
+
+Los sujetos de este impuesto lo cubrirán en la Tesorería Municipal correspondiente en el momento de solicitar la autorización de horario extraordinario, de conformidad con la tarifa que determine la Ley de Ingresos, de acuerdo con la categoría del giro.
+
+#### Sección Cuarta. De las Infracciones y Sanciones
+
+###### ARTICULO 77.
+
+Las infracciones a las disposiciones de este Capítulo se sancionarán de acuerdo con el Código Fiscal Municipal.
+
+### CAPITULO VII. DEL IMPUESTO SOBRE RIFAS, LOTERIAS, CONCURSOS O SORTEOS
+
+#### Sección Primera. Del Objeto
+
+###### ARTICULO 78.
+
+Es objeto de este impuesto, la celebración de rifas, loterías, concursos o sorteos que se realicen en la jurisdicción de los Municipios del Estado de Michoacán.
+
+#### Sección Segunda. De los Sujetos
+
+###### ARTICULO 79.
+
+Son sujetos de este impuesto, las personas físicas o morales que realicen cualquier actividad especificada en el artículo anterior.
+
+#### Sección Tercera. De la Base
+
+###### ARTICULO 80.
+
+Será base de este impuesto, el valor comercial de los premios y se recaudará aplicando la tasa o tarifa que determine la Ley de Ingresos Municipal respectiva.
+
+#### Sección Cuarta. Del Pago
+
+###### ARTICULO 81.
+
+Este impuesto se cubrirá en la Tesorería Municipal correspondiente al lugar donde se celebre el evento, cuando menos cinco días antes de que se efectúe la rifa, sorteo, lotería o concurso.
+
+En caso de que celebrada la actividad gravada no se haya cubierto el impuesto en los términos de este artículo, el Tesorero Municipal deberá ordenar la retención del o los premios, declarándolos como garantía de pago del crédito fiscal, sin perjuicio de aplicar el procedimiento administrativo de ejecución.
+
+#### Sección Quinta. De las Infracciones y Sanciones
+
+###### ARTICULO 82.
+
+Las infracciones al presente Capítulo se sancionarán de conformidad con las disposiciones del Código Fiscal Municipal.
+
+## TITULO TERCERO. DE LOS DERECHOS
+
+### CAPITULO I. POR OCUPACION DE LA VIA PUBLICA Y SERVICIO DE MERCADOS
+
+#### Sección Primera. Del Objeto
+
+###### ARTICULO 83.
+
+Es objeto de este derecho, el uso u ocupación de la vía pública, interior o exterior de los mercados, calles, jardines, plazas, portales u otros lugares del dominio municipal.
+
+#### Sección Segunda. De los Sujetos
+
+###### ARTICULO 84.
+
+Son sujetos de este derecho, las personas físicas o morales que ocupan locales o sitios en el interior o exterior de los mercados, calles, jardines, plazas, portales o cualquier otro sitio similar para transacciones comerciales, con puestos fijos, semifijos, accidentales, para estacionamientos de vehículos, así como los que hagan uso de la vía pública con materiales de construcción, andamios, escombros y otros objetos.
+
+#### Sección Tercera. De la Base y Pago del Derecho
+
+###### ARTICULO 85.
+
+Este derecho se causará y pagará como lo señale la Ley de Ingresos vigente, tomando en cuenta la importancia de la población y zona comercial.
+
+###### ARTICULO 86.
+
+El derecho de servicio de mercados se recaudará mediante boletos que contengan el valor autorizado por la Contaduría General de Glosa, debiéndose formular liquidación mensual independientemente de la liquidación diaria del cobrador del ramo; acompañándose ambas liquidaciones a la cuenta correspondiente.
+
+#### Sección Cuarta. De las Infracciones y Sanciones
+
+###### ARTICULO 87.
+
+Las infracciones a este derecho se sancionarán de acuerdo con las disposiciones del Código Fiscal Municipal.
+
+### CAPITULO II. POR ALINEAMIENTO O DEMOLICION DE FINCAS URBANAS O RUSTICAS
+
+#### Sección Primera. Del Objeto
+
+###### ARTICULO 88.
+
+Es objeto de este derecho, el otorgamiento de la licencia de alineamiento o demolición de fincas urbanas o rústicas, que se encuentren situadas dentro de la jurisdicción de los Municipios del Estado de Michoacán.
+
+#### Sección Segunda. De los Sujetos
+
+###### ARTICULO 89.
+
+Son sujetos de este derecho los propietarios o poseedores de fincas urbanas o rústicas a quienes se otorgue licencia, por parte del Ayuntamiento, para alineamiento o demolición de sus inmuebles.
+
+#### Sección Tercera. De la Base y Pago del Derecho
+
+###### ARTICULO 90.
+
+Los sujetos de este derecho lo cubrirán en la Tesorería Municipal correspondiente al lugar donde se ubique el inmueble, en el momento de obtener la licencia y conforme lo señale la Ley de Ingresos Municipal.
+
+#### Sección Cuarta. De las Infracciones y Sanciones
+
+###### ARTICULO 91.
+
+Las infracciones al presente Capítulo se sancionarán conforme a lo dispuesto por el Código Fiscal Municipal.
+
+### CAPITULO III. POR LICENCIAS DE CONSTRUCCION, REPARACION O RESTAURACION DE FINCAS
+
+#### Sección Primera. Del Objeto
+
+###### ARTICULO 92.
+
+Es objeto de este derecho, el otorgamiento por parte del Ayuntamiento, de licencias de construcción, reparación o restauración de fincas que se encuentran situadas dentro de la jurisdicción de los Municipios del Estado de Michoacán.
+
+#### Sección Segunda. De los Sujetos
+
+###### ARTICULO 93.
+
+Son sujetos de este derecho, los propietarios o poseedores de fincas a quienes se otorgue licencia de construcción, reparación o restauración de sus bienes inmuebles.
+
+#### Sección Tercera. Del Pago del Derecho
+
+###### ARTICULO 94.
+
+El pago de este derecho, se cubrirá en la Tesorería Municipal correspondiente al lugar donde se localiza el bien en el momento de la autorización respectiva conforme a la tarifa que fije la Ley de Ingresos Municipal.
+
+#### Sección Cuarta. De las Infracciones y Sanciones
+
+###### ARTICULO 95.
+
+Las infracciones a las disposiciones del presente Capítulo se sancionarán conforme a lo dispuesto por el Código Fiscal Municipal.
+
+### CAPITULO IV. POR NUMERACION DE FINCAS URBANAS
+
+#### Sección Primera. Del Objeto
+
+###### ARTICULO 96.
+
+Es objeto de este derecho, la colocación de placas numeradas por el Ayuntamiento a fincas urbanas ubicadas dentro de la jurisdicción municipal, para su debida identificación.
+
+#### Sección Segunda. De los Sujetos
+
+###### ARTICULO 97.
+
+Son sujetos de este derecho, los propietarios o poseedores de fincas que se ubiquen dentro de las zonas urbanas de los municipios, a las cuales se les coloque por parte del Ayuntamiento placas numeradas para su identificación.
+
+#### Sección Tercera. De la Base y Pago del Derecho
+
+###### ARTICULO 98.
+
+El derecho por numeración de fincas urbanas se determinará y cubrirá en la Tesorería Municipal que corresponda al lugar donde se ubique el inmueble conforme lo señale la Ley de Ingresos Municipal.
+
+#### Sección Cuarta. De las Infracciones y Sanciones
+
+###### ARTICULO 99.
+
+Las infracciones a este Capítulo se sancionarán conforme a lo dispuesto por el Código Fiscal Municipal.
+
+### CAPITULO V. POR SERVICIOS DE ALUMBRADO PUBLICO
+
+#### Sección Primera. De la Definición
+
+###### ARTICULO 100.
+
+Se entenderá por servicio de alumbrado público, el que el municipio otorga a través de sus contratantes a la comunidad, en calles, plazas, jardines y otros lugares de uso común.
+
+#### Sección Segunda. Del Objeto
+
+###### ARTICULO 101.
+
+Es objeto de este derecho el consumo de energía eléctrica en calles, plazas, jardines y otros lugares públicos de uso común, en los Municipios del Estado de Michoacán.
+
+#### Sección Tercera. De los Sujetos
+
+###### ARTICULO 102.
+
+Son sujetos de este derecho las personas físicas o morales, que han contratado o contraten servicio de energía eléctrica con la Comisión Federal de Electricidad o cualquier otra compañía de luz y fuerza.
+
+#### Sección Cuarta. De las Excepciones
+
+###### ARTICULO 103.
+
+No son sujetos de este derecho, las personas físicas o morales que han contratado o contraten servicios de energía eléctrica para operar bombas de agua potable o negras, molinos de nixtamal y para usos agrícolas.
+
+#### Sección Quinta. De la Base
+
+###### ARTICULO 104.
+
+Es base gravable de este derecho, el importe del consumo mensual o bimestral que se cubra a la Compañía o Empresa suministradora del servicio, aplicándose la tasa que determine la Ley de Ingresos Municipal.
+
+#### Sección Sexta. Del Pago del Derecho
+
+###### ARTICULO 105.
+
+El pago de este derecho, se hará a través de las Empresas suministradoras de energía eléctrica, quienes harán la retención correspondiente, consignando el cargo en los recibos que expidan por el consumo ordinario e informarán al Ayuntamiento de las recaudaciones respectivas.
+
+#### Sección Séptima. De las Infracciones y Sanciones
+
+###### ARTICULO 106.
+
+Las infracciones a este Capítulo se sancionarán conforme a lo dispuesto por el Código Fiscal Municipal.
+
+### CAPITULO VI. POR ABASTECIMIENTO DE AGUA POTABLE Y DRENAJE
+
+#### Sección Primera. De la Definición
+
+###### ARTICULO 107.
+
+Se entiende por servicio o abastecimiento de agua potable, la conducción del líquido de su fuente de origen hasta la toma domiciliaria.
+
+#### Sección Segunda. Del Objeto
+
+###### ARTICULO 108.
+
+Son objeto de este derecho todos los predios ubicados dentro de la jurisdicción de los Municipios del Estado de Michoacán, que están conectados o se conecten a la red de agua potable municipal o deban servirse de la misma.
+
+###### ARTICULO 109.
+
+No son objeto de este derecho las fincas propiedad de los Municipios y de los Gobiernos Federal y del Estado, destinados a servicios públicos.
+
+#### Sección Tercera. De los Sujetos
+
+###### ARTICULO 110.
+
+Son sujetos de este derecho los propietarios o poseedores de predios que disfruten de la prestación del servicio de agua potable.
+
+#### Sección Cuarta. Del Pago del Derecho
+
+###### ARTICULO 111.
+
+El consumo de agua potable se pagará mensual o bimestralmente en la oficina que corresponda, durante el período que señale el recibo y conforme a la tarifa que fije la Ley de Ingresos vigente.
+
+###### ARTICULO 112.
+
+Las instalaciones o reparaciones de los sistemas de conducción que se hagan fuera de las fincas o predios para conectarse con la red de distribución, serán por cuenta del propietario o poseedor.
+
+###### ARTICULO 113.
+
+Los propietarios o poseedores de fincas y predios no tendrán derecho a disminución o exención en el pago de las cuotas por servicios de agua potable por causas de escasez o falta accidental del líquido, a menos que ésta sea completa y dure más de treinta días consecutivos; al efecto el Presidente Municipal deberá expedir certificado que se acompañará a la cuenta mensual respectiva.
+
+#### Sección Quinta. De las Disposiciones Complementarias
+
+###### ARTICULO 114.
+
+El régimen y reparto de las aguas propiedad de los Municipios, quedan sujetos a las leyes y reglamentos respectivos.
+
+###### ARTICULO 115.
+
+Los Notarios Públicos y quienes hagan sus veces, ante quienes otorguen escrituras de compraventa de predios urbanos o urbanizados, tienen estricta obligación de comprobar en la Tesorería Municipal correspondiente y antes de autorizar los títulos, que el inmueble materia de la operación está al corriente en los derecho (sic) de aguas o que no se causen tales derechos y dar aviso a la misma dependencia, por escrito, dentro de los tres días siguientes a la fecha en que sean autorizados los instrumentos, dando a conocer los nombres del vendedor y comprador, número de la cuenta y descripción del predio, a efecto de que se haga el cambio respectivo. El encargado del Registro Público de la Propiedad tampoco procederá al registro de ninguna escritura si no se le comprueba que se han pagado los derechos de servicio de agua; aún cuando su administración esté encargada a una Junta operadora, como órgano descentralizado.
+
+###### ARTICULO 116.
+
+Tomando como base la tarifa asignada al usuario del servicio de agua potable, se agregará la cuota adicional que determina la Ley de Ingresos Municipal vigente, correspondiente a los derechos de drenaje y alcantarillado.
+
+#### Sección Sexta. De las Infracciones y Sanciones
+
+###### ARTICULO 117.
+
+Las infracciones al presente Capítulo se sancionarán conforme a lo dispuesto en el Código Fiscal Municipal.
+
+### CAPITULO VII. POR EXPEDICION, REVALIDACION Y CANJE DE PERMISOS O LICENCIAS
+
+#### Sección Primera. Del Objeto
+
+###### ARTICULO 118.
+
+Es objeto de este derecho la autorización de funcionamiento o refrendo que el Ayuntamiento otorgue a establecimientos, giros o actividades cuya reglamentación y vigencia corresponda a la autoridad Municipal.
+
+#### Sección Segunda. De los Sujetos
+
+###### ARTICULO 119.
+
+Son sujetos de este derecho, las personas físicas o morales que soliciten del Ayuntamiento la autorización señalada en el artículo anterior, y cuyos establecimientos se localicen dentro de la jurisdicción de los municipios del Estado de Michoacán.
+
+#### Sección Tercera. Del Pago del Derecho
+
+###### ARTICULO 120.
+
+El derecho por expedición, revalidación y canje de permisos o licencias de funcionamiento o refrendo que el Ayuntamiento otorgue, se pagará en la Tesorería Municipal correspondiente de conformidad con la tarifa que determine la Ley de Ingresos Municipal vigente.
+
+#### Sección Cuarta. De las Disposiciones Complementarias
+
+###### ARTICULO 121.
+
+Cualquier cambio o modificación de las características del establecimiento o negociación, deberá avisarse por escrito, a la Tesorería Municipal que corresponda, como sigue:
+
+I.- En caso de traspaso, con diez días de anticipación y no podrá efectuarse éste sin que previamente se compruebe que el establecimiento o negociación está al corriente en el pago de sus obligaciones fiscales;
+
+II.- En caso de cambio de nombre o razón social, con diez días de anticipación;
+
+III.- En caso de modificación del capital social, dentro de los diez días siguientes de aquel en que se efectúe;
+
+IV.- En caso de cambio de local, el aviso se dará con diez días de anticipación como mínimo, acompañándose de los certificados necesarios que expida la Presidencia Municipal, de que el nuevo local reúne los requisitos y condiciones necesarias para su objeto;
+
+V.- En caso de que se cambie el giro o actividad de la negociación o establecimiento, se considerará como apertura, y
+
+VI.- En caso de clausura, dentro de los siguientes veinte días.
+
+###### ARTICULO 122.
+
+Todas las licencias y permisos estarán sujetos a revalidación anual mediante el pago de los derechos correspondientes, previa solicitud del interesado.
+
+#### Sección Quinta. De las Infracciones y Sanciones
+
+###### ARTICULO 123.
+
+Las infracciones al presente Capítulo se sancionarán de conformidad con lo dispuesto por el Código Fiscal Municipal.
+
+### CAPITULO VIII. POR PROPAGANDA, PROMOCIONES COMERCIALES Y ANUNCIOS DE CUALQUIER CLASE
+
+#### Sección Primera. Del Objeto
+
+###### ARTICULO 124.
+
+Es objeto de este derecho el otorgamiento, por parte del Ayuntamiento, de licencia o autorización para fijar o distribuir propaganda, promover ventas de mercancías y colocar anuncios de todo tipo en cualquier lugar dentro de la jurisdicción de los Municipios del Estado de Michoacán.
+
+#### Sección Segunda. De los Sujetos
+
+###### ARTICULO 125.
+
+Son sujetos de este derecho las personas físicas o morales que obtengan licencias o autorización para fijar o distribuir propaganda, promover ventas de mercancías y colocar anuncios de todo tipo en cualquier lugar del Municipio, siendo solidariamente responsable del pago, los propietarios o poseedores de predios que ostenten dichos anuncios.
+
+#### Sección Tercera. Del Pago del Derecho
+
+###### ARTICULO 126.
+
+El pago de este derecho se cubrirá en la Tesorería Municipal que corresponda, conforme a la tarifa que fije la Ley de Ingresos vigente, en el momento de la expedición de la licencia o autorización por parte del Ayuntamiento.
+
+#### Sección Cuarta. De las Excepciones
+
+###### ARTICULO 127.
+
+Quedan exceptuados del pago de este derecho, las personas físicas o morales que distribuyan o fijen propaganda política o hagan anuncios oficiales.
+
+#### Sección Quinta. De las Infracciones y Sanciones
+
+###### ARTICULO 128.
+
+Las infracciones al presente Capítulo se sancionarán conforme las disposiciones del Código Fiscal Municipal.
+
+### CAPITULO IX. POR EXPEDICION DE CERTIFICADOS, TITULOS, COPIAS DE DOCUMENTOS Y LEGALIZACION DE FIRMAS
+
+#### Sección Primera. De la Definición
+
+###### ARTICULO 129.
+
+Se entiende por certificación la legalicación (sic) de documentos solicitados a los Ayuntamientos en los que se hagan constar hechos, situaciones jurídicas o civiles, relacionados con personas que habitual o accidentalmente han residido o residen dentro del territorio del Municipio.
+
+#### Sección Segunda. Del Objeto
+
+###### ARTICULO 130.
+
+Será objeto de los derechos a que se refiere este Capítulo, la expedición por parte de funcionarios o empleados del Municipio de toda clase de certificados, certificaciones, actas, legalizaciones y copias de documentos existentes en los archivos de las oficinas municipales.
+
+#### Sección Tercera. De los Sujetos
+
+###### ARTICULO 131.
+
+Son sujetos de este derecho las personas físicas o morales, que previa solicitud, se les expidan certificados, certificaciones, actas legalizaciones y copias de documentos existentes en los archivos de las oficinas municipales.
+
+#### Sección Cuarta. Del Pago del Derecho
+
+###### ARTICULO 132.
+
+El pago de este derecho deberá ser realizado por el contribuyente en la Tesorería Municipal correspondiente, antes de la prestación del servicio y de acuerdo con la tarifa que señale la Ley de Ingresos vigente. La falta de pago anticipado será razón suficiente para que el servicio solicitado no se proporcione.
+
+#### Sección Quinta. De la Legalidad
+
+###### ARTICULO 133.
+
+Los certificados, certificaciones, actas, legalización y copias de documentos que expidan los funcionarios o empleados del Municipio, contendrán la razón de pago de los derechos o de haber quedado exentos si así procediere, suscrita por el Jefe de la oficina que lo expida, sin cuyo requisito, no surtirá efectos legales.
+
+#### Sección Sexta. De las Excepciones
+
+###### ARTICULO 134.
+
+No causan derechos la expedición de certificados, certificaciones, actas, legalizaciones y copias de documentos, a solicitud de:
+
+I.- Los núcleos de población para asuntos ejidales o comunales;
+
+II.- Los trabajadores de alguna entidad pública para acreditar sus servicios o su buena conducta;
+
+III.- Los empleados fiscales de cualquier entidad pública, para acreditar la solvencia de sus fiadores;
+
+IV.- Las personas, para acreditar la clausura de algún establecimiento mercantil o industrial de su propiedad;
+
+V.- Los acusados, para que surtan sus efectos en los procesos penales que se les instruyan;
+
+VI.- Los interesados en asuntos electorales;
+
+VII.- Los obreros, para asuntos laborales, y
+
+VIII.- Los demás casos que señalen otras leyes.
+
+#### Sección Séptima. De las Infracciones y Sanciones
+
+###### ARTICULO 135.
+
+Las infracciones al presente Capítulo, se sancionarán conforme lo dispuesto por el Código Fiscal Municipal.
+
+### CAPITULO X. POR REGISTRO DE SEÑALES, MARCAS DE HERRAR Y REFRENDO DE PATENTES
+
+#### Sección Primera. Del Objeto
+
+###### ARTICULO 136.
+
+Es objeto de los derechos a que se refiere este Capítulo, el registro que se haga en el Municipio de los fierros y marcas de herrar, señales de sangre o constancia de identificación de ganado y refrendo de patentes.
+
+#### Sección Segunda. De los Sujetos
+
+###### ARTICULO 137.
+
+Son sujetos obligados al pago de los derechos del presente Capítulo, los propietarios de ganado vacuno, caballar, mular, asnal u avicaprino que deban registrar o refrendar las patentes de sus fierros, marcas de herrar, señales de sangre o constancia de identificación, en los Municipios del Estado de Michoacán.
+
+###### ARTICULO 138.
+
+El refrendo de patentes de señales y marcas de herrar, se hará durante los meses de enero y febrero de cada año en el Municipio donde se encuentren registradas las mismas.
+
+#### Sección Tercera. Del Pago del Derecho
+
+###### ARTICULO 139.
+
+El pago del derecho a que se refiere este Capítulo se efectuará en la Tesorería Municipal que corresponda, conforme a la tarifa que señale la Ley de Ingresos vigente.
+
+#### Sección Cuarta. De las Infracciones y Sanciones
+
+###### ARTICULO 140.
+
+Las infracciones al presente Capítulo se sancionarán conforme lo dispone el Código Fiscal Municipal.
+
+### CAPITULO XI. POR SERVICIO DE PANTEONES
+
+#### Sección Primera. Del Objeto
+
+###### ARTICULO 141.
+
+Es objeto de este derecho, la prestación de servicio de vigilancia, administración, limpieza, reglamentación y otros, de los predios propiedad del Ayuntamiento destinados a la inhumación de cadáveres, así como a la autorización para efectuar las inhumaciones.
+
+#### Sección Segunda. Del Pago del Derecho
+
+###### ARTICULO 142.
+
+El pago de los derechos por servicio de panteones se hará en la Tesorería Municipal que corresponda antes de la ejecución del servicio, conforme lo fije la Ley de Ingresos vigente.
+
+#### Sección Tercera. De las Excepciones
+
+###### ARTICULO 143.
+
+No causan derechos de inhumación las fosas a perpetuidad de cadáveres de funcionarios o empleados que a la fecha de su fallecimiento presten sus servicios al Estado o Municipio, o los hubiesen prestado por más de diez años.
+
+### CAPITULO XII. POR SERVICIO DE ABASTO
+
+#### Sección Primera. Del Objeto
+
+###### ARTICULO 144.
+
+Son objeto de los derechos a que se refiere este capítulo, la prestación de las servicios que se proporcionen en los rastros municipales, que se encuentren dentro de la jurisdicción de los municipios del Estado de Michoacán.
+
+#### Sección Segunda. De los Sujetos
+
+###### ARTICULO 145.
+
+Son sujetos de este derecho las personas físicas o morales que introduzcan ganado o aves a los rastros municipales para su sacrificio, sean o no introductores habituales y tengan o no expendios de carne para la venta al menudeo, o bien la destinen a su consumo propio.
+
+#### Sección Tercera. Del Pago del Derecho
+
+###### ARTICULO 146.
+
+El pago de estos derechos se cubrirá en la Tesorería Municipal que corresponda, al sacrificar los animales en los lugares en que se aplique la cuota por kilogramo, y en los lugares que sea cuota fija por cabeza de ganado o ave, se pagarán antes de efectuar el degüello, de conformidad con la tarifa que fije la Ley de Ingresos vigente.
+
+#### Sección Cuarta. De las Infracciones y Sanciones
+
+###### ARTICULO 147.
+
+Las infracciones al presente Capítulo se sancionarán conforme lo dispuesto por el Código Fiscal Municipal.
+
+### CAPITULO XIII. POR LICENCIAS PARA LOTIFICACION DE TERRENOS Y/O FUNCIONAMIENTO DE FRACCIONAMIENTOS
+
+#### Sección Primera. Del Objeto
+
+###### ARTICULO 148.
+
+Es objeto de este derecho el otorgamiento por parte del Ayuntamiento, de licencias para lotificación y/o funcionamiento de fraccionamientos que afecten terrenos ubicados dentro de la jurisdicción de los Municipios del Estado de Michoacán.
+
+#### Sección Segunda. De los Sujetos
+
+###### ARTICULO 149.
+
+Son sujetos de este derecho las personas físicas o morales que en carácter de propietarios, copropietarios, contratistas, fideicomitentes, fiduciarios o con cualquier otro título, soliciten y se les otorgue licencias para la lotificación de terrenos y/o funcionamiento de fraccionamientos en territorio de los Municipios del Estado.
+
+#### Sección Tercera. Del Pago del Derecho
+
+###### ARTICULO 150.
+
+El derecho por el otorgamiento de licencias para lotificación de terrenos y/o funcionamiento de fraccionamientos, se cubrirán en la Tesorería Municipal que corresponda en el momento de su autorización, conforme a la tarifa que fije la Ley de Ingresos vigente.
+
+#### Sección Cuarta. De las Infracciones y Sanciones
+
+###### ARTICULO 151.
+
+Las infracciones al presente Capítulo se sancionarán de conformidad con las disposiciones contenidas en el Código Fiscal Municipal.
+
+### CAPITULO I. DE AUMENTO DE VALOR Y MEJORIA ESPECIFICA DE LA PROPIEDAD
+
+## TITULO CUARTO. CONTRIBUCIONES ESPECIALES
+
+### CAPITULO II. DE LA APORTACION DE MEJORAS
+
+#### Sección Primera. Del Objeto
+
+###### ARTICULO 152.
+
+Se establece por esta Ley la contribución especial de Aumento de Valor y Mejoría Específica de la Propiedad, que gravitará con carácter real sobre los predios que sean beneficiados por una obra de urbanización, por estimarse que su desarrollo y conclusión acrecentará necesariamente el valor de dichos predios, sin que éstos (sic) se deba al esfuerzo económico de sus propietarios o poseedores.
+
+#### Sección Segunda. De los Sujetos
+
+###### ARTICULO 153.
+
+Son sujetos de esta contribución los propietarios de los predios, y los poseedores de ésto cuando no exista o no esté definido el propietario.
+
+Cuando sean personas distintas el propietario del terreno y el de las construcciones, la contribución recaerá sobre el primero.
+
+###### ARTICULO 154.
+
+Responden solidariamente del pago de esta contribución, los promitentes compradores y los adquirentes, en las operaciones con reserva de dominio; la Institución Fiduciaria si el predio está afectado en fideicomiso.
+
+#### Sección Tercera. De la Base
+
+###### ARTICULO 155.
+
+El monto total de la contribución, en cada caso de urbanización, no podrá exceder del costo de la obra de que se trate.
+
+###### ARTICULO 156.
+
+El costo por derramar de una obra de urbanización, estará constituído por lo siguiente:
+
+I.- Importe del Anteproyecto y del Proyecto;
+
+II.- Importe de las indemnizaciones;
+
+III.- Importe de la obra de urbanización;
+
+IV.- Pago de intereses y gastos bancarios si se requiere financiamiento, y
+
+V.- Gastos generales para la realización del proyecto.
+
+###### ARTICULO 157.
+
+El costo a que se refiere el artículo anterior disminuirá para los efectos de la derrama por las aportaciones que autoridades o particulares hagan en beneficio de la obra.
+
+###### ARTICULO 158.
+
+Cuando un predio afectado por expropiación lo sea también por esta contribución, el monto de esta última se abonará al costo de la primera en la medida de su respectiva compensación.
+
+#### Sección Cuarta. Del Pago
+
+###### ARTICULO 159.
+
+La contribución deberá ser pagada en la época que señale el Decreto Legislativo que lo declare aplicable a un caso concreto de urbanización.
+
+###### ARTICULO 160.
+
+Para calcular la contribución se requiere determinar primeramente su área de imposición atendiendo a los siguientes factores:
+
+I.- Las características, magnitud e importancia de la obra;
+
+II.- La estimación de los beneficios que se derivan de la obra, y de los que se traduzcan en forma de aumento de valor de los terrenos de la zona o zonas que abarque, considerando las condiciones previas y posteriores a la ejecución de la obra, así como el alcance o extensión de los beneficios o aumentos de valor para los predios colindantes o próximos a dicha obra.
+
+###### ARTICULO 161.
+
+Determinada dicha área de imposición se calculará la contribución correspondiente a cada predio, tomándose para ello en cuenta lo siguiente:
+
+I.- Costo de la obra por derramar, y
+
+II.- El plano de conjunto del área de imposición, señalándose para cada predio su ubicación, su área, la distancia de su centro de gravedad al eje de la mejora, y sus características propias como son: su importancia actual y futura probable dento (sic) de la zona en que esté ubicado, así como la proporcionalidad actual y futura probable, respecto a la importancia entre él y los demás predios de manzana, entre él y las demás manzanas de su zona y entre él y las demás zonas incluídas en el área de imposición en su caso.
+
+###### ARTICULO 162.
+
+Cuando la obra consista en la instalación o construcción de redes primarias o redes secundarias de distribución de agua potable, o redes de alcantarillado para los servicios de drenaje sanitario y drenaje pluvial, el área para la cual hayan sido calculadas, y a la que técnica y razonablemente deban servir aunque para ello puedan requerirse obras complementarias posteriores, será la que se tome como área de beneficio o área de influencia.
+
+###### ARTICULO 163.
+
+La Tesorería Municipal formulará la liquidación de la contribución sobre Aumento de Valor y Mejoría Específica de la Propiedad, para cada contribuyente en particular, de acuerdo con el proyecto aprobado por el Decreto Legislativo que declare aplicable la contribución especial.
+
+###### ARTICULO 164.
+
+La notificación de la liquidación deberá practicarse mediante un instructivo que contenga:
+
+I.- Nombre del propietario;
+
+II.- La ubicación del predio;
+
+III.- La superficie real;
+
+IV.- La superficie afecta a la contribución;
+
+V.- La distancia al eje de la obra;
+
+VI.- El monto total de la derrama;
+
+VII.- La cuota de imposición por metro cuadrado, y
+
+VIII.- El importe líquido total de la contribución.
+
+#### Sección Quinta. De las Disposiciones Generales
+
+###### ARTICULO 165.
+
+El contribuyente podrá inconformarse con la liquidación de la contribución si encontrare en ella errores o inexactitudes que en su concepto, puedan modificarla, sujetándose a los recursos administrativos que previene el Código Fiscal Municipal.
+
+###### ARTICULO 166.
+
+En lo no previsto por esta ley, la aplicación y recaudación de la contribución sobre Aumento de Valor y Mejoría Específica de la Propiedad, se hará con apego a las disposiciones del Código Fiscal Municipal.
+
+###### ARTICULO 167.
+
+El impuesto sobre Aumento de Valor y Mejoría Específica de la Propiedad será exigible desde el día siguiente al en que se publique en el Periódico Oficial del Estado el Decreto mediante el cual se ordene la ejecución de la obra.
+
+###### ARTICULO 168.
+
+Los Notarios Públicos no autorizarán, ni el Registro Público de la Propiedad inscribirá actos o contratos que impliquen transmisión de dominio, desmembración del mismo o constitución voluntaria de servidumbres o garantías reales, que tengan relación con inmuebles afectos a esta contribución, si no se les demuestra que se está al corriente en el pago del mismo.
+
+###### ARTICULO 169.
+
+En lo no previsto en este Capítulo será de aplicación supletoria la Ley de Desarrollo Urbano del Estado.
+
+#### Sección Sexta. De las Infracciones y Sanciones
+
+###### ARTICULO 170.
+
+Las infracciones al presente Capítulo, se sancionarán conforme las disposiciones del Código Fiscal Municipal vigente.
+
+### CAPITULO I. ENAJENACION DE BIENES MUEBLES E INMUEBLES PERTENECIENTES AL MUNICIPIO
+
+#### Sección Primera. Del Objeto
+
+###### ARTICULO 171.
+
+Es objeto de la contribución a que se refiere este capítulo, la realización por parte de los Ayuntamientos de las siguientes obras públicas de urbanización:
+
+I.- Construcción o reparación de pavimentos;
+
+II.- Construcción o reparación de banquetas;
+
+III.- Instalación de tuberías de distribución de agua potable, y
+
+IV.- Cualquier otra obra similar considerada de urbanización.
+
+###### ARTICULO 172.
+
+La contribución anterior se causará al terminarse la obra pública de urbanización que la genere.
+
+#### Sección Segunda. De los Sujetos
+
+###### ARTICULO 173.
+
+Son sujetos de la contribución de aportación de mejoras, los propietarios o poseedores de predios con frente a la calle donde se ejecuten las obras de urbanización a que se refiere el presente capítulo. En todo caso la contribución afecta directamente a los predios beneficiados.
+
+#### Sección Tercera. De la Base y Pago
+
+###### ARTICULO 174.
+
+La contribución a que se refiere este capítulo se pagará al terminarse las obras que la generaron, conforme a las cuotas que apruebe el Ayuntamiento, tomando en cuenta el costo de los materiales y de la mano de obra.
+
+###### ARTICULO 175.
+
+Para la determinación de las cuotas que los contribuyentes deban pagar por concepto de aportación de mejoras, se observarán las siguientes reglas:
+
+I.- Cuando se trate de obras de construcción o reparación de pavimentos del arroyo de la calle, la contribución se pagará por los propietarios o poseedores de los predios ubicados a uno y otro lado de la calle;
+
+II.- Tratándose de construcción o reparación de banquetas, pagarán la contribución los propietarios o poseedores de predios ubicados en el lado de la calle en que se construya o repare la banqueta;
+
+III.- En el caso de instalación de tuberías de distribución de agua potable, la contribución la pagarán los propietarios o poseedores de los predios ubicados a uno y a otro lado de la calle, si la tubería presta servicios a ambas aceras. Si las tuberías instaladas solamente proporcionan servicio a los predios en una de las aceras de la calle solo los propietarios o poseedores de éstos están obligados a pagar la contribución, y
+
+IV.- Para el pago de otras construcciones o instalaciones de obras públicas de urbanización se aplicará la regla similar de las fracciones anteriores.
+
+#### Sección Cuarta. Disposiciones Generales
+
+###### ARTICULO 176.
+
+Los Notarios y demás funcionarios que tengan la fé pública, no podrán autorizar definitivamente ninguna operación de transmisión de dominio de predios urbanos sin antes comprobar que dichos predios no tienen adeudos por concepto de contribución de aportación de mejoras.
+
+En los testimonios que los Notarios Públicos expidan de escrituras relativas a actos o contratos transmitivos de dominio de predios urbanos, deberán insertar el recibo oficial de pago o en su defecto el comprobante de no causación de este gravamen.
+
+###### ARTICULO 177.
+
+El contribuyente podrá interponer el recurso que para tal efecto señala el Código Fiscal Municipal en contra de la resolución que determine y liquide esta contribución.
+
+#### Sección Quinta. De las Infracciones y Sanciones
+
+###### ARTICULO 178.
+
+Las infracciones a este capítulo se sancionarán conforme a las disposiciones del Código Fiscal Municipal vigente.
+
+## TITULO QUINTO. DE LOS PRODUCTOS
+
+### CAPITULO II
+
+ARRENDAMIENTO DE BIENES MUEBLES E INMUEBLES PERTENECIENTES AL MUNICIPIO.
+
+###### ARTICULO 179.
+
+Tendrán el carácter de productos, los ingresos que se obtengan por la enajenación de bienes muebles o inmuebles que pertenezcan a los Municipios del Estado de Michoacán.
+
+###### ARTICULO 180.
+
+Los inmuebles pertenecientes a los Municipios podrán ser enajenados cuando resulten antieconómicos en su conservación y sostenimiento, o se presenten en el mercado condiciones ventajosas para su venta, previa autorización del H. Congreso del Estado.
+
+###### ARTICULO 181.
+
+Son objeto de este producto, la venta de los bienes abandonados y otros objetos o semovientes que, por cualquier circunstancia, vengan a pertenecer a los municipios, y la que se hará en subasta pública conforme al procedimiento y disposiciones relativas al remate de bienes mostrencos.
+
+###### ARTICULO 182.
+
+En ningún caso podrán enajenarse bienes de uso común, o destinados a un servicio público municipal, mientras tengan ese carácter o destino.
+
+### CAPITULO UNICO
+
+###### ARTICULO 183.
+
+Tendrán el carácter de productos, los ingresos que obtengan los Municipios del Estado de Michoacán, por concepto de arrendamiento de sus bienes muebles o inmuebles, mismos que se determinarán por medio de contratos que previamente se celebren con los usufructuarios, con sujeción a las bases que establezcan previamente los Ayuntamientos, representados por su Presidente.
+
+###### ARTICULO 184.
+
+Causará este producto la introducción de ganado a los rastros municipales por concepto de arrendamiento de piso y se cubrirá en la oficina correspondiente conforme a la cuota o tarifa que determine la Ley de Ingresos en vigencia.
+
+###### ARTICULO 185.
+
+Causará este producto, el arrendamiento de corrales y zahurdas en los rastros municipales y se cubrirá en la Tesorería u oficina que corresponda, aplicando la cuota diaria por cabeza de ganado que señale la Ley de Ingresos vigente.
+
+###### ARTICULO 186.
+
+Los demás ingresos por actividades que no correspondan a funciones de derecho público.
+
+## TITULO SEXTO. DE LAS PARTICIPACIONES
+
+### CAPITULO I. Recargos
+
+###### ARTICULO 187.
+
+Constituyen este ingreso las cantidades que perciban los Municipios del Estado de Michoacán de conformidad con la Ley de Coordinación Fiscal Federal y con las disposiciones legales del Estado, en materia de ingresos Federales y Estatales.
+
+## TITULO SEPTIMO. DE LOS APROVECHAMIENTOS
+
+## TITULO OCTAVO. DE LOS INGRESOS EXTRAORDINARIOS
+
+### CAPITULO II. Multas
+
+###### ARTICULO 188.
+
+El pago de un crédito fiscal enterado fuera de los plazos señalados, causará los recargos que establece el Código Fiscal Municipal y fije la Ley de Ingresos vigente.
+
+### CAPITULO III. Reintegros
+
+###### ARTICULO 189.
+
+Constituyen los ingresos de este ramo, las multas impuestas por infracciones a las Leyes Fiscales Municipales y las provenientes de infracciones a los demás ordenamientos de carácter municipal.
+
+### CAPITULO IV. Donativos a favor del Municipio
+
+###### ARTICULO 190.
+
+Son reintegros los que se hagan por responsabilidad de los empleados municipales que manejen fondos provenientes de la glosa y revisión, ya sea preventiva o definitiva que practique el Ayuntamiento, Tesorería Municipal o Contaduría General de Glosa.
+
+### CAPITULO V. Indemnizaciones por Daños a Bienes Municipales
+
+###### ARTICULO 191.
+
+Se aplicarán a este ramo de aprovechamientos, los donativos a favor del Municipio que haga la Federación.
+
+### CAPITULO UNICO
+
+###### ARTICULO 192.
+
+Al ramo de aprovechamientos se aplicarán los ingresos no previstos en las denominaciones anteriores, que sean indemnizaciones por daños en bienes municipales.
+
+## TITULO NOVENO. GENERALIDADES
+
+### CAPITULO UNICO
+
+###### ARTICULO 193.
+
+Constituyen los ingresos extraordinarios, los siguientes:
+
+I.- Los créditos otorgados por el Banco Nacional de Obras y Servicios Públicos, S. A., o cualquier otra Institución de Crédito.
+
+II.- Los créditos otorgados por la Federación;
+
+III.- Los créditos otorgados por el Estado;
+
+IV.- Los créditos otorgados por particulares, y
+
+V.- Los créditos otorgados por otra fuente de financiamiento.
+
+###### ARTICULO 194.
+
+Los Ayuntamientos por conducto de sus respectivas Tesorerías Municipales, recaudarán el impuesto adicional para carreteras y construcción de edificios escolares que establece la Ley de Hacienda del Estado en vigor, remitiendo su importe a la Tesorería General del Estado, por conducto de sus oficinas recaudadoras, dentro de los primeros cinco días del mes siguiente al que corresponda.
+
+T R A N S I T O R I O S
+
+###### ARTICULO PRIMERO.
+
+La presente Ley de Hacienda Municipal del Estado de Michoacán, entrará en vigor el día 1o. de enero de 1984, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley de Hacienda Municipal del Estado de Michoacán de 31 de diciembre de 1958, así como las demás disposiciones que se opongan a la presente Ley.
+
+El Ejecutivo del Estado dispondrá se publique y observe.
+
+PALACIO DEL PODER LEGISLATIVO. Morelia, Michoacán de Ocampo, a 29 de diciembre de 1983.- DIPUTADO PRESIDENTE.- RAFAEL MELGOZA RADlLLO.- DIPUTADO SECRETARIO.- LIC. RAMON HERRERA GONZALEZ.- DIPUTADO SECRETARIO.- LIC. SALVADOR HERNANDEZ MORA.- (Firmados).
+
+En cumplimiento por lo dispuesto en la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo y para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo en la ciudad de Morelia, Michoacán a los 30 treinta días del mes de diciembre de 1983.
+
+SUFRAGIO EFECTIVO. NO REELECCION.- El Gobernador Constitucional del Estado.- Ing. Cuauhtémoc Cárdenas Solórzano.- El Secretario de Gobierno.- Lic. Cristóbal Arias Solís. (Firmados).
