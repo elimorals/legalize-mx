@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "1992-01-31"
+last_updated: "1992-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1992.
 
 Ley Publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -1003,7 +1003,9 @@ Están obligados al pago de este Impuesto, las personas físicas o morales que a
 
 Cuando el bien consistente en la casa habitación de los cónyuges, sea adquirido por herencia o legados, por el cónyuge supérstite o por sus ascendientes o descendientes en línea recta, siempre y cuando la habiten el impuesto se calculará multiplicando la tasa el 25% sobre la base gravable a que se refiere el Artículo 61 de este Capítulo.
 
-Tratándose de adquisición de casa-habitación tipo interés social de nueva construcción, y cuyo valor no exceda de 4,700 veces el salario mínimo general diario vigente en la zona, el impuesto se calculará sobre el 32% de la base gravable.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+Tratándose de adquisición de casa-habitación tipo interés social de nueva construcción, y cuyo valor no exceda de 5,500 veces el salario mínimo general diario vigente en la zona, el impuesto se calculará sobre el 32% de la base gravable.
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 1991)</small>
 
@@ -1015,7 +1017,9 @@ Tratándose de adquisición de casa-habitación tipo interés social de nueva co
 
 No se pagará este impuesto establecido en este Capítulo en las adquisiciones de inmuebles que hagan la Federación, las Entidades Federativas y los Municipios para formar parte del dominio público, y los Partidos Políticos Nacionales, siempre y cuando dichos inmuebles sean para su propio uso.
 
-Tampoco se pagará el impuesto establecido en este Capítulo en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+Tampoco se pagará el impuesto establecido en este Capítulo en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero, así como en las adquisiciones que realicen las asociaciones religiosos constituídas en los términos de la Ley de la materia, siempre que, en este ultimo caso, la adquisición se realice dentro de los seis meses siguientes a su constitución.
 
 ###### ARTICULO 60.
 
@@ -1033,7 +1037,9 @@ III.- La promesa de adquirir, cuando el futuro comprador entre en posesión de l
 
 IV.- La cesión de derechos al comprador, o del futuro comprador, en los casos de las fracciones II y III que anteceden, respectivamente.
 
-V.- Fusión de Sociedades.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+V.- Fusión y escisión de sociedades, incluso en los casos del artículo 14-A del Código Fiscal de la Federación.
 
 VI.- La dación en pago y la liquidación o deducción de capital, pago en especie de remanente, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles.
 
@@ -1061,9 +1067,9 @@ X.- La prescripción positiva.
 
 La base gravable de este impuesto será el valor que resulte del avalúo bancario o comercial realizado por peritos autorizados por el Ayuntamiento, o por perito reconocido por la Comisión Nacional Bancaria o de Seguros, o por perito miembro del Instituto Mexicano de Valuación de Sinaloa, A.C. o por corredor público o por la Dirección de Catastro. Aquellos avalúos que no sean realizados por la Dirección de Catastro podrán ser rechazados para efectos del pago de este impuesto cuando sean menores en más del 10% al valor actualizado.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-Para las operaciones a que se refiere el tercer párrafo del Artículo 58 de esta Ley, así como aquellas que no excedan de 5,760 veces el salario mínimo general diario vigente en la zona, la base gravable del impuesto se determinará conforme al valor comercial que debrá (sic) ser fijado por la Dirección de Catastro.
+Para las operaciones en que se trate de adquisición de casa-habitación tipo interés social de nueva construcción, que no excedan de 6,500 veces el salario mínimo general diario vigente en la zona, la base gravable del impuesto se determinará conforme al valor comercial que deberá ser fijado por la Dirección de Catastro.
 
 ###### ARTICULO 62.
 
@@ -2315,7 +2321,9 @@ Sobre el importe total del crédito por
 
 (cada diligencia). 2% 1.5% 1%
 
-En ningún caso podrá ser, en total, ni menor del importe de un día de salario mínimo, ni mayor del monto de cinco días de salario mínimo general vigente en la zona.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+En ningún caso podrá ser, en total, ni menor del importe de un día de salario mínimo, ni mayor del monto de diez días de salario mínimo general vigente en la zona.
 
 Los gastos a que se refiere el inciso b) de este Artículo, se causarán conforme a la erogación real que realice el Municipio dentro del Procedimiento Administrativo de Ejecución.
 
@@ -2403,7 +2411,7 @@ II.- Ninguna Autoridad podrá si no existe precepto legal que la faculte para el
 
 III.- Las Autoridades Fiscales ejercerán las facultades discrecionales que las leyes fiscales les otorguen, de la manera más adecuada para que se alcancen las finalidades de interés público que las mismas disposiciones legales propongan, con arreglo a los principios de igualdad y equidad, sin crear indebidos privilegios o discriminaciones.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
 ### CAPITULO UNICO
 
@@ -2467,7 +2475,7 @@ Todos los Ingresos Públicos Municipales se destinarán a cubrir los gastos auto
 
 Queda prohibida la celebración de igualas o convenios para el pago o cobro de impuestos o derechos, así como el remate o arrendamiento de esas contribuciones, salvo los casos que estudie el Cabildo Municipal y expresamente los autorice.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LAS DENOMINACIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 219.
 
@@ -2641,7 +2649,7 @@ I.- Exigir de los contribuyentes y de los terceros ajenos a la relación tributa
 
 II.- Pedir a los contribuyentes que aclaren, aporten o comprueben datos o informes que estimen pertinentes, de acuerdo a lo establecido en las Leyes, para la determinación de los créditos fiscales a su cargo;
 
-III.- En el caso de las Autoridades señaladas en el inciso A del Artículo 160, ordenar la práctica de revisiones y visitas ordinarias o extraordinarias a los contribuyentes, a fin de precisar su situación fiscal y determinar los créditos fiscales a su cargo y las infracciones en que puedan haber incurrido, conforme a lo establecido en las Leyes.
+III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1992)
 
 IV.- En el caso de las Autoridades señaladas en el Inciso A del Artículo 160, ordenar la práctica de visitas domiciliarias y de comprobación para verificar el estricto cumplimiento de las obligaciones fiscales; así como determinar en su caso, los créditos fiscales que resulten a cargo del contribuyente y las infracciones en que puede haber incurrido, siempre y cuando se trate de contribuciones cuya determinación corresponde al propio contribuyente.
 
@@ -2661,11 +2669,9 @@ IX.- Aplicar el procedimiento fiscal de ejecución con arreglo a la Legislación
 
 La Tesorería Municipal tiene la facultad y el deber de vigilar el exacto cumplimiento de las leyes y demás disposiciones fiscales. Por lo tanto, investigarán por los medios legales, si los créditos fiscales han sido debidamente determinados y pagados; si los contribuyentes han presentado las declaraciones que están obligados y si los datos que contienen corresponden a la realidad y en general, si se ha dado oportuno cumplimiento a las obligaciones que imponga la Legislación Fiscal.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
-
 ###### ARTICULO 163.
 
-La Tesorería Municipal es la Autoridad competente para ordenar la práctica de revisiones y visitas de inspección.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1992)
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -2683,7 +2689,7 @@ Cuando sea necesario un cateo, se solicitará la orden respectiva del Juez compe
 
 Los funcionarios y empleados fiscales y los miembros de cuerpos colegiados fiscales, bajo su responsabilidad personal, están obligados a guardar el secreto de la situación económica de los contribuyentes, que haya llegado a su conocimiento en actos del servicio y les está prohibido explotar o aprovechar en cualquier forma sin autorización expresa del interesado, dada por escrito, los secretos profesionales del negocio que en actos del servicio hayan llegado a su conocimiento así como suministrar datos fiscales de los causantes salvo orden judicial o solicitud de los dueños, encargados o representantes de los negocios.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 166.
 
@@ -2691,7 +2697,7 @@ Los créditos fiscales nacen en el momento en que se realizan las situaciones ju
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO III. DE LAS AUTORIDADES FISCALES
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -2699,11 +2705,11 @@ Los créditos fiscales nacen en el momento en que se realizan las situaciones ju
 
 El monto del crédito se determina con arreglo a las bases legales correspondientes y a los procedimientos establecidos por cada especie de crédito.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 168.
 
-El crédito fiscal debe ser pagado en el momento o plazo que señale la Ley o, si ésta es omisa, dentro de los quince días siguientes a la fecha en que se quede determinado o sea determinable en cantidad líquida, los créditos fiscales causados deberán pagarse dentro de los primeros días naturales del mes en que se causen, salvo disposición especial que señale plazo distinto.
+El crédito fiscal debe ser pagado en el momento o plazo que señale la Ley o, si ésta es omisa, dentro de los quince días siguientes a la fecha en que se quede determinado o sea determinable en cantidad líquida.
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -2753,6 +2759,14 @@ No podrán establecerse exenciones o subsidios sobre las contribuciones municipa
 
 La tasa de recargos por pago extemporáneo de las contribuciones municipales, se aplicarán aumentándose en un 50% de la tasa que en la Ley de vigencia anual por cada Municipio, apruebe el Congreso Local para los casos de pagos a plazos o prórroga de éstos.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+Los recargos se causarán hasta por cinco años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización por falso giro, los intereses para el caso de pago o prórroga a que se refiere el Artículo 138 de este ordenamiento, así como los gastos de ejecución y las multas por infracción a las disposiciones tanto fiscales como no fiscales. Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se causarán por cada mes o fracción del mes que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+El cheque recibido por las autoridades fiscales que sea presentado en tiempo para su cobro y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será del 20% del valor de éste, y se exigirá independientemente del concepto a que se refiere este artículo. La indemnización mencionada, el monto del cheque y en su caso los recargos, se requerirán y cobrarán mediante el procedimeinto (sic) administrativo de ejecución, sin perjuicio de la responsabilidad penal que en su caso procediere.
+
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 176.
@@ -2787,11 +2801,11 @@ Además, de los casos previstos en el Artículo anterior, tratándose de multas 
 
 Las condonaciones de que se trata el Artículo 178 no afectarán el cobro de los gastos y honorarios de ejecución; las comprendidas en el Artículo 179 aplicarán que esos gastos, honorarios y participaciones distribuibles se hagan por cuenta de la Hacienda Pública Municipal.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 181.
 
-Cuando coexistan adeudos del Municipio a favor de un particular y créditos fiscales a cargo de éste, se declarará la compensación de oficio a solicitud del interesado, siempre que las deudas recíprocas sean igualmente líquidas y exigibles, observándose al respecto las disposiciones del Código Civil del Estado.
+Cuando coexistan adeudos del Municipio a favor de un particular y créditos fiscales a cargo de éste, se declarará la compensación de oficio o, a solicitud del interesado, siempre que las deudas recíprocas sean igualmente líquidas y exigibles, observándose al respecto las disposiciones del Código Civil del Estado.
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -2859,11 +2873,85 @@ En todo caso en que se compruebe la comisión de una infracción, la Autoridad c
 
 Las obligaciones establecidas por la Legislación Fiscal, que no tengan término señalado para su cumplimiento, deberán satisfacerse dentro de los quince días siguientes a la fecha de su nacimiento.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+Las notificaciones de los citatorios, emplazamientos, solicitudes e informes o documentos y las de acuerdos administrativos que puedan ser recurridos, se harán:
+
+I.- Personalmente.
+
+II.- Mediante oficio entregado por mensajero, por correo certificado con acuse de recibo; y,
+
+III.- Por edictos, únicamente en caso de que la persona a quien deba notificarse haya desaparecido, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal acreditado ante las autoridades fiscales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+ARTICULO 191 BIS-2.- Las notificaciones por oficio se harán en el domicilio que el interesado haya señalado para el efecto de iniciar alguna instancia, y solo por lo que toca al trámite y resolución de ésta. Bastará para considerar que se ha señalado domicilio para recibir notificaciones en instancias administrativas, el que la dirección del interesado aparezca impresa en la promoción respectiva. A falta del domicilio designado se tendrá en cuenta el que resulte de las disposiciones fiscales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+ARTICULO 191 BIS-3.- Las notificaciones por edictos se realizarán haciendo una publicación que contendrá un resumen de las resoluciones por notificar; dicha publicación deberá efectuarse en uno de los periódicos de mayor circulación del lugar.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+ARTICULO 191 BIS-6.- Para iniciar un procedimiento de cobro en contra de un responsable solidario del crédito fiscal; será necesario hacerle notificación, en la que se expresará:
+
+I.- El nombre del causante;
+
+II.- La resolución de la que se derive el crédito fiscal y el monto de éste;
+
+III.- Los motivos y fundamentos por lo que se le considera responsable del crédito; y,
+
+IV.- El plazo para el pago que será de quince días, salvo que la Ley señale otro.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+ARTICULO 191 BIS-1.- Las notificaciones personales se harán en el último domicilio que la persona a quien se deba notificar, haya señalado ante las autoridades fiscales en el procedimiento administrativo de que se trate, a falta de señalamiento, se estará a las reglas previstas en el Artículo 192 a partir de su segundo párrafo de este Ordenamiento.
+
+Se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que se le espere a una hora fija del día siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato.
+
+Si la persona a quien haya que notificarse no atendiere el citatorio, la notificación se le hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla, se realizará por instructivo que se fijará en la puerta del domicilio.
+
+En el momento de la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación.
+
+De las diligencias en que conste la notificación o cita, el ejecutor notificador tomará razón por escrito.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+ARTICULO 191 BIS-5.- La manifestación que hagan el interesado o su representante legal, de conocer un acuerdo, surtirá efectos de notificación en forma, desde la fecha en que se manifieste haber tenido tal conocimiento; si ésta es anterior a la en que debiere surtir sus efectos la notificación de acuerdo con el artículo precedente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+ARTICULO 191 BIS-4.- Las notificaciones surtirán sus efectos el día hábil siguiente al en que fueron hechas o al de la publicación, en el caso del artículo que antecede.
+
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 192.
 
 En todos los plazos señalados por las Leyes Fiscales, en que no se precise fecha de su vencimiento salvo disposición en contrario, no se computarán los días inhábiles. Son días inhábiles los domingos y aquellos en que las Oficinas Fiscales suspendan sus labores por disposición de la Ley o por acuerdo administrativo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+Para los efectos fiscales se considera domicilio de los sujetos pasivos o responsables solidarios, el que establezca las leyes fiscales y, a falta de disposiciones en dichas leyes, el siguiente:
+
+I.- Tratándose de personas físicas:
+
+a). La casa en que habiten;
+
+b). El lugar en que habitualmente realicen actividades o tengan bienes que den lugar a obligaciones fiscales, en todo lo que se relacione con éstas. En dichos casos las autoridades fiscales podrán considerar también como domicilio, la casa-habitación de la persona física; y,
+
+c). A falta de domicilio, en los términos indicados en los incisos anteriores, el lugar en el que se encuentren.
+
+II.- Tratándose de personas morales:
+
+a). El lugar en el que esté establecida la administración principal del negocio.
+
+b). En defecto del indicado en el inciso anterior, el lugar en el que se encuentre el principal establecimiento; y,
+
+c). A falta de los anteriores el lugar en el que se hubiere realizado el hecho generador de la obligación fiscal.
+
+III.- Si se trata de sucursales o agencias de negociaciones extranjeras, el lugar donde se establezca; pero si varias dependen de una misma negociación, deberán señalar a una de ellas para que haga las veces de casa matriz y, de no hacerlo en un plazo de quince días a partir de la fecha en que presenten un aviso de iniciación de operaciones, lo hará la Tesorería Municipal.
+
+IV.- Tratándose de personas físicas o morales, residentes en el extranjero, que realicen actividades gravadas en el Municipio a través de representantes, se considerará como su domicilio el del representante.
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -2943,17 +3031,17 @@ Los escritos y las promociones de los causantes no suspenderán el procedimiento
 
 Los honorarios de los ejecutores y demás gastos a que dé lugar el procedimiento fiscal de ejecución, serán a cargo del deudor y se harán efectivos conjuntamente con el crédito fiscal que origine el procedimiento.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
-REQUERIMIENTO DE PAGO
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
-
-### CAPITULO VI. PROCEDIMIENTO DE EJECUCION
+EMBARGOS
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
-### CAPITULO II. DE LOS INGRESOS DEL MUNICIPIO
+### CAPITULO IV. DE LOS CREDITOS FISCALES
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
+
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -2961,13 +3049,17 @@ REQUERIMIENTO DE PAGO
 
 El ejercicio de la facultad económica coactiva, estará sujeto a las siguientes reglas:
 
-I.- Dentro de los diez días siguientes al vencimiento de los plazos señalados en las disposiciones fiscales para el pago de las obligaciones fiscales, se iniciará el procedimiento de ejecución;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+I.- A partir del día hábil siguiente al vencimiento de los plazos señalados en las disposiciones fiscales para el pago de las obligaciones fiscales, se iniciará el procedimiento de ejecución;
 
 II.- El expediente se iniciará con el requerimiento de pago en el cual se hará constar el pormenor de la liquidación; señalándose al deudor un plazo de tres días improrrogables para que cubra el importe de la deuda, apercibido de que si no lo hiciera, se procederá al embargo de bienes suficientes para cubrir el crédito fiscal, los recargos y gastos de ejecución;
 
 III.- En el mismo documento, el Ejecutor anotará bajo su firma la fecha de recibido el requerimiento. Acto seguido se hará la notificación al deudor en su domicilio o negocio;
 
-IV.- En caso de ausencia del deudor, la diligencia se llevará a cabo con los familiares de éste, sus dependientes o sus encargados;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+IV.- En caso de ausencia del deudor, y agotado lo dispuesto por el Artículo 191 BIS-1 de esta Ley, la diligencia se llevará a cabo con los familiares de éste, sus dependientes o sus encargados;
 
 V.- Si no pudieren ser habidas ninguna de las personas mencionadas en la fracción anterior, se fijará en la puerta de la casa del deudor y además en los tableros de la Oficina Ejecutora;
 
@@ -2975,9 +3067,9 @@ VI.- En los casos previstos en la Fracción IV y en aquellos otros en que la per
 
 VII.- La circunstancia de que no encontrara testigos no interrumpirá la diligencia, la cual se llevará adelante haciendo constar tales hechos. Lo asentado por el ejecutor hará prueba plena mientras no se demuestre judicialmente su falsedad.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
-EMBARGOS
+REMATES
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -3209,7 +3301,7 @@ Las tercerías excluyentes de dominio o de preferencia en el pago, se harán val
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
-### CAPITULO III. DE LAS AUTORIDADES FISCALES
+### CAPITULO II. DE LOS INGRESOS DEL MUNICIPIO
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -3295,13 +3387,13 @@ IV.- Hecha la revisión se comunicará el resultado a la oficina ejecutora, devo
 
 V.- Aprobado el expediente o corregidas las irregularidades observadas, se procederá al remate.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1992)</small>
 
-REMATES
+REQUERIMIENTO DE PAGO
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
-### CAPITULO IV. DE LOS CREDITOS FISCALES
+### CAPITULO VI. PROCEDIMIENTO DE EJECUCION
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -3319,11 +3411,11 @@ Se deroga en los Municipios de Ahome, El Fuerte, Choix, Guasave, Sinaloa, Mocori
 
 (DEROGADO, P.O. 31 DE ENERO DE 1992)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO CUARTO.
 
-Durante 1992 en aquellas poblaciones en que las revaluaciones catastrales hayan entrado o entren en vigor a partir del 1° de enero de 1990 hasta el 31 de diciembre de 1992, el Impuesto Predial Urbano se determinará conforme a la tarifa contenida en la fracción I del artículo 52 de esta Ley, tomando como base para sus pagos:
+Durante 1993 en aquellas poblaciones en que las revaluaciones catastrales hayan entrado o entren en vigor a partir del 1° de enero de 1990 hasta el 31 de diciembre de 1993, el Impuesto Predial urbano se determinará conforme a la tarifa contenida en la fracción I del Artículo 52 de esta Ley, tomando como base para sus pagos:
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1991)</small>
 
@@ -3339,23 +3431,23 @@ III.- El 50% para el inciso i).
 
 Al hacer efectivas las reducciones a que se refiere el párrafo que precede en ningún caso el impuesto total a pagar será menor al que resulte mayor de la Fracción que le antecede.
 
-(REFORMADO, P.O. 31 DE ENERO DE 1992) (F. DE E., P.O. 5 DE FEBRERO DE 1992)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-Además para el ejercicio fiscal de 1992, los contribuyentes obligados al pago del Impuesto Predial sobre fincas urbanas habitadas exclusivamente por su propietario tendrán derecho a reducir del impuesto que resulte, el porcentaje según la fecha de la revaluación catastral que en determinada población haya entrado en vigor, en los términos siguientes:
+Además para el Ejercicio Fiscal de 1993, los contribuyentes obligados al pago del Impuesto Predial sobre fincas urbanas habitadas exclusivamente por su propietario tendrán derecho a reducir del impuesto que resulte, el porcentaje según la fecha de la revaluación catastral que en determinada población haya entrado en vigor, en los términos siguientes:
 
 POBLACION CUYA REVALUACION
 
 ENTRO EN VIGOR EN: REDUCCION:
 
-1992 El 50% del impuesto a pagar
+1993 El 50% del impuesto a pagar
 
-1991 El 40% del impuesto a pagar
+1992 El 40% del impuesto a pagar
 
-1990 El 30% del impuesto a pagar
+1991 El 30% del impuesto a pagar
 
-1989 El 20% del impuesto a pagar
+1990 El 20% del impuesto a pagar
 
-1988 El 10% del impuesto a pagar
+1989 El 10% del impuesto a pagar
 
 > <small>(DEROGADO CUARTO PARRAFO, P.O. 31 DE ENERO DE 1992)</small>
 
@@ -3385,19 +3477,19 @@ d) Más de 40,000 348 16
 
 Quedan incluídos en el beneficio señalado en este Artículo, las personas físicas de nacionalidad extranjera que residan en el Municipio de Mazatlán y que habiten personalmente el predio urbano respectivo adquirido a través de fideicomiso previamente constituído ante la Institución Bancaria correspondiente y que aparezca como fideicomisario en dicho contrato. Quedan exceptuadas de este beneficio, las personas morales de nacionalidad extranjera que tengan sus propiedades legalmente constituídas.
 
-(ADICIONADO, P.O. 31 DE ENERO DE 1992) (F. DE E., P.O. 5 DE FEBRERO DE 1992)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-Durante 1992, los eventos comprendidos en el numeral 2 del artículo 12 de esta Ley que sean organizados y realizados por los Comités de Desarrollo, el DIF, o Instituciones de Asistencia Social pagarán el 7.5% sobre el Ingreso Total.
+Durante 1993, los eventos comprendidos en el numeral 2 del artículo 12 de esta ley que sean organizados y realizados por los Comités de Desarrollo, el DIF, o Instituciones de Asistencia Social pagarán el 7.5% sobre el ingreso total.
 
-(ADICIONADO, P.O. 31 DE ENERO DE 1992) (F. DE E., P.O. 5 DE FEBRERO DE 1992)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-Para 1992, en el municipio de Mazatlán, los predios urbanos que se encuentran en el supuesto que señala el artículo 16 de esta Ley, no gozarán de los beneficios que se establecen en el segundo párrafo de este artículo transitorio, debiendo cubrir el Impuesto Predial en los términos de la tarifa del artículo 52, fracción I de esta Ley.
+Para 1993, en el Municipio de Mazatlán, los predios urbanos que se encuentran en el supuesto que señala el artículo 16 de esta Ley, no gozarán de los beneficios que se establecen en el segundo párrafo de este artículo transitorio, debiendo cubrir el Impuesto Predial en los términos de la tarifa del artículo 52, fracción I de esta Ley.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO QUINTO.
 
-Durante el ejercicio fiscal de 1992, aquellos contribuyentes que hayan realizado el pago de algún trimestre, o bien el pago total anual del Impuesto Predial, previamente a la entrada en vigor de la presente modificación a la Ley, no se les cobrarán las diferencias a que se refiere el último párrafo del Artículo 57, cuando éstas resulten con motivo de la aplicación de la tarifa contenida en la fracción I del Artículo 52, pero procederá la reintegración de diferencias cuando éstas resulten a favor del contribuyente.
+Durante el Ejercicio Fiscal de 1993, aquellos contribuyentes que hayan realizado el pago de algún trimestre, o bien el pago total anual del impuesto predial, previamente a la entrada en vigor de la presente modificación a la Ley, no se les cobrarán las diferencias a que se refiere el último párrafo del artículo 57, cuando éstas resulten con motivo de la aplicación de la tarifa contenida en la fracción I del Artículo 52, pero procederá la reintegración de diferencias cuando éstas resulten a favor del contribuyente.
 
 ###### ARTICULO SEXTO.
 
@@ -3532,3 +3624,9 @@ En las disposiciones de esta Ley, en que se hagan mención al Código Fiscal Mun
 ###### ARTICULO QUINTO.
 
 Para el año de 1992, no obstante lo establecido en el inciso b), fracción I, artículo 53, por lo que refiere el primer trimestre, el plazo será hasta el 28 de febrero del mismo año. Por lo que corresponde al plazo señalado en el párrafo segundo del artículo 57, el término será hasta el 28 de febrero del citado año.
+
+P.O. 31 DE DICIEMBRE DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
