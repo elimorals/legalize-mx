@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1918-10-19"
+last_updated: "1919-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 1918.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 1919.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -1264,13 +1264,17 @@ De la Inviolavilidad (sic) y reforma de la Constitución.
 
 Todo funcionario o empleado público, cualquiera que sea su categoría, es responsable de los delitos, faltas u omisiones en que incurra en el ejercicio de su cometido. Para los delitos oficiales se concede acción popular, sin obligación de constituirse parte.
 
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 1919)</small>
+
 ###### Artículo 160.
 
-Los Diputados al Congreso del Estado, el Gobernador del mismo, los Magistrados del Superior Tribunal de Justicia, el Secretario del Poder Ejecutivo y el Tesorero General, son responsables por los delitos comunes que cometan durante el tiempo de su encargo y por los delitos, faltas u omisiones en que incurran en el ejercicio del mismo. El Gobernador lo será igualmente, pero durante el tiempo de su encargo, sólo podrá ser acusado por los delitos de traición al Estado, violación expresa de la Constitución, ataque a la libertad electoral y delitos graves del orden común.
+Los Diputados al Congreso del Estado, el Gobernador del mismo y los Magistrados del Superior Tribunal de Justicia, son responsables por los delitos comunes que cometan durante el tiempo de su encargo y por los delitos, faltas u omisiones en que incurran en el ejercicio del mismo.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 1919)</small>
 
 ###### Artículo 161.
 
-Siempre que se trate de algún delito del orden común cometido por el Gobernador, por un Diputado, Magistrado, Procurador General, por el Secretario del Ejecutivo o por el Tesorero General del Estado, la Legislatura, erigida en Gran Jurado, declarará a mayoría absoluta de votos, y con audiencia del acusado, si ha o no lugar proceder contra éste. En caso negativo no habrá lugar a procedimiento ulterior. En el afirmativo, quedará el acusado, por el mismo hecho separado de su encargo y sujeto a la acción de los Tribunales Comunes.
+Ninguno de los Poderes del Estado podrá separadamente suspender o destituir a uno o más funcionarios Municipales en caso de que se les suponga responsabilidad, sino cuando los tres Poderes de consuno lo estimen justificado; así mismo ninguno de los Funcionarios que desempeñen los Poderes Ejecutivo, Legislativo y Judicial podrán ser acusados en caso de responsabilidad durante el período Constitucional en que ejerzan sus funciones, terminado el cual se procederá contra el presunto responsable conforme a la ley, salvo el caso de alta traición a la Patria.
 
 ###### Artículo 162.
 
@@ -1513,3 +1517,7 @@ Secretario-Diputado por el 12º. Distrito Electoral.
 P.O. 19 DE OCTUBRE DE 1918.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 5 DE NOVIEMBRE DE 1919.
+
+Quedan derogadas las disposiciones legales que se opongan a la presente ley.
