@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1958-11-15"
+last_updated: "1959-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 1958.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1959.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -363,15 +363,17 @@ V. Aprobar los convenios que el Gobernador del Estado celebre con las Entidades 
 
 VI. Ratificar los arreglos concertados entre las Municipalidades con motivo de la fijación de sus límites.
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 1959)</small>
+
 VII. Crear nuevas Municipalidades dentro de los límites de las ya existentes, siendo necesario para el efecto:
 
-(A.) Que la fracción o fracciones que pretendan erigirse en Municipalidad, cuente con una población cuando menos, de diez mil habitantes, según el último censo del Estado, y tomando en cuenta el asentimiento de la mayoría de sus ciudadanos.
+A). Que la fracción o fracciones que pretendan erigirse en Municipalidad, cuenten con una población cuando menos, de TREINTA MIL HABITANTES, según el último censo del Estado, y tomando en cuenta el asentimiento de la mayoría de sus ciudadanos.
 
-(B.) Que se compruebe debidamente ante el Congreso, que tienen los elementos bastantes para proveer a su existencia política.
+(B). Que se compruebe debidamente ante el Congreso, que tienen los elementos bastantes para proveer a su existencia política.
 
-(C.) Que la erección de la nueva Municipalidad sea aprobada por el voto de las dos terceras partes de los Diputados.
+C). Que la elección de la nueva Municipalidad sea aprobada por el voto de las dos terceras partes de los Diputados.
 
-(D.) Que la resolución favorable del Congreso sea ratificada por la mayoría de los Ayuntamientos del Estado previo examen de la copia del expediente que al efecto se les remita.
+(D). Que la resolución favorable del Congreso sea ratificada por la mayoría de los Ayuntamientos del Estado previo examen de la copia del expediente que al efecto se les remita.
 
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
 
@@ -1832,3 +1834,9 @@ UNICO.- El presente Decreto comenzará a surtir sus efectos legales correspondie
 P.O. 15 DE NOVIEMBRE DE 1958.
 
 Art. Unico.- El presente Decreto comenzará a surtir sus efectos legales correspondientes a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 8 DE AGOSTO DE 1959.
+
+Primero.- El presente Decreto no se aplicará a los núcleos de población del Estado, que con anterioridad hayan elevado solicitudes al Congreso y se hubiesen turnado a la Comisión respectiva.
+
+Segundo.- El presente Decreto comenzará a surtir sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
