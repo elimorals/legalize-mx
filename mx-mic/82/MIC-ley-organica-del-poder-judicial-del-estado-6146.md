@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-6146"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1982-08-02"
-last_updated: "1991-03-07"
+last_updated: "1992-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MARZO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 1992.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 2 de agosto de 1982.
 
@@ -129,7 +129,7 @@ Podrán celebrarse sesiones privadas cuando se dé alguno de los presupuestos de
 
 Corresponde al Supremo Tribunal de Justicia conocer en Pleno:
 
-I. Del recurso de reclamación a que se refiere el artículo 25 de la Constitución Política del Estado;
+I. (DEROGADA, P.O. 27 DE FEBRERO DE 1992)
 
 II. Del recurso de revisión contra las resoluciones de los tribunales de lo contencioso-administrativo del Estado, en los casos que señala el artículo 67 de la propia Constitución;
 
@@ -701,8 +701,6 @@ II. Los restantes Juzgados Municipales del Distrito Judicial conocerán de los a
 
 III. En general de todos aquellos asuntos para los que tengan competencia, conforme al Código de Procedimientos Civiles del Estado u otras leyes, salvo los de arrendamiento, caundo su cuantía exceda del importe de veinte días de salario mínimo general vigente en el lugar.
 
-Fuera de los casos expresamente permitidos por la ley, ningún juzgado municipal conocerá de asuntos de Derecho Familiar.
-
 ###### ARTICULO 35.
 
 En materia penal, los juzgados municipales conocerán de los asuntos que señala el Código Procesal Penal.
@@ -745,7 +743,7 @@ Los jueces de tenencia deberán reunir, en lo conducente, los requisitos que se�
 
 ###### ARTICULO 44.
 
-Para los jueces de tenencia regirá lo dispuesto por los artículos 30 y 32 de esta Ley, y, para los juzgados de tenencia, la prohibición contenida en el último párrafo del artículo 34.
+Para los jueces de tenencia girá lo dispuesto por los artículos 30 y 32 de esta Ley, y, para los juzgados de tenencia, la prohibición contenida en el último párrafo del artículo 34.
 
 Ningún juez de tenencia podrá ser separado de su cargo sino por causa justificada.
 
@@ -760,10 +758,6 @@ Los árbitros tendrán las funciones y conocerán de los asuntos que señala el 
 ###### ARTICULO 46.
 
 Los jurados se integrarán y funcionarán con arreglo a lo establecido en el Código Procesal Penal.
-
-ARARTICULO 47.- Los jueces de primera instancia con jurisdicción penal deberán pedir oportunamente, al Presidente Municipal de la cabecera de su respectivo distrito, las listas previas y definitivas de las personas que desempeñarán el cargo de jurados.
-
-La remuneración a los jurados no será inferior al salario mínimo que rija en el municipio donde estén domiciliados.
 
 ###### ARTICULO 47.
 
@@ -1770,3 +1764,9 @@ Todos los asuntos de las materias civil y mercantil en proceso, a la fecha de en
 ###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones legales que se opongan a las previstas por este Decreto.
+
+P.O. 27 DE FEBRERO DE 1992
+
+PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
