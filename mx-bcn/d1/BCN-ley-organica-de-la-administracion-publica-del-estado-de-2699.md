@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "1991-05-31"
+last_updated: "1992-02-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE FEBRERO DE 1992.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -171,7 +171,9 @@ XVI.- Dirección de Comunicación Social;
 
 XVII.- Dirección Jurídica;
 
-XVIII.- (DEROGADA, P.O. 10 DE JULIO DE 1990)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE FEBRERO DE 1992)</small>
+
+XVIII.- Dirección General de Ecología;
 
 XIX.- Comisión Agraria Mixta.
 
@@ -841,13 +843,69 @@ IV.- Intervenir en el trámite de los casos de expropiación, y
 
 V.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
-> <small>(DEROGADO, P.O. 10 DE JULIO DE 1990)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA] SU DENOMINACION, P.O. 29 DE FEBRERO DE 1992)</small>
 
 ### CAPITULO XX
 
+DE LA COMPETENCIA DE LA DIRECCION GENERAL DE ECOLOGIA.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE FEBRERO DE 1992)</small>
+
 ###### ARTICULO 39.
 
-(DEROGADO, P.O. 10 DE JULIO DE 1990)
+Corresponde a la Dirección General de Ecología la atención y trámite de los siguientes asuntos:
+
+I.- Ejecutar la política y los criterios ecológicos en congruencia con los que, en su caso, hubiere formulado la Federación.
+
+II.- Elaborar el Plan de Ordenamiento Ecológico del Estado y los planes y programas que de éste se deriven.
+
+III.- Ejecutar los Planes fundamentales de la política ecológica del Estado, y los programas anuales que de éstos emanen, así como regular las acciones que se lleven a cabo con esos propósitos.
+
+IV.- Prevenir y controlar las emergencias ecológicas y contingencias ambientales cuando se afecten áreas de dos o más municipios y no se rebase el territorio de la entidad.
+
+V.- Evaluar y autorizar la manifestación del impacto ambiental de los proyectos, obras y actividades comerciales, industriales y de servicios.
+
+VI.- Regular las actividades que no sean consideradas por la Ley General del Equilibrio Ecológico y Protección al Ambiente como altamente riesgosas, cuando por los efectos que puedan generar, se afecten ecosistemas de la entidad o sus municipios.
+
+VII.- Coordinar la participación de las dependencias de la Administración Pública Estatal, en las acciones de preservación y restauración del equilibrio ecológico y protección al ambiente.
+
+VIII.- Regular y en su caso administrar las áreas naturales protegidas de competencia estatal, a fin de lograr la conservación y el aprovechamiento racional de los recursos naturales presentes en dichas áreas, con la participación de los municipios que corresponda.
+
+IX.- Administrar los recursos destinados a la investigación sobre ecología y el medio ambiente que para dicho efecto destine el Gobierno del Estado con el propósito de ampliar el conocimiento científico sobre los problemas ambientales o alternativas de solución de éstos que tengan aplicación en el Estado.
+
+X.- Promover el establecimiento o, en su caso, administrar museos, zonas de demostración, zoológicos, jardines botánicos y otras instalaciones o exhibiciones similares destinadas a promover el conocimiento y efectivo cumplimiento de los principios, criterios y preceptos ecológicos contenidos en la presente Ley, salvo aquellas que se encuentren bajo la administración de otra institución.
+
+XI.- Realizar proyectos específicos de información y educación ecológica, de alcance general en la entidad o de interés del Estado, a fin de desarrollar en la población una mayor conciencia ambiental y promover el mejor conocimiento de esta Ley.
+
+XII.- Prevenir, regular y controlar las emisiones de contaminantes a la atmósfera, incluidas las originadas por ruido, vibraciones, olores perjudiciales, energía térmica y luminosa, cuando éstas provengan de fuentes emisoras de competencia estatal.
+
+XIII.- Regular el aprovechamiento racional y prevenir la contaminación de las aguas de competencia estatal.
+
+XIV.- Prevenir, regular y controlar la contaminación de aguas federales asignadas o concesionadas al Gobierno del Estado para la prestación de los servicios públicos en materia de tratamiento, descarga, infiltración y reuso de aguas residuales.
+
+XV.- Regular con fines ecológicos el aprovechamiento de sustancias o materiales no reservados a la Federación ni a los Municipios, que constituyen depósitos de naturaleza semejante a los componentes de los terrenos, tales como arenas, grava, rocas o productos de su fragmentación, que son utilizados para la fabricación de materiales para construcción u ornamento.
+
+XVI.- Regular la adecuada conservación y aprovechamiento racional de los recursos naturales, en el ámbito de su competencia, desde su extracción hasta su transformación en materias primas.
+
+XVII.- Regular las obras, instalaciones, equipos y acciones para el alojamiento, recuperación, tratamiento, y disposición final de los residuos sólidos que no sean peligrosos, conforme a la Ley y sus disposiciones reglamentarias.
+
+XVIII.- Proponer la celebración de convenios con instituciones de educación superior, centros de investigación, instituciones privadas o públicas, investigadores y especialistas en la materia para promover y realizar programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la deterioración ambiental, propiciar el aprovechamiento racional de los recursos y la conservación de los ecosistemas.
+
+XIX.- Autorizar a las personas físicas o morales que lo soliciten su carácter de prestador de los servicios públicos especializados en la preservación y restauración ecológica, así como en la conservación y mejoramiento ambiental, siempre que cumplan con las disposiciones y requisitos que al efecto establezcan la Ley y sus reglamentos.
+
+XX.- Autorizar a los Auditores Ambientales Externos como peritos en la materia de ecología y prevención y control de la contaminación, siempre que cumplan con las disposiciones y requisitos que al efecto establezcan esta Ley y sus reglamentos.
+
+XXI.- Otorgar y revocar los permisos y las autorizaciones necesarias derivadas de la Ley.
+
+XXII.- Hacer efectivas las obligaciones derivadas de la Ley y sus reglamentos, y velar porque se observen las normas técnicas ecológicas que se expidan.
+
+XXIII.- Aplicar las sanciones administrativas correspondientes por infracciones a la Ley y sus reglamentos.
+
+XXIV.- Ordenar el decomiso de materiales o sustancias contaminantes, la clausura temporal, definitiva, parcial o total de las fuentes contaminantes de competencia estatal.
+
+XXV.- Resolver los recursos de revocación y de inconformidad que se interpongan con motivo de la aplicación de la Ley y sus reglamentos.
+
+XXVI.- Las demás que conforme a la Ley le correspondan.
 
 ### CAPITULO XXI
 
@@ -1054,3 +1112,13 @@ P.O. 31 DE MAYO DE 1991.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 29 DE FEBRERO DE 1992.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que contravengan lo dispuesto por las presentes reformas.
