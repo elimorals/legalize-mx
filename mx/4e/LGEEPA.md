@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2000-01-07"
+last_updated: "2001-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ENERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -338,47 +338,83 @@ Los Congresos de los Estados, con arreglo a sus respectivas Constituciones y la 
 
 En el ejercicio de sus atribuciones, los Estados, el Distrito Federal y los Municipios, observarán las disposiciones de esta Ley y las que de ella se deriven.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 11.
 
-La Federación, por conducto de la Secretaría, podrá suscribir convenios o acuerdos de coordinación con el objeto de que los Estados o el Distrito Federal asuman las siguientes funciones:
+La Federación, por conducto de la Secretaría, podrá suscribir convenios o acuerdos de coordinación, con el objeto de que los gobiernos del Distrito Federal o de los Estados, con la participación, en su caso, de sus Municipios, asuman las siguientes facultades, en el ámbito de su jurisdicción territorial:
 
-I. El manejo y vigilancia de las áreas naturales protegidas de competencia Federal;
+I. La administración y vigilancia de las áreas naturales protegidas de competencia de la Federación, conforme a lo establecido en el programa de manejo respectivo y demás disposiciones del presente ordenamiento;
 
 II. El control de los residuos peligrosos considerados de baja peligrosidad conforme a las disposiciones del presente ordenamiento;
 
-III. La prevención y control de la contaminación de la atmósfera proveniente de fuentes fijas y móviles de jurisdicción federal;
+III. La evaluación del impacto ambiental de las obras o actividades a que se refiere el artículo 28 de esta Ley y, en su caso, la expedición de las autorizaciones correspondientes, con excepción de las obras o actividades siguientes:
 
-IV. El control de acciones para la protección, preservación y restauración del equilibrio ecológico y la protección al ambiente en la zona federal marítimo terrestre, así como en la zona federal de los cuerpos de agua considerados como nacionales;
+a) Obras hidráulicas, así como vías generales de comunicación, oleoductos, gasoductos, carboductos y poliductos,
 
-V. La protección, preservación y restauración de los recursos naturales a que se refiere esta Ley, y de la flora y fauna silvestre, así como el control de su aprovechamiento sustentable;
+b) Industria del petróleo, petroquímica, del cemento, siderúrgica y eléctrica,
 
-VI. La realización de acciones operativas tendientes a cumplir con los fines previstos en este ordenamiento, y
+c) Exploración, explotación y beneficio de minerales y sustancias reservadas a la Federación en los términos de las Leyes Minera y Reglamentaria del Artículo 27 Constitucional en Materia Nuclear,
 
-VII. La realización de acciones para la vigilancia del cumplimiento de las disposiciones de esta Ley.
+d) Instalaciones de tratamiento, confinamiento o eliminación de residuos peligrosos, así como residuos radiactivos,
 
-Asimismo, los Estados podrán suscribir con sus Municipios convenios de coordinación, previo acuerdo con la Federación, a efecto de que éstos asuman la realización de las funciones anteriormente referidas.
+e) Aprovechamientos forestales en selvas tropicales y especies de difícil regeneración,
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+f) Cambios de uso de suelo de áreas forestales, así como en selvas y zonas áridas,
+
+g) Desarrollos inmobiliarios que afecten los ecosistemas costeros,
+
+h) Obras y actividades en humedales, manglares, lagunas, ríos, lagos y esteros conectados con el mar, así como en sus litorales o zonas federales, e
+
+i) Obras en áreas naturales protegidas de competencia de la Federación y actividades que por su naturaleza puedan causar desequilibrios ecológicos graves; así como actividades que pongan en riesgo el ecosistema;
+
+IV. La protección y preservación del suelo, la flora y fauna silvestre, terrestre y los recursos forestales;
+
+V. El control de acciones para la protección, preservación y restauración del equilibrio ecológico y la protección al ambiente en la zona federal marítimo terrestre, así como en la zona federal de los cuerpos de agua considerados como nacionales;
+
+VI. La prevención y control de la contaminación de la atmósfera, proveniente de fuentes fijas y móviles de jurisdicción federal y, en su caso, la expedición de las autorizaciones correspondientes;
+
+VII. La prevención y control de la contaminación ambiental originada por ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente, proveniente de fuentes fijas y móviles de competencia federal y, en su caso, la expedición de las autorizaciones correspondientes;
+
+VIII. La realización de acciones operativas tendientes a cumplir con los fines previstos en este ordenamiento, o
+
+IX. La inspección y vigilancia del cumplimiento de esta Ley y demás disposiciones que de ella deriven.
+
+Dichas facultades serán ejercidas conforme a lo dispuesto en esta Ley y demás disposiciones federales aplicables, así como en aquellas que de las mismas deriven.
+
+En contra de los actos que emitan los gobiernos del Distrito Federal o de los Estados y, en su caso, de sus Municipios, en ejercicio de las facultades que asuman de conformidad con este precepto respecto de los particulares, procederán los recursos y medios de defensa establecidos en el Capítulo V del Título Sexto de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 12.
 
-Los convenios o acuerdos de coordinación que suscriban la Federación con el Distrito Federal y los Estados, y éstos con los Municipios, para los propósitos a que se refiere el artículo anterior, deberán ajustarse a las siguientes bases:
+Para los efectos del artículo anterior, los convenios o acuerdos de coordinación que celebre la Federación, por conducto de la Secretaría, con los gobiernos del Distrito Federal o de los Estados, con la participación, en su caso, de sus Municipios, deberán sujetarse a las siguientes bases:
 
-I. Definirán con precisión las materias y actividades que constituyan el objeto del convenio o acuerdo;
+I. Se celebrarán a petición de una Entidad Federativa, cuando ésta cuente con los medios necesarios, el personal capacitado, los recursos materiales y financieros, así como la estructura institucional específica para el desarrollo de las facultades que asumiría y que para tales efectos requiera la autoridad federal. Estos requerimientos dependerán del tipo de convenio o acuerdo a firmar y las capacidades serán evaluadas en conjunto con la Secretaría.
 
-II. Deberá ser congruente el propósito de los convenios o acuerdos de coordinación con las disposiciones del Plan Nacional de Desarrollo y con la política ambiental nacional;
+Los requerimientos que establezca la Secretaría y las evaluaciones que se realicen para determinar las capacidades de la Entidad Federativa, deberán publicarse en el Diario Oficial de la Federación y en la gaceta o periódico oficial de la respectiva entidad federativa, con antelación a la celebración de los convenios o acuerdos de coordinación;
 
-III. Se describirán los bienes y recursos que aporten las partes esclareciendo cuál será su destino específico y su forma de administración;
+II. Establecerán con precisión su objeto, así como las materias y facultades que se asumirán, debiendo ser congruente con los objetivos de los instrumentos de planeación nacional de desarrollo y con la política ambiental nacional;
 
-IV. Se especificará la vigencia del convenio o acuerdo, sus formas de terminación y de solución de controversias y, en su caso, de prórroga;
+III. Determinarán la participación y responsabilidad que corresponda a cada una de las partes, así como los bienes y recursos aportados por las mismas, especificando su destino y forma de administración. Además precisarán qué tipo de facultades se pueden asumir de forma inmediata a la firma del convenio o acuerdo y cuáles en forma posterior.
 
-V. Definirán el órgano u órganos que llevarán a cabo las acciones que resulten de los convenios o acuerdos de coordinación, incluyendo las de evaluación, y
+IV. Establecerán el órgano u órganos que llevarán a cabo las acciones que resulten de los convenios o acuerdos de coordinación, incluyendo las de evaluación, así como el cronograma de las actividades a realizar;
 
-VI. Contendrán las demás estipulaciones que las partes consideren necesarias para el correcto cumplimiento del convenio o acuerdo.
+V. Definirán los mecanismos de información que se requieran, a fin de que las partes suscriptoras puedan asegurar el cumplimiento de su objeto;
 
-Los convenios a que se refiere el presente artículo, deberán ser publicados en el Diario Oficial de la Federación y en el órgano oficial del gobierno local respectivo.
+VI. Precisarán la vigencia del instrumento, sus formas de modificación y terminación y, en su caso, el número y duración de sus prórrogas;
+
+VII. Contendrán, los anexos técnicos necesarios para detallar los compromisos adquiridos;
+
+VIII. Las demás estipulaciones que las partes consideren necesarias para el correcto cumplimiento del convenio o acuerdo de coordinación;
+
+IX. Para efectos en el otorgamiento de los permisos o autorizaciones en materia de impacto ambiental que correspondan al Distrito Federal, los Estados, o en su caso, los Municipios, deberán seguirse los mismos procedimientos establecidos en la sección V de la presente Ley, además de lo que establezcan las disposiciones legales y normativas locales correspondientes;
+
+X. Para el caso de los convenios relativos a las Evaluaciones de Impacto Ambiental, los procedimientos que las entidades establezcan habrán de ser los establecidos en el Reglamento del presente ordenamiento en Materia de Evaluación del Impacto Ambiental, y serán autorizados por la Secretaría y publicados en el Diario Oficial de la Federación y en la gaceta o periódico oficial de la respectiva entidad federativa, con antelación a la entrada en vigor del convenio o acuerdo de coordinación.
+
+Corresponde a la Secretaría evaluar el cumplimiento de los compromisos que se asuman en los convenios o acuerdos de coordinación a que se refiere este artículo.
+
+Los convenios o acuerdos de coordinación a que se refiere el presente artículo, sus modificaciones, así como su acuerdo de terminación, deberán publicarse en el Diario Oficial de la Federación y en la gaceta o periódico oficial de la respectiva entidad federativa.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -998,7 +1034,7 @@ Las zonas del territorio nacional y aquéllas sobre las que la Nación ejerce so
 
 Los propietarios, poseedores o titulares de otros derechos sobre tierras, aguas y bosques comprendidos dentro de áreas naturales protegidas deberán sujetarse a las modalidades que de conformidad con la presente Ley, establezcan los decretos por los que se constituyan dichas áreas, así como a las demás previsiones contenidas en el programa de manejo y en los programas de ordenamiento ecológico que correspondan.
 
-(REUBICADA Y REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 45.
 
@@ -1026,11 +1062,15 @@ VI. Proteger poblados, vías de comunicación, instalaciones industriales y apro
 
 VII. Proteger los entornos naturales de zonas, monumentos y vestigios arqueológicos, históricos y artísticos, así como zonas turísticas, y otras áreas de importancia para la recreación, la cultura e identidad nacionales y de los pueblos indígenas.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+
+ARTICULO 45 BIS.- Las autoridades competentes garantizarán el otorgamiento de estímulos fiscales y retribuciones económicas, con la aplicación de los instrumentos económicos referidos en el presente ordenamiento, a los propietarios, poseedores o titulares de otros derechos sobre tierras, aguas y bosques comprendidos dentro de áreas naturales protegidas.
+
+(REUBICADA Y REFORMADA SU DENOMINACION, D.O.F. 13 DE DICIEMBRE DE 1996)
 
 #### SECCION II. Tipos y Características de las Áreas Naturales Protegidas
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 46.
 
@@ -1818,9 +1858,13 @@ En los estímulos fiscales que se otorguen a las actividades forestales, deberá
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
 
-ARTICULO 109 BIS.- La Secretaría, en los términos que señalen los reglamentos de esta Ley, deberá integrar un inventario de emisiones atmosféricas, descargas de aguas residuales en cuerpos receptores federales o que se infiltren al subsuelo, materiales y residuos peligrosos de su competencia, coordinar los registros que establezca la Ley y crear un sistema consolidado de información basado en las autorizaciones, licencias o permisos que en la materia deberán otorgarse.
+ARTICULO 109 BIS.- La Secretaría, los Estados, el Distrito Federal y los Municipios, deberán integrar un registro de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos de su competencia, así como de aquellas sustancias que determine la autoridad correspondiente. La información del registro se integrará con los datos y documentos contenidos en las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante la Secretaría, o autoridad competente del Gobierno del Distrito Federal, de los Estados, y en su caso, de los Municipios.
+
+Las personas físicas y morales responsables de fuentes contaminantes están obligadas a proporcionar la información, datos y documentos necesarios para la integración del registro. La información del registro se integrará con datos desagregados por sustancia y por fuente, anexando nombre y dirección de los establecimientos sujetos a registro.
+
+La información registrada será pública y tendrá efectos declarativos. La Secretaría permitirá el acceso a dicha información en los términos de esta Ley y demás disposiciones jurídicas aplicables y la difundirá de manera proactiva.
 
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -2026,6 +2070,10 @@ VII. La clasificación de cuerpos receptores de descarga de aguas residuales, de
 
 La Secretaría expedirá las normas oficiales mexicanas que se requieran para prevenir y controlar la contaminación de las aguas nacionales, conforme a lo dispuesto en esta Ley, en la Ley de Aguas Nacionales, su Reglamento y las demás disposiciones que resulten aplicables.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+
+Tratándose de normas oficiales mexicanas que se requieran para prevenir y controlar la contaminación de las aguas en zonas y aguas marinas mexicanas, la Secretaría se coordinará con la Secretaría de Marina.
+
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ARTICULO 119 BIS.- En materia de prevención y control de la contaminación del agua, corresponde a los gobiernos de los Estados y de los Municipios, por sí o a través de sus organismos públicos que administren el agua, así como al del Distrito Federal, de conformidad con la distribución de competencias establecida en esta Ley y conforme lo dispongan sus leyes locales en la materia:
@@ -2114,11 +2162,11 @@ En los aprovechamientos existentes de aguas residuales en la agricultura, se pro
 
 El otorgamiento de asignaciones, autorizaciones, concesiones o permisos para la explotación, uso o aprovechamiento de aguas en actividades económicas susceptibles de contaminar dicho recurso, estará condicionado al tratamiento previo necesario de las aguas residuales que se produzcan.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 130.
 
-La Secretaría autorizará el vertido de aguas residuales en aguas marinas, de conformidad con lo dispuesto en la Ley de Aguas Nacionales, su Reglamento y las normas oficiales mexicanas que al respecto expida. Cuando el origen de las descargas provenga de fuentes móviles o de plataformas fijas en el mar territorial y la zona económica exclusiva, la Secretaría se coordinará con la Secretaría de Marina para la expedición de las autorizaciones correspondientes.
+La Secretaría autorizará el vertido de aguas residuales en aguas marinas, de conformidad con lo dispuesto en la Ley de Aguas Nacionales, su Reglamento y las normas oficiales mexicanas que al respecto expida. Cuando el origen de las descargas provenga de fuentes móviles o de plataformas fijas en el mar territorial y la zona económica exclusiva, así como de instalaciones de tierra cuya descarga sea el mar, la Secretaría se coordinará con la Secretaría de Marina para la expedición de las autorizaciones correspondientes.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -2282,6 +2330,10 @@ La realización de actividades industriales, comerciales o de servicios altament
 
 Quienes realicen actividades altamente riesgosas, en los términos del Reglamento correspondiente, deberán formular y presentar a la Secretaría un estudio de riesgo ambiental, así como someter a la aprobación de dicha dependencia y de las Secretarías de Gobernación, de Energía, de Comercio y Fomento Industrial, de Salud, y del Trabajo y Previsión Social, los programas para la prevención de accidentes en la realización de tales actividades, que puedan causar graves desequilibrios ecológicos.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+
+ARTICULO 147 BIS.- Quienes realicen actividades altamente riesgosas, en los términos del Reglamento correspondiente, deberán contar con un seguro de riesgo ambiental. Para tal fin, la Secretaría con aprobación de las Secretarías de Gobernación, de Energía, de Economía, de Salud, y del Trabajo y Previsión Social integrará un Sistema Nacional de Seguros de Riesgo Ambiental.
+
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 148.
@@ -2306,7 +2358,9 @@ La legislación local definirá las bases a fin de que la Federación, los Estad
 
 Los materiales y residuos peligrosos deberán ser manejados con arreglo a la presente Ley, su Reglamento y las normas oficiales mexicanas que expida la Secretaría, previa opinión de las Secretarías de Comercio y Fomento Industrial, de Salud, de Energía, de Comunicaciones y Transportes, de Marina y de Gobernación. La regulación del manejo de esos materiales y residuos incluirá según corresponda, su uso, recolección, almacenamiento, transporte, reuso, reciclaje, tratamiento y disposición final.
 
-El Reglamento y las normas oficiales mexicanas a que se refiere el párrafo anterior, contendrán los criterios y listados que clasifiquen los materiales y residuos peligrosos identificándolos por su grado de peligrosidad y considerando sus características y volúmenes. Corresponde a la Secretaría la regulación y el control de los materiales y residuos peligrosos.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+
+El Reglamento y las normas oficiales mexicanas a que se refiere el párrafo anterior, contendrán los criterios y listados que identifiquen y clasifiquen los materiales y residuos peligrosos por su grado de peligrosidad, considerando sus características y volúmenes; además, habrán de diferenciar aquellos de alta y baja peligrosidad. Corresponde a la Secretaría la regulación y el control de los materiales y residuos peligrosos.
 
 Asimismo, la Secretaría en coordinación con las dependencias a que se refiere el presente artículo, expedirá las normas oficiales mexicanas en las que se establecerán los requisitos para el etiquetado y envasado de materiales y residuos peligrosos, así como para la evaluación de riesgo e información sobre contingencias y accidentes que pudieran generarse por su manejo, particularmente tratándose de sustancias químicas.
 
@@ -2438,6 +2492,10 @@ En dicho Sistema, la Secretaría deberá integrar, entre otros aspectos, informa
 
 La Secretaría reunirá informes y documentos relevantes que resulten de las actividades científicas, académicas, trabajos técnicos o de cualquier otra índole en materia ambiental y de preservación de recursos naturales, realizados en el país por personas físicas o morales, nacionales o extranjeras, los que serán remitidos al Sistema Nacional de Información Ambiental y de Recursos Naturales.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+
+Los Estados, los Municipios y el Distrito Federal, participarán con la Secretaría en la integración del Sistema Nacional de Información Ambiental y de Recursos Naturales.
+
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ARTICULO 159 BIS 1.- La Secretaría deberá elaborar y publicar bianualmente un informe detallado de la situación general existente en el país en materia de equilibrio ecológico y protección al ambiente.
@@ -2550,21 +2608,29 @@ Tratándose de materias referidas en esta Ley que se encuentran reguladas por le
 
 La Secretaría realizará los actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como de las que del mismo se deriven.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+
+En las zonas marinas mexicanas la Secretaría, por sí o por conducto de la Secretaría de Marina, realizará los actos de inspección, vigilancia y, en su caso, de imposición de sanciones por violaciones a las disposiciones de esta Ley.
+
 ###### ARTICULO 162.
 
 Las autoridades competentes podrán realizar, por conducto de personal debidamente autorizado, visitas de inspección, sin perjuicio de otras medidas previstas en las leyes que puedan llevar a cabo para verificar el cumplimiento de este ordenamiento.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
 
-Dicho personal, al realizar las visitas de inspección, deberá contar con el documento oficial que los acredite o autorice a practicar la inspección o verificación, así como la orden escrita debidamente fundada y motivada, expedida por autoridad competente en la que se precisará el lugar o zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de ésta.
+Dicho personal, al realizar las visitas de inspección, deberá contar con el documento oficial que los acredite o autorice a practicar la inspección o verificación, así como la orden escrita debidamente fundada y motivada, expedida por autoridad competente, en la que se precisará el lugar o zona que habrá de inspeccionarse y el objeto de la diligencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 163.
 
-El personal autorizado, al iniciar la inspección se identificará debidamente con la persona con quien se entienda la diligencia, exhibirá la orden respectiva y le entregará copia de la misma con firma autógrafa, requiriéndola para que en el acto designe dos testigos.
+El personal autorizado, al iniciar la inspección, se identificará debidamente con la persona con quien se entienda la diligencia, exhibiéndole, para tal efecto credencial vigente con fotografía, expedida por autoridad competente que lo acredite para realizar visitas de inspección en la materia, y le mostrará la orden respectiva, entregándole copia de la misma con firma autógrafa, requiriéndola para que en el acto designe dos testigos.
 
 En caso de negativa o de que los designados no acepten fungir como testigos, el personal autorizado podrá designarlos, haciendo constar esta situación en el acta administrativa que al efecto se levante, sin que esta circunstancia invalide los efectos de la inspección.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+
+En los casos en que no fuera posible encontrar en el lugar de la visita persona que pudiera ser designada como testigo, el personal actuante deberá asentar esta circunstancia en el acta administrativa que al efecto se levante, sin que ello afecte la validez de la misma.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -2588,11 +2654,13 @@ La persona con quien se entienda la diligencia estará obligada a permitir al pe
 
 La autoridad competente podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que haya lugar.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 167.
 
-Recibida el acta de inspección por la autoridad ordenadora, requerirá al interesado, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas o de urgente aplicación necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, fundando y motivando el requerimiento, señalando el plazo que corresponda, y para que dentro del término de quince días exponga lo que a su derecho convenga y, en su caso, aporte las pruebas que considere procedentes, en relación con la actuación de la Secretaría.
+Recibida el acta de inspección por la autoridad ordenadora, requerirá al interesado, cuando proceda, mediante notificación personal o por correo certificado con acuse de recibo, para que adopte de inmediato las medidas correctivas o de urgente aplicación que, en su caso, resulten necesarias para cumplir con las disposiciones jurídicas aplicables, así como con los permisos, licencias, autorizaciones o concesiones respectivas, señalando el plazo que corresponda para su cumplimiento, fundando y motivando el requerimiento. Asimismo, deberá señalarse al interesado que cuenta con un término de quince días para que exponga lo que a su derecho convenga y, en su caso, aporte las pruebas que considere procedentes en relación con la actuación de la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 Admitidas y desahogadas las pruebas ofrecidas por el interesado, o habiendo transcurrido el plazo a que se refiere el párrafo anterior, sin que haya hecho uso de ese derecho, se pondrán a su disposición las actuaciones, para que en un plazo tres días hábiles, presente por escrito sus alegatos.
 
@@ -2601,6 +2669,10 @@ Admitidas y desahogadas las pruebas ofrecidas por el interesado, o habiendo tran
 ###### ARTICULO 168.
 
 Una vez recibidos los alegatos o transcurrido el término para presentarlos, la Secretaría procederá, dentro de los veinte días siguientes, a dictar por escrito la resolución respectiva, misma que se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+
+Durante el procedimiento y antes de que se dicte resolución, el interesado y la Secretaría, a petición del primero, podrán convenir la realización de las acciones de restauración o compensación de daños necesarias para la corrección de las presuntas irregularidades observadas. La instrumentación y evaluación de dicho convenio, se llevará a cabo en los términos del artículo 169 de esta Ley.
 
 ###### ARTICULO 169.
 
@@ -2648,7 +2720,9 @@ ARTICULO 170 BIS.- Cuando la Secretaría ordene alguna de las medidas de segurid
 
 Las violaciones a los preceptos de esta Ley, sus reglamentos y las disposiciones que de ella emanen serán sancionadas administrativamente por la Secretaría, con una o más de las siguientes sanciones:
 
-I. Multa por el equivalente de veinte a veinte mil días de salario mínimo general vigente en el Distrito Federal en el momento de imponer la sanción;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+
+I. Multa por el equivalente de veinte a cincuenta mil días de salario mínimo general vigente en el Distrito Federal al momento de imponer la sanción;
 
 > <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -2686,9 +2760,9 @@ Cuando la gravedad de la infracción lo amerite, la autoridad, solicitará a qui
 
 Para la imposición de las sanciones por infracciones a esta Ley, se tomará en cuenta:
 
-> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
 
-I. La gravedad de la infracción, considerando principalmente los siguientes criterios: impacto en la salud pública; generación de desequilibrios ecológicos; la afectación de recursos naturales o de la biodiversidad; y, en su caso, los niveles en que se hubieran rebasado los límites establecidos en la norma oficial mexicana aplicable;
+I. La gravedad de la infracción, considerando principalmente los siguientes criterios: los daños que se hubieran producido o puedan producirse en la salud pública; la generación de desequilibrios ecológicos; la afectación de recursos naturales o de la biodiversidad y, en su caso, los niveles en que se hubieran rebasado los límites establecidos en la norma oficial mexicana aplicable;
 
 II. Las condiciones económicas del infractor; y (sic)
 
@@ -2708,9 +2782,9 @@ V. El beneficio directamente obtenido por el infractor por los actos que motiven
 
 En el caso en que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la Secretaría imponga una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
 
-La autoridad correspondiente podrá otorgar al infractor, la opción para pagar la multa o realizar inversiones equivalentes en la adquisición e instalación de equipo para evitar contaminación o en la protección, preservación o restauración del ambiente y los recursos naturales, siempre y cuando se garanticen las obligaciones del infractor, no se trate de alguno de los supuestos previstos en el artículo 170 de esta Ley y la autoridad justifique plenamente su decisión.
+La autoridad correspondiente, por sí o a solicitud del infractor, podrá otorgar a éste, la opción para pagar la multa o realizar inversiones equivalentes en la adquisición e instalación de equipo para evitar contaminación o en la protección, preservación o restauración del ambiente y los recursos naturales, siempre y cuando se garanticen las obligaciones del infractor, no se trate de alguno de los supuestos previstos en el artículo 170 de esta Ley, y la autoridad justifique plenamente su decisión.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -2724,7 +2798,9 @@ En los casos en que se imponga como sanción la clausura temporal, la Secretarí
 
 ARTICULO 174 BIS.- La Secretaría dará a los bienes decomisados alguno de los siguientes destinos:
 
-I. Venta directa en aquellos casos en que el valor de lo decomisado no exceda de 5,000 veces el salario mínimo general vigente en el Distrito Federal al momento de imponer la sanción;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+
+I. Venta a través de invitación a cuando menos tres compradores, en aquellos casos en que el valor de lo decomisado no exceda de 5,000 mil veces el salario mínimo general vigente en el Distrito Federal al momento de imponer la sanción. Si dichos invitados no comparecen el día señalado para la venta o sus precios no fueren aceptados, la autoridad podrá proceder a su venta directa;
 
 II. Remate en subasta pública cuando el valor de lo decomisado exceda de 5,000 veces el salario diario mínimo general vigente en el Distrito Federal al momento de imponer la sanción;
 
@@ -2823,6 +2899,10 @@ En aquellos casos en que, como resultado del ejercicio de sus atribuciones, la S
 Toda persona podrá presentar directamente las denuncias penales que correspondan a los delitos ambientales previstos en la legislación aplicable.
 
 La Secretaría proporcionará, en las materias de su competencia, los dictámenes técnicos o periciales que le soliciten el Ministerio Público o las autoridades judiciales, con motivo de las denuncias presentadas por la comisión de delitos ambientales.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+
+La Secretaría será coadyuvante del Ministerio Público Federal, en los términos del Código Federal de Procedimientos Penales. Lo anterior, sin perjuicio de la coadyuvancia que pueda hacer la víctima o el ofendido directo del ilícito, por sí mismo o a través de su representante legal.
 
 ###### ARTICULO 183.
 
@@ -3081,3 +3161,13 @@ En tanto se expidan las disposiciones reglamentarias que se deriven del presente
 D.O.F. 7 DE ENERO DE 2000.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 2001.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los procedimientos y recursos administrativos que a la entrada en vigor del presente Decreto se encuentren pendientes de resolución se sustanciarán conforme a las disposiciones vigentes en el momento en que se iniciaron.
+
+TERCERO. Para la firma y entrada en vigor de cualquier convenio o acuerdo a que se refiere el artículo 11 de esta Ley, las Entidades Federativas o Municipios participantes en ellos, habrán de contar con su propio programa de ordenamiento regional, particular o marino según corresponda.
+
+CUARTO. Los seguros de riesgo ambiental estarán sujetos a un Reglamento de la Ley General del Equilibrio Ecológico y la Protección al Ambiente para el Establecimiento de Seguros y Primas por Riesgo Ambiental. Para tal efecto, la Secretaría, habrá de publicar este marco reglamentario, a más tardar en un año después de la entrada en vigor del presente Decreto.
