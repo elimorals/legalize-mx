@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1988-02-20"
+last_updated: "1989-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE FEBRERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 1989.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -269,13 +269,13 @@ No podrán reunirse dos o más de estos poderes en una sola persona o corporaci�
 
 #### SECCION II. DE LA ELECCION E INSTALACION DEL CONGRESO
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 13 DE MAYO DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 1989)</small>
 
-41.- El Congreso del Estado de Baja California Sur, se integrará con doce Diputados de Mayoría Relativa, electos en su totalidad cada tres años por votación directa y secreta mediante el sistema de Distritos Electorales Uninominales y hasta con cuatro Diputados electos mediante el principio de Representación Proporcional, apegándose en ambos casos, a las siguientes reglas:
+41.- El Congreso del Estado de Baja California Sur se integrará con 15 Diputados de Mayoría Relativa electos en su totalidad cada tres años, por votación directa y secreta, mediante el sistema de Distritos Electorales Uninominales y hasta con 5 Diputados electos mediante el principio de Representación Proporcional, apegándose en ambos casos, a las reglas siguientes:
 
-> <small>(REFORMADA, B.O. 13 DE MAYO DE 1986)</small>
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 1989)</small>
 
-I.- La base para realizar la demarcación territorial de los doce Distritos Electorales, será la resultante de dividir la población total del Estado, conforme al último Censo General de Población, entre el número de Distritos señalados, teniendo también en cuenta para su distribución el factor geográfico y el socioeconómico.
+I.- La base para realizar la demarcación territorial de los 15 Distritos Electorales, será el resultante de dividir la población total del Estado conforme al último censo general de población entre el número de Distritos señalados, teniendo también en cuenta para su distribución el factor geográfico y el socioeconómico;
 
 > <small>(REFORMADA, B.O. 25 DE ABRIL DE 1983)</small>
 
@@ -1237,7 +1237,7 @@ IV.- Designar al Regidor que deba sustituir al Presidente Municipal en caso de f
 
 V.- Mantener los servicios de seguridad pública y tránsito municipal.
 
-VI.- Establecer en el territorio del municipio las delegaciones y subdelegaciones que sean necesarias;
+VI.- Establecer en el territorio del municipio, las delegaciones y subdelegaciones que sean necesarias;
 
 > <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
@@ -1247,7 +1247,7 @@ VIII.- Proceder conforme a la Ley sobre Monumentos y Zonas Arqueológicas, Artí
 
 IX.- Promover el mejoramiento de los servicios y el acrecentamiento del patrimonio municipa (sic);
 
-X.- Formular anualmente su proyecto de ley de ingresos que será sometido a aprobación del Congreso del Estado;
+X.- Formular anualmente su proyecto de ley de ingresos, que será sometido a la aprobación del Congreso del Estado;
 
 > <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
@@ -1758,3 +1758,13 @@ DECRETO NUMERO 662.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 10 DE JULIO DE 1989.
+
+###### ARTICULO 1o.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO 2o.
+
+Los Diputados que se elijan para la VI Legislatura al Congreso del Estado, entrarán en funciones el día 15 de marzo de 1990, en virtud a las reformas al Artículo 50 de la Constitución Política del Estado de Baja California Sur, mediante Decreto No. 631 de fecha 19 de noviembre de 1987.
