@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1930-02-09"
+last_updated: "1930-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 1930.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1930.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -961,11 +961,15 @@ Los miembros de las Corporaciones Municipales serán electos popularmente, y su 
 
 De los miembros del Ayuntamientos habrá uno que se denominará Presidente Municipal, otro Síndico y los demás Regidores. El primero será política y administrativamente el representante de la Corporación, y no podrá ser reelecto.
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 1919)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1930)</small>
 
 ###### Art. 109.
 
-Los Ayuntamientos administrarán libremente su Hacienda, sometiendo a la aprobación de la Legislatura del Estado, por conducto del Ejecutivo, sus Presupuestos de Ingresos y Egresos Municipales.
+Los Ayuntamientos administrarán libremente su Hacienda, sometiendo directamente a la probación (sic) de la Legislatura del Estado:
+
+I.- Su Presupuesto de Egresos, de acuerdo con las necesidades de su administración y de los servicios públicos Municipales; y
+
+II.- Su Ley de Ingresos, con la limitación que señala el artículo 115 Bis de esta Constitución; en el concepto de que un ejemplar de los documentos a que se refieren los incisos anteriores deberá ser remitido por el H. Ayuntamiento, para su estudio, al Ejecutivo del Estado.
 
 ###### Art. 110.
 
@@ -1003,11 +1007,25 @@ Los Ayuntamientos se renovarán cada dos años en su totalidad y la Ley Orgánic
 
 El Congreso del Estado determinará por Ley especial que llevará el nombre de "LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE NAYARIT", los estatutos económicos y administrativos a que deben sujetarse los Municipios en su régimen interior, y los cuales podrá la Legislatura alterar o modificar cuando el bien de la Administración Pública general o de los mismos Municipios lo hiciere necesario. Tanto en la Ley Orgánica Municipal, como en sus alteraciones o modificaciones en su caso, se atenderá siempre a mantener la unidad del Gobierno que necesariamente exige la Administración Pública General del Estado, en relación con el grado de libertad interior administrativa que les señala la Constitución General de la República. En consecuencia, los Municipios, sin infringir las Leyes Federales o del Estado y sin excederse de sus Presupuestos respectivos, tienen derecho a atender libremente, de la manera que juzguen más eficaz, todos los Ramos de la Administración Pública interior de los mismos Municipios.
 
-> <small>(ADICIONADO, P.O. 30 DE MARZO DE 1919)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1930)</small>
 
 ###### Art. 115 Bis.
 
-La Hacienda de los Municipios de formará de las contribuciones que ellos mismos señalen con aprobación de la Legislatura del Estado, siendo en todo caso suficientes para atender sus necesidades.
+La Hacienda Pública del Estado y de los Municipios se formará de impuestos, contribuciones, derechos y productos que fije la Legislatura del Estado. Corresponden exclusivamente al Erario del Estado, los que graven las siguientes fuentes de riqueza:
+
+I.- Propiedad raíz rústica y urbana.
+
+II.- El Comercio, la Industria y la Agricultura.
+
+III.- Ejercicio de Profesiones y Oficios.
+
+IV. Herencias, Legados y Donaciones.
+
+V.- Cualesquiera otras fuentes, siempre que el impuesto no se oponga a la Constitución General de la República o a las Leyes Federales.
+
+Los Ayuntamientos percibirán a título de compensación por la prohibición anterior, tantos por cientos adicionales sobre los impuestos que cobre el Estado a las fuentes tributarias de que se trata.
+
+Si los gravámenes aprobados para los Ayuntamientos son insuficientes, porque sus ingresos no cubren los gastos de sus servicios Municipales, el Congreso del Estado autorizará a los Municipios por medio de una Ley Gral. para cobrar los impuestos sobre Ramos que no graven el Gobierno del Estado. Cuando el monto de los recursos Municipales, excedan de sus gastos, se reducirán de preferencia los tipos adicionales que este artículo menciona hasta lograr su total derogación.
 
 ## TITULO SEPTIMO
 
@@ -1236,3 +1254,13 @@ El presente decreto comenzará a surtir sus efectos legales a partir del día de
 P.O. 9 DE FEBRERO DE 1930
 
 El presente decreto comenzará a surtir sus efectos a partir del día de su promulgación.
+
+P.O. 15 DE JUNIO DE 1930
+
+###### ARTICULO PRIMERO.
+
+Entre tanto se fijan los porcentajes adicionales a que se refiere la presente Ley, los Municipios del Estado continuarán cobrando los Impuestos, contribuciones y derechos aprobados para el corriente año fiscal, en sus respectivas Leyes de Ingresos y Arbitrios.
+
+###### ARTICULO SEGUNDO.
+
+Las reformas a este decreto surten sus efectos desde la fecha de su promulgación, y deroga las disposiciones de la Ley de Hacienda Municipal, Leyes Decretos y demás ordenamientos que se opongan al presente decreto, a partir del día en que se fijen los adicionales.
