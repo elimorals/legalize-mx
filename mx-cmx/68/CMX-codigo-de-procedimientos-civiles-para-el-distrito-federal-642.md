@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2004-06-09"
+last_updated: "2004-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE JUNIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE SEPTIEMBRE DE 2004.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -660,6 +660,16 @@ IV.- El arresto hasta por treinta y seis horas.
 
 Si el caso exige mayor sanción, se dará parte a la autoridad competente.
 
+> <small>(ADICIONADO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+
+###### ARTICULO 73 Bis.
+
+Los jueces de lo familiar, respecto a la convivencia de menores, podrán emplear:
+
+I. Arresto hasta por 36 horas.
+
+II. La reiteración inmediata de no permitir la convivencia de quien ejerza la custodia del menor, dará lugar a la intervención del C. Agente del Ministerio Público, para el ejercicio de la acción correspondiente.
+
 ARTICULO 74
 
 > <small>(F. DE E., D.O.F. 1o. DE OCTUBRE DE 1932)</small>
@@ -1022,6 +1032,10 @@ VI.- La sentencia dictada por el juez o la Sala del Tribunal que condene al arre
 
 VII.- En los demás casos que la ley disponga.
 
+> <small>(ADICIONADO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+
+A los procedimientos familiares sólo les será aplicado lo señalado en las fracciones I, III y IV, de no ser así las partes quedarán enteradas por boletín judicial, salvo que el juez considere otra cosa; asimismo, para el supuesto de que dicha diligencia se refiera a entrega de menor, la misma se practicará en el lugar en donde reside el requerido.
+
 > <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
 ARTICULO 115
@@ -1135,6 +1149,10 @@ En este juicio no se entregarán los autos originales para formular alegatos. La
 ARTICULO 123
 
 La primera notificación al promovente de cualquier procedimiento se hará por Boletín Judicial, salvo que se disponga otra cosa por la ley o el tribunal. En todo caso el tribunal tendrá la obligación de notificar personalmente, entregando copia simple o fotostática de la resolución, la segunda y ulteriores notificaciones a los interesados o a sus apoderados, procuradores o autorizados, si éstos ocurren al tribunal o juzgado respectivo, el mismo día en que se dicten las resoluciones que hayan de notificarse, y exigen que se les haga conocedoras de las providencias dictadas, sin necesidad de esperar a que se publiquen en el Boletín Judicial, dejando constancia en autos de dicha notificación, firmada por el notificado y el fedatario, o haciendo saber si el primero se negó a firmar.
+
+> <small>(ADICIONADO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+
+El tribunal tendrá la facultad de notificar a las partes, personalmente o por conducto de sus autorizados cualquier notificación personal, citación, requerimiento, notificación inicial o incidental decretada en autos, cuando comparezcan al tribunal a imponerse de ellos, o asistan a cualquier diligencia, en los términos de la parte final del párrafo que antecede.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -1898,11 +1916,15 @@ La liquidación se hace incidentalmente con un escrito de cada parte y la resolu
 
 ### CAPITULO III. Separación de personas como acto prejudicial
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
 
 ARTICULO 205
 
-El que intente demandar o denunciar o querellarse contra su cónyuge, puede solicitar su separación al Juez de lo Familiar.
+El que intente demandar, denunciar o querellarse contra su cónyuge, concubino o pariente, podrá acudir al Centro de Justicia Alternativa, quienes deberán llamar a los mediados, para tratar de dirimir la controversia.
+
+El mediador propondrá lo que mejor convenga al interés superior de los menores, a fin de que por convenio entre los progenitores, se resuelva lo relativo a su guarda y custodia, y al derecho de convivencia que corresponda al ascendiente que no conserve la custodia. El cumplimiento del convenio podrá solicitarse ante el Juez de lo Familiar en la vía de apremio.
+
+Por otra parte, para el caso de que se trate de personas que se encuentren en los supuestos señalados en primer lugar, podrán por separado a la mediación, solicitar al Juez de lo Familiar su separación del domicilio en el que residan habitualmente.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -2178,7 +2200,9 @@ Cuando la providencia precautoria se dicte por un juez que no sea el que deba co
 
 ARTICULO 255
 
-Toda contienda judicial principiará por demanda en la cual se expresarán:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+
+Toda contienda judicial, principal o incidental, principiará por demanda, en la cual se expresaran:
 
 I.- El tribunal ante el que se promueve;
 
@@ -2200,11 +2224,15 @@ VI.- Los fundamentos de derecho y la clase de acción, procurando citar los prec
 
 > <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
 
-VII.- El valor de lo demandado, si de ello depende la competencia del juez, y
+VII.- El valor de lo demandado, si de ello depende la competencia del juez, y (sic)
 
 > <small>(ADICIONADA, D.O.F. 24 DE MAYO DE 1996)</small>
 
-VIII.- La firma del actor, o de su representante legítimo. Si éstos no supieren o no pudieren firmar, pondrán su huella digital, firmando otra persona en su nombre y a su ruego, indicando estas circunstancias.
+VIII.- La firma del actor, o de su representante legítimo. Si éstos no supieren o no pudieren firmar, pondrán su huella digital, firmando otra persona en su nombre y a su ruego, indicando estas circunstancias;
+
+> <small>(ADICIONADA, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+
+IX.- Para el trámite de incidentes, la primera notificación se llevará a cabo en el domicilio señalado en autos por las partes, si se encuentra vigente el juicio principal, y para el caso, de que haya resolución firme o ejecutoriada, o haya inactividad procesal por más de tres meses, se practicará en el lugar en el que resida la parte demandada incidentista.
 
 ARTICULO 256
 
@@ -3406,7 +3434,9 @@ En las cuestiones relativas al estado civil de las personas y a las de validez o
 
 Se entiende que hay identidad de personas siempre que los litigantes del segundo pleito, sean causahabientes de los que contendieron en el pleito anterior o estén unidos a ellos por solidaridad o indivisibilidad de las prestaciones entre los que tienen derecho a exigirlas u obligación de satisfacerlas.
 
-ARTICULO 423 (DEROGADO, D.O.F. 10 DE ENERO DE 1986)
+ARTICULO 423
+
+> <small>(DEROGADO, D.O.F. 10 DE ENERO DE 1986)</small>
 
 ARTICULO 424 (DEROGADO, D.O.F. 10 DE ENERO DE 1986)
 
@@ -4694,7 +4724,7 @@ ARTICULO 603
 
 El juez que reciba despacho u orden de su superior para ejecutar cualquiera diligencia, es mero ejecutor y en consecuencia no dará curso a ninguna excepción que opongan los interesados, y se tomará simplemente razón de sus respuestas en el expediente, antes de devolverlo.
 
-> <small>(ADICIONADO Y SU DENOMINACION, D.O.F. 7 DE ENERO DE 1988)</small>
+> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
 ### CAPITULO I. Procedimiento estando ausente el rebelde
 
@@ -7056,9 +7086,9 @@ En ambos casos no son necesarias formalidades de ninguna clase, asentándose sol
 
 TITULO DECIMOSEXTO
 
-> <small>(ADICIONADO Y SU DENOMINACION, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADA SU DENOMINACION, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
 
-### CAPITULO UNICO. De las Controversias de Orden Familiar
+### CAPITULO UNICO. Disposiciones Generales
 
 > <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -7079,6 +7109,56 @@ En todos los asuntos del orden familiar los Jueces y Tribunales están obligados
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
 
 En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el Juez deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
+
+> <small>(ADICIONADO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+
+ARTICULO 941 BIS.
+
+Cuando a petición de parte interesada, se deba resolver provisionalmente sobre la custodia y la convivencia de las niñas y los niños con sus parientes por consaguinidad (sic) en línea colateral hasta por el cuarto grado, previamente se dará vista a la parte contraria y, en caso de desacuerdo, se señalará día y hora para que tenga verificativo la audiencia que resolverá sobre la custodia y las convivencias de los menores, misma que se verificará dentro de los quince días siguientes.
+
+En la audiencia las partes aportaran las pruebas que estimen necesarias a efecto de ejercer la custodia, las que se desahogarán en la misma audiencia; inmediatamente después el juez de lo familiar determinará la situación jurídica provisional de la niña o del niño, principalmente a quien corresponderá la custodia del menor; atendiendo para ello a las circunstancias que observe en ese momento, los elementos que hayan aportado las partes y sobre todo tutelando el interés superior del menor.
+
+A falta o imposibilidad de los padres para tener la custodia de los menores se considerarán las hipótesis previstas en los artículos 414 y 418 del Código Civil.
+
+El Ascendiente que no le sea otorgada la custodia podrá convivir tal y como lo fije el Juez diversos días de la semana, fuera del horario escolar y sin desatender las labores escolares y debiendo auxiliarlo en dichas actividades.
+
+Asimismo, en forma equitativa, se podrá regular la convivencia en fines de semana alternados, periodos de vacaciones escolares y días festivos; cuando estos ya acudan a centros educativos.
+
+En los casos, en que los menores no acudan a centros educativos, médicos o de rehabilitación, el Juez de lo familiar, a su prudente arbitrio, regulará las convivencias del menor con los parientes por consaguinidad (sic) en línea colateral hasta el cuarto grado que no lo tengan bajo su custodia.
+
+> <small>(ADICIONADO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+
+ARTICULO 941 TER.
+
+No será obstáculo para regular el derecho de convivencia de manera provisional, el hecho de que una de las partes manifieste unilateralmente y sin estar reconocido por resolución judicial firme, que ha habido violencia familiar en contra de los menores o algún otro de los miembros del núcleo familiar.
+
+Sin embargo, tales aseveraciones deberán ser tomadas en cuenta por el juez de lo familiar prudentemente. Por tanto, en caso de duda, y para salvaguarda de los menores, podrá ordenar que la convivencia, se realice en los centros e instituciones destinados para tal efecto, únicamente durante el procedimiento. Y no existiendo precedente de riesgo o peligro para el menor no será ordenado por el Juez de lo familiar las convivencias en las instituciones destinadas para tal efecto.
+
+Para el caso de incumplimiento de las resoluciones que ordenen la convivencia con los menores, deberán aplicarse las sanciones que correspondan según los ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+
+ARTICULO 941 QUATER.
+
+El incumplimiento a permitir la convivencia con el ascendiente que no tiene decretada la custodia, dará lugar al cambio de ésta a favor de la otra parte, si no hubiere inconveniente legal alguno, se resolverá en forma incidental.
+
+En el caso de cambio en la persona que tenga la custodia, la regulación de la convivencia con el menor se hará en los mismos términos en que se venía dando, siempre y cuando no se encuentre involucrada en actos de violencia familiar en contra de los integrantes del núcleo familiar, conforme resolución judicial firme.
+
+> <small>(ADICIONADO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+
+ARTICULO 941 QUINTUS.
+
+El ascendiente que tenga el derecho de convivencia con el hijo por resolución judicial y no asista a dichas visitas, sin causa justificada se podrá suspender el goce y ejercicio de ese derecho, quedando como precedente para no solicitarlo o ejercerlo de nuevo con ese hijo, mientras sea menor de edad.
+
+> <small>(ADICIONADO, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+
+ARTICULO 941 SEXTUS.
+
+Cuando por cambio de residencia por parte del ascendiente que conserva la guarda y custodia, éste tiene la obligación de informar al Juez y a quien no ejerce la custodia los datos del nuevo domicilio y número telefónico para efecto de mantener la comunicación del menor y del ascendiente que no ejerza la guarda y custodia.
+
+El incumplimiento de esta disposición dará lugar a lo establecido en el artículo 73 Bis de éste ordenamiento.
+
+Para efectos de la convivencia el Juez resolverá, conforme a lo dispuesto, en el párrafo quinto del artículo 941 Bis.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
@@ -8067,3 +8147,17 @@ PRIMERO. Remítase al Jefe de Gobierno del distrito Federal para su publicación
 SEGUNDO. Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO. Se derogan todas aquellas disposiciones que contravengan lo establecido en la presente Ley.
+
+G.O. 6 DE SEPTIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial de (sic) Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor a los noventa días siguientes a su publicación en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO TERCERO.
+
+Las presentes disposiciones se aplicarán a todos los procedimientos judiciales y administrativos en trámite ante las autoridades correspondientes y de acuerdo a lo dispuesto en el artículo 94 de (sic) Código de Procedimientos Civiles del DF; los interesados podrán promover los beneficios que le concede la presente Ley.
