@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-3524"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-22"
-last_updated: "1994-06-22"
+last_updated: "1996-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y PROTECCION AL AMBIENTE DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1996.
 
 Ley Publicada en el Periódico Oficial del Estado de Campeche, el miércoles 22 de junio de 1994.
 
@@ -799,7 +799,9 @@ La determinación de áreas naturales protegidas tiene como propósito:
 
 I.- Preservar los ambientes naturales representativos de los diferentes ecosistemas, con la finalidad de asegurar el equilibrio y la continuidad de los procesos evolutivos y ecológicos;
 
-II.- Salvaguardar la diversidad genética de las especies silvestres, de las que depende la continuidad evolutiva, particularmente las endémicas, amenazadas o en peligro de extinción;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1996)</small>
+
+II.- Salvaguardar la diversidad genética de las especies silvestres y acuáticas, de las que depende la continuidad evolutiva, así como asegurar la preservación y el aprovechamiento sustentable de la biodiversidad del territorio estatal; en particular preservar las especies raras, las endémicas, las amenazadas, las que están en peligro de extinción y las que se encuentran sujetas a protección especial;
 
 III.- Preservar y restaurar el equilibrio ecológico de los ecosistemas urbanos;
 
@@ -811,27 +813,37 @@ VI.- Proteger los entornos naturales de zonas, monumentos y vestigios histórico
 
 VII.- Regenerar los recursos naturales;
 
-VIII.- Generar conocimientos y tecnologías que permitan el aprovechamiento racional y sostenido de los recursos naturales del Estado, así como su preservación; y
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1996)</small>
+
+VIII.- Generar, rescatar y/o divulgar conocimientos, prácticas y tecnologías tradicionales o nuevas que permitan el aprovechamiento racional y sostenido de los recursos naturales del Estado, así como su preservación; y
 
 IX.- La protección efectiva de los poblados, vías de comunicación, instalaciones industriales y aprovechamientos agrícolas, mediante zonas forestales en montañas donde se originen torrentes; el ciclo hidrológico en cuencas así como las demás que tiendan a la protección de elementos circundantes con las que se relacione ecológicamente el área para lo cual, en su caso, deberán celebrarse los convenios que fuesen conducentes con la Federación.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1996)</small>
+
 ###### ARTICULO 57.
 
-Para los efectos de interpretación y aplicación de la presente Ley Ecológica, se entenderá por áreas naturales protegidas:
+Para los efectos de interpretación y aplicación de la presente ley, se entenderán por áreas naturales protegidas los:
 
-I.- Parques urbanos;
+I.- Santuarios;
 
-II.- Zonas sujetas a conservación ecológica;
+II.- Parques urbanos;
 
-III.- Zonas de valor escénico;
+III.- Zonas sujetas a conservación ecológica;
 
-IV.- Jardines de regeneración o conservación de especies; y
+IV.- Zonas de valor escénico;
 
-V.- Las demás que tengan este carácter conforme a las disposiciones legales estatales o municipales correspondientes.
+V.- Jardines de regeneración o conservación de especies; y
+
+VI.- Zonas especiales de protección de flora y fauna silvestre y acuática.
 
 ###### ARTICULO 58.
 
 En el establecimiento, administración y desarrollo de las áreas naturales protegidas a que se hace referencia en el Artículo que antecede, participarán sus habitantes de conformidad con los acuerdos de concertación que al efecto se celebren, con el objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección de los ecosistemas.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 1996)</small>
+
+ARTICULO 58 BIS.- Los santuarios son regiones ecológicas donde ocurren procesos biológicos específicos tales como reproducción, anidación y estancia temporal o permanente de la fauna, y que en ellas confluyen características y condiciones adecuadas para ello. Los santuarios abarcarán, total o parcialmente, cañadas, vegas, relictos forestales, islas u otras unidades topográficas o geográficas cuya fauna requiera ser protegida. En los santuarios sólo se permitirán actividades de investigación y/o recreación y/o educación ambiental, compatibles con la naturaleza y características del área.
 
 ###### ARTICULO 59.
 
@@ -849,13 +861,21 @@ Las zonas de valor escénico son aquellas que estando dentro del territorio del 
 
 Los jardines de conservación o regeneración de especies son las áreas que se destinen a la conservación o regeneración de germoplasma de variedades nativas de una región.
 
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 1996)</small>
+
+ARTICULO 62 BIS.- Las zonas especiales de protección de flora y fauna silvestre y acuática son las áreas destinadas a la protección de ecosistemas críticos y frágiles, o a la conservación y preservación de elementos físico-naturales e histórico-culturales, o a la promoción y regulación de actividades productivas, de investigación científica y educación ambiental.
+
 ###### ARTICULO 63.
 
 Las áreas naturales se establecerán de conformidad con esta Ley, así como con las demás disposiciones aplicables, mediante declaratoria que expidan:
 
-I.- El Ejecutivo Estatal, con la participación de los Ayuntamientos de los Municipios respectivos, en los casos previstos en las Fracciones II, III, IV y V del Artículo 57o de la presente Ley; y
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1996)</small>
 
-II.- Los Ayuntamientos en los casos previstos por las Fracciones I y IV del propio Artículo 57o de este ordenamiento ecológico estatal.
+I.- El Ejecutivo Estatal, con la participación de los Ayuntamientos de los Municipios respectivos, en los casos previstos en las fracciones I, III, IV y VI del artículo 57 de la presente ley; y
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1996)</small>
+
+II.- Los Ayuntamientos, en los casos previstos por las fracciones II y V del invocado artículo 57 de esta ley.
 
 ###### ARTICULO 64.
 
@@ -1810,3 +1830,11 @@ Palacio Legislativo, Campeche, Cam., a 21 de Junio de 1994.- Dip. Juan Francisco
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche a los veintiún días del mes de junio de mil novecientos noventa y cuatro.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. CRUZ MANUEL ALFARO ISAAC.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 4 DE JUNIO DE 1996.
+
+Primero.- El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
