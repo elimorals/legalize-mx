@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-ejecutiva-de-turismo-22448"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-27"
-last_updated: "2001-11-27"
+last_updated: "2004-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22448&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2001-10-26"
 
 REGLAMENTO INTERIOR DE LA COMISION EJECUTIVA DE TURISMO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE REGLAMENTO HA SIDO ABROGADO POR EL CONSIDERANDO TERCERO DEL REGLAMENTO INTERIOR DE LA COMISION EJECUTIVA DE TURISMO, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 8 DE OCTUBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 27 de noviembre de 2001.
 
@@ -274,3 +276,9 @@ Los integrantes de los grupos de trabajo sectoriales, investigarán y analizará
 > <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CODIGO CIVIL FEDERAL.</small>
 
 México, Distrito Federal, a los veintiséis días del mes de octubre de dos mil uno.- El Subsecretario de Operación Turística y Secretario Técnico de la Comisión Ejecutiva de Turismo, Eduardo Barroso Alarcón.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+D.O.F. 8 DE OCTUBRE DE 2004.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN LOS ARTICULOS 3 Y 4 DEL CODIGO CIVIL FEDERAL.
