@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "1997-09-06"
+last_updated: "1998-09-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE SEPTIEMBRE DE 1998.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -75,9 +75,11 @@ III.- La educación que impartan el Estado y sus organismos descentralizados es 
 
 La educación primaria y secundaria podrá cursarse tanto en las escuelas oficiales como en las particulares que para tal efecto existan y donde se cumplan los requisitos básicos establecidos en la legislación y demás disposiciones generales.
 
+> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 1998)</small>
+
 ###### ARTICULO 6o.
 
-El Gobierno del Estado está obligado a prestar y promover servicios educativos en la medida en que lo permita su presupuesto, con el fin de que la población pueda cursar la educación, preescolar, primaria y secundaria que son obligatorias por mandato constitucional. Asimismo, promoverá y atenderá todos los tipos y modalidades educativas, incluyendo la educación superior.
+El Gobierno del Estado está obligado a prestar y promover servicios educativos con el fin de que la población pueda cursar la educación preescolar, primaria y secundaria que son obligatorias por mandato constitucional. Asimismo, promoverá y atenderá todos los tipos y modalidades educativas, incluyendo la educación superior.
 
 ###### ARTICULO 7o.
 
@@ -1049,7 +1051,7 @@ IV.- Planes y programas de estudios que la autoridad otorgante considere procede
 
 ###### ARTICULO 121.
 
-Los particulares que impartan servicios educativos con autorización o reconocimiento de validez oficial de estudios, deberán mencionar en la documentación que expidan y la publicidad que hagan, su calidad de autorización así como el número y fecha de acuerdo que se les concedió y el nombre de la autoridad otorgante.
+Los particulares que impartan servicios educativos con autorización o reconocimiento de validez oficial de estudios, deberán mencionar en la documentación que expidan y la publicidad que hagan, su calidad de autorización así como el número y fecha de acuerdo que se les concedió y el nombre de. la autoridad otorgante.
 
 ###### ARTICULO 122.
 
@@ -1450,3 +1452,9 @@ ING. ALBERTO CÁRDENAS JIMÉNEZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. RAÚL OCTAVIO ESPINOZA MARTÍNEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE SEPTIEMBRE DE 1998.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
