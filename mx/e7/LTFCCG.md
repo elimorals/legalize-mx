@@ -4,7 +4,7 @@ identifier: "LTFCCG"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-30"
-last_updated: "2003-06-13"
+last_updated: "2005-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LTFCCG"
 
 LEY DE TRANSPARENCIA Y DE FOMENTO A LA COMPETENCIA EN EL CREDITO GARANTIZADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE FEBRERO DE 2005.
 
-Ley publicada en la Sección Tercera del Diario Oficial de la Federación, el lunes 30 de diciembre de 2002.
+Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el lunes 30 de diciembre de 2002.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -46,9 +46,11 @@ Se expide la Ley de Transparencia y de Fomento a la Competencia en el Crédito G
 
 ### Capítulo I.-. Disposiciones Generales
 
+> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 1.
 
-La presente Ley tiene por objeto regular las actividades y servicios financieros para el otorgamiento de Crédito Garantizado, para la adquisición, construcción, remodelación o refinanciamiento destinado a la vivienda con la finalidad de asegurar la transparencia en su otorgamiento y fomentar la competencia.
+La presente Ley es de orden público y tiene por objeto regular las actividades y servicios financieros para el otorgamiento de Crédito Garantizado, para la adquisición, construcción, remodelación o refinanciamiento destinado a la vivienda con la finalidad de asegurar la transparencia en su otorgamiento y fomentar la competencia.
 
 ###### Artículo 2.
 
@@ -83,6 +85,18 @@ VI. Reglas. Las disposiciones de carácter general que emita, conforme a esta Le
 VII. Subrogación de Acreedor. Es la sustitución de la Entidad acreedora en un Crédito Garantizado por otra, en los términos de la presente Ley.
 
 VIII. Subrogación de Deudor. Es la sustitución de Deudor en un Crédito Garantizado por otro, en los términos de la presente Ley.
+
+> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 2005)</small>
+
+IX. Valuador profesional es la persona que cuenta con cédula profesional de postgrado en valuación expedida por la Secretaría de Educación Pública y que se encuentra autorizada para tal efecto por la Sociedad Hipotecaria Federal, S.N.C.
+
+> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 2005)</small>
+
+X. Controlador. Es el valuador profesional que tiene un poder especial para firmar en nombre y representación de la Unidad de Valuación correspondiente a los avalúos que ésta certifique.
+
+> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 2005)</small>
+
+XI. Unidad de Valuación. Es la persona moral que se encuentra inscrita como tal en la Sociedad Hipotecaria Federal, S.N.C., de acuerdo a las disposiciones que ésta emita.
 
 ### Capítulo II.-. Información Previa
 
@@ -171,6 +185,74 @@ Si una vez realizado el avalúo, existieren diferencias entre éste y el valor d
 Los avalúos de los bienes inmuebles objeto de Créditos Garantizados a la Vivienda deberán realizarse por peritos valuadores autorizados al efecto por la Sociedad Hipotecaria Federal, S.N.C. El acreditado tendrá el derecho a escoger al perito valuador que intervenga en la operación de entre el listado que le presente la Entidad.
 
 A efecto de lo anterior, la Sociedad Hipotecaria Federal, S.N.C. deberá establecer mediante reglas de carácter general los términos y condiciones para obtener la autorización de perito valuador, la que se renovará cada 3 años. Asimismo, la Sociedad Hipotecaria Federal, S.N.C. podrá establecer, a través de dichas reglas, la metodología para la valuación de los bienes inmuebles.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2005)</small>
+
+Artículo 7 bis.- Obligaciones y prohibiciones de los Valuadores Profesionales.
+
+Los Valuadores Profesionales tendrán las siguientes obligaciones:
+
+I. Guardar confidencialidad respecto con la información que conozcan y manejen con motivo de la realización de los avalúos, salvo que la utilicen con fines estadísticos;
+
+II. De manera oportuna, poner en conocimiento de la Sociedad Hipotecaria Federal S.N.C. y de la Unidad de Valuación respectiva, cualquier acto o situación que, en el ejercicio de la función valuatoria, pudiera traducirse en beneficio, daño o perjuicio para éstas, o para cualquiera de las personas involucradas en los avalúos que realicen;
+
+III. Firmar los avalúos que realicen, y
+
+IV. Las demás que establezcan las reglas de carácter general, así como las que al efecto determine la Sociedad Hipotecaria Federal S.N.C., siempre y cuando no contraríe lo establecido en la presente ley.
+
+Los Valuadores Profesionales no podrán:
+
+I. Transmitir total o parcialmente, bajo cualquier título, los efectos que deriven de la autorización;
+
+II. Ostentarse como tales en tanto no tengan la autorización correspondiente, o cuando ésta no tenga vigencia;
+
+III. Realizar avalúos al amparo de la autorización que les otorgue la Sociedad Hipotecaria Federal S.N.C., respecto de bienes diferentes a los Inmuebles;
+
+IV. Realizar avalúos sobre inmuebles respecto de los que la Unidad de Valuación que tramitó su autorización, los socios, directivos o empleados de ésta, así como su cónyuge, sus parientes por consanguinidad dentro del cuarto grado, por afinidad o civiles, tengan interés que pueda influir negativamente en la imparcialidad que debe imperar en los avalúos;
+
+V. Realizar avalúos en los que pueda resultar algún beneficio ilícito para ellos, los socios, directivos o empleados de la Unidad de Valuación que tramitó su autorización; o bien cuando estén implicadas personas con las que su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles tengan enemistad manifiesta; y
+
+VI. Las demás que establezcan las reglas de carácter general, así como las que al afecto determine la Sociedad Hipotecaria Federal S.N.C., siempre y cuando no contraríe lo establecido en la presente ley.
+
+La Sociedad Hipotecaria Federal S.N.C., podrá sancionar el incumplimiento de las obligaciones y la comisión de las conductas prohibidas a que se refiere este artículo, en los términos y condiciones que establezcan las disposiciones que al efecto emita la citada Sociedad.
+
+> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2005)</small>
+
+Artículo 7 ter.- Obligaciones y Prohibiciones de las Unidades de Valuación.
+
+Las Unidades de Valuación tendrán las siguientes obligaciones:
+
+I. Guardar confidencialidad respecto a la información que conozcan y manejen con motivo de la certificación de los avalúos, salvo que la utilicen con fines estadísticos;
+
+II. Poner en conocimiento de la Sociedad Hipotecaria Federal S.N.C., oportunamente, cualquier acto o situación que, en el ejercicio de la función valuatoria, pudiera traducirse en beneficio, daño o perjuicio para ésta, o para cualquiera de las personas involucradas en los avalúos que certifiquen;
+
+III. Permitir a la Sociedad Hipotecaria Federal S.N.C. realizar la supervisión y las auditorías relacionadas en materia de avalúos; así como los aspectos técnicos, contables, corporativos, formativos, metodológicos, informáticos y operativos de dichas unidades de valuación;
+
+IV. Remover o, en su caso, sustituir a los Valuadores Profesionales y controladores cuando así lo indique la Sociedad Hipotecaria Federal S.N.C. o cualquier otra autoridad competente;
+
+V. Asumir la responsabilidad de los Valuadores Profesionales y controladores a su servicio, derivada de los actos respectivos en materia valuatoria;
+
+VI. Sancionar a sus Valuadores Profesionales y/o controladores, cuando éstos no cumplan con la normatividad correspondiente en materia de avalúos, con las obligaciones contenidas en esta ley, o incurran en alguna prohibición contenida en ésta, y
+
+VII. Las demás que establezcan las reglas de carácter general, así como las que al efecto determine la Sociedad Hipotecaria Federal S.N.C., siempre y cuando no contraríe lo establecido en la presente ley.
+
+Las Unidades de Valuación no podrán:
+
+I. Transmitir total o parcialmente, bajo cualquier título, los efectos que deriven de la Inscripción;
+
+II. Ostentarse como tales en tanto no tengan la Inscripción correspondiente;
+
+III. Certificar dictámenes de valuación al amparo de la inscripción que les otorgue la Sociedad Hipotecaria Federal S.N.C., respecto de bienes diferentes a los inmuebles;
+
+IV. Certificar avalúos sobre Inmuebles respecto de los que la Unidad de Valuación, sus socios, directivos o empleados, así como sus Valuadores Profesionales o controladores, el cónyuge, los parientes por consanguinidad dentro del cuarto grado, por afinidad o civiles de éstos, tengan interés que pueda influir negativamente en la imparcialidad que debe imperar en los avalúos; así como de aquellos que sean propiedad de clientes que representen el cuarenta por ciento o más de la facturación de la Unidad de Valuación respectiva, en el año fiscal en curso;
+
+V. Certificar avalúos en los que pueda resultar algún beneficio ilícito para ellas, sus socios, directivos o empleados; o bien cuando estén implicadas personas con las que sus Valuadores Profesionales o controladores, el cónyuge o los parientes consanguíneos hasta el cuarto grado, por afinidad o civiles de éstos tengan enemistad manifiesta; y
+
+VI. Las demás que establezcan las reglas de carácter general, así como las que al efecto determine la Sociedad Hipotecaria Federal S.N.C., siempre y cuando no contraríe lo establecido en la presente ley.
+
+Se exceptúa de la prohibición señalada en la fracción I, a las Unidades de Valuación que se fusionen, escindan o transformen en los términos de la legislación aplicable.
+
+La Sociedad Hipotecaria Federal S.N.C., podrá sancionar el incumplimiento de las obligaciones y la comisión de las conductas prohibidas a que se refiere este artículo, en los términos y condiciones que establezcan las disposiciones que al efecto emita la citada Sociedad.
 
 ### Capítulo III.-. Formalización del Crédito Garantizado
 
@@ -283,3 +365,11 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 13 DE JUNIO DE 2003.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE FEBRERO DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Las personas que cuenten actualmente con autorización de perito valuador ante la Sociedad Hipotecaria Federal, S.N.C., contarán con un plazo de tres años, contados a partir de la entrada en vigor del presente Decreto en el Diario Oficial de la Federación, para obtener la cédula profesional a que se refiere el artículo 3o. fracción IX, pudiendo en el transcurso de dicho plazo fungir como peritos valuadores.
+
+Si concluido el plazo antes señalado, no obtuvieran la cédula profesional en cuestión, la autorización como perito valuador les será cancelado.
