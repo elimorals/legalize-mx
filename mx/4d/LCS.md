@@ -4,7 +4,7 @@ identifier: "LCS"
 country: "mx"
 rank: "ley"
 publication_date: "1935-08-31"
-last_updated: "1935-08-31"
+last_updated: "1946-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2591&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCS"
 
 LEY SOBRE EL CONTRATO DE SEGURO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ABRIL DE 1946.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -66,11 +66,13 @@ Los seguros sociales quedarán sujetos a las leyes y reglamentos sobre la materi
 
 Las ofertas de celebración, prórroga, modificación o restablecimiento de un contrato suspendido, obligarán al proponente durante el término de quince días, o el de treinta cuando fuere necesario practicar examen médico, si no se fija un plazo menor para la aceptación.
 
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 6°.
 
-Se considerarán aceptadas las ofertas de prórroga, modificación o restablecimiento de un contrato suspendido, hechas en carta certificada con acuse de recibo, si la empresa aseguradora no contesta dentro de los plazos a que se refiere el artículo anterior, contados desde el día siguiente al en que haya recibido la oferta.
+Se considerarán aceptadas las ofertas de prórroga, modificación o restablecimiento de un contrato suspendido, hechas en carta certificada con acuse de recibo, si la empresa aseguradora no contesta dentro del plazo de quince días, contados desde el siguiente al de la recepción de la oferta, pero sujetas a la condición suspensiva de la aprobación de la Secretaría de Hacienda.
 
-La regla contenida en este artículo no es aplicable a las ofertas de aumentar la suma asegurada.
+La disposición contenida en este artículo no es aplicable a las ofertas de aumentar la suma asegurada y en ningún caso al seguro de personas.
 
 ###### ARTICULO 7°.
 
@@ -102,9 +104,11 @@ El seguro por cuenta de un tercero obliga a la empresa aseguradora, aun en el ca
 
 Salvo pacto expreso en contrario contenido en el contrato de mandato o en la póliza, el mandatario que contrate un seguro a nombre de su mandante, podrá reclamar el pago de la cantidad asegurada.
 
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 14.
 
-Los agentes autorizados por una empresa de seguros para la celebración de los contratos, podrán recibir las ofertas, rechazar las declaraciones escritas de los proponentes, cobrar las primas vencidas, extender recibos, así como proceder a la comprobación de los hechos declarados y de los siniestros que se realicen.
+Los agentes que sean autorizados por una empresa de seguros para que ellos celebren contratos, podrán recibir las ofertas, rechazar las declaraciones escritas de los proponentes, cobrar las primas vencidas, extender recibos, así como proceder a la comprobación de los siniestros que se realicen.
 
 > <small>(F. DE E., D.O.F. 13 DE SEPTIEMBRE DE 1935)</small>
 
@@ -126,11 +130,11 @@ Aun cuando la empresa se reasegure contra los riesgos que hubiere asegurado, seg
 
 ### CAPITULO II. La Póliza
 
-> <small>(F. DE E., D.O.F. 13 DE SEPTIEMBRE DE 1935)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 1946)</small>
 
 ###### ARTICULO 19.
 
-El contrato de seguro así como sus adiciones y reformas, deberán constar por escrito, en documento público o privado.
+Para fines de prueba, el contrato de seguro, así como sus adiciones y reformas, se harán constar por escrito. Ninguna otra prueba, salvo la confesional, será admisible para probar su existencia, así como la del hecho del conocimiento de la aceptación, a que se refiere la primera parte de la fracción I del artículo 21.
 
 ###### ARTICULO 20.
 
@@ -150,11 +154,17 @@ VI.- La cuota o prima del seguro;
 
 VII.- Las demás cláusulas que deban figurar en la póliza de acuerdo con las disposiciones legales, así como las convenidas lícitamente por los contratantes.
 
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 21.
 
-Aun cuando no se haya entregado la póliza definitiva al contratante del seguro, la empresa aseguradora quedará obligada al cumplimiento del contrato si aceptó este por escrito, en una póliza provisional o en cualquier otro documento equivalente a la póliza.
+El contrato de seguro:
 
-En los seguros mutuos se necesitará cumplir además con los requisitos que la ley o los estatutos de la empresa establezcan para la admisión de nuevos socios.
+I.- Se perfecciona desde el momento en que el proponente tuviere conocimiento de la aceptación de la oferta. En los seguros mutuos será necesario, además, cumplir con los requisitos que la ley o los estatutos de la empresa establezcan para la admisión de nuevos socios;
+
+II.- No puede sujetarse a la condición suspensiva de la entrega de la póliza o de cualquier otro documento en que conste la aceptación, ni tampoco a la condición del pago de la prima;
+
+III.- Puede celebrarse sujeto a plazo, a cuyo vencimiento se iniciará su eficacia para las partes, pero tratándose de seguro de vida, el plazo que se fije no podrá exceder de treinta días a partir del examen médico, si éste fuere necesario, y si no lo fuere, a partir de la oferta.
 
 > <small>(F. DE E., D.O.F. 13 DE SEPTIEMBRE DE 1935)</small>
 
@@ -166,9 +176,11 @@ La empresa aseguradora tendrá derecho a exigir, de acuerdo con la tarifa respec
 
 La empresa aseguradora tendrá la obligación de expedir, a solicitud y costa del asegurado, copia o duplicado de la póliza así como de las declaraciones hechas en la oferta.
 
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 24.
 
-Ninguna cláusula de nulidad, rescisión, revocación o en general, que prive de sus efectos al contrato, será válida si no consta en caracteres aparentes en la póliza firmada por la empresa aseguradora.
+Para que puedan surtir efectos probatorios contra el asegurado, será indispensable que estén escritos o impresos en caracteres fácilmente legibles, tanto la póliza como los documentos que contengan cláusulas adicionales de la misma, los certificados individuales de seguro de grupo, los certificados de pólizas abiertas, los certificados provisionales de pólizas, las notas de cobertura, las solicitudes de seguro, los formularios de ofertas suministrados por las empresas y, en general, todos los documentos usados en la contratación del seguro.
 
 ###### ARTICULO 25.
 
@@ -178,11 +190,13 @@ Si el contenido de la póliza o sus modificaciones no concordaren con la oferta,
 
 El artículo anterior deberá insertarse textualmente en la póliza.
 
-> <small>(F. DE E., D.O.F. 13 DE SEPTIEMBRE DE 1935)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 1946)</small>
 
 ###### ARTICULO 27.
 
-Cuando se pierda o destruya la póliza, podrá pedirse la anulación del título, siguiéndose el procedimiento establecido para la cancelación de los títulos de crédito extraviados o robados en la Ley General de Títulos y Operaciones de Crédito, y obtenerse una nueva póliza que producirá los mismos efectos legales que la desaparecida.
+Cuando se pierda o destruya una póliza, a la orden o al portador, podrá pedirse la cancelación y reposición de la misma siguiéndose un procedimiento igual al que establece la ley respectiva para la cancelación y reposición de títulos de crédito extraviados o robados. La nueva póliza que así se obtenga producirá los mismos efectos legales que la desaparecida.
+
+Cuando en una póliza a la orden, cualquier tenedor de ella haya consignado en el endoso respectivo la expresión "no transferible", y lo haga saber a la empresa aseguradora, no será necesario el procedimiento del párrafo anterior, sino que se aplicarán las disposiciones del artículo 23.
 
 ###### ARTICULO 28.
 
@@ -198,9 +212,11 @@ La empresa aseguradora podrá oponer al tenedor de la póliza o a los terceros q
 
 ### CAPITULO III. La Prima
 
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 31.
 
-El contratante del seguro estará obligado a pagar la prima en su domicilio, si no hay convenio expreso en contrario que figure en caracteres aparentes en la póliza.
+El contratante del seguro estará obligado a pagar la prima en su domicilio, si no hay estipulación expresa en contrario.
 
 ###### ARTICULO 32.
 
@@ -216,9 +232,11 @@ La empresa aseguradora tendrá el derecho de compensar las primas y los préstam
 
 Salvo pacto en contrario, la prima vencerá en el momento de la celebración del contrato, por lo que se refiere al primer período del seguro; entendiéndose por período del seguro el lapso para el cual resulte calculada la unidad de la prima. En caso de duda, se entenderá que el período del seguro es de un año.
 
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 35.
 
-La empresa que entregue la póliza antes del pago de la primera prima, no podrá eludir la responsabilidad del riesgo por medio de cláusulas en que se convenga que el seguro no entrará en vigor sino después del pago de dicha prima.
+La empresa aseguradora no podrá eludir la responsabilidad por la realización del riesgo, por medio de cláusulas en que se convenga que el seguro no entrará en vigor sino después del pago de la primera prima, sin perjuicio de lo dispuesto por la segunda parte del artículo 180.
 
 ###### ARTICULO 36.
 
@@ -412,9 +430,13 @@ El crédito que resulte del contrato de seguro vencerá treinta días después d
 
 Será nula la cláusula en que se pacte que el crédito no podrá exigirse sino después de haber sido reconocido por la empresa o comprobado en juicio.
 
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 72.
 
-Para todas las informaciones y avisos que deban enviarse a la empresa aseguradora, ésta indicará al asegurado la dirección de sus oficinas en la República, ya se trate de empresas nacionales o extranjeras.
+En todos los casos en que la dirección de las oficinas de las instituciones de seguros llegare a ser diferente de la que conste en la póliza expedida, deberán comunicar al asegurado la nueva dirección en la República para todas las informaciones y avisos que deban enviarse a la empresa aseguradora y para cualquiera otro efecto legal.
+
+Los requerimientos y comunicaciones que la empresa aseguradora deba hacer al asegurado o a sus causahabientes, tendrán validez si se hacen en la última dirección que conozca el asegurador.
 
 ###### ARTICULO 73.
 
@@ -788,9 +810,15 @@ Los gastos que resulten de los procedimientos seguidos contra el asegurado, esta
 
 El seguro contra la responsabilidad atribuye el derecho a la indemnización directamente al tercero dañado, quien se considerará como beneficiario del seguro desde el momento del siniestro.
 
+> <small>(ADICIONADO, D.O.F. 15 DE ABRIL DE 1946)</small>
+
+En caso de muerte de éste, su derecho al monto del seguro se transmitirá por la vía sucesoria, salvo cuando la ley o el contrato que establezcan para el asegurado la obligación de indemnizar, señale los familiares del extinto a quienes deba pagarse directamente la indemnización sin necesidad de juicio sucesorio.
+
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 148.
 
-Ningún reconocimiento de adeudo, transacción o cualquier otro acto jurídico de naturaleza semejante será oponible a la empresa aseguradora sin su consentimiento
+Ningún reconocimiento de adeudo, transacción o cualquier otro acto jurídico de naturaleza semejante, hecho o concertado sin el consentimiento de la empresa aseguradora, le será oponible. La confesión de la materialidad de un hecho no puede ser asimilada al reconocimiento de una responsabilidad.
 
 ###### ARTICULO 149.
 
@@ -808,6 +836,10 @@ El contrato de seguro sobre las personas comprende todos los riesgos que puedan 
 
 El seguro de personas puede cubrir un interés económico de cualquier especie, que resulte de los riesgos de que trata este Título, o bien dar derecho a prestaciones independientes en absoluto de toda pérdida patrimonial derivada del siniestro.
 
+> <small>(ADICIONADO, D.O.F. 15 DE ABRIL DE 1946)</small>
+
+En el seguro sobre las personas, la empresa aseguradora no podrá subrogarse en los derechos del asegurado o del beneficiario contra terceros en razón del siniestro.
+
 ###### ARTICULO 153.
 
 La póliza del seguro sobre las personas, además de los requisitos del artículo 20 de la presente ley, deberá contener los siguientes:
@@ -820,25 +852,33 @@ III.- El acontecimiento o el término del cual dependa la exigibilidad de las su
 
 IV.- En su caso, los valores garantizados.
 
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 154.
 
-La póliza del contrato de seguro sobre las personas no podrá ser al portador. La póliza nominativa se transmitirá mediante una declaración suscrita por las partes y notificada a la empresa aseguradora. La póliza a la orden, se transmitirá por medio de endoso que contenga la fecha, el nombre y domicilio del beneficiario del endoso y la firma del endosante. El endoso que no contenga estos requisitos será nulo.
+La póliza del Contrato de Seguro de personas no podrá ser al portador. La nominativa se trasmitirá mediante declaración de ambas partes, notificada a la empresa aseguradora. La póliza a la orden se trasmitirá por medio de endoso que contenga, invariablemente, la fecha, el nombre y el domicilio del endosatario y la firma del endosante. No se admitirá prueba alguna de otra especie en esta forma de trasmisión.
+
+En caso de designación irrevocable de beneficiario, éste puede ceder su derecho mediante declaración que, como lo previene el artículo 19, deberá constar por escrito y, además, ser notificada al asegurador.
+
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 1946)</small>
 
 ###### ARTICULO 155.
 
-En el seguro sobre las personas, la empresa aseguradora no podrá subrogarse en los derechos del asegurado o del beneficiario contra terceros en razón del siniestro.
+En el seguro de persona, si el contrato confiere al asegurado la facultad de cambiar el plan del seguro, la obligación que tenga que satisfacer el asegurado por la conversión no será inferior a la diferencia entre la reserva matemática existente y la que deba constituirse para el nuevo plan en el momento de operar el cambio.
+
+(REFORMADO, D.O.F. 15 DE ABRIL DE 1946) (F. DE E., D.O.F. 2 DE AGOSTO DE 1946)
 
 ###### ARTICULO 156.
 
-El seguro para el caso de muerte de un tercero será nulo si el tercero no diere su consentimiento por escrito antes de la celebración del contrato con indicación de la suma asegurada.
+El seguro para el caso de muerte de un tercero será nulo si el tercero no diere su consentimiento, que deberá constar por escrito antes de la celebración del contrato, con indicación de la suma asegurada.
 
-> <small>(F. DE E., D.O.F. 13 DE SEPTIEMBRE DE 1935)</small>
+El consentimiento del tercero asegurado deberá también constar por escrito para toda designación del beneficiario, así como para la transmisión del beneficio del contrato, para la cesión de derechos o para la constitución de prenda, salvo cuando estas tres últimas operaciones se celebren con la empresa aseguradora.
 
-El consentimiento del tercero asegurado debe también darse por escrito para toda cesión o constitución de prenda y para la transmisión del beneficio del contrato.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE ABRIL DE 1946)</small>
 
 ###### ARTICULO 157.
 
-Será nulo el contrato de seguro para el caso de muerte contratado sobre un menor de doce años o de una persona sujeta a interdicción. La empresa aseguradora estará obligada a restituir las primas; pero tendrá derecho a los gastos si procedió de buena fe.
+El contrato de seguro para el caso de muerte, sobre la persona de un menor de edad que no haya cumplido los doce años, o sobre la de una sujeta a interdicción, es nulo. La empresa aseguradora estará obligada a restituir las primas, pero tendrá derecho a los gastos si procedió de buena fe.
 
 En los seguros de supervivencia sobre las personas a que se refiere este artículo, podrá pactarse la devolución de las primas para el caso de muerte
 
@@ -846,9 +886,11 @@ En los seguros de supervivencia sobre las personas a que se refiere este artícu
 
 Cuando el menor de edad tenga doce años o más, será necesario su consentimiento personal y el de su representante legal; de otra suerte, el contrato será nulo.
 
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 159.
 
-El seguro de los cónyuges podrá celebrarse recíprocamente en un solo acto. El seguro sobre la vida del cónyuge o del hijo mayor de edad será válido sin el consentimiento a que se refiere el artículo 157 de esta ley.
+El seguro recíproco podrá celebrarse en un solo acto. El seguro sobre la vida del cónyuge o del hijo mayor de edad será válido sin el consentimiento a que se refiere el artículo 156.
 
 ###### ARTICULO 160.
 
@@ -866,13 +908,19 @@ II.- Si la empresa aseguradora hubiere satisfecho ya el importe del seguro al de
 
 III.- Si a consecuencia de la inexacta indicación de la edad, se estuviere pagando una prima más elevada que la correspondiente a la edad real, la empresa estará obligada a reembolsar la diferencia entre la reserva existente y la que habría sido necesaria para la edad real del asegurado en el momento de la celebración del contrato. Las primas ulteriores deberán reducirse de acuerdo con esta edad.
 
+> <small>(ADICIONADA, D.O.F. 15 DE ABRIL DE 1946)</small>
+
+IV.- Si con posterioridad a la muerte del asegurado se descubriera que fué incorrecta la edad manifestada en la solicitud, y ésta se encuentra dentro de los límites de admisión autorizados, la empresa aseguradora estará obligada a pagar la suma asegurada que las primas cubiertas hubieren podido pagar de acuerdo con la edad real.
+
 Para los cálculos que exige el presente artículo se aplicarán las tarifas que hayan estado en vigor al tiempo de la celebración del contrato.
+
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 1946)</small>
 
 ## TITULO III. Disposiciones especiales del contrato de seguro sobre las personas
 
 ###### ARTICULO 162.
 
-Si en el momento de celebrar el contrato de seguro, o con posterioridad, el asegurado presenta a la empresa, prueba fehaciente de su edad, la misma empresa le extenderá el comprobante respectivo y no podrá exigir nuevas pruebas cuando haya de pagar el siniestro por muerte del asegurado.
+Si en el momento de celebrar el contrato de seguro, o con posterioridad, el asegurado presenta a la empresa pruebas fehacientes de su edad, la institución anotará la póliza o le extenderá otro comprobante y no podrá exigir nuevas pruebas cuando haya de pagar el siniestro por muerte del asegurado.
 
 ###### ARTICULO 163.
 
@@ -882,9 +930,15 @@ El asegurado tendrá derecho a designar un tercero como beneficiario sin necesid
 
 El asegurado, aun en el caso de que haya designado en la póliza a un tercero como beneficiario del seguro, podrá disponer libremente del derecho derivado de éste, por acto entre vivos o por causa de muerte.
 
+> <small>(ADICIONADO, D.O.F. 15 DE ABRIL DE 1946)</small>
+
+Si sólo se hubiere designado un beneficiario y éste muriere antes o al mismo tiempo que el asegurado y no existiere designación de nuevo beneficiario, el importe del seguro se pagará a la sucesión del asegurado, salvo pacto en contrario o que hubiere renuncia del derecho de revocar la designación hecha en los términos del artículo siguiente.
+
+(REFORMADO, D.O.F. 15 DE ABRIL DE 1946) (F. DE E., D.O.F. 2 DE AGOSTO DE 1946)
+
 ###### ARTICULO 165.
 
-El derecho de revocar la designación del beneficiario cesará solamente cuando el asegurado renuncie ese derecho en la póliza misma y además, lo haga saber así al beneficiario.
+El derecho de revocar la designación del beneficiario cesará solamente cuando el asegurado haga renuncia de él y, además, lo comunique al beneficiario y a la empresa aseguradora. La renuncia se hará constar forzosamente en la póliza y esta constancia será el único medio de prueba admisible.
 
 ###### ARTICULO 166.
 
@@ -932,9 +986,15 @@ Si el derecho del seguro se atribuye conjuntamente como beneficiarios, a los des
 
 Cuando herederos diversos a los que alude el artículo anterior, fueren designados como beneficiarios, tendrán derecho al seguro según su derecho de sucesión.
 
+> <small>(ADICIONADO, D.O.F. 15 DE ABRIL DE 1946)</small>
+
+Esta disposición y la del artículo anterior se aplicarán siempre que el asegurado no haya establecido la forma de distribución del seguro.
+
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 176.
 
-Siempre que figuren como beneficiarios, personas que no deban suceder como herederos, y faltare indicación precisa de la parte que corresponda a cada una, el seguro se distribuirá entre todas ellas por partes iguales.
+Si el asegurado omitiere expresar el grado de parentesco o designare como beneficiarios de su póliza a personas que no deben suceder como herederos y faltare indicación precisa de la porción que corresponda a cada una, el seguro se distribuirá entre todas ellas por partes iguales.
 
 > <small>(F. DE E., D.O.F. 13 DE SEPTIEMBRE DE 1935)</small>
 
@@ -978,9 +1038,11 @@ El seguro temporal cuya duración sea inferior a diez años, no obligará a la e
 
 El beneficiario perderá todos sus derechos si atenta injustamente contra la persona del asegurado. Si la muerte de la persona asegurada es causada injustamente por quien celebró el contrato, el seguro será ineficaz, pero los herederos del asegurado tendrán derecho a la reserva matemática.
 
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 186.
 
-La empresa aseguradora estará obligada aún en caso de suicidio del asegurado si se verifica después de dos años de la celebración del contrato. Si el suicidio ocurre antes de los dos años, la empresa reembolsará únicamente la reserva matemática.
+La empresa aseguradora estará obligada, aun en caso de suicidio del asegurado, cualquiera que sea el estado mental del suicida o el móvil del suicidio, si se verifica después de dos años de la celebración del contrato. Si el suicidio ocurre antes de los dos años, la empresa reembolsará únicamente la reserva matemática.
 
 ###### ARTICULO 187.
 
@@ -994,13 +1056,17 @@ El seguro colectivo contra los accidentes dará al beneficiario un derecho propi
 
 En el seguro contra los accidentes y salvo el caso en que se haya estipulado expresamente que la prestación convenida se cubra en forma de renta, deberá pagarse en forma de capital, siempre que el accidente cause al asegurado una disminución en su capacidad para el trabajo que deba estimarse como permanente.
 
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 1946)</small>
+
 ###### ARTICULO 190.
 
-En el seguro popular la empresa se obliga por la muerte o la duración de la vida del asegurado, mediante el pago de primas periódicas, sin necesidad de examen médico obligatorio, a condición de que en caso de muerte ésta sobrevenga después de un plazo que se fije en el contrato. El capital asegurado no excederá de $ 5,000.00 en capital o del equivalente en renta.
+En el seguro popular la empresa se obliga por la muerte o la duración de la vida del asegurado, mediante el pago de primas periódicas, sin necesidad de examen médico obligatorio. El capital asegurado no excederá de $ 5,000.00 en capital o del equivalente en renta.
+
+> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 1946)</small>
 
 ###### ARTICULO 191.
 
-En el seguro de grupo o empresa, el asegurador se obliga por la muerte o la duración de la vida de una persona determinada, en razón simplemente de pertenecer al mismo grupo o empresa, mediante el pago de primas periódicas sin necesidad de examen médico obligatorio a condición de que en caso de muerte, ésta sobrevenga después de un plazo que se fije en el contrato.
+En el seguro de grupo o empresa, el asegurador se obliga por la muerte o la duración de la vida de una persona determinada, en razón simplemente de pertenecer al mismo grupo o empresa, mediante el pago de primas periódicas, sin necesidad de examen médico obligatorio.
 
 ###### ARTICULO 192.
 
@@ -1031,5 +1097,11 @@ Sufragio Efectivo. No Reelección.
 México, D.F., a 30 de agosto de 1935.- El Secretario de Gobernación, Silvano Barba González.- Rúbrica.
 
 Al C..
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 15 DE ABRIL DE 1946.
+
+EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 ## TITULO V. Disposiciones finales
