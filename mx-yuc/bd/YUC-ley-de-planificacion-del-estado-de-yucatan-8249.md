@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-planificacion-del-estado-de-yucatan-8249"
 country: "mx"
 rank: "ley"
 publication_date: "1960-03-09"
-last_updated: "1960-03-09"
+last_updated: "1964-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8249&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PLANIFICACIÓN DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE NOVIEMBRE DE 1964.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 9 de marzo de 1960.
 
@@ -111,37 +111,41 @@ Estos organismos tendrán las atribuciones y facultades específicas que les se�
 
 La Comisión de Planificación del Estado es un organismo de estudio y consulta en materia de planificación, para el Ejecutivo del Estado, los Ayuntamientos y los Comités Ejecutivos de Planificación.
 
+> <small>(REFORMADO, D.O. 6 DE NOVIEMBRE DE 1964)</small>
+
 ###### ARTICULO 8º.
 
-La Comisión de Planificación del Estado de Yucatán se integrará de la manera siguiente:
+La Comisión de Planificación del Estado de Yucatán estará integrada de la manera siguiente:
 
 I.- a).- El Secretario General de Gobierno, con el carácter de Presidente;
 
-b).- El Presidente Municipal de Mérida, con el carácter de Vicepresidente;
+b).- El Presidente del Ayuntamiento de Mérida, con el carácter de Vicepresidente;
 
-c).- El Jefe del Departamento de Comunicaciones y Obras Públicas del Estado;
+c).- Un Secretario designado por el Gobernador del Estado;
 
-d).- Un Secretario designado por el Gobernador;
+d).- El Jefe del Departamento de Comunicaciones y Obras Públicas del Estado;
 
 e).- El Jefe del Departamento de Hacienda del Estado;
 
 f).- El Jefe del Departamento Jurídico del Ejecutivo del Estado;
 
-g).- El Jefe del Departamento de Sanidad y Beneficencia del Estado;
+g).- El Jefe de los Servicios Coordinados de Salubridad y Asistencia en el Estado;
 
-II.- Un representante del Ayuntamiento cuando se traten asuntos relacionados con su respectivo municipio.
+h).- El Director General de Planeación del Estado.
 
-III.- Cinco vocales representantes de los Organismos siguientes:
+II.- Un representante del Ayuntamiento respectivo, cuando se traten asuntos relacionados con su Municipio.
 
-a).- Cámara de Comercio de Mérida;
+III.- Cinco vocales representantes de los organismos siguientes:
 
-b).- Asociaciones de Ingenieros y Arquitectos;
+a).- Cámara Nacional de Comercio de Mérida;
 
-c).- Asociación de Propietarios de Bienes raíces del Estado;
+b).- Asociación de Ingenieros y Arquitectos de Yucatán;
 
-d).- Asociaciones de Industriales del Estado;
+c).- Delegación en Yucatán de la Cámara Nacional de la Industria de Transformación;
 
-e) Banca del Estado.
+d).- Centro Bancario de Mérida, A.C.;
+
+e).- Asociación de Propietarios de Bienes Raíces del Estado.
 
 ###### ARTICULO 9º.
 
@@ -408,3 +412,11 @@ El Oficial Mayor en funciones de
 Secretario General,
 
 LIC. OMAR CANTO CATALA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 6 DE NOVIEMBRE DE 1964.
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" del Gobierno del Estado.
