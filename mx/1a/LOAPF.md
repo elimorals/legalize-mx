@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "1999-01-04"
+last_updated: "1999-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE MAYO DE 1999.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 29 de diciembre de 1976.
 
@@ -292,7 +292,9 @@ XIV.- Conducir las relaciones del Gobierno Federal con el Tribunal Federal de Co
 
 XV.- Administrar las islas de ambos mares de jurisdicción federal.
 
-En las islas a que se refiere el párrafo anterior, regirán las leyes civiles, penales y administrativas, aplicables en el Distrito Federal y tendrán jurisdicción los Tribunales Federales con mayor cercanía geográfica.
+> <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
+
+En las islas a que se refiere el párrafo anterior, regirán las leyes civiles, penales y administrativas, aplicables en materia federal y tendrán jurisdicción los tribunales federales con mayor cercanía geográfica.
 
 XVI.- Fomentar el desarrollo político e intervenir en las funciones electorales, conforme a las leyes;
 
@@ -352,11 +354,11 @@ XXXII.- Formular, regular y conducir la política de comunicación social del Go
 
 XXXIII.- Orientar, autorizar, coordinar, supervisar y evaluar los programas de comunicación social de las dependencias del Sector Público Federal; y
 
-> <small>(REFORMADA [N. DE E.ADICIONADA], D.O.F. 4 DE ENERO DE 1999)</small>
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1999)</small>
 
 XXXIV.- Organizar y dirigir la Policía Federal Preventiva, y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA , D.O.F. 4 DE ENERO DE 1999)</small>
+> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1999)</small>
 
 XXXV.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
@@ -1709,3 +1711,11 @@ SEGUNDO.- La organización de la Policía Federal Preventiva durará un máximo 
 ...
 
 SÉPTIMO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+D.O.F. 18 DE MAYO DE 1999.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
