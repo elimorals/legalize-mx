@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-construcciones-para-el-distrito-federal-1227"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-02"
-last_updated: "1994-07-15"
+last_updated: "1997-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1227&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1993-07-14"
 
 REGLAMENTO DE CONSTRUCCIONES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JUNIO DE 1997.
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL SEGUNDO PARRAFO DEL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL, LAS MENCIONES HECHAS AL DEPARTAMENTO DEL DISTRITO FEDERAL SE REFERIRAN AL DISTRITO FEDERAL A PARTIR DEL 5 DE DICIEMBRE DE 1997.</small>
 
 Reglamento publicado en el Diario Oficial de la Federación el lunes 2 de agosto de 1993.
 
@@ -48,11 +50,11 @@ Las obras de construcción, instalación, modificación, ampliación, reparació
 
 Para los efectos del presente Reglamento, se entenderá por:
 
-I. Departamento, al Departamento del Distrito Federal;
+I. Departamento, al Distrito Federal;
 
 II. Ley, a la Ley del Desarrollo Urbano del Distrito Federal;
 
-III. Ley Orgánica, a la Ley Orgánica del Departamento del Distrito Federal;
+III. Ley Orgánica, a la Ley Orgánica del Distrito Federal;
 
 IV. Reglamento, al Reglamento de Construcciones para el Distrito Federal;
 
@@ -140,7 +142,7 @@ Todo inmueble consignado como vía pública en algún plano o registro oficial e
 
 ###### Artículo 7.
 
-Los inmuebles que en el plano oficial de un fraccionamiento aprobado por el Departamento aparezcan destinados a vías públicas, al uso común o a algún servicio público se considerarán, por ese solo hecho, como bienes del dominio público del propio Departamento, para cuyo efecto, la unidad administrativa correspondiente, remitirá copias del plano aprobado al Registro del Programa, al Registro Público de la Propiedad y a la Tesorería del Departamento del Distrito Federal para que hagan los registros y las cancelaciones respectivas.
+Los inmuebles que en el plano oficial de un fraccionamiento aprobado por el Departamento aparezcan destinados a vías públicas, al uso común o a algún servicio público se considerarán, por ese solo hecho, como bienes del dominio público del propio Departamento, para cuyo efecto, la unidad administrativa correspondiente, remitirá copias del plano aprobado al Registro del Programa, al Registro Público de la Propiedad y a la Tesorería del Distrito Federal para que hagan los registros y las cancelaciones respectivas.
 
 ###### Artículo 8.
 
@@ -230,7 +232,9 @@ El Departamento establecerá las restricciones para la ejecución de rampas en g
 
 Las instalaciones subterráneas para los servicios públicos de teléfonos, alumbrado, semáforos, energía eléctrica, gas, agua, drenaje y cualesquiera otras, deberán localizarse a lo largo de aceras o camellones. Cuando se localicen en las aceras, deberán distar por lo menos cincuenta centímetros del alineamiento oficial.
 
-El Departamento, podrá autorizar la construcción de instalaciones subterráneas fuera de las zonas descritas en el párrafo anterior, cuando la naturaleza de las obras lo requiera.
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 1997)</small>
+
+Las Delegaciones podrán autorizar en la licencia de construcción respectiva, que las instalaciones subterráneas se localicen fuera de las aceras o camellones, cuando la naturaleza de las obras lo requieran.
 
 El Departamento fijará en cada caso, la profundidad mínima y máxima a la que deberá alojarse cada instalación y su localización en relación con las demás instalaciones.
 
@@ -276,7 +280,7 @@ El número oficial deberá colocarse en parte visible de la entrada de cada pred
 
 El Departamento podrá ordenar el cambio del número oficial para lo cual lo notificará al propietario, quedando éste obligado a colocar el nuevo número en el plazo que se le fije, pudiendo conservar el anterior noventa días naturales más.
 
-Dicho cambio lo notificará el Departamento al Servicio Postal Mexicano, a la Tesorería del Departamento del Distrito Federal, al Registro del Programa y al Registro Público de la Propiedad, a fin de que se hagan las modificaciones necesarias en los registros correspondientes, con copia al propietario del predio.
+Dicho cambio lo notificará el Departamento al Servicio Postal Mexicano, a la Tesorería del Distrito Federal, al Registro del Programa y al Registro Público de la Propiedad, a fin de que se hagan las modificaciones necesarias en los registros correspondientes, con copia al propietario del predio.
 
 ### CAPITULO V. ALINEAMIENTO Y USO DEL SUELO
 
@@ -286,23 +290,25 @@ El alineamiento oficial es la traza sobre el terreno que limita el predio respec
 
 ###### Artículo 30.
 
-Constancia de Uso del Suelo, es el documento donde se especifica la zona, densidad e intensidad de uso en razón a su ubicación y al Programa Parcial de la Delegación correspondiente.
-
-En el expediente de cada predio se conservará copia de la constancia del alineamiento respectivo y se enviará otra al Registro del Programa y a la Tesorería del Departamento del Distrito Federal.
+(DEROGADO, G.O. 2 DE JUNIO DE 1997)
 
 ###### Artículo 30.
 
-1.- Constancia de Zonificación de Uso del Suelo, es el documento que expide el Departamento donde se especifican los usos permitidos o prohibidos conforme a los Planes (Programas) Parciales de Desarrollo Urbano, para el aprovechamiento de un predio, edificación o inmueble.
+1.- (DEROGADO, G.O. 2 DE JUNIO DE 1997)
 
 ###### Artículo 30.
 
-2.- Constancia de Acreditación de Uso del Suelo por Derechos Adquiridos, es el documento que expide el Departamento en el que se reconocen los derechos del propietario o poseedor de un predio, edificación o inmueble, respecto del uso legítimo que de manera continua ha tenido el bien respectivo, con anterioridad a la entrada en vigor de los Planes (Programas) Parciales de Desarrollo Urbano.
+2.- (DEROGADO, G.O. 2 DE JUNIO DE 1997)
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE JUNIO DE 1997)</small>
 
 ###### Artículo 31.
 
-El Departamento expedirá un documento que consigne a solicitud del propietario o poseedor, constancias sobre uso del suelo, alineamiento y/o número oficial; zonificación de uso del suelo, así como de acreditación de uso del suelo por derechos adquiridos. El primero de estos documentos tendrá una vigencia de ciento ochenta días naturales; el segundo de un año contado a partir del día siguiente de su expedición y el tercero tendrá vigencia indefinida.
+Las Delegaciones expedirán a solicitud del propietario o poseedor, constancias de alineamiento y número oficial que tendrán una vigencia de un año contado a partir del día siguiente de su expedición.
 
-Si entre la expedición de las constancias vigentes a que se refiere el artículo anterior y la presentación de la solicitud de licencia de construcción se hubiere modificado el alineamiento en los términos del artículo 29 de este Título, el proyecto de construcción deberá ajustarse a los nuevos requerimientos.
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 1997)</small>
+
+Si entre la expedición de la constancia a que se refiere este artículo y la presentación de la solicitud de licencia de construcción se hubiese modificado el alineamiento en los términos del artículo 29 de este Título, el proyecto de construcción deberá ajustarse a los nuevos requerimientos.
 
 Si las modificaciones ocurrieran después de concedida la licencia de construcción, se ordenará la suspensión de los trabajos para que se revise el proyecto de construcción y se ajuste a las modalidades y limitaciones del alineamiento que se señalen en la nueva constancia de alineamiento. En caso de ser necesario se procederá de acuerdo con la Ley.
 
@@ -434,11 +440,19 @@ V. Colocar en lugar visible de la obra un letrero con su nombre y, en su caso, d
 
 VI. Entregar al propietario, una vez concluida la obra, los planos registrados actualizados del proyecto completo en original el libro de bitácora, memorias de cálculo y conservar un juego de copias de estos documentos;
 
-VII. Resellar anualmente el carnet y refrendar su registro de Director Responsable de Obra cada tres años, o cuando lo determine el Departamento por modificaciones al Reglamento o a las Normas Técnicas Complementarias.
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 1997)</small>
 
-En este caso, se seguirá el procedimiento indicado en el artículo 42 de este Reglamento, sin que sea necesario presentar de nuevo la documentación que ya obra en poder del Departamento; en particular informará a la Comisión sobre las licencias, dictámenes y vistos buenos que haya suscrito, así como de todas sus intervenciones con el carácter de Director Responsable de Obra, debiendo además acreditar que es miembro activo del Colegio de Profesionales respectivo, y
+VII. Resellar anualmente el carnet, y refrendar su registro de Director Responsable de Obra cada tres años.
 
-VIII. Elaborar y entregar al propietario de la obra al término de ésta, los manuales de operación y mantenimiento a que se refiere el artículo 284 de este Reglamento, en los casos de las obras numeradas en el artículo 53 del mismo.
+Para el resello y el refrendo se estará a lo previsto en el artículo 42, sin que sea necesario presentar de nuevo la documentación que ya obra en poder del Distrito Federal; en particular informará a la Comisión sobre las licencias, dictámenes y vistos buenos que haya suscrito así como de todas sus intervenciones con el carácter de Director Responsable de Obra, y acreditará además que es miembro activo del colegio de profesionales respectivo;
+
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 1997)</small>
+
+VIII. Elaborar y entregar al propietario o poseedor de la obra, al término de ésta, los manuales de operación y mantenimiento a que se refiere el artículo 284, en los casos de las obras que requieran de licencia de uso del suelo, y
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 1997)</small>
+
+IX. Observar en la elaboración del Visto Bueno de Seguridad y Operación, las previsiones contra incendios contenidas en el presente Reglamento y en las Normas Técnicas Complementarias.
 
 ### CAPITULO II. CORRESPONSABLES
 
@@ -476,7 +490,9 @@ a) Suscriba conjuntamente con el Director Responsable de Obra una licencia de co
 
 b) Suscriba los planos del proyecto estructural, la memoria de diseño de la cimentación y la estructura;
 
-c) Suscriba los procedimientos de construcción de las obras y los resultados de las pruebas de control de calidad de los materiales empleados;
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 1997)</small>
+
+c) Suscriba conjuntamente con el Director Responsable de Obra, el Visto Bueno de Seguridad y Operación;
 
 d) Suscriba un dictamen técnico de estabilidad, o seguridad de una edificación o instalación, o
 
@@ -638,7 +654,7 @@ IV. Cada dos años se sustituirán tres miembros de cada Comité, por los que se
 
 El Jefe del Departamento deberá expedir el Manual de Funcionamiento de los Comités, a propuesta de los mismos, que contemplará el procedimiento de evaluación de los aspirantes a Director Responsable de Obra y/o Corresponsable, las propuestas de remoción de sus miembros, el procedimiento a seguir en los casos de renuncia o fallecimiento y el carácter rotatorio de la Presidencia de los Comités.
 
-Dicho manual deberá publicarse en la Gaceta Oficial del Departamento del Distrito Federal.
+Dicho manual deberá publicarse en la Gaceta Oficial del Distrito Federal.
 
 ###### Artículo 51.
 
@@ -652,9 +668,17 @@ En este caso se deberá levantar un acta, asentando en detalle los motivos por l
 
 El Departamento ordenará la suspensión de la obra, cuando el Director Responsable de Obra o Corresponsable no sea sustituido en forma inmediata y no permitirá la reanudación, hasta en tanto no se designe nuevo Director Responsable de Obra o Corresponsable.
 
-b) Cuando no haya refrendado su calidad de Director Responsable de Obra o Corresponsable. En este caso se suspenderán las obras en proceso de ejecución, para las que haya dado su responsiva, y
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 1997)</small>
 
-c) Cuando el Departamento autorice la ocupación de la obra.
+b) Cuando no haya refrendado su calidad de Director Responsable de Obra o Corresponsable. En este caso se suspenderán las obras en proceso de ejecución, para las que haya dado su responsiva;
+
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 1997)</small>
+
+c) Cuando la Delegación autorice la ocupación de la obra, y
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 1997)</small>
+
+d) Cuando haya otorgado su responsiva, en el caso del Visto Bueno de Seguridad y Operación.
 
 El término de las funciones del Director Responsable de Obra y Corresponsable, no los exime de la responsabilidad de carácter civil, penal o administrativa que pudiera derivarse de su intervención en la obra para la cual hayan otorgado su responsiva.
 
@@ -668,7 +692,7 @@ I. Cuando haya obtenido su inscripción proporcionando datos falsos o cuando dol
 
 II. Cuando a juicio de la Comisión no hubiera cumplido sus obligaciones en los casos en que haya dado su responsiva;
 
-III. Cuando haya reincidido en violaciones a este Reglamento,
+III. Cuando haya reincidido en violaciones a este Reglamento.
 
 La suspensión se decretará por un mínimo de tres meses y hasta un máximo de seis meses. En casos extremos podrá ser cancelado el registro sin perjuicio de que el Director Responsable de Obra o Corresponsable subsane las irregularidades en que haya incurrido.
 
@@ -676,107 +700,27 @@ La suspensión se decretará por un mínimo de tres meses y hasta un máximo de 
 
 ### CAPITULO I. LICENCIAS Y AUTORIZACIONES
 
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 1997)</small>
+
 ###### Artículo 53.
 
-Previa a la solicitud del propietario o poseedor para la expedición de la licencia de construcción a que se refiere el artículo 54 de este Reglamento, aquél deberá obtener del Departamento:
+La licencia de uso de suelo será necesaria en los casos a que se refiere la Ley de Desarrollo Urbano del Distrito Federal y su Reglamento.
 
-I. Licencia de uso del suelo cuando se trate de:
-
-a) Conjuntos habitacionales;
-
-b) Oficinas de más de 10,000 m² y Representaciones Oficiales y Embajadas;
-
-c) Almacenamiento y abasto, en sus tipos de depósito de gas líquido y combustible, gasolineras, depósitos de explosivos, centrales de abasto y rastros;
-
-d) Las tiendas de autoservicio y de departamento de más de 10,000 m² y centros comerciales de más de 2.0 ha;
-
-e) Los baños públicos;
-
-f) Hospitales generales o de especialidades, centros antirrábicos y de cuarentena;
-
-g) Las edificaciones de educación superior;
-
-h) Instalaciones religiosas;
-
-i) Edificaciones de entretenimiento;
-
-j) Deportes y recreación, exceptuando canchas deportivas;
-
-k) Hoteles y moteles de más de 100 cuartos;
-
-l) Agencias funerarias;
-
-m) Terminales y estaciones de transporte;
-
-n) Estacionamientos de más de 250 cajones;
-
-ñ) Estaciones de radio y televisión con auditorio y estudios cinematográficos;
-
-o) Industria pesada y mediana;
-
-p) Jardines y parques de más de 50 ha;
-
-q) Edificaciones de infraestructura;
-
-r) Las edificaciones ubicadas en zonas del patrimonio histórico, artístico y arqueológico de la Federación o del Distrito Federal, según la zonificación de los Programas Parciales de Desarrollo Urbano y Protección Ecológica;
-
-s) El aprovechamiento de inmuebles que hayan sido materia de resoluciones específicas de modificación a Programas Parciales, o cuenten con un acuerdo que las declara como Zonas de Desarrollo Controlado dictadas por la Jefatura del Departamento;
-
-t) Los desarrollos urbanos a los que se haya autorizado incremento en la densidad habitacional o en la intensidad de uso no habitacional, como parte de los sistemas de estímulos y fomento a la vivienda de interés social, popular o para arrendamiento o para la fusión de predios cuando proyecten edificaciones de cuatro fachadas.
-
-El Departamento resolverá, a través del órgano o unidad administrativa que disponga su Reglamento Interior y en un plazo máximo de 21 días hábiles si otorga o no la licencia de uso del suelo. Si se otorga la licencia, en ella se señalarán las condiciones que, de acuerdo con el Programa, se fijen en materia de vialidad, estacionamientos, áreas verdes, áreas de maniobras, densidad de población y las demás que se consideren necesarias, y
-
-II. Licencia de Uso del Suelo con Dictamen Aprobatorio, para los siguientes casos:
-
-a) Conjuntos habitacionales de más de 250 viviendas;
-
-b) Oficinas de más de 20,000 m² y Representaciones Oficiales y Embajadas;
-
-c) Almacenamiento y abasto de más de 10,000 m² en sus tipos de depósito de gas líquido y combustible, depósito de explosivos, centrales de abasto y rastros;
-
-d) Tiendas de autoservicio y de departamentos de más de 20,000 m² y centros comerciales de más de 3.0 ha;
-
-e) Hospitales de más de 75 camas;
-
-f) Las edificaciones de educación superior de más de 20,000 m² de terreno;
-
-g) Instalaciones religiosas de más de 250 concurrentes;
-
-h) Edificaciones de entretenimiento de más de 250 concurrentes;
-
-i) Deportes y recreación de más de 20,000 m² de terreno, exceptuando canchas deportivas;
-
-j) Hoteles y moteles de más de 200 cuartos;
-
-k) Instalaciones para la fuerza aérea, armada y el ejército, reclusorios y reformatorios;
-
-l) Cementerios, mausoleos y crematorios;
-
-m) Terminales y estaciones de transporte de más de 20,000 m² de terreno;
-
-n) Estacionamientos de más de 500 cajones;
-
-ñ) Aeropuertos, helipuertos e instalaciones conexas, e
-
-o) Industrias de más de 20,000 m² de terreno.
-
-En estos casos, el Departamento resolverá si otorga o no la licencia correspondiente, previa opinión del órgano de representación ciudadana competente en un plazo de treinta días hábiles, contados a partir del día siguiente a la recepción de la solicitud.
-
-III. A las solicitudes de Licencia de Uso del Suelo deberán acompañarse el anteproyecto arquitectónico en el que se incluyan las plantas de distribución y de localización, cortes y fachadas, así como una memoria descriptiva del funcionamiento del proyecto con sus posibles demandas sobre la infraestructura vial, hidrosanitaria, eléctrica y propuestas de aminoración de efectos en las edificaciones vecinas, en su caso.
-
-En los casos que señalen las Normas Técnicas Complementarias, deberán acompañarse además los estudios de imagen e impacto ambiental urbano.
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 1997)</small>
 
 ###### Artículo 54.
 
-La licencia de construcción es el acto que consta en el documento expedido por el Departamento por el que se autoriza a los propietarios o poseedores, según sea el caso, para construir, ampliar, modificar, cambiar el uso o régimen de propiedad a condominio, reparar o demoler una edificación o instalación.
+La licencia de construcción es el documento que expide la Delegación por medio del cual se autoriza, según el caso, a construir, ampliar, modificar, reparar, o demoler una edificación o instalación, o a realizar obras de construcción, reparación o mantenimiento de las instalaciones subterráneas a que se refiere el artículo 19.
 
-Para la obtención de la licencia de construcción, bastará efectuar el pago de los derechos correspondientes y la entrega del proyecto ejecutivo en la Delegación donde se localice la obra a realizar, excepto en los casos señalados en que se requieran otras autorizaciones, licencias, dictámenes, vistos buenos, permisos o constancias.
+Para la obtención de la licencia de construcción, se deberá presentar solicitud ante la Delegación en donde se localice la obra, en le formato que establezca el Distrito Federal acompañada de los documentos a que se refiere el artículo 56 y previo pago de los derechos correspondientes en los términos del Código Financiero del Distrito Federal. La Delegación tendrá por recibida la solicitud de licencia de construcción, sin revisar el contenido del proyecto, siempre que se cumpla con estos requisitos.
 
-La presentación de la documentación será responsabilidad del propietario o poseedor o del Director Responsable de Obra en su caso. El Departamento se dará por recibido y no requerirá ninguna revisión del contenido del proyecto; únicamente revisará que se entregue el formato de registro correspondiente, distribuido gratuitamente por el Departamento, los documentos a que se refiere el artículo 56 de este Reglamento y que se hayan pagado los derechos correspondientes. El plazo máximo para extender la licencia de construcción será de un día hábil.
+La licencia de construcción deberá expedirse al día hábil siguiente de la presentación de la solicitud, con excepción de las que se refieran a la construcción, reparación o mantenimiento de instalaciones subterráneas; a las construcciones que se pretendan ejecutar en suelo de conservación, o a aquéllas que de acuerdo con las Normas Técnicas Complementarias requieran de la opinión de una o varias dependencias, órganos o entidades de la administración pública federal o local. En estos casos, el plazo será de 30 días hábiles contados a partir de la fecha de recepción de la solicitud.
 
-Al extender la licencia de construcción, el Departamento incluirá el permiso sanitario a que se refiere la Ley de Salud para el Distrito Federal, en los casos y términos que ésta establece.
+Transcurridos los plazos señalados en el párrafo anterior, sin haber resolución de la autoridad, se entenderá otorgada la licencia con una vigencia de 12 meses, debiendo tramitarse la certificación de resolución ficta conforme a lo previsto en la Ley de procedimiento Administrativo del Distrito Federal, salvo que se trate de construcciones que se pretendan ejecutar en suelo de conservación, o aquéllas relativas a instalaciones subterráneas, en cuyo caso se entenderá negada la licencia.
 
-Los registros de proyecto y la ejecución de las obras correspondientes deberán tener la responsiva de un Director Responsable de Obra, salvo aquellas obras señaladas en el artículo 41, y la responsiva de los Corresponsables que correspondan, en los casos señalados en el artículo 44 de este Reglamento.
+El proyecto de la obra que se presente junto con la solicitud de licencia de construcción deberá tener la responsiva de un Director Responsable de Obra salvo en los casos a que se refiere el artículo 41, así como la de los Corresponsables en los supuestos señalados por el artículo 44.
+
+La licencia de construcción incluirá el permiso sanitario de conformidad con la Ley de Salud para el Distrito Federal.
 
 ###### Artículo 55.
 
@@ -784,13 +728,17 @@ Para ejecutar obras o instalaciones públicas o privadas en la vía pública o e
 
 Sólo se concederán licencias a los propietarios o poseedores de los inmuebles cuando la solicitud cumpla con los requisitos señalados en las disposiciones relativas de este Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE JUNIO DE 1997)</small>
+
 ###### Artículo 56.
 
-La solicitud de licencia de construcción deberá ser suscrita por el propietario o poseedor, y cuando se requiera deberá contener la responsiva de un Director Responsable de obra, y en su caso, del o los Corresponsables, ser presentada en las formas que expida el Departamento y acompañar los siguientes documentos:
+La solicitud de licencia de construcción se deberá presentar suscrita por el propietario o poseedor, en la que se deberá señalar el nombre, denominación o razón social del o de los interesados, y en su caso, del representante legal; domicilio par oír y recibir notificaciones; ubicación y superficie del predio de que se trate; nombre, número de registro y domicilio del Director Responsable de Obra y, en su caso, del o de los Corresponsables. De igual forma deberá acompañarse en caso de que se requiera conforme a la normatividad de la materia, copia de la autorización de impacto ambiental, y los documentos siguientes:
 
 I. Cuando se trate de obra nueva:
 
-a) Constancia de uso del suelo, alineamiento y número oficial vigente;
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 1997)</small>
+
+a) Constancia de alineamiento y número oficial vigente y cualquiera de los documentos siguientes: certificación de zonificación para uso específico, certificación de zonificación de usos del suelo permitidos, certificación de acreditación de uso del suelo por derechos adquiridos, o en su caso licencia de uso del suelo,
 
 b) Cuatro tantos del proyecto arquitectónico de la obra en planos a escala, debidamente acotados y con las especificaciones de los materiales, acabados y equipos a utilizar, en los que se deberán incluir, como mínimo: levantamiento del estado actual del predio, indicando las construcciones y árboles existentes; planta de conjunto, mostrando los límites del predio y la localización y uso de las diferentes partes edificadas y áreas exteriores; plantas arquitectónicas, indicando el uso de los distintos locales y las circulaciones, con el mobiliario fijo que se requiera; cortes y fachadas; cortes por fachada y detalles arquitectónicos interiores y de obra exterior; plantas y cortes de las instalaciones hidrosanitarias, eléctricas y otras, mostrando las trayectorias de tuberías y alimentaciones.
 
@@ -812,35 +760,31 @@ Estos planos serán acompañados de la memoria de cálculo en la cual se describ
 
 Los anteriores planos deberán incluir el proyecto de protección a colindancias y estudio de mecánica de suelos, cuando proceda de acuerdo con lo establecido en este Reglamento. Estos documentos deberán estar firmados por el Director Responsable de Obra y el Corresponsable de Seguridad Estructural, en su caso.
 
-Además, el Departamento podrá exigir, cuando lo juzgue conveniente la presentación de los cálculos completos; y
+> <small>(DEROGADO ULTIMO PARRAFO, G.O. 2 DE JUNIO DE 1997)</small>
 
-d) La licencia de uso del suelo, en su caso.
-
-Los documentos señalados en el inciso a), se tramitarán simultáneamente a la licencia de construcción en los casos de obras ubicadas en zonas sin usos condicionados o previamente dictaminados por la autoridad competente siempre y cuando no queden comprendidas, por su magnitud y características, en lo establecido por el artículo 53 de este Reglamento.
+d) (DEROGADO, G.O. 2 DE JUNIO DE 1997)
 
 II. Cuando se trate de ampliación y/o modificación:
 
-a) Constancia de uso del suelo, alineamiento y número oficial;
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 1997)</small>
+
+a) Constancia de alineamiento y número oficial vigente y cualquiera de los documentos siguientes: certificación de zonificación para uso específico, certificación de zonificación de usos del suelo permitidos, certificación de acreditación de uso del suelo por derechos adquiridos, o en su caso, licencia de uso del suelo;
 
 b) Dos tantos del proyecto arquitectónico, estructural y memoria de cálculo, firmados por el Director Responsable de Obra y el Corresponsable que corresponda;
 
 c) Autorización de uso y ocupación anterior, o licencia y planos registrados anteriormente, y
 
-d) Licencia de uso del suelo, en su caso.
+d) (DEROGADO, G.O. 2 DE JUNIO DE 1997)
 
-III. Cuando se trate de cambio de uso:
-
-a) Licencia y planos autorizados con anterioridad, o Constancia de Acreditación de Uso del Suelo por Derechos Adquiridos;
-
-b) Licencia de uso del suelo, en su caso, y
-
-c) Planos del proyecto motivo de la solicitud, suscritos por un Director Responsable de Obra y Corresponsable, en su caso.
+III. (DEROGADA, G.O. 2 DE JUNIO DE 1997)
 
 IV. Cuando se trate de reparación:
 
 a) Proyecto estructural de reparación y memoria de cálculo, firmados por el Director Responsable de Obra y el Corresponsable que corresponda, y
 
-b) Licencia de uso del suelo, en su caso
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 1997)</small>
+
+b) Constancia de alineamiento y número oficial vigente y cualquiera de los documentos siguientes: certificación de zonificación para uso específico, certificación de zonificación de usos del suelo permitidos, certificación de acreditación de uso del suelo por derechos adquiridos, o en su caso, licencia de uso de suelo.
 
 V. Cuando se trate de demolición:
 
@@ -849,6 +793,16 @@ a) Memoria descriptiva del procedimiento que se vaya a emplear, firmada por el D
 Para demoler inmuebles clasificados y catalogados por el Departamento como parte del patrimonio cultural del Distrito Federal, se requerirá autorización expresa del Jefe del propio Departamento.
 
 b) En su caso, los programas a que se refiere el artículo 290 de este Reglamento.
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 1997)</small>
+
+VI. Cuando se trate de obras de construcción, reparación o mantenimiento de las instalaciones subterráneas a que se refiere el artículo 19:
+
+a) Cinco tantos del proyecto ejecutivo que comprenda los planos arquitectónicos, los estructurales, los de instalaciones, y los cálculos respectivos, signados por el Director Responsables de Obra y el Corresponsable en Instalaciones. El proyecto ejecutivo deberá ser formulado de conformidad con las Normas Técnicas Complementarias respectivas;
+
+b) Memorias descriptiva y de instalaciones signadas por el Director Responsable de Obra y el Corresponsable en Instalaciones, y
+
+c) Opinión de las dependencias, órganos o entidades de la administración pública federal o local que señalen las Normas Técnicas Complementarias.
 
 Para cualesquiera de los casos señalados en este artículo se exigirá además, cuando corresponda, el visto bueno del Instituto Nacional de Antropología e Historia o del Instituto Nacional de Bellas Artes y Literatura.
 
@@ -924,7 +878,29 @@ III. Para la edificación de obras con superficie de más de mil metros cuadrado
 
 IV. En las obras e instalaciones a que se refieren las fracciones I a IV del artículo anterior se fijará el plazo de la licencia respectiva, según la magnitud y características particulares de cada caso.
 
-Si terminado el plazo autorizado para la edificación de una obra, ésta no se hubiera concluido, para continuarla deberá obtenerse prórroga de la licencia y cubrir los derechos por la parte no ejecutada de la obra; a la solicitud se acompañará una descripción de los trabajos que se vayan a llevar a cabo y croquis o planos, cuando sea necesario. Si dentro de los seis meses siguientes al vencimiento de una licencia no se obtiene la prórroga señalada, será necesario obtener nueva licencia para continuar la construcción.
+> <small>(DEROGADO ULTIMO PARRAFO, G.O. 2 DE JUNIO DE 1997)</small>
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 1997)</small>
+
+Artículo 60 BIS.- Dentro de los quince días hábiles anteriores al vencimiento de la licencia de construcción, el propietario, o poseedor del inmueble, podrá presentar ante la Delegación, la solicitud de prórroga de la misma, en la que se señalarán los datos siguientes:
+
+I. Nombre, denominación o razón social del o de los interesados y, en su caso, del representante legal;
+
+II. Domicilio par oír y recibir notificaciones;
+
+III. Ubicación del predio en el que se encuentra la construcción;
+
+IV. Número, fecha de expedición y de vencimiento de la licencia de construcción, cuya prórroga se solicita;
+
+V. Porcentaje de avance de la obra ejecutada, y
+
+VI. Descripción de los trabajos que se vayan a llevar a cabo para continuar con la obra.
+
+La solicitud de prórroga de la licencia de construcción se deberá acompañar del comprobante de pago de derechos, de acuerdo con lo que establece el Código Financiero del Distrito Federal.
+
+La vigencia de la prórroga de la licencia de construcción, se sujetará a lo dispuesto en el artículo que antecede.
+
+Una vez que se presente la solicitud correspondiente, la Delegación deberá expedir la prórroga de la licencia de construcción al día hábil siguiente. En los casos de solicitudes de prórroga para construcciones que se ejecuten en el suelo de conservación o para realizar obras de construcción, reparación o mantenimiento de las instalaciones subterráneas a que se refiere el artículo 19, la prórroga deberá expedirse en un plazo de quince días hábiles. Si la autoridad no emite la prórroga en los plazos señalados, se entenderá otorgada la misma con una vigencia de doce meses, debiendo tramitarse la certificación de resolución ficta conforme a lo previsto en la Ley de Procedimiento Administrativo del Distrito Federal.
 
 ###### Artículo 61.
 
@@ -932,25 +908,47 @@ Toda licencia causará los derechos que fijen las tarifas vigentes.
 
 La licencia de construcción y una copia de los planos registrados se entregarán al propietario o poseedor cuando éste hubiere cubierto el monto de todos los derechos que haya generado su autorización, incluyendo las cuotas de reposición por las zonas arboladas que la obra pudiere afectar en los términos de este Reglamento. Cuando se trate de licencia que requiera de responsiva, ésta y la copia de los planos registrados, serán entregados al propietario o poseedor y al Director Responsable de Obra, previa anotación de los datos correspondientes en el registro vigente de éste.
 
-Si en un plazo de treinta días naturales contados a partir de aquél en que debió haberse expedido la licencia, no se presenta el recibo de pago de derechos respectivos, expedido por la Tesorería del Departamento del Distrito Federal, dicha solicitud podrá ser cancelada.
+Si en un plazo de treinta días naturales contados a partir de aquél en que debió haberse expedido la licencia, no se presenta el recibo de pago de derechos respectivos, expedido por la Tesorería del Distrito Federal, dicha solicitud podrá ser cancelada.
 
 ###### Artículo 62.
 
-Los conjuntos habitacionales cubrirán los derechos que establezca la Ley de Hacienda del Departamento del Distrito Federal.
+Los conjuntos habitacionales cubrirán los derechos que establezca la Ley de Hacienda del Distrito Federal.
 
-### CAPITULO II. OCUPACION DE LAS CONSTRUCCIONES
+> <small>(REFORMADA SU DENOMINACION, G.O. 2 DE JUNIO DE 1997)</small>
+
+### CAPITULO II. DE LA OCUPACION Y DEL VISTO BUENO DE SEGURIDAD Y OPERACION DE LAS CONSTRUCCIONES
 
 ###### Artículo 63.
 
 Los propietarios o poseedores están obligados a manifestar por escrito al Departamento la terminación de las obras ejecutadas en sus predios, en un plazo no mayor de quince días hábiles, contados a partir de la conclusión de las mismas, cubriendo los derechos que correspondan de conformidad con las disposiciones legales aplicables, utilizando las formas de "Manifestación de Terminación de Obra" y anotando en su caso el número y la fecha de la licencia respectiva.
 
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 1997)</small>
+
 ###### Artículo 64.
 
-En las obras que requieren Licencia de Uso del Suelo con Dictamen Aprobatorio, así como las señaladas en el artículo siguiente, deberán acompañar a la manifestación de terminación de obra el Visto Bueno de Seguridad y Operación, por la cual se haga constar que las edificaciones e instalaciones correspondientes, reúnen las condiciones de seguridad para su operación, que señala este Reglamento, y que las pruebas a que se refieren los artículos 239 y 240 de este Reglamento resultaron satisfactorias.
+El propietario o poseedor de una edificación recién construida que haya requerido licencia de uso de suelo, de las instalaciones y edificaciones a que se refieren los artículos 65, 117, fracción II y 174, fracción I, así como de aquéllas donde se realicen actividades de algún giro industrial, deberá presentar junto con la manifestación de terminación de obra ante la delegación correspondiente, el Visto Bueno de Seguridad y Operación con la responsiva de un Director Responsable de Obra y del o de los Corresponsables, en su caso.
 
-El Visto Bueno deberá ser otorgado por un Director Responsable de Obra y registrarse ante el Departamento, previo pago de los derechos correspondientes que establezca la Ley de Hacienda del Departamento del Distrito Federal. Dicho Visto Bueno deberá renovarse anualmente.
+El Visto Bueno de Seguridad y Operación, deberá contener:
 
-En las obras ya construidas, el Visto Bueno de Seguridad y Operación deberá presentarse y renovarse anualmente en las condiciones que se fijan en este artículo.
+a) El nombre, denominación o razón social del o los interesados y, en el caso del representante legal, acompañar los documentos con los que se acredite su personalidad;
+
+b) El domicilio para oír y recibir notificaciones;
+
+c) La ubicación del predio de que se trate;
+
+d) El nombre y número de registro del Director Responsable de Obra y, en su caso, del Corresponsable;
+
+e) La manifestación, bajo protesta de decir verdad, del Director Responsable de Obra de que la edificación e instalaciones correspondientes reúnen las condiciones de seguridad previstas por este Reglamento para su operación y funcionamiento. En el caso de giros industriales deberá acompañarse la responsiva de un Corresponsable en Instalaciones;
+
+f) Los resultados de las pruebas a las que se refieren los artículos 239 y 240, y
+
+g) La manifestación del propietario y del Director Responsable de Obra, de que en la construcción de que se trate, se cuenta con los equipos y sistemas contra incendios.
+
+Al Visto Bueno de Seguridad y Operación deberá acompañarse la Constancia de Seguridad Estructural, en su caso.
+
+La renovación del Visto Bueno de Seguridad y Operación se realizará cada tres años para lo cual se deberá presentar la responsiva del Director Responsable de Obra y, en su caso, la del Corresponsable.
+
+En caso de que se realicen cambios en las edificaciones o instalaciones a que se refiere este artículo, antes de que se cumpla el plazo a que se refiere el párrafo anterior, deberá renovarse el Visto Bueno de Seguridad y Operación dentro de los 90 días naturales siguientes al cambio realizado.
 
 ###### Artículo 65.
 
@@ -964,49 +962,31 @@ III. Instalaciones deportivas o recreativas que sean objeto de explotación merc
 
 IV. Ferias con aparatos mecánicos, cines, carpas, en estos casos la renovación se hará, además, cada vez que cambie su ubicación, y
 
-V. Transportes electromecánicos. En este caso el Visto Bueno a que se refiere este artículo sólo se concederá después de efectuadas las inspecciones y las pruebas correspondientes y previa exhibición de la responsiva que debe otorgar un Corresponsable en instalaciones.
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 1997)</small>
+
+V. Ascensores para personas, montacargas, escaleras mecánicas o cualquier otro mecanismo de transporte electromecánico.
+
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 1997)</small>
 
 ###### Artículo 66.
 
-Recibida la manifestación de terminación de obra, así como el Visto Bueno a que se refiere el artículo 64 de este Reglamento en un plazo no mayor de quince días hábiles, el Departamento ordenará una inspección para verificar el cumplimiento de los requisitos señalados en la licencia respectiva y en el permiso sanitario a que se refiere la Ley de Salud para el Distrito Federal y si la construcción se ajustó a los planos arquitectónicos y demás documentos que hayan servido de base para el otorgamiento de la licencia, asimismo para las edificaciones e instalaciones a que se refiere el artículo anterior verificará los requisitos de seguridad para operación y que las pruebas a que se refieren los artículos 239 y 240 de este Reglamento, resultaron satisfactorias, procediendo conforme a las siguientes disposiciones:
+Recibida la manifestación de terminación de obra, así como el Visto Bueno de Seguridad y Operación, en su caso, se procederá conforme a lo siguiente:
 
-I. Verificado el cumplimiento de los requisitos establecidos en la licencia y en el permiso sanitario mencionado, se otorgará la autorización de uso y ocupación, constituyéndose desde ese momento el propietario, según los términos del artículo 64 de este Reglamento, en el responsable de operación y mantenimiento de la obra, a fin de satisfacer sus condiciones de seguridad e higiene;
+I. La Delegación otorgará la autorización de ocupación, para lo cual el propietario o poseedor se constituirá desde ese momento, en los términos del artículo 64 en el responsable de la operación y mantenimiento de la construcción, a fin de satisfacer las condiciones de seguridad de higiene; dicha autorización se otorgará en un plazo de tres días hábiles contados a partir de que se hubiere presentado la manifestación de terminación de obra. Transcurrido dicho plazo sin que exista resolución de la autoridad, se entenderá otorgada la autorización, debiendo tramitarse la certificación de resolución ficta en los términos de lo dispuesto por la Ley de Procedimiento Administrativo del Distrito Federal;
 
-II. El Departamento permitirá diferencias en la obra ejecutada con respecto al proyecto aprobado, siempre que no se afecten las condiciones de seguridad, estabilidad, destino, uso, servicio y salubridad, se respeten las restricciones indicadas en la constancia de alineamiento, las características autorizadas en la licencia respectiva, el número de niveles especificados y las tolerancias que fija este Reglamento y sus Normas Técnicas Complementarias;
+II. La Delegación permitirá diferencias en la obra ejecutada con respecto al proyecto aprobado, siempre que no se afecten las condiciones de seguridad, estabilidad, destino, uso, servicio y salubridad, se respeten las restricciones indicadas en la constancia de alineamiento, las características autorizadas en la licencia respectiva, el número de niveles especificados y las tolerancias que fija este Reglamento y sus Normas Técnicas Complementarias, y
 
-III. El Departamento, al autorizar el uso y ocupación de una construcción nueva y al registrar el Visto Bueno y la Constancia de Seguridad Estructural a la que se refiere el artículo 69, de edificaciones ya construidas, expedirá y colocará en un lugar visible del inmueble, a través de la unidad administrativa competente, la Placa de Control de Uso y Ocupación de Inmuebles, que será obligatoria para las siguientes construcciones y edificaciones:
+III. La Delegación, al autorizar la ocupación de una construcción nueva y al registrar la Constancia de Seguridad Estructural, expedirá y colocará a petición de la parte interesada la Placa de Control de Ocupación de Inmuebles, la cual señalará la calle y número, colonia y Delegación del Distrito Federal en que se ubican, el número y fecha de la licencia de construcción y los usos autorizados, así como la siguiente leyenda:
 
-Las viviendas unifamiliares y bifamiliares que sean destinadas total o parcialmente a otro uso; las unidades plurifamiliares de más de veinte viviendas; los edificios de más de tres niveles, sea cual fuere su uso; los edificios o construcciones de la administración pública o de oficinas privadas y los que tengan por uso el relativo a almacenamiento y abasto, servicios para la salud, servicios para la educación, servicios para la cultura, tiendas y expendios de productos básicos, tiendas de autoservicio, tiendas de departamentos, tiendas de especialidades y centros comerciales, venta de materiales de construcción y vehículos, tiendas de servicios, instalaciones religiosas, instalaciones para venta de alimentos y bebidas, entretenimiento, recreación social, deportes al aire libre con gradas, clubes a cubierto, instalaciones para bomberos, reclusorios, agencias de inhumaciones, terminales de transporte terrestre y aéreo, agencias de correos, telégrafos y teléfonos, estaciones de radio y televisión con auditorio, industrias, así como los demás usos que determine el propio Departamento.
+"El propietario de este inmueble esta obligado a conservarlo en buenas condiciones de seguridad e higiene; destinarlo a usos distintos a los permitidos o realizar modificaciones sin obtener la licencia de construcción cuando se requiera, representa una violación a la Ley de Desarrollo Urbano del Distrito Federal, su Reglamento y al Reglamento de Construcciones para el Distrito Federal y puede poner en peligro la estabilidad de la edificación y la vida de sus usuarios.
 
-IV. Cuando la autorización de uso y ocupación sea expedida por la Delegación correspondiente, ésta notificará dentro de los quince días hábiles siguientes al Departamento, para que expida y coloque la Placa de Control de Uso y Ocupación de Inmuebles.
+Cualquier incumplimiento de lo señalado en el párrafo anterior deberá reportarse a la Delegación del Distrito Federal correspondiente".
 
-V. La Placa de Control de Uso y Ocupación de Inmuebles contendrá las siguientes determinaciones:
-
-a) Para los inmuebles destinados a vivienda, su ubicación, señalando calle y número, la colonia y Delegación en que se ubican, el número y fecha de la licencia de construcción y los usos autorizados, así como la siguiente leyenda:
-
-"El propietario de este inmueble está obligado a conservarlo en buenas condiciones de seguridad e higiene, cualquier modificación al uso autorizado representa una violación al Reglamento de Construcciones para el Distrito Federal y puede poner en peligro la estabilidad de la edificación y la vida de sus usuarios".
-
-"El incumplimiento a las disposiciones establecidas para esta licencia deberá reportarse al Departamento o a la Delegación correspondiente".
-
-b) Para el resto de los inmuebles señalados en este artículo se establecerá el destino del inmueble, su ubicación, señalando calle y número, la colonia y Delegación en que se ubican, el número y fecha de la licencia de construcción y los usos autorizados, así como la siguiente leyenda:
-
-"La licencia de construcción otorgada para la edificación de este inmueble, obliga al propietario a dar una vez al año mantenimiento especializado al sistema de cimentación, a la estructura y a las instalaciones del mismo, a efecto de garantizar sus funciones en óptimas condiciones de seguridad".
-
-"Cualquier modificación al uso autorizado representa una violación al Reglamento de Construcciones para el Distrito Federal y puede poner en peligro la estabilidad de la edificación y la vida de sus usuarios".
-
-"El incumplimiento a las disposiciones establecidas para esta licencia, deberá reportarse al Departamento del Distrito Federal o a la Delegación correspondiente".
-
-Los derechos que se causen por la expedición, colocación, así como por la reposición de la placa, se determinarán de acuerdo con lo previsto por la Ley de Hacienda del Departamento.
+Los derechos que se causen por la expedición, colocación, así como por la reposición de la placa se determinarán de acuerdo con lo previsto en el Código Financiero del Distrito Federal.
 
 ###### Artículo 67.
 
-Para el establecimiento y funcionamiento de giros industriales, tales como fábricas, bodegas, talleres o laboratorios, se requerirá la autorización de operación, previa inspección que practique el Departamento.
-
-Dicha autorización se otorgará solamente si de la inspección resulta que la edificación reúne las características de ubicación, de construcción y de operación que para esa clase de establecimiento o instalaciones exigen este Reglamento y las demás disposiciones relativas.
-
-La autorización tendrá una vigencia de dos años y será revalidada por periodos iguales de tiempo, previa verificación de las autoridades competentes de que la edificación satisface los requisitos exigidos en relación con el giro, equipo, maquinaria e instalaciones existentes en él.
-
-Al otorgar la autorización de operación, el Departamento extenderá la autorización sanitaria a que se refiere la Ley de Salud para el Distrito Federal, en los casos y los términos que ésta establece, siempre y cuando la edificación cumpla con los requisitos de higiene que señalan dicha ley y este Reglamento.
+(DEROGADO, G.O. 2 DE JUNIO DE 1997)
 
 ###### Artículo 68.
 
@@ -1028,9 +1008,17 @@ II. Acompañar a la solicitud los documentos siguientes: constancia de alineamie
 
 III. Recibida la documentación, el Departamento procederá a su revisión y, en su caso, practicará una inspección a la obra de que se trate, y si de ella resultare que la misma cumple con los requisitos legales, reglamentarios y administrativos aplicables y se ajusta a los documentos exhibidos con la solicitud de regularización y registro de obra, el Departamento autorizará su registro, previo pago de los derechos y las sanciones que establece la Ley de Hacienda del Departamento y este Reglamento.
 
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 1997)</small>
+
 ###### Artículo 71.
 
-Cualquier cambio de uso en predios o edificaciones ya ejecutadas requerirá de previa licencia de construcción y de autorización sanitaria por parte del Departamento, en los casos señalados en este Reglamento y en la Ley de Salud para el Distrito Federal, respectivamente. Se podrán autorizar los cambios de uso si el Programa lo permite y si se efectúan las modificaciones, instalaciones y pruebas de carga adicionales necesarias para cumplir con los requerimientos que establece el presente Reglamento para el nuevo uso.
+Al cambiar el uso de edificaciones ya construidas para ser destinadas a alguno de los supuestos señalados en los artículos 65, fracciones I, II y III; 117 fracción II y 174, fracción I, o algún giro industrial, se requerirá de la presentación ante la Delegación correspondiente, del Visto Bueno de Seguridad y Operación. Los propietarios o poseedores de dichas edificaciones deberán presentar este Visto Bueno de Seguridad y Operación, en un plazo de noventa días naturales posteriores al cambio de uso, junto con los documentos siguientes:
+
+I. La constancia de alineamiento y número oficial vigente y cualquiera de los documentos siguientes: certificación de zonificación para uso específico, certificación de zonificación de usos del suelo permitidos, certificación de acreditación de uso del suelo por derechos adquiridos o en su caso licencia de uso del suelo;
+
+II. La licencia de construcción, y
+
+III. En su caso, la Constancia de Seguridad Estructural.
 
 ## TITULO QUINTO. PROYECTO ARQUITECTONICO
 
@@ -1054,71 +1042,19 @@ Todos los elementos de la marquesina deberán estar situados a una altura mayor 
 
 ###### Artículo 74.
 
-Ningún punto del edificio podrá estar a mayor altura que dos veces su distancia mínima a un plano virtual vertical que se localice sobre el alineamiento opuesto a la calle. Para los predios que tengan frente a plazas o jardines, el alineamiento opuesto para los fines de este artículo, se localizará a cinco metros hacia adentro del alineamiento de la acera opuesta.
-
-La altura de la edificación deberá medirse a partir de la cota media de la guarnición de la acera en el tramo de calle correspondiente al frente del predio.
-
-El Departamento podrá fijar otras limitaciones a la altura de los edificios en determinadas zonas, de acuerdo con los artículos 34, 35 y 36 de este Reglamento.
+(DEROGADO, G.O. 2 DE JUNIO DE 1997)
 
 ###### Artículo 75.
 
-Cuando una edificación se encuentre ubicada en la esquina de dos calles de anchos diferentes, la altura máxima de la edificación con frente a la calle angosta podrá ser igual a la correspondiente a la calle más ancha, hasta una distancia equivalente a dos veces el ancho de la calle angosta, medida a partir de la esquina; el resto de la edificación sobre la calle angosta tendrá como límite de altura el señalado en el artículo anterior.
+(DEROGADO, G.O. 2 DE JUNIO DE 1997)
 
 ###### Artículo 76.
 
-La superficie construida máxima permitida en los predios será la que se determine, de acuerdo con las intensidades de uso del suelo y densidades máximas establecidas en los Programas Parciales en función de los siguientes rangos:
-
-Intensidad de uso Densidad Superficie
-
-del suelo máxima construida
-
-permitida máxima
-
-(hab./ha.) (respecto al
-
-área del
-
-terreno)
-
-0.05 (muy baja) 10 0.05
-
-1.0 (baja) 50 1.0
-
-1.5 (baja) 100 a 200 1.5
-
-3.7 (media) 400 3.5
-
-7.5 (alta) 800 7.5
-
-Para efectos de este artículo, las áreas de estacionamiento no contarán como superficie construida.
+(DEROGADO, G.O. 2 DE JUNIO DE 1997)
 
 ###### Artículo 77.
 
-Sin perjuicio de las superficies construidas máximas permitidas en los predios, establecidos en el artículo anterior, para lograr la recarga de los mantos acuíferos, se deberá permitir la filtración de agua de lluvia al subsuelo, por lo que las futuras construcciones proporcionarán un porcentaje de la superficie del predio, preferentemente como área verde; en caso de utilizarse pavimento éste será permeable.
-
-Los predios con área menor de 500 m² deberán dejar sin construir, como mínimo, el 20% de su área; y los predios con área mayor de 500 m², los siguientes porcentajes:
-
-SUPERFICIE AREA
-
-DEL PREDIO LIBRE (%)
-
-De más de 500
-
-hasta 2,000 m² 22.50
-
-De más de 2,000
-
-hasta 3,500 m² 25.00
-
-De más de 3,500
-
-hasta 5,500 m² 27.50
-
-Más de 5,500 m² 30.00
-
-Cuando por las características del subsuelo en que se encuentra ubicado el predio, se dificulte la filtración o ésta resulte inconveniente, el Departamento podrá autorizar medios alternativos para la filtración o el aprovechamiento de las aguas pluviales.
-
-Quedan exceptuados de la aplicación de este artículo los predios e inmuebles ubicados dentro del perímetro "A" del Centro Histórico.
+(DEROGADO, G.O. 2 DE JUNIO DE 1997)
 
 ###### Artículo 78.
 
@@ -1170,9 +1106,11 @@ II. Boquillas de Inyección para distribuir el agua tratada, y de succión para 
 
 III. Rejillas de succión distribuidas en la parte honda de la alberca, en número y dimensiones necesarias para que la velocidad de salida del agua sea la adecuada para evitar accidentes a los nadadores.
 
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 1997)</small>
+
 ###### Artículo 85.
 
-Las edificaciones que requieran licencia de uso del suelo con dictamen aprobatorio, según lo que establece el artículo 53 de este Reglamento, con una altura de más de cuatro niveles, en lo que se refiere al almacenamiento y la eliminación de la basura, deberán observar lo dispuesto en las Normas Técnicas Complementarias.
+Las edificaciones que requieran licencia de uso del suelo, con una altura de más de cuatro niveles, deberán observar lo dispuesto en las Normas Técnicas Complementarias en lo que se refiere al almacenamiento y la eliminación de la basura.
 
 ###### Artículo 86.
 
@@ -1712,13 +1650,7 @@ Las edificaciones que se proyecten en zonas del patrimonio histórico, artístic
 
 ###### Artículo 146.
 
-Las edificaciones que requieren licencia de uso del suelo, según lo que establece el artículo 53 de este Reglamento, deberán acompañar a la solicitud de licencia de uso del suelo, los estudios de imagen urbana con el siguiente contenido mínimo:
-
-I. Levantamiento de las fachadas del frente o frentes de la manzana donde se proyecta la edificación y de las manzanas o construcciones vecinas inmediatas, mostrando la edificación proyectada en el predio que le corresponde;
-
-II. Reporte fotográfico del frente o frentes de la manzana donde se proyecta la edificación, señalando el predio que le corresponde, y
-
-III. Justificación sobre la integración del proyecto a su entorno.
+(DEROGADO, G.O. 2 DE JUNIO DE 1997)
 
 ###### Artículo 147.
 
@@ -1750,17 +1682,21 @@ Los tinacos deberán colocarse a una altura de, por lo menos, dos metros arriba 
 
 Las tuberías, conexiones y válvulas para agua potable deberán ser de cobre rígido, cloruro de polivinilo, fierro galvanizado o de otros materiales que aprueben las autoridades competentes.
 
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 1997)</small>
+
 ###### Artículo 153.
 
-Las instalaciones de infraestructura hidráulica y sanitaria que deban realizarse en el interior de predios de conjuntos habitacionales y otras edificaciones de gran magnitud, previstas en la fracción II del artículo 53 del Reglamento, deberán sujetarse a lo que disponga el Departamento para cada caso.
+Las instalaciones de infraestructura hidráulica y sanitaria que deban realizarse en el interior de predios de conjuntos habitacionales, industriales, comerciales, de servicios, mixtos y otras edificaciones de gran magnitud que requieran de licencia de uso de suelo, deberán sujetarse a las disposiciones que emita el Departamento Distrito Federal.
 
 ###### Artículo 154.
 
 Las instalaciones hidráulicas de baños y sanitarios deberán tener llaves de cierre automático o aditamentos economizadores de agua; los excusados tendrán una descarga máxima de seis litros en cada servicio; las regaderas y los mingitorios, tendrán una descarga máxima de diez litros por minuto, y dispositivos de apertura y cierre de agua que evite su desperdicio; y los lavabos, y las tinas, lavaderos de ropa y fregaderos tendrán llaves que no consuman más de diez litros por minuto.
 
+> <small>(REFORMADO, G.O. 2 DE JUNIO DE 1997)</small>
+
 ###### Artículo 155.
 
-En las edificaciones establecidas en la fracción II del artículo 53 de este Reglamento, el Departamento exigirá la realización de estudios de factibilidad de tratamiento y reúso de aguas residuales, sujetándose a lo dispuesto por la Ley General del Equilibrio Ecológico y la Protección al Ambiente y demás ordenamientos aplicables, para definir la obligatoriedad de tener separadas sus instalaciones en aguas pluviales, jabonosas y negras, las cuales se canalizarán por sus respectivos albañales para su uso, aprovechamiento o desalojo; de acuerdo con las Normas Técnicas Complementarias.
+Las edificaciones que requieran de licencia de uso de suelo se deberán sujetar a lo dispuesto por la legislación ambiental y demás ordenamientos aplicables. Estas edificaciones deberán contar con instalaciones para separar las aguas pluviales, jabonosas y negras, las cuales se canalizarán por sus respectivos albañales para su uso, aprovechamiento o desalojo, de acuerdo con las Normas Técnicas Complementarias.
 
 ###### Artículo 156.
 
@@ -1808,7 +1744,7 @@ Artículo 163 BIS.- En las construcciones en ejecución, cuando haya necesidad d
 
 ###### Artículo 164.
 
-En las edificaciones ubicadas en calles con red de alcantarillado público, el propietario deberá solicitar al Departamento la conexión del albañal con dicha red, de conformidad con lo que al efecto dispone el Reglamento de Agua y Drenaje para el Distrito Federal, y pagar los derechos que establezca la Ley de Hacienda del Departamento del Distrito Federal.
+En las edificaciones ubicadas en calles con red de alcantarillado público, el propietario deberá solicitar al Departamento la conexión del albañal con dicha red, de conformidad con lo que al efecto dispone el Reglamento de Agua y Drenaje para el Distrito Federal, y pagar los derechos que establezca la Ley de Hacienda del Distrito Federal.
 
 #### SECCION SEGUNDA. INSTALACIONES ELECTRICAS
 
@@ -1884,7 +1820,7 @@ Para puentes, túneles, torres, chimeneas y estructuras industriales no convenci
 
 ###### Artículo 173.
 
-El Departamento expedirá Normas Técnicas Complementarias para definir los requisitos específicos de ciertos materiales y sistemas estructurales, así como procedimientos de diseño para acciones particulares, como efectos de sismos y de vientos
+El Departamento expedirá Normas Técnicas Complementarias para definir los requisitos específicos de ciertos materiales y sistemas estructurales, así como procedimientos de diseño para acciones particulares, como efectos de sismos y de vientos.
 
 ###### Artículo 174.
 
@@ -2884,9 +2820,11 @@ IV. Quedan prohibidas las instalaciones y Edificaciones precarias en las azoteas
 
 Es obligación del propietario o poseedor del inmueble, tener y conservar en buenas condiciones la Placa de Control de Uso, otorgándole para ello los cuidados necesarios que garanticen que no se altere su contenido ni se obstruya a la vista del público usuario.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE JUNIO DE 1997)</small>
+
 ###### Artículo 284.
 
-Las edificaciones que requieren licencia de uso del suelo con dictamen aprobatorio, según lo establecido en el artículo 53 de este Reglamento, requerirán de manuales de operación y mantenimiento, cuyo contenido mínimo será:
+Las edificaciones que requieren de licencia de uso del suelo deberán contar con manuales de operación y mantenimiento, cuyo contenido mínimo será:
 
 I. Tendrá tantos capítulos como sistemas de instalaciones, estructura, acabados y mobiliario tenga la edificación;
 
@@ -3084,7 +3022,7 @@ III. En caso de que la terminación de los trabajos ocurra antes del término de
 
 IV. Quince días antes de cambiar al Perito, al que se refiere el Capítulo III de este Título, proponer al Departamento para su aprobación al Perito sustituto, explicando los motivos del cambio;
 
-V. Pagar los derechos que establezca la Ley de Hacienda del Departamento del Distrito Federal;
+V. Pagar los derechos que establezca la Ley de Hacienda del Distrito Federal;
 
 VI. Proporcionar información mensual al Departamento sobre los trabajos de explotación, los y (sic) volúmenes de material extraído y volúmenes de material desechado;
 
@@ -3392,9 +3330,21 @@ Independientemente de la imposición de las sanciones pecuniarias a que haya lug
 
 I. Cuando la obra se haya ejecutado sin licencia;
 
-II. Cuando la obra se haya ejecutado alterando el proyecto aprobado fuera de los límites de tolerancia o sin sujetarse a lo previsto por los Títulos Quinto, Sexto y Séptimo de este Reglamento y sus Normas Técnicas Complementarias, y
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 1997)</small>
 
-III. Cuando se use una construcción o parte de ella para un uso diferente del autorizado.
+II. Cuando la obra se haya ejecutado sin observar el proyecto aprobado fuera de los límites de tolerancia y sin sujetarse a lo previsto por los Títulos Quinto, Sexto y Séptimo de este Reglamento y sus Normas Técnicas Complementarias;
+
+> <small>(REFORMADA, G.O. 2 DE JUNIO DE 1997)</small>
+
+III. Cuando se use una construcción o parte de ella para un uso diferente del autorizado;
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 1997)</small>
+
+IV. Cuando no se haya registrado ante la Delegación correspondiente el Visto Bueno de Seguridad y Operación a que se refiere el artículo 64, y
+
+> <small>(ADICIONADA, G.O. 2 DE JUNIO DE 1997)</small>
+
+V. Cuando las condiciones originales en las que se otorgó el Visto Bueno de Seguridad y Operación hubieren variado y no se presente su renovación conforme al citado artículo 64.
 
 El estado de clausura de las obras podrá ser total o parcial y no será levantado hasta en tanto no se hayan regularizado las obras o ejecutado los trabajos ordenados en los términos del artículo 68 de este Reglamento.
 
@@ -3448,7 +3398,11 @@ b) Cuando no acaten las disposiciones relativas contenidas en el Título Quinto 
 
 c) Cuando en la construcción o demolición de obras, en la explotación de yacimientos o para llevar a cabo excavaciones, usen explosivos sin contar con la autorización previa correspondiente, y
 
-d) Cuando en una obra o explotación de un yacimiento no tomen las medidas necesarias para proteger la vida y salud de los trabajadores y de cualquier otra persona a la que pueda causarse daño.
+d) Cuando en una obra o explotación de un yacimiento no tomen las medidas necesarias para proteger la vida y salud de los trabajadores y de cualquier otra persona a la que pueda causarse daño;
+
+> <small>(ADICIONADO, G.O. 2 DE JUNIO DE 1997)</small>
+
+e) Cuando en la elaboración del Visto Bueno de Seguridad y Operación, no hayan observado las normas de seguridad, estabilidad, prevención de emergencias, higiene y operación contenidos en presente Reglamento.
 
 Los montos máximos y mínimos de las sanciones previstas en este artículo, que se encuentren vigentes en el mes de diciembre de cada año, se actualizarán a partir del 1º de enero siguiente, con base en los índices nacionales de precios al consumidor emitidos por el Banco de México para el mes de noviembre de los dos años anteriores al ejercicio en que deban actualizarse dichas cifras, dividiendo el más reciente de ellos entre el anterior para aplicar su resultado como factor de ajuste.
 
@@ -3510,7 +3464,7 @@ El recurso deberá interponerlo el interesado ante el superior jerárquico inmed
 
 ###### Artículo 350.
 
-El recurrente podrá solicitar la suspensión de la ejecución del acto o resolución que reclame, la cual será concedida siempre que, a juicio de la autoridad, no sea en perjuicio de la colectividad o se contravengan disposiciones de orden público. Cuando con la suspensión se puedan causar daños al Departamento o a terceros, sólo se concederá si el interesado otorga ante la Tesorería del Departamento del Distrito Federal alguna de las garantías a que se refiere la Ley de Hacienda del propio Departamento.
+El recurrente podrá solicitar la suspensión de la ejecución del acto o resolución que reclame, la cual será concedida siempre que, a juicio de la autoridad, no sea en perjuicio de la colectividad o se contravengan disposiciones de orden público. Cuando con la suspensión se puedan causar daños al Departamento o a terceros, sólo se concederá si el interesado otorga ante la Tesorería del Distrito Federal alguna de las garantías a que se refiere la Ley de Hacienda del propio Departamento.
 
 El monto de la garantía será el suficiente para asegurar la reparación de los posibles daños que se pudieran causar y será fijada por el Departamento.
 
@@ -3538,7 +3492,7 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 
 ###### ARTICULO SEGUNDO.
 
-Publíquese en la Gaceta Oficial del Departamento del Distrito Federal.
+Publíquese en la Gaceta Oficial del Distrito Federal.
 
 ###### ARTICULO TERCERO.
 
@@ -3558,7 +3512,7 @@ Las solicitudes de licencia de construcción en trámite y las obras en ejecuci�
 
 ###### ARTICULO SEPTIMO.
 
-El Departamento del Distrito Federal deberá expedir las Normas Técnicas Complementarias a que se refiere este Reglamento, en un plazo no mayor a doce meses, mismas que entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del propio Departamento.
+El Distrito Federal deberá expedir las Normas Técnicas Complementarias a que se refiere este Reglamento, en un plazo no mayor a doce meses, mismas que entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del propio Departamento.
 
 En tanto se expiden dichas normas, se seguirán aplicando, en lo que no se opongan a este Reglamento, las que están vigentes.
 
@@ -3601,3 +3555,17 @@ REQUISITOS MINIMOS
 D.O.F. 15 DE JULIO DE 1994.
 
 UNICO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+G.O. 2 DE JUNIO DE 1997.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión se publicará en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las referencias que se hacen en el Reglamento de Construcciones del Distrito Federal a constancia de uso del suelo, constancia de zonificación de uso del suelo y constancia de acreditación de uso del suelo por derechos adquiridos, se entenderán hechas a certificación de zonificación para uso específico, certificación de zonificación de usos del suelo permitidos y certificación de acreditación de uso del suelo por derechos adquiridos, respectivamente; así mismo, las menciones hechas a la autorización de uso y ocupación se entenderán hechas sólo a la autorización de ocupación.
+
+Las menciones hechas al Distrito Federal se referirán al Distrito Federal a partir del 5 de diciembre de 1997.
+
+TERCERO.- Las solicitudes de constancias de uso de suelo, de zonificación de uso de suelo y de acreditación de uso del suelo por derechos adquiridos así como las licencias de uso del suelo y de construcciones en trámite, y las obras en ejecución a la fecha de entrada en vigor de este Decreto se tramitarán de conformidad con las disposiciones vigentes con anterioridad a dicha entrada en vigor.
+
+CUARTO.- En tanto se expiden las Normas Técnicas Complementarias relativas a las licencias de construcción para las que se requiera opinión de alguna dependencia, órgano o entidad de la administración pública federal o local, las autoridades competentes del Distrito Federal deberán recabar las opiniones que se requieran y resolver las solicitudes de dichas licencias en el mismo plazo a que se refiere el artículo 54 del Reglamento de Construcciones del Distrito Federal. En estos casos, se deberá comunicar al particular dicha circunstancia.
+
+QUINTO.- Los propietarios o poseedores de las edificaciones o instalaciones a que se refieren los artículos 65, 117, fracción II y 174, fracción I del Reglamento de Construcciones para el Distrito Federal, que no cuenten con el registro del Visto Bueno de Seguridad y Operación, deberán presentarlo en un plazo de ciento veinte días naturales a partir de la entrada en vigor de este Decreto, conforme a lo que establece el artículo 64 de este mismo Reglamento.
