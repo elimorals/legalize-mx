@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "1999-07-16"
+last_updated: "1999-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987.
 
@@ -99,7 +99,7 @@ Lo dispuesto en el párrafo precedente, tendrá aplicación aún cuando la conca
 
 ###### ARTICULO 11.
 
-En los delitos de resultado material por conducta omisiva, responderá quién no lo impida, si podía hacerlo y debía jurídicamente evitarlo.
+En los delitos de resultado material por conducta omisiva, responderá quien no lo impida, si podía hacerlo y debía jurídicamente evitarlo.
 
 ### CAPITULO III. FORMAS DE INTEGRACION TIPICA
 
@@ -1427,6 +1427,8 @@ Si el que divulgare el secreto, documento, grabación, filmación u objeto, lo h
 
 ### CAPITULO II. ABIGEATO
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 1999)</small>
+
 ## TITULO OCTAVO. DELITOS CONTRA LA LIBERTAD
 
 E INEXPERIENCIA SEXUALES
@@ -1667,25 +1669,27 @@ Se tendrá por consumado el robo desde el momento en que el ladrón tiene en su 
 
 ###### ARTICULO 189.
 
-Se aplicará prisión de 2 a 9 años y de 20 a 500 días multa al que en cualquier sitio se apodere de una o más cabezas de ganado mayor, o las mate para aprovechar sus productos, sin consentimiento de la persona que pueda disponer de ellas conforme a la Ley, o a quien sabiendas de estas circunstancias, los adquiera o transporte.
+Comete el delito de abigeato el que en cualquier sitio se apodere de una o más cabezas de ganado mayor o menor sin consentimiento de quien legalmente pueda disponer de ellos. A quien le cometa, se le impondrán las penas siguientes:
 
-Si la conducta descrita en el párrafo anterior se ejecuta sobre tres o más cabezas de ganado menor, la sanción será de 1 a 9 años de prisión y de 20 a 500 días multa.
+I.- De 6 meses a 2 años de prisión y de 1 a 50 días multa, si la conducta descrita se ejecuta sobre una o dos cabezas de ganado menor;
 
-Se impondrán de 6 meses a 2 años de prisión al que se apodere de una a dos cabezas de ganado menor.
+II.- De 2 a 6 años de prisión y de 20 a 500 días multa, si la conducta descrita se ejecuta sobre tres a cinco cabezas de ganado menor ó una o dos cabeza (sic) de ganado mayor; y
 
-Si el delito es cometido por más de dos personas se aumentará hasta en un tercio más de las señaladas en este Artículo.
+III.- De 3 a 9 años de prisión y de 20 a 500 días multa, si la conducta descrita se ejecuta sobre más de cinco cabezas de ganado menor ó sobre más de dos cabezas de ganado mayor.
+
+> <small>(REFORMADO, P.O.15 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 190.
 
-Se aplicará prisión de 6 meses a 4 años a quien:
+Se aplicará prisión de 6 meses a 4 años Y (sic) de 20 a 500 días multa a quien:
 
 I.- Altere o elimine las marcas de animales vivos, cueros o pieles;
 
-II.- A sabiendas marque, contramarque, señale o contraseñale, sin derecho animales;
+II.- A sabiendas marque, contramarque, señale o contraseñale sin derecho animales; y
 
-III.- Expida certificados de contenido falso para obtener guías simulando ventas o haga conducir animales que no sean de su propiedad sin estar debidamente autorizado para ello, o haga uso de certificados o guías falsificadas para cualquier negociación sobre ganado, pieles o cueros o,
+III.- Expida certificados de contenido falso para obtener guías simulando ventas o haga conducir animales que no sean de su propiedad sin estar debidamente autorizado para ello, o haga uso de certificados o guías falsificadas para cualquier negociación sobre ganado, pieles o cueros.
 
-IV.- Comercie con animales, pieles o cueros robados o que tuvieran borrada o alterada la marca.
+Al que sin tomar las medidas necesarias para cerciorarse de la procedencia legítima de los animales, adquiera ganado o comercie con pieles, carne u otros derivados obtenidos del abigeato, se le impondrá prisión de 2 a 10 años y de 20 a 500 días multa.
 
 ### CAPITULO III. TRAFICO DE MENORES
 
@@ -1783,7 +1787,7 @@ Cuando el sujeto pasivo del delito entregue la cosa de que se trata a virtud no 
 
 ###### ARTICULO 196.
 
-Al que por cualquier acto jurídico, que conste o no por escrito obtenga de otro (sic)intereses o lucros usurarios, se le impondrá prisión de 6 meses a 10 años y hasta 750 días multa.
+Al que por cualquier acto jurídico, que conste o no por escrito obtenga de otro (sic) intereses o lucros usurarios, se le impondrá prisión de 6 meses a 10 años y hasta 750 días multa.
 
 Si se valiese de la ignorancia, inexperiencia, miseria o necesidad, aunque esta fuese momentánea del pasivo, se aumentará hasta en una mitad mas la pena señalada en el párrafo anterior.
 
@@ -3181,4 +3185,14 @@ P.O. 16 DE JULIO DE 1999
 
 ###### ARTICULO UNICO.
 
-La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico oficial del Gobierno del Estado "La Sombra de Arteaga".
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 15 DE OCTUBRE DE 1999
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a la presente ley.
