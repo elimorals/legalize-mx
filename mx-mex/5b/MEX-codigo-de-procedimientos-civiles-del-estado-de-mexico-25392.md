@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2003-05-08"
+last_updated: "2004-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE MAYO DEL 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2004.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -45,17 +45,17 @@ CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MEXICO
 
 ## TITULO PRIMERO. Jurisdicción
 
-Ejercicio de la jurisdicción
-
-###### Artículo 1.
-
-1.- Corresponde a los Tribunales del Poder Judicial, la facultad de interpretar y aplicar las leyes en los asuntos del orden civil y familiar del fuero común, lo mismo que del orden federal, en los casos en que expresamente lo ordene la ley.
-
 Inicio dispositivo e impulso procesal oficioso
 
 ###### Artículo 1.
 
 2.- La jurisdicción civil sólo se ejercerá mediante instancia de parte, pero mientras se mantenga en ejercicio, corresponde al Juez desarrollar el proceso de oficio, salvo los casos en que la ley exija la petición de parte.
+
+Ejercicio de la jurisdicción
+
+###### Artículo 1.
+
+1.- Corresponde a los Tribunales del Poder Judicial, la facultad de interpretar y aplicar las leyes en los asuntos del orden civil y familiar del fuero común, lo mismo que del orden federal, en los casos en que expresamente lo ordene la ley.
 
 Normas genéricas de la jurisdicción
 
@@ -897,7 +897,7 @@ Excepción a la nulidad de actuaciones
 
 99.- Cuando la ley prescriba una determinada forma para una actuación, sólo será nula, si se efectúa en una forma diversa.
 
-Escritura de cantidades y fechas
+Actuaciones en idioma español
 
 ## TITULO SEPTIMO. Actos Procesales en General
 
@@ -907,13 +907,13 @@ Forma de las actuaciones y promociones
 
 ###### Artículo 1.
 
-101.- Las fechas y cantidades se escribirán con letra y número.
+100.- Las actuaciones judiciales y promociones deben escribirse en idioma español. Los documentos que se presenten redactados en otro idioma o lengua, salvo los aforismos en latín que podrán ser traducidos, se acompañarán de la correspondiente traducción.
 
-Actuaciones en idioma español
+Escritura de cantidades y fechas
 
 ###### Artículo 1.
 
-100.- Las actuaciones judiciales y promociones deben escribirse en idioma español. Los documentos que se presenten redactados en otro idioma o lengua, salvo los aforismos en latín que podrán ser traducidos, se acompañarán de la correspondiente traducción.
+101.- Las fechas y cantidades se escribirán con letra y número.
 
 Prohibición de borrar y abreviar
 
@@ -5723,13 +5723,15 @@ Transacción sobre derechos de menores o sujetos a interdicción
 
 Requisitos de la solicitud
 
+> <small>(REFORMADO, G.G. 7 DE SEPTIEMBRE DE 2004)</small>
+
 ### CAPITULO II. De las Testamentarias
 
 Inicio de juicio testamentario
 
 ###### Artículo 3.
 
-16.- En la solicitud debe manifestarse el nombre y edad del menor o incapacitado, nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela, o de la persona o institución pública que lo haya acogido; debiéndose acompañar un estudio médico, psicológico y socioeconómico de los adoptantes, realizado por una institución oficial.
+16.- En la solicitud deberá manifestarse el nombre y edad del menor o incapacitado, nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela; o de la persona o institución pública o privada que lo haya acogido; debiéndose anexar el certificado de idoneidad expedido por el Sistema para el Desarrollo Integral de la Familia del Estado de México, que contendrá los estudios médico, psicológico, socioeconómico y de trabajo social realizados por el Sistema o por quien éste autorice.
 
 Resolución
 
@@ -6618,3 +6620,9 @@ El Consejo de la Judicatura estará facultado para determinar el inicio de las f
 ###### ARTICULO CUARTO.
 
 Los asuntos que estén en trámite ante las Salas Colegiadas al entrar en funciones las Salas Unitarias y que sean de la competencia de éstas últimas, se seguirá sustanciando por la Sala Colegiada respectiva, hasta la resolución definitiva.
+
+G.G. 7 DE SEPTIEMBRE DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
