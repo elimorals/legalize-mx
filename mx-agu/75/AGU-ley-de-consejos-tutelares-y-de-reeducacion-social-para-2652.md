@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-consejos-tutelares-y-de-reeducacion-social-para-2652"
 country: "mx"
 rank: "ley"
 publication_date: "1982-01-17"
-last_updated: "1982-01-17"
+last_updated: "1990-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 LEY DE CONSEJOS TUTELARES Y DE REEDUCACION SOCIAL PARA MENORES DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 1990.
 
-Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo17 de enero de 1982.
+Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 17 de enero de 1982.
 
 RODOLFO LANDEROS GALLEGOS, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
 
@@ -85,11 +85,13 @@ Es materia de esta Ley: a).- Toda actividad tendiente a elevar el nivel de vida 
 
 ### CAPITULO I
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 1990)</small>
+
 ###### Artículo 10.
 
-Los consejos tutelares serán órganos formados por los consejeros abogado (sic), profesor, médico psiquiatra y trabajador social, el consejero abogado, hará las veces de Presidente y en pleno se nombrará al Secretario General que será cualquiera de los Consejeros. Habrá un Secretario de Acuerdos con las funciones que esta Ley determina y nombrado conforme al Artículo 18.
+Los Consejos Tutelares son órganos que se integrarán por un abogado, un profesor, un médico psiquiatra, un trabajador social y por un representante del Sistema para el Desarrollo Integral de la Familia del Estado, los que actuarán en calidad de Consejeros. El Consejero abogado hará las veces de presidente y en pleno se nombrará al Secretario General y que será cualquiera de los Consejeros. Habrá un Secretario de Acuerdos con las funciones que esta Ley determina y nombrado conforme Artículo 18.
 
-El Pleno del Consejo Tutelar lo integran los consejeros antes citados, sesionando en forma colectiva.
+El pleno del Consejo Tutelar lo integran los Consejeros antes citados, sesionando en forma colectiva.
 
 ###### Artículo 11.
 
@@ -113,9 +115,11 @@ Sus funciones serán autónomas, pero dependerán del Ejecutivo del Estado, en s
 
 En cada población del Estado que sea cabecera de partido judicial, el Pleno del Consejo Tutelar Central de acuerdo con el Ejecutivo del Estado y el Ayuntamiento que corresponda, podrá disponer el establecimiento de Consejos Tutelares Auxiliares Regionales.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 1990)</small>
+
 ###### Artículo 15.
 
-Los consejos tutelares auxiliares regionales se formarán con el Juez Menor Mixto como consejero abogado; con el inspector escolar como consejero profesor, y con el Director del Centro de Salud como consejero médico. Habrá consejeros psiquiatra y trabajador social si en el lugar existen estos especialistas.
+Los Consejos Tutelares Auxiliares Regionales se formarán con el Juez Menor Mixto como consejero abogado, con el Inspector Escolar como consejero profesor, con el Director del Centro de Salud como consejero médico y con el consejero representante del Sistema para el Desarrollo Integral de la Familia del Estado, designado para tales efectos. Habrá consejeros psiquiatra y trabajador social si en el lugar existen estos especialistas.
 
 En el lugar en que haya más de un Juez Menor Mixto, fungirá el que se encuentre en turno en el momento de requerir su intervención.
 
@@ -644,3 +648,9 @@ Lic. Joaquín Cruz Ramírez.
 EL PROCURADOR GRAL. DE JUSTICIA,
 
 Lic. Miguel Romo Medina.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE JULIO DE 1990.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
