@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "1982-06-23"
+last_updated: "1983-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1983.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -4221,6 +4221,8 @@ REGLAS COMUNES DEL DEUDOR.
 
 REGLAS GENERALES.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1983)</small>
+
 ###### Artículo 733.
 
 La demanda sobre desocupación de inmueble debe fundarse en la falta de pago de una o mas mensualidades, excepto en los casos de los artículos 1o. y 9o. del Decreto número 36 de fecha 5 de junio de mil novecientos setenta y dos, donde se estará a sus términos. Se acompañará el contrato escrito de arrendamiento, cuando ello fuere necesario para la validez del acto conforme al Código Civil. En caso de no ser necesario el contrato escrito o de haberse cumplido voluntariamente por ambos contratantes, sin la formalización del documento, el contrato se justificará por medio de información testimonial, prueba documental o cualquier otra bastante, como medio preparatorio de juicio.
@@ -4525,17 +4527,21 @@ DE LA TRANSMISION HEREDITARIA DEL PATRIMONIO FAMILIAR.
 
 ###### Artículo 779.
 
-Cuando el valor de los bienes hereditarios no exceda de cinco mil pesos, conocerán del juicio de sucesión los alcaldes judiciales y de los demás juicios conocerán los jueces de letras.
+Cuando el valor de los bienes hereditarios no exceda de la suma que establece el artículo 743 del Código de Procedimientos Civiles, conocerán del Juicio de Sucesión los Alcaldes Judiciales y de los demás juicios conocerán los Jueces de lo Civil o Mixtos, según corresponda.
 
 ###### Artículo 780.
 
 El Registrador Público de la Propiedad de la ubicación de los bienes dentro del territorio del Estado o un Notario Público del Municipio respectivo conocerá del caso de la transmisión hereditaria administrativa.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 1983)</small>
+
 ###### Artículo 781.
 
 Son requisitos fundamentales para la procedencia de este Juicio Hereditario Administrativo los siguientes:
 
-I.- Que el valor de los bienes que dejó a su muerte el autor de la herencia no excedan de la cantidad de diez mil pesos: y
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 1983)</small>
+
+I.- Que el valor de los bienes que deje a su muerte el autor de la herencia no excedan de la suma equivalente al doble del salario mínimo general elevado al año, de la zona económica donde se encuentren dichos bienes, y
 
 II.- Que los herederos sean mayores de edad y no haya controversia o disputa, pues tan pronto como se conozca cesará la jurisdicción administrativa para que los interesados ocurran ante la Autoridad Judicial correspondiente.
 
@@ -5239,6 +5245,8 @@ De la resolución que niegue la declaración solicitada puede apelar el promoven
 
 DE LAS INFORMACIONES AD-PERPETUAM.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1983)</small>
+
 ###### Artículo 897.
 
 Luego que el tribunal reciba por conducto del Secretario de Guerra, el parte a que se refiere el artículo 1478 del Código Civil, citará a los testigos que estuvieren en el lugar, y respecto a los ausentes, mandará exhorto al tribunal del lugar donde se hallen.
@@ -5547,33 +5555,57 @@ La impugnación de la adopción y su revocación, en los casos de los artículos
 
 ###### Artículo 939.
 
-La información ad-perpetuam podrá decretarse cuando no tenga interés más que el promovente y se trate:
+La información Ad-perpetuam podrá decretarse cuando no tenga interés más que el promovente y se trate:
 
-I.- De justificar algún hecho o acreditar un derecho.
+I.- De justificar algún hecho o acreditar un derecho;
 
-II.- Cuando se pretenda justificar la posesión como medio para acreditar el dominio pleno de un inmueble, y
+II.- Cuando se pretenda justificar la posesión como medio para acreditar el dominio pleno de un inmueble; y,
 
 III.- Cuando se trate de comprobar la posesión de un derecho real.
 
-En los casos de las dos primeras fracciones, la información se recibirá con citación del Ministerio Público y en el de la tercera, con la del propietario o de los demás partícipes del derecho real.
+En todos los casos, la información se recibirá con citación del Ministerio Público, quien podrá repreguntar a los testigos y tacharlos por circunstancias que afecten su credibilidad.
 
-El Ministerio Público y las personas con cuya citación se reciba la información, pueden tachar a los testigos por circunstancias que afecten su credibilidad.
+En los casos previstos por las fracciones II y III, la información se recibirá cumpliendo con lo dispuesto en el Código Civil y lo establecido en éste, y se citará, además, en su caso, a los propietarios o demás partícipes del derecho real, pudiendo dichos intervinientes, tachar también a los testigos por circunstancias que afecten su credibilidad.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1983)</small>
 
 ###### Artículo 940.
 
-El juez está obligado a ampliar el examen de los testigos con las preguntas que estime pertinente para asegurarse de la veracidad de su dicho.
+Para dar trámite a la información Ad-perpetuam en el supuesto previsto en la fracción II del artículo anterior, será necesario cumplir con lo siguiente:
+
+I.- Acompañar plano, en el que se señale la superficie del inmueble sobre el cual se pretenda demostrar la posesión, precisando su dimensión, colindancias, nombres de colindantes y todos los datos que faciliten su localización y ubicación;
+
+II.- Informe del Registro Público de la Propiedad del Estado, sobre si existen datos relativos a dicho inmueble;
+
+III.- Certificado de la Secretaría de Finanzas y Tesorería General del Estado, por conducto de su oficina competente, donde se especifique si existen antecedentes catastrales del inmueble en cuestión, precisando en su caso, desde cuando obran en poder de dicha dependencia y la naturaleza de su origen; indicando además, si el promovente tiene manifestado el respectivo inmueble, si ha venido pagando el Impuesto Predial y en su caso, la fecha en que lo haya dado de alta;
+
+IV.- Certificado de la Dirección de Patrimonio Estatal sobre si el inmueble objeto de la información, es o no propiedad del Estado. En su caso, el informe negativo es solo una presunción de que el Estado no es propietario.
+
+V.- Certificado de la Presidencia Municipal del lugar de ubicación del bien inmueble objeto de la información, donde se determine, si éste pertenece, al Municipio informante, en su caso el informe negativo es solo una presunción de que el Municipio no es propietario.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1983)</small>
 
 ###### Artículo 941.
 
-Si los testigos no fueren conocidos del juez o del secretario, la parte deberá presentar dos que abonen a cada uno de los presentados.
+Si fueron cubiertos los requisitos señalados en el artículo que precede, antes de recibirse la información, se mandará publicar por el juez a costa del interesado y por una sola vez, la solicitud relativa en el Periódico Oficial del Estado y en otro de los de mayor circulación del lugar donde estén ubicados los bienes, y de no existir éste último, se fijarán avisos en tres lugares públicos del Municipio en el que esté ubicado el Juzgado ante quien se promueve, y en la Presidencia Municipal del lugar de ubicación del bien, en caso de estar situado en uno diverso al del Juzgado; debiéndose dejar constancia de este requisito en el expediente respectivo, precisándose la ubicación exacta de los lugares en que se fijó el aviso.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1983)</small>
 
 ###### Artículo 942.
 
-Las informaciones se protocolizarán en el protocolo del Notario que designe el promovente, quien dará al interesado el testimonio respectivo para su inscripción en el Registro Público de la Propiedad.
+El Juez estará obligado a ampliar el examen de los testigos con las preguntas que estime pertinente para asegurarse de la veracidad de su dicho. Si los testigos no fueren conocidos del Juez o del Secretario, deberán identificarse, ya sea con documentos oficiales, o por medio de dos testigos que abonen a cada uno de los presentados.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 1983)</small>
 
 ###### Artículo 943.
 
-En ningún caso se admitirá en jurisdicción voluntaria, informaciones de testigos sobre hechos que fueren materia de un juicio comenzado.
+Las informaciones se protocalizarán ante el Notario que designe el promovente, quien dará al interesado el testimonio respectivo para su inscripción en el Registro Público de la Propiedad.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1983)</small>
+
+###### Artículo 943 Bis.
+
+En ningún caso se admitirá en jurisdicción voluntaria, la información de testigos sobre hechos que fueren materia de un juicio ya iniciado.
 
 ###### Artículo 944.
 
@@ -6046,5 +6078,17 @@ P.O. 1º. DE ENERO DE 1982.
 - Para los efectos del Artículo 957 con que se adiciona el Libro Quinto del Código de Procedimientos Civiles, todos aquellos negocios a que se refiere dicho precepto y que actualmente se encuentran tramitándose en Primera Instancia sin que se haya dictado la sentencia, deberán remitirse a la Sala de lo Familiar una vez que se haya concluído el período probatorio respectivo, a fin de que ésta pronuncie la resolución que corresponda.
 
 P.O. 23 DE JUNIO DE 1982.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE ENERO DE 1983.
+
+DECRETO NUM. 42, QUE REFORMA LOS ARTICULOS 779 Y 781 DEL CODIGO DE PROCEDIMIENTOS CIVILES VIGENTE EN EL ESTADO.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE ENERO DE 1983.
+
+DECRETO NUM. 49, QUE REFORMA A LOS ARTICULOS 939, 940, 941, 942 Y 943 DEL CODIGO DE PROCEDIEMIENTOS CIVILES VIGENTE EN EL ESTADO Y SE ADICIONA EL ARTICULO 943-BIS.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
