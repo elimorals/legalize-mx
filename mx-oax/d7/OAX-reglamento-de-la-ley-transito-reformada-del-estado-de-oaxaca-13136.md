@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-de-la-ley-transito-reformada-del-estado-de-oaxaca-13
 country: "mx"
 rank: "reglamento"
 publication_date: "1973-03-31"
-last_updated: "1977-01-15"
+last_updated: "1998-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13136&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO DE LA LEY DE TRÁNSITO REFORMADA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 1977.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 1998.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el sábado 31 de marzo de 1973.
 
@@ -1083,6 +1083,10 @@ Cuando la infracción se cometa por segunda vez, la licencia se suspenderá dura
 
 Las sanciones que se señalan en este Artículo, son independientes de las demás infracciones o delitos que se cometan en estado de embriaguez, o bajo la influencia de estupefacientes.
 
+> <small>(ADICIONADO, P.O. 13 DE JUNIO DE 1998)</small>
+
+De igual manera se suspenderá la licencia para conducir vehículos en los mismos plazos y por los mismos términos, cuando el titular de la licencia incurra en la infracción consistente en manejar vehículos con los cuales realice el servicio público de pasajeros o de carga, sin que tenga permiso o concesión para prestarlo.
+
 ###### ARTICULO 142.
 
 Las licencias para manejar vehículos, se cancelarán:
@@ -1092,6 +1096,10 @@ I.- Cuando el titular incurra por tercera vez en la infracción consistente en m
 II.- Cuando se compruebe módicamente que el titular ha dejado de tener la aptitud física y mental necesaria para el manejo de vehículos, sin peligro para el mismo o para otras personas.
 
 III.- Cuando lo determine una sentencia judicial ejecutoriada.
+
+> <small>(ADICIONADA, P.O. 13 DE JUNIO DE 1998)</small>
+
+IV.- Cuando el titular de la licencia incurra por tercera vez en un año, en la infracción consistente en manejar vehículos con los cuales realice servicio público de pasajeros o de carga, sin que tenga permiso o concesión para prestarlo.
 
 ###### ARTICULO 143.
 
@@ -1532,3 +1540,7 @@ LIC. AGUSTIN MARQUEZ URIBE.-Rúbrica.
 P.O. 15 DE ENERO DE 1977.
 
 ARTICULO UNICO, Este decreto entrará en vigor a partir de su publicación en el Periódico Oficial.
+
+P.O. 13 DE JUNIO DE 1998.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
