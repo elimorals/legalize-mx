@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "1983-11-22"
+last_updated: "1985-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 1985.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -57,7 +57,7 @@ A ninguna ley ni disposición gubernativa se dará efecto retroactivo en perjuic
 
 ###### Art. 5.
 
-La voluntad de los particulares no puede eximir de la observancia de la ley, ni alterarla o modificarla. Sólo pueden renunciarse los derechos privados que no afecten al interés público, cuando la renuncia no perjudique derechos de tercero.
+La voluntad de los particulares no puede eximir de la observancia de la ley, ni alterarla o modificarla. Solo pueden renunciarse los derechos privados que no afecten al interés público, cuando la renuncia no perjudique derechos de tercero.
 
 ###### Art. 6.
 
@@ -707,7 +707,7 @@ El Oficial del Registro Civil que tenga conocimiento de que los pretendientes ti
 
 ###### Art. 109.
 
-Las denuncias de impedimento pueden hacerse por cualquier persona. Las que sean falsas sujetan al denunciante a las penas establecidas para el falso testimonio en materia civil. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios.
+Las denuncias de impedimento pueden hacerse por cualquier persona. Las que sean falsas sujetan al denunciante a las penas establecidas por el falso testimonio en materia civil. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios.
 
 ###### Art. 110.
 
@@ -1565,7 +1565,7 @@ Si al hacerse la donación no se formó inventario de los bienes del donador, no
 
 ###### Art. 283.
 
-Las donaciones antenupciales no necesitan para su validez de aceptación expresa ni se revocan por sobrevenir hijos al donante.
+Las donaciones antenupciales no necesitan para su validez de aceptación expresa ni se revocan por sobrevivir hijos al donante.
 
 ###### Art. 284.
 
@@ -1643,7 +1643,7 @@ La nulidad por falta de consentimiento del tutor o de las autoridades a que se r
 
 ###### Art. 297.
 
-Aunque el parentesco de consanguinidad no dispensado anula el matrimonio, si después de conocida la causa de nulidad se obtuviere dispensa y ambos cónyuges quisieren espontáneamente reiterar su consentimiento por medio de un acta ante el Oficial del Registro Civil, quedará revalidado el matrimonio y surtirá todos sus efectos legales desde el día en que primeramente se contrajo.
+Aunque el parentesco de consanguinidad no dispensado anula el matrimonio, si después de conocida la causa de nulidad se obtuviere dispensa y ambos cónyuges quisieren espontáneamente reiterar su consentimiento por medio de un acta ante el Oficial del Registro Civil, quedará revalidado el matrimonio y surtirá todos los efectos legales desde el día en que primeramente se contrajo.
 
 ###### Art. 298.
 
@@ -1707,7 +1707,7 @@ Los cónyuges no pueden celebrar transacción ni compromiso en árbitros, acerca
 
 ###### Art. 311.
 
-El matrimonio contraído de buena fe aunque sea declarado nulo, produce todos sus efectos civiles en favor de los cónyuges mientras dure; y en todo tiempo en favor de los hijos nacidos antes de la celebración del matrimonio, durante él y trescientos días después de la declaración de nulidad, si no se hubiesen separado los cónyuges, o desde su separación, en caso contrario.
+El matrimonio contraído de buena fe aunque sea declarado nulo, produce todos sus efectos civiles en favor de los cónyuges mientras dure; y en todo tiempo en favor de los hijos nacidos antes de la celebración del matrimonio, durante él y trescientos días después de la declaración de nulidad, si no se hubiesen separado los cónyuges o desde su separación, en caso contrario.
 
 ###### Art. 312.
 
@@ -1721,7 +1721,7 @@ La buena fe se presume; para destruir esta presunción se requiere prueba plena.
 
 ###### Art. 314.
 
-Si la demanda de nulidad fuera entablada por uno solo de los cónyuges, desde luego se dictarán las medidas provisionales que establece el artículo 336.
+Si la demanda de nulidad fuera entablada por uno sólo de los cónyuges, desde luego se dictarán las medidas provisionales que establece el artículo 336.
 
 ###### Art. 315.
 
@@ -1783,7 +1783,7 @@ IV. La incitación o la violencia hecha por un cónyuge al otro para cometer alg
 
 V. Los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, así como la tolerancia en su corrupción;
 
-VI. Padecer cualquier enfermedad crónica o incurable que sea además contagiosa o que científicamente haga prever algún perjuicio grave o degeneración para los descendientes de ese matrimonio o padecer impotencia incurable, siempre que no se esté en alguna de las excepciones señaladas por la fracción VIII del artículo 153. No es causa de divorcio la impotencia en uno solo de los cónyuges si sobrevino al matrimonio y como consecuencia natural de la edad;
+VI. Padecer cualquier enfermedad crónica o incurable que sea además contagiosa o que científicamente haga prever algún perjuicio grave o degeneración para los descendientes de ese matrimonio o padecer impotencia incurable, siempre que no se esté en alguna de las excepciones señaladas por la fracción VIII del artículo 153. No es causa de divorcio la impotencia en uno sólo de los cónyuges si sobrevino al matrimonio y como consecuencia natural de la edad;
 
 VII. Padecer enajenación mental incurable;
 
@@ -1955,7 +1955,7 @@ La línea es recta o transversal. La recta se compone de la serie de grados entr
 
 ###### Art. 352.
 
-La línea recta es ascendente o descendente; ascendente es la que liga a una persona con su progenitor o tronco de que procede; descendente es la que liga al progenitor con los que de él proceden. La misma línea es, pues, ascendente o descendente, según el punto de partida y la relación a que se atiende.
+La línea recta es ascendente o descendente; ascendente es la que liga a una persona con su progenitor o tronco de que procede; descendente es la que liga al progenitor con los que de él proceden. La misma línea es, pues, ascendente o descendente, según el punto de partida y la relación a que se atiende
 
 ###### Art. 353.
 
@@ -1973,7 +1973,7 @@ La obligación de dar alimentos es recíproca: el que los da, tiene a su vez el 
 
 ###### Art. 356.
 
-Los cónyuges deben darse alimentos. La ley determinará cuándo queda subsistente esta obligación en los casos de divorcio y en los otros que la misma ley señale.
+Los cónyuges deben darse alimentos. La ley determinará cuando queda subsistente esta obligación en los casos de divorcio y en los otros que la misma ley señale.
 
 ###### Art. 357.
 
@@ -2187,7 +2187,7 @@ La filiación de los hijos nacidos de matrimonio se prueba con la partida de nac
 
 A falta de actas o si éstas fueren defectuosas, incompletas o falsas, se probará con la posesión constante de estado de hijo nacido de matrimonio. En defecto de esta posesión son admisibles para demostrar la filiación todos los medios de prueba que la ley autoriza, pero la testimonial no es admisible si no hubiere un principio de prueba por escrito o indicios o presunciones resultantes de hechos ciertos que se consideren bastante graves para determinar su admisión.
 
-Si uno solo de los registros faltare o estuviere inutilizado y existe duplicado, de éste deberá tomarse la prueba sin admitirla de otra clase.
+Si uno sólo de los registros faltare o estuviere inutilizado y existe duplicado, de éste deberá tomarse la prueba sin admitirla de otra clase.
 
 ###### Art. 398.
 
@@ -2265,7 +2265,7 @@ Para que el hijo goce del derecho que le concede el artículo que precede, los p
 
 ###### Art. 412.
 
-Si el hijo fue reconocido por el padre y en su acta de nacimiento consta el nombre de la madre, no se necesita reconocimiento expreso de ésta para que la legitimación surta sus efectos legales. Tampoco se necesita reconocimiento del padre, si ya se expresó el nombre de éste en el acta de nacimiento.
+Si el hijo fue reconocido por el padre y en su acta de nacimiento consta el nombre de la madre, no se necesita reconocimiento expreso de ésta para que la legitimación surta sus efectos legales. Tampoco se necesita reconocimiento del padre, si ya se expresó el nombre de éste en el acta de Nacimiento.
 
 ###### Art. 413.
 
@@ -2283,7 +2283,7 @@ Pueden gozar también de ese derecho los hijos no nacidos, si el padre al casars
 
 ###### Art. 416.
 
-La filiación de los hijos nacidos fuera de matrimonio resulta, con relación a la madre del solo hecho del nacimiento. Respecto del padre, sólo se establece por el reconocimiento voluntario, porque así lo presume la ley o por la sentencia que declare la paternidad.
+La filiación de los hijos nacidos fuera de matrimonio resulta, con relación a la madre del sólo hecho del nacimiento. Respecto del padre, sólo se establece por el reconocimiento voluntario, porque así lo presume la ley o por la sentencia que declare la paternidad.
 
 ###### Art. 417.
 
@@ -2371,7 +2371,7 @@ El término para deducir esta acción será de cuatro años, que comenzará a co
 
 ###### Art. 434.
 
-La mujer que cuida o ha cuidado de la lactancia de un niño, a quien le ha dado su nombre o permitido que lo lleve; que públicamente lo ha presentado como hijo suyo y ha proveído a su educación y subsistencia, podrá contradecir el reconocimiento que un hombre haya hecho o pretenda hacer de ese niño. En este caso no se le podrá separar de su lado, a menos que consienta en entregarlo o que fuere obligada a hacer la entrega por sentencia ejecutoriada.
+La mujer que cuida o ha cuidado de la lactancia de un niño, a quien le ha dado su nombre o permitido que lo lleve; que públicamente lo ha presentado como hijo suyo y ha proveído a su educación Y subsistencia, podrá contradecir el reconocimiento que un hombre haya hecho o pretenda hacer de ese niño. En este caso no se le podrá separar de su lado, a menos que consienta en entregarlo o que fuere obligada a hacer la entrega por sentencia ejecutoriada.
 
 El término para contradecir el reconocimiento será el de sesenta días, contados desde que tuvo conocimiento de él.
 
@@ -2421,7 +2421,7 @@ No obstante lo dispuesto en la parte final del artículo anterior, el hijo podr�
 
 ###### Art. 443.
 
-El hecho de dar alimentos no constituye por sí solo prueba, ni aun presunción, de paternidad o maternidad. Tampoco puede alegarse como razón para investigar éstas.
+El hecho de dar alimentos no constituye por sí sólo prueba, ni aun presunción de paternidad o maternidad. Tampoco puede alegarse como razón para investigar éstas.
 
 ###### Art. 444.
 
@@ -2829,7 +2829,7 @@ No pueden ser tutores o curadores dativos los que desempeñen el cargo de Juez d
 
 ###### Art. 514.
 
-Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien debe nombrarse tutor, su ejecutor testamentario, y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez de Primera Instancia, competente en materia civil, del domicilio del incapacitado, dentro de los ocho días, a fin de que se provea a la tutela, bajo la pena de veinte a quinientos pesos de multa.
+Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien debe nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez de Primera Instancia, competente en materia civil, del domicilio del incapacitado, dentro de los ocho días, a fin de que se provea a la tutela, bajo la pena de veinte a quinientos pesos de multa.
 
 Los Oficiales del Registro Civil, las autoridades administrativas y las judiciales en su caso, tienen la obligación de dar aviso a los Jueces de Primera Instancia competentes en materia civil, de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
 
@@ -2877,7 +2877,7 @@ que deben ser separadas de ella
 
 ###### Art. 524.
 
-El ascendiente que sobreviva, de los dos que en cada grado deban ejercer la patria potestad conforme a lo dispuesto en el artículo 468, tiene derecho, aunque fuere menor, de nombrar tutor en su testamento a aquellos sobre quienes la ejerza con inclusión del hijo póstumo.
+El ascendiente que sobreviva, de los dos que en cada grado deban ejercer la patria potestad conforme a lo dispuesto en el artículo 468, tiene derecho, aunque fuere menor, de nombrar tutor en su testamento a aquellos sobre quienes la ejerzan con inclusión del hijo póstumo.
 
 ###### Art. 525.
 
@@ -2941,7 +2941,7 @@ La tutela legítima corresponde:
 
 I. A los hermanos, prefiriéndose a los que lo sean por ambas líneas;
 
-II. Por falta o incapacidad de los hermanos, a los demás colaterales dentro del cuarto grado inclusive.
+II. Por falta o incapacidad de los hermanos, a los de más colaterales dentro del cuarto grado inclusive.
 
 ###### Art. 538.
 
@@ -2975,7 +2975,7 @@ A falta de tutor testamentario y de persona que con arreglo a los artículos ant
 
 ###### Art. 545.
 
-El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
+El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquél derecho.
 
 ### Capítulo X. Del desempeño de la tutela
 
@@ -3023,7 +3023,7 @@ Siempre será dativa la tutela para asuntos judiciales del menor de edad emancip
 
 ###### Art. 554.
 
-A los menores de edad que no estén sujetos a patria potestad ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en ese caso tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a instancia del Ministerio Público, del mismo menor, de la autoridad política del domicilio del menor y aún de oficio por el Juez de Primera Instancia de lo Civil del domicilio de dicho menor.
+A los menores de edad que no estén sujetos a patria potestad ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en ese caso tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a instancia del Ministerio Público, del mismo menor, de la autoridad política del domicilio del menor y aun de oficio por el Juez de Primera Instancia de lo Civil del domicilio de dicho menor.
 
 ###### Art. 555.
 
@@ -3153,7 +3153,7 @@ Mientras que se califica el impedimento o la excusa, el Juez nombrará un tutor 
 
 ###### Art. 570.
 
-El tutor testamentario que se excuse de ejercer la tutela, perderá todo derecho a lo que le hubiere dejado el testador por este concepto.
+El autor testamentario que se excuse de ejercer la tutela, perderá todo derecho a lo que le hubiere dejado el testador por este concepto.
 
 ###### Art. 571.
 
@@ -3189,7 +3189,7 @@ IV. Los que acojan a un expósito, lo alimenten y eduquen convenientemente por m
 
 ###### Art. 575.
 
-Los comprendidos en la fracción I del artículo anterior, sólo estarán obligados a dar garantía cuando con posterioridad a su nombramiento haya sobrevenido causa ignorada por el testador que, a juicio del Juez y previa audiencia del curador y Ministerio Público, haga necesaria aquélla.
+Los comprendidos en la fracción I del artículo anterior, sólo estarán obligados a dar garantía cuando con posterioridad a su nombramiento haya sobrevenido causa ignorada por el testador que, a juicio del Juez y previa audiencia del curador y Ministerio Público, haga necesaria aquella.
 
 ###### Art. 576.
 
@@ -3259,7 +3259,7 @@ Cuando el tutor tenga que administrar bienes, no podrá entrar a la administraci
 
 ###### Art. 590.
 
-El tutor que entre a la administración de los bienes sin que se haya nombrado curador, será responsable de los daños y perjuicios que cause al incapacitado y, además, separado de la tutela; mas ningún extraño puede rehusarse a tratar con él judicial o extrajudicialmente alegando la falta del curador.
+El tutor que entre a la administración de los bienes sin que se haya nombrado curador, será responsable de los daños y perjuicios que cause al incapacitado y, además, separado de la tutela; más ningún extraño puede rehusarse a tratar con el judicial o extrajudicialmente alegando la falta del curador.
 
 ###### Art. 591.
 
@@ -3375,7 +3375,7 @@ El tutor que no haga las inversiones dentro de los plazos señalados en los dos 
 
 ###### Art. 614.
 
-Mientras se hacen las inversiones a que se refieren los artículos 611 y 612, el tutor depositará las cantidades que perciba en Institución de Crédito o en establecimiento público destinado al efecto.
+Mientras se hacen las inversiones a que se refieren los artículos 611 y 612, el tutor depositara las cantidades que perciba en Institución de Crédito o en establecimiento público destinado al efecto.
 
 ###### Art. 615.
 
@@ -3413,7 +3413,7 @@ Para que el tutor transija, cuando el objeto de la reclamación consista en bien
 
 ###### Art. 623.
 
-Ni con licencia judicial, ni en almoneda o fuera de ella, puede el tutor comprar o arrendar los bienes del incapacitado, ni hacer contrato alguno respecto de ellos, para sí, sus ascendientes, su mujer, descendientes, sin limitación de grado ni colaterales por consanguinidad dentro del cuarto grado o afinidad dentro del segundo grado. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
+Ni con licencia judicial, ni en almoneda o fuera de ella, puede el tutor comprar o arrendar los bienes del incapacitado, ni hacer contrato alguno respecto de ellos, para sí, sus ascendientes, su mujer, descendientes, sin limitación de grado ni colaterales por consanguinidad dentro del cuando grado o afinidad dentro del segundo grado. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
 
 ###### Art. 624.
 
@@ -4245,11 +4245,11 @@ Las anotaciones e inscripciones que hagan las oficinas del Registro Público con
 
 ###### Art. 791.
 
-Pueden ser objeto de apropiación todas las cosas que no estén excluidas del comercio.
+Pueden ser objeto de apropiación todas las cosas que no estén excluidas del comercio
 
 ###### Art. 792.
 
-Están fuera del comercio, por su naturaleza, las cosas que no pueden ser poseídas por algún individuo exclusivamente, y por disposición de la ley las que ella declare irreductibles a propiedad particular.
+Están fuera del comercio, por su naturaleza, las cosas que no pueden ser poseídas por algún individuo exclusivamente, y por disposición de la ley las que ella declare irreductibles a propiedad particular
 
 ## Título Segundo. Clasificación de los bienes
 
@@ -4371,11 +4371,11 @@ Los que estorben el aprovechamiento de los bienes de uso común, quedan sujetos 
 
 ###### Art. 812.
 
-Cuando conforme a la ley pueda enajenarse y se enajene una vía pública, los propietarios de los predios colindantes gozarán del derecho del tanto en la parte que les corresponda, a cuyo efecto se les dará aviso de la enajenación. El derecho que este artículo concede deberá ejercitarse precisamente dentro de los quince días siguientes al aviso. Cuando éste no se haya dado, los colindantes podrán ejercitar el derecho de retracto en virtud del cual se subrogarán, con las mismas condiciones estipuladas en el contrato, en lugar del que había adquirido dicha parte, reembolsándole la cantidad que hubiere pagado y los gastos legales originados por la transmisión. El tiempo para ejercer el retracto será de treinta días contados a partir de la fecha en que haya tenido conocimiento de la enajenación.
+Cuando conforme a la ley pueda enajenarse y se enajene una vía pública, los propietarios de los predios colindantes gozarán del derecho del tanto en la parte que les corresponda, a cuyo efecto se les dará aviso de la enajenación. El derecho que este artículo concede deberá ejercitarse precisamente dentro de los quince días siguientes al aviso. Cuando éste no se haya dado, los colindantes podrán ejercitar el derecho de retracto en virtud del cual se subrogarán, con las mismas condiciones estipuladas en el contrato, en lugar del que había adquirido dicha parte, reembolsándole la cantidad que hubiere pagado y los gastos legales originados por la transmisión. El tiempo para ejercer el retracto será de treinta días contados a partir de la fecha en que se haya tenido conocimiento de la enajenación.
 
 ###### Art. 813.
 
-Son bienes de propiedad de los particulares todas las cosas cuyo dominio les pertenece legalmente, y de las que no puede aprovecharse ninguno sin consentimiento del dueño o autorización de la ley.
+Son bienes de propiedad de los particulares todas las cosas cuyo dominio les pertenece legalmente, y de las que no puede aprovecharse ninguno sin consentimiento del dueño o autorización de la ley
 
 ### Capítulo IV. De la apropiación de los animales
 
@@ -4443,7 +4443,7 @@ El que se aproveche de un bien vacante sin cumplir con lo previsto en este capí
 
 ###### Art. 828.
 
-El propietario de una cosa puede gozar y disponer de ella con las limitaciones y modalidades que fijen las leyes.
+El propietario de una cosa puede gozar y disponer de ella con las limitaciones y modalidades que fijen las leyes
 
 ###### Art. 829.
 
@@ -4511,7 +4511,7 @@ No se pueden tener ventanas ni balcones u otros voladizos semejantes, sobre la p
 
 ###### Art. 844.
 
-La distancia de que habla el artículo anterior se mide desde la línea de separación de las dos propiedades.
+La distancia de que habla el artículo anterior se mide desde la línea de separación de las dos propiedades
 
 ###### Art. 845.
 
@@ -4553,7 +4553,7 @@ Se considera capturado el animal que ha sido muerto por el cazador durante el ac
 
 ###### Art. 854.
 
-Si la pieza herida muriere en terrenos ajenos, el propietario de éstos, o quien lo represente, deberá entregarla al cazador o permitir que entre a buscarla.
+Si la pieza herida muriere en terrenos ajenos, el propietario de éstos, o quien lo represente, deberá entregarla al cazador o permitir que entre a buscarla
 
 ###### Art. 855.
 
@@ -4565,7 +4565,7 @@ El hecho de entrar los perros de caza en terreno ajeno sin la voluntad del cazad
 
 ###### Art. 857.
 
-La acción para pedir reparación prescribe a los treinta días, contados desde la fecha en que se causó el daño.
+La acción para pedir reparación prescribe a los treinta días, contados desde la fecha en que se causo el daño.
 
 ###### Art. 858.
 
@@ -4743,7 +4743,7 @@ El dueño de las semillas, plantas o materiales nunca tendrá derecho a pedir qu
 
 ###### Art. 897.
 
-Cuando las semillas o los materiales no estén aún aplicados en su objeto, ni confundidos con otros, pueden reivindicarse por el dueño.
+Cuando las semillas o los materiales no estén aun aplicados en su objeto, ni confundidos con otros, pueden reivindicarse por el dueño.
 
 ###### Art. 898.
 
@@ -4751,7 +4751,7 @@ El dueño del terreno en que se edifique, siembre o plante de buena fe, tendrá 
 
 ###### Art. 899.
 
-El que edifica, planta o siembra de mala fe en terreno ajeno, pierde lo edificado, plantado o sembrado, sin que tenga derecho a reclamar indemnización alguna del dueño del suelo ni de retener la cosa.
+El que edifica, planta o siembra de mala fe en terreno ajeno, pierde lo edificado, plantado o sembrado, sin que tenga derecho a reclamar indemnización alguna al dueño del suelo ni de retener la cosa.
 
 ###### Art. 900.
 
@@ -4759,7 +4759,7 @@ El dueño del terreno en que se haya edificado con mala fe podrá pedir la demol
 
 ###### Art. 901.
 
-Cuando haya mala fe, no sólo por parte del que edificare, sino por parte del dueño, se entenderá compensada esta circunstancia y se arreglarán los derechos de uno y otro conforme a lo resuelto para el caso de haberse procedido de buena fe.
+Cuando haya mala fe, no sólo por parte del que edificare, sino por parte del dueño, se entenderá compensada esa circunstancia y se arreglarán los derechos de uno y otro conforme a lo resuelto para el caso de haberse procedido de buena fe.
 
 ###### Art. 902.
 
@@ -4793,7 +4793,7 @@ Los dueños de las heredades confinantes con las lagunas o estanques no adquiere
 
 ###### Art. 908.
 
-Cuando la fuerza del río arranca una porción considerable y reconocible de un campo ribereño y la lleva a otro inferior o a la ribera opuesta, el propietario de la porción arrancada puede reclamar su propiedad, haciéndolo dentro de dos años, contados desde el acaecimiento; pasado este plazo, perderá su derecho de propiedad, a menos que el propietario del campo a que se unió la porción arrancada no haya aún tomado posesión de ella.
+Cuando la fuerza del río arranca una porción considerable y reconocible de un campo ribereño y la lleva a otro inferior o a la ribera opuesta, el propietario de la porción arrancada puede reclamar su propiedad, haciéndolo dentro de dos años, contados desde el acaecimiento; pasado este plazo, perderá su derecho de propiedad, a menos que el propietario del campo a que se unió la porción arrancada no haya aun tomado posesión de ella.
 
 ###### Art. 909.
 
@@ -4835,7 +4835,7 @@ Cuando las cosas unidas no puedan separarse sin que la que se reputa accesoria s
 
 ###### Art. 918.
 
-Cuando el dueño de la cosa accesoria es el que ha hecho la incorporación, la pierde si ha obrado de mala fe, y está, además, obligado a indemnizar al propietario de los perjuicios que se hayan seguido a causa de la incorporación.
+Cuando el dueño de la cosa accesoria es el que ha hecho la incorporación, la pierde si ha obrado de mala fe, y ésta, además, obligado a indemnizar al propietario de los perjuicios que se hayan seguido a causa de la incorporación.
 
 ###### Art. 919.
 
@@ -4893,7 +4893,7 @@ La mala fe en los casos de especificación se calificará conforme a lo que disp
 
 ###### Art. 930.
 
-Hay copropiedad cuando una cosa o un derecho pertenecen pro indiviso a varias personas.
+Hay copropiedad cuando una cosa o un derecho pertenecen por indiviso a varias personas.
 
 ###### Art. 931.
 
@@ -4941,7 +4941,7 @@ Cuando parte del bien perteneciere exclusivamente a un copropietario o a algunos
 
 ###### Art. 942.
 
-Todo condueño es propietario de la parte alícuota del bien o bienes de que se trate; puede enajenarla, cederla o hipotecarla, salvo el derecho del tanto y en su caso de retracto de los demás copartícipes; y puede aún substituir a otra persona en su aprovechamiento, excepto si se tratare del uso, habitación o de algún otro derecho personal, pero sólo la partición legalmente hecha confiere a cada comunero la propiedad o titularidad exclusiva de los bienes que se les hayan adjudicado en la división.
+Todo condueño es propietario de la parte alícuota del bien o bienes de que se trate; puede enajenarla, cederla o hipotecarla, salvo el derecho del tanto y en su caso de retracto de los demás copartícipes; y puede aun substituir a otra persona en su aprovechamiento, excepto si se tratare del uso, habitación o de algún otro derecho personal, pero sólo la partición legalmente hecha confiere a cada comunero la propiedad o titularidad exclusiva de los bienes que se les hayan adjudicado en la división.
 
 ###### Art. 943.
 
@@ -4953,7 +4953,7 @@ El derecho del tanto se pierde por el solo transcurso de los quince días, si no
 
 ###### Art. 944.
 
-Cuando se consume la enajenación de la parte alícuota de un condueño, a persona extraña a la comunidad de bienes, sin que se haya hecho la notificación a que se refiere el artículo anterior, los demás copartícipes gozarán del derecho de retracto, en virtud del cual pueden subrogarse, con las mismas condiciones estipuladas en el contrato, en lugar del que había adquirido dicha parte, reembolsándole la cantidad que hubiere pagado y los gastos legales originados por la transmisión.
+Cuando se consume la enajenación de la parte alícuota de un condueño, a persona extraña a la comunidad de bienes, sin que se haya hecho la notificación a que se refiere el artículo anterior, los demás copartícipes gozarán del derecho de retracto, en virtud del cual pueden subrogarse, con las mismas condiciones estipuladas en el contrato, en lugar del que habla adquirido dicha parte, reembolsándole la cantidad que hubiere pagado y los gastos legales originados por la transmisión.
 
 El término para ejercer el retracto es de quince días contados a partir de la fecha en que el retrayente haya tenido conocimiento de la enajenación.
 
@@ -4967,7 +4967,7 @@ La copropiedad cesa por la división de la cosa común, por la destrucción o p�
 
 ###### Art. 947.
 
-La división de una cosa común no perjudica a tercero, el cual conserva los derechos reales que le pertenezcan antes de hacerse la partición, observándose, en su caso, lo dispuesto para hipotecas que graven fincas susceptibles de ser fraccionadas y lo prevenido para el adquirente de buena fe que inscriba su título en el Registro Público.
+La división de una cosa común no perjudica a tercero, el cual conserva los derechos reales que le pertenezcan antes de hacerse la partición, observándose, en su caso, lo dispuesto para hipotecas que graven fincas susceptibles de ser fraccionadas y lo prevenido para el adquirente de buena fe que inscriba su título en el Registro Público
 
 ###### Art. 948.
 
@@ -4981,7 +4981,7 @@ Son aplicables a la división entre participes las reglas concernientes a la div
 
 ###### Art. 950.
 
-Cuando haya constancia que demuestre quién fabricó la pared que divide los predios, el que la costeó es dueño exclusivo de ella; si consta que se fabricó por los colindantes, o no consta quién la fabricó, es de propiedad común.
+Cuando haya constancia que demuestre quién fabricó la pared que divide los predios, el que la costeó es dueño exclusivo de ella; si consta que se fabricó por los colindantes, o no consta quien la fabricó, es de propiedad común.
 
 ###### Art. 951.
 
@@ -5031,7 +5031,7 @@ La presunción que establece el artículo anterior cesa cuando la inclinación d
 
 ###### Art. 957.
 
-Los dueños de los predios están obligados a cuidar de que no se deteriore la pared, zanja o seto de propiedad común, y si por el hecho de algunos de sus dependientes o animales, o por cualquiera otra causa que dependa de ellos se deterioraren, debe reponerlos, pagando los daños y perjuicios que se hubieren causado.
+Los dueños de los predios están obligados a cuidar de que no se deteriore la pared, zanja o seto de propiedad común, y si por el hecho de algunos de sus dependientes o animales, o por cualquiera otra causa que dependa de ellos se deterioren, debe reponerlos, pagando los daños y perjuicios que se hubieren causado.
 
 ###### Art. 958.
 
@@ -5047,7 +5047,7 @@ El propietario de un edificio que se apoya en una pared común, puede al derriba
 
 ###### Art. 961.
 
-El propietario de una finca contigua a una pared divisoria que no sea común, sólo puede darle este carácter en todo o en parte, por contrato con el dueño de ella.
+El propietario de una finca contigua a una pared divisoria que no sea común, sólo puede darle este carácter en todo o en parte, por contrato con el dueño de ella
 
 ###### Art. 962.
 
@@ -5067,7 +5067,7 @@ En los casos señalados por los artículos 962 y 963, la pared continúa siendo 
 
 ###### Art. 966.
 
-Los demás propietarios que no hayan contribuido a dar más elevación o espesor a la pared podrán sin embargo, adquirir en la parte nuevamente elevada los derechos de copropiedad, pagando proporcionalmente el valor de la obra y la mitad del valor del terreno sobre que se hubiere dado mayor espesor.
+Los demás propietarios que no hayan contribuido a dar más elevación o espesor a la pared podrán sin embargo, adquirir en la parte nuevamente elevada los derechos de copropiedad, pagando proporcionalmente el valor de la obra y la mitad del valor del terreno sobre que se hubiere dado mayor espesor
 
 ###### Art. 967.
 
@@ -5667,11 +5667,11 @@ El poseedor de buena fe a que se refiere el artículo anterior no responde del d
 
 ###### Art. 1060.
 
-El que posee por menos de un año, a título traslativo de dominio y con mala fe, siempre que no ha ya obtenido la posesión por medio delictuoso, está obligado:
+El que posee por menos de un año, a título translativo de dominio y con mala fe, siempre que no ha ya obtenido la posesión por medio delictuoso, está obligado:
 
 I. A restituir los frutos percibidos;
 
-II. A responder de la pérdida o deterioro de la cosa sobrevenidos por su culpa o por caso fortuito o fuerza mayor, a no ser que pruebe que éstos se habrían causado aunque la cosa hubiese estado poseída por su dueño. No responde de la pérdida sobrevenida natural o inevitablemente por el sólo transcurso del tiempo.
+II. A responder de la pérdida o deterioro de la cosa sobrevenidos por su culpa o por caso fortuito o fuerza mayor, a no ser que pruebe que éstos se habrían causado aunque la cosa hubiese estado poseída por su dueño. No responde de la pérdida sobrevenida natural o inevitablemente por el solo transcurso del tiempo.
 
 Tiene derecho a que se le reembolsen los gastos necesarios.
 
@@ -12941,7 +12941,9 @@ El registro producirá sus efectos desde el día y la hora en que el documento s
 
 Una vez que se firme una escritura en que se adquiera, trasmita, modifique, o extinga la propiedad o posesión de bienes raíces o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el notario que la autorice dará al Registro un aviso en el que conste la finca de que se trate, la indicación de que se ha transmitido o modificado su dominio o se ha constituido, transmitido o modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, tomo y sección en que se estuviere inscrita la propiedad en el Registro. El registrador, con el aviso del notario y sin cobro de derecho alguno, hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad. Si dentro del mes siguiente a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efecto contra tercero desde la fecha de la anotación preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
 
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, deberán dar el aviso a que este artículo se refiere, el notario o la autoridad de que habla la fracción III del artículo 2507, y el mencionado aviso producirá los mismos avisos que el dado por el notario, a que se refiere la primera parte de este artículo.
+> <small>(REFORMADO, P.O. 19 DE JULIO DE 1985)</small>
+
+Igualmente podrá registrarse en forma preventiva el embargo sobre bienes inmuebles a petición del ejecutante, o su representante, mediante simple aviso por escrito que expida el Ministro Ejecutor en el momento de la diligencia judicial que contenga los nombres de las partes en el Juicio o providencia en que se hubiere despachado, el tribunal que despachó la ejecución, el número del expediente correspondiente, el monto del embargo, la naturaleza del juicio o providencia, la fecha del embargo y los datos registrales que permitan la identificación del inmueble. Este aviso preventivo quedará sin efecto si el ejecutante no presenta las copias certificadas del embargo dentro del término de los diez días siguientes de la presentación del aviso.
 
 ###### Art. 2517.
 
@@ -15576,3 +15578,9 @@ P.O. 22 DE NOVIEMBRE DE 1983.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor el día primero de diciembre del año de 1983.
+
+P.O. 19 DE JULIO DE 1985.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
