@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-de-los-discapacitados-y-ancianos-del-116
 country: "mx"
 rank: "ley"
 publication_date: "1997-05-24"
-last_updated: "1997-05-24"
+last_updated: "2004-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11642&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 LEY PARA LA PROTECCION DE LOS DISCAPACITADOS Y ANCIANOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA PROTECCION DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA, SE DEROGAN TODAS AQUELLAS DISPOSICIONES DE LA LEY PARA LA PROTECCION DE LOS DISCAPACITADOS Y ANCIANOS DEL ESTADO DE COLIMA, PUBLICADA EN EL PERIODICO OFICIAL DE FECHA 24 DE MAYO DE 1997, EN LO CONCERNIENTE A LA MATERIA QUE REGULA EL PRESENTE DECRETO, ASI COMO TODAS LAS DEMAS DISPOSICIONES QUE SE OPONGAN AL MISMO, PUBLICADO EN EL PERIODICO OFICIAL EL 11 DE SEPTIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 24 de mayo de 1997.
 
@@ -604,3 +606,25 @@ Dado en el Recinto Oficial del Poder Legislativo a los seis días del mes de may
 Por tanto mando se imprima, publique, circule y observe.
 
 Dado en Palacio de Gobierno, a los seis días del mes de mayo de mil novecientos noventa y siete.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. RAMON PEREZ DIAZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE SEPTIEMBRE DE 2004.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima"
+
+SEGUNDO.- Se derogan todas aquellas disposiciones de la Ley para la Protección de los Discapacitados y Ancianos del Estado de Colima, publicada en el Periódico Oficial de fecha 24 de mayo de 1997, en lo concerniente a la materia que regula el presente Decreto, así como todas las demás disposiciones que se opongan al mismo.
+
+TERCERO.- El Instituto para la Atención de los Adultos en Plenitud deberá estar constituido dentro del término de sesenta días hábiles a partir de la entrada en vigor de la presente Ley.
+
+CUARTO.- El Reglamento de esta Ley deberá ser expedido por el Ejecutivo del Estado dentro del término de sesenta días posteriores a la entrada en vigor de la presente Ley.
+
+QUINTO.- El Reglamento interior que se prevé en la presente Ley se deberá expedir por el Instituto dentro del término de treinta días naturales después de la creación del mismo, debiéndose publicar en el Periódico Oficial del Estado.
+
+SEXTO.- Los convenios de colaboración celebrados por el Sistema para el Desarrollo Integral de la Familia del Estado con las diversas dependencias gubernamentales, continuarán subsistentes al entrar en vigor la presente Ley, hasta en tanto el Instituto no suscriba los propios con las mismas dependencias.
+
+SÉPTIMO.- Las obligaciones presupuestarias que se consignan en la presente Ley, serán obligatorias a partir del Presupuesto de Egresos correspondiente al ejercicio fiscal 2005.
+
+Las transferencias financieras del Gobierno del Estado para el cumplimiento de los apoyos económicos establecidos en esta Ley, así como para la operación del Instituto se ajustarán a las disponibilidades presupuestarias programadas para cada ejercicio fiscal.
+
+OCTAVO.- La Secretaría de Finanzas del Gobierno del Estado, tomará las medidas necesarias y llevará a cabo las acciones que procedan conforme a las disposiciones legales en materia presupuestaria, para apoyar financieramente al Instituto a efecto de que pueda operar administrativamente por los meses que restan del ejercicio fiscal 2004.
