@@ -4,7 +4,7 @@ identifier: "BCS-ley-electoral-del-estado-de-baja-california-sur-2917"
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-18"
-last_updated: "2001-05-17"
+last_updated: "2003-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE MAYO DE 2001.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL BOLETIN OFICIAL EL 20 DE NOVIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el 18 de agosto de 1995.
 
@@ -4362,3 +4364,37 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 B.O. 17 DE MAYO DE 2001.
 
 ÚNICO.- El presente decreto entrara en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE NOVIEMBRE DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Electoral del Estado de Baja California Sur, aprobada en el Decreto número 1049 del H. Congreso del Estado de fecha 18 de Agosto de 1995 y publicada en el Boletín Oficial del Gobierno del Estado, así como sus reformas y adiciones posteriores.
+
+###### ARTÍCULO TERCERO.
+
+El Convenio que se haya celebrado con anterioridad a la entrada en vigor del presente Decreto, con el Instituto Federal Electoral para la utilización del catálogo general de electores, padrón electoral, listado nominal y credencial para votar con fotografía, así como los demás datos, seccionamientos y todos los elementos necesarios para el desarrollo de los procesos electorales del Estado, tendrán plena validez, hasta en tanto no se otorgue otro convenio con el mismo objeto.
+
+###### ARTÍCULO CUARTO.
+
+El Instituto Estatal Electoral expedirá su Reglamento Interior a más tardar 90 días después de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Los actuales Consejeros Electorales durarán en su encargo el tiempo y conforme a las bases bajo las cuales fueron electos.
+
+###### ARTÍCULO SEXTO.
+
+Si a la entrada en vigor del presente decreto se encuentra en trámite cualquier medio de impugnación ante el Instituto Estatal Electoral o ante el Tribunal Estatal Electoral, este será resuelto conforme a las normas vigentes al momento de su interposición.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los porcentajes establecidos para determinar el financiamiento público a los partidos políticos, previstos en el artículo 53 de la presente Ley, serán aplicables a partir del ejercicio 2004; por lo que los montos establecidos para el presente ejercicio continuarán en vigor hasta el 31 de diciembre de 2003.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
