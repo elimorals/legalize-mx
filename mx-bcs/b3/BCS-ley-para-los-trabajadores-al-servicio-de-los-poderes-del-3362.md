@@ -4,7 +4,7 @@ identifier: "BCS-ley-para-los-trabajadores-al-servicio-de-los-poderes-del-3362"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-20"
-last_updated: "1983-02-10"
+last_updated: "1991-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3362&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY PARA LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE FEBRERO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 1991.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el 20 de diciembre de 1976.
 
@@ -37,17 +37,19 @@ DECRETA:
 
 LEY PARA LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR.
 
-CAPITULO (SIC) PRIMERO
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 20 DE JUNIO DE 1991)</small>
 
-DISPOSICIONES GENERALES
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-## TITULO SEGUNDO. DERECHOS Y OBLIGACIONES DE LOS TRABAJADORES Y TITULARES
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1991)</small>
 
-### CAPITULO SEGUNDO (SIC)
+### CAPITULO UNICO
+
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 1o.
 
-La presente Ley es de observancia general para los Titulares y Trabajadores de los Poderes del Estado y Ayuntamientos.
+La presente Ley es de observancia general para los Titulares y Trabajadores de los Poderes del Estado y Ayuntamientos de Baja California Sur y fundamenta su vigencia en los artículos 115 fracción VIII y 116 fracción V de la Constitución General de la República.
 
 ###### ARTICULO 2o.
 
@@ -69,7 +71,9 @@ SON TRABAJADORES DE CONFIANZA:
 
 I.- EN EL PODER EJECUTIVO: el Secretario General de Gobierno, el Oficial Mayor, los Secretarios de Desarrollo, Finanzas, y Asentamientos Humanos y Obras Públicas, Subsecretarios, Contralores, Directores y Subdirectorios, Secretarios Particulares y Empleados de los mismos, los Procuradores y Sub-procuradores, Agentes del Ministerio Público, Asesores, Registradores, Jefes de Departamento, Cajero, Recaudadores y Sub-recaudadores de Rentas, Inspectores, Encargados directos de Adquisiciones y Compras, Auditores, Presidentes y Secretarios de Acuerdos de Juntas de Conciliación y Arbitraje, Jefes de Archivo, Museos y Bibliotecas, Personal del Centro de Cómputo, Pilotos y Personal de Aeronáutica, Patrones de Embarcaciones, Policías Judiciales y Custodios de Prevención y Readaptación Social.
 
-II.- EN EL PODER LEGISLATIVO: El Oficial Mayor, el Contador Mayor de Hacienda, los Auditores, los Asesores, el Pagador General.
+> <small>(REFORMADA, B.O. 20 DE JUNIO DE 1991)</small>
+
+II.- EN EL PODER LEGISLATIVO: el Oficial Mayor, el Contador Mayor de Hacienda, el Subcontador Mayor de Hacienda, los Auditores, los Asesores, Directores y Subdirectores, Secretario Particular y empleados del mismo, Jefes de Departamento, Cajero, Encargados directos de Adquisiciones y Compras, Jefes de Archivo y Biblioteca y Personal de vigilancia.
 
 III.- EN EL PODER JUDICIAL: El Oficial Mayor, los Secretarios de los Magistrados, las Secretarias del Tribunal en Pleno y de Sala, los Jueces y los Secretarios de Acuerdos de los Juzgados.
 
@@ -103,9 +107,11 @@ son (sic) irrenunciables los derechos que la presente Ley otorga.
 
 En lo no previsto por esta Ley o disposiciones especiales, se aplicarán supletoriamente y en su orden la Ley Federal de Trabajo, el Código Federal de Procedimientos Civiles, las Leyes del Orden Común, la costumbre, el uso, los principios generales de derecho y la equidad.
 
-## TITULO TERCERO. DEL ESCALAFON
+## TITULO SEGUNDO. DERECHOS Y OBLIGACIONES DE LOS TRABAJADORES Y TITULARES
 
-### CAPITULO TERCERO
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 1991)</small>
+
+### CAPITULO PRIMERO
 
 ###### ARTICULO 12.
 
@@ -169,9 +175,7 @@ Enningún (sic) caso el cambio de funcionarios de un Poder del Estado o Ayuntami
 
 Los trabajadores de las distintas unidades de gobierno se clasificarán conforme a los grupos establecidos por el Catálogo de Empleados para la formación y aplicación del presupuesto de Egresos.
 
-### CAPITULO CUARTO
-
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1979)</small>
+### CAPITULO SEGUNDO
 
 ###### ARTICULO 21.
 
@@ -205,13 +209,11 @@ Por cada cinco días de trabajo disfrutará el trabajador de dos días de descan
 
 Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos después del mismo. Durante la lactancia tendrá un descanso extraordinario por día de una hora para amamantar a sus hijos, a solicitud de la empleada.
 
-> <small>(REFORMADO, B.O. 10 DE FEBRERO DE 1983)</small>
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 29.
 
-Serán días de descanso obligatorios:
-
-El 1º de Enero, 5 de Febrero, 21 de Marzo, 1º y 5 de Mayo, 1º de Septiembre, 16 de Septiembre, 12 de Octubre, 20 de Noviembre y 25 de Diciembre. Asimismo, serán días de descanso obligatorios, el primer día del Primer Período Ordinario de Sesiones del Congreso Local, de cada año, el 5 de Abril y el 1º de Diciembre de cada seis años, con motivo de la Toma de Posesión de los Titulares del Poder Ejecutivo Estatal y Federal, respectivamente.
+Serán días de descanso obligatorio los siguientes: 1ero. de Enero, 5 de Febrero, 21 de Marzo, 1ero. y 5 de Mayo, 16 de Septiembre, 12 de Octubre, 20 de Noviembre, 21 y 25 de Diciembre. Asimismo se consideran como días de descanso obligatorio aquellos en que correspondan a la toma de posesión de los Titulares del Poder Ejecutivo Federal y Estatal y en los que los mismos rindan su informe anual ante los Congresos de la Unión y Local, respectivamente.
 
 > <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1979)</small>
 
@@ -219,7 +221,7 @@ El 1º de Enero, 5 de Febrero, 21 de Marzo, 1º y 5 de Mayo, 1º de Septiembre, 
 
 Los trabajadores que tengan más de seis meses consecutivos y menos de diez años de servicios disfrutarán de dos períodos anuales de vacaciones de diez días labores cada uno, en las fechas que se señalan al efecto. Para los trabajadores que tengan más de diez años de servicios ininterrumpidos, los períodos anuales de vacaciones serán de quince días laborales cada uno. En todo caso quedarán guardias para la tramitación de los asuntos urgentes, para lo que se utilizarán de preferencia los servicios de quienes no tuvieren derecho a vacaciones. Cuando un trabajador no pudiere hacer uso de las vacaciones en los períodos señalados por necesidades del servicio, o alguna otra causa justificada, disfrutarán de ellas durante los diez o quince días siguientes a la fecha en que haya desaparecido la causa que impidiere el disfrute de ese descanso, pero en ningún caso los trabajadores que laboren en períodos de vacaciones tendrán derecho a doble pago de sueldo.
 
-### CAPITULO QUINTO
+### CAPITULO TERCERO
 
 ###### ARTICULO 31.
 
@@ -229,11 +231,13 @@ El salario es la retribución que debe pagarse al trabajador a cambio de los ser
 
 El salario será uniforme para cada una de las categorías de trabajadores y será fijado en los Presupuestos de Egresos respectivos.
 
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1991)</small>
+
 ###### ARTICULO 33.
 
 La cuantía del salario uniforme será fijada en los términos del artículo anterior y no podrá ser disminuida durante la vigencia del Presupuesto de Egresos a que corresponda.
 
-Cada año se presentarán estudios de acuerdo con la capacidad económica de los Poderes del Estado y Ayuntamientos tendientes a mejorar las condiciones económicas de los trabajadores, aparte de las mejorías que se obtengan de las resoluciones que dicte el Presidente de República en funciones.
+Cada año se presentarán estudios de acuerdo con la capacidad económica de los Poderes del Estado y Ayuntamiento tendientes a mejorar las condiciones económicas de los trabajadores, aparte de las mejorías que se obtengan de las resoluciones que dicte el Presidente de la República en funciones y de acuerdo con los convenios existentes.
 
 ###### ARTICULO 34.
 
@@ -269,11 +273,39 @@ El monto total de los descuentos no podrá exceder del treinta por ciento del im
 
 Las horas extraordinarias de trabajo se pagarán con un ciento por ciento más del salario asignado a las horas de jornada ordinaria. Cuando se labore en los días de descanso obligatorio, la hora extra se pagará a los trabajadores a un doscientos por ciento más del salario asignado a las horas de jornada ordinaria. Cuando se trabaje en días de descanso se cubrirá además una prima adicional de un veinticinco por ciento sobre el salario de los días ordinarios de trabajo.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 39.
 
-En los días de descanso obligatorio y en las vacaciones a que se refieren los artículos 27 y 30, los trabajadores recibirán salario íntegro, cuando el trabajador disfrute de derecho de vacaciones, los Poderes del Estado y los Ayuntamientos le cubrirán previamente el salario correspondiente a las vacaciones más la prima vacacional del 25% sobre el importe de sueldo y sobresueldo.
+En los días de descanso obligatorio y en las vacaciones a que se refieren los artículos 27 y 30, los trabajadores recibirán un salario íntegro. Cuando el trabajador disfrute de derecho de vacaciones, los Poderes del Estado y Ayuntamientos le cubrirán previamente el salario correspondiente a las vacaciones más la prima vacacional del cincuenta por ciento sobre el importe de sueldo y sobresueldo.
+
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 1991)</small>
+
+ARTICULO 39 BIS.- Los trabajadores tendrán derecho a un aguinaldo anual equivalente a 40 días de salario integrado con el sueldo, sobresueldo y compensación. Dicho aguinaldo se pagará de la siguiente forma: 30 días durante la primer quincena de Diciembre y 10 días a más tardar el día 15 de Enero.
+
+Durante la segunda quincena del mes de Agosto de cada año, los trabajadores recibirán la cantidad equivalente a 10 días de salario integrado con el sueldo y sobresueldo como prestación de seguridad social para compra de útiles escolares.
+
+Los trabajadores recibirán conjuntamente con su salario el pago de $100,000.00 (CIEN MIL PESOS) mensuales por concepto de despensa alimenticia. Asimismo recibirán como gratificación por antigüedad el pago de las siguientes cantidades:
+
+Trabajadores con una antigüedad
+
+mayor de 5 años $7,368.00 mensuales
+
+Trabajadores con una antigüedad
+
+mayor de 10 años $13,816.00 mensuales
+
+Trabajadores con una antigüedad
+
+mayor de 15 años $23,562.00 mensuales
+
+Trabajadores con una antigüedad
+
+mayor de 20 años $47,856.00 mensuales
+
+Trabajadores con una antigüedad
+
+mayor de 25 años $99,396.00 mensuales
 
 ###### ARTICULO 40.
 
@@ -283,7 +315,9 @@ El salario no es susceptible de embargo judicial o administrativo, fuera de lo e
 
 Es nula la cesión de salarios a favor de tercera personal.
 
-### CAPITULO SEXTO
+### CAPITULO CUARTO
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 42.
 
@@ -331,11 +365,11 @@ IX.- Hacer las deducciones en los salarios, que solicite el Sindicato respectivo
 
 X.- En caso de fallecimiento de un trabajador en servicio activo, los Poderes del Estado y los Ayuntamientos cubrirán el importe de cuatro meses de sueldo íntegros para gastos de defunción, al familiar del trabajador que legalmente compruebe sus derechos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 20 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA, B.O. 20 DE JUNIO DE 1991)</small>
 
-XI.- Cuando un trabajador de acuerdo con la Ley del ISSSTE tenga necesidad de iniciar los trámites para obtener su jubilación o pensión, los Poderes del Estado y Municipios, le concederán una licencia de treinta días con goce de sueldo para que pueda atender debidamente los trámites correspondientes. Cuando el trabajador reciba la aprobación de su jubilación o pensión, los Poderes del Estado y Municipios le concederán un empleo por el término de cuatro meses con el mismo sueldo que tenía asignado antes de su renuncia para poder sostenerse mientras se le inicia el pago de su retiro correspondiente.
+XI.- Cuando un trabajador de acuerdo con la Ley del ISSSTE tenga necesidad de iniciar los trámites para obtener su jubilación o pensión, los Poderes del Estado y Municipios le concederán una licencia de 30 días con goce de sueldo para que pueda atender los trámites correspondientes. Cuando el trabajador reciba la aprobación de su jubilación o pensión, disfrutará de cuatro meses recibiendo su salario íntegro, a partir de la fecha en que se de por terminada la relación de trabajo. Lo anterior, para que pueda sostenerse en tanto se inicia el pago de su pensión o jubilación.
 
-### CAPITULO SEPTIMO
+### CAPITULO QUINTO
 
 ###### ARTICULO 43.
 
@@ -359,7 +393,7 @@ VIII.- Asistir a los cursos de capacitación, para mejorar su preparación y efi
 
 IX.- Evitar en horarios de labores cualquier acto de comercio.
 
-### CAPITULO PRIMERO
+### CAPITULO SEXTO
 
 ###### ARTICULO 44.
 
@@ -371,7 +405,7 @@ I.- Que el trabajador contraiga alguna enfermedad que implique un peligro para l
 
 II.- La prisión preventiva del trabajador, seguida de sentencia absolutoria o el arresto impuesto por autoridad judicial o administrativa, a menos que, tratándose de arresto el Tribunal de Conciliación y Arbitraje, resuelva que debe tener lugar el cese del trabajador. Los trabajadores que tengan encomendado manejo de fondos, valores o bienes, podrán ser suspendidos hasta por sesenta días por el titular de la dependencia respectiva, cuando apareciere alguna irregularidad en su gestión, mientras se practica la investigación y se resuelve sobre el cese.
 
-### CAPITULO SEGUNDO
+### CAPITULO SEPTIMO
 
 ###### ARTICULO 45.
 
@@ -409,9 +443,35 @@ j).- Por presión que sea el resultado de una sentencia ejecutoria (sic). En los
 
 Si el Tribunal resuelve que fue justificado el cese, el trabajador no tendrá derecho al pago de salarios caídos.
 
-### CAPITULO TERCERO
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 20 DE JUNIO DE 1991)</small>
 
-## TITULO CUARTO. DE LA ORGANIZACION COLECTIVA DE LOS TRABAJADORES Y DE LAS CONDICIONES GENERALES DE TRABAJO
+### CAPITULO OCTAVO. DE LOS TRABAJADORES DEL SISTEMA EDUCATIVO ESTATAL
+
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 1991)</small>
+
+ARTICULO 45 A.- Las disposiciones de este Capítulo se aplicarán a las relaciones de trabajo que surjan entre el Gobierno del Estado y los Trabajadores Docentes y Administrativos de la Educación Preescolar, Primaria, Secundaria, que sean contratados por el propio Gobierno dentro del Sistema Educativo Estatal.
+
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 1991)</small>
+
+ARTICULO 45 B.- Trabajador Docente, es la persona física que presta servicios de enseñanza en el Sistema Educativo Estatal conforme a los planes y programas establecidos. Trabajador Administrativo en todo aquél que labore en actividades no docentes.
+
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 1991)</small>
+
+ARTICULO 45 C.- El Trabajador Docente podrá ser contratado por tiempo indeterminado, año lectivo, semestre, prestación de servicios profesionales e interino por sustitución.
+
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 1991)</small>
+
+ARTICULO 45 D.- Para los efectos de organización colectiva de los Trabajadores del Sistema Educativo Estatal, se seguirán las disposiciones contenidas en el Título Cuarto de la presente Ley.
+
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 1991)</small>
+
+ARTICULO 45 E.- Los trabajadores podrán formar su propio Sindicato y este deberá registrarse ante el Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur, de conformidad con las reglas establecidas en el Título Cuarto de esta Ley.
+
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 1991)</small>
+
+ARTICULO 45 F.- Las condiciones generales de trabajo que regirán las relaciones entre el Gobierno del Estado y los Trabajadores del Sistema Educativo Estatal, serán establecidas por el Organo de Gobierno respectivo y el Sindicato formado por dichos trabajadores, sujetándose a lo que señala el capítulo Segundo del Título Cuarto de esta Ley.
+
+## TITULO TERCERO. DEL ESCALAFON
 
 ### CAPITULO PRIMERO
 
@@ -473,7 +533,7 @@ Los titulares de los Poderes del Estado y Ayuntamientos proporcionarán a las Co
 
 Las facultades, obligaciones, atribuciones, procedimientos y derechos de las Comisiones Mixtas de Escalafón, quedarán señalados en los reglamentos y convenios sin contravenir las disposiciones de esta Ley.
 
-### CAPITULO TERCERO. DE LAS HUELGAS
+### CAPITULO TERCERO
 
 ###### ARTICULO 56.
 
@@ -519,15 +579,19 @@ Las vacantes temporales mayores de tres meses serán las que se originen por lic
 
 El procedimiento para resolver las permutas de empleos, así como las inconformidades de los trabajadores afectados por trámites o movimientos escalafonarios, serán previstos en los reglamentos.
 
-## TITULO QUINTO. DE LOS RIESGOS PROFESIONALES Y DE LAS ENFERMEDADES NOPROFESIONALES (SIC)
+## TITULO CUARTO. DE LA ORGANIZACION COLECTIVA DE LOS TRABAJADORES Y DE LAS CONDICIONES GENERALES DE TRABAJO
+
+### CAPITULO PRIMERO
 
 ###### ARTICULO 66.
 
 Los Sindicatos son las asociaciones de trabajadores que laboran, tanto en los Poderes del Estado como en los Ayuntamientos, constituido para el estudio, mejoramiento y defensa de sus intereses comunes.
 
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1991)</small>
+
 ###### ARTICULO 67.
 
-En cada uno de los Poderes del Estado y Ayuntamientos se reconocerá un sindicato. En caso de que concurran varios grupos de trabajadores que pretendan ese derecho, el Tribunal de Conciliación y Arbitraje otorgará el reconocimiento al mayoritario.
+En cada uno de los Poderes del Estado y Ayuntamientos se reconocerá un Sindicato, asimismo se reconocerá uno más de los Trabajadores del Sistema Educativo Estatal. En caso de que concurran varios grupos de trabajadores que pretendan ese derecho, el Tribunal de Conciliación y arbitraje otorgará el reconocimiento al mayoritario.
 
 > <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1979)</small>
 
@@ -625,6 +689,8 @@ Todos los conflictos que surjan entre los miembros del Sindicato y de no ser sol
 
 Las remuneraciones que se paguen a los directivos y empleados del Sindicato o entre éstos, y en general, los gastos que originen el funcionamiento de éste, será a cargo de su presupuesto, cubierto en todo caso con los fondos provenientes de las cuotas sindicales aportadas por sus miembros.
 
+### CAPITULO SEGUNDO
+
 ###### ARTICULO 85.
 
 Las condiciones generales de trabajo se fijarán por los titulares de los órganos de Gobierno respectivos y el sindicato.
@@ -648,6 +714,8 @@ Si el sindicato objetare sustancialmente las condiciones generales de trabajo, p
 ###### ARTICULO 88.
 
 Las condiciones generales de trabajo surtirán efecto a partir de la fecha de su depósito en el Tribunal de Conciliación y Arbitraje.
+
+### CAPITULO TERCERO. DE LAS HUELGAS
 
 ###### ARTICULO 89.
 
@@ -749,7 +817,13 @@ IV.- Por laudo del Tribunal o de la persona que a solicitud de las partes y con 
 
 Al resolver que una declaración de huelga es legal, el Tribunal, a petición de los funcionarios correspondientes y tomando en cuenta las pruebas presentadas, fijará el número de trabajadores que los huelguistas estén obligados a mantener en el desempeño de sus labores a fin de que se continúen realizándose (sic) aquellos servicios cuya suspensión perjudique la estabilidad de las Instituciones, o sea, en contra de la conservación de las oficinas o talleres o por último signifique un peligro para la salud pública.
 
-## TITULO SEXTO. DE LAS PRESCRIPCIONES
+> <small>(REFORMADA SU DENOMINACION, B.O. 20 DE JUNIO DE 1991)</small>
+
+## TITULO QUINTO. DE LOS RIESGOS PROFESIONALES Y DE LAS ENFERMEDADES NO PROFESIONALES
+
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 1991)</small>
+
+### CAPITULO UNICO
 
 ###### ARTICULO 107.
 
@@ -772,6 +846,12 @@ En los casos previstos en las fracciones anteriores, si al vencer las licencias 
 Para efecto de las fracciones anteriores, los cómputos deberán hacerse por servicios continuados, o cuando la interrupción en su prestación no sea mayor de seis meses.
 
 La licencia será continua o discontinua, una sola vez cada año contando a partir del momento en que se tomó posesión del puesto.
+
+## TITULO SEXTO. DE LAS PRESCRIPCIONES
+
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 1991)</small>
+
+### CAPITULO UNICO
 
 ###### ARTICULO 109.
 
@@ -831,7 +911,13 @@ II.- Si la persona a cuyo favor corre la prescripción reconoce el derecho de aq
 
 Para los efectos de la prescripción los meses se regularán por el número de días que les correspondan; el primer día se contará completo y cuando sea inhábil el último, no se tendrá por completa la prescripción, sino cumplido el primer día hábil siguiente.
 
-TRIBUNAL DE CONCILIACION Y ARBITRAJE PARA LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 1991)</small>
+
+## TITULO SEPTIMO. DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE PARA LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
+
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 1991)</small>
+
+### CAPITULO PRIMERO. DE LA ESTRUCTURA Y FUNCIONAMIENTO DEL TRIBUNAL
 
 > <small>(REFORMADO, B.O. 10 DE FEBRERO DE 1983)</small>
 
@@ -869,7 +955,9 @@ El Tribunal contará con un Secretario General y los empleados que señale el Pr
 
 Los gastos que origine el funcionamiento del Tribunal serán cubiertos por el Estado y los Municipios en la siguiente forma: 70% por el Estado y el 30% restante por los Municipios los cuales de acuerdo con sus ingresos y el número de sus empleados que laboren en el Ayuntamiento respectivo, fijarán entre ellos el porcentaje que les corresponda.
 
-Competencia del Tribunal
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 1991)</small>
+
+### CAPITULO SEGUNDO. COMPETENCIA DEL TRIBUNAL
 
 ###### ARTICULO 121.
 
@@ -883,7 +971,9 @@ III.- Conocer de los conflictos colectivos que surjan en el Estado y las organiz
 
 IV.- Conceder el registro de los sindicatos o en su caso dictar la cancelación de los mismos, así como efectuar el registro de las condiciones generales de trabajo.
 
-PROCEDIMIENTO
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 1991)</small>
+
+### CAPITULO TERCERO. DEL PROCEDIMIENTO
 
 ###### ARTICULO 122.
 
@@ -1044,3 +1134,9 @@ B.O. 3 DE FEBRERO DE 1983.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE JUNIO DE 1991.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
