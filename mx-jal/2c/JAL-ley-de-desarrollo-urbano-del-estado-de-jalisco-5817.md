@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-urbano-del-estado-de-jalisco-5817"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-13"
-last_updated: "1993-07-13"
+last_updated: "1998-01-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ENERO DE 1998.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 13 de julio de 1993.
 
@@ -51,13 +51,41 @@ Disposiciones generales.
 
 La presente Ley se expide con el objeto de definir las normas que permitan dictar las medidas necesarias para ordenar los asentamientos humanos en el Estado de Jalisco y establecer adecuadas provisiones, usos, reservas y destinos de tierras, a efecto de ejecutar obras públicas y de planear y regular la fundación, conservación, mejoramiento y crecimiento de los centros de población, conforme a los fines señalados en el párrafo tercero del artículo 27 y las fracciones V y VI del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 2.
 
-Las disposiciones de esta Ley y sus reglamentos, así como los programas, planes y declaratorias que expidan las autoridades competentes conforme a sus normas, son de orden público e interés social.
+En términos de lo dispuesto en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, se considera de interés público y de beneficio social:
+
+I. La determinación de provisiones, usos, destinos y reservas de áreas y predios de los centros de población, contenida en los planes o programas de desarrollo urbano;
+
+II. La fundación, conservación, mejoramiento y crecimiento de los centros de población;
+
+III. La formulación, autorización y ejecución de planes o programas de desarrollo urbano;
+
+IV. La constitución de reservas territoriales, para el desarrollo urbano y la vivienda;
+
+V. La regulación de la tenencia de la tierra en los centros de población;
+
+VI. La edificación o mejoramiento de vivienda de interés social y popular;
+
+VII. La ejecución de obras de infraestructura, equipamiento y servicios públicos;
+
+VIII. Las acciones de identificación y prevención de riesgos en los centros de población;
+
+IX. La protección del patrimonio cultural de los centros de población; y
+
+X. La preservación del equilibrio ecológico y la protección al ambiente de los centros de población.
+
+Las disposiciones de esta Ley y sus reglamentos, así como los programas y planes que expidan las autoridades competentes conforme a sus normas, son de orden público e interés social.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 3.
 
-Toda acción en áreas y predios que genere la transformación de suelo rural a urbano; las fusiones, subdivisiones y fraccionamientos de terrenos para el asentamiento humano; los cambios en la utilización de éstos; así como todas las acciones de urbanización y edificación que se realicen en la Entidad, quedan sujetas a cumplir las disposiciones de la presente Ley.
+Toda acción en áreas y predios que genere la transformación de suelo rural a urbano; las subdivisiones y fraccionamientos de terrenos para el asentamiento humano; los cambios en la utilización de éstos; así como todas las acciones de urbanización y edificación que se realicen en la Entidad, quedan sujetas a cumplir las disposiciones de la presente Ley.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 4.
 
@@ -65,31 +93,33 @@ La presente Ley tiene por objeto:
 
 I. Establecer las normas que regulen la concurrencia del Estado y los municipios, al participar en el ordenamiento y regulación del asentamiento humano;
 
-II. Fijar las normas básicas para planear la fundación, conservación, mejoramiento y crecimiento de los centros de población en la Entidad;
+II. Fijar las normas para planear y regular el asentamiento humano, a efecto de realizar la fundación, conservación, mejoramiento y crecimiento de los centros de población;
 
-III. Precisar en sus normas los derechos y obligaciones de los habitantes del Estado al desarrollar acciones de aprovechamiento de predios y fincas, para hacer efectivos los derechos a la vivienda y a la ciudad;
+III. Definir los principios para determinar las provisiones, reservas, usos y destinos de áreas y predios que regulen la propiedad en las áreas que integran y delimitan los centros de población,
 
-IV. Establecer las normas conforme a las cuales, el Gobierno del Estado y los gobiernos municipales, ejercerán sus atribuciones para zonificar el territorio y determinar las correspondientes provisiones, usos, destinos y reservas de áreas y predios;
+IV. Precisar en sus normas los derechos y obligaciones de los habitantes del Estado al desarrollar acciones de aprovechamiento de predios y fincas, para hacer efectivos los derechos a la vivienda y a la ciudad;
 
-V. Determinar las normas que regulen el ejercicio del derecho de preferencia de los gobiernos municipales y el Gobierno del Estado en lo relativo a reservas urbanas;
+V. Establecer las normas conforme a las cuales, el Gobierno del Estado y los gobiernos municipales, ejercerán sus atribuciones para zonificar el territorio y determinar las correspondientes provisiones, usos, destinos y reservas de áreas y predios;
 
-VI. Establecer las bases para expedir y ejecutar el Programa Estatal de Vivienda;
+VI Determinar las normas que regulen el ejercicio del derecho de preferencia de los gobiernos municipales y el Gobierno del Estado en lo relativo a reservas urbanas;
 
-VII. Fijar las normas básicas para reglamentar, autorizar, controlar y vigilar la urbanización de áreas y predios, de propiedad pública, privada o social, así como la edificación de los mismos;
+VII. Establecer las bases para expedir y ejecutar el Programa Estatal de Vivienda;
 
-VIII. Definir disposiciones que regulen las acciones inmobiliarias que emprendan entidades de la Administración Pública Estatal y de los gobiernos municipales; así como la concertación de éstas con los particulares con el fin de ejecutar las acciones que se determinen;
+VIII. Fijar las normas básicas para reglamentar, autorizar, controlar y vigilar la urbanización de áreas y predios, de propiedad pública, privada o social, así como la edificación de los mismos;
 
-IX. Establecer y regular los sistemas de participación ciudadana y de los distintos sectores de la población, en la realización de obras de urbanización y edificación;
+IX. Definir disposiciones que regulen las acciones inmobiliarias que emprendan entidades de la Administración Pública Estatal y de los gobiernos municipales; así como la concertación de éstas con los particulares con el fin de ejecutar las acciones que se determinen;
 
-X. Definir los medios para reconocer, promover y organizar la participación en la gestión del desarrollo urbano, de los vecinos de las colonias, barrios y centros de población;
+X. Establecer y regular los sistemas de participación ciudadana y de los distintos sectores de la población, en la realización de obras de urbanización y edificación;
 
-XI. Establecer el interés social y la utilidad pública para los casos en donde proceda la expropiación de bienes de propiedad privada o social, a fin de dar cumplimiento a las disposiciones de esta Ley y a los programas, planes y declaratorias que expidan;
+XI. Definir los medios para reconocer, promover y organizar la participación de los vecinos de las colonias, barrios y centros de población; en materia de ordenamiento territorial del asentamiento humano y de gestión del desarrollo urbano;
 
-XII. Establecer los sistemas de control para el correcto ejercicio de las atribuciones conferidas a los gobiernos municipales, fijando la responsabilidad en que los mismos o sus funcionarios puedan incurrir;
+XII. Establecer el interés social y la utilidad pública para los casos en donde proceda la expropiación de bienes de propiedad privada o social, a fin de dar cumplimiento a las disposiciones de esta Ley y los programas y planes de desarrollo urbano;
 
-XIII. Configurar los delitos y las infracciones administrativas en que puedan incurrir los transgresores de esta ley, reglamentos y planes o programas locales de desarrollo urbano y fijar las correspondientes sanciones; y
+XIII. Establecer los sistemas de control para el correcto ejercicio de las atribuciones conferidas a los gobiernos municipales, fijando la responsabilidad en que los mismos o sus servidores públicos puedan incurrir;
 
-XIV. Definir los tribunales y autoridades administrativas competentes para promover, substanciar y resolver los procedimientos, recursos y juicios para garantizar el cabal cumplimiento de los actos de aplicación de esta Ley.
+XIV. Configurar los delitos y las infracciones administrativas en que puedan incurrir los transgresores de esta Ley, reglamentos y planes o programas locales de desarrollo urbano y fijar las correspondientes sanciones; y
+
+XV. Definir los tribunales y autoridades administrativas competentes para promover, substanciar y resolver los procedimientos, recursos y juicios para garantizar el cabal cumplimiento de los actos de aplicación de esta Ley.
 
 ###### Artículo 5.
 
@@ -117,7 +147,11 @@ X. La promoción de acciones para consolidar y mejorar las áreas industriales;
 
 XI. La promoción de usos y destinos orientados a la productividad y la generación de empleos; y
 
-XII. La participación ciudadana en la solución de los problemas que genera la convivencia, poniendo en práctica diversas modalidades de consulta pública para la formulación y revisión de los programas y planes de desarrollo urbano, promoviendo la solidaridad entre los grupos e individuos que integran sus comunidades.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+XII. La participación social en la solución de los problemas que genera la convivencia, poniendo en práctica diversas modalidades de consulta pública para la formulación y revisión de los programas y planes de desarrollo urbano, como de la acción urbanística, promoviendo la solidaridad entre los grupos e individuos que integran sus comunidades.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 6.
 
@@ -125,75 +159,81 @@ Para los efectos de esta Ley, se entiende por:
 
 I. Asentamiento humano: la radicación de un grupo de personas, con el conjunto de sus sistemas de convivencia en un área localizada, considerando en la misma los elementos naturales y las obras materiales que la integran;
 
-II. Centro de población: las áreas urbanas ocupadas por las instalaciones necesarias para su vida normal; las que se reserven para su expansión futura; las constituidas por elementos naturales que cumplen una función de preservación de sus condiciones ecológicas; y las que se dediquen a la fundación del mismo, conforme a las leyes aplicables;
+II. Centro de población: las áreas urbanas ocupadas por las instalaciones necesarias para su vida urbana; las que se reserven para su expansión futura; las constituidas por elementos naturales que cumplen una función de preservación de sus condiciones ecológicas; y las que se dediquen a la fundación del mismo, conforme a las leyes aplicables.
 
 III. Conurbación: el fenómeno que se presenta cuando dos o más centros de población, por su crecimiento y relaciones socioeconómicas, formen o tiendan a formar una unidad urbana;
 
-IV. Zona de conurbación: es el área que se determina en la declaratoria o acuerdo en donde se reconozca el fenómeno de conurbación, para los efectos de planear y regular de manera conjunta y coordinada el desarrollo de los centros de población comprendidos en sus límites;
+IV. Zona de conurbación: es el área que se determina en el convenio en donde se reconozca el fenómeno de conurbación, para los efectos de planear y regular de manera conjunta y coordinada el desarrollo de los centros de población comprendidos en sus límites;
 
-V. Desarrollo urbano: el conjunto armónico de acciones que se realicen para ordenar, regular y adecuar los elementos físicos, económicos y sociales de los centros de población y sus relaciones con el medio ambiente natural y sus recursos;
+V. Desarrollo regional: el proceso de crecimiento económico y evolución social en un territorio determinado, donde se garantice el mejoramiento de la calidad de vida de la población, la preservación del ambiente, así como la conservación y reproducción de los recursos naturales;
 
-VI. Planeación y programación de los centros de población: el conjunto de actividades tendientes a lograr de una manera racional, los satisfactores indispensables para el buen funcionamiento de los mismos;
+VI. Desarrollo urbano: el conjunto armónico de acciones que se realicen para ordenar, regular y adecuar los elementos físicos, económicos y sociales de los centros de población y sus relaciones con el medio ambiente natural y sus recursos;
 
-VII. Ordenamiento de los centros de población: el conjunto de dispositivos que tienden a lograr el desarrollo físico integral de los mismos, mediante la armónica relación y jerarquización de sus elementos;
+VII. Planeación y programación de los centros de población: el conjunto de actividades tendientes a lograr de una manera racional, los satisfactores indispensables para el buen funcionamiento de los mismos;
 
-VIII. Regulación de los centros de población: la práctica sistemática mediante la aplicación de medidas, para llevar a buen efecto la evolución de los centros de población, según los modelos que previamente se definan;
+VIII. Ordenamiento de los centros de población: el conjunto de dispositivos que tienden a lograr el desarrollo físico integral de los mismos, mediante la armónica relación y jerarquización de sus elementos;
 
-IX. Urbanización: el proceso técnico para lograr a través de la acción material y de manera ordenada, la adecuación de los espacios que el ser humano y sus comunidades requieren para su asentamiento;
+IX. Regulación de los centros de población: la práctica sistemática mediante la aplicación de medidas, para llevar a buen efecto la evolución de los centros de población, según los modelos que previamente se definan;
 
-X. Fundación: el establecimiento de un centro de población previsto en el Programa Estatal de Desarrollo Urbano, mediante decreto del Congreso del Estado;
+X. Urbanización: el proceso técnico para lograr a través de la acción material y de manera ordenada, la adecuación de los espacios que el ser humano y sus comunidades requieren para su asentamiento;
 
-XI. Conservación: la acción dirigida a mantener el equilibrio ecológico y el Patrimonio Cultural de la Entidad que requieren de su preservación;
+XI. Fundación: el establecimiento de un centro de población previsto en el Programa Estatal de Desarrollo Urbano, mediante decreto del Congreso del Estado;
 
-XII. Mejoramiento: la acción dirigida a reordenar y renovar las zonas deterioradas o de incipiente desarrollo del territorio estatal o de un centro de población;
+XII. Conservación: la acción dirigida a mantener el equilibrio ecológico y el Patrimonio Cultural de la Entidad que requieren de su preservación;
 
-XIII. Crecimiento: la expansión de los límites de las áreas ocupadas con edificios, instalaciones y redes que integran la infraestructura y el equipamiento urbano de los centros de población; la expansión de los límites de los centros de población;
+XIII. Mejoramiento: la acción dirigida a reordenar y renovar las zonas deterioradas o de incipiente desarrollo del territorio estatal o de un centro de población;
 
-XIV. Renovación urbana: la transformación o mejoramiento del suelo en zonas comprendidas de los centros de población, pudiendo implicar un cambio en las relaciones de propiedad y tenencia del suelo;
+XIV. Crecimiento: la expansión de los límites de las áreas ocupadas con edificios, instalaciones o redes que integran la infraestructura y el equipamiento urbano de los centros de población; la expansión de los límites de los centros de población;
 
-XV. Expansión urbana: el crecimiento de los centros de población que implica la transformación de suelo rural a urbano, modificando el aprovechamiento y el régimen de propiedad de áreas y predios, así como la introducción o mejoramiento de las redes de infraestructura;
+XV. Renovación urbana: la transformación o mejoramiento del suelo en zonas comprendidas de los centros de población pudiendo implicar un cambio en las relaciones de propiedad y tenencia del suelo;
 
-XVI. Propiedad social: las tierras comunales; y las dotadas a los núcleos de población ejidal o incorporadas al régimen ejidal conforme las disposiciones de la Ley Agraria, mismas que se dividen en tierras para el asentamiento humano, de uso común y parceladas;
+XVI. Expansión urbana: el crecimiento de los centros de población que implica la transformación de suelo rural a urbano, modificando el aprovechamiento y el régimen de propiedad de áreas y predios, así como la introducción o mejoramiento de las redes de infraestructura;
 
-XVII. Provisiones: las áreas que serán utilizadas para la fundación de un centro de población;
+XVII. Propiedad social: las tierras comunales; y las dotadas a los núcleos de población ejidal o del régimen ejidal conforme las disposiciones de la Ley Agraria, mismas que se dividen en tierras para el asentamiento humano, de uso común y parceladas;
 
-XVIII. Usos: los fines particulares a que podrán dedicarse determinadas zonas, áreas y predios de un centro de población;
+XVIII. Provisiones: las áreas que serán utilizadas para la fundación de un centro de población;
 
-XIX. Destinos: los fines públicos a que se prevea dedicar determinadas zonas, áreas y predios de un centro de población;
+XIX. Usos: los fines particulares a que podrán dedicarse determinadas zonas, áreas y predios de un centro de población;
 
-XX. Areas de cesión para destinos: las que se determinen en todo Plan Parcial de Urbanización conforme las normas de los reglamentos de zonificación, para proveer los fines públicos que requiera la comunidad;
+XX. Destinos: los fines públicos a que se prevea dedicar determinadas zonas, áreas y predios de un centro de población;
 
-XXI. Reservas: las áreas de un centro de población que serán utilizadas para su futuro crecimiento;
+XXI. Areas de cesión para destinos: las que se determinen en todo Plan Parcial de Urbanización conforme las normas de los reglamentos de zonificación, para proveer los fines públicos que requiera la comunidad;
 
-XXII. Reservas territoriales: las áreas de un centro de población que serán utilizadas para su futuro crecimiento y se integren al dominio privado de la Federación, el Estado o los municipios;
+XXII. Reservas: las áreas de un centro de población que serán utilizadas para su futuro crecimiento;
 
-XXIII. Declaratorias de usos, destinos y reservas: son los actos de derecho público, que corresponde autorizar a los ayuntamientos y publicar al Ejecutivo Estatal, a fin de clasificar las áreas y predios de un centro de población, determinando los usos permitidos, prohibidos y condicionados y sus normas de utilización, a las que se sujetarán el aprovechamiento público, privado y social de los mismos;
+XXIII. Reservas territoriales: las áreas de un centro de población que serán utilizadas para su futuro crecimiento y se integren al dominio privado de la Federación, el Estado o los municipios;
 
-XXIV. Acción urbanística: la urbanización del suelo y la edificación en el mismo; comprendiendo también la transformación de suelo rural a urbano; las fusiones, subdivisiones y fraccionamientos de áreas y predios; los cambios en la utilización y en el régimen de propiedad de predios y fincas; la rehabilitación de fincas y zonas urbanas; así como la introducción o mejoramiento de las redes de infraestructura;
+XXIV. Determinación de usos, destinos y reservas: son los actos de derecho público, que corresponde autorizar a los ayuntamientos en los programas y planes de desarrollo urbano, a fin de clasificar las áreas y predios de un centro de población y establecer las zonas, donde se precisen los usos permitidos, prohibidos y condicionados y sus normas de utilización, a las cuales se sujetarán el aprovechamiento público, privado y social de los mismos;
 
-XXV. Obras de urbanización: todas aquellas acciones materiales de adecuación espacial necesarias a realizar en el suelo rústico para convertirlo en urbanizado, integrándole los elementos requeridos para edificar; o bien, en el suelo urbanizado para mejorarlo con el mismo fin o para permitir el desempeño de otras funciones en el centro de población;
+XXV. Acción urbanística: la urbanización del suelo y la edificación del mismo; comprendiendo también la transformación de suelo rural a urbano; las subdivisiones y fraccionamientos de áreas y predios para el asentamiento humano; los cambios en la utilización y en el régimen de propiedad de predios y fincas; la rehabilitación de fincas y zonas urbanas; así como la introducción o mejoramiento de las redes de infraestructura;
 
-XXVI. Areas y predios de conservación ecológica: las tierras, aguas y bosques en estado natural que por sus características de valor científico, ambiental o paisajístico deben ser conservadas;
+XXVI: Obras de urbanización: todas aquellas acciones materiales de adecuación espacial necesarias a realizar en el suelo rústico para convertirlo en urbanizado, integrándole los elementos requeridos para edificar; o bien en el suelo urbanizado para mejorarlo con el mismo fin o para permitir el desempeño de otras funciones en el centro de población;
 
-XXVII. Areas y predios rústicos: las tierras, aguas y bosques que son susceptibles de explotación racional agropecuaria, piscícola, minera o forestal;
+XXVII. Obras de infraestructura básica: las redes generales que permiten suministrar en las distintas unidades territoriales que integran el centro de población los servicios públicos de vialidad primaria municipal, agua potable y alcantarillado;
 
-XXVIII. Suelo urbanizable: aquel cuyas características lo hacen susceptible de aprovechamiento en la fundación o crecimiento de los centros de población, sin detrimento del equilibrio ecológico, por lo que se señalará para establecer las correspondientes provisiones y reservas;
+XXVIII. Areas y predios de conservación ecológica: las tierras, aguas y bosques en estado natural que por sus características de valor científico, ambiental o paisajístico deben ser conservadas;
 
-XXIX. Suelo Urbanizado: aquel donde habiéndose ejecutado las obras de urbanización, cuenta con su incorporación o reincorporación municipal;
+XXIX. Areas y predios rústicos: las tierras, aguas y bosques que son susceptibles de explotación racional agropecuaria, piscícola, minera o forestal;
 
-XXX. Obras de edificación: todas aquellas acciones de adecuación espacial necesarias a realizar en el suelo urbanizado, para permitir su uso o destino;
+XXX. Suelo urbanizable: aquel cuyas características lo hacen susceptible de aprovechamiento en la fundación o crecimiento de los centros de población, sin detrimento del equilibrio ecológico, por lo que se señalará para establecer las correspondientes provisiones y reservas;
 
-XXXI. Equipamiento urbano: los edificios y espacios acondicionados de utilización pública, general o restringida, en los que se proporcionan a la población servicios de bienestar social. Considerando su cobertura se clasifica en regional, urbano y barrial o local;
+XXXI. Suelo urbanizado: aquel donde habiéndose ejecutado las obras de urbanización, cuenta con su incorporación o reincorporación municipal;
 
-XXXII. Fusión: la unión en un solo predio de dos o más predios colindantes;
+XXXII. Obras de edificación: todas aquellas acciones de adecuación espacial necesarias a realizar en el suelo urbanizado, para permitir su uso o destino;
 
-XXXIII. Subdivisión: la partición de un predio en dos o más fracciones;
+XXXIII. Equipamiento urbano: los edificios y espacios acondicionados de utilización pública, general o restringida, en los que se proporcionan a la población servicios de bienestar social. Considerando su cobertura se clasifica en regional, urbano y barrial o local;
 
-XXXIV. Relotificación: el cambio en la distribución o dimensiones de los lotes en un predio cuyas características hayan sido autorizadas con anterioridad;
+XXXIV. Subdivisión: la partición de un predio en dos o más fracciones;
 
-XXXV. La Secretaría: la dependencia del Gobierno del Estado competente en materia de desarrollo urbano y ordenamiento territorial; y
+XXXV. Relotificación: el cambio en la distribución o dimensiones de los lotes en un predio, cuyas características hayan sido autorizadas con anterioridad;
 
-XXXVI. La Dependencia Municipal: la dependencia técnica y administrativa del Gobierno Municipal competente para expedir los dictámenes, autorizaciones y licencias previstos en las fracciones XIX, XX, XXI y XXII del artículo 12 de esta Ley.
+XXXVI. Incorporación municipal: el acto de derecho público que tiene por objeto dar por concluida la acción urbanística de expansión urbana y declarar al suelo urbanizado, mediante su autorización por el Ayuntamiento, quien asumirá la administración de las obras de infraestructura, equipamiento y los servicios públicos. La autorización de este acto, faculta al urbanizador a la enajenación de los predios resultantes, conforme la modalidad de acción urbanística que haya realizado;
+
+XXXVII. Reincorporación municipal: el acto de derecho público que tiene por objeto dar por concluida la acción urbanística de renovación urbana y asignar al suelo su nueva modalidad, intensidad y relaciones de propiedad conforme a la utilización propuesta, mediante la autorización por el Ayuntamiento, quien asumirá la administración de las obras de infraestructura, equipamiento y los servicios públicos;
+
+XXXVIII. La Secretaría: la dependencia del Gobierno del Estado competente en materia de ordenamiento territorial de los asentamientos humanos y de desarrollo urbano; y
+
+XXXIX. La Dependencia Municipal: la dependencia técnica y administrativa que señale el Gobierno Municipal competente para expedir los dictámenes, autorizaciones y licencias previstos en las fracciones XIX, XX, XXI y XXII del artículo 12 de esta Ley.
 
 ### CAPITULO II
 
@@ -215,9 +255,11 @@ V. Las Comisiones de Zona Conurbada y el Consejo de la Zona Metropolitana de Gua
 
 VI. La Procuraduría de Desarrollo Urbano.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 8.
 
-Son organismos de participación social y de consulta:
+Son organismos públicos de participación social y de consulta:
 
 I. El Consejo Estatal de Desarrollo Urbano;
 
@@ -235,7 +277,9 @@ I. Decretar la fundación de centros de población, previstos en el Programa Est
 
 II. Fijar los límites de los centros de población y aprobar su modificación, a propuesta del Ayuntamiento correspondiente, con fundamento en el programa o plan municipal de desarrollo urbano que haya sometido a consulta pública y autorizado, conforme las disposiciones de la presente Ley;
 
-III. Aprobar los límites de las zonas de conurbación intermunicipales, con base en el proyecto de declaratoria que formule el Gobernador del Estado para reconocer su existencia o el acuerdo que celebre el Ejecutivo con los ayuntamientos involucrados, conforme lo dispuesto en el artículo 18 de esta Ley;
+> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
+
+III. Aprobar los límites de las zonas de conurbación intermunicipales, con base en el convenio que celebre el Ejecutivo con los ayuntamientos involucrados, conforme lo dispuesto en el artículo 18 de esta Ley;
 
 IV. Designar al Procurador de Desarrollo Urbano con base en la terna que proponga el Consejo Estatal de Desarrollo Urbano;
 
@@ -257,11 +301,17 @@ IV. Participar, con la concurrencia de los ayuntamientos involucrados, en la ela
 
 V. Promover ante el Congreso del Estado la fundación de centros de población, con base en los proyectos contenidos en los respectivos programas y planes de desarrollo urbano;
 
-VI. Opinar sobre la congruencia de los programas y planes municipales de desarrollo urbano y las declaratorias que aprueben los ayuntamientos;
+> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
 
-VII. Publicar los programas y planes municipales de desarrollo urbano y sus declaratorias de usos, destinos y reservas;
+VI. Opinar sobre la congruencia de los programas y planes municipales de desarrollo urbano que aprueben los ayuntamientos;
 
-VIII. Ordenar la inscripción en el Registro Público de la Propiedad de los programas y planes de desarrollo urbano, las declaratorias y todas aquellas resoluciones que de acuerdo con esta Ley, corresponda al Titular del Poder Ejecutivo disponer su publicación y que así lo ameriten;
+> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
+
+VII. Publicar los programas y planes municipales de desarrollo urbano;
+
+> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
+
+VIII. Ordenar la inscripción en el Registro Público de la Propiedad de los programas y planes de desarrollo urbano y todas aquellas resoluciones que de acuerdo con esta Ley, corresponda al Titular del Poder Ejecutivo disponer su publicación y que así lo ameriten;
 
 IX. Promover la coordinación de las políticas y prácticas del Registro Público de la Propiedad y del Catastro, para hacer efectivas las disposiciones expedidas a fin de ordenar y regular los centros de población, expresadas en los programas y planes de desarrollo urbano;
 
@@ -271,11 +321,15 @@ XI. Convenir con los municipios, a solicitud expresa de sus ayuntamientos, que l
 
 XII. Celebrar convenios con los gobiernos de los municipios, de las entidades federativas o de la Federación, que apoyen los objetivos y finalidades definidos en los diversos programas de desarrollo urbano;
 
-XIII. Participar con los gobiernos de los municipios, de las entidades federativas involucradas y de la Federación, en el ordenamiento y regulación de las conurbaciones interestatales, en los términos de la Ley General de Asentamientos Humanos y de la respectiva declaratoria que expida el Presidente de la República;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+XIII. Participar con los gobiernos de los municipios, de las entidades federativas involucradas y de la Federación, en el ordenamiento y regulación de las conurbaciones interestatales, en los términos de la Ley General de Asentamientos Humanos y del respectivo convenio;
 
 XIV. Participar, en forma conjunta y coordinada con los ayuntamientos, en el ordenamiento y regulación de los centros de población ubicados en una zona conurbada intermunicipal;
 
-XV. Reconocer, mediante la declaratoria respectiva, la existencia de un fenómeno de conurbación, respecto de los centros de población situados en el territorio de dos o más municipios de la Entidad; integrar la comisión de la zona conurbada respectiva; presidir sus reuniones y designar a la persona que la presida en su representación;
+> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
+
+XV. Promover y celebrar el convenio a efecto de reconocer la existencia de un fenómeno de conurbación, respecto de los centros de población situados en el territorio de dos o más municipios de la Entidad; integrar la comisión de la zona conurbada respectiva; presidir sus reuniones y designar a la persona que la presida en su representación;
 
 XVI. Promover ante el Congreso del Estado, la fijación o modificación de los límites de las zonas conurbadas intermunicipales;
 
@@ -285,7 +339,9 @@ XVIII. Aplicar las medidas económicas y administrativas que conforme la present
 
 XIX. Aplicar, en el ámbito de su competencia, las modalidades, limitaciones y estímulos a la propiedad urbana que señale esta Ley y los ordenamientos relativos;
 
-XX. Participar, en los términos del acuerdo de coordinación respectivo, en la operación del Sistema Nacional de Suelo y Reservas Territoriales para el Desarrollo Urbano y la Vivienda, que establece la Ley General de Asentamientos Humanos;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+XX. Participar, en los términos del acuerdo de coordinación respectivo, en la instrumentación de la política integral de suelo urbano y reservas territoriales, que establece la Ley General de Asentamientos Humanos;
 
 XXI. Intervenir en la regularización de la tenencia del suelo para su incorporación al desarrollo urbano, en los términos de la legislación aplicable, a fin de resolver los problemas generados por los asentamientos irregulares existentes y establecer medidas para evitar su proliferación;
 
@@ -293,7 +349,7 @@ XXII. Participar en coordinación con los gobiernos municipales, en la constituc
 
 XXIII. Proceder conforme a la ley respectiva, a la expropiación de bienes de propiedad privada por causa de utilidad pública, en los casos establecidos en este ordenamiento;
 
-XXIV. Promover ante el Ejecutivo Federal la expropiación de tierras ejidales o comunales para la ejecución de los planes o programas de desarrollo urbano y vivienda o la constitución de reservas territoriales, a cargo de la Administración Pública Estatal o mediante su transmisión a los municipios, en los términos de la Ley Agraria;
+XXVI. Aprobar, ejecutar, controlar, evaluar y revisar, en forma conjunta con los gobiernos municipales respectivos, los planes parciales que se expidan para la utilización parcial o total de la reserva territorial y de las zonas sujetas a conservación ecológica;
 
 XXV. Ejercer el derecho de preferencia que corresponde al Gobierno del Estado en lo relativo a reservas urbanas;
 
@@ -313,7 +369,9 @@ XXXII. Promover la solidaridad en la atención de los problemas generados en los
 
 XXXIII. En coordinación con los gobiernos municipales, promover la constitución de asociaciones para la conservación y mejoramiento de sitios y fincas afectos al Patrimonio Cultural del Estado y apoyarlas en sus actividades;
 
-XXXIV. Aplicar las sanciones administrativas previstas en esta Ley, respecto de los actos u omisiones de los notarios y servidores públicos que violen las disposiciones legales relativas al registro, control y ejecución de los programas y planes de desarrollo urbano en el Estado y las declaratorias respectivas;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+XXXIV. Aplicar las sanciones administrativas previstas en esta Ley, respecto de los actos u omisiones de los notarios y servidores públicos que violen las disposiciones legales relativas al registro, control y ejecución de los programas y planes de desarrollo urbano en el Estado y la zonificación;
 
 XXXV. Resolver el recurso administrativo previsto en esta Ley; y
 
@@ -323,9 +381,13 @@ XXXVI. Las demás atribuciones que le otorguen la presente Ley y otras disposici
 
 La Secretaría es la dependencia de la Administración Pública Estatal que tiene a su cargo ejecutar la política del Gobierno del Estado en el sector de desarrollo urbano y vivienda. Sus atribuciones son las siguientes:
 
-I. Promover la presentación de proposiciones, captar información, realizar investigaciones y establecer amplia comunicación con toda clase de instituciones públicas y privadas, para la mejor elaboración del Programa Estatal de Desarrollo Urbano y de los programas y planes municipales de desarrollo urbano;
+> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
 
-II. Mantener un banco de datos sobre todas las áreas vinculadas al desarrollo urbano, a partir de la información que generen las dependencias y organismos de la Administración Pública Federal, así como la derivada del Programa Nacional de Desarrollo Urbano, a efecto de que puedan servirse de él las dependencias e instituciones vinculadas con el fenómeno urbano;
+I. Promover la presentación de proposiciones, concentrar y administrar información, realizar investigaciones y establecer mecanismos de difusión y comunicación con toda clase de instituciones públicas y privadas, para la mejor elaboración del Programa Estatal de Desarrollo Urbano y de los programas y planes municipales de desarrollo urbano;
+
+> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
+
+II. Concentrar y administrar la información geográfica y estadística vinculada al desarrollo urbano en los ámbitos estatal, regional y municipal, generada por las dependencias e instituciones públicas y privadas, así como la derivada del Plan Nacional de Desarrollo Urbano, a efecto de contribuir al Sistema de Información Territorial del Estado de Jalisco y puedan servirse de ella las dependencias e instituciones vinculadas al fenómeno urbano;
 
 III. Solicitar cuando se requiera, asesoría y apoyo técnico a las dependencias de la Administración Pública Federal, para la elaboración de los programas y planes de desarrollo urbano de carácter estatal, y los municipales, cuando el ayuntamiento correspondiente así lo haya pedido;
 
@@ -337,23 +399,35 @@ VI. Formular, ejecutar, evaluar y revisar el Programa Estatal de Vivienda, de co
 
 VII. Participar en forma conjunta con los ayuntamientos involucrados, conforme a las disposiciones de esta Ley y los respectivos convenios de coordinación, en la formulación, ejecución, control, evaluación y revisión de los planes regionales de desarrollo urbano;
 
-VIII. Revisar los programas y planes municipales de desarrollo urbano y sus declaratorias, sin menoscabo de la autonomía municipal, respecto de su congruencia en el conjunto de planes y programas y la observancia de las normas que regulan su expedición por parte de los ayuntamientos, para su publicación por el Gobernador del Estado;
+> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
 
-IX. Comprobar la inscripción en el Registro Público de la Propiedad de los diversos programas y planes de desarrollo urbano; de las declaratorias que reconozcan la existencia de una zona conurbada y las declaratorias que establezcan provisiones, usos, destinos y reservas de áreas y predios, una vez publicadas por el Gobernador del Estado y ordenado su registro;
+VIII. Revisar los programas y planes municipales de desarrollo urbano y la zonificación que se establezca en los mismos, sin menoscabo de la autonomía municipal, respecto de su congruencia en el conjunto de planes y programas y la observancia de las normas que regulan su expedición por parte de los ayuntamientos, para su publicación por el Gobernador del Estado;
 
-X. Proponer mecanismos de coordinación con la Autoridad Catastral, para integrar en sus registros la información derivada de los diversos programas y planes de desarrollo urbano y la zonificación de los centros de población, que resulte relevante para sus fines; y, por otra parte, facilitar la información catastral para elaborar, aplicar y revisar los mismos programas, planes y sus declaratorias;
+> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
+
+IX. Comprobar la inscripción en el Registro Público de la Propiedad de los diversos programas y planes de desarrollo urbano; de la zonificación que se establezca en los mismos programas o planes; y de los convenios que reconozcan la existencia de una zona conurbada, una vez publicados por el Gobernador del Estado y ordenado su registro;
+
+> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
+
+X. Proponer mecanismos de coordinación con la Autoridad Catastral, para integrar en sus registros la información derivada de los diversos programas y planes de desarrollo urbano y la zonificación de los centros de población, que resulte relevante para sus fines; y, por otra parte, facilitar la información catastral para elaborar, aplicar y revisar los mismos programas y planes y la zonificación que se establezca en los mismos;
+
+> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
 
 XI. Difundir los programas estatales y municipales de desarrollo urbano y facilitar su consulta pública;
 
 XII. Promover acciones de información y capacitación, dirigidos al personal de la Administración Pública Estatal y de los gobiernos municipales, relacionados con la ejecución y supervisión de acciones en materia de desarrollo urbano, vivienda y ecología;
 
-XIII. Formular, en forma conjunta con los municipios integrados en una zona conurbada, su plan de ordenamiento, sus declaratorias y coordinar su ejecución, en su carácter de Secretaría Técnica de la Comisión;
+> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
+
+XIII. Formular, en forma conjunta con los municipios integrados en una zona conurbada, su plan de ordenamiento y coordinar su ejecución, en su carácter de Secretaría Técnica de la Comisión;
 
 XIV. Apoyar a los ayuntamientos que lo soliciten, en la elaboración de sus programas y planes municipales;
 
 XV. Participar, en el área de su competencia, en la elaboración y revisión de los convenios de coordinación que acuerde el Gobernador del Estado, con las dependencias de la Administración Pública Federal, los gobiernos de otras entidades federativas y de los municipios, a fin de ejecutar acciones conforme a las finalidades y objetivos propuestos en los diversos programas y planes de desarrollo urbano;
 
-XVI. Coordinar las acciones que en materia de desarrollo urbano, implemente el Gobierno Federal en apoyo al Estado y los municipios;
+> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
+
+XVI. Coordinar las acciones que en materia de desarrollo urbano, que implemente el Gobierno Federal en apoyo al Estado y los municipios;
 
 XVII. Auxiliar, a los ayuntamientos que lo soliciten, en la ejecución de obras que de acuerdo a las autorizaciones y permisos expedidos, debieron ejecutarlas los particulares a su cargo;
 
@@ -365,7 +439,9 @@ XX. Participar en la elaboración y revisión de los convenios y contratos que c
 
 XXI. Efectuar los trabajos informativos y técnicos, a fin de establecer o precisar los límites de los centros de población y de las zonas conurbadas intermunicipales;
 
-XXII. Dictaminar, en caso de controversia, a fin de precisar los predios incluidos en las declaratorias de provisiones, usos, destinos y reservas;
+> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
+
+XXII. Dictaminar, en caso de controversia, a fin de precisar los predios incluidos en las áreas y zonas que se clasifiquen y establezcan en los programas y planes de desarrollo urbano;
 
 XXIII. Definir los criterios técnicos para la ubicación de los inmuebles destinados a oficinas y servicios públicos de las dependencias y entidades de la Administración Pública Estatal;
 
@@ -379,7 +455,9 @@ XXVII. Señalar las bases con arreglo a las disposiciones vigentes, para determi
 
 XXVIII. Apoyar a la Procuraduría General de Justicia del Estado en los juicios sobre determinación del monto de las indemnizaciones legales, en los términos de la Ley de Expropiación de Bienes Muebles e Inmuebles de Propiedad Privada;
 
-XXIX. Conforme a la participación que corresponde al Gobierno del Estado, intervenir en la operación del Sistema Nacional de Suelo y Reservas Territoriales para el Desarrollo Urbano y la Vivienda, en los términos de los convenios de coordinación que se establezcan con el Gobierno Federal y los gobiernos municipales;
+> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
+
+XXIX. Conforme a la participación que corresponde al Gobierno del Estado, intervenir en la instrumentación de la política integral de suelo urbano y reservas territoriales, en los términos de los convenios de coordinación que se establezcan con el Gobierno Federal y los gobiernos municipales;
 
 XXX. Participar, en forma coordinada con los gobiernos municipales, en la elaboración, ejecución, control, evaluación y revisión de los planes parciales que se expidan para la utilización parcial o total de la reserva territorial y de las zonas sujetas a conservación ecológica;
 
@@ -417,11 +495,17 @@ I. Formular, aprobar, administrar, ejecutar, evaluar y revisar el Programa Munic
 
 II. Asegurar la congruencia de los programas y planes a que se refiere la fracción anterior, con el Programa Estatal de Desarrollo Urbano y los planes regionales, haciendo las proposiciones que estime pertinentes;
 
-III. Aprobar las declaratorias de usos, destinos y reservas de áreas y predios, derivadas de los programas y planes de desarrollo urbano;
+> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
 
-IV. Solicitar al Titular del Poder Ejecutivo del Estado la publicación e inscripción del Programa Municipal de Desarrollo Urbano, de los planes de desarrollo urbano de los centros de población, de los planes parciales de urbanización y de las declaratorias de usos, destinos y reservas de áreas y predios correspondientes;
+III. Formular y aprobar la zonificación de los centros de población en los programas y planes de desarrollo urbano respectivos;
 
-V. Administrar la zonificación urbana de los centros de población, contenida en los programas y planes de desarrollo urbano y sus declaratorias;
+> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
+
+IV. Solicitar al Titular del Poder Ejecutivo del Estado la publicación e inscripción del Programa Municipal de Desarrollo Urbano, de los planes de desarrollo urbano de los centros de población, de los planes parciales de urbanización y de la determinación de usos, destinos y reservas de áreas y predios correspondientes;
+
+> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
+
+V. Administrar la zonificación urbana de los centros de población, contenida en los programas y planes de desarrollo urbano;
 
 VI. Dar difusión al Programa Municipal de Desarrollo Urbano y a los planes y programas derivados del mismo;
 
@@ -431,7 +515,9 @@ VIII. Solicitar ante el Congreso del Estado, la fijación o modificación de los
 
 IX. Participar, en forma coordinada con el Gobierno del Estado y conforme al convenio respectivo, en los procesos previstos por esta Ley para formular, aprobar, ejecutar, controlar, evaluar y revisar, los planes regionales de desarrollo urbano;
 
-X. Participar en el ordenamiento y regulación de las zonas conurbadas que incluyan centros de población de su territorio, conforme las disposiciones legales y el decreto que expida el Ejecutivo Federal o la declaratoria que formule el Titular del Poder Ejecutivo Estatal;
+> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
+
+X. Participar en el ordenamiento y regulación de las zonas conurbadas que incluyan centros de población de su territorio, conforme las disposiciones legales y el convenio donde se reconozca su existencia;
 
 XI. Solicitar al Gobierno del Estado el apoyo necesario para cumplir con las finalidades de esta Ley en el ámbito de su jurisdicción, mediante la celebración del convenio de coordinación que corresponda;
 
@@ -449,7 +535,9 @@ XVII. Asociarse con otras entidades públicas o con particulares para coordinar 
 
 XVIII. Expedir los reglamentos y disposiciones administrativas que fueren necesarios, de conformidad con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, sobre las bases normativas que expida el Congreso del Estado y las disposiciones de la presente Ley;
 
-XIX. Expedir el dictamen de usos y destinos, referidos a las declaratorias vigentes;
+> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
+
+XIX. Expedir el dictamen de usos y destinos, referidos a la zonificación del centro de población, área y zona donde se localice el predio;
 
 XX. Expedir el dictamen de trazo, usos y destinos específicos, referidos a los Planes Parciales de Urbanización que se elaboren para gestionar la acción urbanística;
 
@@ -457,7 +545,9 @@ XXI. Otorgar o negar las autorizaciones para ejecutar obras de urbanización y e
 
 XXII. Otorgar o negar las autorizaciones o licencias de fusiones, subdivisiones y relotificaciones de predios;
 
-XXIII. Acordar la incorporación o reincorporación de áreas o predios donde se hayan ejecutado obras de urbanización;
+> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
+
+XXIII. Autorizar la incorporación o reincorporación de áreas o predios donde se hayan ejecutado obras de urbanización;
 
 XXIV. Acordar la recepción de obras de urbanización;
 
@@ -495,11 +585,15 @@ XL. Promover la participación y recibir las opiniones de los grupos sociales qu
 
 XLI. Promover la participación solidaria de la población en la solución de los problemas de infraestructura y equipamiento urbanos, servicios públicos vivienda popular y vivienda de interés social;
 
-XLII. Proveer en el ámbito de su competencia, al cumplimiento de las disposiciones de esta Ley;
+> <small>(ADICIONADA P.O. 17 DE ENERO DE 1998)</small>
 
-XLIII. Tramitar y resolver el recurso administrativo previsto en esta Ley; y
+XLII. Delegar en (sic) a los peritos en su supervisión municipal la función de vigilar las acciones de urbanización o edificación y la aprobación de proyectos de edificación;
 
-XLIV. Las demás que le señalen esta Ley y otras normas y reglamentos aplicables.
+XLIII. Proveer en el ámbito de su competencia, al cumplimiento de las disposiciones de esta Ley;
+
+XLIV. Tramitar y resolver el recurso administrativo previsto en esta Ley; y
+
+XLV. Las demás que le señalen esta Ley y otras normas y reglamentos aplicables.
 
 ###### Artículo 13.
 
@@ -507,7 +601,9 @@ Son obligaciones y facultades del Presidente Municipal:
 
 I. Solicitar a la Secretaría la información relativa a los programas y planes nacionales y estatales de desarrollo urbano que requiera el Ayuntamiento, para elaborar y revisar los programas y planes municipales;
 
-II. Supervisar la elaboración, ejecución, control, evaluación y revisión del Programa Municipal de Desarrollo Urbano, de los planes que se deriven del mismo y de las declaratorias de usos, destinos y reservas, procurando exista congruencia entre esos mismos programas y planes, con el Plan Municipal de Desarrollo y los diversos programas y planes de desarrollo urbano estatales y nacionales aplicables en su territorio;
+> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
+
+II. Supervisar la elaboración, ejecución, control, evaluación y revisión del Programa Municipal de Desarrollo Urbano, de los planes que se deriven del mismo y de la determinación de usos, destinos y reservas, procurando exista congruencia entre esos mismos programas y planes, con el Plan Municipal de Desarrollo y los diversos programas y planes de desarrollo urbano estatales y nacionales aplicables en su territorio;
 
 III. Difundir los programas y planes de desarrollo urbano aplicables en el territorio municipal;
 
@@ -521,7 +617,9 @@ VII. Ejecutar las determinaciones del Cabildo en materia de ordenamiento y regul
 
 VIII. Garantizar la existencia de sistemas de información y orientación al público sobre tramitación de permisos, autorizaciones, licencias y en general de todo lo concerniente al ámbito de aplicación de la presente Ley;
 
-IX. Dar el trámite que corresponda, conforme las disposiciones de esta Ley y normas reglamentarias aplicables a la zonificación de los centros de población, a las solicitudes de dictámenes de usos, destinos y reservas, de áreas y predios incluidos en las declaratorias;
+> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
+
+IX. Dar el trámite que corresponda, conforme las disposiciones de esta Ley y normas reglamentarias aplicables a la zonificación de los centros de población, a las solicitudes de dictámenes de usos, destinos y reservas, de áreas y predios;
 
 X. En el ámbito de su competencia, dar el trámite que corresponda a las autorizaciones de obras de urbanización y edificación que integran la acción urbanística, de acuerdo a las normas de esta Ley y demás disposiciones legales aplicables;
 
@@ -553,9 +651,11 @@ La Procuraduría de Desarrollo Urbano es la institución pública a quién corre
 
 De las conurbaciones.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 15.
 
-Las conurbaciones que se presenten entre centros de población de dos o más municipios localizados en el territorio estatal, serán formalmente reconocidas mediante declaratoria que al efecto expida el Titular del Poder Ejecutivo Local o por acuerdo del mismo y los ayuntamientos involucrados, en los casos previstos en el artículo 18 de esta Ley.
+Las conurbaciones que se presenten entre centros de población de dos o más municipios localizados en el territorio estatal, serán formalmente reconocidas mediante convenio que al efecto celebre el Titular del Poder Ejecutivo Local y los ayuntamientos involucrados, en los casos previstos en el artículo 18 de esta Ley.
 
 Para su ordenamiento y regulación la zona conurbada será considerada como un solo centro de población.
 
@@ -567,41 +667,63 @@ En el caso de zonas conurbadas en donde participe el Estado con una o más entid
 
 El ordenamiento y regulación de los procesos de conurbación entre centros de población de un mismo municipio, se efectuarán mediante el Programa Municipal de Desarrollo Urbano y los planes de desarrollo urbano de los mismos.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 17.
 
-Cuando el Gobernador del Estado determine reconocer la existencia de una zona conurbada, expedirá la declaratoria conforme al procedimiento siguiente:
-
-I. La Secretaría elaborará el proyecto de límites de la zona conurbada;
-
-II. El Gobernador del Estado presentará el proyecto de límites a los ayuntamientos involucrados para que expresen sus opiniones;
-
-III. Definido el proyecto de límites, el Gobernador lo someterá a consideración del Congreso del Estado para su análisis y aprobación, en su caso; y
-
-IV. Una vez aprobados los límites de la zona de conurbación por el Congreso del Estado, el Gobernador procederá a expedir la declaratoria correspondiente y ordenará su publicación.
-
-###### Artículo 18.
-
-El Gobernador del Estado y los ayuntamientos respectivos, podrán acordar que se considere la existencia de una zona de conurbación cuando:
+El Gobernador del Estado y los ayuntamientos respectivos, deberán acordar que existe una zona de conurbación cuando:
 
 I. Solamente uno de los centros de población crezca sobre la zona de conurbación;
 
-II. Dos o más centros de población se encuentren ubicados fuera de la zona de conurbación, pero por sus características geográficas, sus tendencias de crecimiento y sus relaciones socio-económicas se considere conveniente el estudio integrado de su desarrollo urbano; y
+II. Dos o más centros de población se encuentren ubicados fuera de la zona de conurbación, pero por sus características geográficas, sus tendencias de crecimiento y sus relaciones socio-económicas se considere conveniente el estudio y resolución conjunta de su desarrollo urbano; y
 
-III. Se proyecte o se funde un centro de población y se prevea su expansión en el territorio de municipios vecinos.
+III. Se proyecte o funde un centro de población y se prevea su expansión o influencia funcional en el territorio de municipios vecinos.
 
-El acuerdo que se celebre en los términos de este artículo, una vez aprobado por el Congreso del Estado, tendrá efectos de declaratoria y el Titular del Poder Ejecutivo Estatal ordenará su publicación.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
+###### Artículo 18.
+
+Cuando el Gobernador del Estado, por su iniciativa o a solicitud de algún Municipio, determine reconocer la existencia de una zona conurbada, promoverá la celebración del convenio conforme al siguiente procedimiento:
+
+I. La Secretaría elaborará el proyecto de límites de la zona conurbada;
+
+II. El Ejecutivo del Estado presentará el proyecto de límites a los ayuntamientos involucrados para que expresen sus opiniones;
+
+III. Definido el proyecto de límites, el Gobernador lo someterá a consideración del Congreso del Estado para su análisis y aprobación, en su caso;
+
+IV. Una vez aprobados los límites de la zona de conurbación por el Congreso del Estado, el Gobernador y los ayuntamientos procederá (sic) a celebrar el convenio donde se dispondrá la formulación del Plan de Ordenamiento y se establecerán las bases generales de coordinación, a efecto de ordenar y regular los centros de población comprendidos; y
+
+V. El Gobernador de Estado ordenará la publicación de convenio conforme a las disposiciones de esta Ley.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 19.
 
-Una vez publicada la declaratoria o el acuerdo donde se reconozca la existencia de una zona conurbada, el Titular del Poder Ejecutivo Estatal por conducto del Secretario General de Gobierno convocará a los presidentes de los municipios involucrados para constituir dentro de los treinta días siguientes, una comisión de carácter permanente que elabore el plan de ordenamiento; y que promueva y vigile su ejecución y cumplimiento.
+El convenio que se celebre con base en lo previsto en el artículo anterior contendrá:
 
-La comisión será presidida por el Gobernador del Estado o por la persona que designe para presidirla en su representación.
+I. La localización, extensión y delimitación de la zona conurbada;
 
-La Secretaría actuará como Secretaría Técnica de la Comisión.
+II. Los compromisos del Estado y de los municipios respectivos, para planear y regular conjunta y coordinadamente los centros de población conurbados, con base en un programa de ordenación de la zona conurbada;
+
+III. Los compromisos de coordinación reglamentaria, procedimientos administrativos y fiscales;
+
+IV. La determinación de acciones e inversiones para la atención de requerimientos comunes en materia de reservas territoriales, preservación y equilibrio ecológico, infraestructura, equipamiento y servicios urbanos en la zona conurbada;
+
+V. La integración y organización de la comisión de conurbación respectiva; y
+
+VI. Las demás acciones que para tal efecto convengan la Federación, las entidades federativas y los municipios respectivos.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 20.
 
-La Comisión de Zona Conurbada promoverá la participación de los distintos grupos sociales que integran la comunidad, en la elaboración y revisión del Plan de Ordenamiento respectivo, realizando su consulta pública en coordinación con el Consejo Estatal de Desarrollo Urbano.
+Una vez publicado el convenio donde se reconozca la existencia de una zona conurbada, el Titular del Poder Ejecutivo Estatal por conducto del Secretario General de Gobierno convocará a los presidentes de los municipios involucrados, para constituir dentro de los treinta días siguientes, una comisión de carácter permanente que elabore el plan de ordenamiento; y que promueva y vigile su ejecución y cumplimiento.
+
+La Comisión será presidida por el Gobernador del Estado o por la persona que designe para presidirla en su representación.
+
+La Secretaría actuará como Secretaría Técnica de la Comisión.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 21.
 
@@ -611,9 +733,15 @@ I. Elaborar, revisar y aprobar el Plan de Ordenamiento de la Zona Conurbada;
 
 II. Promover y gestionar ante las autoridades municipales correspondientes, el cumplimiento del Plan de Ordenamiento en el ámbito de su jurisdicción y de las decisiones que se tomen para ejecutar las acciones previstas en el mismo;
 
-III. Elaborar el reglamento interno de la Comisión; y
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 1998)</small>
 
-IV. Las demás que le atribuyan esta Ley y su reglamento.
+III. Promover la participación de los distintos grupos sociales que integran la comunidad, en la elaboración y revisión del Plan de Ordenamiento respectivo, realizando su consulta pública en coordinación con el Consejo Estatal de Desarrollo Urbano;
+
+IV. Elaborar el reglamento interno de la Comisión; y
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+V. Las demás que le atribuyan esta Ley y su reglamento.
 
 ###### Artículo 22.
 
@@ -649,6 +777,8 @@ De los organismos de participación social y consulta.
 
 La formulación, revisión, ejecución, control y evaluación de los programas y planes de desarrollo urbano, estarán sujetos a la participación y consulta permanente de los diversos grupos sociales que integran la comunidad, a través de los organismos de participación social y consulta que señala la presente Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 28.
 
 El Consejo Estatal de Desarrollo Urbano, es el organismo de promoción, participación social y consulta del Poder Ejecutivo Local, para impulsar el desarrollo urbano en la Entidad. Se integrará en forma permanente por:
@@ -663,7 +793,9 @@ a) Las Cámaras de Comercio en la Entidad;
 
 b) Las Cámaras de Industria especializadas con sede en el Estado;
 
-c) La Delegación de la Cámara Nacional de la Industria de la Construcción;
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
+c) La Delegación de la Cámara Mexicana de la Industria de la Construcción;
 
 d) La Delegación de la Cámara Nacional de Empresas de Consultoría;
 
@@ -693,11 +825,21 @@ o) Un representante de las asociaciones civiles especializadas en materia de mon
 
 p) La organización mayoritaria de los ejidatarios, comuneros y trabajadores agrícolas en el Estado de Jalisco; y
 
-q) La organización mayoritaria de propietarios rurales en el Estado;
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
-IV. Un representante de la Dependencia del Poder Ejecutivo Federal competente en materia de desarrollo urbano y ordenamiento territorial;
+q) La organización mayoritaria de propietarios rurales en el Estado; y
 
-V. Un representante por cada una de las dependencias y organismos del Poder Ejecutivo Estatal en materia de:
+> <small>(ADICIONADO, P.O. 17 DE ENERO DE 1998)</small>
+
+r) El Consejo de Peritos en Supervisión Municipal;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 1998)</small>
+
+IV. El Diputado Presidente de la Comisión de Desarrollo Urbano del Congreso del Estado;
+
+V. Un representante de la Dependencia del Poder Ejecutivo Federal competente en materia de desarrollo urbano y ordenamiento territorial; y
+
+VI. Un representante por cada una de las dependencias y organismos del Poder Ejecutivo estatal en materia de:
 
 a) Planeación económica y social;
 
@@ -791,7 +933,23 @@ XXVII. Conferir a sus miembros, comisiones especiales en la esfera de sus atribu
 
 XXVIII. Por medio de la comisión que integre conforme a su reglamento interno, asumir sus atribuciones en la tramitación de los procedimientos y recursos administrativos previstos en este ordenamiento; y
 
-XXIX. Las demás funciones que se le atribuyan en la presente Ley y sus normas reglamentarias.
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 1998)</small>
+
+XXIX. Crear y organizar su Comité Técnico en la forma y con las funciones que establezca en su reglamento, con el fin de:
+
+a) Apoyar las tareas y actividades del Consejo en coordinación con la Secretaría;
+
+b) Organizar, desarrollar y promover actividades de investigación en materia de desarrollo urbano;
+
+c) Elaborar los estudios técnicos que requiera el Consejo en sus promociones;
+
+d) Analizar y dar su opinión técnica sobre programas, planes y proyectos que le presenten las autoridades estatales y municipales para su opinión; y
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+XXX. Las demás funciones que se le atribuyan en la presente Ley y sus normas reglamentarias.
+
+XXX. Las demás funciones que se le atribuyan en la presente Ley y sus normas reglamentarias.
 
 ###### Artículo 33.
 
@@ -805,27 +963,23 @@ La mesa directiva del Consejo Estatal de Desarrollo Urbano, además del presiden
 
 Los consejos de colaboración municipal son los organismos de participación social en la gestión del desarrollo urbano municipal. Tendrán personalidad jurídica propia para adquirir bienes y celebrar actos jurídicos, con el propósito de participar en la acción urbanística, ejecutando obras de interés colectivo en su Municipio, cuando beneficien en forma directa o comunitaria a los habitantes o propietarios de predios o fincas de una zona, barrio o colonia del centro de población, quienes estarán obligados a colaborar para su ejecución conforme al procedimiento establecido en esta Ley.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 36.
 
 Los consejos de colaboración municipal radicarán en las cabeceras municipales correspondientes y se integrarán por:
 
-I. El Presidente Municipal;
-
-II. El Presidente de la Comisión de Planeación Socioeconómica y Urbanización o el regidor comisionado, en su caso;
-
-III. El Titular de la Dependencia Municipal a que se refiere la fracción XXXVI del artículo 6 de esta Ley;
-
-IV. Los representantes designados por cada uno de los organismos y grupos organizados de la localidad, que se citan a continuación:
+I. Los representantes designados por cada uno de los organismos y grupos organizados de la localidad, que se citan a continuación:
 
 a) La Cámara Nacional de Comercio;
 
-b) La Cámara Nacional de la Industria de la Transformación;
+b) El Consejo de Cámaras Industriales del Estado de Jalisco;
 
-c) La Cámara Nacional de la Industria de la Construcción;
+c) La Cámara Mexicana de la Industria de la Construcción;
 
 d) La Cámara Nacional de Empresas de Consultoría;
 
-e) La Cámara de la Propiedad Urbana;
+e) La organización mayoritaria de propietarios urbanos en el Estado;
 
 f) El colegio mayoritario de arquitectos;
 
@@ -841,35 +995,47 @@ k) La organización mayoritaria de propietarios rurales;
 
 l) La Asociación Ganadera Local;
 
-m) Los Clubes sociales y de servicio;
+m) Los clubes sociales y de servicio;
 
-> <small>(F. DE E., P.O. 9 DE DICIEMBRE DE 1995)</small>
-
-n) Un representante de las asociaciones civiles especializadas en materia de monumentos y sitios históricos;
+n) Las asociaciones civiles especializadas en materia de monumentos y sitios históricos;
 
 o) Las dos organizaciones obreras mayoritarias, conforme su registro en la Junta Local de Conciliación y Arbitraje;
 
-p) El sindicato patronal registrado ante la Junta Local de Conciliación y Arbitraje; y
+p) El sindicato patronal registrado ante la Junta Local de Conciliación y Arbitraje;
 
-q) Las dos organizaciones mayoritarias de asociaciones de vecinos en el Municipio, conforme las disposiciones que reglamenten su constitución y reconocimiento.
+q) Las dos organizaciones mayoritarias de asociaciones de vecinos en el Municipio, conforme las disposiciones que reglamenten su constitución y reconocimiento; y
 
-Por cada representante propietario se nombrará un suplente.
+r) El Consejo de Peritos en Supervisión Municipal;
+
+II. El Presidente Municipal;
+
+III. El Presidente de la Comisión de Planeación Socioeconómica y Urbanización o el regidor comisionado, en su caso;
+
+IV. El Titular de la Dependencia Municipal a que se refiere la fracción XXXVI del artículo 6 de esta Ley;
+
+V. Por cada representante propietario se nombrará un suplente.
 
 ###### Artículo 37.
 
 Forman parte del Consejo de Colaboración Municipal de Guadalajara, los titulares de los siguientes órganos de la Administración Pública Estatal:
 
-I. La Secretaría;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
 
-II. La dependencia del Poder Ejecutivo Estatal en materia de salud pública; y
+I. La Dependencia del Poder Ejecutivo Estatal en materia de finanzas; y
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+II. La Secretaría.
 
 III. En las obras en que el Estado hubiere hecho aportación económica, la Dependencia del Poder Ejecutivo Estatal en materia de finanzas.
 
 Cada titular de estas dependencias, designará un representante suplente.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 38.
 
-En los municipios en donde no existan los organismos y grupos organizados previstos en la fracción IV del artículo 36 que antecede, el Ayuntamiento solicitará a las instituciones sociales y privadas correspondientes registradas ante el Estado, que nominen a un agremiado de su localidad como representante ante este Consejo. En caso de no hacer la designación, la representación se declarará vacante.
+En los municipios en donde no existan los organismos y grupos organizados previstos en la fracción IV del artículo 36 que antecede, el Consejo de Colaboración Municipal solicitará a las instituciones sociales y privadas correspondientes registradas ante el Estado, que nominen a un agremiado de su localidad como representante. En caso de no hacer la designación, la representación se declarará vacante.
 
 ###### Artículo 39.
 
@@ -917,11 +1083,17 @@ XI (sic). De acuerdo con el Ayuntamiento respectivo, ejercitar las acciones así
 
 XII. Solicitar al Ayuntamiento la ejecución de obras por administración, en caso de declararse desierto el concurso correspondiente o incumplimiento del contratista designado;
 
-XIII. Proponer al Ayuntamiento como miembros del Consejo aquellas asociaciones no comprendidas en la fracción V del artículo 37 que antecede, cuya participación conforme a las características de su localidad y sus comunidades, sea relevante para los fines del desarrollo urbano, quienes en caso de ser aceptados formarán parte del mismo;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+XIII. Proponer al Ayuntamiento como miembros del Consejo aquellas asociaciones o personas no comprendidas en la fracción I del artículo 36 que antecede, cuya participación conforme las características de su localidad y sus comunidades, sea relevante para los fines del desarrollo urbano, quienes en caso de ser aceptados formarán parte del mismo;
 
 XIV. Elaborar y en su caso modificar, el reglamento que regule sus actividades, mismo que deberá ser sancionado por el Ayuntamiento;
 
-XV. En general, ejecutar todas las acciones necesarias para el mejor cumplimiento de sus fines en la promoción del desarrollo de su comunidad, conforme a las disposiciones de esta Ley y su reglamento municipal.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+XV. En general ejecutar todas las acciones necesarias para el mejor cumplimiento de sus fines en la promoción del desarrollo de su comunidad, conforme a las disposiciones legales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 41.
 
@@ -931,7 +1103,9 @@ I. Elaborar el proyecto de Plan Parcial de Urbanización correspondiente a su zo
 
 II. Promover ante el Ayuntamiento se expida o revise el Plan Parcial de Urbanización correspondiente a su zona, colonia o barrio, procediendo conforme a la fracción anterior o presentando propuestas específicas y solicitando se integre el proyecto respectivo;
 
-III. Convocadas por el Ayuntamiento y el Consejo de Colaboración Municipal, opinar en relación a las acciones urbanísticas y las declaratorias de usos y destinos, propuestas en proyectos de programas o planes de desarrollo urbano que los afecten;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+III. Convocadas por el Ayuntamiento y el Consejo de Colaboración Municipal, opinar en relación con las acciones urbanísticas y la determinación de usos y destinos, propuestas en proyectos de programas o planes de desarrollo urbano que los afecten;
 
 IV. Vigilar el cumplimiento de las disposiciones autorizadas en el Plan Parcial de Urbanización correspondiente a su zona, barrio o colonia, por parte de las autoridades y los particulares; y
 
@@ -957,53 +1131,71 @@ De la planeación del desarrollo urbano.
 
 De los programas y planes de desarrollo urbano.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 43.
 
-El ordenamiento y regulación de los centros de población en el Estado se efectuará a través de:
+El ordenamiento y regulación de los centros de población en el Estado se efectuará a través de un sistema de planes y programas los cuales por sus objetivos, contenido, elementos informativos, acciones, área de aplicación y efectos jurídicos, se clasifican e integran en la forma siguiente:
 
-I. El Programa Estatal de Desarrollo Urbano;
+I. Planes y programas básicos:
 
-II. Los programas y planes a nivel regional que comprenden:
+a) El Programa Estatal de Desarrollo Urbano;
+
+b) El Programa Municipal de Desarrollo Urbano;
+
+c) Los planes de desarrollo urbano de centros de población; y
+
+d) Los programas de ordenamiento ecológico local, previstos y regulados en la legislación en materia de equilibrio ecológico y protección al ambiente.
+
+II. Planes y programas derivados:
+
+a) Los planes parciales de desarrollo urbano; y
+
+b) Los planes parciales de urbanización.
+
+III. Planes y programas de coordinación:
 
 a) Los planes regionales de desarrollo urbano;
 
-b) Los programas que ordenen y regulen a las zonas conurbadas interestatales, donde participe el Estado con una o más entidades federativas, en los términos previstos por la Ley General de Asentamientos Humanos; y
+b) Los programas que ordenen y regulen a las zonas conurbadas interestatales, donde participe el Estado con una o más entidades federativas, en los términos previstos por la Ley General de Asentamientos Humanos;
 
-c) Los planes que ordenen y regulen a las zonas conurbadas intermunicipales, donde participe el Estado con dos o más municipios de esta misma Entidad; y
+c) Los planes que ordenen y regulen a las zonas conurbadas intermunicipales, donde participe el Estado con dos o más municipios de esta misma Entidad;
 
-III. El Programa Municipal de Desarrollo Urbano que integra:
+d) Los programas de ordenamiento ecológico regional, previstos y regulados por la legislación en materia de equilibrio ecológico y protección al ambiente; y
 
-a) Los planes de desarrollo urbano de centros de población;
+e) Los planes parciales de urbanización donde se regulen y autoricen acciones intermunicipales.
 
-b) Los planes parciales que se expidan para la utilización parcial o total de la reserva territorial y de las zonas sujetas a conservación ecológica; y
-
-c) Los planes parciales de urbanización.
-
-Los programas y planes de desarrollo urbano a que se refiere el presente artículo, deberán ser congruentes con los objetivos, políticas y metas establecidas en los Planes Estatal y Municipales de Desarrollo expedidos conforme a las disposiciones aplicables en materia de planeación.
+Los programas y planes de desarrollo urbano a que se refiere el presente artículo, deberán ser congruentes con los objetivos, políticas y metas establecidas en los planes estatal y municipales de desarrollo expedidos conforme a las disposiciones aplicables en materia de planeación.
 
 ###### Artículo 44.
 
 Los programas y planes a que se refiere el artículo anterior, integran el conjunto de políticas, disposiciones y acciones definidas para alcanzar los objetivos propuestos en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, para ordenar el asentamiento humano y establecer adecuadas provisiones, usos, destinos y reservas de tierras, a efecto de ejecutar obras públicas y regular la fundación, conservación, mejoramiento y crecimiento de los centros de población en el Estado.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 45.
 
-Los programas y planes de desarrollo urbano y las declaratorias de provisiones, usos, destinos y reservas que se expidan para integrar las zonificaciones de los centros de población, se elaborarán conforme las disposiciones de esta Ley y serán publicados en forma abreviada en el Periódico Oficial "El Estado de Jalisco" y en dos diarios de mayor circulación, en un plazo de veinte días a partir de la fecha en que se solicite su publicación al Ejecutivo Estatal.
+Los programas y planes de desarrollo urbano y la determinación de provisiones, usos, destinos y reservas que integran las zonificaciones de los centros de población, se elaborarán conforme las disposiciones de esta Ley y serán publicados en forma abreviada en el Periódico Oficial "El Estado de Jalisco" en un plazo de veinte días a partir de la fecha en que se solicite su publicación al Ejecutivo Estatal. Asimismo, se publicará en los diarios de mayor circulación en las localidades comprendidas en el área de aplicación del programa o plan, una inserción donde se informe respecto a su aprobación y publicación en el Periódico Oficial "El Estado de Jalisco".
 
-Los programas y planes a nivel estatal y regional se publicarán en dos diarios con circulación en el Estado.
-
-Los programas y planes municipales, las declaratorias y los acuerdos administrativos, se publicarán en un diario de circulación estatal y en su caso, en un diario que se edite en la Cabecera Municipal que corresponda.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 46.
 
-El Gobernador del Estado solamente ordenará la publicación e inscripción de un programa o plan municipal de desarrollo o de alguna declaratoria derivada de éstos, si previamente ha sido aprobado por el Ayuntamiento con apego a las disposiciones de esta Ley y si existe congruencia, con los programas y planes de desarrollo urbano aplicables a nivel estatal, regional y municipal.
+El Gobernador del Estado solamente ordenará la publicación e inscripción de un programa o plan municipal de desarrollo urbano, si previamente ha sido aprobado por el Ayuntamiento con apego a las disposiciones de esta Ley y si existe congruencia, con los programas y planes de desarrollo urbano y de ordenamiento ecológico aplicables a nivel estatal, regional, municipal y local.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 47.
 
-Los programas y planes previstos en el artículo 43 de esta Ley y las declaratorias de provisiones, usos, destinos y reservas, entrarán en vigor a partir de su publicación en el Periódico Oficial "El Estado de Jalisco" y deberán ser inscritos dentro de los veinte días siguientes en el Registro Público de la Propiedad.
+Los programas y planes previstos en el artículo 43 de esta Ley, entrarán en vigor a partir de su publicación en el Periódico Oficial "El Estado de Jalisco" y deberán ser inscritos dentro de los veinte días en el Registro Público de la Propiedad.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 48.
 
-Los programas y planes de desarrollo urbano tendrán la vigencia que se determine en cada caso, conforme a las disposiciones y acciones establecidas en los mismos. Cuando no se establezca un término de vigencia, el programa o plan de desarrollo urbano se mantendrá en vigor, hasta que sea modificado, substituido o cancelado, conforme a las disposiciones de este ordenamiento.
+Los programas y planes de desarrollo urbano y la determinación de provisiones, usos, destinos y reservas que integran las zonificaciones de los centros de población, así como los dictámenes o certificaciones que se expidan con fundamento en los mismos, tendrán vigencia indefinida; y se modificarán, substituirán o cancelarán, conforme a las disposiciones de esta Ley.
+
+Los programas y planes de desarrollo urbano que se expidan para regularizar la urbanización y edificación, a efecto de realizar acciones específicas de conservación, mejoramiento o crecimiento, tendrán la vigencia que se determine en cada caso, conforme a las disposiciones y acciones establecidas en los mismos.
 
 ###### Artículo 49.
 
@@ -1017,7 +1209,9 @@ III. La descripción del área de aplicación, con su respectivo gráfico;
 
 IV. Los objetivos generales del mismo;
 
-V. En su caso, la descripción relativa a las declaratorias de provisiones, reservas, usos y destinos, con su respectivo gráfico;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+V. En su caso, la descripción relativa a la determinación de provisiones, reservas, usos y destinos, con su respectivo gráfico;
 
 VI. La descripción general de las acciones que se instrumenten y los plazos previstos para su realización;
 
@@ -1025,9 +1219,11 @@ VII. La descripción general de las obligaciones que se deriven del mismo, a car
 
 VIII. La indicación de los plazos para que los afectados interpongan el recurso previsto en la presente Ley.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 50.
 
-De cada programa o plan de desarrollo urbano y las declaratorias que ordene publicar, el Gobernador remitirá copias al Congreso del Estado, para los efectos de la fracción IV del Artículo 9 de esta Ley y a la Procuraduría de Desarrollo Urbano.
+De cada programa o plan de desarrollo urbano, el Ejecutivo Estatal remitirá copias al Congreso del Estado, para los efectos de la fracción V del Artículo 9 de esta Ley y a la Procuraduría de Desarrollo Urbano.
 
 ###### Artículo 51.
 
@@ -1037,15 +1233,27 @@ Los programas y planes de desarrollo urbano y las declaratorias de usos, destino
 
 Del Programa Estatal de Desarrollo Urbano.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 52.
 
 El Programa Estatal de Desarrollo Urbano es el documento rector de esta materia en el Estado, donde se integran el conjunto de estudios, políticas, normas técnicas, disposiciones e instrumentos tendientes a promover el desarrollo integral del asentamiento humano de la Entidad.
 
-El Programa Estatal de Desarrollo Urbano establece el compromiso del Gobierno del Estado en materia de ordenamiento y regulación de los centros de población. Se expide para imprimir unidad y congruencia a las actividades de la Administración Pública Estatal y, en especial, a todas las dependencias y entidades coordinadas del sector. Asimismo, el Programa servirá de referencia a las actividades que se desarrollen con la participación de los municipios y la Federación a partir de los convenios de coordinación respectivos.
+El Programa Estatal de Desarrollo Urbano:
+
+I. Establece el compromiso del Gobierno del Estado en materia de ordenamiento y regulación de los centros de población;
+
+II. Propone las prioridades de inversión estatal y regional, para efectos de coordinación con el Gobierno Federal y los Gobiernos Municipales;
+
+III. Tiene como finalidad imprimir unidad y congruencia a las actividades de la Administración Pública Estatal y, en especial, a todas las dependencias y entidades coordinadas del sector; y
+
+IV. Constituye el marco de referencia a las actividades que se desarrollen con la participación de los municipios y la Federación a partir de los convenios de coordinación respectivos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 53.
 
-Los objetivos del Programa Estatal de Desarrollo Urbano, estarán dirigidos a promover el desarrollo urbano en los centros de población, conforme a las disposiciones de los artículo (sic) 4 y 5 de esta Ley, en congruencia con el Programa Nacional de Desarrollo Urbano. Estos objetivos son:
+Los objetivos del Programa Estatal de Desarrollo Urbano, estarán dirigidos a promover el desarrollo urbano en los centros de población, conforme a las disposiciones de los artículos 4 y 5 de esta Ley, en congruencia con el Programa Nacional de Desarrollo Urbano. Estos objetivos son:
 
 I. Lograr el equilibrio poblacional de la Entidad, conforme a la capacidad de cada una de las regiones que la integran, considerando su extensión territorial, recursos naturales, industria y servicios, orientando las corrientes migratorias hacia los centros de población donde se defina una política de estímulo;
 
@@ -1059,7 +1267,9 @@ V. Desconcentrar las áreas urbanas de la Entidad en donde se presente un crecim
 
 VI. Promover el asentamiento de la población dispersa en el medio rural, en centros de población que garanticen un mínimo de condiciones de infraestructura y servicios;
 
-VII. Distribuir equitativamente en la Entidad los beneficios y cargas que genere el proceso de urbanización, a fin de promover un desarrollo integral;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+VII. Distribuir equitativamente en la Entidad los beneficios y cargas que genere el proceso de urbanización, a fin de promover un desarrollo más equitativo;
 
 VIII. Salvaguardar los recursos naturales y mantener el equilibrio ecológico;
 
@@ -1077,17 +1287,37 @@ I. El diagnóstico de la situación del desarrollo estatal en relación con el n
 
 II. Los requerimientos que planteen los aspectos demográficos, sociales, culturales, económicos, políticos y administrativos de la Entidad;
 
-III. El diagnóstico de los problemas de los centros de población de la Entidad, con sus causas y efectos;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
 
-IV. Las condiciones en que se presente o tienda a presentarse el fenómeno de conurbación en la Entidad;
+III. La estructuración regional del territorio estatal;
 
-V. El régimen de la tenencia de la tierra y la utilización de las áreas y predios para el desarrollo urbano;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
 
-VI. Las alternativas y métodos compatibles con los recursos disponibles en la Entidad, para la aplicación de la presente Ley;
+IV. El diagnóstico de los problemas de los centros de población de la Entidad, con sus causas y efectos;
 
-VII. Los convenios y acciones de inversión pública federal, estatal y municipal; y
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
 
-VIII. Todos los demás aspectos que permitan la realización de las acciones previstas en este Programa Estatal.
+V. Las condiciones en que se presente o tienda a presentarse el fenómeno de conurbación en la Entidad;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+VI. El régimen de la tenencia de la tierra y la utilización de las áreas y predios para el desarrollo urbano;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+VII. Las alternativas y métodos compatibles con los recursos disponibles en la Entidad, para la aplicación de la presente Ley;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+VIII. Las prioridades de inversión en obras de infraestructura y equipamiento estatal y regional;
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 1998)</small>
+
+IX. Los convenios y acciones de inversión pública federal, estatal y municipal; y
+
+> <small>(ADICIONADA, P.O. 17 DE ENERO DE 1998)</small>
+
+X. Las estrategias planteadas y todos los demás aspectos que permitan la realización de las acciones previstas en este Programa Estatal.
 
 ###### Artículo 55.
 
@@ -1111,6 +1341,8 @@ VIII. Los estudios de factibilidades técnica y económica donde se incluyan pro
 
 IX. La descripción de los mecanismos de instrumentación operativa, técnica, jurídica, fiscal y de información.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 56.
 
 Los objetivos del Programa Estatal de Desarrollo Urbano se realizarán a través de las siguientes acciones:
@@ -1121,33 +1353,33 @@ II. La jerarquización de un sistema de regiones y centros de población para pr
 
 III. La fundación de centros de población;
 
-IV. La conservación, mejoramiento y previsión del crecimiento en los existentes;
+IV. El establecimiento de las zonas conurbadas;
 
-V. El Establecimiento de las zonas conurbadas;
+V. La integración y aplicación de las medidas de protección de áreas naturales protegidas en las acciones de fundación, conservación, mejoramiento y crecimiento de los centros de población, para asegurar la congruencia del ordenamiento territorial con el ordenamiento ecológico de la Entidad;
 
-VI. La integración y aplicación de las medidas de protección de áreas naturales protegidas en las acciones de fundación, conservación, mejoramiento y crecimiento de los centros de población, para asegurar la congruencia del ordenamiento territorial con el ordenamiento ecológico de la Entidad;
+VI. La identificación y clasificación de las zonas y elementos naturales de riesgos, para la aplicación de las disposiciones de seguridad a los centros de población;
 
-VII. La identificación y clasificación de las zonas y elementos naturales de riesgos, para la aplicación de las disposiciones de seguridad a los centros de población;
+VII. La identificación y clasificación, para su conservación y mejoramiento, de los centros de población que cuenten con elementos de valor histórico, artístico o cultural, afectos al Patrimonio Cultural del Estado;
 
-VIII. La identificación y clasificación, para su conservación y mejoramiento, de los centros de población, zonas, conjuntos y elementos de valor histórico, artístico o cultural, afectos al Patrimonio Cultural del Estado;
+VIII. La constitución de reservas urbanas y territoriales para el desarrollo urbano;
 
-IX. La constitución de reservas urbanas y territoriales para el desarrollo urbano;
+IX. La orientación de la política fiscal a la promoción del desarrollo urbano;
 
-X. La orientación de la política fiscal a la promoción del desarrollo urbano;
+X. La aplicación de estímulos para el desarrollo de zonas prioritarias;
 
-XI. La aplicación de estímulos para el desarrollo de zonas prioritarias;
+XI. La realización de programas de obra pública que satisfagan las necesidades prioritarias y optimicen la relación costo-beneficio;
 
-XII. La realización de programas de obra pública que satisfagan las necesidades prioritarias y optimicen la relación costo-beneficio;
+XII. La inversión en programas coordinados con la Federación y los municipios, con recursos federales, municipales o mixtos;
 
-XIII. La inversión en programas coordinados con la Federación y los municipios, con recursos federales, municipales o mixtos;
+XIII. La concertación de acciones para promover la participación solidaria de los distintos grupos que integran las comunidades en la promoción del desarrollo urbano;
 
-XIV. La concertación de acciones para promover la participación solidaria de los distintos grupos que integran las comunidades en la promoción del desarrollo urbano;
+XIV. En general, todas aquellas acciones que contribuyan a su realización.
 
-XV. En general, todas aquellas acciones que contribuyan a su realización.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 57.
 
-El proyecto de Programa Estatal de Desarrollo Urbano será formulado por la Secretaría, a partir de los estudios e investigaciones que realice; las propuestas que hagan las dependencias y entidades coordinadas de ese sector de la Administración Pública Estatal; las recomendaciones que presente la Procuraduría de Desarrollo Urbano; las propuestas que formulen los gobiernos municipales y las comisiones de zonas conurbadas intermunicipales; y de la evaluación que se realice del mismo Programa.
+El proyecto de Programa Estatal de Desarrollo Urbano será formulado por la Secretaría, a partir de las opiniones vertidas en foros con los sectores organizados de la sociedad para efecto de recoger las inquietudes, demandas de la sociedad para efecto de integrarla al diagnóstico, así como los estudios e investigaciones que realice; las propuestas que hagan las dependencias y entidades coordinadas de ese sector de la Administración Pública Estatal; las recomendaciones que presente el Consejo Estatal de Desarrollo Urbano y la Procuraduría de Desarrollo Urbano; las propuestas que formulen los gobiernos municipales y las comisiones de zonas conurbadas intermunicipales; y de la evaluación que se realice del mismo programa.
 
 La elaboración del Programa Estatal de Desarrollo Urbano, se sujetará a los procedimientos generales de la legislación aplicable en materia de planeación, así como a las disposiciones de la presente Ley y sus normas reglamentarias.
 
@@ -1175,11 +1407,13 @@ Las actividades integradas en el Programa Estatal de Desarrollo Urbano que impli
 
 Del Plan Regional de Desarrollo Urbano.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 62.
 
-El Plan Regional de Desarrollo Urbano es el conjunto de acciones definidas para promover el desarrollo de los centros de población ubicados en el territorio de dos o más municipios, identificado como una región en el Programa Estatal de Desarrollo Urbano, conservando el medio natural para que en condiciones de equilibrio ecológico, se propicie una armónica relación entre los medios rural y urbano.
+El Plan Regional de Desarrollo Urbano es el conjunto de acciones definidas para promover el desarrollo sustentable de los centros de población y las áreas de influencia común que los delimitan, en el territorio de dos o más municipios, identificado como una región en el Programa Estatal de Desarrollo Urbano, conservando el medio natural para que en condiciones de equilibrio ecológico, se propicie una armónica relación entre los medios rural y urbano.
 
-El Plan Regional de Desarrollo Urbano se expide para promover la acción coordinada de varios gobiernos municipales de la Entidad, en acciones prioritarias y estratégicas relacionadas con su desarrollo, vinculando los ordenamientos ambiental y territorial.
+El Plan Regional de Desarrollo Urbano se expide para promover la acción coordinada de varios gobiernos municipales de la Entidad, en acciones prioritarias y estratégicas relacionadas con su desarrollo, vinculando los ordenamientos ecológico y territorial.
 
 ###### Artículo 63.
 
@@ -1191,13 +1425,19 @@ El Plan Regional de Desarrollo Urbano deberá contener los siguientes aspectos:
 
 I. La delimitación precisa de su área de aplicación;
 
-II. La Determinación de sus objetivos y metas;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+II. La definición de sus objetivos y metas;
 
 III. El análisis de las condiciones ambientales y de riesgos;
 
 IV. El análisis de la situación y las proyecciones a futuro del proceso de urbanización;
 
-V. Las alternativas para el desarrollo urbano de la región, presentando su análisis comparativo; y
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+V. Las alternativas para el desarrollo sustentable de la región, presentando su análisis comparativo; y
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
 
 VI. La propuesta para el ordenamiento y regulación del territorio y los centros de población comprendidos en su territorio regional, que incluya:
 
@@ -1207,15 +1447,13 @@ b) El esquema de ordenamiento territorial, congruente con el ordenamiento ecoló
 
 c) El señalamiento de las áreas para las provisiones requeridas en la fundación de nuevos centros de población;
 
-d) La determinación de las áreas para la conservación, mejoramiento y crecimiento de los centros de población;
+d) La determinación de las áreas para los efectos de los programas de ordenamiento ecológico regional y local;
 
-e) La determinación del equipamiento regional y de las obras de infraestructura básica;
+e) La determinación de las áreas de protección previstas en la legislación en materia de patrimonio cultural;
 
-f) Los estudios de factibilidades técnica y económica, incluyendo proyectos y estrategias de inversión; y
+f) La determinación del equipamiento regional y de las obras de infraestructura básica;
 
-g) La definición de sistemas operativos para su ejecución, control y evaluación.
-
-Para integrar el ordenamiento territorial de la región, se aplicarán las normas del Reglamento Estatal de Zonificación previsto en el artículo 132 de esta Ley. Asimismo podrán estipularse en el Plan, criterios específicos aplicables a las áreas y predios localizados en el territorio regional.
+g) La definición de sistemas operativos para su ejecución, control y evaluación. Para integrar el ordenamiento territorial de la región, se aplicarán las normas del Reglamento Estatal de Zonificación previsto en el artículo 132 de esta Ley. Asimismo podrán estipularse en el Plan, criterios específicos aplicables a las áreas y predios localizados en el territorio regional.
 
 ###### Artículo 65.
 
@@ -1287,21 +1525,37 @@ El proyecto, previo dictamen de la Dependencia del Ejecutivo Estatal competente 
 
 Aprobado el Plan Regional y el convenio de coordinación correspondiente, se ordenará su publicación y registro en los términos de los artículos 45 y 47 de esta Ley.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 70.
 
-En el área de aplicación de un Plan Regional de Desarrollo Urbano, no deberá realizarse urbanización o edificación alguna contraviniendo sus disposiciones. Para su ejecución y cumplimiento se aplicarán los convenios de coordinación respectivos.
+Para la ejecución y cumplimiento del Plan Regional se aplicarán los convenios de coordinación respectivos.
 
 ### CAPITULO IV
 
 Del Programa Municipal de Desarrollo Urbano.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 71.
 
-El Programa Municipal de Desarrollo Urbano, es el documento rector que integra el conjunto de políticas, lineamientos, estrategias, reglas técnicas y disposiciones, encaminadas a ordenar y regular los centros de población en el territorio de cada municipio, mediante la determinación de los usos, destinos y reservas de áreas y predios, para la conservación, mejoramiento y crecimiento de los mismos.
+El Programa Municipal de Desarrollo Urbano es el documento rector que integra el conjunto de políticas, lineamientos, estrategias, reglas técnicas y disposiciones, encaminadas a ordenar y regular el territorio de cada municipio, mediante la determinación de los usos, destinos y reservas de áreas y predios, para la conservación, mejoramiento y crecimiento de los mismos.
+
+El Programa Municipal de Desarrollo Urbano, cuando así lo disponga el Ayuntamiento, conforme a la extensión de su territorio y las necesidades de ordenamiento y planeación para su desarrollo sustentable, podrá integrar los objetivos, metas, elementos y acciones de:
+
+I. El propio Programa Municipal de Desarrollo Urbano;
+
+II. Los planes de desarrollo urbano de los centros de población;
+
+III. Los programas de ordenamiento ecológico local; y
+
+IV. Los planes parciales de desarrollo urbano.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 72.
 
-El Programa Municipal de Desarrollo Urbano tiene por objeto establecer las directrices, lineamientos y normas conforme a las cuales las diversas personas y grupos que integran la población, participarán en el proceso de urbanización.
+El Programa Municipal de Desarrollo Urbano tiene por objeto establecer las directrices, lineamientos y normas conforme a las cuales las diversas personas y grupos que integran la población, participarán en el proceso de urbanización y desarrollo sustentable.
 
 ###### Artículo 73.
 
@@ -1329,11 +1583,15 @@ Para elaborar y aprobar el Programa Municipal de Desarrollo Urbano, se seguirá 
 
 I. El Ayuntamiento en Sesión de Cabildo aprobará que se elabore el proyecto de Programa o se revise el Programa vigente;
 
-II. Formulado el proyecto de programa por la Dependencia Municipal en materia de planeación urbana, será presentado al Ayuntamiento en Sesión de Cabildo donde, en su caso, se acordará someterlo a consulta pública;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+II. Para efectos de elaborar el proyecto de programa la dependencia municipal en materia de planeación realizar (sic) foros de opinión con los sectores organizados de la sociedad para recoger las inquietudes, demandas de la sociedad para efecto de integrarlo al diagnóstico, así como la evaluación del programa anterior. Formulado el proyecto de programa por la Dependencia Municipal en materia de planeación urbana, será presentado al Ayuntamiento en Sesión de Cabildo donde, en su caso, se acordará someterlo a consulta pública;
 
 III. El Ayuntamiento por medio de su Comisión de Planeación Socioeconómica y Urbanización y el Consejo de Colaboración Municipal, convocarán y coordinarán la consulta pública, a fin de promover la participación de los distintos grupos sociales que integran la comunidad;
 
-IV. La versión abreviada del proyecto se publicará en los estrados de la Presidencia Municipal, en las delegaciones y en los lugares de mayor concurrencia de la población. Asimismo se enviará copia al Procurador de Desarrollo Urbano y se facilitarán copias de su versión abreviada a las personas, instituciones y asociaciones de todos los sectores que lo requieran, quienes dispondrán de un mes contado a partir de la fecha en que se publique la convocatoria, para formular por escrito los comentarios, críticas y proposiciones concretas que consideren oportunos;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+IV. La versión abreviada del proyecto se publicará en los estrados de la Presidencia Municipal, en las delegaciones y en los lugares de mayor concurrencia de la población. Asimismo se enviará copia al Procurador de Desarrollo Urbano y se facilitarán copias de su versión abreviada a las personas, instituciones y asociaciones de todos los sectores que lo requieran, quienes dispondrán de un mes contado a partir de la fecha en que se publique la convocatoria, para formular por escrito los comentarios, críticas y proposiciones concretas que consideren oportunos; de abstenerse, se entenderá que no hay comentarios que presentar por parte de esa dependencia, institución o asociación, respecto del mismo;
 
 V. Con fundamento en el acuerdo de Cabildo a que se refiere la fracción II del presente artículo, el Presidente Municipal lo remitirá a la Secretaría, para que se formulen los comentarios y recomendaciones que se consideren oportunos, en relación con la congruencia del proyecto con los planes y programas vigentes a nivel estatal y regional y, en general, respecto de las acciones previstas en que tenga participación el Gobierno del Estado y la Federación. La Secretaría dispondrá de un término de un mes, a partir de la fecha en que oficialmente reciba un proyecto de Programa Municipal de Desarrollo Urbano, para formular sus comentarios; de abstenerse, se entenderá que no hay comentarios que presentar por parte de esa dependencia estatal, respecto del mismo;
 
@@ -1359,9 +1617,11 @@ El Gobernador del Estado ordenará la publicación y registro del Programa Munic
 
 Del Plan de Desarrollo Urbano de Centro de Población.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 76.
 
-El Plan de Desarrollo Urbano de Centro de Población es el conjunto de políticas, lineamientos, estrategias, reglas técnicas y disposiciones, establecidas en el Programa Municipal, referidas a un centro de población determinado, tendientes a promover el desarrollo armónico de su territorio.
+El Plan de Desarrollo Urbano de Centro de Población es el conjunto de políticas, lineamientos, estrategias, reglas técnicas y disposiciones, establecidas en el Programa Municipal, referidas a un centro de población determinado, tendientes a promover el desarrollo sustentable de su territorio.
 
 ###### Artículo 77.
 
@@ -1463,71 +1723,69 @@ X. En general, todas aquellas acciones que permitan promover los objetivos del P
 
 Para expedir y revisar el Plan de Desarrollo Urbano de Centro de Población, se seguirá el procedimiento establecido en los artículos 74 y 75 de esta Ley, verificando además la congruencia del Plan con el Programa Municipal de Desarrollo Urbano.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 81.
 
-Cuando simultáneamente con el Plan de Desarrollo Urbano de Centro de Población se expidan declaratorias de usos, destinos y reservas de áreas y predios; o bien, se formulen planes parciales, se observarán las disposiciones previstas en esta Ley para su elaboración, autorización, publicación y registro.
+Cuando simultáneamente con el Plan de Desarrollo Urbano de Centro de Población se formulen planes parciales, se observarán las disposiciones previstas en esta Ley para su elaboración, autorización, publicación y registro.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 82.
 
-Cuando en un Plan de Desarrollo Urbano de Centro de Población se proponga establecer o modificar los límites de un centro de población, previa a su sanción formal por el Cabildo, se solicitará al Congreso del Estado su autorización. La solicitud del Ayuntamiento se acompañará de la documentación prevista en el artículo 75 de esta Ley.
+Cuando en un Plan de Desarrollo Urbano de Centro de Población se proponga establecer o modificar los límites de un centro de población, previa a su sanción formal por el Cabildo, se solicitará al Congreso del Estado su autorización misma que se deberá de resolver en un plazo no mayor de sesenta días. La solicitud del Ayuntamiento se acompañará de la documentación prevista en el artículo 75 de esta Ley y el Congreso del Estado deberá resolver en un plazo no mayor de sesenta días, posteriores a la fecha cuando esta documentación esté completa.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 83.
 
-En la zona de aplicación del Plan de Desarrollo Urbano de Centro de Población, sólo deberán realizarse urbanizaciones o edificaciones en las áreas y predios señalados para tal efecto en las declaratorias de provisiones, usos, destinos y reservas, los que se utilizarán conforme a las disposiciones de las mismas.
+En la zona de aplicación del Plan de Desarrollo Urbano de Centro de Población, sólo deberán realizarse urbanizaciones o edificaciones en las áreas y predios señalados para tal efecto en la zonificación, los que se utilizarán conforme a las disposiciones de las mismas.
 
 ### CAPITULO VI
 
 Del Plan Parcial de Urbanización.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 84.
 
-El Plan Parcial de Urbanización es el instrumento para realizar las acciones de conservación, mejoramiento y crecimiento previstas en los programas y planes de desarrollo urbano aplicables al centro de población.
+Los planes parciales de desarrollo urbano y de urbanización son los instrumentos para:
+
+I. Precisar la zonificación de las áreas que integran y delimitan el centro de población;
+
+II. Regular las acciones de conservación, mejoramiento y crecimiento previstas en los programas y planes de desarrollo urbano;
+
+III. Determinar, en su caso, los usos y destinos que se generen por efecto de las acciones urbanísticas;
+
+IV. Precisar las normas de utilización de los predios y fincas en su área de aplicación;
+
+V. Regular en forma específica la urbanización y la edificación, en relación con las modalidades de acción urbanística; y
+
+VI. Determinar las obligaciones a cargo de los titulares de predios y fincas, derivadas de las acciones de conservación, mejoramiento y crecimiento.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 85.
 
-El Plan Parcial de Urbanización tiene por objeto:
+Los planes parciales de Desarrollo urbano y de Urbanización pueden expedirse en forma simultánea o sucesiva con el Plan de Desarrollo Urbano del Centro de Población.
 
-I. Determinar la zonificación específica, precisando los usos, destinos y reservas para una zona del centro de población; y
-
-II. Regular y controlar la urbanización y la edificación, y en general, el aprovechamiento de los predios y fincas en su área de aplicación.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 86.
 
-El Plan Parcial de urbanización contendrá como mínimo:
+En la zona de aplicación de un plan parcial de desarrollo urbano o de urbanización, sólo deberán realizarse las obras de urbanización y edificación que sean autorizadas por el Ayuntamiento respectivo, conforme a los lineamientos autorizados en el mismo.
 
-I. La referencia al Plan de Desarrollo Urbano del Centro de Población del cual se derivan; indicando, en su caso, el aprovechamiento del suelo previsto en el mismo;
-
-II. Las políticas y los objetivos que se persiguen;
-
-III. La delimitación de la zona que comprenda;
-
-IV. La descripción del estado actual de la zona, de sus aprovechamientos predominantes y de la problemática que presenta;
-
-V. Los estudios necesarios de impacto ambiental y riesgos, conforme a la legislación aplicable;
-
-VI. Los regímenes de tenencia de la tierra existentes;
-
-VII. La zonificación a que se refiere el artículo 131 de esta Ley;
-
-VIII. Las normas y criterios técnicos aplicables, en particular aquellas que definan la compatibilidad de usos habitacionales, comerciales y de servicios, industriales y áreas naturales protegidas;
-
-IX. Los proyectos de las obras o servicios, señalando las etapas y condiciones para su ejercicio, así como los lineamientos administrativos y financieros para el aprovechamiento de las zonas comprendidas;
-
-X. Los mecanismos que se utilizarán para la adquisición o asignación de inmuebles, así como los derechos de desarrollo y estímulos que se establezcan para orientar las actividades de las personas y grupos de los sectores social y privado;
-
-XI. Las obligaciones y responsabilidades a cargo de las autoridades en la ejecución de acciones derivadas del plan parcial;
-
-XII. Las obligaciones y responsabilidades de los propietarios de predios y fincas comprendidos en el área de aplicación del plan parcial y de sus usuarios, respecto a modalidades en su aprovechamiento y acciones de conservación, mejoramiento y crecimiento que se determinen;
-
-XIII. Los plazos y condiciones para que las autoridades, propietarios y usuarios, den cumplimiento a las obligaciones a su cargo en la ejecución de las acciones definidas en el mismo plan parcial;
-
-XIV. Los plazos para que las asociaciones de vecinos, los habitantes o los propietarios de predios o fincas de la zona que resulten afectados, presenten sus inconformidades; y
-
-XV. En general, las medidas e instrumentos para la ejecución de los programas y planes.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 87.
 
-Los planes parciales de urbanización aplicables en centros históricos, contendrán adicionalmente:
+Los propietarios o poseedores a título de dueño de los predios incluidos en los planes parciales de desarrollo urbano o de urbanización deberán cumplir con las obligaciones derivadas de los mismos; para este efecto, podrán celebrar convenios entre sí, con terceros, con el Gobierno Municipal o con el Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
+###### Artículo 88.
+
+Los planes parciales de desarrollo urbano y de urbanización aplicables en centros históricos, contendrán adicionalmente:
 
 I. La referencia al carácter histórico y artístico que se otorga a la zona de su aplicación;
 
@@ -1541,69 +1799,199 @@ V. Las bases de los acuerdos de concertación con los propietarios de predios y 
 
 VI. En su caso, la integración de la asociación prevista en el artículo 42 del presente ordenamiento.
 
-###### Artículo 88.
-
-Para elaborar y aprobar los planes parciales que se requieran a fin de desarrollar por parte del Municipio, las acciones previstas en el Plan de Desarrollo Urbano del Centro de Población, se seguirá el procedimiento siguiente:
-
-I. El Ayuntamiento en Sesión de Cabildo aprobará que se elabore el plan correspondiente o su revisión;
-
-II. El Presidente Municipal, a través de la dependencia técnica, coordinará la elaboración del Plan Parcial, practicando las consultas y ordenando los estudios que considere necesarios, apoyándose en las condiciones permanentes constituidas conforme la a (sic) Ley Orgánica Municipal, relacionadas con las actividades objeto del Plan Parcial;
-
-III. Formulado el proyecto de plan parcial, se remitirá al Consejo de Colaboración Municipal para los efectos de su consulta pública, mismo que deberá comunicar sus comentarios y propuestas por escrito, en el plazo de veinte días a partir de su recepción. Si en el término antes previsto, no se formulan los comentarios y propuestas, se entenderá que el Consejo aprueba el contenido del mismo;
-
-IV. Recibidas las observaciones de la consulta pública, integrándose las procedentes al proyecto de Plan Parcial, el Presidente Municipal lo someterá a dictamen ante las comisiones permanentes del Ayuntamiento que se relacionen con las actividades previstas en el mismo; una vez dictaminado el proyecto del plan, se presentará en Sesión de Cabildo para su análisis y aprobación, en su caso;
-
-V. Cuando el plan parcial implique la expedición de declaratorias, se procederá conforme a las disposiciones de este ordenamiento; y
-
-VI. Aprobado el Plan Parcial por el Ayuntamiento, el Presidente Municipal lo remitirá al Ejecutivo del Estado para su publicación y registro, conforme a las disposiciones de los artículos 45, 46 y 47 de esta Ley.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 89.
 
-Los planes parciales que se expidan para la ejecución de acciones donde participen el Estado o la Federación, una vez revisados por el Ayuntamiento, se autorizarán conforme el procedimiento previsto en las fracciones III, IV, V y VI del artículo anterior, haciendo efectivos los acuerdos de coordinación.
+En caso de que los propietarios o poseedores a título de dueño no cumplan con las obligaciones derivadas del contenido de los planes a que se refiere el artículo anterior, las autoridades responsables de ejecutar las acciones previstas en los planes correspondientes, procederán a requerirlos mediante notificación personal, señalándoles un plazo apropiado en que deberán darles cumplimiento, no menor de quince días.
+
+Transcurrido el plazo, sin que los propietarios o poseedores a título de dueño den cumplimiento a sus obligaciones, se procederá a ejercer las acciones previstas en los planes y convenios correspondientes, por parte de la autoridad responsable de su ejecución.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 90.
 
-Los planes parciales que se expidan para la utilización parcial o total de la reserva urbana, expresarán la resolución de Cabildo respecto al ejercicio del derecho de preferencia relativo, o su transferencia a quienes promuevan la acción urbanística, conforme a los sistemas que se definen en el artículo 301 del presente ordenamiento.
+Los planes parciales de desarrollo urbano son los instrumentos para normar las acciones de conservación, mejoramiento y crecimiento previstas en los programas y planes de desarrollo urbano aplicables al centro de población. Se formularán, aprobarán y administrarán conforme a las siguientes disposiciones:
+
+I. El Plan Parcial de Desarrollo Urbano integra el conjunto de normas específicas a efecto de precisar la zonificación y regular los usos, destinos y reservas en los predios localizados en su área de aplicación;
+
+II. Se derivará del Plan de Desarrollo Urbano de Centro de Población del cual forma parte y debe guardar congruencia;
+
+III. En su caso, modificará los elementos del Plan de Desarrollo Urbano de Centro de Población, a excepción del límite de centro de población y su clasificación de áreas;
+
+IV. Será formulado, aprobado y publicado conforme a lo estipulado en el artículo 92; y administrado por el Ayuntamiento, como fundamento para expedir los dictámenes, autorizaciones, licencias y permisos que se definan en el Título Quinto de esta Ley;
+
+V. Los propietarios de predios y fincas, los grupos sociales y en particular, las asociaciones de vecinos legalmente constituidas, podrán solicitar o proponer al Ayuntamiento, elabore, consulte y apruebe un plan parcial de desarrollo urbano para un área, barrio o colonia del centro de población; como también, presentar propuestas a efecto de evaluar, modificar o cancelar un plan parcial de desarrollo urbano, conforme las disposiciones del Capítulo VIII del presente Título Segundo;
+
+VI. Se requerirá formular y aprobar un plan parcial de desarrollo urbano, cuando el centro de población cuente con una población mayor a diez mil habitantes donde por su extensión o escala, asociadas a la densidad de población y la intensidad de los usos y destinos lo requieran;
+
+VII. Su objeto principal será el precisar las normas de zonificación, cuando por la magnitud de escala, intensidad de las actividades, resulte insuficiente el Plan de Desarrollo Urbano de Centro de Población, el Programa de Ordenamiento Ecológico Local o en su caso, el Programa Municipal de Desarrollo Urbano, donde se integren las disposiciones de ordenamiento territorial de desarrollo urbano y de ordenamiento ecológico local; e
+
+VIII. Indicará las acciones de conservación, mejoramiento y crecimiento, en función del ordenamiento territorial, sin implicar la autorización de las mismas.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 91.
 
-Los planes parciales que se expidan para la utilización parcial o total de la reserva territorial o zonas sujetas a conservación ecológica, requerirán la aprobación del Ejecutivo del Estado, previa a su trámite de publicación y registro.
+El Plan Parcial de Desarrollo Urbano se integrará con los siguientes elementos:
+
+I. La referencia al Plan de Desarrollo Urbano de Centro de Población del cual se deriva;
+
+II. Las políticas y los objetivos que se persiguen;
+
+III. La delimitación de la zona conforme a las unidades territoriales que se precisen en el Reglamento de Zonificación;
+
+IV. La descripción del estado actual de la zona, de su aprovechamiento predominante y de la problemática que presenta;
+
+V. Los regímenes de tenencia de la tierra existente;
+
+VI. La zonificación conforme se establezca en reglamento estatal de zonificación;
+
+VII. La clasificación de áreas, donde en su caso se precisarán las superficies de restricción y protección y que afecten los predios comprendidos en su área de aplicación, conforme al dictamen que emitan las dependencias federales y estatales competentes;
+
+VIII. Las áreas generadoras y receptoras de Derechos de Desarrollo;
+
+IX. Las normas y criterios técnicos aplicables, en particular aquellas que definan la compatibilidad de usos y destinos;
+
+X. Los mecanismos que se utilizarán para la adquisición o asignación de inmuebles, así como los derechos de desarrollo y estímulos que se establezcan para orientar las actividades de las personas y grupos de los sectores social y privado;
+
+XI. Las obligaciones y responsabilidades a cargo de las autoridades en la ejecución de acciones derivadas del plan parcial;
+
+XII. Las obligaciones y responsabilidades de los propietarios de predios y fincas comprendidos en el área de aplicación del plan parcial y de sus usuarios, respecto a modalidades en su aprovechamiento y acciones de conservación, mejoramiento y crecimiento que se determinen;
+
+XIII. Los plazos para que las asociaciones de vecinos, los habitantes o los propietarios de predios o fincas de la zona que resulten afectados, presenten sus inconformidades; y
+
+XIV. En general, las medidas e instrumentos para la ejecución de los programas y planes.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 92.
 
-La elaboración, autorización y ejecución de los planes parciales de urbanización que regulen obras de urbanización y edificación mediante la acción urbanística privada, se regularán por las normas del Título Quinto, "De la acción urbanística".
+Para elaborar y aprobar los planes parciales de desarrollo urbano se seguirá el procedimiento siguiente:
+
+I. El Ayuntamiento en Sesión de Cabildo aprobará que se elabore el plan correspondiente o su revisión;
+
+II. El Presidente Municipal, a través de la dependencia técnica, coordinará la elaboración del plan parcial, practicando las consultas con los titulares y habitantes de inmuebles, así como a los grupos organizados de la sociedad a quienes corresponda participar de acuerdo al área de aplicación del plan o a las acciones urbanísticas propuestas y ordenando los estudios que considere necesarios, apoyándose en las comisiones permanentes constituidas conforme la a (sic) Ley Orgánica Municipal, relacionadas con las actividades objeto del plan parcial;
+
+III. Formulado el proyecto de plan parcial, se remitirá al Consejo de Colaboración Municipal y a la Secretaría para los efectos de su consulta pública, mismos que deberán comunicar sus comentarios y propuestas por escrito, en el plazo de veinte días a partir de su recepción. Si en el término antes previsto, no se formulan los comentarios y propuestas, se entenderá que el Consejo y la Secretaría aprueban el contenido del mismo;
+
+IV. Recibidas las observaciones de la consulta pública, integrándose las procedentes al proyecto de plan parcial, el Presidente Municipal lo someterá a dictamen ante las comisiones permanentes del Ayuntamiento que se relacionen con las actividades previstas en el mismo; una vez dictaminado el proyecto del plan, se presentará en Sesión de Cabildo para su análisis y aprobación en su caso;
+
+V. Cuando el plan parcial implique la determinación de usos, destinos y reservas, se procederá conforme a las disposiciones de este ordenamiento, y
+
+VI. Aprobado el plan parcial por el Ayuntamiento, el Presidente Municipal lo remitirá al Ejecutivo del Estado para su publicación y registro, conforme a las disposiciones de los artículo (sic) 45, 46 y 47 de esta Ley.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 93.
 
-Cuando en el plan parcial se incluyan obras que se propongan ejecutar mediante los sistemas de acción urbanística por concertación, colaboración, plusvalía y asociación por interés público, se procederá conforme las disposiciones del Título Sexto, "De los sistemas de acción urbanística".
+El Plan Parcial de Urbanización es el instrumento ejecutivo para la realización de acciones de urbanización, cuya elaboración es necesaria para autorizar tanto obra pública como la obra privada que se desarrollen bajo cualquiera de las modalidades de la acción urbanística previstas en los Títulos Quinto y Sexto de esta Ley. Se formularán, aprobarán y administrarán conforme a las siguientes disposiciones:
+
+I. Será obligatorio formular un plan parcial de urbanización cuando se proponga para su autorización una acción urbanística, que implique:
+
+a) La transformación del suelo rústico a urbano de un área de reserva, determinando los usos y destinos correspondientes, en acciones de expansión urbana;
+
+b) La modificación de los usos y destinos específicos en acciones de renovación urbana;
+
+c) La determinación de áreas de restricción por paso de redes de infraestructura;
+
+d)La determinación de obligaciones específicas a cargo de los propietarios de predios y fincas, en acciones de conservación y mejoramiento;
+
+II. Determinará la zonificación específica, especificando la clasificación de áreas, los usos, destinos y reservas en los predios para cuando se proponga realizar:
+
+a) Obras de expansión urbana en predios rústicos que formen parte de la reserva urbana; o
+
+b) Obras de renovación urbana en predios ya incorporados del centro de población;
+
+III. Regulará y controlará la urbanización y la edificación, y en general, el aprovechamiento de los predios y fincas en su área de aplicación;
+
+IV. Delimitará e identificará las áreas de cesión para destinos, conforme las especificaciones del Reglamento de Zonificación previsto en el artículo 132 de esta Ley;
+
+V. La determinación de destinos tendrá por efecto la transmisión de la propiedad de las áreas de cesión para destinos, quedando afectados los predios a los fines públicos previstos;
+
+VI. Determinará en forma específica las áreas de restricción, regular y controlar la urbanización y la edificación, y en general determinar el aprovechamiento de los predios y fincas en su área de aplicación;
+
+VII. Integrará las acciones urbanísticas con la estructura urbana del centro de población; y
+
+VIII. En su caso, determinará los predios que resultarán beneficiados o afectados, así como las obligaciones correspondientes a cargo de sus titulares, derivadas de obras de urbanización o edificación, para integrar la infraestructura o el equipamiento urbano del centro de población, bajo las modalidades de acción urbanística establecidas en esta Ley.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 94.
 
-Los planes parciales pueden expedirse en forma simultánea o sucesiva con el Plan de Desarrollo Urbano del Centro de Población; pero en ningún caso deberán autorizarse dichos planes en contravención de este último.
+El Plan Parcial de Urbanización se integrará con los siguientes elementos:
+
+I. El enunciado del Plan y datos generales del proyecto;
+
+> <small>(F. DE E., P.O. 18 DE MARZO DE 1999)</small>
+
+II. La fundamentación Jurídica;
+
+III. La referencia al Plan de Desarrollo Urbano del Centro de Población del cual se deriva y en su caso del Plan Parcial de Desarrollo Urbano;
+
+IV. Los objetivos generales y específicos;
+
+V. La delimitación del área de estudio y de aplicación conforme a los criterios establecidos en el reglamento de zonificación;
+
+VI. El análisis y síntesis de los elementos condicionantes a la urbanización;
+
+VII. La determinación de los usos y destinos específicos del área de aplicación, conforme a la propuesta del proyecto de urbanización o de la acción urbanística a realizarse definiendo las normas de control de densidad de la edificación, por cada tipo de zona;
+
+VIII. La referencia a las normas de diseño urbano, relativas a la ingeniería de tránsito y a la ingeniería urbana que determinen:
+
+a) Los criterios de diseño de la vialidad, precisando las secciones mínimas y normas de trazo de las vialidades en función a su jerarquía;
+
+b) Los criterios de diseño para obras de urbanización que faciliten el acceso y desplazamiento a personas con problemas de discapacidad;
+
+c) Los criterios para la localización de infraestructura, incluyendo el trazo de redes, derecho de paso y zonas de protección;
+
+d) Las obras mínimas de urbanización requeridas en cada tipo de zona;
+
+e) La determinación de las áreas de cesión para destinos, en función de las características de cada zona, así como de los criterios para su localización, en especial, las destinadas para áreas verdes y escuelas;
+
+f) Los (sic) obras mínimas de edificación para equipamiento urbano en las áreas de cesión para destinos requeridas en cada tipo de zona;
+
+g) Las normas de configuración urbana e imagen visual; y
+
+h) Otras normas específicas de carácter general o regional que se consideren necesarias;
+
+IX. En el caso de acciones de conservación o mejoramiento:
+
+a) El área de beneficio o afectación, como también los predios y fincas específicos objeto de estas acciones; y
+
+b) Los plazos y condiciones para que las autoridades, propietarios y usuarios, den cumplimiento a las obligaciones a su cargo en la ejecución de las acciones definidas en el mismo plan parcial; y
+
+X. Los plazos para que los afectados interpongan el recurso previsto en la presente Ley.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 95.
 
-Cuando además de las acciones que son objeto del plan parcial, se requiera una reglamentación de los usos y destinos de las áreas o predios comprendidos en la zona de aplicación del mismo, se expedirán las declaratorias correspondientes.
+Los planes parciales de urbanización que se expidan para la utilización parcial o total de la reserva territorial o zonas sujetas a conservación ecológica, requerirán la aprobación del Ejecutivo del Estado, previa a su trámite de publicación y registro.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 96.
 
-En la zona de aplicación de un plan parcial, sólo deberán realizarse las obras de urbanización y edificación que sean autorizadas por el Ayuntamiento respectivo, conforme a los lineamientos autorizados en el mismo.
+La elaboración, autorización y ejecución de los planes parciales de urbanización que regulen obras de urbanización y edificación mediante la acción urbanística privada, se regularán por las normas del Título Quinto, "De la Acción Urbanística".
 
-En el funcionamiento y establecimiento de industrias y servicios, en lo relacionado con el aprovechamiento del espacio urbano, se ajustarán a lo dispuesto por esta Ley, la legislación en materia de equilibrio ecológico y protección al ambiente y demás ordenamientos aplicables.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 97.
 
-Cuando el plan parcial incluya acciones de conservación, mejoramiento y crecimiento que requieran la participación de personas o instituciones particulares, se procederá a notificarles su contenido, así como las obligaciones específicas que de ello se deriven para que les den cumplimiento.
+Cuando en el Plan Parcial de Urbanización se incluyan obras que se propongan ejecutar mediante los sistemas de acción urbanística por concertación, colaboración, plusvalía y asociación por interés público, se procederá conforme las disposiciones del Título Sexto, "De los sistemas de acción urbanística".
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 98.
 
-Los propietarios o poseedores de los predios incluidos en los planes parciales deberán cumplir con las obligaciones derivadas de los mismos; para este efecto, podrán celebrar convenios entre sí, con terceros, con el Gobierno Municipal o con el Gobierno del Estado.
+Los planes parciales de urbanización que se expidan para la ejecución de acciones donde participen el Estado o la Federación se autorizarán conforme el procedimiento previsto en el Título Quinto de esta Ley haciendo efectivos los acuerdos de coordinación.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 99.
 
-En caso de que los propietarios o poseedores no cumplan con las obligaciones a que se refiere el artículo anterior, las autoridades responsables de ejecutar las acciones previstas en los planes correspondientes, procederán a requerirlos mediante notificación personal, señalándoles un plazo apropiado en que deberán darle cumplimiento, no menor de quince días.
-
-Transcurrido el plazo, sin que los propietarios o poseedores den cumplimiento a sus obligaciones, se procederá a gestionar ante el Ejecutivo del Estado, la expropiación por causa de utilidad pública e interés social de los predios, edificaciones e instalaciones, conforme el procedimiento establecido en la ley de la materia.
+Los planes parciales de urbanización que se expidan para la utilización parcial o total de la reserva urbana, expresarán la resolución de Cabildo respecto al ejercicio del derecho de preferencia relativo, o su transferencia a quienes promuevan la acción urbanística, conforme los sistemas que se definen en el artículo 301 del presente ordenamiento.
 
 ### CAPITULO VII
 
@@ -1619,7 +2007,9 @@ Para elaborar y aprobar el plan de ordenamiento y regulación de una zona de con
 
 I. La Comisión de Zona Conurbada, integrada conforme al artículo 19 de esta Ley, aprobará la elaboración del plan correspondiente, o llegado el caso, su revisión. Este acuerdo se comunicará al Consejo Estatal de Desarrollo Urbano;
 
-II. La Comisión, con base en las investigaciones y estudios que haya ordenado, dispondrá se elabore el proyecto de plan de ordenamiento y regulación por parte de la Secretaría;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+II. La Comisión, con base en las consultas, foros de opinión, investigaciones y estudios que haya ordenado, dispondrá se elabore el proyecto de plan de ordenamiento y regulación por parte de la Secretaría;
 
 III. La Comisión de Zona Conurbada, en coordinación con el Consejo Estatal de Desarrollo Urbano, convocará y coordinará las consultas a los ayuntamientos integrados en la zona de conurbación y a los consejos de colaboración municipal, a fin de promover la participación de los distintos grupos sociales que integran la comunidad;
 
@@ -1631,15 +2021,19 @@ VI. El proyecto de plan, revisado y ajustado, se presentará a la Comisión de Z
 
 VII. El Plan de Ordenamiento y Regulación de la Zona Conurbada se remitirá al Gobernador del Estado, quien ordenará su publicación y registro en los términos de los artículos 45 y 47 de esta Ley.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 102.
 
-La zonificación general y las declaratorias de usos, destinos y reservas de áreas y predios que se requieran expedir para integrar el ordenamiento territorial de la zona conurbada conforme a su plan de ordenamiento, serán autorizados por los ayuntamientos respectivos conforme a las disposiciones de esta Ley.
+La zonificación general y la determinación de usos, destinos y reservas de áreas y predios que se requieran expedir para integrar el ordenamiento territorial de la zona conurbada, conforme a su plan de ordenamiento, serán autorizados por los ayuntamientos respectivos conforme las disposiciones de esta Ley.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 103.
 
-Cuando la Comisión acuerde revisar el plan de ordenamiento y regulación y se proponga modificar los límites de la zona conurbada o se recomiende integrar otros centros de población ubicados en los mismos municipios u otros distintos, se procederá conforme lo dispuesto en el artículo 17 de esta Ley, en lo aplicable.
+Cuando la Comisión acuerde revisar el plan de ordenamiento y regulación y se proponga modificar los límites de la zona conurbada o se recomiende integrar otros centros de población ubicados en los mismos municipios u otros distintos, en lo aplicable se procederá conforme lo dispuesto en el artículo 17 de esta Ley.
 
-Una vez publicada la declaratoria que modifique los límites de la zona conurbada, si se han incluido centros de población de otros municipios, el Gobernador del Estado procederá a modificar la constitución de la Comisión, conforme a las disposiciones del artículo 19 de esta misma Ley, en lo aplicable.
+Una vez publicado el convenio que modifique los límites de la zona conurbada, si se han incluido centros de población de otros municipios, en lo aplicable, el Gobernador del Estado procederá a modificar la constitución de la Comisión, conforme a las disposiciones del artículo 19 de esta misma Ley.
 
 ###### Artículo 104.
 
@@ -1661,35 +2055,47 @@ Son aplicables las disposiciones de los artículos 86, 87 y 90 al 99, respecto d
 
 Cuando las acciones de un plan parcial se limiten en su desarrollo y efectos al territorio de uno de los municipios involucrados, dicho plan será expedido por su Ayuntamiento, como lo dispone el artículo 24 de esta Ley y se proceda a su aplicación.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 107.
 
-En los casos de zonas conurbadas interestatales se estará a lo dispuesto en la Ley General de Asentamientos Humanos y las declaratorias que expida el Presidente de la República.
+En los casos de zonas conurbadas interestatales se estará a lo dispuesto en la Ley General de Asentamientos Humanos y los convenios respectivos.
 
 ### CAPITULO VIII
 
 De la evaluación, modificación y cancelación de los programas y planes de desarrollo urbano.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 108.
 
 El Programa Estatal y los planes regionales de desarrollo urbano, deberán ser revisados cada seis años para su actualización.
 
-Para controlar su ejecución y verificar los avances obtenidos, la Secretaría evaluará cada año estos programas y planes, presentando un informe detallado al Gobernador del Estado.
+Para controlar su ejecución y verificar los avances obtenidos, la Secretaría evaluará cada año estos programas y planes, presentando un informe detallado al Gobernador del Estado y al Consejo Estatal de Desarrollo Urbano.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 109.
 
-Los programas municipales de desarrollo urbano y los planes que ordenen y regulan zonas conurbadas, serán revisados por las autoridades responsables de formularlos y aprobarlos, cada tres años, durante el segundo año del ejercicio constitucional de los ayuntamientos, para decidir si procede o no su modificación o cancelación, según sea el caso.
+Los programas y planes municipales de desarrollo urbano y los que ordenen y regulan zonas conurbadas, serán revisados por las autoridades responsables de formularlos y aprobarlos, cada tres años, durante el segundo año del ejercicio constitucional de los ayuntamientos, para decidir si procede o no su modificación o cancelación, según sea el caso.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 110.
 
 Los programas y planes de desarrollo urbano podrán ser modificados o cancelados cuando:
 
-I. Exista una variación substancial en las condiciones que les dieron origen;
+I. Exista una variación substancial en los supuestos que les dieron origen;
 
-II. Se produzcan cambios en el aspecto financiero que los hagan irrealizables o incosteables;
+II. Se detecten errores u omisiones en sus elementos;
 
-III. Surjan técnicas diferentes que permitan una realización más satisfactoria; y
+III. Se expresen inconformidades de los habitantes del centro de población por los organismos de consulta pública y participación social;
 
-IV. Sobrevenga otra causa que impida su ejecución.
+IV. Se produzcan cambios en el aspecto económico que los hagan irrealizables o incosteables;
+
+V. Surjan técnicas diferentes que permitan una realización más satisfactoria; y
+
+VI. Sobrevenga otra causa que impida su ejecución.
 
 ###### Artículo 111.
 
@@ -1707,13 +2113,17 @@ V. Los organismos de participación social y de consulta previstos en el artícu
 
 VI. Los colegios profesionales y las agrupaciones o instituciones privadas legalmente constituidas, que tengan interés en el desarrollo urbano del Estado.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 112.
 
-El procedimiento y términos para el trámite de la resolución de modificación o cancelación de un programa o plan, será el mismo que para su aprobación, publicación y registro.
+El procedimiento y términos para el trámite de la resolución de modificación o cancelación de un programa o plan, se realizará conforme a las siguientes disposiciones:
 
-Si se aprueba la modificación o cancelación de un programa o plan, los predios, áreas o zonas comprendidos en su jurisdicción quedarán afectados de acuerdo a las nuevas modalidades o limitaciones que impongan, o bien quedarán desafectados, desde la fecha (sic) su inscripción y vigencia.
+I. Los planes y programas básicos y de coordinación, previstos en las fracciones I y III del artículo 43 de esta Ley y los planes parciales de desarrollo urbano, se modificarán mediante la expedición de los planes o programas que lo sustituya en forma parcial o total;
 
-Las modificaciones o cancelaciones de los programas o planes de desarrollo urbano generarán, entre otras consecuencias, la afectación o desafectación de predios, áreas o zonas en ellos comprendidos y a partir de la fecha de inscripción de la resolución correspondiente.
+II. Los planes parciales de urbanización se modificarán o cancelarán a solicitud del urbanizador y por acuerdo de la Dependencia Municipal, quien informará al Cabildo y dispondrá su publicación y registro; y
+
+III. Si se aprueba la modificación o cancelación de un programa o plan, los predios, áreas o zonas comprendidos en su área de aplicación quedarán afectados de acuerdo a las nuevas modalidades o limitaciones que imponga, o bien quedarán desafectados, a partir de la fecha de vigencia del acuerdo respectivo y su inscripción en el Registro Público de la Propiedad.
 
 ### CAPITULO IX
 
@@ -1727,15 +2137,19 @@ Los programas y planes que sean aprobados, publicados e inscritos, serán obliga
 
 Todas las obras y actividades consideradas en los programas y planes de desarrollo urbano que se realicen en el territorio del Estado, deberán sujetarse a lo dispuesto en los mismos. Sin este requisito no deberá otorgarse autorización o licencia para efectuarlas.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 115.
 
-A partir de la fecha de inscripción de un programa o plan de desarrollo urbano, las autoridades municipales o estatales sólo deberán expedir autorizaciones y licencias de obras de urbanización y edificación en áreas y predios que resulten afectados, si las solicitudes están de acuerdo con el mismo.
+A partir de la fecha de publicación de un programa o plan de desarrollo urbano, las autoridades municipales o estatales sólo deberán expedir autorizaciones y licencias de obras de urbanización y edificación en áreas y predios que resulten afectados, si las solicitudes están de acuerdo con el mismo.
 
-Las autorizaciones y licencias que se expidan contraviniendo esta disposición, serán nulas de pleno derecho, independientemente de las responsabilidades que les resulten a los servidores públicos que las expidan. Esta nulidad será declarada conforme a procedimiento que se indica en el artículo 415 de esta Ley.
+Las autorizaciones y licencias que se expidan contraviniendo esta disposición, serán nulas de pleno derecho, independientemente de las responsabilidades que les resulten a los servidores públicos que las expidan. Esta nulidad será declarada conforme el procedimiento que se indica en el artículo 415 de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 116.
 
-La notificación a los propietarios, poseedores, sucesores o causahabientes de predios y fincas, en su caso, en los supuestos previstos por esta Ley, se verificará conforme a las siguientes reglas:
+La notificación a los propietarios, poseedores a título de dueño, sucesores o causahabientes de predios y fincas, en su caso, en los supuestos previstos por esta Ley, se verificará conforme a las siguientes reglas:
 
 I. Personalmente y por escrito, entregando copia del documento donde conste el acto que se notifica, cuando se conozca su domicilio conforme los registros catastrales;
 
@@ -1753,11 +2167,15 @@ c) El tiempo por el que debe permanecer la cédula en el lugar donde se fije.
 
 En caso de que sea de estricta necesidad demoler total o parcialmente las construcciones, ampliaciones o reconstrucciones realizadas sin licencia o autorización o en contravención de lo dispuesto en los artículos 114 y 115 que anteceden, se procederá conforme los siguientes criterios:
 
-I. Si las acciones se ejecutaron sin autorización o licencia, el costo de los trabajos será a cargo de los propietarios o poseedores y las autoridades estatales o municipales no tendrán obligación de pagar indemnización alguna;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+I. Si las acciones se ejecutaron sin autorización o licencia, el costo de los trabajos será a cargo de los propietarios o poseedores a título de dueño y las autoridades estatales o municipales no tendrán obligación de pagar indemnización alguna;
 
 II. Si las acciones se ejecutaron con autorización o licencia expedida en contravención de los artículos 114 y 115 de esta Ley, el costo de los trabajos será a cargo de la autoridad responsable; y
 
-III. Si en el procedimiento de ejecución de las acciones, los propietario o poseedores acreditan que actuaron de buena fe, tendrán derecho a la indemnización respectiva.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+III. Si en el procedimiento de ejecución de las acciones, los propietarios o poseedores a título de dueño acreditan que actuaron de buena fe, tendrán derecho a la indemnización respectiva.
 
 ###### Artículo 118.
 
@@ -1783,37 +2201,45 @@ De la zonificación de los centros de población.
 
 De las acciones de fundación, conservación, mejoramiento y crecimiento de los centros de población.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 122.
 
 Las zonas, áreas y predios de un centro de población, cualquiera que sea su régimen jurídico, se sujetarán a las modalidades impuestas por las normas contenidas en esta Ley.
 
-El uso y destino de predios ubicados en los centros de población, se sujetará a las normas contenidas en los programas y planes de desarrollo urbano a que se refiere el artículo 43 de esta Ley y en las declaratorias de provisiones, usos, destinos y reservas derivadas de los mismos.
+El uso y destino de predios ubicados en los centros de población, se sujetará a las normas contenidas en los programas y planes de desarrollo urbano a que se refiere el artículo 43 de esta Ley y en la zonificación.
 
 ###### Artículo 123.
 
 Los núcleos de población ejidal o ejidos al localizar, deslindar y fraccionar la zona de urbanización del ejido y su reserva de crecimiento, conforme las normas y procedimientos que define la Ley Agraria, aplicarán las disposiciones de la presente Ley y los reglamentos de zonificación, con la intervención que corresponde a las (sic) gobiernos municipales.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 124.
 
 La fundación de centros de población que se realice conforme a esta Ley requerirá decreto expedido por el Congreso del Estado.
 
-Dicha iniciativa se formulará con apoyo en el Programa Estatal de Desarrollo Urbano; debiendo establecerse los límites del centro de población, así como las declaratorias sobre provisiones de tierras y disponiendo la formulación o revisión de los planes y programas de desarrollo urbano que correspondan.
+La iniciativa de decreto se formulará con apoyo en el Programa Estatal de Desarrollo Urbano; debiendo establecerse los límites del centro de población, así como la determinación sobre provisiones de tierras y dispondrá la formulación o revisión de los planes y programas de desarrollo urbano que correspondan.
 
-El Congreso del Estado remitirá al Titular del Poder Ejecutivo el decreto referido, a efecto de su publicación en el Periódico Oficial "El Estado de Jalisco".
+El Congreso del Estado remitirá al Titular del Poder Ejecutivo el decreto, a efecto de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
-Las declaratorias sobre provisiones de tierras tendrán los efectos legales que corresponden a las declaratorias de reservas urbanas, conforme a las disposiciones del presente ordenamiento.
+La determinación sobre provisiones de tierras tendrá los efectos legales que corresponden a la determinación de reservas urbanas, conforme a las disposiciones del presente ordenamiento.
 
 ###### Artículo 125.
 
 Los programas municipales de desarrollo urbano, señalarán las acciones específicas para la conservación, mejoramiento y crecimiento de dichos centros ubicados en la jurisdicción territorial de cada municipio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 126.
 
-Los planes de desarrollo urbano que regulen y ordenen centros de población, considerarán áreas destinadas a la conservación:
+Los planes de desarrollo urbano que regulen y ordenen centros de población, considerarán áreas destinadas a la conservación ecológica:
 
 I. Las que por sus características y aptitudes naturales sean condicionantes del equilibro ecológico, como la existencia en ellas de bosques, esteros, cuerpos de agua, mantos acuíferos y otros elementos;
 
-II. Las que se encuentren dedicadas a las actividades agropecuarias y forestales, en especial aquellas que por las características del suelo y obras de infraestructura productiva, se consideren de buena calidad;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+II. Las que se encuentren dedicadas a las actividades forestales, en especial aquellas que por las características del suelo y obras de infraestructura productiva, se consideren de buena calidad;
 
 III. Las áreas orográficas, como cerros, colinas y elevaciones o depresiones con pendientes pronunciadas que constituyan elementos naturales del territorio de esos centros de población;
 
@@ -1835,7 +2261,9 @@ Las acciones de conservación de los centros de población se podrán regular y 
 
 I. La formulación, aprobación y ejecución de los planes parciales que señalen las acciones, obras y servicios, así como los aprovechamientos predominantes;
 
-II. La asignación de usos y destinos por medio de las declaratorias correspondientes;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+II. La asignación de usos y destinos;
 
 III. La reglamentación de la edificación, integrando disposiciones que garanticen la preservación de la imagen urbana y eviten la destrucción o la degradación del Patrimonio Cultural;
 
@@ -1875,7 +2303,9 @@ La regulación y ordenamiento de las acciones de crecimiento de los centros de p
 
 I. La determinación de las áreas de expansión futura de los planes de desarrollo urbano de dichos centros;
 
-II. La determinación de las etapas de crecimiento, conforme a las cuales se incorporará a usos urbanos, las áreas y predios incluidos en las declaratorias de reserva, mediante acciones de expansión urbana;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+II. La determinación de las etapas de crecimiento, conforme a las cuales se transformará en usos urbanos, las áreas y predios incluidos en las áreas de reserva, mediante acciones de expansión urbana;
 
 III. La participación de los gobiernos municipales en la formulación, aprobación y ejecución de los planes parciales por medio de los cuales se incorporen porciones de la reserva territorial a la expansión urbana y se regule su crecimiento;
 
@@ -1895,9 +2325,13 @@ I. La determinación de áreas que integran y delimitan un centro de población,
 
 II. La determinación de los aprovechamientos predominantes en las áreas a que se refiere la fracción anterior; y
 
-III. La reglamentación de los usos, destinos y reservas por medio de las declaratorias correspondientes;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
 
-La determinación a que se refieren las fracciones I y II deberán estar contenidas en los planes que ordenen y regulen los centros de población conforme las disposiciones de esta Ley.
+III. La reglamentación de los usos y destinos; y
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+IV. La determinación a que se refieren las fracciones I y II deberán estar contenidas en los planes que ordenen y regulen los centros de población conforme las disposiciones de esta Ley.
 
 ###### Artículo 132.
 
@@ -1967,21 +2401,21 @@ XIII. La clasificación de peritos que intervendrán en la elaboración del Plan
 
 Los municipios al formular la zonificación de los centros de población, aplicarán las disposiciones de este Reglamento, estando facultados a establecer normas específicas cuando así se requieran, conforme las condiciones de su territorio y el desarrollo del asentamiento humano, observando las disposiciones de esta Ley y los convenios de coordinación celebrados conforme los programas nacional, estatal y regional de desarrollo urbano.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 133.
 
-Las declaratorias de usos, destinos y reservas deberán derivarse de los programas y planes previstos en los artículos 76, 84 y 100 de esta Ley y se expedirán conforme las siguientes reglas:
+La determinación de usos, destinos y reservas deberán derivarse de los programas y planes previstos en los artículos 76, 84 y 100 de esta Ley y se expedirán conforme las siguientes reglas:
 
-I. Las declaratorias de provisiones se expedirán en el decreto previsto en el artículo 124 de esta Ley;
+I. La determinación de provisiones se expedirán en el decreto previsto en el artículo 124 de esta Ley; y
 
-II. Las declaratorias de usos, destinos y reservas se expedirán siguiendo el mismo procedimiento requerido para elaborar, aprobar o revisar el programa o plan de desarrollo urbano de donde se deriven; y
+II. La determinación de usos, destinos y reservas, se expedirán siguiendo el mismo procedimiento requerido para elaborar, aprobar o revisar el programa o plan de desarrollo urbano de donde se deriven.
 
-III. Para su vigencia, deberán inscribirse y publicarse, aplicándose en lo conducente los artículos 45, 46 y 47 de esta misma Ley.
-
-Las declaratorias de usos, destinos y reservas, se expedirán en forma conjunta con el plan de desarrollo urbano de que deriven, o bien, en forma posterior. En ningún caso deberán expedirse dichas declaratorias en ausencia o en contravención de los programas y planes a que se refiere el primer párrafo de este artículo.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 134.
 
-Las declaratorias de provisiones, usos, destinos y reservas, contendrán:
+La determinación de provisiones, usos, destinos y reservas, contendrán:
 
 I. Las razones de beneficio social que las motivaron;
 
@@ -1997,71 +2431,87 @@ VI. En su caso, el término de su vigencia; y
 
 VII. Los demás datos que determine esta Ley y sus reglamentos.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 135.
 
-Las declaratorias de usos establecerán las normas de aprovechamiento de los predios, para aquellas zonas de un centro de población que ordenen los programas o planes correspondientes, conforme las disposiciones del Reglamento Estatal de Zonificación.
+La determinación de usos establecerán las normas de aprovechamiento de los predios, para aquellas zonas de un centro de población que ordenen los programas o planes correspondientes, conforme las disposiciones del Reglamento Estatal de Zonificación.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 136.
 
-Las declaratorias de destino contendrán la delimitación precisa de las áreas y predios de que se trate, así como la descripción del fin o aprovechamiento público a que éstos prevean afectarse.
+La determinación de destinos contendrán la delimitación precisa de las áreas y predios de que se trate, así como la descripción del fin o aprovechamiento público a que éstos prevean afectarse.
 
-Una vez publicada e inscrita en el Registro Público de la Propiedad correspondiente, una declaratoria de destinos, los propietarios o poseedores de inmuebles que queden comprendidos en la misma, sólo utilizarán los predios en forma que no presente obstáculos al destino previsto.
+Una vez publicado e inscrito en el Registro Público de la Propiedad correspondiente, el plan o programa donde se autorice la determinación de destinos, los propietarios o poseedores a título de dueño de inmuebles que queden comprendidos en la misma, sólo utilizarán los predios en forma que no presente obstáculos al destino previsto.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 137.
 
-Las declaratorias de destinos derivadas de los planes de desarrollo urbano a que se refieren los artículos 71, 76, 87, 88 y 89 de esta Ley, además de los efectos previstos en el artículo anterior, declararán la utilidad pública y la procedencia de las acciones que conlleven a la adquisición por parte del Municipio o el Estado de los predios y fincas, para proveer a la comunidad de los fines públicos establecidos en las mismas, ejecutando las obras de infraestructura y equipamiento necesarias.
+La determinación de destinos de los planes de desarrollo urbano a que se refieren los artículos 71, 76, 87, 88 y 89 de esta Ley, además de los efectos previstos en el artículo anterior, declararán la utilidad pública y la procedencia de las acciones que conlleven a la adquisición por parte del Municipio o el Estado de los predios y fincas, para proveer a la comunidad de los fines públicos establecidos en las mismas, ejecutando las obras de infraestructura y equipamiento necesarias.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 138.
 
-Las declaratorias de destinos a que se refiere el artículo anterior, cuando comprendan áreas o predios de propiedad privada, de propiedad social o del dominio privado de la Federación, se notificarán a los propietarios, poseedores o causahabientes afectados, conforme al procedimiento previsto en el artículo 116 de esta Ley.
+La determinación de destinos a que se refiere el artículo 137 que antecede, quedarán sin efecto si en un plazo de cinco años a partir de su inscripción, las áreas y predios correspondientes no son utilizados conforme al destino o aprovechamiento público previsto y la determinación no es ratificada.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 139.
 
-Las declaratorias de destinos a que se refiere el artículo 137 que antecede, quedarán sin efecto si en un plazo de cinco años a partir de su inscripción, las áreas y predios correspondientes no son utilizados conforme al destino previsto y la declaratoria no es ratificada.
-
 Las autoridades y los afectados podrán solicitar la cancelación de la anotación recaída en la inscripción de la propiedad.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 140.
 
-Las declaratorias de destinos derivadas de un Plan Parcial de Urbanización expedido conforme las disposiciones del Título Quinto "De la Acción Urbanística", tendrán por efecto la trasmisión de la propiedad de las áreas de cesión para destinos, quedando afectados los predios a los fines públicos previstos específicamente en la declaratoria.
+La determinación de destinos derivadas de un Plan Parcial de Urbanización expedido conforme las disposiciones del Título Quinto "De la Acción Urbanística", tendrán por efecto la transmisión de la propiedad de las vialidades municipales y de las áreas de cesión para destinos, quedando afectados los predios a los fines o aprovechamientos públicos previstos.
 
 Las áreas de cesión para destinos quedarán en posesión del urbanizador hasta la recepción de las obras por el Municipio, en el acto de incorporación municipal previsto en el artículo 211 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 141.
 
-Las declaratorias de reservas contendrán la delimitación de las áreas de expansión futura del centro de población.
+La determinación de reservas contendrán la delimitación de las áreas de expansión futura del centro de población.
 
-En igualdad de circunstancias, dichas declaratorias comprenderán preferentemente terrenos que no sean de propiedad ejidal o comunal.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 142.
 
-Una vez que la declaratoria de reservas sea publicada e inscrita en el Registro Público de la Propiedad, los predios en ella comprendidos se utilizarán por sus propietarios o poseedores en forma que no presente obstáculo al futuro aprovechamiento, determinado por el programa o plan correspondiente.
+Una vez que el plano o programa donde se autorice la determinación de reservas sea publicada e inscrita en el Registro Público de la Propiedad, los predios en ella comprendidos se utilizarán por sus propietarios o poseedores a título de dueño en forma que no presente obstáculo al futuro aprovechamiento, especificado por el programa o plan correspondiente.
 
-La declaratoria de reservas se notificará a los propietarios o poseedores de los predios comprendidos en la misma, conforme al procedimiento previsto en el artículo 116 de esta Ley.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 143.
 
-Al expedirse una declaratoria de reserva urbana que comprenda predios ejidales o comunales, el Titular del Poder Ejecutivo del Estado al ordenar su publicación y registro, dispondrá que se notifique a los comisariados ejidales de los núcleos de población titulares de los terrenos que se afecten, por medio de la Secretaría.
+Cuando se haga necesaria la utilización parcial o total de las reservas, se expedirá un plan parcial que regule las acciones y utilización del área de que se trate y se expedirá la determinación de usos y destinos que sean necesarias.
 
-Así mismo se solicitará al Registro Agrario Nacional, realice las anotaciones correspondientes, con relación a los predios ejidales o comunales comprendidos en las declaratorias de reserva urbana que se expidan y publiquen.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 144.
 
-Cuando se haga necesaria la utilización parcial o total de las reservas, se expedirá un plan parcial que regule las acciones y utilización del área de que se trate y se expedirán las declaratorias de usos y destinos que sean necesarias.
+En el caso de áreas o predios de propiedad ejidal y comunal comprendidas en áreas de reserva, se promoverán los convenios, adquisiciones o expropiaciones en los términos de la Ley Agraria.
 
-En el caso de áreas o predios de propiedad ejidal y comunal, se promoverán los convenios, adquisiciones o expropiaciones en los términos de la Ley Agraria.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 145.
 
-Cuando se expida un Plan de Desarrollo Urbano donde se establezca o modifique el límite de un centro de población, simultáneamente se expedirán las declaratorias de reserva urbana, respecto de las áreas y predios que se autorice incorporar al proceso de urbanización.
+Cuando se expida un Plan de Desarrollo Urbano donde se establezca o modifique el límite de un centro de población, simultáneamente se expedirán las determinaciones de reserva urbana, respecto de las áreas y predios que se autorice incorporar al proceso de urbanización.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 146.
 
-Al municipio que expida las declaratorias de reserva urbana a que se refiere el artículo anterior, le corresponderá promover el desarrollo de las obras de urbanización básica, sin las cuales no se autorizará modalidad alguna de acción urbanística.
+Al Municipio que expida el plan o programa donde se autorice la determinación de reserva urbana a que se refiere el artículo anterior, le corresponderá promover el desarrollo de las obras de infraestructura básica, sin las cuales no se autorizará modalidad alguna de acción urbanística.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 147.
 
-Las obras de urbanización básica las promoverá el Gobierno Municipal de manera directa, o podrá transferirlas a quienes realicen la acción urbanística, conforme a los sistemas que se definen en el artículo 301 del presente ordenamiento. El Plan Parcial donde se autoricen estas obras, establecerá las bases para su financiamiento, precisando la participación que corresponderá a los propietarios de los predios beneficiados.
+Las obras de infraestructura básica las promoverá el Gobierno Municipal de manera directa, o podrá transferirlas a quienes realicen la acción urbanística, conforme a los sistemas que se definen en el artículo 301 del presente ordenamiento. El Plan Parcial donde se autoricen estas obras, establecerá las bases para su financiamiento, precisando la participación que corresponderá a los propietarios de los predios beneficiados.
 
 ###### Artículo 148.
 
@@ -2071,31 +2521,39 @@ El Gobierno del Estado podrá celebrar con los gobiernos municipales, convenios 
 
 El Gobierno del Estado y los gobiernos municipales celebrarán acuerdos de concertación con los núcleos de población ejidal y comunal, para adquirir tierras de su propiedad a fin de destinarlas a los servicios públicos, conforme se dispone en la Ley Agraria.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 150.
 
-Cuando los terrenos de un ejido se encuentren ubicados en la zona de reserva de un centro de población, los núcleos de población ejidal y comunal podrán beneficiarse de la urbanización de sus tierras, promoviendo la acción urbanística por asociación de interés público, prevista en los artículos 383 y 384 de esta Ley.
+Cuando los terrenos de un ejido se encuentren ubicados en la zona de reserva de un centro de población, los núcleos de población ejidal y comunal podrán beneficiarse de la urbanización de sus tierras, promoviendo la acción urbanística privada o por asociación de interés público, prevista en los artículos 383 y 384 de esta Ley.
 
 ### CAPITULO III
 
 Del derecho de preferencia en zonas de reserva.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 151.
 
-Los gobiernos municipales y el Gobierno del Estado, tienen derecho de preferencia para adquirir los predios comprendidos en la declaratoria de reserva, cuando dichos predios sean puestos a la venta o cuando a través de cualquier acto jurídico, vayan a ser objeto de una transmisión de propiedad, conforme a lo dispuesto en la Ley General de Asentamientos Humanos y de la Ley Agraria.
+Los gobiernos municipales y el Gobierno del Estado, tienen derecho de preferencia para adquirir los predios comprendidos en la determinación de reserva, conforme a lo dispuesto en la Ley General de Asentamientos Humanos y la Ley Agraria.
 
-Igual derecho de preferencia tendrán los gobiernos municipales y el Gobierno del Estado, para adquirir los predios comprendidos en la declaratoria de reserva, en caso de remate judicial o administrativo, al precio que se fije en remate al mejor postor.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 152.
 
-Para hacer efectivo este derecho de preferencia, los propietarios de predios comprendidos en la declaratoria de reserva, los notarios, los jueces y las autoridades administrativas, en su caso deberán informarlo a la Presidencia Municipal correspondiente y a la Secretaría, dando a conocer el monto de la operación, a fin de que éstas, en un plazo no mayor de treinta días, contado a partir de recibida la comunicación, ejerzan el derecho de preferencia si lo consideran conveniente.
+Para hacer efectivo este derecho de preferencia, los propietarios de predios comprendidos en la determinación de reserva, los notarios, los jueces y las autoridades administrativas, en su caso deberán informarlo a la Presidencia Municipal correspondiente y a la Secretaría, dando a conocer el monto de la operación, a fin de que éstas, en un plazo no mayor de treinta días, contado a partir de recibida la comunicación, ejerzan el derecho de preferencia si lo consideran conveniente.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 153.
 
-Los gobiernos municipales y el Gobierno del Estado, tienen derecho de preferencia para adquirir los predios ejidales comprendidos en la declaratoria de reserva, en toda enajenación de terrenos en favor de personas ajenas al ejido, conforme se establece en la Ley Agraria.
+Los gobiernos municipales y el Gobierno del Estado, tienen derecho de preferencia para adquirir los predios ejidales o comunales comprendidos en la reserva, en toda enajenación de terrenos en favor de personas ajenas al ejido o comunidad, conforme se establece en la Ley Agraria.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 154.
 
-Para hacer efectivo este derecho de preferencia, quienes enajenen terrenos ejidales comprendidos en una declaratoria de reserva, en su carácter de comisariados ejidales representantes de los núcleos de población propietarios de predios, los titulares de los derechos agrarios, los ejidatarios que hayan asumido el dominio directo de sus parcelas, así como los notarios y las autoridades administrativas que intervengan, quienes en su caso deberán informar a la Presidencia Municipal correspondiente y a la Secretaría, dando a conocer el monto de la operación, a fin de que éstos, en un plazo no mayor de treinta días, contados a partir de recibida la comunicación, ejerzan el derecho de preferencia si lo consideran conveniente.
+Para hacer efectivo este derecho de preferencia, quienes enajenen terrenos ejidales comprendidos en una determinación de reserva, en su carácter de comisariados ejidales representantes de los núcleos de población propietarios de predios, los titulares de los derechos agrarios, los ejidatarios que hayan asumido el dominio pleno de sus parcelas, así como los notarios y las autoridades administrativas que intervengan, quienes en su caso deberán informar a la Presidencia Municipal correspondiente y a la Secretaría, dando a conocer el monto de la operación, a fin de que éstos, en un plazo no mayor de treinta días, contados a partir de recibida la comunicación, ejerzan el derecho de preferencia si lo consideran conveniente.
 
 ###### Artículo 155.
 
@@ -2111,9 +2569,11 @@ Cuando el Gobierno del Estado y el Ayuntamiento expresen su decisión de ejercer
 
 Si el Gobierno Municipal o el Gobierno del Estado ejercitan el derecho de preferencia, pagarán por el predio el mismo precio fijado para el acto que se pretendía realizar, mismo que se liquidará dentro de los treinta días siguientes, a la fecha cuando la autoridad informe al notario que hará la adquisición. Si la autoridad incurre en falta de pago en el término previsto, perderá su derecho de preferencia respecto al predio ofrecido en venta.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 158.
 
-Para el ejercicio del derecho consignado en los artículos 151 y 153 de esta Ley, en aquellos casos donde por la naturaleza del acto traslativo de dominio no se haya determinado el precio del predio, éste se fijará atendiendo al avalúo comercial que practique un perito valuador registrado en la Comisión Nacional Bancaria, en la Comisión Nacional de Valores o en la Comisión de Avalúo de Bienes Nacionales.
+Para el ejercicio del derecho consignado en los artículos 151 y 153 de esta Ley, en aquellos casos donde por la naturaleza del acto traslativo de dominio no se haya determinado el precio del predio, éste se fijará atendiendo al avalúo comercial que practique un perito valuador profesional registrado conforme las disposiciones estatales aplicables en materia de valuación.
 
 ###### Artículo 159.
 
@@ -2129,9 +2589,11 @@ II. Donación entre ascendientes, descendientes, cónyuges y parientes hasta en 
 
 III. Donaciones a instituciones o establecimientos de educación y de investigación, integradas en el Sistema Educativo Nacional.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 161.
 
-El notario, una vez que autorice la escritura donde conste el acto traslativo de dominio de predios comprendidos en la declaratoria de reserva, en un plazo de treinta días deberá informar a la Presidencia Municipal y a la Secretaría, sobre las condiciones definitivas de la operación, adjuntando:
+El notario, una vez que autorice la escritura donde conste el acto traslativo de dominio de predios comprendidos en la determinación de reserva, en un plazo de treinta días deberá informar a la Presidencia Municipal y a la Secretaría, sobre las condiciones definitivas de la operación, adjuntando:
 
 I. Copia de la escritura autorizada por el notario;
 
@@ -2151,25 +2613,33 @@ Previamente la autoridad pedirá se declare la nulidad del acto, conforme las di
 
 El Gobierno del Estado y los gobiernos municipales se coordinarán para ejercer con eficacia el derecho de preferencia que se reglamenta en este Capítulo, a fin de constituir reservas territoriales.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE ENERO DE 1998)</small>
+
 ### CAPITULO IV
 
-De la ejecución de programas y cumplimiento de las declaratorias.
+De la ejecución de programas y cumplimiento de las normas de zonificación.
 
 ###### Artículo 164.
 
 La ejecución de los planes parciales que incluyan acciones de conservación, mejoramiento y crecimiento, podrá realizarse en forma conjunta o separadamente por cualquiera de los sistemas de acción urbanística previstos en el artículo 301 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 165.
 
-Cuando para la ejecución de los programas y planes de desarrollo urbano y cumplimiento de las declaratorias sea necesaria o de mayor beneficio social la ocupación de la propiedad, la autoridad competente, por causa de utilidad pública, promoverá la expropiación de la misma de conformidad con las leyes de la materia, señalando las acciones contenidas en los programas y planes que justifican la adquisición de los predios y fincas, y en especial, las declaratorias de destinos donde se determinen los fines públicos a que se aplicarán esos bienes.
+Cuando para la ejecución de los programas y planes de desarrollo urbano y cumplimiento de las normas de zonificación sea necesaria o de mayor beneficio social la ocupación de la propiedad, la autoridad competente, por causa de utilidad pública, promoverá la expropiación de la misma de conformidad con las leyes de la materia, señalando las acciones contenidas en los programas y planes que justifican la adquisición de los predios y fincas, y en especial, los destinos donde se determinen los fines o aprovechamientos públicos a que se afectaran esos bienes.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 166.
 
-Todos los actos, convenios y contratos relativos a la propiedad, posesión o cualquier otro derecho relacionado con usos de áreas y predios, deberán contener las cláusulas relativas a su aprovechamiento conforme a las declaratorias de usos, destinos y reservas vigentes.
+Todos los actos, convenios y contratos relativos a la propiedad, posesión o cualquier otro derecho relacionado con usos de áreas y predios, deberán contener las cláusulas relativas a su aprovechamiento conforme a las determinaciones de usos, destinos y reservas vigentes.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 167.
 
-Serán nulos y no producirán efecto jurídico alguno los actos, convenios y contratos relativos a la propiedad o cualquier otro derecho relacionado con el aprovechamiento de áreas y predios, que contravengan las correspondientes declaratorias de provisiones, usos, destinos y reservas inscritas en el Registro Público de la Propiedad, así como los actos jurídicos de traslación de dominio que se realicen sin respetar el derecho de preferencia a que se refieren los artículos 151 y 153 de este ordenamiento.
+Serán nulos y no producirán efecto jurídico alguno los actos, convenios y contratos relativos a la propiedad o cualquier otro derecho relacionado con el aprovechamiento de áreas y predios, que contravengan las correspondientes provisiones, usos, destinos y reservas inscritas en el Registro Público de la Propiedad, así como los actos jurídicos de traslación de dominio que se realicen sin respetar el derecho de preferencia a que se refieren los artículos 151 y 153 de este ordenamiento.
 
 Esta declaración de nulidad se tramitará conforme se dispone en el artículo 415 de esta Ley.
 
@@ -2177,7 +2647,9 @@ Esta declaración de nulidad se tramitará conforme se dispone en el artículo 4
 
 Los notarios sólo autorizarán documentos, contratos, convenios, escrituras o minutas, relativos a la propiedad, posesión o cualquier otro derecho relacionado con el aprovechamiento de áreas y predios, en donde se inserten:
 
-I. El certificado del Registro Público de la Propiedad sobre la existencia o inexistencia de las declaratorias de usos, destinos y reserva;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+I. El certificado del Registro Público de la Propiedad sobre la existencia o inexistencia de la determinación de usos, destinos y reserva;
 
 II. Las manifestaciones a que hace referencia el artículo 167;
 
@@ -2197,9 +2669,11 @@ El derecho que establece el artículo anterior, se ejercerá por cualquier habit
 
 Los propietarios o habitantes para ejercer este derecho, pueden optar por informar sobre los hechos a la Procuraduría de Desarrollo Urbano y solicitar intervenga como su representante.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 171.
 
-Para los efectos de la fracción IV del artículo 9, el Congreso del Estado podrá establecer procedimientos de auditoría administrativa, a fin de verificar en su caso, la observancia de los programas y planes de desarrollo urbano y sus declaratorias, por parte de las autoridades municipales facultadas para autorizar acciones urbanísticas y obras de edificación, y en general, el cumplimiento de las normas de zonificación y de este ordenamiento.
+Para los efectos de la fracción IV del artículo 9, el Congreso del Estado podrá establecer procedimientos de auditoría administrativa, a fin de verificar en su caso, la observancia de los programas y planes de desarrollo urbano y su zonificación, por parte de las autoridades municipales facultadas para autorizar acciones urbanísticas y obras de edificación, y en general, el cumplimiento de las normas de zonificación y los procedimientos previstos en este ordenamiento.
 
 ### CAPITULO V
 
@@ -2213,15 +2687,19 @@ Es de utilidad pública la adquisición de tierra para la creación de reservas 
 
 Corresponde a los Gobiernos Estatal y Municipal, realizar programas y acciones que faciliten la adquisición de predios en áreas urbanas, para la construcción de vivienda popular y de interés social.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 174.
 
-El Gobierno del Estado y los gobiernos municipales participarán por medio de sus dependencias o entidades encargadas del manejo de las reservas territoriales, en el Sistema Nacional del Suelo y Reservas Territoriales para el Desarrollo Urbano y la Vivienda, en los términos de esta Ley y demás disposiciones aplicables; podrán convenir entre sí y con el Gobierno Federal las normas de su operación incluyendo, entre otros aspectos, los siguientes:
+El Gobierno del Estado y los gobiernos municipales participarán por medio de sus dependencias o entidades encargadas de la administración de las reservas territoriales, en los términos de esta Ley y demás disposiciones aplicables; podrán convenir entre sí y con el Gobierno Federal las normas de su operación incluyendo, entre otros aspectos, los siguientes:
 
 I. La integración de información e inventarios, así como los requerimientos y la disponibilidad de suelo;
 
 II. La transmisión de terrenos para la integración de reservas territoriales o para su utilización en fines urbanos;
 
-III. El ejercicio del derecho de preferencia para la adquisición de predios comprendidos en las declaratorias de reserva;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+III. El ejercicio del derecho de preferencia para la adquisición de predios comprendidos en las áreas de reserva;
 
 IV. La elaboración de normas de adquisición, aprovechamiento y transmisión a los particulares de suelo y reservas territoriales;
 
@@ -2267,6 +2745,8 @@ De la vivienda.
 
 De la urbanización.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 179.
 
 La enajenación de predios por parte de la administración pública estatal o municipal, atenderán preferentemente las necesidades de suelo de la población de escasos recursos y bajos ingresos.
@@ -2288,6 +2768,8 @@ Los representantes gubernamentales de los órganos de gobierno, administración 
 ### CAPITULO II
 
 De los procedimientos para autorizar obras de urbanización.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 183.
 
@@ -2395,39 +2877,53 @@ De la ejecución de obras de urbanización.
 
 ###### Artículo 193.
 
-Toda acción urbanística deberá proyectarse y realizarse de acuerdo con los programas y planes de desarrollo urbano; y las declaratorias de usos, destinos y reservas, vigentes en su localidad y región.
+Toda acción urbanística deberá proyectarse y realizarse de acuerdo con los programas y planes de desarrollo urbano; y las determinaciones de usos, destinos y reservas, vigentes en su localidad y región.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 194.
 
-Están obligadas a respetar y cumplir las disposiciones de este ordenamiento las personas físicas o morales propietarias de predios o fincas, quienes se desempeñen como promotores y sus respectivos peritos, cuando pretendan realizar o realicen obras de urbanización, edificación, infraestructura o servicios regionales en la Entidad, ya sean públicas o privadas, que se ejecuten en terrenos de cualquier régimen de propiedad.
+Están obligadas a respetar y cumplir las disposiciones de este ordenamiento las personas físicas o morales, dependencias de la administración públicas (sic), organismos descentralizados y entidades paraestatales propietarias de predios o fincas o poseedores a título de dueño, quiénes se desempeñen como promotores y sus respectivos peritos, cuando pretendan realizar o realicen obras de urbanización, edificación, infraestructura o servicios regionales en la Entidad, ya sean públicas o privadas, que se ejecuten en terrenos de cualquier régimen de propiedad.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 195.
 
-Las actividades normadas por la presente Ley sólo deberán realizarse mediante autorización expresa otorgada por el Ayuntamiento de la jurisdicción, previa expedición del Plan Parcial de Urbanización y su Proyecto Definitivo de Urbanización que se requieran de acuerdo al sistema de acción urbanística que se aplique, y una vez que, en cada caso se hayan otorgado las garantías y verificado los pagos que establezcan las Leyes Hacendarias y de Ingresos Municipales o se garantice el interés fiscal.
+Las actividades normadas por la presente Ley sólo deberán realizarse mediante autorización expresa otorgada por el Ayuntamiento de la jurisdicción, previa expedición del Plan Parcial de Urbanización y su Proyecto Definitivo de Urbanización que se requieran de acuerdo al sistema de acción urbanística que se aplique, y una vez que, en cada caso se hayan otorgado las garantías y verificado los pagos por los conceptos previstos en el presente Título Quinto, conforme los procedimientos y tarifas que se determinen en las Leyes Hacendarias y de Ingresos Municipales o en su caso, garantizado el interés fiscal.
 
 ###### Artículo 196.
 
 El Ayuntamiento, conforme las disposiciones y bases de la Ley Orgánica Municipal, establecerá la Dependencia Municipal que tendrá a su cargo los procedimientos para expedir los dictámenes, autorizaciones y licencias previstos en las fracciones XIX, XX, XXI y XXII del artículo 12 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 197.
 
-En caso de que el Ayuntamiento haya celebrado con el Ejecutivo Estatal el convenio correspondiente, la Secretaría elaborará y expedirá los dictámenes previstos para autorizar obras de urbanización y edificación.
+En caso de que el Ayuntamiento haya celebrado con el Ejecutivo Estatal el convenio correspondiente, la Secretaría elaborará y expedirá los dictámenes previstos en los procedimientos de autorización obras de urbanización y en su caso, autorizar las obras de edificación.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 198.
 
-Para efectos de realizar la supervisión municipal de las obras de urbanización y edificación, el Ayuntamiento establecerá un registro de peritos autorizados, con quienes los urbanizadores podrán contratar la supervisión municipal de las mismas.
+Para efectos de realizar la supervisión municipal de las obras de urbanización y edificación, el Ayuntamiento establecerá un registro de peritos que auxiliarán a la Autoridad Municipal en dicha función.
 
 En el desempeño de sus funciones, los peritos observarán la legislación estatal y los reglamentos municipales aplicables.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 199.
 
 Toda obra de urbanización y edificación regulada por esta Ley, deberá respetar y responder a los lineamientos de su respectivo Plan Parcial de Urbanización, para garantizar su integración en el contexto urbano donde se ubique.
 
-Los desarrollos turísticos, campestres y granjas que se localicen fuera de los límites de un centro de población, requerirán la elaboración de su Plan Parcial de Urbanización conforme los lineamientos del Plan Regional de Desarrollo Urbano previstos en los artículos 62, 64 y 70 de esta Ley y las disposiciones del Reglamento Estatal de Zonificación.
+Los desarrollos industriales, comerciales, turísticos, campestres, granjas y similares, que se localicen fuera de los límites de un centro de población, requerirán la elaboración de su Plan Parcial de Urbanización, conforme las disposiciones del Reglamento Estatal de Zonificación y en su caso, del Programa de Ordenamiento Ecológico Local y los lineamientos del Plan Regional de Desarrollo Urbano.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 200.
 
-En el caso de las áreas y predios donde existan cauces, escurrimientos, arroyos o cuerpos de agua y se pretenda urbanizar, el Ayuntamiento deberá tramitar ante las dependencias competentes en la materia, la delimitación de las servidumbres y zonas de protección necesarias para garantizar el funcionamiento adecuado del sistema hidráulico al que pertenezcan. Estas áreas de dominio público no se considerarán para definir, en ningún concepto, las áreas de cesión para destinos que correspondan a la urbanización.
+En el caso de los predios que resulten afectados por las áreas de restricción o protección, el Ayuntamiento deberá tramitar ante las dependencias competentes en la materia, la delimitación precisa de las zonas de protección necesarias para garantizar su funcionamiento y especificarlas en el Plan Parcial de Desarrollo Urbano.
+
+Estas áreas no son generadoras de áreas de cesión por lo que no se considerarán para determinar y cuantificar, en ningún concepto, las áreas de cesión para destinos que correspondan a la urbanización.
 
 ###### Artículo 201.
 
@@ -2445,7 +2941,9 @@ III. Los elementos de la vialidad, como calles, banquetas, andadores, estacionam
 
 IV. Los servicios e instalaciones especiales que requieran las actividades de la industria, el comercio y los servicios;
 
-V. Los componentes del paisaje urbano, como arbolado, jardinería y mobiliario; y
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+V. Los componentes de la imagen urbana, como arbolado, jardinería y mobiliario; y
 
 VI. Las demás que se requieran para lograr el asentamiento en condiciones óptimas para la vida de la comunidad, para proveer los usos y destinos relacionados con la habitación, el trabajo, la educación y el esparcimiento.
 
@@ -2455,7 +2953,9 @@ Por su alcance las obras de urbanización se clasifican en:
 
 I. Obras de urbanización para la expansión urbana: las acciones técnicas de acondicionamiento del suelo rústico para aprovechamientos urbanos mediante su incorporación municipal, implicando un cambio en las relaciones de propiedad y tenencia del mismo; y
 
-II. Obras de urbanización para la renovación urbana: las acciones técnicas de acondicionamiento del suelo en zonas comprendidas en los centros de población; y las relativas al mejoramiento, saneamiento y reposición de sus elementos, como la vialidad, redes de servicio o del paisaje urbano, pudiendo implicar, un cambio en las relaciones de propiedad y tenencia del suelo, que requerirá su reincorporación municipal.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+II. Obras de urbanización para la renovación urbana: las acciones técnicas de acondicionamiento del suelo en zonas comprendidas en los centros de población; y las relativas al mejoramiento, saneamiento y reposición de sus elementos, como la vialidad, redes de servicio o de la imagen urbana.
 
 ###### Artículo 204.
 
@@ -2473,35 +2973,47 @@ Unicamente se exceptúan de esta prohibición, la ejecución de medidas de segur
 
 No se deberá expedir la autorización de habitabilidad a edificación alguna, en tanto no se hayan recibido por el Municipio las respectivas obras de urbanización.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 207.
 
-La incorporación municipal de terrenos que regula la presente Ley, se refiere al procedimiento que permite declarar suelo urbanizado a los predios rústicos que pertenecen a la reserva urbana de un centro de población o los predios intraurbanos no-incorporados, para darles las funciones asignadas en su respectivo Plan de Desarrollo Urbano, conforme a sus declaratorias de usos y destinos.
+Los actos de incorporación o reincorporación municipal se realizarán conforme las disposiciones del Capítulo II "De los procedimientos para autorizar obras de urbanización" del presente Título Quinto.
 
-La reincorporación municipal de terrenos se refiere al procedimiento que permite asignar al suelo urbanizado, nuevas modalidades o intensidades para su utilización y relaciones de propiedad. Se aplica a predios ubicados, en zonas que forman parte del centro de población, cuyo Plan Parcial de Urbanización determina acciones de mejoramiento que requieren la ejecución de obras de renovación urbana.
+La incorporación o reincorporación se autorizará una vez verificado el acto formal de recepción de las obras de urbanización y equipamiento urbanos, mismos que tienen como principal efecto que éstas, así como la administración de los servicios públicos correspondientes, serán asumidos por Ayuntamientos o sus organismos operadores.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 208.
 
-Toda acción urbanística, para su incorporación o reincorporación municipal, deberá ejecutarse respetando las áreas de cesión para destinos establecidas en su Plan Parcial, acatando las normas de los reglamentos de zonificación.
+Toda acción urbanística, para su incorporación o reincorporación municipal, deberá ejecutarse respetando las áreas de cesión para destinos establecidas en su Plan Parcial de Urbanización, acatando las normas de los reglamentos de zonificación.
 
 ###### Artículo 209.
 
 Tratándose de zonas ya incorporadas que sean sujetas a obras de renovación urbana, donde se requieran áreas para equipamiento mayores a las existentes, estarán sujetas a otorgar una nueva cesión de áreas para destinos, de acuerdo a las disposiciones de los reglamentos de zonificación.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 210.
 
-Para acordar la incorporación o reincorporación municipal de un predio, se requiere que se hayan:
+Para autorizar la incorporación o reincorporación municipal de un predio, se requiere que se hayan:
 
-I. Ejecutado las obras y cumplido con los requisitos establecidos en el Plan Parcial de Urbanización;
+I. Ejecutado las obras de infraestructura básica, las propias de la acción urbanística y cumplido con los requisitos establecidos en el Plan Parcial de Urbanización;
 
 II. Formalizado la entrega de las áreas de vialidad y de los espacios para las instalaciones públicas y otras áreas de cesión para destinos; y
 
-III. Realizado los pagos que determinan las Leyes Hacendarias y de Ingresos Municipales o en su caso, garantizado el interés fiscal.
+III. Realizado los pagos por los conceptos previstos en el presente Título Quinto, conforme los procedimientos y tarifas que se determinen en las Leyes Hacendarias y de Ingresos Municipales o en su caso, garantizado el interés fiscal.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 211.
 
-La incorporación o reincorporación se acordará por el Cabildo correspondiente, acto que perfeccionará la trasmisión a título gratuito, a favor del patrimonio municipal, de las áreas de cesión para destinos, conforme a los efectos previstos en el artículo 140 de esta Ley.
+La incorporación o reincorporación se acordará por el Cabildo correspondiente, acto que perfeccionará la transmisión a título gratuito, a favor del patrimonio municipal, de las vialidades municipales y de las áreas de cesión para destinos, conforme a los efectos previstos en el artículo 140 de esta Ley.
 
 El Ayuntamiento procederá a comprobar el registro y en su caso, tramitar la titulación de los predios y fincas que se hayan afectado a los servicios públicos establecidos en el Plan Parcial de Urbanización.
+
+Una vez que se apruebe la incorporación o reincorporación el Ayuntamiento estará obligado a suministrar y administrar los servicios básicos y equipamiento para el funcionamiento óptimo del asentamiento, conforme a su régimen de propiedad o modalidad de la acción urbanística.
+
+La autorización de la incorporación o reincorporación por el Ayuntamiento, por sí misma, no es un acto generador de contribuciones.
 
 ### CAPITULO IV
 
@@ -2509,87 +3021,99 @@ De la recepción de obras de urbanización.
 
 ###### Artículo 212.
 
-La autorización de las actividades relativas a la realización de obras de urbanización, sólo deberá otorgarse a la persona física o moral que sea propietaria de los predios en donde se pretenda ejecutar dichas obras y se encuentre en legal posesión de los mismos, asumiendo a partir de este momento el carácter jurídico de urbanizador, o al promotor inmobiliario legalmente autorizado, con quien contrate el desarrollo de la urbanización.
+La administración y control de la zonificación por la Dependencia Municipal se realizará por dos tipos de dictámenes:
+
+I. El Dictamen de Usos y Destinos, mediante el cual se certificará la clasificación y la utilización determinadas para el predio en la zonificación vigente, para los efectos legales de actos o documentos donde se requiera esta información; y
+
+II. El Dictamen de Trazo, Usos y Destinos Específicos, fundados en el Reglamento Estatal de Zonificación, en el Plan de Desarrollo Urbano de Centro de Población y en su caso en el Plan Parcial de Desarrollo Urbano, donde se precisarán las normas y lineamientos para la elaboración del Plan Parcial de Urbanización, el proyecto definitivo de urbanización o el proyecto de edificación.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 213.
 
-Solo se dará trámite a la solicitud para autorizar obras de urbanización que se acompañe de los títulos de propiedad inscritos en el Registro Público al que corresponda y de los documentos que acrediten la posesión de los predios.
+La Dependencia Municipal expedirá los dictámenes a que se refiere el artículo anterior, conforme a las disposiciones siguientes:
+
+I. Se expedirán a cualquier persona que lo solicite, previo pago del derecho que fije la Ley de Ingresos Municipal;
+
+II. La solicitud expresará los datos generales del predio, así como el nombre, domicilio e identificación del solicitante;
+
+III. Recibida la solicitud se expedirá el Dictamen de Usos y Destinos en un plazo no mayor de tres días;
+
+IV. Recibida la solicitud se expedirá el Dictamen de Trazo, Usos y Destinos Específicos, en un plazo no mayor de una semana; y
+
+V. Estos dictámenes tienen el carácter de certificaciones, tendrán vigencia indefinida y validez legal, en tanto no se modifiquen o cancelen los planes de los cuales se deriven.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 214.
 
-La prueba que acredite la posesión de los terrenos consistirá en las diligencias de jurisdicción voluntaria tramitadas ante las autoridades judiciales, testimonio notarial u otros medios idóneos, según determine el Ayuntamiento.
+Las autorizaciones, permisos o licencias para la realización de obras de urbanización, de subdivisiones y relotificaciones sólo deberán otorgarse a la persona física o moral que sea propietaria de los predios en donde se pretenda ejecutar dichas obras y se encuentre en legal posesión de los mismos, asumiendo a partir de este momento el carácter jurídico de urbanizador, o al promotor inmobiliario legalmente autorizado, con quien contrate el desarrollo de la urbanización.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 215.
 
-En la materia regulada por la presente ley no se admite la gestión de negocios, debiendo por tanto quien comparezca a realizar alguna gestión acreditar el interés jurídico para ello, en los términos de la legislación civil.
+Sólo se dará trámite a la solicitud de licencia para autorizar obras de urbanización que se acompañe de los títulos de propiedad inscritos en el Registro Público al que corresponda y de los documentos que acrediten la posesión de los predios.
 
-Cuando el solicitante sea promotor inmobiliario, además de cumplir con los requisitos estipulados en los dos artículos que anteceden, deberá acompañar a la solicitud las copias de los convenios celebrados con los propietarios de los terrenos o poder suficiente para este trámite, en el caso de urbanizaciones para la expansión urbana, o de terrenos y edificios, en el caso de urbanizaciones para la renovación urbana, donde se acredite su interés en el trámite.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 216.
 
-Toda solicitud para autorizar el Plan Parcial de Urbanización o el Proyecto Definitivo de Urbanización, deberá ir acompañada de la carta de aceptación de los peritos responsables.
+La prueba que acredite la posesión de los terrenos consistirá en las diligencias de jurisdicción voluntaria tramitadas ante las autoridades judiciales, testimonio notarial u otros medios idóneos, según determine el Ayuntamiento.
 
-Solo podrán intervenir como peritos en obras de urbanización los profesionistas con título de arquitecto o ingeniero civil, registrados ante la Dirección de Profesiones del Estado y en el Municipio respectivo.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 217.
 
-Para realizar obras de urbanización es indispensable que se haya expedido su correspondiente Plan Parcial de Urbanización y se haya autorizado su Proyecto Definitivo de Urbanización.
+Cuando el solicitante sea promotor inmobiliario, además de cumplir con los requisitos estipulados en los dos artículos que anteceden, deberá acompañar a la solicitud las copias de los convenios celebrados con los propietarios de los terrenos o poder suficiente para este trámite, en el caso de urbanizaciones para la expansión urbana, o de terrenos y edificios, en el caso de urbanizaciones para la renovación urbana, donde se acredite su interés en el trámite.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 218.
 
-Solamente se autorizarán obras de urbanización para la expansión urbana, en terrenos que estén contenidos en las reservas del centro de población respectivo, de acuerdo a los usos y destinos estipulados en su Plan de Desarrollo Urbano, donde se cumpla con las previsiones de los artículos 146 y 147 de esta Ley.
+Toda solicitud para autorizar el Plan Parcial de Urbanización o el Proyecto Definitivo de Urbanización, deberá ir acompañada de la carta de aceptación de los peritos responsables.
 
-Solamente se autorizarán obras de urbanización para la renovación urbana, en las zonas definidas en el Plan de Desarrollo Urbano del Centro de Población y de acuerdo con los usos y destinos establecidos en sus declaratorias.
+Sólo podrán intervenir como peritos en obras de urbanización los profesionistas con título de arquitecto o ingeniero civil.
 
-Cuando el centro de población no cuente con su correspondiente Plan de Desarrollo Urbano y se pretenda realizar obras de urbanización, el Ayuntamiento dispondrá su elaboración inmediata.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 219.
 
-La autorización del Plan Parcial de Urbanización requerirá de los siguientes dictámenes expedidos por la Dependencia Municipal, donde se precisarán las normas y lineamientos para su elaboración:
+Para realizar obras de urbanización es indispensable que se haya expedido su correspondiente Plan Parcial de Urbanización y se haya autorizado su Proyecto Definitivo de Urbanización.
 
-I. Dictamen de Usos y Destinos, referidos a las declaratorias vigentes, derivadas del Plan de Desarrollo Urbano del Centro de Población; y
-
-II. Dictamen de Trazo, Usos y Destinos Específicos, referidos al Plan Parcial de Urbanización que se propone, fundados en el Reglamento Estatal de Zonificación, que determinará la ubicación y características de los elementos de vialidad y transportación, equipamiento urbano y los distintos usos, que serán integrados en el Proyecto Definitivo.
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 220.
 
-Para obtener los dictámenes referidos en el artículo anterior, se solicitarán a la Dependencia Municipal conforme el artículo 212 de esta Ley, previo pago del derecho que fije la Ley de Ingresos Municipal.
+Solamente se autorizarán obras de urbanización para la expansión urbana, en terrenos que estén contenidos en las reservas del centro de población respectivo, de acuerdo a los usos y destinos estipulados en su plan de desarrollo urbano, donde se cumpla con las previsiones de los artículos 146 y 147 de esta Ley.
 
-Recibida la solicitud correspondiente, la Dependencia Municipal expedirá el dictamen de Usos y Destinos en un plazo no mayor de tres días; y el Dictamen de Trazo, Usos y Destinos Específicos, en un plazo no mayor de dos semanas.
+Solamente se autorizarán obras de urbanización para la renovación urbana, en las zonas definidas en el Plan de Desarrollo Urbano de Centro de Población y de acuerdo con los usos y destinos establecidos en su zonificación.
 
-Cuando se solicite en forma simultánea la expedición de los dos dictámenes, se expedirán en un plazo no mayor de dos semanas.
+Cuando el centro de población no cuente con su correspondiente Plan de Desarrollo Urbano y se pretenda realizar obras de urbanización, el Ayuntamiento dispondrá su elaboración inmediata.
+
+En caso de que las autoridades competentes no cuenten con los recursos necesarios para realizarlo podrá recibir la propuesta del propietario o de los interesados en desarrollar la zona. La propuesta se sujetará a los procedimientos para su autorización conforme a lo señalado en el Título Segundo Capítulo VI de esta ley.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 221.
 
-Con fundamento en los dictámenes expresados en el artículo que antecede, el urbanizador elaborará el proyecto de Plan Parcial de Urbanización, mismo que contendrá:
-
-I. La referencia al Plan de Desarrollo Urbano de Centro de Población del cual se derive;
-
-II. Los objetivos generales y específicos que se persiguen;
-
-III. La localización y delimitación precisa de la zona que comprenda;
-
-IV. La descripción del estado actual de la zona, de sus aprovechamientos predominantes y de la problemática que presenta;
-
-V. En su caso, los estudios de impacto ambiental y riesgos, conforme a la legislación vigente;
-
-VI. Las normas y criterios técnicos aplicables, en particular aquéllas que definan la compatibilidad de usos habitacionales, comerciales y de servicios, industriales y áreas naturales protegidas; y los criterios de ingeniería urbana e ingeniería de tránsito;
-
-VII. La memoria descriptiva que señale la densidad de edificación, intensidades de uso, y los criterios de integración fisonómica; y
-
-VIII. El proyecto de declaratorias de usos y destinos, conforme a la propuesta, precisando la localización y límites de las áreas de cesión para destino.
+La autorización del Plan Parcial de Urbanización requerirá del Dictamen de Trazo, Usos y Destinos Específicos, referidos al Plan de Desarrollo Urbano de Centro de Población y en su caso al Plan Parcial de Desarrollo Urbano, donde se precisarán las normas y lineamientos para su elaboración, fundados en el Reglamento Estatal de Zonificación. Con fundamento en este dictamen, el urbanizador elaborará el proyecto de Plan Parcial de Urbanización.
 
 ###### Artículo 222.
 
 Para promover ante el Ayuntamiento la autorización del proyecto de Plan Parcial de Urbanización, se requerirá presentar la documentación siguiente:
 
-I. Copias de los dictámenes referidos en el artículo 219 de esta Ley;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+I. Copias del Dictamen de Trazo, Usos y Destinos Específicos;
 
 II. Copias de los títulos donde se acredite la propiedad de los predios o, en su caso, de los convenios celebrados con los propietarios para realizar las obras de urbanización;
 
 III. Los documentos donde se acredite la posesión legal de los terrenos;
 
-IV. El proyecto de Plan Parcial de Urbanización integrado conforme las disposiciones del artículo anterior;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+IV. El proyecto de Plan Parcial de Urbanización integrado conforme las disposiciones del artículo 94 de esta Ley;
 
 V. La versión abreviada del proyecto de Plan Parcial de Urbanización integrada conforme el artículo 49 de esta Ley, para los efectos de su publicación; y
 
@@ -2611,25 +3135,35 @@ V. Los estudios de la infraestructura urbana y servicios disponibles en la zona,
 
 VI. En su caso, los criterios de conservación patrimonial.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 224.
 
-Cuando el promovente no acredite los requisitos para desempeñarse como urbanizador, la documentación esté incompleta o el proyecto de Plan Parcial no reúna los requisitos generales, por escrito se harán las indicaciones para que se subsanen las omisiones. El expediente se regresará a su promovente, con las anotaciones pertinentes en su solicitud.
+Cuando el promovente no acredite los requisitos para desempeñarse como urbanizador, la documentación esté incompleta o el proyecto de Plan Parcial no reúna los requisitos generales, por escrito y en un plazo no mayor a tres días hábiles se harán las indicaciones para que se subsanen las omisiones. El expediente se regresará a su promovente, con las anotaciones pertinentes en su solicitud.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 225.
 
 Recibida la solicitud de autorización de un Plan Parcial, en el término de una semana la Dependencia Municipal dispondrá:
 
-I. Se publique en los estrados del Ayuntamiento la versión abreviada y se envíe copia de la misma al Consejo de Colaboración Municipal; y
+> <small>(F. DE E., P.O. 18 DE MARZO DE 1999)</small>
 
-II. Se publique la solicitud en los dos periódicos de mayor circulación en la localidad, o en su defecto, en los dos diarios de mayor circulación en la Capital del Estado;
+I. Se publique en los estrados del Ayuntamiento la versión abreviada y se envíe copia de la misma al Consejo de colaboración municipal y a la Secretaría de Desarrollo Urbano;
 
-Al enviarse las copias de la versión abreviada y publicarse la solicitud de autorización del Plan Parcial de Urbanización, se precisará la fecha en que se recibió el expediente completo para su trámite y se convocará a los interesados para que presenten sus observaciones por escrito, en un plazo máximo de dos semanas.
+II. Se informe a las asociaciones de vecinos legalmente constituidas, cuyo ámbito territorial de gestión forme parte del área de estudio del plan parcial; y
+
+III. Se publique la solicitud de autorización de plan parcial en los dos periódicos de mayor circulación en la localidad, o en su defecto, en los dos diarios de mayor circulación en la Capital del Estado; únicamente en aquellas localidades con poblaciones mayores a diez mil habitantes.
+
+Al enviarse las copias de la versión abreviada y publicarse la solicitud de autorización del Plan Parcial de Urbanización, se precisará la fecha cuando se recibió el expediente completo para su trámite y se convocará a los interesados para que informen a la Dependencia Municipal, en un plazo máximo de una semana, si presentarán observaciones al de plan. Quienes atiendan a la convocatoria, podrán presentar sus observaciones por escrito, en un plazo máximo de dos semanas posteriores a la misma convocatoria.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 226.
 
 Con base en el expediente y considerando las observaciones que se presenten conforme el artículo anterior, la Dependencia Municipal dictaminará en un plazo de tres semanas a partir de la fecha en que reciba la solicitud.
 
-Si el dictamen técnico de la Dependencia Municipal establece que es procedente autorizar el Plan Parcial de Urbanización y su declaratoria de usos y destinos, se someterá a consideración del Cabildo.
+Si el dictamen técnico de la Dependencia Municipal establece que es procedente autorizar el Plan Parcial de Urbanización y su determinación de usos y destinos, se someterá a consideración del Cabildo para su aprobación.
 
 ###### Artículo 227.
 
@@ -2657,6 +3191,8 @@ Si transcurrido este plazo el Ayuntamiento no acuerda la solicitud, el urbanizad
 
 Una vez aprobado por el Ayuntamiento el Plan Parcial de Urbanización, deberá ser remitido por éste al Titular del Poder Ejecutivo del Estado, para efecto de su publicación en el Periódico Oficial "El Estado de Jalisco" y su inscripción, en los términos de lo previsto en los artículos 45, 46 y 47 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 232.
 
 El acuerdo del Ejecutivo Estatal que ordene la publicación del Plan Parcial de Urbanización y su registro, será comunicado por la Secretaría a la Dependencia Municipal para que se tramite su inserción en los diarios, de conformidad al artículo 45 de esta Ley.
@@ -2664,6 +3200,8 @@ El acuerdo del Ejecutivo Estatal que ordene la publicación del Plan Parcial de 
 ###### Artículo 233.
 
 En el caso de obras de urbanización para la renovación urbana, se duplicarán los plazos para tramitar la autorización del proyecto de Plan Parcial de Urbanización, previstos en los artículos 225, 226 y 229 que anteceden.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 234.
 
@@ -2673,93 +3211,85 @@ I. Los planos propios del proyecto, que incluyen:
 
 a) El plano de localización, que exprese:
 
-1. La ubicación exacta de los terrenos en el centro de población del Municipio que corresponda;
+1.- La ubicación exacta de los terrenos en el centro de población del Municipio que corresponda;
 
-2. La localización de los predios, indicando los usos y destinos declarados en el plan parcial correspondiente; y
+2.- La localización de los predios, indicando los usos y destinos determinados en el plan parcial correspondiente; y
 
-3. Las vías de comunicación existentes de acceso al área.
+3.- Las vías de comunicación existentes de acceso al área.
 
-b) Los planos de ubicación en el contexto inmediato, en escala no superior a 1:5000, marcando:
+b) Los planos de ubicación en el contexto inmediato, marcando:
 
-1. La distancia exacta de zonas ya urbanizadas y sus conexiones con las mismas; y
+1.- La distancia exacta de zonas ya urbanizadas y sus conexiones con las mismas; y
 
-2. Las medidas, colindancias y superficies del terreno, demarcándose si se trata de uno o varios predios. En caso de urbanizaciones para la renovación urbana, se incluirán también estos datos referidos a los edificios existentes;
+2.- Las medidas, colindancias y superficies del terreno, demarcándose si se trata de uno o varios predios. En caso de urbanizaciones para la renovación urbana, se incluirán también estos datos referidos a los edificios existentes.
 
 c) El plano topográfico que contenga:
 
-1. El polígono de los límites de propiedad con su cuadro de construcción;
+1.- El polígono de los límites de propiedad con su cuadro de construcción;
 
-2. Curvas de nivel a cada metro;
+2.- Curvas de nivel a cada metro;
 
-3. Ubicación de arbolados importantes, si los hubiese, así como de escurrimientos, cuerpos de agua u otros elementos naturales significativos; y
+3.- Ubicación de arbolados importantes, si los hubiese, así como de escurrimientos, cuerpos de agua u otros elementos naturales significativos; y
 
-4. Ubicación de caminos, líneas de instalaciones, así como otras obras de infraestructura existentes en el predio;
+4.- Ubicación de caminos, líneas de instalaciones, así como otras obras de infraestructura existentes en el predio.
 
-d) Plano de usos y destinos, en escala no superior a 1:2000, señalando:
+d) Plano de usos y destinos señalando:
 
-1. Su zonificación interna marcando los usos y destinos, indicando los tipos y densidad de edificación; y
+1.- Su zonificación interna marcando los usos y destinos, indicando los tipos y densidad de edificación; y
 
-2. Las áreas de cesión para destinos;
+2.- Las áreas de cesión para destinos.
 
-e) El plano de vialidad, en escala no superior a 1:1000, donde se marquen claramente las áreas destinadas a las calles, especificando sus características:
+e) El plano de vialidad, donde se marquen las áreas destinadas a las calles, especificando sus características:
 
-1. El trazo de los ejes de esas calles referido geométricamente a los linderos del terreno;
+1.- El trazo de los ejes de esas calles referido geométricamente a los linderos del terreno;
 
-2. Los ángulos de intersección de los ejes;
+2.- Los ángulos de intersección de los ejes;
 
-3. Las distancias entre los ejes; y
+3.- Las distancias entre los ejes; y
 
-4. El detalle de las secciones transversales de las calles, en escala no superior a 1:100;
+4.- El detalle de las secciones transversales de las calles.
 
-f) El plano de proyecto de arbolado para las vías y espacios públicos;
+f) El plano de proyecto de arbolado para las vías y espacios públicos.
 
-g) Los planos manzaneros, en escala no superior a 1:500 conteniendo:
+g) Los planos manzaneros, conteniendo:
 
-1. Las dimensiones y superficies de cada lote;
+1.- Las dimensiones y superficies de cada lote;
 
-2. Los usos que se proponen para los mismos; y
+2.- Los usos que se proponen para los mismos; y
 
-3. Los tipos y densidad de edificación. En el caso de urbanizaciones para la renovación urbana, también se indicarán las modificaciones que se proponen practicar en las edificaciones existentes;
+3.- Los tipos y densidad de edificación. En el caso de urbanizaciones para la renovación urbana, también se indicarán las modificaciones que se proponen practicar en las edificaciones existentes.
 
-h) El proyecto de integración y protección al entorno;
-
-i) El proyecto de integración vial y de transporte;
-
-j) En el caso de urbanizaciones para la renovación urbana, el plano indicando el estado de la edificación existente y el grado de intervención en la misma;
+h) En el caso de urbanizaciones para la renovación urbana, el plano indicando el estado de la edificación existente y el grado de intervención en la misma.
 
 II. Los planos de servicio, que incluyen:
 
 a) Planos del proyecto de obras e instalaciones técnicas, propias de la urbanización con sus descripciones correspondientes, que comprenden:
 
-1. El plano de niveles de rasantes y plataformas indicando las zonas de cortes y rellenos;
+1.- El plano de niveles de rasantes y plataformas indicando las zonas de cortes y rellenos;
 
-2. El proyecto de la red de agua potable;
+2.- El proyecto de la red de agua potable;
 
-3. El proyecto de la red o del sistema de desalojo de las aguas residuales y pluviales;
+3.- El proyecto de la red o del sistema de desalojo de las aguas residuales y pluviales; y
 
-4. El proyecto de la red de electrificación y del alumbrado público; y
+4.- El proyecto de la red de electrificación y del alumbrado público.
 
-5. El proyecto de dispositivos de señalamientos de vialidad y semáforos;
-
-b) El plano que indique fuentes de aprovisionamiento de agua potable, sitios de descarga de los drenajes, alimentaciones eléctricas, telefónicas e instalaciones especiales y su conexión con el predio a urbanizar;
+b) El plano que indique fuentes de aprovisionamiento de agua potable, sitios de descarga de los drenajes, alimentaciones eléctricas, telefónicas e instalaciones especiales y su conexión con el predio a urbanizar.
 
 III. Las especificaciones generales, como son:
 
 a) La memoria descriptiva del proyecto, donde se presente:
 
-1. La clasificación de la urbanización, de acuerdo a los reglamentos de zonificación aplicables;
+1.- La clasificación de la urbanización, de acuerdo a los reglamentos de zonificación aplicables;
 
-2. Las normas de calidad de las obras;
+2.- Las normas de calidad de las obras;
 
-3. Las especificaciones de construcción;
+3.- Las especificaciones de construcción; y
 
-4. La proposición de restricciones a las que debe estar sujeta la urbanización; y
+4.- La proposición de restricciones a las que debe estar sujeta la urbanización.
 
-5. Las proposiciones de configuración del paisaje urbano, demostrando en el caso de las urbanizaciones para la renovación urbana, la integración de las obras nuevas a la edificación existente;
+b) El plano que, en su caso, defina las etapas de ejecución y la secuencia de las obras, con su calendario de obras correspondiente.
 
-b) El plano que, en su caso, defina las etapas de ejecución y la secuencia de las obras, con su calendario de obras correspondiente;
-
-c) En su caso, los planteamientos de afectaciones a la vialidad durante la ejecución de las obras, incluyendo los desvíos del tránsito por etapas y el proyecto de señalamiento de orientación del tránsito y de protección de las obras;
+c) En su caso, los planteamientos de afectaciones a la vialidad durante la ejecución de las obras, incluyendo los desvíos del tránsito por etapas y el proyecto de señalamiento de orientación del tránsito y de protección de las obras.
 
 IV. La documentación complementaria, en su caso, consistente en:
 
@@ -2787,11 +3317,11 @@ VI. La boleta que acredite el pago del derecho correspondiente a este trámite, 
 
 Cuando el promovente no acredite los requisitos para desempeñarse como urbanizador, la documentación esté incompleta o el Proyecto Definitivo de Urbanización no reúna los requisitos generales, en ese mismo acto y por escrito, se harán las indicaciones para que se subsanen las omisiones. El expediente se regresará a su promovente, con las anotaciones pertinentes en su solicitud.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 237.
 
-Los Ayuntamientos, a fin de resolver las solicitudes de permiso para realizar obras de urbanización, deberán tomar en cuenta las exigencias del Plan de Desarrollo Urbano del Centro de Población correspondiente, así como la disponibilidad para la prestación de los servicios públicos y otros elementos que resulten relevantes para el caso.
-
-En base a ello, la Dependencia Municipal acordará en un plazo de dos semanas. Este acuerdo será notificado al urbanizador.
+La Dependencia Municipal acordará la autorización del Proyecto Definitivo de Urbanización en un plazo de dos semanas. Este acuerdo será notificado al urbanizador.
 
 ###### Artículo 238.
 
@@ -2815,9 +3345,11 @@ El urbanizador estará obligado a costear por su cuenta todas las obras de urban
 
 Los urbanizadores ejecutarán o aportarán mediante convenio el equipamiento, las instalaciones y el mobiliario en los destinos, dentro de las áreas o predios a urbanizar, que se precisen en el Proyecto Definitivo de Urbanización, conforme a las normas del Reglamento Estatal de Zonificación.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 243.
 
-Los urbanizadores aportarán mediante convenio, a la construcción o mejoramiento de la vialidad, de la infraestructura, del equipamiento y de las instalaciones, que estando localizadas fuera de la zona a urbanizar, en forma directa se requieran para su adecuado funcionamiento; conforme se precise en el Plan Parcial de Urbanización y de acuerdo a las bases que se establezcan en la Ley de Ingresos Municipal y otras disposiciones aplicables.
+Los urbanizadores aportarán mediante convenio con el Ayuntamiento, a la construcción o mejoramiento de la vialidad, de la infraestructura, del equipamiento y de las instalaciones, que estando localizadas fuera de la zona a urbanizar, en forma directa se requieran para su integración a la estructura urbana del centro de población para su adecuado funcionamiento; conforme se precise en el Plan Parcial de Urbanización.
 
 ###### Artículo 244.
 
@@ -2825,7 +3357,9 @@ El convenio que celebren el Urbanizador y el Ayuntamiento, para dar cumplimiento
 
 I. La descripción del equipamiento, las instalaciones y el mobiliario urbano que proveerá el urbanizador en las áreas de cesión para destinos;
 
-II. La especificación de las obras de mejoramiento a la vialidad, de la infraestructura y el equipamiento, que ejecutará el urbanizador para integrar las áreas o predios que se propone urbanizar e integrar al centro de población; y
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
+II. La descripción y especificación de las obras de mejoramiento a la vialidad, de la infraestructura y el equipamiento, que ejecutará el urbanizador para integrar las áreas o predios que se propone urbanizar e integrar al centro de población; y
 
 III. En su caso, el costo de las obras de infraestructura y equipamiento que con cargo al urbanizador, asumirá el Gobierno Municipal, precisando las modalidades, condiciones y términos para su pago ante la Tesorería Municipal, indicando el plazo para su ejecución.
 
@@ -2873,21 +3407,33 @@ El monto de esta garantía será del orden del veinte por ciento del valor de la
 
 La falta de cumplimiento de lo anterior, motivará la cancelación inmediata de la licencia o permiso correspondiente.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 249.
 
-Cuando los propietarios de predios intraurbanos no-incorporados o predios rústicos vecinos a una zona urbanizada que cuente con su Plan Parcial de Urbanización, con superficie no mayor de diez mil metros cuadrados, pretendan aprovechar las instalaciones de ésta, en la totalidad o en parte de sus servicios públicos, además de tramitar su incorporación municipal y de aprovecharlos según los usos y destinos que se les asignen, estarán obligados a ejecutar las obras de urbanización frente a los predios ya urbanizados, conforme el dictamen que expida la Dependencia Municipal, fundado en los planes de desarrollo urbano aplicables en la zona y el Reglamento Estatal de Zonificación.
+Cuando los propietarios de predios rústicos intraurbanos no incorporados o predios rústicos vecinos a un área urbanizada que cuente con su Plan Parcial de Desarrollo Urbano o Plan Parcial de Urbanización, con superficie no mayor de diez mil metros cuadrados, pretendan aprovechar la infraestructura básica existente en la totalidad o en parte, según los usos y destinos que se les asignen:
 
-Para obtener la autorización correspondiente, los propietarios deberán pagar la cuota que el Gobierno Municipal determine, con audiencia a los interesados, cuyo monto se fijará en función del valor de la inversión en obras, del costo derivado de la operación de los servicios y de la utilidad que represente al solicitante el aprovechamiento de las instalaciones.
+I. Estarán obligados a ejecutar las obras de urbanización frente a los predios ya urbanizados, conforme el dictamen que expida la Dependencia Municipal, fundado en los planes parciales aplicables en el área y el Reglamento Estatal de Zonificación;
+
+II. Para obtener la autorización de las obras de urbanización y edificación, no se requerirá elaborar el Plan Parcial de Urbanización;
+
+III. Los propietarios deberán pagar la cuota que el Gobierno Municipal determine por concepto de aprovechamiento de la infraestructura básica de estos predios, con audiencia a los interesados, cuyo monto se fijará en función del valor de la inversión en obras, del costo derivado de la operación de los servicios y de la utilidad que represente al solicitante el aprovechamiento de las instalaciones; y
+
+IV. Una vez que el urbanizador haya realizado las obras a su cargo y pagado la cuota a que se refiere la fracción anterior o en su caso, garantizado su obligación de pago ante la Tesorería Municipal, se procederá a autorizar su incorporación.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 250.
 
-En los casos previstos en el artículo anterior, si conforme al Plan Parcial de Urbanización de la zona, se establece que las áreas de cesión para destinos, no representan una mejora efectiva a los fines públicos, ya sea por su extensión limitada o en consideración de los destinos y servicios ya disponibles, se podrá substituir la entrega de determinadas áreas de cesión para destinos, en forma total o parcial, por el pago del valor comercial que correspondería al terreno ya urbanizado.
+En los casos previstos en el artículo anterior si conforme al Plan Parcial de Urbanización de la zona, se establece que las áreas de cesión para destinos no representan una mejora efectiva a los fines públicos, ya sea por su extensión limitada, en consideración de los destinos y servicios ya disponibles, se podrá substituir la entrega de determinadas áreas de cesión para destinos, en forma total o parcial, por el pago del valor comercial que correspondería al terreno ya urbanizado, mediante avalúo realizado por perito profesional reconocido y aceptado por el Ayuntamiento.
 
-El Gobierno Municipal hará entrega de las percepciones derivadas de la permuta de las áreas de cesión para destinos al Consejo de Colaboración Municipal. Estos recursos se aplicarán a la adquisición de predios para equipamiento urbano o su mejoramiento, en la misma colonia, barrio o zona donde se localice el predio.
+El Gobierno Municipal hará entrega de las percepciones derivadas de la permuta de las áreas de cesión para destinos al Consejo de Colaboración Municipal, en un plazo no mayor de sesenta días, contados a partir de la fecha cuando el urbanizador haga el pago. Estos recursos se aplicarán a la adquisición de predios para equipamiento urbano o su mejoramiento, en el área de estudio o unidad territorial que establezca el plan parcial correspondiente.
 
-### CAPITULO V
+Tratándose de superficies mayores a diez mil metros cuadrados en zonas no habitacionales se podrá realizar la permuta de las áreas de cesión únicamente por predios localizados en el área de estudio o unidad territorial que establezca el plan parcial correspondiente.
 
-De la fusión, subdivisión y relotificación de predios.
+### CAPITULO V. De la subdivisión y relotificación de predios
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 251.
 
@@ -2907,15 +3453,19 @@ El Proyecto Definitivo de Urbanización podrá modificarse, en tanto no contrave
 
 I. Para cualquier modificación del Proyecto Definitivo de Urbanización, sea a propuesta del urbanizador o de la propia autoridad, la Dependencia Municipal dispondrá se elabore un dictamen específico que le dé sustento;
 
-II. Expedido el dictamen, la Dependencia Municipal lo notificará al urbanizador, para su debido cumplimiento;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+II. Expedido el dictamen, la Dependencia Municipal lo notificará al urbanizador, a la Secretaría y al Registro Público de la Propiedad correspondiente para su debido cumplimiento y conocimiento respectivamente;
 
 III. En el mismo dictamen se establecerá la modificación del calendario de obras y en consecuencia, el plazo para su ejecución; y
 
 IV. Conforme al nuevo plazo que se determine, se otorgará la ampliación de la licencia o permiso, previo pago de los derechos municipales que correspondan.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 255.
 
-Cuando el urbanizador, al realizar las obras para ejecutar el Plan Parcial, incurra en violaciones graves o substanciales al mismo, se aplicarán las medidas de seguridad y las sanciones previstas en la presente Ley y otros ordenamientos aplicables.
+Cuando el urbanizador, al realizar las obras para ejecutar el Plan Parcial de urbanización, incurra en violaciones graves o substanciales al mismo, se aplicarán las medidas de seguridad y las sanciones previstas en la presente Ley y otros ordenamientos aplicables.
 
 ###### Artículo 256.
 
@@ -2933,13 +3483,21 @@ Ninguna obra de urbanización que afecte en forma directa la vialidad en la zona
 
 Cuando los predios en los que se autorice realizar las obras de urbanización o bien en los que vaya a llevarse a cabo su primera etapa, no colinde con una zona urbanizada, los trabajos se iniciarán por la construcción de la vialidad de liga y la conexión de los servicios necesarios, debiéndose realizar las gestiones administrativas que marca la presente Ley, así como otros ordenamientos en la materia.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 260.
 
-Se declara de utilidad pública la expropiación de las áreas y predios necesarios para conectar una urbanización en proyecto y otras zonas urbanizadas del centro de población, siempre y cuando las obras de conexión sean congruentes con los programas y planes de desarrollo urbano aplicables, conforme a su Plan Parcial de Urbanización.
+Es de utilidad pública la expropiación de las áreas y predios necesarios para conectar una urbanización en proyecto y otras zonas urbanizadas del centro de población, siempre y cuando las obras de conexión sean congruentes con los programas y planes de desarrollo urbano aplicables, conforme a su Plan Parcial de Urbanización.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 261.
 
-Cuando para conectar una urbanización en proyecto, con otras zonas urbanizadas, sea necesario abrir acceso o conducir servicios públicos a través de predios de terceros que no formen parte del terreno por urbanizar, se requerirá la anuencia de éstos. En caso de no otorgarse la anuencia, el Gobierno Municipal gestionará la expropiación por causa de utilidad pública en las superficies que se requieran, conforme la declaratoria de destinos expedida en el Plan Parcial de Urbanización, quedando obligado el urbanizador a realizar las obras a su costo, en su totalidad, y a pagar el importe que corresponda por indemnización. Las obras ejecutadas por este medio y los terrenos afectados, pasarán a ser del dominio municipal y éste tendrá derecho a considerar su costo proporcional, en futuras incorporaciones de los predios aledaños.
+Cuando para conectar una urbanización en proyecto, con otras zonas urbanizadas, sea necesario abrir acceso o conducir servicios públicos a través de predios de terceros que no formen parte del terreno por urbanizar, en primera instancia se requerirá la anuencia de estos y su participación para la ejecución de la acción urbanística por concertación.
+
+En caso de no otorgarse la anuencia, el Gobierno Municipal gestionará la expropiación por causa de utilidad pública en las superficies que se requieran, conforme la determinación de destinos autorizada en la zonificación vigente o en el Plan Parcial de Urbanización, quedando obligado el urbanizador a realizar las obras en su totalidad conforme los convenios señalados en los artículos 243 y 244 de esta ley que celebre con la autoridad municipal y a pagar el importe que corresponda por indemnización.
+
+Las obras ejecutadas por este medio y los terrenos afectados, pasarán a ser del dominio municipal y éste tendrá derecho a considerar su costo proporcional, en futuras incorporaciones de los predios aledaños.
 
 ###### Artículo 262.
 
@@ -2983,9 +3541,11 @@ De las obras de edificación.
 
 En tanto no se concluyan las obras de urbanización y éstas sean recibidas por el Municipio, quedan bajo la responsabilidad del urbanizador, para cumplir las obligaciones que se establecen en esta Ley y otros ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 266.
 
-Una vez concluidas las obras de urbanización, la Dependencia Municipal practicará una inspección final para verificar si fueron realizadas en concordancia con el respectivo Plan Parcial y su Proyecto Definitivo de Urbanización, si respetó las declaratorias usos y destinos, si ejecutó las obras de urbanización y equipamiento en las áreas de cesión para destinos, así como las especificaciones de construcción y normas de calidad de las mismas.
+Una vez concluidas las obras de urbanización, la Dependencia Municipal practicará una inspección final para verificar si fueron realizadas en concordancia con el respectivo Plan Parcial y su Proyecto Definitivo de Urbanización, si respetó la determinación usos y destinos, si ejecutó las obras de urbanización y equipamiento en las áreas de cesión para destinos, así como las especificaciones de construcción y normas de calidad de las mismas.
 
 Una vez que las obras estén concluidas a satisfacción, el Gobierno Municipal asumirá su responsabilidad, procediendo a su recepción.
 
@@ -3009,11 +3569,17 @@ El acto de entrega y recepción de las obras de urbanización se verificará en 
 
 I. La referencia al Plan Parcial de Urbanización;
 
-II. La manifestación del Notario de que comprobó la publicación del Plan Parcial de Urbanización y la correspondiente declaratoria de usos y destinos, conforme las disposiciones de los artículos 45, 46 y 47 de esta Ley y la inscripción del mismo en el Registro Público de la Propiedad;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
 
-III. La manifestación del Notario de que comprobó, la inscripción en el Registro Público de la Propiedad, de la declaratoria de usos y destinos;
+II. La manifestación del Notario de que comprobó la publicación del Plan Parcial de Urbanización, conforme las disposiciones de los artículos 45, 46 y 47 de esta Ley y la inscripción del mismo en el Registro Público de la Propiedad;
 
-IV. La descripción de las áreas de cesión para destinos determinadas en el Plan Parcial de Urbanización y sus fines públicos específicos, conforme a las declaratorias inscritas en el Registro Público de la Propiedad;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+III. La manifestación del Notario de que comprobó, en su caso, la inscripción en el Registro Público de la Propiedad del Plan Parcial de Urbanización;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+IV. La descripción de las áreas de cesión para destinos determinadas en el Plan Parcial de Urbanización y sus fines públicos específicos;
 
 V. La declaración por parte del Ayuntamiento de que recibe del urbanizador, la posesión de las áreas de cesión para destinos y las obras de urbanización y equipamiento ejecutadas en esos predios;
 
@@ -3033,53 +3599,85 @@ III. Las modalidades que adoptará la prestación de los servicios públicos mun
 
 IV. La referencia de las garantías específicas constituidas conforme la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 270.
 
-En caso de obras de urbanización para la expansión urbana, una vez recibidas se procederá a acordar en sesión de Cabildo su incorporación al centro de población, en un plazo no mayor de treinta días, procediendo a informar al urbanizador, al Catastro y a la Secretaría.
+En caso de obras de urbanización para la expansión urbana, una vez recibidas se procederá a autorizar en sesión de Cabildo su incorporación al centro de población, en un plazo no mayor de un mes, procediendo a informar al urbanizador, al Catastro, al Registro Público de la Propiedad y a la Secretaría.
 
 Por efectos de este acuerdo, las áreas o predios urbanizados, formalmente dejarán de pertenecer a la reserva urbana, para todos los efectos legales.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 271.
 
-En el caso de obras de urbanización para la renovación urbana, una vez recibidas se procederá a acordar en sesión de Cabildo su reincorporación al centro de población, en un plazo no mayor de treinta días y se informará al urbanizador, al Catastro y a la Secretaría.
+En el caso de obras de urbanización para la renovación urbana, una vez recibidas se procederá a autorizar en sesión de Cabildo su reincorporación al centro de población, en un plazo no mayor de un mes y se informará al urbanizador, al Catastro, al Registro Público de la Propiedad y a la Secretaría.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 272.
 
-El Ayuntamiento al acordar la incorporación o reincorporación municipal de la zona urbanizada, establecerá o ratificará la nomenclatura y numeración oficial de la misma, informando lo anterior a la Administración de Correos y a las dependencias y organismos encargados de la prestación de los diferentes servicios públicos.
+El Ayuntamiento al acordar la incorporación o reincorporación municipal de la zona urbanizada, establecerá o ratificará la nomenclatura y numeración oficial de la misma, informando lo anterior a las dependencias y organismos encargados de la prestación de los diferentes servicios públicos.
 
-El acuerdo de incorporación o reincorporación municipal deberá publicarse textualmente, en la forma prevista en el último párrafo del artículo 45 de esta Ley.
+El acuerdo se autorizará al titular de los predios a realizar la enajenación de los predios, conforme ala modalidad de la acción urbanística que corresponda.
+
+El acuerdo donde se autorice la incorporación o reincorporación municipal deberá publicarse textualmente, en la forma prevista en el último párrafo del artículo 45 de esta Ley.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE ENERO DE 1998)</small>
 
 ### CAPITULO VII
 
 De la venta al público de predios y fincas.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 273.
 
-Las autorizaciones de fusiones, subdivisiones y relotificaciones se otorgarán por el Ayuntamiento, de conformidad con los programas y planes de desarrollo urbano, las declaratorias, los reglamentos de zonificación aplicables y las disposiciones de esta Ley.
+Las disposiciones de este Capítulo son aplicables a los actos de subdivisión y relotificación de predios urbanos y rústicos, ubicados dentro y fuera de los centros de población.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 274.
 
-Las disposiciones de este Capítulo son aplicables a predios rústicos, como se previene en el artículo 199 de esta Ley, exceptuándose aquellas cuestiones, subdivisiones y relotificaciones donde los predios resultantes de la operación tengan una extensión mayor de cinco hectáreas.
+Las autorizaciones de subdivisiones y relotificaciones de predios en los casos previstos en el presente Capítulo, se otorgarán por la Dependencia Municipal de conformidad con los reglamentos de zonificación aplicables y los programas y planes de desarrollo urbano vigentes o los programas de ordenamiento ecológico.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 275.
 
-Para autorizar subdivisiones y relotificaciones donde los predios resultantes de la operación tengan una extensión igual o menor a diez mil metros, se requerirá elaborar el Plan Parcial de Urbanización. En los centros de población, estas operaciones únicamente se autorizarán en aquellos predios que cuenten con la incorporación municipal, conforme las disposiciones de los artículos 207, 270 y 271 de esta Ley.
+La subdivisión o relotificación de predios urbanizados se autorizará conforme a las siguientes disposiciones:
+
+I. El titular del predio al promover la subdivisión o relotificación, solicitará el Dictamen de Trazo, Usos y Destinos Específicos, anexando un croquis de los predios involucrados, con su localización, referencia al área donde se ubiquen, y la propuesta de subdivisión o relotificación; y
+
+II. La Dependencia Municipal con fundamento en el Dictamen de Trazo, Usos y Destinos Específicos, otorgará o negará la autorización de subdivisión o relotificación y en su caso, expedirá de inmediato la licencia de subdivisión o relotificación, previo pago del derecho que fije la Ley de Ingresos Municipal.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 276.
 
-Las autorizaciones de fusiones, subdivisiones y relotificaciones, se otorgarán a las personas previstas en el artículo 212 de esta Ley.
+En los centros de población se autorizarán las subdivisiones de predios rústicos, conforme a las siguientes disposiciones:
 
-Para tramitar ante el Ayuntamiento la autorización de fusión, subdivisión o relotificación, se requerirá solicitar el Dictamen de Trazo, Usos y Destinos Específicos a que se refiere la fracción II del artículo 219 de esta Ley.
+I. En predios rústicos intra-urbanos localizados en el área de aplicación de un plan parcial de desarrollo urbano, las subdivisiones se autorizarán conforme al procedimiento previsto en los artículos 249 y 250 de esta Ley; y
+
+II. En predios localizados en áreas de reserva, donde los predios resultantes del acto de subdivisión, tenga una extensión igual o menor a diez mil metros, se estará a lo dispuesto en el Capítulo II, Título Quinto, de esta Ley.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 277.
 
-Al solicitar el Dictamen de Trazo, Usos y Destinos específicos, se proporcionará a la Dependencia Municipal un croquis de los predios involucrados con su localización, referencia a la zona donde se ubiquen y la propuesta de fusión, subdivisión o relotificación.
+La subdivisiones o relotificaciones de predios rústicos fuera de los centros de población, se sujetarán a las siguientes disposiciones:
+
+I. Los actos de subdivisión o relotificación de predios para asignarles usos distintos a su aprovechamiento actual, conforme se establece en el artículo 199, se sujetarán al procedimiento de autorización señalado en el Capítulo II Titulo Quinto de esta Ley;
+
+II. En los actos de subdivisión o relotificación de predios, cuando los predios resultantes sean mayores a una hectárea y no se proponga modificar su aprovechamiento actual, no se requerirá de autorización de la Dependencia Municipal; y
+
+III. En casos previstos en la fracción anterior, deberá indicarse o establecerse el acceso a la vía pública necesario conforme la utilización de los predios resultantes.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 278.
 
-El Ayuntamiento con fundamento en el Dictamen de Trazo, Usos y Destinos Específicos otorgará o negará la autorización de fusión, subdivisión o relotificación.
-
-Con fundamento en el acuerdo del Ayuntamiento, la Dependencia Municipal expedirá de inmediato la licencia de fusión, subdivisión o relotificación, previo pago del derecho que fije la Ley de Ingresos Municipal.
+Las fusiones de predios no requerirán autorización del Ayuntamiento, y en su caso, los notarios, previamente a sancionar la fusión de dos o más predios, verificará que no exista limitación en el aprovechamiento de los mismos, conforme a los planes y programas y los reglamentos aplicables.
 
 ### CAPITULO I
 
@@ -3089,7 +3687,9 @@ De las modalidades de la acción urbanística.
 
 Las acciones materiales de adecuación espacial relativas a la construcción o edificación comprenden:
 
-I. Las propias de la Arquitectura e Ingeniería Civil, que transforman el espacio de un área o predio de suelo urbanizado, para hacer posibles las actividades humanas de acuerdo al uso o destino determinado por el Plan Parcial de Urbanización y por las declaratorias correspondientes;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+I. Las propias de la Arquitectura e Ingeniería Civil, que transforman el espacio de un área o predio de suelo urbanizado, para hacer posibles las actividades humanas de acuerdo al uso o destino determinado por el Plan Parcial de Urbanización;
 
 II. Las relativas a la ampliación, reestructuración o mejoramiento de los edificios o espacios acondicionados existentes;
 
@@ -3101,7 +3701,9 @@ IV. Las referidas al acotamiento, aseguramiento, demolición, acciones de emerge
 
 Por su alcance, las obras de construcción o edificación se clasifican en:
 
-I. Obras de edificación nueva: las relativas a los elementos técnicos de construcción para dar a los predios de suelo urbanizado, un aprovechamiento específico conforme a las declaratorias de usos y destinos;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+I. Obras de edificación nueva: las relativas a los elementos técnicos de construcción para dar a los predios de suelo urbanizado, un aprovechamiento específico;
 
 II. Obras para la remodelación o ampliación de la edificación: las relativas a los elementos técnicos de construcción existentes, para modificarlas y permitir un aprovechamiento específico, similar o diferente al anterior;
 
@@ -3113,215 +3715,41 @@ IV. Obras para la seguridad y sanidad de predios y edificaciones: las relativas 
 
 Toda obra de construcción, modificación, reconstrucción o demolición, requerirá autorización del Ayuntamiento. La licencia o permiso de construcción, se otorgará por la Dependencia Municipal, de conformidad con lo dispuesto en este Título, con las disposiciones de la Ley Orgánica Municipal y el Reglamento de Construcción.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 282.
 
-Los gobiernos municipales al expedir y aplicar sus reglamentos de construcción, aplicarán las bases contenidas en el presente Capítulo.
+Los gobiernos municipales al expedir y aplicar sus reglamentos de construcción, considerarán las condiciones propias del desarrollo de sus localidades y aplicarán las bases contenidas en el presente Capítulo.
 
 Los reglamentos de construcción integrarán los siguientes capítulos:
 
 I. Facultades del Ayuntamiento;
 
-II. De los Planes Parciales de Urbanización en relación al otorgamiento de las licencias de construcción;
+II. De los planes parciales de urbanización en relación al otorgamiento de las licencias de construcción;
 
-III. De la ocupación de vías públicas y otros bienes de uso común:
+III. De la ocupación de vías públicas y otros bienes de uso común;
 
-a) Disposiciones Generales;
+IV. De los peritos responsables y empresas constructoras;
 
-b) Ocupación y utilización de la vía pública;
+V. De la ejecución de obras;
 
-c) Instalaciones subterráneas y aéreas en la vía pública;
+VI. De las licencias de construcción;
 
-d) Servidumbres;
+VII. Inspección y control de obras de urbanización y edificación;
 
-e) Nomenclatura;
+VIII. Recepción de obras de urbanización;
 
-f) Acotamientos;
+IX. Normas para la construcción de obras de urbanización;
 
-g) Alineamientos;
+X. Utilización y conservación de edificios y predios;
 
-h) Restricciones a la edificación; e
+XI. Normas básicas del diseño y construcción;
 
-i) Anuncios;
+XII. Seguridad estructural de las construcciones;
 
-IV. De los peritos responsables:
+XIII. Prohibiciones, sanciones y medios para hacer cumplir el reglamento; y
 
-a) Registros y requisitos;
-
-b) Clasificación de peritos en diseño y construcción;
-
-c) Vigencia del registro; y
-
-d) Responsabilidad y obligaciones de los peritos.
-
-V. De la ejecución de obras:
-
-a) Obras ejecutadas para usos;
-
-b) Obras ejecutadas para destinos; y
-
-c) Construcciones e instalaciones provisionales;
-
-VI. De la solicitud para el otorgamiento de las licencias de construcción:
-
-a) Elementos de las licencias de construcción;
-
-b) Requisitos;
-
-c) Procedimiento para expedir licencias de construcción; y
-
-d) Modalidades, condiciones y términos de las licencias de construcción;
-
-VII. Inspección y control de obras:
-
-a) Urbanización; y
-
-b) Edificación;
-
-VIII. Recepción de obras:
-
-a) Urbanización; y
-
-b) Edificación.
-
-IX. Normas para la construcción de obras de urbanización:
-
-a) Generalidades;
-
-b) Agua potable;
-
-c) Alcantarillado;
-
-d) Alumbrado público;
-
-e) Instalaciones de energía eléctrica;
-
-f) Instalaciones telefónicas;
-
-g) Instalaciones especiales;
-
-h) Pavimentos;
-
-i) Guarniciones;
-
-j) Banquetas; y
-
-k) Jardinería;
-
-X. Utilización y conservación de edificios y predios:
-
-a) Acotamientos;
-
-b) Construcciones peligrosas;
-
-c) Usos peligrosos;
-
-d) Actividades contaminantes;
-
-e) Materiales peligrosos;
-
-f) Previsiones contra incendios;
-
-g) Dispositivos de seguridad y protección; y
-
-h) Medidas preventivas en demoliciones;
-
-XI. Normas básicas para la construcción:
-
-a) Generalidades;
-
-b) De las excavaciones;
-
-c) De los rellenos o terraplenes
-
-d) De las demoliciones;
-
-e) De las ampliaciones;
-
-f) De las remodelaciones;
-
-g) De las normas de calidad de los materiales;
-
-h) De la seguridad e higiene de las obras;
-
-i) De los dispositivos para transporte vertical en las obras;
-
-j) De la ejecución de las obras;
-
-k) De las memorias de cálculo;
-
-l) De las instalaciones para agua potable y drenaje;
-
-m) De las instalaciones eléctricas; y
-
-n) De las instalaciones especiales;
-
-XII. Seguridad estructural de la construcción:
-
-a) Disposiciones generales;
-
-b) Características generales de la edificación;
-
-c) Criterios de diseño estructural;
-
-d) Cargas muertas;
-
-e) Cargas vivas;
-
-f) Diseño por sismos;
-
-g) Diseño por vientos;
-
-h) Diseño de cimentaciones;
-
-i) Construcciones dañadas;
-
-j) Obras provisionales y modificaciones; y
-
-k) Pruebas de carga;
-
-XIII. Sistemas de Autoconstrucción:
-
-a) Incentivos;
-
-b) Régimen fiscal;
-
-c) Casos de regulación forzosa; y
-
-d) Construcción en zonas rurales o suburbanas.
-
-XIV. Construcción de vivienda de interés social y popular:
-
-a) Incentivos; y
-
-b) Reducciones;
-
-XV. Prohibiciones, sanciones y medios para hacer cumplir el reglamento:
-
-a) Prohibiciones a funcionarios, edificadores y usuarios;
-
-b) Apercibimiento;
-
-c) Multa;
-
-d) Suspensión;
-
-e) Clausura;
-
-f) Demolición; y
-
-g) Arresto administrativo; y
-
-XVI. Recursos y defensas de los particulares:
-
-a) Recursos;
-
-b) Términos para su interposición;
-
-c) Legitimación;
-
-d) Suspensión del acto recurrido; y
-
-e) Autoridades competentes para resolver y término para el efecto.
+XIV. Recursos y defensas de los particulares.
 
 ###### Artículo 283.
 
@@ -3389,11 +3817,37 @@ Lo anterior será previamente notificado a los propietarios y poseedores, confor
 
 Cuando se trate de un caso de emergencia, la autoridad correspondiente procederá con la rapidez que sea necesaria, aplicando las medidas de seguridad previstas en el artículo 411 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 296.
 
-Cualquier proyecto de obra de edificación, que ordene o autorice la autoridad municipal en la zona de aplicación de un Plan Parcial de Urbanización para la conservación y mejoramiento del Patrimonio Cultural del Estado, necesariamente se informará a la asociación que se integre conforme el artículo 42 de esta Ley, solicitándole exprese su opinión en el plazo de dos meses.
+Cualquier proyecto de obra de edificación, que ordene o autorice la autoridad municipal en la zona de aplicación de un Plan Parcial de Urbanización para la conservación y mejoramiento del Patrimonio Cultural del Estado, necesariamente se informará a la asociación que se integre conforme el artículo 42 de esta Ley, solicitándole exprese su opinión en el plazo de un mes.
 
 En tanto no se obtenga su opinión escrita, la autoridad municipal únicamente podrá determinar y ejecutar como medidas de seguridad, el desalojo de los predios y fincas, o el apuntalamiento de la edificación, pero en ningún caso, podrá autorizar o ejecutar obras de edificación.
+
+III. De la ocupación de vías públicas y otros bienes de uso común;
+
+IV. De los peritos responsables y empresas constructoras;
+
+V. De la ejecución de obras;
+
+VI. De las licencias de construcción;
+
+VII. Inspección y control de obras de urbanización y edificación;
+
+VIII. Recepción de obras de urbanización;
+
+IX. Normas para la construcción de obras de urbanización;
+
+X. Utilización y conservación de edificios y predios;
+
+XI. Normas básicas del diseño y construcción;
+
+XII. Seguridad estructural de las construcciones;
+
+XIII. Prohibiciones, sanciones y medios para hacer cumplir el reglamento; y
+
+XIV. Recursos y defensas de los particulares.
 
 ###### Artículo 297.
 
@@ -3409,17 +3863,13 @@ De la acción urbanística privada.
 
 El urbanizador está obligado, previamente a permitir la ocupación de predios o fincas o escriturarlos a sus adquirentes, a cumplir estrictamente los siguientes requisitos:
 
-I. Que se haya cumplido con el procedimiento de incorporación o reincorporación municipal, previsto en los artículos 207 al 211 y, en el caso de urbanizaciones de objetivo social, que el Gobierno Municipal haya recibido de conformidad las obras mínimas, conforme las fracciones V y VI del artículo 389 de esta Ley;
+I. Que se haya cumplido con el procedimiento previsto en los artículos 207 al 211 y, en el caso de urbanizaciones de objetivo social, que el Gobierno Municipal haya recibido de conformidad las obras mínimas, conforme las fracciones V y VI del artículo 389 de esta Ley;
 
-II. Que se haya hecho publicación textual del acuerdo de Cabildo que formalice la incorporación o reincorporación municipal, conforme lo previsto en el artículo 272 que antecede;
+II. Que se haya hecho publicación textual del acuerdo de Cabildo donde se autorice la incorporación o reincorporación municipal, conforme lo previsto en el artículo 272 que antecede;
 
-III. Que se haya constituido la garantía a fin de reponer o corregir las obras que presenten defectos ocultos de construcción, por un plazo que no (sic) menor de dos año (sic);
+III. Que se haya constituido la garantía a fin de reponer o corregir las obras que presenten defectos ocultos de construcción, por un plazo que no (sic) menor de dos años; y
 
-IV. Que se hayan pagado o garantizado las obligaciones que establezcan a su cargo las leyes hacendarias; y
-
-V. Que el Ayuntamiento otorgue autorización expresa para realizar tales enajenaciones.
-
-Para obtener la autorización para enajenar terrenos, o predios y fincas en los casos de urbanización y edificación simultáneas, se presentará solicitud acompañando la documentación que acredite el cumplimiento de los requisitos antes previstos. Recibida la solicitud se resolverá otorgando o negando la autorización, en un plazo de seis días.
+IV. Que se hayan pagado o garantizado las obligaciones fiscales a su cargo, como se indica en la fracción III del artículo 211 de esta Ley.
 
 ###### Artículo 299.
 
@@ -3439,9 +3889,19 @@ VI. En su caso, la declaración del adquirente de que conoce del reglamento auto
 
 Estas declaraciones serán objeto especial de registro y surtirá efectos contra terceros, conforme las obligaciones establecidas para los notarios en los artículos 168 y 408 de esta Ley, quienes solicitarán a los urbanizadores la información necesaria para integrar a las escrituras los elementos antes referidos.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 300.
 
-En todo tipo de publicidad comercial donde se oferten predios o fincas en venta, preventa, apartado u otros actos de enajenación, se deberá hacer referencia al acuerdo del Ayuntamiento donde autorice las obras de urbanización y de edificación en su caso, citando el número y la fecha de la licencia o permiso; y de la autorización expresa de la autoridad municipal para realizar tales enajenaciones, prevista en la fracción V del artículo 298 de esta Ley.
+En todo tipo de publicidad comercial donde se oferten predios o fincas en venta, apartado, contratos preparatorios de preventa u otros actos de enajenación, se deberá hacer referencia al acuerdo del Ayuntamiento donde autorice las obras de urbanización y de edificación en su caso, citando el número y la fecha de la licencia o permiso.
+
+En los casos cuando el urbanizador pretenda realizar contratos preparatorios de preventa de predios o fincas, antes de iniciar las obras de urbanización o durante su proceso de construcción:
+
+I. Podrá solicitar la autorización de la Dependencia Municipal al respecto;
+
+II. Recibida la solicitud, la Dependencia Municipal resolverá en un plazo no mayor de quince días, señalando el monto de la fianza que deberá otorgar a favor del Ayuntamiento, por el valor de las obras de urbanización, para garantizar la ejecución de las obras y su correcta terminación; y
+
+III. Constituida la fianza, la Dependencia Municipal expedirá de inmediato la autorización correspondiente.
 
 ## TITULO SEXTO
 
@@ -3471,9 +3931,11 @@ VI. Acción urbanística por objetivo social; y
 
 VII. Acción urbanística pública.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 302.
 
-Las acciones que se realicen aplicando cualquier sistema de acción urbanística, deberán proyectarse y ejecutarse conforme al Plan Parcial de Urbanización de la zona donde se localicen las áreas y predios. Si la zona carece de Plan Parcial de Urbanización, sus promotores podrán solicitar al Ayuntamiento proceda a elaborarlo y expedirlo, o en su caso, presentar el proyecto ante la Dependencia Municipal de acuerdo a lo previsto en los artículos 88 al 93 de esta Ley.
+Las acciones que se realicen aplicando cualquier sistema de acción urbanística, deberán proyectarse y ejecutarse conforme al Plan Parcial de Urbanización de la zona donde se localicen las áreas y predios.
 
 ###### Artículo 303.
 
@@ -3486,6 +3948,8 @@ La Ley de Ingresos Municipal establecerá los beneficios fiscales que se otorgue
 ### CAPITULO IV
 
 De la acción urbanística por colaboración.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 305.
 
@@ -3500,6 +3964,8 @@ Bajo este sistema, se regirán las obras de urbanización y edificación promovi
 ### CAPITULO V
 
 De las bases para determinar las cuotas de colaboración y su recaudación.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 307.
 
@@ -3525,7 +3991,7 @@ De las obras realizadas por colaboración intermunicipal.
 
 ###### Artículo 311.
 
-La acción urbanística por colaboración, se refiere a las actividades de conservación y mejoramiento que sean promovidas y ejecutadas por los consejos de colaboración municipal, con la participación de los habitantes o propietarios de predios y fincas, y comprende:
+La acción urbanística por colaboración, se refiere a las actividades de conservación y mejoramiento que sean promovidas por los consejos de colaboración municipal, con la participación de los habitantes o propietarios de predios y fincas, y comprende:
 
 I. Las obras de urbanización ejecutadas en vías públicas, que beneficien directamente a los propietarios de los predios adyacentes a las mismas;
 
@@ -3533,41 +3999,49 @@ II. La adquisición de predios o fincas para destinarse a equipamiento urbano ba
 
 III. Las obras de urbanización y edificación para realizar el equipamiento urbano barrial o local.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 312.
 
 El Consejo de Colaboración Municipal podrá promover obras, mediante este sistema, cuando:
 
-I. Sean solicitadas por las asociaciones de vecinos, por un grupo de titulares de los predios beneficiados con las acciones propuestas, que represente un mínimo del veinticinco por ciento del total de los propietarios o poseedores de los mismos o las asociaciones previstas en la fracción IV del artículo 8 de esta Ley;
+I. Sean solicitadas por las asociaciones de vecinos, por un grupo de titulares de los predios beneficiados con las acciones propuestas, que represente un mínimo del veinticinco por ciento del total de los propietarios o poseedores a título de dueño de los mismos o las asociaciones previstas en la fracción IV del artículo 8 de esta Ley;
 
-II. Sean solicitadas por un grupo de titulares de los predios beneficiados con las acciones propuestas, que represente un mínimo del veinticinco por ciento del total de los propietarios o poseedores de los mismos; y
+II. Sean solicitadas por un grupo de titulares de los predios beneficiados con las acciones propuestas, que represente un mínimo del veinticinco por ciento del total de los propietarios o poseedores a título de dueño de los mismos; y
 
 III. A propuesta de alguno de los miembros del propio Consejo, cuando sean aprobadas por la mayoría de sus integrantes.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 313.
 
-El Gobierno del Estado y los gobiernos municipales apoyarán a los consejos de colaboración municipal, proporcionándoles la información cartográfica y catastral que requieran, para determinar los predios que resultarán beneficiados por las obras que proyecten y el padrón de sus propietarios y poseedores.
+El Gobierno del Estado y los gobiernos municipales apoyarán a los consejos de colaboración municipal, proporcionándoles la información cartográfica y catastral que requieran, para determinar los predios que resultarán beneficiados por las obras que proyecten y el padrón de sus propietarios y poseedores a título de dueño.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 314.
 
-Una vez aprobados por el Consejo de Colaboración Municipal los proyectos y presupuestos de las obras; las bases de financiamiento, el padrón de titulares de los predios beneficiados y la correspondiente derrama; y en su caso, las propuestas para la adquisición o expropiación de predios, obras de equipamiento y el área de beneficio en donde se repercutirá el costo de las mismas, serán presentados al Consejo Estatal de Desarrollo Urbano para su análisis y resolución.
+Una vez aprobados por el Consejo de Colaboración Municipal los proyectos y presupuestos de las obras, las bases de financiamiento, el padrón de titulares de los predios beneficiados y la correspondiente derrama; y en su caso, las propuestas para la adquisición o expropiación de predios, obras de equipamiento y el área de beneficio en donde se repercutirá el costo de las mismas; serán enviados al Consejo Estatal de Desarrollo Urbano para su información; y se procederá a realizar el concurso de obra.
 
-El Consejo Estatal comunicará al Consejo de Colaboración Municipal que promueva la acción urbanística, el resultado de su análisis y su resolución.
+El Consejo Estatal a través de su Secretario Técnico y en el término de treinta días, podrá hacer recomendaciones al Consejo de Colaboración Municipal que promueva la acción urbanística, con base al resultado de su análisis.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 315.
 
-El Consejo de Colaboración Municipal en coordinación con las asociaciones de vecinos involucradas, citará a los propietarios y poseedores de los predios beneficiados, para proponerles la acción urbanística e informarles de todo lo relativo a los proyectos, presupuestos, financiamientos, derramas y contratación, así como del importe proporcional del costo de las obras que deberán aportar como colaboración, previamente aprobados por el Consejo Estatal de Desarrollo Urbano, debiendo cumplir con el procedimiento que se establece en los artículos siguientes.
+El Consejo de Colaboración Municipal en coordinación con las asociaciones de vecinos involucradas, citará por los medios idóneos a los propietarios y poseedores a título de dueño de los predios beneficiados, para proponerles la acción urbanística e informarles de todo lo relativo a los proyectos, presupuestos, financiamientos, derramas y contratación, así como del importe proporcional del costo de las obras que deberán aportar como colaboración.
+
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
 ###### Artículo 316.
 
 La citación a la junta de propietarios a que se refiere el artículo anterior, se hará mediante aviso que se comunicará por los siguientes medios:
 
-I. Se fijará en los estrados de la Presidencia Municipal durante el término de ocho días, acto que deberá comprobar y certificar la Secretaría del Ayuntamiento;
+I. Se fijará en los estrados de la Presidencia Municipal durante el término de ocho días naturales, acto que deberá comprobar y certificar la Secretaría del Ayuntamiento;
 
-II. Se publicará por una vez en el Periódico Oficial "El Estado de Jalisco";
+II. Se publicará por una vez en el Periódico Oficial "El Estado de Jalisco"; y
 
-III. Se publicará en los dos diarios de mayor circulación en el Municipio, por dos veces con intervalo de tres días. Si en la cabecera municipal no se editan diarios, el aviso se publicará cuando menos una vez en uno de los diarios de mayor circulación en la Capital del Estado; y
-
-IV. Se enviará por correo certificado a los propietarios y poseedores de los predios, conforme al padrón que se integre a partir de los registros catastrales, con dos semanas de anticipación a la fecha de la reunión.
+III. Se publicará en los dos diarios de mayor circulación en el Municipio, por dos veces con intervalo de tres días o por los medios que sean idóneos. Si en la cabecera municipal no se editan diarios, el aviso se publicará cuando menos una vez en uno de los diarios de mayor circulación en la Capital del Estado.
 
 Entre la última publicación citando a la junta de propietarios y la fecha de celebración de la misma, deberá mediar un término de por lo menos cinco días.
 
@@ -3581,7 +4055,9 @@ II. La delimitación del área de beneficio;
 
 III. La indicación del lugar, día y hora en que se cita la reunión;
 
-IV. El apercibimiento de que en caso de no concurrir la mayoría de los propietarios, en ese mismo acto se citará a una segunda reunión, misma que se realizará y tomará acuerdos válidamente, con los propietarios y poseedores que asistan;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+IV. El apercibimiento de que en caso de no concurrir la mayoría de los propietarios, en ese mismo acto se citará a una segunda reunión, misma que se realizará y tomará acuerdos válidamente, con los propietarios y poseedores a título de dueño que asistan;
 
 V. La indicación del lugar, día y hora previstos para la segunda reunión, una semana después de la fecha fijada para el primero; y
 
@@ -3593,25 +4069,31 @@ La junta de propietarios será presidida por el Presidente del Consejo de Colabo
 
 La junta se verificará si concurren la mayoría de los titulares de los predios comprendidos en el área de beneficio. En caso contrario, en el mismo acto se hará una nueva citación, como se establece en las fracciones V y VI del artículo anterior.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 319.
 
 Para tener derecho a concurrir a la junta de propietarios y para participar con voz y voto, los interesados acreditarán su carácter con recibo del impuesto predial o documento que acredite la propiedad o posesión originaria de un predio ubicado en el área de beneficio de las obras que promueva el Consejo de Colaboración Municipal.
 
-Cada titular representará un voto aun cuando fuere propietario o poseedor de varios predios.
+Cada titular representará un voto aun cuando fuere propietario o poseedor a título de dueño de varios predios.
 
 Los interesados podrán concurrir personalmente o bien por medio de representante con carta poder.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 320.
 
-Los proyectos de obras se tendrán por aprobados cuando:
+Los proyectos de obras se tendrán por aprobados para su ejecución cuando:
 
 I. La mayoría de los que concurran a la junta de propietarios otorguen su consentimiento;
 
 II. No se presente oposición por parte de un sector de propietarios, como se precisa en el siguiente artículo;
 
-III. No exista objeción por parte de la Procuraduría de Desarrollo Urbano; y
+III. No exista objeción por parte de la Procuraduría de Desarrollo Urbano;
 
-IV. Tratándose de acciones en zonas declaradas afectas al Patrimonio Cultural del Estado, no exista oposición formal de las asociaciones previstas en la fracción IV del artículo 8 de esta Ley.
+IV. Tratándose de acciones en zonas declaradas afectas al Patrimonio Cultural del Estado, no exista oposición formal de las asociaciones previstas en la fracción IV del artículo 8 de esta Ley; y
+
+V. Los propietarios que no asistan, se entenderá que aprueban la obra y sus costos.
 
 ###### Artículo 321.
 
@@ -3621,27 +4103,31 @@ Se considera que existe oposición a los proyectos de obras por colaboración, c
 
 El escrito en que se formalice la oposición deberá ser presentado dentro de los cinco días siguientes a la celebración de la junta de propietarios, ante el Consejo de Colaboración Municipal, quien lo remitirá dentro de los tres días siguientes al Consejo Estatal de Desarrollo Urbano. En el escrito se ofrecerán las pruebas, mismas que se desahogarán ante la Comisión Técnica del Consejo, en un plazo de diez días.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 323.
 
 Desahogadas las pruebas ofrecidas y expresados los alegatos, el Consejo Estatal de Desarrollo Urbano por medio de su Comisión Técnica, dictaminará dentro de un plazo de diez días.
 
-Con base en este dictamen, la Secretaría Técnica del Consejo Estatal de Desarrollo Urbano dictará resolución definitiva dentro de un plazo de cinco días, misma que deberá publicarse en el Periódico Oficial "El Estado de Jalisco" y en uno de los periódicos de mayor circulación en el Municipio correspondiente.
+Con base en este dictamen, la Secretaría Técnica del Consejo Estatal de Desarrollo Urbano dictará resolución definitiva dentro de un plazo de cinco días.
 
 Esta resolución será notificada a los recurrentes en el domicilio que hayan señalado para tal efecto.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 324.
 
-Aprobados los proyectos de obras presupuestos, bases de financiamiento y derrama, el Consejo de Colaboración Municipal solicitará al Ayuntamiento la autorización del Proyecto Definitivo de Urbanización y su declaratoria de utilidad pública, fundada en el Plan Parcial de Urbanización. Este acuerdo será publicado en la forma prevista en el último párrafo del artículo 45 de esta Ley.
+Aprobados los proyectos de obras, presupuestos, bases de financiamiento y derrama, el Consejo de Colaboración Municipal solicitará al Ayuntamiento la autorización del Proyecto Definitivo de Urbanización y su declaratoria de utilidad pública, fundada en el Plan Parcial de Urbanización.
 
 ###### Artículo 325.
 
 Una vez autorizado por el Ayuntamiento el Proyecto Definitivo de Urbanización de la obra propuesta, se procederá a someterla a concurso, mismo que se celebrará siguiendo los procedimientos que establece la Ley de Obras Públicas del Estado.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 326.
 
-El Consejo de Colaboración Municipal percibirán por concepto de supervisión y control, el cinco por ciento sobre el importe de las obras que ejecuten mediante el sistema de acción urbanística por colaboración.
-
-Así mismo se asignará al Consejo Estatal de Desarrollo Urbano, el cinco al millar sobre el importe de las obras que se realicen mediante este sistema, por concepto de supervisión y auditoría.
+El Consejo de Colaboración Municipal percibirán por concepto de supervisión y control, el cinco por ciento sobre el importe de las obras que ejecuten mediante el sistema de acción urbanística por colaboración y concertación.
 
 ### CAPITULO VII
 
@@ -3649,7 +4135,7 @@ De la acción urbanística por plusvalía.
 
 ###### Artículo 327.
 
-Cada propietario o poseedor estará obligado a pagar por colaboración, el importe proporcional que se le adjudique del costo de las obras aprobadas por el Ayuntamiento de su jurisdicción, conforme al procedimiento establecido en este ordenamiento.
+Cada propietario o poseedor a título de dueño estará obligado a pagar por colaboración, el importe proporcional que se le adjudique del costo de las obras aprobadas por el Ayuntamiento de su jurisdicción, conforme al procedimiento establecido en este ordenamiento.
 
 ###### Artículo 328.
 
@@ -3709,11 +4195,13 @@ Los propietarios de inmuebles arrendados, que se localicen en el área de benefi
 
 Los colaboradores que efectúen el pago de la totalidad de la cuota de colaboración a su cargo dentro de los quince días siguientes a aquel en que surta efecto la notificación de la liquidación global, recibirán una reducción en forma proporcional al costo de financiamiento.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 337.
 
 Las demoras en los pagos generarán recargos en los términos de la Ley de Hacienda Municipal.
 
-La falta de pago de tres exhibiciones bimestrales consecutivas hará exigible la totalidad del crédito fiscal.
+La falta de pago de dos exhibiciones bimestrales consecutivas hará exigible la totalidad del crédito fiscal.
 
 ###### Artículo 338.
 
@@ -3755,11 +4243,13 @@ Tratándose de obras intermunicipales que se propongan realizar en una zona conu
 
 Una vez concluida la fase de estudios y proyección técnica, aprobados los proyectos por el Consejo Estatal de Desarrollo Urbano, se procederá a someterlos a aprobación de la junta de propietarios y de los ayuntamientos, conforme a las disposiciones de los artículos 315 al 320 y 324 que anteceden, coordinando las acciones el Consejo de Colaboración Municipal que para tal efecto sea designado por los consejos participantes.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 346.
 
-En caso de oposición de los propietarios o poseedores de predios localizados en la jurisdicción de uno de los consejos de colaboración, deberá acreditarse en la forma y términos que establecen los artículos 322 y 323 de esta Ley. El escrito de oposición se presentará por conducto del Consejo de Colaboración Municipal respectivo, debiendo los interesados acompañar copias para cada uno de los otros consejos de colaboración que intervengan en la obra.
+En caso de oposición de los propietarios o poseedores a título de dueño de predios localizados en la jurisdicción de uno de los consejos de colaboración, deberá acreditarse en la forma y términos que establecen los artículos 322 y 323 de esta Ley. El escrito de oposición se presentará por conducto del Consejo de Colaboración Municipal respectivo, debiendo los interesados acompañar copias para cada uno de los otros consejos de colaboración que intervengan en la obra.
 
-El Consejo Estatal de Desarrollo Urbano por medio de su Comisión Técnica emitirá su dictamen, tomando en consideración la proporción que en el costo de las obras y de las cuotas de colaboración pueda corresponder a los propietarios o poseedores inconformes, según las bases del artículo siguiente.
+El Consejo Estatal de Desarrollo Urbano por medio de su Comisión Técnica emitirá su dictamen, tomando en consideración la proporción que en el costo de las obras y de las cuotas de colaboración pueda corresponder a los propietarios o poseedores a título de dueño inconformes, según las bases del artículo siguiente.
 
 ###### Artículo 347.
 
@@ -3789,11 +4279,13 @@ La acción urbanística por plusvalía, comprende aquellas obras de urbanizació
 
 El incremento de valor y la mejoría específica de la propiedad que sea la consecuencia inmediata y directa de la ejecución de las obras previstas en los programas y planes de desarrollo urbano, será objeto de la Contribución Especial de Plusvalía que en su caso se autorice, conforme las disposiciones de este ordenamiento y de la Ley de Hacienda Municipal del Estado.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 353.
 
 La Contribución Especial de Plusvalía tendrá carácter objetivo y afectará a todos los predios comprendidos dentro de la zona de beneficio, la cual será definida por el Consejo Estatal de Desarrollo Urbano, previa aprobación del ayuntamiento o ayuntamientos interesados en la obra, como resultado de los proyectos y estudios técnicos que se lleven a cabo.
 
-La zona de beneficio de la obra se precisará en el Plan Parcial de Urbanización que se expida conforme las disposiciones de los artículos 86 al 89 de esta Ley.
+La zona de beneficio de la obra se precisará en el Plan Parcial de Urbanización que se autorice.
 
 ###### Artículo 354.
 
@@ -4029,7 +4521,9 @@ c) De la Asamblea, donde autorice la aportación de tierras al municipio o entid
 
 V. Las cláusulas relativas al ejercicio del derecho de preferencia previsto en los artículos 151 y 153 del presente ordenamiento o su transferencia, conforme a las estipulaciones del Convenio;
 
-VI. Los usos y destinos, las modalidades, características y demás aspectos de tipo técnico de la urbanización, conforme al Reglamento Estatal de Zonificación y en particular, a las declaratorias de reserva urbana en donde estén incluidas las áreas y predios;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+VI. Los usos y destinos, las modalidades, características y demás aspectos de tipo técnico de la urbanización, conforme al Reglamento Estatal de Zonificación y en particular, a la determinación de reserva urbana en donde estén incluidas las áreas y predios;
 
 VII. Las obligaciones que asuman las partes; y en su caso;
 
@@ -4063,9 +4557,13 @@ IV. Se informará y asesorará a los adquirentes respecto de los sistemas técni
 
 Para promover una acción urbanística de objetivo social será necesario:
 
-I. Realizar los estudios que la fundamenten, tanto en lo económico y social, como en lo relativo a la factibilidad de incorporación urbana de los terrenos donde se proyecte el desarrollo, en relación a los servicios de agua potable, drenaje, electricidad, entre otros;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
 
-II. Con base a estos estudios, el Ayuntamiento tomará la decisión de autorizar la urbanización bajo este sistema;
+I. Realizar los estudios que la fundamenten, tanto en lo económico y social, como en lo relativo a la posibilidad de incorporación de los terrenos donde se proyecte el desarrollo, en relación con los servicios de agua potable, drenaje, electricidad, entre otros;
+
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+II. Con base a estos estudios, el Ayuntamiento tomará la decisión en un plazo no mayor de 30 días de autorizar la urbanización bajo este sistema;
 
 III. Aprobado el estudio, el Ayuntamiento dispondrá se expida el Plan Parcial de Urbanización y su proyecto definitivo, donde se definirán las obras mínimas que se ejecutarán, como también las obras complementarias que integran una urbanización popular completa;
 
@@ -4099,9 +4597,11 @@ Mientras las obras de urbanización no estén concluidas, conforme las disposici
 
 Los propietarios de lotes en un desarrollo progresivo o quienes adquieran sus derechos, están obligados solidariamente en las responsabilidades derivadas de la realización de las obras de urbanización progresiva. Este hecho deberá consignarse en las escrituras de propiedad que se expidan y en las inscripciones que se hagan en el Registro Público de la Propiedad.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 394.
 
-Cuando las obras de urbanización progresiva se concluyan satisfactoriamente, de conformidad con las regulaciones en la materia, se levantará el acta final de recepción de obras por parte del Ayuntamiento, quien procederá acordar su incorporación municipal e informará al Registro Público de la Propiedad que corresponda.
+Cuando las obras de urbanización progresiva se concluyan satisfactoriamente, de conformidad con las regulaciones en la materia, se levantará el acta final de recepción de obras por parte del Ayuntamiento, quien procederá autorizar su incorporación municipal e informará al Registro Público de la Propiedad que corresponda.
 
 ### CAPITULO II
 
@@ -4197,11 +4697,15 @@ Si en el procedimiento que sigan las autoridades para ejecutar las medidas de se
 
 De las sanciones.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 405.
 
 Son infracciones cuya responsabilidad corresponde a los encargados de las oficinas del Registro Público de la Propiedad:
 
-I. Inscribir o registrar documentos e instrumentos que no se ajusten a los decretos, programas, planes, declaratorias o resoluciones administrativas relativas al desarrollo urbano del Estado;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+I. Inscribir o registrar documentos e instrumentos que no se ajusten a los decretos, programas, planes, la zonificación o resoluciones administrativas relativas al desarrollo urbano del Estado;
 
 II. Inscribir o registrar documentos e instrumentos que contravengan las disposiciones de los artículos 166, 167, 168, 329 y 382 de esta Ley;
 
@@ -4209,9 +4713,11 @@ III. Proporcionar informes, datos o documentos alterados o falsificados; y
 
 IV. Faltar a la obligación de mantener a consulta del público los diversos programas y planes de desarrollo urbano y demás documentos que conforme a esta Ley, deben inscribirse en la Oficina del Registro Público de la Propiedad a su cargo, por ser aplicables en esa jurisdicción territorial.
 
+> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+
 ###### Artículo 406.
 
-Los funcionarios estatales y municipales encargados de la aplicación de la presente Ley, que no cumplan los plazos establecidos en los trámites correspondientes; que no observen u omitan acatar sus disposiciones; que realicen o autoricen actos en contra de lo dispuesto en los programas y planes de desarrollo urbano y sus declaratorias, reglamentos de zonificación y demás normas aplicables, incurren en responsabilidad y se harán acreedores a la sanción que corresponda.
+Los servidores públicos estatales y municipales encargados de la aplicación de la presente Ley, que no cumplan los plazos establecidos en los trámites correspondientes; que no observen u omitan acatar sus disposiciones; que realicen o autoricen actos en contra de lo dispuesto en los programas y planes de desarrollo urbano y su zonificación, reglamentos de zonificación y demás normas aplicables, incurren en responsabilidad y se harán acreedores a la sanción que corresponda.
 
 ###### Artículo 407.
 
@@ -4265,13 +4771,15 @@ De la integración y las atribuciones de la Procuraduría de Desarrollo Urbano.
 
 ###### Artículo 413.
 
-Todo acto u omisión que contravenga lo dispuesto en esta Ley, sus reglamentos, los programas, planes, las declaratorias, decretos, acuerdos y demás disposiciones que se expidan, serán sancionados por las autoridades estatales y municipales correspondientes, en el ámbito de su competencia, pudiendo imponer al infractor las sanciones administrativas que establece el artículo siguiente, conforme a la naturaleza de la infracción y las circunstancias de cada caso.
+Todo acto u omisión que contravenga lo dispuesto en esta Ley, sus reglamentos, los programas, planes, la zonificación, decretos, acuerdos y demás disposiciones que se expidan, serán sancionados por las autoridades estatales y municipales correspondientes, en el ámbito de su competencia, pudiendo imponer al infractor las sanciones administrativas que establece el artículo siguiente, conforme a la naturaleza de la infracción y las circunstancias de cada caso.
 
 ###### Artículo 414.
 
 Las sanciones podrán consistir en:
 
-I. Nulidad de la autorización, licencia o permiso, que contravenga las declaratorias de provisiones, usos, destinos y reservas derivadas de los programas y planes de desarrollo urbano; o se expida sin observar los requisitos y procedimientos que se establecen en esta Ley, el Reglamento Estatal de Zonificación y los Reglamentos Municipales aplicables;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+I. Nulidad de la autorización, licencia o permiso, que contravenga la determinación de provisiones, usos, destinos y reservas derivadas de los programas y planes de desarrollo urbano; o se expida sin observar los requisitos y procedimientos que se establecen en esta Ley, el Reglamento Estatal de Zonificación y los Reglamentos Municipales aplicables;
 
 II. Nulidad del acto, convenio o contrato, en el caso de urbanización sin la autorización legal y conforme lo previsto en los artículos 166 y 167 de este ordenamiento;
 
@@ -4333,7 +4841,9 @@ I. Contra los actos de autoridades que impongan las sanciones a que esta Ley se 
 
 II. Contra los actos de autoridades que determinen y ejecuten las medidas de seguridad previstas en esta Ley y que el afectado estime improcedentes o inadecuadas;
 
-III. Contra los actos de autoridades administrativas que los interesados estimen violatorias de esta Ley, decretos, programas y planes de desarrollo urbano, declaratorias y reglamentos vigentes; y
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+III. Contra los actos de autoridades administrativas que los interesados estimen violatorias de esta Ley, decretos, programas y planes de desarrollo urbano, la zonificación y reglamentos vigentes; y
 
 IV. Contra la decisión del Ejecutivo Estatal, que niegue la publicación de un programa o plan municipal de desarrollo urbano.
 
@@ -4421,7 +4931,9 @@ El propio Tribunal de lo Contencioso Administrativo, es competente para:
 
 I. Resolver los juicios respecto al monto de las indemnizaciones en los casos de expropiación por causa de utilidad pública, conforme la ley de la materia; y
 
-II. Decidir en las controversias entre las distintas dependencias y entidades de la Administración Pública Estatal y de las administraciones municipales, respecto a la aplicación de los programas y planes de desarrollo urbano, las declaratorias, convenios y demás disposiciones derivadas del presente ordenamiento, conforme a la competencia definida para el Tribunal en su Ley Orgánica y las reglas establecidas en su Ley Procesal.
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+II. Decidir en las controversias entre las distintas dependencias y entidades de la Administración Pública Estatal y de las administraciones municipales, respecto a la aplicación de los programas y planes de desarrollo urbano, la zonificación, convenios y demás disposiciones derivadas del presente ordenamiento, conforme a la competencia definida para el Tribunal en su Ley Orgánica y las reglas establecidas en su Ley Procesal.
 
 ## TITULO OCTAVO
 
@@ -4471,7 +4983,9 @@ V. Recibir informes y en su caso promover los recursos de queja;
 
 VI. Representar, cuando así se le solicite, a particulares o asociaciones de vecinos en la gestión de asuntos relacionados con esta materia;
 
-VII. Representar, cuando así se le solicite, a los habitantes o propietarios de predios y fincas, en el ejercicio del derecho previsto en los artículos 169 y 170 de esta Ley;
+> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+
+VII. Representar, cuando así se le solicite, a los habitantes o propietarios de predios y fincas, en el ejercicio del derecho previsto en los artículos 169 y 170 de esta Ley, para lo cual previo acuerdo fundado y motivado, solicitará a la autoridad encargada de la vigilancia y control de esas acciones los informes respecto a las contravenciones, denuncias y en su caso la aplicación de medidas de seguridad a que se refiere el Capítulo III del Titulo Séptimo de esta Ley. La autoridad requerida dentro de los diez días hábiles siguientes a su recepción, rendirá informe fundado y motivado. La falta de observancia a esta disposición se hará del conocimiento del Congreso del Estado para que en su caso, implemente las medidas que señalan los artículos 171 y 406 de esta Ley;
 
 VIII. Ejercer de oficio la acción prevista en el artículo 170 de esta Ley, en defensa de la integridad de los bienes afectos al Patrimonio Cultural del Estado;
 
@@ -4638,3 +5152,23 @@ LIC. CARLOS RIVERA ACEVES.
 EL SECRETARIO GENERAL DE GOBIERNO:
 
 LIC. JOSE LUIS LEAL SANABRIA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE ENERO DE 1998.
+
+Primero. El presente decreto entrará en vigor un mes después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+> <small>(F. DE E., P.O. 18 DE MARZO DE 1999)</small>
+
+Segundo. Las obligaciones que establece esta Ley a cargo del Registro Público de la Propiedad y de los notarios, se harán efectivas a partir del momento en que se registren los correspondientes planes o programas de desarrollo urbano, ya sea en forma total o para una zona específica del mismo. El Registro Público de la Propiedad cuando practique por primera vez el registro de la zonificación de un centro de población o una zona del mismo, por esa única ocasión, informará mediante oficio al Consejo de Notarios. Esta comunicación deberá ser publicada en el Periódico Oficial "El Estado de Jalisco".
+
+Tercero. La fecha a partir de la cual se haga efectiva la obligación de los notarios y registradores a que se refiere el artículo 168 de esta Ley, se fijará en acuerdo expreso que se faculta a emitir al Titular del Poder Ejecutivo del Estado y que deberá publicarse en el Periódico Oficial "El Estado de Jalisco".
+
+Cuarto. Los fraccionamientos y proyectos de construcción que a la fecha de entrar en vigor este decreto se encuentren en cualquier fase de autorización o ejecución, seguirán desarrollándose observando las normas contenidas en las leyes vigentes al inicio de su procedimiento de autorización.
+
+Quinto. Los urbanizadores que estén tramitando la autorización de acciones urbanísticas, podrán optar por continuar su procedimiento, o bien, presentar una nueva solicitud conforme las disposiciones de la presente Ley.
+
+Sexto. En tanto se expida en la ley estatal en materia de equilibrio ecológico y protección al ambiente el procedimiento para formular, aprobar y publicar el programa de ordenamiento ecológico local, los ayuntamientos podrán expedir estos programas, conforme el procedimiento previsto en esta Ley, a efecto de formular, aprobar y publicar el Plan de Desarrollo Urbano de Centro de Población.
+
+Séptimo. Se derogan todas las disposiciones que se opongan a la presente Ley.
