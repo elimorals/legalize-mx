@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1938-07-19"
+last_updated: "1938-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 1938.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 1938.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -104,6 +104,12 @@ C. (DEROGADO, P.O. 6 DE OCTUBRE DE 1928)
 III. Ser preferido en igualdad de circunstancias, a los que no sean ciudadanos sinaloenses en toda clase de empleos, cargos, comisiones y concesiones del Gobierno del Estado y Municipios.
 
 IV. Iniciar leyes ante el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 1938)</small>
+
+###### Art. 10 Bis.
+
+Tienen derecho a votar y a ser votadas en las elecciones generales del Estado y municipales, las mujeres Sinaloenses que hayan cumplido dieciocho años, si son casadas, o veintiuno si no lo son, siempre que vivan de su trabajo honesto; que formen parte de la familia de un obrero o campesino organizado, o de la familia de un trabajador del campo o de la ciudad.
 
 ###### Art. 11.
 
@@ -1502,3 +1508,7 @@ UNICO. Estas reformas empiezan a surtir efectos desde la fecha de su publicació
 P.O. 19 DE JULIO DE 1938.
 
 Unico.- Este Decreto surte sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE OCTUBRE DE 1938.
+
+Unico.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial.
