@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-titulacion-de-la-universidad-tecnologica-de-33146
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-07-16"
-last_updated: "2003-07-16"
+last_updated: "2005-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DE TITULACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 2005.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 16 de julio de 2003.
 
@@ -65,11 +65,19 @@ II. Haber cursado y aprobado todas las asignaturas de la carrera;
 
 III. Haber liberado el Servicio Social;
 
-IV. Haber realizado la Estadía y presentar la memoria correspondiente, debidamente aprobada por el Asesor Empresarial y el Asesor Académico, de conformidad con el Reglamento de Estadías.
+IV. Haber realizado la Estadía y presentar la memoria correspondiente, debidamente aprobada por el Asesor Empresarial y el Asesor Académico, de conformidad con el Reglamento de Estadías;
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2005)</small>
+
+V. Haber presentado el Examen General de Egreso del Técnico Superior Universitario (EGETSU), sobre el cual la Comisión Académica determinará el puntaje mínimo requerido para su aprobación.
 
 ###### Artículo 7°.
 
 Al recibo de la memoria de Estadía, el Director de Carrera señalará al alumno fecha y hora para la presentación del examen profesional, que deberá efectuarse dentro de los 30 días naturales siguientes a la recepción de la memoria.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2005)</small>
+
+Quedarán exentos de presentar Examen Profesional, lo (sic) alumnos que obtengan un resultado de alto rendimiento académico en el Examen General de Egreso del Técnico Superior Universitario (EGETSU), lo cual acreditarán con la constancia que expida el CENEVAL y/o el listado de resultados que emite el mismo. El Director de Carrera y el Jefe de Servicios Escolares, elaborarán y firmarán el Acta de Exención de Examen correspondiente.
 
 ###### Artículo 8°.
 
@@ -79,13 +87,17 @@ El examen profesional, consistirá en la exposición oral, por parte del alumno,
 
 El Presidente del Jurado será el Director de Carrera o quién éste designe, y nombrará a los suplentes correspondientes.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 10.
 
-Al término del examen, después de deliberar, el Jurado por conducto de su Presidente, pronunciarán el fallo de aprobado o suspendido, lo que quedará asentado en el acta respectiva, de la cual se entregará en ese momento una copia al alumno, procediendo a la Toma de Protesta correspondiente.
+Al término del examen, después de liberar, el Jurado por conducto de su Presidente, pronunciarán el fallo de aprobado o suspendido, lo que quedará asentado en el Libro de Registro de Exámenes Profesionales, procediendo a la Toma de Protesta correspondiente. El Director de Carrera y el Jefe del Departamento de Servicios Escolares elaborarán y firmarán el Acta de Examen Profesional.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2005)</small>
 
 ###### Artículo 11.
 
-Con el Acta de Examen aprobatoria, se consideran cumplidos los requisitos académicos para la obtención del título de Técnico Superior Universitario.
+Entregado lo establecido en el artículo 6°. del presente Reglamento, y con el Acta de Examen aprobatorio, o con la constancia de alto rendimiento académico en el EGETSU que expida el CENEVAL y/o el listado de resultado que emite el mismo, según sea el caso, se considerarán cumplidos los requisitos académicos poro lo obtención del título de Técnico Superior Universitario.
 
 ###### Artículo 12.
 
@@ -144,3 +156,9 @@ Lic. David Guerrero Castellón
 EL SECRETARIO
 
 Lic. Laura O. Bañuelos Quintero
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE FEBRERO DE 2005.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL DEL ESTADO DE NAYARIT.
