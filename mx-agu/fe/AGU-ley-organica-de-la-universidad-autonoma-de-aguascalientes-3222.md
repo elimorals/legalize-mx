@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-universidad-autonoma-de-aguascalientes-3222"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1974-02-24"
-last_updated: "1977-01-02"
+last_updated: "1979-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3222&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 1979.
 
 Ley publicada en el Suplemento al No. 8 del Periódico Oficial del Estado de Aguascalientes, el 24 de febrero de 1974.
 
@@ -65,17 +65,23 @@ Para la realización de los fines a que se refiere el artículo anterior, la Uni
 
 La Universidad tiene derecho para:
 
-I.- Expedir certificados de estudios, diplomas, títulos y grados en las carreras o especialidades que se cursen en sus Centros e Instituciones de acuerdo con lo que dispongan el Estatuto y los Reglamentos correspondientes.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+
+I.- Expedir certificados de estudios, diplomas, títulos y grados de los estudios que imparta de acuerdo con lo que dispongan el Estatuto y los Reglamentos correspondientes.
 
 II.- Conceder para fines académicos validez a los estudios de enseñanza media y superior que se realicen en otros establecimientos educativos, nacionales o extranjeros, de acuerdo con lo previsto en el Estatuto de esta Ley o en el Reglamento respectivo.
 
-III.- Incorporar a establecimientos de enseñanza medio y superior, siempre que los estudios que impartan correspondan a los de los planteles que funcionen dentro de la Universidad.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+
+III.- Incorporar a establecimientos de enseñanza siempre que los estudios que impartan correspondan a los de los planteles que funcionen dentro de la Universidad.
 
 IV.- Administrar libremente su patrimonio.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+
 ###### ARTICULO 6o.
 
-Para desarrollar sus funciones de planeación institucional y académica, docencia, investigación, extensión y difusión cultural, servicios a los alumnos, así como para su organización administrativa, la Universidad establecerá de acuerdo con las prescripciones del Estatuto de esta Ley, las Direcciones Generales, Direcciones, Centros, Institutos, Departamentos y Secciones, que se consideren necesarios.
+Para desarrollar sus funciones la Universidad establecerá de acuerdo con las disposiciones del Estatuto de esta Ley las estructuras que considere necesarias.
 
 ### CAPITULO II. ORGANOS DE LA UNIVERSIDAD
 
@@ -93,7 +99,9 @@ IV.- Los Directores Generales.
 
 V.- Los Consejos de Representantes de los Centros.
 
-VI.- Los Directores y los Decanos.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+
+VI.- Los Decanos.
 
 ###### ARTICULO 8o.
 
@@ -117,7 +125,9 @@ I.- Designar al Rector de la Universidad, así como de su renuncia y removerlo p
 
 La designación la hará la Junta tomando en cuenta la terna propuesta por una Asamblea de Representantes, integrada por los miembros de los Consejos de Representación de los Centros, que se constituirá con este único propósito.
 
-La designación de los integrantes de la terna a que antes se hace referencia, se hará tomando en cuenta las ternas presentadas por la Asociación de Catedráticos de la Universidad y por la Asociación de Estudiantes de la misma.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+
+La designación de los integrantes de la terna a que antes se hace referencia, se hará tomando en cuenta las ternas presentadas por el personal académico a través de la Asociación de Catedráticos y por los estudiantes a través de la Federación de Estudiantes.
 
 II.- Designar a los Directores Generales que auxilian al Rector en el cumplimiento de sus funciones, así como a los Decanos de los Centros, de acuerdo con las propuestas que en terna deberá presentar el Rector ante la Junta, así como removerlos por causa grave, a propuesta del Consejo Universitario, del Rector o de los Consejos de Representantes de los Centros.
 
@@ -143,7 +153,9 @@ III.- Conocer y aprobar en su caso, los proyectos anuales de ingresos y los pres
 
 IV.- Conocer y aprobar en su caso, los informes anuales del Rector.
 
-V.- Conocer, aprobar o modificar los planes, métodos y programas de enseñanza, propuestos por la Dirección General de asuntos académicos a través del Rector.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+
+V.- Conocer y aprobar en su caso los planes de estudios propuestos por las instancias académicas a través del Rector.
 
 VI.- Conocer y resolver en primera instancia las controversias que puedan presentarse entre autoridades, profesores y alumnos de la Universidad, aplicar las sanciones por violaciones a esta Ley o al Estatuto, de acuerdo con el procedimiento que marque este último.
 
@@ -151,7 +163,9 @@ VII.- Conocer y resolver todo lo relativo a pensiones, jubilaciones, estímulos 
 
 VIII.- Conferir grados honoríficos.
 
-IX.- Las demás que esta Ley le otorgue y en general, conocer y resolver cualquier asunto que no sea competencia de otra autoridad de la Universidad.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+
+IX.- Las demás que esta Ley, el Estatuto y los Reglamentos correspondientes le otorguen y, en general, conocer y resolver cualquier asunto que no sea competencia de otra autoridad de la Universidad.
 
 ###### ARTICULO 12.
 
@@ -161,9 +175,13 @@ a).- Tener una residencia efectiva mínima de seis años en el Estado, inmediata
 
 b).- Ser mayor de 30 años y menor de 70.
 
-c).- Poseer grado académico mínimo a nivel de licenciatura o su equivalente.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1979)</small>
 
-d).- Tener una antigüedad no menor de tres años, inmediatos anteriores al día de su elección, como profesor o investigador titular en cualesquiera de las dependencias de la Universidad.
+c).- Poseer grado académico mínimo de licenciatura o su equivalente.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+
+d).- Tener una antigüedad no menor de tres años inmediatos anteriores al día de su elección, como profesor o investigador numerario de cualquiera de las dependencias de la Universidad.
 
 e).- Haberse distinguido en su especialidad y gozar de la estimación general como persona honorable y prudente; y
 
@@ -181,13 +199,17 @@ I.- Proponer a la Junta de Gobierno la terna para designar a los Directores Gene
 
 En lo que se refiere a las ternas para Decanos de los Centros, el Rector tomará en cuenta las que sean propuestas por el Consejo de Representantes, la asamblea de Catedráticos del propio Centro y la Sociedad de Alumnos del mismo.
 
-II.- Designar libremente al Secretario General de la Universidad quien deberá, como requisito, poseer título o grado a nivel de licenciatura, a los Directores y a los Jefes de Departamentos a propuesta de los Directores Generales de las áreas que corresponda, así como al persona docente, técnico y administrativo de la Universidad, de acuerdo a las disposiciones del Estatuto y los Reglamentos correspondientes.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+
+II.- Designar libremente al Secretario General de la Universidad y designar al personal docente, técnico y administrativo, de acuerdo con las disposiciones del Estatuto y los Reglamentos correspondientes.
 
 III.- Presidir ex-oficio a todas las comisiones del Consejo Universitario y presidir, cuando lo estime conveniente, las reuniones de los Consejos de Representantes de los Centros.
 
 IV.- Aplicar las medidas disciplinarias y las sanciones que sean procedentes a los profesores, alumnos y empleados, en los términos de esta Ley y del Estatuto.
 
-V.- Profesar una cátedra por lo menos, en alguno de los Centros de la Universidad.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+
+V.- Formular anualmente los presupuestos de ingresos y egresos de la Universidad a fin de someterlos a la consideración del Consejo Universitario para su discusión y aprobación en su caso.
 
 VI.- Presentar anualmente el Consejo Universitario, el programa de labores de la Universidad y rendir el informe General de actividades realizadas.
 
@@ -201,21 +223,21 @@ Tratándose de resoluciones del Consejo Universitario, el veto tendrá por efect
 
 IX.- Los demás que le otorgue la presente Ley, el Estatuto y los Reglamentos.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+
 ###### ARTICULO 15.
 
-El Rector para el cumplimiento de sus funciones, será auxiliado por los Directores Generales que establezca el Estatuto, éste determinará los requisitos que se exigan (sic) para ocupar dichos cargos, así como las funciones que a cada uno de ellos correspondan.
+Para el cumplimiento de sus funciones el Rector será auxiliado por los Directores Generales que establezca el Estatuto, el cual determinará los requisitos que se exijan para ocupar dichos cargos, así como las funciones que a cada uno de ellos correspondan.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1979)</small>
 
 ###### ARTICULO 16.
 
-Los Consejos de Representantes de los Centros estarán integrados por el Decano, dos Representantes de los Profesores y dos Representantes de los Alumnos por cada una de las carreras a nivel de licenciatura y un Representante del Profesorado y un Representante del Alumnado, por cada carrera a nivel medio de los respectivos Centros.
+Los Consejos de Representantes de los Centros se integrarán con los Decanos, los Jefes de Departamentos Académicos correspondientes, un Consejero Maestro por cada uno de los Departamentos elegidos por votación de los Maestros adscritos a ese Departamento y un número de Consejeros Alumnos igual a la suma del de los Jefes de Departamentos y Maestros. La representación estudiantil por carrera se determinará dividiendo el número de Consejeros que le corresponda entre el número de carreras asignadas al Centro y si hubiere alguna disparidad se resolverá en favor de la carrera o carreras que tuviere el mayor número de alumnos.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1977)</small>
+El Estatuto determinará los requisitos para ser electo representante de los profesores o de los alumnos, así como los procedimientos para su elección.
 
-La Representación del Bachillerato al Centro que corresponda, se integrará por tres Representantes de los Profesores y tres Representantes de los Alumnos. La Representación de la Secundaria al Centro que corresponda, se integrará por tres Representantes de los Profesores y tres Representantes de los Alumnos.
-
-El Estatuto determinará los requisitos para ser electo Representante de los Profesores o de los Alumnos, así como los procedimientos para su elección.
-
-El Decano de cada Centro presidirá el Consejo de Representantes correspondiente, con la salvedad estipulada en la fracción III del artículo 14.
+El Decano de cada Centro presidirá el Consejo de Representantes correspondiente, con la salvedad estipulada en la Fracción III del Artículo 14.
 
 ###### ARTICULO 17.
 
@@ -227,23 +249,29 @@ II.- Objetar las resoluciones del Consejo Universitario o del Rector, en las cue
 
 III.- Estudiar y dictaminar los proyectos e iniciativas que les sean presentadas por el Rector, el Decano, los profesores y los alumnos de los Centros.
 
-IV.- Determinar el máximo de alumnos de primer ingreso, antes de celebrar los exámenes de admisión.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1979)</small>
 
-V.- Conocer y aprobar en su caso las proposiciones que sobre el personal docente haga el Decano del Centro respectivo.
+IV.- Conocer en primera instancia de la inconformidad que presenten los alumnos y los maestros del Centro respectivo por la aplicación de sanciones hechas por algún funcionario o maestro del mismo Centro.
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+
+V.- Las demás atribuciones que le otorguen la presente Ley, el Estatuto y los Reglamentos correspondientes.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1979)</small>
 
 ###### ARTICULO 18.
 
-Los Directores Generales y los Decanos de los Centros, durarán en su cargo tres años y podrán ser reelectos por una sola vez.
+Los Directores Generales y los Decanos de los Centros durarán en su cargo tres años y podrán ser reelectos.
+
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1979)</small>
 
 ###### ARTICULO 19.
 
-Los Decanos de los Centros serán responsables de la dirección administrativa, docente y de investigación, en los mismos; tendrán a su cargo la ejecución y cumplimiento de las disposiciones y acuerdos del Consejo Universitario, del Rector o de los Consejos de Representantes correspondientes, en todo lo relativo al funcionamiento de estos Centros.
-
-Son atribuciones de los Decanos, presentar ante el Consejo Universitario, ante el Rector o ante los Consejos de Representantes correspondientes según el caso, las iniciativas que tiendan a la mejor organización y funcionamiento de los Centros.
+Los Decanos serán responsables de la Dirección administrativa, docente, de extensión y de investigación en sus Centros. Tendrán a su cargo la ejecución y cumplimiento de las disposiciones y acuerdos del Consejo Universitario, del Rector o de los Consejos de Representantes correspondientes, en todo lo relativo al funcionamiento de estos Centros.
 
 ###### ARTICULO 20.
 
-Los profesores e investigadores de los Centros e Institutos de Investigación, serán designados por el Rector de la Universidad de acuerdo con lo previsto por el artículo 14, fracción II de esta Ley. Los nombramientos definitivos se conferirán por el sistema de oposición que se aplicará para comprobar la capacidad académica de los profesores e investigadores, ajustándose a lo que prevengan el Estatuto y el Reglamento correspondiente. En el supuesto de que el aspirante posea méritos académicos sobresalientes o estudios de post-grado debidamente comprobados y reconocidos, no quedará sujeto al sistema de oposición.
+Los profesores e investigadores serán designados por el Rector de la Universidad de acuerdo con lo previsto por el Artículo 14, Fracción II de esta Ley. Los nombramientos definitivos se conferirán por el sistema de oposición que se aplicará para comprobar la capacidad académica de los profesores e investigadores, ajustándose a lo que prevenga el Estatuto y el Reglamento correspondientes.
 
 El Consejo Universitario expedirá, en los términos que fije el Estatuto, un Reglamento que norme la designación y remoción de los profesores e investigadores, así como sus derechos y obligaciones.
 
@@ -259,13 +287,15 @@ No será motivo de sanción a los alumnos ni causa para impedir su ingreso a la 
 
 Las relaciones entre la Universidad y sus empleados administrativos se regirán por un Reglamento especial que promulgará el Consejo Universitario, el que deberá contener como mínimo, los derechos y prestaciones que otorga a los trabajadores la legislación laboral en vigor.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+
 ### CAPITULO III. DISPOSICIONES GENERALES
+
+(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1979)(F. DE E., P.O. 11 DE NOVIEMBRE DE 1979)
 
 ###### ARTICULO 23.
 
-Los alumnos de los distintos Centros y carreras, tendrán la más amplia libertad para organizarse en Asociaciones y Clubes Deportivos. Las Sociedades de Alumnos que se constituyan en los diversos Centros, y la Asociación de estas Sociedades, serán totalmente independientes de las autoridades de la Universidad y se organizarán de acuerdo con las normas que los estudiantes determinen.
-
-Los profesores de los Centros y de la Universidad en general, disfrutarán del mismo derecho a que se ha hecho referencia en el párrafo que antecede.
+Los alumnos de los distintos Centros y carreras, tendrán la más amplia libertad de asociarse. Las sociedades de alumnos que se constituyan en los diversos Centros y la Federación de estas sociedades, serán totalmente independientes de las autoridades de la Universidad y se organizarán de acuerdo con las normas que los estudiantes determinen.
 
 ###### ARTICULO 24.
 
@@ -275,7 +305,9 @@ I.- Todos los bienes y valores que actualmente son propiedad del Instituto Autó
 
 II.- Los legados, donaciones y fideicomisos que se le hagan o se constituyan en su favor.
 
-III.- El importe de las participaciones en los impuestos o derechos que los Gobiernos Federal y Estatal, o los Municipios le hayan asignado al Instituto Autónomo de Ciencias y Tecnología de Aguascalientes, y los que en el futuro le otorguen a la Universidad Autónoma de Aguascalientes.
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+
+III.- El importe de las participaciones que los Gobiernos Federal y Estatal, o los Municipios hayan asignado al Instituto Autónomo de Ciencias y Tecnología de Aguascalientes y los que en el futuro le otorguen a la Universidad Autónoma de Aguascalientes.
 
 IV.- Los derechos y participaciones en los trabajos que se efectúen en cualesquiera de sus dependencias.
 
@@ -285,11 +317,11 @@ VI.- Los subsidios, ordinarios y extraordinarios otorgados al Instituto Autónom
 
 VII.- Los intereses, dividendos y rentas derivados de sus bienes y valores.
 
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1979)</small>
+
 ###### ARTICULO 25.
 
-Los bienes inmuebles que formen parte del patrimonio de la Universidad y que se destinen a sus servicios, tendrán carácter de inalienables e imprescriptibles y por lo consiguiente no podrá constituirse sobre ellos ningún gravamen.
-
-En el momento que alguno de estos inmuebles deje de utilizarse en los servicios mencionados, el Consejo Universitario deberá declararlo así y obtener la sanción de la Legislatura Estatal. Esta declaración y la aprobación correspondiente, serán protocolizadas, e inscritas en el Registro Público de la Propiedad. Los inmuebles desafectados quedarán, a partir de ese momento, en situación de bienes de propiedad privada de la Universidad y estarán sujetos a todas las disposiciones del derecho común.
+Los bienes inmuebles que forman parte del patrimonio de la Universidad y que se destinen a sus servicios, tendrán carácter de inalienables, imprescriptibles e inembargables, por lo consiguiente no podrá constituirse sobre ellos ningún gravamen.
 
 ###### ARTICULO 26.
 
@@ -354,3 +386,7 @@ Lic. Miguel G. Aguayo.
 P.O. 2 DE ENERO DE 1977.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 4 DE NOVIEMBRE DE 1979.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
