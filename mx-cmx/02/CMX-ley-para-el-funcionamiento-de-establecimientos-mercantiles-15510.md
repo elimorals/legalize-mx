@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-el-funcionamiento-de-establecimientos-mercantiles-1551
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-27"
-last_updated: "2000-01-27"
+last_updated: "2002-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15510&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2000-01-10"
 
 LEY PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO FUE ABROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL, PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 28 DE FEBRERO DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 27 de enero de 2000.
 
@@ -1043,3 +1045,35 @@ SÉPTIMO. Para su debida observancia y aplicación, publíquese en la Gaceta Ofi
 Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a 30 de diciembre de mil novecientos noventa y nueve.- POR LA MESA DIRECTIVA, DIP. RENE BALDOMERO RODRIGUEZ RUIZ, PRESIDENTE.- DIP. JOSE LUIS BENITEZ GIL, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial de la Jefa de Gobierno del Distrito Federal, en la Ciudad de México, a los diez días del mes de enero del dos mil.- LA JEFA DE GOBIERNO DEL DISTRITO FEDERAL, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGEL.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 28 DE FEBRERO DE 2002.
+
+PRIMERO.- Se abroga la Ley para el Funcionamiento de Establecimientos Mercantiles del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el 27 de enero de 2000 y todas aquellas disposiciones sobre esta materia que se opongan al presente ordenamiento.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial para el Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO. - Esta ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+CUARTO.- El Jefe de Gobierno contará con un plazo de 90 días a partir de la entrada en vigor de esta Ley, para la publicación del Reglamento de la misma.
+
+QUINTO.- Las Licencias, Permisos, Autorizaciones y Declaraciones de Apertura que se encuentren en trámite a la entrada en vigor del presente ordenamiento se despacharán de conformidad con la Ley para el Funcionamiento de Establecimientos Mercantiles en el Distrito Federal publicada en la Gaceta Oficial del Distrito Federal el 27 de enero del 2000.
+
+SEXTO.- Los procedimientos administrativos relacionados con la verificación, medidas de seguridad, sanciones y recursos que se encuentren en trámite a la entrada en vigor de la presente Ley, deberán substanciarse de conformidad con la Ley para el Funcionamiento de Establecimientos Mercantiles en el Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el 27 de enero del 2000.
+
+SÉPTIMO.- A los Establecimientos Mercantiles que a la entrada en vigor de esta Ley cuenten con Licencia de Funcionamiento, les será sustituida por la que les corresponda de conformidad con lo dispuesto por este ordenamiento. La sustitución se hará al momento de realizar la revalidación anual de la misma, siempre y cuando el giro que se encuentren operando realmente corresponda al de la Licencia con la que cuentan y ese giro sea de los que requieren Licencia de Funcionamiento Tipo A o Tipo B.
+
+En los casos en que el titular tenga en su Licencia más de un giro mercantil, deberá ser sustituida por la o las que les corresponda de conformidad con la presente Ley.
+
+Para efectos de la sustitución de Licencias, los titulares deberán cumplir con los requisitos que para la revalidación establece la Ley de Procedimiento Administrativo del Distrito Federal.
+
+OCTAVO.- Los Establecimientos Mercantiles no mayores a 250 metros cuadrados, que estén operando con Declaración de Apertura, de acuerdo con la Ley para el Funcionamiento de Establecimientos Mercantiles en el Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el 27 de enero del 2000 y que conforme a la presente Ley requieran Licencia de Funcionamiento Tipo A, tendrán un plazo de 6 meses contados a partir de la publicación de la Ley para la obtención de la misma.
+
+Los Establecimientos Mercantiles a que se refiere el párrafo anterior, podrán obtener su Licencia de Funcionamiento Tipo A para Restaurante, presentando ante la Ventanilla Única o la de Gestión únicamente el documento que acredite que fue manifestada la Declaración de Apertura y el pago de los derechos correspondientes.
+
+NOVENO.- Los Establecimientos Mercantiles que a la entrada en vigor del presente decreto se encuentren operando con Licencia de Funcionamiento, de acuerdo con la Ley para el Funcionamiento de Establecimientos Mercantiles en el Distrito Federal publicada, en la Gaceta Oficial del Distrito Federal el 27 de enero de 2000 y que conforme a la presente Ley requieran Declaración de Apertura, no tendrán que llevar a cabo la revalidación de su Licencia ni tendrán que tramitar la Declaración de Apertura. En estos casos, la Licencia de Funcionamiento sustituirá a la Declaración de Apertura.
+
+DÉCIMO.- Los titulares de los Establecimientos Mercantiles que a la entrada en vigor de esta Ley se encuentren operando con Licencia de Funcionamiento o Declaración de Apertura, tendrán un plazo de 6 meses, contados a partir de la publicación de la presente Ley, para adecuar sus establecimientos, según sea el caso, a lo prescrito por las fracciones XI, XII, XIV, XV, XVIII y XX del artículo 9 de esta Ley.
+
+DÉCIMO PRIMERO- La Secretaría de Gobierno tendrá un plazo de 6 meses contados a partir de la publicación de esta ley para la creación del Registro de Videojuegos del Distrito Federal y deberá tomar en cuenta la opinión de los sectores sociales y privados para autorizar la operación comercial de títulos y contenido de videojuegos que se exhiben en los Establecimientos Mercantiles.
