@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1959-12-09"
+last_updated: "1961-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1959.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1961.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -389,13 +389,11 @@ El Poder Legislativo será ejercido por un Congreso de Diputados electos popular
 
 Los Diputados Suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio; pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 1951)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1961)</small>
 
 ###### ARTICULO 13.
 
-Para la elección de Diputados, el Estado se dividirá en tantos Distritos Electorales cuantos demande el censo de su población, designándose uno por cada ochenta mil habitantes o fracción, sin que su número sea menor de nueve.
-
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
+Para la elección de Diputados, el Estado se dividirá en tantos Distritos Electorales cuantos demande el censo de su población, designándose uno por cada ciento cuarenta mil habitantes o fracción que exceda de setenta mil, sin que su número sea menor de nueve.
 
 Cada Distrito Electoral elegirá un Diputado Propietario y un Suplente.
 
@@ -1027,15 +1025,19 @@ Cuando por cualquier circunstancia desapareciere algún Ayuntamiento u ocurriere
 
 Los Municipios administrarán libremente su hacienda, la cual se formará, aparte de los bienes propios, de las contribuciones que señale el Congreso y que en todo caso serán las suficientes para atender a sus necesidades.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1961)</small>
 
 ###### ARTICULO 68.
 
-Los miembros de los Ayuntamientos de primera y segunda categorías, durarán en su encargo tres años, y los de tercera, dos años, sin que ni unos ni otros puedan ser reelectos para el período inmediato; el Presidente, Síndico y demás miembros propietarios de los Ayuntamientos, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los suplentes sí podrán ser electos con el carácter de propietarios para el período inmediato, siempre que no hubieren estado en ejercicio. Tampoco podrán ser removidos sino por mala conducta y previo el juicio correspondiente.
+Los miembros de los Ayuntamientos del Estado, durarán en su encargo tres años, sin que puedan ser reelectos para el período inmediato; el Presidente, Síndico y demás miembros ue (sic) los Ayuntamientos, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los suplentes si podrán ser electos con el carácter de propietarios para el período inmediato, siempre que no hubieren estado en ejercicio. Solo podrán ser removidos previo juicio de responsabilidad en los términos de la ley.
 
-Los Agentes Municipales serán nombrados y removidos por el Ayuntamiento de que dependan.
+Los Agentes Municipales serán nombrados y removidos libremente por el Ayuntamiento de que dependan.
 
-Cuando por cualquier circunstancia desapareciere algún Ayuntamiento u ocurrieren faltas absolutas, en uno o más miembros de su personal, tendrá facultad el Congreso del Estado, o en su defecto la Diputación Permanente, de nombrar substitutos, previa terna que proponga el Ejecutivo.
+Para ser miembro de un Ayuntamiento o Agencia Municipal, se necesita:
+
+Ser ciudadano chiapaneco por nacimiento, vecino del Municipio o Agencia respectiva con residencia no menor de seis meses inmediatamente anteriores al de la elección o nombramiento y no pertenecer al estado eclesiástico, ni ser ministro de algún culto; esta última prohibición comprende a los empleados municipales.
+
+En ningún caso podrán hacerse incorporaciones o segregaciones de un Municipio o Agencia a otro, sin la aprobación de la mayoría de los Ayuntamientos del Estado, los que estarán obligados a darla o negarla dentro de los 90 días de recibida la nota en que se les pida.
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 1933)</small>
 
@@ -1530,3 +1532,13 @@ Artículo Unico.- Este decreto entrará en vigor desde la fecha de su publicaci�
 P.O. 9 DE DICIEMBRE DE 1959.
 
 Unico.- Este decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MAYO DE 1961.
+
+###### Artículo 1o.
+
+Quedan derogadas todas las leyes, decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente decreto.
+
+###### Artículo 2o.
+
+Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
