@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ejecucion-de-sanciones-privativas-de-la-libertad-7529"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-30"
-last_updated: "1984-07-13"
+last_updated: "1991-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS DE LA LIBERTAD PARA EL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el martes 30 de diciembre de 1975.
 
@@ -235,9 +235,13 @@ El trabajo dentro de las Cárceles Preventivas y reclusorios penitenciarios es u
 
 Los sujetos a prisión preventiva que voluntariamente desearan trabajar, podrán hacerlo en labores lícitas y honestas y sus actividades al respecto se considerarán como hechos meritorios.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 31.
 
-En la medida de las posibilidades del erario, el Estado y los Ayuntamientos respectivos, constituirán en cada establecimiento penal, centros o talleres de trabajo que en ningún caso podrán ser objeto de concesión a particulares.
+Será obligatorio para el Estado y los Ayuntamientos constituir en cada establecimiento penal, centros o talleres de trabajo.
+
+El Gobierno del Estado por conducto de la Dirección de Centros de Readaptación Social, previo acuerdo del Secretario de Gobernación, podrá celebrar convenio con particulares para el establecimiento de fuentes de trabajo, a través de industrias y talleres.
 
 ###### ARTICULO 32.
 
@@ -448,3 +452,7 @@ Este Decreto entrará en vigor al día siguiente de su publicación en el Perió
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
+
+P.O. 31 DE DICIEMBRE DE 1991.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
