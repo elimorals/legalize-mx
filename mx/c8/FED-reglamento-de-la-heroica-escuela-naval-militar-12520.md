@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-heroica-escuela-naval-militar-12520"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-11-09"
-last_updated: "1998-11-09"
+last_updated: "1999-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12520&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1998-11-02"
 
 REGLAMENTO DE LA HEROICA ESCUELA NAVAL MILITAR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 1999.
 
-Reglamento Publicado en la Tercera Sección del Diario Oficial de la Federación el lunes 9 de noviembre de 1998.
+Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 9 de noviembre de 1998.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -303,9 +303,11 @@ VIII.- Las demás que le confieren las leyes, reglamentos y disposiciones del ma
 
 ### CAPÍTULO VII. Del orden y sucesión de mando
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1999)</small>
+
 ###### Artículo 12.
 
-Las ausencias del Director General serán suplidas por el Subdirector General, a falta de éste por el que siga en jerarquía y antigüedad del Cuerpo General.
+Las ausencias temporales del Director General serán suplidas por el Subdirector General, a falta de éste por el que siga en jerarquía y antigüedad del Cuerpo General.
 
 ## TÍTULO CUARTO. Régimen Interior
 
@@ -387,7 +389,9 @@ I.- Cumplir las disposiciones que se dicten relacionadas con el régimen interio
 
 II.- Conocer la escala jerárquica de las Fuerzas Armadas Mexicanas y la interior del Cuerpo de Cadetes, debiendo guardar a los rangos superiores, subordinados o iguales el respeto debido, como la base fundamental de la disciplina naval;
 
-III.- Observar buena conducta militar y civil, así como cumplir íntegramente con sus clases, tareas, prácticas clínicas y actividades encomendadas por los profesores e instructores, de conformidad con los programas de estudio;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1999)</small>
+
+III.- Observar buena conducta militar y civil, así como cumplir íntegramente con sus clases, tareas, prácticas y actividades encomendadas por los profesores e instructores, de conformidad con los programas de estudio;
 
 IV.- Mantener en buen estado el armamento, correaje, vestuario, material didáctico y equipo que se les haya ministrado;
 
@@ -427,27 +431,37 @@ III.- Expresarse dolosa y tendenciosamente ya sea de palabra o por escrito, acer
 
 Los cadetes con grado no tendrán familiaridades con los demás cadetes ni abusarán de su jerarquía, serán los responsables de conservar la disciplina y supervisar el cumplimiento de las órdenes y disposiciones superiores.
 
-### CAPÍTULO III. De los cadetes de nacionalidad extranjera
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 25 DE MAYO DE 1999)</small>
+
+### CAPÍTULO III. De los becarios de nacionalidad extranjera
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1999)</small>
 
 ###### Artículo 27.
 
-Los cadetes extranjeros son todos aquellos militares o civiles que, previo trámite de sus gobiernos, ingresan a la Heroica Escuela Naval Militar para realizar sus estudios en ella.
+Los becarios de nacionalidad extranjera son todos aquellos militares o civiles que, previo trámite de sus gobiernos, ingresan a la Heroica Escuela Naval Militar para realizar sus estudios en ella.
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1999)</small>
 
 ###### Artículo 28.
 
-Durante su estancia en la Heroica Escuela Naval Militar se uniformarán y se comportarán como cadetes nacionales quedando sujetos al presente Reglamento y demás disposiciones disciplinarias vigentes.
+Durante su estancia en la Heroica Escuela Naval Militar se uniformarán y se comportarán como cadetes quedando sujetos a las disposiciones que rigen a éstos y las demás disposiciones disciplinarias vigentes, salvo lo contenido en el artículo 16 del presente Reglamento.
+
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1999)</small>
 
 ###### Artículo 29.
 
-Los cadetes extranjeros no jurarán Bandera y dentro del régimen interno sólo podrán ser ascendidos hasta la jerarquía de aspirante de segunda; asimismo, no formarán parte de la escolta de la Bandera ni desempeñarán el puesto de centinela en la Sala de Banderas.
+Los becarios de nacionalidad extranjera no jurarán Bandera y dentro del régimen interno sólo podrán ser ascendidos hasta la jerarquía de aspirante de segunda; asimismo, no formarán parte de la escolta de la Bandera ni desempeñarán el puesto de centinela en la Sala de Banderas.
 
 ###### Artículo 30.
 
 Seis meses antes de terminar sus estudios en la Heroica Escuela Naval Militar, sus gobiernos deberán informar por escrito al Estado Mayor General de la Armada, si desean o no realizar sus prácticas como guardiamarinas en las unidades de la Armada de México.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1999)</small>
+
 ###### Artículo 31.
 
-La Dirección General de Educación Naval rendirá mensualmente un informe al Estado Mayor General de la Armada, acerca del comportamiento y aprovechamiento de los cadetes de nacionalidad extranjera.
+La Dirección General de Educación Naval rendirá mensualmente un informe al Estado Mayor General de la Armada acerca del comportamiento y aprovechamiento de los becarios extranjeros.
 
 ###### Artículo 32.
 
@@ -595,9 +609,11 @@ Los cadetes que pertenezcan al "Grupo de Cadetes Distinguidos" tendrán derecho 
 
 Los cadetes que a criterio de la Dirección General y a propuesta del Comandante del Cuerpo de Cadetes reúnan aptitud para el mando, tengan buen aprovechamiento académico y buena conducta civil y militar, serán promovidos al grado inmediato, de acuerdo a la planilla orgánica del Cuerpo de Cadetes.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE MAYO DE 1999)</small>
+
 ###### Artículo 51.
 
-Los cadetes de la escuela ostentarán como grados jerárquicos interiores, que constituirán las clases de cadetes, los siguientes:
+Dentro de la organización interior de la escuela los cadetes podrán ostentar las jerarquías de clases de cadetes siguientes:
 
 I.- Cadete de primera;
 
@@ -607,9 +623,11 @@ III.- Aspirante de segunda, y
 
 IV.- Aspirante de primera, que invariablemente pertenecerán al último año lectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE MAYO DE 1999)</small>
+
 ###### Artículo 52.
 
-Al término del año lectivo de acuerdo al plan de estudios vigente, se otorgarán premios a los tres cadetes que hayan obtenido las mayores calificaciones finales de ocho puntos o más en todas las materias. Cuando varios cadetes obtengan igual puntuación el Consejo Docente decidirá, conforme a méritos, a quiénes corresponden estos premios.
+Al término del año lectivo de acuerdo al plan de estudios vigente, se otorgarán premios a los cadetes que hayan obtenido las mayores calificaciones finales de ocho puntos o más en todas las materias. Cuando varios cadetes obtengan igual puntuación el Consejo Docente decidirá, conforme a méritos, a quiénes corresponden estos premios.
 
 Los cadetes que obtengan primeros premios deberán usar por cada primer premio un ángulo recto de galón de hilo de oro de doce milímetros de ancho, cuyos lados serán de sesenta milímetros de longitud, colocados en el brazo izquierdo con la bisectriz siguiendo la dirección longitudinal del brazo, el vértice hacia arriba y de manera que quede a igual distancia del codo y del hombro.
 
@@ -625,9 +643,11 @@ Los cadetes podrán hacerse acreedores a las recompensas establecidas en la Ley 
 
 El cadete que haya obtenido durante los cinco años de carrera el primer premio tendrá derecho a que se le otorgue la Condecoración al Mérito Facultativo Naval de Primera Clase y aquellos que hayan obtenido combinados los primeros y segundos premios o solamente segundos premios en los cinco años de estudios tendrán derecho a que se les otorgue la condecoración al Mérito Facultativo de Segunda Clase.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1999)</small>
+
 ###### Artículo 56.
 
-El cadete que haya acumulado la mayor puntuación deportiva durante los cinco años de permanencia en la escuela, tendrá derecho a la “Condecoración al Mérito Deportivo Naval de Segunda Clase” y el cadete que en competencias nacionales rompa el récord nacional, forme parte de una selección nacional en competencias interiores representando a la Heroica Escuela Naval Militar y obtenga algún premio, se hará acreedor a la Condecoración al “Mérito Deportivo Naval de Primera Clase”, mismas que se le harán entrega en la ceremonia de graduación.
+El cadete que haya acumulado la mayor puntuación deportiva durante los cinco años de permanencia en la escuela, tendrá derecho a la Condecoración al Mérito Deportivo Naval de Segunda Clase y el cadete que en competencias nacionales rompa el récord nacional, forme parte de una selección nacional en competencias internacionales representando a la Heroica Escuela Naval Militar y obtenga algún premio se hará acreedor a la Condecoración al Mérito Deportivo Naval de Primera Clase, mismas que se le harán entrega en la ceremonia de graduación.
 
 ## TÍTULO QUINTO. De la enseñanza y evaluación académica
 
@@ -888,3 +908,9 @@ Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente d
 Artículo Segundo.- Se abroga el Reglamento de la Escuela Naval de la Armada de México publicado en el Diario Oficial de la Federación el 17 de agosto de 1949, y se derogan todas aquellas disposiciones que se opongan al presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dos días del mes de noviembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Marina, José Ramón Lorenzo Franco.- Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 25 DE MAYO DE 1999.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
