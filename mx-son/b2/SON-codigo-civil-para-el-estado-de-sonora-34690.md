@@ -4,7 +4,7 @@ identifier: "SON-codigo-civil-para-el-estado-de-sonora-34690"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "1961-05-06"
+last_updated: "1967-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34690&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO CIVIL PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN BOLETIN OFICIAL: 6 DE MAYO DE 1961.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE JULIO DE 1967.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -4775,17 +4775,11 @@ Sólo puede constituirse el patrimonio de la familia con bienes sitos en el muni
 
 Cada familia sólo puede construir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
+> <small>(REFORMADO, B.O. 15 DE JULIO DE 1967)</small>
+
 ###### Art. 896.
 
-El valor máximo de los bienes afectos al patrimonio de familia será de:
-
-> <small>(REFORMADA, B.O. 6 DE MAYO DE 1961)</small>
-
-I.- Treinta y cinco mil pesos para las municipalidades de Hermosillo, Nogales, Cajeme, Navojoa y Cananea;
-
-> <small>(REFORMADA, B.O. 6 DE MAYO DE 1961)</small>
-
-II.- Treinta mil pesos para los municipios restantes.
+El valor máximo de los bienes afectos al patrimonio de la familia será de Cincuenta Mil Pesos para todos los Municipios del Estado.
 
 ###### Art. 897.
 
@@ -18226,5 +18220,9 @@ CUARTO.- En los procedimientos judiciales o administrativos pendientes de resolu
 QUINTO.- Esta Ley empezara a regir a partir del día de su publicación en el Boletín Oficial del Estado.
 
 B.O. 6 DE MAYO DE 1961.
+
+UNICO.- La presente Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 15 DE JULIO DE 1967.
 
 UNICO.- La presente Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
