@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1999-12-24"
+last_updated: "2002-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 2002.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -4299,11 +4299,13 @@ Ejecutoriada la sentencia de divorcio el tribunal mandará remitir copia de ella
 
 Declaración de estado de interdicción.
 
-## TITULO UNICO.
+## TITULO QUINTO.
 
-### CAPITULO I.
+### CAPITULO UNICO.
 
-Disposiciones generales.
+Juicio Hipotecario.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)</small>
 
 ###### Art. 702.
 
@@ -4329,6 +4331,210 @@ III.- Si la sentencia de primer instancia fuere declaratoria de estado, proveer�
 
 IV.- Luego que cause ejecutoria la sentencia de interdicción se proveerá a discernir el cargo al tutor propietario, en los términos de ley.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 19 DE NOVIEMBRE DE 2002)</small>
+
+## TITULO UNICO.
+
+### CAPITULO I.
+
+Disposiciones generales.
+
+###### Art. 704-A.
+
+El juicio hipotecario es un procedimiento especial sumario que tiene por objeto resolver las controversias que se originen con motivo del pago o prelación de las obligaciones garantizadas con hipoteca.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)</small>
+
+###### Art. 704-B.
+
+Para que el juicio hipotecario se siga según las reglas del presente capítulo, es requisito que el contrato de hipoteca conste en escritura pública o documento legalmente equiparable a ésta, debidamente registrada y que el plazo de pago se haya cumplido, o que sea exigible conforme a lo pactado en el contrato de hipoteca o bien, que deba anticiparse de acuerdo a la ley.
+
+No será necesaria la inscripción de la hipoteca en el Registro Público de la Propiedad, cuando el contrato principal tenga carácter de título ejecutivo, el bien objeto de la garantía se encuentre inscrito a favor del demandado y no exista respecto del bien hipotecado, embargo o gravamen a favor de tercero, inscrito cuando menos noventa días anteriores a la presentación de la demanda.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)</small>
+
+###### Art. 704-C.
+
+Presentado el escrito de demanda, acompañado del documento base de la acción y de los documentos justificativos de la personalidad del actor, el Juez dentro del término de tres días, si encuentra que se reúnen los requisitos fijados por los artículos anteriores, la admitirá y mandará inscribirla en el Registro Público de la Propiedad del lugar de la ubicación del inmueble hipotecado.
+
+Anotada la demanda en el Registro Público de la Propiedad, no podrá practicarse en la finca hipotecada ningún embargo, toma de posesión, diligencia precautoria o cualquier otra que entorpezca el curso del juicio, sino en virtud de sentencia ejecutoriada relativa a la misma finca, anterior a la inscripción de la referida demanda o en razón de providencia precautoria solicitada ante el juez por acreedor con mejor derecho.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)</small>
+
+###### Art. 704-D.
+
+En el auto que admita la demanda, el juez ordenará que se requiera al deudor el pago de las prestaciones reclamadas y que para el caso de no cumplir, con copia cotejada de la demanda y sus documentos anexos, se corra traslado al demandado, emplazándolo a juicio para que dentro del término de cinco días ocurra a pagar lo reclamado o en su caso, a contestar la demanda y a oponer las excepciones que correspondan, en términos de lo dispuesto en el artículo siguiente. Asimismo para que manifieste al contestar la demanda, si acepta o no el cargo de depositario.
+
+Desde el día del emplazamiento, contrae el deudor las obligaciones de depositario judicial. Al contestar la demanda el deudor deberá, de manera expresa, manifestar si acepta o no el cargo de depositario.
+
+Si el deudor no acepta el cargo de depositario, o no manifiesta nada al respecto, el actor procederá a nombrarlo bajo su responsabilidad y aceptado el cargo, el actuario pondrá al depositario designado en posesión del inmueble.
+
+En todos los casos, se pondrá en posesión del inmueble hipotecado al depositario con todas sus accesiones, frutos y demás objetos que le correspondan conforme a la ley.
+
+Asimismo, se agregará a los autos un inventario de los objetos que con arreglo a la ley deban considerarse como parte del inmueble. El deudor queda obligado a dar todas las facilidades para la formación del inventario.
+
+El deudor que no haya aceptado la responsabilidad de depositario, entregará desde luego la tenencia material de la finca al actor. En caso de que el deudor solicite término para entregar la posesión de la finca, el juez otorgará hasta treinta días naturales, mismo que podrá prorrogarse por acuerdo de las partes. Durante el tiempo que el deudor conserve el bien inmueble en su poder, será considerado como depositario judicial, para todos los efectos legales.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)</small>
+
+###### Art. 704-E.
+
+El demandado sólo podrá oponer las siguientes excepciones:
+
+I.- Las fundadas en que el demandado no haya firmado el documento base de la acción, la de alteración o la de falsedad del mismo;
+
+II.- La falta de representación, de poder bastante o facultades legales de quien haya suscrito en representación del demandado el documento base de la acción;
+
+III.- Incumplimiento o nulidad del contrato;
+
+IV.- Pago o compensación;
+
+V.- Remisión o quita;
+
+VI.- Oferta de no cobrar o espera;
+
+VII.- Novación de contrato;
+
+VIII.- Litispendencia y conexidad de causa;
+
+IX.- Cosa Juzgada;
+
+X.- Incompetencia del juez;
+
+XI.- Prescripción; y
+
+XII.- Las personales que pueda oponer el deudor.
+
+Las excepciones comprendidas en las fracciones IV a la IX, sólo se admitirán cuando se funden en prueba documental. Las excepciones señaladas en la fracción VIII sólo se admitirán si exhiben con la contestación las copias selladas de la demanda y contestación de ésta o de las cédulas de emplazamiento del juicio pendiente o conexo, o bien la documentación que acredite fehacientemente que se encuentra tramitando un procedimiento.
+
+Cuando el demandado no cuente con la documentación a que se refiere el párrafo anterior, deberá presentar el documento que acredite fehacientemente que ya fue solicitada a la autoridad correspondiente y deberá exhibir dentro de un término de diez días la documentación requerida.
+
+Sólo por causa justificada, cuando no se obtenga directamente la documentación, el Juez podrá auxiliar al oferente solicitándola a la autoridad encargada de expedirla. En todo caso la documentación se deberá presentar en el plazo señalado en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)</small>
+
+###### Art. 704-F.
+
+El juez revisará la contestación de la demanda y desechará de plano las excepciones diferentes a las establecidas en el artículo anterior e igualmente desechará aquéllas en que sea necesario exhibir documento y el mismo no se acompañe.
+
+La reconvención sólo será procedente cuando se funde en el documento base de la acción. En cualquier otro caso se desechará de plano.
+
+Todas las excepciones y defensas se resolverán en la sentencia definitiva y no suspenderán el procedimiento.
+
+Si al contestar la demanda, el demandado se allana y solicita término de gracia para el cumplimiento de lo reclamado, el juez pronunciará inmediatamente sentencia definitiva y concederá al demandado un término que no podrá ser inferior a noventa días naturales, ni superior a ciento cincuenta días naturales, en ningún caso para ese efecto.
+
+En caso de allanamiento total a la demanda, o si el deudor no la contesta o no hace valer defensas ni opone excepciones, o si las opone en forma distinta a lo señalado en este capítulo o fuera del término legal, se pronunciará inmediatamente sentencia definitiva.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)</small>
+
+###### Art. 704-G.
+
+Admitida en tiempo y forma la contestación de la demanda, el juez en el mismo auto abrirá el juicio a prueba por un término de veinte días y se señalará día y hora para la celebración de la audiencia final del juicio, misma que se llevará a cabo dentro de los cinco días siguientes a la conclusión del período probatorio.
+
+Si hubiera reconvención se correrá traslado de ésta a la parte actora para que conteste en un término de cinco días; en este caso el período probatorio empezará a correr para ambas partes una vez que se tenga por contestada la reconvención o concluido el término para ello.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)</small>
+
+###### Art. 704-H.
+
+Si el demandado se opone a la demanda en la forma y términos aquí establecidos, se continuará el procedimiento con sujeción a estas reglas y supletoriamente a las reglas generales del procedimiento ordinario, en lo que no se opongan al presente procedimiento.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)</small>
+
+###### Art. 704-I.
+
+Las partes deberán acompañar a su escrito de demanda o contestación las pruebas documentales; las que presentaren después sólo le serán admitidas si en dichos escritos se hace mención de ellas y son presentadas dentro de los primeros diez días del período probatorio.
+
+Las demás pruebas deberán ofrecerse dentro de los primeros cinco días del período probatorio, acompañadas por los elementos necesarios para su desahogo. En la prueba testimonial podrán las partes presentar hasta dos testigos por cada hecho.
+
+El juez resolverá sobre la admisión o desechamiento de las pruebas según proceda. En el caso de que las pruebas ofrecidas sean contra la ley o sobre hechos no controvertidos por las partes o que no se hayan relacionado con los mismos, el juez las desechará de plano.
+
+A las partes corresponde presentar a los testigos, peritos y demás pruebas que les hayan sido admitidas y sólo en caso de que existan periciales contradictorias, el juez nombrará a un perito tercero en discordia.
+
+Sólo si existe impedimento para presentar directamente a los testigos, podrá solicitarle al juez que los cite, siempre que así se haya manifestado al momento de su ofrecimiento señalando la causa o motivo que le impidan presentarlos directamente. El juez ordenará que se cite al testigo para que rinda su declaración, en la hora y día que al efecto se señale con el apercibimiento de que si no asiste será presentado por conducto de la fuerza pública. Para efecto de la citación de los testigos, el juez pondrá a disposición del oferente los oficios o citaciones a efecto de que éste prepare la prueba y se desahogue a más tardar en la audiencia de ley.
+
+Las pruebas, salvo la de perito tercero en discordia, se desahogarán en la fecha que se señale para el efecto. Si admitida una prueba no se desahoga en la fecha señalada para ello por causa no imputable a las partes, podrá desahogarse con posterioridad, pero siempre dentro del período probatorio. Si no es desahogada dentro de este plazo se declarará desierta.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)</small>
+
+###### Art. 704-J.
+
+El juez presidirá la audiencia final del juicio que será indiferible, en la que las partes podrán alegar lo que a su derecho convenga. Dentro de los tres días siguientes el juez dictará sentencia definitiva.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)</small>
+
+###### Art. 704-K.
+
+La sentencia debe declarar si procede la vía especial sumaria hipotecaria y en su caso, si ha lugar al remate de bienes.
+
+Si se resuelve que no procede la vía, se reservarán al actor sus derechos para que los haga valer en la forma correspondiente y se mandará cancelar la inscripción que se hubiere hecho y en su caso que se devuelva de inmediato el inmueble al demandado, ordenando al depositario que rinda cuentas en un término que no exceda de treinta días.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)</small>
+
+###### Art. 704-L.
+
+El juez señalará fecha y hora para la celebración de la audiencia de remate, a la cual son aplicables las normas establecidas por el Capítulo VII, del Título Sexto, Libro Segundo de este Código, en todo aquello que no se oponga a lo previsto por este Capítulo.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)</small>
+
+###### Art. 704-M.
+
+Antes de llevarse a cabo el remate del inmueble hipotecado, el juez ordenará notificar personalmente a los acreedores anteriores que se adviertan en el certificado de gravámenes correspondiente, para que puedan hacer valer los derechos que les correspondan. Si se ignora su domicilio la notificación se hará por edictos que se publicarán por tres veces consecutivas, en el Periódico Oficial del Gobierno del Estado y en otro diario de los de mayor circulación del lugar del juicio y del de ubicación del inmueble.
+
+Pueden oponerse a la venta los acreedores hipotecarios posteriores, cuando les favorezca la prescripción de la acción hipotecaria intentada.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)</small>
+
+###### Art. 704-N.
+
+Se tendrá como base del remate de los inmuebles hipotecados, el precio que señale el avalúo que presente el perito que las partes hayan convenido para tal efecto durante el procedimiento, quien no deberá ser parte ni tener interés alguno en el juicio respectivo.
+
+A falta de lo anterior se procederá en la forma siguiente:
+
+I.- Cada parte presentará en un término de cinco días contados a partir del día siguiente al en que haya causado efecto la notificación de la sentencia de primer grado, avalúo del inmueble hipotecado, practicado por perito, corredor público o institución autorizada para ello, quienes no deberán ser parte ni tener interés alguno en el juicio respectivo;
+
+II.- Al avalúo se deberá acompañar la documental que acredite el carácter de perito de quien lo realiza;
+
+III.- En el caso de que alguna de las partes deje de exhibir el avalúo dentro del término señalado, se entenderá su conformidad con el avalúo presentado por su contraria;
+
+IV.- En el supuesto de que ninguna de las partes exhiba el avalúo dentro del término señalado en la fracción I de este artículo, cualquiera de ellas lo podrá presentar posteriormente, considerándose como base para el remate el primero en tiempo;
+
+V.- Si las partes exhiben los avalúos en los términos establecidos y sus valores no coinciden, se tomará como base para el remate el promedio de ambos avalúos, siempre y cuando el de mayor cuantía no sea superior en un treinta por ciento del valor del de menor cuantía, en cuyo caso el juez obtendrá un avalúo tercero en discordia en los términos anteriores;
+
+VI.- Una vez obtenido el tercer peritaje, el juez tomando en consideración lo dispuesto en todos ellos, determinará el valor que ha de servir como base para el remate;
+
+VII- El valor contenido en los avalúos tendrá una vigencia de seis meses, transcurridos los cuales deberán practicarse nuevos avalúos;
+
+VIII.- Obtenido el valor del avalúo se procederá al remate del inmueble hipotecado en los términos del capítulo VII, título sexto, del libro segundo de este ordenamiento.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)</small>
+
+###### Art. 704-O.
+
+En los juicios hipotecarios sólo son apelables los autos que nieguen la admisión de la demanda, los que no admitan pruebas, las sentencias interlocutorias y definitiva, así como los autos que declaran fincado el remate. La apelación sólo se admitirá en el efecto devolutivo.
+
+Ningún recurso interrumpirá la continuación del procedimiento.
+
+Si llegada la fecha de la audiencia de remate no se ha resuelto la apelación, se suspenderá la celebración de la misma hasta en tanto se resuelva el recurso. El juzgador informará diez días antes de la fecha señalada para la celebración del remate, el estado procesal a la autoridad de alzada.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)</small>
+
+###### Art. 704-P.
+
+Admitido el recurso de apelación, el juez remitirá las constancias que correspondan al Tribunal de alzada, mismo que deberá resolver sin más trámite en un término de diez días contados a partir de su recepción.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)</small>
+
+###### Art. 704-Q.
+
+Si el superior revoca el fallo de primera instancia que declaró procedente la acción especial hipotecaria, se mandará cancelar la anotación de la demanda en el Registro Público de la Propiedad y en su caso, se devolverá el inmueble al demandado, ordenando al depositario que rinda cuentas.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 19 DE NOVIEMBRE DE 2002)</small>
+
+# LIBRO CUARTO.
+
+Jurisdicción voluntaria.
+
 ## TITULO UNICO.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 1971)</small>
@@ -4336,14 +4542,6 @@ IV.- Luego que cause ejecutoria la sentencia de interdicción se proveerá a dis
 ### CAPITULO II.
 
 Nombramiento de tutores y curadores y discernimiento de estos cargos.
-
-# LIBRO CUARTO.
-
-Jurisdicción voluntaria.
-
-### CAPITULO III.
-
-Enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos.
 
 ###### Art. 705.
 
@@ -4383,11 +4581,9 @@ Las providencias de jurisdicción voluntaria serán apelables en ambos efectos, 
 
 La substanciación de las apelaciones en jurisdicción voluntaria se ajustará a los trámites establecidos para los incidentes, no siendo necesaria la expresión de agravios.
 
-### CAPITULO IV.
+### CAPITULO III.
 
-Adopción.
-
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 1996)</small>
+Enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos.
 
 ###### Art. 711.
 
@@ -4445,11 +4641,11 @@ En todos los casos de impedimento, separación o excusa del tutor o curador prop
 
 Cuando, del examen de la cuenta, resulten motivos graves para sospechar dolo, fraude o culpa en el tutor, se iniciará desde luego, a petición de parte o del Ministerio Público, el juicio de separación que se seguirá conforme a las disposiciones del Libro Segundo, y sí, de los primeros actos del juicio, resultaren confirmadas las sospechas, se nombrará desde luego un tutor interino, quedando en suspenso, entre tanto, el tutor propietario, sin perjuicio de que se remita testimonio de lo conducente a las autoridades penales, en su caso.
 
-### CAPITULO V.
+### CAPITULO IV.
 
-Informaciones ad perpétuam.
+Adopción.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 1971)</small>
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 1996)</small>
 
 ###### Art. 720.
 
@@ -4499,9 +4695,11 @@ Para recibir dinero prestado en nombre del menor o incapacitado, necesita el tut
 
 Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenación de los bienes de ausentes, así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes, menores o incapacitados.
 
-### CAPITULO VI.
+### CAPITULO V.
 
-Apeo y deslinde.
+Informaciones ad perpétuam.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 1971)</small>
 
 ###### Art. 728.
 
@@ -4535,11 +4733,9 @@ Si el adoptado fuere menor de edad, no se decretará la revocación sin recabar 
 
 Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en los casos del artículo anterior, pueden rendirse toda clase de pruebas.
 
-### CAPITULO VII.
+### CAPITULO VI.
 
-Disposiciones relativas a otros actos de jurisdicción voluntaria.
-
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 1971)</small>
+Apeo y deslinde.
 
 ###### Art. 731.
 
@@ -4583,11 +4779,11 @@ Las informaciones en que haya recaído resolución favorable al promovente, se m
 
 En ningún caso se admitirán, en jurisdicción voluntaria, informaciones de testigos sobre hechos que fueren materia de un juicio comenzado.
 
-### CAPITULO I.
+### CAPITULO VII.
 
-Disposiciones Generales.
+Disposiciones relativas a otros actos de jurisdicción voluntaria.
 
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 1971)</small>
 
 ###### Art. 736.
 
@@ -4643,9 +4839,9 @@ Los puntos respecto a los cuales hubiere oposición, no quedarán deslindados ni
 
 Los gastos generales del apeo se harán por el que lo promueva. Los que importen la intervención de los peritos que designen y de los testigos que presenten los colindantes, serán pagados por el que nombre a los unos o presente a los otros.
 
-### CAPITULO II.
+### CAPITULO I.
 
-De la rectificación de las actas del estado civil.
+Disposiciones Generales.
 
 > <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
 
@@ -4691,11 +4887,11 @@ Del Procedimiento Sumario.
 
 > <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 1971)</small>
 
-### CAPITULO III.
+### CAPITULO II.
 
-Del Ofrecimiento del Pago y la Consignación.
+De la rectificación de las actas del estado civil.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1983)</small>
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
 
 ###### Art. 746.
 
@@ -4703,11 +4899,11 @@ En los juicios sumarios regirán las normas aplicables al procedimiento ordinari
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 1971)</small>
 
-### CAPITULO IV.
+### CAPITULO III.
 
-De la cancelación de las inscripciones hipotecarias.
+Del Ofrecimiento del Pago y la Consignación.
 
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1983)</small>
 
 ###### Art. 747.
 
@@ -4740,6 +4936,12 @@ La sentencia que cause ejecutoria hará plena fe contra toda persona ajena al pr
 Es Juez competente para decidir sobre la rectificación, el del partido judicial a que corresponda el lugar en que se extendió el acta respectiva.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE NOVIEMBRE DE 1983)</small>
+
+### CAPITULO IV.
+
+De la cancelación de las inscripciones hipotecarias.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
 
 ###### Art. 752.
 
@@ -5094,3 +5296,11 @@ Para los efectos de los artículos reformados, los asuntos que se encuentren en 
 P.O. 24 DE DICIEMBRE DE 1999.
 
 Artículo Unico.- El presente Decreto entrará en vigor el Primero de Marzo del año 2000, previa su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE NOVIEMBRE DE 2002.
+
+Artículo Primero.- El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Las reformas y adiciones del presente decreto solo serán aplicables respecto de las hipotecas que se contraten posteriormente a la entrada en vigor del mismo.
+
+Artículo Tercero.- Los juicios actualmente en trámite que tengan por objeto el pago o prelación de créditos garantizados con hipoteca continuarán tramitándose en la vía en que hayan sido admitidos.
