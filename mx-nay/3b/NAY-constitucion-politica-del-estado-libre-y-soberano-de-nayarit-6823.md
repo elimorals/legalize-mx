@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1975-01-18"
+last_updated: "1975-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 1975.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -183,7 +183,7 @@ II. Asociarse para tratar los asuntos políticos del Estado y las demás prerrog
 
 III. Los nayaritas serán preferidos a los que no lo sean, en igualdad de circunstancias.
 
-En las elecciones municipales participarán las mujeres en igualdad de condición que los varones, con el derecho de votar y ser votadas.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 29 DE NOVIEMBRE DE 1975)</small>
 
 ###### Art. 18.
 
@@ -325,13 +325,11 @@ Los Diputados no podrán, durante el período de sus funciones, desempeñar otra
 
 ### CAPITULO II. De la instalación, duración y labores del Congreso
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1975)</small>
 
 ###### Art. 32.
 
-Sin la asistencia de cuatro Diputados cuando menos, no podrá ejercer el Congreso sus funciones, instalarse o abrirse en su caso pero los que asistan, cualquiera que sea su número, deberán reunirse en los días señalados por la Ley y compeler a los ausentes a fin de que concurran dentro de los diez días siguientes con la advertencia, de que si no lo hacen, se entenderá que renuncian su cargo, y se llamará desde luego a los Suplentes, los que deberán presentarse en un plazo de veinte días, y si tampoco lo verificaren, se declarará vacante el cargo y se convocará a nueva elección.
-
-Se entiende la aplicación de estas penas, en los casos en que no medie causa justificada.
+El Congreso del Estado no podrá abrir sus sesiones sin la concurrencia de más de la mitad del número total de sus miembros; pero los presentes deberán reunirse el día señalado por la Ley y compeler a los ausentes a que concurran dentro de los diez días siguientes, con la advertencia de que si no lo hicieren se entenderá, por ese solo hecho, que no aceptan su encargo, llamándose luego a los suplentes, los que deberán presentarse en un plazo de veinte días, y si tampoco lo hiciesen, se declarará vacante el cargo y se convocará a nuevas elecciones; excepto con justa causa.
 
 ###### Art. 33.
 
@@ -367,11 +365,11 @@ Durante el primer mes del primer Período Ordinario de Sesiones de cada año, de
 
 En el Segundo Período de Sesiones Ordinarias de cada año, se hará la revisión de la cuenta de caudales públicos del año anterior, que habrá de presentar el Ejecutivo dentro de los primeros treinta días de este Periodo y se decretarán los Presupuestos de Ingresos y Egresos Municipales para el año siguiente.
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 1934)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1975)</small>
 
 ###### Art. 39.
 
-Ocho días antes de cerrarse el periodo de sesiones ordinarias se nombrará por el Honorable Congreso una Diputación Permanente compuesta de tres Ciudadanos Diputados, siendo el primero de los designados Presidente, el segundo Primer Secretario y el tercero Segundo Secretario, pudiendo el Primer Secretario substituir las faltas del Ciudadano Presidente.
+Ocho días antes de cerrarse el periodo de Sesiones Ordinarias, se nombrará por el Honorable Congreso del Estado, una Diputación Permanente, compuesta de tres Diputados con el carácter de propietarios y otros dos como suplentes. El primero será el Presidente; y el Segundo, Primer Secretario; y el Tercero, Segundo Secretario, pudiendo el Primer Secretario; substituir las faltas del Ciudadano Presidente. Los suplentes serán Primero y Segundo Secretario en el orden de su nombramiento de igual manera que los propietarios.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -425,7 +423,9 @@ Al abrirse el período de sesiones siguiente a la visita, los Diputados presenta
 
 ###### Art. 46.
 
-Toda resolución del Congreso tendrá el carácter de ley o decreto. Las leyes o decretos se comunicarán al Ejecutivo firmadas por el Presidente del Congreso y por los Secretarios, promulgándose en esta forma: "El Congreso del Estado Libre y Soberano de Nayarit, representando por su….. Legislatura, decreta: (Texto de la ley o decreto).
+Toda resolución del Congreso tendrá el carácter de ley o decreto. Las leyes o decretos se comunicarán al Ejecutivo firmadas por el Presidente del Congreso y por los Secretarios, promulgándose en esta forma:
+
+"El Congreso del Estado Libre y Soberano de Nayarit, representando por su….. Legislatura, decreta: (texto de la ley o decreto).
 
 ### CAPITULO III. De las facultades del Congreso
 
@@ -595,11 +595,11 @@ Las Leyes y Decretos se comunicarán al Ejecutivo para su promulgación y observ
 
 Todo Proyecto de Ley o de Decreto, se reputará aprobado por el Ejecutivo, si no fuere devuelto en el plazo señalado por el Artículo anterior, a no ser que durante el transcurso del término señalado, la Legislatura hubiere clausurado o suspendido sus sesiones, pues en tal caso la devolución deberá hacerse dentro de los cinco primeros días hábiles del período ordinario siguiente.
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1975)</small>
 
 ###### Art. 55.
 
-Todo Proyecto de Ley o Decreto devuelto por el Ejecutivo, con observaciones, necesita para su aprobación el voto de cinco Diputados cuando menos, que en este caso, será remitido nuevamente al Ejecutivo, para que sin más trámite lo promulgue.
+Todo proyecto de Ley o Decreto devuelto por el Ejecutivo, con observaciones, necesita para su aprobación el voto de la mayoría de los Diputados que integran el Honorable Congreso y en este caso, será remitido nuevamente al Ejecutivo, para que sin más trámite lo promulgue.
 
 ###### Art. 56.
 
@@ -1113,7 +1113,7 @@ III. No pertenecer al Ejército permanente ni tener mando de fuerzas en el Munic
 
 IV. No tener impedimento legal alguno.
 
-Las mujeres mayores de 21 años o de 18 que fueren casadas, podrán formar parte de los Ayuntamientos si resultaren electas en los términos de la Ley respectiva.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 29 DE NOVIEMBRE DE 1975)</small>
 
 ###### Art. 113.
 
@@ -1199,11 +1199,11 @@ El año fiscal queda comprendido del primero de enero al treinta y uno de diciem
 
 Todo funcionario público, cualquiera que sea su categoría, es responsable de los delitos del orden común que cometa durante su encargo y de los delitos oficiales, faltas u omisiones en que incurriere en sus funciones; pero el Gobernador del Estado, durante el periodo de su duración sólo podrá ser acusado por los delitos de traición a la Patria, violación expresa de la Constitución Federal o de la Particular del Estado, ataques a la libertad electoral y delitos graves del orden común.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1969)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1975)</small>
 
 ###### Art. 123.
 
-En los delitos del orden común que cometieren el Gobernador, los Diputados, los Magistrados del Supremo Tribunal y el Director General de Gobernación, la Legislatura, erigida en Gran Jurado, y previa petición del Procurador General de Justicia, o del Agente del Ministerio Público adscrito, tratándose del Procurador, declarará con no menos de cinco Diputados, si ha lugar o no a procedimiento alguno durante el periodo de sus funciones; pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado deje de tener fuero. En caso afirmativo, el acusado queda, por el mismo hecho, separado de su cargo y sujeto desde luego a la acción de los Tribunales Comunes, a menos que se trate del Gobernador del Estado, pues en tal caso habrá lugar a acusarlo como si se tratara de un delito oficial.
+En los delitos del orden común que cometieren el Gobernador, los Diputados, los Magistrados del Supremo Tribunal y el Director General de Gobernación, la Legislatura, erigida en Gran Jurado, y previa petición del Procurador General de Justicia o del Agente del Ministerio Público adscrito, tratándose del Procurador, declarará con no menos de la mayoría de los Diputados, si ha lugar o no a procedimiento alguno durante el periodo de sus funciones; pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado deje de tener fuero. En caso afirmativo, el acusado queda, por el mismo hecho, separado de su cargo y sujeto desde luego a la acción de los Tribunales Comunes, a menos que se trate del Gobernador del Estado, pues en tal caso habrá lugar a acusarlo como si se tratare de un delito oficial.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 1935)</small>
 
@@ -1239,11 +1239,11 @@ En demanda del orden civil no habrá fuero, ni inmunidad para ningún funcionari
 
 Esta Constitución no perderá su fuerza y vigor aún cuando por trastornos se hubiere interrumpido su observancia. Si por cualquier caso se estableciere un Gobierno contrario a los principios que ella sanciona, una vez restablecido el orden constitucional volverá a ser acatada, exigiéndose la responsabilidad a todos los que la hubieren infringido.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1975)</small>
 
 ###### Art. 131.
 
-Esta Constitución puede ser adicionada y reformada. Las proposiciones que tengan este objeto, deberán estar suscritas por cinco Diputados o ser iniciadas por el Ejecutivo del Estado, necesitándose para su aprobación, el voto afirmativo de cinco Diputados, así como también de las dos terceras partes de los Ayuntamientos.
+Esta Constitución puede ser adicionada o reformada. Las proposiciones que tengan este objeto, deberán estar suscritas por la mayoría de los Diputados integrantes de la Legislatura o ser iniciadas por el Ejecutivo del Estado, necesitándose para su aprobación el voto afirmativo de las dos terceras partes de los Diputados miembros del Congreso, así como también de las dos terceras partes de los Ayuntamientos.
 
 ###### Art. 132.
 
@@ -1512,3 +1512,7 @@ La reforma introducida en el presente Decreto entrará en vigor en todo el Estad
 P.O. 18 DE ENERO DE 1975
 
 UNICO.- El presente Decreto entrará en vigor en todo el Estado al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE NOVIEMBRE DE 1975
+
+UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
