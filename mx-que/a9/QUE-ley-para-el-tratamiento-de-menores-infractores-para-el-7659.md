@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-tratamiento-de-menores-infractores-para-el-7659"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-16"
-last_updated: "1993-12-16"
+last_updated: "2004-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA EL TRATAMIENTO PARA MENORES INFRACTORES PARA EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 16 de diciembre de 1993.
 
@@ -461,7 +461,9 @@ VIII. Seguimiento Técnico ulterior
 
 Durante el procedimiento todo menor será tratado con humanidad y respeto, conforme a las necesidades inherentes a su edad y a sus condiciones personales y gozará de las siguientes garantías mínimas:
 
-I. Mientras no se compruebe plenamente su participación en la comisión de la infracción que se le atribuya, gozará de la presunción de ser ajeno a los hechos constitutivos de la misma;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2004)</small>
+
+I. Todo probable infractor se presumirá inocente, mientras no se acrediten conforme a la ley, su culpabilidad durante el proceso;
 
 II. Se dará aviso inmediato respecto de su situación a sus representantes legales o encargados, cuando se conozca el domicilio;
 
@@ -477,9 +479,21 @@ VII. Si lo solicita, será careado con la persona o personas que hayan declarado
 
 VIII. Le serán facilitados todos los datos que solicite y que tengan relación con los hechos que se le atribuyen derivados de las constancias del expediente;
 
-IX. La resolución inicial, por la que se determinará su situación jurídica respecto de los hechos con que se le relacione, deberá dictarse dentro de las setenta y dos horas siguientes al momento en que el menor haya sido puesto a disposición del Consejo, sin perjuicio de que éste plazo se amplíe por cuarenta y ocho horas más, únicamente si así lo solicitare el menor o los encargados de su defensa. En éste último caso, la ampliación del plazo se hará de inmediato del conocimiento del servidor público que tenga a su disposición al menor, para los efectos de su custodia, y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2004)</small>
 
-X. Salvo el caso previsto en la segunda parte de la fracción anterior, ningún menor podrá ser retenido por los órganos del Consejo, ni por la autoridad bajo cuya custodia se encuentre, por más de setenta y dos horas, sin que ello se justifique con una resolución inicial dictada por el Consejero competente, la cual deberá estar debidamente fundada y motivada.
+IX. La resolución inicial, en la que se determinará su situación jurídica respecto de los hechos con que se le relacione, deberá dictarse dentro de las setenta y dos horas siguientes, al momento en que el menor haya sido puesto a disposición del Consejo, sin perjuicio de que este plazo se amplíe por cuarenta y ocho horas más, únicamente si así lo solicitara el menor o los encargados de su defensa. En este último caso, la ampliación del plazo se hará de inmediato del conocimiento del servidor público que tenga a su disposición al menor, para los efectos de su custodia;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2004)</small>
+
+X. Salvo el caso previsto en la segunda parte de la fracción anterior, ningún menor podrá ser retenido, por más de setenta y dos horas, por los órganos del Consejo; ni por la autoridad bajo cuya custodia se encuentre, sin que ello sea con una resolución inicial dictada por el Consejero competente, la cual deberá estar debidamente fundada y motivada;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2004)</small>
+
+XI. Los Comisionados tienen la carga de la prueba en el proceso, para acreditar los hechos y la culpabilidad del menor sujeto a procedimiento. Toda duda, debe resolverse a favor del probable infractor, cuando no pueda ser eliminada; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2004)</small>
+
+XII. Las disposiciones de la Ley que afecten la libertad del probable infractor o limiten el ejercicio de sus derechos, se interpretarán restrictivamente.
 
 ###### ARTICULO 39.
 
@@ -1196,3 +1210,9 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO
 JESUS RODRIGUEZ HERNANDEZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE DICIEMBRE DE 2004.
+
+ÚNICO. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
