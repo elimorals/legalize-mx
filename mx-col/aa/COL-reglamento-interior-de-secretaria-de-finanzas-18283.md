@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-secretaria-de-finanzas-18283"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-16"
-last_updated: "2002-11-02"
+last_updated: "2003-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Colima, el sábado 16 de septiembre de 2000.
 
@@ -86,6 +86,10 @@ El Secretario también podrá contar con asesores técnicos que le elaboren aná
 ###### ARTICULO 4º.
 
 Los titulares de las Unidades Administrativas de la Secretaría, desempeñarán su cargo con base en los ordenamientos señalados en el Artículo 1º de este Reglamento de manera enunciativa, pero no limitativa.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2003)</small>
+
+Para los efectos del párrafo anterior, son autoridades fiscales, además del Secretario de Finanzas, los titulares de la Dirección de Ingresos, de la Dirección de Auditoría Fiscal y de las Receptorías de Rentas.
 
 ### CAPITULO II. DE LAS FACULTADES DEL SECRETARIO
 
@@ -243,9 +247,15 @@ XIX BIS.- Revocar las autorizaciones para pagar los créditos fiscales a plazos,
 
 XX.- Revisar y autorizar en su caso, la cancelación de créditos fiscales estatales o federales coordinados, así como los acuerdos de suspensión o baja de contribuyentes no localizados;
 
-XXI.- Hacer efectivos, a través del procedimiento administrativo de ejecución, los documentos suscritos a favor del erario estatal y otros cuyo cobro estén encomendados a la Secretaría, que para este efecto se equipararán a créditos fiscales, de acuerdo con las prevenciones respectivas de la materia, excepto cuando su exigibilidad se rija por disposiciones no fiscales;
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2003)</small>
+
+XXI.- Hacer efectivos, a través del procedimiento administrativo de ejecución, los documentos suscritos a favor del erario estatal y otros cuyo cobro esté encomendado a la Secretaría, que para este efecto se equipararán a créditos fiscales, de acuerdo con las prevenciones respectivas de la materia, excepto cuando su exigibilidad se rija por disposiciones no fiscales; así como las fianzas que se hubieren otorgado a favor de la Secretaría para garantizar el pago de créditos fiscales y otras obligaciones distintas de las fiscales;
 
 XXII.- Aceptar las garantías que se otorguen para cubrir créditos fiscales y, en su caso, ordenar la ampliación correspondiente;
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2003)</small>
+
+XXII BIS.- Recibir, tramitar y, en su caso, aceptar el pago en especio conforme a las disposiciones de la materia;
 
 XXIII.- Revisar y validar los expedientes de remate o adjudicación al fisco estatal de bienes embargados a los contribuyentes;
 
@@ -294,6 +304,10 @@ IV.- Un Departamento de Ingresos Federales Coordinados;
 > <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
 
 V.- Un Departamento Técnico;
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2003)</small>
+
+V BIS.- Un Departamento de Asistencia al Contribuyente;
 
 > <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
 
@@ -513,9 +527,7 @@ I.- Una Subdirección;
 
 II.- Un Departamento Jurídico;
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
-
-III.- Un Departamento de Asistencia al Contribuyente;
+III.- (DEROGADA, P.O. 6 DE SEPTIEMBRE DE 2003)
 
 > <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
 
@@ -677,11 +689,29 @@ III.- Mantener actualizados los padrones de contribuyentes de impuestos estatale
 
 IV.- Recaudar, concentrar, custodiar, vigilar y situar los fondos provenientes de la aplicación de la Ley de Ingresos del Estado, y los que, por otros conceptos, el erario estatal tenga derecho a percibir por cuenta propia o ajena, así como establecer la mecánica de recaudación, vigilando sus índices;
 
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2003)</small>
+
+IV BIS.- Vigilar que los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones, aprovechamientos y sus accesorios, cumplan con la obligación de presentar declaraciones, así como solicitar los datos, informes o documentos para aclarar la información asentada en las declaraciones de pago provisional, del ejercicio y complementarias;
+
 V.- Emitir y notificar los requerimientos para exigir la presentación de declaraciones de los contribuyentes obligados a ello en términos de las leyes fiscales del estado y de las leyes federales o municipales cuando se trate de ingresos coordinados, que no lo hubieran hecho dentro de los plazos señalados en las disposiciones fiscales y, en su caso, el pago de las contribuciones omitidas, su actualización y los accesorios legales;
 
 VI.- Hacer efectiva a los contribuyentes o responsables solidarios que hayan incurrido en la omisión de presentación de declaraciones para el pago de contribuciones, la cantidad que en carácter de liquidación o pago provisional establezca el Código Fiscal del Estado o las leyes federales o municipales aplicables cuando se trate de ingresos coordinados;
 
-VII.- Ordenar y llevar a cabo el procedimiento administrativo de ejecución, a fin de hacer efectivos los créditos fiscales y sus accesorios, derivados de la aplicación de las leyes fiscales del Estado y de los convenios de coordinación y de colaboración administrativa, celebrados entre el Gobierno del Estado de Colima y los gobiernos federal y municipales;
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2003)</small>
+
+VI BIS.- Determinar en cantidad líquida los créditos fiscales estatales, así como los federales y municipales derivados de los convenios de coordinación o colaboración celebrados, su actualización y accesorios legales a cargo de los contribuyentes, responsables solidarios y demás obligados en los términos de las leyes fiscales aplicables, en los casos siguientes:
+
+a).- Por las diferencias que resulten de errores aritméticos que se detecten en las declaraciones presentadas para el pago de contribuciones;
+
+b).- Cuando se revoque la autorización de pago a plazos, ya sea en forma diferida o en parcialidades;
+
+c).- Cuando se haga uso del pago en parcialidades sin tener derecho a ello, o sin haber cumplido con los requisitos para su autorización u opción, en su caso, conforme a las disposiciones fiscales aplicables, por el saldo insoluto de las diferencias que resulten por la presentación de declaraciones;
+
+d).- Por los cheques recibidos para el pago de contribuciones que sean presentados en tiempo y no sean pagados por las instituciones bancarias.
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2003)</small>
+
+VII.- Ordenar y llevar a cabo el procedimiento administrativo de ejecución, a fin de hacer efectivos los créditos fiscales y sus accesorios, derivados de la aplicación de las leyes fiscales del Estado y de los convenios de coordinación y de colaboración administrativa, celebrados entre el Gobierno del Estado de Colima y los gobiernos federal y municipales; así como las garantías constituidas para asegurar el interés fiscal, inclusive las fianzas otorgadas a favor de la Secretaría, para garantizar los créditos fiscales y otras obligaciones distintas a las fiscales; enajenar fuera de remate bienes embargados, así como expedir el documento que ampare la enajenación de los bienes rematados y, proceder a la ampliación del embargo en otros bienes del contribuyente cuando la autoridad estime que los bienes embargados son insuficientes para cubrir los créditos fiscales o cuando la garantía del interés fiscal resulte insuficiente;
 
 > <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2002)</small>
 
@@ -830,3 +860,7 @@ N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRET
 P.O. 2 DE NOVIEMBRE DE 2002.
 
 ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 6 DE SEPTIEMBRE DE 2003.
+
+UNICO.- El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "El Estado de Colima".
