@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-municipal-del-estado-de-morelos-6633"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "1984-01-04"
+last_updated: "1986-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 1986.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -127,11 +127,11 @@ IV.- Las personas a quien se imponga la obligación de retener o recaudar crédi
 
 V.- Quienes deban recabar documentos en los que conste el pago si no cumplen con esta obligación;
 
-VI.- Los propietarios de negociaciones comerciales, industriales, agrícolas, ganaderas, pesqueras y mineras, créditos o concesiones respecto de las prestaciones fiscales que en cualquier tiempo se hubieran causado en relación con dichas negociaciones, créditos o concesiones, sin que la responsabilidad exceda del valor de los bienes, salvo que se demuestre, proceder fraudulentamente con el fisco municipal, en cuyo caso su responsabilidad solidaria se establecerá hasta por el total del crédito fiscal más sus accesorios;
+VI.- Los propietarios de negociaciones comerciales, industriales, agrícolas, ganaderas, pesqueras y mineras, créditos o concesiones respecto de las prestaciones fiscales que en cualquier tiempo se hubieran causado en relación con dichas negociaciones, créditos o concesiones, sin que la responsabilidad exceda del valor de los bienes, salvo que se demuestre, proceder fraudulentamente con el fisco municipal, en cuyo caso su responsabilidad solidaria se establecerá hasta por el total del crédito fiscal más sus accesorios.
 
 VII.- Los legatarios y los donatarios a título particular respecto de los créditos fiscales que se hubieren causado en relación con los bienes legados o donados, hasta por el monto de éstos;
 
-VIII.- Los terceros que para garantizar obligaciones fiscales ajenas, constituyan depósito, prenda o hipoteca o permitan el secuestro de bienes, hasta por el valor de los dados en garantía cuando así fuere pactado;
+VIII.- Los terceros que para garantizar obligaciones fiscales ajenas, constituyan depósito, prenda o hipoteca o permitan el secuestro de bienes, hasta por el valor de los dados en garantía cuando así fuere pactado.
 
 IX.- Los funcionarios públicos, Notarios y Corredores Públicos que autoricen algún acto jurídico o den trámite a algún documento si no se cercioran de que se han cubierto los impuestos o derechos respectivos, o no den cumplimiento a las disposiciones correspondientes que regulan el pago de gravamen;
 
@@ -471,7 +471,7 @@ b).- El nombre de la persona o personas que practicarán las diligencias, las cu
 
 c).- Las contribuciones de cuya verificación se trate y, en su caso los ejercicios, a los que deberá limitarse la visita. La visita podrá ser de carácter general para verificar el cumplimiento de las disposiciones tributarias durante cierto tiempo o bien, concretarse únicamente a determinados aspectos.
 
-II.- Al iniciarse la visita se entregará la orden al visitado o a su representante y si no estuvieren presentes, a quien se encuentre en el lugar en que debe practicarse la diligencia se le dejará citatorio para que el mencionado visitado o su representante legal los espere a hora determinada del día siguiente para recibir la orden de visita; si no lo hicieren, la visita se iniciará con quien se encuentre en el lugar visitado, los visitadores acreditarán su personalidad.
+II.- Al iniciarse la visita se entregará la orden al visitado o a su representante y si no estuvieren presentes, a quien se encuentre en el lugar en que debe practicarse la diligencia se le dejará citatorio para que el mencionado visitado o su representante legal los espere a la hora determinada del día siguiente para recibir la orden de visita; si no lo hicieren, la visita se iniciará con quien se encuentre en el lugar visitado, los visitadores acreditarán su personalidad.
 
 Cuando exista peligro de que el visitado o su representante legal se ausenten o puedan realizar maniobras para impedir el inicio o desarrollo de la diligencia, los visitadores podrán proceder al aseguramiento de la contabilidad.
 
@@ -497,7 +497,7 @@ VII.- El visitado o quien lo represente, deberá expresar por escrito dentro de 
 
 ###### ARTICULO 63.
 
-Los hechos afirmados en los dictámenes que formulen Contadores Públicos sobre los estados financieros y su relación con las declaraciones tributarias se presumirán ciertos, salvo prueba en contrario; si se reúnen los siguientes requisitos:
+Los hechos afirmados en los dictámenes que formulen Contadores Públicos sobre los estados financieros y su relación con las declaraciones tributarias se presumirán ciertos, salvo prueba en contrario; si se reunen los siguientes requisitos:
 
 I.- Que el Contador Público que dictamine esté registrado en la Tesorería Municipal.
 
@@ -1369,15 +1369,25 @@ Serán consideradas como vía pública, las vías de acceso a los predios, los p
 
 Son contribuyentes de este derecho las personas físicas o morales propietarias o poseedoras de predios urbanos ubicados en el área territorial del Municipio, sin importar que el alumbrado público, se encuentre o no ubicado precisamente frente a su predio, ya que el rendimiento de esta cuota será aplicada al mantenimiento del servicio que se presta en todo el Municipio.
 
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1986)</small>
+
 ###### ARTICULO 145.
 
-El servicio de mantenimiento de alumbrado público se causará en razón al tipo de lámparas que existan en cada caso por metro lineal de frente a la vía pública, de acuerdo a la siguiente cuota bimestral:
+La cuota de derecho por el alumbrado público será igual al 10% sobre el consumo de energía eléctrica en las tarifas 1, 1A, 2 y 3 y; al 7% sobre el consumo de energía eléctrica en las tarifas 8 y 12:
 
-Lámpara de luz incandescente: $6.00.
+I.- Son sujetos del pago del derecho que se establece, los consumidores de energía eléctrica en las tarifas 1, 1A, 2, 3, 8 y 12 aprobadas por la Comisión de Tarifas de Electricidad y Gas dependientes de la Secretaría de Comercio y Fomento Industrial, por acuerdo publicado en el Diario Oficial de la Federación el día 15 de noviembre de 1976 y ajustadas por acuerdo publicado el día 30 de julio de 1978; en el mismo Diario Oficial de la Federación.
 
-Lámpara de vapor de sodio: 8.00.
+II.- El derecho para alumbrado público será recaudado a través de las Empresas Suministradoras de Energía Eléctrica mediante el cargo correspondiente que se deberá hacer en las facturaciones que las mismas formulen a sus consumidores sujetos a este derecho.
 
-Lámpara de vapor de mercurio: 10.00.
+III.- Las Empresas Suministradoras de Energía Eléctrica deberán aplicar el monto de sus derechos que recauden en la forma siguiente:
+
+a).- Para cubrir el importe de la energía para alumbrado público suministrado a los Municipios, así como los gastos relativos a la ampliación, mantenimiento y reposición de dichos servicios.
+
+b).- Para amortizar, en su caso, los adeudos que los Municipios tengan por el mismo concepto con las citadas Empresas Suministradoras de Energía Eléctrica.
+
+IV.- El mantenimiento, ampliación y reposición de unidades mercuriales, fluorecentes y vapor de sodio, será única y exclusivamente por cuenta de los Ayuntamientos de los Municipios en donde exista ese sistema.
+
+V.- Las Empresas Suministradoras de Energía Eléctrica deberán rendir a la Secretaría de Hacienda del Estado, los informes que ésta le solicite sobre la recaudación y aplicación del derecho establecido en este Decreto.
 
 ###### ARTICULO 146.
 
@@ -3578,3 +3588,9 @@ EL SECRETARIO GENERAL DE GOBIERNO
 Lic. David Jiménez González
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE AGOSTO DE 1986.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
