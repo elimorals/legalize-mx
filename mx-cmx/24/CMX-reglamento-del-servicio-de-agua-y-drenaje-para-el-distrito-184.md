@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-servicio-de-agua-y-drenaje-para-el-distrito-184"
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-01-29"
-last_updated: "1993-08-02"
+last_updated: "1997-10-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=184&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1990-01-05"
 
 REGLAMENTO DEL SERVICIO DE AGUA Y DRENAJE PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE AGOSTO DE 1993. REPUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 6 DE AGOSTO DE 1993.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE OCTUBRE DE 1997. REPUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 21 DE OCTUBRE DE 1997.
 
 Reglamento publicado en el Diario Oficial de la Federación el jueves 25 de enero de 1990.
 
@@ -36,9 +36,11 @@ REGLAMENTO DEL SERVICIO DE AGUA Y DRENAJE PARA EL DISTRITO FEDERAL
 
 Las disposiciones del presente Reglamento son de orden público e interés general y social, y tienen por objeto regular los servicios de agua potable, tratamiento de aguas, drenaje y alcantarillado del Distrito Federal.
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 2o.
 
-La prestación de los servicios de agua potable, tratamiento de aguas y drenaje en el Distrito Federal, constituye un servicio público que estará a cargo del Departamento del Distrito Federal de conformidad con su Ley Orgánica, su Reglamento Interior, las normas contenidas en el presente ordenamiento y las demás disposiciones jurídicas aplicables con la salvedad que señala el artículo 80 de este Reglamento.
+La prestación de los servicios de agua potable, tratamiento de aguas y drenaje en el Distrito Federal, constituye un servicio público que estará a cargo de la Secretaría de Obras y Servicios de conformidad con su Ley Orgánica, su Reglamento Interior, las normas contenidas en el presente ordenamiento y las demás disposiciones jurídicas aplicables con la salvedad que señala el artículo 80 de este Reglamento.
 
 ###### ARTICULO 3o.
 
@@ -96,7 +98,9 @@ XXV.- Conductos, las tuberías y canales que permiten el flujo de agua;
 
 XXVI.- Cuadro, conjunto de tuberías y piezas que se ubican a la entrada de los predios para el suministro de agua;
 
-XXVII.- Departamento, el Departamento del Distrito Federal;
+(REFORMADA, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
+XXVII.- Dictamen de factibilidad, es la opinión técnica vinculante y obligatoria que emite la dependencia encargada de la operación hidráulica en el Distrito Federal, relativa a la dotación de los servicios hidráulicos de agua potable, agua residual tratada y drenaje, previamente a la obtención de la Licencia de Construcción;
 
 XXVIII.- Derecho de vía, área destinada a los conductos hidráulicos naturales o artificiales para protección;
 
@@ -198,9 +202,11 @@ LXXVI.- Uso doméstico, cuando el agua se destine a beber, preparar alimentos en
 
 LXXVII.- Usuaria, a la persona física o moral que utilice los servicios públicos de agua potable o residual tratada, así como el que aproveche el drenaje;
 
+(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 4o.
 
-Corresponde al Departamento:
+Corresponde a la Secretaría de Obras y Servicios:
 
 I.- Construir, autorizar la construcción y supervisar las obras requeridas por nuestra ciudad para el adecuado y suficiente suministro de agua potable hacia la población, para el tratamiento y distribución del agua residual, la construcción de obras de drenaje y alcantarillado y de los sistemas de captación de agua pluvial, así como también para mejorar las tecnologías vinculadas con el tratamiento de agua a fin de garantizar la más alta calidad.
 
@@ -208,7 +214,9 @@ II.- Operar, conservar, mantener, controlar y vigilar el funcionamiento de los s
 
 III.- Proyectar, ejecutar y supervisar las obras necesarias para controlar las inundaciones, así como los hundimientos y movimientos de suelos cuando éstos sean de origen hidráulico.
 
-IV.- Fijar las especificaciones a que deberán sujetarse las obras y servicios hidráulicos a cargo del Departamento y de los usuarios;
+(REFORMADA, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
+IV.- Fijar las especificaciones a que deberán sujetarse las obras y servicios hidráulicos a cargo de la Secretaría de Obras y Servicios y de los usuarios;
 
 V.- Aplicar las Normas Técnicas Ecológicas que expidan las autoridades correspondientes para regular la calidad del agua potable;
 
@@ -230,7 +238,9 @@ XIII.- Determinar e imponer las sanciones a que se hagan acreedores los usuarios
 
 XIV.- Las demás que en la materia le otorguen otras disposiciones jurídicas aplicables;
 
-Estas atribuciones y funciones se ejercerán por el Departamento, por conducto de las Unidades Administrativas que señale su Ley Orgánica y Reglamento Interior.
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
+Estas atribuciones y funciones se ejercerán por la Secretaría de Obras y Servicios, por conducto de las Unidades Administrativas que señale su Ley Orgánica y Reglamento Interior.
 
 ## TITULO SEGUNDO. Del servicio público de agua potable
 
@@ -240,9 +250,11 @@ Estas atribuciones y funciones se ejercerán por el Departamento, por conducto d
 
 Todas las obras y acciones inherentes a la captación, conducción y distribución del agua en el Distrito Federal, se realizarán con sujeción a las disposiciones legales y reglamentarias aplicables.
 
+(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 6o.
 
-El agua de que disponga el Departamento deberá aprovecharse conforme al siguiente orden de prelación:
+El agua de que disponga la Secretaría de Obras y Servicios deberá aprovecharse conforme al siguiente orden de prelación:
 
 I.- Usos domésticos y unidades hospitalarias;
 
@@ -260,13 +272,17 @@ VII.- Usos recreativos, y
 
 VIII.- Otros;
 
+(REFORMADO G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 7o.
 
-Cuando exista escasez de agua o se presente cualquier otra situación contingente que exija restricciones en su suministro, el Departamento limitará el servicio a la satisfacción de necesidades mínimas. En estos casos, las restricciones se harán siguiendo un orden inverso al señalado en el artículo anterior, previa información a la población afectada.
+Cuando exista escasez de agua o se presente cualquier otra situación contingente que exija restricciones en su suministro, la Secretaría de Obras y Servicios limitará el servicio a la satisfacción de necesidades mínimas. En estos casos, las restricciones se harán siguiendo un orden inverso al señalado en el artículo anterior, previa información a la población afectada.
+
+(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 8o.
 
-En caso de uso doméstico, cuando no exista o se suspenda el servicio público de agua potable, el Departamento considerará las formas posibles de abastecimiento por medio de carros-tanque, tanques provisionales e hidrantes públicos. Este servicio será gratuito.
+En caso de uso doméstico, cuando no exista o se suspenda el servicio público de agua potable, la Secretaría considerará las formas posibles de abastecimiento por medio de carros-tanque, tanques provisionales e hidrantes públicos. Este servicio será gratuito.
 
 Al establecerse el servicio público de agua potable en lugares que carezcan de él, se notificará a los interesados por medio de avisos que se colocarán en las calles respectivas;
 
@@ -276,17 +292,19 @@ Se considera para los efectos de este Reglamento como disposición indebida de a
 
 El incumplimiento de la orden de entrega o la distracción del contenido del carro tanque, se sancionará conforme a las leyes aplicables.
 
-(REFORMADO, G.O. 3 DE JUNIO DE 1991) (REPUBLICADO, D.O.F. 5 DE JUNIO DE 1991)
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 10.
 
-El agua potable que distribuya el Departamento a través de la red o por medio de carros tanque para consumo doméstico, no podrá ser enajenada, comercializada ni distribuida a nombre o por cuenta de institución alguna que no sea el propio Departamento, o dependencia del mismo.
+El agua potable que distribuya la Secretaría de Obras y Servicios a través de la red o por medio de carros tanque para consumo doméstico, no podrá ser enajenada, comercializada ni distribuida a nombre o por cuenta de institución alguna que no sea la propia Secretaría de Obras y Servicios, o dependencia de la misma.
 
-Para la comercialización de agua potable por particulares, derivada de tomas de uso comercial o industrial, se requerirá autorización del Departamento por conducto de la Tesorería y la unidad que tiene a su cargo la operación hidráulica.
+Para la comercialización de agua potable por particulares, derivada de tomas de uso comercial o industrial, se requerirá autorización de la Secretaría de Obras y Servicios por conducto de la Tesorería y la unidad que tiene a su cargo la operación hidráulica.
+
+(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 11.
 
-La instalación de las tomas de agua potable se deberá solicitar al Departamento por:
+La instalación de las tomas de agua potable se deberá solicitar solicitar a la Secretaría de Obras y Servicios por:
 
 I.- Los propietarios o poseedores de predios edificados;
 
@@ -318,59 +336,131 @@ II.- En el supuesto del artículo anterior, dentro de los tres meses siguientes 
 
 III.- Al momento de solicitar la licencia de construcción para edificaciones que se pretendan realizar sobre predios que no tengan instalado el servicio público de agua potable.
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 14.
 
-Unicamente el personal del Departamento podrá operar tapas de registro, válvulas, hidrantes contra incendio, toma tipo cuello de garza, llaves de banqueta, bocas de riego de áreas verdes y camellones, y todo tipo de maquinaria o estructura del sistema del servicio público de agua potable.
+Unicamente el personal de la Secretaría de Obras y Servicios podrá operar tapas de registro, válvulas, hidrantes contra incendio, toma tipo cuello de garza, llaves de banqueta, bocas de riego de áreas verdes y camellones, y todo tipo de maquinaria o estructura del sistema del servicio público de agua potable.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 15.
 
-Cuando resulte necesario aumentar el caudal del suministro de agua, el usuario cubrirá los gastos en los términos de la Ley de Hacienda del Departamento del Distrito Federal.
+Cuando resulte necesario aumentar el caudal del suministro de agua, el usuario cubrirá los gastos en los términos del Código Financiero del Distrito Federal.
 
-Las personas que incrementen su consumo de agua con motivo del cambio de uso o destino del inmueble, así como los nuevos desarrollos urbanos, nuevas edificaciones, nuevas conexiones de agua y drenaje ó ampliaciones, pagarán contribuciones de mejoras en los términos de la Ley de Hacienda del Departamento del Distrito Federal.
+Las personas que incrementen su consumo de agua con motivo del cambio de uso o destino del inmueble, así como los nuevos desarrollos urbanos, nuevas edificaciones, nuevas conexiones de agua y drenaje ó ampliaciones, pagarán contribuciones de mejoras en los términos del Código Financiero del Distrito Federal.
 
-### CAPITULO II. De la solicitud para la instalación de las tomas de agua potable
+(REFORMADA SU DENOMINACION, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
+### CAPITULO II. De las solicitudes para la instalación, ampliación, cambio de lugar, cambio de ramal, reducción, reconstrucción y supresión de tomas de agua potable
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 16.
 
-La solicitud para la instalación de las tomas de agua potable, deberán presentarlas al Departamento los interesados, con los siguientes datos:
+Las solicitudes de instalación, ampliación, cambio de ramal, reducción, reconstrucción y supresión de tomas de agua potable, deberán presentarlas los usuarios ante la Secretaría de Obras y Servicios en los formatos que para tal efecto expida, con los datos y documentos siguientes:
 
-I.- Nombre y domicilio del interesado;
+I.- Nombre, número de Registro Federal de Contribuyentes, domicilio para recibir notificaciones y número telefónico del propietario del predio;
 
-II.- Ubicación del predio para el que solicita la instalación;
+II.- En su caso, nombre, número telefónico, y documento que acredite la personalidad del representante legal;
 
-III.- Croquis de localización del predio, que contenga calles colindantes y distancia a la esquina más próxima del lugar en donde haya de instalarse la toma;
+III.- Tipo de servicio solicitado;
 
-IV.- Uso del predio o, en su caso, denominación o razón social del giro mercantil o de la industria de que se trate cuando no sea para consumo doméstico;
+IV.- Número de cuenta de la boleta predial;
 
-V.- Caudal diario necesario y diámetro de la toma que se solicite, para los casos de uso industrial;
+V.- Domicilio del predio para el que se solicita el servicio;
 
-VI.- Constancia de propiedad o posesión legal del inmueble, y;
+VI.- Croquis de localización, señalando la distancia a la esquina más cercana de donde se requiere el servicio;
 
-VII.- Firma del interesado.
+VII.- Firma del propietario o representante legal, y
+
+VIII.- Copia simple de los documentos siguientes:
+
+a).- Identificación oficial vigente;
+
+b).- Memoria de cálculo en la que se determine el caudal diario necesario y el diámetro de la toma que se solicita;
+
+c).- Licencia de construcción y el dictamen de factibilidad correspondiente;
+
+d).- Recibo de pago de contribución de mejoras;
+
+e).- Título de propiedad o documento que acredita la legal posesión del inmueble, y
+
+f).- En su caso, boleta de toma correspondiente al bimestre inmediato anterior pagada.
+
+Recibidos los documentos a que se refiere el párrafo anterior, la Secretaría de Obras y Servicios realizará, dentro de los 12 días hábiles siguientes, una visita de verificación en el predio de que se trate, a fin de comprobar la veracidad de los datos proporcionados, así como de recabar la información que considere necesaria. De no realizarse la visita de verificación en el plazo señalado, los datos proporcionados por los usuarios serán considerados como válidos.
+
+Si la solicitud resulta procedente la Secretaría de Obras y Servicios formulará el presupuesto a que se refiere el Código Financiero del Distrito Federal y lo notificará al interesado dentro de los 15 días hábiles siguientes contados a partir de la recepción de los documentos. El interesado, dentro de los 5 días hábiles siguientes, deberá cubrir su importe.
+
+Una vez acreditado el pago de los derechos ante la Secretaría de Obras y Servicios, ésta realizará, dentro de los 10 días hábiles siguientes, las obras respectivas.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 17.
 
-Recibida la solicitud, el Departamento inspeccionará el predio, giro mercantil o industria de que se trate, dentro de los quince días hábiles siguientes con el objeto de comprobar la veracidad de los datos proporcionados por el usuario, así como recabar la información que se considere necesaria. De no realizar la inspección en este término, deberán ser considerados válidos los datos proporcionados por el usuario.
+El diámetro de la toma que se solicite y los diámetros de las tuberías de alimentación deberán estar acordes con las demandas mínimas que las edificaciones de que se trate requieran en los términos del Reglamento de Construcciones para el Distrito Federal.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 18.
 
-Si del resultado de la inspección y/o de los datos proporcionados por el usuario, se observa que es procedente la instalación de la toma respectiva, el Departamento formulará el presupuesto a que se refiere la Ley de Hacienda del Departamento del Distrito Federal, así como el gasto de las obras mencionadas en el artículo 15 y lo notificará al interesado para que dentro de los cinco días hábiles siguientes cubra su importe.
+Las solicitudes para la instalación de aparatos medidores de tomas de agua potable deberán presentarse ante la Secretaría de Obras y Servicios en los formatos que para tal efecto se expidan, y acompañarse con los datos y documentos siguientes:
 
-Una vez acreditado el pago correspondiente, el Departamento procederá dentro de los 10 días posteriores, a la instalación de la toma solicitada e iniciará las obras necesarias para poder suministrar el servicio.
+I.- Nombre, domicilio y teléfono del solicitante;
+
+II.- Nombre, domicilio y teléfono del propietario del predio;
+
+III.- Domicilio para oír y recibir notificaciones;
+
+IV.- Tipo de servicio solicitado, y
+
+V.- Copia simple de los documentos siguientes:
+
+a).- Identificación oficial vigente, y
+
+b).- Boleta de consumo de agua potable del bimestre inmediato anterior pagada.
+
+Recibidos los documentos a que se refiere el párrafo anterior, la Secretaría de Obras y Servicios realizará, dentro de los 3 días hábiles siguientes, una visita de verificación en el predio de que se trate, a fin de comprobar la veracidad de los datos proporcionados y recabar la información que se considere necesaria. De no realizarse la visita de verificación en el plazo señalado, los datos proporcionados por los usuarios serán considerados como válidos.
+
+Si la solicitud resulta procedente, la Secretaría de Obras y Servicios elaborará el presupuesto de las obras de conformidad con lo dispuesto por el Código Financiero del Distrito Federal, y lo notificará al usuario, dentro de los 8 días hábiles siguientes contados a partir de la recepción de los documentos, para que el interesado dentro de los 5 días hábiles siguientes, realice el pago respectivo.
+
+Una vez acreditado el pago de los derechos ante la Secretaría de Obras y Servicios, ésta realizará, dentro de los 3 días hábiles siguientes, las obras respectivas.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 19.
 
-El diámetro de la toma que se solicita y los diámetros de las tuberías de alimentación, deberán estar acordes con las demandas mínimas que las edificaciones de que se trate requieran en los términos del Reglamento de Construcciones para el Distrito Federal.
+Las solicitudes para cambio de lugar, revisión de funcionamiento y retiro por cancelación del servicio del aparato medidor, las podrá realizar personalmente el usuario en los formatos que para tal efecto se expidan por vía telefónica, proporcionando los datos que se mencionan a continuación:
+
+I.- Nombre del usuario;
+
+II.- Número telefónico;
+
+III.- Ubicación del inmueble;
+
+IV.- Número de cuenta de agua potable;
+
+V.- Número de serie del medidor, y
+
+VI.- Diámetro de la alimentación del medidor.
+
+Recibidos los datos a que se refiere el párrafo anterior la Secretaría de Obras y Servicios realizará, dentro de los 3 días hábiles siguientes los trabajos de revisión y retiro del aparato medidor. Para el cambio de lugar de este último la Secretaría realizará en dicho plazo la visita de verificación en el predio de que se trate, a fin de determinar si se requiere modificar la instalación hidráulica.
+
+Si se requiere realizar modificaciones, la Secretaría de Obras y Servicios lo notificará al usuario dentro de los 8 días hábiles siguientes contados a partir de la recepción de los datos. Las obras de modificación de la instalación hidráulica que se requieran correrán a cargo del solicitante.
+
+Una vez efectuadas la obras, el solicitante dará aviso de ello a la Secretaría de Obras y Servicios, a fin de que ésta realice, dentro de los 3 días hábiles siguientes, el cambio del medidor al nuevo lugar que el usuario haya determinado.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 20.
 
-Con el propósito de facilitar la lectura de consumo de agua potable, el Departamento instalará la toma correspondiente de los predios, giros mercantiles o industrias, de tal forma que el aparato medidor quede ubicado a la entrada del inmueble en forma visible.
+La Secretaría de Obras y Servicios instalará la toma correspondiente, de tal forma que el aparato medidor y su dispositivo electrónico de lectura queden ubicados en el lugar de fácil acceso con el fin de que se puedan realizar los trabajos de cambio, revisión, retiro o mantenimiento, así como de facilitar la lectura del consumo de agua potable.
 
-En los edificios de departamentos, viviendas o locales, por cada departamento, vivienda o local, deberá solicitarse la instalación de un aparato medidor.
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 21.
 
-Los derechos por servicio de agua potable se causarán a partir de la fecha en que se haya instalado la toma respectiva, en los términos que fije la Ley de Hacienda del Departamento del Distrito Federal.
+Los derechos por servicio de agua potable se causarán a partir de la fecha en que se haya instalado la toma respectiva, en los términos que fije el Código Financiero del Distrito Federal.
 
 ###### ARTICULO 22.
 
@@ -378,9 +468,11 @@ Para solicitar la baja y retiro de una toma, se deberá presentar una solicitud 
 
 El procedimiento será similar al seguido en casos de instalación de la toma.
 
+(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 23.
 
-El Departamento, por conducto de la Tesorería, llevará un registro actualizado y fehaciente de las tomas de agua, que contendrá los siguientes datos:
+La Secretaría de Obras y Servicios, por conducto de la Tesorería, llevará un registro actualizado y fehaciente de las tomas de agua, que contendrá los siguientes datos:
 
 I.- Ubicación del predio, uso o giro en que se halle instalada la toma;
 
@@ -428,9 +520,11 @@ El desperdicio provocado por fugas intradomiciliarias no reparadas oportunamente
 
 Se prohibe el uso de manguera para el lavado de vehículos automotores y vía pública. En los establecimientos, giros mercantiles e industrias, se estará a lo establecido en el artículo 77 de este Reglamento.
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 31.
 
-Se prohibe el uso de agua potable en los procesos de compactación, riego de parques y jardines públicos, así como campos deportivos. En estos casos, se deberá solicitar el suministro de agua residual tratada al Departamento.
+Se prohibe el uso de agua potable en los procesos de compactación, riego de parques y jardines públicos, así como campos deportivos. En estos casos, se deberá solicitar el suministro de agua residual tratada a la Secretaría de Obras y Servicios.
 
 ###### ARTICULO 32.
 
@@ -452,19 +546,25 @@ En ningún caso se podrán instalar bombas que succionen agua en forma directa d
 
 ### CAPITULO IV. De las derivaciones
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 36.
 
-Para cada predio, giro mercantil o industrial se instalará una sola toma, salvo los casos en que, a juicio del Departamento, sea conveniente autorizar la derivación de alguna otra toma. Para el caso de que un giro o establecimiento utilice totalmente un predio, no necesitará toma distinta de la asignada a éste.
+Para cada predio, giro mercantil o industrial se instalará una sola toma, salvo los casos en que, a juicio de la Secretaría de Obras y Servicios, sea conveniente autorizar la derivación de alguna otra toma. Para el caso de que un giro o establecimiento utilice totalmente un predio, no necesitará toma distinta de la asignada a éste.
 
-Los giros mercantiles que no utilicen agua en su actividad y cuya superficie no supere los cuarenta metros cuadrados, no estarán obligados a tener una toma individual, siempre y cuando el predio en que se encuentren tenga su propia toma. Tampoco existirá la obligación tratándose de oficinas sin importar su superficie. En todos los casos se deberá tener acceso a la toma del predio, sin menoscabo a lo dispuesto en la Ley de Hacienda del Departamento del Distrito Federal en materia de medidores.
+Los giros mercantiles que no utilicen agua en su actividad y cuya superficie no supere los cuarenta metros cuadrados, no estarán obligados a tener una toma individual, siempre y cuando el predio en que se encuentren tenga su propia toma. Tampoco existirá la obligación tratándose de oficinas sin importar su superficie. En todos los casos se deberá tener acceso a la toma del predio, sin menoscabo a lo dispuesto en el Código Financiero del Distrito Federal en materia de medidores.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 37.
 
-El Departamento autorizará derivaciones de toma de agua instalada en predios que cuenten con este servicio, hacia predios circunvecinos que carezcan del mismo, siempre que no se requiera mayor diámetro de la toma. Al autorizarse la derivación, se deberán instalar aparatos medidores adicionales, a fin de identificar los consumos.
+La Secretaría de Obras y Servicios autorizará derivaciones de toma de agua instalada en predios que cuenten con este servicio, hacia predios circunvecinos que carezcan del mismo, siempre que no se requiera mayor diámetro de la toma. Al autorizarse la derivación, se deberán instalar aparatos medidores adicionales, a fin de identificar los consumos.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 38.
 
-Si al tomar posesión de predios, giros mercantiles o industrias, los usuarios detectan derivaciones que partan del predio o beneficien al mismo, estarán obligados a dar aviso al Departamento de la existencia de la derivación dentro de los siguientes 30 días hábiles.
+Si al tomar posesión de predios, giros mercantiles o industrias, los usuarios detectan derivaciones que partan del predio o beneficien al mismo, estarán obligados a dar aviso a la Secretaría de Obras y Servicios de la existencia de la derivación dentro de los siguientes 30 días hábiles.
 
 ###### ARTICULO 39.
 
@@ -492,19 +592,27 @@ VI.- Firma del solicitante y del usuario de la toma de donde pretenda hacerse la
 
 VII.- Otros datos que se consideren necesarios conforme a la naturaleza del predio, giro mercantil o industria, y a las características de la derivación.
 
-El Departamento por conducto de la Tesorería llevará un registro actualizado y fehaciente de las derivaciones que autorice, a efecto de que se proceda al cobro de los derechos que generen, asimismo calculará el volumen de agua que provenga de las derivaciones.
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
+La Secretaría de Obras y Servicios por conducto de la Tesorería llevará un registro actualizado y fehaciente de las derivaciones que autorice, a efecto de que se proceda al cobro de los derechos que generen, asimismo calculará el volumen de agua que provenga de las derivaciones.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 42.
 
-Recibida la solicitud, el Departamento inspeccionará el predio, casa-habitación, giro mercantil o industria de que se trate, dentro de los cinco días hábiles siguientes a partir de la fecha en que se reciba y de no existir inconvenientes se autorizará la derivación, fijando las condiciones y plazo en que debe hacerse, previo al pago correspondiente en la Tesorería de las obras a realizarse. Una vez autorizada la derivación y realizadas las obras, el interesado deberá registrarla ante el Departamento, en un plazo que no excederá de treinta días hábiles siguientes a la fecha de su terminación, acompañando los planos de las instalaciones hidráulicas, cálculo de consumo y aprovechamiento de agua.
+Recibida la solicitud, la Secretaría de Obras y Servicios inspeccionará el predio, casa-habitación, giro mercantil o industria de que se trate, dentro de los cinco días hábiles siguientes a partir de la fecha en que se reciba y de no existir inconvenientes se autorizará la derivación, fijando las condiciones y plazo en que debe hacerse, previo al pago correspondiente en la Tesorería de las obras a realizarse. Una vez autorizada la derivación y realizadas las obras, el interesado deberá registrarla ante la Secretaría de Obras y Servicios, en un plazo que no excederá de treinta días hábiles siguientes a la fecha de su terminación, acompañando los planos de las instalaciones hidráulicas, cálculo de consumo y aprovechamiento de agua.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 43.
 
-El Departamento verificará que las instalaciones para derivar el agua se realicen con apego a las condiciones y plazo establecidas en la autorización correspondiente. Si las instalaciones no se sujetan a las especificaciones de la autorización, el usuario contará con el plazo que fije la autoridad correspondiente para que realice las correcciones necesarias y en caso de no hacerlo, se le cancelará la autorización, sin perjuicio de la aplicación de las sanciones que correspondan.
+La Secretaría de Obras y Servicios verificará que las instalaciones para derivar el agua se realicen con apego a las condiciones y plazo establecidas en la autorización correspondiente. Si las instalaciones no se sujetan a las especificaciones de la autorización, el usuario contará con el plazo que fije la autoridad correspondiente para que realice las correcciones necesarias y en caso de no hacerlo, se le cancelará la autorización, sin perjuicio de la aplicación de las sanciones que correspondan.
+
+(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 44.
 
-El Departamento cancelará la autorización otorgada para hacer uso de la derivación en los siguientes casos:
+La Secretaría de Obras y Servicios cancelará la autorización otorgada para hacer uso de la derivación en los siguientes casos:
 
 I.- A solicitud del usuario;
 
@@ -512,11 +620,15 @@ II.- Al instalarse el servicio público de agua potable en la calle en donde se 
 
 III.- Cuando la derivación cause perjuicios al servicio de agua del predio del que proceda, y
 
-IV.- Cuando el usuario no realice dentro del término que establece el párrafo segundo del artículo anterior las correcciones que ordene el Departamento.
+(REFORMADA, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
+IV.- Cuando el usuario no realice dentro del término que establece el párrafo segundo del artículo anterior las correcciones que ordene la Secretaría de Obras y Servicios.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 45.
 
-Cuando el Departamento detecte la instalación y uso de derivaciones de agua no autorizadas procederá a suprimirla, cargando el importe de las obras a los propietarios o poseedores del predio o giro mercantil, calificándolos de infractores, sin perjuicio de las sanciones a que se hagan acreedores en los términos de la Ley de Hacienda del Departamento del Distrito Federal.
+Cuando la Secretaría de Obras y Servicios detecte la instalación y uso de derivaciones de agua no autorizadas procederá a suprimirla, cargando el importe de las obras a los propietarios o poseedores del predio o giro mercantil, calificándolos de infractores, sin perjuicio de las sanciones a que se hagan acreedores en los términos del Código Financiero del Distrito Federal.
 
 ### CAPITULO V. De los pozos particulares
 
@@ -526,11 +638,15 @@ Las licencias de pozos particulares por su naturaleza se clasifican en:
 
 I.- General, cuando la que otorga la Comisión Nacional del Agua para la perforación, operación y aprovechamiento permanente del pozo.
 
-II.- Específicas, son aquellas que otorga el Departamento para la realización de una obra para mantener en operación el pozo como profundizar, rehabilitar, reademar, reparar la preparación para la sonda piezométrica, desazolvar y limpiar pozos. Estas concluyen al momento de terminar la obra.
+(REFORMADA, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
+II.- Específicas, son aquellas que otorga la Secretaría de Obras y Servicios para la realización de una obra para mantener en operación el pozo como profundizar, rehabilitar, reademar, reparar la preparación para la sonda piezométrica, desazolvar y limpiar pozos. Estas concluyen al momento de terminar la obra.
+
+(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 47.
 
-Los propietarios o poseedores de predios, casas-habitación y los titulares o propietarios de giros mercantiles o industrias, que pretendan profundizar, rehabilitar, reademar, reparar la preparación de la sonda piezométrica, desazolvar, limpiar y aprovechar pozos particulares autorizados para extraer agua, deberán presentar solicitud por escrito ante el Departamento, en las formas preimpresas que serán proporcionadas gratuitamente, debiendo contener:
+Los propietarios o poseedores de predios, casas-habitación y los titulares o propietarios de giros mercantiles o industrias, que pretendan profundizar, rehabilitar, reademar, reparar la preparación de la sonda piezométrica, desazolvar, limpiar y aprovechar pozos particulares autorizados para extraer agua, deberán presentar solicitud por escrito ante la Secretaría de Obras y Servicios, en las formas preimpresas que serán proporcionadas gratuitamente, debiendo contener:
 
 I.- Nombre y domicilio del solicitante;
 
@@ -546,9 +662,11 @@ VI.- Otros datos que se consideren necesarios conforme a la naturaleza del predi
 
 Si se solicita perforar, profundizar o reademar el pozo, se deberá presentar el permiso correspondiente a la Comisión Nacional del Agua.
 
+(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 48.
 
-Recibida la solicitud, dentro de los quince días siguientes, el Departamento inspeccionará el predio, casa-habitación, establecimiento, giro mercantil o industria de que se trate a fin de verificar los datos proporcionados.
+Recibida la solicitud, dentro de los quince días siguientes, la Secretaría de Obras y Servicios inspeccionará el predio, casa-habitación, establecimiento, giro mercantil o industria de que se trate a fin de verificar los datos proporcionados.
 
 Asimismo, dictaminará sobre el otorgamiento de la licencia para la operación, debiendo notificar al interesado la resolución correspondiente, dentro de los siguientes treinta días a la presentación de la solicitud.
 
@@ -556,25 +674,33 @@ Asimismo, dictaminará sobre el otorgamiento de la licencia para la operación, 
 
 La licencia que en su caso se otorgue, deberá colocarse en lugar visible a la entrada del predio donde se lleven a cabo las obras autorizadas, mismas, que deberán realizarse dentro de los treinta días siguientes a la expedición de la licencia, ya que de lo contrario ésta quedará cancelada.
 
-El usuario deberá dar aviso al Departamento de la terminación de obras, dentro de los quince días siguientes a la fecha en que éstas concluyan.
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
+El usuario deberá dar aviso a la Secretaría de Obras y Servicios de la terminación de obras, dentro de los quince días siguientes a la fecha en que éstas concluyan.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 50.
 
-El Departamento dará aviso a la Comisión Nacional del Agua, de las licencias que otorgue en los términos del Artículo 46 del presente Reglamento.
+La Secretaría de Obras y Servicios dará aviso a la Comisión Nacional del Agua, de las licencias que otorgue en los términos del Artículo 46 del presente Reglamento.
 
 ###### ARTICULO 51.
 
 Para hacer uso del agua extraída de un pozo se deberá contar con la autorización expedida por la autoridad sanitaria en el Distrito Federal y por la Comisión Nacional del Agua.
 
+(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 52.
 
-El Departamento practicará visitas de inspección para comprobar que las obras se realizaron con apego a las condiciones establecidas en la licencia respectiva.
+La Secretaría de Obras y Servicios practicará visitas de inspección para comprobar que las obras se realizaron con apego a las condiciones establecidas en la licencia respectiva.
 
 En caso de que las obras no se hayan ajustado a los términos previstos en la licencia general o en las específicas, el interesado contará con un plazo de quince días para realizar las correcciones necesarias, y en caso de no hacerlo se le revocará la misma y se procederá al cegamiento del pozo, sin perjuicio de la aplicación de las sanciones administrativas correspondientes.
 
+(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 53.
 
-El Departamento podrá revocar la licencia general para aprovechamiento de agua en pozos, en los siguientes casos:
+La Secretaría de Obras y Servicios podrá revocar la licencia general para aprovechamiento de agua en pozos, en los siguientes casos:
 
 I.- Cuando la operación del pozo cause perjuicio al interés general;
 
@@ -584,27 +710,35 @@ III.- Si el pozo funciona en forma distinta de la autorizada, carece de preparac
 
 IV.- Cuando el pozo se deje de operar un año o cuando no se cubran los derechos por su explotación, y
 
-V.- Cuando el usuario no realice, dentro del término que establece el segundo párrafo del artículo anterior, las correcciones que ordene el Departamento.
+(REFORMADA, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
+V.- Cuando el usuario no realice, dentro del término que establece el segundo párrafo del articulo anterior, las correcciones que ordene la Secretaría de Obras y Servicios.
 
 La cancelación de la licencia general será sin perjuicio de cegar el pozo por cuenta del interesado.
 
+(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 54.
 
-Cuando el Departamento detecte que se está operando un pozo particular sin la licencia correspondiente, se procederá a su clausura inmediata.
+Cuando la Secretaría de Obras y Servicios detecte que se está operando un pozo particular sin la licencia correspondiente, se procederá a su clausura inmediata.
 
 El usuario podrá solicitar su regularización, y en caso de no hacerlo se procederá al cegamiento por su cuenta.
 
+(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 55.
 
-Los pozos particulares sólo deberán surtir de agua potable a los predios, casas-habitación, establecimientos, giros mercantiles o industrias para los cuales se otorgó la licencia, salvo autorización del Departamento.
+Los pozos particulares sólo deberán surtir de agua potable a los predios, casas-habitación, establecimientos, giros mercantiles o industrias para los cuales se otorgó la licencia, salvo autorización de la Secretaría de Obras y Servicios.
 
 La derivación de un pozo particular deberá se solicitada por el propietario o poseedor del predio que pretenda la dotación del agua y expresar su consentimiento el propietario del predio donde se encuentre localizado el pozo que pretenda ser objeto de derivación.
 
 La solicitud y autorización de una derivación deberá ajustarse en lo aplicable a las disposiciones del Capítulo anterior.
 
+(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 56.
 
-El Departamentos llevará un registro actualizado y fehaciente de las licencias y las revisará periódicamente. El registro contendrá:
+La Secretaría de Obras y Servicios llevará un registro actualizado y fehaciente de las licencias y las revisará periódicamente. El registro contendrá:
 
 I.- Ubicación del predio:
 
@@ -626,29 +760,35 @@ X.- Firma del solicitante.
 
 ## TITULO TERCERO. De la protección y aprovechamiento de las aguas de los manantiales y las pluviales
 
-### CAPITULO UNICO
+### CAPITULO UNICO. (REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 57.
 
-Con el fin de incrementar los niveles de los mantos freáticos, el Departamento construirá en las Zonas de Reserva Ecológica, parques y jardines del Distrito Federal, tinas ciegas, represas, ollas de agua, lagunas de infiltración, pozos de absorción y otras obras necesarias para la captación de aguas pluviales.
+Con el fin de incrementar los niveles de los mantos freáticos, la Secretaría de Obras y Servicios construirá en las Zonas de Reserva Ecológica, parques y jardines del Distrito Federal, tinas ciegas, represas, ollas de agua, lagunas de infiltración, pozos de absorción y otras obras necesarias para la captación de aguas pluviales.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 58.
 
-El Departamento construirá represas y otras obras que eviten el azolve de la red de drenaje por materiales arrastrados por el deslave de barrancas y cauces naturales.
+La Secretaría de Obras y Servicios construirá represas y otras obras que eviten el azolve de la red de drenaje por materiales arrastrados por el deslave de barrancas y cauces naturales.
 
 ###### ARTICULO 59.
 
 Quedan prohibidas las construcciones de cualquier tipo, ajenas al control y aprovechamiento de las aguas pluviales y de manantiales en sus lechos, barrancas y cauces naturales.
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 60.
 
-El Departamento deberá rescatar, sanear, proteger y construir las instalaciones necesarias para aprovechar las aguas de los manantiales y las pluviales que circulan por barrancas y cauces naturales.
+La Secretaría de Obras y Servicios deberá rescatar, sanear, proteger y construir las instalaciones necesarias para aprovechar las aguas de los manantiales y las pluviales que circulan por barrancas y cauces naturales.
 
 ###### ARTICULO 61.
 
 Queda prohibido que los desechos sólidos o líquidos producto de procesos industriales u otros se eliminen por la red de drenaje o sean vertidos en ríos, manantiales, arroyos, acueductos, corrientes o canales. En todo caso deberán ser tratadas y cumplir con la normatividad ecológica.
 
-En las barrancas y cauces naturales de aguas pluviales o de manantial cercanos a zonas habitacionales, el Departamento deberá construir a ambos lados del cauce, un sistema de drenaje para evitar que se contaminen con aguas residuales.
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
+En las barrancas y cauces naturales de aguas pluviales o de manantial cercanos a zonas habitacionales, la Secretaría de Obras y Servicios deberá construir a ambos lados del cauce, un sistema de drenaje para evitar que se contaminen con aguas residuales.
 
 ## TITULO CUARTO. Del servicio público de tratamiento de agua
 
@@ -658,13 +798,17 @@ En las barrancas y cauces naturales de aguas pluviales o de manantial cercanos a
 
 Serán materia de tratamiento, las aguas residuales de origen doméstico e industrial y las pluviales que transporten en suspensión materia orgánica o inorgánica, con el fin de incrementar y diversificar su aprovechamiento.
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 63.
 
-Todas las obras y acciones inherentes a la captación, conducción y distribución del agua residual tratada en el Distrito Federal, se realizarán de acuerdo con los elementos, estructuras, equipo, procesos y controles que señale el Departamento.
+Todas las obras y acciones inherentes a la captación, conducción y distribución del agua residual tratada en el Distrito Federal, se realizarán de acuerdo con los elementos, estructuras, equipo, procesos y controles que señale la Secretaría de Obras y Servicios.
+
+(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 64.
 
-El agua residual que suministre el Departamento, para su reúso o tratamiento proveniente de servicios públicos, comerciales, industriales y domésticos vertida al sistema de alcantarillado del Distrito Federal, deberá aprovecharse conforme al siguiente orden de prelación:
+El agua residual que suministre la Secretaría de Obras y Servicios, para su reúso o tratamiento proveniente de servicios públicos, comerciales, industriales y domésticos vertida al sistema de alcantarillado del Distrito Federal, deberá aprovecharse conforme al siguiente orden de prelación:
 
 I.- Servicios públicos; para el riego de áreas verdes y llenado de lagos recreativos;
 
@@ -690,55 +834,91 @@ XI.- Otros.
 
 La tecnología utilizada en las plantas de tratamiento y los criterios de calidad física, química y biológica del agua residual tratada se sujetarán a lo que dispongan las Normas Técnicas Ecológicas y Sanitarias o al dictamen que emita la autoridad competente, a fin de evitar riesgos para la salud.
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 65.
 
-El usuario no podrá enajenar o comercializar en forma alguna el agua residual o la residual tratada que reciba del Departamento, salvo otorgamiento de la concesión correspondiente en los términos de este Reglamento y de la Ley Orgánica del Departamento del Distrito Federal.
+El usuario no podrá enajenar o comercializar en forma alguna el agua residual o la residual tratada que reciba de la Secretaría de Obras y Servicios, salvo otorgamiento de la concesión correspondiente en los términos de este Reglamento y de la Ley del Régimen Patrimonial y del Servicio Público.
 
-La violación a lo dispuesto en este precepto se sancionará en los términos de la Ley de Hacienda del Departamento del Distrito Federal.
+La violación a lo dispuesto en este precepto se sancionará en los del Código Financiero del Distrito Federal.
+
+(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 66.
 
-La instalación de las tomas de agua residual tratada deberán solicitarse al Departamento por:
+La instalación de las tomas de agua residual tratada deberán solicitarse a la Secretaría de Obras y Servicios por:
 
 I.- Los propietarios o poseedores de predios edificados o no edificados que tengan que utilizar agua residual o residual tratada del sistema de alcantarillado del Distrito Federal, para fines industriales, sanitarios, de riego superficial o por aspersión, para áreas verdes, patios de servicio, lavado de vehículos automotores e instalaciones diversas que por la naturaleza de sus actividades no requieran consumo de agua para uso doméstico o consumo humano, y
 
 II.- Los propietarios o poseedores de terrenos agrícolas destinados al cultivo de forrajes, pastura, plantas de ornato y hortalizas, acuacultura y abrevaderos.
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 67.
 
-En caso de uso no doméstico, cuando no exista servicio público de agua residual tratada, el Departamento considerará, en su caso, la forma posible de abastecimiento por medio de carros-tanque, y se notificará a los interesados por medio de avisos que se publiquen por dos veces con intervalo de 20 días en la Gaceta Oficial del Departamento del Distrito Federal y en un periódico de los de mayor circulación en la zona.
+En caso de uso no doméstico, cuando no exista servicio público de agua residual tratada, la Secretaría de Obras y Servicios considerará, en su caso, la forma posible de abastecimiento por medio de carros-tanque, y se notificará a los interesados por medio de avisos que se publiquen por dos veces con intervalo de 20 días en la Gaceta Oficial del Departamento del Distrito Federal y en un periódico de los de mayor circulación en la zona.
 
 ###### ARTICULO 68.
 
 Por la instalación o reconstrucción de tomas de agua residual tratada y su conexión a las redes de distribución del servicio público de agua tratada, se pagará el derecho de conexión conforme a los presupuestos que se formulen por las autoridades.
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 69.
 
-En lo referente a la instalación de tomas, solicitudes, inspecciones y sanciones del servicio público y agua residual tratada, se estará a lo dispuesto en el Título de agua potable.
+Las solicitudes de instalación, ampliación, cambio de ramal, reducción, reconstrucción y supresión de tomas de agua residual tratada deberán presentarlas los usuarios a la Secretaría de Obras y Servicios, en los formatos que al efecto expida, con los datos y documentos siguientes:
+
+I.- Nombre, número de Registro Federal de Contribuyentes, domicilio para recibir notificaciones y número telefónico del propietario del crédito;
+
+II.- En su caso, nombre, número telefónico, y documento que acredite la personalidad del representante legal;
+
+III.- Tipo de servicio, diámetro y número de conexiones solicitadas;
+
+IV.- Número de cuenta de la boleta predial;
+
+V.- Domicilio del predio para el que se solicita el servicio;
+
+VI.- Croquis de localización, señalando la distancia a la esquina más cercana de donde se requiere el servicio;
+
+VII.- Firma del propietario o, en su caso, del representante legal, y
+
+VIII.- Copia simple de una identificación oficial vigente.
+
+Recibidos los documentos a que se refiere el párrafo anterior, la Secretaría de Obras y Servicios realizará, dentro de los 12 días hábiles siguientes, una visita de verificación en el predio de que se trate, a fin de comprobar la veracidad, de los datos proporcionados, así como de recabar la información que se considere necesaria. De no realizarse la visita de verificación en el plazo señalado, los datos proporcionados por los usuarios serán considerados como válidos.
+
+Si la solicitud es procedente, la Secretaría de Obras y Servicios formulará el presupuesto a que se refiere el Código Financiero del Distrito Federal y lo notificará al interesado, dentro de los 15 días hábiles siguientes contados a partir de la recepción de los documentos. El interesado dentro de los 5 días hábiles siguientes, deberá cubrir su importe.
+
+Una vez acreditado el pago de los derechos ante la Secretaría de Obras y Servicios, ésta realizará, dentro de los 10 días hábiles siguientes, las obras respectivas.
 
 ###### ARTICULO 70.
 
 Queda prohibida la derivación de la toma del servicio público de agua residual tratada sin la autorización respectiva. La violación a esta disposición será sancionada de conformidad con los ordenamientos aplicables.
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 71.
 
-El Departamento por conducto de la Tesorería llevará un registro de las tomas de agua residuales tratada, que contendrá los mismos datos que se requieren para el registro de tomas de agua potable, así como los datos de las fechas de reparación del medidor, pagos por conexión a las redes de distribución y los demás que en cada caso se requieran.
+La Secretaría de Obras y Servicios por conducto de la Tesorería llevará un registro de las tomas de agua residuales tratada, que contendrá los mismos datos que se requieren para el registro de tomas de agua potable, así como los datos de las fechas de reparación del medidor, pagos por conexión a las redes de distribución y los demás que en cada caso se requieran.
 
 ###### ARTICULO 72.
 
 Las instalaciones hidráulicas interiores para el uso y consumo de agua residual tratada y su conexión a la red de distribución, deberán ser independientes al del servicio público de agua potable, por lo que no deberán tener conexión con tuberías para el abastecimiento de agua destinada al uso doméstico o al consumo humano, debiendo señalarse de manera adecuada.
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 73.
 
-Los derechos por el servicio público de agua residual tratada se causarán a partir de la fecha en que se haya instalado la toma respectiva y se pagarán en los términos que fije el Departamento, conforme a la cuota, tarifa o concepto establecido en la Ley de Hacienda del Departamento del Distrito Federal.
+Los derechos por el servicio público de agua residual tratada se causarán a partir de la fecha en que se haya instalado la toma respectiva y se pagarán en los términos que fije la Secretaría de Obras y Servicios, conforme a la cuota, tarifa o concepto establecido en el Código Financiero del Distrito Federal.
 
 ###### ARTICULO 74.
 
 Las plantas de tratamiento de aguas residuales, deberán contar con un laboratorio para el control de la calidad física, química y biológica del agua tratada que se produzca, conforme a lo que establezcan las Normas Técnicas Ecológicas y Sanitarias aplicables.
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 75.
 
-En el caso de que algún proceso industrial no requiera agua potable, los usuarios públicos o privados quedan obligados al aprovechamiento de las aguas residuales derivadas del proceso industrial. Para el efecto, instalarán equipos y dispositivos de recirculación o tratamiento de dichas aguas y se obligarán a presentar semestralmente al Departamento, el reporte de los usos y aprovechamiento de las mismas.
+En el caso de que algún proceso industrial no requiera agua potable, los usuarios públicos o privados quedan obligados al aprovechamiento de las aguas residuales derivadas del proceso industrial. Para el efecto, instalarán equipos y dispositivos de recirculación o tratamiento de dichas aguas y se obligarán a presentar semestralmente a la Secretaría de Obras y Servicios, el reporte de los usos y aprovechamiento de las mismas.
 
 ### CAPITULO II. Recarga de acuíferos
 
@@ -766,9 +946,11 @@ IV.- Los establecimientos dedicados al lavado de autos.
 
 ### CAPITULO IV. Requerimientos previos y de operación
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 78.
 
-Para producir y abastecer de agua residual tratada para uso directo, la persona física o moral de carácter público o privado, deberá contar con un estudio e informe de ingeniería para el reuso de la misma que será aprobado por el Departamento.
+Para producir y abastecer de agua residual tratada para uso directo, la persona física o moral de carácter público o privado, deberá contar con un estudio e informe de ingeniería para el reuso de la misma que será aprobado por la Secretaría de obras y Servicios.
 
 ### CAPITULO V. Medidas alternativas de seguridad
 
@@ -778,21 +960,29 @@ Las plantas de tratamiento de agua residual deberán contar con las medidas de s
 
 ### CAPITULO VI. De las concesiones
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 80.
 
-El Departamento podrá concesionar la operación y mantenimiento de plantas de tratamiento de agua residual y pluvial captada en el sistema de alcantarillado del Distrito Federal.
+La Secretaría de Obras y Servicios podrá concesionar la operación y mantenimiento de plantas de tratamiento de agua residual y pluvial captada en el sistema de alcantarillado del Distrito Federal.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 81.
 
-Podrán ser concesionarios del agua residual y de las plantas de tratamiento, las personas físicas o morales de nacionalidad mexicana que reúnan los requisitos que señale el Departamento.
+Podrán ser concesionarios del agua residual y de las plantas de tratamiento, las personas físicas o morales de nacionalidad mexicana que reúnan los requisitos que señale la Secretaría de Obras y Servicios.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 82.
 
-La concesión será de carácter personal y por ello intransferible, y se reglamentará su funcionamiento en los términos de la Ley Orgánica del Departamento del Distrito Federal.
+La concesión será de carácter personal y por ello intransferible, y se reglamentará su funcionamiento en los términos de la Ley del Régimen Patrimonial y del Servicio Público.
+
+(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 83.
 
-La solicitud de concesión deberá presentarse ante el Departamento y contener:
+La solicitud de concesión deberá presentarse ante la Secretaría de Obras y Servicios y contener:
 
 I.- Nombre, nacionalidad y domicilio del solicitante;
 
@@ -808,29 +998,41 @@ V.- Estudio de la situación financiera del solicitante que compruebe su capacid
 
 ### CAPITULO UNICO. De la verificación del consumo de agua
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 84.
 
-Todo usuario deberá solicitar o permitir la instalación de aparatos medidores en lugar visible, a efecto de que el Departamento realice a verificación del consumo de agua potable, agua residual tratada, en su caso, o de pozos propios, en los términos de la Ley de Hacienda del Departamento del Distrito Federal.
+Todo usuario deberá solicitar o permitir la instalación de aparatos medidores en lugar visible, a efecto de que la Secretaría de Obras y Servicios realice a verificación del consumo de agua potable, agua residual tratada, en su caso, o de pozos propios, en los términos del Código Financiero del Distrito Federal.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 85.
 
-Los usuarios serán responsables del correcto uso y conservación de los aparatos medidores que se instalen en sus predios, casas-habitación, establecimientos, giros mercantiles o industrias, deberán reportar todo daño o desarreglo de los mismos, así como permitir la práctica de las inspecciones que ordene el Departamento.
+Los usuarios serán responsables del correcto uso y conservación de los aparatos medidores que se instalen en sus predios, casas-habitación, establecimientos, giros mercantiles o industrias, deberán reportar todo daño o desarreglo de los mismos, así como permitir la práctica de las inspecciones que ordene la Secretaría de Obras y Servicios.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 86.
 
-Cuando en las visitas de inspección practicadas por el Departamento se compruebe que los desperfectos a los aparatos medidores fueron causados intencionalmente, o resultaron de alguna imprudencia de los usuarios, los responsables se harán acreedores a las sanciones que fija la Ley de Hacienda del Departamento del Distrito Federal.
+Cuando en las visitas de inspección practicadas por la Secretaría de Obras y Servicios se compruebe que los desperfectos a los aparatos medidores fueron causados intencionalmente, o resultaron de alguna imprudencia de los usuarios, los responsables se harán acreedores a las sanciones que el Código Financiero del Distrito Federal.
+
+(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 87.
 
-Si de la lectura de los aparatos medidores se detecta que un establecimiento, giro mercantil o industria consume bimestralmente más de quinientos metros cúbicos de agua proveniente de las tuberías de distribución o de pozos propios, los usuarios estarán obligados a presentar al Departamento un estudio cuantitativo de los usos del agua en sus diversas fases, dentro de los noventa días siguientes a la fecha en que se conozca el volumen del consumo.
+Si de la lectura de los aparatos medidores se detecta que un establecimiento, giro mercantil o industria consume bimestralmente más de quinientos metros cúbicos de agua proveniente de las tuberías de distribución o de pozos propios, los usuarios estarán obligados a presentar a la Secretaría de Obras y Servicios un estudio cuantitativo de los usos del agua en sus diversas fases, dentro de los noventa días siguientes a la fecha en que se conozca el volumen del consumo.
 
-Si del estudio cuantitativo del uso del agua, el Departamento considera que es posible establecer un sistema para reducir el consumo, lo hará del conocimiento del usuario, a efecto de que lo lleve a cabo a su costa, dentro de los doce meses siguientes a la fecha en que se le notifique.
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
+Si del estudio cuantitativo del uso del agua, la Secretaría de Obras y Servicios considera que es posible establecer un sistema para reducir el consumo, lo hará del conocimiento del usuario, a efecto de que lo lleve a cabo a su costa, dentro de los doce meses siguientes a la fecha en que se le notifique.
 
 Tratándose de edificios en condominio o en renta, la obligación de presentar el estudio cuantitativo de los usos del agua existirá cuando el consumo promedio bimestral supere los doscientos metros cúbicos por cada departamento, vivienda o local.
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 88.
 
-El Departamento podrá determinar presuntivamente el consumo de agua de acuerdo a lo estipulado por la Ley de Hacienda del Departamento del Distrito Federal.
+La Secretaría de Obras y Servicios podrá determinar presuntivamente el consumo de agua de acuerdo a lo estipulado por el Código Financiero del Distrito Federal.
 
 ## TITULO SEXTO. Del sistema de drenaje y alcantarillado
 
@@ -848,19 +1050,25 @@ b).- El separado, con una red exclusiva para la descarga residual y otra red par
 
 Conforme el tipo de sistema de alcantarillado, los usuarios deberán contar con las instalaciones adecuadas en el interior de sus predios antes de solicitar la conexión de la descarga de las aguas residuales y pluviales. Cuando el sistema sea separado, las instalaciones interiores del predio estarán dispuestas también separadamente, de manera que no se mezclen las aguas residuales con las pluviales y puedan llegar a su respectivo albañal interior.
 
+(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 91.
 
-Los nuevos desarrollos urbanos deberán incluir la construcción de sistemas separados para el drenaje de aguas residuales y pluviales, y podrán optar por la perforación de pozos de infiltración con capacidades para captar los escurrimientos pluviales sobre las superficies cubiertas, previa aprobación del Departamento.
+Los nuevos desarrollos urbanos deberán incluir la construcción de sistemas separados para el drenaje de aguas residuales y pluviales, y podrán optar por la perforación de pozos de infiltración con capacidades para captar los escurrimientos pluviales sobre las superficies cubiertas, previa aprobación de la Secretaría De Obras y Servicios.
 
 Todas las calles secundarias, pasillos, andadores, patios y banquetas, deberán ser construidas con adoquines, concreto hidráulico o de algún material que permita la infiltración de las aguas pluviales. Las banquetas deberán contar en toda su extensión con jardineras de un ancho mínimo de cuarenta centímetros a partir de la guarnición.
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 92.
 
-Las aguas residuales y pluviales se deberán conducir de los predios edificados a las atarjeas instaladas con tal objeto en la vía pública. En los predios no edificados será obligatoria la conexión al servicio de alcantarillado cuando sea indispensable o así lo determine el Departamento, previo dictamen técnico.
+Las aguas residuales y pluviales se deberán conducir de los predios edificados a las atarjeas instaladas con tal objeto en la vía pública. En los predios no edificados será obligatoria la conexión al servicio de alcantarillado cuando sea indispensable o así lo determine la Secretaría de Obras y Servicios, previo dictamen técnico.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 93.
 
-En las zonas donde no exista servicio de drenaje, los propietarios o poseedores de los predios deberán construir las fosas sépticas y obras necesarias para eliminar las aguas residuales y pluviales con base en los proyectos que al efecto apruebe el Departamento, o participar en los programas que para tal objeto implemente el propio Departamento.
+En las zonas donde no exista servicio de drenaje, los propietarios o poseedores de los predios deberán construir las fosas sépticas y obras necesarias para eliminar las aguas residuales y pluviales con base en los proyectos que al efecto la Secretaría de Obras y Servicios, o participar en los programas que para tal objeto implemente la propio Secretaría de Obras y Servicios.
 
 ###### ARTICULO 94.
 
@@ -872,9 +1080,11 @@ Los propietarios, poseedores del predio, casa habitación y titulares de estable
 
 Una vez efectuadas las conexiones necesarias al sistema de alcantarillado, los interesados deberán clausurar las obras que hayan realizado para la disposición de las aguas residuales en términos del Artículo 93 del presente Ordenamiento.
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 96.
 
-Cuando el albañal interior se localice a nivel inferior de la atarjea y se haya dispuesto la descarga por bombeo para elevar el agua, deberán instalarse cárcamos, motobombas, y demás elementos necesarios para evitar interrupciones en su operación, los que deberán ser proyectados, construidos, operados y conservados por el usuario, previa aprobación del Departamento.
+Cuando el albañal interior se localice a nivel inferior de la atarjea y se haya dispuesto la descarga por bombeo para elevar el agua, deberán instalarse cárcamos, motobombas, y demás elementos necesarios para evitar interrupciones en su operación, los que deberán ser proyectados, construidos, operados y conservados por el usuario, previa aprobación de la Secretaría de Obras y Servicios.
 
 ###### ARTICULO 97.
 
@@ -886,9 +1096,11 @@ Queda prohibido desalojar agua al arroyo de la calle o a la coladera pluvial, y 
 
 Queda prohibido realizar conexiones interiores entre predios para desaguar por el albañal de uno de ellos.
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 99.
 
-Cuando se requiera mayor capacidad en el sistema de alcantarillado, el usuario deberá presentar al Departamento el proyecto de ampliación, en el concepto de que será a su cargo el costo de las obras e instalaciones que se requieran hasta el punto donde el sistema cuente con la capacidad necesaria para el aumento de caudal de la descarga que se origine con el nuevo uso.
+Cuando se requiera mayor capacidad en el sistema de alcantarillado, el usuario deberá presentar a la Secretaría de Obras y Servicios el proyecto de ampliación, en el concepto de que será a su cargo el costo de las obras e instalaciones que se requieran hasta el punto donde el sistema cuente con la capacidad necesaria para el aumento de caudal de la descarga que se origine con el nuevo uso.
 
 ###### ARTICULO 100.
 
@@ -900,53 +1112,83 @@ Los usuarios del sistema de alcantarillado sólo utilizarán éste, para los fin
 
 Asimismo, queda prohibido arrojar cualquier desecho sólido que pueda obstruir las coladeras pluviales instaladas en la vía pública; destapar brocales de acceso y ventilación de los conductos del sistema de alcantarillado; y dañar directa o indirectamente cualquier instalación que sea parte del sistema.
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 101.
 
-Cuando el Departamento detecte anomalías o desperfectos que impidan la correcta operación del sistema de drenaje, requerirán a los usuarios para que en el término que determine realicen las obras o composturas correspondientes, a sus instalaciones interiores.
+Cuando la Secretaría de Obras y Servicios detecte anomalías o desperfectos que impidan la correcta operación del sistema de drenaje, requerirán a los usuarios para que en el término que determine realicen las obras o composturas correspondientes, a sus instalaciones interiores.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 102.
 
-El Departamento podrá suspender las autorizaciones de descarga de agua residual por el período que requiera la acción para evitar una amenaza a la salud pública, cuidar la seguridad y el bienestar de la vecindad circundante o cuando las condiciones prevalecientes en el sistema de drenaje impidan recibir la descarga. Lo anterior será sin perjuicio de las sanciones a que se haga acreedor el usuario.
+La Secretaría de Obras y Servicios podrá suspender las autorizaciones de descarga de agua residual por el período que requiera la acción para evitar una amenaza a la salud pública, cuidar la seguridad y el bienestar de la vecindad circundante o cuando las condiciones prevalecientes en el sistema de drenaje impidan recibir la descarga. Lo anterior será sin perjuicio de las sanciones a que se haga acreedor el usuario.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 103.
 
-Cuando se demuestre que por imprudencia o culpa de los usuarios, los albañales, red de alcantarillado o drenaje queden obstruidos o deteriorados, el Departamento realizará las obras necesarias de reparación con cargo a los propietario o poseedores de los predios involucrados en los daños.
+Cuando se demuestre que por imprudencia o culpa de los usuarios, los albañales, red de alcantarillado o drenaje queden obstruidos o deteriorados, la Secretaría de Obras y Servicios realizará las obras necesarias de reparación con cargo a los propietario o poseedores de los predios involucrados en los daños.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 104.
 
-El Departamento tendrá la obligación de realizar las obras de reparación y desazolve en la red de drenaje de la vía pública cuando se vea obstruida o deteriorada por desechos generados a causa de la prestación de servicios públicos.
+La Secretaría de Obras y Servicios tendrá la obligación de realizar las obras de reparación y desazolve en la red de drenaje de la vía pública cuando se vea obstruida o deteriorada por desechos generados a causa de la prestación de servicios públicos.
 
-Cuando se realicen tareas de desazolve, el Departamento deberá recoger los desechos extraídos.
+Cuando se realicen tareas de desazolve, la Secretaría de Obras y Servicios deberá recoger los desechos extraídos.
 
 ### CAPITULO II. De la conexión de descarga de aguas residuales
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 105.
 
-Corresponde al Departamento realizar las conexiones de albañales exteriores para descarga de aguas residuales y pluviales de predios unifamiliares, edificios multifamiliares, de departamentos, condominios, conjuntos habitacionales, comerciales e industriales y edificios de servicios administrativos, de reunión, públicos y privados.
+Corresponde a la Secretaría de Obras y Servicios realizar las conexiones de albañales exteriores para descarga de aguas residuales y pluviales de predios unifamiliares, edificios multifamiliares, de departamentos, condominios, conjuntos habitacionales, comerciales e industriales y edificios de servicios administrativos, de reunión, públicos y privados.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 106.
 
-Los interesados que requieran la conexión al sistema de alcantarillado, deberán presentar solicitud por escrito que deberá contener los siguientes datos:
+Las solicitudes de instalación, ampliación, cambio de lugar, reducción, reconstrucción y supresión de albañales deberán presentarlas los usuarios a la Secretaría de Obras y Servicios, en los formatos que al efecto se expidan, acompañados de los datos y documentos siguientes:
 
-I.- Nombre y domicilio del solicitante;
+I.- Nombre, número de Registro Federal de Contribuyentes, domicilio para recibir notificaciones y número telefónico del propietario del predio;
 
-II.- Ubicación del predio y destino;
+II.- En su caso, nombre, domicilio, número telefónico y documento que acredite la personalidad del representante legal;
 
-III.- Croquis de localización del predio;
+III.- Tipo de servicio, diámetro y número de conexiones solicitadas;
 
-IV.- Diámetro del albañal solicitado con la justificación correspondiente;
+IV.- Número de cuenta de la boleta predial;
 
-V.- Especificar si el predio está o no edificado, y
+V.- Domicilio del predio para el que se solicita el servicio;
 
-VI.- Los demás que en cada caso se requieran.
+VI.- Croquis de localización señalando la distancia a la esquina más cercana de donde se requiere el servicio;
 
-A la solicitud deberá acompañarse la copia de la licencia de construcción o autorización correspondiente, y demás documentos que se señalen en este Ordenamiento y otras disposiciones aplicables.
+VII.- Firma del propietario o, en su caso, del representante legal, y
+
+VIII.- Copia simple de los documentos siguientes:
+
+a).- Identificación oficial vigente;
+
+b).- Memoria de cálculo hidrosanitario, en la que se determine el diámetro y número de conexiones;
+
+c).- Planos hidrosanitarios que contengan la información gráfica de las instalaciones hidráulicas y sanitarias de la construcción;
+
+d).- Licencia de construcción y el dictamen de factibilidad correspondiente;
+
+e).- Recibos de pago de contribuciones de mejoras, y
+
+f).- Título de propiedad o documento que acredite la posesión legal del inmueble.
+
+Recibidos los documentos a que se refiere el párrafo anterior, la Secretaría de Obras y Servicios realizará, dentro de los 12 días hábiles siguientes, una visita de verificación en el predio de que se trate, a fin de comprobar la veracidad de los datos proporcionados, así como recabar la información que considere necesaria. De no realizarse la visita de verificación en el plazo señalado, los datos proporcionados por los usuarios serán considerados como válidos.
+
+Si la solicitud resulta procedente, la Secretaría de Obras y Servicios formulará el presupuesto a que se refiere el Código Financiero del Distrito Federal y lo notificará al interesado, dentro de los 15 días hábiles siguientes contados a partir de la recepción de los documentos. El interesado, dentro de los 5 días hábiles siguientes, deberá cubrir su importe.
+
+Una vez acreditado el pago de los derechos ante la Secretaría de Obras y Servicios ésta realizará, dentro de los 10 días hábiles siguientes, las obras respectivas.
 
 ###### ARTICULO 107.
 
-Recibida la solicitud, el Departamento comprobará la veracidad de los datos y documentos que acompañen dentro de los quince días hábiles siguientes y, en su caso, determinará la procedencia de la conexión solicitada. En caso de que el Departamento no compruebe el término de los quince días hábiles la veracidad de los datos, éstos se darán por buenos.
-
-Al respecto, el Departamento formulará el presupuesto de las obras de conexión, en los términos que establece la Ley de Hacienda del departamento del Distrito Federal, mismo que comunicará al interesado para que en un término que no exceda de siete días, contados a partir del siguiente al de la notificación, cubra su importe en la Tesorería a efecto de que se proceda a la ejecución.
+(DEROGADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 108.
 
@@ -958,47 +1200,65 @@ Los albañales interiores deberán instalarse como continuación del albañal ex
 
 La descarga de agua residual proveniente de procesos industriales que requiera conectarse al sistema de alcantarillado y drenaje, deberán sujetarse a los límites máximos permisibles y a procedimiento para la determinación de contaminantes en las descargas de agua residual previstos en las Normas Técnicas Ecológicas o al dictamen que se formule por la autoridad competente.
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 110.
 
-Los interesados en establecer nuevas industrias o giros mercantiles, deberán solicitar al Departamento, previamente a su apertura, la conexión de las descargas al sistema de alcantarillado y drenaje.
+Los interesados en establecer nuevas industrias o giros mercantiles, deberán solicitar a la Secretaría de Obras y Servicios, previamente a su apertura, la conexión de las descargas al sistema de alcantarillado y drenaje.
 
 ###### ARTICULO 111.
 
 La autorización de descargas residuales a que se refiere el artículo anterior se otorgará previa presentación de una manifestación de impacto ambiental, tomando en cuenta la capacidad de captación de la red.
 
-En la solicitud para la conexión de descargas de agua residual que se presente al Departamento, además de expresar los datos que se enuncian en el Artículo 106 del presente Ordenamiento, se acompañarán los planos de las instalaciones hidráulicas y de los procesos de tratamiento, así como las características físicas, químicas y biológicas del agua residual resultante, tanto de procesos como después del tratamiento a que se someta, sin mezclarse con las descargas provenientes de instalaciones de los servicios sanitarios de limpieza y cocinas.
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
-El Departamento podrá requerir información complementaria para atender la solicitud de conexión y, en su caso, ordenar al usuario el tratamiento de aguas residuales que dañen el sistema de alcantarillado y drenaje.
+En la solicitud para la conexión de descargas de agua residual que se presente a la Secretaría de Obras y Servicios, además de expresar los datos que se enuncian en el Artículo 106 del presente Ordenamiento, se acompañarán los planos de las instalaciones hidráulicas y de los procesos de tratamiento, así como las características físicas, químicas y biológicas del agua residual resultante, tanto de procesos como después del tratamiento a que se someta, sin mezclarse con las descargas provenientes de instalaciones de los servicios sanitarios de limpieza y cocinas.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
+La Secretaría de Obras y Servicios podrá requerir información complementaria para atender la solicitud de conexión y, en su caso, ordenar al usuario el tratamiento de aguas residuales que dañen el sistema de alcantarillado y drenaje.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 112.
 
-La descarga de aguas residuales provenientes de los procesos industriales no deberán exceder del caudal autorizado o las tolerancias que se establecen en las Normas Técnicas Ecológicas o en el dictamen que formule la autoridad competente. Cuando algún usuario requiera cambios en el proceso industrial o en el tratamiento de aguas residuales, deberán solicitar al Departamento, la autorización correspondiente.
+La descarga de aguas residuales provenientes de los procesos industriales no deberán exceder del caudal autorizado o las tolerancias que se establecen en las Normas Técnicas Ecológicas o en el dictamen que formule la autoridad competente. Cuando algún usuario requiera cambios en el proceso industrial o en el tratamiento de aguas residuales, deberán solicitar a la Secretaría de Obras y Servicios, la autorización correspondiente.
 
 ###### ARTICULO 113.
 
 Procederá la solicitud de conexión de las descargas si el interesado satisface los requisitos que al respecto señala el presente Reglamento, siempre que el sistema de alcantarillado tenga capacidad para recibir las descargas debiendo respetarse en su caso, lo previsto por el Artículo 100 de propio Ordenamiento.
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 114.
 
-El Departamento resolverá en cada caso sobre la aceptación del agua residual de las industrias o giros mercantiles, atendiendo a los caudales con sus fluctuaciones; condiciones físicas, químicas y biológicas, y a las instalaciones de recolección, tratamiento y descarga conforme a las Normas Técnicas Ecológicas y al dictamen que sobre el particular rinda la autoridad competente, debiendo el Departamento señalar el lugar de descarga.
+La Secretaría de Obras y Servicios resolverá en cada caso sobre la aceptación del agua residual de las industrias o giros mercantiles, atendiendo a los caudales con sus fluctuaciones; condiciones físicas, químicas y biológicas, y a las instalaciones de recolección, tratamiento y descarga conforme a las Normas Técnicas Ecológicas y al dictamen que sobre el particular rinda la autoridad competente, debiendo la Secretaría de Obras y Servicios señalar el lugar de descarga.
 
 ###### ARTICULO 115.
 
 Los usuarios garantizarán permanentemente el cumplimiento de las Normas Técnicas Ecológicas o el dictamen que al efecto emita la autoridad competente.
 
-El Departamento verificará el cumplimiento de las Normas Técnicas Ecológicas aleatoriamente cuando se presenten anormalidades en el funcionamiento del sistema de alcantarillado y drenaje.
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
+La Secretaría de Obras y Servicios verificará el cumplimiento de las Normas Técnicas Ecológicas aleatoriamente cuando se presenten anormalidades en el funcionamiento del sistema de alcantarillado y drenaje.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 116.
 
-Las técnicas para el aforo del caudal de las descargas y la toma de muestras, así como su conservación, manejo y transporte adecuado para practicar los análisis físicos, químicos o biológicos, se sujetarán a las Normas Técnicas Ecológicas, o a los dictámenes que formule la autoridad competente. Los análisis se harán en laboratorios que autorice el Departamento o en sus laboratorios, previo el pago que haga el usuario.
+Las técnicas para el aforo del caudal de las descargas y la toma de muestras, así como su conservación, manejo y transporte adecuado para practicar los análisis físicos, químicos o biológicos, se sujetarán a las Normas Técnicas Ecológicas, o a los dictámenes que formule la autoridad competente. Los análisis se harán en laboratorios que autorice la Secretaría de Obras y Servicios o en sus laboratorios, previo el pago que haga el usuario.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 117.
 
-Los sitios de muestreo y aforo deberán ser construidos por los usuarios, en lugares accesibles que determine el Departamento, de tal manera que se asegure un mantenimiento constante por parte del usuario y que la operación de muestreo y aforo sea representativa y de fácil realización.
+Los sitios de muestreo y aforo deberán ser construidos por los usuarios, en lugares accesibles que determine la Secretaría de Obras y Servicios, de tal manera que se asegure un mantenimiento constante por parte del usuario y que la operación de muestreo y aforo sea representativa y de fácil realización.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 118.
 
-El Departamento podrá inspeccionar en cualquier momento el aforo, muestreo o análisis físicos, químicos o biológicos de las aguas residuales que efectúan los usuarios, debiendo permitirse, por éstos, la entrada, acceso y manejo de documentos al personal que para tal efecto designe el Departamento, fijando en cada caso los análisis que deban efectuarse para comprobar el cumplimiento de las Normas Técnicas Ecológicas o el dictamen formulado por la autoridad competente.
+La Secretaría de Obras y Servicios podrá inspeccionar en cualquier momento el aforo, muestreo o análisis físicos, químicos o biológicos de las aguas residuales que efectúan los usuarios, debiendo permitirse, por éstos, la entrada, acceso y manejo de documentos al personal que para tal efecto designe la Secretaría de Obras y Servicios, fijando en cada caso los análisis que deban efectuarse para comprobar el cumplimiento de las Normas Técnicas Ecológicas o el dictamen formulado por la autoridad competente.
 
 ###### ARTICULO 119.
 
@@ -1008,15 +1268,19 @@ Los propietarios o encargados de industrias que deban operar plantas de tratamie
 
 ### CAPITULO UNICO. De la participación ciudadana
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 120.
 
-El Departamento nombrará a los inspectores honorarios que apoyen el cumplimiento del presente Reglamento.
+La Secretaría de Obras y Servicios nombrará a los inspectores honorarios que apoyen el cumplimiento del presente Reglamento.
 
 ###### ARTICULO 121.
 
 El cargo de inspector honorario será de servicio social y lo cumplirá el vecino nombrado para tal efecto, en los horarios que le resulten más convenientes ya que su función no será considerada administrativa, no percibirá remuneración alguna. En ningún caso podrá aplicar sanciones ni intervenir en la aplicación de este Reglamento.
 
-Las organizaciones vecinales y los organismos legalmente constituidos, propondrán al Departamento del Distrito Federal a los vecinos que en cada colonia cumplirán la función de inspectores honorarios. Lo anterior no exceptúa que cualquier ciudadano pueda formular su propuesta.
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
+Las organizaciones vecinales y los organismos legalmente constituidos, propondrán a la Secretaría de Obras y Servicios del Distrito Federal a los vecinos que en cada colonia cumplirán la función de inspectores honorarios. Lo anterior no exceptúa que cualquier ciudadano pueda formular su propuesta.
 
 Para el mejor desempeño de sus funciones, se dotará al propio inspector de una credencial que lo identifique y en la que se especificará el carácter no oficial, honorario y gratuito de su labor.
 
@@ -1038,9 +1302,11 @@ V.- Apoyar la elaboración de denuncias populares en los términos de la Ley Eco
 
 Con el objeto de que las políticas de distribución de agua se den en un marco de justicia social y de que los procesos de extracción y recarga de acuíferos se realicen preservando el equilibrio ecológico, la ciudadanía podrá participar en la formulación de propuestas alternativas para el mejor uso y aprovechamiento del agua. Las autoridades correspondientes considerarán las propuestas hechas por la población para ser integradas en los programas que ejecuten.
 
+(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 124.
 
-El Departamento atenderá y resolverá en un plazo que no excederá de 36 horas, los reportes de los usuarios, de los inspectores honorarios y de la ciudadanía en general, acerca de la escasez o fugas de agua en la red de distribución, así como de las anomalías o desperfectos que impidan el correcto suministro de dicho líquido y el correcto funcionamiento en el drenaje y el alcantarillado.
+La Secretaría de Obras y Servicios atenderá y resolverá en un plazo que no excederá de 36 horas, los reportes de los usuarios, de los inspectores honorarios y de la ciudadanía en general, acerca de la escasez o fugas de agua en la red de distribución, así como de las anomalías o desperfectos que impidan el correcto suministro de dicho líquido y el correcto funcionamiento en el drenaje y el alcantarillado.
 
 En las Delegaciones en que se presente el problema de escasez de agua y existan las instalaciones para su distribución, las autoridades garantizarán una distribución equitativa atendiendo las propuestas de la población afectada.
 
@@ -1048,9 +1314,11 @@ En las Delegaciones en que se presente el problema de escasez de agua y existan 
 
 ### CAPITULO I. De las visitas de inspección
 
+(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 125.
 
-El Departamento ejercerá las funciones de inspección y vigilancia que corresponda, de conformidad con lo previsto en el presente Reglamento y demás disposiciones, sin perjuicio de las facultades que a otras dependencias de la Administración Pública Federal confieren los ordenamientos aplicables.
+La Secretaría de Obras y Servicios ejercerá las funciones de inspección y vigilancia que corresponda, de conformidad con lo previsto en el presente Reglamento y demás disposiciones, sin perjuicio de las facultades que a otras dependencias de la Administración Pública Federal confieren los ordenamientos aplicables.
 
 A fin de que se lleven a cabo las inspecciones, el usuario tendrá la obligación de permitir el acceso al lugar y mostrar la documentación necesaria a los inspectores comisionados.
 
@@ -1060,13 +1328,17 @@ Las inspecciones tendrán por objeto exclusivo verificar que las instalaciones h
 
 El inspector deberá contar con orden por escrito mecanografiada que contendrá el nombre del inspector, la fecha, ubicación del predio, industria, giro mercantil o establecimiento por inspeccionar, el objeto de la visita, la fundamentación y motivación, así como el nombre y la firma autógrafa de la autoridad que expida la orden.
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 127.
 
-El Departamento deberá imprimir en el reverso de las órdenes de inspección, el articulado del Capítulo I del Título Octavo del presente Reglamento, así como el Artículo 146 relativo al recurso de inconformidad y el segundo párrafo del Artículo 16 constitucional. Asimismo deberá indicarse la sanción a que se hace acreedor el usuario que obstaculiza una inspección.
+La Secretaría de Obras y Servicios deberá imprimir en el reverso de las órdenes de inspección, el articulado del Capítulo I del Título Octavo del presente Reglamento, así como el Artículo 146 relativo al recurso de inconformidad y el segundo párrafo del Artículo 16 constitucional. Asimismo deberá indicarse la sanción a que se hace acreedor el usuario que obstaculiza una inspección.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 128.
 
-El inspector deberá identificarse con la credencial vigente que para tal efecto proporcione el Departamento a su personal y entregará al visitado la orden de inspección que constará en acta que se levante al efecto y de la cual deberá entregar una copia al visitado.
+El inspector deberá identificarse con la credencial vigente que para tal efecto proporcione la Secretaría de Obras y Servicios a su personal y entregará al visitado la orden de inspección que constará en acta que se levante al efecto y de la cual deberá entregar una copia al visitado.
 
 ###### ARTICULO 129.
 
@@ -1096,17 +1368,23 @@ El visitado podrá inconformarse de los hechos asentados en el acta respectiva, 
 
 ### CAPITULO II. De las sanciones
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 132.
 
-El Departamento, en los términos de este capítulo, sancionará con multa o clausura, a los propietarios o poseedores de los predios, construcciones, titulares o propietarios de giros, establecimientos mercantiles o industrias y a quienes resulten responsables de las infracciones derivadas de las visitas de inspección a que se refiere el Capítulo anterior.
+La Secretaría de Obras y Servicios, en los términos de este capítulo, sancionará con multa o clausura, a los propietarios o poseedores de los predios, construcciones, titulares o propietarios de giros, establecimientos mercantiles o industrias y a quienes resulten responsables de las infracciones derivadas de las visitas de inspección a que se refiere el Capítulo anterior.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 133.
 
-Cuando de manera flagrante se viole lo dispuesto en los Artículos 29 y 30, el Departamento procederá a levantar de inmediato la infracción correspondiente que ascenderá a tres días de salario mínimo diario general vigente en el caso del Artículo 29 y a seis días de salario mínimo diario general vigente en el supuesto del Artículo 30.
+Cuando de manera flagrante se viole lo dispuesto en los Artículos 29 y 30, la Secretaría de Obras y Servicios procederá a levantar de inmediato la infracción correspondiente que ascenderá a tres días de salario mínimo diario general vigente en el caso del Artículo 29 y a seis días de salario mínimo diario general vigente en el supuesto del Artículo 30.
+
+(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 134.
 
-El Departamento para fijar la sanción deberá tomar en cuenta las condiciones personales del infractor, la gravedad de la infracción, las modalidades y demás circunstancias en que la misma se haya cometido.
+La Secretaría de Obras y Servicios para fijar la sanción deberá tomar en cuenta las condiciones personales del infractor, la gravedad de la infracción, las modalidades y demás circunstancias en que la misma se haya cometido.
 
 Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
 
@@ -1118,17 +1396,21 @@ ARTICULO 134 BIS.- Se sancionará con multa de 100 a 1,000 días de salario mín
 
 En caso de reincidencia, además de las sanciones que establece el artículo 136, se impondrá a los infractores la clausura temporal o definitiva, parcial o total del predio, construcción, establecimiento, giro mercantil o industria.
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 135.
 
-En caso de que el usuario no cumpla con las disposiciones giradas dentro del término establecido a las mismas con base en este Reglamento y los demás ordenamientos aplicables, el Departamento estará facultado para ejecutar a costa del propio usuario las obras, reparaciones y adaptaciones que haya ordenado.
+En caso de que el usuario no cumpla con las disposiciones giradas dentro del término establecido a las mismas con base en este Reglamento y los demás ordenamientos aplicables, la Secretaría de Obras y Servicios estará facultado para ejecutar a costa del propio usuario las obras, reparaciones y adaptaciones que haya ordenado.
 
 ###### ARTICULO 136.
 
 Al infractor que dentro del periodo de un año, reincida en la misma falta, se le aplicará el doble de la sanción que corresponda a la última multa impuesta.
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 137.
 
-Al que incumpla las disposiciones contenidas en este Reglamento, relacionadas con la facultad de comprobación y verificación de las instalaciones hidráulicas, impida u obstaculice su inspección o visita, se le sancionará administrativamente en los términos previstos por la Ley de Hacienda del Departamento del Distrito Federal y sus correlativos del Código Fiscal de la Federación, la Ley de Salud para el Distrito Federal y la Ley Ecológica.
+Al que incumpla las disposiciones contenidas en este Reglamento, relacionadas con la facultad de comprobación y verificación de las instalaciones hidráulicas, impida u obstaculice su inspección o visita, se le sancionará administrativamente en los términos previstos por el Código Financiero del Distrito Federal y sus correlativos del Código Fiscal de la Federación, la Ley de Salud para el Distrito Federal y la Ley Ecológica.
 
 ###### ARTICULO 138.
 
@@ -1146,39 +1428,53 @@ Se sancionará con multa de hasta 20 días de salario mínimo diario general vig
 
 La alteración, el deterioro o la destrucción de la red de drenaje y alcantarillado por descargar aguas residuales provenientes de procesos industriales que excedan los niveles permitidos por las Normas Técnicas Ecológicas, se sancionará en los términos de la Ley Ecológica.
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 142.
 
-La modificación o manipulación a los ramales de las tuberías de distribución de agua potable, así como la interconexión entre la toma de agua potable y la de agua residual tratada, se sancionará en los términos de la Ley de Hacienda del Departamento del Distrito Federal.
+La modificación o manipulación a los ramales de las tuberías de distribución de agua potable, así como la interconexión entre la toma de agua potable y la de agua residual tratada, se sancionará en los términos del Código Financiero del Distrito Federal.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 143.
 
-El Departamento en su calidad de autoridad sanitaria del Distrito Federal sancionará administrativamente a quienes incurran en violaciones a este Reglamento y a la Ley de Salud para el Distrito Federal, que produzcan o puedan producir daños en la salud de las personas y aplicará las multas, medidas de apremio y de seguridad contempladas en la Ley de Salud para el Distrito Federal.
+La Secretaría de Obras y Servicios en su calidad de autoridad sanitaria del Distrito Federal sancionará administrativamente a quienes incurran en violaciones a este Reglamento y a la Ley de Salud para el Distrito Federal, que produzcan o puedan producir daños en la salud de las personas y aplicará las multas, medidas de apremio y de seguridad contempladas en la Ley de Salud para el Distrito Federal.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 144.
 
-La imposición y cumplimiento de las sanciones, no eximirá al infractor de la obligación de corregir las irregularidades que hayan constituido la infracción. En caso de no hacerlo el usuario, lo hará el Departamento a su cargo. Cuando con la infracción a las disposiciones del presente Ordenamiento se presuma la comisión de un delito se consignarán los hechos al Ministerio Público.
+La imposición y cumplimiento de las sanciones, no eximirá al infractor de la obligación de corregir las irregularidades que hayan constituido la infracción. En caso de no hacerlo el usuario, lo hará la Secretaría de Obras y Servicios a su cargo. Cuando con la infracción a las disposiciones del presente Ordenamiento se presuma la comisión de un delito se consignarán los hechos al Ministerio Público.
+
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 145.
 
-Atendiendo a la gravedad de la infracción, a que se ponga en peligro la salud o se corra el riesgo de daños graves a los sistemas de agua, drenaje, alcantarillado o acuíferos, así como cuando no se corrija la falta después de aplicar la multa por reincidencia, el Departamento procederá a la clausura temporal o definitiva, parcial o total del predio, construcción, establecimiento, giro mercantil o industrial de que se trate.
+Atendiendo a la gravedad de la infracción, a que se ponga en peligro la salud o se corra el riesgo de daños graves a los sistemas de agua, drenaje, alcantarillado o acuíferos, así como cuando no se corrija la falta después de aplicar la multa por reincidencia la Secretaría de Obras y Servicios procederá a la clausura temporal o definitiva, parcial o total del predio, construcción, establecimiento, giro mercantil o industrial de que se trate.
 
 ### CAPITULO III. Del recurso de inconformidad
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 146.
 
-Los actos y resoluciones administrativos emitidos por las autoridades del Departamento, podrán ser impugnados por los particulares mediante la interposición del recurso de inconformidad.
+Los actos y resoluciones administrativos emitidos por las autoridades la Secretaría de Obras y Servicios, podrán ser impugnados por los particulares mediante la interposición del recurso de inconformidad.
 
 ###### ARTICULO 147.
 
 El recurso de inconformidad tendrá por objeto que la autoridad que dictó la resolución administrativa impugnada, la confirme, modifique o revoque.
 
+(REFORMADO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
+
 ###### ARTICULO 148.
 
-El recurso de inconformidad se interpondrá por escrito ante la misma autoridad emisora, dentro de los quince días siguientes a la notificación del acto o resolución administrativa correspondiente, y se tramitará en los mismos términos que contra resoluciones emitidas por autoridades fiscales, conforme lo dispone la Ley de Hacienda del Departamento del Distrito Federal.
+El recurso de inconformidad se interpondrá por escrito ante la misma autoridad emisora, dentro de los quince días siguientes a la notificación del acto o resolución administrativa correspondiente, y se tramitará en los mismos términos que contra resoluciones emitidas por autoridades fiscales, conforme lo dispone el Código Financiero del Distrito Federal.
+
+(REFORMADO PRIMER PARRAFO, G.O. 20 DE OCTUBRE DE 1997) (REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997)
 
 ###### ARTICULO 149.
 
-El recurrente podrá solicitar la suspensión de la ejecución del acto o resolución que se reclame, la cual será concedida siempre que, a juicio de la autoridad, no sea en perjuicio de la colectividad o se contravengan disposiciones de orden público. Cuando con la suspensión se puedan causar daños o perjuicios al Departamento o a terceros, sólo se concederá si el recurrente otorga ante la Tesorería alguna de las garantías a que se refiere el Código Fiscal de la Federación.
+El recurrente podrá solicitar la suspensión de la ejecución del acto o resolución que se reclame, la cual será concedida siempre que, a juicio de la autoridad, no sea en perjuicio de la colectividad o se contravengan disposiciones de orden público. Cuando con la suspensión se puedan causar daños o perjuicios a la Secretaría de Obras y Servicios o a terceros, sólo se concederá si el recurrente otorga ante la Tesorería alguna de las garantías a que se refiere el Código Fiscal de la Federación.
 
 El monto de la garantía será el suficiente para asegurar la reparación del daño y garantizar los perjuicios que se pudieran causar y será fijada por la autoridad de la que haya emanado el acto.
 
@@ -1237,3 +1533,11 @@ REPUBLICADO, D.O.F. 6 DE AGOSTO DE 1993.
 PRIMERO.- La presente reforma y adición al Reglamento del Servicio de Agua y Drenaje para el Distrito Federal, entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Departamento del Distrito Federal.
 
 SEGUNDO.- Por ser de interés general, publíquese en el Diario Oficial de la Federación.
+
+G.O. 20 DE OCTUBRE DE 1997.
+
+REPUBLICADO, D.O.F. 21 DE OCTUBRE DE 1997.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos que se encuentren en trámite a la entrada en vigor de este Decreto se sustanciarán, en lo que beneficie a los interesados, conforme a lo previsto en este Decreto.
