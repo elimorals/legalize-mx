@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2001-03-20"
+last_updated: "2002-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2002.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -219,15 +219,13 @@ Todo ciudadano guanajuatense tiene derecho a participar en la vida política del
 
 Los ciudadanos guanajuatenses tienen el derecho de afiliarse, individual y libremente, al Partido o Asociación Política de su preferencia, cumpliendo con los requisitos estatutarios de ingreso.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 17.
 
-Los Partidos Políticos son entidades de interés público y tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del Poder Público, de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo.
+Los Partidos Políticos son entidades de interés público y tienen como fin primordial promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y municipal y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del Poder Público, de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo, para ello tendrán derecho a postular candidatos por sí mismos, candidatos comunes o a través de coaliciones, en los términos que establezca la Ley de la materia.
 
-> <small>(F. DE E., P.O. 2 DE DICIEMBRE DE 1994)</small>
-
-El Estado garantizará que los Partidos Políticos cuenten, en forma equitativa, con un mínimo de elementos para el desarrollo de sus actividades. La Ley determinará las formas específicas de su intervención en los procesos electorales, sus derechos, prerrogativas, formas y reglas de financiamiento, así como los topes y bases a sus gastos de campaña. Los Partidos Políticos deberán rendir informes financieros, mismos que serán públicos.
+El Estado garantizará que los Partidos Políticos cuenten, en forma equitativa, con un mínimo de elementos para el desarrollo de sus actividades. La Ley determinará las formas específicas de su intervención en los procesos electorales, sus derechos, prerrogativas, formas y reglas de financiamiento, así como los topes y bases a sus gastos de campaña. Los Partidos Políticos deberán rendir informes justificados sobre el origen y uso de todos los recursos con que cuenten, para efectos de la fiscalización a que se refiere el Artículo 31 de esta Constitución, en los términos de la Ley de la materia. Dichos informes serán públicos.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -303,7 +301,13 @@ V.- Ejercer el Derecho de Petición;
 
 VI.- Ser preferido, en igualdad de condiciones, sobre los no guanajuatenses, para el otorgamiento de empleo, cargo o comisión pública; y,
 
-VII.- Las demás que señalen las Leyes.
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+VII.- Participar en los procesos de plebiscito y referéndum, así como en el procedimiento de iniciativa popular previstos en esta Constitución y en la Ley correspondiente;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+VIII.- Las demás que señalen las leyes.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -317,11 +321,17 @@ II.- Alistarse en la Guardia Nacional;
 
 III.- Votar en las elecciones populares;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
 
-IV.- Desempeñar los demás cargos gratuitos que se les señalaren, relativos a funciones electorales y censales, pero serán retribuidas aquellas que se realicen profesionalmente en los términos de esta Constitución y las Leyes correspondientes; y
+IV.- Votar en los procesos de plebiscito y referéndum;
 
-V.- Las demás que dispongan las Leyes.
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+V.- Desempeñar, de manera gratuita, los cargos que les señale la autoridad competente en los procesos de plebiscito, referéndum, electorales y censales, pero serán retribuidos aquellos que se realicen profesionalmente en los términos de esta Constitución y las leyes correspondientes; y
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+VI.- Las demás que dispongan las leyes.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -385,15 +395,27 @@ El Estado de Guanajuato está constituído por la reunión de sus habitantes y p
 
 Todo Poder Público dimana del pueblo y se instituye para su beneficio.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+El referéndum, el plebiscito y la iniciativa popular son formas de participación ciudadana.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+El Organismo Público Autónomo a que se refiere el Artículo 31 de esta Constitución tendrá a su cargo la declaración de procedencia, organización, desarrollo y validación, en su caso, de las formas de participación ciudadana que señala esta Constitución en los términos de la Ley correspondiente.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Los actos y resoluciones que emita el Organismo Público Autónomo en materia de participación ciudadana podrán ser impugnados en los términos que disponga la Ley correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 31.
 
-La soberanía del Estado reside originalmente en el pueblo y en el nombre de éste la ejercen los Titulares del Poder Público, del modo y en los términos que establecen la Constitución Federal, esta Constitución y las Leyes.
+La Soberanía del Estado reside originalmente en el pueblo y en el nombre de éste la ejercen los Titulares del Poder Público, del modo y en los términos que establecen la Constitución Federal, esta Constitución y las Leyes.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2002)</small>
 
-La organización de las elecciones es una función estatal que se realiza a través de un Organismo Público Autónomo, con la concurrencia de los poderes del Estado, de los partidos políticos y de los ciudadanos según lo disponga la Ley. El organismo público será funcionalmente independiente, dotado de personalidad jurídica, patrimonio propio y facultad reglamentaria.
+La Organización de las elecciones es una función estatal que se realiza a través de un Organismo Público Autónomo, con la concurrencia de los poderes del Estado, de los partidos políticos y de los ciudadanos según lo disponga la Ley. El organismo público será funcionalmente independiente, dotado de personalidad jurídica, patrimonio propio y facultad reglamentaria.
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
@@ -419,9 +441,9 @@ El Estado de Guanajuato contará con un registro estatal de electores que tendr�
 
 Los consejeros ciudadanos del órgano de dirección, serán designados por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de entre los propuestos por los grupos parlamentarios en la propia Legislatura y del Poder Ejecutivo del Estado. La Ley establecerá las reglas, requisitos y procedimientos para su designación.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2002)</small>
 
-El Organismo Autónomo, en los términos que determine la Ley, realizará las actividades propias e inherentes al ejercicio de la función estatal electoral, otorgará las constancias de mayoría y declarará la validez de las elecciones de Gobernador, de Ayuntamiento en cada uno de los Municipios de la entidad, así como de los Diputados al Congreso del Estado y hará la asignación de regidores y de Diputados, de representación proporcional en los términos de los Artículos 44 y 109 de esta Constitución. Las sesiones de todos los órganos colegiados electorales serán públicas en los términos que disponga la Ley.
+El Organismo Autónomo, en los términos que determine la Ley, realizará las actividades propias e inherentes al ejercicio de la función estatal electoral, otorgará las constancias de mayoría y declarará la validez de las elecciones de Gobernador, de Ayuntamiento en cada uno de los Municipios de la Entidad, así como de los Diputados al Congreso del Estado, hará la asignación de regidores y de Diputados de representación proporcional en los términos de los Artículos 44 y 109 de esta Constitución, así mismo fiscalizará el origen y uso de todos los recursos con que cuenten los partidos políticos, en los términos de la Ley de la materia. Las sesiones de todos los órganos colegiados electorales serán públicas en los términos que disponga la Ley.
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
@@ -493,7 +515,9 @@ I.- Que la superficie territorial en que se pretenda constituir no sea menor de 
 
 II.- Que la población que habite en esa superficie sea mayor de setenta mil habitantes;
 
-III.- Que lo soliciten los ciudadanos del territorio afectado, como resultado de un plebiscito que se convoque para el efecto;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+III.- Que lo soliciten los ciudadanos del Municipio afectado, como resultado de un plebiscito que se convoque en los términos de la Ley correspondiente;
 
 IV.- Que el poblado que se elija como Cabecera Municipal tenga una población que no sea inferior a veinte mil habitantes;
 
@@ -559,11 +583,11 @@ Jamás podrán reunirse dos o más de estos Poderes en un solo individuo o corpo
 
 El Congreso del Estado de Guanajuato se compondrá de representantes populares electos en su totalidad cada tres años, mediante votación libre, directa y secreta. Por cada Diputado Propietario se elegirá un Suplente.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2002)</small>
 
 ###### ARTICULO 42.
 
-El Congreso del Estado estará integrado por veintidós diputados electos según el principio de representación mayoritaria relativa, mediante el sistema de Distritos Electorales Uninominales, y hasta catorce diputados electos según el principio de representación proporcional, mediante el sistema de listas votadas en una sola circunscripción que abarca todo el territorio del Estado.
+El Congreso del Estado estará integrado por veintidós Diputados electos según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y catorce Diputados electos según el principio de representación proporcional, mediante el sistema de listas a que se refiere la fracción I del Artículo 44 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
@@ -577,17 +601,35 @@ El Congreso del Estado, a propuesta del organismo autónomo a que se refiere el 
 
 La elección de los Diputados según el principio de representación proporcional mediante el sistema de listas, se sujetará a las bases generales siguientes y a lo que en lo particular disponga la Ley:
 
-I.- Para obtener el registro de sus listas de candidatos el Partido Político que lo solicite deberá acreditar que participa con candidatos a diputados por mayoría relativa, en por lo menos las dos terceras partes de los distritos uninominales y que tiene su registro como Partido Político Nacional o Estatal;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
 
-II.- Se distribuirán en total hasta dos diputaciones de representación proporcional; una para cada partido político que haya cumplido con lo dispuesto en la fracción anterior, no hubiere alcanzado mayoría en ninguno de los Distritos Uninominales y hubiese obtenido una votación superior al uno punto cinco por ciento y menor al tres por ciento de los sufragios validamente emitidos;
+I.- Para obtener el registro de sus listas de candidatos el partido político que lo solicite deberá acreditar que participa con candidatos a diputados por mayoría relativa, en por lo menos quince de los distritos uninominales y que cuenta con registro como partido político nacional o estatal.
+
+La lista de candidatos de cada partido político se integrará con:
+
+a).- Las propuestas que los partidos políticos presenten; y
+
+b).- Los candidatos de las fórmulas por el principio de mayoría relativa que no hayan obtenido constancia de mayoría pero sean los que hayan obtenido el mayor porcentaje de votación del partido político que los postuló.
+
+La asignación de los Diputados que correspondan a cada partido político la hará el Organismo Público Autónomo de manera alternada cada tres asignaciones de entre las opciones que integran la lista anterior, iniciando por las propuestas contenidas en el inciso a); en la forma y términos que señale la Ley de la materia;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+II.- Se distribuirán en total dos Diputaciones de representación proporcional; una para cada partido político que habiendo cumplido con lo dispuesto en la fracción anterior, no hubiere alcanzado mayoría en ninguno de los Distritos Uninominales y hubiese obtenido una votación superior al dos por ciento y menor al tres por ciento de los sufragios válidamente emitidos;
 
 III.- En el caso de que fueren más de dos los Partidos Políticos que se encuentren en el supuesto de la fracción anterior, las asignaciones se harán exclusivamente en favor de los dos partidos políticos que, en tal caso, hubieren obtenido mayor número de votos;
 
-IV.- Hasta doce diputaciones por el principio de representación proporcional, serán asignadas a los partidos políticos cuyo porcentaje de la votación obtenida hubiere sido cuando menos igual o mayor al tres por ciento de la votación total validamente emitida;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
 
-V.- Los partidos políticos a que se encuentren en el supuesto de la fracción anterior tendrán derecho a que les sean asignadas Diputaciones según el principio de representación proporcional, de modo que la suma de sus diputados, por ambos principios, representen el porcentaje más aproximado posible al que de la votación total validamente emitida, hubiesen obtenido en la elección; y
+IV.- Doce Diputaciones por el principio de representación proporcional, serán asignadas a los partidos políticos cuyo porcentaje de la votación obtenida hubiere sido cuando menos el tres por ciento de la votación total válidamente emitida;
 
-VI.- Cuando la asignación de diputados no pueda realizarse total o parcialmente, en los términos de la fracción II de este artículo, se procederá, en su caso, a adjudicar una diputación al Partido Político que hubiere obtenido la mayor votación y alcanzado la mayoría de los Distritos Uninominales; aún cuando con ello, rebase la relación de porcentaje entre la votación obtenida y el número de curules por ambos principios; en el supuesto de que el Partido Político no tenga la mayoría relativa de los miembros del Congreso, se le podrán asignar hasta las dos diputaciones, de ser posible, de conformidad con lo previsto en este precepto.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+V.- Los Partidos Políticos que se encuentren en el supuesto de la fracción anterior tendrán derecho a que les sean asignadas Diputaciones según el Principio de Representación Proporcional, de modo que la suma de sus diputados, por ambos principios, representen el porcentaje más aproximado posible al que de la votación total válidamente emitida, hubiesen obtenido en la elección. En ningún caso un partido político podrá contar con más de veinticinco diputados por ambos principios; y
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+VI.- Cuando la asignación de Diputados no pueda realizarse total o parcialmente, en los términos de la fracción II de este artículo, se procederá, en su caso, a adjudicar una Diputación al Partido Político que hubiere obtenido la mayor votación y alcanzado la mayoría de los Distritos Uninominales; aún cuando con ello, rebase la relación de porcentaje ente (sic) la votación obtenida y el número de curules por ambos principios; en el supuesto de que el Partido Político no tenga la mayoría relativa de los miembros del Congreso, se le podrán asignar hasta las dos Diputaciones, de ser posible, de conformidad con lo previsto en este precepto. En el caso de que aun quedaran diputaciones por repartir, éstas se asignarán en los términos de las fracciones IV y V de este artículo.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -595,7 +637,9 @@ VI.- Cuando la asignación de diputados no pueda realizarse total o parcialmente
 
 Para ser Diputado se requiere:
 
-I.- Ser ciudadano guanajuatense en ejercicio de sus derechos y no haber sido condenado ejecutoriamente por delitos cometidos en ejercicio de funciones públicas o por delitos graves del orden común;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+I.- Ser ciudadano guanajuatense en ejercicio de sus derechos;
 
 II.- Tener por lo menos 21 años cumplidos al día de la elección; y,
 
@@ -697,7 +741,13 @@ II.- A los Diputados al Congreso del Estado;
 
 III.- Al Supremo Tribunal de Justicia en el ramo de sus atribuciones; y,
 
-IV.- A los Ayuntamientos o Concejos Municipales.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+IV.- A los Ayuntamientos o Concejos Municipales; y,
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+V.- A los ciudadanos que representen cuando menos el tres por ciento de los inscritos en la lista nominal de electores correspondientes a la Entidad y reúnan los requisitos previstos en la Ley.
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -708,6 +758,18 @@ Cuando la iniciativa incida en la competencia municipal, el Congreso recabará l
 ###### ARTICULO 57.
 
 Las resoluciones del Congreso tendrán el carácter de Leyes, Decretos o Acuerdos.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Las leyes que expida el Congreso, con excepción de las financieras, las orgánicas de los Poderes del Estado y del Gobierno Municipal, y las demás que determine la Ley correspondiente, podrán ser sometidas a referéndum. La Ley de la materia establecerá los requisitos y procedimiento para su ejecución, así como para que el resultado sea vinculatorio para el Congreso del Estado. Si el resultado del referéndum es en el sentido de desaprobar la Ley, el Congreso del Estado emitirá el decreto abrogatorio o derogatorio que proceda en un plazo no mayor de quince días si se encuentra en periodo ordinario, o bien si se encuentra en receso, en la segunda sesión del periodo ordinario inmediato subsecuente.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+La realización del referéndum sólo podrá ser solicitada por los Diputados al Congreso del Estado o por los ciudadanos en los términos de la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Dentro de los dos años contados a partir de la publicación del decreto abrogatorio o derogatorio, resultado de un proceso de referéndum, no podrá expedirse Ley en el mismo sentido del abrogado o derogado.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -731,7 +793,11 @@ II.- Resoluciones que dicte el Congreso erigido en Colegio Electoral;
 
 III.- Las que dicte el Congreso, en Juicio Político o en Declaración de Procedencia de Desafuero; y,
 
-IV.- Las Leyes y Reglamentos que se refieran a su estructura y funcionamiento.
+IV.- Las Leyes y Reglamentos que se refieran a su estructura y funcionamiento;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+V.- Los decretos que abroguen o deroguen una Ley en cumplimiento a un proceso de referéndum.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -763,7 +829,9 @@ Son facultades del Congreso del Estado:
 
 I.- Expedir las Leyes y Reglamentos que regulen su estructura y funcionamiento, las que, para su vigencia, no requerirán de promulgación del Ejecutivo;
 
-II.- Expedir, reformar y adicionar cuantas Leyes o Decretos sean conducentes al Gobierno y administración en todos los ramos que comprenden y que no estén, de manera exclusiva, reservados a la Federación;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+II.- Expedir, reformar y adicionar cuantas leyes o decretos sean conducentes al gobierno y administración en todos los ramos que comprenden y que no estén, de manera exclusiva, reservados a la federación; así como aquellos que resulten conducentes al cumplimiento de la resolución derivada de un proceso de referéndum;
 
 III.- Hacer la codificación de las Leyes del Estado;
 
@@ -783,6 +851,10 @@ VIII.- Nombrar entre los vecinos, cuando se declare la nulidad de elección de a
 
 Convocar a elecciones extraordinarias para Diputados, cuando se declare la nulidad de la elección en uno o varios distritos, o en el caso previsto por el segundo párrafo del artículo 53 de esta Constitución. La convocatoria para elecciones extraordinarias de Diputados, deberá expedirse en un plazo igual al señalado en el párrafo anterior;
 
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Si de los cómputos de una elección de Ayuntamientos o de Diputados por al (sic) principio de mayoría relativa, resultara en el primer lugar un número igual de votos para dos o más planillas o fórmulas de candidatos, respectivamente, el órgano electoral competente hará la declaratoria del empate correspondiente, misma que hará del conocimiento del Congreso del Estado, una vez que haya quedado firme. El Congreso del Estado convocará a quienes hayan obtenido el empate para que se lleve a cabo una nueva elección, en un plazo no mayor de dos meses. En el caso de que el empate se presente en una elección de Ayuntamiento, se nombrará un concejo municipal en los términos del primer párrafo de esta fracción;
+
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
 IX.- Declarar Gobernador electo, mediante formal decreto, a quien en los términos de la declaratoria del Organismo Autónomo Estatal o, en su caso, de la resolución del Tribunal Estatal Electoral haya obtenido mayoría de votos en la elección correspondiente;
@@ -790,6 +862,10 @@ IX.- Declarar Gobernador electo, mediante formal decreto, a quien en los términ
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
 X.- Convocar a elecciones de Gobernador, en caso de nulidad de los comicios, si el electo no se presenta a tomar posesión del cargo, o en caso de falta absoluta ocurrida dentro de los tres primeros años del período constitucional, dicha convocatoria deberá expedirse en un plazo no mayor de seis meses;
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+En los mismos términos se procederá cuando el organismo electoral competente comunique, una vez que quede firme, la declaratoria del empate en primer lugar de la votación en una elección de Gobernador. En este caso la elección se efectuará entre quienes hayan obtenido el empate en un plazo no mayor de dos meses;
 
 XI.- Reformar, mediante el voto de las dos terceras partes de los Diputados y con aprobación de la mayoría de los Ayuntamientos, la división política del Estado;
 
@@ -811,9 +887,9 @@ XVI.- Autorizar al Ejecutivo del Estado para que ejerza cualquier acto de domini
 
 XVII.- Desafectar los bienes destinados a un servicio público o los de uso común del Estado;
 
-XVIII.- Proceder al análisis, revisión y dictamen de la Cuenta Pública que el Ejecutivo del Estado le deberá rendir en períodos de no más de tres meses. Dicha cuenta tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los conceptos del gasto señalados en el presupuesto y el cumplimiento de los objetivos contenidos en los programas. Asimismo, deberá dictaminar el concentrado de la Cuenta Pública Anual que le presentará el Ejecutivo.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
 
-Si del examen que se realice aparecieran desviaciones o discrepancias en las tendencias del gasto, en las partidas o en los conceptos del presupuesto, deberá hacer las observaciones que correspondan y, en su caso, fincar las responsabilidades de acuerdo con la Ley;
+XVIII.- Fiscalizar la cuenta pública de los Poderes Ejecutivo y Judicial, así como de las entidades de la administración pública paraestatal y de los organismos autónomos, a través de su Órgano de Fiscalización, en los términos de la Ley Orgánica correspondiente;
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -943,7 +1019,9 @@ Para ser Gobernador del Estado se requiere:
 
 I.- Ser ciudadano mexicano por nacimiento, originario del Estado o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección;
 
-II.- Estar en ejercicio de sus derechos civiles y políticos; y,
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+II.- Estar en ejercicio de sus derechos; y
 
 III.- Tener por lo menos treinta y cinco años cumplidos al día de la elección.
 
@@ -1097,7 +1175,25 @@ b).- Con los Municipios, a fin de que éstos lleven a cabo la prestación de ser
 
 Asimismo, asumirá el ejercicio de una función o la prestación de un servicio público municipal, de acuerdo al procedimiento y condiciones que señale la Ley, cuando a falta de convenio, el Congreso del Estado declare la imposibilidad del Municipio para ejercerla o prestarlo; y
 
-XXIII.- Las demás que le concedan esta Constitución y las Leyes.
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+XXIII.- Dar cumplimiento a las resoluciones derivadas de un proceso de plebiscito; y
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+XXIV.- Las demás que le concedan esta Constitución y las leyes.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Los actos o decisiones del Gobernador del Estado, que se consideren trascendentales para el orden público o el interés social de la Entidad, con excepción de los que se refieran al nombramiento o destitución de los titulares de secretarías o dependencias del Ejecutivo o los realizados por causa de utilidad pública, podrán ser sometidos a plebiscito, a solicitud del Titular del Poder Ejecutivo o los ciudadanos. La Ley de la materia establecerá los requisitos y procedimiento para su ejecución, así como para que el resultado sea vinculatorio para el Titular del Poder Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Dentro de los dos años contados a partir de la publicación del decreto o acuerdo abrogatorio o derogatorio, resultado del plebiscito, no podrá expedirse decreto o acuerdo en el mismo sentido del abrogado o derogado.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Salvo en el caso de que el plebiscito sea solicitado por el titular del Poder Ejecutivo, el procedimiento no suspenderá los efectos del acto o decisión correspondiente. Si el resultado del plebiscito es en el sentido de desaprobar dicho acto o decisión, el titular del Poder Ejecutivo emitirá el decreto o acuerdo revocatorio que proceda en un plazo no mayor de quince días.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1545,7 +1641,9 @@ II.- Los Regidores serán electos por el Principio de Representación Proporcion
 
 Para ser Presidente Municipal, Síndico o Regidor, se requiere:
 
-I.- Ser ciudadano guanajuatense en ejercicio de sus derechos civiles y políticos y no haber sido condenado ejecutoriamente por delito grave del orden común;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+I.- Ser ciudadano guanajuatense en ejercicio de sus derechos;
 
 II.- Tener, por lo menos, veintiún años cumplidos al día de la elección; y,
 
@@ -1713,7 +1811,33 @@ XIV.- Celebrar convenios de coordinación y asociación con otros Municipios par
 
 Asimismo, los Ayuntamientos podrán convenir con el Ejecutivo del Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de alguno de los servicios públicos o funciones de su competencia; o bien para que el servicio o la función se preste coordinadamente entre el Estado y el Municipio.
 
-XV.- Las demás facultades y obligaciones que les señale la Ley.
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+XV.- Dar cumplimiento a las resoluciones derivadas de los procesos de referéndum o plebiscito; y
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2002)</small>
+
+XVI.- Las demás facultades y obligaciones que le señale la ley.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Los reglamentos y demás disposiciones de carácter general, así como los actos de gobierno de los Ayuntamientos que se consideren trascendentes para el orden público y el interés social de los municipios, con excepción de los reglamentos que se refieran a la organización y estructura del ayuntamiento y de la administración pública municipal y de los bandos de policía y buen gobierno, de las disposiciones de carácter financiero, de los nombramientos o destitución de los titulares de las dependencias y entidades de la administración pública municipal, podrán ser sometidos a referéndum o plebiscito, a solicitud de los Ayuntamientos o de los ciudadanos en los términos de la Ley correspondiente.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Además de los señalados en el párrafo anterior, la Ley establecerá las materias de excepción, así como los requisitos y procedimientos para su ejecución y condiciones para que el resultado sea vinculatorio para los Ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Dentro de los dos años contados a partir de la publicación del decreto o acuerdo abrogatorio o derogatorio, resultado del plebiscito o referéndum, no podrá expedirse decreto o acuerdo en el mismo sentido del abrogado o derogado.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Salvo en el caso de que el plebiscito sea solicitado por el ayuntamiento, el procedimiento no suspenderá los efectos del acto o decisión correspondiente.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Si el resultado del plebiscito o referéndum es en el sentido de desaprobar el acto o decisión del Ayuntamiento, éste emitirá el decreto o acuerdo revocatorio que proceda en un plazo no mayor de treinta días.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1849,7 +1973,9 @@ En las demandas del Orden Civil, no hay fuero ni inmunidad para ningún Funciona
 
 Ningún ciudadano podrá desempeñar a la vez dos cargos de elección popular, pero el nombrado podrá optar entre ambos. No podrán reunirse en un mismo individuo dos o más cargos o empleos públicos por los que perciba sueldo, sino con permiso especial del Congreso, exceptuándose los docentes.
 
-La infracción de estas disposiciones será castigada con la pérdida de los cargos.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+La infracción a estas disposiciones será sancionada por el Congreso del Estado con la pérdida de los cargos, en los términos de su Ley Orgánica.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
 
@@ -1936,6 +2062,22 @@ Esta Constitución y la Constitución Política de los Estados Unidos Mexicanos,
 ###### ARTICULO 143.
 
 En todo tiempo puede ser reformada o adicionada la presente Constitución. Para que las adiciones o reformas lleguen a ser parte de la misma, es indispensable que el Congreso las apruebe por el voto de cuando menos el setenta por ciento de sus miembros y, además, sean aprobadas por la mayoría de los Ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Las reformas y adiciones a esta Constitución podrán ser sometidas a referéndum por los diputados, los Ayuntamientos o los ciudadanos, en los términos que ésta y la Ley correspondiente establezcan. En el caso de los ciudadanos, éstos deberán representar cuando menos el diez por ciento de los inscritos en el listado nominal de electores correspondiente a la Entidad.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+La resolución derivada del referéndum será vinculatoria cuando en el proceso hayan participado al menos el sesenta por ciento de los ciudadanos inscritos en el listado nominal del Estado, y de ellos al menos el sesenta por ciento se manifiesten en el mismo sentido.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Si el resultado del referéndum es en el sentido de desaprobar la reforma o adición, el Congreso del Estado emitirá el decreto derogatorio que proceda en un plazo no mayor de quince días si se encuentra en periodo ordinario, o bien si se encuentra en receso, en la segunda sesión del periodo ordinario inmediato subsecuente.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2002)</small>
+
+Dentro de los dos años contados a partir de la publicación del decreto derogatorio, resultado de un proceso de referéndum, no podrá expedirse reforma o adición en el mismo sentido de la derogada, salvo cuando la Constitución Política de los Estados Unidos Mexicanos imponga la obligación de hacer adecuaciones al marco constitucional local.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -2414,3 +2556,9 @@ Artículo Tercero.- La derogación a la fracción V del artículo 63 entrará en
 Los procedimientos fundados en la fracción V del artículo 63 que se encuentren en trámite ante el Congreso del Estado, continuarán desahogándose en los términos acordados por él mismo.
 
 Artículo Cuarto.- La fracción XV del artículo 89 entrará en vigor 180 días posteriores a la fecha de publicación del presente decreto. En ese término se adecuarán las Leyes respectivas para establecer la substanciación del procedimiento.
+
+P.O. 19 DE ABRIL DE 2002.
+
+Artículo Primero.- El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- El Congreso del Estado emitirá la Ley que regule los mecanismos de participación ciudadana establecidos en el presente decreto a más tardar en seis meses contados a partir de su entrada en vigor.
