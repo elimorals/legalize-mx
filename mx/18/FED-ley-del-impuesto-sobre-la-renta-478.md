@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-478"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1994-12-28"
+last_updated: "1995-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=478&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE MARZO DE 1995.
 
 Ley publicada en el Diario Oficial de la Federación, el Martes 30 de Diciembre de 1980.
 
@@ -3566,7 +3566,31 @@ La retención se calculará aplicando a la totalidad de ingresos obtenidos en un
 
 TARIFA
 
-(VEASE TABLA ANEXA)
+PORCIENTO PARA
+
+APLICARSE SOBRE EL
+
+LIMITE LIMITE CUOTA EXCEDENTE DEL
+
+INFERIOR SUPERIOR FIJA LIMITE INFERIOR
+
+N$ N$ N$ %
+
+0.01 130.22 0.00 3
+
+130.23 1105.21 3.91 10
+
+1105.22 1942.30 101.40 17
+
+1942.31 2257.85 243.71 25
+
+2257.86 2703.25 322.59 32
+
+2703.26 5452.08 465.12 33
+
+5452.09 8593.23 1372.23 34
+
+8593.24 EN ADELANTE 2440.22 35
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -3648,41 +3672,43 @@ Las personas que hagan pagos que sean ingresos para el contribuyente de los menc
 
 Las personas que efectúen las retenciones por los pagos a los contribuyentes a que se refiere el párrafo anterior, acreditarán contra el impuesto que resulte a cargo de los contribuyentes, en los términos del artículo 80, disminuido con el monto del subsidio que, en su caso, resulte aplicable en los términos del artículo 80-A de esta Ley por el mes de calendario de que se trate, el crédito al salario mensual que se obtenga al aplicar la siguiente tabla.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 1996)</small>
 
 TABLA
 
-MONTO DE INGRESOS CREDITO AL SALARIO
+Monto de ingresos que sirven de base Crédito al Salario Mensual
 
-QUE SIRVEN DE BASE MENSUAL
+para calcular el impuesto
 
-PARA CALCULAR EL IMPUESTO
+Para Ingresos de Hasta Ingresos de
 
-PARA HASTA
+$ $ $
 
-INGRESOS DE INGRESOS DE
+0.01 689.14 158.57
 
-N$ N$ N$
+689.15 1014.71 158.50
 
-0.01 464.21 92.38
+1014.72 1033.69 158.50
 
-464.22 683.52 98.46
+1033.70 1352.93 158.40
 
-683.53 696.31 94.05
+1352.94 1378.26 153.00
 
-696.32 911.35 99.84
+1378.27 1474.73 149.00
 
-911.36 928.42 89.33
+1474.74 1732.10 149.00
 
-928.43 1166.77 63.01
+1732.11 1837.68 138.01
 
-1166.78 1400.12 57.88
+1837.69 2078.53 126.57
 
-1400.13 1633.49 53.20
+2078.54 2424.97 114.77
 
-1633.50 1866.83 48.07
+2424.98 2771.37 98.76
 
-1866.84 EN ADELANTE 46.66
+2771.38 2875.95 84.77
+
+2875.96 En adelante 69.27
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -4042,7 +4068,7 @@ Los contribuyentes que obtengan ingresos de los señalados en este Capítulo, ad
 
 I.- Solicitar su inscripción en el Registro Federal de Contribuyentes.
 
-> <small>(REFORMADO POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL 1995, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 II.- Llevar contabilidad de conformidad con el Código Fiscal de la Federación, su reglamento y el reglamento de esta Ley cuando obtengan ingresos superiores a N$ 466.00 pesos por los conceptos a que se refiere este Capítulo, en el año de calendario anterior. No quedan comprendidos en lo dispuesto en esta fracción quienes opten por la deducción del 50% a que se refiere el artículo 90 de esta Ley.
 
@@ -4974,7 +5000,7 @@ VII.- Presentar declaraciones provisionales trimestrales en los términos del ar
 
 En el mes de febrero de cada año, dichos contribuyentes deberán presentar en las oficinas autorizadas, declaración en la que proporcionen información de las operaciones efectuadas en el año de calendario anterior con los cincuenta principales clientes y con los cincuenta principales proveedores. Los contribuyentes que realicen operaciones con el público en general no estarán obligados a proporcionar la información sobre clientes referida. Deberán proporcionar, además, en su caso, información de las personas a las que en el mismo año de calendario les hubieren efectuado retenciones de impuesto sobre la renta u otorgado donativos, así como de los residentes en el extranjero a los que les hayan efectuado pagos de acuerdo con lo previsto en el Título V de esta Ley. También deberán proporcionar la información de las personas a las que en el año de calendario inmediato anterior les hayan efectuado pagos en los términos de los artículos 77, fracción XXX, y 141-C de esta Ley.
 
-Cuando el contribuyentes lleve su contabilidad mediante el sistema de registro electrónico, la información a que se refiere el párrafo anterior deberá proporcionarse en dispositivos magnéticos procesados en los términos que señale la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general. Tratándose de contribuyentes que lleven su contabilidad mediante sistemas manual o mecanizado o cuando su equipo de cómputo no pueda procesar los dispositivos en los términos señalados por la mencionada Secretaría, la información deberá proporcionarse en las formas que a efecto apruebe dicha dependencia.
+Cuando el contribuyente lleve su contabilidad mediante el sistema de registro electrónico, la información a que se refiere el párrafo anterior deberá proporcionarse en dispositivos magnéticos procesados en los términos que señale la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general. Tratándose de contribuyentes que lleven su contabilidad mediante sistemas manual o mecanizado o cuando su equipo de cómputo no pueda procesar los dispositivos en los términos señalados por la mencionada Secretaría, la información deberá proporcionarse en las formas que a efecto apruebe dicha dependencia.
 
 En los casos en que por lo menos 150 de los trabajadores del contribuyente le hayan prestados sus servicios en cada uno de los meses del ejercicio inmediato anterior, la información a que se refiere esta fracción deberá proporcionarse en los dispositivos magnéticos a que se refiere el párrafo anterior. Lo previsto en este párrafo no será aplicable tratándose de personas físicas que se dediquen a actividades agrícolas, ganaderas, pesqueras, silvícolas.
 
@@ -10871,3 +10897,71 @@ LEY DEL IMPUESTO SOBRE LA RENTA
 .
 
 SEXTO.- Las personas que obtengan autorización de la Secretaría de Hacienda y Crédito Público para establecer depósitos fiscales para la venta de mercancías extranjeras y nacionales a pasajeros que salgan del país directamente al extranjero, deberán pagar un aprovechamiento equivalente al 15% de los ingresos brutos obtenidos por la venta de dichas mercancías en el mes inmediato anterior, mismo que se deberá enterar a la Tesorería de la Federación a más tardar el día 17 del mes inmediato posterior a aquél en que se obtengan los ingresos.
+
+D.O.F. 27 DE MARZO DE 1995.
+
+DISPOSICIONES DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO SOBRE LA RENTA
+
+###### ARTICULO SEGUNDO.
+
+Los contribuyentes del impuesto sobre la renta podrán optar por efectuar la deducción inmediata de la inversión de bienes nuevos de activo fijo que realicen durante el periodo comprendido entre el 1o. de enero y el 31 de diciembre de 1995, a que tengan derecho en los términos de lo dispuesto por el artículo 51 de la Ley del Impuesto sobre la Renta, utilizando en lugar de los porcientos previstos en el referido artículo 51, los que a continuación se señalan:
+
+I.- Los porcientos por tipo de bien serán:
+
+a) Tratándose de construcciones:
+
+1.- 85% en el caso de inmuebles declarados o catalogados como monumentos arqueológicos, artísticos, históricos o patrimoniales por el Instituto Nacional de Antropología e Historia o el Instituto Nacional de Bellas Artes, que cuenten con el certificado de restauración expedido por la autoridad competente y siempre que dichos bienes se encuentren dentro de las zonas que la Secretaría de Hacienda y Crédito Público determine para tal efecto, mediante reglas de carácter general.
+
+2.- 74% en los demás casos.
+
+b) 78% para ferrocarriles, carros de ferrocarril, locomotoras y embarcaciones.
+
+c) 93% tratándose de aviones dedicados a la aerofumigación agrícola.
+
+d) 94.4% tratándose de dados, troqueles, moldes, matrices y herramental, así como equipo destinado directamente a la investigación de nuevos productos de desarrollo de tecnología en el país.
+
+e) 97% para semovientes, vegetales y máquinas registradoras de comprobación fiscal, así como equipo destinado a prevenir y controlar la contaminación ambiental en cumplimiento de las disposiciones legales respectivas, y equipo destinado para la conversión a consumo de gas natural.
+
+f) 94% para equipo de cómputo electrónico, consistente en una máquina o grupo de máquinas interconectadas conteniendo unidades de entrada, almacenamiento, computación, control y unidades de salida, usando circuitos electrónicos en los elementos principales para ejecutar operaciones aritméticas o lógicas en forma automática por medio de instrucciones programadas, almacenadas internamente o controladas externamente, así como para el equipo periférico de dicho equipo de cómputo, tal como, unidades de discos ópticos, impresoras, lectores ópticos, graficadores, unidades de respaldo, lectores de código de barras, digitalizadores, unidades de almacenamiento externo, así como monitores y teclados conectados a un equipo de cómputo.
+
+II.- Los porcientos aplicables para maquinaria y equipo distintos de los señalados en la fracción anterior son los siguientes:
+
+a) 85% para producción de energía eléctrica y su distribución, y para transportes eléctricos.
+
+b) 74% para molienda de grano; producción de azúcar y derivados; de aceites comestibles; transportación marítima; fluvial y lacustre.
+
+c) 78% para producción de metal, obtenido en primer proceso; productos de tabaco y derivados de carbón natural.
+
+d) 80% para fabricación de pulpa, papel y productos similares; petróleo y gas natural.
+
+e) 82% para fabricación de vehículos de motor y sus partes; construcción de ferrocarriles y navíos; fabricación de productos de metal, de maquinaria y de instrumentos profesionales y científicos; producción de alimentos y bebidas; excepto granos, azúcar, aceites comestibles y derivados.
+
+f) 84% para curtido de piel y fabricación de artículos de piel; de productos químicos, petroquímicos y farmacobiológicos; de productos de caucho y de productos plásticos; impresión y publicación.
+
+g) 86% para la fabricación de ropa, fabricación de productos textiles, acabado, teñido y estampado.
+
+h) 87% para la construcción de aeronaves.
+
+i) 90% para compañías de transmisión por radio y televisión.
+
+j) 93% para la industria de la construcción.
+
+k) 93% para actividades de agricultura, ganadería, de pesca o silvicultura.
+
+l) 85% para otras actividades no especificadas en esta fracción.
+
+m) 92% para el destinado a restaurantes.
+
+DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO SOBRE LA RENTA
+
+###### ARTICULO TERCERO.
+
+Los contribuyentes que ejerzan la opción prevista en el ARTICULO SEGUNDO de esta Ley, cuando enajenen los bienes a los que la aplicaron, los pierdan o dejen de ser útiles, podrán calcular la deducción que por los mismos les corresponde en los términos de la fracción III del artículo 51-A de la Ley del Impuesto sobre la Renta, aplicando, en lugar de los porcientos contenidos en la tabla establecida en la fracción III del artículo 51-A de referencia, los contenidos en la siguiente tabla:
+
+(VEASE TABLA ANEXA)
+
+## TRANSITORIO
+
+UNICO.- La presente Ley entrará en vigor el día 1o. de abril de 1995.
+
+(VEASE TABLA ANEXA)
