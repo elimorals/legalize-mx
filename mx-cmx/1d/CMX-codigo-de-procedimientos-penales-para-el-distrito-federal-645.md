@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2004-10-27"
+last_updated: "2005-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE ENERO DE 2005.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -166,7 +166,7 @@ V.- A que se les procure justicia de manera pronta, gratuita e imparcial respect
 
 (REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
-VI.- A recibir asesoría jurídica por parte de la Procuraduría General de Justicia del Distrito Federal respecto de sus denuncias o querellas y, en su caso, a recibir servicio de intérpretes traductores cuando pertenezcan a un grupo étnico o pueblo indígenas(sic), no conozcan o no comprendan bien el idioma español, o padezcan alguna discapacidad que les impida oír o hablar;
+VI.- A recibir asesoría jurídica por parte de la Procuraduría General de Justicia del Distrito Federal respecto de sus denuncias o querellas y, en su caso, a recibir servicio de intérpretes traductores cuando pertenezcan a un grupo étnico o pueblo indígenas (sic), no conozcan o no comprendan bien el idioma español, o padezcan alguna discapacidad que les impida oír o hablar;
 
 (REFORMADA, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADA, D.O.F. 30 DE SEPTIEMBRE DE 1999)
 
@@ -252,7 +252,7 @@ VI.- Expedir gratuitamente, a solicitud de los denunciantes o querellantes, copi
 
 VII.- Trasladarse al lugar de los hechos, para dar fe de las personas y de las cosas afectadas por el acto delictuoso, y a tomar los datos de las personas que lo hayan presenciado, procurando que declaren, si es posible, en el mismo lugar de los hechos, y citándolas en caso contrario para que dentro del término de veinticuatro horas comparezcan a rendir su declaración, y a realizar todas las diligencias inmediatas a que hace referencia este Código y las demás conducentes para la integración debida de la averiguación;
 
-VIII.- Asegurar que los denunciantes, querellantes u ofendidos precisen en sus declaraciones los hechos motivos(sic) de la denuncia o querella y las circunstancias de lugar, tiempo y modo en que ocurrieron;
+VIII.- Asegurar que los denunciantes, querellantes u ofendidos precisen en sus declaraciones los hechos motivos (sic) de la denuncia o querella y las circunstancias de lugar, tiempo y modo en que ocurrieron;
 
 IX.- Proponer el no ejercicio de la acción penal cuando de las declaraciones iniciales y de los elementos aportados no se desprenda la comisión de conductas delictivas o elemento alguno para su investigación;
 
@@ -486,11 +486,13 @@ Cuando haya temor fundado de que el obligado a la reparación del daño oculte o
 
 Para que el juez pueda dictar el embargo precautorio bastará la petición relativa y la prueba de la necesidad de la medida. A menos que el inculpado otorgue fianza suficiente a juicio del juez, éste decretará el embargo bajo su responsabilidad.
 
-(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 1999) (REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999)
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 36.
 
-Cuando se haya negado la orden de aprehensión o de comparecencia, o dictado el auto de libertad por falta de elementos para procesar por considerar que no están reunidos los requisitos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos y 132 y 133 de este Código, el Juez penal deberá señalar aquellos requisitos que a su juicio no se encuentran satisfechos, fundando y motivando su resolución, y el Ministerio Público practicará las diligencias necesarias para integrar debidamente la averiguación previa correspondiente.
+Cuando se haya negado la orden de aprehensión o de comparecencia, o dictado el auto de libertad por falta de elementos para procesar, por considerar que no están reunidos los requisitos del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos; 132 y 133 de este Código, el Juez Penal deberá señalar aquellos requisitos que a su juicio no se encuentren satisfechos, fundando y motivando su resolución y el Ministerio Público, practicará las diligencias necesarias para integrar debidamente la averiguación previa correspondiente.
+
+Cuando aparezca que el hecho o hechos que motivan la averiguación previa no tienen el carácter de delictuosos, el Juez motivará su resolución y devolverá los autos originales de la indagatoria al Ministerio Público, para que éste determine si prosigue en su integración o propone el no ejercicio temporal o definitivo de la acción penal.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -1076,11 +1078,15 @@ En todos los delitos en que se requieran conocimientos especiales para su compro
 
 El Ministerio Público acreditará el cuerpo del delito de que se trate y la probable responsabilidad del indiciado, como base del ejercicio de la acción penal; y la autoridad judicial, a su vez, examinará si ambos requisitos están acreditados en autos.
 
-El cuerpo del delito se tendrá por comprobado cuando se acredite el conjunto de los elementos objetivos o externos que constituyen la materialidad del hecho que la ley señale como delito.
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2005)</small>
 
-En los casos en que la ley incorpore en la descripción de la conducta prevista como delito un elemento subjetivo o normativo, como elemento constitutivo esencial, será necesaria la acreditación del mismo para la comprobación del cuerpo del delito.
+El cuerpo del delito se tendrá por comprobado cuando se demuestre la existencia de los elementos que integran la descripción de la conducta o hecho delictuoso, según lo determine la ley penal.
 
-La probable responsabilidad del indiciado, se tendrá por acreditada cuando de los medios comprobatorios existentes se deduzca su obrar doloso o culposo en el delito que se le imputa, y no exista acreditada en su favor alguna causa de exclusión del delito.
+> <small>(DEROGADO TERCER PARRAFO, G.O. 28 DE ENERO DE 2005)</small>
+
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2005)</small>
+
+Para resolver sobre la probable responsabilidad del inculpado, la autoridad deberá constatar que no exista acreditada a favor de aquél alguna causa de licitud y que obren datos suficientes para acreditar su probable culpabilidad.
 
 ###### ARTICULO 123.
 
@@ -1392,7 +1398,7 @@ El cateo solo podrá practicarse en virtud de orden escrita, expedida por la aut
 
 Cuando durante las diligencias de averiguación previa el Ministerio Público estime necesaria la práctica de un cateo, acudirá al Juez respectivo, solicitando la diligencia, expresando el objeto de ella y los datos que la justifiquen. Según las circunstancias del caso, el juez resolverá si el cateo lo realiza su personal, el Ministerio Público o ambos.
 
-> <small>(REFORMADO[N. DE E. ADICIONADO], D.O.F. 4 DE ENERO DE 1984)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 4 DE ENERO DE 1984)</small>
 
 Cuando sea el Ministerio Público quien practique el cateo, dará cuenta al Juez con los resultados del mismo.
 
@@ -1494,7 +1500,7 @@ El juez fijará a los peritos el tiempo en que deban desempeñar su cometido. Tr
 
 > <small>(REFORMADO, G.O. 11 DE NOVIEMBRE DE 2002)</small>
 
-Si a pesar del primer apremio, el perito no presentare su dictamen, será procesado por los delitos previstos en el Nuevo Código Penal para el Distrito Federal para estos casos..
+Si a pesar del primer apremio, el perito no presentare su dictamen, será procesado por los delitos previstos en el Nuevo Código Penal para el Distrito Federal para estos casos.
 
 ###### ARTICULO 170.
 
@@ -2010,7 +2016,7 @@ Los instrumentos públicos harán prueba plena, salvo el derecho de las partes p
 
 ###### ARTICULO 251.
 
-Los documentos privados sólo harán prueba plena contra su autor, si fueren judicialmente reconocidos por él o no los hubiere objetado apesar de saber que figuran en el proceso. Los provenientes de un tercero serán estimados como presunciones.
+Los documentos privados sólo harán prueba plena contra su autor, si fueren judicialmente reconocidos por él o no los hubiere objetado a pesar de saber que figuran en el proceso. Los provenientes de un tercero serán estimados como presunciones.
 
 ###### ARTICULO 252.
 
@@ -2656,19 +2662,21 @@ Abierto el procedimiento sumario, las partes dispondrán de tres días comunes, 
 
 El inculpado o su defensor podrán renunciar a los plazos señalados anteriormente, cuando lo consideren necesario para ejercer el derecho de defensa.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 308.
 
-La audiencia se realizará dentro de los cinco días siguientes al auto que resuelva sobre la admisión de pruebas, en el que se hará, además, fijación de fecha para aquélla.
+La audiencia se realizará dentro de los quince días siguientes al auto que resuelva sobre la admisión de pruebas, en el que se hará, además, fijación de fecha para aquella.
 
-Una vez terminada la recepción de pruebas, las partes deberán formular verbalmente sus conclusiones, cuyos puntos esenciales se harán constar en el acta relativa.
+Una vez terminada la recepción de pruebas, se declarará cerrada la instrucción, las partes deberán formular verbalmente sus conclusiones, cuyos puntos esenciales se harán constar en el acta relativa.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 309.
 
-El juez podrá dictar sentencia en la misma audiencia o disponer de un término de tres días.
+El juez podrá dictar sentencia en la misma audiencia o disponer de un término de cinco días.
+
+Si el expediente excediera de doscientas fojas, por cada cien de exceso o fracción, se aumentará un día más al plazo señalado, sin que nunca sea mayor de treinta días hábiles.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -2676,11 +2684,11 @@ El juez podrá dictar sentencia en la misma audiencia o disponer de un término 
 
 En lo relativo a la asistencia de las partes a la audiencia, la celebración de ésta y la formulación de conclusiones, se estará a lo prevenido, en su caso, por los artículos 320, 323 y 326 de este código.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 311.
 
-La audiencia se desarrollará en un solo día ininterrumpidamente, salvo que sea necesario suspenderla para permitir el desahogo de pruebas o por otras causas que lo ameriten, a criterio del juez. En este caso, se citará para continuarla al día siguiente o dentro de tres días, a más tardar, si no bastare aquel plazo para la desaparición de la causa que hubiere motivado la suspensión.
+La audiencia se desarrollará en un solo día ininterrumpidamente, salvo que sea necesario suspenderla para permitir el desahogo de pruebas o por otras causas que lo ameriten, a criterio del juez. En este caso, se citará para continuarla, al día siguiente o dentro de cinco días; a más tardar, si no bastare aquel plazo para la desaparición de la causa que hubiere motivado la suspensión.
 
 > <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
@@ -2736,15 +2744,17 @@ Si transcurren los plazos a que alude el párrafo anterior, sin que se formulen 
 
 El Ministerio Público al formular sus conclusiones hará una breve exposición sucinta y metódica de los hechos conducentes, evitando transcripciones innecesarias, realizando proposiciones concretas de los hechos punibles que se atribuyan al acusado, citando los elementos de prueba relativos a la comprobación del delito y los conducentes a establecer la responsabilidad penal, solicitando la aplicación de las sanciones correspondientes, incluyendo la reparación del daño con cita de las leyes, ejecutorias o doctrinas aplicables.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 317.
 
-(DEROGADO, G.O. 4 DE JUNIO DE 2004)
+El Ministerio Público podrá formular la acusación por delito diverso al determinado en el auto de formal prisión o de sujeción a proceso, de considerar que lo constituyen los mismos hechos que fueron objeto de la averiguación.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 318.
 
-La exposición de las conclusiones de la defensa no se sujetará a regla alguna. Si aquélla no formula conclusiones en el plazo que establece el artículo 315 de este código, se tendrán por formuladas las de inculpabilidad y se impondrá al o a los defensores una multa hasta de cien veces el salario mínimo vigente en el Distrito Federal o un arresto hasta de tres días.
+La exposición de las conclusiones de la defensa no se sujetará a regla alguna. Si aquella no formula conclusiones en el plazo que establece el artículo 315 de este Código, se tendrán por formuladas las de inculpabilidad y se impondrá al o a los defensores una multa hasta de cien veces el salario mínimo vigente en el Distrito Federal o un arresto hasta de treinta y seis horas.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -2764,6 +2774,10 @@ a) Por algún delito expresado en el auto de formal prisión; o
 
 b) A persona respecto de quien se abrió el proceso.
 
+> <small>(ADICIONADO, G.O. 28 DE ENERO DE 2005)</small>
+
+Lo mismo se hará cuando la acusación se formule por delito diverso al determinado en el auto de formal prisión o de sujeción a proceso.
+
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1989)</small>
 
 ###### ARTICULO 321.
@@ -2772,9 +2786,11 @@ Para los efectos del artículo anterior, el Procurador de Justicia o Subprocurad
 
 Si transcurridos los plazos a que se refiere el párrafo anterior no se recibe respuesta de los funcionarios mencionados, se entenderá que las conclusiones han sido confirmadas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 322.
 
-(DEROGADO, D.O.F. 3 DE ENERO DE 1989)
+Cuando hayan sido confirmadas las conclusiones formuladas por diverso delito, se oirá a la defensa sobre la nueva clasificación; la que en su caso, podrá aportar pruebas, en los términos del artículo 328.
 
 ###### ARTICULO 323.
 
@@ -2806,11 +2822,11 @@ Las partes deberán estar presentes en la audiencia. En caso de que el Ministeri
 
 Después de recibir las pruebas que legalmente puedan presentarse, de la lectura de las constancias que las partes señalen y de oír los alegatos de las mismas, el juez declarará visto el proceso, con lo que termina la diligencia.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1989)</small>
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 329.
 
-La sentencia se pronunciará dentro de los diez días siguientes a la vista. Si el expediente excediera de doscientas fojas, por cada cien de exceso o fracción, se aumentará un día más al plazo señalado, sin que nunca sea mayor de treinta días hábiles.
+La sentencia se pronunciará dentro de los quince días siguientes a la vista. Si el expediente excediera de doscientas fojas, por cada cien de exceso o fracción, se aumentará un día más al plazo señalado, sin que nunca sea mayor de treinta días hábiles.
 
 ###### ARTICULO 330.
 
@@ -2844,7 +2860,7 @@ El día señalado para la insaculación, estando presentes las personas a que se
 
 Al sacarse cada nombre, el juez lo leerá en voz alta. En ese acto, el Ministerio Público, y el acusado o su defensor, podrán recusar, sin expresión de causa, al designado por la suerte. Estas recusaciones podrán extenderse hasta cinco por parte del Ministerio Público, y el mismo número por cada acusado.
 
-Los jurados así recusados serán inmediatamente substituídos en el mismo sorteo; concluida la diligencia, el juez ordenará se cite a los jurados no recusados.
+Los jurados así recusados serán inmediatamente substituídos en el mismo sorteo; concluída la diligencia, el juez ordenará se cite a los jurados no recusados.
 
 ###### ARTICULO 335.
 
@@ -3206,69 +3222,121 @@ Todos los que no intervinieren oficialmente en el juicio, cualquiera que sea su 
 
 En todo lo demás relativo a la policía de la audiencia, se observarán las disposiciones conducentes de este Código.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN], G.O. 28 DE ENERO DE 2005)</small>
 
-### CAPITULO IV. Procedimientos ante el Tribunal de Menores
+### CAPITULO IV
+
+Procedimiento en la integración de la averiguación previa para el caso de inimputables permanentes, procedimiento especial para inimputables permanentes y procesados que adquieren enfermedad mental durante el proceso
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 389.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+Cuando se practique una averiguación previa en contra de una persona inimputable que se encuentre detenida, el Ministerio Publico podrá disponer que sea internada en un establecimiento médico psiquiátrico oficial, si dicho internamiento resulta indispensable conforme a las circunstancias del caso, o bien, lo entregará a su representante legal si lo tuviere, quien para tal efecto otorgará las garantías suficientes que fije el Ministerio Público para asegurar tanto la reparación del daño del hecho imputado materia de la investigación como las consecuencias dañosas que su entrega puede generar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 390.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+Si no se encuentran satisfechos los requisitos del Artículo 16 Constitucional, para el ejercicio de la acción penal, el Ministerio Público dispondrá la inmediata libertad del indiciado, quien quedará bajo la custodia de su representante legal, si lo tuviere, y si no, a disposición de la autoridad sanitaria.
+
+Encontrándose reunidos los requisitos del artículo 16 Constitucional, el Ministerio Público ejercitará la acción penal con detenido, poniendo al inimputable a la inmediata disposición del Juez Penal que corresponda, ya sea en el establecimiento médico psiquiátrico oficial en donde fue internado, o bien, dejándolo a su disposición por conducto del representante legal del inimputable, a quien el Juez de inmediato requerirá la presentación de su representado, para que se proceda en términos del artículo 343 de este Código, apercibiéndolo de que en caso de no presentarlo el día y hora que se señalen, se harán efectivas las garantías otorgadas y además se ordenará la aprehensión del inimputable por conducto de la policía bajo la autoridad y mando inmediato del Ministerio Público.
+
+Cuando se trate del ejercicio de la acción penal sin detenido, el Ministerio Público solicitará al Juez Penal se libre la orden de aprehensión correspondiente, si así fuera el caso, y el Juez, previo examen de los requisitos constitucionales, ordenará su libramiento a fin de que el inimputable sea puesto a su disposición por conducto de la policía bajo autoridad y mando inmediato del Ministerio Público, inmediatamente en el centro médico psiquiátrico respectivo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 391.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+Cuando en el caso se trate del ejercicio de la acción penal, respecto de un delito que no dé lugar a aprehensión, el Ministerio Público solicitará el libramiento de la orden de comparecencia respectiva, si así procediere, y el juez examinando la satisfacción de los requisitos constitucionales, ordenará su libramiento a fin de que el Ministerio Público, por conducto de la policía bajo su autoridad y mando inmediato, lo presente a fin de que se proceda en términos del artículo 343 de este Código.
+
+Una vez cumplido lo dispuesto en el párrafo anterior, el juez entregará al inimputable a su representante legal si lo tuviere, y en caso contrario, quedará al cuidado de la autoridad sanitaria en el establecimiento médico psiquiátrico respectivo, a fin de salvaguardar sus derechos y seguridad para que reciba el tratamiento que requiera por el tiempo que dure el procedimiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 392.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+Cuando en las diligencias de averiguación previa se acredite que el indiciado ha ejecutado el hecho típico encontrándose en un estado de inimputabilidad permanente, el Ministerio Público ordenará su internación en establecimiento médico psiquiátrico, en el cual lo pondrá a disposición de la autoridad judicial, quien en su caso deberá calificar la legalidad del aseguramiento del inimputable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 393.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+Dentro de las cuarenta y ocho horas siguientes a la consignación la autoridad judicial certificará la forma de conducirse y expresarse del inimputable. El juez procederá a nombrarle un defensor y decretará, en el término Constitucional, el auto de sujeción a procedimiento especial para inimputables permanentes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 394.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+En el auto de sujeción a procedimiento especial para inimputables permanentes, deberá acreditarse el hecho típico penal y la probable responsabilidad social del mismo, el juez decretará la medida de seguridad provisional, o libertad bajo la custodia de su representante legal, según corresponda de acuerdo a las características del hecho típico imputado y las peculiaridades de la insania mental del inimputable, previa exhibición de la garantía que a juicio del juez sea suficiente para cubrir la reparación del daño del hecho típico imputado, así como para el cumplimiento de las obligaciones contraídas, por cualquiera de los medios previstos por la ley.
+
+En el supuesto de que se acredite alguna causa de exclusión del delito, acorde con su insania mental, se decretará su inmediata y absoluta libertad.
+
+Acreditándose el hecho típico, sin que la autoría o participación se defina claramente con las constancias ministeriales, se decretará su libertad con las reservas de ley.
+
+Este auto será apelable en el efecto devolutivo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 395.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+Dentro del plazo citado en el artículo 343, se notificará la resolución dictada al defensor del inimputable, en su caso, a su representante y al Ministerio Público, comunicándola al Director del establecimiento médico psiquiátrico en que aquél se encuentre. Si éste no recibiere copia autorizada de la resolución en el término indicado, requerirá al Juez para que, dentro de las tres horas siguientes, le haga saber la situación jurídica que guarda el inimputable, de no hacerlo, lo entregará a su representante legal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 396.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+Concluido el plazo constitucional y habiéndose decretado la medida de seguridad provisional, se abrirá el procedimiento a prueba por un plazo de quince días hábiles. Se admitirá como prueba todo aquello que se presente con tal carácter, siempre que a juicio del juzgador no sea incompatible con el estado mental del inimputable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 397.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+Para los efectos de examinar el grado de inimputabilidad o insania mental el juzgador podrá proveer lo conducente y, en el caso de establecerse su imputabilidad, previa homologación del auto de sujeción a procedimiento especial para inimputables permanentes, el auto de formal prisión o sujeción a proceso, según corresponda para seguir el procedimiento respectivo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 398.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+Dentro de un plazo no mayor de veinte días hábiles se citará a la audiencia principal, en la que se desahogarán las probanzas que fueron admitidas por el juez, y desahogadas éstas, se declarará cerrada la instrucción y se mandará poner la causa a la vista del Ministerio Público y de la defensa durante cinco días para cada uno, para la formulación de conclusiones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 399.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+Exhibidas las conclusiones, el juez fijará día y hora para la celebración de la vista, que se llevará a cabo dentro de los cinco días siguientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 400.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+Después de recibir las pruebas que legalmente puedan presentarse, así como de la lectura de las constancias que las partes señalen y de oír los alegatos de las mismas, el juez declarará visto el proceso, con lo que terminará la diligencia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 401.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+La sentencia se pronunciará dentro de los quince días siguientes a la vista. Si el expediente excediera de doscientas fojas, por cada cien de exceso o fracción, se aumentará un día más del plazo señalado, sin que nunca sea mayor de treinta días hábiles.
+
+En todo lo previsto en este procedimiento especial, se aplicarán las reglas generales del procedimiento ordinario, previsto en este Código.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 402.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+Cuando en el proceso se compruebe que el inculpado adquirió enfermedad mental irreversible, se procederá como sigue:
+
+I. Si el inculpado se encontrare en prisión preventiva, el juez que conozca del proceso, ordenará al director del reclusorio preventivo donde éste se encuentra interno, que sea remitido al establecimiento médico psiquiátrico oficial correspondiente, para su tratamiento; en caso de encontrarse en libertad provisional, se revocará la misma y será ingresado al centro médico psiquiátrico oficial correspondiente, una vez que ahí se encuentre podrá entregarse a quien legalmente corresponda hacerse cargo de él, siempre que se obligue a tomar las medidas adecuadas para su tratamiento y vigilancia, garantizando por cualquier medio ante la autoridad judicial el cumplimiento de las obligaciones contraídas; y
+
+II. Se continuará con el proceso en la vía aperturada a fin de practicar las diligencias necesarias para el esclarecimiento de los hechos en la forma que permita la insania mental del inculpado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 403.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LOS TRIBUNALES DE MENORES Y SUS INSTITUCIONES AUXILIARES EN EL DISTRITO Y TERRITORIOS FEDERALES Y NORMAS DE PROCEDIMIENTO, D.O.F. 26 DE JUNIO DE 1941)
+El juzgador pronunciará sentencia en la que se tendrá en cuenta las reglas generales a que se refieren los artículos 70 y 72 del Nuevo Código Penal para el Distrito Federal, como las condiciones especiales y personales del inculpado, y su estado de salud mental, prescindiéndose de las penas relativas al delito que cometió siendo imputable, sustituyéndolas por una medida de seguridad acorde a aquéllas, sin perjuicio de que condene a la reparación del daño, si fuere procedente.
+
+Concluido el tiempo fijado para la medida de seguridad, si la autoridad ejecutora considera que el sujeto continúa necesitando tratamiento, previo el procedimiento establecido por la Ley General de Salud, lo pondrá a disposición de las autoridades sanitarias para que procedan conforme a las leyes aplicables.
 
 ###### ARTICULO 404.
 
@@ -3422,11 +3490,13 @@ El día señalado para la vista del negocio, comenzará la audiencia por la rela
 
 Si fueren dos o más los apelantes, usarán de la palabra en el orden que designe el mismo Magistrado, pudiendo hablar al último el acusado o su defensor. Si las partes, debidamente notificadas, no concurrieren, se llevará adelante la audiencia, la cual podrá celebrarse en todo caso con la presencia de dos Magistrados; pero la sentencia respectiva deberá pronunciarse por los tres que integran la Sala.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTICULO 425.
+
+Declarado visto el recurso, quedará cerrado el debate, y el magistrado ponente presentará su proyecto dentro de un plazo de quince días, si el expediente excediere de doscientas fojas, por cada cien de exceso o fracción, se aumentará un día al plazo señalado, que nunca será mayor de treinta días hábiles, excepto en el caso del artículo siguiente. Los vocales tendrán sucesivamente diez días para su revisión, sin que nunca, el plazo señalado sea mayor de treinta días hábiles, excepto en el caso del artículo siguiente.
+
 > <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
-
-###### ARTÍCULO 425.
-
-Declarado visto el proceso, quedará cerrado el debate y el magistrado ponente presentará su proyecto dentro de un plazo de diez días hábiles. Si el expediente excediere de doscientas fojas, por cada cien de exceso o fracción se aumentará un día al plazo señalado, que nunca será mayor de treinta días hábiles, excepto en el caso del artículo siguiente. Los vocales tendrán sucesivamente diez días para su revisión.
 
 Si cerrado el debate fuese necesario retornar el asunto para la formulación de nuevo proyecto por parte de otro Magistrado, se concederán al nuevo Ponente, al vocal y al disidente términos iguales a los establecidos en el artículo anterior para la formulación del proyecto, su revisión y formulación del voto particular respectivamente.
 
@@ -3526,6 +3596,10 @@ Siempre que el Tribunal encuentre retardado indebidamente el despacho de una cau
 
 Cuando el Tribunal notare que el defensor hubiere faltado a sus deberes, no interponiendo los recursos que procedieren o abandonando los interpuestos, si por las constancias de la causa apareciere que debían prosperar, o no alegando circunstancias probadas en el proceso y que habrían favorecido notablemente al acusado, o alegando hechos falsos, o puntos de Derecho notoriamente inaplicables, se procederá como previene el artículo anterior. Si el defensor fuere de oficio, el Juez estará obligado a llamar la atención del superior de aquél sobre la negligencia o ineptitud manifestadas.
 
+> <small>(ADICIONADO, G.O. 28 DE ENERO DE 2005)</small>
+
+ARTICULO 434 bis.- La resolución que dicte la Sala en los recursos de apelación tendrá alcance extensivo y operará sólo cuando así lo declare la sala en una causa en la que existan varios inculpados o sentenciados y uno o varios de ellos interpusieren recurso de apelación, si la sentencia es favorable, ésta surtirá los mismos efectos para los demás, siempre que se trate de los mismos hechos y las constancias así lo indiquen, tratándose de los siguientes casos: a) Por la incomprobación del cuerpo del delito; b) Por tipificación de los hechos en figura diversa a aquella por la que se decretó la formal prisión o sujeción a proceso, o por acreditación de alguna otra modalidad que favorezca la situación jurídica de los inculpados; c) Por cualquier causa de extinción de la pretensión punitiva o de la facultad para ejecutar las penas o medidas de seguridad, que no opere únicamente en beneficio del recurrente; o d) Cuando por determinación del monto del daño causado o del lucro obtenido, opere la reducción de sanciones. No podrá surtir efectos extensivos la resolución que se dicte en el recurso, respecto de aquellos que se haya determinado su situación jurídica en sentencia ejecutada.
+
 ### CAPITULO IV. De la denegada apelación
 
 ###### ARTICULO 435.
@@ -3576,7 +3650,7 @@ El recurso de queja procede contra las conductas omisas de los jueces que no emi
 
 La queja se interpondrá por escrito en cualquier momento, a partir de que se produjo la situación que la motiva, ante la sala penal que corresponda del Tribunal Superior de Justicia.
 
-En las hipótesis previstas en el artículo 286 bis, la queja sólo podrá interponerla el Ministro(sic) Público.
+En las hipótesis previstas en el artículo 286 bis, la queja sólo podrá interponerla el Ministro (sic) Público.
 
 La sala penal del Tribunal Superior de Justicia, en el término de cuarenta y ocho horas, le dará entrada al recurso y requerirá al juez cuya conducta omisa haya dado lugar al recurso, para que rinda informe dentro del plazo de tres días.
 
@@ -4240,9 +4314,11 @@ II. Cuando, sin que aparezcan datos posteriores de responsabilidad, se hayan des
 
 Para substanciar el incidente a que se refieren los artículos anteriores, hecha la petición por el interesado, el juez citará a una audiencia dentro del término de cinco días. En dicha audiencia se oirá a las partes y sin más trámite el juez dictará la resolución que proceda, dentro de 72 horas.
 
+> <small>(REFORMADO, G.O. 28 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 549.
 
-La resolución es apelable en ambos efectos.
+La resolución es apelable en el efecto devolutivo.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -5597,3 +5673,11 @@ G.O. 27 DE OCTUBRE DE 2004.
 PRIMERO.- Publíquese el presente decreto en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 28 DE ENERO DE 2005.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
