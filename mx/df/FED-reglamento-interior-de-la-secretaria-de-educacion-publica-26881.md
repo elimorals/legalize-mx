@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-educacion-publica-26881
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-12-20"
-last_updated: "2002-12-20"
+last_updated: "2005-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26881&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2002-12-16"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE REGLAMENTO HA SIDO ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA, SALVO LO PREVISTO EN EL ARTICULO TERCERO TRANSITORIO DEL MISMO ORDENAMIENTO, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 21 DE ENERO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Reglamento publicado en la Sección Primera del Diario Oficial del a Federación, el viernes 20 de diciembre de 2002.
 
@@ -1662,3 +1664,25 @@ NOVENO.- El ejercicio de las atribuciones a que se refieren los artículos 40, 4
 DÉCIMO.- Los derechos de los trabajadores serán respetados conforme a la ley.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a los dieciséis días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Educación Pública, Reyes S. Tamez Guerra.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 21 DE ENERO DE 2005.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Educación Pública publicado en el Diario Oficial de la Federación el 20 de diciembre de 2002 y se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- No obstante lo dispuesto en el artículo anterior, continuará en vigor lo dispuesto en los artículos 9, 40, 41, 42, 43, 44, 45 y 46 del Reglamento Interior de la Secretaría de Educación Pública, publicado en el Diario Oficial de la Federación el 20 de diciembre de 2002, hasta el día en que se expida el Manual de Organización del órgano desconcentrado que se denomina Administración Federal de Servicios Educativos en el Distrito Federal.
+
+Hasta que se expida el Manual de Organización del órgano desconcentrado, Administración Federal de Servicios Educativos en el Distrito Federal, la operación y supervisión de las escuelas secundarias técnicas en el Distrito Federal, continuará a cargo de la Dirección General de Educación Secundaria Técnica.
+
+CUARTO.- Continuarán en vigor los acuerdos secretariales de delegación de facultades, desconcentración de funciones y otros que hayan sido expedidos por el Titular de la Secretaría, así como los demás instrumentos jurídicos que se encuentren actualmente vigentes, en lo que no se opongan a las disposiciones del presente ordenamiento, en tanto no se modifiquen o dejen sin efectos.
+
+QUINTO.- Los asuntos pendientes al entrar en vigor este Reglamento y que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia en este Reglamento.
+
+SEXTO.- Los recursos financieros y materiales asignados a las unidades administrativas que desaparecen o modifican su competencia en virtud de lo dispuesto en el presente ordenamiento, serán reasignados a las unidades que asumen las correspondientes atribuciones, con la intervención de las instancias que determine el Titular de la Secretaría y de conformidad con las instrucciones que al efecto imparta.
+
+SÉPTIMO.- Cuando en este Reglamento se dé una denominación distinta a alguna unidad administrativa establecida con anterioridad al inicio de la vigencia del mismo, los asuntos en trámite serán atendidos por la unidad administrativa con la nueva denominación.
+
+OCTAVO.- Los derechos de los trabajadores serán respetados conforme a la ley.
