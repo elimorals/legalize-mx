@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "1992-07-03"
+last_updated: "1992-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 1992.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -1725,11 +1725,11 @@ Si la demanda de nulidad fuera entablada por uno solo de los cónyuges, desde lu
 
 Luego que la sentencia sobre nulidad cause ejecutoria, los hijos varones mayores de cinco años, quedarán al cuidado del padre, y las hijas al cuidado de la madre, si de parte de ambos cónyuges hubiere habido buena fe.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 1989)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
 
 ###### Art. 316.
 
-La sentencia de nulidad de matrimonio fijará la situación de los hijos menores de edad, atendiendo a las disposiciones que sobre patria potestad, custodia y tutela establece el artículo 337, pero siempre y aún tratándose de divorcio, las hijas e hijos menores de cinco años, se mantendrán al cuidado de la madre, hasta que cumplan esta edad, a menos que la madre se dedicare a la prostitución, al lenocinio, hubiere contraído el hábito de embriagarse, tuviere alguna enfermedad contagiosa, o por su conducta ofreciere peligro grave para la salud o la moralidad de sus hijos.
+Si uno solo de los cónyuges ha procedido de buena fe, quedarán todos los hijos bajo su cuidado, pero siempre y aun tratándose de divorcio, las hijas e hijos menores de siete años, se mantendrán al cuidado de la madre, hasta que cumplan esta edad, a menos que la madre se dedicare a la prostitución, al lenocinio, hubiere contraído el hábito de embriagarse, tuviere alguna enfermedad contagiosa, o por su conducta ofreciere peligro grave para la salud o la moralidad de sus hijos.
 
 ###### Art. 317.
 
@@ -6037,7 +6037,7 @@ II. Por vencimiento del plazo por el cual se constituyó;
 
 III. Por cumplirse la condición impuesta en el título constitutivo para la cesación de este derecho;
 
-IV. Por la reunión del usufructo y de la propiedad en una misma persona; mas si la reunión se verifica en una sola cosa o parte de lo usufructuado, en lo demás subsistirá el usufructo;
+IV. Por la reunión del usufructo y de la propiedad en una misma persona; más si la reunión se verifica en una sola cosa o parte de lo usufructuado, en lo demás subsistirá el usufructo;
 
 V. Por prescripción positiva a favor del nudo propietario o de un tercero;
 
@@ -6799,6 +6799,8 @@ De la capacidad
 
 Son hábiles para contratar todas las personas no exceptuadas por la ley.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
+
 ###### Art. 1287.
 
 Sólo puede ser invocada la incapacidad de una de las partes por la otra en provecho propio, cuando sea indivisible el objeto del derecho o de la obligación común; o cuando, no habiéndose cumplido o ratificado validamente la obligación del incapaz, la otra parte demostrare no haber tenido conocimiento de la incapacidad o haber sido engañado a ese respecto al tiempo de celebrarse el contrato.
@@ -7115,7 +7117,9 @@ II. La realización del hecho o acto que se hubiere estipulado en el contrato o 
 
 III. La circunstancia de que la prestación de una de las partes hubiera llegado a ser excesivamente onerosa por acontecimientos extraordinarios e imprevisibles, ajenos a su voluntad y que no sean consecuencia de la ejecución normal del contrato.
 
-Esta causa de resolución no surtirá efecto su la contraparte acepta modificar equitativamente las condiciones del contrato.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
+
+El contratante afectado podrá solicitar la modificación o resolución del contrato.
 
 ###### Art. 1352.
 
@@ -9043,7 +9047,9 @@ Los contratantes pueden convenir en que el precio sea el que corra en día y lug
 
 Entre tanto no se fije el precio por el tercero, no existirá compraventa.
 
-Una vez fijado el precio, se entenderá perfeccionado el contrato de compraventa, sin necesidad de un nuevo acto, y dicho precio sólo podrá ser rechazado por los contratantes de común acuerdo.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
+
+Una vez fijado el precio, se entenderá perfeccionado el contrato de compraventa, sin necesidad de un nuevo acto, y dicho precio sólo podrá ser rechazado por los contratantes de común acuerdo dentro de los treinta días siguientes.
 
 ###### Art. 1746.
 
@@ -9829,9 +9835,11 @@ Se prohíbe a los magistrados, a los jueces y a cualesquiera otros empleados pú
 
 Se prohíbe a los encargados de los establecimientos públicos y a los funcionarios y empleados públicos, tomar en arrendamiento los bienes que con los expresados caracteres administren.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
+
 ###### Art. 1908.
 
-El arrendamiento debe otorgarse por escrito, cuando la renta pase de seiscientos pesos anuales.
+Los contratos de arrendamiento deben celebrarse por escrito.
 
 ###### Art. 1909.
 
@@ -9847,9 +9855,11 @@ Si durante la vigencia del contrato de arrendamiento, por cualquier motivo se ve
 
 Si la transmisión de la propiedad se hiciere por causa de utilidad pública, el contrato se rescindirá; pero al (sic) arrendador y el arrendatario deberán ser indemnizados por el expropiador, conforme a lo que establezca la ley respectiva.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
+
 ###### Art. 1912.
 
-Los arrendamientos de bienes del Estado, municipales o de establecimientos públicos, estarán sujetos a las disposiciones del Derecho Administrativo, y en lo que no lo estuvieren, a las disposiciones de este artículo.
+Los arrendamientos de bienes del Estado, Municipales o de establecimientos públicos, estarán sujetos a las disposiciones del derecho administrativo, y en lo que no lo estuvieren, a las disposiciones de este capítulo.
 
 ### Capítulo VII. Disposiciones especiales respecto de los arrendamientos por tiempo indeterminado
 
@@ -10241,9 +10251,11 @@ VIII. Por evicción de la cosa dada en arrendamiento.
 
 Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado. Si no se ha señalado tiempo, se observará lo que disponen los artículos 1982 y 1983.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 1992)</small>
+
 ###### Art. 1992.
 
-En los contratos de arrendamientos por tiempo determinado, tendrá derecho el inquilino, siempre que esté al corriente en el pago de las rentas, a que se le prorrogue hasta por un año ese contrato. Para ese fin el arrendatario deberá notificar al arrendador su deseo de prorrogar el contrato antes de llegar al término de su vencimiento. Podrá el arrendador aumentar hasta un diez por ciento la renta anterior, siempre que demuestre que el valor comercial de la finca fijado por avalúo bancario ha aumentado no menos del diez por ciento sobre el valor comercial que tenía al celebrarse el contrato.
+En los contratos de arrendamientos por tiempo determinado, tendrá derecho el inquilino, siempre que esté al corriente en el pago de las rentas, a que se le prorrogue hasta por un año ese contrato. Para ese fin el arrendatario deberá notificar al arrendador su deseo de prorrogar el contrato antes de llegar al término de su vencimiento. Podrá el arrendador incrementar la renta en la misma proporción que haya aumentado el salario mínimo durante el tiempo de vigencia del contrato.
 
 Quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento los propietarios que vayan a ocupar el inmueble, para su propio uso o de su cónyuge o parientes en primer grado. También quedan exceptuados de dicha prórroga los propietarios que pretendan reconstruir la finca cuando ésta amenaza ruina o que pretendan hacerle modificaciones o mejoras con un costo no menor del veinticinco por ciento de su valor comercial, prevía la aprobación de la obra por la oficina respectiva.
 
@@ -10857,6 +10869,10 @@ La constitución de un nuevo mandatario para un mismo asunto, importa la revocac
 
 Aunque el mandato termine por la muerte del mandante, debe el mandatario continuar en su gestión, entre tanto los herederos proveen por sí mismos a los negocios, siempre que de lo contrario pueda resultar algún perjuicio.
 
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 1992)</small>
+
+La gestión del mandatario en el supuesto del párrafo anterior, no podrá exceder de seis meses, contados a partir de la muerte del mandante.
+
 ###### Art. 2115.
 
 En el caso del artículo anterior, tiene derecho el mandatario para pedir al Juez que señale un término corto a los herederos, a fin de que se presenten a encargarse de sus negocios.
@@ -10927,9 +10943,11 @@ Contrato de obra es aquel por el cual el empresario o contratista realiza una ob
 
 Todo riesgo de la obra correrá a cargo del empresario hasta el acto de la entrega, a no ser que hubiere morosidad de parte del dueño de la obra en recibirla, o convenio expreso en contrario.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
+
 ###### Art. 2131.
 
-Siempre que el empresario se encargue por ajuste cerrado de la obra en cosa inmueble, cuyo valor sea de más de mil pesos, se otorgará el contrato por escrito, incluyéndose en él una descripción pormenorizada, y en los casos que lo requieran, un plano, diseño o presupuesto de la obra.
+El contrato por ajuste cerrado de la obra en cosa inmueble debe celebrarse por escrito, incluyéndose en él una descripción pormenorizada, y en los casos que lo requieran, un plano, diseño o presupuesto de la obra.
 
 ###### Art. 2132.
 
@@ -11869,7 +11887,7 @@ Si el fiador hubiese transigido con el acreedor, no podrá exigir del deudor sin
 
 ###### Art. 2327.
 
-Si el fiador hace el pago sin ponerlo en conocimiento del deudor, podría éste oponerle todas las excepciones que podrá oponer al acreedor al tiempo en que se hizo el pago.
+Si el fiador hace el pago sin ponerlo en conocimiento del deudor, podría éste oponerle todas las excepciones que podría oponer al acreedor al tiempo en que se hizo el pago.
 
 ###### Art. 2328.
 
@@ -14403,6 +14421,8 @@ El encargado del Registro Público no proporcionará informes acerca del testame
 
 ### Capítulo VI. De la sucesión de la concubina
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1992)</small>
+
 ###### Art. 2820.
 
 El testamento privado está permitido en los casos siguientes:
@@ -14523,11 +14543,15 @@ Cuando siendo válido el testamento no deba subsistir la institución de hereder
 
 Si el testador dispone legalmente sólo de una parte de sus bienes, el resto de ellos forma la sucesión legítima.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 1992)</small>
+
 ###### Art. 2841.
 
-Tienen derecho a heredar por sucesión legítima:
+Tiene derecho a heredar por sucesión legítima:
 
-I. Los descendientes, cónyuge, ascendientes, parientes colaterales dentro del sexto grado y en ciertos casos la concubina;
+> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 1992)</small>
+
+I. Los descendientes, cónyuge, ascendientes, parientes colaterales dentro del sexto grado, así como la concubina o el concubinario, en los términos a que se refiere el artículo 2873.
 
 II. A falta de los anteriores, la Universidad de Guanajuato.
 
@@ -14671,23 +14695,7 @@ Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el ca
 
 ###### Art. 2873.
 
-La mujer con quien el autor de la herencia vivió como si fuera su marido durante los cinco años que precedieron inmediatamente a su muerte, o con la que tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar conforme a las reglas siguientes:
-
-I. Si la concubina concurre con sus hijos que lo sean también del autor de la herencia, se observará lo dispuesto en el artículo 2863;
-
-II. Si la concubina concurre con descendientes del autor de la herencia, que no sean también descendientes de ella, tendrá derecho a la mitad de la porción que le corresponda a un hijo;
-
-III. Si concurre con hijos que sean suyos y con hijos que el autor de la herencia hubo con otra mujer, tendrá derecho a las dos terceras partes de la porción de un hijo;
-
-IV. Si concurre con ascendientes del autor de la herencias, tendrá derecho a la cuarta parte de los bienes que forman la sucesión;
-
-V. Si concurre con parientes colaterales dentro del sexto grado del autor de la sucesión, tendrá derecho a una tercera parte de ésta;
-
-VI. Si el autor de la herencia no deja descendientes, ascendientes, cónyuge o parientes colaterales dentro del sexto grado, la mitad de los bienes de la sucesión pertenece a la concubina y la otra mitad a la Universidad de Guanajuato.
-
-Si al morir el autor de la herencia tenía varias concubinas en las condiciones mencionadas al principio de este artículo, ninguna de ellas heredará.
-
-La concubina no heredará si concurre con la cónyuge supérstite.
+La mujer o el varón con quien el autor de la herencia vivió como si fuera su cónyuge durante los cinco años que precedieron inmediatamente a su muerte, o con quien tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar igual que un cónyuge supérstite.
 
 ### Capítulo VII. De los efectos de la partición
 
@@ -15678,6 +15686,12 @@ P.O. 23 DE JULIO DE 1991.
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación el Periódico Oficial del Gobierno del Estado.
 
 P.O. 3 DE JULIO DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE AGOSTO DE 1992.
 
 ###### ARTICULO UNICO.
 
