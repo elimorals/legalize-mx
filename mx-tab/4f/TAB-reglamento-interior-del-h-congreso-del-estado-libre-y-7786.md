@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-h-congreso-del-estado-libre-y-7786"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-28"
-last_updated: "1998-08-08"
+last_updated: "2001-07-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2001.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 28 de agosto de 1993.
 
@@ -173,7 +173,7 @@ El Presidente de la primera mesa directiva electa citará a los miembros de la n
 
 ###### ARTICULO 17.
 
-Para la sesión solemne a que se refiere el artículo 15 de este Reglamento, se nombrarán dos comisiones compuestas de tres Diputados cada una, que se encargarán de acompañar a la entrada y salida del recinto oficial a los representantes de los Poderes Ejecutivo y Judicial? asimismo en caso de asistencia del Titular del Poder Ejecutivo Federal o su representante, se nombrará otra comisión para los mismos efectos.
+Para la sesión solemne a que se refiere el artículo 15 de este Reglamento, se nombrarán dos comisiones compuestas de tres Diputados cada una, que se encargarán de acompañar a la entrada y salida del recinto oficial a los representantes de los Poderes Ejecutivo y Judicial; asimismo en caso de asistencia del Titular del Poder Ejecutivo Federal o su representante, se nombrará otra comisión para los mismos efectos.
 
 ###### ARTICULO 18.
 
@@ -269,11 +269,11 @@ En la convocatoria se señalará fecha y hora de inicio del período extraordina
 
 ### CAPITULO VII. COMISIÓN PERMANENTE
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2001)</small>
 
 ###### ARTICULO 39.
 
-Durante el período del receso del Congreso, que será del uno de junio al treinta y uno de julio de cada año, funcionará la Comisión Permanente.
+Durante los períodos de receso del Congreso, funcionará la Comisión Permanente.
 
 ###### ARTICULO 40.
 
@@ -961,7 +961,9 @@ BIS.- Son obligaciones y atribuciones del Contador Mayor de Hacienda:
 
 I. Llevar el registro y control de los bienes muebles e inmuebles propiedad del Estado, Municipios, Organismos e Instituciones que manejen fondos y valores públicos, así como de los nombramientos de los Servidores Públicos;
 
-II. Fijar las normas, procedimientos y sistemas internos para inspeccionar la Hacienda Pública del Estado y de los Municipios, a través de la revisión, glosa y Auditoría de las cuentas públicas. La auditoria, revisión y glosa se hará a los registros de las operaciones derivadas de la aplicación de las Leyes de Ingresos y del ejercicio de los Presupuestos de Egresos, de los Poderes del Estado y los Municipios;
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2001)</small>
+
+II. Fijar las normas, procedimientos y sistemas internos para inspeccionar la hacienda pública del Estado y de los municipios, a través de la revisión, glosa y auditoría de las cuentas públicas. La auditoria, revisión y glosa se hará a los registros de las operaciones derivadas de la aplicación de las Leyes de Ingresos y del ejercicio de los presupuestos de egresos, de los Poderes del Estado y los Municipios; así como efectuar las contrataciones, cuando para la realización de las atribuciones a que se refieren las diversas fracciones de este numeral, haya necesidad de auxiliarse de despachos o profesionistas especializados en las diversas tareas de fiscalización que al órgano de control le competen;
 
 III. Controlar el ejercicio presupuestal de la Hacienda Estatal y Municipal; formular pliego de observaciones a los tres Poderes del Estado y a los Municipios que surjan del proceso de revisión, glosa y auditoría de las cuentas públicas y la supervisión física de inversiones en obras;
 
@@ -1522,3 +1524,9 @@ P.O. 8 DE AGOSTO DE 1998.
 ###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+P.O. 25 DE JULIO DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las demás disposiciones de este reglamento que se opongan al presente decreto.
