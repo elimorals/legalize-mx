@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-notariado-del-estado-de-nayarit-11822"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-28"
-last_updated: "1999-08-21"
+last_updated: "2000-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11822&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL NOTARIADO DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, Miércoles 28 de Enero de 1987.
 
@@ -209,13 +209,13 @@ II.- Si su intervención en la autentificación del acto o del hecho ponen en pe
 
 III.Si no se anticipan o garantizan las cantidades necesarias para hacer los pagos de los derechos o impuestos que las operaciones causen en favor de la Federación, del Estado o Municipios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 25.
 
-Las funciones del Notario son incompatibles con el desempeño de cargos públicos, de elección popular, del mandato judicial y con la de ministro de cualquier culto. Se exceptúan las funciones de carácter electoral. El notario podrá:
+Las funciones del Notario son incompatibles con el desempeño de cargos públicos, de elección popular, del mandato judicial y con la de ministro de cualquier culto. se exceptúan las funciones de carácter electoral. el Notario podrá:
 
-I.- Aceptar cargos de instrucción publica y de beneficencia privada o pública;
+I.- Aceptar cargos de instrucción pública y de beneficencia privada o pública;
 
 II.- Ser mandatario de su cónyuge, ascendientes, descendientes o hermanos por consanguinidad o afinidad:
 
@@ -225,13 +225,19 @@ IV.- Desempeñar el cargo de miembro del Consejo de Administración, Comisario o
 
 V.- Resolver consultas jurídicas;
 
-VI.- Ser árbitro o secretario en juicios arbitrales;
+VI.- Ser arbitro o secretario en juicios arbitrales;
 
-VII.- Patrocinar a los interesados en los procedimientos administrativos necesarios para el otorgamiento, registro o trámite fiscal de las Escrituras que otorguen;
+VII.- Patrocinar a los interesados en los procedimientos administrativos necesarios para el otorgamiento, registro o tramite fiscal de las escrituras que otorguen;
 
 VIII.- Patrocinar a los interesados en asuntos de jurisdicción voluntaria o contenciosa; y
 
-IX. Los Notarios podrán autorizar sus propios testamentos.
+IX.- Los notarios podrán autorizar sus propios testamentos.
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2000)</small>
+
+X.- Y todas aquellas que expresamente le determinen las Leyes.
+
+El Notario Público podrá intervenir y tramitar con sujeción a las disposiciones del Código de Procedimientos Civiles del estado en los procedimientos de jurisdicción voluntaria con la excepción de aquellos actos que las Leyes, tratados o convenciones internacionales requieran la intervención de la autoridad judicial o de cualquier otra clase de autoridades.
 
 ###### ARTICULO 26.
 
@@ -1180,3 +1186,9 @@ SEPTIMO.- Los Notarios solo conservaran a partir del 30 de junio del 2000, los v
 OCTAVO.- Los Notarios suplentes que por convenio con su titular estén actuando en el protocolo, dejarán de hacerlo en términos del articulo 51 de este Decreto, en un plazo de 90 días hábiles después de su entrada en vigor.
 
 NOVENO.- Los Notarios titulares que actualmente no hayan designado suplente, procederán a hacerlo en un plazo que no excederá los 15 días naturales a la entrada en vigor del presente decreto, en términos como lo señala la ley.
+
+P.O. 13 DE DICIEMBRE DE 2000
+
+###### ARTÍCULO UNICO.
+
+El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
