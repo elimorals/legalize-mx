@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2004-05-07"
+last_updated: "2004-08-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 2004.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -323,11 +323,17 @@ XIX.- Procurar que el personal de la dependencia, entidad o departamento, cuente
 
 XX.- Vigilar que el personal de la dependencia, entidad o departamento, que se encuentre adscrito a las Delegaciones Municipales, se sujete a los Delegados y a su supervisión, con excepción del personal de Sindicatura Municipal;
 
-XXI.- Supervisar que las tareas encomendadas a la dependencia, entidad o departamento a su cargo, se lleven a cabo con calidad y eficiencia; y,
+XXI.- Supervisar que las tareas encomendadas a la dependencia, entidad o departamento a su cargo, se lleven a cabo con calidad y eficiencia; y (sic),
 
-XXII.- Supervisar el buen uso y mantenimiento de los recursos materiales que tenga asignada (sic) la dependencia, entidad o departamento.
+XXII.- Supervisar el buen uso y mantenimiento de los recursos materiales que tenga asignada (sic) la dependencia, entidad o departamento;
 
-Los titulares de las dependencias, departamentos y entidades coordinarán con el personal a su cargo, la ejecución de las actividades que sean necesarias para el cumplimiento de las obligaciones a las que se refiere el presente artículo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE AGOSTO DE 2004)</small>
+
+XXIII.- Presentar la Declaración Patrimonial, conforme lo establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+
+> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2004)</small>
+
+La Declaración Patrimonial de los Titulares de las Dependencias de la Administración Pública Municipal Centralizada, de las Entidades Paramunicipales, la del Subdirector de Operación y Seguimiento de la Secretaría del Ayuntamiento y del Jefe del Departamento de Recursos Materiales de Oficialía Mayor se publicarán en el Periódico Oficial del Estado de Baja California, dentro de los 30 días siguientes a aquel en que concluyan los plazos señalados en el Artículo 78 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
 
 ### CAPITULO SEPTIMO. DE LAS COORDINACIONES ADMINISTRATIVAS
 
@@ -617,7 +623,7 @@ XIII.- Ejercer las atribuciones que correspondan al gobierno municipal, en mater
 
 XIV.- Controlar y autorizar el uso y ocupación de la vía pública por personas, para el desarrollo de actividades diversas al tránsito vehicular y peatonal; y (sic),
 
-XV.- Presidir en representación del Presidente Municipal, organizar y vigilar el cumplimiento de las funciones de la Junta Municipal de Reclutamiento,
+XV.- Presidir en representación del Presidente Municipal, organizar y vigilar el cumplimiento de las funciones de la Junta Municipal de Reclutamiento;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2002)</small>
 
@@ -2177,7 +2183,9 @@ XI.- Conocer e investigar de oficio, o por virtud de queja o denuncia, los actos
 
 XII.- Instrumentar y operar un sistema de comunicación para la recepción de quejas y sugerencias de la población en general, en relación a prestación de servicios públicos municipales, y al trato que otorguen los servidores públicos en la atención a las personas. La Sindicatura deberá canalizar los reportes que reciba a las dependencias y entidades a las que corresponda atender el asunto del que se trate, y además verificar que se dé dicha atención;
 
-XIII.- Operar el registro de situación patrimonial de los servidores públicos municipales;
+> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2004)</small>
+
+XIII.- Operar el registro de situación patrimonial de los servidores públicos municipales y ordenar la publicación, en el Periódico Oficial del Estado de Baja California, de la Declaración Patrimonial de los Titulares de la Administración Pública Centralizada y de igual forma, la del Subdirector de Operación y seguimiento de la Secretaría del Ayuntamiento y del Jefe del Departamento de Recursos Materiales de Oficialía Mayor;
 
 XIV.- Dar a conocer a la autoridad competente, la posible comisión de delitos por parte de los servidores públicos en el ejercicio de sus funciones;
 
@@ -2249,7 +2257,7 @@ II.- Revisiones Programáticas, el que tendrá las atribuciones previstas en el 
 
 III.- Revisiones Financieras, el que tendrá las atribuciones previstas en el artículo 124 fracciones I, II, III, IV, XV Y XVIII incisos a) y b) artículo 129 Bis fracción VII.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 126.
 
@@ -2345,7 +2353,7 @@ II.- De Capacitación Jurídica, el que tendrá las atribuciones previstas en el
 
 ## TITULO QUINTO. DE LA DIRECCION DE PLANEACION URBANA
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 130.
 
@@ -2638,3 +2646,7 @@ P.O. 9 DE ABRIL DE 2004.
 P.O. 7 DE MAYO DE 2004.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 27 DE AGOSTO DE 2004.
+
+ÚNICO.- LA PRESENTE REFORMA ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.
