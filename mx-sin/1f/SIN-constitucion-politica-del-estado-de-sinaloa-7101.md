@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1938-05-21"
+last_updated: "1938-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 1938.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 1938.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -199,11 +199,13 @@ El Poder Legislativo del Estado, se deposita en una asamblea que se denominará 
 
 #### SECCION I. DE LA ELECCION E INSTALACION DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1937)</small>
+> <small>N. DE E. SE DEJA SIN EFECTO EL DECRETO No. 187 DE FECHA 29 DE JULIO DE 1937, POR DECRETO No. 413 DE FECHA 19 DE JULIO DE 1938, AMBOS PUBLICADOS EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO DE SINALOA.</small>
+
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 1930)</small>
 
 ###### Art. 23.
 
-El Congreso del Estado se compondrá de representantes electos popularmente cada cuatro años, los que entrarán al ejercicio de su encargo el día primero de diciembre del año de su elección y no podrán ser reelectos para el período inmediato ni con el carácter de Suplentes, cuando sean propietarios.
+El Congreso del Estado se compondrá de representantes electos popularmente cada cuatro años.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 1938)</small>
 
@@ -269,17 +271,19 @@ Ningún Diputado podrá ser procesado por delitos comunes u oficiales, sin que p
 
 Los Diputados propietarios, durante el período de su encargo y los Suplentes, cuando estuvieren en ejercicio, no podrán desempeñar, ni aun aceptar, ni en propiedad ni en suplencia, ninguna otra comisión o empleo de la Federación, del Estado o de los Municipios, por los que se disfrute sueldo o se reciban subsidios, sin licencia previa de la Cámara, pero entonces cesarán en sus funciones representativas, mientras dure la nueva ocupación. La infracción de este precepto será castigada, previo juicio de responsabilidad, con la pérdida del carácter de Diputado. Se exceptúan de las disposiciones de este artículo, los servicios prestados a las instituciones docentes o de beneficencia.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1937)</small>
+> <small>N. DE E. SE DEJA SIN EFECTO EL DECRETO No. 187 DE FECHA 29 DE JULIO DE 1937, POR DECRETO No. 413 DE FECHA 19 DE JULIO DE 1938, AMBOS PUBLICADOS EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO DE SINALOA.</small>
 
 ###### Art. 36.
 
-El Congreso tendrá cada año dos períodos ordinarios de sesiones, prorrogables a juicio de la Cámara, por el tiempo que fuere necesario; el primero comenzará el día 1o. de diciembre y terminará, el día 31 de marzo del siguiente año, y el segundo principiará el día 16 de junio y concluirá el 15 de agosto inmediato.
+El Congreso tendrá cada año dos períodos ordinarios de sesiones, prorrogables a juicio de la Cámara, por el tiempo que fuere necesario; el primero, comenzará el día quince de septiembre y terminará el quince de enero siguiente, y el segundo principiará el quince de marzo y concluirá el quince de mayo inmediato.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1937)</small>
+> <small>N. DE E. SE DEJA SIN EFECTO EL DECRETO No. 187 DE FECHA 29 DE JULIO DE 1937, POR DECRETO No. 413 DE FECHA 19 DE JULIO DE 1938, AMBOS PUBLICADOS EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO DE SINALOA.</small>
+
+> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
 
 ###### Art. 37.
 
-En el primer período se ocupará preferentemente el Congreso, de discutir y aprobar la Ley de Ingresos y Egresos del Estado, y de estudiar los Presupuestos Municipales, para lo cual deberán ser presentados los proyectos de unos y otros, antes del 5 de diciembre de cada año, a fin de que empiecen a regir desde el 1o. de enero inmediato; en el concepto de que se tendrán los vigentes como prorrogados mientras no se aprueben los nuevos. En el segundo período revisará la CUENTA PUBLICA DEL ESTADO y la de LOS MUNICIPIOS, del año anterior, que deberán ser presentadas al Congreso dentro de los primeros diez días de su apertura. La revisión no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las partidas respectivas de los Presupuestos, sino que se extenderá al examen y justificación de las responsabilidades que resulten. En ambos períodos, se ocupará, además, de estudiar, discutir y votar las iniciativas de ley que se presenten y de resolver todos los asuntos que le correspondan.
+En el primer período se ocupará preferentemente el Congreso, de discutir y aprobar la Ley de Ingresos y Egresos del Estado, y de estudiar los Presupuestos Municipales, para lo cual deberán ser presentados los proyectos de uno y otros, antes del quince de septiembre de cada año, a fin de que empiecen a regir desde el primero de enero inmediato, en el concepto de que se tendrán los vigentes como prorrogados mientras no se aprueben los auevos (sic). En el segundo período revisará la cuenta pública del Estado y la de los Municipios, del año anterior, que deberán ser presentadas al Congreso dentro de los primeros diez días de su apertura. La revisión no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las partidas respectivas de los presupuestos, sino que se extenderá al examen y justificación de las responsabilidades que resulten. En ambos períodos se ocupará además, de estudiar, discutir y votar las iniciativas de ley que se presenten y de resolver todos los asuntos que le corresponden.
 
 ###### Art. 38.
 
@@ -1494,3 +1498,7 @@ Publíquese en el Periódico Oficial del Estado.
 P.O. 21 DE MAYO DE 1938.
 
 UNICO. Estas reformas empiezan a surtir efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JULIO DE 1938.
+
+Unico.- Este Decreto surte sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
