@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1927-08-31"
+last_updated: "1927-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 1927.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 1927.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -620,6 +620,8 @@ Del Poder Ejecutivo.
 
 Facultades y obligaciones del Gobernador del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1927)</small>
+
 ###### Artículo 75.
 
 El Poder Ejecutivo del Estado se deposita en una sola persona que se denominará Gobernador del Estado de Coahuila de Zaragoza.
@@ -668,7 +670,7 @@ Del Despacho de Gobierno.
 
 ###### Artículo 82.
 
-Son facultades del Gobernador:
+Son facultades del C. Gobernador:
 
 I. Iniciar leyes o decretos ante el Congreso del Estado.
 
@@ -725,6 +727,10 @@ XXIV. Otorgar indultos y conmutaciones de las penas impuestas por sentencia ejec
 XXV. Ejercer la superior inspección en todos los ramos de la Administración Pública y de la Beneficencia Privada.
 
 XXVI. Las demás que expresamente le concedan las leyes.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1927)</small>
+
+XXVII. Nombrar los Jueces del Registro Civil y fijar la demarcación en que deban ejercer sus funciones.
 
 ###### Artículo 83.
 
@@ -1064,7 +1070,7 @@ IX. Nombrar y remover a los empleados de su dependencia.
 
 X. Cuidar de la policía, orden, moralidad y salubridad públicas y del mejoramiento, aseo y ornato de las poblaciones del Municipio, dictando, al efecto, los reglamentos convenientes, que se sujetarán a la aprobación del Ejecutivo.
 
-XI. Nombrar los Jueces del Registro Civil y fijar la demarcación en que deban ejercer sus funciones.
+XI. (DEROGADA, P.O. 28 DE DICIEMBRE DE 1927)
 
 XII. Las demás que les conceden las leyes.
 
@@ -1577,3 +1583,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 31 DE AGOSTO DE 1927.
 
 UNICO.- Por esta sola vez y teniendo en cuenta que el período para que han sido electos los Magistrados actualmente en ejercicio, ha comenzado ya, el Congreso hará la designación del Magistrado que deba encargarse del despacho de la Cuarta Sala, sin pedir terna a los Ayuntamientos, tan luego como entren en vigor estas reformas, que será la fecha de su promulgación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 1927.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
