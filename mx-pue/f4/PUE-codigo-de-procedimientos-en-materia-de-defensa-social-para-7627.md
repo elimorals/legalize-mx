@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-en-materia-de-defensa-social-para-7627
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "1997-04-07"
+last_updated: "1998-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO L. Y S. DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE SEPTIEMBRE DE 1998.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -75,7 +75,9 @@ I.- Practicar las diligencias preparatorias de la acción persecutoria de los de
 
 II.- Pedir la aplicación de las sanciones establecidas por la ley;
 
-III.- Coadyuvar con el ofendido, para exigir el pago de la responsabilidad civil proveniente del delito, al acusado o a la persona a cuyo cargo sea esa responsabilidad, según los artículos 1965 a 1974 y 1976 del Código Civil;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+III.- Exigir el pago de la reparación del daño y, en su caso coadyuvar con el ofendido o su representante legal para demandar la responsabilidad civil proveniente del delito, al acusado o a la persona a cuyo cargo sea esa responsabilidad, según los artículos 1965 a 1974 y 1976 del Código Civil;
 
 IV.- Pedir la libertad de los procesados en la forma y términos que previene la ley.
 
@@ -219,13 +221,25 @@ III.- La resolución que declare incompetente al Juez, sea por haber aceptado é
 
 Son auxiliares de la administración de justicia en materia de Defensa Social:
 
-I.- La Policía Judicial;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-II.- La Dirección de Gobernación y Seguridad Pública del Ejecutivo del Estado;
+I.- La Secretaría de Gobernación;
 
-III.- Las autoridades municipales; y
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-IV.- Los médicos legistas y demás peritos e intérpretes.
+II.- La Policía Judicial y la fuerza pública del Estado;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+III.- Las autoridades municipales;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+IV.- Los servicios periciales de la Procuraduría General de Justicia del Estado, y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+V.- Los médicos legistas, los intérpretes y demás peritos de que se allegue el Poder Judicial del Estado.
 
 #### SECCION CUARTA.- FORMALIDADES DEL PROCEDIMIENTO
 
@@ -265,7 +279,13 @@ III.- Cuando comparezcan a una diligencia, firmarán al margen y al calce del ac
 
 IV.- En defecto de la firma imprimirán su huella digital;
 
-V.- Si el compareciente no firmare ni imprimiere su huella digital se hará constar el motivo de la omisión.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+V.- Si el compareciente no firmare ni imprimiere su huella digital se hará constar el motivo de la omisión; y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+VI.- Cuando no hablen o no entiendan el idioma castellano o fueren ciegos, sordos, mudos o se encontraren afectados de alguno de sus sentidos y no pueda, por estas causas entender lo que se dice o manifestar de viva voz su declaración, se les asignarán intérpretes traductores o testigo de asistencia que los asistan y, en su caso, la declaración quedará asentada en el idioma de los comparecientes, con su respectiva traducción, siendo obligación de los intérpretes reproducir con toda claridad las preguntas y respuestas que por su conducto se les formulen, debiendo firmar en las actuaciones todos los que en ellas intervengan.
 
 ###### Artículo 22.
 
@@ -293,23 +313,43 @@ III.- Cuando no fuere posible reponer todas las constancias procesales, se tendr
 
 El Tribunal y los jueces deberán mantener el buen orden y exigir que les sean guardadas las consideraciones debidas.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 27.
 
-Las faltas que se cometieren contra el buen orden y las consideraciones debidas a los jueces y al Tribunal, se corregirán por éstos, en el acto, con una multa cuyo importe será de tres a treinta días de salario mínimo.
+Las faltas que se cometieren contra el buen orden y las consideraciones debidas a los Jueces y al Tribunal se corregirán por éstos en el acto, con una multa cuyo importe será de tres a cien días de salario mínimo.
 
 ###### Artículo 28.
 
 Cuando cambiare el personal del Tribunal o del Juzgado, no se proveerá auto alguno haciendo saber el cambio, sino que en el primero que proveyere el nuevo funcionario, se insertará su nombre completo; y en la Sala se pondrán al margen de los autos los nombres y apellidos de los funcionarios que los firman; pero cuando no tenga que dictarse resolución alguna anterior a la sentencia, sí se hará saber el cambio del personal.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 29.
 
-Cuando estén comprobados en autos los elementos del tipo penal y la probable responsabilidad del inculpado, el juez o tribunal a solicitud del interesado o interesados, dictará, aún antes de haberse ejecutado la orden de aprehensión, las providencias necesarias para restituirlos en el goce del bien o derecho de que hubiesen sido privados con motivo de la infracción, previa la justificación correspondiente.
+Cuando estén comprobados en autos los elementos del tipo penal y la probable responsabilidad del inculpado, el Juez o Tribunal a solicitud del interesado o interesados, dictará, aún antes de haberse ejecutado la orden de aprehensión, las providencias necesarias para restituirlos en el goce del bien o derecho de que hubiesen sido privados con motivo de tal infracción, previa la justificación correspondiente; pero tratándose de la restitución de bienes inmuebles, el interesado deberá otorgar garantía suficiente a juicio de la Autoridad que conozca de la causa, con el fin de garantizar los daños y perjuicios que pudieren causarse al inculpado o a terceros por la restitución.
 
 ###### Artículo 30.
 
 En las averiguaciones en que no se hubiese logrado reunir pruebas bastantes, conforme al artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, para decretar la aprehensión del acusado, no obstante haberse practicado todas las diligencias solicitadas por los interesados o decretadas por el Juez, éste, a petición del Ministerio Público, del mismo acusado, y aun sin previa solicitud, decretará la cesación del procedimiento y mandará archivar lo actuado.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+Artículo 30 bis.- El Agente del Ministerio Público podrá determinar el no ejercicio de la acción penal y el consecuente archivo de la Averiguación Previa en los siguientes casos:
+
+I.- Cuando los hechos de que tengan conocimiento no sean constitutivos de delito, conforme a la descripción típica contenida en la Ley;
+
+II.- Cuando se hubiese extinguido la acción persecutoria, en términos de lo dispuesto por este Código;
+
+III.- Cuando de las diligencias practicadas, se deduzca plenamente que el inculpado actuó con alguna de las causas excluyentes del delito, y
+
+IV.- Cuando aún siendo presuntamente delictivos los hechos de que trate, resulte imposible la prueba de su existencia por obstáculo material insuperable.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+Artículo 30 ter.- En los casos en que se acuerde el archivo de la Averiguación Previa, el Agente del Ministerio Público, deberá informar el contenido de la determinación adoptada al denunciante o querellante a través de cédula de notificación personal, otorgándole al denunciante quince días naturales para que exprese por escrito o por comparecencia, lo que a su derecho convenga, luego de lo cual se acordará lo que proceda.
+
+Sólo en casos de que exista oposición a la determinación del no ejercicio de la acción penal, el Agente del Ministerio Público deberá enviar el original de la Averiguación Previa al Ciudadano Procurador, a efecto de que se realice el estudio y análisis de la misma y se determine la procedencia o improcedencia de la determinación, confirmándola o en su caso señalando las diligencias necesarias para la integración de la misma.
 
 ###### Artículo 31.
 
@@ -337,9 +377,11 @@ VI.- Si a pesar del oficio recordatorio previsto en la anterior fracción, conti
 
 VII.- Cuando los funcionarios del Ministerio Público se encuentren en la necesidad prevista en el artículo 32 anterior, solicitarán de la autoridad judicial respectiva, el envío del oficio o exhorto que corresponda.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 34.
 
-Las audiencias de los procesos en materia de Defensa Social serán públicas, excepto en los casos de delitos contra la moral.
+Las audiencias de los procesos en materia de Defensa Social serán públicas, excepto en los casos de delitos sexuales, contra la moral pública o en los casos que a juicio de la autoridad sea necesaria la reserva de las actuaciones.
 
 ###### Artículo 35.
 
@@ -463,7 +505,11 @@ Las citaciones se rigen por lo dispuesto en los siguientes preceptos:
 
 I.- Las citaciones de testigos, peritos y demás que no estén directamente interesados en el proceso, se harán por medio de órdenes o cédulas firmadas por el Juez, que llevarán los agentes de la policía judicial o municipal, o comisarios del Juzgado o Sala en donde los hubiere, poniendo el secretario en autos la constancia respectiva.
 
-II.- Con excepción de los funcionarios, tanto de la Federación como del Estado, toda persona está obligada a presentarse ante los tribunales y oficinas de Policía Judicial, cuando sea citada, a menos que no pueda hacerlo por imposibilidad material.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+II.- Con excepción de los Funcionarios tanto de la Federación como del Estado, toda persona está obligada a presentarse ante los Tribunales y oficinas del Ministerio Público cuando sea citada, a menos que no pueda hacerlo por imposibilidad física o material.
+
+El Ministerio Público podrá ordenar la presentación a través de la Policía Judicial de las personas que debidamente citadas a declarar en relación con los hechos que se investigan no comparezcan sin justificación.
 
 III.- Las citaciones podrán hacerse personalmente en la oficina respectiva, o en el acto de la notificación, o por cédula o por telégrafo, anotándose en cualquiera de estos casos la constancia respectiva en el expediente.
 
@@ -637,7 +683,9 @@ El Ministerio Público, o la autoridad que actuare en auxilio de éste, al inici
 
 I.- Trasladarse al lugar de los hechos para dar fe de las personas y de las cosas a quienes hubiere afectado el hecho delictuoso;
 
-II.- Tomar los datos de quienes hubiesen presenciado el hecho delictuoso, procurando que declaren en el mismo lugar de los hechos, o en caso contrario, citándolos para que dentro de veinticuatro horas comparezcan a rendir su declaración.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+II.- Tomar los datos de quienes hubiesen presenciado el hecho delictuoso, presentándolos a declarar ante la Autoridad Ministerial;
 
 III.- Si no pudieren examinar a las personas a que se refiere la fracción anterior, prevenirles que concurran al Juzgado.
 
@@ -647,15 +695,25 @@ III.- Si no pudieren examinar a las personas a que se refiere la fracción anter
 
 En los casos de delito flagrante, toda persona puede detener al indiciado poniéndolo sin demora a disposición de la autoridad inmediata y ésta, con la misma prontitud, a la del Ministerio Público.
 
-Se considerará que hay delito flagrante, cuando el indiciado es detenido en el momento de estarlo cometiendo, o si, inmediatamente después de ejecutado el hecho delictuoso:
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-a) Aquél es perseguido materialmente, o,
+Se considerará que hay delito flagrante, si el indiciado es detenido en el momento de estarlo cometiendo o si, inmediatamente después de ejecutado el hecho delictuoso, aquél es perseguido materialmente, o dentro de las setenta y dos horas siguientes al momento de la comisión del hecho delictivo, alguien lo señala como responsable y además:
 
-b) Alguien lo señala como responsable y se encuentra en su poder el objeto del delito, el instrumento con que aparezca cometido, o huellas o indicios que hagan presumir fundadamente su intervención en la comisión del delito.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-En estos casos el Ministerio Público iniciará desde luego la averiguación previa y bajo su responsabilidad, según procediere, decretará la detención del indiciado si el delito es perseguible de oficio o querella u otro requisito equivalente, que ya se encuentre satisfecho, o bien ordenará la libertad del detenido.
+I.- Se encuentran en su poder el objeto del delito, el instrumento con que aparentemente lo hubiere cometido o los productos del delito, o
 
-La violación de esta disposición hará penalmente responsable al Agente del Ministerio Público o funcionario que decrete indebidamente la detención y la persona así detenida será puesta en inmediata libertad.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+II.- Aparecen huellas o indicios que permitan presumir fundadamente su intervención en la comisión del delito.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+En estos casos el Ministerio Público iniciará desde luego la Averiguación Previa y bajo su responsabilidad, según procediere, decretará la detención del indiciado si el delito es perseguible de oficio o querella u otro requisito equivalente, que ya se encuentre satisfecho, o bien, ordenará la libertad del detenido.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+La violación de esta disposición hará penalmente responsable al Agente del Ministerio Público o Funcionario que decrete indebidamente la detención y la persona así detenida será puesta en inmediata libertad.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -671,51 +729,91 @@ c) Que por razón de la hora, lugar o cualquier otra circunstancia, no pueda ocu
 
 La violación de esta disposición hará penalmente responsable al Agente del Ministerio Público o funcionario que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 69.
 
-Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los previstos en los siguientes artículos del Código de Defensa Social para el Estado:
+Se califican como delitos graves, para todos los efectos legales por afectar valores fundamentales de la sociedad, los previstos en los siguientes artículos del Código de Defensa Social para el Estado:
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
 A.- Homicidio por culpa previsto en los artículos 85 y 86;
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+
 B.- Rebelión, previsto en los artículos 147 y 149;
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
 C.- Terrorismo, previsto en los artículos 160, 162 y 165;
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+
 D.- evasión de presos, previsto en el artículo 173;
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
 E.- Ataque a los medios de transporte, previsto en los artículos 191 y 192;
 
-F.- Corrupción de menores e incapaces previsto en los artículos 218 y 219;
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+F.- Corrupción de menores o incapaces, previsto en los artículos 218 y 219;
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
 G.- Lenocinio, previsto en el artículo 226;
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+
 H.- Violación, previsto en los artículos 267, 268 y 272;
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
 I.- Asalto y atraco, previsto en los artículos 294, 295 y 298;
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+
 J.- Plagio o secuestro previsto en el artículo 302, excepto el segundo párrafo de la fracción V;
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
 K.- Homicidio, previsto en el artículo 312 en relación con los artículos 316, 323, 331, 334 y 336;
 
-L.- Robo calificado, previsto en el artículo 373 en relación con los artículos 374 fracciones II, III y IV y 375, cuando se realice en cualquiera de las circunstancias mencionadas en el artículo 380 fracciones I, II, III, VIII, X, XI, y XVIII;
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-M.- Robo de ganado, previsto en el artículo 390 en relación con los artículos 392 fracción I y 393;
+L.- Robo calificado previsto en el artículo 373, en relación con los artículos 374, fracciones III y IV, y 375, cuando se realicen en cualquiera de las circunstancias señaladas en las fracciones I, II, III, X, XI y XVII del artículo 380;
 
-N.- Robo de frutos, previsto en el artículo 391 en relación con el artículo 394 fracción III;
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-Ñ.- Daño en propiedad ajena, previsto en los artículos 412 y 413;
+M.- Robo previsto en el artículo 374 fracción V;
 
-O.- Chantaje, previsto en el artículo 415; y
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-P.- Peculado, previsto en el artículo 428.
+N.- Robo de ganado, previsto en el artículo 390, en relación con los artículos 392, fracción I y 393;
 
-Q.- Enriquecimiento ilícito, previsto en el artículo 432.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 1997)</small>
+Ñ.- Robo de frutos, previsto en el artículo 391, en relación con el artículo 394, fracción III;
 
-R.- Tortura, previsto los artículos 449, 450, 451 y 452.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+O.- Daño en propiedad ajena, previsto en los artículos 412 y 413;
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+P.- Chantaje, previsto en el artículo 415;
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+Q.- Peculado, previsto en el artículo 428;
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+R.- Enriquecimiento ilícito, previsto en el artículo 432, y
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+S.- Tortura, prevista en los artículos 449, 450, 451 y 452.
 
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -1093,9 +1191,15 @@ Cuando deba aprehenderse a un empleado o funcionario público, a un militar o ag
 
 Cuando antes de cumplida una orden de aprehensión, se desvanecieren los datos que sirvieron para fundarla, el Juez, a instancia del Ministerio Público o de oficio, decretará la suspensión de la orden, sin perjuicio de que se continúe la averiguación y se solicite y dicte posteriormente la aprehensión, cuando aparecieren elementos que la justifiquen.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 121.
 
-Cuando el delito imputado merezca sanción alternativa que incluya una no corporal, no podrá durante el proceso restringirse la libertad del acusado; pero si éste opone dificultades para la averiguación, o hubiere motivos fundados para creer que pretende eludir la acción de la justicia, a pedimento del Ministerio Público, el Juez o Tribunal podrá ordenarle que no abandone sin su permiso el lugar en que se sigue el procedimiento.
+Cuando la Averiguación Previa así lo requiera y el Ministerio Público lo considere necesario, podrá éste decretar el arraigo del indiciado, para lo cual deberá tomar en cuenta las características del hecho imputado y las circunstancias personales del probable responsable que permitan presumir fundadamente su intención de eludir la acción de la justicia; esa determinación deberá estar plenamente fundada y motivada y el arraigo sólo se prolongará el tiempo estrictamente indispensable para integrar debidamente la Averiguación de que se trate, sin que pueda exceder de treinta días.
+
+De igual manera durante el proceso el Organo Jurisdiccional estará facultado para decretar el Arraigo debiendo realizar las mismas valoraciones que las señaladas para el Ministerio Público.
+
+El levantamiento del Arraigo dentro de la Averiguación Previa, será resuelto por el Ministerio Público y dentro del procedimiento, por el Juez que conoce de la causa.
 
 ### CAPITULO CUARTO.- PRUEBA EN MATERIA DE DEFENSA SOCIAL
 
@@ -1399,9 +1503,11 @@ XIII.- Si la declaración es relativa a un hecho susceptible de dejar vestigios 
 
 Si el testigo fuere militar o empleado de algún ramo del servicio público, la citación se hará por conducto del superior jerárquico respectivo.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 157.
 
-Cuando haya de examinarse como testigos a los Diputados al Congreso, Gobernador del Estado, Secretario de Gobernación, Procurador General de Justicia o a Magistrados del Tribunal Superior de Justicia, el Juez les pedirá su declaración por oficio.
+Cuando haya de examinarse como testigos a los Diputados al Congreso Local, Gobernador del Estado, Secretarios de Despacho, Procurador General de Justicia, Procurador del Ciudadano o Magistrados del Tribunal Superior de Justicia, el Juez les pedirá su declaración por oficio.
 
 ###### Artículo 158.
 
@@ -1695,7 +1801,9 @@ III.- Que sea de hechos propios;
 
 IV.- Que no existan en autos otras pruebas o presunciones que, a juicio de la autoridad judicial, la hagan inverosímil.
 
-Las diligencias que practiquen agentes de la Policía Judicial, tendrán valor de testimonios que deberán complementarse con otras diligencias de prueba que practique el Ministerio Público, para atenderse en el acto de la consignación. En ningún caso se podrá tomar como confesión lo asentado por agentes de la Policía Judicial.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+Las Investigaciones y demás diligencias que practiquen los agentes de la Policía Judicial, tendrán valor de testimonios que deberán complementarse con otras diligencias de prueba que practique el Ministerio Público, para atenderse en el acto de la consignación. En ningún caso se podrá tomar como confesión lo asentado por Agentes de la Policía Judicial.
 
 ###### Artículo 196.
 
@@ -1777,7 +1885,9 @@ VII.- Si el acusado se negare a responder a las preguntas que se le hicieren, se
 
 VIII.- No podrá el Juez emplear la incomunicación ni ningún otro medio coercitivo, para lograr la declaración.
 
-IX.- Se hará saber en la misma diligencia al detenido la garantía de la libertad caucional, en los casos en que proceda, y el derecho que tiene para defenderse por sí mismo y para nombrar persona de su confianza que lo defienda, advirtiéndole que si no lo hiciere, el Juez le nombrará un defensor de oficio.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+IX.- Se hará saber en la misma diligencia al detenido la garantía de la libertad caucional, en los casos en que proceda, y el derecho que tiene a una defensa adecuada por sí, por abogado o por persona de su confianza, advirtiéndole que si no quiere o no puede nombrar defensor, después de haber sido requerido para hacerlo, el Juez le nombrará de oficio un defensor social, y
 
 X.- Cuando el acusado hubiere nombrado varios defensores, éstos estarán obligados a nombrar un representante común o, en su defecto, lo hará el Juez.
 
@@ -2223,13 +2333,19 @@ VI.- El auto en que se niegue la orden de aprehensión y el que niegue la citaci
 
 VII. Los autos que ratifiquen la constitucionalidad de una detención conforme al párrafo VI del artículo 16 Constitucional;
 
-> <small>(ADICIONADA, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-VIII. Las demás resoluciones que señale la Ley.
+VIII.- Los autos en que se fije o modifique el monto de la caución para obtener la libertad provisional, teniendo la autoridad revisora, en este caso, un término de cuarenta y ocho horas para resolver al respecto, y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+IX.- Las demás resoluciones que señale la Ley.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 274.
 
-La apelación suspende la ejecución de la resolución apelada, salvo cuando ésta sea el auto de libertad por falta de méritos para procesar, de no sujeción a proceso, de libertad por desvanecimiento de datos o de sobreseimiento.
+La apelación suspende la ejecución de la resolución apelada, salvo cuando ésta sea el auto de libertad por falta de méritos para procesar, de no sujeción a proceso, de libertad por desvanecimiento de datos, de sobreseimiento o la sentencia absolutoria que únicamente involucre delitos de los considerados como no graves, dictada a favor de persona que carezca de antecedentes penales.
 
 ###### Artículo 275.
 
@@ -2619,7 +2735,7 @@ La resolución que se dicte a petición del acusado, en el supuesto previsto en 
 
 #### SECCION SEXTA.- LIBERTAD BAJO CAUCION
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 326.
 
@@ -2751,15 +2867,31 @@ V.- Durante el término a que se refiere la fracción anterior, así como en la 
 
 ###### Artículo 350.
 
-Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, inmediatamente que lo solicite, si se reúnen los siguientes requisitos:
+Todo inculpado tendrá derecho a ser puesto en libertad bajo caución inmediatamente que lo solicite, si reúne los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 1994)</small>
 
 I. Que garantice el monto estimado de la reparación del daño;
 
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 1994)</small>
+
 II. Que garantice las sanciones pecuniarias que en su caso puedan imponérsele;
 
-III. Que caucione el cumplimiento de las obligaciones a su cargo, que la Ley establece en razón del proceso; y,
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
-IV. Que no (sic) trate de alguno de los delitos señalados como graves en el artículo 69.
+III.- Que caucione el cumplimiento de las obligaciones a su cargo, que la Ley establece en razón del proceso;
+
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+IV.- Que no se trate de alguno de los delitos señalados como graves en el artículo 69;
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+V.- Que el inculpado no haya sido condenado con anterioridad por algún delito calificado como grave por la Ley, y
+
+> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+VI.- Que la libertad del inculpado no represente, por su conducta anterior o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
 
@@ -2979,11 +3111,11 @@ Cuando el procesado solamente haya sido declarado sujeto a proceso, podrá solic
 
 Hecha la solicitud relativa a lo dispuesto en los artículos que anteceden, el Juez citará a una audiencia dentro de cinco días, a la que el Ministerio Público deberá asistir y la resolución se dictará, dentro de los tres días siguientes a la celebración de la audiencia.
 
-> <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 381.
 
-La solicitud del Ministerio Público para que se conceda la libertad por desvanecimiento de datos o se declare sin efecto el auto de sujeción a proceso, no implicará el desistimiento de la acción; pero el Juez no podrá dejar de acceder a esta solicitud.
+La solicitud del Ministerio Público para que se conceda la libertad por desvanecimiento de datos o se declare sin efecto el auto de sujeción a proceso, deberá contar con la autorización previa del Procurador de Justicia y no implicará el desistimiento de la acción.
 
 > <small>(F. DE E., P.O. 6 DE ENERO DE 1987)</small>
 
@@ -3023,7 +3155,9 @@ IV.- El Gobernador del Estado, al recibir la copia a que se refiere la fracción
 
 V.- La multa que se haya impuesto como sanción, en la sentencia ejecutoriada, se hará efectiva por las autoridades facultadas legalmente.
 
-VI.- Efectuado el pago de la multa, en todo o en parte, la autoridad que haya hecho el cobro, pondrá dentro del término de tres días la cantidad pagada a disposición del Fondo de la Reparación del Daño y de Ayuda para las Víctimas de los Delitos.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+
+VI.- Efectuado el pago de la multa, en todo o en parte, la Autoridad que haya hecho el cobro pondrá, dentro del término de tres días, la cantidad pagada a disposición del Fondo constituido de acuerdo con la Ley para la Protección a Víctimas de Delitos.
 
 VII.- El Juez o la Sala podrán aplicar a la autoridad encargada legalmente del cobro de la multa, el medio de apremio que estimen necesario, para que cumpla la obligación impuesta en las dos fracciones anteriores.
 
@@ -3136,3 +3270,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE SEPTIEMBRE DE 1998.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
