@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1995-03-24"
+last_updated: "1996-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1996.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -55,13 +55,17 @@ En el Estado de Guanajuato todas las personas gozan de la protección que les ot
 
 El Poder Público únicamente puede lo que la Ley le concede y el gobernado todo lo que ésta no le prohibe.
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-La Ley determinará la organización, funcionamiento, competencia y procedimientos de un organismo estatal de protección de los derechos humanos, que conocerá de quejas en contra de actos y omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción de los del Poder Judicial del Estado; formulará acuerdos o recomendaciones públicas, no vinculatorias y denuncias y quejas ante las autoridades respectivas.
+La Ley establecerá sistemas de impugnación y medios de defensa de los derechos de los particulares frente a los actos de las autoridades.
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 1992)</small>
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-Este organismo no será competente tratándose de asuntos electorales, laborales o jurisdiccionales.
+La Ley determinará la organización, funcionamiento, competencia y procedimientos de un organismo estatal de protección de los derechos humanos, dotado de plena autonomía, que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público de carácter estatal o municipal que violen estos derechos, formulará acuerdos o recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+Este organismo no será competente para conocer de quejas que se originen con motivo de acuerdos o decisiones de instancias electorales, ni tratándose de resoluciones de naturaleza jurisdiccional; pero podrá conocer de asuntos de orden administrativo de los órganos de impartición de justicia que transgredan derechos humanos.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -101,15 +105,13 @@ Ninguna persona requerirá de Título para la enseñanza en cualquier rama del s
 
 Las Leyes respectivas, determinarán las profesiones que requerirán de Título para su ejercicio, las condiciones para obtenerlo, las Instituciones que han de expedirlo y registrarlo, así como las sanciones que deban imponerse a quienes ejerzan una profesión sin cumplir los requisitos legales.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO PARRAFO PRIMERO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 8.
 
-La imposición de las penas corresponde exclusivamente a la Autoridad Judicial competente en orden a su jurisdicción. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial, la cual está bajo la autoridad y mando inmediato de aquél.
+La imposición de las penas es propia y exclusiva de la autoridad judicial. La investigación y persecución de los delitos incumbe al Ministerio Público, el cual contará entre sus auxiliares con un cuerpo pericia y con una policía que estará bajo su autoridad y mando directo e inmediato.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1994)</small>
-
-La Policía Judicial sólo podrá ejercer las funciones que le otorga la Ley por órdenes expresas del Ministerio Público, quien a su vez sólo podrá emitirlas con base a una averiguación legalmente instaurada o por mandamiento judicial, hecha excepción de los casos urgentes y de flagrante delito.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1994)</small>
 
@@ -127,11 +129,21 @@ Sólo en casos urgentes, cuando se trate de delito grave así calificado por la 
 
 En casos de urgencia o flagrancia, el Juez que reciba la consignación del detenido deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de Ley.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+Las determinaciones del Ministerio Público sobre el no ejercicio y desistimiento de la acción penal serán impugnables, en los términos que establezca la Ley.
+
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 1994)</small>
 
 En todo proceso de orden penal, tendrá el inculpado las siguientes garantías:
 
-I.- El derecho a la libertad provisional bajo caución, siempre y cuando se garantice el monto estimado de la reparación del daño que pudiera imponérsele al inculpado y no se trate de delitos en que por su gravedad la Ley expresamente prohiba conceder este beneficio;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+I.- Inmediatamente que lo solicite, el Juez deberá otorgarle la libertad provisional bajo caución, siempre y cuando no se trate de delitos en que, por su gravedad, la Ley expresamente prohiba conceder este beneficio. En caso de delitos no graves, a solicitud del Ministerio Público, el Juez podrá negar la libertad provisional, cuando el inculpado haya sido condenado con anterioridad, por algún delito calificado como grave por la Ley o cuando el Ministerio Público aporte elementos al Juez para establecer que la libertad del inculpado representa, por su conducta precedente o por las circunstancias y características del delito cometido, un riesgo para el ofendido o para la sociedad.
+
+El monto y la forma de caución que se fije, deberán ser asequibles para el inculpado. En circunstancias que la Ley determine, la autoridad judicial podrá modificar el monto de la caución. Para resolver sobre la forma y el monto de la caución, el Juez deberá tomar en cuenta la naturaleza, modalidades y circunstancias del delito; las características del inculpado y la posibilidad de cumplimiento de las obligaciones procesales a su cargo; los daños y perjuicios causados al ofendido; así como la sanción pecuniaria que, en su caso, puede imponerse al inculpado.
+
+La Ley determinará los casos graves en los cuales el Juez podrá revocar la libertad provisional;
 
 II.- No podrá ser obligado a declarar, queda prohibida y será sancionada por la Ley penal, toda incomunicación, intimidación o tortura, la confesión rendida ante cualquier autoridad distinta del Ministerio Público o del Juez, o ante éstos sin la asistencia de su defensor carecerá de todo valor probatorio.
 
@@ -519,11 +531,11 @@ El Poder Legislativo se deposita en una Asamblea denominada Congreso del Estado 
 
 El Poder Ejecutivo se ejercerá por una sola persona denominada Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 39.
 
-Corresponde el ejercicio del Poder Judicial al Supremo Tribunal de Justicia del Estado, a los Jueces de Primera Instancia, a los Jueces Menores y al Jurado Popular, con arreglo a las Leyes respectivas.
+El ejercicio del Poder Judicial corresponde al Supremo Tribunal de Justicia del Estado, a los Jueces de Partido, a los Jueces Menores y al Consejo del Poder Judicial con arreglo a las leyes respectivas.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -797,7 +809,13 @@ XIX.- Revisar las Cuentas Públicas Municipales y las de los Organismos Descentr
 
 XX.- Nombrar y remover a sus empleados. Estas facultades las tendrá la Diputación Permanente en las épocas en que el Congreso no esté en Período Ordinario de Sesiones;
 
-XXI.- Otorgar o negar su aprobación a los nombramientos de los Magistrados del Supremo Tribunal de Justicia hechos por el Gobernador del Estado, conforme a la fracción XII del Artículo 77 de esta Constitución. Esta facultad la tendrá la Diputación Permanente cuando el Congreso no esté en Período Ordinario de Sesiones;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+XXI.- Designar a los Magistrados del Supremo Tribunal de Justicia del Estado de las propuestas que sometan a su consideración, por turnos alternativos, el Gobernador del Estado y el Consejo del Poder Judicial, así como aprobar las solicitudes de licencia de más de seis meses por causa de enfermedad y las renuncias al cargo de Magistrado, cuando éstas sean presentadas al Titular del Poder Ejecutivo del Estado o al Consejo del Poder Judicial, según corresponda por el origen de la propuesta para su designación.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+Designar a los Consejeros Magistrados del Poder Judicial en los términos que establece esta Constitución.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
@@ -805,7 +823,15 @@ Designar de entre sus miembros, a sus representantes ante el Organismo Autónomo
 
 > <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 1992)</small>
 
-Designar al titular del organismo estatal defensor de los derechos humanos, de acuerdo a la propuesta que formule el Gobernador del Estado, en los términos de la Ley respectiva y ratificar los nombramientos que conforme a la misma requieren de ello. Esta facultad la tendrá la Diputación Permanente cuando el Congreso no esté en período de sesiones;
+Designar al titular del organismo estatal defensor de los derechos humanos, de acuerdo a la propuesta que formule el Gobernador del Estado, en los términos de la Ley respectiva y ratificar los nombramientos que conforme a la misma requieren de ello. Esta facultad la tendrá la Diputación Permanente cuando el Congreso no esté en período de sesiones.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+Ratificar el nombramiento del Procurador General de Justicia a propuesta del Gobernador del Estado en los términos que establece esta Constitución.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+Aprobar el nombramiento de los Magistrados del Tribunal de lo Contencioso Administrativo a propuesta del Gobernador del Estado;
 
 XXII.- Erigirse en Jurado de Responsabilidades, en los casos de Juicio Político;
 
@@ -833,11 +859,11 @@ XXXII.- Las demás que de un modo expreso o implícito se le otorguen en cualesq
 
 #### SECCION QUINTA. DE LA DIPUTACION PERMANENTE
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 64.
 
-El día de clausura de cada Período de Sesiones Ordinarias, el Congreso nombrará por escrutinio secreto y mayoría de votos, una Diputación Permanente compuesta de siete Miembros Propietarios y cinco Suplentes, que durarán en su cargo el tiempo comprendido entre la clausura de un Período de Sesiones Ordinarias y la apertura del siguiente. El primero de los nombrados será el Presidente, el segundo el Secretario, el tercero el Prosecretario y los demás tendrán el carácter de Vocales.
+El día de la clausura de cada periodo de sesiones ordinarias, el Congreso del Estado nombrará por escrutinio secreto y mayoría de votos, una Diputación Permanente compuesta por once miembros propietarios y cinco suplentes, que durarán en su cargo el tiempo comprendido entre la clausura de un periodo de sesiones ordinarias y la apertura del siguiente. El primero de los nombrados será el Presidente, el segundo el Vicepresidente, el tercero el Secretario y el cuarto el Prosecretario, los demás tendrán carácter de vocales, propietarios y suplentes, según el orden de la votación obtenida.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -999,13 +1025,23 @@ VII.- Vigilar que la recaudación y distribución de los Fondos Públicos se suj
 
 VIII.- Solicitar a la Diputación Permanente convoque al Congreso a Período Extraordinario de Sesiones, señalando los asuntos que deberán ser tratados en él;
 
-IX.- Concurrir a la apertura de los Periodos Ordinarios de Sesiones del Congreso, que se inicien el día quince de septiembre;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+IX.- Concurrir a la apertura del período ordinario de sesiones del Congreso que se inicie el día veinticinco de septiembre;
 
 X.- Acordar discrecionalmente que los Funcionarios del Poder Ejecutivo comparezcan ante el Congreso en los casos en que éste así lo solicite, cuando se discuta o estudie un negocio relativo a sus funciones;
 
 XI.- Nombrar y remover libremente a todos los Funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no esté determinado de otro modo en esta Constitución o en las Leyes;
 
-XII.- Nombrar en los términos de esta Constitución, a los Magistrados que integran el Supremo Tribunal de Justicia del Estado, y conocer de sus renuncias;
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+Nombrar al Procurador General de Justicia en los términos de esta Constitución y removerlo libremente;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+XII.- Proponer por ternas al Congreso del Estado la aprobación de los Magistrados que integrarán el Supremo Tribunal de Justicia del Estado, en los turnos que le correspondan en los términos de Ley.
+
+Proponer al Congreso del Estado la terna para la designación del Consejero Magistrado que integre el Consejo del Poder Judicial;
 
 XIII.- Ejercer el mando de la fuerza pública en los Municipios donde residiere habitual o transitoriamente;
 
@@ -1017,7 +1053,9 @@ XVI.- Conceder, conforme a las Leyes, indulto a los reos sentenciados por delito
 
 XVII.- Ejercer actos de dominio sobre los bienes inmuebles de dominio privado pertenecientes al Estado, previa autorización del Congreso o de la Diputación Permanente, en su caso, rindiéndole informe del uso que se hiciere de dicha autorización;
 
-XVIII.- Representar al Estado, por sí o por Apoderado Especial cuando proceda;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+XVIII.- Representar al Estado y delegar esta representación en los términos que establezca la Ley;
 
 XIX.- Rendir informes al Congreso del Estado sobre cualquier Ramo de la Administración Pública, y solicitar informes al Supremo Tribunal de Justicia sobre la administración de la Justicia;
 
@@ -1055,19 +1093,21 @@ Todas las leyes, decretos y reglamentos, para su cumplimiento, serán promulgado
 
 Para el despacho de los asuntos a cargo del Poder Ejecutivo, el Gobernador del Estado contará con las Dependencias señaladas en la Ley de la materia, la cual establecerá las atribuciones, forma de organización y facultades de sus Titulares.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION PRIMERA. DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO CUARTO. DEL PODER JUDICIAL
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 81.
 
-El Ministerio Público, y la Policía Judicial dependen del Ejecutivo. El Procurador General de Justicia es el Jefe de la Institución, teniendo bajo su mando a la Policía Judicial, y tendrá a su vez el carácter de Representante Jurídico del Estado y Consejero Legal del Ejecutivo, en los términos que señale la Ley.
+La Ley organizará al Ministerio Público, cuyos servidores serán nombrados y removidos por el Poder Ejecutivo. El Ministerio Público estará presidido por un Procurador General de Justicia, nombrado por el titular del Poder Ejecutivo, con la ratificación del Congreso del Estado. En tanto el Congreso apruebe el nombramiento, el titular del Poder Ejecutivo podrá designar un encargado de despacho, en los términos que establezca la Ley.
+
+Para ser Procurador General de Justicia se deben reunir los requisitos que señala el artículo 86 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 1988)</small>
 
@@ -1081,63 +1121,65 @@ Para la defensa de los derechos de los particulares frente a los actos de las au
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
-#### SECCION SEGUNDA. DE LOS JUECES DE PRIMERA INSTANCIA Y JUECES MENORES
+#### SECCION SEGUNDA. DE LOS JUECES DE PARTIDO Y DE LOS JUECES MENORES
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 83.
 
-Se deposita el ejercicio del Poder Judicial del Estado en un Supremo Tribunal de Justicia, Jueces de Primera Instancia, Jueces Menores y en el Jurado Popular.
+El Supremo Tribunal de Justicia funcionará en Pleno o en Salas. Las sesiones del Pleno en las que se discutan y decidan los asuntos jurisdiccionales serán públicas.
+
+El Poder Judicial contará con un Consejo que tendrá a su cargo la carrera judicial y será el órgano encargado de la administración, capacitación y disciplina; estará integrado por cinco miembros: el Presidente del Supremo Tribunal de Justicia que también presidirá el Consejo, un Juez de Partido que será insaculado de entre quienes cuenten con una experiencia de cinco años cuando menos y reúnan los requisitos que establezca la Ley, dos Consejeros Magistrados, designados por el Congreso de entre las ternas que para tal efecto presenten el Poder Ejecutivo y el Pleno del Supremo Tribunal de Justicia, respectivamente y, un Consejero Magistrado designado por el Congreso del Estado. Los Consejeros Magistrados, salvo su Presidente, durarán cuatro años en su cargo, serán sustituidos cada año de manera escalonada y no podrán ser nombrados para un nuevo período.
+
+El Consejo del Poder Judicial funcionará en pleno; las decisiones que se refieran a cuestiones disciplinarias, de designación, adscripción y sanciones administrativas de los servidores públicos judiciales podrán ser recurridas ante el Pleno del Supremo Tribunal de Justicia.
 
 > <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
 
 ###### ARTICULO 84.
 
-El Supremo Tribunal se compondrá del número de Magistrados Propietarios y Supernumerarios que señale la Ley Orgánica del Poder Judicial, nombrados por el Gobernador del Estado, con la aprobación del Congreso o de la Diputación Permanente, en los términos de la Fracción XII del Artículo 77 y de la Fracción XXI del Artículo 63 de esta Constitución. Tendrá un Presidente, que será el Magistrado Propietario que designe el Pleno, quien durará en su encargo un año, y podrá ser reelecto.
+El Supremo Tribunal de Justicia se compondrá del número de Magistrados Propietarios o Supernumerarios que determine el Consejo del Poder Judicial.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 1988)</small>
+En la primera sesión de enero de cada dos años el Pleno del Supremo Tribunal de Justicia, elegirá de entre sus miembros al Presidente, el cual podrá ser reelecto para un período más.
 
-Los nombramientos de los Magistrados serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+El Presidente del Supremo Tribunal de Justicia rendirá ante el Pleno y ante el Consejo del Poder Judicial un informe anual de labores en la última sesión del mes de diciembre.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 85.
 
-Las faltas temporales del Presidente del Supremo Tribunal, que no excedan de quince días, serán suplidas por los demás Magistrados Propietarios en funciones, en el orden que decida el Pleno.
+Las faltas de los Magistrados por licencia serán cubiertas por el Magistrado Supernumerario que designe el Pleno del Supremo Tribunal de Justicia. Tratándose de separación definitiva se hará nuevo un nombramiento conforme al artículo 87 de esta Constitución.
 
-Los Magistrados Supernumerarios suplirán las faltas temporales de los Magistrados Propietarios, siempre que no excedan de dos meses. En las faltas que excedan de dicho término, cualquiera que sea la causa, el Tribunal en Pleno elegirá de entre los Supernumerarios al Magistrado que deba sustituirlo durante su ausencia.
-
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 86.
 
-Para ser Magistrado, se requiere:
+Para ser Magistrado del Supremo Tribunal de Justicia se requiere:
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 1988)</small>
+I.- Ser ciudadano mexicano y guanajuatense en pleno ejercicio de sus derechos civiles y políticos;
 
-I.- Ser ciudadano mexicano por nacimiento, de preferencia ciudadano guanajuatense, en pleno ejercicio de sus derechos políticos y civiles;
+II.- Tener cuando menos treinta y cinco años cumplidos al día de la designación;
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 1988)</small>
+III.- Tener título de Abogado o Licenciado en Derecho expedido por institución legalmente facultada para ello y por lo menos diez años de ejercicio en alguna de las ramas de la profesión jurídica;
 
-II.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la designación;
+IV.- Haberse distinguido por su honorabilidad, competencia y antecedentes en el ejercicio de la profesión jurídica o ser Juez de Partido y haber satisfecho los requerimientos de la carrera judicial en los términos que establezca la Ley;
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 1988)</small>
+V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de libertad de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama pública quedará inhabilitado para el cargo, cualquiera que haya sido la pena; y
 
-III.- Tener título de Abogado o Licenciado en Derecho, expedido por la Institución legalmente facultada para ello, y por lo menos cinco años de práctica en el ejercicio de su actividad profesional;
+VI.- Haber residido en el Estado durante los últimos cinco años, salvo el caso de ausencia en servicio de la República o del Estado.
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 1988)</small>
-
-IV.- Gozar de buena reputación y no haber sido condenado ejecutoriamente por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación o abuso de confianza quedará inhabilitado para el cargo, cualquiera que haya sido la pena;
-
-> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 1988)</small>
-
-V.- Haber residido en el Estado durante los últimos cinco años, salvo el caso de ausencia en servicio de la República o el Estado por un tiempo menor de seis meses.
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 87.
 
-Los Magistrados durarán en el ejercicio de su encargo seis años y tomarán posesión el día primero de octubre siguiente a la fecha de toma de posesión del Gobernador; podrán ser reelectos y en éste supuesto, sólo podrán ser privados de sus puestos en los términos que determine esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Los Magistrados del Supremo Tribunal de Justicia durarán en su cargo siete años, podrán ser ratificados y si lo fueren, sólo serán removidos de su cargo en los términos del artículo 126 de esta Constitución y de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+Los Magistrados recibirán un haber de retiro en los términos, cuantía y condiciones que señale la Ley.
+
+El Congreso del Estado por el voto de las dos terceras partes de los miembros presentes del Pleno hará la designación de Magistrados al Supremo Tribunal de Justicia de entre las ternas, que por turnos alternativos, presenten el Gobernador del Estado y el Consejo del Poder Judicial.
+
+En caso de que el Congreso del Estado rechace la totalidad de la terna propuesta, el Gobernador del Estado o el Consejo del Poder Judicial someterán una nueva en los términos del párrafo anterior. Si esta segunda terna fuere rechazada, ocupará el cargo la persona que dentro de dicha terna designe el Gobernador o el Consejo del Poder Judicial, según corresponda, siempre y cuando se satisfagan los requisitos que exigen para tal efecto esta Constitución y la Ley.
+
+Los Magistrados Supernumerarios podrán ser considerados en las ternas para nombrar Magistrados Propietarios cuando reúnan los requisitos de Ley.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1145,51 +1187,103 @@ Los Magistrados durarán en el ejercicio de su encargo seis años y tomarán pos
 
 Los Magistrados del Supremo Tribunal de Justicia, al entrar a ejercer su cargo, protestarán ante el Congreso y si éste no estuviere en Período de Sesiones, ante la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 89.
 
-Las facultades y obligaciones del Supremo Tribunal de Justicia, son:
+Las facultades y obligaciones del Pleno del Supremo Tribunal de Justicia son:
 
-I.- Conocer en los Juicios Civiles y Penales de las Instancias y recursos que sean de su competencia, de conformidad con las Leyes;
+I.- Iniciar Leyes o decretos relacionados con la impartición de justicia;
 
-II.- Decidir las cuestiones de competencia que se susciten entre los Funcionarios Encargados de la Administración de Justicia en el Estado, en los casos que determine la Ley;
+II.- Proponer al Congreso del Estado la terna para designación de Consejeros Magistrados que integrarán el Consejo del Poder Judicial. Los propuestos deberán ser personas que no pertenezcan al Poder Judicial;
 
-III.- Dictar las medidas que sean procedentes para que la administración de justicia sea pronta y expedita;
+III.- Conocer en los juicios civiles y penales, de las instancias y recursos que sean de su competencia de conformidad con las leyes;
 
-IV.- Nombrar Jueces de Primera Instancia y Jueces Menores. Señalar sus adscripciones; concederles licencias con goce de sueldo o sin él y resolver sobre las renuncias que presenten;
+IV.- Establecer jurisprudencia en los términos que fije la Ley;
 
-V.- Nombrar y remover por causa justificada a los Funcionarios y empleados del Supremo Tribunal, concederles licencias con goce de sueldo o sin él y resolver sobre las renuncias que presenten;
+V.- Decidir los conflictos de competencia jurisdiccional que se susciten entre los funcionarios encargados de la impartición de justicia;
 
-VI.- Iniciar Leyes o Decretos en el ramo de sus atribuciones; y,
+VI.- Elegir al Presidente del Supremo Tribunal de Justicia;
 
-VII.- Cumplir las demás atribuciones que le señalen la Ley Orgánica del Poder Judicial del Estado, los Códigos de Procedimientos y demás Leyes aplicables.
+VII.- Conocer de las recusaciones con causa y de las excusas de los Magistrados;
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1988)</small>
+VIII.- Aprobar las licencias de Magistrados que no excedan de seis meses;
+
+IX.- Conocer y resolver las excitativas de justicia que se promuevan contra los Magistrados del Tribunal;
+
+X.- Expedir en el ámbito de su competencia, el reglamento interior del Supremo Tribunal de Justicia remitiéndolo al periódico oficial del Gobierno del Estado para su publicación;
+
+XI.- Conocer de las contradicciones entre las tesis contenidas en las resoluciones de las salas o de los juzgados, para decidir cual debe prevalecer;
+
+XII.- Conocer y resolver los recursos contra las resoluciones que dicte el Consejo del Poder Judicial de conformidad con lo dispuesto en esta Constitución;
+
+XIII.- Aprobar anualmente el anteproyecto de presupuesto de egresos del Poder Judicial que le presente el Consejo del Poder Judicial;
+
+XIV.- Presentar al Congreso del Estado la cuenta de gastos de la impartición de justicia, en períodos no mayores de seis meses; y
+
+XV.- Cumplir las demás atribuciones que le señalen las Leyes.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 90.
 
-Los Magistrados y los Jueces, percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
+Las facultades y obligaciones del Consejo del Poder Judicial son:
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+I.- Contribuir a la defensa de la independencia y autonomía del Poder Judicial;
+
+II.- Expedir y difundir los acuerdos generales para el adecuado ejercicio de sus funciones;
+
+III.- Administrar la carrera judicial;
+
+IV.- Hacer las propuestas de designación de los Magistrados de acuerdo con las reglas de la carrera judicial, en los turnos que correspondan al Poder Judicial, y someterlos a la aprobación del Congreso del Estado;
+
+V.- Dictar las medidas que sean procedentes para que la impartición de justicia sea pronta, completa e imparcial en términos de Ley;
+
+VI.- Designar a los jueces y al personal de los juzgados de acuerdo con las reglas de la carrera judicial, en los términos de Ley;
+
+VII.- Establecer la competencia por materia de las salas, previa opinión del Pleno del Supremo Tribunal de Justicia;
+
+VIII.- Aumentar o disminuir el número de salas previa opinión del Pleno del Supremo Tribunal de Justicia;
+
+IX.- Aumentar o diminuir (sic) el número de juzgados, determinar su organización y funcionamiento y crear o suprimir plazas de servidores públicos del Poder Judicial;
+
+X.- Determinar la adscripción de los jueces y del personal de los juzgados, dar curso a las renuncias que se presenten y decidir el cese de jueces;
+
+XI.- Imponer a los servidores públicos judiciales las sanciones que procedan conforme a la Ley, previa garantía de audiencia y defensa;
+
+XII.- Otorgar estímulos y recompensas a los servidores públicos judiciales que se hayan destacado en el desempeño de su cargo;
+
+XIII.- Conceder licencias a los jueces, secretarios y demás empleados hasta por seis meses;
+
+XIV.- Adoptar las providencias necesarias para el eficiente manejo administrativo del Poder Judicial;
+
+XV.- Expedir su reglamento interno remitiéndolo al periódico oficial del Gobierno del Estado para su publicación;
+
+XVI.- Expedir los manuales de organización y procedimientos de los juzgados;
+
+XVII.- Formular el anteproyecto del presupuesto de egresos y someterlo a la aprobación del Pleno del Supremo Tribunal de Justicia;
+
+XVIII.- Ejercer el presupuesto de egresos y el fondo auxiliar para la impartición de justicia, con transparencia, eficacia, honradez y con estricto apego a las políticas de disciplina, racionalidad y austeridad;
+
+XIX.- Informar trimestralmente al Pleno del Supremo Tribunal de Justicia sobre el ejercicio del presupuesto de egresos y del fondo auxiliar para la impartición de justicia;
+
+XX.- Inspeccionar, fiscalizar y vigilar el funcionamiento de los juzgados y la conducta de los jueces; y
+
+XXI.- Las demás que le señalen las Leyes.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 91.
 
-Los Magistrados en ejercicio de sus funciones no podrán ejercer la profesión de Abogados sino en negocios propios, de sus ascendientes, de su esposa, o de sus hijos, ni desempeñar otro empleo o cargo público o privado, a excepción de los docentes.
+El Poder Judicial administrará con autonomía su presupuesto. El Consejo del Poder Judicial elaborará el anteproyecto de presupuesto del Poder Judicial y lo someterá a la aprobación del Pleno. Este será remitido por el Presidente del Supremo Tribunal de Justicia para su inclusión en el proyecto de Presupuesto de Egresos del Estado. El anteproyecto de Presupuesto comprenderá los ingresos propios del Poder Judicial para la constitución del Fondo Auxiliar para la impartición de Justicia.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 92.
 
-La Ley Orgánica del Poder Judicial, garantizará la independencia de los Magistrados y Jueces en el ejercicio de sus funciones.
+Los Magistrados, los Consejeros Magistrados, los Jueces, los Secretarios y los Actuarios del Poder Judicial no podrán ejercer la profesión de abogado, sino en negocio propio, de su cónyuge, de sus ascendientes o descendientes sin limitación de grado, ni desempeñar otro cargo o empleo público o privado, a excepción de los docentes.
 
-Determinará la organización y funcionamiento del Supremo Tribunal de Justicia y de los Juzgados dependientes de éste, las atribuciones del Presidente y de los Magistrados, el número y competencia de éstos, de los Jueces de Primera Instancia y de los Jueces Menores.
-
-Establecerá las condiciones para el ingreso, formación y permanencia de quienes sirvan al Poder Judicial del Estado.
-
-Asimismo, fijará las bases para el establecimiento de la carrera judicial.
-
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION PRIMERA. DE LOS AYUNTAMIENTOS
 
@@ -1197,15 +1291,37 @@ Asimismo, fijará las bases para el establecimiento de la carrera judicial.
 
 ###### ARTICULO 93.
 
-Los Jueces de Primera Instancia y los Jueces Menores serán nombrados por el Pleno del Supremo Tribunal de Justicia, atendiéndose a lo dispuesto por el segundo párrafo del artículo 84 de esta Constitución.
+La Ley Orgánica del Poder Judicial establecerá:
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+I.- La independencia de los Magistrados y Jueces en el ejercicio de sus funciones jurisdiccionales;
+
+II.- La estructura, integración, competencia y funcionamiento del Pleno del Supremo Tribunal de Justicia;
+
+III.- La organización, competencia y funcionamiento de las Salas;
+
+IV.- La organización, competencia y funcionamiento de los Juzgados de Partido, Menores y de sus demás órganos;
+
+V.- Las atribuciones del Presidente, de los Magistrados, de los Jueces, del Consejo del Poder Judicial y de los demás servidores públicos;
+
+VI.- Los términos en que será obligatoria la jurisprudencia que establezca el Pleno del Supremo Tribunal de Justicia sobre interpretación de las Leyes, así como los requisitos para su interrupción o modificación;
+
+VII.- Las obligaciones que deben cumplir los servidores públicos del Poder Judicial y sus responsabilidades, a fin de salvaguardar la imparcialidad, legalidad, honradez, independencia, veracidad, lealtad, celeridad, eficiencia y eficacia en el desempeño de sus funciones; las sanciones disciplinarias que deban imponerse a quienes incumplan sus obligaciones; el procedimiento y los recursos que procedan contra las resoluciones que se dicten, así como la competencia respectiva de cada órgano;
+
+VIII.- La carrera judicial que fijará el catálogo de puestos, las bases para el ingreso, permanencia y ascenso de los servidores públicos del Poder Judicial, así como su capacitación, especialización y actualización;
+
+IX.- La observancia de los principios de excelencia, objetividad, imparcialidad, rectitud, probidad e independencia que regirán la carrera judicial;
+
+X.- La forma de constituir el fondo auxiliar para la impartición de justicia, sus objetivos y la forma en que se manejará; y
+
+XI.- La organización y funcionamiento de la Comisión Sustanciadora que tramite el procedimiento y formule el dictamen a partir del cual el Pleno del Supremo Tribunal de Justicia resolverá los conflictos laborales suscitados entre el Poder Judicial y sus servidores.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 94.
 
-La Ley Orgánica del Poder Judicial determinará los requisitos necesarios para ser Juez de Primera Instancia o Menor.
+Los Jueces de Partido y los Jueces Menores serán nombrados por el Consejo del Poder Judicial, atendiendo a lo dispuesto por la fracción VI del artículo 90 de esta Constitución.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO SEGUNDO. DE LA HACIENDA PUBLICA
 
@@ -1217,7 +1333,7 @@ La Ley Orgánica del Poder Judicial determinará los requisitos necesarios para 
 
 ###### ARTICULO 95.
 
-Los Jueces de Primera Instancia y los Jueces Menores en funciones, no podrán ejercer la profesión de Abogados sino en negocios propios, de sus ascendientes, de su esposa o de sus hijos, ni desempeñar otro empleo público o privado, cargo o comisión, a excepción de los docentes.
+La Ley Orgánica del Poder Judicial determinará los requisitos necesarios para ser Juez.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1557,17 +1673,19 @@ Si se recibiere resolución de la Cámara de Senadores, el Congreso del Estado, 
 
 Las sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 125.
 
-Cuando se procediere penalmente contra el Gobernador del Estado, Diputados Locales y Magistrados del Supremo Tribunal de Justicia del Estado, por delitos de carácter federal cometidos durante el tiempo de su encargo, en los términos de los Artículos 111 y 114 de la Constitución Política de los Estados Unidos Mexicanos, recibida por el Congreso del Estado, la declaración de procedencia, éste resolverá, en ejercicio de sus atribuciones, lo que corresponda.
+Cuando se procediere penalmente contra el Gobernador del Estado, Diputados Locales, Magistrados del Supremo Tribunal de Justicia y miembros del Consejo del Poder Judicial, por delitos de carácter federal cometidos durante el tiempo de su encargo, en los términos de los artículos 111 y 114 de la Constitución Política de los Estados Unidos Mexicanos, recibida por el Congreso del Estado, la declaración de procedencia, éste resolverá, en ejercicio de sus atribuciones lo que corresponda.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 126.
 
-Los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los Titulares de las Dependencias que señala la Ley Orgánica del Poder Ejecutivo, los miembros de los Ayuntamientos, los Consejeros Ciudadanos integrantes del Organo Estatal de dirección del Organismo Autónomo Electoral a que se refiere el artículo 31 de esta Constitución y los Magistrados del Tribunal Estatal Electoral, durante el tiempo de su encargo sólo podrán ser juzgados por delitos intencionales del orden común que merezcan penas privativas de libertad, pero para ello es necesario que, previamente, el Congreso del Estado, erigido en Jurado de Procedencia, lo declare así por el voto de las dos terceras partes de sus integrantes.
+Los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los miembros del Consejo del Poder Judicial, los titulares de las dependencias que señala la Ley Orgánica del Poder Ejecutivo, los miembros de los Ayuntamientos, los Consejeros Ciudadanos integrantes del Organo Estatal de Dirección del Organismo Autónomo Electoral, a que se refiere el artículo 31 de esta Constitución, los Magistrados del Tribunal de lo Contencioso Administrativo y del Tribunal Estatal Electoral, durante el tiempo de su encargo, sólo podrán ser juzgados por delitos intencionales del orden común que merezcan penas privativas de libertad, pero para ello es necesario que, previamente el Congreso del Estado, erigido en Jurado de Procedencia, lo declare así por el voto de las dos terceras partes de sus integrantes.
+
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)</small>
 
 El Gobernador del Estado, a partir de la declaratoria de su elección y hasta la terminación de su encargo, sólo podrá ser acusado por delitos graves de orden común.
 
@@ -2134,3 +2252,19 @@ P.O. 24 DE MARZO DE 1995.
 ###### ARTICULO UNICO.
 
 EL PRESENTE DECRETO ENTRARA EN VIGOR EL CUARTO DIA SIGUIENTE AL DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+P.O. 24 DE DICIEMBRE DE 1996.
+
+Artículo Primero.- El presente decreto entrará en vigor al cuarto día siguiente a su publicación el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Las disposiciones relativas a la integración y funcionamiento del Consejo del Poder Judicial, entrarán en vigor el 1o. de abril de 1997.
+
+Artículo Tercero.- Para los efectos del artículo 87 de esta Constitución que se reforma, corresponderá al Consejo del Poder Judicial iniciar los turnos alternativos para proponer al Congreso del Estado, el nombramiento de Magistrados.
+
+Artículo Cuarto.- Los Consejeros que integrarán el primer Consejo del Poder Judicial tendrán la siguiente duración en su cargo: el Juez de Partido un año; el Consejero Magistrado propuesto por el Ejecutivo dos años; el Consejero Magistrado propuesto por el Poder Judicial tres años y el Consejero Magistrado designado por el Poder Legislativo cuatro años.
+
+Artículo Quinto.- El actual Presidente del Supremo Tribunal de Justicia durará en su cargo hasta la primera sesión del Pleno del Supremo Tribunal de Justicia, que se celebrará en el mes de enero de 1998.
+
+En la elección de Presidente del Supremo Tribunal de Justicia que tendrá lugar en el mes de enero de 1998, en los términos del artículo 84 de esta Constitución que se reforma, serán elegibles todos los Magistrados Propietarios.
+
+Artículo Sexto.- Los Magistrados que actualmente integran el Supremo Tribunal de Justicia durarán en su cargo seis años a partir de la fecha de su nombramiento.
