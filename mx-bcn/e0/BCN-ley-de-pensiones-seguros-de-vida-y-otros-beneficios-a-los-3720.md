@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-pensiones-seguros-de-vida-y-otros-beneficios-a-los-3720"
 country: "mx"
 rank: "ley"
 publication_date: "1960-05-20"
-last_updated: "1991-08-10"
+last_updated: "1992-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PENSIONES, SEGUROS DE VIDA Y OTROS BENEFICIOS A LOS VETERANOS DE LA REVOLUCION, DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE AGOSTO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 20 de mayo de 1960.
 
@@ -93,9 +93,9 @@ IV.- De las otras funciones que a la Comisión le sean propias, de conformidad c
 
 Los beneficios que el Gobierno del Estado otorga a los Veteranos en reconocimiento a los servicios prestados a la Revolución Mexicana, son los siguientes:
 
-(REFORMADA, P.O. 10 DE JUNIO DE 1983).
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 1992)</small>
 
-I.- Pensión Vitalicia hasta de $15,000.00 mensuales para el Veterano, y en caso de su fallecimiento, para su cónyuge, previo dictamen de la Comisión Consultiva.
+I.- Pensión Vitalicia mensual por el equivalente de 60 veces el salario mínimo diario, vigente en el Estado, y con posterioridad a su fallecimiento la Pensión Vitalicia será pagada a su cónyuge.
 
 > <small>(REFORMADA, P.O. 10 DE AGOSTO DE 1991)</small>
 
@@ -220,6 +220,12 @@ P.O. 10 DE JUNIO DE 1983.
 UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 P.O. 10 DE AGOSTO DE 1991.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 20 DE FEBRERO DE 1992.
 
 ###### ARTICULO UNICO.
 
