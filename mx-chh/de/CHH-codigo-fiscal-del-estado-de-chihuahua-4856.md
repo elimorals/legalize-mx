@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1974-12-28"
+last_updated: "1975-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1975.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -343,9 +343,9 @@ Las autoridades, a solicitud del interesado expresada en el momento de hacer el 
 
 La protesta quedará sin efecto y el pago se considerará definitivo desde la fecha en que se hizo el entero respectivo, cuando no se promuevan dentro del término legal los recursos o medios de defensa o fueren rechazados o sobreseídos o cuando de la resolución que se dicte resultare la procedencia del pago.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1975)</small>
 
-50.- Los causantes y responsables solidarios que no paguen los créditos fiscales que les sean exigibles, deberán cubrir recargos por la mora; serán el 2% por cada mes de calendar (sic) o fracción en que se retarde el pago. En ningún caso los recargos excederán del importe del crédito fiscal omitido.
+50.- Los causantes y responsables solidarios que no paguen los créditos fiscales que les sean exigibles, deberán cubrir recargos por la mora; serán de 3% por cada mes de calendario o fracción en que se retarde el pago. En ningún caso los recargos excederán del importe de crédito fiscal omitido.
 
 51.- El fisco estatal está obligado a devolver las cantidades que se le paguen indebidamente, conforme a las reglas que siguen:
 
@@ -983,7 +983,7 @@ Hasta $ 250,000.00 9.0 al millar
 
 Hasta $ 500,000.00 10.5 al millar
 
-Hasta $ 1,000,000.00 12.5 al millar
+Hasta $ 1,000,000.00 2.5 al millar
 
 Más de $ 1,000,000.00 15.0 al millar
 
@@ -1279,17 +1279,13 @@ IV.- A registrarse en la Recaudación de Rentas de su jurisdicción, dentro del 
 
 TARIFA:
 
-Porcentajes para
+Límite Inferior Limite Superior Cuota Fija Porcentajes para
 
-aplicarse sobre el
+M $ N M $ N M $ N aplicarse sobre el
 
 excedente del
 
 límite inferior
-
-Límite Inferior Limite Superior Cuota Fija
-
-M $ N M $ N M $ N
 
 De 0.01 a 2,500.00 0.00 exento
 
@@ -3195,7 +3191,7 @@ Galeana 0.6%
 
 General Trías 1.0%
 
-Gómez Farías 1.2%
+Gómez Farías 1,2%
 
 Gran Morelos 0.9%
 
@@ -3253,7 +3249,7 @@ Riva Palacio 1.6%
 
 Rosales 1.4%
 
-Rosario Valle del 0.9%
+Rosario Valle de 0.9%
 
 San Francisco de Borja 1.0%
 
@@ -4408,3 +4404,7 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente d
 P.O. 28 DE DICIEMBRE DE 1974.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor en todo el Estado de Chihuahua el día primero de Enero de mil novecientos setenta y cinco.
+
+P.O. 24 DE MAYO DE 1975.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
