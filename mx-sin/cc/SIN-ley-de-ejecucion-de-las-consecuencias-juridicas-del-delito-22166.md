@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-ejecucion-de-las-consecuencias-juridicas-del-delito-2216
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-14"
-last_updated: "2001-09-14"
+last_updated: "2002-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EJECUCION DE LAS CONSECUENCIAS JURIDICAS DEL DELITO DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2002.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el viernes 14 de septiembre de 2001.
 
@@ -1411,9 +1411,11 @@ El reglamento del servicio civil relacionado con la ejecución de las consecuenc
 
 ## TRANSITORIOS
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2002)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-Esta Ley entrará en vigor a los ciento ochenta días de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+Esta Ley entrará en vigor el día tres de enero de 2003.
 
 ###### ARTÍCULO SEGUNDO.
 
@@ -1466,3 +1468,9 @@ Ramón de Jesús Castro Atondo.
 El Secretario de Seguridad Pública
 
 Humberto López Favela.
+
+P.O. 11 DE MARZO DE 2002.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
