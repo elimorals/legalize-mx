@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2000-06-08"
+last_updated: "2000-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE AGOSTO DE 2000.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -1093,6 +1093,28 @@ Los lesionados que ingresen para su curación a los hospitales públicos, tan lu
 ###### ARTICULO 131.
 
 Siempre que un lesionado internado en un hospital público, salga de él, los médicos del establecimiento rendirán dictamen haciendo la clasificación legal, señalando el tiempo que dilatare la curación o dando el certificado de sanidad, según el caso.
+
+> <small>(ADICIONADO, G.O. 24 DE AGOSTO DE 2000)</small>
+
+###### ARTICULO 131 Bis.
+
+El Ministerio Público autorizará en un término de veinticuatro horas, la interrupción del embarazo de acuerdo con lo previsto en el artículo 334, fracción I del Código Penal cuando concurran los siguientes requisitos:
+
+I.- Que exista denuncia por el delito de violación o inseminación artificial no consentida;
+
+II.- Que la víctima declare la existencia del embarazo;
+
+III.- Que se compruebe la existencia del embarazo en cualquier institución del sistema público o privado de salud;
+
+IV.- Que existan elementos que permitan al Ministerio Público suponer que el embarazo es producto de la violación; y
+
+V.- Que exista solicitud de la mujer embarazada.
+
+Las instituciones de salud pública del Distrito Federal deberán, a petición de la interesada, practicar el examen que compruebe la existencia del embarazo, así como su interrupción.
+
+En todos los casos tendrán la obligación de proporcionar a la mujer información imparcial, objetiva, veraz y suficiente sobre los procedimientos, riesgos, consecuencias y efectos; así como de los apoyos y alternativas existentes; para que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable. Esta información deberá ser proporcionada de manera inmediata y no deberá tener como objetivo, inducir o retrasar la decisión de la mujer.
+
+De igual manera, en el periodo posterior ofrecerán la orientación y apoyos necesarios para propiciar su rehabilitación personal y familiar para evitar abortos subsecuentes.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -5399,3 +5421,7 @@ UNICO.- El presente Decreto entrará en vigor el 1º de octubre de 1999. Publíq
 G.O. 8 DE JUNIO DE 2000.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 24 DE AGOSTO DE 2000.
+
+UNICO.- El presente decreto entrará en vigor treinta días después de su publicación en la Gaceta Oficial del Distrito Federal.
