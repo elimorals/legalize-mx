@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1942-12-03"
+last_updated: "1942-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE DICIEMBRE DE 1942.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 1942.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -8459,7 +8459,7 @@ La mayoría de los interesados, o la autorización judicial en su caso, determin
 
 ARTICULO 1700
 
-Aprobados el inventario y la cuenta de administración, el albacea debe hacer en seguida (sic) la partición de la herencia.
+Aprobados el inventario y la cuenta de administración, el albacea debe hacer enseguida la partición de la herencia.
 
 ARTICULO 1701
 
@@ -10771,7 +10771,7 @@ ARTICULO 2210
 
 Se exceptúa de lo dispuesto en el artículo anterior, la venta o cesión de acciones hereditarias cuando sean coherederos las personas mencionadas, o de derechos a que estén afectos bienes de su propiedad.
 
-ARTICULO 2211
+ARTICULO 2711
 
 Los hijos sujetos a la patria potestad solamente pueden vender a sus padres los bienes comprendidos en la primera clase de las mencionadas en el artículo 357.
 
@@ -14051,7 +14051,7 @@ La acción hipotecaria prescribirá a los diez años, contados desde que pueda e
 
 ARTICULO 2852
 
-La hipoteca nunca es tácita, ni general; para producir efectos contra tercero necesita siempre de registro, y se contrae por voluntad, en los convenios, y por necesidad, cuando la ley sujeta a alguna persona a prestar esa garantía sobre bienes determinados. En el primer caso se llama voluntaria; en el segundo, necesaria.
+La hipoteca nunca es tácita, ni general; para producir efectos contra tercero necesita siempre de registro, y se contrae por voluntad, en los convenios; y por necesidad, cuando la ley sujeta a alguna persona a prestar esa garantía sobre bienes determinados. En el primer caso se llama voluntaria; en el segundo, necesaria.
 
 ### CAPITULO II. De la hipoteca voluntaria
 
@@ -14521,9 +14521,13 @@ ARTICULO 2932
 
 Subsiste en el Estado el Registro Público de la Propiedad, de acuerdo con lo dispuesto en este Título y en la Ley y Reglamento de la materia.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1942)</small>
+
 ARTICULO 2933
 
-El número de oficinas, organización interior de las mismas y demás detalles adjuntos, serán fijados por la Ley y su Reglamento.
+El número de oficinas, la organización y el funcionamiento de las mismas, así como su dirección técnica, se fijarán por la Ley Reglamentaria correspondiente.
+
+De la Dirección Técnica del Registro Público dependerá, en lo administrativo, la resolución de las consultas que se susciten con motivo de la aplicación de las disposiciones que rigen a la Institución.
 
 ARTICULO 2934
 
@@ -14607,9 +14611,11 @@ No pueden los bienes raíces o los derechos reales impuestos sobre los mismos, a
 
 ### CAPITULO III. Del modo de hacer el registro y de las personas que tienen derecho de pedir la inscripción
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1942)</small>
+
 ARTICULO 2943
 
-La inscripción de los títulos en el Registro puede pedirse por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir, o por el notario que haya autorizado la escritura de que se trate.
+La inscripción de los documentos puede pedirse por todo el que tenga interés legítimo en asegurar el derecho que se va a inscribir, o por el Notario que haya autorizado la escritura correspondiente, y deberá hacerse únicamente cuando los bienes a que se refieran los títulos, derechos o actos de que se trate, estén ubicados en jurisdicción de la Oficina donde se pretenda hacer el registro.
 
 ARTICULO 2944
 
@@ -14627,9 +14633,11 @@ ARTICULO 2945
 
 El interesado presentará el título que va a ser registrado y cuando se trate de documentos que impliquen transmisiones o modificaciones de la propiedad de fincas rústicas o urbanas, un plano o croquis de esas fincas.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1942)</small>
+
 ARTICULO 2946
 
-El registrador hará la inscripción si encuentra que el título presentado es de los que deben inscribirse; llena las formas extrínsecas exigidas por la ley y contiene los datos a que se refiere el artículo 2948. En caso contrario, devolverá el título sin registrar, siendo necesaria resolución judicial para que se haga el registro.
+El registrador hará la inscripción si encuentra que el documento presentado es de los que deben inscribirse; llena las formas extrínsecas exigidas por la Ley y no existe en contra de tal acto oposición fundada de persona que tenga interés legítimo en el mismo, ni resolución negativa de la Dirección Técnica del Registro, a la que se hubiese consultado previamente.
 
 ARTICULO 2947
 
@@ -14637,11 +14645,15 @@ En el caso a que se refiere la parte final del artículo anterior, el registrado
 
 Transcurridos tres años sin que se comunique al registrador la calificación que del título presentado haya hecho el juez, a petición de parte interesada se cancelará la inscripción preventiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE DICIEMBRE DE 1942)</small>
+
 ARTICULO 2948
 
-Toda inscripción que se haga en el Registro expresará las circunstancias siguientes:
+Toda inscripción que se haga en el Registro, expresará las circunstancias siguientes:
 
-I.- La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que debe inscribirse; su medida superficial, nombre y número si constare en el título, o la referencia al registro anterior en donde consten esos datos; asimismo, constará la mención de haberse agregado el plano o croquis al legajo respectivo;
+> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1942)</small>
+
+I.- La naturaleza, situación y linderos de los inmuebles, objeto de la inscripción o a los cuales afecte el derecho que debe registrarse; su medida superficial, nombre y número, si constare en el título; la referencia al antecedente inmediato anterior, cuya inscripción será obligatoria y previa a la del título que trate de registrarse, y la mención de haberse agregado el plano o croquis al legajo respectivo;
 
 II.- La naturaleza, extensión, condiciones y cargas del derecho que se constituya, transmita, modifique o extinga;
 
@@ -14657,9 +14669,11 @@ VII.- La fecha del título y el funcionario que lo haya autorizado;
 
 VIII.- El día y hora de la presentación del título en el Registro.
 
+> <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1942)</small>
+
 ARTICULO 2949
 
-El registrador que haga una inscripción sin cumplir con lo dispuesto en el artículo anterior, será responsable de los daños y perjuicios que cause a los interesados, y sufrirá una suspensión de empleo por tres meses.
+El registrador que haga una inscripción sin cumplir lo dispuesto en el artículo anterior y en el 2946, será responsable de los daños y perjuicios que cause a los interesados, y sufrirá una suspensión de empleo por tres meses.
 
 ARTICULO 2950
 
@@ -14932,3 +14946,13 @@ Unico.- Esta Ley comenzará a surtir sus efectos desde la fecha de su publicaci�
 G.O. 3 DE DICIEMBRE DE 1942.
 
 La presente Ley surtirá sus efectos a partir de la fecha de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 24 DE DICIEMBRE DE 1942.
+
+###### ARTICULO PRIMERO.
+
+Esta Ley comenzará a regir el primero de enero de mil novecientos cuarenta y tres.
+
+###### ARTICULO SEGUNDO.
+
+Se faculta al Ejecutivo del Estado, para expedir la Ley Reglamentaria del Registro de la Propiedad, a que se refiere el artículo único del esta Ley.
