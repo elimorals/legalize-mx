@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-notariado-del-estado-de-chihuahua-10346"
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-12"
-last_updated: "1995-08-12"
+last_updated: "1999-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL NOTARIADO DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de agosto de 1995.
 
@@ -63,9 +63,27 @@ Cuando en esta Ley se establezcan términos, salvo disposición expresa, se ente
 
 Para todos los efectos de esta Ley, salvo lo establecido en el artículo 29, serán inhábiles: los sábados, los domingos y los que como días de descanso obligatorio señala la legislación laboral.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 4.
 
-El ejercicio de la función notarial compete a los Notarios Públicos, a quienes el Gobernador del Estado la encomienda por delegación. Los Notarios Públicos están investidos de fe pública para hacer constar los hechos y actos jurídicos a los que los interesados deban o quieran dar autenticidad conforme a las leyes, y autorizados para intervenir en tales actos o hechos, revistiéndolos de solemnidad y forma legales.
+El ejercicio de la función notarial compete a los Notarios Públicos, a quienes el Gobernador del Estado la encomienda por delegación. Los Notarios Públicos están investidos de fe pública para hacer constar los hechos y actos jurídicos a los que los interesados deban o quieran dar autenticidad conforme a las leyes, y autorizados para intervenir en tales actos o hechos, revistiéndolos de solemnidad y formas legales, teniendo además las siguientes facultades:
+
+I.- Para actuar como árbitros o secretarios en juicios o procedimientos arbitrales.
+
+II.- Para intervenir en la tramitación extrajudicial de sucesiones intestamentarias y las que se apoyen en testamento público abierto, conforme a las disposiciones legales aplicables en cada caso.
+
+III.- Para intervenir en la constitución, modificación y extinción del patrimonio familiar, salvo el caso previsto en la fracción VI del artículo 401 del Código de Procedimientos Civiles. En lo referente a la extinción de dicho régimen, únicamente lo harán en los casos previstos en las fracciones I, II y IV del artículo 712 del Código Civil del Estado.
+
+IV.- Para declarar el estado de minoridad y nombrar tutores y curadores, exclusivamente para la tramitación extrajudicial de testamentarias o intestamentarias, y solo tratándose de menores de edad.
+
+V.- Para substanciar diligencias de apeo y deslinde; y
+
+VI.- Para tramitar los procedimientos no contenciosos que los interesados soliciten, cumpliendo en lo esencial con las disposiciones legales aplicables observando la mayor equidad entre las personas que deban intervenir en dichos procedimientos.
+
+El notario no intervendrá en las diligencias de jurisdicción voluntaria cuyo objeto sea la adopción, la declaración de incapacidad de mayores de edad, en la enajenación de bienes de menores o incapaces ni en la transacción sobre sus derechos.
+
+Cuando en la tramitación de los procedimientos previstos en las fracciones segunda a sexta de este artículo, el notario tuviere conocimiento de un hecho que implique una situación de litigio hará constar la circunstancia y remitirá inmediatamente lo actuado al juez competente para la continuación del procedimiento.
 
 ###### ARTICULO 5.
 
@@ -251,9 +269,11 @@ Los Jueces Menores de las poblaciones en que no hubiere Notario, previo acuerdo 
 
 El acuerdo del Departamento a que se refiere el párrafo anterior, se otorgará discrecionalmente y podrá revocarse, en todo momento, sin expresión de causa.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 32.
 
-El Notario, o quien legalmente lo sustituya, estará obligado a ejercer sus funciones siempre que sea requerido para ello. Debe rehusarse:
+El notario, o quien legalmente lo sustituya, estará obligado a ejercer sus funciones siempre que sea requerido para ello. Deberá rehusarse:
 
 I.- Si el acto cuya autorización se le pide está prohibido por la ley, es violatorio de la misma o si su autorización no le corresponde.
 
@@ -269,11 +289,19 @@ VI.- En aquellas operaciones en que haya intervenido como comisionista, intermed
 
 Quien substituya a un Notario, además deberá rehusar ejercer sus funciones respecto de los actos en los que estuviere impedido el titular.
 
-El Notario podrá excusarse de actuar:
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+VII.- Cuando advierta o tenga conocimiento de un hecho que implique una situación de litigio, en los asuntos previstos en las fracciones I a la VI del artículo 4 de esta ley.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+El Notario podrá excusarse:
 
 A).- En días inhábiles o en horas que no sean de oficina, salvo que se trate del otorgamiento de un testamento en caso de extrema urgencia, o de asuntos de interés social o electoral.
 
 B).- Si los interesados no le anticipan los gastos y honorarios, salvo el caso de testamento que deba otorgarse urgentemente y en asuntos de carácter electoral.
+
+C).- En los procedimientos previstos en las fracciones I a la VI del artículo 4 con independencia del carácter de no litigioso.
 
 No obstante lo previsto en el presente artículo, el Notario puede autorizar en su protocolo sus propios mandatos, testamentos y declaraciones unilaterales de voluntad.
 
@@ -1192,3 +1220,11 @@ DIPUTADO SECRETARIO
 PROF. OSCAR M. VALENZUELA A
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE DICIEMBRE DE 1999.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
