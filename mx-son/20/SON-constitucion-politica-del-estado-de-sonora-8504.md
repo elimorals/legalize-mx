@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1949-04-20"
+last_updated: "1949-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE ABRIL DE 1949.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE JUNIO DE 1949.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -384,6 +384,10 @@ Si al comenzar un período de sesiones ordinarias el Congreso estuviere celebran
 ###### Artículo 46.
 
 El diez y seis de septiembre de cada año, fecha de apertura del primer período de sesiones ordinarias de Congreso, asistirán el Gobernador y el Presidente del Supremo Tribunal de Justicia, quienes respectivamente presentarán en el acto, un informe sobre el estado que guarda la Administración Pública.
+
+> <small>(ADICIONADO, B.O. 29 DE JUNIO DE 1949)</small>
+
+En el último año del ejercicio constitucional respectivo, el Gobernador deberá rendir el Informe a que este precepto se refiere, el día primero de septiembre, en la ceremonia de la toma de posesión del Gobernador electo para el siguiente período.
 
 ###### Artículo 47.
 
@@ -777,9 +781,9 @@ VI. Imponer como pena correccional a los particulares que desobedecieren sus ór
 
 VII. Presentar, al principio del primer período de sesiones ordinarias, al Congreso, los Presupuestos de Ingresos y Egresos del año siguiente, y al principio del segundo período de sesiones la cuenta de gastos del año próximo anterior.
 
-> <small>(REFORMADA, B.O. 15 DE ENERO DE 1941)</small>
+> <small>(REFORMADA, B.O. 29 DE JUNIO DE 1949)</small>
 
-VIII. Concurrir el día diez y seis de septiembre de cada año, fecha de apertura del primer período ordinario de sesiones del Congreso y presentar en este acto, un informe detallado sobre el estado de la Administración Pública.
+VIII. Concurrir el día diez y seis de septiembre de cada año, fecha de apertura del primer período ordinario de sesiones del Congreso y presentar en este acto, un informe detallado sobre el estado de la Administración Pública el último año de su período, deberá presentar dicho Informe en la ceremonia de toma de posesión del ciudadano electo que lo substituya.
 
 IX. Concurrir a la apertura de las sesiones extraordinarias del Congreso cuando él las haya promovido.
 
@@ -1634,6 +1638,10 @@ B.O. 11 DE OCTUBRE DE 1947.
 Unico.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
 
 B.O. 20 DE ABRIL DE 1949.
+
+Unico.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 29 DE JUNIO DE 1949.
 
 Unico.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
 
