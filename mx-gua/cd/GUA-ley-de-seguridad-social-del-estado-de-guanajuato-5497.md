@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-seguridad-social-del-estado-de-guanajuato-5497"
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-29"
-last_updated: "1988-01-29"
+last_updated: "2002-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
+
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL PERIODICO OFICIAL EL 16 DE AGOSTO DE 2002.</small>
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 29 de enero de 1988.
 
