@@ -4,7 +4,7 @@ identifier: "COA-ley-del-registro-civil-para-el-estado-de-coahuila-de-33401"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-25"
-last_updated: "2003-07-25"
+last_updated: "2004-08-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 25 de julio de 2003.
 
@@ -285,6 +285,14 @@ IV. Vigilar el exacto cumplimiento de las disposiciones contenidas en el Código
 
 V. Expedir las certificaciones que se les soliciten sobre datos o constancias que obren en los libros del Registro Civil bajo su responsabilidad.
 
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
+
+Cuando con motivo de la solicitud de actas de nacimiento o de reconocimiento que le sean planteadas, los Oficiales del Registro Civil tomen conocimiento de que no aparecen registrados datos que determinen la filiación paterna o materna del solicitante, procederán a orientarle sobre los procedimientos voluntarios para la determinación de la paternidad y maternidad o, en su caso, los procedimientos judiciales mediante los cuales pueden obtenerse.
+
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
+
+En todos los casos en que un menor aparezca inscrito como hijo de padre o de madre desconocidos, el Oficial del Registro Civil lo pondrá en conocimiento de la Procuraduría de la Defensa del Menor y la Familia, para los efectos que se precisan en el párrafo precedente.
+
 VI. Autenticar las copias certificadas y las certificaciones, cuando se trate de actos registrados en sus oficialías, en los términos de las disposiciones aplicables.
 
 VII. Enterar a las autoridades que correspondan, los derechos que se causen por los servicios públicos que presten, de acuerdo con las tarifas y sistemas señalados por las disposiciones fiscales vigentes y en los términos de la Ley de Hacienda del Estado.
@@ -533,6 +541,10 @@ I. Presentar, los interesados, el certificado de nacimiento del menor emitido po
 
 II. Tener domicilio dentro de la jurisdicción de la oficina del Registro Civil de que se trate, lo que demostrará a satisfacción del Oficial, conforme a los lineamientos establecidos en el Código Civil para el Estado de Coahuila.
 
+> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
+
+Si después de registrado el nacimiento fuere emitida una resolución judicial mediante la cual se determine la paternidad o maternidad; los oficiales del Registro Civil procederán a realizar las anotaciones que correspondan en las actas respectivas, conforme a dicha resolución.
+
 ###### ARTÍCULO 75.
 
 En toda acta de nacimiento se asentará la huella digital del pulgar de la mano derecha del niño o niña presentado o presentada. La misma obligación tendrán los mayores que registren su nacimiento en forma extemporánea conforme al procedimiento que determina el Código Procesal Civil para el Estado de Coahuila.
@@ -545,9 +557,11 @@ Sólo en casos de extrema necesidad debidamente justificada a juicio de los mism
 
 De acuerdo con el artículo 166 del Código Civil para el Estado de Coahuila, antes de asentar el acta de nacimiento de un hijo habido dentro del matrimonio, en el libro correspondiente, los Oficiales del Registro Civil deberán cerciorarse de que los comparecientes que manifiestan ser los padres están casados entre sí. Lo anterior podrá ser corroborado mediante la exhibición de la copia certificada del acta de matrimonio correspondiente; o bien, mediante la compulsa del libro correspondiente, en el caso de que el matrimonio se haya efectuado en la misma Oficialía en que se registra el nacimiento.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2004)</small>
+
 ###### ARTÍCULO 78.
 
-En ningún caso se expresará en el acta correspondiente que el hijo es adulterino o incestuoso en los casos a que se refieren los artículos 169 y 171 del Código Civil para el Estado de Coahuila.
+No se expresará en el acta correspondiente que el hijo es adulterino o incestuoso, en los casos a que se refieren los artículos 169 y 171 del Código Civil. Tampoco se expresará que su filiación fue decretada mediante resolución firme dictada por la autoridad judicial competente, en los casos a que se refiere el artículo 481 del citado ordenamiento.
 
 ###### ARTÍCULO 79.
 
@@ -984,3 +998,11 @@ LIC. ENRIQUE MARTINEZ Y MARTINEZ.
 EL SECRETARIO DE GOBIERNO.
 
 LIC. JOSE JESUS RAUL SIFUENTES GUERRERO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE AGOSTO DE 2004.
+
+PRIMERO. El presente decreto entrará en vigor sesenta días hábiles siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los artículos del Código Civil y del Código Procesal Civil en los que se autorizan las pruebas periciales biológicas para la determinación de la paternidad y la maternidad, así como la presunción que se genera en perjuicio de quienes no otorgan su consentimiento para someterse a dichas pruebas, entrarán en vigor una vez que se expidan las leyes que regulen el funcionamiento seguro y eficiente de los laboratorios en los que se practiquen y que las Dependencias Oficiales competentes estén en condiciones de realizarlas, con el máximo grado de confiabilidad.
