@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "1963-07-13"
+last_updated: "1968-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 1963.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1968.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -929,6 +929,8 @@ XXXVIII.- Las demás que le asignen las Leyes, ya sean Federales o del Estado.
 
 DEL SUPREMO TRIBUNAL DE JUSTICIA.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1968)</small>
+
 ###### Art. 94.
 
 Para el despacho de los negocios del Poder Ejecutivo habrá un "Secretario General de Gobierno".
@@ -989,21 +991,21 @@ Si al terminarse el período señalado a los funcionarios judiciales no hubieren
 
 ###### Art. 103.
 
-El Supremo Tribunal de Justicia se compondrá, cuando menos de cinco Magistrados, que serán designados por el Congreso en funciones de Colegio Electoral siendo indispensable para ello, la asistencia, cuando menos, de las dos terceras partes del número total de Diputados que integran la Legislatura.
+El Supremo Tribunal de Justicia se compondrá cuando menos de cinco Magistrados. Estos serán inamovibles y sólo podrán ser removidos de sus cargos por mal conducta debidamente comprobada en los términos de la Ley Orgánica del Poder Judicial o previo juicio de responsabilidad.
 
-La elección se hará por escrutinio secreto, a mayoría absoluta de votos y de entre las ternas de candidatos remitidas por el Ejecutivo, conteniendo los nombres de abogados que reúnan los requisitos establecidos en el artículo 108 y cuyas ternas se remitirán al H. Congreso, antes del quince de junio del año en que deba hacerse la elección.
-
-Si al efectuarse la elección no se obtuviere mayoría absoluta de votos en favor de un candidato, se repetirá ésta entre los dos que hubieren obtenido mayoría de sufragios.
-
-Los Magistrados en funciones o que disfruten de licencia con goce de sueldo, no podrán desempeñar ningún otro cargo, empleo o comisión que fueren retribuídos, salvo los de Instrucción Pública en asignaturas de Derecho, con autorización del Congreso y fuera de las horas designadas al despacho de asuntos en el Supremo Tribunal de Justicia.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1968)</small>
 
 ###### Art. 104.
 
-Las faltas absolutas o temporales de los Magistrados, se cubrirán por elección que haga el H. Congreso en la misma forma que la designación primitiva, de entre las ternas, que al efecto proponga el Ejecutivo, dentro de los cinco días siguientes al en que ocurriera la falta.
+Tanto las faltas absolutas o temporales de los Magistrados, como las nuevas plazas, se cubrirán por elección que haga el Congreso en funciones de Colegio Electoral, siendo indispensable para ello la asistencia cuando menos, de las dos terceras partes del número total de Diputados que integren la Legislatura.
 
-Si la falta temporal o absoluta ocurre durante el receso del H. Congreso, la designación la hará la Diputación Permanente, integrada conforme a lo prevenido en la fracción IX del artículo 82, tocando al Congreso en su período próximo, ratificar o rectificar el nombramiento.
+La elección se hará por escrutinio secreto, a mayoría absoluta de votos y de entre las ternas de candidatos remitidas por el Ejecutivo, conteniendo los nombres de Abogados que reúnan los requisitos establecidos en el artículo 108 y cuyas ternas se remitirán al H. Congreso dentro de los cinco días siguientes al en que ocurriere la falta o con la anticipación necesaria cuando deba llenarse una magistratura de nueva creación.
 
-Si el Ejecutivo no remite las ternas de candidatos en los términos fijados por el artículo 103, o si dejare de remitir las ternas a que se refiere este mismo artículo, para cubrir las faltas absolutas o temporales de los Magistrados el Congreso, o en su caso la Diputación Permanente, la formará haciendo entre ellas, la designación respectiva.
+Si al efectuarse la elección no se obtuviere mayoría absoluta de votos en favor de un candidato, se repetirán ésta entre los dos que hubieren obtenido mayoría de sufragios.
+
+Cuando la falta temporal o absoluta ocurra durante el receso del H. Congreso, la designación la hará la Diputación Permanente, integrada conforme a lo prevenido en la fracción IX del Artículo 82, tocando al Congreso en su período próximo, ratificar el nombramiento y en todo caso cubrir una nueva magistratura.
+
+Si el Ejecutivo no remite las ternas de candidatos para cubrir las faltas absolutas o temporales de los Magistrados, el Congreso, o en su caso la Diputación Permanente, la formará haciendo de entre ellas, la designación respectiva.
 
 ###### Art. 105.
 
@@ -1017,9 +1019,11 @@ DE LA SEGURIDAD PUBLICA.
 
 Nunca podrán funcionar simultáneamente en el Tribunal dos o más Magistrados que sean parientes consanguíneos dentro del cuarto grado o afines dentro del segundo.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1968)</small>
+
 ###### Art. 107.
 
-El Supremo Tribunal de Justicia se renovará en su totalidad cada tres años contados desde el día cuatro de octubre en que debe instalarse, pudiendo ser reelectos sus miembros.
+Los Magistrados en funciones o que disfruten de licencia con goce de sueldo, no podrán desempeñar ningún cargo, empleo o comisión que fueren retribuidos, salvo los de Instrucción Pública en asignaturas de Derecho, con autorización del Congreso y fuera de las horas señaladas para el despacho de asuntos en el Supremo Tribunal de Justicia.
 
 ###### Art. 108.
 
@@ -1041,7 +1045,9 @@ Corresponde al Supremo Tribunal de Justicia:
 
 I.- Iniciar ante el Congreso leyes y decretos, conforme a esta Constitución.
 
-II.- Conocer en segunda instancia, por medio de la Primera Sala, de las causas que, por delitos oficiales, se hubieren instruído al Gobernador, Diputados, Magistrados, Secretario de Gobierno y Procurador de Justicia.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1968)</small>
+
+II.- Conocer en Segunda Instancia de las causas que, por delitos oficiales, se hubieren instruído al Gobernador, Diputados, Magistrados, Secretario General de Gobierno, Procurador General de Justicia y Jefes de las demás Dependencias del Ejecutivo, en los términos que señale la Ley Orgánica respectiva.
 
 III.- Dirimir los conflictos que surjan entre los Poderes Legislativo y Ejecutivo del Estado, siempre que no sean de carácter político ni de la competencia de la Suprema Corte de Justicia de la Nación.
 
@@ -1053,7 +1059,9 @@ VI.- Nombrar:
 
 A.- A sus Secretarios y demás empleados.
 
-B.- A los Jueces de Primera Instancia, tanto Propietarios como Interinos, pudiendo estos últimos no ser abogados.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1968)</small>
+
+B.- A los Jueces de Primera Instancia.
 
 C.- A los Jueces Menores y sus Suplentes.
 
@@ -1063,7 +1071,9 @@ E.- A los Jueces de Paz.
 
 VII.- Conceder licencias de más de treinta días, y hasta por dos meses sin goce de sueldo, y con él, sólo en caso de enfermedad, a los Jueces y empleados que nombre y resolver sobre sus renuncias.
 
-VIII.- Suspender hasta por tres meses, por causa grave justificada que no sea motivo de proceso, a los funcionarios y empleados que se mencionan en la fracción VI.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1968)</small>
+
+VIII.- Suspender hasta por tres meses o remover en los casos de los artículos 103 y 112 por causa grave, que no sea motivo de proceso, a los funcionarios comprendidos en dichas disposiciones y a los mencionados en la fracción VI.
 
 IX.- Formar su Reglamento Interior, sometiéndolo a la aprobación del H. Congreso.
 
@@ -1077,9 +1087,11 @@ Para poder ser nombrado Juez de Primera Instancia, se requiere: ser ciudadano me
 
 Para poder ser nombrado Juez Menor y Juez de Paz, se requiere: ser ciudadano del Estado en pleno ejercicio de sus derechos, mayor de veinticinco años y de probidad notoria e intachable.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1968)</small>
+
 ###### Art. 112.
 
-Los Jueces Propietarios tanto de Primera Instancia como Menores, durarán en su encargo tres años y podrán desempeñarlo en períodos sucesivos.
+Los Jueces de Primera Instancia serán inamovibles, al cumplir cuatro años en el desempeño de su función, si hubieren demostrado probidad y competencia, en el cumplimiento de la misma; a juicio del Supremo Tribunal de Justicia. Sólo podrán ser removidos de sus cargos por mala conducta debidamente comprobada en los términos de la Ley Orgánica del Poder Judicial o previo juicio de responsabilidad. Los Jueces Menores durarán en su cargo tres años y podrán desempeñarlo en períodos sucesivos.
 
 ###### Art. 113.
 
@@ -1700,3 +1712,9 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir de la fech
 P.O. 13 DE JULIO DE 1963.
 
 ARTICULO TRANSITORIO.- El presente decreto entrará en vigor en todo el Estado, al día siguiente de su publicación en el Periódico Oficial.
+
+P.O. 31 DE ENERO DE 1968.
+
+PRIMERO.- En tanto se reforma la Ley Orgánica del Poder Judicial, la Ley que crea la Dirección de Pensiones Civiles del Estado o se emite una reglamentaria de los Artículos 103 y 112 Constitucionales, los funcionarios a quienes se otorga la inamovilidad tendrán derecho, en caso de tener más de 15 años de prestaciones de servicios al Estado, a ser jubilados por incapacidad que les impida desempeñar sus funciones, percibiendo el 55% de los emolumentos que devengaban en la fecha de su separación, porcentaje que se aumentará proporcionalmente al número de años de servicios que exceda a los 15, hasta llegar a los 30 años de servicios en que se percibirá el 100%.
+
+SEGUNDO.- Las presentes reformas a la Constitución General del Estado, entrarán en vigor, una vez que se reforme y sea publicada la Ley Orgánica del Poder Judicial.
