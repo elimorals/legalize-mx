@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-5455"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-29"
-last_updated: "1991-12-27"
+last_updated: "1992-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-LEY DE HACIENDA PARA EL ESTADO DE HIDALGO.
+LEY DE HACIENDA PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31DE DICIEMBRE DE 1992.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 29 de diciembre de 1990.
 
@@ -891,29 +891,47 @@ DE LAS DEPENDENCIAS DE LA SECRETARIA DE DESARROLLO URBANO, COMUNICACIONES Y OBRA
 
 Los Derechos por la prestación de los servicios del Estado, a través de la Dirección General de Gobierno, se causarán y pagarán de la siguiente forma:
 
-I.- Por la certificación de legalidad de firmas de las autoridades Estatales, Municipales y Educativas en documentos originales o copias certificadas. $ 3,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-II.- Por legalización de exhortos, en juicios mercantiles y ejecutivos civiles, si el monto no excede $ 1'000.000.00. $ 5,000.00
+I.- Por la certificación de legalidad de firmas de las autoridades Estatales, Municipales y Educativas en documentos originales o copias certificadas. N$ 3.00
 
-III.- Si el monto es superior a la cantidad señalada en la fracción anterior, por cada $ 500,000 más, se cobrará $ 1,500.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-IV.- Por la legalización de exhortos, en juicios civiles y familiares $ 6,000.00
+II.- Por legalización en exhortos, en juicios mercantiles y ejecutivos civiles, si el monto no excede de N$ 1,000.00. N$ 5.00
 
-V.- Por la certificación de firmas para efectos de trámites de pasaportes de menores. $ 5,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-VI.- Por emisión de opinión favorable del Ejecutivo del Estado, para abrir al culto público locales religiosos. $ 200,000.00
+III.- Si el monto es superior a la cantidad señalada en la fracción anterior, por cada N$ 500.00 se cobrará. N$ 1.50
+
+IV.- Si el monto es superior a la cantidad señalada en la fracción anterior, por cada $ 500,000 más, se cobrará. $ 1,500.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+V.- Por la certificación de firmas para efectos de trámites de pasaportes de menores. N$ 5.0
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+VI.- Por emisión de opinión favorable del Ejecutivo del estado, para abrir al culto público locales religiosos. N$ 200.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 VII.- Por emisión de opinión favorable del Ejecutivo del Estado, para uso, consumo y almacenamiento de explosivos y sus artificios, se pagarán los derechos en la forma siguiente:
 
-a).Opinión para Paraestatales, Proveedores y Macroindustrias. $ 200,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-b). Opinión para mediana industria. $ 100,000.00
+a).Opinión para Paraestatales, Proveedores y Macroindustrias. N$ 200.00
 
-> <small>(F. DE E., P.O. 1 DE MARZO DE 1991)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-c). Opinión para Microindustria y Empresas Ejidales. $ 60,000.00
+b). Opinión para mediana industria. N$ 100.00
 
-d). Opinión para el uso de explosivos por una sola vez en obras pequeñas de carácter municipal. $ 30,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+c). Opinión para macroindustria y Empresas Ejidales. N$ 60.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+d). Opinión para el uso de explosivos por una sola vez en obras pequeñas de carácter municipal. N$ 30.00
 
 ###### ARTICULO 71.
 
@@ -921,89 +939,133 @@ Los Derechos por la prestación de los servicios del Registro Público de la Pro
 
 I.- Por la inscripción de documentos relativos a la propiedad o posesión originaria de bienes inmuebles:
 
-a). Accesión de terrenos rústicos. $ 3,500.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-b). Accesión de construcciones, pagarán sobre el valor catastral o de avalúo. 8.5 al millar.
+a). Accesión de terrenos rústicos. N$ 3.50
+
+b). Accesión de construcciones, pagarán sobre el valor catastral o de avalúo.
+
+8.5 al millar.
 
 c). Informaciones posesorias. 4.0 al millar.
 
-II.- Por inscripción del apeo o deslinde $ 10,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+II.- Por inscripción del apeo o deslinde N$10.00
 
 III.- Por inscripción de aportaciones de bienes inmuebles, se pagará sobre el valor catastral o de avalúo. 8.5 al millar
 
-IV.- Por la inscripción de propiedad en régimen de condominio, se pagará por cada departamento, despacho, vivienda o cualquier otro tipo. $ 8,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-V.- Por la inscripción de la disolución de la sociedad conyugal en lo referente a bienes inmuebles.
+IV. Por la inscripción de propiedad en régimen de condominio, se pagará por cada departamento, despacho, vivienda o cualquier otro tipo. N$ 8.00
 
-$ 8,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+V.- Por la inscripción de la disolución de la sociedad conyugal en lo referente a bienes inmuebles. N$ 8.00
 
 VI.- Por la inscripción de los contratos de compra venta, donación, cesión de derechos, transmisión de dominio en ejecución de fideicomiso, permuta, usucapión, adjudicaciones judiciales y por herencia así como todas las operaciones que impliquen transmisión de propiedad, pagarán sobre el valor catastral o avalúo bancario. 8.5 al millar
 
-VII.- Por la inscripción de resoluciones de información ad'perpetuam, se pagará por predio. 8.5 al millar
+VII.- Por la inscripción de resoluciones de información ad'perpetuam, se pagará por predio.
 
-VIII.- Por la inscripción de inmatriculación, se pagará por predio. $ 20,000.00
+8.5 al millar
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+VIII.- Por la inscripción de inmatriculación, se pagará por predio. N$ 20.00
 
 IX.- Por la inscripción de actos, contratos o convenios por los que se fraccione, lotifique o se sub-divida un predio, se pagará de la siguiente manera:
 
-a). Cuando se trate de predios ubicados en las zonas urbanas residenciales, campestres o industriales, por lote. $ 16,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-b). En las demás zonas, por lote $ 12,000.00
+a). Cuando se trate de predios ubicados en las zonas urbanas residenciales, campestres o industriales, por lote. N$ 16.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+b). En las demás zonas, por lote N$ 12.00
 
 X.- Por la inscripción de contratos de compra venta a plazos con reserva de dominio se pagará sobre el valor catastral o de avalúo.
 
 La cancelación de la reserva de dominio, se pagará al 50% del valor de la inscripción principal. 6.0 al millar
 
-XI.- Por la inscripción de fusión de predios, se pagará por cada uno. $ 15,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XI.- Por la inscripción de fusión de predios, se pagará por cada uno. N$ 15.00
 
 XII.- Por la inscripción de división de copropiedad, se pagará sobre el valor catastral de cada uno de los inmuebles. 4.0 al millar
 
 XIII.- Cuando el valor inserto en el acto que se trate de inscribir sea, mayor que el valor catastral o de avalúo, se atenderá al primero para fijar el monto de los derechos que deberán cubrirse, salvo las excepciones previstas en las fracciones anteriores.
 
-XIV.- Otros actos inscribibles. $ 20,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XIV. Otros actos inscribibles. N$ 20.00
 
 ###### ARTICULO 72.
 
 Los derechos generados ante el Registro Público de la Propiedad y del Comercio, por concepto de inscripciones o autorizaciones relativas a las limitaciones o gravámenes de la propiedad y posesión originaria de inmuebles, como son: Arrendamiento, Contratos de Ocupación, Constitución o Substitución de Garantías Reales, Cesión de Garantías u Obligaciones Reales, Cédula Hipotecaría del Juicio Sumario Hipotecario, Comodato, Contratos de Crédito Refaccionario y de Habilitación o Avió celebrados entre particulares. Convenios Judiciales, Dación de Pago, Cumplimiento de Condiciones Suspensivas o Resolutorias a que se haya sujetado la transmisión de la propiedad, Demandas y Resoluciones Judiciales que limiten el derecho de propiedad; Posesión, Embargos Judiciales, Fideicomisos de Afectación o Administración en Garantía en el que él o los Fideicomitentes se reserven expresamente la Propiedad, Fianzas, Habitación, Prendas sobre Créditos, Prenda de frutos pendientes, Uso, Usufructo, Servidumbre, se causarán y pagarán cuando se determine el valor del acto inscribible o anotable: 4.5 al millar.
 
-I.- Cuando en el acto inscribible o anotable no se determina el valor $ 10,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+I.- Cuando en el acto inscribible o anotable no se determina el valor N$ 10.00
 
 II.- Las cancelaciones de las inscripciones o anotaciones a que se refiere este artículo, pagarán el 50% del valor de la inscripción.
 
-III. En hipotecas para garantizar el crédito principal y refinanciamiento para vivienda popular o de interés social, se pagará el 9.0 al millar sobre el 10% del monto total del crédito, tanto del crédito principal como el de refinanciamiento.
+III.- En hipotecas para garantizar el crédito principal y refinanciamiento para vivienda popular o de interés social, se pagará el 9.0 al millar sobre el 10% del monto total del crédito, tanto del crédito principal como el de refinanciamiento.
 
-Para los efectos de la fracción anterior, se entiende como viviendas de interés social, las financiadas a través de los organismos autorizados para ello de carácter federal, estatal o municipal y como vivienda popular, las financiadas por las Sociedades Nacionales de Crédito, hasta por un valor de 100 millones de pesos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+Para los efectos de la fracción anterior, se entiende como viviendas de interés social, las financiadas a través de los organismos autorizados para ello de carácter federal, estatal o municipal y como vivienda popular, las financiadas por las instituciones bancarias, hasta por un valor de N$100 mil.
 
 ###### ARTICULO 73.
 
 Los derechos por las inscripciones de documentos o actos que sean necesarios como acto previo para la inscripción de Títulos traslativos de dominio, se causarán y pagarán de la siguiente manera:
 
-I.- Por cualquier clase de testamento $ 12,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-II.- Por la Designación, Aceptación, Disernimiento del cargo de albacea, declaraciones y reconocimiento de herederos en un sólo documento $ 10,000.00
+I.- Por cualquier clase de testamento N$ 12.00
 
-> <small>(F. DE E., P.O. 1 DE MARZO DE 1991)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-III.- Cuando estos actos se inscriban en documentos separados, se pagará por cada uno.
+II.- Por la Designación, Aceptación, Disernimiento del cargo de albacea, declaraciones y reconocimiento de herederos en un sólo documento. N$ 10.00
 
-$ 5,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-IV.- Por sustitución del cargo de albacea. $ 10,000.00
+III.- Cuando estos actos se inscriben en documentos separados, se pagará por cada uno.
 
-V.- Por repudio de herencia $ 10,000.00
+N$ 5.00
 
-VI.- Por autorización para vender o gravar bienes de menores o incapaces.$ 10,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-VII.- Por poderes civiles y substituciones $ 10,000.00
+IV.- Por sustitución del cargo de albacea. N$ 10.00
 
-VIII.- Por la inscripción de la Sociedad Conyugal $ 8,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-IX.- Por el depósito de testamento ológrafo. $ 20,000.00
+V.- Por repudio de herencia N$ 10.00
 
-X. - Por autos de ejecución. $ 5,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+VI.- Por autorización para vender o gravar bienes de menores o incapaces. N$ 10.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+VII.- Por poderes civiles y substituciones N$ 10.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+VIII.- Por la inscripción de la Sociedad Conyugal N$ 8.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+IX.- Por el depósito de testamento ológrafo. N$ 20.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+X.- Por autos de ejecución. N$ 5.00
 
 XI.- Por constitución del patrimonio familiar. 2.0 al millar
 
-XII.- Otros actos inscribibles. $ 10,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XII.- Otros actos inscribibles. N$ 10.00
 
 ###### ARTICULO 74.
 
@@ -1011,73 +1073,113 @@ Los derechos generados por la inscripción de actos relativos a bienes muebles, 
 
 I.- Por la inscripción de contratos o actos que trasmitan la propiedad de bienes muebles, como las operaciones traslativas de dominio sujetas a condiciones resolutorias, adjudicaciones, aportaciones, compra-venta con reserva de dominio, se pagará cuando se determine el valor. 8.5 al millar
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 II.- En los casos de la fracción anterior cuando no se tengan determinado el valor, pagarán
 
-$ 10,000.00
+N$ 10.00
 
 III.- Por inscripción de operaciones que limiten o graven bienes muebles como son: el alquiler, cesión de crédito y obligaciones, embargos, prenda, resoluciones o convenios judiciales y usufructo se pagará, cuando se determine el valor de operación inscribible. 4.0 al millar
 
-IV.- Cuando en los casos de la fracción anterior no se determine el valor de la operación, se pagará $ 10,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-V.- Por la ratificación de firmas $ 20,000.00
+IV.- Cuando en los casos de la fracción anterior no se determine el valor de la operación, se pagará N$ 10.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+V.- Por la ratificación de firmas N$ 20.00
 
 VI.- Por cancelación de cualquiera de los actos contenidos en este artículo, se pagará el 50% del valor de la inscripción.
 
-VII Por otros actos inscribibles. $ 15,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+VII.- Por otros actos inscribibles. N$ 15.00
 
 ###### ARTICULO 75.
 
 Los derechos generados por la inscripción de documentos o actos relativos a personas morales, se causarán y pagarán de la siguiente manera:
 
-I. - Por la inscripción de escrituras constitutivas de personas morales o aumento de capital, pagarán:
+I.- Por la inscripción de escrituras constitutivas de personas morales o aumento de capital, pagarán:
 
-a).- Hasta $ 5'000,000.00 4.0 al millar
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-b).- De $ 5'000,000.00 en adelante 3.5 al millar
+a) Hasta N$ 5,000.00 4.0 al millar
 
-c).- En las sociedades de capital variable, se tomará como base el capital suscrito.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-II.- En los casos de la fracción anterior, cuando no exista valor determinado, pagarán. $ 15,000.00
+b) De N$ 5,000.00 en adelante 3.5 al millar
 
-III.- La inscripción de la disolución de personas morales $ 15,000.00
+c). En las sociedades de capital variable, se tomará como base el capital suscrito.
 
-IV.- La inscripción de la liquidación de personas morales $ 15,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-V.- La disolución y liquidación cuando conste en un solo documento. $ 15,000.00
+II.- En los casos de la fracción anterior, cuando no exista valor determinado, pagarán
 
-VI.- La inscripción de actas de asamblea de socios o de junta de administradores. $ 10,000.00
+N$ 15.00
 
-VII.- La inscripción de cualquier modificación al acta constitutiva, siempre que no se refiera a un aumento de capital social. $ 10,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-VIII.- La inscripción de otorgamiento, sustitución o renovación de poderes, por cada apoderado.
+III.- La inscripción de la disolución de personas morales N$ 15.00
 
-$ 10,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+IV.- La inscripción de la liquidación de personas morales N$ 15.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+V.- La disolución y liquidación cuando conste en un solo documento. N$ 15.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+VI.- La inscripción de actas de asamblea de socios o de junta de administradores. N$ 10.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+VII.- La inscripción de cualquier modificación al acta constitutiva, siempre que no se refiera a un aumento de capital social. N$ 10.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+VIII.- La inscripción de otorgamiento, sustitución o renovación de poderes, por cada apoderado. N$ 10.00
 
 IX.- Por la inscripción de emisión de obligaciones, acciones, cédula y certificados de participación, pagarán sobre el importe de la emisión 2.0 al millar
 
-X.- Por la inscripción de revocación o renuncia de poderes $ 5,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-XI.- Por la inscripción de cualquier otro Título registrable conforme a la Ley. $ 10,000.00
+X.- Por la inscripción de revocación o renuncia de poderes N$ 5.00
 
-XII.- Por la fusión de sociedades, sobre el capital inscrito de las sociedades fusionadas. 3.0 al millar.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XI.- Por la inscripción de cualquier otro Título registrable conforme a la Ley N$ 10.00
+
+XII.- Por la fusión de sociedades, sobre el capital inscrito de las sociedades fusionadas.
+
+3.0 al millar.
 
 ###### ARTICULO 76.
 
 Los derechos generados por la inscripción de actos o contratos mercantiles, se causarán y pagarán de la siguiente manera:
 
-I.- Por corresponsalía. $ 5,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+I.- Por corresponsalía. N$ 5.00
 
 II.- Por créditos refaccionarios y de habilitación o avío, pagarán sobre su valor. 3.5 al millar
 
 III.- Por créditos hipotecario, pagará sobre su valor 4.5 al millar
 
-IV.- Por asociación en participación $ 10,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+IV.- Por asociación en participación N$ 10.00
 
 V.- Por la ratificación de firmas de los contratos comprendidos en este artículo, pagarán de la siguiente manera:
 
-a).- Hasta $ 15'000.000.00 $ 15,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-b).- De $ 15'000.000.00 en adelante $ 30,000.00
+a) Hasta N$ 15,000.00 N$ 15.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+b) De N$ 15,000.00 en adelante N$ 30.00
 
 VI.- Por la cancelación de los actos o contratos señalados en este artículo pagarán el 50% del valor de la inscripción.
 
@@ -1091,39 +1193,67 @@ Los derechos generados por la inscripción y anotaciones de resoluciones judicia
 
 I.- Por las providencias precautorias 4.5 al millar
 
-II.- Por la suspención de pagos. $ 20,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-III.- Por la declaración de quiebras $ 20,000.00
+II.- Por la suspensión de pagos. N$ 20.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+III.- Por la declaración de quiebras N$ 20.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 78.
 
-Los derechos que se causen por la inscripciones o anotaciones que no modifiquen el derecho inscrito, a solicitud del interesado, de las autoridades o de los notarios públicos que autoricen el acto, se pagará……………………………………………….. $ 10,000.00
+Los derechos que se causen por la inscripciones o anotaciones que no modifiquen el derecho inscrito, a solicitud del interesado, de las autoridades o de los notarios públicos que autoricen el acto, se pagará…………………………………......N$ 10.00
 
 ###### ARTICULO 79.
 
 Los derechos generados por la expedición de certificaciones y copias certificadas, se causarán y pagarán de la siguiente manera:
 
-I.- Por la expedición de certificados de no inscripción. $ 10,000.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-II.- Por la expedición de certificados de inscripción para los efectos de los artículos 1231 y 1232 del Código Civil $ 10,000.00
+I.- Por la expedición de certificados de no inscripción. N$ 10.00
 
-III.- Por la expedición de certificados de no propiedad $ 5,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-IV. Por la expedición de certificados de libertad o existencia de gravámenes $ 6,000.00
+II.- Por la expedición de certificados de inscripción para los efectos de los artículos 1231 y 1232 del Código Civil N$ 10.00
 
-a).- De más de veinte años se aumentará, por cada año excedente. $ 500.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+III.- Por la expedición de certificados de no propiedad N$ 5.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+IV.- Por la expedición de certificados de libertad o existencia de gravámenes N$ 6.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+a) De más de veinte años se aumentará, por cada año excedente. N$ .50
 
 V.- Por la expedición de copias certificadas
 
-a).- Por la primera hoja $ 2,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-b).- Por cada hoja siguiente $ 1,000.00
+a) Por la primera hoja N$ 2.00
 
-VI.- Por certificados de Unica propiedad $ 10,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-VII.- Por informes sobre inscripciones de testamento, a solicitud de jueces civiles y familiares, así como particulares $ 5,000.00
+b) Por cada hoja siguiente N$ 1.00
 
-VIII.- Por búsqueda de antecedentes registrales omitidos o equivocados en el documento, siempre que no sea causa imputable al Registro Público de la Propiedad y del Comercio. $ 10,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+VI.- Por certificados de Única propiedad N$ 10.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+VII.- Por informes sobre inscripciones de testamento, a solicitud de jueces civiles y familiares, así como particulares N$ 5.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+VIII.- Por búsqueda de antecedentes registrales omitidos o equivocados en el documento, siempre que no sea causa imputable al Registro Público de la Propiedad y del Comercio. N$ 10.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 80.
 
@@ -1131,13 +1261,15 @@ Si por cualquier causa el documento se devuelve sin inscripción,
 
 siempre que no sea causa imputable al Registro Público de la Propiedad y del
 
-Comercio, se pagará………………………………………………………………………… $ 10,000.00
+Comercio, se pagará…………………………………………………………………………N$ 10.00
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 81.
 
 Por cotejo de documentos no autentificados que deben
 
-destinarse al apéndice, por cada hoja……………………………………………………. $ 1,000.00
+destinarse al apéndice, por cada hoja……………………………………………………. N$ 1.00
 
 ###### ARTICULO 82.
 
@@ -1171,15 +1303,25 @@ I.- Por créditos refaccionarios de habilitación o avío 1.0 al millar
 
 II.- Por documentos de valor determinado 1.0 al millar
 
-III.- Por documentos de valor indeterminado $ 20,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-IV.- Por la expedición de cualquier tipo de certificaciones $ 6,300.00
+III.- Por documentos de valor indeterminado N$ 20.00
 
-V.- Por cancelación, 0.5 al millar sin que lo cobrado exceda de $ 50,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-VI.- Por aclaraciones o rectificaciones no imputables al registro. $ 25,000.00
+IV.- Por la expedición de cualquier tipo de certificaciones N$ 6.30
 
-VII.- Por ratificación de firmas $ 25,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+V.- Por cancelación, 0.5 al millar sin que lo cobrado exceda de N$ 50.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+VI.- Por aclaraciones o rectificaciones no imputables al registro. N$ 25.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+VII.- Por ratificación de firmas N$ 25.00
 
 ###### ARTICULO 87.
 
@@ -1193,25 +1335,45 @@ Para el pago de los derechos, el encargado del Registro enviará a la Administra
 
 Los derechos por la prestación de los servicios del Estado, a través de la Dirección del Registro Familiar, se causarán y pagarán de la siguiente forma:
 
-I.- Por la expedición de copia certificada de acta $ 5,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-II.- Por la expedición de copia certificada de acta urgente $ 8,000.00
+I.- Por la expedición de copia certificada de acta N$ 5.00
 
-III.- Por constancia de inexistencia de Registro en libro $ 5,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-IV.- Por copia fotostática de constancias en libro $ 4,000.00
+II.- Por la expedición de copia certificada de acta urgente N$ 8.00
 
-V.- Por el procedimiento administrativo de corrección de actas. $ 60,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-VI.- Por inscripción de resolución administrativas $ 15,000.00
+III.- Por constancia de inexistencia de Registro en libro N$ 5.00
 
-VII.- Por inscripción de sentencia y juicio de rectificación, nulidad o reposición de actas.$ 25,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-VIII.- Por inscripción de anotación de reconocimientos y adopción $ 20,000.00
+IV.- Por copia fotostática de constancias en libro N$ 4.00
 
-IX.- Por la inscripción de capitulaciones matrimoniales $ 6,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-X.- Por inscripción de sentencia de divorcio. $ 25,000.00
+V.- Por el procedimiento administrativo de corrección de actas. N$ 60.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+VI.- Por inscripción de resolución administrativas N$ 15.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+VII.- Por inscripción de sentencia y juicio de rectificación, nulidad o reposición de actas. N$ 25.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+VIII.- Por inscripción de anotación de reconocimientos y adopción N$ 20.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+IX.- Por la inscripción de capitulaciones matrimoniales N$ 6.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+X.- Por inscripción de sentencia de divorcio. N$ 25.00
 
 ###### ARTICULO 90.
 
@@ -1219,81 +1381,129 @@ Los derechos por la prestación de los servicios del Estado, a través de la Dir
 
 I.- De los vehículos particulares:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1991)</small>
+(REFORMADA, P.O.31 DE DICIEMBRE DE 1992) (F. DE E., P.O. 22 DE FEBRERO DE 1993)
 
-a) Alta y canje de placas $ 30,923.00
+a) Alta y canje de placas N$ 30.90
 
-b) Reposición de placas, por cada una $ 14,616.00
+> <small>(REFORMADA, P.O.31 DE DICIEMBRE DE 1992)</small>
 
-c) Reposición de engomado $ 2,692.00
+b) Reposición de placas, por cada una N$ 14.60
 
-d) Baja de otros Estados $ 2,692.00
+> <small>(REFORMADA, P.O.31 DE DICIEMBRE DE 1992)</small>
 
-e) Reposición de tarjetas de circulación $ 3,846.00
+c) Reposición de engomado N$ 2.70
 
-f) Placas de remolque $ 8,692.00
+> <small>(REFORMADA, P.O.31 DE DICIEMBRE DE 1992)</small>
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1991)</small>
+d) Baja de otros Estados N$ 2.70
 
-g) Expedición del Registro Anual de Control Vehicular $ 21,000.00
+> <small>(REFORMADA, P.O.31 DE DICIEMBRE DE 1992)</small>
+
+e) Reposición de tarjetas de circulación N$ 3.85
+
+> <small>(REFORMADA, P.O.31 DE DICIEMBRE DE 1992)</small>
+
+f) Placas de remolque N$ 8.70
+
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992) (F. DE E., P.O. 22 DE FEBRERO DE 1993)
+
+g) Expedición del Registro Anual de Control Vehicular N$ 21.00
 
 h) El canje extemporáneo de placas y engomado, dará lugar al cobro de intereses moratorios conforme a lo dispuesto por la Ley de Ingresos del Estado.
 
 II.- De los vehículos de Servicio Público
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1991)</small>
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992) (F. DE E., P.O. 22 DE FEBRERO DE 1993)
 
-a) Alta y canje de placas $ 40,000.00
+a) Alta y canje de placas N$ 40.00
 
-b) Reposición de placas, por cada una $ 18,462.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-c) Reposición de engomado $ 2,692.00
+b) Reposición de placas, por cada una N$ 18.45
 
-d) Bajas y cambios de vehículos $ 2,692.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-e) Baja de otros Estados $ 2,692.00
+c) Reposición de engomado N$ 2.70
 
-f) Reposición de placas, por cada una $ 3, 846.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-g) Expedición o renovación de tarjeta $ 2,000.00
+d) Bajas y cambios de vehículos N$ 2.70
 
-h) Certificación del Servicio Público $ 2,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1991)</small>
+e) Baja de otros Estados N$ 2.70
 
-i)Expedición del Registro Anual de Control Vehicular $ 25,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+f) Reposición de placas, por cada una N$ 3.85
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+g) Expedición o renovación de tarjeta N$2.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+h) Certificación del Servicio Público N$2.00
+
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992) (F. DE E., P.O. 22 DE FEBRERO DE 1993)
+
+i) Expedición del Registro Anual de Control Vehicular N$ 25.00
 
 j) El canje extemporáneo de placas, dará lugar al cobro de intereses moratorios conforme a lo dispuesto por la Ley de Ingresos del Estado.
 
-III: De las Licencias para conducir.
+III. De las Licencias para conducir.
 
-A) Expedición de Licencia de Chofer $ 16,154.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-B) Expedición de Licencia de Automovilista $ 12,308.00
+A) Expedición de Licencia de Chofer N$ 16.15
 
-C) Expedición de Licencia de Motociclista $ 9,615.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-D) Canje de Licencia de Chofer $ 13,077.00
+B) Expedición de Licencia de Automovilista N$ 12.30
 
-E) Canje de Licencia de Automovilista $ 8,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-F) Canje de Licencia de Motociclista $ 7,000.00
+C) Expedición de Licencia de Motociclista N$ 9.60
 
-G) Expedición de duplicado de Licencias de Chofer, Automovilista y Motociclista…$ 9,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-H) El canje extemporáneo de Licencias pagará por año $ 7,692.00
+D) Canje de Licencia de Chofer N$ 13.05
 
-I) Cuota mensual por extemporaneidad $ 700.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-IV: Del arrastre y Pensión de vehículos.
+E) Canje de Licencia de Automovilista N$ 8.00
 
-A) Arrastre de grúa dentro del límite urbano $ 11,539.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-B) Arrastre de grúa en carreteras Estatales, pagarán por kilometro $ 2,000.00
+F) Canje de Licencia de Motociclista N$ 7.00
 
-C) Pensión diaria en el corralón de tránsito $ 769.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-V) El pago de derechos a que se refieren las fracciones I y II de este artículo, deberán hacerse de la siguiente manera:
+G) Expedición de duplicado de Licencias de Chofer, Automovilista y Motociclista…N$ 9.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+H) El canje extemporáneo de Licencias pagará por año N$ 7.70
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+I) Cuota mensual por extemporaneidad N$ .05
+
+IV. Del arrastre y Pensión de vehículos.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+A) Arrastre de grúa dentro del límite urbano N$ 11.55
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+B) Arrastre de grúa en carreteras Estatales, pagarán por kilómetro N$ 2.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+C) Pensión diaria en el corralón de tránsito N$ .75
+
+V. El pago de derechos a que se refieren las fracciones I y II de este artículo, deberán hacerse de la siguiente manera:
 
 A) Tratándose de altas y bajas de vehículos particulares y del servicio público, se pagarán dentro de los 15 días hábiles siguientes en que se adquiera o enajene el vehículo.
 
@@ -1303,17 +1513,27 @@ B) La expedición del registro anual del control vehicular, para los vehículos 
 
 Los derechos por la prestación de los servicios del Estado, a través de la Dirección General de Asuntos Jurídicos se causarán y pagarán de la siguiente forma:
 
-I. Por derecho a examen para obtener la Constancia de aspirante a Fiat de Notario $ 15,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-II. Por derecho a examen de oposición para obtener el Fiat de Notario $ 25,000.00
+I. Por derecho a examen para obtener la Constancia de aspirante a Fiat de Notario N$ 15.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+II. Por derecho a examen de oposición para obtener el Fiat de Notario N$ 25.00
 
 III. Por expedición de copias certificadas de diversas constancias que obren en los protocolos del Archivo General de Notarias:
 
-A) Por las primeras dos hojas $ 7,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-B) Por cada hoja excedente $ 1,500.00
+A) Por las primeras dos hojas N$ 7.00
 
-IV. Por expedición de constancias de inscripción o de no inscripción de testamentos $ 7,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+B) Por cada hoja excedente N$ 1.50
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+IV. Por expedición de constancias de inscripción o de no inscripción de testamento N$ 7.00
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1991)</small>
 
@@ -1479,33 +1699,55 @@ Los derechos por la prestación de los servicios del Estado, a través de la Dir
 
 I. Por la expedición de copias certificadas:
 
-A) Por la primera hoja $ 5,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-B) Por cada hoja excedente $ 2,000.00
+A) Por la primera hoja N$ 5.00
 
-II. Por certificaciones $ 5,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-III. Por la expedición de formas aprobadas $ 2,000.00
+B) Por cada hoja excedente N$ 2.00
 
-IV. Por la expedición de constancias de no adeudo de Impuestos o créditos fiscales estatales $ 6,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+II. Por certificaciones N$ 5.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+III. Por la expedición de formas aprobadas N$ 2.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+IV. Por la expedición de constancias de no adeudo de Impuestos o créditos fiscales estatales N$ 6.00
 
 V. Por la expedición de copias certificadas de la orden de visita, de las actas parciales o de las acta finales de auditoría:
 
-A) Por la primera hoja $ 5,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-B) Por cada hoja excedente $ 2,000.00
+A) Por la primera hoja N$ 5.00
 
-VI. Por la expedición de copias certificadas de cualquier otro documento que contenga el expediente de auditoría:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-A) Por la primera hoja $ 4,000.00
+B) Por cada hoja excedente N$ 2.00
 
-B) Por cada hoja excedente $ 2,000.00
+VI. Por la expedición de copias certificadas de cualquier otro documento que contenga el expediente de auditoria:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+A) Por la primera hoja N$ 4.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+B) Por cada hoja excedente N$ 2.00
 
 VII. Por la expedición de copias certificadas de cualquier otro documento que se encuentre en los archivos de esta Dirección General.
 
-A) Por la primera hoja $ 3,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-B) Por cada hoja excedente $ 2,000.00
+A) Por la primera hoja N$ 3.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+B) Por cada hoja excedente N$ 2.00
 
 ###### ARTICULO 93.
 
@@ -1513,9 +1755,13 @@ Los derechos por la prestación de los servicios del Estado a través de la Proc
 
 I. Por la expedición de copias certificadas de cualquier documento contenido en les expedientes que se encuentran en los archivos de esta Oficina.
 
-A) Por la primera hoja $ 3,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-B) Por cada hoja excedente $ 2,000.00
+A) Por la primera hoja N$ 3.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+B) Por cada hoja excedente N$ 2.00
 
 ### CAPITULO V
 
@@ -1525,17 +1771,25 @@ DE LAS DEPENDENCIAS DE LA SECRETARIA DE DESARROLLO SOCIAL.
 
 Los derechos por la prestación de los servicios del Estado, a través de la Dirección General de Desarrollo Urbano, Ecología y Catastro, se causarán y pagarán de la siguiente forma:
 
-I. Por el dictamen de uso del suelo para casa habitación $ 10,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-II. Por el dictamen de uso del suelo para Sub´Divisiones $ 30,000.00
+I. Por el dictamen de uso del suelo para casa habitación N$ 10.00
 
-III. Por el dictamen de uso del suelo para fraccionamientos $ 60,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+II. Por el dictamen de uso del suelo para Sub´Divisiones N$ 30.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+III. Por el dictamen de uso del suelo para fraccionamientos N$ 60.00
 
 IV. El dictamen a que se refieren las tres fracciones anteriores, tendrá vigencia de un año y su prórroga o revalidación causará el 50% de la cuota correspondiente.
 
 V. Por la fusión de predios SIN COSTO
 
-VI. La autorización para venta y escrituración en régimen de propiedad en condominio, pagará tomando como base una zona de las áreas de propiedad exclusiva y común, por metro cuadrado $ 500.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+VI. La autorización para venta y escrituración en régimen de propiedad en condominio, pagará tomando como base una zona de las áreas de propiedad exclusiva y común, por metro cuadrado N$ .50
 
 VII. La autorización para Sub´divisiones y fraccionamientos, causarán y pagarán el 7.5% del valor de la superficie del terreno, tomando como base el avalúo catastral o bancario, el 7.5% del valor de las obras de urbanización.
 
@@ -1543,71 +1797,129 @@ VIII. Las regularizaciones, causarán y pagarán las cuotas establecidas en la f
 
 IX. Por las relotificaciones en Sub´Divisiones o fraccionamientos, se cobrará el 25% de la cuota señalada en la fracción VII.
 
-X. Por el registro para ejercer como director responsable de obra en materia de construcción, planificación urbanística y régimen de propiedad en condominio $ 15,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-XI. Por el refrendo anual de ejecutor responsable de obra $ 10,000.00
+X. Por el registro para ejercer como director responsable de obra en materia de construcción, planificación urbanística y régimen de propiedad en condominio N$ 15.00
 
-XII. Por la licencia para la extracción de materiales de construcción para uso o venta $ 200,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-XIII. Por instalación de todo tipo de anuncios dentro y fuera de las ciudades, por metro cuadrado al mes $ 20,000.00
+XI. Por el refrendo anual de ejecutor responsable de obra N$ 10.00
 
-XIV. Por la evaluación del impacto ambiental en los proyectos para la instalación de industrias y construcción de fraccionamientos $ 80,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-XV. Por la evaluación del impacto ambiental en la extracción de materiales para construcción……………………………………………………………………………...$ 50,000.00
+XII. Por la licencia para la extracción de materiales de construcción para uso o venta N$ 200.00
 
-XVI. Por copia de plano manzanero del predio correspondiente $ 5,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-XVII. Por copia heliográfica del plano o carta de usos múltiples $ 5,000.00
+XIII. Por instalación de todo tipo de anuncios dentro y fuera de las ciudades, por metro cuadrado al mes N$ 20.00
 
-XVIII. Por la inspección de los predios y exámenes de las casas, de los planos, de los fraccionamientos urbanizados, a solicitud del interesado, por cada manzana……$ 7,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XIV. Por la evaluación del impacto ambiental en los proyectos para la instalación de industrias y construcción de fraccionamientos N$ 80.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XV. Por la evaluación del impacto ambiental en la extracción de materiales para construcción……………………………………………………………………………N$ 50.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XVI. Por copia de plano manzanero del predio correspondiente N$ 5.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XVII. Por copia heliográfica del plano o carta de usos múltiples N$ 5.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XVIII. Por la inspección de los predios y exámenes de las casas, de los planos, de los fraccionamientos urbanizados, a solicitud del interesado, por cada manzana……N$ 7.00
 
 XIX. En caso de Fraccionamientos y Predios rurales, para el levantamiento topográfico o para verificar la poligonal del terreno, se cobrará de conformidad con la siguiente tarifa:
 
-A) Superficie hasta de cinco hectáreas por cada una $ 50,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-B) Superficie 5 a 10 has., por cada una $ 40,000.00
+A) Superficie hasta de cinco hectáreas por cada una N$ 50.00
 
-C) Superficie de 10 a 50 has. por cada una $ 30,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-D) Superficie de 50 has., en adelante pagarán, por cada hectárea excedente $ 5,000.00
+B) Superficie 5 a 10 has., por cada una N$ 40.00
 
-XX. Por certificado o certificación del valor catastral $10,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-XXI. Por certificado o certificación del valor de concordancia de nombre de calle o número de cada predio $10,000.00
+C) Superficie de 10 a 50 has. por cada una N$ 30.00
 
-XXII. Por certificado o certificación de la superficie catastral de un predio urbano, por metro cuadrado $ 40,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-XXIII. Por certificado o certificación del nombre del propietario o poseedor de un predio $ 10,000.00
+D) Superficie de 50 has., en adelante pagarán, por cada hectárea excedente N$ 5.00
 
-XXIV. Por certificación general sobre manifiestos existentes a la fecha y de 5 años atrás, por cada manifiesto $ 10,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-XXV. Por aprobación, registro de planos y otorgamiento de claves catastrales, por metro cuadrado $ 100.00
+XX. Por certificado o certificación del valor catastral N$10.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XXI. Por certificado o certificación del valor de concordancia de nombre de calle o número de cada predio N$10.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XXII. Por certificado o certificación de la superficie catastral de un predio urbano, por metro cuadrado N$ 40.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XXIII. Por certificado o certificación del nombre del propietario o poseedor de un predio N$ 10.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XXIV. Por certificación general sobre manifiestos existentes a la fecha y de 5 años atrás, por cada manifiesto N$ 10.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XXV. Por aprobación, registro de planos y otorgamiento de claves catastrales, por metro cuadrado N$ .05
 
 XXVI. Por peritajes realizados para cada cambio de adscripción del uso del suelo en los padrones rentísticos, de rústico a urbano o viceversa se cobrará conforme la siguiente tabla.
 
-A) Predio con superficie hasta de 1,000 M2 $ 5,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-B) Predio con superficie hasta de 2,000 M2 $ 20,000.00
+A) Predio con superficie hasta de 1,000 M2 N$ 5.00
 
-C) Predio con superficie hasta de 3,000 M2 $ 25,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+B) Predio con superficie hasta de 2,000 M2 N$ 20.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+C) Predio con superficie hasta de 3,000 M2 N$ 25.00
 
 XXVII. La práctica de avalúos solicitados a la Dirección de Catastro, se cobrará de conformidad con la siguiente tarifa:
 
-A) Inmueble con valor hasta de $750,000.00 $ 10,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-B) Inmueble con valor hasta de $ 1'000,000.00 $ 15,000.00
+A) Inmueble con valor hasta de N$ 750.00 N$ 10.00
 
-C) Inmueble con valor hasta de $2'000,000.00 $ 20,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-D) Inmueble con valor hasta de 5'000,000.00 $ 25,000.00
+B) Inmueble con valor hasta de N$ 1,000.00 N$ 15.00
 
-E) Por cada millón excedente $ 5,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+C) Inmueble con valor hasta de N$ 2,000.00 N$ 20.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+D) Inmueble con valor hasta de N$ 5,000.00 N$ 25.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+E) Por cada millón excedente N$ 5.00
 
 XXVIII. Por la expedición de cualquier dato que se encuentre en los archivos de esta Dirección General:
 
-A) Por la primera hoja $ 30,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-B) Por cada hoja excedente $ 2,000.00
+A) Por la primera hoja N$ 3.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+B) Por cada hoja excedente N$ 2.00
 
 ###### ARTICULO 95.
 
@@ -1615,37 +1927,65 @@ Los derechos por la prestación de servicios del Estado, a través de la Direcci
 
 I. Por el otorgamiento de concesiones para el transporte de pasajeros en automóvil de alquiler, se pagarán de acuerdo a la siguiente zonificación de Municipios del Estado.
 
-A) Pachuca, Tulancingo, Tula de Allende, Tizayuca, Ixmiquilpan, Atitalaquia, Tepeji del Río de Ocampo, Mineral del Monte, Mineral de la Reforma y San Agustín Tlaxiaca $ 792.000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-B) Comunidades dentro de los Municipios del inciso anterior con servicios urbanos $ 594,000.00
+A) Pachuca, Tulancingo, Tula de Allende, Tizayuca, Ixmiquilpan, Atitalaquia, Tepeji del Río de Ocampo, Mineral del Monte, Mineral de la Reforma y San Agustín Tlaxiaca N$ 790.00
 
-C) Otras Comunidades dentro de los mismos municipios $ 475,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-D) Actopan, Mixquiahuala, Atotonilco el Grande, Progreso de Obregón, Tlahuelilpan, Tlaxcoapan, Francisco I. Madero, Atotonilco de Tula, Zimapan, San Salvador, Huichapan, Huejutla de Reyes, Santiago Tulantepec, Apan, Cuautepec y El Arenal $ 528,000.00
+B) Comunidades dentro de los Municipios del inciso anterior con servicios urbanos N$ 594.00
 
-> <small>(F. DE E., P.O. 1 DE MARZO DE 1991)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-E) Para comunidades dentro de los Municipios del inciso anterior, con servicios $ 396,000.00
+C) Otras Comunidades dentro de los mismos municipios N$ 475.00
 
-F) Otras Comunidades dentro de los mismos municipios $ 316,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-G) Tepeapulco, Tlanalapa, Tezontepec de Aldama, Ajacuba, Alfajayucan, y Acaxochitlán, Singuilucan, Huasca de Ocampo, Zapotlán de Juárez $ 370,000.00
+D) Actopan, Mixquiahuala, Atotonilco el Grande, Progreso de Obregón, Tlahuelilpan, Tlaxcoapan, Francisco I. Madero, Atotonilco de Tula, Zimapan, San Salvador, Huichapan, Huejutla de Reyes, Santiago Tulantepec, Apan, Cuautepec y El Arenal N$ 528.00
 
-H) Comunidades dentro de los Municipios del inciso anterior con servicios urbanos $ 277,200.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-I) Otras Comunidades dentro de los mismos municipios $ 221,700.00
+E) Para comunidades dentro de los Municipios del inciso anterior, con servicios urbanos N$ 396.00
 
-J) Molango, Zacualtipán, Metzquititlán, Zempoala, Tasquillo, Tetepango y Metepec $ 352,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-K) Comunidades dentro de los Municipios del inciso anterior con servicios urbanos $ 264,000.00
+F) Otras Comunidades dentro de los mismos municipios N$ 316.00
 
-L) Otras comunidades dentro de los mismos Municipios $ 211,200.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-M) Los demás Municipios del Estado de Hidalgo, pagarán por el otorgamiento de concesiones para el transporte de pasajeros en automóvil de alquiler $ 316,800.00
+G) Tepeapulco, Tlanalapa, Tezontepec de Aldama, Ajacuba, Alfajayucan, y Acaxochitlán, Singuilucan, Huasca de Ocampo, Zapotlán de Juárez N$ 370.00
 
-N) Cuando existan servicios urbanos en las comunidades pertenecientes a los municipios del inciso anterior $ 237,600.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-O) En las demás comunidades de los Municipios consignados en el inciso M) $ 190,000.00
+H) Comunidades dentro de los Municipios del inciso anterior con servicios urbanos N$ 277.20
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+I) Otras Comunidades dentro de los mismos municipios N$ 221.70
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+J) Molango, Zacualtipán, Metzquititlán, Zempoala, Tasquillo, Tetepango y Metepec N$ 352.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+K) Comunidades dentro de los Municipios del inciso anterior con servicios urbanos N$ 264.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+L) Otras comunidades dentro de los mismos Municipios N$ 211.20
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+M) Los demás Municipios del Estado de Hidalgo, pagarán por el otorgamiento de concesiones para el transporte de pasajeros en automóvil de alquiler N$ 316.80
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+N) Cuando existan servicios urbanos en las comunidades pertenecientes a los municipios del inciso anterior N$ 237.60
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+O) En las demás comunidades de los Municipios consignados en el inciso M) N$ 190.00
 
 II. Por las transferencias de las concesiones señaladas en la fracción primera de este artículo, se causarán y pagarán derechos de un 40% de acuerdo a las tarifas establecidas en los incisos de dicha fracción, según el caso.
 
@@ -1655,13 +1995,21 @@ IV. Por las regularizaciones de las concesiones para el transporte de pasajeros 
 
 V. Por el otorgamiento de concesiones para el transporte de pasajeros en ruta, se pagarán los derechos en la forma siguiente.
 
-A). La concesión en tramo de uno a diez kilómetros $ 352,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-B). Por cada kilómetro excedente, hasta 20 kilómetros $ 19,300.00
+A). La concesión en tramo de uno a diez kilómetros N$ 352.00
 
-C). Concesión con ruta de más de 20 kilómetros $ 672,300.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-VI. Las aplicaciones en las concesiones a que se refieren los incisos de la fracción anterior, pagarán por kilómetro autorizado $ 25,000.00
+B). Por cada kilómetro excedente, hasta 20 kilómetros N$ 19.30
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+C). Concesión con ruta de más de 20 kilómetros N$ 672.30
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+VI. Las aplicaciones en las concesiones a que se refieren los incisos de la fracción anterior, pagarán por kilómetro autorizado N$ 25.00
 
 VII. Por las transferencias de las concesiones señaladas en la fracción V de este artículo, se causarán y pagarán derechos en un 40% de acuerdo a las tarifas establecidas en los incisos de dicha fracción, según el caso.
 
@@ -1669,95 +2017,167 @@ VIII. Por las renovaciones de las concesiones señaladas en la fracción V de es
 
 IX. Por las regularizaciones de las concesiones señaladas en la fracción V de este artículo, se causarán y pagarán derechos en un 80% de acuerdo a las tarifas establecidas en los incisos de dicha fracción, según el caso.
 
-X. Las autorizaciones por el enrolamiento entre rutas locales, o entre éstas y rutas federales, causarán y pagarán derechos de $ 404,800.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-XI. Por los permisos de pase de límites en concesiones de rutas federales, causarán y pagarán derechos de $ 272,800.00
+X. Las autorizaciones por el enrolamiento entre rutas locales, o entre éstas y rutas federales, causarán y pagarán derechos de N$ 404.80
 
-XII. Por los permisos de pase de límites en concesiones de ruta locales, causarán y pagarán derechos de $ 228,800.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XI. Por los permisos de pase de límites en concesiones de rutas federales, causarán y pagarán derechos de N$ 272.80
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XII. Por los permisos de pase de límites en concesiones de ruta locales, causarán y pagarán derechos de N$ 228.80
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
 XIII. Para el otorgamiento de concesiones de servicios especializados de carga, se pagará de acuerdo a la siguiente zonificación de Municipios del Estado:
 
-A) Pachuca, Tulancingo, Tula de Allende, Tizayuca, Atotonilco de Tula, Atitalaquia, Tepeji del Río, Huichapan, Zimapán, se pagará por el transporte para construcción $ 633.000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-B) En los Municipios citados en el inciso anterior, se pagará el transporte de carga ligera urbana $ 528,000.00
+A) Pachuca, Tulancingo, Tula de Allende, Tizayuca, Atotonilco de Tula, Atitalaquia, Tepeji del Río, Huichapan, Zimapán, se pagará por el transporte para construcción N$ 633.00
 
-C) En los mismos Municipios citados en el inciso A), se pagará por el transporte de productos agrícolas e insumos $ 396,800.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-D) Actopan, Ixmiquilpan, Mixquiahuala, Atotonilco el Grande, Progreso de Obregón, Tlahuelilpan, Tlaxcoapan, Francisco I. Madero y San Salvador, pagarán por el transporte de materiales para construcción $ 528,000.00
+B) En los Municipios citados en el inciso anterior, se pagará el transporte de carga ligera urbana N$ 528.00
 
-E) En los Municipios citados en el inciso anterior, se pagará por el transporte de carga ligera urbana $ 396,800.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-F) En los mismos Municipios citados en el inciso D), se pagará por el transporte de productos agrícolas e insumos $ 316,800.00
+C) En los mismos Municipios citados en el inciso A), se pagará por el transporte de productos agrícolas e insumos N$ 396.80
 
-G) En Huejutla de Reyes, Apan Tepeapulco, Mineral del Monte, Santiago Tulantepec, Tlanalapa, Mineral de la Reforma, Tezontepec de Aldama, Ajacuba, Cuautepac, Alfajayucan, y Acaxochitlán, pagarán por el transporte de materiales para construcción $ 369,600.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-H) En los Municipios citados en el inciso anterior, se pagará por el transporte de carga ligera urbana $ 277,200.00
+D) Actopan, Ixmiquilpan, Mixquiahuala, Atotonilco el Grande, Progreso de Obregón, Tlahuelilpan, Tlaxcoapan, Francisco I. Madero y San Salvador, pagarán por el transporte de materiales para construcción N$ 528.00
 
-I) En los mismos Municipios citados en el inciso G), se pagará por el transporte de productos agrícolas e insumos $ 221,760.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-J) En Molango, Zacualtipán, Mezquititlán, Singuilucan, Zempoala, Tasquillo, Huasca de Ocampo, Tetepango, San Agustín Tlaxiaca, Zapotlán de Juárez, El Arenal y Metepec, se pagará por el transporte de materiales para construcción $ 352,000.00
+E) En los Municipios citados en el inciso anterior, se pagará por el transporte de carga ligera urbana N$ 396.80
 
-K) En los Municipios citados en el inciso anterior se pagará por el transporte de carga ligera urbana $ 254,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-L) En los mismos Municipios citados en el inciso J), se pagará por el transporte de productos agrícolas e insumos $ 211,200.00
+F) En los mismos Municipios citados en el inciso D), se pagará por el transporte de productos agrícolas e insumos N$ 316.80
 
-M) Los demás Municipios del Estado de Hidalgo, pagarán por la concesión para el transporte de materiales para construcción $ 316,800.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-N) En los Municipios citados en el inciso anterior, se pagará por el transporte de carga ligera urbana $ 237,200.00
+G) En Huejutla de Reyes, Apan Tepeapulco, Mineral del Monte, Santiago Tulantepec, Tlanalapa, Mineral de la Reforma, Tezontepec de Aldama, Ajacuba, Cuautepac, Alfajayucan, y Acaxochitlán, pagarán por el transporte de materiales para construcción N$ 369.60
 
-O) En los Municipios a que se hace referencia en el inciso M), se pagará por el transporte de productos agrícolas e insumos $ 190,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+H) En los Municipios citados en el inciso anterior, se pagará por el transporte de carga ligera urbana N$ 277.20
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+I) En los mismos Municipios citados en el inciso G), se pagará por el transporte de productos agrícolas e insumos N$ 221.75
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+J) En Molango, Zacualtipán, Mezquititlán, Singuilucan, Zempoala, Tasquillo, Huasca de Ocampo, Tetepango, San Agustín Tlaxiaca, Zapotlán de Juárez, El Arenal y Metepec, se pagará por el transporte de materiales para construcción N$ 352.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+K) En los Municipios citados en el inciso anterior se pagará por el transporte de carga ligera urbana N$ 254.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+L) En los mismos Municipios citados en el inciso J), se pagará por el transporte de productos agrícolas e insumos N$ 211.20
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+M) Los demás Municipios del Estado de Hidalgo, pagarán por la concesión para el transporte de materiales para construcción N$ 316.80
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+N) En los Municipios citados en el inciso anterior, se pagará por el transporte de carga ligera urbana N$ 237.20
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+O) En los Municipios a que se hace referencia en el inciso M), se pagará por el transporte de productos agrícolas e insumos N$ 190.00
 
 XIV: Por las transferencias de las concesiones a que hace referencia en fracción XIII de este artículo, se causarán y pagarán derechos en un 40% de acuerdo a las tarifas establecidas en los incisos de dicha fracción, según el caso.
 
 XV. Por las renovaciones de las concesiones a que hace referencia la fracción XIII de este artículo se causarán y pagarán derechos en un 45% de acuerdo a las tarifas establecidas en los incisos de dicha fracción, según el caso.
 
-XVI. Las modificaciones que se realicen en cualquier tipo de concesiones señaladas en este articulo, pagarán $ 100,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XVI. Las modificaciones que se realicen en cualquier tipo de concesiones señaladas en este articulo, pagarán N$ 100.00
 
 XVII. La expedición de los permisos de transporte, se causarán y pagarán de la siguiente manera:
 
-A) Los permisos de grúa para el arrastre de vehículos pagaran $ 281,600.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-B) Los permisos para el transporte de Petróleo y sus derivados pagarán $ 186,500.00
+A) Los permisos de grúa para el arrastre de vehículos pagaran N$ 281.60
 
-C) Los permisos de transporte para distribución de agua, pagarán $ 186,500.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-D) Los permisos de transporte de empresas de construcción, comerciantes e industriales, agricultores y mineros, pagarán $ 186,500.00
+B) Los permisos para el transporte de Petróleo y sus derivados pagarán N$ 186.50
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+C)Los permisos de transporte para distribución de agua, pagarán N$ 186.50
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+D) Los permisos de transporte de empresas de construcción, comerciantes e industriales, agricultores y mineros, pagarán N$ 186.50
 
 XVIII. La renovación de permisos a que se refiere la fracción XVII de este artículo, se causarán y pagarán en un 45% de acuerdo a las tarifas establecidas en los incisos A, B, C, D.
 
-XIX. En caso de renovación extemporánea de permisos, se pagará por cada mes de extemporaneidad $ 2,800.00.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XIX. En caso de renovación extemporánea de permisos, se pagará por cada mes de extemporaneidad N$ 2.80
 
 XX. La transferencia de los permisos señalados en los incisos de la fracción XVII, pagarán el 45% de la cuota señalada en dicho inciso según el caso.
 
 XXI. Por copias certificadas de documentos existentes en esta Dirección:
 
-A) Por la primera hoja $ 3,000.00.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-B) Por cada hoja excedente $ 2,000.00.
+A) Por la primera hoja N$ 3.00
 
-XXII. Por la autorización para la sustitución de las unidades que prestan los servicios establecidos en este artículo $ 100,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+B) Por cada hoja excedente N$ 2.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+XXII. Por la autorización para la sustitución de las unidades que prestan los servicios establecidos en este artículo N$ 100.00
 
 ### CAPITULO VI
 
 DE LAS DEPENDENCIAS DE LA SECRETARIA DE DESARROLLO ECONOMICO.
 
+> <small>N. DE E. ESTE ARTICULO NO CONTEMPLA EL TEXTO DEL MISMO POR ASÍ SER PUBLICADA LA REFORMA EN EL PERIODICO OFICIAL DEL ESTADO</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 96.
 
 Los derechos por la prestación de los servicios del Estado, a través de la Dirección General de Responsabilidades y Situación Patrimonial, se causarán y pagarán de la siguiente forma:
 
-I.- Por la inscripción en el registro de proveedores $ 150,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-II. Por la inscripción en el padrón de contratistas $ 150,000.00
+I.- Por la inscripción en el registro de proveedores N$ 150.00
 
-III. Por el refrendo anual al Padrón de contratistas $ 150,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-IV. Por la expedición de Constancia de No Inhabilitación, para desempeñar cargo público $3,000.00
+II. Por la inscripción en el padrón de contratistas N$ 150.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+III. Por el refrendo anual al Padrón de contratistas N$ 150.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+IV. Por la expedición de Constancia de No Inhabilitación, para desempeñar cargo público N$3.00
 
 V. Por la expedición de copias certificadas de cualquier documento existente en los archivos de esta Dirección General:
 
-A) Por la primera hoja $ 3,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-B) Por cada hoja excedente $ 2,000.00
+A) Por la primera hoja N$ 3.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+B) Por cada hoja excedente N$ 2.00
 
 ### CAPITULO UNICO
 
@@ -1767,15 +2187,23 @@ B) Por cada hoja excedente $ 2,000.00
 
 Los derechos por la prestación de servicios del Estado a Través de la Dirección de Profesiones, se causará y pagarán de la siguiente forma:
 
-I. Por la reposición de Cédulas Profesionales $ 30,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-II. Por la ampliación de autorización para ejercer como pasante $ 25,000.00
+I. Por la reposición de Cédulas Profesionales N$ 30.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+II. Por la ampliación de autorización para ejercer como pasante N$ 25.00
 
 III. Por la expedición de copias certificadas de documentos que existan en los Archivos de esta Dirección:
 
-A) Por la primera hoja $ 3,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-B) Por cada hoja excedente $ 2,000.00
+A) Por la primera hoja N$ 3.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+B) Por cada hoja excedente N$ 2.00
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1991)</small>
 
@@ -1791,7 +2219,159 @@ II. Por la certificación de firmas en títulos……………………………
 
 ###### ARTICULO 98.
 
-(DEROGADO, P.O. 27 DE DICIEMBRE DE 1991)
+........................................................................................................................
+
+I. Por inspección de calderas, calentadores y aparatos a presión o vacío.
+
+1.……………………………..………………………N$ .35
+
+2………………………………… …………………..N$ .50
+
+3………………………………………………………N$ .60
+
+4………………………………….............................N$ .70
+
+5…………………………………. …………………. N$ .85
+
+6…………………………………. ………………… N$ .95
+
+7……………………………… …………………… N$ 1.10
+
+8……………………………….……………………N$ 1.20
+
+9……………………………….…………………....N$ 1.35
+
+10……………………………..…………………….N$ 1.45
+
+11…………………………….. ……………………N$ 1.55
+
+12 …………………………….. …………………..N$ 1.70
+
+13……………………………..…………………….N$1.90
+
+14……………………………..……………………N$ 2.00
+
+15. …………………………….………………..…N$ 2.15
+
+16. ………………………….……………………..N$ 2.30
+
+17………………………………………………….N$ 2.40
+
+18………………………………………………….N$ 2.55
+
+19………………………………………………….N$ 2.65
+
+20……………………………………………..……N$ 2.75
+
+21……………………..…………………………....N$ .05
+
+II …………………………………………………….
+
+1………………..…………………………...........N$ .15
+
+2…………………….……………………............N$ .30
+
+3…………………………………………….........N$ .55
+
+4…………………..……………….………..........N$ .85
+
+5……………………..……………….…..............N$ .95
+
+6………………………………………….............N$ 1.10
+
+7…………………………………….……............N$ 1.25
+
+8 ………………….………………………...........N$ 1.40
+
+9…………………..……………………...............N$ 1.50
+
+10…………………………………………............N$ 1.70
+
+11…………………………………………............N$ 1.80
+
+12…………………………………………............N$ 1.95
+
+13…………………………………………............N$ 2.10
+
+14…………………………………………............N$ 2.25
+
+15 …………………………………………...........N$ 2.35
+
+16…………………………………………............N$ 2.50
+
+17…………………………………………............N$ 2.65
+
+18. ……………………………………..…............N$ 2.80
+
+19. ……………………..…………….……...........N$ 2.90
+
+20…………………….…………………...............N$ 3.10
+
+21. …………………….………………….............N$ 3.20
+
+22. …………………….………………….............N$ 3.35
+
+23. ……………………..…………………............N$ 3.50
+
+24. ……………………..…………………............N$ 3.65
+
+25……………………………………..…..............N$ 3.80
+
+26 ……………………..………………..…...........N$ 3.90
+
+27. ……………………….……………….............N$ 4.10
+
+28. ………………………..………………............N$ 4.20
+
+29…………………………..………....….............N$ 4.35
+
+30. ………………………………………….........N$ 4.60
+
+31. ………………………….……………............N$ 4.70
+
+32. ………………………….………………........N$ 4.80
+
+33………………………..………………............N$ 4.90
+
+34………………………………………..............N$ 5.05
+
+35……………………………………...........…...N$ 5.20
+
+36………………………….…………...........…..N$ 5.30
+
+37 ……………………………………................N$ 5.60
+
+38……………………………………...........…..N$ 5.65
+
+39……………………………………….............N$ 5.75
+
+40……………………………………...........…..N$ 5.90
+
+41………………………………………..........…N$ 6.00
+
+42 ………………………………………….........N$ .05
+
+III…………………………………………………
+
+A)…………………………………………………
+
+1…………..…………………………...........…..N$ .60
+
+2…………..…………………………….............N$ .15
+
+B)…………………………………………………
+
+1………….…………………………….............N$ .30
+
+2…………………………………………...........N$ .90
+
+C)…………………………………………………
+
+1…………..……………………………............N$ .15
+
+2…………………………………………...........N$ .60
+
+IV…………………………………………...........N$ .15
 
 ### CAPITULO UNICO
 
@@ -1815,29 +2395,53 @@ VI. Los productos por conceptos diversos de los señalados en este artículo, pa
 
 VII. Las publicaciones en el Periódico Oficial del Estado, se pagarán de acuerdo a la siguiente tarifa:
 
-A) Por publicación de avisos y documentos que deban hacerse por disposición de la Ley, se pagarán por palabra $ 60.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-B) Por las publicaciones en el Periódico Oficial, hasta media plana $ 25,000.00
+A)Por publicación de avisos y documentos que deben hacerse
 
-C) Por la publicación en el Periódico Oficial, hasta una plana $ 40,000.00
+por disposición de la Ley, se pagará por palabra N$ .05
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+B)Por las publicaciones en el Periódico Oficial, hasta media plana N$ 25.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+C)Por la publicación en el Periódico Oficial, hasta una plana N$ 40.00
 
 VIII. La venta del Periódico Oficial de Estado, se pagará de acuerdo a la siguiente tarifa:
 
-A) Por la suscripción durante un año $ 300,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-B) Por la suscripción durante seis meses $ 160,000.00
+A) Por la suscripción durante un año N$ 300.00
 
-C) Por la suscripción durante tres meses $ 90,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-D) Por la suscripción durante un mes $ 30,000.00
+B) Por la suscripción durante seis meses N$ 100.00
 
-E) El costo de un ejemplar a la fecha $ 5,000.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-F) El costo de un ejemplar atrasado hasta un año $ 6,000.00
+C) Por la suscripción durante tres meses N$ 90.00
 
-G) El costo de un ejemplar del año inmediato anterior $ 6,500.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
 
-H). Por cada año atrasado, se pagará el costo más $ 500.00
+D)Por la suscripción durante un mes N$ 30.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+E) El costo de un ejemplar a la fecha N$ 5.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+F) El costo de un ejemplar atrasado hasta un año N$ 6.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+G)El costo de un ejemplar del año inmediato anterior N$ 6.50
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+
+H) Por cada año atrasado, se pagará el costo más N$ .50
 
 ## TITULO V. DE LOS APROVECHAMIENTOS
 
@@ -1942,3 +2546,11 @@ P.O. 27 DE DICIEMBRE DE 1991.
 PRIMERO.- EL Presente Decreto entrará en vigor el día 1º. de enero de 1992, previa su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 1992.
+
+PRIMERO. El presente Decreto entrará en vigor el día 1º de enero de 1993.
+
+SEGUNDO. Deberá ordenarse su publicación en el Periódico Oficial del Estado.
+
+TERCERO. Se derogan todas las disposiciones que se pongan al presente Decreto.
