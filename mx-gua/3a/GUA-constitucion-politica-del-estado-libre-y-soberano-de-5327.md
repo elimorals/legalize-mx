@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1976-03-28"
+last_updated: "1977-07-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,15 +23,13 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 1977.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
 El C. LIC. AGUSTIN ALCOCER, Gobernador Constitucional del Estado Libre y Soberano de Guanajuato, a sus habitantes, hace saber:
 
 Que la XXVI H. Legislatura del mismo, con el carácter de Congreso Constituyente, se ha servido decretar la siguiente
-
-> <small>N. DE E. DE LAS REFORMAS APROBADAS EN EL DECRETO NUMERO 274 POR LA LEGISLATURA DEL ESTADO, MODIFICA DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DE LA PRESENTE CONSTITUCION, DANDO COMO RESULTADO UN TEXTO DIFERENTE, QUEDANDO DIVERSOS ARTICULOS INTACTOS; MOTIVO POR EL CUAL, SE PRESENTA EL TEXTO APROBADO Y PUBLICADO EN EL P.O. DE 28 DE MARZO DE 1976.</small>
 
 CONSTITUCION.
 
@@ -833,7 +831,7 @@ XXVI.- Rendir informes a la Legislatura sobre cualquier ramo de la administraci�
 
 XXVII.- Las demás que le concedan esta Constitución y las leyes.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 1977)</small>
 
 #### SECCION SEGUNDA. DE LOS JUECES DE PRIMARA INSTANCIA Y MUNICIPALES
 
@@ -845,7 +843,7 @@ XXVII.- Las demás que le concedan esta Constitución y las leyes.
 
 ###### ARTICULO 81.
 
-El Gobernador del Estado asistirá el día 10 de agosto de cada año a la sesión ordinaria de la Legislatura, en la que presentará un informe por escrito exponiendo la situación que guarda la administración pública del Estado. Podrá asistir también, cuando lo solicite, para informar sobre asuntos de su competencia y así lo acuerde la Legislatura.
+El Gobernador del Estado asistirá el primer domingo de agosto de cada año a la sesión ordinaria de la Legislatura, en la que presentará un informe por escrito exponiendo la situación que guarda la administración pública del Estado. Podrá asistir también, cuando lo solicite, para informar sobre asuntos de su competencia y así lo acuerde la Legislatura.
 
 > <small>(REFORMADO, P.O. 28 DE MARZO DE 1976)</small>
 
@@ -1744,3 +1742,9 @@ P.O. 28 DE MARZO DE 1976.
 ###### ARTICULO UNICO.
 
 Las reformas y adiciones a la Constitución Política del Estado de Guanajuato que se contienen en este Decreto, surtirán efecto el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE JULIO DE 1977.
+
+###### ARTICULO UNICO.
+
+Este Decreto surtirá efectos efectos (sic) a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado.
