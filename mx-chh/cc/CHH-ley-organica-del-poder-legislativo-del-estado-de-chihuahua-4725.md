@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2002-05-11"
+last_updated: "2002-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2002.
-
-REPUBLICADO, P.O. 22 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2002.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -363,7 +361,11 @@ XVI.- Representar al Congreso en juicio y fuera de él;
 
 XVII.- Exhortar a las comisiones y comités a realizar sus reuniones con la periodicidad reglamentaria y presentar sus dictámenes en tiempo y forma; y
 
-XVIII.- Contestar en términos generales, si le da lectura el Gobernador a su Informe de Gobierno a la apertura del Primer Período Ordinario de Sesiones.
+XVIII.- Contestar en términos generales, si le da lectura el Gobernador a su Informe de Gobierno a la apertura del Primer Período Ordinario de Sesiones;
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2002)</small>
+
+XIX.- Informar al Congreso, en la última sesión ordinaria del Período Ordinario que le correspondió presidir, de las actividades realizadas durante su gestión.
 
 Los Vicepresidentes auxiliarán al Presidente en el desempeño de sus funciones y lo suplirán en su ausencia en el orden en que hubieren sido electos.
 
@@ -1716,3 +1718,9 @@ P.O. 11 DE MAYO DE 2002.
 REPUBLICADO, P.O. 22 DE MAYO DE 2002.
 
 ÚNICO.- El presente decreto entrará en vigor de inmediato y se publicará en el Periódico Oficial del Estado en los términos de los artículos 64, fracción XLIII y 75, ambos de la Constitución Política del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2002.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
