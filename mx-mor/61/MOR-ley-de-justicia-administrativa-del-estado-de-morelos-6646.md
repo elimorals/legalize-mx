@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-justicia-administrativa-del-estado-de-morelos-6646"
 country: "mx"
 rank: "ley"
 publication_date: "1990-02-14"
-last_updated: "1996-07-17"
+last_updated: "2000-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en la Sección Segunda el Periódico Oficial del Estado de Morelos, el miércoles 14 de febrero de 1990.
 
@@ -63,49 +63,61 @@ LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 1º.
 
-En el Estado de Morelos, toda persona tiene derecho a impugnar los actos y resoluciones, de carácter Administrativo o Fiscal, emanados de dependencias del Poder Ejecutivo del Estado o de los Ayuntamientos, que afecten sus derechos e intereses legítimos, conforme a lo dispuesto por la presente Ley. También podrán impugnar los actos y resoluciones de carácter fiscal producidos por los organismos descentralizados estatales o municipales.
+En el Estado de Morelos, toda persona tiene derecho a impugnar los actos y resoluciones, de carácter Administrativo o fiscal, emanados de dependencias del poder ejecutivo del Estado o de los ayuntamientos, que afecten sus derechos e intereses legítimos, conforme a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y por esta Ley. También podrán impugnar los actos y resoluciones de carácter fiscal producidos por los organismos descentralizados estatales o municipales.
 
 Los servidores públicos al propio tiempo que deben realizar sus funciones bajo el orden jurídico establecido, sujetarán sus actos y resoluciones a lo ordenado por la norma específica, procurando observar estrictamente, desde el ejercicio de la competencia atribuida, la aplicación congruente de los preceptos substantivos, hasta el cumplimiento de las formalidades esenciales del procedimiento.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 2º.
 
-Se crea el Tribunal de lo Contencioso administrativo del Estado de Morelos, con la competencia y organización que establece esta Ley, para revisar la Legalidad de los actos y resoluciones de la Administración Pública Estatal y de los Ayuntamientos de la Entidad.
+El Tribunal de lo Contencioso Administrativo del Estado de Morelos, cuenta con las facultades, competencia y organización que establece la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y esta Ley, para revisar la legalidad de los actos y resoluciones de la administración pública estatal y de los Ayuntamientos de la Entidad, para lo cual estará dotado de plena jurisdicción y del imperio suficiente para hacer cumplir sus determinaciones.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 3º.
 
-El Tribunal de lo Contencioso Administrativo es un Organo de Control de la Legalidad, con Potestad de Anulación, dotado de plena Autonomía para dictar sus fallos e independiente de cualquiera Autoridad Administrativa.
+El Tribunal de lo Contencioso Administrativo, es parte del Poder Judicial del Estado, es un órgano de control de la legalidad, con potestad de anulación y dotado de plena autonomía para dictar sus fallos.
 
 ### CAPITULO II. DE LA INTEGRACION DEL TRIBUNAL
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 4º.
 
-El Tribunal de lo Contencioso Administrativo estará integrado por el número de Magistrados, Propietarios y Suplentes, que sean necesarios para el buen despacho de los asuntos de su competencia. En ningún caso será menos de tres los Propietarios ni los Suplentes.
+El Tribunal de lo Contencioso Administrativo estará integrado por tres magistrados propietarios y tres suplentes respectivamente.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 5º.
 
-El Tribunal de lo Contencioso Administrativo ejercerá sus funciones en pleno y en salas.
+Para la atención de los asuntos de su competencia el Tribunal de lo Contencioso Administrativo ejercerá sus funciones en Pleno y en Salas.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 6º.
 
-Los Magistrados del Tribunal de lo Contencioso Administrativo serán nombrados por el titular del Poder Ejecutivo, durarán en su cargo seis años, los que coincidirán con el periodo Constitucional del Poder Ejecutivo y no podrán ser removidos, substituidos, ni suspendidos durante su ejercicio, sino mediante juicio de responsabilidad. Los nombramientos serán sometidos a la aprobación del Congreso del Estado, en los mismos términos que establece la Constitución Política Local para los Magistrados del Tribunal Superior de Justicia.
+Los magistrados del Tribunal de lo Contencioso Administrativo serán designados por el Congreso del Estado a propuesta de la Comisión de Régimen Interno y Concertación Política del Congreso del Estado, durarán seis años en su encargo y adquirirán inamovilidad en los términos previstos por la Constitución Política del Estado Libre y Soberano de Morelos.
 
-Los Magistrados Propietarios y Suplentes otorgarán la protesta de Ley ante el congreso del Estado.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
-###### ARTICULO 7°.
+###### ARTICULO 7º.
 
-Para ser Magistrado del Tribunal de lo Contencioso Administrativo se requiere:
+. Para ser magistrado del Tribunal de lo Contencioso Administrativo se deberán reunir los mismos requisitos que para ser magistrado del Tribunal Superior de Justicia, debiendo además contar por lo menos con tres años de práctica profesional en materia administrativa y fiscal.
 
-I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus Derechos Civiles y Políticos, ser Originario del Estado o tener residencia habitual en el; cuando menos diez años antes del día de su designación;
+I. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2000)
 
-II.- Ser licenciado en derecho, con título debidamente registrado en la Dirección de Profesiones del Estado;
+II. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2000)
 
-III.- Tener treinta años cumplidos y no ser mayor de sesenta y cinco el día de la designación;
+III. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2000)
 
-IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal, ni en juicio de responsabilidad a la destitución o suspensión de empleo; y
+IV. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2000)
 
-V.- Tener por lo menos tres años de práctica Profesional en Materia Administrativa.
+V.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 8°.
 
@@ -117,39 +129,51 @@ Quedan exceptuados de esta disposición, la docencia y los cargos honoríficos e
 
 Las faltas temporales de los Magistrados serán cubiertas por el suplente respectivo; en caso de falta absoluta se procederá a la designación de un Magistrado substituto en los términos del artículo 6° de esta Ley, quien desempeñará el cargo por el resto del periodo.
 
-Las renuncias de los Magistrados se presentarán para su aceptación al Gobernador del Estado.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+Las renuncias de los magistrados se presentarán para su aceptación al Congreso del Estado.
 
 ###### ARTICULO 10.
 
 Los Magistrados suplentes se avocarán al conocimiento de los asuntos por faltas temporales o excusas de los propietarios; y cuando ejerzan función, disfrutarán de emolumentos que se pagarán conforme a lo previsto en el reglamento interior del tribunal.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 11.
 
-Las licencias a los Magistrados por un término que no exceda de dos meses, con goce de sueldo, o por más de dos meses sin sueldo, solamente podrá concederlas el Gobernador del Estado, a quien se solicitarán por conducto del presidente del tribunal.
+Las licencias a los magistrados por un término que no exceda de treinta días, con goce de sueldo, o por un término superior sin sueldo, solamente podrá concederlas el Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 12.
 
-Dentro de los primeros diez días del mes de enero de cada año, celebrará sesión el tribunal en la que el presidente en funciones rendirá el informe correspondiente a las labores del año anterior y se procederá a la elección del presidente.
-
-Asimismo, el tribunal fijará la adscripción de los magistrados a las salas, y nombrará a los funcionarios del tribunal y de las salas.
+Dentro de los primeros diez días del mes de septiembre de cada año, celebrará sesión el Tribunal en la que el Presidente en funciones rendirá el informe correspondiente a las labores del año anterior y se procederá a la rotación de la Presidencia.
 
 ### CAPITULO III. DEL PRESIDENTE DEL TRIBUNAL
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 13.
 
-El tribunal tendrá un presidente que durará en su cargo un año, al término del cual podrá ser reelecto.
+EL Tribunal tendrá un Presidente que durará en su cargo un año. La Presidencia será rotativa anualmente entre los magistrados que integran el Tribunal.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 14.
 
-La residencia del pleno del tribunal será la ciudad de Cuernavaca, por lo que el presidente asumirá, al ser designado, el cargo de magistrado de la sala de dicha ciudad capital.
+La residencia del Tribunal será la Ciudad de Cuernavaca, en el recinto del Poder Judicial de Estado de Morelos.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 15.
 
-El presidente del tribunal será suplido, en sus faltas temporales que no excedan de dos meses, por el magistrado adscrito a la sala regional que le siga en número; cuando la falta exceda de dicho término, se nombrará nuevo presidente para concluir el periodo.
+El Presidente del Tribunal será suplido, en sus faltas temporales que no excedan de dos meses, por el magistrado adscrito a la sala que le siga en número; cuando la falta exceda de dicho término, la Presidencia del Tribunal la asumirá el Magistrado al que no le corresponda el período inmediato, quien concluirá el período si fuere el caso. Concluido este, se continuará con el orden de rotación correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 16.
 
-Son atribuciones del presidente del tribunal:
+Son atribuciones del Presidente del Tribunal:
 
 I.- Representar al tribunal ante cualquiera autoridad;
 
@@ -173,7 +197,9 @@ X.- Ejecutar los acuerdos dictados por el pleno del tribunal;
 
 XI.- Proponer al pleno las medidas que juzgue convenientes para la mejor administración de la justicia;
 
-XII.- Informar al pleno, cuando ello le fuere solicitado, acerca de las medidas administrativas adoptadas;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+XII.- Informar al Pleno del Tribunal, cuando ello le fuere solicitado, acerca de las medidas administrativas adoptadas;
 
 XIII.- Informar anualmente al pleno del tribunal sobre las labores realizadas durante el año anterior; y
 
@@ -181,9 +207,11 @@ XIV.- Las demás que le confieran el pleno del Tribunal y las Leyes aplicables.
 
 ### CAPITULO IV. DEL PLENO
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 17.
 
-El pleno del tribunal se integrará por los magistrados adscritos a las salas regionales y por el presidente del mismo.
+El Pleno es la máxima autoridad del Tribunal de lo Contencioso Administrativo, se integrará por los tres magistrados, que integran el Tribunal de lo Contencioso Administrativo.
 
 ###### ARTICULO 18.
 
@@ -193,25 +221,37 @@ Las sesiones del tribunal serán públicas y se efectuarán una vez por semana e
 
 Las resoluciones del pleno se tomarán por unanimidad o mayoría de votos de los magistrados, quienes no podrán abstenerse de votar a menos que exista algún impedimento legal. El magistrado que difiera de la opinión de la mayoría, podrá formular voto particular.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 20.
 
-Son atribuciones del tribunal en pleno:
+Son atribuciones del Tribunal en Pleno:
 
-I.- Designar al presidente;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
-II.- Fijar las adscripciones de los magistrados a las salas regionales;
+I.- Llevar a cabo la rotación de la Presidencia del Tribunal;
 
-III.- Nombrar y remover al secretario general de acuerdos, formular la lista de auxiliares y aprobar o rechazar los nombramientos y remociones propuestas por el presidente;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+II.- Fijar las adscripciones de los magistrados a la primera, segunda y tercera Salas del Tribunal;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+III.- Nombrar y remover a los funcionarios y personal administrativo del Tribunal, formular la lista de auxiliares y aprobar o rechazar los nombramientos y remociones propuestas por los magistrados;
 
 IV.- Conceder licencia a los secretarios, actuarios y personal administrativo del tribunal y de las salas, en los términos previstos en esta Ley;
 
-V.- Expedir, modificar y substituir, el reglamento interior del tribunal;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+V.- Expedir, reformar y abrogar, el Reglamento Interior del Tribunal;
 
 VI.- Dictar las medidas necesarias para el despacho pronto y expedito de los asuntos del tribunal;
 
 VII.- Resolver en definitiva los juicios contenciosos administrativos, de acuerdo con el procedimiento señalado en esta Ley;
 
-VIII.- Enviar al titular del Poder Ejecutivo estatal el informe anual de actividades, en el mes de enero de cada año;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+VIII.- Enviar al Presidente del Tribunal Superior de Justicia el Informe anual de actividades, en el mes de Septiembre de cada año;
 
 IX.- Nombrar y remover, a propuesta del presidente, a los secretarios de acuerdos y actuarios cuando exista causa justificada;
 
@@ -219,7 +259,7 @@ X.- Recibir la protesta legal de los servidores públicos del tribunal;
 
 XI.- Imponer al personal las sanciones señaladas en la Ley;
 
-XII.- Decidir las cuestiones de competencia que se susciten entre las salas regionales que integran el tribunal;
+XII.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2000)
 
 XIII.- Acordar la suspensión de labores de las dependencias del tribunal, en los casos en que la Ley no lo determine expresamente;
 
@@ -229,27 +269,35 @@ XV.- Las demás que determinen las leyes.
 
 ### CAPITULO V. DE LAS SALAS
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 21.
 
-El Tribunal de lo Contencioso Administrativo funcionará por medio de salas regionales, integradas por un magistrado, las que tendrán la residencia y jurisdicción que les señala esta Ley.
+El Tribunal de lo Contencioso Administrativo funcionará por medio de salas unitarias, las que tendrán la residencia y jurisdicción que le señala esta ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 22.
 
-El tribunal estará integrado por tres salas regionales con residencia en las Ciudades de Cuernavaca, Cuautla y Jojutla, las cuales ejercerán su jurisdicción en la siguiente forma:
+El Tribunal estará integrado por tres salas con residencia en la ciudad de Cuernavaca, las cuales ejercerán su jurisdicción en todo el Estado de Morelos:
 
-I.- Sala regional número uno, con residencia en la Ciudad de Cuernavaca, en el primero y octavo distritos judiciales del Estado; y
+I.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2000)
 
-II.- Sala regional número dos, con residencia en la Ciudad de Cuautla, en el quinto, sexto y séptimo Distritos Judiciales del Estado; y
+II.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2000)
 
-III.- Sala regional número tres, con residencia en la Ciudad de Jojutla, en el segundo, tercero y cuarto distritos judiciales.
+III.- (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2000)
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 23.
 
-Las salas regionales del tribunal conocerán de los asuntos que correspondan a su jurisdicción substanciando el procedimiento de acuerdo con esta Ley.
+Las Salas del Tribunal conocerán de los asuntos que les sean turnados por el secretario general de acuerdos, de conformidad al orden de presentación de las demandas, substanciando el procedimiento de acuerdo con esta ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 24.
 
-Los Magistrados de las salas regionales tendrán las atribuciones siguientes:
+Los magistrados de las salas tendrán las atribuciones siguientes:
 
 I.- Substanciar el procedimiento hasta la etapa de citación para sentencia;
 
@@ -267,11 +315,19 @@ VII.- Imponer las correcciones disciplinarias al personal administrativo en aque
 
 VIII.- Decretar las medidas de apremio para hacer cumplir las determinaciones de la sala;
 
-IX. Solicitar de las autoridades el apoyo necesario para hacer cumplir sus determinaciones;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+IX.- Solicitar al Gobernador del Estado, Presidentes Municipales y demás autoridades el apoyo necesario para hacer cumplir sus determinaciones;
 
 X.- Emitir opinión, con relación a las solicitudes de licencias que presente el personal de la sala, e
 
-XI.- Informar mensualmente a la presidencia del tribunal de las labores de la sala.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+XI.- Informar mensualmente al Pleno del Tribunal de las labores de la sala;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+XII.- Proponer al Pleno los nombramientos y remociones de los funcionarios y del personal administrativo de la Sala a su cargo.
 
 ### CAPITULO VI. DE LOS SERVIDORES PUBLICOS DEL TRIBUNAL
 
@@ -295,13 +351,17 @@ VII.- El personal administrativo que las necesidades del servicio requiera y que
 
 VIII.- El personal supernumerario e interino que exiga (sic) el buen despacho de los asuntos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 26.
 
-Corresponde al Secretario General de Acuerdos:
+Corresponde al secretario general de acuerdos:
 
 I.- Acordar con el Presidente lo relativo a las sesiones del Tribunal en pleno;
 
-II.- Estar presente en todas las sesiones del tribunal en pleno no teniendo en ellas voz informativa;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+II.- Estar presente en todas las Sesiones del Tribunal en Pleno, teniendo en ellas voz informativa;
 
 III.- Levantar las actas respectivas, recabando las firmas de los Magistrados, tomar la votación de los mismos y hacer el cómputo respectivo;
 
@@ -327,7 +387,11 @@ XIII.- Tener a su cargo y bajo su responsabilidad el archivo del pleno;
 
 XIV.- Devolver a las salas de origen los expedientes en los que se haya dictado resolución definitiva, para los efectos de su notificación y ejecución;
 
-XV.- Las demás que le encomienden el Tribunal en pleno, el Presidente del Tribunal, las Leyes y el reglamento interior del propio Tribunal.
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+XV.- Turnar las demandas a las Salas del Tribunal distribuyéndolas en el orden de su presentación.
+
+XVI.- Las demás que le encomienden el Tribunal en pleno, el Presidente del Tribunal, las Leyes y el reglamento interior del propio Tribunal.
 
 ###### ARTICULO 27.
 
@@ -437,19 +501,15 @@ IV.- Arbitrariedad, desproporción, desigualdad o injusticia manifiesta.
 
 ###### ARTICULO 38.
 
-Para determinar la competencia de las Salas Regionales del Tribunal, por razón del territorio, se atenderá al domicilio en donde se encuentren ubicadas las oficinas de la autoridad demandada.
-
-Si fueren varias las autoridades demandadas, conocerá del juicio la sala regional en cuya jurisdicción radique la autoridad ordenadora.
-
-Cuando fueren varias las autoridades ordenadoras y éstas tuvieren sus oficinas en jurisdicciones distintas, será competente la sala que elija el actor, observándose en todo caso lo previsto en párrafos anteriores.
+(DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 39.
 
-Las cuestiones de competencia territorial, deberán plantearse ante la sala regional que conozca del negocio, precisamente en el primer ocurso o diligencia en que comparezca la parte que lo plantee, en caso contrario se entenderá sometida tácitamente a la jurisdicción de la sala.
+(DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 40.
 
-Planteada la cuestión de competencia, el magistrado que conozca del asunto ordenará la suspensión del procedimiento, remitiendo las actuaciones al pleno del tribunal para que resuelva.
+(DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2000)
 
 ###### ARTICULO 41.
 
@@ -463,9 +523,11 @@ Los conflictos de competencia que se susciten entre el Tribunal de lo Contencios
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 43.
 
-Los juicios que se promuevan ante el tribunal, se substanciarán y resolverán con arreglo al procedimiento que señala esta Ley. A falta de disposición expresa y en cuanto no se oponga a lo que prescribe este ordenamiento, se estará a lo dispuesto por el código de procedimientos civiles para el Estado de Morelos; en materia fiscal, además a la Ley General de Hacienda del estado de Morelos, la Ley de Hacienda Municipal, y la Ley o Decreto que crea un organismo descentralizado cuyos actos o resoluciones se impugnen, en lo que resulten aplicables.
+Los juicios que se promuevan ante el Tribunal, se substanciarán y resolverán con arreglo al procedimiento que señala esta Ley. A falta de disposición expresa y en cuanto no se oponga a lo que prevé este ordenamiento, se estará a lo dispuesto por el Código Procesal Civil para el Estado Libre y Soberano de Morelos; en materia fiscal, además a la Ley General de Hacienda del Estado de Morelos, el Código Fiscal del Estado de Morelos, la Ley de Hacienda Municipal, y la ley o decreto que crea un organismo descentralizado cuyos actos o resoluciones se impugnen, en lo que resulten aplicables.
 
 ###### ARTICULO 44.
 
@@ -539,7 +601,9 @@ II.- La autoridad demandada, teniendo este carácter tanto la ordenadora como la
 
 III.- El tercero perjudicado, que puede ser cualquiera persona física o moral cuyos intereses se verían afectados por la resolución que dicte el tribunal;
 
-IV.- La Secretaría de Programación y Finanzas del Gobierno del Estado, o la tesorería municipal, serán parte en los juicios en que se controvierta el interés fiscal del Estado o de los Ayuntamientos.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+IV.- La Secretaría de Hacienda del Gobierno del Estado, o la Tesorería Municipal, serán parte en los juicios en que se controvierta el interés fiscal del Estado o de los Ayuntamientos.
 
 V.- Los particulares podrán ser demandados a su vez por las autoridades Estatales o Municipales, cuando estas pretendan la nulidad de una resolución de carácter fiscal favorable al particular y que cause perjuicio al Estado, a los Municipios o a los organismos descentralizados; y
 
@@ -561,9 +625,11 @@ Por las personas morales comparecerán quienes tengan el carácter de representa
 
 Los menores o incapacitados comparecerán a juicio por conducto de sus representantes legales y a falta de ellos, por medio del tutor especial que se designe conforme a lo dispuesto en la legislación civil vigente.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 57.
 
-Cuando el Gobernador del Estado figure como autoridad demandada y el asunto sea de naturaleza fiscal, su representación corresponderá al secretario de programación y finanzas. En todos los demás casos el titular del Ejecutivo será representado por el secretario general de Gobierno.
+Cuando el Gobernador del Estado figure como autoridad demandada y el asunto sea de naturaleza fiscal, su representación corresponderá al Secretario de Hacienda, en todos los demás casos el Titular del Ejecutivo será representado por el Secretario de Gobierno.
 
 ###### ARTICULO 58.
 
@@ -591,9 +657,11 @@ La Personalidad y Legitimación de las partes, deberá ser analizada de oficio p
 
 Toda resolución deberá ser notificada dentro de los tres días siguientes al de su pronunciación asentándose la razón que corresponda en el expediente respectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 64.
 
-Los particulares en el primer escrito o diligencia en la que comparezcan, deberán designar domicilio para oír notificaciones, en el lugar de residencia de la sala y comunicar el cambio del mismo.
+Los particulares en el primer escrito o diligencia en la que comparezcan, deberán designar domicilio para oír notificaciones, en la Ciudad de Cuernavaca.
 
 Cuando el particular no señale domicilio para oír notificaciones, éstas, aún las de carácter personal, se le notificarán por lista en los términos previstos por esta Ley.
 
@@ -615,11 +683,13 @@ V.- El auto que señale nueva fecha para audiencia, cuando esta se hubiere difer
 
 VI.- Las sentencias definitivas.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 66.
 
-Las notificaciones a que se refiere el artículo anterior, se harán precisamente en el domicilio señalado por el particular a quien deba notificarse y en las oficinas de la autoridad demandada y si éstas se encuentran en el lugar de residencia de la sala.
+Las notificaciones a que se refiere el artículo anterior, se harán precisamente en el domicilio señalado por el particular a quien deba notificarse y en las oficinas de la autoridad demandada si éstas se encuentran en el lugar de residencia del Tribunal.
 
-Si la autoridad demandada reside fuera del lugar del juicio, se le notificará por correo en pieza certificada, con acuse de recibo, el cual se agregará a los asuntos.
+Si la autoridad demandada reside fuera de la Ciudad de Cuernavaca, se le notificará por correo en pieza certificada, con acuse de recibo, el cual se agregará a los autos.
 
 ###### ARTICULO 67.
 
@@ -655,9 +725,11 @@ Si se declarase procedente la nulidad de la notificación, los magistrados podr�
 
 Son días hábiles para la promoción substanciación y resolución de los juicios Contencioso Administrativos, todos los días del año, excepto los sábados y domingos, el primero de enero, el cinco de febrero, el diez de abril, el primero y cinco de mayo, el dieciséis y treinta de septiembre, el veinte de noviembre, el primero de diciembre de cada seis años, cuando tome posesión de su cargo el titular del Poder Ejecutivo Federal, el veinticinco de diciembre y aquellos días en que el tribunal suspenda las labores.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 73.
 
-Los términos se contarán por días hábiles, empezarán a correr a partir del día hábil siguiente a aquél en que surta efectos la notificación, serán improrrogables y se incluirá en ellos el día de su vencimiento.
+Los términos se contarán por días hábiles, empezarán a correr al día hábil siguiente de la notificación, serán improrrogables y se incluirá en ellos el día de su vencimiento.
 
 Cuando esta Ley señale como término meses o años, estos se contarán por meses o años naturales, pero si el último día fuese inhábil, concluirá al día hábil siguiente.
 
@@ -725,9 +797,11 @@ V.- Por inactividad procesal o falta de promoción del demandante durante el té
 
 ### CAPITULO VII. DE LA DEMANDA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 77.
 
-La demanda deberá formularse por escrito y presentarse directamente ante la sala regional que corresponda, dentro del término de quince días contados a partir de la fecha en que le haya sido notificado al afectado el acto o resolución impugnados, o haya tenido conocimiento de ellos o de su ejecución, o se haya ostentado sabedor de los mismos cuando no exista notificación legalmente hecha.
+La demanda deberá formularse por escrito y presentarse en la Oficialía de Partes del Tribunal de lo Contencioso Administrativo, dentro del término de quince días contados a partir del día hábil siguiente en que le haya sido notificado al afectado el acto o resolución impugnados, o haya tenido conocimiento de ellos o de su ejecución, o se haya ostentado sabedor de los mismos cuando no exista notificación legalmente hecha.
 
 Las demandas que promuevan las autoridades en contra de los particulares, deberán presentarse dentro del término de cinco años, contados a partir de la fecha en que se hayan dictado el acuerdo o resolución cuya nulidad se pretenda.
 
@@ -771,11 +845,11 @@ II.- El documento con el cual acredite su personalidad, cuando promueva en nombr
 
 III.- Las pruebas documentales que obren en su poder y que pretenda ofrecer en el juicio.
 
-> <small>(F. DE E., P.O. 7 DE MARZO DE1990)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 81.
 
-Para facilitar a los particulares el acceso a la justicia administrativa, las salas del Tribunal, proporcionarán de manera gratuita formatos impresos de demanda para que los interesados los llenen con los datos legalmente necesarios; asimismo, habrá personal que asesore a los particulares en el llenado de los formatos de demanda; este servicio será gratuito.
+Para facilitar a los particulares el acceso a la justicia administrativa, el Tribunal proporcionara de manera gratuita formatos impresos de demanda para que los interesados los llenen con los datos legalmente necesarios; asimismo, habrá asesores jurídicos que asesoren a los particulares en el llenado de los formatos de demanda y en la substanciación del juicio; este servicio será gratuito.
 
 ###### ARTICULO 82.
 
@@ -794,6 +868,16 @@ II.- Si la demanda es oscura o irregular o no reúne los requisitos de Ley en ta
 III.- Si la demanda es oscura o irregular o no reúne los requisitos de Ley, en tal caso prevendrá al actor, por una sola vez, para que la aclare, corrija o complemente, dentro del término de cuarenta y ocho horas; sí transcurrido este tiempo el actor no subsana los defectos y omisiones de la demanda, esta se tendrá por no interpuesta.
 
 Contra el auto que deseche una demanda procederá el recurso de reclamación, en los términos que señala esta Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+ARTICULO 83 bis.- Una vez admitida la demanda, el magistrado señalará de inmediato fecha y hora para la celebración de una audiencia de conciliación dentro de los diez días siguientes.
+
+Si asistieren las partes, el magistrado examinará las cuestiones relativas a la legitimación procesal y luego se procederá a procurar la conciliación que previamente hubiere preparado al estudiar el expediente y propondrá a las partes alternativas de solución al litigio; de igual manera las propias partes pueden hacer propuestas de arreglo.
+
+Si los interesados llegan a un convenio, el magistrado lo aprobará de plano si procede legalmente y su homologación en sentencia tendrá fuerza de cosa juzgada.
+
+Si una o ambas partes no concurren sin causa justificada, se dictará la resolución que corresponda.
 
 ### CAPITULO VIII. DE LA CONTESTACION
 
@@ -907,9 +991,11 @@ B.- DE LA PRUEBA PERICIAL
 
 La prueba pericial tendrá lugar cuando los puntos o cuestiones materia de la misma requieran el auxilio de peritos o expertos con conocimientos o especial competencia técnica en alguna ciencia, arte o industria.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 100.
 
-La prueba pericial deberá ofrecerse designado (sic) al perito por parte del referente y exhibiendo el cuestionario que se deberá resolver, debidamente firmado por el ocursante, requisito sin el cual la prueba pericial será inadmisible.
+La prueba pericial deberá ofrecerse designando al perito por parte del oferente y exhibiendo el cuestionario que se deberá resolver, debidamente firmado por el ocursante, requisito sin el cual la pericial será inadmisible.
 
 ###### ARTICULO 101.
 
@@ -957,25 +1043,27 @@ I.- Deberá ofrecerse exhibiendo el interrogatorio, debidamente firmado por el o
 
 II.- Al ofrecerse la prueba deberán señalarse el nombre y domicilio de los testigos propuestos; no se admitirán más de tres testigos por cada hecho controvertido;
 
-III.- La presentación de los testigos será siempre a cargo del oferente, a menos que manifieste, de manera fundada, que se encuentra impedido para presentarlos, en cuyo caso serán citados por la sala.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+III.- La presentación de los testigos será siempre a cargo del oferente, a menos que manifieste, de manera fundada, que se encuentra impedido para presentarlos, en cuyo caso serán citados por la Sala apoyándose para tal efecto, de ser necesario, en el Juez Civil del Distrito Judicial del lugar donde radique;
 
 IV.- Del interrogatorio propuesto deberán adjuntarse copias para cada una de las partes, quienes formularán sus repreguntas también, por escrito; y
 
 V.- La prueba testimonial no será admitida por la sala si falta alguno de los requisitos previstos por este artículo.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 110.
 
-Si los testigos propuestos tienen su domicilio fuera del lugar de residencia de la sala y el oferente manifestará encontrarse imposibilitado para presentarlo a declarar, se aplicarán las reglas siguientes:
+Si el testigo o testigos propuestos tienen imposibilidad física, debida y oportunamente acreditada, para comparecer ante la Sala, ésta deberá constituirse en el lugar donde se encuentre si es dentro del territorio del Estado, a efecto de desahogar la prueba ofrecida, o de ser necesario, podrá apoyarse en otras autoridades de acuerdo a las siguientes reglas:
 
-I.- Si el testigo tiene su domicilio en el lugar de residencia de una sala regional, se girará exhorto a esa sala para que proceda el examen del testigo;
+I.- En caso de que el testigo tuviera su domicilio fuera de la localidad de residencia de la Sala, se girará exhorto al Juez Civil competente del Distrito Judicial en donde radique, para que reciba su testimonio;
 
-II.- En caso de que el testigo tuviera su domicilio en una localidad en donde no hubiese sala regional, se girará exhorto al juez civil competente del distrito judicial en donde radique para que reciba su testimonio;
+II.- Si el testigo reside fuera del Estado de Morelos, se girara exhorto al Tribunal de lo Contencioso Administrativo o al Juez Competente de su lugar de residencia, para que en auxilio de la Sala, proceda a su examen;
 
-III.- Si el testigo reside fuera del Estado de Morelos; se girará exhorto al juez competente de su lugar de residencia para que en auxilio de la sala, proceda a su examen;
+III.- En todo caso, deberá adjuntarse el pliego de preguntas y repreguntas que deberán formularse al testigo; y
 
-IV.- En todo caso, deberá adjuntarse el pliego de preguntas y repreguntas que deberán formularse al testigo; y
-
-V.- El juez o sala exhortados, tendrá la más amplia facultad para aplicar las medidas de apremio que estime pertinentes para el desahogo de la prueba.
+IV.- La autoridad exhortada tendrá la más amplia facultad para aplicar las medidas de apremio que estime pertinentes para el desahogo de la prueba.
 
 ###### ARTICULO 111.
 
@@ -996,6 +1084,8 @@ Cuando la prueba testimonial ofrecida sea a cargo de un servidor público en el 
 ###### ARTICULO 115.
 
 Las partes podrán impugnar el dicho de los testigos cuando concurra alguna circunstancia que afecte su creditibilidad (sic); la impugnación deberá hacerse dentro de la misma audiencia, en la que se ofrecerán las pruebas procedentes.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 Una vez impugnado el testimonio de un testigo, se dará el uso de la palabra al oferente de la prueba, quien en ese acto deberá ofrecer también las pruebas conducentes.
 
@@ -1075,15 +1165,19 @@ Cuando se decrete la nulidad de una resolución fiscal favorable a un particular
 
 Una vez notificada la sentencia, la autoridad demandada deberá darle cumplimiento en la forma y términos previstos en la propia resolución, haciéndolo saber a la sala regional correspondiente dentro de un término no mayor de diez días. Si dentro de dicho plazo la autoridad no cumpliese con la sentencia, la sala, a petición de parte, le requerirá para que dentro del término de veinticuatro horas cumplimente el fallo, apercibiéndole con la aplicación de las medidas de apremio prevista por esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 125.
 
-Si a pesar del requerimiento y la aplicación de las medidas de apremio la autoridad se niega a cumplir la sentencia del tribunal, se procederá en la forma siguiente:
+Si a pesar del requerimiento y la aplicación de las medidas de apremio la autoridad se niega a cumplir la sentencia del Tribunal, podrá decretar la destitución de la autoridad o servidor público omiso. Si la autoridad demandada goza de fuero constitucional, el Tribunal solicitará al Congreso del Estado la aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos y se procederá en la forma siguiente:
 
 I.- Si la ejecución consiste en la realización de un acto material, la sala podrá realizarlo, en rebeldía de la demandada;
 
 II.- Si el acto sólo pudiere ser ejecutado por la autoridad demandada y ésta tuviere superior jerárquico, la sala requerirá a su superior para que ordene la cumplimentación de la resolución;
 
-III.- Si la autoridad demandada insiste en no cumplir con la resolución, el tribunal lo hará del conocimiento del Ejecutivo del Estado o del ayuntamiento según el caso; e
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+III.- Si la autoridad demandada insiste en no cumplir con la resolución, el Tribunal lo hará con el auxilio de la fuerza pública;
 
 IV.- Imponer multa de veinte a cincuenta días de salario mínimo general vigente en el Estado, a los servidores públicos que incumplan una sentencia, sin perjuicio de que se reitere cuantas veces sea necesario, la multa impuesta.
 
@@ -1157,11 +1251,15 @@ No se concederá la suspensión si se causa evidente perjuicio al interés socia
 
 La sala podrá modificar o revocar el acuerdo en que hayan concedido o negado la suspensión, cuando ocurra un hecho superveniente que le sirva de fundamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 139.
 
-Cuando se impugnen en juicio, multas, impuestos, derechos o cualquier otro crédito de naturaleza fiscal, la suspensión se concederá siempre y cuando el solicitante garantice su importe ante la autoridad emitente, en alguna de las siguientes formas:
+Cuando se impugnen en juicio, multas, impuestos, derechos o cualquier otro crédito de naturaleza fiscal, la suspensión se concederá siempre y cuando el solicitante garantice su importe ante la autoridad emitente en alguna de las siguientes formas:
 
-I.- Certificado de entero o recibo por el importe del crédito fiscal, expedido por la Secretaría de Programación y Finanzas del Gobierno del Estado, o en su caso, por la tesorería municipal que corresponda;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
+I.- Certificado de entero o recibo por el importe del crédito fiscal, expedido por la Secretaría de Hacienda del Gobierno del Estado, o en su caso, por la Tesorería Municipal que corresponda;
 
 II.- Prenda o hipoteca;
 
@@ -1200,6 +1298,8 @@ Cuando los daños o perjuicios que puedan ocasionarse a terceros no sean estimab
 La suspensión otorgada conforme al artículo anterior, quedará sin efectos si el tercero, a su vez, otorga contragarantía bastante para restituir las cosas al estado que guardaban a la fecha en que se solicitó aquella y pagar los daños y perjuicios que sobrevengan al actor en caso de que obtenga sentencia favorable.
 
 La contragarantía que ofrezca el tercero deberá cubrir, además, el importe de los gastos que hubiese erogado el actor, en la obtención de la fianza otorgada.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 144.
 
@@ -1273,9 +1373,11 @@ V.- Las nulidades promovidas por parte interesada, se substanciarán mediante es
 
 ## TITULO VII. DEL AUXILIO DEL TRIBUNAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 154.
 
-Las dependencias del los Poderes Ejecutivo, Legislativo, Judicial y de los Ayuntamientos del Estado de Morelos, deberán prestar al Tribunal de lo Contencioso Administrativo y a sus salas, todo el auxilio que les requiera para hacer cumplir sus determinaciones.
+Los titulares y las dependencias del Poder Ejecutivo y de los Ayuntamientos del Estado de Morelos, deberán prestar al Tribunal de lo Contencioso Administrativo y a sus Salas, todo el auxilio que les requiera para hacer cumplir sus determinaciones.
 
 La autoridad que a pesar de haber sido requerida para ello, se negare a prestar al Tribunal el auxilio solicitado, será responsable de los daños y perjuicios que se originen por su renuencia, independientemente de la responsabilidad oficial en que pudiese incurrir, conforme a las leyes y reglamentos aplicables.
 
@@ -1384,3 +1486,13 @@ SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan a lo esta
 TERCERO.- Los trámites administrativos que se hubieren iniciado antes de la entrada en vigor de este decreto se regirán por las disposiciones jurídicas vigentes en la fecha de inicio de los mismos.
 
 CUARTO.- Se establece un plazo de ciento veinte días hábiles, contados a partir de la fecha en que este decreto entre en vigor, para proceder a la reforma de los reglamentos que lo ameriten. Mientras tanto se seguirán aplicando las disposiciones reglamentarias en todo lo que no se oponga a lo dispuesto por el presente decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2000.
+
+PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente de que dé inicio la Reforma Constitucional aprobada por esta Asamblea Legislativa el día primero de agosto del año dos mil.
+
+SEGUNDO.- El Pleno del Tribunal de lo Contencioso Administrativo procederá a llevar a cabo la rotación de la Presidencia dentro de los diez primeros días del mes de septiembre del año dos mil, el Presidente designado desempeñará el cargo hasta los primeros diez días del mes de septiembre del año dos mil uno, en que se haga nueva rotación, después del informe de labores que rinda el Presidente en funciones.
+
+TERCERO.- Expídase un nuevo reglamento interior acorde a las Reformas Constitucionales y de la Ley de Justicia Administrativa, dentro de los treinta días siguientes al inicio de la vigencia de la Ley de la materia.
+
+CUARTO.- Iniciada la vigencia a que se refiere el Artículo Primero Transitorio del presente Decreto, remítase al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
