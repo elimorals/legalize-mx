@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2000-11-06"
+last_updated: "2001-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE DEFENSA SOCIAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 2 DE MARZO DE 2001.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -1359,6 +1359,8 @@ Son responsables del delito de conspiración, quienes resuelvan de concierto, co
 
 ### CAPITULO TERCERO.- DELITOS CONTRA LA SEGURIDAD DE LOS MEDIOS DE TRANSPORTE Y DE LAS VIAS DE COMUNICACION Y VIOLACION DE CORRESPONDENCIA
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MARZO DE 2001)</small>
+
 #### SECCION SEGUNDA.- QUEBRANTAMIENTO DE SANCION
 
 ###### Artículo 167.
@@ -1441,7 +1443,7 @@ Se aplicarán de seis meses a un año de prisión y multa de uno a diez días de
 
 Las disposiciones de esta sección se aplicarán salvo lo que disponga la Legislación Federal sobre la materia.
 
-#### SECCION PRIMERA.- ATAQUES A LAS VIAS DE COMUNICACION Y A LOS MEDIOS DE TRANSPORTE
+#### SECCION PRIMERA.- ATAQUES A LAS VIAS DE COMUNICACION Y A LA SEGURIDAD EN LOS MEDIOS DE TRANSPORTE
 
 ###### Artículo 183.
 
@@ -1502,6 +1504,12 @@ III.- A quien, después de poner en movimiento un autobús, camión o vehículo 
 ###### Artículo 190.
 
 Son medios de transporte los vehículos destinados a prestar un servicio público según las Leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2001)</small>
+
+Artículo 190 bis.- Al que a sabiendas de que no cuenta con la concesión o permiso otorgado por la autoridad competente preste el servicio público de transporte o del servicio mercantil, se le impondrán de tres meses a tres años de prisión y multa de cincuenta a quinientos días de salario.
+
+Igual sanción se impondrá al propietario del medio de transporte que realice, contrate o permita la prestación de estos servicios.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 1990)</small>
 
@@ -3891,7 +3899,7 @@ Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Pal
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
-P.O. 24 DE ABRIL DE 1990.
+P.O. 24 DE ABRIL DE 1990
 
 ###### ARTICULO UNICO.
 
@@ -3996,3 +4004,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE MARZO DE 2001.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
