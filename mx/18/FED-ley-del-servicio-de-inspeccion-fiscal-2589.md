@@ -4,7 +4,7 @@ identifier: "FED-ley-del-servicio-de-inspeccion-fiscal-2589"
 country: "mx"
 rank: "ley"
 publication_date: "1936-04-13"
-last_updated: "1936-08-31"
+last_updated: "1946-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2589&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1936-03-17"
 
 LEY DEL SERVICIO DE INSPECCION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 1936.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1946.
+
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO SEGUNDO DEL DECRETO DE REFORMAS A LA PRESENTE LEY, SERAN APLICABLES PARA LO SUCESIVO TODAS ESTAS DISPOSICIONES, AL DEPARTAMENTO DEL DISTRITO FEDERAL. LAS FACULTADES QUE DICHOS ORDENAMIENTOS ATRIBUYEN A LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO, QUEDAN ATRIBUIDAS, PARA LO SUCESIVO, A LA SECRETARIA DE BIENES NACIONALES E INSPECCION ADMINISTRATIVA, D.O.F. 31 DE DICIEMBRE DE 1946.</small>
 
 Ley publicada en el Diario Oficial de la Federación el lunes 13 de abril de 1936.
 
@@ -461,7 +463,7 @@ Siempre que las irregularidades en que incurran los agentes de la Federación y,
 
 Cuando del resultado de las averiguaciones que se practiquen aparezca la existencia de irregularidades que originen alguna responsabilidad, se hará la consignación a las autoridades que deban constituirla, con sujeción a las reglas siguientes:
 
-I.- Si se trata de responsabilidades que deba constituir alguna autoridad administrativa y éstas se deriven del manejo de fondos, valores o bienes de que haya de conocer la glosa de cuentas, una vez instruído el expediente que origine la averiguación, se turnará a la Contaduría de la Federación para que establezca las responsabilidades existentes; si la responsabilidad debe constituirse por otra autoridad diversa de la Contaduría de la Federación, una vez instruído el expediente necesario, se turnará a la dependencia administrativa que deba conocer del caso, para que establezca las responsabilidades que procedan.
+I.- Si se trata de responsabilidades que deba constituir alguna autoridad administrativa y éstas se deriven del manejo de fondos, valores o bienes de que haya de conocer la glosa de cuentas, una vez instruido el expediente que origine la averiguación, se turnará a la Contaduría de la Federación para que establezca las responsabilidades existentes; si la responsabilidad debe constituirse por otra autoridad diversa de la Contaduría de la Federación, una vez instruído el expediente necesario, se turnará a la dependencia administrativa que deba conocer del caso, para que establezca las responsabilidades que procedan.
 
 II.- Cuando se trate de responsabilidades que demanden la intervención de las autoridades judiciales del orden penal, se instruirá el expediente de la averiguación administrativa y se consignará el caso al representante del Ministerio Público Federal o a quien, en su defecto, haga sus veces, tan pronto como se hayan comprobado los elementos del delito o delitos cometidos; a la vez se le proporcionarán todos los datos e informes que se hayan obtenido acerca de los hechos descubiertos.
 
@@ -503,11 +505,11 @@ Cuando durante el curso de una diligencia aparezca un sobrante en efectivo o val
 
 I.- Si se trata de un sobrante de efectivo o valores cuidará de que se dé entrada a éste en los registros de contabilidad con carácter de depósito, lo que hará del conocimiento de la Secretaría de Hacienda, para que a su vez, lo comunique a la Tesorería de la Federación y a la oficina de que dependa el personal afectado por la diligencia y se resuelva sobre la aplicación definitiva que haya de darse a esas cantidades o valores.
 
-II.- Cuando se trate de un faltante, requerirá al responsable para que reintegre en el acto las cantidades o valores correspondientes. En este caso, si el responsable hace la entrega desde luego y justifica satisfactoriamente la razón del faltante, después de vigilar que se dé entrada a las cantidades o valores restituídos, se limitará a dar cuenta pormenorizada a la Secretaría de Hacienda, emitiendo su parecer; si el responsable hace el reintegro sin justificar debidamente el motivo del faltante o si no restituye éste, independientemente de cuidar que en el primer supuesto se dé entrada a las cantidades o valores que se hayan entregado, practicará las averiguaciones necesarias y hará las consignaciones que procedan, de acuerdo con lo que dispone esta ley.
+II.- Cuando se trate de un faltante, requerirá al responsable para que reintegre en el acto las cantidades o valores correspondientes. En este caso, si el responsable hace la entrega desde luego y justifica satisfactoriamente la razón del faltante, después de vigilar que se dé entrada a las cantidades o valores restituidos, se limitará a dar cuenta pormenorizada a la Secretaría de Hacienda, emitiendo su parecer; si el responsable hace el reintegro sin justificar debidamente el motivo del faltante o si no restituye éste, independientemente de cuidar que en el primer supuesto se dé entrada a las cantidades o valores que se hayan entregado, practicará las averiguaciones necesarias y hará las consignaciones que procedan, de acuerdo con lo que dispone esta ley.
 
 ###### ARTICULO 74.
 
-Antes de dar por concluído un acto de inspección, el personal que lo lleve a cabo cuidará que se hayan acatado las órdenes y disposiciones dictadas, concediendo, siempre que lo estime justificado, un plazo prudente para que se cumplan las mismas, lo cual pondrá en conocimiento de la Secretaría de Hacienda, para que vigile su cumplimiento.
+Antes de dar por concluido un acto de inspección, el personal que lo lleve a cabo cuidará que se hayan acatado las órdenes y disposiciones dictadas, concediendo, siempre que lo estime justificado, un plazo prudente para que se cumplan las mismas, lo cual pondrá en conocimiento de la Secretaría de Hacienda, para que vigile su cumplimiento.
 
 ###### ARTICULO 75.
 
@@ -714,3 +716,13 @@ En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Consti
 |D.O.F. 31 DE AGOSTO DE 1936.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 31 DE DICIEMBRE DE 1946.
+
+###### ARTICULO 1º.
+
+Se deroga la Ley Orgánica del Presupuesto de Egresos del Distrito Federal y todas las disposiciones que en una u otra forma se opongan a lo dispuesto por este Decreto.
+
+###### ARTICULO 2º.
+
+El presente Decreto entrará en vigor a partir del 1º. de enero de 1947.
