@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2003-04-16"
+last_updated: "2003-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE AGOSTO DE 2003.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -695,7 +695,9 @@ Para los efectos de esta fracción, se consideran temporales las ausencias que e
 
 XVIII. Conocer y resolver de las solicitudes de destitución de los Magistrados del Tribunal de lo Contencioso Administrativo y del Tribunal Superior de Justicia en términos de la presente Constitución;
 
-XIX. Autorizar al Ejecutivo del Estado para que salga al extranjero, o cuando se ausente de la entidad por más de 15 días;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2003)</small>
+
+XIX. Recibir el aviso del Ejecutivo del Estado cuando salga al extranjero o se ausente de la entidad hasta por 15 días;
 
 XX. Nombrar y remover al personal del Poder Legislativo y de sus dependencias en los términos de la Legislación respectiva;
 
@@ -837,7 +839,9 @@ III. Recibir la protesta de los servidores públicos que deban rendirla ante la 
 
 IV. Resolver sobre las renuncias, licencias o permisos que competan a la Legislatura;
 
-V. Autorizar al Ejecutivo del Estado para que salga al extranjero, o para ausentarse del territorio de la entidad por más de 15 días;
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2003)</small>
+
+V. Recibir el aviso del Ejecutivo del Estado cuando salga al extranjero o para ausentarse del territorio de la entidad hasta por 15 días;
 
 VI. Dictaminar sobre todos los asuntos que queden pendientes de resolución en los recesos, a fin de que continúen sus trámites al abrirse los períodos de sesiones; y
 
@@ -929,11 +933,13 @@ Si la Legislatura no estuviere en sesiones, lo suplirá como encargado del despa
 
 Cuando la falta del Gobernador ocurriese en los últimos cuatro años del período respectivo, si la Legislatura se encontrase en sesiones, designará al Gobernador sustituto que deberá concluir el período; si no estuviese reunida, lo suplirá como encargado del despacho el Secretario General de Gobierno o el Presidente del Tribunal Superior de Justicia; la Diputación Permanente convocará de inmediato a la Legislatura a un período extraordinario de sesiones para que se erija en Colegio Electoral y designe al Gobernador sustituto.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO P.O. 1 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 73.
 
-Las faltas temporales del gobernador que excedan de 15 días pero no de 60, las cubrirá como encargado del despacho el Secretario General de Gobierno, o a falta de éste, el Presidente del Tribunal Superior de Justicia. La Legislatura del Estado si estuviere reunida o la Diputación Permanente, decretará el nombramiento respectivo.
+Las faltas temporales del Gobernador hasta por 15 días las suplirá el Secretario General de Gobierno.
+
+Aquellas que excedan de 15 días pero no de 60 las cubrirá como encargado del despacho el Secretario General de Gobierno. La Legislatura del Estado si estuviere reunida o la Diputación Permanente, decretará el nombramiento respectivo.
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1998)</small>
 
@@ -1065,9 +1071,13 @@ XXXIX. Convenir con los municipios, para que el Gobierno del Estado, de manera d
 
 XL. Girar órdenes a la policía preventiva municipal en aquéllos casos en que juzgue como de fuerza mayor o alteración grave del orden público;
 
-> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2003)</small>
 
-XLI. Las demás que la Constitución General de la República, la presente Constitución, las leyes federales o las del Estado y sus respectivos reglamentos le atribuyan.
+XLI. Comunicar por escrito a la Legislatura de su salida al extranjero o su ausencia de la entidad hasta por 15 días, e informar al Congreso Local de las acciones realizadas;
+
+> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2003)</small>
+
+XLII. Las demás que la Constitución General de la República, la presente Constitución, las leyes federales o las del Estado y sus respectivos reglamentos le atribuyan.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -1259,7 +1269,7 @@ I. En segunda instancia, los asuntos que determinen los ordenamientos legales ap
 
 II. Los conflictos de competencia que se susciten entre los jueces del Estado; y
 
-> <small>(REFORMADA, G.G. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADA G.G. 27 DE FEBRERO DE 1995)</small>
 
 III. Los demás asuntos que les confieran las leyes.
 
@@ -2432,3 +2442,9 @@ Publíquese el presente decreto en la "Gaceta del Gobierno".
 ###### ARTICULO SEGUNDO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+P.O. 1 DE AGOSTO DE 2003
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor el día de su publicación en el periódico oficial "Gaceta del Gobierno".
