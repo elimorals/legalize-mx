@@ -4,7 +4,7 @@ identifier: "YUC-codigo-fiscal-del-estado-de-yucatan-11949"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-12-01"
-last_updated: "1993-12-01"
+last_updated: "1996-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO FISCAL DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE DICIEMBRE DE 1996.
 
 Código publicado en el Suplemento al Diario Oficial el 1º. de diciembre de 1993.
 
@@ -415,7 +415,9 @@ II.- Si el pago de lo indebido se hubiera efectuado por error del contribuyente,
 
 Tratándose de contribuciones pagadas indebidamente, el derecho a la devolución solo corresponderá al contribuyente.
 
-Cuando se solicite la devolución, ésta deberá efectuarse dentro de los dos meses siguientes a la fecha de presentación de la solicitud con todos los datos, informes y documentos que señale la forma oficial respectiva, ante la autoridad fiscal competente. Si la devolución no se hubiera efectuado en el plazo a que se refiere este párrafo, las autoridades fiscales deberán pagar las cantidades actualizando su monto y además pagarán intereses, calculando ambos a partir del día siguiente al de vencimiento del plazo antes mencionado, conforme a lo previsto en los artículos 25 y 29 de este Código.
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+Cuando se solicite la devolución, ésta deberá efectuarse dentro de los treinta días siguientes a la fecha de presentación de la solicitud con todos los datos, informes y documentos que señale la forma oficial respectiva, ante la autoridad fiscal competente. Si la devolución no se hubiera efectuado en el plazo a que se refiere este párrafo, las autoridades fiscales deberán pagar las cantidades actualizando su monto y además pagarán intereses, calculando ambos a partir del día siguiente al de vencimiento del plazo antes mencionado, conforme a lo previsto en los artículos 25 y 29 de este Código.
 
 En ningún caso los intereses a cargo del fisco estatal excederán de los que se causarían en cinco años.
 
@@ -675,9 +677,19 @@ VII.- Publicar las resoluciones dictadas por las autoridades fiscales que establ
 
 VIII.- Contestar las consultas que formulen los interesados individualmente sobre situaciones reales y concretas, cuando la autoridad competente para ello, emita resolución favorable por escrito sobre el caso particular real y concreto, de la misma derivan derechos para el particular.
 
+> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 49-A.
+
+Los particulares podrán acudir ante las autoridades fiscales dentro de un plazo de seis días siguientes a aquél en que haya surtido efectos la notificación de las resoluciones a que se refieren los artículos 57, fracciones I y III, 91, 92 y 94 fracciones I y II de este Código, a efecto de hacer las aclaraciones que consideren pertinentes, debiendo la autoridad, resolver en un plazo de seis días contados a partir de que quede debidamente integrado el expediente mediante el procedimiento previsto en las citadas reglas.
+
+Lo previsto en este artículo no constituye instancia, no interrumpe, ni suspende, los plazos para que los particulares puedan interponer los medios de defensa. Las resoluciones que se emitan por la autoridad fiscal no podrán ser impugnadas por los particulares.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 50.
 
-Las instancias o peticiones que se formulen a las autoridades fiscales deberán ser resueltas en un plazo de dos meses; transcurrido dicho término sin que se notifique la resolución, el interesado podrá considerar que la autoridad resolvió negativamente e interponer los medios de defensa en cualquier tiempo posterior a dicho plazo, mientras no se dicte la resolución, o bien, esperar a que ésta se dicte.
+Las instancias o peticiones que se formulen a las autoridades fiscales deberán ser resueltas en un plazo de treinta días; transcurrido dicho término sin que se notifique la resolución, el interesado podrá considerar que la autoridad resolvió negativamente e interponer los medios de defensa en cualquier tiempo posterior a dicho plazo, mientras no se dicte la resolución, o bien, esperar a que ésta se dicte.
 
 Cuando se requiera al promovente que cumpla con los requisitos omitidos o proporcione los elementos necesarios para resolver, el término comenzará a correr desde que el requerimiento haya sido cumplido.
 
@@ -813,7 +825,11 @@ Los visitados, sus representantes, o la persona con quien se entienda la visita 
 
 Cuando los visitados lleven su contabilidad o parte de ella con el sistema de registro electrónico, deberán poner a disposición de los visitadores el equipo de cómputo y sus operadores, para que los auxilien en el desarrollo de la visita.
 
-La contabilidad deberá ser revisada en el domicilio del contribuyente, y los visitadores no podrán recogerla para examinarla en las oficinas de la autoridad fiscal, sino cuando se dé alguno de los siguientes supuestos:
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+Cuando se dé alguno de los supuestos que a continuación se enumeran, los visitadores podrán obtener copias de la contabilidad y demás papeles relacionados con el cumplimiento de las disposiciones fiscales, para que, previo cotejo con los originales, se certifiquen por los visitadores:
+
+]
 
 I.- El visitado, su representante legal o quien se encuentre en el lugar de la visita se niegue a recibir la orden.
 
@@ -831,9 +847,13 @@ VII.- Si el visitado, su representante o la persona con quien se entienda la vis
 
 En los supuestos a que se refieren las fracciones anteriores, se entenderá que la contabilidad incluye, entre otros, los papeles, discos y cintas, así como cualquier otro medio procesable de almacenamiento de datos.
 
-En el caso de que los visitadores recojan la contabilidad, deberán levantar acta parcial al respecto, la cual deberá reunir los requisitos que establece el artículo 62 de este Código, con la que terminará la visita domiciliaria en el domicilio o establecimiento del visitado, continuándose ejercicio de las facultades de comprobación en las oficinas de las autoridades fiscales donde se levantará el acta final.
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 1996)</small>
 
-Lo dispuesto en el párrafo anterior no es aplicable cuando los visitadores recojan solo parte de la contabilidad. En este caso, se levantará el acta parcial señalando los documentos que se recogen, pudiendo continuar la visita en el domicilio o establecimiento del visitado.
+En el caso de que los visitadores obtengan copias certificadas de la contabilidad, por encontrarse el visitado en cualquiera de los supuestos previstos en el tercer párrafo de este artículo, deberán levantar acta parcial al respecto, la cual deberá reunir los requisitos que establece el artículo 62 de este Código, con la que podrá terminar la visita domiciliaria en el domicilio o establecimiento del visitado, pudiéndose continuar el ejercicio de las facultades de comprobación en el domicilio del visitado o en las oficinas de las autoridades fiscales donde se levantará el acta final, con las formalidades a que se refiere el citado artículo.
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+Lo dispuesto en el párrafo anterior no es aplicable cuando los visitadores obtengan copias de solo parte de la contabilidad. En este caso, se levantará el acta parcial señalando los documentos de los cuales se obtienen copias, pudiéndose continuar la visita en el domicilio o establecimiento del visitado. En ningún caso las autoridades fiscales podrán recoger la contabilidad del visitado.
 
 ###### ARTICULO 62.
 
@@ -845,9 +865,13 @@ II.- Si la visita se realiza simultáneamente en dos o más lugares, en cada uno
 
 III.- Durante el desarrollo de la visita los visitadores a fin de asegurar la contabilidad, correspondencia o bienes que no están registrados en la contabilidad, podrán , indistintamente, sellar o colocar marcas en dichos documentos, bienes o en muebles, archiveros u oficinas donde se encuentren, así como dejarlos en calidad de depósito al visitado o a la persona con quien se entienda la diligencia previo inventario que al efecto formulen. En el caso de que algún documento que se encuentre en los muebles, archiveros u oficinas que se sellen, sea necesario al visitado para realizar sus actividades, se le permitirá extraerlo ante la presencia de los visitadores, quienes podrán sacar copia del mismo.
 
-IV.- Con las mismas formalidades a que se refieren las fracciones anteriores, se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones o circunstancias de carácter concreto, de los que se tenga conocimiento en el desarrollo de una visita o después de concluida. Formulada la liquidación, no se podrán levantar actas complementarias sin que exista una nueva orden de visita.
+> <small>(REFORMADA PRIMER PARRAFO, D.O. 19 DE DICIEMBRE DE 1996)</small>
 
-Cuando en el desarrollo de una visita las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones fiscales, los consignarán en forma circunstanciada en actas parciales. También se consignarán en dichas actas los hechos u omisiones que se conozcan de terceros. En la última acta parcial que al efecto se levante se hará mención expresa de tal circunstancia y entre ésta y el acta final, deberán transcurrir cuando menos quince días, durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones.
+IV.- Con las mismas formalidades a que se refieren las fracciones anteriores, se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones o circunstancias de carácter concreto, de los que se tenga conocimiento en el desarrollo de una visita. Una vez levantada el acta final, no se podrán levantar actas complementarias sin que exista una nueva orden de visita.
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+Cuando en el desarrollo de una visita las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones fiscales, lo consignarán en forma circunstanciada en actas parciales. También se consignarán en dichas actas los hechos u omisiones que se conozcan de terceros. En la última acta parcial que al efecto se levante se hará mención expresa de tal circunstancia y entre ésta y el acta final, deberán transcurrir cuando menos quince días por cada año natural o fracción de éste, durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones.
 
 Se tendrán por consentidos los hechos consignados en las actas a que se refiere el párrafo anterior, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia o no señala el lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad.
 
@@ -856,6 +880,18 @@ V.- Cuando resulte imposible continuar o concluir el ejercicio de las facultades
 VI.- Si en el cierre del acta final de la visita no estuviere presente el visitado o su representante legal, se le dejará citatorio para que esté presente a una hora determinada del día siguiente; si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado; en ese momento cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entiende la diligencia y los testigos firmarán el acta de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niega a aceptar copia del acta, dicha circunstancia se asentará en la propia acta sin que esto afecte la validez y valor probatorio de la misma.
 
 VII.- Las actas parciales se entenderá que forman parte integrante del acta final de la visita aunque no se señale así expresamente.
+
+> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 62-A.
+
+Las autoridades fiscales deberán concluir la visita que se desarrolle en el domicilio fiscal o establecimientos de los contribuyentes o la revisión de la contabilidad de los mismos que se efectúe en las oficinas de las propias autoridades, dentro de un plazo máximo de cinco meses contados a partir de que se les notifique a los contribuyentes el inicio de las facultades de comprobación.
+
+El plazo a que se refiere el párrafo anterior, podrá ampliarse por un período igual por una sola ocasión, siempre que el oficio mediante el cual se le notifique la prórroga correspondiente haya sido expedido por la autoridad o autoridades fiscales que ordenaron la visita o revisión, salvo cuando el contribuyente durante el desarrollo de la visita o revisión de la contabilidad, cambie de domicilio fiscal, supuesto en el que serán las autoridades fiscales que correspondan a su nuevo domicilio las que expedirán el oficio de la prórroga correspondiente. En su caso, dicho plazo se entenderá prorrogado hasta que transcurra el término a que se refiere el segundo párrafo de la fracción IV del artículo 62 de este Código.
+
+Si durante el plazo para concluir la visita domiciliaria o la revisión de la contabilidad del contribuyente en las oficinas de las propias autoridades, o las prórrogas que procedan de conformidad con el párrafo anterior, los contribuyentes interponen algún medio de defensa contra los actos que deriven del ejercicio de sus facultades de comprobación, dichos plazos se suspenderán desde la fecha en que se interpongan los citados medios de defensa hasta que se dicte resolución definitiva de los mismos.
+
+Cuando las autoridades no levanten el acta final de visita o no notifiquen el oficio de observaciones, o en su caso, el de conclusión de la revisión dentro de los plazos mencionados, ésta se entenderá concluida en esa fecha, quedando sin efectos la orden y las actuaciones que de ella se derivaron durante dicha visita o revisión.
 
 ###### ARTICULO 63.
 
@@ -899,13 +935,39 @@ XIII.- Al final contener las firmas y nombres de las personas que intervinieron 
 
 Cuando las autoridades soliciten de los contribuyentes, responsables solidarios o terceros, informes, datos o documentos o pidan la presentación de la contabilidad o parte de ella, para el ejercicio de sus facultades de comprobación, fuera de una visita domiciliaria, se estará a lo siguiente:
 
-I.- La solicitud se notificará en el domicilio manifestado ante el registro estatal de contribuyentes por la persona a quien va dirigida y en su defecto, tratándose de personas físicas, también podrá notificarse en su casa habitación o lugar donde éstas se encuentren.
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+I.- La solicitud se notificará en el domicilio manifestado ante el registro estatal de contribuyentes por la persona a quien va dirigida y en su defecto, tratándose de personas físicas, también podrá notificarse en su casa habitación o lugar donde éstas se encuentren. Si al presentarse el notificador en el lugar donde deba practicarse la diligencia, no estuviere la persona a quien va dirigida la solicitud o su representante legal, se dejará citatorio con la persona que se encuentre en dicho lugar, para que el contribuyente, responsable solidario, tercero o representante legal, lo esperen a hora determinada del día siguiente para recibir la solicitud, si no lo hicieren, la solicitud se notificará con quién se encuentre en el domicilio señalado en la misma.
+
+Cuando no hubiera observaciones, la autoridad fiscalizadora comunicará al contribuyente, mediante oficio, la conclusión de la revisión de gabinete de los documentos presentados.
 
 II.- En la solicitud se indicará el lugar y el plazo en el cual se debe proporcionar los informes o documentos.
 
 III.- Los informes, libros o documentos requeridos deberán ser proporcionados por la persona a quien se dirigió la solicitud o por su representante legal.
 
-IV.- La resolución que determine las contribuciones omitidas se notificará en el lugar señalado en la fracción I de este artículo.
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+IV.- Como consecuencia de la revisión de los informes, datos, documentos o contabilidad requeridos a los contribuyentes, responsables solidarios o terceros, las autoridades fiscales formularán oficio de observaciones, en el cuál harán constar en forma circunstanciada los hechos u omisiones que se hubiesen conocido y entrañen incumplimiento de las disposiciones fiscales del contribuyente o responsable solidario.
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+V.- Cuando no hubiera observaciones, la autoridad fiscalizadora comunicará al contribuyente, mediante oficio, la conclusión de la revisión de gabinete de los documentos presentados.
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+VI.- El oficio de observaciones a que se refiere la fracción IV, se notificará cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en dicha fracción. El contribuyente contará con un plazo cuando menos de quince días por año natural o fracción de éste, contados a partir del siguiente día al en que se notificó el oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo, así como optar por corregir su situación fiscal.
+
+El plazo que se señala en el primer párrafo de esta fracción es independiente del que se establece en el artículo 62-A de este Código.
+
+Se tendrán por consentidos los hechos u omisiones consignados en el oficio de observaciones, si en el plazo probatorio el contribuyente no presenta documentación comprobatoria que los desvirtúe.
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+VII.- Cuando el contribuyente no corrija totalmente su situación fiscal conforme al oficio de observaciones o no desvirtúe los hechos u omisiones consignados en dicho oficio, se emitirá la resolución que determine las contribuciones omitidas la cuál se notificará al contribuyente cumpliendo con lo señalado en la fracción I de éste artículo y en el lugar especificado en dicha fracción.
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+VIII.- La resolución que determine las contribuciones emitidas se notificará cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en dicha fracción.
 
 ###### ARTICULO 66.
 
@@ -1569,47 +1631,57 @@ La misma pena se impondrá a quien dolosamente los destruya o deteriore.
 
 #### Sección Primera. Disposiciones Generales
 
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 124.
 
-Contra los actos administrativos dictados en materia fiscal estatal, se podrán interponer los siguientes recursos:
+Contra los actos administrativos dictados en materia fiscal estatal, se podrá interponer el recurso de revocación.
 
-I.- El de revocación.
-
-II.- El de oposición al procedimiento administrativo de ejecución.
-
-III.- El de impugnación de notificaciones.
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 125.
 
-El recurso de revocación procederá contra las resoluciones definitivas que:
+El recurso de revocación procederá contra:
 
-I.- Determinen contribuciones o accesorios.
+I.- Las resoluciones definitivas dictadas por autoridades fiscales estatales que:
 
-II.- Nieguen la devolución de cantidades que procedan conforme a la ley.
+a).- Determinen contribuciones, accesorios o aprovechamientos.
+
+b).- Nieguen la devolución de cantidades que procedan conforme a la ley.
+
+c).- Cualquier resolución de carácter definitivo que cause agravio al particular en materia fiscal, salvo aquéllas a que se refieren los artículos 52 y 55 de este Código.
+
+II.- Los actos de autoridades fiscales estatales que:
+
+a).- Exijan el pago de créditos fiscales, cuando se alegue que éstos se han extinguido o que su monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la autoridad ejecutora o se refiera a recargos, gastos de ejecución o a la indemnización a que se refiere el artículo 29 de este Código.
+
+b).- Se dicten en el procedimiento administrativo de ejecución, cuando se alegue que éste no se ha ajustado a la ley.
+
+c).- Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo 135 de este Código.
+
+d).- Determinen el valor de los bienes embargados a que se refiere el artículo 195 de este Código.
 
 ###### ARTÍCULO 126.
 
-El recurso de oposición al procedimiento administrativo de ejecución procederá contra los actos que:
+(DEROGADO, D.O. 19 DE DICIEMBRE DE 1996)
 
-I.- Exijan el pago de créditos fiscales, cuando se alegue que éstos se han extinguido o que su monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la oficina ejecutora o se refiera a actualización, recargos, gastos de ejecución o la indemnización a que se refiere el artículo 29 de este Código.
-
-II.- Se dicten en el procedimiento administrativo de ejecución, cuando se alegue que éste no se ha ajustado a la ley.
-
-III.- Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo 135 de este Código.
-
-IV.- Determinen el valor de los bienes embargados a que ser(sic) refiere el artículo 195 de este Código.
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTÍCULO 127.
 
-La interposición del recurso de revocación será optativa para el interesado antes de acudir al Tribunal de lo Contencioso Administrativo. El de oposición al procedimiento administrativo de ejecución deberá agotarse previamente a la promoción del juicio ante dicho Tribunal.
+La interposición del recurso de revocación será optativa para el interesado antes de acudir al Tribunal de lo Contencioso Administrativo.
 
 Cuando un recurso se interponga ante autoridad fiscal incompetente, ésta lo turnará a la que sea competente.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTÍCULO 128.
 
-El escrito de interposición del recurso deberá presentarse ante la autoridad que emitió o ejecutó el acto impugnado, dentro de los cuarenta y cinco días siguientes a aquél en que haya surtido efectos su notificación.
+El escrito de interposición del recurso deberá presentarse ante la autoridad competente en razón del domicilio del contribuyente o ante la autoridad que emitió o ejecutó el acto impugnado, dentro de los cuarenta y cinco días siguientes a aquél en que haya surtido efectos su notificación excepto lo dispuesto en los artículos 134 y 195 de este Código, en que el escrito de recurso deberá presentarse dentro del plazo que en los mismos se señala.
 
-Si el particular tiene su domicilio fuera de la población en que radique la autoridad que emitió o ejecutó el acto impugnado, el escrito de interposición del recurso podrá presentarse en la oficina exactora más cercana a dicho domicilio o enviarlo a la autoridad que emitió o ejecutó el acto, por correo certificado con acuse de recibo, o bien presentarlo ante la autoridad que hubiere presentado la notificación. En estos casos, se tendrá como fecha de presentación del escrito respectivo, la del día en que se entregue a la oficina exactora o a la autoridad que hubiere efectuado la notificación o se deposite en la oficina de correos.
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+Si el particular tiene su domicilio fuera de la población en que radique la autoridad que emitió o ejecutó el acto impugnado, el escrito de interposición del recurso podrá presentarse en la oficina exactora más cercana a dicho domicilio o enviarlo a la autoridad que emitió o ejecutó el acto, por correo certificado con acuse de recibo, siempre que el envío se efectúe desde el lugar en que resida el recurrente. En estos casos, se tendrá como fecha de presentación del escrito respectivo, la del día en que se entregue a la oficina exactora o se deposite en la oficina de correos.
 
 Si el particular afectado por un acto o resolución administrativa fallece durante el plazo a que se refiere este artículo, dicho acto o resolución se suspenderá hasta un año, si antes no se hubiese aceptado el cargo de representante de la sucesión.
 
@@ -1617,21 +1689,31 @@ Si el particular afectado por un acto o resolución administrativa fallece duran
 
 El escrito de interposición del recurso deberá satisfacer los requisitos del artículo 26 de este Código y señalar además:
 
-I.- El acto que se impugna.
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
 
-II.- Los agravios que le cause el acto impugnado.
+I.- La resolución o el acto que se impugna.
+
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+II.- Los agravios que le cause la resolución o el acto impugnado.
 
 III.- Los hechos controvertidos y las pruebas que acompañe.
 
-Cuando no se haga alguno de los señalamientos anteriores, la autoridad fiscal prevendrá al recurrente para que en el término de 5 días subsane la omisión, apercibiéndolo de que en caso de incumplimiento se tendrá por no interpuesto el recurso.
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 1996)</small>
 
-Cuando no se gestione en nombre propio, la representación de los interesados deberá recaer en Licenciado en derecho. No será aplicable lo dispuesto en este párrafo si la gestión se realiza en nombre de una persona moral en los términos de la ley que la regula y conforme a sus estatutos, sin perjuicio de lo que disponga la legislación de profesiones.
+Cuando no se expresen alguno de los requisitos a que se refieren las fracciones anteriores, la autoridad fiscal prevendrá al recurrente para que en el término de 5 días subsane la omisión, apercibiéndolo de que en caso de incumplimiento se tendrá por no interpuesto el recurso. Si dentro de dicho plazo no se expresan los agravios que le cause la resolución o acto impugnado, la autoridad fiscal desechará el recurso; si no se señala el acto que se impugna se tendrá por no presentado el recurso; si el requerimiento que se incumple se refiere al señalamiento de los hechos controvertidos o al ofrecimiento de pruebas, el promovente perderá el derecho a señalar los citados hechos o en su caso se tendrán por no ofrecidas las pruebas, respectivamente.
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+Cuando no se gestione en nombre propio, la representación de las personas físicas y morales, deberá acreditarse en términos del artículo 27 de este Código.
 
 ###### ARTÍCULO 130.
 
 El promovente deberá acompañar al escrito en que se interponga el recurso:
 
-I.- Los documentos que acrediten su personalidad cuando actúe en nombre de otro o de personas morales.
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+I.- Los documentos que acrediten su personalidad cuando actúe en nombre de otro o de personas morales, o en los que conste que ésta ya hubiera sido reconocida por la autoridad fiscal que emitió el acto o resolución impugnada o que se cumple con los requisitos a que se refiere el primer párrafo del artículo 27 de este Código.
 
 II.- El documento en que conste el acto impugnado.
 
@@ -1641,7 +1723,9 @@ IV.- Las pruebas documentales que ofrezca y el dictamen pericial, en su caso.
 
 Cuando las pruebas documentales no obren en poder del recurrente, si éste no hubiere podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, deberá señalar el archivo o lugar en que se encuentren para que la autoridad fiscal requiera su remisión cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos y, tratándose de los que pueda tener a su disposición, bastará con que acompañe la copia sellada de la solicitud de los mismos. Se entiende que el recurrente tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias de éstos.
 
-La autoridad fiscal, a petición del recurrente, recabará las pruebas que obren en el expediente en que haya originado el acto impugnado siempre que el interesado no hubiere tenido oportunidad de obtenerlas. Cuando no se acompañe alguno de los documentos anteriores, la autoridad fiscal prevendrá al recurrente para en el término de 5 días subsane la omisión, apercibiéndolo de que en caso de incumplimiento se tendrá por no interpuesto el recurso.
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+La autoridad fiscal, a petición del recurrente, recabará las pruebas que obren en el expediente en que haya originado el acto impugnado siempre que el interesado no hubiere tenido oportunidad de obtenerlas. Cuando no se acompañe alguno de los documentos a que se refieren las fracciones anteriores, la autoridad fiscal prevendrá al recurrente para que los presente dentro del término de 5 días. Si el promovente no los presentare dentro de dicho término y se trata de los documentos a que se refieren las fracciones I a III, se tendrá por no interpuesto el recurso; si se trata de las pruebas a que se refiere la fracción IV, las mismas se tendrán por no ofrecidas.
 
 ###### ARTICULO 131.
 
@@ -1671,33 +1755,45 @@ El interesado podrá optar por impugnar un acto a través del recurso de revocac
 
 Si la resolución dictada en el recurso de revocación se combate ante el Tribunal de lo Contencioso Administrativo, la impugnación del acto conexo deberá hacerse valer ante el mismo Tribunal.
 
+> <small>(DEROGADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
 #### Sección Tercera
 
 Del recurso de Oposición al Procedimiento Administrativo de Ejecución.
 
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTÍCULO 133.
 
-El recurso de oposición al procedimiento administrativo de ejecución se hará valer ante la oficina ejecutora y no podrá discutirse en el mismo la validez del acto administrativo en que se haya determinado el crédito fiscal.
+El recurso de revocación no procederá contra actos que tengan por objeto hacer efectivas fianzas otorgadas en garantía de obligaciones fiscales a cargo de terceros.
 
-No procederá este recurso contra los actos que tengan por objeto hacer efectivas fianzas otorgadas en garantía de obligaciones fiscales a cargo de terceros.
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTÍCULO 134.
 
-Cuando el recurso de oposición al procedimiento administrativo de ejecución se interponga porque éste no se ajustó a la ley, las violaciones cometidas antes del remate sólo podrán hacerse valer hasta el momento de la convocatoria en primera almoneda, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables, de actos de imposible reparación material o de lo previsto por el artículo 136, casos en que el plazo para interponer el recurso se computará a partir del día siguiente al en que surta efectos la notificación del requerimiento de pago o del día siguiente al de la diligencia de embargo.
+Cuando el recurso de revocación se interponga porque el procedimiento administrativo de ejecución no se ajustó a la Ley, las violaciones cometidas antes del remate podrán hacerse valer en cualquier tiempo antes de la publicación de la convocatoria en primera almoneda, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables, de actos de imposible reparación material o de lo previsto por el artículo 136, casos en que el plazo para interponer el recurso se computará a partir del día siguiente al en que surta efectos la notificación del requerimiento de pago o del día siguiente al de la diligencia de embargo.
 
 Si las violaciones tuvieren lugar con posterioridad a la mencionada convocatoria o se tratare de venta de bienes fuera de subasta, el recurso se hará valer contra la resolución que finque el remate o la que autorice la venta fuera de subasta.
 
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTÍCULO 135.
 
-El tercero que afirme ser propietario de los bienes o negociaciones, o titular de los derechos embargados, podrá hacer valer el recurso de oposición al procedimiento administrativo de ejecución en cualquier tiempo antes de que se finque el remate, se enajenen fuera de remate o se adjudiquen los bienes a favor del fisco estatal. El tercero que afirme tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales estatales, lo hará valer en cualquier tiempo antes de que se haya aplicado el importe del remate a cubrir el crédito fiscal.
+El tercero que afirme ser propietario de los bienes o negociaciones o titular de los derechos embargados, podrá hacer valer el recurso de revocación en cualquier tiempo antes de que se finque el remate, se enajenen fuera de remate o se adjudiquen los bienes a favor del fisco estatal. El tercero que afirme tener derecho a que los créditos a su favor se cubran preferentemente a los fiscales estatales lo hará valer en cualquier tiempo antes de que se haya aplicado el importe del remate a cubrir el crédito fiscal.
 
-#### Sección Cuarta. De la impugnación de las Notificaciones
+> <small>(REFORMADA SU NUMERACION, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+#### Sección Tercera. De la impugnación de las Notificaciones
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTÍCULO 136.
 
-Cuando se alegue que un acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los recurribles conforme a los artículos 125 y 126, se estará a las reglas siguientes:
+Cuando se alegue que un acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los recurribles conforme al artículo 125, se estará a las reglas siguientes:
 
-I.- Si el particular afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer mediante la interposición del recurso administrativo que proceda contra dicho acto, en el que manifestará la fecha en que lo conoció.
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+I.- Si el particular afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer mediante la interposición del recurso de revocación contra dicho acto, en el que manifestará la fecha en que lo conoció.
 
 En caso de que también impugne el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se formulen contra la notificación.
 
@@ -1713,11 +1809,15 @@ Si se resuelve que la notificación fue legalmente practicada y, como consecuenc
 
 En el caso de actos regulados por otras leyes estatales, la impugnación de la notificación efectuada por autoridades fiscales se hará mediante recurso administrativo que, en su caso, establezcan dichas leyes y de acuerdo con lo previsto por este artículo.
 
-#### Sección Quinta. Del trámite y resolución de los Recursos
+> <small>(REFORMADA SU NUMERACION, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+#### Sección Cuarta. Del trámite y resolución de los Recursos
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTÍCULO 137.
 
-En los recursos administrativos se admitirán toda clase de pruebas, excepto la testimonial y la de confesión de las autoridades mediante absolución de posiciones. No se considerará comprendida en esta prohibición la petición de informes a las autoridades fiscales, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
+En el recurso administrativo de revocación se admitirá toda clase de pruebas, excepto la testimonial y la de confesión de las autoridades mediante absolución de posiciones. No se considerará comprendida en esta prohibición la petición de informes a las autoridades fiscales, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
 
 Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la resolución del recurso.
 
@@ -1747,7 +1847,9 @@ La resolución expresará con claridad los actos que se modifiquen y si la modif
 
 La resolución que ponga fin al recurso podrá:
 
-I.- Desecharlo por improcedente o sobreseerlo, en su caso.
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+I.- Desecharlo por improcedente, tenerlo por no interpuesto o sobreseerlo, en su caso.
 
 II.- Confirmar el acto impugnado.
 
@@ -1828,6 +1930,10 @@ III.- Fianza otorgada por institución autorizada, la que no gozará de los bene
 IV.- Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia.
 
 V.- Embargo en la vía administrativa.
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+VI.- Títulos valor, en caso de que se demuestre la imposibilidad de garantizar la totalidad del crédito mediante cualquiera de las fracciones anteriores.
 
 La garantía deberá comprender, además de las contribuciones adeudadas actualizadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
 
@@ -1949,7 +2055,9 @@ Si se controvierten sólo determinados conceptos de la resolución administrativ
 
 En el supuesto del párrafo anterior, si el particular no presenta declaración complementaria, la autoridad exigirá la cantidad que corresponda a la parte consentida, sin necesidad de emitir otra resolución. Si se confirma en forma definitiva la validez de la resolución impugnada, la autoridad procederá a exigir la diferencia no cubierta con los recargos causados.
 
-No se exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubieran embargado bienes suficientes para garantizar el interés fiscal. En todo caso, se observará lo dispuesto en el antepenúltimo párrafo del artículo 148 de este Código.
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+No se exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubieran embargado bienes suficientes para garantizar el interés fiscal o cuando el contribuyente declare bajo protesta de decir verdad que son los únicos que posee. En el caso de que la autoridad compruebe por cualquier medio que esta declaración es falsa podrá exigir garantía adicional, sin perjuicio de las sanciones que correspondan. En todo caso, se observará lo dispuesto en el antepenúltimo párrafo del artículo 148 de este Código.
 
 En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán promover el incidente de suspensión de la ejecución ante el Tribunal de lo Contencioso Administrativo y ocurrir al superior jerárquico de la autoridad ejecutora, si se está tramitando recurso, acompañando los documentos en que conste el medio de defensa hecho valer y el ofrecimiento o, en su caso otorgamiento de la garantía del interés fiscal. El superior jerárquico ordenará mantener provisionalmente las cosas en el estado que guarden y que la ejecutora rinda un informe en el plazo de tres días resolviendo en igual término la cuestión planteada. En lo demás aplicará en lo conducente las reglas establecidas por este Código para el citado incidente de suspensión de la ejecución.
 
@@ -2263,7 +2371,9 @@ La autoridad podrá designar otro lugar para la venta u ordenar que los bienes e
 
 La base para enajenación de los bienes inmuebles embargados será la del avalúo y para negociaciones, el avalúo pericial, ambos conforme a las reglas establecidas en el artículo 196 de este Código y en los demás casos la que fijen de común acuerdo la autoridad y el embargado, en un plazo de seis días contados a partir de la fecha en que se hubiera practicado el embargo. A falta de acuerdo, una institución de crédito designada por la autoridad practicará avalúo pericial. En todos los casos, la autoridad notificará personalmente al embargado el avalúo practicado.
 
-El embargado o terceros acreedores que no estén conformes con la valuación hecha, podrán hacer valer el recurso de oposición al procedimiento administrativo de ejecución a que se refiere la fracción IV del artículo 126 de este Código, dentro de los diez días siguientes a aquél en que surta efectos la notificación a que se refiere el párrafo anterior, debiendo designar en el mismo como perito de su parte a cualquiera de los valuadores señalados en el artículo 196 de este Código, o alguna empresa o institución dedicada a la compraventa y subasta de bienes.
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 1996)</small>
+
+El embargado o terceros acreedores que no estén conformes con la valuación hecha, podrán hacer valer el recurso de revocación a que se refiere la fracción II, inciso d) del artículo 125 de este Código, dentro de los diez días siguientes a aquel en que surta efectos la notificación a que se refiere el párrafo anterior, debiendo designar en el mismo como perito de su parte a cualquiera de los valuadores señalados en el artículo 196 de este Código, o alguna empresa o institución dedicada a la compraventa y subasta de bienes.
 
 Cuando el embargado o terceros acreedores no interpongan el recurso dentro del plazo legal o haciéndolo no designe valuador, se tendrá por aceptado el avalúo hecho conforme al primer párrafo de este artículo.
 
@@ -2452,3 +2562,9 @@ LIC. DULCE MARIA SAURI RIANCHO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. RICARDO AVILA HEREDIA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+D.O. 19 DE DICIEMBRE DE 1996.
+
+UNICO.- El presente Decreto entrará en vigor el uno de enero de mil novecientos noventa y siete.
