@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "1954-12-31"
+last_updated: "1955-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 1955.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -363,9 +363,13 @@ Sólo cuando estén abiertas al público las oficinas fiscales se efectuarán ac
 
 Es obligación de los causantes señalar en los avisos, manifestaciones, o precedimiento (sic) que inicien, domicilio, ubicado dentro de la jurisdicción de la oficina a que se dirijan, para que se les hagan las notificaciones correspondientes y se practiquen las diligencias que sean necesarias, y mientras no cumplan con esta obligación las notificaciones y diligencias se harán en el local de la oficina.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1955)</small>
+
 ###### ARTICULO 57.
 
 Ninguna actividad mercantil o industrial podrá ejercerse habitualmente sin licencia de la Presidencia Municipal y el permiso, en su caso, que señalen los reglamentos respectivos.
+
+Los permisos o licencias para el establecimiento de cafés cantantes o cabarets, cantinas, casa de juego u otras actividades que puedan quedar clasificadas dentro del Inciso IV del Artículo 71 de la Ley de Hacienda del Estado serán expedidas y revalidadas exclusivamente por el Gobernador del Estado conforme al reglamento respectivo, debiendo cubrir los derechos correspondientes conforme a las cuotas y tarifas que establecen la Leyes de Ingresos Municipales.
 
 ###### ARTICULO 58.
 
@@ -385,7 +389,9 @@ c).- Monto probable de los ingresos que se deriven de ella.
 
 II.- Garantizar el interés fiscal.
 
-III.- Obtener licencia previa de la Presidencia Municipal, cuando se trate de actividades comprendidas en los términos de la fracción IV del artículo 71 de la Ley de Hacienda del Estado en vigor.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 1955)</small>
+
+III.- Obtener licencia previa del Gobernador del Estado cuando se trate de actividades comprendidas en la fracción IV del Artículo 71 de la Ley de Hacienda en vigor.
 
 ###### ARTICULO 60.
 
@@ -409,13 +415,17 @@ e).- En caso de que se cambie el giro de la negociación o establecimiento se co
 
 f).- En caso de clausura, dentro de los siguientes veinte días.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1955)</small>
+
 ###### ARTICULO 62.
 
-Las licencias serán extendidas por la Presidencia Municipal salvo las que autoricen la explotación de cantinas, cabarets, casas de juego u otras actividades que puedan quedar clasificadas dentro del Inciso IV del Artículo 71 de la Ley de Hacienda del Estado, que serán extendidas y revalidadas por el Presidente Municipal, previo acuerdo con el Gobernador.
+Las licencias serán expedidas por la Presidencia Municipal salvo las que autoricen la explotación de cantinas, cafés cantantes o cabarets, casas de juego, que serán expedidas o revalidadas en los términos del segundo párrafo del Artículo 57 anterior.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1955)</small>
 
 ###### ARTICULO 63.
 
-Todas las licencias deberán revalidarse ante la Presidencia Municipal, durante el curso del mes de junio de cada año, previa comprobación de que subsisten los requisitos que exigen las leyes.
+Todas las licencias deberán revalidarse ante la Presidencia Municipal, durante el curso del mes de junio de cada año, previa comprobación de que subsisten los requisitos que exigen las leyes: salvo las licencias para explotación de cafés cantantes o cabarets, cantinas, casas de juego u otras actividades que puedan quedar clasificadas dentro del Inciso IV del Artículo 71 de la Ley de Hacienda del Estado, que serán expedidas o revalidadas exclusivamente por el Gobernador del Estado conforme a los reglamentos respectivos.
 
 ###### ARTICULO 64.
 
@@ -493,13 +503,19 @@ El pago de los derechos anteriores podrá ser hecho por el beneficiado en exhibi
 
 La obligación de cubrir los derechos que establece este artículo nace desde el siguiente bimestre a aquel en que se inicien las obras, pudiendo interrumpirse la obligación del causante por la suspensión temporal o definitiva de ellas.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1955)</small>
+
 ###### ARTICULO 76.
 
-Los permisos para la operación en horas extraordinarias de cantinas y establecimientos nocturnos, sólo podrán ser concedidos por la Presidencia Municipal, limitándose la autorización a seis horas diarias como máximo.
+Los permisos para la operación en horas extraordinarias de cafés cantantes o cabarets o cantinas, sólo podrán ser concedidos por el Gobernador del Estado en los términos de la Ley de Hacienda Estatal y reglamento correspondiente.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1955)</small>
 
 ###### ARTICULO 77.
 
-Todas las licencias, permisos, placas, tarjetas y constancias de empadronamiento estarán sujetas a revalidación anual mediante el pago de los derechos correspondientes.
+Todas las licencias, permisos, placas, tarjetas y constancias de empadronamiento expedidas por el Municipio estarán sujetas a revalidación anual mediante el pago de los derechos correspondientes.
+
+Los derechos sobre expedición y revalidación de licencias y permisos para la operación en horas extraordinarias a que se refieren los artículos 62 y 76 de esta Ley, serán recaudados por las Oficinas Recaudadoras del Gobierno Municipal al realizar tales actos de otorgamiento, el Estado.
 
 ###### ARTICULO 78.
 
@@ -1578,3 +1594,7 @@ P.O. 31 DE DICIEMBRE DE 1954.
 ###### ARTICULO UNICO.
 
 El presente Ordenamiento entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE MAYO DE 1955.
+
+UNICO.- Las adiciones y reformas a que se refiere el presente Decreto entrarán en vigor el día de su publicación en el Periódico Oficial del Estado.
