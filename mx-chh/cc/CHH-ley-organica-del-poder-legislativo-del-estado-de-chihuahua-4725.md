@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2003-01-18"
+last_updated: "2003-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 2003.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -1385,9 +1385,11 @@ Concluida la votación, uno de los secretarios preguntará si falta alguien de v
 
 El Presidente del Congreso o el de la Diputación Permanente tendrá, en caso de empate, además del voto ordinario, el de calidad.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2003)</small>
+
 ###### Art. 139.
 
-El día de la aprobación de un dictamen o dentro de los diez días siguientes, se enviará la correspondiente minuta al Ejecutivo para los efectos a que se refiere la Constitución Política del Estado en sus artículos 70, 72 y 93 fracción II.
+El día de la aprobación de un dictamen o dentro de los quince días siguientes, se enviará la correspondiente minuta al Ejecutivo para los efectos a que se refiere la Constitución Política del Estado en sus artículos 70,72 y 93 fracción II.
 
 ###### Art. 140.
 
@@ -1786,3 +1788,7 @@ Se derogan todas aquellas disposiciones que se opongan al presente decreto.
 P.O. 18 DE ENERO DE 2003.
 
 UNICO.- El Presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
+
+P.O. 29 DE ENERO DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
