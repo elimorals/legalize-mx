@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-aduanera-3292"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-06-06"
-last_updated: "1996-06-06"
+last_updated: "1999-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3292&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-06-03"
 
 REGLAMENTO DE LA LEY ADUANERA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE OCTUBRE DE 1999.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el jueves 6 de junio de 1996.
 
@@ -125,6 +125,136 @@ III. El porteador o el consignatario de mercancías en tráfico marítimo, solic
 
 De conformidad con lo dispuesto en el artículo 19 de la Ley, el despacho aduanero en lugar distinto del autorizado, sólo se permitirá en el caso de exportación, siempre que existan causas debidamente justificadas para ello.
 
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 1999)</small>
+
+###### Artículo 10-A.
+
+Para efectos de lo dispuesto en el artículo 16 de la Ley, se estará a lo siguiente:
+
+I. El Servicio de Administración Tributaria autorizará a los particulares para prestar los servicios de procesamiento electrónico de datos y servicios relacionados, mediante licitación, de conformidad con lo dispuesto en este Reglamento, y
+
+II. El Servicio de Administración Tributaria se encargará de vigilar la calidad de los servicios prestados por las empresas autorizadas para la prestación de los servicios de procesamiento electrónico de datos y servicios relacionados, para lo cual tomará las medidas que sean necesarias, incluyendo la licitación para determinar las instituciones del sistema financiero que se encargarán del manejo de las cuentas y contratos que se requieran para asegurar la administración transparente de los recursos.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 1999)</small>
+
+###### Artículo 10-B.
+
+Para efectos del artículo 10-A, fracción I del presente Reglamento, las convocatorias para la licitación de la autorización para prestar los servicios de procesamiento electrónico de datos y servicios relacionados, se deberán publicar en el Diario Oficial de la Federación y en un diario de circulación nacional y deberán contener la siguiente información:
+
+I. La autoridad convocante;
+
+II. El objeto de la convocatoria;
+
+III. La descripción general de los servicios objeto de la licitación, y
+
+IV. Los demás requisitos que se consideren convenientes.
+
+Las bases y especificaciones de la licitación para el otorgamiento de la autorización, se pondrán a disposición de los interesados a partir de la fecha de publicación de la convocatoria en el Diario Oficial de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 1999)</small>
+
+###### Artículo 10-C.
+
+Los particulares que deseen obtener la autorización a que se refiere el artículo 10-A, fracción I de este Reglamento, deberán cumplir con los siguientes requisitos:
+
+I. Ser persona moral constituida de conformidad con las leyes mexicanas; acreditar que su actividad principal es en el ramo de servicios de procesamiento electrónico de datos y servicios relacionados;
+
+II. Acreditar que cuenta con el capital social pagado a que se refiere el artículo 16, fracción II de la Ley;
+
+III. Acreditar cinco años de experiencia en la prestación de servicios similares a los que se señalen en las bases y especificaciones de la licitación, mediante referencias en México o en cualquier otro país, así como por medio de asociaciones tecnológicas con empresas radicadas en México o en cualquier otra parte del mundo;
+
+IV. Acreditar el cumplimiento de sus obligaciones fiscales durante los últimos cinco ejercicios, y
+
+V. Los demás que se señalen en la convocatoria, en las bases y especificaciones de la licitación.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 1999)</small>
+
+###### Artículo 10-D.
+
+Para efectos de lo dispuesto en el artículo 10-A, fracción I de este Reglamento, procederá el otorgamiento de la autorización a favor de la persona que haya reunido las condiciones legales, técnicas y económicas requeridas en la convocatoria y que garantice satisfactoriamente, a opinión de la autoridad convocante, el cumplimiento de las obligaciones respectivas.
+
+La autorización tendrá una duración de 5 años y podrá renovarse a solicitud del interesado, antes del vencimiento del plazo, siempre que se cumpla con los requisitos necesarios para el otorgamiento de la autorización y no se haya incumplido con las obligaciones derivadas de la misma ni se haya incurrido en causas de cancelación de la autorización.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 1999)</small>
+
+###### Artículo 10-E.
+
+La autorización para la prestación de los servicios de procesamiento electrónico de datos y servicios relacionados a que se refiere el artículo 10-A, fracción I de este Reglamento, deberá contener lo siguiente:
+
+I. Nombre, domicilio y clave del Registro Federal de Contribuyentes del particular autorizado;
+
+II. La determinación de la forma y condiciones en que se prestarán los servicios autorizados, incluyendo el plazo de inicio de los mismos y la obligación de mantener la confidencialidad absoluta de toda la información y documentación, así como de los métodos y sistemas utilizados;
+
+III. Las contraprestaciones económicas correspondientes a los servicios, la forma y momento de pago y las bases para su actualización;
+
+IV. La forma, importe y bases de actualización de la garantía requerida para garantizar el cumplimiento de las obligaciones derivadas de la autorización;
+
+V. El plazo de vigencia de la autorización;
+
+VI. La prohibición de ceder, hipotecar, enajenar, transferir o gravar de cualquier manera, parcial o totalmente, los derechos derivados de la autorización o los bienes afectos a la prestación de los servicios objeto de la autorización, sin que medie autorización expresa para tales efectos, de la autoridad competente;
+
+VII. Las sanciones por incumplimiento de las obligaciones;
+
+VIII. Las causas de cancelación de la autorización, y
+
+IX. Cualquier otra que la autoridad convocante estime conveniente.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 1999)</small>
+
+###### Artículo 10-F.
+
+Las personas que obtengan la autorización para prestar los servicios de procesamiento electrónico de datos y servicios relacionados, deberán cumplir con lo siguiente:
+
+I. Prestar los servicios de procesamiento electrónico de datos y servicios relacionados objeto de la autorización, conforme a lo señalado en la autorización respectiva, de manera continua e ininterrumpida y con la calidad requerida, por el tiempo que dure la autorización;
+
+II. Proporcionar a la autoridad competente, cuando así se le requiera, toda la información, documentación, registros y materiales requeridos, y permitirle el acceso a sus oficinas e instalaciones para conocer y evaluar la prestación de los servicios de procesamiento electrónico de datos y servicios relacionados. Las obligaciones a que se refieren esta fracción y el artículo 10-G de este Reglamento se harán extensivas a las personas que por virtud de un contrato con el prestador del servicio se vinculen de manera directa o indirecta con la prestación del mismo, lo cual deberá pactarse en el contrato respectivo;
+
+III. Otorgar garantía a favor de la Secretaría, para asegurar el cumplimiento de sus obligaciones, en los términos de la autorización respectiva, y
+
+IV. Cumplir con las demás obligaciones previstas en la Ley, este Reglamento, la autorización respectiva y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 1999)</small>
+
+###### Artículo 10-G.
+
+El Servicio de Administración Tributaria supervisará el correcto desempeño de las empresas autorizadas para la prestación de los servicios de procesamiento electrónico de datos y servicios relacionados, y el debido manejo de los recursos afectos al servicio autorizado y estará facultado para requerir a las empresas autorizadas la presentación de información, documentación, registros y materiales y efectuar visitas a los lugares en los que se preste el servicio, las oficinas e instalaciones de las empresas autorizadas y para conocer y evaluar la prestación de dichos servicios.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 1999)</small>
+
+###### Artículo 10-H.
+
+Los recursos que se obtengan por la contraprestación de los servicios de procesamiento electrónico de datos y servicios relacionados, a que se refiere el párrafo tercero del artículo 16 de la Ley, se depositarán en una cuenta que se abrirá ante la institución del sistema financiero que se determine mediante licitación, para destinarse al pago de la contraprestación al prestador del servicio y a la adquisición de los activos que se utilizarán para la prestación de los servicios de procesamiento electrónico de datos y servicios relacionados.
+
+El Servicio de Administración Tributaria no será titular de la cuenta a que se refiere el párrafo anterior, pero actuará sobre la misma en los términos y condiciones del contrato de la cuenta antes mencionada.
+
+El Servicio de Administración Tributaria autorizará los pagos por la prestación del servicio y establecerá las condiciones necesarias para asegurar la correcta administración y aplicación de los recursos.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 1999)</small>
+
+###### Artículo 10-I.
+
+Se constituirá un fideicomiso público, que no tendrá el carácter de entidad de la administración pública paraestatal, en la institución de crédito que se determine mediante licitación, al que se afectarán la totalidad de los activos y programas informáticos o de cómputo que se adquieran o que se utilicen en la prestación de los servicios de procesamiento electrónico de datos y servicios relacionados. En el fideicomiso mencionado la Secretaría de Hacienda y Crédito Público, a través del Servicio de Administración Tributaria, tendrá el carácter de fideicomitente y fideicomisario.
+
+Cuando por cualquiera de las causas legales se dé por terminada la autorización a la que se refiere el artículo 10-A, fracción I, los activos y programas informáticos o de cómputo que se encuentren afectados al fideicomiso señalado en el párrafo anterior, continuarán afectos al mismo.
+
+> <small>(ADICIONADO, D.O.F. 18 DE OCTUBRE DE 1999)</small>
+
+###### Artículo 10-J.
+
+Procederá la cancelación de la autorización, por las siguientes causas:
+
+I. Dejar de prestar los servicios objeto de la autorización de manera injustificada;
+
+II. Incumplir con alguna de las condiciones u obligaciones señaladas en la Ley, en este Reglamento, en la autorización respectiva o en las demás disposiciones aplicables;
+
+III. Ceder, hipotecar, enajenar, transferir o gravar de cualquier manera, parcial o totalmente, los derechos derivados de la autorización o los bienes afectos a la prestación de los servicios de procesamiento electrónico de datos y servicios relacionados, sin autorización de la autoridad competente;
+
+IV. Dejar de cumplir los requisitos para el otorgamiento de la autorización, y
+
+V. Las previstas en el artículo 144-A de la Ley y en la autorización respectiva.
+
+Cuando proceda la cancelación de la autorización, el Servicio de Administración Tributaria determinará lo relativo a la suspensión de operaciones por parte de las empresas autorizadas y tomará las medidas necesarias para asegurar la continuidad de las operaciones objeto de la autorización, en tanto se inician los trámites para la licitación para otorgar una nueva autorización. Asimismo, tomará las medidas necesarias para la aplicación de las sanciones previstas en la autorización respectiva y las que resulten aplicables conforme a la Ley.
+
 #### Sección Segunda. Entrada y salida de mercancías y medios de transporte
 
 I
@@ -165,7 +295,7 @@ II. Lista, por cada puerto, de los pasajeros que conduzcan, expresando la cantid
 
 III. Lista de la tripulación y declaración de sus mercancías, por cada puerto, y
 
-lV. Relación por cada puerto, de los bultos que contengan mercancías explosivas, inflamables, corrosivas, contaminantes o radiactivas, en su caso.
+IV. Relación por cada puerto, de los bultos que contengan mercancías explosivas, inflamables, corrosivas, contaminantes o radiactivas, en su caso.
 
 ###### Artículo 14.
 
@@ -741,11 +871,11 @@ III. Señalar el nombre del o de los sectores en los que desea inscribirse y las
 
 Procede la suspensión en el padrón de importadores, en los siguientes casos:
 
-l. Cuando el contribuyente presente irregularidades o inconsistencias en el Registro Federal de Contribuyentes;
+I. Cuando el contribuyente presente irregularidades o inconsistencias en el Registro Federal de Contribuyentes;
 
-ll. Cuando los contribuyentes al fusionarse o escindirse, desaparezcan del Registro Federal de Contribuyentes;
+II. Cuando los contribuyentes al fusionarse o escindirse, desaparezcan del Registro Federal de Contribuyentes;
 
-lll. Cuando el contribuyente cambie su denominación o razón social y no actualice su situación en el padrón de importadores, y
+III. Cuando el contribuyente cambie su denominación o razón social y no actualice su situación en el padrón de importadores, y
 
 IV. Por resolución firme, que determine que el contribuyente cometió cualquiera de las infracciones previstas en los artículos 176, 177 y 179 de la Ley.
 
@@ -1019,7 +1149,7 @@ Para efectos de lo dispuesto en el primer párrafo del artículo 77 de la Ley, s
 
 Quienes ejerzan la opción establecida en los artículos 85 y 86 de la Ley:
 
-l. Únicamente podrán acreditar el impuesto al valor agregado y, en su caso, el impuesto especial sobre producción y servicios, cuando:
+I. Únicamente podrán acreditar el impuesto al valor agregado y, en su caso, el impuesto especial sobre producción y servicios, cuando:
 
 a) El importador haya dado el aviso a que se refiere el párrafo cuarto del artículo 85 de la Ley, o
 
@@ -1157,7 +1287,7 @@ Las maquiladoras o empresas con programas de exportación autorizados por la Sec
 
 I. Corregir espontáneamente sus pedimentos de importación temporal, para destinar a dicho régimen las mercancías que no hubieran declarado en los pedimentos, sin que deban pagar las contribuciones o cuotas compensatorias respectivas, y
 
-II. Calcular el margen de error señalado en la fracción l del artículo 99 de la Ley, dividiendo el monto total de las contribuciones y cuotas compensatorias determinadas por el importador, mediante las rectificaciones espontáneas realizadas con posterioridad al despacho de las mercancías en el ejercicio de que se trate, entre el monto que resulte de sumar a dichas contribuciones y cuotas compensatorias, el total de las contribuciones declaradas en los pedimentos de importación temporal efectuados en el mismo ejercicio que no hubieran sido objeto de reconocimiento, segundo reconocimiento, verificación de mercancías en transporte o visitas domiciliarias.
+II. Calcular el margen de error señalado en la fracción I del artículo 99 de la Ley, dividiendo el monto total de las contribuciones y cuotas compensatorias determinadas por el importador, mediante las rectificaciones espontáneas realizadas con posterioridad al despacho de las mercancías en el ejercicio de que se trate, entre el monto que resulte de sumar a dichas contribuciones y cuotas compensatorias, el total de las contribuciones declaradas en los pedimentos de importación temporal efectuados en el mismo ejercicio que no hubieran sido objeto de reconocimiento, segundo reconocimiento, verificación de mercancías en transporte o visitas domiciliarias.
 
 En los casos en que el porcentaje determinado en los términos de la fracción II del artículo 99 de la Ley, sea mayor que el porcentaje del margen de error que resulte conforme a la fracción II de este artículo, se sujetarán a lo dispuesto por la fracción III del artículo 99 de la Ley. El pago a que se refiere este párrafo no convertirá la importación temporal en definitiva.
 
@@ -1700,3 +1830,19 @@ Tercero. A partir de la entrada en vigor de este Reglamento quedan sin efectos l
 Cuarto. La actualización de las cantidades a que se refiere el artículo 2o. de este Reglamento, se efectuará a partir del 1o. de enero de 1997.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los tres días del mes de junio de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.- El Secretario de la Defensa Nacional, Enrique Cervantes Aguirre.- Rúbrica.- El Secretario de Marina, José Ramón Lorenzo Franco.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Guillermo Ortiz.- Rúbrica.- La Secretaria de Medio Ambiente, Recursos Naturales y Pesca, Julia Carabias Lillo.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.- El Secretario de Agricultura, Ganadería y Desarrollo Rural, Francisco Labastida Ochoa.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Carlos Ruiz Sacristán.- Rúbrica.- La Secretaria de Turismo, Silvia Hernández Enríquez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO</small>
+
+D.O.F. 18 DE OCTUBRE DE 1999.
+
+Primero. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los activos que a la fecha de entrada en vigor del presente Decreto, se utilicen para la prestación de los servicios de procesamiento electrónico de datos y servicios relacionados, se afectarán al fideicomiso que se constituya en los términos del artículo 10-I de este Reglamento.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 18 DE OCTUBRE DE 1999.
+
+Primero. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los activos que a la fecha de entrada en vigor del presente Decreto, se utilicen para la prestación de los servicios de procesamiento electrónico de datos y servicios relacionados, se afectarán al fideicomiso que se constituya en los términos del artículo 10-I de este Reglamento.
