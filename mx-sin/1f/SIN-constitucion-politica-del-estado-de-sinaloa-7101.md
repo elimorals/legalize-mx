@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1981-01-02"
+last_updated: "1983-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 1983.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -181,17 +181,15 @@ Ninguna autoridad podrá impedir ni estorbar la verificación de las elecciones,
 
 El Estado de Sinaloa adopta para su régimen interior, la forma de gobierno republicano, representativo y popular, teniendo como base de su división territorial, y de su organización política y administrativa, el Municipio libre.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JUNIO DE 1983)</small>
 
 ###### Art. 18.
 
-El Territorio del Estado se divide política y administrativamente como sigue:
+El territorio del Estado, se divide política y administrativamente como sigue:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1962)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1983)</small>
 
-I. En diecisiete Municipalidades autónomas, a saber:
-
-Choix, El Fuerte, Ahome, Sinaloa, Guasave, Mocorito, "Salvador Alvarado", Angostura, Badiraguato, Culiacán, Cosalá, Elota, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa, con la extensión y límites que les corresponda.
+I. En 18 Municipalidades autónomas a saber: Ahome, Fuerte, Choix, Guasave, Sinaloa, Angostura, Salvador Alvarado, Mocorito, Badiraguato, Culiacán, Navolato, Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa, con la extensión y límites que les correspondan.
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1953)</small>
 
@@ -2026,3 +2024,9 @@ Estas reformas entrarán en vigor el día de su publicación en el Periódico Of
 ###### ARTICULO SEGUNDO.
 
 Hasta en tanto se promulgan la Ley Orgánica de la Administración Pública y su Reglamento respectivo, y en lo que no contravenga a las presentes reformas, continuará aplicándose la Ley Orgánica del Poder Ejecutivo del Estado de Sinaloa, vigente.
+
+P.O. 22 DE JUNIO DE 1983.
+
+###### ARTICULO UNICO.
+
+El Presente Decreto empezará a surtir sus efectos a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
