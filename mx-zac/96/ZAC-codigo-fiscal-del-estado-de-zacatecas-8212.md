@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-fiscal-del-estado-de-zacatecas-8212"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-12-29"
-last_updated: "1984-12-29"
+last_updated: "1988-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO FISCAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ENERO DE 1988.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 29 de diciembre de 1984.
 
@@ -43,7 +43,7 @@ CONSIDERANDO TERCERO.- Que asimismo pretende adecuar con la realidad social una 
 
 CONSIDERANDO CUARTO.- Que el proyecto de Código Fiscal está orientado a lograr un sistema Fiscal más justo y equitativo con el fin de imprimir mayor eficacia a la Administración tributaria, redoblando esfuerzos en la asistencia a los contribuyentes para facilitarles el correcto cumplimiento de sus obligaciones fiscales.
 
-CONSIDERANDO QUINTO.- Que el Proyecto de Código Fiscal del Estado, tiene como característica principal fortalecer las relaciones de las autoridades fiscales con los contribuyentes, ajustándolo a las necesidades del presente, consientes de que la legislación tributaria debe ser siempre a expresión de la política social y económica.
+CONSIDERANDO QUINTO.- Que el Proyecto de Código Fiscal del Estado, tiene como característica principal fortalecer las relaciones de las autoridades fiscales con los contribuyentes, ajustándolo a las necesidades del presente, consciente de que la legislación tributaria debe ser siempre a expresión de la política social y económica.
 
 CONSIDERANDO SEXTO.- Que en el Proyecto de Código Fiscal para el Estado de Zacatecas, se está utilizando como factor de cuantificación la cuota que se ha definido como el Salario Mínimo general diario en el Estado a fin de hacer más dinámico y acorde a las condiciones socio-económicas la legislación tributaria, a la vez que unificar estas disposiciones, con las del Código Penal del Estado.
 
@@ -89,7 +89,9 @@ Son contribuciones de mejoras las aportaciones en dinero que el poder público s
 
 Son participaciones los ingresos que obtenga el Estado provenientes del Gobierno Federal conforme a lo establecido en la Ley de Coordinación Fiscal.
 
-###### ARTICULO 9o.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1988)</small>
+
+###### ARTICULO 9.
 
 Son Leyes Fiscales del Estado:
 
@@ -101,7 +103,7 @@ Son Leyes Fiscales del Estado:
 
 4.- El Presupuesto de Egresos.
 
-5.- La Ley Orgánica de la Secretaría de Finanzas.
+5.- El Reglamento Interior de la Secretaría de Finanzas.
 
 6.- Ley General de Coordinación del Estado de Zacatecas y sus Municipios.
 
@@ -189,7 +191,9 @@ La Secretaría de Finanzas, fijará el término para su otorgamiento en los caso
 
 ### CAPITULO PRIMERO. De las Autoridades Fiscales
 
-###### ARTICULO 25o.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 1988)</small>
+
+###### ARTICULO 25.
 
 Son autoridades fiscales del Estado:
 
@@ -199,13 +203,13 @@ Son autoridades fiscales del Estado:
 
 3.- El Director de Ingresos.
 
-4.- El Jefe del Departamento de Fiscalización.
+4.- El Director de Catastro y Registro Público.
 
-5.- El Jefe del Departamento de Liquidación.
+5.- El Jefe del Departamento de Recaudación.
 
-6.- El Jefe del Departamento de Ingresos Coordinados.
+6.- El Jefe del Departamento de Fiscalización.
 
-7.- El Jefe del Departamento de Ingresos Estatales.
+7.- El Jefe del Departamento Técnico de Ingresos.
 
 8.- Los Recaudadores de Rentas.
 
@@ -309,7 +313,7 @@ E)Cuando las informaciones que se obtengan de clientes, proveedores o terceros, 
 
 En el caso de que los contribuyentes se coloquen en alguna de las causales de estimativa anteriores, se presumirá, salvo que comprueben su ingreso por el periodo respectivo, que el ingreso es igual al resultado de alguna de las siguientes operaciones:
 
-1.- Si con base en la contabilidad y documentación del contribuyente, información de terceros y cualquier otro medio pudieran reconstruirse las operaciones normales correspondientes cuando menos a treinta días, el ingreso diarios (sic) promedio que resulte se multiplicará por el número de días que corresponda al periodo objeto de la revisión;
+1.- Si con base en la contabilidad y documentación del contribuyente, información de terceros y cualquier otro medio pudieran reconstruirse las operaciones normales correspondientes cuando menos a treinta días, el ingreso diarios (sic) promedio que resulte se multiplicará por el número de días que corresponda al periodo objeto de la revisión:
 
 2.- Si la contabilidad y documentación del contribuyente no permite reconstruir las operaciones de treinta días, la autoridad fiscal tomará como base los ingresos que observe durante tres días de operaciones normales y el promedio diario resultante se multiplicará por el número de días que comprenda el periodo objeto de revisión.
 
@@ -1189,8 +1193,6 @@ Igual pena y la de inhabilitación para ocupar el cargo o empleo público se imp
 
 ### CAPITULO QUINTO. Violación de Sellos o Marcas Fiscales
 
-VIOLACION DE SELLOS O MARCAS FISCALES.
-
 ###### ARTICULO 127o.
 
 Comete el delito de violación de sellos o marcas fiscales quien quebrante o destruya los sellos o marcas oficiales colocados con finalidad fiscal o impida por medio de cualquier maniobra que se logre el propósito para el que fueron colocados.
@@ -1481,7 +1483,7 @@ El depositario interventor que tuviere conocimiento de irregularidades en el man
 
 ###### ARTICULO 170o.
 
-Si las medidas urgentes que dicten los depositarios inventores (sic) en los casos previstos en el artículo anterior, no fueren atendidas por el deudor o el personal de la negociación secuestrada, o si el fisco lo considera conveniente, la oficina recaudadora ordenará que el depositario interventor se convierta en administrador o sea sustituido por el depositario administrador, quien tomará posesión de su encargo de inmediato.
+Si las medidas urgentes que dicten los depositarios inventores(sic) en los casos previstos en el artículo anterior, no fueren atendidas por el deudor o el personal de la negociación secuestrada, o si el fisco lo considera conveniente, la oficina recaudadora ordenará que el depositario interventor se convierta en administrador o sea sustituido por el depositario administrador, quien tomará posesión de su encargo de inmediato.
 
 ###### ARTICULO 171o.
 
@@ -1838,3 +1840,9 @@ LIC. JOSE GUADALUPE CERVANTES CORONA.
 EL DIRECTOR GENERAL DE GOBIERNO.
 
 LIC. RAUL RODRIGUEZ SANTOYO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 9 DE ENERO DE 1988.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
