@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-6631"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "2002-06-12"
+last_updated: "2002-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -4789,59 +4789,55 @@ Cada año, durante el mes de enero, la Secretaría de Finanzas, Presentará al J
 
 ### CAPITULO III (SIC). PRODUCTOS DE PUBLICACIONES
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+(REFORMADO, P.O. 14 DE AGOSTO DE 2002) (F. DE E., P.O. 14 DE AGOSTO DE 2002)
 
 ###### ARTICULO 447.
 
-Por los servicios de publicaciones que preste el Gobierno del Estado, se pagarán las cuotas siguientes:
+Por los servicios de publicaciones que preste el Gobierno del Estado, a través del Boletín Judicial y el Periódico Oficial del Estado "Tierra y Libertad", se pagarán las cuotas siguientes:
+
+I.- Del Boletín Judicial.
 
 A).- Venta de ejemplares.
 
-I.- Boletín judicial.
+1.- Suscripción semestral SMV 14.3603
 
-1.- Suscripción semestral $25,000.00
+2.- Ejemplar de la fecha SMV 0.1306
 
-2.- Ejemplar de la fecha $500.00
+3.- Ejemplar atrasado del año SMV 0.2610
 
-3.- Ejemplar atrasado del año $1,000.00
+4.- Ejemplar de años anteriores SMV 0.5222
 
-4.- Ejemplar de años anteriores $2,000.00
+B).- Inserciones: Publicaciones de edictos, avisos, convocatorias, y otros que se autoricen. SMV
 
-B).- Inserciones: Publicaciones de edictos, convocatorias, avisos etc.
+1.- De las Autoridades Judiciales, Entidades del Gobierno del Estado y los Gobiernos Municipales, por cada palabra SMV 0.0104
 
-1).- De las autoridades judiciales, gobierno del Estado y municipales, por cada palabra $40.00
+Los ingresos que se generen por estas cuotas se administrarán por el Consejo de la Judicatura Estatal para cubrir los gastos del Boletín Judicial, conforme a las disposiciones de la Ley Orgánica del Poder Judicial del Estado de Morelos.
 
-Estos ingresos se administrarán por el tribunal superior de justicia, para cubrir los gastos de (sic) boletín.
-
-I.- Periódico Oficial “Tierra y Libertad”.
+II.- Del Periódico Oficial ''Tierra y Libertad''.
 
 A).- Venta de ejemplares.
 
-1).- Inscripción semestral $50,000.00
+1).- Suscripción semestral SMV 5.2220
 
-2).- Ejemplar de la fecha $1,000.00
+2).- Ejemplar de la fecha SMV 0.1306
 
-3).- Ejemplar atrasado del año $2,000.00
+3).- Ejemplar atrasado del año SMV 0.2610
 
-4).- Ejemplar de años anteriores $3,000.00
+4).- Ejemplar de años anteriores SMV 0.3916
 
-5).- Ejemplar de edición especial
+5).- Ejemplar de edición especial por la publicación de Leyes o reglamentos e índice anual SMV 0.6527
 
-por la publicación de leyes o
+B).- INSERCIONES: Publicaciones especiales, edictos, licitaciones, convocatorias, avisos y otros que se autoricen:
 
-reglamentos $5,000.00
+1).- De Entidades de la Administración Pública, Federal, Estatal o Municipal y Autoridades Judiciales,
 
-B).- INSERCIONES: Publicaciones de edictos, convocatorias, avisos, etc.
+Por cada palabra y no más de $ 1,000.00 por plana. SMV 0.0130
 
-1).- De las autoridades judiciales,
+Por cada Plana SMV 26.1096
 
-gobierno del estado y municipales,
+2).- De particulares, por cada palabra SMV 0.0522
 
-por cada palabra $150.00
-
-2).- De particulares, por cada
-
-palabra $200.00
+No se pagará la tarifa de publicaciones a que se refiere éste artículo, cuando se trate de ordenamientos expedidos por los Poderes Legislativo, Ejecutivo y Judicial, obedezcan a los actos administrativos a que expresamente estén facultados y sean de carácter general y de interés público. Igualmente, no se pagarán la tarifa de publicaciones dispuesta en el presente artículo, cuando la Ley Orgánica Municipal del Estado de Morelos, establezca a los Gobiernos Municipales, publicar sus disposiciones de observancia general en el Periódico Oficial, para obtener vigencia.
 
 ###### ARTICULO 448.
 
@@ -5176,3 +5172,21 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
+
+P.O. 14 DE AGOSTO DE 2002.
+
+DECRETO NUMERO 649
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado, "Tierra y Libertad".
+
+SEGUNDO.- Se derogan todas las disposiciones contrarias al presente Decreto.
+
+P.O. 14 DE AGOSTO DE 2002.
+
+ADENDUM AL DECRETO NUMERO 649
+
+PRIMERO.- Remítase el presente Decreto para su inmediata publicación en el Periódico Oficial del Estado, "Tierra y Libertad".
+
+SEGUNDO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Se derogan todas las disposiciones contrarias al presente Decreto.
