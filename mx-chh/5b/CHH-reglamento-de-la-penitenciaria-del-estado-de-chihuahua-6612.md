@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-la-penitenciaria-del-estado-de-chihuahua-6612"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-05-25"
-last_updated: "1998-06-06"
+last_updated: "2003-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 REGLAMENTO DE LA PENITENCIARIA DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2003.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 25 de mayo de 1996.
 
@@ -561,15 +561,15 @@ II.- Concesión extraordinaria de comunicaciones y visitas.
 
 III.- Empleo en comisiones auxiliares de confianza sin que esto implique, en modo alguno la asunción de funciones autoritarias por parte de los reclusos. En todo caso dichas comisiones tendrán el carácter de temporal.
 
-###### ARTICULO 63.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2003)</small>
 
-Los internos deben presentarse puntualmente a pasar las listas ordinarias previstas en este reglamento y las extraordinarias que acuerde la Dirección. Quedan sujetos a registros y cateos, los que se harán en forma que no resulten humillantes y sin hacer uso de la violencia, salvo que sea estrictamente indispensable. Se deben observar los horarios fijados en lo que respecta al desarrollo de actividades y a la permanencia en las diversas secciones del establecimiento.
+###### Artículo 63.
 
-Independientemente de los objetos a que se refiere el párrafo siguiente, los internos no podrán poseer objetos cuya naturaleza sea potencialmente lesiva, aquellos cuyo uso pueda afectar la seguridad del establecimiento, quedando también prohibida la introducción, consumo, posesión o comercio de bebidas alcohólicas, estupefacientes, psicotrópicos y substancias tóxicas.
+Los internos deben presentarse puntualmente a pasar las listas ordinarias previstas en este reglamento y las extraordinarias que acuerde la Dirección. Quedan sujetos a registros y cateos, los que se harán en forma que no resulten humillantes y sin hacer uso de la violencia, salvo que sea estrictamente indispensable. Se deben observar los horarios fijados en los que respecta al desarrollo de actividades y a la permanencia en las diversas secciones del establecimiento.
 
-Los internos no podrán poseer o usar: Parrillas eléctricas o estufas de cualquier tipo, televisores con dimensiones superiores a 12 pulgadas, radiogravadoras con dimensiones superiores a 14 pulgadas, teléfonos celulares, radios de comunicación, refrigeradores, lámparas de mano, tijeras, cámaras fotográficas o de video, joyas y alhajas, máquinas para tatuar, cucharas, cuchillos o tenedores, navajas, pelucas, ropa de mujer o cosméticos, estos dos últimos se exceptuan en el centro femenil. De igual manera queda prohibido el uso de calentones ambientales de cualquier tipo, cobertores eléctricos, llaves y candados, ropa militar y zapatos de punta de fierro, prendas de vestir parecidas o similares a los uniformes del personal de la institución. Tampoco se permitirá poseer substancias en aerosol, substancias inflamables o combustibles de cualquier tipo, productos de fácil fermentación, máquinas de escribir o computadoras, así como herramienta de cualquier tipo no autorizada por la Dirección.
+Los internos podrán poseer; dentro del módulo asignado durante su estadía en el establecimiento, los objetos que hayan sido autorizados en el catálogo de objetos y costos por la Dirección de Gobernación y deberán de cubrir, como contraprestación, ante las oficinas de Recaudación de Rentas de la Secretaría de Finanzas y Administración del Gobierno del Estado, el costo asignado en el catálogo antes señalado. Los objetos personales de los internos no causarán gravamen alguno en favor del establecimiento. En todo caso, será la Dirección de Gobernación, a través del Departamento de Prevención Social, quien dictaminará cuáles internos podrán acceder a dicho beneficio.
 
-Los internos se abstendrán de poseer cualesquier artículo prohibido en este reglamento, así como los medicamentos controlados por el servicio médico; no podrán disponer en ninguna forma sin permiso de la autoridad correspondiente, de la maquinaria, herramientas, utensilios o artículos en general, pertenecientes al establecimiento, o que se encuentren en este, bajo control de las autoridades del mismo, y no deberán modificar sin expresa autorización superior, el alojamiento que se les hubiese asignado. Ni permutar o cambiarse del mismo sin la previa autorización de la Dirección.
+Los internos se abstendrán de poseer cualesquier artículo prohibido en este reglamento, así como los medicamentos controlados por el servicio médico; no podrán disponer en ninguna forma, sin permiso de la autoridad Correspondiente, de la maquinaria, herramientas, .utensilios o artículos en general, pertenecientes al establecimiento, o que se encuentren en éste, bajo control de las autoridades del mismo, y no deberán modificar, sin expresa autorización superior, el alojamiento que se les hubiese asignado, ni permutar o cambiarse del mismo si la previa autorización de la Dirección.
 
 No se permitirá colocar en las habitaciones objetos que impidan u obstaculicen la vista del exterior.
 
@@ -884,3 +884,11 @@ EFE (SIC) DEL DEPTO. DE GOBERNACION
 P.O. 6 DE JUNIO DE 1998.
 
 Estas adiciones al Reglamento entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE ENERO DE 2003.
+
+PRIMERO.- Este acuerdo entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Departamento de Prevención Social, dependiente de la Dirección de Gobernación de la Secretaría General de Gobierno, en un término de 45 días hábiles contados a partir del día siguiente de la publicación del presente acuerdo, pondrá a consideración de la Dirección de Gobernación, para su aprobación, el catálogo de artículos y costos a que hace referencia el párrafo tercero del artículo 63 del Reglamento de la Penitenciaría del Estado de Chihuahua.
+
+TERCERO.- Publíquese el presente Acuerdo en el Periódico Oficial del Estado.
