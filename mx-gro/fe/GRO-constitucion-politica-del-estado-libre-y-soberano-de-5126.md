@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1944-07-05"
+last_updated: "1944-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1944.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -175,13 +175,11 @@ La Capital del Estado es la Ciudad de Chilpancingo de los Bravos, donde deben re
 
 ###### Artículo 16.
 
-El Territorio del Estado comprende el que le señaló la Ley de su creación, con la modificación contenida en el Decreto Número 1 de 23 de marzo de 1907, relativo al arreglo de límites con el vecino Estado de Michoacán.
+El Territorio del Estado comprende el que le señala la Ley de su creación, con la modificación contenida en el Decreto número 1 de 23 de marzo de 1907, relativo al arreglo de límites con el vecino Estado de Michoacán.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1935)</small>
+Se divide en las siguientes Municipalidades: Ometepec, Igualapa, Xochistlahuaca, Tlacoachixtlahuaca, Cuajinicuilapa, Taxco de Alarcón, Tetipac, Pilcaya, Teloloapan, Cuetzala del Progreso, Arcelia, Ixcateopan, Pedro Ascencio Alquisiras, Apaxtla, Ayutla de los Libres, Cuautepec, Copala, San Luis Acatlán, Azoyú, Florencio Villarreal, Chilapa, Atlixtac, Ahuacuotzingo, Zitlala, Chilpancingo de los Bravo, Zumpango del Río, Leonardo Bravo, Tlacotepec, Tecpan de Galeana, Atoyac de Alvarez, Benito Juárez, Tixtla de Guerrero, Mártir de Cuilapan, Mochitlán, Quechultenango, Iguala, Tepecoacuilco de Trujano, Cocula, Huitzuco de los Figueroa, Buena Vista de Cuéllar, Atenango del Río, Coyuca de Catalán, Zirándaro, Ajuchitlán del Progreso, San Miguel Totolapan, Pungarabato, Cutzamala de Pinzón, Tlalchapa, La Unión, Coahuayutla, Petatlán, Tlapa, Copanatoyac, Atlamajalcingo del Monte, Alcozauca de Guerrero, Zapotitlán Tablas, Tlalixtaquilla, Tlacuapa, Malinaltepec, Xalpatlahuac, Acapulco de Juárez, Coyuca de Benítez, San Marcos, Tecoanapa, Huamuxtitlán, Alpoyeca, Xochihuehuetlán, Cualac y Olinalá.
 
-Se divide en las siguientes Municipalidades: Ciudad Bravos, Chichihualco, (Leonardo Bravo), Zumpango del Río, Tlacotepec, Mochitlán, Quechultenango, Acapulco, Chilapa, Atlixtac, Ahuacuotzingo, Zitlala, Tixtla, Apango (Mártir de Cuilapan), Iguala, Cocula, Tepecoacuilco, Huitzuco, Copalillo, Atenango del Río, Teloloapan, Arcelia, San Miguel Totolapan, Cuetzala del Progreso, Apaxtla, Taxco de Alarcón, Itzcapuzalco, Ixcateopan, Tetipac, Pilcaya, Coyuca de Catalán, Tlalchapa, Cutzamala de Pinzón, Zirándaro, Pungarabato, Ajuchitlán, Tlapa, Tlacuapa, Zapotitlán Tablas, Tenango Tepexi, Copanatoyac, Atlamajalcingo del Monte, San Vicente Zoyatlán, Alcozauca de Guerrero, Metlatonoc, Xalpatlauhac, Malinaltepec, Huamuxtitlán, Xochihuehuetlán, Olinalá, Alpoyeca, Cualac, Ometepec, Xochistlahuaca, Tlacoachixtlahuaca, Ayutla, Cuautepec, Copala, Cruz Grande, San Marcos, Tecoanapa, Azoyú, Igualapa, Cuajinicuilapa, San Luis Acatlán, La Unión, Coahuayutla, Atoyac de Alvarez, Tecpan de Galeana, Coyuca de Benítez y Benito Juárez y Petatlán.
-
-Las Municipalidades expresadas, conservan la integridad territorial que hasta ahora han reconocido, a reserva de ampliarla o reducirla y de suprimir las que no tengan viabilidad, según lo exijan los intereses generales del Estado.
+Las Municipalidades expresadas conservarán la integridad territorial que se señala en la Ley Orgánica de División Territorial del Estado.
 
 ###### Artículo 17.
 
@@ -839,9 +837,11 @@ II. Los Juzgados de Primera Instancia.
 
 III. Los Juzgados Menores.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1944)</small>
+
 ###### Artículo 85.
 
-Los Jueces menores serán nombrados a mayoría de votos por los Ayuntamientos cesantes en la penúltima sesión de sus respectivas jurisdicciones. Estos funcionarios independientes de toda ocupación administrativa se dedicarán exclusivamente al despacho de los negocios de naturaleza judicial.
+Los Jueces Menores Propietarios y Suplentes, serán nombrados por el Tribunal Superior de Justicia, a propuesta en terna hecha por los Ayuntamientos. Estos funcionarios independientes de toda ocupación administrativa, se dedicarán exclusivamente al despacho de los negocios de naturaleza judicial de su competencia.
 
 ###### Artículo 86.
 
@@ -1013,7 +1013,7 @@ De los derechos y obligaciones de los Ciudadanos del Estado, y casos en que se s
 
 Del Municipio como base de la división territorial del Estado, y su organización política y administrativa de los Distritos.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1934)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1944)</small>
 
 ### CAPITULO II.
 
@@ -1286,3 +1286,23 @@ P.O. 5 DE JULIO DE 1944.
 ###### ARTICULO UNICO
 
 - El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE DICIEMBRE DE 1944.
+
+DECRETO NUMERO 58.
+
+###### ARTICULO UNICO
+
+- Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE DICIEMBRE DE 1944.
+
+DECRETO NUMERO 60.
+
+###### ARTICULO 1º.
+
+Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado, a fin de que, en lo sucesivo, los Jueces Menores como integrantes del Poder Judicial Local, inicien sus labores en la renovación judicial del mes de mayo del año entrante, los actuales Jueces Menores continuarán en sus cargos hasta el próximo día último de abril del mismo año.
+
+###### ARTICULO 2º.
+
+Se derogan todas las Leyes anteriores en la parte que se opongan a la presente.
