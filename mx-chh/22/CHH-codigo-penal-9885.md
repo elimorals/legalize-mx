@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-9885"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-03-04"
-last_updated: "2001-02-24"
+last_updated: "2001-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 CODIGO PENAL
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO Y SEGUNDO DEL DECRETO NUMERO 797/01 V P.E., APROBADO POR LA QUINCUAGESIMA NOVENA H. LEGISLATURA DEL ESTADO, PUBLICADO EN EL P.O. DE 24 DE FEBRERO DE 2001, EL PRESENTE CODIGO FUE MODIFICADO EN SU TOTALIDAD, MOTIVO POR EL CUAL SE PRESENTA EL TEXTO PUBLICADO EN LA FECHA SEÑALADA.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2001.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de marzo de 1987.
 
@@ -3335,7 +3333,7 @@ ES APLICABLE AL DELITO DE ADMINISTRACION FRAUDULENTA, LAS PENAS ESTABLECIDAS EN 
 
 AL QUE OBLIGUE A OTRO A HACER, TOLERAR O DEJAR DE HACER ALGO, CAUSANDO UN DAÑO O PERJUICIO PATRIMONIAL, SE LE APLICARA DE UNO A OCHO AÑOS DE PRISION Y MULTA DE TREINTA A OCHENTA VECES EL SALARIO.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2001)</small>
 
 ### CAPITULO VIII. DELITO DE USURA
 
@@ -3460,6 +3458,8 @@ IGUALMENTE SE REQUERIRA QUERELLA PARA LA PERSECUCION DE TERCEROS QUE HUBIESEN CO
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2001)</small>
 
 ## TITULO DECIMO NOVENO. DELITOS ELECTORALES
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2001)</small>
 
 ### CAPITULO UNICO. DELITOS ELECTORALES
 
@@ -3608,8 +3608,6 @@ SE IMPONDRA PRISION DE DOS A NUEVE AÑOS, AL FUNCIONARIO PARTIDISTA O A LOS ORGA
 ###### ARTICULO 304.
 
 LOS RESPONSABLES DE LOS DELITOS CONTENIDOS EN ESTE TITULO, POR HABER ACORDADO, CONCERTADO O PREPARADO SU REALIZACION EN LOS TERMINOS DEL ARTICULO 18 FRACCION I DE ESTE CODIGO, NO PODRAN GOZAR DEL BENEFICIO DE LA LIBERTAD PROVISIONAL.
-
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2001)</small>
 
 ## ARTICULOS TRANSITORIOS
 
@@ -3777,6 +3775,12 @@ El Poder Ejecutivo del Estado, deberá expedir el reglamento correspondiente en 
 
 P.O. 24 DE FEBRERO DE 2001.
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2001)</small>
+
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor noventa días después de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor 180 días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE MAYO DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
