@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-la-comision-de-derechos-humanos-del-estado-de-13303"
 country: "mx"
 rank: "ley"
 publication_date: "1993-01-27"
-last_updated: "1993-01-27"
+last_updated: "1999-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTI MA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 1999.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 27 de enero de 1993.
 
@@ -89,9 +89,11 @@ LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1999)</small>
+
 ###### ARTICULO 1o.
 
-Esta Ley es de orden público, y de aplicación en todo el territorio del Estado de Zacatecas en materia de derechos humanos, respecto de los mexicanos y extranjeros que se encuentre en la Entidad, en los términos establecidos por los artículos 1o. y 2o. de la Constitución Política del Estado.
+Esta ley es de orden público, y de aplicación en todo el territorio del Estado de Zacatecas en materia de derechos humanos, respecto de los mexicanos y extranjeros que se encuentren en la Entidad, en los términos establecidos por la Constitución Política del Estado.
 
 ###### ARTICULO 2o.
 
@@ -113,9 +115,11 @@ La Comisión por ningún motivo podrá examinar cuestiones jurisdiccionales de f
 
 Cuando en un mismo hecho, estuvieren involucrados tanto autoridades o servidores públicos de la Federación como del Estado o sus municipios, la competencia corresponderá a la Comisión Nacional de Derechos Humanos, de conformidad con el artículo 60 de la Ley que rige a este organismo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 1999)</small>
+
 ###### ARTICULO 6o.
 
-Para los efectos de esta Ley se reputan servidores públicos los señalados en los artículos 3o, 4o y 5o de la Ley del Servicio Civil del Estado.
+Para los efectos de esta ley se reputan servidores públicos los señalados en la Constitución Política del Estado y las leyes que de ella emanan.
 
 Por superior jerárquico se entiende al titular de la dependencia correspondiente; y, por superior inmediato, al servidor público del cual depende, reporta o recibe órdenes el presunto infractor, de acuerdo a la estructura orgánica de la dependencia de que se trate.
 
@@ -175,7 +179,7 @@ XIII. Formular programas y proponer acciones en coordinación con las dependenci
 
 XIV. Proponer al Ejecutivo Estatal los Instrumentos Jurídicos, Administrativos, Sociales, Educativos, Culturales o de naturaleza análoga que tengan por propósito promover, prevenir y salvaguardar en el Estado los derechos humanos;
 
-XV. Expedir su Reglamento Interior, y manuales de organización y de procedimientos;
+XV. Expedir su Reglamento Interior, y manuales de organización y de procedimientos.
 
 XVI. La Comisión pondrá especial interés en la asistencia y protección de los Sectores Sociales más desprotegidos. En particular de los menores, mujeres, ancianos y discapacitados. La defensa del Sistema Ecológico así como los derechos de los campesinos y etnias serán igualmente prioritarios;
 
@@ -215,9 +219,11 @@ d) No tener parentesco de consanguinidad hasta el tercer grado, con el Gobernado
 
 e) No haber sido Dirigente de Partido Político, ni Ministro de Culto Religioso alguno, en los últimos cinco años anteriores a la elección.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1999)</small>
+
 ###### ARTICULO 12.
 
-El Presidente de la Comisión, será designado por la Legislatura del Estado, o si ésta estuviere en receso, por la Comisión Permanente, de una terna que formule el Gobernador del Estado.
+El Presidente de la Comisión, será designado por la Legislatura, de una terna que le formulen las fracciones parlamentarias representadas en la propia Legislatura.
 
 ###### ARTICULO 13.
 
@@ -231,9 +237,11 @@ Las funciones del Presidente, del Secretario y de los Visitadores son incompatib
 
 El Presidente de la Comisión y los Visitadores no podrán ser privados de su libertad, ni sujetos a responsabilidad civil, penal o administrativa, por las opiniones y recomendaciones que formulen, o por los actos que realicen en ejercicio de las atribuciones que les asigna esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 1999)</small>
+
 ###### ARTICULO 16.
 
-El Presidente de la Comisión podrá ser destituido y, en su caso, sujeto a responsabilidad, sólo por las causas y mediante los procedimientos establecidos en el Título IX de la Constitución Política del Estado. En ese supuesto, el Presidente será sustituido interinamente por el Secretario Ejecutivo hasta que se designe nuevo Presidente de la Comisión.
+El Presidente de la Comisión podrá ser destituido y, en su caso, sujeto a responsabilidad, sólo por las causas y mediante los procedimientos establecidos en la Constitución Política del Estado. En ese supuesto, el Presidente será sustituido interinamente por el Secretario Ejecutivo hasta que se designe nuevo Presidente de la Comisión.
 
 En las faltas temporales del Presidente de la Comisión, será sustituido por el Secretario Ejecutivo. Si se tratare de falta absoluta del Presidente de la Comisión, ser (sic) sustituido interinamente por el Secretario Ejecutivo hasta que se designe nuevo Presidente, conforme a lo establecido en el artículo 12 de esta misma Ley.
 
@@ -281,9 +289,11 @@ El Consejo Consultivo estará integrado, además del Presidente, por siete perso
 
 A excepción de su Presidente, los cargos de miembros del Consejo serán honorarios, y durarán en su encargo cuatro años, pudiendo ser ratificados para otro periodo igual.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1999)</small>
+
 ###### ARTICULO 20.
 
-La designación de los miembros del Consejo, será hecha por la Legislatura del Estado a propuesta del Gobernador de la Entidad.
+La designación de los miembros del Consejo será hecha por la Legislatura a propuesta que le formulen los coordinadores de las fracciones parlamentarias representadas en la propia Legislatura.
 
 ###### ARTICULO 21.
 
@@ -615,9 +625,11 @@ Además de las denuncias sobre los delitos y faltas administrativas en que pueda
 
 ## TITULO QUINTO. DEL REGIMEN LABORAL
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1999)</small>
+
 ###### ARTICULO 70.
 
-Los integrantes de la Comisión se consideran trabajadores de confianza, debido a las funciones que desempeñan y por tanto, les es aplicable lo que establecen los artículos 3, 4, 5, párrafo primero, 7 y 8 de la Ley del Servicio Civil del Estado de Zacatecas y las disposiciones que establecen los artículos que se contienen en el Título Sexto, Capítulo Segundo de la Ley Federal del Trabajo.
+Los integrantes de la Comisión se consideran trabajadores de confianza, debido a las funciones que desempeñan y por tanto, les es aplicable lo que establece para esta clase de trabajadores, la Ley del Servicio Civil del Estado de Zacatecas y las disposiciones relativas de la Ley Federal del Trabajo.
 
 ###### ARTICULO 71.
 
@@ -656,3 +668,9 @@ LIC. ARTURO ROMO GUTIERREZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. EUSTAQUIO DE LEON CONTRERAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE MARZO DE 1999.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
