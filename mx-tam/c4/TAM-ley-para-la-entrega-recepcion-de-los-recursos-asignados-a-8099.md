@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-entrega-recepcion-de-los-recursos-asignados-a-8099"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-27"
-last_updated: "1995-12-27"
+last_updated: "2003-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "TAM"
 ---
 # LEY PARA LA ENTREGA-RECEPCION DE LOS RECURSOS ASIGNADOS A LOS PODERES Y MUNICIPIOS DEL ESTADO DE TAMAULIPAS
 
-LA LEY PARA LA ENTREGA-RECEPCION DE LOS RECURSOS ASIGNADOS A LOS PODERES Y MUNICIPIOS DEL ESTADO DE TAMAULIPAS
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE DICIEMBRE DE 2003 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
-TEXTO ORIGINAL.
+LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES Y MUNICIPIOS DEL ESTADO DE TAMAULIPAS
+
+> <small>[N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO 383 POR EL CUAL SE EXPIDE LA LEY PARA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL PERIÓDICO OFICIAL EL 6 DE NOVIEMBRE DE 2003.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial DEL Estado de Tamaulipas, el 27 de diciembre de 1995.
 
@@ -236,3 +240,13 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 "SUFRAGIO EFECTIVO. NO REELECCION".
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO MANUEL CAVAZOS LERMA.- EL SECRETARIO GENERAL DE GOBIERNO.- JAIME RODRÍGUEZ INURRIGARRO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE NOVIEMBRE DE 2003.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley para la Entrega-Recepción de los Recursos Asignados a los Poderes y Municipios del Estado de Tamaulipas, expedida mediante Decreto número 545, de fecha 22 de diciembre de 1995, de la Quincuagésima Quinta Legislatura del Congreso del Estado, publicada en el Anexo al Periódico Oficial Número 103, de fecha 27 de diciembre de ese mismo año; y se derogan las disposiciones que se opongan a los preceptos del nuevo ordenamiento que se emite.
+
+Artículo Tercero.- Hasta en tanto sean elaborados y aprobados los formatos y las reglas e instrucciones para el registro de los recursos humanos, materiales y financieros que conforman los lineamientos a que se refiere el artículo 6° de esta ley, para el acto de entrega-recepción por los Organos de Control de los Poderes Legislativo y Judicial, así como de los Ayuntamientos y las entidades municipales, según corresponda, serán utilizados los emitidos y aprobados por el Organo del Poder Ejecutivo.
