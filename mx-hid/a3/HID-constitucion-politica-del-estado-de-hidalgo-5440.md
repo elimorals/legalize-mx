@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1981-12-31"
+last_updated: "1982-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 1982.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -625,15 +625,11 @@ Las resoluciones del Colegio Electoral, serán definitivas e irrevocables y ning
 
 #### SECCION III. DE LAS SESIONES
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1982)</small>
 
 ###### Artículo 38.
 
-El Congreso tendrá durante el año, dos períodos ordinarios de sesiones de la siguiente forma:
-
-El primero de iniciará el 15 de febrero y concluirá el 15 de mayo, excepto en el año en que concluya el último período para el que fue electa la Legislatura correspondiente en que terminará sus funciones el día último del mes de marzo, iniciándose el día 1o. de abril inmediato el primer período de sesiones de la nueva Legislatura.
-
-El segundo se iniciará el 1o. de octubre y concluirá el 31 de diciembre.
+El Congreso tendrá durante el año, dos períodos ordinarios de sesiones, como sigue: el primero se iniciará el primero de abril y concluirá el último de junio. El segundo comenzará el primero de octubre y terminará el treinta y uno de diciembre.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1021,7 +1017,9 @@ XXIII. Nombrar representantes del Estado para los negocios en los que éste teng
 
 XXIV. Cuidar de los distintos ramos de la administración, procurando que los caudales públicos estén siempre asegurados y se recauden e inviertan con arreglo a las Leyes;
 
-XXV. Concurrir ante el H. Congreso el día 15 de febrero de cada año, para dar cuenta del estado que guardan los diversos ramos de la administración pública;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1982)</small>
+
+XXV. Concurrir ante el H. Congreso el Día Primero de abril de cada año, para dar cuenta del estado que guardan los diversos ramos de la administración pública, excepto el último año del ejercicio constitucional, en el cual el informe del estado que guarda la administración pública, se hará el día primero de marzo;
 
 XXVI. Solicitar del Congreso autorización para el arreglo de los límites de la Entidad con Estados limítrofes, y una vez aprobado el arreglo por la Legislatura, dirigirse al Congreso de la Unión, para los efectos de dar cumplimiento a los artículos 72, fracción IV y 116 de la Constitución General de la República;
 
@@ -2104,6 +2102,10 @@ UNICO.- Este Decreto empezará a surtir sus efectos legales a partir del día si
 P.O. 31 DE DICIEMBRE DE 1981.
 
 UNICO.- Estas reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE MARZO DE 1982.
+
+UNICO: El presente decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### Artículo 3o.
 
