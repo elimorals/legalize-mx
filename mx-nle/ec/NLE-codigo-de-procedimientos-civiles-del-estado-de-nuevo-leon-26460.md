@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "1983-12-09"
+last_updated: "1983-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -319,23 +319,21 @@ Los exhortos que se remitan al extranjero o se reciban de él, se sujetarán en 
 
 Pueden los tribunales acordar que los exhortos y despachos que manden expedir se entreguen, para hacerlos llegar a su destino, a la parte interesada que hubiere solicitado la práctica de la diligencia, quien tendrá la obligación de devolverlos con lo que se practicare, si por su conducto se hiciere la devolución.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 49.
 
-Los jueces y magistrados podrán para mejor proveer:
+Para la consecución de la verdad y de la justicia, que constituyen interés fundamental y común de las partes y de la autoridad judicial ante quien se tramitan los procedimientos, los jueces en todo tiempo, con independencia de los elementos de convicción que rindan las partes, decretarán la práctica de cualquiera diligencia, la aportación o la ampliación de pruebas, que se estimen necesarias y conducentes a aquellos objetivos, sin más limitación que sean de las reconocidas por la Ley y que tengan relación con los hechos controvertidos.
 
-I.- Decretar que se traiga a la vista cualquier documento que crean conveniente para esclarecer el derecho de las partes, si no hubiere impedimento legal;
+Para el desahogo de la determinación que se adopte conforme al párrafo anterior, los jueces procederán de la manera más pertinente para lograr el propósito mencionado, cuidando siempre de conservar la igualdad de las partes y de no lesionar sus derechos.
 
-II.- Exigir confesión judicial a cualquiera de los litigantes sobre los hechos que estimen de influencia en la cuestión y no resulten probados;
+Contra la decisión que se tome con base en este artículo, no procede recurso alguno.
 
-III.- Decretar la práctica de cualquier reconocimiento o avalúo que reputen necesario.
-
-IV.- Traer a la vista cualesquiera autos que tengan relación con el pleito, si su estado lo permite.
-
-Al decretar y practicar las diligencias a que este artículo se refiere, los jueces y magistrados se ajustarán a las formalidades prescritas en este Código para la recepción de las pruebas. Las diligencias para mejor proveer sólo podrán decretarse por una sola vez dentro del término concedido por el artículo 259 de este Código. En este caso el término para sentenciar correrá de nuevo desde el siguiente día al en que hayan quedado practicadas las diligencias para mejor proveer.
+REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)
 
 ###### Artículo 50.
 
-Para los efectos de la fracción II del artículo anterior el juez o magistrado citará a quien deba declarar, para determinado día y hora, formulando el interrogatorio conforme al cual deba preguntarse al citado. Si no asistiere, se le señalará nuevo día y hora para que concurra a declarar, apercibido de que si no comparece se le tendrá por confeso en las preguntas del cuestionario respectivo.
+En los casos del artículo anterior, si el negocio se encuentra ya en estado de sentencia, el plazo para pronunciar ésta correrá de nuevo desde el siguiente día al en que se desahogue lo decretado.
 
 ### CAPITULO III
 
@@ -1555,9 +1553,11 @@ El litigante a quien se hubiere concedido el término extraordinario, será cond
 
 Las diligencias de prueba practicadas en otros juzgados en virtud de requerimiento del juez de los autos durante la suspensión del término, surtirán sus efectos mientras el juez requerido no tenga aviso para suspenderlas.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+
 ###### Artículo 259.
 
-Nunca concluye el término para el juez, quien, aún encontrándose el negocio en estado de sentencia, puede recibir todas las pruebas que crea necesarias para la aclaración de los hechos y sean de las comprendidas en el artículo 49.
+En los términos y para los efectos del artículo 49, los jueces nunca tendrán limitación temporal en materia de prueba.
 
 ### CAPITULO VII
 
@@ -6069,7 +6069,7 @@ P.O. 24 DE AGOSTO DE 1977.
 
 PRIMERO.- Las presentes reformas entrarán en vigor el día primero de diciembre del presente año.
 
-SEGUNDO.- Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
+SEGUNDO.-Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
 
 a).- Cada juzgado formulará el inventario de los citados asuntos.
 
@@ -6146,3 +6146,9 @@ P.O. 9 DE DICIEMBRE DE 1983.
 PRIMERO:- Todos los expedientes que se encuentren en trámite podrán acogerse al procedimiento establecido en este decreto.
 
 SEGUNDO:- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE DICIEMBRE DE 1983.
+
+###### ARTICULO UNICO
+
+- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
