@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-urbano-del-estado-de-jalisco-5817"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-13"
-last_updated: "2001-07-21"
+last_updated: "2001-07-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JULIO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 13 de julio de 1993.
 
@@ -407,17 +407,17 @@ IV. Participar, con la concurrencia de los ayuntamientos involucrados, en la ela
 
 V. Promover ante el Congreso del Estado la fundación de centros de población, con base en los proyectos contenidos en los respectivos programas y planes de desarrollo urbano;
 
-> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
 
-VI. Opinar sobre la congruencia de los programas y planes municipales de desarrollo urbano que aprueben los ayuntamientos;
+VI. Opinar sobre la congruencia de los programas y planes municipales de desarrollo urbano en el procedimiento y términos de su consulta pública;
 
-> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
 
-VII. Publicar los programas y planes municipales de desarrollo urbano;
+VII. Publicar el Programa Estatal de Desarrollo Urbano, los planes regionales de desarrollo urbano y los planes que ordenen y regulen a las zonas conurbadas;
 
-> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
 
-VIII. Ordenar la inscripción en el Registro Público de la Propiedad de los programas y planes de desarrollo urbano y todas aquellas resoluciones que de acuerdo con esta Ley, corresponda al Titular del Poder Ejecutivo disponer su publicación y que así lo ameriten;
+VIII. Ordenar la inscripción en el Registro Público de la Propiedad de los programas y planes de desarrollo urbano a que se refiere la fracción anterior y todas aquellas resoluciones que de acuerdo con esta Ley, corresponda al Titular del Poder Ejecutivo disponer su publicación y que lo ameriten;
 
 IX. Promover la coordinación de las políticas y prácticas del Registro Público de la Propiedad y del Catastro, para hacer efectivas las disposiciones expedidas a fin de ordenar y regular los centros de población, expresadas en los programas y planes de desarrollo urbano;
 
@@ -527,13 +527,13 @@ VI. Promover los estudios que sustenten las propuestas para establecer la region
 
 VII. Participar en forma conjunta con los ayuntamientos involucrados, conforme a las disposiciones de esta Ley y los respectivos convenios de coordinación, en la formulación, aprobación, ejecución, control, evaluación y revisión de los planes regionales de desarrollo urbano;
 
-> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
 
-VIII. Revisar los programas y planes municipales de desarrollo urbano y la zonificación que se establezca en los mismos, sin menoscabo de la autonomía municipal, respecto de su congruencia en el conjunto de planes y programas y la observancia de las normas que regulan su expedición por parte de los ayuntamientos, para su publicación por el Gobernador del Estado;
+VIII. Revisar los proyectos de programas y planes municipales de desarrollo urbano y la zonificación que se establezca en los mismos, sin menoscabo de la autonomía municipal, respecto de su congruencia en el conjunto de planes y programas en el procedimiento y términos de su consulta pública;
 
-> <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
 
-IX. Comprobar la inscripción en el Registro Público de la Propiedad de los diversos programas y planes de desarrollo urbano; de la zonificación que se establezca en los mismos programas o planes; y de los convenios que reconozcan la existencia de una zona conurbada, una vez publicados por el Gobernador del Estado y ordenado su registro;
+IX. Comprobar la inscripción en el Registro Público de la Propiedad de los diversos programas y planes de desarrollo urbano; de la zonificación que se establezca en los mismos programas o planes; y de los convenios que reconozcan la existencia de una zona conurbada;
 
 > <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
 
@@ -643,9 +643,9 @@ II. Asegurar la congruencia de los programas y planes a que se refiere la fracci
 
 III. Formular y aprobar la zonificación de los centros de población en los programas y planes de desarrollo urbano respectivos;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
 
-IV. Solicitar al Titular del Poder Ejecutivo del Estado la publicación e inscripción del Programa Municipal de Desarrollo Urbano, de los planes de desarrollo urbano de los centros de población, de los planes parciales de urbanización y de usos, destinos y reservas de áreas y predios correspondientes; así como de las modificaciones que se autoricen de estos programas, planes o de la zonificación;
+IV. Publicar el Programa Municipal de Desarrollo Urbano, los planes de desarrollo urbano de los centros de población, los planes parciales de desarrollo urbano, los planes parciales de urbanización y los planes parciales de urbanización que regulen y autoricen acciones intermunicipales en las cuales participe el Ayuntamiento; así como de las modificaciones de estos programas, planes o de la zonificación; y solicitar su inscripción en el Registro Público de la Propiedad;
 
 > <small>(REFORMADA P.O. 17 DE ENERO DE 1998)</small>
 
@@ -795,7 +795,9 @@ I. Solicitar a la Secretaría la información relativa a los programas y planes 
 
 II. Supervisar la elaboración, ejecución, control, evaluación y revisión del Programa Municipal de Desarrollo Urbano, de los planes que se deriven del mismo y de la determinación de usos, destinos y reservas, procurando exista congruencia entre esos mismos programas y planes, con el Plan Municipal de Desarrollo y los diversos programas y planes de desarrollo urbano estatales y nacionales aplicables en su territorio;
 
-III. Difundir los programas y planes de desarrollo urbano aplicables en el territorio municipal;
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
+
+III. Realizar la publicación del Programa Municipal de Desarrollo Urbano, los planes de desarrollo urbano de los centros de población, los planes parciales de desarrollo urbano, los planes parciales de urbanización y los planes parciales de urbanización que regulen y autoricen acciones intermunicipales en las cuales participe el Ayuntamiento; así como de las modificaciones de estos programas, planes o de la zonificación; y promover su inscripción en el Registro Público de la Propiedad;
 
 IV. Organizar y vigilar que opere en forma efectiva, en las dependencias municipales donde se determine, los archivos para información y consulta al público de los programas y planes de desarrollo urbano aplicables en su Municipio;
 
@@ -1461,23 +1463,43 @@ Los programas y planes de desarrollo urbano a que se refiere el presente artícu
 
 Los programas y planes a que se refiere el artículo anterior, integran el conjunto de políticas, disposiciones y acciones definidas para alcanzar los objetivos propuestos en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, para ordenar el asentamiento humano y establecer adecuadas provisiones, usos, destinos y reservas de tierras, a efecto de ejecutar obras públicas y regular la fundación, conservación, mejoramiento y crecimiento de los centros de población en el Estado.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2001)</small>
 
 ###### Artículo 45.
 
-Los programas y planes de desarrollo urbano y la determinación de provisiones, usos, destinos y reservas que integran las zonificaciones de los centros de población, se elaborarán conforme las disposiciones de esta Ley y serán publicados en forma abreviada en el Periódico Oficial "El Estado de Jalisco" en un plazo de veinte días a partir de la fecha en que se solicite su publicación al Ejecutivo Estatal. Asimismo, se publicará en los diarios de mayor circulación en las localidades comprendidas en el área de aplicación del programa o plan, una inserción donde se informe respecto a su aprobación y publicación en el Periódico Oficial "El Estado de Jalisco".
+Los programas y planes de desarrollo urbano y la determinación de provisiones, usos, destinos y reservas que integran las zonificaciones de los centros de población, se elaborarán conforme las disposiciones de esta Ley y serán publicados en forma abreviada, en un plazo de veinte días a partir de la fecha en que se autoricen, en los siguientes medios oficiales de divulgación:
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+I. El Programa Estatal de Desarrollo Urbano, los planes regionales de desarrollo urbano y los planes que ordenen y regulen a las zonas conurbadas, se publicarán en el Periódico Oficial "El Estado de Jalisco";
+
+II. El Programa Municipal del Desarrollo Urbano, los planes de desarrollo urbano de los centros de población, los planes parciales de desarrollo urbano y los planes parciales de urbanización que regulen y autoricen acciones intermunicipales en las cuales participe el Ayuntamiento, se publicarán:
+
+a) En la Gaceta Oficial del Municipio o en el medio oficial de divulgación previsto por el reglamento aplicable y en caso de no existir éstos, en el Periódico Oficial "El Estado de Jalisco"; y
+
+b) En los lugares visibles de la cabecera municipal, lo cual debe certificar el servidor público encargado de la Secretaría del Ayuntamiento, así como los delegados y agentes municipales en su caso;
+
+III. Los planes parciales de urbanización, así como las modificaciones de estos programas o planes, se publicarán:
+
+a) En la Gaceta Oficial del Municipio o en el medio oficial de divulgación previsto por el reglamento aplicable y en caso de no existir éstos, y
+
+b) En caso de no existir los medios a que se refiere el inciso anterior o a solicitud del urbanizador, en el Periódico Oficial "El Estado de Jalisco".
+
+Asimismo, se publicará en los diarios de mayor circulación en las localidades comprendidas en el área de aplicación del programa o plan, una inserción donde se informe respecto a su aprobación y publicación en el medio oficial de divulgación correspondiente de acuerdo a las fracciones que anteceden.
+
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2001)</small>
 
 ###### Artículo 46.
 
-El Gobernador del Estado solamente ordenará la publicación e inscripción de un programa o plan municipal de desarrollo urbano, si previamente ha sido aprobado por el Ayuntamiento con apego a las disposiciones de esta Ley y si existe congruencia, con los programas y planes de desarrollo urbano y de ordenamiento ecológico aplicables a nivel estatal, regional, municipal y local.
+El Gobernador del Estado y el Ayuntamiento, en sus respectivos ámbitos de competencia, solamente ordenará la publicación e inscripción de un programa o plan municipal de desarrollo urbano, si previamente se aprobó con apego a las disposiciones de esta Ley y si existe congruencia, con los programas y planes de desarrollo urbano y de ordenamiento ecológico aplicables en el ámbito estatal, regional, municipal y local.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2001)</small>
 
 ###### Artículo 47.
 
-Los programas y planes previstos en el artículo 43 de esta Ley, entrarán en vigor a partir de su publicación en el Periódico Oficial "El Estado de Jalisco" y deberán ser inscritos dentro de los veinte días en el Registro Público de la Propiedad.
+Los programas y planes previstos en el artículo 43 de esta Ley:
+
+I. Entrarán en vigor a partir de su publicación en el medio oficial de divulgación que corresponda, conforme a las disposiciones de los artículos 45 y 46 que anteceden; y
+
+II. Deberán ser inscritos dentro de los veinte días siguientes a la fecha de su publicación, en el Registro Público de la Propiedad.
 
 > <small>(REFORMADO, P.O. 17 DE ENERO DE 1998)</small>
 
@@ -1987,17 +2009,17 @@ II. Para elaborar el proyecto de programa, la Dependencia Municipal realizará f
 
 III. El Ayuntamiento por medio de su comisión en materia de planeación socioeconómica, urbanización y edificación y del Consejo de Colaboración Municipal, convocarán y coordinarán la consulta pública, a fin de promover la participación de los distintos grupos sociales que integran la comunidad;
 
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
 
-IV. La versión abreviada del proyecto se publicará en los estrados de la Presidencia Municipal, en las delegaciones y en los lugares de mayor concurrencia de la población. Asimismo se enviará copia al Procurador de Desarrollo Urbano y se facilitarán copias de su versión abreviada a las personas, instituciones y asociaciones de todos los sectores que lo requieran, quienes dispondrán de un mes contado a partir de la fecha en que se publique la convocatoria, para formular por escrito los comentarios, críticas y proposiciones concretas que consideren oportunos; de abstenerse, se entenderá que no hay comentarios que presentar por parte de esa dependencia, institución o asociación, respecto del mismo;
+IV. La versión abreviada del proyecto se publicará en los estrados de la Presidencia Municipal, en las delegaciones y en los lugares de mayor concurrencia de la población. Asimismo se enviará copia a la Secretaría, al Procurador de Desarrollo Urbano y se facilitarán copias de su versión abreviada a las personas, instituciones y asociaciones de todos los sectores que lo requieran, quienes dispondrán de un mes contado a partir de la fecha cuando se publique la convocatoria, para formular por escrito los comentarios, críticas y proposiciones concretas que consideren oportunos; de abstenerse se entenderá que no hay comentarios por presentar de parte de esa dependencia, institución o asociación, respecto del mismo;
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
 
-V. Con fundamento en el acuerdo a que se refiere la fracción II del presente artículo, el Presidente Municipal lo remitirá a la Secretaría, para que se formulen los comentarios y recomendaciones que se consideren oportunos, en relación con la congruencia del proyecto con los planes y programas vigentes a nivel estatal y regional y, en general, respecto de las acciones previstas en que tenga participación el Gobierno del Estado y la Federación. La Secretaría dispondrá de un término de un mes, a partir de la fecha en que oficialmente reciba un proyecto de Programa Municipal de Desarrollo Urbano, para formular sus comentarios; de abstenerse, se entenderá que no se presentarán comentarios por parte de esa dependencia estatal, respecto del mismo;
+V. Cumplidas las consultas a que se refiere la fracción anterior, se procederá a revisar el proyecto para considerar las opiniones recibidas;
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
 
-VI. Cumplidas las consultas a que se refieren las dos fracciones anteriores, se procederá a revisar el proyecto para considerar las opiniones recibidas. Las respuestas a los planteamientos improcedentes y las modificaciones del proyecto deberán fundamentarse y estarán a consulta de los interesados en las oficinas de la Dependencia Municipal, en los términos que se fijen en la convocatoria, por un plazo no menor de quince días;
+VI. Las respuestas a los planteamientos improcedentes y las modificaciones del proyecto deberán fundamentarse y estarán a consulta de los interesados en las oficinas de la Dependencia Municipal, en los términos que se fijen en la convocatoria, por un plazo no menor de quince días;
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
@@ -2007,19 +2029,11 @@ VII. El proyecto ya ajustado, se someterá a dictamen de las comisiones del Ayun
 
 VIII. Una vez que se dictamine el proyecto de programa, será presentado en sesión del Ayuntamiento para su aprobación.
 
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2001)</small>
+
 ###### Artículo 75.
 
-El Programa Municipal de Desarrollo Urbano será enviado por el Presidente Municipal al Gobernador del Estado, para su publicación y registro. La documentación que se remita al Ejecutivo Estatal, contendrá:
-
-I. El Programa Municipal de Desarrollo Urbano;
-
-II. La versión abreviada del mismo;
-
-III. La documentación que acredite la celebración de las instancias de consulta pública; y
-
-IV. Las recomendaciones y comentarios que haya formulado la Secretaría de Desarrollo Urbano, conforme a la fracción V de este artículo que antecede, o bien, la manifestación de que no se recibieron, expresada por escrito del Presidente Municipal, acompañando copia del oficio con que se envió el proyecto de programa a esa dependencia.
-
-El Gobernador del Estado ordenará la publicación y registro del Programa Municipal de Desarrollo Urbano, conforme a las disposiciones de los artículos 45, 46 y 47 de esta Ley.
+El Programa Municipal de Desarrollo Urbano será publicado por el Ayuntamiento y se solicitará su registro conforme a las disposiciones de los artículos 45 fracción II, 46 y 47 de esta Ley.
 
 ### CAPITULO V
 
@@ -2349,9 +2363,9 @@ V. Las respuestas a los planteamientos improcedentes y las modificaciones del pr
 
 VI. El proyecto ya ajustado se someterá a dictamen ante las comisiones permanentes del Ayuntamiento que se relacionen con las actividades previstas en el mismo; una vez dictaminado el proyecto del plan, se presentará en sesión del Ayuntamiento para su análisis y aprobación, en su caso; y
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2001)</small>
 
-VII. Aprobado el plan parcial por el Ayuntamiento, el Presidente Municipal lo remitirá al Ejecutivo del Estado para su publicación y registro, conforme a las disposiciones de los artículos 45, 46 y 47 de esta Ley.
+VII. Aprobado el plan parcial por el Ayuntamiento, el Presidente Municipal realizará publicación y solicitará su registro, conforme a las disposiciones de los artículos 45 fracción II, 46 y 47 de esta Ley.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
@@ -3841,17 +3855,17 @@ Transcurrido el plazo que se establece en el artículo anterior, sin que el Ayun
 
 Si transcurre el plazo que se establece en el artículo 228 o se agota el plazo adicional que se establece en el artículo que antecede y el Ayuntamiento no acuerda la solicitud, el urbanizador podrá demandar mediante el juicio ante el Tribunal de lo Administrativo, donde se declare que opera a su favor la negativa ficta, conforme las disposiciones procesales aplicables.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2001)</small>
 
 ###### Artículo 231.
 
-Una vez aprobado por el Ayuntamiento el Plan Parcial de Urbanización, deberá ser remitido por esta autoridad o por el urbanizador al Gobernador del Estado, para efecto de su publicación en el Periódico Oficial "El Estado de Jalisco" y su inscripción, en los términos de lo previsto en los artículos 45, 46 y 47 de la presente Ley.
+Una vez aprobado por el Ayuntamiento el Plan Parcial de Urbanización, se deberá publicar e inscribir en el Registro Público de la Propiedad, en los términos de lo previsto en los artículos 45 fracción III, 46 y 47 de la presente Ley.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE JULIO DE 2001)</small>
 
 ###### Artículo 232.
 
-El acuerdo del Ejecutivo Estatal que ordene la publicación del Plan Parcial de Urbanización y su registro, será comunicado por la Secretaría a la Dependencia Municipal y al urbanizador para que se tramite su inserción en los diarios, de conformidad al artículo 45 de esta Ley.
+El acuerdo del Ayuntamiento donde se ordene la publicación del Plan Parcial de Urbanización y su registro, será comunicado por la Dependencia Municipal a la Secretaría y al urbanizador para que se realice su inserción en los diarios de mayor circulación, de conformidad con el último párrafo del artículo 45 de esta Ley.
 
 ###### Artículo 233.
 
@@ -6228,3 +6242,11 @@ CUARTO. Las reformas y adiciones de los ordenamientos señalados en los artícul
 P.O. 21 DE JULIO DE 2001.
 
 ÚNICO.- El presente decreto entrará en vigor el mismo día que la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 28 DE JULIO DE 2001.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo. Los programes o planes de desarrollo urbano y los planes parciales de urbanización que se hayan aprobado conforme las disposiciones de esta Ley, pero a la fecha de entrar en vigor el presente Decreto no se haya ordenado su publicación, ésta se realizará conforme las disposiciones que se reforman y adicionan.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
