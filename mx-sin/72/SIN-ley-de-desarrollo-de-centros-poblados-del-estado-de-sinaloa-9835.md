@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-desarrollo-de-centros-poblados-del-estado-de-sinaloa-983
 country: "mx"
 rank: "ley"
 publication_date: "1970-10-01"
-last_updated: "1971-02-11"
+last_updated: "1974-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE DESARROLLO DE CENTROS POBLADOS DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL "EL ESTADO DE SINALOA": 11 DE FEBRERO DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL "EL ESTADO DE SINALOA": 12 DE JULIO DE 1974.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Sinaloa" el 1o. de octubre de 1970.
 
@@ -563,9 +563,9 @@ III.-- El monto de los derechos a su cargo y la forma de pago; y
 
 IV.-- El número de mensualidades en que deba hacer el pago total y el plazo en que deba hacer el primer pago.
 
-### CAPITULO III
+### CAPITULO III. DEL IMPUESTO DE PLUSVALIA PARA EL DESARROLLO
 
-DEL IMPUESTO DE PLUSVALIA PARA EL DESARROLLO DE CENTROS POBLADOS.
+DE CENTROS POBLADOS.
 
 ###### Artículo 34.
 
@@ -627,7 +627,9 @@ V.-- El número de bimestres en que deba hacerse el pago total y el plazo en que
 
 ### CAPITULO UNICO. DE LAS OBRAS INTERMUNICIPALES
 
-## TITULO CUARTO. DE LAS OBRAS INTERMUNICIPALES DE DESARROLLO URBANO
+## TITULO CUARTO. DE LAS OBRAS INTERMUNICIPALES DE DESARROLLO
+
+URBANO
 
 ### CAPITULO UNICO. DEL PLANO REGULADOR DE LOS CENTROS POBLADOS
 
@@ -730,6 +732,14 @@ Cada crédito o empréstito para el financiamiento de las obras que ejecuten las
 ###### Artículo 56.
 
 En garantía de los créditos que obtengan el Estado o los Ayuntamientos para la realización de obras públicas, podrán afectar en fideicomiso los derechos e impuestos que recauden. En los contratos respectivos podrá convenirse que la Institución fiduciaria recaude directamente los ingresos dados en garantía y que el Estado o el Municipio de que se trate, ejerciten la facultad económico-coactiva, por conducto de la Tesorería Estatal o Municipal respetciva (sic), contra los deudores morosos.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 1974)</small>
+
+###### Artículo 56 Bis.
+
+Tratándose del mejoramiento, ampliación y construcción de vías públicas urbanas que sirvan de enlace a vías del sistema carretero nacional, consideradas como obras de participación a que se refiere el artículo 6o., fracción III de esta Ley, su ejecución podrá realizarla la Federación, financiando su costo directamente, o en coparticipación con el Gobierno del Estado.
+
+En estos casos, el Ejecutivo celebrará convenio con el Gobierno Federal, a efecto de que las cantidades que se recauden a través de la Secretaría de Finanzas del Estado por concepto de derechos de cooperación e impuestos de plusvalía, que se establezcan para recuperar el costo de las obras, se destinen a constituir un fideicomiso con el Banco Nacional de Obras y Servicios Públicos, S.A., para la realización de nuevas obras de carácter urbano, dentro del Municipio en que se haya efectuado el cobro.
 
 > <small>(F. DE E., P.O. 10 DE OCTUBRE DE 1970)</small>
 
@@ -1456,3 +1466,7 @@ LIC. RAUL IBAÑEZ VILLEGAS
 P.O. 11 DE FEBRERO DE 1971.
 
 UNICO.- El presente decreto empezará a surtir sus efectos a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 12 DE JULIO DE 1974.
+
+UNICO.- El presente Decreto empezará a surtir sus efectos legales correspondientes el mismo día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
