@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1935-08-13"
+last_updated: "1935-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 1935
-
-(DECRETO NUM. 63)
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 1935.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -847,7 +845,11 @@ VII. Presentar al Congreso los Presupuestos de Ingresos y Egresos del Estado y d
 
 VIII. Disponer de la Guardia Nacional y Policía Rural del Estado según la ley.
 
-IX. Nombrar y remover libremente al Secretario General de Gobierno, Procurador General de Justicia, Tesorero General, Agentes del Ministerio Público y Defensores de Oficio, y a todos los demás empleados del Estado, cuyo nombramiento y remoción no encomiende la ley a otra autoridad.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 1935)</small>
+
+IX.- Nombrar y remover libremente al Secretario General de Gobierno, Procurador General de Justicia, Tesorero General, Secretario Particular del Gobernador, Abogados Consultores, Jefe del Departamento de Fomento y empleados que presten sus servicios accidentalmente con el carácter de eventuales.
+
+Los demás empleados del Estado cuyo nombramiento y remoción no encomiende la Ley a otra Autoridad, serán nombrados y removidos por el C. Gobernador, de acuerdo con los preceptos de la Ley del Servicio Civil que habrá de expedirse.
 
 X. Pasar al Procurador General todos los asuntos que deban ventilarse dentro de los Tribunales, para que ejercite ante ellos las atribuciones de su ministerio.
 
@@ -1548,3 +1550,7 @@ Transitorio.- Esta reforma comenzará a surtir sus efectos a partir de la fecha 
 P.O. 13 DE AGOSTO DE 1935 (DECRETO No. 63)
 
 Transitorio.- Este decreto principiará a surtir sus efectos desde la fecha de su publicación.
+
+P.O. 17 DE AGOSTO DE 1935.
+
+TRANSITORIO.- Comenzará a surtir sus efectos a partir de la fecha de su promulgación.
