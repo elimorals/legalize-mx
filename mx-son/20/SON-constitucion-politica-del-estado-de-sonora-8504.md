@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1941-01-15"
+last_updated: "1942-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE ENERO DE 1941.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE JUNIO DE 1942.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -315,9 +315,9 @@ VI. No haber sido Magistrado del Supremo Tribunal de Justicia, Procurador Genera
 
 VII. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso.
 
-> <small>(REFORMADA, B.O. 29 DE ABRIL DE 1939)</small>
+> <small>(REFORMADA, B.O. 24 DE JUNIO DE 1942)</small>
 
-VIII. Ser nativo del Distrito Electoral que represente, o no siéndolo, y así sonorense, tener cuando menos un año de residencia en él; pero se considerará como nativo, al que haya residido por más de diez años en el Distrito.
+VIII. Ser nativo del Distrito Electoral que represente, o no siéndolo y sí sonorense, tener cuando menos seis meses de residencia en él.
 
 IX. No haber sido condenado en juicio legal por algún delito infamante.
 
@@ -369,9 +369,11 @@ En el primer período el Congreso se ocupará preferentemente de discutir y apro
 
 El Congreso tendrá sesiones extraordinarias siempre que la Diputación Permanente lo convoque para ello.
 
+> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
+
 ###### Artículo 44.
 
-En sesiones extraordinarias el Congreso se ocupará del asunto o asuntos que exprese la Convocatoria respectiva.
+En sesiones extraordinarias el Congreso se ocupará exclusivamente del asunto o asuntos que exprese la Convocatoria respectiva y de los que se califiquen de urgentes, por el voto de las dos terceras partes de los Diputados que concurran.
 
 ###### Artículo 45.
 
@@ -403,9 +405,15 @@ Los Diputados en funciones, durante el período de su encargo, no podrán desemp
 
 Los Diputados son inviolables por las opiniones que emitan en el desempeño de su encargo, y jamás podrán ser reconvenidos por ellas.
 
+> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
+
 ###### Artículo 52.
 
-Toda resolución del Congreso tendrá carácter de ley o de acuerdo. Las leyes se comunicarán al Ejecutivo firmadas por el Presidente y Secretarios de la Legislatura y serán promulgadas en esta forma: "EL CONGRESO DEL ESTADO DE SONORA, EN NOMBRE DEL PUEBLO, DECRETA:" (Texto de la Ley). Los acuerdos se comunicarán por los Secretarios del Congreso.
+Toda resolución del Congreso tendrá el carácter de Ley, decreto o acuerdo.
+
+Será materia de ley toda resolución que afecte a las personas en general; de decreto, la que otorgue derechos o imponga obligaciones a personas determinadas, y de acuerdo, en los demás casos.
+
+Las leyes y decretos se comunicarán al Ejecutivo firmados por el Presidente y Secretarios de la Legislatura. Los acuerdos se comunicarán por los Secretarios del Congreso.
 
 #### SECCION IV.
 
@@ -439,15 +447,13 @@ Aprobado por el Congreso un Proyecto de Ley o de Acuerdo que constituya resoluci
 
 Los demás Acuerdos de la Cámara se pasarán al mismo poder para su sanción y a efecto de que se comuniquen a los interesados si no ameritan observaciones del Ejecutivo.
 
-> <small>(REFORMADO, B.O. 4 DE AGOSTO DE 1928)</small>
+> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
 
 ###### Artículo 57.
 
-Todo Proyecto de Ley o de Acuerdo no devuelto por el Ejecutivo, con observaciones, dentro de los términos de ocho y tres días, respectivamente, se tendrá por sancionado y surtirá sus efectos desde el día de su publicación, ya se haga ésta por orden del Ejecutivo o por acuerdo del Congreso o de la Diputación Permanente en su caso.
+Se reputará aprobado por el Ejecutivo todo proyecto de ley o de decreto no devuelto con observaciones al Congreso, o en su receso a la Diputación Permanente, en el término de diez días útiles.
 
-También se tendrán por sancionados los Acuerdos que no debiendo publicarse en le Periódico Oficial, no sean devueltos por el Ejecutivo dentro del término de tres días.
-
-El Congreso o la Diputación Permanente podrán ordenar la publicación de sus Leyes o Acuerdos si el Ejecutivo no lo hace en los ocho días siguientes al vencimiento del término para hacer observaciones, o el día en que reciba la Ley o Acuerdo confirmados por aquella Asamblea. En este caso se harán constar en el Acuerdo las circunstancias que lo motiven.
+El Congreso o la Diputación Permanente podrán ordenar la publicación de las leyes o decretos si el Ejecutivo no lo hace dentro de los ocho días siguientes al vencimiento del término fijado para hacer observaciones, o el día en que reciba la ley o decreto confirmados por aquella Asamblea. En este caso se harán constar las circunstancias que lo motiven.
 
 ###### Artículo 58.
 
@@ -457,17 +463,21 @@ Si corriendo el término que para hacer observaciones fija el Artículo anterior
 
 En caso de urgencia notoria, calificada así por las dos terceras partes, cuando menos, de los Diputados presentes, el Congreso podrá reducir los términos concedidos al Ejecutivo para hacer observaciones, sin que en caso alguno puedan ser menores de cuarenta y ocho horas corridas.
 
+> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
+
 ###### Artículo 60.
 
-Devuelto oportunamente un Proyecto con observaciones, deberá ser discutido de nuevo por el Congreso; y si fuere confirmado por las dos terceras partes de los Diputados presentes, el Proyecto tendrá ya carácter de Ley o de Acuerdo y volverá al Ejecutivo para su publicación, observándose en cuanto a ésta lo dispuesto en los Artículos que anteceden.
+Devuelto oportunamente un proyecto con observaciones, deberá ser discutido de nuevo por el Congreso; y si fuere confirmado por las dos terceras partes de los Diputados presentes, el proyecto tendrá carácter de ley o de decreto y volverá al Ejecutivo para su publicación, observándose en cuanto a esta lo dispuesto en los artículos que anteceden.
 
 ###### Artículo 61.
 
 El Ejecutivo no podrá hacer observaciones a las resoluciones del Congreso cuando éste funja como Colegio Electoral o como Jurado. Tampoco podrá hacer observaciones a los Decretos que convoquen a elecciones.
 
+> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
+
 ###### Artículo 62.
 
-Toda iniciativa de ley que fuere desechada por el Congreso no podrá ser presentada de nuevo en el mismo período de sesiones.
+Todo proyecto de ley o de decreto que fuere desechado por el Congreso, no podrá ser presentado de nuevo en el mismo período de sesiones.
 
 ###### Artículo 63.
 
@@ -639,6 +649,8 @@ La Diputación Permanente convocará al Congreso a sesiones extraordinarias siem
 
 Instrucción Pública.
 
+> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
+
 #### SECCION IV.
 
 Ministerio Público.
@@ -667,9 +679,9 @@ I. Ser mexicano por nacimiento e hijo de padres mexicanos.
 
 II. Ser ciudadano sonorense en pleno ejercicio de sus derechos políticos.
 
-> <small>(REFORMADA, B.O. 29 DE ABRIL DE 1939)</small>
+> <small>(REFORMADA, B.O. 24 DE JUNIO DE 1942)</small>
 
-III. Ser nativo de Sonora y haber residido cuando menos un año inmediatamente anterior al día de la elección, o en caso de no serlo, tener cuando menos diez años de residencia inmediatamente anteriores al día de la elección.
+III. Ser nativo de Sonora y haber residido en el Estado seis meses antes al día de la elección, o en caso de no serlo, tener cuando menos diez años de residencia inmediatamente anteriores al día de la elección.
 
 IV. Ser mayor de treinta años para el día de la elección.
 
@@ -679,9 +691,13 @@ VI. No haber figurado directa o indirectamente en alguna asonada, motín o cuart
 
 VII. No haber sido condenado en juicio legal por algún delito infamante.
 
-> <small>(REFORMADA, B.O. 5 DE OCTUBRE DE 1932)</small>
+> <small>(REFORMADA, B.O. 24 DE JUNIO DE 1942)</small>
 
-VIII. No haber desempeñado alguno de los cargos de Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario de Gobierno o Tesorero General del Estado, dentro del año anterior al día de la elección.
+VIII. No haber desempeñado alguno de los cargos de Magistrado del Supremo Tribunal, Procurador General de Justicia, Secretario de Gobierno o Tesorero General del Estado, seis meses antes a la fecha de la elección.
+
+> <small>(ADICIONADA, B.O. 24 DE JUNIO DE 1942)</small>
+
+IX. No estar en servicio activo en el Ejército Nacional cuando menos seis meses antes del día de la elección.
 
 ###### Artículo 71.
 
@@ -889,11 +905,13 @@ Jueces de Primera Instancia, Locales y Menores.
 
 ###### Artículo 89.
 
-La Instrucción Pública quedará bajo la dirección del Ejecutivo del Estado y sujeta a las leyes reglamentarias respectivas.
+La Educación Pública, quedará bajo la dirección del Ejecutivo del Estado y sujeta a las leyes reglamentarias respectivas.
+
+> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
 
 ###### Artículo 90.
 
-La enseñanza oficial será laica; la particular tendrá forzosamente este carácter y estará bajo la vigilancia del Ejecutivo durante la educación primaria.
+La Educación en Sonora, se ajustará a los principios y términos que se consignan en la Constitución General de la República.
 
 ###### Artículo 91.
 
@@ -908,6 +926,10 @@ Ninguna corporación religiosa, ni ministro de algún culto religioso, por sí o
 ###### Artículo 93.
 
 La enseñanza primaria elemental será obligatoria para todos los niños y niñas, sonorenses o no sonorenses, que se hallen en edad escolar. Para aquellos que por el lugar de su residencia no puedan concurrir a las escuelas elementales, será obligatoria únicamente la educación rudimentaria que se imparta en las escuelas rurales.
+
+> <small>(ADICIONADO, B.O. 24 DE JUNIO DE 1942)</small>
+
+Es obligación del Gobierno del Estado el mantenimiento y difusión de la enseñanza universitaria.
 
 ###### Artículo 94.
 
@@ -1399,31 +1421,39 @@ Todo funcionario o empleado público tiene el deber de protestar antes de encarg
 
 Será motivo de responsabilidad el hecho de que las autoridades, funcionarios o empleados del Estado o de los Municipios, ejecuten en perjuicio de tercero o de la Sociedad, actos que no les están mandados o permitidos expresamente por la Ley.
 
+> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
+
 ###### Artículo 159.
 
-En el caso de la fracción V del Artículo 76 de la Constitución General, asumirá el Poder Ejecutivo del Estado cualquiera de los funcionarios siguientes, por el orden de su designación:
+En el caso de la Fracción V del artículo 76 de la Constitución General de la República asumirá el Poder Ejecutivo cualquiera de los Funcionarios siguientes por el orden de su designación.
 
-I. El Presidente de la última Legislatura o el de la Diputación Permanente, si la desaparición de los Poderes ocurriese estando ésta en funciones.
+I. El Presidente de la última Legislatura o el de la Diputación Permanente, si la desaparición de los Poderes ocurriere encontrándose éste en funciones.
 
 II. El Vice-Presidente de la Legislatura.
 
-III. El último Secretario de Gobierno.
+III. El Presidente del último Supremo Tribunal, y
 
-IV. El Presidente del último Tribunal Superior.
+IV. El último Secretario de Gobierno.
 
-La persona que asuma el Poder Ejecutivo, convocará desde luego a elecciones, sujetándose a la forma y términos prescriptos por esta Constitución.
+La persona que asuma el Poder Ejecutivo, convocará desde luego a elecciones sujetándose a la forma y términos prescritos por esta Constitución; designará con carácter provisional a los Magistrados del Supremo Tribunal de Justicia y dictará todas aquellas medidas estrictamente indispensables para la buena marcha de la Administración Pública.
 
 ###### Artículo 160.
 
 Los Tribunales del Estado se arreglarán a la Constitución General y al presente Código, no obstante las disposiciones en contrario que pueda haber en las demás leyes del Estado.
 
+> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
+
 ###### Artículo 161.
 
-Ningún funcionario o empleado del Estado o del Municipio podrá ser apoderado en asuntos ajenos, si no renuncia previamente el cargo o empleo que desempeñare. Para serlo en asuntos propios bastará la licencia respectiva para su separación temporal.
+Los Funcionarios y empleados del Poder Judicial el Procurador General de Justicia y los Agentes del Ministerio Público no podrán patrocinar negocios ajenos ante los tribunales.
+
+La prohibición anterior se entiende impuesta a los Magistrados Suplentes cuando estén en ejercicio por un plazo mayor de dos meses.
+
+> <small>(REFORMADO, B.O. 24 DE JUNIO DE 1942)</small>
 
 ###### Artículo 162.
 
-Los funcionarios y empleados del Estado y Municipales de las poblaciones fronterizas tienen la obligación de residir en territorio nacional. La no observancia de esta disposición significa para el contraventor la pérdida de su cargo o empleo.
+Los Funcionarios y Empleados del Estado y Municipales de las poblaciones fronterizas tienen la obligación de residir en territorio sonorense. La no observancia de esta disposición significa para el contraventor la pérdida de su cargo o empleo.
 
 > <small>(REFORMADO, B.O. 29 DE ABRIL DE 1939)</small>
 
@@ -1517,7 +1547,7 @@ B.O. 19 DE ABRIL DE 1924.
 
 Primeros (sic).- Los Comisarios de Policía y los Ayuntamientos que resulten electos el último domingo de abril de 1924, durarán en funciones hasta el 15 de septiembre de 1925, y en los períodos siguientes tendrán la duración que señala la Constitución Política Local.
 
-Segundo.- Sométanse las reformas que anteceden a la aprobación de los H H. Ayuntamientos del Estado para los efectos legales correspondientes.
+Segundo.- Sométanse las reformas que anteceden a la aprobación de los H. H. Ayuntamientos del Estado para los efectos legales correspondientes.
 
 Tercero.- Esta Ley entrará en vigor cuando sea aprobada por la mayoría de los H. H. Ayuntamientos del Estado y previa publicación en el Boletín Oficial.
 
@@ -1578,6 +1608,10 @@ Unico.- Esta Ley entrará en vigor desde la fecha de su publicación en el Bolet
 B.O. 15 DE ENERO DE 1941.
 
 UNICO.- Esta Ley entrará en vigor a partir del día 14 del mes actual, previa su publicación en el Boletín Oficial del Estado.
+
+B.O. 24 DE JUNIO DE 1942.
+
+UNICO.- Esta Ley entrará en vigor a partir de su publicación en el Boletín Oficial del Estado.
 
 ###### ARTÍCULO ÚNICO.
 
