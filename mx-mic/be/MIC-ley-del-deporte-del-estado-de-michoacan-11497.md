@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-deporte-del-estado-de-michoacan-11497"
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-18"
-last_updated: "2002-02-11"
+last_updated: "2004-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DEL DEPORTE DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2002.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE MICHOACAN DE OCAMPO, PUBLICADA EN PERIODICO OFICIAL EL DIA 16 DE FEBRERO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL ABROGADA.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado, el lunes 18 de agosto de 1997.
 
@@ -711,7 +713,7 @@ PALACIO DEL PODER LEGISLATIVO, Morelia Michoacán, a 10 de julio de 1997. "AÑO 
 
 DIPUTADO PRESIDENTE.- JAIME OSEGUERA HERRERA.- DIPUTADO SECRETARIO.- LEONEL VICTORIA BENITES.- DIPUTADO SECRETARIO.- AGUSTIN TRUJILLO IÑIGUEZ.-(Firmados).
 
-En conformidad con lo dispuesto en la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo, Ciudad de Morelia, Michoacán, a los 21 veintiun días del mes de julio de 1997, mil novecientos noventa y siete.
+En conformidad con lo dispuesto en la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo, Ciudad de Morelia, Michoacán, a los 21 veintiún días del mes de julio de 1997, mil novecientos noventa y siete.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. VICTOR MANUEL TINOCO RUBI.- EL SECRETARIO DE GOBIERNO.- LIC. ANTONIO GARCIA TORRES.- (Firmados).
 
@@ -722,3 +724,31 @@ P.O. 11 DE FEBRERO DE 2002.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE FEBRERO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Deporte del Estado de Michoacán, aprobada por el Congreso del Estado, mediante Decreto número 99 de fecha 10 de julio de 1997, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo el 21 de julio de 1997.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones legales que se opongan a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo Estatal, contará con el término de ciento ochenta días naturales para la elaboración del Reglamento de la presente Ley, a partir de su entrada en vigor.
+
+###### ARTÍCULO QUINTO.
+
+El Congreso del Estado, emitirá la convocatoria para la integración de la Comisión Estatal de Apelación y Arbitraje, en un término de noventa días naturales, a partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+Las transferencias que por motivo de esta ley deban realizarse de una entidad a otra, incluirán las adecuaciones presupuestarias que comprenden las modificaciones a la estructura programática y financiera, a los calendarios financieros y de metas, así como las transferencias de recursos humanos y de los activos patrimoniales como bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, sistemas, maquinaria, archivos y, en general, el equipo que la dependencia haya utilizado para los asuntos a su cargo. Los derechos laborales del personal que en virtud de lo dispuesto en la presente Ley, pase de una dependencia a la otra, se respetarán conforme a la Ley.
