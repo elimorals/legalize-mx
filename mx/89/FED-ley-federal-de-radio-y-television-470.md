@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-radio-y-television-470"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1960-01-19"
-last_updated: "1974-12-31"
+last_updated: "1980-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=470&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1960-01-08"
 
 LEY FEDERAL DE RADIO Y TELEVISION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE NOVIEMBRE DE 1980.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 19 de enero de 1960.
 
@@ -91,7 +91,9 @@ A la Secretaría de Comunicaciones y Transportes corresponde:
 
 I.- Otorgar y revocar concesiones y permisos para estaciones de radio y televisión, asignándoles la frecuencia respectiva;
 
-II.- Declarar la nulidad o la caducidad de las concesiones o permisos y modificarlas en los casos previstos en esta ley;
+> <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 1980)</small>
+
+II.- Declarar el abandono de trámite de las solicitudes de concesión o permiso, así como declarar la nulidad o la caducidad de las concesiones o permisos y modificarlos en los casos previstos en esta Ley.
 
 III.- Autorizar y vigilar, desde el punto de vista técnico, el funcionamiento y operación de las estaciones y sus servicios;
 
@@ -183,23 +185,31 @@ II.- Justificación de que la sociedad, en su caso, está constituida legalmente
 
 III.- Información detallada de las inversiones en proyecto.
 
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 1980)</small>
+
 ###### ARTICULO 18.
 
-La Secretaría de Comunicaciones y Transportes señalará al solicitante el monto del depósito o de la fianza que deberá constituir para garantizar que se continuarán los trámites hasta que la concesión sea otorgada o negada.
+La Secretaría de Comunicaciones y Transportes señalará al solicitante el monto del depósito o de la fianza que deberá constituir, para garantizar que se continuarán los trámites hasta que la concesión sea otorgada o negada.
 
-De acuerdo con la categoría de la estación radiodifusora en proyecto, el monto del depósito no podrá ser menor de 2,000 ni exceder de 10,000 pesos, y el de la fianza será de 5 a 50 mil pesos.
+De acuerdo con la categoría de la estación radiodifusora en proyecto, el monto del depósito o de la fianza no podrá ser menor de 10,000 ni exceder de 30,000 pesos.
 
-La garantía quedará sin efecto al otorgarse o negarse la concesión. Si el interesado abandona el trámite, la garantía se aplicará al erario federal.
+Si el interesado abandona el trámite la garantía se aplicará en favor del erario federal.
 
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+Procede la declaración de abandono de trámite, cuando el interesado no cumpla con cualquiera de los requisitos técnicos, jurídicos o administrativos dentro del plazo que señale la Secretaría de Comunicaciones y Transportes. Para tal efecto se seguirá el procedimiento a que alude el artículo 35 de esta Ley.
+
+En todo caso, el plazo real para el cumplimiento de la totalidad de los requisitos citados en el párrafo precedente, será de un año; sin embargo, a juicio de la Secretaría, dicho plazo podrá prorrogarse hasta por un período igual, si existen causas que así lo ameriten.
+
+> <small>(REFORMADO, D.O.F. 10 DE NOVIEMBRE DE 1980)</small>
 
 ###### ARTICULO 19.
 
-Constituido el depósito u otorgada la fianza, el Ejecutivo Federal por conducto de la Secretaría de Comunicaciones y Transportes, estudiará cada solicitud que exista con relación a un mismo canal y calificando el interés social, resolverá a su libre juicio si alguna de ellas debe seleccionarse para la continuación de su trámite, en cuyo caso dispondrá que se publique a costa del interesado, una síntesis de la solicitud, con las modificaciones que acuerde, por dos veces y con intervalo de diez días, en el “Diario Oficial” y en otro periódico de los de mayor circulación en la zona donde debe operarse el canal, señalando un plazo de treinta días contados a partir de la última publicación, para que las personas o instituciones que pudieran resultar afectadas presenten objeciones.
+Constituido el depósito u otorgada la fianza, el Ejecutivo Federal por conducto de la Secretaría de Comunicaciones y Transportes, estudiará cada solicitud que exista con relación a un mismo canal y calificando el interés social, resolverá a su libre juicio, si alguna de ellas debe seleccionarse para la continuación de su trámite, en cuyo caso dispondrá que se publique, a costa del interesado, una síntesis de la solicitud, con las modificaciones que acuerde, por dos veces y con intervalo de diez días, en el "Diario Oficial" y en otro periódico de los de mayor circulación en la zona donde debe operarse el canal, señalando un plazo de treinta días contados a partir de la última publicación, para que las personas o instituciones que pudieran resultar afectadas presenten objeciones.
 
-Si transcurrido el plazo de oposición no se presentan objeciones, se otorgará la concesión. Cuando se presenten objeciones, la Secretaría oirá en defensa a los interesados, les recibirá las pruebas que ofrezcan en un término de quince días y dictará la resolución que a su juicio proceda en un plazo que no exceda de treinta, oyendo a la Comisión Técnica Consultiva establecida por la Ley de Vías Generales de Comunicación.
+Si transcurrido el plazo de oposición no se presentan objeciones, previo cumplimiento de los requisitos técnicos, administrativos y legales que fije la Secretaría, se otorgará la concesión. Cuando se presenten objeciones, la Secretaría oirá en defensa a los interesados, les recibirá las pruebas que ofrezcan en un término de quince días y dictará la resolución que a su juicio proceda, en un plazo que no exceda de treinta días, oyendo a la Comisión Técnica Consultiva establecida por la Ley de Vías Generales de Comunicación.
 
-Otorgada la concesión, será publicada, a costa del interesado, en el “Diario Oficial” de la Federación y se fijará el monto de la garantía que asegure el cumplimiento de las obligaciones que imponga dicha concesión. Esta garantía no será inferior de cinco mil pesos, ni excederá de doscientos cincuenta mil pesos cuando se trate del depósito y de diez mil a quinientos mil pesos cuando se trate de fianza.
+Otorgada la concesión, será publicada, a costa del interesado, en el "Diario Oficial" de la Federación y se fijará el monto de la garantía que asegure el cumplimiento de las obligaciones que imponga dicha concesión. Esta garantía no será inferior de diez mil pesos, ni excederá de quinientos mil.
+
+Una vez otorgada la garantía antes citada, quedará sin efecto el depósito o la fianza que se hubiere constituido para garantizar el trámite de concesión.
 
 Los solicitantes que no hayan sido seleccionados, tendrán derecho a la devolución del depósito o fianza que hubieren otorgado para garantizar el trámite de su solicitud.
 
@@ -267,7 +277,9 @@ I.- No iniciar o no terminar la construcción de sus instalaciones sin causa jus
 
 II.- No iniciar las transmisiones dentro de los plazos fijados en la concesión, salvo causa justificada;
 
-III.- No otorgar la garantía a que se refiere el artículo 18 de esta ley.
+> <small>(REFORMADA, D.O.F. 10 DE NOVIEMBRE DE 1980)</small>
+
+III.- No otorgar la garantía a que se refiere el artículo 19 de esta Ley.
 
 ###### ARTICULO 31.
 
@@ -800,3 +812,13 @@ D.O.F. 31 DE DICIEMBRE DE 1974.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor treinta días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 10 DE NOVIEMBRE DE 1980.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor 30 días después de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Los asuntos en trámite para su terminación deberán ajustarse a lo dispuesto en este decreto.
