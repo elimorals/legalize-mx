@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-planeacion-9023"
 country: "mx"
 rank: "ley"
 publication_date: "1983-07-13"
-last_updated: "1998-08-08"
+last_updated: "1999-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "TAB"
 
 LEY DE PLANEACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 13 de julio de 1983.
 
@@ -304,17 +304,17 @@ Si la entidad paraestatal no estuviera agrupada en un sector específico, la apr
 
 Los programas sectoriales deberán ser sometidos a la consideración y aprobación del Gobernador del Estado, en el seno del comité de planeación para el desarrollo del Estado de Tabasco a que alude el artículo 16 de esta Ley, por la dependencia coordinadora del sector correspondiente.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 37.
 
-El Plan Estatal de Desarrollo, el Programa Operativo Anual del Poder Ejecutivo y demás programas que de ellos se deriven, una vez aprobados se publicarán en el Periódico Oficial del Estado y se difundirán, a través de los medios idóneos, por las Dependencias, Organos y Entidades de la Administración Pública Estatal Centralizada, Desconcentrada y Paraestatal, en los ramos de sus respectivas competencias.
+El Programa Operativo Anual del Poder Ejecutivo y demás Programas que de ellos se deriven, una vez aprobados, deberán publicarse en el Periódico Oficial del Estado y se difundirán, a través de los medios de comunicación impresos que se consideren idóneos, el Programa Operativo Anual y demás Programas de inicio de un periodo constitucional se publicarán dentro de los primeros seis meses y posteriormente dentro de los noventa días del inicio de cada ejercicio fiscal anual, asimismo, se publicarán de manera trimestral las adecuaciones o ajustes a dichos programas, por las Dependencias, Organos y Entidades de la Administración Pública Estatal Centralizada, Descentralizada, Desconcentrada y Paraestatales, en los ramos de sus respectivas competencias.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 38.
 
-Los Planes Municipales, los Programas Operativos Anuales y demás programas que de ellos se deriven, una vez aprobados por los ayuntamientos, serán publicados en el Periódico Oficial del Estado y difundidos en sus respectivas demarcaciones territoriales, por los medios idóneos, para hacerlos del conocimiento general de la población.
+Los Programas Operativos Anuales Municipales y demás programas que de ellos se deriven, una vez aprobados por los Ayuntamientos, serán publicados en el Periódico Oficial del Estado y difundidos en sus respectivas demarcaciones territoriales, por los medios de comunicación impresos que se consideren idóneos, dentro de los primeros noventa días de cada ejercicio fiscal anual, asimismo, se publicarán de manera trimestral las adecuaciones y ajustes de dichos programas, para hacerlos del conocimiento general de la población.
 
 ###### ARTICULO 39.
 
@@ -485,3 +485,11 @@ P.O. 8 DE AGOSTO DE 1998.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JUNIO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Para efectos de la publicación del Programa Operativo Anual, a que se refieren los artículos 37 y 38, por esta ocasión se publicarán a más tardar el día 30 de junio de 1999, conteniendo las adecuaciones o ajustes a dichos programas realizados al primer trimestre del presente ejercicio fiscal.
