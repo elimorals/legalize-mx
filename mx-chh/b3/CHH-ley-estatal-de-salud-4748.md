@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-4748"
 country: "mx"
 rank: "ley"
 publication_date: "1987-03-11"
-last_updated: "1990-02-14"
+last_updated: "1994-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE FEBRERO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1994.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 11 de marzo de 1987.
 
@@ -45,9 +45,11 @@ LEY ESTATAL DE SALUD
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1994)</small>
+
 ###### ARTICULO 1.
 
-Esta ley reglamenta el derecho a la protección a la salud, contenido en el Artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, establece las bases y modalidades para el acceso a los servicios de salud proporcionados por el Poder Ejecutivo del Estado y la concurrencia de éste y los municipios en materia de salubridad general y salubridad local. Sus disposiciones son de orden público e interés social.
+Esta ley reglamenta el derecho a la protección a la salud, contenido en el artículo 4° de la Constitución Política de los Estados Unidos Mexicanos, establece las bases y modalidades para el acceso a los servicios de salud proporcionados por el Poder Ejecutivo del Estado y la concurrencia de éste y los Municipios en materia de salud general y salud local. Sus disposiciones son de orden público e interés social. Los servicios de salud que el Estado proporcione a los pueblos indígenas se planearán en coordinación con éstos, teniendo en cuenta sus idiomas, usos y costumbres.
 
 ###### ARTICULO 2.
 
@@ -71,7 +73,9 @@ VII.- El desarrollo de la enseñanza y la investigación científica y tecnológ
 
 En los términos de la Ley General de Salud y de esta Ley, corresponde al Estado:
 
-A).- En materia de salubridad general:
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1994)</small>
+
+A).- En materia de salud general:
 
 I.- La atención medica, preferentemente en beneficio de grupos vulnerables;
 
@@ -111,7 +115,9 @@ XVIII.- El control sanitario de los expendios de alimentos, bebidas alcohólicas
 
 XIX.- Las demás que establezca la Ley General de Salud.
 
-B).- En materia de salubridad local, el control sanitario de:
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1994)</small>
+
+B).- En materia de salud local, el control sanitario de:
 
 I.- Mercados y centros de abastos;
 
@@ -251,7 +257,9 @@ El Ejecutivo del Estado, con la participación que corresponda al Comité de Pla
 
 Corresponde al Ejecutivo del Estado por conducto de la Dirección General de Desarrollo Social:
 
-A).- En materia de salubridad general:
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1994)</small>
+
+A).- En materia de salud general:
 
 I.- Organizar, administrar, operar y evaluar los servicios de salud a que se refiere el apartado "A" del artículo 3° de esta Ley.
 
@@ -259,15 +267,21 @@ II.- Coordinar el Sistema Estatal de Salud y coadyuvar en el funcionamiento y co
 
 III.- Formular y desarrollar programas locales de salud en el marco del Sistema Estatal de Salud, del Sistema Nacional de Salud y de acuerdo con los principios y objetivos de la planeación nacional;
 
-IV.- Promover, orientar, fomentar y apoyar las acciones en materia de salubridad local a cargo de los municipios, con sujeción a las políticas nacional y estatal de salud y a los convenios que al efecto se celebren;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1994)</small>
+
+IV.- Promover, orientar, fomentar y apoyar las acciones en materia de salud local a cargo de los municipios, con sujeción a las políticas nacional y estatal de salud y a los convenios que al efecto se celebren;
 
 V.- Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, esta Ley y demás disposiciones legales aplicables;
 
-VI.- Celebrar con la Federación los Acuerdos de Coordinación en materia de salud general concurrente y los Convenios en los que, en los términos de la Fracción X del Artículo 115 de la Constitución General de la República, asuma el ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios sanitarios, cuando el desarrollo económico y social lo haga necesario, así como los convenios con los municipios para la prestación de servicios sanitarios locales; y
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1994)</small>
+
+VI.- Celebrar con la federación los acuerdos de coordinación en materia de salud general concurrente y los convenios en los que, en los términos de la fracción X del artículo 115 de la Constitución General de la República, asuma el ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios sanitarios, cuando el desarrollo económico y social lo haga necesario, así como los convenios con los municipios para la prestación de servicios sanitarios locales; y
 
 VII.- Las demás que sean necesarias para hacer efectivas las facultades anteriores y las que se deriven de la Ley General de Salud, de esta Ley y de otras disposiciones legales aplicables.
 
-B).- En materia de salubridad local:
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1994)</small>
+
+B).- En materia de salud local:
 
 I.- Dictar las normas técnicas y ejercer el control sanitario de los establecimientos y servicios de salubridad local a que se refiere el apartado "B" del Artículo 3 de esta Ley.
 
@@ -1295,7 +1309,9 @@ Para los efectos del Artículo anterior, las autoridades sanitarias, municipales
 
 El Ejecutivo del estado podrá celebrar con los municipios, los convenios conducentes para que éstos asuman los servicios sanitarios relacionados con los establecimientos a que se aplica este título, excepción hecha de los que expendan bebidas alcohólicas.
 
-## TITULO DECIMO PRIMERO. SALUBRIDAD LOCAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE NOVIEMBRE DE 1994)</small>
+
+## TITULO DECIMO PRIMERO. DE LA SALUD LOCAL
 
 ### CAPITULO III. DE LAS CONSTRUCCIONES
 
@@ -1303,13 +1319,17 @@ El Ejecutivo del estado podrá celebrar con los municipios, los convenios conduc
 
 Compete a la Dirección General de Desarrollo Social, en los términos de esta Ley y de las demás disposiciones legales aplicables, el control sanitario de las materias a que se refiere el Artículo 3, apartado "B" de esta Ley.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1994)</small>
+
 ###### ARTICULO 162.
 
-Se entiende por control y regulación sanitaria el conjunto de actos que lleve acabo la autoridad, a fin de prevenir riesgos y daños a la salud de la población, y comprende: la expedición de las normas técnicas que deban satisfacer las materias de salubridad local, la vigilancia sanitaria, el otorgamiento de autorizaciones, la aplicación de medidas de seguridad y la imposición de sanciones a que se refiere esta Ley.
+Se entiende por control y regulación sanitaria el conjunto de actos que lleve a cabo la autoridad, a fin de prevenir riesgos y daños a la salud de la población, y comprende: la expedición de las normas técnicas que deban satisfacer las materias de salud local, la vigilancia sanitaria, el otorgamiento de autorizaciones, la aplicación de medidas de seguridad y la imposición de sanciones a que se refiere esta ley.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1994)</small>
 
 ###### ARTICULO 163.
 
-Para los efectos de esta Ley, se entiende por norma técnica el conjunto de reglas científicas y tecnológicas de carácter obligatorio emitida por la Dirección General de Fomento Social con el objeto de establecer los requisitos que deben satisfacer en el desarrollo de actividades en materia de salubridad local.
+Para los efectos de esta ley, se entiende por norma técnica el conjunto de reglas científicas y tecnológicas de carácter obligatorio emitida por la Dirección General de Fomento Social con el objeto de establecer los requisitos que deban satisfacerse en el desarrollo de actividades en materia de salud local.
 
 ###### ARTICULO 164.
 
@@ -2160,3 +2180,9 @@ LIC. MARTHA LARA ALATORRE
 P.O. 14 DE FEBRERO DE 1990.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+
+P.O. 30 DE NOVIEMBRE DE 1994.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
