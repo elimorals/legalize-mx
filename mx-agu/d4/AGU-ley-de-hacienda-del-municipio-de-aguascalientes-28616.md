@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-aguascalientes-28616"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-29"
-last_updated: "1995-05-07"
+last_updated: "1995-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGS. PARA EL EJERCICIO FISCAL DE 1986
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1995.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1985.
 
@@ -513,7 +513,7 @@ IV.- Las personas obligadas por la Ley a cerciorarse de créditos fiscales, siem
 
 V.- Los legatarios y los donatarios a título particular, respecto de los créditos fiscales que se hubiesen causado en relación con los bienes legados y donados, hasta por el monto de éstos;
 
-VI.- Los servidores públicos así como los Notarios y Corredores Públicos que autoricen algún acto jurídico, expidan testimonios, den trámite a algún documento en que se consignen actos convenidos, contratos y operaciones si no se cercioran de que se han cubierto total o parcialmente los impuestos, contribuciones especiales o derechos, o no den cumplimiento a las disposiciones correspondientes que regulen el pago de gravámenes, independientemente de que se harán acreedores a la imposición de sanciones previstas por esta Ley;
+VI.- Los servidores públicos así como los Notarios y Corredores Públicos que autoricen algún acto jurídico, expidan testimonios, den trámite a algún documento en que se consignen actos convenidos, contratos y operaciones si no se cercioran de que se han cubierto total o parcialmente los impuestos, contribuciones especiales o derechos, o no den cumplimiento a las disposiciones correspondientes que regulen el pago de gravámenes, independientemente de que se harán acreedores a la imposición de sanciones previstas para esta Ley;
 
 VII.- Los terceros que, para garantizar obligaciones fiscales de otros constituyan depósitos, prenda o hipoteca o permitan el secuestro de bienes de su propiedad, hasta por el valor de los otorgados en garantía;
 
@@ -733,11 +733,13 @@ La Dirección de Finanzas deberá determinar el monto del impuesto, de conformid
 
 Tratándose de cementerios, el impuesto a pagar durante el año, se liquidará sobre el valor catastral de la parte que no hubiese sido enajenada, el mes de enero del ejercicio de que se trate. A este efecto durante el primer mes de cada año, los sujetos del impuesto manifestarán la superficie que hubieren vendido el año anterior.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1995)</small>
+
 ###### ARTICULO 56.
 
-En los casos de excedencias o de predios no empadronados de construcciones, reconstrucciones o de ampliaciones no manifestadas; la liquidación comprenderá cinco años anteriores a la fecha de su descubrimiento por cualquier causa o motivo, salvo que el contribuyente pruebe que tales hechos u omisiones datan de fecha anterior.
+En los casos de excedencias o de predios no empadronados, de construcciones, reconstrucciones o de ampliaciones no manifestadas; la liquidación comprenderá cinco años anteriores a la fecha de su descubrimiento por cualquier causa o motivo, salvo que el contribuyente pruebe que tales hechos u omisiones datan de fecha más reciente.
 
-También se impondrá al propietario o poseedor del inmueble, una multa del 15% tomando en cuenta el valor catastral definitivo.
+También se impondrá al propietario o poseedor del inmueble, una multa del 10% tomando en cuenta el valor catastral definitivo.
 
 En caso de que la excedencia no rebase el 10% de la superficie total del inmueble, no se cobrará la multa a que se refiere el párrafo anterior.
 
@@ -783,35 +785,37 @@ Si transcurrido dicho plazo, no se expresan los datos o no se presentan los docu
 
 DEL OBJETO
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1995)</small>
 
 ###### ARTICULO 62.
 
-El valor del inmueble será el que resulte mayor entre el valor de adquisición o el valor catastral del mismo, disminuido con el valor que se tome como base para calcular el impuesto a que se refiere esta ley en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto.
+El valor del inmueble a que resulte mayor entre el valor de adquisición o el valor catastral del mismo, disminuido con el valor que se tome como base para calcular el impuesto a que se refiere esta Ley en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto.
 
-Para los efectos de esta Ley, se entiende por adquisición la que derive de:
+Para los efectos de esta Ley se entiende por adquisición la que se derive de:
 
-I.- Todo acto por el que se trasmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal, siempre que sean inmuebles propiedad de los copropietarios o de los cónyuges.
+I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de Asociaciones o Sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal. Siempre que sean inmuebles de propiedad de los copropietarios o de los cónyuges;
 
-II.- La compra-venta en la que el vendedor se reserva la propiedad, aún cuando la transferencia de ésta opere con posterioridad.
+II.- La compra-venta en la que el vendedor se reserva la propiedad aun cuando la transferencia de ésta opere con posterioridad;
 
-III.- La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él, antes de que se celebre el contrato prometido.
+III.- La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él, antes de que se celebre el contrato prometido;
 
-IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III, que anteceden.
+IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III que anteceden;
 
-V.-Fusión y escisión de propiedades.
+V.- Fusión y escisión de propiedades;
 
-VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles.
+VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles;
 
-VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal.
+VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal;
 
-VIII.- Prescripción positiva.
+VIII.- Prescripción positiva;
 
-IX.- La cesión de derechos del heredero, legatario o copropietario, en la parte relativa y en la proporción a los inmuebles. Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuada después de la declaratoria de herederos o legatarios.
+IX.- La cesión de derechos del heredero legatario o copropietario, en la parte relativa y en proporción a los inmuebles.
 
-X.- Enajenación a través de fideicomiso.
+Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuado después de la declaratoria de herederos o legatarios;
 
-XI.- La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía del por ciento que le correspondía al copropietario o cónyuge.
+X.- Enajenación a través de fideicomisos; y
+
+XI.- La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía del porciento que le correspondía al propietario o cónyuge.
 
 En las permutas se considerará que se efectúan dos adquisiciones.
 
@@ -873,37 +877,37 @@ Este impuesto se liquidará y recaudará de conformidad con las cuotas y tasas q
 
 DEL PAGO
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1995)</small>
 
 ###### ARTICULO 66.
 
-El pago del impuesto deberá hacerse dentro de los quince días siguientes a aquel en el que se realice cualquiera de los supuestos que a continuación se señalan:
+El pago del impuesto deberá hacerse dentro de los quince días siguientes a aquél en el que se realice cualquiera de los supuestos que a continuación se señalan:
 
 I.- Cuando se constituya o se adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga.
 
-II.- A la adjudicación de los bienes de la sucesión o a los tres años de la muerte del autor de la misma, si trascurrido dicho plazo no se hubiera llevado a cabo la adjudicación, así como al cederse los derechos hereditarios o al enajenarse bienes por la sucesión. En estos dos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento en que se realice la cesión o la enajenación, independientemente del que se cause por el cesionario o por el adquirente.
+II.- A la adjudicación de los bienes de la sucesión o a los tres años de la muerte del autor de la misma, si transcurrido dicho plazo no se hubiera llevado a cabo la adjudicación, así como al cederse los derechos hereditarios, o al enajenarse bienes por la sucesión. En estos dos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento en que se realice la cesión o la enajenación, independientemente del que se cause por el cesionario o por el adquirente.
 
 III.- Tratándose de adquisiciones efectuadas a través de fideicomiso, cuando se realicen los supuestos de enajenación en los términos del Código Fiscal de la Federación.
 
 IV.- Al protocolizarse o inscribirse el reconocimiento judicial de la prescripción positiva.
 
-V.- En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en Registro Público, para poder surtir efectos ante terceros en los términos del derecho común; y si no están sujetos o esta formalidad, al adquirirse el dominio conforme a las leyes.
+V.- En los casos no previstos en las fracciones anteriores cuando los actos de que se trate se eleven a escritura pública o se inscriban en Registro Público, para poder surtir efectos ante terceros en los términos del derecho común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las leyes.
 
-El contribuyente podrá pagar el impuesto por anticipado.
+El contribuyente podrá pagar el importe por anticipado.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
 DE LAS EXENCIONES
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 1995)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1995)</small>
 
 ###### ARTICULO 67.
 
-No se pagará el impuesto establecido en esta ley:
+No se pagará el impuesto establecido en ésta Ley:
 
-1.- En las adquisiciones de inmuebles que hagan la Federación, los Estados y Municipios, para formar parte del dominio público; los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso y las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
+I.- En las adquisiciones de inmuebles que hagan la Federación, los Estados y Municipios para formar parte del dominio público, y los Partidos Políticos Nacionales, siempre y cuando dichos inmuebles sean para su propio uso y las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero; y
 
-2.- En las transmisiones de bienes y derechos que por rescisión del contrato vuelvan éstos al enajenante.
+II.- En las transmisiones de bienes y derechos que por rescisión del contrato vuelvan éstos al enajenante.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
@@ -1688,3 +1692,13 @@ Los artículos 62 y 66 de la Ley de Hacienda del Municipio de Aguascalientes, qu
 ###### ARTICULO TERCERO.
 
 Las Asociaciones Religiosas constituidas en los términos de la Ley de Asociaciones Religiosas y Culto Público, no pagarán el importe sobre adquisición de inmuebles, únicamente por lo que ve a las adquisiciones que realice hasta el 31 de diciembre de 1995.
+
+P.O. 4 DE JUNIO DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las Asociaciones Religiosas constituidas en los términos de la Ley de Asociaciones Religiosas y Culto Público, no pagarán el impuesto sobre adquisición de inmuebles, únicamente por lo que ve a las adquisiciones que realicen hasta el 31 de diciembre de 1995.
