@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "1998-11-06"
+last_updated: "2001-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2001.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -1597,7 +1597,13 @@ III. Promover la participación activa y corresponsable de los sectores privado 
 
 IV. Promover los apoyos necesarios para reducir los costos de la vivienda y de sus materiales básicos, así como los Programas de autoconstrucción organizada y los movimientos cooperativistas para la vivienda;
 
-V.- Todas aquellas aciones tendientes al mejoramiento, conservación e incremento de la vivienda popular y de interés social que se derivan de esta Ley.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
+
+V. Impulsar acciones y programas en los sectores social y privado que permitan satisfacer subsidiariamente las necesidades de acceso a vivienda en condiciones de dignidad, esparcimiento y decoro para discapacitados;
+
+> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2001)</small>
+
+VI. Todas aquellas acciones tendientes al mejoramiento, conservación e incremento de la vivienda popular y de interés social que se derivan de esta Ley.
 
 ###### ARTICULO 146.
 
@@ -2418,3 +2424,11 @@ P.O. 6 DE NOVIEMBRE DE 1998.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
+
+P.O. 17 DE AGOSTO DE 2001.
+
+PRIMERO.- La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Poder Ejecutivo del Estado, adecuará la reglamentación en materia de Fraccionamientos a fin de incorporar las medidas normativas establecidas por el presente decreto.
+
+TERCERO.- Los gobiernos Municipales del Estado, en sus respectivos ámbitos de competencias, concertarán con los fraccionadores o promotores inmobiliarios de viviendas de interés social o popular, en sus jurisdicciones territoriales, sobre la previsión de viviendas destinadas para discapacitados en los términos de este decreto, de acuerdo a los mínimos o máximos que acuerde la autoridad municipal.
