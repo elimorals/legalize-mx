@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2003-12-30"
+last_updated: "2004-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2004.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -93,13 +93,19 @@ Para los efectos de este Código se consideran servicios de asistencia social lo
 
 I. La atención a personas que por sus problemas de discapacidad o indigencia, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
-II. La atención en establecimientos especializados a menores, senescentes y discapacitados en estado de abandono o maltrato;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2004)</small>
 
-III. La promoción de bienestar del senescente y el desarrollo de acciones de preparación para la senectud, a personas carentes de recursos;
+II. La atención en establecimientos especializados a menores, adultos mayores y discapacitados en estado de abandono o maltrato;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2004)</small>
+
+III. La promoción de bienestar del adulto mayor y el desarrollo de acciones de preparación para la senectud, a personas carentes de recursos;
 
 IV. El ejercicio de la tutela de los menores e incapaces, en los términos de las disposiciones legales aplicables;
 
-V. La prestación de servicios de asistencia jurídica y de orientación social, a las personas que lo necesiten, especialmente a menores, ancianos, personas discapacitadas, incapaces o indigentes;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2004)</small>
+
+V. La prestación de servicios de asistencia jurídica y de orientación social, a las personas que lo necesiten, especialmente a menores, adultos mayores, personas con discapacidad, incapaces o indigentes;
 
 VI. La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
 
@@ -273,9 +279,11 @@ VI. Promoverán y gestionarán ante los municipios y demás entes públicos, de 
 
 ### CAPITULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 17.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco, es un organismo público descentralizado con personalidad jurídica y patrimonio propios, encargado de realizar las funciones que le asigna este Código y las demás disposiciones legales aplicables.
+El Sistema para el Desarrollo Integral de la Familia del Estado de Jalisco, es un organismo público descentralizado con personalidad jurídica y patrimonio propios, encargado de la asistencia social pública y demás funciones que le asigna este Código y las demás disposiciones legales aplicables.
 
 ###### Artículo 18.
 
@@ -781,9 +789,11 @@ Siempre que se cumplan todos los requisitos, el Consejo Estatal otorgará la acr
 
 Los organismos públicos tendrán la calidad de delegados institucionales en los términos que señale la ley.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 52.
 
-La actuación de los delegados en materia judicial se deberá entender de manera unitaria; y tendrán la representación jurídica del Consejo Estatal en todos los procedimientos en los que intervengan dentro del ámbito de su competencia; cuando tuvieren conocimiento de hechos que estimen delictivos, deberán formular las denuncias ante el Ministerio Público.
+La actuación de los delegados en materia judicial se deberá entender de manera unitaria; y tendrán la representación jurídica del Consejo Estatal en todos los actos y procedimientos en los que intervengan dentro del ámbito de su competencia; Cuando tuvieren conocimiento de hechos que estimen delictivos, deberán formular las denuncias ante el Ministerio Público.
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 1999)</small>
 
@@ -1169,11 +1179,15 @@ El Instituto Cabañas es un organismo público descentralizado, con personalidad
 
 El Instituto Cabañas, en ejercicio de sus atribuciones y en cumplimiento de sus fines tiene las siguientes facultades y obligaciones:
 
-I. La asistencia material y educativa a los menores albergados en el Instituto en los términos del artículo 439 del Código Civil del estado;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2004)</small>
+
+I. La asistencia material y educativa a los menores albergados en el Instituto en los términos del artículo 439 del Código Civil del estado, así como la protección y tutela de los mismos;
 
 II. Inculcar en la niñez que se encuentra asilada en el Instituto Cabañas los principios de solidaridad social;
 
-III. Fungir como delegado Institucional del Consejo Estatal de Familia de los menores albergados en el Instituto Cabañas que no tengan quien ejerza la patria potestad;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2004)</small>
+
+III. Fungir como delegado Institucional del Consejo Estatal de Familia para los efectos del artículo 52 de éste Código, respecto de los menores albergados en el Instituto Cabañas que no tengan quien ejerza la patria potestad;
 
 IV. Fomentar en los menores, los valores éticos que les permitan desarrollarse plenamente en las condiciones actuales de la vida social;
 
@@ -1471,11 +1485,11 @@ La capacidad jurídica de las instituciones de asistencia social privada está c
 
 Las personas jurídicas que se dediquen a la asistencia social privada, antes de iniciar sus labores, deberán contar con la anuencia del Instituto, debiendo constituirse como fundaciones o asociaciones de acuerdo a lo que prevé la legislación civil en el capítulo de las personas jurídicas.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 93.
 
-El instituto realizará el análisis de la solicitud de todas las personas jurídicas de asistencia social privada, integrando al Sistema de Asistencia Social a aquellas que, cumpliendo con todos los requisitos exigidos, así se constituyan.
+El Instituto realizará el registro, análisis y propuesta de la constitución de aquellas instituciones de asistencia social privada que pretenda (sic) integrarse al Sistema de Asistencia Social.
 
 ###### Artículo 94.
 
@@ -2411,7 +2425,7 @@ Contra las resoluciones en las que se impongan las sanciones contenidas en este 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO II. De los Conceptos
 
@@ -2427,7 +2441,7 @@ Contra las resoluciones en las que se impongan las sanciones contenidas en este 
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO SEGUNDO. DEL CONSEJO PARA LA PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR
 
@@ -2675,7 +2689,7 @@ Para los efectos de la presente ley, se consideran adultos mayores a las persona
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO SEGUNDO. DE LOS DERECHOS Y DEBERES DE LOS ADULTOS MAYORES
+## TITULO TERCERO. DE LA PARTICIPACION DE LA FAMILIA
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2751,7 +2765,7 @@ V. Los demás que establezcan los ordenamientos jurídicos aplicables.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO TERCERO. DE LA PARTICIPACION DE LA FAMILIA
+## TITULO QUINTO. DE LA ASISTENCIA SOCIAL
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2789,7 +2803,7 @@ Corresponde a la familia procurar que sus miembros adopten pautas de conducta y 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO CUARTO. DE LA PARTICIPACION DE LA SOCIEDAD
+## TITULO SEPTIMO. RESPONSABILIDADES Y SANCIONES
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2829,7 +2843,7 @@ Los establecimientos que presten servicio a los adultos mayores deberán habilit
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO QUINTO. DE LA ASISTENCIA SOCIAL
+## TITULO SEGUNDO. DE LOS DERECHOS Y DEBERES DE LOS ADULTOS MAYORES
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -2891,9 +2905,9 @@ Las asociaciones civiles, fundaciones o patronatos de asistencia privada podrán
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-## TITULO SEXTO. DE LAS AUTORIDADES COMPETENTES
+## TITULO CUARTO. DE LA PARTICIPACION DE LA SOCIEDAD
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 247.
 
@@ -2985,11 +2999,11 @@ Corresponde a la Secretaría de Salud expedir la cartilla de salud para los adul
 
 Es responsabilidad de la Dirección del Trabajo y Previsión Social ofrecer capacitación para el trabajo y adiestramiento adecuado a los adultos mayores que así lo soliciten y no cuenten con recursos económicos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-## TITULO SEPTIMO. RESPONSABILIDADES Y SANCIONES
+## TITULO SEXTO. DE LAS AUTORIDADES COMPETENTES
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 250.
 
@@ -3025,11 +3039,11 @@ La falta de decoro o respeto en el trato con los adultos mayores, por parte de i
 
 El cuidado inadecuado, abuso o negligencia que afecte a los Adultos Mayores y la violación a sus derechos por parte de sus familiares, ciudadanos en general o instituciones lucrativas o no, públicas o privadas, se sancionará conforme a la ley respectiva.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
 # LIBRO OCTAVO. DE LA DONACION DE ALIMENTOS
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO UNICO
 
@@ -3077,7 +3091,7 @@ Los Sistemas para el Desarrollo Integral de la Familia, promoverán la asistenci
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO IV. De los Estímulos y Sanciones
+### CAPITULO III. De los Donantes de Alimentos
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -3131,9 +3145,9 @@ La imposibilidad de pagar la cuota de recuperación no será motivo para negar e
 
 Las cuotas de recuperación y balances financieros de las operaciones de los bancos de alimentos deberán reportarse anualmente al Instituto.
 
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-### CAPITULO III. De los Donantes de Alimentos
+### CAPITULO IV. De los Estímulos y Sanciones
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -3156,6 +3170,8 @@ Los donantes de alimentos pueden suprimir la marca de los objetos que donen cuan
 Los donantes de alimentos quedan exentos de responsabilidad en caso de daño a la salud de los beneficiarios, siempre y cuando los productos alimenticios cumplan con las condiciones que señala esta ley.
 
 Los Bancos de alimentos sólo serán responsables de los daños que se causen, cuando se acredite que existió negligencia o dolo en la recepción, cuidado o distribución de los productos alimenticios.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 268.
 
@@ -3190,8 +3206,6 @@ III. Los que teniendo conocimiento de que los alimentos no se encuentran aptos p
 ###### Artículo 272.
 
 Para lo no previsto en el presente Libro se estará a lo señalado en el Libro Tercero de este Código.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ## TRANSITORIOS
 
@@ -3348,3 +3362,7 @@ P.O. 30 DE DICIEMBRE DE 2003.
 DECRETO NUMERO 20402.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 10 DE FEBRERO DE 2004.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
