@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1980-06-25"
+last_updated: "1980-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 1980.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -184,15 +184,35 @@ V.- Por vagancia, ebriedad o toxicomanía consuetudinarias, declaradas en la for
 
 VI.- El que esté residiendo habitualmente fuera del Estado, salvo los casos de desempeño de cargo de elección popular, estudios, o de alguna otra comisión o empleo conferido por la Federación, Estado, o alguno de los Municipios del mismo.
 
+> <small>(REFORMADO, 26 DE NOVIEMBRE DE 1980)</small>
+
 ###### Artículo 18.
 
-Es facultad exclusiva del Congreso del Estado, rehabilitar en los derechos de (sic) ciudadano a quien los hubiere perdido; pero es requisito indispensable para conceder esta gracia, que la persona objeto de ella, goce de los derechos de ciudadano mexicano.
+Es facultad exclusiva del Congreso del Estado, rehabilitar en los derechos de ciudadano a quien los hubiere perdido; pero es requisito indispensable para conceder esta gracia, que la persona objeto de ella goce de los derechos de ciudadano mexicano.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1932)</small>
+La calidad de ciudadano morelense se recobra por el solo hecho de haber cesado la causa que motiva la suspensión.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 19.
 
-La calidad de ciudadano Morelense se recobra por el solo hecho de haber cesado la causa que motiva la suspensión.
+El varón y la mujer son iguales ante la Ley. Esta protegerá la organización y desarrollo de la familia, dentro de la cual tiene preferencia la atención del menor de edad y el anciano. La protección familiar se dará conforme a las bases siguientes:
+
+I.- Corresponde a los miembros del núcleo la atención y cuidado de cada uno de los familiares. El Estado auxiliará a la familia complementariamente.
+
+II.- El menor de edad tiene derecho:
+
+a).- A conocer a sus padres y ser respetado en su integridad física y psíquica por parte de ellos y de la sociedad;
+
+b).- A que se le proporcione alimentación, a la educación básica, a la especial en los casos que se requieran y a la superior de ser posible. Tendrá derecho a la protección y conservación de su salud, todo ello respetando su derecho a la libertad;
+
+c).- A que se le proteja con medidas de seguridad o que garanticen su readaptación social;
+
+d).- A no ser explotado en el trabajo;
+
+e).- A no ser separado del seno de la familia sino en los casos excepcionales que las Leyes secundarias determinen.
+
+III.- Los ancianos tienen derecho de acuerdo con la dignidad humana a un albergue decoroso e higiénico y a la atención y cuidado de su salud, alimentación y debido esparcimiento, de parte de sus familiares.
 
 ### CAPITULO UNICO.
 
@@ -296,15 +316,13 @@ La vecindad no se pierde por ausencia en el desempeño de los cargos públicos d
 
 No pueden ser Diputados:
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
-I.- El Gobernador del Estado, el Secretario de Gobierno y el funcionario o empleado que conforme a la Ley, cubra las faltas accidentales de éste, siempre que la suplencia se efectúe durante el período electoral.
+I.- El Gobernador del Estado, los Secretarios del despacho y el funcionario o empleado que, conforme a la Ley, cubra las faltas accidentales de éste, siempre que la suplencia se efectúe durante el período electoral.
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
+II.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980) (F. DE E., P.O. 7 DE ENERO DE 1981)
 
-II.- El Secretario de Finanzas, el de Programación y Presupuesto, el de Asentamientos Humanos y Obras Públicas y el de Desarrollo Agropecuario.
-
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
+(REFORMADA, P.O. 4 DE AGOSTO DE 1965) (F. DE E., P.O. 7 DE ENERO DE 1981)
 
 III.- El Secretario de Finanzas y Promoción Económica.
 
@@ -370,9 +388,11 @@ Los plazos de presentación de las leyes de ingresos, presupuestos de egresos y 
 
 Lo anterior se entiende, sin perjuicio de que el Congreso, en ambos períodos desarrolle su actividad legislativa general y se ocupe de los demás asuntos que le compete conforme a esta Constitución.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+
 ###### Artículo 33.
 
-A la apertura de las sesiones ordinarias del Congreso, concurrirá el Gobernador del Estado, y en la apertura del primer período rendirá un informe acerca de la situación que aguarden los diversos Ramos de la Administración Pública. El Presidente del Congreso contestará en términos generales.
+A la apertura de ambos períodos de sesiones del Congreso concurrirá el Gobernador del Estado. En el primero rendirá informe acerca de la situación que guarden los diversos Ramos de la Administración Pública, excepto el último año de su gestión en que lo hará el día 15 de mayo. El Presidente del Congreso contestará el informe en términos generales.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -568,9 +588,9 @@ XXXVIII.- Nombrar, a propuesta en terna del Ejecutivo, persona que represente al
 
 XXXIX.- Decidir sobre la legalidad de las elecciones municipales, cuando se reclame en contra de ellas, y resolver en cada caso lo conveniente.
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1932)</small>
+(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980) (F. DE E., P.O. 7 DE ENERO DE 1981)
 
-XL.- Declarar que ha o no lugar a formación de causa por delitos comunes contra los Diputados, el Gobernador, Secretario de Gobierno y Magistrados del Tribunal Superior.
+XL.- Declarar que ha lugar o no a formación de causa por delitos oficiales y del orden común en contra de los Diputados, el Gobernador, los Secretarios de Despacho, Procurador de Justicia y Magistrados del Tribunal Superior de Justicia.
 
 XLI.- Declarar sobre la culpabilidad de los mismos funcionarios, por los delitos que cometan en ejercicio de sus funciones.
 
@@ -582,9 +602,9 @@ XLIII.- Expedir el Reglamento del Tribunal Superior de Justicia, a iniciativa de
 
 XLIV.- Dictar las resoluciones o acuerdos económicos que estime pertinentes, relativos a su régimen interior.
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1979)</small>
+(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980) (F. DE E., P.O. 7 DE ENERO DE 1981)
 
-XLV.- Integrar, a solicitud de las dos terceras partes de sus miembros, comisiones que procedan a la investigación del funcionamiento de los organismos descentralizados y empresas de participación estatal mayoritarias, haciendo del conocimiento del Ejecutivo los resultados.
+XLV.- Para expedir Leyes a fin de crear Organismos Descentralizados y Empresas de Participación Estatal. Asimismo para integrar a solicitud de las dos terceras partes de sus miembros, comisiones que procedan a la investigación del funcionamiento de los organismos descentralizados y empresas de participación estatal, haciendo del conocimiento del Ejecutivo los resultados.
 
 > <small>(ADICIONADA, P.O. 2 DE ENERO DE 1979)</small>
 
@@ -728,7 +748,7 @@ DEL PODER EJECUTIVO.
 
 DE LA HACIENDA PUBLICA, PROGRAMACION Y DEL DESARROLLO URBANO Y RURAL.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 57.
 
@@ -764,9 +784,9 @@ II.- Los miembros del Ejército Mexicano y quienes tengan mando de fuerza dentro
 
 III.- Los que tengan algún cargo o comisión civil del Gobierno Federal, si no se han separado noventa días inmediatamente anteriores a la elección.
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
-IV.- El Secretario de Gobierno, el Secretario de Finanzas, el Secretario de Programación y Presupuesto, el Secretario de Asentamientos Humanos y Obras Públicas, el Secretario de Desarrollo Agropecuario, el Procurador General de Justicia y los Magistrados del Tribunal Superior de Justicia, si no se separan de sus respectivas funciones noventa días antes de la elección.
+IV.- Los Secretarios del Despacho, el Procurador General de Justicia y los Magistrados del Tribunal Superior de Justicia si no se separan de sus respectivas funciones 90 días antes del día de la elección.
 
 > <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 1933)</small>
 
@@ -778,9 +798,11 @@ a). El Gobernador Substituto constitucional o el designado para concluir el per�
 
 b). El Gobernador interino, el provisional, o el ciudadano que bajo cualquiera denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+
 ###### Artículo 61.
 
-Si el día señalado no se presentare el Gobernador electo a otorgar la protesta, entrará la persona que deba suplirlo en sus faltas accidentales, conforme al artículo 63 de está Constitución.
+El día y hora señalados para la toma de posesión, el Gobernador saliente hará la entrega oficial de la Administración Pública del Estado en los términos que para el efecto indique el protocolo correspondiente. Si no se presentase el Gobernador electo a otorgar la protesta entregará a la persona que deba suplir a aquél en sus faltas accidentales, conforme al Artículo 63 de esta Constitución.
 
 ###### Artículo 62.
 
@@ -918,19 +940,29 @@ XXIV.- Velar por el libre ejercicio ciudadano del voto.
 
 XXV.- Salir del territorio del Estado o separarse de sus funciones, sin autorización del Congreso, hasta por treinta días.
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
-XXVI.- Adoptar todas las medidas necesarias para la buena marcha de la administración y crear los organismos descentralizados y empresas de participación estatal que estime benéficos.
+XXVI.- Adoptar todas las medidas necesarias para la buena marcha de la Administración y tener en forma exclusiva la iniciativa de Leyes para crear los organismos descentralizados y empresas de participación estatal.
 
 > <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
 XXVII.- Remover a los miembros de los Ayuntamientos cuando observen mala conducta, abusen de sus facultades, incurran en responsabilidad o cometan algún delito, sometiendo a la aprobación del Congreso o de la Diputación Permanente, la medida adoptada, llamar a los suplentes al ejercicio de sus funciones municipales, y en caso de falta de éstos o que sean incluídos en la remoción, aprobar la designación que haga el Ejecutivo para integrar el Concejo Municipal, sin perjuicio de la consignación que proceda a las Autoridades competentes.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+
+XXVIII.- Ejercer todos los derechos y facultades concurrentes que el Artículo 27 de la Constitución Federal no reserve a la Nación o los Municipios con las siguientes atribuciones específicas:
+
+a).- Dictar mandamiento para resolver en primera instancia los expedientes relativos a la restitución de tierras y aguas así como dotación complementaria y ampliación de ejidos;
+
+b).- Emitir opinión en los expedientes sobre creación de nuevos centros de población y en los de expropiación de tierras, bosques y aguas ejidales y comunales y,
+
+c).- Nombrar y remover libremente a los representantes del Gobierno a la Comisión Agraria Mixta; la que estará integrada en los términos que establece la Ley Federal de Reforma Agraria.
+
+(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 1980) (F. DE E., P.O. 7 DE ENERO DE 1981)
 
 ###### Artículo 71.
 
-En ningún caso podrá el Gobernador celebrar convenio por el cual, a título oneroso o gratuito, se conceda a los particulares la recaudación o administración de los ingresos.
+El Gobernador del Estado podrá celebrar convenios sobre las materias que sean necesarias, con la Federación, con otros Estados y con los Municipios de la Entidad.
 
 I.- Promulgar, cumplir, hacer cumplir y ejecutar las leyes, decretos y acuerdos del Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia.
 
@@ -956,13 +988,15 @@ XI.- Facilitar a los Tribunales el auxilio que necesiten para el expedito ejerci
 
 XII.- Impedir que las Autoridades Administrativas subalternas, se arroguen el conocimiento de asuntos o negocios judiciales de carácter civil o penal, salvo la excepción establecida por el artículo 16 de la Constitución General de la República.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 72.
 
-El Gobernador no podrá celebrar convenio alguno, por el cual queden comprometidos los ingresos estatales para un ejercicio gubernativo posterior.
+El Gobernador en ningún caso podrá celebrar convenios:
 
-Cuando el interés público demande lo contrario, toca al Congreso del Estado la aprobación previa de la medida, el cual valorará, prudentemente, la necesidad de su adopción y las repercusiones de la misma.
+I.- Para que a título oneroso o gratuito conceda a los particulares la recaudación o administración de los ingresos.
+
+II.- Para comprometer los ingresos respecto de un ejercicio gubernativo posterior. Cuando el interés público demande lo contrario toca al Congreso del Estado la aprobación previa de la medida, debiendo el Congreso valorar prudentemente la necesidad de su adopción y las repercusiones de la misma.
 
 ###### Artículo 73.
 
@@ -982,39 +1016,43 @@ Para el despacho de los negocios encomendados al Ejecutivo habrá un Secretario 
 
 La Ley correspondiente determinará las atribuciones y funciones de cada uno de los Secretarios del despacho.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 75.
 
-Para ser Secretario del Ejecutivo Estatal, en relación con el artículo anterior, se requiere:
+Para ser Secretario del Despacho se requiere:
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
 
 I.- Ser ciudadano Morelense por nacimiento o ciudadano mexicano por nacimeinto, (sic) debiendo en este último caso tener un mínimo de cinco años de residencia en el Estado.
 
-II.- Ser mayor de 25 años de edad.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
-III.- Tener la preparación necesaria a juicio del Gobernador del Estado, para el desempeño de su cargo.
+II.- Ser mayor de 25 años de edad y,
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
 
+III.- Tener la preparación necesaria a juicio del Gobernador del Estado, para el desempeño de su cargo.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+
 ###### Artículo 76.
 
-Los Decretos, Reglamentos y Acuerdos del Gobernador del Estado, deberán ser suscritos por el Secretario de Gobierno, exceptuándose de esta regla, los que se refieran a la Hacienda Pública que serán suscritos por el Secretario de Finanzas y los que se refieren a la promoción económica, gastos, aplicaciones y egresos en general, que serán suscritos por el Secretario de Programación y Presupuesto.
+Todos los Decretos, Reglamentos y Acuerdos del Gobernador del Estado, deberán ser suscritos por el Secretario del Despacho encargado del Ramo a que el asunto corresponda. Las Leyes y Decretos Legislativos deberán ser firmados además por el Secretario de Gobierno.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 77.
 
-Los Secretarios del Estado, serán los órganos de comunicación por cuyo conducto hará saber el Gobernador sus resoluciones, y en su caso llevarán la voz de éste ante el Congreso, cuando el Gobernador o la cámara lo juzguen oportuno.
+Los Secretarios del Despacho serán los órganos de comunicación por cuyo conducto hará saber el Gobernador sus resoluciones y en su caso, llevarán la voz de éste ante el Congreso, cuando el Gobernador o la Legislación Local lo juzguen oportuno.
 
-Una vez abiertos los períodos extraordinarios de sesiones, los Secretarios del Estado, comparecerán ante el Congreso y darán cuenta del estado que guarden sus correspondientes Secretarías.
+En cualquier tiempo el Congreso del Estado o la Diputación Permanente podrá citar a los Secretarios de Despacho para que informen del Estado que guarda la Administración de sus respectivos ramos. Asimismo podrán citarlos para explicar y asesorar al Congreso cuando se vaya a discutir un proyecto de Ley o a estudiar un negocio relacionado con el ramo de que está encargado.
 
-En cualquier tiempo, tanto el Congreso como la Comisión Permanente podrán citar a los Secretarios del Estado, cuando se discute una Ley o se estudie un negocio relativo a su Secretaría, para que informen en relación con el mismo.
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 78.
 
-Los Secretarios del Estado serán responsables de las resoluciones del Gobernador que autoricen con su firma contrarias a la Constitución y Leyes Federales, o a la Constitución y Leyes del Estado, sin perjuicio de las responsabilidades que correspondan al Gobernador.
+Los Secretarios del Despacho serán responsables de las resoluciones del Gobernador que autoricen con su firma, contrarias a la Constitución y Leyes Federales o a la Constitución y Leyes del Estado, sin perjuicio de las responsabilidades que correspondan al Gobernador.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -1036,83 +1074,37 @@ DEL MINISTERIO PUBLICO.
 
 ###### Artículo 80.
 
-La Hacienda Pública del Estado estará integrada:
+La Hacienda Pública se integra:
 
-I.- Por los bienes propiedad del Estado.
+I.- Por los bienes públicos y privados propiedad del Estado.
 
-II.- Por los ingresos provenientes de Impuestos, derechos, productos y aprovechamientos.
+II.- Por los ingresos previstos anualmente en la Ley correspondiente.
 
-III.- Por los capitales y rendimientos que le correspondan en organismos descentralizados y empresas de participación estatal.
+III.- Por el gasto público, que estará contenido en el Presupuesto de Egresos que en Ley se expida anualmente.
 
-IV.- Por las participaciones en impuestos federales.
+IV.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980)
 
-V.- Por los subsidios que le otorgue la Federación.
+V.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980)
 
-VI.- Por los bienes e ingresos provenientes de herencias, legados y donaciones.
+VI.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980)
 
-VII.- Por los ingresos provenientes de empréstitos, y
+VII.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980)
 
-VIII.- Por los demás bienes e ingresos a que tenga derecho.
+VIII.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980)
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 81.
 
-Los encargados directos de la Planeación Económica del programa para obtener los Ingresos del Manejo de Hacienda Pública y del Desarrollo Urbano y Rural, serán:
+Los responsables de la administración de los ingresos y egresos del Estado serán los Secretarios de Finanzas y de Programación y Presupuesto, respectivamente.
 
-a).- El Secretario de Programación y Presupuesto quien tendrá las siguientes atribuciones:
-
-I.- Proyectar el fomento y desarrollo económico del Estado.
-
-II.- Programar, coordinar y autorizar las inversiones públicas de acuerdo con los planes de desarrollo establecidos.
-
-III.- Representar al Estado para que los capitales que le corresponda en Organismos Descentralizados y empresas de participación estatal den mejores rendimientos.
-
-IV.- Realizar la inversión de los fondos públicos y vigilar su aplicación.
-
-V.- Las adquisiciones de todas clases.
-
-VI.- Las demás que le asignen las Leyes de la materia y las que le señale el Gobernador.
-
-b).- El Secretario de Finanzas tendrá las siguientes facultades:
-
-I.- La recaudación de los fondos públicos.
-
-II.- Las que le otorgue la Ley General de Hacienda, las Leyes Especiales, de Impuesto y Contribuciones, la Ley de Ingresos para cada año; la Ley de lo Contencioso Administrativo cuando tenga aplicación en materia hacendaria, los reglamentos, circulares y demás disposiciones derivadas y conexas.
-
-III.- La recaudación de impuestos, derechos, productos y aprovechamientos.
-
-IV.- Las demás que le asigna las Leyes de Captación Fiscal y las que le señale el Gobernador.
-
-c).- El Secretario de Asentamientos Humanos y Obras Públicas, quien tendrá las siguientes atribuciones:
-
-I.- Elaborar los planes del Desarrollo de los Asentamientos Humanos, así como del Desarrollo Urbano y Turístico.
-
-II.- Ejecutar las obras aprobadas expresamente, de acuerdo a la fracción anterior.
-
-III.- Controlar el registro público de inmuebles en general.
-
-IV.- Llevar el registro y el control de los bienes del Estado.
-
-V.- Las demás que le asigne las Leyes de la materia y las que le señale el Gobernador.
-
-d).- El Secretario del Desarrollo Agropecuario tendrá las siguientes atribuciones:
-
-I.- Elaborar los planes del Desarrollo Agropecuario del Estado, así como los de la construcción de obras e infraestructura hidráulica, de dicho sector.
-
-II.- Ejecutar los programas aprobados expresamente de acuerdo a la fracción anterior.
-
-III. Elaborar y supervisar los programas de las empresas de participación estatal, del sector agropecuario.
-
-IV.- Conservar y controlar el equipo y maquinaria necesaria para la realización de los programas del sector agropecuario.
-
-V.- Las demás que le asigne las Leyes de la materia y las que le señale el Gobernador.
-
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 82.
 
-El pago de los sueldos señalados en el Presupuesto, se hará con equidad a todos los funcionarios y servidores del Estado. Es caso de responsabilidad para el Secretario de Programación y Presupuesto cualquier infracción a este Artículo.
+El pago de los sueldos señalados en el Presupuesto, se hará con equidad a todos los funcionarios y servidores del Estado.
+
+Es caso de responsabilidad para el Secretario de Programación y Presupuesto cualquier infracción a este Artículo.
 
 ###### Artículo 83.
 
@@ -1133,6 +1125,8 @@ DE LA DEFENSORIA PUBLICA.
 ### CAPITULO I.
 
 DE LA ORGANIZACION DE LOS MUNICIPIOS.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ### CAPITULO II.
 
@@ -1218,17 +1212,25 @@ Las faltas absolutas de los Magistrados propietarios ó suplentes, se cubrirán 
 
 Los Magistrados y Jueces no podrán ser removidos de sus respectivos encargos sino cuando observen mala conducta y previo juicio de responsabilidad; a menos que los Jueces sean promovidos a grado superior y sin perjuicio de la facultad que concede al Tribunal Superior la fracción XIII del artículos (sic) siguiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+
 ###### Artículo 99.
 
-Corresponde al Tribunal Superior:
+Corresponde al Tribunal Superior de Justicia:
 
 I.- Iniciar ante el Congreso del Estado las Leyes y Decretos que tiendan a mejorar la organización de los Tribunales del mismo, la legislación civil y penal y los procedimientos judiciales.
 
-II.- Conocer de los juicios que hayan de formarse a los funcionarios del Estado, a quienes el Congreso haya declarado con lugar a formación de causa por delitos de orden común.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
-III.- Conocer como jurado de sentencia en las causas instruidas contra los mismos funcionarios por delitos oficiales, integrado también con los Magistrados Suplentes.
+II.- Conocer y resolver sobre la responsabilidad en que incurran los jueces de Primera Instancia en cumplimiento a lo establecido en el primer párrafo del Artículo 142 de esta Constitución.
 
-IV.- Conocer de las causas por delitos comunes u oficiales de los Presidentes Municipales y Jueces de Primera Instancia, y de quienes hagan sus veces.
+Si dicha responsabilidad es de naturaleza penal remitirá el expediente al Procurador de Justicia del Estado para los efectos de su representación legal.
+
+III.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980)
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+
+IV.- Conocer de las causas por delitos oficiales y comunes de los miembros del Ayuntamiento.
 
 V.- Decidir las competencias que se susciten entre los Jueces de Primera Instancia y entre éstos y los de inferior categoría.
 
@@ -1346,7 +1348,9 @@ DEL GOBIERNO Y DE LA ADMINISTRACION INTERIOR DEL ESTADO.
 
 ###### Artículo 110.
 
-El Estado de Morelos, para su régimen interior, se divide en los siguientes Municipios Libres: Cuernavaca, Cuautla, Jojutla, Yautepec, Jonacatepec, Tetecala, Puente de Ixtla, Tlaquiltenango, Ocuituco, Miacatlán, Yecapixtla, Zacualpan, Tepalcingo, Axochiapam (sic), Jantetelco, Ayala, Xochitepec, Tlaltizapan, Tepoztlan, Tlayacapan, Jiutepec, Coatlan del Río, Mazatepec, Totolapan, Huitzilac, Amacuzac y Tlalnepantla.
+El Estado de Morelos, para su régimen interior, se divide en los siguientes Municipios Libres:
+
+Amacuzac, Atlatlahucan, Axochiapan, Ayala, Coatlán del Río, Cuautla, Cuernavaca, Emiliano Zapata, Huitzilac, Jantetelco, Jiutepec, Jojutla, Jonacatepec, Mazatepec, Miacatlán, Ocuituco, Puente de Ixtla, Temixco, Temoac, Tepalcingo, Tepoztlán, Tetecala, Tetela del Volcán, Tlalnepantla, Tlaltizapán, Tlaquiltenango, Tlayacapan, Totolapan, Xochitepec, Yautepec, Yecapixtla, Zacatepec y Zacualpan.
 
 ###### Artículo 111.
 
@@ -1364,11 +1368,11 @@ Los Poderes del Estado son los únicos superiores jerárquicos de los Municipios
 
 Los Municipios tienen personalidad jurídica propia; pero la política y la administrativa de los mismos, fuera del Estado, corresponde al Ejecutivo como representante de toda la Entidad, excepto en los casos de aplicación de leyes federales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 1967)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 115.
 
-El Congreso del Estado expedirá las leyes Orgánicas y la de División Territorial Municipales, con sujeción a las siguientes bases:
+El Congreso del Estado expedirá las Leyes Orgánicas y la de División Territorial Municipal con sujeción a las siguientes bases:
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -1408,9 +1412,9 @@ VIII.- La Ley de División Territorial Municipal fijará el número de Municipio
 
 IX.- La Ley Orgánica Municipal determinará la competencia del Ayuntamiento en funciones de Cabildo y las facultades del Presidente Municipal.
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
-X.- Cuando por cualquier circunstancia desaparecieran los Ayuntamientos, tendrá facultades el Congreso del Estado o en su defecto la Diputación Permanente para aprobar la designación que haga el Ejecutivo de un Concejo Municipal mientras se convoca a elecciones, si la falta ocurriera el último año del período de su ejercicio, terminarán el período.
+X.- Si por imposibilidad física o legal, por licencia o cualquier otra causa injustificada, la totalidad de los miembros propietarios y suplentes de un Ayuntamiento dejaren de ejercer sus funciones, el Jefe del Ejecutivo solicitará la declaración correspondiente a la Legislatura del Estado o a la Diputación Permanente en su caso, acompañando las constancias relativas y proponiendo al mismo tiempo la designación del Concejo Municipal que ejercerá el Período respectivo.
 
 ###### Artículo 116.
 
@@ -1448,7 +1452,7 @@ Las diferencias que se susciten entre los Municipios, siempre que no tengan car�
 
 DE LA RESPONSABILIDAD DE LOS ALTOS FUNCIONARIOS DEL ESTADO.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 119.
 
@@ -1462,17 +1466,17 @@ II.- Se fundará una escuela de agricultura para impartir la enseñanza agrícol
 
 El matrimonio es la unión voluntaria de un hombre y una mujer, sancionada por el Estado, para perpetuar la especie y ayudarse mutuamente. El divorcio disuelve el vinculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. El matrimonio y los demás actos del estado civil de las personas, son de la exclusiva competencia de los funcionarios y autoridades del orden civil, en los términos prevenidos por las leyes, y tendrán la fuerza y validez que las mismas les atribuyan.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+
 ###### Artículo 121.
 
-La enseñanza es libre, pero laica, excepto la profesional de los establecimientos particulares.
+La educación en el Estado de Morelos se ajustará estrictamente a las disposiciones del Artículo 3º. y demás relacionados de la Constitución Federal.
 
-Ninguna corporación religiosa ni ministro de algún culto, podrán establecer o dirigir escuelas de instrucción primaria, por si ni por interpósita persona.
+La enseñanza media superior y superior se regirá por las Leyes estatales correspondientes y se ajustarán a los términos del Artículo 5o. de la Constitución General de la República. Esta podrá ser impartida por instituciones creadas o autorizadas por el Gobierno del Estado, a las que en su caso podrá otorgar autonomía.
 
-Las escuelas primarias particulares sólo podrán establecerse mediante la vigilancia oficial.
+Se otorga a la Universidad del Estado plena autonomía para impartir la enseñanza media superior y superior, crear las bases y desarrollar la investigación científica y humanística así como fomentar y difundir los beneficios de la cultura respetando la libertad de cátedra e investigación y el libre examen y discusión de las ideas; para determinar sus planes y programas; fijar los términos de ingreso, promoción y permanencia de su personal académico; tener la libre disposición y administración de su patrimonio, incluyendo el incremento del mismo por medio de fuentes propias, y realizar todos aquellos actos relacionados con sus fines.
 
-La enseñanza primaria oficial será gratuita.
-
-Por ningún motivo se revalidará, otorgará dispensa o se determinará cualquier otro trámite que tenga por fin dar validez en los cursos oficiales a estudios hechos en los establecimientos destinados a la enseñanza profesional de los ministros de los cultos. La autoridad que infrinja esta disposición será penalmente responsable, y la dispensa o trámite referidos se anulará, trayendo consigo también la nulidad del título profesional para cuya obtención haya sido parte la infracción de este precepto.
+El Congreso del Estado proveerá los instrumentos legales necesarios para el cumplimiento de la función social educativa, expedir la Ley para el ejercicio de las profesiones en el Estado y para fijar las sanciones aplicables a quienes no cumplan o hagan cumplir las normas relativas a dicha función educativa o a las personas que las infrinjan.
 
 ###### Artículo 122.
 
@@ -1548,57 +1552,83 @@ DE LA OBSERVANCIA, REFORMAS E INVIOLABILIDAD DE LA CONSTITUCION.
 
 ###### Artículo 134.
 
-Los Diputados al Congreso del Estado, el Gobernador, el Secretario de Gobierno, el Secretario de Finanzas, el de Programación y Presupuesto, el de Asentamiento (sic) Humanos y Obras Públicas, el del Desarrollo Agropecuario y los Magistrados del Tribunal Superior de Justicia, son responsables por los delitos comunes cometidos durante el tiempo de su encargo y por los delitos oficiales en que incurran en el ejercicio de éste, pero el Gobernador sólo podrá ser acusado durante su período Constitucional por los delitos de traición a la patria, violación expresa de la Constitución, ataques a la libertad electoral y delitos graves del orden común.
+Los Diputados del Congreso del Estado, el Gobernador, los Secretarios de Despacho, el Procurador de Justicia y los Magistrados del Tribunal Superior de Justicia son responsables por los delitos oficiales y del orden común en que incurran en los términos de esta Constitución y de la Ley de Responsabilidades de Funcionarios y Empleados del Estado.
+
+Al Gobernador solo se le podrá exigir responsabilidad durante su encargo por violación expresa a esta Constitución, ataques a la libertad electoral y delitos graves del orden común.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 135.
 
-El Gobernador y los Diputados al Congreso del Estado, también son responsables por violaciones a la Constitución y Leyes Federales, en los términos del Título Cuarto de la Constitución General de la República.
+El Gobernador y los Diputados al Congreso del Estado, son responsables por violaciones a la Constitución General de la República y Leyes Federales y quedarán sujetos al procedimiento previsto en el Título Cuarto de la propia Ley Fundamental.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1932)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 136.
 
-Si el delito cometido por los funcionarios a que se refiere el artículo 134, fuere común, el Congreso erigido en Gran Jurado, declarará a mayoría absoluta de votos y previa audiencia del acusado, por sí, por su defensor o por ambos, si ha o no lugar a formación de causa. En caso negativo cesará todo procedimiento en contra; en el afirmativo, por ese solo hecho quedará suspenso en su encargo y sujeto a los Tribunales comunes.
+Si el delito cometido por funcionarios a que se refiere el Artículo134 fuere del orden común, el Congreso del Estado declarará por mayoría absoluta de votos del total de sus miembros previa audiencia del acusado por sí, por su defensor o por ambos, si ha lugar o no a formación de causa. En caso negativo cesará todo procedimiento en contra del funcionario, sin perjuicio de que la acusación continúe cuando éste termine su encargo. En caso afirmativo, quedará suspendido en el ejercicio de sus funciones y a disposición de los Tribunales comunes, para la instrucción del proceso respectivo. En el caso de los Presidentes Municipales la declaración será hecha por el Pleno del Tribunal Superior de Justicia procediéndose en todos los demás en los mismos términos.
 
-La Sección (sic) del Gran Jurado instruirá el expediente sobre el que debe fallar el Congreso, con arreglo a los procedimientos del orden jurídico que determine el Reglamento Interior del mismo.
+La Comisión correspondiente del Congreso del Estado, instruirá el expediente sobre el que deba determinar. La decisión del Congreso es inatacable.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 137.
 
-De los delitos oficiales conocerá el Congreso como Jurado de Declaración, el Tribunal Superior de Justicia, con inclusión de los Magistrados suplentes, como Jurado de Sentencia.
+De los delitos oficiales cometidos por los Funcionarios a que se refiere el Artículo 134, conocerá el Congreso como Jurado de Declaración y el Tribunal Superior de Justicia, integrado por la totalidad de sus miembros, como Jurado de Sentencia.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 138.
 
-En los casos del artículo anterior, el Congreso, erigido en Jurado de Declaración, oirá al acusado, a su defensor o a ambos, si quisieren, y previa lectura del expediente respectivo, decidirá si es o no culpable. Si la declaración fuere absolutoria el acusado continuará en el ejercicio de su encargo; y si fuere condenatoria, quedará suspenso, a disposición del Tribunal Superior de Justicia, para los efectos del artículo siguiente.
+En los casos del Artículo anterior, el Congreso erigido en Jurado de Declaración oirá al acusado, a su defensor o a ambos si quisieren, y previa lectura del expediente respectivo decidirá si es o no responsable. Si la declaración fuere absolutorio el Funcionario continuará en el ejercicio de su cargo. Si fuere condenatoria, quedará suspenso y a disposición del Tribunal Superior de Justicia para los efectos del Artículo siguiente.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 139.
 
-El Tribunal Superior, como Jurado de Sentencia, reunido en Tribunal pleno, con asistencia de los suplentes, previa audiencia del acusador, si lo hubiere, del Procurador General de Justicia y del acusado, su defensor, o de ambos, procederá a mayoría absoluta de votos, a aplicar la pena que la Ley señale.
+El Tribunal Superior de Justicia como Jurado de Sentencia, previa audiencia del acusador, del Procurador de Justicia y del acusado, su defensor o de ambos, procederá a mayoría absoluta de votos, a aplicar la sanción que la Ley señale. Si el hecho motivo del procedimiento ameritare sanción penal conforme a la Ley, el responsable quedará a disposición de la autoridad competente para que se le instruya el proceso respectivo.
 
-Cuando el acusado sea el Procurador General de Justicia, ejercerá las funciones de tal, el que designe el Ejecutivo o el funcionario que deba suplirlo con arreglo a la Ley.
+Cuando el acusado sea el Procurador de Justicia, ejercerá las funciones de tal el que designe el Ejecutivo o el Funcionario que deba suplirlo con arreglo a la Ley.
+
+Tanto la declaración del Congreso como la resolución del Tribunal Superior de Justicia son inatacables.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 140.
 
-Si los funcionarios a que se refiere el artículo 134 fueren acusados por delitos oficiales cometidos antes del tiempo en que entraron a ejercer sus funciones, se procederá contra de ellos en los términos prevenidos en los tres artículos anteriores.
+Si los Funcionarios a que se refiere el Artículo 134 fueron responsables por delitos oficiales cometidos antes del tiempo en que entraron en funciones, sin que hubiera transcurrido el término de prescripción previsto en la Ley correspondiente, se procederá contra ellos en los términos señalados en los tres artículos anteriores.
 
 ###### Artículo 141.
 
 Pronunciada una sentencia por responsabilidad oficial, no podrá concederse al reo la gracia de indulto.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+
 ###### Artículo 142.
 
-La responsabilidad oficial de los jueces de Primera Instancia y Presidentes Municipales, se exigirá ante el Tribunal Superior de Justicia, en la forma y términos que establezcan las leyes.
+La responsabilidad en que incurran los jueces de Primera Instancia y de Paz por faltas oficiales serán del conocimiento y resolución del Tribunal Superior de Justicia.
+
+La responsabilidad por delitos oficiales de dichos jueces será de la competencia de un jurado popular en los términos del artículo siguiente, previa la suspensión del cargo que hará el Tribunal Superior de Justicia.
+
+Los delitos del orden común por los mismos funcionarios serán juzgados en la forma que establecen las leyes penales, previa la solicitud al Tribunal Superior de Justicia para que suspenda en sus funciones al indicado.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 143.
 
-Las responsabilidades oficiales en que incurran los funcionarios y empleados del Estado, no comprendidos en los artículos 134 y 142 de esta Constitución, serán exigidas ante los Jueces del orden común, con arreglo a la Ley; y las faltas leves u omisiones que cometan en el ejercicio de su encargo, serán castigadas por sus respectivos superiores, por medio de correcciones disciplinarias.
+De los delitos oficiales en que incurran los funcionarios y empleados del Estado, no comprendidos en el Artículo 134 de esta Constitución, conocerá el jurado popular, con arreglo a la Ley; y las faltas que cometan los mismos en el ejercicio de su encargo, serán sancionadas por sus respectivos superiores por medio de correcciones disciplinarias.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 144.
 
-La responsabilidad puramente penal por delitos o faltas oficiales, sólo podrá exigirse durante el período en que el funcionario o empleado ejerza su encargo y un año después, con excepción del delito de peculado, por el que quedará sometido el responsable a las leyes generales sobre prescripción.
+La responsabilidad puramente penal por delitos o faltas oficiales solo podrán exigirse durante el período en que el funcionario o empleado ejerza su encargo y dentro de los dos años posteriores, con excepción del delito de peculado, por el que quedará el responsable sujeto a las reglas generales sobre prescripción.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 145.
 
-(DEROGADO, P.O. 16 DE OCTUBRE DE 1932)
+En asuntos del orden civil no hay inmunidad para ningún funcionario público.
 
 ###### Artículo 146.
 
@@ -1825,3 +1855,7 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a las prescripciones contenidas en el presente Decreto.
 
 Artículo Tercero.- Remítase el presente Decreto al Ejecutivo del Estado, para los efectos a que se refiere la Fracción XVII del Artículo 70 de la Constitución Política Local.
+
+P.O. 26 DE NOVIEMBRE DE 1980.
+
+UNICO.- Remítase al Ejecutivo del Estado, para los efectos de la fracción XVII del Artículo 70 de la Constitución Política Local.
