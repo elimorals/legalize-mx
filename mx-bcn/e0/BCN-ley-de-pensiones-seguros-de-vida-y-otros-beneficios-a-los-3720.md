@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-pensiones-seguros-de-vida-y-otros-beneficios-a-los-3720"
 country: "mx"
 rank: "ley"
 publication_date: "1960-05-20"
-last_updated: "1975-11-10"
+last_updated: "1978-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PENSIONES, SEGUROS DE VIDA Y OTROS BENEFICIOS A LOS VETERANOS DE LA REVOLUCION, DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 1978.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 20 de mayo de 1960.
 
@@ -89,11 +89,15 @@ Los beneficios que el Gobierno del Estado otorga a los Veteranos en reconocimien
 
 I.- Pensión vitalicia de $300.00 mensuales como mínimo, para que puedan subvenir decorosamente a sus necesidades previo dictamen de la Comisión Consultiva.
 
-II.- Seguro de vida por la cantidad de $ 5,000.00
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 1978)</small>
+
+II.- Seguro de Vida por la cantidad de $15,000.00
 
 III.- Servicio médico-quirúrgico gratuito en las Instituciones oficiales, incluyendo hospitalización y medicamentos, para los Veteranos.
 
-IV.- Además de la póliza de que habla el Artículo 6o. inciso c), en relación con el Artículo 7o., Fracción II, el Estado proporcionará como paga de marcha al ocurrir la defunción, hasta la cantidad de $ 5,000.00 para gastos de funerales, como máximo.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 1978)</small>
+
+IV.- Además de la póliza de que habla el Artículo 6o. Inciso c), en relación con el Artículo 7o., Fracción II, el Estado proporcionará como paga de marcha al ocurrir la defunción, hasta la cantidad de $15,000.00 para gastos de funerales, como máximo.
 
 V.- El Estado honrará en vida a los Veteranos de la Revolución, concediéndoles Diplomas y Condecoraciones. En su sepelio se le harán a cada Veterano, los honores que acuerde la Comisión.
 
@@ -127,9 +131,11 @@ b).- Que por la razón anterior no tendrá dicho subsidio el carácter de heredi
 
 c).- Que el beneficio a que se contrae este Decreto será aplicable únicamente a los bienes presentes que tengan las personas que reúnen las condiciones del Artículo Tercero de la misma en pleno uso de los derechos establecidos en la Ley y que estén debidamente inscritos en el Registro Público de la Propiedad y Comercio de la localidad donde se encuentren ubicados.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 1978)</small>
+
 ###### ARTICULO 8o.
 
-Los hijos de los Veteranos beneficiados por esta Ley, tienen preferencia, en igualdad de condiciones, para gozar de becas que conceda el Estado o los Municipios, hasta por la cantidad de $ 100.00 mensuales como máximo.
+Los hijos de los Veteranos beneficiados por esta Ley, tienen preferencia, en igualdad de condiciones, para gozar de becas que conceda el Estado a los Municipios, hasta por la cantidad de $500.00 mensuales como máximo.
 
 ###### ARTICULO 9o.
 
@@ -196,3 +202,7 @@ Este Decreto entrará en vigor al día siguiente al de su publicación en el Per
 P.O. 10 DE NOVIEMBRE DE 1975.
 
 UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE MAYO DE 1978.
+
+UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
