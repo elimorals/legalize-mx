@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8048"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-12-28"
-last_updated: "1998-12-26"
+last_updated: "2001-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO FISCAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 28 de diciembre de 1991.
 
@@ -49,9 +49,9 @@ CODIGO FISCAL DEL ESTADO DE TAMAULIPAS
 
 Las personas físicas y morales están obligadas a contribuir para el gasto público del Estado conforme a las leyes fiscales respectivas; las disposiciones de este Código se aplicarán en su defecto. Sólo mediante ley podrá destinarse una contribución a un gasto público específico.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-La Federación, el Estado y los Municipios quedan obligados a pagar contribuciones únicamente cuando las Leyes lo señalen expresamente.
+El Estado y los Municipios quedan obligados a pagar contribuciones únicamente cuando las leyes lo señalen expresamente.
 
 Las personas que de conformidad con las leyes fiscales no estén obligadas a pagar contribuciones, únicamente tendrán las otras obligaciones que establezcan en forma expresa las propias leyes.
 
@@ -127,7 +127,7 @@ Las otras disposiciones fiscales se interpretarán de acuerdo con los fines para
 
 Las contribuciones se causan conforme se realizan las situaciones jurídicas o de hecho, previstas en las leyes fiscales.
 
-Dichas contribuciones se determinarán conforme a las disposiciones vigentes en el momento de su causación, pero les serán aplicables las normas sobre procedimiento que expidan con posterioridad.
+Dichas contribuciones se determinarán conforme a las disposiciones vigentes en el momento de su causación, pero les serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
 
 Corresponde a los contribuyentes la determinación de las contribuciones a su cargo, salvo disposición expresa en contrario. Si las autoridades fiscales deben hacer la determinación, los contribuyentes les proporcionarán la información necesaria dentro de los 15 días siguientes a la fecha de su causación.
 
@@ -549,7 +549,9 @@ VII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1993)
 
 VIII.- Apertura o cierre de establecimientos o de locales que utilicen como base fija para el desempeño de sus actividades.
 
-IX.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1993)
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+IX.- Apertura o cierre de establecimientos, sucursales, locales, puestos fijos o semifijos, para la realización de actividades empresariales, de lugares en donde se almacene mercancía o de locales que se utilicen como establecimiento para el desempeño de servicio personales independientes.
 
 X.- Cambio de representante legal.
 
@@ -565,19 +567,25 @@ Los fedatarios públicos exigirán a los otorgantes de las escrituras públicas 
 
 La Secretaría de Hacienda del Estado llevará registros de contribuyentes basándose en los datos que las personas le proporcionan de conformidad con este artículo y en las que la propia Secretaría obtenga por cualquier otro medio; asimismo asignará la clave que corresponda a cada persona inscrita, quien deberá citarla en todo documento que presente ante las autoridades fiscales y jurisdiccionales, cuando en este último caso se trate de asuntos en que la Secretaría de Hacienda del Estado sea parte. Las personas inscritas deberán conservar en su domicilio fiscal y en los establecimientos registrados, la documentación comprobatoria de haber cumplido con las obligaciones que establece este artículo y en caso de baja de obligaciones o cancelación de registro están obligados a señalar el domicilio donde conservarán la documentación comprobatoria a disposición de las autoridades fiscales, durante el plazo que establece el artículo 67 de este Código.
 
-Los avisos de disminución de obligaciones o cancelación de registros que se presenten en forma extemporánea surtirán sus efectos a partir de la fecha en que sean presentados ante las autoridades fiscales correspondientes.
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+Tratándose de establecimientos, sucursales, locales, puestos fijos o semifijos, para la realización de actividades empresariales, de lugares en donde se almacenen mercancías o de locales que se utilicen como establecimiento para el desempeño de servicios personales independientes, los contribuyentes deberán presentar aviso de apertura o cierre de dichos lugares en la forma que este artículo indica y conservar en los lugares citados el aviso de apertura, debiendo exhibirlo a las autoridades fiscales cuando estas lo soliciten.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+La solicitud o los avisos a que se refiere este artículo que se presenten en forma extemporánea, surtirán sus efectos a partir de la fecha en que sean presentados. Tratándose del aviso de cambio de domicilio fiscal, éste no surtirá efectos cuando en el nuevo domicilio manifestado por el contribuyente no se le localice o cuando dicho domicilio no exista.
 
 ###### ARTICULO 29.
 
 Las personas que de acuerdo con las disposiciones fiscales estén obligadas a llevar contabilidad, deberán observar las siguientes reglas:
 
-I.- Llevarán los sistemas y registros contables que se requieran conforme a la naturaleza de la contribución a pagar.
+I.- Llevarán los sistemas y registros contables que se requieran conforme la naturaleza de la contribución a pagar.
 
 II.- Los asientos en la contabilidad serán analíticos y deberán efectuarse dentro de los dos meses siguientes a la fecha en que se realicen las actividades respectivas.
 
 III.- Llevarán la contabilidad en el domicilio que para efectos fiscales, señale, en los términos del artículo 11 de este Código.
 
-Cuando las autoridades fiscales en ejercicio de sus facultades de comprobación mantengan en su poder la contabilidad de la persona por un plazo mayor de un mes, está deberá continuar llevando su contabilidad cumpliendo con los requisitos respectivos.
+Cuando las autoridades fiscales en ejercicio de sus facultades de comprobación mantengan en su poder la contabilidad de la persona por un plazo mayor de un mes, ésta deberá continuar llevando su contabilidad cumpliendo con los requisitos respectivos.
 
 Quedan incluidos en la contabilidad los registros y cuentas especiales a que obliguen las disposiciones fiscales, los que lleven los contribuyentes aun cuando no sean obligatorios y los libros y registros sociales a que obliguen otras leyes.
 
@@ -1081,7 +1089,7 @@ Al valor de los actos o actividades estimados presuntivamente por alguno de los 
 
 ###### ARTICULO 62.
 
-Para comprobar los ingresos así como el valor de los actos o actividades de los contribuyentes, las autoridades fiscales presumirán salvo prueba en contrario, que la información o documentos de terceros relacionados con el contribuyente correspondan a operaciones realizadas por éste cuando:
+Para comprobar los ingresos así como el valor de los actos o actividades de los contribuyentes, las autoridades fiscales presumirán, salvo prueba en contrario, que la información o documentos de terceros relacionados con el contribuyente correspondan a operaciones realizadas por éste cuando:
 
 I.- Se refieren al contribuyente designado por su nombre, denominación o razón social.
 
@@ -1145,7 +1153,9 @@ Se hubiere cometido la infracción a las disposiciones fiscales, pero si la infr
 
 El plazo a que se refiere este artículo será de diez años cuando el contribuyente no haya presentado su solicitud de inscripción en el registro de contribuyentes, no lleve contabilidad estando obligado a ello u omita manifestar la propiedad de un bien afecto al pago de contribuciones.
 
-El plazo señalado en este artículo no estará sujeto a interrupción y sólo se suspenderá cuando se interponga algún recurso administrativo o juicio.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE 2001)</small>
+
+El plazo señalado en este artículo no está sujeto a interrupción y sólo se suspenderá cuando se ejerzan las facultades de comprobación de las autoridades fiscales a que se refieren las fracciones II, III y IV del artículo 44 de este Código; cuando se interponga algún recurso administrativo o juicio; o cuando las autoridades fiscales no puedan iniciar el ejercicio de sus facultades de comprobación en virtud de que el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal. En estos dos últimos casos se reiniciará el cómputo del plazo de caducidad a partir de la fecha en que se localice al contribuyente. Así mismo, el plazo a que se hace referencia este artículo se suspenderá en los casos de huelga, a partir de que se suspenda temporalmente el trabajo y hasta que termine la huelga y en el fallecimiento del contribuyente, hasta en tanto se designe al representante legal de la sucesión.
 
 Las facultades de las autoridades fiscales para investigar hechos constitutivos de delitos en materia fiscal, no se extinguirán conforme a este artículo.
 
@@ -1231,7 +1241,7 @@ a).- La segunda o posteriores veces que se sancione al infractor por la comisió
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
 
-b).La segunda o posteriores veces que se sancione al infractor por la comisión de una infracción establecida en el mismo artículo y fracción de este Código, tratándose de infracciones que no impliquen omisión en el pago de contribuciones.
+b).- La segunda o posteriores veces que se sancione al infractor por la comisión de una infracción establecida en el mismo artículo y fracción de este Código, tratándose de infracciones que no impliquen omisión en el pago de contribuciones.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
 
@@ -1253,7 +1263,11 @@ III.- Se considera también agravante, la omisión en el entero de contribucione
 
 IV.- Igualmente es agravante, el que la comisión de la infracción sea en forma continuada.
 
-Cuando por un acto o una omisión se infrinjan diversas disposiciones fiscales a la que correspondan varias multas, sólo se aplicará la que corresponda a la infracción cuya multa sea mayor.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+V.- Cuando por un acto u omisión se infrinjan diversas disposiciones de carácter formal, a lo que corresponda varias multas, sólo se aplicará la de la infracción cuya multa sea mayor.
+
+Cuando se omita total o parcialmente el pago de contribuciones, a las que correspondan varias multas, sólo se aplicará la mayor de ellas.
 
 En el caso de que la multa se pague dentro del mes siguiente a la fecha en que se le notifique al infractor la resolución por la cual se le imponga la sanción, la multa se reducirá en un 20% de su monto, sin necesidad de que la autoridad que la impuso dicte nueva resolución.
 
@@ -2133,7 +2147,7 @@ Disposiciones Generales.
 
 Las autoridades fiscales exigirán el pago de los créditos fiscales que no hubieren sido cubiertos o garantizados dentro de los plazos señalados por la Ley, mediante el procedimiento administrativo de ejecución.
 
-Los accesorios que se generen con posterioridad al inicio del procedimiento administrativo de ejecución relacionados con el crédito fiscal inicial, se harán efectivos sin necesidad de nuevo requerimiento, ni de otras formalidades, salvo las necesarias en su caso, para garantizar el interés fiscal y la formulación de las liquidaciones respectivas.
+Los accesorios que se generen con posterioridad al inicio del procedimiento administrativo de ejecución relacionados con el crédito fiscal inicial, se harán efectivos sin necesidad de nuevo requerimiento, ni de otras formalidades, salvo las necesarias en su caso, para garantizar el interés fiscal y la formulación de liquidaciones respectivas.
 
 (REFORMADO, P.O. 20 DE DICIEMBRE DE 1997) (F. DE E., 18 DE FEBRERO DE 1998)
 
@@ -2758,3 +2772,9 @@ P.O. 26 DE DICIEMBRE DE 1998
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del 1o. de enero de 1999.
+
+P.O. 25 DE DICIEMBRE DE 2001
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
