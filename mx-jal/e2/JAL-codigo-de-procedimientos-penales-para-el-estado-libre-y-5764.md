@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2004-02-10"
+last_updated: "2004-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -1482,6 +1482,20 @@ Ambos autos se comunicarán por oficio al superior jerárquico del procesado, cu
 ###### Art. 171.
 
 Dictado el auto de formal prisión o el de sujeción a proceso, se identificará al procesado por el sistema adoptado administrativamente. También se comunicará a las dependencias correspondientes las resoluciones que pongan fin al proceso y que haya causado ejecutoria, para los efectos que proceda.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2004)</small>
+
+###### Art. 171 Bis.
+
+Se procederá a la cancelación del documento de identificación administrativa que establece el artículo 171 de la presente ley, en los siguientes supuestos:
+
+a) Cuando en el proceso penal se dicte el auto de libertad por falta de elementos o este haya concluido con una sentencia absolutoria en primera o en segunda instancia que haya causado estado.
+
+b) En caso de que se dicte el sobreseimiento sobre la totalidad de los delitos a que se refiere la causa, o en su defecto por el desvanecimiento de datos que dieron origen al proceso.
+
+c) en caso de reconocimiento de incidencia (sic) o indulto contemplado en el artículo 74 el Código Penal del Estado.
+
+En los supuestos previstos anteriormente, el Juzgador de oficio y sin mayor trámite ordenará la cancelación del documento de identificación administrativa. De lo anterior dejará constancia en el expediente.
 
 ###### Art. 172.
 
@@ -3654,3 +3668,7 @@ PRIMERO.- El presente decreto entrará en vigor a los treinta días siguientes a
 SEGUNDO.- El artículo tercero del presente decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Las disposiciones relativas a la Unidad Especializada, en el combate a la delincuencia organizada, entrarán en vigor un año después de su publicación.
+
+P.O. 21 DE SEPTIEMBRE DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
