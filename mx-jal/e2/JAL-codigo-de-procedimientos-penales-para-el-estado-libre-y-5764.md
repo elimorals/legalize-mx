@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "1997-12-27"
+last_updated: "1998-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 1998.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -1029,29 +1029,13 @@ Existirá el temor fundado a que se refiere esta fracción cuando se sustente en
 
 En todos los casos, el detenido podrá nombrar defensor de acuerdo con este Código. El defensor nombrado entrará al desempeño de su cargo inmediatamente, previa protesta del mismo y, a partir de ese momento, tendrá derecho a intervenir en todas las actuaciones que se practiquen en contra de su defendido. La infracción de esta disposición implicará la nulidad de las diligencias que perjudiquen a éste.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1998)</small>
 
 ###### Art. 146.
 
-Para los efectos de la fracción I del artículo anterior, se entiende que el inculpado es aprehendido en flagrante delito, no sólo cuando es detenido al momento de cometerlo, sino cuando, después de ejecutarlo, el delincuente es perseguido materialmente, o cuando inmediatamente después de haberlo cometido, la persona sea señalada como responsable por la víctima, por algún testigo presencial de los hechos, o por quien sea copartícipe material en la comisión del delito, y se encuentre en su poder el objeto del mismo, el instrumento con que aparezca cometido o huellas o indicios que hagan presumir fundadamente su culpabilidad.
+Para los efectos de la fracción I del artículo anterior, se entenderá que el inculpado es aprehendido en flagrante delito no sólo cuando es detenido al momento de cometerlo, sino cuando, después de ejecutarlo, es perseguido materialmente o, cuando inmediatamente después de haber cometido el delito, la persona sea señalada como responsable por la víctima, por algún testigo presencial de los hechos o por quien sea copartícipe en la comisión del delito, y se encuentre en su poder el objeto del mismo, el instrumento con que aparezca cometido o huellas o indicios que hagan presumir fundadamente su culpabilidad.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
-
-En los casos de delito flagrante, cualquier persona puede detener al indiciado poniéndolo sin demora a disposición de la autoridad más cercana y esta, con la misma prontitud a la del ministerio público.
-
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 1997)</small>
-
-Para los efectos de la fracción II del artículo anterior, se entiende que podrá detenerse al inculpado cuando concurran las siguientes circunstancias:
-
-I. Que la persona sea señalada como responsable por la víctima, por algún testigo presencial de los hechos, o por quien sea copartícipe en la comisión del delito o que se encuentre en su poder el objeto o instrumento con que se cometió el delito o su producto;
-
-II. Que aparezcan huellas o indicios que hagan presumir fundadamente su participación en el delito, y
-
-III. No haya transcurrido un plazo mayor de setenta y dos horas desde el momento de la comisión de los hechos delictivos y no se hubiese interrumpido la persecución del delito.
-
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 1997)</small>
-
-La violación de esta disposición hará penalmente responsable a quien dicte la indebida detención, y el indiciado deberá ser puesto en inmediata libertad.
+En los casos de delito flagrante, cualquier persona puede detener al indiciado poniéndolo sin demora a disposición de la autoridad más cercana y éstas, con la misma prontitud, a la del Ministerio Público.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
 
@@ -3178,3 +3162,7 @@ P.O. 4 DE ENERO DE 1997.
 P.O. 27 DE DICIEMBRE DE 1997.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 8 DE ENERO DE 1998.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
