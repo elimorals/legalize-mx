@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-instalar-y-operar-estaciones-428"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-11-28"
-last_updated: "1988-11-28"
+last_updated: "1988-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=428&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-11-16"
 
 REGLAMENTO PARA INSTALAR Y OPERAR ESTACIONES RADIOELECTRICAS DEL SERVICIO DE AFICIONADOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE DICIEMBRE DE 1988.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 28 de noviembre de 1988.
 
@@ -472,3 +472,181 @@ SEGUNDO.- Este Reglamento abroga el reglamento para Instalar y Operar Estaciones
 TERCERO.- Los anexos técnicos del presente Reglamento, estarán sujetos a las modificaciones que ordene la Secretaría de Comunicaciones y Transportes, mediante Acuerdo o Circular que emita sobre el particular.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de noviembre de mil novecientos ochenta y ocho.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Daniel Díaz Díaz.- Rúbrica.
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 1988)</small>
+
+ANEXO "A"
+
+BANDAS DE FRECUENCIAS ATRIBUIDAS AL SERVICIO DE AFICIONADOS.
+
+1800 - 1850 KHz
+
+7000 - 7300 KHz
+
+14000 - 14350 KHz
+
+21000 - 21450 KHz
+
+28000 - 29700 KHz
+
+50 - 54 MHz
+
+144 - 148 MHz
+
+24 - 24.05 GHz * Ver nota
+
+47 - 47.2 GHz
+
+75.5 - 76 GHz
+
+142 - 144 GHz
+
+248 - 250 GHz
+
+* NOTA:
+
+De conformidad con el numeral 881 del Reglamento de Radiocomunicaciones, la banda 24-24.25 GHz esta designada para aplicaciones industriales, científicas y médicas (equipos ICM), por lo que el servicio de aficionados en la banda 24-24.05 GHz deberá aceptar la interferencia perjudicial resultante de dichas aplicaciones.
+
+B.1 Las estaciones de aficionados están autorizadas a operar con las siguientes clases de emisión y de acuerdo con las limitaciones que se indican en el punto B.2 del presente anexo.
+
+EMISION DENOMINACION
+
+Telegrafía sin manipulación de A.F.
+
+(Manipulación por interrupción de
+
+portadora) A 1 A
+
+Telegrafía por interrupción de una o
+
+más A.F. de modulación o manipulación
+
+por interrupción de la emisión modulada A 2 A
+
+Telefonía doble banda lateral
+
+(un solo canal) A 3 E
+
+Telefonía en banda lateral única
+
+portadora reducida R 3 E
+
+Telefonía en banda lateral única
+
+portadora completa H 3 E
+
+Telefonía en banda lateral única
+
+(superior) con portadora suprimida. J 3 E
+
+Telefonía modulación de frecuencia. F 3 E
+
+Facsímil analógico, modulación de
+
+frecuencia de una subportadora
+
+de una emisión de BLU con
+
+portadora reducida, blanco y negro. R 3 C
+
+Facsímil por modulación directa
+
+en frecuencia de la portadora,
+
+blanco y negro. F 1 C
+
+Facsímil analógico. F 3 C
+
+Televisión (imágen) C 3 F
+
+Telegrafía de impresión directa
+
+que utiliza subportadora de
+
+modulación por desplazamiento de
+
+frecuencia con corrección de errores,
+
+BLU y portadora suprimida
+
+(un solo canal) (teletipo). J 2 B
+
+El uso de emisiones distintas a las incluidas anteriormente requieren autorización expresa de la Secretaría.
+
+B.2 Las estaciones deberán operar con las potencias que corresponden a la clase de certificado de que se trate y con las clases de emisiones que a continuación se indican:
+
+CERTIFICADO CLASE DE EMISION POTENCIA MAXIMA
+
+(WATTS)
+
+CLASE I A1A, A2A, F3E, 1250 (MEDIA)
+
+R3E, H3E, J3E, J2B, 1250 (PCE)
+
+EN LAS BANDAS
+
+SUPERIORES
+
+A 144 MHz:
+
+A3F, F1C, F3C, C3F, 500 (MEDIA)
+
+R3C, 500 (PCE)
+
+CLASE II A1A, A2A, F3E, 500 (MEDIA)
+
+R3E, H3E, J2B, J3E, 500 (PCE)
+
+EN LAS BANDAS
+
+SUPERIORES
+
+A 114 MHz.
+
+A3E, FIC, F3E, C3F, 200 (MEDIA)
+
+R3C 200 (PCE)
+
+* NOVATO A1A, A2A 150 (MEDIA)
+
+J3E 150 (PCE)
+
+F3E 45 (MEDIA)
+
+* RESTRINGIDO A3E 50 (MEDIA)
+
+J3E 50 (PCE)
+
+F3E 45 (MEDIA)
+
+* Categoría autorizada para operar exclusivamente en la banda de 7050 a 7100 MHz., y en la banda de 144 a 148, para radiotelefonía y en la banda de 7000 a 7050 con la modalidad de telegrafía.
+
+PCE Significa potencia en la cresta de la envolvente.
+
+A. F. Significa audio frecuencia.
+
+BLU Significa banda lateral única.
+
+El titular del permiso es responsable de que exista permanentemente en la estación un cuaderno de registro de operación con páginas progresivas numeradas y debidamente certificado por la Secretaría, mediante sello de la dependencia, fecha, nombre y firma de la persona que lo certifica, y de que en él se anoten claramente todas las comunicaciones que efectúe por medio de tal estación, detallándose en la portada el nombre del operador, el distintivo autorizado, la clase y número de certificado y la potencia de su transmisor y en las hojas destinadas al registro de las comunicaciones, se anotarán los siguientes datos.
+
+a).- Fecha y hora de inicio de la comunicación.
+
+b).- Distintivo de llamada del corresponsal.
+
+c).- Reporte de la señal del corresponsal.
+
+d).- Reporte de la señal recibida.
+
+e).- Frecuencia de operación.
+
+f).- Observaciones.
+
+En caso de concursos o eventos en que no sea posible el registro inmediato de los datos, y en el caso de las comunicaciones de estaciones móviles, los registros en el cuaderno deberán hacerse en forma estimativa antes de registrar nuevamente datos relativos a las comunicaciones normales de la estación fija.
+
+Cuando el operador responsable desee corregir un error en el contenido del registro, deberá hacer completa una nueva anotación correcta precisamente sucediendo a la errónea y cancelar con una línea la anotación incorrecta de forma que quede legible el texto cancelado y firmando a continuación.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 8 DE DICIEMBRE DE 1988.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
