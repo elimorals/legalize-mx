@@ -4,7 +4,7 @@ identifier: "RGIC"
 country: "mx"
 rank: "reglamento"
 publication_date: "1934-03-20"
-last_updated: "1934-11-21"
+last_updated: "1935-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=586&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "RGIC"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE NOVIEMBRE DE 1934.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1935.
 
 Reglamento publicado en el Diario Oficial de la Federación el martes 20 de marzo de 1934.
 
@@ -1012,9 +1012,11 @@ Relaciones Exteriores.
 
 Las facultades y atribuciones de la Comisión Permanente son las que le confieren y señalan los artículos 29, 37 en los incisos II, III y IV de su fracción B, 79, 84, 85, 87, 98, 99 y 100; Base 4a. fracción VI del 73; fracción V del 76 y párrafo penúltimo del 97 de la Constitución Federal.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1935)</small>
+
 ###### ARTICULO 177.
 
-Cuando sea plenamente justificada la destitución de un empleado, la Comisión Permanente podrá nombrar al substituto correspondiente con el carácter de provisional, a reserva de que la Cámara haga el nombramiento definitivo.
+Los empleados y obreros que presten sus servicios al Congreso de la Unión, no serán removidos de los empleos que ocupan, durante los recesos del propio Congreso, y gozarán del sueldo íntegro asignado en el Presupuesto.
 
 ###### ARTICULO 178.
 
@@ -1201,5 +1203,9 @@ México, D.F., a 15 de marzo de 1934.- El Secretario de Gobernación, Eduardo Va
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 21 DE NOVIEMBRE DE 1934.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 31 DE DICIEMBRE DE 1935.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
