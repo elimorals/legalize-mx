@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-establecen-las-normas-para-la-63645"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1994-08-30"
-last_updated: "1998-10-12"
+last_updated: "1999-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63645&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,21 +21,21 @@ issue_date: "1994-08-28"
 
 ACUERDO QUE ADICIONA AL DIVERSO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
 
-Acuerdo publicado en el Diario Oficial de la Federación, el lunes 12 de octubre de 1998.
+Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de julio de 1999.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Comercio y Fomento Industrial.
 
-HERMINIO BLANCO MENDOZA, Secretario de Comercio y Fomento Industrial, con fundamento en los artículos 34 fracciones I y XXX de la Ley Orgánica de la Administración Pública Federal; 2, 4o. fracción III, 5o. fracciones III y IV, 9o., 10, 11 y 66 de la Ley de Comercio Exterior; 36 fracción I inciso d) de la Ley Aduanera, y 1, 4 y 5 fracción XVI del Reglamento Interior de la Secretaría de Comercio y Fomento Industrial, y
+HERMINIO BLANCO MENDOZA, Secretario de Comercio y Fomento Industrial, con fundamento en los artículos 34 fracciones I y XXX de la Ley Orgánica de la Administración Pública Federal, 2o., 5o. fracción IV, 9o., 10, 11 y 66 de la Ley de Comercio Exterior, 36 fracción I inciso d) de la Ley Aduanera, 1, 4 y 5 fracción XVI del Reglamento Interior de la Secretaría de Comercio y Fomento Industrial, y
 
 CONSIDERANDO
 
-Con fecha 30 de agosto de 1994, se publicó en el Diario Oficial de la Federación el Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, el cual fue reformado y adicionado mediante diverso dado a conocer en el mismo órgano informativo el 11 de noviembre de 1996, el cual tiene por objeto de establecer las normas para la determinación y certificación del país de origen de mercancías que se importen al territorio de los Estados Unidos Mexicanos para efectos de la aplicación del artículo 66 de la Ley de Comercio Exterior;
+Que con fecha 30 de agosto de 1994 fue publicado en el Diario Oficial de la Federación el Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, el cual fue reformado y adicionado mediante diverso dado a conocer en el mismo órgano informativo el 11 de noviembre de 1996 y 12 de octubre de 1998, respectivamente, el cual tiene por objeto establecer las normas para la determinación y certificación del país de origen de las mercancías que se importen al territorio de los Estados Unidos Mexicanos para efectos de la aplicación del artículo 66 de la Ley de Comercio Exterior;
 
-Que el artículo cuarto fracción I inciso c) del citado Acuerdo, establece que para efectos de lo dispuesto en el artículo 66 de la Ley de Comercio Exterior, el importador de mercancías idénticas o similares a aquéllas por las que, de conformidad con la resolución respectiva, deba pagarse una cuota compensatoria, provisional o definitiva, no estará obligado a pagarla si comprueba que el país de origen de las mercancías es distinto del país que exporta mercancías en condiciones de prácticas desleales de comercio internacional, para lo cual, en el caso de mercancías por las que se solicite trato arancelario preferencial al amparo de algún tratado internacional listado en el anexo V, deberá contar con el Certificado de Origen emitido de conformidad con dicho tratado;
+Que el artículo cuarto, fracción I inciso c) del citado Acuerdo, establece que para efectos de lo dispuesto en el artículo 66 de la Ley de Comercio Exterior, el importador de mercancías idénticas o similares a aquellas por las que, de conformidad con la resolución respectiva, deba pagarse una cuota compensatoria, provisional o definitiva, no estará obligado a pagarla si comprueba que el país de origen de las mercancías es distinto del país que exporta mercancías en las condiciones de prácticas desleales al comercio internacional, para lo cual, en el caso de mercancías por las que se solicite trato arancelario preferencial al amparo de algún tratado internacional listado en el anexo V, deberá contar con el Certificado de Origen emitido de conformidad con dicho tratado;
 
-Que con fecha 1 de julio de 1998, se publicó en el Diario Oficial de la Federación el Decreto Promulgatorio del Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua, y
+Que para facilitar las relaciones comerciales con la República de Chile y fortalecer la producción y competitividad de la industria nacional, con fecha 17 de abril de 1998 se suscribió el Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Chile, mismo que se aprobó por el Senado de la República el 24 de noviembre de 1998, y con fecha 30 de diciembre del mismo año se publicó en el Diario Oficial de la Federación el Decreto de aprobación, y
 
-Que con objeto de actualizar el esquema regulatorio en materia de determinación y certificación del país de origen de las mercancías que se importen al territorio nacional para los efectos de la aplicación de la Ley de Comercio Exterior, la Comisión de Comercio Exterior aprobó en su reunión extraordinaria número 9/98 las regulaciones propuestas por esta Secretaría, he tenido a bien expedir el siguiente
+Que la Comisión de Comercio Exterior, conforme al procedimiento establecido en la ley de la materia, aprobó en su reunión extraordinaria número 12 y con fecha de 30 de noviembre de 1998, las regulaciones propuestas por esta Secretaría, he tenido a bien expedir el siguiente
 
 ACUERDO QUE ADICIONA AL DIVERSO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
 
@@ -625,17 +625,19 @@ p) Del Capítulo 96 la siguiente:
 
 ###### ARTICULO UNICO.
 
-Se adiciona a la lista contenida en el Anexo V del Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, publicado en el Diario Oficial de la Federación el 30 de agosto de 1994, reformado y adicionado mediante diverso dado a conocer en el mismo órgano informativo el 11 de noviembre de 1996, el siguiente Tratado Internacional:
+Se adiciona a la lista contenida en el Anexo V del Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, publicado en el Diario Oficial de la Federación el 30 de agosto de 1994, el cual fue reformado y adicionado mediante diversos dados a conocer en el mismo órgano informativo el 11 de noviembre de 1996 y 12 de octubre de 1998, respectivamente, el siguiente Tratado Internacional:
 
-“ . . .
-
-. . .
+“. . .
 
 . . .
 
 . . .
 
-Tratado de Libre Comercio celebrado entre los Estados Unidos Mexicanos y la República de Nicaragua.”
+. . .
+
+. . .
+
+Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Chile.”
 
 ###### ARTICULO CUARTO.
 
@@ -727,6 +729,6 @@ VII.- Tratándose del retorno de mercancías exportadas temporalmente conforme a
 
 ## TRANSITORIO
 
-UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+UNICO.- El presente Acuerdo entrará en vigor a partir del primero de agosto de 1999.
 
-México, D.F., a 1 de octubre de 1998.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.
+México, D.F., a 26 de julio de 1999.- Con fundamento en el artículo 42 del Reglamento Interior de la Secretaría de Comercio y Fomento Industrial, por ausencia del titular de esta Secretaría, firma el Subsecretario de Negociaciones Comerciales Internacionales, Luis Fernando de la Calle Pardo.- Rúbrica.
