@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-comision-estatal-de-derechos-6482"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-10-08"
-last_updated: "1996-04-10"
+last_updated: "1996-05-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6482&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 1996.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 8 de octubre de 1993.
 
@@ -649,6 +649,14 @@ En caso de que algún integrante de la Comisión hiciere uso indebido de la cred
 
 El plazo máximo para que la Comisión concluya con la investigación y emita la resolución de recomendación o de acuerdo de no responsabilidad en los casos que se le presenten, será de 6 meses contados a partir del día de que la queja o denuncia hayan sido presentados; transcurrido dicho plazo sin que se haya resuelto la indagatoria correspondiente, el quejoso o agraviado por sí o legítimo representante podrá interponer el recurso que corresponda ante la Comisión Nacional de Derechos Humanos.
 
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 1996)</small>
+
+El plazo a que hace referencia este artículo es en beneficio de los quejosos agraviados o sus legítimos representantes, nunca jamás en caso alguno, en favor de los servidores públicos responsables de la transgresión de derechos humanos ni de sus superiores jerárquicos.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 1996)</small>
+
+Tampoco podrá invocarse como argumento por servidor público local alguno, sea de carácter estatal o de naturaleza municipal, el que la Comisión no haya dictado en su caso concreto su resolución dentro de tal plazo, para negarle o rehusarle la entrega de informes o documentos en las investigaciones que lleve a cabo por violación de derechos humanos, sea que las mismas las hubiese iniciado en atención a una queja o denuncia formulada de manera expresa o que las hubiese instaurado de oficio.
+
 ### CAPITULO IV. DE LA CONCILIACION
 
 ###### ARTICULO 85.
@@ -902,3 +910,7 @@ P.O. 10 DE ABRIL DE 1996.
 ###### ARTICULO UNICO.
 
 Las presentes reformas surtirán sus efectos, a partir del día siguiente de la fecha de su publicación en el Periódico Oficial El Estado de Sinaloa.
+
+P.O. 1 DE MAYO DE 1996.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DE SINALOA.
