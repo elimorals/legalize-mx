@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1980-12-22"
+last_updated: "1981-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1981.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -857,7 +857,7 @@ El Secretario General de Gobierno, será el órgano por el cual el Ejecutivo com
 
 El Gobernador podrá autorizar que comparezca ante el Congreso los titulares de las dependencias básicas del Poder Ejecutivo, a rendir informes sobre el estado que guarde el ramo respectivo o cuando se discuta alguna ley, decreto o asunto de su competencia.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 1978)</small>
 
 ###### Artículo 65.
 
@@ -873,11 +873,15 @@ Los titulares de las dependencias serán responsables con el Gobernador en todos
 
 ### CAPITULO IV. Del Poder Judicial
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1981)</small>
 
 ###### Artículo 67.
 
-Se deposita el ejercicio del Poder Judicial del Estado en el Supremo Tribunal de Justicia, en los jueces de Primera Instancia, en los municipales y de tenencia y en los jurados.
+Se deposita el ejercicio del Poder Judicial del Estado en el Supremo Tribunal de Justicia, en los Jueces de Primera Instancia, en los Municipales y de Tenencia y en los Jurados.
+
+La leyes del Estado podrán establecer tribunales de lo contencioso-administrativo dotados de plena autonomía para dictar sus resoluciones y que tengan a su cargo dirimir las controversias que se susciten entre la administración pública estatal o municipal y los particulares.
+
+Procederá el recurso de revisión ante el Supremo Tribunal de Justicia contra las resoluciones definitivas de dichos tribunales administrativos, solo en los caos que señalen las leyes estatales, y siempre que esas resoluciones hayan sido dictadas como consecuencia de un recurso interpuesto dentro de la jurisdicción contencioso-administrativa.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1916,3 +1920,7 @@ UNICO.- El Decreto respectivo entrará en vigor a los 5 días siguientes a su pu
 P.O. 22 DE DICIEMBRE DE 1980.
 
 UNICO. Este Decreto entrará en vigor a los 5 cinco días de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE ENERO DE 1981.
+
+UNICO. El Decreto respectivo entrará en vigor a los 5 días siguientes a su publicación en el Periódico Oficial del Estado.
