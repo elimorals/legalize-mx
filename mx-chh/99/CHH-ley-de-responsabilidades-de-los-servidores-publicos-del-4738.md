@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-responsabilidades-de-los-servidores-publicos-del-4738"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-17"
-last_updated: "1999-12-25"
+last_updated: "2000-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2000.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de mayo de 1989.
 
@@ -253,9 +253,19 @@ XIX.- Respetar y hacer respetar el derecho a la formulación de quejas y denunci
 
 XX.- Abstenerse de disponer o recibir recursos públicos a título de bono de retiro, compensación económica o de cualquier otra denominación, por el sólo hecho de haber concluido los períodos establecidos en la constitución política del estado para la duración de la administración, gestión o encomienda correspondiente o por la separación prematura de su encargo sea voluntaria o no. Lo anterior de ninguna manera comprende los derechos de carácter laboral que puedan corresponderles al tenor de las leyes correspondientes, ni las reservas destinadas para esos propósitos;
 
-XXI.- Las demás que les impongan otras Leyes o Reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MAYO DE 2000)</small>
 
-Se incurre en responsabilidad administrativa, por el incumplimiento de cualesquiera de las obligaciones contenidas en este Artículo, dando lugar a la instrucción del procedimiento administrativo ante los órganos disciplinarios y a la aplicación de las sanciones que en esta Ley se consignan, atendiendo a la naturaleza de la obligación que se transgreda.
+XXI.- Informar dentro de los quince días naturales siguientes a la fecha en que reciba la petición, planteamiento o denuncia en la que se solicite se determinen las responsabilidades a que haya lugar por las observaciones derivadas de alguna auditoría practicada por órgano competente o por los actos u omisiones de los servidores públicos que impliquen responsabilidades, denunciado en los términos del artículo 27 de esta Ley, el acuerdo inicial que recaiga a lo anterior.
+
+De igual forma deberá de comunicar el sentido de la resolución dictada que ponga fin al procedimiento instaurado tendiente a fincar la responsabilidad civil, administrativa o penal, según corresponda.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE MAYO DE 2000)</small>
+
+XXII.- Las demás que les impongan otras Leyes o Reglamentos.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2000)</small>
+
+Se incurre en responsabilidad administrativa, por el incumplimiento de cualesquiera de las obligaciones contenidas en este artículo, dando lugar a la instrucción del procedimiento administrativo ante los órganos disciplinarios y a la aplicación de las sanciones que en esta Ley se consignan, atendiendo a la naturaleza de la obligación que se transgreda.
 
 ###### ARTICULO 24.
 
@@ -578,3 +588,7 @@ P.O. 25 DE DICIEMBRE DE 1999.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MAYO DE 2000.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
