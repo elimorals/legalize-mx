@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-municipal-del-estado-de-veracruz-llave-6579"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "2001-12-19"
+last_updated: "2002-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE FEBRERO DE 2002.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -633,15 +633,11 @@ Por ningún motivo se extenderá este beneficio a más de un inmueble por person
 
 En ningún caso el impuesto anual a pagar por la aplicación de las tasas anteriores será inferior a dos salarios mínimos diarios de la zona económica en que se encuentre ubicado el predio.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2002)</small>
 
-###### ARTICULO 39.
+###### Artículo 39.
 
-El pago del impuesto será semestral y deberá hacerse dentro de los meses de enero y julio de cada año; si el contribuyente opta por el pago anual durante el mes de enero se le hará un descuento del 20%
-
-Cuando se hayan establecido bases provisionales para determinar el monto del impuesto, al aplicar la base definitiva, se cobrará o reintegrarán las diferencias que resulten.
-
-> <small>(DEROGADO TERCER PARRAFO, G.O. 31 DE DICIEMBRE DE 1998)</small>
+El pago del impuesto será semestral y deberá hacerse dentro de los meses de enero y julio de cada año; si el contribuyente opta por el pago anual durante el mes de enero se le hará un descuento del 20%, plazo que podrá prorrogarse hasta el día último del mes de febrero, por acuerdo del Cabildo, que se comunicará al Congreso del estado.
 
 ###### ARTICULO 40.
 
@@ -3926,3 +3922,7 @@ Artículo primero. El presente decreto entrará en vigor al día siguiente de su
 Artículo segundo. Los impuestos predial y de traslación de dominio de los bienes inmuebles, correspondientes al ejercicio fiscal de 2002, se determinarán, causarán y liquidarán conforme a las tasas que apruebe el Congreso, a partir de las propuestas que, en términos de lo dispuesto por el artículo segundo transitorio de la Ley número 28 que regula el procedimiento para fijar las cuotas, tarifas y tablas de valores unitarios de las contribuciones sobre propiedad inmobiliaria, de fecha 25 de septiembre de 2001, fueron presentadas por los Ayuntamientos.
 
 Artículo tercero. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 15 DE FEBRERO DE 2002.
+
+Único. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
