@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-31731"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "1992-10-08"
+last_updated: "1992-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1992.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -81,21 +81,59 @@ Contra la observancia de la ley no puede alegarse desuso, costumbre o práctica 
 
 Las Leyes que establecen excepción a las reglas generales no son aplicables a caso alguno que no esté expresamente especificado en las mismas leyes.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTÍCULO 12.
 
-Las leyes del Estado, incluyendo las que se refieren al estado y capacidad de las personas, se aplican a todos los habitantes de la Entidad, ya sean queretanos o no, estén domiciliados en ella o sean transeúntes.
+Las leyes del Estado rigen a todas las personas que se encuentren en la Entidad, así como los actos y hechos ocurridos en su territorio y aquellos que se sometan a dichas leyes, salvo cuando éstas prevean la aplicación de un derecho extranjero o de otra entidad federativa o algún ordenamiento federal, y salvo además lo previsto en los tratados y convenciones en que México sea parte.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTÍCULO 13.
 
-Los efectos jurídicos de actos y contratos celebrados fuera del Estado que deban ser ejecutados en su territorio, se regirán por las disposiciones de este código.
+La determinación del derecho aplicable, se hará conforme a las siguientes reglas:
+
+I. Las situaciones jurídicamente válidas creadas en el Estado, entidades de la República Mexicana o en un país extranjero, conforme a derecho, deberán ser reconocidas;
+
+II. El estado y capacidad de las personas físicas se rige por el derecho del lugar de su domicilio;
+
+III. La constitución, régimen y extinción de los derechos reales sobre inmuebles, así como los contratos de arrendamiento y de uso temporal de tales bienes, y los bienes muebles, se regirán por el derecho del lugar de su ubicación, aunque sus titulares sean extranjeros;
+
+IV. La forma de los actos jurídicos se rige por las leyes del lugar en que se celebren. Sin embargo, podrán sujetarse a las formas prescritas en este Código, cuando el acto tenga efectos en la Entidad, y
+
+V. Salvo lo previsto en las fracciones anteriores, los efectos jurídicos de los actos y contratos, se regirán por el derecho del lugar en donde deban ejecutarse, a menos que las partes hubieren designado válidamente la aplicabilidad de otro derecho.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTÍCULO 14.
 
-Los bienes inmuebles, sitos en el Estado de Querétaro y los bienes muebles que en él se encuentren, se regirán por las disposiciones de este código, aun cuando los dueños sean de otras Entidades.
+En la aplicación del derecho extranjero se observará lo siguiente:
+
+I. Se aplicará como lo haría el juez extranjero respectivo, para lo cual el juez podrá allegarse la información. necesaria acerca del texto, vigencia, sentido y alcance legal de dicho derecho;
+
+II. Se aplicará el derecho sustantivo extranjero, salvo cuando dadas las circunstancias del caso, deban tomarse en cuenta, con carácter excepcional, las normas conflictuales de ese derecho, que hagan aplicables las normas sustantivas del estado o de un tercer estado;
+
+III. No será impedimento para la aplicación del derecho extranjero, que el derecho del Estado no prevea instituciones o procedimientos esenciales a la institución extranjera aplicable, si existen instituciones o procedimientos análogos;
+
+IV. La cuestiones previas, preliminares o incidentales que puedan surgir con motivo de una cuestión principal, no deberán resolverse necesariamente de acuerdo con el derecho que regule a ésta última, y
+
+V. Cuando diversos aspectos de una misma relación jurídica estén regulados por distintos derechos, éstos serán aplicados armónicamente, procurando realizar las finalidades perseguidas por cada uno de tales derechos.
+
+Las dificultades causadas por la aplicación simultánea de tales derechos, se resolverán tomando en cuenta las exigencias de la equidad en el caso concreto.
+
+Lo dispuesto en el presente artículo se observará cuando resultare aplicable el derecho de otra entidad federativa.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTÍCULO 15.
 
-Los actos jurídicos en todo lo relativo a su forma, se regirán por las leyes del lugar donde pasen. Sin embargo, los residentes fuera del Estado, quedan en libertad para sujetarse a las formas prescritas por este Código cuando el acto haya de tener ejecución en esta Entidad.
+No se aplicará el derecho extranjero:
+
+I. Cuando artificiosamente se hayan evadido principios fundamentales del derecho mexicano, debiendo el juez determinar la intención fraudulenta de tal evasión, y
+
+II. Cuando las disposiciones del derecho extranjero o el resultado de su aplicación sean contrarios a principios o instituciones fundamentales del orden público mexicano.
+
+Lo dispuesto en el presente artículo también se observará cuando pretenda ser aplicado el derecho de otra Entidad Federativa.
 
 ###### ARTÍCULO 16.
 
@@ -157,7 +195,13 @@ V. Las sociedades cooperativas y mutualistas;
 
 VI. Las asociaciones distintas de las enumeradas que se propongan fines políticos, científicos, artísticos, de recreo o cualquiera otro fin lícito, siempre que no fueren desconocidas por la ley, y
 
-VII. Todas las demás a las que las leyes les concedan tal carácter.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+VII. Las personas morales extranjeras de naturaleza privada en los términos del artículo 2619.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+VIII. Todas las demás a las que las leyes les concedan tal carácter.
 
 ###### ARTÍCULO 26.
 
@@ -167,15 +211,23 @@ Las personas morales pueden ejercitar todos los derechos que sean necesarios par
 
 Las personas morales obran y se obligan por medio de los órganos que la representan, sea por disposición de la ley o conforme a las disposiciones relativas de sus escrituras constitutivas y de sus estatutos.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTÍCULO 28.
 
 Las personas morales se regirán por las leyes correspondientes, por su escritura constitutiva y por sus estatutos.
 
+Las personas morales extranjeras de naturaleza privada se regirán por las leyes correspondientes, observándose lo dispuesto por los artículos 2619 y 2620 de este Código; dichas personas que no se encuentren reguladas por otras leyes, solamente podrán establecerse en la Entidad cumpliendo con los dispositivos legales aplicables, previa autorización de la Secretaría de Relaciones Exteriores.
+
 ## TITULO SEGUNDO. DEL DOMICILIO
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTÍCULO 29.
 
-El domicilio de una persona física es el lugar donde habita con el propósito de establecerse en él, a falta de éste, el lugar en que tiene el principal asiento de sus negocios; y a falta de uno y otro, el lugar en que se halle.
+El domicilio de las personas físicas es el lugar donde residen habitualmente, y a falta de éste, el lugar del centro principal de sus negocios; en ausencia de éstos, el lugar donde simplemente residan, y en su defecto, el lugar donde se encontraren.
+
+Se presume que una persona reside habitualmente en un lugar, cuando permanezca en él por más de seis meses.
 
 ###### ARTÍCULO 30.
 
@@ -185,19 +237,25 @@ Se presume el propósito de establecerse en un lugar, cuando se habita por más 
 
 El domicilio legal de una persona es el lugar donde la ley le fija su residencia para el ejercicio de sus derechos y el cumplimiento de sus obligaciones, aunque de hecho no esté allí presente.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTÍCULO 32.
 
 Se reputa domicilio legal:
 
 I. Del menor de edad no emancipado, el de la persona a cuya patria potestad está sujeto;
 
-II. Del menor que no esté bajo la patria potestad y del mayor incapacitado, el de su tutor;
+II. Del menor de edad que no esté bajo la patria potestad y del mayor incapacitado, el de su tutor;
 
-III. De los militares en servicio activo, el lugar en que están destinados.
+III. En el caso de menores o incapaces abandonados, el que resulte conforme a las reglas previstas en el artículo 29, siempre y cuando no este sujeto a tutela;
 
-IV.- De los empleados públicos, el lugar donde desempeñen sus funciones por más de seis meses. Los que por tiempo menor desempeñan alguna comisión no adquirirán domicilio en el lugar donde la cumplen, sino que conservarán su domicilio anterior; y
+IV. De los cónyuges, aquel en el cual éstos vivan conjuntamente, sin perjuicio del derecho de cada cónyuge de fijar su domicilio en la forma prevista en el artículo 29;
 
-V.- De los sentenciados a sufrir una pena privativa de libertad por más de seis meses, la población en que la extingan por lo que toca a las relaciones jurídicas posteriores a la condena; en cuanto a las relaciones anteriores, los sentenciados conservarán el último domicilio que haya tenido.
+V. De los militares en servicio activo, el lugar en que están destinados;
+
+VI. De los servidores públicos, el lugar donde desempeñen sus funciones por más de seis meses, y
+
+VII. De los sentenciados a sufrir una pena privativa de libertad por más de seis meses, la población en que la extingan, por lo que toca a las relaciones jurídicas posteriores a la condena; en cuanto a las relaciones anteriores, los sentenciados conservarán el último domicilio que hayan tenido.
 
 ###### ARTÍCULO 33.
 
@@ -213,9 +271,13 @@ Las personas morales que tengan su administración fuera del Estado, pero que ej
 
 Las sucursales que operen en lugares distintos de donde radica la casa matriz, tendrán su domicilio en esos lugares para el cumplimiento de las obligaciones contraídas por las mismas sucursales.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTÍCULO 34.
 
-Tanto las personas físicas como las morales tienen derecho de designar un domicilio convencional para el cumplimento de determinadas obligaciones, con las excepciones que establece la ley.
+Cuando una persona física tenga dos o más domicilios, se le considerará domiciliada en el lugar en que simplemente resida, y si viviere en varios, aquel en que se encontrare.
+
+Tanto las personas físicas como morales tienen derecho a designar un domicilio convencional para el cumplimiento de determinadas obligaciones.
 
 ## TITULO TERCERO. DEL NOMBRE
 
@@ -12957,7 +13019,9 @@ El socio o socios administradores están obligados a rendir cuentas siempre que 
 
 Cuando la administración no se hubiere limitado a alguno de los socios, todos tendrán derecho de concurrir a la dirección y manejo de los negocios comunes. Las decisiones serán tomadas por mayoría observándose respecto de ésta lo dispuesto en el artículo 2596.
 
-### CAPITULO VI. DE LAS ASOCIACIONES Y DE LAS SOCIEDADES EXTRANJERAS
+### CAPÍTULO VI. DE LAS PERSONAS MORALES EXTRANJERAS DE NATURALEZA PRIVADA
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTÍCULO 2603.
 
@@ -13051,19 +13115,23 @@ Si al terminar la sociedad en que hubiere socios capitalistas e industriales, re
 
 Salvo pacto en contrario, los socios industriales no responderán de las pérdidas.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ### CAPITULO I. DEL JUEGO Y DE LA APUESTA
 
 ###### ARTÍCULO 2619.
 
-Para que las asociaciones y las sociedades extranjeras de carácter civil puedan ejercer sus actividades en el Estado, deberán estar autorizadas por la Secretaría de Relaciones Exteriores.
+La existencia, capacidad para ser titular de derecho y obligaciones, funcionamiento, transformación, disolución, liquidación y fusión de las personas morales extranjeras de naturaleza privada, se regirán por el derecho de su constitución, entendiéndose por tal, a aquel del estado en que se cumplan los requisitos de forma y fondo requeridos para la creación de dichas personas.
+
+En ningún caso, el reconocimiento de la capacidad de una persona moral extranjera, excederá a la que le otorgue el derecho conforme a la cual se constituyó. Cuando alguna persona moral extranjera de naturaleza privada actué por medio de algún representante, se considerará que tal representante o quien los sustituya, está autorizado para responder a las reclamaciones y demandas que se intente en contra de dicha persona con motivo de los actos en cuestión.
+
+Para que las personas morales extranjeras puedan ejercer sus actividades en el Estado, deberán estar autorizadas por la Secretaría de Relaciones Exteriores.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTÍCULO 2620.
 
-Concedida la autorización por la Secretaría de Relaciones Exteriores, los estatutos se inscribirán en el Registro de Sociedades Civiles si llenan además, los siguientes requisitos:
-
-I.- Que dichos estatutos nada contengan que sea contrario a las leyes de orden público de la Nación y del Estado; y
-
-II.- Que tengan representante domiciliado en el lugar, dentro del Estado, donde van a operar, suficientemente autorizado para responder de las obligaciones que contraigan las mencionadas personas morales.
+Concedida la autorización por la Secretaría de Relaciones Exteriores, se inscribirán en el registro correspondiente los estatutos de las personas morales extranjeras de naturaleza privada.
 
 ### CAPITULO II. DE LA RENTA VITALICIA
 
@@ -14429,9 +14497,11 @@ El Ejecutivo del Estado designará las poblaciones en donde deba establecerse la
 
 El reglamento fijará el número de secciones de que se componga el Registro y la sección en que deban inscribirse los títulos que se registren.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTÍCULO 2883.
 
-El Registro será público. Los encargados de la oficina tienen obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones constantes en los libros del Registro, y de los documentos relacionados en las inscripciones, que estén archivados. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros del Registro; así como cerfificaciones de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
+El Registro será público. Los encargados de la oficina tienen obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones constantes en los libros del Registro, y de los documentos relacionados en las inscripciones, que esten archivados. También tienen obligación de expedir copias certificadas de las inscripciones, constancias, planos o cualquier otro documento que obre en los libros o archivos del Registro; así como certificaciones de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
 
 Tratándose de testamentos ológrafos depositados en el Registro, se observará lo dispuesto en el artículo 1441.
 
@@ -14531,17 +14601,21 @@ III. Los documentos privados que en esta forma fueren válidos con arreglo a la 
 
 El interesado presentará el título que va a ser registrado, y cuando se trate de documentos que impliquen transmisiones o modificaciones de la propiedad de fincas rústicas o urbanas, un croquis de esas fincas.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTÍCULO 2895.
 
-El registrador hará la inscripción si encuentra que el título presentado es de los que deben inscribirse, llena las formas extrínsecas exigidas por la ley o contiene los datos conducentes a que se refiere el artículo 2897.- En caso contrario, devolverá el título sin registrar, siendo necesaria resolución judicial para que se haga el registro.
+El registrador hará la inscripción si encuentra que el título presentado es de los que deben inscribirse, llena las formas extrínsecas exigidas por la ley o contiene los datos conducentes a que se refiere el artículo 2897. En caso contrario, devolverá el título sin registrar, siendo necesaria resolución judicial para que se haga el registro.
 
-El registrador no podrá rechazar la inscripción por discrepancia de superficies, medidas o colindancias entre el título que se presente y el que le sirve de antecedente, si esta circunstancia fue objeto de deslinde catastral.
+El registrador no podrá rechazar la inscripción por discrepancia de superficies, medidas o colindancias entre el título que se presente y el que le sirve de antecedente, si esta circunstancia fue objeto de deslinde catastral o se entregue copia del plano o lámina catastral respectiva o levantamiento topográfico suscrito por perito autorizado en la materia y firmado por las partes. En estos supuestos, siempre que en la Escritura Pública de origen, las partes se hubieren obligado expresa y solidariamente a responder por los daños y perjuicios que se pudieren generar a terceros con motivo de la aclaración o corrección de las superficies, medidas o linderos.
 
-Tampoco podrá negarse la inscripción por cuestiones de fondos de los actos o instrumentos que pretendan registrarse.
+Tampoco podrá negarse la inscripción por cuestiones de fondo de los actos o títulos que pretendan registrarse.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTÍCULO 2896.
 
-En el caso a que se refiere la parte final del artículo anterior, el registrador tiene obligación de hacer una inscripción preventiva, a fin de que si la autoridad judicial ordena que se registre el título rechazado, la inscripción definitiva surta sus efectos desde que por primera vez se presentó el título. Si el juez aprueba la calificación hecha por el registrador, se cancelará la inscripción preventiva.
+En el caso a que se refiere la parte final del primer párrafo del artículo anterior, el registrador tiene obligación de hacer una inscripción preventiva, a fin de que si la autoridad judicial ordena que se registre el título rechazado, la inscripción definitiva surta sus efectos desde que por primera vez se presentó el título. Si el juez aprueba la calificación hecha por el registrador, se cancelará la inscripción preventiva.
 
 Transcurridos tres años sin que se comunique al registrador la calificación que del título presentado haya hecho el juez, a petición de parte interesada se cancelará la inscripción preventiva.
 
@@ -14565,9 +14639,13 @@ VII. La fecha del titulo y el funcionario que lo haya autorizado; y
 
 VIII. El día y la hora de la presentación del titulo en el Registro.
 
-###### ARTÍCULO 2898.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
 
-El Registrador que haga una inscripción sin cumplir con lo dispuesto en el artículo anterior, será responsable de los daños y perjuicios que cause a los interesados, y sufrirá una suspensión de empleo por tres meses.
+###### ARTICULO 2898.
+
+El Registrador que haga una inscripción sin cumplir con lo dispuesto en el artículo anterior, será responsable de los daños y perjuicios que cause a los interesados y sufrirá suspensión de empleo hasta por tres meses, salvo en los casos previstos en el segundo párrafo del artículo 2895.
+
+Bajo ningún concepto, el Registrador podrá exigir mayores requisitos, documentos o formalidades que los establecidos en éste Título, la Ley Reglamentaria o las demás leyes aplicables a los actos inscribibles.
 
 ###### ARTÍCULO 2899.
 
@@ -14677,7 +14755,9 @@ III. Cuando se declare la nulidad del título en cuya virtud se haya hecho la in
 
 IV. Cuando se declare la nulidad de la inscripción;
 
-V. Cuando sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto en el artículo 2193; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1992)</small>
+
+V. Cuando sea enajenado judicialmente el inmueble que reporte el gravamen en el caso previsto en el artículo 2193; y
 
 VI. Cuando tratándose de una cédula hipotecaria o de un embargo, hayan transcurrido tres años desde la fecha de la inscripción.
 
@@ -14830,3 +14910,13 @@ La vigencia de esta Ley será durante los meses de diciembre de 1992, enero y ju
 ###### ARTICULO TERCERO.
 
 Las disposiciones jurídicas que se opongan a la presente quedan derogadas mientras dure la vigencia de ésta, a cuyo término recobrarán aquellas su pleno vigor en forma automática.
+
+P.O. 30 DE DICIEMBRE DE 1992
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan a la presente.
