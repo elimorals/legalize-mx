@@ -4,7 +4,7 @@ identifier: "LFAEBSP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2002-12-19"
-last_updated: "2002-12-19"
+last_updated: "2005-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26816&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LFAEBSP"
 
 LEY FEDERAL PARA LA ADMINISTRACION Y ENAJENACION DE BIENES DEL SECTOR PUBLICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE FEBRERO DE 2005.
 
-Ley publicada en la Sección Primera del Diario Oficial de la Federación el jueves 19 de diciembre de 2002.
+Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 19 de diciembre de 2002.
 
 DECRETO por el que se expide la Ley Federal para la Administración y Enajenación de Bienes del Sector Público y se adiciona el Código Federal de Procedimientos Penales.
 
@@ -60,7 +60,9 @@ III.- Los que habiendo sido embargados por autoridades federales, hayan sido adj
 
 IV.- Los que sean abandonados a favor del Gobierno Federal;
 
-V.- Los que estando sujetos a uno de los procedimientos establecidos en la legislación aduanera, en la legislación fiscal federal o en otros ordenamientos jurídicos aplicables a las entidades transferentes, deban ser vendidos, destruidos, donados o asignados, en virtud de ser inflamables, no fungibles, perecederos, de fácil descomposición o deterioro, así como cuando se trate de animales vivos y vehículos;
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+V.- Los que estando sujetos a uno de los procedimientos establecidos en la legislación aduanera, en la legislación fiscal federal o en otros ordenamientos jurídicos aplicables a las Entidades Transferentes, deban ser vendidos, destruidos, donados o asignados, en virtud de ser inflamables, fungibles, perecederos, de fácil descomposición o deterioro, así como cuando se trate de animales vivos y vehículos;
 
 VI.- Los que pasen a ser propiedad del Fisco Federal;
 
@@ -80,7 +82,9 @@ Los depositarios, liquidadores, interventores o administradores, así como los t
 
 Hasta que se realice la transferencia de los bienes al SAE, éstos se regirán por las disposiciones aplicables de acuerdo a su naturaleza.
 
-La presente Ley será aplicable desde que los bienes sean transferidos al SAE y hasta que se realice la destrucción, enajenación o termine la administración de los mismos. Habiéndose presentado cualquiera de estos supuestos, se estará a las disposiciones aplicables para el entero, destino y determinación de la naturaleza de los ingresos correspondientes.
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+La presente Ley será aplicable a los bienes desde que éstos sean transferidos al SAE y hasta que el SAE realice la destrucción, enajenación o termine la administración de los mismos, inclusive tratándose de bienes de Entidades Transferentes cuyo marco legal aplicable establezca requisitos o procedimientos de administración, enajenación y control especiales o particulares, en las materias que regula esta Ley. Habiéndose presentado cualquiera de estos supuestos, se estará a las disposiciones aplicables para el entero, destino y determinación de la naturaleza de los ingresos correspondientes.
 
 Los bienes inmuebles del Gobierno Federal que se transfieran al SAE continuarán sujetos al régimen jurídico que establece la Ley General de Bienes Nacionales.
 
@@ -98,9 +102,11 @@ III.- Bienes incosteables: Aquellos cuyo valor sea menor al importe de seis mese
 
 IV.- Contraloría: La Secretaría de Contraloría y Desarrollo Administrativo;
 
-V.- Entidades Transferentes: Las Autoridades Aduaneras; la Tesorería de la Federación; la Procuraduría; las Autoridades Judiciales Federales; las entidades paraestatales, incluidas las instituciones de banca de desarrollo y las organizaciones auxiliares nacionales del crédito; los fideicomisos públicos, tengan o no el carácter de entidad paraestatal, y las dependencias de la Administración Pública Federal, que en términos de las disposiciones aplicables transfieran para su administración y/o enajenación los bienes a que se refiere el artículo 1 de esta Ley al SAE.
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
-Tratándose de inmuebles cuya administración competa a la Contraloría, se entenderá como entidad transferente, exclusivamente a esa Dependencia;
+V.- Entidades Transferentes: Las Autoridades Aduaneras; la Tesorería de la Federación; la Procuraduría; las Autoridades Judiciales Federales; las entidades paraestatales, incluidas las instituciones de banca de desarrollo y las organizaciones auxiliares nacionales de crédito; los fideicomisos públicos, tengan o no el carácter de entidad paraestatal, las dependencias de la Administración Pública Federal, la oficina de la Presidencia de la República, la Consejería Jurídica del Ejecutivo Federal, el Banco de México, el Instituto Federal Electoral, los gobiernos de las Entidades Federativas y de los Municipios, así como los demás organismos públicos autónomos, que en términos de las disposiciones aplicables transfieran para su administración, enajenación o destrucción los bienes a que se refiere el artículo 1o. de esta Ley al SAE.
+
+Tratándose de inmuebles cuya administración competa a la Contraloría, se entenderá como Entidad Transferente, exclusivamente a esa Dependencia;
 
 VI.- Interesado: La persona que conforme a derecho, tenga interés jurídico sobre los bienes a que se refiere el artículo 1 de esta Ley o, en su caso, aquella que tenga interés en participar en los procedimientos de enajenación previstos en la misma;
 
@@ -112,9 +118,17 @@ IX.- Procuraduría: La Procuraduría General de la República;
 
 X.- Reglamento: El Reglamento de esta Ley, que al efecto emita el Presidente de la República;
 
-XI.- SAE: El organismo descentralizado de la Administración Pública Federal, denominado Servicio de Administración y Enajenación de Bienes, previsto en el Título Sexto de la presente Ley, y
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
-XII.- Secretaría: La Secretaría de Hacienda y Crédito Público.
+XI.- SAE: El organismo descentralizado de la Administración Pública Federal, denominado Servicio de Administración y Enajenación de Bienes, previsto en el Título Sexto de la presente Ley;
+
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XII.- Secretaría: La Secretaría de Hacienda y Crédito Público, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XIII.- Transferencia: El procedimiento por el cual una Entidad Transferente entrega uno o más bienes al SAE para su administración, enajenación o destrucción, sin que dicha entrega implique transmisión de propiedad alguna ni genere el pago de impuestos.
 
 ###### Artículo 3.
 
@@ -138,15 +152,39 @@ El SAE integrará una base de datos con el registro de los bienes, que podrá se
 
 El SAE administrará los bienes que para tales efectos le entreguen las entidades transferentes, que tengan un valor mayor al importe de seis meses de salario mínimo general vigente para el Distrito Federal. Dicha administración se realizará de conformidad con las disposiciones de la presente Ley, en tanto no exista resolución definitiva emitida por autoridad administrativa o judicial competente que determine el destino de dichos bienes, salvo que se trate de los referidos en la fracción V del artículo 1 de esta Ley.
 
-Se encuentran exceptuados de la administración a que se refiere el párrafo anterior, las joyas, billetes y monedas de curso legal, divisas, metales preciosos, los bienes numismáticos o filatélicos, y los bienes con valor artístico o histórico, los cuales serán administrados conforme a las disposiciones aplicables por la entidad que corresponda, según el caso, salvo que las autoridades competentes determinen lo contrario.
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+Se encuentran exceptuados de la administración a que se refiere el párrafo anterior, los billetes y monedas de curso legal, divisas, metales preciosos, los bienes numismáticos o filatélicos, y los bienes con valor artístico o histórico, los cuales serán administrados conforme a las disposiciones aplicables por la entidad que corresponda, según el caso, salvo que las autoridades competentes determinen lo contrario.
 
 Respecto de los bienes que no son susceptibles de administración en los términos de este artículo, las entidades transferentes, de conformidad con las disposiciones aplicables, procederán a ordenar su asignación; destrucción; enajenación, de conformidad con los ordenamientos aplicables para cada tipo de bien, o donación a instituciones autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta, que lo requieran para el desarrollo de sus actividades; o bien a determinar un fin específico que ofrezca la mayor utilidad para el Gobierno Federal.
 
 Los bienes muebles e inmuebles que se encuentren al servicio de las entidades transferentes, no podrán ser transferidos para su administración al SAE en los términos del presente Título.
 
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 6.
 
-Todos los bienes asegurados, incluyendo las joyas, billetes y monedas de curso legal, divisas, metales preciosos, los bienes numismáticos o filatélicos y los bienes con valor artístico o histórico, serán administrados por el SAE.
+Todos los bienes asegurados, incluyendo los billetes y monedas de curso legal, divisas, metales preciosos, los bienes numismáticos o filatélicos y los bienes con valor artístico o histórico, serán administrados por el SAE.
+
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+Artículo 6 bis.- Todos los bienes provenientes de comercio exterior, incluidos los sujetos a un procedimiento establecido en la legislación aduanera, los recibidos por cualquier título por la Tesorería de la Federación, incluidas las daciones en pago y los sujetos a un procedimiento establecido en la legislación fiscal federal, así como los abandonados a favor del Gobierno Federal, excepto los previstos en el segundo párrafo del artículo 5 de esta Ley, deberán ser transferidos al SAE para su administración y destino en términos de esta Ley.
+
+Quedan exceptuados de lo previsto en el párrafo anterior, los bienes perecederos provenientes de comercio exterior, que vayan a ser donados o destruidos directamente por la autoridad aduanera competente.
+
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+Artículo 6 ter.- Las Entidades Transferentes contarán con un plazo de 30 días naturales, contados a partir de la fecha de adjudicación o de que legalmente puedan disponer de los bienes a que se refiere el artículo anterior, para llevar a cabo la transferencia de los mismos al SAE.
+
+Una vez concluido el plazo a que se refiere al párrafo anterior, el SAE contará con un plazo de 540 días naturales para enajenar los bienes o los derechos litigiosos sobre los mismos, de acuerdo con los procedimientos de enajenación establecidos en el Título Cuarto de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+Artículo 6 quáter.- Los bienes provenientes de comercio exterior que sean puestos a disposición del SAE para su transferencia, deberán ser retirados del lugar en que se ubiquen dentro de los 60 días naturales siguientes a la recepción de la solicitud de entrega que efectúe la Entidad Transferente, debidamente acompañada de la documentación complementaria.
+
+El plazo a que se refiere el párrafo anterior, empezará a correr siempre y cuando, la solicitud de entrega y la documentación complementaria que reciba el SAE, cumplan con todos los requisitos que para tal efecto establecen esta Ley, el Reglamento y los lineamientos que expida la Junta de Gobierno.
+
+En caso de que el SAE no efectúe el retiro de los bienes dentro del plazo a que se refiere el primer párrafo del presente artículo sin causa justificada, éstos podrán ser donados o destruidos directamente por la autoridad aduanera competente.
 
 ###### Artículo 7.
 
@@ -171,6 +209,10 @@ Se hará constar en los registros públicos que correspondan, de conformidad con
 ###### Artículo 11.
 
 El SAE, o el depositario, interventor, liquidador o administrador de los bienes contratarán seguros para el caso de pérdida o daño de los mismos.
+
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+Lo dispuesto en el párrafo anterior, no será aplicable cuando por razón de la naturaleza jurídica, características o el tipo de riesgos a los que están expuestos los bienes, el costo de aseguramiento no guarde relación directa con el beneficio que pudiera obtenerse.
 
 ###### Artículo 12.
 
@@ -238,7 +280,9 @@ El administrador tendrá independencia respecto del propietario, los órganos de
 
 La Junta de Gobierno podrá autorizar a los depositarios, administradores o interventores a que se refiere el artículo 8 de esta Ley para que éstos utilicen los bienes que hayan recibido, lo que en su caso harán de conformidad con lo que al respecto establezca el Reglamento, así como los lineamientos que expida dicha Junta.
 
-La Junta de Gobierno fijará el monto de la contraprestación que los depositarios, administradores o interventores deban cubrir por el uso que se otorgue de acuerdo con el párrafo anterior. Dicha contraprestación se considerará como fruto de los bienes.
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+La Junta de Gobierno fijará el monto de la contraprestación que los depositarios, administradores o interventores deban cubrir por el uso que se otorgue de acuerdo con el párrafo anterior. Dicha contraprestación se considerará como fruto de los bienes. El uso de flora, fauna, piezas de arte, piezas arqueológicas e inmuebles con alguna limitación de dominio, que sea otorgado a depositarios, administradores o interventores, no generará el pago de contraprestación alguna.
 
 El SAE podrá otorgar, previa autorización de la Junta de Gobierno, los bienes en depósito a las dependencias, entidades paraestatales o a la Procuraduría, cuando así lo solicite por escrito el titular de dichas instancias, o el servidor público en quien delegue esta función, y, en su caso, les autorizará mediante comodato la utilización de dichos bienes para el desarrollo de sus funciones.
 
@@ -249,6 +293,16 @@ Los depositarios, administradores o interventores rendirán al SAE un informe me
 Cuando proceda la devolución de los bienes que se hayan utilizado conforme al artículo anterior, el depositario, administrador o interventor cubrirá los daños ocasionados por su uso.
 
 El seguro correspondiente a estos bienes deberá cubrir la pérdida y los daños que se originen por el uso de los mismos.
+
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+Artículo 23 bis.- En caso de que una empresa en liquidación tenga pasivos fiscales de carácter federal, y el accionista único sea el Gobierno Federal, operará de pleno derecho la cancelación de dichos créditos fiscales, sin necesidad de autorización alguna, siempre y cuando se cumplan los siguientes requisitos:
+
+I.- Que exista previo dictamen de auditor externo, y
+
+II.- Que sea la última actividad pendiente para concluir el proceso de liquidación.
+
+En estos casos se deberá remitir la documentación respectiva al Servicio de Administración Tributaria, incluyendo el acta de la última sesión del órgano de gobierno de la empresa.
 
 ## TÍTULO TERCERO. De la Devolución de Bienes en Administración
 
@@ -280,19 +334,23 @@ Previo a la recepción de los bienes por parte del interesado, se dará oportuni
 
 Cuando conforme a lo previsto en el artículo 24 de esta Ley, se determine por la autoridad competente la devolución de los bienes que hubieren sido enajenados por el SAE, o haya imposibilidad para devolverlos, deberá cubrirse con cargo al fondo previsto en el artículo 89, a la persona que tenga la titularidad del derecho de devolución, el valor de los mismos de conformidad con las disposiciones aplicables.
 
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+Para efectos de lo dispuesto en el párrafo que antecede, el valor de los bienes que hayan sido vendidos, será aquél que se obtenga por la venta, descontando los costos, honorarios y pagos a que se refiere el primer párrafo del artículo 89 de la presente Ley, más los rendimientos generados a partir de la fecha de venta.
+
 ###### Artículo 28.
 
 El SAE será responsable de los daños derivados de la pérdida, extravío o deterioro inusual de los bienes que administre. Quien tenga derecho a la devolución de bienes que se hubieran perdido, extraviado o deteriorado, podrá reclamar su pago al SAE.
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
 ###### Artículo 29.
 
 Los frutos y productos de los bienes serán enajenados por el SAE de conformidad con los procedimientos previstos en el Título Cuarto de esta Ley, con excepción de lo dispuesto por el tercer párrafo del artículo 39 de esta Ley.
 
-Una vez que se enajenen los bienes, así como sus frutos y productos, serán considerados contribuciones, aprovechamientos o productos en los términos del Código Fiscal de la Federación.
-
 ###### Artículo 30.
 
-Los ingresos que se obtengan de las ventas a que se refiere el artículo anterior, una vez descontados los costos de administración, gastos de mantenimiento y conservación de los bienes, honorarios de comisionados especiales que no sean servidores públicos encargados de dichos procedimientos, así como los pagos de las reclamaciones procedentes que presenten los adquirentes o terceros, por pasivos ocultos, fiscales o de otra índole, activos inexistentes, asuntos en litigio y demás erogaciones análogas a las antes mencionadas o aquellas que determine la Ley de Ingresos de la Federación u otro ordenamiento aplicable, y que realice el SAE conforme a la presente Ley, se destinarán a un fondo para su posterior entrega a la Tesorería de la Federación, a las entidades paraestatales, o a quien tenga derecho a ello, según corresponda, y serán destinados de conformidad con la legislación aplicable.
+(DEROGADO, D.O.F. 23 DE FEBRERO DE 2005)
 
 ## TÍTULO CUARTO. De los Procedimientos de Enajenación
 
@@ -324,7 +382,9 @@ II.- Las que no hubieren cumplido con cualquiera de las obligaciones derivadas d
 
 III.- Aquéllas que hubieren proporcionado información que resulte falsa o que hayan actuado con dolo o mala fe, en algún procedimiento realizado por la Administración Pública Federal para la adjudicación de un bien;
 
-IV.- Aquéllas que hubieren participado en procedimientos similares con el Gobierno Federal y se encuentren en situación de atraso en el pago de los bienes por causas imputables a ellos mismos;
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+IV.- Aquéllas que hubieren participado en procedimientos similares con el Gobierno Federal y se encuentren en situación de atraso en el pago de los bienes por causas imputables a ellos mismos, salvo los casos previstos en los lineamientos que para tal efecto expida la Junta de Gobierno;
 
 V.- Aquéllas a las que se les declare en concurso civil o mercantil;
 
@@ -332,7 +392,9 @@ VI.- Los terceros a que se refiere el artículo 38 de esta Ley, respecto de los 
 
 VII.- Los agentes aduanales y dictaminadores aduaneros, respecto de los bienes de procedencia extranjera;
 
-VIII.- Los servidores públicos del SAE y los de las entidades transferentes que por sus funciones hayan tenido acceso a información privilegiada, y
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+VIII.- Los servidores públicos que por sus funciones hayan tenido acceso a información privilegiada, y
 
 IX.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de Ley.
 
@@ -344,11 +406,17 @@ Cualquier procedimiento de enajenación o acto que se realice en contra de lo di
 
 Los servidores públicos que participen en la realización de los procedimientos de enajenación previstos en esta Ley, serán responsables por la inobservancia de las disposiciones establecidas en la misma, en términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, sin perjuicio de la responsabilidad penal que corresponda conforme a las leyes.
 
-### CAPÍTULO II. De la Donación
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+### CAPÍTULO II. De la Asignación y Donación
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
 ###### Artículo 34.
 
-En casos excepcionales, de conformidad con lo que establezcan para tal efecto las disposiciones aplicables y previo cumplimiento de los requisitos que, en su caso, prevean las mismas, tales como los relativos al monto, plazo o tipo de bienes, éstos podrán ser donados a favor de los gobiernos de los estados, de los municipios, o del Distrito Federal, para que los utilicen en los servicios públicos locales, en fines educativos o de asistencia social, o a instituciones autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta, que lo requieran para el desarrollo de sus actividades.
+En casos excepcionales, de conformidad con lo que establezcan para tal efecto las disposiciones aplicables y previo cumplimiento de los requisitos que, en su caso, prevean las mismas, tales como los relativos al monto, plazo o tipo de bienes, éstos podrán ser donados o asignados, según corresponda, a favor de las dependencias y entidades paraestatales de la Administración Pública Federal, así como de los gobiernos de las entidades federativas y municipios, para que los utilicen en los servicios públicos locales, en fines educativos o de asistencia social, o a instituciones autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta, que lo requieran para el desarrollo de sus actividades.
+
+Tratándose de bienes provenientes de comercio exterior, sólo podrán donarse los inflamables, explosivos, contaminantes, radioactivos, corrosivos, perecederos, de fácil descomposición o deterioro, flora, animales vivos, aquéllos que se utilicen para la prevención o atención de los efectos derivados de desastres naturales y los destinados para la atención de zonas determinadas de alta marginalidad.
 
 ###### Artículo 35.
 
@@ -356,27 +424,21 @@ Para la donación de los bienes, el SAE se apoyará del Comité de Donaciones, e
 
 ### CAPÍTULO III. De la Venta
 
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 36.
 
-El SAE podrá vender los bienes que le sean transferidos, siempre que el precio no sea una cantidad menor al valor en que fueron recibidos, con adición a los gastos de administración o venta generados, excepto cuando el valor de avalúo actualizado sea menor, en cuyo caso, éste será el precio mínimo de venta. Tratándose del procedimiento de remate, se estará a lo dispuesto por los artículos 57, 59 y 60 de este ordenamiento.
+El SAE podrá vender los bienes que le sean transferidos, cuando el precio sea igual o superior al determinado por un avalúo vigente, o bien sea el ofrecido por el mercado, siempre y cuando, en este último supuesto, la venta se realice mediante los procedimientos de licitación pública o subasta. Tratándose del procedimiento de remate, se estará a lo dispuesto por los artículos 57, 59 y 60 de este ordenamiento.
+
+Cuando se requieran avalúos, éstos serán practicados por el Instituto de Administración y Avalúos de Bienes Nacionales o por peritos, instituciones de crédito, agentes especializados o corredores públicos y deberán consignar al menos el valor comercial y el de realización inmediata, en los términos que determine la Junta de Gobierno.
+
+El SAE estará facultado para mantener en reserva el precio base de venta hasta el acto de presentación de ofertas de compra, en aquellos casos en que se considere que dicha reserva coadyuvará a estimular la competitividad entre los interesados y a maximizar el precio de venta.
+
+En caso de ser utilizado el valor de mercado, se deberá incorporar a las bases de la licitación pública o subasta, que el SAE podrá declarar desierto, parcial o totalmente, el procedimiento de venta, sin necesidad de justificación alguna. La Junta de Gobierno podrá emitir lineamientos para regular esta facultad.
 
 ###### Artículo 37.
 
-El SAE podrá vender los bienes que se le transfieran una vez que se hayan cubierto los requisitos correspondientes, de acuerdo a los procedimientos a que se refiere el artículo 38 de esta Ley.
-
-El precio base de venta de los bienes será:
-
-I.- El que señale el avalúo vigente;
-
-II.- El valor comercial;
-
-III.- El valor de reposición, o
-
-IV.- El valor de mercado.
-
-El precio base será fijado por la Comisión de Avalúos de Bienes Nacionales o por peritos, instituciones de crédito, agentes especializados o corredores públicos. En todo caso, el SAE deberá justificar las razones de la elección tanto del método de valuación como del valuador.
-
-El SAE estará facultado para mantener en reserva el precio base de venta hasta el acto de presentación de ofertas de compra, en aquellos casos en que se considere que dicha reserva coadyuvará a estimular la competitividad entre los interesados y a maximizar el precio de venta.
+(DEROGADO, D.O.F. 23 DE FEBRERO DE 2005)
 
 ###### Artículo 38.
 
@@ -396,11 +458,23 @@ Los terceros a que se refiere el párrafo anterior, al concluir la enajenación 
 
 En la venta de los bienes, que se realice conforme a los procedimientos referidos, el SAE, así como los terceros señalados en los párrafos anteriores, deberán atender a las características comerciales de las operaciones, las sanas prácticas y usos bancarios y mercantiles.
 
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+Artículo 38 bis.- Tratándose de la enajenación a través del procedimiento de licitación pública, los participantes deberán entregar al SAE su postura en sobre cerrado y la postura más alta determinará el ganador y el precio de la transacción.
+
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+Artículo 38 ter.- Tratándose de la enajenación a través del procedimiento de subasta, los participantes ajustarán sus posturas en función de la de los competidores hasta llegar a un nivel donde ningún postor está dispuesto a ofrecer más. La última postura determina al ganador y el precio de transacción.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 39.
 
-La venta de los bienes se realizará preferentemente a través del procedimiento de licitación pública.
+La venta de los bienes se realizará preferentemente a través del procedimiento de subasta.
 
-Los procedimientos de subasta y de remate se podrán llevar a cabo en los siguientes casos:
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+El procedimiento de remate se podrá llevar a cabo en los siguientes casos:
 
 I.- Cuando así lo establezcan otras disposiciones legales;
 
@@ -422,19 +496,35 @@ El SAE se abstendrá de formalizar alguna venta, cuando de la información propo
 
 En las ventas que realice el SAE, debe pactarse preferentemente el pago en una sola exhibición. La Junta de Gobierno emitirá los lineamientos para la venta en varias exhibiciones, las que considerarán las condiciones de mercado en operaciones similares, así como las garantías que en su caso procedan.
 
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+Artículo 41 bis.- Una vez que la venta ha sido realizada y pagada la totalidad del precio, en caso de que el valor de venta sea menor al valor de registro contable, se considerará como minusvalía, la cual opera de manera automática y sin necesidad de procedimiento alguno, debiendo registrarse en la contabilidad respectiva.
+
+Tratándose de activos financieros incosteables e incobrables, el SAE deberá evaluar el costo beneficio de venderlos mediante el procedimiento de licitación pública, subasta o remate. En caso de que dicha evaluación sea positiva, procederá a su venta a través del procedimiento que se haya determinado y en caso de que éste resultare desierto o la evaluación negativa, el SAE los dará de baja de la contabilidad respectiva, debiendo mantener dichos activos en cuentas de orden únicamente para efectos de liberación de garantías, posibles pagos y afrontar contingencias.
+
+Los activos financieros incosteables son aquellos a que se refiere la fracción III del artículo 2o. del presente ordenamiento, en relación con la fracción II del artículo 17 del Reglamento de esta Ley.
+
+Los activos financieros incobrables, son aquellos que por falta de documentación o defectos en ésta; por falta de garantías; por prescripción o por carecer de información acerca del domicilio del deudor, no puedan recuperarse.
+
 ###### Artículo 42.
 
 El SAE podrá establecer penas convencionales a cargo del adjudicatario por atraso en sus obligaciones de pago.
 
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 43.
 
-El pago de los bienes deberá realizarse en el plazo de cinco días hábiles contados a partir del día en que se dé a conocer la adjudicación.
+El pago de los bienes muebles deberá realizarse en el plazo de cinco días hábiles contados a partir del día en que se dé a conocer la adjudicación.
 
-La entrega y recepción física de los bienes muebles deberá realizarse dentro de los cinco días hábiles posteriores a la fecha en que se cubra la totalidad de su importe.
+Tratándose de bienes inmuebles, el primer pago deberá cubrirse en el plazo de cinco días hábiles contados a partir del día en que se dé a conocer la adjudicación y representar por lo menos el 25% del valor de la operación, más el Impuesto al Valor Agregado que en su caso se genere, y el resto deberá quedar cubierto a la firma de la escritura pública correspondiente. Tratándose de adjudicaciones directas, el primer pago deberá representar cuando menos el 40% del valor de la operación.
 
-Se dará posesión de los bienes inmuebles en la fecha en que sea cubierta la totalidad del pago de los mismos, salvo que se trate de operaciones a plazo.
+La entrega y recepción física de los bienes muebles deberá realizarse dentro de los cinco días hábiles posteriores a la fecha en que se cubra la totalidad de su importe. Tratándose de activos financieros, la Junta de Gobierno determinará los términos y plazos para el pago, la entrega y la recepción de los mismos.
 
-El envío de las instrucciones para la escrituración correspondiente no podrá exceder de un plazo superior a treinta días naturales contados a partir del día siguiente de la fecha de adjudicación, salvo causa debidamente justificada. Durante dicho plazo el comprobante de pago, así como el instrumento en el que conste la adjudicación del bien, serán los documentos que acrediten los derechos del adquirente.
+Se dará posesión de los bienes inmuebles dentro de los 30 días hábiles siguientes a la fecha en que sea cubierta la totalidad del precio de los mismos, salvo que se trate de operaciones a plazo, en cuyo caso la posesión será otorgada dentro de los 30 días hábiles siguientes al momento de cubrir el primer pago.
+
+El envío de las instrucciones para la escrituración correspondiente no podrá exceder de un plazo superior a treinta días naturales contados a partir del día siguiente de la fecha de adjudicación, salvo causa debidamente justificada.
+
+Durante dicho plazo el comprobante de pago, así como el instrumento en el que conste la adjudicación del bien, serán los documentos que acrediten los derechos del adquirente.
 
 En caso de que la entrega recepción de los bienes y la escrituración en el caso de inmuebles no se efectúe por causas imputables al comprador, éste asumirá cualquier tipo de riesgo inherente a los mismos, salvo que obedezca a causas atribuibles al SAE.
 
@@ -444,7 +534,9 @@ En caso de que la entrega recepción de los bienes y la escrituración en el cas
 
 La licitación pública se realizará a través de convocatoria en la que se establecerá, en su caso, el costo y la forma de pago de las bases, mismo que será fijado en atención a la recuperación de las erogaciones por publicación de la convocatoria y por los documentos que al efecto se entreguen. Los interesados podrán revisar las bases, en su caso, previo pago de las mismas.
 
-La publicación de la convocatoria podrá hacerse en el Diario Oficial de la Federación, en un diario de circulación nacional o por cualquier otro medio electrónico, óptico o de cualquier otra tecnología que permita la expresión de la oferta.
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+La publicación de la convocatoria, así como sus modificaciones, podrá hacerse en el Diario Oficial de la Federación, en al menos un diario de circulación nacional y deberá divulgarse a través de medios electrónicos, ópticos o de cualquier otra tecnología que permitan la expresión de la oferta.
 
 Tratándose de títulos valor, créditos o cualquier bien comerciable en bolsas, mercados de valores o esquemas similares, podrá utilizarse un medio de difusión distinto a los señalados en el párrafo anterior, sujeto a que los valores respectivos se encuentren inscritos en el Registro Nacional de Valores en los términos de la Ley del Mercado de Valores.
 
@@ -456,15 +548,13 @@ I.- El nombre, denominación o razón social de la entidad transferente;
 
 II.- La descripción, condición física y ubicación de los bienes. En caso de bienes muebles, adicionalmente se señalarán sus características, cantidad y unidad de medida, y en tratándose de bienes inmuebles la superficie total, linderos y colindancias;
 
-III.- La descripción de los documentos que amparen la propiedad, titularidad o posibilidad de disponer de los bienes para su enajenación;
+III.- (DEROGADA, D.O.F. 23 DE FEBRERO DE 2005)
 
 IV.- El precio base del bien, salvo en los casos a que se refiere el último párrafo del artículo 37;
 
 V.- La forma en que se deberá realizar el pago por el adquirente;
 
-VI.- Tratándose de bienes muebles, el plazo máximo en que deberán ser retirados los bienes por el adquirente y en caso de bienes inmuebles, la fecha en que se podrá disponer de los mismos.
-
-En ambos casos se deberá indicar que, de no presentarse el interesado para los efectos conducentes en la fecha establecida, se le generarán gastos de administración, almacenamiento y custodia;
+VI.- (DEROGADA, D.O.F. 23 DE FEBRERO DE 2005)
 
 VII.- Lugar, fecha, horarios y condiciones requeridas para mostrar fotografías, catálogos, planos o para que los interesados tengan acceso a los sitios en que se encuentren los bienes para su inspección física, cuando proceda;
 
@@ -480,15 +570,19 @@ XII.- La fecha, hora y lugar, o en su caso, plazo para la celebración del acto 
 
 XIII.- Criterios para la evaluación de las ofertas de compra y para la adjudicación;
 
-XIV.- La indicación de que se deberá suscribir convenio de confidencialidad cuando se trate de bienes que por su naturaleza impliquen el manejo de información confidencial o privilegiada;
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
-XV.- La indicación de que ninguna de las condiciones establecidas en las bases de licitación, así como las proposiciones presentadas por los licitantes, podrán ser negociadas;
+XIV.- La fecha hora y lugar del acto de presentación de propuestas, y
 
-XVI.- La indicación de que no podrán participar las personas que se encuentren en los supuestos previstos en el artículo 32 de la Ley;
+XV.- (DEROGADA, D.O.F. 23 DE FEBRERO DE 2005)
 
-XVII.- Penas convencionales por mora o incumplimiento en el pago, y
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
-XVIII.- Las sanciones que procederán en caso de incumplimiento por parte del oferente.
+XVI.- La indicación de que no podrán participar las personas que se encuentren en los supuestos previstos en el artículo 32 de la Ley.
+
+XVII.- (DEROGADA, D.O.F. 23 DE FEBRERO DE 2005)
+
+XVIII.- (DEROGADA, D.O.F. 23 DE FEBRERO DE 2005)
 
 ###### Artículo 46.
 
@@ -542,7 +636,9 @@ Los actos de presentación y de apertura de ofertas de compra se llevarán a cab
 
 I.- Los licitantes entregarán sus ofertas de compra en sobre cerrado en forma inviolable, o por los medios electrónicos, ópticos o de cualquier otra tecnología que garanticen la confidencialidad de las ofertas hasta el acto de apertura;
 
-II.- La apertura de las ofertas de compra se realizará a más tardar, al segundo día hábil siguiente a aquél en que venza el plazo de presentación de ofertas de compra;
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+II.- La apertura de las ofertas de compra se realizará en junta pública a más tardar, al segundo día hábil siguiente a aquél en que venza el plazo de presentación de ofertas de compra;
 
 III.- La convocante en un plazo no mayor de tres días hábiles, contados a partir del acto de apertura de ofertas de compra, procederá a la evaluación de las mismas, con pleno apego a lo dispuesto por el artículo 31 de esta Ley.
 
@@ -560,7 +656,9 @@ En caso de empate en el procedimiento de licitación pública, el bien se adjudi
 
 El adjudicatario perderá en favor del SAE, la garantía que hubiere otorgado si, por causas imputables a él, la operación no se formaliza dentro del plazo a que se refiere el artículo 43, quedando el SAE en posibilidad de adjudicar el bien al participante que haya presentado la segunda oferta de compra más alta que no hubiere sido descalificada, y así sucesivamente, en caso de que no se acepte la adjudicación, siempre que su postura sea mayor o igual al precio base de venta fijado.
 
-En el supuesto de que la falta de formalidad de la adjudicación sea imputable al SAE, el licitante ganador podrá solicitar que le sean reembolsados los gastos no recuperables en que hubiera incurrido, derivados del procedimiento de licitación pública, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la licitación de que se trate.
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+En el supuesto de que la falta de formalización de la adjudicación sea imputable al SAE, el licitante ganador podrá solicitar que le sean reembolsados los gastos no recuperables en que hubiera incurrido, derivados del procedimiento de licitación pública, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la licitación de que se trate.
 
 El atraso del SAE en la formalización de la operación de compraventa, prorrogará en igual plazo la fecha de cumplimiento de las obligaciones asumidas por ambas partes.
 
@@ -570,19 +668,21 @@ El atraso del SAE en la formalización de la operación de compraventa, prorroga
 
 El SAE, de acuerdo con lo dispuesto por el artículo 39 de esta Ley llevará a cabo el procedimiento de subasta pública, el cual deberá efectuarse dentro de los diez días hábiles siguientes a la publicación de la convocatoria.
 
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 53.
 
-La junta de postores en la que se adjudicarán los bienes subastados a los mejores oferentes, se desarrollará en los siguientes términos:
+El procedimiento se desarrollará en los siguientes términos:
 
-I.- Un servidor público del SAE mostrará físicamente el bien objeto de subasta siempre que la naturaleza del mismo lo permita;
+I. El SAE deberá mostrar a través de medios electrónicos el bien objeto de la subasta debiendo proporcionar una descripción del mismo;
 
-II.- Los interesados podrán mejorar sus ofertas durante la celebración de la subasta, para lo cual deberán manifestarlo en forma escrita, a través de los formatos que para tal efecto proporcione en el acto de subasta el SAE, en presencia del resto de los participantes y del encargado de la subasta, quien tendrá la obligación de asentar tales situaciones al igual que todo lo que ocurra en la subasta, en el acta que al efecto lleve a cabo;
+II. El SAE establecerá un período de al menos 240 horas para que los postores realicen sus ofertas a través de los medios electrónicos y de acuerdo con el formato que para tal efecto determine el SAE;
 
-III.- Los oferentes contarán con intervalos de tiempo que se darán a conocer en forma previa al inicio del acto, los que servirán para ir mejorando la última postura manifestada, y
+III. Los interesados podrán mejorar sus ofertas durante la celebración de la subasta, para lo cual deberán manifestarlo en forma escrita a través de los medios electrónicos, y
 
-IV.- El bien se adjudicará a la oferta que ofrezca las mejores condiciones de precio y oportunidad.
+IV. Transcurrido el período que el SAE determine para la realización de la subasta, el bien se adjudicará a la oferta que signifique las mejores condiciones de precio y oportunidad, atendiendo al tipo de subasta que se haya seguido;
 
-En las bases de la subasta se establecerán las instrucciones para presentar ofertas de compra.
+En las bases de la subasta se establecerán las instrucciones para presentar ofertas de compra así como la documentación y requisitos necesarios que el SAE podrá exigir a los postores que hayan de participar en la subasta, a fin de garantizar el cumplimiento de sus ofertas.
 
 ###### Artículo 54.
 
@@ -590,13 +690,17 @@ Sin perjuicio de la aplicación de las disposiciones previstas en los Capítulos
 
 #### Sección III. Del Remate
 
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 55.
 
-El procedimiento de remate se realizará de acuerdo con lo dispuesto por el artículo 39 de esta Ley. Todo remate de bienes será público y deberá efectuarse dentro de los diez días hábiles siguientes a su convocatoria.
+El procedimiento de remate se realizará de acuerdo con lo dispuesto por el artículo 39 de esta Ley. Todo remate de bienes será público y deberá efectuarse dentro de los diez días hábiles siguientes a la publicación del aviso a que se refiere el artículo siguiente.
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
 ###### Artículo 56.
 
-Para la realización del remate de los bienes se anunciará su venta por dos veces, con tres días hábiles de diferencia. Los avisos se publicarán en el Diario Oficial de la Federación, en algún diario de circulación nacional o a través de medios electrónicos, ópticos o de cualquier otra tecnología.
+Para la realización del remate de bienes se anunciará su venta mediante la publicación de un aviso en el Diario Oficial de la Federación, en al menos un diario de circulación nacional y a través de medios electrónicos, ópticos o de cualquier otra tecnología.
 
 ###### Artículo 57.
 
@@ -610,19 +714,25 @@ I.- El nombre, capacidad legal y domicilio del postor, y
 
 II.- La cantidad que se ofrezca por los bienes.
 
-El oferente, al formular su postura, deberá entregar al SAE en el acto del remate, el diez por ciento de aquélla, en cheque certificado o efectivo. Dicho organismo descentralizado retendrá el importe referido hasta que se declare fincado el remate y después de esa fecha lo regresará a los oferentes que no hayan resultado ganadores. El diez por ciento de la postura ganadora se aplicará al pago del bien adjudicado.
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+El oferente, al formular su postura, deberá entregar como garantía al SAE en el acto del remate, el porcentaje de la cantidad ofertada que el SAE fije en el aviso correspondiente, el cual no podrá ser inferior al diez por ciento de dicha cantidad, en cheque certificado o efectivo. Dicho organismo descentralizado retendrá el importe referido hasta que se declare fincado el remate y después de esa fecha lo regresará a los oferentes que no hayan resultado ganadores. El porcentaje otorgado en garantía de la postura ganadora se aplicará al pago del bien adjudicado.
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
 ###### Artículo 59.
 
-Si en la primera almoneda no hubiere postura legal, se citará a otra, para lo cual dentro de los cinco días hábiles siguientes se publicarán los avisos correspondientes, por una sola vez, de manera que entre la publicación del aviso y la fecha del remate, medie un término que no sea mayor de tres días hábiles. En la almoneda se tendrá como precio inicial el precio base de venta del bien, con deducción de un cinco por ciento.
+Si en la primera almoneda no hubiere postura legal, se citará a otra, para lo cual dentro de los cinco días hábiles siguientes se publicará el aviso correspondiente, de manera que entre la publicación del aviso y la fecha del remate, medie un término que no sea mayor de tres días hábiles. En la almoneda se tendrá como precio inicial el precio base de venta del bien, con deducción de un veinte por ciento.
 
 ###### Artículo 60.
 
 Si en la segunda almoneda no hubiere postura legal, se citará a la tercera en la forma que dispone el artículo anterior, y de igual manera se procederá para las ulteriores, cuando obrare la misma causa, hasta efectuar legalmente el remate. En cada una de las almonedas se deducirá un cinco por ciento del precio que, en la anterior, haya servido de base.
 
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 61.
 
-Si el postor no cumpliere sus obligaciones, el SAE declarará sin efecto el remate para citar, nuevamente, dentro de los cinco días hábiles siguientes a partir de declarado desierto el remate, a la misma almoneda, y el postor perderá el diez por ciento exhibido, el que se aplicará, como pena, a favor del SAE.
+Si el postor ganador no cumpliere sus obligaciones, el SAE declarará sin efecto el remate para citar, nuevamente, dentro de los cinco días hábiles siguientes a partir de declarado desierto el remate, a la misma almoneda, y el postor perderá la garantía exhibida, la cual se aplicará, como pena, a favor del SAE.
 
 ###### Artículo 62.
 
@@ -662,9 +772,29 @@ II.- Se trate de bienes cuya conservación resulte incosteable para el SAE;
 
 III.- El valor de los bienes sea menor al equivalente a 150,000 unidades de inversión;
 
-IV.- Se trate de bienes que habiendo salido a subasta pública, remate en primera almoneda o a licitación pública, no se hubieran presentado postores; o
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
-V.- Se trate de los frutos a que se refiere el último párrafo del artículo 39 de esta Ley.
+IV.- Se trate de bienes que habiendo salido a subasta pública, remate en primera almoneda o a licitación pública, no se hayan vendido;
+
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+V.- Se trate de los frutos a que se refiere el último párrafo del artículo 39 de la Ley;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+VI.- Se trate créditos administrados o propiedad del SAE, cuya propuesta de pago individualizada sea hecha por un tercero distinto al acreditado;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+VII.- Se trate de bienes sobre los que exista oferta de compra presentada por alguna entidad paraestatal de la Administración Pública Federal, por el gobierno de alguna entidad federativa o municipio, o
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+VIII.- Se trate de los supuestos previstos en los lineamientos que expida la Junta de Gobierno para tal efecto.
+
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+A la propuesta de pago a que se refiere la fracción VI de este artículo, se le dará el mismo tratamiento que se daría si la hubiera presentado el propio acreditado.
 
 ## TÍTULO QUINTO. De la Destrucción de Bienes
 
@@ -724,9 +854,11 @@ Tratándose de los bienes cuya importación esté prohibida o sean objeto de il�
 
 ## TÍTULO SEXTO. Del SAE
 
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 76.
 
-El SAE será un organismo descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propios, con domicilio en el Distrito Federal, el cual tendrá por objeto la administración y enajenación de los bienes señalados en el artículo 1 de esta Ley.
+El SAE será un organismo descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propios, con domicilio en el Distrito Federal, el cual tendrá por objeto la administración, enajenación y destino de los bienes señalados en el artículo 1 de esta Ley, así como el cumplimiento de las atribuciones establecidas en el artículo 78 de la misma.
 
 El SAE estará agrupado en el sector coordinado por la Secretaría.
 
@@ -750,17 +882,37 @@ II.- Administrar y enajenar los bienes, que previa instrucción de autoridad com
 
 III.- Optimizar los bienes para darles un destino, de conformidad con las disposiciones contenidas en el Reglamento;
 
-IV.- Fungir como visitador, conciliador y síndico en concursos mercantiles y quiebras de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
-V.- Liquidar las empresas de participación estatal mayoritaria y organismos descentralizados de la Administración Pública Federal, así como toda clase de sociedades mercantiles, sociedades o asociaciones civiles;
+IV.- Fungir como visitador, conciliador y síndico en concursos mercantiles y quiebras de conformidad con las disposiciones aplicables, debiendo recaer tales designaciones en el SAE, invariablemente, tratándose de empresas aseguradas;
+
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+V.- Liquidar las empresas de participación estatal mayoritaria, sociedades nacionales de crédito y organismos descentralizados de la Administración Pública Federal, así como toda clase de sociedades mercantiles, sociedades o asociaciones civiles;
 
 VI.- Ejecutar los mandatos en nombre y representación del Gobierno Federal, incluyendo todos los actos jurídicos que le sean encomendados;
 
 VII.- Manejar los créditos que el Gobierno Federal destine o haya destinado para otorgar su apoyo financiero a las instituciones de crédito y organizaciones auxiliares del crédito, así como la celebración de todos los actos necesarios para la recuperación de tales créditos, bien sea que las instituciones se rehabiliten o liquiden;
 
-VIII.- Extinguir los fideicomisos públicos y privados, y
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
-IX.- Realizar todos los actos, contratos y convenios necesarios para llevar a cabo las atribuciones anteriores.
+VIII.- Celebrar convenios de coordinación y colaboración con los gobiernos de las entidades federativas, así como con organizaciones de productores deudores, sociedades de ahorro y préstamo y entidades de fomento en las que participen los gobiernos estatales y municipales, con el objeto de que coadyuven en la recuperación de la cartera vencida, pudiendo estipularse la cesión gratuita u onerosa de créditos, de conformidad con lo que establezcan los lineamientos que al efecto expida la Junta de Gobierno;
+
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+IX.- Extinguir los fideicomisos públicos y privados;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+X.- Fungir como fiduciario sustituto en los fideicomisos constituidos en instituciones de crédito, instituciones de seguros, instituciones de fianzas, sociedades financieras de objeto limitado y almacenes generales de depósito, cuya liquidación sea encomendada al SAE, así como, en aquellos en los que actúe con el carácter de fideicomitente o fideicomisario el Gobierno Federal o alguna entidad paraestatal de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XI.- Celebrar contratos de prestación de servicios necesarios para la atención de los Encargos que le sean conferidos cuyo cumplimiento de pago sea con cargo a recursos de los mismos; su duración podrá ser superior al ejercicio fiscal de que se trate, por lo que en caso de que el ingreso neto sea insuficiente, la diferencia se cubrirá con cargo a la cuenta especial destinada a financiar las operaciones del SAE a que se refiere el artículo 89 de esta Ley, en los términos que para tal efecto determine la Junta de Gobierno, de acuerdo con los esquemas autorizados por la Secretaría, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XII.- Realizar todos los actos, contratos y convenios necesarios para llevar a cabo las atribuciones anteriores.
 
 ###### Artículo 79.
 
@@ -788,7 +940,9 @@ La Junta de Gobierno contará con un Secretario Técnico y un Prosecretario. El 
 
 El Secretario Técnico y el Prosecretario de la Junta de Gobierno, asistirán a las sesiones con voz pero sin voto.
 
-La Junta de Gobierno se reunirá una vez cada tres meses, cuando menos, de acuerdo con un calendario que será aprobado en la primera sesión ordinaria del ejercicio, pudiéndose además celebrar reuniones extraordinarias, conforme a lo previsto en el Estatuto Orgánico del SAE. Sus reuniones serán válidas con asistencia de por lo menos la mitad más uno de sus miembros y siempre que la mayoría de los asistentes sean representantes de la Administración Pública Federal. Las resoluciones se tomarán por la mayoría de votos de los miembros presentes, teniendo el Presidente voto de calidad para el caso de empate.
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+La Junta de Gobierno se reunirá una vez cada tres meses, cuando menos, de acuerdo con un calendario que será aprobado en la primera sesión ordinaria del ejercicio, pudiéndose además celebrar reuniones extraordinarias, conforme a lo previsto en el Estatuto Orgánico del SAE. Sus reuniones serán válidas con la asistencia de por lo menos la mitad de sus miembros. Las resoluciones se tomarán por la mayoría de los votos de los miembros presentes, teniendo el Presidente voto de calidad para el caso de empate.
 
 ###### Artículo 81.
 
@@ -822,15 +976,23 @@ XIII.- Emitir los lineamientos necesarios para la destrucción de los bienes en 
 
 XIV.- Emitir los lineamientos para la venta en varias exhibiciones, para lo cual considerará las condiciones de mercado en operaciones similares;
 
-XV.- Designar y facultar a las personas que realizarán las notificaciones en representación del SAE en términos de la legislación penal aplicable, y
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
-XVI.- Las demás que se señalen en esta Ley y otras disposiciones jurídicas aplicables.
+XV.- Designar y facultar a las personas que realizarán las notificaciones respectivas en representación de SAE en términos de la legislación penal aplicable;
+
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XVI.- Dictar los lineamientos a fin de que la estructura administrativa del SAE opere con los recursos estrictamente necesarios para la realización de sus funciones en un principio de austeridad y eficiencia, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+XVII.- Las demás que se señalen en esta Ley y otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
 ###### Artículo 82.
 
-El Director General del SAE deberá remitir bimestralmente a la Secretaría y a la Contraloría, un informe en donde se detalle su operación, avances en los procedimientos a que se refiere esta Ley, así como respecto de la enajenación de los bienes que fueron puestos a su disposición.
-
-Dicho informe deberá ser incluido, para su aprobación, en el informe que de la Cuenta Pública Federal presente la Secretaría, con el objeto de verificar si el SAE realizó sus funciones de conformidad con lo previsto en esta Ley, y las demás disposiciones aplicables.
+El Director General del SAE deberá remitir semestralmente a la Secretaría y a la Contraloría, un informe en donde se detalle su operación, avances en los procedimientos a que se refiere esta Ley, así como respecto de la enajenación de los bienes que fueron puestos a su disposición.
 
 ###### Artículo 83.
 
@@ -876,7 +1038,9 @@ IV.- Dirigir y coordinar las actividades del SAE, de conformidad con lo dispuest
 
 V.- Asistir, con voz pero sin voto, a las sesiones de la Junta de Gobierno;
 
-VI.- Nombrar y remover depositarios, interventores o administradores de los bienes de manera provisional y someter a consideración de la Junta de Gobierno el nombramiento definitivo;
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+VI.- Nombrar y remover depositarios, interventores o administradores de los bienes de manera provisional y someter consideración de la Junta de Gobierno el nombramiento definitivo; así como removerlos del cargo de manera definitiva cuando medie orden de autoridad judicial o administrativa competente;
 
 VII.- Ejecutar los acuerdos de la Junta de Gobierno;
 
@@ -900,15 +1064,29 @@ XV.- Las demás que señalen esta Ley u otras disposiciones aplicables, o las qu
 
 Las relaciones de trabajo entre el SAE y sus servidores públicos se regularán por la Ley Federal del Trabajo, Reglamentaria del Apartado A) del Artículo 123 Constitucional y las condiciones de trabajo que al efecto se establezcan. Los trabajadores del SAE quedan incorporados al régimen del Instituto Mexicano del Seguro Social.
 
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 89.
 
-El porcentaje de los recursos obtenidos por los procedimientos de venta a que se refiere el artículo 38 de esta Ley, que al efecto determine el Reglamento, así como la totalidad de los frutos que generen los bienes que administre el SAE, una vez descontados, en ambos casos, los costos de administración, gastos de mantenimiento y conservación de los bienes, honorarios de comisionados especiales que no sean servidores públicos encargados de dichos procedimientos, así como los pagos de las reclamaciones procedentes que presenten los adquirentes o terceros, por pasivos ocultos, fiscales o de otra índole, activos inexistentes, asuntos en litigio y demás erogaciones análogas a las antes mencionadas o aquellas que determine la Ley de Ingresos de la Federación u otro ordenamiento aplicable, se destinarán a un fondo, el cual contará con dos subcuentas generales, una correspondiente a los frutos y otra a las ventas.
+A los recursos obtenidos por los procedimientos de venta a que se refiere el artículo 38 de esta Ley, así como a los frutos que generen los bienes que administre el SAE, se descontarán los costos de administración, gastos de mantenimiento y conservación de los bienes, honorarios de comisionados especiales que no sean servidores públicos encargados de dichos procedimientos, así como los pagos de las reclamaciones procedentes que presenten los adquirentes o terceros, por pasivos ocultos, fiscales o de otra índole, activos inexistentes, asuntos en litigio y demás erogaciones análogas a las antes mencionadas o aquellas que determine la Ley de Ingresos de la Federación u otro ordenamiento aplicable.
+
+Los recursos derivados por los procedimientos de venta junto con los frutos que generen los bienes administrados por el SAE, se destinarán a un fondo, el cual contará con dos subcuentas generales, una correspondiente a los frutos y otra a las ventas.
 
 Cada subcuenta general contará con subcuentas específicas correspondientes a cada bien o conjunto de bienes entregados en administración o a cada uno de los procedimientos de venta indicados en el párrafo anterior, por lo que se podrá realizar el traspaso de los recursos obtenidos de la subcuenta general a las diferentes subcuentas.
 
-Los recursos de las subcuentas específicas, serán entregados por el SAE a quien tenga derecho a recibirlos de conformidad con las disposiciones aplicables. Tratándose de los bienes propiedad o al cuidado del Gobierno Federal, los recursos correspondientes serán concentrados en la Cuenta General Moneda Nacional de la Tesorería de la Federación, una vez que, en términos de las disposiciones legales aplicables, haya transcurrido el plazo legal para que, en su caso, se presenten las reclamaciones que resulten procedentes.
+Los recursos de las subcuentas específicas, serán entregados por el SAE a quien tenga derecho a recibirlos, en los plazos que al efecto convenga con la Entidad Transferente o con la Tesorería de la Federación y de conformidad con las disposiciones aplicables. Una vez entregados tales recursos, el SAE no tendrá responsabilidad alguna en caso de reclamaciones.
 
-El porcentaje de los recursos obtenidos por los procedimientos de venta que no deban ser depositados en el fondo a que se refiere este artículo, serán entregados por el SAE en los plazos que al efecto determinen las disposiciones legales aplicables o, en su caso, el Reglamento, a quien tenga derecho a recibirlos. Tratándose de los bienes propiedad o al cuidado del Gobierno Federal, los recursos correspondientes serán concentrados en la Cuenta a que se refiere el párrafo anterior”.
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+
+###### Artículo 90.
+
+Para efectos de lo dispuesto en el último párrafo del artículo anterior, y en tratándose de los bienes propiedad o al cuidado del Gobierno Federal, los recursos correspondientes serán depositados, hasta por la cantidad que determine la Junta de Gobierno, en un fondo destinado a financiar, junto con los recursos fiscales del ejercicio de que se trate y los patrimoniales del SAE, las operaciones de este Organismo, y el remanente será concentrado en la Cuenta General Moneda Nacional de la Tesorería de la Federación, en los términos acordados con esta última.
+
+Semestralmente será revisado el saldo del fondo a que se refiere el párrafo anterior, a efecto de que, en caso de ser necesario, se depositen los recursos necesarios para alcanzar la cantidad fijada por la Junta de Gobierno.
+
+En el caso de bienes abandonados, una vez obtenidos los recursos por su venta, se descontarán los costos de administración, gastos de mantenimiento y conservación de los bienes, honorarios de comisionados especiales que no sean servidores públicos encargados de dichos procedimientos, así como los pagos de las reclamaciones procedentes que presenten los adquirentes o terceros, por pasivos ocultos, fiscales o de otra índole, activos inexistentes, asuntos en litigio y demás erogaciones análogas a las antes mencionadas o aquellas que determine la Ley de Ingresos de la Federación u otro ordenamiento aplicable, y el producto obtenido se destinará a financiar las operaciones del SAE.
+
+Los recursos del fondo a que se refiere el primer párrafo de este artículo, así como los derivados de la venta de bienes abandonados, no podrán utilizarse para financiar transferencias deficitarias, a excepción de aquellos mandatos y demás operaciones que recibió el SAE del Fideicomiso Liquidador de Instituciones y Organizaciones Auxiliares de Crédito, con base en el artículo octavo transitorio del Decreto por el que se expide la Ley Federal para la Administración y Enajenación de Bienes del Sector Público y se adiciona el Código Federal de Procedimientos Penales.
 
 ## Transitorios
 
@@ -939,3 +1117,31 @@ Noveno. Las referencias a la Ley Federal para la Administración de Bienes Asegu
 México, D.F., a 31 de octubre de 2002.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Yolanda E. González Hernández, Secretario.- Dip. Rodolfo Dorador Pérez Gavilán, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los once días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+
+D.O.F. 23 DE FEBRERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Tratándose de vehículos que con motivo de algún procedimiento de aseguramiento, embargo, garantía, abandono u otro similar, de carácter federal, se encuentren en depósitos vehiculares federales o de permisionarios, serán transferidos al SAE, con la documentación con que se cuente, y aun cuando no se cuente con documentación alguna, por la autoridad federal respectiva, previa solicitud de transferencia, inventario y mediante acta de entrega recepción que se hará constar ante fedatario público, con la finalidad de que el SAE los enajene, y con el producto de la venta, descontados los gastos correspondientes, se constituya un fondo para cubrir contingencias por reclamaciones hasta por el monto que determine la Junta de Gobierno. El excedente se depositará en el fondo a que se refiere el artículo 89 del presente ordenamiento.
+
+En el caso de reclamaciones que resulten procedentes, se deberá entregar el producto de la venta, menos los gastos correspondientes.
+
+Las ventas se podrán realizar, dependiendo del estado físico de los vehículos, como material ferroso, como unidades o en lotes.
+
+Lo dispuesto en el presente artículo, se regirá por los lineamientos que para tal efecto expida la Junta de Gobierno.
+
+###### ARTÍCULO TERCERO.
+
+La transferencia de los bienes a que se refiere el artículo 6 bis, así como los asegurados por la Procuraduría, que a la fecha de entrada en vigor del presente Decreto se encuentren en administración y custodia de las Autoridades Federales competentes, se sujetará a los requisitos y plazos que determine la Junta de Gobierno mediante los lineamientos que expida para tal efecto.
+
+###### ARTÍCULO CUARTO.
+
+El SAE, en su carácter de liquidador de las trece sociedades nacionales de crédito que integran el Sistema Banrural, señaladas en el artículo tercero transitorio de la Ley Orgánica de la Financiera Rural, deberá enajenar los bienes muebles e inmuebles de dichas sociedades, así como los que éstas se hayan adjudicado en pago, a las dependencias y entidades paraestatales de la Administración Pública Federal, así como a cualquier persona física o moral, a través de los procedimientos previstos en la presente Ley.
+
+El producto de las enajenaciones, deducidos los gastos y demás conceptos previstos en el artículo 89 de esta Ley, se destinarán a cubrir los pasivos de la liquidación.
