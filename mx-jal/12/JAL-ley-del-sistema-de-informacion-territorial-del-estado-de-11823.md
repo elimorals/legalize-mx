@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-informacion-territorial-del-estado-de-11823"
 country: "mx"
 rank: "ley"
 publication_date: "1997-11-20"
-last_updated: "1997-11-20"
+last_updated: "2000-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE INFORMACION TERRITORIAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 20 de noviembre de 1997.
 
@@ -105,7 +105,9 @@ Para el cumplimiento de sus fines, el Instituto tendrá las siguientes atribucio
 
 I. Ser el organismo permanente de investigación científica y tecnológica que tenga por objeto crear o reestructurar los métodos, sistemas y procedimientos para la integración de la información territorial del Estado.
 
-II. Contratar los servicios de particulares relacionados con sus fines, previo acuerdo del Consejo directivo;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+II. Contratar los servicios de particulares relacionados con sus fines, de conformidad a lo establecido en la presente ley;
 
 III. Realizar y coordinar los trabajos técnicos y de investigación científica, relacionados con la información territorial;
 
@@ -185,7 +187,9 @@ El Consejo directivo se integrará por:
 
 I. El Director General del Instituto;
 
-II. El Secretario Ejecutivo;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+II. Dos Secretarios Ejecutivos, técnico y jurídico respectivamente;
 
 III. Los vocales, que serán los titulares, o sus representantes, de las siguientes dependencias del Poder Ejecutivo del Estado y de los Ayuntamientos de la Entidad:
 
@@ -199,23 +203,35 @@ d) Secretaría de Desarrollo Rural;
 
 e) Secretaría de Promoción Económica;
 
-IV. Un vocal común de los ayuntamientos que integran cada dos regiones del Estado, con excepción de aquellas que expresamente se indican.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
 
-Con la salvedad a que se refiere la fracción anterior, los municipios integrantes de cada dos regiones, a convocatoria del Director General del Instituto, tendrán el derecho de elegir, de entre ellos, a un representante común.
+IV. Un vocal común de los ayuntamientos que integran cada región del Estado, con excepción de aquéllas que expresamente se indican.
 
-Sólo en el caso de que en la fecha señalada para integrar el Consejo Directivo no hubieren electo al representante común de las regiones de que se trate, lo serán los ayuntamientos que a continuación se señalan:
+Sólo en el caso de que en la fecha señalada para integrar el Consejo Directivo no hubieren electo al representante común de los ayuntamientos de que se trate, lo serán los ayuntamientos que a continuación se señalan:
 
-a) Región Valles y Región Norte, el representante será, en su caso, el del Ayuntamiento de Ameca;
+a) Región Valles, el representante será en su caso, el del ayuntamiento de Ameca;
 
-b) Región sur y Región sureste, el representante será, en su caso, el del Ayuntamiento de Ciudad Guzmán;
+b) Región Norte, el representante será en su caso, el del ayuntamiento de Colotlán;
 
-c) Región Altos Norte y región Altos Sur, el representante será, en su caso, el del Ayuntamiento de Tepatitlán;
+c) Región Sur, el representante será en su caso, el del ayuntamiento de Zapotlán el Grande;
 
-d) Región Costa Sur y Región Sierra de Amula, el representante será, en su caso, el del Ayuntamiento de Autlán de Navarro;
+d) Región Sureste, el representante será en su caso, el del ayuntamiento de Tamazula de Gordiano;
 
-e) Región Costa Norte y Región Sierra Occidental, el representante será, en su caso, el del Ayuntamiento de Puerto Vallarta; y
+e) Región Altos Sur, el representante será en su caso, el del ayuntamiento de Tepatitlán;
 
-f) Región Ciénega y área Centro de Guadalajara, el representante será, en su caso, el del Ayuntamiento de Guadalajara.
+f) Región Altos Norte, el representante será en su caso, el del ayuntamiento de Lagos de Moreno;
+
+g) Región Costa Sur, el representante será en su caso, el del ayuntamiento de Autlán de Navarro;
+
+h) Región Sierra de Amula, el representante será en su caso, el del ayuntamiento de El Grullo;
+
+i) Región Costa Norte, el representante será en su caso, el del ayuntamiento de Puerto Vallarta;
+
+j) Región Sierra Occidental, el representante será en su caso, el del ayuntamiento de Mascota;
+
+k) Región Area Centro, el representante será en su caso, el del ayuntamiento de Guadalajara;
+
+l) Región Ciénega, el representante será en su caso, el del ayuntamiento de Ocotlán.
 
 El representante que haya sido nombrado en estas circunstancias continuará en su encargo hasta en tanto se nombre al representante común, electo por acuerdo de los ayuntamientos o por quienes hagan sus veces, de las regiones correspondientes.
 
@@ -225,7 +241,9 @@ V. Un vocal representante del Consejo Metropolitano, que prevé la Ley de Desarr
 
 VI. Un vocal representante de la zona metropolitana de Guadalajara, integrada por los municipios de Guadalajara, Tlaquepaque, Tonalá y Zapopan.
 
-En ningún caso podrá recaer doble representación en los municipios comprendidos en el inciso f, fracción IV así como en las V y VI.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+En ningún caso podrá recaer doble representación en los municipios comprendidos en el inciso k, fracción V, así como en las VI y VII.
 
 Todos (sic) las vocalías serán honoríficas, excepto el Director General y el Secretario Ejecutivo, así como el personal operativo y administrativo que labore en el Instituto.
 
@@ -237,39 +255,35 @@ El Secretario Ejecutivo será nombrado por el Consejo Directivo del Instituto, a
 
 ### CAPÍTULO VI. De las atribuciones y obligaciones del Consejo Directivo
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 15.
 
 El Consejo Directivo del Instituto tendrá las siguientes atribuciones:
 
-I. Conocer, analizar y aprobar en su caso, los proyectos y planes de trabajo que le sean propuestos por el Director General del Instituto, para la formación, conservación y operación de la información territorial;
+I. Aprobar, los proyectos y planes anuales de trabajo que le sean propuestos por el Director General del Instituto;
 
-II. Analizar, autorizar y proponer sus presupuestos de ingresos y de egresos o reformas a los mismos, al Ejecutivo de la Entidad para que a su vez los someta a consideración del Congreso del Estado;
+II. Aprobar el presupuesto de egresos o reformas al mismo, que le presente el Director General del Instituto, para que a su vez los remita al Ejecutivo;
 
-III. Turnar a los Consejos Técnicos y al Consejo Consultivo, los asuntos que considere pertinentes para su análisis y dictamen;
+III. Aprobar la integración de los Consejos de acuerdo a la propuesta del Director General del Instituto;
 
-IV. Convocar y aprobar la integración de los Consejos, según el área de especialidad y de acuerdo a la propuesta del Director General del Instituto;
+IV. Conocer de los convenios o contratos que suscriba el Director General del Instituto;
 
-V. Aprobar los costos de los servicios que preste el Instituto, vía convenio o contrato, y remitirlos a los organismos participantes para su conocimiento y aplicación;
+V. Aprobar y modificar, en su caso, los proyectos de reglamentos e instructivos de carácter técnico o jurídico que fueren necesarios para el funcionamiento del Instituto y someter los primeros a la aprobación del Ejecutivo Estatal;
 
-VI. Conocer, analizar y suscribir en su caso, los convenios o contratos que le presente el Director General del Instituto;
+VI. Recibir el informe de control e inventario de los bienes pertenecientes al Instituto que le presente anualmente el Tesorero;
 
-VII. Delegar las facultades administrativas internas, en las áreas o dependencias que sean convenientes para la realización de los objetivos del Instituto;
+VII. Vigilar el cumplimiento de las disposiciones de esta Ley y sus reglamentos, por parte de los usuarios de los servicios, a través del Director General y las dependencias correspondientes;
 
-VIII. Aprobar y modificar, en su caso, los proyectos de reglamentos que fueren necesarios para el funcionamiento del Instituto, y someterlos a la aprobación del Ejecutivo Estatal;
+VIII. Aprobar la enajenación del patrimonio inmobiliario del Instituto, más sólo podrá ser enajenado previa autorización del Congreso del Estado;
 
-IX. Cuidar de que los bienes propiedad del Instituto se encuentren debidamente controlados e inventariados por el Tesorero;
+IX. Aprobar la contratación de créditos financieros antes de la suscripción de cualquier título de crédito o documentos que se requieran;
 
-X. Vigilar el cumplimiento de las disposiciones de esta Ley y sus reglamentos, por parte de los usuarios de los servicios, a través del Director General y las dependencias correspondientes;
+X. Proponer a los ayuntamientos y dependencias federales, estatales y municipales, los criterios generales de las sanciones administrativas, aplicables a los funcionarios y servidores públicos que utilicen indebidamente la información del sistema de Información, conforme al procedimiento de responsabilidades establecido por la Ley de la materia;
 
-XI. Administrar los bienes y negocios del Instituto, con plenas facultades de gestión, representación y dominio, salvo que el patrimonio inmobiliario no podrá ser enajenado, sino con autorización previa del Congreso del estado;
+XI. Autorizar por sí o a propuesta del Director Ejecutivo los programas específicos y los fondos necesarios para su realización, o en su caso, la generación de nuevos productos, sujetándose a lo que dispone el Artículo 31 de esta Ley;
 
-XII. Concertar bases para la contratación de créditos financieros y suscribir por conducto de su Director General y Tesorero, los contratos, títulos de crédito y demás documentos que se requieran;
-
-XIII. Proponer a los ayuntamientos y dependencias federales, estatales y municipales, los criterios generales de las sanciones administrativas, aplicables a los funcionarios y servidores públicos que utilicen indebidamente la información del sistema de Información, conforme al procedimiento de responsabilidades establecido por la ley de la materia;
-
-XIV. Analizar, estudiar y en su caso aprobar los estudios y dictámenes que le presenten los Consejos Técnicos, y
-
-XV. Las demás que se establezcan en los reglamentos respectivos y demás disposiciones legales aplicables.
+XII. Las demás que se establezcan en los reglamentos respectivos y demás disposiciones legales aplicables.
 
 ###### Artículo 16.
 
@@ -311,45 +325,81 @@ II. Someter a la decisión del Consejo Directivo todos aquellos asuntos que sean
 
 III. Coordinar la integración del Sistema de Información;
 
-IV. Proponer al Consejo Directivo del Instituto, los proyectos y planes de trabajo;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+IV. Someter a la aprobación del Consejo Directivo, los proyectos y planes anuales de trabajo que se deban realizar para la formación, conservación y operación de la información territorial;
 
 V. Presidir las reuniones y coordinar los trabajos de los consejos técnicos, así como de sus comisiones;
 
-VI. Proponer al Consejo Directivo los contratos y convenios necesarios para las actividades del Instituto, salvo los que esta Ley conceda al secretario de Finanzas del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
 
-VII. Nombrar y remover al personal operativo del Instituto, apegándose al presupuesto de Egresos autorizado;
+VI. Administrar los bienes y negocios del Instituto, con plenas facultades de gestión, representación y dominio, salvo la enajenación del patrimonio inmobiliario, para lo cual se necesitará autorización del Consejo Directivo y posterior aprobación del Congreso del Estado;
 
-VIII. Remitir para la aprobación del titular del Poder Ejecutivo del estado, los proyectos de reglamentos que hayan sido aprobados por el Consejo Directivo;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+VII. Librar cheques mancomunadamente con el Tesorero del Instituto. En caso de ausencia el Secretario Ejecutivo jurídico firmará en su lugar;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+VIII. Informar al Consejo Directivo de los contratos y convenios que suscriba para llevar a cabo las actividades del Instituto, salvo que la suscripción de los mismos sea concedida por medio de esta Ley al secretario de Finanzas del Gobierno del Estado;
 
 IX. Enviar a las dependencias que corresponda, para su aplicación, los instructivos y demás disposiciones que hayan sido aprobados por el Consejo Directivo y que conforme a la ley no requieran ser publicados;
 
-X. Proponer el anteproyecto de presupuesto de egresos anual del Instituto, antes del día 30 de septiembre y someterlo a la aprobación del Consejo Directivo;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
 
-XI. Sugerir al Consejo Directivo las reformas al presupuesto de egresos, cuando éste lo requiera;
+X. Nombrar y remover al personal operativo del Instituto, apegándose al presupuesto de Egresos autorizado, pudiendo delegar las facultades administrativas internas a los titulares de las diferentes áreas del Instituto;
 
-XII. Someter al Consejo Directivo para su aprobación, el costo de los servicios que preste el Instituto vía convenios o contratos;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
 
-XIII. Proponer al Consejo Directivo los candidatos que deberán integrar los Consejos Técnicos, de acuerdo a las áreas de especialización, y
+XI. Auxiliarse del Tesorero para la elaboración del anteproyecto de presupuesto de egresos anual del Instituto y someterlo a la aprobación del Consejo Directivo antes del día 30 de septiembre de cada año, así como del proyecto de reformas al presupuesto de egresos, cuando éste lo requiera;
 
-XIV. Las demás que le sean asignadas por el Consejo Directivo, los reglamentos respectivos y otras disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+XII. Remitir a los organismos participantes el costo de los productos y servicios que preste el Instituto, para su conocimiento y aplicación;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+XIII. Proponer al Consejo Directivo los candidatos que deberán integrar los Consejos Técnicos, de acuerdo a las áreas de especialización, así como sugerir la inclusión de instituciones educativas diferentes a las previstas en el artículo 22 de esta Ley y una vez aprobados, convocarlos para que formen parte de los mismos;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+XIV. Proponer al Consejo directivo para su aprobación los programas específicos y los fondos necesarios para llevarlos a cabo, o en su caso la generación de nuevos productos, siguiendo lo establecido por el artículo 31 de la presente Ley;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+XV. Las demás que le sean asignadas por el Consejo Directivo, los reglamentos respectivos y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
 
 ###### Artículo 19.
 
-El Secretario Ejecutivo es el auxiliar del Director General en todos aquellos asuntos que éste le encomiende y tendrá, además, las siguientes funciones:
+Los secretarios ejecutivos técnico y jurídico, son los auxiliares del Director General en todos aquellos asuntos que éste le encomiende.
 
-I. Informar al Consejo Directivo en las sesiones, levantar y redactar las actas y demás documentos que se le encomienden;
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
 
-II. Gozar de poder general para pleitos y cobranzas y para actos de administración;
+Artículo 19 bis. Serán facultades del Secretario Ejecutivo Técnico:
 
-III. Participar con el tesorero en la elaboración del anteproyecto del presupuesto de ingresos anual, o de las modificaciones al ya aprobado, y entregarlo al Director General para su aprobación por el Consejo Directivo;
+I. Realizar los estudios convenientes para optimizar la operatividad del Sistema de Información;
 
-IV. Realizar los estudios convenientes para optimizar la operatividad del Sistema de Información;
+II. Coordinar y supervisar los trabajos del sistema para la formación y conservación de la información territorial; y
 
-V. Coordinar y supervisar los trabajos del sistema para la formación y conservación de la información territorial;
+III. Las demás atribuciones que le sean conferidas por el Director General y el reglamento interno.
 
-VI. Mantener actualizado el registro de los contratos o convenios que celebre el Instituto, y
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
 
-VII. Las demás atribuciones que le sean conferidas por el Director General y el reglamento interno.
+Artículo 19 bis A). Serán facultades del Secretario Ejecutivo Jurídico:
+
+I. Registrar y turnar, sin demora, los asuntos a los consejos técnicos y consultivos, según corresponda, para su estudio y dictamen;
+
+II. Informar al Consejo Directivo en las sesiones, levantar y redactar las actas y demás documentos que se le encomienden;
+
+III. Gozar de poder general para pleitos y cobranzas para actos de administración;
+
+IV. Firmar cheques mancomunadamente con el Tesorero únicamente en el caso de ausencia del Director General;
+
+V. Mantener actualizado el registro de los contratos o convenios que celebre el Instituto; y
+
+VI. Las demás atribuciones que le sean conferidas por el Director General y el reglamento interno.
 
 ###### Artículo 20.
 
@@ -359,13 +409,19 @@ I. Llevar la contabilidad del Instituto, tramitando y resolviendo los asuntos fi
 
 II. Formular los estados financieros, balance anual e informes estadísticos y económicos del Sistema y presentarlos a la consideración del Consejo Directivo, por conducto del director general;
 
-III. Informar al Consejo Directivo, el estado de la contabilidad y los movimientos financieros;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
 
-IV. Otorgar y suscribir títulos de crédito a nombre del Instituto, con la firma mancomunada de los responsables de las dependencias correspondientes; ejercerá las facultades de dominio en representación del Consejo Directivo, salvo en el caso previsto por el artículo 15, fracción XI de esta Ley;
+III. Informar al Consejo Directivo, por conducto del Director General, el estado de la contabilidad y los movimientos financieros;
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+IV. Otorgar y suscribir títulos de crédito a nombre del Instituto, con la firma mancomunada de los responsables de las dependencias correspondientes; ejercerá las facultades de dominio en representación del Director General, salvo en el caso previsto por el artículo 15, fracción XI, de esta Ley;
 
 V. Supervisar los registros y procedimientos contables del Instituto, así como los informes, registros y procedimientos de oficinas y personal;
 
-VI. Librar cheques mancomunadamente con el director general;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+VI. Librar cheques mancomunadamente con el director general, o en caso de ausencia de este último, con el Tesorero del Instituto;
 
 VII. Realizar y valorar los activos fijos;
 
@@ -373,7 +429,19 @@ VIII. Por acuerdo del director general, vigilar que las transacciones financiera
 
 IX. Por acuerdo del director general, tramitar el pago o refrendo de todos los cheques, pagarés y otros documentos negociables del Sistema, que hayan sido firmados por aquellos servidores públicos autorizados para ello o por los que designe el Consejo directivo, y
 
-X. Las demás que se prevean en el reglamento interno, o expresamente se le encomienden.
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+X. Elaborar el anteproyecto de presupuesto de egresos anual del Instituto, así como el proyecto de reformas al presupuesto de egresos, cuando éste lo requiera y remitirlo al Director ejecutivo para que lo someta a aprobación del Consejo Directivo;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+XI. Formular el listado de los costos de los productos y servicios que preste el Instituto y remitirlo al Director General para que a su vez lo remita a los organismos participantes;
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
+XII. Controlar e inventariar los bienes pertenecientes al Instituto, debiendo de remitir informe anual al Consejo Directivo con la justificación de aquéllos que fueron dados de baja;
+
+XIII. Las demás que se prevean en el reglamento interno, o expresamente se le encomienden.
 
 ### CAPÍTULO IX. De los consejos técnicos y el consejo consultivo
 
@@ -485,9 +553,13 @@ IV. Los productos que obtenga por la venta de equipos y programas de cómputo, r
 
 V. Todos los demás bienes o derechos que perciba, o que en lo futuro llegue a adquirir.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2000)</small>
+
 ###### Artículo 31.
 
-Los ingresos que perciba el Instituto se destinarán, en primer término, a cubrir los gastos de administración por los servicios que preste; al pago de adeudos contraídos y, si hubiera remanente, se constituirá un fondo de reserva para la ampliación y mejoramiento del Instituto, depositando los excedentes en instituciones financieras, con el objeto de evitar contraer adeudos. Podrán crearse por acuerdo del Consejo, los fondos que se consideren convenientes para los programas específicos y, con los productos, se ampliarán los propios fondos o pasarán a formar parte del ingreso.
+Los ingresos que perciba el Instituto se destinarán, en primer término, a cubrir los gastos de administración por los servicios que preste; al pago de adeudos contraídos y, si hubiera remanente, se constituirá un fondo de reserva para la ampliación y mejoramiento del Instituto, depositando los excedentes en instituciones financieras, con el objeto de evitar contraer adeudos. Podrán crearse por acuerdo del Consejo o a propuesta de Director General, los fondos que se consideren convenientes para los programas específicos y la generación de productos, los cuales deberán estar debidamente presupuestados con sujeción a las disposiciones legales correspondientes.
+
+Los ingresos del Instituto, cualquiera que sea su naturaleza, así como sus egresos, en ningún caso dejarán de formar parte en la cuenta pública que para efectos de revisión se realice.
 
 ## TRANSITORIOS
 
@@ -526,3 +598,13 @@ Ing. Alberto Cárdenas Jiménez
 El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE SEPTIEMBRE DE 2000.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo. Se da el término de tres meses para que se expidan los reglamentos relativos, y en tanto se hacen los ordenamientos en cita, se continuarán aplicando las disposiciones vigentes, siempre y cuando no se opongan al presente Ordenamiento.
+
+Tercero. Se derogan todas las disposiciones que se opongan al presente decreto.
