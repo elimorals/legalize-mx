@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-federal-de-9201"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-12-09"
-last_updated: "1999-07-21"
+last_updated: "2002-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9201&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-12-05"
 
 REGLAMENTO INTERNO DE LA COMISION FEDERAL DE TELECOMUNICACIONES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE FEBRERO DE 2002.
 
 Reglamento publicado en el Diario Oficial de la Federación el lunes 9 de diciembre de 1996.
 
@@ -205,9 +205,11 @@ En ausencia del Presidente, presidirá la sesión del Pleno el Comisionado que s
 
 De las sesiones del Pleno se levantará acta, en la que se asentarán los acuerdos a los que se haya llegado, así como el número asignado a las resoluciones que hayan sido aprobadas. El acta y las resoluciones respectivas serán sometidas a la aprobación de los miembros del Pleno para su firma.
 
+> <small>(REFORMADO, D.O.F. 22 DE FEBRERO DE 2002)</small>
+
 ###### Artículo 14.
 
-El Pleno asignará a cada uno de los Comisionados, con excepción del Presidente, una de las Areas Generales a que se refiere el artículo 6 fracción III de este Reglamento.
+El Pleno podrá asignar a cada uno de los Comisionados, incluido el Presidente, las Areas Generales a que se refiere el artículo 6 fracción III de este Reglamento.
 
 > <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1999)</small>
 
@@ -1140,3 +1142,7 @@ En la Ciudad de México, Distrito Federal, a los cinco días del mes de diciembr
 D.O.F. 21 DE JULIO DE 1999.
 
 UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE FEBRERO DE 2002.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL FEDERAL.
