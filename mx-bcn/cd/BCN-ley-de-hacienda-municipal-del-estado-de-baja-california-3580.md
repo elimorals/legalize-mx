@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "1997-05-02"
+last_updated: "1997-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1997.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -235,29 +235,31 @@ II.- La falta de pago de un Crédito Fiscal en la fecha o plazo establecido en l
 
 Solo cuando están abiertas al público las oficinas fiscales se efectuarán actuaciones administrativas. La Tesorería o sus dependencias podrán mediante acuerdo escrito, habilitar otras horas aún en días inhábiles, quedando prohibida toda habilitación que produzca o pueda producir el efecto de que se otorgue un nuevo plazo para interponer alguno de los recursos que concedan las Leyes.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 34.
 
-Podrá concederse plazo especial para el pago de una prestación fiscal, únicamente cuando concurran las siguientes condiciones:
+Las autoridades fiscales enunciadas en el artículo 4 de esta Ley, podrán autorizar prórrogas o el pago en parcialidades de los créditos fiscales siempre que se garantice el crédito fiscal y que el plazo no exceda de un año.
 
-I.- Que así lo ordene el Presidente Municipal por oficio.
+Los créditos fiscales sujetos a prórroga para su pago, causarán recargos que se calcularán sobre el monto prorrogado, por los días transcurridos desde la fecha de su exigibilidad hasta el día en que se paguen.
 
-II.- Que el plazo no exceda de un año.
+El pago en parcialidades de los créditos fiscales, causará recargos que se calcularán sobre sus saldos insolutos, por los días transcurridos desde la fecha de su exigibilidad hasta el día en que se paguen cada una de las parcialidades.
 
-III.- Que quede previamente asegurado el interés Fiscal.
+Los recargos que se generen con motivo de los plazos concedidos, se calcularán conforme a la tasa que fijen para cada Municipio, sus respectivas Leyes de Ingresos.
 
-IV.- Que el interesado se encuentre en situación económica desfavorable.
-
-V.- Que el pago se efectué en exhibiciones parciales.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 35.
 
-Cesará el plazo especial y será inmediatamente exigible el crédito fiscal:
+Cesará el plazo concedido y será inmediatamente exigible el crédito fiscal:
 
 I.- Cuando desaparezca en todo o en parte la garantía constituida.
 
 II.- Cuando el deudor cambie de domicilio sin dar aviso de éste a la oficina receptora.
 
-III.- Cuando se omita el pago de alguna de las parcialidades establecidas conforme a la Fracción V del artículo anterior.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+III.- Cuando se omita el pago de dos o más de las parcialidades establecidas conforme al tercer párrafo del artículo anterior.
 
 IV.- Cuando el deudor sea declarado en quiebra o solicite su liquidación judicial.
 
@@ -1389,19 +1391,15 @@ DE LOS RECARGOS
 
 ###### ARTICULO 107.
 
-Independientemente de las responsabilidades y sanciones de que habla esta Ley, todo crédito fiscal proveniente de impuestos o derechos, que no fuere satisfecho dentro de los plazos que establezcan las leyes, causará un recargo mensual como indemnización debida al fisco por la falta de pago oportuno del adeudo respectivo.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 1997)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 108.
 
-Cuando no se pague un crédito fiscal en la fecha o dentro del plazo señalado en las disposiciones respectivas, deberán cubrirse recargos, en concepto de indemnización al Fisco Municipal respectivo por la falta de pago oportuno.
+Cuando los créditos fiscales no se paguen en la fecha límite o dentro del plazo fijado por las disposiciones fiscales, o cuando el pago hubiere sido menor al que corresponda; deberán pagarse recargos sobre los montos no cubiertos oportunamente, que se calcularán por los días transcurridos desde la fecha de su exigibilidad hasta el día en que se paguen.
 
-La tasa de los recargos será la que fije la Ley de Ingresos del Municipio respectivo. Así mismo se cubrirán gastos de ejecución cuando no se cumpla con el requerimiento fiscal dentro del plazo señalado; en los términos de esta Ley.
-
-Los recargos se causarán por cada mes o fracción que transcurra, a partir de la fecha de la exigibilidad hasta que se efectúe el pago.
-
-La condonación parcial o total de los recargos se hará previo estudio y por acuerdo expreso que dicte el Presidente Municipal.
+Los recargos se calcularán sobre el total del crédito fiscal, excluyendo los recargos, gastos de ejecución y multas por infracción a las disposiciones fiscales, conforme a la tasa que anualmente dispongan para cada uno de los Municipios, sus respectivas Leyes de Ingresos.
 
 ###### ARTICULO 109.
 
@@ -1411,17 +1409,17 @@ La imposición de recargos no requerirá resolución expresa ni estará sometida
 
 El plazo para cómputo de los recargos por demora en el pago de impuestos y derechos no comenzará a correr si el causante no conoce, por razones imputables a las autoridades fiscales, el importe de los mismos en los casos en que deba ser clasificado o notificado previamente.
 
-A solicitud del interesado y siempre que tal demora en formular la liquidación o calificación correspondiente, exceda de un período liquidable, las autoridades fiscales, con anuencia del Presidente Municipal, estarán autorizadas para realizar convenios de liquidación a plazos, causándose desde la fecha en que se haya conocido por la liquidación, los recargos que establece este capítulo. El período total que abarque el convenio de liquidación a plazos no podrá ser en ningún caso mayor que el ejercicio o período cuyos impuestos se liquiden ni nunca mayor de un año.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-Los causantes que hayan pagado menor cantidad de la que les corresponda de acuerdo con las leyes fiscales del Estado, por errores u omisiones imputables a las autoridades fiscales, gozarán de las mismas prerrogativas que concede el párrafo anterior para su liquidación.
+La condonación total o parcial de los recargos podrá otorgarse mediante disposiciones de carácter general que apruebe el Ayuntamiento, a propuesta del Presidente Municipal, la cual deberá publicarse en el Periódico Oficial del Estado.
 
-En todo caso, y al celebrarse los convenios relativos, deberán garantizarse, a satisfacción de las autoridades fiscales, los intereses del Fisco.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-La condonación total o parcial de los recargos se hará mediante disposición de carácter general que dicte el Presidente Municipal y que se publique en el Periódico Oficial del Estado.
+Excepcionalmente, el Presidente Municipal podrá otorgar la condonación total o parcial de los recargos, cuando se trate de personas de edad avanzada o de escasos recursos económicos que la ameriten, previo estudio socioeconómico que así lo sustente.
 
 ###### ARTICULO 111.
 
-Ningún crédito fiscal causará recargos si se garantiza a satisfacción de las autoridades fiscales en los términos y formas del artículo 6o. de esta Ley.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 1997)
 
 DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
@@ -2218,3 +2216,11 @@ El presente Decreto entrará en vigor, el día siguiente al de su publicación e
 P.O. 2 DE MAYO DE 1997.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 26 DE DICIEMBRE DE 1997.
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA PRESENTE LEY.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas entrarán en vigor el día 1o de Enero de 1998, previa su publicación en el Periódico Oficial del Estado.
