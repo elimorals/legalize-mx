@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1978-10-07"
+last_updated: "1983-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1983.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -39,11 +39,13 @@ CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
 El Estado de Oaxaca declara que su organización gubernativa tiene por objeto el mejoramiento económico, social y político de todos sus habitantes, armonizando los derechos individuales con los de la colectividad.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1940)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 2°.
 
-La Ley es una para todos y de ella emanan las facultades y los deberes de las autoridades, así como los derechos y las obligaciones de los individuos de la especie humana. Los Poderes Públicos, entidades morales, autoridades y funcionarios sólo tienen las facultades que les dá la ley. Los individuos pueden hacer todo lo que ésta no les prohibe.
+La Ley es igual para todos, ya que establece las prerrogativas y las obligaciones de la autoridad, así como los derechos y deberes de las personas.
+
+El poder público y sus representantes sólo pueden hacer lo que la Ley les autoriza. A todas las personas, en lo individual, les está permitido hacer lo que la Ley no prohibe.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
 
@@ -67,11 +69,23 @@ En los juicios del orden criminal queda prohibido imponer por simple analogía y
 
 En el Estado, jamás se expedirá ley que imponga penas a personas determinadas, que pretenda surtir efecto retroactivo en perjuicio de alguien, que decrete la infamia de un hombre, una familia o una clase, o que establezca la confiscación de bienes o multas excesivas, entendiéndose por una y otras, las que afecten al patrimonio de familia.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+
 ###### ARTICULO 7°.
 
-Ninguna detención podrá exceder del término de tres días sin que se justifique con un auto de formal prisión en el que se expresarán: el delito que se impute al acusado, los elementos que constituyan aquél, lugar, tiempo y circunstancias de ejecución y los datos que arroje la averiguación previa, los que deben ser bastantes para comprobar el cuerpo del delito y hacer probable la responsabilidad del acusado. La infracción de esta disposición hace responsable a la autoridad que ordene la detención o la consienta y a los agentes, ministros, alcaides o carceleros que la ejecuten.
+Toda persona, desde el momento en que es detenida, tiene derecho a conocer la causa de su detención y a ser asistida por un defensor de su confianza, todo lo cual le será facilitado desde luego por la autoridad ejecutora:
 
-Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de formal prisión. Si en la secuela de un proceso apareciere que se ha cometido un delito distinto del que se persigue, deberá ser objeto de acusación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
+I.- Si la detención es resultado de una orden de aprehensión, será puesta a disposición del Juez que la libró, dentro de las 24 horas siguientes y ésta autoridad a más tardar dentro de 72 horas, resolverá su situación jurídica. Si le decretase auto de formal prisión, o de sujeción a proceso, tal resolución deberá contener: el nombre de la persona denunciante o querellante; los elementos constitutivos de estos; lugar, tiempo y circunstancias de ejecución, así como todos los datos que arroje la averiguación previa, los que deben ser bastantes para comprobar el cuerpo del delito o delitos y hacer probable la responsabilidad del inculpado.
+
+II.- En caso de delito infraganti, el detenido será puesto a disposición del ministerio Público, para los efectos concernientes a su investidura, dentro de un plazo de 24 horas.
+
+III.- Si la detención es resultado de infracciones al Reglamento de Policía, serán calificadas de inmediato y, en su caso, sancionadas con multa no mayor de los emolumentos que el indicado (sic) perciba en un día de trabajo o de arresto no mayor de diez días.
+
+IV.- Si al vencer los términos señalados en las fracciones anteriores, el Alcaide o encargado del lugar en que se realice la detención, no ha recibido copia del auto de formal prisión o de la resolución administrativa correspondiente, pondrá en libertad al detenido y lo comunicará a su superior jerárquico para los efectos legales procedentes.
+
+El desacato a estas reglas, hace responsable a las autoridades que ordenen, consientan o ejecuten la determinación.
+
+V.- Todo proceso se seguirá forzosamente por el delito o delitos señalados en los autos de formal prisión o de sujeción a proceso. Si en la secuela del procedimiento apareciere la comisión de un delito distinto del que se persigue, deberá ser objeto de acusación separada.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 1949)</small>
 
@@ -145,17 +159,15 @@ Sólo por delito que merezca pena corporal habrá lugar a prisión preventiva. E
 
 ###### ARTICULO 16.
 
-Nadie podrá ser detenido por más de setenta y dos horas, sin que se le decrete auto motivado de prisión en los términos prevenidos por el artículo séptimo de esta Constitución; ni arrestado por más de veinticuatro horas, sin que se le ponga a disposición de su Juez o se le comunique la corrección impuesta por la autoridad administrativa, en los casos de su competencia. Dos horas antes de concluir el término respectivo, el alcaide o encargado del lugar en que se guarde la detención o el agente que haga sus veces, que no reciba copia autorizada del auto de formal prisión o prisión preventiva, o el aviso de la autoridad administrativa de la corrección impuesta, deberá llamar la atención de quien corresponda sobre ese particular, y si al concluir el término no recibe la constancia mencionada, pondrá en libertad al detenido.
-
-Si la detención se efectúa fuera del lugar en que resida el Juez o la autoridad administrativa que la ordenó, al término mencionado de veinticuatro horas se agregará el suficiente para recorrer la distancia que hubiere entre dicho lugar y aquel en que se efectúe la detención.
-
-Si pasados los términos indicados, el alcaide o quien haga sus veces no recibe copia de los documentos de que se ha hablado, a más de poner en libertad al detenido, dará cuenta inmediatamente al Tribunal Superior de Justicia para que exija la responsabilidad correspondiente.
+(DEROGADO, P.O. 15 DE ENERO DE 1983)
 
 ###### ARTICULO 17.
 
 Todo rigor o maltratamiento usado en la aprehensión, en la detención o en las prisiones; toda gabela o contribución en las cárceles; toda molestia injustificada que se infiera en una prisión; toda privación de los elementos esenciales de la vida; así como la permanencia en lugares notoriamente insalubres o antihigiénicos, son, tanto para el que los ordene, como para el que los ejecute, un motivo de responsabilidad que la autoridad competente hará efectiva conforme a la ley. Las penas que priven de la libertad a un individuo tendrán como base el trabajo adecuado para éste, y como fin, su regeneración social. La autoridad judicial, sólo por causa de urgente administración de justicia que hará constar expresamente en el mandamiento respectivo, podrá decretar la extracción de los reos de sus prisiones.
 
-La autoridad administrativa sólo podrá decretarla, respecto de quienes estén a su disposición, previa la libre gestión del preso, hecha por escrito y firmada por sus defensores, familiares o ante testigos que no sean empleados públicos. La autoridad respectiva será estrictamente responsable de todo perjuicio que el preso sufra por causa originada directamente por la extracción.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+
+La autoridad administrativa sólo podrá decretarla respecto de quienes estén a su disposición, previa la libre gestión del preso, hecha por escrito y firmada por sus defensores, familiares o ante testigos que no sean empleados públicos. La autoridad respectiva será estrictamente responsable de todo perjuicio que el preso sufra por causa originada directamente por la extracción. "En ningún otro caso podrá disponerse de la persona de los reos".
 
 ###### ARTICULO 18.
 
@@ -229,9 +241,21 @@ II.- Ser votados para los cargos de elección popular y ser promovidos a cualqui
 
 III.- Alistarse en la guardia nacional para la defensa del territorio y de las instituciones de la República y del Estado, en los términos que prescriben las leyes.
 
+> <small>(ADICIONADA, P.O. 15 ENERO DE 1983)</small>
+
+IV.- Colaborar voluntariamente en los trabajos colectivos gratuitos para beneficio de la comunidad a que pertenecen, sobre todo en caso de catástrofes, terremotos, inundaciones, incendios, etc., que implican una solidaridad voluntaria y moral a este fin.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+
 ###### ARTICULO 25.
 
-Las elecciones deben ser enteramente libres, y todo ciudadano que reúna los requisitos que previene la ley, tiene derecho de elegir y ser electo.
+Las elecciones son actos de alto interés público y serán enteramente libres. Las Autoridades garantizarán la legalidad y limpieza del proceso electoral.
+
+La elección del Poder Legislativo, así como la de los Ayuntamientos, tendrá lugar en la fecha que determine la Ley Electoral respectiva.
+
+Los Partidos Políticos son personas morales de interés público. El Estado reconoce y garantiza su existencia. Consecuentemente, gozarán de todas las prerrogativas para divulgar su ideología, procurar y promover la participación de los ciudadanos en la realización de la democracia y disponer de los elementos necesarios para la realización de tales objetivos.
+
+La Ley determinará sus derechos, obligaciones y forma de participaciones en los procesos electorales.
 
 ## TITULO TERCERO. Del Estado, su soberanía y territorio
 
@@ -239,15 +263,11 @@ Las elecciones deben ser enteramente libres, y todo ciudadano que reúna los req
 
 El Estado de Oaxaca es parte integrante de los Estados Unidos Mexicanos; pero es libre y soberano en todo lo que concierne a su régimen interior, conforme a los preceptos de la Constitución General de la República.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 7 DE OCTUBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 27.
 
-La Soberanía reside esencial y originariamente en el pueblo y se ejerce por medio de los Poderes del Estado, en lo relativo a su gobierno y administración interior, en los términos que establece esta Constitución. Todo Poder Público dimana del pueblo y se instituye para beneficio de éste.
-
-Los Partidos Políticos tienen como fin promover la participación del pueblo en la vida democrática y contribuir a la interpretación de la representación estatal de acuerdo con sus principios y programas y mediante el sufragio universal, libre, secreto y directo.
-
-Los Partidos Políticos podrán contar, en forma equitativa, con los elementos necesarios para sus actividades tendientes a la obtención del sufragio popular, por lo que debe garantizarse el libre uso de los medios de información, de acuerdo con los procedimientos que establezca la Ley, los Partidos Políticos son personas morales de interés público; la Ley determinará la forma de su intervención en el proceso electoral.
+La Soberanía reside esencial y originariamente en el pueblo y se ejerce por medio de los Poderes del Estado, en lo relativo a su Gobierno y administración interior, en los términos que establece esta Constitución. Todo Poder Público dimana del pueblo y se instituye para beneficio de éste.
 
 ###### ARTICULO 28.
 
@@ -261,9 +281,11 @@ El territorio del Estado de Oaxaca es el que posee actualmente conforme a las ju
 
 El Estado adopta para su régimen interior la forma de gobierno republicano, representativo y popular, teniendo como base de su organización política y administrativa, el Municipio Libre.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+
 ###### ARTICULO 30.
 
-El Poder público del Estado se divide, para el ejercicio de sus funciones, en Legislativo, Ejecutivo y Judicial. Estos poderes siempre se ejercerán en la forma y términos establecidos en esta Constitución; en consecuencia, nunca podrán reunirse uno o dos de ellos en cualquiera de los tres; sólo podrán concederse facultades legislativas al Ejecutivo en los términos prevenidos por el artículo 62 de esta Constitución.
+El Poder Público del Estado se divide, para el ejercicio de sus funciones en Legislativo, Ejecutivo y Judicial, los cuales desarrollarán sus funciones en la forma y términos previstos en esta Constitución. No podrán reunirse en uno solo de ellos, cualesquiera de los otros dos, como tampoco delegarse o invadirse atribuciones, a excepción de los casos previstos en el Artículo 62 de este documento.
 
 ### CAPITULO II. Del Poder Legislativo
 
@@ -303,11 +325,25 @@ II.- La asignación de los Diputados se hará en los términos de la Ley secunda
 
 III.- Cuando en las elecciones contendieren únicamente dos Partidos, se repartirá sólo el 50 por ciento de las Diputaciones por el sistema de proporcionalidad, si concurriera sólo un Partido, no se asignará ninguna representación proporcional.
 
-> <small>(REFORMADO, 15 DE JULIO DE 1972)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 34.
 
-Para ser Diputado Propietario o Suplente se requiere: Ser ciudadano en el ejercicio de sus derechos, ser nativo del Estado de Oaxaca y con residencia en su territorio inmediatamente anterior de un año por lo menos, haber cumplido veintiún años el día de la elección; no haber tomado participación directa ni indirecta en alguna asonada, motín o cuartelazo, y tener un modo honesto de vivir. La vecindad no se pierde por ausencia en el desempeño de cargo público de elección popular.
+Para ser Diputado propietario o suplente se requiere:
+
+I.- Ser nativo del Estado de Oaxaca con residencia en su territorio no más de cinco años inmediatamente anteriores a la fecha de la elección.
+
+II.- Tener más de 21 años cumplidos en la fecha de la postulación;
+
+III.- Estar en pleno ejercicio de sus derechos civiles y jurídicos;
+
+IV.- No haber tomado participación directa ni indirecta en asonadas, motines o cuartelazos;
+
+V.- No haber sido condenado por delitos intencionales; y
+
+VI.- Tener un modo honesto de vivir.
+
+La vecindad no se pierde por ausencia debida al desempeño de otros cargos públicos.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 1939)</small>
 
@@ -409,11 +445,11 @@ Los diputados que falten a diez sesiones en un mes sin causa justificada, perder
 
 La Ciudad de Oaxaca de Juárez será el lugar donde la Legislatura celebre sus sesiones y donde residirán los Poderes del Estado; y no podrán trasladarse a otro punto, sin que así lo acuerden las tres cuartas partes de los diputados presentes.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+
 ###### ARTICULO 49.
 
-Toda resolución que dicte la Legislatura, tendrá el carácter de ley, decreto, iniciativa ante el Congreso de la Unión o acuerdo.
-
-Las leyes, decretos o iniciativas se comunicarán firmados por el Presidente y los Secretarios, y los acuerdos, por los Secretarios solamente.
+Toda resolución de la Legislatura tendrá el carácter de Ley, Decreto, Iniciativa ante el Congreso de la Unión, o acuerdo. La Ley Reglamentaria determinará la forma y términos de las mismas.
 
 #### SECCION TERCERA. De la Iniciativa y Formación de las Leyes
 
@@ -439,29 +475,39 @@ La discusión y aprobación de las leyes se hará con estricta sujeción al Regl
 
 En la discusión de los proyectos de leyes y decretos, el Ejecutivo tendrá la intervención que le asigna la presente Constitución.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+
 ###### ARTICULO 53.
 
-Aprobado un proyecto, se remitirá al Ejecutivo, quien, si no tuviere observaciones que hacer, lo publicará inmediatamente.
+En el proceso de elaboración, promulgación y publicación de las leyes o decretos se observarán las reglas siguientes:
 
-Se reputará aprobado por el Ejecutivo todo proyecto que no sea devuelto dentro de diez días útiles, si el número de artículos que lo forman no excede de cien, o dentro de quince si el articulado pasare de ese número; pero si el período de sesiones hubiere de clausurarse corriendo ese término, se entenderá prorrogado para sólo el efecto de resolver sobre las observaciones; en consecuencia, no podrá tratarse ningún otro asunto durante la prórroga.
+I.- Aprobado un proyecto, se remitirá al Ejecutivo quien si no tuviere observaciones, lo publicará inmediatamente.
+
+II.- Si las tuviere, lo devolverá dentro del término de 10 días. De no hacerlo procederá a la promulgación y publicación inmediatas.
+
+III.- Todo proyecto de Ley o Decreto aprobado por la Legislatura, se remitirá al Ejecutivo a más tardar, con 15 días de anticipación a la fecha de clausura del período ordinario correspondiente, y si lo devolviere se reservará para el siguiente.
+
+IV.- En los períodos extraordinarios, estos trámites se ajustarán al término de duración de aquellos; pero si el Ejecutivo devolviere el proyecto y el tiempo no bastare para la nueva discusión, se reservará para el siguiente ordinario.
+
+V.- Los proyectos de leyes o decretos devueltos por el Ejecutivo con observaciones serán nuevamente discutidos. Si se aprueban tales observaciones, el Ejecutivo procederá a su promulgación y publicación. Si el Legislativo insiste en su proyecto original, este quedará firme y el Ejecutivo procederá a su promulgación y publicación.
 
 ###### ARTICULO 54.
 
-Todo proyecto que sea devuelto por el Ejecutivo con observaciones, sufrirá los trámites de Reglamento. La discusión se limitará a la parte observada. Si la Legislatura aprueba las observaciones por la mayoría absoluta de votos de los diputados presentes, todo el proyecto será ley o decreto; también será ley o decreto el proyecto que sea ratificado por el voto de la mayoría absoluta del número total de diputados; en caso contrario, se considerará desechado y no podrá volver a discusión sino hasta el siguiente período ordinario de sesiones. Si las observaciones fueren aprobadas en parte y en parte desechadas, se publicará todo lo aprobado, si pudiere hacerse sin perjuicio de lo no aprobado.
+(DEROGADO, P.O. 15 DE ENERO DE 1983)
 
 ###### ARTICULO 55.
 
 En los casos de urgencia notoria calificada por el voto de los dos tercios de los diputados presentes, la Legislatura puede reducir o dispensar los trámites establecidos por el Reglamento de Debates, menos el relativo al dictamen de comisión, el que sólo podrá suprimirse en los casos de obvia resolución, calificada en la misma forma.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+
 ###### ARTICULO 56.
 
-El Secretario General del Despacho o el Subsecretario en su caso, cuando se trate de iniciativa del Ejecutivo o de los Ayuntamientos; y el Magistrado que designe el Tribunal Superior de Justicia, cuando se trate de iniciativa de ese alto Cuerpo, podrán concurrir a las discusiones de la Legislatura, teniendo voz en ellas, pero se ausentarán en el acto de la votación.
-
-La votación de las leyes y decretos será nominal.
+Los Secretarios o Subsecretarios, cuando se trate de iniciativas del Ejecutivo del Estado, y que se relacionen con el ramo de aquellos; el Magistrado que designa el Tribunal Superior de Justicia del Estado, en el caso de iniciativas del Poder Judicial; y el Presidente y Síndico Municipal en los casos que afecten a los Ayuntamientos, podrán concurrir a las discusiones de la Legislatura con voz únicamente, debiendo ausentarse en el acto de votación.
 
 ###### ARTICULO 57.
 
-Para la aclaración, interpretación, reforma o derogación de las leyes, se observarán los mismos trámites que para su formación.
+(DEROGADO, P.O. 15 DE ENERO DE 1983)
 
 ###### ARTICULO 58.
 
@@ -493,13 +539,13 @@ II. Arreglar y fijar los límites del Estado, en los términos que señala el ar
 
 III. Informar al Congreso de la Unión en los casos a que se refiere el inciso tercero de la fracción III del artículo setenta y tres de la Constitución General, y resolver lo conducente sobre la determinación del propio Congreso, de acuerdo con el inciso sexto de la misma fracción;
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 1974)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
 
-IV. Erigir nuevos municipios dentro de los ya existentes, siempre que los interesados comprueben debidamente que la nueva Institución contará con los elementos suficientes para su sostenimiento, administración y desarrollo y con una población no menor de DIEZ MIL HABITANTES. En este caso la Legislatura oirá la opinión de los Ayuntamientos que resulten afectados;
+IV. Erigir nuevos Municipios dentro de los ya existentes, siempre que los interesados comprueben debidamente que la nueva Institución contará con los elementos suficientes para su sostenimiento, administración y desarrollo, y con una población no menor de quince mil habitantes. En este caso, la Legislatura oirá la opinión de los Ayuntamientos interesados;
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 1974)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
 
-V. Suprimir Municipios siempre que sus rentas no alcancen a cubrir su Presupuesto de Egresos o carezcan de capacidad para manejarse por sí mismos y administrarse a través de su respectivo Ayuntamiento, o cuando los núcleos de población que lo integren, no lleguen a DIEZ MIL HABITANTES, a partir de la fecha en que entre en vigor esta reforma;
+V. Suprimir Municipios, siempre que sus rentas no alcancen a cubrir sus presupuestos de egresos o carezcan de capacidad para manejarse por sí mismos y administrarse a través de sus respectivo Ayuntamientos, o cuando los núcleos de población que los integran no lleguen a los 15 quince mil habitantes;
 
 VI. Dictar todas las leyes necesarias para el funcionamiento de los Ayuntamientos, con arreglo a las disposiciones relativas de esta Constitución;
 
@@ -511,7 +557,7 @@ IX. Examinar y calificar cada año las cuentas de inversión de las rentas gener
 
 X. Examinar y calificar cada año las cuentas de inversión de las rentas de los Municipios del Estado, y exigir, en su caso, las responsabilidades consiguientes;
 
-XI. Expedir la ley relativa a la creación de la deuda agraria del Estado;
+XI. (DEROGADA, P.O. 15 DE ENERO DE 1983)
 
 XII. Legislar acerca de la administración, conservación y enajenación de los bienes del Estado, y de la inversión de los capitales que a éste pertenezcan;
 
@@ -537,7 +583,9 @@ XX. Resolver sobre las renuncias de sus propios miembros, del Gobernador y de lo
 
 XXI. Calificar las excusas que presente el Procurador General para intervenir en determinado negocio;
 
-XXII. Ratificar los nombramientos de Secretario General del Despacho y Subsecretario que el Ejecutivo hiciere;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
+
+XXII. Ratificar los nombramientos de Secretario General de Gobierno y Subsecretario que el Ejecutivo hiciere;
 
 XXIII. Llamar a los diputados suplentes conforme a las prevenciones relativas de esta Constitución;
 
@@ -651,9 +699,11 @@ X. Dictaminar sobre todos los asuntos que queden sin resolución, a efecto de qu
 
 El Poder Ejecutivo del Estado de Oaxaca, se ejerce por un solo individuo que se denominará Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+
 ###### ARTICULO 67.
 
-La elección de Gobernador será directa. La Legislatura del Estado hará la computación de votos y su calificación y declarará electo al ciudadano que hubiere obtenido la mayoría absoluta de los votos emitidos, haciéndolo saber al pueblo del Estado, por medio de un decreto. Si ningún ciudadano hubiere obtenido la mayoría absoluta, la Legislatura convocará a nuevas elecciones en las que solamente figurarán los dos candidatos que hubieren obtenido mayor número de sufragios en la elección que se ha calificado, siendo nulos los votos que se emitieren en favor de cualquier otro ciudadano. El Secretario General del Despacho asumirá el cargo de Gobernador interino mientras tome posesión el nuevamente electo.
+La elección de Gobernador será directa, la Legislatura del Estado hará la computación de votos y su calificación y declarará electo al Ciudadano que hubiere tenido la mayoría absoluta de los votos emitidos, haciéndolo saber al pueblo del Estado, por medio de un Decreto. Si ningún Ciudadano hubiere obtenido la mayoría absoluta, la Legislatura convocará a nuevas elecciones en las que solamente figurarán los dos candidatos que hubieren obtenido mayor número de sufragios en la elección que se ha calificado, siendo nulos los votos que se emitieren en favor de cualquier otro Ciudadano. El Secretario General del Gobierno asumirá el cargo de Gobernador Interino mientras tome posesión el nuevamente electo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ABRIL DE 1939)</small>
 
@@ -665,9 +715,9 @@ I. Ser mexicano por nacimiento, en el ejercicio de sus derechos y nativo del Est
 
 II. Tener treinta y cinco años cumplidos el (sic) día de la elección;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 1939)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
 
-III. No ser Presidente de la República, Secretario de Estado, Secretario del Despacho, Magistrado del Tribunal Superior, Procurador General, Tesorero General del Estade (sic), ni algún otro funcionario del propio Estado, a menos que se separe ciento ochenta días antes de la fecha de la elección;
+III. No ser Presidente de la República, Secretario Estatal o Federal, Magistrado del Tribunal Superior, Procurador General de Justicia, ni Director de organismo descentralizado o empresa de participación estatal, a menos que se separe del cargo ciento ochenta días antes de la fecha de la elección;
 
 IV. No ser funcionario judicial de la Federación con jurisdicción en el Estado, a no ser que renuncie su cargo ciento ochenta días antes de la elección;
 
@@ -687,9 +737,11 @@ VIII. Tener un modo honesto de vivir.
 
 El Gobernador rendirá la protesta de Ley el primero de diciembre del año de su renovación y en seguida tomará posesión de su encargo, que durará seis años. Nunca podrá ser reelecto para otro período constitucional.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+
 ###### ARTICULO 70.
 
-Las faltas temporales del Gobernador del Estado que no excedan de treinta días serán cubiertas por el Secretario General del Despacho, bastando el oficio de la Legislatura en que comunique haber concedido la licencia respectiva.
+Las faltas temporales del Gobernador del Estado, ya sea con motivo de licencia expedida por la Legislatura, o por cualquiera otra circunstancia, que no excedan de 30 días, serán cubiertas por el Secretario General de Gobierno, quien quedará encargado de éste y de los asuntos en trámite, bastando el oficio de la Legislatura en que comunique haber concedido la licencia respectiva.
 
 ###### ARTICULO 71.
 
@@ -735,17 +787,21 @@ VII. Si no obstante las prevenciones anteriores, se presentare el caso previsto 
 
 El ciudadano electo por la Legislatura del Estado para suplir las faltas absolutas del Gobernador, deberá reunir los requisitos señalados en el artículo sesenta y ocho de la presente Constitución.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+
 ###### ARTICULO 74.
 
-En los casos a que se refieren las fracciones I y II del artículo 72, inmediatamente que ocurra la falta asumirá el cargo de Gobernador el Secretario General del Despacho, sin necesidad de requisito previo.
+En los casos a que se refieren las fracciones I y II del Artículo 72, inmediatamente que ocurra la falta asumirá el cargo de Gobernador el Secretario General de Gobierno, sin necesidad de requisito previo.
 
 ###### ARTICULO 75.
 
 El ciudadano que substituyere al Gobernador Constitucional, en caso de falta absoluta de éste, aun cuando fuere nombrado por el Senado, no podrá ser electo Gobernador para el período inmediato. Tampoco podrá ser reelecto Gobernador para el período inmediato el ciudadano que fuere nombrado interino en las faltas temporales de (sic) Gobernador Constitucional.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+
 ###### ARTICULO 76.
 
-Si por algún motivo no hubiere podido hacerse la elección de Gobernador o publicarse la declaratoria respectiva antes del día en que debe tomar posesión el nuevo Gobernador, o el electo no se presentare a desempeñar sus funciones, cesará, no obstante, el saliente; asumirá el cargo el Secretario del Despacho y se procederá según las circunstancias del caso, como está prevenido en los artículos 70 a 72 de esta Constitución.
+Si por algún motivo no hubiere podido hacerse la elección de Gobernador o publicarse la declaratoria respectiva antes del día en que debe tomar posesión el nuevo Gobernador, o el electo no se presentare a desempeñar sus funciones, cesará, no obstante, el saliente; asumirá el cargo el Secretario General de Gobierno y se procederá según las circunstancias del caso, como está prevenido en los artículos 70 y 72 de esta Constitución.
 
 ###### ARTICULO 77.
 
@@ -757,7 +813,7 @@ El ciudadano electo para suplir las faltas absolutas de Gobernador Constituciona
 
 #### SECCION TERCERA. Del Despacho del Ejecutivo
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 1969)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 79.
 
@@ -769,11 +825,13 @@ II. Objetar por una sola vez las leyes y decretos aprobados por la Legislatura e
 
 III. Pedir a la Diputación Permanente la convocación de la Legislatura a período extraordinario de sesiones, expresando el objeto de ellas;
 
-IV. Enviar cada vez que lo crea conveniente, al Secretario General del Despacho para que tome parte en las discusiones de las leyes o decretos, pero sin que esté presente en el momento de la votación;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 1969)</small>
+IV. Enviar cada vez que crea conveniente al Secretario General de Gobierno, o al Secretario que tenga a su cargo la dependencia correspondiente, para que participen en las discusiones de las Leyes o decretos relativos a sus rspectivos (sic) ramos, pero sin asistir al acto de la votación;
 
-V. Nombrar y remover libremente al Secretario General del Despacho, Subsecretario, Directores Generales, Jefes de Departamento y demás empleados del Estado, cuyo nombramiento y remoción no estén determinados de otro modo en esta Constitución, o en las Leyes que de ella se deriven;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
+
+V. Nombrar y remover libremente al Secretario General de Gobierno y a todos los demás secretarios, funcionarios y empleados del Gobierno del Estado, cuyas designaciones o destituciones no estén determinados de otro modo por esta Constitución y las Leyes que de ella deriven;
 
 VI. Decretar la expropiación por causa de utilidad pública, de acuerdo con lo prevenido en los artículos 27 y 11 transitorio de la Constitución Federal, ajustando sus procedimientos a las leyes vigentes;
 
@@ -797,9 +855,9 @@ I. Cuidar del exacto cumplimiento de la Constitución General y de las leyes y d
 
 II. Cuidar del puntual cumplimiento de esta Constitución y de las leyes, decretos, reglamentos, acuerdos y demás disposiciones que de ella emanen, expidiendo al efecto las órdenes correspondientes;
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 1963)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
 
-III. Concurrir, el 16 de septiembre, a la apertura del Primer Período Ordinario de Sesiones, correspondiente al Primer Año de Ejercicio Legal de la Legislatura Local, a la de los extraordinarios que hubieren sido convocados a solicitud de Ejecutivo y a la Sesión Solemne a que se refiere el Artículo 43;
+III. Concurrir, el 16 de Septiembre a la apertura del primer período ordinario de sesiones, correspondiente al primer año de ejercicio legal de la Legislatura Local, a la de los extraordinarios que hubieren sido convocados a solicitud de Ejecutivo y a la sesión solemne a que se refiere el artículo 43;
 
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
 
@@ -811,7 +869,9 @@ VI. Proponer a la Legislatura del Estado la Ley General de Ingresos Municipales,
 
 VII. Presentar a la Legislatura, al terminar su período constitucional, una memoria sobre el estado que guarden los asuntos públicos, expresando cuáles sean las deficiencias que note en la administración y cuáles las medidas que en su concepto deben aplicarse para subsanarlas;
 
-VIII. Informar a la Legislatura por escrito o verbalmente, por conducto del Secretario General del Despacho o del Subsecretario, en su caso, sobre cualquier ramo de la administración, cuando la misma Legislatura lo solicite y en la forma que indique;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
+
+VIII. Informar a la Legislatura cuando lo solicite y en la forma que indique, por conducto del Secretario General de Gobierno, o del que tenga a su cargo el asunto sobre el cual se le pide, con toda la amplitud y precisión necesaria;
 
 IX. Promulgar sin demora, ejecutar y hacer que se ejecuten las leyes, decretos y acuerdos de la Legislatura del Estado, proveyendo en la esfera administrativa a su exacta observancia;
 
@@ -843,11 +903,13 @@ XX. Mandar personalmente la fuerza pública en los municipios en que resida habi
 
 XXI. Nombrar instructores de la Guardia Nacional del Estado;
 
-> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1938)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
 
-XXII. Visitar durante su período de Gobierno, cuando menos una vez, para el objeto de conocer y resolver, en su caso, los problemas administrativos de las regiones del Estado, la cabecera de cada uno de los distritos judiciales y rentísticos del mismo y las zonas que en su concepto merezcan la atención preferente del Poder Público;
+XXII. Visitar continuamente las regiones del Estado y procurar resolver los problemas socio-económicos y administrativos que afecten a las mismas y que por su naturaleza merezcan la atención preferente del Poder Público;
 
-XXIII. Las demás que le impongan las leyes.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
+
+XXIII. En la cabecera de cada Distrito rentístico o judicial, según proceda, el Gobernador establecerá una Oficina permanente para atender los asuntos que sean sometidos a su autoridad.
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1936)</small>
 
@@ -863,7 +925,9 @@ III. Impedir que las elecciones se efectúen en los días señalados y con las f
 
 IV. Impedir por motivo alguno, directa ni indirectamente, el libre ejercicio de las funciones de la Legislatura.
 
-V. Intervenir en las funciones del Poder Judicial, ni dictar providencia alguna que retarde o impida tales funciones. Tampoco podrá disponer de la persona de los reos.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
+
+V.- Intervenir en las funciones del Poder Judicial, ni dictar providencia alguna que retarde e impida tales funciones.
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 1951)</small>
 
@@ -883,63 +947,99 @@ XI. Ordenar la aprehensión o la detención de persona alguna, sino en los casos
 
 #### SECCION CUARTA. Del Gobierno y Administración Interior del Estado
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+
 ###### ARTICULO 82.
 
-Para el despachado (sic) de los asuntos que son a cargo del Ejecutivo del Estado, habrá un Secretario General del Despacho, un Subsecretario y los Directores Generales y Jefes de Departamento que sean necesarios.
+Para el despacho de los asuntos que son a cargo del Poder Ejecutivo del Estado, habrá los secretarios y demás funcionarios que las necesidades de la Administración Pública demanden, en los términos de la Ley Orgánica respectiva.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 83.
 
-Para ser Secretario General del Despacho se requiere: ser ciudadano mexicano en el ejercicio de sus derechos, nativo del Estado, mayor de treinta años y tener un modo honesto de vivir.
+Para ser Secretario General de Gobierno se requiere:
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 1969)</small>
+I.- Ser ciudadano mexicano.
+
+II.- Tener por lo menos 25 años de edad en la fecha de su designación.
+
+III.- Estar en pleno ejercicio de sus derechos civiles y políticos.
+
+IV.- No haber sido condenado por delitos intencionales.
+
+V.- Tener un modo honesto de vivir.
+
+Los mismos requisitos se exigirán para los Directores de organismos descentralizados o vocales ejecutivos de comisión.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 84.
 
-Todas las leyes y decretos, así como los reglamentos, circulares, acuerdos y órdenes que dicte el Gobernador, en todo caso deberán ser autorizados con la firma del Secretario General del Despacho y comunicados por los Directores Generales en sus respectivos ramos. Los documentos que el Gobernador suscriba en ejercicio de sus funciones constitucionales, así como los despachos que expida, deberán ir firmados por el Secretario General del Despacho y sin este requisito no surtirán efectos legales. El Secretario General del Despacho y los Directores Generales en sus ramos respectivos, serán responsables de todas las órdenes y providencias que dicten contra disposiciones de la Constitución y leyes del Estado.
+Las leyes, decretos, reglamentos, circulares, acuerdos, órdenes, despachos, convenios y demás documentos que el Gobernador del Estado suscriba en ejercicio de sus funciones, deberá (sic) llevar la firma del titular o de los titulares de las dependencias involucradas en cada caso. Y sin este requisito no surtirá efectos legales.
+
+Los Secretarios y demás funcionarios serán responsables de los actos de autoridad que realicen y ejecuten en contra de las disposiciones de esta Ley fundamental y demás ordenamientos jurídicos del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 85.
 
-Para auxiliar en sus funciones al Secretario General del Despacho y substituirlo en sus faltas temporales, habrá un Subsecretario que tendrá las atribuciones y deberes que le fije el reglamento de la Secretaría.
+Para auxiliar en sus funciones a los Secretarios y sustituirlos en sus faltas temporales, habrá en cada Dependencia los Subsecretarios que determinen (sic) la Ley Orgánica del Poder Ejecutivo.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 86.
 
-Para ser Subsecretario del Gobierno del Estado, se necesitan los mismos requisitos que para ser Secretario General del Despacho exige el artículo 83 de esta Constitución.
+Para ser Subsecretario se necesitan los mismos requisitos establecidos en el artículo 83 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 87.
 
-El Secretario General del Despacho, o el Subsecretario en su caso, asistirá a la Legislatura:
+Los Secretarios o los subsecretarios, en su caso, asistirán a la Legislatura:
 
-I. Cuando el Gobernador concurra a los actos oficiales que determina esta Constitución;
+I.- Cuando el Gobernador concurra a los actos oficiales que determina esta Constitución.
 
-II. Cuando tenga que tomar parte el Ejecutivo en la discusión de las leyes o decretos;
+II.- Cuando tenga que tomar parte el Ejecutivo en la discusión de las leyes y decretos.
 
-III. Cuando a solicitud de la Legislatura tenga que informar el Ejecutivo sobre algún asunto.
+III.- Cuando a solicitud de la Legislatura tenga que informar el Ejecutivo sobre algún asunto.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 88.
 
-Los nombramientos de Secretario General del Despacho y Subsecretario serán ratificados por la Legislatura.
+Los nombramientos de Secretario General de Gobierno y Subsecretario del mismo, serán ratificados por la Legislatura.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 89.
 
-El Secretario General del Despacho no puede dictar disposición alguna sin acuerdo expreso del Ejecutivo.
+Los Secretarios recabarán el acuerdo expreso del Gobernador antes de dictar disposición alguna en el área administrativa de su responsabilidad.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 1969)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 90.
 
-Para el despacho de los negocios del orden administrativo del Estado, se contará con la Secretaría General del Despacho, la Subsecretaría y número de Direcciones Generales y Departamentos administrativos que establezca la Legislatura por una Ley, la que distribuirá los asuntos que han de estar a cargo de cada dependencia. Los Directores Generales acordarán directamente con el Gobernador y los acuerdos que se tomen serán refrendados por el Secretario General del Despacho y comunicados por los Directores Generales en sus respectivos ramos.
+La Ley Orgánica del Poder Ejecutivo del Estado se sujetará a las siguientes disposiciones generales:
+
+I.- Determinará el número de Secretarías y demás dependencias que sean necesarias al despacho de los negocios del orden administrativo.
+
+II.- Asignará las atribuciones, obligaciones y competencias de cada una de aquellas.
+
+III.- Definirá los sistemas de organización, comunicación, coordinación, planeación, programación, control y evaluación de las actividades de las dependencias del Ejecutivo y,
+
+IV.- Establecerá el esquema operativo del sector paraestatal, el cual se integrará con organismos descentralizados, empresas de participación estatal, comisiones, comités, juntas y patronatos.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 91.
 
-El Gobernador del Estado, el Secretario del Despacho y el Subsecretario, durante el ejercicio de sus funciones, no podrán aceptar comisión alguna de los particulares ni de cualquier corporación civil, política o religiosa.
+El Gobernador del Estado y los demás funcionarios del Poder Ejecutivo y del sector paraestatal, no podrán aceptar durante su ejercicio, comisión onerosa alguna de los particulares, de las corporaciones políticas o civiles como tampoco aquellas que pudiesen encomendarles las instituciones religiosas, aún cuando fueren de carácter gratuito o de distinción. El desacato a esta disposición traerá aparejada la separación inmediata del cargo y las responsabilidades que establezca la Ley de la materia.
 
 ###### ARTICULO 92.
 
-El Estado de Oaxaca, para su régimen interior, se divide en Municipios Libres, los que se agrupan en Distritos rentísticos y judiciales, para la mejor administración de justicia y la fácil recaudación de las rentas generales del Estado.
+El Estado de Oaxaca, para su régimen interior, se divide en municipios libres que serán agrupados en Distritos Rentísticos y Judiciales y que se erigirán o suprimirán conforme a las disposiciones contenidas en las fracciones IV y V del Artículo 59 de esta misma Constitución.
 
-> <small>(REFORMADO, 26 DE ENERO DE 1974)</small>
-
-Para tener la categoría de Municipio, se requiere que la localidad respectiva cuente por lo menos con DIEZ MIL HABITANTES y con los elementos suficientes para su sostenimiento, administración y desarrollo.
+Para tener la categoría de Municipio se requerirá que la localidad respectiva cuente por lo menos con QUINCE MIL HABITANTES, y con los elementos suficientes para su sostenimiento, administración y desarrollo.
 
 #### SECCION PRIMERA. Del Ejercicio del Poder Judicial
 
@@ -981,13 +1081,15 @@ III.- Los Regidores en ningún caso, serán menos de cinco y siempre en número 
 
 En la Capital del Estado y en los Municipios cuya población sea de cien mil o más habitantes los Ayuntamientos se integrarán por quince concejales que serán electos de acuerdo al principio de representación proporcional.
 
-IV.- Los Concejales durarán en su encargo tres años y no podrán ser reelectos para el período inmediato.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
+
+IV. Los Concejales o integrantes de los Ayuntamientos a que se refieren las fracciones anteriores, durarán en su encargo tres años. Tomarán posesión en día 15 de septiembre y no podrán ser reelectos para el período inmediato.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 1978)</small>
 
 #### SECCION SEGUNDA. Del Tribunal Superior de Justicia
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 1959)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
 ### CAPITULO IV. Del Poder Judicial del Estado
 
@@ -1131,9 +1233,11 @@ El matrimonio es un contrato civil. El divorcio disuelve el vínculo del matrimo
 
 La Educación Pública seguirá las normas que están precisadas en la Constitución General, y se procurará que los sistemas, planes y métodos de enseñanza sean adaptados a las necesidades peculiares del Estado de Oaxaca.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+
 ###### ARTICULO 151.
 
-Ninguna ley ni autoridad puede permitir en el Estado el establecimiento de juegos de azar; ni autorizar o permitir espectáculos contrarios a la cultura y moralidad públicas, como las corridas de toros y peleas de gallos.
+Ninguna Ley ni autoridad puede permitir en el Estado el establecimiento de juegos de azar; ni autorizar o permitir espectáculos contrarios a la cultura y moralidad públicas.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1941)</small>
 
@@ -1257,7 +1361,7 @@ El Poder Judicial se ejerce: por el Tribunal Superior de Justicia, por los Juece
 
 ###### ARTICULO 121.
 
-El Tribunal Superior de Justicia del Estado se compondrá de siete Magistrados Numerarios y el número de Supernumerarios que determine la Ley Orgánica respectiva. Dichos funcionarios serán nombrados por el Gobernador del Estado con la ratificación de la Legislatura.
+La Ley Orgánica del Poder Judicial del Estado, determinará el número de Magistrados numerarios y supernumerarios que deban componer el Tribunal Superior de Justicia. Dichos funcionarios serán nombrados por el Gobernador del Estado, con la ratificación de la Legislatura.
 
 ###### ARTICULO 122.
 
@@ -1295,7 +1399,9 @@ I. Iniciar leyes en todo lo relativo a lo administrativo u orgánico judicial;
 
 II. Resolver como jurado de sentencia en las causas de responsabilidad por delitos oficiales que hayan de formarse contra los funcionarios públicos del Estado; en los términos que fija esta Constitución;
 
-III. Resolver las dudas de la ley que le consulten los jueces de primera instancia, y pasar a la Legislatura, si lo estima necesario, tanto éstas como las que ocurran al mismo Tribunal para su aclaración;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
+
+III. Iniciar anualmente las reformas a las Leyes que difieran de su propia Jurisprudencia y de las consultas u observaciones que formulen los Jueces de Primera Instancia;
 
 IV. Conocer de las controversias que se susciten sobre contratos celebrados entre el Gobierno del Estado y los particulares;
 
@@ -1694,3 +1800,21 @@ P.O. 7 DE OCTUBRE DE 1978.
 DECRETO NUM. 79, QUE REFORMA LOS ARTICULOS 3o., 23, 27, 31, 32, 33, 39, 72, 97, 98, 99, 100 y 101 DE LA CONSTITUCION POLITICA DEL ESTADO.
 
 UNICO.- El presente decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE ENERO DE 1983.
+
+###### ARTICULO 1o.
+
+En cuanto a los catorce artículos transitorios de la Constitución que actualmente nos rige, se derogan en lo que se opongan a las presentes disposiciones.
+
+###### ARTICULO 2o.
+
+En tanto se reestructura la división territorial del Estado, conforme a las reformas del artículo 59, Fracciones IV y V de esta Constitución, subsistirá la llamada "DIVISIÓN TERRITORIAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA", publicada en el Periódico Oficial de fecha 5 de Octubre de 1968.
+
+###### ARTICULO 3o.
+
+Por esta única vez, los Concejales de los Ayuntamientos que deban ser electos en 1983, para tomar posesión el 1o. de Enero de 1984, durarán en funciones hasta el 14 de septiembre de 1986 y después de esta fecha, los Concejales de los siguientes Ayuntamientos durarán en funciones tres años a partir del 15 de septiembre del año que les corresponda.
+
+###### ARTICULO 4o.
+
+Las reformas Constitucionales a que se refiere el presente Decreto, entrarán en vigor al mes siguiente de su publicación en el Periódico Oficial del Estado.
