@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1978-07-20"
+last_updated: "1978-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 1978.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 1978.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -309,29 +309,39 @@ Los Poderes Públicos del Estado sólo podrán hacer aquello para lo que expresa
 
 Del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 1976)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1978)</small>
 
 ###### Art. 31.
 
-El Poder Legislativo de Querétaro se deposita en la agrupación que se denomina LEGISLATURA DEL ESTADO, la cual se integrará por representantes del pueblo que serán electos directamente, cada tres años, por los ciudadanos Queretanos que tengan derecho a votar . Dicha agrupación se complementará con Diputados de Partido que se designarán, de acuerdo con lo que acerca de diputados disponen la Ley Electoral del Estado y las reglas siguientes:
+El ejercicio del Poder Legislativo se deposita en un Cuerpo Colegiado que se denominará Legislatura del Estado, integrada por representantes populares denominados Diputados, electos cada tres años mediante votación directa, secreta, uninominal y por mayoría relativa. Por cada Diputado propietario se elegirá un suplente.
 
-I.- Los Partidos Políticos nacionales y los locales que hayan sido registrados conforme a la Ley, por lo menos un año antes del día de la elección, si obtienen el 10% de la votación total en las respectivas elecciones, tendrán derecho a que se les acredite, de entre sus candidatos, a un Diputado, y a otro, si obtienen el 6% mas del número de votos emitidos. Los diputados de mayoría excluyen a los Diputados de Partido.
-
-II.- Si dichos Partidos logran obtener mayoría de votos en mas de dos distritos electorales, ya no tendrán derecho a que se les reconozcan Diputados de Partido.
-
-III.- Los Diputados de Partido serán reconocidos por riguroso orden, con relación a los demás candidatos del mismo Partido en toda la Entidad, de acuerdo con el mayor número de sufragios que hayan logrado en la respectiva elección en toda la Entidad.
-
-IV.- Los Diputados de Partido, siendo representantes del pueblo, tendrán la misma categoría e iguales derechos y obligaciones que los Diputados restantes.
-
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 1976)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1978)</small>
 
 ###### Art. 32.
 
-Por cada 100,00 (sic) habitantes o fracción mayor de 50,000, se elegirá un Diputado Propietario y un suplente; en ningún caso el número de electos será menor de nueve propietarios y nueve suplentes para todo el Estado.
+La Legislatura del Estado se compondrá de Doce Diputados electos en Distritos Electorales, según el principio de votación mayoritaria relativa y hasta con tres diputados de representación proporcional, mediante el sistema de listas, votadas en la circunscripción plurinominal que corresponderá a las (sic) totalidad del territorio del Estado.
+
+La elección de los Diputados de minorías, según el principio de proporcionalidad y el sistema de listas, deberá sujetarse a lo que en particular disponga la Ley Electoral de conformidad con las siguientes bases:
+
+I.- Para obtener la inscripción de sus listas, el Partido Político que lo solicite, deberá acreditar que tiene su registro definitivo y que participa con candidatos a Diputados por mayoría relativa en por lo menos tres de los Distritos uninominales.
+
+II.- Tendrá derecho a que le sean atribuidos Diputados electos según el principio de proporcionalidad, todo aquel Partido que:
+
+a).- No haya obtenido tres o más constancias de mayoría.
+
+b).- Que alcance por lo menos el 1.5% de la votación emitida para el total de las listas.
+
+III.- Al Partido que se encuentre dentro de los supuestos señalados en las fracciones I y II de este artículo, les serán asignados los Diputados que corresponda de acuerdo al porcentaje de votos obtenidos en la circunscripción.
+
+La Ley Electoral del Estado determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación: en todo caso se asignará el orden que tuviesen los candidatos en las listas correspondientes.
+
+IV.- En caso de que dos o más partidos con derecho a participar en la distribución por éstas, obtuviesen en su conjunto tres o más constancias de mayoría, sólo será objeto de distribución el 50% de las curules que deban asignarse por el principio de proporcionalidad.
+
+V.- Los diputados de mayoría y los de minoría, siendo representantes del pueblo, tendrán la misma categoría e iguales derechos y obligaciones.
 
 ###### Art. 33.
 
-Para los efectos del artículo anterior, se divide el Estado en los Distritos electorales que sean necesarios, y la comprensión de ellos se fijará por una ley secundaria, en la que se determine todo lo relativo a elecciones de los Poderes.
+(DEROGADO, P.O. 10 DE AGOSTO DE 1978)
 
 ###### Art. 34.
 
@@ -363,9 +373,13 @@ Se exceptúan de lo dispuesto en el párrafo anterior, los cargos de Instrucció
 
 (DEROGADO, P.O. 28 DE OCTUBRE DE 1937)
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1978)</small>
+
 ###### Art. 37.
 
 Los Diputados son inviolables por las opiniones que emitan en el desempeño de su cargo, y no podrán ser reconvenidos por ellas en ningún tiempo.
+
+La Legislatura velará por el respeto al Fuero Constitucional de sus miembros y por la inviolabilidad del recinto donde se reúnen a sesionar.
 
 ###### Art. 38.
 
@@ -379,17 +393,23 @@ III.- Cuando los Diputados propietarios hubieren dejado de concurrir sin causa j
 
 IV.- En los demás casos que señale el reglamento interior de la Cámara.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1978)</small>
+
 ###### Art. 39.
 
-Para que los Diputados Propietarios y Suplentes puedan entrar a funcionar, deberán haber prestado previamente ante la Legislatura, ante las Juntas Preparatorias o ante la Diputación Permanente, en sus respectivos casos, la protesta de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de ellas emanen, y cumplir leal y patrióticamente con el cargo que el pueblo les ha conferido.
+La Legislatura calificará la elección de sus miembros a través de un Colegio Electoral que se integrará por tres presuntos Diputados que de acuerdo con las constancias de mayoría que registre la Comisión Electoral del Estado, hayan obtenido mayor número de votos y por dos presuntos Diputados de representación proporcional, uno de cada partido, con el porcentaje más alto de votación. Su resolución será definitiva e inacatable.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
+Los Diputados electos, presentarán sus constancias registradas en la Secretaría de la Legislatura, a fin de que se dé cuenta con ellas en la primera junta preparatoria, que deberá tener verificativo quince días antes de la apertura de las sesiones, eligiéndose en la propia junta, la mesa directiva conforme a la Ley Orgánica.
+
+Durante los quince días a que se refiere el párrafo anterior, se tendrán las juntas necesarias para la calificación de las constancias y su aprobación y se elegirán Presidente y Secretario de la Legislatura, en los términos que disponga la Ley Orgánica del Congreso.
+
+En caso de que se instalen dos o más legislaturas, será la legal aquella que se instale en el Recinto Oficial y de acuerdo con la Ley, y sea además reconocida por el Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1978)</small>
 
 ###### Art. 40.
 
-La Legislatura del Estado calificará las elecciones de sus miembros, para lo cual deberá reunirse quince días antes de la fecha señalada para su instalación, celebrando las juntas preparatorias que fueren necesarias.
-
-En caso de que se instalen dos o más Legislaturas, será la legal aquella que se instale en el recinto oficial y de acuerdo con la ley, y sea además reconocida por el Poder Ejecutivo del Estado.
+Para que los Diputados propietarios y suplentes puedan entrar a funcionar, deberán haber prestado previamente ante la Legislatura, ante las Juntas Preparatorias y ante la Diputación Permanente, en sus respectivos casos, la protesta de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de ellas emanen, y cumplir leal y patrióticamente con el cargo que se les ha conferido.
 
 ## TITULO TERCERO
 
@@ -609,7 +629,9 @@ XXXI.- Conceder habilitaciones a los menores de edad para administrar sus bienes
 
 XXXII.- Rehabilitar, con arreglo a las leyes, a los que por sentencia pronunciada en el Estado hayan perdido los derechos de ciudadano, civiles o de familia;
 
-XXXIII.- Formar su reglamento interior, tomar las providencias necesarias para hacer concurrir a los Diputados ausentes o remisos, y corregir las faltas y omisiones de los presentes;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 1978)</small>
+
+XXXIII.- Expedir su Ley Orgánica, tomar las providencias necesarias para hacer concurrir a los Diutados (sic) ausentes o remisos y corregir las faltas y omisiones de los presentes;
 
 XXXIV.- Autorizar al Ejecutivo para armar la Guardia Nacional, en los casos que determine la ley;
 
@@ -967,11 +989,25 @@ Entre los Ayuntamientos y el Gobierno del Estado no habrá autoridad intermedia 
 
 Los cargos de Presidente Municipal y Regidores en ningún caso serán gratuitos. La ley determinará la remuneración que deban percibir.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1927)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 1978)</small>
 
 ###### Art. 134.
 
-El número de Regidores que deberá haber en cada Municipalidad, será el que demande la eficaz atención de sus servicios públicos; pero no bajará de seis en la Municipalidad de Querétaro, cuatro en las de San Juan del Río y Jalpan y dos en las demás Municipalidades.
+El número de Regidores que deberá haber en cada Municipalidad, será el que demande la eficaz atención de sus servicios públicos; pero no será menor de ocho en el Municipio de Querétaro, seis en los de Jalpan, San Juan del Río y Tequisquiapan y cuatro en las demás Municipalidades.
+
+En los Municipios cuya población sea de doscientos mil o más habitantes, los ayuntamientos tendrán adicionalmente hasta dos Regidores electos, según el principio de representación proporcional.
+
+De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuido un Regidor, al Partido Político que alcance el mayor porcentaje de votación minoritaria, siempre y cuando satisfaga los siguientes requisitos:
+
+a).- Que hubieren registrado fórmula de candidato en las elecciones municipales respectivas;
+
+b).- No haya alcanzado el triunfo por mayoría relativa en la misma elección;
+
+c).- Alcance por lo menos el 1.5% del total de la votación emitida en el Municipio correspondiente.
+
+Un segundo regidor podrá ser atribuido, al Partido que habiendo obtenido el segundo porcentaje en la votación minoritaria, tenga por lo menos más de la mitad de los sufragios que el Partido triunfador minoritario haya alcanzado, de no darse este mínimo de proporción se le atribuirá este segundo Regidor al Partido triunfador minoritario.
+
+La ley electoral determinará los procedimientos que se observarán en dicha designación.
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 1923)</small>
 
@@ -1764,6 +1800,14 @@ Primero.- La presente Ley deberá publicarse en el Periódico Oficial del Estado
 Segundo.- La presente Ley comenzará a surtir sus efectos una vez que la mayoría de los Ayuntamientos la aprueben, en los términos del artículo 163 de la propia Constitución Política del Estado.
 
 P.O. 20 DE JULIO DE 1978
+
+PRIMERO.- La presente Ley deberá publicarse en el Periódico Oficial del Estado.
+
+SEGUNDO.- La presente Ley surtirá sus efectos una vez que la mayoría de los Ayuntamientos la aprueben en los términos del Artículo 163 de la propia Constitución Política del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 10 DE AGOSTO DE 1978
 
 PRIMERO.- La presente Ley deberá publicarse en el Periódico Oficial del Estado.
 
