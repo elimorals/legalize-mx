@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1919-03-30"
+last_updated: "1919-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 1919.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 1919.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -167,7 +167,7 @@ I. Las mismas que en esta Constitución se determinan a los vecinos nayaritas.
 
 II. Alistarse en la Guardia Nacional.
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 2 DEL DECRETO NÚMERO 23, P.O. 30 DE MARZO DE 1919, SE SUPRIME UN PORCIÓN NORMATIVA A LA FRACCIÓN III DEL ARTÍCULO 18 QUE DICE: “CON LA CONDICIÓN ESTABLECIDA EN LA FRACCIÓN I DEL ARTÍCULO ANTERIOR, POR LO QUE RESPECTA A LAS ELECCIONES LOCALES”.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO 2 DEL DECRETO NÚMERO 23, P.O. 30 DE MARZO DE 1919, SE SUPRIME UN PORCIÓN NORMATIVA A LA FRACCIÓN III DEL ARTÍCULO 18 QUE DICE: "CON LA CONDICIÓN ESTABLECIDA EN LA FRACCIÓN I DEL ARTÍCULO ANTERIOR, POR LO QUE RESPECTA A LAS ELECCIONES LOCALES".</small>
 
 > <small>(REFORMADA, P.O. 30 DE MARZO DE 1919)</small>
 
@@ -611,7 +611,11 @@ II.- Sancionar, promulgar y ejecutar las leyes y decretos dados por el Poder Leg
 
 III.- Iniciar ante la Legislatura las leyes y decretos que juzgue convenientes para el mejoramiento de la administración pública y pedirle que inicie ante el Congreso de la Unión, lo que sea de la competencia Federal.
 
-IV.- Presentar a la Legislatura, dentro de los primeros treinta días del segundo periodo de sesiones ordinarias de cada año, el Presupuesto de gastos del año siguiente, proponiendo arbitrios para cubrirlo.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 1919)</small>
+
+> <small>N. DE E. SOLO PARA QUE SURTA SUS EFECTOS DURANTE EL PRESENTE PERIODO DE SESIONES ORDINARIAS</small>
+
+IV.- Presentar a la Legislatura dentro de los primeros sesenta días del segundo periodo del año actual, el Presupuesto de Gastos del año siguiente, proponiendo arbitrios para cubrirlos.
 
 V.- (A). Cuidar de la legal recaudación e inversión de todos los caudales públicos.
 
@@ -1098,6 +1102,10 @@ J.N. Muñoz Ruiz.
 P.O. 30 DE MARZO DE 1919
 
 Este Decreto comenzará a surtir sus efectos desde el día de su promulgación.
+
+P.O. 24 DE JULIO DE 1919
+
+Este Decreto empezará a surtir sus efectos desde la fecha de su promulgación.
 
 ###### Art. 1o.
 
