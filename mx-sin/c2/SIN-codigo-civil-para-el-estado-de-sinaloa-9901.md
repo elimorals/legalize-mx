@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "2001-12-05"
+last_updated: "2003-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -2585,11 +2585,11 @@ La adopción plena, es el vinculo jurídico y familiar que existe entre el adopt
 
 1.- La adopción plena es irrevocable y extingue la filiación preexistente entre el adoptado y sus progenitores y el parentesco con las familias de éstos, salvo para los impedimentos de matrimonio. En el supuesto de que el adoptante esté casado con alguno de los progenitores del adoptado no se extinguirán los derechos, obligaciones y demás consecuencias jurídicas que resultan de la filiación consanguínea.
 
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2003)</small>
 
 ###### Artículo 410 Bis
 
-2.- Para que la adopción plena pueda tener afectos (sic), además de las personas a que se refiere el artículo 398 de este Código, deberá otorgar su consentimiento el padre o madre del menor que se pretende adoptar, salvo que exista al respecto declaración judicial de abandono; así mismo, que el menor que se pretenda adoptar no tenga más de cinco años de edad.
+2.- Para que la adopción plena pueda tener efectos, además de las personas a que se refiere el artículo 398 de este Código, deberá otorgar su consentimiento el padre o madre del menor que se pretenda adoptar, salvo que exista al respecto declaración judicial de abandono.
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
 
@@ -15962,3 +15962,9 @@ P.O. 5 DE DICIEMBRE DE 2001.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 1 DE AGOSTO DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
