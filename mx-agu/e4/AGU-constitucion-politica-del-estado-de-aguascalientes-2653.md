@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1980-02-03"
+last_updated: "1982-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 1980.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 1982.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -615,13 +615,21 @@ VI.- Reconocer, cuando después de una elección se instale más de un Cuerpo Le
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 1973)</small>
 
-VII.- Celebrar convenios:
+VII.- Celebrar Convenios:
 
 a).- De coordinación con las Secretarías de Estado.
 
 b).- Sobre límites con los Estados vecinos previa aprobación del Congreso.
 
-VIII.- Concertar empréstitos en los términos de la fracción V del artículo 27 de esta Constitución.
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 1982)</small>
+
+c).- Respecto de cualquiera otra materia de su competencia, con los demás Estados de la República.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 1982)</small>
+
+d).- En general, con las personas de derecho privado.
+
+VIII.- Concertar empréstitos en los términos de la fracción V del artículo 27 de esta Constitución;
 
 IX.- Ejercer actos de dominio sobre los bienes de la propiedad del Estado, con autorización del Congreso tratándose de inmuebles;
 
@@ -1324,3 +1332,7 @@ UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su public
 P.O. 3 DE FEBRERO DE 1980.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ENERO DE 1982.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
