@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1993-10-13"
+last_updated: "1995-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 1995.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -250,7 +250,7 @@ No podrán reunirse dos o más poderes en una sola persona o corporación, ni en
 
 Los Poderes Públicos residirán en la Ciudad de Cuernavaca; pero por causas graves podrán translardarse (sic) temporalmente a otro lugar.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 13 DE OCTUBRE DE 1993)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 1993)</small>
 
 ### CAPITULO I.
 
@@ -286,7 +286,7 @@ La Ley establecerá los requisitos de procedencia, presupuestos procesales y for
 
 DE LA INSTALACION DEL CONGRESO Y DE LOS PERIODOS DE SUS SESIONES.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1990)</small>
 
 ## TITULO TERCERO.
 
@@ -388,9 +388,7 @@ DE LA INICIATIVA Y FORMACION DE LAS LEYES.
 
 ###### Artículo 30.
 
-Las elecciones de diputados serán calificadas por el organismo que instituye el párrafo quinto del artículo 23, que otorgará las constancias de mayoría y hará la asignación de diputados por el principio de representación proporcional.
-
-Las resoluciones de dicho organismo serán revisables por el Tribunal Electoral del Estado de acuerdo con las formas y los procedimientos que establezca la Ley.
+Las elecciones de Diputados serán calificadas por un Colegio Electoral integrado por la totalidad de los presuntos Diputados electos según el principio de votación mayoritaria relativa y por un presunto Diputado de representación proporcional, que resultare electo en la circunscripción electoral que obtuviera la votación más alta.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -414,11 +412,11 @@ En el Segundo Período de Sesiones, se ocupará preferentemente del examen, disc
 
 Los plazos de presentación de las Leyes de Ingresos y Cuentas Públicas a que se refiere este Artículo, sólo podrán ampliarse a solicitud del Ejecutivo o de los Presidentes Municipales, por causas plenamente justificadas a juicio del Congreso o de la Comisión Permanente, pero será obligación del Secretario de Hacienda o de los Regidores de Hacienda de los Municipios respectivamente, comparecer ante el Congreso para informar las razones que los motiven.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 1983)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
 ###### Artículo 33.
 
-A la Apertura de ambos períodos de sesiones del Congreso concurrirá el Gobernador del Estado. El 17 de abril que es la apertura del primer período ordinario de sesiones rendirá informe acerca de la situación que guardan los diversos ramos de la Administración Pública. El Presidente del Congreso contestará el Informe en términos generales.
+El Gobernador del Estado podrá concurrir a la apertura de ambos períodos de sesiones del Congreso. El cuarto domingo de abril de cada año, el Ejecutivo presentará informe acerca de la situación que guarda la Administración Pública Estatal. El Presidente del Congreso dará contestación oportuna a dicho informe.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -598,11 +596,9 @@ XXV.- Excitar a los poderes de la Nación para que presten protección al Estado
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
-XXVI.- Nombrar y remover a los trabajadores al servicio del Poder Legislativo con arreglo a las leyes a que se refiere la fracción XX.
+XXVI.- Nombrar y remover a los trabajadores al servicio del Poder Legislativo con arreglo a las
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
-
-XXVII.- Recibir a los Diputados, Gobernador, Magistrados del Tribunal Superior y Contador Mayor de Hacienda, la protesta a que se refiere el Artículo 133 de esta Constitución.
+leyes a que se refiere la fracción XX.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JULIO DE 1986)</small>
 
@@ -642,9 +638,9 @@ XXXV.- Declarar Gobernador del Estado al que haya obtenido mayoría de votos.
 
 XXXVI.- Nombrar Gobernador interino o Substituto en los casos que determina esta Constitución.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 1995)</small>
 
-XXXVII.- Otorgar o negar su aprobación a los nombramientos de Magistrados del Tribunal Superior de Justicia, propuestos por el Ejecutivo del Estado.
+XXXVII.- Designar a los Magistrados del Tribunal Superior de Justicia, de entre la terna que someta a su consideración el Consejo de la Judicatura Estatal.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -728,7 +724,7 @@ b).- Cuando abandone sus funciones por un lapso de quince días consecutivos sin
 
 c).- Cuando deje de asistir consecutivamente a cinco Sesiones de Cabildo sin causa justificada;
 
-d).- Cuando reiteradamente abuse de su Autoridad en perjuicio de la Comunidad y del Ayuntamiento;
+d).- Cuando reiteradamente abuse de su Autoridad en perjuicio de la Comunidad y del Ayuntamiento,
 
 e).- Por omisión reiterada en el cumplimiento de sus funciones;
 
@@ -888,7 +884,7 @@ I.- Ser ciudadano Morelense por nacimiento;
 
 II.- Tener 35 años cumplidos el día de la elección;
 
-III.- Residir en el territorio del Estado por lo menos un año inmediato anterior a la elección,
+III.- Residir en el territorio del Estado por lo menos un año inmediato anterior a la elección;
 
 IV.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 1991)
 
@@ -1010,11 +1006,7 @@ IV.- Nombrar y remover libremente a los Secretarios del Poder Ejecutivo Estatal.
 
 V.- Cuidar de la legal recaudación e inversión de los caudales públicos.
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
-
-VI.- Someter a la aprobación del Congreso los nombramientos de los Magistrados del Tribunal
-
-Superior de Justicia.
+VI.- (DEROGADA, P. O. 22 DE MARZO DE 1995)
 
 VII.- Conceder o negar indulto con arreglo a la Ley, a los reos sentenciados por los Tribunales del Estado.
 
@@ -1236,9 +1228,9 @@ El Procurador General de Justicia será el Consejero Jurídico del Gobierno, y d
 
 ### CAPITULO VII.
 
-DE LA PROCURADURIA ECOLOGICA.
+DE LA PROTECCION DEL AMBIENTE Y DEL EQUILIBRIO ECOLOGICO.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
 ###### Artículo 80.
 
@@ -1308,21 +1300,23 @@ El fenómeno de conurbación intermunicipal, se presenta cuando dos o más centr
 
 DISPOSICIONES PRELIMINARES.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
+
 ###### Artículo 85-C.
 
 El Congreso del Estado establecerá un organismo autónomo de protección de los derechos humanos que otorga el orden jurídico mexicano, que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción del Poder Judicial del Estado, que violen estos derechos. Formulará recomendaciones públicas autónomas, no vinculatorias así como denuncias y quejas ante las autoridades respectivas. Este organismo no será competente tratándose de asuntos electorales, laborales y jurisdiccionales. En los términos del artículo 102, apartado B., de la Constitución Federal, el organismo que establezca el Congreso de la Unión conocerá de las Inconformidades que se presenten en relación con las recomendaciones, acuerdos u omisiones del organismo estatal.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 1992)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MARZO DE 1995)</small>
 
 ### CAPITULO II.
 
 DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1989)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
 ###### Artículo 85-D.
 
-La conservación del patrimonio natural de la Entidad, la protección del ambiente y la preservación y restauración del equilibrio ecológico a que tienen derecho los habitantes del Estado, estarán encomendadas a la Procuraduría Ecológica.
+El Ejecutivo garantizará la conservación del patrimonio natural de la Entidad, la protección del ambiente y la preservación y restauración del equilibrio ecológico a que tienen derecho los habitantes del Estado.
 
 ### CAPITULO III.
 
@@ -1336,7 +1330,9 @@ DEL PODER JUDICIAL.
 
 ###### Artículo 86.
 
-El ejercicio del Poder Judicial se deposita en el Tribunal superior de Justicia del Estado y en los Tribunales o Juzgados inferiores que establezca la Ley; pero su representación corresponderá siempre al Tribunal Superior.
+El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia del Estado, en los juzgados que establezca la Ley y en el Consejo de la Judicatura Estatal. La representación del Poder Judicial corresponderá siempre al Tribunal Superior.
+
+El Consejo de la Judicatura tendrá las atribuciones que se señalan en el artículo 92-A de esta Constitución.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 1989)</small>
 
@@ -1344,47 +1340,97 @@ El ejercicio del Poder Judicial se deposita en el Tribunal superior de Justicia 
 
 La Ley establecerá y organizará los Tribunales, garantizará la independencia de Magistrados y Jueces en el ejercicio de sus funciones, determinará sus atribuciones y marcará los procedimientos a que deberán sujetarse para ejercitarlas. Los nombramientos de los Magistrados y Jueces, serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la Profesión Jurídica.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
+
 ###### Artículo 88.
 
-Los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia y sus respectivos Secretarios, no podrán desempeñar empleo o cargo de la Federación, del Estado, de los Municipios ni de particulares, por el que reciban alguna remuneración, a no ser que sean de Educación Pública o de Beneficencia y que no les impidan el expedito ejercicio de sus funciones. La infracción de esta disposición será castigada con la pérdida del cargo de Magistrado, Juez o Secretario.
+Los Magistrados del Tribunal Superior de Justicia, los Jueces, los respectivos Secretarios y los Consejeros de la Judicatura Estatal, no podrán desempeñar empleo o cargo de la Federación, del Estado, de los Municipios ni de particulares, por el que reciban alguna remuneración, a no ser que sean de educación o de beneficencia y que no les impidan el expedito ejercicio de sus funciones. La infracción de esta disposición será castigada con la pérdida del cargo.
 
 ### CAPITULO V.
 
 DE LA DEFENSORIA PUBLICA.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
+
 ###### Artículo 89.
 
-El Tribunal Superior de Justicia del Estado, se compondrá cuando menos de siete Magistrados Propietarios e igual número de Suplentes, que durarán seis años en el ejercicio de su cargo, el cual coincidirá con el del Poder Ejecutivo. Podrán ser reelectos, y si lo fueren sólo podrán ser privados de sus puestos en los términos del Título Séptimo de ésta Constitución. Sus nombramientos serán hechos por el Gobernador y sometidos a la aprobación del Congreso Local, el que decidirá al respecto dentro del improrrogable término de tres días; sino resolviera en dicho plazo, se tendrán por aprobados. Sin la aprobación expresa o tácita del Congreso, los Magistrados no podrán tomar posesión de sus cargos.
+El Tribunal Superior de Justicia del Estado se compondrá de los Magistrados Numerarios que se requiera para la integración de las Salas que lo conformen, y cuando menos de tres Supernumerarios. Los nombramientos de los Magistrados serán hechos por el Congreso de entre la terna que someta a su consideración el Consejo de la Judicatura Estatal.
 
-En el caso de que la Cámara no apruebe dos nombramientos sucesivos respecto de una misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego como provisional y que será sometido a la consideración del Congreso en el siguiente Período Ordinario de Sesiones.
+Los Magistrados del Tribunal Superior de Justicia rendirán su protesta ante la Cámara o la Diputación Permanente, durarán en su cargo seis años. Si concluido dicho término fueren ratificados serán inamovibles y sólo podrán ser removidos en los términos del Título Séptimo de esta Constitución.
 
-En éste Período de Sesiones, dentro de los primeros cinco días, la Cámara deberá resolver sobre el nombramiento; si lo aprueba o no resuelve, el Magistrado continuará en funciones con carácter definitivo. Si la cámara desecha el nombramiento, cesará de inmediato en su ejercicio el Magistrado nombrado provisionalmente y el Gobernador someterá un nuevo nombramiento a la Cámara, en los términos señalados.
-
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1995)</small>
 
 ###### Artículo 90.
 
-Para ser Magistrado, Propietario o Suplente, del Tribunal Superior de Justicia, se requiere:
+Para ser Magistrado del Tribunal Superior de Justicia se requiere:
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1989)</small>
 
 I.- Ser Ciudadano Mexicano por nacimiento, de preferencia morelense, y estar en pleno ejercicio de sus derechos políticos y civiles.
 
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1989)</small>
+
 II.- Haber residido en el Estado durante los últimos diez años, salvo el caso de ausencia por un tiempo máximo de seis meses, motivado por el desempeño del Servicio Público.
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1989)</small>
 
 III.- Poseer al momento de su designación, con antigüedad mínima de cinco años, Título de Licenciado en Derecho, expedido por la Autoridad o Institución legalmente facultada para ello.
 
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1989)</small>
+
 IV.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la designación.
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1989)</small>
 
 V.- Tener cinco años de ejercicio profesional por lo menos, o tres si se ha dedicado a la Judicatura.
 
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 1989)</small>
+
 VI.- Ser de reconocida honorabilidad y no haber sido condenado por delito intencional que merezca pena corporal de más de un año de prisión, o destituido o suspendido de empleo, si se trata de juicio de responsabilidad; pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que afecte seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
 ###### Artículo 91.
 
-Los Magistrados Propietarios integrarán el Tribunal Superior; y los suplentes entrarán a ejercer sus funciones en las faltas temporales o absolutas de aquéllos, en los términos que disponga la Ley. También suplirán a los Magistrados Propietarios en el conocimiento de determinados negocios, por excusa o recusación de los mismos, cuando no puedan ser suplidos por otro Magistrado Propietario.
+Los Magistrados Numerarios integrarán el pleno del Tribunal Superior de Justicia.
+
+El pleno del Tribunal Superior de Justicia estará facultado para expedir acuerdos generales tendientes a lograr una adecuada distribución entre las salas de los asuntos de la competencia del propio Tribunal.
+
+Los Magistrados supernumerarios constituirán la Sala Auxiliar y, además, sustituirán a los numerarios en el conocimiento de determinados negocios, por excusa o recusación de los mismo. Igualmente, suplirán a los numerarios en las faltas temporales de éstos y en los demás casos que disponga la Ley.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
 ###### Artículo 92.
 
-Los Magistrados suplentes sólo disfrutarán de emolumentos durante el tiempo en que ejerzan sus funciones, y percibirán los que les correspondan con arreglo a las leyes, cuando sólo intervengan en el conocimiento de determinados negocios, en los casos de excusa y recusación de los propietarios.
+Se crea el Consejo de la Judicatura Estatal, integrado por cinco miembros, de los cuales uno será el Presidente del Tribunal Superior de Justicia, quién también lo será del Consejo; un Magistrado numerario; un Juez de Primera Instancia; un representante designado por el Ejecutivo del Estado y un representante de la Facultad de Derecho y Ciencias Sociales de la Universidad Autónoma del Estado de Morelos. Los Consejeros deberán reunir los requisitos exigidos para ser Magistrado del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 1995)</small>
+
+El Consejo de la Judicatura Estatal se integrará en la forma y términos que señale la ley reglamentaria.
+
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 1995)</small>
+
+###### Artículo 92-A.
+
+Son facultades del Consejo de la Judicatura Estatal:
+
+I.- Presentar a la consideración del Congreso la terna para la designación de Magistrados del Tribunal Superior de Justicia, y someter sus licencias y renuncias a la aprobación del propio Congreso o, en su caso, de la Diputación permanente.
+
+II.- Convocar, conforme a las modalidades establecidas por la ley, a concurso de méritos y a examen de oposición, para efecto de designar a los Jueces integrantes del Poder Judicial.
+
+Los Jueces de Primera Instancia y los que con cualquier otra denominación se designe, serán adscritos y removidos del cargo por el voto de la mayoría simple del total de los miembros del Consejo de la Judicatura Estatal.
+
+III.- Expedir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo dispuesto en la ley.
+
+IV.- Tener a su cargo la administración, vigilancia y disciplina del Poder Judicial, de acuerdo con lo que establezca la ley.
+
+V.- Iniciar, a solicitud del pleno del Tribunal Superior de Justicia, investigación sobre la conducta de algún Juez u otro funcionario o empleado del Poder Judicial.
+
+VI.- Elaborar el presupuesto del Tribunal Superior de Justicia, de los Juzgados y demás órganos Judiciales, y remitirlo para su inclusión en el proyecto de presupuesto de Egresos del Estado.
+
+VII.- Nombrar y remover, de conformidad con lo establecido en la ley, a los funcionarios y empleados del Poder Judicial, con excepción de los Secretarios de Acuerdos, Secretarios de Estudio y Cuenta y Actuarios del Tribunal Superior de Justicia, cuyo nombramiento y remoción será facultad del pleno y las Salas del Tribunal, según el caso y de acuerdo con lo que la ley establezca.
+
+VIII.- Resolver sobre los demás asuntos que determine la ley.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1967)</small>
 
@@ -1402,23 +1448,23 @@ El Tribunal Superior designará a uno de sus miembros como Presidente, en los t�
 
 El cargo de Magistrado del Tribunal Superior de Justicia sólo es renunciable por causa grave calificada por el Congreso, ante el que se presentará la renuncia; y en los recesos de éste, ante la Diputación Permanente, quien hará la calificación.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
+
 ###### Artículo 96.
 
-Las licencias de los Magistrados que no excedan de treinta días, serán concedidas por el Tribunal Superior, el que llamará al suplente que corresponda, para cubrir la vacante. Las que excedan de este término, serán concedidas por el Congreso y en sus recesos por la Diputación Permanente.
+Las licencias de los Magistrados que no excedan de treinta días, serán concedidas por el Pleno del Tribunal Superior de Justicia. Las que excedan de ese término, serán concedidas por el Congreso y en sus recesos por la Diputación permanente.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1967)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1997)</small>
 
 ###### Artículo 97.
 
-Las faltas absolutas de los Magistrados propietarios ó suplentes, se cubrirán mediante nombramientos en los términos del Artículo 89 anterior, y los designados durarán en ejercicio de su cargo hasta que finalice el período constitucional para el cual fueron elegidos los ausentes. Mientras se cumplan los trámites legales, ocuparán los puestos vacantes de los Magistrados propietarios, los suplentes, en el orden de su antigüedad.
+Las faltas absolutas de los Magistrados se cubrirán mediante nombramiento, en términos del Artículo 89.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1989)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
 ###### Artículo 98.
 
-Los Magistrados y Jueces percibirán una remuneración adecuada a su alta responsabilidad. Tal remuneración será irrenunciable y no podrá ser disminuida durante el ejercicio del cargo. Sólo podrán ser removidos de sus cargos cuando observen mala conducta y previo juicio de responsabilidad, sin perjuicio, por lo que a los Jueces se refiere, de la facultad que concede al Tribunal Superior, la Fracción XIII del Artículo siguiente.
-
-No se considerará remoción, el hecho de que los Jueces sean promovidos a grado superior.
+Los Magistrados, los Jueces y los Consejeros de la Judicatura Estatal percibirán una remuneración adecuada a su alta responsabilidad, la cual será irrenunciable y no podrá ser disminuida durante el ejercicio del cargo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -1428,11 +1474,7 @@ Corresponde al Tribunal Superior de Justicia:
 
 I.- Iniciar ante el Congreso del Estado las Leyes y Decretos que tiendan a mejorar la organización de los Tribunales del mismo, la legislación civil y penal y los procedimientos judiciales.
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
-
-II.- Conocer y resolver sobre la responsabilidad en que incurran los jueces de Primera Instancia en cumplimiento a lo establecido en el primer párrafo del Artículo 142 de esta Constitución.
-
-Si dicha responsabilidad es de naturaleza penal remitirá el expediente al Procurador de Justicia del Estado para los efectos de su representación legal.
+II.- (DEROGADA, P.O. 22 DE MARZO DE 1995)
 
 III.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 1980)
 
@@ -1448,29 +1490,23 @@ VII.- Conocer de la segunda instancia en los negocios que la tengan para ante é
 
 VIII.- Consultar al Congreso las dudas de Ley que ocurran al mismo Tribunal Superior y a los Jueces inferiores, si estimare que éstas son fundadas.
 
-IX.- Nombrar a los Jueces de Primera Instancia a propuesta en terna del Ejecutivo.
+IX.- (DEROGADA, P.O. 22 DE MARZO DE 1995)
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 1967)</small>
-
-X.- Nombrar y remover a los trabajadores al servicio del Poder Judicial de acuerdo con las leyes a que se refiere la fracción XIX del artículo 40.
+X.- (DEROGADA, P.O. 22 DE MARZO DE 1995)
 
 XI.- Conceder licencias a los Magistrados del Tribunal Superior que no excedan de treinta días, llamando al suplente respectivo.
 
 XII.- Dirimir las controversias que se susciten entre los Poderes Legislativo y Ejecutivo, por Leyes o actos de aquél que este último considere contrarias a la Constitución del Estado.
 
-XIII.- Suspender hasta por tres meses a los Jueces de Primera Instancia y a los de inferior categoría, por causas graves justificadas a juicio del Tribunal y que no constituyan motivo de responsabilidad penal.
+XIII.- (DEROGADA, P.O. 22 DE MARZO DE 1995)
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 1967)</small>
+XIV.- (DEROGADA, P.O. 22 DE MARZO DE 1995)
 
-XIV.- Nombrar a los Jueces Municipales de Paz de las ternas propuestas por los Ayuntamientos.
+XV.- (DEROGADA, P.O. 22 DE MARZO DE 1995)
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 1995)</small>
 
-XV.- Designar Magistrados o Jueces supernumerarios, a fin de obtener una justicia pronta y expedita.
-
-> <small>(ADICIONADA, P.O. 2 DE ENERO DE 1979)</small>
-
-XVI.- Designar a uno o más de sus miembros, a petición del Ejecutivo del Estado, a petición de un Presidente Municipal o de oficio, para que investigue la actuación de algún Magistrado o Juez, o de algún hecho o hechos que constituyen la violación de una garantía individual.
+XVI.- Designar a uno o más de sus miembros, a petición del Ejecutivo del Estado, a petición de un Presidente Municipal o de oficio, para que investigue la actuación de algún Magistrado, en relación con algún hecho o hechos que constituyan violación de una garantía individual.
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 1979)</small>
 
@@ -1508,11 +1544,11 @@ DE LA ORGANIZACION DE LOS MUNICIPIOS.
 
 Habrá el número de Jueces de Primera Instancia que ejercerán sus funciones en los ramos civil y penal en los Distritos Judiciales que determine la Ley.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 1989)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
 ###### Artículo 103.
 
-Los Jueves (sic) de Primera Instancia y los que con cualquiera otra denominación se designen, serán nombrados por el Tribunal Superior de Justicia del Estado, a propuesta en terna, del Titular del Poder Ejecutivo. Deberán reunir los requisitos que determine la Ley. Durarán seis años en el ejercicio de sus funciones cuyo inicio y término de los mismos, coincidirá con el Período del Titular del Poder Ejecutivo durante el cual se les designe, y tendrán la jurisdicción que les asigne la Ley Orgánica del Tribunal Superior de Justicia del Estado.
+Los Consejeros ejercerán su función con independencia e imparcialidad. Durarán en su cargo cinco años, salvo el Presidente del Consejo; podrán ser nombrados por una sola vez, para un nuevo período. Durante su cargo, los Consejeros sólo podrán ser removidos en los términos del Título Séptimo de la Presente Constitución.
 
 ###### Artículo 104.
 
@@ -1538,13 +1574,13 @@ PRINCIPIOS GENERALES DE ADMINISTRACION PUBLICA.
 
 ###### Artículo 108.
 
-La Defensoría Pública tiene por objeto defender a los que lo soliciten en materia civil y administrativa, y en lo penal se sujetará a lo dispuesto por la fracción IX del artículo 20 de Constitución General de la República y por la Ley Orgánica respectiva.
+La Defensoría Pública ejercerá las funciones que en materia penal le atribuye el Artículo 20, Fracción IX, de la Constitución General de la República y las demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
 ###### Artículo 109.
 
-El personal de la Defensoría Pública dependerá directamente del Ejecutivo del Estado; será nombrado y removido libremente por él y estará formado por un Abogado que será el Jefe y por el cuerpo de defensores que la integren.
-
-La Ley organizará la Defensoría Pública y determinará la forma en que deba ejercer sus funciones.
+El personal de la Defensoría Pública dependerá del Ejecutivo del Estado y será nombrado y removido libremente por el Secretario General de Gobierno.
 
 ## TITULO SEXTO.
 
@@ -1592,7 +1628,7 @@ Los Municipios del Estado, cuando así fuere necesario y lo determinen las Leyes
 
 a).- Agua Potable y Alcantarillado,
 
-b).- Alumbrado Público,
+b).- Alumbrado Público;
 
 c).- Limpia;
 
@@ -1846,27 +1882,27 @@ Para los efectos de las Responsabilidades a que se refiere este Título se reput
 
 Al Gobernador sólo se le podrá exigir responsabilidad durante su encargo por violación expresa a esta Constitución, ataques a la libertad electoral y delitos graves del orden común.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
 ###### Artículo 135.
 
-El Gobernador, los Diputados al Congreso del Estado y los Magistrados del Tribunal Superior de Justicia son responsables en los términos del Título Cuarto de la Constitución General de la República.
+El Gobernador, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia y los miembros del Consejo de la Judicatura Estatal son responsables en los términos del Título Cuarto de la Constitución General de la República.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1995)</small>
 
 ###### Artículo 136.
 
-Para proceder penalmente en contra de los Diputados al Congreso del Estado, el Gobernador, los Secretarios de Despacho, el Procurador General de Justicia y los Magistrados del Tribunal Superior de Justicia por la Comisión de Delitos durante el tiempo de su encargo, el Congreso del Estado, declarará por mayoría absoluta de votos del total de los miembros previa audiencia del acusado por sí, por su defensor o por ambos, si ha lugar o no a formación de causa. En caso negativo cesará todo procedimiento en contra del Servidor Público, sin perjuicio de que la acusación continúe cuando éste termine su cargo. En caso afirmativo, quedará suspendida en el ejercicio de sus funciones y a disposición de los Tribunales comunes, para la instrucción del proceso respectivo. En el caso de los Presidentes Municipales la declaración será hecha por el Pleno del Tribunal Superior de Justicia procediéndose los demás en los mismos términos.
-
-La Comisión correspondiente del Congreso del Estado, instruirá el expediente sobre el que deba determinar. La decisión del Congreso es inatacable.
+Para proceder penalmente en contra de los Diputados al Congreso del Estado, el Gobernador, los Secretarios de Despacho, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia y los Consejeros de la Judicatura Estatal por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría absoluta del total de los miembros previa audiencia del acusado por sí, por su defensor o por ambos si ha lugar o no a formación de causa.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
+La Comisión correspondiente del Congreso del Estado, instruirá el expediente sobre el que deba determinar. La decisión del Congreso es inatacable.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
+
 ###### Artículo 137.
 
-Son responsables y serán sometidos a Juicio Político en su caso, por actos u omisiones en perjuicio de los intereses públicos fundamentales o de su buen despacho los Diputados al Congreso del Estado, los Secretarios de Despacho, el Procurador General de Justicia, los miembros de los Ayuntamientos Municipales, los Magistrados del Tribunal Superior de Justicia y los Jueces de Primera Instancia.
-
-En el Juicio Político conocerá el Congreso como Jurado de declaración y el Tribunal Superior de Justicia integrado por el total de sus miembros como Jurado de Sentencia.
+Son responsables y serán sometidos a juicio político en su caso, por actos u omisiones en perjuicio de los intereses públicos fundamentales o de su buen despacho, los Diputados al Congreso del Estado, los Secretarios de Despacho, el Procurador General de Justicia, los Magistrados del Tribunal Superior de Justicia, los integrantes del Consejo de la Judicatura Estatal y los miembros de los Ayuntamientos Municipales.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
@@ -1914,13 +1950,11 @@ La responsabilidad que dé origen a Juicio Político sólo podrá exigirse contr
 
 La Responsabilidad Penal de los Servidores Públicos no comprendidos en el Artículo 136 y 145 se exigirá ante las Autoridades competentes mediante los procedimientos establecidos por la Ley sin que se requiera declaración o requisito previo alguno.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
 ###### Artículo 145.
 
-La responsabilidad administrativa en que incurran los Jueces de Primera Instancia y de Paz serán del conocimiento y resolución del Tribunal Superior de Justicia.
-
-Cuando dichos Jueces incurran en la comisión de delito serán juzgados en la forma que establecen las leyes respectivas previa solicitud del Tribunal Superior de Justicia para que suspenda en sus funciones al presunto responsable.
+La responsabilidad administrativa en que incurran los jueces de primera instancia y los que con cualquier otra denominación se designen, serán del conocimiento y resolución del Consejo de la Judicatura Estatal. Cuando dichos jueces incurran en la comisión de delito serán juzgados en la forma que establecen las leyes respectivas, previa solicitud del Consejo de la Judicatura Estatal para que suspenda en sus funciones al presunto responsable.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
@@ -2180,6 +2214,8 @@ SEGUNDO.- Remítase al Ejecutivo del Estado, para los efectos de su promulgació
 
 P.O. 29 DE DICIEMBRE DE 1983.
 
+DECRETO NUMERO 76
+
 UNICO.- El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 29 DE DICIEMBRE DE 1983.
@@ -2345,3 +2381,21 @@ P.O. 13 DE OCTUBRE DE 1993.
 ###### ARTICULO UNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+P.O. 22 DE MARZO DE 1995.
+
+DECRETO NUMERO 212
+
+PRIMERO.- Se deroga la Ley Orgánica de la Procuraduría Ecológica, publicada en el Periódico Oficial "Tierra y Libertad" Número 3600, de fecha siete de agosto de mil novecientos noventa y dos.
+
+SEGUNDO.- Remítase el presente decreto al Titular del Poder Ejecutivo del Estado para los efectos que indican los Artículos 50, 147 y 148 de la Constitución Política del Estado de Morelos.
+
+TERCERO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+P.O. 22 DE MARZO DE 1995.
+
+DECRETO NUMERO 214
+
+PRIMERO.- Remítase la presente Minuta Proyecto de Decreto a los Honorables Ayuntamientos Constitucionales en el Estado, para los efectos que indica el artículo 147 de la Constitución Política del Estado de Morelos.
+
+SEGUNDO.- Cumplidos los requisitos legales correspondientes, el Decreto respectivo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" Organo del Gobierno del Estado de Morelos.
