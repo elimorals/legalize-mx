@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2000-01-13"
+last_updated: "2002-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-12-31"
 
 LEY AMBIENTAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE ENERO DE 2002.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -58,7 +58,9 @@ II. Regular el ejercicio de las facultades de las autoridades de la Administraci
 
 III. Conservar y restaurar el equilibrio ecológico, así como prevenir los daños al ambiente, de manera que sean compatibles la obtención de beneficios económicos y las actividades de la sociedad con la conservación de los ecosistemas;
 
-IV. Regular el establecimiento de las áreas naturales protegidas de competencia del Distrito Federal, así como manejar y vigilar aquellas cuya administración se asuma por convenio con la Federación, estados o municipios;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
+
+IV. Establecer y regular las áreas verdes, áreas de valor ambiental y áreas naturales protegidas de competencia del Distrito Federal, así como manejar y vigilar aquellas cuya administración se asuma por convenio con la Federación, estados o municipios;
 
 V. Prevenir y controlar la contaminación del aire, agua y suelo en el Distrito Federal en aquellos casos que no sean competencia de la Federación;
 
@@ -80,9 +82,31 @@ III. En la conservación y control de la contaminación del suelo;
 
 IV. En la conservación, restauración y aprovechamiento sustentable de los recursos naturales de jurisdicción del Distrito Federal;
 
-V. En la protección y conservación de la flora y fauna en las áreas naturales protegidas y en el suelo de conservación competencia del Distrito Federal; y
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
 
-VI. En la evaluación y autorización del impacto ambiental y riesgo de obras y actividades.
+V. En la protección y preservación de la flora y fauna en las áreas verdes, áreas de valor ambiental y áreas naturales protegidas y en el suelo de conservación competencia del Distrito Federal;
+
+VI. En la evaluación y autorización del impacto ambiental y riesgo de obras y actividades;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
+
+VII. En la política de desarrollo sustentable y los instrumentos para su aplicación;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
+
+VIII. En el establecimiento de las competencias de las autoridades ambientales;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
+
+IX. En la prevención, control y acciones contra la contaminación ambiental;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
+
+X. En la prestación de servicios ambientales; y
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
+
+XI. En el establecimiento de medidas de control, seguridad y sanciones.
 
 ###### ARTÍCULO 3°.
 
@@ -90,9 +114,13 @@ Se consideran de utilidad pública:
 
 I. El ordenamiento ecológico del territorio del Distrito Federal;
 
-II. El establecimiento, protección, conservación, restauración y mejoramiento de: las áreas naturales protegidas de competencia del Distrito Federal; de los suelos de conservación y de las zonas de restauración ecológica, para la conservación de los ecosistemas y elementos naturales;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
 
-III. El establecimiento de zonas intermedias de salvaguarda y protección conservación ecológica en el suelo de conservación y el suelo urbano, las áreas de producción agropecuaria y la zona federal de las barrancas, humedales, vasos de presas, cuerpos y corrientes de aguas;
+II. El establecimiento, protección, preservación, restauración y mejoramiento de las áreas verdes, áreas de valor ambiental, áreas naturales protegidas de competencia del Distrito Federal, las zonas de restauración ecológica y en general del suelo de conservación, para la preservación de los ecosistemas y elementos naturales;
+
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
+
+III. El establecimiento de zonas intermedias de salvaguarda; las áreas de producción agropecuaria, y la zona federal de las barrancas, humedales, vasos de presas, cuerpos y corrientes de aguas;
 
 IV. La prevención y control de la contaminación ambiental del aire, agua y suelo, así como el cuidado, restauración y aprovechamiento de los elementos naturales y de los sitios necesarios para asegurar la conservación e incremento de la flora y fauna silvestres;
 
@@ -104,41 +132,23 @@ VII. La participación social encaminada al desarrollo sustentable del Distrito 
 
 VIII. La elaboración y aplicación de planes y programas que contengan políticas de desarrollo integral de la entidad bajo criterios ambientales.
 
-###### ARTÍCULO 4°.
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
 
-En todo lo no previsto por esta Ley, serán supletorias las disposiciones de:
+###### ARTÍCULO 4º.
 
-I. La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+En todo lo no previsto en la presente Ley, se aplicarán las disposiciones contenidas en otras leyes, reglamentos, normas y demás ordenamientos jurídicos relacionados con las materias que regula este ordenamiento.
 
-II. La Ley de Aguas Nacionales;
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2002)</small>
 
-III. La Ley Forestal;
+###### ARTÍCULO 5º.
 
-IV. La Ley de Sanidad Vegetal;
-
-V. La Ley de Sanidad Animal;
-
-VI. La Ley de Protección Civil para el Distrito Federal;
-
-VII. La Ley de Planeación del Desarrollo del Distrito Federal;
-
-VIII. La Ley de Desarrollo Urbano del Distrito Federal;
-
-IX. La Ley de Protección a los Animales del Distrito Federal;
-
-X. La Ley de Procedimiento Administrativo del Distrito Federal;
-
-XI. El Código Civil para el Distrito Federal en materia del fuero común y para toda la República en materia del fuero federal;
-
-XII. El Código Penal para el Distrito Federal en materia del fuero común y para toda la República en materia del fuero federal; y
-
-XIII. La Ley de Participación Ciudadana del Distrito Federal.
-
-###### ARTÍCULO 5°.
-
-Para los efectos de esta ley, se estará a las definiciones de conceptos que se contienen en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Aguas Nacionales y la Ley Forestal, así como las siguientes:
+Para los efectos de esta Ley, se estará a las definiciones de conceptos que se contienen en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley de Aguas Nacionales y la Ley Forestal, así como las siguientes:
 
 ACTIVIDAD RIESGOSA: toda acción u omisión que ponga en peligro la integridad de las personas o del ambiente, en virtud de la naturaleza, características o volumen de los materiales o residuos que se manejen, de conformidad con las normas oficiales mexicanas, los criterios o listados en materia ambiental que publiquen las autoridades competentes en el Diario Oficial de la Federación y la Gaceta Oficial del Distrito Federal;
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+ADMINISTRACIÓN: La planeación, instrumentación, promoción, ejecución, control y evaluación de las acciones que en el ámbito público y en materia de protección, preservación, restauración y desarrollo se realicen en las áreas verdes, áreas de valor ambiental y áreas naturales protegidas, así como la coordinación de la investigación científica, monitoreo ambiental, capacitación y asesoría técnica que respecto a dichas áreas y sus elementos se lleven a cabo;
 
 ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL: conjunto de órganos, centrales, desconcentrados y paraestatales, conforme a la Ley Orgánica que expida la Asamblea Legislativa, la cual distribuirá los negocios del orden administrativo del Distrito Federal;
 
@@ -146,7 +156,13 @@ AGUAS RESIDUALES: Son las provenientes de actividades domésticas, industriales,
 
 AMBIENTE: El conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinados. Deberá entenderse también como medio ambiente;
 
-AREAS NATURALES PROTEGIDAS: las zonas sujetas a conservación ecológica, los parques locales y urbanos establecidos en el Distrito Federal para la conservación, restauración y mejoramiento ambiental;
+> <small>(REFORMADO G.O. 31 DE ENERO DE 2002)</small>
+
+ÁREAS NATURALES PROTEGIDAS: Los espacios físicos naturales en donde los ambientes originales no han sido significativamente alterados por actividades antropogénicas, o que requieren ser preservadas y restauradas, por su estructura y función para la recarga del acuífero y la preservación de la biodiversidad. Son áreas que por sus características ecogeográficas, contenido de especies, bienes y servicios ambientales y culturales que proporcionan a la población, hacen imprescindible su preservación;
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+ÁREAS DE VALOR AMBIENTAL: Las áreas verdes en donde los ambientes originales han sido modificados por las actividades antropogénicas y que requieren ser restauradas o preservadas, en función de que aún mantienen ciertas características biofísicas y escénicas, las cuales les permiten contribuir a mantener la calidad ambiental de la Ciudad;
 
 ÁREA VERDE: Toda superficie cubierta de vegetación, natural o inducida que se localice en el Distrito Federal;
 
@@ -216,7 +232,9 @@ LEY: Ley Ambiental del Distrito Federal;
 
 LEY GENERAL: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
-MANEJO: Conjunto de actividades que incluyen, tratándose de recursos naturales, la extracción, utilización, explotación, aprovechamiento, administración, conservación, restauración, desarrollo, mantenimiento y vigilancia; o tratándose de materiales o residuos, el almacenamiento, recolección, transporte, alojamiento, reuso, tratamiento, reciclaje, incineración y disposición final;
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+
+MANEJO: Conjunto de actividades que incluyen, tratándose de recursos naturales, la extracción, utilización, explotación, aprovechamiento, administración, preservación, restauración, desarrollo, mantenimiento y vigilancia; o tratándose de materiales o residuos, el almacenamiento, recolección, transporte, alojamiento, reuso, tratamiento, reciclaje, incineración y disposición final;
 
 MANIFESTACIÓN DE IMPACTO AMBIENTAL: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental, significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
 
@@ -228,9 +246,13 @@ NORMAS OFICIALES: Las normas oficiales mexicanas aplicables en materia ambiental
 
 ORDENAMIENTO ECOLÓGICO: La regulación ambiental obligatoria respecto de los usos del suelo fuera del suelo urbano, del manejo de los recursos naturales y la realización de actividades para el suelo de conservación y barrancas integradas a los programas de desarrollo urbano;
 
-PARQUES LOCALES: Las áreas verdes de uso público localizadas en las demarcaciones territoriales;
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
 
-PARQUES URBANOS: Las áreas verdes de uso público constituidas dentro del suelo urbano para conservar el equilibrio entre éste y los ecosistemas naturales de las demarcaciones territoriales;
+PARQUES: Las áreas verdes o espacios abiertos jardinados de uso público, ubicados dentro de suelo urbano o dentro de los límites administrativos de la zona urbana de los centros de población y poblados rurales en suelo de conservación, que contribuyen a mantener el equilibrio ecológico dentro de las demarcaciones en que se localizan, y que ofrecen fundamentalmente espacios recreativos para sus habitantes;
+
+PARQUES LOCALES: (DEROGADO, G.O. 31 DE ENERO DE 2002)
+
+PARQUES URBANOS: (DEROGADO, G.O. 31 DE ENERO DE 2002)
 
 PLATAFORMAS O PUERTOS DE MUESTREO: Instalaciones que permiten el análisis y medición de las descargas de contaminantes o materiales de una fuente fija a la atmósfera, agua, suelo o subsuelo, de acuerdo con las Normas Oficiales;
 
@@ -262,9 +284,13 @@ RIESGO AMBIENTAL: Peligro al que se expone el ecosistema como consecuencia de la
 
 SECRETARÍA: Secretaría del Medio Ambiente del Gobierno del Distrito Federal;
 
-SUELO DE CONSERVACIÓN: El territorio clasificado por los Programas de Desarrollo Urbano, que comprende las áreas fuera de los límites del centro de población;
+> <small>(REFORMADO Y REUBICADO, G.O. 31 DE ENERO DE 2002)</small>
 
-SUELO URBANO: Constituyen las zonas a las que los Programas de Desarrollo Urbano clasifique como tales por contar con infraestructura, equipamiento y servicios;
+SUELO URBANO: La clasificación establecida en la fracción I del artículo 30 de la Ley de Desarrollo Urbano del Distrito Federal, incluidas las áreas verdes dentro de los límites administrativos de la zona urbana de los centros de población y poblados rurales localizados en suelo de conservación que establece el programa general de ordenamiento ecológico;
+
+> <small>(REFORMADO Y REUBICADO, G.O. 31 DE ENERO DE 2002)</small>
+
+SUELO DE CONSERVACIÓN: La clasificación establecida en la fracción II del artículo 30 de la Ley de Desarrollo Urbano del Distrito Federal;
 
 TRÁFICO DE ESPECIES: Flora y fauna cuyo comercio está prohibido en la legislación aplicable;
 
@@ -272,7 +298,11 @@ TRATAMIENTO: Acción de transformar las características de los residuos;
 
 VERIFICADORES AMBIENTALES: Los prestadores de servicio de verificación de emisiones contaminantes autorizados por la Secretaría;
 
-VOCACIÓN NATURAL: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
+VOCACIÓN NATURAL: Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos;
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+ZONAS DE RECARGA DE MANTOS ACUÍFEROS: Las zonas en predios no construidos que por su ubicación reciben una precipitación pluvial superior a la media para el Distrito Federal y que por las características de suelo y subsuelo son permeables para la captación de agua de lluvia que contribuye a la recarga de los mantos acuíferos.
 
 ## TÍTULO SEGUNDO. DE LAS AUTORIDADES AMBIENTALES
 
@@ -322,7 +352,9 @@ VII. Celebrar convenios o acuerdos de coordinación y colaboración administrati
 
 VIII. Celebrar convenios mediante los cuales se obtengan recursos materiales y económicos para realizar investigaciones pertinentes a la problemática ambiental del Distrito Federal;
 
-IX. Expedir los decretos declaratorios que establezcan áreas naturales protegidas de jurisdicción del Distrito Federal, y en su caso, proponer a la Asamblea Legislativa del Distrito Federal los decretos por los que se modifiquen;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
+
+IX. Expedir los decretos que establezcan áreas de valor ambiental, zonas de restauración ecológica, zonas intermedias de salvaguarda y áreas naturales protegidas de jurisdicción del Distrito Federal;
 
 X. Expedir el programa sectorial ambiental y el programa de ordenamiento ecológico del Distrito Federal;
 
@@ -360,7 +392,17 @@ XII. Establecer o en su caso proponer la creación de instrumentos económicos q
 
 XIII. Administrar, ejecutar y controlar el fondo ambiental así como informar sobre el uso de los recursos y presentar los resultados dentro del informe anual que rinda a la Asamblea;
 
-XIV. Proponer la creación de áreas naturales protegidas, así como regularlas, vigilarlas y administrarlas a fin de lograr la conservación y el aprovechamiento sustentable de los recursos naturales presentes en dichas áreas;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
+
+XIV. Proponer la creación de áreas de valor ambiental y áreas naturales protegidas, así como regularlas, vigilarlas y administrarlas en los términos de esta Ley, a fin de lograr la preservación y el aprovechamiento sustentable de los recursos naturales presentes en dichas áreas;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
+
+XIV Bis. Celebrar convenios con las delegaciones para que éstas se encarguen de la administración y preservación de las áreas naturales protegidas de competencia de la Secretaría, así como para delegar facultades que estén conferidas por esta Ley y demás ordenamientos aplicables a la Secretaría;
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
+
+XIV Bis 1. Formular y conducir la política de la flora y fauna silvestres en el ámbito de competencia del Distrito Federal, así como ejercer las atribuciones federales que sean objeto de convenio;
 
 XV. Proponer la declaración de zonas de restauración ecológica;
 
@@ -432,9 +474,13 @@ XLVII. Las demás que le confieren esta y otras Leyes, así como las que se deri
 
 Corresponde a cada una de las delegaciones del Distrito Federal:
 
-I. Proponer el establecimiento de zonas de conservación ecológica y de parques urbanos;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
 
-II. Opinar respecto del establecimiento de áreas naturales protegidas dentro de su circunscripción territorial y participar en su vigilancia;
+I. Proponer y opinar, según el caso, respecto del establecimiento de áreas de valor ambiental y áreas naturales protegidas dentro de su demarcación territorial, y participar en su vigilancia;
+
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
+
+II. Celebrar convenios con el Gobierno del Distrito Federal para la administración y preservación de las áreas naturales protegidas, los recursos naturales y la biodiversidad;
 
 III. Promover la participación de la ciudadanía en materia ambiental;
 
@@ -612,6 +658,24 @@ El Jefe de Gobierno del Distrito Federal formulará y evaluará, en coordinació
 
 El programa sectorial ambiental se evaluará anualmente por la Secretaría y presentará un informe ante la Asamblea, de los avances del mismo.
 
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+###### ARTÍCULO 27 Bis.
+
+En el Distrito Federal, los programas de desarrollo urbano se elaborarán atendiendo, además de las disposiciones jurídicas aplicables, los siguientes criterios:
+
+I. El cumplimiento y observancia del Programa General de Ordenamiento Ecológico del Distrito Federal;
+
+II. El cuidado de la proporción que debe existir entre las áreas verdes y las edificaciones destinadas a habitación, los servicios y en general otras actividades, siendo responsabilidad de las autoridades y de los habitantes del Distrito Federal la forestación y reforestación;
+
+III. La conservación de las áreas de uso agropecuario y forestal, evitando su fraccionamiento para fines de desarrollo urbano;
+
+IV. La integración de inmuebles de alto valor histórico, arquitectónico y cultural con áreas verdes y áreas de valor ambiental;
+
+V. La compatibilidad para crear zonas habitacionales entorno a centros industriales; y
+
+VI. La preservación de las áreas verdes existentes, evitando ocuparlas con obras o instalaciones que se contrapongan a su función.
+
 ### CAPÍTULO IV. ORDENAMIENTO ECOLÓGICO
 
 ###### ARTÍCULO 28.
@@ -780,11 +844,15 @@ I. Los programas que en general promuevan cambios de uso en el suelo de conserva
 
 II. Obras y actividades, o las solicitudes de cambio de uso del suelo que en los casos procedentes, pretendan realizarse en suelos de conservación;
 
-III. Obras y actividades que pretendan realizarse en áreas naturales protegidas de competencia del Distrito Federal;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
+
+III. Obras y actividades que pretendan realizarse en áreas de valor ambiental y áreas naturales protegidas de competencia del Distrito Federal;
 
 IV. Obras y actividades dentro de suelo urbano en los siguientes casos:
 
-a) Las que colinden con áreas naturales protegidas o suelos de conservación y con vegetación de cuerpos de aguas,
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+
+a) Las que colinden con áreas de valor ambiental, áreas naturales protegidas, suelo de conservación o con vegetación acuática;
 
 b) Nuevas actividades u obras de infraestructura, servicios o comerciales o sus ampliaciones, cuyos procesos requieran de medidas, sistemas o equipos especiales para no afectar los recursos naturales o para cumplir con las normas ambientales para el Distrito Federal; y
 
@@ -816,7 +884,9 @@ XVI. Obras de más de 10 mil metros cuadrados de construcción u obras nuevas en
 
 XVII. Construcción de estaciones de gas y gasolina.
 
-El reglamento de la presente Ley y, en su caso, los acuerdos administrativos correspondientes precisarán, respecto del listado anterior, los casos y modalidades para la presentación de las manifestaciones de impacto ambiental y riesgo.
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+
+El reglamento de la presente Ley y, en su caso, los acuerdos administrativos correspondientes precisarán, respecto del listado anterior, los casos y modalidades para la presentación de las manifestaciones de impacto ambiental y riesgo, así como la determinación de las obras o actividades que, no obstante estar previstas en los supuestos a que se refiere este artículo, por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos o no causen o puedan causar riesgos, y que por lo tanto no deban sujetarse al procedimiento de evaluación del impacto ambiental previsto en este ordenamiento.
 
 ###### ARTÍCULO 47.
 
@@ -858,9 +928,11 @@ Una vez presentados las observaciones y comentarios, la Secretaría los ponderar
 
 En su caso, la Secretaría deberá responder por escrito a los interesados las razones fundadas por las cuales los comentarios a que se refiere el párrafo primero de este artículo no fueron tomados en consideración dentro de la resolución correspondiente, pudiendo los afectados interponer el recurso de inconformidad a que se refiere esta Ley, en contra de la resolución por la cual la Secretaría ponga fin al procedimiento de evaluación de impacto ambiental.
 
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+
 ###### ARTÍCULO 52.
 
-Al realizar la evaluación del impacto ambiental, la autoridad competente se ajustará, entre otros aspectos, a los programas de ordenamiento ecológico del territorio, a los programas de desarrollo urbano, a las declaratorias de áreas naturales protegidas, sus programas de manejo, a las normas aplicables y las demás disposiciones jurídicas que resulten aplicables.
+Al realizar la evaluación del impacto ambiental, la autoridad se ajustará, entre otros aspectos, a los programas de ordenamiento ecológico del territorio; a los programas de desarrollo urbano; a las declaratorias de áreas de valor ambiental y de áreas naturales protegidas y sus programas de manejo; a las normas y demás disposiciones jurídicas que resulten aplicables.
 
 ###### ARTÍCULO 53.
 
@@ -888,9 +960,11 @@ Las personas que presten servicios de evaluación del impacto ambiental, serán 
 
 Asimismo, los informes preventivos, las manifestaciones de impacto ambiental y los estudios de riesgo podrán ser presentados por los interesados, instituciones de investigación, colegios o asociaciones profesionales; en este caso, la responsabilidad respecto del contenido del documento corresponderá a quienes lo suscriban.
 
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+
 ###### ARTÍCULO 55.
 
-Las obras o actividades a que se refiere el artículo 49 que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, o no causen desequilibrios ecológicos, ni rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la conservación del equilibrio ecológico y la protección al ambiente, no estarán sujetas a la evaluación de impacto ambiental. En estos casos, el responsable de la obra o actividad deberá presentar a la Secretaría el documento denominado informe preventivo, previo de iniciar la obra o actividad.
+Las obras o actividades a que se refiere el artículo 46 que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, o no causen desequilibro ecológicos, ni rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación del equilibrio ecológico y la protección al ambiente, no estarán sujetas a la evaluación de impacto ambiental. En estos casos, el responsable de la obra o actividad deberá presentar a la Delegación el documento denominado informe preventivo, en los supuestos establecidos en el reglamento, o bien, determinar las obras o actividades de que se trate requieran la presentación de una manifestación de impacto ambiental, previo de iniciar la obra o actividad.
 
 ###### ARTÍCULO 56.
 
@@ -1056,7 +1130,9 @@ Toda petición de información ambiental deberá presentarse por escrito, especi
 
 La Secretaría desarrollará un Sistema de Información Ambiental del Distrito Federal, en coordinación con el Sistema Nacional de Información Ambiental y de Recursos Naturales, que tendrá por objeto registrar, organizar, actualizar y difundir la información ambiental del Distrito Federal.
 
-En dicho Sistema, se integrarán, entre otros aspectos, información de los mecanismos y resultados obtenidos del monitoreo de la calidad del aire, del agua y del suelo; de las áreas naturales protegidas; del ordenamiento ecológico del territorio, así como la información relativa a emisiones atmosféricas, descargas de aguas residuales y residuos no peligrosos, y la correspondiente a los registros, programas y acciones que se realicen para la conservación del ambiente, protección ecológica y restauración del equilibrio ecológico.
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+
+En dicho Sistema se integrarán, entre otros aspectos, información de los mecanismos y resultados obtenidos del monitoreo de la calidad del aire, del agua y del suelo; de las áreas verdes, áreas de valor ambiental y áreas naturales protegidas; del ordenamiento ecológico del territorio, así como la información relativa a emisiones atmosféricas, descargas de aguas residuales y residuos no peligrosos, y la correspondiente a los registros, programas y acciones que se realicen para la preservación del ambiente, protección ecológica y restauración del equilibrio ecológico.
 
 La Secretaría y las Delegaciones, emitirán un informe público anual sobre el estado que guardan el ambiente y los recursos naturales de su jurisdicción.
 
@@ -1083,6 +1159,8 @@ III. Se trate de información aportada por terceros cuando los mismos no estén 
 IV. Se trate de información sobre inventarios e insumos y tecnología de proceso, incluyendo la descripción del mismo.
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
 
 ###### ARTÍCULO 80.
 
@@ -1126,15 +1204,35 @@ La autoridad estará obligada a informar al denunciante sobre el trámite que re
 
 ### CAPÍTULO II. ÁREAS VERDES
 
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+
 ###### ARTÍCULO 85.
 
-Los programas y actividades de reforestación, restauración o aprovechamiento de la flora y la fauna, procurarán la conservación y el desarrollo de las especies endémicas del Distrito Federal. El uso o aprovechamiento de este elemento natural se sujetará a los criterios de racionalidad que permitan garantizar la subsistencia de las especies, sin ponerlas en riesgo de extinción y permitiendo su regeneración en la cantidad y calidad necesarias para no alterar el equilibrio ecológico y las cadenas naturales.
+Para la protección, restauración, preservación y aprovechamiento sustentable de la biodiversidad, los recursos naturales y el suelo de conservación, así como el establecimiento, rehabilitación, protección y preservación de las áreas naturales protegidas se considerarán, por lo menos, los siguientes criterios:
+
+I. En los programas y actividades de restauración, reforestación o forestación, en su caso, así como de aprovechamiento de la vida silvestre, se protegerán especialmente las especies nativas y aquellas que se encuentren en riesgo de acuerdo a la normatividad aplicable;
+
+II. Para evitar el deterioro de la biodiversidad, no se permitirá el uso de especies que no sean nativas del lugar;
+
+III. En la restauración o rehabilitación de las áreas naturales protegidas, o en la protección de barrancas, no podrán ser alteradas en forma definitiva los cauces naturales y escurrimientos temporales o permanentes;
+
+IV. Durante el desarrollo de obras o actividades de cualquier tipo, se evitará la pérdida o erosión del suelo y el deterioro de la calidad del agua;
+
+V. En los sitios a proteger, se procurará el rescate del conocimiento tradicional, con relación al uso y manejo de los recursos naturales, y
+
+VI. Se promoverá la participación de vecinos, comunidades, pueblos indígenas y población en general, en los programas y acciones para el establecimiento, cuidado y vigilancia de las áreas naturales protegidas.
+
+Los programas y actividades de forestación, reforestación, restauración o aprovechamiento de la flora y fauna, procurarán la preservación y el desarrollo de las especies nativas del Distrito Federal. El uso o aprovechamiento de los elementos naturales se sujetarán a los criterios de sustentabilidad que permitan garantizar la subsistencia de las especies sin ponerlas en riesgo de extinción y permitiendo su regeneración en la cantidad y calidad necesarias para no alterar el equilibrio ecológico.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2002)</small>
 
 ###### ARTÍCULO 86.
 
-Para la conservación, manejo, aprovechamiento y restauración de los recursos naturales en el suelo de conservación del Distrito Federal, el Jefe de Gobierno tendrá las siguientes facultades:
+Para la preservación, manejo, aprovechamiento sustentable y restauración de los recursos naturales, la Secretaría tendrá las siguientes facultades:
 
-I. El cuidado y administración de áreas verdes y áreas naturales protegidas;
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
+
+I. El cuidado, administración y vigilancia de las áreas naturales protegidas, áreas de valor ambiental y áreas verdes de su competencia;
 
 II. La emisión de normas ambientales para el Distrito Federal;
 
@@ -1144,43 +1242,171 @@ IV. El ejercicio de las acciones judiciales y administrativas que correspondan e
 
 V. Elaborar los programas de reforestación y restauración con especies nativas apropiadas a cada ecosistema.
 
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+Compete a las delegaciones conforme a lo previsto en esta Ley y demás disposiciones legales aplicables, el ejercicio de las acciones administrativas que procedan en los casos de invasión de áreas verdes de su competencia, así como de las que corresponden a la Secretaría previa la celebración del convenio respectivo. El reglamento determinará los lineamientos para la ejecución de las acciones administrativas derivadas de la invasión de áreas verdes, áreas de valor ambiental y áreas naturales protegidas, así como en predios del dominio público y de particulares en suelo de conservación.
+
+### CAPÍTULO II BIS. ÁREAS DE VALOR AMBIENTAL
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
 ### CAPÍTULO III. ÁREAS NATURALES PROTEGIDAS
 
-### CAPÍTULO IV. CONSERVACIÓN Y APROVECHAMIENTO SUSTENTABLE DEL AGUA
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
 
 ###### ARTÍCULO 87.
 
-La Secretaría en coordinación con las demás autoridades competentes, considerando la opinión de la ciudadanía, realizará acciones para la conservación, protección, restauración y fomento de las áreas verdes y recursos forestales, así como para evitar su erosión o deterioro ecológico, con el fin de mejorar el ambiente y la calidad de vida de los habitantes del Distrito Federal.
+Para los efectos de esta Ley se consideran áreas verdes:
 
-Asimismo, promoverá el establecimiento de áreas verdes en las zonas urbanas en el marco de los programas de desarrollo urbano.
+I. Parques y jardines;
+
+II. Plazas jardinadas o arboladas;
+
+III. Jardineras;
+
+IV. Zonas con cualquier cubierta vegetal en la vía pública;
+
+V. Alamedas y arboledas;
+
+VI. Promontorios, cerros, colinas, elevaciones y depresiones orográficas, pastizales naturales y áreas rurales de producción forestal, agroindustrial o que presten servicios ecoturísticos;
+
+VII. Barrancas;
+
+VIII. Zonas de recarga de mantos acuíferos; y
+
+IX. Las demás áreas análogas.
+
+Corresponde a las Delegaciones la construcción, rehabilitación, administración, preservación, protección, restauración, fomento y vigilancia de las áreas verdes establecidas en las fracciones I a la V del párrafo anterior, y a la Secretaría el ejercicio de las acciones antes mencionadas cuando se trate de las áreas previstas en las fracciones VI a la IX siempre y cuando no estén ubicadas dentro de los límites administrativos de la zona urbana de los centros de población y poblados rurales de las delegaciones localizados en suelo de conservación, mismas que se consideran competencia de las delegaciones, así como cuando se trate de los recursos forestales, evitando su erosión y deterioro ecológico con el fin de mejorar el ambiente y la calidad de vida de toda persona en el Distrito Federal, de conformidad con los criterios, lineamientos y normatividad que para tal efecto expida la propia Secretaría.
+
+La Secretaría solicitará a la Secretaría de Desarrollo Urbano y Vivienda el establecimiento de áreas verdes de su competencia en los programas de desarrollo urbano.
+
+Las delegaciones procurarán el incremento de áreas verdes de su competencia, en proporción equilibrada con los usos de suelo distintos a áreas verdes, espacios abiertos y jardinados o en suelo de conservación existentes en su demarcación territorial, e incorporarlos a los programas delegacionales de desarrollo urbano.
 
 ###### ARTÍCULO 88.
 
 El mantenimiento, mejoramiento, podas, fomento y conservación de las áreas verdes del Distrito Federal, deberá realizarse con las técnicas y especies apropiadas.
 
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+###### ARTÍCULO 88 Bis.
+
+Las delegaciones celebrarán convenios con los vecinos de las áreas verdes de su competencia, para que participen en su cuidado y mantenimiento, así como en la ejecución de programas y acciones de forestación, reforestación, recreativos y culturales, proporcionando mecanismos de apoyo en especie, cuando sea necesario.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+###### ARTÍCULO 88 Bis 1.
+
+Las áreas verdes bajo las categorías de parques, jardines, alamedas y arboledas o áreas análogas, establecidas en los programas de desarrollo urbano, no podrán ser alteradas en su superficie o ser sujetas a cambio de uso de suelo, y queda prohibida la construcción de edificaciones en las categorías establecidas en las fracciones I a V del artículo 87 de la presente Ley, con excepción de autorizar dicha (sic) construcciones en las áreas establecidas en las fracciones VI a IX del artículo 87 para su cuidado, fomento cultural y educación ambiental.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+###### ARTÍCULO 88 Bis 2.
+
+La Secretaría establecerá el Inventario General de las Áreas Verdes del Distrito Federal, con la finalidad de conocer, proteger y preservar dichas áreas, así como para proponer a la Secretaría de Desarrollo Urbano y Vivienda y a las delegaciones, según su competencia, el incremento de dichas áreas en zonas donde se requiera, el cual deberá contener, por lo menos:
+
+I. La ubicación y superficie;
+
+II. Los tipos de área verde;
+
+III. Las especies de flora y fauna que la conforman;
+
+IV. Las zonas en las cuales se considera establecer nuevas áreas verdes; y
+
+V. Las demás que establezca el Reglamento.
+
+Las delegaciones llevarán el inventario de áreas verdes de su competencia en su demarcación territorial, en los términos establecidos en el párrafo anterior y lo harán del conocimiento de la Secretaría para su integración en el inventario general al que se refiere el presente artículo, proporcionando semestralmente las actualizaciones correspondientes, en los términos del Reglamento. Dicho inventario formará parte del Sistema de Información Ambiental del Distrito Federal.
+
 ###### ARTÍCULO 89.
 
 Todos los trabajos de mantenimiento, mejoramiento, fomento y conservación a desarrollarse en las áreas verdes, deberán sujetarse a la normatividad que establezca la Secretaría.
 
-La remoción o retiro de árboles dentro de las áreas verdes, requerirá autorización de la delegación correspondiente, bajo la normatividad que emita la Secretaría.
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+
+La remoción o retiro de árboles dentro de las áreas verdes requerirá autorización de la delegación correspondiente cuando se trate de aquellas establecidas en las fracciones I a V del artículo 87 de la presente Ley y a la Secretaría, cuando se trate de las comprendidas en las fracciones VI a IX del mismo artículo, y a ambas autoridades, en el marco de sus respectivas competencias, cuando se trate de bienes del dominio de particulares, observando lo previsto en el Programa General de Ordenamiento Ecológico del Distrito Federal, los programas de des arrollo urbano y demás disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 90.
 
 En caso de dañar negativamente un área verde o jardinera pública, el responsable deberá reparar los daños causados, sin perjuicio de la aplicación de las sanciones procedentes si no cuenta con la autorización respectiva, salvo tratándose de afectación accidental o necesaria para salvaguardar la integridad de las personas y sus bienes o para el acceso o uso de inmuebles, en cuyos casos no se aplicará sanción alguna, pero sí se solicitará que en un lugar lo más cercano posible se restituya un área similar a la afectada, con las especies adecuadas.
 
-### CAPÍTULO V. CONSERVACIÓN Y APROVECHAMIENTO SUSTENTABLE DEL SUELO
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.O. 31 DE ENERO DE 2002)</small>
 
-### CAPÍTULO VI. RESTAURACIÓN DE ZONAS AFECTADAS
+### CAPÍTULO IV. CONSERVACIÓN Y APROVECHAMIENTO SUSTENTABLE DEL AGUA
+
+###### ARTÍCULO 90 Bis.
+
+Las categorías de áreas de valor ambiental de competencia del Distrito Federal, son:
+
+I. Bosques Urbanos, y
+
+II. Barrancas perturbadas.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+###### ARTÍCULO 90 Bis 1.
+
+Los bosques urbanos son las áreas de valor ambiental que se localizan en suelo urbano, en las que predominan especies de flora arbórea y arbustiva y se distribuyen otras especies de vida silvestre asociadas y representativas de la biodiversidad, así como especies introducidas para mejorar su valor ambiental, estético, científico, educativo, recreativo, histórico o turístico, o bien, por otras razones análogas de interés general, cuya extensión y características contribuyen a mantener la calidad del ambiente en el Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+###### ARTÍCULO 90 Bis 2.
+
+Las barrancas perturbadas son aquellas que presentan deterioros ambientales por el impacto urbano y los asentamientos humanos, y que requieren ser restauradas y preservadas.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+###### ARTÍCULO 90 Bis 3.
+
+Las áreas de valor ambiental se establecerán mediante decreto del Jefe de Gobierno, el cual deberá contener, además de los requisitos establecidos en las fracciones II, IV y VI del artículo 94 de esta Ley, los siguientes:
+
+I.- La categoría de área de valor ambiental que se constituye, así como la finalidad y objetivos de su declaratoria;
+
+II.- Limitaciones y modalidades al uso del suelo y destinos, así como, en su caso, los lineamientos para el manejo de los recursos naturales del área;
+
+III.- Los responsables de su manejo, y
+
+IV.- La determinación y especificación de los elementos naturales y la biodiversidad que pretenda restaurarse, rehabilitarse o conservarse.
+
+Para decretar barrancas perturbadas, además de las disposiciones anteriores, se requiere de un diagnóstico ecológico que determine el deterioro ambiental, elaborado por la Secretaría.
+
+La Secretaría solicitará la opinión de las delegaciones correspondientes, previo a la expedición de la declaratoria de un área de valor ambiental.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+###### ARTÍCULO 90 Bis 4.
+
+En el establecimiento, administración, manejo y vigilancia de las áreas de valor ambiental se aplicarán, en lo conducente, las disposiciones establecidas en el Capítulo de la presente Ley relativo a las áreas naturales protegidas.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+###### ARTÍCULO 90 Bis 5.
+
+Los programas de manejo de las áreas de valor ambiental que elabore la Secretaría, con la participación de la o las delegaciones correspondientes y demás participantes que determine el reglamento, deberán de contener, además de los requisitos establecidos en las fracciones II, V, VI y VII del artículo 95 de esta Ley, los siguientes:
+
+I.- Las características físicas, biológicas, culturales, sociales, recreativas y económicas del área;
+
+II.- La regulación del uso del suelo y, en su caso, del manejo de recursos naturales y de la realización de actividades en el área, y
+
+III.- Las acciones a realizar en el corto, mediano y largo plazos para la restauración, rehabilitación y preservación del área.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+###### ARTÍCULO 90 Bis 6.
+
+Las prohibiciones que establece la presente Ley en relación con las áreas naturales protegidas, deberán observarse para las áreas de valor ambiental, además de la prohibición para el aprovechamiento o extracción de recursos naturales, salvo en aquellos casos que se determinen en el reglamento respectivo, observando las disposiciones de la presente Ley.
+
+### CAPÍTULO V. CONSERVACIÓN Y APROVECHAMIENTO SUSTENTABLE DEL SUELO
 
 ###### ARTÍCULO 91.
 
-Corresponde al Jefe de Gobierno del Distrito Federal el establecimiento de las áreas naturales protegidas no reservadas a la Federación que se requieran para la conservación, el cuidado, restauración y mejoramiento ambiental del Distrito Federal. Su administración y conservación corresponderá a la Delegación, tratándose de suelo urbano, o a la Secretaría, en caso de suelo de conservación o cuando el área natural se encuentre en el territorio de dos o más demarcaciones. Su establecimiento y conservación es de utilidad pública y se realizará en forma concertada y corresponsable con la sociedad, así como con los propietarios y poseedores de los predios ubicados en la zona objeto del decreto.
+Corresponde al Jefe de Gobierno del Distrito Federal el establecimiento de las áreas naturales protegidas no reservadas a la Federación, que se requieran para la preservación, cuidado, restauración y mejoramiento ambiental. Su establecimiento y preservación es de utilidad pública y se realizará en forma concertada y corresponsable con la sociedad, así como con los propietarios y poseedores de los predios ubicados en la zona objeto del decreto o declaratoria respectiva.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE ENERO DE 2002)</small>
 
 ###### ARTÍCULO 92.
 
-Las áreas naturales protegidas de la competencia del Distrito Federal son:
+Las categorías de áreas naturales protegidas de competencia del Distrito Federal son:
 
-I. Reservas Biológicas;
+I. (DEROGADA, G.O. 31 DE ENERO DE 2002)
 
 II. Zonas de Conservación Ecológicas;
 
@@ -1190,13 +1416,95 @@ IV. Zonas Ecológicas y Culturales;
 
 V. Refugios de vida silvestre;
 
-VI. Parques Urbanos; y
+VI. (DEROGADA, G.O. 31 DE ENERO DE 2002)
 
-VII. Las demás establecidas por las disposiciones legales aplicables.
+> <small>(REFORMADA, G.O. 31 DE ENERO DE 2002)</small>
+
+VII. Reservas Ecológicas Comunitarias; y
+
+> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2002)</small>
+
+VIII. Las demás establecidas por las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+###### ARTÍCULO 92 Bis.
+
+Las zonas de conservación ecológica son aquéllas que contienen muestras representativas de uno o más ecosistemas en buen estado de preservación y que están destinadas a proteger los elementos naturales y procesos ecológicos que favorecen el equilibrio y bienestar social.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+###### ARTÍCULO 92 Bis 1.
+
+Las zonas de protección hidrológica y ecológica, son aquellas que se establecen para la protección, preservación y restauración de sistemas hídricos naturales, así como su fauna, flora, suelo y subsuelo asociados.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+###### ARTÍCULO 92 Bis 2.
+
+Las zonas ecológicas y culturales son aquellas con importantes valores ambientales y ecológicos, donde también se presentan elementos físicos, históricos o arqueológicos o se realizan usos y costumbres de importancia cultural.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+###### ARTÍCULO 92 Bis 3.
+
+Los refugios de vida silvestre son aquellos que constituyen el hábitat natural de especies de fauna y flora que se encuentran en alguna categoría de protección especial o presentan una distribución restringida.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+###### ARTÍCULO 92 Bis 4.
+
+Las Reservas Ecológicas Comunitarias son aquellas establecidas por pueblos, comunidades y ejidos en terrenos de su propiedad destinadas a la preservación, protección y restauración de la biodiversidad, sin que se modifique el régimen de propiedad.
+
+La Secretaría promoverá la expedición de la declaratoria correspondiente, mediante la cual se establecerá el programa de manejo del área por parte del promovente, con la participación de la Secretaría conforme a las atribuciones que al respecto se le otorgan en la presente Ley.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+###### ARTÍCULO 92 Bis 5.
+
+La administración y manejo de las áreas naturales protegidas propiedad del Gobierno del Distrito Federal corresponderá a la Secretaría. La Secretaría podrá suscribir convenios administrativos con las delegaciones a fin de que éstas se hagan cargo de la administración y manejo de las áreas naturales protegidas en su demarcación territorial. En el caso de las áreas naturales protegidas de propiedad social, su administración corresponderá a sus propietarios o poseedores o a la Secretaría, en el caso de suscribir convenios administrativos para tal fin con los pueblos, comunidades y ejidos.
 
 ###### ARTÍCULO 93.
 
 El Gobierno del Distrito federal podrá administrar las áreas naturales protegidas de índole federal, conforme a lo estipulado en la Ley General.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+###### ARTÍCULO 93 Bis.
+
+Para el establecimiento de las áreas naturales protegidas deberán considerarse, al menos la presencia de ecosistemas naturales representativos, la importancia biológica o ecológica del sitio, y la importancia de los servicios ambientales generados.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+###### ARTÍCULO 93 Bis 1.
+
+En las áreas naturales protegidas se podrán realizar actividades de protección, preservación, restauración y aprovechamiento sustentable y controlado de recursos naturales, investigación, educación ambiental, recreación y ecoturismo. El programa de manejo correspondiente establecerá cuáles de estas actividades están permitidas realizar de conformidad con las especificaciones de las categorías de áreas naturales protegidas que esta Ley y demás ordenamientos jurídicos aplicables establecen.
+
+En las áreas naturales protegidas queda prohibido:
+
+I. El establecimiento de cualquier asentamiento humano irregular, y de nuevos asentamientos humanos regulares o su expansión territorial;
+
+II. La realización de actividades que afecten los ecosistemas del área de acuerdo con la Ley, su Reglamento, las normas oficiales mexicanas, las normas ambientales para el Distrito Federal, el decreto de declaratoria del área, su programa de manejo o la evaluación de impacto ambiental respectiva;
+
+III. La realización de actividades riesgosas;
+
+IV. Las emisiones contaminantes al aire, agua, suelo y subsuelo, así como el depósito o disposición de residuos de cualquier tipo y el uso de los equipos anticontaminantes sin autorización correspondiente;
+
+V. La extracción de suelo o materiales del subsuelo con fines distintos a los estrictamente científicos;
+
+VI. La interrupción o afectación del sistema hidrológico de la zona;
+
+VII. La realización de actividades cinegéticas o de explotación ilícitas de especies de fauna y flora silvestres, y
+
+VIII. Las demás actividades previstas en el decreto de creación y en las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+###### ARTÍCULO 93 Bis 2.
+
+En el otorgamiento o expedición de permisos, licencias, concesiones, o en general de autorizaciones a que se sujetará la realización de actividades culturales, deportivas o recreativas, así como el aprovechamiento no extractivo de los elementos y recursos naturales en áreas naturales protegidas competencia del Distrito Federal, se observarán las disposiciones de la presente Ley y demás disposiciones jurídicas aplicables.
+
+La Secretaría y, en su caso, las delegaciones, expedirán las autorizaciones, permisos o licencias respectivos, tomando en cuenta lo dispuesto en el programa de manejo del área correspondiente. Las concesiones o permisos para el uso y aprovechamiento de los inmuebles patrimonio del gobierno del Distrito Federal, se ajustarán a la Ley de la materia.
 
 ###### ARTÍCULO 94.
 
@@ -1236,6 +1544,10 @@ VI. El señalamiento de las disposiciones jurídicas ambientales aplicables; y
 
 VII. Los mecanismos de financiamiento del área.
 
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+En tanto se expide el programa de manejo correspondiente, la Secretaría emitirá mediante acuerdo administrativo las normas y criterios que deben observarse para la realización de cualquier actividad dentro de las áreas naturales protegidas, conforme a esta Ley, su reglamento y el decreto respectivo.
+
 ###### ARTÍCULO 96.
 
 Las limitaciones y modalidades establecidas en las áreas naturales protegidas a los usos, reservas, provisiones, destinos y actividades son de utilidad pública y serán obligatorias para los propietarios o poseedores de los bienes localizados en las mismas. El ejercicio del derecho de propiedad, de posesión y cualquier otro derivado de la tenencia de los predios, se sujetará a dichas limitaciones y modalidades.
@@ -1270,9 +1582,9 @@ Cualquier persona podrá solicitar por escrito a la Secretaría, el establecimie
 
 La Secretaría integrará el Registro de Áreas Naturales Protegidas del Distrito Federal, en el que se inscribirán los decretos mediante los cuales se declaren las áreas naturales protegidas y los instrumentos que los modifiquen, el cual podrá ser consultado por cualquier persona que así lo solicite y deberá ser integrado al sistema de información ambiental del Distrito Federal.
 
-### CAPÍTULO VII. PROTECCIÓN Y APROVECHAMIENTO DE LA FLORA Y FAUNA
+### CAPÍTULO VI. RESTAURACIÓN DE ZONAS AFECTADAS
 
-### CAPÍTULO VIII. APROVECHAMIENTO DE LOS RECURSOS ENERGÉTICOS
+### CAPÍTULO VII. PROTECCIÓN Y APROVECHAMIENTO DE LA FLORA Y FAUNA
 
 ###### ARTÍCULO 104.
 
@@ -1350,7 +1662,7 @@ La Secretaría realizará las acciones necesarias para evitar o, en su caso, con
 
 Queda estrictamente prohibido el relleno, secado o uso diferente al que tienen, los cuerpos de agua superficiales del Distrito Federal.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VIII. APROVECHAMIENTO DE LOS RECURSOS ENERGÉTICOS
 
 ###### ARTÍCULO 111.
 
@@ -1388,7 +1700,7 @@ VII. La formulación del programa de ordenamiento ecológico; y
 
 VIII. La evaluación del impacto ambiental de las obras o proyectos que en su caso se sometan a consideración de la Secretaría.
 
-### CAPÍTULO II. DE LAS ACCIONES CORRECTIVAS DE LA CONTAMINACIÓN AMBIENTAL
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 113.
 
@@ -1402,9 +1714,11 @@ Están obligados a restaurar el suelo, subsuelo, acuífero y los demás recursos
 
 En los suelos de conservación que presenten deterioros ecológicos, la Secretaría formulará programas de restauración de los elementos naturales, con el propósito de que se lleven a cabo las acciones necesarias para la recuperación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales que en ellos se desarrollan.
 
-En la formulación, ejecución y seguimiento de dichos programas, la Secretaría deberá promover la participación de los propietarios, poseedores, organizaciones sociales, públicas o privadas y demás personas interesadas.
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
 
-### CAPÍTULO III. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
+En la formulación, ejecución y seguimiento de dichos programas, la Secretaría deberá de promover la participación de las delegaciones, propietarios, poseedores, organizaciones sociales, instituciones públicas o privadas y demás personas interesadas.
+
+### CAPÍTULO II. DE LAS ACCIONES CORRECTIVAS DE LA CONTAMINACIÓN AMBIENTAL
 
 ###### ARTÍCULO 116.
 
@@ -1422,13 +1736,17 @@ IV. La modificación o revocación de concesiones, permisos y, en general, de to
 
 Dentro del territorio del Distrito Federal, la Secretaría coadyuvará con las autoridades federales para la prevención y erradicación del tráfico de especies de flora y fauna silvestre, de conformidad con la legislación aplicable.
 
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
+
 ###### ARTÍCULO 118.
 
-La delegación correspondiente, en suelo urbano, o la Secretaría, en suelo de conservación, podrá autorizar el derribo, poda o trasplante de árboles cuando se requiera para la salvaguarda de la integridad de las personas o sus bienes.
+La delegación o la Secretaría, de acuerdo a su competencia, podrán autorizar el derribo, poda o trasplante de árboles, ubicados en bienes de dominio público o en propiedades de particulares, cuando se requiera para la salvaguarda de la integridad de las personas o sus bienes.
+
+> <small>(REFORMADO, G.O. 31 DE ENERO DE 2002)</small>
 
 ###### ARTÍCULO 119.
 
-Toda persona que derribe un árbol en vía pública o en bienes de dominio público, deberá restituirlo entregando a la delegación respectiva, tratándose de suelo urbano, o a la Secretaría, en caso de suelo de conservación, los ejemplares que determine la norma ambiental que al efecto se expida, sin perjuicio de la aplicación de la sanción a que se refiere la presente Ley en caso de derribo sin autorización previa de la propia delegación o la Secretaría. Se equipara al derribo de árboles, cualquier acto que provoque su muerte. Sin detrimento de otros ordenamientos aplicables.
+Toda persona que derribe un árbol en la vía pública o en bienes de dominio público o en propiedades de particulares, deberá de restituirlo entregando a la autoridad correspondiente, los ejemplares que determine la norma ambiental que al efecto se expida, sin perjuicio de la aplicación de la sanción a que se refiere la presente Ley en caso de derribo sin autorización previa de la autoridad competente. Se equipara al derribo de árboles, cualquier acto que provoque su muerte, sin detrimento de otros ordenamientos aplicables.
 
 ###### ARTÍCULO 120.
 
@@ -1438,7 +1756,7 @@ En la autorización se determinará el destino de los esquilmos o productos del 
 
 La Secretaría establecerá en los programas respectivos las medidas necesarias para evitar los incendios forestales.
 
-### CAPÍTULO IV. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA
+### CAPÍTULO III. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DE LA ATMÓSFERA
 
 ###### ARTÍCULO 122.
 
@@ -1446,13 +1764,13 @@ La Secretaría propondrá ante el Jefe de Gobierno del Distrito Federal, la cele
 
 ## TÍTULO QUINTO. DE LA PREVENCIÓN, CONTROL Y ACCIONES CONTRA LA CONTAMINACIÓN AMBIENTAL
 
-### CAPÍTULO V. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO
+### CAPÍTULO IV. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA
 
 ###### ARTÍCULO 123.
 
 Todas las personas están obligadas a cumplir con los requisitos y límites de emisiones contaminantes a la atmósfera, agua, suelo, subsuelo, redes de drenaje y alcantarillado y cuerpos receptores del Distrito Federal establecidos por las normas aplicables o las condiciones particulares de descarga que emita la Secretaría de Medio Ambiente. Quedan comprendidos también en esta prohibición, la generación de contaminantes visuales y las emisiones de ruido, vibraciones, energía térmica, lumínica y olores, de acuerdo con las disposiciones jurídicas aplicables.
 
-### CAPÍTULO VI. DE LAS CONTINGENCIAS AMBIENTALES
+### CAPÍTULO V. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL SUELO
 
 ###### ARTÍCULO 124.
 
@@ -1484,7 +1802,7 @@ La Secretaría en coordinación con las autoridades federales y locales, estable
 
 La Secretaría podrá emitir lineamientos y criterios obligatorios para que la actividad de la administración pública del Distrito Federal en materia de obra pública y de adquisiciones de bienes muebles tome en consideración los aspectos de conservación ambiental, así como de ahorro de energía eléctrica y agua y de mínima generación de todo tipo de desechos.
 
-### CAPÍTULO I. DE LOS PRESTADORES DE SERVICIOS DE IMPACTO AMBIENTAL
+### CAPÍTULO VI. DE LAS CONTINGENCIAS AMBIENTALES
 
 #### SECCIÓN I. DISPOSICIONES GENERALES
 
@@ -1694,7 +2012,7 @@ Quedan prohibidas las emisiones de ruido, vibraciones, energía térmica, lumín
 
 Los propietarios de fuentes que generen cualquiera de estos contaminantes, están obligados a instalar mecanismos para recuperación y disminución de vapores, olores, ruido, energía y gases o a retirar los elementos que generan contaminación visual.
 
-### CAPÍTULO II. DE LOS CENTROS DE VERIFICACIÓN
+### CAPÍTULO I. DE LOS PRESTADORES DE SERVICIOS DE IMPACTO AMBIENTAL
 
 ###### ARTÍCULO 152.
 
@@ -1806,7 +2124,7 @@ Cuando alguna descarga al sistema de drenaje, a pesar del cumplimiento de los l�
 
 La Secretaría establecerá y operará un sistema de monitoreo de las aguas residuales en el Distrito Federal.
 
-### CAPÍTULO III. DE LOS LABORATORIOS AMBIENTALES
+### CAPÍTULO II. DE LOS CENTROS DE VERIFICACIÓN
 
 ###### ARTÍCULO 163.
 
@@ -1990,7 +2308,13 @@ V. La infraestructura existente y necesaria para la atención de emergencias eco
 
 VI. La infraestructura para la dotación de servicios básicos.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+> <small>(ADICIONADO, G.O. 31 DE ENERO DE 2002)</small>
+
+###### ARTÍCULO 181 Bis.
+
+La Secretaría o las Delegaciones propondrán al Jefe de Gobierno el establecimiento de zonas intermedias de salvaguarda, con el objeto de prevenir y controlar el riesgo ambiental que puedan ocasionar las industrias, comercios y servicios que realicen actividades riesgosas en el territorio del Distrito Federal.
+
+### CAPÍTULO III. DE LOS LABORATORIOS AMBIENTALES
 
 ###### ARTÍCULO 182.
 
@@ -2012,11 +2336,11 @@ Los Programas de Contingencia Ambiental establecerán las condiciones bajo las c
 
 En situación de contingencia ambiental, los responsables de fuentes de contaminación estarán obligados a cumplir con las medidas de prevención y control establecidas en los programas de contingencia correspondientes.
 
-### CAPÍTULO II. DE LA INSPECCIÓN Y VIGILANCIA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ## TÍTULO SEXTO. DE LOS PRESTADORES DE SERVICIOS AMBIENTALES
 
-### CAPÍTULO III. MEDIDAS DE SEGURIDAD
+### CAPÍTULO II. DE LA INSPECCIÓN Y VIGILANCIA
 
 ###### ARTÍCULO 187.
 
@@ -2036,7 +2360,7 @@ La Secretaría instrumentará programas de acreditación de prestadores de servi
 
 En ningún caso podrá prestar servicios ambientales directamente o a través de terceros, el servidor público que intervenga en cualquier forma en la aplicación de la presente Ley ni las personas con las que tenga interés personal, familiar o de negocios, incluyendo aquéllas de las que pueda resultar un beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, terceros con los que tenga relaciones profesionales, laborales o de negocios, socios o personas morales de las que el servidor público o las personas antes referidas formen o hayan formado parte. La infracción a esta disposición será sancionada en los términos de la Ley de Responsabilidades de los Servidores Públicos.
 
-### CAPÍTULO IV. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO III. MEDIDAS DE SEGURIDAD
 
 ###### ARTÍCULO 191.
 
@@ -2142,7 +2466,7 @@ VI. Presentar y mantener en vigor una fianza de tres mil días de salario mínim
 
 VII. Prestar sus servicios de conformidad con lo (sic) contratos autorizados por la Secretaría.
 
-### CAPÍTULO V. RECURSO DE INCONFORMIDAD
+### CAPÍTULO IV. SANCIONES ADMINISTRATIVAS
 
 ###### ARTÍCULO 200.
 
@@ -2150,7 +2474,7 @@ La Secretaría establecerá los lineamientos para autorizar laboratorios ambient
 
 ## TÍTULO SÉPTIMO. MEDIDAS DE CONTROL, DE SEGURIDAD Y SANCIONES
 
-### CAPÍTULO VI. DE LA RESPONSABILIDAD POR EL DAÑO AMBIENTAL
+### CAPÍTULO V. RECURSO DE INCONFORMIDAD
 
 ###### ARTÍCULO 201.
 
@@ -2158,7 +2482,7 @@ Las disposiciones de este título se aplicarán en los procedimientos de verific
 
 En las materias anteriormente señaladas, se aplicarán supletoriamente las disposiciones de la Ley de Procedimiento Administrativo del Distrito Federal.
 
-### CAPÍTULO VII. DE LOS DELITOS AMBIENTALES
+### CAPÍTULO VI. DE LA RESPONSABILIDAD POR EL DAÑO AMBIENTAL
 
 ###### ARTÍCULO 202.
 
@@ -2205,6 +2529,8 @@ Dentro de los cinco días hábiles siguientes al vencimiento del plazo otorgado 
 ###### ARTÍCULO 210.
 
 Corresponde a la Secretaría realizar la vigilancia de las actividades en vía pública, áreas naturales protegidas y suelo de conservación para prevenir y sancionar la comisión de infracciones a la presente Ley. Los vigilantes asignados a esta función deberán estar debidamente acreditados en los términos del reglamento de esta Ley y en sus actuaciones observarán, en lo aplicable, las disposiciones relativas a los actos de inspección y verificación.
+
+### CAPÍTULO VII. DE LOS DELITOS AMBIENTALES
 
 ###### ARTÍCULO 211.
 
@@ -2345,3 +2671,19 @@ NOVENO.- En tanto se expiden las disposiciones reglamentarias de esta Ley, segui
 Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a 21 de diciembre de mil novecientos noventa y nueve.- POR LA MESA DIRECTIVA, DIP. RENE BALDOMERO RODRÍGUEZ RUIZ, PRESIDENTE.- DIP. YOLANDA TELLO MONDRAGON, SECRETARIO.- DIP. JOSE LUIS BENITEZ GIL, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto por lo dispuesto (sic) por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto promulgatorio, en la Residencia Oficial de la Jefa de Gobierno del Distrito Federal, en la Ciudad de México, a los treinta y un días del mes de diciembre de mil novecientos noventa y nueve.- LA JEFA DE GOBIERNO DEL DISTRITO FEDERAL, ROSARIO ROBLES BERNLANGA (sic).- FIRMA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGEL.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, ROBERTO EIBENSCHUTZ HARTMAN.- FIRMA.- EL SECRETARIO DEL MEDIO AMBIENTE, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+G.O. 31 DE ENERO DE 2002.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. En tanto se expidan las disposiciones reglamentarias que se deriven del presente Decreto, seguirán en vigor las actuales en lo que no lo contravengan.
+
+TERCERO. Se derogan todas aquellas disposiciones que contravengan al presente Decreto.
+
+CUARTO. El Jefe de Gobierno del Distrito Federal, en cumplimiento a la fracción IX del artículo 8º de la Ley Ambiental del Distrito Federal, enviará a la Asamblea Legislativa las propuestas de modificación de la categoría de Área Natural.
+
+Protegida que conforme a lo dispuesto en el presente Decreto corresponderá a las áreas o zonas que hayan sido establecidas con anterioridad a la entrada en vigor del mismo, cuando así sea procedente, de conformidad a sus características y objetivos.
+
+QUINTO. Para los efectos de este Decreto, se considerará Zona de Preservación Ecológica el área natural protegida denominada "Bosque de Tlalpan". El Jefe de Gobierno enviará a la Asamblea Legislativa del Distrito Federal la propuesta por el cual se modifica la categoría de esta área natural protegida, en cumplimiento a la fracción IX del artículo 8º de la Ley Ambiental del Distrito Federal, dentro de los siguientes 90 días naturales a partir de la entrada en vigor del presente decreto.
