@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1975-01-15"
+last_updated: "1975-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE AGOSTO DE 1975.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -403,6 +403,10 @@ XXV.- Otorgar reconocimiento a los ciudadanos que hayan prestado eminentes servi
 
 XXVI.- Autorizar al Gobernador para contratar empréstitos a nombre del Estado, siempre que sean para la ejecución de obras que directamente produzcan un incremento económico, salvo los que se contraten en caso de emergencia por causa de desastre, señalando en todo caso los recursos con que deben cubrirse;
 
+> <small>(ADICIONADO, B.O. 26 DE AGOSTO DE 1975)</small>
+
+Autorizar al Gobernador del Estado para avalar los empréstitos o financiamientos que obtengan los ayuntamientos del Estado, siempre y cuando de los estudios que se practiquen al efecto aparezca demostrada la necesidad y utilidad de la obra para la cual los haya gestionado la autoridad municipal. En el convenio que celebre el Gobierno local con el ayuntamiento correspondiente se estipulará la recuperación de lo que aquel pague como avalista, garantizándolo en base de las participaciones de los impuestos que reciba el ayuntamiento, ya sean éstos federales o locales
+
 XXVII.- Autorizar al Gobernador para que enajene, traspase, hipoteque, grave o ejerza cualquier acto de dominio sobre los bienes muebles e inmuebles pertenecientes al Estado, fijando para cada caso especial, las condiciones a que debe sujetarse, de acuerdo con las leyes respectivas. El Gobernador dará cuenta al Congreso del Estado del uso que hiciere de esta facultad;
 
 XXVIII.- Informarse de las concesiones y contratos de obras otorgados por el Gobernador;
@@ -416,6 +420,10 @@ XXXI.- Aprobar el Presupuesto de Egresos y fijar las contribuciones para cubrirl
 XXXII.- Informarse de las facultades del Gobernador cuando éste tome medidas de emergencia en caso de desastre;
 
 XXXIII.- Aprobar y decretar las leyes de Hacienda y de ingresos municipales, en atención a todas sus necesidades y funciones, tomando en consideración su independencia económica;
+
+> <small>(ADICIONADO, B.O. 26 DE AGOSTO DE 1975)</small>
+
+Autorizar a los ayuntamientos del Estado para contratar empréstitos o financiamientos destinados a la ejecución de las obras que sean necesarias para la prestación de los servicios públicos que corresponda, previa la opinión favorable del Gobernador del Estado respecto a la utilidad pública que emane de esas obras en beneficio de la comunidad.
 
 XXXIV.- Decretar la Ley Orgánica Municipal;
 
@@ -579,7 +587,7 @@ XXVII.- Planificar el crecimiento de los centros urbanos, dotándolos de los ser
 
 XXVIII.- Mejorar las condiciones económicas y sociales de vida de los campesinos, fomentando en ellos el arraigo a sus lugares de residencia;
 
-XXIX.- Nombrar y remover libremente el personal de policía del municipio donde resida;
+XXIX.- (DEROGADA, B.O. 26 DE AGOSTO DE 1975)
 
 XXX.- Conocer de las designaciones que haga el Procurador y el Presidente del Tribunal Superior de Justicia;
 
@@ -603,7 +611,9 @@ XXXIX.- Otorgar patentes de notario, con sujeción a la ley respectiva;
 
 XL.- Tomar las medidas necesarias en casos de desastres y situaciones económicas difíciles o urgentes;
 
-XLI.- Nombrar oficiales del Registro Civil;
+> <small>(REFORMADA, B.O. 26 DE AGOSTO DE 1975)</small>
+
+XLI.- Cuidar que el funcionamiento del servicio público de Registro Civil en todo el Estado sea uniforme en cuanto a formalidades y axpedición (sic) de documentos, y, en su caso, exigir y obtener del ayuntamiento respectivo la inmediata eliminación de cualquier deficiencia o anomalía que se advierta en los procedimientos o en el desempeño de las labores de los funcionarios del ramo.
 
 XLII.- Promover el desarrollo cultural, artístico, deportivo, científico y tecnológico de la entidad; y
 
@@ -1051,7 +1061,9 @@ IV.- Rendir anualmente al ayuntamiento, en la última sesión ordinaria del año
 
 V.- Proponer al ayuntamiento la asignación de comisiones de gobierno y administración entre los regidores;
 
-VI.- Nombrar y remover a los delegados, subdelegados, alcaides y personal administrativo, de acuerdo con las disposiciones aplicables;
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 26 DE AGOSTO DE 1975)</small>
+
+VI.- Nombrar y remover a los delegados, subdelegados, alcaides y personal de policia y administrativo de acuerdo con las disposiciones aplicables.
 
 VII.- Convocar al ayuntamiento a sesiones de acuerdo con lo que establezca el reglamento interior;
 
@@ -1063,7 +1075,9 @@ X.- Vigilar que los delegados y subdelegados cumplan las funciones de su encargo
 
 XI.- Remitir ejemplares a las autoridades del municipio y estatales, de las leyes, decretos y demás disposiciones, autorizados con su firma y la del Secretario, con la fecha de su publicación;
 
-XII.- Ejercer las funciones de Oficial del Registro Civil, donde no hubiere empleado especial nombrado o se encuentre ausente.
+> <small>(REFORMADA, B.O. 26 DE AGOSTO DE 1975)</small>
+
+XII.- Nombrar oficiales del Registro Civil y autorizar a otros empleados o funcionarios municipales técnicamente preparados, a efecto de que desempeñen temporalmente las funciones de aquellos, ya sea cuando por cualquier causa falte el titular o en los lugares en que el interés social requiera en un momento dado la prestación de dichos servicios registrales, y personalmente no pueda realizarlos el oficial del Registro Civil de la jurisdicción.
 
 #### SECCION III. DEL SINDICO
 
@@ -1244,3 +1258,29 @@ Lic. Angel Cesar Mendoza Arámburo.
 P.M.L. EL OFICIAL MAYOR
 
 Lic. Antonio Alvarez Rico.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+
+B.O. 26 DE AGOSTO DE 1975.
+
+DECRETO NUMERO 21.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
+
+B.O. 26 DE AGOSTO DE 1975.
+
+DECRETO NUMERO 22.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
+
+B.O. 26 DE AGOSTO DE 1975.
+
+DECRETO NUMERO 22 (SIC).
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
