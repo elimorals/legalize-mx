@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-6681
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-08"
-last_updated: "1995-02-08"
+last_updated: "1998-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 8 de febrero de 1995.
 
@@ -81,7 +81,9 @@ c).- El Poder Ejecutivo a través de:
 
 2.- Las Dependencias de la Administración Pública Central: Secretarías de Despacho, Procuraduría General de Justicia, Oficialía Mayor, Contraloría General y Representación del Gobierno del Estado en los términos de las disposiciones de la Ley Orgánica de la Administración Pública del Estado de Morelos.
 
-3.- Los Organismos Descentralizados, Empresas de Participación Estatal Mayoritaria y Fideicomisos, que forman la Administración Pública Paraestatal, en los términos de las disposiciones de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1998)</small>
+
+3.- Los Organismos Descentralizados, Empresas de Participación Estatal Mayoritaria y Fideicomisos, que forman la Administración Pública del Estado de Morelos, así como las demás personas de derecho público de carácter estatal, cualquiera que sea su naturaleza jurídica, con autonomía por disposición constitucional o legal.
 
 4.- Los Tribunales Administrativos con autonomía jurisdiccional que funcionen en el Estado.
 
@@ -113,7 +115,9 @@ Los Poderes Legislativo y Judicial, en el ámbito de sus respectivas competencia
 
 El Ejecutivo del Estado, a través de la Secretaría de Hacienda y los Presidentes Municipales a través de las Tesorerías Municipales, coordinarán, conforme lo establece la presente Ley, las actividades de programación, presupuestación, control, seguimiento y evaluación del Gasto Público.
 
-Las facultades que la presente Ley concede a las Tesorerías Municipales no excluyen las que la Ley Orgánica Municipal del Estado de Morelos otorga a las Comisiones de Regidores encargadas del ramo de Hacienda.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1998)</small>
+
+Las facultades que la presente Ley concede a las Tesorerías Municipales no excluyen las que la Ley Orgánica Municipal del Estado de Morelos otorga a las Comisiones de Regidores encargadas del Ramo de Hacienda, corresponde a la Contaduría Mayor de Hacienda del Congreso del Estado ejercer las atribuciones que le confiere su Ley Orgánica.
 
 ###### ARTICULO 5o.
 
@@ -129,9 +133,11 @@ Con el propósito de optimizar los recursos presupuestales que tienen asignados,
 
 En cada una de las dependencias del Ejecutivo, de los Municipios y en las demás entidades, los encargados de ejecutar los programas serán los responsables del avance de los mismos y deberán informar periódicamente de los resultados obtenidos, por conducto de sus titulares a la Secretaría de Hacienda, Tesorerías Municipales y unidades equivalentes.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1998)</small>
+
 ###### ARTICULO 8o.
 
-A la Secretaría de Hacienda, a las Sindicaturas, Comisiones, Regidores del ramo de Hacienda y Tesorerías Municipales respectivas, quedará encomendada la vigilancia y verificación del ejercicio del Gasto Público de las dependencias y entidades a través de visitas, inspecciones y auditorías sin detrimento de las facultades legales que correspondan a las Contralorías respectivas o al Congreso del Estado.
+A la Secretaría de Hacienda, a las Sindicaturas, Comisiones, Regidores del Ramo de Hacienda y Tesorerías Municipales respectivas, quedará encomendada la vigilancia y verificación del ejercicio del gasto público de las dependencias y entidades a través de visitas, inspecciones y auditorías sin detrimento de las facultades legales que correspondan a las Contralorías respectivas o al Congreso del Estado a través de la Contaduría Mayor de Hacienda.
 
 ###### ARTICULO 9o.
 
@@ -177,7 +183,9 @@ Deberán elaborarse de acuerdo con las prioridades establecidas en los Planes Es
 
 El Presupuesto de Egresos del Gobierno del Estado, será el que contenga el Decreto que apruebe el Congreso del Estado, a iniciativa del Ejecutivo.
 
-El Presupuesto de Egresos del Municipio será el que apruebe el Ayuntamiento a iniciativa del Presidente Municipal.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1998)</small>
+
+El Presupuesto de Egresos del Municipio será el que apruebe el Ayuntamiento a iniciativa del Presidente Municipal, el que será enviado para su publicación al Periódico Oficial del Estado o en la Gaceta Municipal.
 
 ###### ARTICULO 17.
 
@@ -225,11 +233,17 @@ VIII.- En general, toda información que se considere útil para demostrar la pr
 
 Los borradores finales para los proyectos de Presupuesto de Egresos deberán ser presentados oportunamente:
 
-I.- Al Titular del Ejecutivo por la Secretaría de Hacienda, los correspondientes al Gobierno del Estado y Entidades de la Administración Pública Paraestatal para ser enviados al Congreso del Estado a más tardar el 15 de noviembre de cada año.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 1998)</small>
+
+I.- Al Titular del Ejecutivo por la Secretaría de Hacienda, los correspondientes al Gobierno del Estado y Entidades de la Administración Pública Paraestatal para ser enviados al Congreso Local en los términos que señala la Constitución Política del Estado de Morelos.
 
 II.- Al Presidente Municipal por la Tesorería Municipal, los correspondientes al Municipio y a las Entidades de la Administración Pública Paramunicipal para ser presentados en el Cabildo a más tardar el 15 de noviembre de cada año.
 
 Aprobado el Presupuesto de Egresos del Municipio para el ejercicio fiscal respectivo, el Ayuntamiento deberá remitir por conducto del Presidente Municipal durante el transcurso del mes de enero del año siguiente, copias del mismo y de sus programas y subprogramas acompañados del acta de la sesión de cabildo en que se aprobó, al Congreso del Estado, para efectos de la revisión de la Cuenta Pública.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 1998)</small>
+
+El Presidente Municipal ordenará la publicación del Presupuesto de Egresos en el Periódico Oficial del Estado o en la Gaceta Municipal.
 
 ###### ARTICULO 22.
 
@@ -255,9 +269,11 @@ En el ámbito de sus respectivas competencias, serán las encargadas de recaudar
 
 El ejercicio del Gasto Público comprende el manejo y aplicación de los recursos así como su justificación, comprobación y pago, con base en el Presupuesto de Egresos aprobado, para lo cual, la Secretaría de Hacienda y las Tesorerías Municipales llevarán el registro de los compromisos establecidos y del control presupuestal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE NOVIEMBRE DE 1998)</small>
+
 ###### ARTICULO 27.
 
-La comprobación del Gasto Público se efectuará con la documentación original que demuestre la entrega del pago correspondiente que reúna los requisitos que establezcan la Secretaría de Hacienda y las Tesorerías Municipales en el ámbito de su competencia, las cuales se harán del conocimiento del Congreso Local para los efectos de la revisión de la Cuenta Pública que haga la Contaduría Mayor de Hacienda.
+La comprobación del gasto público se efectuará con la documentación original que demuestre la entrega del pago correspondiente que reúna los requisitos que establezcan la Secretaría de Hacienda y las Tesorerías Municipales en el ámbito de su competencia, en coadyuvancia con la Contaduría Mayor de Hacienda del Congreso del Estado.
 
 Una erogación se entenderá justificada, cuando exista la evidencia de haber sido tramitada ante las instancias facultadas para dotar de los recursos humanos, materiales o financieros y exista la documentación que determine el compromiso u obligación de efectuar el pago por parte de la dependencia o entidad de que se trate.
 
@@ -460,3 +476,11 @@ SECRETARIO GENERAL DE GOBIERNO
 GUILLERMO MALO VELASCO
 
 RUBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE NOVIEMBRE DE 1998.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para los efectos que señala la fracción XVII del Artículo 70 de la Constitución Política del Estado de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Organo Informativo del Gobierno del Estado de Morelos.
