@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-de-alumnos-de-la-universidad-tecnologica-de-23700"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-16"
-last_updated: "2002-02-16"
+last_updated: "2003-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO DE ALUMNOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2003.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el sábado 16 de febrero de 2002.
 
@@ -127,6 +127,10 @@ XVI. Solicitar baja temporal, de acuerdo a lo establecido en el presente Reglame
 
 XVII. Representar a la Universidad Tecnológica en los eventos académicos, deportivos, artísticos y culturales que se organicen, previa selección y conforme a sus facultades y preferencias;
 
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2003)</small>
+
+XVIII.- Que el Director de Carrera, a discreción, y tomando en cuenta el desempeño general del alumno, le justifique las faltas de asistencia a clases o a presentar evaluaciones, por motivos graves plenamente comprobados o causas de fuerza mayor.
+
 ###### Artículo 11.
 
 Todo alumno de la Universidad Tecnológica podrá obtener:
@@ -167,23 +171,37 @@ XI Cubrir las cuotas escolares establecidas por la institución en el tiempo asi
 
 ### CAPÍTULO TERCERO. DE LA PRESENTACIÓN PERSONAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JULIO DE 2003)</small>
+
 ###### Artículo 13.
 
-Como parte de una formación integral y como preparación para su ingreso al sector productivo, en su arreglo personal dentro de la Universidad, el alumno deberá obligatoriamente cumplir con las siguientes disposiciones:
+Como parte de una formación integral y como preparación para su ingreso al sector productivo, en su arreglo personal dentro de la Universidad y en actividades donde representen a la misma, el alumno deberá, obligatoriamente cumplir, entre otras, con las siguientes disposiciones:
 
 I. Presentarse a clases debidamente aseados;
 
 II. Los pantalones que usen deberán ser convencionales, (no con tiro largo ni demasiado flojos o rotos);
 
-III. Usar el uniforme reglamentario, (pantalón o falda de mezclilla y playera con el logotipo de la Universidad);
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2003)</small>
 
-IV. Tener un corte de pelo adecuado;
+III. Usar el uniforme reglamentario, (pantalón o falda de mezclilla color azul y playera gris con el logotipo de la Universidad, fajada);
+
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2003)</small>
+
+IV. Tener un corte de pelo adecuado, (hombres pelo corto);
 
 V. No usar cachucha;
 
-VI. No usar bermudas, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2003)</small>
 
-VII. No usar lentes obscuros dentro del salón.
+VI. No usar aros o similares en ninguna parte del cuerpo;
+
+VII. No usar bermudas, y (sic)
+
+VIII. No usar lentes obscuros dentro del salón;
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2003)</small>
+
+IX. Y no usar todo lo que vaya en contra de la presentación que deban observar dentro del campo laboral.
 
 ### CAPÍTULO CUARTO. DEL HORARIO DE CLASES
 
@@ -401,13 +419,17 @@ V. Por actos cometidos en contra de la disciplina según lo establecido en el ca
 
 ### CAPÍTULO NOVENO. DE LAS DISTINCIONES ACADÉMICAS
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2003)</small>
+
 ###### Artículo 51.
 
-Son candidatos a recibir Mención Honorífica de Excelencia, los graduados que tengan un promedio de calificaciones finales en las asignaturas del plan de estudios igual a diez; que no hayan reprobado asignatura alguna, y no se hayan hecho acreedores a ninguna sanción disciplinaria por parte de la Universidad Tecnológica.
+Son candidatos a recibir Mención Honorífica, los graduados que tengan un promedio de calificaciones finales en las asignaturas del plan de estudios igual a nueve y hasta nueve punto nueve, que no hayan reprobado asignatura alguna, no se hayan hecho acreedores a ninguna sanción disciplinaria por parte de la Universidad Tecnológica y que hayan acreditado de manera sobresaliente la memoria de Estadía, cumpliendo con todos los requisitos señalados en el Reglamento y en el Manual de Procedimientos respectivo, además de haber aprobado con excelencia el Examen Profesional.
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2003)</small>
 
 ###### Artículo 52.
 
-Son candidatos a recibir Mención Honorífica de Excelencia, los graduados que tengan un promedio de calificaciones finales en las asignaturas del plan de estudios igual a diez; que no hayan reprobado asignatura alguna, y no se hayan hecho acreedores a ninguna sanción disciplinaria por parte de la Universidad Tecnológica.
+Son candidatos a recibir Mención Honorífica de Excelencia, los graduados que tengan un promedio de calificaciones finales en las asignaturas del plan de estudios igual a diez; que no hayan reprobado asignatura alguna, no se hayan hecho acreedores a ninguna sanción disciplinaria por parte de la Universidad Tecnológica, y que hayan acreditado de manera sobresaliente la memoria de Estadía, cumpliendo con todos los requisitos señalados en el Reglamento y en el Manual de Procedimientos respectivo, además de haber aprobado con excelencia el Examen Profesional.
 
 ### CAPÍTULO DÉCIMO. DE LOS TÍTULOS Y RECONOCIMIENTOS
 
@@ -530,3 +552,17 @@ Lic. David Guerrero Castellón
 Secretario
 
 Lic. Laura O. Bañuelos Quintero
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS ACTAS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 16 DE JULIO DE 2003.
+
+ACTA POR LA QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 10 Y 13 DEL REGLAMENTO DE ALUMNOS.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
+
+P.O. 16 DE JULIO DE 2003.
+
+ACTA POR LA QUE SE REFORMAN LOS ARTICULOS 51 Y 52 DEL REGLAMENTO DE ALUMNOS.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL PARA EL ESTADO DE NAYARIT VIGENTE.
