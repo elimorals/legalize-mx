@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1974-03-20"
+last_updated: "1974-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE MARZO DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE OCTUBRE DE 1974.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -294,7 +294,9 @@ IV.- Las sociedades comerciales, por acciones, no podrán adquirir, poseer, o ad
 
 V.- Los bancos debidamente autorizados, conforme a las leyes de instituciones de crédito, podrán tener capitales impuestos, sobre propiedades urbanas y rústicas de acuerdo con las prescripciones de dichas leyes, pero no podrán tener en propiedad o en administración más bienes raíces que los enteramente necesarios para su objeto directo.
 
-VI.- Fuera de las corporaciones a que se refieren las fracciones III, IV y V, así como de los núcleos de población que de hecho o por derecho guarden el estado comunal, o de los núcleos dotados, restituídos o constituídos en centro de población agrícola, ninguna otra corporación civil podrá tener en propiedad o administrar por sí, bienes raíces o capitales impuestos sobre ellos, con la única excepción de los edificios destinados inmediata y directamente al objeto de la institución. Los Estados, el Distrito Federal y los Territorios, lo mismo que los Municipios de toda la República, tendrán plena capacidad para adquirir y poseer todos los bienes raíces necesarios para los servicios públicos.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+
+VI.- Fuera de las corporaciones a que se refieren las fracciones III, IV y V, así como de los núcleos de población que de hecho o por derecho guarden el estado comunal, o de los núcleos dotados, restituidos o constituidos en centro de población agrícola, ninguna otra corporación civil podrá tener en propiedad o administrar por sí bienes raíces o capitales impuestos sobre ellos, con la única excepción de los edificios destinados inmediata y directamente al objeto de la institución. Los Estados y el Distrito Federal, lo mismo que los municipios de toda la República, tendrán plena capacidad para adquirir y poseer todos los bienes raíces necesarios para los servicios públicos.
 
 Las leyes de la Federación y de los Estados en sus respectivas jurisdicciones, determinarán los casos en que sea de utilidad pública la ocupación de la propiedad privada, y de acuerdo con dichas leyes la autoridad administrativa hará la declaración correspondiente. El precio que se fijará como indemnización a la cosa expropiada, se basará en la cantidad que como valor fiscal de ella figure en las oficinas catastrales o recaudadoras, ya sea que este valor haya sido manifestado por el propietario o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones con esta base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor fiscal, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de objetos cuyo valor no esté fijado en las oficinas rentísticas.
 
@@ -332,13 +334,17 @@ a).- Una dependencia directa del Ejecutivo Federal encargada de la aplicación d
 
 b).- Un cuerpo consultivo compuesto de cinco personas que serán designadas por el Presidente de la República y que tendrá las funciones que las leyes orgánicas reglamentarias le fijen.
 
-c).- Una Comisión Mixta compuesta de representantes iguales de la Federación, de los Gobiernos locales, y de un representante de los campesinos, cuya designación se hará en los términos que prevenga la ley reglamentaria respectiva, que funcionará en cada Estado, Territorio y Distrito Federal, con las atribuciones que las mismas leyes orgánicas y reglamentarias determinen.
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+
+c).- Una Comisión Mixta compuesta de representantes iguales de la Federación, de los gobiernos locales, y de un representante de los campesinos, cuya designación se hará en los términos que prevenga la Ley Reglamentaria respectiva, que funcionará en cada Estado y en el Distrito Federal, con las atribuciones que las mismas leyes orgánicas y reglamentarias determinen.
 
 d).- Comités particulares ejecutivos para cada uno de los núcleos de población que tramiten expedientes agrarios.
 
 e).- Comisariados ejidales para cada uno de los núcleos de población que posean ejidos.
 
-XII.- Las solicitudes de restitución o dotación de tierras o aguas se presentarán en los Estados y Territorios directamente ante los Gobernadores.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+
+XII.- Las solicitudes de restitución o dotación de tierras o aguas se presentaran en los Estados directamente ante los gobernadores.
 
 Los Gobernadores turnarán las solicitudes a las Comisiones Mixtas, las que substanciarán los expedientes en plazo perentorio y emitirán dictamen: Los Gobernadores de los Estados aprobarán o modificarán el dictamen de las Comisiones Mixtas y ordenarán que se dé posesión inmediata de las superficies que en su concepto procedan. Los expedientes pasarán entonces al Ejecutivo Federal para su resolución.
 
@@ -374,7 +380,9 @@ XVI.- Las tierras que deban ser objeto de adjudicación individual, deberán fra
 
 XVII.- El Congreso de la Unión y las Legislaturas de los Estados, en sus respectivas jurisdicciones, expedirán leyes para fijar la extensión máxima de la propiedad rural; y para llevar a cabo el fraccionamiento de los excedentes, de acuerdo con las siguientes bases:
 
-a).- En cada Estado, Territorio y Distrito Federal, se fijará la extensión máxima de tierra de que pueda ser dueño un solo individuo o sociedad legalmente constituída.
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+
+a).- En cada Estado y en el Distrito Federal se fijará la extensión máxima de tierra de que pueda ser dueño un solo individuo, o sociedad legalmente constituida.
 
 b).- El excedente de la extensión fijada deberá ser fraccionado por el propietario en el plazo que señalen las leyes locales, y las fracciones serán puestas a la venta en las condiciones que aprueben los Gobiernos de acuerdo con las mismas leyes.
 
@@ -590,21 +598,21 @@ V.- Las aguas de los mares territoriales en la extensión y términos que fija e
 
 VI.- El espacio situado sobre el territorio nacional, con la extensión y modalidades que establezca el propio Derecho Internacional.
 
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
 ###### Art. 43.
 
-Las partes integrantes de la Federación son los Estados de Aguascalientes, Baja California, Campeche, Coahuila, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán, Zacatecas, Distrito Federal y Territorios de la Baja California Sur y de Quintana Roo.
+Las partes integrantes de la Federación son los Estados de Aguascalientes, Baja California, Baja California Sur, Campeche, Coahuila, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, Quintana Roo, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán, Zacatecas y el Distrito Federal.
 
 ###### Art. 44.
 
 El Distrito Federal se compondrá del territorio que actualmente tiene, y en el caso de que los Poderes Federales se trasladen a otro lugar, se erigirá en Estado del Valle de México, con los límites y extensión que le asigne el Congreso General.
 
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
 ###### Art. 45.
 
-Los Estados y Territorios de la Federación conservan la extensión y límites que hasta hoy han tenido, siempre que no haya dificultad en cuanto a éstos.
+Los Estados de la Federación conservan la extensión y límites que hasta hoy han tenido, siempre que no haya dificultad en cuanto a éstos.
 
 ###### Art. 46.
 
@@ -652,11 +660,11 @@ DE LA ELECCION E INSTALACION DEL CONGRESO.
 
 La Cámara de Diputados se compondrá de representantes de la Nación, electos en su totalidad cada tres años, por los ciudadanos mexicanos.
 
-> <small>(REFORMADO, D.O.F. 14 DE FEBRERO DE 1972)</small>
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
 ###### Art. 52.
 
-Se eligirá un diputado propietario por cada doscientos cincuenta mil habitantes o por una fracción que pase de ciento veinticinco mil, teniendo en cuenta el censo general del Distrito Federal y el de cada Estado y Territorio; pero en ningún caso la representación de un Estado será menor de dos diputados, y la de un Territorio, cuya población fuese menor de la fijada en este artículo, será de un diputado propietario.
+Se elegirá un diputado propietario por cada doscientos cincuenta mil habitantes o por una fracción que pase de ciento veinticinco mil, teniendo en cuenta el censo general del Distrito Federal y el de cada Estado; pero en ningún caso la representación de un Estado será menor de dos diputados.
 
 ###### Art. 53.
 
@@ -698,7 +706,9 @@ I.- Ser ciudadano mexicano, por nacimiento, en el ejercicio de sus derechos.
 
 II.- Tener veintiún años cumplidos el día de la elección.
 
-III.- Ser originario del Estado o Territorio en que se haga la elección, o vecino de él con residencia efectiva de más de seis meses anteriores a la fecha de ella. La vecindad no se pierde por ausencia en el desempeño de cargos públicos de elección popular.
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+
+III.- Ser originario del Estado en que se haga la elección, o vecino de él con residencia efectiva de más de seis meses anteriores a la fecha de ella. La vecindad no se pierde por ausencia en el desempeño de cargos públicos de elección popular.
 
 IV.- No estar en servicio activo en el Ejército Federal ni tener mando en la policía o gendarmería rural en el Distrito donde se haga la elección, cuando menos noventa días antes de ella.
 
@@ -866,9 +876,11 @@ DE LAS FACULTADES DEL CONGRESO.
 
 El Congreso tiene facultad:
 
-I.- Para admitir nuevos Estados o Territorios a la Unión Federal.
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
-II.- Para erigir los Territorios en Estados cuando tengan una población de ochenta mil habitantes, y los elementos necesarios para proveer a su existencia política.
+I.- Para admitir nuevos Estados a la Unión Federal.
+
+II.- (REFORMADA [N. DE E. DEROGADA], D.O.F. 8 DE OCTUBRE DE 1974)
 
 III.- Para formar nuevos Estados dentro de los límites de los existentes, siendo necesario al efecto:
 
@@ -892,47 +904,45 @@ IV.- Para arreglar definitivamente los límites de los Estados, terminando las d
 
 V.- Para cambiar la residencia de los Supremos Poderes de la Federación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE SEPTIEMBRE DE 1944)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
-VI.- Para legislar en todo lo relativo al Distrito y Territorios Federales, sometiéndose a las bases siguientes.
+VI.- Para legislar en todo lo relativo al Distrito Federal, sometiéndose a las bases siguientes:
 
 > <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1928)</small>
 
 1a.- El Gobierno del Distrito Federal estará a cargo del Presidente de la República, quien lo ejercerá por conducto del órgano u órganos que determine la Ley respectiva.
 
-> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1928)</small>
+2a.- (REFORMADA [N. DE E. DEROGADA], D.O.F. 8 DE OCTUBRE DE 1974)
 
-2a.- El Gobierno de los Territorios estará a cargo de Gobernadores, que dependerán directamente del Presidente de la República, quien los nombrará y removerá libremente.
+3a.- (REFORMADA [N. DE E. DEROGADA], D.O.F. 8 DE OCTUBRE DE 1974)
 
-> <small>(ADICIONADO, D.O.F. 14 DE DICIEMBRE DE 1940)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
-Los Territorios se dividirán en Municipalidades, que tendrán la extensión territorial y el número de habitantes suficientes para poder subsistir con sus propios recursos y contribuir a sus gastos comunes.
-
-> <small>(ADICIONADO, D.O.F. 14 DE DICIEMBRE DE 1940)</small>
-
-Cada Municipalidad de los Territorios estará a cargo de un Ayuntamiento de elección popular directa.
-
-> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1928)</small>
-
-3a.- Los Gobernadores de los Territorios acordarán con el Presidente de la República, por el conducto que determine la ley.
+4ª.- Los nombramientos de los magistrados del Tribunal Superior de Justicia del Distrito Federal serán hechos por el Presidente de la República, y sometidos a la aprobación de la Cámara de Diputados, la que otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si la Cámara no resolviera dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación de la Cámara no podrán tomar posesión los magistrados nombrados por el Presidente de la República. En el caso de que la Cámara de Diputados no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Presidente de la República hará un tercer nombramiento, que surtirá sus efectos desde luego como provisional y que será sometido a la aprobación de la Cámara en el siguiente periodo ordinario de sesiones. En este periodo de sesiones, dentro de los primeros diez días, la Cámara deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si la Cámara desecha el nombramiento, cesará desde luego en sus funciones el Magistrado provisional, y el Presidente de la República someterá nuevo nombramiento a la aprobación de la Cámara, en los términos señalados.
 
 (REFORMADA, D.O.F. 19 DE FEBRERO DE 1951) (F. DE E., D.O.F. 14 DE MARZO DE 1951)
 
-4ª.- Los nombramientos de los Magistrados del Tribunal Superior de Justicia del Distrito Federal y de los Territorios, serán hechos, por el Presidente de la República y sometidos a la aprobación de la Cámara de Diputados, la que otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si la Cámara no resolviera dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación de la Cámara no podrán tomar posesión los Magistrados nombrados por el Presidente de la República. En el caso de que la Cámara de Diputados no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Presidente de la República hará un tercer nombramiento y que surtirá sus efectos desde luego, como provisional y que será sometido a la aprobación de la Cámara, en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los primeros diez días, la Cámara deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si la Cámara desecha el nombramiento, cesará desde luego en sus funciones el Magistrado provisional y el Presidente de la República someterá nuevo nombramiento a la aprobación de la Cámara, en los términos señalados.
-
-> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
-
 En los casos de faltas temporales por más de tres meses de los Magistrados, serán éstos sustituídos mediante nombramiento que el Presidente de la República someterá a la aprobación de la Cámara de Diputados, y en sus recesos, a la de la Comisión Permanente, observándose en su caso, lo dispuesto en las cláusulas anteriores.
+
+> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
 En los casos de faltas temporales que no excedan de tres meses, la Ley Orgánica determinará la manera de hacer la substitución. Si faltare un Magistrado por defunción, renuncia o incapacidad, el Presidente de la República someterá un nuevo nombramiento a la aprobación de la Cámara de Diputados. Si la Cámara no estuviere en sesiones, la Comisión Permanente dará su aprobación provisional, mientras se reúne aquélla y da la aprobación definitiva.
 
-Los jueces de primera instancia, menores y correccionales y los que con cualquiera otra denominación se creen en el Distrito Federal y en los Territorios, serán nombrados por el Tribunal Superior de Justicia del Distrito Federal; deberán tener los requisitos que la ley señale y serán substituídos, en sus faltas temporales, en los términos que la misma ley determine.
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+
+Los Jueces de primera instancia, menores y correccionales y los que con cualquiera otra denominación se creen en el Distrito Federal, serán nombrados por el Tribunal Superior de Justicia del Distrito Federal, deberán tener los requisitos que la Ley señale y serán sustituidos, en sus faltas temporales, en los términos que la misma ley determine.
+
+> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
 La remuneración que los Magistrados y jueces perciban por sus servicios no podrá ser disminuída durante su encargo.
 
+> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
+
 Los Magistrados y los jueces a que se refiere esta base, durarán en sus encargos seis años, pudiendo ser reelectos; en todo caso, podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con la parte final del artículo 111, o previo el juicio de responsabilidad correspondiente.
 
-5a.- El Ministerio Público en el Distrito Federal y en los Territorios estará a cargo de un Procurador General, que residirá en la ciudad de México, y del número de agentes que determine la ley, dependiendo dicho funcionario directamente del Presidente de la República, quien lo nombrará y removerá libremente.
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+
+5ª.- El Ministerio Público en el Distrito Federal estará a cargo de un Procurador General, que residirá en la ciudad de México, y del número de agentes que determine la ley, dependiendo dicho funcionario directamente del Presidente de la República, quien lo nombrará y removerá libremente.
 
 VII.- Para imponer las contribuciones necesarias a cubrir el Presupuesto.
 
@@ -1052,9 +1062,9 @@ XXX.- Para expedir todas las leyes que sean necesarias, a objeto de hacer efecti
 
 Son facultades exclusivas de la Cámara de Diputados:
 
-> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 1971)</small>
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
-I.- Erigirse en Colegio Electoral para ejercer las atribuciones que la Ley le señala respecto a la elección de Presidente de la República. Dicha facultad se ejercerá también respecto de las elecciones de Ayuntamientos en los Territorios, pudiendo suspender y destituir, en su caso, a los miembros de dichos Ayuntamientos y designar sustitutos o juntas municipales, en los términos de las leyes respectivas.
+I.- Erigirse en Colegio Electoral para ejercer las atribuciones que la ley le señala respecto a la elección de Presidente de la República.
 
 II.- Vigilar por medio de una Comisión de su seno, el exacto desempeño de las funciones de la Contaduría Mayor.
 
@@ -1064,9 +1074,9 @@ IV.- Aprobar el presupuesto anual de gastos discutiendo primero las contribucion
 
 V.- Conocer de las acusaciones que se hagan a los funcionarios públicos de que habla esta Constitución, por delitos oficiales, y en su caso, formular acusación ante la Cámara de Senadores y erigirse en Gran Jurado para declarar si ha o no lugar a proceder contra alguno de los funcionarios públicos que gozan de fuero constitucional, cuando sean acusados por delitos del orden común.
 
-> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1928)</small>
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
-VI.- Otorgar o negar su aprobación a los nombramientos de Magistrados del Tribunal Superior de Justicia del Distrito Federal y de los Territorios, que le someta el Presidente de la República.
+VI.- Otorgar o negar su aprobación a los nombramientos de Magistrados del Tribunal Superior de Justicia del Distrito Federal, que le someta el Presidente de la República.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE AGOSTO DE 1928)</small>
 
@@ -1092,7 +1102,9 @@ II.- Ratificar los nombramientos que el mismo funcionario haga de Ministros, Age
 
 III.- Autorizarlo también para que pueda permitir la salida de tropas nacionales fuera de los límites del País, el paso de tropas extranjeras por el territorio nacional y la estación de escuadras de otra potencia, por más de un mes, en aguas mexicanas.
 
-IV.- Dar su consentimiento para que el Presidente de la República pueda disponer de la Guardia Nacional fuera de sus respectivos Estados o Territorios, fijando la fuerza necesaria.
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+
+IV.- Dar su consentimiento para que el Presidente de la República pueda disponer de la Guardia Nacional fuera de sus respectivos Estados, fijando la fuerza necesaria.
 
 V.- Declarar, cuando hayan desaparecido todos los poderes constitucionales de un Estado, que es llegado el caso de nombrarle un Gobernador provisional, quien convocará a elecciones conforme a las leyes constitucionales del mismo Estado. El nombramiento de Gobernador se hará por el Senado a propuesta en terna del Presidente de la República con aprobación de las dos terceras partes de los miembros presentes, y en los recesos, por la Comisión Permanente, conforme a las mismas reglas. El funcionario así nombrado, no podrá ser electo Gobernador constitucional en las elecciones que se verifiquen en virtud de la convocatoria que él expidiere. Esta disposición regirá siempre que las constituciones de los Estados no prevean el caso.
 
@@ -1140,7 +1152,9 @@ La Comisión Permanente, además de las atribuciones que expresamente le confier
 
 I.- Prestar su consentimiento para el uso de la Guardia Nacional, en los casos de que habla el artículo 76, fracción IV.
 
-II.- Recibir, en su caso, la protesta del Presidente de la República, de los miembros de la Suprema Corte de Justicia de la Nación, de los Magistrados del Distrito Federal y Territorios, si estos últimos funcionarios se encontraren en la ciudad de México.
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+
+II.- Recibir, en su caso, la protesta del Presidente de la República, de los miembros de la Suprema Corte de Justicia de la Nación y la de los magistrados del Distrito Federal.
 
 > <small>(REFORMADA, D.O.F. 21 DE OCTUBRE DE 1966)</small>
 
@@ -1150,9 +1164,9 @@ III.- Resolver los asuntos de su competencia, recibir durante el receso del Cong
 
 IV.- Acordar por sí o a propuesta del Ejecutivo, la convocatoria del Congreso o de una sola Cámara a sesiones extraordinarias, siendo necesario en ambos casos el voto de las dos terceras partes de los individuos presentes. La convocatoria señalará el objeto u objetos de las sesiones extraordinarias.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE AGOSTO DE 1928)</small>
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
-V.- Otorgar o negar su aprobación a los nombramientos de Ministros de la Suprema Corte y Magistrados del Tribunal Superior de Justicia del Distrito Federal y de los Territorios, así como a las solicitudes de licencia de los Ministros de la Corte, que les someta el Presidente de la República.
+V.- Otorgar o negar su aprobación a los nombramientos de ministros de la Suprema Corte y magistrados del Tribunal Superior de Justicia del Distrito Federal, así como a las solicitudes de licencia de los ministros de la Corte, que les someta el Presidente de la República.
 
 > <small>(ADICIONADA, D.O.F. 29 DE ABRIL DE 1933)</small>
 
@@ -1162,13 +1176,9 @@ VI.- Conceder licencia hasta por treinta días al Presidente de la República y 
 
 VII.- Ratificar los nombramientos que el Presidente de la República haga de ministros, agentes diplomáticos, cónsules generales, empleados superiores de Hacienda, coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga.
 
-> <small>(ADICIONADA, D.O.F. 6 DE JULIO DE 1971)</small>
+VIII.- (REFORMADA [N. DE E. DEROGADA], D.O.F. 8 DE OCTUBRE DE 1974)
 
-VIII.- Suspender provisionalmente a los miembros de los Ayuntamientos de los Territorios y designar sustitutos o juntas municipales, en su caso, en los términos de las leyes respectivas.
-
-> <small>(ADICIONADA, D.O.F. 6 DE JULIO DE 1971)</small>
-
-IX.- Erigirse en Colegio Electoral, durante los recesos de la Cámara de Diputados, para calificar las elecciones municipales extraordinarias que se celebren en los Territorios.
+IX.- (REFORMADA [N. DE E. DEROGADA], D.O.F. 8 DE OCTUBRE DE 1974)
 
 ### CAPITULO III.
 
@@ -1200,9 +1210,9 @@ IV.- No pertenecer al estado eclesiástico ni ser ministro de algún culto;
 
 V.- No estar en servicio activo, en caso de pertenecer al Ejército, seis meses antes del día de la elección;
 
-> <small>(REFORMADA, D.O.F. 8 DE ENERO DE 1943)</small>
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
-VI.- No ser Secretario o Subsecretario de Estado, Jefe o Secretario General de Departamento Administrativo, Procurador General de la República, ni Gobernador de algún Estado o Territorio, a menos de que se separe de su puesto seis meses antes del día de la elección, y
+VI.- No ser secretario o subsecretario de Estado, jefe o secretario general de Departamento Administrativo, Procurador General de la República, ni Gobernador de algún Estado, a menos de que se separe de su puesto seis meses antes del día de la elección; y
 
 VII.- No estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 83.
 
@@ -1254,7 +1264,9 @@ Las facultades y obligaciones del Presidente son las siguientes:
 
 I.- Promulgar y ejecutar las leyes que expida el Congreso de la Unión, proveyendo en la esfera administrativa a su exacta observancia.
 
-II.- Nombrar y remover libremente a los secretarios del Despacho, al procurador general de la República, al gobernador del Distrito Federal y a los gobernadores de los Territorios, al procurador general de justicia del Distrito Federal y Territorios, remover a los agentes diplomáticos y empleados superiores de Hacienda y nombrar y remover libremente a los demás empleados de la Unión, cuyo nombramiento o remoción no esté determinada de otro modo en la Constitución o en las leyes.
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+
+II.- Nombrar y remover libremente a los secretarios del Despacho, al Procurador General de la República, al Gobernador del Distrito Federal, Procurador General de Justicia del Distrito Federal, remover a los agentes diplomáticos y empleados superiores de Hacienda y nombrar y remover libremente a los demás empleados de la Unión, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las leyes.
 
 III.- Nombrar los ministros, agentes diplomáticos y cónsules generales, con aprobación del Senado.
 
@@ -1286,7 +1298,9 @@ XII.- Facilitar al Poder Judicial los auxilios que necesite para el ejercicio ex
 
 XIII.- Habilitar toda clase de puertos, establecer aduanas marítimas y fronterizas, y designar su ubicación.
 
-XIV.- Conceder, conforme a las leyes, indultos a los reos sentenciados por delitos de competencia de los tribunales federales y a los sentenciados por delitos del orden común, en el Distrito Federal y Territorios.
+> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+
+XIV.- Conceder, conforme a las leyes, indultos a los reos sentenciados por delitos de competencia de los tribunales federales y a los sentenciados por delitos del orden común, en el Distrito Federal.
 
 XV.- Conceder privilegios exclusivos por tiempo limitado, con arreglo a la ley respectiva, a los descubridores, inventores o perfeccionadores de algún ramo de la industria.
 
@@ -1294,9 +1308,9 @@ XV.- Conceder privilegios exclusivos por tiempo limitado, con arreglo a la ley r
 
 XVI.- Cuando la Cámara de Senadores no esté en sesiones, el Presidente de la República podrá hacer los nombramientos de que hablan las fracciones III y IV, con aprobación de la Comisión Permanente.
 
-> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1928)</small>
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
-XVII.- Nombrar Magistrados del Tribunal Superior de Justicia del Distrito Federal y de los Territorios y someter los nombramientos a la aprobación de la Cámara de Diputados o de la Comisión Permanente, en su caso.
+XVII.- Nombrar magistrados del Tribunal Superior de Justicia del Distrito Federal y someter los nombramientos a la aprobación de la Cámara de Diputados, o de la Comisión Permanente, en su caso.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE AGOSTO DE 1928)</small>
 
@@ -1470,9 +1484,13 @@ III.- Por leyes o actos de las autoridades de éstos que invadan la esfera de la
 
 Corresponde a los Tribunales de la Federación conocer:
 
-I.- De todas las controversias del orden civil o criminal que se susciten sobre el cumplimiento y aplicación de leyes federales o de los tratados internacionales celebrados por el Estado Mexicano. Cuando dichas controversias sólo afecten intereses particulares, podrán conocer también de ellas, a elección del actor, los jueces y tribunales del orden común de los Estados, del Distrito Federal y Territorios. Las sentencias de primera instancia podrán ser apelables para ante el superior inmediato del juez que conozca del asunto en primer grado.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
-Las leyes federales podrán instituir tribunales de lo contencioso-administrativo dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias que se susciten entre la Administración Pública Federal o del Distrito y Territorios Federales, y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones.
+I.- De todas las controversias del orden civil o criminal que se susciten sobre el cumplimiento y aplicación de leyes federales o de los tratados internacionales celebrados por el Estado Mexicano. Cuando dichas controversias sólo afecten intereses particulares, podrán conocer también de ellas, a elección del actor, los jueces y tribunales del orden común de los Estados y del Distrito Federal. Las sentencias de primera instancia podrán ser apelables para (sic) ante el superior inmediato del juez que conozca del asunto en primer grado.
+
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+
+Las leyes federales podrán instituir tribunales de lo contencioso-administrativo dotados de plena autonomía para dictar sus fallos, que tengan a su cargo dirimir las controversias que se susciten entre la Administración Pública Federal o del Distrito Federal, y los particulares, estableciendo las normas para su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones.
 
 Procederá el recurso de revisión ante la Suprema Corte de Justicia contra las resoluciones definitivas de dichos tribunales administrativos, sólo en los casos que señalen las leyes federales, y siempre que esas resoluciones hayan sido dictadas como consecuencia de un recurso interpuesto dentro de la jurisdicción contencioso-administrativa.
 
@@ -1576,7 +1594,9 @@ e).- Cuando la autoridad responsable, en amparo administrativo sea federal, con 
 
 f).- Cuando en materia penal, se reclame solamente la violación del artículo 22 de esta Constitución.
 
-En los casos no previstos en los incisos anteriores, así como en los amparos promovidos contra actos de las autoridades administrativas constituidas conforme a la fracción VI, bases primera y segunda del artículo 73 de esta Constitución, conocerán de la revisión los Tribunales Colegiados de Circuito y sus sentencias no admitirán recurso alguno.
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+
+En los casos no previstos en los incisos anteriores, así como en los amparos promovidos contra actos de las autoridades administrativas, constituidas conforme a la fracción VI, base primera del artículo 73 de esta Constitución, conocerán de la revisión los Tribunales Colegiados de Circuito y sus sentencias no admitirán recurso alguno.
 
 IX.- Las resoluciones que en materia de amparo directo pronuncien los Tribunales Colegiados de Circuito no admiten recurso alguno, a menos que decidan sobre la inconstitucionalidad de una ley o establezcan la interpretación directa de un precepto de la Constitución, caso en que serán recurribles ante la Suprema Corte de Justicia, limitándose la materia del recurso exclusivamente a la decisión de las cuestiones propiamente constitucionales.
 
@@ -1662,9 +1682,13 @@ En los casos de este artículo y en los del 109, las resoluciones del Gran Jurad
 
 Se concede acción popular para denunciar ante la Cámara de Diputados los delitos comunes u oficiales de los altos funcionarios de la Federación. Cuando la Cámara mencionada declare que hay lugar a acusar,, (sic) nombrará una comisión de su seno para que sostenga ante el Senado la acusación de que se trate.
 
-El Congreso de la Unión expedirá a la mayor brevedad, una ley de responsabilidad de todos los funcionarios y empleados de la Federación y del Distrito y Territorios Federales, determinando como delitos o faltas oficiales todos los actos u omisiones que puedan redundan en perjuicio de los intereses públicos y del buen despacho, aun cuando hasta la fecha no hayan tenido carácter delictuoso. Estos delitos o faltas serán siempre juzgados por un Jurado Popular, en los términos que para los delitos de imprenta establece el artículo 20.
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
-El Presidente de la República podrá pedir ante la Cámara de Diputados la destitución, por mala conducta, de cualquiera de los Ministros de la Suprema Corte de Justicia de la Nación, de los Magistrados de Circuito, de los Jueces de Distrito, de los Magistrados del Tribunal Superior de Justicia del Distrito Federal y de los Territorios y de los jueces del orden común del Distrito Federal y de los Territorios. En estos casos, si la Cámara de Diputados primero y la de Senadores después, declaran por mayoría absoluta de votos justificada la petición, el funcionario acusado quedará privado desde luego de su puesto, independientemente de la responsabilidad legal en que hubiere incurrido, y se procederá a nueva designación.
+El Congreso de la Unión expedirá, a la mayor brevedad, una Ley de responsabilidad de todos los funcionarios y empleados de la Federación y del Distrito Federal, determinando como delitos o faltas oficiales todos los actos u omisiones que puedan redundar en perjuicio de los intereses públicos y del buen despacho, aun cuando hasta la fecha no hayan tenido carácter delictuoso. Estos delitos o faltas serán siempre juzgados por un Jurado Popular, en los términos que para los delitos de imprenta establece el artículo 20.
+
+> <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+
+El Presidente de la República podrá pedir ante la Cámara de Diputados la destitución, por mala conducta, de cualquiera de los ministros de la Suprema Corte de Justicia de la Nación, de los magistrados de Circuito, de los jueces de Distrito, de los magistrados del Tribunal Superior de Justicia del Distrito Federal y de los jueces del orden común del Distrito Federal. En estos casos, si la Cámara de Diputados primero y la de Senadores después, declaran por mayoría absoluta de votos justificada la petición, el funcionario acusado quedará privado desde luego de su puesto, independientemente de la responsabilidad legal en que hubiere incurrido, y se procederá a nueva designación.
 
 El Presidente de la República, antes de pedir a las Cámaras la destitución de algún funcionario judicial, oirá a éste, en lo privado, a efecto de poder apreciar en conciencia la justificación de tal solicitud.
 
@@ -1950,15 +1974,23 @@ XXX.- Asimismo serán consideradas de utilidad social, las sociedades cooperativ
 
 XXXI.- La aplicación de las leyes del trabajo corresponde a las autoridades de los Estados, en sus respectivas jurisdicciones, pero es de la competencia exclusiva de las autoridades federales en asuntos relativos a la industria textil, eléctrica, cinematográfica, hulera, azucarera, minería, petroquímica, metalúrgica y siderúrgica, abarcando la explotación de los minerales básicos, el beneficio y la fundición de los mismos, así como la obtención de hierro metálico y acero a todas sus formas y ligas y los productos laminados de los mismos, hidrocarburos, cemento, ferrocarriles y empresas que sean administradas en forma directa o descentralizada por el Gobierno Federal; empresas que actúen en virtud de un contrato o concesión federal y las industrias que le sean conexas; empresas que ejecuten trabajos en zonas federales y aguas territoriales; a conflictos que afecten a dos o más Entidades Federativas; a contratos colectivos que hayan sido declarados obligatorios en más de una Entidad Federativa, y por último las obligaciones que en materia educativa corresponden a los patronos, en la forma y términos que fija la Ley respectiva.
 
-> <small>(ADICIONADO, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
-B.- Entre los Poderes de la Unión, los Gobiernos del Distrito y de los Territorios Federales y sus trabajadores:
+B.- Entre los Poderes de la Unión, el Gobierno del Distrito Federal y sus trabajadores:
+
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
 
 I.- La jornada diaria máxima de trabajo diurna y nocturna será de ocho y siete horas respectivamente. Las que excedan serán extraordinarias y se pagarán con un ciento por ciento más de la remuneración fijada para el servicio ordinario. En ningún caso el trabajo extraordinario podrá exceder de tres horas diarias ni de tres veces consecutivas;
 
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
+
 II.- Por cada seis días de trabajo, disfrutará el trabajador de un día de descanso, cuando menos, con goce de salario íntegro;
 
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
+
 III.- Los trabajadores gozarán de vacaciones que nunca serán menores de veinte días al año;
+
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
 
 IV.- Los salarios serán fijados en los presupuestos respectivos, sin que su cuantía pueda ser disminuída durante la vigencia de éstos.
 
@@ -1966,19 +1998,33 @@ IV.- Los salarios serán fijados en los presupuestos respectivos, sin que su cua
 
 En ningún caso los salarios podrán ser inferiores al mínimo para los trabajadores en general en el Distrito Federal y en las Entidades de la República;
 
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
+
 V.- A trabajo igual corresponderá salario igual, sin tener en cuenta el sexo;
+
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
 
 VI.- Sólo podrán hacerse retenciones, descuentos, deducciones o embargos al salario, en los casos previstos en las leyes;
 
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
+
 VII.- La designación del personal se hará mediante sistemas que permitan apreciar los conocimientos y aptitudes de los aspirantes. El Estado organizará escuelas de Administración Pública;
 
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
+
 VIII.- Los trabajadores gozarán de derechos de escalafón a fin de que los ascensos se otorguen en función de los conocimientos, aptitudes y antigüedad;
+
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
 
 XI (sic).- Los trabajadores sólo podrán ser suspendidos o cesados por causa justificada, en los términos que fije la ley.
 
 En caso de separación injustificada tendrá derecho a optar por la reinstalación en su trabajo o por la indemnización correspondiente, previo el procedimiento legal. En los casos de supresión de plazas, los trabajadores afectados tendrán derecho a que se les otorgue otra equivalente a la suprimida o a la indemnización de ley;
 
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
+
 X.- Los trabajadores tendrán el derecho de asociarse para la defensa de sus intereses comunes. Podrán, asimismo, hacer uso del derecho de huelga previo el cumplimiento de los requisitos que determine la ley, respecto de una o varias dependencias de los Poderes Públicos, cuando se violen de manera general y sistemática los derechos que este artículo les consagra;
+
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
 
 XI.- La seguridad social se organizará conforme a las siguientes bases mínimas:
 
@@ -1998,15 +2044,21 @@ f).- Se proporcionarán a los trabajadores habitaciones baratas, en arrendamient
 
 Las aportaciones que se hagan a dicho fondo serán enteradas al organismo encargado de la seguridad social regulándose en su Ley y en las que corresponda, la forma y el procedimiento conforme a los cuales se administrará el citado fondo y se otorgarán y adjudicarán los créditos respectivos;
 
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
+
 XII.- Los conflictos individuales, colectivos o intersindicales serán sometidos a un Tribunal Federal de Conciliación y Arbitraje integrado según lo prevenido en la ley reglamentaria.
 
 Los conflictos entre el Poder Judicial de la Federación y sus servidores, serán resueltos por el Pleno de la Suprema Corte de Justicia de la Nación;
+
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
 
 XIII.- Los militares, marinos y miembros de los cuerpos de seguridad pública, así como el personal de servicio exterior se regirán por sus propias leyes;
 
 > <small>(ADICIONADO, D.O.F. 10 DE NOVIEMBRE DE 1972)</small>
 
 El Estado proporcionará a los miembros en el activo del Ejército, Fuerza Aérea y Armada, las prestaciones a que se refiere el inciso f) de la fracción XI de este Apartado, en términos similares y a través del organismo encargado de la seguridad social de los componentes de dichas instituciones; y
+
+> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
 
 XIV.- La ley determinará los cargos que serán considerados de confianza. Las personas que los desempeñen disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social.
 
@@ -2074,9 +2126,11 @@ Los bienes muebles o inmuebles del clero o de asociaciones religiosas, se regir�
 
 Los procesos por infracción a las anteriores bases, nunca serán vistos en jurado.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+
 ###### Art. 131.
 
-Es facultad privativa de la federación, gravar las mercancías que se importen o exporten o que pasen de tránsito por el territorio nacional, así como reglamentar en todo tiempo, y aún prohibir por motivos de seguridad o de policía, la circulación en el interior de la República, de toda clase de efectos, cualquiera que sea su procedencia; pero sin que la misma Federación pueda establecer ni dictar en el Distrito y Territorios Federales, los impuestos y leyes que expresan las fracciones VI y VII del Art. 117.
+Es facultad privativa de la Federación gravar las mercancías que se importen o exporten, o que pasen de tránsito por el territorio nacional, así como reglamentar en todo tiempo y aún prohibir, por motivos de seguridad o de policía, la circulación en el interior de la República de toda clase de efectos, cualquiera que sea su procedencia; pero sin que la misma Federación pueda establecer, ni dictar, en el Distrito Federal, los impuestos y leyes que expresan las fracciones VI y VII del artículo 117.
 
 > <small>(ADICIONADO, D.O.F. 28 DE MARZO DE 1951)</small>
 
@@ -2729,3 +2783,105 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 D.O.F. 20 DE MARZO DE 1974.
 
 UNICO.- El presente Decreto entrará en vigor treinta días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 8 DE OCTUBRE DE 1974.
+
+###### ARTICULO PRIMERO.
+
+El Estado de Baja California Sur tendrá la extensión territorial y límites que comprende actualmente el Territorio de la Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+El Estado de Quintana Roo tendrá la extensión territorial y límites que comprende actualmente el Territorio de Quintana Roo.
+
+###### ARTICULO TERCERO.
+
+La Cámara de Senadores a propuesta en ternas del Ejecutivo Federal, nombrará un Gobernador Provisional en cada uno de los Estados de Baja California Sur y Quintana Roo. Los Gobernadores Provisionales rendirán la protesta constitucional ante el propio Senado de la República y tomarán desde luego posesión de sus cargos, convocando a elecciones para integrar las legislaturas constituyentes locales, a más tardar el 12 de octubre de 1974.
+
+###### ARTICULO CUARTO.
+
+Las elecciones de diputados para integrar las legislaturas constituyentes, se celebrarán el 10 de noviembre de 1974.
+
+###### ARTICULO QUINTO.
+
+Las legislaturas constituyentes de cada uno de los Estados de Baja California Sur y Quintana Roo se integrarán con siete diputados propietarios y sus respectivos suplentes.
+
+Para ser diputados constituyentes se requiere reunir los requisitos que señala el artículo 55 de la Constitución Federal.
+
+###### ARTICULO SEXTO.
+
+Regirán el proceso electoral para la integración de las legislaturas constituyentes, la Constitución General de la República y la Ley Federal Electoral, en lo conducente.
+
+###### ARTICULO SEPTIMO.
+
+Se crean las comisiones estatales electorales de los Estados de Baja California Sur y Quintana Roo, integradas por un presidente que serán los secretarios generales de gobierno, un secretario y un vocal, designados por los Gobernadores Provisionales y por un comisionado de cada uno de los partidos políticos nacionales. Por cada miembro propietario se nombrará un suplente.
+
+###### ARTICULO OCTAVO.
+
+Se creará un comité distrital electoral en cada uno de los siete distritos electorales en que se dividan los Estados de Baja California Sur y Quintana Roo.
+
+Los comités distritales electorales estarán integrados por un presidente, un secretario y un vocal designados por las comisiones estatales electorales y por un comisionado de cada uno de los partidos políticos nacionales. Por cada miembro propietario se designará un suplente.
+
+###### ARTICULO NOVENO.
+
+Las comisiones estatales electorales, en su primera sesión, harán la división de los Estados de Baja California Sur y Quintana Roo, en siete distritos electorales y elaborarán el calendario de plazos a que se sujetará el proceso comicial.
+
+###### ARTICULO DECIMO.
+
+Podrán registrar fórmulas de candidatos para participar en las elecciones de las legislaturas constituyentes, los partidos políticos nacionales.
+
+###### ARTICULO DECIMO PRIMERO.
+
+En las elecciones de las legislaturas constituyentes se usarán las credenciales permanentes de elector expedidas por el Registro Nacional de Electores para las elecciones federales. Las delegaciones del Registro Nacional de Electores colaborarán y auxiliarán, dentro de sus funciones, a las comisiones estatales y comités distritales electorales.
+
+###### ARTICULO DECIMO SEGUNDO.
+
+Los comités distritales electorales expedirán la constancia de mayoría a las fórmulas de candidatos que la hayan obtenido. Las comisiones estatales electorales resolverán sobre el registro o negativa de registro de las constancias de mayoría.
+
+###### ARTICULO DECIMO TERCERO.
+
+Los presuntos diputados constituyentes, sin necesidad de citación, se reunirán en el recinto que señalen las convocatorias, el 25 de noviembre y constituidos en juntas preparatorias, nombrarán de entre sus miembros, en escrutinio secreto y a mayoría de votos, un Presidente, un Vicepresidente y un Secretario.
+
+En esta reunión, los presuntos diputados presentarán los documentos que los acrediten.
+
+Para la integración y funcionamiento de las juntas preparatorias, estudio y calificación de las elecciones e instalación de la legislatura constituyente, se aplicarán, en lo conducente, las disposiciones del Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos.
+
+###### ARTICULO DECIMO CUARTO.
+
+Las comisiones estatales electorales enviarán a las juntas preparatorias los paquetes relativos a las elecciones de las legislaturas constituyentes y éstas procederán a calificar las elecciones de sus propios miembros. Sus resoluciones serán inapelables.
+
+###### ARTICULO DECIMO QUINTO.
+
+En tanto se expide la Constitución Política de cada uno de los Estados de Baja California Sur y Quintana Roo continuará vigente la legislación que ha regido en los Territorios, excepto en aquellos que pugne con su soberanía. La Hacienda Pública de los Estados se integrará con los ingresos y egresos que determinan las leyes fiscales de los territorios.
+
+El Congreso de la Unión decretará las leyes de ingresos y la Cámara de Diputados los presupuestos de egresos para el año fiscal de 1975, los que regirán provisionalmente en tanto los órganos competentes de los Estados decretan sus propias normas.
+
+###### ARTICULO DECIMO SEXTO.
+
+Mientras se constituye el Poder Judicial de los Estados de Baja California Sur y Quintana Roo conforme a sus respectivas constituciones políticas, la administración de justicia estará a cargo de un Tribunal Superior de Justicia compuesto de tres magistrados y del número y categoría de los juzgados que funcionan actualmente. Los magistrados serán nombrados por los gobernadores provisionales, y los jueces por los Tribunales Superiores de Justicia.
+
+Los gobernadores provisionales nombrarán también al Procurador General de Justicia del Estado respectivo y a los agentes del Ministerio Público.
+
+###### ARTICULO DECIMO SEPTIMO.
+
+El Ejecutivo Federal, por conducto de las Secretarías de Gobernación y del Patrimonio Nacional, determinará los bienes muebles e inmuebles cuyo dominio ceda a los Estados para formar parte del patrimonio de los mismos y, en su caso, de los Municipios.
+
+###### ARTICULO DECIMO OCTAVO.
+
+Los gobernadores provisionales durarán en su encargo hasta el día en que conforme a la Constitución Política de cada uno de los Estados, deban tomar posesión los gobernadores constitucionales electos.
+
+###### ARTICULO DECIMO NOVENO.
+
+Los ciudadanos que funjan como gobernadores provisionales, no podrán ser electos gobernadores constitucionales. Tampoco podrán ser electos diputados para integrar las legislaturas constitucionales, los que funjan con el carácter de propietarios en las constituyentes, ni los suplentes que llegaren a ejercer las funciones de éstos.
+
+###### ARTICULO VIGESIMO.
+
+Con base en los presupuestos de egresos correspondientes, los gobernadores provisionales harán las transferencias de partidas necesarias para cubrir las erogaciones que, en el ejercicio de sus funciones, requieran los poderes estatales.
+
+###### ARTICULO VIGESIMO PRIMERO.
+
+Se faculta al Ejecutivo Federal para dictar, por conducto de la Secretaría de Gobernación, las normas interpretativas y aclaratorias del presente decreto.
+
+###### ARTICULO VIGESIMO SEGUNDO.
+
+El presente decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
