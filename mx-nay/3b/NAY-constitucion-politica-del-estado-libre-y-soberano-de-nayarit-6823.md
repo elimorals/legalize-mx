@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1937-11-13"
+last_updated: "1937-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 1937.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1937.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -519,19 +519,19 @@ Para discutir un proyecto de ley enviado por alguna de las personas que tienen d
 
 En los casos de notoria urgencia calificada por la mayoría de los Diputados presentes, y cuando fueren dispensados los trámites de reglamento, se dará el aviso desde luego. Si a pesar de ello no concurriere el representante, el Congreso procederá a la discusión y votación del proyecto presentado.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1930)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1937)</small>
 
 ###### Art. 53.
 
-Las resoluciones del Congreso no tendrán otro carácter que el de Ley, decreto o acuerdo.
+Las resoluciones del Congreso no tendrán otro carácter que el de Ley, Decreto o Acuerdo.
 
-Es materia de Ley, toda resolución que otorgue derechos o imponga obligaciones a generalidad de personas.
+Es materia de Ley, toda resolución que otorgue derecho o imponga obligaciones a generalidad de personas.
 
-Es materia de decreto toda resolución que otorgue derecho (sic) y obligaciones a determinadas personos (sic) individuales o morales con expresión de sus nombres.
+Es materia de Decreto, toda resolución que otorgue derechos y obligaciones, a determinadas personas individuales o morales con expresión de sus nombres.
 
-Son materia de acuerdo, todas las demás resoluciones de la Cámara que no tengan el carácter de ley o decreto.
+Son materia de Acuerdo, todas las demás resoluciones de la Cámara que no tengan el carácter de Ley o Decreto.
 
-Las leyes y decretos se comunicarán al Ejecutivo, para su promulgación y observancia, firmados por el Presidente y Secretarios, y los acuerdos sólo por los Secretarios. Aprobado por la Cámara un proyecto de ley o decreto, lo enviará desde luego al Ejecutivo para que dentro del plazo de diez días haga las observaciones que juzgue pertinentes.
+Las Leyes y Decretos se comunicarán al Ejecutivo para su promulgación y observancia firmados por el Presidente y Secretarios y los acuerdos sólo por los Secretarios. Aprobado por la Cámara un Proyecto de Ley o Decreto lo enviará desde luego al Ejecutivo para que dentro del plazo de veinticinco días haga las observaciones que juzgue pertinentes.
 
 ###### Art. 54.
 
@@ -867,9 +867,11 @@ Los Jueces de Primera Instancia, los Menores y de Paz, y los demás empleados de
 
 Los Partidos Judiciales del Estado continúan divididos en la misma forma y condiciones en que han estado hasta hoy, a reserva de lo que disponga la ley orgánica judicial
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1937)</small>
+
 ###### Art. 89.
 
-Mientras se expidan las leyes y disposiciones judiciales propias del Estado, quedan vigentes las del Distrito Federal, con sus adiciones y reformas, exceptuándose la disposición relativa al recurso de casación que no podrá ser interpuesto.
+Mientras se expidan los Códigos Civil y de Procedimientos Civiles, el de Procedimientos Penales y demás Leyes o disposiciones judiciales propias del Estado, quedan vigentes las que actualmente rigen en el Distrito Federal con sus adiciones y reformas, exceptuándose las disposiciones concernientes para los menores, por existir en el Estado la Ley de Tribunales para Menores e Incapacitados, así como lo relativo al recurso de casación que no podrá ser interpuesto.
 
 ###### Art. 90.
 
@@ -1292,3 +1294,13 @@ El presente decreto comienza asurtir (sic) sus efectos legales a partir de la fe
 P.O. 13 DE NOVIEMBRE DE 1937
 
 El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación.
+
+P.O. 24 DE NOVIEMBRE DE 1937
+
+###### ARTICULO PRIMERO.
+
+El Artículo primero del presente Decreto, que reforma el artículo cincuenta y tres de la Constitución Política del Estado, surte sus efectos legales a partir de la fecha de su promulgación.
+
+###### ARTICULO SEGUNDO.
+
+El artículo Segundo del presente Decreto que reforma el artículo 89 de la Constitución Política del Estado, entra en vigor, a partir del día primero de enero de mil novecientos treinta y ocho.
