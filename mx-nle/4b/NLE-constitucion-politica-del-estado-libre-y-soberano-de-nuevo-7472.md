@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2000-10-16"
+last_updated: "2001-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 2001.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -419,9 +419,9 @@ III.- Reclamar ante quien corresponda las leyes que dé el Congreso General y la
 
 IV.- Vigilar el cumplimiento de la Constitución y de las leyes, especialmente de las que garanticen la seguridad de las personas y propiedades.
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
 
-V.- Expedir las leyes municipales, con base en las cuales los Ayuntamientos podrán expedir los reglamentos de aplicación en sus respectivos territorios;
+V.- Expedir las leyes en materia municipal con base en las cuales, los Ayuntamientos podrán aprobar las normas administrativas de carácter general de aplicación en sus respectivos territorios;
 
 > <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -445,17 +445,17 @@ IX.- Examinar y aprobar anualmente, a propuesta del Gobernador, el Presupuesto d
 
 Si terminado un año, por cualquier circunstancia no se hubiere aprobado la Ley de Egresos que deba aplicarse al siguiente ejercicio, mientras no haya aprobación expresa en diverso sentido seguirá vigente la misma del ejercicio que termina.
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
 
-X.- Fijar anualmente, a propuesta del Ejecutivo Estatal o de los Ayuntamientos, las contribuciones y demás ingresos que deberán formar la Hacienda Pública Estatal o Municipal respectivamente, procurando que sean suficientes para cubrir sus necesidades; y fiscalizar, vigilar y evaluar el ejercicio financiero estatal o municipal respectivamente, en la etapa de revisión del ciclo presupuestario o de revisión de la cuenta pública ejercida;
+X .- Fijar anualmente, a propuesta del Ejecutivo Estatal o de los Ayuntamientos, las contribuciones y demás ingresos que deberán formar la Hacienda Pública Estatal o Municipal respectivamente, procurando que sean suficientes para cubrir sus necesidades;
 
 XI.- Dispensar Honores a la memoria de los Nuevoleoneses que hayan prestado servicios de importancia al Estado.
 
 XII.- (DEROGADA, P.O. 15 DE JUNIO DE 1968)
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
 
-XIII.- Revisar y aprobar en su caso, cada año y cuando lo juzgue conveniente, las cuentas públicas, así como las de cobro e inversión de los caudales públicos del Estado y los Municipios, previo informe que envíen el Gobernador y la representación legal de los Municipios respectivamente;
+XIII.- Fiscalizar, revisar, vigilar, evaluar y aprobar o rechazar en su caso, las cuentas públicas, el ejercicio financiero y las cuentas de cobro e inversión de los caudales públicos del Estado y los Municipios, previo informe que envíen el Gobernador y la representación legal de los municipios, respectivamente;
 
 XIV.- Promover e impulsar la educación pública y el engrandecimiento de todos los ramos de prosperidad en general.
 
@@ -579,9 +579,9 @@ Las controversias del Estado, los Municipios o las entidades paraestatales y sus
 
 XLIV.- Designar de entre los vecinos, los Concejos Municipales, en los casos que establezca esta Constitución y las leyes;
 
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2001)</small>
 
-XLV.- Instituir mediante las leyes que expida, el Organo de lo Contencioso Administrativo, dotado de autonomía plena en el pronunciamiento de sus fallos y con facultades para resolver los conflictos y controversias que se susciten entre el Estado o su administración pública paraestatal y los particulares, con respecto de los actos de derecho público, estableciendo normas de su organización, funcionamiento, los requisitos, las licencias y renuncias de sus integrantes, sus procedimientos y los recursos contra las resoluciones que pronuncien;
+XLV.- Instituir mediante las leyes que expida, el órgano de lo Contencioso Administrativo dotado de autonomía plena en el pronunciamiento de sus fallos y con facultades para resolver los conflictos y controversias que se susciten entre los particulares y el Estado, los Municipios o la administración descentralizada estatal o municipal; estableciendo las normas de su organización y funcionamiento, los requisitos, las licencias y renuncias de sus integrantes, sus procedimientos y los recursos contra las resoluciones que pronuncie;
 
 > <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 1996)</small>
 
@@ -1415,11 +1415,11 @@ Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos
 
 Los presidentes municipales de los ayuntamientos no podrán ser electos para el periodo inmediato, en municipio diverso al cual se desempeñaron como tales.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
 
 ###### Art. 125.
 
-Los Ayuntamientos enviarán, al Congreso del Estado, las cuentas públicas del ejercicio anterior, para que sean revisadas. Para la aprobación o rechazo de las cuentas referidas, el Congreso del Estado deberá contar, previamente, con los informes que al respecto formule la Contaduría Mayor de Hacienda.
+Los Ayuntamientos enviarán al Congreso del Estado las Cuentas Públicas del ejercicio anterior, para que este las apruebe o rechace en su caso, dentro del año siguiente a la fecha límite para la presentación de las mismas. Para la aprobación o rechazo de las cuentas referidas, el Congreso del Estado deberá contar, previamente, con los informes que al respecto formule la Contaduría Mayor de Hacienda.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -1447,15 +1447,13 @@ Los recursos que integran la Hacienda Municipal serán ejercidos en forma direct
 
 Los presupuestos de egresos de los municipios serán aprobados por los Ayuntamientos con base en sus ingresos disponibles.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
 
-Los Ayuntamientos sólo podrán acordar remuneración para sus miembros, dentro de los parámetros aprobados anualmente por el Congreso.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+Los Ayuntamientos acordarán anualmente las remuneraciones para sus integrantes de acuerdo a los lineamientos que determine la Ley y las someterán al Congreso del Estado para su aprobación o rechazo.
 
 ###### Art. 129.
 
-Las funciones de fiscalización, control, vigilancia, evaluación y revisión de los actos de los servidores públicos municipales y del ejercicio financiero municipal corresponderá a las autoridades que determine la Ley.
+(DEROGADO, P.O. 11 DE MAYO DE 2001)
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
 
@@ -1475,17 +1473,19 @@ d) El procedimiento y condiciones para que el gobierno estatal asuma una funció
 
 e) Las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
 
 ###### Art. 131.
 
-El Congreso del Estado deberá expedir las normas que establezcan los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre el Municipio y el Gobierno del Estado, o entre aquellos, con motivo de los actos derivados de los incisos c) y d) del artículo anterior.
+El Congreso del Estado deberá expedir las normas que establezcan los procedimientos mediante los cuales resolverá los conflictos que se presenten entre uno o varios municipios y el Gobierno del Estado, o entre aquellos, con motivo de los actos derivados de los incisos c) y d) del artículo anterior.
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
 
 ###### Art. 132.
 
-Los municipios tendrán a su cargo las funciones y servicios públicos siguientes:
+Los Municipios tendrán las siguientes atribuciones:
+
+I.- Prestar las funciones y servicios públicos siguientes:
 
 a) Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
 
@@ -1501,19 +1501,23 @@ f) Rastro;
 
 g) Calles, parques y jardines y su equipamiento;
 
-h) Seguridad pública en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito. La policía preventiva municipal estará al mando del Presidente Municipal, en los términos del reglamento correspondiente. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público; e
+h) Seguridad pública en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito. La policía preventiva municipal estará al mando del Presidente Municipal, en los términos del reglamento correspondiente. Aquella acatará las órdenes que el Gobernador del Estado le transmita en los casos que éste juzgue como de fuerza mayor o alteración grave del orden público; e
 
-i) Las demás que el Congreso del Estado determine según las condiciones territoriales, socioeconómicas, capacidad administrativa y financiera de los municipios, los que previo acuerdo entre sus ayuntamientos y sujeción a la Ley, podrán coordinarse para la más eficaz prestación de los servicios públicos que les corresponde. Cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de alguno de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
+i) Las demás que el Congreso del Estado determine según las condiciones territoriales, socioeconómicas, capacidad administrativa y financiera de los municipios, los que previo acuerdo entre sus Ayuntamientos y sujeción a la Ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponden.
 
-Asimismo, los municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para:
+Cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de alguno de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
+
+Las funciones y servicios públicos enumerados, que sean prestados por el Estado, por sí o de manera coordinada con los municipios, podrán ser asumidos por el municipio que corresponda. La autoridad municipal, previa aprobación del Ayuntamiento, deberá remitir al Gobierno del Estado la solicitud respectiva a fin de que éste disponga lo necesario para que la transferencia se realice de manera ordenada, conforme al programa de transferencia que presente el Gobierno de Estado, en un plazo máximo de noventa días contados a partir de la recepción de la solicitud.
+
+En el caso de las funciones y servicios previstos por el inciso a) de esta fracción, dentro del plazo señalado en el párrafo anterior, el Gobierno del Estado podrá solicitar al Congreso conservarlas en su ámbito de competencia, cuando se justifique de manera fehaciente que la transferencia del Estado al Municipio afecta en perjuicio de la población, su prestación. El Congreso del Estado resolverá lo conducente.
+
+II.- Ejercer, en los términos de las leyes federales y estatales relativas, las facultades para:
 
 a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
 
 b) Participar en la creación y administración de sus reservas territoriales;
 
-c) Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia;
-
-Cuando la federación o el estado elaboren proyectos de desarrollo regional deberán asegurar la participación de los municipios.
+c) Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia; cuando la Federación o el Estado elaboren proyectos de desarrollo regional deberán asegurar la participación de los municipios;
 
 d) Autorizar, controlar y vigilar, por conducto del Ayuntamiento o por la autoridad que señalen las normas de carácter general, la utilización del suelo, en el ámbito de su competencia y dentro de sus respectivos territorios;
 
@@ -1527,9 +1531,9 @@ h) Intervenir en la formulación y aplicación de programas de transporte públi
 
 i) Celebrar convenios para la administración y custodia de las zonas federales y del estado.
 
-En lo conducente y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
+En lo conducente y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones que fueren necesarios.
 
-En el caso de que el crecimiento de los centros urbanos forme o tienda a formar una continuidad demográfica, los Municipios involucrados deberán, con apego a la Ley, planear y regular de manera coordinada el desarrollo de los mismos.
+En el caso de que el crecimiento de los centros urbanos forme o tienda a formar una continuidad demográfica, los municipios involucrados deberán, con apego a la Ley, planear y regular de manera coordinada el desarrollo de los mismos.
 
 ## TITULO IX.
 
@@ -1999,13 +2003,25 @@ El Ejecutivo del Estado deberá formular, aprobar y administrar el Programa Esta
 
 Los Municipios del Estado deberán formular, aprobar y administrar los Planes o Programas Municipales de Desarrollo Urbano, de centros de población y los demás derivados de los mismos en los términos de la Ley; así como, participar en la planeación y regulación de las zonas de conurbación, conjunta y coordinadamente con el Ejecutivo y demás Municipios comprendidos dentro de la misma, conforme a la legislación correspondiente.
 
-(REFORMADO, P.O. 9 DE JUNIO DE 1962) (REUBICADO, P.O. 20 DE OCTUBRE DE 1993)
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
 
-El Estado de Nuevo León y sus Municipios tienen derecho para adquirir, poseer y administrar bienes raíces, en cuanto basten a sus necesidades y servicios públicos; y solo podrán enajenarse esta clase de bienes, cualquiera que sea su origen, su destino y carácter, o gravarse en alguna forma que afecte su libre uso por término mayor de cinco años, mediante Decreto del Congreso del Estado, siendo inexistentes las enajenaciones y contratos que sin la autorización aludida se efectúen. Las desafectaciones de los bienes de uso común o los destinados a un servicio público, solo podrán ser decretadas por el H. Congreso del Estado.
+El Estado de Nuevo León y sus Municipios tienen derecho para adquirir, poseer y administrar bienes raíces, y esta clase de bienes sólo podrán enajenarse, gravarse o desincorporarse, cualquiera que sea su origen, su destino y carácter, mediante Decreto del Congreso del Estado que así lo autorice.
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 1993)</small>
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2001)</small>
 
-El Estado de Nuevo León y sus Municipios llevarán a cabo acciones coordinadas, entre sí y con la Federación, en materia de reservas territoriales para el desarrollo urbano y la vivienda, con el objeto de establecer una política integral de suelo urbano y reservas territoriales, mediante la programación de las adquisiciones y la oferta de tierra, evitando la especulación de inmuebles. Para ello, podrán a través de sus dependencias o entidades encargadas, ejercer el derecho de preferencia que las leyes otorgan.
+Se requerirá también Decreto del Congreso cuando el Estado comprometa por un término mayor de 5 años el libre uso de los bienes inmuebles estatales.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2001)</small>
+
+Los convenios mediante los cuales se comprometa el libre uso de los bienes inmuebles municipales, se sujetarán a los términos que fijen las leyes, y requerirán de la aprobación de las dos terceras partes de los integrantes de los Ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2001)</small>
+
+Serán inexistentes las enajenaciones, actos, convenios y contratos que no se ajusten a lo preceptuado por este artículo y la Ley.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2001)</small>
+
+El Estado de Nuevo León y sus Municipios llevarán a cabo acciones coordinadas, entre sí y con la Federación en materia de reservas territoriales para el desarrollo urbano y la vivienda, con el objeto de establecer una política integral de suelo urbano y reservas territoriales, mediante la programación de las adquisiciones y la oferta de la tierra, evitando la especulación de inmuebles. Para ello, podrán a través de sus dependencias o entidades encargadas, ejercer el derecho de preferencia que las leyes otorgan.
 
 ###### Art. 24.
 
@@ -2602,3 +2618,11 @@ En tanto se realiza la transferencia a que se refiere el primer párrafo, las fu
 P.O. 16 DE OCTUBRE DE 2000.
 
 Artículo Único.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE MAYO DE 2001.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Serán respetados los derechos adquiridos con anterioridad a la entrada en vigor del presente Decreto, por los particulares o los servidores públicos del Estado o de los Municipios.
+
+Tercero.- En tanto se expidan o modifiquen las leyes en materia municipal correspondientes, se continuarán aplicando las disposiciones constitucionales y los demás ordenamientos vigentes.
