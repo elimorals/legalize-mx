@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "1993-11-12"
+last_updated: "1994-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 1994.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -687,9 +687,9 @@ En ningún caso se gravará dos veces una misma operación con el impuesto a que
 
 II.- El impuesto sobre adquisición de inmuebles no se causará cuando los adquirentes sean la Federación, el Estado y los Municipios y sean de los clasificados como bienes del dominio público por el último párrafo de la Fracción IV del Artículo 115 de la Constitución Federal de la República.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1994)</small>
 
-No se pagará este Impuesto por la adquisición de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del Contrato de Arrendamiento Financiero; así como las adquisiciones que realicen las asociaciones religiosas constituídas en los términos de la Ley de la materia, siempre que, en este último caso, la adquisición se realice dentro de los seis meses siguientes a su constitución.
+No se pagará este impuesto por la adquisición de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 1991)</small>
 
@@ -2192,3 +2192,13 @@ P.O. 12 DE NOVIEMBRE DE 1993.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 11 DE MARZO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las Asociaciones Religiosas constituídas en los términos de la Ley de Asociaciones Religiosas y Culto Público, no pagarán el Impuesto sobre Adquisición de Inmuebles y Transmisión de Dominio, por las adquisiciones que realicen hasta el 31 de diciembre de 1994.
