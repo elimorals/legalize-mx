@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-procuraduria-federal-del-consumidor-898
 country: "mx"
 rank: "estatuto"
 publication_date: "1994-08-24"
-last_updated: "2003-11-12"
+last_updated: "2004-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8986&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,11 @@ issue_date: "1994-08-23"
 
 ESTATUTO ORGANICO DE LA PROCURADURIA FEDERAL DEL CONSUMIDOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE NOVIEMBRE DE 2003.
+> <small>N. DE E. EL PRESENTE ESTATUTO HA SIDO ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGANICO DE LA PROCURADURIA FEDERAL DEL CONSUMIDOR, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 26 DE ENERO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Estatuto publicado en el Diario Oficial de la Federación el miércoles 24 de agosto de 1994.
 
@@ -658,3 +662,15 @@ UNICO.- El presente Acuerdo entrará en vigor al siguiente día de su publicaci�
 D.O.F. 12 DE NOVIEMBRE DE 2003.
 
 UNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE NOVIEMBRE DE 2004.
+
+PRIMERO.- Este Estatuto Orgánico entrará en vigor a los treinta días naturales siguientes a su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico de la Procuraduría Federal del Consumidor publicado en el Diario Oficial de la Federación en fecha 24 de agosto de 1994.
+
+TERCERO.- Para el establecimiento e inicio de operaciones de las subdelegaciones, la Procuraduría se sujetará a la disposición y asignación presupuestal correspondiente.
+
+CUARTO.- Los procedimientos iniciados conforme al Estatuto que se abroga, se sustanciarán y resolverán por las unidades administrativas que resulten competentes en términos de las disposiciones del Reglamento de la Procuraduría Federal del Consumidor, de este Estatuto Orgánico y de las demás que sean aplicables.
+
+QUINTO.- Se abroga el Acuerdo del ciudadano Procurador Federal del Consumidor por el que determina los órganos superiores jerárquicos que deberán resolver los recursos de revisión, publicado en el Diario Oficial de la Federación el día 29 de noviembre de 1994.
