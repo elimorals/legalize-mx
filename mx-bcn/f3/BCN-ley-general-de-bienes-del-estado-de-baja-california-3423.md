@@ -4,7 +4,7 @@ identifier: "BCN-ley-general-de-bienes-del-estado-de-baja-california-3423"
 country: "mx"
 rank: "ley_general"
 publication_date: "1973-07-31"
-last_updated: "1998-11-27"
+last_updated: "2002-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3423&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY GENERAL DE BIENES DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 2002.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 31 de julio de 1973.
 
@@ -175,15 +175,21 @@ En la declaratoria de rescate se establecerán las bases generales que servirán
 
 Si el afectado estuviese conforme con el monto de la indemnización, la cantidad que se señale por este concepto tendrá carácter definitivo. Si no estuviere conforme, el importe de la indemnización se determinará por la autoridad judicial, a petición del interesado, quien deberá formularla dentro del plazo de 15 días contados a partir de la fecha en que se le notifique la resolución que determine el monto de la indemnización.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
 
 ###### ARTICULO 16.
 
-Los bienes de dominio público podrán ser enajenados, previo Decreto de desincorporación que expida la Legislatura del Estado, cuando por algún motivo dejen de servir para el fin señalado en dicha disposición.
+Los bienes de dominio público podrán ser enajenados, previo Decreto de desincorporación que expida la Legislatura del Estado, cuando por algún motivo dejen de servir para el fin respectivo.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
+La solicitud deberá presentarse al Congreso del Estado, mediante Iniciativa de Decreto del Ejecutivo del Estado, a la cual acompañará tratándose de inmuebles:
 
-La iniciativa de Decreto por medio de la cual se solicite la desincorporación, estipulará el destino que se le dará al producto que se obtenga de la enajenación, y deberá acompañarse de avalúo practicado por la Comisión Estatal de Avalúos.
+I.- Un Dictamen Técnico que justifique la desincorporación;
+
+II.- Un plano de localización de los mismos, así como un deslinde en el que se señale la superficie total del inmueble, y sus medidas y colindancias;
+
+III.- La especificación de que su aprovechamiento es compatible con las correspondientes declaratorias de provisiones, reservas, usos y destinos que señalen los planes y programas de desarrollo urbano;
+
+La Iniciativa de Decreto especificará el aprovechamiento que se le dará al bien y el uso que se le dará al producto que se obtenga de la enajenación en su caso, debiendo acompañarse de avalúo practicado por la Comisión Estatal de Avalúos.
 
 ###### ARTICULO 17.
 
@@ -403,11 +409,11 @@ Las ventas de acciones a que se refiere el párrafo anterior no podrán ser de t
 
 La infracción de alguno o algunos de los preceptos anteriores, producirá la nulidad de la operación.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2002)</small>
 
 ###### ARTICULO 42.
 
-Los bienes de dominio privado del Estado pueden ser objeto de todos los contratos que regula el derecho común.
+Los bienes de dominio privado del Estado pueden ser objeto de todos los contratos que regula el derecho común; con excepción de los contratos de comodato que se celebren para fines particulares.
 
 ###### ARTICULO 43.
 
@@ -572,3 +578,17 @@ P.O. 27 DE NOVIEMBRE DE 1998.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto de reforma entrará en vigor a partir del día siguiente a la fecha de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
+
+P.O. 27 DE SEPTIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+La presente Reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+Las solicitudes de desincorporación de bienes que se encuentre (sic) en trámite se regirán hasta su terminación por lo dispuesto en las disposiciones vigentes al momento de la presentación de la Iniciativa de Decreto de desincorporación.
+
+###### ARTICULO TERCERO.
+
+Los contratos de comodato que se encuentre (sic) vigentes al momento de la publicación de las presente reformas, se regirán hasta su terminación por las normas vigentes al momento de su celebración.
