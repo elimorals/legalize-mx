@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1953-12-26"
+last_updated: "1958-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 1958.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -386,6 +386,10 @@ La celebración de sesiones extraordinarias no impedirá la elección del Congre
 ###### Art. 42.
 
 El Gobernador asistirá a la apertura del primer periodo de sesiones ordinarias, de cada año, y presentará un informe por escrito en el que exponga suscintamente el estado de todos los ramos de la Administración Pública. El Presidente del Congreso contestará en términos generales.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1958)</small>
+
+Cuando la fecha anterior coincida con aquella en que el Señor Presidente de la República entre a ejercer su Encargo, se cambiará al día 20 del mismo mes de Diciembre.
 
 > <small>(REFORMADO, P.O. 25 DE AGOSTO DE 1943)</small>
 
@@ -1265,7 +1269,7 @@ Se derogan las leyes, decretos y reglamentos vigentes en el Estado, en todo lo q
 
 > <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 1943)</small>
 
-TRANSITORIO: (sic) El Ejercicio Constitucional de tres años que para los Ayuntamientos señala el Artículo 114 reformado de esta Constitución, entrará en vigor el primero de enero de mil novecientos cuarenta y seis.
+TRANSITORIO: (sic El Ejercicio Constitucional de tres años que para los Ayuntamientos señala el Artículo 114 reformado de esta Constitución, entrará en vigor el primero de enero de mil novecientos cuarenta y seis.
 
 Dado en el Salón de Sesiones del Poder Legislativo del Estado de Nayarit, en Tepic, capital del Estado, a los cinco días del mes de febrero de mil novecientos dieciocho.
 
@@ -1359,7 +1363,7 @@ Primero:- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 SEGUNDO:- Este Decreto comienza a surtir sus efectos a partir del día de su publicación.
 
-P.O. 11 DE SEPTIEMBRE DE 1935.
+P.O. 11 DE SEPTIEMBRE DE 1935
 
 Este Decreto comenzará a surtir sus efectos legales a partir del día de su promulgación.
 
@@ -1442,3 +1446,7 @@ UNICO.- El presente Decreto entrará en vigor desde la fecha de su publicación 
 P.O. 26 DE DICIEMBRE DE 1953
 
 UNICO.- La reforma a que se contrae el presente Decreto, surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE OCTUBRE DE 1958
+
+UNICO.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
