@@ -4,7 +4,7 @@ identifier: "LBM"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-23"
-last_updated: "1998-01-23"
+last_updated: "1999-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LBM"
 
 LEY DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE ENERO DE 1999.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el jueves 23 de diciembre de 1993.
 
@@ -94,7 +94,9 @@ El Banco de México podrá llevar a cabo los actos siguientes:
 
 I. Operar con valores;
 
-II. Otorgar crédito al Gobierno Federal, a las instituciones de crédito, así como a los fondos bancario de protección al ahorro y de apoyo al mercado de valores previstos en las leyes de Instituciones de Crédito y del Mercado de Valores;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 1999)</small>
+
+II. Otorgar crédito al Gobierno Federal, a las instituciones de crédito, así como al organismo descentralizado denominado Instituto para la Protección al Ahorro Bancario;
 
 III. Otorgar crédito a las personas a que se refiere la fracción VI del artículo 3o.;
 
@@ -741,3 +743,9 @@ NOVENO.- Lo dispuesto por los artículos 25, 26, 27 y 28 de la Ley del Servicio 
 D.O.F. 23 DE ENERO DE 1998.
 
 ÚNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 19 DE ENERO DE 1999.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El artículo segundo del presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
