@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2004-04-05"
+last_updated: "2004-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 2004.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -2850,8 +2850,6 @@ IX.- Gravar la producción, el acopio o la venta del tabaco en rama, en forma di
 
 El Congreso de la Unión y las Legislaturas de los Estados dictarán, desde luego, leyes encaminadas a combatir el alcoholismo.
 
-> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
-
 ###### Art. 118.
 
 Tampoco pueden, sin consentimiento del Congreso de la Unión:
@@ -2861,6 +2859,8 @@ I.- Establecer derechos de tonelaje, ni otro alguno de puertos, ni imponer contr
 II.- Tener, en ningún tiempo, tropa permanente ni buques de guerra.
 
 III.- Hacer la guerra por sí a alguna potencia extranjera, exceptuándose los casos de invasión y de peligro tan inminente, que no admita demora. En estos casos darán cuenta inmediata al Presidente de la República.
+
+> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
 
 ###### Art. 119.
 
@@ -4754,7 +4754,7 @@ DECIMO SEGUNDO.- Los derechos laborales de los servidores públicos del Poder Ju
 
 D.O.F. 2 DE MARZO DE 1995.
 
-UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 3 DE JULIO DE 1996.
 
@@ -4804,7 +4804,9 @@ D.O.F. 20 DE MARZO DE 1997.
 
 PRIMERO.- El presente Decreto entrará en vigor al año siguiente de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO.- Quienes hayan perdido su nacionalidad mexicana por nacimiento, por haber adquirido voluntariamente una nacionalidad extranjera y si se encuentran en pleno goce de sus derechos, podrán beneficiarse de lo dispuesto en el artículo 37, apartado A), constitucional, reformado por virtud del presente Decreto, previa solicitud que hagan a la Secretaría de Relaciones Exteriores, dentro de los cinco años siguientes a la citada fecha de entrada en vigor del presente.
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2004)</small>
+
+SEGUNDO.- Quienes hayan perdido su nacionalidad mexicana por nacimiento, por haber adquirido voluntariamente una nacionalidad extranjera y si se encuentran en pleno goce de sus derechos, podrán beneficiarse de lo dispuesto en el artículo 37, apartado A), constitucional, previa solicitud que hagan a la Secretaría de Relaciones Exteriores, en cualquier tiempo.
 
 > <small>(REFORMADO, D.O.F. 26 DE FEBRERO DE 1999)</small>
 
@@ -5009,6 +5011,10 @@ D.O.F. 29 DE OCTUBRE DE 2003.
 D.O.F. 5 DE ABRIL DE 2004.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE JULIO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO PRIMERO.
 
