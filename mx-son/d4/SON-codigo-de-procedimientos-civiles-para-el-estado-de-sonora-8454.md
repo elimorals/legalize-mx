@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "1998-12-24"
+last_updated: "2001-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE MAYO DE 2001.
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -1971,6 +1971,10 @@ Separación de personas como acto prejudicial.
 
 El que intente demandar, denunciar o querellarse contra su cónyuge, puede solicitar su separación.
 
+> <small>(ADICIONADO, B.O. 17 DE MAYO DEL 2001)</small>
+
+Los derechos contemplados en el presente capítulo, también podrán ejercerlos la concubina y el concubino, cuando tengan un domicilio común con las características del domicilio conyugal a que se refiere el Código Civil.
+
 > <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
 ###### Art. 220.
@@ -1981,9 +1985,15 @@ I.- Sólo los Jueces de Primera Instancia del lugar del domicilio conyugal puede
 
 II.- La solicitud puede ser escrita o verbal, en la que se señalarán las causas en que se funda, el domicilio para la habitación del solicitante, la existencia de hijos menores y las demás circunstancias del caso;
 
-III.- Cuando la mujer sea la que solicite la separación y permanezca en el domicilio conyugal, se conminará al marido para que se abstenga de concurrir al mismo mientras la medida subsista, sin perjuicio de que se le permita retirar su ropa, objetos personales y los bienes que sean necesarios para el ejercicio de su profesión, arte u oficio a que está dedicado; y
+> <small>(REFORMADA, B.O. 17 DE MAYO DE 2001)</small>
+
+III.- Cuando cualquiera de los cónyuges, concubina o concubino, sea quien solicita la separación y permanezca en el domicilio conyugal, se conminará al otro cónyuge, concubina o concubino, según sea el caso, para que se abstenga de concurrir al mismo mientras la medida subsista, sin perjuicio de que se le permita retirar su ropa, objetos personales y los bienes que sean necesarios para el ejercicio de su profesión, arte u oficio a que esta dedicado, además, cuando así lo considere necesario, el juez podrá imponer como medidas precautorias y de seguridad, la prohibición de ir a lugar determinado, caución de no ofender, abstenerse de realizar actos de perturbación o intimidación en contra del otro cónyuge, concubina o concubino, de sus bienes y familiares, en sus domicilios, lugares de trabajo, recreación o donde quiera que se encuentren, así como mantenerse alejado a una distancia que considere pertinente según las circunstancias del caso y, en general, las que considere necesarias para salvaguardar la integridad física, psíquica, moral y patrimonial del solicitante;
 
 IV.- El Juez podrá decretar las medidas que juzgue adecuadas para la realización de la separación y aplicará en lo conducente las reglas del artículo 447 del Código Civil y de la ejecución forzosa.
+
+> <small>(ADICIONADA, B.O. 17 DE MAYO DE 2001)</small>
+
+V.- En el caso de violencia intrafamiliar, el Juez de Primera Instancia, para normar su criterio, podrá tomar en cuenta los dictámenes y opiniones que hubieren realizado las instituciones públicas y privadas dedicadas a atender asuntos de esta índole y en particular podrá imponer cualquier medida de seguridad a que se refieren el artículo 39 fracción IV de la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Sonora, sin perjuicio de cualquier otra medida prevista en este artículo.
 
 > <small>(REFORMADO, B.O. 9 DE AGOSTO DE 1990)</small>
 
@@ -5188,6 +5198,16 @@ III.- El principio preclusivo, en cuanto signifique un obstáculo para el logro 
 IV.- La admisión de hechos y el allanamiento no vinculan al juez;
 
 V.- No tendrán aplicación las reglas formales de apreciación de las pruebas, ni las ficciones legales.
+
+> <small>(ADICIONADO, B.O. 17 DE MAYO DE 2001)</small>
+
+El Juez de Primera Instancia estará facultado para intervenir en los asuntos que afecten a la familia, especialmente tratándose de menores, de alimentos y de cuestiones relacionadas con violencia intrafamiliar, pudiendo decretar de oficio medidas precautorias y de seguridad que tiendan a preservar la familia y proteger a sus miembros, observando en particular las previstas en el artículo 447 del Código Civil y la fracción IV del artículo 39 de la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 17 DE MAYO DEL 2001)</small>
+
+Art. 553 BIS.- No se requieren formalidades especiales para acudir ante el Juez de Primera Instancia tratándose de actos de violencia intrafamiliar previstos en el artículo 489 bis del Código Civil para el Estado de Sonora.
+
+El Juez, valorando la situación de la parte agredida y la posibilidad de peligro para la misma, podrá recomendar a los involucrados que convengan en audiencia privada, los actos para hacer cesar la situación de violencia intrafamiliar y en caso de que no lo hicieran o no resultare conveniente para la parte agredida, en la misma audiencia el Juez del conocimiento determinará las medidas procedentes para la protección de los menores y de la parte agredida. Al efecto, el Juez para normar su criterio, podrá tomar en cuenta, los informes que al respecto hayan sido elaborados por las instituciones públicas o privadas que hubieren intervenido y escuchará al Ministerio Público, así como a la Procuraduría de la Defensa del Menor y de la Familia.
 
 ###### Art. 554.
 
@@ -8424,3 +8444,7 @@ B.O. 24 DE DICIEMBRE DE 1998.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor, al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 17 DE MAYO DE 2001.
+
+UNICO.- El presente Decreto entrará al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
