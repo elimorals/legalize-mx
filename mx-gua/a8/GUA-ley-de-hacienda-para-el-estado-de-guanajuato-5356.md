@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-5356"
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "2003-12-23"
+last_updated: "2004-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 2003.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL PERIODICO OFICIAL EL 27 DE DICIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -652,3 +654,9 @@ Artículo Segundo.- El 90% de los recursos que se generen del Impuesto por Servi
 Asimismo, se establece un plazo máximo de dos meses contados a partir de la vigencia de este Decreto, para que se extinga la constitución del fideicomiso público denominado "Fideicomiso Público de Inversión y Administración del Impuesto por Servicios de Hospedaje del Estado de Guanajuato", creado mediante el Decreto Gubernativo número 55, publicado en el Periódico Oficial del Gobierno del Estado número 22, segunda parte de fecha 18 de marzo de 1997.
 
 Artículo Tercero.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2004.
+
+Artículo Primero.- La presente Ley entrará en vigor a partir del día 1° primero de enero del año 2005 dos mil cinco, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Se abroga la Ley de Hacienda para el Estado de Guanajuato, contenida en el Decreto número 74, expedido por el H. Congreso del Estado y publicada en el Periódico Oficial del Gobierno del Estado número 103, segunda parte, de fecha 26 de diciembre de 1989.
