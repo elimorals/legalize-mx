@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-los-municipios-del-estado-de-baja-2949"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1995-12-20"
+last_updated: "1998-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE MAYO DE 1998.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1985.
 
@@ -2071,7 +2071,7 @@ V.- De organismos descentralizados o de participación Municipal.
 
 VI.- Otros no especificados.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 30 DE JUNIO DE 1991)</small>
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 31 DE MAYO DE 1998)</small>
 
 ### CAPITULO SEGUNDO
 
@@ -2119,61 +2119,43 @@ PARTICIPACIONES.
 
 El incumplimiento del Artículo 110, será acrredor (sic) a una sanción de 3 a 50 días salario mínimo.
 
-### CAPITULO PRIMERO
-
-DISPOSICIONES GENERALES.
-
-> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 1994)</small>
+### CAPITULO SEGUNDO
 
 ###### ARTICULO 106-B.
 
-Son objeto de las contribuciones especiales los ingresos que se obtengan por la realización de actividades comerciales, industriales, mineras y de prestación de servicios.
-
-> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
+(DEROGADO, B.O. 31 DE MAYO DE 1998)
 
 ###### ARTICULO 106-C.
 
-Son sujetos de la contribución especial, las personas físicas o las morales que realicen las actividades mencionadas en el artículo anterior, dentro de la jurisdicción municipal de Los Cabos.
-
-> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
+(DEROGADO, B.O. 31 DE MAYO DE 1998)
 
 ###### ARTICULO 106-D.
 
-La base de la contribución especial, serán todas aquellas percepciones en efectivo o en especie que reciban las personas físicas o las morales, por el ejercicio de las actividades señaladas en el artículo 106-B.
-
-> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
+(DEROGADO, B.O. 31 DE MAYO DE 1998)
 
 ###### ARTICULO 106-E.
 
-La tasa de la contribución especial será el 1.3% sobre la base mencionada en el artículo 106-D.
-
-> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
+(DEROGADO, B.O. 31 DE MAYO DE 1998)
 
 ###### ARTICULO 106-F.
 
-Los ingresos que se obtengan por la enajenación de los artículos integrantes de la canasta básica señalados por la Secretaría de Comercio y Fomento Industrial, estarán exentos al pago de la contribución especial.
+(DEROGADO, B.O. 31 DE MAYO DE 1998)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 30 DE JUNIO DE 1991)</small>
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE MAYO DE 1998)</small>
 
 ###### ARTICULO 112.
 
 Los giros que no estén inscritos en el padrón correspondiente o por los que no se hubiera obtenido licencia para su funcionamiento y operen infringiendo los términos de la licencia concedida, serán clausurados por las autoridades fiscales sin perjuicio de las sanciones correspondientes.
 
-### CAPITULO SEGUNDO
-
-DE LAS ACTIVIDADES COMERCIALES, INDUSTRIALES, MINERAS Y DE PRESTACION DE SERVICIOS.
-
-> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
+### CAPITULO PRIMERO
 
 ###### ARTICULO 106-G.
 
-El pago de la contribución especial se hará dentro de los quince días siguientes al mes en que se perciban los ingresos señalados en el artículo 106-B de esta Ley.
-
-> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
+(DEROGADO, B.O. 31 DE MAYO DE 1998)
 
 ###### ARTICULO 106-H.
 
-En caso de mora de los sujetos de la contribución especial serán aplicables las disposiciones contenidas en los Títulos II, IV, V, y VI del Código Fiscal para el Estado y Municipios de Baja California Sur.
+(DEROGADO, B.O. 31 DE MAYO DE 1998)
 
 DISPOSICIONES GENERALES.
 
@@ -2243,7 +2225,7 @@ Todas las liquidaciones de créditos fiscales se elevarán a múltiples de $ 1.0
 
 El Tesorero Municipal tendrá todas las facultades para requerir a los contribuyentes el cumplimiento de los créditos y obligaciones fiscales, aplicar el procedimiento económico coactivo e imponer sanciones y todas las atribuciones que para el Secretario de Finanzas del Gobierno del Estado establece el Código Fiscal para el Estado y Municipios de Baja California Sur y demás Leyes tributarias.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 20 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 10 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 124.
 
@@ -2291,13 +2273,13 @@ Para aplicar las reducciones a las contribuciones de referencia, dentro de los l
 
 Los recargos y gastos de ejecución originados por la falta de pago de un crédito fiscal en la fecha o plazo establecido o las multas determinadas sobre el monto del crédito por infracciones a las disposiciones fiscales a cargo de pensionados o jubilados, se reducirán conforme a los porcentajes y respecto de las contribuciones que se indican en los artículos 125 y 126 de esta Ley, en la misma proporción con que se haya beneficiado al pensionado o jubilado.
 
-T R A N S I T O R I O S :
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 20 DE DICIEMBRE DE 1995)</small>
 
 ## TITULO SEXTO
 
 DE LAS REDUCCIONES PARA PENSIONADOS Y JUBILADOS.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 10 DE DICIEMBRE DE 1993)</small>
+T R A N S I T O R I O S :
 
 ###### ARTICULO 129.
 
@@ -2335,23 +2317,17 @@ Las Tesorerías Municipales expedirán los Certificados de Promoción Fiscal don
 
 > <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 10 DE DICIEMBRE DE 1993)</small>
 
-## TITULO QUINTO BIS
+## TITULO QUINTO BIS.
 
-CONTRIBUCIONES ESPECIALES.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 30 DE JUNIO DE 1991)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE MAYO DE 1998)</small>
 
 ### CAPITULO TERCERO
 
-DISPOSICIONES COMUNES.
-
-> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 1991)</small>
-
 ###### ARTICULO 106-A.
 
-Se establece en el Municipio de Los Cabos la contribución especial para la obtención de recursos destinados a la modernización a cuatro carriles de la carretera transpeninsular en el tramo Aeropuerto - San José del Cabo - Cabo San Lucas, y para la realización de obras de infraestructura y equipamiento urbano.
+(DEROGADO, B.O. 31 DE MAYO DE 1998)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 30 DE JUNIO DE 1991)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE MAYO DE 1998)</small>
 
 ## TITULO SEPTIMO
 
@@ -2528,3 +2504,7 @@ B.O. 20 DE DICIEMBRE DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día primero de enero de mil novecientos noventa y seis, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE MAYO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
