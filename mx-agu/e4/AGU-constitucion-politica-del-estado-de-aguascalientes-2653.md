@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1962-02-25"
+last_updated: "1964-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 1962.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 1964.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -543,9 +543,9 @@ II.- Presentar cada año al Congreso a más tardar el día quince de diciembre, 
 
 III.- Asistir a la apertura de los períodos ordinarios de sesiones del Congreso;
 
-> <small>(REFORMADA, P.O. 23 DE MAYO DE 1954)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1964)</small>
 
-IV.- Informar anualmente al Congreso, el día 16 de septiembre, en sesión especial convocada para ese objeto, sobre el estado general de la administración.
+IV.- Informar anualmente al Congreso sobre el estado general de la Administración, en sesión especial convocada para ese objeto, dentro del término de cuarenta y cinco días contados a partir del día dieciséis de septiembre, en que se inicia el primer período ordinario de sesiones.
 
 V.- Pedir y dar informes al Congreso sobre cualquier ramo de la Administración, y al Supremo Tribunal sobre el de Justicia;
 
@@ -1166,3 +1166,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 P.O. 25 DE FEBRERO DE 1962.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 23 DE AGOSTO DE 1964.
+
+UNICO.- El presente Decreto entrará en vigor, a partir de la fecha de su publicación en el Periódico Oficial del Estado.
