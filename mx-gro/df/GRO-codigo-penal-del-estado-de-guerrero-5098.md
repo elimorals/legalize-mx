@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "1993-02-19"
+last_updated: "1996-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PENAL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1996.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -1963,7 +1963,121 @@ VII.- Abandone una defensa o negocio sin motivo justificado y causando daño.
 
 289.- Al defensor de oficio que cometa alguno de los delitos a que se refiere el artículo anterior, se le sancionará, además, con privación del cargo e inhabilitación para ejercer otro cargo público hasta por dos años.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 1996)</small>
+
+### CAPITULO UNICO. DELITOS ELECTORALES Y EN MATERIA DE REGISTRO ESTATAL DE CIUDADANOS
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
+
+290.- Para los efectos de este Capítulo se entiende por:
+
+I.- Funcionarios electorales, quienes en los términos de la legislación electoral local integren los órganos que cumplen funciones públicas electorales;
+
+II.- Funcionarios partidistas, los dirigentes de los partidos políticos nacionales, estatales, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales locales, los propios partidos otorgan representación para actuar ante los órganos electorales en los términos de la legislación respectiva; y
+
+III.- Documentos públicos electorales, las actas oficiales de instalación de casillas, de los escrutinios y cómputo de las mesas directivas de casilla, las de cómputos distritales y, en general, los documentos expedidos en el ejercicio de sus funciones por los órganos del Consejo Estatal Electoral.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
+
+291.- Por la comisión de cualquiera de los delitos comprendidos en el presente capítulo se podrá imponer además la pena señalada, la inhabilitación de uno a cinco años y, en su caso, la destitución del cargo.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
+
+292.- Se impondrá multa de diez a cien días de salario mínimo diario general vigente en el Estado o prisión de seis meses a dos años o ambas sanciones, a juicio del juez, a quien:
+
+I.- Vote a sabiendas que no cumple con los requisitos de ley;
+
+II.- Vote más de una vez en una misma elección;
+
+III.- Haga proselitismo o presione a los electores el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentren formados los votantes;
+
+IV.- Obstaculice o interfiera el desarrollo normal de las votaciones, del escrutinio o del cómputo;
+
+V.- Recoja sin causa prevista por la ley, credenciales de elector de los ciudadanos;
+
+VI.- Solicite votos por paga, dádiva o promesa de dinero u otra recompensa;
+
+VII.- Viole de cualquier manera el secreto del voto;
+
+VIII.- Vote o pretenda votar con una credencial de la que no sea titular;
+
+IX.- El día de la elección organice la reunión y traslado de votantes con el objeto de llevarlos a votar y de influir en el sentido de su voto;
+
+X.- Introduzca o sustraiga de las urnas ilícitamente una o más boletas electorales; destruya o altere boletas o documentos electorales;
+
+XI.- Obtenga o solicite declaración firmada del elector acerca de su intención o el sentido de su voto, o bien que comprometa el voto mediante amenaza o promesa; o
+
+XII.- Impida en forma violenta la instalación de una casilla.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
+
+293.- Se impondrá multa de hasta 500 días de salario mínimo diario general vigente en el Estado, a los ministros de cultos religiosos que, por cualquier medio, en el desarrollo de actos propios de su ministerio induzcan al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
+
+294.- Se impondrá multa de cincuenta a doscientos días de salario mínimo diario general vigente en el Estado y prisión de dos a seis años, al funcionario electoral que:
+
+I.- Altere en cualquier forma, sustituya, destruya o haga uso indebido de documentos relativos al Registro Estatal de Electores;
+
+II.- Se abstenga de cumplir, sin causa justificada, con sus obligaciones electorales en perjuicio del proceso;
+
+III.- Obstruya el desarrollo normal de la votación sin mediar causa justificada;
+
+IV.- Altere los resultados electorales, sustraiga o destruya boletas o documentos electorales;
+
+V.- No entregue o impida la entrega oportuna de documentos oficiales, sin mediar causa justificada;
+
+VI.- En ejercicio de sus funciones, ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+VII.- Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la ley de la materia; la instale en lugar distinto al legalmente señalado o impida su instalación;
+
+VIII.- Al que expulse de la casilla electoral, sin causa justificada, al representante de un partido político o coarte los derechos que la ley le concede;
+
+IX.- Conociendo la existencia de condiciones o actividades que atenten contra la libertad y el secreto del voto, no tome las medidas conducentes para que cesen;
+
+X.- Permita o tolere, a sabiendas, que un ciudadano emita su voto cuando no cumple con los requisitos de ley o que se introduzcan en las urnas, ilícitamente, una o más boletas electorales;
+
+XI.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
+
+295.- Se impondrá multa de cien a doscientos días de salario mínimo diario general vigente en el Estado y prisión de uno a seis años, al funcionario partidista que:
+
+I.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+II.- Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
+
+III.- Sustraiga, destruya, altere o haga uso indebido de documentos oficiales de índole electoral;
+
+IV.- Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
+
+V.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados; o
+
+VI.- Impida con violencia la instalación, apertura o cierre de una casilla o la abra o cierre fuera de los tiempos previstos por la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
+
+296.- Se impondrá multa de doscientos a cuatrocientos días de salario mínimo diario general vigente en el Estado y prisión de uno a nueve años, al servidor público que:
+
+I.- Obligue a sus subordinados a emitir sus votos en favor de un partido político o candidato;
+
+II.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas a la emisión del sufragio en favor de un partido político o candidato; o a la afiliación a un determinado partido político; o
+
+III.- Destine fondos, bienes o servicios que tenga a su disposición en virtud de su cargo tales como vehículos, inmuebles y equipos, al apoyo de un candidato o partido político, sin perjuicio de las penas que puedan corresponder por el delito de peculado; o proporcione ese apoyo a través de sus subordinados usando del tiempo correspondiente a sus labores para que éstos presten servicio a un partido político o a un candidato.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
+
+297.- Se impondrá multa de setenta a doscientos días de salario mínimo diario general vigente en el Estado y prisión de tres a siete años, a quien de manera dolosa y por cualquier medio participe en la alteración del registro de electores, el padrón electoral y los listados nominales o la expedición ilícita de credenciales para votar.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
+
+298.- Se impondrá prisión de uno a nueve años, al funcionario partidista o a los organizadores de actos de campaña que, a sabiendas aproveche ilícitamente fondos, bienes o servicios en los términos de la fracción III del artículo 296 de este Código.
+
 ## TITULO IV. DELITOS CONTRA LA ADMINISTRACION DE JUSTICIA
+
+## TITULO V. DELITOS ELECTORALES Y EN MATERIA DE REGISTRO ESTATAL DE CIUDADANOS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 24 DE MAYO DE 1996)</small>
 
 ## ARTICULOS TRANSITORIOS
 
@@ -2034,3 +2148,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 19 DE FEBRERO DE 1993.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Guerrero.
+
+P.O. 24 DE MAYO DE 1996.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
