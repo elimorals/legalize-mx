@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1974-10-08"
+last_updated: "1974-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE OCTUBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1974.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -76,27 +76,33 @@ VII.- Toda la educación que el Estado imparta será gratuita;
 
 VIII.- El Congreso de la Unión, con el fin de unificar y coordinar la educación en toda la República, expedirá las leyes necesarias, destinadas a distribuir la función social educativa entre la Federación, los Estados y los Municipios, a fijar las aportaciones económicas correspondientes a ese servicio público y a señalar las sanciones aplicables a los funcionarios que no cumplan o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ###### Art. 4o.
 
-A ninguna persona podrá impedirse que se dedique a la profesión, industria, comercio o trabajo que le acomode, siendo lícitos. El ejercicio de esta libertad sólo podrá vedarse por determinación judicial, cuando se ataquen los derechos de tercero o por resolución gubernativa, dictada en los términos que marque la ley, cuando se ofendan los derechos de la sociedad. Nadie puede ser privado del producto de su trabajo, sino por resolución judicial.
+El varón y la mujer son iguales ante la ley. Esta protegerá la organización y el desarrollo de la familia.
 
-La ley deerminará (sic) en cada Estado cuáles son las profesiones que necesitan título para su ejercicio, las condiciones que deban llenarse para obtenerlo, y las autoridades que han de expedirlo.
+Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### Art. 5o.
 
+A ninguna persona podrá impedirse que se dedique a la profesión, industria, comercio o trabajo que le acomode, siendo lícitos. El ejercicio de esta libertad sólo podrá vedarse por determinación judicial, cuando se ataquen los derechos de tercero, o por resolución gubernativa, dictada en los términos que marque la ley, cuando se ofendan los derechos de la sociedad. Nadie puede ser privado del producto de su trabajo, sino por resolución judicial.
+
+La Ley determinará en cada Estado, cuáles son las profesiones que necesitan título para su ejercicio, las condiciones que deban llenarse para obtenerlo y las autoridades que han de expedirlo.
+
 Nadie podrá ser obligado a prestar trabajos personales sin la justa retribución y sin su pleno consentimiento, salvo el trabajo impuesto como pena por la autoridad judicial, el cual se ajustará a lo dispuesto en las fracciones I y II del artículo 123.
 
-> <small>(REFORMADO, D.O.F. 17 DE NOVIEMBRE DE 1942)</small>
+En cuanto a los servicios públicos sólo podrán ser obligatorios, en los términos que establezcan las leyes respectivas, el de las armas y los de jurados, así como el desempeño de los cargos concejiles y los de elección popular, directa o indirecta. Las funciones electorales y censales tendrá carácter obligatorio y gratuito. Los servicios profesionales de índole social serán obligatorios y retribuidos en los términos de la ley y con las excepciones que ésta señale.
 
-En cuanto a los servicios públicos, sólo podrán ser obligatorios, en los términos que establezcan las leyes respectivas, el de las armas y los de jurados, así como el desempeño de los cargos concejiles y los de elección popular, directa o indirecta. Las funciones electorales y censales tendrán carácter obligatorio y gratuito, los servicios profesionales de índole social serán obligatorios y retribuidos en los términos de la Ley y con las excepciones que ésta señale.
+El Estado no puede permitir que se lleve a efecto ningún contrato, pacto o convenio que tenga por objeto el menoscabo, la pérdida o el irrevocable sacrificio de la libertad de la persona, ya sea por causa de trabajo, de educación o de voto religioso. La ley en consecuencia, no permite el establecimiento de órdenes monásticas, cualquiera que sea la denominación u objeto con que pretendan erigirse.
 
-El Estado no puede permitir que se lleve a efecto ningún contrato, pacto o convenio que tenga por objeto el menoscabo, la pérdida o el irrevocable sacrificio de la libertad del hombre, ya sea por causa de trabajo, de educación o de voto religioso. La ley, en consecuencia, no permite el establecimiento de órdenes monásticas, cualquiera que sea la denominación u objeto con que pretendan erigirse.
-
-Tampoco puede admitirse convenio en que el hombre pacte su proscripción o destierro, o en que renuncie temporal o permanentemente a ejercer determinada profesión, industria o comercio.
+Tampoco puede admitirse convenio en que la persona pacte su proscripción o destierro, o en que renuncie temporal o permanentemente a ejercer determinada profesión, industria o comercio.
 
 El contrato de trabajo sólo obligará a prestar el servicio convenido por el tiempo que fije la ley, sin poder exceder de un año en perjuicio del trabajador, y no podrá extenderse, en ningún caso, a la renuncia, pérdida o menoscabo de cualquiera de los derechos políticos o civiles.
 
-La falta de cumplimiento de dicho contrato, por lo que respecta al trabajador, sólo obligará a éste a la correspondiente responsabilidad civil, sin que en ningún caso, pueda hacerse coacción sobre su persona.
+La falta de cumplimiento de dicho contrato, por lo que respecta al trabajador, sólo obligará a éste a la correspondiente responsabilidad civil, sin que en ningún caso pueda hacerse coacción sobre su persona.
 
 ###### Art. 6o.
 
@@ -436,7 +442,9 @@ B).- Son mexicanos por naturalización:
 
 I.- Los extranjeros que obtengan de la Secretaría de Relaciones carta de naturalización.
 
-II.- La mujer extranjera que contraiga matrimonio con mexicano y tenga o establezca su domicilio dentro del territorio nacional.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+II.- La mujer o el varón extranjeros que contraigan matrimonio con varón o con mujer mexicanos y tengan o establezcan su domicilio dentro del territorio nacional.
 
 ###### Art. 31.
 
@@ -1524,7 +1532,7 @@ Todas las controversias de que habla el artículo 103 se sujetarán a los proced
 
 I.- El juicio de amparo se seguirá siempre a instancia de parte agraviada.
 
-II.- La sentencia será siempre tal, que sólo se ocupe de individuos particulares, limitándose a ampararlos y protegerlos en el caso especial sobre el que verse la queja, sin hacer una declaración general respecto de la ley o acto que la motivare.
+II.- La sentencia será siempre tal, que sólo se ocupe de individuos particulares, limitándose a ampararlos y protegerlos en el caso especial sobre el que verse la queja, sin hacer una declaración general respecto de la ley o acto qu-e la motivare.
 
 Podrá suplirse la deficiencia de la queja, cuando el acto reclamado se funde en leyes declaradas inconstitucionales por la jurisprudencia de la Suprema Corte de Justicia.
 
@@ -1856,9 +1864,9 @@ A.- Entre los obreros, jornaleros, empleados domésticos, artesanos y de una man
 
 I.- La duración de la jornada máxima será de ocho horas.
 
-> <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1962)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-II.- La jornada máxima de trabajo nocturno será de siete horas. Quedan prohibidas: las labores insalubres o peligrosas para las mujeres y los menores de dieciséis años, el trabajo nocturno industrial para unas y otros; el trabajo en los establecimientos comerciales, después de las diez de la noche para la mujer y el trabajo después de las diez de la noche, de los menores de dieciséis años.
+II.- La jornada máxima de trabajo nocturno será de 7 horas. Quedan prohibidas: las labores insalubres o peligrosas, el trabajo nocturno industrial y todo otro trabajo después de las diez de la noche, de los menores de dieciséis años.
 
 > <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1962)</small>
 
@@ -1866,7 +1874,9 @@ III.- Queda prohibida la utilización del trabajo de los menores de catorce año
 
 IV.- Por cada seis días de trabajo deberá disfrutar el operario de un día de descanso, cuando menos.
 
-V.- Las mujeres, durante los tres meses anteriores al parto, no desempeñarán trabajos físicos que exijan esfuerzo material considerable. En el mes siguiente al parto disfrutarán forzosamente de descanso, debiendo percibir su salario íntegro y conservar su empleo y los derechos que hubieren adquirido por su contrato. En el período de la lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+V.- Las mujeres durante el embarazo no realizarán trabajos que exijan un esfuerzo considerable y signifiquen un peligro para su salud en relación con la gestación; gozarán forzosamente de un descanso de seis semanas anteriores a la fecha fijada aproximadamente para el parto y seis semanas posteriores al mismo, debiendo percibir su salario íntegro y conservar su empleo y los derechos que hubieren adquirido por la relación de trabajo. En el período de lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno para alimentar a sus hijos.
 
 > <small>(REFORMADA, D.O.F. 21 DE NOVIEMBRE DE 1962)</small>
 
@@ -1900,7 +1910,9 @@ f).- El derecho de los trabajadores a participar en las utilidades no implica la
 
 X.- El salario deberá pagarse precisamente en moneda de curso legal, no siendo permitido hacerlo efectivo con mercancías, ni con vales, fichas o cualquier otro signo representativo con que se pretenda substituir la moneda.
 
-XI.- Cuando por circunstancias extraordinarias deban aumentarse las horas de jornada, se abonará como salario por el tiempo excedente, un ciento por ciento más de lo fijado para las horas normales. En ningún caso el trabajo extraordinario podrá exceder de tres horas diarias, ni de tres veces consecutivas. Los hombres menores de diez y seis años y las mujeres de cualquiera edad, no serán admitidos en esta clase de trabajos.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+XI.- Cuando, por circunstancias extraordinarias deban aumentarse las horas de jornada, se abonará como salario por el tiempo excedente un 100% más de lo fijado para las horas normales. En ningún caso el trabajo extraordinario podrá exceder de tres horas diarias, ni de tres veces consecutivas. Los menores de dieciséis años no serán admitidos en esta clase de trabajos.
 
 > <small>(REFORMADA, D.O.F. 14 DE FEBRERO DE 1972)</small>
 
@@ -1914,7 +1926,9 @@ XIII.- Además, en estos mismos centros de trabajo, cuando su población exceda 
 
 XIV.- Los empresarios serán responsables de los accidentes del trabajo y de las enfermedades profesionales de los trabajadores, sufridas con motivo o en ejercicio de la profesión o trabajo que ejecuten; por lo tanto, los patronos deberán pagar la indemnización correspondiente, según que haya traído como consecuencia la muerte o simplemente incapacidad temporal o permanente para trabajar, de acuerdo con lo que las leyes determinen. Esta responsabilidad subsistirá aún en el caso de que el patrono contrate el trabajo por un intermediario.
 
-XV.- El patrono estará obligado a observar en la instalación de sus establecimientos, los preceptos legales sobre higiene y salubridad, y adoptar las medidas adecuadas para prevenir accidentes en el uso de las máquinas, instrumentos y materiales de trabajo, así como a organizar de tal manera éste, que resulte para la salud y la vida de los trabajadores la mayor garantía compatible con la naturaleza de la negociación, bajo las penas que al efecto establezcan las leyes.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+XV.- El patrón estará obligado a observar, de acuerdo con la naturaleza de su negociación, los preceptos legales sobre higiene y seguridad en las instalaciones de su establecimiento, y a adoptar las medidas adecuadas para prevenir accidentes en el uso de las máquinas, instrumentos y materiales de trabajo, así como a organizar de tal manera éste, que resulte la mayor garantía para la salud y la vida de los trabajadores, y del producto de la concepción, cuando se trate de mujeres embarazadas. Las leyes contendrán, al efecto, las sanciones procedentes en cada caso.
 
 XVI.- Tanto los obreros como los empresarios tendrán derecho para coaligarse en defensa de sus respectivos intereses, formando sindicatos, asociaciones profesionales, etc.
 
@@ -1940,7 +1954,11 @@ XXIII.- Los créditos en favor de los trabajadores por salario o sueldos devenga
 
 XXIV.- De las deudas contraídas por los trabajadores a favor de sus patronos, de sus asociados, familiares o dependientes, sólo será responsable el mismo trabajador, y en ningún caso y por ningún motivo se podrá exigir a los miembros de su familia, ni serán exigibles dichas deudas por la cantidad excedente del sueldo del trabajador en un mes.
 
-XXV.- El servicio para la colocación de los trabajadores, será gratuito para éstos, ya se efectúe por oficinas municipales, bolsas del trabajo o por cualquiera otra institución oficial o particular.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+XXV.- El servicio para la colocación de los trabajadores será gratuito para éstos, ya se efectúe por oficinas municipales, bolsas de trabajo o por cualquier otra institución oficial o particular.
+
+En la prestación de este servicio se tomará en cuenta la demanda de trabajo y, en igualdad de condiciones, tendrán prioridad quienes representen la única fuente de ingresos en su familia.
 
 XXVI.- Todo contrato de trabajo celebrado entre un mexicano y un empresario extranjero, deberá ser legalizado por la autoridad municipal competente y visado por el Cónsul de la Nación a donde el trabajador tenga que ir, en el concepto de que además de las cláusulas ordinarias, se especificará claramente que los gastos de repatriación quedan a cargo del empresario contratante.
 
@@ -1964,9 +1982,9 @@ XXVII.- Serán condiciones nulas y no obligarán a los contrayentes, aunque se e
 
 XXVIII.- Las leyes determinarán los bienes que constituyan el patrimonio de la familia, bienes que serán inalienables, no podrán sujetarse a gravámenes reales ni embargos, y serán transmisibles a título de herencia con simplificación de las formalidades de los juicios sucesorios.
 
-> <small>(REFORMADA, D.O.F. 6 DE SEPTIEMBRE DE 1929)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-XXIX.- Se considera de utilidad pública la expedición de la Ley del Seguro Social y ella comprenderá seguros de la invalidez, de vida, de cesación involuntaria del trabajo, de enfermedades y accidentes y otras con fines análogos.
+XXIX.- Es de utilidad pública la Ley del Seguro Social, y ella comprenderá seguros de invalidez, de vejez, de vida, de cesación involuntaria del trabajo, de enfermedades y accidentes, de servicios de guardería y cualquier otro encaminado a la protección y bienestar de los trabajadores, campesinos, no asalariados y otros sectores sociales y sus familiares.
 
 XXX.- Asimismo serán consideradas de utilidad social, las sociedades cooperativas para la construcción de casas baratas e higiénicas, destinadas a ser adquiridas en propiedad, por los trabajadores en plazos determinados.
 
@@ -2010,9 +2028,9 @@ VI.- Sólo podrán hacerse retenciones, descuentos, deducciones o embargos al sa
 
 VII.- La designación del personal se hará mediante sistemas que permitan apreciar los conocimientos y aptitudes de los aspirantes. El Estado organizará escuelas de Administración Pública;
 
-> <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-VIII.- Los trabajadores gozarán de derechos de escalafón a fin de que los ascensos se otorguen en función de los conocimientos, aptitudes y antigüedad;
+VIII.- Los trabajadores gozarán de derechos de escalafón a fin de que los ascensos se otorguen en función de los conocimientos, aptitudes y antigüedad. En igualdad de condiciones, tendrá prioridad quien represente la única fuente de ingreso en su familia;
 
 > <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
 
@@ -2032,7 +2050,9 @@ a).- Cubrirá los accidentes y enfermedades profesionales; las enfermedades no p
 
 b).- En caso de accidente o enfermedad, se conservará el derecho al trabajo por el tiempo que determine la ley.
 
-c).- Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos después del mismo. Durante el período de lactancia, tendrán dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos. Además, disfrutarán de asistencia médica y obstétrica, de medicinas, de ayudas para la lactancia y del servicio de guarderías infantiles.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+c).- Las mujeres durante el embarazo no realizarán trabajos que exijan un esfuerzo considerable y signifiquen un peligro para su salud en relación con la gestación; gozarán forzosamente de un mes de descanso antes de la fecha fijada aproximadamente para el parto y de otros dos después del mismo, debiendo percibir su salario íntegro y conservar su empleo y los derechos que hubieren adquirido por la relación de trabajo. En el período de lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos. Además, disfrutarán de asistencia médica y obstétrica, de medicinas, de ayudas para la lactancia y del servicio de guarderías infantiles.
 
 d).- Los familiares de los trabajadores tendrán derecho a asistencia médica y medicinas, en los casos y en la proporción que determine la ley.
 
@@ -2620,7 +2640,7 @@ La adición al artículo 131 de la Constitución General de la República, entra
 
 D.O.F. 11 DE JUNIO DE 1951.
 
-La presente ley entrará en vigor quince días después de la fecha en que se publique en el "Diario Oficial" de la Federación.
+La presente ley (sic) entrará en vigor quince días después de la fecha en que se publique en el "Diario Oficial" de la Federación.
 
 D.O.F. 16 DE ENERO DE 1952.
 
@@ -2885,3 +2905,7 @@ Se faculta al Ejecutivo Federal para dictar, por conducto de la Secretaría de G
 ###### ARTICULO VIGESIMO SEGUNDO.
 
 El presente decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1974.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
