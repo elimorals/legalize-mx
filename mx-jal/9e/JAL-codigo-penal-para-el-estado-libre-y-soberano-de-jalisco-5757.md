@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "1989-07-29"
+last_updated: "1990-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JULIO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 1990.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -2415,17 +2415,19 @@ En todos los casos previstos en este capítulo será aplicable, en lo conducente
 
 Comete el delito de abuso de confianza, el que, con perjuicio de alguien, disponga para sí o para otro, de una cosa ajena mueble de la cual se le haya transmitido la tenencia y no el dominio.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 1990)</small>
+
 ###### Art. 246.
 
-Al responsable del delito de abuso de confianza se le sancionará conforme a las reglas siguientes:
+Al responsable del delito de Abuso de Confianza se le sancionará sólo por querella del ofendido y conforme a las reglas siguientes:
 
-I. Con prisión de tres a seis meses y multa por el importe de dos o ocho días de salario, cuando el valor de lo dispuesto no exceda del importe de ochenta días de salario;
+I. Con prisión de tres a seis meses y multa por el importe de dos a ocho días de salario, cuando el valor de los (sic) dispuesto no exceda del importe de cuatro cientos (sic) cincuenta días de salario;
 
-II. Cuando el valor de lo abusado exceda del monto señalado en la fracción anterior, pero no del que se establece en la siguiente, la sanción será de seis meses a cuatro años de prisión y multa por el importe de dos a dieciséis días de salario. La misma sanción se aplicará en el caso de la fracción siguiente, cuando se restituya la cosa o su valor y se repare el daño hasta antes formular conclusiones en el proceso;
+II. Cuando el valor de lo abusado exceda del monto señalado en la fracción anterior, pero no del que se establece en la siguiente, la sanción será de seis meses a cuatro años de prisión y multa por el importe de dos a diez y seis (sic) días del salario. La misma sanción se aplicará en el caso de la fracción siguiente, cuando se restituya la cosa o su valor y se repare el daño hasta antes de formular conclusiones en el proceso;
 
-III. Si el valor de lo abusado excede del importe de setecientos ochenta y cuatro días de salario, la sanción será de cuatro a ocho años de prisión y multa por el importe de veinte a ciento noventa y seis días de salario; y
+III. Si el valor de lo abusado excede del importe de dos mil quinientos veinte días de salario, la sanción será de cuatro a ocho años de prisión y multa por el importe de veinte a ciento noventa y seis días de salario; y
 
-IV. Cuando no pudiera determinarse el valor de lo dispuesto o por su naturaleza no fuere estimable en dinero, la sanción será de seis meses a cinco años de prisión y multa por el importe de dos a doce días de salario.
+IV. Cuando no pudiera determinar el valor de lo dispuesto o por su naturaleza no fuere estimable en dinero, la sanción será de seis meses a cinco años de prisión y multa por el importe (sic) dos a doce días de salario.
 
 ###### Art. 247.
 
@@ -2738,3 +2740,7 @@ P.O. 29 DE JULIO DE 1989.
 Artículo Primero. Esta Ley entrará en vigor tres días después de su publicación en el Periódico Oficial El Estado de Jalisco.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a la presente Ley, pero las disposiciones derogadas continuarán aplicándose, exclusivamente a los hechos ejecutados durante su vigencia, a menos que los responsables manifiesten su voluntad de acogerse al ordenamiento que estimen más favorable entre las disposiciones de esta Ley y las que regían en la época de la perpetración del delito.
+
+P.O. 14 DE ABRIL DE 1990.
+
+Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
