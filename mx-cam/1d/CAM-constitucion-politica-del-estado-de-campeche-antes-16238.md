@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1987-12-19"
+last_updated: "1987-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE CAMPECHE -ANTES CONSTITUCION POLITICO-SOCIAL DEL ESTADO DE CAMPECHE-
 
-CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
+CONSTITUCIÓN POLÍTICO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 1987.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 1987.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -493,7 +493,7 @@ Las sesiones del Congreso tendrán el carácter de públicas o secretas, en los 
 
 ### CAPITULO XII. De la Iniciativa y Formación de las Leyes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 1965)</small>
 
 ###### ARTICULO 46.
 
@@ -747,7 +747,7 @@ Se deposita el ejercicio del Poder Ejecutivo en un solo individuo que se denomin
 
 La elección de gobernador será popular directa y en los términos que disponga la Ley Electoral.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 61.
 
@@ -755,11 +755,11 @@ Para ser Gobernador se requiere:
 
 I.- Ser ciudadano campechano en pleno goce de sus derechos;
 
-II.- Tener 35 años cumplidos, el día de la elección y haber residido en el Estado todo el año anterior a la elección;
+II.- Haber nacido en el territorio del Estado, con residencia en él, de todo el año anterior a su elección;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 1983)</small>
+III.- Si se es oriundo de otra Entidad, tener residencia cuando menos de veinticinco años en Campeche; y
 
-III.- Ser ciudadano campechano por nacimiento, o tener veinticinco años de residencia, si la calidad de campechano fuese por vecindad.
+IV.- Tener 35 años cumplidos el día de la elección.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -833,7 +833,7 @@ El Gobernador al tomar posesión de su cargo, prestará ante el Congreso del Est
 
 ###### ARTICULO 70.
 
-El Gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso sí estuviere reunido, o en su caso de la Diputación Permanente, a menos que la ausencia no exceda de sesenta días; en tal caso, se estará a lo dispuesto por el segundo párrafo del artículo 67.
+El Gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso si estuviere reunido, o en su caso de la Diputación Permanente, a menos que la ausencia no exceda de sesenta días; en tal caso, se estará a lo dispuesto por el segundo párrafo del artículo 67.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
@@ -1029,9 +1029,9 @@ Para ser Magistrado del Tribunal Superior de Justicia del Estado, se necesita:
 
 I.- Ser ciudadano campechano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
-II.- No tener más de 65 años de edad, ni menos de 35, el día del nombramiento;
+II.- No tener más de 65 años de edad, ni menos de 35, el día del nombramiento.
 
-III.- Poseer el día del nombramiento, con antigüedad mínima de cinco años, título profesional de Abogado o Licenciado en Derecho, expedido por la autoridad o corporación legalmente facultada para ello;
+III.- Poseer el día del nombramiento, con antigüedad mínima de cinco años, título profesional de Abogado o Licenciado en Derecho, expedido por la autoridad o corporación legalmente facultada para ello.
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
 
@@ -1273,7 +1273,7 @@ a) Que hubiere registrado fórmula de candidatos en las elecciones municipales r
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 1986)</small>
 
-b).- Que alcance por lo menos el 5 por ciento del total de la votación emitida en el municipio correspondiente.
+b) Que alcance por lo menos el 5 por ciento del total de la votación emitida en el municipio correspondiente.
 
 La Ley Electoral, determinará los procedimientos que se observarán en dicha designación.
 
@@ -1659,7 +1659,7 @@ UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en "
 
 P.O. 3 DE MAYO DE 1956.
 
-POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS PRIMERO, SEGUNDO Y TERCERO DEL DECRETO.
+POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTICULOS PRIMERO, SEGUNDO Y TERCERO DEL DECRETO.
 
 Artículo Primero.- Para las elecciones de Diputados al H. Congreso del Estado, de conformidad con lo dispuesto por el artículo 19 de la Constitución Política del Estado, reformado por Decreto de 28 de marzo del año en curso, queda sin efecto dicha modificación, estableciéndose definitivamente dividido el Territorio del Estado, en ocho distritos electorales, cuyas demarcaciones y cabeceras se expresan a continuación:
 
@@ -1695,7 +1695,7 @@ Artículo Segundo.- Serán Cabeceras de los ocho Distritos Electorales q (sic) s
 
 Artículo Tercero.- En cumplimiento de lo dispuesto por el artículo 6o., reformado de la Ley Electoral del Estado, cada Ayuntamiento procederá, en atención a la división que en ocho Distritos Electorales se hace en el artículo primero del presente Decreto, a dividir sus respectivas municipalidades en secciones numeradas, progresivamente, en los términos que dispone dicho artículo 6o.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA ESTADO DE CAMPECHE.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA ESTADO DE CAMPECHE.
 
 P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957.
 
@@ -1784,3 +1784,7 @@ UNICO.- El presente decreto iniciará su vigencia al día siguiente de su public
 P.O. 19 DE DICIEMBRE DE 1987.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1987.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
