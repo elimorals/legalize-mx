@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-derechos-105"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-11-12"
-last_updated: "2000-11-17"
+last_updated: "2003-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,9 @@ scjn_last_update: "2003-09-29"
 
 REGLAMENTO INTERNO DE LA COMISION NACIONAL DE DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 2000.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DE LA COMISION NACIONAL DE LOS DERECHOS HUMANOS, PUBLICADO EN EL D.O.F. DE 29 DE SEPTIEMBRE DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 12 de noviembre de 1992.
 
@@ -1255,3 +1257,21 @@ D.O.F. 17 DE NOVIEMBRE DE 2000.
 PRIMERO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en la Gaceta de la Comisión Nacional de los Derechos Humanos.
 
 SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE SEPTIEMBRE DE 2003.
+
+Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 29 de septiembre de 2003.
+
+Primero. (Entrada en vigor del Reglamento Interno).
+
+El presente Reglamento Interno entrará en vigor el 1 de enero de 2004.
+
+Segundo. (Abrogación del Reglamento Interno de la Comisión Nacional de los Derechos Humanos).
+
+Se abroga el Reglamento Interno de la Comisión Nacional de los Derechos Humanos, publicado en el Diario Oficial de la Federación el doce de noviembre de 1992 y se derogan todas las disposiciones reglamentarias y administrativas de la Comisión Nacional que se opongan a lo establecido en este Reglamento.
+
+Tercero. (Sustanciación de los asuntos que se encuentren en trámite a la entrada en vigor de este Reglamento).
+
+Las quejas y recursos que a la fecha de entrada en vigor del presente Reglamento se encuentren en trámite, se sustanciarán de conformidad con lo que establece este Reglamento.
+
+Cuarto. (Plazo para la elaboración del Manual de Organización General de la Comisión Nacional de los Derechos Humanos).
