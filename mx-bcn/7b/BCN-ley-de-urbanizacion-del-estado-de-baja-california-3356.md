@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-urbanizacion-del-estado-de-baja-california-3356"
 country: "mx"
 rank: "ley"
 publication_date: "1981-08-20"
-last_updated: "1982-07-10"
+last_updated: "1984-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE URBANIZACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1984.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el jueves 20 de agosto de 1981.
 
@@ -61,9 +61,11 @@ IV.- Las Instalaciones necesarias para dotar a los centros de población de alum
 
 V.- Cualquier otro tipo de obras y servicios tendientes a la integración y mejoramiento de las poblaciones de la Entidad.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
 ###### ARTICULO 4o.
 
-Una vez concluídas las obras de urbanización que realicen los Consejos de Urbanización y la Junta de Urbanización del Estado, se entregarán a los Ayuntamientos a cuyo cargo estará su mantenimiento, el que se considerará como un servicio municipal.
+Una vez concluídas las obras de urbanización que realicen los Consejos de Urbanización Municipales, y la Junta de Urbanización del Estado, se entregarán a los Ayuntamientos a cuyo cargo estará su mantenimiento, el que se considerará como un servicio Municipal, con excepción de las Obras de drenaje de Aguas Negras, Pluvial, así como las líneas y redes para Agua Potable, que serán entregadas para su mantenimiento a la Comisión Estatal de Servicios Públicos que corresponda, de acuerdo a lo que establece la Fracción III del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, así como el Artículo 81 de la Constitución Política local.
 
 ###### ARTICULO 5o.
 
@@ -93,11 +95,13 @@ IV.- El propietario del terreno, cuando el de la construcción sea distinto.
 
 Si el predio estuviere constituido bajo el régimen de propiedad en condominio, ya sea dividido en pisos, departamentos, locales o viviendas, el importe del Impuesto o Derecho que corresponda a cada propietario se determinará dividiendo la cantidad que deba pagarse por todo el predio entre la superficie cubierta de construcción que resulte de sumar la de todos los pisos, exceptuando la que se destine a servicios de uso común y el cociente así obteniendo se multiplicará por el número de metros que corresponda al piso, departamento, local o vivienda de que se trate.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
 ###### ARTICULO 9o.
 
-Tratándose de extrema pobreza, por incapacidad física, temporal o permanente de los beneficiados por obras de urbanización, determinada mediante verificación y estudio socio-económico que se haga al respecto, el Ejecutivo del Estado podrá congelar el cobro de los adeudos por impuestos de plusvalía o cuotas de cooperación en la medida que resulte necesario, mientras no cambie el mencionado estado de pobreza por circunstancias familiares o por cualquier otra causa. El cobro no prescribirá y se hará efectivo cuando se transmita la propiedad a tercero, ya sea por herencia o por cualquier otro concepto.
+Tratándose de extrema pobreza, por incapacidad física, temporal o permanente de los beneficiados por obras de urbanización, determinada mediante verificación y estudio socioeconómico que se haga al respecto, el Ejecutivo del Estado o el Presidente Municipal, en su correspondiente jurisdicción y en relación con obras llevadas a cabo por los Consejos de Urbanización Municipal, podrán congelar el cobro de los adeudos, por impuestos de plusvalía o cuotas de cooperación en la medida que resulte necesario, mientras no cambie el mencionado estado de pobreza por circunstancias familiares o por cualquier otra causa. El cobro se hará efectivo cuando se transmita la propiedad a tercero, ya sea por herencia o por cualquier otro concepto.
 
-El Ejecutivo del Estado, cuando lo estime conveniente, podrá eximir mediante subsidios, el pago del impuesto de plusvalía o de las cuotas de cooperación, a los Organismos descentralizados o a las Instituciones de Beneficencia pública o privada, así como a las que realicen actividades educativas o culturales o tiendan a la protección de los menores o de las clases económicamente débiles.
+El Ejecutivo del Estado, en los términos del párrafo anterior, cuando lo estime conveniente, podrá eximir mediante subsidios del pago del impuesto de plusvalía o de las cuotas de cooperación a los organismos descentralizados o a las Instituciones de Beneficencia Pública o Privada, así como a las que realicen actividades educativas o culturales o tiendan a la protección de los menores o de las clases económicamente débiles, en la misma forma el Presidente Municipal podrá eximir mediante subsidio del pago las cuotas de cooperación a los organismos señalados anteriormente.
 
 ###### ARTICULO 10.
 
@@ -147,13 +151,17 @@ V.- Las Comisiones Estatales de Servicios Públicos; y
 
 VI.- Los Comités de Obras.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
 ###### ARTICULO 15.
 
-La Junta de Urbanización del Estado, es un Organismo público descentralizado, con personalidad jurídica y patrimonio propios, facultada para ejecutar obras de urbanización bajo el sistema de imposición, así como para gestionar y contratar lo relativo a la ejecución de dichas obras, y concurrir con la personalidad de que se trata ante organismos e instituciones privadas y autoridades federales, estatales y municipales.
+La Junta de Urbanización del Estado, es un organismo público descentralizado del Estado, con personalidad jurídica y patrimonio propios, facultada para ejecutar obras de urbanización bajo el sistema de imposición, así como para gestionar y contratar lo relativo a la ejecución de dichas obras, y concurrir con la personalidad de que se trata ante organismos e instituciones privadas y autoridades Federales, Estatales y Municipales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
 
 ###### ARTICULO 16.
 
-La Junta de Urbanización del Estado, ejercerá jurisdicción en toda la Entidad, funcionará permanentemente y tendrá su sede en la capital del Estado. La Junta se integrará por un representante que designe el Gobernador del Estado, que fungirá como Presidente de la misma y por:
+La Junta de Urbanización del Estado, ejercerá jurisdicción en toda la entidad, funcionará permanentemente y tendrá su sede en la capital del Estado. La Junta se integrará por un representante que designe el Gobernador del Estado, que fungirá como Presidente de la misma y por:
 
 I.- El Oficial Mayor de Gobierno;
 
@@ -169,13 +177,17 @@ VI.- Un Representante de Inmobiliaria del Estado;
 
 VII.- Un Representante de la Promotora Estatal para el Desarrollo de las Comunidades Rurales y Populares;
 
-VIII.- Un Representante del Instituto de Vivienda -INDECO- Estado de Baja California;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
+VIII.- Un representante del Instituto de Vivienda del Estado de Baja California;
 
 IX.- Un Representante de la Federación Estatal de Cámaras Nacionales de Comercio y Servicios Turísticos constituída en el Estado;
 
 X.- Un Representante de las Cámaras Nacionales de la Industria de Transformación o Delegaciones constituídas en el Estado;
 
-XI.- Un Representante de los Centros Patronales constituídos en el Estado;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
+XI.- Un representante de los Centros Empresariales constituidos en el Estado;
 
 XII.- Un Representante de los Colegios de Ingenieros y Arquitectos constituidos y domiciliados en la Entidad y que se encuentren registrados en el Departamento de Profesiones, de la Secretaría de Educación y Bienestar Social;
 
@@ -183,7 +195,9 @@ XIII.- Un Representante de los Centros Bancarios, legalmente constituídos en el
 
 XIV.- Un Representante de las Uniones de Contribuyentes y Usuarios de Servicios Públicos, legalmente constituídas y domiciliadas en el Estado;
 
-XV.- Un Representante de las Uniones de Propietarios de Bienes Raíces, legalmente constituídas y domiciliadas en el Estado;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
+XV.- Un Representante de las Uniones de Propietarios de Bienes Raíces o la Junta General de Vecinos constituida ante la autoridad Municipal, domiciliada en el Estado;
 
 XVI.- Un Representante de cada una de las tres Organizaciones Obreras mayoritarias, a juicio de la Dirección del Trabajo y Prevención Social, legamente constituídas y domiciliadas en el Estado; y
 
@@ -199,6 +213,8 @@ Por cada representante propietario de los señalados, se designará un suplente 
 
 Tendrán el carácter de integrantes de la Junta de Urbanización del Estado, cuando deban realizarse obras en su jurisdicción, los Presidentes Municipales y los Directores de las Comisiones Estatales de Servicios Públicos o sus Representantes. En este caso tendrán voz y voto. La Junta dará a conocer a dichos funcionarios, la circunstancia que motive su intervención.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
 ###### ARTICULO 18.
 
 La Junta de Urbanización del Estado tendrá las siguientes atribuciones:
@@ -207,9 +223,11 @@ I.- Realizar estudios sobre la conveniencia, necesidad, viabilidad, costo, finan
 
 II.- Ejecutar directamente o mediante contrato, las obras que sean aprobadas por la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, así como realizar las que dicha dependencia le encomiende;
 
-III.- Adoptar las decisiones relativas a la asignación de contratos conforme al tabulador vigente de precios unitarios de la Secretaría de Asentamientos Humanos y Obras Públicas del Estado.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1984)</small>
 
-Se exceptúan de lo anterior, aquellas obras previstas por esta Ley y realizadas por la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, con fondos estatales o federales en forma parcial o total, de carácter recuperable y que produzcan plusvalía en cuyo caso la contratación de las mismas será llevada a cabo por la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, a precios unitarios del tabulador vigente, sin perjuicio de que dichas obras puedan incorporarse al sistema de imposición, previsto por esta Ley en lo que se refiere a la recuperación del costo de las mismas; siempre y cuando dicha recuperación se reinvierta en el Estado;
+III.- Formular las bases, expedir las convocatorias y adoptar las decisiones relativas al concurso para la contratación de obras y servicios en el Municipio que vayan a ser realizados bajo el sistema de imposición, conforme a la Ley de Obra Pública correspondiente.
+
+Se exceptúan de lo anterior, aquéllas obras previstas por esta Ley y realizadas por la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, con Fondos Estatales o Federales en forma parcial o total, de carácter recuperable y que produzcan plusvalía, en dado caso la contratación de las mismas será llevada a cabo por la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, en los términos de la Ley de Obra Pública respectiva, sin perjuicio de que dichas obras puedan incorporarse al sistema de imposición, previsto por esta Ley en lo que se refiere a la recuperación o el costo de las mismas, siempre y cuando dicha recuperación se reinvierta en el Estado;
 
 IV.- Contratar directamente los financiamientos y suscribir los títulos de crédito y demás documentos necesarios que de ello se deriven y dar un fideicomiso o constituir en garantía los impuestos de plusvalía;
 
@@ -261,9 +279,11 @@ Respecto de los elementos oficiales que por Ley sean miembros de la Junta, al de
 
 Las elecciones para designar nueva Directiva, se llevarán a cabo en la primera quincena del mes de enero, la que entrará en funciones y ejercerá durante dos años.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
 ###### ARTICULO 25.
 
-La Junta funcionará legítimamente con la concurrencia de la mayoría de sus miembros, y las resoluciones se tomarán por mayoría de votos de los Representantes, teniendo en caso de empate, voto de calidad el Presidente de la Junta.
+La Junta funcionará legítimamente con la concurrencia de la mayoría de sus miembros, y las resoluciones se tomarán por mayoría de votos de los representantes, teniendo en caso de empate, voto de calidad el Presidente de la Junta, en caso de no realizarse dicha reunión la siguiente se llevará a cabo, con la asistencia de la tercera parte de los miembros, tomándose las resoluciones en igual forma y conservando el voto de calidad el Presidente de la Junta.
 
 ###### ARTICULO 26.
 
@@ -295,9 +315,11 @@ La Junta de Urbanización del Estado, contará para su asesoramiento, con los de
 
 Para su sostenimiento, la Junta de Urbanización del Estado, percibirá con cargo a cada una de las obras que realice, un porcentaje del diez por ciento por concepto de dirección, vigilancia, supervisión y administración, porcentaje que se reducirá en su caso, de acuerdo con la magnitud y número de las obras que tenga a su cargo. La Junta está facultada para aceptar, para obra determinada, subsidios de autoridades federales, estatales o municipales, así como aportaciones voluntarias de instituciones y personas físicas o morales, en cuyo caso, se disminuirá el porcentaje aludido en la obra de que se trate, en la proporción que corresponda.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
 ###### ARTICULO 33.
 
-Los Consejos de Urbanización Municipales, son organismos públicos descentralizados, con personalidad jurídica y patrimonio propios, que tienen como finalidad representar y coordinar a los sectores económicos, sociales, profesionales y demás representativos de la comunidad, para llevar a cabo las obras de urbanización bajo el sistema de cooperación dentro de la jurisdicción municipal que les corresponda.
+Los Consejos de Urbanización Municipales, son organismos públicos descentralizados Municipales, con personalidad jurídica y patrimonio propios, que tienen como finalidad representar y coordinar a los sectores económicos, sociales profesionales y demás representativos de la comunidad, para llevar a cabo las obras de urbanización bajo el sistema de cooperación dentro de la jurisdicción municipal que les corresponda.
 
 ###### ARTICULO 34.
 
@@ -305,47 +327,61 @@ Los Consejos de Urbanización Municipales, estarán integrados de la siguiente f
 
 I.- Por la persona designada por el Presidente Municipal, quien tendrá el carácter de Presidente del Consejo;
 
-II.- Por el Oficial Mayor de Gobierno, o por la persona que éste designe;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
+II.- El Oficial Mayor de Gobierno del Estado;
 
 III.- Por el Secretario de Asentamientos Humanos y Obras Públicas del Estado, o por la persona que éste designe;
 
 IV.- Por el Secretario de Finanzas del Estado, o por la persona que éste designe;
 
-V.- Por el Secretario de Desarrollo, o por la persona que éste designe;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1984)</small>
 
-VI.- Por el Director de Organización, Programación y Presupuesto, o por la persona que éste designe;
+V.- Por el Director de la Comisión Estatal de Servicios Públicos del Municipio correspondiente o por la persona que éste designe;
 
-VII.- Por el Director de la Comisión Estatal de Servicios Públicos del Municipio correspondiente, o por la persona que éste designe;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1984)</small>
 
-VIII.- Por el Presidente Municipal, o por la persona que éste designe;
+VI.- Por el Director de Planeación y Obras Públicas del Municipio correspondiente, o la persona que éste designe;
 
-IX.- Por un representante de los Organismos siguientes, que operen en el Municipio respectivo:
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1984)</small>
 
-a).- De Inmobiliaria del Estado.
+VII.- Por el Presidente de la Junta de Urbanización del Estado o por la persona que éste designe;
 
-b).- De la Promotora Estatal para el Desarrollo de las Comunidades Rurales y Populares.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1984)</small>
 
-c).- Del Instituto de Vivienda INDECO- Estado de Baja California.
+VIII.- Por un representante de los organismos siguientes que operen en el Municipio respectivo:
 
-d).- De la Cámara Nacional de Comercio y Servicios Turísticos.
+A).- De Inmobiliaria del Estado;
 
-e).- De la Cámara Nacional de la Industria de Transformación.
+B).- De la Promotora Estatal para el Desarrollo de las Comunidades Rurales y Populares;
 
-f).- Del Centro Patronal.
+C).- Del Instituto de Vivienda en el Estado de Baja California;
 
-g).- De los Colegios de Ingenieros y Arquitectos.
+D).- De la Cámara Nacional de Comercio y Servicios Turísticos;
 
-h).- Del Centro Bancario.
+E).- De la Cámara Nacional de la Industria de Transformación;
 
-i).- De la Unión de Contribuyentes y Usuarios de Servicios Públicos.
+F).- Del Centro Empresarial;
 
-j).- De la Unión de Propietarios de Bienes Raíces.
+G).- De los Colegios de Ingenieros y Arquitectos;
 
-k).- De cada una de las tres Organizaciones Obreras mayoritarias, a juicio de la Dirección del Trabajo y Previsión Social del Estado, y
+H).- Del Centro Bancario;
 
-l).- De cada una de las tres Organizaciones Campesinas mayoritarias.
+I).- Del Colegio de Abogados;
 
-Por cada uno de los Representantes a que se refiere esta Fracción se designará un suplente.
+J).- Del Colegio de Contadores Públicos;
+
+K).- Del Colegio de Licenciados en Administración de Empresas;
+
+L).- De la Unión de Propietarios de Bienes Raíces o la Junta General de Vecinos constituida ante la autoridad Municipal;
+
+M).- De la Unión de Contribuyentes y Asesorías de Servicios Públicos;
+
+N).- De cada una de las tres organizaciones obreras mayoritarias a juicio de la Dirección del Trabajo y Previsión Social del Estado, y
+
+Ñ).- De cada una de las tres organizaciones campesinas mayoritarias.
+
+Por cada uno de los representantes a que se refiere esta fracción se designará un suplente.
 
 En el caso de que en la cabecera Municipal no existan Organizaciones que agrupen a los profesionistas, propietarios, industriales y comerciantes de referencia, el Presidente Municipal convocará a una reunión de los sectores interesados, para que nombren a sus representantes. La convocatoria correspondiente, que se fijará en los tableros de la Presidencia Municipal, en los sitios más concurridos de la localidad y se publicará en el Diario de mayor circulación, señalará día y hora para la reunión que deberá celebrarse con la anticipación necesaria, para que el Consejo quede debidamente integrado en los plazos que marca la presente Ley. Si no concurren a las reuniones convocadas los sectores interesados, se entenderá que renuncian al derecho de ser representados y el Consejo se integrará con los que fueren designados.
 
@@ -361,7 +397,9 @@ III.- Promover el interés de los sectores a que se refiere el Artículo 33, cuy
 
 IV.- Gestionar la ayuda de las autoridades federales, estatales y municipales, así como de instituciones privadas, organismos descentralizados y personas físicas, en todo lo que implique mejoría en la urbanización del Municipio;
 
-V.- Adoptar las decisiones relativas a la asignación de contratos, conforme al tabulador vigente de precios unitarios de la Secretaría de Asentamientos Humanos y Obras Públicas del Estado;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
+V.- Formular las bases, expedir las convocatorias y adoptar las decisiones relativas al concurso para la contratación de obras y servicios en el Municipio que vayan a ser realizados bajo el sistema de cooperación, conforme a la Ley de Obra Pública correspondiente;
 
 VI.- Formular proyectos de financiamiento de las obras a realizar y las bases de los empréstitos y contratos relativos. Los Consejos podrán contratar directamente los financiamientos y suscribir los títulos de crédito y demás documentos necesarios para la realización de las obras, así como dar en fideicomiso o constituir en garantía las cuotas de cooperación;
 
@@ -409,9 +447,11 @@ Respecto de los elementos oficiales que por Ley sean miembros de los Consejos, a
 
 Las elecciones para designar nueva Directiva, se llevarán a cabo en la primera quincena del mes de enero, la que entrará en funciones y ejercerá durante un año.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
 ###### ARTICULO 42.
 
-Los Consejos de Urbanización Municipal, funcionarán legítimamente, con la concurrencia de la mayoría de sus miembros y las resoluciones se tomarán por mayoría de votos de los representantes, teniendo en caso de empate, voto de calidad el Presidente del Consejo.
+Los Consejos de Urbanización Municipales, funcionarán legítimamente, con la concurrencia de la mayoría de sus miembros y las resoluciones se tomarán por mayoría de votos de los representantes, teniendo en caso de empate, voto de calidad el Presidente del Consejo. En caso de no concurrir la mayoría de sus miembros, la siguiente sesión se llevará a cabo legítimamente con la presencia de una tercera parte de sus miembros y las resoluciones se tomarán en igual forma, conservando el voto de calidad el Presidente del Consejo.
 
 ###### ARTICULO 43.
 
@@ -437,27 +477,37 @@ El Tesorero del Consejo tendrá a su cargo, la función de supervisar el manejo 
 
 Los Consejos de Urbanización Municipal, sesionarán por lo menos una vez al mes y en cuantas ocasiones las circunstancias lo exijan, pudiendo convocarse a sesión por acuerdo del Presidente o a moción de dos de los miembros de la Directiva o del Gerente General.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
 ###### ARTICULO 48.
 
-La Secretaría de Asentamientos Humanos y Obras Públicas del Estado, tendrá las siguientes atribuciones:
+La Secretaría de Asentamientos Humanos y Obras Públicas del Estado y los Ayuntamientos en su respectiva jurisdicción y en el ejercicio de su competencia tendrán las siguientes atribuciones:
 
 I.- Conocer los proyectos de obras de urbanización que bajo los sistemas de imposición y cooperación, sometan a su consideración la Junta de Urbanización del Estado y los Consejos de Urbanización Municipales, a fin de aprobarlos, modificarlos o rechazarlos, según corresponda;
 
-II.- Formular proyectos de obras de urbanización bajo el sistema de imposición y realizarlas directamente o encomendar su ejecución a la Junta de Urbanización del Estado;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1984)</small>
 
-En los casos en que la Secretaría realice directamente obras de urbanización, tendrá todas las atribuciones que la Ley confiere a la Junta de Urbanización del Estado.
+II.- Formular proyectos de obras de urbanización bajo el sistema de imposición y realizarlos directamente o encomendar su ejecución a la Junta de Urbanización del Estado, o en su caso al Consejo de Urbanización Municipal que corresponda;
+
+En los casos en que la Secretaría y los Ayuntamientos realicen obras de Urbanización, tendrán las atribuciones que la Ley confiere a la Junta de Urbanización del Estado;
 
 III.- Supervisar el debido funcionamiento de la Junta de Urbanización del Estado y de los Consejos de Urbanización Municipales; y
 
 IV.- Supervisar la ejecución de obras, ya sean por el sistema de imposición o por el de cooperación.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
 ###### ARTICULO 49.
 
-La Secretaría de Finanzas, en todo lo que se refiere a obras de urbanización previstas en esta Ley, tendrá la facultad de revisar y controlar los movimientos financieros y contables.
+La Secretaría de Finanzas y los Ayuntamientos en su jurisdicción, en todo lo que se refiere a obras de urbanización previstas en esta Ley, tendrán la facultad de revisar y ordenar los movimientos financieros y contables.
 
 ###### ARTICULO 50.
 
 La Dirección de Organización, Programación y Presupuesto, tendrá la facultad de intervenir en lo relativo a la inversión presupuestal del Estado, originada por la aplicación de esta Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
+Los Presidentes Municipales tendrán la facultad de intervenir en lo relativo a la inversión presupuestal de los Ayuntamientos que corresponda, originada por la aplicación de esta Ley.
 
 ###### ARTICULO 51.
 
@@ -541,11 +591,11 @@ Operará la compensación del crédito fiscal originado por el Impuesto de Plusv
 
 ###### ARTICULO 65.
 
-Se considerarán bases técnicas generales, a fin de lograr una derrama equitativa del Impuesto de Plusvalía sobre los inmuebles en la zona de beneficio efectivo:
+Se considerarán bases técnicas generales, a fin de lograr una derrama equitativa del impuesto de plusvalía sobre los inmuebles en la zona de beneficio efectivo:
 
 I.- La superficie de cada predio;
 
-II.- Longitud de los frentes a calles o plazas;
+II.- (DEROGADA, P.O. 30 DE NOVIEMBRE DE 1984)
 
 III.- La distancia del predio, al foco o eje de la obra;
 
@@ -558,6 +608,8 @@ V.- Todos los demás datos determinantes en el incremento de valor y mejoría de
 Cuando se trate de obras de rectificación, ampliación, prolongación y mejoramiento de las vías públicas ya existentes, por regla general, el impuesto se calculará por unidad de metro cuadrado de superficie de los predios sin tomar en consideración las construcciones que puedan existir sobre ellos, y será tanto más elevado, en la medida en que sea menor la distancia del predio de que se trate, al eje de la obra.
 
 #### SECCION TERCERA. NORMAS PARA LA INDIVIDUALIZACION DEL IMPUESTO DE PLUSVALIA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
 
 ###### ARTICULO 67.
 
@@ -635,15 +687,19 @@ Cuando no se pague el Impuesto de Plusvalía dentro del término, o en la fecha 
 
 Las obras de urbanización a que se refiere el Artículo 3o. de esta Ley, que por su naturaleza no ameriten que se lleven a cabo bajo el sistema de imposición, en virtud de no ser de beneficio general para los habitantes de las ciudades o no abarquen una extensa zona de gran influencia de beneficio en las mismas, se realizarán por cooperación y estarán a cargo de los Consejos de Urbanización Municipales.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
 ###### ARTICULO 80.
 
-Una vez realizados los estudios técnicos sobre los diversos aspectos de la obra, tales como costo y derrama de la misma, precios unitarios, bases para calcular la cuota que a cada cooperador corresponda cubrir, proyectos de contratos, financiamiento y sus bases, los someterá simultáneamente al Consejo de Urbanización Municipal a la consideración del Ayuntamiento correspondiente, de la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, Secretaría de Finanzas y Dirección de Organización, Programación y Presupuesto, para su aprobación en su caso.
+Una vez realizados los estudios técnicos sobre los diversos aspectos de la obra, tales como costo y derrama de la misma, precios unitarios, bases para calcular la cuota que a cada cooperador corresponda cubrir, proyectos de contratos, financiamiento y sus bases, los someterá simultáneamente el Consejo de Urbanización Municipal a la consideración del Ayuntamiento correspondiente y de la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, para su aprobación, en su caso.
 
-El Ayuntamiento y las Dependencias deberán resolver dentro del término de quince días, a partir de la fecha en que reciban los estudios técnicos.
+El Ayuntamiento y la Secretaría de Asentamientos Humanos y Obras Públicas del Estado deberán resolver dentro del término de quince días, a partir de la fecha en que reciban los estudios técnicos.
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
 
 ###### ARTICULO 81.
 
-El costo de las obras se derramará entre los propietarios y poseedores, con exclusión del costo de los cubos de esquina que será a cargo del Gobierno del Estado, y del que corresponda en relación con edificios públicos, que estará a cargo del Gobierno Federal, del Estado y del Municipio, según el caso.
+El costo de las obras se derramará entre los propietarios y poseedores en proporción a la superficie de los predios, con exclusión del costo de los cubos de esquina que será a cargo del Gobierno Municipal y del que corresponda en relación con edificios públicos que estará a cargo del Gobierno Federal, del Estado y del Municipio, según el caso.
 
 ###### ARTICULO 82.
 
@@ -677,11 +733,13 @@ Para su sostenimiento, los Consejos de Urbanización Municipales percibirán, co
 
 Una vez realizados los estudios y proyección técnica, y aprobados en los términos del Artículo 8o, a fin de llevar a cabo las obras de urbanización, el Consejo citará a los propietarios y poseedores a una junta, haciéndoles saber en el citatorio sobre los diversos aspectos de la obra, así como su costo, importe líquido de la cooperación y contratos que deban celebrarse para llevarla a cabo. En esa junta se les expondrán los pormenores de los aspectos de que se trata y se les oirá en cuanto a lo que aleguen, de acuerdo con sus intereses, respecto del costo, precios unitarios, derrama, base para calcular la cuota de cooperación que deban de cubrir, número de mensualidades, así como en todo lo relativo que a sus derechos convenga.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
 ###### ARTICULO 89.
 
-Las citaciones a las juntas de propietarios a que se refiere el Artículo anterior, se harán personalmente. Cuando se trate de personas cuyo domicilio se ignore, las citaciones se harán por edictos que se publicarán por tres veces de diez en diez días, en el Periódico Oficial del Estado y en otro periódico de los de mayor circulación en el lugar en que vaya a realizarse la obra. Se entiende que el domicilio de una persona se ignora, cuando no lo hubiere manifestado a la Recaudación de Rentas, en los términos del Artículo 35 del Código Fiscal del Estado y esa oficina haya informado en ese sentido al solicitársele ese dato.
+Las citaciones a las juntas de propietarios a que se refiere el artículo anterior, se harán personalmente. Cuando se trate de personas cuyo domicilio se ignore, las citaciones se harán por edictos que se publicarán por una sola vez, en el Periódico Oficial del Estado y en otro periódico de los de mayor circulación en el lugar en que vaya a realizarse la obra. Se entiende que el domicilio de una persona se ignora, cuando no lo hubiere manifestado a la Recaudación de Rentas, en los términos del Artículo 35 del Código Fiscal del Estado y esa oficina haya informado en ese sentido al solicitársele ese dato.
 
-Entre la citación de la junta y la fecha de la celebración de la misma, deberá mediar un término por lo menos de cinco días hábiles.
+Entre la citación de la junta y la fecha de la celebración de la misma, deberá mediar un término por lo menos de diez días hábiles.
 
 ###### ARTICULO 90.
 
@@ -695,9 +753,11 @@ Para tener derecho a concurrir a la junta y participar en ella con voz y voto, d
 
 Los interesados podrán concurrir personalmente o por medio de tercero acreditado por simple carta poder.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
 ###### ARTICULO 93.
 
-La ejecución de los proyectos de obras, su precio, su contratación, derrama, precios unitarios, bases para calcular las cuotas de cooperación que a cada propietario le corresponda cubrir y el plazo para su pago, se tendrán por aprobados cuando la mayoría de los propietarios o poseedores en concepto de propietarios de la zona a beneficiarse, otorguen su consentimiento por escrito, ya sea que lo hagan en la propia junta de vecinos o dentro de quince días, contados a partir del día siguiente a la celebración de la junta. Si transcurrido dicho término, los vecinos debidamente citados no hicieren manifestación alguna, se tendrá su voto como aprobatorio.
+La ejecución de los proyectos de obras, su precio, su contratación, derrama, precios unitarios, bases para calcular las cuotas de cooperación que a cada propietario le corresponda cubrir y el plazo para su pago, se tendrán por aprobados cuando el ochenta por ciento de los propietarios o poseedores, en concepto de propietarios de la zona a beneficiarse, otorguen su consentimiento por escrito, ya sea que lo hagan en la propia Junta de Vecinos o dentro de quince días, contados a partir del día siguiente a la celebración de la Junta; si transcurrido dicho término, los vecinos debidamente citados no hicieren manifestación alguna, se tendrá su voto por aprobatorio.
 
 #### SECCION TERCERA. BASES PARA EL SEÑALAMIENTO DE LAS CUOTAS DE COOPERACION Y SU RECAUDACION
 
@@ -705,13 +765,19 @@ La ejecución de los proyectos de obras, su precio, su contratación, derrama, p
 
 Cada propietario cubrirá por cooperación:
 
-I.- El costo del pavimento comprendido al frente del predio hasta el eje de la calle;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1984)</small>
 
-Dentro del costo del pavimento se comprende el movimiento de terracerías, preparación de base, materiales asfálticos o de concreto hidráulico, según corresponda, así como alcantarillado pluvial;
+I.- El costo del pavimento será cubierto en forma proporcional a la superficie de cada predio.
 
-II.- El costo de la construcción, reposición o reparación de las guarniciones y de las banquetas en su caso;
+Dentro del costo del pavimento se comprende el movimiento de terracerías, preparación de base, materiales asfálticos o de concreto hidráulico según corresponda, así como alcantarillado pluvial.
 
-III.- El costo de las obras de alumbrado, ornato y seguridad, que se distribuirá entre todos los predios ubicados en la zona beneficiada, en proporción a los frentes de cada uno;
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
+II.- El costo de la construcción, reposición o reparación de las guarniciones y de las banquetas en su caso, en los términos de la fracción anterior;
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
+III.- El costo de las obras de alumbrado, ornato y seguridad, que se distribuirá entre todos los predios ubicados en la zona beneficiada, en proporción a la superficie de cada uno de ellos;
 
 IV.- El costo total de las obras relativas a nuevas vías públicas, construcción y creación de plazas, jardines, parques y campos deportivos, se distribuirá entre todos los predios ubicados en la zona beneficiada, en proporción a la superficie de cada uno, en razón de la distancia al centro geométrico de las obras.
 
@@ -779,9 +845,15 @@ g).- El importe de cada pago mensual; y
 
 h).- La fecha de iniciación de los pagos.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1984)</small>
+
 ###### ARTICULO 105.
 
-El cooperador, dentro de los quince días siguientes a la notificación de que se trata el artículo anterior, podrá inconformarse contra la cuantificación ante el Consejo de Urbanización Municipal respectivo. Con el escrito en que se interponga el recurso de revocación, se deberán presentar las pruebas que lo fundamenten, en la inteligencia de que se recibirán todas las que por su naturaleza sean conducentes al caso, excepto la testimonial y las que no hayan sido ofrecidas al interponerse el recurso. El Consejo, con vista de las pruebas, resolverá si procede o no rectificar la cuantificación aludida.
+El cooperador, dentro de los quince días siguientes a la notificación de que trata el artículo anterior podrá inconformarse interponiendo el recurso de revocación contra la cuantificación ante el Consejo de Urbanización Municipal respectivo.
+
+Con el escrito en que se interponga el referido recurso, deberán presentar las pruebas que lo fundamenten, en la inteligencia de que se recibirán todas las que por su naturaleza sean conducentes al caso, excepto la confesional de las autoridades y las que no hayan sido ofrecidas al interponerse el recurso.
+
+El Consejo, con vista de las pruebas resolverá si procede o no rectificar la cuantificación aludida.
 
 ###### ARTICULO 106.
 
@@ -852,3 +924,7 @@ C. ARMANDO GALLEGO MORENO.
 P.O. 10 DE JULIO DE 1982.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 1984.
+
+UNICO.- Las presentes reformas entrarán en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
