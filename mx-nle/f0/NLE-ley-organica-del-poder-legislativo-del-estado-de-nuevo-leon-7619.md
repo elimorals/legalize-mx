@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "2000-08-16"
+last_updated: "2001-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -737,7 +737,9 @@ a) Las que designe el Pleno del Congreso para la resolución de un asunto espec�
 
 Ningún Diputado presidirá, a la vez, dos o más de las Comisiones señaladas en la fracción I del presente artículo, ni tampoco una de estas Comisiones y uno de los Comités establecidos en el Artículo 77 de esta Ley.
 
-Cada Diputado formará parte de hasta cuatro Comisiones de Dictamen Legislativo.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2001)</small>
+
+Cada Diputado formará parte de hasta cinco Comisiones de Dictamen Legislativo.
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 1999)</small>
 
@@ -789,7 +791,15 @@ XI.- Primera de Hacienda y Desarrollo Municipal;
 
 XII.- Segunda de Hacienda y desarrollo Municipal; y
 
-XIII.- Tercera de Hacienda y Desarrollo Municipal.
+XIII.- Tercera de Hacienda y Desarrollo Municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE OCTUBRE DE 2001)</small>
+
+XIV.- Cuarta de Hacienda y Desarrollo Municipal; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE OCTUBRE DE 2001)</small>
+
+XV.- Quinta de Hacienda y Desarrollo Municipal.
 
 ###### Artículo 71.
 
@@ -1156,3 +1166,9 @@ Artículo Cuarto.- La transferencia de unidades administrativas de una dependenc
 Artículo Quinto.- Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto, pasen de una dependencia a otra, se respetarán en términos de la legislación correspondiente.
 
 Artículo Sexto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE OCTUBRE DE 2001.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los asuntos que fueron turnados conforme a las disposiciones vigentes, serán inmediatamente turnados a las Comisiones que conforme al presente Decreto se crean, en caso de duda, se remitirá a la Directiva del Congreso del Estado para su turno.
