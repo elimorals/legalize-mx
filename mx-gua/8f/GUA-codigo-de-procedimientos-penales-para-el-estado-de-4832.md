@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "1987-08-07"
+last_updated: "1988-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1988.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -307,7 +307,9 @@ Son correcciones disciplinarias:
 
 I.- Apercibimiento;
 
-II.- Multa de cinco a doscientos pesos;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1988)</small>
+
+II.- Multa del equivalente de 1 a 15 días del salario mínimo general vigente en el momento y lugar que se cometa la falta que amerite corrección. Si el infractor fuese jornalero, obrero o trabajador, la multa no deberá exceder de un día de salario y tratándose de trabajadores no asalariados, el equivalente a un día de su ingreso;
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 1986)</small>
 
@@ -327,7 +329,9 @@ En vista de lo que manifieste el interesado, el funcionario que la hubiere impue
 
 El Ministerio Público en la averiguación previa, y los tribunales, podrán emplear, para hacer cumplir sus determinaciones, los siguientes medios de apremio:
 
-I.- Multa de cinco a doscientos pesos.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1988)</small>
+
+I.- Multa del equivalente de 1 a 30 días del salario mínimo general vigente en el momento y lugar en que se realizó la conducta que motivó el medio de apremio. Si el infractor fuese jornalero, obrero o trabajador, la multa no deberá exceder de un día de salario y tratándose de trabajadores no asalariados, el equivalente a un día de su ingreso.
 
 II.- Auxilio de la fuerza pública; y
 
@@ -3065,7 +3069,7 @@ Los incidentes cuya tramitación no se detalle en este Código y que, a juicio d
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MAYO DE 1978)</small>
 
-TITULO DECIMOSEGUNDO
+## TITULO DECIMO SEGUNDO (SIC)
 
 Procedimientos relativos a las personas jurídicas colectivas y a los inimputables.
 
@@ -3534,6 +3538,12 @@ P.O. 26 DE SEPTIEMBRE DE 1986.
 El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 7 DE AGOSTO DE 1987.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE SEPTIEMBRE DE 1988.
 
 ###### ARTICULO UNICO.
 
