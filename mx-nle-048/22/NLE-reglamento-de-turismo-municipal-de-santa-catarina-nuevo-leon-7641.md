@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-turismo-municipal-de-santa-catarina-nuevo-leon-76
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-14"
-last_updated: "1992-09-14"
+last_updated: "2004-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE TURISMO MUNICIPAL DE SANTA CATARINA, NUEVO LEON
 
-REGLAMENTO DE TURISMO MUNICIPAL DE SANTA CATARINA, NUEVO LEON
+REGLAMENTO DE TURISMO MUNICIPAL DE SANTA CATARINA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 14 de septiembre de 1992.
 
@@ -97,9 +97,11 @@ La Presidencia Municipal, participará y coadyuvará en los esfuerzos que realic
 
 ZONAS DE DESARROLLO TURISTICO
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTICULO 9o.
 
-La Presidencia Municipal conjunta y participativamente con la Secretaría de Desarrollo Urbano y Obras Públicas del Gobierno del Estado y del Municipio, promovera la determinación de zonas de desarrollo turístico, para que se expidan las declaratorias de uso de suelo turístico conforme a las Leyes respectivas, en su caso. se recabará la opinión de la Secretaría de Reforma Agraria.
+La Presidencia Municipal conjunta y participativamente con la Secretaría de Desarrollo Urbano y Ecología y Obras Públicas del Gobierno del Estado y del Municipio, promoverá la determinación de zonas de desarrollo turístico, para que se expidan las declaratorias de uso de suelo turístico conforme a las leyes respectivas, en su caso, se recabará la opinión de la Secretaría de Reforma Agraria.
 
 ###### ARTICULO 10o.
 
@@ -196,3 +198,9 @@ SR. ATANASIO GONZALEZ PUENTE.
 EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 LIC. FERNANDO MARGAIN BERLANGA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE DICIEMBRE DE 2004.
+
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ART. 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
