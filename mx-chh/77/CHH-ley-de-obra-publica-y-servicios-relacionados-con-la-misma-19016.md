@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-19016
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-23"
-last_updated: "2000-12-23"
+last_updated: "2003-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de diciembre del 2000.
 
@@ -955,13 +955,113 @@ Recibida la obra, la unidad o área administrativa bajo cuya responsabilidad que
 
 ### CAPITULO TERCERO. DE LAS EXCEPCIONES A LA LICITACION PUBLICA
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 79.
 
-Los Entes Públicos, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos de obra pública y servicios relacionados con la misma, a través de un procedimiento de invitación a cuando menos tres contratistas o adjudicación directa, cuando el importe de cada operación no exceda de los montos máximos previstos, respectivamente, en los presupuestos de egresos del Estado y de los Municipios, siempre que las operaciones no se fraccionen para quedar comprendidas en este supuesto de excepción a la licitación pública.
+Los Municipios, sus Organismos Públicos Descentralizados, las Empresas de Participación Municipal mayoritarias y los Fideicomisos en los que los Municipios tengan el carácter de Fideicomitentes según correspondan, de conformidad con lo dispuesto por las Leyes de la materia y bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos de obra pública y servicios relacionados con la misma, a través de adjudicación directa y/o un procedimiento de licitación restringida mediante invitación a cuando menos tres contratistas, cuando el importe de las operaciones no exceda de los montos establecidos en este artículo, siempre y cuando las propuestas se consideren técnicamente válidas y las operaciones no se fraccionen para quedar comprendidas en este supuesto de excepción a la licitación pública.
+
+GRUPO MUNICIPIOS ADJUDICACION INVITACION A TRES
+
+DIRECTA CONTRATISTAS
+
+I JUAREZ Y CHIHUAHUA De un SMGV De más de 55
+
+hasta 55 SMGV hasta
+
+veces X365 110x365
+
+II DELICIAS, CUAUHTEMOC, De un SMGV De más de 40
+
+HIDALGO DEL PARRAL, hasta 40 veces SMGV hasta
+
+GUADALUPE Y CALVO, X365 60X365
+
+NUEVO CASAS GRANDES,
+
+CAMARGO, GUACHOCHI,
+
+GUERRERO Y MADERA
+
+III MEOQUI, SAUCILLO, De un SMGV De más de 35
+
+BOCOYNA, OJINAGA, hasta 35 veces SMGV hasta
+
+NAMIQUIPA Y URIQUE X365 50X365
+
+IV BALLEZA, SANTA BARBARA, De un SMGV De más de 30
+
+BUENAVENTURA, hasta 30 veces SMGV hasta
+
+CORONADO, X365 45x365
+
+ASCENSION, ALDAMA,
+
+BATOPILAS, AHUMADA,
+
+GUADALUPE Y
+
+DISTRITO BRAVOS,
+
+MORELOS, CARICHI,
+
+ROSALES, URUACHI,
+
+SAN FRANCISCO DEL ORO,
+
+GUAZAPARES, OCAMPO,
+
+RIVA PALACIO, ALLENDE,
+
+CASAS GRANDES, JANOS,
+
+TEMOSACHI, CHINIPAS,
+
+GOMEZ FARIAS,
+
+JIMENEZ, PRAXEDIS G.
+
+GUERRERO,
+
+IGNACIO ZARAGOZA,
+
+BACHINIVA, CUSIHUIRIACHI,
+
+VALLE DE ZARAGOZA,
+
+AQUILES SERDAN, SATEVO,
+
+MORIS, LOPEZ, SANTA ISABEL,
+
+JULIMES, MATAMOROS,
+
+NONOAVA,
+
+SAN FRANCISCO DE CONCHOS,
+
+MATACHI, GALEANA, LA CRUZ,
+
+COYAME DEL SOTOL,
+
+DR. BELISARIO DOMINGUEZ,
+
+MANUEL BENAVIDES, GRAN MORELOS,
+
+ROSARIO, MAGUARICHI,
+
+SAN FRANCISCO DE BORJA, HUEJOTITAN
+
+Y EL TULE.
+
+Los montos que resulten de la formula anterior, se considerarán sin incluir el Impuesto al Valor Agregado.
+
+Por lo que corresponde al Gobierno del Estado, sus Organismos Públicos Descentralizados, las Empresas de Participación Estatal mayoritarias y a los Fideicomisos en los que el Gobierno del Estado tengan el carácter de Fideicomitentes, los montos de excepción para la licitación Pública que se aplicarán serán los que se establezcan en su presupuesto de egresos en los cuales no incluye el Impuesto al Valor Agregado.
+
+El salario mínimo general vigente (SMGV) será el que corresponda a la zona económica de ubicación de los diferentes municipios, así como de la sede de los Poderes del Gobierno del Estado, de conformidad con la resolución de la Comisión Nacional de Salarios Mínimos.
 
 La opción que ejerzan deberá fundarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para la Entidad, Dependencia u Organismo respectivo. En el dictamen que al efecto se emita, deberán acreditar, de entre los criterios mencionados, aquellos en que se funde el ejercicio de la opción, considerando el monto del contrato y la naturaleza de la obra o servicio.
 
-En el caso de Dependencias y Organismos Estatales, y en su caso las Municipales que ejerzan recursos estatales, a mas tardar el último día hábil de cada mes enviarán a la Contraloría y a la Secretaría y, en su caso, al Órgano de Gobierno respectivo, un informe, acompañando copia del dictamen aludido en el párrafo anterior.
+En el caso de Dependencias y Organismos Estatales, y en el caso las Municipales que ejerzan recursos estatales, a más tardar el último día hábil de cada mes enviaran a la Contraloría y a la Secretaria y, en su caso, al Organo de Gobierno respectivo, un informe, acompañando copia del dictamen aludido en el párrafo anterior.
 
 ###### ARTICULO 80.
 
@@ -1244,3 +1344,11 @@ C.P. PATRICIO MARTINEZ GARCIA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. VICTOR E. ANCHONDO PAREDES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE DICIEMBRE DE 2003.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado y se aplicará a partir del ejercicio fiscal de 2004.
