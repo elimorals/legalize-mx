@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2003-02-25"
+last_updated: "2003-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE FEBRERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ABRIL DE 2003.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 29 de diciembre de 1976.
 
@@ -210,49 +210,49 @@ Cuando alguna Secretaría de Estado o Departamento Administrativo necesite infor
 
 ### CAPITULO II. De la competencia de las Secretarías de Estado, Departamentos Administrativos y Consejería Jurídica del Ejecutivo Federal
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 26.
 
 Para el despacho de los asuntos del orden administrativo, el Poder Ejecutivo de la Unión contará con las siguientes dependencias:
 
-Secretaría de Gobernación.
+Secretaría de Gobernación
 
-Secretaría de Relaciones Exteriores.
+Secretaría de Relaciones Exteriores
 
-Secretaría de la Defensa Nacional.
+Secretaría de la Defensa Nacional
 
-Secretaría de Marina.
+Secretaría de Marina
 
-Secretaría de Seguridad Pública.
+Secretaría de Seguridad Pública
 
-Secretaría de Hacienda y Crédito Público.
+Secretaría de Hacienda y Crédito Público
 
-Secretaría de Desarrollo Social.
+Secretaría de Desarrollo Social
 
-Secretaría de Medio Ambiente y Recursos Naturales.
+Secretaría de Medio Ambiente y Recursos Naturales
 
-Secretaría de Energía.
+Secretaría de Energía
 
-Secretaría de Economía.
+Secretaría de Economía
 
-Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación
 
-Secretaría de Comunicaciones y Transportes.
+Secretaría de Comunicaciones y Transportes
 
-Secretaría de Contraloría y Desarrollo Administrativo.
+Secretaría de la Función Pública
 
-Secretaría de Educación Pública.
+Secretaría de Educación Pública
 
-Secretaría de Salud.
+Secretaría de Salud
 
-Secretaría del Trabajo y Previsión Social.
+Secretaría del Trabajo y Previsión Social
 
-Secretaría de la Reforma Agraria.
+Secretaría de la Reforma Agraria
 
-Secretaría de Turismo.
+Secretaría de Turismo
 
-Consejería Jurídica del Ejecutivo Federal.
+Consejería Jurídica del Ejecutivo Federal
 
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
 
@@ -558,7 +558,9 @@ XVII.- Llevar a cabo las tramitaciones y registros que requiera la vigilancia y 
 
 XVIII.- Formular la Cuenta Anual de la Hacienda Pública Federal;
 
-XIX.- Coordinar y desarrollar los servicios nacionales de estadística y de información geográfica; establecer las normas y procedimientos para la organización, funcionamiento y coordinación de los sistemas nacionales estadísticos y de información geográfica, así como normar y coordinar los servicios de informática de las dependencias y entidades de la administración pública federal;
+> <small>(REFORMADA, D.O.F. 10 DE ABRIL DE 2003)</small>
+
+XIX. Coordinar y desarrollar los servicios nacionales de estadística y de información geográfica, así como establecer las normas y procedimientos para su organización, funcionamiento y coordinación;
 
 XX.- Fijar los lineamientos que se deben seguir en la elaboración de la documentación necesaria para la formulación del Informe Presidencial e integrar dicha documentación;
 
@@ -570,9 +572,9 @@ XXII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
 XXIII.- Vigilar el cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación nacional, así como de programación, presupuestación, contabilidad y evaluación;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ABRIL DE 2003)</small>
 
-XXIV.- Ejercer el control presupuestal de los servicios personales así como, en forma conjunta con la Secretaría de Contraloría y Desarrollo Administrativo, aprobar las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública Federal y sus modificaciones, así como establecer normas y lineamientos en materia de administración de personal;
+XXIV. Ejercer el control presupuestal de los servicios personales y establecer normas y lineamientos en materia de control del gasto en ese rubro, y
 
 XXV.- Los demás que le atribuyan expresamente las leyes y reglamentos.
 
@@ -1186,31 +1188,57 @@ XXVI.- Promover y, en su caso, organizar la capacitación, investigación y el d
 
 XXVII.- Los demás que expresamente le fijen las leyes y reglamentos.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ABRIL DE 2003)</small>
 
 ###### ARTICULO 37.
 
-A la Secretaría de Contraloría y Desarrollo Administrativo corresponde el despacho de los siguientes asuntos:
+A la Secretaría de la Función Pública corresponde el despacho de los siguientes asuntos:
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 I.- Organizar y coordinar el sistema de control y evaluación gubernamental. Inspeccionar el ejercicio del gasto público federal, y su congruencia con los presupuestos de egresos;
 
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
 II.- Expedir las normas que regulen los instrumentos y procedimientos de control de la Administración Pública Federal, para lo cual podrá requerir de las dependencias competentes, la expedición de normas complementarias para el ejercicio del control administrativo;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 III.- Vigilar el cumplimiento de las normas de control y fiscalización así como asesorar y apoyar a los órganos de control interno de las dependencias y entidades de la Administración Pública Federal;
 
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
 IV.- Establecer las bases generales para la realización de auditorías en las dependencias y entidades de la Administración Pública Federal, así como realizar las auditorías que se requieran a las dependencias y entidades en sustitución o apoyo de sus propios órganos de control;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 V.- Vigilar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública Federal, de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores;
 
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
 VI.- Organizar y coordinar el desarrollo administrativo integral en las dependencias y entidades de la Administración Pública Federal, a fin de que los recursos humanos, patrimoniales y los procedimientos técnicos de la misma, sean aprovechados y aplicados con criterios de eficiencia, buscando en todo momento la eficacia, descentralización, desconcentración y simplificación administrativa. Para ello, podrá realizar o encomendar las investigaciones, estudios y análisis necesarios sobre estas materias, y dictar las disposiciones administrativas que sean necesarias al efecto, tanto para las dependencias como para las entidades de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 10 DE ABRIL DE 2003)</small>
+
+VI bis.- Dirigir, organizar y operar el Sistema de Servicio Profesional de Carrera en la Administración Pública Federal en los términos de la Ley de la materia, dictando las resoluciones conducentes en los casos de duda sobre la interpretación y alcances de sus normas;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 VII.- Realizar, por sí o a solicitud de la Secretaría de Hacienda y Crédito Público o de la coordinadora del sector correspondiente, auditorías y evaluaciones a las dependencias y entidades de la Administración Pública Federal, con el objeto de promover la eficiencia en su gestión y propiciar el cumplimiento de los objetivos contenidos en sus programas;
 
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
 VIII.- Inspeccionar y vigilar, directamente o a través de los órganos de control, que las dependencias y entidades de la Administración Pública Federal cumplan con las normas y disposiciones en materia de: sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, servicios, y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 IX.- Opinar, previamente a su expedición, sobre los proyectos de normas de contabilidad y de control en materia de programación, presupuestación, administración de recursos humanos, materiales y financieros, así como sobre los proyectos de normas en materia de contratación de deuda y de manejo de fondos y valores que formule la Secretaría de Hacienda y Crédito Público;
 
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
 X.- Designar a los auditores externos de las entidades, así como normar y controlar su desempeño;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 XI.- Designar, para el mejor desarrollo del sistema de control y evaluación gubernamentales, delegados de la propia Secretaría ante las dependencias y órganos desconcentrados de la Administración Pública Federal centralizada, y comisarios en los órganos de gobierno o vigilancia de las entidades de la Administración Pública Paraestatal;
 
@@ -1218,27 +1246,55 @@ XI.- Designar, para el mejor desarrollo del sistema de control y evaluación gub
 
 XII.- Designar y remover a los titulares de los órganos internos de control de las dependencias y entidades de la Administración Pública Federal y de la Procuraduría General de la República, así como a los de las áreas de auditoría, quejas y responsabilidades de tales órganos, quienes dependerán jerárquica y funcionalmente de la Secretaría de Contraloría y Desarrollo Administrativo, tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Federales, representando al Titular de dicha Secretaría;
 
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
 XIII.- Colaborar con la Contaduría Mayor de Hacienda para el establecimiento de los procedimientos necesarios que permitan a ambos órganos el mejor cumplimiento de sus respectivas responsabilidades;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 XIV.- Informar periódicamente al Ejecutivo Federal, sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la Administración Pública Federal, así como de aquellas que hayan sido objeto de fiscalización, e informar a las autoridades competentes, cuando proceda del resultado de tales intervenciones y, en su caso, dictar las acciones que deban desarrollarse para corregir las irregularidades detectadas;
 
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
 XV.- Recibir y registrar las declaraciones patrimoniales que deban presentar los servidores públicos de la Administración Pública Federal, y verificar su contenido mediante las investigaciones que fueren pertinentes de acuerdo con las disposiciones aplicables;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 XVI.- Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con las dependencias y entidades de la Administración Pública Federal, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
 
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
 XVII.- Conocer e investigar las conductas de los servidores públicos, que puedan constituir responsabilidades administrativas; aplicar las sanciones que correspondan en los términos de ley y, en su caso, presentar las denuncias correspondientes ante el Ministerio Público, prestándose para tal efecto la colaboración que le fuere requerida;
 
-XVIII.- Autorizar, conjuntamente con la Secretaría de Hacienda y Crédito Público, en el ámbito de sus respectivas competencias, las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública Federal y sus modificaciones, así como registrar dichas estructuras para efectos de desarrollo y modernización de los recursos humanos;
+> <small>(REFORMADA, D.O.F. 10 DE ABRIL DE 2003)</small>
+
+XVIII.- Aprobar y registrar las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública Federal y sus modificaciones; previo dictamen presupuestal favorable de la Secretaría de Hacienda y Crédito Público;
+
+> <small>(ADICIONADA, D.O.F. 10 DE ABRIL DE 2003)</small>
+
+XVIII bis.- Establecer normas y lineamientos en materia de planeación y administración de personal;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 XIX.- Establecer normas, políticas y lineamientos en materia de adquisiciones, arrendamientos, desincorporación de activos, servicios y obras públicas de la Administración Pública Federal;
 
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
 XX.- Conducir la política inmobiliaria de la Administración Pública Federal, salvo por lo que se refiere a las playas, zona federal marítimo terrestre, terrenos ganados al mar o cualquier depósito de aguas marítimas y demás zonas federales;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 XXI.- Expedir normas técnicas, autorizar y, en su caso, proyectar, construir, rehabilitar, conservar o administrar, directamente o a través de terceros, los edificios públicos y, en general, los bienes inmuebles de la Federación, a fin de obtener el mayor provecho del uso y goce de los mismos. Para tal efecto, la Secretaría podrá coordinarse con estados y municipios, o bien con los particulares y con otros países;
 
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
 XXII.- Administrar los inmuebles de propiedad federal, cuando no estén asignados a alguna dependencia o entidad;
 
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
 XXIII.- Regular la adquisición, arrendamiento, enajenación, destino o afectación de los bienes inmuebles de la Administración Pública Federal y, en su caso, representar el interés de la Federación; así como expedir las normas y procedimientos para la formulación de inventarios y para la realización y actualización de los avalúos sobre dichos bienes que realice la propia Secretaría, o bien, terceros debidamente autorizados para ello;
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 XXIV.- Llevar el registro público de la propiedad inmobiliaria federal y el inventario general correspondiente, y (sic)
 
@@ -1248,9 +1304,15 @@ XXIV bis.- Reivindicar los bienes propiedad de la nación, por conducto del Proc
 
 > <small>(ADICIONADA, D.O.F. 13 DE MARZO DE 2002)</small>
 
-XXV.- Formular y conducir la política general de la Administración Pública Federal para establecer acciones que propicien la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere, y
+XXV.- Formular y conducir la política general de la Administración Pública Federal para establecer acciones que propicien la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere, y (sic)
 
-XXVI.- Las demás que le encomienden expresamente las leyes y reglamentos.
+> <small>(REFORMADA, D.O.F. 10 DE ABRIL DE 2003)</small>
+
+XXVI.- Promover las estrategias necesarias para establecer políticas de gobierno electrónico, y
+
+> <small>(ADICIONADA, D.O.F. 10 DE ABRIL DE 2003)</small>
+
+XXVII.- Las demás que le encomienden expresamente las leyes y reglamentos.
 
 ###### ARTICULO 38.
 
@@ -1989,3 +2051,11 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DE LA LEY GENERAL DE DESARROLLO FORES
 SEGUNDO.- La presente Ley entrará en vigor a los noventa días de su publicación en el Diario Oficial de la Federación.
 
 ...
+
+D.O.F. 10 DE ABRIL DE 2003.
+
+Artículo Primero.- La Secretaría de Hacienda y Crédito Público realizará lo necesario a efecto de asegurar la transferencia de los recursos presupuestarios destinados al pago de los sueldos, prestaciones y demás percepciones que deban cubrirse a favor de los servidores públicos que por virtud del presente decreto pasarán a depender de la Secretaría de la Función Pública.
+
+Artículo Segundo.- Aquellas disposiciones que hagan mención a la Secretaría de la Contraloría y Desarrollo Administrativo se entenderán referidas a la Secretaría de la Función Pública.
+
+Artículo Tercero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
