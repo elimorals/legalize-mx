@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1998-08-23"
+last_updated: "1999-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 1999.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -445,15 +445,15 @@ XIII.- Conceder licencia al Gobernador, para salir del territorio del Estado, cu
 
 XIV.- Decidir sobre la renuncia del cargo de Gobernador; conceder licencia a dicho servidor público para separarse del cargo, hasta por noventa días.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1995)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1999)</small>
 
-XV.- Aprobar los nombramientos de los Magistrados del Supremo Tribunal de Justicia del Estado, de la terna propuesta por el Ejecutivo; en caso de que los rechace, aceptar una nueva terna en términos del Artículo 54 de esta Constitución.
+XV.- Designar a los Magistrados del Supremo Tribunal de Justicia del Estado y del Tribunal de lo Contencioso Administrativo, de la terna propuesta por el Ejecutivo; en caso de que los rechace, aceptar una nueva terna, la que tratándose de los Magistrados del Supremo Tribunal de Justicia se elegirá en términos del Artículo 54 de la Constitución.
 
-Los nombramientos de los Magistrados deberán recaer en aquellas personas seleccionadas por el Consejo de la Judicatura Estatal que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de su actividad jurídica.
+Los nombramientos de los Magistrados deberán recaer en aquellas personas que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de su actividad jurídica.
 
-> <small>(REFORMADA P.O. 15 DE ENERO DE 1995)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1999)</small>
 
-XVI.- Conocer de las renuncias que de sus cargos presenten los Magistrados del Supremo Tribunal de Justicia, los Consejeros Ciudadanos del Consejo Estatal Electoral y los Magistrados del Tribunal Local Electoral, comunicándose su aceptación a la autoridad competente, para que proceda conforme a sus facultades.
+XVI.- Conocer de las renuncias que de sus cargos presenten los Magistrados del Supremo Tribunal de Justicia, los Consejeros Ciudadanos del Consejo Estatal Electoral, los Magistrados del Tribunal Local Electoral y los Magistrados del Tribunal de lo Contencioso Administrativo, comunicándose su aceptación a la autoridad competente, para que proceda conforme a sus facultades.
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
@@ -629,19 +629,19 @@ El Ejecutivo del Estado no podrá vetar las resoluciones del Congreso cuando és
 
 La iniciativa que sea desechada por el Congreso, no podrá volver a presentarse sino hasta el siguiente período ordinario.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1973)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
 
 ###### Artículo 34.
 
 En casos urgentes a juicio del Congreso, sin omitir ningún trámite, las resoluciones sobre las iniciativas se darán en razón de la premura indicada.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 35.
 
 Para su observancia, las Leyes y Decretos deberán publicarse en el Periódico Oficial del Estado y entrarán en vigor al día siguiente de su publicación. Cuando en la Ley o Decreto se fije la fecha en que debe empezar a regir, su publicación se hará por lo menos tres días antes de aquélla.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1973)</small>
 
 ### CAPITULO DECIMO
 
@@ -777,7 +777,7 @@ XI.- Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de su
 
 XII.- Solicitar de la Diputación Permanente que convoque al Congreso a sesiones extraordinarias, cuando fuere necesario;
 
-XIII.- Expedir títulos profesionales respecto de estudios realizados en Instituciones dependientes del Estado;
+XIII.- Expedir títulos profesionales resp;cto de estudios realizados en Instituciones dependientes del Estado.
 
 XIV.- Conceder, conforme a la ley, indulto, reducción y conmutación de penas;
 
@@ -839,7 +839,7 @@ suplidas por el servidor público inmediato inferior de la Secretaría, quien de
 
 Del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1999)</small>
 
 ### CAPITULO UNICO.
 
@@ -847,7 +847,7 @@ DEL PODER JUDICIAL.
 
 ###### Artículo 51.
 
-El Poder Judicial es el encargado de impartir justicia, aplicando las leyes, se deposita en el Supremo Tribunal de Justicia del Estado, en los Juzgados, en un Tribunal Electoral que será la máxima autoridad jurisdiccional en la materia, y órgano especializado dentro del Poder Judicial, así como también en el Consejo de la Judicatura Estatal, que tendrá dentro de sus facultades las administrativas, las de la materia de carrera judicial y demás atribuciones que la Ley Orgánica respectiva determine.
+El Poder Judicial es el encargado de impartir justicia, aplicando las Leyes, se deposita en el Supremo Tribunal de Justicia del Estado, en el Tribunal de lo Contencioso Administrativo del Estado, en los Juzgados, en un Tribunal Electoral que será la máxima autoridad jurisdiccional en la materia, y órgano especializado dentro del Poder Judicial, así como también en el Consejo de la Judicatura Estatal, que tendrá dentro de sus facultades las administrativas, las de la materia de Carrera Judicial y demás atribuciones que la Ley Orgánica respectiva determine.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
@@ -908,6 +908,10 @@ El Consejo estará facultado para expedir acuerdos para el adecuado ejercicio de
 ###### Artículo 56.
 
 Los Magistrados y Jueces deberán ser nombrados mediante un concurso de oposición, aplicado por el Consejo de la Judicatura Estatal, como se disponga en la Ley respectiva y durará en su encargo diez años, durante los cuales serán inamovibles, salvo caso de mala conducta debidamente comprobada, calificada por el Consejo de la Judicatura Estatal o previo juicio de responsabilidad ante el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 1999)</small>
+
+Lo dispuesto en el párrafo anterior no será aplicable a los Magistrados del Tribunal de lo Contencioso Administrativo.
 
 Ninguna persona que haya sido Magistrado podrá ser nombrada para un nuevo período, salvo que hubiere ejercido el cargo con carácter de provisional o interino.
 
@@ -1751,9 +1755,7 @@ P.O. 26 DE NOVIEMBRE DE 1995.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 22 DE FEBRERO DE 1997.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.P.O. 26 DE NOVIEMBRE DE 1995.
 
 ###### ARTICULO PRIMERO.
 
@@ -1770,3 +1772,19 @@ UNICO.- La presente reforma constitucional entrará en vigor al día siguiente d
 P.O. 23 DE AGOSTO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE SEPTIEMBRE DE 1999.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el día 1° de enero del año 2000.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 1997.
