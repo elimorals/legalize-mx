@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-6113"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-26"
-last_updated: "1983-12-26"
+last_updated: "1987-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1987.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 26 de diciembre de 1983.
 
@@ -63,39 +63,81 @@ Cuando en esta ley se tomen como base para el pago de los créditos fiscales a c
 
 #### Sección Primera. Del Objeto
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 5o.
 
-Es objeto de este impuesto, la compraventa, cesión o transmisión de derechos de vehículos de motor entre particulares.
+Es objeto de este Impuesto, la enajenación de vehículos de motor entre particulares, cuyos modelos correspondan a los últimos diez años.
+
+I. Para los efectos de este Impuesto, se considera enajenación de vehículos:
+
+a) Toda transmisión de la propiedad sobre vehículos de motor, aún en la que el enajenante se reserve el dominio;
+
+b) Las adquisiciones por herencia;
+
+c) La donación;
+
+d) Las adjudicaciones, aún cuando se realicen en favor de acreedor;
+
+e) La aportación a una sociedad o asociación;
+
+f) La dación en pago; y
+
+g) La permuta.
+
+Cuando se trate de permuta, se considera que existe doble enajenación.
+
+II. Se considera, salvo prueba en contrario, que la enajenación se efectuó en el Estado de Michoacán, cuando al realizar trámites vehiculares de circulación, se dé al menos alguno de los siguientes supuestos:
+
+a) Que así conste en el endoso que aparece en el documento que ampare la propiedad del vehículo en cuestión
+
+b) Que el endoso a que se refiere el inciso anterior, no contenga lugar de operación.
+
+c) Que el vehículo en cuestión circule con placas del Estado de Michoacán, aún cuando el endoso haya sido fechado en otra Entidad; y
+
+d) Que la documentación de pagos de otros impuestos y/o derechos a que este afecto el vehículo de que se trate, haya sido tramitada ante las autoridades domiciliadas en el Estado.
 
 #### Sección Segunda. De los Sujetos
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 6o.
 
-Es sujeto de este impuesto, la persona que reciba un ingreso como resultado de transmitir la propiedad de vehículos de motor, siempre que no sea comerciante en esta clase de negocios. El adquirente será solidariamente responsable del pago del impuesto.
+Es sujeto de este Impuesto, la persona que reciba un ingreso como resultado de la enajenación de vehículos de motor en los términos del artículo anterior, siempre que no sea comerciante en esta clase de negocios.
 
-Este impuesto se causará aun cuando la transmisión de los derechos se hiciese a título gratuito y será a cargo del adquirente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 7o.
 
-Responden solidariamente del pago de este impuesto, los empleados y funcionarios públicos que autoricen cualquier trámite relacionado con vehículos de motor gravados con este impuesto, sin haberse cerciorado de su pago.
+Responden solidariamente del pago de este impuesto:
+
+I. Los funcionarios y empleados públicos que autoricen cualquier trámite relacionado con vehículos de motor gravados por este Impuesto, sin haberse cerciorado de su pago.
+
+II. El adquirente de vehículos de motor por los endosos anteriores.
 
 #### Sección Tercera. De la Base
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 8o.
 
-La base de este impuesto será el importe resultante de aplicar las tablas y tasa, contenidos en la Ley de Ingresos.
+La base de este Impuesto, será el importe resultante de alpicar (sic) las tablas contenidas en la Ley de Ingresos del Estado vigente en la fecha de la enajenación.
 
 #### Sección Cuarta. De las Obligaciones y del Pago
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 9o.
 
-Los sujetos de este impuesto están obligados a presentar ante la Oficina de Rentas de su domicilio, una declaración en las formas oficiales aprobadas con todas las especificaciones del vehículo de motor objeto de la operación y acompañando los documentos que la autoridad fiscal les requiera.
+Los sujetos de este Impuesto, están obligados a presentar ante la oficina recaudadora de su domicilio, el documento original con una copia simple del mismo, que ampare la propiedad del vehículo de motor objeto de la enajenación, dentro de los siguientes 15 días de la misma.
 
-La oficina de rentas procederá de inmediato a calcular el impuesto correspondiente, de acuerdo con los datos registrados en la declaración, expidiendo el recibo oficial y sellando la factura que ampara la propiedad del vehículo, al margen del endoso anotará, el número del recibo, la base del impuesto, el importe del mismo y la fecha de la operación.
+La oficina recaudadora procederá de inmediato a calcular el impuesto correspondiente aplicando las tasas establecidas en la Ley de Ingresos del Estado, expidiendo el recibo oficial y sellando el documento original que le fue exhibido al margen del endoso y anotará el número, fecha e importe del recibo correspondiente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 10.
 
-El adquirente está obligado a cerciorarse que por los endosos anteriores han sido cubiertos los impuestos respectivos, siendo solidariamente responsable del pago de éstos en caso de haberse omitido.
+El propietario del vehículo está obligado a conservar por cinco años contados a partir de la fecha de pago, el recibo correspondiente.
 
 ###### ARTICULO 11.
 
@@ -149,11 +191,17 @@ Es base para el pago de este impuesto el ingreso bruto que se obtenga.
 
 En caso de que en una misma función se presenten dos o más espectáculos de los gravados, se causará el impuesto que tenga señalada la mayor tasa en la Ley de Ingresos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
+
 #### Sección Cuarta. Del Pago
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 19.
 
-Las autoridades fiscales nombrarán interventores de espectáculos, quienes vigilarán que sea correcta la base de este impuesto.
+Las autoridades fiscales nombrarán interventores de espectáculos públicos, quienes vigilarán que sea correcta la base de este Impuesto y formularán la liquidación correspondiente en las formas aprobadas por la Tesorería General, de la cual entregarán una copia al interesado, como constancia provisional de pago.
+
+El día hábil siguiente a la celebración del espectáculo, el sujeto del Impuesto acudirá a la oficina recaudadora para canjear el comprobante a que se refiere el párrafo anterior por el recibo oficial correspondiente, salvo el caso en que la naturaleza del espectáculo gravado al contribuyente le resulte notoriamente perjudicial hacerlo; en esta circunstancia y para su efecto personal la constancia provisional de pago adquirirá el carácter de comprobante oficial.
 
 #### Sección Quinta. De las Obligaciones
 
@@ -163,15 +211,23 @@ Este impuesto se liquidará de conformidad con las tasas que al efecto señale l
 
 ###### ARTICULO 21.
 
-El pago de este impuesto deberá efectuarse en la oficina de rentas correspondiente al domicilio del contribuyente o en el lugar donde el espectáculo se realice, dentro de los siguientes plazos:
+El pago de este impuesto deberá enterarse en la oficina recaudadora correspondiente al lugar donde se realice el espectáculo.
 
-I. Cuando la explotación de espectáculos públicos se realice permanentemente en establecimientos fijos, durante los días del primero al veinte del mes siguiente al que se hubiesen percibido los ingresos objeto del gravamen, presentando al efecto una declaración de los ingresos obtenidos, en las formas aprobadas, y
+Ocasionalmente la autoridad fiscal podrá autorizar que el contribuyente entere el impuesto causado, al siguiente día hábil de aquel en que se celebre el espectáculo.
 
-II. Cuando se trate de contribuyentes ocasionales, al terminar cada espectáculo, liquidarán el impuesto, por conducto del interventor que al efecto designe la autoridad fiscal correspondiente.
+Cuando por cualquier circunstancia, el interventor designado no ocurra formular la liquidación y en su caso a recaudar el impuesto, el contribuyente estará obligado a efectuar el pago del mismo, el siguiente día hábil de aquel en que ocurran las actividades gravadas por este Impuesto.
 
-En el caso del párrafo anterior, la oficina de rentas podrá autorizar que el contribuyente respectivo entere el impuesto causado, al siguiente día hábil de aquél en que se celebre el espectáculo o espectáculos.
+La Tesorería General podrá establecer cuotas fijas a los sujetos de este Impuesto, cuando la explotación de espectáculos públicos se realice permanentemente en establecimientos fijos.
 
-Cuando por cualquier circunstancia, el interventor designado no ocurra a formular la liquidación y en su caso a recaudar el impuesto, el contribuyente estará obligado a efectuar el pago del mismo, el siguiente día hábil de aquel en que ocurran las actividades gravadas por este impuesto.
+Para la determinación del impuesto a cuota fija, la autoridad fiscal tomará en consideración lo siguiente:
+
+I. El promedio de ingresos brutos obtenidos por el sujeto en un lapso determinado según las circunstancias de cada caso, pero nunca menor de 10 días consecutivos o no.
+
+II. Aplicará a los ingresos determinados en los términos de la fracción anterior, la tasa que fije la Ley de Ingresos del Estado para el espectáculo de que se trate.
+
+III. La cuota fija corresponderá al año en que se fije, pero podrá variar en función a las modificaciones que el propio sujeto haga a sus precios de acceso al espectáculo de que se trate.
+
+En los casos en que los contribuyentes deban pagar el Impuesto por cuota fija, la autoridad fiscal determinará el plazo en que ésta deba ser enterada.
 
 ###### ARTICULO 22.
 
@@ -653,7 +709,7 @@ III. Prestación de servicios, aquéllas que sea de índole mercantil, y
 
 IV. Comisión mercantil, el mandato otorgado al comisionista para ejecutar actos de comercio por cuenta del comitente; y mediación mercantil, la actividad que desarrolla el mediador para relacionar a los contratantes.
 
-Quedan comprendidas en esta fracción, entre otras, las actividades que desarrollan por cuenta ajena los consignatarios, agentes, representantes, corredores y distribuidores.
+Quedan comprendidas en esta fracción entre otras, las actividades que desarrollan por cuenta ajena los consignatarios, agentes, representantes, corredores y distribuidores.
 
 #### Sección Séptima. De las Rectificaciones
 
@@ -1033,7 +1089,7 @@ IX. Dar aviso a la oficina de rentas correspondiente, a más tardar el mismo dí
 
 a) De la iniciación de la zafra;
 
-b) De la suspensión temporal y reanudación de la elaboración, indicando la causa;
+b)De la suspensión temporal y reanudación de la elaboración, indicando la causa;
 
 c) De la terminación de cada molienda o corrida en su caso, indicando la fecha probable de la iniciación de la siguiente;
 
@@ -1319,7 +1375,9 @@ III. Cualquier poseedor de alcohol, aguardientes u otras bebidas alcohólicas, s
 
 Para los efectos de este impuesto las operaciones de comisión se considerarán como compraventa, teniendo el comisionista las mismas obligaciones que la presente parte establece para los sujetos del impuesto.
 
-#### Sección Tercera. De la Base y Tasa
+#### Sección Tercera
+
+De la Base y Tasa.
 
 ###### ARTICULO 133.
 
@@ -2062,3 +2120,11 @@ PALACIO DEL PODER LEGISLATIVO. Morelia, Michoacán de Ocampo, a 20 de diciembre 
 En cumplimiento por lo dispuesto en la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo en la ciudad de Morelia, Michoacán a los 26 veintiséis días del mes de diciembre de 1983.
 
 Sufragio Efectivo. No Reelección.- El Gobernador Constitucional del Estado.- Ing. Cuauhtémoc Cárdenas Solórzano.- El Secretario de Gobierno.- Lic. Cristóbal Arias Solís.- (Firmados ).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 1987.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el día 1o. de enero de 1988, previa publicación en el Periódico Oficial del Estado.
