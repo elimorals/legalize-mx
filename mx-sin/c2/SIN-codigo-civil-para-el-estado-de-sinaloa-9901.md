@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "2004-02-23"
+last_updated: "2004-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -1049,7 +1049,7 @@ I.- La falta de edad requerida por la ley, cuando no haya sido dispensada;
 
 II.- La falta de consentimiento del que, o los que ejerzan la patria potestad, del tutor o del Juez, en sus respectivos casos;
 
-III.- El parentezco (sic) de consanguinidad legítima o natural sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
+III.- El parentesco de consanguinidad legítima o natural sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
 
 IV.- El parentesco de afinidad en línea recta, sin limitación alguna;
 
@@ -1065,7 +1065,9 @@ IX.- El idiotismo y la imbecilidad;
 
 X.- El matrimonio subsistente con persona distinta de aquella con quien se pretenda contraer.
 
-De estos impedimentos solamente son dispensables la falta de edad y el parentesco de consanguinidad en la línea colateral desigual.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2004)</small>
+
+De estos impedimentos solamente son dispensables la falta de edad y el parentesco de consanguinidad en la línea colateral desigual y la impotencia incurable para la cópula, cuando es conocida y aceptada por el otro contrayente.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
 
@@ -1649,7 +1651,9 @@ IV.- La incitación a la violencia hecha por un cónyuge al otro para cometer al
 
 V.- Los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos así como la tolerancia en su corrupción;
 
-VI.- Padecer sífilis, tuberculosis, o cualquiera otra enfermedad crónica o incurable que sea, además, contagiosa o hereditaria, y la impotencia incurable que sobrevenga después de celebrado el matrimonio;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2004)</small>
+
+VI.- Padecer sífilis, tuberculosis, o cualquiera otra enfermedad crónica o incurable que sea, además, contagiosa o hereditaria, y la impotencia sexual incurable, que sobrevenga después de celebrado el matrimonio, y no provenga de edad avanzada;
 
 VII.- Padecer enajenación mental incurable;
 
@@ -1673,7 +1677,7 @@ XV.- Los hábitos de juego o de embriaguez o el uso indebido o persistente de dr
 
 XVI.- Cometer un cónyuge contra la persona o los bienes del otro, un acto que sería punible si se tratara de persona extraña, siempre que tal acto tenga señalada en la ley una pena que pase de un año de prisión;
 
-> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1998)</small>
 
 XVII.- Las conductas de violencia familiar generadas por un cónyuge contra el otro, conforme a lo previsto en el artículo 324 Bis;
 
@@ -1681,7 +1685,7 @@ XVII.- Las conductas de violencia familiar generadas por un cónyuge contra el o
 
 XVIII.- La separación de los cónyuges por más de dos años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos; y
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1998)</small>
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 1998)</small>
 
 XIX.- El mutuo consentimiento.
 
@@ -3299,7 +3303,7 @@ Si el que teniendo excusa legítima para ser tutor acepta el cargo, renuncia por
 
 ###### Artículo 514.
 
-El tutor debe proponer sus impedimentos o excusas dentro del término fijado por el Código de Procedimientos Civiles, y cuando transcurra el término sin ejercitar el derecho, se entiende renunciada la excusa.
+El tutor debe proponer sus impedimentos o excusas dentro del término fijado por el Código de Procedimientos Civiles, y cuando transcurra el término sin ejercitar el derecho, se entiende renunciable la excusa.
 
 ###### Artículo 515.
 
@@ -13941,7 +13945,7 @@ II.- Si el trabajo no pudiere ser hecho por otro, su cuota será igual a la del 
 
 III.- Si sólo hubiere un socio industrial y otro capitalista, se dividirán entre sí por partes iguales las ganancias;
 
-IV.- Si son varios los socios industriales y están en el caso de la fracción II, llevarán entre todos la mitad de las ganancias y la dividirán entre sí por convenio, y, a falta de éste, por decisión (sic) arbitral.
+IV.- Si son varios los socios industriales y están en el caso de la fracción II, llevarán entre todos la mitad de las ganancias y la dividirán entre sí por convenio, y, a falta de éste, por decisión arbitral.
 
 ###### Artículo 2615.
 
@@ -14617,7 +14621,7 @@ Si se prueba debidamente que el dueño prestó su cosa a otro con el objeto de q
 
 ###### Artículo 2751.
 
-Puede darse prenda para garantir obligaciones futuras, pero en este caso no puede venderse ni adjudicarse la cosa empeñada, sin que se pruebe que la obligación principal fue legalmente exigible.
+Puede darse prenda para garantir (sic) obligaciones futuras, pero en este caso no puede venderse ni adjudicarse la cosa empeñada, sin que se pruebe que la obligación principal fue legalmente exigible.
 
 ###### Artículo 2752.
 
@@ -15964,6 +15968,12 @@ P.O. 1 DE AGOSTO DE 2003.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 23 DE FEBRERO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 22 DE MARZO DE 2004.
 
 ###### ARTÍCULO ÚNICO.
 
