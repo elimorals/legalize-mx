@@ -4,7 +4,7 @@ identifier: "HID-codigo-civil-para-el-estado-de-hidalgo-40095"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-08"
-last_updated: "1983-11-08"
+last_updated: "1983-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO CIVIL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1983.
 
 Código publicado en el Apéndice al Número 38 del Periódico Oficial del Estado de Hidalgo, el 8 de octubre de 1940.
 
@@ -14887,11 +14887,17 @@ El registrador que haga una inscripción sin cumplir con lo dispuesto en el art�
 
 El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 3024.
 
-Una vez que se firme una escritura en que se adquiera, transmita, modifique o extinga la propiedad o posesión de bienes raíces o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el Notario que la autorice dará al Registro un aviso en el que conste la finca de que se trate, la indicación de que se ha transmitido o modificado su dominio o se ha constituído, transmitido, modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de escritura y la de su firma e indicación del número, tomo y sección en que estuviere inscrita la propiedad en el Registro. El registrador, con el aviso del Notario y sin cobro de derecho alguno, hará inmediatamente una anotación preventiva al margen de la inscripción de la propiedad. Si dentro del mes siguiente a la fecha en que se hubiera firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efecto contra tercero desde la fecha de la anotación preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
+Cuando se vaya a otorgar una escritura que se declare, reconozca, adquiera, trasmite, modifique limite, grave o extinga la propiedad o posesión originaria de bienes raíces, o cualquier Derecho Real sobre los mismos, o que sin serlo sea inscribible, el notario o Autoridad ante quien se pretenda otorgar, podrá a su criterio, o deberá, a solicitud de quien pretenda adquirir un Derecho, dar al Registro un primer aviso preventivo al solicitar certificado sobre la existencia de la inscripción a favor del Titular Registral o sobre los gravámenes que reporte el inmueble o derecho a la libertad de los mismos. Dicho aviso deberá mencionar la operación y finca de que se trate, los nombres de los interesados y el antecedente registral. El registro con el aviso preventivo y sin cobro de derechos por la anotación, hará inmediatamente el asiento de presentación y asentará al margen de la inscripción correspondiente una anotación de primer aviso preventivo que tendrá vigencia por un término de treinta días naturales a partir de la fecha de presentación de la solicitud.
 
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, deberán dar el aviso a que este artículo se refiere, las autoridades de que habla la fracción III del artículo 3017, y el mencionado aviso producirá los mismos efectos que el dado por el Notario.
+Una vez que se haya otorgado la escritura que produzca cualquiera de las consecuencias a que se hace mención al párrafo anterior el notario o Autoridad ante quien se suscribió dará el registro, dentro de un término de cuarenta y ocho horas, un segundo aviso preventivo sobre la operación de que se trata conteniendo además de los datos mencionados en el párrafo que precede, la fecha de la escritura y la de su firma.
+
+El registrador con el aviso en cuestión y sin cobro de Derechos, hará de inmediato el asiento de presentación de tal aviso preventivo y asentará al margen de la inscripción una anotación preventiva del segundo aviso que tendrá una vigencia por un término de sesenta días naturales a partir de la fecha de su presentación. En los casos en que el segundo aviso preventivo de referencia se dé dentro del término de treinta días aludidos en el anterior párrafo, los efectos preventivos del segundo aviso se retrotraerán a la fecha de presentación del primero. Si se diera después de este plazo sólo surtirá efecto desde la fecha y hora de su presentación.
+
+Si el testimonio respectivo se presentare al registro de cualquiera de los términos a que se contraen los dos párrafos anteriores, su inscripción surtirá efecto contra tercero desde la fecha del asiento de presentación del primer aviso preventivo correspondiente si hubiese sido dado, o en caso contrario desde la fecha y hora de presentación del segundo. Si el documento se presentare después, su Registro sólo surtirá efecto desde la fecha de su presentación.
 
 ###### Art. 3025.
 
@@ -15146,3 +15152,7 @@ QUEDAN DEROGADOS LOS CAPITULOS I, II, III, IV, V, VI, VII, VIII, IX, X, Y XI DEL
 ###### ARTÍCULO 5o.
 
 ESTE CÓDIGO INICIARA SU VIGENCIA DESDE LA FECHA DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE HIDALGO.
+
+P.O. 28 DE DICIEMBRE DE 1983.
+
+UNICO.- El presente Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Gobierno del Estado.
