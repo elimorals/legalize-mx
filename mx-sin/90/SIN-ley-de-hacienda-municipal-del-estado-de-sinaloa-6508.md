@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "1999-04-16"
+last_updated: "2001-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2001.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -46,6 +46,10 @@ LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 ###### ARTICULO 1o.
 
 La presente Ley, la Ley de Ingresos, los Reglamentos y demás ordenamientos que expida el Congreso, así como las resoluciones, acuerdos, circulares y convenios con particulares o con Gobierno del Estado y demás actos jurídicos que en materia fiscal expidan, otorguen o celebren las autoridades competentes municipales en ejercicio de las facultades que les confieren las leyes, sin contravenir otros ordenamientos fiscales, constituirán las disposiciones aplicables en los Municipios del Estado Libre y Soberano de Sinaloa.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
+
+Los Ayuntamientos, en el ámbito de su competencia, propondrán al H. Congreso del Estado de Sinaloa, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
 ###### ARTICULO 2.
 
@@ -1461,11 +1465,11 @@ La revalidación anual de los permisos, licencias y registros de los establecimi
 
 Tendrán el carácter de productos, los ingresos que se obtengan por el arrendamiento y venta de bienes muebles e inmuebles, así como los provenientes por remate de los mismos que verifica el H. Ayuntamiento, los cuales deberán hacerse de acuerdo en lo que dispone la Ley Orgánica Municipal del Estado y la Ley sobre Inmuebles del Estado y Municipios de Sinaloa.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 92.
 
-La venta o adjudicación de solares baldíos en los Municipios se regirá por la Ley de la materia. Ningún título será expedido sin haber pagado previamente el importe que se acuerde con el Ayuntamiento, mediante convocatoria que se publique y con la aprobación del H. Congreso del Estado.
+La venta o adjudicación de solares baldíos en los Municipios se regirá por la Ley de la materia. Ningún título será expedido sin haber pagado previamente el importe que se acuerde con el Ayuntamiento, mediante convocatoria que se publique y con la aprobación de las dos terceras partes de sus integrantes.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -3178,3 +3182,7 @@ P.O. 16 DE ABRIL DE 1999.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 21 DE DICIEMBRE DE 2001.
+
+Artículo Unico.- El presente decreto se publicará en el Periódico Oficial "El Estado de Sinaloa" e iniciará su vigencia el primero de enero del año 2002.
