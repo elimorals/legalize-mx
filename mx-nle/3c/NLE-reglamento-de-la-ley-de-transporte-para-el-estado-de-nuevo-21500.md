@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-ley-de-transporte-para-el-estado-de-nuevo-2150
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-30"
-last_updated: "2001-05-30"
+last_updated: "2002-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "NLE"
 ---
 # REGLAMENTO DE LA LEY DE TRANSPORTE PARA EL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 REGLAMENTO DE LA LEY DE TRANSPORTE PARA EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2002.
 
-Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 30 de mayo de 200I.
+Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 30 de mayo de 2001.
 
 FERNANDO DE JESÚS CANALES CLARIOND, Gobernador Constitucional del Estado de Nuevo León, en ejercicio de la facultad que me confiere la fracción X del Artículo 85 de la Constitución Política del Estado de Nuevo León y con fundamento en los Artículos 2, 4. 7 y 22 de la Ley Orgánica de la Administración Pública para el Estado, he tenido a bien expedir el siguiente;
 
@@ -467,21 +469,7 @@ De conformidad con el Artículo 26 de la Ley, los sistemas de peaje ofrecerán a
 
 ###### Artículo 27.
 
-Para hacer posible lo expuesto en el Artículo anterior, los vehículos afectados al servicio público de transporte urbano de pasajeros deberán contar con un control físico de accesos con las siguientes características:
-
-I. Confort: Diseño avanzado, proporcionando suavidad y comodidad al paso del usuario, con desacelerador de impactos.
-
-II. Seguridad: Resistencia a las torsiones y vibraciones constantes, totalmente cerrado y dotado de diversos componentes que eviten su alteración, incluido reloj blindado con cambio en indicador de lectura siempre positivo.
-
-III. Acabado y durabilidad: Cromado o que posea pintura en poliéster anti-polvo, aplicada electrostáticamente, resistente a despintarse, desgastarse y corroerse por agentes químicos de limpieza.
-
-IV. Capacidad de incorporar tecnologías modernas: Que pueda actuar mecánicamente, o si es necesario que pueda adaptarse un equipo receptor, electromecánico o vía palanca electrónica con validadores, utilizando sistemas de cobranza automática como el boleto electrónico.
-
-V. Sistema antipánico: Sistema de emergencia fácilmente accionado por cualquier persona, haciendo posible que los pasajeros pasen por la pasarela libremente, en cualquiera de los dos sentidos de giro, facilitando la rápida evacuación del autobús.
-
-VI. Bloqueo: De dos tipos por palanca o por un sistema de llave.
-
-VII. Blindaje: Sistema completamente cerrado, a través de un ensamble remachado.
+(DEROGADO, P.O. 20 DE SEPTIEMBRE DE 2002)
 
 ### CAPÍTULO VI. DE LAS TARIFAS
 
@@ -1516,3 +1504,13 @@ LIC. JOSÉ LUIS COINDREAU GARCÍA
 EL C. SECRETARIO DE DESARROLLO URBANO Y OBRAS PÚBLICAS
 
 ARQ. OSCAR BULNES VALERO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE SEPTIEMBRE DE 2002.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE DEROGA EL ARTÍCULO 27 DEL REGLAMENTO DE LA LEY DE TRANSPORTE PARA EL ESTADO DE NUEVO LEÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente acuerdo entrará en vigor el 13 de octubre de 2002.
