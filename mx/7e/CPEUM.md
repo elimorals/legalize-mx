@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1948-12-02"
+last_updated: "1949-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE DICIEMBRE DE 1948.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE FEBRERO DE 1949.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -970,7 +970,11 @@ d).- Cerillos y fósforos;
 
 e).- Aguamiel y productos de su fermentación; y
 
-f).- Explotación forestal.
+f).- Explotación forestal;
+
+> <small>(ADICIONADO, D.O.F. 10 DE FEBRERO DE 1949)</small>
+
+g).- Producción y consumo de cerveza.
 
 Las entidades federativas participarán en el rendimiento de estas contribuciones especiales, en la proporción que la ley secundaria federal determine. Las legislaturas locales fijarán el porcentaje correspondiente a los Municipios, en sus ingresos por concepto del impuesto sobre energía eléctrica.
 
@@ -2193,3 +2197,7 @@ DECRETO QUE ADICIONA LA FRACCION I DEL ARTICULO 27.
 ###### ARTICULO UNICO.
 
 La presente adición a la fracción I del artículo 27 de la Constitución General de la República entrará en vigor el día siguiente al de su publicación en el "Diario Oficial".
+
+D.O.F. 10 DE FEBRERO DE 1949.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
