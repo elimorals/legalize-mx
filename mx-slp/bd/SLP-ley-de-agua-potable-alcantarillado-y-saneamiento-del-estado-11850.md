@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-agua-potable-alcantarillado-y-saneamiento-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-25"
-last_updated: "1996-01-25"
+last_updated: "1997-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 1997.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el jueves 25 de enero de 1996.
 
@@ -325,7 +325,9 @@ Cada dos años se renovará la mitad de los miembros del consejo, en la forma qu
 
 Se podrán invitar a participar en las asambleas del Consejo de Administración a representantes de las dependencias federales, estatales y municipales, cuando se trate algún asunto que por su competencia o jurisdicción deban de participar, así como a representantes de los usuarios.
 
-El Director General y el Comisario serán designados por el Consejo de Administración a propuesta de la terna que para cada caso presente el ayuntamiento correspondiente, durarán en su cargo dos años y podrán ser ratificados en el mismo a juicio del Consejo de Administración hasta por un período igual; estos cargos son remuneratorios.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1997)</small>
+
+El Director General y el Comisario serán designados por el Consejo de Administración a propuesta de la terna que para cada caso presente el ayuntamiento correspondiente, durarán en su cargo dos años y podrán ser ratificados en el mismo a juicio del Consejo de Administración por períodos iguales; estos cargos son remuneratorios.
 
 #### SECCION TERCERA. ATRIBUCIONES Y FUNCIONES DE LOS ORGANISMOS
 
@@ -391,7 +393,9 @@ II.- Resolver sobre los asuntos que en materia de agua potable, alcantarillado, 
 
 III.- Administrar el patrimonio del organismo operador y cuidar de su adecuado manejo;
 
-IV.- Someter a la consideración del Congreso del Estado para su resolución final, las cuotas o tarifas que se aplicarán para los cobros de los servicios de agua potable, alcantarillado y saneamiento en las localidades atendidas por el organismo;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 1997)</small>
+
+IV.- Autorizar las tarifas o cuotas que se aplicarán para los cobros de los servicios de agua potable, alcantarillado y saneamiento en las localidades atendidas por el organismo operador;
 
 V.- Autorizar el programa y presupuesto anual de ingresos y egresos del organismo operador, conforme a la propuesta formulada por el Director General;
 
@@ -579,7 +583,9 @@ Cada dos años se renovará la mitad en la forma que para el efecto establezca e
 
 Se podrán invitar a participar en las asambleas del Consejo de Administración a representantes de las dependencias federales o estatales, cuando se trate algún asunto en el que por su competencia o jurisdicción deban de participar, así como a representantes de usuarios.
 
-El Director General y el Comisario serán designados por el Consejo de Administración a propuesta de la terna que para cada caso presente la Comisión Estatal de Agua Potable, Alcantarillado y Saneamiento; durarán en su cargo dos años y podrán ser ratificados en el mismo a juicio del Consejo de Administración hasta por un período igual; estos cargos son remuneratorios.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1997)</small>
+
+El Director General y el Comisario serán designados por el Consejo de Administración a propuesta de la terna que para cada caso presente la Comisión Estatal de Agua Potable, Alcantarillado y Saneamiento; durarán en su cargo dos años y podrán ser ratificados en el mismo a juicio del Consejo de Administración por periodos iguales; estos cargos son remuneratorios.
 
 ### CAPITULO III. COMISION ESTATAL DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO
 
@@ -1057,9 +1063,23 @@ Cuando la escasez sea originada por negligencia o falta de previsión del organi
 
 ### CAPITULO III. CUOTAS Y TARIFAS
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 94.
 
-El Consejo de Administración de los Organismos Operadores o de la Comisión Estatal de Agua Potable, Alcantarillado y Saneamiento, someterán a la consideración del Congreso del Estado para su aprobación final las cuotas o tarifas de cada uno de los sistemas de agua potable, alcantarillado y saneamiento a su cargo.
+En los servicios proporcionados por organismos operadores paramunicipales o intermunicipales, o por conducto de la Comisión Estatal de Agua Potable, Alcantarillado y Saneamiento, por sí mismos o por terceros, las cuotas y tarifas serán determinadas y aprobadas por sus respectivos Consejos de Administración, procurando siempre una equitativa distribución de los gastos y una eficiente administración del sistema. Para el establecimiento de las cuotas y tarifas los Consejos de Administración deberán observar las siguientes disposiciones:
+
+I.- La determinación de las cuotas y tarifas se fundamentará siempre en los estudios que al respecto realice la Dirección General del organismo operador. Estos estudios tendrán como propósito analizar los elementos de juicio que permitan al Consejo de Administración fundamentar su decisión sobre las cuotas y tarifas, con la intención de procurar sobre todo una eficiente administración del organismo operador y una justa distribución de los gastos financieros del organismo entre todos los usuarios del sistema. Dichos estudios deberán observar lo dispuesto en el Artículo 95 de esta ley;
+
+II.- Tratándose de viviendas de tipo popular y comercios que consuman hasta 10 metros cúbicos mensuales, la tarifa integral de agua potable, alcantarillado y saneamiento no será superior a un día de salario mínimo oficial vigente en la zona;
+
+III.- Los incrementos en las cuotas y tarifas para un período determinado no serán superiores al respectivo incremento en el Indice Nacional de Precios al Consumidor para el período de que se trate, salvo en los casos en que a juicio del Consejo de Administración exista una plena justificación; y
+
+IV.- Cuando los organismos operadores no hayan alcanzado niveles satisfactorios de recaudación conforme a los informes que presenten a la Contaduría Mayor de Hacienda del Congreso del Estado, los consejos de administración antes de autorizar incrementos en las cuotas y tarifas, establecerán políticas y criterios administrativos que permitan aumentar los niveles de recaudación, eficiencia y eficacia administrativa. El Congreso del Estado con la opinión de la Comisión Estatal de Agua Potable, Alcantarillado y Saneamiento, establecerá y divulgará los criterios bajo los cuales se calificarán los niveles de recaudación, eficiencia y eficacia administrativa.
+
+Las cuotas y tarifas que aprueben los consejos de administración de los organismos operadores descentralizados o la Comisión Estatal de Agua Potable, Alcantarillado y Saneamiento, serán publicadas en el Periódico Oficial del Estado y divulgadas entre los usuarios respectivos.
+
+El Congreso del Estado, en caso de incumplimiento a las disposiciones señaladas en el presente artículo aplicará los correctivos o sanciones que procedan, conforme a las disposiciones legales aplicables en materia de responsabilidades de los servidores públicos.
 
 ###### ARTICULO 95.
 
@@ -1464,3 +1484,11 @@ LIC. HORACIO SANCHEZ UNZUETA.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 JUAN JOSE RODRIGUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE MAYO DE 1997.
+
+PRIMERO.- Las disposiciones contenidas en el presente decreto, entrarán en vigor el primero de enero de mil novecientos noventa y ocho.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
