@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1997-02-01"
+last_updated: "1997-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE JUNIO DE 1997.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -509,9 +509,13 @@ De estos impedimentos sólo son dispensables la falta de edad y el parentesco de
 
 Las dispensas serán otorgadas por el Gobierno del Estado.
 
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+
 ARTICULO 93
 
-El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, en tanto que dure el lazo jurídico resultante de la adopción.
+Bajo el régimen de adopción simple el adoptante no puede contraer matrimonio con el adoptado o sus descendientes, en tanto que dure el lazo resultante de la adopción.
+
+En la adopción plena, el adoptante no puede contraer matrimonio con el adoptado o sus descendientes y este impedimento se extiende sin limitación de grado en línea recta ascendente y descendente. En la línea colateral, igual se extiende hasta el tercer grado, salvo dispensa.
 
 ARTICULO 94
 
@@ -1271,6 +1275,10 @@ ARTICULO 226
 
 El parentesco civil es el que nace de la adopción y sólo existe entre el adoptante y el adoptado.
 
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 1997)</small>
+
+En el caso de la adopción plena el parentesco existe entre el adoptado y el adoptante y los familiares consanguíneos de éste. También existirá parentesco civil con los descendientes del adoptado.
+
 ARTICULO 227
 
 Cada generación forma un grado, y la serie de grados constituye lo que se llama línea de parentesco.
@@ -1323,9 +1331,11 @@ ARTICULO 237
 
 Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores, mientras éstos llegan a la edad de dieciocho años. También deben alimentar a sus parientes dentro del grado mencionado, que fueren incapaces.
 
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+
 ARTICULO 238
 
-El adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen el padre y los hijos.
+En la adopción simple el adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen los padres y los hijos. Tratándose de adopción plena se estará a lo dispuesto en los artículos 232, 234, 235 y 236 de este Código.
 
 ARTICULO 239
 
@@ -1771,31 +1781,51 @@ III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
 ### CAPITULO V. De la adopción
 
-> <small>(REFORMADO, G.O. 23 DE SEPTIEMBRE DE 1980)</small>
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
 
 ARTICULO 320
 
-Los mayores de edad, en pleno ejercicio de sus derechos, pueden adoptar a uno o más menores o incapacitados, aun cuando éstos sean mayores de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que la adopción sea benéfica a éste.
+Los mayores de veinticinco años, en pleno ejercicio de sus derechos, casados o libres de matrimonio, pueden adoptar a uno o más menores o a un incapacitado aun cuando éste sea mayor de edad, siempre que el adoptante tenga diecisiete años de edad más que el adoptado y que acredite además:
+
+I.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado como si fuera hijo propio, según a las circunstancias de la persona que trata de adoptar;
+
+II.- Que la adopción es benéfica para la persona que trata de adoptar;
+
+III.- Que el adoptante es persona de buenas costumbres, y
+
+IV.- La buena salud del adoptante.
 
 ARTICULO 321
 
 El marido y la mujer podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo.
 
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+
 ARTICULO 322
 
-Nadie puede ser adoptado por más de una persona, salvo en el caso previsto en el artículo anterior.
+Nadie puede ser adoptado por más de una persona salvo en el caso previsto en el artículo anterior.
+
+Cuando circunstancias especiales lo aconsejen, el Juez puede autorizar la adopción de dos o más menores o incapacitados simultáneamente.
+
+En todos los casos será prioritario atender al interés superior del menor o incapacitado que se pretenda adoptar.
 
 ARTICULO 323
 
 El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de tutela.
 
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+
 ARTICULO 324
 
-El menor o el incapacitado que hayan sido adoptados, podrán impugnar la adopción dentro del año siguiente a la mayor edad o a la fecha en que haya desaparecido la incapacidad.
+El menor o el incapacitado que hayan sido adoptados bajo la forma de adopción simple, podrán impugnar la adopción dentro del año siguiente a la mayoría de edad o a la fecha en que haya desaparecido la incapacidad.
+
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
 
 ARTICULO 325
 
-El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
+El que adopta bajo el régimen de adopción simple tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
+
+El adoptante deberá darle nombre y apellidos al adoptado, según la conveniencia de cada caso, haciéndose las anotaciones correspondientes en el acta de adopción.
 
 ARTICULO 326
 
@@ -1811,9 +1841,15 @@ II.- El tutor del que se va a adoptar;
 
 III.- Las personas que hayan acogido al que se pretende adoptar y lo tratan como a hijo cuando no hubiere quien ejerza la patria potestad sobre él ni tenga tutor;
 
-IV.- El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos, ni tutor, ni persona que ostensiblemente le imparta su protección y lo haya acogido como hijo.
+IV.- El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos, ni tutor, ni persona que ostensiblemente le imparta su protección y lo haya acogido como hijo;
 
-Si el menor que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción.
+> <small>(ADICIONADA, G.O. 12 DE JUNIO DE 1997)</small>
+
+V.- Las instituciones de asistencia social pública o privadas que hubieren acogido al menor o al incapacitado que se pretende adoptar.
+
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+
+Si el menor o el incapacitado que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción. En el caso de las personas con incapacidad será necesario su consentimiento simple y cuando fuese posible la expresión indubitable de su voluntad.
 
 ARTICULO 328
 
@@ -1831,25 +1867,39 @@ ARTICULO 331
 
 El juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
 
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+
 ARTICULO 332
 
-Los derechos y obligaciones que nacen de la adopción, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio, respecto de los cuales se observará lo que dispone el artículo 92.
+Los derechos y obligaciones que nacen de la adopción simple, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos del matrimonio, respecto de los cuales se observará lo que dispone el artículo 92 de este Código.
+
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
 
 ARTICULO 333
 
-Los derechos y obligaciones que resulten del parentesco de consanguinidad, no se extinguen por la adopción, excepto la patria potestad que será transferida al padre adoptivo.
+Los derechos y obligaciones que resulten del parentesco de consanguinidad no se extinguen por la adopción simple excepto la patria potestad, que será transferida al adoptante, salvo que en su caso esté casado con alguno de los progenitores de adoptado, porque entonces se ejercerá por ambos cónyuges.
+
+En la adopción plena los parientes naturales ascendientes y colaterales del adoptado no conservarán ningún derecho sobre el mismo, quedando éste exento de deberes para con ellos y cancelada toda relación jurídica entre aquellos y éste.
+
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
 
 ARTICULO 334
 
-La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
+La adopción simple podrá convertirse en Plena siempre que se cumplan los requisitos aplicables a esta última, debiendo obtenerse el consentimiento del adoptado a que se refiere la fracción V del artículo 327.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 12 DE JUNIO DE 1997)</small>
 
 ARTICULO 335
 
-La adopción puede revocarse:
+La adopción simple puede revocarse:
 
 I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento, conforme al artículo 327;
 
-II.- Por ingratitud del adoptado.
+II.- Por ingratitud del adoptado;
+
+> <small>(ADICIONADA, G.O. 12 DE JUNIO DE 1997)</small>
+
+III.- Por sentencia del Juez, a solicitud del Sistema Estatal para el Desarrollo Integral de la Familia cuando considere que existe causa grave y justificada que ponga en peligro al menor y aporte los elementos justificativos de su petición, mediante el Ministerio Público.
 
 ARTICULO 336
 
@@ -1865,17 +1915,67 @@ III.- Si el adoptado rehusa dar alimentos al adoptante que ha caído en pobreza.
 
 ARTICULO 337
 
-En el primer caso del artículo 335, el juez decretará que la adopción queda revocada si convencido de la espontaneidad con que se solicitó la revocación, encuentra que ésta es conveniente para los intereses morales y materiales del adoptado.
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
 
-El decreto del juez deja sin efectos la adopción y restituye las cosas del estado que guardaban antes de efectuarse ésta.
+ARTICULO 337
+
+El Decreto del juez deja sin efecto la adopción simple y restituye las cosas al estado que guardaban antes de efectuarse ésta.
+
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
 
 ARTICULO 338
 
-En el segundo caso del artículo 335, la adopción deja de producir efectos desde que se comete el acto de ingratitud, aunque la resolución judicial que declare revocada la adopción sea posterior.
+En el segundo caso del artículo 335, la adopción simple deja de producir efectos desde que se comete el acto de ingratitud, aunque la resolución judicial que declare revocada la adopción sea posterior.
+
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
 
 ARTICULO 339
 
-Las resoluciones que dicten los jueces, aprobando la revocación, se comunicarán al Encargado del Registro Civil del lugar en que aquélla se hizo para que cancele el acta de adopción.
+Las resoluciones que dicten los jueces aprobando la revocación de la adopción simple se comunicarán al Oficial del Registro Civil del lugar correspondiente para que cancele el acta de adopción.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 1997)</small>
+
+ARTICULO 339 A
+
+El adoptado bajo la forma de adopción plena adquirirá la misma condición que un hijo consanguíneo con respecto al adoptante o adoptantes y a la familia de éstos, sustituyendo los vínculos que tuvo en su familia de origen, salvo en los impedimentos de matrimonio. El adoptado tiene en la familia del o los adoptantes los mismos derechos, deberes y obligaciones del hijo consanguíneo y debe llevar los apellidos del adoptante o adoptantes.
+
+En el caso de adopción plena se requiere que los ascendientes del o los adoptantes otorguen su consentimiento ante el Juez competente.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 1997)</small>
+
+ARTICULO 339 B
+
+Tratándose de la adopción plena el Registro Civil se abstendrá de proporcionar información sobre los antecedentes de la familia de origen del adoptado, excepto en los siguientes casos y contando con autorización judicial:
+
+I.- Cuando deba determinarse si existe impedimento legal para contraer matrimonio;
+
+II.- Cuando el adoptado desee conocer sus antecedentes familiares, siempre que sea mayor de edad; si fuera menor de edad se requerirá necesariamente el consentimiento del o los adoptantes; y
+
+III.- En los demás casos previstos por las leyes.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 1997)</small>
+
+ARTICULO 339 C
+
+La adopción plena es irrevocable.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 1997)</small>
+
+ARTICULO 339 D
+
+Puede ser adoptado de manera plena el expósito, el abandonado por más de seis meses, el entregado por el padre o la madre a una institución de asistencia social pública o privada y los hijos del cónyuge.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 1997)</small>
+
+ARTICULO 339 E
+
+No pueden adoptar mediante adopción plena las personas que tengan vínculo de parentesco consanguíneo con el menor o incapacitado.
+
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 1997)</small>
+
+ARTICULO 339 F
+
+Las adopciones internacionales promovidas por ciudadanos de Estados que forman parte de la Convención sobre Protección de Menores y la Cooperación en Materia de Adopción Internacional, se regirán por lo dispuesto en el Capítulo VI del Título Séptimo del Código Civil para el Distrito Federal en materia común y para toda la República en materia federal.
 
 ### CAPITULO I. De los efectos de la patria potestad respecto de la persona de los hijos
 
@@ -1911,9 +2011,15 @@ ARTICULO 345
 
 En los casos previstos en los artículos 305 y 306, cuando por cualquiera circunstancia deja de ejercer la patria potestad alguno de los padres, entrará a ejercerla el otro.
 
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+
 ARTICULO 346
 
-Cuando los padres del hijo nacido fuera de matrimonio que vivían juntos se separen, continuará ejerciendo la patria potestad, en caso de que no se pongan de acuerdo sobre ese punto, el progenitor que designe el juez, teniendo siempre en cuenta los intereses del hijo.
+En caso de separación o divorcio de los padres o abuelos continuarán ejerciendo ambos la patria potestad; la custodia será decidida por convenio o por el Juez atento a lo dispuesto en el artículo 157, teniendo siempre en cuenta los intereses del hijo. Al progenitor o cónyuge abandonado le corresponderá la custodia de los hijos que haya conservado consigo.
+
+El progenitor que no tenga la custodia tendrá el derecho y la obligación de visitar y convivir con el menor, cuando menos una vez por semana.
+
+El derecho de visita y convivencia podrá suspenderse o perderse por sentencia, en los casos en que el menor sea sustraído o retenido sin autorización de quien tenga la custodia legal.
 
 > <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
 
@@ -1921,9 +2027,13 @@ ARTICULO 347
 
 A falta de padres, ejercerán la patria potestad sobre el hijo los demás ascendientes a que se refiere la fracción II del artículo 343, en el orden que determine el Juez de lo Civil, tomando en cuenta las circunstancias del caso.
 
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+
 ARTICULO 348
 
-La patria potestad sobre el hijo adoptivo, la ejercerán únicamente las personas que lo adopten.
+En la adopción simple la patria potestad sobre el hijo adoptivo la ejercerán únicamente las personas que lo adopten.
+
+En la adopción plena la patria potestad se ejercerá en los términos del artículo 343.
 
 > <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
 
@@ -2057,7 +2167,9 @@ ARTICULO 371
 
 Las personas que ejerzan la patria potestad, deben entregar a sus hijos, luego que éstos se emancipen o lleguen a la mayor edad, todos los bienes y frutos que les pertenecen.
 
-### CAPITULO III. De los modos de acabarse y suspenderse la patria potestad
+> <small>(REFORMADA SU DENOMINACION, G.O. 12 DE JUNIO DE 1997)</small>
+
+### CAPITULO III. De los modos de acabarse y perderse la patria potestad
 
 ARTICULO 372
 
@@ -2079,9 +2191,17 @@ II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 15
 
 III.- Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la ley penal;
 
-> <small>(REFORMADA, G.O. 1 DE ENERO DE 1976)</small>
+> <small>(ADICIONADO, G.O. 12 DE JUNIO DE 1997)</small>
 
-IV.- Por la exposición que los padres hicieren de sus hijos, o porque los dejen abandonados por más de seis meses.
+Asimismo, cuando tolere que otras personas atenten o pongan en riesgo la integridad física o moral de los menores;
+
+> <small>(REFORMADA, G.O. 12 DE JUNIO DE 1997)</small>
+
+IV.- Por la exposición que el padre, la madre o ambos hicieren de sus hijos, o porque los dejen abandonados por más de seis meses. En los casos de adopción, tomando en cuenta el interés superior del menor, acreditada su situación de abandonado, el juez resolverá previamente la pérdida de la patria potestad; y
+
+> <small>(ADICIONADA, G.O. 12 DE JUNIO DE 1997)</small>
+
+V.- Por la entrega que el padre o la madre o quien ejerce la patria potestad hiciere del menor a una institución de asistencia social pública o privada con la finalidad de que sea dado en adopción.
 
 > <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
 
@@ -2325,13 +2445,23 @@ El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será
 
 De la tutela legítima de los menores abandonados y de los acogidos por alguna persona, o depositados en establecimientos de beneficencia.
 
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+
 ARTICULO 421
 
-La ley coloca a los expósitos bajo la tutela de la persona que los haya acogido, quien tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores.
+La ley coloca a los expósitos bajo la tutela de la persona que los haya acogido, quien tendrá las obligaciones, derechos y restricciones establecidas para los demás tutores.
+
+Se considerará expósito al recién nacido cuyo origen se desconoce y se coloca en situación de desamparo en un hospital, casa particular o algún paraje público o privado por quienes conforme a la ley están obligados a protegerlo.
+
+Se reputará abandonado al menor cuyo origen se conoce y respecto de quien, los que ejercen la patria potestad o tutela, dejaron de cumplir sus deberes de manera irresponsable, aceptando la posibilidad de que alguna persona o institución se haga cargo del mismo.
+
+El menor expósito o abandonado podrá ser adoptado por la persona que lo haya acogido; en el caso de abandono, deberán transcurrir seis meses por lo menos.
+
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
 
 ARTICULO 422
 
-Los directores de las inclusas, hospicios y demás casas de beneficencia donde se reciben expósitos, desempeñarán la tutela de éstos, con arreglo a las leyes y a lo que prevengan los estatutos del establecimiento.
+Los directores de las instituciones de abandonados o menores, al promoverse la adopción, desempeñarán la tutela legítima de éstos con arreglo a las leyes.
 
 ARTICULO 423
 
@@ -3539,11 +3669,11 @@ Los volúmenes deberán usarse por orden riguroso de la numeración de actas, ye
 
 Toda acta deberá asentarse en los dos ejemplares del Registro.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
 
 ARTICULO 657
 
-Para asentar las actas del Registro Civil en el Estado, habrán las siguientes formas: nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, defunción e inscripción de las sentencias ejecutorias que declaren la ausencia, la presunción de muerte, la tutela, la incapacidad, la emancipación y habilitación de edad y las que signifiquen cambio, retención o modificación de nombre de personas físicas.
+Para asentar las actas del Registro Civil en el Estado, habrán las siguientes formas: nacimiento, reconocimiento de hijos, adopción simple, matrimonio, divorcio, defunción e inscripción de las sentencias ejecutorias que declaren la ausencia, la presunción de muerte, la tutela, la incapacidad, la emancipación y habilitación de edad y las que signifiquen cambio, retención o modificación de nombre de personas físicas.
 
 Las Oficialías llevarán un índice para cada una de estas formas.
 
@@ -3843,27 +3973,37 @@ Si el reconocimiento se hiciere en oficina distinta de aquélla en que se levant
 
 ### CAPITULO IV. De las actas de adopción
 
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+
 ARTICULO 710
 
-Dictada la resolución judicial definitiva que autorice la adopción, el adoptante, dentro del término de ocho días, presentará al Oficial del Registro Civil copia certificada de las diligencias relativas, a fin de que se levante el acta correspondiente.
+Dictada la resolución judicial definitiva que autorice la adopción simple o la adopción plena, el Juez, dentro del término de ocho días remitirá copia certificada de las diligencias al Oficial del Registro Civil que corresponda, a fin de que con la comparecencia del adoptante se levante el acta correspondiente.
 
 ARTICULO 711
 
 La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el artículo 707.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
 
 ARTICULO 712
 
-El acta de adopción contendrá el nombre, fecha y lugar de nacimiento, edad y domicilio del adoptado, así como los nombres, domicilios, estado civil, nacionalidad y edad del o los adoptantes. En el acta se insertará la parte relativa de la resolución judicial, fecha de ésta y Tribunal que la dictó.
+El acta de adopción simple contendrá los nombres, apellidos, edad y domicilio del adoptante y del adoptado; el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción, y los nombres, apellidos y domicilios de las personas que intervengan como testigos. En el acta se insertarán los datos esenciales de la resolución judicial.
+
+En los casos de adopción plena se levantará el acta de nacimiento en los mismos términos de la que se expide para los hijos consanguíneos.
+
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
 
 ARTICULO 713
 
-Extendida el acta de la adopción, se anotará la de nacimiento del adoptado, y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
+Extendida el acta de la adopción simple, se anotará la de nacimiento del adoptado y se archivará la copia de las diligencias relativas, poniéndole el mismo número de acta de adopción.
+
+En el caso de adopción plena, a partir del levantamiento del acta no se publicará ni se expedirá constancia alguna que revele el origen del adoptado ni su condición de tal, salvo providencia dictada en juicio, haciéndose las anotaciones en el acta de nacimiento cuyo original queda reservado para los efectos del artículo 93.
+
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
 
 ARTICULO 714
 
-El juez o tribunal que resuelva que una adopción queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Oficial del Registro Civil, para que cancele el acta de adopción y anote la de nacimiento.
+El Juez o Tribunal que resuelva que una adopción simple queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Oficial del Registro Civil para que cancele el acta de adopción y anote la de nacimiento.
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -3929,11 +4069,11 @@ ARTICULO 723
 
 La omisión del registro de tutela, emancipación o la habilitación de edad, no quita a éstas sus efectos legales, pero sujeta al responsable a la pena señalada en el artículo 707.
 
-> <small>(REFORMADO Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
 
 ARTICULO 724
 
-Cuando se recobre la capacidad legal para administrar, se revoque la tutela, se presente la persona declarada ausente o cuya muerte se presumió, se dará aviso al Oficial del Registro Civil por la autoridad que corresponda en el término de ocho días, para que proceda conforme el artículo 676.
+Cuando se recobre la capacidad legal para administrar, se revoquen la tutela o la adopción simple o se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por el mismo interesado y por la autoridad que corresponda, para que cancele la inscripción que se hubiera hecho respecto a los actos jurídicos susodichos.
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, G.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -8049,13 +8189,19 @@ ARTICULO 1544
 
 Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos, que en ningún caso pueden exceder de la porción de uno de los hijos.
 
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+
 ARTICULO 1545
 
-El adoptado hereda como un hijo; pero no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+El adoptado hereda como hijo pero en la adopción simple no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+
+En caso de adopción plena el adoptado y los parientes del adoptante tendrán el tratamiento que corresponde a parientes consanguíneos.
+
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
 
 ARTICULO 1546
 
-Concurriendo padres adoptantes y descendientes del adoptado, los primeros sólo tendrán derecho a alimentos.
+Concurriendo padres adoptantes y descendientes del adoptado en forma simple, los primeros sólo tendrán derecho a alimentos.
 
 ARTICULO 1547
 
@@ -8085,9 +8231,13 @@ ARTICULO 1552
 
 Los miembros de cada línea dividirán entre sí por partes iguales la porción que les corresponda.
 
+> <small>(REFORMADO, G.O. 12 DE JUNIO DE 1997)</small>
+
 ARTICULO 1553
 
-Concurriendo los adoptantes con ascendientes del adoptado, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes.
+Concurriendo los adoptantes con ascendientes del adoptado en forma simple, la herencia de éste se dividirá por partes iguales entre los adoptantes y ascendientes.
+
+En los casos de adopción plena, los parientes consanguíneos del adoptado no tendrán derecho a la sucesión legítima.
 
 ARTICULO 1554
 
@@ -15654,3 +15804,9 @@ G.O. 1 DE FEBRERO DE 1997.
 PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente ley.
+
+G.O. 12 DE JUNIO DE 1997.
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
+
+SEGUNDO. Las adopciones que se hallen en trámite a la fecha de la publicación de las presentes reformas, adiciones y modificaciones, se seguirán tramitando de acuerdo a las disposiciones vigentes, hasta antes de la publicación de estas reformas; pero si en aquellas adopciones, hubiere la voluntad del adoptante de darle a la adopción el carácter de plena deberá seguirse con este procedimiento de acuerdo con las disposiciones legales contenidas en esta ley.
