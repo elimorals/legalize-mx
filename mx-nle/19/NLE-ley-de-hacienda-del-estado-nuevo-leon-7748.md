@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1979-12-28"
+last_updated: "1980-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1980.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -201,9 +201,9 @@ c) Los predios que perteneciendo a particulares, estén destinado (sic) a un ser
 
 d) Los predios ejidales;
 
-> <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P. O. 29 DE DICIEMBRE DE 1980)</small>
 
-e) Los predios cuyo valor real determinado por la Oficina Técnica Catastral no excedan de $450.000.00 y que pertenezcan:
+e) Los predios cuyo valor real determinado por la Oficina Técnica Catastral no excedan de $675.000.00 y que pertenezcan:
 
 > <small>(REFORMADO, P. O. 28 DE DICIEMBRE DE 1979)</small>
 
@@ -2157,13 +2157,7 @@ Por la expedición de licencia para la portación de armas de fuego y su refrend
 
 ###### ARTICULO 275.
 
-Por la expedición de Pasaportes:
-
-a) Cuando sean provisionales ............ $150.00
-
-b) Por la revisión de la documentación y la tramitación de pasaportes ordinarios ............ $300.00
-
-c) Pasaportes en grupo, no familiar, por persona ............ $150.00
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 1980)
 
 ### CAPITULO DECIMO SEXTO. Impuesto Sobre Traslado de Dominio
 
@@ -2193,7 +2187,7 @@ III.- Por la expedición de constancias y certificados que extiendan las Depende
 
 IV.- Por registro de contratos de arrendamiento de bienes inmuebles para casa-habitación, cada uno $50.00
 
-V.- Por inspección y vigilancia a industrias que gocen de franquicias fiscales, de conformidad con la Ley de Fomento Industrial y Desarrollo Económico y acuerdos que les sean relativos 5%
+V.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1980)
 
 VI.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 1979)
 
@@ -2532,3 +2526,13 @@ Este Decreto entrará en vigor el día 1o. de Enero de 1980.
 ###### ARTICULO SEGUNDO.
 
 Se derogan las Leyes, Resoluciones y Disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 1980.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el día 1o. de Enero de 1981.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las leyes, Resoluciones y Disposiciones que se opongan al presente Decreto.
