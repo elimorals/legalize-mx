@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-del-estado-de-jalisco-17570"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-23"
-last_updated: "2000-12-21"
+last_updated: "2003-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MAYO DE 2003.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 23 de septiembre de 2000.
 
@@ -715,6 +715,8 @@ V. Abstenerse de vender boletos en tanto no estén resellados por las autoridade
 
 ### CAPITULO UNICO. De los derechos
 
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2003)</small>
+
 ### CAPITULO UNICO. De los productos diversos
 
 ## TITULO TERCERO. Derechos
@@ -723,7 +725,7 @@ V. Abstenerse de vender boletos en tanto no estén resellados por las autoridade
 
 ###### Artículo 68.
 
-Los derechos por la prestación de servicios públicos que presten las diversas dependencias del Gobierno del Estado, se generarán en el momento en que el particular reciba la prestación del servicio o en el momento en que se provoque, por parte del Estado, el gasto que deba ser remunerado por aquél, salvo el caso en que las leyes fiscales estatales señalen cosa distinta.
+Los derechos por la prestación de servicios públicos a cargo de las diversas dependencias del Gobierno del Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en le (sic) momento en que se provoque el gasto que deba ser remunerado por el particular, salvo en el caso que las leyes estatales aplicables en la materia señalen cosa distinta.
 
 > <small>(F. DE E., P.O. 16 DE DICIEMBRE DE 2000)</small>
 
@@ -745,7 +747,9 @@ III. Los derechos que deban causar todos los documentos que tengan que registrar
 
 IV. El pago de los derechos por los servicios prestados por la Secretaría General de Gobierno que señale la Ley de Ingresos del Estado, se efectuará en la oficina central de recaudación fiscal de la Secretaría de Finanzas del Estado, previamente a la prestación de los servicios que los originen; también podrá pagarse este derecho en cualquiera otra que mediante acuerdo general expida el Secretario de Finanzas;
 
-V. El pago de los derechos por los servicios que preste el Departamento de Tránsito que establezca la Ley de Ingresos del Estado, se efectuará en la oficina de recaudación fiscal del lugar donde se reciba la prestación cuando ésta se realice, o en aquellas que para el efecto autorice la Secretaría de Finanzas del Estado;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2003)</small>
+
+V. El pago de los derechos por los servicios que preste la Secretaría de Vialidad y Transporte que establezca la Ley de Ingresos del Estado, se efectuará en la oficina de recaudación fiscal del lugar donde se reciba la prestación cuando ésta se realice, o en aquellas que para el efecto autorice la Secretaría de Finanzas del Estado;
 
 VI. El pago de los derechos por los servicios de inspección y vigilancia que señale la Ley de Ingresos del Estado, se efectuará en la oficina de recaudación fiscal que corresponda al domicilio del contribuyente o en la que autorice la Secretaría de Finanzas conforme a lo siguiente:
 
@@ -753,13 +757,21 @@ a) Las que deben hacerse mensualmente, dentro de la primera quincena del mes a q
 
 b) Los restantes, dentro de los quince días siguientes al momento de que se realice el hecho que los genere.
 
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2003)</small>
+
 VII. El pago de derechos por revisión semestral de vehículos automotores de servicio público a que se refiere la Ley de Ingresos del Estado, se hará ante la oficina de recaudación fiscal más cercana a la unidad administrativa que preste el servicio de inspección y vigilancia. Dicho entero se efectuará a más tardar el día quince de los meses de enero y julio.
 
-Los derechos por inspección de vehículos establecidos en las leyes de ingresos de los municipios, cuando éstos convengan la prestación del servicio con el Estado, serán cobrados por éste, el cual deberá participar a los municipios del cobro de este derecho estatal, en una cantidad no inferior a los montos que sus respectivas leyes de ingresos les autorizan, y
+Los derechos por inspección de vehículos establecidos en las leyes de ingresos de los municipios, cuando éstos convengan la prestación del servicio con el Estado, serán cobrados por éste, el cual deberá participar a los municipios del cobro de este derechos (sic) estatal, en una cantidad no inferior a los montos que sus respectivas leyes de ingresos les autorizan;
+
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2003)</small>
 
 VIII. El pago de los derechos que establezca la Ley de Ingresos del Estado, se hará en la oficina de recaudación fiscal más cercana a la dependencia que origine el derecho; con excepción de los que se refieran a certificaciones de escritura, documentos privados de carácter contractual o no contractual; copias certificadas o constancias de educación y otros servicios, referidos en dicha Ley de Ingresos del Estado, cuyo pago deberá efectuarse en la oficina de recaudación fiscal, adjunta al Registro Público de la Propiedad de la ciudad de Guadalajara.
 
-En el caso del pago por incorporación de establecimientos de enseñanza privada y por inspección de las mismas, deberá hacerse dentro de los tres meses siguientes a la fecha de iniciación del calendario escolar, ante la oficina central de recaudación fiscal.
+En el caso del pago por incorporación de establecimientos de enseñanza privada y por inspección de las mismas, deberá hacerse dentro de los tres meses siguientes a la fecha de iniciación del calendario escolar, ante la oficina central de recaudación fiscal, y
+
+> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2003)</small>
+
+IX. El pago de los derechos derivados de la expedición de información que se obtenga en base a la Ley de Transparencia e Información Pública del Estado de Jalisco, de conformidad al costo del servicio prestado, según lo establezca la Ley de Ingresos del Estado.
 
 ###### Artículo 71.
 
@@ -908,3 +920,7 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- Se abrogan las disposiciones legales y administrativas que contravengan o se opongan a este ordenamiento.
+
+P.O. 1 DE MAYO DE 2003.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
