@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-colegio-de-estudios-cientificos-y-tecnologicos-del-1236
 country: "mx"
 rank: "ley"
 publication_date: "1997-06-21"
-last_updated: "1997-06-21"
+last_updated: "2001-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 21 de junio de 1997.
 
@@ -103,19 +103,21 @@ V. Las donaciones, herencias y legados que se hagan a su favor; y
 
 VI. Todos los demás bienes que adquiera por cualquier otro medio legal.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
+
 ###### Art. 5º.
 
-El órgano de Gobierno del Colegio será la Junta Directiva, la que estará integrada por:
+El Organo de Gobierno del Colegio será la Junta Directiva la que estará integrada por:
 
-I. El Director General del Colegio, quien lo Presidirá;
+I. Dos representantes de "EL GOBIERNO DEL ESTADO", designados por el Ejecutivo Estatal, uno de los cuales lo presidirá;
 
-II. Dos representantes del Titular del Ejecutivo del Estado;
+II. Dos representantes del Gobierno Federal, designados por el Secretario de Educación Pública;
 
-III. Dos representantes del Gobierno Federal que serán designados por el Secretario de Educación Pública;
+III. Un representante del Sector Social designado por la Junta Directiva a propuesta de "EL GOBIERNO DEL ESTADO";
 
-IV. Un representante del Sector Social que será designado por el Gobierno del Estado; y
+IV. Dos representantes del Sector Productivo, que participen en el financiamiento del "CECYTE" mediante un patronato constituido para apoyar la operación del mismo. Estos representantes serán designados por el propio patronato de conformidad con sus estatutos.
 
-V. Dos representantes del Sector Productivo que participen en el financiamiento del colegio mediante un patronato.
+En todas las sesiones de la Junta se requerirá la presencia del Director General del Colegio, quien asistirá con voz pero sin voto. Asimismo, todos los cargos tendrán carácter de honoríficos y por lo tanto no remunerados.
 
 ###### Art. 6º.
 
@@ -270,3 +272,9 @@ Ing. Alberto Cárdenas Jiménez
 El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+
+P.O. 13 DE MARZO DE 2001.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
