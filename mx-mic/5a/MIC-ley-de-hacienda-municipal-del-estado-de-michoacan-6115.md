@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-6115"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1983-12-31"
+last_updated: "1984-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 1984.
 
 Ley publicada en Sección Segunda del Periódico Oficial del Estado de Michoacán, el sábado 31 de diciembre de 1983.
 
@@ -335,15 +335,19 @@ Las infracciones al presente Capítulo serán sancionadas de conformidad con lo 
 
 #### Sección Primera. Del Objeto
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
+
 ###### ARTICULO 38.
 
-Es objeto de este impuesto todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades.
+Es objeto de este impuesto todo acto por el que se transmite la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal.
 
 ###### ARTICULO 39.
 
 El impuesto sobre Transmisión de dominio de bienes inmuebles se causa por:
 
-I.- La compraventa en la que el vendedor se reserva el dominio, aún cuando la transferencia de éste opere con posterioridad;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
+
+I. La compraventa en la que el vendedor se reserva el dominio, aún cuando la transferencia de ésta opere con posterioridad;
 
 II.- La promesa de adquirir, cuando se pacte que el futuro vendedor recibirá el precio de la venta o parte de él, antes de que se celebre el contrato prometido;
 
@@ -351,7 +355,9 @@ III.- La cesión de derechos del comprador o futuro comprador en los casos de la
 
 IV.- La fusión de sociedades;
 
-V.- La dación en pago y la diquidación (sic), la reducción del capital, pago en especie de remanentes, utilidades o derivados de asociaciones o sociedades civiles o mercantiles;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
+
+V. La dación en pago y la liquidación, la reducción del capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles;
 
 VI.- Constitución de usufructo, trasmisión de éste o de la nuda propiedad, así como de la extinción del usufructo temporal;
 
@@ -359,11 +365,27 @@ VII.- Resoluciones judiciales o administrativas;
 
 VIII.- Prescripción positiva;
 
-IX. La cesión de derechos del heredero o legatario, cuando entre los bienes de la sucesión haya inmuebles, en la parte relativa y en proporción a éstos, y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
+
+IX. La Cesión de derechos del heredero, legatario o copropietario, en la parte relativa y en proporción a los inmuebles.
+
+Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuada después de la declaratoria de herederos o legatarios.
 
 X.- Por adjudicación de la propiedad de bienes inmuebles en virtud de remate judicial o administrativo.
 
 En las permutas se considerará que se efectúan dos adquisiciones.
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
+
+XI. Enajenación a través del fideicomiso, en los términos del Código Fiscal de la Federación;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
+
+XII. La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía del porciento que le correspondía al copropietario o cónyuge;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
+
+XIII. La celebración de contratos de arrendamiento financiero y la cesión de derechos del arrendatario financiero.
 
 #### Sección Segunda. De los Sujetos y Responsables Solidarios
 
@@ -381,21 +403,41 @@ II.- Los notarios públicos, corredores y demás funcionarios encargados de llev
 
 III.- Los demás funcionarios y empleados que inscriban o registren esta clase de documentos sin comprobar estar al corriente en este gravamen.
 
-#### Sección Tercera. De la Base
+> <small>(REFORMADO SU DENOMINACIÓN, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
+
+#### Sección Tercera. De la Base y Tasa
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
 
 ###### ARTICULO 42.
 
-La base gravable del Impuesto se determinará reduciendo cinco veces el salario mínimo general elevado al año, de la zona económica donde se encuentre ubicado el predio, al valor que resulte mayor entre el del avalúo practicado por perito autorizado, el consignado en el acto transmitivo de dominio, o el catastral registrado.
+La base del impuesto se determinará aplicando la tasa que se establece en la Ley de Ingresos vigente, al valor que resulte mayor entre el de avalúo practicado por perito autorizado, eI consignado en el acto transmitivo de dominio o el catastral registrado, después de reducir el número de veces del salario mínimo general elevado al año; de la zona económica donde se encuentre ubicado el inmueble, conforme a lo siguiente:
 
-La base gravable del impuesto cuando se transmita la nuda propiedad de un predio será el 50% del valor correspondiente. El 50% restante será la base gravable al transmitirse el usufructo.
+VALOR DEL INMUEBLE NUMERO DE VECES DEL SALARIO MINIMO ANUAL
+
+Hasta $ 3'000,000.00 6
+
+De $ 3'000,001.00 a $ 6'000,000.00 8
+
+De $ 6'000,001.00 en adelante 10
+
+Para los fines de este capítulo se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
+
+Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
+
+En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el del avalúo practicado por perito autorizado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
 
 ###### ARTICULO 43.
 
-Para efectuar la reducción a que se refiere el artículo anterior, se aplicará el salario mínimo correspondiente al año de calendario en que se esté en los supuestos de pago del impuesto a que se refiere el artículo 46 de esta Ley.
+Para efectuar la reducción a que se refiere el artículo anterior, se aplicará el salario mínimo correspondiente al año de calendario en que se esté en los supuestos de pago del impuesto a que se refiere el artículo 39 de esta Ley.
 
 La reducción se realizará conforme a lo siguiente:
 
-I.- Se consideran como un sólo inmueble los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de 24 meses. De la suma de los valores de los predios únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
+
+I. Se considerarán como un sólo inmueble los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de 24 meses. De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El adquirente deberá manifestar, bajo protesta de decir verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiere adquirido con anterioridad, para que se ajuste al monto de la reducción, y se pagará en su caso, las diferencias del impuesto que corresponda. Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte;
 
 Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte.
 
@@ -404,6 +446,10 @@ II.- Cuando se adquiera parte de la propiedad o de los derechos de un predio a q
 III.- Tratándose del usufructo o de la nuda propiedad únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos, y
 
 IV.- Cuando del predio formen parte departamentos habitacionales, la reducción se hará por cada uno de ellos. Lo dispuesto en esta fracción no es aplicable a hoteles.
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
+
+V. No se considerarán departamentos habitacionales los que, por sus características originales, se destinen a servicios domésticos, portería o guarda de vehículos, aún cuando se utilicen para otros fines.
 
 ###### ARTICULO 44.
 
@@ -445,13 +491,17 @@ A la declaración deberá acompañarse, además de los documentos señalados en 
 
 Cuando lo estime necesario, la Tesorería Municipal podrá solicitar de los notarios públicos o de los declarantes, que le proporcionen una copia autorizada de la escritura en que se hubiera hecho constar la transmisión de dominio de que se trate.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
+
 ###### ARTICULO 46.
 
-Las declaraciones a que se refiere el artículo anterior, se presentarán en las formas oficiales que apruebe la Tesorería Municipal, dentro de un plazo de quince días hábiles, contados a partir de la fecha de la autorización preventiva o de firma de los contratantes de la escritura pública o del contrato privado en su caso. Tratándose de la adquisición de la propiedad de bienes inmuebles por resolución judicial o administrativas, el plazo se contará a partir de la fecha en que se hubiere causado ejecutoria la resolución judicial.
+Las declaraciones a que se refiere el artículo anterior, se presentarán en las formas oficiales que apruebe la Tesorería Municipal, dentro de un plazo de quince días hábiles contados a partir de la fecha de firma de los contratantes de la escritura pública o del contrato privado en su caso. Tratándose de la adquisición de la propiedad de bienes inmuebles por resolución judicial o administrativa, el plazo se contará a partir de la fecha en que se hubiere causado ejecutoria la resolución judicial.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
 
 ###### ARTICULO 47.
 
-El pago del impuesto deberá hacerse en el mismo plazo establecido para la presentación de las declaraciones, aplicando al valor base gravable la tasa que fije la Ley de Ingresos vigente.
+El pago del impuesto deberá hacerse en el mismo plazo establecido para la presentación de las declaraciones señaladas en el artículo anterior.
 
 El pago extemporáneo del impuesto de que se trata, causará recargos por falta de pago oportuno en los términos que señala el Código Fiscal Municipal.
 
@@ -461,9 +511,11 @@ En los contratos celebrados fuera del Estado, pero en la República, en relació
 
 #### Sección Quinta. De las Exenciones
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1984)</small>
+
 ###### ARTICULO 49.
 
-Están exentos del pago de este impuesto, las adquisiciones de bienes inmuebles que realicen los Gobiernos Federales, Estatal o Municipales.
+No se pagará este impuesto, en las adquisiciones de bienes inmuebles que realicen la Federación, el Estado y los Municipios para formar parte del dominio público, así como los que adquieran los Estados extranjeros en caso de reciprocidad.
 
 #### Sección Sexta. Disposiciones Generales
 
@@ -1466,3 +1518,11 @@ PALACIO DEL PODER LEGISLATIVO. Morelia, Michoacán de Ocampo, a 29 de diciembre 
 En cumplimiento por lo dispuesto en la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo y para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo en la ciudad de Morelia, Michoacán a los 30 treinta días del mes de diciembre de 1983.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- El Gobernador Constitucional del Estado.- Ing. Cuauhtémoc Cárdenas Solórzano.- El Secretario de Gobierno.- Lic. Cristóbal Arias Solís. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE SEPTIEMBRE DE 1984.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
