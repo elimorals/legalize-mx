@@ -4,7 +4,7 @@ identifier: "VER-ley-contra-el-lucro-inmoderado-12187"
 country: "mx"
 rank: "ley"
 publication_date: "1946-11-14"
-last_updated: "1947-02-04"
+last_updated: "1968-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12187&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY CONTRA EL LUCRO INMODERADO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 1947.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MARZO DE 1968.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 14 de noviembre de 1946.
 
@@ -49,11 +49,15 @@ II.- Que los artículos que almacene son para usos propios y en cantidad que no 
 
 ###### Artículo 2º.
 
-El Departamento de Economía y Estadística del Gobierno del Estado queda facultado para solicitar, cuando lo juzgue conveniente y directamente o por conducto de las Autoridades Municipales respectivas, de los productores, almacenistas y comerciantes en general, informes sobre las cantidades de artículos de consumo necesario a que se refiere el artículo anterior, que tengan en su poder para su venta al público, quedando aquéllos obligados a proporcionar tales informes dentro del término de diez días. La falta del informe solicitado será sancionada con multa de cincuenta a quinientos pesos.
+El Departamento de Economía y Estadística del Gobierno del Estado queda facultado para solicitar, cuando lo juzgue conveniente y directamente o por conducto de las Autoridades Municipales respectivas, de los productores, almacenistas y comerciantes en general, informes sobre las cantidades de artículos de consumo necesario a que se refiere el artículo anterior, que tengan en su poder para su venta al público, quedando aquellos obligados a proporcionar tales informes dentro del término de diez días. La falta del informe solicitado será sancionada con multa de cincuenta a quinientos pesos.
+
+> <small>(REFORMADO, G.O. 9 DE MARZO DE 1968)</small>
 
 ###### Artículo 3º.
 
-Se aplicará sanción de tres meses a dos años de prisión y multa de cincuenta a mil pesos, al que venda mercancías de las señaladas en los artículos anteriores, a precios que produzca para el vendedor un lucro inmoderado. La misma pena se impondrá a los que desobedezcan las disposiciones de la autoridad, tendientes a controlar la venta de los artículos alimenticios a los precios oficiales.
+Se aplicará sanción de tres meses a dos años de prisión y multa de cincuenta a mil pesos, al que venda mercancías de las señaladas en los artículos anteriores, a precios que produzca para el vendedor un lucro inmoderado. La misma pena se impondrá a los que desobedezcan las disposiciones de la Autoridad, tendientes a controlar la venta de los artículos alimenticios a los precios oficiales.
+
+Se impondrá administrativamente, multa de cincuenta a cinco mil pesos, a quienes alteren, elevando, los precios oficiales establecidos por el Gobierno Federal.
 
 ###### Artículo 4º.
 
@@ -71,7 +75,9 @@ TRANSITORIOS:
 
 PRIMERO.- Esta Ley surtirá sus efectos a partir del 21 de los corrientes.
 
-SEGUNDO.- En todo lo relacionado con el procedimiento a seguir, con motivo de la aplicación de la presente Ley, se estará a lo dispuesto por el Código de Competencia y Enjuiciamiento en Materia Penal, vigente en el Estado.
+> <small>(REFORMADO, G.O. 9 DE MARZO DE 1968)</small>
+
+SEGUNDO.- En todo lo relacionado con el procedimiento a seguir, con motivo de la aplicación de la presente Ley, se estará a lo dispuesto por el Código de Procedimientos Penales para el Estado, salvo lo que respecta a las infracciones administrativas, que serán impuestas por el Gobernador de esta Entidad.
 
 Dada en el Salón de Sesiones de la H. Legislatura, en la ciudad de Jalapa-Enríquez, a los siete días del mes de noviembre de mil novecientos cuarenta y seis.- Guillermo Rodríguez O., Diputado Presidente.- José M. Beltrán Pérez, Diputado Secretario".
 
@@ -96,3 +102,7 @@ Este decreto surtirá sus efectos, a partir de la fecha de su publicación en la
 G.O. 4 DE FEBRERO DE 1947.
 
 UNICO.- El presente decreto entrará en vigor a partir del día siguiente al de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 9 DE MARZO DE 1968.
+
+Esta Ley principiará a surtir efectos tres días después de su publicación en la "Gaceta Oficial" del Estado.
