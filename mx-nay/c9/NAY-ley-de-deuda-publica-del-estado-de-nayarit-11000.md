@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-deuda-publica-del-estado-de-nayarit-11000"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-20"
-last_updated: "2002-10-26"
+last_updated: "2003-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2003.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el miércoles 20 de diciembre de 1995.
 
@@ -75,9 +75,11 @@ Son obligaciones de pasivo directas las operaciones financieras que contrate el 
 
 Para efectos de esta ley, no se considera Deuda Pública los créditos que se contraigan como sujeto de derecho privado, ni los de financiamiento que se paguen en el mismo Ejercicio Fiscal.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2003)</small>
+
 ###### ARTICULO 6o.
 
-En congruencia con el artículo anterior, no constituirán parte de la Deuda Pública las obligaciones directas a corto plazo que se contraigan para solventar necesidades temporales de flujo de caja o cubrir compromisos contraidos por el Poder Ejecutivo del Estado, dicho monto no podrá exceder del 2% del Presupuesto de Egresos vigente, por cada operación; indistintamente con la institución de crédito del sistema financiero con que se contrate, cuyos vencimientos o liquidación se realice en un plazo que no exceda de 180 días a partir de su contratación.
+En congruencia con el artículo anterior, no constituirán parte de la Deuda Pública las obligaciones directas a corto plazo que se contraigan para solventar necesidades temporales de flujo de caja o cubrir compromisos contraídos por el Poder Ejecutivo del Estado y municipios, dicho monto no podrá exceder del 5% del Presupuesto de Egresos vigente, por cada operación; indistintamente con la institución de crédito del sistema financiero con que se contrate, cuyos vencimientos o liquidación se realice en un plazo que no exceda de 180 días a partir de su contratación.
 
 Tampoco se considerarán dentro de los montos anuales de endeudamiento autorizado; pero estarán sujetas a las obligaciones de información y registro previstos en la presente ley.
 
@@ -450,3 +452,7 @@ P.O. 26 DE OCTUBRE DE 2002
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial, Organo de Gobierno del Estado.
 
 SEGUNDO.- Se abrogan todas aquellas disposiciones que se opongan a lo dispuesto en los artículos reformados mediante este decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2003.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del estado de Nayarit.
