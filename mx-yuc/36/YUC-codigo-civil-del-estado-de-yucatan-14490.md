@@ -4,7 +4,7 @@ identifier: "YUC-codigo-civil-del-estado-de-yucatan-14490"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-12-31"
-last_updated: "1999-12-13"
+last_updated: "2002-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO CIVIL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2002.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 31 de diciembre de 1993.
 
@@ -2315,7 +2315,7 @@ El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será
 
 ###### Artículo 390.
 
-La ley coloca a los hijos menores de padres desconocidos o abandonados bajo la tutela de la persona que los haya recogido, la cual tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores.
+La Ley coloca a los hijos menores de padres desconocidos o abandonados bajo la tutela de la persona que los haya recogido, la cual tendrá las obligaciones, facultades y restricciones establecidas para los demás tutores.
 
 Se considera expósito al recién nacido cuyo origen se desconoce y se coloca en situación de desamparo en un hospital, casa particular o algún paraje público o privado por quienes conforme a la Ley están obligados a protegerlo.
 
@@ -6441,13 +6441,21 @@ En la cesión de crédito o de cualquier otro derecho se observarán las disposi
 
 La cesión de un crédito comprende la de todos los derechos accesorios como la fianza, hipoteca, prenda o privilegio, salvo aquéllos que son inseparables de la persona del cedente. Los intereses vencidos se presume que fueron cedidos con el crédito principal.
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 1215.
 
-La cesión de acciones deberá hacerse en escritura pública, en el caso de que el crédito deba constar en esta misma forma, con arreglo a la ley. En caso contrario y cualquiera que sea la cuantía de la operación, podrá hacerse ante notario o escribano público según corresponda o en declaración ante el juez de los autos, si el crédito estuviere pendiente de cobro judicial.
+En el caso de que el crédito deba constar en escritura pública con arreglo a la ley, la cesión de acciones deberá hacerse en esta misma forma. En caso contrario, deberá hacerse en documento firmado ante notario o escribano público, según corresponda, o en declaración ante el juez de los autos, si el crédito estuviere en cobro judicial.
+
+Lo dispuesto en este artículo no se aplicará en los supuestos previstos en el primer párrafo del artículo 1229-Bis de este código.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 1216.
 
 Para que el cesionario pueda ejercitar sus derechos contra el deudor, deberá hacer a éste la notificación respectiva, ya sea judicialmente, ya en lo extrajudicial, por medio de dos testigos o notario.
+
+Lo dispuesto en este artículo no se aplicará en los supuestos previstos en el primer párrafo del artículo 1229-Bis de este código.
 
 ###### Artículo 1217.
 
@@ -6500,6 +6508,16 @@ El cesionario debe por su parte satisfacer al cedente todo lo que éste haya pag
 ###### Artículo 1229.
 
 Si la cesión fuere gratuita, el cedente no será responsable para con el cesionario, ni por la existencia del crédito ni por la solvencia del deudor.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 1229
+
+Bis.- Las instituciones del sistema bancario mexicano, actuando en nombre propio o como fiduciarias, las demás entidades financieras y los Institutos de Seguridad Social, podrán ceder sus créditos con garantía hipotecaria sin necesidad de notificación al deudor, de escritura pública ni de inscripción en el Registro Público de la Propiedad del Estado, siempre que conserven la administración de los créditos.
+
+En los supuestos previstos en el párrafo anterior, la inscripción de la hipoteca a favor del acreedor original, se considerará hecha a favor de él o los cesionarios referidos en tal párrafo, quienes tendrán todos los derechos y acciones derivados de ésta.
+
+En caso de que las mencionadas instituciones, entidades e institutos dejen de llevar la administración de los créditos, el cesionario deberá notificar por escrito la cesión al deudor.
 
 ### CAPITULO I. DEL PAGO
 
@@ -10517,9 +10535,13 @@ La hipoteca debe ser constituida en escritura pública, ante escribano o notario
 
 Deberá constar en la escritura pública la hora en que se firmó, bajo pena de nulidad y pago de daños y perjuicios.
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 2075.
 
-La hipoteca nunca es tácita ni general; para subsistir necesita siempre de registro, y se contrae por la voluntad en los convenios y por necesidad en los casos en que la ley sujeta a alguna persona a prestar esa garantía sobre bienes determinados; en el primer caso se llama voluntaria, y en el segundo necesaria.
+La hipoteca nunca es tácita ni general; para subsistir necesita de registro, y se contrae por la voluntad en los convenios y por necesidad en los casos en que la ley sujeta a alguna persona a prestar esa garantía sobre bienes determinados; en el primer caso se llama voluntaria, y en el segundo, necesaria.
+
+Lo dispuesto en este artículo no se aplicará en los supuestos previstos en el primer párrafo del artículo 1229 Bis de este código.
 
 #### SECCION SEGUNDA. DE LA HIPOTECA VOLUNTARIA
 
@@ -10543,9 +10565,13 @@ Si la obligación garantizada estuviere sujeta a condición resolutoria inscrita
 
 El propietario de una finca hipotecada podrá venderla libremente sin el consentimiento del acreedor hipotecario; pero el comprador quedará obligado solidariamente con el primitivo deudor al cumplimiento de la obligación.
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 2081.
 
-El crédito hipotecario puede enajenarse o cederse a un tercero en todo o en parte, siempre que se haga en la forma prevenida en el artículo 2073 de este código.
+El crédito hipotecario puede enajenarse o cederse a un tercero en todo o en parte, debiendo hacerse en la forma prevenida en el artículo 2073 de este código.
+
+Lo dispuesto en este artículo no se aplicará en los supuestos previstos en el primer párrafo del artículo 1229-Bis de este mismo ordenamiento.
 
 ###### Artículo 2082.
 
@@ -10677,7 +10703,7 @@ VII.- Por remate judicial de la finca conforme al artículo 1465 de este código
 
 ###### Artículo 2104.
 
-La hipoteca produce todos sus efectos jurídicos contra terceros mientras no sea cancelada su inscripcción.
+La hipoteca produce todos sus efectos jurídicos contra terceros mientras no sea cancelada su inscripción.
 
 ###### Artículo 2105.
 
@@ -11065,7 +11091,7 @@ Los actos y contratos que conforme a la ley deban registrarse, no producirán ef
 
 ###### Artículo 2173.
 
-El registro será público. Los encargados de la oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones constantes en los libros del registro, y de los documentos relacionados con las inscripciones, que estén archivadas. También tienen obligación de expedir copias certificadas de las incripciones o constancias que figuren en los libros del registro; así como certificaciones de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
+El registro será público. Los encargados de la oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones constantes en los libros del registro, y de los documentos relacionados con las inscripciones, que estén archivadas. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros del registro; así como certificaciones de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
 
 ###### Artículo 2174.
 
@@ -11509,7 +11535,7 @@ La incapacidad para heredar no produce el efecto de privar al incapaz de lo que 
 
 ###### Artículo 2248.
 
-Si el que entró en posesión de la herencia y la perdió después por incapacidad, hubiere enajenado o gravado en todo o en parte los bienes antes de ser emplazados en el jucio en que se discuta su capacidad, y aquél con quien contrató hubiere tenido buena fe, el contrato subsistirá, mas el heredero incapaz estará obligado a indemnizar al que lo sustituya, de todos los daños y perjucios.
+Si el que entró en posesión de la herencia y la perdió después por incapacidad, hubiere enajenado o gravado en todo o en parte los bienes antes de ser emplazados en el juicio en que se discuta su capacidad, y aquél con quien contrató hubiere tenido buena fe, el contrato subsistirá, mas el heredero incapaz estará obligado a indemnizar al que lo sustituya, de todos los daños y perjucios.
 
 ### CAPITULO VI. DE LA INSTITUCION DE HEREDERO
 
@@ -13450,3 +13476,13 @@ D.O. 13 DE DICIEMBRE DE 1999.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 30 DE DICIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas las disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
