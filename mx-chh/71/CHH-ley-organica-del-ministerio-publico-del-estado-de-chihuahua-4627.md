@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-ministerio-publico-del-estado-de-chihuahua-462
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-01-08"
-last_updated: "1995-07-05"
+last_updated: "1996-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1996.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 8 de enero de 1992.
 
@@ -80,6 +80,18 @@ IX.- Acordar la reserva del expediente o el no ejercicio de la acción penal, en
 > <small>(ADICIONADA, P.O. 5 DE JULIO DE 1995)</small>
 
 X.- Vigilar que a los indiciados los asista un defensor de oficio cuando no cuenten con defensor particular, en cumplimiento a lo previsto por el artículo 20 de la Constitución Federal.
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 1996)</small>
+
+XI.- Toda denuncia o querella que involucre a indígenas como presuntos responsables obligará al Ministerio Público a lo siguiente:
+
+Deberá cerciorarse de la condición étnica y cultural del indiciado, cuando exista duda razonable sobre ésta; asentando en el acta de averiguación previa, los casos en que el indiciado sea indígena; remitiendo una copia de dicho documento al Procurador General de Justicia.
+
+Así mismo, quedará obligado a proveer lo necesario, a efecto de que el presunto responsable cuente con la asistencia de un traductor, así como de un defensor de oficio, desde el inicio de la averiguación previa, considerando en sus actuaciones, las diferencias culturales del indiciado, en cuanto a: circunstancias en que se dieron los hechos, tradiciones, así como a los usos y costumbres de la etnia a la que éste pertenece.
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 1996)</small>
+
+XII.- El Procurador General de Justicia del Estado, vigilará que los funcionarios bajo su mando ajusten sus actuaciones a lo ordenado por la fracción anterior, no autorizando la consignación de averiguaciones previas, que se hayan realizado sin sujeción a dicho precepto; ordenando en su lugar la reposición del procedimiento, para la preparación de la acción procesal respectiva.
 
 B) En la consignación y durante el proceso:
 
@@ -504,3 +516,7 @@ LIC. MARTHA I. LARA ALATORRE
 P.O. 5 DE JULIO DE 1995.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE AGOSTO DE 1996.
+
+UNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
