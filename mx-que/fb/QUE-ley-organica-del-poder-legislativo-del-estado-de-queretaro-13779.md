@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-09-23"
-last_updated: "2001-12-28"
+last_updated: "2002-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DEL 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DEL 2002.
 
 Ley publicada en el Periódico Oficial "La Sombra de Arteaga" el día 23 de septiembre de 1997.
 
@@ -621,7 +621,9 @@ VII.- Educación y Cultura;
 
 VIII.- Salud, Desarrollo Social y Población;
 
-IX.- Seguridad Pública, Protección Civil, Tránsito, Vialidad y Autotransporte;
+> <small>(REFORMADA, P.O 4 DE ENERO DEL 2002)</small>
+
+IX.- Seguridad Pública y Protección Civil;
 
 X.- Desarrollo Agropecuario, forestal y minero;
 
@@ -660,6 +662,10 @@ XXV.- Prevención y Readaptación.
 > <small>(REFORMADA, P.O. 18 DE MAYO DEL 2001)</small>
 
 XXVI.- Asuntos de Equidad de Género y Desarrollo Humano Integral.
+
+> <small>(ADICIONADA, 4 DE ENERO DEL 2002)</small>
+
+XXVII.- Tránsito, Vialidad y Autotransporte.
 
 > <small>(REFORMADO, P. O. 16 DE OCTUBRE DE 1998)</small>
 
@@ -1380,3 +1386,9 @@ UNICO .- La presente Ley entrará en vigencia a partir de su aprobación por el 
 P.O. 28 DE DICIEMBRE DEL 2001
 
 UNICO .- La presente Ley entrará en vigencia a partir de su aprobación por el Pleno de la Legislatura.
+
+P.O. 4 DE ENERO DEL 2002
+
+PRIMERO.-La presente Ley entrará en vigor el día de su aprobación por el Pleno de la LIII Legislatura del Estado, de conformidad con el segundo párrafo artículo 36 de la Constitución Política del Estado Libre y Soberano de Querétaro Arteaga.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente.
