@@ -4,7 +4,7 @@ identifier: "VER-ley-contra-el-lucro-inmoderado-12187"
 country: "mx"
 rank: "ley"
 publication_date: "1946-11-14"
-last_updated: "1968-03-09"
+last_updated: "1968-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12187&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY CONTRA EL LUCRO INMODERADO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MARZO DE 1968.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE ABRIL DE 1968.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 14 de noviembre de 1946.
 
@@ -57,7 +57,9 @@ El Departamento de Economía y Estadística del Gobierno del Estado queda facult
 
 Se aplicará sanción de tres meses a dos años de prisión y multa de cincuenta a mil pesos, al que venda mercancías de las señaladas en los artículos anteriores, a precios que produzca para el vendedor un lucro inmoderado. La misma pena se impondrá a los que desobedezcan las disposiciones de la Autoridad, tendientes a controlar la venta de los artículos alimenticios a los precios oficiales.
 
-Se impondrá administrativamente, multa de cincuenta a cinco mil pesos, a quienes alteren, elevando, los precios oficiales establecidos por el Gobierno Federal.
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 16 DE ABRIL DE 1968)</small>
+
+Se impondrá administrativamente, multa de cincuenta a cinco mil pesos, a quienes alteren, elevando, los precios oficiales establecidos por el Gobierno Federal. Quedará a juicio del Ejecutivo del Estado, ordenar la clausura del establecimiento, en caso de reincidencia o por estimarse que las violaciones cometidas están afectando gravemente el interés colectivo.
 
 ###### Artículo 4º.
 
@@ -104,5 +106,9 @@ G.O. 4 DE FEBRERO DE 1947.
 UNICO.- El presente decreto entrará en vigor a partir del día siguiente al de su publicación en la "Gaceta Oficial" del Estado.
 
 G.O. 9 DE MARZO DE 1968.
+
+Esta Ley principiará a surtir efectos tres días después de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 16 DE ABRIL DE 1968.
 
 Esta Ley principiará a surtir efectos tres días después de su publicación en la "Gaceta Oficial" del Estado.
