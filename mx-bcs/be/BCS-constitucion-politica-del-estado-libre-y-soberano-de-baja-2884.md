@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1992-08-20"
+last_updated: "1992-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE AGOSTO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE AGOSTO DE 1992.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -1203,9 +1203,13 @@ CONCEPTO E INTEGRACION
 
 El Ayuntamiento de La Paz, se integrará con un Presidente, un Síndico y catorce Regidores electos por sufragio universal directo, libre y secreto mediante el sistema de mayoría relativa y hasta con cinco Regidores por el principio de representación proporcional.
 
-El Ayuntamiento de Comondú, se integrará con un Presidente, un Síndico y doce Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con cuatro Regidores electos por el principio de representación proporcional.
+> <small>(REFORMADO, B.O. 26 DE AGOSTO DE 1992)</small>
 
-Los Ayuntamientos de Mulegé y Los Cabos, se integrarán con un Presidente, un Síndico y diez Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con tres Regidores electos por el principio de representación proporcional.
+El Ayuntamiento de Comondú, se integrará con un Presidente, un Síndico y diez Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con cuatro Regidores electos por el principio de representación proporcional.
+
+> <small>(REFORMADO, B.O. 26 DE AGOSTO DE 1992)</small>
+
+El Ayuntamiento de Mulegé y Los Cabos, se integrarán con un Presidente, un Síndico y diez Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con tres Regidores electos por el principio de representación proporcional.
 
 > <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 1992)</small>
 
@@ -1938,3 +1942,9 @@ SE FACULTA AL CONGRESO DEL ESTADO PARA DICTAR LAS NORMAS INTERPRETATIVAS Y ACLAR
 ###### ARTICULO 14o.
 
 EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
+
+B.O. 26 DE AGOSTO DE 1992.
+
+###### ARTICULO UNICO.
+
+El Presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
