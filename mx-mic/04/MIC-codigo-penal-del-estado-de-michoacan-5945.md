@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-del-estado-de-michoacan-5945"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-07-07"
-last_updated: "1991-11-14"
+last_updated: "1992-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,27 +21,21 @@ state: "MIC"
 ---
 # CODIGO PENAL DEL ESTADO DE MICHOACAN
 
-LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE YUCATÁN
+CODIGO PENAL DEL ESTADO DE MICHOACAN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 1992.
 
-Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 2 de diciembre de 2011.
+Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el lunes 7 de julio de 1980.
 
-DECRETO NÚMERO 459
+CARLOS TORRES MANZO, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
 
-C. IVONNE ARACELLY ORTEGA PACHECO, GOBERNADORA DEL ESTADO DE YUCATÁN, CON FUNDAMENTO EN LOS ARTÍCULOS 38, 55 FRACCIONES II Y XXV DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN Y 14 FRACCIONES VII Y IX DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, A SUS HABITANTES HAGO SABER:
+El H. Congreso del Estado, se ha servido dirigirme el siguiente DECRETO:
 
-QUE EL HONORABLE CONGRESO DEL ESTADO DE YUCATÁN SE HA SERVIDO DIRIGIRME EL SIGUIENTE DECRETO:
+EL CONGRESO DE MICHOACAN DE OCAMPO DECRETA:
 
-"EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO Y 3 DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO DE YUCATÁN, EMITE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE YUCATÁN, EN BASE A LA SIGUIENTE:
+NUMERO 186
 
-E X P O S I C I Ó N D E M O T I V O S:
-
-[...]
-
-En tal virtud con fundamento en el artículo 30, fracción V de la Constitución Política, 18 y 43, fracción VIII de la Ley de Gobierno del Poder Legislativo, ambas del Estado de Yucatán, sometemos a consideración del Pleno del Congreso del Estado de Yucatán, el siguiente proyecto de:
-
-LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE YUCATÁN
+Código Penal del Estado de Michoacán
 
 # LIBRO PRIMERO. PARTE GENERAL
 
@@ -77,65 +71,7 @@ Cuando después de cometido el delito se dictare una nueva ley que modificare lo
 
 ## TITULO SEGUNDO. EL DELITO
 
-### CAPÍTULO I. Disposiciones Generales
-
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
-
-###### Artículo 1.
-
-Esta ley es de orden público e interés social, y tiene por objeto regular la integración, la organización y el funcionamiento del Sistema Estatal de Cultura Física y Deporte, establecer las atribuciones de las autoridades competentes, y los mecanismos para garantizar la participación de los sectores público, social y privado, para el adecuado ejercicio y desarrollo del derecho a la cultura física y el deporte en Yucatán.
-
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
-
-###### Artículo 2.
-
-El estado y los municipios deberán coordinarse entre sí y con los sectores social y privado para el cumplimiento de los fines establecidos en el artículo 2 de la ley general.
-
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
-
-###### Artículo 3.
-
-El ejercicio y desarrollo del derecho a la cultura física y el deporte en el estado tienen como base los principios establecidos en el artículo 3 de la ley general.
-
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
-
-###### Artículo 4.
-
-Para los efectos de esta ley, además de las definiciones previstas en la ley general, se entenderá por:
-
-I. Comisión de arbitraje: la Comisión de Apelación y Arbitraje del Deporte del Estado de Yucatán;
-
-II. Consejo estatal: el Consejo Estatal de Cultura Física y Deporte;
-
-III. Consejos municipales: los consejos municipales de cultura física y deporte;
-
-IV. IDEY: el Instituto del Deporte del Estado de Yucatán;
-
-V. Ley general: la Ley General de Cultura Física y Deporte;
-
-VI. Programa especial: el Programa Especial de Cultura Física y Deporte, y
-
-VII. Registro estatal: el Registro Estatal de Cultura Física y Deporte.
-
-###### Artículo 5.
-
-(DEROGADO, D.O. 7 DE JULIO DE 2017)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE JULIO DE 2017)</small>
-
-###### Artículo 6.
-
-El Poder Ejecutivo del Estado destinará recursos presupuestarios para apoyar la ejecución del Programa Especial de Cultura Física y del Deporte así como para la construcción, el mantenimiento y conservación de la infraestructura deportiva.
-
-Los ayuntamientos, en el ámbito de su competencia, deberán observar en sus presupuestos de egresos un rubro preferentemente para el deporte.
-
-###### Artículo 7.
-
-El IDEY conjuntamente, con la Dirección de Educación Física de la Secretaría de Educación del Gobierno del Estado de Yucatán diseñará y ejecutará un programa de educación física en el nivel de educación básica, que contenga un número determinado de horas semanales de ejercicio corporal, de acuerdo a las crecientes posibilidades del Estado y con ello se coadyuve en la formación y desarrollo integral del educando.
-
-###### Artículo 8.
-
-(DEROGADO, D.O. 7 DE JULIO DE 2017)
+### CAPITULO I. Reglas Generales
 
 ###### Artículo 7o.
 
@@ -163,849 +99,397 @@ Cuando una persona jurídica colectiva, con excepción de las instituciones del 
 
 ###### Artículo 10.
 
-El Sistema Estatal de Cultura Física y Deporte estará integrado por:
+Nadie podrá ser sancionado por una conducta o hecho, previsto en la ley como delito, si el resultado del que depende la existencia de éste, no es consecuencia de su acción u omisión.
 
-I. El consejo estatal;
+No impedir el resultado cuando se tiene la obligación jurídica de impedirlo, genera responsabilidad para el agente.
 
-II. Los consejos municipales;
+Las con causas, sean preexistentes, simultáneas o posteriores, no impiden la atribución del resultado al agente, salvo que excluyan la relación de causalidad, por haber sido suficientes, por sí mismas, para producir el resultado, en cuyo caso sólo se sancionará a la acción u omisión anterior, cuando constituya delito por sí misma.
 
-III. El IDEY;
+Las anteriores normas tendrán aplicación cuando la con causa preexistente, simultánea o posterior, consista en el hecho ilícito de otro.
 
-IV. Las asociaciones y sociedades deportivas estatales, y
-
-V. Los consejos estatales del deporte estudiantil.
-
-### CAPÍTULO II. Del Sistema Estatal de Cultura Física y Deporte
-
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
-
-###### Artículo 9.
-
-El Sistema Estatal de Cultura Física y Deporte es el conjunto de normas, autoridades y procedimientos que tiene por objeto implementar mecanismos de colaboración, coordinación y articulación interinstitucional para el desarrollo de instrumentos, políticas y acciones tendientes a garantizar el derecho a la cultura física y el deporte.
-
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
+### CAPITULO II. Tentativa y Delito Imposible
 
 ###### Artículo 11.
 
-Quedan excluidas del Sistema Estatal de Cultura Física y Deporte las actividades deportivas del orden profesional y las actividades de promoción, organización, desarrollo y participación en materia de deporte que se realicen con ánimo de lucro, salvo lo dispuesto en la presente ley.
+La tentativa será punible cuando la resolución de cometer un delito se exteriorice por un comienzo de ejecución o por todos los actos que debieran producir el resultado, si la ejecución se interrumpe o el resultado no se produce por causas ajenas a la voluntad del agente.
 
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
+Si el autor desistiere o impidiere voluntariamente la producción de un resultado, no se impondrá sanción alguna, a no ser que los actos ejecutados constituyeren por sí mismos delitos.
 
-### CAPÍTULO II bis. Del Consejo Estatal de Cultura Física y Deporte
+Cuando una persona ha hecho uso de medios idóneos con el propósito de cometer un delito, pero éste resulta de imposible realización, por inexistencia del bien jurídico u objeto material, el hecho será considerado como tentativa punible.
 
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
+Para imponer la pena de la tentativa y del delito imposible, los jueces tendrán en cuenta la peligrosidad del autor y el grado a que se hubiere llegado en la ejecución del delito.
+
+### CAPITULO III. Causas Excluyentes de Incriminación
 
 ###### Artículo 12.
 
-El consejo estatal es la instancia superior del Sistema Estatal de Cultura Física y Deporte y tiene por objeto propiciar la efectiva coordinación entre instituciones de los sectores público, privado y social, para el adecuado ejercicio y desarrollo del derecho a la cultura física y el deporte en Yucatán.
+Son causas excluyentes de incriminación:
 
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
+I. Violar la ley penal por fuerza física irresistible o en cualquier otro caso en que haya ausencia de voluntad del agente;
+
+II. Actuar con el consentimiento del titular del derecho, en los casos en que éste sea disponible de acuerdo con la ley;
+
+III. Obrar en ejercicio legítimo de un derecho;
+
+IV. Obrar en defensa de bienes jurídicos propios o ajenos, para superar un estado de peligro actual o inminente, que no se pueda evitar, derivado de una agresión injusta, siempre que la defensa sea proporcionada.
+
+Se presumirá que concurren los requisitos de la legítima defensa respecto de aquél que rechazare el escalamiento o fractura de los cercados, paredes, así como entradas de su casa o departamento habitado o de sus dependencias, cualquiera que sea el daño causado al agresor.
+
+Igual presunción favorecerá a quien cause cualquier daño a un intruso que sorprendiere en la habitación u hogar propios, de su familia o de cualquiera otra persona que tenga la obligación de defender, o en el local, bodegas o áreas comerciales de empresas públicas o privadas, o similares donde se encuentren bienes propios o respecto de los que tenga la misma obligación, siempre que la presencia del extraño revele la probabilidad de una agresión;
+
+V. Obrar por la necesidad de salvar un bien jurídico propio o ajeno de un peligro grave, actual o inminente, no provocado dolosamente por el agente, lesionando otro bien jurídico de igual o menor valor, siempre que la conducta sea proporcionada al peligro y el sujeto no tuviere el deber jurídico de afrontarlo;
+
+VI. Obrar en cumplimiento de un deber legal;
+
+VII. Obrar por obediencia legítima y jerárquica;
+
+VIII. Contravenir lo dispuesto en una ley penal por impedimento legítimo o insuperable;
+
+IX. Obrar por error de hecho, esencial e invencible, que no derive de culpa;
+
+X. Obrar bajo coacción o peligro de un mal grave, inminente o actual, no ocasionado por el agente y sea o no provocado por acción de un tercero cuando razonablemente no pueda exigírsele una conducta diversa;
+
+XI. Ejecutar un hecho que no es delictuoso sino por circunstancias del ofendido, si el acusado las ignoraba inculpablemente al tiempo de obrar; y,
+
+XII. Causar un daño accidentalmente sin intención ni culpa.
 
 ###### Artículo 13.
 
-El consejo estatal, para el cumplimiento de su objeto, tendrá las siguientes atribuciones:
+Las causas que excluyen la incriminación se investigarán y se harán valer de oficio o a petición de la parte interesada.
 
-I. Definir las bases para la coordinación entre las autoridades estatales y municipales, y entre estas y los sectores social y privado, para garantizar el derecho a la cultura física y el deporte;
-
-II. Impulsar la efectiva coordinación entre los órdenes de gobierno y poderes del estado para el desarrollo de la cultura física y el deporte;
-
-III. Coadyuvar en la elaboración del programa especial y de otros instrumentos de planeación sobre cultura física y deporte, y proponer su formato y la información técnica que deban contener;
-
-IV. Proponer la definición de objetivos y metas sobre cultura física y deporte, y vigilar su cumplimiento;
-
-V. Determinar la implementación de políticas, estrategias y acciones para el desarrollo de la cultura física y el deporte, considerando el pleno reconocimiento a la equidad e igualdad hacia las personas con discapacidad;
-
-VI. Vigilar que los recursos públicos en materia de cultura física y deporte se manejen de manera austera y se destinen al cumplimiento de los objetivos del programa especial, priorizando el desempeño de los deportistas del estado;
-
-VII. Establecer mecanismos para la planeación, implementación y evaluación de programas y acciones sobre cultura física y deporte;
-
-VIII. Emitir acuerdos para el mejoramiento de la organización y el funcionamiento del Sistema Estatal de Cultura Física y Deporte o del desempeño de las dependencias y entidades de la Administración Pública estatal relacionadas con la cultura física y el deporte;
-
-IX. Efectuar propuestas de modificación al marco jurídico aplicable en materia de cultura física y deporte;
-
-X. Fomentar la elaboración de estudios e investigaciones para el desarrollo de la cultura física y el deporte, y el conocimiento, principalmente, del contexto, la capacidad institucional y la problemática que, en su caso, atraviesen el estado y los municipios;
-
-XI. Propiciar la participación de los sectores social y privado, y de la comunidad en general, en el diseño y la implementación de políticas, estrategias y acciones sobre cultura física y deporte;
-
-XII. Aprobar la normativa interna que requiera para el cumplimiento de su objeto;
-
-XIII. Conformar las comisiones, permanentes o transitorias, necesarias para el desempeño de tareas específicas relacionadas con su objeto, y
-
-XIV. Vigilar el cumplimiento de la ley general y de esta ley, así como de las demás disposiciones legales y normativas aplicables.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 13 bis.- El consejo estatal estará integrado por:
-
-I. El director general del IDEY, quien será el presidente;
-
-II. El secretario de Administración y Finanzas;
-
-III. El secretario de Salud;
-
-IV. El secretario de Educación;
-
-V. El secretario de Obras Públicas;
-
-> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
-
-VI. El secretario de Desarrollo Social;
-
-VII. Los presidentes municipales de las cabeceras de cada una de las regiones en las que se distribuye el Estado, de conformidad a lo previsto en el Reglamento de la Ley de Planeación para el Desarrollo del Estado de Yucatán, y
-
-VIII. Tres representantes de las asociaciones y sociedades deportivas estatales.
-
-El consejo estatal contará con un secretario técnico, quien será designado por el presidente y participará en las sesiones únicamente con derecho a voz.
-
-El presidente nombrará al secretario técnico del consejo estatal, quien participará en las sesiones únicamente con derecho a voz.
-
-Cuando el gobernador asista a alguna sesión del consejo estatal, asumirá el cargo de presidente y el director general del IDEY fungirá como secretario técnico, conservando el derecho a voz y voto, ambos con las facultades y obligaciones dispuestas en esta ley.
-
-El Poder Ejecutivo, por conducto del IDEY, designará, previa convocatoria, a los representantes de las asociaciones y sociedades deportivas estatales a que se refiere la fracción VIII de este artículo, quienes conformarán el consejo por un periodo de un año, con opción a ser ratificados por un periodo más, y podrán ser removidos por falta injustificada a dos sesiones consecutivas.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 13 ter.- El Reglamento Interno del Consejo Estatal de Cultura Física y Deporte establecerá las disposiciones específicas que regulen su organización y funcionamiento.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 7 DE JULIO DE 2017)</small>
-
-### CAPÍTULO II ter. Del Instituto del Deporte del Estado de Yucatán
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 13 quater.- El IDEY es un organismo público descentralizado, con personalidad jurídica y patrimonio propio, que tiene por objeto conducir la política estatal y propiciar el desarrollo de la cultura física y el deporte en Yucatán.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 13 quinquies.- El IDEY, para el cumplimiento de su objeto, tendrá las siguientes atribuciones:
-
-I. Proponer, implementar y evaluar la política estatal de cultura física y deporte, así como las estrategias y acciones necesarias para su desarrollo, considerando el pleno reconocimiento a la equidad e igualdad hacia las personas con discapacidad;
-
-II. Elaborar el programa especial;
-
-III. Fomentar la práctica de la cultura física y el deporte como medios para la integración y convivencia social, así como para la prevención del delito y de adicciones;
-
-IV. Integrar y mantener actualizado el registro estatal;
-
-V. Procurar la congruencia y uniformidad entre los programas de cultura física y deporte del estado y de los municipios;
-
-VI. Brindar asesoría y apoyo técnico a los municipios del estado que lo soliciten para la conformación de sus sistemas de cultura física y deporte, y el cumplimiento de las atribuciones establecidas en el artículo 35 de la ley general y en otras disposiciones legales y normativas aplicables;
-
-VII. Establecer vínculos de coordinación y cooperación con instituciones de los sectores público, privado y social para el desarrollo de la cultura física y el deporte, así como impulsar la participación de la comunidad en la implementación de las acciones que al respecto se determinen;
-
-VIII. Otorgar el registro correspondiente a las asociaciones y sociedades deportivas estatales a que hace referencia esta ley, y promover la práctica institucional y reglamentada del deporte, a través de ellas;
-
-IX. Verificar que las asociaciones y sociedades deportivas estatales consideren en sus estatutos, reglamentos o códigos de conducta, entre otros aspectos, las atribuciones de sus órganos, los derechos y las obligaciones de sus integrantes, las sanciones aplicables, los procedimientos disciplinarios para su imposición y los demás elementos establecidos en esta ley;
-
-X. Asesorar a las asociaciones y sociedades deportivas estatales en la creación y modificación de sus estructuras orgánicas, así como en la elaboración de sus estatutos, reglamentos o códigos de conducta, para que no contravengan lo dispuesto en la ley general, esta ley y su reglamento;
-
-XI. Desarrollar, en coordinación con los municipios y las asociaciones y sociedades deportivas estatales, políticas, estrategias y acciones para la prevención y atención del dopaje y la violencia en el deporte;
-
-XII. Promover la formación, capacitación y certificación de directivos, deportistas, entrenadores, árbitros, jueces y personal técnico relacionado con la cultura física y el deporte;
-
-XIII. Fomentar la construcción, la conservación, el mejoramiento y el uso de instalaciones destinadas a la cultura física y el deporte;
-
-XIV. Impulsar, en coordinación con instituciones de los sectores público, privado y social, la elaboración de estudios e investigaciones sobre cultura física y deporte, así como ciencias y técnicas aplicables, y
-
-XV. Colaborar con la Secretaría de Educación en el desempeño de las atribuciones que, en términos de las disposiciones legales y normativas aplicables, le correspondan en materia de cultura física y deporte.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 13 sexies.- El patrimonio del IDEY estará integrado por:
-
-I. Los recursos que le sean asignados o transferidos conforme al Presupuesto de Egresos del Gobierno del Estado de Yucatán;
-
-II. Los recursos que le asignen o transfieran los Gobiernos federal, estatales o municipales;
-
-III. Los recursos que reciba, por cualquier título legal, de personas físicas o morales, nacionales o extranjeras;
-
-IV. Los bienes muebles e inmuebles, y derechos, que adquiera por cualquier título legal;
-
-V. Los ingresos que perciba por la prestación de sus servicios y su operación, y
-
-VI. Las utilidades, los intereses, los dividendos y los rendimientos de sus bienes y derechos.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 13 septies.- El IDEY estará integrado por:
-
-I. El consejo directivo;
-
-II. El director general, y
-
-III. Las unidades administrativas, a cargo de la dirección general, que establezca su estatuto orgánico.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 13 octies.- El consejo directivo tendrá las siguientes atribuciones:
-
-I. Aprobar y evaluar las políticas generales, las prioridades y los programas que deberá implementar el IDEY para el desarrollo de la cultura física y el deporte, considerando el pleno reconocimiento a la equidad e igualdad hacia las personas con discapacidad;
-
-II. Aprobar los anteproyectos de presupuestos de ingresos y egresos del IDEY que presente el director general, y dar seguimiento y evaluar el ejercicio de los recursos correspondientes;
-
-III. Aprobar el programa anual de trabajo del IDEY que someta a su consideración el director general, y verificar su cumplimiento;
-
-IV. Aprobar el estatuto orgánico del IDEY así como los reglamentos, manuales y demás instrumentos que regulen su organización y funcionamiento;
-
-V. Aprobar la estructura orgánica básica del IDEY;
-
-VI. Implementar las acciones que, en el ámbito de su competencia, sean necesarias para el cumplimiento del objeto del IDEY;
-
-VII. Vigilar que el desempeño del IDEY se ajuste a los programas nacional y estatal de cultura física y deporte, así como a las políticas generales, prioridades y restricciones que deriven de los sistemas e instrumentos de planeación para el desarrollo;
-
-VIII. Vigilar que los recursos públicos en materia de cultura física y deporte se manejen de manera austera y se destinen al cumplimiento de los objetivos del programa especial, priorizando el desempeño de los deportistas del estado;
-
-IX.- Examinar y, en su caso, aprobar los informes financieros o de desempeño que periódicamente someta a su consideración el director general;
-
-X. Requerir al director general, en cualquier momento, informes que permitan conocer el estado financiero o de desempeño del IDEY, así como el grado de cumplimiento de los objetivos y las metas sobre cultura física y deporte, y, en su caso, dictar las medidas que considere pertinentes, y
-
-XI. Las demás que le confieren el Código de la Administración Pública de Yucatán, su reglamento, el estatuto orgánico y otras disposiciones legales y normativas aplicables.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 13 nonies.- El consejo directivo será la máxima autoridad del IDEY y estará integrado por:
-
-I. El gobernador, o la persona que este designe, quien será el presidente;
-
-II. El secretario general de Gobierno;
-
-III. El secretario de Administración y Finanzas;
-
-IV. El secretario de Educación;
-
-V. El secretario de Salud, y
-
-> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
-
-VI. El secretario de Desarrollo Social.
-
-Los integrantes del consejo directivo tendrán derecho a voz y voto durante sus sesiones.
-
-El consejo directivo contará con un secretario de actas y acuerdos, quien será designado por el secretario general de Gobierno y participará en las sesiones, para el desempeño de sus funciones, con derecho a voz, pero no a voto.
-
-Los integrantes del consejo directivo, con excepción del presidente, quien será suplido por el secretario general de Gobierno, designarán, por escrito dirigido al secretario de actas y acuerdos, a sus suplentes, quienes los sustituirán en caso de ausencia con las facultades y obligaciones que dispone para aquellos esta ley, el Reglamento del Código de la Administración Pública de Yucatán y otras disposiciones legales y normativas aplicables.
-
-El presidente podrá invitar a participar en las sesiones del consejo directivo a servidores públicos de los tres órdenes de gobierno, poderes del estado u organismos constitucionales autónomos; a representantes de los sectores social y privado; o a personas que tengan reconocido conocimiento o prestigio en el campo de la cultura física y el deporte, y que puedan aportar opiniones valiosas y ser de su utilidad.
-
-Los invitados participarán en las sesiones únicamente con derecho a voz.
-
-Los cargos de los integrantes del consejo directivo son de carácter honorífico, por tanto, quienes lo (sic) ocupen no recibirán retribución alguna por su desempeño.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 13 decies.- El director general será nombrado y removido libremente por el gobernador del estado.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 13 undecies.- El director general tendrá las siguientes facultades y obligaciones:
-
-I. Representar legalmente al IDEY con todas las facultades de apoderado general para pleitos y cobranzas, así como actos de administración y de dominio, con todas las facultades que requieran cláusula especial conforme a la ley, y sustituir y delegar esta representación en uno o más apoderados para que las ejerzan individual o conjuntamente. Para actos de dominio requerirá la autorización expresa del consejo directivo;
-
-II. Planear, dirigir, coordinar, supervisar y evaluar la organización y el funcionamiento del IDEY;
-
-III. Administrar los recursos humanos, financieros, materiales y tecnológicos que le sean asignados o transferidos al IDEY;
-
-IV. Implementar las políticas, estrategias y acciones que, en el ámbito de su competencia, sean necesarias para el adecuado desempeño del IDEY y el cumplimiento de su objeto;
-
-V. Proponer al consejo directivo las políticas generales, las prioridades y los programas que deberá implementar el IDEY para el desarrollo de la cultura física y el deporte, considerando el pleno reconocimiento a la equidad e igualdad hacia las personas con discapacidad;
-
-VI. Definir los objetivos, las metas y los indicadores de desempeño o de resultado del IDEY, de conformidad con los programas nacional y estatal de cultura física y deporte, así como elaborar los registros administrativos que permitan su seguimiento y evaluación;
-
-VII. Formular y presentar al consejo directivo los anteproyectos de presupuestos de ingresos y egresos del IDEY, y vigilar el adecuado ejercicio de los recursos correspondientes;
-
-VIII. Elaborar los proyectos de programa anual de trabajo y programa presupuestario del IDEY, y someterlos a consideración del consejo directivo;
-
-IX. Determinar las políticas, los lineamientos y los criterios, así como elaborar los proyectos de estatuto orgánico, reglamento, manual y demás instrumentos que regulen la organización y el funcionamiento del IDEY;
-
-X. Presentar al consejo directivo la propuesta de estructura orgánica básica del IDEY y sus modificaciones, y aprobar la contratación de su personal;
-
-XI. Emitir opinión sobre los proyectos legislativos o normativos, así como los asuntos que sean competencia del IDEY, que sometan a su consideración las instituciones del sector público;
-
-XII. Celebrar convenios, contratos y acuerdos con los sectores público, privado y social para el cumplimiento del objeto del IDEY, y dar cuenta de ello al consejo directivo;
-
-XIII. Generar y presentar al consejo directivo un informe anual de resultados y los reportes que permitan conocer el estado financiero, el destino de los recursos y el desempeño del IDEY, así como el grado de cumplimiento de los objetivos y las metas sobre cultura física y deporte.
-
-Dicha información deberá hacerse pública en términos de lo establecido en la Ley General de Transparencia y Acceso a la Información Pública.; (sic)
-
-XIV. Ejecutar los acuerdos y las disposiciones que emita el consejo directivo;
-
-XV. Resolver los asuntos o conflictos que se susciten en el IDEY y requieran de su intervención;
-
-XVI. Ejercer directamente las atribuciones de las unidades administrativas del IDEY, y
-
-XVII. Las demás que le confieran el Código de la Administración Pública de Yucatán, su reglamento y el estatuto orgánico.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 13 duodecies.- El estatuto orgánico establecerá las disposiciones específicas que regulen la organización y el funcionamiento del consejo directivo, así como las atribuciones de las unidades administrativas que integren el IDEY.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 13 terdecies.- La vigilancia del consejo directivo estará a cargo de un comisario público, quien será designado por la Secretaría de la Contraloría General y tendrá las facultades y obligaciones necesarias para el desempeño de sus funciones, en términos del Código de la Administración Pública de Yucatán y su reglamento.
-
-El comisario público no formará parte del consejo directivo, pero podrá asistir a sus sesiones únicamente con derecho a voz.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 13 quaterdecies.- Las relaciones laborales entre el IDEY y sus trabajadores, independientemente de la naturaleza de su contratación, se regirán por lo dispuesto en el artículo 123, apartado A, de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y las demás disposiciones legales y normativas aplicables.
+### CAPITULO IV. Concurso de Delitos
 
 ###### Artículo 14.
 
-El IDEY, así como los organismos coadyuvantes de la actividad deportiva a que se refiere la presente Ley, promoverán la participación de los sectores público y privado en la promoción de la cultura física y deporte, a través de convenios y acuerdos de promoción deportiva, y demás medios que se estimen pertinentes.
+Existe concurso real o material cuando una misma persona comete varios delitos ejecutados en actos distintos, si no se ha producido antes sentencia irrevocable y la acción para perseguirlos no está prescrita. No hay concurso cuando se trate de un delito continuado.
+
+Hay concurso ideal o formal cuando con un acto u omisión se violan varias disposiciones penales.
 
 ## TITULO TERCERO. EL DELINCUENTE
 
-### CAPÍTULO III. De la Participación de los Sectores Público y Privado en el Sistema Estatal de Cultura Física y Deporte
+### CAPITULO I. La Imputabilidad
 
 ###### Artículo 15.
 
-Los convenios y acuerdos de promoción deportiva, firmados con el IDEY, deberán prever:
+Es imputable la persona que en el momento de realizar la conducta descrita en la ley como delito, está en capacidad de conocer su ilicitud y de autodeterminarse en razón de tal conocimiento.
 
-I.- La forma en que se desarrollarán las actividades deportivas que de acuerdo a su convenio, se realicen dentro del Sistema Estatal de Cultura Física y Deporte, y
+Las sanciones penales sólo podrán aplicarse a las personas imputables y las medidas de seguridad a las inimputables.
 
-II.- La supervisión de las acciones y recursos que sus convenios aporten para la promoción y fomento del deporte.
-
-### CAPÍTULO IV. Del Programa Especial de Cultura Física y del Deporte
-
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
+### CAPITULO II. Causas de Inimputabilidad
 
 ###### Artículo 16.
 
-El Poder Ejecutivo del Estado de Yucatán y los ayuntamientos, promoverán la creación y fomento de patronatos, fundaciones y demás organismos filantrópicos en los que participen los sectores público y privado, con el fin de que coadyuven en el fomento y desarrollo del deporte.
+Son causas de inimputabilidad:
 
-### CAPÍTULO V. Del Registro Estatal de Cultura Física y Deporte
+I. La condición de persona menor de dieciséis años. Cuando se trate de persona entre dieciséis y dieciocho años, su calidad de inimputable dependerá del estudio científico de su personalidad;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE JULIO DE 2017)</small>
+II. La condición de indígena analfabeto no integrado a la civilización;
+
+III. El trastorno mental; y,
+
+IV. La sordomudez y la ceguera de nacimiento, cuando haya falta total de instrucción.
+
+### CAPITULO III. Participación en el Delito
 
 ###### Artículo 17.
 
-Los ayuntamientos deberán desarrollar políticas públicas para promover la participación de los ciudadanos en el Consejo Municipal del Deporte.
+Son responsables de la comisión de un delito:
 
-El Consejo Municipal del Deporte, deberá diseñar, ejecutar y evaluar los programas municipales del deporte, en los términos de esta Ley.
+I. Los que intervienen en el acuerdo, preparación o ejecución del mismo;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE JULIO DE 2017)</small>
+II. Los que instigan o inducen a otro a su ejecución;
+
+III. Los que se sirven para cometer el delito de una persona inculpable o inimputable;
+
+IV. Los que a sabiendas presten auxilio o cooperación de cualquier especie para su ejecución;
+
+V. Los que sabiendo que se está cometiendo un delito o se va a cometer, y teniendo el deber legal de impedir su ejecución, no la impiden pudiendo hacerlo; y,
+
+VI. Los que presten auxilio o cooperación al delincuente, una vez consumado el delito, cumpliendo un acuerdo anterior a la comisión del mismo.
 
 ###### Artículo 18.
 
-El Gobierno del estado y los municipios deberán coordinarse entre sí y con la federación y los sectores social y privado para, además de las establecidas en el artículo 41 de la ley general, el desempeño de las siguientes funciones:
+Si varias personas toman parte en la realización de un delito determinado y alguna de éllas comete uno distinto, sin previo acuerdo con las otras, todas serán responsables de la comisión del nuevo delito, salvo que concurran los requisitos siguientes:
 
-I.- Detectar los problemas y necesidades que existan en el deporte, para señalarlos y recomendar soluciones;
+I. Que el nuevo delito no sirva como medio adecuado para cometer el principal;
 
-II.- Colaborar en la promoción de foros y demás mecanismos de consulta pública para el mejoramiento de la política estatal del deporte, y
+II. Que aquél no sea consecuencia necesaria o natural de éste o de los medios concertados;
 
-III.- Promover, en los términos de ley, la participación ciudadana en los consejos de vecinos para la promoción y el fomento deportivo.
+III. Que no hayan sabido antes que se iba a cometer el nuevo delito; y,
 
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 18 bis.- La coordinación y colaboración entre el estado y los municipios, y entre estos y la federación, con respecto a la seguridad y la prevención de la violencia en eventos deportivos masivos o con fines de espectáculo, se sujetará a lo establecido en los artículos 41 Bis y 42 de la ley general, sin perjuicio de lo dispuesto por la Ley General del Sistema Nacional de Seguridad Pública.
+IV. Que no hayan estado presentes en la ejecución del nuevo delito, o que habiendo estado, hayan hecho cuanto estaba de su parte para impedirlo, si podían hacerlo, sin riesgo grave e inmediato para sus personas.
 
 ###### Artículo 19.
 
-El Instituto y los ayuntamientos ofrecerán a estudiantes de nivel superior hacer su servicio social y prácticas profesionales en dichas instituciones, buscando coadyuvar en el desarrollo de la cultura física y el deporte.
+Las relaciones, cualidades y circunstancias personales que aumenten o disminuyan la sanción, no tendrán influencia sobre los partícipes, excepto cuando tengan conocimiento de ellas.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 7 DE JULIO DE 2017)</small>
+No es imputable al acusado el aumento de gravedad proveniente de circunstancias particulares del ofendido, si las ignorare inculpablemente al cometer el delito.
 
-### CAPÍTULO VI. De la Participación de los Municipios en el Sistema Estatal de Cultura Física y Deporte
+Las circunstancias del delito, que aumenten o disminuyan la sanción, aprovechan o perjudican a todos los que intervengan en cualquier grado en la comisión del mismo.
+
+### CAPITULO IV. Reincidencia y Habitualidad
 
 ###### Artículo 20.
 
-El programa especial será el instrumento rector de la política deportiva en el estado y en su elaboración deberán participar los integrantes del Sistema Estatal de Cultura Física y Deporte.
+Será reincidente quien cometa un delito después de haber sido condenado por sentencia ejecutoria. Si ésta fue dictada por un tribunal del país o del extranjero, será menester que la condena sea por un delito que tenga este carácter en el presente Código.
 
-La elaboración del programa especial estará supervisada por el IDEY.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE JULIO DE 2017)</small>
+No habrá reincidencia si ha transcurrido desde la fecha de la sentencia ejecutoria, un término igual al de la prescripción de la pena.
 
 ###### Artículo 21.
 
-El programa especial deberá incluir políticas de desarrollo, lineamientos estratégicos, medidas de seguridad e indicadores de desempeño en, por lo menos, los siguientes rubros:
-
-I.- La formación y capacitación a instructores y entrenadores deportivos;
-
-II.- El deporte popular, que se considera como el conjunto de actividades físicas que practican los grandes núcleos de población, normada convencionalmente y sin que se requiera para su práctica equipos o instalaciones especializados, cuyo objeto es el aprendizaje, mantenimiento de la salud y el de esparcimiento, para favorecer el desarrollo integral de la comunidad;
-
-III.- El Deporte estudiantil, que se considera como las actividades competitivas que se organizan en el sector educativo como complemento a la educación física;
-
-IV.- El Deporte asociado, considerado como la actividad competitiva que realiza un sector de la comunidad debidamente organizado, cuya estructura puede ser de dos maneras:
-
-a) Organizaciones deportivas afiliadas a una Asociación Estatal o Federal del Deporte, o bien en ambas, y
-
-b) Grupo de ciudadanos que se reúnen con un motivo deportivo sin encontrarse afiliado a una Asociación Estatal del Deporte.
-
-V.- El deporte de alto rendimiento y selectivo, entendido como la práctica sistemática de especialidades deportivas, que requieren altas exigencias de capacitación y entrenamiento para los deportistas, cuyo desarrollo, capacitación y supervisión estará a cargo del IDEY;
-
-VI.- El deporte para personas discapacitadas entendiéndose por éste, la práctica del deporte adaptado a personas con cualquier restricción o impedimento del funcionamiento de una actividad corporal ocasionado por una deficiencia dentro del ámbito considerado normal del ser humano;
-
-VII.- El deporte para personas de la tercera edad, que es la práctica metódica de ejercicios físicos que realizan las personas de este sector de la población;
-
-VIII.- El deporte ecuestre, que incluye la charrería que se entiende como el deporte del charro y el caballo realizando suertes;
-
-IX.- Deportes de alto riesgo; referida en el Artículo 76;
-
-X.- Infraestructura deportiva;
-
-XI.- Medicina deportiva y ciencias aplicables, y
-
-XII.- Deporte Ciencia Ajedrez.
-
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
+Será considerado delincuente habitual el que cometa el mismo género de infracciones durante tres veces consecutivas, en un período que no exceda de diez años.
 
 ###### Artículo 22.
 
-En el programa especial se definirán los criterios de coordinación entre todos los integrantes del Sistema Estatal de Cultura Física y Deporte, a efecto de que la actividad y participación deportiva se realice en forma ordenada y planificada.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE JULIO DE 2017)</small>
+Las disposiciones contenidas en los artículos anteriores, serán aplicables a la tentativa y al delito imposible; pero no lo serán tratándose de delitos políticos o cuando el sujeto haya obtenido el reconocimiento de su inocencia, a virtud de la revisión.
 
 ## TITULO CUARTO. CONSECUENCIAS JURIDICAS DEL DELITO
 
-### CAPÍTULO VII. De la Participación de los Deportistas y de los Organismos Deportivos en el Sistema Estatal de Cultura Física y Deporte
-
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
+### CAPITULO I. Sanciones y Medidas de Seguridad
 
 ###### Artículo 23.
 
-El programa especial deberá contener, entre otras, las siguientes acciones:
+Las consecuencias jurídicas del delito son:
 
-I.- La convocatoria permanente a los equipos, clubes y asociaciones deportivas que cumplan con los requisitos de ley para su integración al Sistema Estatal de Cultura Física y Deporte, y
+I. Prisión con trabajo obligatorio;
 
-II.- Relación de torneos o juegos estatales y regionales a verificarse, así como sus ramas de competencia y calendario.
+II. Confinamiento;
 
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
+III. Prohibición de ir a lugar determinado o de residir en él;
 
-### CAPÍTULO VIII. De los Derechos y Obligaciones del Deportista
+IV. Multa;
+
+V. Reparación del daño;
+
+VI. Inhabilitación, suspensión y privación de derechos;
+
+VII. Destitución y suspensión de funciones o empleos;
+
+VIII. Publicación especial de sentencia;
+
+IX. Decomiso de los instrumentos del delito;
+
+X. Decomiso o destrucción de cosas peligrosas o nocivas;
+
+XI. Amonestación;
+
+XII. Apercibimiento;
+
+XIII. Caución de no ofender;
+
+XIV. Vigilancia de la autoridad;
+
+XV. Internación; y,
+
+XVI. Intervención, prohibición de realizar determinadas operaciones o negocios, y disolución de las personas jurídicas colectivas.
+
+### CAPITULO II. Prisión
 
 ###### Artículo 24.
 
-A fin de que en forma corresponsable todos los instructores, entrenadores y técnicos dedicados al trabajo deportivo en la entidad, reciban una adecuada formación y capacitación con reconocimiento oficial, el programa especial deberá contener los mecanismos necesarios de coordinación y concertación entre los diferentes organismos e instituciones de los sectores privado y público en el Estado.
+La prisión consiste en la privación de la libertad del sentenciado, desde tres días hasta treinta años; salvo los casos de exención que señale la ley, se entenderá impuesta con trabajo obligatorio por todo el tiempo de su duración.
+
+Se extinguirá en los establecimientos que al efecto señale el órgano ejecutor de sanciones.
 
 ###### Artículo 25.
 
-(DEROGADO, D.O. 7 DE JULIO DE 2017)
+Los procesados sujetos a prisión preventiva y los reos políticos, serán recluidos en establecimientos o departamentos especiales.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 7 DE JULIO DE 2017)</small>
-
-### CAPÍTULO IX. Del Fomento al Deporte y Estímulos al Deportista
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE JULIO DE 2017)</small>
+### CAPITULO III. Confinamiento
 
 ###### Artículo 26.
 
-Se crea (sic) registro estatal, que estará bajo la responsabilidad del IDEY, con la finalidad de inscribir y llevar un registro actualizado de todos los deportistas, jueces, árbitros, técnicos, instructores, entrenadores, así como de guías e instructores en deportes de alto riesgo.
+El confinamiento consiste en la obligación de residir en lugar determinado y no salir de él. No podrá exceder de cinco años. El órgano ejecutor de sanciones hará la designación del lugar, conciliando las exigencias de la tranquilidad pública con las circunstancias personales del sentenciado. Cuando se trate de delitos políticos, la designación será hecha por el tribunal que dicte la sentencia.
 
-Igualmente incluirá el registro de organizaciones deportivas, así como el censo e inventario de las instalaciones deportivas de la entidad.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE JULIO DE 2017)</small>
-
-### CAPÍTULO X. Del Uso, Conservación y Mantenimiento de Infraestructura Deportiva
+### CAPITULO IV. Prohibición de ir a lugar determinado de residir en él
 
 ###### Artículo 27.
 
-La inscripción en el registro estatal podrá ser individual o colectiva, y es condición indispensable para gozar de los estímulos y apoyos que otorga el IDEY a través del Sistema Estatal de Cultura Física y Deporte.
+La prohibición de ir a lugar determinado o de residir en él, no podrá exceder de cinco años.
 
-Quedan exceptuados de recibir los mencionados beneficios, las personas físicas o morales que con fines lucrativos se dediquen a la explotación de actividades deportivas en cualquiera de sus expresiones o modalidades
+### CAPITULO V. Multa
 
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Dicha información deberá hacerse pública en términos de lo establecido en la Ley General de Transparencia y Acceso a la Información Pública.
-
-### CAPÍTULO XI. De la Comisión de Apelación y Arbitraje del Deporte del Estado de Yucatán
-
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
 
 ###### Artículo 28.
 
-La inscripción a que se hace referencia, quedará debidamente acreditada a través de la expedición de la credencial que para tal efecto otorgue el IDEY.
+La multa consiste en la sanción económica que se impone al delincuente y se cubre a favor del Fondo Auxiliar para la Administración de Justicia del Estado. Se hará efectiva por conducto de la Dirección del Fondo Auxiliar, tomando su importe de la caución otorgada en autos, o en su caso, por medio del procedimiento económico-coactivo.
+
+Para la aplicación de este Código, respecto a las multas especificadas en días de salario, se considerará como salario, el mínimo general vigente en el momento y lugar en que se cometa el delito.
 
 ###### Artículo 29.
 
-Con el fin de impulsar, fomentar y desarrollar la cultura física y el deporte, los municipios deberán participar, en el ámbito de sus atribuciones, en el Sistema Estatal de Cultura Física y Deporte, en coordinación con el IDEY y el Ejecutivo Estatal, en los términos de esta Ley y su Reglamento.
+Cuando el sentenciado no pudiere pagar la multa o solamente pudiera pagar parte de ella, el juez fijará en sustitución los días de prisión que correspondan según las condiciones económicas del reo, no excediendo de dos meses.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE JULIO DE 2017)</small>
-
-### CAPÍTULO XII. Del Deporte Profesional
+### CAPITULO VI. Reparación del daño
 
 ###### Artículo 30.
 
-Los municipios del estado tendrán, además de las establecidas en el artículo 35 de la ley general, las siguientes atribuciones:
+La reparación del daño comprende:
 
-I.- Determinar las necesidades en materia deportiva y crear los medios para satisfacerlas;
+I. La restitución de la cosa obtenida por el delito y sus frutos, y si no fuere posible, el pago del precio correspondiente; y,
 
-II.- Otorgar los estímulos y apoyos para el desarrollo y fomento del deporte;
-
-III.- Promover la creación y apoyar a los organismos locales que desarrollen actividades deportivas y que estén incorporadas al Sistema Estatal de Cultura Física y Deporte;
-
-IV.- Prever que las personas con discapacidad, de la tercera edad y demás grupos especiales, tengan las facilidades e instalaciones deportivas adecuadas para su libre acceso y desarrollo;
-
-V.- Organizar y coordinar las actividades deportivas en las colonias, fraccionamientos, comisarías y centros de población a través de las asociaciones y juntas de vecinos, con el fin de fomentar y desarrollar el deporte;
-
-VI.- Asignar los recursos propios necesarios para el logro de los fines anteriormente señalados;
-
-VII.- Vigilar el cumplimiento de las normas de seguridad establecidas por esta ley y su reglamento para las personas que presten servicio de guía e instrucción en deportes de alto riesgo, y
-
-VIII.- Las demás que le otorguen otras leyes y disposiciones jurídicas aplicables.
-
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
+II. El resarcimiento del daño material y moral causado, así como la indemnización del perjuicio ocasionado.
 
 ###### Artículo 31.
 
-Los municipios del estado deberán establecer sus sistemas de cultura física y deporte, los cuales tendrán por objeto propiciar la coordinación y colaboración para el desarrollo, en sus respectivos ámbitos de competencia, de instrumentos, políticas y acciones en la materia.
+La reparación del daño que deba ser hecha por el delincuente tiene carácter de sanción pública.
 
-Los sistemas municipales de cultura física y deporte estarán integrados por los consejos municipales, los órganos encargados de la cultura física y el deporte en sus respectivos ámbitos de competencia y las asociaciones y sociedades deportivas municipales.
-
-Los consejos municipales tendrán por objeto propiciar la efectiva coordinación entre los municipios, el estado y los sectores social y privado, para el desarrollo de la cultura física y el deporte, y se organizarán y funcionarán, en lo conducente, de forma similar al consejo estatal y en los términos que establezcan sus respectivos reglamentos internos.
-
-Los municipios deberán contar con un programa municipal de cultura física y deporte, el cual podrá ser revisado y, en su caso, modificado, con la participación del consejo municipal, durante el mes de septiembre de cada año en que dure la administración municipal.
-
-Los consejos municipales de cultura física y del deporte deberán coordinar a las asociaciones de vecinos, colonias, fraccionamientos, centros de población, comités y ligas deportivas, así como las actividades deportivas que estos realicen, de acuerdo con el programa municipal de cultura física y deporte.
-
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
+Cuando la reparación sea exigible a terceros, tendrá el carácter de responsabilidad civil, y se podrá reclamar en forma conexa a la responsabilidad penal o con exclusión de ésta. En el segundo caso, la acción se ejercitará ante el juez civil competente.
 
 ###### Artículo 32.
 
-Los ayuntamientos del estado tendrán la obligación de crear su reglamento municipal de cultura física y deporte, teniendo especial atención en lo establecido en esta ley así como lo dispuesto en el programa especial.
+La reparación del daño material será fijada por los jueces según el que sea preciso resarcir, tomando en consideración las pruebas obtenidas en el proceso.
+
+Cuando el daño se cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal o parcial temporal, a falta de pruebas, la cuantía de la reparación se determinará atendiendo a las disposiciones que sobre riesgos establezca la Ley Federal del Trabajo.
+
+Si el ofendido no percibía utilidad o salario, o no pudiere determinarse éste, el monto de la reparación del daño se fijará teniendo en cuenta el salario mínimo vigente en el lugar de residencia del mismo.
 
 ###### Artículo 33.
 
-Los ayuntamientos formularán los planes y programas de Fomento Deportivo que sean pertinentes. Al efecto, destinarán partidas presupuestales suficientes para cumplir sus metas y objetivos.
-
-De acuerdo con lo anterior, podrán celebrar los convenios de coordinación y colaboración necesarios para lograr la participación activa de los sectores público y privado en su localidad.
-
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
+El monto de la reparación del daño moral será fijado por el juzgador a su prudente arbitrio, teniendo en cuenta las características del delito, la capacidad económica del obligado, la lesión moral sufrida por la víctima, sus condiciones personales y cualquier otro aspecto que tenga relevancia para este fin.
 
 ###### Artículo 34.
 
-Las autoridades municipales, por conducto del organismo competente, deberán facilitar el uso de las instalaciones deportivas en su ámbito territorial y garantizar su plena utilización; para tal efecto, participarán, en los términos del capítulo V de esta ley, en las tareas relativas al inventario e inscripción en el registro estatal.
+En orden de preferencia, tienen derecho a la reparación del daño:
+
+I. El ofendido;
+
+II. El cónyuge, los hijos menores de edad y mayores incapacitados;
+
+III. Los que dependían económicamente del ofendido; y,
+
+IV. Sus herederos.
 
 ###### Artículo 35.
 
-Toda persona física que se dedique a la práctica de alguna disciplina deportiva de manera amateur, podrá registrarse en el Sistema Estatal de Cultura Física y Deporte, siempre y cuando cumpla con los requisitos de esta ley.
+Están obligados a reparar el daño:
 
-Las personas morales, agrupaciones de personas físicas y entidades sociales, podrán formar libremente organismos deportivos, que deberán registrarse ante el IDEY, a fin de ser integrados al Sistema Estatal de Cultura Física y Deporte y, a través de este, al Sistema Nacional de Cultura Física y Deporte, a efecto de ser legalmente reconocidas por las autoridades competentes y estar en posibilidad de obtener los estímulos y apoyos que se otorguen en los términos y condiciones establecidos en la ley general y esta ley.
+I. El delincuente;
 
-Serán registradas por el IDEY como asociaciones deportivas las personas morales que, independientemente de su naturaleza jurídica, denominación o estructura, tengan por objeto social la práctica, la promoción o el desarrollo del deporte sin fines preponderantemente económicos.
+II. Los ascendientes, por los delitos cometidos por sus descendientes que estén bajo su patria potestad;
 
-Por otra parte, serán registradas por el IDEY como sociedades deportivas las personas morales que, independientemente de su naturaleza jurídica, denominación o estructura, tengan por objeto social la práctica, la promoción o el desarrollo del deporte con fines preponderantemente económicos.
+III. Los tutores y los custodios, por los delitos de los incapacitados que se hallen bajo su autoridad;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE JULIO DE 2017)</small>
+IV. Los directores o propietarios de internados, colegios o talleres que reciban en su establecimiento discípulos o aprendices menores de 16 años, por los delitos que ejecuten éstos durante el tiempo que se hallen bajo el cuidado de aquéllos;
+
+V. Las personas físicas, las jurídicas y las que se ostenten con este último carácter, por los delitos que cometa cualquier persona vinculada con aquéllas por una relación laboral, con motivo y en el desempeño de sus servicios;
+
+VI. Las personas morales, o que se ostenten como tales, por los delitos de sus socios, gerentes o administradores, y en general por quienes actúen en su representación.
+
+Se exceptúa de esta regla a la sociedad conyugal, pues cada cónyuge responderá con sus bienes propios de la reparación del daño que origine su conducta delictiva;
+
+VII. Los dueños de mecanismos, instrumentos, aparatos, vehículos o substancias peligrosas, por los delitos que en ocasión de su tenencia, custodia o uso, cometan las personas que los manejen o tengan a su cargo; y,
+
+VIII. El Estado y los municipios, subsidiariamente, por sus funcionarios y empleados, cuando el delito se cometa con motivo o en el desempeño de sus funciones.
 
 ###### Artículo 36.
 
-Para los efectos de esta ley, las asociaciones deportivas se clasifican en:
-
-I.- Los clubes deportivos: son organismos constituidos con el fin de promover uno o más deportes, pudiendo integrarse a la Asociación Estatal que corresponda a cada deporte que se practique en sus instalaciones. Esta afiliación puede ser en forma directa o a través de una liga deportiva;
-
-II.- Las ligas deportivas: son organizaciones que en cada especialidad cuenten con la afiliación de clubes y equipos con el objeto de realizar competencia en forma sistemática y permanente, y
-
-> <small>(REFORMADA, D.O. 7 DE JULIO DE 2017)</small>
-
-III.- Las asociaciones deportivas: son las organizaciones estatales o municipales que agrupan ligas o clubes deportivos, y que tienen un programa, un calendario, una organización autónoma y capacidad para convocar a competencias y eventos oficiales, obteniendo de ellos la representación del estado en campeonatos nacionales, bajo el control y supervisión del consejo estatal y el IDEY.
+Los responsables de un delito están obligados solidariamente a cubrir el importe de la reparación del daño.
 
 ###### Artículo 37.
 
-También podrán pertenecer al Sistema Estatal de Cultura Física y Deporte, los organismos deportivos que constituyan agrupaciones de individuos que tengan por objeto principal el desarrollo de actividades deportivas vinculadas a la cultura física, a la educación física, al deporte y al esparcimiento, aun cuando su fin no implique necesariamente la competencia deportiva, siempre y cuando su actividad principal sea el deporte sin fines de lucro.
-
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
+La obligación de pagar el importe de la reparación del daño es preferente a cualesquiera otra de las obligaciones personales que se hubiesen contraído con posterioridad a la comisión del delito.
 
 ###### Artículo 38.
 
-La participación de los equipos, clubes y ligas deportivas que formen parte del Sistema Estatal de Cultura Física y Deporte tendrá carácter obligatorio en los torneos que se convoquen con el fin de formar las selecciones municipales, como etapa previa a los campeonatos estatales selectivos para representar al estado.
+La reparación del daño será hecha, sin afectar los derechos sobre alimentos de las personas que dependan económicamente del delincuente, quienes en el supuesto de la fracción II del artículo 34, se encontrarán en el mismo grado de prelación.
 
 ###### Artículo 39.
 
-El Poder Ejecutivo del Estado reconocerá y estimulará las acciones de organización y promoción desarrolladas por las Asociaciones y Sociedades Deportivas, a fin de asegurar el acceso de la población a la práctica de la cultura física y el deporte.
-
-En el ejercicio de sus respectivas funciones en materia de cultura física y deporte, el sector público, y privado se sujetará en todo momento, a los principios de colaboración responsable entre todos los interesados bajo la coordinación del IDEY.
+El ejercicio de la acción penal lleva implícito pedimento de aseguramiento de bienes, la formulación de conclusiones acusatorias y solicitud de condena al pago de la reparación del daño.
 
 ###### Artículo 40.
 
-Son derechos del deportista:
+La reparación del daño se cubrirá con los bienes del responsable y subsidiariamente con el Importe de la caución que se otorgue para que aquél obtenga su libertad provisional, o el beneficio de la condena condicional, en caso de que se haga efectiva. Si lo anterior no es suficiente, el reo seguirá obligado a pagar el saldo insoluto.
 
-I.- Practicar el o los deportes de su elección, utilizando las instalaciones deportivas de propiedad estatal o municipal, en los términos de ley; solicitando los permisos correspondientes a las unidades administrativas o autoridades competentes;
-
-II.- Asociarse, para la defensa de sus derechos deportivos;
-
-III.- Recibir, en los términos de ley, facilidades para su incorporación y promoción en los diversos niveles y modalidades del Sistema Estatal de Educación, tratándose de deportistas sobresalientes, de talento o seleccionados en certámenes de alto rendimiento;
-
-IV.- Recibir asistencia y entrenamiento deportivo en competencias oficiales, en el caso de que tengan la calidad de seleccionados estatales;
-
-V.- Participar responsablemente en competencias, juegos o eventos deportivos reglamentarios u oficiales respectivamente, en el marco del Sistema Estatal de Cultura Física y Deporte;
-
-VI.- Utilizar con los accesos y adecuaciones pertinentes, las instalaciones y equipos deportivos, si se trata de personas con discapacidad y demás poblaciones especiales;
-
-VII.- Participar en las consultas públicas a que se convoque para la elaboración de los programas y reglamentos de su especialidad;
-
-VIII.- Ejercer su derecho de voto en el seno de su asociación u organización a la que pertenezca, en los términos de la normatividad aplicable;
-
-IX.- Desempeñar cargos directivos, siempre y cuando haya sido elegido en asamblea de clubes, ligas, consejos deportivos, asociaciones o federaciones deportivas;
-
-X.- Solicitar, en los términos y condiciones de la normatividad aplicable, toda clase de estímulos en becas, premios, reconocimientos y recompensas en dinero o en especie, de acuerdo a su desempeño, y
-
-XI.- Las demás que establezcan en su favor las leyes, decretos y reglamentos aplicables.
+Si no se logra hacer efectivo todo el importe de la reparación del daño y el de la multa, se cubrirá de preferencia aquélla y se distribuirá entre los ofendidos, proporcionalmente por los daños que hubieren sufrido.
 
 ###### Artículo 41.
 
-Son obligaciones del deportista:
-
-I.- Desempeñar eficaz y adecuadamente su actividad física y deportiva, a fin de constituir un ejemplo para la niñez, la juventud y la sociedad yucateca;
-
-II.- Cumplir cabalmente con los estatutos y reglamentos de su deporte o especialidad;
-
-III.- En caso de estar comprendido entre quienes reciban estímulos de becas, en dinero o en especie por parte del Estado o municipios, asistir a las competencias de distintos niveles, al ser requerido;
-
-> <small>(REFORMADA, D.O. 7 DE JULIO DE 2017)</small>
-
-IV.- Comunicar, inmediatamente y por escrito, al IDEY, cuando tengan interés de formar parte en las organizaciones o clubes deportivos profesionales, tratándose de deportistas registrados como atletas de alto rendimiento en el registro estatal;
-
-V.- Representar a su Municipio, estado y país en cualquier evento deportivo al que fuere convocado;
-
-VI.- Asistir a las reuniones, premiaciones y estímulos, a los que fuese convocado;
-
-VII.- Cuidar y vigilar el adecuado mantenimiento de las instalaciones en que practique su deporte;
-
-VIII.- Fomentar la práctica del deporte en todas las formas y medios a su alcance;
-
-IX.- No usar substancias prohibidas por los organismos deportivos nacionales e internacionales;
-
-X.- Observar y llevar una conducta ética y honorable dentro y fuera de la actividad deportiva que practique, y
-
-XI.- Las demás que sean señaladas por la presente Ley y su Reglamento.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 41 bis.- Corresponde al IDEY y a las instituciones municipales competentes otorgar y promover la entrega, en el ámbito de sus respectivas competencias, de ayudas, subvenciones y reconocimientos a deportistas, entrenadores, personal técnico y organismos encargados del desarrollo de la cultura física y el deporte, en términos de lo dispuesto en esta ley y, en su caso, en la convocatoria correspondiente.
-
-Dicha información deberá hacerse pública en términos de lo establecido en la Ley General de Transparencia y Acceso a la Información Pública.
+Si las personas que tienen derecho acreditado a la reparación del daño renuncian a ella, su importe se aplicará en favor del Estado.
 
 ###### Artículo 42.
 
-Las personas físicas o morales, así como las agrupaciones que realizan actividades destinadas al desarrollo, fomento e impulso al deporte y que pertenezcan al Sistema Estatal de Cultura Física y Deporte, podrán solicitar alguno o algunos de los siguientes beneficios:
+La autoridad judicial, tratándose del pago de la reparación del daño, podrá fijar plazos y autorizar pagos parciales, siempre que el término señalado no exceda de un año.
 
-I.- Apoyo económico;
+En cuanto a la multa, será la autoridad administrativa encargada de su cobro, la facultada para conceder los plazos que estime convenientes.
 
-II.- Material deportivo;
-
-III.- Uso de las instalaciones deportivas que sean propiedad estatal o de los municipios integrados al Sistema Estatal de Cultura Física y Deporte;
-
-IV.- Becas académicas, con base a su rendimiento deportivo;
-
-V.- Becas económicas, con base a un estudio socio económico;
-
-VI.- Capacitación de recursos humanos;
-
-VII.- Asesoría técnica, y
-
-VIII.- Recibir los trofeos, premios o reconocimientos que fueren otorgados por los organismos deportivos, cuando se haya cubierto lo señalado en las bases y lineamientos respectivos.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O. 7 DE JULIO DE 2017)</small>
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Dicha información deberá hacerse pública en términos de lo establecido en la Ley General de Transparencia y Acceso a la Información Pública.
-
-### CAPÍTULO XII bis. De la Cultura Física
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 51 bis.- El estado y los municipios se coordinarán entre sí y con los sectores social y privado para, en el ámbito de sus respectivas competencias, impulsar la inclusión y práctica de la cultura física en todos los niveles de educación como elemento fundamental para el desarrollo armónico e integral del ser humano; para tal efecto, implementarán las acciones establecidas en el artículo 88 de la ley general.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 51 ter.- El estado y los municipios planificarán y propiciarán, en sus respectivos ámbitos de competencia, el óptimo aprovechamiento y uso de las instalaciones públicas que dispongan, para la práctica de la cultura física y el deporte por parte de la comunidad en general.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 51 quater.- Los titulares de las dependencias y entidades de la Administración Pública estatal tendrán la obligación de fomentar y promover la práctica de la cultura física y el deporte entre su personal, a efecto de contribuir al control del sobrepeso y la obesidad, al mejoramiento de su salud y su estado físico y mental, así como, en general, al desarrollo social.
-
-Para ello, deberán establecer las disposiciones internas que permitan que las condiciones laborales de la institución a su cargo sean compatibles con la activación física, el entrenamiento y la participación en competiciones oficiales.
+### CAPITULO VII. Decomiso y aplicación de los instrumentos y efectos del delito
 
 ###### Artículo 43.
 
-El IDEY gestionará el patrocinio de actividades deportivas, promoviendo para este fin la participación de los sectores público y privado.
+Los instrumentos y efectos del delito, se decomisarán si son de uso prohibido. Los instrumentos de uso lícito se decomisarán al acusado solamente cuando fuere sentenciado por delito doloso o preterintencional, con excepción de las armas, que serán decomisadas aún tratándose del delito culposo.
+
+Si pertenecen a terceros, sólo se decomisarán cuando hayan sido empleados para fines delictuosos con conocimiento de su dueño.
 
 ###### Artículo 44.
 
-El IDEY y los ayuntamientos, en sus respectivas competencias y en concertación con los sectores públicos y privado, procederán a eficientar el aprovechamiento de las instalaciones deportivas existentes en el territorio del Estado, programando su uso de tal manera que presten servicios al mayor número de deportistas. Estas instalaciones deberán ser puestas a disposición de la comunidad para su uso público, con la salvedad de los casos de infraestructura especializada para deportistas de alto rendimiento o de iniciación.
+Si los instrumentos o efectos de que habla la primera parte del artículo anterior, sólo sirven para delinquir, o son sustancias nocivas o peligrosas, se destruirán después de que cause ejecutoria la sentencia.
 
-El uso de las instalaciones deportivas debe ser preferentemente para eventos deportivos programados, los cuales en todo momento deberán respetarse; cuando el uso diverso genere ingresos, deberá destinarse un porcentaje para mantener, mejorar e incrementar dichas instalaciones.
+Los instrumentos o efectos decomisados que sean de comercio, lícito, podrán venderse para cubrir la reparación del daño. En caso contrario, podrán ser utilizados o destruidos por el Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE JULIO DE 2017)</small>
-
-### CAPÍTULO XIII. Medicina del Deporte y Ciencias Aplicables
+### CAPITULO VIII. Amonestación
 
 ###### Artículo 45.
 
-Es de interés público la construcción, la conservación, la ampliación, la adecuación y el mantenimiento de las instalaciones que permitan atender adecuadamente las demandas sociales para el desarrollo de la activación y cultura físicas, y el deporte en el estado.
+La amonestación consiste en la advertencia que el juez hace al sentenciado, en diligencia formal, explicándole las consecuencias del delito que cometió, exhortándolo a la enmienda y previniéndolo de las sanciones que se le impondrían en caso de reincidencia. La amonestación se hará en privado o públicamente, a juicio del juez.
 
-El Poder Ejecutivo del Estado y los ayuntamientos, determinarán los espacios destinados a la práctica deportiva y de la recreación pública, con apego a lo dispuesto en los ordenamientos legales y los planes, programas o disposiciones administrativas sobre desarrollo urbano.
-
-Los ayuntamientos realizarán las mejoras necesarias para que las instalaciones deportivas tengan espacios apropiados para las personas con discapacidad, de la tercera edad y demás poblaciones especiales, así como en la construcción de nuevas instalaciones deportivas se deberán tomar en cuenta las que se requieran para los deportes infantil y adaptado para personas con discapacidad, observándose las especificaciones técnicas y arquitectónicas para su desarrollo, así como las disposiciones legales aplicables, promoviendo su participación en el Sistema Estatal de Cultura Física y Deporte y otorgándoles los estímulos y apoyos a que se refiere la presente Ley.
-
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
-
-### CAPÍTULO XIV. Del Dopaje en el Deporte
+### CAPITULO IX. Apercibimiento y caución de no ofender
 
 ###### Artículo 46.
 
-El IDEY supervisará la planificación y construcción de las instalaciones de cultura física y deporte financiadas con recursos provenientes del erario público, las cuales deberán realizarse tomando en cuenta las especificaciones técnicas de los deportes y actividades que se proyectan desarrollar, así como los requerimientos de construcción y seguridad determinados en la Norma Oficial Mexicana correspondiente que para tal efecto expida la dependencia en la materia, para el uso normal de estas por parte de personas con alguna discapacidad física, garantizando en todo momento que se favorezca su utilización multifuncional, teniendo en cuenta las diferentes disciplinas deportivas, la máxima disponibilidad de horario y los distintos niveles de práctica de los ciudadanos. Estas instalaciones deberán ser puestas a disposición de la comunidad para su uso público.
-
-Los productos y aprovechamientos obtenidos por el usufructo de estas instalaciones serán utilizados para su mantenimiento y conservación.
-
-Dicha información deberá hacerse pública en términos de lo establecido en la Ley General de Transparencia y Acceso a la Información Pública.
-
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
+El apercibimiento consiste en la conminación que el juez hace a la persona, cuando se tema con fundamento que está en disposición de cometer un nuevo delito, ya sea por su actitud o por amenazas, de que en caso de cometer el que se propone u otro semejante, será considerado como reincidente.
 
 ###### Artículo 47.
 
-Las instalaciones deportivas del estado deberán estar inscritas en el registro estatal así como en el Registro Nacional de Cultura Física y Deporte.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 47 bis.- Las instalaciones destinadas a la cultura física y el deporte deberán proyectarse, construirse, administrarse y operarse de conformidad con las disposiciones legales y normativas aplicables, a efecto de que impidan o limiten al máximo las posibles manifestaciones de violencia, discriminación y otras conductas antisociales o delictivas, y, en consecuencia, permitan proteger la integridad y seguridad de los asistentes y participantes.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 47 ter.- En el uso de las instalaciones con fines de espectáculo, deberán tomarse las providencias necesarias que determinen la ley general, esta ley, la Comisión Especial contra la Violencia en el Deporte y la Comisión Estatal contra la Violencia en el Deporte.
-
-Asimismo, deberán respetarse los calendarios y programas previamente establecidos, así como acreditar, por parte de los organizadores de los eventos deportivos, que se cuenta con póliza de seguro vigente que cubra la reparación de los daños a personas y bienes que pudieran ocasionarse, cuando así se acredite su responsabilidad y que sea sujeto de ser asegurado.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 47 quater.- Los órganos deportivos municipales deberán vigilar que las instalaciones destinadas a la celebración de eventos deportivos masivos o con fines de espectáculo que se encuentren dentro de sus respectivas jurisdicciones cuenten con las condiciones de infraestructura y el equipamiento de seguridad y protección civil que establezcan las disposiciones legales y normativas aplicables.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 7 DE JULIO DE 2017)</small>
+Cuando los jueces estimen que no es suficiente el apercibimiento, exigirán además al acusado una caución de no ofender.
 
 ###### Artículo 48.
 
-La comisión de arbitraje tiene por objeto conocer y resolver las inconformidades que interpongan los integrantes del sistema estatal o las personas inscritas en el registro estatal contra las resoluciones emitidas por las autoridades correspondientes, así como fungir como panel de arbitraje y coadyuvar, a través de la mediación y la conciliación, en la solución de las controversias que se susciten o puedan suscitarse, en el ámbito jurídico del deporte estatal, entre autoridades, organismos, directivos, deportistas, entrenadores y demás personal relacionado.
+La caución de no ofender consiste en la garantía que el juez puede exigir al sentenciado, en los casos que estime conveniente, para que no cause un nuevo daño al ofendido, la cual se fijará atendiendo a sus condiciones personales.
 
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
+Si el nuevo daño se realiza, la garantía se hará efectiva, en favor del ofendido.
 
-Artículo 48 bis.- La comisión de arbitraje, para el cumplimiento de su objeto, tendrá las siguientes atribuciones:
+Si el sentenciado prueba que no puede otorgar la garantía, el juez la substituirá por vigilancia de la autoridad.
 
-I. Conocer y resolver las impugnaciones que, mediante recurso de apelación, realicen los integrantes del Sistema Estatal de Cultura Física y Deporte o las personas inscritas en el registro estatal en contra de los actos o las omisiones que hayan efectuado las autoridades, asociaciones o sociedades deportivas y que afecten los derechos establecidos, a favor del apelante, en la ley general, en esta ley o en las demás disposiciones legales y normativas aplicables;
-
-II. Conceder, dentro del trámite del recurso de apelación, la suspensión provisional o, en su caso, definitiva del acto impugnado;
-
-III. Efectuar, dentro del trámite del recurso de apelación, la suplencia de la deficiencia de la queja, cuando el impugnante no sea directivo, autoridad, asociación o sociedad deportiva;
-
-IV. Fungir como conciliador dentro del trámite del recurso de apelación;
-
-V. Intervenir como panel de arbitraje en las controversias que se susciten o puedan suscitarse entre autoridades, asociaciones, sociedades, directivos, deportistas, entrenadores o personal técnico, de conformidad con el reglamento de esta ley;
-
-VI. Desarrollar, por sí o por terceros, procesos de mediación o conciliación, para permitir la solución de controversias que se susciten o puedan suscitarse entre autoridades, asociaciones, sociedades, directivos, deportistas, entrenadores o personal técnico, de conformidad con el reglamento de esta ley, e
-
-VII. Imponer correcciones disciplinarias o medidas de apremio a todas aquellas personas que se nieguen a acatar y ejecutar o que no acaten y ejecuten, en sus términos, las resoluciones emitidas por ella.
-
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
-
-### CAPÍTULO XIV bis. De la Prevención de la Violencia en el Deporte
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 75 bis.- El estado y los municipios deberán propiciar, en sus respectivos ámbitos de competencia, la prevención y atención de la violencia en el deporte.
-
-Para efectos de esta ley, se entiende por violencia en el deporte, de forma enunciativa y no limitativa, la comisión de los actos o las conductas establecidos en el artículo 138 de la ley general.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 75 ter.- La Comisión Estatal contra la Violencia en el Deporte es un órgano colegiado que tiene por objeto definir y conducir las políticas para prevenir y atender la violencia en el deporte en el estado.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 75 quater.- La Comisión Estatal contra la Violencia en el Deporte tendrá, para el cumplimiento de su objeto, las siguientes atribuciones:
-
-I. Determinar la implementación de políticas, estrategias y acciones para prevenir y atender la violencia en el deporte;
-
-II. Proponer que en el programa especial y en los instrumentos de planeación que sobre cultura física y deporte se elaboren, se considere la prevención y atención de la violencia en el deporte;
-
-III. Impulsar la efectiva coordinación entre órdenes de gobierno para la prevención y atención de la violencia en el deporte;
-
-IV. Establecer los requisitos mínimos y las normas que deberán cumplir las instalaciones donde se lleven a cabo eventos deportivos, sin perjuicio de los determinados por la Comisión Especial contra la Violencia en el Deporte y protección civil;
-
-V. Aprobar su programa anual de trabajo y la normativa interna que requiera para el cumplimiento de su objeto;
-
-VI. Desarrollar campañas de difusión que permitan concientizar y sensibilizar a la población sobre la importancia de prevención de la violencia y la no discriminación en el deporte, para que se constituya como un referente de integración y convivencia social;
-
-VII. Brindar asesoría y apoyo, en el ámbito de su competencia, a los organizadores de eventos deportivos y a las instituciones de protección civil y seguridad pública, principalmente, con respecto a la prevención y atención de la violencia en el deporte;
-
-VIII. Emitir recomendaciones y proponer la implementación de medidas para la prevención de la violencia y la no discriminación en el deporte, así como para la protección de personas, instalaciones y bienes;
-
-IX. Informar a las autoridades competentes sobre los riegos existentes durante la celebración de eventos deportivos que puedan generar actos de violencia, y solicitar la participación de aquéllas que considere necesarias para su prevención y la protección de personas y bienes;
-
-X. Fomentar la elaboración de estudios e investigaciones que permitan conocer las causas y los efectos de la violencia en el deporte, y proponer medidas para su prevención o atención;
-
-XI. Integrar y difundir información cuantitativa y cualitativa sobre la violencia en el deporte en el estado, y
-
-XII. Vigilar el cumplimiento de la ley general y de esta ley, así como de las demás disposiciones legales y normativas aplicables.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 75 quinquies.- La Comisión Estatal contra la Violencia en el Deporte estará integrada por:
-
-I. El titular del IDEY, quien será el presidente;
-
-II. Un representante de la Secretaría General de Gobierno, a través de la Dirección de Protección Civil;
-
-III. Un representante de la Secretaría de Educación;
-
-IV. Un representante de la Secretaría de Seguridad Pública;
-
-V. Los representantes de las asociaciones y sociedades deportivas registradas en el estado, y
-
-VI. Tres representantes de los órganos municipales de cultura física y deporte.
-
-El presidente designará al secretario técnico de esta comisión, quien participará en las sesiones únicamente con derecho a voz.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 75 sexies.- El Reglamento Interno de la Comisión Estatal contra la Violencia en el Deporte establecerá las disposiciones específicas que regulen su organización y funcionamiento.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 75 septies.- Quienes, en su carácter de asistente o espectador, acudan a la celebración de un evento deportivo deberán acatar las disposiciones legales y normativas relacionadas con la prevención y atención de la violencia en el deporte, así como las indicaciones que, en su caso, emitan el organizador o las autoridades competentes.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 75 octies.- Los directivos, deportistas, entrenadores, árbitros, jueces y el personal técnico relacionado con la cultura física y el deporte deberán respetar y actuar conforme a las disposiciones que, para la prevención de la violencia y la no discriminación en el deporte, hayan emitido la Comisión Especial contra la Violencia en el Deporte, la Comisión Estatal contra la Violencia en el Deporte o la asociación o sociedad correspondiente.
+### CAPITULO X. Suspensión, Privación e Inhabilitación de Derechos
 
 ###### Artículo 49.
 
-La comisión de arbitraje estará integrada por un presidente y cuatro miembros, designados por el gobernador, quienes deberán contar con título de licenciado en derecho, amplio conocimiento del ámbito deportivo y reconocido prestigio y calidad moral.
+La suspensión consiste en la pérdida temporal de derechos, funciones, cargos, empleos o comisiones. La privación es la pérdida definitiva de los mismos. La inhabilitación implica una incapacidad legal temporal o definitiva para obtener y ejercer aquellos.
 
-Ninguno de los integrantes de la comisión de arbitraje podrá tener cargo alguno dentro de cualquier autoridad, asociación, sociedad o cualquier otro órgano deportivo, a efecto de asegurar su total autonomía en la resolución de los recursos que conozca.
+La suspensión de derechos se origina:
 
-El presidente designará, de entre los integrantes de la comisión de arbitraje, al secretario técnico, quien participará en las sesiones únicamente con derecho a voz.
+I. Por ministerio de ley, si es consecuencia necesaria de otra sanción; y,
 
-El presidente y los integrantes de la comisión de arbitraje durarán tres años en su encargo, pudiendo ser reelectos hasta por un periodo más.
+II. Por imponerse como sanción independiente.
 
-Los cargos de los integrantes de la comisión de arbitraje son de carácter honorífico, por lo tanto quienes los ocupen no devengarán retribución alguna por su desempeño.
+En el primer caso, la suspensión comienza y concluye con la sanción de que es consecuencia.
 
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 49 bis.- El Reglamento Interno de la Comisión de Apelación y Arbitraje del Deporte en el Estado de Yucatán establecerá las disposiciones específicas que regulen su organización y funcionamiento.
+En el segundo caso, si la suspensión no va acompañada de sanción privativa de la libertad, se empezará a contar desde que cause ejecutoria la sentencia que la impone y, caso contrario, comenzará al quedar compurgada la sanción privativa de la libertad.
 
 ###### Artículo 50.
 
-Se entienden como actividades del deporte profesional aquellas de promoción, organización, desarrollo o participación en materia deportiva que se realicen con fines de lucro, en donde los atletas cobran un sueldo por contrato o nómina para el ejercicio del deporte.
+La sanción de prisión suspende los derechos políticos y los de tutor, curador, apoderado, defensor, albacea, perito, depositario, interventor judicial o en quiebras, síndico, árbitro y representante de ausente. La suspensión principiará desde que cause ejecutoria la sentencia respectiva y durará todo el tiempo de la condena.
 
-### CAPÍTULO XV. De los Riesgos y Responsabilidad Civil
+### CAPITULO XI. PUBLICACION ESPECIAL DE SENTENCIA
 
 ###### Artículo 51.
 
-Los deportistas que practiquen algún deporte profesional se regirán por lo establecido en la Ley Federal del Trabajo.
+La publicación especial de sentencia, consiste en la inserción total o parcial de ella en uno o dos periódicos que circulen en la localidad, los cuales serán escogidos por el juez, quien resolverá la forma en que deberá hacerse. Los gastos originados con tal motivo serán por cuenta del Estado si el juez estima pertinente la publicación, pero si lo piden el sentenciado o el ofendido éstos cubrirán el gasto respectivo.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 7 DE JULIO DE 2017)</small>
+El juez podrá, a petición y a costa del ofendido, ordenar la publicación de la sentencia en entidad diferente o en algún otro periódico.
 
 ###### Artículo 52.
 
-El IDEY promoverá, coordinará e impulsará, en conjunto con la Secretaría de Educación, la enseñanza, investigación y difusión del desarrollo tecnológico, la aplicación de los conocimientos científicos en materia de Cultura Física y Deporte, Medicina Deportiva, Biomecánica, Control del Dopaje, Psicología del Deporte, Nutrición y demás ciencias aplicadas al deporte, así como las que se requieran para la práctica óptima de la cultura física y deporte así como el establecimiento y consecución de centros de enseñanza y capacitación de estas actividades.
+La publicación de sentencia podrá ordenarse igualmente a petición y a costa del sentenciado cuando éste fuere absuelto, el hecho imputado no constituya delito o él no lo hubiere cometido.
 
 ###### Artículo 53.
 
-En el desarrollo de la investigación y conocimientos científicos, deberán participar los integrantes del Sistema, quienes podrán asesorarse de universidades públicas o privadas e instituciones de educación superior del Estado, de acuerdo a los lineamientos que para este fin se establezcan en el Reglamento de la presente ley. El IDEY coordinará las acciones necesarias a fin de que los integrantes del Sistema obtengan los beneficios que por el desarrollo e investigación en estas ciencias se adquieran.
+Si el delito por el que se impuso la publicación de sentencia, fue cometido por medio de la prensa, además de la publicación a que se refieren los artículos anteriores, se hará también en el periódico empleado para cometer el delito, con el mismo tipo de letra, igual color de tinta y en el mismo lugar. El juez tomará en estos casos las medidas necesarias para que la sentencia referida se publique en forma efectiva.
 
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
-
-### CAPÍTULO XVI. De las Responsabilidades, Sanciones y Recursos Administrativos
+### CAPITULO I. Reglas Generales
 
 ## TITULO QUINTO. APLICACION DE SANCIONES
 
@@ -1013,175 +497,177 @@ En el desarrollo de la investigación y conocimientos científicos, deberán par
 
 ###### Artículo 54.
 
-El IDEY participará, en coordinación con instituciones de los sectores público, privado y social, en la instalación de escuelas y centros, y en el desarrollo de programas y acciones para la formación y capacitación de profesionales y técnicos en el campo de la cultura física y el deporte. En el diseño de estas acciones, se deberá considerar la inclusión y atención de personas con discapacidad.
+Los jueces y tribunales al pronunciar la sentencia que corresponda, fijarán las sanciones que estimen justas, dentro de los límites establecidos por este Código, conforme a su prudente arbitrio, apreciando las condiciones personales del delincuente, el tiempo que estuvo detenido por no haber podido otorgar caución para disfrutar de su libertad provisional, su peligrosidad, los móviles del delito, los medios empleados en su desarrollo, los daños materiales y morales causados por el mismo, el peligro corrido y todas las circunstancias de ejecución.
+
+El juez deberá tomar conocimiento directo del delincuente, del ofendido y de la ejecución del hecho, en la medida requerida para cada caso.
 
 ### CAPITULO III. Sanciones en los delitos culposos
 
 ###### Artículo 55.
 
-El IDEY promoverá y gestionará conjuntamente con las asociaciones deportivas estatales la formación, capacitación, actualización y certificación de recursos humanos para la enseñanza y práctica de actividades de cultura física y deporte.
+Al responsable de una tentativa punible o de un delito imposible, se le aplicará hasta las dos terceras partes de la sanción que debiera imponérsele si el delito se hubiere consumado.
 
 ### CAPITULO IV. Sanciones en los delitos preterintencionales
 
 ###### Artículo 56.
 
-Las instituciones y organizaciones de los sectores público y privado están obligadas a prestar el servicio médico que se requiera durante las prácticas y competiciones oficiales que promuevan y organicen.
+El delito cometido culposamente será sancionado con prisión de tres días a cinco años y suspensión hasta cinco años o privación definitiva del derecho para ejercer profesión, oficio, o la actividad que dio origen a la conducta culposa.
 
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
+Si al delito doloso corresponde sanción que incluya una pena no corporal, aprovechará esa circunstancia al delincuente por culpa.
+
+Los delitos de homicidio y de lesiones culposos al conducir automóviles, camiones, motocicletas o cualquier clase de vehículos de motor terrestres, se sancionarán en la siguiente forma: si se trata de homicidio, con prisión de catorce meses a siete años y privación definitiva o temporal hasta por cinco años del derecho para manejar; si se trata de lesiones, se impondrá hasta la mitad de la pena que correspondería si el delito fuere doloso y privación de derechos para manejar hasta por tres años.
+
+Cuando a consecuencia de la conducta culposa del conductor de alguno de los vehículos señalados en el párrafo anterior, se cause homicidio y el autor del ilícito conduzca en estado de ebriedad o bajo la acción de cualquier enervante o psicotrópico, será sancionado con prisión de tres a ocho años y privación definitiva o temporal hasta por ocho años del derecho para conducir vehículos. Si se trata de lesiones, se impondrá hasta tres cuartas partes de la pena que correspondería si el delito fuera doloso y privación de derechos para manejar hasta por seis años.
 
 ###### Artículo 57.
 
-Las instituciones de los sectores salud y educativo desarrollarán, en sus respectivos ámbitos de competencia, programas y acciones para la atención médica, nutricional y psicológica de deportistas; la formación y capacitación de especialistas en medicina del deporte y ciencias aplicadas; y la investigación científica.
+Cuando a consecuencia de la conducta culposa del personal de empresas de transporte de pasajeros o de carga, de servicio público o concedido por autorización, permiso o licencia de las autoridades competentes, se causen homicidios de dos o más personas, la sanción será de cinco a veinte años de prisión, destitución del empleo, cargo o comisión e inhabilitación para obtener otros de la misma naturaleza.
 
 ###### Artículo 58.
 
-Los servicios estatales de Salud y el IDEY procurarán la existencia y aplicación de programas preventivos relacionados con enfermedades y lesiones derivadas de la práctica deportiva.
+La calificación de la gravedad de la culpa queda al prudente arbitrio del juez, quien deberá tomar en consideración las circunstancias generales señaladas en el artículo 54 y las especiales siguientes:
+
+I. La mayor o menor facilidad de prever o evitar el daño que resultó;
+
+II. Si para ello bastaba una reflexión o atención ordinarias y conocimientos comunes en algún arte o ciencia;
+
+III. Si el acusado ha delinquido anteriormente en circunstancias semejantes;
+
+IV. Si tuvo tiempo de obrar con reflexión y cuidado necesarios; y,
+
+V. Tratándose de delitos cometidos en los servicios de empresas transportadoras, el estado del equipo y demás condiciones de funcionamiento mecánico.
 
 ###### Artículo 59.
 
-Las autoridades deportivas promoverán los mecanismos de concertación con las instituciones públicas y privadas que integran el sector salud, así como con los organismos deportivos, para procurar una adecuada atención en materia de salud para los deportistas.
+Los delitos de homicidio y lesiones culposos, cometidos con motivo de tránsito de vehículos en agravio de un descendiente, ascendiente, cónyuge, concubino o hermano, no se sancionarán, salvo que el autor hubiese consumado el hecho en estado de ebriedad o bajo el influjo de estupefacientes o sustancias psicotrópicas.
 
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
 
-Artículo 59 bis.- Es de interés público la prohibición del consumo y la distribución de sustancias farmacológicas potencialmente peligrosas para la salud, y el uso de métodos no reglamentarios tendientes a aumentar artificialmente las capacidades físicas de los deportistas o a modificar el resultado de las competiciones.
+En el caso a que se refiere la primera parte del párrafo anterior, si además resultan ofendidos que no tengan el referido parentesco con el conductor, sólo se perseguirá el delito por querella del lesionado o de los herederos del occiso.
 
 ### CAPITULO V. Exceso en las causas de justificación
 
 ###### Artículo 60.
 
-En el Estado de Yucatán se prohíbe el dopaje en el deporte.
-
-Los entrenadores y demás personal a cargo de la preparación de los deportistas deberán informar a éstos de la prohibición y de las substancias que deberán abstenerse de consumir.
-
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Se entenderá por dopaje en el deporte la administración a los deportistas o a los animales que utilicen en la práctica de su disciplina, o el uso deliberado o inadvertido de sustancias prohibidas o de métodos no reglamentarios enunciados en la lista vigente que al respecto emita la Agencia Mundial Antidopaje y publique anualmente la Comisión Nacional de Cultura Física y Deporte para efectos de conocimiento público.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 60 bis.- El Comité Estatal Antidopaje tiene por objeto conocer los resultados, las irregularidades y las controversias que surjan de los controles que se efectúen a los deportistas dentro y fuera de competición en el estado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE JULIO DE 2017)</small>
+Al responsable de un delito preterintencional, se le aplicará hasta las dos terceras partes de la sanción que correspondería imponer al delito si hubiere sido doloso.
 
 ### CAPITULO VI. Sanciones en concurso de delitos, Delito continuado y reincidencia
 
 ###### Artículo 61.
 
-El Comité Estatal Antidopaje estará integrado por:
-
-I.- El director del IDEY;
-
-II.- Un Coordinador Médico Estatal, quien concertará las acciones de los Delegados;
-
-III.- Un Delegado de las Asociaciones Deportivas del Estado, quien asumirá el cargo de Secretario;
-
-IV.- Un Delegado deportista recipiendario del mérito deportivo, quien asumirá el cargo de vocal, y
-
-V.- Un Delegado médico de la Secretaría de Salud del Estado, quien asumirá el cargo de vocal.
-
-Los cargos que se mencionan en el presente artículo serán honoríficos, sin remuneración alguna.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 7 DE JULIO DE 2017)</small>
-
-Los integrantes del Comité Estatal Antidopaje durarán un año en su encargo y podrán ser reelectos hasta por un periodo más.
+A quien se excediere de los límites señalados en las fracciones III, IV, V, VI y VII del artículo 12, se impondrán prisión de tres días a cinco años y multa de cien a diez mil pesos, sin que en ningún caso la sanción pueda exceder de los dos tercios de la que correspondería al delito doloso.
 
 ### CAPITULO VII. Internación
 
 ###### Artículo 62.
 
-En las competencias selectivas que se realicen en el Estado, se deberán llevar a cabo, en forma muestreada, los análisis de substancias o métodos tipo antidopaje a los deportistas participantes.
+En caso de concurso real se impondrá la sanción correspondiente al delito que merezca pena mayor, la que podrá aumentarse hasta la suma de las sanciones de los demás delitos, sin que pueda exceder de treinta años.
 
 ###### Artículo 63.
 
-El Comité Estatal Antidopaje determinará por evento, el número y procedimiento de elección de deportistas a los que se practicará el análisis de substancias o métodos tipo antidopaje.
-
-En las competencias de ámbito estatal se llevará a cabo en forma concertada con la asociación estatal de deporte respectiva.
-
-En competencias de ámbito regional, nacional e internacional, se concertará con la Comisión Nacional de Cultura Física y Deporte.
+En caso de concurso ideal se aplicará la sanción correspondiente al delito que merezca pena mayor, la que podrá ser aumentada hasta la mitad más del máximo de su duración.
 
 ###### Artículo 64.
 
-El Comité Estatal Antidopaje, es el único organismo facultado en el Estado de Yucatán para dirimir, en caso de dopaje positivo en el deporte en eventos de carácter estatal.
+Cuando un delito pueda ser considerado bajo dos o más aspectos, y bajo cada uno de éllos merezca una sanción diversa, se impondrá la mayor.
 
 ###### Artículo 65.
 
-Son funciones del Comité Estatal Antidopaje:
+En caso de delito continuado, la sanción podrá aumentarse hasta una mitad más de la que se aplique por el delito cometido.
 
-I.- Dictaminar la positividad o no de casos de dopaje;
-
-II.- Normar las campañas antidopaje en los medios de comunicación;
-
-III.- Difundir en las Asociaciones Estatales del Deporte, el peligro del dopaje en el deporte;
-
-IV.- Normar el programa de rehabilitación médica, psicológica y social para deportistas con fallo de dopaje positivo;
-
-V.- Nombrar a los Asesores y Comisiones que se requieran para el cumplimiento de sus funciones;
-
-VI.- Determinar el tiempo de suspensión de derechos de los deportistas que resulten positivos a las pruebas de antidopaje, y
-
-VII.- Las demás funciones que determine la autoridad rectora, que es el IDEY.
+Al reincidente se le aplicará la sanción que corresponda por el último delito cometido, la cual podrá aumentarse hasta un tanto más de su duración, sin que el total, tratándose de prisión, pueda exceder de treinta años.
 
 ### CAPITULO VIII. Intervención, Suspensión y Extinción de las Personas Jurídicas Colectivas
 
 ###### Artículo 66.
 
-(DEROGADO, D.O. 7 DE JULIO DE 2017)
+La internación consiste en someter a tratamiento, en un establecimiento adecuado y bajo vigilancia de las autoridades correspondientes, a las personas que lo requieran conforme a las disposiciones de este Código, y que hubieren realizado conductas o hechos considerados por la ley como delitos.
+
+Quienes hayan cometido una conducta o un hecho tipificado como delito y sufran cualquier trastorno mental, serán internados en establecimientos neuropsiquiátricos u otros especiales. La internación la ordenará la autoridad judicial y durará todo el tiempo que se requiera para el tratamiento. La vigilancia de los internos corresponde al Ejecutivo del Estado.
+
+En el caso del párrafo anterior, cuando a juicio de peritos y con audiencia del Ministerio Público, se estime que ya no es necesario el tratamiento prescrito, cesará éste de acuerdo con lo establecido en el Código Procesal Penal.
 
 ###### Artículo 67.
 
-(DEROGADO, D.O. 7 DE JULIO DE 2017)
+En el caso previsto en la fracción III del Artículo 16, se ordenará la internación cuando el sujeto sea peligroso.
 
 ###### Artículo 68.
 
-Para dar fallo de dopaje positivo, el Comité Estatal Antidopaje, debe contar con una declaración escrita del deportista indicando la substancia o método tipo dopaje utilizado, o en su caso el análisis de laboratorio positivo a substancia o método tipo dopaje.
-
-El deportista tendrá derecho a asistir, acompañado de asesoría especializada, al análisis de laboratorio que determine en forma final el fallo positivo o negativo de dopaje.
+Los sordomudos y los ciegos de nacimiento que carezcan totalmente de instrucción y hayan cometido un hecho tipificado como delito, serán internados en establecimientos adecuados por todo el tiempo que fuere necesario para su educación, bajo vigilancia de la autoridad.
 
 ###### Artículo 69.
 
-El deportista no podrá ser objeto de premiación, reconocimiento o incentivo de índole alguna, por su participación en la competición en que se falle como dopaje positivo.
+Las personas internadas conforme a este capítulo, podrán ser entregadas por el juez a quienes puedan hacerse cargo de ellas con arreglo a la ley, siempre que se obliguen a tomar las medidas adecuadas para su vigilancia y tratamiento o educación, y se otorgue fianza o constituya depósito de diez mil a cincuenta mil pesos, para garantizar el resarcimiento del daño que pudieren causar.
+
+La determinación se revocará si no se toman las medidas adecuadas para la vigilancia y tratamiento o educación de las personas mencionadas en el párrafo anterior.
 
 ### CAPITULO IX. Conmutación de Sanciones
 
 ###### Artículo 70.
 
-El deportista con fallo de dopaje positivo será sancionado la primera vez, con la suspensión de sus derechos que como deportista se hace acreedor por parte de su asociación por un período no menor de seis meses.
+Para la aplicación de sanciones a las personas jurídicas colectivas, se observarán las siguientes reglas:
 
-Durante el tiempo de la suspensión, no podrá representar al Estado ni participar en competición oficial alguna para ese deporte u otro cualquiera, organizada con el aval de la autoridad deportiva estatal.
+I. Cuando se imponga la intervención, el juez designará un interventor que tendrá todas las facultades y obligaciones correspondientes al órgano de administración de la persona jurídica colectiva y ejercerá privativamente la administración de la misma por todo el tiempo fijado en la sentencia.
+
+El interventor podrá solicitar la declaración de quiebra o concurso de la persona jurídica colectiva en los casos que proceda conforme a la ley;
+
+II. La prohibición de realizar determinados negocios u operaciones, se referirá exclusivamente a aquél o aquéllos que determine el juez.
+
+La prohibición podrá ser hasta por diez años;
+
+III. En los casos en que se decrete la extinción por virtud de la sentencia quedará disuelta la persona jurídica colectiva y se procederá a su liquidación.
+
+El liquidador será nombrado por el juez; y,
+
+IV. En cuanto a las sanciones previstas por la fracción XVI del Artículo 23, se aplicarán conforme a las reglas que este Código establece.
+
+Las sanciones a que se refiere este artículo podrán imponerse a las personas jurídicas colectivas, a juicio del juez.
 
 ###### Artículo 71.
 
-El deportista con fallo de dopaje positivo será sancionado la segunda vez, con pérdida definitiva de sus derechos a representar al Estado como deportista en competencia oficial alguna, sin perjuicio de las sanciones a que se haga acreedor por parte de su asociación.
-
-El deportista no podrá ser aceptado bajo circunstancia alguna en la asociación de deporte a la que pierde sus derechos, ni en ningún otro tipo de deporte con finalidad representativa.
+La disolución, traerá como consecuencia la publicación de la sentencia y la cancelación de la inscripción del acta constitutiva, en el Registro de Comercio.
 
 ### CAPITULO X. Libertad Condicional
 
 ###### Artículo 72.
 
-El deportista con fallo de dopaje positivo tendrá derecho a asistir al programa de rehabilitación médica, psicológica y social aprobado por el Comité Estatal Antidopaje. En este programa se incluye la participación en algún deporte, mas no representatividad.
+Cuando se trate de delincuente primario que no revele peligrosidad, la sanción privativa de libertad que no excediere de dos años, se podrá conmutar en la sentencia por multa, cuya cuantía se fijará teniendo en cuenta las condiciones económicas del acusado.
+
+Si el reo no paga la multa ni el monto de la reparación del daño a que sea condenado, la conmutación no tendrá efecto y se ejecutará la sanción privativa de libertad.
 
 ###### Artículo 73.
 
-Las personas que integran el cuerpo técnico como entrenadores, auxiliares, preparadores físicos, metodólogos, laboratoristas, profesionales y técnicos en medicina y ciencias aplicadas al deporte, así como directivos y administradores que tengan responsabilidad en caso positivo de dopaje, serán cesados en forma inmediata de sus cargos, no pudiendo ejercer más su profesión en el ámbito del deporte en el Estado de Yucatán, sin perjuicio de la responsabilidad civil o penal correspondiente.
+El Ejecutivo del Estado, tratándose de delitos políticos, podrá hacer la conmutación de sanciones, después de impuestas en sentencia irrevocable, conforme a las siguientes reglas:
+
+I. En caso de que la sanción impuesta sea la prisión, se conmutará por confinamiento, cuya duración será igual al término de prisión no cumplida; y,
+
+II. Si la sanción fuere de confinamiento, se conmutará por multa, la cual se fijará teniendo en cuenta las condiciones económicas del delincuente.
 
 ### CAPITULO XI. Retención
 
 ###### Artículo 74.
 
-Cuando sea evidente que algún participante en justas deportivas caiga en casos de drogadicción, la autoridad deportiva deberá hacer del conocimiento de las autoridades competentes dicha situación.
+El sancionado a más de dos años de prisión, podrá obtener libertad condicional, siempre que haya compurgado las tres quintas partes si se trata de delito doloso o preterintencional o la mitad de la sanción que le fue impuesta, si es culposo, la que se le concederá o negará por el Departamento de Prevención y Readaptación Social bajo las siguientes normas:
+
+I. Que hubiere observado buena conducta durante la ejecución de su sentencia;
+
+II. Que del examen de su personalidad se presuma que está socialmente readaptado y en condiciones de no volver a delinquir;
+
+III. Que hubiere reparado el daño u otorgado garantía para cubrir su importe;
+
+IV. Que resida o, en su caso, no resida en el lugar determinado que se precise en la sentencia, e informe a la autoridad de los cambios de su domicilio. La designación del lugar de residencia, se hará conciliando la circunstancia de que el reo pueda proporcionarse trabajo, con el hecho de que su permanencia en él no sea un obstáculo para su enmienda;
+
+V. Que adopte, en el plazo que la resolución determine, alguna actividad lícita, si no tuviese los medios propios de subsistencia; y,
+
+VI. Que alguna persona solvente, honorable y de arraigo, se obligue a vigilar la conducta del reo, a informar mensualmente acerca de ella, presentándolo siempre que para ello fuere requerido y a pagar, si no cumple, la cantidad que se le hubiere fijado como garantía al conceder la libertad, la cual será de quinientos pesos como mínimo.
 
 ###### Artículo 75.
 
-Las sanciones en el ámbito deportivo son independientes de la responsabilidad civil o penal a que dé lugar el uso de substancias o métodos tipo dopaje.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 7 DE JULIO DE 2017)</small>
+Siempre que el beneficiado con la libertad condicional revele nuevamente peligrosidad o deje de cumplir con alguna de las condiciones expresadas en el artículo anterior, se le privará de la libertad para que extinga la parte de la sanción restante y la retención correspondiente.
 
 ###### Artículo 76.
 
-Es obligación y responsabilidad de quienes presten el servicio de instrucción o guía de deportes que impliquen un alto riesgo para la integridad física de los practicantes, reunir los requisitos y condiciones que garanticen su práctica en circunstancias de seguridad.
-
-Se denomina deporte de alto riesgo, aquella actividad de recreación o competición que puede implicar un mayor peligro para la integridad física de la persona que lo practica, y que por ello requiere de una serie de conocimientos, protecciones y equipo especializado, que permitan desarrollar la actividad con seguridad.
+Los reos que gocen del beneficio de la libertad condicional, quedarán bajo el cuidado y vigilancia del Departamento de Prevención y Readaptación Social del Estado.
 
 ### CAPITULO XII. Suspensión Condicional de la Ejecución de la Sanción
 
@@ -1189,235 +675,73 @@ Se denomina deporte de alto riesgo, aquella actividad de recreación o competici
 
 ###### Artículo 77.
 
-Los integrantes del Sistema, en coordinación con las autoridades competentes, deberán revisar continuamente los reglamentos de las asociaciones integrantes del Sistema, a fin de controlar los factores que puedan provocar acciones de violencia por parte de los deportistas o de los espectadores.
+Siempre que se imponga sanción privativa de libertad que exceda de dos años se entenderá que el reo puede ser retenido hasta por un lapso de las tres quintas partes si se trata de delito doloso o preterintencional o hasta por la mitad de la sanción impuesta si fuere culposo.
 
 ###### Artículo 78.
 
-En las proximidades de los recintos en que se celebren acontecimientos deportivos calificados de alto riesgo, la autoridad competente, en coordinación con los organizadores, proporcionarán centros móviles de atención médica, de protección civil y cualquier otra medida tendiente a procurar la seguridad de los deportistas, espectadores y población en general.
+La retención se hará efectiva cuando, a juicio fundado del Ejecutivo, no se haya logrado la readaptación del reo o haya observado mala conducta durante la ejecución de la sanción. Asimismo, se aplicará la retención en los casos previstos en el artículo 124 de la Ley de Ejecución de Sanciones Privativas y Restrictivas de Libertad del Estado.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE AGOSTO DE 1984)</small>
 
 ### CAPITULO I. Muerte del Delincuente
 
 ###### Artículo 79.
 
-Las ligas, clubes, asociaciones y quienes presten servicios de guía o instrucción en deportes de alto riesgo, que no cumplan los preceptos de esta Ley, serán sancionados de conformidad a lo dispuesto en el artículo 81 de esta Ley y su reglamento.
+La suspensión condicional de la ejecución de la sanción implica que al dictarse sentencia firme no se ejecute la pena impuesta por el juzgador, a petición de parte o de oficio, siempre y cuando ésta no exceda de tres años de prisión, que sea la primera vez que se sanciona al acusado, que no concurran circunstancias que evidencien su peligrosidad y que tanto por su conducta observada con anterioridad al delito y con posterioridad al mismo, denote posibilidad de readaptación a la sociedad.
 
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
+Para gozar de este beneficio, el sentenciado otorgará fianza a satisfacción del juez de la causa, ante quien se presentará cuantas veces sea requerido para ello; además, garantizará el pago de la reparación del daño.
 
-Artículo 79 bis.- La aplicación de sanciones administrativas por infracciones a esta ley y demás disposiciones que de ella emanen, corresponde al IDEY, con excepción de las establecidas en el artículo 151 de la ley general, las cuales serán aplicadas por la Comisión Nacional de Cultura Física y Deporte, en términos de aquélla.
+La suspensión comprenderá no solamente las sanciones privativas de libertad, sino las demás que se hayan impuesto al delincuente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE JULIO DE 2017)</small>
+Si durante un plazo igual al de la pena corporal impuesta, contado a partir de la sentencia firme, el sentenciado no diere lugar a un nuevo proceso, se considerará extinguida aquella sanción.
+
+Si dentro del término a que se refiere el párrafo anterior, el beneficiado diere lugar a un nuevo proceso, que concluya en sentencia firme condenatoria por delito intencional, se ejecutará la sentencia suspendida.
+
+Los sentenciados que disfruten de la suspensión condicional de la sanción, quedarán sujetos a la vigilancia de la Dirección de Prevención y Readaptación Social.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE AGOSTO DE 1984)</small>
 
 ###### Artículo 80.
 
-En el ámbito de la justicia deportiva, la aplicación de sanciones por infracciones a los estatutos, reglamentos y códigos de conducta, corresponde a:
+En el caso de haberse nombrado fiador para el cumplimiento de las obligaciones contraídas en términos del artículo 79, concluirá su obligación al extinguirse la sanción impuesta al acusado.
 
-I.- (DEROGADA, D.O. 7 DE JULIO DE 2017)
+###### Artículo 80.
 
-II.- Las Asociaciones Deportivas Estatales, las Asociaciones y Sociedades Deportivas Estatales;
+Las obligaciones contraídas por el fiador, concluirán seis meses después de transcurridos los tres años a que se refiere el artículo anterior, siempre que el delincuente no diere lugar a nuevo proceso o cuando en éste se pronuncie sentencia absolutoria.
 
-III.- (DEROGADA, D.O. 7 DE JULIO DE 2017)
+Cuando el fiador tenga motivos fundados para no contituar (sic) desempeñando el cargo, los expondrá al juez a fin de que éste, si los estima justos, prevenga al reo que presente nuevo fiador dentro del plazo que prudentemente deberá fijarle, bajo apercibimiento de que se hará efectiva la sanción si no lo verifica.
 
-IV.- Los directivos, jueces, árbitros y organizadores de competiciones deportivas.
-
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
+En caso de muerte o insolvencia del fiador, el reo está obligado a poner el hecho en conocimiento del juez, para el efecto y bajo el apercibimiento expresado en el párrafo anterior.
 
 ###### Artículo 81.
 
-Por la comisión de las infracciones establecidas en esta ley o en las disposiciones que de ella emanen, se aplicarán, por sujeto, las siguientes sanciones administrativas:
-
-I. A asociaciones o sociedades deportivas estatales:
-
-a) Amonestación privada o pública;
-
-b) Limitación, reducción o cancelación de apoyos;
-
-c) Suspensión temporal o definitiva del uso de instalaciones oficiales de cultura física y deporte, y
-
-d) Suspensión temporal o definitiva de su inscripción en el registro estatal.
-
-II. A directivos:
-
-a) Amonestación privada o pública;
-
-b) Suspensión temporal o definitiva de su inscripción en el registro estatal, y
-
-c) Desconocimiento de su representatividad.
-
-III. A deportistas:
-
-a) Amonestación privada o pública;
-
-b) Limitación, reducción o cancelación de apoyos, y
-
-c) Suspensión temporal o definitiva de su inscripción en el registro estatal.
-
-IV. A árbitros, jueces y personal técnico:
-
-a) Amonestación privada o pública, y
-
-b) Suspensión temporal o definitiva de su inscripción en el registro estatal.
-
-V. A asistentes o espectadores:
-
-a) Expulsión inmediata de las instalaciones deportivas;
-
-b) Amonestación privada o pública;
-
-c) Multa de diez a noventa unidades de medida y actualización, y
-
-d) Suspensión de uno a cinco años o prohibición del acceso a eventos deportivos masivos o con fines de espectáculo.
-
-Las sanciones establecidas en este artículo serán impuestas de conformidad con el procedimiento que establezca el reglamento de esta ley.
-
-Estas sanciones se aplicarán sin perjuicio de las responsabilidades civiles o penales y de las demás sanciones que correspondan por el incumplimiento de la ley general y de otras disposiciones legales y normativas aplicables.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 81 bis.- Para la imposición de sanciones administrativas por incumplimiento de esta ley, se tomarán en cuenta los siguientes criterios:
-
-I. La gravedad de la infracción, considerando el daño o peligro ocasionado o que pueda ocasionarse;
-
-II. El dolo o la culpa existente al cometerse la infracción;
-
-III. El contexto externo que influyó en la comisión de la infracción;
-
-IV. La reincidencia, en su caso, en el incumplimiento de la ley;
-
-V. Los antecedentes del infractor, y
-
-VI. Las condiciones socioeconómicas del infractor.
+En diligencia formal, el juez hará saber al interesado los casos en que se revocará el beneficio a que se refiere este capítulo, sin que la falta de aquélla impida la aplicación de lo prevenido en el mismo.
 
 ### CAPITULO II. Amnistía
 
-## TITULO SEXTO. EXTINCIÓN DE LA ACCIÓN Y DE LAS SANCIONES PENALES
+## TITULO SEXTO. EXTINCION DE LA ACCION Y DE LAS SANCIONES PENALES
 
 ### CAPITULO III. Reconocimiento de la inocencia del sentenciado
 
 ###### Artículo 82.
 
-Cuando se sancione una conducta que contravenga la presente Ley y sus disposiciones reglamentarias, y que de la misma se pueda desprender alguna responsabilidad penal o administrativa, las instituciones y organismos deportivos darán conocimiento a la autoridad competente.
+La muerte del delincuente extingue la acción penal y las sanciones impuestas, a excepción de la reparación del daño y la de decomiso de los instrumentos del delito y cosas que estén afectas a él o que constituyan su objeto.
 
 ### CAPITULO IV. Perdón del ofendido en los delitos de querella necesaria
 
 ###### Artículo 83.
 
-Las infracciones administrativas cometidas por servidores públicos, se sancionarán en los términos de la ley de la materia.
-
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
+La amnistía extingue la acción penal y las sanciones impuestas, con excepción de la reparación del daño, en los términos de la ley que se dicte concediéndola. Si no se expresaren, se entenderá que la acción penal y las sanciones se extinguen en todos sus efectos, con relación a todos los responsables del delito.
 
 ### CAPITULO V. Rehabilitación
 
 ###### Artículo 84.
 
-Contra las resoluciones o sanciones administrativas que imponga el IDEY por el incumplimiento de esta ley, procederá el recurso de revisión, en términos del título noveno de la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
+Cualquiera que sea la sanción impuesta en sentencia firme, procederá la anulación de ésta cuando aparezca por prueba indubitable que el sentenciado es inocente del delito por el que se le juzgó.
 
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
+La anulación de la sentencia produce la extinción de las sanciones impuestas y de todos sus efectos.
 
-Artículo 84 bis.- Contra las resoluciones que emitan las autoridades establecidas en las fracciones II y IV del artículo 80 de esta ley por el incumplimiento de las disposiciones relacionadas con la justicia deportiva, procederán los siguientes recursos:
-
-I. Recurso de inconformidad, el cual se promoverá ante la instancia inmediata superior a la que haya emitido la resolución, de conformidad con la estructura deportiva estatal, y
-
-II. Recurso de apelación, el cual se promoverá ante la comisión de arbitraje y se tramitará y resolverá, en lo conducente, de conformidad con lo dispuesto en el artículo 83 de la ley general.
-
-Para efectos de este artículo, se entiende por estructura deportiva estatal a la relación jerárquica que guardan entre sí las autoridades y las asociaciones y sociedades deportivas estatales.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 84 ter.- Para la aplicación de sanciones por el incumplimiento de las disposiciones relacionadas con la justicia deportiva, las asociaciones y sociedades deportivas estatales deberán prever, dentro de sus estatutos, reglamentos o códigos de conducta, lo siguiente:
-
-I. Las infracciones y sanciones correspondientes por el incumplimiento de las disposiciones internas aplicables a su disciplina deportiva;
-
-II. El procedimiento para la imposición de las sanciones y el derecho de audiencia a favor del presunto infractor;
-
-III. Los criterios a considerar para la imposición de las sanciones, y
-
-IV. Los procedimientos para interponer los recursos establecidos en las fracciones I y II del artículo 80 de esta ley, en términos de las disposiciones legales y normativas aplicables.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 84 quater.- El estado y los municipios deberán implementar las acciones y tomar las medidas necesarias para integrar, mantener actualizado y garantizar la seguridad y confidencialidad del padrón de personas a quienes se les haya impuesto como sanción la suspensión o prohibición de asistencia a eventos deportivos masivos o con fines de espectáculo a que se refiere el artículo 155 de la ley general.
-
-TRANSITORIOS:
-
-Artículo Primero.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-Artículo Segundo.- El Sistema Estatal de Cultura Física y Deporte del Estado de Yucatán y el Consejo Municipal al que hace referencia la presente ley, se instalarán dentro de un plazo no mayor de 90 días a partir de su entrada en vigor.
-
-Artículo Tercero.-El Poder Ejecutivo del Estado procurará establecer en la medida de sus posibilidades previsiones presupuestales necesarias, para llevar a cabo las atribuciones establecidas en el artículo 7 de esta Ley.
-
-Artículo Cuarto.- El Poder Ejecutivo del Estado y los Ayuntamientos, en su respectivo ámbito de competencia, deberán expedir la reglamentación a que se refiere esta Ley.
-
-DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO, EN LA CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS A LOS OCHO DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL ONCE.- PRESIDENTE: DIPUTADO CARLOS GERMÁN PAVÓN FLORES.- SECRETARIO.- DIPUTADO PEDRO FRANCISCO COUOH SUASTE.- SECRETARIA.- DIPUTADA LETICIA DOLORES MENDOZA ALCOCER.- RÚBRICAS."
-
-Y, POR TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU CONOCIMIENTO Y DEBIDO CUMPLIMIENTO.
-
-EXPEDIDO EN LA SEDE DEL PODER EJECUTIVO, EN LA CIUDAD DE MÉRIDA, CAPITAL DEL ESTADO DE YUCATÁN, ESTADOS UNIDOS MEXICANOS, A LOS OCHO DÍAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL ONCE.
-
-(RÚBRICA)
-
-C. IVONNE ARACELLY ORTEGA PACHECO
-
-GOBERNADORA DEL ESTADO DE YUCATÁN
-
-(RÚBRICA)
-
-C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
-
-SECRETARIO GENERAL DE GOBIERNO
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-D.O. 7 DE JULIO DE 2017.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 4999/2017 POR EL QUE SE MODIFICA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE YUCATÁN".]
-
-Primero. Entrada en vigor
-
-Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del gobierno del estado.
-
-Segundo. Abrogación
-
-Se abroga el Decreto 121/1989 por el que se emite la Ley del Instituto del Deporte del Estado de Yucatán, publicado en el diario oficial del gobierno del estado el 23 de junio de 1989.
-
-Tercero. Adecuación del reglamento
-
-El gobernador deberá expedir las modificaciones al Reglamento de la Ley de Cultura Física y Deporte del Estado de Yucatán, para adecuarlo a las disposiciones de este decreto, en un plazo de ciento ochenta días naturales, contado a partir de su entrada en vigor.
-
-Cuarto. Instalación del consejo estatal
-
-El Consejo Estatal de Cultura Física y Deporte deberá instalarse en un plazo de treinta días naturales, contado a partir de la entrada en vigor de este decreto.
-
-Quinto. Expedición del reglamento interno del consejo estatal
-
-El Consejo Estatal de Cultura Física y Deporte deberá expedir su reglamento interno en un plazo de noventa días naturales, contado a partir de su instalación.
-
-Sexto. Expedición del estatuto orgánico del IDEY
-
-El director general deberá presentar al Consejo Directivo del Instituto del Deporte del Estado de Yucatán, para su aprobación, el proyecto de estatuto orgánico, de conformidad con las disposiciones de este decreto, en un plazo de noventa días naturales, contado a partir de su entrada en vigor.
-
-Séptimo. Actualización en el Registro de Entidades Paraestatales
-
-El director general del Instituto del Deporte del Estado de Yucatán deberá inscribir este decreto en el Registro de Entidades Paraestatales de la Secretaría de Administración y Finanzas dentro de un plazo de treinta días naturales, contado a partir de su entrada en vigor.
-
-Octavo. Adecuación de reglamentos municipales
-
-Los ayuntamientos deberán adecuar o, en su caso, emitir sus reglamentos de cultura física y deporte, para ajustarse a las disposiciones de este decreto, dentro del primer año siguiente a su entrada en vigor.
-
-D.O. 31 DE JULIO DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO 94/2019 POR EL QUE SE MODIFICAN 44 LEYES ESTATALES, EN MATERIA DE REESTRUCTURACIÓN DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
-
-Artículo primero. Entrada en vigor
-
-Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
-
-Artículo segundo. Derechos adquiridos
-
-Se salvaguarda la designación hecha para el actual Director del Archivo Notarial del Estado de Yucatán. Los requisitos exigidos en la disposición 118 ter de la Ley del Notariado del Estado de Yucatán, serán aplicables a partir de las subsecuentes designaciones que al efecto realice el Titular del Poder Ejecutivo del Estado de Yucatán para ocupar dicho cargo.
-
-Artículo tercero. Obligación normativa
-
-La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+Si la sentencia condenó por varios delitos, la revisión sólo se referirá al delito o delitos en que se pruebe la inocencia del sentenciado. Por los demás delitos se determinará la sanción que corresponda.
 
 ### CAPITULO VI. Indulto
 
@@ -1445,9 +769,13 @@ El indulto extingue las sanciones impuestas en sentencia firme, excepto la repar
 
 No puede ser objeto de indulto la inhabilitación para ejercer una profesión u oficio o algún derecho civil o político, o para desempeñar algún cargo, comisión o empleo.
 
+> <small>(REFORMADO, P. O. 14 DE NOVIEMBRE DE 1991)</small>
+
 ###### Artículo 88.
 
-En los delitos políticos el Ejecutivo del Estado, podrá discrecionalmente conceder el indulto.
+Cuando la conducta observada por el sentenciado refleje un alto grado de readaptación social y su liberación no represente un peligro para la tranquilidad y seguridad pública, conforme al dictamen del órgano ejecutor de la sanción, y no se trate de sentencia por violación, delito intencional contra la vida y secuestro, ni de reincidente por delito intencional, se le podrá conceder indulto por el Ejecutivo del Estado, en uso de facultades discrecionales.
+
+También podrá conceder indultos, expresando sus razones y fundamento, en favor de sentenciados cuya conducta haya sido determinada por motivaciones de carácter político o social y cuando se trate de personas que hayan prestado importantes servicios al Estado, previa solicitud.
 
 ### CAPITULO IX. Prescripción de las Sanciones
 
@@ -1935,7 +1263,7 @@ A los propietarios o encargados de cantinas, billares, cabarets u otros análogo
 
 Se concede acción pública para denunciar los hechos delictuosos a que se contrae este artículo y el anterior.
 
-### CAPITULO IV. ANTICIPACION, PROLONGACION Y ABANDONO DE FUNCIONES PUBLICAS
+### CAPITULO IV. Anticipación, Prolongación y Abandono de Funciones Públicas
 
 ###### Artículo 167.
 
@@ -2203,7 +1531,7 @@ II. Al cónyuge, concubino y parientes colaterales por consanguinidad hasta el c
 
 III. Los que estén ligados con el delincuente por amor, respeto, gratitud o estrecha amistad. La excusa no favorecerá a quien obre por motivos reprobables o emplee medios delictuosos.
 
-### CAPITULO VI. Disposiciones Comunes a Capítulos Precedentes
+### CAPITULO VI. Disposiciones Comunes a los Capítulos Precedentes
 
 ###### Artículo 199.
 
@@ -2391,7 +1719,9 @@ Si el falsificador hiciere uso de los documentos u objetos falsos que se detalla
 
 Las disposiciones contenidas en este Título, se aplicarán solamente en lo que no estuviere previsto en las leyes especiales o no se opusiere a lo establecido en ellas.
 
-## TITULO DECIMO SEPTIMO. DELITOS DE PELIGRO PARA LA VIDA Y LA SALUD
+## TITULO VIGESIMO. DE LOS DELITOS ELECTORALES Y EN MATERIA DE REGISTRO ESTATAL DE ELECTORES
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 1992)</small>
 
 ###### Artículo 211.
 
@@ -2485,7 +1815,7 @@ TITULO DECIMOSEGUNDO
 
 DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
-VIOLACION A LAS LEYES DE INHUMACIONES Y EXHUMACIONES
+Violación a las Leyes de Inhumaciones y Exhumaciones
 
 ### CAPITULO I. Violación
 
@@ -2617,7 +1947,7 @@ DELITOS CONTRA LA LIBERTAD Y SEGURIDAD SEXUAL
 
 Se impondrán de tres a ocho años de prisión y multa de tres mil a ocho mil pesos, a quien por medio de la violencia física o moral, tenga cópula con una persona cualquiera que sea su sexo.
 
-Se impondrá prisión tres a nueve años y multa de tres mil a nueve mil pesos, al que tenga cópula con persona menor de doce años o que por cualquier causa no está en posibilidad de producirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa.
+Se impondrán prisión tres a nueve años y multa de tres mil a nueve mil pesos, al que tenga cópula con persona menor de doce años o que por cualquier causa no está en posibilidad de producirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa.
 
 Cuando en la ejecución del delito de violación intervengan dos ó más personas, la pena será de seis a diez años de prisión y multa de seis mil a diez mil pesos.
 
@@ -2693,7 +2023,7 @@ La difamación consiste en comunicar dolosamente a una o más personas la imputa
 
 Tipo de Peligro Presunto.
 
-Abandono de Incapaces de Proveerse as sí Mismos
+Abandono de Incapaces de Proveerse a sí Mismos
 
 ###### Artículo 251.
 
@@ -2941,6 +2271,10 @@ TITULO DECIMOSEPTIMO
 
 DELITOS DE PELIGRO PARA LA VIDA Y LA SALUD
 
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
+
 ###### Artículo 292.
 
 Se impondrán prisión de seis meses a tres años y multa de quinientos a tres mil pesos:
@@ -3001,9 +2335,7 @@ I. Cuando el valor de lo robado no exceda del importe de cien días de salario, 
 
 II. Si el valor de lo robado excede del importe señalado en la fracción anterior, pero no del que se establece en la siguiente, la sanción será de uno a tres años de prisión y multa de diez a treinta días de salario; y,
 
-III. Cuando el valor de lo robado exceda del importe de quinientos días de salario, la sanción será de tres a doce años de prisión y multa de treinta a ciento veinte días de salario.
-
-Para la aplicación de este artículo se considerará como salario, el salario mínimo general vigente en el momento y lugar en que se cometió el delito.
+III. Cuando el valor de lo robado exceda del importe de quinientos días de salario, la sanción será de tres a doce años de prisión y multa de treinta a ciento veinte días de salario. Para la aplicación de este artículo se considerará como salario, el salario mínimo general vigente en el momento y lugar en que se cometió el delito.
 
 ###### Artículo 301.
 
@@ -3319,6 +2651,110 @@ Las violaciones a que se refiere el artículo anterior no producen responsabilid
 
 Cuando los delitos a que se refiere el artículo 336 aparezcan cometidos por una persona jurídica de derecho privado, la sanción de prisión se impondrá al patrón, gerente, director o administrador o encargado que hubiere ordenado los hechos, sin perjuicio de que el juez, si lo estima conveniente, imponga la sanción de suspensión de actividades o disolución de la persona jurídica colectiva, en los términos de los artículos 23, fracción XVI y 70.
 
+> <small>(ADICIONADO CON EL CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 1992)</small>
+
+###### Artículo 339.
+
+Para los efectos de este título se entiende por:
+
+I. Funcionarios electorales, quienes en los términos de la legislación estatal electoral integren los órganos que cumplen funciones públicas electorales;
+
+II. Funcionarios partidistas, los dirigentes de los partidos políticos, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales estatales los propios partidos otorgan representación para actuar en la jornada electoral ante los órganos electorales en los términos de la legislación estatal electoral; y,
+
+III. Documentos públicos electorales, las actas oficiales de instalación de casillas, de los escrutinios y cómputo de las mesas directivas de casilla, las de los cómputos distritales y municipales, y en general, los documentos expedidos en el ejercicio de sus funciones por los órganos de la Comisión Estatal Electoral.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
+
+###### Artículo 340.
+
+Por la comisión de cualquiera de los delitos comprendidos en el presente título se podrá imponer además de la pena señalada, la suspensión de derechos políticos de uno a cinco años.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
+
+###### Artículo 341.
+
+En la aplicación de las sanciones alternativas a que se refiere el presente título, el juez atenderá primero a las pecuniarias o, motivando su resolución, impondrá la sanción privativa de libertad cuando ello sea ineludible a los fines de justicia, prevención general y prevención especial.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
+
+###### Artículo 342.
+
+Se impondrán de diez a cien días multa o prisión de seis meses a dos años, o ambas sanciones a juicio del juez, a quien:
+
+I. Vote a sabiendas de que no cumple con los requisitos de la Ley;
+
+II. Vote más de una vez en una misma elección;
+
+III. Haga proselitismo setenta y dos horas anteriores al día de la jornada electoral, y durante ésta en el interior de las casillas o en el lugar donde se encuentren formados los votantes;
+
+IV. Obstaculice o interfiera el desarrollo normal de las votaciones o del escrutinio; o,
+
+V. Ostente a una agrupación como partido político sin que ésta haya obtenido su registro o hagan aparecer a partidos políticos como coalición, sin que tampoco se hayan registrado en los términos de la ley de la materia.
+
+La misma sanción se aplicará a quienes por cualquier medio inciten a abstenerse de votar o tomen como base de propaganda electoral, determinada religión o exploten el sentimiento religioso.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
+
+###### Artículo 343.
+
+Se impondrá de veinte a cien días multa o prisión de tres meses a cinco años, o ambas sanciones, a juicio del juez, al funcionario electoral que:
+
+I. Altere en cualquier forma, sustituya, destruya o haga un uso indebido de documentos relativos al Registro Estatal de Electores;
+
+II. Se abstenga de cumplir sin causa justificada, con sus obligaciones electorales con perjuicio del proceso;
+
+III. Obstruya el desarrollo normal de la votación sin mediar causa justificada;
+
+IV. Altere los resultados electorales, sustraiga o destruya boletas electorales;
+
+V. No entregue o impida la entrega oportuna de documentos oficiales, sin mediar causa justificada;
+
+VI. En ejercicio de sus funciones, ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+VII. Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstas por la ley de la materia; y,
+
+VIII. Al que expulse de la casilla electoral sin causa justificada, al representante debidamente acreditado de un partido político.
+
+La misma sanción se aplicará a los Notarios Públicos que sin causa justificada se nieguen a dar fe de los actos en que sea necesaria o posible su intervención, de acuerdo con la Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
+
+###### Artículo 344.
+
+Se impondrán de cincuenta a cien días multa o prisión de tres meses a cinco años, o ambas sanciones a juicio del juez, al funcionario partidista que:
+
+I. Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado en el interior de la casilla, o en el lugar donde los propios electores se encuentren formados;
+
+II. Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
+
+III. Sustraiga, destruya, altere o haga un uso indebido de documentos oficiales de índole electoral;
+
+IV. Obstaculice el desarrollo normal de la votación, sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
+
+V. Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto a los resultados oficiales contenidos en las actas de escrutinio y cómputo; o,
+
+VI. Impida con violencia la instalación, apertura o cierre de una casilla fuera de los tiempos previstos por la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
+
+###### Artículo 345.
+
+Se impondrán de setenta a doscientos días multa o prisión de tres meses a seis años, o ambas sanciones a juicio del juez, al servidor público que:
+
+I. De cualquier manera impida indebidamente la reunión de una asamblea, una manifestación pública o cualquier otro acto legal de propaganda electoral;
+
+II. Abusando de sus funciones obligue a sus subordinados a emitir sus votos en favor de un partido político o candidato;
+
+III. Condicione la prestación de un servicio público a la emisión del sufragio en favor de un partido político o candidato; o,
+
+IV. Destine fondos o bienes que tenga a su disposición en virtud de su cargo, al apoyo de un partido político o de un candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado, o proporcione ese apoyo a través de sus subordinados usando del tiempo correspondiente a sus labores para que éstos presten servicios a un partido político o candidato.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1992)</small>
+
+###### Artículo 346.
+
+Se impondrá sanción de suspensión de sus derechos políticos hasta por seis años, a quienes, habiendo sido electos diputados, no se presenten, sin causa justificada a juicio de la Cámara, a desempeñar el cargo dentro del plazo señalado en el primer párrafo del Artículo 30 de la Constitución Política del Estado.
+
 T R A N S I T O R I O S :
 
 PRIMERO.- Este Código comenzará a regir el día 15 de agosto de 1980.
@@ -3349,7 +2785,7 @@ El presente decreto entrará en vigor el día siguiente de su publicación en el
 
 ###### ARTICULO SEGUNDO.
 
-Conforme al artículo 5° del Código Penal quienes resulten beneficiados con estas reformas, podrán solicitar el beneficio previsto en el artículo 79 de dicho ordenamiento ante el juez de la causa.
+Conforme al Artículo 5°. del Código Penal quienes resulten beneficiados con estas reformas, podrán solicitar el beneficio previsto en el Artículo 79 de dicho ordenamiento ante el juez de la causa.
 
 Asimismo, quienes se encuentren sujetos a proceso por un delito patrimonial y con estas reformas se vean beneficiados, podrán solicitar de inmediato el beneficio de su libertad provisional bajo caución.
 
@@ -3370,3 +2806,13 @@ UNICO. El presente decreto entrará en vigor el día siguiente al de su publicac
 P.O. 23 DE MAYO DE 1991.
 
 UNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE NOVIEMBRE DE 1991.
+
+UNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 1992.
+
+PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
