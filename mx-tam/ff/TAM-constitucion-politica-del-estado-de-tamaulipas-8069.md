@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2004-03-02"
+last_updated: "2004-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2004.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -219,9 +219,13 @@ I. La inviolabilidad de la propiedad, la cual no podrá ser ocupada sino en virt
 
 II. La libertad de asociarse o reunirse con cualquier objeto lícito, pero en asuntos políticos es exclusiva de los ciudadanos tamaulipecos en los términos que establece la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2004)</small>
 
-III. El derecho de los varones y las mujeres a la igualdad de oportunidades en ámbitos político, económico, social y cultural.
+III. El derecho de los varones y las mujeres a la igualdad de oportunidades en ámbitos político, económico, social y cultural; y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2004)</small>
+
+IV. El derecho a un medio ambiente adecuado para su desarrollo y bienestar y al uso racional de los recursos naturales susceptibles de apropiación con base en el objetivo del desarrollo sustentable, en los términos que fijen las leyes.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 1986)</small>
 
@@ -245,7 +249,13 @@ V. Hacer que sus hijos, pupilos y menores que por cualquier título tengan a su 
 
 VI. Asistir los días y horas designados por el Ayuntamiento del Municipio en que residan, para recibir la instrucción cívica y militar que los mantenga aptos en el ejercicio de todos sus derechos de ciudadano, y diestros en el manejo de las armas y conocedores de la disciplina militar.
 
-VII. Tomar las armas en defensa del pueblo en que vivan cuanto este fuere amagado por partidas de malhechores, acatando las disposiciones que al efecto emanen de la autoridad local.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2004)</small>
+
+VII. Tomar las armas en defensa del pueblo en que vivan cuando éste fuere amagado por partidas de malhechores, acatando las disposiciones que al efecto emanen de la autoridad local; y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2004)</small>
+
+VIII. A respetar y cuidar el patrimonio natural del Estado y hacer uso de los recursos naturales susceptibles de apropiación sin afectar el desarrollo sustentable del Estado en los términos que dispongan las leyes. En las mismas se preverá que ninguna persona podrá ser obligada a llevar a cabo actividades que puedan ocasionar el deterioro del medio ambiente, así como que quien realice actividades que afecten el medio ambiente está obligado a prevenir, minimizar y reparar los daños que se caucen (sic), asumiéndose con cargo a su patrimonio las erogaciones que requieran las tareas de restauración.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -841,7 +851,19 @@ XLIII. La facultad que le concede el artículo 24 de esta Constitución;
 
 XLIV. Concurrir a la reforma de la Constitución Política de los Estados Unidos Mexicanos en los términos que establece el Artículo 135 de la misma Constitución;
 
-XLV. Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las concedidas a los otros Poderes por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2004)</small>
+
+XLV. Legislar en materia de desarrollo sustentable, conforme a los siguientes principios:
+
+a).- El derecho de los habitantes del Estado a una vida saludable y productiva en armonía con la naturaleza;
+
+b).- El aliento del desarrollo social y económico con base en las premisas de la protección del medio ambiente, la erradicación de la pobreza y la atención de las necesidades presentes sin comprometer las necesidades de las generaciones futuras;
+
+c).- La promoción de la investigación y el intercambio científico y tecnológico;
+
+d).- La prohibición del uso de sustancias o la realización de actividades que generen una degradación ambiental grave o sean nocivas para la salud de la población, y
+
+e).- La obligación de restaurar los daños ocasionados al medio ambiente y al equilibrio de los ecosistemas.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -887,9 +909,13 @@ LVI. Para expedir leyes que instituyan el Tribunal de lo Contencioso-Administrat
 
 LVII. Aprobar los nombramientos de los Magistrados del Tribunal de lo Contencioso-Administrativo y recibir la protesta de los mismos;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2004)</small>
 
-LVIII. Ejercer las demás facultades que le señala la Constitución Política de los Estados Unidos Mexicanos, esta Constitución u otras Leyes.
+LVIII. Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las concedidas a los otros Poderes por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado; y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2004)</small>
+
+LIX. Ejercer las demás facultades que le señala la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que emanen de ambas.
 
 ###### Art. 59.
 
@@ -1415,9 +1441,13 @@ XLIV. Conceder con arreglo a las leyes habilitaciones de edad a los menores para
 
 XLV.- Adoptar, en casos graves, las medidas que juzgue necesarias para salvaguardar el orden público o la paz social, o la economía del Estado o la de los Municipios, dando cuenta inmediata al Congreso o en su receso a la Diputación Permanente, para que resuelvan en definitiva.
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2004)</small>
 
-XLVI. Los demás que le confiere esta Constitución u otra Ley.
+XLVI.- Celebrar convenios de colaboración con la Federación, las entidades federativas y los municipios del Estado en materia de desarrollo sustentable, con base en las leyes de la materia; y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2004)</small>
+
+XLVII. Ejercer las demás facultades que le señala la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que emanen de ambas.
 
 ###### Art. 92.
 
@@ -2023,9 +2053,17 @@ VI.- Otorgar licencias y permisos para construcciones;
 
 VII.- Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
 
-VIII.- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial; y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2004)</small>
 
-IX.- Celebrar convenios para la administración y custodia de las zonas federales.
+VIII.- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial;
+
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2004)</small>
+
+IX.- Celebrar convenios para la administración y custodia de las zonas federales; y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2004)</small>
+
+X.- Celebrar convenios de colaboración con el Estado y con otros Municipios en materia de desarrollo sustentable.
 
 En lo conducente y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Federal, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
 
@@ -2062,6 +2100,10 @@ Las relaciones de trabajo entre los Municipios y sus trabajadores, se regirán p
 ###### Art. 138.
 
 La educación que impartan el Estado y los Municipios será ajena a cualquier doctrina religiosa; se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, la servidumbre, los fanatismos y los prejuicios; será democrática, nacionalista y contribuirá a la mejor convivencia humana, buscando el desarrollo de todas las facultades del ser humano y fomentará en él, a la vez, el amor a la patria y la conciencia de la solidaridad internacional en la independencia y en la justicia.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2004)</small>
+
+El proceso educativo incorporará la promoción de una actitud consciente sobre la preservación del medio ambiente y la participación de toda persona en su protección, restauración y mejoramiento como elementos para el desarrollo social y económico equilibrado de la sociedad.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
 
@@ -3336,6 +3378,10 @@ P.O. 2 DE MARZO DE 2004.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- El Congreso del Estado se abocará a la expedición de la ley reglamentaria del segundo párrafo del artículo 154 de la Constitución Política del Estado, dentro de un plazo que no excederá de 90 días posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 1 DE ABRIL DE 2004.
+
+Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO UNICO.
 
