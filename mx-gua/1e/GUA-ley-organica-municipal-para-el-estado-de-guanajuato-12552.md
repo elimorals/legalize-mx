@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-12552"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-25"
-last_updated: "2000-12-22"
+last_updated: "2001-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "GUA"
 
 LEY ORGANICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 2001.
 
-Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de julio de 1997.
+Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 25 de julio de 1997.
 
 AL MARGEN UN SELLO CON EL ESCUDO DE LA NACION.- PODER EJECUTIVO.- GUANAJUATO.
 
@@ -69,7 +69,9 @@ En caso de que el Ayuntamiento, el presidente municipal o los titulares de las d
 
 El Ayuntamiento constituye la autoridad en el Municipio, es independiente y no habrá autoridad intermedia entre éste y el Gobierno del Estado.
 
-De las controversias que surjan entre los municipios y entre éstos y el Poder Ejecutivo o el Poder Judicial, resolverá el Congreso del Estado, a excepción de lo previsto por el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+De las controversias que surjan entre los municipios y entre éstos y el Poder Ejecutivo o el Poder Legislativo, resolverá el Pleno del Supremo Tribunal de Justicia del Estado, a excepción de lo previsto por el Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 6o.
 
@@ -281,9 +283,7 @@ Los municipios conservarán los límites territoriales que tengan a la fecha de 
 
 ###### Artículo 21.
 
-Los conflictos de límites entre los municipios, serán resueltos por el Congreso del Estado.
-
-El procedimiento que se siga para resolver el conflicto de límites entre los municipios, se sujetará a lo dispuesto por la Ley Orgánica del Poder Legislativo.
+(DEROGADO, P.O. 17 DE JULIO DE 2001)
 
 ###### Artículo 22.
 
@@ -349,11 +349,13 @@ El Ayuntamiento tendrá su residencia oficial en la cabecera del Municipio.
 
 El Congreso del Estado a petición del Ayuntamiento, podrá decretar el cambio de residencia, cuando existan causas justificadas para ello; el traslado será a otro lugar comprendido dentro de la circunscripción territorial del Municipio.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 29.
 
-El desempeño del cargo de presidente municipal, síndico o regidor es obligatorio y su remuneración se fijará en el presupuesto de egresos del Municipio, atendiendo a los principios de racionalidad, austeridad y disciplina del gasto público municipal, así como a la situación socioeconómica del Municipio, quedando impedidos para aceptar otro empleo o cargo en la administración pública municipal, estatal o federal, por el que perciban remuneración alguna, salvo que medie permiso especial del Congreso del Estado, a excepción de los docentes.
+El desempeño del cargo de presidente municipal, síndico y regidor es obligatorio y su remuneración se fijará en el presupuesto de egresos del Municipio, atendiendo los principios de racionalidad, austeridad y disciplina del gasto público municipal, así como a la situación socioeconómica del Municipio.
+
+El desempeño del cargo se realizará con probidad, eficacia, eficiencia y honradez, quedando impedidos quienes los ocupen, para aceptar otro empleo o cargo en la administración pública municipal, estatal o federal, por el que perciban remuneración alguna, salvo que medie permiso especial del Congreso del Estado, a excepción de los docentes.
 
 ### CAPITULO SEGUNDO. DE LA INSTALACION DEL AYUNTAMIENTO
 
@@ -499,6 +501,10 @@ En las faltas por licencia de más de dos meses, de los regidores y síndicos pr
 
 Al término del plazo de la licencia concedida, el propietario deberá integrarse de inmediato a su cargo; cuando se trate de licencias por tiempo indeterminado, el ausente se reintegrará a la sesión siguiente a su aviso de terminación de la licencia.
 
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Cuando por cualquier causa alguno de los síndicos o regidores propietarios dejaren de desempeñar el cargo, éste será cubierto por su suplente. En el caso de los regidores, a falta tanto del propietario como del suplente, se estará a lo establecido por el Código de Instituciones y Procedimientos Electorales para el Estado de Guanajuato.
+
 ###### Artículo 46.
 
 En el caso de ausencia del presidente municipal por licencia, permiso o causa justificada hasta de quince días naturales, serán suplidas por el secretario del Ayuntamiento, como encargado de despacho.
@@ -549,13 +555,15 @@ Las faltas del delegado municipal, serán cubiertas por el subdelegado; a falta 
 
 El Ayuntamiento funcionará en períodos de tres años, iniciando cada ejercicio, el día 10 de octubre del año de la elección de los integrantes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2001)</small>
+
 ###### Artículo 55.
 
-Los ayuntamientos deberán resolver los asuntos de su competencia colegiadamente y, al efecto, celebrarán sesiones ordinarias, extraordinarias y solemnes, que serán públicas, con excepción de aquéllas a que se refiere el artículo 59 de esta Ley.
+Los ayuntamientos deberán resolver los asuntos de su competencia colegiadamente, y al efecto, celebrarán sesiones ordinarias, extraordinarias y solemnes que serán públicas, con excepción de aquéllas que señale esta Ley y preferentemente en horario diurno.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
-Las sesiones del Ayuntamiento serán válidas con la asistencia de más de la mitad de la totalidad de los integrantes del Ayuntamiento, debiendo presidirlas el presidente municipal. En su ausencia, dirigirá los debates, el secretario del Ayuntamiento, sin derecho a voto.
+Las sesiones del Ayuntamiento serán válidas con la asistencia de más de la mitad de la totalidad de los integrantes del Ayuntamiento, debiendo presidirlas el presidente municipal. En su ausencia, dirigirá los debates el síndico o el primero de ellos en los ayuntamientos en que existan dos, auxiliado por el secretario del Ayuntamiento.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
@@ -589,7 +597,7 @@ II.- Las comunicaciones que con nota de reservado dirijan al Ayuntamiento, los p
 
 III.- Las solicitudes de licencia y de remoción de servidores públicos municipales que hayan sido nombrados por el Ayuntamiento; y
 
-IV.- La aprobación del informe del estado que guarda la administración pública municipal.
+IV.- (DEROGADA, P.O. 17 DE JULIO DE 2001)
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
@@ -669,15 +677,23 @@ Los ayuntamientos tendrán las siguientes atribuciones:
 
 I.- En materia de gobierno y régimen interior:
 
-a) Presentar iniciativas de Ley o decreto al Congreso del Estado, en los términos de la fracción IV del artículo 56 de la Constitución Política del Estado;
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
-b) Discutir y aprobar los reglamentos, bandos de policía y buen gobierno, circulares y disposiciones administrativas de observancia general, que sean de competencia municipal y mandarlos publicar en el Periódico Oficial del Gobierno del Estado;
+a) Presentar iniciativas de Ley o decreto al Congreso del Estado, así como emitir opinión sobre las iniciativas de leyes o decretos que incidan en la competencia municipal, dentro del término que establezca la Comisión Dictaminadora;
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+b) Aprobar, de acuerdo con las leyes en materia municipal que expida el Congreso del Estado, los bandos de policía y buen gobierno, reglamentos, circulares y disposiciones administrativas de observancia general; que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal;
 
 c) Designar anualmente de entre sus miembros, a los integrantes de las comisiones del Ayuntamiento;
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 d) Fijar las bases para la elaboración del Plan Municipal de Desarrollo, del Plan de Gobierno Municipal y de los programas derivados de éste último y en su oportunidad, aprobarlos, evaluarlos y actualizarlos;
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Participar en la formulación de planes y proyectos de desarrollo regional, cuando los elabore la Federación o el Estado, los cuales deberán estar en concordancia con los planes generales de la materia.
 
 e) Nombrar y remover a los delegados municipales, en los términos que señala esta Ley;
 
@@ -701,7 +717,9 @@ l) Promover el desarrollo del personal, estableciendo los términos y condicione
 
 m) Ordenar la comparecencia de cualquier servidor público municipal, para que informe sobre los asuntos de su competencia;
 
-n) Otorgar permisos y autorizaciones, pudiendo delegar esta atribución;
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+n) Otorgar licencias, permisos y autorizaciones; pudiendo delegar esta atribución;
 
 ñ) Otorgar concesiones para el uso, aprovechamiento y explotación de los bienes inmuebles del dominio público municipal, así como de los servicios públicos;
 
@@ -709,11 +727,25 @@ o) Organizar cursos, seminarios y programas tendientes a eficientar el cumplimie
 
 p) Promover ante la Suprema Corte de Justicia de la Nación, las controversias constitucionales a que se refiere el artículo 105 fracción I de la Constitución Política de los Estados Unidos Mexicanos, conforme a la Ley reglamentaria relativa.
 
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+q) Promover ante el Pleno del Supremo Tribunal de Justicia las controversias a que se refieren los incisos a) y b) del Apartado A de la fracción XV del Artículo 89 de la Constitución Política del Estado;
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+r) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquéllos afecten su ámbito territorial; y
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+s) Solicitar, por acuerdo de la mayoría calificada de sus integrantes al Congreso del Estado, que realice la declaración de que el Municipio se encuentra imposibilitado para ejercer una función o prestar un servicio público, a efecto de que el Ejecutivo del Estado la ejerza o lo preste.
+
 II.- En materia de obra pública y desarrollo urbano:
 
 a) Acordar la división territorial del Municipio, determinando las categorías políticas y su denominación;
 
-b) Planificar y regular el desarrollo urbano y conurbado, así como de los asentamientos humanos;
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+b) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, así como planear y regular de manera conjunta y coordinada con la Federación, el Gobierno del Estado y los ayuntamientos respectivos, el desarrollo de los centros urbanos, cuando dichos centros se encuentren situados en territorios de los municipios del Estado o en los de éste con otro vecino, de manera que formen o tiendan a formar una continuidad demográfica, debiendo apegarse a las leyes de la materia;
 
 c) Intervenir en la regularización de la tenencia de la tierra en el ámbito de su competencia;
 
@@ -723,9 +755,17 @@ e) Acordar el destino o uso de los bienes inmuebles de propiedad municipal;
 
 f) Solicitar al Ejecutivo del Estado, la expropiación de bienes por causa de utilidad pública;
 
-g) Preservar, conservar y restaurar el medio ambiente, así como participar en la creación y administración de reservas territoriales y ecológicas; y
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
-h) Aprobar el programa de obra pública; así como convenir y contratar la ejecución de obra publica.
+g) Preservar, conservar y restaurar el medio ambiente en el Municipio y participar en la creación y administración de sus reservas territoriales y ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+h) Aprobar el programa de obra pública; así como convenir y contratar la ejecución de obra publica; e
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+i) Autorizar, controlar y vigilar la utilización del suelo en el ámbito de su competencia.
 
 III.- En materia de servicios públicos:
 
@@ -735,13 +775,17 @@ b) Instrumentar los mecanismos necesarios para ampliar la cobertura y mejorar la
 
 c) Procurar la seguridad pública en el territorio municipal; y
 
-d) Fijar las tarifas que correspondan a los derechos por la prestación de servicios públicos, en los términos de las leyes fiscales.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+d) Intervenir en los términos de las leyes de la materia, en la formulación y aplicación de los programas de transporte público de pasajeros, cuando afecten su ámbito territorial.
 
 IV.- En materia de hacienda pública municipal:
 
 a) Administrar libremente su hacienda y controlar la aplicación del presupuesto de egresos del Municipio;
 
-b) Aprobar el pronóstico de ingresos y el presupuesto de egresos, remitiendo al Congreso del Estado copia certificada de este último;
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+b) Proponer al Congreso del Estado en términos de Ley, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. Asimismo, aprobar el pronóstico de ingresos y el presupuesto de egresos, remitiendo al Congreso del Estado copia certificada de los mismos;
 
 c) Determinar la forma en que el tesorero y demás servidores públicos que manejen caudales públicos municipales, deban caucionar suficientemente su manejo;
 
@@ -749,11 +793,17 @@ d) Aprobar la contratación de empréstitos en los términos de la Ley de Deuda 
 
 e) Conocer los informes mensuales contables y financieros, que presente la Tesorería municipal;
 
-f) Solicitar al Congreso del Estado, la desafectación de bienes del dominio público municipal, cuando éstos dejen de destinarse al uso común, al servicio público y convenga al interés público;
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
-g) Solicitar al Congreso del Estado, la autorización para ejercer actos de dominio sobre los bienes del Municipio;
+f) Desafectar por acuerdo de la mayoría calificada del Ayuntamiento, los bienes del dominio público municipal, cuando éstos dejen de destinarse al uso común o al servicio público y así convenga al interés público;
 
-h) Ejercer la reversión de los bienes inmuebles donados, por incumplimiento a las condiciones establecidas en el decreto legislativo de autorización;
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+g) Ejercer actos de dominio sobre los bienes del Municipio, en los términos de esta Ley;
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+h) Ejercer la reversión de los bienes donados en los casos y conforme a las disposiciones previstos en la presente Ley;
 
 i) Emitir las normas generales para la aprobación de adquisiciones, enajenaciones, arrendamientos y contratación de servicios de bienes muebles e inmuebles; y
 
@@ -903,6 +953,10 @@ IX.- Las demás que le señalen esta Ley y otras disposiciones legales aplicable
 
 El Ayuntamiento a propuesta del presidente municipal, aprobará la integración de las comisiones anuales que se estimen necesarias para el desempeño de sus funciones.
 
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Para formular la propuesta el presidente municipal tomará en cuenta el conocimiento, profesión y vocación de los integrantes del Ayuntamiento, escuchando su opinión.
+
 ###### Artículo 74.
 
 Las comisiones tendrán por objeto el estudio, dictamen y propuestas de solución a los asuntos de las distintas ramas de la administración pública municipal.
@@ -968,6 +1022,18 @@ El procedimiento para decretar la desaparición de un Ayuntamiento o Concejo mun
 ###### Artículo 82.
 
 En el caso de desaparición de un Ayuntamiento o Concejo municipal, el Congreso del Estado designará un Concejo municipal, que funcionará hasta concluir el período respectivo.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Dichos concejos municipales, ejercerán las atribuciones que la Ley establece para los ayuntamientos y se integrarán con igual número de miembros, quienes deberán cumplir los requisitos de elegibilidad establecidos para los regidores.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Para cubrir las faltas o ausencias temporales de alguno de los integrantes del Concejo, se aplicará en lo conducente, lo dispuesto por la presente Ley, para los miembros del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Con excepción del presidente, cuando por cualquier causa alguno de los integrantes del Concejo, dejare de desempeñar su cargo, éste será ocupado por su suplente; a falta de ambos, el Congreso del Estado, nombrará a quien deba ocuparlo. En todo caso, la persona designada, deberá cubrir los requisitos que para ser regidor establezca la Ley.
 
 ###### Artículo 83.
 
@@ -1167,35 +1233,65 @@ Asimismo, el reglamento establecerá la forma y procedimiento para elegir a los 
 
 Los representantes de la sociedad organizada que propongan los ayuntamientos deberán ser integrantes de los Consejos de Planeación de Desarrollo Municipales.
 
-### CAPITULO TERCERO. DE LA ASOCIACION DE MUNICIPIOS
+> <small>(REFORMADA SU DENOMINACION, P.O. 17 DE JULIO DE 2001)</small>
+
+### CAPITULO TERCERO. DE LA COORDINACION Y ASOCIACION
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 104.
 
-Los municipios por acuerdo de los ayuntamientos, podrán coordinarse y asociarse para la formulación y aplicación de planes y programas comunes, así como para la creación de organizaciones o entidades de desarrollo regional que tengan por objeto, entre otros:
+Los municipios previo acuerdo de sus ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan.
 
-I.- El estudio y análisis de la problemática regional y las propuestas para superarla;
+Tratándose de la asociación de municipios del Estado con los de otra Entidad Federativa, deberán contar con la previa aprobación del Congreso del Estado.
 
-II.- La elaboración y aplicación de programas de desarrollo común;
+En ambos supuestos deberá publicarse el convenio respectivo en el Periódico Oficial del Gobierno del Estado.
 
-III.- La realización de programas de seguridad pública;
+Para la ejecución de dichos convenios, los ayuntamientos participantes podrán crear organismos o entidades, con la estructura y funciones que se establezcan en los propios convenios, dichas funciones no podrán exceder de las que prevé la Ley para los ayuntamientos.
 
-IV.- La colaboración en la prestación de los servicios públicos;
-
-V.- La participación en la obra pública;
-
-VI.- La capacitación de los servidores públicos municipales;
-
-VII.- La elaboración y aplicación de planes de desarrollo urbano;
-
-VIII.- La gestión de demandas comunes ante los gobiernos federal y estatal;
-
-IX.- La adquisición de equipo; y
-
-X.- Los demás que tiendan a promover el bienestar y progreso de su población.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 105.
 
-Los ayuntamientos aprobarán los convenios de asociación de los municipios correspondientes y de común acuerdo, podrán designar coordinadores operativos o crear la estructura que convenga.
+Los ayuntamientos podrán celebrar convenios con el Ejecutivo del Estado, cuando a su juicio sea necesario que éste de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de la prestación de un servicio público o el ejercicio de una función.
+
+Asimismo, podrán celebrar convenios para que el servicio público o la función se preste o ejerza coordinadamente por el propio Municipio y el Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 105 A.- Los convenios a que se refieren las fracciones III y IV del Artículo 115 y el segundo párrafo de la fracción VII del Artículo 116 de la Constitución Política de los Estados Unidos Mexicanos, deberán sujetarse a las siguientes normas de aplicación general:
+
+I.- Serán aprobados por la mayoría calificada de los integrantes del Ayuntamiento;
+
+II.- Constarán por escrito y deberán contener cuando menos:
+
+a) Las funciones o servicios públicos materia del convenio;
+
+b) Los derechos y obligaciones de las partes;
+
+c) Los recursos que se destinarán para su cumplimiento;
+
+d) Las causas de terminación y las sanciones por su incumplimiento; y
+
+e) Las estipulaciones aplicables para resolver las controversias que se susciten en el cumplimiento o interpretación del convenio;
+
+III.- Su vigencia será determinada. En caso de que exceda al periodo del Ayuntamiento que lo celebre, se estipularán las cláusulas conforme a las cuales las administraciones municipales subsecuentes podrán ratificarlo, revisarlo y en su caso modificarlo; y
+
+IV.- Los convenios y sus posteriores modificaciones, se publicarán en el Periódico Oficial del Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 105 B.- Los municipios podrán solicitar al Ejecutivo del Estado, la celebración de los convenios a que se refiere este capítulo, cuando estuvieren imposibilitados para prestar o ejercer los servicios y funciones públicos de su competencia. Para tal efecto se observará lo siguiente:
+
+I.- La imposibilidad deberá ser determinada por la mayoría calificada del Ayuntamiento, previo dictamen técnico, financiero, legal y administrativo, formulado por la Comisión relacionada con el servicio o la función de que se trate;
+
+II.- Se hará la solicitud al Ejecutivo del Estado, anexando copia certificada del acuerdo y dictamen a que se refiere la fracción anterior, señalando los términos y condiciones en que el Ejecutivo prestaría el servicio o ejercería la función;
+
+III.- Recibida la solicitud, el Ejecutivo resolverá lo conducente en un término máximo de treinta días hábiles, pudiendo allegarse de los elementos necesarios para ello. En tanto, la función o servicio público de que se trate, seguirá prestándose por el Municipio;
+
+IV.- Si la resolución del Ejecutivo fuese afirmativa, se procederá a la suscripción del convenio respectivo, observando en lo conducente lo dispuesto por el artículo anterior.
+
+En caso de negativa del Ejecutivo para ejercer la función o prestar el servicio público, el Municipio podrá solicitar la intervención del Congreso del Estado, de conformidad con lo que establezca la Ley Orgánica del Poder Legislativo.
 
 ## TITULO SEXTO
 
@@ -1349,7 +1445,11 @@ XV.- Revisar los anteproyectos de presupuestos de egresos de las entidades que i
 
 XVI.- Integrar los estados contables de cierre de ejercicio de la administración pública municipal y demás documentación, para que sea agregado al acta de entrega-recepción de la misma, en el rubro relativo a la Tesorería; y
 
-XVII.- Las demás que le confiera ésta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2001)</small>
+
+XVII.- Proponer al Ayuntamiento, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras, así como las tablas de valores unitarios del suelo y de construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria; y
+
+XVIII.- Las demás que le confiera ésta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
@@ -1407,7 +1507,9 @@ II.- Proponer y aplicar normas y criterios en materia de control y evaluación, 
 
 III.- Verificar el cumplimiento del Plan Municipal de Desarrollo, del Plan de Gobierno Municipal y de los programas derivados de éste último;
 
-IV.- Realizar auditorías periódicamente a las dependencias y entidades de la administración pública municipal;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
+
+IV.- Realizar visitas y auditorías periódicamente a las dependencias y entidades de la administración pública municipal, y en su caso, promover las medidas necesarias para corregir las deficiencias detectadas;
 
 V.- Vigilar la correcta aplicación del gasto público;
 
@@ -1434,6 +1536,10 @@ XV.- Vigilar que el desempeño de las funciones de los servidores públicos muni
 XVI.- Proponer al personal que haya de ser contratado para auxiliarlo en el desempeño de sus funciones; y
 
 XVII.- Las demás que le confiera ésta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 117 A.- Es obligación de los titulares de las dependencias y entidades de la administración pública municipal, participar con el tesorero y el presidente en la solventación de las observaciones que formule la Contaduría Mayor de Hacienda.
 
 ### CAPITULO TERCERO. DE LOS DELEGADOS MUNICIPALES
 
@@ -1491,15 +1597,29 @@ Los delegados municipales no podrán otorgar licencias, permisos o autorizacione
 
 ### CAPITULO CUARTO. DE LA ADMINISTRACION PUBLICA PARAMUNICIPAL
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
 ###### Artículo 124.
 
-Integrarán la administración pública paramunicipal, los organismos descentralizados, las empresas de participación municipal y los fideicomisos públicos municipales.
+Integrarán la administración pública paramunicipal los organismos descentralizados, empresas de participación municipal, fideicomisos públicos municipales, comisiones, patronatos y comités.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 125.
 
-El Ayuntamiento aprobará la creación, modificación o extinción de las entidades paramunicipales y expedirá el acuerdo respectivo, que deberá publicarse en el Periódico Oficial del Gobierno del Estado.
+El ayuntamiento aprobará por mayoría calificada la creación, modificación o extinción de las entidades paramunicipales.
+
+Las atribuciones de las entidades paramunicipales no deberán exceder las que para el Ayuntamiento señale la Ley y se especificarán en el acuerdo de creación, mismo que deberá publicarse en el Periódico Oficial del Gobierno del Estado.
 
 En caso de extinción, el acuerdo correspondiente fijará la forma y términos de la liquidación.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 125 A.- Las entidades paramunicipales deberán sujetarse al Plan de Gobierno Municipal y a los programas que deriven del mismo.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 125 B.- Los órganos de gobierno o de administración de las entidades paramunicipales, deberán dictar las medidas administrativas conducentes para contribuir en el control interno de las mismas.
 
 ###### Artículo 126.
 
@@ -1577,9 +1697,51 @@ VI.- Otras que tengan relación con la empresa.
 
 En todas las empresas de participación municipal, existirá un comisario público, el cual será designado por el Ayuntamiento a propuesta del síndico correspondiente.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
 ###### Artículo 134.
 
-El Ayuntamiento podrá crear fideicomisos públicos que promuevan e impulsen el desarrollo del Municipio, de conformidad con la Ley de la materia.
+Los fideicomisos públicos municipales a que se refiere esta Ley, serán los que constituya el Ayuntamiento, previo estudio que así lo justifique, a efecto de que le auxilien en la realización de actividades que le sean propias o impulsen el desarrollo del Municipio y en los cuales la Tesorería Municipal o el organismo público descentralizado, a través del representante de su órgano de gobierno, sea el fideicomitente.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 134 A.- La creación de los fideicomisos públicos se sujetará a las siguientes bases:
+
+I.- Contarán con un Director General, un Comité Técnico que fungirá como órgano de gobierno, y un comisario encargado de la vigilancia, designado por la contraloría municipal. Dichos cargos serán honoríficos;
+
+II.- El Ayuntamiento podrá autorizar el incremento del patrimonio de los fideicomisos públicos, previa opinión de los fideicomitentes de los mismos y sus comités técnicos;
+
+III.- En los contratos constitutivos de fideicomisos de la administración pública municipal, se deberá reservar a favor del Ayuntamiento, la facultad expresa de revocarlos, sin perjuicio de los derechos que correspondan a los fideicomisarios o a terceros, salvo que se trate de fideicomisos constituidos con los gobiernos estatal o federal, por mandato de la ley o que la naturaleza de sus fines no lo permita;
+
+IV.- La modificación o extinción de los fideicomisos públicos, cuando así convenga al interés general, corresponderá al Ayuntamiento, debiendo en todo caso establecer el destino de los bienes fideicomitidos;
+
+V.- Los fideicomisos públicos a través de su comité técnico, deberán de rendir al Ayuntamiento un informe trimestral sobre la administración y aplicación de los recursos aportados al fideicomiso; y
+
+VI.- En los contratos constitutivos de fideicomisos se establecerá la obligación de observar los requisitos y formalidades señalados en esta Ley, para la enajenación de los bienes de propiedad municipal.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 134 B.- El comité técnico deberá estar integrado por lo menos con los siguientes propietarios:
+
+I.- El síndico municipal o uno de ellos, en aquellos Ayuntamientos que tengan dos;
+
+II.- Un representante de las dependencias o entidades de la administración pública municipal que de acuerdo con los fines del fideicomiso deban intervenir;
+
+III.- Un representante de la Tesorería Municipal;
+
+IV.- Un representante de la Contraloría Municipal; y
+
+V.- Un representante del fiduciario.
+
+Por cada miembro propietario del comité técnico habrá un suplente que lo cubrirá en sus ausencias.
+
+El representante de la Contraloría Municipal participará con voz pero sin voto.
+
+Los miembros del Comité Técnico serán nombrados y removidos por el Ayuntamiento, a excepción del representante fiduciario, cuyo nombramiento y remoción corresponderá a la institución fiduciaria.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 134 C.- Tratándose de fideicomisos públicos, para llevar a cabo su control y evaluación, se establecerá en su contrato constitutivo la facultad de la contraloría municipal de realizar visitas y auditorías, así como la obligación de permitir la realización de las mismas por parte de los auditores externos que determine el Ayuntamiento, sin perjuicio de las facultades de fiscalización del Congreso del Estado. En la cuenta pública municipal se deberá informar y anexar el resultado de las auditorías practicadas.
 
 ### CAPITULO QUINTO. DEL SERVICIO CIVIL DE CARRERA
 
@@ -1661,37 +1823,53 @@ Los ayuntamientos vigilarán que la prestación de los servicios públicos, se r
 
 Los ayuntamientos tendrán a su cargo los siguientes servicios públicos:
 
-I.- Agua potable, alcantarillado y saneamiento;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
+
+I.- Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
 
 II.- Alumbrado público;
 
-III.- Limpia, recolección y aprovechamiento de basura;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
+
+III.- Limpia, recolección, traslado, tratamiento, disposición final y aprovechamiento de residuos;
 
 IV.- Mercados y centrales de abastos;
 
 V.- Rastro;
 
-VI.- Calles, parques, jardines y áreas ecológicas y recreativas;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
 
-VII.- Seguridad pública;
+VI.- Calles, parques, jardines, áreas ecológicas y recreativas y su equipamiento;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
+
+VII.- Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos; y el de policía preventiva;
 
 VIII.- Tránsito y vialidad;
 
-IX.- Estacionamientos públicos;
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2001)</small>
 
-X.- Panteones;
+IX.- Transporte urbano y suburbano en ruta fija;
 
-XI.- Educación;
+X.- Estacionamientos públicos;
 
-XII.- Bibliotecas públicas;
+XI.- Panteones;
 
-XIII.- Asistencia y salud pública;
+XII.- Educación;
 
-XIV.- Protección civil;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
 
-XV.- Desarrollo urbano y rural; y
+XIII.- Bibliotecas públicas y Casas de la Cultura;
 
-XVI.- Los demás que señalen las leyes.
+XIV.- Asistencia y salud pública;
+
+XV.- Protección civil;
+
+XVI.- Desarrollo urbano y rural; y
+
+XVII.- Los demás que señalen las leyes.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 142.
 
@@ -1699,11 +1877,13 @@ El Ayuntamiento prestará los servicios públicos de la siguiente forma:
 
 I.- Directa, a través de sus propias dependencias administrativas u organismos desconcentrados;
 
-II.- A través de los organismos públicos descentralizados creados para tal fin;
+II.- Indirecta, a través de:
 
-III.- Mediante el régimen de concesión; y
+a) Las entidades paramunicipales creadas para ese fin;
 
-IV.- Mediante convenios de coordinación y asociación que suscriba con el Ejecutivo del Estado o con otros ayuntamientos, cuando no cuente con los elementos técnicos y financieros para la prestación de los mismos.
+b) Régimen de concesión; y
+
+c)Convenios de coordinación o asociación que lleve a cabo con otros ayuntamientos o con el Ejecutivo del Estado.
 
 ###### Artículo 143.
 
@@ -1719,9 +1899,11 @@ Los usuarios de los servicios públicos, deberán hacer uso racional y adecuado 
 
 En caso de destrucción o daños causados a la infraestructura de los servicios públicos municipales, la autoridad municipal deslindará la responsabilidad e impondrá sanciones administrativas que correspondan, sin perjuicio de que se denuncie penalmente al infractor.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
 ###### Artículo 146.
 
-El servicio público de agua potable, alcantarillado y saneamiento podrá ser prestado por el Ayuntamiento, preferentemente a través de un organismo público descentralizado, creado en los términos de esta Ley y el reglamento correspondiente.
+El servicio público de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales podrá ser prestado por el Ayuntamiento, preferentemente a través de un organismo público descentralizado, creado en los términos de esta Ley y el reglamento aplicable.
 
 ###### Artículo 147.
 
@@ -1737,9 +1919,15 @@ El Ayuntamiento podrá concesionar a comerciantes, los espacios ubicados en el i
 
 Cuando el Ayuntamiento lo juzgue conveniente, el servicio de mercados y centrales de abastos, podrá prestarse en inmuebles sujetos al régimen de condominio público, en el que la administración será propia y exclusiva del Ayuntamiento y en todo lo demás serán aplicables las disposiciones del Código Civil para el Estado de Guanajuato.
 
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 149 A.- Los servicios públicos de tránsito y vialidad, policía preventiva y protección civil se prestarán por el Municipio como áreas de seguridad pública.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2001)</small>
+
 ###### Artículo 150.
 
-En el servicio de seguridad pública, podrán autorizarse cuando así se solicite, elementos auxiliares que se encarguen de manera específica y concreta de prestar este servicio en zonas, instalaciones o ramas de actividades, bajo la jurisdicción y vigilancia del Ayuntamiento.
+En los servicios de seguridad pública y policía preventiva municipal, podrán autorizarse cuando así se solicite, elementos auxiliares que se encarguen de manera específica y concreta de prestar el servicio en zonas, instalaciones o ramas de actividades, bajo la jurisdicción y vigilancia del Ayuntamiento.
 
 Los salarios y costos de estos elementos, serán cubiertos por quienes soliciten dicho servicio, en los términos y montos que acuerde el Ayuntamiento.
 
@@ -1751,13 +1939,19 @@ El servicio de estacionamiento público es aquél que se presta en bienes inmueb
 
 El servicio de panteones podrá ser concesionado, con la condición de que se establezca la obligación de reservar al Municipio, cuando menos, el treinta por ciento de la superficie total que se destine a dicho servicio, para que éste lo utilice con el mismo fin.
 
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 152 A.- El servicio público de transporte urbano y suburbano en ruta fija, se prestará conforme a los dispuesto en la Ley de la materia.
+
 ### CAPITULO SEGUNDO. DE LAS CONCESIONES DE SERVICIOS PUBLICOS MUNICIPALES
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 153.
 
-Los ayuntamientos, podrán otorgar concesiones para la prestación de los servicios públicos.
+Los Ayuntamientos podrán otorgar concesiones para la prestación de los servicios públicos por acuerdo de la mayoría calificada.
 
-No serán objeto de concesión, los servicios públicos de seguridad, tránsito y vialidad.
+No serán objeto de concesión, los servicios públicos considerados como áreas de seguridad pública.
 
 ###### Artículo 154.
 
@@ -1839,7 +2033,9 @@ IX.- Las demás disposiciones que establezca el reglamento y las que acuerde el 
 
 Las concesiones de servicios públicos se otorgarán por tiempo determinado; el plazo de vigencia de éstas será fijado por los ayuntamientos, el cual podrá ser prorrogado hasta por plazos equivalentes.
 
-En caso de que el término de la concesión exceda al período del Ayuntamiento que la otorgue, se requerirá de la autorización del Congreso del Estado.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+En caso de que la vigencia de la concesión exceda al periodo del Ayuntamiento, en el título correspondiente se establecerán las estipulaciones conforme a las cuales las administraciones municipales subsecuentes ratifiquen, revisen y en su caso, modifiquen las condiciones establecidas para la misma.
 
 ###### Artículo 159.
 
@@ -1973,11 +2169,17 @@ V.- La deuda pública municipal.
 
 La hacienda pública municipal se constituirá por los rendimientos de los bienes que pertenezcan al Municipio, así como por las contribuciones y otros ingresos que establezcan las leyes fiscales a su favor.
 
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Los recursos que integran la hacienda pública municipal serán ejercidos en forma directa por el Ayuntamiento o por quien éste autorice conforme a la Ley.
+
 ### CAPITULO TERCERO. DE LOS BIENES DEL DOMINIO PUBLICO Y PRIVADO DE LOS MUNICIPIOS
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 170.
 
-Los bienes del dominio público del Municipio son inalienables, imprescriptibles e inembargables y solo podrán enajenarse, previa desafectación y autorización del Congreso del Estado.
+Los bienes del dominio público del Municipio son inalienables, imprescriptibles e inembargables y sólo podrán enajenarse previa desafectación y autorización del Ayuntamiento por acuerdo de su mayoría calificada.
 
 ###### Artículo 171.
 
@@ -2037,43 +2239,97 @@ Los bienes del dominio privado del Municipio, son los que no estén comprendidos
 
 Los inmuebles del dominio privado del Municipio, se destinarán prioritariamente a satisfacer las necesidades colectivas del Municipio.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
 ###### Artículo 176.
 
-Los inmuebles del dominio privado del Municipio, que no sean adecuados para los fines a que se refiere el artículo anterior, podrán ser objeto de enajenación, previa autorización del Congreso del Estado o de la Diputación Permanente, en su caso.
+Los inmuebles del dominio privado del Municipio, que no sean adecuados para los fines a que se refiere el artículo anterior, podrán ser objeto de enajenación por acuerdo del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 177.
 
-El Ayuntamiento sólo podrá donar o dar en comodato los bienes del dominio privado del Municipio, cuando éstos sean en favor de instituciones públicas o privadas, que representen un beneficio social para el Municipio y que no persigan fines de lucro.
+El Ayuntamiento sólo podrá donar o dar en comodato los bienes del dominio privado del Municipio, por acuerdo de la mayoría calificada de sus integrantes, cuando éstos sean a favor de instituciones públicas o privadas, que representen un beneficio social para el Municipio y que no persigan fines de lucro.
+
+El Ayuntamiento en todo caso establecerá los términos y condiciones que aseguren el cumplimiento del beneficio social que se persigue con la donación o el comodato, los que se insertarán textualmente en el acuerdo y en el contrato respectivos.
+
+En el caso de la donación, en el acuerdo correspondiente se deberá establecer la cláusula de reversión.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 177 A.- Los bienes del Municipio donados, revertirán a su patrimonio cuando se den cualesquiera de los siguientes supuestos:
+
+I.- Se utilicen para un fin distinto al autorizado;
+
+II.- La persona jurídica colectiva se disuelva o liquide; o
+
+III.- No se inicie la obra en el término especificado.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 177 B.- Para ejercer la reversión, el Ayuntamiento se sujetará al siguiente procedimiento:
+
+I.- Emitirá un acuerdo de inicio del procedimiento de reversión, en el que se señalen las causas que la motiven;
+
+II.- Expedirá una orden de inspección fundada y motivada, de la cual se levantará un acta circunstanciada;
+
+III.- Notificará el acuerdo al donatario, otorgándole un plazo de diez días hábiles, para que manifieste lo que a su interés convenga;
+
+IV.- El Ayuntamiento emitirá la resolución correspondiente, ordenando su notificación al donatario. En caso de que se determine ejercer la reversión, dicha resolución deberá publicarse en el Periódico Oficial del Gobierno del Estado; y
+
+V.- El Ayuntamiento ordenará la ejecución de la resolución.
+
+El procedimiento anterior será iniciado y tramitado por la dependencia municipal que el Ayuntamiento determine en el reglamento o acuerdo correspondiente, la que emitirá un dictamen conforme al cual el Ayuntamiento resolverá lo conducente.
+
+Declarada la procedencia de la reversión, se requerirá al donatario para que de inmediato haga entrega física y material del bien revertido al patrimonio municipal. En caso de que se hubiere formalizado la donación en instrumento público, a petición del Municipio y una vez que haya quedado firme la reversión, el fedatario público que lo otorgó, procederá a su cancelación, inscribiendo el testimonio respectivo en el Registro Público de la Propiedad.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 178.
 
-Cuando se requiera afectar un bien inmueble de propiedad privada, que por su ubicación y características satisfaga las necesidades para la realización de una obra pública, podrá ser permutado por bienes de propiedad municipal.
+Cuando se requiera afectar un bien inmueble de propiedad privada, que por su ubicación y características satisfaga las necesidades para la realización de una obra pública, el ejercicio de una función o la prestación de un servicio público, podrá ser permutado por bienes de propiedad municipal con un valor comercial equivalente, si así lo acuerda la mayoría calificada del Ayuntamiento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 179.
 
-Sólo procederá la venta de los bienes del dominio privado del Municipio, cuando el producto de la misma represente un incremento al patrimonio municipal y sea aprobada por mayoría absoluta del Ayuntamiento.
+Sólo procederá la venta de los bienes del dominio privado del Municipio, por acuerdo de la mayoría calificada de los integrantes del Ayuntamiento, cuando el producto de la misma represente un incremento al patrimonio municipal, debiendo éste ser aplicado preferentemente a satisfacer las necesidades colectivas del Municipio.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
 El Ayuntamiento podrá, si a su juicio concurren circunstancias que así lo ameriten, variar el requisito exigido para la venta relativo (sic) a que el producto de la misma represente un incremento al patrimonio municipal, justificando en el acuerdo correspondiente el beneficio social que se obtendrá con la misma, requiriendo éste para su validez ser aprobado por la mayoría calificada del Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
 ###### Artículo 180.
 
-Tratándose de arrendamiento, cuando el término estipulado en el contrato exceda del período del Ayuntamiento que lo celebre, será necesaria la ratificación del mismo por las subsecuentes administraciones municipales.
+Cuando la vigencia de los contratos de arrendamiento, comodato u otros traslativos de uso sobre bienes de propiedad municipal, exceda el periodo del Ayuntamiento que los celebre, se estipularán en los mismos, las cláusulas conforme a las cuales las administraciones municipales subsecuentes, ratificarán, revisarán y en su caso, modificarán las condiciones establecidas en los mismos.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 181.
 
-La venta de bienes muebles de propiedad del Municipio en subasta pública, se hará observando las condiciones y el procedimiento que fije el Ayuntamiento o en su defecto, el procedimiento previsto para los remates judiciales en el Código de Procedimientos Civiles para el Estado de Guanajuato.
+La venta de bienes de propiedad municipal en subasta pública, se hará observando las condiciones y el procedimiento siguiente:
 
-Cuando la venta se realice fuera de subasta pública, se requerirá la previa autorización del Congreso del Estado o de la Diputación Permanente, en su caso.
+I.- El acuerdo autorizando la venta y el precio base para la misma, serán aprobados por la mayoría calificada del Ayuntamiento, previo avalúo practicado por uno o varios peritos autorizados;
+
+II.- La convocatoria para la subasta deberá ser publicada en el Periódico Oficial del Gobierno del Estado, así como en el periódico de mayor circulación en el Municipio, señalando fecha, hora y lugar donde se efectuará el acto; y
+
+III.- En todo lo no previsto, se aplicará supletoriamente el procedimiento establecido en la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios relacionados con Bienes Muebles e Inmuebles del Estado de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 181 A.- Cuando la venta de bienes muebles se realice fuera de subasta pública, se requerirá la autorización de la mayoría calificada del Ayuntamiento y el precio será fijado por la misma mayoría, previo avalúo practicado por uno o varios peritos autorizados.
 
 ###### Artículo 182.
 
 Ninguna enajenación, uso, disfrute o aprovechamiento de bienes inmuebles del Municipio, podrá hacerse a favor de los miembros del Ayuntamiento o de los titulares de las dependencias y entidades de la administración pública municipal, estatal o federal, ni a sus cónyuges, parientes consanguíneos en línea recta sin limitación de grado, colaterales y afines hasta el segundo grado, así como los civiles.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2001)</small>
+
 ###### Artículo 183.
 
-Toda disposición de bienes de propiedad municipal, sin la previa autorización del Congreso del Estado, implicará responsabilidad del servidor público que la realice o promueva.
+Toda disposición de bienes de propiedad municipal, que se realice en contravención a la normatividad aplicable, implicará responsabilidad del servidor público que la realice o promueva.
 
 Por razones de interés público, los jueces están obligados a comunicar al Ayuntamiento respectivo, el inicio de cualquier juicio o procedimiento tendiente a acreditar la posesión o propiedad sobre bienes inmuebles que se estimen del dominio público o privado del Municipio.
 
@@ -2081,9 +2337,19 @@ Por razones de interés público, los jueces están obligados a comunicar al Ayu
 
 Serán nulos los actos realizados en contravención de lo dispuesto en este capítulo.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
 ###### Artículo 185.
 
-Además de lo preceptuado por esta Ley, se aplicará en lo conducente, la Ley de Bienes Inmuebles del Estado, Municipios y Organismos Descentralizados de los mismos y el Código Civil para el Estado de Guanajuato.
+Los ayuntamientos deberán de integrar a su padrón inmobiliario, los datos de identificación y el estado que guardan los bienes inmuebles de su propiedad.
+
+El tesorero municipal deberá integrar a la cuenta pública que remita al Congreso del Estado, la relación de los actos de dominio celebrados sobre su patrimonio inmobiliario.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 185 A.- Los acuerdos de Ayuntamiento que se tomen a efecto de enajenar bienes muebles e inmuebles, para su validez, deberán publicarse en el Periódico Oficial del Gobierno del Estado.
+
+Además de lo preceptuado por esta Ley, se aplicará en lo conducente, la Ley del Patrimonio Inmobiliario del Estado y el Código Civil para el Estado de Guanajuato.
 
 ### CAPITULO CUARTO. DE LA CONCESION PARA LA EXPLOTACION, USO Y APROVECHAMIENTO DE BIENES INMUEBLES DEL DOMINIO PUBLICO MUNICIPAL
 
@@ -2091,9 +2357,13 @@ Además de lo preceptuado por esta Ley, se aplicará en lo conducente, la Ley de
 
 Los derechos sobre la explotación, uso y aprovechamiento de los bienes inmuebles del dominio público municipal, se adquirirán mediante el otorgamiento de las concesiones respectivas, las cuales no crean derechos reales sobre dichos inmuebles.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
 ###### Artículo 187.
 
-Las concesiones sobre bienes inmuebles del dominio público municipal, se otorgarán por tiempo determinado. El plazo de vigencia será fijado por el Ayuntamiento, el cual podrá ser prorrogado hasta por plazos equivalentes; en caso de que el término exceda al período del Ayuntamiento que la otorgue, la concesión requerirá aprobación del Congreso del Estado.
+Las concesiones sobre bienes inmuebles del dominio público municipal, se otorgarán por tiempo determinado y requerirán el acuerdo de la mayoría calificada de los integrantes del Ayuntamiento. El plazo de vigencia será fijado por el Ayuntamiento, el cual podrá ser prorrogado hasta por plazos equivalentes.
+
+En caso de que la vigencia de la concesión exceda al periodo del Ayuntamiento, en el título correspondiente se establecerán las estipulaciones conforme a las cuales las administraciones municipales subsecuentes ratifiquen, revisen y en su caso, modifiquen las condiciones establecidas para la misma.
 
 ###### Artículo 188.
 
@@ -2205,11 +2475,11 @@ Ningún gasto podrá efectuarse sin que exista partida expresa del presupuesto q
 
 ### CAPITULO UNICO. DE LA FACULTAD REGLAMENTARIA
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 202.
 
-Los ayuntamientos están facultados para elaborar, expedir, reformar, adicionar y abrogar los bandos de policía y buen gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general y obligatoria en el Municipio.
+Los ayuntamientos están facultados para elaborar, expedir, reformar y adicionar, de acuerdo con las leyes en materia municipal que expida el Congreso del Estado, los bandos de policía y buen gobierno, reglamentos, circulares y disposiciones administrativas de observancia general, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
 
 ###### Artículo 203.
 
@@ -2243,7 +2513,9 @@ I.- Los que regulen las atribuciones, organización y funcionamiento del Ayuntam
 
 II.- Los que establezcan y regulen la estructura y funciones de la administración pública municipal centralizada y paramunicipal;
 
-III.- Los que tiendan a asegurar la creación, funcionamiento y prestación de los servicios públicos municipales;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
+
+III.- Los que tiendan a asegurar la creación, funcionamiento y prestación de los servicios públicos municipales y el ejercicio de las funciones que la Ley confiera al Municipio y al propio Ayuntamiento;
 
 IV.- Los que se refieran a las facultades en materia de obra pública, desarrollo urbano, fraccionamientos y ecología;
 
@@ -2354,6 +2626,10 @@ Podrá suspenderse la ejecución del acto reclamado, cuando no se afecte el inte
 ###### Artículo 216.
 
 Los Juzgados Administrativos Municipales son los órganos jurisdiccionales de control de legalidad en los municipios, dotados de autonomía para dictar sus fallos; quienes conocerán y resolverán el recurso de inconformidad promovido por los particulares sobre los actos y resoluciones a que se refiere el artículo 206 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+La actuación de los juzgados administrativos municipales se sujetará a los principios de igualdad, publicidad, audiencia y legalidad.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
@@ -2476,3 +2752,17 @@ Artículo Primero.- El presente Decreto entrará en vigor el 1° primero de ener
 Artículo Segundo.- Los ayuntamientos deberán expedir el reglamento de Planeación del Desarrollo Municipal, a más tardar en un plazo de cuatro meses contado a partir de la entrada en vigor del presente Decreto. Asimismo, contarán con un plazo de dos meses contado a partir de la fecha de entrada en vigor del reglamento de Planeación del Desarrollo Municipal correspondiente, para integrar o, en su caso, reestructurar los Consejos de Planeación de Desarrollo Municipales.
 
 Artículo Tercero.- Los ayuntamientos en funciones, tendrán un plazo de seis meses para aprobar su Plan de Gobierno Municipal y de un año para evaluar y, en su caso, actualizar el Plan Municipal de Desarrollo, contados ambos plazos a partir de la fecha de entrada en vigor del presente Decreto.
+
+P.O. 17 DE JULIO DE 2001.
+
+Artículo Primero.- El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Quedan derogadas todas las disposiciones que se opongan al presente decreto.
+
+Artículo Tercero.- Lo dispuesto en el segundo párrafo de la fracción IV del artículo 105 B, entrará en vigor hasta en tanto se reforma la Ley Orgánica del Poder Legislativo en esta materia.
+
+Artículo Cuarto.- Los Ayuntamientos deberán remitir al Congreso del Estado su padrón inmobiliario, a más tardar dentro de los noventa días siguientes a la fecha de entrada en vigor del presente decreto.
+
+Artículo Quinto.- En los municipios que aún no cuenten con Juzgados Administrativos Municipales, los particulares afectados podrán acudir directamente ante el Tribunal de lo Contencioso Administrativo, para los efectos del último párrafo del artículo 206.
+
+Artículo Sexto.- Los Ayuntamientos contarán con un plazo de seis meses, contados a partir de la entrada en vigor del presente decreto, para adecuar su normatividad al contenido de la Ley.
