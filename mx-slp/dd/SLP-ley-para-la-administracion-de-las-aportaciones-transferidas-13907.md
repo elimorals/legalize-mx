@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-administracion-de-las-aportaciones-transferidas-139
 country: "mx"
 rank: "ley"
 publication_date: "1999-03-16"
-last_updated: "2000-12-30"
+last_updated: "2001-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA ADMINISTRACION DE LAS APORTACIONES TRANSFERIDAS AL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de marzo de 1999.
 
@@ -351,9 +351,17 @@ VII. Infraestructura básica educativa;
 
 VIII. Mejoramiento de vivienda;
 
-IX. Caminos rurales, y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-X. Infraestructura productiva rural.
+IX. Caminos rurales;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+X. Infraestructura productiva rural, y
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XI. Tratamiento y disposición de sus aguas residuales.
 
 ###### ARTICULO 46.
 
@@ -385,7 +393,9 @@ Asimismo, el Ayuntamiento destinará el dos porciento (sic) de su techo financie
 
 El Ayuntamiento deberá validar con la dependencia normativa correspondiente, los expedientes técnicos en los siguientes rubros:
 
-I. Agua potable y drenaje: con la Comisión Estatal de Agua Potable Alcantarillado y Saneamiento, y el Organismo Operador de Agua Potable donde éstos estén legalmente constituidos;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+I. Agua potable, drenaje, tratamiento y disposición de sus aguas residuales: con la Comisión Estatal de Agua Potable Alcantarillado y Saneamiento y el Organismo de Agua Potable donde estén legalmente constituidos;
 
 II. Electrificación: con la Comisión Federal de Electricidad;
 
@@ -629,7 +639,9 @@ Recibidos los recursos de los Fondos Estatales y Municipales por el Estado y los
 
 La supervisión y vigilancia no podrá implicar limitaciones, ni restricciones de cualquier índole, en la administración y ejercicio de dichos Fondos.
 
-La fiscalización de las cuentas públicas del Estado y de los municipios, será efectuada por la Contaduría Mayor de Hacienda del Congreso del Estado de conformidad a las disposiciones legales aplicables, a efecto de verificar que las dependencias del Ejecutivo del Estado y de los municipios, respectivamente, aplicaron los recursos de los Fondos Estatales y Municipales para los fines previstos en esta Ley.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+La revisión y fiscalización de las cuentas públicas del Estado y de los municipios, serán efectuadas por la Contaduría Mayor de Hacienda del Congreso del Estado de conformidad a las disposiciones legales aplicables, a efecto de verificar que las dependencias del Ejecutivo del Estado y de los municipios, respectivamente, aplicaron los recursos de los Fondos Estatales y Municipales par (sic) los fines previstos en esta Ley.
 
 (ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000) (F. DE E., P.O. 1 DE ENERO DE 2001)
 
@@ -710,3 +722,9 @@ LIC. JUAN CARLOS BARRON CERDA.
 P.O. 30 DE DICIEMBRE DE 2000.
 
 UNICO. El presente Decreto entrará en vigor el 1 de enero de 2001.
+
+P.O. 20 DE MARZO DE 2001.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
