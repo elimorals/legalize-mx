@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-31792"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "1993-12-09"
+last_updated: "1994-06-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -2643,11 +2643,11 @@ XII.- La consignación en pago;
 
 XIII.- Las acciones relativas a servidumbres legales o que consten en títulos públicos;
 
-(EN SUSPENSO LA VIGENCIA, P.O. 20 DE MAYO DE 1993)
+(EN SUSPENSO LA VIGENCIA, P.O. 9 DE JUNIO DE 1994)
 
 XIV.- Las rectificaciones y modificaciones de actas del Registro Civil, a que se refiere el artículo 130 del Código Civil.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 14 DE OCTUBRE DE 1993)
+(EN SUSPENSO LA VIGENCIA, P.O. 9 DE JUNIO DE 1994)
 
 XV. Las solicitudes de inscripción en el Registro Civil, de los actos que no hubieran sido inscritos dentro de los plazos que el propio código señala para cada uno de ellos
 
@@ -2657,7 +2657,7 @@ XVII.- En los casos a que se refiere el artículo 58 del Código Civil; y
 
 XVIII.- En general, las cuestiones que por su naturaleza requieran celeridad a juicio del juez, o porque así lo determine la ley.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 20 DE MAYO DE 1993)
+(EN SUSPENSO LA VIGENCIA, P.O. 9 DE JUNIO DE 1994)
 
 ###### ARTICULO 432.
 
@@ -2665,7 +2665,7 @@ En los casos de la Fracción XIV del artículo anterior se oirá al Ministerio P
 
 Si el Director del Registro Civil no contestase la demanda, se tendrá por presuntivamente confesados los hechos en que se funda el pedimento de rectificación o de modificación y luego de recibidas las pruebas y oídos los alegatos de los interesados si los formulasen por escrito dentro de tres días se dictará la resolución correspondiente.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 14 DE OCTUBRE DE 1993)
+(EN SUSPENSO LA VIGENCIA, P.O. 9 DE JUNIO DE 1994)
 
 ###### ARTICULO 433.
 
@@ -6342,3 +6342,31 @@ SEGUNDO.- El Ejecutivo del Estado por conducto de la Dependencia competente impu
 TERCERO.- Hasta en tanto exista legislación que modifique el concepto, se entiende por vivienda de interés social aquella cuyo valor no excede de veinte veces el salario mínimo general elevado al año y por vivienda popular aquella cuyo valor no excede de treinta y cinco veces el salario mínimo elevado al año.
 
 CUARTO.- Hasta el día 31 de marzo de 1994, los propietarios, poseedores o titulares de derechos de viviendas conceptuadas como de interés social o popular, podrán otorgar por declaración unilateral de voluntad y en escritura pública, disposición para designar beneficiarios en los términos de lo establecido por los artículos 1158, 1378 y 1460 Bis del código Civil que se adicionan, esta estipulación surtirá los efectos y se ejecutará al tenor de los articulos 904 y 921 Bis que se adicionan al Código de Procedimientos Civiles vigente en el Estado.
+
+P.O. 9 DE JUNIO DE 1994.
+
+LEY QUE DEJA EN SUSPENSO LA VIGENCIA DE LOS ARTICULOS 431, FRACCION XV Y 433 DEL CODIGO.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado, "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Las personas que al entrar en vigor la presente Ley estén tramitando juicio de registro de nacimiento extemporáneo, podrán optar por concluir aquel o acudir ante la Dirección del Registro Civil, en los términos de lo dispuesto en este ordenamiento.
+
+###### ARTICULO TERCERO.
+
+Las disposiciones juridicas que se opongan a la presente quedan sin efecto mientras dure la vigencia de ésta, a cuyo término recobrarán aquellas su pleno vigor.
+
+P.O. 9 DE JUNIO DE 1994
+
+LEY QUE DEJA EN SUSPENSO LA VIGENCIA DE LOS ARTICULOS 431, FRACCIÓN XIV Y 432 DEL CODIGO.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado, "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Las personas que al entrar en vigor la presente Ley están tramitando juicio de rectificación o modificación de actas, podrán optar por concluir aquel o acudir ante la Dirección del Registro Civil, en los términos de lo dispuesto en este ordenamiento, para que se lleve a cabo la rectificación o modificación correspondiente.
