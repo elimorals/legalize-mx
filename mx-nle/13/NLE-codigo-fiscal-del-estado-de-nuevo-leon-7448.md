@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "1986-12-31"
+last_updated: "1987-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO FISCAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1987.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -344,6 +344,10 @@ El cheque recibido por las autoridades fiscales que sea presentado en tiempo y n
 > <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
 
 En el caso de aprovechamientos, los recargos se calcularán de conformidad con lo dispuesto en el segundo párrafo de este artículo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+
+Cuando el contribuyente pague en forma espontánea las contribuciones omitidas en los términos del artículo 73 de este Código, el importe de los recargos no excederá del 100% de las contribuciones omitidas.
 
 ###### ARTICULO 23.
 
@@ -2659,6 +2663,12 @@ T R A N S I T O R I O S :
 
 - Cuando hasta el 31 de diciembre de 1986 se hubieren generado recargos sobre contribuciones o productos estatales o municipales insolutos, o sobre obligaciones a cargo del fisco, y dichos recargos hayan alcanzado el 100% o menos del importe de la obligación principal; a partir del 1o. de enero de 1987 se reanudará o continuará la causación de los mismos, en los términos y condiciones previstos en las leyes vigentes en la Entidad.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
+
+###### ARTICULO DECIMO
+
+- Los contribuyentes que a partir de 1988 cubran espontáneamente adeudos fiscales cuyos recargos hubieren excedido del límite previsto en el último párrafo del artículo 22 de este Código, les será aplicable lo dispuesto en dicho párrafo y, por lo tanto, los recargos no excederán del 100% de las contribuciones omitidas.
+
 Por lo tanto envíese al Ejecutivo para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital a los veintiséis días del mes de noviembre de mil novecientos ochenta y cuatro.- PRESIDENTE: DIP. VALENTIN TAMEZ ENRIQUEZ; DIP. SECRETARIO: RENE ALVAREZ MENDOZA; DIP. SECRETARIO: Por M. de Ley: ELIAS ZUÑIGA GUTIERREZ.- RUBRICAS.
@@ -2690,3 +2700,17 @@ El presente Decreto entrará en vigor el día 1o. de Enero de 1987.
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que contravengan a lo preceptuado en el presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 1987.
+
+###### ARTICULO PRIMERO
+
+- El presente Decreto entrará en vigor el 1o. de Enero de 1988.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan todas las disposiciones, leyes y reglamentos que se opongan al contenido del presente Decreto.
+
+###### ARTICULO TERCERO
+
+- Con motivo de la reforma efectuada al artículo 28 de la Constitución Política del Estado, deberá entenderse que las disposiciones fiscales y administrativas de la Entidad que mencionan al Municipio de Garza García, se refieren al Municipio de San Pedro Garza García.
