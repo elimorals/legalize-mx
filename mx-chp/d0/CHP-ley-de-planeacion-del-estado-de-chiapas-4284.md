@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-planeacion-del-estado-de-chiapas-4284"
 country: "mx"
 rank: "ley"
 publication_date: "1987-09-30"
-last_updated: "1989-05-24"
+last_updated: "2005-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY DE PLANEACION DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1989.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE PLANEACION PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL PERIODICO OFICIAL EL 17 DE MARZO DE 2005.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el miércoles 30 de septiembre de 1987.
 
@@ -368,3 +370,15 @@ P.O. 24 DE MAYO DE 1989
 ###### ARTICULO UNICO
 
 LAS MODIFICACIONES, ADICIONES Y DEROGACIONES CONTENIDAS EN EL PRESENTE DECRETO ENTRARAN EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+
+P.O. 17 DE MARZO DE 2005.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley de Planeación del Estado de Chiapas, publicada en el Periódico Oficial del Estado número treinta y nueve, del treinta de septiembre de mil novecientos ochenta y siete y sus reformas y adiciones; así como las demás disposiciones legales que se opongan a la presente ley que se expide.
+
+Artículo Tercero.- Las dependencias de la administración pública estatal, por única ocasión deberán presentar el correspondiente Programa Sectorial, conforme al Acuerdo de Sectorización, a más tardar el 31 de marzo del año 2005.
+
+Artículo Cuarto.- Las dependencias y entidades de la administración pública estatal, por única ocasión deberán presentar sus Programas Institucionales correspondiente al periodo 2005-2006, a más tardar el 31 de marzo del año 2005.
+
+Artículo Quinto.- El Titular del Poder Ejecutivo del Estado, deberá expedir el reglamento de esta Ley, en un término de 90 días, en tanto no se expidan el Reglamento respectivo, continuarán en vigor las disposiciones aplicables que no contravengan la presente Ley.
