@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1974-09-30"
+last_updated: "1974-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE SEPTIEMBRE DE 1974.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE DICIEMBRE DE 1974.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -105,7 +105,7 @@ Son ciudadanos del Estado los varones y las mujeres, que teniendo la calidad de 
 
 I.- Haber cumplido dieciocho años y
 
-II.-Ttener un modo honesto de vivir.
+II.- Tener un modo honesto de vivir.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -371,9 +371,9 @@ IV.- decidir sobre la legalidad de las elecciones de los Ayuntamientos;
 
 V.- dar, interpretar y derogar Leyes y Decretos;
 
-> <small>(REFORMADA, D.O. 4 DE OCTUBRE DE 1944)</small>
+> <small>(REFORMADA, D.O.23 DE DICIEMBRE DE 1974)</small>
 
-VI.- Examinar las cuentas de los caudales públicos, durante el primero o segundo periodo de sesiones ordinarias, y durante el mismo segundo periodo o en el periodo de sesiones extraordinarias a que se refiere la fracción XIV del artículo 55 de esta ley, aprobar el presupuesto anual de ingresos y egresos que debe presentarle el Ejecutivo e imponer las contribuciones necesarias para cubrirlo;
+VI.- Examinar las cuentas de los caudales públicos durante el primero o segundo periodo de sesiones ordinarias o durante un periodo de sesiones extraordinarias a que se convoque; y aprobar la Ley de Ingresos y Presupuesto de Egresos que debe presentarle el Ejecutivo en los términos que establece la fracción XIV del artículo 55 de esta Constitución e imponer las contribuciones necesarias para cubrirlo.
 
 VII.- señalar las contribuciones que deban formar la Hacienda Municipal, procurando sean suficientes a cubrir las necesidades del Municipio;
 
@@ -477,11 +477,11 @@ Los Diputados que acepten la renuncia del Gobernador, sin llenarse los requisito
 
 No puede el Congreso conceder dispensa de Ley a ninguna persona o corporación, ni tampoco dispensa o revalidación de los estudios que determinen las Leyes sobre Instrucción Pública para efecto de obtener Título Profesional.
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADO, D.O.23 DE DICIEMBRE DE 1974)</small>
 
 ###### Artículo 34.
 
-El Contador Mayor enviará al Congreso las cuentas a que se contrae la fracción VI del artículo 30 de esta Constitución, dentro de los diez primeros días del segundo periodo de sesiones ordinarias.
+El Contador Mayor de Hacienda enviará al Congreso con la periodicidad y oportunidad que éste le fije las cuentas a que se contrae la fracción VI del artículo 30 de esta Constitución, en cualesquiera de los periodos ordinarios o extraordinarias a que dicha fracción se refiere, no pudiendo en caso alguno exceder del término de seis meses las cuentas que corresponda examinar.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1470,6 +1470,12 @@ UNICO.- El presente decreto comenzará a regir el día siguiente al de su public
 D.O. 30 DE SEPTIEMBRE DE 1974.
 
 UNICO.- El presente decreto comenzará a regir el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 23 DE DICIEMBRE DE 1974.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
 ###### ARTICULO PRIMERO.
 
