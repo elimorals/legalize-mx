@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-37-2002-del-pleno-del-consejo-de-la-61076"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2002-07-15"
-last_updated: "2002-07-15"
+last_updated: "2003-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61076&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-07-08"
 
 ACUERDO GENERAL 37/2002, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DETERMINA LA CREACION TEMPORAL DE LOS JUZGADOS TERCERO DE DISTRITO "A" Y TERCERO DE DISTRITO "B" EN EL ESTADO DE CHIHUAHUA, CON RESIDENCIA EN LA CIUDAD DEL MISMO NOMBRE; LA DENOMINACION, COMPETENCIA, JURISDICCION TERRITORIAL Y FECHA DE INICIO DE FUNCIONAMIENTO DE DICHOS ORGANOS JURISDICCIONALES; ASI COMO LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN EL MENCIONADO ESTADO Y SEDE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE NOVIEMBRE DE 2003.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 15 de julio de 2002.
 
@@ -77,17 +77,17 @@ A su vez el juez Tercero de Distrito "A" continuará utilizando los libros de go
 
 Los jueces de Distrito “A” y “B” indicados en los párrafos precedentes, deberán elaborar acta circunstanciada en la que conste la entrega y recepción de los expedientes y los valores respectivos.
 
-SEXTO.- Serán consideradas áreas comunes: la oficialía de partes, el archivo, la papelería, el Sistema Integral de Seguimiento de Expedientes, el control de objetos del delito, y el oficial de servicios y mantenimiento, las cuales deberán desarrollar sus actividades de tal manera que atiendan los requerimientos de servicio de los dos juzgados de Distrito, quedando bajo la responsabilidad del juez de Distrito "A" todo lo relacionado con su funcionamiento, las incidencias laborales y, en su caso, el nombramiento del personal de dichas áreas.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 73/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE NOVIEMBRE DE 2003)</small>
 
-Por cuanto hace a los valores que se manejan en el órgano jurisdiccional federal cuya transformación se determina, se acompañarán al expediente del que forman parte, por lo que deberán ser recibidos por el juez de Distrito de que se trate, llevando este último su control mediante el libro de registro relativo.
+SEXTO.- A partir del diez de noviembre de dos mil tres, los juzgados tercero de Distrito “A” y tercero de Distrito “B”, ambos en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre, contarán con oficialía de partes, archivo, papelería, Sistema Integral de Seguimiento de Expedientes, control de valores y oficial de servicios y mantenimiento independientes, agregándose, en su caso, el personal necesario para completar la plantilla autorizada para dichos órganos jurisdiccionales federales.
 
 SEPTIMO.- Los movimientos estadísticos originados con motivo del reparto de expedientes, deberán informarse oportunamente a la Unidad de Estadística y Planeación Judicial del Consejo de la Judicatura Federal. Los titulares de los mencionados juzgados de Distrito "A" y "B", deberán enviar por separado su reporte estadístico mensual.
 
-OCTAVO.- La Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre, seguirá turnando los asuntos nuevos conforme lo viene realizando.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 73/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE NOVIEMBRE DE 2003)</small>
 
-Para la recepción de los asuntos en horas y días inhábiles, se conservarán las reglas de temporalidad que actualmente operan en los juzgados de Distrito antes precisados, por lo que en la fecha señalada en el punto primero de este acuerdo estará de turno el Juzgado Primero de Distrito en el Estado de Chihuahua, con residencia en la ciudad del mismo nombre.
+OCTAVO.- Para la recepción de nuevos asuntos en horas y días hábiles, la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Chihuahua, con sede en la ciudad del mismo nombre, los turnará de forma independiente y alternada, de tal manera que por cada cuatro asuntos que reciban los juzgados de Distrito permanentes, se turnarán tres asuntos al juzgado tercero de Distrito “A” y tres al juzgado tercero de Distrito “B”.
 
-Los Juzgados Tercero de Distrito "A" y "B" en el Estado y sede mencionados estarán de turno simultáneamente.
+Para la recepción de nuevos asuntos en horas y días inhábiles, los juzgados de Distrito anteriormente referidos, continuarán con el turno ya establecido.
 
 NOVENO.- En virtud de que se trata de una medida temporal, la creación de los juzgados de Distrito a que se refiere el presente acuerdo no modifica el diverso Acuerdo General 23/2001 del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se divide el Territorio de la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
 
@@ -100,3 +100,11 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 37/2002, del Pleno del Consejo de la Judicatura Federal, Que Determina la Creación Temporal de los Juzgados Tercero de Distrito "A" y Tercero de Distrito "B" en el Estado de Chihuahua, con Residencia en la Ciudad del Mismo Nombre; la Denominación, Competencia, Jurisdicción Territorial y Fecha de Inicio de Funcionamiento de Dichos Organos Jurisdiccionales; así como las Reglas de Turno, Sistema de Recepción y Distribución de Asuntos Entre los Juzgados de Distrito en el Mencionado Estado y Sede, fue aprobado por el propio Pleno, en sesión extraordinaria de ocho de julio de dos mil dos, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a ocho de julio de dos mil dos.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 7 DE NOVIEMBRE DE 2003.
+
+PRIMERO.- Este acuerdo entrará en vigor a partir del diez de noviembre de dos mil tres.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
