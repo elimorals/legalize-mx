@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-anuncios-para-el-distrito-federal-33662"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-28"
-last_updated: "2003-08-28"
+last_updated: "2003-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33662&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-08-18"
 
 REGLAMENTO DE ANUNCIOS PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE DICIEMBRE DE 2003.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de agosto de 2003.
 
@@ -368,7 +368,9 @@ IV. Los anuncios y los elementos que lo conformen, no podrán sobresalir del per
 
 V. No se permitirán anuncios que obstruyan la visibilidad a los vecinos de los predios colindantes, debiendo tener una distancia mínima de 30 metros de éstos;
 
-VI. Sólo se permitirá una estructura por inmueble, la cual podrá contener dos carátulas a un mismo nivel formando un ángulo o paralelos. La altura mínima de la base o parte de la sustentación será de 2.20 metros entre la losa de la azotea y la parte inferior de la cartelera, mientras que su altura mínima del nivel de banqueta a la parte superior de la cartelera, no podrá ser mayor a 25 metros;
+> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2003)</small>
+
+VI. Sólo se permitirá una estructura por inmueble, la cual podrá contener dos carátulas a un mismo nivel formando un ángulo o paralelos. La altura mínima sobre la base o parte de la sustentación será de 2.20 metros entre la loza de la azotea y la parte inferior de la cartelera, mientras que su altura máxima del nivel de la banqueta a la parte superior de la cartelera, no podrá ser mayor a 25 metros;
 
 VII. La distancia mínima entre un anuncio de éstos respecto de otro igual o autosoportado deberá ser de 200 metros con una tolerancia de 10 metros a los extremos más cercanos; y
 
@@ -1759,3 +1761,9 @@ QUINTO.- Las solicitudes de las licencias, permisos o permisos publicitarios, al
 SEXTO .- Las licencias, permisos o permisos publicitarios que se encuentren vigentes a la entrada en vigor del presente Reglamento, no podrán renovarse a su vencimiento; siendo necesario la tramitación de un nuevo documento cumpliendo los requisitos que para el caso se establezcan en este Reglamento.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los dieciocho días del mes de agosto de dos mil tres. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- SECRETARIO DE GOBIERNO, LIC. ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, LAURA ITZEL CASTILLO JUÁREZ.- FIRMA.- SECRETARIA DEL MEDIO AMBIENTE.- FIRMA.- DRA. CLAUDIA SHEIMBAUM PARDO.- FIRMA.- SECRETARIO DE OBRAS Y SERVICIOS, ING. CÉSAR BUENROSTRO HERNÁNDEZ.- FIRMA.- SECRETARIO DE TRANSPORTES Y VIALIDAD, LIC. FRANCISCO GARDUÑO YÁÑEZ.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 2 DE DICIEMBRE DE 2003.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
