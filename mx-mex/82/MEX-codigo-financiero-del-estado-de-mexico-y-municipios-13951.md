@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2004-07-01"
+last_updated: "2004-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE DICIEMBRE DE 2004.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -65,7 +65,9 @@ II. Ampliación Presupuestaria. A la modificación que implica un aumento líqui
 
 III. Asociación en Participación. Es un contrato por el cual una persona concede a otras que le aporten bienes o servicios, una participación en las utilidades y en las pérdidas de una negociación mercantil o de una o varias operaciones de comercio.
 
-Para efectos fiscales, las asociaciones en participación se consideran personas morales.
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+Para efectos fiscales, las asociaciones en participación se consideran personas jurídicas colectivas.
 
 IV. Ayuntamiento. A los Ayuntamientos del Estado de México.
 
@@ -139,9 +141,13 @@ XXXIII. Tesorería. A la tesorería municipal.
 
 XXXIV. Transferencia. A la entrega de recursos a través de ayudas y apoyos económicos e inversión patrimonial al sector auxiliar con el objeto de sufragar gasto corriente de consumo o de operación.
 
-XXXV. Traspaso Presupuestario Externo. A las modificaciones de recursos que se llevan a cabo entre partidas de diferentes capítulos, proyecto y centros de costo.
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-XXXVI. Traspaso Presupuestario Interno. A las modificaciones de recursos que se llevan a cabo entre partidas de un mismo capítulo y unidad ejecutora.
+XXXV. Traspaso Presupuestario Externo. A las modificaciones de los recursos asignados que se realicen entre programas.
+
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+XXXVI. Traspaso Presupuestario Interno. A las modificaciones de los recursos asignados que se realicen dentro programas.
 
 XXXVII. Vivienda. Es la prevista en la fracción I del artículo 5.41 del Código Administrativo del Estado de México y que se refiere a los tipos siguientes:
 
@@ -189,15 +195,17 @@ Ninguna contribución podrá recaudarse si no está prevista en la Ley de Ingres
 
 Las contribuciones establecidas en este Código se clasifican en:
 
-I. Impuestos. Son los establecidos en este Código que deben pagar las personas físicas y morales, que se encuentren en la situación jurídica o de hecho prevista por el mismo, y que sean distintas a las señaladas en las fracciones II y III de este artículo.
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
+I. Impuestos. Son los establecidos en este Código que deben pagar las personas físicas y jurídicas colectivas, que se encuentren en la situación jurídica o de hecho prevista por el mismo, y que sean distintas a las señaladas en las fracciones II y III de este artículo.
 
-II. Derechos. Son las contraprestaciones establecidas en este Código, que deben pagar las personas físicas y morales, por el uso o aprovechamiento de los bienes del dominio público de la Entidad, así como por recibir servicios que presten el Estado, sus organismos y municipios en funciones de derecho público.
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
+II. Derechos. Son las contraprestaciones establecidas en este Código, que deben pagar las personas físicas y jurídicas colectivas, por el uso o aprovechamiento de los bienes del dominio público de la Entidad, así como por recibir servicios que presten el Estado, sus organismos y Municipios en funciones de derecho público.
 
-III. Aportaciones de Mejoras. Son las establecidas en este Código, a cargo de las personas físicas y morales, que con independencia de la utilidad general, obtengan un beneficio diferencial particular derivado de la realización de obras públicas o de acciones de beneficio social; así como las que efectúen las personas a favor del Estado para la realización de obras de incorporación e impacto vial regional, que directa o indirectamente les beneficien.
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+III. Aportaciones de Mejoras. Son las establecidas en este Código, a cargo de las personas físicas y jurídicas colectivas, que con independencia de la utilidad general, obtengan un beneficio diferencial particular derivado de la realización de obras públicas o de acciones de beneficio social; así como las que efectúen las personas a favor del Estado para la realización de obras de impacto vial regional, que directa o indirectamente les beneficien.
 
 ###### Artículo 10.
 
@@ -259,11 +267,11 @@ Las disposiciones fiscales que establezcan cargas a las personas, incluidas las 
 
 Las demás disposiciones fiscales se deberán aplicar mediante cualquier método de interpretación jurídica. A falta de norma fiscal expresa, se aplicarán las disposiciones del derecho común vigente en el Estado, siempre y cuando su aplicación no sea contraria a la naturaleza jurídica del derecho fiscal.
 
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 19.
 
-Las personas físicas y morales, incluidas las asociaciones en participación, están obligadas al pago de las contribuciones y aprovechamientos, conforme a las disposiciones de este Código.
+Las personas físicas y jurídicas colectivas, incluidas las asociaciones en participación, están obligadas al pago de las contribuciones y aprovechamientos, conforme a las disposiciones de este Código.
 
 ###### Artículo 20.
 
@@ -279,13 +287,13 @@ Las oficinas recaudadoras recibirán las declaraciones, avisos, solicitudes y de
 
 Cuando los contribuyentes obligados a presentar declaraciones, avisos y demás documentos no lo hagan dentro de los plazos señalados en este Código, las autoridades fiscales exigirán su presentación ante las oficinas rentísticas o recaudadoras, procediendo a realizar alguno de los actos siguientes:
 
-> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-I. Requerir al contribuyente una cantidad igual a la contribución que éste debió determinar en la declaración omitida.
+I. Requerir al contribuyente una cantidad igual a la contribución que éste debió determinar en la declaración omitida con la correspondiente actualización y accesorios legales.
 
-> <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-II. Requerir al contribuyente una cantidad igual a la contribución determinada en la última declaración presentada
+II. Requerir al contribuyente una cantidad igual a la contribución determinada en la última declaración presentada con la correspondiente actualización y accesorios legales.
 
 > <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -311,9 +319,11 @@ Si como consecuencia de la presentación de la declaración complementaria, se d
 
 Los sujetos obligados a presentar declaraciones de conformidad con este Código y no tengan contribución a pagar, las presentarán en ceros.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 22.
 
-Se considera domicilio fiscal de las personas físicas y morales:
+Se considera domicilio fiscal de las personas físicas y jurídicas colectivas:
 
 I. El lugar en que realicen actividades que generen obligaciones fiscales.
 
@@ -341,15 +351,15 @@ E). El contribuyente desocupe el local donde tenga su domicilio fiscal, sin pres
 
 F). Cuando se señale domicilio inexistente o falso.
 
-> <small>(ADICIONADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-Las notificaciones por estrados se harán fijando durante cinco días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación. La autoridad dejará constancia de ello en el expediente respectivo. En estos caos, se tendrá como fecha de notificación la del sexto día siguiente a aquél en que se hubiera fijado el documento.
+Las notificaciones por estrados se harán fijando durante quince días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación. La autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del decimosexto día siguiente a aquél en que se hubiera fijado el documento.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 23.
 
-Están exentos del pago de impuestos, derechos y aportaciones de mejoras, el Estado, los municipios, los entes autónomos, los organismos descentralizados estatales y municipales y las entidades federativas en caso de reciprocidad, cuando su actividad corresponda a funciones de derecho público, así como las personas físicas y morales que señale este Código o en casos particulares de la Ley de Ingresos.
+Están exentos del pago de impuestos, derechos y aportaciones de mejoras, el Estado, los Municipios, los Entes Autónomos, las Entidades Públicas y las Entidades Federativas en caso de reciprocidad, cuando su actividad corresponda a funciones de derecho público, así como las personas físicas y jurídicas colectivas que señale este Código o en casos particulares de la Ley de Ingresos.
 
 Para efectos de la declaración de la exención a que se refiere la fracción IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, la calidad de bien del dominio público, deberá acreditarse fehacientemente. La exención se solicitará por escrito a la autoridad fiscal, debiéndose acompañar u ofrecer las pruebas que demuestren su procedencia.
 
@@ -369,33 +379,51 @@ La obligación fiscal nace cuando se realizan las situaciones jurídicas o de he
 
 Cualquier estipulación privada, relativa al pago de un crédito fiscal que se oponga a lo dispuesto por las leyes fiscales se tendrá como inexistente jurídicamente y, por lo tanto, no surtirá efecto legal alguno.
 
-> <small>(DEROGADO TERCER PARRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+El cumplimiento o exigibilidad de la obligación fiscal, no legitimará hechos o circunstancias no apegadas a la ley.
+
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 25.
 
-La determinación de los créditos fiscales corresponde a los contribuyentes. En caso de que la autoridad fiscal deba realizar esta acción, los contribuyentes proporcionarán la información necesaria dentro de los diez días siguientes a la fecha de su causación.
+La determinación de los créditos fiscales corresponde a los contribuyentes, salvo disposición expresa en contrario. En caso de que la autoridad fiscal deba realizar esta determinación, los contribuyentes proporcionarán la información necesaria dentro de los quince días siguientes a la fecha de su causación.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 26.
 
-Los créditos fiscales se pagarán en efectivo, cheque de caja o certificado, cheques personales, transferencias de fondos a través de medios bancarios, tarjetas de crédito o débito y en especie vía dación en pago.
+Los créditos fiscales se pagarán en efectivo, cheque de caja o certificado, cheques personales, transferencias de fondos a través de medios bancarios o electrónicos, tarjetas de crédito o débito y en especie vía dación en pago.
 
-El pago con cheques personales, las transferencias de fondos a través de medios bancarios o tarjetas de crédito o débito, la dación en pago, únicamente se aceptarán cuando así lo apruebe la autoridad fiscal.
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+El pago con cheques personales, las transferencias de fondos a través de medios bancarios o electrónicos, tarjetas de crédito o débito, la dación en pago, únicamente se aceptarán cuando así lo apruebe la autoridad fiscal. Las transferencias de fondos a través de medios electrónicos, deberán ser autorizadas previamente por la autoridad fiscal.
+
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 La dación en pago estará condicionada a la aceptación por parte de la autoridad fiscal quien la admitirá únicamente cuando no haya otros bienes de más fácil realización. La resolución que se emita al efecto no constituirá instancia ni procederá recurso alguno en su contra.
 
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+
 En el caso de los bienes inmuebles sólo se considerarán para dación en pago los que se puedan destinar a un servicio público, conforme al valor que resulte del peritaje elaborado por especialista en valuación inmobiliaria registrado ante el IGECEM. En caso de obras de arte y cultura, así como de bienes muebles de fácil realización, se aceptarán siempre y cuando se puedan incorporar al patrimonio del Estado y municipios, y su valuación se determine por perito designado por autoridad fiscal.
+
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 Todos los gastos que se generen por virtud de la dación en pago, se pagarán por el contribuyente, pudiendo, en su caso, incorporarse a la liquidación total del crédito.
 
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+
 El pago con cheque se recibirá salvo buen cobro. Previa autorización de la autoridad fiscal, se aceptarán también cheques sin certificar distintos de la cuenta personal del contribuyente para el pago de créditos fiscales.
+
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 El cheque recibido por la autoridad fiscal deberá ser presentado al librado dentro de los quince días siguientes al de su fecha y en caso de que no sea pagado dará lugar además del cobro del monto del cheque, a una indemnización que será del 20% del valor de éste y los accesorios legales que sean procedentes por el falso pago.
 
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+
 Quien pague créditos fiscales recibirá de la oficina recaudadora el recibo oficial o la forma prellenada, en los que conste la impresión original de la máquina registradora, y cuando se carezca de ella, deberá constar el sello de la oficina recaudadora y el nombre y firma del cajero o del servidor público autorizado. Tratándose de los pagos efectuados en las oficinas de las instituciones de crédito autorizadas, el comprobante para el contribuyente deberá contener la impresión de la máquina registradora, el sello, la constancia o el acuse de recibo correspondiente, el desglose del concepto de pago y la referencia bancaria.
+
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 En el pago de créditos fiscales a través de transferencia de fondos, se considerará como recibo oficial del pago, el documento impreso por el contribuyente, emitido por el sistema de cobranza automatizado reconocido por la autoridad fiscal, en el que conste el número de referencia que se asigne a la operación autorizada.
 
@@ -473,11 +501,11 @@ Asimismo podrán dictar las medidas relacionadas con la administración, control
 
 Las resoluciones que conforme a este artículo se dicten, deberán señalar las contribuciones o aprovechamientos a que se refieren, el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplir los beneficiarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 32.
 
-La autoridad fiscal competente previa solicitud del contribuyente podrá autorizar el pago a plazos, ya sea diferido o en parcialidades para cubrir las contribuciones omitidas y sus accesorios, sin que dicho plazo exceda de veinticuatro meses, siempre que se garantice el crédito fiscal. Durante el transcurso de la prórroga se causarán recargos sobre saldos insolutos, de acuerdo a la tasa que para este efecto establezca la Ley de Ingresos.
+La autoridad fiscal competente previa solicitud del contribuyente podrá autorizar el pago a plazos, ya sea diferido o en parcialidades para cubrir las contribuciones o aprovechamientos omitidos y sus accesorios, sin que dicho plazo exceda de veinticuatro meses, siempre que se garantice el crédito fiscal. Durante el transcurso de la prórroga se causarán recargos sobre saldos insolutos, de acuerdo a la tasa que para este efecto establezca la Ley de Ingresos.
 
 Otorgado el beneficio, el contribuyente deberá efectuar el pago de la primera parcialidad, dentro de los diez días hábiles siguientes al día en que se le haya notificado el beneficio.
 
@@ -551,7 +579,9 @@ V. Para que un tercero asuma la obligación de garantizar el interés fiscal, de
 
 A). Manifestará su aceptación mediante escrito firmado ante la autoridad recaudadora que tenga encomendado el cobro del crédito fiscal, identificándose a satisfacción de la misma, ante la presencia de dos testigos.
 
-B). Cuando sea persona moral la que garantice el interés fiscal, el monto de la garantía deberá ser menor al 10% de su capital social mínimo fijo.
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+B). Cuando sea persona jurídica colectiva la que garantice el interés fiscal, el monto de la garantía deberá ser menor al 10% de su capital social mínimo fijo.
 
 > <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -693,9 +723,9 @@ La devolución deberá llevarse a cabo siempre que no haya créditos fiscales ex
 
 Si el pago de lo indebido se hubiera efectuado en cumplimiento de un acto de autoridad, el derecho a la devolución nace cuando dicho acto hubiera quedado insubsistente.
 
-> <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de sesenta días siguientes a la fecha en que se presente la solicitud, con los datos, informes y documentos en que se sustente el derecho, ante la autoridad fiscal. Cuando falte algún dato, informe o documento, la autoridad en un plazo de cinco días requerirá al promovente para que lo presente o subsane la omisión, lo que éste deberá hacer en un plazo de diez días, y de no hacerlo la solicitud se tendrá por no presentada. Cuando exista requerimiento, el plazo de sesenta días se contará a partir de que se subsane la omisión.
+Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de cuarenta días siguientes a la fecha en que se presente la solicitud, con los datos, informes y documentos en que se sustente el derecho, ante la autoridad fiscal. Cuando falte algún dato, informe o documento, la autoridad en un plazo de cinco días requerirá al promovente para que lo presente o subsane la omisión, lo que éste deberá hacer en un plazo de veinte días y de no hacerlo la solicitud se tendrá por no presentada. Cuando exista requerimiento, el plazo de cuarenta días se contará a partir de que se subsane la omisión.
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -735,7 +765,9 @@ La prescripción de créditos fiscales podrá declararse, de oficio o a petició
 
 El término para la prescripción, se interrumpe con cada gestión de cobro que la autoridad notifique al contribuyente o por el reconocimiento expreso o tácito de éste, respecto de la existencia del crédito. Se considera gestión de cobro cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, notificada legalmente.
 
-> <small>(DEROGADO ULTIMO PARRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+Cuando se suspenda el procedimiento administrativo de ejecución, también se interrumpe el plazo de la prescripción. Igualmente se interrumpirá el plazo a que se refiere este artículo cuando el contribuyente desocupe su domicilio fiscal sin el aviso de cambio o cuando lo señale de manera incorrecta, continuando el cómputo del plazo a partir de que el contribuyente sea localizado.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -746,6 +778,10 @@ Los contribuyentes obligados a pagar mediante declaraciones podrán optar por co
 No se causarán recargos cuando el contribuyente compense el saldo a su favor, hasta por el monto de dicho saldo, siempre que éste se haya originado con anterioridad a la fecha en que debió pagarse la contribución de que se trate.
 
 Sólo se causarán recargos por el período comprendido entre la fecha en que debió pagarse la contribución y la fecha en que se originó el saldo a compensar, cuando el saldo a favor del contribuyente se hubiere originado con posterioridad a la fecha en que se causó la contribución a pagar.
+
+> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+Si la compensación se hubiera efectuado y no procediera, se causarán recargos sobre las cantidades compensadas indebidamente, actualizadas por el período transcurrido desde el mes en que se efectuó la compensación indebida, hasta aquel en que se haga el pago del monto de la compensación indebidamente efectuada.
 
 Procede la compensación, cuando se trate de cualesquiera clase de créditos o deudas a cargo del Estado, derivados de créditos de cualquier naturaleza a favor de la Federación, otras entidades Federativas o del Municipio; y cuando se trate de cualquier clase de créditos o deudas a cargo de la Federación, de otras Entidades Federativas, Municipio y Organismos Descentralizados a favor del Estado.
 
@@ -791,7 +827,9 @@ Son obligaciones de los contribuyentes:
 
 I. Inscribirse en los registros fiscales en un plazo que no excederá de treinta días a partir de la fecha en que se genere la obligación fiscal, utilizando las formas oficiales.
 
-II. Señalar el domicilio fiscal en el que realicen actividades que generen obligaciones fiscales.
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+II. Señalar el domicilio fiscal en el que realicen actividades que generen obligaciones fiscales e informar de los cambios a éste.
 
 III. Consignar en las declaraciones, manifestaciones y avisos previstos en este Código, la clave de registro asignada por la autoridad fiscal.
 
@@ -969,7 +1007,13 @@ IV. Se haya cometido la conducta que causa el daño o perjuicio a la hacienda p�
 
 El plazo señalado en este artículo no estará sujeto a interrupción y sólo se suspenderá cuando se ejerzan las facultades de comprobación de la autoridad fiscal o cuando se interponga algún medio de defensa.
 
-El plazo de caducidad que se suspenda con motivo del ejercicio de las facultades de comprobación, inicia con la notificación de su ejercicio y concluye cuando se notifique la resolución definitiva por parte de la autoridad fiscal. La suspensión a que se refiere este párrafo estará condicionada a que, dentro de los ocho meses siguientes al inicio de las facultades de comprobación, se levante acta final, se emita oficio de observaciones o se dicte la resolución definitiva. De no cumplirse esta condición se entenderá que no hubo suspensión.
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+El plazo de caducidad que se suspenda con motivo del ejercicio de las facultades de comprobación, inicia con la notificación de su ejercicio y concluye cuando se notifique la resolución definitiva por parte de la autoridad fiscal. La suspensión a que se refiere este párrafo estará condicionada a que, dentro de los plazos señalados en el artículo 48 de este Código, se levante acta final, se notifique oficio de observaciones o se dicte la resolución definitiva. De no cumplirse esta condición se entenderá que no hubo suspensión.
+
+> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+El plazo señalado en este artículo se suspenderá cuando las autoridades fiscales no puedan iniciar el ejercicio de sus facultades de comprobación en virtud de que el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado aviso del cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal. En estos casos, se reiniciará el cómputo del plazo de caducidad a partir de la fecha en la que se localice al contribuyente. Asimismo, el plazo a que hace referencia este artículo se suspenderá en los casos de huelga, a partir de que se suspenda temporalmente el trabajo y hasta que termine la huelga y en el de fallecimiento del contribuyente, hasta en tanto se designe representante legal de la sucesión.
 
 Los contribuyentes, transcurridos los plazos a que se refiere este artículo, podrán solicitar se declare que se han extinguido las facultades de la autoridad fiscal.
 
@@ -1057,83 +1101,83 @@ XV. Pagos de primas de seguros para gastos médicos o de vida.
 
 XVI. Pagos realizados a las personas por los servicios que presten a un prestatario, siempre que dichos servicios se lleven a cabo en las instalaciones o por cuenta de éste último, por los que no se deba pagar el impuesto al valor agregado.
 
-> <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 56 Bis.
 
-Quienes realicen pagos a trabajadores por concepto de edificación de obra, e incumplan con la obligación puntual del pago de este impuesto, deberán proporcionar a la oficina rentística correspondiente, la base para determinar correctamente la cantidad a pagar y los accesorios legales generados.
+Quienes realicen pagos a trabajadores por concepto de edificación de obra y/o acabados, e incumplan con la obligación puntual del pago de este impuesto, deberán proporcionar a la oficina rentística correspondiente, la base para determinar correctamente la cantidad a pagar y los accesorios legales generados.
+
+> <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 En caso de que el contribuyente después de ser requerido por la autoridad fiscal competente, no aporte dentro del término de 20 días, los datos y documentos necesarios y suficientes para la determinación del impuesto o cuando no sea posible establecer la base, se calculará considerando el número de metros cuadrados de construcción que declare el propio contribuyente o determine la autoridad fiscal.
 
+> <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+
 Los propietarios que realicen la edificación de una sola vivienda social progresiva para su habitación personal, cuyo monto global no exceda de 55,000 UDIS no causarán este impuesto. Tampoco causarán este impuesto, los propietarios que realicen modificaciones y/o remodelaciones a una vivienda social progresiva, cuando la obra no exceda un monto de 11,000 UDIS. El documento con el que se acreditarán los supuestos anteriores lo constituirá la licencia de construcción que expida la autoridad municipal correspondiente.
+
+> <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 Al importe que resulte de multiplicar el número de metros cuadrados de construcción por el costo de mano de obra por metro cuadrado, de acuerdo a la siguiente tabla, se le aplicará la tasa vigente a que se refiere el artículo 57 de este código.
 
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
 Tipo de obra Costo por m2
 
-Bardas $ 214.
+Bardas $223.
 
-Bodegas $ 286.
+Bodegas $297.
 
-Canchas de tenis $ 119.
+Canchas de tenis $124.
 
-Casa habitación de interés social $ 477.
+Casa habitación de interés social $496.
 
-Casa habitación tipo medio $ 566.
+Casa habitación tipo medio $589.
 
-Casa habitación residencial de lujo $ 740.
+Casa habitación residencial de lujo $770.
 
-Cines $ 552.
+Cines $574.
 
-Edificios habitacionales de interés
+Edificios habitacionales de interés social $479.
 
-social $ 461.
+Edificios habitacionales tipo medio $558.
 
-Edificios habitacionales tipo medio $ 537.
+Edificios habitacionales de lujo $821.
 
-Edificios habitacionales de lujo $ 789.
+Edificios de oficinas $479.
 
-Edificios de oficinas $ 461.
+Edificios de oficinas y locales comerciales $633.
 
-Edificios de oficinas y
+Escuelas de estructura de concreto $443.
 
-locales comerciales $ 609.
+Escuelas de estructura metálica $520.
 
-Escuelas de estructura de concreto $ 426.
+Estacionamientos $280.
 
-Escuelas de estructura metálica $ 500.
+Gasolineras $331.
 
-Estacionamientos $ 269.
+Gimnasios $496.
 
-Gasolineras $ 318.
+Hospitales $853.
 
-Gimnasios $ 477.
+Hoteles $859.
 
-Hospitales $ 820.
+Hoteles de lujo $1,156.
 
-Hoteles $ 826.
+Locales comerciales $515.
 
-Hoteles de lujo $1,112.
+Naves industriales $440.
 
-Locales comerciales $ 495.
+Naves para fábricas, bodegas y/o talleres $308.
 
-Naves industriales $ 423.
+Piscinas $393.
 
-Naves para fábricas, bodegas
+Remodelaciones $505.
 
-y/o talleres $ 296.
+Templos $473.
 
-Piscinas $ 378.
+Urbanizaciones $171.
 
-Remodelaciones $ 486.
-
-Templos $ 455.
-
-Urbanizaciones $ 164.
-
-Vías de comunicación subterráneas
-
-y conexas $ 841.
+Vías de comunicación subterráneas y conexas $875.
 
 > <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -1147,9 +1191,9 @@ El impuesto se determinará aplicando la tasa del 2.5% sobre el monto total de l
 
 Este impuesto se causará en el momento en que se realicen las erogaciones por remuneraciones al trabajo personal a que se refiere el artículo 56 de este Código, y se pagará mediante declaración en la forma oficial aprobada, que deberá presentarse a más tardar el día diecisiete del mes siguiente a aquél en que se causó el impuesto.
 
-> <small>(ADICIONADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-El contribuyente que tenga diversas sucursales en el territorio del Estado, podrá optar por realizar un solo pago concentrado por todas sus oficinas en una declaración, previa autorización de la autoridad fiscal, debiendo anexar a cada pago concentrado una relación de todas las sucursales con que cuente, indicando para cada una, su domicilio, número de empleados e importe de salarios pagados en el período de la declaración y el monto del impuesto correspondiente.
+El contribuyente que tenga diversas sucursales, oficinas o establecimientos en el territorio del Estado, podrá optar por realizar un solo pago concentrado por todas en una declaración, previa autorización de la autoridad fiscal, debiendo anexar a cada pago concentrado una relación de todas las sucursales, oficinas o establecimientos con que cuente, indicando para cada una su domicilio, número de empleados e importe de salarios pagados en el periodo de la declaración y el monto del impuesto correspondiente.
 
 > <small>(ADICIONADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -1179,7 +1223,9 @@ VI. Pensiones, jubilaciones y gastos funerarios.
 
 VII. Pagos a trabajadores domésticos.
 
-VIII. Pagos a discapacitados.
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+VIII. Pagos a personas con capacidades diferentes.
 
 IX. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
 
@@ -1233,23 +1279,31 @@ Este impuesto se determinará como sigue:
 
 I. En el caso de vehículos de uso particular, la determinación será atendiendo al cilindraje del motor, conforme a la siguiente:
 
-TARIFA:
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+TARIFA
 
 CONCEPTO CILINDRAJE
 
-Hasta 4 $179.
+Hasta 4 $186.
 
-De 5 a 6 $401.
+De 5 a 6 $417.
 
-De más de 6 $578.
+De más de 6 $601.
 
-II. En el caso de motocicletas, se pagará una cuota de $134.
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-III. En el caso de vehículos destinados al transporte público de pasajeros, se pagará una cuota de $578.
+II. En el caso de motocicletas, se pagará una cuota de $139.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+III. En el caso de vehículos destinados al transporte público de pasajeros, se pagará una cuota de $601.
 
 Tratándose de vehículos de servicio público de transporte de pasajeros que pasen a ser de servicio particular, no pagarán el impuesto previsto en esta sección en el año que esta circunstancia ocurra, siempre y cuando se encuentren al corriente en el pago de esta contribución.
 
-IV. En el caso de vehículos de carga o de arrastre, con placas de servicio particular o de servicio público, se pagará una cuota de $134, por cada tonelada o fracción de capacidad de carga, o de arrastre, según corresponda. Si se acredita con la tarjeta de circulación respectiva que el vehículo se utiliza en actividades agropecuarias, no pagará este impuesto.
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+IV. En el caso de vehículos de carga o de arrastre, con placas de servicio particular o de servicio público, se pagará una cuota de $139, por cada tonelada o fracción de capacidad de carga, o de arrastre, según corresponda. Si se acredita con la tarjeta de circulación respectiva que el vehículo se utiliza en actividades agropecuarias, no pagará este impuesto.
 
 #### SECCION TERCERA. DEL IMPUESTO SOBRE LA ADQUISICION DE VEHICULOS AUTOMOTORES USADOS
 
@@ -1279,29 +1333,31 @@ I. Tratándose de automóviles de hasta diez años modelo anterior al de aplicac
 
 Se considerará el valor total del automóvil establecido en la factura original o carta factura que hubiese expedido el fabricante, ensamblador o distribuidor autorizado, se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente tabla:
 
-AÑO DE AÑO FACTOR DE FACTOR DE
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+AÑOS DE AÑO FACTOR DE FACTOR DE
 
 ANTIGÜEDAD DEPRECIACION ACTUALIZACION
 
-1 2004 .975 0.9970
+1 2005 .975 0.9838
 
-2 2003 .850 1.0538
+2 2004 .850 1.0398
 
-3 2002 .725 1.1106
+3 2003 .725 1.0958
 
-4 2001 .600 1.2092
+4 2002 .600 1.1548
 
-5 2000 .500 1.3774
+5 2001 .500 1.2573
 
-6 1999 .400 1.6172
+6 2000 .400 1.4323
 
-7 1998 .300 1.9047
+7 1999 .300 1.6816
 
-8 1997 .225 2.4337
+8 1998 .225 1.9805
 
-9 1996 .150 3.6131
+9 1997 .150 2.5306
 
-10 1995 .075 3.8635
+10 1996 .075 3.7570
 
 La cantidad obtenida conforme a los pasos anteriores, se multiplicará por el factor de actualización a que se refiere este artículo, y al resultado se le aplicará la tasa del 1%.
 
@@ -1449,7 +1505,7 @@ DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION TECNICA Y DEL PERIODICO
 
 #### SECCION TERCERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE EDUCACION, CULTURA Y BIENESTAR SOCIAL
 
-> <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 #### SECCION CUARTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA
 
@@ -1499,7 +1555,23 @@ B). Por cada hoja subsecuente $18.
 
 II. Copias simples $17.
 
+> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+A). Por la primera hoja $10.
+
+> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+B). Por cada una de las subsecuentes $1.
+
 III. Expedición de copias certificadas de testimonios de viviendas de interés social, social progresiva y popular $4.
+
+> <small>(ADICIONADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+IV. Por la expedición de información en medios magnéticos. $8
+
+> <small>(ADICIONADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+V. Por la expedición de información en disco compacto. $15
 
 ###### Artículo 71.
 
@@ -1523,7 +1595,7 @@ servidores públicos del Poder Ejecutivo:
 
 1. De Educación:
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
 
 a). Programas de estudio. $51.
 
@@ -1575,9 +1647,9 @@ Haya. $152.
 
 III. (DEROGADA, G.G. 31 DE DICIEMBRE DE 2001)
 
-(ACTUALIZADA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-IV. Por autorización de folios de los volúmenes de protocolo ordinario, especial y libros de cotejos.
+IV. Por autorización de folios de los volúmenes de protocolo ordinario y libros de cotejos.
 
 (ACTUALIZADO, G.G. 1 DE JULIO DE 2004)
 
@@ -1614,6 +1686,8 @@ DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DE SEGURIDAD PU
 ###### Artículo 75.
 
 Las personas físicas y morales que presten los servicios de seguridad privado (sic), pagarán derechos conforme a la siguiente:
+
+(ACTUALIZADA, G.G. 30 DE JUNIO DE 2003)
 
 TARIFA
 
@@ -1687,13 +1761,13 @@ TARIFA
 
 CONCEPTO
 
-> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-I. Por la evaluación y dictamen anual de la capacidad técnica y práctica de las personas físicas o morales, y en su caso, de los bienes muebles o inmuebles, vehículos, instrumentos o enseres en general destinados a utilizarse de manera permanente, temporal o eventual, dentro de las labores de protección civil a cargo de grupos voluntarios.
+I. Por la evaluación y dictamen anual de la capacidad técnica y práctica de las personas físicas o jurídicas colectivas que ejerzan actividades en materia de protección civil.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-A). De las condiciones de seguridad físicas, mecánicas e higiénicas. $1,323.
+A). Grupos voluntarios. $1,349.
 
 (ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
 
@@ -1701,21 +1775,21 @@ B). Prestadoras de servicios de consultoría o capacitación en materia de prote
 
 II. (DEROGADA, G.G. 30 DE DICIEMBRE DE 2003)
 
-(ACTUALIZADA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-III. Por la evaluación de las condiciones de seguridad para usos de suelo que generen impacto regional. $2,040.
+III. Por la evaluación de las condiciones de seguridad para usos del suelo que generen impacto regional. $2,081.
 
 (ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
 
 IV. Por la prestación de los servicios de asesoría técnica a personas físicas o morales que así lo soliciten, para la elaboración de sus programas específicos de protección civil. $2,040.
 
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-V. Por el análisis de vulnerabilidad y/o riesgo de la evaluación y emisión de resultados, así como la incorporación de información cualitativa y cuantitativa del Subsistema Afectable identificado al Sistema Estatal de Riesgos. $2,646.
+V. Por la evaluación del análisis de vulnerabilidad y riesgo, así como la incorporación de información cualitativa y cuantitativa del Subsistema Afectable identificado al Sistema Estatal de Riesgos. $2,699.
 
-(ACTUALIZADA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-VI. Por el suministro de productos del Subsistema Estatal de Riesgos, en medios magnéticos o impresos $1,637.
+VI. Por el suministro de productos del Sistema Estatal de Riesgos, en medios digitales o impresos. $1,670.
 
 (ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
 
@@ -1771,13 +1845,19 @@ G). Obras de ingeniería civil. $2,035.
 
 H). Industrias químicas de transformación $2,035.
 
-I). (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
+> <small>(REFORMADO [N. DE E. ADICIONADO ], G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-(ACTUALIZADO, G.G. 30 DE JUNIO DE 2003)
+I). Almacén para la compra-venta de pólvoras
+
+deportivas, fulminantes y demás proyectiles
+
+impulsados por deflagración de pólvora. $1,795
+
+(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
 
 J). Reparación de armas de fuego y gas $1,345.
 
-(ACTUALIZADO, G.G. 30 DE JUNIO DE 2003)
+(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
 
 K). Transporte especializado de explosivos $1,795.
 
@@ -1825,15 +1905,15 @@ XII. Por el suministro de guías:
 
 A). Para la elaboración de programas específicos de protección civil $204.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-B). Para la elaboración de análisis de riesgo y vulnerabilidad $204.
+B). Para la elaboración de análisis de vulnerabilidad y riesgo, por guía $208.
 
 SUBSECCION CUARTA
 
 DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DEL REGISTRO PUBLICO DE LA PROPIEDAD
 
-> <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 77.
 
@@ -1841,283 +1921,101 @@ Por inscripción de documentos o actos relativos a bienes inmuebles se pagarán 
 
 I. Por inscripciones relativas a la propiedad o posesión originaria de bienes inmuebles:
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+A). Apeo y deslinde. $369
 
-A). Apeo y deslinde $362.
+B). Capitulaciones matrimoniales sobre inmuebles. $369
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+C). La declaración, reconocimiento, adquisición o transmisión de la propiedad o posesión de inmuebles o derechos sobre los mismos por cualquier título.
 
-B). Capitulaciones matrimoniales sobre inmuebles $362.
+Se considera que existe transmisión o cesión de derechos de fideicomitente o fideicomisario cuando hay sustitución de un fideicomitente o de un fideicomisario por cualquier motivo.
 
-C). Compra-venta. Se equipararán a la compra-venta los siguientes actos o contratos:
+En el caso de la permuta de derechos se cobrarán por cada uno de los inmuebles.
 
-1. La inmatriculación de construcciones.
+D). La compraventa a plazos, con reserva de dominio o cualquier otra condición resolutoria o suspensiva y la constitución de fideicomiso traslativo de dominio.
 
-2. La adjudicación por remate a postor o fuera de subasta.
+E). La promesa cuyo contrato definitivo deba ser inscrito por disposición de Ley.
 
-3. La adquisición de la propiedad de bienes inmuebles en virtud de la usucapión o de información de dominio.
+Tratándose del registro de actos que constituyan compraventa a plazos, con reserva de dominio o cualquier otra condición resolutoria o suspensiva, constitución de fideicomiso traslativo de dominio, transmisión de dominio en ejecución de fideicomiso, promesa de venta y transmisión de propiedad o posesión relacionados con viviendas de interés social, social progresiva o popular, se pagarán por concepto de derechos $42.
 
-4. La aplicación de bienes de la sociedad conyugal a persona distinta de los cónyuges.
+En el caso de predios que se destinen a la construcción de conjuntos urbanos de los tipos de vivienda referidos en el párrafo que antecede, se pagarán $2,185. Para ser sujeto de dichos beneficios, el propietario del predio deberá recabar de la Secretaría de Desarrollo Urbano y Vivienda la constancia correspondiente.
 
-5. La aportación de bienes inmuebles a asociaciones o sociedades mercantiles o civiles, y la adjudicación por liquidación de éstas.
+F). La inmatriculación judicial o administrativa de inmuebles, por cada predio.
 
-6. La cesión de derechos hereditarios o de legatarios.
+Las inmatriculaciones administrativas por las que se regularice la tenencia de la tierra en campañas promovidas por el Gobierno o por los ayuntamientos, quedarán exentas del pago de los derechos señalados en este inciso.
 
-7. La cesión de derechos de fideicomitente o fideicomisario. Se considera que existe ésta cuando hay sustitución de un fideicomitente o de un fideicomisario, por cualquier motivo.
+G). Constitución de régimen de propiedad en condominio, división de la copropiedad, fusión, fraccionamiento, lotificación, relotificación, subdivisión de predios, por cada unidad privativa, fracción, lote resultante o fusionada se pagarán por concepto de derechos $555.
 
-8. La compra-venta a plazos, con reserva de dominio o cualquiera otra condición resolutoria o suspensiva y la constitución de fideicomiso traslativo de dominio.
+H). Otros actos inscribibles o anotables.
 
-9. La transmisión de dominio en ejecución de fideicomiso.
+Por las inscripciones o anotaciones de régimen de propiedad en condominio, fraccionamiento, lotificación, relotificación o subdivisión de predios relacionados con vivienda de interés social, social progresiva o popular, se pagarán por concepto de derechos $88, siempre y cuando conste de manera expresa que en los lotes de que se trate o fracciones resultantes se construirán ese tipo de viviendas, o que en el condominio en su totalidad tendrá esa naturaleza.
 
-10. La dación en pago.
-
-11. La donación.
-
-12. La permuta, aplicándose la tasa por cada uno de los inmuebles.
-
-13. La promesa de venta.
-
-14. Tratándose de bienes por disolución de la sociedad conyugal, respecto del cónyuge que no fuese titular registral, se tomará como base el 50% del valor del inmueble.
-
-15. Las informaciones posesorias, por cada predio.
-
-16. Las adjudicaciones por herencia.
-
-17. La transferencia de bienes inmuebles con motivo de la fusión o escisión de sociedades.
-
-18. El otorgamiento y firma de escritura hecha por autoridad judicial.
-
-19. La transmisión de propiedad o posesión de inmuebles por cualquier título.
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-Tratándose del registro de los actos a que aluden los numerales 8, 9, 13 y 19 de este inciso, relacionados con viviendas de interés social, social progresiva o popular, se pagarán por concepto de derechos $41.
-
-(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003) (ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-En el caso de predios que se destinen a la construcción de conjuntos urbanos o lotificaciones en condominio, de los tipos de vivienda referidos en el párrafo que antecede, se pagarán $2,142. Para ser sujeto de dichos beneficios, el propietario del predio deberá recabar de la Secretaría de Desarrollo Urbano y Vivienda, la constancia correspondiente.
-
-D). La inmatriculación judicial o administrativa de inmuebles, por cada predio.
-
-Las inmatriculaciones administrativas por las que se regularice la tenencia de la tierra en campañas promovidas por el Gobierno o los ayuntamientos, quedarán exentas del pago de derechos señalados en este inciso.
-
-E). Constitución del régimen de condominio, por cada uno de los departamentos, despachos, viviendas, locales o cualquier otro tipo de unidades privativas.
-
-F). División de la copropiedad, por cada uno de los predios resultantes.
-
-G). Fusión de predios, por cada uno de los predios fusionados.
-
-H). Actos, contratos, convenios o autorizaciones por los que se fracciones, lotifique, relotifique o subdivida un predio, por cada lote o fracción.
-
-I). Otros actos inscribibles o anotables.
-
-(ACTUALIZADO, G.G. 1 DE JULIO DE 2004)
-
-Por las inscripciones o anotaciones a que se refieren los incisos E), F), G) y H), se pagarán por concepto de derechos $544.
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-Por las inscripciones o anotaciones prevista en los incisos E) y H) referidas a viviendas social progresiva, de interés social o popular, se pagarán por concepto de derechos $86, siempre y cuando conste de manera expresa que en los lotes de que se trate o fracciones resultantes se construirán este tipo de viviendas, o que el condominio en su totalidad tendrá esa naturaleza.
-
-(ACTUALIZADO PRIMER PÁRRAFO, G.G. 1 DE JULIO DE 2004)
-
-Por las inscripciones o anotaciones de los actos a que se refieren los incisos C), D) e I), se pagarán derechos, conforme a los (sic) siguiente:
-
-(ACTUALIZADA, G.G. 30 DE JUNIO DE 2003)
+Por las inscripciones de los actos a que se refieren los incisos C), D), E), F) y H), se pagarán derechos, conforme a la siguiente:
 
 TARIFA
 
 CONCEPTO
 
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
+1. Cuando los actos a inscribir no tengan valor determinado o éste sea hasta de $148,787. $1,000
 
-1. Cuando los actos a inscribir no tengan valor determinado
+2. Cuando el valor de los actos a inscribir sea de más de $148,787 y hasta de $185,985. $3,003
 
-o éste sea hasta de $145,870. $980.
+3. Cuando el valor de los actos a inscribir sea de más de $185,985 y hasta de $223,181. $5,003
 
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
+4. Cuando el valor de los actos a inscribir sea de más de $223,181 y hasta de $260,378. $7,004
 
-2. Cuando el valor de los actos a inscribir sea de más de
+5. Cuando el valor de los actos a inscribir sea de más de $260,378 y hasta de $297,576. $9,007
 
-$145,870. y hasta $182,338. $2,944.
+6. Cuando el valor de los actos a inscribir sea de más de $297,576. $10,027
 
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
+Por las inscripciones a que se refiere el inciso C), D), E) y H) se tomará como valor el que resulte mayor entre el inserto o declarado en la operación, el catastral o el de avalúo, para la ubicación del rango correspondiente de la tarifa anterior. Tratándose de las adquisiciones que hagan los arrendatarios financieros al ejercer la opción de compra, se tomará como valor el que se haya concertado en el contrato de arrendamiento financiero respectivo. Cuando el objeto del acto jurídico sean dos o más inmuebles se deberá expresar, en el documento respectivo, el valor de cada uno de ellos a fin de ubicarlos en el rango correspondiente en forma individual.
 
-3. Cuando el valor de los actos a inscribir sea de más de
+La cancelación por revocación, rescisión, mandato judicial o a solicitud de parte interesada de las inscripciones a que se refiere esta fracción $395.
 
-$182,338. y hasta $218,805. $4,905.
-
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
-
-4. Cuando el valor de los actos a inscribir sea de más de
-
-$218,805. y hasta $255,273. $6,867.
-
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
-
-5. Cuando el valor de los actos a inscribir sea de más de
-
-$255,273. y hasta $291,741. $8,830.
-
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
-
-6. Cuando el valor de los actos a inscribir sea de más de
-
-$291,741. $9,830.
-
-Por las inscripciones a que se refiere el inciso C) se tomará como valor el que resulte mayor entre el inserto o declarado en la operación, el catastral o el de avalúo, para la ubicación del rango correspondiente de la tarifa anterior. Tratándose de las adquisiciones que hagan los arrendatarios financieros al ejercer la opción de compra, se tomará como valor el que se haya concertado en el contrato de arrendamiento financiero respectivo. Cuando el objeto del acto jurídico sean dos o más inmuebles se deberá expresar, en el documento respectivo, el valor de cada uno de ellos a fin de ubicarlos en el rango correspondiente en forma individual.
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-La cancelación por revocación, rescisión, mandato judicial o a solicitud de parte interesada de las inscripciones a que se refiere esta fracción $387.
-
-II. Por inscripciones o autorizaciones relativas a las limitaciones o gravámenes de la propiedad y posesión original del inmueble:
-
-A). Arrendamiento, subarrendamiento o cesión de arrendamiento.
-
-B). Constitución o sustitución de garantías reales.
-
-C). Cesión de garantías u obligaciones reales.
-
-D). Cédula hipotecaria, tomando como base la cantidad adeudada.
-
-E). Comodato.
-
-F). Contratos de crédito refaccionario y de habilitación o avío.
-
-G). Convenios judiciales.
-
-H). Condiciones suspensivas o resolutorias a que se haya sujetado la transmisión de la propiedad.
-
-I). Demandas, resoluciones judiciales y providencias precautorias que limiten el derecho de la propiedad o posesión.
-
-J). Embargos.
-
-K). Fideicomisos de afectación o administración en garantía, y en el que él o los fideicomitentes, se reserven expresamente la propiedad.
-
-L). Fianzas.
-
-M). Habitación.
-
-N). Prendas sobre créditos inscritos.
-
-Ñ). Prenda de frutos pendientes.
-
-O). Uso.
-
-P). Constitución o transmisión de usufructo.
-
-Q). Servidumbre.
-
-R). División de hipoteca.
-
-S). Otros actos inscribibles o anotables.
-
-Por las inscripciones o anotaciones de los actos a que se refiere esta fracción se pagarán por concepto de derechos, la siguiente:
-
-(ACTUALIZADA, G.G. 30 DE JUNIO DE 2003)
+II. Por inscripciones o anotaciones de actos o mandamientos judiciales que limiten, graven el derecho de propiedad o posesión o prohíban la enajenación de la propiedad o posesión original de bienes inmuebles, se pagarán por concepto de derechos, conforme a la siguiente:
 
 TARIFA
 
 CONCEPTO
 
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
+1. Cuando los actos a inscribir no tengan valor determinado o este sea hasta de $148,787. $1,000
 
-1. Cuando los actos a inscribir no tengan valor determinado
+2. Cuando el valor de los actos a inscribir sea de más de $148,787 y hasta de $185,985. $3,003
 
-o éste sea hasta $145,870. $980.
+3. Cuando el valor de los actos a inscribir sea de más de $185,985 y hasta de $223,181. $5,003
 
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
+4. Cuando el valor de los actos a inscribir sea de más de $223,181 y hasta de $260,378. $7,004
 
-2. Cuando el valor de los actos a inscribir sea de más de
+5. Cuando el valor de los actos a inscribir sea de más de $260,378 y hasta de $297,576. $9,007
 
-$145,870. y hasta $182,338. $2,944.
+6. Cuando el valor de los actos a inscribir sea de más de 297,576. $10,027
 
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
+Tratándose de cédula hipotecaria se tomará como base la cantidad adeudada.
 
-3. Cuando el valor de los actos a inscribir sea de más de
+La división de hipoteca pagará una cantidad equivalente a $1,000.
 
-$182,338. y hasta $218,805. $4,905.
-
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
-
-4. Cuando el valor de los actos a inscribir sea de más de
-
-$218,805. y hasta $255,273. $6,867.
-
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
-
-5. Cuando el valor de los actos a inscribir sea de más de
-
-$255,273. y hasta $291,741. $8,830.
-
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
-
-6. Cuando el valor de los actos a inscribir sea de más de
-
-$291,741. $9,830.
-
-Por la inscripción de las hipotecas en las que intervengan el Fondo Instituido en Relación a la Agricultura (FIRA), el pago de los derechos se hará conforme a la siguiente:
-
-(ACTUALIZADA, G.G. 30 DE JUNIO DE 2003)
+Por la inscripción de las hipotecas en las que intervenga el Fondo Instituido en Relación a la Agricultura (FIRA), el pago de los derechos se hará conforme a la siguiente:
 
 TARIFA
 
 CONCEPTO
 
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
+A). Cuando el valor de la operación sea hasta de $357,092. $327
 
-A). Cuando el valor de la operación sea hasta $350,090. $321.
+B). Cuando el valor de la operación exceda de $357,092. $830
 
-(ACTUALIZADO EN SUS TARIFAS G.G. 1 DE JULIO DE 2004)
+Por la inscripción de hipotecas para garantizar el crédito principal y refinanciamiento para la construcción y adquisición de viviendas de interés social, social progresiva o popular, se pagarán $88.
 
-B). Cuando el valor de la operación exceda de $350,090. $814.
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-Por la inscripción de hipotecas para garantizar el crédito principal y refinanciamiento para la construcción y adquisición de viviendas de interés social, social progresiva o popular, se pagarán $86.
-
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
-
-Para cada cancelación de inscripción o anotación relativa a los actos anteriores, se pagarán $814. a excepción de las cancelaciones respecto de inmuebles destinados a viviendas de interés social, social progresiva o popular, en cuyo caso se pagará un derecho equivalente a $43., así como en el caso de cancelación de inscripciones o anotaciones que se relacionen con créditos en los que intervenga el Fondo Instituido en Relación con la Agricultura.
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-Tratándose de división de hipoteca, deberá pagarse una cantidad equivalente a $980.
+Para cada cancelación de inscripción o anotación relativa a los actos anteriores, se pagarán $830. a excepción de las cancelaciones respecto de inmuebles destinados a viviendas de interés social, social progresiva o popular, en cuyo caso se pagará un derecho equivalente a $44., así como en el caso de cancelación de inscripciones o anotaciones que se relacionen con créditos en los que intervenga el Fondo Instituido en Relación con la Agricultura.
 
 Cuando en un solo documento se contengan dos o más contratos a inscribir, el monto de cada uno de ellos se ubicará en el rango correspondiente en forma individual, para efectos de la aplicación de la tarifa de esta fracción.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
-
 Para la aplicación de los derechos previstos en este artículo referidos a viviendas de interés social, social progresiva o popular, nueva o usada, su transmisión deberá llevarse a cabo directamente por el constructor de la vivienda, por la Federación, Estado o municipio, a través de los organismos correspondientes, o bien con recursos proporcionados por éstos cuando la transmisión se haga entre particulares, debiendo acreditarse fehacientemente la naturaleza de las viviendas y el origen de sus recursos y además que su valor al término de la construcción o adquisición no exceda los valores que establece la fracción XXXVII del artículo 3 de este Código para cada tipo de vivienda.
 
-(DEROGADO PENULTIMO PARRAFO, G.G. 30 DE DICIEMBRE DE 2003)(F. DE E., G.G. 4 DE FEBRERO DE 2004)
+Tratándose de hipotecas para garantizar créditos obtenidos para la construcción o adquisición de viviendas de interés social, social progresiva o popular, se aplicarán los derechos referidos a este tipo de viviendas, aún cuando la suma del capital e intereses garantizados superen el monto del valor de las mismas conforme a los criterios anteriores.
 
-Tratándose de hipotecas para garantizar créditos obtenidos para la construcción o adquisición de viviendas de interés social, social progresiva o popular, se aplicarán los derechos referidos a este tipo de vivienda, aún cuando la suma del capital e intereses garantizados superen el monto del valor de las mismas conforme a los criterios anteriores.
+III. Por la inscripción de actos o documentos cuyo registro sea necesario como acto previo, para la inscripción de títulos traslativos de dominio, se pagarán por cada uno de ellos $369.
 
-III. En general, los títulos registrables cuya inscripción sea necesaria como acto previo para la inscripción de títulos traslativos de dominio:
-
-A). Testamentos.
-
-B). Auto de designación, aceptación, discernimiento de albacea, declaración y reconocimiento de herederos, si constan en el mismo documento.
-
-C). Sustitución del cargo de albacea.
-
-D). Repudio de la herencia.
-
-E). Autorización para vender o gravar bienes de menores.
-
-F). Poderes civiles y sustituciones.
-
-G). Actuaciones judiciales.
-
-H). Depósito de testamento ológrafo.
-
-I). Otros actos inscribibles o anotables.
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-Por inscripciones a que se refiere esta fracción se pagarán $362.
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 #### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
 
@@ -2127,177 +2025,77 @@ Por inscripciones a que se refiere esta fracción se pagarán $362.
 
 Por inscripciones de actos relativos a bienes muebles, se pagarán los siguientes derechos:
 
-I. Por inscripciones de actos o contratos que transmitan la propiedad de bienes muebles:
+I. Por inscripción de actos o contratos que transmitan la propiedad de bienes muebles, sea plena o con alguna condición suspensiva o resolutiva.
 
-A). Operaciones traslativas de dominio sujetas a condición resolutoria.
+II. Por inscripción de operaciones que limiten o graven bienes muebles.
 
-B). Adjudicaciones de cualquier clase.
+III. Por otros actos inscribibles o anotables.
 
-C). Aportaciones.
-
-D). Compra-venta.
-
-E). Compra-venta con reserva de dominio.
-
-F). Constitución de fideicomiso traslativo de dominio o traslación de propiedad definitiva en ejecución de fideicomiso.
-
-II. Por inscripciones de operaciones que limiten o graven bienes muebles.
-
-A). Alquiler.
-
-B). Cesión de créditos u obligaciones.
-
-C). Créditos refaccionarios y de habilitación o avío.
-
-D). Embargos.
-
-E). Fideicomisos no traslativos.
-
-F). Prenda.
-
-G). Resoluciones o convenios judiciales.
-
-H). Usufructo.
-
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-III. Por cancelación de cualquiera de los actos contenidos en este artículo, se pagarán $980.
-
-IV. Por otros actos inscribibles o anotables.
-
-Por las inscripciones a que se refieren las fracciones I, II y IV de este artículo, se pagarán derechos conforme a la siguiente:
-
-(ACTUALIZADA, G.G. 30 DE JUNIO DE 2003)
+Los derechos se pagarán conforme a la siguiente tarifa:
 
 TARIFA
 
 CONCEPTO
 
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
+1. Cuando los actos a inscribir no tengan valor determinado o éste sea hasta de $148,787. $1,000.
 
-1. Cuando los actos a inscribir no tengan valor determinado
+2. Cuando el valor de los actos a inscribir sea de más de $148,787 y hasta de $185,985. $3,003.
 
-o éste sea hasta $145,870. $980.
+3. Cuando el valor de los actos a inscribir sea de más de $185,985 y hasta de $223,181. $5,003.
 
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
+4. Cuando el valor de los actos a inscribir sea de más de $223,181 y hasta de $260,378. $7,004.
 
-2. Cuando el valor de los actos a inscribir sea de más de
+5. Cuando el valor de los actos a inscribir sea de más de $260,378 y hasta de $297,576. $9,007.
 
-$145,870. y hasta $182,338. $2,944.
+6. Cuando el valor de los actos a inscribir sea de más de $297,576. $10,027
 
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
+IV. Por cancelación de cualquiera de los actos contenidos en este artículo $1,000.
 
-3. Cuando el valor de los actos a inscribir sea de más de
-
-$182,338. y hasta $218,805. $4,905.
-
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
-
-4. Cuando el valor de los actos a inscribir sea de más de
-
-$218,805. y hasta $255,273. $6,867.
-
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
-
-5. Cuando el valor de los actos a inscribir sea de más de
-
-$255,273. y hasta $291,741. $8,830.
-
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
-
-6. Cuando el valor de los actos a inscribir sea de más de
-
-$291,741. $9,830.
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 #### SECCION PRIMERA. DEL IMPUESTO PREDIAL
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 79.
 
-Por inscripciones de documentos o actos relativos a personas morales, se pagarán los siguientes derechos:
+Por inscripciones de documentos o actos relativos a personas jurídicas colectivas, se pagarán los siguientes derechos:
 
-I. Escritura constitutiva de personas morales o de aumento de capital social.
+I. Escrituras constitutivas de personas jurídicas colectivas o aumento de capital social.
 
 En las sociedades de capital variable se tomará el capital suscrito como valor para la ubicación en el rango de la tarifa correspondiente.
 
-II. Disolución de personas morales.
+II. Actas de asambleas de socios o de juntas de administradores de conformidad a la legislación aplicable.
 
-III. Nombramiento de liquidadores y liquidación de personas morales.
+III. Otorgamiento o sustitución de poderes generales, nombramientos y revocación de los mismos conferidos a gerentes, administradores y cualesquiera otros mandatarios, se pagarán $408.
 
-IV. Disolución y liquidación de personas morales, cuando se lleven a cabo en un sólo acto.
+IV. Emisiones de acciones, cédulas, obligaciones o certificados de participación, tomándose como valor el importe de la emisión para la ubicación en el rango de la tarifa correspondiente.
 
-V. Actas de asambleas de socios o de juntas de administradores.
+V. Fianzas de corredores, se pagarán $555.
 
-VI. Modificaciones al pacto social constitutivo, siempre que no se refieran a un aumento de capital social.
+VI. Depósito de la firma en facsímil de los administradores, se pagarán $1,000.
 
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+VII. Depósito de copia autorizada por balance, se pagarán $1,000.
 
-VII. Otorgamiento o sustitución de poderes generales, nombramientos y revocación de los mismos conferidos a gerentes, administradores y cualesquiera otros mandatarios, se pagarán $400.
+VIII. Otros actos inscribibles o anotables.
 
-VIII. Emisiones de acciones, cédulas, obligaciones o certificados de participación, tomándose como valor el importe de la emisión para la ubicación en el rango de la tarifa correspondiente.
-
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-IX. Fianzas de corredores, se pagarán $544.
-
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-X. Depósito de la firma en facsímil de los administradores, se pagarán $980.
-
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-XI. Depósito de copia autorizada por balance, se pagarán $980.
-
-XII. Fusión de sociedades tomando como valor el capital social suscrito de la sociedad o sociedades que dejen de existir, para efectos de la ubicación en el rango de la tarifa correspondiente.
-
-XIII. Transformación de sociedades.
-
-XIV. Escisión de sociedades.
-
-XV. Otros actos inscribibles o anotables.
-
-Por las inscripciones a que se refieren las fracciones I, II, III, IV, V, VI, VIII, XII, XIII, XIV y XV de este artículo, se pagarán los derechos correspondientes, conforme a la siguiente:
-
-(ACTUALIZADA, G.G. 30 DE JUNIO DE 2003)
+Por las inscripciones a que se refieren las fracciones I, II, IV y VIII de este artículo, se pagarán los derechos correspondientes, conforme a la siguiente:
 
 TARIFA
 
 CONCEPTO
 
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
+1. Cuando los actos a inscribir no tengan valor determinado o éste sea hasta de $148,787. $1,000.
 
-1. Cuando los actos a inscribir no tengan valor determinado
+2. Cuando el valor de los actos a inscribir sea de más de $148,787 y hasta de $185,985. $3,003.
 
-o éste sea hasta $145,870. $980.
+3. Cuando el valor de los actos a inscribir sea de más de $185,985 y hasta de $223,181. $5,003.
 
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
+4. Cuando el valor de los actos a inscribir sea de más de $223,181 y hasta de $260,378. $7,004.
 
-2. Cuando el valor de los actos a inscribir sea de más de
+5. Cuando el valor de los actos a inscribir sea de más de $260,378 y hasta de $297,576. $9,007.
 
-$145,870. y hasta $182,338. $2,944.
-
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
-
-3. Cuando el valor de los actos a inscribir sea de más de
-
-$182,338. y hasta $218,805. $4,905.
-
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
-
-4. Cuando el valor de los actos a inscribir sea de más de
-
-$214,515. y hasta $255,273. $6,867.
-
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
-
-5. Cuando el valor de los actos a inscribir sea de más de
-
-$255,273. y hasta $291,741. $8,830.
-
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
-
-6. Cuando el valor de los actos a inscribir sea de más de
-
-$291,741. $9,830.
+6. Cuando el valor de los actos a inscribir sea de más de $297,576. $10,027.
 
 No pagarán los derechos señalados en este artículo las microindustrias que estén registradas en el Padrón Nacional de la Microindustria.
 
@@ -2307,57 +2105,35 @@ No pagarán los derechos señalados en este artículo las microindustrias que es
 
 Por inscripciones de títulos de propiedad sujetos a registro en los términos del Registro Público de la Propiedad, se pagarán derechos, conforme a la siguiente:
 
-(ACTUALIZADA, G.G. 30 DE JUNIO DE 2003)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 TARIFA
 
 CONCEPTO
 
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
+1. Cuando los actos a inscribir no tengan valor determinado o éste sea hasta de $148,787. $1,000.
 
-1. Cuando los actos a inscribir no tengan valor determinado
+2. Cuando el valor de los actos a inscribir sea de más de $148,787 y hasta de $185,985. $3,003.
 
-o éste sea hasta $145,870. $980.
+3. Cuando el valor de los actos a inscribir sea de más de $185,985 y hasta de $223,181. $5,003.
 
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
+4. Cuando el valor de los actos a inscribir sea de más de $223,181 y hasta de $260,378. $7,004.
 
-2. Cuando el valor de los actos a inscribir sea de más de
+5. Cuando el valor de los actos a inscribir sea de más de $260,378 y hasta de $297,576. $9,007.
 
-$145,870. y hasta $182,338. $2,944.
-
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
-
-3. Cuando el valor de los actos a inscribir sea de más de
-
-$182,338. y hasta $218,805. $4,905.
-
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
-
-4. Cuando el valor de los actos a inscribir sea de más de
-
-$218,805. y hasta $255,273. $6,867.
-
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
-
-5. Cuando el valor de los actos a inscribir sea de más de
-
-$255,273. y hasta $291,741. $8,830.
-
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
-
-6. Cuando el valor de los actos a inscribir sea de más de
-
-$291,741. $9,830.
+6. Cuando el valor de los actos a inscribir sea de más de $297,576. $10,027.
 
 #### SECCION SEGUNDA. DEL IMPUESTO SOBRE ADQUISICION DE INMUEBLES Y OTRAS OPERACIONES TRASLATIVAS DE DOMINIO DE INMUEBLES
+
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 81.
 
 Por inscripciones de actos o contratos mercantiles, se pagarán los siguientes derechos:
 
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-I. Corresponsalía, $545.
+I. Corresponsalía, $556
 
 II. Compra-venta con reserva de dominio.
 
@@ -2365,13 +2141,13 @@ III. Créditos refaccionarios, de habilitación o avío y en cuenta corriente.
 
 IV. Embargos.
 
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-V. Cancelaciones de los actos o contratos señalados en las fracciones I, II y IV, $980.
+V. Cancelaciones de los actos o contratos señalados en las fracciones I, II y IV, $1,000
 
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-VI. Registros o matrículas que acrediten la calidad de personas físicas comerciantes, $387.
+VI. Registros o matrículas que acrediten la calidad de personas físicas comerciantes, $395
 
 VII. Arrendamiento financiero.
 
@@ -2379,63 +2155,39 @@ VIII. Otros actos inscribibles o anotables.
 
 Por las inscripciones a que se refieren las fracciones II, III, IV, VII y VIII de este artículo, se pagarán los derechos correspondientes, conforme a la siguiente:
 
-(ACTUALIZADA, G.G. 30 DE JUNIO DE 2003)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 TARIFA
 
 CONCEPTO
 
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
+1. Cuando los actos a inscribir no tengan valor determinado o éste sea hasta de $148,787. $1,000
 
-1. Cuando los actos a inscribir no tengan valor determinado
+2. Cuando el valor de los actos a inscribir sea de más de $148,787 y hasta de $185,985. $3,003
 
-o éste sea hasta $145,870. $980.
+3. Cuando el valor de los actos a inscribir sea de más de $185,985 y hasta de $223,181. $5,003
 
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
+4. Cuando el valor de los actos a inscribir sea de más de $223,181 y hasta de $260,378. $7,004
 
-2. Cuando el valor de los actos a inscribir sea de más de
+5. Cuando el valor de los actos a inscribir sea de más de $260,378 y hasta de $297,576. $9,007
 
-$145,870. y hasta $182,338. $2,944.
-
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
-
-3. Cuando el valor de los actos a inscribir sea de más de
-
-$182,338. y hasta $218,805. $4,905.
-
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
-
-4. Cuando el valor de los actos a inscribir sea de más de
-
-$218,805. y hasta $255,273. $6,867.
-
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
-
-5. Cuando el valor de los actos a inscribir sea de más de
-
-$255,273. y hasta $291,741. $8,830.
-
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
-
-6. Cuando el valor de los actos a inscribir sea de más de
-
-$291,741. $9,830.
+6. Cuando el valor de los actos a inscribir sea de más de $297,576. $10,027
 
 Por la inscripción de créditos refaccionarios y de habilitación o avío en que intervenga el Fondo Instituido en Relación a la Agricultura el pago de los derechos se hará conforme a la siguiente:
 
-(ACTUALIZADA, G.G. 30 DE JUNIO DE 2003)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 TARIFA
 
 CONCEPTO
 
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
+A). Cuando el valor de la operación sea
 
-A). Cuando el valor de la operación sea hasta $350,090. $321.
+hasta $335,508. $327
 
-(ACTUALIZADO EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
+B). Cuando el valor de la operación exceda
 
-B). Cuando el valor de la operación exceda de $350,090 $814.
+de $335,508 $830
 
 > <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -2443,31 +2195,23 @@ B). Cuando el valor de la operación exceda de $350,090 $814.
 
 Por las inscripciones o anotaciones de resoluciones judiciales que contengan actos mercantiles, se pagarán derechos:
 
-(ACTUALIZADA, G.G. 30 DE JUNIO DE 2003)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 TARIFA
 
 CONCEPTO
 
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+I. Providencias precautorias. $1,000
 
-I. Providencias precautorias. $980.
+II. Suspensión de pagos. $1,002
 
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+III. Quiebras. $1,002
 
-II. Suspensión de pagos. $982.
-
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-III. Quiebras. $982.
-
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-IV. Otras resoluciones. $982.
+IV. Otras resoluciones. $1,002
 
 #### SECCION TERCERA. DEL IMPUESTO SOBRE CONJUNTOS URBANOS
 
-> <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 83.
 
@@ -2481,25 +2225,25 @@ CONCEPTO
 
 I. Expedición de certificados:
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-A). De no inscripción. $462.
+A). De no inscripción. $471.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-B). De no propiedad. $38.
+B). De no propiedad. $39.
 
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-II. Expedición de certificados de inscripción. $462.
+II. Expedición de certificados de inscripción. $471.
 
-(ACTUALIZADO PRIMER PÁRRAFO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 III. Expedición de certificados de libertad o
 
-existencia de gravámenes. $538.
+existencia de gravámenes. $549.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 Tratándose de la expedición de
 
@@ -2509,7 +2253,7 @@ de gravámenes relacionados con la
 
 adquisición de viviendas de interés social,
 
-social progresiva o popular. $93.
+social progresiva o popular. $95.
 
 Los derechos a que se refieren las
 
@@ -2531,33 +2275,33 @@ la tierra, quedarán exentos del pago de derechos
 
 señalados en las fracciones I y III.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 Tratándose de terrenos en donde se construyan
 
 viviendas de interés social, social progresiva o
 
-popular. $231.
+popular. $236.
 
 IV. (DEROGADA, G.G. 30 DE DICIEMBRE DE 2003)
 
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 V. Por expedición de informes sobre la
 
-existencia o inexistencia de testamentos. $387.
+existencia o inexistencia de testamentos. $395.
 
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-VI. Por compulsa de documentos. $38.
+VI. Por compulsa de documentos. $39.
 
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 VII. Expedición de copias literales de
 
-asientos registrales. $462.
+asientos registrales. $471.
 
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 VIII. Por la expedición del certificado de
 
@@ -2565,9 +2309,9 @@ una secuencia registral de un inmueble o
 
 asiento registral, por cada asiento que se
 
-certifique. $391.
+certifique. $399.
 
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 IX. Por la búsqueda y expedición,
 
@@ -2577,173 +2321,59 @@ contenidos en los libros del
 
 Registro Público de la Propiedad
 
-de antecedentes registrales. $203.
+de antecedentes registrales. $207.
 
 Cuando las certificaciones a que aluden las fracciones II y III de este artículo no se expidan, porque la solicitud contenga errores u omisiones y los derechos hayan sido cubiertos previamente, una vez subsanados los errores u omisiones, se extenderá la certificación solicitada, haciendo válido el pago efectuado.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 #### SECCION CUARTA. DEL IMPUESTO SOBRE ANUNCIOS PUBLICITARIOS
 
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
 #### SECCION QUINTA. DEL IMPUESTO SOBRE DIVERSIONES, JUEGOS Y ESPECTACULOS PUBLICOS
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 84.
 
-Por la calificación de los documentos, cuando se devuelvan sin haberse practicado el registro o anotación correspondiente por carencia u omisión de requisitos, impedimento legal, por no cubrir los derechos dentro del plazo que señala el presente Código o a petición del interesado, se pagará por concepto de derechos $294.
+Por la calificación de los documentos, cuando se devuelvan sin haberse practicado el registro o anotación correspondiente por carencia u omisión de requisitos, impedimento legal, por no cubrir los derechos dentro del plazo que señala el presente Código o a petición del interesado, se pagará por concepto de derechos $300.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 #### SECCION SEXTA. DEL IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
 
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 85.
 
-Por cotejo de documentos no autentificados que deban destinarse al apéndice, se pagarán por concepto de derechos $75.
+Por cotejo de documentos no autentificados que deban destinarse al apéndice, se pagarán por concepto de derechos $77.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 86.
 
-Por la expedición de formas aprobadas, se pagarán por concepto de derechos $38.
+Por la expedición de formas aprobadas, se pagarán por concepto de derechos $39.
 
 ###### Artículo 87.
 
 Cuando un mismo título o documento origine dos o más inscripciones, los derechos se pagarán por cada una de ellas.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-Por la inscripción o anotación de modificaciones o rectificaciones relativas a inscripciones principales referentes a plazos, intereses, garantías, datos equivocados o cualesquiera otras que no constituyan novación de contrato, se pagará un derecho de $257, por cada una de ellas.
+Por la inscripción o anotación de modificaciones o rectificaciones relativas a inscripciones principales referentes a plazos, intereses, garantías, datos equivocados o cualesquiera otras que no constituyan novación de contrato, se pagará un derecho de $262, por cada una de ellas.
 
 Tratándose de instituciones y organizaciones de crédito y seguros, las inscripciones que deban hacerse pagarán los mismos derechos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 30 DE DICIEMBRE DE 2003)</small>
-
 ###### Artículo 87 Bis.
 
-Por el servicio de calificación registral para la inscripción de documentos que contengan actos jurídicos otorgados en otra entidad federativa, para determinar si reúnen las formalidades exigidas por las leyes del lugar de su otorgamiento y de las disposiciones legales estatales, se pagarán los siguientes derechos:
-
-I. Por inscripciones de documentos o actos de bienes muebles o inmuebles, relativos a su propiedad o posesión originaria, limitaciones o gravámenes, actos previos a la inscripción de títulos traslativos de dominio, documentos o actos relativos a personas morales, títulos de propiedad sujetos a registro en los términos del Registro Público de la Propiedad y actos o contratos mercantiles se pagará la siguiente:
-
-TARIFA
-
-CONCEPTO
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-1. Cuando los actos a inscribir no tengan valor determinado o éste sea hasta de $142,591 $192.
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-2. Cuando el valor de los actos a inscribir sea de más de $142,591 y hasta de $178,239 $575.
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-3. Cuando el valor de los actos a inscribir sea de más de $178,239 y hasta $213,886 $959.
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-4. Cuando el valor de los actos a inscribir sea de más de $213,886 y hasta $249,534 $1,342.
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-5. Cuando el valor de los actos a inscribir sea de más de $249,534 y hasta $285,182 $1,726
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-6. Cuando el valor de los actos a inscribir sea de más de $285,182 $1,922.
-
-Tratándose del registro de actos relacionados con viviendas de interés social, social progresiva o popular no pagarán este servicio por la inscripción de compra-venta a plazos, transmisión de dominio en ejecución de fideicomiso, promesa de venta y transmisión de propiedad.
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-En el caso de los predios que se destinen a la construcción de conjuntos urbanos de los tipos de vivienda antes referidos, se pagarán $418.
-
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-II. Por inscripciones de apeo y deslinde y capitulaciones matrimoniales sobre inmuebles, se pagarán $70.
-
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-III. Por inscripciones relativas a la constitución del régimen de condominio, por cada uno de los departamentos, despachos, viviendas, locales o cualquier otro tipo de unidades privativas; división de la copropiedad, por cada uno de los predios resultantes; fusión de predios, por cada uno de los predios fusionados; actos, contratos, convenios o autorizaciones por los que se fraccione, lotifique, relotifique o subdivida un predio, por cada lote o fracción, se pagarán $105.
-
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-IV. Por las inscripciones o anotaciones de providencias precautorias, suspensión de pagos, quiebras o cualquier otro tipo de resoluciones judiciales que contengan actos mercantiles se pagarán $193.
-
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-V. Por la cancelación de inscripción o anotación relativa a los actos anteriores se pagarán $159.
-
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-VI. Por la cancelación por revocación, rescisión, mandato judicial o a solicitud de parte interesada de las inscripciones se pagarán $74.
-
-(ACTUALIZADO PRIMER PÁRRAFO, G.G. 1 DE JULIO DE 2004)
-
-VII. Por cada inscripción anotación o cancelación relativa a hipotecas o créditos en los que intervenga el Fondo Instituido en Relación con la Agricultura se pagará la siguiente:
-
-TARIFA
-
-CONCEPTO
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-A). Cuando el valor de la operación sea hasta $342,218 $62.
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-B). Cuando el valor de la operación exceda de $342,218 $159.
-
-VIII. Por la expedición de certificados, se pagará la siguiente:
-
-TARIFA
-
-CONCEPTO
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-A). De no inscripción $91.
-
-B). De no propiedad $7.
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-C). De inscripción $91.
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-D). De libertad o existencia de gravámenes $105.
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-E). Informes sobre existencia o inexistencia de testamentos $75.
-
-F). Compulsa de documentos $7.
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-G). Copias literales de asientos registrales $91.
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-H). De secuencia registral de un inmueble o asiento registral, por cada asiento que se certifique $75.
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-I). Por la expedición, sin certificación de informes de antecedentes registrales, contenidos en los libros del Registro Público de la Propiedad $40.
-
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-IX. Por la calificación de documentos cuando se devuelvan sin haber practicado el registro o anotación correspondiente, se pagarán $57.
-
-X. Por cotejo de documentos no autentificados que deban destinarse al apéndice, se pagarán $14.
-
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-XI. Por la inscripción o anotación de modificaciones o rectificaciones relativas a inscripciones principales referentes a plazos, intereses, garantías, datos equivocados o cualesquiera otras que no constituyan novación de contrato, se pagarán $50 por cada una de ellas.
+(DEROGADO, G.G. 22 DE DICIEMBRE DE 2004)
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 #### SECCION PRIMERA. DE LOS DERECHOS DE AGUA POTABLE, DRENAJE, ALCANTARILLADO, TRATAMIENTO Y DISPOSICION DE AGUAS RESIDUALES
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 88.
 
@@ -2803,65 +2433,29 @@ SUBSECCION QUINTA
 
 DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DEL REGISTRO CIVIL
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 90.
 
 Por los servicios prestados por la Dirección General del Registro Civil, se pagarán los siguientes derechos:
 
-(ACTUALIZADA, G.G. 30 DE JUNIO DE 2003)
+I. Copias certificadas en hoja simple de los apéndices de los actos del estado civil. $53.
 
-TARIFA
+II. Expedición de copias certificadas del Registro Civil en papel seguridad autorizado por la Dirección General, de las actas y apéndices de los actos, por hoja. $39.
 
-CONCEPTO
+III. Por el dictamen de procedencia del divorcio administrativo. $390.
 
-I. (DEROGADA, G.G. 30 DE DICIEMBRE DE 2003)
+IV. Búsqueda en los libros del registro civil que se encuentren concentrados en la Dirección General del Registro Civil y oficinas regionales, cuando no se señale fecha de registro, por cada año o fracción. $6.
 
-II. (DEROGADA, G.G. 30 DE DICIEMBRE DE 2003)
+V. Anotaciones marginales generadas por acuerdos de aclaración de acta por vía administrativa realizadas en la Dirección General y oficinas regionales. $57.
 
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+VI. Por certificación de constancia de inexistencia de registro. $39.
 
-III. Expedición de copias digitalizadas
+VII. Por forma autorizada por la Dirección General del Registro Civil para copia certificada. $2.
 
-por imagen de libros concentrados
+VIII. Por juego de formato para el asentamiento de hechos y actos del estado civil. $3.
 
-en la Dirección General del Registro Civil
-
-y oficinas regionales. $29.
-
-IV Búsqueda en los libros del registro
-
-civil que se encuentren concentrados
-
-en la Dirección General del Registro
-
-Civil y oficinas regionales, para la expedición
-
-de copias certificadas cuando no se señale
-
-fecha, por cada año o fracción. $6.
-
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-V. Anotaciones marginales $56.
-
-VI. (DEROGADA, G.G. 30 DE DICIEMBRE DE 2003)
-
-VII. Expedición de formas aprobadas
-
-para copia simple. $1.
-
-VIII. Expedición de formas aprobadas
-
-para juegos de formatos. $3.
-
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-IX. Por el servicio de encuadernación
-
-de libros de actas de las diversas
-
-actas del Registro Civil por tomo. $84.
+IX. Por el servicio de encuadernación de libros de actas ejemplar de Oficialía de las diversas actas del Estado Civil, por libro. $132.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -2901,13 +2495,13 @@ V. Expedición de copias microfilmadas a papel, por imagen $6.
 
 VI. Expedición de constancia de inexistencia de documentos $19.
 
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-VII. Suscripción al Sistema Automatizado del Directorio de Servidores Públicos $391.
+VII. Suscripción anual al Sistema Automatizado del Directorio de Servidores Públicos. $399.
 
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-VIII. Edición impresa de los tomos I y II del Directorio de Servidores Públicos $336.
+VIII. Expedición de constancias de pago de los impuestos sobre tenencia o uso de vehículos federal y estatal. $100.
 
 ###### Artículo 92.
 
@@ -2921,251 +2515,145 @@ TARIFA
 
 CONCEPTO
 
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-I. Por el trámite de regularización de los particulares que prestan el servicio de educación preescolar sin reconocimiento de validez oficial de estudios $1,031.
+I. Por la inscripción al programa de incorporación de particulares que presten servicios de educación preescolar. $3,371.
 
 II. Por la autorización a instituciones particulares para impartir estudios, por plan de estudios, modalidad y turno:
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+A). Preescolar $3,371.
 
-A). Primaria $3,438.
+B). Primaria $3,507.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+C). Secundaria $4,208.
 
-B). Secundaria $4,125.
+D). Normal $6,495.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+III. Por el reconocimiento de validez oficial de estudios, por plan de estudios, a escuelas particulares de educación media superior. $5,612.
 
-C). Normal $6,368.
-
-III. Por el reconocimiento de validez oficial de estudios, por plan de estudios, a escuelas particulares:
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-A). Educación Media Superior $5,502.
-
-IV. Por el reconocimiento de validez oficial de estudios, por licenciatura o estudios de postgrado, a escuelas particulares:
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-A). Educación Superior $6,878.
+IV. Por el reconocimiento de validez oficial de estudios, por licenciatura o estudios de postgrado, a escuelas particulares de educación superior. $7,016.
 
 V. Por el reconocimiento de validez oficial de estudios por turno, a escuelas particulares:
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+A). Educación Media Superior $5,612.
 
-A). Preescolar $3,438.
+B). Educación Superior $7,016.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+VI. Por vigencia anual de derechos, por reconocimiento de plan de estudios a escuelas particulares de educación media superior. $5,196.
 
-B). Educación Media Superior $5,502.
+VII. Por vigencia anual de derechos, por reconocimiento, por carrera a escuelas particulares de educación superior. $6,495.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+VIII. Por vigencia anual de derechos, plan de estudios, modalidad y turno a escuelas particulares:
 
-C). Educación Superior $6,878.
+A). Autorización:
 
-VI. Por vigencia anual de derechos, por plan de estudios, a escuelas particulares:
+1. Preescolar $3,121.
 
-A). Reconocimiento
+2. Primaria $3,247.
 
-1. (DEROGADO, G.G. 6 DE DICIEMBRE DE 2002)
+3. Secundaria $3,896.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-2. Educación Media Superior $5,094.
-
-VII. Por vigencia anual de derechos, por carrera, a escuelas particulares:
-
-A). Reconocimiento:
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-1. Educación Superior $6,368.
-
-VIII. Por vigencia anual de derechos, por turno, a escuelas particulares:
-
-A). Autorización
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-1. Primaria $3,183.
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-2. Secundaria $3,820.
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-3. Normal $6,368.
+4. Normal $6,495.
 
 B). Reconocimiento de validez oficial de estudios:
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+1. Educación Media Superior $5,196.
 
-1. Preescolar $3,183.
+2. Educación Superior $6,495.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+C). Por vigencia anual de plan de estudios o modalidad a escuelas inscritas en el Programa de Incorporación de particulares que presten servicios de educación preescolar. $3,371.
 
-2. Educación Media Superior $5,094.
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-3. Educación Superior $6,368.
-
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-IX. Por servicios de evaluación, orientación o asesoría en materia administrativa o pedagógica, otorgados a instituciones educativas particulares de tipo básico, normal, medio superior y superior por cada alumno de nuevo ingreso matriculado en el plantel educativo, por una sola vez independientemente del grado o ciclo que curse $51.
-
-> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
+IX. Por servicios de evaluación, orientación o asesoría en materia administrativa o pedagógica, otorgados a instituciones educativas particulares de tipo básico, normal, medio superior y superior, por cada alumno de nuevo ingreso matriculado en el plantel educativo, por una sola vez, independientemente del grado o ciclo que curse. $52.
 
 X. Por cambios diversos:
 
 A). Por cambio de plan de estudio:
 
-(ACTUALIZADO, G.G. 1 DE JULIO DE 2004)
+1. Educación Media Superior para Profesional Medio $2,431.
 
-1. Educación Media Superior para profesional medio $2,383.
+2. Educación Superior $2,431.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+B). Por cambio de denominación de carrera de educación superior. $702.
 
-2. Educación Superior $2,383.
+C). Por actualización de contenidos de programas de estudios:
 
-B). Por cambio de carrera:
+1. Educación Media Superior para Profesional Medio $702.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+2. Educación Superior $702.
 
-1. Educación Superior $2,383.
+D). Por cambio de nombre del plantel, titular de incorporación, representante legal, apoderado legal, director escolar, domicilio o turno:
 
-C). Por actualización del contenido del plan de estudios:
+1. Educación Básica $702.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+2. Educación Media Superior $702.
 
-1. Educación Media Superior para profesional medio $688.
+3. Educación Superior $702.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+XI. Por expedición de certificados o de duplicados de certificados de estudios realizados en escuelas estatales oficiales o particulares incorporadas:
 
-2. Educación Superior $688.
+A). Por certificado:
 
-D). Por cambio de nombre del plantel, representante legal, apoderado legal, domicilio o turno:
+1. Educación Media Superior $110.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+2. Educación Superior $156.
 
-1. Educación básica $688.
+B). Por duplicado de certificado:
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+1. Educación Básica $64.
 
-2. Educación Media Superior $688.
+2. Educación Media Superior $110.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+3. Educación Superior $156.
 
-3. Educación Superior $688.
+XII. Por resolución de revalidación de estudios o expedición de duplicados:
 
-XI. Por expedición de duplicados de certificados de estudios realizados en escuelas estatales oficiales o particulares incorporadas de tipo:
+A). Por resolución:
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+1. Educación Básica $34.
 
-A). Básica $63.
+2. Educación Media Superior $197.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+3. Educación Superior $588.
 
-B). Educación Media Superior $108.
+B). Por duplicado:
 
-(ACTUALIZADO, G.G. 30 DE JUNIO DE 2003)
+1. Educación Media Superior $70.
 
-C). Superior $153.
+2. Educación Superior $163.
 
-XII. Por resolución de revalidación de estudios de tipo:
+C). Por modificación o enmienda:
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+1. Educación Media Superior $51.
 
-A). Básica $33.
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-B). Educación media superior $193.
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-C). Superior $576.
+2. Educación Superior $153.
 
 XIII. Por resolución por equivalencia de estudios de tipo:
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+A). Medio Superior $197.
 
-A). Medio Superior $193.
+B). Superior $588.
 
-(ACTUALIZADO, G.G. 30 DE JUNIO DE 2003)
+XIV. Por expedición de cédula de pasante para el ejercicio profesional. $701.
 
-B). Superior $576.
-
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-XIV. Por expedición de cédula de pasante
-
-para el ejercicio profesional $687.
-
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-XV. Por expedición de duplicado de cédula de
-
-pasante para el ejercicio profesional $344.
+XV. Por expedición de duplicado de cédula de pasante para el ejercicio profesional. $351.
 
 XVI. Por inscripción de títulos profesionales:
 
-(ACTUALIZADO, G.G. 30 DE JUNIO DE 2003)
+A). Licenciatura o grado académico $351.
 
-A). Licenciatura o grado académico $344.
+B). Profesional Técnico o Técnico Superior Universitario $176.
 
-(ACTUALIZADO, G.G. 30 DE JUNIO DE 2003)
+XVII. Por registro de colegios de profesionistas. $4,978.
 
-B). Profesional Técnico o Técnico Superior
+XVIII. Por enmienda al registro de los colegios de profesionistas. $703.
 
-Universitario $173.
+XIX. Refrendo de registro de colegios de profesionistas. $703.
 
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+XX. Autorización temporal para ejercer la actividad de perito. $703.
 
-XVII. Por registro de colegios de
+XXI. Refrendo y expedición de duplicado a la autorización para ejercer la actividad de perito. $703.
 
-profesionistas $4,880.
+XXII. Por la expedición de hojas de servicio, por cada hoja. $16.
 
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-XVIII. Por enmienda al registro de los
-
-colegios de profesionistas $689.
-
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-XIX. Refrendo de registro de colegios
-
-de profesionistas $689.
-
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-XX. Autorización temporal para ejercer
-
-la actividad de perito $689.
-
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-XXI. Refrendo y expedición de duplicado
-
-a la autorización para ejercer la actividad $689.
-
-(ACTUALIZADA, G.G. 30 DE JUNIO DE 2003)
-
-XXII. Por la expedición de hojas de servicio,
-
-por cada hoja $16.
-
-XXIII. (DEROGADA, G.G. 30 DE DICIEMBRE DE 2003)
-
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-XXIV. Por la expedición de constancia de
-
-antecedentes profesionales $45.
+XXIII. Por la expedición de constancia de antecedentes profesionales. $46.
 
 > <small>(ADICIONADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -3177,51 +2665,51 @@ TARIFA
 
 CONCEPTO
 
-I. Por la autorización de instituciones particulares para impartir estudios, por servicio, modalidad y turno de educación:
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+I. Por la autorización de instituciones particulares para impartir estudios, por plan de estudios, modalidad y turno de educación:
 
-A). Primaria $3,438.
+A). Preescolar $3,371.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+B). Primaria $3,507.
 
-B). Secundaria $4,125.
+C). Secundaria $4,208.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+D). Normal $6,495.
 
-C). Normal $6,368.
+II. (DEROGADA, G.G. 22 DE DICIEMBRE DE 2004)
 
-II. Por reconocimiento de validez oficial de estudios, por plan de estudios y/o carrera y turno, por cada uno de estos servicios a escuelas particulares:
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-A). Preescolar $3,438.
-
-III. Por vigencia anual de derechos, por plan de estudios, carrera y turno a escuelas particulares:
+III. Por vigencia anual de derechos, por plan de estudios, modalidad, carrera y turno a escuelas particulares:
 
 A). Autorización:
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+1. Preescolar $3,121.
 
-1. Primaria $3,183.
+2. Primaria $3,247.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+3. Secundaria $3,896.
 
-2. Secundaria $3,820.
+4. Normal $6,495.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+B). Escuelas inscritas en el programa de incorporación de particulares que presten servicios de educación preescolar. $3,371.
 
-3. Normal $6,368.
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-B). Reconocimiento:
+IV. Por expedición de certificados o duplicado de certificados de estudios realizados en escuelas oficiales o particulares incorporadas, de tipo:
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+A). Certificados:
 
-1. Preescolar $3,183.
+1. Educación Básica $64.
 
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+2. Educación Normal $156.
 
-IV. Por expedición de duplicado de estudios realizados en escuelas oficiales o particulares incorporadas $62.
+B). Duplicados:
+
+1. Básica $64.
+
+2. Educación Normal $156.
 
 > <small>(REFORMADA, G.G. 30 DICIEMBRE DE 2003)</small>
 
@@ -3231,25 +2719,19 @@ V. Por dictamen de revalidación de estudios tipo Básico $31.
 
 VI. Por servicios de evaluación, orientación o asesoría en materia administrativa o pedagógica, otorgados a instituciones educativas particulares de tipo básico, normal, medio superior y superior por cada alumno de nuevo ingreso matriculado en el plantel educativo, por una sola vez independientemente del grado o ciclo que curse $51.
 
-> <small>(ADICIONADA, G.G. 30 DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-VII. Por cambio del nombre del plantel, propietario, representante legal, apoderado legal, domicilio o turno:
+VII. Por cambio del nombre del plantel, titular de incorporación, representante legal, apoderado legal, director escolar, domicilio o turno:
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+1. Educación Básica $703.
 
-1. Educación básica $689.
+2. Educación Media Superior $703.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+3. Educación Superior $703.
 
-2. Educación Media Superior $689.
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-3. Educación Superior $689.
-
-(ADICIONADA, G.G. 30 DICIEMBRE DE 2003) (ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-VIII. Por el trámite de regularización de los particulares que prestan el servicio de educación preescolar sin reconocimiento de validez oficial de estudios $1,031.
+VIII. Por la inscripción al programa de incorporación de particulares que prestan servicios de educación Preescolar. $3,371.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -3269,9 +2751,9 @@ II. Por la expedición de duplicados existentes en archivo, se pagarán los dere
 
 CONCEPTO TARIFA
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-A). Por el primer duplicado de la primera hoja simple $38.
+A). Por el duplicado de la primera hoja simple $39
 
 B). Por el duplicado de las subsecuentes hojas simples $18.
 
@@ -3291,13 +2773,17 @@ III. Por la expedición de nombramientos de peritos responsables de obras, se pa
 
 Por el refrendo anual del nombramiento de perito responsable de obra, se pagará el 50% de la tarifa establecida.
 
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-IV. Por los dictámenes para usos de impacto regional o dictámenes de factibilidad para conjuntos urbanos se pagará una cuota de $1,020.
+IV. Por los dictámenes para usos de impacto regional o dictámenes de factibilidad para conjuntos urbanos se pagará una cuota de $1,500.
 
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-V. Por las constancias de viabilidad o de aprovechamiento inmobiliario se pagará una cuota de $204.
+V. Por las constancias de viabilidad o de aprovechamiento inmobiliario se pagará una cuota de $2000.
+
+> <small>(ADICIONADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+VI. Por la expedición de informe técnico urbano $450
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -3307,13 +2793,17 @@ Por los servicios prestados por la Secretaría de Agua, Obra Pública e Infraest
 
 I. Por la conexión de la toma para el suministro de agua en bloque a municipios o sus descentralizadas, proporcionada por la Comisión del Agua del Estado de México, se pagará de acuerdo a la siguiente:
 
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
 TARIFA
+
+GRUPO DE MUNICIPIOS
 
 M3/día 1 2 3 4
 
-Uso doméstico $2,171 $2,041 $1,911 $1,782
+Uso doméstico $2,247 $2,112 $1,978 $1,844
 
-Uso no doméstico $2,715 $2,453 $2,278 $2,147
+Uso no doméstico $2,810 $2,539 $2,358 $2,222
 
 Para su aplicación se atenderá a la clasificación de municipios contenida en el artículo 140 de este Código.
 
@@ -3331,39 +2821,41 @@ II. Por los servicios proporcionados a través del organismo público descentral
 
 A). Para el suministro de agua en bloque, se pagará de acuerdo con la siguiente:
 
-TARIFA 2004
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-(Pesos/m3)
+TARIFA
 
-Mes Grupo 1 Grupo 1b Grupo 2 Grupo 3 Grupo 4 Otros
+MES GRUPO 1 GRUPO 1b GRUPO 2 GRUPO 3 GRUPO 4 Otros
 
-Enero
+Ene.
 
-Febrero3.53 3.24 2.66 2.35 1.83 5.50
+Feb. 4.04 3.73 3.02 2.60 2.00 3.79
 
-Marzo
+Mar.
 
-Abril 3.60 3.32 2.76 2.36 1.84 5.57
+Abr. 4.16 3.83 3.12 2.70 2.08 3.89
 
-Mayo
+May.
 
-Junio 3.65 3.37 2.79 2.39 1.87 5.64
+Jun. 4.28 3.93 3.22 2.80 2.16 4.00
 
-Julio
+Jul.
 
-Agosto3.70 3.42 2.82 2.43 1.90 5.71
+Ago. 4.38 4.03 3.32 2.87 2.24 4.10
 
-Septiembre
+Sep.
 
-Octubre 3.75 3.47 2.85 2.46 1.93 5.79
+Oct. 4.48 4.13 3.42 2.94 2.32 4.21
 
-Noviembre
+Nov.
 
-Diciembre 3.80 3.52 2.88 2.49 1.96 5.92
+Dic. 4.58 4.23 3.52 3.01 2.40 4.31
 
 Para su aplicación se atenderá a la clasificación siguiente:
 
-Grupo 1. Atizapán de Zaragoza, Coacalco, Cuautitlán, Cuautitlán Izcalli, Ecatepec, Naucalpan, Tlalnepantla y Tultitlán.
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+Grupo 1. Atizapán de Zaragoza, Coacalco de Berriozábal, Cuautitlán, Cuautitlán Izcalli, Ecatepec de Morelos, Naucalpan de Juárez, Tlalnepantla de Baz y Tultitlán.
 
 Grupo 1 b. Chimalhuacán, Huixquilucan, Ixtapaluca, La Paz, Lerma, Nezahualcóyotl, Nicolás Romero, Tepotzotlán, Toluca y Valle de Chalco Solidaridad.
 
@@ -3371,47 +2863,59 @@ Grupo 2. Atlacomulco, Chicoloapan, Huehuetoca, Nextlalpan, Ocoyoacac, Tecámac, 
 
 Grupo 3. Almoloya de Juárez, Amecameca, Atlautla, Coyotepec, Hueypoxtla, Ixtlahuaca, Jaltenco, Otumba, Tenango del Valle, Teoloyucan, Tequixquiac y Tlalmanalco.
 
-Grupo 4. Axapusco, Ayapango, Ecatzingo, Jilotepec, Joquicingo, Juchitepec, Luvianos, Ozumba, San Simón de Guerrero, Soyaniquilpan, Tejupilco, Temascaltepec, Tenango del Aire, Tepetlixpa y Timilpan.
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-Otros: Quedan comprendidos en forma transitoria en esta tarifa aquellos usuarios a los que preste el servicio directamente y temporalmente la CAEM de acuerdo con la fracción III último párrafo del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+Grupo 4. Axapusco, Ayapango, Ecatzingo, Jilotepec, Joquicingo, Juchitepec, Luvianos, Ozumba, San Simón de Guerrero, Soyaniquilpan de Juárez, Tejupilco, Temascaltepec, Tenango del Aire, Tepetlixpa y Timilpan.
+
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+Otros: Quedan comprendidos en forma transitoria en esta tarifa aquellos usuarios a los que preste el servicio directa y temporalmente la Comisión del Agua del Estado de México, de acuerdo con la fracción III último párrafo del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
 En caso de que un municipio distinto a los anteriores solicite el servicio, será clasificado de acuerdo al análisis de sus características socio-económicas y al costo que implique prestar el servicio, para incluirlo en algún grupo.
 
-B). Por Suministro de Agua en Bloque mediante venta de cupones y entrega en Carros Tanque, se pagará la siguiente:
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+B). Por suministro de agua en bloque mediante venta de cupones y entrega a carros tanque, se pagará la siguiente:
 
 TARIFA
 
-Tipo de usuario Pesos/m3
+Tipo de usuario Pesos
 
-Ayuntamientos $7.50
+Ayuntamientos $7.85
 
-Sindicatos $6.50
+Sindicatos $6.80
 
 C). Por el suministro y aprovechamiento de Agua residual tratada.
 
-Por el agua disponible dentro de las instalaciones de las plantas de tratamiento "Toluca Norte" y "Toluca Oriente", se pagará la siguiente:
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+Por el agua disponible dentro de las instalaciones de las plantas de tratamiento "Toluca Norte" y "Toluca Oriente" y "Capulhuac", se pagará la siguiente:
+
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 TARIFA
 
 USOS Pesos/m3
 
-Uso a cargo del municipio $1.50
+Uso a cargo del municipio $1.57
 
-Otros usos $3.60
+Otros usos $3.65
 
 D). Conexión, tratamiento y manejo ecológico de aguas residuales:
 
-(ACTUALIZADO, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-I. Por conexión a colectores que descargan en las plantas de tratamiento "Toluca Norte" y "Toluca Oriente", se pagarán $2,180. por m3/día.
+1. Por conexión a colectores que descargan en las plantas de tratamiento "Toluca Norte", "Toluca Oriente" y "Capulhuac", se pagarán $2,280.00 por m3/día.
 
-(ACTUALIZADO, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-II. Por el tratamiento de aguas residuales en las plantas de tratamiento "Toluca Norte" y "Toluca Oriente", se pagará una tarifa base de $3.11 por metro cúbico.
+2. Por el tratamiento de aguas residuales en las plantas de tratamiento "Toluca Norte", "Toluca Oriente" y "Capulhuac" se pagará una tarifa base de $3.25 por metro cúbico.
 
 Las descargas que ingresen a los colectores que drenan a las plantas de tratamiento no deberán exceder los límites máximos permisibles que se señalan a continuación:
 
-Contaminante Toluca Norte Toluca Oriente Unidad
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+Contaminante Toluca Norte y Capulhuac Toluca Oriente Unidad
 
 Media mensual
 
@@ -3423,7 +2927,7 @@ P-PO4 4.5 6.5 mg/l POA
 
 Grasas y Aceites 40 45 mg/l
 
-Nitrógeno Amoniacal 16 20 mg/l N
+Nitrógeno Amoniacal16 20 mg/l N
 
 Nitrógeno Orgánico 10 10 mg/l N
 
@@ -3439,9 +2943,31 @@ Los usuarios cuyas descargas excedan los límites establecidos en la tarifa ante
 
 E). Por el suministro y recarga de reactivos Gas-Cloro e Hipoclorito de Sodio y mantenimiento de equipos de cloración, se pagarán $0.09 por metro cúbico.
 
-Para lo establecido en este artículo deberá atenderse invariablemente a las características, circunstancias y costos de los servicios, debiéndose firmar el convenio respectivo, por las autoridades municipales competentes, tratándose de municipios u organismos descentralizados; por los representantes legales de los conjuntos habitacionales o por los particulares que requieran el servicio, debiéndose pagar los derechos contra la prestación del servicio, dentro de los primeros diez días del mes posterior a aquél en el que se haya recibido el servicio.
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+Para lo establecido en este artículo deberá atenderse invariablemente a las características, circunstancias y costos de los servicios, debiéndose firmar el convenio respectivo, por las autoridades municipales competentes, tratándose de municipios u organismos descentralizados; por los representantes legales de los conjuntos habitacionales o por los particulares que requieran el servicio, debiéndose pagar los derechos contra la prestación del servicio, durante los treinta días del mes posterior a aquel en el que se haya recibido el servicio.
+
+> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+Los contribuyentes tendrán la obligación de presentar la declaración de pago en las formas aprobadas por la Comisión del Agua del Estado de México.
 
 La parte de los ingresos de la Comisión del Agua del Estado de México que exceda el límite autorizado para el mes que corresponda, se deberá enterar a la Caja General de Gobierno del Estado.
+
+> <small>(ADICIONADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+III. Por la expedición de duplicados existentes en archivo, se pagarán los derechos conforme a la siguiente:
+
+A). Por duplicado de cada plano $105.
+
+B). Por el duplicado de planos con material proporcionada por el usuario $74.
+
+La iniciativa de reforma de cuotas y tarifas previstas en el presente artículo, deberán ser presentadas a más tardar el 15 de octubre a la Legislatura.
+
+> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 95 Bis.
+
+Por los servicios prestados por la Secretaría de Agua, Obra Pública e Infraestructura para el Desarrollo, relativos a la supervisión y control necesarios para la ejecución de obra pública, se cobrará un 2% por concepto de derechos a las compañías contratistas con quien se celebren contratos de obra pública o de servicios relacionados con la misma, sobre el importe de cada una de las estimaciones de trabajo generadas.
 
 ###### Artículo 96.
 
@@ -3547,9 +3073,9 @@ A). De 0 a 999 metros $7.
 
 B). A partir de 1000 metros $5.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-VI. Por autorizaciones y permisos para la colocación de anuncios, pendones, gallardetes y otros análogos con vigencia anual, en términos de los permisos:
+VI. Por autorizaciones y permisos para la colocación de anuncios, pendones, gallardetes y otros análogos con vigencia anual, o al número de meses que corresponda en términos de la autorización o permiso:
 
 (ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
 
@@ -3567,7 +3093,7 @@ C). Estructura por metro cuadrado por mes $15.
 
 D). Estructura para vallas por metro cuadrado por mes $30.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003) (ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
 
 E). Estructura de columnas y mobiliario urbano por pieza por mes $30
 
@@ -3711,7 +3237,7 @@ VI. Por el estudio técnico de planos, proyectos y memorias de cálculo para la 
 
 (ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
 
-VII. Por el estudio técnico de planos, proyectos y memorias de cálculo para la construcción de obras e instalaciones marginales subterráneas, que se realicen dentro de los derechos de vía de las autopistas de cuota estatales y zonas aledañas, por kilómetro lineal o fracción $808
+VII. Por el estudio técnico de planos, proyectos y memorias de cálculo para la construcción de obras e instalaciones marginales subterráneas, que se realicen dentro de los derechos de vía de las autopistas de cuota estatales y zonas aledañas, por kilómetro lineal o fracción $808.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -3867,7 +3393,7 @@ d). Vagonetas $13,651.
 
 (ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
 
-a). Camioneta de carga y de pasaje $11,100
+a). Camioneta de carga y de pasaje $11,100.
 
 B). Servicio discrecional de pasaje:
 
@@ -3947,7 +3473,7 @@ d). Vagonetas $6,937.
 
 (ACTUALIZADO, G.G. 30 DE JUNIO DE 2003)
 
-2. Alta capacidad o masivo $0.
+2. Alta capacidad o masivo 0.
 
 3. Mixto:
 
@@ -4321,17 +3847,19 @@ B). Modificación de rutas o área geográfica de operación del servicio públi
 
 C). Autorización de las tarifas a que se sujetará la operación del servicio público de transporte en las modalidades referidas en los incisos A) y B) anteriores, por cada vehículo $157.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-D). Autorización de la cromática de los vehículos y equipos afectos a los servicios de transporte en las modalidades referidas en los incisos A) y B) anteriores, por cada vehículo $978.
+D). Autorización de la cromática de los vehículos y equipos afectos a los servicios de transporte en las modalidades referidas en los incisos A) y B) anteriores, por cada vehículo $505
 
 E). (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
-> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-VIII. Por la expedición inicial de licencias para conducir vehículos automotores:
+VIII. Por la expedición inicial de licencias o de permisos para conducir vehículos automotores:
 
-A). Conductor de ómnibus
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+A). Chofer para servicio público:
 
 (ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
 
@@ -4349,7 +3877,9 @@ A). Conductor de ómnibus
 
 4. Por un año de vigencia $441.
 
-B). Chofer:
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+B). Chofer para servicio particular:
 
 (ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
 
@@ -4366,6 +3896,8 @@ B). Chofer:
 (ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
 
 4. Por un año de vigencia $327.
+
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 C). Automovilista:
 
@@ -4385,6 +3917,8 @@ C). Automovilista:
 
 4. Por un año de vigencia $251.
 
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+
 D). Motociclista:
 
 (ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
@@ -4403,43 +3937,35 @@ D). Motociclista:
 
 4. Por un año de vigencia $251.
 
-E). Por la expedición de permiso temporal para manejar:
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-1. Por dos años
+E). Por la expedición de permiso provisional de practica "B".
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+1. Por dos años de vigencia $342.
 
-a). Alta $ 335.
+2. Por un año de vigencia $256.
 
-2. Por un año
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+F). Por la expedición de permiso provisional de practica "A". $1,215.
 
-a). Alta $ 251.
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+El pago de los anteriores conceptos incluye en su caso, examen de conocimientos al Reglamento de Tránsito del Estado de México.
 
-b). Resello $ 251.
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+IX. Duplicado de licencias y permisos, con la vigencia del documento expedido originalmente y con la leyenda de "Duplicado" $172.
 
-F). Por la expedición de permiso temporal para aprendizaje de manejo de automóvil particular $1,191.
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-El pago de los anteriores conceptos incluye exámenes médico, psicométrico y vial.
+X. Por la expedición de medios de identificación para manejar vehículos automotores y equipos afectos al servicio público de transporte:
 
-(ACTUALIZADA, G.G. 1 DE JULIO DE 2004)
+A). Por la expedición de la tarjeta de identificación personal para operadores de transporte público, por año $ 698.
 
-IX. Duplicado de licencias, con la vigencia del documento expedido originalmente y con la leyenda de "Duplicado" $169.
+B). Por el duplicado de la tarjeta de identificación personal para operadores de transporte público con la vigencia del documento expedido originalmente y con la leyenda "Duplicado" $ 510.
 
-X. Por la expedición de medios de identificación para manejar vehículos y equipos afectos al servicio público de transporte:
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-A). Por la expedición de la tarjeta de identificación personal para conductores de vehículos de servicio público de pasajeros $90.
-
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
-
-B). Por la reposición de la tarjeta de identificación personal para conductores de vehículos de servicio público de pasajeros $66.
+La expedición de la tarjeta de identificación personal incluye exámenes medico, psicométrico y toxicológico.
 
 > <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -4499,13 +4025,13 @@ Con capacidad de carga de 10,001 Kg., en adelante $1,190.
 
 d). Para motocicleta:
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-Cilindrada 350 c.c. $253.
+Cilindrada 350 c.c. $332
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-Cilindrada 351 c.c., en adelante $304.
+Cilindrada 351 c.c. en adelante $400
 
 (ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
 
@@ -4553,15 +4079,17 @@ Cilindrada 351 c.c., en adelante $304.
 
 e). Para auto antiguo $845.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-3. Por el duplicado o reposición de la tarjeta de circulación $105.
+3. Por el duplicado o reposición de la tarjeta de circulación $189
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-4. Por cambio de propietario o reposición de calcomanía $108.
+4. Por cambio de propietario o reposición de calcomanía $189
 
-5. Por la expedición de permiso para circular sin placas, sin tarjeta de circulación y sin calcomanía hasta por treinta días:
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+5. Por la expedición de permiso para circular sin placas y tarjeta de circulación hasta por treinta días:
 
 (ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
 
@@ -4585,9 +4113,9 @@ d). Para motocicleta $102.
 
 a). Por ciento ochenta días $519.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-b). Para motocicletas y motonetas, por cada 30 días $44.
+b). Para motocicletas y motonetas, por cada 30 días $78
 
 7. Por el trámite de baja de vehículos:
 
@@ -4613,6 +4141,14 @@ f). Motocicleta y motoneta $317.
 
 g). Motocicleta y motoneta emplacada en otra entidad federativa $0.
 
+> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+8. Por la expedición del permiso para agencia autorizada: $107.
+
+> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+9. Por la expedición del permiso en demostración y traslado: $107.
+
 (ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
 
 XII. Expedición de permiso de transporte público en otras modalidades $555.
@@ -4633,7 +4169,9 @@ B). Por la reposición del tarjetón de revista anual $115.
 
 C). Por los servicios de certificación de extravío, mutilación o deterioro de documentos que amparen la circulación del vehículo $38.
 
-XIV. Expedición de autorización o su refrendo anual para prestar el servicio público de autotransporte colectivo de pasajeros en rutas fijas dentro del territorio del Estado, a concesionarios del Gobierno del Distrito Federal; personas físicas o personas morales, unidades o empresas económicas:
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+XIV. Expedición de autorización o su refrendo anual para prestar el servicio público de autotransporte colectivo de pasajeros en rutas fijas dentro del territorio del Estado, a concesionarios del Gobierno del Distrito Federal; personas físicas o personas jurídicas colectivas, unidades o empresas económicas.
 
 (ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
 
@@ -4665,13 +4203,13 @@ TARIFA
 
 CONCEPTO
 
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-I. Por la búsqueda y reposición de la constancia sobre los resultados de la verificación del vehículo automotor $62.
+I. Por la búsqueda y reposición de la constancia sobre los resultados de la verificación del vehículo automotor $102
 
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-II. Por la expedición de la constancia que ampara a los vehículos que no quedan sujetos al programa "Hoy No Circula", conforme a las normas técnicas emitidas al efecto $414.
+II. Por la expedición de la constancia que ampara a los vehículos que no quedan sujetos al programa "Hoy No Circula", conforme a las normas técnicas emitidas al efecto $459
 
 III. Por el suministro y control, a
 
@@ -4701,23 +4239,27 @@ B). Por cada holograma tipo "cero". $29.
 
 (ACTUALIZADO, G.G. 30 DE JUNIO DE 2003)
 
-C). Por cada holograma tipo "uno". $24.
+C). Por cada holograma
+
+tipo "uno". $24.
 
 (ACTUALIZADO, G.G. 30 DE JUNIO DE 2003)
 
-D). Por cada holograma tipo "dos". $24.
+D). Por cada holograma
+
+tipo "dos". $24.
 
 (ACTUALIZADO, G.G. 30 DE JUNIO DE 2003)
 
 E). Por cada constancia de rechazo. $10.
 
-(ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-IV. por la expedición y grabación de la memoria "CHIP", para el Programa Integral de Reducción de Emisiones Contaminantes $180.
+IV. Por la expedición y grabación de la memoria del sistema de seguridad y control del equipo de reducción de emisiones, mismo que será administrado por el Estado, para el Programa Integral de Reducción de Emisiones Contaminantes $184.
 
-(ACTUALIZADA EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-V. Por la inscripción y expedición de constancia del padrón de vehículos mercantiles a domicilio que operan con combustibles alternos de gas licuado de petróleo, natural o diesel, por cada uno $449.
+V. Por la inscripción y expedición de constancia del padrón de vehículos mercantiles a domicilio que operan con combustibles alternos de gas licuado de petróleo, natural o diesel, por cada uno $500.
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -4737,11 +4279,17 @@ INDUSTRIAL OTROS
 
 (ACTUALIZADA EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
 
-I. Por la evaluación de la manifestación de impacto ambiental. $6,130. $6,309.
+I. Por la evaluación de la
+
+manifestación de impacto
+
+ambiental. $6,130. $6,309.
 
 (ACTUALIZADA EN SUS TARIFAS, G.G. 1 DE JULIO DE 2004)
 
-II. Evaluación del estudio de riesgo ambiental $9,194. $9,465.
+II. Evaluación del estudio
+
+de riesgo ambiental $9,194. $9,465.
 
 > <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -4754,6 +4302,24 @@ A). Impacto $2,525.
 (ACTUALIZADO EN SU TARIFA, G.G. 1 DE JULIO DE 2004)
 
 B). Riesgo $ 2,525.
+
+> <small>(ADICIONADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+IV. Por la evaluación del Informe previo de impacto ambiental:
+
+A). Industria 2,969.
+
+B). Otros $3,060.
+
+> <small>(ADICIONADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+V. Por expedición del oficio de prórroga de la vigencia de la resolución que contenga el análisis respecto de:
+
+A). Informe Previo $1,484.
+
+B). Manifestación de impacto ambiental 3,065.
+
+C). Estudio de riesgo $4,597.
 
 No pagarán los derechos previstos en este artículo los fraccionadores de desarrollos habitacionales donde se prevé la construcción de vivienda social progresiva, de interés social y popular, así como las microindustrias que estén registradas en el Padrón Nacional de la Microindustria.
 
@@ -4839,7 +4405,9 @@ CONCEPTO
 
 I. Expedición de certificados de no antecedentes penales. $45.
 
-No se pagarán estos derechos por la expedición de certificados a los elementos activos de la policía judicial, seguridad pública estatal, municipal y los del ámbito federal, con motivo de la renovación de la licencia colectiva para la portación y uso de armas de fuego.
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+No se pagarán estos derechos por la expedición de certificados a los elementos activos de la policía ministerial, seguridad pública estatal, municipal y los del ámbito federal, con motivo de la renovación de la licencia colectiva para la portación y uso de armas de fuego.
 
 > <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -4853,13 +4421,17 @@ C). Cuando las copias certificadas se expidan para la sustanciación de procedim
 
 D). Las copias certificadas que se expidan de actas de levantamiento de denuncias de robo de vehículos.
 
+> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+E). Las copias certificadas que se expidan para la sustanciación de procedimientos laborales, cuando lo solicite el trabajador.
+
 ###### Artículo 104.
 
 (DEROGADO, G.G. 6 DE DICIEMBRE DE 2002)
 
 #### SECCION TERCERA. DE LOS DERECHOS DE DESARROLLO URBANO Y OBRAS PUBLICAS
 
-> <small>(REFORMADO, G.G. 10 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 105.
 
@@ -4868,6 +4440,8 @@ D). Las copias certificadas que se expidan de actas de levantamiento de denuncia
 > <small>(REFORMADA SU DENOMINACION, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 #### SECCION CUARTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR AUTORIDADES FISCALES Y ADMINISTRATIVAS
+
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 106.
 
@@ -4891,7 +4465,7 @@ III. Para la sustanciación de procedimientos penales y familiares.
 
 ###### Artículo 107.
 
-Están obligadas al pago del impuesto predial las personas físicas y morales que sean propietarias o poseedoras de inmuebles en el Estado.
+Están obligadas al pago del impuesto predial las personas físicas y jurídicas colectivas que sean propietarias y poseedoras de inmuebles en el Estado.
 
 Los propietarios y poseedores a que se refiere el párrafo anterior, deberán calcular anualmente el impuesto predial a su cargo y manifestarlo, en el mismo formato utilizado para determinar y declarar el valor catastral de sus inmuebles.
 
@@ -4906,6 +4480,8 @@ La base del impuesto predial será el valor catastral declarado por los propieta
 ###### Artículo 109.
 
 El impuesto a pagar será la cantidad que resulte de aplicar al valor catastral la siguiente:
+
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 TARIFA
 
@@ -4963,11 +4539,11 @@ Respecto de los créditos fiscales derivados del Impuesto Predial que no hayan s
 
 #### SECCION SEPTIMA. DE LOS DERECHOS POR USO DE VIAS Y AREAS PUBLICAS PARA EL EJERCICIO DE ACTIVIDADES COMERCIALES O DE SERVICIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 113.
 
-Están obligadas al pago de este impuesto las personas físicas y morales que adquieran inmuebles ubicados en el Estado, así como los derechos relacionados con los mismos.
+Están obligadas al pago de este impuesto las personas físicas y jurídicas colectivas que adquieran inmuebles ubicados en el Estado, así como los derechos relacionados con los mismos.
 
 ###### Artículo 114.
 
@@ -5047,6 +4623,8 @@ XVI. La disolución de la sociedad conyugal, por la parte que se adquiera en dem
 
 Este impuesto se determinará conforme a la siguiente:
 
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
 TARIFA
 
 (VEASE ARCHIVO ANEXO)
@@ -5056,6 +4634,8 @@ La base gravable de este impuesto será el valor que resulte mayor entre el valo
 El monto del impuesto a pagar, será el resultado de sumar a la cuota fija que corresponda, de conformidad con la tarifa, la cantidad que se determine al multiplicar el factor aplicable previsto para cada rango, por la diferencia que exista entre la base gravable determinada conforme al párrafo anterior y el importe indicado en el límite inferior del rango de valor base relativo.
 
 Tratándose de regularización de la tenencia de la tierra a través de los organismos públicos, el impuesto a pagar se determinará conforme a la siguiente:
+
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 TARIFA
 
@@ -5075,7 +4655,9 @@ En caso de que se transmita el usufructo o la nuda propiedad, el monto del impue
 
 Tratándose de la adquisición de predios para edificar conjuntos urbanos con viviendas tipo social progresiva, de interés social y popular, se aplicará la tasa del 1.5% al valor que resulte mayor entre el valor catastral y el de operación, después de reducirlo en un monto equivalente a 60 días de salario mínimo general elevado al año del área geográfica "A".
 
-Para gozar del beneficio requerido en el párrafo anterior se deberá contar con la constancia que expida la Secretaría de Desarrollo Urbano y Vivienda, que acredite que el predio se destinará a la vivienda social progresiva, de interés social o popular.
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+Para gozar del beneficio requerido en el párrafo anterior se deberá contar con la respectiva constancia de viabilidad que expida la Secretaría de Desarrollo Urbano y Vivienda, en la que se consigne que acredite que el predio se destinará a la vivienda social progresiva, de interés social o popular.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -5105,9 +4687,9 @@ VII. En los casos no previstos en las fracciones anteriores, cuando los actos de
 
 A la declaración a que se refiere este artículo deberá acompañarse de copia certificada expedida por notario público, la autoridad judicial o administrativa, en la que conste el acto o contrato traslativo de dominio, así como certificado de pagos realizados del impuesto predial, derechos de agua y aportaciones de mejoras en su caso.
 
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-Las personas físicas o morales cuya actividad sea la enajenación de bienes inmuebles o la intermediación de operaciones inmobiliarias, estarán obligadas a dar aviso a la tesorería municipal correspondiente, dentro de los 17 días siguientes, a aquél en que tuvieron conocimiento del hecho o hayan intervenido en el mismo, mediante el cual se genere la adquisición.
+Las personas físicas o jurídicas colectivas cuya actividad sea la enajenación de bienes inmuebles o la intermediación de operaciones inmobiliarias, estarán obligadas a dar aviso a la tesorería municipal correspondiente, dentro de los 17 días siguientes, a aquél en que tuvieron conocimiento del hecho o hayan intervenido en el mismo, mediante el cual se genere la adquisición.
 
 ###### Artículo 117.
 
@@ -5123,7 +4705,7 @@ No se pagará el impuesto establecido en esta Sección en las adquisiciones de i
 
 ###### Artículo 118.
 
-Están obligadas al pago de este impuesto las personas físicas y morales que desarrollen conjuntos urbanos, subdividan, modifiquen el tipo de conjunto urbano autorizado, incluyendo el tipo y número de viviendas previstas, conforme a lo que señala el Código Administrativo del Estado de México.
+Están obligados al pago de este impuesto las personas físicas y jurídicas colectivas que desarrollen conjuntos urbanos, subdividan, modifiquen el tipo de conjunto urbano autorizado, incluyendo el tipo y número de viviendas previstas, conforme a lo que señala el Código Administrativo del Estado de México.
 
 ###### Artículo 119.
 
@@ -5245,7 +4827,7 @@ II. Los montos determinados de conformidad con lo previsto en este artículo, se
 
 ###### Artículo 120.
 
-Están obligadas al pago de este impuesto las personas físicas o morales que por sí o por interpósita persona coloquen u ordenen la instalación en bienes del dominio público o privado, de anuncios publicitarios susceptibles de ser observados desde la vía pública o lugares de uso común, que anuncien o promuevan la venta de bienes o servicios.
+Están obligadas al pago de este impuesto las personas físicas o jurídicas colectivas que por sí o por interpósita persona coloquen o instalen en bienes del dominio público o privado, anuncios publicitarios susceptibles de ser observados desde la vía pública o lugares de uso común, así como la distribución de publicidad impresa en la vía pública, que anuncien o promuevan la venta de bienes o servicios.
 
 ###### Artículo 121.
 
@@ -5289,13 +4871,21 @@ IV. Objetos inflables y carpas publicitarias,
 
 por día o fracción. 3.0
 
-> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-V. Anuncios colgantes, lonas
+V. Anuncios colgantes:
 
-o mantas por m2 por día. .10
+A). Lonas y mantas, por m2 o fracción, por día. 0.10.
 
-No se pagará este impuesto, por los anuncios que tenga como única finalidad la identificación del establecimiento comercial, industrial o de servicios, cuando los establecimientos tengan fines educativos o culturales o, cuando de manera accesoria se preste el servicio de alumbrado público o nomenclatura.
+B). Gallardetes o pendones por cada cien unidades o fracción. 3.0.
+
+> <small>(ADICIONADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+VI. Distribución de volantes, folletos y muestras gratuitas de productos, por día. 3.0.
+
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+No se pagará este impuesto, por aquellos anuncios que tengan como única finalidad publicitar el nombre, la denominación o razón social del establecimiento a través de anuncios adosados o pintados en el mismo, así como aquellos que promuevan eventos educativos o culturales que no persigan fines de lucro, o cuando de manera accesoria se preste el servicio de alumbrado público o nomenclatura.
 
 Para efectos de este artículo se entenderá como anuncio luminoso, aquél que sea alumbrado por una fuente de luz distinta de la natural, en su interior o exterior.
 
@@ -5305,7 +4895,7 @@ Para efectos de este artículo se entenderá como anuncio luminoso, aquél que s
 
 ###### Artículo 122.
 
-Están obligadas al pago de este impuesto las personas físicas o morales que obtengan ingresos por la explotación de juegos y espectáculos públicos.
+Están obligadas al pago de este impuesto las personas físicas o jurídicas colectivas que obtengan ingresos por la explotación de juegos y espectáculos públicos.
 
 Para efectos de este impuesto se entenderá como:
 
@@ -5323,13 +4913,17 @@ Los Ayuntamientos por acuerdo de Cabildo podrán destinar un porcentaje de los i
 
 Este impuesto se calculará y determinará aplicando al total de los ingresos percibidos, durante el período de explotación autorizado, la siguiente tarifa:
 
-I. Tratándose de juegos mecánicos, destreza, azar o simuladores explotados por personas físicas o morales que no cuenten con establecimiento debidamente constituido la tasa del 10%.
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-Cuando se trate de juegos mecánicos, destreza, azar o simuladores explotados por personas físicas o morales que cuenten con establecimiento debidamente constituido la tasa del 5%.
+I. Tratándose de juegos mecánicos, destreza, azar o simuladores explotados por personas físicas o jurídicas colectivas que no cuenten con establecimiento debidamente constituido, la tasa del 10%.
 
-II. Tratándose de espectáculos públicos explotados por personas físicas o morales que no cuenten con establecimiento debidamente constituido la tasa del 10%.
+Cuando se trate de juegos mecánicos, destreza, azar o simuladores explotados por personas físicas o jurídicas colectivas que cuenten con establecimiento debidamente constituido, la tasa del 5%.
 
-Cuando se trate de espectáculos públicos explotados por personas físicas o morales que cuenten con establecimiento debidamente constituido la tasa del 5%.
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+II. Tratándose de espectáculos públicos explotados por personas físicas o jurídicas colectivas que no cuenten con establecimiento debidamente constituido, la tasa del 10%.
+
+Cuando se trate de espectáculos públicos explotados por personas físicas o jurídicas colectivas que cuenten con establecimiento debidamente constituido, la tasa del 5%.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -5347,11 +4941,11 @@ Los contribuyentes que habitualmente realicen actividades por las que se cause e
 
 #### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR AUTORIDADES DE SEGURIDAD PUBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 125.
 
-Están obligados al pago de este impuesto y lo trasladarán en forma expresa y por separado a las personas que reciban los servicios, las personas físicas y morales que en el territorio del municipio presten el servicio de hospedaje a través de hoteles, moteles, albergues, posadas, hosterías, mesones, campamentos, paraderos de casas rodantes y otros establecimientos que presten servicios de esta naturaleza, incluyendo los que prestan estos servicios bajo la modalidad de tiempo compartido.
+Están obligados al pago de este impuesto y lo trasladarán en forma expresa y por separado a las personas que reciban los servicios, las personas físicas y jurídicas colectivas que en el territorio del municipio presten el servicio de hospedaje a través de hoteles, moteles, albergues, posadas, hosterías, mesones, campamentos, paraderos de casas rodantes y otros establecimientos que presten servicios de esta naturaleza, incluyendo los que prestan estos servicios bajo la modalidad de tiempo compartido.
 
 (REFORMADO, G.G. 24 DE DICIEMBRE DE 1999) (F. DE E., G.G. 15 DE MARZO DE 2000)
 
@@ -5375,19 +4969,19 @@ Este impuesto se pagará mediante declaración que se presentará a la tesorerí
 
 ###### Artículo 129.
 
-Están obligadas al pago de los derechos previstos en esta sección, las personas físicas o morales que reciban cualesquiera de los siguientes servicios:
+Están obligadas al pago de los derechos previstos en esta sección, las personas físicas o jurídicas colectivas que reciban cualesquiera de los siguientes servicios:
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-I. Suministro de agua potable y drenaje.
+I. Suministro de agua potable.
 
 > <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 II. Suministro de agua en bloque proporcionada por autoridades municipales o sus descentralizadas a conjuntos urbanos o unidades habitacionales, comerciales o industriales.
 
-> <small>(REFORMADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-III. Descarga de agua residual al drenaje, del agua obtenida de fuente propia o distinta a la red municipal.
+III. Drenaje.
 
 > <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -5417,11 +5011,15 @@ XI. Reconexión o reestablecimiento a los sistemas de agua potable.
 
 XII. Conexión de agua y drenaje.
 
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-El ayuntamiento mediante acuerdo de cabildo, determinará a favor de pensionados, jubilados, discapacitados, personas de la tercera edad y viudas sin ingresos fijos y aquellas personas cuya percepción diaria no rebase tres salarios mínimos generales del área geográfica que corresponda, el otorgamiento de hasta un 50% de bonificaciones en el pago de los derechos por el suministro de agua potable y drenaje para uso doméstico, y por la recepción de los caudales de aguas residuales para su tratamiento o manejo ecológico, se aplicará al beneficiario que acredite que habita el inmueble, sin incluir derivaciones. Los términos y condiciones en cuanto al otorgamiento de los apoyos indicados se determinarán en el correspondiente acuerdo.
+El Ayuntamiento mediante acuerdo de cabildo, determinará a favor de pensionados, jubilados, personas con capacidades diferentes, adultos mayores y viudas sin ingresos fijos y aquellas personas cuya percepción diaria no rebase tres salarios mínimos generales del área geográfica que corresponda, el otorgamiento de hasta un 50% de bonificaciones en el pago de los derechos por el suministro de agua potable y drenaje para uso doméstico, y por la recepción de los caudales de aguas residuales para su tratamiento o manejo ecológico, se aplicará al beneficiario que acredite que habita el inmueble, sin incluir derivaciones. Los términos y condiciones en cuanto al otorgamiento de los apoyos indicados se determinarán en el correspondiente acuerdo.
 
 El consejo directivo del organismo público descentralizado de carácter municipal para la prestación de los servicios previstos en esta Sección, podrá acordar la realización de programas de apoyo a la regularización en el cumplimiento de obligaciones fiscales, mediante el otorgamiento de carácter general de subsidios de recargos y condonación de multas, previo acuerdo de cabildo, que será publicado en el periódico oficial.
+
+> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+Los usuarios del servicio de agua potable, alcantarillado y saneamiento están obligados a realizar el pago de los derechos derivados de la prestación del servicio, cuando se encuentren asentados en áreas urbanizables, susceptibles de ser integradas a los centros de población.
 
 ###### Artículo 130.
 
@@ -5431,7 +5029,7 @@ I. Para uso doméstico:
 
 A). Con medidor.
 
-> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 TARIFA
 
@@ -5451,9 +5049,9 @@ El pago del consumo por servicio medido, se hará por cada uno de los usuarios c
 
 Para consumo de agua en edificios de departamentos y vecindades que tengan para su servicio una sola toma de agua y medidor, la lectura del consumo bimestral se promediará en cada caso entre el número de departamentos o viviendas registradas para cuantificar el consumo de cada una, aplicando el precio por metro cúbico de acuerdo a la tarifa vigente.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-La cuota mínima a pagar en el bimestre no será menor a la que corresponda a un consumo de 30 m3.
+La cuota mínima a pagar en el bimestre no será menor a la que corresponda a un consumo de 15 m3.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -5477,7 +5075,7 @@ II. Para uso no doméstico:
 
 A). Con medidor:
 
-> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 TARIFA
 
@@ -5487,11 +5085,15 @@ TARIFA
 
 En caso de que el medidor se encuentre descompuesto, el usuario pagará los derechos de suministro de agua potable de conformidad al promedio de consumos de los tres últimos bimestres inmediatos anteriores en que estuvo funcionando el aparato.
 
+> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+La cuota mínima a pagar en el bimestre no será menor a la que corresponda a un consumo de 15 m3.
+
 (REFORMADO, G.G. 31 DE DICIEMBRE DE 2001
 
 B). Si no existe aparato medidor, o se encuentra en desuso, se pagarán mensualmente los derechos dentro de los diez primeros días del mes que corresponda, de acuerdo con la siguiente:
 
-> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 TARIFA
 
@@ -5510,6 +5112,14 @@ B). Para uso no doméstico: 4 días de salario mínimo general del área geográ
 No se pagarán los derechos previstos en esta fracción, durante el primer año natural, a partir de la instalación del aparato medidor, por una sola vez, salvo los casos en que dicho aparato haya sido deteriorado por causas imputables al usuario, en los que éste deberá cubrir el 50% del costo de la reparación del aparato.
 
 En los casos en que el pago de los derechos a que se refiere este artículo, se realice en base a consumos cuantificados a través de aparato medidor, el usuario del servicio está obligado a reportar mediante los formatos oficiales, a la autoridad municipal u organismo descentralizado que corresponda, los consumos bimestrales de agua y efectuar su pago dentro de los primeros diecisiete días del mes siguiente al del bimestre que se esté reportando.
+
+> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 130 Bis.
+
+Por el servicio de drenaje se pagará el 8% del monto determinado por el servicio de agua potable.
+
+Para los usuarios que se abastezcan de agua potable de fuente propia o distinta de la red municipal y que se hayan conectado a la red de drenaje municipal, pagarán la tarifa establecida en el párrafo anterior, respecto del volumen declarado que por concepto del servicio de agua potable deba presentarse.
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -5591,7 +5201,9 @@ TARIFA
 
 (VEASE ARCHIVO ANEXO)
 
-El pago de estos derechos comprende la totalidad del costo de los materiales utilizados y el trabajo que se realice para su conexión, desde la red hasta la terminación del cuadro medidor tratándose de agua potable, y en el caso de drenaje, hasta el punto de descarga domiciliaria.
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+El pago de estos derechos comprende la totalidad del costo de los materiales utilizados y el trabajo que se realice para su conexión, desde la red hasta la terminación del cuadro medidor, tratándose de agua potable y en el caso de drenaje hasta el punto de descarga domiciliaria que correrán a cuenta de los desarrolladores de vivienda, sean privados u organismos descentralizados del gobierno federal, estatal o municipal.
 
 En el supuesto de que el costo por la prestación de los servicios a que se refiere el presente artículo, sea mayor al importe de las cuotas que correspondan, la autoridad fiscal podrá convenir con los usuarios el pago correspondiente.
 
@@ -5627,9 +5239,11 @@ El monto de los derechos a que se refiere este artículo se pagará de acuerdo c
 
 Los adquirentes de lotes no están obligados al pago de los derechos previstos en este artículo cuando los titulares de las autorizaciones de subdivisiones o conjuntos urbanos de carácter habitacional, industrial, agroindustrial y de abasto, comercio y servicios, hayan realizado bajo su costo las obras de conexión de agua potable y drenaje entre las redes generales y el lote.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 136.
 
-Por la recepción para su tratamiento o manejo ecológico de los caudales de aguas residuales, originados o derivados de los predios destinados a actividades distintas a las industriales, ubicados en los municipios donde se preste este servicio, se pagarán los siguientes derechos:
+Por la recepción para su tratamiento o manejo ecológico de los caudales de aguas residuales, originados o derivados de los predios destinados a actividades distintas a las industriales, los municipios y/o sus organismos que operen las plantas tratadoras y presten el servicio cobrarán los siguientes derechos:
 
 I. Cuando la autoridad municipal, o la organización u organismo respectivo, proporcionen el servicio de suministro de agua potable, el monto de los derechos será la cantidad equivalente al 59% del monto cubierto por dicho suministro.
 
@@ -5649,7 +5263,7 @@ TARIFA
 
 B) Para uso no doméstico:
 
-> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 TARIFA
 
@@ -5775,11 +5389,13 @@ Por los servicios que presta el Registro Civil, se pagarán derechos de acuerdo 
 
 TARIFA
 
-CONCEPTO Número de Salarios Mínimos
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-Generales del Area Geográfica
+CONCEPTO NÚMERO DE SALARIOS MÍNIMOS
 
-que corresponda.
+DEL ÁREA GEOGRÁFICA
+
+QUE CORRESPONDA
 
 > <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -5827,9 +5443,11 @@ VI. Asentamiento de actas
 
 de divorcio. 3.711
 
-VII. Asentamiento de actas
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-de defunción. Exento
+VII. Asentamientos de actas de defunción y
+
+anotación en acta de nacimiento por defunción. Exento
 
 > <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -5849,31 +5467,43 @@ administrar bienes. 1.209
 
 IX. Transcripción de actas. 0.723
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-X. Anotaciones marginales 1.26
+X. Anotaciones marginales generadas por asentamientos
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+de actos y resoluciones levantadas en oficialía y
 
-XI. Por copia certificada de
+que modifiquen el estado civil de las personas. 1.3.
 
-cualquier acta o constancia
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-de inexistencia de registro. 0.614
+XI. Expedición de copias certificadas del
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+Registro Civil en papel seguridad autorizado
 
-XII. Búsqueda en los libros
+por la Dirección General, de las actas, apéndices
 
-del Registro Civil para
+de los actos y de la documentación por hoja
 
-expedición de copias
+concentrada en las oficialías del Registro Civil. 0.88.
 
-certificadas, cuando no
+A). Por certificación de constancias de
 
-se señale fecha, por cada
+inexistencia de registro. 0.88.
 
-año o fracción. 0.144
+B). Expedición de copia certificada en
+
+papel comercial de las actas concentradas
+
+en las oficialías del Registro Civil por hoja. 0.44.
+
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+XII. Búsqueda en los libros del Registro Civil
+
+para expedición de copias certificadas, cuando
+
+no se señale fecha de registro, por cada año o fracción. 0.144
 
 > <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -5893,25 +5523,29 @@ administrativo efectuado ante
 
 las oficinas del Registro Civil. 20.92
 
-XV. Cambio de régimen
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-patrimonial en el matrimonio. 20.92
+XV. Anotación de la resolución que modifica
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+el régimen matrimonial en el acta de matrimonio. 20.92.
 
-XVI. Inserción de actos del
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-estado civil celebrados por
+XVI. Inscripción de actos y hechos del estado civil
 
-mexicanos en el extranjero. 6.60
+celebrados y acaecidos de mexicanos en el extranjero
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
+mediante la trascripción en los libros del Registro Civil. 6.60
 
-XVII. Por copia certificada de
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-los apéndices de los actos,
+XVII. Expedición de copias certificadas de los
 
-por hoja. 0.614
+apéndices de los actos y de la documentación
+
+concentrada en las oficialías, por acto o procedimiento
+
+administrativo. 1.23.
 
 En los casos de desastres como heladas, inundaciones, epidemias, sismos o de campaña de regularización como matrimonios colectivos o solicitudes de oficio de las autoridades, los ayuntamientos respectivos a través de sus autoridades fiscales enunciadas en este Código, podrán subsidiar hasta el 100% de los derechos que causen los actos de registro civil.
 
@@ -5921,9 +5555,13 @@ En los casos de desastres como heladas, inundaciones, epidemias, sismos o de cam
 
 ###### Artículo 143.
 
-Están obligadas al pago de los derechos previstos en esta Sección, las personas físicas o morales que reciban cualesquiera de los siguientes servicios, cuya expedición y vigilancia corresponde a las autoridades municipales en materia de desarrollo urbano, obras públicas o servicios públicos de acuerdo con los ordenamientos de la materia:
+Están obligadas al pago de los derechos previstos en esta Sección, las personas físicas o jurídicas colectivas que reciban cualesquiera de los siguientes servicios, cuya expedición y vigilancia corresponde a las autoridades municipales en materia de desarrollo urbano, obras públicas o servicios públicos de acuerdo con los ordenamientos de la materia:
 
-I. Expedición de licencia para construcción de obras nuevas con vigencia de un año;
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+I. Expedición de licencia para construcción en cualquiera de sus tipos con vigencia de un año.
+
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2002)</small>
 
 II. Autorización por alineamiento y número oficial;
 
@@ -5931,13 +5569,23 @@ II. Autorización por alineamiento y número oficial;
 
 III. Subrogación de los derechos de titularidad de conjuntos urbanos, subdivisiones y condominios y su relotificación;
 
-IV. Autorización para realizar obras de modificación o rotura de pavimento o concreto en calles o banquetas y para la instalación o permanencia anual de cables o tuberías subterráneas o aéreas en la vía pública;
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-V. Expedición de licencias de uso de suelo;
+IV. Autorización para realizar obras de modificación o rotura de pavimento o concreto en calles, guarniciones o banquetas y para la instalación, tendido o permanencia anual de cables o tuberías subterráneas o aéreas en la vía pública; y por los servicios de control necesarios para su ejecución;
+
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+V. Expedición de licencias de uso de suelo; sus estudios técnicos e inspección de campo;
+
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2002)</small>
 
 VI. Autorización de cambios de uso de suelo, de densidad e intensidad y altura de edificaciones;
 
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2002)</small>
+
 VII. Expedición de cédulas informativas de zonificación;
+
+> <small>(REFORMADA, G.G. 10 DE JUNIO DE 2002)</small>
 
 VIII. Expedición de duplicados existentes en archivo.
 
@@ -5947,9 +5595,9 @@ VIII. Expedición de duplicados existentes en archivo.
 
 Por los servicios prestados por desarrollo urbano y obras públicas municipales, se pagarán los siguientes derechos:
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-I. Por la expedición de licencias municipales de construcción, con vigencia de un año, en cualquiera de sus tipos de obra nueva, ampliación o modificación, así como las prórrogas de las mismas que serán proporcionales al tiempo solicitado se pagarán derechos de acuerdo a lo siguiente:
+I. Por la expedición de licencias municipales de construcción, con vigencia de un año, en cualquiera de sus tipos de obra nueva, ampliación, modificación, reparación que no afecte elementos estructurales, reparación que afecte elementos estructurales y la modificación del proyecto de una obra autorizada, así como las prórrogas de las mismas que serán proporcionales al tiempo solicitado, se pagarán derechos de acuerdo a lo siguiente:
 
 TARIFA
 
@@ -6125,19 +5773,21 @@ a vía pública hasta de
 
 15 metros. 8.39 5.67
 
-2. Por cada metro
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-excedente 10% de la
+2. Por cada metro excedente o fracción 10%
 
-tarifa anterior.
+de la tarifa anterior.
 
 B). Por demoliciones;
 
 por cada 100 m2 o fracción. 16.87 11.22
 
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
 C). Por excavaciones y
 
-rellenos. 6.48 4.33
+rellenos por cada 100 m3 y fracción. 6.48 4.33
 
 D). Por construcción de
 
@@ -6149,13 +5799,13 @@ al régimen en condominio
 
 por m2 edificado. 0.176 0.107
 
-F). Por la expedición de
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-constancias de terminación
+F). Por la expedición de constancias
 
-de obra, por cada 100 m2 de
+de terminación de obra, parcial o total
 
-construcción o fracción menor. 6.48 4.33
+por cada 100 m2 de construcción o demolición:
 
 1. Tratándose de viviendas
 
@@ -6191,9 +5841,9 @@ B). Relotificaciones
 
 subsecuentes. 1.21
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-V. Por la autorización para realizar obras de modificación, rotura o corte de pavimento o concreto en calles, guarniciones y banquetas para llevar a cabo obras o instalaciones subterráneas, se causará y pagará por cada metro cuadrado de vía pública afectada 1.0 día de salario mínimo general vigente del área geográfica que corresponda, tratándose de obras realizadas por personas físicas, y 1.5 días de salario mínimo general diario del área geográfica que corresponda tratándose de obras realizadas por personas morales.
+V. Por la autorización para realizar obras de modificación, rotura o corte de pavimento o concreto en calles, guarniciones y banquetas para llevar a cabo obras o instalaciones subterráneas, se causará y pagará por cada metro cuadrado de vía pública afectada 1.0 días de salario mínimo general vigente del área geográfica que corresponda, tratándose de obras realizadas por personas físicas y 1.5 días de salario mínimo general vigente del área geográfica que corresponda tratándose de obras realizadas por personas jurídicas colectivas.
 
 > <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -6203,9 +5853,7 @@ VI. Por la autorización para la instalación, tendido o permanencia anual de ca
 
 VII. Por servicios de control necesarios para su ejecución, se cobrará un 2% a las compañías contratistas con quienes se celebren contratos de obra pública o de servicios relacionados con la misma, sobre el importe de cada una de las estimaciones de trabajo generados por las dependencias y entidades, la tesorería y las entidades en su caso, al realizar el pago de las estimaciones retendrán el importe respectivo.
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
-
-Se exceptúan de la aplicación del pago de los derechos establecidos en esta fracción, las obras realizadas con cargo total o parcial a los recursos del Fondo para la Infraestructura Social Municipal, derivado del ramo 33.
+> <small>(DEROGADO SEGUNDO PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 > <small>(ADICIONADA, G.G. 10 DE JUNIO DE 2002)</small>
 
@@ -6371,99 +6019,73 @@ Para los efectos de esta Sección, se atenderá a la clasificación de municipio
 
 ###### Artículo 147.
 
-Por la expedición de certificaciones de documentos se pagarán derechos conforme a la siguiente:
+Por la expedición de los siguientes documentos se pagarán:
 
 TARIFA
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
-
 CONCEPTO Número de Salarios Mínimos
 
-Generales Vigentes del Area Geográfica
+Generales Vigentes del Area
 
-que corresponda.
+Geográfica que corresponda.
 
-I. Por la primera foja. 1.35
+I. Expedición de copias certificadas:
 
-II. Por cada foja
+A). La primera foja. 1.35
 
-excedente. 0.07
+B). Foja excedente. 0.07.
 
-III. Por certificaciones
+II. Certificaciones relativas a operaciones
 
-relativas a operaciones
+traslativas de dominio de bienes inmuebles
 
-traslativas de dominio
+que no causen el impuesto correspondiente. 3.364.
 
-de bienes inmuebles que
+III. Certificaciones de pagos realizados por
 
-no causen el impuesto
+concepto de derechos de agua potable,
 
-correspondiente. 3.364
+drenaje, alcantarillado, tratamiento y
 
-> <small>(REFORMADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
+disposición de aguas residuales, impuesto
 
-IV. Por certificaciones de pagos
+predial y aportaciones de mejoras,
 
-realizados por concepto de
+por cada una. 4.05.
 
-derechos de agua potable,
-
-drenaje, alcantarillado, tratamiento
-
-y disposición de aguas residuales,
-
-impuesto predial y aportaciones
-
-de mejoras, por cada una. 4.05
-
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
-
-V. Certificaciones de pagos realizados
+IV. Certificaciones de pagos realizados
 
 relativos a impuestos sobre anuncios
 
 publicitarios; sobre diversiones, juegos
 
-y espectáculos públicos; derechos por
+y espectáculos públicos; derechos por la
 
-la expedición o refrendo anual de
+expedición o refrendo anual de licencias
 
-licencias para la venta de bebidas
+para la venta de bebidas alcohólicas al público
 
-alcohólicas al público y otras contribuciones:
+y otras contribuciones:
 
-> <small>(ADICIONADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+A). Para empresas 5.00
 
-A). Para empresas. 5.00
+B). Para particulares o autoridades 2.00
 
-> <small>(ADICIONADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+V. Constancias de vecindad que soliciten
 
-B). Para particulares o
+los habitantes del municipio, así como por las
 
-autoridades. 2.00
+demás certificaciones que se expidan en los
 
-> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+términos de la Ley Orgánica Municipal
 
-VI. Por la expedición de constancias
+del Estado de México. 1.0
 
-de vecindad que soliciten los habitantes
-
-del municipio, así como por las
-
-demás certificaciones que se
-
-expidan en los términos de
-
-la Ley Orgánica Municipal del
-
-Estado de México, hasta. 1.00
-
-No pagarán los derechos previstos en las fracciones III y IV las viviendas de interés social, social progresiva y popular.
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 148.
 
-No pagarán este derecho las personas morales de la microindustria que se constituyan en sociedades mercantiles del tipo "Sociedad de Responsabilidad Limitada MI" y que queden inscritas en el Padrón Nacional de la Microindustria.
+No pagarán este derecho las personas jurídicas colectivas de la microindustria que se constituyan en sociedades mercantiles del tipo "Sociedad de Responsabilidad Limitada MI" y que queden inscritas en el Padrón Nacional de la Microindustria.
 
 ###### Artículo 149.
 
@@ -6593,9 +6215,11 @@ Por el registro anual de instrumentos para la identificación de señales de san
 
 #### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 154.
 
-Por el uso de vías, plazas públicas o áreas de uso común para realizar actividades comerciales o de servicios, se pagarán los derechos siguientes:
+Por el uso de vías, plazas públicas o áreas de uso común para realizar actividades comerciales o de servicios, se pagarán por día los derechos conforme a la siguiente:
 
 > <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -6799,9 +6423,9 @@ A). Adulto 7.00
 
 B). Niño 5.00
 
-> <small>(ADICIONADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-El Ayuntamiento mediante acuerdo de cabildo determinará a favor de pensionados, jubilados, discapacitados, personas de la tercera edad y viudas sin ingresos fijos; que acrediten fehacientemente encontrarse en estos supuestos, y comprueben un bajo nivel de ingresos económicos, el otorgamiento de bonificaciones de hasta el 50%, en el pago de los derechos a que se refiere este artículo.
+El Ayuntamiento mediante acuerdo de cabildo determinará a favor de pensionados, jubilados, personas con capacidades diferentes, adultos mayores y viudas sin ingresos fijos; que acrediten fehacientemente encontrarse en estos supuestos, y comprueben un bajo nivel de ingresos económicos, el otorgamiento de bonificaciones de hasta el 50%, en el pago de los derechos a que se refiere este artículo.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -6863,11 +6487,11 @@ Por la expedición o refrendo anual de licencias para vender bebidas alcohólica
 
 TARIFA
 
-> <small>(REFORMADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 Número de Salarios Mínimos
 
-Generales Diarios del Area
+Generales Vigentes del Area
 
 Geográfica que corresponda.
 
@@ -6907,23 +6531,25 @@ alcohólicas hasta de 12º G.L. en
 
 botella cerrada. 186.00 140.00
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-D). Lonjas mercantiles,
+D). Lonjas mercantiles. 100.00 70.00
 
-vinaterías, minisuper, con venta
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-de bebidas alcohólicas en botella
+E). Vinaterías, minisúper, con venta de
 
-cerrada. 130.00 90.00
+bebidas alcohólicas mayores de 12º G. L.
 
-E). Centros comerciales,
+en botella cerrada. 300.00 200.00
 
-supermercados, con venta de
+> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-bebidas alcohólicas en botella
+F). Bodegas, centros comerciales, supermercados,
 
-cerrada. 500.00 450.00
+con venta de bebidas alcohólicas en botella cerrada.
+
+500.00 450.00
 
 II. DE SERVICIOS
 
@@ -6941,41 +6567,49 @@ alcohólicas hasta
 
 de 12º G.L. 37.00 19.00
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-B). Fondas, taquerías,
+B). Cafeterías, restaurantes con venta de
 
-loncherías, cocinas
+bebidas alcohólicas
 
-económicas, ostionerías,
+hasta 12° G.L. 150.00 100.00
 
-pizzerías, con venta de
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-bebidas alcohólicas al copeo. 200 150
+C). Fondas, taquerías, loncherías,
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+cocinas económicas, ostionerías,
 
-C). Restaurantes-bar,
+pizzerías, con venta de bebidas
 
-bares, con venta de bebidas
+alcohólicas al copeo. 200.00 150.00
 
-alcohólicas al copeo. 200 150
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+D). Restaurantes-bar con venta de bebidas
 
-D). Cantinas y centros botaneros
+alcohólicas al copeo. 200.00 150.00
+
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+E). Bares, cantinas y centros botaneros
 
 con venta de bebidas alcohólicas
 
-al copeo. 200 150
+al copeo. 200.00 150.00
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-E). Centros Cerveceros 100.00 80.00
+F). Centros cerveceros. 100.00 80.00
 
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-F). Pulquerías 20.00 20.00
+G). Pulquerías. 20.00 20.00
+
+> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+H). Pulquerías con venta de cerveza. 60.00 40.00
 
 III. DE DIVERSION Y ESPECTACULOS PUBLICOS
 
@@ -7121,7 +6755,7 @@ GRUPO 3: Acambay, Aculco, Almoloya de Alquisiras, Almoloya de Juárez, Amanalco,
 
 ###### Artículo 160.
 
-Derivado de los servicios prestados por las autoridades municipales en materia de seguridad pública, se pagarán por día los siguientes derechos, la vigilancia especial de personal de a pie, que soliciten las personas físicas y morales.
+Derivado de los servicios prestados por las autoridades municipales en materia de seguridad pública, se pagarán por día los siguientes derechos, la vigilancia especial de personal de a pie, que soliciten las personas físicas y jurídicas colectivas.
 
 TARIFA
 
@@ -7281,9 +6915,9 @@ IV. Constancia de identificación
 
 catastral. 2.00
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-V. Por el levantamiento topográfico, se pagarán derechos conforme a la siguiente:
+V. Por el levantamiento topográfico catastral, se pagarán derechos conforme a la siguiente:
 
 > <small>(ADICIONADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -7381,7 +7015,9 @@ Son autoridades en materia de catastro:
 
 I. El Gobernador del Estado;
 
-II. El Secretario de Finanzas y Planeación;
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+II. El Secretario de Finanzas, Planeación y Administración;
 
 III. El Director General del Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México;
 
@@ -7413,9 +7049,9 @@ IV. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2000)
 
 V. Practicar avalúos catastrales y comerciales de inmuebles, levantamientos topográficos y verificar, en su caso, los avalúos practicados por terceros para fines catastrales.
 
-> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-VI. Integrar la información geográfica y catastral del Estado, de los municipios, de los centros de población y de las localidades.
+VI. Integrar la información geográfica y catastral del Estado y de los Municipios.
 
 > <small>(REFORMADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -7431,9 +7067,9 @@ IX. Asumir mediante convenio algunas de las funciones catastrales conferidas en 
 
 X. (DEROGADA, G.G. 31 DE DICIEMBRE DE 2001)
 
-> <small>(REFORMADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-XI. Revisar para emitir opinión técnica respecto de la elaboración de propuestas de modificación a las Tablas de Valores Unitarios de Suelo y Construcciones a cargo del Ayuntamiento, a efecto de que se realicen en los términos de este Código y demás disposiciones jurídicas aplicables.
+XI. Revisar para emitir opinión técnica respecto de las propuestas de modificación a las Tablas de Valores Unitarios de Suelo y Construcciones presentadas por el Ayuntamiento, a efecto de que cumplan con los términos de este Código y demás disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -7477,7 +7113,7 @@ V. Proporcionar al IGECEM dentro de los plazos que señala este título y la LIG
 
 VI. Integrar, conservar y mantener actualizados los registros gráfico y alfanumérico de los inmuebles ubicados en el territorio del municipio.
 
-> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 VII. Practicar levantamientos topográficos catastrales y verificación de linderos, en los términos que señale el Reglamento correspondiente.
 
@@ -7495,9 +7131,9 @@ X. Difundir dentro de su territorio las Tablas de Valores Unitarios de Suelo y C
 
 XI. Aplicar las Tablas de Valores Unitarios de Suelo y Construcción aprobadas por la Legislatura, en la determinación del valor catastral de los inmuebles.
 
-> <small>(REFORMADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-XII. Obtener de las autoridades, dependencias o instituciones de carácter federal y estatal, de las personas físicas o morales, los documentos, datos o informes que sean necesarios para la integración y actualización del padrón catastral municipal.
+XII. Obtener de las autoridades, dependencias o instituciones de carácter federal y estatal, de las personas físicas o jurídicas colectivas, los documentos, datos o informes que sean necesarios para la integración y actualización del padrón catastral municipal.
 
 > <small>(REFORMADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -7531,23 +7167,17 @@ XIX. Verificar y registrar oportunamente los cambios que se operen en los inmueb
 
 XX. Mantener actualizada la vinculación de los registros alfanumérico y gráfico del Padrón Catastral Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 172.
 
-Cuando el IGECEM o el ayuntamiento, practiquen trabajos de levantamientos topográficos, los deberán ejecutar a través de personal autorizado, previa identificación y presentación de la orden para realizarlos, en presencia del propietario o poseedor del inmueble o de su representante legal, con la asistencia de los propietarios o poseedores de los inmuebles colindantes o sus representantes legales, quienes deberán ser notificados por lo menos con tres días de anticipación para que, en su caso, hagan las manifestaciones o ejerzan las acciones que a su derecho convenga.
+Cuando el IGECEM o el Ayuntamiento, practiquen trabajos de levantamientos topográficos catastrales, los deberán ejecutar a través de personal autorizado, previa identificación y presentación de la orden para realizarlos, en presencia del propietario o poseedor del inmueble o de su representante legal, con la asistencia de los propietarios o poseedores de los inmuebles colindantes o sus representantes legales, quienes deberán ser notificados por lo menos con tres días de anticipación para que, en su caso, hagan las manifestaciones o ejerzan las acciones que a su derecho convenga.
 
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+Los hechos y circunstancias del levantamiento topográfico catastral y observaciones de los interesados, se harán constar en acta, que será firmada por todos los que intervengan y quieran hacerlo, a quienes se les entregará copia.
 
-Los hechos y circunstancias del levantamiento catastral y observaciones de los interesados, se harán constar en acta, que será firmada por todos los que intervengan y quieran hacerlo, a quienes se les entregará copia.
+Los datos obtenidos como resultado de los trabajos catastrales enunciados en este artículo, serán considerados para actualizar el padrón catastral del Ayuntamiento y del Estado, por lo que la autoridad que realice el levantamiento topográfico catastral deberá remitir copia del plano correspondiente, al Ayuntamiento o al IGECEM, según sea el caso.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
-
-Los datos obtenidos como resultado de los trabajos catastrales enunciados en este artículo, serán considerados para actualizar el padrón catastral del ayuntamiento y del Estado, por lo que la autoridad que realice el levantamiento topográfico deberá remitir copia del plano correspondiente, al ayuntamiento o al IGECEM, según sea el caso.
-
-> <small>(ADICIONADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
-
-Cuando los colindantes hubiesen sido notificados en términos del Código de Procedimientos Administrativos del Estado de México y alguno de ellos o todos no se presentaren, el levantamiento topográfico correspondiente se llevará al cabo con la presencia del solicitante, debiendo firmar el acta dos testigos de asistencia.
+Cuando los colindantes hubiesen sido notificados en términos del Código de Procedimientos Administrativos del Estado de México y alguno de ellos o todos no se presentaren, el levantamiento topográfico catastral correspondiente se llevará al cabo con la presencia del solicitante, debiendo firmar el acta dos testigos de asistencia.
 
 > <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -7575,11 +7205,11 @@ El Ayuntamiento enviará al IGECEM la información actualizada de los registros 
 
 ### CAPITULO TERCERO. DE LA INSCRIPCION DE INMUEBLES
 
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 175.
 
-Los propietarios o poseedores de inmuebles ubicados en territorio del Estado, incluyendo las Dependencias y Entidades Públicas, están obligados a inscribirlos ante el catastro del ayuntamiento, mediante manifestación que presenten en los formatos autorizados por el IGECEM, precisando las superficies del terreno y de la construcción, su ubicación, y uso de suelo, si es a título de propietario o poseedor y demás datos solicitados, exhibiendo la documentación requerida para estos efectos.
+Los propietarios o poseedores de inmuebles ubicados en territorio del Estado, incluyendo las Dependencias y Entidades Públicas, están obligados a inscribirlos ante el catastro del Ayuntamiento, mediante manifestación que presenten de acuerdo al procedimiento en los formatos autorizados por el IGECEM, precisando las superficies del terreno y de la construcción, su ubicación, y uso de suelo, si es a título de propietario o poseedor y demás datos solicitados, exhibiendo la documentación requerida para estos efectos.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -7615,9 +7245,9 @@ Cuando de las manifestaciones y del resultado de los estudios técnicos que real
 
 En términos de este capítulo, en lo sucesivo, salvo mención expresa, se entenderá por:
 
-> <small>(REFORMADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-I. Clave catastral.- Es única y está representada por un código alfanumérico de dieciséis caracteres, que se asigna para efectos de localización geográfica, identificación, inscripción, control y registro de los inmuebles; los diez primeros deben ser caracteres numéricos y los seis últimos pueden ser alfanuméricos; su integración debe corresponder invariablemente y en estricto orden, a esta estructura: los tres primeros identifican al código del municipio, las dos siguientes a la zona catastral, los tres que siguen a la manzana y los dos siguientes al número de lote o predio; cuando se trate de condominios, las siguientes dos posiciones identifican el edificio y las cuatro últimas el número de departamento, vivienda o local; en los casos de propiedades individuales estos seis últimos caracteres se codifican con ceros.
+I. Clave catastral. Es única y está representada por un código alfanumérico de dieciséis caracteres, que se asigna para efectos de localización geográfica, identificación, inscripción, control y registro de los inmuebles; los diez primeros deben ser caracteres numéricos y los seis últimos pueden ser alfanuméricos; su integración debe corresponder invariablemente y en estricto orden, a esta estructura: los tres primeros identifican al código del municipio, las dos siguientes a la zona catastral, los tres que siguen a la manzana y los dos siguientes al número de lote o predio; cuando se trate de condominios, las siguientes dos posiciones identifican el edificio y las cuatro últimas el número de departamento, en los casos de propiedades individuales estos seis últimos caracteres se codifican con ceros.
 
 II. Municipio. La delimitación conforme a la división política del estado en territorios municipales, con sustento en los decretos, acuerdos y resoluciones que en esta materia haya fijado la Legislatura; está representado por los dígitos primero al tercero de la clave catastral.
 
@@ -7632,6 +7262,14 @@ III. Zona catastral.- La delimitación del territorio del municipio para efectos
 IV. Manzana catastral. La delimitación del terreno por vialidades y límites físicos, en polígono cerrado, conforme al número y dimensión de los predios que se localizan en ella; está representada por los dígitos sexto a octavo de la clave catastral.
 
 V. Predio. El inmueble urbano o rústico con o sin construcciones, integrado o no en una manzana catastral, cuyos linderos forman un polígono sin solución de continuidad; está representado por los dígitos noveno y décimo de la clave catastral.
+
+> <small>(ADICIONADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+VI. Edificio. El agrupamiento de unidades privativas que integran un módulo en un conjunto urbano de régimen de propiedad condominal, en sus modalidades horizontal, vertical o mixto destinadas a la vivienda, comercio, industria u oficinas y se representa por los dígitos décimo primero y duodécimo.
+
+> <small>(ADICIONADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+VII. Departamento. La unidad privativa de un módulo en un conjunto urbano de régimen de propiedad condominal, en sus modalidades horizontales, verticales o mixto, destinadas a la vivienda, comercio, industria u oficina, mismas que tiene el derecho a la parte proporcional de las áreas comunes del inmueble, y está representado por los dígitos del décimo tercero al décimo sexto.
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -8137,13 +7775,21 @@ Vt = Valor del Terreno
 
 Vc= Valor de la Construcción
 
+> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 198 Bis.
+
+Cuando en el transcurso de un ejercicio fiscal se requiera la creación de nuevas manzanas para efectos del cálculo del valor catastral se aplicará el valor unitario de suelo del área homogénea que las contenga y el valor unitario de construcción que le corresponda conforme a la tabla vigente; en estos casos el Ayuntamiento deberá remitir al IGECEM copia del gráfico y la relación de movimientos al registro alfanumérico y realizar la propuesta correspondiente en términos del artículo 195 de este Código, para efectos de actualizar las Tablas de Valores Unitarios de Suelo y Construcciones.
+
+Lo establecido en el párrafo anterior se aplicará hasta en tanto sean aprobadas y publicadas las Tablas de Valores Unitarios de Suelo y Construcciones para el siguiente ejercicio fiscal.
+
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 199.
 
 El valor del terreno de un inmueble se obtiene de multiplicar la superficie de terreno en metros cuadrados, por el valor unitario de suelo contenido en la Tabla de Valores Unitarios de Suelo y al resultado obtenido, por los factores de mérito o demérito, respecto del frente, del fondo, de irregularidad, de área, de topografía y de posición dentro de la manzana, conforme a las definiciones y determinaciones establecidas en el Reglamento correspondiente.
 
-Para inmuebles sujetos al régimen condominial e industrial, se determinará la unidad para todos los factores a que se refiere este artículo.
+> <small>(DEROGADO SEGUNDO PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 En todos los casos de condominios, para cada unidad, el valor del terreno se obtendrá tomando en cuenta la superficie privativa más la parte proporcional indivisa del área común.
 
@@ -8171,7 +7817,7 @@ EL IGECEM registrará y autorizará a los especialistas en valuación inmobiliar
 
 ###### Artículo 202.
 
-Están obligadas al pago de aportaciones de mejoras, las personas físicas o morales, propietarias o poseedoras de bienes inmuebles ubicados dentro del área de beneficio, que obtengan beneficios diferenciales particulares derivados de la ejecución de la obra pública o acción de beneficio social, realizadas por el Estado, los municipios o los organismos públicos descentralizados, a quien para efectos de este Título se les denominará beneficiario.
+Están obligadas al pago de aportaciones de mejoras, las personas físicas o jurídicas colectivas, propietarias o poseedoras de bienes inmuebles ubicados dentro del área de beneficio, que obtengan beneficios diferenciales particulares derivados de la ejecución de la obra pública o acción de beneficio social, realizadas por el Estado, los Municipios o los organismos públicos descentralizados, a quien para efectos de este Título se les denominará beneficiario.
 
 Se entiende por área de beneficio, la circunscripción territorial técnicamente determinada, hasta cuyos límites las obras públicas o acciones realizadas por el Estado, los municipios o los organismos públicos descentralizados, produzcan un beneficio a los aportadores o a sus inmuebles.
 
@@ -8357,15 +8003,15 @@ El documento de notificación deberá contener la misma información de la publi
 
 Las aportaciones notificadas a cargo de los beneficiarios, tendrán el carácter de crédito fiscal, deberán ser enteradas en la oficina recaudadora correspondiente y en caso de incumplimiento serán exigibles a través del procedimiento administrativo de ejecución.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, G.G. 6 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACION, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO SEGUNDO. DE LAS APORTACIONES ESTATALES PARA OBRAS DE INCORPORACION E IMPACTO VIAL
+### CAPITULO SEGUNDO. DE LAS APORTACIONES ESTATALES PARA OBRAS DE IMPACTO VIAL
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 216-A.
 
-Están obligadas al pago de aportaciones para obras de incorporación e impacto vial, las personas físicas o jurídicas colectivas, que en términos del Código Administrativo del Estado de México requieran dictamen de impacto regional, en territorio del Estado construyan, amplíen y/o modifiquen el uso o aprovechamiento de bienes inmuebles, con un uso de suelo industrial, comercial o de servicios, o para desarrollos habitacionales, debidamente autorizados y que regionalmente se vean beneficiados con las obras a que se refiere el artículo 216-H.
+Están obligadas al pago de Aportaciones para Obras de Impacto Vial, las personas físicas o jurídicas colectivas, que en términos del Código Administrativo del Estado de México requieran dictamen de impacto regional, en territorio del Estado construyan, amplíen y/o modifiquen el uso o aprovechamiento de bienes inmuebles, con un uso de suelo industrial, comercial o de servicios, o para desarrollos habitacionales, debidamente autorizados y que regionalmente se vean beneficiados con las obras a que se refiere el artículo 216-H.
 
 > <small>(ADICIONADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -8447,15 +8093,35 @@ RESIDENCIAL ALTO
 
 Y CAMPESTRE $20,869.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 216-F.
 
-Estas aportaciones para obras de incorporación e impacto vial deberán pagarse mediante declaración en la forma oficial aprobada, dentro de los sesenta días siguientes al del inicio de la construcción, ampliación o modificación. De la declaración y anexos presentados por el contribuyente, se remitirá, en un plazo no mayor a diez días hábiles, copia certificada a la tesorería del municipio o municipios que se vean afectados por la realización de la obra a cargo de las personas físicas o jurídicas colectivas.
+Estas Aportaciones para Obras de Impacto Vial deberán pagarse o convenirse el pago diferido o en parcialidades, con garantía del interés fiscal, mediante declaración en la forma oficial aprobada, previamente a la emisión de la licencia de construcción de la obra o desarrollo motivo de dictamen. De la declaración y anexos presentados por el contribuyente, se remitirá, en un plazo no mayor a diez días hábiles, copia certificada a la tesorería del municipio o municipios que se vean afectados por la realización de la obra a cargo de las personas físicas o jurídicas colectivas, siendo este requisito indispensable para la celebración de cualquier convenio a que se refiere el presente artículo.
 
-Las aportaciones de mejoras para obras de incorporación e impacto vial, serán recibidas en obra pública vial, o bien, en depósito al fideicomiso de aportaciones para obras de incorporación e impacto vial, de ser convenido previamente por la Secretaría de Comunicaciones y el municipio o municipios afectados.
+Las Aportaciones de mejoras para obras de impacto vial, serán recibidas en obra pública, o bien, en depósito al fideicomiso de aportaciones para obras de impacto vial, de ser convenido previamente por la Secretaría de Comunicaciones y el municipio o municipios afectados.
 
-Para el caso de que la Secretaría de Comunicación y el municipio o municipios interesados, convengan el depósito del importe correspondiente a la aportación de mejoras, se procederá conforme señala el primer párrafo del presente artículo; si se conviene la recepción de obra pública, la misma deberá ser realizada por el contribuyente en los términos que señale al efecto el Libro Séptimo del Código Administrativo del Estado de México.
+Para el caso de que la Secretaría de Comunicaciones y el municipio o municipios involucrados, convengan el depósito del importe correspondiente a la aportación de mejoras, se procederá conforme señala el primer párrafo del presente artículo; si se conviene la recepción de obra pública, la misma deberá ser realizada por el contribuyente en los términos que señale al efecto el Libro Séptimo del Código Administrativo del Estado de México, bajo la supervisión coordinada de la Secretaría de Comunicaciones y el municipio o municipios respectivos, debiéndose realizar la entrega a la dependencia, organismo descentralizado o municipio correspondiente.
+
+En caso de que los ingresos generados por las aportaciones de mejoras para obras de impacto vial, se hayan pagado y no exista convenio para su destino, se depositarán en el fideicomiso en un plazo no mayor a diez días hábiles contados a partir de su recepción, informándose al municipio o municipios correspondientes en el mismo plazo.
+
+A fin de dar seguimiento a la aplicación de estos recursos, se constituirá el Comité de Control y Vigilancia de las Aportaciones para Obras de Impacto Vial, que estará integrado por:
+
+I. Un representante del Poder Legislativo.
+
+II. Un representante de la Secretaría de Comunicaciones.
+
+III. Un representante de la Secretaría de Finanzas, Planeación y Administración.
+
+IV. Dos representantes de los municipios de la entidad, que serán designados anualmente en el seno del Instituto Hacendario del Estado de México, debiendo ser municipios en los cuales se genere la aportación.
+
+Este Comité será presidido por el representante de la Secretaría de Comunicaciones y tendrá, entre otras funciones, las siguientes:
+
+I. Dar seguimiento al ingreso que se obtenga por estas aportaciones.
+
+II. Vigilar el debido cumplimiento de los convenios que celebren la Secretaría de Comunicaciones con el municipio o los municipios involucrados, en los que se acuerden las obras que se deberán llevar a cabo en la zona de impacto vial.
+
+III. Vigilar el comportamiento de estas aportaciones de impacto vial y sus repercusiones y resultados.
 
 > <small>(ADICIONADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -8479,11 +8145,13 @@ VII. Los inmuebles destinados a la agricultura, ganadería, silvicultura o pesca
 
 VIII. Estacionamientos, terminales de autobuses urbanos y foráneos, torres o sitios celulares denominados radio bases.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 216-H.
 
-El ingreso que se perciba por este concepto, será destinado para el desarrollo de obra pública que tienda a mitigar el impacto vial en la zona donde se pague la aportación.
+El ingreso que se perciba por este concepto, será destinado para el desarrollo de obra pública que tienda a mitigar el impacto vial en la zona donde se hubiere generado la aportación.
+
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 El proyecto de obra y su ejecución, se dará de manera coordinada, entre la Secretaría de Comunicaciones y el municipio o municipios afectados, conforme lo dispone el artículo 5.10, fracción XV del Código Administrativo del Estado de México.
 
@@ -8741,19 +8409,21 @@ El Gobierno Estatal proporcionará al Ejecutivo Federal a través de la Secretar
 
 El Gobierno Estatal, podrá celebrar convenios de Desarrollo Social con el Gobierno Federal y con los ayuntamientos, convenios de colaboración administrativa que permitan dar cumplimiento a lo previsto en el Capítulo V de la Ley de Coordinación Fiscal.
 
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 242.
 
-La Secretaría de Contraloría y Desarrollo Administrativo de la Federación, en el ámbito de sus atribuciones, realizará la inspección y vigilancia de los fondos, de acuerdo con lo establecido en el Capítulo V de la Ley de Coordinación Fiscal, sin perjuicio de las atribuciones de control y evaluación que correspondan a los órganos de control estatal y municipal.
+La Secretaría de la Función Pública de la Federación, en el ámbito de sus atribuciones, realizará la inspección y vigilancia de los fondos, de acuerdo con lo establecido en el Capítulo V de la Ley de Coordinación Fiscal, sin perjuicio de las atribuciones de control y evaluación que correspondan a los órganos de control estatal y municipal.
 
 ###### Artículo 243.
 
 La Legislatura deberá celebrar convenios con el objeto de coordinar acciones para el seguimiento del ejercicio de los recursos que se reasignen y los correspondientes a las aportaciones federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 244.
 
-Las responsabilidades administrativas, civiles y penales en que incurran las autoridades estatales o municipales exclusivamente con motivo de la desviación de los recursos recibidos de los fondos federales, convenios de descentralización y programas de apoyo federales señalados en este capítulo, para fines distintos a los previstos por la Ley de Coordinación Fiscal, serán sancionados en los términos de la legislación federal y estatal aplicable.
+Las responsabilidades administrativas, civiles y penales en que incurran las autoridades estatales o municipales por el manejo o aplicación indebido de los recursos recibidos de los fondos federales, convenios de descentralización y programas de apoyo federales señalados en este capítulo, para fines distintos a los previstos por la Ley de Coordinación Fiscal, serán sancionados en los términos de la legislación federal y estatal aplicable.
 
 > <small>(REFORMADA SU DENOMINACION, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -8789,7 +8459,9 @@ El Instituto contará con el personal especializado que se requiera para desarro
 
 El Consejo Directivo será el órgano máximo del Instituto y estará integrado por:
 
-I. El Presidente, que será el Secretario de Finanzas y Planeación.
+> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+I. El Presidente, que será el Secretario de Finanzas, Planeación y Administración.
 
 II. El Secretario, que será el Vocal Ejecutivo del Instituto o quién designe el Consejo a propuesta de su Presidente.
 
@@ -9477,11 +9149,11 @@ En el caso de los municipios, el Presupuesto de Egresos, será el que se apruebe
 
 Los Poderes Legislativo y Judicial, así como los entes autónomos se sujetarán a las disposiciones de este Título en lo que no se contrapongan a los ordenamientos legales que los rigen.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 287.
 
-La Secretaría deberá establecer y operar un Registro Estatal de Planes Municipales y Programas. Las autoridades Estatales y Municipales en el ámbito de su competencia serán responsables de que los Presupuestos de Egresos se encuentren relacionados con el Plan de Desarrollo del Estado de México y el correspondiente Plan de Desarrollo Municipal y los programas inscritos en el Registro.
+La Secretaría deberá establecer y operar un Registro Estatal de Planes y Programas. Las autoridades Estatales y Municipales en el ámbito de su competencia serán responsables de que los Presupuestos de Egresos se encuentren relacionados con el Plan de Desarrollo del Estado de México y el correspondiente Plan de Desarrollo Municipal y los programas inscritos en el Registro.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -9525,7 +9197,9 @@ La Legislatura al aprobar el Presupuesto de Egresos no podrá dejar de señalar 
 
 La Secretaría será la responsable de integrar y someter a consideración del Gobernador el proyecto de Presupuesto de Egresos del Estado.
 
-En el caso de los municipios, su presupuesto lo integrará la Tesorería y lo someterá a la consideración del ayuntamiento.
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+En el caso de los Municipios, su presupuesto lo integrará la Tesorería y lo someterá a la consideración del Presidente Municipal.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -9575,11 +9249,13 @@ Los capítulos de gasto se dividirán en subcapítulos y partidas, que represent
 
 En el caso de los municipios, corresponderá a su Tesorería emitir el Clasificador por Objeto del Gasto, el cual deberá guardar congruencia y homogeneidad con el que determine la Secretaría en términos del párrafo anterior.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 294.
 
-Antes del último día hábil de mayo, la Secretaría dará a conocer a las dependencias y entidades públicas, el documento para la concertación de estructuras programáticas, los catálogos que determine la Secretaría y la revisión y alineación de indicadores para evaluar el desempeño, que servirá de base para la formulación de su anteproyecto de presupuesto, para que a más tardar el último día hábil del mes de junio le envíen sus observaciones.
+Antes del último día hábil de mayo, la Secretaría dará a conocer a las dependencias y entidades públicas, para su concertación, los catálogos que determine, así como los lineamientos para la revisión y alineación de indicadores para evaluar el desempeño, que servirá de base para la formulación de su anteproyecto de presupuesto, para que a más tardar el día quince del mes de junio le envíen sus observaciones.
+
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 En el caso de los municipios, corresponderá a la Tesorería dar a conocer el documento a que se refiere el presente artículo, así como recibir las observaciones al mismo.
 
@@ -9589,7 +9265,9 @@ En el caso de los municipios, corresponderá a la Tesorería dar a conocer el do
 
 Antes del último día hábil de julio la Secretaría enviará a las dependencias y entidades públicas, el manual para la formulación del anteproyecto de presupuesto y comunicará los techos presupuestarios para la elaboración de su anteproyecto de presupuesto.
 
-En el caso de los municipios, la comunicación de techos de gasto y del Manual lo hará la Tesorería. En la elaboración del Manual, deberá guardar congruencia y homogeneidad con el que determine la Secretaría.
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+En el caso de los municipios, la comunicación de techos presupuestarios y del Manual lo hará la Tesorería. En la elaboración del Manual, deberá guardar congruencia y homogeneidad con el que determine la Secretaría.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -9613,13 +9291,27 @@ Tratándose de obra pública cuando existan obras o acciones cuya ejecución aba
 
 Antes del último día hábil del mes de agosto, las dependencias y entidades públicas enviarán a la Secretaría su anteproyecto de presupuesto.
 
-Las unidades administrativas de los municipios enviarán su anteproyecto de presupuesto a la Tesorería para ser sometido a consideración del ayuntamiento en la fecha señalada en el primer párrafo.
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+Las unidades administrativas de los Municipios enviarán su anteproyecto de presupuesto a la Tesorería para ser revisado y en su caso se integre al proyecto que se someterá a consideración del Presidente Municipal para su posterior aprobación por el Ayuntamiento.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 299.
 
 Los poderes Legislativo, Judicial y los entes autónomos, formularán sus respectivos anteproyectos de presupuesto, y los presentarán al Ejecutivo a más tardar el último día hábil de agosto, para su incorporación al Proyecto del Presupuesto de Egresos, considerando las previsiones de ingresos y gasto público.
+
+> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 299 Bis.
+
+El Proyecto de Presupuesto Operativo Básico del Poder Judicial que se apruebe para cualquier ejercicio fiscal, no podrá ser menor al porcentaje que represente de los ingresos ordinarios del Estado, el correspondiente al año inmediato anterior.
+
+Se entenderá como presupuesto operativo básico, aquel que cubre las asignaciones de recursos para la operación de los programas fundamentales e inherentes a la operación de la institución, debidamente considerados en su programa operativo anual; comprende el rubro de servicios personales y el gasto operativo, sin incluir los recursos que de manera coyuntural se destinen a gasto de inversión, excepto para concluir obras que estén en proceso y que rebasen un ejercicio fiscal, es decir, que no tienen el carácter de irreductible.
+
+Con base en las necesidades básicas de operación y de inversión de este poder, el porcentaje que de los ingresos ordinarios represente su presupuesto, se incrementará anualmente hasta alcanzar el 2% de dichos ingresos.
+
+Para este efecto, en el cálculo de los ingresos ordinarios del Estado, no se considerarán, las asignaciones extraordinarias derivadas de modificaciones al Sistema Nacional de Coordinación Fiscal.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -9635,11 +9327,17 @@ En el caso de los ayuntamientos, corresponderá a la Tesorería formular los ant
 
 La Secretaría podrá efectuar las modificaciones que considere necesarias a los anteproyectos de presupuesto, en cuanto a importes asignados y a la congruencia de la orientación del gasto con los objetivos de los programas; las modificaciones que realice deberá informarlas a las dependencias y entidades públicas para que efectúen los ajustes correspondientes.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+En el caso de los Municipios lo hará la Tesorería, en coordinación con la unidad de información, planeación, programación y evaluación.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 302.
 
-El Gobernador presentará a la Legislatura a mas tardar el cinco de diciembre el Proyecto de Presupuesto de Egresos del Estado.
+El Gobernador presentará a la Legislatura a mas tardar el veintiuno de noviembre el Proyecto del Presupuesto de Egresos del Gobierno del Estado.
+
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 En el caso de los municipios, el Presidente Municipal lo presentará al Ayuntamiento a más tardar el quince de noviembre.
 
@@ -9691,21 +9389,25 @@ Una vez que se apruebe el presupuesto de egresos por la Legislatura, el Ejecutiv
 
 En el caso de los municipios la comunicación a que se refiere el presente artículo la realizará la Tesorería, una vez aprobado el presupuesto por el ayuntamiento.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 307.
 
-Las dependencias en el ejercicio de sus asignaciones presupuestarias se sujetarán al calendario que determine la Secretaría, y en el caso de los municipios la Tesorería.
-
-No se autorizarán modificaciones a los calendarios de gasto que tengan por objeto anticipar la disponibilidad de recursos.
-
-La Secretaría no reconocerá adeudos ni pagos por cantidades reclamadas o erogaciones efectuadas que rebasen el monto mensual del presupuesto de egresos.
+Las Dependencias y Entidades Públicas en el ejercicio de sus asignaciones presupuestarias se sujetarán al calendario que determine la Secretaría, y en el caso de los municipios la Tesorería.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
+No se autorizarán modificaciones a los calendarios de gasto que tengan por objeto anticipar la disponibilidad de recursos.
+
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+
+La Secretaría no reconocerá adeudos ni pagos por cantidades reclamadas o erogaciones efectuadas que rebasen el monto mensual del presupuesto de egresos.
+
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 308.
 
-Se entenderá por Subsidios, operaciones y donativos. A las previsiones presupuestales que se proporcionarán como apoyos económicos a los sectores social y privado para la ejecución de programas prioritarios.
+Se entenderá por subsidios, cooperaciones y donativos a las previsiones presupuestales que se proporcionarán como apoyos económicos a los sectores social y privado para la ejecución de programas prioritarios.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -9729,17 +9431,25 @@ III. Cuando como resultado de la evaluación de las estrategias de desarrollo, l
 
 En el caso a que se refiere esta fracción, las dependencias y entidades públicas podrán solicitar a la Secretaría, autorización para reasignar los recursos presupuestarios a otros programas sociales prioritarios, mediante el dictamen de reconducción correspondiente, informando en ambos casos, a la Legislatura o a la Diputación Permanente.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 311.
 
-En el caso de las entidades públicas, la Secretaría se reservará la liberación de las transferencias para gasto corriente y de capital, cuando:
+En el caso de las entidades públicas, la Secretaría se reservará la liberación de las transferencias para gasto corriente y de inversión, cuando:
+
+> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 I. No envíen en tiempo y forma a la Secretaría la información del avance de sus programas y el ejercicio en sus presupuestos y no cumplan con las metas comprometidas en sus proyectos;
 
+> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
+
 II. En el manejo de sus disponibilidades financieras no cumplan los lineamientos que emita la Secretaría;
 
+> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
+
 III. Hayan celebrado convenios de asunción de pasivos y no se cumpla con las obligaciones pactadas, con los programas de saneamiento financiero respectivos o con los compromisos de déficit o superávit acordados;
+
+> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 IV. En general, no ejerzan sus presupuestos con base a las disposiciones aplicables.
 
@@ -9761,11 +9471,11 @@ III. Que se encuentren debidamente justificados y comprobados con los documentos
 
 Los Poderes Legislativo y Judicial y los entes autónomos en el ejercicio de su Presupuesto de egresos, para la contratación y ejecución de obra pública y la adquisición de bienes y servicios, cumplirán las disposiciones previstas en el Código Administrativo y demás disposiciones aplicables en la materia.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 314.
 
-Las dependencias y entidades públicas deben reportar a la Secretaría el presupuesto ejercido con base en los catálogos de estructura programática autorizados.
+Las dependencias y entidades públicas deben reportar a la Secretaría el presupuesto ejercido con base en el catálogo de estructura programática autorizado.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -9781,27 +9491,45 @@ Las garantías que deban constituirse para asegurar los actos y contratos que ce
 
 En el caso de los Municipios, las garantías en todos los casos se constituirán a favor de la Tesorería.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 317.
+
+Los traspasos presupuestarios internos serán aquellos que se realicen dentro de un mismo programa, sin que se afecte el objetivo del mismo.
+
+Estos traspasos serán realizados por la unidad ejecutora, quién notificará a la Secretaría mensualmente dentro de los primeros diez días del mes siguiente al en que se realicen, para ser integrados al informe que el Poder Ejecutivo rinda al Poder Legislativo.
+
+Los traspasos presupuestarios externos serán aquellos que se realicen entre programas, debiendo la unidad ejecutora solicitar autorización de la Secretaría para su aplicación. La solicitud deberá contener la justificación necesaria así como el dictamen de reconducción y actualización correspondiente.
+
+El monto total de traspasos presupuestarios externos que autorice la Secretaría no podrá exceder del 10% del presupuesto autorizado anual, exceptuando de este capítulo los ajustes por incrementos salariales de carácter general y las contingencias derivadas de desastres naturales y siniestros.
+
+En caso de que se requiera la realización de traspasos presupuestarios externos que rebasen el porcentaje señalado en el párrafo anterior, el Poder Ejecutivo deberá solicitar la autorización a la Legislatura o a la Diputación Permanente cuando aquella se encuentra en receso, quien deberá aprobarlo en un plazo no mayor de 15 días. En caso de no recibir respuesta, se entenderá por aprobado.
+
+> <small>(ADICIONADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 317 Bis.
 
 Las adecuaciones presupuestarias que impliquen traspasos entre programas, requerirán autorización de la Secretaría, y en el caso de los municipios, de la Tesorería, en los términos de las disposiciones aplicables.
 
 Las adecuaciones presupuestarias que se den dentro del capítulo de gasto y proyecto se harán de manera directa por las dependencias y entidades públicas, debiendo informar a la Secretaría o a la Tesorería en su caso, en un plazo no mayor a los primeros diez días posteriores al cierre del mes inmediato anterior en que se hayan efectuado las adecuaciones respectivas.
 
-Las entidades públicas no podrán realizar erogaciones para cubrir gastos que no correspondan estrictamente a éstos, ni podrán realizar erogaciones ni transferencias a dependencias.
+Las entidades públicas no podrán realizar erogaciones para cubrir gastos que no correspondan estrictamente a estos, ni podrán realizar erogaciones ni transferencias a dependencias.
 
 Todas las adecuaciones presupuestarias aprobadas deberán mantener el equilibrio en el balance de ingresos y egresos.
 
-No se podrán realizar traspasos presupuestarios del gasto de inversión al capítulo de gasto corriente.
+No se podrán realizar traspasos presupuestarios del gasto de inversión a los capítulos de gasto corriente.
 
-> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 318.
 
-Las solicitudes de ampliación líquida de recursos presupuestarios que presenten las dependencias y entidades públicas, deberán ser autorizadas por la Secretaría, con base al dictamen de reconducción y actualización que emita su titular, justificando el origen de los recursos.
+Las solicitudes de ampliación presupuestaria que presenten las dependencias y entidades públicas a través de su dependencia coordinadora de sector, deberán ser autorizadas por la Secretaría, con base al dictamen de reconducción y actualización que emita su titular, justificando el origen de los recursos.
+
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 En el caso de los municipios, los ayuntamientos, podrán autorizarán (sic) la adecuación solicitada.
+
+> <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 El Ejecutivo deberá informar a la legislatura al rendir la cuenta pública, los programas a los que se aprobaron erogaciones adicionales en los términos de este artículo.
 
@@ -9945,11 +9673,13 @@ Las dependencias a través de las Unidades de Información, Planeación, Program
 
 Al efecto, se llevará a acabo la revisión, seguimiento y evaluación del cumplimiento de objetivos y metas establecidas en los proyectos aprobados, contra los resultados del ejercicio del Presupuesto de Egresos.
 
-> <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 327-E.
 
-El titular del Ejecutivo por conducto de la Secretaría, enviará a la Legislatura informes mensuales preliminares del comportamiento de los ingresos y egresos y, trimestralmente en abril, julio, octubre y enero del año siguiente, del avance programático presupuestal de las dependencias y entidades públicas y los correspondientes al cierre del ejercicio, se harán con la cuenta pública, dichos informes reflejarán las incidencias presupuestales y programáticas sucedidas en el periodo que se reporta.
+El Titular del Ejecutivo por conducto de la Secretaría, enviará a la Legislatura o a la Diputación Permanente cuando aquella se encuentre en receso, informes preliminares mensuales del comportamiento de los ingresos y egresos y, trimestralmente en abril, julio y octubre el avance programático-presupuestal del Poder Ejecutivo. Los informes mensual y trimestral preliminares correspondientes al cierre del ejercicio, se presentarán en el mes de marzo del año siguiente. En todos los casos, los informes reflejarán las incidencias presupuestales y programáticas sucedidas en el período que se reporta.
+
+El Poder Ejecutivo a través de la Secretaría, comparecerá en las reuniones trimestrales de análisis y evaluación de los informes presentados, que celebren el Organo Superior de Fiscalización de la Legislatura y las Comisiones Legislativas respectivas.
 
 ## TITULO DECIMO. DE LOS SERVICIOS DE TESORERIA
 
@@ -10638,3 +10368,15 @@ El Ejecutivo Estatal, a través de la Secretaría de Finanzas, Planeación y Adm
 G.G. 1 DE JULIO DE 2004.
 
 Primero.- Dése a conocer a las Dependencias de la Administración Pública del Gobierno del Estado de México, así como a las Unidades Administrativas dependientes de la Subsecretaría de Ingresos.
+
+G.G. 22 DE DICIEMBRE DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta de Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor el uno de enero del año 2005.
+
+TERCERO.- El Comité de Control y Vigilancia de las Aportaciones para Obras de Impacto Vial que se constituirá de conformidad con el artículo 216-F de este Código, deberá encontrarse instalado a más tardar el día 30 de enero del año 2005, siendo responsabilidad de la Secretaría de Comunicaciones dicha instalación en tiempo; asimismo, este Comité deberá determinar con el acuerdo de todos sus integrantes, para el correspondiente depósito al fideicomiso, el monto de las aportaciones para obras de incorporación vial efectivamente pagadas en el ejercicio fiscal del año 2004, a más tardar del término de 60 días naturales contados a partir de la constitución del Comité.
+
+La cantidad a que refiere el presente artículo transitorio, una vez integrada al fideicomiso por la Secretaría de Finanzas, Planeación y Administración en un plazo no mayor a 60 días naturales contados a partir de que sea notificada del monto respectivo por parte del Comité se aplicará de manera proporcional entre los municipio de la entidad en que se haya generado alguna aportación para obras de impacto vial, para el trámite y aplicación correspondiente.
+
+El Comité vigilará que la Secretaría de Comunicaciones y los municipios involucrados, firmen los convenios relativos a las aportaciones de impacto vial cubiertas en 2004, para acordar las obras que se deberán llevar a cabo en la zona de impacto vial respectiva.
