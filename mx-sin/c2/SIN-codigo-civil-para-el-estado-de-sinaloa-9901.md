@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1998-10-16"
+last_updated: "2001-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 2001.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -9315,6 +9315,52 @@ En el caso del artículo anterior, cada uno de los herederos responderá de la p
 
 Tratándose de obligaciones indivisibles, se observará lo dispuesto en el artículo 1889.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE ENERO DE 2001)</small>
+
+De la Imprevisión en los Contratos.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2001)</small>
+
+###### Artículo 1735 Bis- A.
+
+En los contratos bilaterales y unilaterales con prestaciones periódicas o de tracto sucesivo, el consentimiento se entiende otorgado en las condiciones y circunstancias generales existentes al momento de su celebración.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2001)</small>
+
+###### Artículo 1735 Bis- B.
+
+Cuando en cualquier momento de la ejecución de los contratos a que se refiere el artículo anterior, varíen substancialmente las condiciones generales del medio en el que debe tener cumplimiento, por acontecimientos extraordinarios, que no pudieron razonablemente preverse por ninguna de las partes contratantes al momento de su celebración; y que de llevar adelante los términos aparentes en la convención resultaría una prestación excesivamente onerosa a cargo de cualquiera de estas, que rompan la equidad en el contrato celebrado, podrá demandarse la terminación de éste o bien una modificación equitativa en la forma y modalidades de la ejecución.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2001)</small>
+
+###### Artículo 1735 Bis- C.
+
+En todos los casos, ya sea de terminación de contrato o de la modificación equitativa en la forma y modalidades de la ejecución, el alcance de la demanda no se extenderá a las prestaciones realizadas hasta antes de la presentación del acontecimiento extraordinario, pero las prestaciones cubiertas con posterioridad a éste así como las futuras pendientes de cumplir si serán materia de la terminación del contrato o de la modificación equitativa en la forma y modalidades de la ejecución.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2001)</small>
+
+###### Artículo 1735 Bis- D.
+
+Si el interesado opta por la terminación del contrato, el demandado podrá oponerse a ella, proponiendo modificaciones al contrato suficientes para adecuarlo a los principios de equidad, buena fe y reciprocidad de las partes, en cuyo caso, y de no ser aceptadas las modificaciones propuestas, se continuará con la acción de terminación.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2001)</small>
+
+###### Artículo 1735 Bis- E.
+
+Sólo se considerarán como acontecimientos extraordinarios a aquellas alteraciones imprevisibles, que sobrevienen por hechos o circunstancias ajenos a la voluntad de las partes que alteran la equidad en el contrato, de tal manera que de haberlas sabido alguna de las partes, no habría pactado en la forma que lo hizo, o simplemente no hubiera llevado a cabo el contrato. Este precepto no comprende las fluctuaciones o cambios normales de todo sistema económico o social, ni los cambios de posición o circunstancias económicas o sociales propios de los contratantes.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2001)</small>
+
+###### Artículo 1735 Bis- F.
+
+La prescripción de las acciones anteriores, será de un año.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 2001)</small>
+
+###### Artículo 1735 Bis- G.
+
+Para que tengan aplicación los artículos que preceden, el cumplimiento parcial o total del contrato debe encontrarse pendiente por las causas señaladas y no por la culpa o mora del obligado.
+
 Interpretación.
 
 ###### Artículo 1736.
@@ -15756,3 +15802,9 @@ P.O. 16 DE OCTUBRE DE 1998.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 10 DE ENERO DE 2001.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa" y no será aplicable a los convenios o contratos celebrados con anterioridad a su entrada en vigencia.
