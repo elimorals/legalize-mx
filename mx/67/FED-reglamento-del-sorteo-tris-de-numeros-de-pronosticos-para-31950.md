@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-tris-de-numeros-de-pronosticos-para-31950
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2003-06-18"
+last_updated: "2004-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31950&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL SORTEO TRIS DE NUMEROS DE PRONOSTICOS PARA LA ASISTENCIA PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JUNIO DE 2004.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -37,17 +37,19 @@ Este reglamento se expide de conformidad con el Decreto de 16 de agosto de 1984,
 
 El sorteo Tris de números consiste en la selección o pronóstico que haga el participante de cuatro dígitos formando un número determinado del 0000 al 9999, mediante el pago del precio correspondiente, y que le dará derecho a participar en el sorteo respectivo y a obtener, en el supuesto de que el número sorteado corresponda a la selección que hubiere hecho, premios en efectivo en los términos de este reglamento.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+
 ###### Artículo 3o.
 
 Para los efectos de este reglamento, se entenderá por:
 
 1.- Agente autorizado.- La persona física o moral que haya celebrado contrato de comisión mercantil con Pronósticos y cuya función consistirá en aceptar quinielas del público en la forma y términos señalados en las disposiciones reglamentarias.
 
-2.- Terminal.- Para los efectos de estas disposiciones se entenderá por terminal (dispositivo electrónico) el aparato electrónico cuya función consiste en captar los datos de la selección de números hecha por el concursante, bien sea por solicitud del mismo en una asignación automática de ellos, o por la lectura óptica del volante o por la digitación de los datos, para lograr tenerlos en su dispositivo de almacenamiento; de ahí emitir señales al computador central para el registro de las combinaciones, y expedir los boletos que comprueban la participación en el concurso. Pronósticos podrá definir otras modalidades y conductos de venta transcribiendo los datos de las combinaciones vendidas en el Registro General de combinaciones concursantes para un concurso determinado, previa verificación de que cumplen con los requisitos establecidos en este reglamento.
+2.- Terminal.- Para los efectos de estas disposiciones se entenderá por terminal (dispositivo electrónico) el aparato electrónico cuya función consiste en captar los datos de la selección de números hecha por el concursante, bien sea por solicitud del mismo en una asignación automática de ellos, o por la lectura óptica del volante o por la digitación de los datos, para lograr tenerlos en su dispositivo de almacenamiento; de ahí emitir señales al computador central para el registro de las combinaciones, y expedir los boletos que comprueban la participación en el sorteo. Pronósticos podrá definir otras modalidades y conductos de venta transcribiendo los datos de las combinaciones vendidas en el Registro General de combinaciones concursantes para un sorteo determinado, previa verificación de que cumplen con los requisitos establecidos en este reglamento.
 
-3.- Concurso.- El evento que tiene lugar desde la captación oficial de combinaciones, hasta la Selección de Ganadores.
+3.- Sorteo.- El evento que tiene lugar desde la captación oficial de combinaciones, hasta la Selección de Ganadores.
 
-4.- Volante.- El documento que contiene los números posibles de selección para un concurso, en donde el concursante anota sus preferencias.
+4.- Volante.- El documento que contiene los números posibles de selección para un sorteo, en donde el concursante anota sus preferencias.
 
 5.- Combinación.- El conjunto de los cuatro números asentados en un volante, con las modalidades señaladas en el artículo 4o. del presente reglamento.
 
@@ -55,11 +57,11 @@ Para los efectos de este reglamento, se entenderá por:
 
 El boleto a que se refiere el párrafo anterior constituye un documento al portador comprendido en el artículo 6o. de la Ley General de Títulos y Operaciones de Crédito y no un título de crédito, ya que sirve únicamente para identificar a su tenedor. Dicho documento consigna un contrato de adhesión y sólo tendrá efectos probatorios cuando se corrobore que los códigos de seguridad y las numeraciones contenidas en él, sean legítimos.
 
-Con excepción de las causas señaladas en el presente Reglamento, no será posible la cancelación de aquellos boletos en los que de manera simultánea y adicional se participe en el concurso SUPER de Pronósticos.
+Con excepción de las causas señaladas en el presente Reglamento, no será posible la cancelación de aquellos boletos en los que de manera simultánea y adicional se participe en el sorteo SUPER de Pronósticos.
 
-7.- Registro de apuestas.- Es el proceso por el cual todas las combinaciones adquiridas por los concursantes quedan integralmente grabadas en el archivo de apuestas participantes para un concurso determinado.
+7.- Registro de apuestas.- Es el proceso por el cual todas las combinaciones adquiridas por los concursantes quedan integralmente grabadas en el archivo de apuestas participantes para un sorteo determinado.
 
-8.- Selección de ganadores.- Es el evento mediante el cual se determinan en cada concurso mediante los sistemas electrónicos de computación instalados en las Oficinas Generales de Pronósticos los números de los boletos que obtuvieron premiación y el monto de la misma.
+8.- Selección de ganadores.- Es el evento mediante el cual se determinan en cada sorteo mediante los sistemas electrónicos de computación instalados en las Oficinas Generales de Pronósticos los números de los boletos que obtuvieron premiación y el monto de la misma.
 
 ###### Artículo 4o.
 
@@ -129,11 +131,13 @@ a) Tendrá derecho a la devolución del importe pagado contra entrega del boleto
 
 b) Tendrá derecho al pago de su premio, siempre y cuando se corrobore que los códigos de seguridad y las numeraciones de los boletos sean legítimos.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+
 ###### Artículo 11o.
 
 Los boletos de Tris de números son documentos al portador y no títulos de crédito. Su adquisición entraña la celebración de un contrato aleatorio de juego con cláusulas de adhesión, el cual genera los derechos y obligaciones que se establecen en el presente reglamento.
 
-Con excepción de las causas señaladas en el presente reglamento, no será posible la cancelación de aquellos boletos en los que de manera simultánea y adicional se participe en el concurso SUPER de Pronósticos.
+Con excepción de las causas señaladas en el presente reglamento, no será posible la cancelación de aquellos boletos en los que de manera simultánea y adicional se participe en el sorteo SUPER de Pronósticos.
 
 ###### Artículo 12o.
 
@@ -179,15 +183,21 @@ El día y hora fijados para cada sorteo, ante la presencia del Inspector designa
 
 Ante la presencia del mismo Inspector se procederá a extraer al azar, de la tómbola de las unidades, una de las esferas cuyo número será el dígito ganador para las unidades, de la tómbola de las decenas una esfera cuyo número será el dígito ganador para las decenas, de la tómbola de las centenas una esfera cuyo número será el dígito ganador para las centenas, y de la tómbola de las unidades de millar una esfera cuyo número será el dígito ganador para las unidades de millar. De esta manera, los dígitos de las esferas extraídas al azar y en su orden de salida formarán el número ganador.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+
 ###### Artículo 18o.
 
-Concluido el sorteo y determinado el número sorteado, también en presencia del Inspector designado por la Secretaría de Gobernación, se procederá a efectuar la selección de los Tris de números ganadores, identificando las selecciones que hayan acertado al número sorteado. Se levantará acta en la que se harán constar los antecedentes del sorteo, sus resultados y cualquier incidente que ocurriere durante el mismo, dicha acta se elaborará con la participación del Inspector designado por la Secretaría de Gobernación y dos funcionarios que designe el Director General de la Institución, quienes deben intervenir y suscribir el documento, para todos los efectos legales.
+Concluido el sorteo y determinado el número sorteado, también en presencia del inspector designado por la Secretaría de Gobernación, se procederá a efectuar la selección de los Tris de números ganadores, identificando las selecciones que hayan acertado al número sorteado. Se levantará acta en la que se harán constar los antecedentes del sorteo, sus resultados y cualquier incidente que ocurriere durante el mismo, dicha acta se elaborará con la participación del inspector designado por la Secretaría de Gobernación y un funcionario que designe el Director General de la institución, quienes deben intervenir y suscribir el documento, para todos los efectos legales.
 
-El Director General hará la designación de los funcionarios a que se hace referencia en el párrafo anterior atendiendo al siguiente criterio: el primero de ellos será designado de entre los servidores públicos que ocupan cargos de los dos niveles jerárquicos inmediatamente inferiores al Director General y el segundo de entre los servidores públicos que ocupen los niveles tercero y cuarto inferiores al del Director General.
+El Director General hará la designación del funcionario a que se hace referencia en el párrafo anterior entre aquellos funcionarios que ocupen hasta el cuarto nivel inferior al del Director General.
 
-Estarán presentes también en el desarrollo y la celebración del concurso, un representante de la Dirección Técnica, uno del órgano interno de Control y otro de la Gerencia de Sorteos, quienes también suscribirán el acta mencionada en el párrafo anterior.
+Estarán presentes también en el desarrollo y la celebración del sorteo, un representante de la Dirección Técnica y otro de la Gerencia de Sorteos, quienes también suscribirán el acta mencionada en el párrafo primero.
 
-Dichos funcionarios estarán presentes durante todo el desarrollo y celebración del concurso hasta el envío de resultados para su publicación.
+Dichos funcionarios estarán presentes durante todo el desarrollo y celebración del sorteo hasta el envío de resultados para su publicación.
+
+El representante de la Dirección Técnica hará entrega al inspector designado por la Secretaría de Gobernación de los dispositivos magnéticos que contengan el archivo de apuestas participantes, registradas en el sistema central de cómputo, previo a la celebración del sorteo.
+
+A través de los sistemas de seguridad implementados para tal efecto, el inspector designado por la Secretaría de Gobernación depositará, previo a la celebración del sorteo, los dispositivos magnéticos, a los cuales exclusivamente tendrá acceso el Organo Interno de Control para efectuar, después de la celebración del sorteo, la auditoría de la selección de ganadores.
 
 ### Capítulo IV. De los premios
 
@@ -265,11 +275,13 @@ El pago de los premios sólo podrá suspenderse por orden expresa de la autorida
 
 El derecho al cobro del premio caducará en un plazo de sesenta días naturales contados a partir del día siguiente de la celebración del sorteo. El importe de los premios caducos, se llevará a la cuenta de reserva y posteriormente su destino final será el de agregarse a los enteros que se concentran a la Tesorería de la Federación para beneficio de la Asistencia Pública.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2004)</small>
+
 ###### Artículo 28o.
 
 Sólo por fuerza mayor o caso fortuito, Pronósticos suspenderá o cancelará un sorteo en vías de realización, y quedará obligado a rembolsar a los participantes el valor de sus Tris de números previa entrega material y cancelación de los boletos, sin ulterior responsabilidad.
 
-Con excepción de las causas señaladas en el presente Reglamento, no será posible la cancelación de aquellos boletos en los que de manera simultánea y adicional se participe en el concurso SUPER de Pronósticos.
+Con excepción de las causas señaladas en el presente Reglamento, no será posible la cancelación de aquellos boletos en los que de manera simultánea y adicional se participe en el sorteo SUPER de Pronósticos.
 
 ###### Artículo 29o.
 
@@ -286,3 +298,11 @@ Este Reglamento fue revisado y aprobado en su contenido por la Secretaría de Go
 México, D.F., a 19 de mayo de 2003.
 
 Presidente Suplente del H. Consejo Directivo Lic. Luis Manuel Gutiérrez Levy Rúbrica. Secretario del H. Consejo Directivo Lic. Eduardo Antonio Ancona González Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 11 DE JUNIO DE 2004.
+
+Primero.- Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
