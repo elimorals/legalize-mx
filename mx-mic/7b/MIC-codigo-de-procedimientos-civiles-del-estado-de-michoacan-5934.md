@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-del-estado-de-michoacan-5934"
 country: "mx"
 rank: "codigo"
 publication_date: "1936-07-30"
-last_updated: "1974-06-24"
+last_updated: "1981-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1981.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el 30 de julio de 1936.
 
@@ -257,13 +257,13 @@ Las acciones que se trasmiten contra los herederos no obligan a éstos sino en p
 
 La acción penal que nace de contrato es transmisible en favor y en contra de los herederos, con las limitaciones que establece el Código Civil.
 
-> <small>(REFORMADO, 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
 
 ###### Artículo 26.
 
-Verificado el emplazamiento de la demanda ésta no podrá modificarse, alterarse o abandonarse, sino con consentimiento del demandado; pero mientras no exista sentencia definitiva el actor puede desistirse de la demanda o de la acción pagando las costas que el reo hubiere erogado.
+Verificado el emplazamiento de la demanda, ésta no podrá modificarse o alterarse, sino con consentimiento del demandado; pero mientras no exista sentencia definitiva, el actor puede desistirse de la demanda previo consentimiento del demandado, o de la acción, sin su consentimiento, pagando en ambos casos las costas y los daños y perjuicios que se le hubieren causado al reo, salvo convenio en contrario.
 
-El desistimiento de la demanda sólo importa la pérdida de la instancia y produce el efecto de que las cosas vuelvan al estado que tenían antes de la presentación de la demanda. El desistimiento de la acción implica la extinción de ésta.
+El desistimiento de la demanda sólo importa la pérdida de la instancia y produce el efecto de que las cosas vuelvan al estado que tenían antes de su presentación. El desistimiento de la acción implica la extinción de ésta.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -1673,13 +1673,15 @@ Cuando un juez o magistrado se excuse sin causa legítima cualquiera de las part
 
 ### CAPITULO II. De la recusación
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1970)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
 
 ###### Artículo 217.
 
-Los jueces de primera instancia podrán ser recusados sin expresión de causa, sólo por la parte demandada y por una vez. No procederá la recusación cuando en algún distrito judicial únicamente exista un juez de esa categoría con jurisdicción civil o mixta.
+Los jueces de primera instancia podrán ser recusados sin expresión de causa, sólo por la parte demandada y por una vez. No procederá la recusación ,cuando en algún distrito judicial únicamente exista un juez de esa categoría con jurisdicción civil o mixta.
 
-Sólo la parte que no haya apelado podrá recusar a un magistrado, sin expresión de causa y por una vez.
+Las partes podrán recusar a un magistrado, sin expresión de causa y por una vez en el recurso de apelación, pero lo harán precisamente en el escrito de expresión de agravios y en el de contestación.
+
+En el recurso de queja, el magistrado que conozca del mismo no podrá ser recusado sin expresión de causa.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -1877,11 +1879,11 @@ En la segunda recusación con causa que se declare ilegal o que se deseche por n
 
 La sala o juez que haya conocido de la recusación, hará efectiva la pena a que se refieren los artículos precedentes; y cuidará, además, que las multas se enteren en la oficina a donde tengan que ingresar, y que se devuelva al recusante la diferencia que de la cantidad depositada aparezca a su favor, si alguna resultare.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
 
 ###### Artículo 247.
 
-De la recusación de un magistrado conocerá la sala que siga en número; de la de un juez de primera instancia, la sala que elija el recusante y, de la de un juez menor, el juez de primera instancia correspondiente, y en los lugares en que hubiere dos o más, el que elija el promovente.
+De la recusación de un magistrado conocerá la sala que siga en número; de la de un juez de primera instancia, la sala que corresponda en turno y, de la de un juez menor, el juez de primera instancia correspondiente, y en los lugares en que hubiere dos o más, el que elija el promovente.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -2815,11 +2817,13 @@ El juez recibirá el pleito a prueba en el caso de que los litigantes lo solicit
 
 Los litigantes pueden pedir que el negocio se reciba a prueba, después de la contestación de la demanda, o de la que diere el actor al escrito en que se opusiere la compensación o reconvención.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
 
 ###### Artículo 378.
 
-Del auto en que se ordene que el negocio se reciba a prueba no procede recurso alguno; el en que se niegue, será apelable si lo fuere también la sentencia definitiva, concediéndose el recurso en ambos efectos.
+Del auto en que se ordene que el negocio se reciba a prueba no procede recurso alguno; en el que se niegue será apelable si lo fuere también la sentencia definitiva, concediéndose el recurso en ambos efectos.
+
+Si el auto que niegue recibir el negocio a prueba se dictare en juicio sumario, sólo admitirá el recurso de revocación.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -2907,11 +2911,11 @@ La citación se hará a más tardar el día anterior a aquél en que deba recibi
 
 Para las diligencias que tengan que practicarse en otro juzgado, fuera del lugar del juicio, podrán las partes nombrar persona que en su representación asista a ellas, haga que se presenten los testigos, si se trata de esa prueba, y acuda a cuanto exija el cumplimiento de las mismas; esa designación se hará constar en el escrito en que se haga la promoción y se insertará en el recado que al efecto se libre. En tal caso el juez o tribunal requerido señalará día y hora en que haya de practicarse la diligencia, citando a la persona o personas designadas, si fueren vecinas de la localidad y estuvieren presentes, o si se hubieren presentado en ella; en caso contrario, la diligencia, si fuere posible, se llevará a efecto sin esa citación, lo mismo que cuando citadas aquéllas no cucurrieren (sic) al juzgado el día y hora fijados.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
 
 ###### Artículo 392.
 
-Los autos en que se negare la admisión o la práctica de una diligencia de prueba son apelables si lo fuere el negocio principal, y la apelación procederá en ambos efectos; los en que se conceda, no admiten recurso alguno.
+Los autos en que se negare la admisión o la práctica de una diligencia de prueba son apelables si lo fuere el negocio principal, y la apelación procederá en ambos efectos, si estos autos se dictaren en juicio sumario, sólo cabe el recurso de revocación. Los en que se conceda, no admiten recurso alguno.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -4545,7 +4549,9 @@ I. Las sentencias consentidas expresamente por las partes o por sus representant
 
 II. Las sentencias de que hecha notificación en forma, no se interpone recurso en el término señalado por la ley, y
 
-III. Las sentencias de que se ha interpuesto recurso; pero no se continuó en el término señalado por la ley, o se desistió de él la parte o su mandatario con poder o cláusula especial.
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1981)</small>
+
+III. La sentencia de que se ha interpuesto recurso; pero se declaró desierto, o se desistió de él la parte o su mandatario con poder o cláusula especial.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -4665,11 +4671,11 @@ No son admisibles la reconvención o la compensación sino cuando las acciones e
 
 En los juicios ejecutivos y de desahucio la excepción de pago sólo puede justificarse con prueba documental o de confesión.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 1968)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
 
 ###### Artículo 627.
 
-No procede conceder término supletorio ni el extraordinario de prueba en los negocios a que se refiere el artículo 622; tampoco el juez podrá aplicar las reglas de los artículos 366 y 415.
+No procede conceder término supletorio ni extraordinario de prueba en los negocios a que se refiere el artículo 622.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5193,11 +5199,11 @@ La apelación puede admitirse en el efecto devolutivo y en el suspensivo, o sola
 
 La apelación admitida en ambos efectos, suspende desde luego los efectos o la ejecución de la resolución recurrida, hasta que ésta cause ejecutoria; y, entre tanto, sólo podrán dictarse las resoluciones que se refieran a la administración, custodia o conservación de los bienes embargados o intervenidos judicialmente, siempre que la apelación no verse sobre alguno de estos puntos.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
 
 ###### Artículo 698.
 
-La apelación admitida sólo en el efecto devolutivo, no suspende la ejecución ni efectos de la resolución recurrida; y si ésta es sentencia definitiva, se dejará en el juzgado para ejecutarla, copia certificada de ella y de las demás constancias que el juez estime necesarias, remitiéndose desde luego los autos originales al tribunal superior. Si es auto o interlocutoria, se remitirá al tribunal testimonio de las constancias que el apelante señale como conducentes y a él se agregarán, a costa del colitigante, las que éste designe dentro de las cuarenta y ocho horas siguientes a la notificación del auto que ordene la remisión del testimonio.
+La apelación admitida sólo en el efecto devolutivo, no suspende la ejecución ni efectos de la resolución recurrida; y si ésta es sentencia definitiva, se dejará en el juzgado para ejecutarla, copia certificada de ella y de las demás constancias que el juez estime necesarias, remitiéndose los autos originales al Supremo Tribunal de Justicia, a fin de ser turnados a la sala que corresponda. Si es auto o interlocutoria, se remitirá para ese efecto, testimonio de las constancias que el apelante señale como conducentes y a él se agregarán, a costa del colitigante, las que éste designe dentro de las cuarenta y ocho horas siguientes a la notificación del auto que ordena la remisión del testimonio.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5237,29 +5243,29 @@ Las sentencias que fueren apelables conforme al artículo anterior, lo serán en
 
 Los autos son apelables cuando lo dispone la ley, si, además lo fuere la sentencia definitiva en el juicio en que se dicten. La apelación será admisible sólo en el efecto devolutivo, salvo en aquellos casos en que se disponga expresamente otra cosa.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
 
 ###### Artículo 704.
 
-La apelación debe interponerse ante el juez que pronunció la sentencia, ya verbalmente en el acto de notificarse ésta, ya por escrito dentro de cinco días, si la sentencia fuere definitiva o de tres si fuere auto o sentencia interlocutoria.
+La apelación debe interponerse ante el juez que pronunció la sentencia, ya verbalmente en el acto de notificarse ésta, ya por escrito dentro de cinco días, si la sentencia fuere definitiva o de tres si fuere auto o sentencia interlocutoria. En ambos casos, el apelante señalará, al interponer el recurso, domicilio para recibir notificaciones en la capital del Estado, para que se le haga saber la llegada de los autos o el testimonio, por la sala a quien corresponda por turno conocer el asunto, y se practiquen en él las demás notificaciones personales previstas por la ley. En caso de no cumplir con este requisito todas las notificaciones quedarán hechas por medio de lista al tenor de los artículos 78 y 87.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
 
 ###### Artículo 705.
 
-En todo caso el litigante debe usar de moderación, absteniéndose de denostar al juez; de lo contrario quedará sujeto a las penas que señale el artículo 124.
+La parte que obtuvo puede adherirse a la apelación interpuesta al notificársele su admisión, o dentro de las veinticuatro horas siguientes, a la notificación; en este caso, la adhesión al recurso sigue la suerte de éste. La parte que se adhiere, señalará domicilio en la capital del Estado, al hacer valer este derecho, para los efectos indicados en el artículo 704, aplicándose las mismas reglas si omite este requisito.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
 
 ###### Artículo 706.
 
-Interpuesta la apelación en tiempo hábil, el juez la admitirá sin substanciación alguna, si procede legalmente.
+Interpuesta la apelación en tiempo hábil, el juez la admitirá a sin substanciación alguna, si procede legalmente. Si así conviniere a sus intereses, la apelada señalará ante el juez, domicilio para oír notificaciones en la capital del Estado, dentro de las cuarenta y ocho horas siguientes a su admisión, apercibida que de no hacerlo, todas las notificaciones quedarán hechas por medio de lista, conforme a lo previsto en los artículos 78 y 87; pero si está en el caso del artículo 86, se observarán las reglas de este precepto.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
 
 ###### Artículo 707.
 
-Admitida la apelación en ambos efectos, el juez, dentro de cuarenta y ocho horas, remitirá los autos al tribunal superior, citando y emplazando antes a las partes.
+Admitida la apelación en ambos efectos, el juez después de transcurrir cuarenta y ocho horas, remitirá los autos al Supremo Tribunal de Justicia, para que sean turnados a la sala que corresponda.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5267,23 +5273,17 @@ Admitida la apelación en ambos efectos, el juez, dentro de cuarenta y ocho hora
 
 Si la apelación se ha admitido sólo en el efecto devolutivo, se observará lo dispuesto en el artículo 730.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
-
 ###### Artículo 709.
 
-Si el tribunal superior reside en el lugar del juicio, se fijará al apelante el término de cinco días para que se presente a continuar el recurso.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+(DEROGADO, P.O. 15 DE JUNIO DE 1981)
 
 ###### Artículo 710.
 
-Si el tribunal reside en un lugar distinto de aquel en que se pronunció la sentencia, a los cinco días señalados en el artículo anterior se agregará uno por cada veinte kilómetros de distancia. Si hubiere una fracción que exceda de la mitad, de la distancia indicada, se concederá un día más.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+(DEROGADO, P.O. 15 DE JUNIO DE 1981)
 
 ###### Artículo 711.
 
-El tribunal superior declarará desierto el recurso, si el recurrente no se presenta a continuarlo en el término legal.
+(DEROGADO, P.O. 15 DE JUNIO DE 1981)
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5419,19 +5419,21 @@ III. En los demás casos fijados por la ley.
 
 Se concede el recurso de queja, en contra de los ejecutores y secretarios por ante el juez. Contra los primeros sólo por exceso o defecto de las ejecuciones y contra los segundos, por omisiones y negligencias en el desempeño de sus funciones.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
 
 ###### Artículo 732.
 
-El recurso de queja contra el juez se interpondrá ante el superior inmediato dentro del día siguiente a la notificación de la resolución reclamada, cuyo término podrá aumentarse conforme a la regla del artículo 710. Del escrito relativo se acompañará una copia que el superior remitirá al juez responsable, requiriéndolo para que dentro del término de tres días rinda informe con justificación sobre la materia de la queja. Recibido el informe, o presentada por el recurrente copia certificada de la resolución reclamada y de las demás constancias que estime necesarias, el superior dentro del tercer día decidirá lo que corresponda.
+El recurso de queja contra el juez se interpondrá ante él, dentro de los tres días siguientes a la notificación de la resolución reclamada. El juez sin substanciación alguna y sin suspender los procedimientos del juicio en el caso que se encontrare en trámite, acordará enviar dentro del término de tres días al Supremo Tribunal de Justicia, el escrito relativo a dicho recurso, junto con su informe justificado sobre la materia de la queja y copia certificada de las constancias que estime conducentes, a las que se agregarán las que señale el quejoso al interponerlo.
 
-La falta de informe se sancionará con multa de veinticinco a cien pesos.
+Recibidas las actuaciones en el Supremo Tribunal de Justicia, se turnarán a la sala que corresponda, para que de inmediato ordene traer los autos a la vista a fin de dictar resolución, dentro del tercer día.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+La falta de informe con justificación, se sancionará con multa de cien a quinientos pesos.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
 
 ###### Artículo 733.
 
-Si la queja no está apoyada por hecho cierto, o no estuviere fundada en derecho o hubiere recurso ordinario contra la resolución reclamada, será desechada por el tribunal, imponiendo a la parte quejosa y a su abogado solidariamente, una multa que no exceda de cien pesos.
+Si la queja no está apoyada en hecho cierto o no estuviere fundada en derecho o hubiere recurso ordinario contra la resolución reclamada, será desechada por la sala, imponiendo a la parte quejosa y a su abogado solidariamente, una multa de cien a quinientos pesos.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5447,7 +5449,7 @@ El recurso de queja contra los jueces sólo procede en las causas apelables, a n
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
 
 ###### Artículo 735.
 
@@ -5521,7 +5523,7 @@ En ningún caso la sentencia pronunciada en el juicio de responsabilidad civil a
 
 ###### Artículo 744.
 
-Se tendrán por abandonadas las instancias y caducarán de derecho, si no se promueve su curso por cualquiera de las partes durante un año natural.
+Se tendrán por abandonadas las instancias y caducarán de derecho, si no se promueve su curso por cualquiera de las partes durante trescientos días naturales.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5537,15 +5539,17 @@ No procederá la caducidad de la instancia por el transcurso del término señal
 
 En estos casos se contará dicho término desde que los litigantes hubieren podido instar el curso de los autos.
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
+
 ###### Artículo 747.
 
-Sólo a pedimento de parte legítima podrá declararse la caducidad de la instancia.
+La caducidad de la instancia podrá declararse de oficio o a pedimento de parte legítima.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
 
 ###### Artículo 748.
 
-Si los autos se hallaren en primera instancia y resultare de ellos que ha transcurrido el año, sin qe (sic) ninguna de las partes haya agitado su curso, pudiendo hacerlo, se tendrá por abandonada la acción y el juez mandará archivarlos, previa notificación. En este caso serán de cuenta de cada parte las costas que hubiere causado.
+Si los autos se hallaren en primera instancia y resultare de ellos que ha transcurrido el término previsto en el artículo 744, sin que ninguna de las partes haya agitado su curso, pudiendo hacerlo, se tendrá por abandonada la instancia y el juez mandará archivarlos, previa notificación. Las costas que hubiere causado serán de cuenta de cada parte.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -5565,11 +5569,13 @@ De los autos a que se refieren los dos artículos anteriores, el demandante o ap
 
 Lo dispuesto en los artículos que anteceden no será aplicable a las diligencias que sean necesarias para ejecutar una sentencia que haya pasado en autoridad de cosa juzgada, sino que podrán continuarse hasta conseguir el cumplimiento de ella, aunque hubiere quedado sin curso durante el plazo señalado en el artículo 744.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE JUNIO DE 1981)</small>
 
 ###### Artículo 752.
 
 La caducidad de la primera instancia no extingue la acción, la cual podrá ejercitarse de nuevo en el juicio correspondiente, mediante nueva demanda, si no hubiere prescrito con arreglo a derecho.
+
+La declaración de caducidad en primera instancia no procederá en los juicios universales de concursos y sucesiones, pero sí en los juicios relacionados con éstos, independientemente de que surjan de aquellos o por ellos se motiven; en las actuaciones de jurisdicción voluntaria; en los juicios de alimentos y en los previstos por los artículos 280 y 281 del Código Civil; y en los juicios seguidos ante los juzgados municipales.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -10003,11 +10009,11 @@ Los puntos respecto a los cuales hubiere oposición, no quedarán deslindados ni
 
 V. Los gastos generales del apeo se harán por el que promueva. Los que importen la intervención de los peritos que designen y de los testigos que presenten los colindantes, serán pagados por el que nombre a los unos o presente a los otros.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1981)</small>
 
 ###### Artículo 1335.
 
-Si no hubiere acuerdo, el juez declarará contencioso el asunto sin ulterior recurso; y teniéndose la solicitud de apeo como demanda se continuará el juicio en forma sumaria.
+Si no hubiere acuerdo, el juez se abstendrá de hacer declaración alguna en cuanto a la posesión, respetando en ella a quien la disfrute, y mandará reservar sus derechos a los interesados para que los hagan valer en juicio correspondiente.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1964)</small>
 
@@ -10548,3 +10554,13 @@ P.O. 24 DE JUNIO DE 1974.
 ###### ARTICULO UNICO.
 
 Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JUNIO DE 1981.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 15 de julio de 1981, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los recursos de apelación y de queja interpuestos con anterioridad a la vigencia de este Decreto, se seguirán substanciando conforme a las reglas establecidas en el Código de Procedimientos Civiles antes de la presente reforma y derogación.
+
+TERCERO.- Continuarán su curso legal los juicios sumarios civiles derivados de las diligencias de apeo o deslinde y amojonamiento, con motivo de haber sido declaradas contenciosas por el juez, al tenor de lo dispuesto en el artículo 1335 del Código de Procedimientos Civiles, antes de su reforma por el presente Decreto.
+
+CUARTO.- Se derogan todas las disposiciones legales que se opongan a lo previsto en este Decreto.
