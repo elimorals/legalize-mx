@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1993-01-30"
+last_updated: "1993-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1993.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -583,7 +583,9 @@ XVI. Reclamar ante el Congreso de la Unión cuando alguna ley general constituye
 
 XVII. Llamar a los Diputados suplentes para que concurran al Congreso, previa calificación del impidimento (sic) de los propietarios.
 
-XVIII. (DEROGADA, P.O. 29 DE MARZO DE 1986)
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1993)</small>
+
+XVIII. Establecer un Organismo de Protección de los Derechos Humanos que otorga el orden jurídico mexicano, en los términos del Artículo 102 Apartado B de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -617,9 +619,9 @@ XXVIII. Resolver las cuestiones de límites que se susciten entre Municipios del
 
 XXIX. Dar la ley sobre el número máximo de Ministros de los Cultos a que le faculta el artículo 130 de la Constitución General de la República.
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1993)</small>
 
-XXX. Erigirse en Colegio Electoral para calificar las elecciones de Ayuntamientos, Diputados Locales, Gobernador del Estado y para declarar electos Senadores al Congreso de la Unión y en los términos del Artículo 56 de la Constitución Política de los Estados Unidos Mexicanos.
+XXX.- Erigirse en Colegio Electoral para calificar las elecciones de Ayuntamientos, Diputados Locales y Gobernador del Estado.
 
 XXXI. Resolver cualquiera duda que ocurra sobre la validez de las elecciones populares y cualidades de los elegidos. Las resoluciones del Congreso en funciones de Colegio Electoral son irrevocables.
 
@@ -757,9 +759,9 @@ V. Admitir las renuncias de los altos funcionarios, mandando cubrir sus vacantes
 
 VI. Ejercer las atribuciones que le señalan la Ley Orgánica del Poder Legislativo y el Reglamento para el Gobierno Interior del Congreso.
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 1986)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1993)</small>
 
-VII. Recibir los expedientes de elección de Diputados al Congreso del Estado, Ayuntamientos, Gobernador y Senadores al Congreso de la Unión, para los efectos señalados en esta Constitución.
+VII.- Recibir los expedientes de elección de diputados al Congreso del Estado, Ayuntamientos y Gobernador.
 
 VIII. Recibir la protesta de los funcionarios en los casos en que deban rendirla ante el Congreso.
 
@@ -773,9 +775,13 @@ X.- Resolver, en definitiva, en los recesos del Congreso, sobre las medidas que 
 
 XI.- Ejercer, en su caso, las facultades que al Congreso concede la fracción XVI del Artículo 58 de esta Constitución.
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1993)</small>
 
-XII.- Las demás que le confieren las Leyes.
+XII.- Conocer y resolver sobre solicitud de licencia que le sean presentadas por los legisladores, y;
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1993)</small>
+
+XIII.- Las demás que le confieran las leyes.
 
 ###### Art. 63.
 
@@ -1127,7 +1133,7 @@ X. Mandar personalmente en campaña la fuerza pública, sin permiso del Congreso
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 30 DE ENERO DE 1993)</small>
 
-### CAPITULO II. De la Administración Pública
+### CAPITULO II. DE LA ADMINISTRACION PUBLICA
 
 > <small>(REFORMADO, P.O. 30 DE ENERO DE 1993)</small>
 
@@ -1141,11 +1147,11 @@ Para ser Secretario de Despacho del Poder Ejecutivo se requiere ser ciudadano me
 
 Los Secretarios del Ejecutivo darán cuenta al Congreso del estado que guardan sus respectivos ramos, previa solicitud de éste.
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1993)</small>
 
 ###### Art. 94.
 
-Para el desempeño de los asuntos oficiales, el Ejecutivo tendrá un funcionario que se denominará "Secretario General de Gobierno".
+Para el desempeño de los asuntos oficiales, el Ejecutivo tendrá un funcionario que se denominará "SECRETARIO GENERAL DE GOBIERNO".
 
 Para ser Secretario General de Gobierno, se requiere:
 
@@ -1153,7 +1159,9 @@ I.- Ser ciudadano mexicano en ejercicio de sus derechos;
 
 II.- Ser mayor de treinta años de edad;
 
-III.- Ser abogado con título expedido por autoridad o Institución autorizada para ello;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1993)</small>
+
+III.- Poseer instrucción escolar suficiente;
 
 IV.- No ser militar ni ministro de algún culto, esté o no en ejercicio;
 
@@ -1421,7 +1429,13 @@ Los Jueces de Primera Instancia antes de tomar posesión de su empleo, otorgará
 
 Los Jueces Menores otorgarán la protesta de ley ante el Juez de Primera Instancia del respectivo Distrito Judicial, que designe el Pleno del Supremo Tribunal de Justicia del Estado.
 
-## TITULO VII. DEL MINISTERIO PUBLICO
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 1993)</small>
+
+## TITULO VII
+
+DE LA PROCURACION DE JUSTICIA Y PROTECCION DE LOS DERECHOS HUMANOS.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO III. De los Tribunales Inferiores
 
@@ -1431,21 +1445,31 @@ Los Jueces Menores otorgarán la protesta de ley ante el Juez de Primera Instanc
 
 El Ministerio Público tiene por misión: en los asuntos del orden criminal, ejercitar la acción penal; en los asuntos civiles, la defensa de los intereses de los menores y demás incapacitados; en el orden administrativo, la defensa de los intereses fiscales y, en general, el Ministerio Público tendrá la intervención que disponga las leyes en aquellos asuntos que afecten el orden público.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1993)</small>
+
 ###### Art. 125.
 
 Las funciones del Ministerio Público serán desempeñadas en el Estado por el Procurador General de Justicia y por los Agentes adscritos, nombrados por el Ejecutivo.
 
-### CAPITULO UNICO. Disposiciones generales
+Una Ley reglamentará la organización del Ministerio Público y los requisitos que se necesitan para desempeñar este cargo y el de Procurador.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1993)</small>
+
+### CAPITULO I.. Del Ministerio Público
 
 ###### Art. 126.
 
-Una ley reglamentará la organización del Ministerio Público y los requisitos que se necesitan para desempeñar este cargo y el de Procurador.
+El organismo a que se refiere el Artículo 58 fracción XVIII de esta Constitución se denominará "Comisión de Derechos Humanos del Estado de Tamaulipas". Será un Organismo Público, Descentralizado, Autónomo e Independiente, con personalidad jurídica y patrimonio propio que tendrá por objeto la protección de los Derechos Humanos que otorga el orden jurídico mexicano; conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquied (sic) autoridad o servidor público que viole estos derechos en el ámbito del Estado. Formulará recomendaciones públicas, autónomas, no vinculatorias y denuncias y quejas ante las autoridades respectivas.
+
+Este organismo no será competente tratándose de asuntos electorales, laborales y jurisdiccionales.
+
+Una ley establecerá las bases de su organización y funcionamiento.
 
 ## TITULO VIII. DE LA DEFENSORIA DE OFICIO
 
-### CAPITULO UNICO. Disposiciones generales
+### CAPITULO II. De la Comisión de Derechos Humanos
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
+REFORMADO, P.O. 25 DE DICIEMBRE DE 1993)
 
 ###### Art. 127.
 
@@ -1463,7 +1487,7 @@ Una ley reglamentará la organización de la Defensoría de Oficio y los requisi
 
 ### CAPITULO UNICO. Disposiciones generales
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 130.
 
@@ -1623,9 +1647,9 @@ El Código Municipal organizará la administración de los Municipios conforme a
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 29 DE MARZO DE 1986)</small>
 
-### CAPITULO I. De la Educación Pública
+### CAPITULO UNICO. Disposiciones generales
 
-> <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
 ###### Art. 138.
 
@@ -1663,7 +1687,9 @@ La Ley determinará cuales son las profesiones que necesitan título para su eje
 
 El Ejecutivo podrá celebrar con la Federación y los Municipios, convenios sobre coordinación de los Servicios de Educación Pública, reservándose las facultades necesarias y asegurando la estabilidad de los Profesores al servicio del Estado; se determinará en la Ley los estímulos y recompensas a los Profesores, en atención al mérito de sus labores y a la antigüedad de sus servicios.
 
-### CAPITULO II. De la Higiene Pública
+### CAPITULO I. De la Educación Pública
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
 
 ###### Art. 144.
 
@@ -1679,13 +1705,13 @@ Una ley organizará todo lo relativo al funcionamiento del Consejo.
 
 No obstante lo expresado en los artículos anteriores, con objeto de que la acción sanitaria encomendada al Gobierno del Estado se intensifique, se faculta al Ejecutivo para celebrar convenios con el Gobierno Federal sobre coordinación de los servicios sanitarios, reservándose al propio Ejecutivo la intervención que estime necesaria en la designación de personal y funcionamiento del Departamento respectivo.
 
-### CAPITULO III. De las vías de comunicación
+### CAPITULO II. De la Higiene Pública
 
 ###### Art. 147.
 
 El Gobernador vigilará la conservación, mejoramiento y amplio desarrollo de las vías de comunicación en el territorio del Estado; asimismo expedirá las disposiciones convenientes para la realización y fomento de las obras de utilidad pública, general o local, en su mismo territorio, dando preferencia a las de irrigación. El Congreso expedirá las leyes que fueren necesarias y que fijarán la contribución especial que se dedicará a este Ramo.
 
-### CAPITULO IV. Del Trabajo y Previsión Social
+### CAPITULO III. De las vías de comunicación
 
 ###### Art. 148.
 
@@ -1697,9 +1723,7 @@ DISPOSICIONES GENERALES.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-### CAPITULO UNICO.. De las responsabilidades de los Servidores Públicos
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+### CAPITULO IV. Del Trabajo y Previsión Social
 
 ###### Art. 149.
 
@@ -1821,7 +1845,9 @@ La ley señalará los plazos de prescripción de la responsabilidad administrati
 
 ## TITULO XII
 
-### CAPITULO I. Prevenciones generales
+### CAPITULO UNICO.. De las responsabilidades de los Servidores Públicos
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 156.
 
@@ -1869,15 +1895,17 @@ En todas las Escuelas de Instrucción Primaria Elemental, Superior y Normal, ser
 
 ## TITULO XIII
 
-### CAPITULO I. De las reformas a la Constitución
-
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1989)</small>
+### CAPITULO I. Prevenciones generales
 
 ###### Art. 165.
 
 Esta Constitución podrá ser reformada y adicionada, pero para que las adiciones y reformas lleguen a ser parte de la misma, se requiere que previamente sea tomada en cuenta la iniciativa de reformas o adición por la declaratoria de la mayoría de los Diputados presentes y que sea aprobada cuando menos por las dos terceras partes de los miembros del Congreso.
 
 ### CAPITULO II. De la Inviolabilidad de la Constitución
+
+### CAPITULO I. De las reformas a la Constitución
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1989)</small>
 
 ###### Art. 166.
 
@@ -2450,3 +2478,9 @@ P.O. 30 DE ENERO DE 1993.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día 5 de Febrero de 1993.
+
+P.O. 25 DE DICIEMBRE DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
