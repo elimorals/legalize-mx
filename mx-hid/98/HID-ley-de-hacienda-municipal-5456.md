@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-municipal-5456"
 country: "mx"
 rank: "ley"
 publication_date: "1982-12-31"
-last_updated: "1990-12-29"
+last_updated: "1991-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DE 29 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 1982.
 
@@ -363,9 +363,11 @@ IV.- No se consideran departamentos habitacionales los que por sus característi
 
 Cuando del Inmueble formen parte departamentos habitacionales, la reducción se hará por cada uno de ellos. Lo dispuesto en este párrafo no es aplicable a hoteles.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1991)</small>
 
-ARTICULO 8 R.- El impuesto sobre traslación de dominio y otras operaciones con bienes inmuebles, se causará y pagará aplicando la tasa general del 10% incluidos el efecto del impuesto adicional.
+ARTICULO 8 R.- El impuesto sobre traslación de dominio y otras operaciones con bienes inmuebles, se causará y pagará aplicando la tasa general del 8% durante el período de julio a diciembre del año de 1991; durante el año de 1992 la tasa general aplicable será del 6% y en el año de 1993 dicha tasa será del 4%, incluidos el efecto del impuesto adicional.
+
+El Impuesto que resulte a cargo del contribuyente en dichos años, en ningún caso será mayor, a aquel que se hubiera determinado en los términos de la ley aplicable vigente al 31 de diciembre de 1990.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -1776,3 +1778,9 @@ SEGUNDO.- Túrnese al Ejecutivo, para su sanción, publicación y cumplimiento e
 P.O. 29 DE DICIEMBRE DE 1990.
 
 UNICO.- Previa su publicación en el Periódico Oficial del Gobierno del Estado, el presente Decreto entrará en vigor el día 1o. de Enero de 1991.
+
+P.O. 28 DE JUNIO DE 1991.
+
+PRIMERO.- Previa su publicación en el Periódico Oficial del Gobierno del Estado, el presente Decreto entrará en vigor el día 1º. de Julio de 1991.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
