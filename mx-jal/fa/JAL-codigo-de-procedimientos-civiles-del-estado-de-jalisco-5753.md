@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2001-12-29"
+last_updated: "2002-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2002.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -1518,7 +1518,9 @@ c) De las acciones de nulidad, rescisión y evicción de la partición hereditar
 
 VII.- En los concursos de acreedores, el Juez del domicilio del deudor;
 
-VIII.- En los actos de jurisdicción voluntaria el de Primera Instancia del domicilio del que promueve, pero si se tratare de bienes raíces, lo será el de igual categoría del Partido donde estén ubicados;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2002)</small>
+
+VIII. En los actos de jurisdicción voluntaria el de Primera Instancia del domicilio del que promueve, tratándose de adopciones lo será el de la residencia de quien se pretende adoptar, y tratándose de bienes raíces, lo será el de igual categoría del Partido donde estén ubicados;
 
 IX.- En los negocios relativos a la tutela de los menores o incapacitados, el Juez de la residencia de éstos, para la designación de tutor y en los demás casos, el del domicilio de éste;
 
@@ -7214,7 +7216,7 @@ De La Jurisdicción Voluntaria.
 
 De la Adopción.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 954.
 
@@ -7702,35 +7704,37 @@ De las Informaciones Ad-Perpetuam.
 
 ###### ARTICULO 1027.
 
-El que pretenda adoptar a alguna persona deberá acreditar los requisitos establecidos en el Código Civil según se trate de adopción plena o adopción simple.
+El que pretenda adoptar a alguna persona, deberá acreditar los requisitos establecidos en el Código Civil, según se trate de adopción plena o simple, los cuales deberán de acompañarse en la promoción inicial, y en la cual deberán manifestar: el nombre y edad del menor o incapacitado, el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela y, en su caso, el de la persona o institución de beneficencia que lo tenga en custodia.
 
-En la promoción inicial deberá manifestarse: el nombre y edad del menor o incapacitado, el nombre y domicilio de quienes ejercen sobre él la patria potestad o la tutela y, en su caso, el de la persona o institución de beneficencia que lo tenga acogido.
+En caso de que a consideración del Juez, faltare algún documento para acreditar los requisitos que establece el Código Civil, éste prevendrá a los solicitantes para que los presenten en un término prudente que concederá al efecto, el que en ningún caso excederá de diez días, apercibiéndolos de que si no los presentan en ese término se les tendrá por desistido al trámite.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 1028.
 
-Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deban darlo conforme al capítulo de adopción del Código Civil el tribunal resolverá dentro del tercer día.
+Admitida la solicitud, el juez escuchará a quien haya otorgado el consentimiento a fin de que el mismo sea ratificado, dará vista al agente del Ministerio Público y al Consejo de Familia, para que éstos manifiesten lo que a su representación corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+En el mismo auto se hará la declaración del Estado de Minoridad, se nombrará tutor dativo especial, cuando corresponda, y se señalará día y hora para la celebración de una audiencia a fin de desahogar las pruebas que fueren necesarias.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 1029.
 
-Cuando el Código Civil lo permita y el adoptante y el adoptado pidan que la adopción sea revocada, el juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá atendiendo siempre a la espontaneidad con que se solicitó la revocación y tomando en cuenta la conveniencia de los intereses morales y materiales del adoptado.
+Cuando el Código Civil lo señale y el adoptante y el adoptado pidan que la adopción sea revocada, o se solicite la conversión de adopción simple a adopción plena, el juez los citará a una audiencia en que se escuchará a las partes.
 
-Si el adoptado fuere menor de edad, no se decretará la revocación sin recabar el consentimiento de quienes lo prestaron para la adopción y sin oír al representante del Ministerio Público.
+En su resolución atenderá siempre a la conveniencia de los intereses morales y materiales del adoptado; en ambos casos se deberá oír al agente del Ministerio Público y al Consejo de Familia, los cuales deberán presentarse en la misma audiencia.
 
-Para acreditar cualquier hecho, relativo a conveniencia de la revocación en los casos del artículo anterior, podrán rendirse toda clase de pruebas.
+Si el adoptado fuere menor de edad, no se decretará la conversión, sin escuchar, cuando sea posible, a quien o quienes manifestaron su consentimiento para la adopción.
 
 ###### ARTICULO 1030.
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 1031.
 
-Cuando se apruebe la adopción o se deje sin efecto, el juez remitirá copias de la resolución respectiva al Oficial del Registro Civil para que levante el acta correspondiente o para que cancele el acta de adopción si fue revocación.
+Rendidas las justificaciones y desahogadas las pruebas, el juez dictará su resolución, en un término no mayor de quince días de la celebración de la audiencia, y al causar Estado remitirá copias de la misma al Oficial del Registro Civil para que levante el acta correspondiente, o para que cancele el acta de adopción si fuese revocación.
 
 ### CAPITULO VIII.
 
@@ -8375,3 +8379,9 @@ P.O. 29 DE DICIEMBRE DE 2001.
 Primero: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 Segundo: Los procedimientos judiciales iniciados con anterioridad a la entrada en vigor del presente decreto, deberán substanciarse conforme a las disposiciones vigentes en aquel momento.
+
+P.O. 22 DE JUNIO DE 2002.
+
+Primero.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo.- Los procedimientos de adopción que se hayan iniciado antes de la entrada en vigor del presente decreto se seguirán de conformidad con las disposiciones legales vigentes al momento de su iniciación.
