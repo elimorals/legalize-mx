@@ -4,7 +4,7 @@ identifier: "FED-ley-de-los-impuestos-generales-de-importacion-y-de-22868"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-18"
-last_updated: "2003-06-16"
+last_updated: "2003-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22868&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIGIE_2022"
 
 LEY DE LOS IMPUESTOS GENERALES DE IMPORTACION Y DE EXPORTACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE SEPTIEMBRE DE 2003.
 
 Ley publicada de la Segunda a Quinta Sección del Diario Oficial de la Federación, el viernes 18 de enero de 2002.
 
@@ -3212,6 +3212,8 @@ el metal con un contenido de cobre superior o igual al 97.5% en peso, siempre qu
 
 CUADRO-Otros elementos
 
+CUADRO - Otros elementos
+
 Elemento Contenido límite
 
 % en peso
@@ -4645,3 +4647,11 @@ SEGUNDO.- El artículo 2o. de este Decreto entrará en vigor el 1 de enero de 20
 TERCERO.- El arancel ad-valorem aplicable a la importación para la fracción arancelaria 8471.60.02, señalada en el artículo 1 de este decreto, se reducirá a Ex., a partir del 1 de enero de 2005.
 
 CUARTO.- El arancel-cupo que se establece en el artículo 4 del presente Decreto, para las fracciones arancelarias 0406.10.01, 0406.30.01, 0406.30.99, 0406.90.03 y 0406.90.05, entrará en vigor el 1o. de julio de 2003.
+
+D.O.F. 26 DE SEPTIEMBRE DE 2003.
+
+PRIMERO.- El presente decreto entrara en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A partir del 1 de abril de 2004, el arancel ad valorem aplicable a la importacion de los productos comprendidos en las fracciones arancelarias 7304.59.01, 7304.59.02, 7304.59.06, 7304.59.07, 7304.59.08 y 7304.59.10, sera de 3.
+
+TERCERO.- El arancel-cupo que se establece en el articulo 2 del presente Decreto estara vigente hasta el 31 de diciembre de 2003.
