@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-seguridad-publica-26433"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-04"
-last_updated: "2002-10-04"
+last_updated: "2004-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2004.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 4 de octubre de 2002.
 
@@ -77,7 +77,9 @@ V.- Instituto Estatal de Policía;
 
 VI.- Dirección Estatal de Administración;
 
-VII.- Dirección de Derechos Humanos, Control y Seguimiento;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
+
+VII.- Dirección de Asuntos Internos, Control y Seguimiento;
 
 VIII.- Dirección de Informática;
 
@@ -443,9 +445,11 @@ V.- Coordinación Administrativa Tijuana, y
 
 VI.- Coordinación Administrativa Ensenada.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
+
 ###### Artículo 19.
 
-La Dirección de Derechos Humanos, Control y Seguimiento, contará para el despacho de sus asuntos con un director y las siguientes unidades administrativas:
+La Dirección de Asuntos Internos, Control y Seguimiento, contará para el despacho de sus asuntos con un Director y las siguientes unidades administrativas:
 
 I.- Coordinación Administrativa;
 
@@ -1041,29 +1045,37 @@ VI.- Cubrir las necesidades de suministros materiales y equipo de apoyo, contrat
 
 VII.- Realizar las demás funciones inherentes a su puesto que le sean encomendadas por el director.
 
-#### SECCIÓN V. DE LA DIRECCIÓN DE DERECHOS HUMANOS, CONTROL Y SEGUIMIENTO
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
+
+#### SECCIÓN V. DE LA DIRECCIÓN DE ASUNTOS INTERNOS, CONTROL Y SEGUIMIENTO
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Artículo 52.
 
-La Dirección de Derechos Humanos, Control y Seguimiento, estará a cargo de un director, que será auxiliado por las unidades administrativas a que se refiere el artículo 19, y demás servidores públicos que las necesidades del servicio requiera, y tendrá las siguientes atribuciones:
+La Dirección de Asuntos Internos, Control y Seguimiento, estará a cargo de un Director, que será auxiliado por las unidades administrativas a que se refiere el artículo 19, y demás servidores públicos que las necesidades del servicio requiera, y tendrá las siguientes atribuciones:
 
-I.- Dirigir, administrar y organizar en el ámbito de su competencia, el funcionamiento de la oficina del secretario, conforme a las políticas y lineamientos que establezca el secretario, las leyes y reglamentos aplicables;
+I.- Coordinar y vigilar la recepción de documentos dirigidos al Secretario, llevando a cabo el debido control y seguimiento de dicha documentación;
 
-II.- Coordinar y vigilar la recepción de documentos dirigidos al secretario, llevando a cabo el debido control y seguimiento de dicha documentación;
+II.- Servir de enlace con el titular entre las diversas unidades administrativas de la Secretaría, así como dar a conocer las indicaciones o instrucciones que determine el Secretario;
 
-III.- Servir de enlace con el titular entre las diversas unidades administrativas de la secretaría, así como dar a conocer las indicaciones o instrucciones que determine el secretario;
+III.- Aprobar y supervisar los programas de trabajo de las áreas que integran la Dirección;
 
-IV.- Mantener contacto directo con las diferentes áreas subordinadas de las subsecretarías para la solicitud de documentos o información que requiera el secretario;
+IV.- Establecer la debida coordinación con la Procuraduría de los Derechos Humanos y Protección Ciudadana, para la atención de asuntos relacionados con esta materia;
 
-V.- Atender a los servidores públicos que requieran tratar asuntos con el secretario;
+V.- Recibir quejas y denuncias presentadas por cualquier interesado contra servidores públicos de la Secretaría, relativas al incumplimiento de las obligaciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, o en las demás disposiciones legales aplicables, iniciando la investigación correspondiente;
 
-VI.- Atender a la ciudadanía y diversos organismos que requieran tratar asuntos con el secretario;
+VI.- Substanciar y resolver el procedimiento administrativo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, ordenando en su caso la suspensión preventiva del servidor público;
 
-VII.- Aprobar y supervisar los programas de trabajo de las áreas que integran la dirección;
+VII.- Substanciar y resolver el procedimiento de remoción, cuando por cualquier medio tenga conocimiento de que algún agente de la Policía Estatal Preventiva o de Seguridad y Custodia Tutelar o Penitenciaria, ha dejado de cumplir cualquiera de los requisitos de permanencia, en los términos de la Ley que Regula la Relación Administrativa de los Miembros de las Instituciones Policiales del Estado de Baja California;
 
-VIII.- Atender las quejas o denuncias que presenten los particulares sobre las acciones u omisiones de los servidores públicos adscritos a la secretaría, o del personal de las unidades administrativas sobre las cuales ejerza funciones normativas, y
+VIII.- Ordenar y levantar la suspensión preventiva de los agentes de la Policía Estatal Preventiva o de Seguridad y Custodia Tutelar o Penitenciaria, en los términos previstos en la Ley que Regula la Relación Administrativa de los Miembros de las Instituciones Policiales del Estado Baja California;
 
-IX.- Establecer la debida coordinación con la Procuraduría de los Derechos Humanos y Protección Ciudadana, para la atención de asuntos relacionados con esta materia.
+IX.- Realizar las notificaciones que correspondan en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California y Ley que Regula la Relación Administrativa de los Miembros de las Instituciones Policiales del Estado de Baja California, y
+
+X.- Las demás que le sean encomendadas por el Secretario y aquellas que les señalen las leyes y reglamentos vigentes.
+
+Para el ejercicio de las atribuciones señaladas en las fracciones V, VI, VII. VIII y IX, la Dirección de Asuntos Internos, Control y Seguimiento se auxiliará de la Coordinación de Asuntos Internos.
 
 #### SECCIÓN VI. DE LA DIRECCIÓN DE INFORMÁTICA
 
@@ -1210,3 +1222,11 @@ BERNARDO BORBÓN VILCHES
 SECRETARIO DE SEGURIDAD PUBLICA
 
 BERNARDO H. MARTINEZ AGUIRRE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE SEPTIEMBRE DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
