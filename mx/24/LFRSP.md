@@ -4,7 +4,7 @@ identifier: "LFRSP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1982-12-31"
-last_updated: "2000-12-31"
+last_updated: "2002-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFRSP"
 
 LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MARZO DE 2002.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 31 de diciembre de 1982.
 
@@ -37,6 +37,8 @@ DECRETO
 "El Congreso de los Estados Unidos Mexicanos, decreta:
 
 LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
+
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS, POR LO QUE SE REFIERE A LA MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 13 DE MARZO DE 2002)</small>
 
 ## TITULO PRIMERO
 
@@ -413,6 +415,8 @@ En el caso de que la declaratoria de las Cámaras se refiera a gobernadores, dip
 ###### ARTICULO 45.
 
 En todas las cuestiones relativas al procedimiento no previstas en esta Ley, así como en la apreciación de las pruebas, se observarán las disposiciones del Código Federal de Procedimientos Penales. Asimismo, se atenderán, en lo conducente, las del Código Penal.
+
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS, UNICAMENTE POR LO QUE RESPECTA AL AMBITO FEDERAL, D.O.F. 13 DE MARZO DE 2002)</small>
 
 ## TITULO TERCERO. Responsabilidades Administrativas
 
@@ -802,6 +806,8 @@ En todos los casos la prescripción a que alude este precepto se interrumpirá a
 
 III.- El derecho de los particulares a solicitar la indemnización de daños y perjuicios, prescribirá en un año, a partir de la notificación de la resolución administrativa que haya declarado cometido (sic) la falta administrativa.
 
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS, UNICAMENTE POR LO QUE RESPECTA AL AMBITO FEDERAL, D.O.F. 13 DE MARZO DE 2002)</small>
+
 ## TITULO CUARTO
 
 ### CAPITULO UNICO. Registro patrimonial de los servidores públicos
@@ -934,9 +940,7 @@ La Secretaría de Contraloría y Desarrollo Administrativo hará al Ministerio P
 
 ## TITULO QUINTO. De las disposiciones aplicables a los servidores públicos del órgano ejecutivo del Distrito Federal
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE DICIEMBRE DE 1997)</small>
-
-(REPUBLICADO, G.O. 12 DE ENERO DE 1998)
+(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
 ### CAPITULO UNICO. (ADICIONADO, D.O.F. 4 DE DICIEMBRE DE 1997) (REPUBLICADO, G.O. 12 DE ENERO DE 1998)
 
@@ -1069,3 +1073,27 @@ D.O.F. 31 DE DICIEMBRE DE 2000.
 SE TRANSCRIBEN UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
 
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
+
+D.O.F. 13 DE MARZO DE 2002.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Se derogan los Títulos Primero, por lo que se refiere a la materia de responsabilidades administrativas, Tercero y Cuarto de la Ley Federal de Responsabilidades de los Servidores Públicos, únicamente por lo que respecta al ámbito federal.
+
+Las disposiciones de la Ley Federal de Responsabilidades de los Servidores Públicos seguirán aplicándose en dicha materia a los servidores públicos de los órganos ejecutivo, legislativo y judicial de carácter local del Distrito Federal.
+
+Artículo Tercero.- Con la salvedad a que se refiere el transitorio que antecede, se derogan todas aquellas disposiciones federales que se opongan a lo establecido en el presente ordenamiento.
+
+Artículo Cuarto.- Las autoridades a que se refiere el artículo 3 de esta Ley, que no cuenten con los órganos y sistemas previstos en los artículos 11 y 35, dispondrán para su establecimiento de un plazo que no excederá de sesenta días naturales, contados a partir de la entrada en vigor de este ordenamiento, para lo cual realizarán las adecuaciones procedentes a sus reglamentos interiores, manuales de organización o disposiciones equivalentes.
+
+Artículo Quinto.- Los servidores públicos que deban presentar declaraciones de situación patrimonial en los términos de este ordenamiento legal y que no hayan estado obligados a presentarlas conforme a la ley que se deroga, dispondrán por única vez de un plazo de sesenta días naturales para presentar la declaración a que se refiere la fracción I del artículo 37 de esta Ley, contados a partir del día siguiente a que concluya el plazo señalado en el transitorio que antecede.
+
+Artículo Sexto.- Los procedimientos seguidos a servidores públicos federales que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de esta Ley, así como las resoluciones de fondo materia de los mismos, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron tales procedimientos.
+
+Las disposiciones de la Ley Federal de Responsabilidades de los Servidores Públicos vigentes hasta la entrada en vigor de la presente Ley seguirán aplicándose por los hechos realizados durante su vigencia.
+
+Artículo Séptimo.- Con el fin de actualizar la información patrimonial de los servidores públicos con que cuenta la Secretaría de Contraloría y Desarrollo Administrativo, en la declaración de modificación patrimonial a presentarse en el mes de mayo de 2002, por única vez, los servidores públicos deberán proporcionar la información que se indique en el formato que al efecto emita dicha Dependencia, el cual deberá ser dado a conocer de manera oportuna.
+
+Artículo Octavo.- La Secretaría deberá emitir, en un plazo no mayor a ciento veinte días hábiles, contados a partir de la entrada en vigor de este ordenamiento, el Código de Etica, en términos de lo dispuesto por el artículo 49 de la Ley.
+
+Artículo Noveno.- Las menciones que en otras leyes, reglamentos y demás disposiciones jurídicas o administrativas de carácter federal se hagan de la Ley Federal de Responsabilidades de los Servidores Públicos o en particular de alguno de sus preceptos, se entenderán referidas a esta Ley o a los artículos de este ordenamiento legal cuyo contenido coincida con los de la Ley que se deroga, con la salvedad que se establece en el transitorio segundo de esta Ley.
