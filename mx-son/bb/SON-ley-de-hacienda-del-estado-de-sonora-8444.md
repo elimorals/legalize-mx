@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1986-12-15"
+last_updated: "1987-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 1987.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -673,11 +673,11 @@ De las Declaraciones y Pago del Impuesto
 
 El pago del Impuesto deberá hacerse dentro de los días 1o. al 20 de cada mes, mediante una declaración de los ingresos que se hayan obtenido en el mes inmediato anterior. El impuesto mínimo que deberán pagar los contribuyentes no podrá ser menor de $35.00 mensuales.
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 ###### Artículo 94.
 
-Los contribuyentes con ingresos anuales hasta de $11´500,000.00, podrán optar por cubrir el impuesto mediante la aceptación de una cuota fija mensual que determinará la Tesorería General del Estado, en cuyo caso el impuesto se pagará dentro de los primeros quince días del mes que corresponda.
+Los contribuyentes con ingresos anuales hasta de $23,000,000.00, podrán optar por cubrir el impuesto mediante la aceptación de una cuota fija mensual que determinara la tesorería general del estado, en cuyo caso el impuesto se pagara dentro de los primeros quince días del mes a que corresponda.
 
 ###### Artículo 95.
 
@@ -2643,6 +2643,8 @@ Estas contribuciones se recaudarán en la misma forma y simultáneamente con los
 
 ### Capítulo Quinto. Servicios por Expedición, Inscripción y Registro de Títulos y por Autorización para ejercer cualquier Profesión o Especialidad
 
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
+
 ###### Artículo 297.
 
 Las cuotas de los derechos serán iguales, para quienes reciban servicios análogos.
@@ -2661,6 +2663,8 @@ El pago de los derechos se efectuará al momento de la prestación del servicio,
 
 ### Capítulo Sexto. Servicio de Legalización Y Certificación de Firmas
 
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
+
 ###### Artículo 301.
 
 Los derechos por servicios de empadronamiento a que se refieren diversos preceptos del Código Fiscal del Estado de Sonora y de esta Ley de Hacienda, causarán una cuota de $ 25.00.
@@ -2669,7 +2673,7 @@ Los derechos por servicios de empadronamiento a que se refieren diversos precept
 
 ### Capítulo Séptimo. De los Derechos por Registro de Documentos, Permisos, Autorizaciones y Servicios Prestados por la Dirección de Notarías del Estado
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 ###### Artículo 302.
 
@@ -2833,7 +2837,7 @@ Igualmente cuando se lleven a cabo traspasos, cambios de propietarios o de razó
 
 ### Capítulo Octavo. Servicios de Publicación y Suscripciones en el Boletín Oficial
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 ###### Artículo 307.
 
@@ -2867,13 +2871,27 @@ a).- Registro de marcas $50.00
 
 b).- Revalidación de marcas 25.00
 
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1985)</small>
+CUOTAS QUE CUOTAS QUE
 
-III.- Por clasificación de carnes a cargo de los
+TENDRAN VIGENCIA TENDRAN VIGENCIA
 
-engordadores se cobrarán por cada kilo de carne
+A PARTIR DEL A PARTIR DEL
 
-en canal $1.20
+1° DE ENERO DE 1° DE JULIO DE
+
+1988 1988
+
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 1987)</small>
+
+III.- Por clasificación de
+
+carnes, a cargo de
+
+los engordadores, se
+
+cobraran por cada
+
+kilo de carne en canal: $7.00 $11.00
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -2881,35 +2899,41 @@ La administración del rastro o planta empacadora en que se sacrifique el ganado
 
 ### CAPITULO NOVENO. Servicios por Expedición de Placas de Vehículos, Revalidaciones, Licencias para Manejar y Permisos
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 ###### Artículo 308.
 
 Los derechos por este concepto importan las cuotas que siguen:
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+VECES EL SALARIO
+
+MINIMO GENERAL
+
+DIARIO VIGENTE
+
+EN LA ZONA
+
+ECONOMICA
+
+26-B SONORA
+
+COSTA.
 
 1.- Por expedición de títulos profesionales en el
 
-Estado y su registro 2,700.00
-
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+Estado y su registro 1.0
 
 2.- Por inscripción y registro de títulos profesionales,
 
-expedidos por otros Estados 2,700.00
-
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+expedidos por otros Estados 1.0
 
 3.- Por autorización que se otorgue para ejercer
 
-cualquier profesión o especialidad 9,000.00
-
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+cualquier profesión o especialidad 3.0
 
 4.- Por las prórrogas que se otorguen en el caso del
 
-punto anterior, por cada prórroga 4,500.00
+punto anterior, por cada prórroga 1.50
 
 ### Capítulo Décimo. Derechos por Servicios en materia de Autotransportes y Otros
 
@@ -2919,87 +2943,115 @@ punto anterior, por cada prórroga 4,500.00
 
 Los derechos por estos servicios se cobrarán conforme a las siguientes cuotas:
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+VECES EL SALARIO
+
+MINIMO GENERAL
+
+DIARIO VIGENTE
+
+EN LA ZONA
+
+ECONOMICA
+
+26-B SONORA
+
+COSTA.
 
 1.- Por cada firma que legalice el C. Gobernador
 
 Constitucional del Estado y Supremo Tribunal de
 
-Justicia 4,000.00
-
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+Justicia 1.50
 
 2.- Por cada firma que legalicen o certifiquen los C.C.
 
 Jueces de Primera Instancia o el Tesorero General
 
-del Estado 4,000.00
-
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+del Estado 1.50
 
 3.- Por la certificación de firmas autógrafas de
 
-constancias expedidas por centros educativos 500.00
+constancias expedidas por centros educativos 0.15
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+4.- Por legalización de actas de nacimiento,
 
-4.- Por legalización de actas de nacimiento 500.00
-
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+de matrimonio y defunción 0.15
 
 5.- Por la certificación de firmas autógrafas que
 
-autorizan documentos públicos 4,000.00
+autorizan documentos públicos 1.50
 
-> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+6.- Por legalización de certificados de estudios:
 
-6.- Por legalización de certificados de estudio 500.00
+primaria, secundaria, preparataroria y profesional,
+
+constancia de servicio social y actas de examen
+
+profesional 0.15
+
+7.- Legalización de títulos profesionales 1.50
+
+8.- Legalización de firmas de notario 1.50
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 30 DE DICIEMBRE DE 1985)</small>
 
 ### Capítulo Décimo Primero. Servicios del Registro Público de la Propiedad y del Comercio
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 ###### Artículo 310.
 
 Los derechos por estos servicios, se cobrarán conforme a las siguientes cuotas:
 
+VECES EL SALARIO
+
+MINIMO GENERAL
+
+DIARIO VIGENTE
+
+EN LA ZONA
+
+ECONOMICA
+
+26-B SONORA
+
+COSTA.
+
 1.- Por la certificación de constancias y copias de
 
 expedientes y documentos de archivo por
 
-certificación 2,000.00
+certificación 0.75
 
 2.- Por expedición de copias de la dirección de
 
 Documentación y Archivo:
 
-a).- Primera hoja 500.00
+a).- Primera hoja 0.15
 
-b).- Por cada una de las subsecuentes 200.00
+b).- Por cada una de las subsecuentes 0.10
 
 c).- Por búsqueda de documentos referidos a un
 
-período de 5 años anteriores o fracción 5,000.00
+período de 5 años anteriores o fracción 1.50
 
 3.- Por expedición de certificados de necesidad para
 
-la adquisición de bienes inmuebles 15,000.00
+la adquisición de bienes inmuebles 4.50
 
 4.- Por anuencia para la expedición de permisos
 
-de caza 8,000.00
+de caza 3.00
 
 5.- Por anuencia para la expedición de permisos de
 
-asociación de caza, tiro y pesca, por socio 5,000.00
+asociación de caza, tiro y pesca, por socio 1.50
 
 6.- Por anuencia para la expedición de permisos para
 
 portar armas y para compra-venta y/o almacenaje
 
-de explosivos 6,000.00
+de explosivos 8.00
 
 7.- Por el registro en el padrón de contratistas
 
@@ -3011,15 +3063,15 @@ así como por su refrendo:
 
 A).- Por registro:
 
-Categoría A 30,000.00
+Categoría A 10.00
 
-Categoría B 10,000.00
+Categoría B 4.00
 
 B).- Por Refrendo Anual:
 
-Categoría A 20,000.00
+Categoría A 4.50
 
-Categoría B 6,000.00
+Categoría B 1.50
 
 8.- Autorizaciones para exhumación de cadáveres
 
@@ -3029,25 +3081,25 @@ I.- Para la exhumación de restos áridos, para ser
 
 rehinumados (sic) en otro panteón, dentro de la
 
-jurisdicción del municipio 10,000.00
+jurisdicción del municipio 3.00
 
 II.- Por la exhumación de restos áridos para ser
 
 rehinumados (sic) en otro panteón, dentro de la
 
-jurisdicción del municipio 10,000.00
+jurisdicción del municipio 4.50
 
 III.- Por la exhumación de restos áridos para ser
 
 rehinumados (sic) en otros municipios del Estado
 
-o fuera de la Entidad 10,000.00
+o fuera de la Entidad 8.00
 
 IV.- Por autorización para el traslado de un cadáver
 
 o restos áridos exhumados de un Municipio a otro
 
-o a otra Entidad Federativa 5,000.00
+o a otra Entidad Federativa 1.50
 
 No se causarán ningún derecho por la exhumación de
 
@@ -3055,13 +3107,13 @@ cadáveres cuando ésta sea decretada por autoridad
 
 judicial o por el ministerio público en un proceso penal.
 
-9.- Por legalización de exhortos 10,000.00
+9.- Por legalización de exhortos 4.00
 
-10.- Por constancia de no funcionario 1,000.00
+10.- Por constancia de no servidor público 0.75
 
 11.- Por expedición de certificados sobre
 
-antecedentes penales, por cada uno 800.00
+antecedentes penales, por cada uno 0.20
 
 12.- Por servicios prestados por la Dirección de
 
@@ -3071,47 +3123,63 @@ I.- Por expedición de testimonios y copias de
 
 escrituras públicas incluida su certificación por
 
-hoja de los testimonios o copia 4,000.00
+hoja de los testimonios o copia 1.50
 
 II.- Por expedición de documentos integrantes del
 
 apéndice (planos, colindancias, etc), por cada
 
-hoja, incluida su certificación 2,000.00
+hoja, incluida su certificación 0.75
 
-III.- Por expedición de copias simples del protocolo o
+III.- Por expedición de copias simples
 
-apéndice por hoja 1,000.00
+de escrituras públicas, por cada
 
-IV.- Por rendir informe sobre existencia o no de
+hoja del libro o apéndice 0.30
 
-testamento, a la autoridad judicial 2,000.00
+IV.- Por rendir informe sobre existencia
 
-V.- Por autorización de protocolos para uso de los
+o no de testamento, a la autoridad
 
-notarios (sellado y certificación) 4,000.00
+judicial, por cada autor de la sucesión 0.75
 
-VI.- Por certificación de firmas notariales 4,000.00
+V.- Por autorización de protocolos para
 
-VII.- Por observación y archivo de protocolos y
+uso de los notarios (sellado y
 
-apéndices notariales; por cada libro recibido 2,000.00
+certificado), por cada libro 1.50
 
-VIII.- Por certificación de cierre de protocolos
+VI.- Por certificación de firmas notariales 1.50
 
-enviados por los notarios para tal fin 4,000.00
+VII.- Por la recepción de los libros y
+
+apéndices del protocolo notarial
+
+para su guarda y cutodia en el
+
+archivo notarial, por cada volumen recibido 0.75
+
+VIII.- Por certificación de cierre de
+
+protocolos enviados por los notarios
+
+para tal fin, por cada libro 1.50
 
 IX.- Por cotejo de documento en la Dirección por
 
-parte legítima 4,000.00
+parte legítima 0.75
 
-X.- Por envío de testimonios y copias certificadas
+X.- Por envío de testimonios y copias
 
-fuera de Hermosillo a cualquier lugar del Estado
+simples o certificadas fuera de
 
-(incluyendo gastos de correo, transportes, etc)
+Hermosillo a cualquier lugar del
 
-por cada documento enviado 4,000.00
+Estado, (incluyendo gastos de correo,
+
+transporte, etc.), por cada
+
+documento enviado 1.50
 
 XI.- Por la expedición de testimonios y copias
 
@@ -3123,19 +3191,31 @@ debido a la falta de alguno de los datos
 
 indispensables para ello:
 
-A).- Por cada hoja 4,000.00
+A).- Por cada hoja 1.50
 
-B).- Por la búsqueda 2,000.00
+B).- Por la búsqueda 0.75
 
-XII.- Por la sola búsqueda y localización de información
+XII.- Por la sola búsqueda y localización
 
-relativa a escrituras públicas y antecedentes notariales
+de información relativa a escrituras
 
-y brindar información al interesado sin que esto
+publicas y antecedentes notariales y
 
-implique la expedición y cobro del documento
+brindar información al interesado sin
 
-correspondiente 2,000.00
+que esto implique la expedición y cobro
+
+del documento correspondiente:
+
+a).- Por la búsqueda en protocolos de
+
+diversos notarios, por cada uno
+
+de aquéllos 0.75
+
+b).- Por cada año hasta llegar a tres 0.75
+
+c).- Por cada año que exceda de los tres 1.50
 
 ### Capítulo Décimo Segundo. Inspección Sanitaria
 
@@ -3143,35 +3223,49 @@ correspondiente 2,000.00
 
 Los derechos por estos servicios, serán:
 
-1.- Por una publicación, cada palabra 25.00
+VECES EL SALARIO
 
-2.- Por dos publicaciones cada palabra 50.00
+MINIMO GENERAL
 
-3.- Por tres publicaciones, cada palabra 75.00
+DIARIO VIGENTE
 
-4.- Por cada página completa, cada publicación,
+EN LA ZONA
 
-balances y estados financieros 40,000.00
+ECONOMICA
 
-5.- Por suscripción dentro del país, anual 10,400.00
+26-B SONORA
 
-6.- Por suscripción al extranjero, anual 27,000.00
+COSTA.
 
-7.-. Por número del día 100.00
+1.- Por la palabra, en cada publicación en menos de
 
-8.- Por copia del Boletín de Archivo:
+una pagina 0.015
 
-A).- Por la primera hoja 200.00
+2.- (DEROGADO, B.O. 10 DE DICIEMBRE DE 1987)
 
-B).- Por cada una de las subsecuentes 50.00
+3.- (DEROGADO, B.O. 10 DE DICIEMBRE DE 1987)
 
-C).- Por certificación de copias de publicaciones
+4.- Por cada pagina completa, en cada publicación 25.00
 
-de archivo 1,000.00
+5.- Por suscripción anual, sin entrega a domicilio 8.00
 
-9.- Por suscripción, correo anual 13,000.00
+6.- Por suscripción anual, al extranjero 31.00
 
-10.- Por número atrasado 200.00
+7.- Costo unitario por Boletín 0.075
+
+8.- Por copias del Boletín oficial:
+
+A).- Por cada hoja 0.075
+
+B).- Por certificación del Boletín Oficial. 0.30
+
+C.- (DEROGADO, B.O. 10 DE DICIEMBRE DE 1987)
+
+9.- Por suscripción anual, por correo
+
+dentro del país 20.00
+
+10.- Por número atrasado 0.15
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 30 DE DICIEMBRE DE 1985)</small>
 
@@ -3183,13 +3277,29 @@ de archivo 1,000.00
 
 Las placas tipo único para todos los vehículos, se clasifican en los siguientes grupos, aplicándose por su expedición, transferencia, o canje, las tarifas que siguen conforme a sus especificaciones.
 
+VECES EL SALARIO
+
+MINIMO GENERAL
+
+DIARIO VIGENTE
+
+EN LA ZONA
+
+ECONOMICA
+
+26-B SONORA
+
+COSTA.
+
 > <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
 
 1.- TRANSPORTE PRIVADO: Que deberán ostentar
 
 los vehículos de propulsión mecánica para uso particular:
 
-A).- Por expedición, transferencia o canje $9,000.00
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
+
+A).- Por expedición, transferencia o canje 3.00
 
 B).- Por revalidación anual El equivalente a 1.0
 
@@ -3211,7 +3321,9 @@ utilicen para prestar servicios de transporte de
 
 personas o cosas dentro del Estado:
 
-A).- Por expedición, transferencia o canje 9,000.00
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+
+A).- Por expedición, transferencia o canje 3.00
 
 B).- Por revalidación anual El equivalente a 1.0
 
@@ -3255,19 +3367,9 @@ en la zona
 
 económica No. 5.
 
-> <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
 
-7.- Por reposición de tarjetas de circulación. El equivalente a 0.5
-
-veces el salario
-
-mínimo general
-
-diario vigente
-
-en la Zona
-
-Económica No. 5.
+7.- Por reposición de tarjetas de circulación. 1.00
 
 ###### Artículo 313.
 
@@ -3281,21 +3383,25 @@ Las placas de mostradoras causarán derechos conforme a la tarifa de transporte 
 
 La reposición de una placa implicará un juego completo y causará derechos como si se expidieran placas nuevas aun cuando se usen el mismo número de la placa o placas extraviadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 1O DE DICIEMBRE DE 1987)</small>
 
 ###### Artículo 316.
 
 La expedición de licencias para conducir, así como los permisos para manejar sin licencia, causarán el pago de derechos, conforme a la siguiente tarifa:
 
-Veces el salario
+VECES EL SALARIO
 
-mínimo general
+MINIMO GENERAL
 
-diario vigente
+DIARIO VIGENTE
 
-en la zona
+EN LA ZONA
 
-económica No. 5.
+ECONOMICA
+
+26-B SONORA
+
+COSTA.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1985)</small>
 
@@ -3341,7 +3447,7 @@ B).- De chofer 0.5
 
 C).- De motocicleta 0.5
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 D).- Para conducir vehículos de propulsión automotriz
 
@@ -3349,7 +3455,7 @@ en los casos previstos en el Artículo 23 de la Ley
 
 de Tránsito del Estado de Sonora.
 
-(6 meses máximo) 10,000.00
+(6 meses máximo) 4.00
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1985)</small>
 
@@ -3407,33 +3513,41 @@ A las reposiciones de licencias se les aplicará el mismo importe de los derecho
 
 ### Capitulo Décimo Cuarto. Otros Servicios
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 ###### Artículo 320.
 
 Los servicios que la Dirección General de Transporte del Estado, preste a los particulares, causarán el pago de derechos conforme a las especificaciones y tarifas siguientes:
 
+VECES EL SALARIO
+
+MINIMO GENERAL
+
+DIARIO VIGENTE
+
+EN LA ZONA
+
+ECONOMICA
+
+26-B SONORA
+
+COSTA.
+
 1.- Por la expedición de concesión para la explotación
 
 del servicio público de transporte, por unidad.
 
-> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 1986)</small>
-
 I.- DE JURISDICCIÓN ESTATAL.
 
-A).- Pasaje 100,000.00
+A).- Pasaje 31.00
 
-B).- Carga 50,000.00
-
-> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 1986)</small>
+B).- Carga 15.00
 
 II.- DE JURISDICCIÓN MUNICIPAL.
 
-A).- Pasaje 50,000.00
+A).- Pasaje 15.00
 
-B).- Carga 30,000.00
-
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+B).- Carga 10.00
 
 2.- Por revisión anual de las concesiones que amparan
 
@@ -3443,11 +3557,9 @@ concesionado, tanto de jurisdicción estatal como
 
 municipal por unidad:
 
-A).- Pasaje 40,000.00
+A).- Pasaje 1.50
 
-B).- Carga 3,000.00
-
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+B).- Carga 1.00
 
 3.- Por la expedición de concesiones temporales para
 
@@ -3455,21 +3567,17 @@ la explotación del servicio público de transporte, de
 
 jurisdicción estatal y municipal, por unidad:
 
-A).- Pasaje 10,000.00
+A).- Pasaje 4.00
 
-B).- Carga 10,000.00
-
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+B).- Carga 4.00
 
 4.- Autorización de vehículos de emergencia, tanto de
 
 jurisdicción estatal, como municipal, por unidad:
 
-A).- Pasaje 6,000.00
+A).- Pasaje 2.30
 
-B).- Carga 6,000.00
-
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+B).- Carga 2.30
 
 5.- Autorización de alta y baja de unidad para la
 
@@ -3479,11 +3587,9 @@ tanto de jurisdicción estatal como municipal,
 
 por unidad:
 
-A).- Pasaje 2,500.00
+A).- Pasaje 0.75
 
-B).- Carga 2,500.00
-
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+B).- Carga 0.75
 
 6.- Autorización temporal a vehículos no concesionados
 
@@ -3491,11 +3597,9 @@ por reparación de unidades autorizadas, de jurisdicción
 
 Estatal o Municipal por unidad:
 
-A).- Pasaje 2,250.00
+A).- Pasaje 0.75
 
-B).- Carga 2,250.00
-
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+B).- Carga 0.75
 
 7.- Expedición de permisos que amparen el servicio
 
@@ -3503,11 +3607,9 @@ particular de transporte, sean de jurisdicción estatal o
 
 municipal, por unidad:
 
-A).- Personas físicas 7,500.00
+A).- Personas físicas 2.30
 
-B).- Personas morales 10,000.00
-
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+B).- Personas morales 3.00
 
 8.- Por estudios que realice el departamento técnico
 
@@ -3517,9 +3619,9 @@ determinar las necesidades de servicio público de
 
 transporte de jurisdicción estatal o municipal:
 
-A).- Pasaje 100,000.00
+A).- Pasaje 31.00
 
-B).- Carga 100,000.00
+B).- Carga 31.00
 
 9.- Por la expedición de concesiones con motivo de
 
@@ -3529,37 +3631,29 @@ explotación de servicio público de transporte de
 
 jurisdicción Estatal o Municipal:
 
-> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 1986)</small>
-
 I.- Pasaje:
 
 A).- Que exceda del 50% del kilometraje que tengan
 
-autorizado esta concesión, por unidad 50,000.00
+autorizado esta concesión, por unidad 15.00
 
 B).- Que no exceda del 50% del kilometraje que tenga
 
-autorizado en la concesión, por unidad 25,000.00
-
-> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 1986)</small>
+autorizado en la concesión, por unidad 8.00
 
 II.- Carga:
 
 A).- Que exceda del 50% de radio de acción
 
-autorizado en la concesión, por unidad 25,000.00
+autorizado en la concesión, por unidad 8.00
 
 B).- Que no exceda del 50% del radio de acción
 
-autorizado en la concesión, por unidad 12,500.00
-
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+autorizado en la concesión, por unidad 4.00
 
 10.- Por expedición de concesiones para la
 
-explotación de centrales y terminales camioneras 225,000.00
-
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+explotación de centrales y terminales camioneras 80.00
 
 11.- Por estudios técnicos y socio-económicos que
 
@@ -3567,17 +3661,13 @@ a solicitud de concesionario realice el Depto.
 
 Técnico adscrito a la Dirección, para la modificación
 
-de tarifas 100,000.00
-
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+de tarifas 40.00
 
 12.- Por la expedición de certificados que acrediten
 
 el carácter de no concesionario del servicio público
 
-de transporte 750.00
-
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+de transporte 0.75
 
 13.- Por certificación de copias de cualquier documento
 
@@ -3585,13 +3675,33 @@ existente en los archivos de la dirección general de
 
 transporte a solicitud de parte o en cumplimiento
 
-de un mandato judicial gestionado por particulares 750.00
+de un mandato judicial gestionado por particulares
+
+A).- Por cada hoja 0.75
+
+B).- Por la Búsqueda 0.40
 
 ### Capítulo Unico
 
 ###### Artículo 321.
 
 Los derechos por los servicios que presta el Registro Público de la Propiedad y de Comercio, se cobrarán conforme a las siguientes cuotas:
+
+VECES EL SALARIO
+
+MINIMO GENERAL
+
+DIARIO VIGENTE
+
+EN LA ZONA
+
+ECONOMICA
+
+26-B SONORA
+
+COSTA.
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1985)</small>
 
 1.- Quedan sujetos a la siguiente tarifa:
 
@@ -3653,23 +3763,29 @@ IV.- De 1´000,000.01 a 2´000,000.00 4 al millar
 
 V.- De 2´000,000.01 en adelante 3 al millar
 
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
+
 2.- Por la inscripción o registro de títulos que expida
 
-la nación $1,500.00
+la nación 0.75
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1985)</small>
 
 3.- La constitución del patrimonio familiar 6 al millar
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1985)</small>
 
 4.- Los contratos de arrendamiento de muebles
 
 o inmuebles, con o sin tiempo definido 6 al millar
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
-5.- Por capitulaciones matrimoniales 6,000.00
+5.- Por capitulaciones matrimoniales 2.30
 
 6.- (DEROGADO, B.O. 15 DE DICIEMBRE DE 1986)
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 7.- Actos, contratos o convenios, por los que se
 
@@ -3677,7 +3793,7 @@ fraccionen, lotifiquen, relotifiquen o subdividan
 
 o fucionen predios rusticos o urbanos o se
 
-constituya régimen de condominio 5,500.00
+constituya régimen de condominio 4.00
 
 Independientemente de la tarifa anterior, se cubrirá
 
@@ -3685,15 +3801,17 @@ en forma adicional las siguientes cuotas en cada caso:
 
 A).- En zona urbana, residencial jardinada por
 
-cada lote 900.00
+cada lote 0.30
 
-B).- En las zonas populares 450.00
+B).- En las zonas populares 0.15
 
-C).- Zona industrial 2,000.00
+C).- Zona industrial 0.75
 
-D).- Zona campestre o rústica 2,000.00
+D).- Zona campestre o rústica 0.75
 
-E).- En el régimen de condominio por local 2,000.00
+E).- En el régimen de condominio por local 0.75
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1985)</small>
 
 8.- Los créditos hipotecarios, reconocimiento de
 
@@ -3703,7 +3821,7 @@ fianzas celebradas entre particulares, sobre el
 
 importe de la operación 5 al millar
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 9.- Por usufructo vitalicio, convenio modificatorio,
 
@@ -3715,7 +3833,9 @@ modificatorios y demás documentos o títulos
 
 públicos o privados no previstos en las anteriores
 
-tarifas, se cobrarán 5,500.00
+tarifas, se cobrarán 4.00
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1985)</small>
 
 10.- Por inscripciones de escrituras constitutivas de
 
@@ -3739,29 +3859,37 @@ a $5´000,000.00 5 al millar
 
 IV.- Por lo que exceda de: $5´000,000.01 3 al millar
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
-11.- Por cualquier modificación de sociedades
+11.- Por cualquier modificación de escrituras
 
-mercantiles de escrituras constitutivas exceptuando
+constitutivas de sociedades mercantiles exceptuando
 
-el aumento de capital, por la inscripción de poderes,
+el aumento de capital; por la inscripción de poderes,
 
 sustitución de los mismos y cualquier otra inscripción
 
-en la sección de comercio 6,000.00
+en la sección de comercio 3.00
+
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 12.- Cuando el documento a inscribir sea constitución
 
-de sociedad mercantil o cualquier modificación al pacto
+de sociedades mercantiles, o cualquier modificación
 
-social, otorgando fuera de la entidad, aparte de la tarifa
+al pacto social, crédito de habitación o avío, refaccionario,
 
-estipulada, pagarán 25% sobre el monto de los derechos
+así como operaciones relativas a la sección I y II que
+
+comprendan compra-venta, convenios modificatorios y
+
+otros otorgados fuera de la entidad, a parte de la tarifa
+
+estipulada pagarán 25% sobre el monto de los derechos
 
 que cause el documento.
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 13.- Las escrituras constitutivas de asociaciones y las
 
@@ -3769,17 +3897,19 @@ que se reformen, así como las escrituras constitutivas
 
 de las sociedades civiles que no señalen capital social,
 
-pagarán 6,000.00
+pagarán 2.30
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 14.- Las escrituras constitutivas de fundaciones de
 
-beneficencia privada, pagarán 1,800.00
+beneficencia privada, pagarán 0.75
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
-15.- Por deposito de testamento ológrafo 6,000.00
+15.- Por deposito de testamento ológrafo 2.30
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1985)</small>
 
 16.- Los créditos hipotecarios refraccionarios de
 
@@ -3788,6 +3918,8 @@ habilitación o avío otorgados por sociedades
 nacionales de crédito y organizaciones auxiliares,
 
 causarán sobre el importe de la operación 3.5 al millar
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1985)</small>
 
 17.- Por inscripción de documentos que contengan
 
@@ -3799,25 +3931,29 @@ al portador que el emisor sea una sociedad anónima,
 
 pagará sobre el monto 0.35%
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 18.- Certificados de no inscripción para obtención de
 
-becas y casa-habitación de interés social 1,800.00
+becas y casa-habitación de interés social 0.50
+
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 19.- Certificados de no inscripción de bienes inmuebles
 
-urbanos o rústicos 4,000.00
+urbanos o rústicos 1.50
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 20.- Expedición de certificados de libertad o de
 
-gravamen sin incluir las anotaciones, las que se
+gravámenes sin incluir las anotaciones, las que se
 
-cobraran por separado 1,800.00
+cobraran por separado 0.75
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+Independientemente de lo anterior por anotación 0.15
+
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 21.- Por la expedición de certificados en que se pida
 
@@ -3827,25 +3963,27 @@ fraccionamiento o desarrollo independientemente
 
 de la cuota establecida se pagará por cada lote
 
-descrito en el certificado 300.00
+descrito en el certificado 0.15
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 22.- Por la expedición de copias a que se refieren
 
 el párrafo anterior, independientemente de la tarifa
 
-establecida se pagará por cada lote o predio 100.00
+establecida se pagará por cada lote o predio 0.15
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 23.- Por la expedición de copias fotostáticas simples
 
-o certificadas:
+o certificadas, por hoja:
 
-Primera hoja 360.00
+Simples 0.075
 
-Por cada una de las siguientes 180.00
+Certificadas 0.15
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1985)</small>
 
 24.- La expedición de certificados o copias certificadas
 
@@ -3853,41 +3991,43 @@ solicitadas con carácter de urgente, causarán el doble
 
 de la cuota establecida.
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 25.- Por la expedición de certificados que solicite
 
 antecedentes registrales pagará por cada
 
-antecedente 1,000,000
+antecedente 0.75
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
-26.- Por cancelación de gravámenes recaidos sobre
+26.- Por cancelación de inscripción o gravámenes
 
-bienes muebles e inmuebles se pagarán por cada
+recaidos sobre bienes muebles o inmuebles se
 
-antecedente de las inscripciones 350.00
+pagarán por cada antecedente de las inscripciones 0.15
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 27.- Por cada anotación marginal que se efectúa al
 
 presentar cualquier documento público o privado
 
-para su registro 400.00
+para su registro 0.15
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 28.- Por lo inscrito en el libro respectivo se pagarán
 
-por hoja 200.00
+por hoja 0.10
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 29.- Por anotación de segundo ejemplar cuando sea
 
-simultánea la inscripción del primer ejemplar 2,000.00
+simultánea la inscripción del primer ejemplar 0.75
+
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1985)</small>
 
 30.- La inscripción de fianzas extendidas por
 
@@ -3895,13 +4035,11 @@ Instituciones especializadas, causarán sobre el
 
 importe que corresponde 0.25%
 
-31.- Por registro de cédula hipotecaria se cobrará 4,000.00
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
-> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+31.- Por registro de cédula hipotecaria se cobrará 2.30
 
-32.- Por cada anotación en la expedición de
-
-certificados 250.00
+32.- (DEROGADO, B.O. 10 DE DICIEMBRE DE 1987)
 
 ###### Artículo 322.
 
@@ -3927,19 +4065,25 @@ I.- Por las inscripciones de:
 
 1.- Matrimonios
 
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
+
 1.1.- Dentro de la oficina:
 
-A).- En horas hábiles 3,500.00
+A).- En horas hábiles 1.00
 
-B).- En horas inhábiles 7,000.00
+B).- En horas inhábiles 2.30
+
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 1.2.- Fuera de la oficina:
 
-A).- En horas hábiles 10,00.00
+A).- En horas hábiles 4.00
 
-B).- En horas inhábiles 18,00.00
+B).- En horas inhábiles 8.00
 
-C).- En centros sociales 27,000.00
+C).- En centros sociales 12.00
+
+D).- En días inhábiles a su domicilio 12.00
 
 2.- Nacimientos GRATUITA
 
@@ -3947,75 +4091,141 @@ C).- En centros sociales 27,000.00
 
 4.- Defunciones GRATUITA
 
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
+
 5.- Actos del estado civil de los mexicanos realizados
 
-en el extranjero 5,000.00
+en el extranjero 2.30
+
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 6.- Resoluciones judiciales relativas:
 
-6.1.- Adopciones 2,500.00
+6.1.- Adopciones 0.75
 
-6.2.- Divorcio 5,000.00
+6.2.- Divorcio 1.50
+
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 7.- Otras resoluciones judiciales que conforme al
 
-Código Civil deban registrarse 3,000.00
+Código Civil deban registrarse 1.50
+
+> <small>(REFORMADA, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 II.- Por la expedición de actas del Registro Civil en
 
 las Oficialías:
 
-1.- Servicio Ordinario 500.00
+1.- Servicio Ordinario 0.23
 
-2.- Servicio Urgente 1,500.00
+2.- Servicio Urgente 0.70
 
 III.- Por las anotaciones marginales:
 
 1.- De reconocimiento de hijos GRATUITA
 
-2.- Que ordena el Art. 213 del Código Civil GRATUITA
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
+
+2.- Que ordena el Art. 213 del Código Civil 0.50
+
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 3.- De las resoluciones judiciales de complementación
 
-y rectificación de actas 500.00
+y rectificación de actas 0.50
+
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 4.- Que se realicen en cumplimiento de disposiciones
 
-jurídicas o de resoluciones judiciales 1,000.00
+jurídicas o de resoluciones judiciales 1.50
 
 Las inscripciones de cualquier acto que se celebre fuera de la oficina, incluyendo los exentos, excepto el de matrimonio, causarán una cuota de $2,500.00.
 
-> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
 
 Artículo 325 Bis A.- Los servicios que presta el Archivo Estatal del Registro Civil, causará los siguientes derechos:
 
+VECES EL SALARIO
+
+MINIMO GENERAL
+
+DIARIO VIGENTE
+
+EN LA ZONA
+
+ECONOMICA
+
+26-B SONORA
+
+COSTA.
+
 I.- Por la expedición de actas:
 
-1.- Servicio ordinario 500.00
+1.- Servicio ordinario 0.23
 
-2.- Servicio urgente 1,500.00
+2.- Servicio urgente 0.70
 
 II.- Por la búsqueda que se efectúe para la
 
 localización de un acta, cuando el solicitante
 
-no aporte los datos necesarios y por la
+no aporte los datos necesarios, por cada 5 años
 
-expedición del certificado de inexistencia respectivo 1,000.00
+de búsqueda en todas las oficialías 0.75
 
-> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+Por la expedición del certificado de inexistencia
 
-Artículo 325 Bis B.- La petición de actas del estado civil de las personas y de los certificados de inexistencia de las mismas que realice la institución del Registro Civil a otro Estado, causará un derecho por la cantidad de $1,000.00.
+respectivo 0.30
 
-> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+VECES EL SALARIO
 
-Artículo 325 Bis C.- Por la reproducción mecanográfica de las actas se pagará una cuota adicional equivalente al 30% de la cantidad fijada para el servicio que se solicite.
+MINIMO GENERAL
+
+DIARIO VIGENTE
+
+EN LA ZONA
+
+ECONOMICA
+
+26-B SONORA
+
+COSTA.
+
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
+
+Artículo 325 Bis B.- La petición de actas del estado
+
+civil de las personas y de los certificados de
+
+inexistencia de las mismas que realice la institución
+
+del Registro Civil a otro Estado, causará un derecho
+
+por la cantidad de 0.50
+
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1987)</small>
+
+Artículo 325 Bis C.- Por la reproducción mecanográfica de las actas se pagará una cuota adicional equivalente al 100% de la cantidad fijada para el servicio que se solicite.
 
 ###### Artículo 326.
 
 Quedan sujetos a las siguientes cuotas:
 
-> <small>(REFORMADA, B.O. 15 DE DICIEMBRE DE 1986)</small>
+VECES EL SALARIO
+
+MINIMO GENERAL
+
+DIARIO VIGENTE
+
+EN LA ZONA
+
+ECONOMICA
+
+26-B SONORA
+
+COSTA.
 
 I.- Servicios prestados por la Tesorería General del
 
@@ -4023,129 +4233,289 @@ Estado respecto de:
 
 1.- Por copias simples de antecedentes catastrales
 
-y documentos de archivo, por cada hoja 1,000.00
+y documentos de archivo, por cada hoja 300.00
 
 2.- Por certificación de copias de expedientes y
 
-documentos de archivo, por cada hoja 2,000.00
+documentos de archivo, por cada hoja 0.60
 
-3.- Por expedición de certificados catastrales simples 2,000.00
+3.- Por expedición de certificados catastrales simples 0.75
 
 4.- Por expedición de copias de planos catastrales
 
-de población, por cada hoja 2,000.00 + .20 Por CM2
+de población, por cada hoja 0.75 + $0.20 por cm2
 
 5.- Por certificación de copias de cartografía
 
-catastral, por cada hoja 2,000.00
+catastral, por cada hoja 0.75
 
 6.- Por expedición de copias simples de cartografía
 
-catastral por cada predio 1,000.00
+catastral por cada predio 0.30
 
 7.- Por asignación de clave catastral a lotes de
 
-terreno de fraccionamientos, por cada clave 100.00
+terreno de fraccionamientos, por cada clave 0.075
 
 8.- Por certificación del valor catastral en la
 
 manifestación de traslación de dominio, por
 
-cada certificación 1,000.00
+cada certificación 0.40
 
 9.- Por expedición de certificados de no inscripción
 
-de bienes inmuebles 1,500.00
+de bienes inmuebles 0.50
 
 10.- Por inscripción de manifestaciones y avisos
 
 catastrales (Manifestaciones de Inmuebles de obra,
 
-fusiones y subdivisiones) 500.00
+fusiones y subdivisiones) 0.23
 
 11.- Por expedición de certificados de no adeudo y
 
-otros, por cada uno 2,000.00
+otros, por cada uno 0.60
 
 12.- Por expedición de certificados catastrales con
 
-medidas y colindancias 4,000.00
+medidas y colindancias 1.50
 
-II.- Servicios prestados por la Secretaria de Desarrollo
+13.- Por expedición de copias de cartografía rural
 
-Urbano y Rural del Estado, en relación a desarrollos
+por cada hoja 1.50
 
-Industriales, Turísticos y Campestres.
+14.- Por expedición de planos de predios rurales a
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+escala convencional 3.00
 
-1.- Derechos por fusión de cada lote que se
+II.- Servicios prestados por la secretaria de infraestructura y desarrollo urbano en relación a desarrollos industriales, turísticos y campestres:
 
-incorpore a otro $2,000.00
+1.- Trabajos de revisión de documentación y 2 al millar sobre el
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+autorización de desarrollo. presupuesto de
 
-2.- Derechos por subdivisión de predios en varios
+urbanización.
 
-lotes, por cada uno de ellos 2,000.00
+2.- Derechos por supervisión de obras 3 al millar sobre el
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 1986)</small>
+de urbanización. presupuesto de
 
-3.- Por derechos por supervisión de obras de
+urbanización.
 
-urbanización, por las primeras dos hectáreas o menos
+3.- Por subdivisión, fusión y relotificación de
 
-$20,000.00 más de $10,000.00 por cada hectárea
+terrenos con uso industrial, turístico o
 
-excedente o fracción mayor de media hectárea.
+campestre-familiar:
 
-Las modificaciones que se soliciten a desarrollo ya
+A).- Para lotes hasta 1000 m2, 4 días de salario
 
-autorizados, causarán los mismos derechos
+mínimo general
 
-señalados en los puntos 1 y 2, afectando toda el
+vigente en la
 
-área que se motivo de cambio.
+Zona Económica
 
-Los desarrollos que se efectúen por instituciones
+26 B Sonora-Costa.
 
-descentralizadas, calificadas por la Secretaria de
+B).- Para lotes mayores de 1001 m2 2 al millas sobre el
 
-Desarrollo Urbano y Rural del Estado, pagarán una
+hasta 10,000 m2. valor del terreno
 
-tarifa de un 50% a la señalada anteriormente.
+consignado en el
 
-Los desarrolladores que sean requeridos para regularizar
+avalúo por
 
-sus desarrollos y procedan a efectuarla dentro del plazo
+Institución Nacional
 
-que les sea señalado por la Secretaría de Desarrollo
+de Crédito.
 
-Urbano y Rural del Estado, cubrirán a la tesorería general
+C).- Para lotes mayores de 10,001 m2. 1.5 al millar sobre el
 
-del estado a la fecha de su solicitud de regularización,
+valor del terreno
 
-una tarifa mayor de un 20% a la señalada.
+consignado en avalúo
 
-Para los casos normales, debiendo cubrir además lo
+por Institución Nacional
 
-relativo a áreas de donación al Gobierno del Estado
+de Crédito pero nunca
 
-o su equivalente en efectivo, según determine el
+será mayor de 5 meses
 
-acuerdo de regularización respectivo.
+de salario mínimo
 
-Cuando los desarrolladores se excedan en el plazo
+vigente en la Zona
 
-señalado para su regularización, se les sancionará
+Económica 26 B
 
-por este concepto incrementando la tarifa hasta en
+Sonora-Costa.
 
-un 50% más de lo señalado para los casos normales,
+4.- Por modificaciones que se solicitan a desarrollos
 
-sin que ello los exima de la aplicación de otras
+ya autorizados, causaran 1.5 al millar sobre el
 
-sanciones que marca la Ley respectiva.
+presupuesto de urbanizados, actualizando, en
+
+forma directamente proporcional al área modificada,
+
+pero que nunca será inferior a 2 veces el salario
+
+mínimo de un mes vigente en la Zona Económica
+
+26 B Sonora-Costa.
+
+5.- Por la expedición de licencias de uso de suelo de
+
+terrenos en que se pretenda realizar un desarrollo,
+
+fuera del limite de (sic) centro de población, se
+
+cobrara previo a la presentación de la documentación
+
+señalada en el Reglamento para Desarrollos Industriales,
+
+Turísticos y Campestres. 1 mes de salario mínimo
+
+vigente en la Zona
+
+Económica 26 B
+
+Sonora Costa.
+
+6.- Por la aprobación por parte de la Secretaria
+
+de Infraestructura y Desarrollo Urbano, de la
+
+Publicidad destinada a promover un desarrollo
+
+autorizado, se cubrirá una cuota equivalente a: 10 días de salario mínimo
+
+vigente en la Zona
+
+Económica 26 B
+
+Sonora-Costa.
+
+7.- Por la revisión y aprobación si procede de
+
+los proyectos de agua potable y alcantarillado
+
+de fraccionamientos, por cada revisión, se
+
+cobrara el equivalente a: 1 mes de salario mínimo
+
+vigente en la Zona
+
+Económica 26 B
+
+Sonora-Costa por los
+
+200 primeros lotes y 1 día
+
+de salario mínimo por
+
+cada 7 lotes adicionales.
+
+III.- Servicios prestados por la Secretaria de Salud Pública del Estado.
+
+VECES EL SALARIO
+
+MÍNIMO GENERAL DIARIO
+
+VIGENTE EN LA ZONA
+
+ECONÓMICA 26 B
+
+SONORA COSTA.
+
+1.- Autorización de responsable
+
+en fabricas de alimentos y bebidas. 5.50
+
+2.- Autorización de responsable
+
+en farmacia. 4.00
+
+3.- Autorización para practico en
+
+farmacia 4.00
+
+4.- Permisos sanitarios para
+
+construcción por m2 0.02
+
+5.- Permiso sanitario para
+
+reconstrucción, por m2 0.01
+
+6.- Permiso sanitario para
+
+modificación o ampliación, por m2 0.02
+
+7.- Permiso sanitario para
+
+adaptación, por m2 0.01
+
+8.- Permiso sanitario para
+
+demolición, por m2 0.005
+
+9.- Autorización para técnico en
+
+fumigaciones domesticas, comerciales
+
+e industriales, 8.00
+
+10.- Autorización ara técnico en
+
+embalsamamiento. 8.00
+
+11.- Expedición de copias certificadas
+
+de documentos, por cada hoja u oficio. 0.15
+
+12.- Reposición de constancias o
+
+duplicado de las mismas, así como
+
+Calcomanías. 0.75
+
+13.- Compulsa de documentos por hoja. 0.15
+
+14.- Legalización de firmas por el
+
+Secretario del Ramo. 1.50
+
+15.- Copia de planos certificados o
+
+no certificados. 0.75
+
+16.- Análisis físicos, químicos o
+
+bacteriológicos de alimentos.
+
+A).- Leches 7.00
+
+B).- Carnes Frías 7.00
+
+C).- Productos Lácteos 7.00
+
+D).- Bebidas alcohólicas y no
+
+alcohólicas 7.00
+
+E).- Frituras de Harina 7.00
+
+F).- Especies 7.00
+
+G).- Hielo 4.50
+
+H).- Paletas 4.50
+
+I).- Nieve 7.00
+
+J).- Otros 7.00
 
 ## TITULO QUINTO. De los Productos y de los Aprovechamientos
 
@@ -4332,3 +4702,9 @@ B.O. 15 DE DICIEMBRE DE 1986.
 PRIMERO: Esta Ley entrará en vigor en todo el Estado, el día 1o. de enero de 1987, previa su publicación en el Boletín Oficial del Gobierno del Estado.
 
 SEGUNDO: Los derechos causados conforme a las disposiciones vigentes con anterioridad a la fecha en que entre en vigor la presente Ley, deberán ser pagados en el monto, forma y plazos establecidos en dichas disposiciones.
+
+B.O. 10 DE DICIEMBRE DE 1987.
+
+PRIMERO.- Esta Ley entrara en vigor en todo el Estado, el día 1o. de enero de 1988, previa su Publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los derechos causados conforme a las disposiciones vigentes con anterioridad a la fecha en que entre en vigor la presente Ley, deberán ser pagados en el monto, forma y plazos establecidos en dichas disposiciones.
