@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "1999-09-29"
+last_updated: "2000-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2000.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -1139,7 +1139,7 @@ Los miembros de los cuerpos de seguridad pública, por la naturaleza de su funci
 
 ### CAPÍTULO II. Del Supremo Tribunal de Justicia
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2000)</small>
 
 ###### ARTÍCULO 90.
 
@@ -1211,7 +1211,9 @@ El Pleno del Supremo Tribunal de Justicia deberá rendir en forma anual, a trav�
 
 ###### ARTÍCULO 96.
 
-El Supremo Tribunal de Justicia se integra con trece Magistrados numerarios y doce supernumerarios. Para el nombramiento de los numerarios, el Gobernador propondrá al Congreso al triple de personas respecto al número de cargos por cubrir, dentro de las cuales la Legislatura hará los nombramientos respectivos en el término de diez días; y en el caso de que, vencido ese plazo, aún no se haya hecho la designación, el titular del Ejecutivo procederá a hacer el nombramiento de entre las propuestas.
+El Supremo Tribunal de Justicia se integra con dieciséis Magistrados numerarios y quince supernumerarios. Para el nombramiento de los numerarios, el Gobernador propondrá al Congreso al triple de personas respecto al número de cargos por cubrir, dentro de las cuales la Legislatura hará los nombramientos respectivos en el término de diez días; y en el caso de que, vencido ese plazo, aún no se haya hecho la designación, el titular del Ejecutivo procederá a hacer el nombramiento de entre las propuestas.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)</small>
 
 En caso de que el Congreso rechace la propuesta, el Gobernador del Estado presentará una nueva en los términos del párrafo anterior. Si esta segunda propuesta fuera rechazada, ocupará el cargo la persona que, dentro de la misma, designe el Gobernador del Estado.
 
@@ -1411,21 +1413,47 @@ No se hará pago alguno que no esté previsto en la Ley del Presupuesto de Egres
 
 El Municipio Libre constituye la base de la división territorial y de la organización política y administrativa del Estado y tendrá a su cargo la administración y gobierno de los intereses municipales, conforme a las bases siguientes:
 
-I.- Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2000)</small>
 
-Los Ayuntamientos se compondrán por un Presidente Municipal, Regidores y Síndicos electos popularmente por votación directa, quienes no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de sus cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio;
+I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa. La competencia del gobierno municipal se ejercerá por el ayuntamiento de manera exclusiva y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+
+Los ayuntamientos se compondrán por un Presidente Municipal y el número de regidores y síndicos que la ley determine, electos popularmente por votación directa, quienes no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de sus cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio;
 
 II.- Los Municipios estarán investidos de personalidad jurídica y manejarán su patrimonio conforme a la ley.
 
-Los Ayuntamientos poseerán facultades para expedir, de acuerdo con las bases normativas que deberá establecer la Legislatura del Estado, los bandos de policía y buen gobierno; los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones;
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2000)</small>
 
-III.- Los Municipios tendrán a su cargo los siguientes servicios públicos:
+Los ayuntamientos tendrán facultades para aprobar, de acuerdo con las leyes en materia municipal que deberá expedir la Legislatura del Estado, los bandos de policía y buen gobierno; los reglamentos; circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia, y aseguren la participación ciudadana y vecinal.
 
-a).- Agua potable, alcantarillado y saneamiento;
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2000)</small>
+
+El objeto de las leyes a que se refiere el párrafo anterior será establecer:
+
+a).- Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad;
+
+b).- Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los ayuntamientos, para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al período del Ayuntamiento;
+
+c).- Las normas de aplicación general para celebrar los convenios a que se refieren tanto las fracciones III y IV de este artículo, como el segundo párrafo de la fracción VII del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos;
+
+d).- El procedimiento y condiciones para que el gobierno estatal asuma una función o servicio municipal, cuando al no existir el convenio correspondiente, la Legislatura estatal, previa solicitud que le sea presentada por el Ayuntamiento respectivo aprobada por cuando menos las dos terceras partes de sus integrantes, considere que el municipio de que se trate esté imposibilitado para ejercerlos o prestarlos, y
+
+e).- Las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes.
+
+La Legislatura estatal emitirá las normas que establezcan los procedimientos, mediante los cuales se resolverán los conflictos que se presenten entre los municipios y el gobierno del Estado, o entre aquéllos, con motivo de los actos derivados de los incisos c) y d) anteriores;
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2000)</small>
+
+III.- Los municipios tendrán a su cargo las funciones y servicios públicos siguientes:
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2000)</small>
+
+a).- Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
 
 b).- Alumbrado público;
 
-c).- Limpia;
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2000)</small>
+
+c).- Limpia, recolección, traslado, tratamiento y disposición final de residuos;
 
 d).- Mercados y centrales de abasto;
 
@@ -1433,17 +1461,31 @@ e).- Panteones;
 
 f).- Rastro;
 
-g).- Calles, parques y jardines;
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2000)</small>
 
-h).- Seguridad pública y tránsito;
+g).- Calles, parques, jardines y su equipamiento;
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2000)</small>
+
+h).- Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito;
 
 i).- Cultura y recreación; y
 
 j).- Los demás que el Congreso del Estado determine, según las condiciones territoriales y socioeconómicas de los municipios, pudiendo tener el concurso del Estado respecto de los mismos, cuando así fuere necesario y lo determinen las leyes secundarias.
 
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2000)</small>
+
+Sin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios a su cargo, los municipios observarán lo dispuesto por las leyes federales y estatales.
+
 Cuando un Municipio, por causas excepcionales, no pueda proporcionar los servicios que esta Constitución y las leyes secundarias señalen, el Ejecutivo del Estado podrá asumir la prestación de los mismos total o parcialmente, según sea el caso, previa la aprobación del Congreso y por el tiempo estrictamente necesario.
 
-Los Municipios del Estado, previo el acuerdo entre sus Ayuntamientos y con sujeción a la ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les correspondan;
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2000)</small>
+
+Los municipios del Estado, previo el acuerdo entre sus ayuntamientos y con sujeción a la ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de municipios de dos o más Estados, deberán contar con la aprobación de las respectivas legislaturas de los Estados. Asimismo, cuando a juicio de los ayuntamientos sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o través (sic) del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2000)</small>
+
+La policía preventiva municipal estará al mando del Presidente Municipal, en los términos del reglamento correspondiente. Aquélla acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público;
 
 IV.- Los Municipios administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que el Congreso establezca a su favor y, en todo caso:
 
@@ -1455,13 +1497,49 @@ b).- Las participaciones federales, que serán cubiertas por la Federación a lo
 
 c).- Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
-Las leyes locales no establecerán exenciones o subsidios respecto a los ingresos a que se refieren los incisos a) y c), en favor de personas físicas o morales ni de instituciones oficiales o privadas. Sólo los bienes del dominio público de la Federación, de los Estados o de los Municipios estarán exentos de dichas contribuciones.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2000)</small>
 
-El Congreso del Estado aprobará las leyes de ingresos de los municipios a más tardar el quince de diciembre de cada año y revisará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles.
+Las leyes locales no establecerán exenciones o subsidios respecto a los ingresos a que se refieren los incisos a) y c), en favor de persona ni de institución alguna. Sólo los bienes del dominio público de la Federación, de los Estados o de los municipios estarán exentos de dichas contribuciones, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-Las remuneraciones de los miembros de los Ayuntamientos serán determinadas por el Cabildo, en sus respectivos presupuestos de egresos;
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2000)</small>
 
-V.- Los Municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano-municipal; participar en la creación y administración de sus reservas territoriales, controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el artículo 27, párrafo tercero, de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios;
+Los ayuntamientos en el ámbito de su competencia, propondrán a la Legislatura del Estado las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones, que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2000)</small>
+
+El Congreso del Estado aprobará las leyes de ingresos de los municipios a más tardar el quince de diciembre de cada año, revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2000)</small>
+
+Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos, o bien, por quien ellos autoricen, conforme a la ley.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2000)</small>
+
+Las remuneraciones de los miembros de los ayuntamientos serán determinadas por el Cabildo en sus respectivos presupuestos de egresos;
+
+> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2000)</small>
+
+V.- Los municipios en los términos de las leyes federales y estatales relativas, estarán facultados para:
+
+a).- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
+
+b).- Participar en la creación y administración de sus reservas territoriales;
+
+c).- Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando la Federación o el Estado elaboren proyectos de desarrollo regional, deberán asegurar la participación de los municipios;
+
+d).- Autorizar, controlar y vigilar la utilización del suelo en el ámbito de su competencia, en sus jurisdicciones territoriales;
+
+e).- Intervenir en la regularización de la tenencia de la tierra urbana;
+
+f).- Otorgar licencias y permisos para construcciones;
+
+g).- Participar en la creación y administración de zonas de reservas ecológicas, y en la elaboración y aplicación de programas de ordenamiento en esta materia;
+
+h).- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial; e
+
+i).- Celebrar convenios para la administración y custodia de las zonas federales.
+
+En lo conducente y de conformidad con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios;
 
 VI.- Cuando dos o más centros urbanos situados en territorios municipales de dos o más entidades federativas, formen o tiendan a formar una continuidad demográfica, los Municipios intervendrán en la planeación de dichos centros, en forma conjunta y coordinada con la Federación, entidades federativas y demás municipios interesados, con apego a la ley federal de la materia;
 
@@ -2044,3 +2122,15 @@ P.O. 29 DE SEPTIEMBRE DE 1999.
 DECRETO NUMERO 365.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2000.
+
+DECRETO NUMERO 542.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE JUNIO DE 2000.
+
+DECRETO NUMERO 543.
+
+UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico del Estado.
