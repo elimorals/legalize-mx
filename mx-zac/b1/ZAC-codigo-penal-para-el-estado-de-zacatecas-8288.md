@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "1997-02-22"
+last_updated: "1997-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1997.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -303,7 +303,9 @@ I.- Los ascendientes, por los delitos de sus descendientes que se hallen bajo su
 
 II.- Los tutores o los custodios por los delitos de los incapacitados que se hallen bajo su autoridad;
 
-III.- Los directores de internados, colegios o talleres, que reciban en su establecimiento discípulos o aprendices menores de dieciséis años, por los delitos que ejecuten durante el tiempo que se hallen bajo el cuidado de aquéllos;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1997)</small>
+
+III.- Los directores de internados, colegios o talleres, que reciban en su establecimiento discípulos o aprendices menores de dieciocho años, por los delitos que ejecuten durante el tiempo que estén bajo el cuidado de aquéllos;
 
 IV.- Los dueños, empresarios o encargados de negociaciones o establecimientos mercantiles o industriales de cualquiera especie, por los delitos que cometan sus obreros, jornaleros, empleados, domésticos y artesanos, con motivo y en el desempeño de su servicio;
 
@@ -493,7 +495,9 @@ La autoridad ejecutora podrá resolver sobre la modificación o conclusión de l
 
 ### CAPITULO VI. MEDIDAS TUTELARES PARA MENORES
 
-71.- Los menores de dieciseis años que cometan infracciones a las leyes penales, quedarán sujetos a las disposiciones de la ley de la materia.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
+
+71.- Los menores de dieciocho años que cometan infracciones a las leyes penales, quedarán sujetos a las disposiciones de la Ley de la materia.
 
 ### CAPITULO VII. CONMUTACION DE SANCIONES
 
@@ -979,9 +983,9 @@ Cuando los actos a que se refiere este artículo se realicen en plazas, parques,
 
 ### CAPITULO II. CORRUPCION DE MENORES
 
-> <small>(REFORMADO, P.O. 28 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
 
-183.- Se aplicarán prisión de seis meses a dos años y multa de cinco a veinte cuotas, al que procure o facilite la corrupción de cualquier naturaleza, de un menor de dieciséis años. Cuando el menor no haya cumplido los doce años, las penas aplicables se podrán aumentar de uno a dos años más de prisión y, del mismo modo, se podrá duplicar la multa.
+183.- Se aplicarán prisión de seis meses a dos años y multa de cinco a veinte cuotas, al que procure o facilite la corrupción de cualquier naturaleza, de un menor de dieciocho años. Cuando el menor no haya cumplido los doce años, las penas aplicables se podrán aumentar de uno a dos años más de prisión y, del mismo modo, se podrá duplicar la multa.
 
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 1994)</small>
 
@@ -989,9 +993,15 @@ Cuando los actos a que se refiere este artículo se realicen en plazas, parques,
 
 I.- Quienes vendan o alquilen a menores de edad, material audiovisual clasificado como exclusivo para adultos;
 
-II.- Quienes propicien o permitan que menores de dieciséis años presencien, por medio de aparatos electrónicos la exhibición de audiovisuales a que se refiere la fracción anterior.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1997)</small>
 
-184.- Al que emplee menores de dieciséis años en cantinas, tabernas o centros de vicios, se le sancionará con prisión de tres meses a un año y multa de cinco a veinte cuotas y cierre definitivo del establecimiento. Incurrirán en las mismas sanciones de prisión y multa los padres o tutores que acepten que sus hijos o menores, respectivamente, bajo su guarda, se empleen en los referidos establecimientos.
+II.- Quienes propicien o permitan que menores de dieciocho años presencien, por medio de aparatos electrónicos, la exhibición de cintas de video a que se refiere la fracción anterior.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
+
+184.- Al que emplee menores de dieciocho años en cantinas, tabernas o expendios de bebidas embriagantes de consumo inmediato, se le sancionará con prisión de tres meses a un año y multa de cinco a veinte cuotas y cierre definitivo del establecimiento. Incurrirán en las mismas sanciones de prisión y multa los padres o tutores que acepten que sus hijos o menores, respectivamente, bajo su guarda, se empleen en los referidos establecimientos.
+
+Igual sanción se impondrá a quien emplee menores de dieciocho años en lenocinio o establecimientos análogos.
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 1994)</small>
 
@@ -1015,9 +1025,9 @@ IV.- (DEROGADA, P.O. 28 DE MAYO DE 1994)
 
 El lenocinio se sancionará con prisión de seis meses a tres años y multa de diez a setenta y cinco cuotas.
 
-> <small>(ADICIONADO, P.O. 28 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
 
-187 Bis.- El que encubra, concierte o permita el comercio carnal de un menor de edad será sancionado con prisión de uno a seis años y multa de diez a cien cuotas. Esta penalidad se duplicará cuando el ofendido no haya cumplido los doce años de edad.
+187 Bis.- El que encubra, concierte o permita el comercio carnal de un menor de dieciocho años de edad, será sancionado con prisión de uno a seis años y multa de diez a cien cuotas. Esta penalidad se duplicará cuando el ofendido no haya cumplido los doce años de edad.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
@@ -1217,7 +1227,7 @@ En el caso de la fracción II, las sanciones expresadas se impondrán sin perjui
 
 211.- Además de las sanciones mencionadas en el artículo anterior, se impondrá a los abogados y litigantes prisión de tres meses a tres años:
 
-I.-Por patrocinar o ayudar a diversos contendientes o partes con intereses opuestos en un mismo negocio o negocios conexos, o cuando se acepte el patrocinio de alguno y se admita después el de la parte contraria;
+I.- Por patrocinar o ayudar a diversos contendientes o partes con intereses opuestos en un mismo negocio o negocios conexos, o cuando se acepte el patrocinio de alguno y se admita después el de la parte contraria;
 
 II.- Por abandonar la defensa de un cliente o negocio sin motivo justificado y causando daño;
 
@@ -1445,7 +1455,9 @@ En el caso de los dos anteriores artículos, no se procederá contra el sujeto a
 
 En el caso de que fuere Servidor Público, además se le destituirá de su cargo.
 
-Si el ofendido es persona menor de dieciséis años la pena se duplicará.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
+
+Si el ofendido es persona menor de dieciocho años, la pena se duplicará.
 
 Sólo se procederá en contra del sujeto activo a petición de parte ofendida o de su legítimo representante y dentro de los seis meses siguientes de producido el daño o perjuicio.
 
@@ -1577,8 +1589,6 @@ El abandono en perjuicio de menores de edad que no tuvieren otro u otros familia
 
 254.- Si del abandono resultare algún daño, ya sea muerte, lesiones o cualquier otro, se aplicarán las sanciones del delito preterintencional.
 
-TITULO DECIMOCUARTO
-
 ### CAPITULO UNICO. DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
 255.- Se impondrá prisión de tres meses a dos años y multa de cinco a quince cuotas:
@@ -1635,7 +1645,7 @@ IV.- Realizar en forma directa o encubierta una campaña de difamación.
 
 262.- Se impondrá de seis meses a dos años de prisión y multa de una a tres cuotas al que, sin motivo justificado, se introduzca o permanezca furtivamente o con engaños, o violencia, o sin permiso de la persona autorizada para darlo, a un departamento, vivienda, aposento o dependencia de una casa habitada.
 
-## TITULO DECIMO QUINTO. DELITOS CONTRA LA PAZ, LIBERTAD Y SEGURIDAD DE LAS PERSONAS
+## TITULO DECIMO CUARTO
 
 ### CAPITULO III. ASALTO
 
@@ -1677,7 +1687,9 @@ IV.- Cuando los plagiarios obren en grupo o banda.
 
 268.- Al que sustrajere o retuviere a una mujer por medio de la violencia física o moral, o del engaño, para satisfacer algún deseo erótico o para casarse, se le aplicarán de seis meses a seis años de prisión y multa de cinco a treinta cuotas.
 
-269.- Se impondrán las mismas sanciones que señala el artículo anterior, aún cuando no se empleen la violencia ni el engaño y consienta en el rapto la mujer, si ésta fuere menor de dieciséis años o cuando ella por cualquier causa no pudiere resistir. Cuando el raptor se case con la mujer ofendida, no se procederá contra él ni contra sus copartícipes, salvo que se declare nulo el matrimonio. Lo anterior no procede si la raptada es mujer casada.
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 1997)</small>
+
+269.- Se impondrán las mismas sanciones que señala el artículo anterior, aún cuando no se empleen la violencia ni el engaño y consienta en el rapto la mujer, si ésta fuere menor de dieciocho años o cuando ella por cualquier causa no pudiere resistir. Cuando el raptor se case con la mujer ofendida, no se procederá contra él ni contra sus copartícipes, salvo que se declare nulo el matrimonio. Lo anterior no tendrá efecto si la mujer es casada.
 
 270.- Se aplicará prisión de tres meses a un año y multa de cinco a diez cuotas a la mujer que por cualquiera de los medios señalados en el artículo 268 de este Código, raptare a un varón menor de dieciocho años.
 
@@ -1829,7 +1841,7 @@ III.- Cuando sean varias las lesiones, unas mortales y otras no y se ignore quie
 
 299.- Al responsable de homicidio calificado se le impondrán de dieciséis a treinta años de prisión y multa de veinte a sesenta cuotas.
 
-## TITULO DECIMO SEXTO. DELITOS CONTRA EL HONOR
+## TITULO DECIMO QUINTO. DELITOS CONTRA LA PAZ, LIBERTAD Y SEGURIDAD DE LAS PERSONAS
 
 ### CAPITULO III. REGLAS COMUNES PARA LOS DELITOS DE LESIONES Y HOMICIDIO
 
@@ -1871,7 +1883,7 @@ I.- Declarar a los reos sujetos a la vigilancia de la policía; y
 
 II.- Prohibirles ir a determinado lugar, municipio o distrito del Estado, o residir en él.
 
-## TITULO DECIMO OCTAVO. DELITOS CONTRA EL PATRIMONIO
+## TITULO DECIMO SEXTO. DELITOS CONTRA EL HONOR
 
 ### CAPITULO IV. DISPARO DE ARMA DE FUEGO Y ATAQUE PELIGROSO
 
@@ -2009,7 +2021,7 @@ Si además de las personas a que se refiere el párrafo anterior tuviere interve
 
 329.- Si precediere, acompañare o siguiere al robo algún otro hecho que por sí solo constituya un delito, se aplicarán las reglas del concurso.
 
-## TITULO DECIMO NOVENO. DELITOS CONTRA LA ECONOMIA PUBLICA Y CONTRA EL TRABAJO Y LA PREVISION SOCIAL
+## TITULO DECIMO OCTAVO. DELITOS CONTRA EL PATRIMONIO
 
 ### CAPITULO II. ABIGEATO
 
@@ -2235,7 +2247,9 @@ V.- Pagar los salarios de los trabajadores en tabernas, cantinas, prostíbulos o
 
 VI.- Obligar a los trabajadores a realizar jornadas sin descanso que excedan de once horas en las labores diurnas y de siete en las nocturnas;
 
-VII.- Imponer labores insalubres o peligrosas y trabajos nocturnos a las mujeres y a los jóvenes menores de dieciséis años;
+> <small>(REFORMADAP.O. 5 DE JULIO DE 1997)</small>
+
+VII.- Imponer labores insalubres o peligrosas y trabajos nocturnos a las mujeres y a los jóvenes menores de dieciocho años;
 
 VIII.- Violar sin causa justificada en perjuicio de los trabajadores, los convenios formalizados ante la Junta de Conciliación y Arbitraje, o ante los funcionarios o empleados de ésta que sean competentes para autorizar semejantes convenios; o
 
@@ -2337,7 +2351,7 @@ Se entenderá que el inculpado queda a disposición del juzgador, para los efect
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
-## TITULO VIGESIMO
+## TITULO DECIMO NOVENO. DELITOS CONTRA LA ECONOMIA PUBLICA Y CONTRA EL TRABAJO Y LA PREVISION SOCIAL
 
 ### CAPITULO III. DETENCION Y PRISION PREVENTIVA ILEGITIMA
 
@@ -2607,9 +2621,7 @@ V.- Sustraiga, destruya, oculte, altere algún expediente, paquete electoral u o
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE FEBRERO DE 1997)</small>
 
-## TITULO VIGESIMO PRIMERO. DELITOS CONTRA LA FUNCION PERSECUTORIA
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
+## TITULO VIGESIMO
 
 ### CAPITULO QUINTO. DE LOS DIRIGENTES PARTIDISTAS Y CANDIDATOS
 
@@ -2691,9 +2703,9 @@ III.- Propale noticias falsas en torno al desarrollo de la jornada electoral o r
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 6 DE MAYO DE 1995)</small>
 
-## TITULO VIGESIMO SEGUNDO. DELITOS CONTRA LAS GARANTIAS RECTORAS DEL JUICIO PENAL
+## TITULO VIGESIMO PRIMERO. DELITOS CONTRA LA FUNCION PERSECUTORIA
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO SEPTIMO. DE LOS ENCUESTADORES
 
@@ -2737,9 +2749,9 @@ VI.- Destine fondos, bienes o servicios que tenga a su disposición en virtud de
 
 Si para la comisión de cualquiera de los delitos previstos en este capítulo se utiliza violencia física contra personas, a las penas que correspondan se aumentarán de 1 a 2 años de prisión.
 
-## TITULO VIGESIMO TERCERO
+## TITULO VIGESIMO SEGUNDO. DELITOS CONTRA LAS GARANTIAS RECTORAS DEL JUICIO PENAL
 
-> <small>(ADICIONADO EL ARTICULO QUE LO INTEGRA, P.O.6 DE MAYO DE 1995)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 ## TITULO VIGESIMO TERCERO
 
@@ -2828,3 +2840,11 @@ P.O. 22 DE FEBRERO DE 1997.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 5 DE JULIO DE 1997.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1º. de enero de 1998.
+
+SEGUNDO.- Los menores de dieciocho años que se encuentren a disposición de autoridades del fuero común en prisión preventiva, sentenciados o cumpliendo una sanción privativa de libertad, serán trasladados a los lugares idóneos y puestos a disposición del Consejo Tutelar de Menores, sin demora, el mismo día en que entre en vigor el presente Decreto.
