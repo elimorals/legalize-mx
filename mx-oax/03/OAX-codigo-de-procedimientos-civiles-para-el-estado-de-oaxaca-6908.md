@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2001-09-15"
+last_updated: "2002-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 2002.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -4527,9 +4527,15 @@ Si tampoco se lograre la reconciliación y en el convenio quedaren bien garantiz
 
 En ambos casos, el Juez deberá resolver velando por el interés superior de los hijos.
 
+(ADICIONADO, P.O. 24 DE AGOSTO DE 2002) (F. DE E., P.O. 7 DE SEPTIEMBRE DE 2002)
+
 ###### Artículo 659.
 
-(DEROGADO, P.O. 7 DE FEBRERO DE 1998)
+Cuando los consortes convengan en divorciarse en los términos del artículo 284 del Código Civil y sean mayores de edad, no tengan hijos y no hubiere reclamo alguno respecto a bienes o hubieren convenido extrajudicialmente sobre la liquidación de la sociedad conyugal, se procederá como sigue:
+
+I. Hecha la solicitud, citará el tribunal a los cónyuges y al representante del Ministerio Público a una junta que se efectuará dentro de los ocho y antes de los quince días siguientes a la fecha de la presentación de su solicitud.
+
+II. En la junta a que se refiere la fracción que antecede, el juez los exhortará a procurar la reconciliación y si ésta no se lograra, dictará sentencia que declare disuelto el vínculo matrimonial.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 2001)</small>
 
@@ -6792,3 +6798,7 @@ P.O. 15 DE SEPTIEMBRE DE 2001.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los procedimientos de carácter civil que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
+
+P.O. 24 DE AGOSTO DE 2002.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial del Estado.
