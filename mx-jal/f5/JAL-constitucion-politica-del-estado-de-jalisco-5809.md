@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "1989-01-19"
+last_updated: "1989-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 1989.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -199,6 +199,8 @@ El Congreso tendrá cada año dos períodos ordinarios de sesiones; uno durará 
 
 ### CAPITULO CUARTO. De la Diputación Permanente
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1989)</small>
+
 ###### Art. 14.
 
 El Congreso, fuera de las fechas que señala el artículo anterior, celebrará periodos o sesiones extraordinarias, cuando fuere convocado al efecto por el Ejecutivo, o por la Diputación Permanente, debiendo ocuparse en ellos sólo de los asuntos para los cuales se haya hecho la convocatoria.
@@ -345,7 +347,7 @@ XXIII. Formar su Reglamento Interior y dictar las disposiciones necesarias para 
 
 ###### Art. 24.
 
-Durante el receso del Congreso habrá una Diputación Permanente compuesta de 5 miembros de aquel Cuerpo, como propietarios y tres como suplentes, electos en la forma y término que señala el Reglamento respectivo.
+Durante el receso del Congreso habrá una Diputación Permanente compuesta de 7 miembros de aquel cuerpo, como propietarios y de 5 como suplentes, electos en la forma y términos que señala la Ley Reglamentaria del Poder Legislativo.
 
 > <small>(REFORMADO, P.O. 9 DE JULIO DE 1983)</small>
 
@@ -1144,3 +1146,11 @@ Artículo Quinto.- Los conflictos laborales que actualmente se tramitan ante el 
 P.O. 19 DE ENERO DE 1989.
 
 Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco, una vez que haya sido aprobado por la mayoría de los Ayuntamientos del Estado de Jalisco, en los términos que disponen (sic) el Art. 66, de la Constitución Política Local.
+
+P.O. 10 DE OCTUBRE DE 1989.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA CONSTITUCION.
+
+Primero.- Este Decreto deroga las disposiciones que se opongan al mismo.
+
+Segundo.- La reforma al Art. 24 de la Constitución Política del Estado de Jalisco entrará en vigor tres días después de su publicación en el Periódico oficial El Estado de Jalisco.
