@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-libre-y-37195"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2004-02-11"
+last_updated: "2004-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE AGOSTO DE 2004.
 
 Código publicado en el Alcance a la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -179,9 +179,11 @@ VI. El Pleno del Tribunal Superior de Justicia.
 
 Los jueces de Comunidad sólo tendrán facultades para llevar a cabo las diligencias que les encomienden los de Primera Instancia, los Menores y los Municipales de su jurisdicción, así como para conocer en casos flagrantes o urgentes de los delitos que se cometan en su ámbito de competencia, a efecto de preservar las pruebas y asegurar a los responsables, a quienes pondrán inmediatamente a disposición del Ministerio Público del Municipio o del Distrito Judicial correspondiente.
 
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 17.
 
-Los jueces Municipales son competentes para conocer de los delitos que se cometan en el territorio de su jurisdicción y tengan como sanción amonestación, apercibimiento, caución de no ofender, multa que no exceda de cincuenta veces el salario mínimo general vigente y prisión hasta de dos años, así como de la tentativa de los ilícitos en cuestión, con excepción de los delitos previstos por los artículos 189, 196, 256, 284, 297, 329, 331 y 335 del Código Penal, que serán competencia de los juzgados menores, y de los señalados en los artículos 181, 303 y 325 fracción I, que serán competencia de los de Primera Instancia.
+Los jueces Municipales son competentes para conocer de los delitos que se cometan en el territorio de su jurisdicción y tengan como sanción la de prisión hasta de dos años, independientemente de cualquiera otra así como de la tentativa de esos ilícitos, con excepción de los previstos por los artículos 189, 196, 256, 284, 297, 329, 331 y 335 del Código Penal, que serán competencia de los juzgados menores, y de los señalados en los artículos 181, 303 y 325 fracción I, que serán competencia de los de Primera Instancia.
 
 ###### Artículo 18.
 
@@ -325,9 +327,11 @@ Los secretarios de los tribunales o del Ministerio Público cotejarán las copia
 
 Las actuaciones serán autorizadas inmediatamente por los servidores públicos a quienes corresponda firmarlas, dar fe o certificar el acto.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 42.
 
-Serán nulas las actuaciones en las que no se hayan cumplido las formalidades esenciales o garantías que la ley prevenga y se reclamarán dentro de los tres días siguientes a su emisión.
+Serán nulas las actuaciones judiciales en las que no se hayan cumplido las formalidades esenciales o garantías que la ley prevenga y se reclamarán dentro de los tres días siguientes a la fecha en que se tenga conocimiento de ellas.
 
 La nulidad se resolverá por el juez a petición de parte, se tramitará en vía incidental y originará la de las actuaciones que se deriven precisamente del acto anulado, pero no las de aquellas que no dependan de él.
 
@@ -755,9 +759,11 @@ Las resoluciones judiciales se tendrán por consentidas, cuando notificada la pa
 
 Las notificaciones se harán a más tardar el día siguiente a aquel en que se dicten las resoluciones que las motiven.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 114.
 
-Las resoluciones contra las que proceda el recurso de apelación serán notificadas personalmente a las partes.
+Las resoluciones contra las que proceda el recurso de apelación serán notificadas personalmente a las partes, al ofendido, a la víctima o su representante legal, en tratándose de la reparación del daño.
 
 Las demás resoluciones, con excepción de los autos que ordenen aprehensiones, cateos, providencias precautorias, aseguramientos y otras diligencias análogas respecto de las cuales el tribunal estime que debe guardarse sigilo para el éxito de la investigación, se notificarán al detenido o al procesado personalmente y a los demás en la forma señalada en este capítulo.
 
@@ -921,7 +927,9 @@ V. La única formalidad en el procedimiento de mediación será el levantamiento
 
 VI. Se considerará que la audiencia de mediación no cumplió su objeto cuando alguna de las partes, a pesar de estar legalmente notificada, no asiste a la audiencia. Si la que asistió pide que se libre un segundo citatorio, se acordará de conformidad y se mandará librarlo, con apercibimiento que de no comparecer, el trámite de mediación queda concluido y se continuará con el correspondiente a la investigación ministerial. Si en la audiencia no se llega a ningún acuerdo, concluida la diligencia y firmada el acta respectiva, se continuará el trámite ordinario de la investigación por el agente del Ministerio Público de origen; y
 
-VII. Si el inculpado reconoce de su libre y espontánea voluntad los hechos que se le imputan y cubre o garantiza la reparación del daño y el ofendido acepta los términos propuestos, se formulará el convenio respectivo del que se dará una copia a cada uno. El incumplimiento de lo pactado dará lugar a que se deje sin efecto el convenio de mediación y el agraviado podrá solicitar la tramitación consecuente de la investigación ministerial. El cumplimiento tendrá como efecto el archivo definitivo de la querella.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE AGOSTO DE 2004)</small>
+
+VII. Si el inculpado reconoce de su libre y espontánea voluntad los hechos que se le imputan y cubre o garantiza la reparación del daño y el ofendido acepta los términos propuestos, se formulará el convenio respectivo que traerá aparejada ejecución y del que se dará una copia a cada uno. El incumplimiento de lo pactado dará lugar a que el agraviado opte por exigir su cumplimiento en la vía que corresponda o que se deje sin efecto el convenio y solicitar se continué la tramitación de la investigación ministerial. El cumplimiento tendrá como efecto el archivo definitivo de la querella.
 
 Si el ofendido o el indiciado pertenecen a una comunidad indígena se les proveerá de un intérprete para el desahogo de la diligencia de mediación.
 
@@ -1755,9 +1763,11 @@ Los documentos redactados en idioma extranjero se presentarán originales, acomp
 
 Toda persona que tuviere que referirse a otra lo hará de un modo claro y preciso, mencionando, si le fuere posible, el nombre, apellidos, domicilio y demás circunstancias que puedan servir para identificarla.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 271.
 
-Cuando el que declare no pueda dar noticia exacta de la persona a quien se refiera, pero exprese que podrá reconocerla si se le presenta, el Ministerio Público procederá a la identificación y el tribunal a la confrontación (sic) justificar.
+Cuando el que declare no pueda dar noticia exacta de la persona a quien se refiera, pero exprese que podrá reconocerla si se le presenta, el Ministerio Público procederá a la identificación y el tribunal a la confrontación.
 
 Lo mismo se hará cuando el que declare asegure conocer a una persona y haya motivos para sospechar lo contrario o cuando lo solicite el inculpado o su defensor.
 
@@ -1853,9 +1863,13 @@ El juez o tribunal reconocerá el valor de las pruebas aportadas a la investigac
 
 El procedimiento sumario se tramitará de la manera siguiente:
 
-I. Al dictarse el auto de formal prisión o de sujeción a proceso el juez, de oficio, resolverá la apertura del procedimiento en los casos de delitos cuya pena privativa de libertad no exceda de dos años de prisión, sea o no alternativa, procurando cerrar la instrucción en el término de quince días y citando para la audiencia a que se refiere el artículo 296;
+> <small>(REFORMADA, G.O. 3 DE AGOSTO DE 2004)</small>
 
-II. Al dictarse el auto de formal prisión o de sujeción a proceso el juez, de oficio, resolverá la apertura del procedimiento en los casos de delitos cuya pena privativa de libertad exceda de dos años de prisión, sea o no alternativa, procurando cerrar la instrucción en el término de treinta días, cuando se esté en cualquiera de los casos siguientes:
+I. Al dictarse el auto de formal prisión o de sujeción a proceso, el juez resolverá de oficio la apertura del procedimiento en los casos de delitos cuya pena privativa de libertad no exceda de dos años de prisión, sea o no alternativa, procurando cerrar la instrucción en el término de quince días;
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE AGOSTO DE 2004)</small>
+
+II. Al dictarse el auto de formal prisión o de sujeción a proceso, el juez resolverá de oficio la apertura del procedimiento en los casos de delitos cuya pena privativa de libertad exceda de dos años de prisión, sea o no alternativa, procurando cerrar la instrucción en el término de treinta días, cuando se esté en cualquiera de los casos siguientes:
 
 a) Se trate de delito flagrante;
 
@@ -1865,7 +1879,9 @@ c) El término medio aritmético de la pena de prisión aplicable no exceda de c
 
 Una vez que el juzgador acuerde cerrar la instrucción citará para la audiencia a que se refiere el artículo 296; y
 
-III. Dictado el auto de formal prisión o de sujeción a proceso, si las partes manifiestan su conformidad dentro de los tres días siguientes a la notificación y no tienen más pruebas que ofrecer, el juez citará a la audiencia a que se refiere el artículo 296, salvo que considere necesario practicar otras diligencias.
+> <small>(REFORMADA, G.O. 3 DE AGOSTO DE 2004)</small>
+
+III. Dictado el auto de formal prisión o de sujeción a proceso, si las partes manifiestan su conformidad dentro de los tres días siguientes a la notificación y no tienen más pruebas que ofrecer, se continuará el procedimiento sumario en los términos establecidos en este Código.
 
 El inculpado podrá optar por el procedimiento ordinario dentro de los tres días siguientes al en que se le notifique la incoación del juicio sumario.
 
@@ -1877,9 +1893,11 @@ Si el auto de formal prisión se dicta a dos o más personas, únicamente se abr
 
 El acuerdo de apertura del procedimiento sumario se revocará para seguir el ordinario cuando así lo soliciten el inculpado o su defensor; en este último supuesto, será necesaria la ratificación de aquél dentro de los tres días siguientes a la notificación del auto relativo. De revocarse, se abrirán los términos del procedimiento ordinario previsto en el capítulo II de este Título.
 
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 282.
 
-Acordada la apertura del juicio sumario, se concederá, para el período de ofrecimiento de pruebas, un término común de cinco días, prorrogable hasta por cinco más si el juez lo estima conveniente.
+Acordada la apertura del juicio sumario, en los casos a que ser refiere la fracción I del artículo 279 de este Código, se concederá un término común de quince días, para el ofrecimiento y desahogo de pruebas y de treinta días en los de su fracción II.
 
 ###### Artículo 283.
 
@@ -1903,13 +1921,17 @@ Las resoluciones en el juicio sumario a que se refiere la fracción I del artíc
 
 ### CAPÍTULO II. PROCEDIMIENTO ORDINARIO
 
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 287.
 
-Dictado el auto de plazo constitucional se ordenará poner el proceso a la vista de las partes para que en el término de quince días, contado a partir del siguiente al de la notificación del auto, ofrezcan las pruebas que a sus intereses convengan, las que se desahogarán dentro de sesenta días.
+Dictado el auto de plazo constitucional se ordenará poner el proceso a la vista de las partes para que ofrezcan las pruebas que a sus intereses convengan, procurando desahogarlas conforme a lo dispuesto en los artículos 162 y 163 de este Código.
+
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 288.
 
-Transcurridos los términos a que se refiere el artículo anterior o si no se promoviere prueba, el juez declarará cerrada la instrucción y abrirá el período de juicio.
+Transcurridos los términos a que se refiere el artículo anterior o si no se promoviere prueba, el juez declarará cerrada la instrucción y abrirá el período de juicio, conforme a lo dispuesto en el párrafo segundo del artículo 163 de este Código.
 
 ## TÍTULO OCTAVO. JUICIO
 
@@ -2037,9 +2059,11 @@ Cuando se siga el procedimiento por dos o más delitos y por lo que toca a algun
 
 El sobreseimiento puede decretarse de oficio o a petición de parte. Se resolverá de plano cuando se decrete de oficio. Si fuere a petición de parte se tramitará por separado y en forma de incidente no especificado.
 
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 308.
 
-No podrá dictarse auto de sobreseimiento después de que se formulen conclusiones por el Ministerio Público, excepto en los casos de inacusación o desistimiento de la acción penal.
+No podrá dictarse auto de sobreseimiento después de que el Ministerio Público formule conclusiones acusatorias, excepto en caso de perdón judicial.
 
 ###### Artículo 309.
 
@@ -2065,17 +2089,21 @@ Quien tiene derecho de impugnar lo tiene para desistirse del recurso que interpo
 
 Cuando el inculpado, su defensor, el ofendido, la víctima o su representante legal manifiesten expresamente su inconformidad contra una resolución, se entenderá interpuesto el recurso que sea procedente. Si es errónea la elección del recurso que haga, se tendrá por interpuesto el que la ley autorice.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 313.
 
-La resolución que recaiga a los recursos podrá ser confirmación, revocación, anulación o modificación de la resolución combatida, según corresponda. Para ello, el tribunal que conozca de la impugnación examinará los motivos y fundamentos de la resolución que se combate, su adecuación a la ley aplicable, la apreciación que contenga acerca de los hechos a que se refiere y la debida observancia de las normas relativas a la admisión y valoración de las pruebas, así como el cumplimiento de las disposiciones relativas al desarrollo del procedimiento.
+La resolución que recaiga a los recursos podrá ser confirmación, revocación, o modificación de la resolución combatida, según corresponda. Para ello, el tribunal que conozca de la impugnación examinará los motivos y fundamentos de la resolución que se combate, su adecuación a la ley aplicable, la apreciación que contenga acerca de los hechos a que se refiere y la debida observancia de las normas relativas a la admisión y valoración de las pruebas, así como el cumplimiento de las disposiciones relativas al desarrollo del procedimiento.
 
 Cuando el tribunal que conozca de la impugnación revoque o anule la resolución combatida, dictará la que la substituya. Si se confirma, no habrá lugar a nueva resolución por parte de quien dictó la primera. Cuando sea modificada, la autoridad que conoce de la impugnación señalará los puntos que deban conservarse, los que no deben subsistir y los nuevos términos de los restantes, en su caso.
 
 La autoridad judicial que conozca de la impugnación recibirá el escrito de agravios de la parte recurrente y en su caso ordenará, conforme a su prudente arbitrio, las diligencias para mejor proveer.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 314.
 
-El juzgador estará obligado a resolver los agravios hechos valer por el recurrente. Cuando se trate del inculpado o su defensor, el juzgador suplirá la deficiencia, incluida su omisión. Cuando el recurrente sea el Ministerio Público, no habrá suplencia y el tribunal se ajustará a los agravios que éste formule.
+El juzgador estará obligado a resolver los agravios hechos valer por el recurrente. Cuando se trate del inculpado, o su defensor, el juzgador suplirá la deficiencia, incluida su omisión. La misma disposición es aplicable al ofendido, a la víctima o a su representante legal con relación a los recursos de inconformidad o de queja. Cuando el recurrente sea el Ministerio Público, no habrá suplencia y el tribunal se ajustará a los agravios que éste formule.
 
 Cuando la impugnación se interponga por el inculpado o su defensor, no podrá modificarse la resolución combatida en agravio de quien haya promovido.
 
@@ -2105,9 +2133,11 @@ El recurso de apelación tiene por objeto examinar si en la resolución recurrid
 
 La segunda instancia se abrirá a petición de parte legítima para resolver sobre los agravios que el apelante estime que le causa la resolución recurrida, sin perjuicio de que el tribunal de apelación supla la deficiencia de los agravios cuando el recurrente sea el acusado o siéndolo su defensor se advierta que no los hizo valer debidamente, en cuyo caso, el tribunal de alzada lo comunicará al Procurador General de Justicia del Estado para los efectos de su representación.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 3 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 320.
 
-Tienen derecho a apelar el Ministerio Público, el inculpado o su defensor y sólo para efectos de la reparación del daño el ofendido o su legítimo representante, en los términos establecidos por el artículo 20 constitucional.
+Tienen derecho a apelar el Ministerio Público, el inculpado o su defensor y sólo para efectos de la reparación del daño el ofendido, la víctima o su legítimo representante, en los términos establecidos por el artículo 20 constitucional.
 
 Son apelables en efecto devolutivo:
 
@@ -2117,15 +2147,21 @@ II. Los autos en los que se decrete el sobreseimiento, salvo por inacusación o 
 
 III. Los autos en que se niegue o conceda la suspensión del procedimiento judicial; los que concedan o nieguen la acumulación de autos; los que decreten la separación de autos y los que conceden o nieguen la recusación;
 
-IV. Los autos de formal prisión; los de sujeción a proceso y los de falta de elementos para procesar;
+> <small>(REFORMADA, G.O. 3 DE AGOSTO DE 2004)</small>
 
-V. Los autos en que se niegue o revoque la libertad provisional bajo caución y los que resuelvan algún incidente no especificado. Si la inconformidad versa únicamente sobre el monto de la caución en que se concedió la libertad, procede el recurso de revocación;
+IV. Los autos de formal prisión; los de sujeción o no sujeción a proceso y los de falta de elementos para procesar;
+
+> <small>(REFORMADA, G.O. 3 DE AGOSTO DE 2004)</small>
+
+V. Los autos en que se conceda, niegue o revoque la libertad provisional bajo caución y los que resuelvan algún incidente no especificado. Si la inconformidad versa únicamente sobre el monto de la caución en que se concedió la libertad, procede el recurso de revocación;
 
 VI. El auto que niegue la orden de aprehensión o la ratificación de la detención y el que niegue la citación para preparatoria. Estos autos sólo serán apelables por el Ministerio Público;
 
 VII. Los autos en que un tribunal se niegue a declarar su incompetencia por declinatoria o a librar el oficio inhibitorio, cuando estime que es competente;
 
-VIII. Los autos que nieguen el cateo, las medidas precautorias de carácter patrimonial o el arraigo del indiciado; y
+> <small>(REFORMADA, G.O. 3 DE AGOSTO DE 2004)</small>
+
+VIII. Los autos que nieguen las medidas precautorias de carácter patrimonial o el arraigo del indiciado; y
 
 IX. Las demás resoluciones que señale la ley.
 
@@ -2153,11 +2189,19 @@ Admitida la apelación en ambos efectos, dentro de cinco días se remitirá el o
 
 Cuando la apelación se admita en el efecto devolutivo se formará el testimonio de lo que las partes designen y de lo que el tribunal estime conveniente y se remitirá para los efectos de la alzada a más tardar dentro de quince días. Para formar el testimonio de apelación pueden emplearse máquinas fotocopiadoras u otras similares; las copias serán compulsadas y autorizadas por el secretario del juzgado.
 
+> <small>(ADICIONADO, G.O. 3 DE AGOSTO DE 2004)</small>
+
+Si el motivo de la apelación fuere un (sic) sentencia absolutoria, se tratará de un solo encausado o el estado de las actuaciones así lo permitan, podrán ser enviados al tribunal de alzada los autos originales de la causa penal de la que se deriva el fallo impugnado.
+
 Recibido el proceso o el testimonio en el tribunal de apelación, éste dentro del término de tres días declarará si el recurso ha sido bien o mal admitido. En el último caso, se devolverán los autos al juzgado de su origen.
+
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 324.
 
-Si el recurso fuere admitido, el tribunal pondrá los autos a vista del apelante, quien en el término de tres días podrá promover las pruebas que sean admisibles en la segunda instancia, las que de proceder se desahogarán en un término no mayor de diez días, sin contar los que se empleen en el correo. Si el apelante no promoviere pruebas dentro del término de seis días, contado desde la fecha en que se le dé vista, expresará agravios.
+Si el recurso fuere admitido en efecto devolutivo, el tribunal pondrá los autos a vista del apelante, para que en el término de tres días exprese agravios. Tratándose de sentencia absolutoria el Ministerio Público podrá ofrecer pruebas y formular sus agravios en los términos del párrafo siguiente.
+
+Si fuere admitido en ambos efectos, se pondrán los autos a la vista del apelante por el término de tres días para el ofrecimiento de pruebas, las que de proceder se desahogarán en un plazo de diez días, sin contar los que se empleen en el correo. Si el apelante no promoviere pruebas, dentro del término de seis días, contado desde la fecha en que se le dé vista, expresará agravios.
 
 ###### Artículo 325.
 
@@ -2167,19 +2211,23 @@ Recibidas las pruebas, contará el apelante con el término de diez días para f
 
 Si el tribunal de apelación, después de la citación para sentencia estima necesaria la práctica de alguna diligencia, la decretará para mejor proveer, desahogándola dentro del término de diez días.
 
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 326.
 
-Si solamente hubieren apelado el procesado o su defensor, no se podrá aumentar la sanción impuesta en la sentencia recurrida.
-
 Si se tratare de auto de formal prisión o de sujeción a proceso, podrá variarse la clasificación del delito y dictarse por el que aparezca probado.
+
+Si solamente hubieren apelado el sentenciado o su defensor, no se podrá aumentar la sanción impuesta en la sentencia recurrida.
 
 ###### Artículo 327.
 
 Cuando el acusado o su defensor no expresen agravios dentro del término legal, el tribunal de apelación tendrá por manifestada su inconformidad con la resolución recurrida en cuanto perjudique al acusado y continuará la tramitación del recurso.
 
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 328.
 
-Cuando el tribunal de apelación note que el defensor faltó a sus deberes por no haber interpuesto los recursos que procedían; por haber abandonado los interpuestos cuando de las constancias de autos aparezca que debían prosperar; por no haber alegado circunstancias probadas en el proceso y que habrían favorecido notablemente al inculpado; por haber alegado hechos no probados en autos o por no expresar agravios oportunamente, podrá imponerle una corrección disciplinaria o darle vista al Ministerio Público, si procede. Si el defensor es el de oficio, dará cuenta al Tribunal Superior de Justicia.
+Cuando el tribunal de apelación note que el defensor faltó a sus deberes por no haber interpuesto los recursos que procedían; por haber abandonado los interpuestos cuando de las constancias de autos aparezca que debían prosperar; por no haber alegado circunstancias probadas en el proceso y que habrían favorecido notablemente al inculpado; por haber alegado hechos no probados en autos o por no expresar agravios oportunamente, podrá imponerle una corrección disciplinaria o darle vista al Ministerio Público, si procede. Si el defensor es el de oficio, dará cuenta al órgano competente.
 
 ### CAPÍTULO IV. DENEGADA APELACIÓN
 
@@ -2225,9 +2273,11 @@ El juez que reciba el recurso, sin dilación alguna y bajo su estricta responsab
 
 La persona ofendida por un delito o quien presente la denuncia o la querella, podrán impugnar las resoluciones del Ministerio Público sobre la reserva de la investigación ministerial y el no ejercicio de la acción penal, mediante el recurso de queja que, por escrito y con expresión de agravios, deberán interponer ante el autor de aquéllas dentro del término de diez días, contado a partir de aquel en que surta sus efectos legales la notificación personal de la determinación impugnada.
 
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 338.
 
-El servidor público del Ministerio Público que reciba el recurso, junto con una copia autorizada del expediente relativo, lo remitirá dentro del término de tres días a la Sala Constitucional del Tribunal Superior de Justicia del Estado, para lo previsto en la fracción II del artículo 64 de la Constitución Política del Estado.
+El servidor público del Ministerio Público que reciba el recurso, junto con una copia autorizada del expediente relativo, previa audiencia del indiciado, lo remitirá dentro del término de cinco días hábiles a la Sala Constitucional del Tribunal Superior de Justicia del Estado, para lo previsto en la fracción II del artículo 64 de la Constitución Política del Estado.
 
 ###### Artículo 339.
 
@@ -2243,15 +2293,19 @@ La dilación en la remisión de las actuaciones o el cumplimiento de la resoluci
 
 ### CAPÍTULO VII. RECLAMACIÓN
 
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 342.
 
-El recurso de reclamación procede cuando los jueces no emitan sus resoluciones o no señalen la práctica de diligencias dentro de los términos y las formalidades que para ello señala este Código. Se interpondrá en cualquier momento por las partes mediante escrito ante el superior jerárquico.
+El recurso de reclamación procede cuando los jueces no emitan sus resoluciones o no señalen la práctica de diligencias dentro de los términos y las formalidades que para ello señala este Código. Se interpondrá por escrito en cualquier momento del proceso.
+
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 343.
 
-El tribunal admitirá el recurso y requerirá al omiso para que rinda un informe sobre la materia de la reclamación. Éste se producirá dentro de las cuarenta y ocho horas siguientes a partir de que se recibió el requerimiento; su falta establece la presunción de ser cierta la omisión atribuida y se sancionará con multa hasta de cien veces el salario.
+El tribunal admitirá el recurso dentro de las cuarenta y ocho horas siguientes a partir de que lo recibió, lo remitirá al superior jerárquico con un informe sobre la materia de la reclamación; de no hacerlo así se presumirá cierta la omisión atribuida y se sancionará con multa hasta de cien veces el salario.
 
-Transcurrido el término al que se refiere el párrafo anterior, el tribunal de alzada resolverá lo procedente aunque no hubiese recibido el informe del juez. Si se estima fundado el recurso requerirá al faltista para que cumpla inmediatamente con su obligación, apercibiéndolo de la sanción que corresponda si persiste el incumplimiento.
+Si el superior jerárquico estima fundado el recurso requerirá al juez para que cumpla de inmediato con su obligación; en caso de desacato le dará cuanta al Consejo de la Judicatura.
 
 ## TITULO UNDÉCIMO
 
@@ -2273,11 +2327,15 @@ IV. Que no se trate de un delito grave.
 
 Durante su investigación, el Ministerio Público fijará la caución conforme a lo dispuesto por este Código.
 
-Cuando se trate de personas que por el delito grave cometido no tengan derecho a la libertad provisional bajo caución y mediante sentencia que no haya causado estado se les imponga sanción privativa de la libertad, tendrán derecho a que se les otorgue este beneficio siempre y cuando la pena impuesta no exceda de cinco años.
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
+
+Cuando se trate de personas que por el delito grave cometido no tengan derecho a la libertad provisional bajo caución y mediante sentencia que no haya causado estado se les imponga sanción privativa de la libertad que no exceda de cinco años, tendrán derecho a que se les otorgue este beneficio por el tribunal de alzada.
+
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 345.
 
-Cuando proceda la libertad caucional, inmediatamente que sea solicitada se decretará en la misma pieza de autos.
+Cuando proceda la libertad caucional, se decretará inmediatamente que sea solicitada.
 
 ###### Artículo 346.
 
@@ -2301,9 +2359,11 @@ V. La naturaleza de la garantía que se ofrezca.
 
 Si el inculpado, su representante o su defensor no manifiestan expresamente la naturaleza de la caución que ofrecen, el tribunal, de conformidad con el artículo que antecede, fijará las cantidades que correspondan a cada una de las formas de la caución.
 
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 349.
 
-La caución consistente en depósito en efectivo se hará por el inculpado o terceras personas ante las oficinas autorizadas del lugar en que tenga jurisdicción el servidor público que la hubiere acordado, de conformidad con las disposiciones legales aplicables. El certificado de depósito correspondiente se guardará en la caja de valores del juzgado o tribunal, asentándose constancia de ello en autos. Cuando por razón de la hora o por ser día inhábil no pueda constituirse el depósito en las oficinas autorizadas, el juez o tribunal podrá recibir la cantidad en efectivo y la mandará depositar en aquéllas a primera hora del siguiente día hábil.
+La caución consistente en depósito en efectivo se otorgará por el inculpado o terceras personas ante las oficinas autorizadas del lugar en que tenga jurisdicción el servidor público que la hubiere acordado, de conformidad con las disposiciones legales aplicables. El certificado de depósito correspondiente se guardará en la caja de valores de la autoridad investigadora, del juzgado o tribunal, asentándose constancia de ello en autos. Cuando por razón de la hora o por ser día inhábil no pueda constituirse el depósito en las oficinas autorizadas, el juez o tribunal podrá recibir la cantidad en efectivo y la mandará depositar en aquéllas a primera hora del siguiente día hábil.
 
 ###### Artículo 350.
 
@@ -2355,9 +2415,11 @@ II. Si el tercero pide que se le releve de la obligación y presenta al inculpad
 
 Si el tercero no pudiera presentarlo desde luego, el tribunal podrá otorgarle un término hasta de treinta días para que lo haga, sin perjuicio de librar la orden de aprehensión si lo estima oportuno. Si concluido el término concedido no se obtiene la comparecencia del inculpado, se ordenará su reaprehensión y se hará efectiva la garantía.
 
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 356.
 
-Cuando proceda la revocación de la libertad caucional, se mandará reaprehender al inculpado y la caución se hará efectiva, a cuyo efecto el tribunal enviará el certificado de depósito o el testimonio de la hipoteca a la autoridad fiscal para su cobro.
+Revocada la libertad caucional, se mandará reaprehender al inculpado y la caución se hará efectiva, a cuyo efecto el tribunal enviará el certificado de depósito o el testimonio de la hipoteca al Consejo de la Judicatura para su cobro.
 
 ###### Artículo 357.
 
@@ -2441,11 +2503,11 @@ II. Sin haber aparecido datos posteriores de responsabilidad, se desvanezcan por
 
 Para resolver el incidente de referencia, hecha la petición por el interesado el tribunal citará a una audiencia dentro del término de cinco días, en la que oirá a las partes y sin más trámite dictará la resolución que proceda dentro de setenta y dos horas.
 
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 367.
 
 La conformidad del Ministerio Público no implica el desistimiento de la acción penal. En consecuencia, el tribunal puede negar la libertad a pesar de la petición favorable de aquél.
-
-La resolución es apelable en el efecto devolutivo.
 
 ###### Artículo 368.
 
@@ -2465,13 +2527,17 @@ III. Se haya condenado al inculpado por homicidio y se presente la supuesta víc
 
 IV. El reo fue condenado por los mismos hechos en dos juicios diversos.
 
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 370.
 
-El sentenciado que se considere con derecho al reconocimiento de su inocencia acudirá por escrito ante el Tribunal Superior de Justicia, acompañando las pruebas de su pretensión u ofreciendo hacerlo en la audiencia. El sentenciado designará a su defensor en este procedimiento. Si no lo hace, el tribunal le nombrará un defensor de oficio.
+El sentenciado que se considere con derecho al reconocimiento de su inocencia acudirá por escrito ante el tribunal de alzada, acompañando las pruebas de su pretensión u ofreciendo hacerlo en la audiencia. El sentenciado designará a su defensor en este procedimiento; si no lo hiciere, el tribunal le nombrará un defensor de oficio.
+
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 371.
 
-Dentro de los cinco días siguientes a la presentación de la solicitud, el Tribunal Superior de Justicia pedirá el expediente del proceso, citará al Ministerio Público, al solicitante y a su defensor, así como al ofendido o a su representante legal a una audiencia que se llevará a cabo dentro de los cinco días siguientes al recibo del expediente. En ella se desahogarán las pruebas ofrecidas por el promovente y se escuchará a éste, al ofendido y al Ministerio Público.
+Dentro de los cinco días siguientes a la presentación de la solicitud, el tribunal de alzada pedirá el expediente del proceso, citará al Ministerio Público, al solicitante y a su defensor, así como al ofendido o a su representante legal a una audiencia que se llevará a cabo dentro de los cinco días siguientes al recibo del expediente. En ella se desahogarán las pruebas ofrecidas por el promovente y se escuchará a éste, al ofendido y al Ministerio Público.
 
 ###### Artículo 372.
 
@@ -2551,9 +2617,11 @@ Los magistrados y jueces deben excusarse en los asuntos en que intervengan, por 
 
 Las causas de impedimento no se pueden dispensar por voluntad de las partes.
 
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 389.
 
-El impedimento se calificará por el superior a quien correspondería juzgar de una recusación, en vista del informe que dentro de tres días rinda el juez o magistrado. Contra la resolución que se dicte no cabe recurso alguno.
+El impedimento de un Juez lo calificará su superior jerárquico; el de un magistrado, la sala de su adscripción. La resolución que se emita se hará en vista del informe que dentro de tres días rinda el juez o magistrado. Contra la resolución que se dicte no cabe recurso alguno.
 
 ###### Artículo 390.
 
@@ -2601,9 +2669,11 @@ Si la resolución fuere afirmativa y la causa se hubiere fundado en hechos que n
 
 Concluido el término probatorio, dentro de las cuarenta y ocho horas siguientes se pronunciará la resolución contra la que no procederá recurso alguno.
 
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 400.
 
-Cuando se deseche la recusación se impondrá al promovente una multa de hasta cinco días de salario.
+Cuando se deseche la recusación se impondrá al promovente una multa de hasta de cien días de salario.
 
 ###### Artículo 401.
 
@@ -2809,9 +2879,11 @@ II. Si el tribunal lo creyere necesario o alguna de las partes lo pidiere, se ab
 
 Concurran o no las partes, el tribunal dictará la resolución del incidente como corresponda en derecho.
 
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 433.
 
-También se tramitará como incidente no especificado la solicitud de los sentenciados para que se les aplique ley posterior favorable, en los casos de supresión de un tipo penal o modificación de la naturaleza, duración, cuantía o modalidades de la sanción impuesta. Si el sentenciado la promueve ante la autoridad ejecutora, ésta de inmediato la comunicará al juez para que se abra de oficio el incidente.
+Se tramitará como incidente no especificado la solicitud de los sentenciados para que se les aplique ley posterior favorable, en los casos de modificación de la naturaleza, duración, cuantía o modalidad de la sanción impuesta. Si el sentenciado la promueve ante la autoridad ejecutora, ésta de inmediato la comunicará al juez para que se abra de oficio el incidente.
 
 ### CAPÍTULO VIII. PROCEDIMIENTOS EN LOS CASOS DE INIMPUTABLES, ENFERMOS MENTALES Y FARMACODEPENDIENTES
 
@@ -2877,15 +2949,19 @@ El Ministerio Público actuará como lo previene el artículo anterior siempre q
 
 Pronunciada una sentencia condenatoria irrevocable, el tribunal que la dicte remitirá, dentro de tres días, dos testimonios de ella a la Procuraduría General de Justicia, la que enviará al órgano autorizado por el Ejecutivo uno de los testimonios.
 
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
+
 ###### Artículo 444.
 
-El Ministerio Público solicitará de los tribunales que se envíe a la autoridad fiscal correspondiente copia autorizada de la sentencia en que se impuso la sanción pecuniaria para que la haga efectiva. El legitimado para recibir el importe de la reparación del daño tiene derecho de pedir al tribunal que cumpla esta prevención, así como que promueva ante la autoridad fiscal respectiva todo lo necesario para el fin indicado.
+El Ministerio Público solicitará de los tribunales que se envíe al Consejo de la Judicatura copia autorizada de la sentencia en que se impuso la sanción pecuniaria para que la haga efectiva. El legitimado para recibir el importe de la reparación del daño tiene derecho de pedir al tribunal que cumpla esta prevención, así como que promueva ante la autoridad fiscal respectiva todo lo necesario para el fin indicado.
+
+> <small>(REFORMADO, G.O. 3 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 445.
 
-Efectuado el pago de la sanción pecuniaria, en todo o en parte, la autoridad fiscal, dentro del improrrogable término de tres días, pondrá la cantidad correspondiente a la reparación del daño a disposición del tribunal, el que hará comparecer a quien tenga derecho a ella para hacerle entrega inmediata de su importe. El pago de la reparación del daño será preferente a cualquier otra sanción pecuniaria.
+Efectuado el pago de la sanción pecuniaria, en todo o en parte, el Consejo de la Judicatura, dentro del improrrogable término de tres días, pondrá la cantidad correspondiente a la reparación del daño a disposición del tribunal, el que hará comparecer a quien tenga derecho a ella para hacerle entrega inmediata de su importe. El pago de la reparación del daño será preferente a cualquier otra sanción pecuniaria.
 
-El tribunal podrá aplicar a la autoridad fiscal el medio de apremio que estime necesario para que dé cumplimiento a la obligación que le impone este artículo. El Ministerio Público cuidará que se cumpla cabalmente esta disposición.
+El Ministerio Público cuidará que se cumpla cabalmente esta disposición.
 
 ###### Artículo 446.
 
@@ -2990,3 +3066,9 @@ G.O. 11 DE FEBRERO DE 2004.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 3 DE AGOSTO DE 2004.
+
+Primero. El presente Decreto entrará en vigora los quince días de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
