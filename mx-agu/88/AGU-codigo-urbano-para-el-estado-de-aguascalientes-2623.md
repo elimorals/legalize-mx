@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-2623"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-05-29"
-last_updated: "1995-06-04"
+last_updated: "2001-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2001.
 
 Código publicado en la Sección Primera del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -791,95 +791,23 @@ La Comisión del Patrimonio Cultural es un órgano público de consulta y decisi
 
 ###### ARTICULO 36.
 
-La Comisión del Patrimonio Cultural se integrará por:
-
-I.- Un Presidente, que será el Gobernador Constitucional del Estado;
-
-II.- Un Secretario Técnico, que será designado por el C. Gobernador Constitucional del Estado;
-
-III.- Los Presidentes Municipales cuando se traten asuntos relacionados con sus Municipios;
-
-IV.- Un representante de las siguientes dependencias y entidades de la administración pública estatal:
-
-a) Secretaría de Obras Públicas.
-
-b) Secretaría de Desarrollo Social.
-
-c) Comité de Planeación para el Desarrollo del Estado.
-
-d) Instituto de Educación del Estado.
-
-e) Instituto Cultural de Aguascalientes.
-
-f) Archivo Histórico del Estado.
-
-V.- Un representante de las siguientes dependencias y entidades de la administración pública federal:
-
-a) Secretaría de Desarrollo Social.
-
-b) Secretaría de Turismo.
-
-c) Instituto Nacional de Antropología e Historia.
-
-VI.- Un representante por cada una de las cámaras, colegios, asociaciones y organizaciones de los sectores privado y social, que a juicio de la Comisión deban integrarse a la misma, en virtud de que sus actividades incidan en el patrimonio cultural del Estado; y
-
-VII.- Un representante de cada uno de los Comités Municipales de Desarrollo Urbano y Rural, cuando se traten asuntos relacionados con sus municipios.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ###### ARTICULO 37.
 
-Por cada representante se designarán un suplente que lo sustituirá en sus faltas. El Secretario Técnico suplirá las faltas del Presidente de la Comisión del Patrimonio Cultural.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ###### ARTICULO 38.
 
-Los Presidentes Municipales y los Comités Municipales de Desarrollo Urbano y Rural, contarán con voto en las sesiones de la Comisión, en aquellos casos en que se proyecten o resuelvan acciones, obras y servicios dentro de sus respectivas jurisdicciones.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ###### ARTICULO 39.
 
-Las decisiones de la Comisión del Patrimonio Cultural se tomarán por mayoría de votos del 50% más uno de los asistentes y cada uno de sus integrantes tendrá voz y voto, a excepción del caso previsto en el artículo anterior.
-
-Para la validez legal de las sesiones se requerirá la presencia del 50% más uno de los miembros.
-
-El Presidente de la Comisión tendrá voto de calidad, en caso de empate.
-
-El reglamento interior que para el efecto expida la Comisión del Patrimonio Cultural, a propuesta de su Presidente, normará la organización y el funcionamiento interno de la misma.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ###### ARTICULO 40.
 
-La Comisión del Patrimonio Cultural, tendrá las siguientes atribuciones:
-
-I.- Emitir opinión ante la autoridad municipal que deba de autorizar la colocación de anuncios, rótulos, postes, arreglo de fachadas y de cualquier otra índole, en los términos de este Código;
-
-II.- Conocer los planos y proyectos para la realización de las obras a que se refiere la fracción anterior, para efectos de su autorización;
-
-III.- Apoyar a las autoridades en la elaboración de las disposiciones necesarias y la ejecución de las obras correspondientes para la protección de la arquitectura en general y, en particular, de los edificios, calles, callejones y demás lugares análogos, que por su valor artístico o histórico, por su carácter natural y cultural, su tradición o por cualquier otra circunstancia deban conservarse, o mejorarse, a fin de proteger su carácter típico o tradicional;
-
-IV.- Solicitar a la autoridad correspondiente se ordene la suspensión provisional de las obras que no reúnan las condiciones requeridas o cuando se ejecuten sin las autorizaciones y requisitos que el presente Código establece;
-
-V.- Proponer la declaratoria correspondiente cuando un centro de población, calle, edificio o construcción sea de valor histórico, tríptico, arqueológico, artístico o tradicional, con el fin de integrarlo al catálogo respectivo;
-
-VI.- Determinar el tipo de construcciones que deban edificarse, demolerse o modificarse según las zonas en que se dividan los centros de población y atendiendo al valor de éstas;
-
-VII.- Emitir opinión sobre las autorizaciones o negativas de permisos para el establecimiento de comercios, industrias y talleres en zonas típicas, históricas y en lugares de valor natural y cultural;
-
-VIII.- Proponer al Ayuntamiento el retiro de anuncios, rótulos y letreros que se encuentren adosados o en saliente con respecto a la fachada; así como el retiro de postes, transformadores e instalaciones de cualquier otra índole que afecten la imagen de un inmueble del patrimonio cultural;
-
-IX.- Coordinar las acciones relativas al patrimonio cultural, previstas en los programas de desarrollo urbano;
-
-X.- Proponer a la instancia correspondiente la clausura de la industria o taller que se establezca en zonas del patrimonio cultural, históricas y en lugares de valor natural, sin contar previamente con la autorización correspondiente;
-
-XI.- Ordenar visitas de inspección a los monumentos y edificios, a fin de determinar su estado y la manera de atender su protección, conservación y mejoramiento, así como para tomar datos descriptivos, dibujos, fotografías, planos u otros trabajos que estime necesarios;
-
-XII.- Vigilar la ejecución de las obras materiales u otros trabajos que se hayan autorizado en los monumentos, edificios, zonas del patrimonio cultural;
-
-XIII.- Promover con los propietarios de edificios y construcciones el arreglo, limpieza de cantera o pintura de las fachadas de sus predios, a fin de proteger la imagen urbana;
-
-XIV.- Llevar el registro público estatal del patrimonio cultural;
-
-XV.- Aplicar las medidas de seguridad y sanciones que se establezcan en este Código, en el ámbito de su competencia;
-
-XVI.- Elaborar el reglamento a que se sujetarán las acciones, obras y servicios que se lleven a cabo en las zonas declaradas del patrimonio cultural del Estado; y
-
-XVII.- Las demás que le señalen este Código y otras disposiciones jurídicas aplicables.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ###### ARTICULO 41.
 
@@ -3111,163 +3039,117 @@ j) En los lugares en que llamen intensamente la atención de los conductores y p
 
 k) En los cerros, rocas, árboles, bordos de ríos o presas, etc., y en cualquier otro lugar en que puedan afectar la perspectiva panorámica o la armonía del paisaje.
 
+> <small>(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)</small>
+
 ## TITULO QUINTO. DEL PATRIMONIO CULTURAL
+
+> <small>(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)</small>
 
 ### CAPITULO II. De la Comisión del Patrimonio Cultural del Estado
 
 ###### ARTICULO 255.
 
-Se declara la utilidad pública e interés social, la investigación, protección, conservación, restauración, mejoramiento, recuperación e identificación del patrimonio cultural del Estado.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ###### ARTICULO 256.
 
-El patrimonio cultural del Estado, se integra por:
-
-I.- Construcciones civiles y religiosas;
-
-II.- Obras escultóricas;
-
-III.- Pinturas murales;
-
-IV.- Equipamiento urbano tradicional;
-
-V.- Lugares de belleza natural;
-
-VI.- Zonas y monumentos arqueológicos, artísticos e históricos;
-
-VII.- Vías públicas y puentes típicos;
-
-VIII.- Plazas y zonas típicas;
-
-IX.- Nomenclaturas;
-
-X.- Símbolos urbanos; y
-
-XI.- Otras obras o lugares similares que tengan valor social, cultural, técnico y urbanístico.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ###### ARTICULO 257.
 
-Para efectos del presente Código se entenderá por:
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
-I.- Monumentos arqueológicos: los bienes muebles e inmuebles producto de culturas anteriores al establecimiento de la hispánica en el territorio del Estado, así como los restos humanos, de la flora y de la fauna, relacionados con esas culturas;
-
-II.- Monumentos artísticos: las obras que revisten valor estético relevante;
-
-III.- Monumentos históricos: los bienes vinculados con la historia de la Nación a partir del establecimiento de la cultura hispánica en el Estado, en los términos de la declaratoria respectiva por determinación de la Ley Federal sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricos;
-
-IV.- Zonas Típicas: aquellas áreas que por su aspecto peculiar contienen un número significativo de elementos de carácter cultural, los símbolos urbanos, como los edificios, infraestructura y equipamiento de valor ambiental, conservando, por tanto, las características propias de su momento histórico y artístico;
-
-V.- Lugares de belleza natural: los sitios cuyas características de flora o fauna requieran de conservación y mejoramiento;
-
-VI.- Inventario: el catálogo de los bienes muebles e inmuebles clasificados por su relevancia arqueológica, artística, histórica, cultural y natural en el Estado.
+> <small>(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)</small>
 
 ### CAPITULO III. De la Conservación y Mejoramiento del Patrimonio Cultural
 
 ###### ARTICULO 258.
 
-La aplicación y vigilancia de las disposiciones contenidas en este Título, estarán a cargo de la Comisión del Patrimonio Cultural, en coordinación con la Secretaría de Educación Pública, la Secretaría de Desarrollo Social, el Consejo Nacional para la Cultura y las Artes, el Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, de acuerdo con sus respectivas competencias.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ###### ARTICULO 259.
 
-Las atribuciones que ejerza el Estado y los Ayuntamientos para la conservación y mejoramiento del patrimonio cultural, se sujetarán a lo dispuesto en la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos y demás disposiciones jurídicas aplicables.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ###### ARTICULO 260.
 
-La Comisión del Patrimonio Cultural coordinará las acciones de conservación y mejoramiento relativas al patrimonio cultural, previstas en los programas de desarrollo urbano aplicables, a fin de:
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
-I.- Articular las acciones e inversiones de las dependencias y entidades del sector público, encargadas de la conservación y mejoramiento del patrimonio cultural en el Estado, para el mejor aprovechamiento de los recursos disponibles;
-
-II.- Unificar los criterios técnicos, jurídicos y administrativos, así como de coordinación y concertación de acciones e inversiones; y
-
-III.- Analizar y evaluar los programas de conservación y mejoramiento en zonas y monumentos del patrimonio cultural en el Estado.
+> <small>(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)</small>
 
 ### CAPITULO IV. Del Registro del Patrimonio Cultural del Estado
 
 ###### ARTICULO 261.
 
-No podrán edificarse, modificarse o demolerse, restaurarse o rehabilitarse, ningún monumento, inmueble, infraestructura, equipamiento o instalación que haya sido identificado como parte del patrimonio cultural, sin la previa autorización de la Comisión del Patrimonio Cultural.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ###### ARTICULO 262.
 
-Los interesados que pretendan llevar a cabo alguna de las obras a que se refiere el artículo anterior, tramitarán ante la Comisión de Patrimonio Cultural la autorización correspondiente, acompañando los planos, especificaciones y detalles de construcción que les requiera la misma.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ###### ARTICULO 263.
 
-El Ayuntamiento no expedirá licencia de construcción, remodelación, ampliación o demolición en las zonas declaradas del patrimonio cultural, sin antes cerciorarse de que se cuenten con dicha autorización. Una vez recibida la solicitud con los documentos requeridos conforme lo establece el artículo anterior, la Comisión del Patrimonio Cultural emitirá la resolución correspondiente en un plazo no mayor de 30 días naturales.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ###### ARTICULO 264.
 
-La Comisión del Patrimonio Cultural, en coordinación con la SEDESO y los Ayuntamientos, vigilará que los interesados ejecuten las obras conforme a lo establecido en la autorización correspondiente y de acuerdo con las disposiciones jurídicas aplicables.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ###### ARTICULO 265.
 
-La Comisión del Patrimonio Cultural desechará la solicitud cuando:
-
-I.- Se pretenda levantar construcciones cuya arquitectura no armonice con la fisonomía propia de la calle, zona, contexto urbano o en general del centro de población donde pretendan edificarse;
-
-II.- Se pretendan emplear en las fachadas existentes dentro de las zonas del patrimonio cultural, materiales que no sean los apropiados de acuerdo al reglamento que para tal efecto formule la Comisión del Patrimonio Cultural del Estado; no pudiendo quedar aparentes obras hechas de ladrillo, metal, de concreto o de cualquier otro material que no sea piedra, cantera o aplanado de cal;
-
-III.- Se pretenda construir en las zonas típicas, ventanas cuya anchura exceda a su altura, o sea de tipo apaisado u horizontal, debiendo estar circundadas por marcos de cantera regional;
-
-IV.- Se pretenda invadir la vía pública, construyendo vanos, entrantes o salientes, fuera de los del tipo ordinario en la arquitectura tradicional de cada centro de población; o cualesquiera otras construcciones provisionales o permanentes, si con ella deterioran la imagen típica de la población; y
-
-V.- Se afecten símbolos urbanos o lugares de belleza natural.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ###### ARTICULO 266.
 
-La Comisión del Patrimonio Cultural ordenará la suspensión y, en su caso, demolición, de las obras descritas en el artículo anterior, cuando éstas no cuenten con la autorización correspondiente.
-
-Las atribuciones de la Comisión señaladas en el párrafo anterior, no son excluyentes de las que le confiere este Código a la SEDESO y a los Ayuntamientos u otras disposiciones jurídicas a la Federación.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ###### ARTICULO 267.
 
-La Comisión del Patrimonio Cultural, en coordinación con las autoridades federales competentes, supervisará las obras de conservación y mejoramiento de un bien declarado monumento histórico, arqueológico o artístico en el Estado.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
+
+> <small>(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)</small>
 
 ### CAPITULO I. Fraccionamientos
 
 ###### ARTICULO 268.
 
-Los propietarios de bienes muebles o inmuebles declarados monumentos históricos o artísticos, deberán realizar las obras que procedan para su conservación y mejoramiento; en caso de no hacerlo, la efectuará la autoridad competente, con cargo al propietario.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ###### ARTICULO 269.
 
-Las personas a que se refiere el artículo anterior, que mantengan conservados y restaurados los bienes inmuebles que formen parte del patrimonio cultural del Estado, en los términos de la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos y de este Código, podrán solicitar la exención de impuestos prediales correspondientes, con base en el dictamen técnico que expida la Comisión del Patrimonio Cultural.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ###### ARTICULO 270.
 
-Será necesaria la autorización de la Comisión del Patrimonio Cultural, para el establecimiento de talleres o industrias de cualquier índole en zonas típicas; la que sólo se concederá cuando se cumpla con las condiciones impuestas en la propia autorización para que los talleres o industrias que se establezcan no den mal aspecto a la zona, ni molesten a los vecinos.
-
-La autorización a que se refiere el párrafo anterior, está condicionada a las constancias de compatibilidad urbanística que expidan las autoridades competentes con base en este Código.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ###### ARTICULO 271.
 
-Cuando un taller o industria, se establezca sin la autorización correspondiente en una zona declarada del patrimonio cultural o no cumpla con las condiciones que le hayan sido impuestas, la Comisión del Patrimonio Cultural directamente o a través del Ayuntamiento o la SEDESO, podrá proceder a la clausura del mismo.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ###### ARTICULO 272.
 
-Se crea el Registro Estatal del Patrimonio Cultural dependiente de la Comisión del Patrimonio Cultural, a fin de inscribir y catalogar las zonas y monumentos del patrimonio cultural del Estado para su adecuado control y para fomentar su conservación y mejoramiento.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ###### ARTICULO 273.
 
-Las personas físicas o morales, públicas o privadas, deberán inscribir en el Registro Estatal los bienes de su propiedad que hayan sido catalogados como del patrimonio cultural del Estado.
-
-La inscripción en el Registro del Patrimonio Cultural del Estado, es independiente de cualquier otra de carácter federal o local que señale la legislación aplicable.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ###### ARTICULO 274.
 
-Los bienes inmuebles declarados patrimonio cultural, deberán inscribirse además en el Registro Público de la Propiedad y del Comercio del Estado.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ###### ARTICULO 275.
 
-La inscripción en los registros se efectuará de oficio o a petición de la parte interesada; para proceder a la inscripción de oficio, se notificará previamente a la parte interesada en forma personal; en caso de ignorarse su nombre o domicilio surtirá efecto de notificación su publicación en el Periódico Oficial del Estado.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ###### ARTICULO 276.
 
-Los actos traslativos de dominio sobre bienes inmuebles del patrimonio cultural, deberán constar en escritura pública; quien trasmita el dominio, deberá manifestar bajo protesta de decir verdad, si el bien materia de la operación forma parte del patrimonio cultural del Estado.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ###### ARTICULO 277.
 
-Los notarios públicos en los actos, contratos o convenios sobre la propiedad o posesión de bienes inmuebles que protocolicen, deberán señalar en su caso, la característica de patrimonio cultural de un inmueble que haya sido catalogado como tal y dará aviso a la Comisión del Patrimonio Cultural de la operación inmobiliaria que se celebre, dentro de un plazo de 30 días naturales, a partir de que se suscriba la escritura en el protocolo respectivo.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ## TITULO SEXTO. DEL FRACCIONAMIENTO, RELOTIFICACION, FUSION Y SUBDIVISION DE TERRENOS
 
@@ -6607,15 +6489,7 @@ Se considerarán, entre otras, como autoridades competentes para adoptar y ejecu
 
 ###### ARTICULO 673.
 
-La Comisión del Patrimonio Cultural, independientemente de las sanciones que establezca la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, podrá imponer las sanciones administrativas establecidas en este Código, de acuerdo a las siguientes bases:
-
-I.- A quien dañe o destruya bienes declarados del patrimonio cultural del Estado, independientemente de la responsabilidad civil o penal en que incurra;
-
-II.- A quien efectúe cualquier acto traslativo de dominio de un bien declarado del patrimonio cultural sin registrarlo;
-
-III.- A los propietarios de inmuebles declarados del patrimonio cultural, que por dolo, mala fe o negligencia, propicien la destrucción o deterioro del bien de su propiedad; y
-
-IV.- Al perito de la obra que realice cualquier tipo de trabajo en bienes del patrimonio cultural del Estado, sin contar con la previa autorización, de acuerdo a lo previsto en este Código.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY DE PROTECCION Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES, P.O. 2 DE JULIO DE 2001)
 
 ###### ARTICULO 674.
 
@@ -7064,3 +6938,23 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 4 DE JUNIO DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE JULIO DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor a los noventa días naturales siguientes a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Decreto número 60 del 12 de junio de 1944, publicado el 18 de junio de 1944 en el Periódico Oficial.
+
+TERCERO.- Se abroga la Ley sobre Protección y Conservación de Monumentos y Bellezas Naturales, publicada en el Periódico Oficial del Gobierno del Estado el día 17 de mayo de 1931.
+
+CUARTO.- Se derogan los Artículos 36, 37, 38, 39, 40 y 673, así como el Título Quinto del Código Urbano del Estado de Aguascalientes.
+
+QUINTO.- El Consejo de la Crónica deberá conformarse a más tardar el día 31 de diciembre de 2001, a fin de iniciar sus funciones al día siguiente. Asimismo deberá emitir su Estatuto Orgánico a más tardar a los sesenta días naturales de estar en funcionamiento.
+
+SEXTO.- El Consejo Consultivo a que se refiere el presente decreto, se integrará a más tardar a los treinta días siguientes a la entrada en vigor del mismo.
+
+SEPTIMO.- Los Ayuntamientos deberán conformar el Consejo Cultural Honorífico en los términos de la presente Ley, en un plazo no mayor de treinta días contados a partir de la publicación de la presente Ley.
+
+OCTAVO.- El Registro Público de la Propiedad y del Comercio, de acuerdo con lo establecido en el presente decreto, deberá habilitar una sección quinta que se denomine del Registro Público del Patrimonio Cultural del Estado así como los procedimientos administrativos aplicables.
+
+NOVENO.- Las disposiciones reglamentarias de la presente Ley deberán expedirse dentro de los ciento ochenta días contados a partir de la entrada en vigor de este ordenamiento.
