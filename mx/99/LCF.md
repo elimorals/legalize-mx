@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "1999-12-31"
+last_updated: "2000-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 27 de diciembre de 1978.
 
@@ -46,9 +46,9 @@ Esta Ley tiene por objeto coordinar el sistema fiscal de la Federación con los 
 
 Cuando en esta Ley se utilice la expresión "entidades", ésta se referirá a los Estados y al Distrito Federal.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-La Secretaría de Hacienda y Crédito Público celebrará convenio con los Estados que soliciten adherirse al Sistema Nacional de Coordinación Fiscal que establece esta Ley. Dichos Estados y el Distrito Federal participarán en el total de impuestos federales y en los otros ingresos que señale esta Ley mediante la distribución de los fondos que en la misma se establecen.
+La Secretaría de Hacienda y Crédito Público celebrará convenio con las Entidades que soliciten adherirse al Sistema Nacional de Coordinación Fiscal que establece esta Ley. Dichas Entidades participarán en el total de los impuestos federales y en los otros ingresos que señale esta Ley mediante la distribución de los fondos que en la misma se establecen.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -236,7 +236,7 @@ La distribución de la reserva de contingencia comenzará con la entidad que ten
 
 El coeficiente de participación efectiva a que se refiere el párrafo anterior será el que resulte de dividir las participaciones efectivamente percibidas por cada entidad, entre el total de las participaciones pagadas en el ejercicio de que se trate.
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE D 1990)</small>
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 De la reserva a que se refiere el primer párrafo de este artículo, los Estados participarán a su (sic) municipios, como mínimo, una cantidad equivalente a la proporción que represente el conjunto de participaciones a sus municipios del total de participaciones de la entidad. En el conjunto de participaciones a los municipios, no se incluirán aquéllas a que se refieren las fracciones I y II del artículo 2o-A de esta Ley.
 
@@ -268,9 +268,9 @@ La Federación entregará las participaciones a los municipios por conducto de l
 
 Los municipios recibirán como mínimo el 20% de la recaudación que corresponda al Estado en los términos del penúltimo y último párrafos del artículo 2o. de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-Las participaciones serán cubiertas en efectivo, no en obra, sin condicionamiento alguno y no podrán ser objeto de deducciones, salvo lo dispuesto en el artículo 9o. de esta Ley. Los Gobiernos de los Estados publicarán, cuando menos una vez al año, en el Diario Oficial de la entidad, y en uno de los periódicos de mayor circulación de la misma, las participaciones que correspondan, durante un año, a cada uno de sus Municipios.
+Las participaciones serán cubiertas en efectivo, no en obra, sin condicionamiento alguno y no podrán ser objeto de deducciones, salvo lo dispuesto en el artículo 9o. de esta Ley. Los Gobiernos de las Entidades, quince días después de que la Secretaría de Hacienda y Crédito Público publique en el Diario Oficial de la Federación el calendario de entrega, porcentaje y monto, estimados a que está obligada conforme al penúltimo párrafo del artículo 3o. de esta Ley, deberán publicar en el Periódico Oficial de la Entidad los mismos datos antes referidos, de las participaciones estimadas que entregarán a los Municipios o Demarcaciones Territoriales, derivadas de las participaciones que las Entidades reciban y de las que tengan obligación de participar a sus Municipios o Demarcaciones Territoriales. También deberán publicar trimestralmente el importe de las participaciones entregadas y, en su caso, el ajuste realizado al término de cada ejercicio fiscal. La Secretaría de Hacienda y Crédito Público publicará en el Diario Oficial de la Federación la lista de las Entidades que incumplan con esta disposición.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -338,17 +338,23 @@ La Federación, a través de la Secretaría de Hacienda y Crédito Público, los
 
 ### CAPITULO II. Del Sistema Nacional de Coordinación Fiscal
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 10.
 
-Los Estados que deseen adherirse al Sistema Nacional de Coordinación Fiscal para recibir las participaciones que establezca esta Ley, lo harán mediante convenio que celebren con la Secretaría de Hacienda y Crédito Público, que deberá ser autorizado o aprobado por su Legislatura. También, con autorización de la Legislatura podrán dar por terminado el convenio.
+Las Entidades que deseen adherirse al Sistema Nacional de Coordinación Fiscal para recibir las participaciones que establezca esta Ley, lo harán mediante convenio que celebren con la Secretaría de Hacienda y Crédito Público, que deberá ser autorizado o aprobado por su legislatura. También, con autorización de la legislatura podrán dar por terminado el convenio.
 
-La Secretaría de Hacienda y Crédito Público y el Gobierno del Estado de que se trate, ordenarán la publicación en el "Diario Oficial" de la Federación y en el Periódico Oficial del Estado, respectivamente, del convenio celebrado, por el cual el Estado se adhiera; del acto por el que se separe del sistema; y de los decretos de la Legislatura del Estado por los cuales se autoricen o aprueben dichos actos, que surtirán efectos a partir del día siguiente a la publicación que se efectúe en último lugar.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+La Secretaría de Hacienda y Crédito Público y el Gobierno de la Entidad de que se trate, ordenarán la publicación en el Diario Oficial de la Federación y en el Periódico Oficial de la Entidad, respectivamente, del convenio celebrado, por el cual la Entidad se adhiera; del acto por el que se separe del sistema; y de los decretos de la Legislatura de la Entidad por los cuales se autoricen o se aprueben dichos actos, que surtirán efectos a partir del día siguiente a la publicación que se efectúe en último lugar.
 
 La adhesión al Sistema Nacional de Coordinación Fiscal deberá llevarse a cabo integralmente y no sólo en relación con algunos de los ingresos de la Federación.
 
-El Distrito Federal queda incorporado al Sistema Nacional de Coordinación Fiscal.
+> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-Los Estados que no deseen adherirse al Sistema Nacional de Coordinación Fiscal, participarán en los impuestos especiales a que se refiere el inciso 5o. de la fracción XXIX, del artículo 73 constitucional, en los términos que establecen las leyes respectivas.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+Las Entidades que no deseen adherirse al Sistema Nacional de Coordinación Fiscal, participarán en los impuestos especiales a que se refiere el inciso 5o. de la fracción XXIX, del artículo 73 constitucional, en los términos que establecen las leyes respectivas.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -424,19 +430,17 @@ Para los efectos de coordinación con las Entidades, se considerarán derechos, 
 
 También se considerarán como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aun cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-El Distrito Federal queda coordinado en esta materia.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 10-B.
 
-Los Estados podrán no coordinarse en derechos sin perjuicio de continuar adheridos al Sistema Nacional de Coordinación Fiscal.
+Las Entidades podrán no coordinarse en derechos sin perjuicio de continuar adheridas al Sistema Nacional de Coordinación Fiscal.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-La Secretaría de Hacienda y Crédito Público hará la declaratoria de los Estados que no tienen establecido o suspendan el cobro de los derechos a que se refiere el artículo anterior y que, por lo tanto, están coordinados en esta materia, la cual se publicará en el Periódico Oficial del Estado y en el Diario Oficial de la Federación.
+La Secretaría de Hacienda y Crédito Público hará la declaratoria de las Entidades que no tienen establecido o suspendan el cobro de los derechos a que se refiere el artículo anterior y que, por lo tanto, están coordinadas en esta materia, la cual se publicará en el Periódico Oficial de la Entidad y en el Diario Oficial de la Federación.
 
 > <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -482,17 +486,19 @@ III.- El plazo para resolver el recurso será de un mes a partir de la fecha en 
 
 IV.- La resolución podrá ordenar a la Tesorería de la Federación la devolución de las cantidades indebidamente cobradas, con cargo a las participaciones de la entidad. A estas devoluciones les será aplicable lo que al respecto establece el Código Fiscal de la Federación.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA POR LA FRACCION III DEL ARTICULO DECIMO PRIMERO DE LAS DISPOSICIONES TRANSITORIAS DE LA LEY ORGANICA DEL TRIBUNAL FISCAL DE LA FEDERACION, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-La resolución podrá ser impugnada ante el Tribunal Fiscal de la Federación por los promoventes del recurso.
-
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+La resolución podrá ser impugnada ante el Tribunal Federal de Justicia Fiscal y Administrativa por los promoventes del recurso.
 
 Las entidades federativas podrán ocurrir ante la Suprema Corte de Justicia de la Nación, en los términos del artículo 12 de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 12.
 
-El Estado inconforme con la declaratoria por la que se considera que deja de estar adherido al Sistema Nacional de Coordinación Fiscal podrá ocurrir ante la Suprema Corte de Justicia de la Nación, conforme al artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y de la Ley Orgánica del Poder Judicial Federal, demandando la anulación de la declaratoria que se haya dictado conforme al artículo anterior de esta Ley.
+La Entidad inconforme con la declaratoria por la que se considera que deja de estar adherida al Sistema Nacional de Coordinación Fiscal podrá ocurrir ante la Suprema Corte de Justicia de la Nación, conforme al artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y de la Ley Orgánica del Poder Judicial Federal, demandando la anulación de la declaratoria que se haya dictado conforme al artículo anterior de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 Desde la admisión de la demanda se suspenderán los efectos de la declaratoria impugnada, por 150 días. El fallo de la Suprema Corte de Justicia de la Nación producirá efectos 30 días después de su publicación en el "Diario Oficial" de la Federación.
 
@@ -504,23 +510,17 @@ En caso de que la Secretaría de Hacienda y Crédito Público infringiera las di
 
 ### CAPITULO III. De la Colaboración Administrativa Entre las Entidades y la Federación
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 13.
 
-El Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y los Gobiernos de los Estados que se hubieran adherido al Sistema Nacional de Coordinación Fiscal, podrán celebrar convenios de coordinación en materia de administración de ingresos federales, que comprenderán las funciones de registro federal de contribuyentes, recaudación, fiscalización y administración, que serán ejercidas por las autoridades fiscales de las entidades o de los Municipios cuando así se pacte expresamente.
+El Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y los Gobiernos de las Entidades que se hubieran adherido al Sistema Nacional de Coordinación Fiscal, podrán celebrar convenios de coordinación en materia de administración de ingresos federales, que comprenderán las funciones de Registro Federal de Contribuyentes, recaudación, fiscalización y administración, que serán ejercidas por las autoridades fiscales de las Entidades o de los Municipios cuando así se pacte expresamente.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+En los convenios a que se refiere este artículo se especificarán los ingresos de que se trate, las facultades que ejercerán y las limitaciones de las mismas. Dichos convenios se publicarán en el Periódico Oficial de la Entidad y en el Diario Oficial de la Federación, y surtirán sus efectos a partir de las fechas que en el propio convenio se establezcan o, en su defecto, a partir del día siguiente de la publicación en el Diario Oficial de la Federación.
 
-En los convenios a que se refiere este artículo se especificarán los ingresos de que se trate, las facultades que ejercerán y las limitaciones de las mismas. Dichos convenios se publicarán en el periódico oficial del Estado y en el Diario Oficial de la Federación, y surtirán sus efectos a partir de las fechas que en el propio convenio se establezcan o, en su defecto, a partir del día siguiente de la publicación en el Diario Oficial de la Federación.
+La Federación o la Entidad podrán dar por terminados parcial o totalmente los convenios a que se refiere este precepto, terminación que será publicada y tendrá efectos conforme al párrafo anterior.
 
-La Federación o el Estado podrán dar por terminados parcial o totalmente los convenios a que se refiere este precepto, terminación que será publicada y tendrá efectos conforme al párrafo anterior.
-
-El Ejecutivo Federal, mediante acuerdo, coordinará a la Secretaría de Hacienda y Crédito Público y al Departamento del Distrito Federal, en las materias a que este precepto se refiere. Las facultades que se otorguen al Departamento del Distrito Federal serán ejercidas por las autoridades fiscales del mismo.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
-
-En los convenios y en el acuerdo señalado en este precepto, se fijarán las percepciones que recibirán las Entidades o sus Municipios, por las actividades de administración fiscal que realicen.
+En los convenios señalados en este precepto se fijarán las percepciones que recibirán las Entidades o sus Municipios, por las actividades de administración fiscal que realicen.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -596,7 +596,9 @@ II.- Establecer, en su caso, las aportaciones ordinarias y extraordinarias que d
 
 III.- Fungir como asamblea general del Instituto para el Desarrollo Técnico de las Haciendas Públicas y aprobar sus presupuestos y programas.
 
-IV.- Proponer al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público y a los gobiernos de los Estados, por conducto del titular de su órgano hacendario, las medidas que estime convenientes para actualizar o mejorar el Sistema Nacional de Coordinación Fiscal.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+
+IV.- Proponer al Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público y a los Gobiernos de las Entidades por conducto del titular de su órgano hacendario, las medidas que estime convenientes para actualizar o mejorar el Sistema Nacional de Coordinación Fiscal.
 
 ###### ARTICULO 20.
 
@@ -642,9 +644,9 @@ II.- Preparar los proyectos de distribución de aportaciones ordinarias y extrao
 
 III.- Fungir como consejo directivo del Instituto para el Desarrollo Técnico de las Haciendas Públicas y formular informes de las actividades de dicho Instituto y de la propia Comisión Permanente, que someterá a la aprobación de la Reunión Nacional.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-IV.- Vigilar la creación e incremento de los Fondos señalados en esta Ley, su distribución entre las Entidades y las liquidaciones anuales que de dichos Fondos formule la Secretaría de Hacienda y Crédito Público, así como vigilar la determinación, liquidación y pago de participaciones a los Municipios que de acuerdo con esta Ley debe efectuar la Secretaría de Hacienda y Crédito Público y los Estados.
+IV.- Vigilar la creación e incremento de los fondos señalados en esta Ley, su distribución entre las Entidades y las liquidaciones anuales que de dichos fondos formule la Secretaría de Hacienda y Crédito Público, así como vigilar la determinación, liquidación y pago de participaciones a los Municipios que de acuerdo con esta Ley deben efectuar la Secretaría de Hacienda y Crédito Público y las Entidades;
 
 V.- Formular los dictámenes técnicos a que se refiere el artículo 11 de esta Ley.
 
@@ -714,9 +716,9 @@ II.- Fondo de Aportaciones para los Servicios de Salud;
 
 III.- Fondo de Aportaciones para la Infraestructura Social;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
-IV.- Fondo de Aportaciones para el Fortalecimiento de los Municipios;
+IV.- Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal;
 
 > <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -874,9 +876,17 @@ I. Fórmula:
 
 En donde:
 
-Pjw = Brecha respecto a la norma de pobreza extrema de la necesidad básica w para el hogar j en estudio;
+Pjw = Brecha respecto a la norma
 
-b1, …,5 = Ponderador asociado a la necesidad básica w; y
+de pobreza extrema de la
+
+necesidad básica w para el
+
+hogar j en estudio;
+
+b1,…,5 = Ponderador asociado a la
+
+necesidad básica w; y
 
 J = Hogar en estudio.
 
@@ -924,9 +934,13 @@ En donde:
 
 MCEk = Masa Carencial del Estado k;
 
-MCHjk = Masa Carencial del Hogar j en pobreza extrema en el Estado k; y,
+MCHjk = Masa Carencial del Hogar j en
 
-jk = Número total de hogares pobres extremos en el Estado k.
+pobreza extrema en el Estado k; y,
+
+jk = Número total de hogares pobres
+
+extremos en el Estado k.
 
 Una vez determinada la Masa Carencial Estatal, se hace una agregación similar de todos los Estados para obtener la Masa Carencial Nacional.
 
@@ -972,29 +986,37 @@ Los Estados, con base en los lineamientos anteriores y previo convenio con la Se
 
 Los Estados deberán entregar a sus respectivos Municipios los recursos que les corresponden conforme al calendario de enteros en que la Federación lo haga a los Estados, en los términos del penúltimo párrafo del artículo 32 de la presente Ley. Dicho calendario deberá comunicarse a los gobiernos municipales por parte de los gobiernos estatales y publicarse por estos últimos a más tardar el día 31 de enero de cada ejercicio fiscal, en su respectivo órgano de difusión oficial.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 36.
 
-El Fondo de Aportaciones para el Fortalecimiento de los Municipios se determinará anualmente en el Presupuesto de Egresos de la Federación con recursos federales, por un monto equivalente, sólo para efectos de referencia, al 2.35 por ciento de la recaudación federal participable a que se refiere el artículo 2o. de esta Ley, según estimación que de la misma se realice en el propio presupuesto, con base en lo que al efecto establezca la Ley de Ingresos de la Federación para ese ejercicio. Este Fondo se enterará mensualmente por partes iguales a los Municipios, por conducto de los Estados, de manera ágil y directa sin más limitaciones ni restricciones, incluyendo aquellas de carácter administrativo, que las correspondientes a los fines que se establecen en el artículo 37 de esta Ley; al efecto, los gobiernos estatales deberán publicar en sus respectivos órganos oficiales de difusión los montos que corresponda a cada municipio por concepto de este fondo, así como el calendario de ministración, a más tardar el 31 de enero de cada año.
+El Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal se determinará anualmente en el Presupuesto de Egresos de la Federación con recursos federales, por un monto equivalente, sólo para efectos de referencia, como sigue:
+
+a).- Con el 2.35% de la recaudación federal participable a que se refiere el artículo 2o. de esta Ley, según estimación que de la misma se realice en el propio presupuesto, con base en lo que al efecto establezca la Ley de Ingresos de la Federación para ese ejercicio. Este Fondo se enterará mensualmente por partes iguales a los Municipios, por conducto de los Estados, de manera ágil y directa sin más limitaciones ni restricciones, incluyendo aquellas de carácter administrativo, que las correspondientes a los fines que se establecen en el artículo 37 de este ordenamiento; y
+
+b).- Al Distrito Federal y a sus Demarcaciones Territoriales, los fondos correspondientes les serán entregados en la misma forma que al resto de los Estados y Municipios, pero calculados como el 0.2123% de la recaudación federal participable, según estimación que de la misma se realice en el propio presupuesto, con base en lo que al efecto establezca la Ley de Ingresos de la Federación para ese ejercicio.
+
+Al efecto, los Gobiernos Estatales y del Distrito Federal deberán publicar en sus respectivos órganos oficiales de difusión los montos que corresponda a cada Municipio o Demarcación Territorial por concepto de este Fondo, así como el calendario de ministraciones, a más tardar el 31 de enero de cada año.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 Para efectos del entero a que se refiere el párrafo anterior no procederán los anticipos a que se refiere el segundo párrafo del artículo 7o. de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 37.
 
-Las Aportaciones Federales que con cargo al Fondo de Aportaciones para el Fortalecimiento de los Municipios, reciban los mismos a través de los Estados, se destinarán exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes. Respecto de las aportaciones que reciban con cargo al Fondo a que se refiere este artículo, los Municipios tendrán las obligaciones a que se refieren las fracciones I a III del artículo 33 de esta Ley.
+Las aportaciones federales que con cargo al Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, reciban los Municipios a través de los Estados, y las Demarcaciones Territoriales por conducto del Distrito Federal, se destinarán exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes. Respecto de las aportaciones que reciban con cargo al Fondo a que se refiere este artículo, los Municipios y las Demarcaciones Territoriales del Distrito Federal tendrán las mismas obligaciones a que se refieren las fracciones I y III del artículo 33 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 38.
 
-El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, distribuirá el Fondo de Aportaciones para el Fortalecimiento de los Municipios en proporción directa al número de habitantes con que cuente cada Estado, de acuerdo a la información estadística más reciente que al efecto emita el Instituto Nacional de Estadística, Geografía e Informática.
+El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, distribuirá el Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal a que se refiere el inciso a) del artículo 36 de esta Ley, en proporción directa al número de habitantes con que cuente cada Entidad Federativa, de acuerdo con la información estadística más reciente que al efecto emita el Instituto Nacional de Estadística, Geografía e Informática.
 
-Los Estados a su vez distribuirán los recursos que correspondan a sus Municipios, atendiendo estrictamente a los mismos criterios a que se refiere el párrafo anterior.
+Para el caso de las Demarcaciones Territoriales del Distrito Federal, su distribución se realizará conforme al inciso b) del artículo 36 antes señalado; el 75% correspondiente a cada Demarcación Territorial será asignado conforme al criterio del factor de población residente y el 25% restante al factor de población flotante de acuerdo con las cifras publicadas por el Instituto Nacional de Estadística, Geografía e Informática.
+
+Las Entidades a su vez distribuirán los recursos que correspondan a sus Municipios y las Demarcaciones Territoriales del Distrito Federal, en proporción directa al número de habitantes con que cuente cada uno de los Municipios y Demarcaciones Territoriales antes referidos.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1529,3 +1551,31 @@ D.O.F. 31 DE DICIEMBRE DE 1999.
 ## TRANSITORIO
 
 Único. La presente Ley entrará en vigor el 1o. de enero de 2000.
+
+D.O.F. 31 DE DICIEMBRE DE 2000.
+
+## Transitorios
+
+PRIMERO.- El presente Decreto entrará en vigor el 1o. de enero de 2001, con las excepciones que se establecen en el artículo siguiente.
+
+SEGUNDO.- En tanto entra en vigor en el Distrito Federal el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal que al efecto sean celebrados por el Gobierno del Distrito Federal y la Secretaría de Hacienda y Crédito Público, así como la declaratoria de coordinación en derechos que dicte la propia Secretaría, continuarán vigentes las disposiciones y acuerdos siguientes:
+
+a) El último párrafo del artículo 1o. de la Ley de Coordinación Fiscal.
+
+b) El penúltimo párrafo del artículo 10 de la Ley de Coordinación Fiscal.
+
+c) El último párrafo del artículo 10-A de la Ley de Coordinación Fiscal.
+
+d) El cuarto y quinto párrafos del artículo 13 de la Ley de Coordinación Fiscal.
+
+e) El Acuerdo a la Secretaría de Hacienda y Crédito Público y al Departamento del Distrito Federal para su Coordinación en Impuestos Federales, publicado en el Diario Oficial de la Federación de 28 de diciembre de 1979.
+
+f) Anexo al Acuerdo a la Secretaría de Hacienda y Crédito Público y al Departamento del Distrito Federal para su Coordinación en Impuestos Federales, publicado en el Diario Oficial de la Federación de 28 de diciembre de 1979.
+
+g) El Acuerdo que Modifica y Adiciona el Acuerdo a la Secretaría de Hacienda y Crédito Público y al Departamento del Distrito Federal para su Coordinación en Impuestos Federales, publicado en el Diario Oficial de la Federación de 9 de septiembre de 1981.
+
+h) El artículo Primero Transitorio del Acuerdo a la Secretaría de Hacienda y Crédito Público y al Departamento del Distrito Federal para la Colaboración Administrativa de este último en Materia Fiscal Federal, publicado en el Diario Oficial de la Federación de 21 de diciembre de 1983.
+
+i) El Acuerdo a la Secretaría de Hacienda y Crédito Público y al Departamento del Distrito Federal para la Colaboración Administrativa de este último en Materia Fiscal Federal, publicado en el Diario Oficial de la Federación de 23 de mayo de 1997.
+
+TERCERO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al presente Decreto.
