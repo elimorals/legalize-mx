@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-tramite-de-solicitudes-de-reembolso-por-1074
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-04-28"
-last_updated: "2000-05-16"
+last_updated: "2003-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10743&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1997-03-25"
 
 REGLAMENTO PARA EL TRAMITE DE SOLICITUDES DE REEMBOLSO POR LA PRESTACION DE SERVICIOS MEDICOS EXTRAINSTITUCIONALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE MAYO DE 2000.
+> <small>N. DE E. EL PRESENTE REGLAMENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA EL TRAMITE DE SOLICITUDES DE REEMBOLSO POR LA PRESTACION DE SERVICIOS MEDICOS EXTRAINSTITUCIONALES, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 17 DE DICIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 28 de abril de 1997.
 
@@ -468,3 +470,17 @@ SEGUNDO.- Las presentes Reformas, Adiciones y Derogación, entrarán en vigor al
 TERCERO.- Las solicitudes que se encuentren pendientes de dictaminación, resolución, notificación y reembolso a la fecha de entrada en vigor de las presentes modificaciones, serán substanciadas por el Comité Técnico, en los términos del Reglamento antes de las reformas.
 
 CUARTO.- Modifíquese en lo conducente, los Manuales de Integración y Funcionamiento del Comité y Subcomité Técnico de Dictaminación, y de las Comisiones Dictaminadoras Delegacionales de Solicitudes de Reembolso, así como el Manual de Procedimientos para el Trámite de Solicitudes de Reembolso por Prestaciones de Servicios Médicos Extrainstitucionales.
+
+D.O.F. 17 DE DICIEMBRE DE 2003.
+
+REGLAMENTO PARA EL TRAMITE DE SOLICITUDES DE REEMBOLSO POR LA PRESTACION DE SERVICIOS MEDICOS EXTRAINSTITUCIONALES.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el anterior Reglamento para el Trámite de Solicitudes de Reembolso por la Prestación de Servicios Médicos Extrainstitucionales, expedido por la H. Junta Directiva del ISSSTE, mediante acuerdo número 16.1226.97 publicado en el Diario Oficial de la Federación el 28 de abril de 1998, así como sus reformas aprobadas mediante acuerdo 30.1258.2000 publicado en el citado Diario el 16 de mayo de 2000.
+
+TERCERO.- Las solicitudes de reembolso que se encuentren en trámite y pendientes de dictaminación y notificación a la fecha de entrada en vigor del presente reglamento, serán substanciadas por el Comité o la Comisión, conforme al ordenamiento anterior.
+
+CUARTO.- Expídase los Manuales de Procedimientos para el Trámite de Solicitudes de Reembolso por la Prestación de Servicios Médicos Extrainstitucionales y de Integración y Funcionamiento del Comité y Subcomité Técnico de Dictaminación y de la Comisión Dictaminadora Delegacional de Solicitudes de Reembolso.
+
+QUINTO.- El Manual de Procedimientos para el Trámite de Solicitudes de Reembolso por la Prestación de Servicios Médicos Extrainstitucionales y el de Integración y Funcionamiento, vigentes antes de la entrada en vigor de este nuevo ordenamiento, se aplicarán en lo conducente hasta en tanto se expidan los nuevos Manuales.
