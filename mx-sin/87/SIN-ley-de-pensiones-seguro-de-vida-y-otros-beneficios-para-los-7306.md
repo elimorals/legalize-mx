@@ -1,0 +1,148 @@
+---
+title: "LEY DE PENSIONES, SEGURO DE VIDA Y OTROS BENEFICIOS PARA LOS VETERANOS DE LA REVOLUCION"
+identifier: "SIN-ley-de-pensiones-seguro-de-vida-y-otros-beneficios-para-los-7306"
+country: "mx"
+rank: "ley"
+publication_date: "1962-01-30"
+last_updated: "1962-01-30"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7306&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-sin"
+scjn_id: "7306"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "13"
+reform_count: "2"
+scjn_last_update: "2010-10-01"
+issue_date: "1962-01-24"
+state: "SIN"
+---
+# LEY DE PENSIONES, SEGURO DE VIDA Y OTROS BENEFICIOS PARA LOS VETERANOS DE LA REVOLUCION
+
+LEY DE PENSIONES, SEGURO DE VIDA Y OTROS BENEFICIOS PARA LOS VETERANOS DE LA REVOLUCION
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el martes 30 de enero de 1962.
+
+EL C. GRAL. DE DIV. GABRIEL LEYVA VELAZQUEZ, Gobernador Constitucional del Estado Libre y Soberano de Sinaloa, a sus habitantes hace saber:
+
+Que por el H. Congreso del mismo se le ha comunicado lo siguiente:
+
+El H. Congreso del Estado Libre y Soberano de Sinaloa, representado por su XLIII Legislatura, ha tenido a bien expedir el siguiente:
+
+DECRETO NÚMERO 265
+
+Ley de Pensiones, Seguro de Vida y Otros Beneficios para los Veteranos de la Revolución
+
+###### Artículo 1o.
+
+El Estado de Sinaloa, en justo reconocimiento del mérito de quienes tomaron parte activa en la Revolución Mexicana, otorga en su favor las prestaciones establecidas en esta Ley.
+
+###### Artículo 2o.
+
+Las prestaciones de esta Ley se establecen en beneficio de los Veteranos de la Revolución, entendiéndose por tales a las personas que:
+
+a). Prestaron servicio activo a la Revolución Mexicana entre el 19 de noviembre de 1910 y el 5 de febrero de 1917, siempre que el servicio se hubiese prestado en campaña o en cooperación estrecha con la misma; y
+
+b). Hayan sido reconocidos como Veteranos de la Revolución por la Secretaría de la Defensa Nacional.
+
+###### Artículo 3o.
+
+Para tener derecho a los beneficios de esta Ley se requiere:
+
+I. Haber nacido en el Estado de Sinaloa, o en su defecto tener una residencia en el Estado de cuando menos cinco años al entrar en vigor esta Ley si los padres del beneficiario son nativos del Estado o de diez años en caso contrario. Los no nativos perderán los beneficios que se les hubiese otorgado con fundamento en esta Ley al perder su residencia.
+
+II. Llevar una conducta honesta y decorosa.
+
+###### Artículo 4o.
+
+No tendrán derecho a los beneficios de esta Ley, quienes hayan servido al régimen del Gral. Victoriano Huerta.
+
+###### Artículo 5o.
+
+Los beneficios otorgados por esta Ley a los Veteranos de la Revolución, son los siguientes:
+
+I. Pensión vitalicia.
+
+II. Seguro de vida.
+
+III. Servicio médico-quirúrgico gratuito en las instituciones oficiales del Estado, incluyendo hospitalización y medicamentos.
+
+IV. Derecho de preferencia para obtener del Estado o de sus Municipios, cuando estas Entidades tengan a su disposición los bienes respectivos y el peticionario carezca de ellos.
+
+a). Un lote en zona agrícola o ganadera para el establecimiento de granjas; o
+
+b). Un lote en Zona urbana para edificar su casa habitación;
+
+El Estado o los Municipios, en su caso, harán cesión gratuita de tales terrenos.
+
+###### Artículo 6o.
+
+Los hijos de los Veteranos con derecho a los beneficios de esta Ley serán preferidos, en igualdad de condiciones, en el otorgamiento de becas hasta de $100.00 mensuales, que conceda el Estado o los Municipios.
+
+###### Artículo 7o.
+
+Las pensiones y demás beneficios que se establecen en esta Ley, serán pagados con cargo a la partida respectiva que deberá establecerse en las correspondientes Leyes de Egresos.
+
+###### Artículo 8o.
+
+Quienes teniendo derecho a los beneficios de esta Ley, pretendan se les concedan, deberán presentar una solicitud ante la Comisión Dictaminadora, con los siguientes datos:
+
+a). Nombre, domicilio y lugar de nacimiento.
+
+b). Participación que el solicitante tuvo en la Revolución Mexicana;
+
+c). Beneficios que el solicitante desee se le concedan. En caso de que pretenda el seguro de vida, deberá indicar los nombres de los beneficiarios de la póliza que se le expida.
+
+A la solicitud deberán acompañarse las pruebas que justifiquen los diversos requisitos previstos en esta Ley, para gozar de sus beneficios.
+
+###### Artículo 9o.
+
+La Comisión Dictaminadora, dentro de un plazo de 30 días, contados a partir de la fecha en que reciban la solicitud, realizará la siguiente actividad:
+
+a). Estudiará la solicitud y los documentos anexos.
+
+b). Practicará las investigaciones que procedan, sobre la procedencia de la concesión de los beneficios de esta Ley.
+
+c). En caso de que la estime procedente el otorgamiento de los beneficios, propondrá los beneficios a conceder.
+
+d). Gestionar el pago de los gastos de defunción de los Veteranos.
+
+###### Artículo 10.
+
+Corresponderá a la Comisión Dictaminadora resolver en definitiva, lo que proceda, en relación con las solicitudes que se presenten para acogerse a los beneficios de esta Ley.
+
+###### Artículo 11.
+
+La Comisión Dictaminadora estará integrada por cinco miembros con el carácter de Presidente, el C. Gobernador Constitucional del Estado; como Secretario, el C. Director de Trabajo y Acción Social del Estado y como Vocales el C. Tesorero General del Estado y dos Representantes de la Organización de Veteranos de la Revolución, reconocida por la Secretaría de la Defensa Nacional.
+
+###### Artículo 12.
+
+Los miembros designados por los Veteranos de la Revolución, durarán en sus cargos tres años, pudiendo ser reelegidos.
+
+###### Artículo 13.
+
+Se autoriza al Ejecutivo del Estado para que expida el Reglamento de la presente Ley.
+
+## TRANSITORIO
+
+UNICO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los treinta días del mes de Diciembre de mil novecientos sesenta y uno.- LIC. ENRIQUE IBARRA DELGADO, Diputado Presidente.- ANDREA MARISCAL DE VASCONCELOS, Diputado Secretario.- JOAQUÍN LÓPEZ HAZWEL, Diputado Secretario.
+
+Por lo tanto mando se imprima, publique circule y se le dé el debido cumplimiento.
+
+Es dado en el Palacio del Poder Ejecutivo del Estado, en Culiacán Rosales, Sinaloa, México, a los veinticuatro días del mes de Enero de mil novecientos sesenta y dos.
+
+El Gobernador Constitucional del Estado,
+
+GRAL. DE DIV.
+
+GABRIEL LEYVA VELÁZQUEZ.
+
+El Secretario General de Gobierno,
+
+LIC. ALEJANDRO BARRANTES.
