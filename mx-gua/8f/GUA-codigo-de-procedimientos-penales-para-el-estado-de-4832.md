@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "2003-05-16"
+last_updated: "2004-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DEL 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DEL 2004.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -960,6 +960,12 @@ Cuando se determine la internación de alguna persona a un hospital u otro estab
 El Ministerio Público expedirá las órdenes para la autopsia e inhumación del cadáver y el levantamiento de las actas de defunción respectivas, cuando apareciere que la muerte fue posiblemente originada por algún delito y las diligencias de averiguación previa no estuvieren en estado de consignarse, desde luego, a los Tribunales.
 
 Si de las mismas diligencias apareciere claramente que la muerte no tuvo por origen un delito y, por lo mismo, no procediere ejercitar la acción penal, las órdenes para el levantamiento del acta de defunción y para la inhumación del cadáver se darán por el Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DEL 2004)</small>
+
+###### Artículo 122 Bis.
+
+El Ministerio Público deberá observar lo dispuesto en la Ley General de Salud en los casos de pérdida de la vida.
 
 ###### Art. 123.
 
@@ -4044,3 +4050,7 @@ Artículo Séptimo.- Quedan vigentes las disposiciones de carácter penal conten
 P.O. 16 DE MAYO DE 2003.
 
 Artículo Único.- El presente decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE NOVIEMBRE DEL 2004.
+
+Artículo Único.- El presente decreto entrará en vigor a los treinta días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
