@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "1991-07-22"
+last_updated: "1992-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE FEBRERO DE 1992.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 29 de diciembre de 1976.
 
@@ -196,49 +196,45 @@ Cuando alguna Secretaría de Estado o Departamento Administrativo necesite infor
 
 ### CAPITULO II. De la Competencia de las Secretarías de Estado y los Departamentos Administrativos
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE ENERO DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 26.
 
-Para el estudio, planeación y despacho de los negocios del orden administrativo, el Poder Ejecutivo de la Unión, contará con las siguientes dependencias:
+Para el estudio, planeación y despacho de los negocios del orden administrativo; el Poder Ejecutivo de la Unión contará con las siguientes dependencias:
 
-Secretaría de Gobernación
+Secretaría de Gobernación.
 
-Secretaría de Relaciones Exteriores
+Secretaría de Relaciones Exteriores.
 
-Secretaría de la Defensa Nacional
+Secretaría de la Defensa Nacional.
 
-Secretaría de Marina
+Secretaría de Marina.
 
-Secretaría de Hacienda y Crédito Público
+Secretaría de Hacienda y Crédito Público.
 
-Secretaría de Programación y Presupuesto
+Secretaría de la Contraloría General de la Federación.
 
-Secretaría de la Contraloría General de la Federación
+Secretaría de Energía, Minas e Industria Paraestatal.
 
-Secretaría de Energía, Minas e Industria Paraestatal
+Secretaría de Comercio y Fomento Industrial.
 
-Secretaría de Comercio y Fomento Industrial
+Secretaría de Agricultura y Recursos Hidráulicos.
 
-Secretaría de Agricultura y Recursos Hidráulicos
+Secretaría de Comunicaciones y Transportes.
 
-Secretaría de Comunicaciones y Transportes
+Secretaría de Desarrollo Urbano y Ecología.
 
-Secretaría de Desarrollo Urbano y Ecología
+Secretaría de Educación Pública.
 
-Secretaría de Educación Pública
+Secretaría de Salud.
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
+Secretaría de Trabajo y Previsión Social.
 
-Secretaría de Salud
+Secretaría de la Reforma Agraria.
 
-Secretaría del Trabajo y Previsión Social
+Secretaría de Turismo.
 
-Secretaría de la Reforma Agraria
-
-Secretaría de Turismo
-
-Secretaría de Pesca
+Secretaría de Pesca.
 
 Departamento del Distrito Federal.
 
@@ -450,95 +446,69 @@ XVIII.- Integrar el archivo de información oceanográfica nacional, y
 
 XIX.- Los demás que le atribuyan expresamente las leyes o reglamentos.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 31.
 
 A la Secretaría de Hacienda y Crédito Público corresponde el despacho de los siguientes asuntos:
 
-I.- Estudiar y formular los proyectos de leyes y disposiciones impositivas, y las leyes de ingresos federal y del Departamento del Distrito Federal;
+I.- Proyectar y coordinar la planeación nacional del desarrollo y elaborar, con la participación de los grupos sociales interesados, el Plan Nacional correspondiente;
 
-II.- Cobrar los impuestos, derechos, productos y aprovechamientos federales en los términos de las leyes;
+II.- Proyectar y calcular los ingresos de la Federación, del Departamento del Distrito Federal y de las entidades paraestatales, considerando las necesidades del gasto público federal, la utilización razonable del crédito público y la sanidad financiera de la administración pública federal;
 
-III.- Cobrar los derechos, impuestos, productos y aprovechamientos del Distrito Federal, en los términos de la Ley de Ingresos del Departamento del Distrito Federal y las leyes fiscales correspondientes;
+III.- Estudiar y formular los proyectos de leyes y disposiciones fiscales y de las leyes de ingresos de la Federación y del Departamento del Distrito Federal;
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+IV.- Dirigir la política monetaria y crediticia;
 
-IV.- Determinar los criterios y montos globales de los estímulos fiscales; estudiar y proyectar sus efectos en los ingresos de la Federación y evaluar sus resultados conforme a sus objetivos, escuchando para ello a las dependencias responsables de los sectores correspondientes; administrar su aplicación en los casos en que no competa a otra Secretaría; así como comprobar el cumplimiento de las obligaciones de los beneficiarios, a fin de ejercer las facultades fiscales que le confieran las leyes cuando los particulares se beneficien sin derecho de un subsidio o estímulo fiscal;
+V.- Manejar la deuda pública de la Federación y del Departamento del Distrito Federal;
 
-V.- Dirigir los servicios aduanales y de inspección y la policía fiscal de la Federación;
+VI.- Realizar o autorizar todas las operaciones en que se haga uso del crédito público;
 
-VI.- Proyectar y calcular los ingresos de la Federación, del Departamento del Distrito Federal y de las entidades de la Administración Pública Federal, considerando las necesidades del Gasto Público Federal que prevea la Secretaría de Programación y Presupuesto, la utilización razonable del crédito público y la sanidad financiera de la Administración Pública Federal;
+VII.- Planear, coordinar, evaluar y vigilar el sistema bancario del país que comprende al Banco Central, a la Banca Nacional de Desarrollo y las demás instituciones encargadas de prestar el servicio de banca y crédito;
 
-VII.- Planear, coordinar, evaluar y vigilar el sistema bancario del país que comprende al Banco Central, a la Banca Nacional de Desarrollo y las demás instituciones encargadas de prestar el servicio público de banca y crédito;
+VIII.- Ejercer las atribuciones que le señalen las leyes en materia de seguros, fianzas, valores y de organizaciones auxiliares del crédito;
 
-VIII.- Practicar inspecciones y reconocimientos de existencias en almacenes, con objeto de asegurar el cumplimiento de las disposiciones fiscales;
+IX.- Determinar los criterios y montos globales de los estímulos fiscales, escuchando para ello a las dependencias responsables de los sectores correspondientes y administrar su aplicación en los casos en que no competa a otra Secretaría;
 
-IX.- Realizar o autorizar todas las operaciones en que se haga uso del crédito público;
+X.- Establecer y revisar los precios y tarifas de los bienes y servicios de la administración pública federal, o bien, las bases para fijarlos, escuchando a la Secretaría de Comercio y Fomento Industrial y con la participación de las dependencias que corresponda;
 
-X.- Manejar la deuda pública de la Federación y del Departamento del Distrito Federal;
+XI.- Cobrar los impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos federales en los términos de las leyes aplicables y vigilar y asegurar el cumplimiento de las disposiciones fiscales;
 
-XI.- Dirigir la política monetaria y crediticia;
+XII.- Dirigir los servicios aduanales y de inspección y la policía fiscal de la Federación;
 
-XII.- Administrar las casas de moneda y ensaye;
+XIII.- Representar el interés de la Federación en controversias fiscales;
 
-XIII.- Ejercer las atribuciones que le señalen las leyes en materia de seguros, fianzas, valores y de organizaciones auxiliares de crédito;
+XIV.- Proyectar y calcular los egresos del Gobierno Federal y de la administración pública paraestatal, haciéndolos compatibles con la disponibilidad de recursos y en atención a las necesidades y políticas del desarrollo nacional;
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+XV.- Formular el programa del gasto público federal y el proyecto de Presupuesto de Egresos de la Federación y presentarlos, junto con el del Departamento del Distrito Federal, a la consideración del Presidente de la República;
 
-XIV.- Representar el interés de la Federación en controversias fiscales;
+XVI.- Evaluar y autorizar los programas de inversión pública de las dependencias y entidades de la administración pública federal;
 
-XV.- Establecer y revisar los precios y tarifas de los bienes y servicios de la Administración Pública Federal, o bien, las bases para fijarlos, escuchando a las Secretarías de Programación y Presupuesto y de Comercio y Fomento Industrial y con la participación de las dependencias que corresponda, y
+XVII.- Llevar a cabo las tramitaciones y registros que requiera la vigilancia y evaluación del ejercicio del gasto público federal y de los presupuestos de egresos;
 
-XVI.- Los demás que le atribuyan expresamente las leyes y reglamentos.
+XVIII.- Formular la Cuenta Anual de la Hacienda Pública Federal;
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+XIX.- Coordinar y desarrollar los servicios nacionales de estadística y de información geográfica; establecer las normas y procedimientos para la organización, funcionamiento y coordinación de los sistemas nacionales estadísticos y de información geográfica, así como normar y coordinar los servicios de informática de las dependencias y entidades de la administración pública federal;
 
-###### ARTICULO 32.
+XX.- Fijar los lineamientos que se deben seguir en la elaboración de la documentación necesaria para la formulación del Informe Presidencial e integrar dicha documentación;
 
-A la Secretaría de Programación y Presupuesto corresponde el despacho de los siguientes asuntos:
+XXI.- Establecer normas y lineamientos en materia de administración de personal, obras públicas y adquisiciones de bienes muebles de la administración pública federal;
 
-I.- Proyectar la planeación nacional del desarrollo y elaborar, con la participación de los grupos sociales interesados, el Plan Nacional correspondiente;
+XXII.- Dictaminar las modificaciones a la estructura orgánica básica de las dependencias y entidades de la administración pública federal;
 
-II.- Proyectar y coordinar con la participación que corresponda a los gobiernos estatales y municipales la planeación regional, así como la ejecución de los programas especiales que le señale el Presidente de la República;
+XXIII.- Vigilar el cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación nacional, así como de programación, presupuestación, contabilidad y evaluación;
 
-III.- Coordinar las actividades de planeación nacional del desarrollo, así como procurar la congruencia entre las acciones de la Administración Pública Federal y los objetivos y prioridades del Plan Nacional de Desarrollo;
+XXIV.- Proyectar la planeación regional y coordinar las acciones que al efecto convenga el Ejecutivo Federal, y
 
-IV.- Coordinar las acciones que el Ejecutivo Federal convenga con los gobiernos locales para el desarrollo integral de las diversas regiones del país;
+XXV.- Los demás que le atribuyan expresamente las leyes y reglamentos.
 
-V.- Proyectar y calcular los egresos del gobierno Federal y de la Administración Pública Paraestatal, haciéndolos compatibles con la disponibilidad de recursos que señale la Secretaría de Hacienda y Crédito Público, y en atención a las necesidades y políticas del desarrollo nacional;
-
-VI.- Formular el programa del gasto público federal y el proyecto de Presupuesto de Egresos de la Federación y presentarlos, junto con el del Departamento del Distrito Federal, a la consideración del Presidente de la República;
-
-VII.- Autorizar los programas de inversión pública de las dependencias y entidades de la Administración Pública Federal;
-
-VIII.- Llevar a cabo las tramitaciones y registros que requiera la vigilancia y evaluación del ejercicio del gasto público federal y de los presupuestos de egresos;
-
-IX.- Verificar que se efectúe en los términos establecidos, la inversión de los subsidios que otorgue la Federación, así como la aplicación de las transferencias de fondos en favor de Estados, Municipios, Instituciones o particulares;
-
-X.- Establecer normas, lineamientos y políticas en materia de administración, remuneraciones, capacitación y desarrollo de personal, así como coordinar y vigilar la operación del Sistema General de Administración y Desarrollo de Personal del Poder Ejecutivo Federal;
-
-XI.- Fijar los lineamientos que se deben seguir en la elaboración de la documentación necesaria para la formulación del Informe Presidencial e integrar dicha documentación;
-
-XII.- Regular la planeación, programación, presupuestación, ejecución y evaluación de las obras públicas que realicen las dependencias y entidades de la Administración Pública Federal;
-
-XIII.- Emitir o autorizar, en consulta con la Secretaría de la Contraloría General de la Federación, los catálogos de cuentas para la contabilidad del gasto público federal; consolidar los estados financieros que emanen de las contabilidades de las entidades comprendidas en el Presupuesto de Egresos de la Federación, así como formular la Cuenta Anual de la Hacienda Pública Federal;
-
-XIV.- Establecer la política y las directrices que apruebe el Presidente de la República para la modernización administrativa de carácter global, sectorial e institucional, que orienten a los Secretarios de Estado y Jefes de Departamento Administrativo en la determinación y ejecución de las acciones que autoricen en el ámbito de su competencia;
-
-XV.- Someter a la consideración del Presidente de la República los cambios a la organización que determinen los titulares de las dependencias y entidades de la Administración Pública Federal, que impliquen modificaciones a su estructura orgánica básica y que deban reflejarse en su reglamento interior;
-
-XVI.- Vigilar el cumplimiento de las obligaciones derivadas de las disposiciones en materia de planeación nacional, así como de programación, presupuestación, contabilidad y evaluación;
-
-XVII.- Coordinar y desarrollar los servicios nacionales de estadística y de información geográfica; establecer las normas y procedimientos para la organización, funcionamiento y coordinación de los sistemas nacionales estadísticos y de información geográfica, así como normar y coordinar los servicios de informática de las dependencias y entidades de la Administración Pública Federal;
-
-XVIII.- Dictar las normas para las adquisiciones de toda clase que realicen las dependencias y entidades de la Administración Pública Federal Centralizada y Paraestatal, escuchando la opinión de la Secretaría de Comercio y Fomento Industrial, así como las normas y procedimientos para el manejo de almacenes, inventarios, avalúos y baja de maquinaria y equipo, instalaciones industriales y los demás bienes muebles que formen parte del patrimonio de la Administración Pública Federal, y
-
-XIX.- Los demás que le fijen expresamente las leyes y reglamentos.
+> <small>N. DE E. REUBICADO ANTES 32 BIS D.O.F. 21 DE FEBRERO DE 1992.</small>
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
-ARTICULO 32 BIS.- A la Secretaría de la Contraloría General de la Federación corresponde el despacho de los siguientes asuntos:
+###### ARTICULO 32.
+
+A la Secretaría de la Contraloría General de la Federación corresponde el despacho de los siguientes asuntos:
 
 I.- Planear, organizar y coordinar el sistema de control y evaluación gubernamental. Inspeccionar el ejercicio del gasto público federal y su congruencia con los presupuestos de egresos;
 
@@ -552,11 +522,15 @@ V.- Comprobar el cumplimiento, por parte de las dependencias y entidades de la A
 
 VI.- Sugerir normas a la Comisión Nacional Bancaria y de Seguros en relación con el control y fiscalización de las entidades bancarias y de otro tipo que formen parte de la Administración Pública Federal;
 
-VII.- Realizar, por sí o a solicitud de las Secretarías de Hacienda y Crédito Público, de Programación y Presupuesto o de la coordinadora del sector correspondiente, auditorías y evaluaciones a las dependencias y entidades de la Administración Pública Federal con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 1992)</small>
+
+VII.- Realizar, por sí o a solicitud de la Secretaría de Hacienda y Crédito Público o de la coordinadora del sector correspondiente, auditorías y evaluaciones a las dependencias y entidades de la Administración Pública Federal con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas;
 
 VIII.- Inspeccionar y vigilar directamente o a través de los órganos de control que las dependencias y entidades de la Administración Pública Federal cumplan con las normas y disposiciones en materia de: sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Federal;
 
-IX.- Opinar, previamente a su expedición, sobre los proyectos de normas de contabilidad y de control en materia de programación, presupuestación, administración de recursos humanos, materiales y financieros que elabore la Secretaría de Programación y Presupuesto, así como sobre los proyectos de normas en materia de contratación de deuda y de manejo de fondos y valores que formule la Secretaría de Hacienda y Crédito Público;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 1992)</small>
+
+IX.- Opinar, previamente a su expedición, sobre los proyectos de normas de contabilidad y de control en materia de programación, presupuestación, administración de recursos humanos, materiales y financieros, así como sobre los proyectos de normas en materia de contratación de deuda y de manejo de fondos y valores que formule la Secretaría de Hacienda y Crédito Público;
 
 X.- Designar a los auditores externos de las entidades y normar y controlar su actividad;
 
@@ -577,6 +551,8 @@ XVII.- Conocer e investigar los actos, omisiones o conductas de los servidores p
 XVIII.- Vigilar el cumplimiento de las normas internas de la Secretaría, constituir las responsabilidades administrativas de su personal aplicándole las sanciones que correspondan y hacer al efecto las denuncias a que hubiere lugar, y
 
 XIX.- Las demás que le encomienden expresamente las leyes y reglamentos.
+
+ARTICULO 32 BIS.- N. DE E. DE ACUERDO A LO DISPUESTO POR EL ARTICULO UNICO DEL DECRETO PUBLICADO EN EL D.O.F. 21 DE FEBRERO DE 2002, SE DEROGA EL ARTICULO 32 Y SE REUBICA EL CONTENIDO DEL ARTICULO 32 BIS , PARA PASAR A SER 32.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
@@ -682,9 +658,9 @@ XXIV.- Promover, orientar, fomentar y estimular el desarrollo de la industria pe
 
 XXV.- Promover y, en su caso, organizar la investigación técnico-industrial, y
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 1992)</small>
 
-XXVI.- Registrar los precios de mercancías, arrendamiento de bienes muebles y contratación de servicios, que regirán para el sector público; dictaminar los contratos o pedidos respectivos; autorizar las compras del sector público en el país de bienes de procedencia extranjera, así como, conjuntamente con la Secretaría de Programación y Presupuesto, autorizar las bases de las convocatorias para realizar concursos internacionales, y
+XXVI.- Registrar los precios de mercancías, arrendamientos de bienes muebles y contratación de servicios, que regirán para el sector público; dictaminar los contratos o pedidos respectivos; autorizar las compras del sector público en el país de bienes de procedencia extranjera, así como, conjuntamente con la Secretaría de Hacienda y Crédito Público, autorizar las bases de las convocatorias para realizar concursos internacionales, y
 
 XXVII.- Los demás que le encomienden expresamente las leyes y reglamentos.
 
@@ -938,9 +914,9 @@ IX.- Patrocinar la realización de congresos, asambleas y reuniones, eventos, co
 
 X.- Fomentar las relaciones de orden cultural con los países extranjeros, con la colaboración de la Secretaría de Relaciones Exteriores;
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 1992)</small>
 
-XI.- Mantener al corriente el escalafón del magisterio y el seguro del maestro, y crear un sistema de compensaciones y estímulos para el profesorado; atendiendo a las directrices que emita la Secretaría de Programación y Presupuesto sobre el sistema general de administración y desarrollo de personal;
+XI.- Mantener al corriente el escalafón del magisterio y el seguro del maestro, y crear un sistema de compensaciones y estímulos para el profesorado; atendiendo a las directrices que emita la Secretaría de Hacienda y Crédito Público sobre el sistema general de administración y desarrollo de personal;
 
 XII.- Organizar, controlar y mantener al corriente el registro de la propiedad literaria y artística;
 
@@ -1090,7 +1066,9 @@ XIII.- Organizar y patrocinar exposiciones y museos de trabajo y previsión soci
 
 XIV.- Participar en los congresos y reuniones internacionales de trabajo, de acuerdo con la Secretaría de Relaciones Exteriores;
 
-XV.- Llevar las estadísticas generales correspondientes a la materia del trabajo, de acuerdo con las disposiciones que establezca la Secretaría de Programación y Presupuesto;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 1992)</small>
+
+XV.- Llevar las estadísticas generales correspondientes a la materia del trabajo, de acuerdo con las disposiciones que establezca la Secretaría de Hacienda y Crédito Público;
 
 XVI.- Establecer la política y coordinar los servicios de seguridad social de la Administración Pública Federal, así como intervenir en los asuntos relacionados con el seguro social en los términos de la Ley;
 
@@ -1172,7 +1150,9 @@ XV.- Fijar y en su caso, modificar las categorías de los prestadores de servici
 
 XVI.- Autorizar los reglamentos interiores de los establecimientos de servicios al turismo;
 
-XVII.- Llevar la estadística en materia de turismo, de acuerdo con las disposiciones que establezca la Secretaría de Programación y Presupuesto;
+> <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 1992)</small>
+
+XVII.- Llevar la estadística en materia de turismo, de acuerdo con las disposiciones que establezca la Secretaría de Hacienda y Crédito Público;
 
 XVIII.- Promover y apoyar la coordinación de los prestadores de servicios turísticos;
 
@@ -1270,7 +1250,9 @@ Se asimilan a las empresas de participación estatal mayoritaria, las sociedades
 
 Los fideicomisos públicos a que se refiere el artículo 3o., fracción III, de esta Ley, son aquellos que el gobierno federal o alguna de las demás entidades paraestatales constituyen, con el propósito de auxiliar al Ejecutivo Federal en las atribuciones del Estado para impulsar las áreas prioritarias del desarrollo, que cuenten con una estructura orgánica análoga a las otras entidades y que tengan comités técnicos.
 
-En los fideicomisos constituidos por el gobierno federal, la Secretaría de Programación y Presupuesto fungirá como fideicomitente único de la Administración Pública Centralizada.
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 1992)</small>
+
+En los fideicomisos constituidos por el gobierno federal, la Secretaría de Hacienda y Crédito Público fungirá como fideicomitente único de la Administración Pública Centralizada.
 
 > <small>(REFORMADO, D.O.F. 14 DE MAYO DE 1986)</small>
 
@@ -1290,11 +1272,11 @@ Atendiendo a la naturaleza de las actividades de dichas entidades, el titular de
 
 ARTICULO 49 BIS.- (DEROGADO, D.O.F. 14 DE MAYO DE 1986)
 
-> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 21 DE FEBRERO DE 1992)</small>
 
 ###### ARTICULO 50.
 
-Las relaciones entre el Ejecutivo Federal y las entidades paraestatales, para fines de congruencia global de la Administración Pública Paraestatal, con el sistema nacional de planeación y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, se llevarán a cabo en la forma y términos que dispongan las leyes, por conducto de las Secretarías de Hacienda y Crédito Público, de Programación y Presupuesto y de la Contraloría General de la Federación, sin perjuicio de las atribuciones que competan a las coordinadoras de sector
+Las relaciones entre el Ejecutivo Federal y las entidades paraestatales, para fines de congruencia global de la Administración Pública Paraestatal, con el sistema nacional de planeación y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación, se llevarán a cabo en la forma y términos que dispongan las leyes, por conducto de las Secretarías de Hacienda y Crédito Público y de la Contraloría General de la Federación, sin perjuicio de las atribuciones que competan a las coordinadoras del sector.
 
 ###### ARTICULO 51.
 
@@ -1425,3 +1407,17 @@ D.O.F. 22 DE JULIO DE 1991.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor 30 días después de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE FEBRERO DE 1992.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los recursos humanos con que cuentan las Secretarías de Programación y Presupuesto y de Hacienda y Crédito Público, conformarán, en lo sucesivo, el personal de la Secretaría de Hacienda y Crédito Público cuyas atribuciones se modifican por el presente decreto, sin que en ninguna forma resulten afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+TERCERO.- Los recursos materiales, financieros, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos, y, en general, el equipo que las Secretarías de Programación y Presupuesto y de Hacienda y Crédito Público hayan utilizado para la atención de los asuntos de sus respectivas competencias, se destinarán a las funciones que a esta última señala el presente decreto.
+
+CUARTO.- Los asuntos a cargo de las Secretarías de Programación y Presupuesto y de Hacienda y Crédito Público que se encontraren pendientes de resolución al momento de entrar en vigor este decreto, serán despachados por esta última dependencia, conforme a las atribuciones que este mismo ordenamiento le señala.
+
+QUINTO.- Las atribuciones que en otras leyes y en reglamentos se otorgan a las Secretarías de Programación y Presupuesto y de Hacienda y Crédito Público se tendrán por conferidas a esta última, las que ejercerá con base en lo que dispone el presente ordenamiento, con excepción de las relativas a la coordinación y promoción del desarrollo científico y tecnológico, que se entenderán atribuidas, en lo sucesivo, a la Secretaría de Educación Pública.
+
+SEXTO.- Se derogan todas las disposiciones que se opongan a lo dispuesto por este decreto.
