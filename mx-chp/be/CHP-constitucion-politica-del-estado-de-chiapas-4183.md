@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1938-02-16"
+last_updated: "1939-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE FEBRERO DE 1938.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 1939.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -645,13 +645,13 @@ V.- Tener 2 años de práctica a contar desde la fecha de la expedición del tí
 
 VI.- Gozar de buena reputación; no estar afiliado o subordinado a organizaciones religiosas y no haber sido condenado a delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza en otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1931)</small>
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1939)</small>
 
 ###### ARTICULO 57.
 
-Los Magistrados durarán en su encargo cuatro años y solo podrán ser removidos cuando observen mala conducta y previo el juicio de responsabilidad respectivo. Este período se empezará a contar desde el primero de diciembre de mil novecientos treinta y uno, cesando en consecuencia, desde esa fecha, los Magistrados que actualmente integran el Tribunal Superior de Justicia del Estado.
+Los Ciudadanos Magistrados del H. Tribunal Superior de Justicia del Estado, durarán en su encargo cuatro años y sólo podrán ser removidos cuando observen mala conducta y previo el juicio de responsabilidad respectivo. Este período se empezará a contar desde el 1º de diciembre de 1940. La actual H. Legislatura, previa la terna correspondiente, hará el nombramiento de los Magistrados que deban fungir del 1º de diciembre del presente año al 30 de noviembre de 1940.
 
-Los Jueces de Primera Instancia durarán también cuatro años a partir del primero de enero de mil novecientos treinta y dos; pero éstos podrán ser removidos cuando a juicio del Tribunal Superior de Justicia observen mala conducta, cuando sean promovidos a grado superior o removidos de un Distrito Judicial a otro, o que siendo legos sean substituidos por letrados.
+Los jueces de Primera Instancia durarán en su encargo también cuatro años a partir del 1º de diciembre de 1940. Pero éstos podrán ser removidos cuando a juicio del H. Tribunal Superior de Justicia observen mala conducta, cuando sean promovidos a grado superior o removidos de un Distrito Judicial a otro, o que, siendo legos, sean substituidos por letrados.
 
 > <small>(REFORMADO, P.O. 1 DE MARZO DE 1933)</small>
 
@@ -1039,7 +1039,7 @@ DECRETO NÚMERO 104/9 QUE REFORMA ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DEL
 
 1º.- Quedan derogadas todas las Leyes, Decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente Decreto.
 
-2º.- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.
+2º.- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial.Oficial.
 
 P.O. 25 DE DICIEMBRE DE 1935.
 
@@ -1056,3 +1056,7 @@ Quedan derogadas todas las Leyes, Decretos y demás disposiciones que se opongan
 ###### Artículo 2º.
 
 Este Decreto principiará a regir desde la fecha de su publicación en el Periódico Oficial.
+
+P.O. 29 DE NOVIEMBRE DE 1939.
+
+Unico.- Este decreto comenzará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
