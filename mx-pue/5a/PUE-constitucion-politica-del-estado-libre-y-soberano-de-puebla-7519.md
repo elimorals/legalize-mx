@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "1992-12-15"
+last_updated: "1994-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
+CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE 1992.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 1994.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el Martes 2 de octubre de 1917.
 
@@ -339,7 +339,9 @@ Sólo podrán ejercer jurisdicción en el territorio del Estado, las autoridades
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
-### CAPITULO I. DE LA ORGANIZACION DEL CONGRESO
+### CAPITULO I
+
+DE LA ORGANIZACION DEL CONGRESO.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -1181,7 +1183,13 @@ h).- Seguridad pública y tránsito.
 
 I.- El Congreso del Estado, tomando en cuenta las condiciones socioeconómicas de los Municipios, podrá encomendar a éstos la prestación de otros servicios públicos distintos a los antes enumerados, cuando a juicio del propio Congreso tengan aquéllos capacidad administrativa y financiera.
 
-II.- Los Municipios de un mismo Estado, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les corresponda.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 1994)</small>
+
+II.- Los Municipios del Estado, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les correspondan.
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 1994)</small>
+
+III.- Los Municipios podrán concesionar la prestación de los servicios públicos a que se refiere esta disposición, mediante acuerdo de sus Ayuntamientos y la autorización del Congreso del Estado, previa a la suscripción del contrato respectivo.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1984)</small>
 
@@ -1661,7 +1669,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 17 DE NOVIEMBRE DE 1933.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 128 DE LA CONSTITUCIÓN POLITICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 P.O. 13 DE NOVIEMBRE DE 1936.
 
@@ -1756,3 +1764,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 15 DE DICIEMBRE DE 1992.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficia (sic) del Estado.
+
+P.O. 19 DE AGOSTO DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
