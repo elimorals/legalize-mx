@@ -4,7 +4,7 @@ identifier: "NAY-ley-electoral-del-estado-de-nayarit-11598"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-25"
-last_updated: "1997-07-26"
+last_updated: "1998-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ELECTORAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 1998.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el sábado 25 de noviembre de 1995.
 
@@ -231,7 +231,9 @@ a) Que participan con fórmulas de candidatos a Diputados por el sistema de Mayo
 
 b) Haber registrado listas estatales de candidatos para esta elección de hasta un número de doce ciudadanos para cada partido político;
 
-c) Haber alcanzado por lo menos el 1.5% de la votación total estatal en la elección de Diputados;
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1998)</small>
+
+c) Haber alcanzado por lo menos el 2.0% de la votación total estatal en la elección de Diputados;
 
 II. Todo partido político tendrá derecho a concurrir a la asignación de Diputados por el principio de Representación Proporcional, en proporción directa a su porcentaje de votos;
 
@@ -265,7 +267,9 @@ VI. Para los efectos de esta ley, se definen los siguientes conceptos:
 
 a) Votación total estatal, es el total de votos depositados en las urnas;
 
-b) Votación estatal emitida, es la que resulte de sumar los votos a favor de los partidos políticos que hayan obtenido el 1.5% de la votación total estatal;
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1998)</small>
+
+b) Votación estatal emitida, es la que resulte de sumar los votos a favor de los partidos políticos que hayan obtenido el 2.0% de la votación total estatal;
 
 c) Cociente de unidad, es el que resulte de dividir la votación estatal emitida entre el número total de Diputados por el principio de Representación Proporcional;
 
@@ -301,7 +305,9 @@ II. Haber registrado listas de candidatos a Regidores bajo el principio de Repre
 
 III. No haber alcanzado el triunfo por mayoría en la misma elección; y
 
-IV. Haber obtenido por lo menos el 1.5 por ciento de la votación total municipal en la elección respectiva.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1998)</small>
+
+IV. Haber obtenido por lo menos el 2.0 por cientto (sic) de la votación total municipal en la elección respectiva.
 
 La integración de Regidores de Representación Proporcional, se hará por el Consejo Municipal Electoral correspondiente bajo las fórmulas y reglas establecidas por esta ley.
 
@@ -541,13 +547,17 @@ Asimismo promoverá ante las autoridades correspondientes del Instituto Federal 
 
 Los partidos políticos con registro ante el organismo estatal electoral, independientemente de las demás prerrogativas otorgadas por esta ley, de acuerdo con la disponibilidad y obsecuencia al presupuesto del estado, tendrán derecho al financiamiento público en apoyo a sus actividades, así como para el desarrollo de aquellas tendientes a la obtención del sufragio, conforme a las disposiciones siguientes:
 
-I. El Consejo Estatal Electoral acordará el monto total de financiamiento público a distribuir entre los partidos políticos, en base a los limites de gastos de campaña debidamente autorizados en la última elección de Diputados por el principio de Mayoría Relativa, el cual será equivalente al 20 por ciento de lo que resulte de multiplicar dos veces el límite de gastos del total de los dieciocho distritos uninominales;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1998)</small>
+
+I. El Consejo Estatal Electoral distribuirá entre los partidos políticos con registro, el monto que resulte de multiplicar el 25 por ciento del equivalente al salario mínimo diario vigente en el Estado por el número total de ciudadanos inscritos en la lista nominal de electores en el Estado de la elección inmediata anterior de Diputados Locales.
 
 II. El monto que resulte de la anterior operación se dividirá por mitades: Una mitad será distribuida a partes iguales entre todos los partidos políticos con derecho a ello, y la otra mitad en proporción directa al número de votos obtenidos en dicha elección;
 
 III. Los partidos políticos recibirán el monto de su financiamiento en tres anualidades, durante los tres años siguientes a la elección. La primera anualidad será por el 20% del total, la segunda por el 30% y la última por el 50%;
 
-IV. Sólo tendrán derecho al financiamiento público, los partidos políticos que hayan alcanzado el 1.5 % de la votación estatal.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1998)</small>
+
+IV. Sólo tendrán derecho al financiamiento público, los partidos políticos que hayan alcanzado el 2.0 % de la votación estatal.
 
 > <small>(ADICIONADA, P.O. 26 DE JULIO DE 1997)</small>
 
@@ -675,11 +685,13 @@ Para los efectos de la integración de los órganos electorales, las coaliciones
 
 Los votos que obtengan los candidatos de una coalición, serán de los partidos políticos que participaron unidos, en la proporción y forma pactados en el convenio de coalición.
 
-###### Artículo 60.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1998)</small>
 
-Los partidos políticos coaligados podrán conservar su registro al término de la elección, siempre y cuando la votación que obtengan, sea equivalente al dos por ciento de la votación total estatal.
+###### ARTICULO 60.
 
-Si la votación obtenida por la coalición no alcanza el dos por ciento de la votación pero sí el 1.5 por ciento, los partidos preverán en el convenio que celebren, quien mantendrá el registro.
+Los partidos políticos coaligados podrán conservar su registro al término de la elección, siempre y cuando la votación que obtengan sea equivalente al 2.5 por ciento de la votación total estatal.
+
+Si la votación obtenida por la coalición no alcanza el 2.5 de la votación pero sí el 2.0 por ciento, los partidos preverán en el convenio que celebren, quien mantendrá el registro.
 
 ###### Artículo 61.
 
@@ -755,7 +767,9 @@ Un partido político perderá su registro ante el Consejo Estatal Electoral, por
 
 I. Haber perdido su registro federal, si se trata de un partido político nacional acreditado en el Estado;
 
-II. No obtener el 1.5 por ciento de la votación total estatal en dos elecciones ordinarias consecutivas;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1998)</small>
+
+II. No obtener el 2.0 por ciento de la votación total estatal en dos elecciones ordinarias consecutivas;
 
 III. Haber dejado de cumplir con los requisitos necesarios para obtener su registro;
 
@@ -801,21 +815,25 @@ III. Las Mesas Directivas de Casilla.
 
 El Consejo Estatal Electoral residirá en la Ciudad de Tepic, y se integrará por un Presidente, seis Consejeros Ciudadanos Propietarios y un Representante de cada uno de los partidos políticos con registro en la Entidad, y un Secretario Técnico, todos con sus respectivos suplentes, hecha excepción de los Consejeros Ciudadanos quienes tendrán tres suplentes comunes.
 
-El Presidente y su Suplente serán designados por el Congreso del Estado de entre una terna de candidatos propuesta por el Gobernador a más tardar en la primera semana del mes de diciembre del año anterior que se celebren las elecciones ordinarias, buscándose en primer término el acuerdo de los grupos parlamentarios y partidos políticos acreditados y de no haberlo, la Legislatura resolverá por el voto de las dos terceras partes de los diputados presentes en sesión.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1998)</small>
 
-Los Consejeros Ciudadanos Propietarios y Suplentes comunes serán designados por la Legislatura a propuesta de los partidos políticos en ellas representados, y de no lograrse tal acuerdo el Congreso resolverá conforme a las bases siguientes:
+El Presidente y su suplente serán designados por el Congreso del Estado a propuesta de los Grupos Parlamentarios en ella representados, por el voto de las dos terceras partes de los Diputados presentes en Sesión, a más tardar en la primera semana del mes de diciembre del año anterior en que se celebren las elecciones ordinarias.
 
-a) Cada grupo parlamentario o partido político propondrá una lista hasta de cuatro candidatos;
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1998)</small>
 
-b) La Comisión Legislativa, de entre los propuestos, integrará una lista de candidatos hasta por el doble del número a elegir;
+Los Consejeros Ciudadanos y los suplentes comunes serán designados por el voto de las dos tercera (sic) partes de los miembros presentes del Congreso del Estado, de entre las propuestas que formulen los grupos parlamentarios, dentro del término a que se refiere el párrafo anterior.
 
-c) De la lista que se forme, la Comisión Legislativa elaborará un dictamen unitario que se resolverá en un solo acto, en el que se propongan las formulas de los consejeros propietarios y suplentes comunes.
+a) (DEROGADO, P.O. 9 DE SEPTIEMBRE DE 1998)
+
+b) (DEROGADO, P.O. 9 DE SEPTIEMBRE DE 1998)
+
+c) (DEROGADO, P.O. 9 DE SEPTIEMBRE DE 1998)
 
 Las propuestas serán presentadas al Presidente del Congreso a mas tardar el día último del mes de noviembre del año anterior al de la elección, quien las turnará a la comisión o comisiones competentes para que presenten su dictamen en el que se funde, motive y proponga la designación.
 
-La elección se hará por el voto de las dos terceras partes de los miembros del Congreso presentes en la sesión respectiva. De no obtenerse la mayoría calificada se procederá a la insalulación.
+> <small>(DEROGADO QUINTO PARRAFO, P.O. 9 DE SEPTIEMBRE DE 1998)</small>
 
-Las designaciones anteriores deberán estar hechas a más tardar el día diecisiete de diciembre del año anterior al de la elección ordinaria.
+> <small>(DEROGADO SEXTO PARRAFO, P.O. 9 DE SEPTIEMBRE DE 1998)</small>
 
 El Presidente y los Consejeros Ciudadanos tendrán dentro de este organismo voz y voto. Los representantes de los partidos políticos y el Secretario Técnico únicamente derecho a voz.
 
@@ -2435,9 +2453,11 @@ Igualmente, procederá a fijar en el exterior del domicilio que ocupa el Consejo
 
 ###### Artículo 207.
 
-Para la asignación de Regidores por el principio de Representación Proporcional los Consejos Municipales Electorales aplicarán las siguientes reglas:
+Para la asignación de regidores por el principio de Representación Proporcional los Consejos Municipales Electorales aplicarán las siguientes reglas:
 
-I. Se sumará el número total de votos obtenidos por los partidos políticos que, habiendo alcanzado el 1.5 por ciento o más de la votación municipal, no hayan alcanzado el triunfo por mayoría;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1998)</small>
+
+I. Se sumará el número total de votos obtenidos por los Partidos Políticos que, habiendo alcanzado el 2.0 por ciento o más de la votación municipal, no hayn (sic) alcanzado el triundo (sic) por mayoría;
 
 II. Enseguida se determinará el porcentaje que le corresponda a cada uno de los partidos, para obtener el cociente de asignación respectivo;
 
@@ -2631,9 +2651,11 @@ De igual manera, el Presidente tomará las medidas necesarias para el depósito,
 
 El Tribunal Electoral del Estado, es el órgano jurisdiccional autónomo que tiene a su cargo la substanciación y resolución de los recursos, así como la imposición de las sanciones administrativas que previene esta ley.
 
-###### Artículo 219.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE SEPTIEMBRE DE 1998)</small>
 
-El Tribunal Electoral del Estado se integrará por cinco Magistrados Numerarios y tres Supernumerarios. El Presidente será nombrado por el Congreso del Estado a propuesta en terna que presente el titular del Poder Ejecutivo. El resto de los Magistrados Numerarios y Supernumerarios serán designados por el Congreso, a propuesta de los partidos políticos en él representados, y de no lograrse tal acuerdo la Legislatura resolverá conforme al procedimiento siguiente:
+###### ARTICULO 219.
+
+El Tribunal Electoral del Estado se integrará por 5 Magistrados Numerarios y 3 Supernumerarios designados por el Congreso del Estado, a propuesta de los Grupos Parlamentarios en él representados, conforme al siguiente procedimiento:
 
 a) Cada grupo parlamentario o partido político representado en el Congreso propondrá una lista hasta de tres candidatos;
 
@@ -2644,6 +2666,10 @@ c) De la lista que se forme, la Comisión Legislativa elaborará un dictamen uni
 Las propuestas serán presentadas al Presidente del Congreso a más tardar el día último del mes de noviembre del año anterior al de la elección, quien las turnará a las comisiones competentes para que en un solo acto presente dictamen unitario en el que se funde, motive y proponga la designación.
 
 La elección se hará por el voto de las dos terceras partes de los miembros del Congreso presentes en la sesión respectiva. De no obtenerse la mayoría calificada se procederá a la insaculación.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1998)</small>
+
+Los Magistrados Numerarios designados, una vez que rindan la protesta de ley, elegirán de entre sus miembros, al que fungirá como Presidente del Organo Jurisdiccional Electoral.
 
 ###### Artículo 220.
 
@@ -3706,3 +3732,13 @@ P.O. 26 DE JULIO DE 1997.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 SEGUNDO.- Se derogan en lo conducente las disposiciones contenidas en la Ley Electoral del Estado, materia de la presente iniciativa.
+
+P.O. 9 DE SEPTIEMBRE DE 1998.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor una vez cumplidas las formalidades legales del proceso de reformas constitucionales en materia político-electoral, previa su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Por virtud de las presentes reformas y adiciones se deja sin efecto el decreto 7903, relativo a la aprobación de los nombramientos de los Magistrados del Tribunal Electoral publicado en el Periódico Oficial el día 9 de diciembre de 1995.
