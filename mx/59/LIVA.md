@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1982-12-31"
+last_updated: "1983-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1983.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -78,7 +78,9 @@ Tratándose de la realización de los actos o actividades que a continuación se
 
 I.- La enajenación e importación de los siguientes bienes:
 
-a).- Aquéllos cuya enajenación se grave con el impuesto especial sobre producción y servicios.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+a).- Los señalados en el artículo 2o. de la Ley del Impuesto Especial sobre Producción y Servicios.
 
 b).- Combustibles líquidos o gaseosos, aceites, grasas y lubricantes, derivados del petróleo, así como los productos de la petroquímica básica.
 
@@ -252,7 +254,9 @@ Tratándose de inversiones o gastos en períodos preoperativos, se podrá estima
 
 Cuando se esté obligado al pago del impuesto al valor agregado o cuando sea aplicable la tasa del 0% sólo por una parte de las actividades, únicamente se acreditará el impuesto correspondiente a dicha parte. Si ésta no fuese identificable, el acreditamiento procederá únicamente en el por ciento que el valor de los actos por los que sí deba pagarse el impuesto o se aplique la tasa del 0%, represente en el valor total de los que el contribuyente realice en su ejercicio.
 
-II.- Que haya sido trasladado expresamente al contribuyente y conste por separado en documentación que satisfaga los requisitos que establece esta Ley y, en su caso, el Reglamento.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+II.- Que haya sido trasladado expresamente al contribuyente y que conste por separado en los comprobantes a que se refiere la fracción III del artículo 32 de esta Ley.
 
 El derecho al acreditamiento es personal para los contribuyentes de este impuesto y no podrá ser transmitido por acto entre vivos, excepto tratándose de fusión de sociedades.
 
@@ -260,15 +264,11 @@ El derecho al acreditamiento es personal para los contribuyentes de este impuest
 
 Para acreditar el impuesto al valor agregado en la importación de bienes tangibles cuando se hubiera pagado la tasa del 6%, el contribuyente deberá poder comprobar que los bienes fueron utilizados o enajenados en las franjas o zonas a que se refiere el artículo 2o.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, MODIFICADO POR EL ARTICULO SEGUNDO DEL DECRETO PUBLICADO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
-
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 5o.
 
 El impuesto se calculará por ejercicios fiscales, salvo los casos señalados en el artículo 33 de esta Ley.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, MODIFICADO POR EL ARTICULO SEGUNDO DEL DECRETO PUBLICADO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -299,8 +299,6 @@ El contribuyente que reciba la devolución de bienes enajenados u otorgue descue
 El contribuyente que reciba el descuento, la bonificación o devuelva los bienes enajenados, disminuirá el impuesto cancelado o restituido de las cantidades acreditables o que tuviere pendientes de acreditamiento. Si no tuviere impuesto pendiente de acreditar del cual disminuir el impuesto cancelado o restituido, lo pagará al presentar la declaración mensual que corresponda al mes en que reciba el descuento, la bonificación o efectúe la devolución.
 
 ### CAPITULO II. DE LA ENAJENACION
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, MODIFICADO POR EL ARTICULO SEGUNDO DEL DECRETO PUBLICADO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -352,7 +350,9 @@ I.- Se envíe el bien al adquirente. A falta de envío, al entregarse materialme
 
 II.- Se pague parcial o totalmente el precio, salvo en los casos que esta Ley señale.
 
-III.- Se expida el documento que ampare la enajenación.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+III.- Se expida el comprobante que ampare la enajenación.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
 
@@ -368,9 +368,13 @@ Cuando el precio pactado sea cierto y determinable con posterioridad, el impuest
 
 En las enajenaciones a plazo en los términos del Código Fiscal de la Federación, se podrá diferir el impuesto de conformidad con el reglamento de esta Ley. Tratándose de arrendamiento financiero, al impuesto que corresponda a la operación, se le aplicará el porciento que señala la Ley del Impuesto sobre la Renta para determinar el monto original de la inversión y la diferencia será el impuesto que podrá diferirse, en los términos que señale el reglamento de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-Tratándose de pagos anticipados que reciba el enajenante de bienes de capital, antes de enviar o entregar materialmente el bien, el impuesto se cubrirá en el momento en que se efectúe cada pago anticipado y sobre el monto del mismo; al enviarse o entregarse el bien, se pagará la diferencia de impuesto que resulte por el total de la operación.
+Tratándose de pagos anticipados que reciba el enajenante, antes de enviar o entregar materialmente el bien y siempre que el envío o la entrega se realice cuando hayan transcurrido más de tres meses desde el primer anticipo, el impuesto se cubrirá en el momento en que se efectúe cada pago anticipado y sobre el monto del mismo; al enviarse o entregarse el bien, se pagará la diferencia de impuesto que resulte por el total de la operación.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+Las cantidades entregadas al enajenante, incluyendo los depósitos, se entenderán pagos anticipados.
 
 ###### ARTICULO 13.
 
@@ -395,6 +399,10 @@ V.- La asistencia técnica y la transferencia de tecnología.
 VI.- Toda otra obligación de dar, de no hacer o de permitir, asumida por una persona en beneficio de otra, siempre que no esté considerada por esta Ley como enajenación o uso o goce temporal de bienes.
 
 No se considera prestación de servicios independientes la que se realiza de manera subordinada mediante el pago de una remuneración, ni los servicios por los que se perciban ingresos que la Ley del Impuesto sobre la Renta asimile a dicha remuneración.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+Se entenderá que la prestación de servicios independientes tiene la característica de personal, cuando se trate de las actividades señaladas en este artículo que no tengan la naturaleza de actividad empresarial.
 
 ###### ARTICULO 15.
 
@@ -484,6 +492,14 @@ En la prestación de servicios se tendrá obligación de pagar el impuesto en el
 
 Tratándose de obras de construcción de inmuebles provenientes de contratos celebrados con la Federación, el Distrito Federal, los Estados y los Municipios, se tendrá obligación de pagar el impuesto en el momento en que se paguen las contraprestaciones correspondientes al avance de la obra y cuando se hagan los anticipos.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+Las cantidades entregadas a quien proporcione el servicio incluyendo los depósitos, se entenderán pagos anticipados.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+En el caso de servicios personales independientes se tendrá obligación de pagar el impuesto en el momento en que se paguen las contraprestaciones a favor de quien los preste y sobre el monto de cada una de ellas.
+
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 18.
@@ -566,7 +582,9 @@ No se pagará el impuesto al valor agregado en las importaciones siguientes:
 
 I.- Las que, en los términos de la legislación aduanera, no lleguen a consumarse, sean temporales, tengan el carácter de retorno de bienes exportados temporalmente o sean objeto de tránsito o transbordo. Si los bienes importados temporalmente son objeto de uso o goce en el país, se estará a lo dispuesto en el Capítulo IV de esta Ley.
 
-II.- Las de equipajes y menajes de casa a que se refiere el Código Aduanero.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+II.- Las de equipajes y menajes de casa a que se refiere la legislación aduanera.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -642,7 +660,9 @@ IV.- El aprovechamiento en el extranjero de servicios prestados por residentes e
 
 a).- Asistencia técnica, servicios técnicos relacionados con ésta e informaciones relativas a experiencias industriales, comerciales o científicas.
 
-b).- Operaciones de maquila para exportación en los términos del Reglamento del párrafo tercero del artículo 321 del Código Aduanero de los Estados Unidos Mexicanos para la industria maquiladora.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+b).- Operaciones de maquila para exportación en los términos de la legislación aduanera.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -684,13 +704,9 @@ La devolución en el caso de exportación de bienes tangibles procederá hasta q
 
 ### CAPITULO VIII. DE LAS FACULTADES DE LAS AUTORIDADES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, MODIFICADO POR EL ARTICULO SEGUNDO DEL DECRETO PUBLICADO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
-
 ###### ARTICULO 32.
 
 Los obligados al pago de este impuesto y las personas que realicen los actos y actividades a que se refiere el artículo 2o.-A tienen, además de las obligaciones señaladas en otros artículos de esta Ley, las siguientes:
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, MODIFICADO POR EL ARTICULO SEGUNDO DEL DECRETO PUBLICADO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -698,7 +714,9 @@ I.- Llevar de conformidad con el Código Fiscal de la Federación, su Reglamento
 
 II.- Realizar, tratándose de comisionistas, la separación en su contabilidad y registros de las operaciones que lleven a cabo por cuenta propia de las que efectúen por cuenta del comitente.
 
-III.- Expedir documentos que comprueben el valor de la contraprestación pactada, señalando en los mismos, expresamente y por separado, el impuesto al valor agregado que se traslada a quien adquiera los bienes, los use o goce temporalmente, o reciba los servicios. Dichos documentos deberán entregarse o enviarse a quien efectúa o deba efectuar la contraprestación, dentro de los 15 días naturales siguientes a aquél en el que realicen los supuestos señalados en los artículos 11, 17 y 22 de esta Ley.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+III.- Expedir comprobantes señalando en los mismos, además de los requisitos que establezcan el Código Fiscal de la Federación y su Reglamento, el impuesto al valor agregado que se traslada expresamente y por separado a quien adquiera los bienes, los use o goce temporalmente o reciba los servicios. Dichos comprobantes deberán entregarse o enviarse a quien efectúa o deba efectuar la contraprestación, dentro de los 15 días siguientes a aquél en que se debió pagar el impuesto en los términos de los artículos 11, 17 y 22 de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -722,9 +740,9 @@ Los contribuyentes que tengan en copropiedad una negociación, designarán repre
 
 En el caso de que los ingresos deriven de actos o actividades que realice una sucesión, el representante legal de la misma pagará el impuesto presentando declaraciones mensuales y del ejercicio, por cuenta de los herederos o legatarios.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-Tratándose de servicios profesionales independientes, los contribuyentes estarán obligados a presentar declaraciones provisionales en los mismos plazos en que se hagan para efectos del Impuesto Sobre la Renta.
+Tratándose de servicios personales independientes prestados a través de una asociación o sociedad civil, será ésta la que a nombre de los asociados o socios cumpla con las obligaciones señaladas en esta Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -732,9 +750,9 @@ Tratándose de servicios profesionales independientes, los contribuyentes estar�
 
 Cuando se enajene un bien o se preste un servicio en forma accidental, por los que deba pagar impuesto en los términos de esta Ley, el contribuyente lo pagará mediante declaración que presentará en las oficinas autorizadas, dentro de los 15 días hábiles siguientes a aquél en el que obtenga la contraprestación, sin que contra dicho pago se acepte acreditamiento. En las importaciones ocasionales el pago se hará como lo establece el artículo 28 de esta Ley. En estos casos no formulará declaración anual ni mensual ni llevará contabilidad; pero deberá expedir los documentos que señala la fracción III del artículo anterior y conservar la documentación correspondiente durante 5 años.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-Tratándose de enajenación de inmuebles por la que se deba pagar el impuesto en los términos de esta ley, consignada en escritura pública, los notarios, corredores, jueces y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad y lo enterarán dentro del mes siguiente a la fecha en que se firme la escritura en la oficina autorizada que corresponda a su domicilio.
+Tratándose de enajenación de inmuebles por la que se deba pagar el impuesto en los términos de esta Ley, consignada en escritura pública, los notarios, corredores, jueces y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad y lo enterarán dentro de los quince días siguientes a la fecha en que se firme la escritura, en la oficina que corresponda a su domicilio.
 
 ###### ARTICULO 34.
 
@@ -748,7 +766,9 @@ En las permutas y pagos en especie, el impuesto al valor agregado se deberá pag
 
 Las personas físicas que enajenen bienes o presten servicios, cuando sean contribuyentes menores conforme a la Ley del Impuesto sobre la Renta, pagarán el impuesto al valor agregado de conformidad con la estimación del valor de los actos o actividades por los que deban pagar el impuesto, que al efecto les practiquen las autoridades fiscales, debiéndose observar lo siguiente:
 
-I.- Llevar los registros simplificados de sus operaciones cuando lo determine la Secretaría de Hacienda y Crédito Público conforme a disposiciones de carácter general.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+I.- Llevar contabilidad simplificada, de sus operaciones de conformidad con el Código Fiscal de la Federación, su Reglamento y el Reglamento de esta Ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -764,11 +784,19 @@ La diferencia entre el impuesto a cargo estimado y el impuesto acreditable en lo
 
 Las estimaciones a que se refiere esta fracción se mantendrán hasta que las autoridades fiscales formulen otras.
 
-III.- Pagar bimestralmente el impuesto a que se refiere la fracción anterior. Este impuesto tendrá el carácter de definitivo y los contribuyentes no tendrán que presentar declaraciones del ejercicio.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+III.- Pagar bimestralmente el impuesto a que se refiere la fracción anterior a cuenta del impuesto del ejercicio, los cuales deberán hacerse dentro del bimestre al cual corresponda ante las oficinas autorizadas.
 
 IV.- Cuando de las comprobaciones que lleven a cabo las autoridades fiscales aparezca que el valor de los actos o actividades por las que el contribuyente deba pagar el impuesto al valor agregado, es superior en más de un 20% a la última estimación practicada, se rectificará ésta y se cobrarán las diferencias de impuesto que procedan más lo (sic) recargos de ley y sanciones respectivas, salvo que el contribuyente solicite espontáneamente a las autoridades fiscales la rectificación de la estimación, en cuyo caso, pagará el impuesto que corresponda a partir del bimestre en que haya solicitado la rectificación, quedando liberado de pagar las diferencias correspondientes a bimestres anteriores.
 
-V.- Conservar los registros simplificados a que se refiere la fracción I de este artículo y los documentos que señale la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+V.- Conservar la contabilidad simplificada a que se refiere la fracción I de este artículo y los comprobantes señalados en el artículo 36 de esta Ley.
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+VI.- Presentar declaración del ejercicio.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -778,15 +806,19 @@ Las personas físicas que siendo contribuyentes menores en los términos del art
 
 I.- Continuarán pagando el impuesto mediante estimación actualizada conforme al valor real de los actos o actividades del contribuyente, ante las mismas autoridades fiscales, durante el año inmediato posterior a aquél en que dejaron de ser contribuyentes menores, teniendo estos pagos el carácter de definitivos.
 
-II.- Llevarán los registros simplificados que para tal efecto determine la Secretaría de Hacienda y Crédito Público, durante los dos años siguientes a aquél en que dejaron de ser contribuyentes menores.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-III.- No estarán obligados a cumplir con lo dispuesto en las fracciones I y IV del referido artículo 35, durante el período señalado en la fracción anterior.
+II.- Llevarán contabilidad simplificada de conformidad con el Código Fiscal de la Federación, su Reglamento y el Reglamento de esta Ley, durante los dos años siguientes a aquél en que dejaron de ser contribuyentes menores.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+
+III.- No estarán obligados a cumplir con lo dispuesto en las fracciones I y IV del referido artículo 32, durante el período señalado en la fracción anterior.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 36.
 
-Los contribuyentes menores deberán expedir documentos que reúnan requisitos fiscales, cuando se lo solicite el adquirente de los bienes o el usuario del servicio, conservando copia de los mismos. En los documentos que expidan trasladarán el impuesto en forma expresa y por separado del precio, el que formará parte del monto del impuesto estimado.
+Los contribuyentes menores deberán expedir comprobantes por las actividades que realicen en los que trasladarán el impuesto en forma expresa y por separado del precio, excepto en los casos a que se refiere el párrafo segundo de la fracción III del artículo 32 de esta Ley.
 
 ###### ARTICULO 37.
 
@@ -812,15 +844,11 @@ La estimación del impuesto acreditable, se hará conforme a los por cientos de 
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1981)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, MODIFICADO POR EL ARTICULO SEGUNDO DEL DECRETO PUBLICADO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
-
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 39.
 
 Al importe de la determinación presuntiva del valor de los actos o actividades por los que se deba pagar el impuesto en los términos de esta Ley, se aplicará la tasa del impuesto que corresponda conforme a la misma, y el resultado se reducirá con las cantidades acreditables que se comprueben.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACION, VER ARTICULO DECIMOOCTAVO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 31 DE DICIEMBRE DE 1981, MODIFICADO POR EL ARTICULO SEGUNDO DEL DECRETO PUBLICADO EN EL D.O.F. 30 DE SEPTIEMBRE DE 1982.</small>
 
 ###### ARTICULO 40.
 
@@ -1061,3 +1089,17 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 La presente Ley entrará en vigor en toda la República el día 1o. de enero de 1983.
 
 ARTICULO DECIMOSEXTO.- Los precios pactados antes del 1o. de enero de 1983, podrán ser aumentados en la cantidad necesaria para trasladar el incremento en el impuesto al valor agregado que resulten de la aplicación de las nuevas tasas.
+
+D.O.F. 30 DE DICIEMBRE DE 1983.
+
+DISPOSICIONES DE VIGENCIA ANUAL
+
+###### ARTICULO DECIMO QUINTO.
+
+El factor a que se refieren los artículos 116 de la Ley del Impuesto sobre la Renta y 37 de la Ley del Impuesto al Valor Agregado será de 0.80 para el año de 1984.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1984.
