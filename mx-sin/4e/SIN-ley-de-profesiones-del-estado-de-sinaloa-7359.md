@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-profesiones-del-estado-de-sinaloa-7359"
 country: "mx"
 rank: "ley"
 publication_date: "1955-05-03"
-last_updated: "1957-02-21"
+last_updated: "1957-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7359&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PROFESIONES DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 1957.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 1957.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el 3 de mayo de 1955.
 
@@ -537,9 +537,9 @@ PRIMERO.- Esta Ley entrará en vigor en todo el Estado después de su publicaci�
 
 SEGUNDO.- Esta Ley deroga todas aquellas disposiciones de carácter general que se opongan a ella o que se hayan expedido sobre esta materia.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1957)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 1957)</small>
 
-TERCERO.- Los títulos profesionales que con anterioridad a la Ley hayan sido legalmente expedidos, surtirán todos sus efectos pero, para que sus poseedores puedan seguir ejerciendo, deberán registrarlos ante la autoridad correspondiente, dentro de un término máximo de dos años contados a partir de la vigencia de esta Ley.
+TERCERO.- Los Títulos profesionales que con anterioridad a la Ley hayan sido legalmente expedidos, surtirán todos sus efectos pero, para que sus poseedores puedan seguir ejerciendo, deberán registrarlos ante la autoridad correspondiente, dentro de un término máximo de tres años contados a partir de la vigencia de esta Ley.
 
 CUARTO.- La Dirección General de Profesiones, de acuerdo con la Reglamentación que se hiciere, podrá autorizar para los cargos públicos que exijan la posesión de un título profesional a persona que no lo posea, siempre que no hubiere profesionistas para desempeñarlos conforme a las disposiciones relativas del servicio social, o de manera voluntaria.
 
@@ -612,3 +612,7 @@ UNICO. El presente Decreto comenzará a surtir sus efectos legales correspondien
 P.O. 21 DE FEBRERO DE 1957.
 
 UNICO.- El presente Decreto comenzará a surtir sus efectos legales correspondientes a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 21 DE MAYO DE 1957.
+
+UNICO.- El presente Decreto surte sus efectos legales correspondientes a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
