@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1941-09-03"
+last_updated: "1943-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 1941.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 1943.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -265,23 +265,17 @@ La elección de Diputados será directa por mayoría de sufragios, en los térmi
 
 Por cada Diputado propietario se elegirá un suplente.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1943)</small>
+
 ###### Art. 28.
 
 Para ser Diputado se requiere:
 
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
+I. Ser mexicano por nacimiento.
 
-I. Ser mexicano por nacimiento e hijo de padres mexicanos por nacimiento.
+II. Tener 25 años de edad, cumplidos el día de la elección.
 
-II. Tener veinticinco años de edad cumplidos el día de la elección.
-
-> <small>(REFORMADA P.O. 3 DE SEPTIEMBRE DE 1941)</small>
-
-III. a) Ser originario del Distrito que deba representar; o
-
-b) Ser originario del Estado con vecindad efectiva no menor de dos años en el Distrito; o
-
-c) Ser vecino del Distrito, con residencia efectiva en él, no menor de diez años inmediatamente anteriores al día de la elección.
+III. Ser originario del Estado o tener residencia efectiva no menor de 5 años inmediatamente anteriores al día de la elección en el Distrito que vaya a representar.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -611,7 +605,7 @@ VII. Recibir los expedientes relativos a las elecciones de Diputados y Gobernado
 
 VIII. Conceder amnistía, de acuerdo con la fracción XX del artículo 47 de esta misma Constitución.
 
-IX. Verificar, de acuerdo con el Ejecutivo, el cambio de residencia temporal de los Poderes del Estado, en los casos de suma urgencia.
+IX.- Verificar, de acuerdo con el Ejecutivo, el cambio de residencia temporal de los Poderes del Estado, en los casos de suma urgencia.
 
 ## TITULO CUARTO
 
@@ -673,11 +667,11 @@ Si al comenzar el período constitucional no se presentare el Gobernador electo,
 
 El cargo de Gobernador del Estado solo es renunciable por causa grave que calificará el Congreso, ante el cual se presentará la renuncia.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1938)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1943)</small>
 
 ###### Art. 68.
 
-El Gobernador no podrá salir del Territorio del Estado, ni separarse del Ejercicio de sus funciones sin permiso de la Cámara o de la Diputación Permanente en su caso, salvo que su ausencia no exceda de diez días, debiendo avisar en cada ocasión a las mismas, de la fecha en que principie a hacer uso de este derecho.
+El Gobernador no podrá salir del Territorio del Estado ni separarse del ejercicio de sus funciones sin permiso de la Cámara o Diputación Permanente en su caso, salvo que su ausencia no exceda de 20 días.
 
 ### CAPITULO VII. De las facultades y obligaciones del Gobernador
 
@@ -1243,7 +1237,7 @@ DIPUTADO POR EL 14º DISTRITO ELECTORAL.
 
 Pablo Retes, Z., Vice-Presidente, Diputado por el Primer Distrito Electoral.- Marcos Esmerio, Diputado por el Segundo Distrito Electoral.- M.L. Urbina, Diputado por el Tercer Distrito Electoral.- Francisco Amézquita, Diputado por el Cuarto Distrito Electoral.- F. R. Pérez, Diputado por el Quinto Distrito Electoral.- Manuel Guzmán, Diputado Suplente por el Sexto Distrito Electoral.- Fidencio Estrada, Diputado por el Séptimo Distrito Electoral.- José María Ledón, Diputado por el Octavo Distrito Electoral.- J. Aguiar Béjar, Diputado Suplente por el Décimo Distrito Electoral.- Francisco N. Arroyo, Diputado por el Décimosegundo Distrito Electoral.- Antonio de P. Monroy, Diputado por el Décimotercero Distrito Electoral.- Mig. C. Madrigal, Diputado por el Décimoquinto Distrito Electoral.- F. R. Corona, Primer Secretario, Diputado por el Noveno Distrito Electoral.- Alfredo Robles, Segundo Secretario, Diputado por el Décimo Primero Distrito Electoral.
 
-Por lo tanto mando se imprima, publique por Bando Solemne, circule y se le dé el más exacto cumplimiento.
+Por lo tanto mando se imprima, publique por Bando Solemne, circule y sé le dé el más exacto cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo en Tepic, Nay., a los cinco días del mes de febrero de mil novecientos diez y ocho.
 
@@ -1392,3 +1386,7 @@ ART. SEGUNDO.- El presente Decreto comienza a surtir sus efectos desde la fecha 
 P.O. 3 DE SEPTIEMBRE DE 1941
 
 UNICO.- El presente Decreto entra en vigor desde la fecha en que se publique en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 1943
+
+UNICO.- El presente Decreto surtirá sus efectos a partir de la fecha de su promulgación.
