@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "1995-02-25"
+last_updated: "1995-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 1995.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -10659,9 +10659,11 @@ Es permitido estipular interés por el mutuo, ya consista en dinero, ya en géne
 
 El interés es legal o convencional.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+
 ###### Art. 1976.
 
-El interés legal será igual al importe del aumento del Indice Nacional de Precios al Consumidor según información que registre el Banco de México, que se causen entre la fecha en que se deba hacer el pago y en la que éste se efectúe, adicionándole un cincuenta por ciento.
+El interés legal será igual al Importe del aumento del Indice Nacional de Precios al Consumidor, según información que registre el Banco de México, que se causen entre la fecha en que se debe hacer el pago y en la que éste se efectúa adicionándole un tres por ciento anual.
 
 El interés convencional es el que fijen los contratantes, y puede ser mayor o menor que el interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la inexperiencia o de la ignorancia del deudor, a petición de éste el juez, teniendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta alcanzar el tipo legal.
 
@@ -16786,3 +16788,9 @@ Lic. Carlos Rivera Aceves
 El Secretario General de Gobierno
 
 Lic. José Luis Leal Sanabria
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 18 DE NOVIEMBRE DE 1995.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
