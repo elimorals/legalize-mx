@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "2002-10-15"
+last_updated: "2003-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -39,9 +39,11 @@ CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
 ### CAPITULO I. GENERALIDADES
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 1.
 
-Las disposiciones de este Código regirán en el Estado de Tamaulipas y el procedimiento será de estricto Derecho.
+Las disposiciones de este Código regirán en el Estado de Tamaulipas y el procedimiento será de estricto derecho para los asuntos de carácter civil. En las cuestiones de orden familiar, y sin alterar el principio de igualdad y equidad procesal entre las partes, el Juez podrá, de oficio suplir sus deficiencias sobre la base de proteger el interés de la familia, mirando siempre por lo que más favorezca a los menores e incapaces.
 
 ###### ARTICULO 2.
 
@@ -1369,23 +1371,35 @@ En estos casos, el demandado puede promover la incompetencia si objeta el valor 
 
 En los negocios relativos a bienes inmuebles, se considerará como valor, para los efectos de la cuantía, tres veces más del consignado en la escritura, y en su defecto, también dos tantos más del manifestado en la oficina fiscal del Estado respectiva. Cuando, por cualquier circunstancia, el valor no pueda determinarse en la forma expresada, se tomará como tal el declarado por el actor, pudiendo el demandado objetarlo y promover cuestión de competencia.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 192.
 
-Los Jueces de la (sic) Civil conocerán:
+Los Jueces de lo Civil conocerán:
 
-I.- De los negocios de jurisdicción voluntaria;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2003)</small>
+
+I.- De los negocios de jurisdicción voluntaria que no interesen al derecho de familia;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
 
 II.- De los negocios contenciosos que versen sobre propiedad o demás derechos reales sobre inmuebles;
 
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+
 III.- De los demás negocios de jurisdicción contenciosa, común y concurrente cuya cuantía exceda de cien veces el salario mínimo general vigente en la Capital del Estado;
 
-IV.- De los asuntos relativos al derecho de personas, de familia y sucesiones;
+IV.- (DEROGADA, P.O. 3 DE JUNIO DE 2003)
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
 
 V.- De los interdictos;
 
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+
 VI.- De las cuestiones de competencia, excusas y recusaciones de los Jueces Menores de su Distrito cuando las leyes así lo dispongan; y,
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
 
 VII.- De los demás asuntos que les encomienden las leyes.
 
@@ -1627,7 +1641,7 @@ Toda recusación se interpondrá ante el magistrado o juez que conozca del negoc
 
 Los magistrados y jueces que conozcan de una recusación, son irrecusables para ese solo efecto.
 
-El emplazamiento de que se habla en este artículo se considerará hecho directamente por el superior que deba sustanciar la recusación, por cuyo motivo cualquier notificación que deba hacerse al recusante, aun la radicación de los autos, surtirá efectos por medio de la lista de acuerdos, a menos que oportunamente ocurra personalmente, o designe abogado en el lugar donde radique el superior.
+El emplazamiento de que se habla en este artículo se considerará hecho directamente por el superior que deba sustanciar la recusación, por cuyo motivo cualquier notificación que daba hacerse al recusante, aun la radicación de los autos, surtirá efectos por medio de la lista de acuerdos, a menos que oportunamente ocurra personalmente, o designe abogado en el lugar donde radique el superior.
 
 ###### ARTICULO 220.
 
@@ -3657,7 +3671,7 @@ La ejecución sólo se suspenderá cuando el demandado presente certificado lega
 
 ###### ARTICULO 509.
 
-El derecho de designar los bienes que han de embargarse corresponde al deudor y sólo que éste rehuse designarlos, que esté ausente o que no designe los que tuviere en el lugar del juicio podrá ejercerlo el actor o su abogado, pero cualquiera de ellos se sujetará al orden establecido en el artículo 678.
+El derecho de designar los bienes que han de embargarse corresponde al deudor y sólo que éste rehuse designarlos, que esté ausente o que no designe los que tuviere en el lugar del juicio podrá ejercerlo el actor o su abogado, pero cualquiera de ellos se sujetará el orden establecido en el artículo 678.
 
 ###### ARTICULO 510.
 
@@ -7348,3 +7362,13 @@ P.O. 15 DE OCTUBRE DE 2002
 Artículo Primero.- El presente Decreto entrará en vigor a los quince días de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Los juicios de interdicto que se hubieren interpuesto con anterioridad a la entrada en vigor de este Decreto, se tramitarán conforme a las disposiciones vigentes al momento de su inicio.
+
+P.O. DE 3 DE JUNIO DE 2003
+
+###### ARTÍCULO PRIMERO.
+
+Las reformas a que se contrae el presente Decreto entrarán en vigor a los treinta y cinco días siguientes al de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos de naturaleza familiar que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán desahogándose en los Juzgados que sean especializados por acuerdo Plenario, los que a su vez entregarán los de índole patrimonial de que estén conociendo por los de contenido familiar con los Jueces que conserven la competencia civil patrimonial; igual procedimiento se observará en tratándose de los negocios que se encuentren en trámite en la Segunda Instancia.
