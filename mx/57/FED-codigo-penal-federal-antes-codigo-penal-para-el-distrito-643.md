@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1989-10-31"
+last_updated: "1990-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE OCTUBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE AGOSTO DE 1990.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -3275,6 +3275,10 @@ TITULO DECIMONOVENO
 
 Delitos contra la vida y la integridad corporal
 
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 1990)</small>
+
 ###### ARTICULO 288.
 
 Bajo el nombre de lesión, se comprende no solamente las heridas, escoriaciones, contusiones, fracturas, dislocaciones, quemaduras, sino toda alteración en la salud y cualquier otro daño que deje huella material en el cuerpo humano, si esos efectos son producidos por una causa externa.
@@ -4251,6 +4255,124 @@ c) Los que estén ligados con el delincuente por amor, respeto, gratitud o estre
 
 ARTICULO 400 bis.- Los jueces, teniendo en cuenta la naturaleza de la acción, las circunstancias personales del acusado y las demás que consigna el artículo 52, podrán imponer en los casos de encubrimiento, a que se refieren las fracciones I, párrafo primero, y II a IV del artículo anterior, en lugar de las sanciones establecidas en dicho artículo, hasta las dos terceras partes de las que correspondería al autor del delito, debiendo hacer constar especialmente en la sentencia las razones en que se funda para señalar la sanción que autoriza este artículo.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE AGOSTO DE 1990)</small>
+
+TITULO VIGESIMOCUARTO
+
+Delitos electorales y en materia de registro nacional de ciudadanos
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE AGOSTO DE 1990)</small>
+
+###### ARTICULO 401.
+
+Para los efectos de este capítulo se entiende por:
+
+I.- Funcionarios electorales, quienes en los términos de la legislación federal electoral integren los órganos que cumplen funciones públicas electorales;
+
+II.- Funcionarios partidistas, los dirigentes de los partidos políticos nacionales, sus candidatos y los ciudadanos a quienes en el curso de los procesos electorales federales los propios partidos otorgan representación para actuar en la jornada electoral ante los órganos electorales en los términos de la legislación federal electoral; y
+
+III.- Documentos públicos electorales, las actas oficiales de instalación de casillas, de los escrutinios y cómputo de las mesas directivas de casilla, las de los cómputos distritales, y en general, los documentos expedidos en el ejercicio de sus funciones por los órganos del Instituto Federal Electoral.
+
+> <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 1990)</small>
+
+###### ARTICULO 402.
+
+Por la comisión de cualquiera de los delitos comprendidos en el presente Capítulo se podrá imponer además de la pena señalada, la suspensión de derechos políticos de uno a cinco años.
+
+> <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 1990)</small>
+
+###### ARTICULO 403.
+
+Se impondrán de diez a cien días multa o prisión de seis meses a dos años, o ambas sanciones a juicio del juez, a quien:
+
+I.- Vote a sabiendas de que no cumple con los requisitos de la ley;
+
+II.- Vote más de una vez en una misma elección;
+
+III.- Haga proselitismo el día de la jornada electoral en el interior de las casillas o en el lugar en que se encuentran formados los votantes; o
+
+IV.- Obstaculice o interfiera el desarrollo normal de las votaciones o del escrutinio.
+
+> <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 1990)</small>
+
+###### ARTICULO 404.
+
+Se impondrán hasta 500 días multa, a los ministros de cultos religiosos, que por cualquier medio induzcan al electorado a votar en favor o en contra de un candidato o partido político, o a la abstención, en los edificios destinados al culto o en cualquier otro lugar.
+
+> <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 1990)</small>
+
+###### ARTICULO 405.
+
+Se impondrá de veinte a cien días multa o prisión de tres meses a cinco años, o ambas sanciones a juicio del juez, al funcionario electoral que:
+
+I.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido de documentos relativos al Registro Federal de Electores;
+
+II.- Se abstenga de cumplir, sin causa justificada, con sus obligaciones electorales con perjuicio del proceso;
+
+III.- Obstruya el desarrollo normal de la votación sin mediar causa justificada;
+
+IV.- Altere los resultados electorales, sustraiga o destruya boletas electorales;
+
+V.- No entregue o impida la entrega oportuna de documentos oficiales, sin mediar causa justificada; y
+
+VI.- En ejercico (sic) de sus funciones ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+VII.- Al que instale, abra o cierre dolosamente una casilla fuera de los tiempos y formas previstos por la ley de la materia; y
+
+VIII.- Al que expulse de la casilla electoral sin causa justificada a representante de un partido político.
+
+> <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 1990)</small>
+
+###### ARTICULO 406.
+
+Se impondrán de cincuenta a cien días multa o prisión de tres meses a cinco años, o ambas sanciones a juicio del juez, al funcionario partidista que:
+
+I.- Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+II.- Realice propaganda electoral mientras cumple sus funciones durante la jornada electoral;
+
+III.- Substraiga, destruya, altere o haga un uso indebido de documentos oficiales de índole electoral;
+
+IV.- Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
+
+V.- Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto a los resultados oficiales contenidos en las actas de escrutinio y cómputo; o
+
+VI.- Impida con violencia la instalación; apertura o cierre de una casilla o la abra o cierre fuera de los tiempos previstos por la Ley en la materia.
+
+> <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 1990)</small>
+
+###### ARTICULO 407.
+
+Se impondrán de setenta a doscientos días multa o prisión de tres meses a seis años, o ambas sanciones a juicio del juez, al servidor público que:
+
+I.- Abusando de sus funciones obligue a sus subordinados a emitir sus votos en favor de un partido político o candidato;
+
+II.- Condicione la prestación de un servicio público a la emisión del sufragio en favor de un partido político o candidato; o
+
+III.- Destine fondos o bienes que tenga a su disposición en virtud de su cargo al apoyo de un partido político o de un candidato, sin perjuicio de las penas que puedan corresponder por el delito de peculado, o proporcione ese apoyo a través de sus subordinados usando del tiempo correspondiente a sus labores para que éstos presten servicios a un partido político o candidato.
+
+> <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 1990)</small>
+
+###### ARTICULO 408.
+
+Se impondrá sanción de suspensión de sus derechos políticos hasta por seis años a quienes, habiendo sido electos diputados o senadores no se presenten, sin causa justificada a juicio de la Cámara respectiva, a desempeñar el cargo dentro del plazo señalado en el primer párrafo del artículo 63 de la Constitución.
+
+> <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 1990)</small>
+
+###### ARTICULO 409.
+
+Se impondrán de veinte a cien días multa o prisión de tres meses a cinco años, o ambas sanciones a juicio del juez, a quien:
+
+I.- Proporcione documentos o información falsa al Registro Nacional de Ciudadanos para obtener el documento que acredite la ciudadanía; y
+
+II.- Altere en cualquier forma, sustituya, destruya o haga un uso indebido del documento que acredita la ciudadanía, que en los términos de la ley de la materia, expida el Registro Nacional de Ciudadanos.
+
+> <small>(ADICIONADO, D.O.F. 15 DE AGOSTO DE 1990)</small>
+
+###### ARTICULO 410.
+
+La pena a que se refiere el artículo anterior se podrá incrementar en una cuarta parte si las conductas son cometidas por personal del órgano que tenga a su cargo el servicio del Registro Nacional de Ciudadanos conforme a la ley de la materia, o si fuere de nacionalidad extranjera.
+
 ARTICULOS TRANSITORIOS:
 
 1°.- Este Código comenzará a regir el día 17 de septiembre de 1931.
@@ -4668,3 +4790,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se deroga el artículo 611 del Código de Procedimientos Penales para el Distrito Federal y las demás disposiciones que se opongan al presente Decreto.
+
+D.O.F. 15 DE AGOSTO DE 1990.
+
+PRIMERO.- La presente adición entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los artículos 409 y 410 que se adicionan entrarán en vigor al día siguiente de que se publique en el Diario Oficial de la Federación, la ley o decreto que contenga las normas relativas al Registro Nacional de Ciudadanos y a la expedición del documento que acredite la ciudadanía.
