@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1994-del-tribunal-en-pleno-del-dia-primero-630
 country: "mx"
 rank: "acuerdo"
 publication_date: "1994-02-25"
-last_updated: "1994-02-25"
+last_updated: "1996-03-12"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63024&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-02-01"
 
 ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MARZO DE 1996.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 25 de febrero de 1994.
 
@@ -53,7 +53,7 @@ ACUERDO:
 
 PRIMERO.- Se crean los siguientes órganos jurisdiccionales: A) un nuevo tribunal colegiado, el Cuarto, en el Segundo Circuito con residencia en la ciudad de Toluca, México y con igual jurisdicción a la de los tres tribunales colegiados que funcionan actualmente en dicha ciudad; B) un nuevo tribunal unitario, el Tercero, en el Quinto Circuito con residencia en la ciudad de Hermosillo, Sonora y con igual jurisdicción a la de los dos tribunales unitarios que funcionan actualmente en dicha ciudad; C) un nuevo juzgado de Distrito en el Estado de Sinaloa con residencia en la ciudad de Culiacán y con jurisdicción igual a la de los dos juzgados de Distrito que funcionan actualmente en dicha ciudad; D) un nuevo tribunal colegiado, el Segundo; en el Décimo Cuarto Circuito, con residencia en la ciudad de Mérida y con igual jurisdicción a la del tribunal colegiado que funciona actualmente en dicha ciudad; E) un nuevo tribunal unitario, el Tercero, en el Décimo Quinto Circuito con residencia en la ciudad de Mexicali, Baja California y con igual jurisdicción a la de los dos tribunales unitarios que funcionan actualmente en dicha ciudad; F) un nuevo juzgado de Distrito, el Cuarto, en el Estado de Guanajuato, con residencia en la ciudad de León y con jurisdicción igual a la del juzgado de Distrito que funciona actualmente en dicha ciudad; G) un nuevo tribunal colegiado, el Segundo, en el Décimo Octavo Circuito con residencia en la ciudad de Cuernavaca, Morelos y con igual jurisdicción a la del tribunal colegiado que funciona actualmente en dicha ciudad; y H) un nuevo juzgado de Distrito en el Estado de Guerrero con residencia en la ciudad de Acapulco y con jurisdicción igual a la de los dos juzgados de Distrito que funcionan actualmente en dicha ciudad.
 
-SEGUNDO.- El nuevo juzgado de Distrito en el Estado de Sinaloa con residencia en la ciudad de Culiacán, será el Juzgado Tercero de Distrito en el Estado de Sinaloa con residencia en la ciudad de Culiacán; los juzgados que actualmente son Tercero y Séptimo de Distrito con residencia en la ciudad de Los Mochis pasarán a ser, respectivamente, los Juzgados Quinto y Sexto de Distrito en el Estado de sinaloa con residencia en la ciudad de Los Mochis; los que actualmente son Quinto, Sexto y Octavo de Distrito con residencia en la ciudad de Mazatlán pasarán a ser, respectivamente, los Juzgados Séptimo, Octavo y Noveno de Distrito en el Estado de Sinaloa con residencia en la ciudad de Mazatlán.
+SEGUNDO.- El nuevo juzgado de Distrito en el Estado de Sinaloa con residencia en la ciudad de Culiacán, será el Juzgado Tercero de Distrito en el Estado de Sinaloa con residencia en la ciudad de Culiacán; los juzgados que actualmente son Tercero y Séptimo de Distrito con residencia en la ciudad de Los Mochis pasarán a ser, respectivamente, los Juzgados Quinto y Sexto de Distrito en el Estado de Sinaloa con residencia en la ciudad de Los Mochis; los que actualmente son Quinto, Sexto y Octavo de Distrito con residencia en la ciudad de Mazatlán pasarán a ser, respectivamente, los Juzgados Séptimo, Octavo y Noveno de Distrito en el Estado de Sinaloa con residencia en la ciudad de Mazatlán.
 
 TERCERO.- El nuevo Juzgado de Distrito en el Estado de Guerrero con residencia en la ciudad de Acapulco, será el Juzgado Cuarto de Distrito en el Estado de Guerrero con residencia en la ciudad de Acapulco; el Juzgado que actualmente es Cuarto de Distrito con residencia en la ciudad de Iguala, pasará a ser el Juzgado Quinto de Distrito en el Estado de Guerrero con residencia en la ciudad de Iguala.
 
@@ -127,6 +127,10 @@ CUARTO.- Se reforma, modifica y adiciona el punto segundo, fracciones II, V, XII
 
 3.- Juzgados Tercero y Cuarto de Distrito en el Estado de Guanajuato, con residencia en la ciudad de León"
 
+> <small>(ADICIONADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 16/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MARZO DE 1996)</small>
+
+4.- Juzgado Quinto de Distrito en el Estado de Guanajuato, con residencia en la ciudad de Celaya.
+
 "XVIII.- ...
 
 1.- Dos tribunales colegiados y un tribunal unitario con residencia en la ciudad de Cuernavaca, Morelos;
@@ -183,7 +187,13 @@ QUINTO.- Se reforma modifica y adiciona el punto Tercero, fracciones IV, V, VI, 
 
 "XXVII.- Los Juzgados Cuarto, Quinto, Sexto y Séptimo de Distrito en el Estado de Baja California, con residencia en la ciudad de Tijuana, ejercerán jurisdicción en el municipio del mismo nombre, y en el de Tecate, del Estado de Baja California;"
 
-"XXIX.- Los Juzgados Tercero y Cuarto de Distrito en el Estado de Guanajuato, con residencia en la ciudad de León, ejercerán jurisdicción en los municipios mencionados en la fracción XXVIII;"
+> <small>(REFORMADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 16/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MARZO DE 1996)</small>
+
+"XXIX.- Los Juzgados Tercero y Cuarto de Distrito en el Estado de Guanajuato, con residencia en la ciudad de León, ejercerán jurisdicción en los municipios de León, Ciudad Manuel Doblado, San Francisco del Rincón, Purísima de Bustos, San Felipe y Ocampo;"
+
+> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 16/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MARZO DE 1996)</small>
+
+"XXIX Bis.- El Juzgado Quinto de Distrito en el Estado de Guanajuato, con residencia en la ciudad de Celaya, ejercerá jurisdicción en los municipios de Apaseo el Grande, Apaseo el Alto, Acámbaro, Celaya, Tarimoro, Cortazar, Coroneo, Jaral del Progreso, Jerécuaro, Moroleón, Salvatierra, Santiago Maravatío, Tarandacuao, Uriangato, Yuriria, Juventino Rosas, Comonfort, Villagrán y Valle de Santiago;"
 
 "XXXII.- Los Juzgados Primero y Segundo de Distrito en el Estado de Tamaulipas, con residencia en Ciudad Victoria, ejercerán jurisdicción en los municipios de Victoria, Güemes, Padilla, Villagrán, Casas, Hidalgo, Llera, Jiménez, Mainero, Mante, Antiguo Morelos, Nuevo Morelos, Xicoténcatl, Gómez Farías, Ocampo, Tula, Palmillas, Bustamante, Miquihuana, Jaumave, San Carlos, San Nicolás, Soto La Marina y Abasolo;"
 
@@ -212,3 +222,17 @@ CUARTO.- La Comisión de Gobierno y Administración y los ministros Inspectores 
 QUINTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación, y hágase del conocimiento de todos los tribunales de Circuito y juzgados de Distrito del país para su cumplimiento.
 
 Licenciado José Javier Aguilar Domínguez, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Que este Acuerdo 1/1994, relativo a la creación de órganos jurisdiccionales, fue emitido por el Tribunal Pleno en Sesión Privada de primero de febrero de mil novecientos noventa y cuatro, por unanimidad de veintiún votos de los señores ministros: Presidente Ulises Schmill Ordóñez, Carlos de Silva Nava, Ignacio Magaña Cárdenas, José Trinidad Lanz Cárdenas, Miguel Montes García, Carlos Sempé Minvielle, Noé Castañón León, Felipe López Contreras, Luis Fernández Doblado, José Antonio Llanos Duarte, Victoria Adato Green, Samuel Alba Leyva, Ignacio Moisés Cal y Mayor Gutiérrez, Clementina Gil de Lester, Atanasio González Martínez, José Manuel Villagordoa Lozano, Fausta Moreno Flores, Carlos García Vázquez, Mariano Azuela Güitrón, Juan Díaz Romero y Sergio Hugo Chapital Gutiérrez.- México, Distrito Federal, a dos de febrero de mil novecientos noventa y cuatro.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 12 DE MARZO DE 1996.
+
+PRIMERO.- Este Acuerdo entrará en vigor el veintisiete de marzo de mil novecientos noventa y seis.
+
+SEGUNDO.- Se modifican y adicionan los Acuerdos 1/1993 y 1/1994, ambos del Pleno de la Suprema Corte de Justicia de la Nación, de fechas trece de enero de mil novecientos noventa y tres y primero de febrero de mil novecientos noventa y cuatro, respectivamente, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+CUARTO.- El Pleno del Consejo de la Judicatura Federal resolverá cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente Acuerdo.
+
+QUINTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
