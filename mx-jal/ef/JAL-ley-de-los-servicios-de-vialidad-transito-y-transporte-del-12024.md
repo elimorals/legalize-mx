@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "1999-04-03"
+last_updated: "1999-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1999.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -1647,7 +1647,9 @@ II. Cuando se oferte o realice un servicio distinto del autorizado en la concesi
 
 III. Cuando se haga la transmisión de la concesión o del vehículo, o la sustitución de este último, sin observarse los requisitos que para tales casos establezcan esta Ley y su reglamento;
 
-IV. Cuando el concesionario suspenda el servicio por más de dos meses o definitivamente el servicio que deban prestar;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1999)</small>
+
+IV. Cuando el concesionario suspenda el servicio por más de cuatro meses sin justificación alguna;
 
 V. Cuando se reincida en el incumplimiento en los itinerarios y horarios;
 
@@ -1666,6 +1668,10 @@ XI. Por trasmitir o ceder a título oneroso la concesión;
 XII. Por violaciones a esta Ley y a su reglamento que alteren substancialmente la prestación del servicio; y
 
 XIII. Por exigirlo así el interés público.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 1999)</small>
+
+Las resoluciones administrativas que acuerden la revocación de las concesiones de transporte podrán ser impugnadas mediante la interposición de los medios de defensa que correspondan, en los términos previstos en el capítulo VIII de esta ley.
 
 ###### Artículo 138.
 
@@ -2518,3 +2524,7 @@ Lic. Raúl Octavio Espinoza Martínez
 P.O. 3 DE ABRIL DE 1999.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco", a excepción de lo dispuesto en la fracción V del artículo 162 del presente, que entrará en vigor a partir de los seis meses posteriores a su publicación.
+
+P.O. 15 DE JUNIO DE 1999.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
