@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-expropiacion-del-estado-de-baja-california-3559"
 country: "mx"
 rank: "ley"
 publication_date: "1954-02-28"
-last_updated: "1954-02-28"
+last_updated: "1955-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EXPROPIACION DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 1955.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 28 de febrero de 1954.
 
@@ -37,9 +37,11 @@ NUMERO 14.- La H. Primera Legislatura del Estado Libre y Soberano de Baja Califo
 
 LEY DE EXPROPIACION DEL ESTADO DE BAJA CALIFORNIA.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1955)</small>
+
 ###### ARTICULO 1o.
 
-La propiedad particular no puede ser ocupada sin consentimiento de su dueño sino por causa de utilidad pública y previa indemnización, de acuerdo con las prescripciones siguientes.
+La propiedad particular no puede ser ocupada sin consentimiento de su dueño sino por causas de utilidad pública y mediante indemnización, de acuerdo con las prescripciones siguientes.
 
 ###### ARTICULO 2o.
 
@@ -178,3 +180,9 @@ LIC. BRAULIO MALDONADO SANDEZ
 El Secretario General de Gobierno,
 
 LIC. RAFAEL MORENO HENRIQUEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE FEBRERO DE 1955.
+
+UNICO.- El Presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial.
