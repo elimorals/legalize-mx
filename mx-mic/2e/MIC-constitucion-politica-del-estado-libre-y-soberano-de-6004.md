@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1991-12-12"
+last_updated: "1992-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 1992.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -369,7 +369,7 @@ El Presidente del Congreso velará por el respeto al fuero constitucional de los
 
 Los diputados propietarios, durante el período de su encargo, no podrán desempeñar ninguna comisión o empleo de la Federación, del Estado o del Municipio por los cuales se disfrute sueldo, a excepción de los de instrucción pública y beneficencia, sin licencia previa del Congreso. En su caso, cesarán en sus funciones representativas mientras dure la nueva ocupación.
 
-La misma regla se observará con los diputados suplentes cuando estuvieren en ejercicio. La infracción a esta prohibición, se castigará con la pérdida del carácter de Diputado.
+La misma regla se observará con los diputados suplentes cuando estuvieren en ejercicio. La infracción a esta prohibición, se castigará con la pérdida del carácter de diputado.
 
 > <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -549,7 +549,9 @@ I.- Legislar sobre todos los ramos de la administración que sean de la competen
 
 II.- Iniciar ante el Congreso de la Unión leyes o decretos, y secundar, cuando lo estime conveniente, las iniciativas hechas por las Legislaturas de otros Estados;
 
-III.- Legislar sobre el fraccionamiento y expropiación de tierras, conforme a las bases que fija el artículo 27 de la Constitución General de la República; sobre educación, ejercicio de profesiones, salubridad y asistencia pública;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE MARZO DE 1992)</small>
+
+III.- Legislar sobre el fraccionamiento y expropiación de tierras, conforme a las bases que fija el artículo 27 de la Constitución General de la República; sobre educación, ejercicio de profesiones, salubridad y asistencia pública; protección al ambiente y de preservación y restauración del equilibrio ecológico.
 
 IV.- Crear municipios dentro de los límites territoriales de los existentes, lo que deberá hacerse conforme a estas bases:
 
@@ -2230,5 +2232,9 @@ P.O. 24 DE DICIEMBRE DE 1990.
 El presente decreto entrará en vigor el día 1º. de enero de 1991, previa publicación en el Periódico Oficial del Estado.
 
 P.O. 12 DE DICIEMBRE DE 1991.
+
+UNICO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE MARZO DE 1992.
 
 UNICO. Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
