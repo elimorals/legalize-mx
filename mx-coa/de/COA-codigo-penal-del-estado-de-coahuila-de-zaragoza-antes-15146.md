@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "1999-05-28"
+last_updated: "1999-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CODIGO PENAL DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -1021,7 +1021,9 @@ Al servidor público que por sí o por interpósita persona y sin causa justific
 
 FIGURA TÍPICA EN GRADO DE TENTATIVA. La figura típica en grado de tentativa se integra cuando la resolución de cometer un delito se exterioriza, por realizar en parte una conducta unívoca e idónea para consumarlo; o por ejecutar totalmente la que debiera producir el resultado; sí aquél no se consuma por causas ajenas a la voluntad del agente.
 
-La conducta que se adecue a un tipo penal en grado de tentativa, será punible desde un tercio del mínimo, hasta la mitad del máximo de prisión y multa que se trató de consumar; sin perjuicio de las demás sanciones aplicables.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+La conducta que se adecue a un tipo penal en grado de tentativa, será punible desde un tercio del mínimo, hasta la mitad del máximo de prisión y multa del delito que se trató de consumar; sin perjuicio de las demás sanciones aplicables.
 
 Se aplicarán al tipo penal en grado de tentativa y al tipo penal del artículo siguiente las previsiones del artículo 16, según el delito que se trató de consumar y las circunstancias que concurran en el caso.
 
@@ -1811,13 +1813,15 @@ II. PERJURIO ANTE AUTORIDAD JUDICIAL. A quien afirmando, negando u ocultando dat
 
 La pena de prisión se podrá aumentar hasta quince años, cuando en sentencia del orden penal se le dé fuerza probatoria al testimonio, peritaje, interpretación o traducción falsos; siempre y cuando sea en forma determinante para condenar al inculpado y la pena de prisión que se le imponga sea superior a quince años.
 
-III. PERJURIO CON RELACIÓN A DOCUMENTO. A quien con cualquier carácter se le examine con arreglo a derecho por una autoridad y niegue falsamente que es suya la firma conque (sic)suscribió un documento; o respecto de éste afirme un hecho falso; o lo alterne con uno verdadero; o niegue éste o sus circunstancias sustanciales.
+III. PERJURIO CON RELACIÓN A DOCUMENTO. A quien con cualquier carácter se le examine con arreglo a derecho por una autoridad y niegue falsamente que es suya la firma conque (sic) suscribió un documento; o respecto de éste afirme un hecho falso; o lo alterne con uno verdadero; o niegue éste o sus circunstancias sustanciales.
 
 Este artículo será inaplicable al inculpado en un procedimiento penal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 238.
 
-SANCIONES Y FIGURA TÍPICA DE SOBORNO A TESTIGOS, PERITOS, TRADUCTORES O INTÉRPRETES. A quien soborne a un testigo, perito, traductor o intérprete para que se conduzca con falsedad; o lo obligue o comprometa a ello intimidándole o de cualquier otro modo.
+SANCIONES Y FIGURA TIPICA DE SOBORNO A TESTIGOS, PERITOS, TRADUCTORES O INTERPRETES. Se aplicará de seis meses a seis años de prisión y multa: A quien soborne a un testigo, perito, traductor o intérprete para que se conduzca con falsedad; o lo obligue o comprometa a ello intimidándole o de cualquier otro modo.
 
 La pena de prisión se podrá aumentar hasta quince años, cuando en sentencia del orden penal se le dé fuerza probatoria al testimonio, peritaje o traducción falsos; siempre y cuando sea en forma determinante para condenar al inculpado y la pena de prisión que se le imponga sea superior a quince años.
 
@@ -2019,13 +2023,17 @@ AUTONOMÍA DE LA VÍA CIVIL. Si quien se considere con derecho a la reparación 
 
 DELIMITACIÓN DE LOS TERCEROS OBLIGADOS A LA REPARACIÓN. Son terceros obligados a la reparación del daño:
 
-I. ASCENDIENTES, TUTORES O CUSTODIOS. Los ascendientes, tutores o custodios: Por los delitos de sus descendientes mayores de dieciséis años; o por los hechos que se tipifiquen objetivamente como delitos que se cometan por los incapacitados sujetos a su potestad, tutela o guarda.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+I. ASCENDIENTES, TUTORES O CUSTODIOS. Los ascendientes, tutores o custodios: Por los delitos culposos de sus descendientes mayores de dieciséis años de edad pero menores de dieciocho; también responderán los ascendientes, tutores o custodios, en el procedimiento de la ley correspondiente, por los hechos que se tipifiquen objetivamente como delitos que cometan los menores de dieciséis años de edad o incapacitados sujetos a su potestad, tutela o guarda.
 
 II. DUEÑOS O ENCARGADOS DE NEGOCIACIONES. Los dueños o encargados de negociaciones, las empresas o establecimientos civiles y mercantiles de cualquier clase: Por los delitos que cometan culposamente sus aprendices, jornaleros, obreros, empleados o artesanos, con motivo o en el desempeño de su trabajo.
 
 III. AGRUPACIONES Y PERSONAS MORALES DE HECHO O DE DERECHO. Las agrupaciones; personas morales de hecho o de derecho; o las que se ostenten como tales: Por los delitos de sus socios, agentes, directivos y en general por quienes legalmente vinculados con aquéllas, actúan en su nombre o representación. Se exceptúa de esta regla a la sociedad conyugal; pues cada cónyuge responderá con sus bienes propios o con su parte alícuota, y sólo para reparar el daño que él cause.
 
-IV. COMPAÑÍAS AFIANZADORAS. Las compañías afianzadoras: Por el daño que con motivo de delito culposo causen sus asegurados, según los conceptos de la póliza del seguro a su favor.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+IV. COMPAÑÍAS DE SEGUROS Y AFIANZADORAS. Las compañías de seguros y afianzadoras: Por el daño que con motivo de delito culposo causen sus asegurados o fiados, según los conceptos de la póliza del seguro o fianza a su favor.
 
 V. DUEÑOS DE MECANISMOS O SUSTANCIAS PELIGROSAS. Los dueños de mecanismos, instrumentos, aparatos, vehículos o sustancias peligrosas, con inclusión de los de cualesquier vehículo automotor: Por los delitos que con motivo de su tenencia, custodia o uso, cometan culposamente las personas que los manejen o tengan a su cargo. Siempre y cuando la tenencia, custodia o uso la confieran voluntariamente. Exceptuándose los casos de contratos de compraventa en abonos o con reserva de dominio.
 
@@ -2435,7 +2443,9 @@ BASES PARA REINICIAR EL CÓMPUTO DE PRESCRIPCIÓN, CUANDO SE INTERRUMPE EL TÉRM
 
 I. LIBERTAD DEL INCULPADO. El inculpado obtenga o se le ponga en libertad; o se evada, si estaba preso.
 
-II. MEDIO DE PRUEBA DESAHOGADO. Se desahogue un medio de prueba relativo a los elementos del tipo penal delictivo, en la averiguación previa; o en el proceso dentro del tiempo a que alude la fracción IV del artículo 171.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+II. MEDIO DE PRUEBA DESAHOGADO. Se desahogue un medio de prueba relativo a los elementos del tipo penal delictivo, en la averiguación previa o en el proceso; dentro del tiempo a que aluden las fracciones II y IV respectivamente del Artículo 171.
 
 III. SUSTRACCIÓN DEL INCULPADO. El inculpado se sustraiga al procedimiento o al proceso. Si estaba en libertad bajo caución, se tomará como base el día en el que dio motivo para su revocación. Si estaba sujeto a proceso, se tomará como base el día en el que quebrante cualquier medida de arraigo que dé motivo a librar en su contra orden de aprehensión.
 
@@ -2603,7 +2613,9 @@ II. VIOLACIÓN REITERADA A NORMAS SOBRE PROTECCIÓN DE TRÁNSITO EN CARRETERAS Y
 
 SANCIONES Y FIGURA TÍPICA DE OMISIÓN DE PROTEGER AL TRÁNSITO POR OBRA PÚBLICA. Se aplicará prisión de uno a seis meses y multa:
 
-Al servidor público que, dentro del período de un año, en dos o más ocasiones no ordene, coloque o supervise que se coloquen señalamientos adecuados por obra en construcción; o por daños severos en las vías públicas municipales o estatales; teniendo a su cargo dichos deberes.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+Al servidor público que, dentro del período de un año, en dos o más ocasiones no ordene, no coloque o no supervise que se coloquen señalamientos adecuados por obra en construcción o por daños severos en las vías públicas municipales o estatales, teniendo a su cargo dichos deberes.
 
 Se consideran severos los daños en vías públicas, cuando por su dimensión o características, sea claro que por ellos hay peligro para la vida de peatones o conductores de vehículos.
 
@@ -2763,7 +2775,7 @@ SANCIONES Y FIGURA TÍPICA DE MANTENER LA CORRUPCIÓN DE UN MENOR. Se aplicará 
 
 Si el corruptor es ascendiente o ejerce autoridad sobre el menor, además de las sanciones que señala este artículo, se le privará de la patria potestad, tutela o guarda que ejerza.
 
-> <small>(F. DE E. P.O. 10 DE AGOSTO DE 1999)</small>
+> <small>(F. DE E., P.O. 10 DE AGOSTO DE 1999)</small>
 
 ###### ARTÍCULO 304.
 
@@ -3031,9 +3043,13 @@ PENALIDAD PARA LAS LESIONES CALIFICADAS. Cuando las lesiones sean calificadas, s
 
 PENALIDAD PARA LAS LESIONES EN RIÑA. Si las lesiones se infieren en riña, se aplicará de la mitad o tres cuartos de las sanciones mínimas y máximas de los artículos que anteceden, según se trate del provocado o provocador.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 346.
 
-PENALIDAD CALIFICADA POR LESIONES DOLOSAS INFERIDAS A ASCENDIENTES O DESCENDIENTES. Si el ofendido es ascendiente o descendiente del autor de las lesiones dolosas, la prisión que se imponga se podrá aumentar hasta cinco años, además de la multa.
+PENALIDAD CALIFICADA POR LESIONES DOLOSAS INFERIDAS A ASCENDIENTES O DESCENDIENTES O CON OTRA RELACIÓN DE PARENTESCO. Si el ofendido es ascendiente o descendiente del autor o partícipe de las lesiones dolosas, la prisión que se imponga se podrá aumentar hasta cinco años, además de la multa. Si el sujeto pasivo tiene con el activo alguna de las demás relaciones personales a que se refiere el Artículo 355, la prisión que se imponga se podrá aumentar hasta dos años, además de la multa.
+
+Las modalidades agravantes anteriores serán comunicables y admitirán las demás modalidades agravantes o atenuantes de las lesiones dolosas y sus reglas de penalidad.
 
 ### CAPÍTULO QUINTO. ASALTO
 
@@ -3075,9 +3091,11 @@ Hay alevosía, cuando el agente sorprende intencionalmente a alguno de improviso
 
 Hay traición, cuando la fe o la seguridad que la víctima debía esperar del acusado, se utiliza como medio para ejecutar el delito.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 351.
 
-OTRAS CIRCUNSTANCIAS DE AGRAVACIÓN EN LESIONES Y HOMICIDIO DOLOSOS. El homicidio doloso que se cometa con motivo de un secuestro, violación o robo: Se sancionará con sesenta años de prisión en su penalidad máxima. Las lesiones dolosas que se cometan con motivo de esos delitos: Se sancionarán con la penalidad de las lesiones calificadas, con independencia de las penas que correspondan por lo (sic) demás delitos.
+OTRAS CIRCUNSTANCIAS DE AGRAVACION EN LESIONES Y HOMICIDIO DOLOSOS. El homicidio doloso que se cometa con motivo de un secuestro, violación o robo: se sancionará con sesenta años de prisión en su penalidad máxima. Las lesiones dolosas que se cometan con motivo de esos delitos: se sancionarán con la penalidad de las lesiones calificadas como si concurriera una calificativa, con independencia de la penalidad que corresponda por otras calificativas que en su caso concurran y de las penas que correspondan por los demás delitos.
 
 ###### ARTÍCULO 352.
 
@@ -3103,7 +3121,9 @@ SANCIONES Y FIGURA TÍPICA DE EUTANASIA. Se aplicará de tres meses a tres años
 
 SANCIONES Y FIGURAS TÍPICAS DE PARRICIDIO, MATRICIDIO, FILICIDIO, UXORICIDIO, FRATRICIDIO Y OTROS HOMICIDIOS POR RAZON DEL PARENTESCO O RELACIÓN. Se aplicará de siete a treinta años de prisión y multa: A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, con conocimiento de esa relación.
 
-El tipo penal de la figura anterior, admitirá las modalidades agravantes o atenuantes del homicidio doloso y sus reglas de penalidad.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+El tipo penal de la figura anterior será comunicable y, en su caso, admitirá las modalidades agravantes o atenuantes del homicidio doloso y sus reglas de penalidad.
 
 ### CAPÍTULO SEGUNDO. RAPTO
 
@@ -3239,6 +3259,10 @@ SANCIONES Y FIGURA TÍPICA EQUIPARADA AL SECUESTRO. Se equipara al secuestro y s
 
 Se aplicará prisión de cinco a diez años y multa: Al autor o partícipe que ponga espontáneamente en libertad a la persona secuestrada en calidad de rehén, dentro de las veinticuatro horas siguientes; sin amenazarla ni causarle daño, ni tampoco comunicar sus fines al rehén o tercero.
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
+En todos los casos anteriores, si la privación de la libertad excede de seis horas, se sancionará con las penas del secuestro.
+
 ###### ARTÍCULO 374.
 
 INTERVENCIÓN OFICIOSA DE LAS AUTORIDADES Y SANCIONES POR LESIONES U HOMICIDIO AL SECUESTRADO. El delito de secuestro o su equiparado se perseguirán de oficio y la autoridad intervendrá tan pronto tenga conocimiento del ilícito, aun cuando el ofendido o sus familiares se opongan a ello, pero procurando siempre la salvaguardia del secuestrado.
@@ -3369,6 +3393,8 @@ Se incrementará en un tercio el mínimo y el máximo de las sanciones de los p�
 
 ### CAPÍTULO CUARTO. ABUSO DE CONFIANZA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
 ###### ARTÍCULO 389.
 
 SANCIONES Y FIGURAS TÍPICAS DE RAPTO. Se aplicará prisión de seis meses a seis años y multa: A quien por medio de violencia física o moral, o del engaño, sustraiga o retenga a una persona para satisfacer algún deseo erótico o para casarse.
@@ -3489,6 +3515,8 @@ La reparación del daño moral en los delitos de injurias, difamación o calumni
 
 ## TÍTULO SEXTO. REGLA GENERAL CON RELACIÓN A TERMINOLOGÍA
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
+
 ### CAPÍTULO UNDÉCIMO. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
 ###### ARTÍCULO 410.
@@ -3585,17 +3613,19 @@ SANCIONES Y FIGURAS TÍPICAS DE POSESIÓN O TRANSPORTACIÓN DE COSAS ROBADAS O G
 
 I. TRANSPORTACIÓN DE COSA O GANADO ROBADO. Transporte una cosa robada con modalidad agravante o especialmente agravante o de una o más cabezas de ganado objeto de abigeato.
 
-II. POSESIÓN DE COSA O GANADO ROBADO EN BODEGA O LUGAR CERRADO. Se posea en bodega o lugar cerrado una cosa robada con modalidad agravante o especialmente agravante; o una o más cabezas de ganado o (sic) objeto de abigeato; o sus vestigios identificables.
+II. POSESIÓN DE COSA O GANADO ROBADO EN BODEGA O LUGAR CERRADO. Se posea en bodega o lugar cerrado una cosa robada con modalidad agravante o especialmente agravante; o una o más cabezas de ganado o objeto de abigeato; o sus vestigios identificables.
 
 III. POSESIÓN DE COSA O GANADO ROBADO EN LUGAR DESTINADO PARA SU MODIFICACIÓN, VENTA O TRANSMISIÓN. Se posea en lugar destinado para su modificación, venta o transmisión, en partes o en su integridad, una cosa robada con modalidad agravante o especialmente agravante; o una o más cabezas de ganado objeto de abigeato o de sus vestigios identificables.
 
-> <small>(F. DE E., P.O. 10 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
-Si quién posee en esos lugares o transporta es autor o partícipe en el robo calificado con modalidad agravante o especialmente agravante; o en el abigeato; solo se le aplicarán las sanciones que le correspondan por esos delitos.
+Si quién posee en esos lugares o transporta es autor o partícipe en el robo calificado con modalidad agravante o especialmente agravante; o en el abigeato; sólo se le aplicarán las sanciones que le correspondan por esos delitos, pero la de prisión se podrá aumentar hasta un año más.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTÍCULO 420.
 
-QUERELLA EN ALGUNOS DELITOS DE ROBO Y ABIGEATO. Sólo se perseguirá por querella el robo o abigeato que cometa un ascendiente contra su descendiente; por éste contra aquél; o por un cónyuge o concubina contra el otro.
+QUERELLA EN ALGUNOS DELITOS DE ROBO Y ABIGEATO. Sólo se perseguirá por querella el robo o abigeato que cometa un ascendiente contra su descendiente; por éste contra aquél; o por un cónyuge, concubina o concubinario, adoptante o adoptado contra el otro.
 
 Se procederá de igual forma, cuando el robo o abigeato se cometa por el suegro contra su yerno o nuera; por éstos contra aquél; por un padrastro contra su hijastro o viceversa; entre hermanos; o entre adoptante y adoptado.
 
@@ -3603,7 +3633,7 @@ Se procederá de oficio contra los demás autores o partícipes que intervengan.
 
 ###### ARTÍCULO 421.
 
-SANCIONES Y FIGURA TÍPICA DE ABUSO DE CONFIANZA. Se aplicará prisión de tres días a siete años y multa: A quien con perjuicio de tercero y con animo de apropiación, disponga para sí o para otro de una cosa mueble ajena, de la cual sólo se le transmitió la tenencia y no el dominio y sin que su valor exceda de mil veces el salario mínimo.
+SANCIONES Y FIGURA TIPICA DE ABUSO DE CONFIANZA. Se aplicará prisión de tres días a seis años y multa: A quien con perjuicio de tercero y con animo de apropiación, disponga para sí o para otro de una cosa mueble ajena, de la cual sólo se le transmitió la tenencia y no el dominio y sin que su valor exceda de mil veces el salario mínimo.
 
 > <small>(F. DE E., P.O. 10 DE AGOSTO DE 1999)</small>
 
@@ -3783,7 +3813,7 @@ SANCIONES GENÉRICAS PARA LOS DELITOS EN CONTRA DEL PATRIMONIO. En todo delito p
 
 ###### ARTÍCULO 445.
 
-REGLA GENERAL. Cuando se habla de salarios mínimos en este código, se estará al mínimo general diario vigente en la capital del estado, en el momento de la ejecución; salvo precisión distinta.
+REGLA GENERAL. Cuando se hable de salarios mínimos en este código, se estará al mínimo general diario vigente en la capital del estado, en el momento de la conducta delictiva; salvo precisión distinta.
 
 ## TRANSITORIOS
 
@@ -3892,3 +3922,9 @@ ROGELIO MONTEMAYOR SEGUY
 EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIEN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 30 DE NOVIEMBRE DE 1999.
+
+UNICO.- Estas reformas iniciarán su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
