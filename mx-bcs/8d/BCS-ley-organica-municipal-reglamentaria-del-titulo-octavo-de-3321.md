@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-municipal-reglamentaria-del-titulo-octavo-de-3321"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "1992-12-31"
+last_updated: "1994-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA MUNICIPAL REGLAMENTARIA DEL TITULO OCTAVO DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE ABRIL DE 1994.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 1976.
 
@@ -71,9 +71,11 @@ Los conflictos de límites que se susciten entre los Municipios del Estado, se p
 
 La creación, la supresión y la fusión de Municipios, o la modificación de su territorio, requieren la aprobación de la Legislatura del Estado, conforme a las bases que señala la Constitución del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE ABRIL DE 1994)</small>
+
 ###### Artículo 8o.
 
-En razón de su importancia demográfica, las poblaciones municipales en el Estado, tendrán las siguientes denominaciones:
+En razón de su importancia demográfica, las poblaciones Municipales en el Estado, tendrán las siguientes denominaciones:
 
 > <small>(REFORMADA, B.O. 10 DE JULIO DE 1985)</small>
 
@@ -84,6 +86,10 @@ II. VILLA: La que tenga más de 5,000 habitantes.
 III. PUEBLO: La que tenga más de 2,000 habitantes.
 
 IV. CONGREGACION: La que tenga más de 200 habitantes.
+
+> <small>(ADICIONADA, B.O. 20 DE ABRIL DE 1994)</small>
+
+V. RANCHERIAS: Las que tengan hasta 199 habitantes.
 
 ###### Artículo 9o.
 
@@ -1466,3 +1472,13 @@ B.O. 31 DE DICIEMBRE DE 1992.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE ABRIL DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+Las leyes, reglamentos y disposiciones de carácter administrativo que correspondan deberán adecuarse al contenido del presente Decreto.
