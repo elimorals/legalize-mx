@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-mexicali-baja-22978
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2003-05-23"
+last_updated: "2004-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2004.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -1455,6 +1455,10 @@ A efecto de facilitar el estacionamiento de vehículos en los que viajen persona
 
 La preferencia de uso de estacionamiento para personas con discapacidad sólo podrá ser utilizada por la propia persona cuando se encuentre como pasajero en el vehículo que haga uso del espacio reservado, debiéndose contar siempre con el distintivo que autorice a hacer uso de este derecho.
 
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2004)</small>
+
+Sin perjuicio de las sanciones que correspondan, el Agente de la Dirección de Seguridad Pública, tendrá la facultad de instalar un inmovilizador al vehículo estacionado indebidamente o de solicitar el servicio de grúas, en lugares exclusivos para personas con discapacidad, según lo que sea más conveniente, de acuerdo al área y la disponibilidad de recursos del Ayuntamiento.
+
 ###### ARTÍCULO 117.
 
 Los conductores tendrán preferencia para estacionar sus vehículos frente a sus domicilios en el horario comprendido de las veinte a las ocho horas del día siguiente.
@@ -1932,3 +1936,7 @@ UNICO.- LAS PRESENTES REFORMAS ENTRARÁN EN VIGOR A LOS SIGUIENTES 45 DIAS DE SU
 P.O. 23 DE MAYO DE 2003.
 
 UNICO.- LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 10 DE SEPTIEMBRE DE 2004.
+
+ÚNICO.- La presente modificación entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
