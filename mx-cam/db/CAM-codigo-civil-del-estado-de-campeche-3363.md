@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "1943-11-11"
+last_updated: "1944-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE MAYO DE 1944.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -10005,7 +10005,7 @@ El acreedor que exonera al antiguo deudor, aceptando otro en su lugar, no puede 
 
 ###### Art. 1947.
 
-Cuando el deudor y el que pretenda substituírlo fijen un plazo al acreedor para que manifieste su conformidad con la sustitución, pasado ese plazo sin que el acreedor haya hecho conocer su determinación, se presume que (sic) rehusa.
+Cuando el deudor y el que pretenda substituírlo (sic) fijen un plazo al acreedor para que manifieste su conformidad con la sustitución, pasado ese plazo sin que el acreedor haya hecho conocer su determinación, se presume que (sic) rehusa.
 
 ###### Art. 1948.
 
@@ -12149,9 +12149,11 @@ VII.- Por expropiación de la cosa arrendada hecha por causa de utilidad públic
 
 VIII.- Por evicción de la cosa dada en arrendamiento.
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 1944)</small>
+
 ###### Art. 2389.
 
-Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado, sin necesidad de desahucio. Si no se ha señalado tiempo, se observará lo dispuesto en los artículos 2310 y 2311.
+Si el arrendamiento se ha verificado por plazo mayor al que fija el artículo 2310, concluye el día prefijado, vencida la prórroga a que se refiere el artículo 2311. Si no se ha señalado tiempo, se observará lo dispuesto por los mismos artículos 2310 y 2311.
 
 ###### Art. 2390.
 
@@ -15098,3 +15100,7 @@ EL CODIGO CIVIL DEL ESTADO A QUE SE HACE MENCION, COMENZARA A REGIR EL DIA QUINC
 P.O. 11 DE NOVIEMBRE DE 1943.
 
 Artículo Unico.- El presente decreto surtirá sus efectos legales correspondientes al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE MAYO DE 1944.
+
+UNICO.- El presente decreto entrará en vigor tres días después de publicado en el Periódico Oficial del Gobierno del Estado.
