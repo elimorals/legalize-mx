@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "1998-10-03"
+last_updated: "1998-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 1998.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 6 DE FEBRERO DE 1999 NO APLICA AL ARTICULADO DEL DECRETO 332 PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 1998.</small>
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -289,9 +291,9 @@ El Ministerio Público y la Policía Judicial a su mando están obligados a dete
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
 
-###### Art. 23 Bis.
+###### Art. 23 Bis
 
-Se considera que hay delito flagrante cuando el indiciado es detenido en el momento de estarlo cometiendo, si inmediatamente después de ejecutado el hecho delictuoso:
+- Se considera que hay delito flagrante cuando el indiciado es detenido en el momento de estarlo cometiendo, si inmediatamente después de ejecutado el hecho delictuoso:
 
 A) Aquél es perseguido materialmente; o
 
@@ -323,65 +325,49 @@ a) Los perseguibles de oficio y merezcan ser sancionados con una punibilidad cuy
 
 b) Los cometidos por reincidentes, perseguibles de oficio y merezcan ser sancionados con una punibilidad cuyo término medio aritmético, sea de cuatro años, incluyendo modalidades previstas por la ley
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
 
-Se califican como delitos graves para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal para el Estado de Oaxaca:
+Se califican como delitos graves para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal para el Estado Libre y Soberano de Oaxaca:
 
-DELITOS CULPOSOS, previstos y penados en la primera parte del segundo párrafo del artículo 69.
+DELITO CULPOSO DE HOMICIDIO, previsto y sancionado por los incisos a), b) y c) del tercer párrafo del artículo 58.
 
-REBELIÓN, previsto en el artículo 141.
+REBELION, previstos en los artículos 140 y 141.
 
-EVASIÓN DE PRESOS, previsto en el artículo 155.
+EVASION DE PRESOS, previsto en el artículo 155.
 
-ATAQUES A LAS VIAS DE COMUNICACIÓN, previsto en los artículos 170 y 172.
+ATAQUE A LAS VIAS DE COMUNICACIÓN, previsto en los artículos 170 y 172.
 
-CORRUPCIÓN DE MENORES, previsto en el artículo 195.
+CORRUPCION DE MENORES, previsto en el artículo 195.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+ABUSO DE AUTORIDAD, previsto en el artículo 208, fracciones XXIII, XXIV y XXXVIII.
 
-ABUSO DE AUTORIDAD, previsto en el artículo 208 fracciones XXIII, XXIV y XXXVIII.
+VIOLACION, previsto en los artículos 246, 247 y 248.
 
-FALSIFICACIÓN DE SELLOS, LLAVES, CUÑOS, TROQUELES Y MARCAS, previsto en el artículo 224.
+ASALTO, previsto en los artículos 269 y 270.
 
-VIOLACIÓN, previsto en los artículos 246, 247 y 248 primero y segundo párrafos.
+LESIONES, previsto en el artículo 271 en relación con los artículos 274, 275 y 276.
 
-ASALTO, previsto en los artículos 268, 269 y 270 último párrafo.
+HOMICIDIO, previsto en el artículo 285 y sancionado por los artículos 289, 290, 291 y 296 segunda y tercera parte, del Código Penal para el Estado Libre y Soberano de Oaxaca, en vigor.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1995)</small>
+PARRICIO, previsto en el artículo 306 y sancionado por el 307.
 
-LESIONES, previsto en el artículo 271 en relación con los artículos 275 y 276.
+INFANTICIDIO, previsto en el artículo 308 y sancionado por el 309, primera parte.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1995)</small>
+SECUESTRO, previsto en el artículo 348, con excepción de la segunda parte de la fracción V.
 
-HOMICIDIO, previsto en los artículos 285 en relación al 12 fracción VIII, 289, 290, 291 y 296 segunda y tercera parte, del Código Penal para el Estado Libre y Soberano de Oaxaca, en vigor.
-
-PARRICIDIO, previsto en el artículo 307.
-
-INFANTICIDIO, previsto en el artículo 309 primera parte.
-
-SECUESTRO, previsto en el artículo 348 con excepción de la segunda parte de la fracción V y del último párrafo de este artículo.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
-
-ROBO CALIFICADO, previsto en el artículo 349 en relación con los artículos 354 y 355, cuando se realice en cualquiera de las circunstancias señaladas en los artículos 359, 362 fracción V, 369 fracción I y VIII y 369 BIS.
+ROBO CALIFICADO, previsto en el artículo 349, en relación con los artículos 354 y 355, cuando se realice en cualquiera de las circunstancias señaladas en los artículos 359, 362 fracción V, 369 fracción I y VIII, 357 fracción I y fracción II segunda parte y 357 BIS.
 
 ABIGEATO, previsto en el artículo 370 en relación con los artículos 372 y 373 fracción III.
 
 DESPOJO, previsto en el artículo 384 en relación con el artículo 386.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1995)</small>
-
 EXTORSION, previsto en el artículo 383 BIS en relación con las fracciones II y III.
 
-TORTURA, previsto en los artículos 2, 3 y 4 de la Ley Estatal para Prevenir y Sancionar la Tortura.
+TORTURA, previsto en los artículos 2, 3, 4, de la Ley Estatal para Prevenir y Sancionar la Tortura.
 
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
+DELITOS ELECTORALES, previstos en los artículos 395 y 398 del Código Penal para el Estado Libre y Soberano de Oaxaca.
 
-DELITOS ELECTORALES, previstos en los artículos 395 y 398 del Código Penal del Estado de Oaxaca.
-
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 1995)</small>
-
-LA TENTATIVA a que se refiere el artículo 68 en relación con los delitos previstos en los artículos 141, 155, 195, 208 fracciones XXIII y XXIV, 246, 247, 248 primero y segundo párrafos, 268, 269, 270 último párrafo, 285, 307, 309 primera parte, 348, 349 en relación con los artículos 354 y 355, cuando concurran cualquiera de las circunstancias señaladas en los artículos 359, 362 fracción V, 369 fracciones I y VIII y 369 Bis, 372, 373 fracción III, y 383 Bis, en relación con las fracciones II y III.
+LA TENTATIVA, a que se refiere el artículo 10 fracción II y 57 primer párrafo en relación con los delitos previstos por los artículos 140, 141, 155, 195, 208 fracciones XXIII, XXIV y XXXVIII, 246, 247, 248, 269, 270, 285, 307, 309 primera parte 348 con excepción de la segunda parte de la Fracción V, 349 en relación con los artículos 354 y 355, cuando concurran cualquiera de las circunstancias señaladas en los artículos 359, 362 fracción V, 369 fracciones I y VIII, 357 fracción I y fracción II segunda parte, 357 BIS, 372, 373 fracción III, y 383 BIS, en relación con las fracciones II y III.
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -2397,7 +2383,7 @@ II.- Pronunciada ésta, se remitirá testimonio a la autoridad respectiva, a la 
 
 DE LA REPARACION DEL DAÑO COMO SANCION PUBLICA.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 1998)</small>
 
 ###### Art. 330.
 
@@ -2465,7 +2451,9 @@ DOCUMENTOS.
 
 ###### Art. 340.
 
-El Ministerio Público exigirá de oficio la reparación del daño que debe ser hecha por el acusado y para ello proporcionará oportunamente al Tribunal las pruebas conducentes a establecer la naturaleza y cuantía del daño y, si se tratare de daño moral, las pruebas de la capacidad económica del obligado.
+El Ministerio Público exigirá de oficio la reparación del daño que deba ser hecha por el acusado y para ello proporcionará oportunamente al Tribunal las pruebas conducentes a establecer la naturaleza y cuantía del daño.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
 La víctima o la persona ofendida podrán proporcionar las pruebas conducentes directamente al tribunal o a través del Ministerio Público.
 
@@ -2498,6 +2486,10 @@ La acción para exigir la reparación del daño a personas distintas del inculpa
 Ante los Tribunales Penales, la acción de la reparación del daño se tramitará en vía incidental de conformidad con las reglas del juicio sumario del Código de Procedimientos Civiles y se tendrán los recursos que dicho juicio prevé
 
 Los Tribunales Civiles estarán expeditos para dar curso a la acción de reparación del daño derivada de delito, si la víctima o el ofendido por alguna causa no la promueve ante el Tribunal Penal.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+Cuando promovida la acción y hubiere concluido el proceso penal sin que el incidente de reparación del daño este en estado de sentencia el Juez penal continuará conociendo hasta fallar en definitiva.
 
 ###### Art. 345.
 
@@ -3956,3 +3948,11 @@ PRIMERO.- El presente decreto entrará en vigor diez días después de su public
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a este decreto.
 
 TERCERO.- La exposición de motivos se publicará en el Periódico Oficial junto con el presente decreto.
+
+P.O. 28 DE NOVIEMBRE DE 1998.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado; a excepción de lo dispuesto en la Fracción II del artículo 357 BIS, del Código Penal del Estado, que entrará en vigor noventa días después de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+TERCERO.- La exposición de motivos se publicará en el Periódico Oficial junto con el presente Decreto.
