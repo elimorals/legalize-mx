@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-radio-y-television-470"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1960-01-19"
-last_updated: "1960-01-19"
+last_updated: "1970-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=470&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1960-01-08"
 
 LEY FEDERAL DE RADIO Y TELEVISION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ENERO DE 1970.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 19 de enero de 1960.
 
@@ -171,19 +171,17 @@ La instalación de una difusora de radio que vaya a operar retransmitiendo o enl
 
 El término de una concesión no podrá exceder de 30 años y podrá ser refrendada al mismo concesionario que tendrá preferencia sobre terceros.
 
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+
 ###### ARTICULO 17.
 
-La solicitud de concesión deberá llenar los siguientes requisitos:
+Sólo se admitirán solicitudes para el otorgamiento de concesiones para usar comercialmente canales de radio y televisión, cuando el Ejecutivo Federal por conducto de la Secretaría de Comunicaciones y Transportes, previamente determine que pueden destinarse para tal fin, lo que hará del conocimiento general por medio de una publicación en el "Diario Oficial". Las solicitudes de concesión deberán llenar los siguientes requisitos:
 
 I.- Nombre o razón social del interesado y comprobación de su nacionalidad mexicana;
 
-II.- Justificación de que la sociedad, en su caso, está constituída legalmente.
+II.- Justificación de que la sociedad, en su caso, está constituida legalmente; y
 
-III.- Información detallada de las inversiones en proyecto y de la clase de actividades que se pretenda realizar, y
-
-IV.- Indicación de las características técnicas y del área o zona que trate de cubrir la estación.
-
-A la solicitud se acompañará información demográfica y económica para comprobar la necesidad del servicio.
+III.- Información detallada de las inversiones en proyecto.
 
 ###### ARTICULO 18.
 
@@ -193,13 +191,17 @@ De acuerdo con la categoría de la estación radiodifusora en proyecto, el monto
 
 La garantía quedará sin efecto al otorgarse o negarse la concesión. Si el interesado abandona el trámite, la garantía se aplicará al erario federal.
 
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1970)</small>
+
 ###### ARTICULO 19.
 
-Constituído el depósito u otorgada la fianza, se procederá a efectuar los estudios técnicos que correspondan, y si su resultado fuere favorable, la solicitud, con las modificaciones que acuerde la Secretaría de Comunicaciones y Transportes, se publicará por dos veces y con intervalo de diez días, a costa del interesado, en el "Diario Oficial" de la Federación y en otro periódico de los de mayor circulación en la zona donde se pretenda operar, señalando un plazo de treinta días contados a partir de la última publicación, para que las personas o instituciones que pudieran resultar afectadas, presenten sus objeciones.
+Constituido el depósito u otorgada la fianza, el Ejecutivo Federal por conducto de la Secretaría de Comunicaciones y Transportes, estudiará cada solicitud que exista con relación a un mismo canal y calificando el interés social, resolverá a su libre juicio si alguna de ellas debe seleccionarse para la continuación de su trámite, en cuyo caso dispondrá que se publique a costa del interesado, una síntesis de la solicitud, con las modificaciones que acuerde, por dos veces y con intervalo de diez días, en el “Diario Oficial” y en otro periódico de los de mayor circulación en la zona donde debe operarse el canal, señalando un plazo de treinta días contados a partir de la última publicación, para que las personas o instituciones que pudieran resultar afectadas presenten objeciones.
 
-Si transcurrido el plazo de referencia no se presentaren objeciones, se otorgará la concesión, si además fuese procedente. Cuando se presenten objeciones, la Secretaría oirá en defensa a los interesados, les recibirá las pruebas que ofrezcan en un término de quince días y dictará la resolución que proceda en un plazo que no exceda de treinta, oyendo a la Comisión Técnica Consultiva establecida por la Ley de Vías Generales de Comunicación.
+Si transcurrido el plazo de oposición no se presentan objeciones, se otorgará la concesión. Cuando se presenten objeciones, la Secretaría oirá en defensa a los interesados, les recibirá las pruebas que ofrezcan en un término de quince días y dictará la resolución que a su juicio proceda en un plazo que no exceda de treinta, oyendo a la Comisión Técnica Consultiva establecida por la Ley de Vías Generales de Comunicación.
 
-Otorgada la concesión, se ordenará su publicación en el "Diario Oficial" de la Federación, a costa del interesado y se fijará el monto de la garantía que asegure el cumplimiento de las obligaciones que imponga dicha concesión. Esta garantía no será inferior de cinco mil ni excederá de cincuenta mil pesos cuando se trate del depósito, y de diez mil a cien mil pesos cuando se trate de fianza.
+Otorgada la concesión, será publicada, a costa del interesado, en el “Diario Oficial” de la Federación y se fijará el monto de la garantía que asegure el cumplimiento de las obligaciones que imponga dicha concesión. Esta garantía no será inferior de cinco mil pesos, ni excederá de doscientos cincuenta mil pesos cuando se trate del depósito y de diez mil a quinientos mil pesos cuando se trate de fianza.
+
+Los solicitantes que no hayan sido seleccionados, tendrán derecho a la devolución del depósito o fianza que hubieren otorgado para garantizar el trámite de su solicitud.
 
 ###### ARTICULO 20.
 
@@ -758,3 +760,11 @@ Para cumplir con lo establecido en el artículo 90 de la presente ley, los organ
 Juan Sabines Gutiérrez, D.P.- Guillermo Ibarra Ibarra, S.P.- Marta Andrade del Rosal, D.S.- Carlos Román Celis, S.S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, D. F., a los ocho días del mes de enero de mil novecientos sesenta.- Adolfo López Mateos.- Rúbrica.- El Secretario de Gobernación, Gustavo Díaz Ordaz.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Walter C. Buchanan.- Rúbrica.- El Secretario de Educación Pública, Jaime Torres Bodet.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Ortiz Mena.- Rúbrica.- El Secretario de Relaciones Exteriores, Manuel Tello.- Rúbrica.- El Secretario de Salubridad y Asistencia, José Alvarez Amézquita.- Rúbrica.- El Secretario del Patrimonio Nacional, Eduardo Bustamante.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Salomón González Blanco.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 27 DE ENERO DE 1970.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+SEGUNDO.- Las solicitudes de concesión en trámite se resolverán de acuerdo con lo dispuesto en este Decreto.
