@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1960-05-21"
+last_updated: "1964-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 21 DE MAYO DE 1960.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE ABRIL DE 1964.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -225,7 +225,7 @@ V. Los que por sentencia ejecutoriada sean condenados a pena corporal o a suspen
 
 VI. Los que por causa de enfermedad mental tuvieren en suspenso el ejercicio de sus derechos civiles.
 
-((REFORMADO, B.O. 5 DE MAYO DE 1954)
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 ###### Artículo 20.
 
@@ -1351,9 +1351,13 @@ Los cargos de Presidente Municipal y de concejal serán obligatorios, pero no gr
 
 Para ser Presidente Municipal o concejal de un Ayuntamiento se requiere:
 
-I. Ser ciudadano mexicano por nacimiento y ciudadano sonorense nativo del Estado en el pleno ejercicio de sus derechos políticos.
+> <small>(REFORMADA, B.O. 18 DE ABRIL DE 1964)</small>
 
-II. Ser vecino del Municipio que lo nombre.
+I. Ser ciudadano sonorense en pleno ejercicio de sus derechos políticos.
+
+> <small>(REFORMADA, B.O. 18 DE ABRIL DE 1964)</small>
+
+II. Ser vecino del Municipio correspondiente con residencia efectiva, dentro del mismo cuando menos de dos años si es nativo del Estado, o de cinco si no lo es.
 
 III. No desempeñar ningún cargo público en el municipio donde se hace la elección, ya dependa aquél del Estado o de la Federación; no estar en servicio activo en el ejército, ni tener mando de fuerzas en el mismo municipio, a menos de que, quien está comprendido en tales casos, se separe definitivamente de su empleo o cargo noventa días antes de la elección.
 
@@ -1830,6 +1834,10 @@ UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el
 B.O. 21 DE MAYO DE 1960.
 
 UNICO.- Las presentes reformas entrarán en vigor a partir de su publicación en el Boletín Oficial del Estado.
+
+B.O. 18 DE ABRIL DE 1964.
+
+UNICO.- La presente Ley entrará en vigor cinco días después de su publicación en el Boletín Oficial del Estado.
 
 ###### ARTÍCULO ÚNICO.
 
