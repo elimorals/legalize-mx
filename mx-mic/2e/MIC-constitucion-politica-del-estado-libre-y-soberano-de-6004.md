@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1983-12-08"
+last_updated: "1984-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 1984.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -543,6 +543,10 @@ Los miembros de los ayuntamientos tendrán siempre oportunidad suficiente para r
 
 En caso de declararse desaparecido un ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la Ley no procediere que entraren en funciones los suplentes ni que se celebren nuevas elecciones, la Legislatura designará, entre los vecinos, a quienes deban concluir los períodos respectivos.
 
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 1984)</small>
+
+XIX A.- Designar a las personas que han de integrar los ayuntamientos, cuando falte alguna de ellas, por cualquier causa.
+
 XX.- Hacer la declaratoria de haber resultado electos Senadores por el Estado, los ciudadanos que a su juicio hubiesen obtenido la mayoría de los votos emitidos, de acuerdo con lo dispuesto por el artículo 56 de la Constitución General de la República;
 
 XXI.- Aprobar o desaprobar las propuestas, solicitudes de licencia y renuncias de los magistrados del Supremo Tribunal de Justicia;
@@ -551,11 +555,9 @@ XXII.- Conceder las licencias que soliciten para separarse temporalmente de sus 
 
 XXIII.- Designar Gobernador interino del Estado cuando la separación del Titular sea mayor de treinta días;
 
-XXIV.- Conocer de las acusaciones que se hagan a los funcionarios públicos de que habla esta Constitución, por delitos oficiales, y erigirse en Gran Jurado para declarar si ha o no lugar a proceder contra los que gozan de fuero constitucional, cuando sean acusados por delitos del orden común;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 1984)</small>
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 1983)</small>
-
-Declara si ha lugar o no a proceder penalmente contra los servidores público que hubieren incurrido en delito en lo términos del artículo 109 de esta Constitución.
+XXIV.- Formar la Comisión Instructora Especial y erigirse en Gran Jurado, para los efectos señalados en el Artículo 108 de esta Constitución, así como conocer de las acusaciones que se hagan a los servidores públicos que hubieren incurrido en delitos, en los términos del artículo 109 de este mismo ordenamiento.
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 1980)</small>
 
@@ -943,9 +945,9 @@ Cuando el magistrado inamovible cumpla setenta años, o padezca incapacidad fís
 
 El magistrado inamovible que obtenga su retiro forzoso, disfrutará de una pensión equivalente a la remuneración que perciba, si tiene más de diez años de servicios efectivos como magistrado. El que obtenga su retiro voluntario, disfrutará de la misma pensión.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 1983)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE FEBRERO DE 1984)</small>
 
-Los magistrados podrán ser privados de sus puestos en los términos del Título Cuarto de esta Constitución.
+Los Magistrados sólo podrán ser privados de sus puestos en los términos del título IV de esta Constitución.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1033,15 +1035,11 @@ Los magistrados continuarán en sus funciones aunque haya fenecido su período c
 
 La administración de justicia en primera instancia estará a cargo de jueces letrados. La Ley determinará el número de éstos, su residencia, su competencia, sus atribuciones y la manera de llenar sus faltas absolutas o temporales.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 82.
 
-Los jueces de primera instancia serán nombrados por el Supremo Tribunal de Justicia en la forma que establezca la Ley Orgánica del Poder Judicial; durarán en su encargo tres años que se contarán del mismo modo que a los magistrados, y no podrán ser removidos sino por causa justificada. Al concluir su encargo continuarán en sus funciones hasta que se presenten los nuevamente nombrados.
-
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 1983)</small>
-
-Los jueces de primera instancia podrán ser privados de sus puestos en los términos del Título Cuarto de esta Constitución.
+Los Jueces de Primera Instancia, serán nombrados por el Supremo Tribunal de Justicia, en la forma que establezca la Ley Orgánica del Poder Judicial, durarán en su encargo tres años, y no podrán ser privados de sus puestos sino en los términos del título IV de esta Constitución. Al concluir su encargo, continuarán en sus funciones hasta que se presenten los nuevamente nombrados.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1109,11 +1107,11 @@ IV.- Saber leer y escribir, y
 
 V.- Ser de notoria buena conducta, y no haber sido condenado por delitos contra la propiedad.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 89.
 
-Los jueces municipales no podrán ser removidos en el ejercicio de su encargo conforme al Título Cuarto de esta Constitución.
+Los Jueces Municipales no podrán ser removidos en el ejercicio de su encargo, sino conforme al título IV de esta Constitución.
 
 > <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1153,7 +1151,7 @@ Toda persona está en libertad para terminar sus diferencias con otra, ya sea po
 
 ## TITULO CUARTO. De las Responsabilidades de los Funcionarios Públicos
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
 
 #### SECCION IV. De los Jurados
 
@@ -1235,9 +1233,11 @@ La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y d
 
 ###### Artículo 104.
 
-Para los efectos de las responsabilidades a que alude este Título, se reputarán como servidores públicos: a los representantes de elección popular, tanto a nivel estatal estatales como a nivel municipal, a los miembros del Poder Judicial, a los funcionarios y empleados, y en general, a toda persona que desempeñe un empleo, cargo o comisión en los gobiernos estatal y municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este título, se reputarán como servidores públicos a los representantes de elección popular, tanto estatales como municipales, a los miembros del Poder Judicial, a los funcionarios y empleados, y en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal o municipal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-El Gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acusado por violaciones a esta Constitución, o a la Constitución General de la República y a las Leyes que de ella emanen, por manejo indebido de fondos federales y estatales y por delitos graves del orden común.
+El Gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acusado por violaciones a esta Constitución, o a la Constitución General de la República por manejo indebido de fondos federales y estatales y por delitos graves del orden común.
+
+Se concede acción popular, para denunciar ante el Congreso del Estado, los delitos comunes cometidos por los servidores públicos, sin obligación de constituirse en parte.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
 
@@ -1245,71 +1245,55 @@ El Gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acus
 
 El Gobernador Constitucional del Estado, y los Diputados, gozarán de fuero desde el día en que fueren declarados electos; los Magistrados propietarios, desde la fecha en que fueron designados; los Gobernadores provisionales, interinos y substitutos, los Diputados suplentes, los Magistrados supernumerarios, el Secretario de Gobierno, el Oficial Mayor, Procurador de Justicia y Tesorero, únicamente dentro del término de su encargo.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 106.
 
-En los casos previstos por el Título Cuarto de la Constitución General de la República, la comunicación de la resolución correspondiente deberá conocerse por el Congreso en la primera sesión que se celebre y se procederá conforme a las disposiciones de la Ley de la materia.
+En los casos previstos por los artículos 110 y 111 de la Constitución Política de los Estados Unidos Mexicanos, la comunicación de la declaración emitida por el Senado de la República, deberá conocerse por el Congreso Estatal en la primera sesión que se celebre después de recibida y se procederá conforme a las disposiciones de esta Constitución y las leyes correspondientes.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 107.
 
 El Congreso del Estado expedirá la Ley de Responsabilidades de los Servidores Públicos y las demás normas conducentes a sancionar a quienes, teniendo este carácter, incurran en responsabilidades de conformidad con las siguientes prevenciones:
 
-I.- Se impondrán, mediante juicio político, las sanciones indicadas en el artículo 108 a los servidores públicos señalados en el mismo precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho.
+I.- Se impondrán, mediante juicio político, las sanciones indicadas en el artículo 108 a los servidores públicos señalados en el mismo precepto, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. La Ley precisará los casos en que se sigue este perjuicio.
 
 No procede el juicio político por la mera expresión de ideas.
 
-II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la legislación penal, y
+II.- La comisión de delitos por parte de cualquier servidor público será perseguida y sancionada en los términos de la Legislación Penal, y
 
 III.- Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
 
 Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
-Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. La legislación penal sancionará con el decomiso y con la privación de la propiedad dichos bienes, además de las otras penas que correspondan.
+Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. La Legislación Penal sancionará con el decomiso y con la privación de dichos bienes, además de las otras penas que correspondan.
 
-Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba podrá formular denuncia ante el Congreso respecto de las conductas a que se refiere el presente Título.
+Cualquier ciudadanos (sic), bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba podrá formular denuncia ante el Congreso respecto de las conductas a que se refiere el presente artículo.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 108.
 
-Podrán ser sujetos de juicio político los Diputados al Congreso, el Gobernador, los Magistrados del Supremo Tribunal de Justicia, los titulares de las dependencias básicas de la administración pública, los Directores Generales o su equivalente de organismos descentralizados equivalentes de organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos. Así mismo a los miembros de los ayuntamientos y funcionarios municipales, sea cual fuere el origen de su encargo. Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público
+Podrán ser sujetos de juicio político, el Gobernador del Estado, los Diputados al Congreso, los Magistrados del Supremo Tribunal de Justicia, los Jueces de Primera Instancia y Jueces Menores Municipales, los titulares de las dependencias básicas que menciona la Ley Orgánica de la Administración Pública, los Directores Generales o sus equivalentes de organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos. Asimismo los miembros de los ayuntamientos y funcionarios municipales, que señala la Ley Orgánica Municipal, sea cual fuere el origen de su encargo. Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público estatal y municipal, de acuerdo a la ley de la materia.
 
-Para la aplicación de las sanciones a que se refiere este precepto, presentada la denuncia al Congreso, se turnará a una Comisión Instructora que será integrada por cuatro diputados, que se encargaran de estudiar la denuncia, desahogar cuanta diligencia sea necesaria, con audiencia del acusado y emitir resolución que deberá ser aprobada por la mayoría de sus componentes. Dicha resolución, en caso de acusatoria, se turnará a una Comisión Revisora, formada también por cuatro Diputados.
+Para la aplicación de las sanciones a que se refiere este precepto, la denuncia presentada al Congreso, se turnará a una comisión instructora especial, formada por cinco diputados al Congreso, misma que emitirá declaración por mayoría de sus componentes, una vez practicadas las diligencias correspondientes en presencia del acusado dicha declaración se turnará al Congreso. En caso de ser negativa, el Congreso determinará su archivo, y si es acusatoria, se constituirá en Gran Jurado, para revisar lo actuado, juzgar y aplicar las sanciones del caso, por las dos terceras partes de sus votos de sus miembros presentes, cuando se trate del Gobernador y por mayoría cuando se trate de otros servidores públicos.
 
-La Comisión Revisora, una vez practicadas las diligencias correspondientes, emitirá resolución, que deberá ser aprobada por la mayoría de sus componente, lo cual hará del conocimiento del inculpado.
-
-Si esta última resolución es coincidente con la acusatoria emitida por la Comisión Instructora, se someterá al Congreso que, erigido en Gran Jurado, impondrá las sanciones del caso, que deberá ser aprobadas por el voto de las dos terceras partes de sus miembros presentes, cuando se trate de otros servidores públicos.
-
-En la resolución de Gran Jurado, no tendrán voto los integrantes de las Comisiones Instructora y Revisiora, No podrá pertenecer a ambas comisiones un mismo Diputado.
+El procedimiento de juicio político, sólo podrá iniciarse durante el período en que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento.
 
 Las resoluciones del Gran Jurado, son inatacables.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 109.
 
-Para proceder penalmente contra los Diputados al Congreso, el Gobernador del Estado, Magistrados del Supremo Tribunal de Justicia, Secretario de Gobierno, Oficial Mayor, Procurador de Justicia y Tesorero del Estado, por la comisión de delitos durante el tiempo de su encargo, el Congreso erigido en Gran Jurado, por el voto de la mayoría absoluta de sus miembros presentes, declarar si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra el Gobernador, los Diputados al Congreso, Magistrados del Supremo Tribunal de Justicia, Secretario de Gobierno, Oficial Mayor, Procurador de Justicia y Tesorero del Estado, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará por las dos terceras partes de sus miembros presentes en sesión cuando se trate del Gobernador y por mayoría absoluta cuando se trate de otros servidores públicos, si ha o no lugar a proceder contra el inculpado.
 
-Por lo que se refiere al Gobernador del Estado, sólo habrá lugar a acusarlo ante el Congreso, de conformidad con lo establecido en el artículo anterior.
-
-Si la resolución del Congreso fuese negativa, se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la investigación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
-
-Si el Congreso declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arregla a la Ley.
+Si el Congreso declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la ley.
 
 Las declaraciones y resoluciones del Congreso son inatacables.
 
-El efecto de la declaración de que ha lugar a proceder contra el inculpado, será separado de su encargo en tanto esté sujeto a proceso penal. Si es inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo no se concederá al reo la gracia del indulto.
-
-En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá declaración de procedencia.
-
-Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal, tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o prejuicios patrimoniales, deberá graduarse de acuerdo con el lucro obtenido y con la obligación de reparar los daños y perjuicios patrimoniales, deberá graduarse de acuerdo con el lucro obtenido y con la obligación de reparar los daños y perjuicios causados por su conducta ilícita.
-
-Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños o perjuicios causados.
-
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1984)</small>
 
 ###### Artículo 110.
 
@@ -1317,15 +1301,13 @@ No se requerirá declaración de procedencia de la Cámara de Diputados contra a
 
 Si el servidor público ha vuelto a desempeñar en sus funciones propias o ha sido nombrado electo para desempeñar otro cargo distinto, pero de los enumerados por el artículo 109, se procederá de acuerdo con lo dispuesto en dicho precepto.
 
-La ley sobre responsabilidades de los servidores públicos, determinará sus obligaciones a fin de salvaguardar la legalidad, honradez, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalan las leyes, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas, las que deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del artículo 107 pero no podrá exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
-
-El procedimiento de juicio político sólo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un años después. Las sanciones correspondientes se impondrán en un período no mayor de un año a partir de iniciado el procedimiento.
+La Ley sobre Responsabilidades de los Servidores Públicos determinará sus obligaciones, a fin de salvaguardar la legalidad, honradez,, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalan las leyes, consistirán en suspensión, destitución e inhabilitación, así como en sanciones económicas, las que deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con la daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del artículo 107 pero no podrá exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
 La responsabilidad por los delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la ley penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeña alguno de los encargos a que hace referencia el artículo 109.
 
-La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del artículo 107. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
+La Ley de Responsabilidades señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia d los actos y omisiones a que hace referencia la fracción III del artículo 107. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a tres años.
 
-En los casos de juicio político, no cabe la gracia del indulto.
+El Gobernador Constitucional del Estado y los Diputados gozarán de fuero desde el día en que fuesen declarados electos; los Magistrados Propietarios desde la fecha en que fuesen designados; los Gobernadores Provisionales, Interinos y Substitutos, los Diputados Suplentes, los Magistrados Supernumerarios, el Secretario de Gobierno, el Oficial mayor, el Procurador de Justicia y el Tesorero, únicamente dentro del término de su encargo.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1374,6 +1356,10 @@ El Presidente, el Síndico y los Regidores de los Ayuntamientos, serán electos 
 Los Presidentes Municipales, Síndicos y Regidores de los ayuntamientos, serán electos simultáneamente y en su totalidad cada tres años y no podrán ser reelectos para el período inmediato. Por cada regidor propietario se elegirá un suplente.
 
 Las personas que por elección o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de los cargos de los ayuntamientos, no podrán ser electos para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes; pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 1984)</small>
+
+Los miembros de los Ayuntamientos podrán ser privados de sus puestos en los términos del título IV de esta Constitución.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
@@ -2054,3 +2040,7 @@ UNICO. Este decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 8 DE DICIEMBRE DE 1983.
 
 UNICO. Este decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE FEBRERO DE 1984.
+
+UNICO.- Este decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
