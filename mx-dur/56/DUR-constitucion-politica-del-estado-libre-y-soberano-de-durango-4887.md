@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1970-10-22"
+last_updated: "1973-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 1973.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -37,1119 +37,1345 @@ Que la Legislatura del mismo ha tenido a bien dirigirme el siguiente decreto nú
 
 El XXVI H. Congreso del Estado de Durango, con el carácter de Constituyente, a nombre del pueblo, decreta la siguiente Constitución Política del mismo Estado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JULIO DE 1961)</small>
+> <small>N. DE E. LA H. LII LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO APROBO EL DECRETO No. 270, QUE REFORMA Y ADICIONA LOS ARTICULOS DE LA CONSTITUCION POLITICA VIGENTE EN EL ESTADO, MODIFICANDO DE MANERA SUSTANCIAL EL TEXTO QUE A LA FECHA TENIA DICHO ORDENAMIENTO, PRESENTANDOSE POR TAL MOTIVO EL TEXTO APROBADO Y PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO EL 9 DE SEPTIEMBRE DE 1973.</small>
 
-## TITULO II.
+LA H. LII LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A NOMBRE DEL PUEBLO DECRETA:
 
-DE LOS DURANGUEÑOS.
+###### ARTICULO UNICO.
 
-### CAPITULO I (SIC).
+Se reforma y adiciona la Constitución Política Local para quedar en la forma siguiente:
 
-DE LAS GARANTIAS INDIVIDUALES Y SOCIALES.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 1°.
+CONSTITUCION POLITICA DEL ESTADO DE DURANGO
 
-Siendo la Tesorería General del Estado la que viene a susbstituír (sic) a la Dirección General de Rentas del Estado, adquiere los mismos derechos y contrae las mismas obligaciones que correspondían a la segunda.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 2°.
+## TITULO PRIMERO
 
-El Tesorero General es el representante del Fisco del Estado, y, por lo mismo, continuará ejerciendo las funciones que, con ese carácter, tenía encomendadas el Director General de Rentas.
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 3°.
+### CAPITULO PRIMERO. DE LOS DERECHOS PUBLICOS INDIVIDUALES Y SOCIALES
 
-El presente Decreto surte sus efectos a partir del día primero de enero del presente año.
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-P.O. 29 DE ABRIL DE 1948.
+###### ARTICULO 1.
 
-UNICO.- El presente Decreto surte sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+En el Estado de Durango todas las personas gozan de los derechos públicos individuales y de los derechos públicos sociales que la Constitución Federal les otorga, los que no podrán suspenderse ni restringirse si no en los casos y condiciones previstos en la misma. Disfrutan además de las garantías que esta Constitución establece.
 
-P.O. 2 DE MAYO DE 1948.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-UNICO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+###### ARTICULO 2.
 
-P.O. 1 DE NOVIEMBRE DE 1951.
+Queda prohibida toda clase de servidumbre que implique la injusta explotación o menoscabo de la dignidad de los trabajadores.
 
-DECRETO No. 194.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 1o.
+###### ARTICULO 3.
 
-La presente reforma a la Constitución Política del Estado entra en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
+En el Estado de Durango, toda persona tiene derecho a la libertad, la seguridad personal, la habitación, el trabajo y la educación.
 
-###### Artículo 2o.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Con objeto de armonizar la duración de los cargos de los Diputados, con la fecha en que tome posesión el Gobernador del Estado, de acuerdo con la presente reforma, los Diputados de Distritos Impares que de conformidad con las disposiciones constitucionales vigentes hasta la fecha de la publicación de esta reforma, habrán de ser electos en el año de 1952, durarán en su encargo cuatro años; y los Diputados de Distritos pares que de acuerdo con las mismas disposiciones constitucionales habrán de ser electos en el año de 1954, durarán en su encargo dos años.
+###### ARTICULO 4.
 
-P.O. 1 DE NOVIEMBRE DE 1951.
+La educación que se imparta en el Estado de Durango se sujetará a lo dispuesto por el Artículo 3o. de la Constitución General de la República.
 
-DECRETO No. 195.
+Los particulares podrán impartir la educación en todos sus tipos y grados, pero deberán obtener previamente la autorización expresa del Poder Público, que contendrá, en su caso, la aprobación de los planes y programas de estudios, la calificación de la preparación del personal docente y el dictamen sobre las condiciones que reúnan las instalaciones necesarias para el tipo y grado de enseñanza que se pretenda impartir.
 
-1o.- La presente reforma al Artículo 88 de la Constitución Política del Estado surte sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+El Poder Público otorgará posteriormente, en su caso, el reconocimiento de validez oficial a los estudios hechos en planteles particulares. Este reconocimiento podrá ser negado o retirado discrecionalmente por el Poder Público.
 
-2o.- Con objeto de armonizar la fecha en que deberán tomar posesión de sus cargos los Magistrados del Supremo Tribunal de Justicia, con la fecha en que tome posesión el Gobernador del Estado, los Magistrados, que de acuerdo con las disposiciones vigentes tomen posesión de sus cargos el 1o. de Agosto de 1953 durarán en su cargo hasta el 15 de septiembre de 1956.
+Contra la negativa o la revocación de la autorización o del reconocimiento de validez oficial a los estudios hechos en los planteles particulares a que se refiere este Artículo, no procederá juicio o recurso alguno.
 
-P.O. 1 DE NOVIEMBRE DE 1951.
+El Congreso expedirá las leyes destinadas a distribuir la función social educativa en el Estado; a fijar las aportaciones económicas correspondientes a ese servicio público y señalar las sanciones aplicables a los funcionarios que no cumplan o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan.
 
-DECRETO No. 197.
+El Congreso expedirá la ley que determine cuales son las profesiones que necesitan título para su ejercicio, las condiciones que deban llenarse para obtenerlo y las autoridades que han de expedirlo.
 
-Artículo Unico.- La presente reforma surte sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-P.O. 1 DE NOVIEMBRE DE 1951.
+###### ARTICULO 5.
 
-DECRETO No. 198.
+A toda petición deberá recaer un acuerdo de la autoridad a quien se haya formulado, en el que ésta expresará, motivada y fundamente (sic), si concede, o niega lo solicitado. La autoridad tiene obligación de notificar su resolución al peticionario dentro del término que señalen las leyes aplicables y que en ningún caso excederá de noventa días naturales, contados a partir de la fecha en que se presentó la solicitud.
 
-Artículo Unico.- La presente reforma surte sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-P.O. 9 DE JULIO DE 1961.
+###### ARTICULO 6.
 
-UNICO.- El presente decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+No deben expedirse ni aplicarse leyes privativas. Nadie será juzgado por tribunales o autoridades especiales.
 
-P.O. 22 DE OCTUBRE DE 1970.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-UNICO.- El presente Decreto surtirá sus efectos tres días después de su publicación en el Periódico Oficial del Estado.
+###### ARTICULO 7.
 
-###### Artículo 4°.
+Toda resolución de autoridad administrativa será de acuerdo a la letra de la ley y, en su caso, conforme a la interpretación jurídica de la misma.
 
-La educación que imparta el Edo. será socialista, además de excluir toda doctrina religiosa, combatirá el fanatismo y los prejuicios, para lo cual la escuela organizará sus enseñanzas y actividades en la forma que permita crear en la juventud un concepto racional y científico del Universo y de la Vida Social.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-En el Estado de Durango se impartirá educación primaria, secundaria, normal y profesional. Podrán concederse autorizaciones a los particulares que deseen impartir educación en cualquiera de los cuatro grados anteriores, de acuerdo en todo caso con las siguientes normas:
+###### ARTICULO 8.
 
-I.- Las actividades y enseñanzas de los planteles particulares, deberán sujetarse, sin excepción alguna a lo preceptuado en el párrafo inicial de este artículo y estarán a cargo de personas que en concepto del Estado tengan suficiente preparación profesional, conveniente moralidad e ideología acorde con este precepto. En tal virtud, las corporaciones religiosas, los ministros de cultos, las Sociedades por Acciones, que exclusiva o preferentemente realicen actividades educativas, y las asociaciones y sociedades ligadas directa o indirectamente con la propaganda de un credo religioso, no intervendrán en forma alguna en las escuelas primarias, secundarias, normales o Profesionales, ni podrán apoyarlas económicamente;
+El patrimonio familiar es inalienable. En ningún caso podrá menoscabarse y no será objeto de embargo, ni de gravamen alguno.
 
-II.- La formación de planes, programas y métodos de enseñanza corresponderá en este caso al Estado;
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-III.- No podrán funcionar los planteles particulares sin haber obtenido previamente en cada caso, la autorización expresa del Poder Público.
+###### ARTICULO 9.
 
-IV.- El Estado podrá revocar en cualquier tiempo las autorizaciones concedidas. Contra la revcoación (sic) no procederá recurso alguno. Estas mismas normas regirán para la educación de cualquier tipo o grado que se imparta a los obreros y campesinos. La educación primaria será obligatoria y el Estado la impartirá gratuitamente.
+Ningún juicio podrá tener más de tres instancias.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1922)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 10.
+###### ARTICULO 10.
 
-No podrá coartarse el derecho de asociarse o reunirse pacíficamente con cualquier objeto lícito; pero solamente los ciudadanos mexicanos podrán hacerlo para tomar parte en asuntos políticos o sociales de la República o del Estado. Ninguna reunión armada tiene derecho a deliberar.
+La correspondencia, sea cual fuere su forma de circulación, estará libre de todo registro y su violación será penada por la Ley.
 
-No se considerará ilegal, y no podrá ser disuelta una asamblea o reunión que tenga por objeto hacer una petición o presentar una protesta por algún acto, a una autoridad, si no se profieren injurias contra ésta, ni se hiciere uso de violencias o amenazas para intimidarla u obligarla a resolver en el sentido que se desee.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 11.
+###### ARTICULO 11.
 
-Los habitantes del Estado de Durango tienen libertad de poseer armas de cualquiera clase, para su seguridad y legítima defensa, hecha excepción de las prohibidas expresamente por la ley y de las que la Nación reserve para el uso exclusivo del Ejército Nacional, pero no podrán portarlas en las poblaciones sin sujetarse a los reglamentos de policía.
+La propiedad es un derecho que debe desempeñar una función social y en el Estado de Durango:
 
-###### Artículo 12.
+I.- Es contraria al interés público la tenencia de terrenos rústicos en superficies superiores a los límites que las leyes señalen a la pequeña propiedad;
 
-Todo hombre tiene derecho para entrar en el Estado, salir de él, viajar por su territorio y mudar de residencia, sin necesidad de carta de seguridad, salvoconducto u otros requisitos semejantes. El ejercicio de este derecho estará subordinado a las facultades de la autoridad judicial en los casos de rosponsabilidad (sic) criminal o civil, y a las de la autoridad administrativa, por lo que toca a las limitaciones que impongan las leyes sobre salubridad y seguridad públicas en el Estado.
+II.- Se declara de utilidad pública e interés social el aprovechamiento de terrenos urbanos ociosos o desocupados, para beneficio de la colectividad;
 
-###### Artículo 13.
+III.- Las leyes propiciarán el fraccionamiento, la urbanización, la regeneración urbana, el mejoramiento y la adquisición por parte del Estado de los inmuebles necesarios para resolver los problemas habitacionales de los grupos mayoritarios de la población y en particular de los de más bajo nivel económico, así como para cualesquier otro fin de utilidad pública o de beneficio colectivo, señalando los casos en que proceda la expropiación correspondiente;
 
-Nadie puede ser juzgado por leyes privativas ni por tribunales especiales. Ninguna persona o corporación puede tener fuero, ni gozar más emolumentos que los que sean compensación de servicios públicos que estén fijados por la ley.
+IV.- La expropiación de bienes pertenecientes a particulares solo podrán decretarse por causa de utilidad pública, en los casos y de conformidad con el procedimiento que señale la Ley de Expropiación, mediante la indemnización correspondiente; para fijar el monto de ésta tratándose de bienes inmuebles, se atenderá al valor fiscal con que aparezcan registrados en las oficinas catastrales o recaudadoras, ya sea que este valor haya sido manifestado por el propietario, o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones sobre esta base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor fiscal, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de inmuebles cuyo valor no esté fijado en las oficinas recaudadoras o catastrales;
 
-###### Artículo 14.
+V.- El patrimonio del Estado se compone de los bienes que son de su propiedad y de los que adquiera conforme a la ley; del producto de las contribuciones decretadas por el Congreso; de los bienes vacantes que estan dentro de su territorio; de los bienes mostrencos; de los créditos que tenga a su favor; de las donaciones, legados, herencias o reintegros que se hagan o se dejen en beneficio del Estado; de los derechos, productos y aprovechamientos; así como de los subsidios y de las participaciones en el rendimiento de impuestos federales que conforme a las leyes deba percibir; y
 
-A ninguna ley se dará efecto retroactivo en perjuicio de persona alguna. Nadie podrá ser privado de la vida, de la libertad o de sus propiedades, posesiones o derechos, sino mediante juicio seguido ante los tribunales previamente establecidos, en el que se cumplan las formalidades esenciales del procedimiento y conforme a las leyes expedidas con autoridad (sic) al hecho. Este precepto no comprende la facultad que tiene la autoridad respectiva para expropiar por causa de utilidad pública conforme a la ley.
+VI.- Los bienes afectos a un servicio proporcionado por el Estado, son inalienables e imprescriptibles. Los bienes del Estado, desafectados de un servicio público y que pasen al dominio privado del Estado podrán ser enajenados, previa autorización del Congreso, mediante los requisitos que señala ésta Constitución y la Ley de Bienes del Estado que expedirá el Congreso.
 
-En los juicios del orden criminal queda prohibido imponer, por simple analogía, y aún por mayoría de razón, pena alguna que no esté decretada por una ley exactamente aplicable al delito de que se trate.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-En los juicios del orden criminal queda prohibido imponer por simple analogía, y aún por mayoría de razón, pena alguna que no esté decretada por una ley exactamente oplicable (sic) al delito de que se trate.
+###### ARTICULO 12.
 
-En los juicios del orden civil, la sentencia definitiva deberá ser conforme a la letra a la interpretación jurídico (sic) de la ley, y, y a falta de ésta se fundará en los principios generales del derecho.
+El Estado de Durango, acorde con sus recursos, reconoce los derechos públicos sociales que en seguida (sic) se consignan:
 
-###### Artículo 15.
+I.- La protección asistencial a la maternidad y a la infancia, cuando así lo requiera la situación económica de una o de otra;
 
-Nadie puede ser molestado en su persona, familia, domicilio, papeles y posesiones, sino en virtud de mandato escrito de la autoridad competente, que funde y motive la causa legal del procedimiento. No podrá librarse ninguna orden de aprehensión o detención, sino por la autoridad judicial, sin que preceda denuncia, acusación o querella de un hecho determinado que la ley castigue con pena corporal, y sin que estén apolladas (sic) aquellas por declaración, bajo protesta, de persona digna de fe o por otros datos que hagan probable responsabilidad del inculpado, hecha excepción o de los casos de flagrante delito en que cualquiera persona puede aprehender al delincuente y a sus cómplices, poniéndolos sin demora a disposición de la autoridad inmediata. Solamente en casos urgentes, cuando no haya en el lugar ninguna autoridad judicial, y tratándose de delitos que se persiguen de oficio, podrá la autoridad administrativa, bajo su más estrecha responsabilidad, decretar la detención de un acusado, poniéndolo inmediatamente a disposición de la autoridad judicial. En toda orden de cateo, que sólo la autoridad judicial podrá expedir y será escrita, se expresará el lugar que ha de inspeccionarse, la persona o personas pue (sic) hayan de aprehenderse, y los objetos que se busquen; a lo que únicamente debe limitarse la diligencia, levantándola al concluirla una acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado en su ausencia o negativa, por la autoridad que practique la diligencia.
+II. La prestación de servicios médico-asistenciales y funerarios a personas indigentes; y
 
-La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía; y exigir la exhibición de libros y papeles indispensables para comprobar que se han acatado las disposiciones fiscales, sujetándose en estos casos, a las leyes respectivas y a las formalidades prescritas para los cateos.
+III.- El otorgamiento de becas a los estudiantes indigentes que se hayan distinguido por su aprovechamiento, para que, continúen sus estudios y perfeccionen sus conocimientos en los centros de educación media y superior.
 
-###### Artículo 16.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Nadie puede ser detenido por deudas de carácter puramente civil. Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar sus derechos. Los Tribunales estarán expeditos para administrar justicia en los plazos y términos que fija la ley; su servicio será gratuito, quedando en consecuencia, prohibidas las costas judiciales.
+###### ARTICULO 13.
 
-###### Artículo 17.
+El Gobierno del Estado promoverá el incremento de las obras de infraestructura, el aumento de fuentes de trabajo, la creación de instituciones educativas y la construcción de viviendas decorosas y de bajo costo.
 
-Sólo por delito que merezca pena corporal habrá lugar a prisión preventiva. El lugar de ésta será distinto y estará completamente separado del que se destinare para la extinción de las penas.
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Se expenderá una ley que organice y reglamente el sistima (sic) penal que regenere al delincuente, sobre la base del trabajo.
+###### ARTICULO 14.
 
-###### Artículo 18.
+Son Duranguenses:
 
-Ninguna detención podrá exceder del término de tres días, sin que se justifique con auto de formal prisión, en el que se expresará: el delito que se impute al acusado, los elementos que constituyan aquél, lugar, tiempo y circunstancias de ejecución y los datos que arroje la averiguación previa, los que deben ser bastantes para comprobar el cuerpo del delito y hacer probable la responsabilidad del acusado. La infracción de esta disposición hace responsable a la autoridad que ordene la detención o la consienta, y a los agentes, ministros, alcaides o carceleros que la ejecuten.
+I.- Las personas nacidas en el Estado de Durango;
 
-Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de formal prisión. Si en la secuela de un proceso apareciere que se ha cometido un delito distinto del que se persigue, deberá ser objeto de acusación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
+II.- Los mexicanos que tengan una residencia mínima de cinco años en el Estado y un modo honesto de vivir; y
 
-Todo maltratamiento en la aprehensión o en las prisiones, toda molestia que se infiera sin motivo legal, toda gabela o contribución en las cárceles, son abusos que serán corregidos por las leyes y reprimidos por las autoridades.
+III.- Los mexicanos nacidos fuera del territorio del Estado, hijos de padre o madre duranguense.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 1961)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 19.
+###### ARTICULO 15.
 
-En todo juicio del orden criminal tendrá el acusado las siguientes Garantías:
+Son ciudadanos del Estado los Duranguenses que hayan cumplido 18 años y que tengan un modo honesto de vivir.
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1961)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-I.- Inmediatamente que lo solicite será puesto en libertad bajo fianza que fijará el Juez tomando en cuenta sus circunstancias personales y la gravedad del delito que se le impute, siempre que dicho delito merezca ser castigado con pena cuyo término medio aritmético no sea mayor de cinco años de prisión, y sin más requisito que poner la suma de dinero respectiva a disposición de la autoridad u otorgar caución hipotecaria o personal bastante para asegurarla, bajo la responsabilidad del Juez en su aceptación.
+###### ARTICULO 16.
 
-En ningún caso la fianza o caución será mayor de $250,000.00 a no ser que se trate de un delito que represente para su autor un beneficio económico o cause a la víctima un daño patrimonial, pues en estos casos la garantía será cuando menos tres veces mayor al beneficio obtenido o al daño ocasionado.
+Son derechos y obligaciones de los duranguenses los que para todo mexicano consigna la Constitución General de la República.
 
-II. No podrá ser compelido a declarar en su contra, por lo cual queda rigurosamente prohibida toda incumunicación (sic) o cualquier otro medio que tienda aquel objeto.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-III. Se le hará saber en audiencia pública, y dentro de las cuarenta y ocho horas siguientes a su consignación a la justicia, el nombre de su acusador, y la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo, rindiendo en este acto su declaración preparatoria.
+###### ARTICULO 17.
 
-IV. Será careado con los testigos que pongan en su contra, los que declaran en su presencia si estubieren (sic) en el lugar del juicio, para que pueda hacerles todas las preguntas conducentes a su defensa.
+Son prerrogativas del ciudadano duranguense:
 
-V. Se le recibirán testigos y demás pruebas que ofrezca, concediéndosele el tiempo que la ley estime necesario al efecto, y auxiliándosele para obtener la comparecencia de las personas cuyos testimonios solicite, siempre que se encuentren en el lugar del proceso.
+I.- Votar en las elecciones;
 
-VI. Será juzgado en audiencia pública por un juez letrado, o en el sustituto legal, cuando el delito porque se le procesa deba ser castigado con una pena mayor de un año de prisión. Si la pena es menor de un año será juzgado por un juez municipal o correccional. Los delitos cometidos por medio de la prensa contra el orden público, será juzgado por un jurado.
+II.- Poder ser votado para cargos de elección popular, y nombrado para empleos o comisiones, teniendo los requisitos que establezca la Ley;
 
-VII. Le serán facultados todos los datos que solicite para su defensa y que consten en el proceso.
+III.- Tomar las armas en el Ejército o Guardia Nacional para asegurar y defender el territorio, el honor, los derechos o intereses del Estado y de la Nación;
 
-VIII. Será juzgado antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena máxima excediera de ese tiempo.
+IV.- Asociarse pacíficamente para tratar los asuntos políticos del Estado;
 
-IX. Se le oirá en defensa por si o por personas de su confianza, o por ambos según su voluutad (sic).
+V.- Ejercer en toda clase de negocios el derecho de petición; y
 
-En caso de no tener quien lo defienda, se le presentará lista de los defensores de oficio para que elija el que, o los que le convengan. Si el acusado no quiere nombrar defensores después de ser requerido para hacerlo al rendir su declaración preparatoria el juez le nombrara uno de oficio. El acusado podrá nombrar defensor desde el momento en que sea aprehendido, y tendrá derecho a que éste se halle presente en todos los actos del juicio; pero tendrá obligación de hacerlo comparecer cuantas veces se necesite.
+VI.- Ser preferido a los extranjeros, y aún a los mexicanos que no sean ciudadanos duranguenses en igualdad de circunstancias para toda clase de concesiones, y para todos los empleos, comisiones o cargos públicos.
 
-X. En ningún caso podrá prolongarse la prisión o detención por falta de pago de honorarios de defensores o por cualquiera otra prestación de dinero, ni por causa de responsabilidad civil o algún otro motivo análogo.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Tampoco podrá prolongarse la prisión preventiva por más tiempo del que como máximo fije la ley al delito que motivare el proceso.
+### CAPITULO SEGUNDO. DE LOS HABITANTES DEL ESTADO
 
-En toda pena de prisión que imponga una sentencia, se computará el tiempo de la detención.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 20.
+#### SECCION C.- DE LA INICIATIVA Y FORMACION DE LAS LEYES
 
-La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la policía judicial, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la autoridad administrativa el castigo de las infracciones de los reglamentos gubernativos y de policía, el cual únicamente consistirá en multa o arresto hasta por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de quince días.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Si el infractor fuese jornalero u obrero, no podrá ser castigado con multa mayor del importe de su jornal o sueldo en una semana.
+###### ARTICULO 18.
 
-###### Artículo 21.
+Son obligaciones del ciudadano duranguense;
 
-Quedan prohibidas las penas de mutilación y de infamia, la marca, los azotes, los palos, el tormento de cualquiera especie, la multa excesiva, la confiscación de bienes y cualesquiera otras penas inusitadas y trascendentales.
+I.- Inscribirse en los padrones de causantes del Estado y de la municipalidad, así como también inscribirse en los padrones electorales, en los términos que determinen las leyes;
 
-No se considerará como confiscación de bienes la aplicación total o parcial de los bienes de una persona, hecha por la autoridad judicial, para el pago de la responsabilidad civil resultante de la comisión de un delito, o para el pago de impuestos o multas.
+II.- Alistarse en la Guardia Nacional;
 
-Queda también prohibida la pena de muerte por delitos políticos, y en cuanto a los demás, sólo podrá imponerse al traidor a la Patria en guerra extranjera, al parricida, al homicida con alevosía, premeditación y ventaja, al incendiario, al plagiario y al salteador de caminos.
+III.- Votar en las elecciones populares en el Distrito Electoral que le corresponda;
 
-###### Artículo 22.
+IV.- Desempeñar los cargos de elección popular de la Federación o del Estado, que en ningún caso serán gratuitos, ni renunciables; y
 
-Ningún juicio criminal deberá tener más de tres instancias. Nadie puede ser juzgado dos veces por el mismo delito, ya sea que en juicio se le absuelva o se le condene. Queda prohibida la práctica de absolver de la instancia.
+V.- Desempeñar los cargos concejiles del Municipio donde resida, las funciones electorales y las de jurado.
 
-###### Artículo 23.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Todo hombre es libre para profesar la creencia religiosa que más le agrade, y para practicar las ceremonias, devociones o actos del culto respectivo, en los templos o en su domicilio particular, siempre que no constituyan un delito o falta penados por la ley.
+###### ARTICULO 19.
 
-Todo acto religioso de culto público deberá celebrarse precisamente dentro de los templos, los cuales estarán siempre bajo la vigilincia (sic) de la autoridad.
+Toda persona que, permanente o transitoriamente, se encuentre en el territorio de la Entidad, tiene obligación de acatar y cumplir sus leyes y las disposiciones de sus autoridades, sin que pueda, por propia decisión, eximirse de su observancia, por ignorarlas, por considerar que son injustas o porque pugnan con sus opiniones; y tiene la obligación de prestar auxilio a las autoridades cuando para ello sea legalmente requerida.
 
-###### Artículo 24.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-La correspoudencia (sic) que bajo cubierta circule por las estafetas, estará libre de todo registro, y su violación será penada por la ley.
+###### ARTICULO 20.
 
-###### Artículo 25.
+Pierde la calidad de duranguense quien deje de tener la nacionalidad mexicana conforme a la Constitución General de la República, o se comprometa ante ministro de algún culto o ante cualquier persona, a no observar la Constitución Federal, la Particular del Estado o las leyes que de ellas emanen.
 
-En tiempo de paz, ningún miembro del ejército podrá alojarse en casa particular contra la voluntad del dueño, ni imponer prestación alguna. En tiempo de guerra los militares podrán exigir alojamiento, bagajes, alimentos y otras prestaciones, en los términos que establezca la ley marcial correspondiente.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1961)</small>
+###### ARTICULO 21.
 
-###### Artículo 26.
+La calidad de ciudadano duranguense se pierde:
 
-La expropiación de pertenecientes a particulares sólo podrá decretarse por causa de utilidad pública en los casos y de conformidad con el procedimiento que señale la Ley de Expropiación, mediante la indemnización correspondiente; para fijar el monto de ésta tratándose de bienes inmuebles, se atenderá el valor fiscal con que aparezcan registrados en las oficinas catastrales o recaudadoras, ya sea que este valor haya sido manifestado por el propietario, o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones con esta base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor fiscal, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de inmuebles cuyo valor no esté fijado en las oficinas rentísticas, o de bienes muebles.
+I.- Por sentencia condenatoria que imponga esa pena;
 
-El Patrimonio del Estado se compone de los edificios públicos del mismo; de los bienes afectos a un servicio público proporcionados por el propio Estado; los bienes que adquiera conforme a la Ley; las herencias y los bienes vacantes que estén dentro de su territorio; de los bienes mostrencos; de los créditos que tenga a su favor; de las rentas que deba percibir, y de las contribuciones y participaciones de impuestos decretados por la Federación o por la Legislatura Local.
+II.- Por solicitar la ciudadanía de otro Estado de la República; y
 
-Los bienes de dominio público y afectos a un servicio proporcionado por el Estado, son inalienables e imprescriptibles.
+III.- Por cualesquiera de las causas de pérdida de la ciudadanía mexicana establecidas en la Constitución General de la República.
 
-Los bienes del estado desafectados de un servicio público y que pasen al dominio privado del Estado podrán ser enajenados con permiso de la Legislatura mediante los requisitos que señala esta Constitución.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-La Legislatura del Estado expedirá la Ley de Bienes del Estado.
+###### ARTICULO 22.
 
-El Estado reconoce además las Garantías Sociales siguientes:
+Los derechos del ciudadano duranguense se suspenden:
 
-a).- La Maternidad y la Infancia, tienen derecho a protección asistencial, cuando así lo requiera su situación económica.
+I.- Por no dar debido cumplimiento a las obligaciones que impone el Artículo 18 de esta Constitución, salvo causa justificada. Esta suspensión durará un año y se impondrá además de las otras penas que por el mismo hecho señale la Ley;
 
-b).- Las personas económicamente débiles tienen derecho a los servicios médico-asistenciales y a los servicios de funerales gratuitos.
+II.- Por permitir que derechos de propiedad ajenos se registren u ostenten como de su pertenencia. Esta suspensión durará mientras subsista la causa y cinco años más, sin perjuicio de otras penas que establezca la Ley;
 
-c).- Los estudiantes indigentes que se hayan distinguido por su aprovechamiento, obtendrán becas para continuar sus estudios y perfeccionar sus conocimientos en los centros de cultura superior.
+III.- Por estado de interdicción judicialmente declarado; y
 
-d).- Todo residente en el Estado de Durango tiene derecho a la Libertad, a la vida, al trabajo honesto, a la habitación y a la cultura. El Gobierno del Estado de acuerdo con sus posibilidades, promoverá lo conducente para incrementar las fuentes de trabajo, la creación de instituciones educativas prmiarias (sic) y de cultura superior, así como el establecimiento de habitaciones baratas y decorosas.
+IV.- En los casos y términos previstos en la Constitución General de la República.
 
-###### Artículo 27.
+Los derechos de (sic) ciudadano se recobrarán al cesar la causa que dió motivo a la suspensión, excepto lo dispuesto en las Fracciones I y II.
 
-Son durangueños:
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 1939)</small>
+###### ARTICULO 23.
 
-I. Los nacidos dentro del Estado, hijos de padres mexicanos.
+En los casos de pérdida de la calidad de duranguense o de ciudadano del Estado, el Congreso o, en su receso la Comisión Permanente, hará la declaratoria o la rehabilitación conforme a la ley reglamentaria. El Congreso expedirá la Ley de Población del Estado.
 
-II. Los mexicanos que permanezcan en el Estado por dos años y tengan un modo honesto de vivir.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-III. Los mismos, por el sólo hecho de adquirir bienes raíces en el Estado y manifestar a la autoridad voluntad de vivir en su territorio.
+###### ARTICULO 24.
 
-IV. Los extranjeros naturalizados según las leyes generales, que se hallaren en uno de los dos casos que preceden.
+El Estado de Durango es libre y soberano y en su régimen de Gobierno no reconoce más restricciones que las prescritas en la Constitución General de la República, a cuya observancia está obligado como Entidad Federativa de la Nación.
 
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 1970)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 28.
+###### ARTICULO 25.
 
-Son Ciudadanos Durangueños, los hombres y mujeres mencionados en el Artículo anterior, que reunan además, los siguientes requisitos:
+La soberanía del Estado reside esencial y originariamente en el pueblo y la ejerce por medio de sus legítimos representantes en los términos establecidos en esta Constitución. Todo poder público dimana del pueblo y se instituye para su beneficio. El pueblo tiene en todo tiempo el inalienable derecho de alterar o modificar esta Constitución, así como las demás leyes que de ella emanen.
 
-I.- Haber cumplido 18 años, y
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-II.- Tener un modo honesto de vivir.
+###### ARTICULO 26.
 
-###### Artículo 29.
+El Estado de Durango está integrado por los siguientes Municipios: Canatlán, Canelas, Coneto de Comonfort, Cuencamé, Durango, El Oro, Gómez Palacio, Guadalupe Victoria, Guanaceví, Hidalgo, Indé, Lerdo, Mapimí Mezquital, Nazas, Nombre de Dios, Ocampo, Otáez, Pánuco de Coronado, Peñón Blanco, Poanas, Pueblo Nuevo Rodeo, San Bernardo, San Dimas, San Juan de Guadalupe, San Juan del Río, San Luis del Cordero, San Pedro del Gallo, Santa Clara, Santiago Papasquiaro, Simón Bolívar, Súchil, Tamazula, Tepehuanes, Tlahualilo, Topia y Vicente Guerrero y con los demás que se formen en lo sucesivo.
 
-Son obligaciones del durangueño:
+El Territorio del Estado tiene la extensión y límites que señala la Ley de División Territorial.
 
-I. Hacer que sus hijos o pupilos menores de quince años concurran a las escuelas públicas o privadas, para obtener la educación primaria elemental y militar, durante el tiempo que marca la ley de instrucción pública del Estado.
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-II. Asistir en los días y horas designados por el Ayuntamiento del lugar en que residan, para recibir instrucción cívica y militar, que los mantenga aptos en el ejercicio de los derechos de ciudadanos, diestros en el manejo de las armas, y conocedores de la disciplina militar.
+###### ARTICULO 27.
 
-III. Alistarse y servir en la guardia nacional para asegurar y defender el territorio, el honor, los derechos e intereses de la Nación.
+El Estado de Durango reconoce y adopta en su régimen interior la forma de Gobierno republicano, representativo y popular, teniendo como base de su división territorial y de su organización política y administrativa el Municipio Libre, de acuerdo con las bases que señala la Constitución General de la República.
 
-IV. Contribuir para los gastos públicos de la Federación, así como del Estado y Municipio en que residan, de la manera proporcional y equitativa que dispongan las leyes.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 30.
+###### ARTICULO 28.
 
-Son prerrogativas del ciudadano durangueño:
+En el Estado de Durango el Poder Público se divide para su ejercicio en Legislativo, Ejecutivo y Judicial. No podrán reunirse dos ó más poderes en una sola persona o corporación, ni depositarse el Legislativo en un solo individuo.
 
-I. Votar en las elecciones.
+La residencia de los Poderes es la Capital del Estado.
 
-II. Poder ser votado para todos los cargos de elección popular, y nombrado para cualquier otro empleo o comisión, teniendo los requisitos que establezca la ley.
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-III. Tomar las armas en el ejército o guardia nacional para asegurar y defender el territorio, el honor, los derechos e intereses del Estado y de la Nación.
+###### ARTICULO 29.
 
-IV. Asociarse para tratar los asuntos políticos del Estado.
+El ejercicio de las funciones que ésta Constitución señala al Poder Legislativo, se deposita en el Congreso del Estado de Durango.
 
-V. Ejercer en toda clase de negocios el derecho de petición.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-VI. Ser preferido a los extranjeros, y aún a los mexicanos que no sean ciudadanos durangueños, en igualdad de circunstancias, para toda clase de concesiones, y para todos los empleos, cargos o comisiones del Gobierno en que no sea indispensable la calidad de ciudadano durangueño.
+###### ARTICULO 30.
 
-###### Artículo 31.
+El Congreso se integra con Diputados electos popular y directamente cuyo número, en ejercicio, en ningún caso será menor de once. Por cada distrito electoral se elegirán un diputado propietario y un suplente en la forma y términos que señala la Ley Electoral del Estado.
 
-Son obligaciones del ciudadano durangueño:
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-I. Inscribirse en el Catastro de la Municipalidad, manifestando la propiedad que el mismo ciudadano tenga, la industría, profesión o trabajo de que subsista así como tambtén (sic) inscribirse en los padrones electorales en los términos que determinen las leyes.
+###### ARTICULO 31.
 
-II. Alistarse en la guardia nacional.
+Los distritos electorales, numerados progresivamente, se integrarán con un mínimo de cuarenta mil y un máximo de ciento cincuenta mil habitantes.
 
-III. Votar en las elecciones populares en el Distrito Electoral que le corresponda.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-IV. Desempeñar los cargos de elección popular de la Federación o del Estado, que en ningún caso serán gratuitos.
+#### SECCION C.- DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 
-V. Desempeñar los cargos concejiles del Municipio donde resida, las funciones electorales y las de jurado.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 32.
+###### ARTICULO 32.
 
-Los derechos del ciudadano durangueño se suspenden:
+Para ser Diputado Propietario o Suplente se requiere:
 
-I. Por falta de cumplimiento, sin causa justificada, de cualquiera de las obligaciones que impone el artículo treinta y uno; en tal caso la suspensión durará un año.
+I.- Ser ciudadano duranguense por nacimiento, en ejercicio de sus derechos;
 
-II. Por estar sujeto a un proceso criminal por delito que merezca pena corporal, a contar desde la fecha del auto de formal prisión.
+II.- Saber leer y escribir;
 
-III. Durante la extinción de una pena corporal.
+III.- Tener para el día de la elección una edad mínima de veintiún años cumplidos;
 
-IV. Por vagancia o ebriedad consuetudinaria, declarada en los términos que prevengan las leyes.
+IV.- Contar con una residencia efectiva del territorio del Estado, cuando menos de dos años anteriores al día de la elección;
 
-V. Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión hasta que prescriba la acción penal.
+V.- No haber sido condenado a más de un año de prisión, excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, independientemente de la pena impuesta; y
 
-VI. Por sentencia ejecutoriada que imponga como pena esa suspensión.
+VI.- No ser empleado o funcionario público de la Federación, del Estado o del Municipio, a menos que se separe de sus funciones noventa días antes de la elección.
 
-###### Artículo 33.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Los derechos del ciudadano durangueño se pierden:
+###### ARTICULO 33.
 
-I. Por naturalización en país extranjero.
+Los diputados propietarios no podrán ser reelectos para el período inmediato, ni aún con el carácter de suplente. Los diputados suplentes podrán ser electos para el período inmediato, con el carácter de propietarios, siempre que no hubieren estado en ejercicio.
 
-II. Por servir oficialmente al gobierno de otro país, o admitir de él condecoraciones, títulos o funciones, sin previa licencia del Congreso Federal, exceptuando los títulos literarios, científicos y humanitarios, que pueden aceptarse libremente.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-III. Por comprometerse en cualquiera forma ante ministro de algún culto o ante cualquiera otra persona, a no observar la presente Constitución o las leyes que de ella emanen.
+###### ARTICULO 34.
 
-La ley fijará los casos en que se pierden, y los demás en que se suspenden los derechos del ciudadano, y la manera de hacer la rehabilitación.
+Los diputados propietarios, durante el período de su encargo, no podrán desempeñar ninguna otra comisión o empleo de la Federación, del Estado o de los Municipios por los cuales disfrute de sueldo, sin licencia previa de la Legislatura o de la Comisión Permanente, en su caso, pero entonces cesarán en sus funciones representativas mientras dure la nueva ocupación. La misma regla se observará con los diputados suplentes cuando estuvieren en ejercicio. La infracción de esta disposición será castigada con la pérdida del carácter de diputado.
 
-###### Artículo 34.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Para recobrar éste derecho es necesaria la rehabilitación de la Legislatura o en su receso de la Diputación permanente, menos en el caso en que los procesados obtuvieren sentencia absolutoria.
+###### ARTICULO 35.
 
-###### Artículo 35.
+Los diputados son inviolables por las opiniones que manifiesten en el desempeño de sus cargos y jamás podrán ser reconvenidos por ellas.
 
-El Estado de Durango es libre y soberano; y en su régimen de gobierno no reconoce más restricciones que las prescritas en la Constitución General de la República, a cuya observancia está obligado como entidad Federativa de la Nación.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1961)</small>
+###### ARTICULO 36.
 
-###### Artículo 36.
+Los diputados que sin licencia dejaren de concurrir por un mes seguido a cualquier período de sesiones, quedarán suspensos de su encargo y de los derechos de ciudadano por todo el período para el que fueron electos.
 
-El Estado de Durango, reconoce y adopta para su Régimen Interior, la forma de Gobierno Republicano, Representativo, Popular, teniendo como base de su División Territorial y de su Organización Política y Administrativa el Municipio Libre de acuerdo con el Artículo 115 de la Constitución General de la República, los cargos de elección popular no son renunciables.
+Igual pena sufrirán los suplentes, en su caso, desde que sean llamados para reemplazar al propietario. Para la aplicación de esta pena se necesita la declaración expresa del Congreso. Las faltas sin licencia, de menos de un mes, se sujetarán a las prescripciones y penas que señale el Reglamento del propio Congreso.
 
-###### Artículo 37.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-La soberanía del Estado reside esencial y originariamente en el pueblo y la ejerce por medio de sus legítimos representantes, en los términos establecidos en esta Constitución. Todo poder público dimana del pueblo y se constituye para su beneficio. El pueblo tiene en todo tiempo el inalienable derecho de alterar o modificar esta Constitución, así como las demás leyes que reglamenten la Administración Pública.
+###### ARTICULO 37.
 
-###### Artículo 38.
+Las elecciones para integrar la Legislatura serán calificadas por los diputados electos constituidos en Colegio Electoral, en la forma y términos que prevean la Ley Electoral del Estado y el Reglamento para el Gobierno Interior del Congreso.
 
-El pueblo ejerce su soberanía por medio de los Poderes Legislativo, Ejecutivo y Judicial.
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-La potestad de hacer las leyes reside en la Legislatura; la de hacerlas ejecutar en el Gobierno o Ejecutivo, y la de aplicarlas en los Tribunales establecidos por la ley.
+SECCION B.- DE LA INSTALACION Y LABORES DEL CONGRESO
 
-No podrá depositarse el Poder Legislativo en una sola persona, ni unirse dos o más de estos poderes en un individuo o corporación, salvo el caso de facultades extraordinarias al Ejecutivo, conforme a lo dispuesto por esta Constitución.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1961)</small>
+###### ARTICULO 38.
 
-###### Artículo 39.
+El asiento del Congreso es la Capital del Estado. Podrá trasladarse provisionalmente a otro lugar cuando se presenten circunstancias que lo ameriten y así lo acuerden cuando menos las dos terceras partes de los diputados presentes en la sesión en que se trate.
 
-El Estado de Durango está integrado por los siguientes Municipios: CANELAS, CONETO DE COMONFORT, CANATLAN, CUENCAME, DURANGO, GUADALUPE VICTORIA, GUANACEVI, GOMEZ PALACIO, INDE, LERDO, MEZQUITAL, MAPIMI, NOMBRE DE DIOS, NAZAS, OTAEZ, EL ORO, PEÑON BLANCO, PUEBLO NUEVO, POANAS, PANUCO DE CORONADO, RODEO, SUCHIL, SANTIAGO PAPASQUIARO, SAN LUIS DE CORDERO, GENERAL SIMON BOLIVAR, SANTA CLARA, SAN PEDRO DEL GALLO, SAN DIMAS, SAN JUAN DE GUADALUPE, SAN BERNARDO, SAN JUAN DEL RIO, TOPIA, TAMAZULA, TEPEHUANES, TLAHUALILO DE ZARAGOZA, HIDALGO, OCAMPO, VICENTE GUERRERO Y CON LOS DEMAS QUE SE FORMEN EN LO SUCESIVO. El Territorio del Estado tiene la extensión y límites que señala la Ley de División Territorial.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-## TITULO III.
+###### ARTICULO 39.
 
-DEL ESTADO Y SU FORMA DE GOBIERNO.
+Los miembros del Congreso durarán en su encargo tres años, iniciando sus sesiones el 1o. de septiembre posterior a la elección. El Congreso del Estado sesionará ordinariamente del 1o. de septiembre al 31 de diciembre y del 15 de marzo al 15 de julio de cada año, no pudiendo instalarse ni ejercer sus funciones sin la concurrencia de la mayoría de los diputados integrantes.
 
-###### Artículo 40.
+Cuando los diputados asistentes no reúnan el número requerido para la instalación del Congreso, o reuniéndolo no asistiera el total de miembros, excitarán a los ausentes para que concurran dentro de los diez días siguientes, con la advertencia de que si no lo hacen sin causa justificada, se entenderá que declinan su responsabilidad, llamándose de inmediato a los suplentes, los que deberán presentarse dentro de un plazo de diez días. Si los suplentes no comparecieren sin causa justificada en el plazo señalado se declararán vacantes los cargos convocándose a nueva elección.
 
-El Congreso del Estado determinará por ley especial que llevará el nombre de "Ley de Municipios del Estado," los estatutos económicos y administrativos a que deben sujetarse los Municipios en su régimen interior, y los cuales podrá el mismo Congreso alterar o modificar cuando el bien de la administración pública general o de los mismos Municipios lo hiciere necesario. Tanto en la Ley de Municipios, como en sus alteraciones o modificaciones en su caso, se atenderá siempre a mantener la unidad de gobierno, que necesariamente exige la Administración Pública General del Estado, en relación con el grado de libertad interior administrativa que les señala la Constitución Federal de la República. En consecuencia, los Municipios, sin infringir las leyes federales o del Estado, y sin excederse de sus presupuestos respectivos, tienen derecho de atender libremente, de la manera que juzguen más eficaz, todos los ramos de la Administración Pública interior de los mismos Municipios.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1961)</small>
+## TITULO SEGUNDO
 
-###### Artículo 41.
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Para ser Presidente Municipal, Regidor y Síndico de los Ayuntamientos se requiere ser ciudadano durangueño en ejercicio de sus derechos e hijo de padres mexicanos por nacimiento, además los siguientes requisitos:
+### CAPITULO PRIMERO. DE LA SOBERANIA
 
-I.- Ser mayor de 25 años.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-II.- Ser vecino de la Municipalidad correspondiente con residencia efectiva dentro de la misma cuando menos de dos años si es nativo del Estado y de cinco si no lo es.
+###### ARTICULO 40.
 
-III.- Ser del estado seglar.
+El Congreso se reunirá en períodos extraordinarios de sesiones cuando fuere convocado por la Comisión Permanente y solo podrán tratarse los asuntos que los motiven y se precisen en la convocatoria.
 
-IV.- No haber sido condenado por cualquier delito excepto los de culpa a más de un año de prisión pero si hubiere sido condenado por robo, fraude, falsificación, abuso de confianza y en general cualquier otro delito que lastime seriamente la buena fama en el concepto público quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-V.- No tener cargo, empleo o comisión del Gobierno Federal o del Estado, si no se separa de su cargo cuando menes (sic) tres meses antes del día de la elección.
+###### ARTICULO 41.
 
-El número de Regidores que deberá integrar cada Ayuntamiento será señalado por la Ley de Municipios.
+Todas las sesiones serán públicas, con excepción de los casos señalados por el Reglamento para el Gobierno Interior del Congreso.
 
-En las elecciones municipales podrán participar las mujeres en igualdad de condiciones que los varones con el derecho de votar y ser votadas.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos electos popularmente, no podrán ser reelectos para el período inmediato, los miembros de la Junta Provisional de que habla el Artículo 49 de la Constitución no podrán ser reelectos para el período inmediato. Todos los funcionarios municipales antes mencionados, no podrán ser electos para el período inmediato co ncarácter (sic) de suplentes, pero los que tengan carácter de suplentes sí podrán ser electos para el período inmediato con el carácter de propietarios, a menos que hayan estado en ejercicio.
+###### ARTICULO 42.
 
-###### Artículo 42.
+El Congreso o la Comisión Permanente, en su caso, expedirá la convocatoria para las elecciones que procedan de acuerdo con la Ley Electoral del Estado. En caso de falta absoluta de alguno o varios diputados propietarios y de sus respectivos suplentes, el Congreso convocará a elecciones para integrar el total de sus miembros, siempre que ésta circunstancia no ocurra dentro del último semestre del período Constitucional y que estuviere en funciones la mayoría de los diputados; a falta de esta mayoría, el Ejecutivo expedirá la convocatoria respectiva.
 
-Los Ayuntamientos tienen personalidad jurídica para todos los efectos legales.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-> <small>(REFORMADO, P.O. 14 DE MARZO DE 1946)</small>
+### CAPITULO SEGUNDO. DEL TERRITORIO
 
-###### Artículo 43.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Los Ayuntamientos se renovarán totalmente cada tres años, en los términos que disponga la Ley.
+###### ARTICULO 43.
 
-###### Artículo 44.
+Durante el mes de agosto del año de la elección la Comisión Permanente convocará a los diputados electos para que se constituyan en Colegio Electoral.
 
-La Hacienda de los Municipios se formará de las contribuciones que señale la Legislatura del Estado, siendo en todo caso suficientes para atender a sus necesidades.
+Para que el Colegio Electoral pueda instalarse y ejercer sus funciones se requiere la asistencia de la mayoría del número total de sus miembros. Si no hubiese quórum para instalar el Colegio Electoral, o para que ejerza sus funciones una vez instalado, se llamará inmediatamente a los suplentes electos para que se presenten a desempeñar sus funciones.
 
-###### Artículo 45.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Los Ayuntamientos someterán a la aprobación de la Legislatura, por conducto del Ejecutivo, los Presupuestos de Egresos e Ingresos Municipales, así como sus cuentas anuales.
+###### ARTICULO 44.
 
-###### Artículo 46.
+Calificadas las elecciones de diputados por el Colegio Electoral, se convocará a los diputados electos a una junta preparatoria en la que se designará la directiva inicial de la nueva Legislatura.
 
-Los Ayuntamientos no podrán contratar empréstitos. Tampoco podrán enajenar, hipotecar o gravar de cualquiera otra manera los bienes raíces del Municipio sin sujetarse a las disposiciones respectivas de la Ley Municipal.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 1939)</small>
+### CAPITULO TERCERO. DE LA FORMA DE GOBIERNO
 
-###### Artículo 47.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-El Ejecutivo Federal y el Ejecutivo del Estado, tendrán el mando de las fuerzas de Policía Municipal y de las del Estado.
+###### ARTICULO 45.
 
-Las fuerzas de Policía Municipales y las fuerzas del Estado, recíprocamente se auxiliarán cuantas veces esta unidad de acción sea necesaria.
+Es obligación de los miembros del Congreso, visitar, terminado cada período ordinario de sesiones, los distritos que representan, para informar a la misma Legislatura en el período ordinario siguiente, acerca de las condiciones socio-económicas imperantes, a fin de proponer, en su oportunidad, cuanto pueda ser útil o necesario en beneficio de sus representados. Se exceptúan de esta obligación los miembros que formen la Comisión Permanente.
 
-###### Artículo 48.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Los Ayuntamientos podrán solicitar del Gobierno del Estado, cada vez que lo juzgue necesario, el aumento del número de escuelas primarias y secundarias en las Municipalidades respectivas.
+###### ARTICULO 46.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 1939)</small>
+Los Diputados tendrán la obligación de rendir ante sus representados un informe de sus actividades legislativas gestiones e intervenciones en beneficio de los habitantes de los municipios comprendidos en sus respectivos distritos electorales. Dicho informe será rendido durante la primera quincena del mes de febrero de cada año.
 
-###### Artículo 49.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-La falta absoluta del Ayuntamiento de una Municipalidad, será suficiente para que el Ejecutivo nombre una Junta Provisional de Gobierno integrada con el número de miembros que la Ley de Municipios designe para un Ayuntamiento Constitucional.
+###### ARTICULO 47.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1961)</small>
+El día 30 de junio de cada año, en sesión solemne, comparecerá ante el Congreso del Estado, el Presidente del Supremo Tribunal de Justicia y rendirá un informe sobre el estado que guarda la administración de la justicia.
 
-## TITULO IV.
+El Presidente del Congreso contestará ese informe.
 
-DEL PODER LEGISLATIVO.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1961)</small>
+###### ARTICULO 48.
 
-###### Artículo 50.
+El Congreso del Estado, en sesión solemne ordinaria que tendrá verificativo el día 8 de julio de cada año, recibirá la comparecencia del Gobernador del Estado, quien informará sobre el estado que guarda la administración pública. El Presidente del Congreso contestará ese informe.
 
-El Presidente y el Síndico Municipal serán designados por elección popular directa lo mismo que los demás Regidores del Ayuntamiento. El primero tendrá el carácter ejecutor de las resoluciones y comisiones que le sean encomendadas por el Ayuntamiento y será el representante jurídico del mismo; el segundo desempeñará las comisiones que le sean encomendadas por el Ayuntamiento y las demás funciones que la Ley de Municipios y demás ordenamientos le encomienden.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 51.
+###### ARTICULO 49.
 
-En el Estado de Durango es facultad de la Legislatura del mismo erigir en pueblos libres y sujetos en su organización interior a la Ley respectiva, todas las poblaciones que como centros industriales, mineros o agrícolas existan o puedan existir en lo sucesivo en su territorio, y cuyo número de habitantes no sea menor de quinientos, conforme al censo general del Estado, practicado en 1910, en tanto no se haga nuevo censo general del Estado o especial de alguno o algunos de los centros referidos; pero bastará como mínimum para el mismo fin el número de 200 habitantes, si las poblaciones de que se trata, por su situación topográfica respecto de las regiones y lugares que las rodean, por estar situadas cerca o sobre las principales vías de comunicación, y por las demás circunstancias favorables, pudieran estar llamadas a ser grandes centros de actividad en el Estado.
+El Gobernador, dentro de los últimos quince días de su mandato, enviará al Congreso una memoria en la que expondrá la situación prevaleciente en todos los ramos de la administración pública.
 
-Para tal efecto, el dueño o dueños serán expropiados por causa de utilidad pública de los edificios y terreno necesarios, al fundo de los mismos pueblos, mediante indemnización por el Estado, pagadera en anualidades no mayores de veinte ni menores de diez.
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-El Estado, responsable del pago de las indemnizaciones, sujetará a compra-venta, previa separación de los edificios que provisionalmente puedan servir de oficinas públicas y del terreno indispensable para la construcción posterior de estas oficinas, establecimiento de parques, arboledas, etc., los demás edificios y terreno, de antemano fraccionado, entre los habitantes del pueblo preferentemente y entre los demás solicitantes que deseen avecindarse.
+## TITULO TERCERO
 
-No se comprenderá en la expropiación las casas principales de los dueños, ni los edificios que sirvan de oficinas y dependencias de las negociaciones.
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-El precio o venta de casas y terrenos no podrá ser mayor durante los diez primeros años, del que comprenda proporcionalmente al monto de la expropiación, aumentado con los gastos ya hechos o por hacer, que impliquen la medición, fraccionamiento, construcción de edificios públicos y demás establecimientos de que se ha hecho mención.
+### CAPITULO PRIMERO. DE LA DIVISION DE PODERES
 
-A medida que la importancia de las negociaciones requieran la construcción de nuevos edificios para alojar a todos sus obreros, tendrán todo derecho y libertad de hacerlo en el número que lo juzguen necesario a continuación del fundo expropiado; pero las nuevas construcciones, aunque de su propiedad particular, quedarán formando parte integrante del pueblo, y por lo mismo sujetas a las mismas leyes y autoridades administrativas.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-En caso de que por concesiones especiales otorgadas por la Federación a algunas de las negociaciones a que se refiere este artículo se suscitaren dificultades para llevar a cabo la expropiación, el Gobierno del Estado las resolverá tratando directamente con dichas negociaciones, o con la Federación si así fuere necesario.
+###### ARTICULO 50.
 
-###### Artículo 52.
+El derecho de iniciar leyes y decretos compete:
 
-La Legislatura del Estado decretará la creación de pueblos libres cada vez que lo juzgue de utilidad pública, ó cuando a petición de los vecinos de las poblaciones respectivas resuelva que es justificada su solicitud.
+I.- A los Diputados al Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1961)</small>
+II.- Al Gobernador del Estado;
 
-###### Artículo 53.
+III.- Al Supremo Tribunal de Justicia; y
 
-Son propiedad del Municipio los bienes muebles e inmuebles que por encontrarse dentro de los perímetros urbanos determinados por la Legislatura del Estado, no pertenezcan a la Federación, al Estado o a los particulares y se encuentren afectos a un servicio de utilidad pública, que en beneficio de la comunidad, sean proporcionados por el propio Municipio, y así mismo los que le pertenezcan en virtud de declaración de la Ley, por resolución judicial y los que adquiera como sujeto de derecho privado.
+IV.- A los Ayuntamientos en lo relativo a la Administración Municipal.
 
-La Legislatura del Estado expedirá la Ley de Bienes Municipales.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 54.
+###### ARTICULO 51.
 
-El Poder Legislativo se deposita en una asamblea que se denomina "Legislatura del Estado Libre y Soberano de Durango" compuesta de once Diputados electos directamente por el pueblo y quienes durarán en su cargo tres años. Por cada Distrito Electoral se elegirá un Diputado Propietario y un Suplente en la forma y términos que señala la Ley Electoral respectiva.
+Las iniciativas se turnarán a comisión para dictamen y en su discusión y resolución se seguirán los trámites que señala el Reglamento para el Gobierno Interior del Congreso.
 
-Los Distritos Electorales no podrán tener menos de cuarenta mil, ni más de ciento veinte mil habitantes.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Los Distritos Electorales, se formarán tomando como base el último censo efectuado y serán numerados progresivamente.
+###### ARTICULO 52.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 1935)</small>
+Las leyes o decretos aprobados por el Congreso se remitirán al Ejecutivo para su promulgación y publicación. El Gobernador del Estado dentro de los 10 días siguientes al recibo de las leyes o decretos podrá formular observaciones. En caso de hacerlas las remitirá al Congreso donde serán de nuevo discutidos en las partes relativas, previo estudio y dictamen de las comisiones, y si fueren confirmados en su forma primitiva por las dos terceras partes de los diputados presentes, volverán al Ejecutivo para su inmediata promulgación y publicación.
 
-###### Artículo 55.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Para ser diputado se requieren los siguientes requisitos:
+###### ARTICULO 53.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1942)</small>
+El Ejecutivo no podrá hacer observaciones cuando el Congreso funcione como Colegio Electoral, como Jurado o cuando declare que haya lugar a la formación de causa en contra de funcionarios públicos por la comisión de delitos comunes.
 
-I. Ser ciudadano durangueño por nacimiento en ejercicio de sus derechos e hijo de padres mexicanos por nacimiento.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 1923)</small>
+### CAPITULO SEGUNDO. DEL PODER LEGISLATIVO
 
-II.- Saber leer y escribir.
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 1948)</small>
+SECCION A.- DE LA ORGANIZACION DEL CONGRESO
 
-III.- Tener para el día de la elección veinticinco años cumplidos y residencia efectiva dentro del territorio del Distrito electoral respectivo, inmediatamente al día de la elección, cuando menos de seis meses. La vecindad no se pierde por ausencia en el desempeño de cargos o comisiones encomendadas por la Federación o por el Estado dentro o fuera de su territorio.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 1923)</small>
+###### ARTICULO 54.
 
-IV.- No ser Ministro de CULTO ALGUNO.
+Ninguna iniciativa que sea desechada por el Congreso podrá ser presentada de nuevo en el mismo período de sesiones.
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 1923)</small>
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-V.- No haber sido condenado por cualquier delito a más de un año de prisión, excepto el delito de culpa (sic), cualquiera que haya sido la pena; pero si hubiere sido condenado por robo, fraude, falsificación, abuso de confianza u otro delito que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
+SECCION D.- DE LAS FACULTADES DEL CONGRESO
 
-VI.- (DEROGADA, P.O. 6 DE OCTUBRE DE 1927)
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 1942)</small>
+###### ARTICULO 55.
 
-VII.- No ser empleado o funcionario público de la Federación, del Estado o del Municipio dentro de los noventa días anteriores al día de la elección.
+El Congreso tiene facultades para legislar en todo aquello que que (sic) no esté expresamente establecido como atribución del Congreso de la Unión o de alguna de sus Cámaras y además para:
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1961)</small>
+I.- Resolver sobre los convenios que el Ejecutivo celebre con los Estados vecinos sobre cuestiones de límites;
 
-###### Artículo 56.
+II.- Legislar en lo relativo a la administración interior del Estado;
 
-Los Diputados Propietarios, durante el período de su encargo, no podrán desempeñar ninguna otra comisión o empleo de la Federación, de los Estados o de los Municipios por los cuales se disfrute sueldo, sin licencia previa de la Cámara o de la Diputación Permanente en su caso; pero entonces cesarán en sus funciones representativas mientras dure la nueva ocupación. La misma regla se observará con los Diputados Suplentes cuando estuviesen en ejercicio; se exceptúan los empleos o comisiones de índole educativa o de salubridad pública en el mismo Estado en cuyo caso es indispensable el previo permiso de la Legislatura o de la Diputación Permanente. La infracción de esta disposición será castigada con la pérdida del carácter de Diputado.
+III.- Aprobar y modificar el presupuesto de egresos del Estado y decretar contribuciones suficientes para cubrirlo, tomando en consideración las participaciones y subsidios federales y estatales, en su caso;
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 1939)</small>
+IV.- Decretar las contribuciones suficientes para atender las necesidades de los municipios, tomando en consideración las participaciones y subsidios federales y estatales, en su caso;
 
-###### Artículo 57.
+V.- Autorizar al Ejecutivo para concertar empréstitos a largo plazo destinados a la realización de obras públicas que los justifiquen;
 
-Los Diputados, en el desempeño de sus encargos son inviolables por las opiniones políticas y sociales que manifiesten y, por lo tanto, jamás podrán ser reconvenidos por ellas.
+VI.- Derogar, adicionar y reformar las Leyes del Estado;
 
-###### Artículo 58.
+VII.- Otorgar premios o distinciones a las personas que hayan prestado servicios de importancia a la Nación o al Estado;
 
-Los Diputados que sin Iicencia dejaren de concurrir por un mes seguido a cualquier período de sesiones, quedarán distituidos (sic) de sus cargos y suspensos por el tiempo de éste, de los derechos de ciudadano. Igual pena sufrirán los suplentes en su caso, desde que sean llamados para reemplazar al propietario. Para la aplicación de esta pena se necesita declaración empresa de la Cámara. Las faltas sin licencia de menos de un mes, se sujetarán a las prescripciones y penas que señale el Reglamento Interior del Congreso.
+VIII.- Cambiar provisionalmente la residencia de los Poderes del Estado;
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1931)</small>
+IX.- Nombrar Gobernador Provisional, Interino o Substituto;
 
-###### Artículo 59.
+X.- Expedir su reglamento interior y nombrar su personal administrativo;
 
-El Congreso del Estado no podrá instalarse ni ejercer sus funciones sin la concurrencia de la mayoría de los Diputados. Tendrá dos períodos de sesiones ordinarias en cada año comenzando el primero del día 1o. de septiembre al 30 de noviembre y el segundo del 1o. de marzo al 31 de mayo.
+XI.- Expedir Leyes sobre el fraccionamiento de las propiedades rústicas y urbanas;
 
-## TITULO V.
+XII.- Crear nuevos municipios en las circunstancias y condiciones que señala la Ley del Municipio Libre;
 
-DE LA DIPUTACION PERMANENTE.
+XIII.- Suprimir aquellos municipios que dejen de tener la población suficiente y los recursos económicos indispensables para la satisfacción de los servicios municipales;
 
-###### Artículo 60.
+XIV.- Establecer la nomenclatura y categoría política de los pueblos, villas y ciudades del Estado y legislar en todo lo concerniente a sus fundos legales, a su planificación y a su urbanización;
 
-El Congreso pasará a una comisión de su seno el presupuesto de gastos anuales de la Administración pública, que presenten el Ejecutivo y los Ayuntamientos de las Municipalidades del Estado; la comisión dictaminará precisamente en el término de un mes.
+XV.- Legislar sobre el aprovechamiento de las aguas que queden bajo el régimen del Estado, conforme a la Constitución General de la República;
 
-###### Artículo 61.
+XVI.- Hacer la declaración de pérdida de la calidad de duranguenses o de ciudadanos del Estado, y de rehabilitación en ambos casos;
 
-Los proyectos de ley pasarán a comisión, se discutirán conforme a lo prevenido en el Reglamento del Congreso; y aunque haya dispensa de trámites, no dejará de darse una audiencia al Ejecutivo cuando quiera hacer uso de ese derecbo.
+XVII.- Elegir a los Magistrados del Supremo Tribunal de Justicia de las ternas que para cada caso presente el Ejecutivo, requiriéndose para la elección, el voto de cuando menos las dos terceras partes de los diputados presentes;
 
-Aprobado un proyecto de ley o de decreto por la Legislatura, se remitirá al Ejecutivo, quien si no tuviere observaciones que hacer, lo publicará inmediatamente. Se reputará aceptado por el Ejecutivo todo proyecto no devuelto por éste dentro de los diez primeros días útiles, a no ser que corriendo este término hubiere el Congreso cerrado sus sesiones, en cuyo caso la devolución deberá hacerse el primer día útil en que la LegisIatura esté reunida. Devuelto el proyecto por el Ejecutivo con sus observaciones, será de nuevo discutido en la parte relativa a dichas observaciones previo estudio y dictamen de la comisión respectiva; y si fuere confirmado en su forma primitiva por las dos terceras partes de los Diputados, el proyecto será ley o decreto y volverá al Ejecutivo para su inmediata publicación.
+XVIII.- Convocar a elecciones para Gobernador, Diputados y Munícipes;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 1939)</small>
+XIX.- Legislar sobre el funcionamiento del Municipio Libre;
 
-###### Artículo 62.
+XX.- Resolver los conflictos que sobre límites se susciten entre los municipios;
 
-La Legislatura o en su caso la Diputación Permanente declarará la Convocatoria para elecciones fijando la fecha en la que deban efectuarse, la renovación de los Poderes del Estado en cada período Constitucional y de acuerdo con la Ley Electoral del mismo, debiendo hacer otro tanto en el término no mayor de 6 meses cuando se trate de las faltas absolutas del Ejecutivo aludidas en el artículo 80 de esta Constitución. En caso de falta absoluta de alguno o algunos diputados propietarios y que por las mismas causas sus respectivos suplentes no pudieren entrar en funciones, la Legislatura decretará la Convocatoria a elecciones para cubrir las vacantes, siempre que dicha falta no ocurriese dentro del último semestre del período Constitucional y estuviere en funciones la mayoría del número total de diputados. En tratándose de las elecciones para la renovación de los Ayuntamientos del Estado, la H. Legislatura en sesiones de Colegio Electoral conocerá del resultado de las mismas en última instancia.
+XXI.- Constituirse en Colegio Electoral para calificar las elecciones de Gobernador y de los miembros de los Ayuntamientos y hacer las declaratorias de quienes resulten electos;
 
-Efectuadas las elecciones de los Poderes Ejecutivo y Legislativo del Estado, en cada período Constitucional, la Diputación Permanente convocará con la necesaria oportunidad a la Legislatura a sesiones extraordinarias, con el exclusivo objeto de que, constituyéndose en Colegio Electoral, haga la computación de votos y la declaración del personal de los nuevos Poderes, sujetándose al procedimiento señalado en el artículo 72 en lo referente al Gobernador Constitucional.
+XXII.- Tomarles la protesta de ley al Gobernador y a los Magistrados del Supremo Tribunal de Justicia;
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1947)</small>
+XXIII.- Erigirse en Gran Jurado en los casos establecidos por ésta Constitución;
 
-###### Artículo 63.
+XXIV.- Conceder en los términos de la ley licencia al Gobernador, a los Diputados y a los Magistrados del Supremo Tribunal de Justicia;
 
-El Gobernador y los Diputados tienen derecho de iniciativa, así como también el Tribunal de Justicia, los Ayuntamientos en lo relativo a la Administración nitnerior (sic) de las Municipalidades respectivas, y el Tesorero General del Estado, en el Ramo de Hacienda.
+XXV.- Examinar, dictaminar y aprobar, en su caso, la cuenta que anualmente le presentará el Ejecutivo sobre los gastos de la administración pública, debiendo comprender el examen no solo la conformidad de las erogaciones con las partidas del presupuesto de egresos, sino también la exactitud y justificación de tales erogaciones;
 
-Las Iniciativas del Gobierno y Tribunal pasarán desde luego a comisión y las de los Diputados, Ayuntamientos y Tesorero General del Estado, se sujetarán a los trámites demarcados en el Reglamento del Congreso. Todo proyecto de Ley que fuere desechado no podrá volverse a presentar en el mismo período de sesiones.
+XXVI.- Decretar amnistías; conceder indultos en los casos que señala la Legislación Penal;
 
-###### Artículo 64.
+XXVII.- Autorizar al Ejecutivo y a los Ayuntamientos para la enajenación de bienes inmuebles propiedad del Estado o Municipales respectivamente. En el caso de venta esta deberá efectuarse en pública subasta y al mejor postor, teniendo como base su valor real y con expresa prohibición de que se finque a favor de un funcionario público federal, estatal o municipal, de sus parientes consanguíneos en línea recta sin Iimitación de grado o transversal hasta el cuarto grado, o de sus parientes por afinidad, o consanguineos de estos hasta el tercer grado;
 
-Son facultades de la Legislatura:
+XXVIII.- Declarar electos a los candidatos a Senadores que hubieren obtenido la mayoría de los votos emitidos;
 
-I. Iniciar leyes al Congreso de la Unión.
+XXIX.- Investigar y en su caso, fincar responsabilidades por enriquecimiento indebido, a las personas que hubieren desempeñado los cargos a que se refiere el Artículo 122 de esta Constitución; y
 
-II. Declarar la resistencia a una invasión extranjera siempre que urgiere de momento, dando cuenta inmediatamente al Gobierno General.
+XXX.- Velar por la observancia de esta Constitución.
 
-III. Legislar en todo lo que no estuviere sometido al Gobierno de la Unión.
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-IV. Aprobar o nó los convenios que el Ejecutivo celebre con los Estados vecinos; sobre cuestiones de límites y someter tales convenios a la ratificación del Congreso de la Unión.
+SECCION E.- DE LA COMISION PERMANENTE
 
-V. Legislar en lo relativo a la administración interior del Estado.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-VI. (DEROGADA, P.O. 9 DE MARZO DE 1939)
+###### ARTICULO 56.
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 1939)</small>
+Durante los recesos del Congreso, habrá una Comisión Permanente que se compondrá de tres diputados propietarios y dos suplentes. En la víspera de la clausura de cualesquiera de los periodos de sesiones será nombrada por la Legislatura, instalándose al día siguiente.
 
-VII. Aprobar y modificar los Presupuestos y decretar contribuciones para cubrirlos.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-VIII. Decretar empréstitos cuando imperiosamente lo demanden las circunstancias del Erario.
+###### ARTICULO 57.
 
-IX. Reformar los Códigos y demás leyes del Estado que existen actualmente, adaptándolos a la presente Constitución y a la nueva Carta Fundamental de la República, y formar todas las demás leyes que sean necesarias a la administración pública interior.
+Son atribuciones de la Comisión Permanente:
 
-X. Conceder premios por servicios hechos al Estado.
+I.- Llevar la correspondencia;
 
-XI. Cambiar provisionalmente la residencia de los Poderes del Estado, cuando así lo juzgare necesario.
+II.- Recibir la protesta al Gobernador y Magistrados, en los casos prescritos por esta Constitución;
 
-XII. Otorgar al Ejecutivo facultades extraordinarias, siempre que esta medida sea indispensable para salvar la situación.
+III.- Conceder las licencias que solicite el Gobernador del Estado y los Magistrados del Supremo Tribunal de Justicia;
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 1939)</small>
+IV.- Acordar por sí o a pedimento del Ejecutivo, la celebración de períodos extraordinarios de sesiones del Congreso;
 
-XIII. Nombrar Gobernador Interino en los términos de los artículos 62, 77 y 80 de esta Constitución.
+V.- Presidir los períodos extraordinarios de sesiones del Congreso; y
 
-XIV. Formar su Reglamento interior y nombrar los empleados de su secretaría.
+VI.- Las demás que le confiere está Constitución.
 
-XV. Facultar al Ejecutivo para la creación y organización de cuerpos Rurales o Regionales del Estado.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-XVI. (DEROGADA, P.O. 9 DE MARZO DE 1939)
+###### ARTICULO 58.
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1926)</small>
+La Comisión Permanente dará cuenta en la segunda sesión del período ordinario siguiente de la Legislatura, de las labores desarrolladas, presentando al efecto una memoria escrita de sus trabajos, así corno de los expedientes que hubiere formado.
 
-XVII. Recibir al Gobernador del Estado y a los Magistrados Propietarios y Supernumerarios del Tribunal la Protesta de Ley.
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-XVIII. Prorrogar hasta por un mes cualquiera de los períodos ordinarios de sesiones.
+### CAPITULO TERCERO. DEL PODER EJECUTIVO
 
-XIX. Expedir la Ley Orgánica de los Municipios y sus Leyes de Arbitrios, conforme a las bases del artículo 115 de la Constitución Federal.
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 1961)</small>
+SECCION A.- DE SU ELECCION Y FUNCIONAMIENTO
 
-XX. Autorizar al Ejecutivo para la enajenación de inmuebles propiedad del estado y siempre que ésta se efectúe al mejor postor, teniendo como base el valor real, y con expresa prohibición de que se finque a favor de un funcionario público federal, estatal o municipal, de sus parientes consaguineos en línea recta, sin limitación de grados, o transversal hasta el cuarto grado, o de sus parientes por afinidad, o consanguineos de éstos hasta el tercer grado.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 1939)</small>
+###### ARTICULO 59.
 
-XXI. Conceder en los términos de Ley licencia al C. Gobernador del Estado, a los CC. Diputados y a los Magistrados del H. Tribunal de Justicia.
+El Poder Ejecutivo se deposita en una sola persona que se denomina Gobernador del Estado y que durará 6 años en su encargo.
 
-XXII. Designar, en funciones de Colegio Electoral, al candidato que para integrar la Suprema Corte de Justicia de la Nación, debe proponer la Legislatura de cada Estado de la Federación, según el artículo 96 de la Carta Fundamental. En la elección de este candidato, el Congreso se sujetará a lo prescrito para elección de los Magistrados del Supremo Tribunal de Justicia del Estado.
+El Gobernador tomará posesión de su cargo a las 11.00 horas del día 15 de Septiembre, siguiente a la elección.
 
-XXIII. Comunicarse con el Ejecutivo del Estado por medio de una comisión de su seno.
-
-XXIV. Nombrar en comisión alguno o algunos de sus miembros ante el Instituto Electoral respectivo, cada vez que los intereses generales de éste lo hagan necesario.
-
-XXV. Velar sobre la observancia de esta Constitución.
-
-###### Artículo 65.
-
-Es obligación de los miembros de la Legislatura del Estado, la de visitar, terminando cada período de sesiones ordinarias, los Distritos que representan, para informar a la misma Legislatura en el período siguiente de sesiones ordinarias, acerca del estado de la Instrucción Pública, de la Industria, Agricultura y demás ramos, así como también del exacto cumplimiento de las leyes, a fin de proponer en su oportunidad cuanto pueda ser útil o necesario en beneficio de los municipios y pueblos que les han encomendado su representación. Se exceptúan de esta obligación los miembros que formen la Diputación Permanente.
-
-###### Artículo 66.
-
-Es obligación de los Diputados propietarios electos, al comenzar el nuevo período constitucional, estar presentes en la Capital del Estado, cuando menos dos días antes de instalarse el Congreso, a fin de que esta instalación se verifique conforme a lo dispuesto por el Reglamento del mismo.
-
-Cuando alguno o algunos de los Diputados propietarios faltaren a la primera junta preparatoria, de las dos que deben preceder a la instalación por estar ausentes de la Capital del Estado, se les citará desde luego por la Mesa provisional del Congreso, y por conducto del Periódico Oficial del Estado; y se llamará a los suplentes respectivos, si se encuentran en la Capital. Si pasado un mes de la fecha de la cita, no se presentaren a desempeñar sus funciones, perderán el derecho a su cargo por todo el período constitucional, y el suplente o suplentes terminarán este período. Si tampoco los suplentes, previa citación oficial, se presentaren después de un mes de ser llamados, se harán efectivas en unos y otros las responsabilidades de ley, previa declaración expresa de la Legislatura, la cual decretará desde luego la convocatoria a nuevas elecciones.
-
-###### Artículo 67.
-
-Toda resolución de la Legislatura no tendrá otro carácter que el de ley, decreto o acuerdo económico.
-
-###### Artículo 68.
-
-La Diputación permanente se compondrá de tres Diputados propietarios y dos suplentes. En la víspera de la clausura de cualquiera de los períodos de sesiones será nombrada por la Legislatura, instilándose (sic) al día siguiente.
-
-###### Artículo 69.
-
-Sus facultades son:
-
-I. Llevar la correspondencia con los Poderes de la Federación y de los Estados, en todos aquellos asuntos que correspondan al conocimiento de la Legislatura.
-
-II. Ejercer las funciones electorales, que, por esta Constitución y las leyes reglamentarias, sean de la incumbencia del cuerpo legislativo.
-
-III. Recibir la protesta al Gobernador, Magistrados, Jueces de Primera Instancia y defensores de Oficio, en los casos prescriptos (sic) por esta Constitución.
-
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 1939)</small>
-
-IV. Conceder las licencias que solicite el Gobernador del Estado y los Magistrados del Supremo Tribunal de Justicia.
-
-V. Acordar por sí o excitada por el Ejecutivo, la reunión de la Legislatura a sesiones extraordinarias.
-
-VI. Convocar a la Legislatura cuando sea necesario para ejercer sus funciones fuera de la capital.
-
-VII. Dictar sus acuerdos en todos los casos que lo dispusieren la Constitución y las leyes.
-
-VIII. Abrir dictamen cuando los negocios de la competencia de la Legislatura, dando cuenta en el período inmediato de sesiones.
-
-IX. Velar sobre la observancia de esta Constitución dando cuanta (sic) a la Legislatura de las infracciones que notare.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE DICIEMBRE DE 1926)</small>
-
-###### Artículo 70.
-
-El ejercicio del Poder Ejecutivo se depositará en una sola persona que se denominará Gobernador del Estado, siendo su duración de seis años y en ningún caso y por ningún motivo podrá volver a ocupar este cargo ni aún con el carácter de interino, provisional sustituto, o encargado del despacho. El Gobernador entrará a ejercer sus funciones el 16 de septiembre.
-
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1933)</small>
+El Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, substituto o encargado del Despacho.
 
 Nunca podrá ser electo para el período inmediato:
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 1939)</small>
+a).- El Gobernador substituto.
 
-a). El Gobernador Substituto que concluya el período Constitucional.
+b).- El Gobernador provisional cuando hubiere desempeñado el cargo en los dos últimos años del período.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1933)</small>
+c).- El Gobernador interino cuando haya desempeñado el cargo en los dos últimos años del período, o del ciudadano que con cualquier denominación desempeñe el cargo en ese período por más de tres meses continuos.
 
-b). El Gobernador Provisional en los casos de los artículos 72 y 74 de esta Constitución.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1933)</small>
+## TITULO CUARTO
 
-c). El Gobernador Interino, siempre que desempeñe el cargo en los dos últimos años del período.
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 71.
+### CAPITULO CUARTO. DEL PODER JUDICIAL
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+SECCON A.- DE SU ORGANIZACION
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 60.
 
 Para ser Gobernador del Estado se requiere:
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 1948)</small>
+I.- Tener la ciudadanía duranguense por nacimiento y ser hijo de padres mexicanos;
 
-I.- Ser ciudadano durangueño por nacimiento, de treinta años de edad cumplidos, en pleno ejercicio de sus derechos civiles y políticos, tener cuando menos seis meses de residencia efectiva dentro del territorio del Estado en el momento de la elección y ser hijo de padres mexicanos por nacimiento. La vecindad no se pierde por el desempeño de cargos de elección popular o por comisiones dentro o fuera de la República, encomendados por la Federación o por el Estado.
+II.- Estar en pleno ejercicio de sus derechos ciudadanos;
 
-II. No pertenecer al Estado eclesiástico, ni ser ministro de culto alguno; saber leer y escribir.
+III.- Tener treinta años cumplidos para el día de la elección;
 
-III. No estar, al celebrarse las elecciones, en funciones de Gobernador, como sustituto, por falta temporal o absoluta del Gobernador Constitucional.
+IV.- Tener cuando menos dos años de residencia efectiva dentro del territorio del Estado inmediatamente anteriores al día de la elección;
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1937)</small>
+V.- No pertenecer al estado eclesiástico, ni ser ministro de culto alguno;
 
-IV. No ser militar en servicio desde seis meses anteriores al día de la elección.
+VI.- Saber leer y escribir;
 
-V. No ser Secretario General del Despacho, Procurador de Justicia, Magistrado Propietario ó Supernumerario en funciones, ni empleado de la Federación, salvo que han dejado el cargo desde los noventa días anteriores al de la elección.
+VII.- No haber sido Secretario General de Gobierno, Procurador General de Justicia, Tesorero General del Estado, Magistrado del Supremo Tribunal de Justicia, Funcionario de la Federación ni militar en servicio activo, salvo que se haya dejado el cargo desde los noventa días anteriores a la elección; y
 
-VI. No tener comparentesco (sic) de consanguinidad en los cuatro primeros grados, ni de afinidad en los dos primeros, con el Gobernador saliente.
+VIII.- No haber sido condenado a más de un año de prisión excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya misión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, cualquiera que hubiere sido la pena impuesta.
 
-VII. No haber sido condenado por delito que amerite pena corporal, por más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza, u otro delito que lastime seriamente la buena fama en el concepto público, inhabilitará para el pago, cualquiera que haya sido la pena.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 72.
+###### ARTICULO 61.
 
-La elección de Gobernador será directa y en los términos que disponga la ley electoral. La Legislatura declarará que es Gobernador del mismo, el ciudadano que hubiere reunido la mayoría absoluta de votos, previa la computación de éstos, hecha por la referida Legislatura. Cuando tuvieron igual número de votos, dos o más ciudaddanos (sic), la Legislatura decidirá quién de éstos sea el Gobernador. En caso de que no hubiere mayoría absoluta de votos, la Legislatura elegirá uno de entre tres de los ciudadanos que hubieren obtenido la más alta mayoría relativas de sufragios. Igualmente la Legislatura se erigirá en Colegio Electoral para designar Gobernador Provicional (sic), cuando por falta absoluta del Gobernador contitucional (sic) dentro del primer año de su período, fuere necesario convocar a elecciones y éstas no se pueden verificar por trastornos graves del orden público en la mayor parte del Estado. Pero si el orden público quedare restablecido antes de finalizar dicho primer año, se decretará por la Legislatura la convocatoria a elecciones; de lo contrario, la Legislatura, erigida de nuevo en Colegio Electoral, deberá el Gobernador que deba terminar el período canstitucional (sic), no pudiendo ser el ya nombrado como provisional.
+La elección de Gobernador será directa y en los términos que disponga la Ley Electoral del Estado. El Congreso del Estado, constituido en Colegio Electoral, declarará que es Gobernador el ciudadano que hubiere reunido la mayoría de votos, previa la comprobación de éstos, hecha por el propio Colegio Electoral. Cuando tuvieren igual número de votos dos o más ciudadanos el Congreso decidirá quien de estos será el Gobernador.
 
-###### Artículo 73.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-El Gobernador constitucional propietario otorgará la protesta de ley ante la Legislatura del Estado.
+### CAPITULO UNICO. DEL MUNICIPIO LIBRE
 
-###### Artículo 74.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Si al comenzar un período constitucional no se presentare el Gobernador electo, o la elección no estuviera hecha y declarada el mes de septiembre, cesará sin embargo el Gobernador cuyo período haya terminado, y se encargará desde luego del Poder Ejecutivo en calidad de Gobernador provisional el que designe la nueva Legislatura electa. Y cuando con respecto a esta, se verifiquen las condiciones enumeradas antes, la Legislatura anterior, o en su caso la Diputación Permanente, hará el nombramiento de Gobernador Provicional (sic).
+###### ARTICULO 62.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1961)</small>
+El ciudadano electo o designado Gobernador, otorgará la Protesta de Ley ante el Congreso del Estado o su Comisión Permanente.
 
-###### Artículo 75.
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-El Gobernador no puede ausentarse del Estado por más de quince días sin licencia del Congreso o de la Diputación Pemanente en su caso.
+SECCION B.- DE LAS FALTAS Y LICENCIAS DEL GOBERNADOR
 
-Cuando el Gobernador se ausentare del Estado por un término mayor de tres días y no menor de quince deberá dar aviso al Congreso o a la Diputación Permanente.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Para salir fuera de la República necesita en todo caso licencia del Congreso o de la Diputación permanente.
+### CAPITULO UNICO. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS PUBLICOS
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 1939)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 76.
+###### ARTICULO 63.
 
-El cargo de Gobernador no es renunciable y sólo por causa justificada el Congreso podrá conocer de licencia hasta la terminación del período de su encargo, ya sea que esté en período de sesiones la H. Legislatura o en su defecto la Comisión Permanente.
+En caso de falta absoluta del Gobernador ocurrida en los dos primeros años del período respectivo, el Congreso de inmediato nombrará un Gobernador Interino, a la vez que convocará a elecciones que tendrán lugar dentro de los seis meses siguientes.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 1945)</small>
+Si el Congreso estuviere en receso, la Comisión Permanente designará un Gobernador Provisional, convocando de inmediato al Congreso a un período extraordinario de sesiones que deberá verificarse dentro de las setenta y dos horas siguientes para que éste a su vez nombre un Gobernador Interino y expida la convocatoria a elecciones en los términos del párrafo anterior.
 
-###### Artículo 77.
+Cuando la falta absoluta del Gobernador ocurriese en los cuatro últimos años, el Congreso designará de inmediato al Gobernador Substituto que concluirá el periodo respectivo. Si el Congreso estuviere en receso la Comisión Permanente designará un Gobernador Provisional y procederá a convocar a un período extraordinario de sesiones que tendrá lugar dentro de las 72 setenta y dos horas siguientes, para que haga la designación del Gobernador Substituto.
 
-En las faltas temporales del C. Gobernador que no excedan de tres meses, lo suplirá por ministerio de ley, el Secretario General de Gobierno, en los términos que señala la propia Constitución.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Cuando las faltas temporales sean de más de tres meses, el nombramiento será hecho por la Legislatura en sesiones ordinarias; y si estuviere en receso, lo hará en sesiones extraordinarias a que será convocada por la Diputación Permanente.
+###### ARTICULO 64.
 
-###### Artículo 78.
+Si al comenzar un periodo constitucional no se presentase el Gobernador Electo, por causa de fuerza mayor o justificada a juicio del Congreso, éste designará un Gobernador Provisional que fungirá en tanto el Gobernador Electo no se presente a rendir la Protesta de Ley. Si dentro de las 72 setenta y dos horas siguientes de haber desaparecido las causas que motivaron la ausencia, el Gobernador electo no se presenta, el Congreso designará un Gobernador Interino y convocará a nuevas elecciones que se efectuarán en un término no mayor de seis meses. Si la elección no estuviere hecha y declarada al iniciarse un período Constitucional, la nueva Legislatura designará un Gobernador Interino y convocará a elecciones que se efectuarán en un término no mayor de seis meses.
 
-Las faltas temporales del Gobernador nunca podrán ser de un año seguido; y las causas graves que pudieran justigcarlas (sic), se considerarán suficientes por la Legislatura del Estado, para proceder a elección de nuevo Gobernador, conforme a lo dispuesto en el artículo 74.
+Si esto último no fuere posible por trastornos graves del orden público, se estará a lo dispuesto en la parte final del Artículo siguiente. En ambos casos, sin embargo, el Gobernador cuyo período haya concluido, dejará de ejercer sus funciones.
 
-###### Artículo 79.
+En el caso de que el Gobernador Interino no pueda ser designado por la nueva Legislatura porque sus integrantes no se presenten, o la elección de Diputados no estuviere hecha y declarada, la Comisión Permanente de la Legislatura anterior nombrará un Gobernador Provisional, quien convocará a elecciones, que deberán verificarse dentro de los tres meses siguientes.
 
-Las licencias correlativas a las faltas temporales de que antes se ha hecho mención, no serán concedidas sino por causa justificada, que será calificada par (sic) la Legislatura, o Diputación Permanente.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 1939)</small>
+###### ARTICULO 65.
 
-###### Artículo 80.
+Si fuere necesario convocar a elecciones y éstas no se pudieren verificar por trastornos graves del orden público en la mayor parte del Estado, el Congreso designará Gobernador Interino, pero si el orden público quedare restablecido antes de un año, el Congreso convocará a elecciones, de lo contrario designará al Gobernador Substituto que deba terminar el período constitucional, no pudiendo ser quien haya fungido como Interino.
 
-Las faltas absolutas del Gobernador se cubrirán por nueva elección popular si la falta ocurriere dentro de los primeros dieciocho meses de su encargo. Si la falta ocurriere después de ese lapso, la Legislatura erigida en Colegio Electoral nombrará el substituto para la terminación del período Constitucional. En el primer caso el Gobernador Interino convocará a elecciones y entregará el Poder todo dentro de un término no menor de seis meses.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 81.
+### CAPITULO UNICO. PREVENCIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+#### SECCION C.- DE LOS JUECES
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 66.
+
+Cuando el Gobernador se ausente del Estado por un término que exceda de tres días pero no mayor de quince, debe dar aviso al Congreso o a la Comisión Permanente.
+
+Para que el Gobernador se pueda ausentar del Estado por más de quince días se requiere licencia del Congreso o de la Comisión Permanente, en su caso.
+
+Para que el Gobernador pueda salir fuera de la República necesita en todo caso, licencia del Congreso o de la Comisión Permanente.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 67.
+
+En las faltas temporales del Gobernador que no excedan de tres meses consecutivos, el Secretario General de Gobierno se hará cargo del despacho del Poder Ejecutivo.
+
+Cuando las faltas temporales sean de más de tres meses continuos, el Congreso designará Gobernador Provisional quien lo suplirá hasta el término de la licencia; si el Congreso estuviere en receso, el nombramiento se hará en período extraordinario de sesiones que será convocado por la Comisión Permanente.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 68.
+
+El cargo de Gobernador no es renunciable y solo por causa justificada el Congreso podrá concederle licencia hasta la terminación del período respectivo.
+
+En este caso se procederá en los términos que señala el Articulo 63 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 69.
+
+Las licencias para las faltas temporales del Gobernador solo serán concedidas por causa justificada, a juicio del Congreso o de la Comisión Permanente, en su caso.
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 70.
 
 Son facultades y obligaciones del Gobernador:
 
-I.- Publicar, cumplir y hacer cumplir las leyes generales, en todo aquello que no mire al régimen interior del Estado, y que por consecuencia, no menoscabe su Soberanía reconocida por la Carta Fundamental de la República.
+I.- Publicar en su caso, cumplir y hacer cumplir las Leyes Federales que no menoscaben la soberanía del Estado;
 
-II.- Promulgar y ejecutar las leyes que expida la Legislatura del Estado, reglamentando su observancia en la esfera administrativa.
+II.- Promulgar, publicar y ejecutar las leyes y decretos que expida el Congreso del Estado, reglamentando su observancia en la esfera administrativa;
 
-III.- Proveer a la Administración interior del Estado y cuidar de la conservación del órden público.
+III.- Proveer a la administración interior del Estado y cuidar de la conservación del orden, tranquilidad y seguridad sociales;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1926)</small>
+IV.- Iniciar ante el Congreso leyes y decretos;
 
-IV.- Nombrar y remover libremente al Secretario del Despacho y a todos los demás empleados de la dependencia del Poder Ejecutivo; concederles licencias con o sin goce de sueldo y admitir sus renuncias. Corregir las faltas que cometan en el desempeño de su empleo con suspensión hasta por un mes y consignarlos cuando incurran en delito.
+V.- Nombrar y remover libremente a los funcionarios y empleados de confianza las dependencias del Poder Ejecutivo; Concederles licencias con o sin goce de sueldo y aceptarles renuncias;
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1947)</small>
+VI.- Nombrar a los trabajadores del Poder Ejecutivo y removerlos cuando haya causa que lo justifique;
 
-V.- Nombrar al Tesorero General del Estado, con aprobación de la Legislatura y removerlo libremente, cuando así lo exija el servicio público. Nombrar al Procurador de Justicia, Agentes del Ministerio Público, Jueces del Registro Civil, Director del Archivo General de Notarías, Director y Encargado del Registro Público de la Propiedad, Defensores de Oficio y a los respectivos empleados subalternos. Concederles licencias aceptarles renuncias, pudiendo removerlos también libremente con excepción de los Defensores que sólo podrán serlo al concluir su período legal o por causa de responsabilidad.
+VII.- Excitar a los Tribunales a la más pronta y cumplida administración de justicia;
 
-VI.- Excitar a los Tribunales a la más pronta y cumplida administración de justicia.
+VIII.- Visitar periódicamente los Municipios del Estado;
 
-> <small>(REFORMADA P.O. 9 DE MARZO DE 1939)</small>
+IX.- Hacer observaciones a las leyes y decretos que expidiere el Congreso del Estado, en los términos que señala el Artículo 52;
 
-VII.- Visitar periódicamente los pueblos del Estado, con objeto de satisfacer las necesidades que advierta en el orden administrativo.
+X.- Facilitar al Poder Judicial los auxilios que requiera para el ejercicio expédito de sus funciones;
 
-VIII.- Hacer observaciones dentro del término de diez días a las leyes que expidiere la Legislatura.
+XI.- Solicitar a la comisión permanente que convoque al Congreso a períodos extraordinarios de sesiones cuando lo considere necesario;
 
-IX - Facilitar al Poder Judicial los auxilios que necesite para el ejercicio expedito de sus funciones.
+XII.- Presentar ante el Congreso, el día 8 de julio de cada año un informe sobre el estado de la administración pública;
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1937)</small>
+XIII.- Presentar al Congreso dentro de los últimos quince días de su mandato una memoria por escrito, en la que expondrá la situación del Estado en todos los ramos administrativos;
 
-X.- Presentar el día 15 de septiembre de cada año ante el H. Congreso del Estado, una memoria del estado de la Administración Pública.
+XIV.- Presentar al Congreso, dentro del primer período ordinario de sesiones pero a más tardar el día 15 de diciembre de cada año; los proyectos de Ley de Ingresos y de Ley de Egresos para el ejercicio fiscal siguiente, incluyendo éste último el Presupuesto respectivo; en el segundo período ordinario de sesiones deberá presentar la Cuenta de Gastos erogados por el Estado durante el año anterior;
 
-XI.- Convocar a la Legislatura a sesiones extraordinarias, por sí y cuando lo acordare la Diputación permanente.
+XV.- Hacer transferencias de las partidas del Presupuesto de Egresos, dando aviso oportuno al Congreso;
 
-XII.- Presentar al Congreso, dentro de los quince días del primer período de sesiones, los Presupuestos de Ingresos y Egresos del Estado y los Municipios durante el año anterior.
+XVI.- Presentar ante el Congreso las ternas respectivas para la elección de Magistrados del Supremo Tribunal de Justicia;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1926)</small>
+XVII.- Concertar créditos, cuando así lo demanden las condiciones del erario estatal, para la satisfacción de las necesidades administrativas;
 
-XIII.- Conocer de las quejas que se interpongan contra los Ayuntamientos o Presidentes Municipales. Resolver los conflictos que se susciten en los Ayuntamientos y que no sean de los que, conforme a la Ley Municipal respectiva, corresponde conocer a la Legislatura.
+XVIII.- Concertar convenios sobre límites con los Estados vecinos, sometiéndolos a la aprobación del Congreso;
 
-XIV.- Celebrar convenios sobre limites con los Estados vecinos sometiéndolos a la deliberación de la Legislatura.
+XIX.- Resolver los conflictos que se susciten entre los Ayuntamientos y que no sean de los que corresponda conocer al Congreso;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1926)</small>
+XX.- Intervenir conciliatoriamente en las controvercias (sic) que surjan entre los miembros de un Ayuntamiento, cuando así lo soliciten;
 
-XV.- Nombrar, con aprobación de la Legislatura, a los Jueces Superiores de las Fuerzas del Estado, y sin este requisito nombrar y remover libremente la Oficialidad de éstas.
+XXI.- Nombrar y remober (sic) libremente a los jefes y oficiales de la policía urbana del lugar donde tengan su asiento los Poderes del Estado. Los cuerpos policiacos municipales de los lugares donde transitoriamente se encuentre el Ejecutivo quedarán automáticamente bajo su mando;
 
-Nombrar y remover libremente a los Jefes y Oficiales de la Policía Urbana del lugar donde tengan asiento los Poderes del Estado y transitoriamente a aquellos mientras en cualquier Municipalidad se encuentre accidentalmente el Ejecutivo.
+XXII.- Declarar la utilidad pública y decretar la expropiación de conformidad a lo dispuesto por el Artículo 27 de la Constitución General de la República y a lo establecido en el Artículo 11 de la presente Constitución y demás leyes relativas;
 
-XVI.- EI Ejecutivo no puede hacer observaciones a la Legislatura cuando ejerza funciones de Colegio Electoral o de Jurado, ni a las resoluciones que se dicten en tales casos.
+XXIII.- Representar a la Hacienda Pública, pudiendo, en los casos que lo estime conveniente delegar esa representación y celebrar convenios de coordinación con las autoridades hacendarias federales;
 
-XVII.- No puede el Gobernador mandar en persona las fuerzas del Estado sin licencia de la Legislatura o de la Diputación Permanente; pero sí puede disponer de ellas, dentro del territorio del Estado con el exclusivo objeto de mantener el orden interior constitucional del mismo Estado.
+XXIV.- Fomentar la educación popular, las actividades deportivas y el mejoramiento moral y material de la colectividad;
 
-XVIII.- Tendrá todas las demás atribuciones y obligaciones que le asignen las leyes.
+XXV.- Dictar medidas correspondientes para la organización del sistema penitenciario sobre la base de la educación y del trabajo como medios de rehabilitación del delincuente;
 
-DEL SECRETARIO DEL DESPACHO.
+XXVI.- Cuidar de que las elecciones se efectuen en el tiempo señalado por las leyes relativas; y
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 1948)</small>
+XXVII.- Las demás que expresamente le confieran esta Constitución y las leyes reglamentarias respectivas.
 
-###### Artículo 82.
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Para el desempeño de los negocios de orden administrativo del Estado, habrá un solo Secretario, necesitándose para el desempeño de este cargo ser ciudadano duranguño (sic), hijo de padres mexicanos, por nacimiento, en el pleno ejercicio de sus derechos políticos y civiles, tener treinta años de edad y cuando menos dos de residencia en el Estado anteriores a su nombramiento.
+SECCION D.- DEL SECRETARIO GENERAL DE GOBIERNO
 
-###### Articulo 83.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-El Secretario del Despacho no podrá desempeñar ningún otro empleo o comisión públicos, del Estado o de la Federación, ni ejercer profesión alguna. No podrá ser militar salvo que haya dejado el servicio activo un año antes de su nombramiento.
+###### ARTICULO 71.
 
-El Secretario de Gobierno es el órgano de comunicación oficial entre el Gobernador y las autoridades y empleados inferiores del Estado y los particulares y llevará la voz del Ejecutivo ante el Congreso del Estado. Cuando el Gobernador se halle fuera de la Capital del Estado, dentro de su territorio, el Secretario del Despacho hará sus veces en todos los asuntos de urgencia y que por la distancia a que el Gobernador se encuentre, no pudieran resolverse con la prontitud debida.
+Para el auxilio en el despacho de los asuntos competencia del Poder Ejecutivo habrá un Secretario General de Gobierno.
 
-Las faltas temporales del Secretario de Gobierno serán llenadas por el Oficial Mayor, que tendrá el carácter de Subsecretario con las atribuciones y deberes que le señala la ley.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 84.
+###### ARTICULO 72.
 
-La Administración de Justicia en el Estado estará a cargo de:
+Para ser Secretario General de Gobierno, se requiere:
 
-1o.- El Supremo Tribunal de Justicia del Estado.
+I.- Ser ciudadano duranguense por nacimiento, en pleno ejercicio de sus derechos;
 
-2o.- Jueces de Primera Instancia.
+II.- Ser mayor de 28 años de edad;
 
-3o.- Jueces Menores.
+III.- Poseer título de Licenciado en Derecho;
 
-4o.- Jueces Municipales.
+IV.- Tener cuando menos dos años de residencia en el Estado, inmediatamente anteriores a su nombramiento;
 
-5o.- Jueces Auxiliares.
+V.- No haber sido Gobernador del Estado por elección popular ordinaria o extraordinaria; y
 
-6o.- Presidentes de las Juntas Municipales.
+VI.- Ser de reconocida probidad y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión, excepto los delitos por culpa, pero tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo.
 
-7o.- Jefes de Cuartel y de Manzana.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Las Autoridades mencionadas en los números 6o. y 7o., serán consideradas como Auxiliares de la Administración de Justicia, en lo referente a las funciones de esta índole que desempeñen.
+###### ARTICULO 73.
 
-###### Artículo 85.
+Son facultades y obligaciones del Secretario General de Gobierno:
 
-Auxiliarán la administración de Justicia:
+I.- Refrendar los reglamentos, decretos, iniciativas, acuerdos de observancia general, nombramientos, convenios con el Gobierno Federal y con los Gobiernos Estatales y otros documentos que a juicio del Gobernador deberá refrendar;
 
-I. El Ministerio Público.
+II.- Ser, en auxilio del Gobernador, el órgano de comunicación oficial entre éste y los funcionarios y empleados del Poder Ejecutivo;
 
-II. Los Defensores de Oficio.
+III.- Encargarse del despacho del Poder Ejecutivo durante las faltas temporales del Gobernador que no excedan de tres meses; y
 
-III. Los peritos Médicos Legistas y demás que sean necesarios.
+IV.- Desempeñar las comisiones y cargos que las leyes expresamente le confieran.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 1945)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 86.
+###### ARTICULO 74.
 
-El Supremo Tribunal de Justicia del Estado, se compondrá de seis Magistrados Propietarios y seis Supernumerarios, con quienes se cubrirán las faltas temporales de los Propietarios o temporalmente las faltas absolutas de éstos, entrando en el orden numérico en que hayan sido electos.
+En las faltas temporales del Secretario General de Gobierno lo suplirá el Oficial Mayor de Gobierno con el carácter de Subsecretario, quien tendrá las facultades y obligaciones que le señale la Ley.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
+Para ser Oficial Mayor de Gobierno se exijirán (sic) los mismos requisitos que para Secretario General de Gobierno, con excepción del titulo de Licenciado en Derecho.
 
-###### Artículo 87.
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Los Magistrados Propietarios y Supernumerarios del Supremo Tribunal de Justicia, serán de elección popular indirecta y nombrados por el Congreso del Estado, en funciones de Colegio Electoral, siendo indispensable cuando menos las dos terceras partes del número total de Diputados. Dicha elección la hará el Congreso en sesiones ordinarias y en caso de que este Cuerpo se halle en receso, la Comisión Permanente respectiva lo convocará a sesiones extraordinarias para ese fin. La elección se hará en escrutinio secreto y por mayoría absoluta de votos, siendo previamente propuestos y discutidos los candidatos por los Miembros de la misma Cámara. Si no se obtuviere mayoría absoluta en la primera votación, se repetirá ésta entre los dos candidatos que hubieren obtenido más votos.
+SECCION E.- DE LA HACIENDA DEL ESTADO
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1951)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 88.
+###### ARTICULO 75.
 
-Los Magistrados del Supremo Tribunal de Justicia durarán seis años en su encargo y tomarán posesión en el mismo acto en que otorgue la protesta de Ley el Gobernador del Estado. Los Jueces de Primera Instancia durarán seis años. No podrán ser removidos unos y otros de su cargo sin previo juicio de responsabilidad o por incapacidad para desempeñarlo en los términos que establezca la Ley.
+La hacienda del Estado la constituyen:
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1951)</small>
+I.- Los bienes que sean propiedad del Estado;
 
-###### Artículo 89.
+II.- El producto de las contribuciones decretadas por el Congreso;
 
-Los Jueces de Primera Instancia serán nombrados por el Supremo Tribunal de Justicia del Estado.
+III.- Los bienes vacantes en el Estado;
 
-###### Artículo 90.
+IV.- Los bienes mostrencos;
 
-Si faltare un Magistrado del Tribunal por defunción, renuncia o incapacidad, la Legislatura del Estado erigida en Colegio Electoral, hará nueva elección conforme a lo prescripto (sic) en esta Constitución. Si el Congreso no estuviere en sesiones, la Diputación permanente hará un nombramiento provisional mientras se reune aquélla y hace la elección correspondiente.
+V.- Las donaciones, legados, herencias o reintegros que se hagan o que se dejen en beneficio del Estado; y
 
-###### Artículo 91.
+VI.- Los créditos que tenga a su favor, los derechos, los productos y los aprovechamientos, así como los subsidios y las participaciones en el rendimiento de impuestos federales que conforme a las leyes deba percibir el Erario.
 
-Los Jueces menores, Correccionales y Municipales serán nombrados por el Supremo Tribunal de Justicia.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Los Jefes de Cuartel serán nombrados por el Ayuntamiento de la Municipalidad respectiva.
+###### ARTICULO 76.
 
-###### Artículo 92.
+Las contribuciones serán decretadas por el Congreso en cantidad suficiente para cubrir los gastos tanto ordinarios como extraordinarios que demande la administración pública, tomando en consideración las participaciones y subsidios federales, en su caso.
 
-El Ministerio Público tiene por objeto pedir y auxiliar la pronta Administración de Justicia en nombre de la sociedad, y defender ante los tribunales los intereses de ésta, en los casos y por los medios que señalan las leyes; así como también cuidar de que se apliquen puntualmente las penas impuestas por los Tribunales, reclamando cuando así no se hiciere, ante la autoridad judicial que corresponda.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Dicho Ministerio estará integrado por un Procurador General y Agentes que serán nombrados por el Ejecutivo del Estado en el número y con las condiciones y requisitos que señala la ley.
+###### ARTICULO 77.
 
-El Procurador General de Justicia intervendrá personalmente en todos los negocios en que el Estado fuere parte; será el consejero jurídico del Gobierno, y tanto él como los Agentes se someterán extrictamente a las disposiciones de la ley, siendo responsables de toda falta, omisión o violación en que incurran con motivo de sus funciones.
+Los habitantes del Estado y quienes residiendo en él tuvieren bienes en su territorio o ejecuten actos que deben surtir efectos en él mismo, estan obligados a contribuir para los gastos públicos de la Entidad de la manera que señalen las leyes relativas.
 
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 1924)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 93.
+###### ARTICULO 78.
 
-Para ser Magistrado Propietario del Supremo Tribunal de Justicia, del Estado y Procurador de Justicia, se requiere:
+La recaudación de las contribuciones se encomienda a una oficina que se denomina Tesorería General del Estado.
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 1942)</small>
+La Tesorería General del Estado está a cargo de un Tesorero General dependiente del Ejecutivo del Estado, quien deberá satisfacer los requisitos establecidos en el Artículo 72, excepto los señalados en sus fracciones III y V. Para las recaudaciones de las contribuciones y para el pago de los gastos, el Tesorero General deberá sujetarse a la Ley de Ingresos, leyes hacendarias y convenios de coordinación.
 
-I. Ser ciudadano Durangueño por nacimiento, en pleno ejercicio de sus derechos, e hijo de padres mexicanos por nacimiento.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-II.- Tener treinta años cumplidos.
+###### ARTICULO 79.
 
-III.- Poseer título profesional de Abogado, expedido por Autoridad o Corporación del Estado o de la República, legalmente facultados para ello.
+El Tesorero General del Estado, los funcionarios y los empleados de la Tesorería que manejen fondos públi,cos, (sic) otorgarán ante el Ejecutivo fianza suficiente para garantizar dicho manejo.
 
-IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro delito que lastime seriamente la buena fama en el concepto público inhabilitará para el cargo, cualquiera que haya sido la pena.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 1942)</small>
+###### ARTICULO 80.
 
-V.- No haber desempeñado el cargo de Magistrado Propietario o Substituto, durante los dos últimos años del período constitucional anterior.
+En el Estado de Durango no habrá monopolios ni estancos de ninguna clase, ni exención de impuestos, ni prohibiciones a titulo de protección a la industria.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 94.
+SECCION F.- DEL MINISTERIO PUBLICO
 
-Los Magistrados Propietarios y Supernumerarios en funciones, no podrán desempeñar ningún otro empleo o comisión públicos del Estado, de la Federación o del Municipio, salvo el de Profesores en los Colegios del Estado y previo permiso de la Legislatura o de la Diputación Permanente. Lo mismo se observará respecto a los Jueces de Primera Instancia, Agentes del Ministerio Público y Defensores de Oficio, con la salvedad que el permiso lo solicitará de su Superior respectivo.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 95.
+###### ARTICULO 81.
 
-Para ser Magistrado Supernumerario se necesitan los mismos requisitos que para propietario.
+El Ministerio Público es un (sic) institución que representa los intereses de la sociedad para los efectos que se precisan en esta Constitución y leyes relativas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 1939)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 96.
+###### ARTICULO 82.
 
-Para ser Juez de Primera Instancia, Defensor de Oficio y Juez Menor, se necesita tener 25 años cumplidos y los demás requisitos señalados para los Magistrados propietarios.
+Son facultades y obligaciones del Ministerio Público:
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
+I.- Ejercitar la acción penal por los delitos del orden común ante los tribunales judiciales;
 
-Sin embargo, podrá conferirse el cargo de Juez de Primera Instancia y de Juez Menor, a persona no titulada, siempre que a juicio del Tribunal reúna los requisitos de competencia en materia de leyes, los determinados en las fracciones I y IV del artículo 93 de esta Constitución, y el de haber desempeñado con acierto empleos de categoría de la Judicatura en el Estado.
+II.- Promover lo necesario en la esfera de su competencia, para que la administración de justicia sea recta, pronta y expedita;
 
-###### Artículo 97.
+III. Intervenir en todos los juicios en que se ventilen intereses de los ausentes, ignorados, menores o incapacitados y en los que se interesen establecimientos de beneficencia pública y de bienestar social a los cuales representará.
 
-Son requisitos para el nombramiento de los demás funcionarios de la Administración de justicia los que señale la Ley Orgánica y Reglamentaria de ésta.
+IV.- Intervenir, por conducto del Procurador General de Justicia, en todos los asuntos en que el Estado sea parte, fungiendo además este funcionario como Consejero Jurídico del Gobierno; y
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1951)</small>
+V.- Las demás que ésta Constitución y leyes respectivas le señalen.
 
-###### Artículo 98.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Los Magistrados Propietarios y Supernumerarios protestarán ante la Legislatura o ante la Diputación Permanente y ante una u otra se hará la renuncia de estos cargos, la cual no será admitida sino por causa justificada a juicio de la misma Cámara.
+###### ARTICULO 83.
 
-La protesta referida será otorgada el día señalado por los Artículos 70 y 88 reformados de esta Constitución y cuando alguno o algunos de los funcionarios referidos no se presenten a otorgarla, la Legislatura los citará para tal objeto por medio de oficio y por el Periódico Oficial del Estado; y si pasado un mes de la fecha de la citación no lo hicieren, se les someterá a juicio de responsabilidad respectivo, y la Legislatura erigida en Colegio Electoral procederá a nuevos nombramientos.
+El ejercicio de las funciones del Ministerio Público se deposita en un Procurador General de Justicia, un Subprocurador y en los Agentes que determine la ley respectiva, los que serán nombrados y removidos libremente por el Gobernador del Estado.
 
-###### Artículo 99.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Corresponde al Supremo Tribunal de Justicia conocer de las causas de responsabilidades de los Funcionarios Públicos en los términos que fija esta Constitución; de los recursos de nulidad, y de las competencias que se susciten entre los Jueces de Primera Instancia del Estado, así como también conocer del recurso de Casación en materia mercantil.
+###### ARTICULO 84.
 
-###### Artículo 100.
+Para ser Procurador General de Justicia o Subprocurador se requiere:
 
-Es asimismo Tribunal de apelación, o bien de última instancia en los negocios civiles y criminales, según los términos que acordare la ley reglamentaria.
+I.- Ser ciudadano duranguense por nacimiento, en pleno ejercicio de sus derechos;
 
-###### Artículo 101.
+II.- Ser mayor de 28 años de edad;
 
-Habrá en el Estado jurados de hecho para los delitos de prensa contra el orden público o la seguridad interior del Estado, y su institución será reglamentada por la ley respectiva.
+III.- Tener cuando menos dos años de residencia efectiva en el Estado, inmediatamente anteriores al día del nombramiento;
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
+IV.- Poseer, el día del nombramiento, con antigüedad mínima de cinco años, título profesional de Licenciado en Derecho; y
 
-###### Artículo 102.
+V.- No haber sido condenado a más de un año de prisión excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, cualquiera que hubiere sido la pena impuesta.
 
-La Hacienda Pública del Estado se formará de las contribuciones que estableciere la Legislatura y demás rentas que le señalaren las Leyes.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1947)</small>
+###### ARTICULO 85.
 
-###### Artículo 103.
+Para ser Agente del Ministerio Público se deben satisfacer los requisitos que al efecto establece la ley reglamentaria respectiva.
 
-Para el arreglo y administración de los fondos del Estado, el Ejecutivo, con aprobación de la Legisaltura (sic) nombrará un ciudadano que se denominará "TESORERO GENERAL DEL ESTADO"; tendrá el derecho de iniciar leyes en lo relativo al Ramo de Hacienda y desempeñará su cargo bajo la inmediata inspección del Ejecutivo del Estado.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1947)</small>
+###### ARTICULO 86.
 
-###### Artículo 104.
+El Subprocurador suplirá al Procurador General de Justicia en sus faltas temporales.
 
-Todos los empleados del Estado y Municipales que manejen fondos públicos, deberán caucionar el manejo de dichos fondos. Los empleados del Estado prestarán la caución a satisfacción del Ejecutivo, y los del Municipio a satisfacción de los Ayuntamientos respectivos. Se exceptúa de esta obligación al Tesorero General edl (sic) Estado.
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1925)</small>
+SECCION G.- DEL SERVICIO SOCIAL PARA LA DEFENSA DE INDIGENTES
 
-###### Artículo 105.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-En el Estado toda propiedad rústica, cuyo valor fiscal no sea mayor de Dos mil pesos, pagará el noventa por ciento de los impuestos que al capital rústico fije la Ley de Hacienda del mismo.
+###### ARTICULO 87.
 
-Si se tratare de impuestos sobre traslación de dominio o sobre herencias relativas a dicha pequeña propiedad, es también condición indispenable (sic) para disfrutar de la reducción de impuestos referida, que el adquirente en el primer caso, y el heredero en el segundo, no sean dueños de otros bienes. En tales casos se regirá por el valor que se asigne a la propiedad en los contratos o inventarios respectivos, excepto cuando este valor sea menor que el valor fical (sic), pues entonces se tomará este último en cuenta para los efectos del presente artículo.
+Para la defensa y patrocinio en juicio de los intereses de las personas que no cuentan con los recursos económicos suficientes para sufragar los honorarios de un profesional del derecho, funcionarán:
 
-Igualmente disfrutarán de la misma prerrogativa en los contratos de mutuo con garantía hipotecaria relativos a la misma pequeña propiedad, los contratantes cuando no poseen otros bienes.
+I.- Defensorías de Oficio para patrocinar a los reos en asuntos penales;
 
-###### Artículo 106.
+II.- Procuradurías de Asuntos Civiles para el asesoramiento, representación y patrocinio de personas en negocios de carácter civil; y
 
-En el Estado de Durango no habrá monopolios, ni estancos de ninguna clase; ni exención de impuestos; ni prohibiciones a título de protección a la industria; y se declaran insubsistentes desde la fecha de la promulgación de esta Constitución todas las exenciones de impuestos otorgadas por los Gobiernos anteriores.
+III.- Procuradurías de la Defensa del Trabajo para el asesoramiento y patrocinio de los trabajadores de la Entidad.
 
-###### Artículo 107.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Quedan sujetos a revisión por la Legislatura del Estado, todos los contratos y concesiones hechos por los Gobiernos anteriores desde el año 1876, para declarar nulos los que impliquen perjuicios graves para el interes público de acuerdo con lo dispuesto en la fracción VII Letra F. del Artículo 27 y en el Artículo 28 de la Constitución Política de la República de Febrero de 1917.
+###### ARTICULO 88.
 
-Igualmente se declararán nulos los contratos y concesiones cuyos interesados no hayan cumplido con las obligaciones estipuladas, o no estuvieren ajustados a los preceptos Constitucionales en el tiempo en que fueron otorgados.
+El Ejecutivo del Estado nombrará y removerá libremente a los Defensores de Oficio, Procuradores de Asuntos Civiles y Procuradores de la Defensa del Trabajo.
 
-###### Artículo 108.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-Los Diputados al Congreso del Estado, y los Magistrados del Supremo Tribunal de Justicia, propietarios y Supernumerarios, no tienen derecho de propiedad en el puesto que desempeñan ni podrán ser reelectos para el período inmediato al de sus respectivos encargos; y no podrá llevarse a efecto su separación del cargo, sin que antes se les forme causa y se pronuncie sentencia que cause ejecutoria.
+###### ARTICULO 89.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
+Para ocupar los cargos a que se refiere el Artículo anterior, se deben satisfacer los requisitos que establecen las leyes reglamentarias respectivas.
 
-Tampoco tienen derecho de propiedad en el empleo que desempeñen, ningún funcionario ni empleado público de los no comprendidos en el párrafo anterior, y en tal virtud, el ser removidos o supensos (sic) por sus superiores, no tendrán más derechos que los que les fije la Ley del Servicio Civil que la H. Legislatura deberá expedir.
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 1947)</small>
+###### ARTICULO 90.
 
-###### Artículo 109.
+El Poder Judicial del Estado se deposita para su ejercicio en:
 
-Los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia Propietarios y Supernumerarios, el Secretario de Gobierno, el Procurador de Justicia y el Tesorero General del Estado, son responsables por los delitos comunes que cometan durante el tiempo de su encargo, y por los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones.
+I.- El Supremo Tribunal de Justicia del Estado:
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
+II.- Los Jueces de Primera Instancia;
 
-El Gobernador, durante el tiempo de su encargo sólo podrá ser acusado por traición a la Patria, por contravenir las Constituciones General de la República y Particular del Estado y por la comisión de delitos graves del orden común.
+III.- Los Jueces Menores;
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
+IV.- Los Jueces Municipales; y
 
-###### Artículo 110.
+V.- Los Jueces Auxiliares.
 
-Cuando se trate de delitos del orden común, la Cámara de Diputados, eregida (sic) en Gran Jurado, declarará por el voto de las dos terceras partes del número total de los Diputados que la formen si ha o no lugar a proceder contra el acusado. En caso negativo, no habrá lugar a ningún procedimiento ulterior; pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución de la Cámara no prejuzga absolutamente los fundamentos de la acusación.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-En caso afirmativo, el acusado queda, por el mismo hecho, separado de su encargo, y sujeto desde luego a la acción de los tribunales comunes, a menos que se trate del Gobernador del Estado, pues en tal caso sólo habrá lugar a pasar la acusación al Supremo Tribunal de Justicia como si se tratare de un delito oficial.
+###### ARTICULO 91.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
+La competencia del Supremo Tribunal de Justicia, el funcionamiento del Pleno y de las Salas, las atribuciones de los Magistrados, el número y competencia de los Jueces y las responsabilidades en que incurran éstos y los demás funcionarios y empleados del Poder Judicial, se regirán por lo que dispone esta Constitución y las Leyes relativas.
 
-###### Artículo 111.
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-No gozan de fuero Constitucional los altos empleados del Estado por los delitos oficiales, faltas u omisiones en que incurran en el desempeño de algún empleo, cargo o comisión públicos, que hayan aceptado, durante el período en que conforme a la Ley se disfrute de fuero. Lo mismo sucederá respecto de los delitos comunes que cometan durante el desempeño de dicho empleo, cargo o comisión. Para que la causa pueda iniciarse cuando el alto funcionario haya vuelto a ejercer sus funciones propias, deberá procederse con arreglo a lo dispuesto en el artículo anterior.
+SECCION B.- DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 1947)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 112.
+###### ARTICULO 92.
 
-de los delitos oficiales del Gobernador del Estado, Diputados, Magistrados Propietarios y Supernumerarios del Supremo Tribunal de Justicia, del Secretario de Gobierno, del Procurador de Justicia, y del Tesorero General del Estado, conocerá el Congreso como Jurado de acusación y el Tribunal como Jurado de Sentencia. Las resoluciones del Gran Jurado y la declaración en su caso, son inatacables.
+El Supremo Tribunal de Justicia del Estado se integra por seis Magistrados numerarios y seis Magistrados supernumerarios: éstos últimos suplirán a aquéllos en sus faltas temporales y también, temporalmente, en sus faltas definitivas, a cuyo efecto serán llamados en el orden numérico en que hubieren sido electos.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-El Congreso del Estado expedirá la Ley sobre Responsabilidades de todos los funcionarios y empleados del Estado, determinando como faltas oficiales todos los actos u omisiones que puedan redundar en perjuicio de los intereses públicos y del buen despacho, aún cuando hasta la fecha no hayan tenido carácter de delictuosos.
+###### ARTICULO 93.
 
-###### Artículo 113.
+Los Magistrados serán elegidos por el Congreso del Estado de entre los ciudadanos que integren las ternas que para cada caso presente el Ejecutivo.
 
-En demandas del orden civil no habrá fueros ni inmunidad, ni aún para los Funcionarios Públicos.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 114.
+###### ARTICULO 94.
 
-Se inhabilita para servir toda clase de empleos públicos a los individuos que tomaren parte en asonadas, motines o cuartelazos contra el Gobierno Constitucional del Estado o de la República.
+Para ser Magistrado se requiere:
 
-###### Artículo 115.
+I.- Ser ciudadano duranguense por nacimiento, en pleno ejercicio de sus derechos;
 
-Por los delitos oficiales solamente podrá exigirse responsabilidad a los Funcionarios Públicos, durante su encargo y un año después; y pronunciada sentencia condenatoria en esta clase de delitos, no podrá concederse al reo la gracia de indulto.
+II.- Ser mayor de 30 años de edad;
 
-###### Artículo 116.
+III.- Tener cuando menos dos años de residencia en el Estado inmediatamente anteriores al día de la elección;
 
-Todo Funcionario Público, antes de tomar posesión de su cargo, protestará guardar esta Constitución y la General de la República, según la formula siguiente. "Protestáis guardar y hacer guardar la Constitución General de la República, de 31 de enero de 1917, la particular del Estado y las leyes que de ellas dimanen, y desempeñar leal y patrióticamente el cargo de ……………. que el pueblo os ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado? Después de haber contestado el interpelado "SI PROTESTO." El que interroga dirá: si así no lo hiciéreis que la Nación y el Estado os lo demanden."
+IV.- Poseer el día de la elección, con antigüedad mínima de cinco años, título profesional de Licenciado en Derecho; y
 
-###### Artículo 117.
+V.- Ser de reconocida probidad y no haber sido condenado a más de un año de prisión, excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, cualquiera que hubiere sido la pena impuesta.
 
-Ningún funcionario tiene derecho de renunciar la retribución que la ley le señale por los servicios que preste al Estado.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 118.
+###### ARTICULO 95.
 
-Cualquier ciudadano que fuere electo a la vez para dos o más empleos de nombramiento popular, no desempeñará sino uno a su arbitrio.
+Los Magistrados del Supremo Tribunal de Justicia durarán seis años en sus cargos y rendirán la protesta de Ley ante el Congreso del Estado o su Comisión Permanente.
 
-###### Artículo 119.
+Cuando alguno o algunos de los Magistrados no se presenten a rendir la protesta de Ley, el Congreso los citará por oficio y si pasado un mes no comparecieren se procederá a efectuar nueva elección en los términos de esta Constitución.
 
-Ningún gasto que no esté comprendido en el presupuesto aprobado, o determinado por la ley, podrá hacerse de los fondos públicos del Estado.
+Los Magistrados solo podrán ser removidos de sus cargos por el Congreso, cuando se les declare culpables en previo juicio de responsabilidad o cuando sobrevenga una incapacidad física o mental que los imposibilite para desempeñarlos.
 
-PREVENCIONES GENERALES.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 120.
+###### ARTICULO 96.
 
-(DEROGADO, P.O. 9 DE JULIO DE 1961)
+El Supremo Tribunal de Justicia tendrá un Presidente que será el Magistrado electo cada año por mayoría de votos de sus miembros.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1935)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### Artículo 121.
+###### ARTICULO 97.
 
-Todos los contratos que el Gobierno y el Municipio tengan que celebrar para la ejecución de obras públicas, serán adjudicados en subasta, mediante convocatoria, y para que se presenten proposiciones en sobre cerrado, que será abierto en junta pública.
+Son facultades y obligaciones del Supremo Tribunal de Justicia:
 
-Las convocatorias para la ejecución de obras públicas serán decretadas por la Legislatura, ya sea a propuesta nacida en el seno de la misma, ya sea a iniciativa del Ejecutivo o del Municipio correspondiente.
+I.- Iniciar ante el Congreso las leyes, decretos y reglamentos que tengan por objeto mejorar la administración de la justicia;
 
-La Legislatura podrá autorizar la contratación fuera de subasta, cuando se trate de obras públicas de obvia o inmediata ejecución, previo el voto de las dos terceras partes por lo menos de los Diputados que la integran.
+II.- Ser tribunal de apelación o bien última instancia en los negocios civiles, penales y mercantiles conforme a las leyes respectivas;
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1926)</small>
+III.- Dirimir las competencias de jurisdicción que se susciten entre los jueces del Estado, así como las que surjan entre cualquiera autoridad judicial del Estado y la Junta Central de Conciliación y Arbitraje y entre aquellos y las Juntas Municipales de Conciliación;
 
-###### Artículo 122.
+IV.- Conocer como jurado de sentencia en las causas de responsabilidad de los funcionarios públicos en los términos señalados por ésta Constitución;
 
-La presente Constitución podrá ser reformada o adicionada en todo tiempo; pero con la condición precisa de que no han de ser atacados en manera alguna los principios consignados y que se consignen en la Carta Fundamental de la República, debiendo observarse las formalidades siguientes:
+V.- Conceder permisos económicos a los Magistrados para separarse de sus cargos hasta por diez días al año;
 
-I. La reforma, reformas o adiciones, se presentarán en cualquiera de los períodos ordinarios de sesiones; pero durante él no se hará otra cosa que mandarlas publicar por la prensa y comunicarlas directamente al Ejecutivo, Tribunal de Justicia y a cada uno de los Ayuntamientos del Estado a fin de que emitan su juicio por escrito, dirigiéndolo al Congreso o Diputación Permanente, quienes formarán un expediente con todas las contestaciones que recibieren.
+VI.- Nombrar y remover a los Jueces de Primera Instancia, Menores, Municipales, y Auxiliares, concederles licencias, imponerles correcciones disciplinarias y aceptarles sus renuncias;
 
-II. Este expediente se pasará a la Comisión de Puntos Constitucionales en el sexto día de haberse abierto las sesiones del período ordinario que siga al en que se propusieron las reformas o adiciones. La Comisión presentará dictamen a la Cámara a más tardar dentro de un mes de haberse recibido el expediente y se procederá a la discusión conforme al Reglamento. Para que las adiciones o reformas formen parte de la Constitución, se requiere que el Congreso, por el voto de las dos terceras partes de los Diputados que deban integrarlo, las acuerde, y que sean aprobadas por la mayoría de los Ayuntamientos, conceptuándose mayoría, la mitad más uno de los existentes en el Estado. El Congreso hará el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobadas las reformas o adiciones.
+VII.- Nombrar y remover a sus secretarios y a sus demás empleados subalternos, así como concederles licencias, imponerles correcciones disciplinarias y aceptarles sus renuncias;
 
-###### Artículo 123.
+VIII.- Formular su Reglamento Interior;
 
-En ningún caso perderá esta Constitución su fuerza y vigor; y siempre que hubiere un trastorno público continuará su observancia tan luego como el pueblo recobre su libertad.
+IX.- Dirimir los conflictos que surjan entre los Ayuntamientos y los Poderes del Estado;
 
-## TITULO VI.
+X.- Rendir, ante el Congreso, el día 30 de junio de cada año, por voz de su Presidente, un informe anual sobre el estado de la administración de la justicia; y
 
-DEL PODER EJECUTIVO.
+XI.- Las demás que le confieren esta Constitución y las leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MARZO DE 1944)</small>
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-## TITULO VII.
+###### ARTICULO 98.
 
-DEL PODER JUDICIAL.
+Los Jueces de Primera Instancia, Menores, Auxiliares y Municipales serán nombrados por el Supremo Tribunal de Justicia. Estos últimos lo serán a propuesta en terna del Juez de Primera Instancia del Distrito Judicial respectivo.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1961)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 99.
+
+Para ser Juez de Primera Instancia o Menor se requiere:
+
+I.- Ser ciudadano duranguense en pleno ejercicio de sus derechos;
+
+II.- Ser mayor de 25 años y tener una residencia efectiva en el Estado de cuando menos dos años inmediatamente anteriores a la fecha del nombramiento;
+
+III.- Poseer para la fecha del nombramiento, con antigüedad mínima de tres años, título de Licenciado en Derecho; y
+
+IV.- Ser de reconocida probidad y no haber sido condenado a más de un año de prisión, excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, cualquiera que hubiere sido la pena impuesta.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 100.
+
+Para ser Juez Auxiliar o Municipal deben satisfacerse los requisitos del Articulo anterior, excepto el que se refiere al título profesional, pero los nombrados deberán tener conocimientos generales de Derecho, a juicio del Supremo Tribunal de Justicia.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 101.
+
+Los Jueces de Primera Instancia, Menores, Municipales y Auxiliares durarán en su encargo tres años y conocerán de los asuntos que las leyes les fijen.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 102.
+
+Los Presidentes de las Juntas Municipales, Jefes de Cuartel y de Manzana, son auxiliares en la administración de la justicia y, para ese efecto, se sujetarán a las disposiciones de la Ley Orgánica del Poder Judicial.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 103.
+
+El Estado de Durango tiene como base de su división territorial y de su organización política y administrativa el Municipio Libre.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 104.
+
+Cada Municipio será administrado por un Ayuntamiento electo popular y directamente, que se renovará totalmente cada tres años, en los términos que dispone la Ley Electoral del Estado y no habrá ninguna autoridad intermedia entre los titulares de los Poderes del Estado y los Ayuntamientos.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 105.
+
+Los Ayuntamientos tienen personalidad y capacidad jurídica para todos los efectos legales.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 106.
+
+El Congreso determinará en la Ley del Municipio Libre del Estado de Durango los estatutos a que se sujetarán los Municipios en su régimen interior.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 107.
+
+Los Ayuntamientos se integrarán con un Presidente y los Regidores y Síndicos que señale la Ley respectiva.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 108.
+
+Para ser electo Presidente, Regidor o Sindico de un Ayuntamiento se requiere:
+
+I.- Ser ciudadano duranguense, en pleno ejercicio de sus derechos. Para el cargo de Presidente se requiere además que sea nativo del Estado;
+
+II.- Ser mayor de 21 años de edad;
+
+III.- Ser vecino de la municipalidad correspondiente con residencia efectiva dentro de la misma cuando menos de un año inmediatamente anterior al día de la elección;
+
+IV.- Ser de reconocida probidad y no haber sido condenado a más de un año de prisión, excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya misión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, independientemente de la pena impuesta; y
+
+V.- No haber desempeñado cargo de la Federación, del Estado o del Municipio, en los noventa días anteriores a la fecha de la elección.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 109.
+
+Los Presidentes, Regidores y Síndicos de los Ayuntamientos, no podrán ser reelectos para el mismo cargo en el período inmediato siguiente. Los miembros suplentes de los Ayuntamientos podrán ser electos para el periodo inmediato, con el carácter de propietarios, siempre que no hubieren estado en funciones.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 110.
+
+Los Municipios administrarán libremente su hacienda, la que se formará de las contribuciones que les señale el Congreso en los términos de la fracción IV del Artículo 55.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 111.
+
+Los Ayuntamientos en ningún caso podrán contraer, sin previa autorización del Congreso, obligaciones cuyo cumplimiento tenga señalado un término que exceda al período de su gestión.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 112.
+
+El Presidente del Ayuntamiento es el representante jurídico del mismo y tiene el carácter de ejecutor de las resoluciones y acuerdos del propio cuerpo edilicio.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 113.
+
+Los miembros del Ayuntamiento tendrán los derechos y obligaciones que consigne la Ley del Municipio Libre del Estado.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 114.
+
+La falta absoluta del Ayuntamiento de una municipalidad o la ausencia definitiva de la mayoría de sus miembros será suficiente para que el Ejecutivo nombre una Junta Provisional de Gobierno integrada por el mismo número de miembros que integraban el Ayuntamiento respectivo.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 115.
+
+Son propiedad del Municipio los bienes inmuebles ubicados dentro de su jurisdicción territorial y que no pertenezcan a la Federación, al Estado o a los particulares; y los bienes muebles que adquiera o que por cualquier otro concepto pasen a ser parte de su patrimonio. Su enajenación se sujetará a lo dispuesto por la fracción XXVII del Artículo 55 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 116.
+
+Los diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, el Secretario General de Gobierno, el Tesorero General, el Procurador General de Justicia y el Subprocurador son responsables de los delitos comunes que cometan durante el tiempo de su encargo y de los delitos, faltas u omisiones en que incurran en el ejercicio de sus cargos.
+
+El Gobernador del Estado, durante el tiempo de su encargo, solo podrá ser acusado por traición a la Patria y delitos graves del orden común.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 117.
+
+Los funcionarios públicos a que se refiere el Articulo anterior, no pueden ser procesados por delitos comunes u oficiales sin que el Congreso erigido en Gran Jurado, declare, por el voto de las dos terceras partes de los diputados que lo integran, que da lugar a formación de causa.
+
+Tratándose de delitos comunes, hecha la declaración indicada, el funcionario quedará suspendido en su encargo y sujeto a la acción de los tribunales. Cuando se trate de delitos oficiales, hecha la declaratoria, el funcionario quedará suspendido de su encargo y será el Congreso quien conozca de la causa como jurado de acusación y Supremo Tribunal de Justicia actuará como Jurado de Sentencia. Si la declaración del Congreso fuere en sentido negativo, no habrá lugar a formación de causa ni a procedimiento ulterior; pero tal declaración no será obstáculo para que pueda formarse acusación ante los tribunales cuando el funcionario haya dejado de tener fuero, pues la resolución del Congreso no prejuzga absolutamente sobre los fundamentos de la acusación.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 118.
+
+Los funcionarios a que se refiere el Artículo 116 no gozarán de fuero constitucional por los delitos oficiales, faltas u omisiones públicas que hayan aceptado durante el período en que conforme a la Ley, se disfrute del fuero. Lo mismo sucederá respecto a los delitos comunes que cometan durante el desempeño de tal empleo, cargo o comisión. Para que la causa pueda iniciarse cuando el funcionario haya vuelto a ejercer sus funciones propias, deberá procederse con arreglo a lo dispuesto en el Artículo anterior.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 119.
+
+Los miembros de los Ayuntamientos son responsables de los delitos oficiales y comunes que cometan en el desempeño de sus funciones tratándose de los primeros será el Congreso erigido en Gran Jurado, el que conozca y resuelva sobre la responsabilidad y sanciones aplicables en cada caso; respecto de los segundos no gozarán de fuero y serán juzgados por los tribunales.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 120.
+
+La responsabilidad proveniente de delitos oficiales es exigible a los funcionarios públicos durante el período de su encargo y un año después de concluido.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 121.
+
+Todo funcionario público, antes de tomar posesión de su cargo, protestará guardar la Constitución General de la República y la del Estado, según la fórmula siguiente: "PROTESTAIS GUARDAR Y HACER GUARDAR LA CONSTITUCION GENERAL DE LA REPUBLICA, LA PARTICULAR DEL ESTADO Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE.... QUE EL PUEBLO OS HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DE LA NAClON Y DEL ESTADO?". Después de haber contestado el interpelado: "'SI PROTESTO", el que interroga dirá: "SI ASI NO LO HICIEREIS, QUE LA NACION Y EL ESTADO OS LO DEMANDEN".
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 122.
+
+Los Diputados, el Gobernador, el Secretario General de Gobierno, el Tesorero General del Estado, los Recaudadores de Rentas, el Oficial Mayor, los titulares de las direcciones del Poder Ejecutivo, el Procurador General de Justicia, el Subprocurador, los Agentes del Ministerio Público, los Magistrados del Supremo Tribunal de Justicia, los Jueces, los Presidentes de los Ayuntamientos y Tesoreros Municipales, después de tomar posesión de sus cargos y al dejarlos, deberán, bajo protesta de decir verdad, presentar al Congreso una relación escrita de sus bienes inmuebles, valores, depósitos en numerario, acciones de sociedades, bonos o títulos financieros, vehículos y en general de los bienes que integren su patrimonio; estas relaciones deberán presentarse dentro del mes siguiente al día en que tomen posesión y al en que dejen sus cargos, respectivamente.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 123.
+
+El Congreso expedirá la Ley de Responsabilidades de los funcionarios y empleados del Estado y de los Municipios.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 124.
+
+La Constitución General de la República, ésta Constitución y las leyes que de ellas emanen son las leyes supremas del Estado Libre y Soberano de Durango.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 125.
+
+Los Diputados, el Gobernador, el Secretario General de Gobierno, el Oficial Mayor de Gobierno, el Tesorero General del Estado, el Procurador General de Justicia, el Subprocurador, los Agentes del Ministerio Público, los Magistrados del Supremo Tribunal de Justicia, los Jueces de Primera Instancia y los Menores y los Presidentes de los Ayuntamientos, durante el período de sus respectivos encargos, no podrán desempeñar otra comisión o empleo por el que se disfrute sueldo o remuneración, ni ejercer profesión alguna. Se exceptúan de ésta prohibición los cargos o comisiones de oficio o de índole educativa.
+
+El Gobernador y los Magistrados del Supremo Tribunal de Justicia podrán desempeñar otra comisión o empleo de la Federación, del Estado y de los Municipios por los cuales se disfrute sueldo, con licencia previa del Congreso o de su Comisión Permanente, pero entonces cesarán en sus funciones mientras dure la nueva ocupación.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 126.
+
+Solo se considerará que han desaparecido los Poderes en el Estado de Durango, cuando falten físicamente los titulares de los mismos. En éste caso, el Secretario General de Gobierno, se hará cargo del Poder Ejecutivo y convocará a elecciones que deberán efectuarse en un plazo máximo de seis meses.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 127.
+
+Todos los contratos que el Gobierno y los Ayuntamientos tengan que celebrar para la ejecución de obras públicas, serán adjudicados mediante concurso, previa convocatoria a la que se dará amplia difusión a efecto de que se presenten proposiciones en sobres cerrados, que serán abiertos en audiencia pública. El Congreso podrá autorizar la contratación fuera de concurso cuando se trate de obras cuya inmediata ejecución sea de interés público.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 128.
+
+Queda estrictamente prohibida la formación de toda clase de agrupaciones políticas, cuyo título contenga palabra o indicación cualquiera que las relacione con alguna confesión religiosa.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 129.
+
+La residencia señalada como requisito de elegibilidad o de nombramiento para cargos públicos, no se pierde por ausencia debida al desempeño de cargos públicos de elección popular, o de cargos y comisiones encomendados por la Federación o por el Estado.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+## TITULO QUINTO
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 130.
+
+La presente Constitución podrá ser reformada o adicionada en todo tiempo, pero con la condición precisa de que no han de ser atacados en manera alguna los principios consignados y que se consignen en la Carta Fundamental de la República, debiendo observarse las formalidades siguientes:
+
+I.- La reforma, reformas o adiciones, se presentarán en cualquiera de los períodos ordinarios de sesiones, pero durante él no se hará otra cosa que mandarlas publicar por la prensa y comunicarlas directamente al Ejecutivo, Tribunal de Justicia y cada uno de los Ayuntamientos del Estado, a fin de que emitan su juicio por escrito, dirigiéndolo al Congreso o Diputación Permanente, quienes formarán un expediente con todas las constancias que recibieren; y
+
+II.- Este expediente se pasará a la Comisión de Puntos Constitucionales en el sexto día de haberse abierto las sesiones del período ordinario que siga al en que se propusieron las reformas o adiciones. La Comisión presentará dictamen a la Cámara a más tardar dentro de un mes de haberse recibido el expediente y se procederá a la discusión conforme al Reglamento, para que las adiciones o reformas formen parte de la Constitución, se requiere que el Congreso, por el voto de las dos terceras partes de los diputados que deban integrarlo, las acuerde, y que sean aprobadas por la mayoría de los Ayuntamientos, conceptuándose mayoría la mitad más uno de los existentes en el Estado. El Congreso hará el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobadas las reformas o adiciones.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+###### ARTICULO 131.
+
+En ningún caso perderá ésta Constitución su fuerza y vigor, y siempre que hubiera un trastorno público continuará su observancia tan luego como el pueblo recobre su libertad.
+
+## TITULO SEXTO
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ## TITULO VIII.
 
@@ -1165,103 +1391,11 @@ DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS PUBLICOS.
 
 ###### Artículo 1º.
 
-(DEROGADO, P.O. 9 DE JULIO DE 1961)
-
-###### Artículo 2º.
-
-En el Estado de Durango todo individuo gozará de las garantías que otorga la Constitución General de la República, las cuales no podrán restringirse ni suspenderse, sino en los casos y con las condiciones que ella misma establece.
-
-###### Artículo 3º.
-
-En el Estado de Durango todos son y nacen libres. Los esclavos del extranjero que entren a su territorio, recobrarán por este solo hecho su libertad y alcanzarán la protección de las leyes.
-
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1961)</small>
-
-###### Artículo 4o.
-
-La educación que imparta el Estado o Municipio tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria y a la conciencia de la solidaridad internacional en la dependencia y en la justicia.
-
-I.- Garantizada por el Artículo 23 la libertad de creencias, el criterio que orientará dicha educación se mantendrá por completo ajeno a cualquier doctrina religiosa y basada en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios, además:
-
-a).- Será democrático, considerando a la Democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo.
-
-b).- Será nacional, en cuanto sin hostilidades ni exclusivismos atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura.
-
-c).- Contribuirá a la mejor convivencia, tanto por sus elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la Sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de sectas, de grupos, de sexos o de individuos.
-
-II.- Los particulares podrán impartir educación en todos sus tipos y grados, pero por lo que concierne a la educación primaria, secundaria y normal y a la de cualquier tipo o grado, destinada a obreros y campesinos, deberán obtener previamente, en cada caso, la autorización expresa del Poder Público, dicha autorización podrá ser negada o revocada, sin que contra tales resoluciones proceda juicio o recurso alguno.
-
-III.- Los planteles particulares dedicados a la educación en los tipos y grados que especifica la Fracción anterior, deberán ajustarse, sin excepción, a lo dispuesto en los párrafos inicial, I y II del presente Artículo y además deberán cumplir los planes y los programas oficiales.
-
-IV.- Las corporaciones religiosas, los ministros de los cultos, las sociedades por acciones que exclusiva y predominantemente realicen actividades educativas y las asociaciones o sociedades ligadas con la propaganda de cualquier credo religioso, no intervendrán en forma alguna en planteles en que se imparta la educación primaria, secundaria y normal y la destinada a obreros y campesinos.
-
-V.- El Estado podrá retirar discrecionalmente, en cualquier tiempo, el reconocimiento de validez oficial a los estudios hechos en planteles particulares.
-
-VI.- La educación primaria será obligatoria.
-
-VII.- Toda la educación que el Estado imparte será gratuita, y
-
-VIII.- La Legislatura del Estado con el fin de unificar y coordinar la educación que imparte la Federación en toda la República con la que imparte el Estado, expedirá las Leyes necesarias, destinadas a distribuir la Función social educaitva (sic) entre el Estado, los Municipios, Instituciones y particulares, a fijar las aportaciones económicas correspondientes a ese servicio público y a señalar las sanciones aplicables a quienes no cumplen o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan.
-
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1922)</small>
-
-###### Artículo 5º.
-
-A ninguna persona podrá impedirse que se dedique a la profesión, industria, comercio o trabajo que le acomode, siendo lícitos. El ejercicio de esta libertad sólo podrá vedarse por determinación judicial, cuando se ataquen los derechos de tercero, o por resolución gubernativa, dictada en los términos que marque la Ley, cuando se ofendan los derechos de la sociedad. Nadie puede ser privado del producto de su trabajo sino por resolución judicial.
-
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 1939)</small>
-
-Se considera ilícito y por lo tanto prohibido toda clase de juegos de azar.
-
-La ley que expida el Congreso del Estado determinará cuáles son las profesiones que necesitan título legal para su ejercicio y las condiciones que deben llenarse para obtenerlo, así como las autoridades que deban expedirlo.
-
-###### Artículo 6º.
-
-Nadie podrá ser obligado a prestar trabajos personales sin la justa retribución y sin su pleno consentimiento, salvo el trabajo impuesto como pena por la autoridad judicial, el cual se sujetará a lo dispuesto por las leyes. En cuanto a los servicios públicos, sólo podrán ser obligatorios, en los términos que establezcan las leyes respectivas, el de las armas, el de jurados, los cargos concejiles y los de elección popular, directa o indirecta; y obligatorias y gratuitas, las funciones electorales.
-
-Se prohiben los contratos, pactos o convenios que tengan por objeto el menoscabo, la pérdida o el irrebocable (sic) sacrificio de la libertad del hombre, ya sea por causa de trabajo, de educación o de voto religioso. En consecuencia la ley no permite el establecimiento de órdenes monásticas, cualquiera que sea la denominación u objeto con que pretendan erigirse.
-
-Tampoco puede admitirse convenio en que el hombre pacte su proscripción o destierro, o en que renuncie temporal o permanentemente a ejercer determinada profesión, industria o comercio.
-
-El contrato de trabajo sólo obligará a prestar el servicio convenido por el tiempo que fije la ley, sin poder exceder de un año en perjuicio del trabajador, y no podrá extenderse, en ningún caso, a la renuncia, pérdida o menoscabo de cualquiera de los derechos políticos o civiles.
-
-La falta de cumplimiento de dicho contrato, por lo que respecta al trabajador, sólo obligará a éste a la correspondiente responsabilidad civil, sin que en ningún caso, pueda hacerse coacción sobre su persona.
-
-###### Artículo 7º.
-
-La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque la moral, los derechos de tercero, provoque algún delito, o perturbe el orden público.
-
-###### Artículo 8º.
-
-Es inviolable la libertad de escribir y publicar escritos sobre cualquiera materia. Ninguna ley ni autoridad puede establecer la previa censura; ni exigir fianza a los autores o impresores; ni coartar la libertad de imprenta, que no tiene más límites que el respeto a la vida privada, a la moral y a la paz públicas. En ningún caso podrá secuestrarse la imprenta como instrumento del delito.
-
-Las leyes orgánicas dictarán cuantas disposiciones sean necesarias para evitar que, so pretexto de las denuncias por delitos de prensa, sean encarcelados los expendedores, "papeleros," operarios y demás empleados del establecimiento donde haya salido el escrito denunciado, a menos que se demuestre previamente la responsabilidad de aquellos.
-
-###### Artículo 9º.
-
-Los funcionarios y empleados públicos respetarán el ejercicio del derecho de petición, siempre que éste se formule por escrito, de manera pacífica y respetuosa; pero en materia política, sólo podrán hacer uso de ese derecho los ciudadanos de la República y del Estado.
-
-A toda petición deberá recaer un acuerdo escrito de la autoridad a quien se haya dirigido, la cual tiene obligación de hacerlo conocer en breve término al peticionario.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 1939)</small>
-
-###### Artículo 1º.
-
 El actual Tribunal de Justicia, funcionará durante el período constitucional para el que fué electo, con el personal que lo integra. Para suplir las faltas temporales o absolutas de los Magistrados Propietarios, serán llamados los supernumerarios; en primer término, a los titulados en el orden en que han sido electos, y a falta de éstos, a los no titulados en el orden de su elección.
 
 ###### Artículo 2º.
 
 En tanto no se reforme la Ley orgánica de la Administración de Justicia en lo referente a lo prevenido en la fracción VI del artículo 19 de esta Constitución, los Jueces del Ramo Penal, seguirán conociendo de todos los negocios criminales.
-
-###### Artículo 1o.
-
-Los Diputados de número par electos en las elecciones de 6 de junio del corriente año, durarán en sus funciones los cuatro años para los que fueron electos. En consecuencia, las próximas elecciones que tendrán verificativo el año de 1928, para la renovación del Poder Legislativo, sólo se verificarán en los Distritos de número impar, estableciéndose así la renovación parcial en la forma prevenida por el artículo 54 reformado.
-
-###### Artículo 2o.
-
-Esta disposición surtirá sus efectos desde el día de su promulgación en el Periódico Oficial del Estado.
-
-P.O. 9 DE DICIEMBRE DE 1926.
 
 ###### Artículo 3º.
 
@@ -1311,6 +1445,16 @@ P.O. 5 DE DICIEMBRE DE 1926.
 
 ###### Artículo 1o.
 
+Los Diputados de número par electos en las elecciones de 6 de junio del corriente año, durarán en sus funciones los cuatro años para los que fueron electos. En consecuencia, las próximas elecciones que tendrán verificativo el año de 1928, para la renovación del Poder Legislativo, sólo se verificarán en los Distritos de número impar, estableciéndose así la renovación parcial en la forma prevenida por el artículo 54 reformado.
+
+###### Artículo 2o.
+
+Esta disposición surtirá sus efectos desde el día de su promulgación en el Periódico Oficial del Estado.
+
+P.O. 9 DE DICIEMBRE DE 1926.
+
+###### Artículo 1o.
+
 Las presentes reformas formarán parte integrante de las disposiciones relativas de la Constitución Política del Estado, desde el día de su publicación en el Periódico Oficial, teniendo desde entonces el carácter de Constitucionales.
 
 ###### Artículo 2o.
@@ -1329,7 +1473,7 @@ P.O. 17 DE SEPTIEMBRE DE 1931.
 
 ###### Artículo 1o.
 
-En las elecciones que se efectúen en el año de 1932 para la integración de la XXXIV Legislatura del Estado, se formarán únicamente tres Distritos con los que hay actualmente de número impar, y los ciudadanos que resulten electos para Diputados durarán únicamente en su encargo dos años.
+En las elecciones que se efectúen en el año de 1932 para la integración de la XXXIV Legislatura del Estado, se formarán únicamente tres Distritos con los que hay actualmente de número impar, y los ciudadanos que resulten electos para Diputados durarán únicamente en su cargo dos años.
 
 ###### Artículo 2o.
 
@@ -1337,7 +1481,7 @@ En las elecciones que se efectúen en el año de 1934, para la integración de l
 
 ###### Artículo 3o.
 
-La instalación de la XXXV Legislatura se efectuará el día 1o. de septiembre de 1932, y por esta sóla vez comenzará a ejercer sus funciones, hasta el día 16 de septiembre de ese mismo año.
+La instalación de la XXXV Legislatura se efectuará el día 1o. de septiembre de 1932, y por esta sola vez comenzará a ejercer sus funciones, hasta el día 16 de septiembre de ese mismo año.
 
 P.O. 1 DE OCTUBRE DE 1933.
 
@@ -1424,3 +1568,87 @@ P.O. 24 DE OCTUBRE DE 1946.
 UNICO.- Estse (sic) Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 20 DE ABRIL DE 1947.
+
+###### Artículo 1°.
+
+Siendo la Tesorería General del Estado la que viene a susbstituír (sic) a la Dirección General de Rentas del Estado, adquiere los mismos derechos y contrae las mismas obligaciones que correspondían a la segunda.
+
+###### Artículo 2°.
+
+El Tesorero General es el representante del Fisco del Estado, y, por lo mismo, continuará ejerciendo las funciones que, con ese carácter, tenía encomendadas el Director General de Rentas.
+
+###### Artículo 3°.
+
+El presente Decreto surte sus efectos a partir del día primero de enero del presente año.
+
+P.O. 29 DE ABRIL DE 1948.
+
+UNICO.- El presente Decreto surte sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE MAYO DE 1948.
+
+UNICO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE NOVIEMBRE DE 1951.
+
+DECRETO No. 194.
+
+###### Artículo 1o.
+
+La presente reforma a la Constitución Política del Estado entra en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+###### Artículo 2o.
+
+Con objeto de armonizar la duración de los cargos de los Diputados, con la fecha en que tome posesión el Gobernador del Estado, de acuerdo con la presente reforma, los Diputados de Distritos Impares que de conformidad con las disposiciones constitucionales vigentes hasta la fecha de la publicación de esta reforma, habrán de ser electos en el año de 1952, durarán en su encargo cuatro años; y los Diputados de Distritos pares que de acuerdo con las mismas disposiciones constitucionales habrán de ser electos en el año de 1954, durarán en su encargo dos años.
+
+P.O. 1 DE NOVIEMBRE DE 1951.
+
+DECRETO No. 195.
+
+1o.- La presente reforma al Artículo 88 de la Constitución Política del Estado surte sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+2o.- Con objeto de armonizar la fecha en que deberán tomar posesión de sus cargos los Magistrados del Supremo Tribunal de Justicia, con la fecha en que tome posesión el Gobernador del Estado, los Magistrados, que de acuerdo con las disposiciones vigentes tomen posesión de sus cargos el 1o. de Agosto de 1953 durarán en su cargo hasta el 15 de septiembre de 1956.
+
+P.O. 1 DE NOVIEMBRE DE 1951.
+
+DECRETO No. 197.
+
+Artículo Unico.- La presente reforma surte sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE NOVIEMBRE DE 1951.
+
+DECRETO No. 198.
+
+Artículo Unico.- La presente reforma surte sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 1961.
+
+UNICO.- El presente decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE OCTUBRE DE 1970.
+
+UNICO.- El presente Decreto surtirá sus efectos tres días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE SEPTIEMBRE DE 1973.
+
+###### ARTICULO PRIMERO.
+
+Las presentes adiciones y reformas a la Constitución Política del Estado Libre y Soberano de Durango, entrarán en vigor treinta días después de la fecha de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Quedan derogados los Artículos 1, 3, 5, 6, 7, 8, 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 23, 25; 45; 47, 48, 50, 51, 52, 59, 60, 67, derogada una parte del 85, 90, derogada una parte del 94, 101, 105, 107, 108, 113, 114, 117, 118, 119 y 120.
+
+El Artículo 2 pasa a ser el 1, la Fracción "d" del Artículo 26 pasa a ser el 3; el 4 queda con el mismo número; el 9 pasa a ser el 5; el 13 pasa a ser el 6; el 22 pasa a ser el 9; el 24 pasa a ser el 10; una parte del 26 pasa a ser las fracciones 4, 5 y 6 del Artículo 11; la otra parte del 26 pasa a ser el 12; una parte de la fracción "d" del 26 pasa a ser el 13; el 27 pasa a ser el 14; el 28 pasa a ser el 15; el 29 pasa a ser el 16; el 30 pasa a ser el 17; el 31 pasa a ser el 18; el 33 pasa a ser el 21; el 32 pasa a ser el 22; la última parte del 33 y 34 pasan a ser el 23; el 35 pasa a ser el 24; el 37 pasa a ser el 25; el 39 pasa a ser el 26; el 36 pasa a ser el 27; el 38 pasa a ser el 28; el 43 pasa a ser el 104; el 53 pasa a ser el 115; la primera parte del primer párrafo del 54 pasa a ser el 29; la segunda parte del primer párrafo del 54 pasa a ser el 30; el segundo párrafo del 54 pasa a ser el 31; el 55 pasa a ser el 32; el 56 pasa a ser el 34; el 57 pasa a ser el 35; el 58 pasa a ser el 36; el 62 pasa a ser el 37; el 59 y último párrafo del 66 pasa a ser el 39; el párrafo primero del 62 pasa a ser el 42; el párrafo segundo del 62 pasa a ser el 43; el 65 pasa a ser el 45; el 63 pasa a ser el 50 y 51; el 61 pasa a ser el 52; el último párrafo del 63 pasa a ser el 54; el 64 pasa a ser el 55; el 68 pasa a ser el 56; el 69 pasa a ser el 57; el 70 pasa a ser el 59; el 71 pasa a ser el 60; el 72 pasa a ser el 61; el 73 pasa a ser el 62; el 80 pasa a ser el 63; el 74 pasa a ser el 64; el 75 pasa a ser el 66; el 77 pasa a ser el 67; el 76 pasa a ser el 68; los 78 y 79 pasan a ser el 69; el 81 pasa a ser el 70; el 82 pasa a ser el 71 y 72; los dos primeros párrafos del 83 pasan a ser el 73; el párrafo tercero del 83 pasa a ser el 74; el 102 pasa a ser el 75 y 76; el 103 pasa a ser el 78; el 104 pasa a ser el 79; el 106 pasa a ser el 80; el 109 pasa a ser el 116; el 110 pasa a ser el 117; el 111 pasa a ser el 118; el 112 pasa a ser el 119; el 115 pasa a ser el 120; el 116 pasa a ser el 121; los Artículos 85 (una parte), 92, 93 y 94 (una parte) pasan a ser los 81, 82, 83, 84, 85 y 86. Una parte del 85, una parte del 94 y el 96 pasan a ser el 87, 88 y 89; el 84 pasa a ser el 90 y 102; el 86 pasa a ser el 92; el 87 pasa a ser el 93; el 88 pasa a ser el 95; el 89 pasa a ser el 98; el 91 pasa a ser una parte del 98; el 93 pasa a ser el 94; el 95 pasa a ser parte del 94; el 96 pasa a ser el 99; el 97 pasa a ser el 100; el 98 pasa a ser el 95; los 99 y 100 pasan a ser el 97; el 40 pasa a ser el 106; el 41 pasa a ser el 108; la última parte del 41 pasa a ser el 109; el 42 pasa a ser el 105; el 44 pasa a ser el 110; el 46 pasa a ser el 111; el 49 pasa a ser el 114; el 121 pasa a ser el 127; el 122 pasa a ser el 130; el 123 pasa a ser el 131. Innovaciones los Artículos 2, 7, 8 y parte del 11, 19, 20, 47, 48, 49, 53, 58, 65, 77, 91, 96, 101 y 126.
+
+###### ARTICULO TERCERO.
+
+Las leyes reglamentarias continuarán en vigor en lo que no se opongan a las nuevas disposiciones constitucionales, mientras el Congreso no expida las adiciones y reformas que proceden.
+
+###### ARTICULO CUARTO.
+
+El Congreso del Estado expedirá las reformas conducentes a la Ley Electoral; a la Ley de Expropiación, a la Ley de Municipios, al Reglamento para el Gobierno Interior del H. Congreso, a la Ley Orgánica del Poder Judicial, a la Ley Orgánica del Ministerio Público y demás disposiciones normativas que requieran de modificaciones o adiciones para adecuarlas a las presentes adiciones y reformas Constitucionales.
+
+###### ARTICULO QUINTO.
+
+Unicamente y por el presente año de 1973 mil novecientos setenta y tres, el Gobernador del Estado presentará el informe del estado que guarda la administración pública, el día 15 de septiembre, en lo sucesivo, se estará a lo dispuesto en la Fracción XII del Artículo 70 Constitucional.
