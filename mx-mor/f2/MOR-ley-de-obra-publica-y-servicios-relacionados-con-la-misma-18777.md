@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-18777
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2000-12-27"
+last_updated: "2003-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE OBRA PUBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de diciembre de 2000.
 
@@ -149,9 +149,17 @@ VI. Contratista: La persona física o moral a la cual, se le adjudicó la obra p
 
 VII. Asesor o consultor: La persona que celebre contratos de consultoría o de servicios profesionales con base en conocimientos y habilidades adquiridos mediante estudios especializados y experiencia;
 
-VIII. Equilibrio Económico Financiero del Contrato: Es la necesidad de preservar las condiciones de rentabilidad o de beneficios del contrato ante las variaciones que se presenten en el mismo; y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-IX. Comité: Comité de Obras Públicas.
+VIII. Equilibrio Económico Financiero del Contrato: Es la necesidad de preservar las condiciones de rentabilidad o de beneficios del contrato ante las variaciones que se presenten en el mismo;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
+IX.- Comité: Comité de Obras Públicas; y
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
+X.- Subcomité: Subcomité de Obras Públicas para las Dependencias.
 
 ###### ARTÍCULO 3.
 
@@ -213,9 +221,11 @@ La Secretaría vigilará que las dependencias cumplan con las disposiciones de e
 
 Los titulares y los directores de las Dependencias, Secretaría o Ayuntamientos serán los responsables de que, en la adopción e instrumentación de las acciones que deban llevar a cabo en cumplimiento de esta Ley, se observen criterios que promuevan la simplificación administrativa, la descentralización de funciones y la efectiva delegación de facultades.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 11.
 
-En lo no previsto por esta Ley, serán aplicables el Código Civil y el Código Procesal Civil para el Estado Libre y Soberano de Morelos.
+En lo no previsto por esta Ley, serán aplicables el Código Civil y el Código Procesal Civil para el Estado de Morelos, así como la Ley de Procedimiento Administrativo para el Estado de Morelos.
 
 ###### ARTÍCULO 12.
 
@@ -227,9 +237,11 @@ En la ejecución de las obras a que se refiere el párrafo anterior, se deberán
 
 Las controversias que se susciten con motivo de la interpretación o aplicación de esta Ley o de los contratos celebrados con base en ella, serán resueltas por los Tribunales Estatales aplicando su Ley Orgánica y el artículo 104 fracción I de la Constitución Política de los Estados Unidos Mexicanos, tratándose de jurisdicción concurrente.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 14.
 
-Los contratos que celebren las Dependencias, Secretaría o Ayuntamientos fuera del territorio Estatal, se regirán por esta Ley, sin perjuicio de lo dispuesto por la legislación del lugar donde se formalice el acto.
+Los contratos de obra pública o servicios relacionados con la misma que celebren las Dependencias, Secretaría o Ayuntamientos, que deban ser ejecutados o prestados fuera del territorio estatal en bienes estatales o municipales, se regirán por esta Ley, sin perjuicio de lo dispuesto por la legislación del lugar donde se formalice el acto.
 
 ## TITULO SEGUNDO. De la Planeación, Programación y Presupuestación
 
@@ -277,13 +289,17 @@ XIII. Los trabajos de mantenimiento de los bienes inmuebles a su cargo;
 
 XIV. Anticipadamente a la contratación de obras públicas bajo cualquier procedimiento, se deberá contar con proyectos ejecutivos de arquitectura e ingeniería y que la información que contenga haya sido debidamente cruzada para reducir riesgos de interferencias y modificaciones durante la ejecución de las obras;
 
-Para tal efecto, las Dependencias, Secretaría o ayuntamientos contratarán los servicios de la o las empresas especialistas necesarias para que lleven a cabo la verificación de los proyectos y los programas previstos de construcción, en cuanto a su calidad, avance, interrelación, existencia y cumplimiento de especificaciones, normas ecológicas, solución a interferencias con servicios públicos, previsión de obras inducidas, aspectos geológicos y demás características del terreno y en general todo lo relativo a garantizar la ejecutabilidad de las obras con los mínimos riesgos de modificaciones y situaciones imprevistas.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
+Para tal efecto las Dependencias, Secretaría o Ayuntamientos podrán contratar los servicios de las empresas especialistas necesarias para que lleven a cabo la verificación de los proyectos y los programas previstos de construcción, en cuanto a su calidad, avance, interrelación, existencia y cumplimiento de especificaciones, normas ecológicas, solución a interferencias con servicios públicos, previsión de obras inducidas, aspectos geológicos y demás características del terreno y en general todo lo relativo a garantizar la ejecutabilidad de las obras con los mínimos riesgos de modificaciones y situaciones imprevistas.
 
 XV. Las demás previsiones y características de los trabajos.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 17.
 
-Las Dependencias, Secretaría o Ayuntamientos, estarán obligadas a prever los efectos sobre el medio ambiente que pueda causar la ejecución de la obra pública, con sustento en los estudios de impacto ambiental previstos por la Ley General de Equilibrio Ecológico y la Protección del Ambiente. Los proyectos deberán incluir las obras necesarias para que se preserven o restituyan en forma equivalente las condiciones ambientales cuando estas pudieran deteriorarse, y se dará la intervención que corresponda a la Dependencia de la Administración Pública Estatal del Ramo del Medio Ambiente, y, en su caso, a las Dependencias, Secretaría o ayuntamientos que tengan atribuciones en la materia, quienes en un plazo no mayor de 30 días naturales, deberán emitir los dictámenes respectivos.
+Las Dependencias, Secretaría o Ayuntamientos, estarán obligadas a prever los efectos sobre el medio ambiente que pueda causar la ejecución de las obras públicas con sustento en los estudios de impacto ambiental, en los casos previstos en la Ley de Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos. Los proyectos deberán incluir las obras necesarias para que se preserven o restituyan en forma equivalente las condiciones ambientales cuando éstas pudieran deteriorarse, y se dará ola (sic) intervención que corresponda a la dependencia de la Administración Pública Estatal del ramo del medio ambiente, y, en su caso, a las dependencias, secretaría o ayuntamientos que tengan atribuciones en la materia, quienes en un plazo no mayor de 30 días naturales deberán emitir los dictámenes respectivos.
 
 ###### ARTÍCULO 18.
 
@@ -297,9 +313,11 @@ El documento que contenga los programas será de carácter informativo; no impli
 
 Para efectos informativos, la Secretaría integrará y difundirá los programas anuales de obras públicas y servicios relacionados con las mismas, para lo cual podrá requerir a las dependencias o ayuntamientos la información que sea necesaria respecto de las modificaciones a dichos programas y los pondrá a disposición de los interesados.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 20.
 
-Los titulares de las Dependencias, Secretaría o Ayuntamientos, atendiendo a la cantidad de obras públicas y servicios relacionados con las mismas que realicen, podrán establecer comités de obras públicas, en los que podrán participar por invitación aquellas personas jurídicas individuales o físicas, o colectivas o morales que se dediquen a la construcción en el Estado. Dichos comités tendrán como mínimo las siguientes funciones:
+Los titulares de las Dependencias, Secretaría o Ayuntamientos, atendiendo a la cantidad de obras públicas y servicios relacionados con las mismas que realicen, podrán establecer comités y subcomités de obras públicas, en los que podrán participar en calidad de invitadas las personas físicas o morales, empresariales o gremiales, que se dediquen a la construcción en el Estado. Dichos comités y subcomités tendrán como mínimo las siguientes funciones:
 
 I. Revisar los programas y presupuestos de obras públicas y servicios relacionados con las mismas, así como formular las observaciones y recomendaciones convenientes;
 
@@ -403,7 +421,9 @@ VI. La descripción general de la obra o del servicio y el lugar en donde se lle
 
 VII. Plazo de ejecución de los trabajos determinado en días naturales, indicando la fecha estimada de inicio de los mismos;
 
-VIII. La experiencia o capacidad técnica y financiera que se requiera para participar en la licitación, de acuerdo con las características de la obra, y demás requisitos generales que deberán cumplir los interesados, entre los cuales deberán demostrar la existencia legal, en términos de lo dispuesto por las normas fiscales aplicables y mediante los instrumentos públicos pertinentes; la capacidad técnica podrá ser demostrada con la experiencia en obras similares, de la propia empresa, o por la del personal técnico que estará encargado de la ejecución de la obra, o por la de una empresa con la que se tenga celebrado un convenio de asociación. La capacidad financiera podrá ser demostrada con el capital contable de la declaración fiscal del ejercicio anterior o el estado financiero firmado por contador independiente de la empresa. En ambos casos no se exigirá un monto mayor al 20% del valor estimado del contrato;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
+VIII.- Los oferentes deberán acreditar la experiencia, capacidad técnica y financiera que se requiera para participar en la licitación de acuerdo con las características de la obra, y demás requisitos generales que deberán cumplir los interesados, entre los cuales deberán demostrar la existencia legal de la empresa y la personalidad jurídica con la que se ostenta, estar al corriente en el pago de sus obligaciones fiscales, en términos de lo dispuesto por las normas aplicables y mediante la documentación pertinente; la capacidad técnica podrá ser demostrada con la experiencia en obras similares, de la propia empresa, o por la del personal técnico que estará encargado de la ejecución de la obra, o por la de una empresa con la que se tenga celebrado un convenio de asociación. La capacidad financiera podrá ser demostrada con el capital contable de la declaración fiscal del ejercicio anterior o el estado financiero firmado por un contador independiente de la empresa. En ambos casos no se exigirá un monto mayor al 20% del valor estimado del contrato;
 
 IX. La información sobre los porcentajes a otorgar por concepto de anticipos, para inicio de los trabajos y para la compra, producción o renta de insumos que se requieran en la obra;
 
@@ -511,9 +531,13 @@ Adicionalmente, las Dependencias, Secretaría o Ayuntamientos enviarán por escr
 
 Las modificaciones de que trata este artículo no podrán consistir en la sustitución o variación sustancial de los bienes, obras o servicios convocados originalmente, o bien, en la adición de otros distintos.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 33.
 
 En las licitaciones públicas, la entrega de proposiciones se hará en dos sobres cerrados que contendrán, por separado, la propuesta técnica y la propuesta económica, una vez presentada la propuesta, ninguno de los participantes podrá retirarla durante el proceso de licitación.
+
+Todas las propuestas serán presentadas en dos tantos y, en caso de ser desechadas, el primer tanto será devuelto al oferente y el segundo tanto será conservado en el expediente relativo.
 
 ###### ARTÍCULO 34.
 
@@ -529,7 +553,9 @@ IV. En la segunda etapa, una vez conocido el resultado técnico, se procederá a
 
 V. Se señalará fecha, lugar y hora en que se dará a conocer el fallo de la licitación; esta fecha deberá quedar comprendida dentro de los cuarenta días naturales contados a partir de la fecha de inicio de la primera etapa, y podrá diferirse por una sola vez, siempre que el nuevo plazo fijado no exceda de veinte días naturales contados a partir del plazo establecido originalmente.
 
-VI. Se levantará acta de la segunda etapa en la que se hará constar las propuestas aceptadas, sus importes, así como las que hubieren sido desechadas y las causas que lo motivaron; el acta será firmada por los participantes y se pondrá a su disposición o se les entregará copia de la misma; la falta de firma de uno o más oferentes no invalidará el contenido y efectos del acta. Las Dependencias, Secretaría o Ayuntamientos convocantes entregarán a cada oferente, de encontrarse presentes, en este mismo acto, un recibo por la garantía entregada;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
+VI. Se levantará acta de la segunda etapa en la que se hará constar las propuestas aceptadas, sus importes, así como las que hubieren sido desechadas y las causas que lo motivaron; el acta será firmada por los participantes y se pondrá a su disposición o se les entregará copia de la misma; la falta de firma de uno o más oferentes no invalidará el contenido y efectos del acta;
 
 VII. En junta pública se dará a conocer el fallo de la licitación, a la que libremente podrán asistir los oferentes que hubieren participado en las etapas de presentación y apertura de proposiciones. En sustitución de esta junta, las Dependencias, Secretaría o Ayuntamientos podrán optar por comunicar el fallo de la licitación por escrito a cada uno de los oferentes, y
 
@@ -733,13 +759,19 @@ Las Dependencias, Secretaría o Ayuntamientos, podrán incorporar en las bases d
 
 Los trabajos cuya ejecución comprendan más de un ejercicio presupuestal, deberán formularse en un solo contrato, por la vigencia que resulte necesaria para la ejecución de los trabajos, quedando únicamente sujetos a la autorización presupuestal para cada ejercicio, en los términos de la Ley de Presupuesto, Contabilidad y Gasto Público Estatal o Municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 47.
 
-La adjudicación del contrato obligará a las Dependencias, Secretaría o Ayuntamientos y a la persona en quien hubiere recaído a formalizar el documento relativo, dentro de los treinta días naturales siguientes a aquel en el que el contratista reciba copia del acta de fallo de adjudicación.
+La adjudicación del contrato obligará a las Dependencias, Secretaría o Ayuntamientos y al oferente ganador a formalizar el documento relativo dentro de los treinta días naturales siguientes a aquel en que el contratista reciba copia del acta de adjudicación.
 
-Si el interesado no firmare el contrato por causas imputables a él mismo, dentro del plazo establecido, perderá a favor de la convocante la garantía que hubiere otorgado y las Dependencias, Secretaría o Ayuntamientos podrán, sin necesidad de un nuevo procedimiento, adjudicar el contrato al participante que haya presentado la siguiente proposición solvente más baja, de conformidad con lo asentado en el dictamen a que se refiere el artículo 35 de esta Ley, y así sucesivamente en caso de que este último no acepte la adjudicación.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
 
-Si las Dependencias, Secretaría o Ayuntamientos no firmaren el contrato respectivo, dentro del plazo establecido, el oferente ganador, sin incurrir en responsabilidad, podrá determinar no ejecutar la obra. En este supuesto, las Dependencias, Secretaría o Ayuntamientos liberarán la garantía otorgada para el sostenimiento de su proposición y cubrirá los gastos no recuperables en que hubiere incurrido el contratista para preparar y elaborar su propuesta, siempre que éstos sean razonables estén debidamente comprobados y se relacionen directamente con la licitación de que se trate.
+Si el interesado no firmare el contrato por causas imputables a él mismo, dentro del plazo establecido, las Dependencias, Secretaría o Ayuntamientos, podrán, sin necesidad de un nuevo procedimiento, adjudicar el contrato al participante que haya presentado la siguiente proposición solvente más baja, de conformidad con lo asentado en el dictamen a que se refiere el artículo 35 de la Ley y así sucesivamente, en caso de que este último no acepte la adjudicación.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
+Si las Dependencias, Secretaría o Ayuntamientos no firmaren el contrato respectivo, dentro del plazo establecido, el oferente ganador, sin incurrir en responsabilidad podrá determinar no ejecutar la obra. En este supuesto, las Dependencias, Secretaría o Ayuntamientos cubrirán los gastos no recuperables en que hubiere incurrido el contratista para preparar y elaborar su propuesta, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen con la licitación de que se trate.
 
 La obra adjudicada al contratista, no podrán (sic) ejecutarse por otro, sin embargo con la autorización previa de las Dependencias, Secretaría o Ayuntamientos en su caso, podrá hacerlo respecto de partes de la obra o cuando adquiera materiales o equipos que incluyan su instalación en la obra. Esta autorización previa no se requerirá cuando las Dependencias, Secretaría o Ayuntamientos señalen específicamente en las bases de la licitación, las partes de la obra que podrán ser objeto de subcontratación. En todo caso, el contratista seguirá siendo el único responsable de la ejecución de la obra ante las Dependencias, Secretaría o Ayuntamientos.
 
@@ -797,7 +829,9 @@ II. El cumplimiento de los contratos. Esta garantía deberá constituirse con fi
 
 Para el caso de contratos que rebasen un ejercicio presupuestal, la garantía de cumplimiento del contrato se ajustará al importe de los trabajos aún no ejecutados.
 
-Las garantías previstas en las fracciones II y III de este artículo, deberán presentarse dentro de los quince días naturales siguientes a la fecha de la firma del contrato; y el o los anticipos correspondientes se entregarán, a más tardar, dentro de los quince días naturales siguientes a la presentación de la garantía.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
+Las garantías previstas en las fracciones I y II de este artículo, deberán presentarse dentro de los quince días naturales siguientes a la fecha de notificación de fallo, y el o los anticipos correspondientes se entregarán, a más tardar, dentro de los quince días naturales siguientes a la presentación de la garantía.
 
 ###### ARTÍCULO 50.
 
@@ -1031,9 +1065,13 @@ El resultado de las comprobaciones se hará constar en un dictamen que será fir
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 72.
 
-Los oferentes, contratistas, asesores o consultores que infrinjan las disposiciones contenidas en esta Ley, serán sancionados por las Contralorías, estatal o municipal, según sea el caso, con multa equivalente a la cantidad de cincuenta a trescientas veces el salario mínimo general vigente en el Estado elevado al mes, en la fecha de la infracción.
+Los oferentes, contratistas, asesores o consultores, que infrinjan las disposiciones contenidas en esta Ley, serán sancionados por las Contralorías, Estatal o Municipal según sea el caso con multa equivalente a la cantidad de 150 a 1000 veces el salario mínimo general vigente en el Estado elevado al mes en la fecha de la infracción.
+
+Independientemente de la aplicación de la multa mencionada en el párrafo precedente, el oferente que se retracte de su propuesta o el contratista que no firme el contrato por causas imputables a el mismo deberá resarcir a la Dependencia, Secretaría o Ayuntamiento el importe de los gastos generados con motivo de la licitación.
 
 ###### ARTÍCULO 73.
 
@@ -1087,9 +1125,11 @@ Los servidores públicos de las Dependencias, Secretaría o Ayuntamientos que en
 
 La omisión a lo dispuesto en el párrafo anterior será sancionada administrativamente.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 80.
 
-Las responsabilidades a que se refiere la presente son independientes de las de orden civil o penal, que puedan derivar de la comisión de los mismos hechos.
+Las sanciones a que se refieren los artículos 72 y 74 de esta Ley se harán efectivas por conducto de las oficinas exactoras de la Secretaría de Finanzas y Planeación del Gobierno del Estado de Morelos.
 
 ## TITULO OCTAVO. De las Inconformidades
 
@@ -1176,3 +1216,11 @@ SECRETARIO DE GOBIERNO.
 EDUARDO BECERRA PEREZ.
 
 RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 3 DE SEPTIEMBRE DE 2003
+
+PRIMERA.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos a que se refieren los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
