@@ -4,7 +4,7 @@ identifier: "COA-reglamento-municipal-para-anuncios-del-republicano-25842"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-04-13"
-last_updated: "1999-04-13"
+last_updated: "2001-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25842&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "COA"
 
 REGLAMENTO MUNICIPAL PARA ANUNCIOS DEL REPUBLICANO AYUNTAMIENTO DE TORREON, COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2001.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 13 de abril de 1999.
 
@@ -520,39 +520,41 @@ El Ayuntamiento dentro de los diez días siguientes a la presentación de la den
 
 El Ayuntamiento nombrará al Consejo Consultivo de Anuncios para el Municipio de Torreón, Coahuila, con las funciones que le señale el presente Reglamento a propuesta del Presidente Municipal.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
 ###### Artículo 48.
 
-El Consejo Consultivo de Anuncios se integrará por:
+El Consejo Consultivo de Anuncios se integrará:
 
-I.- Cinco representantes del Municipio, que serán:
+Cinco representantes del Municipio que serán:
 
-a) El Director de Obras Públicas, quien presidirá la (sic) Consejo;
+a) El Director de Obras Públicas.
 
-b) El Director de Desarrollo Urbano, quien fungirá como secretario técnico;
+b) El Director de Desarrollo Urbano, quien fungirá como secretario técnico.
 
 c) El Director de Ecología, y
 
-d) El Director de Vialidad y Transporte;
+d) El Jefe de Vialidad.
 
-e) El Presidente de la comisión de Obras Públicas por parte del Ayuntamiento.
+e) El Presidente de la Comisión de Obras Públicas por parte del Ayuntamiento.
 
 II.- Un represente de cada una de las organizaciones siguientes o similares, a invitación del Ayuntamiento:
 
-a) Consejo Municipal de Desarrollo Urbano;
+a) Consejo Municipal de Desarrollo Urbano.
 
-b) Consejo del Centro Histórico de la Ciudad;
+b) Consejo del Centro Histórico de la Ciudad.
 
-c) Colegio de Arquitectos;
+c) Colegio de Arquitectos.
 
-d) Cámara Nacional de la Industria de la Transformación;
+d) Cámara Nacional de la Industria de la Transformación.
 
-e) Cámara Nacional de Comercio;
+e) Cámara Nacional de Comercio.
 
-f) Colegio de Ingenieros, y
+f) Colegio de Ingenieros.
 
-g) Cámara de la Propiedad Urbana;
+g) Cámara de la Propiedad Urbana, y
 
-i) (sic) Confederación Patronal de la República Mexicana.
+h) Confederación Patronal de la República Mexicana.
 
 Cada uno de los integrantes del Consejo, tendrá derecho a voz y voto, y deberá nombrar a un suplente.
 
@@ -785,3 +787,9 @@ EL PRESIDENTE MUNICIPAL
 EL SECRETARIO DEL AYUNTAMIENTO
 
 (RUBRICA)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE SEPTIEMBRE DE 2001.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA.
