@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-procedimientos-civiles-3371"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-12-24"
-last_updated: "1975-06-24"
+last_updated: "1981-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO DE PROCEDIMIENTOS CIVILES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MAYO DE 1981.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 24 de diciembre de 1942.
 
@@ -163,9 +163,11 @@ Las acciones no son acumulables cuando corresponden a jurisdicciones diferentes.
 
 A nadie puede obligarse a intentar o proseguir una acción contra su voluntad, excepto en los casos previstos por la ley. Cuando alguno públicamente se jacte de que otro es su deudor, o de que tiene que deducir derechos sobre alguna cosa que otro posee, el poseedor, o aquél de quien se dice que es deudor, puede ocurrir al juez de su propio domicilio, pidiéndole que señale un término al jactancioso para que deduzca la acción que afirme tener, apercibido de que, no haciéndolo en el plazo designado, se tendrá por desistido de la acción que ha sido objeto de la jactancia. Este juicio se sustanciará sumariamente. No se reputará jactancioso al que en algún acto judicial o administrativo se reserva los derechos que pueda tener contra alguna persona o sobre alguna cosa. La acción de jactancia prescribe a los tres meses desde la fecha en que tuvieron lugar los dichos y hechos que la originan.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+
 ###### Art. 28.
 
-Contestada la demanda, no podrá alterarse, ni modificarse. El desistimiento de la demanda implica el de la acción, a menos que el demandante se reserve el derecho de presentar nuevamente su demanda. Se requiere el consentimiento del demandado para que el desistimiento produzca sus efectos.
+Contestada la demanda, no podrá alterarse, ni modificarse. El desistimiento de la demanda sólo importa la pérdida de la instancia y requiere el consentimiento del demandado. El desistimiento de la acción extingue ésta, aun sin consentirlo el reo. En todos los casos el desistimiento produce el efecto de que las cosas vuelvan al estado que tenían antes de la presentación de la demanda, y obliga al que lo hizo a pagar los gastos y los daños y perjuicios a la contraparte, salvo convenio en contrario.
 
 ###### Art. 29.
 
@@ -283,9 +285,11 @@ Las actuaciones judiciales deberán ser autorizadas bajo pena de nulidad por el 
 
 Las actuaciones judiciales han de practicarse en días y horas hábiles bajo pena de nulidad.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+
 ###### Art. 53.
 
-Son días hábiles todos los del año, menos los domingos, los que las leyes locales o federales declaren festivos y los que correspondan a vacaciones del personal de los tribunales de justicia conforme a las leyes de la materia. Son horas hábiles las que medien desde las siete hasta las diez y ocho.
+Son días hábiles todos los del año, exceptuándose los sábados y domingos, los que las leyes locales o federales declaren festivos y los que correspondan a vacaciones del personal de los Tribunales de Justicia conforme a las leyes de la materia. Se entienden horas hábiles las que medien desde las siete hasta las dieciocho horas.
 
 ###### Art. 54.
 
@@ -303,29 +307,37 @@ Ningún escrito se admitirá en la Secretaría de un Juzgado, sin estar firmado 
 
 En la práctica de diligencias, en las declaraciones, decretos, autos y sentencias no se emplearán abreviaturas, ni se rasparán las frases equivocadas, sobre las que sólo se pondrá una línea delgada que permita la lectura, salvándose al fin con toda precisión el error cometido.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+
 ###### Art. 58.
 
-El secretario hará constar el día y la hora en que se presente un escrito y dará cuenta con él, a más tardar, dentro de veinticuatro horas, bajo la pena de diez pesos de multa, sin perjuicio de las demás que merezca conforme a las leyes.
+El secretario hará constar el día y la hora en que se presente un escrito y dará cuenta con él, a más tardar, dentro de veinticuatro horas, bajo la pena de hacerse acreedor a una corrección disciplinaria, sin perjuicio de las demás sanciones que merezca conforme a las leyes.
 
 ###### Art. 59.
 
 Los Secretarios foliarán exactamente los autos, rubricarán todas las hojas al margen de lo escrito, y pondrán el sello de la Secretaría en el fondo del cuaderno, de manera que queden selladas las dos caras.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+
 ###### Art. 60.
 
-Los interesados pueden presentar una copia simple de sus escritos, a fin de que se les devuelva con la anotación de la fecha y hora de presentación, sellada y firmada por el empleado que la reciba en el tribunal.
+Los interesados deberán presentar dos copias de sus escritos, a fin de que un tanto se les devuelva con la anotación de la fecha y hora de presentación, sellada y firmada por el empleado que la reciba en el Tribunal; y el otro tanto quedará en la Secretaría del Juzgado o Sala para la integración del legajo respectivo.
 
 ###### Art. 61.
 
 Sólo se entregarán los autos a las partes para formar o glosar cuentas, o cuando de común acuerdo lo pidieren. Los autos y copias en su caso se entregarán por el Secretario directamente a las partes, por medio de conocimiento que deberán firmar éstas. Las frases "dar vista" o "correr traslado", sólo significan que los autos quedan en la Secretaría para que se impongan de ellos los interesados, o para que se entreguen las copias. Las disposiciones de este artículo comprenden al Ministerio Público.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+
 ###### Art. 62.
 
-La persona que firme el conocimiento será apremiada con multa de cinco pesos por cada día que retenga los autos, sin que le sirva de excusa haberlos entregado a la parte interesada o al abogado; y habiendo fundadas presunciones de que los retiene con dolo, se procederá contra él criminalmente, consignándolo al juez respectivo. Cuando no se pueda hacer efectivo el pago de la multa, sufrirá el multado un día de prisión por cada cinco pesos de multa.
+La persona que firme el conocimiento será apremiada con multa de cien pesos por cada día que retenga los autos, sin que le sirva de excusa haberlos entregado a la parte interesada o al abogado; y habiendo fundadas presunciones de que los retiene con dolo, se procederá contra él criminalmente, consignándolo al juez respectivo. Cuando no se pueda hacer efectivo el pago de la multa, sufrirá el multado un día de arresto por cada cien pesos de multa.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
 
 ###### Art. 63.
 
-Por ningún motivo se entregarán los autos en confianza. El funcionario o empleado que infrinja este artículo, sufrirá una multa de veinticinco a cien pesos; será responsable de todos los daños y perjuicios que se causaren; y si incurre en dicha falta por tercera vez, será destituido del empleo.
+Por ningún motivo se entregarán los autos en confianza. El funcionario o empleado que infrinja este artículo, sufrirá una multa de quinientos a mil pesos; será responsable de todos los daños y perjuicios que se causaren; y será destituido del empleo.
 
 ###### Art. 64.
 
@@ -385,9 +397,11 @@ IV.- Traer a la vista cualesquiera autos que tengan relación con el pleito;
 
 V.- También podrán los jueces y tribunales, en cualquier estado del negocio, citar a las partes para las juntas que crean convenientes, ya para procurar su avenencia, ya para esclarecer algún punto, sin que se suspendan los términos que estén corriendo. Estas juntas y todas las diligencias se verificarán en el Juzgado o Tribunal, a menos que por su propia naturaleza deben practicarse en otro lugar, o cuando se designe lugar diverso por razón del sexo, edad, enfermedad u otra circunstancia grave de las personas que deban intervenir.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+
 ###### Art. 75.
 
-Los tribunales y los jueces tienen el deber de mantener el buen orden, y de exigir que se les guarden el respeto y consideración debidos; corrigiendo en el acto las faltas que se cometieren, con multas que no podrán pasar en los juzgados de paz de diez pesos; en los de primera instancia de veinticinco, y de cincuenta en los tribunales superiores. Podrán también requerir el auxilio de la fuerza pública.
+Los jueces y magistrados tienen el deber de mantener el buen orden y de exigir que se les guarden el respeto y la consideración debidos, corrigiendo en el acto las faltas que se cometieren, con multas que no podrán pasar, en los Juzgados de Paz, de cien pesos; en los Menores, de mil; en los de lo Civil y de lo Familiar, de dos mil pesos; y en el Tribunal Superior, de cuatro mil pesos. También pueden emplear el auxilio de la fuerza pública.
 
 ###### Art. 76.
 
@@ -403,31 +417,35 @@ Contra cualquier providencia en que se impusiere una corrección disciplinaria, 
 
 Si la providencia fuere dictada por alguna de las Salas del Tribunal Superior o por el Pleno, no habrá contra ella más recurso que el de revocación.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+
 ###### Art. 79.
 
-Se entenderá corrección disciplinaria:
+Se entenderá por corrección disciplinaria:
 
-I.- El apercibimiento o extrañamiento;
+I.- El apercibimiento o amonestación;
 
-II.- La multa que no exceda de cincuenta pesos;
+II.- La multa que no exceda de quinientos pesos, que se duplicará en caso de reincidencia;
 
-III.- La suspensión que no exceda de quince días.
+III.- La suspensión que no exceda de un mes.
 
 ###### Art. 80.
 
 Los jueces para hacer cumplir sus determinaciones pueden emplear el apremio.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+
 ###### Art. 81.
 
 Son medios de apremio:
 
-I.- La multa desde cinco hasta cincuenta pesos, que se duplicará en caso de reincidencia;
+I.- La multa desde cien hasta cinco mil pesos, que se duplicará en caso de reincidencia;
 
-II.- El auxilio de la fuerza pública;
+II.- El auxilio de la fuerza pública y la fractura de cerraduras si fuere necesario;
 
-III.- El cateo por orden escrita;
+III.- El arresto hasta por quince días.
 
-IV.- El arresto hasta por quince días. Si el caso exige mayor sanción, se dará parte a la autoridad competente.
+Si el caso exige mayor sanción, se dará parte a la autoridad competente.
 
 ###### Art. 82.
 
@@ -491,9 +509,11 @@ La nulidad de las resoluciones judiciales, por falta de las formalidades que exp
 
 Las notificaciones, citaciones y entrega de expedientes se verificarán lo más tarde el día siguiente al en que se dicten las resoluciones que las prevengan, cuando el juez en éstas no dispusiere otra cosa.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+
 ###### Art. 94.
 
-Se impondrá de plano a los infractores del artículo anterior una multa que no exceda de veinte pesos.
+Se impondrá de plano a los infractores del artículo anterior una multa que no exceda de doscientos pesos.
 
 ###### Art. 95.
 
@@ -517,9 +537,11 @@ La primera notificación se hará personalmente al interesado por el Actuario o 
 
 Cuando la notificación se haga personalmente, debe ser firmada por las personas que la hacen y por aquélla a quien se hace; si ésta no supiere o no quisiere firmar, lo hará el Notificador, haciendo constar esa circunstancia.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+
 ###### Art. 100.
 
-Si se probare que el actuario no hizo la notificación personalmente, hallándose la parte en la casa, será responsable de los daños y perjuicios, y satisfará además una multa de diez a treinta pesos.
+Si se probare que el actuario no hizo la notificación personalmente, hallándose la parte en la casa, será responsable de los daños y perjuicios, y le será aplicada además una corrección disciplinaria.
 
 ###### Art. 101.
 
@@ -565,9 +587,11 @@ Si las partes o sus procuradores no ocurren al Tribunal o al Juzgado en el día 
 
 La notificación deberá hacerse personalmente, cuando deba entenderse con extraños al juicio o en casos muy urgentes, en concepto del juez.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+
 ###### Art. 112.
 
-La infracción de las disposiciones anteriores que cometan los Secretarios, Actuarios o testigos de asistencia, será castigada con multa de veinticinco pesos en la primera vez, y con destitución en la segunda, sin perjuicio de las penas que establecen los artículos 94 y 100.
+La infracción de las disposiciones anteriores que cometan los secretarios, actuarios o testigos de asistencia, será castigada la primera vez con multa de quinientos pesos, y con destitución en la segunda.
 
 ###### Art. 113.
 
@@ -623,9 +647,11 @@ En ningún término se contarán los días en que no puedan tener lugar actuacio
 
 En el expediente se hará constar el día en que comienzan a correr un término o una prórroga, y aquél en que deben concluir.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+
 ###### Art. 125.
 
-El funcionario que infrinja cualquiera de los dos artículos anteriores, pagará una multa de diez pesos y será responsable de los gastos y perjuicios que se ocasionen por su culpa.
+El funcionario que infrinja cualquiera de los dos artículos anteriores se hará acreedor a una corrección disciplinaria y será responsable de los daños y perjuicios que se ocasionen por su culpa.
 
 ###### Art. 126.
 
@@ -654,6 +680,14 @@ II.- Diez días, a juicio del juez, para pruebas;
 III.- Seis días para alegar tachas y seis para probarlas;
 
 IV.- Tres días para la celebración de juntas o para la práctica de cualquiera otra diligencia.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 1981)</small>
+
+Art. 130 bis.- La caducidad de la instancia operará de pleno derecho, en primera instancia, cualquiera que sea el estado del juicio desde el emplazamiento hasta la citación de sentencia, y en segunda instancia, desde la admisión del recurso hasta la citación para resolución, si transcurridos 180 días naturales contados a partir de la notificación de la última determinación judicial no hubiere promoción de cualquiera de las partes o actuación judicial alguna. El Juez la declarará de oficio o a petición de parte interesada. La caducidad de la instancia es de orden público, irrenunciable y no puede ser materia de convenios entre las partes.
+
+La caducidad de la primera instancia convierte en ineficaces las actuaciones del juicio y consecuentemente las cosas deben volver al estado que tenían antes de la presentación de la demanda, por lo que deberán levantarse los embargos y cancelarse las inscripciones hechas con motivo de las mismas en el Registro Público.
+
+La caducidad de la segunda instancia deja firmes las resoluciones apeladas y así lo declarará el Tribunal de Alzada.
 
 ### CAPITULO VI. De los gastos del juicio
 
@@ -1081,9 +1115,11 @@ Si no fuere necesaria la prueba, se celebrará la audiencia y se resolverá en l
 
 Propuesta la recusación de un secretario, pasará éste los autos a quien deba sustituirlo conforme a la ley. El tribunal que conozca de la recusación, recibirá el negocio a prueba y oirá a los interesados, sujetándose a lo que previene las dos disposiciones anteriores.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+
 ###### Art. 216.
 
-Si el superior califica de inadmisible o no probada la causa de la recusación, devolverá los autos al funcionario recusado, imponiendo al recusante una multa de diez a cincuenta pesos.
+Si el superior califica de inadmisible o no probada la causa de la recusación, devolverá los autos al funcionario recusado, imponiendo al recusante una multa de quinientos a dos mil pesos.
 
 ###### Art. 217.
 
@@ -1333,13 +1369,15 @@ Las providencias que dictaren sobre esto, serán apelables en ambos efectos.
 
 De la demanda presentada y admitida se correrá traslado a la persona contra quien se proponga, entregándole las copias a que se refiere el artículo 262, y se le emplazará para que dentro de seis días la conteste.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+
 ###### Art. 267.
 
-Cuando la persona que deba ser emplazada no resida en el lugar en que se le demanda, el juez podrá aumentar el término del emplazamiento a razón de un día por cada veinte kilómetros de distancia o por una fracción que exceda de la mitad.
+Cuando la persona que deba ser emplazada no resida en el lugar en que se le demanda, el juez ampliará el término del emplazamiento a todo el que considere necesario, atendidas las distancias y la mayor o menor facilidad de las comunicaciones, pero si su residencia se encuentra ubicada dentro del territorio nacional dicha ampliación no excederá de treinta días.
 
 ###### Art. 268.
 
-Si el demandado reside en el extranjero, el juez ampliará el término del emplazamiento a todo el que considere necesario, atendidas las distancias y la mayor o menor facilidad de las comunicaciones.
+(DEROGADO, P.O. 2 DE MAYO DE 1981)
 
 ###### Art. 269.
 
@@ -1639,9 +1677,11 @@ La confesión sólo produce efecto en lo que perjudica al que la hace, no en lo 
 
 Cuando los litigantes presenten las preguntas en pliego cerrado, deberá guardarse así en el secreto del tribunal.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+
 ###### Art. 331.
 
-El que debe absolver posiciones será citado con anticipación de veinticuatro horas, por lo menos, debiendo expresarse en el citatorio el objeto de la diligencia y la hora en que ha de practicarse; y no compareciendo, se le volverá a citar en la misma forma, con el apercibimiento de que si no se presenta a declarar se le tendrá por confeso.
+El que debe absolver posiciones será citado con anticipación de veinticuatro horas, por lo menos, haciéndole saber el objeto de la diligencia y la hora en que ha de practicarse. Dicha citación sólo se hará después de que el articulante presente el pliego de posiciones. Si no comparece, se le volverá a citar, en la misma forma, con el apercibimiento de que si no se presenta a declarar se le tendrá por confeso.
 
 ###### Art. 332.
 
@@ -1717,9 +1757,11 @@ El juez resolverá acerca de la declaración solicitada, a reserva de lo que se 
 
 Las autoridades, las corporaciones oficiales y los establecimientos que formen parte de la administración pública no absolverán posiciones en la forma que establecen los artículos anteriores; pero la parte contraria podrá pedir que se les libre oficio, insertando las preguntas que quiera hacerles para que, por vía de informe, sean contestadas dentro del término que designe el tribunal y que no excederá de ocho días. En el oficio se apercibirá a la parte absolvente de tenerla por confesa si no contestare dentro del término que se le haya fijado, o si no lo hiciere categóricamente afirmando o negando los hechos.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+
 ###### Art. 349.
 
-Se tendrá por confeso al actor respecto de los hechos propios que afirmare en las posiciones, y sobre ellos no se le admitirá prueba testimonial.
+Se tendrá por confeso al articulante respecto de los hechos propios que afirmare en las posiciones, y sobre ellos no se le admitirá prueba testimonial.
 
 ###### Art. 350.
 
@@ -2623,6 +2665,8 @@ En el caso de la fracción XV del artículo 511, una vez recibida por el juez el
 
 ### CAPITULO III. Del juicio hipotecario
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+
 ###### Art. 521.
 
 La demanda de desocupación debe fundarse en la falta de pago de dos o más mensualidades y se acompañará con el contrato escrito del arrendamiento. En caso de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documento, se justificará por medio de información testimonial, prueba documental o cualquiera otra bastante como medio preparatorio del juicio.
@@ -2723,7 +2767,7 @@ Para la ejecución del desahucio se tiene como domicilio legal del ejecutado, la
 
 ###### Art. 538.
 
-Se seguirá sumariamente el juicio para el pago o prelación de un crédito hipotecario, conforme a las disposiciones de este capítulo, siempre que conste en escritura pública debidamente registrada y que sea de plazo cumplido o que deba anticiparse conforme a lo prevenido en los artículos 1853 y 2806 del Código Civil. El juicio se compondrá de dos secciones, una se llamará de apremio y se formará con la demanda, la cédula hipotecaria, el inventario de la finca hipotecada, las diligencias relativas al depósito, el avalúo y el remate de dicha finca; y otra que se llamará de oposición y se formará con la copia de la demanda, la contestación del demandado en que oponga sus excepciones, las pruebas, alegatos y sentencias.
+Se seguirá sumariamente el juicio para el pago o prelación de un crédito hipotecario, siempre que sea de plazo cumplido o que deba anticiparse conforme a lo prevenido en los artículos 1853 y 2806 del Código Civil. El juicio se compondrá de dos secciones, una se llamará de apremio y se formará con la demanda, la cédula hipotecaria, el inventario de la finca hipotecada, las diligencias relativas al depósito, el avalúo y el remate de dicha finca; y otra que se llamará de oposición y se formará con la copia de la demanda, la contestación del demandado en que oponga sus excepciones, las pruebas, alegatos y sentencias.
 
 ###### Art. 539.
 
@@ -5459,7 +5503,7 @@ La junta se verificará dentro de los ocho días siguientes a la citación, si l
 
 ###### Art. 1105.
 
-Si la mayoría residiere fuera de lugar del juicio, el juez señalará el plazo que crea prudente, atendidas las distancias.
+Si la mayoría recidiere fuera de lugar del juicio, el juez señalará el plazo que crea prudente, atendidas las distancias.
 
 ###### Art. 1106.
 
@@ -6113,9 +6157,11 @@ La jurisdicción voluntaria comprende todos los actos en que por disposición de
 
 Las solicitudes relativas a jurisdicción voluntaria se formularán por escrito ante los jueces de primera instancia o de paz correspondientes.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 1981)</small>
+
 ###### Art. 1244.
 
-Son hábiles para practicar los actos de jurisdicción voluntaria todos los días y horas sin excepción.
+Para la práctica de los actos de jurisdicción voluntaria en donde exista interés público o social, son hábiles todos los días y horas sin excepción.
 
 ###### Art. 1245.
 
@@ -6836,3 +6882,9 @@ P.O. 24 DE JUNIO DE 1975.
 PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales que se opongan a las presentes reformas.
+
+P.O. 2 DE MAYO DE 1981.
+
+###### ARTICULO CUARTO.
+
+Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
