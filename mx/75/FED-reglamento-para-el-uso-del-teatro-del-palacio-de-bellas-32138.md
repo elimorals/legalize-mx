@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-el-uso-del-teatro-del-palacio-de-bellas-32138"
 country: "mx"
 rank: "reglamento"
 publication_date: "1944-12-28"
-last_updated: "1944-12-28"
+last_updated: "1945-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32138&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1944-12-14"
 
 REGLAMENTO PARA EL USO DEL TEATRO DEL PALACIO DE BELLAS ARTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PRUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MAYO DE 1945.
 
 Reglamento publicado en la Sección Primera del Diario Oficial de la Federación, el jueves 28 de diciembre de 1944.
 
@@ -69,9 +69,11 @@ Las Dependencias del Gobierno Federal que deseen hacer uso del Teatro, para los 
 
 Los particulares que pretendan efectuar algún espectáculo gratuito, dirigirán a la Secretaría de Educación Pública una solicitud con los mismos requisitos señalados en el artículo precedente, especificando, además las finalidades concretas que persigan con el espectáculo proyectado. La Secretaría de Educación podrá, a su arbitrio, conceder el uso del Teatro en la forma en que le sea solicitado; o para fecha distinta de la pedida. Igualmente, a su arbitrio, podrá cambiar la fecha para el uso del Teatro, previo aviso dado, cuando menos el día anterior al fijado para el acto. La Secretaría de Educación, en cualquier momento, podrá cancelar la concesión, resarciendo al concesionario, de los gastos que le compruebe, realizados en la propaganda del espectáculo.
 
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 1945)</small>
+
 ###### ARTICULO 10.
 
-Con objeto de dictaminar acerca de las solicitudes de concesión para el uso del Teatro con espectáculos onerosos, se constituye una “Comisión de Música y Teatro”, integrada por el Director General de Educación Estética, el Jefe de Departamento del Teatro y el Jefe del Departamento de Música de la Secretaría de Educación Pública; y tres Delegados designados respectivamente por el C. Presidente de la República, el Jefe del Departamento del Distrito Federal y los gerentes o promotores de empresas permanentes de espectáculos, cuyas actividades estén relacionadas con las finalidades a que se destina el Teatro del Palacio de Bellas Artes.
+Con objeto de dictaminar acerca de las solicitudes de concesión para el uso del Teatro con espectáculos onerosos, se constituye una “Comisión de Música y Teatro”, integrada por el Director General de Educación Estética, el Jefe del Departamento de Teatro, y el Jefe del Departamento de Música de la Secretaría de Educación Pública; y cuatro delegados designados respectivamente por el C. Presidente de la República, el Jefe del Departamento del Distrito Federal, las organizaciones y asociaciones de escritores y cronistas de Teatro y Música y los Gerentes o Promotores de empresas permanentes de espectáculos, cuyas actividades estén relacionadas con las finalidades a que se destina el Teatro del Palacio de Bellas Artes.
 
 ###### ARTICULO 11.
 
@@ -182,3 +184,9 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 Se derogan todas las disposiciones reglamentarias o económicas que se opongan a lo dispuesto por este ordenamiento.
 
 Y en cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su publicación y debida observancia, promulgo el presente Reglamento en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los catorce días del mes de diciembre de mil novecientos cuarenta y cuatro.- Manuel Avila Camacho.- Rúbrica.- El Secretario de Estado y del Despacho de Educación Pública, Jaime Torres Bodet.- Rúbrica.- Al C. Lic. Miguel Alemán, Secretario de Gobernación.- Presente.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 23 DE MAYO DE 1945.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
