@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "1970-05-30"
+last_updated: "1974-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 1974.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de Septiembre de 1954.
 
@@ -767,13 +767,17 @@ La infracción de este artículo produce responsabilidad para los Agentes del Mi
 
 ### CAPITULO II. De las actas de nacimiento
 
-ART. 54.- Las declaraciones de nacimientos se harán presentando al niño ante el oficial del Registro Civil, en su oficina o en la casa donde aquél hubiere nacido.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
 
-ART. 55.- Tienen obligación de declarar el nacimiento; el padre, dentro de los quince días de ocurrido aquél y, en su defecto, la madre, dentro de los cuarenta días.
+ART. 54.- Las declaraciones de nacimientos se harán presentando al niño ante el Oficial del Registro Civil en su Oficina, en la casa paterna, o donde aquel hubiere nacido.
 
-Los médicos, cirujanos o matronas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al oficial del Registro Civil, dentro de los tres días siguientes. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
 
-Recibido el aviso, el oficial del Registro Civil tomará las medidas legales que sean necesarias a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
+ART. 55.- Tienen obligaciones de declarar el nacimiento, el padre, la madre o ambos, dentro de los 45 días siguientes a éste.
+
+Los médicos cirujanos o matronas que hubieren asistido al parto, tienen obligaciones de dar aviso del nacimiento al Oficial del Registro Civil, dentro de los tres días siguientes. La misma obligación tiene el Jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
+
+Recibido el aviso, el Oficial del Registro Civil tomará las medidas legales que sean necesarias a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
 
 ART. 56.- Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, serán castigadas con una multa de cinco a cincuenta pesos, que impondrá la autoridad municipal del lugar donde se haya hecho la declaración extemporánea de nacimiento.
 
@@ -781,21 +785,29 @@ En la misma pena incurrirán las personas que no cumplan la obligación de dar e
 
 ART. 57.- En las poblaciones en que no haya oficial del Registro, el niño será presentado a la persona que ejerza la autoridad municipal, y ésta dará la constancia respectiva, que los interesados llevarán al oficial del Registro que corresponda, para que asiente el acta.
 
-ART. 58.- El acta de nacimiento se extenderá con asistencia de dos testigos que pueden ser designados por las partes interesadas. Contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre y apellido que se le ponga, sin que por motivo alguno puedan omitirse y la razón de si se ha presentado vivo o muerto. Se tomará al margen del acta la impresión digital del presentado.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
 
-Si éste se presenta como hijo de padres desconocidos, el oficial del Registro le pondrá nombre y apellido, haciéndose constar esta circunstancia en el acta.
+ART. 58.- El acta de nacimiento se extenderá con asistencia de dos testigos que identificarán al padre, a la madre o a ambos cuando éstos sean quienes presenten el hijo, declararán sobre la nacionalidad de éstos y podrán ser designados por los interesados; el acta contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre que se ponga y el apellido que le corresponda, sin que por motivo alguno pueda omitirse; y la razón de si se ha presentado vivo o muerto. Se tomará al margen del acta la impresión digital del presentado.
 
-ART. 59.- Cuando el nacido fuere presentado como hijo de matrimonio, se asentarán los nombres, domicilio y nacionalidad de los padres; los nombres y domicilio de los abuelos y los de las personas que hubieren hecho la presentación. Los testigos de que habla el artículo 61 declararán también acerca de la nacionalidad de los padres del presentado al Registro.
+Si no se proporcionan los nombres de los padres, del presentado, el Oficial del Registro le pondrá nombre y apellido. No podrá asentarse por ningún motivo, que el hijo es de padres desconocidos.
 
-ART. 60.- Para que se haga constar en el acta de nacimiento el nombre del padre de un hijo nacido fuera de matrimonio, es necesario que aquél lo pida por sí o por apoderado especial constituido en la forma establecida en el artículo 44; haciéndose constar en todo caso la petición.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
 
-La madre no tiene derecho de dejar de reconocer a su hijo; tiene obligación de que su nombre figure en el acta de nacimiento de su hijo. Si al hacerse la presentación no se da el nombre de la madre, se pondrá en el acta que el presentado es hijo de madre desconocida, pero la investigación de la maternidad podrá hacerse ante los tribunales de acuerdo con las disposiciones relativas de este Código.
+ART. 59.- Cuando de la declaración de quienes presenten al hijo, se desprende que nació dentro del matrimonio, se asentarán los nombres, domicilios y nacionalidad de los padres; los nombres y domicilios de los abuelos y los de la persona hubiere hecho la presentación.
 
-Además de los nombres de los padres se hará constar en el acta de nacimiento su nacionalidad y domicilio; declarando acerca de la primera circunstancia los testigos que deben intervenir en el acto.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
+
+ART. 60.- En los casos de los hijos nacidos fuera de matrimonio, además de los nombres y domicilios de los padres que concurrieran al acto, se harán constar en el acta, los nombres, domicilios y nacionalidad de los abuelos respecto del padre o la madre que presenten al hijo.
+
+Siempre se asentará el nombre de la madre en el acta de nacimiento respectiva salvo lo dispuesto por el artículo 62 de este Código.
+
+Queda absolutamente prohibido asentar en el acta que el hijo es natural, nacido fuera de matrimonio, o hijo de madre desconocida.
 
 ART. 61.- Si el padre o la madre no pudieren concurrir, ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos la presencia del oficial del Registro, éste pasará al lugar en que se halle el interesado, y allí recibirá de él la petición de que se mencione su nombre; todo lo cual se asentará en el acta.
 
-ART. 62.- Si el hijo fuere adulterino, podrá asentarse el nombre del padre, casado o soltero, si lo pidiere; pero no podrá asentarse el nombre de la madre cuando sea casada y viva con su marido, a no ser que éste haya desconocido al hijo y exista sentencia ejecutoria que declare que no es hijo suyo.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
+
+ART. 62.- Si el hijo fuera adulterio, podrá asentarse el nombre del padre, casado o soltero, si lo pidiere, pero no podrá asentarse el nombre de la madre cuando sea casada y viva con su marido, salvo que éste haya desconocido el hijo y exista sentencia ejecutoria que así lo declare. No se expresará en el acta que el hijo es adulterio.
 
 ART. 63.- Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso ni a petición de persona alguna, podrá el oficial del Registro asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
 
@@ -827,19 +839,35 @@ ART. 76.- En el acta de nacimiento de gemelos, el oficial del Registro Civil har
 
 ### CAPITULO III. De las actas de reconocimiento de hijos naturales
 
-ART. 77.- Si el padre o la madre de un hijo natural, o ambos, lo reconocieren al presentarlo dentro del término de la ley para que se registre su nacimiento, el acta de éste contendrá los requisitos establecidos en los artículos anteriores, con expresión de ser el hijo natural, y de los nombres del progenitor que lo reconozca. Esta acta surtirá los efectos del reconocimiento legal.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
 
-ART. 78.- Si el reconocimiento del hijo natural se hiciere después de haber sido registrado su nacimiento, se formará acta separada en la que, además de los requisitos a que se refiere el artículo que precede, se observarán los siguientes, en sus respectivos casos:
+ART. 77.- Si el padre o la madre de un hijo, sin estar unidos en matrimonio, o ambos, lo reconocieran al presentarlo dentro del término de la Ley para que se registre su nacimiento, el acta contendrá los requisitos establecidos en los artículos anteriores, el nombre o nombres del progenitor o progenitores que lo reconozcan, así como el nombre de los abuelos respecto del padre o la madre que concurran al acto. Esta acta surtirá los efectos del reconocimiento legal.
 
-I.- Si el hijo es mayor de edad, se expresará en el acta su consentimiento para ser reconocido;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
 
-II.- Si el hijo es menor de edad, pero mayor de catorce años, se expresará su consentimiento y el de su tutor;
+ART. 78.- Si el reconocimiento del hijo se hiciere después de haber sido registrado su nacimiento, se formará acta separada en la que además de los requisitos a que se refiere el Artículo que precede, se observarán los siguientes, en sus respectivos casos:
 
-III.- Si el hijo es menor de catorce años, se expresará sólo el consentimiento del tutor.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
 
-ART. 79.- Lo dispuesto en el artículo anterior se observará también cuando se haya omitido la presentación para el registro del nacimiento del hijo natural, o esa presentación se haya hecho después del término de la ley.
+I. Si el hijo es mayor de dieciséis años se expresará en el acta su consentimiento para ser reconocido;
 
-ART. 80.- Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará, dentro del término de quince días, al encargado del Registro, el original o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de dicho documento, observándose las demás prescripciones contenidas en este capítulo y en el capítulo IV, del título séptimo de este libro.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
+
+II. Si el hijo es menor de dieciséis años pero mayor de catorce, se expresará su consentimiento y el de su tutor;
+
+III.- Si el hijo es menor de catorce años, se expresará sólo el consentimiento del tutor;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE SEPTIEMBRE DE 1974)</small>
+
+IV. En estas actas queda prohibido expresar que el hijo es natural.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
+
+ART. 79.- Lo dispuesto en el Artículo anterior se observará también, cuando se haya omitido la presentación para el registro del nacimiento del hijo, o esa presentación se haya hecho después del término de Ley.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
+
+ART. 80.- Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará al encargado del Registro dentro del término de quince días, el orginal (sic) o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de dicho documento en el que se omitirá cualesquiera de las menciones prohibidas por los Artículos 58, 60, 62, 63, 64, 78, y 370, observándose las demás prescripciones contenidas en este Capítulo y en el IV del Título séptimo de este libro.
 
 ART. 81.- La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en una multa de veinte a cien pesos, que impondrá y hará efectiva el juez ante quien se haga valer el reconocimiento.
 
@@ -1789,7 +1817,9 @@ ART. 359.- Pueden gozar también de ese derecho los hijos no nacidos, si el padr
 
 ### CAPITULO IV. Del reconocimiento de los hijos nacidos fuera del matrimonio
 
-ART. 360.- La filiación de los hijos nacidos fuera de matrimonio resulta, con relación a la madre, del solo hecho del nacimiento. Respecto del padre, sólo se establece por el reconocimiento voluntario o por una sentencia que declare la paternidad.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
+
+ART. 360.- La filiación de los hijos nacidos fuera del matrimonio, sólo se establece por el reconocimiento voluntario hecho por los progenitores o por una sentencia que así lo declare.
 
 ART. 361.- Pueden reconocer a sus hijos, los que tengan la edad exigida para contraer matrimonio, más la edad del hijo que va a ser reconocido.
 
@@ -1801,11 +1831,15 @@ ART. 364.- Puede reconocerse al hijo que no ha nacido y al que ha muerto si ha d
 
 ART. 365.- Los padres pueden reconocer a su hijo conjunta o separadamente.
 
-ART. 366.- El reconocimiento hecho por uno de los padres produce efectos respecto de él y no respecto del otro progenitor.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
+
+ART. 366.- El reconocimiento puede ser contradicho por un tercero interesado.
 
 ART. 367.- El reconocimiento no es revocable por el que lo hizo, y si se ha hecho en testamento, cuando éste se revoque, no se tiene por revocado el reconocimiento.
 
-ART. 368.- El reconocimiento puede ser contradicho por un tercero interesado. El heredero que resulte perjudicado puede contradecir el reconocimiento dentro del año siguiente a la muerte del que lo hizo.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
+
+ART. 368.- El heredero que resulte perjudicado, puede contradecir el reconocimiento dentro del año siguiente a la muerte del que lo hizo.
 
 ART. 369.- El reconocimiento de un hijo nacido fuera del matrimonio deberá hacerse de alguno de los modos siguientes:
 
@@ -1823,9 +1857,13 @@ ART. 370.- Cuando el padre o la madre reconozcan separadamente a un hijo, no pod
 
 ART. 371.- El oficial del Registro Civil, el juez de Primera Instancia, en su caso, y el notario que consientan en la violación del artículo que precede, serán castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro por un término que no baje de dos ni exceda de cinco años.
 
-ART. 372.- La mujer casada podrá reconocer, sin el consentimiento del marido, a su hijo habido antes de su matrimonio; pero no tendrá derecho a llevarlo a vivir a la habitación conyugal, si no es como (sic) el consentimiento expreso del esposo.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
 
-ART. 373.- El marido podrá reconocer a un hijo habido antes de su matrimonio o durante éste; pero no tendrá derecho de llevarlo a vivir a la habitación conyugal, si no es con el consentimiento expreso de la esposa.
+ART. 372.- La mujer casada podrá reconocer, sin el consentimiento del marido, a un hijo habido antes de su matrimonio; podrá con autorización el esposo, llevar al hijo reconocido a vivir al hogar conyugal.
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
+
+ART. 373.- El marido podrá reconocer a un hijo habido antes de su matrimonio, o durante éste, pudiendo, con el consentimiento de la esposa, llevarlo a vivir al hogar conyugal.
 
 ART. 374.- El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, sino cuando éste lo haya reconocido, y por sentencia ejecutoria se haya declarado que no es hijo suyo.
 
@@ -1835,7 +1873,9 @@ ART. 376.- Si el hijo reconocido es menor, puede reclamar contra el reconocimien
 
 ART. 377.- El término para deducir esta acción será de dos años, que comenzará a correr desde que el hijo sea mayor de edad, si antes de serlo tuvo noticia del reconocimiento; y si no la tenía, desde la fecha en que la adquirió.
 
-ART. 378.- La mujer que cuida o ha cuidado de la lactancia de un niño, a quien le ha dado su nombre o permitido que lo lleve; que públicamente lo ha presentado como hijo suyo y ha proveído a su educación y subsistencia, podrá contradecir el reconocimiento que un hombre haya hecho o pretenda hacer de ese niño. En este caso no se le podrá separar de su lado, a menos que consienta en entregarlo o que fuere obligado a hacer la entrega por sentencia ejecutoriada. El término para contradecir el reconocimiento será el de sesenta días, contados desde que tuvo conocimiento de él.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
+
+ART. 378.- La mujer que cuida o ha cuidado de la lactancia de un niño, a quien le ha dado su nombre o permitido que lo lleve; que públicamente lo ha presentado como hijo suyo y ha proveído a su educación y subsistencia podrá contradecir el reconocimiento que un hombre haya hecho o pretenda hacer de ese niño. En este caso no se le podrá separar de su lado a menos que consienta en entregarlo o que fuere obligada a hacer la entrega por sentencia ejecutoriada. El término para el reconocimiento será de un año, contado desde que tuvo conocimiento de él.
 
 ART. 379.- Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquél sin efecto, y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio correspondiente.
 
@@ -1865,7 +1905,9 @@ ART. 385.- Está permitido al hijo nacido fuera de matrimonio y a sus descendien
 
 ART. 386.- No obstante lo dispuesto en la parte final del artículo anterior, el hijo podrá investigar la maternidad si ésta se deduce de una sentencia civil o criminal.
 
-ART. 387.- El hecho de dar alimentos no constituye por sí solo prueba, ni aun presunción, de paternidad o maternidad. Tampoco puede alegarse como razón para investigar éstas.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1974)</small>
+
+ART. 387.- El hecho de dar alimentos no constituye por sí solo prueba pero sí presunción de paternidad o maternidad.
 
 ART. 388.- Las acciones de investigación de paternidad o maternidad sólo pueden intentarse en vida de los padres.
 
@@ -9596,3 +9638,7 @@ P.O. 30 DE MAYO DE 1970.
 ###### ARTICULO UNICO.
 
 El presente Decreto surtirá sus efectos a los tres días de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE SEPTIEMBRE DE 1974.
+
+UNICO.- El presente Decreto surtirá sus efectos legales a partir del día de su publicación en el Periódico Oficial "El Estado de Colima".
