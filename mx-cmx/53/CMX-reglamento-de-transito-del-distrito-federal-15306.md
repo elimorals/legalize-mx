@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-del-distrito-federal-15306"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-11-30"
-last_updated: "1999-11-30"
+last_updated: "2001-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15306&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-11-29"
 
 REGLAMENTO DE TRANSITO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE JUNIO DE 2001.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 30 de noviembre de 1999.
 
@@ -98,7 +98,7 @@ g) Semirremolques.
 
 II. Pesados, aquellos con un peso bruto vehicular mayor a 3.5 toneladas;
 
-a) Microbus y Minibus;
+a) Microbús y Minibus;
 
 b) Autobuses;
 
@@ -350,7 +350,7 @@ II. Tratándose de licencia tipo C, acreditar:
 
 a) Cinco años como titular de licencia de conducir tipo A, o tres años de una tipo B;
 
-b) La aprobación del curso de capacitación que autoriza la Secretaría;
+b) La aprobación del curso de capacitación que autoriza la Secretaría.
 
 > <small>(F. DE E., G.O. 2 DE DICIEMBRE DE 1999)</small>
 
@@ -526,7 +526,9 @@ a) Escolar;
 
 b) De personal;
 
-c) Especializado, (ambulancias, auto patrullas, bomberos y otros vehículos de emergencia).
+> <small>(REFORMADO, G.O. 29 DE JUNIO DE 2001)</small>
+
+c) Especializado, (ambulancias, autopatrullas y otros vehículos de emergencia), excepto los pertenecientes a la Secretaría de Seguridad Pública y al Heroico Cuerpo de Bomberos.
 
 V. Servicio particular de pasajeros;
 
@@ -556,11 +558,19 @@ IX. Servicio Particular de Carga;
 
 X. Pruebas;
 
-XI. Traslado o demostración;
+> <small>(REFORMADA, G.O. 29 DE JUNIO DE 2001)</small>
+
+XI. Demostración de vehículos nuevos en el Distrito Federal;
 
 XII. Vehículos en renta, y
 
-XIII. Diplomáticos, consulares, organismos internacionales y técnicos administrativos.
+> <small>(REFORMADA, G.O. 29 DE JUNIO DE 2001)</small>
+
+XIII. Vehículos antiguos;
+
+> <small>(ADICIONADA, G.O. 29 DE JUNIO DE 2001)</small>
+
+XIV. Vehículos de discapacitados.
 
 ###### ARTÍCULO 38.
 
@@ -576,7 +586,9 @@ Los vehículos automotores, independientemente del tipo de placa de matrícula q
 
 I. Circulación;
 
-II. Verificación vehicular vigente, y
+> <small>(REFORMADA, G.O. 29 DE JUNIO DE 2001)</small>
+
+II. Holograma de Verificación Vehicular vigente, y
 
 III. Revista vehicular tratándose de vehículos de servicio de transporte de pasajeros y de carga.
 
@@ -670,15 +682,19 @@ I. No cuenten con el holograma de verificación vehicular de emisiones contamina
 
 II. Circulen en días u horas en que esté limitada la circulación en condiciones normales o de contingencia ambiental, y
 
-III. Emitan humo ostensiblemente contaminante.
+> <small>(REFORMADA, G.O. 29 DE JUNIO DE 2001)</small>
+
+III. Emitan humo negro o azul, es decir rebasen los límites máximos permisibles de emisiones contaminantes.
 
 ###### ARTÍCULO 49.
 
 La autoridad ambiental podrá facultar a los centros de verificación vehicular para el efecto de requerir a los propietarios o poseedores de vehículos el pago de las multas previstas en el presente Reglamento, previa la realización de las pruebas de emisiones, de acuerdo con los lineamientos que al efecto se expidan y los sistemas informáticos que al efecto se desarrollen.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 29 DE JUNIO DE 2001)</small>
+
 ###### ARTÍCULO 50.
 
-Quedan exentos de lo dispuesto por los artículos 47 y 48, los vehículos que se determinan en las normas ambientales aplicables, siendo los siguientes:
+Quedan exentos de las restricciones a la circulación los vehículos automotores que determinan las normas ambientales aplicables, así como los que a continuación se indican:
 
 I. Los vehículos destinados a servicios médicos, seguridad pública, bomberos y rescate;
 
@@ -810,7 +826,9 @@ IV. Sean conducidos por personas que, habiendo cometido una infracción a las di
 
 V. Sean conducidos por personas que, habiendo cometido una infracción en materia de tránsito, exhiba una licencia o permiso de conducir que no ampare el tipo de vehículo que se conduce;
 
-VI. Teniendo la obligación de efectuar la verificación vehicular, circule sin llevar adherido el engomado que acredite el cumplimiento de esta obligación para el período correspondiente y no se pueda acreditar dicha verificación con el certificado correspondiente;
+> <small>(REFORMADA, G.O. 29 DE JUNIO DE 2001)</small>
+
+VI. Teniendo la obligación de efectuar la verificación vehicular, circule sin llevar adherido el holograma de verificación vehicular que acredite el cumplimiento de esta obligación para el periodo correspondiente y no se pueda acreditar dicha verificación con el certificado correspondiente;
 
 VII. Circulen sin llevar adherida la calcomanía permanente de circulación y no se cuente con el permiso que justifique su falta;
 
@@ -826,13 +844,15 @@ XII. Estando adaptados para usar gas natural o licuado de petróleo como combust
 
 XIII. Sean conducidos por personas que se encuentren en estado de ebriedad o bajo el influjo de enervantes, estupefacientes o sustancias tóxicas o psicotrópicas;
 
-XIV. Circulen o se encuentren en vía pública y tengan pendiente el pago de una infracción, según la base de datos de Control Vehicular, salvo que el conductor exhiba el comprobante de pago correspondiente;
+XIV. Circulen o se encuentren en vía pública y tengan pendiente el pago de una infracción, según la base de datos de Control Vehicular, salvo que el conductor exhiba el comprobante de pago correspondiente.
 
-XV. Circulen incumpliendo las disposiciones ambientales a que se refiere el artículo 47 de este Reglamento;
+XV. Circulen incumpliendo las disposiciones ambientales a que se refiere el artículo 47 de este Reglamento
 
-XVI. Cuando algún conductor no acate la indicación de alto que le haga el agente por la posible comisión de una infracción de tránsito, señalada en este Reglamento, o en las demás disposiciones jurídicas en materia de tránsito;
+XVI. Cuando algún conductor no acate la indicación de alto que le haga el agente por la posible comisión de una infracción de tránsito, señalada en este Reglamento, o en las demás disposiciones jurídicas en materia de tránsito
 
-XVII. Circulen emitiendo humo ostensiblemente contaminante;
+> <small>(REFORMADA, G.O. 29 DE JUNIO DE 2001)</small>
+
+XVII. Circulen emitiendo humo negro o azul;
 
 XVIII. Circulen en días u horas en que esté restringida la circulación, de acuerdo con las normas ambientales correspondientes, y
 
@@ -848,9 +868,13 @@ En los casos en que proceda la remisión del vehículo al depósito, y previamen
 
 Para la devolución del vehículo en los depósitos será indispensable la comprobación de su propiedad o legal posesión y el pago previo de las multas y derechos que procedan, así como la exhibición de la licencia de conducir, una copia de la misma y portar las llaves del vehículo.
 
+> <small>(REFORMADO, G.O. 29 DE JUNIO DE 2001)</small>
+
 ###### ARTÍCULO 61.
 
-Al propietario de un vehículo que, estando adaptado para usar gas natural o licuado de petróleo como combustible, circule sin contar con la autorización expedida por la autoridad competentes, se le aplicarán las sanciones a que haya lugar y se le otorgará un plazo de treinta días naturales a partir de su imposición para obtener la autorización para circular. Durante este plazo el vehículo de que se trate sólo podrá circular para trasladarse al sitio que para tal efecto dispongan las autoridades, previo cumplimiento de la sanción impuesta.
+Al propietario de un vehículo que estando adaptado para usar Gas Natural o Licuado de Petróleo, no porte el holograma correspondiente otorgado por el Gobierno del Distrito Federal o del Estado de México, deberá contar con el dictamen técnico expedido por la autoridad competente, en caso de incumplimiento se le aplicarán las sanciones a que haya lugar y se le otorgará un plazo de treinta días naturales a partir de su imposición, para obtener el holograma o el dictamen técnico según sea el caso.
+
+Durante este plazo el vehículo de que se trate sólo podrá circular para trasladarse al sitio que para tal efecto dispongan las autoridades, previo cumplimiento de la sanción impuesta.
 
 ###### ARTÍCULO 62.
 
@@ -1385,3 +1409,13 @@ Para los efectos del artículo 44 de este Reglamento se dará a conocer en la Ga
 La clasificación de placas de matrícula contenida en el artículo 37 de este Reglamento, entrará en vigor a partir del día siguiente a aquel en que se publique en la Gaceta Oficial del Distrito Federal la instrumentación del Programa de reemplazamiento correspondiente por parte de la Secretaría, hasta en tanto continuará vigente el artículo 30 del Reglamento de Tránsito del Distrito Federal del veintiuno de noviembre de mil novecientos noventa y siete que se deroga.
 
 Dado en la Residencia Oficial de la Jefa de Gobierno del Distrito Federal, en la Ciudad de México, a los veintinueve días del mes de noviembre de mil novecientos noventa y nueve.- LA JEFA DE GOBIERNO, ROSARIO ROBLES BERLANGA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGEL.- EL SECRETARIO DEL MEDIO AMBIENTE, ALEJANDRO ENCINAS RODRIGUEZ.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, A. JOEL ORTEGA CUEVAS.- EL SECRETARIO DE SEGURIDAD PÚBLICA.- ALEJANDRO GERTZ MANERO.- EL SECRETARIO DE FINANZAS, ARMANDO LOPEZ FERNANDEZ.- FIRMAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO INTERIOR.</small>
+
+G.O. 29 DE JUNIO DE 2001.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se derogan las demás disposiciones que se opongan al presente.
+
+TERCERO.- La clasificación de placas de matricula contenida en el artículo 37 de este Reglamento, entrará en vigor el mismo día en que lo haga el instrumento jurídico que establezca el programa de reemplacamiento correspondiente de la Secretaría de Transportes y Vialidad, hasta en tanto continuará vigente el artículo 30 del Reglamento de Tránsito del 21 de noviembre de 1997.
