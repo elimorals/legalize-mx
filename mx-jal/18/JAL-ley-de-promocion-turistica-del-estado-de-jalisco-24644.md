@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-promocion-turistica-del-estado-de-jalisco-24644"
 country: "mx"
 rank: "ley"
 publication_date: "2002-05-28"
-last_updated: "2004-10-16"
+last_updated: "2004-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PROMOCION TURISTICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Jalisco, el martes 28 de mayo de 2002.
 
@@ -121,7 +121,9 @@ g) Empresas de Intercambio de servicios turísticos.
 
 V. Prestador de Servicios Turísticos: La persona física o jurídica que habitualmente proporcione, intermedie o contrate con el turista la prestación de servicios a que se refiere la fracción anterior;
 
-VI. Zonas Turísticas: Son aquellas áreas desarrolladas o destinadas principalmente para la actividad turística y la prestación de servicios turísticos, incluyendo zonas arqueológicas o sitios históricos;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+VI. Zonas turísticas son aquellas áreas desarrolladas o destinadas principalmente para la actividad turística y la prestación de servicios turísticos, incluyendo zonas arqueológicas, sitios históricos, reservas naturales y áreas de conservación;
 
 VII. Zonas de Desarrollo Turístico Prioritario: Son aquellas áreas, municipios o regiones que por sus circunstancias geográficas o características sociales constituyen un atractivo turístico y que son susceptibles de recibir promoción y desarrollo turístico prioritario;
 
@@ -147,7 +149,9 @@ La Planeación del Desarrollo de la actividad turística en el Estado estará a 
 
 En la planeación del desarrollo turístico, así como en el Programa Estatal de Turismo, se tomarán en cuenta los siguientes aspectos:
 
-I. El aprovechamiento eficiente y racional de los recursos naturales y culturales, salvaguardando el equilibrio ecológico y el patrimonio histórico de conformidad con las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+I. El aprovechamiento eficiente, sustentable y racional de los recursos naturales y culturales, salvaguardando el equilibrio ecológico y el patrimonio histórico de conformidad con las disposiciones legales aplicables;
 
 II. Los programas turísticos deberán prever acciones encaminadas al óptimo aprovechamiento de los principales atractivos turísticos del Estado, así como las medidas que servirán para su amplia difusión en el ámbito local, nacional e internacional; y
 
@@ -157,9 +161,11 @@ III. El desarrollo turístico se fundará esencialmente en la coordinación de a
 
 La Secretaría llevará a cabo todas las acciones, estrategias y esfuerzos que sean necesarios para lograr los objetivos que se hayan fijado en el Programa Estatal de Turismo.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 8.
 
-La Secretaría promoverá y participará en los acuerdos que celebre el Ejecutivo del Estado, con los prestadores de servicios turísticos. Asimismo, tratándose de la difusión de los valores artísticos, históricos y arqueológicos, el Ejecutivo Estatal, podrá suscribir los convenios necesarios a nivel nacional.
+La Secretaría promoverá y participará en los acuerdos que celebre el Ejecutivo del Estado, con los prestadores de servicios turísticos. Asimismo, tratándose de la difusión de los valores artísticos, históricos, ecológicos y arqueológicos, el Ejecutivo Estatal, podrá suscribir los convenios necesarios a nivel nacional.
 
 ###### Artículo 9.
 
@@ -327,9 +333,11 @@ IX. Las demás que señale el reglamento.
 
 ### CAPITULO III. Del Turismo Social
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 28.
 
-La Secretaría realizará programas en los que se promueva el turismo social, tomando en cuenta la realidad y las necesidades de los distintos grupos sociales como estudiantes, trabajadores, jubilados, pensionados, adultos mayores, de comunidades que presenten un rezago económico y cultural y otros similares, con el objeto de lograr el acceso de estos grupos a lugares de interés turístico.
+La Secretaría realizará programas en los que se promueva el turismo social, tomando en cuenta la realidad y las necesidades de los distintos grupos sociales como estudiantes, trabajadores, jubilados, pensionados, adultos mayores, personas con discapacidad, de comunidades que presenten un rezago económico y cultural y otros similares, con el objeto de lograr el acceso de estos grupos a lugares de interés turístico.
 
 ###### Artículo 29.
 
@@ -343,9 +351,13 @@ Para garantizar lo establecido en el párrafo precedente la Secretaría gestiona
 
 Este tipo de actividad promoverá la preservación y conservación de los recursos naturales, garantizando la permanencia de los procesos biológicos y ecológicos, así como las diversas expresiones históricas, artísticas y culturales.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 31.
 
-Se promoverá de manera especial la educación ambiental del turista y de los residentes locales, fomentando la práctica y desarrollo de una actividad turística ecológica a través de convenios celebrados con las dependencias públicas competentes.
+Se promoverá de manera especial la educación ambiental del turista y de los residentes locales, mediante la práctica y desarrollo de una actividad turística ecológica a través de convenios celebrados con las dependencias públicas competentes.
+
+Asimismo, en la construcción de complejos turísticos, se fomentará la utilización de materiales que no dañen el medio ambiente.
 
 ###### Artículo 32.
 
@@ -512,3 +524,15 @@ LIC. HÉCTOR PÉREZ PLAZOLA
 P.O. 16 DE OCTUBRE DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco". La publicación oficial contendrá la exposición de motivos de la presente ley.
+
+P.O. 25 DE DICIEMBRE DE 2004.
+
+DECRETO 20871 QUE REFORMA EL ARTICULO 28.
+
+ÚNICO. El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco". La publicación oficial contendrá la exposición de motivos de la presente ley.
+
+P.O. 25 DE DICIEMBRE DE 2004.
+
+DECRETO 20872 QUE REFORMA DIVERSOS ARTICULOS.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
