@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-salud-21365"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2000-10-05"
+last_updated: "2004-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 LEY ESTATAL DE SALUD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSI, PUBLICADA EN EL PERIODICO OFICIAL EL 23 DE DICIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 5 de octubre de 2000.
 
@@ -2820,3 +2822,19 @@ El Secretario General de Gobierno
 LIC. JUAN CARLOS BARRON CERDA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE DICIEMBRE DE 2004.
+
+PRIMERO. La presente Ley entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley Estatal de Salud, publicada como Decreto No. 576 de la LV Legislatura, en el Periódico Oficial del Estado, el cinco de octubre de dos mil.
+
+TERCERO. Las disposiciones reglamentarias de esta Ley se expedirán dentro del plazo de noventa días, a partir de la entrada en vigor del mismo Ordenamiento; en tanto seguirán en vigor las que rigen actualmente, en lo que no la contravengan.
+
+CUARTO. Las autorizaciones sanitarias que se hayan expedido con anterioridad a la fecha de entrada en vigor de la presente Ley, serán válidas hasta su vencimiento. Las autorizaciones sanitarias que se expidan a partir de la vigencia de esta Ley, se otorgarán de acuerdo a sus disposiciones.
+
+QUINTO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+SEXTO. Todos los actos, procedimientos y recursos administrativos relacionados con la materia de esta Ley, que se hayan iniciado bajo la vigencia de la ley que se abroga, se tramitarán y resolverán conforme a las disposiciones de la misma.
