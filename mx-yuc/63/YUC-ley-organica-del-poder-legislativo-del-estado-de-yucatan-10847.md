@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-legislativo-del-estado-de-yucatan-10847"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-02-24"
-last_updated: "1988-02-24"
+last_updated: "1988-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 1988.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 24 de febrero de 1988.
 
@@ -51,9 +51,11 @@ El ejercicio del Poder Legislativo se deposita en una Asamblea de Representantes
 
 El Congreso tendrá la organización y funcionamiento que establecen la Constitución Política del Estado, esta Ley y las disposiciones que se deriven de la misma. La presente Ley y sus reformas y adiciones no necesitarán de promulgación del Ejecutivo del Estado, ni podrán ser objeto de veto. Para reformar algún artículo de la misma la proposición relativa deberá someterse precisamente a todos los trámites en ella señalados.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 4.
 
-La Legislatura tendrá su residencia en la Capital del Estado y celebrará sus sesiones en el Recinto Sede del Poder Legislativo, no pudiendo trasladarse provisionalmente a otro punto, sin que para ello estén de acuerdo por lo menos las dos terceras partes de los Diputados presentes.
+La Legislatura tendrá su residencia en la Capital del Estado y celebrará sus sesiones en el Recinto Sede del Poder Legislativo, no pudiendo trasladarse provisionalmente a otro sitio, requiriendo para ello del acuerdo de las dos terceras partes de los Diputados presentes y se cumpla con lo previsto en el artículo 90 de esta Ley.
 
 ###### ARTICULO 5.
 
@@ -183,9 +185,11 @@ Una vez que se haya realizado la calificación a que se refiere el artículo pre
 
 ### CAPITULO UNICO. DE LA INSTALACION DEL CONGRESO
 
+> <small>(REFORMADO PRIMER PARRAFO D.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 27.
 
-Para la instalación del Congreso, los Diputados electos se reunirán el día uno de enero, presididos por la Mesa del Colegio Electoral; y procederán en la forma siguiente:
+Para la instalación del Congreso, los Diputados electos se reunirán el día 4 de enero, presididos por la Mesa Directiva del Colegio Electoral; y procederá en la forma siguiente:
 
 I.- El Presidente de la Mesa Directiva del Colegio Electoral pedirá al Secretario de la misma, proceda a dar lectura a la lista de los Diputados que hayan resultado electos y comprobará que se tiene la concurrencia que prescribe el artículo 26 de la Constitución Política del Estado;
 
@@ -201,17 +205,23 @@ Igual protesta están obligados a otorgar cada uno de los Diputados propietario 
 
 III.- El Presidente invitará a los Diputados a elegir la Mesa Directiva, en escrutinio secreto y por mayoría de votos, de acuerdo con lo dispuesto por el artículo 38 de esta Ley; y
 
-IV.- Dado a conocer el resultado de la votación por el Secretario de la Mesa Directiva del Colegio Electoral, el Presidente declarará que el Colegio ha concluido sus funciones. Los elegidos pasarán a ocupar sus sitios en el presidium y el Presidente de la Mesa Directiva del Congreso, pedirá a los Diputados ponerse de pie y dirá en voz alta: "La (número ordinal que corresponda) Legislatura del Estado de Yucatán, se declara legítimamente constituida e instalada y abre hoy uno de enero (año que corresponda) su Primer Periodo Ordinario de Sesiones, correspondientes al primer año de su Ejercicio Constitucional".
+> <small>(REFORMADA D.O. 31 DE DICIEMBRE DE 1988)</small>
 
-Esta instalación se comunicará a los Poderes de la Federación, a los del Estado y a las Legislaturas de las otras Entidades Federativas. Igual participación se hará cada vez que el Congreso inaugure un periodo Ordinario o Extraordinario de Sesiones.
+IV.- Dado a conocer el resultado de la votación por el Secretario de la Mesa Directiva del Colegio Electoral, el Presidente declarará que el Colegio ha concluido sus funciones. Los elegidos pasarán a ocupar sus sitios en el Presidium y el Presidente de la Mesa Directiva del Congreso, pedirá a los diputados ponerse de pie y dirá en voz alta: "La (número ordinal que corresponda) Legislatura del Estado de Yucatán, se declara legítimamente constituida".
+
+Esta instalación se publicará en el Diario Oficial del Gobierno del Estado y se comunicará a los Poderes Federación, a los del Estado y a las Legislaturas de las otras Entidades Federativas. Igual participación se hará cada vez que el Congreso inaugure un periodo Ordinario o Extrardinario de Sesiones.
 
 ## TITULO CUARTO. DE LOS DIPUTADOS
 
 ### CAPITULO I. FACULTADES Y OBLIGACIONES DE LOS DIPUTADOS
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 28.
 
-Los Diputados asistirán con toda puntualidad a las sesiones y permanecerán en ellas hasta que terminen, tomando asiento sin preferencia de lugar y guardando el decoro que corresponde a sus funciones, reputándose como falta el hecho de presentarse a ellas después de que se haya dado lectura al Orden del Día.
+Los Diputados deberán asistir con toda puntualidad a las sesiones, permanecer en ellas hasta que terminen, tomar asiento sin preferencia de lugar y guardar el decoro que corresponde a sus funciones.
+
+Se reputará como falta de asistencia el no estar presente al pasarse la lista de la misma o cuando se lleve a cabo alguna votación.
 
 ###### ARTICULO 29.
 
@@ -243,7 +253,7 @@ III.- Por motivos de fuerza mayor.
 
 ###### ARTICULO 32.
 
-Una vez declarado que ha lugar a formación de causa contra un Diputado, quedará éste suspenso en el ejercicio de sus funciones, y se llamará al suplente respectivo, quien gozará de la dieta señalada al propietario desde que aquél entre en sus funciones. Este percibirá la mitad de la dieta hasta que se pronuncie el veredicto de culpabilidad; pero si este fuere absolutorio, se le reintegrará la parte que dejó de percibir, acordándose por el Congreso lo necesario para el cumplimiento de esta disposición.
+Una vez declarado que ha lugar a formación de causa contra un Diputado, quedará éste suspenso en el ejercicio de sus funciones, y se llamará al suplente respectivo, quien gozará de la dieta señalada al propietario desde que aquél entre en sus funciones. Este percibirá la mitad de la dieta hasta que se pronuncie el veredicto de culpabilidad; pero si éste fuere absolutorio, se le reintegrará la parte que dejó de percibir, acordándose por el Congreso lo necesario para el cumplimiento de esta disposición.
 
 ###### ARTICULO 33.
 
@@ -369,15 +379,21 @@ VIII.- Proporcionar a las Comisiones toda la información necesaria para la elab
 
 IX.- Registrar y controlar el número de expedientes en Poder de los Diputados presentes y de las Comisiones de Dictamen, e informar de ello oportunamente al Presidente de la Legislatura; y
 
+> <small>(REFORMADA D.O. 31 DE DICIEMBRE DE 1988)</small>
+
 X.- Dar cuenta la Legislatura con los asuntos que se presenten a la Secretaría en el orden siguiente:
 
-a) Minuta del acta de la sesión anterior.
+a) Acta de la sesión anterior para su aprobación.
 
-b) Comunicaciones Oficiales del Ejecutivo, Tribunal Superior de Justicia y de la Contaduría Mayor de Hacienda, así como de los Poderes Federales, Estatales y de los Ayuntamientos.
+b) Comunicaciones oficiales del Ejecutivo, Tribunal Superior de Justicia y de la Contaduría Mayor de Hacienda, así como de los Poderes Federales, Estatales y de los Ayuntamientos.
 
-c) Con los dictámenes formulados por las Comisiones respectivas.
+c) Iniciativas del Ejecutivo, del Tribunal Superior de Justicia en los asuntos de su ramo, de los Ayuntamientos y Consejos Municipales, tratándose de asuntos inherentes a los mismos y de los Diputados, quienes deben hacerlas llegar a la Secretaría cuando menos con veinticuatro horas de anticipación.
 
-d) Discusión de dictámenes de acuerdo con el orden que se les haya señalado; y
+d) Con los dictámenes formulados por las Comisiones respectivas.
+
+e) Discusión de dictámenes de acuerdo con el orden que se les haya señalado.
+
+f) Asuntos generales, los cuales quedan excluidos en las sesiones ordinarias señalados en el párrafo tercero del artículo 76; y
 
 XI.- Las demás que le señale esta ley.
 
@@ -551,7 +567,17 @@ X.- Corrección de Estilo.
 
 Las atribuciones de aquéllas serán las siguientes:
 
-a) Legislación, Puntos Constitucionales y Gobernación, tendrán como atribuciones el estudio y dictamen sobre los proyectos de Ley que se presenten en los términos de la Constitución Política del Estado y de esta Ley; iniciativas presentadas en los mencionados términos que se refieran a disposiciones Contenidas tanto en la Constitución General de la República como la particular del Estado y cuestiones que se refieran a hechos puramente administrativos del Gobierno del Estado y de los Ayuntamientos, así como los concernientes a todos los asuntos electorales.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
+
+a) Legislación, Puntos Constitucionales y Gobernación, y Asuntos Electorales, tendrá como atribuciones:
+
+1.- El estudio y dictamen sobre los proyectos de Ley que se presenten en los términos de la Constitución Política del Estado y de esta Ley.
+
+2.- Iniciativas presentadas en los mencionados términos que se refieran a disposiciones contenidas tanto en la Constitución General de la República como la particular del Estado y cuestiones que se refieran a hechos puramente administrativos del Gobierno del Estado y de los Ayuntamientos.
+
+3.- La elaboración de iniciativas-dictámenes para adecuar los preceptos de las Constituciones Federal y Estatal a las Leyes locales o sobre disposiciones legales cuya observancia tengan carácter de urgente y sean de interés público, en este último caso deberá cumplirse con lo dispuesto en el párrafo final del artículo 102 de esta Ley; y
+
+4.- Todos los asuntos electorales.
 
 b).- Hacienda Pública, Inspección de la Contaduría Mayor de Hacienda, y Patrimonio Estatal y Municipal. Esta Comisión dictaminará sobre las cuestiones de tipo económico que se presenten a la consideración del Congreso, sobre las inspecciones que realice la Contaduría Mayor de Hacienda, y en los asuntos que afecten de alguna forma el patrimonio del Estado y sus Municipios.
 
@@ -623,9 +649,19 @@ Son además atribuciones de la Diputación Permanente las consignadas en el art�
 
 ### CAPITULO I. DE LA INICIACION Y PERIODOS DE SESIONES
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 76.
 
-El Congreso tendrá cada año dos períodos de sesiones ordinarias prorrogables por el tiempo que, según las necesidades del servicio público, acuerde el Congreso. El primero comenzará el día uno de Enero y terminará el treinta y uno de Marzo; y el segundo comenzará el día uno de Julio y concluirá el treinta de Septiembre.
+El Congreso tendrá cada año tres períodos de sesiones ordinarias. El primero a partir del 5 de enero; el segundo a partir del 16 de mayo y el tercero a partir del 16 de octubre.
+
+Cada periodo de sesiones ordinarias durará el tiempo que sea necesario para tratar todos los asuntos que se le presenten, pero el primero no podrá prolongarse más que hasta el 28 de febrero, el segundo hasta el 15 de julio y el tercero hasta el 31 de diciembre del año que corresponda.
+
+En las sesiones ordinarias de apertura del primer periodo del Congreso de cada uno de los cinco primero años del ejercicio del Ejecutivo y en la que se celebre el segundo domingo de diciembre del sexto año del mismo, asistirá el Gobernador del Estado, a presentar un informe por escrito en el que manifieste el estado general que guarda la administración pública de la Entidad.
+
+El Presidente del Congreso contestará a dicho informe en términos generales. En las sesiones de apertura únicamente se dará cumplimiento a lo dispuesto en el artículo 80 de esta Ley.
+
+El informe será analizado por el Congreso en reuniones subsecuentes.
 
 ###### ARTICULO 77.
 
@@ -639,13 +675,17 @@ Las sesiones ordinarias o extraordinarias serán públicas y se celebrarán en l
 
 Habrá sesiones secretas en los casos extraordinarios cuando los asuntos que hayan de tratarse exijan reserva a juicio del Presidente o de la mayoría de los Diputados.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 80.
 
-Al abrirse la primera sesión de un período, el Presidente o en su caso el Vicepresidente hará la declaración respectiva en los siguientes términos: "El Congreso del Estado Libre y Soberano de Yucatán abre hoy el (aquí el número de orden del periodo que corresponda) Periodo (Ordinario o Extraordinario) de Sesiones correspondientes al (primero, segundo o tercer) año de su Ejercicio Constitucional". Al pronunciarse estas palabras los concurrentes deberán estar de pie.
+Al abrirse la primera sesión de un período, el Presidente o en su caso el Vicepresidente hará la declaración respectiva en los siguientes términos: "La (número ordinal que corresponda) Legislatura del Estado de Yucatán abre hoy su (Primer, Segundo o Tercer) Período (Ordinario o Extraordinario) de sesiones, correspondientes al (Primer, Segundo o Tercer) año de su Ejercicio Constitucional". Al pronunciarse estas palabras los concurrentes deberán estar de pie.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 81.
 
-En la sesión inaugural de cada período se dará lectura a las actas levantadas con motivo de la última sesión celebrada por la Diputación Permanente, por la Junta Previa para la elección de la Mesa Directiva y por el propio Congreso en el período inmediato anterior y deberán ser discutidas y aprobadas en su caso a mayoría de votos de los Diputados que integran el Quórum.
+Salvo lo que disponen el tercer y cuarto párrafo del artículo 76 de esta Ley, en la sesión inaugural de cada periodo se dará lectura a las actas levantadas con motivo de la última sesión celebrada por la Diputación Permanente, por la Junta Previa para la elección de la Mesa Directiva y por el propio Congreso en el periodo inmediato anterior y deberán ser discutidas y aprobadas en su caso a mayoría de votos de los Diputados que integran el quórum.
 
 ### CAPITULO II. DEL CEREMONIAL
 
@@ -703,9 +743,11 @@ Al concluir la sesión final de cualquier período, el Presidente pondrá a disc
 
 De la apertura y clausura de todo período de sesiones, se comunicará al Ejecutivo del Estado, al Tribunal Superior de Justicia, a la Secretaría de Gobernación, a las Cámaras del Congreso de la Unión y a las Legislaturas de los Estados.
 
+REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)
+
 ###### ARTICULO 94.
 
-El Congreso en la clausura de sus sesiones ordinarias, hará por voz del Presidente la declaración que sigue: "El (aquí el número de orden) Congreso Constitucional del Estado Libre y Soberano de Yucatán, cierra hoy (aquí la fecha) el (aquí el número de orden) Periodo de sus Sesiones Ordinarias correspondientes al (aquí el número de orden de su Ejercicio)".
+El Congreso en la clausura de sus sesiones, hará por voz del Presidente la declaración siguiente debiendo los concurrentes estar de pie: "La (número ordinal que corresponda) Legislatura del Estado de Yucatán, clausura hoy su (Primer, Segundo o Tercer) Período (Ordinario o Extraordinario) de sesiones, correspondientes al (Primer, Segundo o Tercer) año de su Ejercicio Constitucional".
 
 ## TITULO SEXTO. DE LOS PROYECTOS Y REFORMAS, DE LEYES, DECRETOS Y DEMAS RESOLUCIONES DEL CONGRESO
 
@@ -715,9 +757,11 @@ El Congreso en la clausura de sus sesiones ordinarias, hará por voz del Preside
 
 El derecho de iniciar leyes corresponde a las personas y órganos a que se refiere el artículo 35 de la Constitución Política del Estado de Yucatán.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 96.
 
-Las iniciativas provenientes del Ejecutivo del Estado, del Tribunal Superior de Justicia y de los Ayuntamientos o Consejos Municipales, en los asuntos de su ramo se turnarán a las Comisiones que correspondan, de conformidad con lo establecido con el artículo 36 de la Constitución Política del Estado, para su estudio y dictamen, que deberán formular en su caso dentro de los diez días siguientes en que las hayan recibido.
+Las iniciativas provenientes del Ejecutivo del Estado, del Tribunal Superior de Justicia y de los Ayuntamientos o de los Concejos Municipales, en los asuntos de su ramo se turnarán a las Comisiones que correspondan, de conformidad con lo establecido en el artículo 36 de la Constitución Política del Estado. Pasarán también inmediatamente a Comisiones las iniciativas presentadas por uno o más Diputados.
 
 ###### ARTICULO 97.
 
@@ -741,9 +785,11 @@ El Congreso por vía de acuerdo puede además aprobar votos de censura o de apro
 
 ### CAPITULO II. DE LA FORMA Y NATURALEZA DE LOS DICTAMENES
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 100.
 
-Las comisiones a las que se turnen las iniciativas, rendirán su dictamen al Congreso por escrito, dentro de los diez días siguientes al que los hayan recibido. Estas podrán recabar de las oficinas públicas que funcionan en el Estado, todas las informaciones que se estimen convenientes, bien sea por escrito o mediante la comparecencia de sus titulares, en el Recinto del Congreso.
+Las Comisiones a las que se turnen las iniciativas, rendirán su dictamen al Congreso por escrito, dentro de los quince días siguientes al que los haya recibido. Estas podrán recabar de las oficinas públicas que funcionan en el Estado, todas las informaciones que se estimen convenientes, bien sea por escrito o mediante la comparecencia de sus titulares, en el Recinto del Congreso.
 
 Cuando se discuta una Ley o se estudie un negocio, relativo al Poder Ejecutivo del Estado, el Congreso podrá citar a los titulares de las dependencias del ramo de que se trate, para que informen o en forma respetuosa dirigirse al Ejecutivo.
 
@@ -797,9 +843,13 @@ III.- Las peticiones presentadas por los Diputados tendrán los mismos trámites
 
 IV.- Las iniciativas presentadas por el Gobernador del Estado, por el Tribunal Superior de Justicia y por los Ayuntamientos, pasarán desde luego a la Comisión respectiva. Igualmente pasarán desde luego a la Comisión respectiva, las cuentas que remita para su revisión, la Contaduría Mayor de Hacienda del Estado;
 
-V.- Todos los Proyectos de Ley, Decreto o Acuerdo que presenten uno o más Diputados, deberán firmarse por su autor o autores y concebirse en términos claros y precisos. Se exceptúan de todo lo dispuesto en este artículo las proposiciones que surjan en el curso de la discusión, siempre que impliquen una simple modificación al Proyecto.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 1988)</small>
 
-VI.- Dichas proposiones (sic) o Proyectos tendrán dos lecturas en diferentes sesiones: en la primera sesión expondrá su autor o autores de palabra o por escrito, los fundamentos en que la apoyan y en la segunda sesión podrán hablar una sola vez dos Diputados: Uno en favor y otro en contra, prefiriéndose al autor de la proposición.
+V.- Todos los Proyectos de Ley, Decreto o Acuerdo que presenten uno o más Diputados, deberán firmarse por su autor o autores y concebirse en términos claros y precisos y ser presentados a la Secretaría o a la Oficialía Mayor del Congreso cuando menos un día anterior a la sesión.
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 1988)</small>
+
+VI.- Los Proyectos de Ley o Decreto, pasarán desde luego a Comisiones. Las proposiciones de Acuerdo, tendrán dos lecturas en diferentes sesiones: en la primera sesión expondrá su autor o autores de palabra o por escrito, los fundamentos en que la apoyan y en la segunda sesión podrá hablar una sola vez dos diputados: uno en favor y otro en contra, prefiriéndose al autor de la proposición.
 
 VII.- Inmediatamente se votará nominalmente si se admite o no a discusión: En el primer caso, pasará a la Comisión o Comisiones respectivas y en el segundo caso quedará desechada.
 
@@ -975,7 +1025,9 @@ Cada miembro del Congreso, comenzando por el Secretario situado a la izquierda d
 
 II.- El Secretario situado a la derecha del Presidente anotará a los que voten en favor o en contra; y
 
-III.- Concluido este acto, el mismo Secretario preguntará en voz alta, dos veces si falta algún miembro del Congreso por votar, y no habiéndolo votarán el Presidente, y el Secretario.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 1988)</small>
+
+III.- Concluido este acto, el mismo Secretario preguntará en voz alta, si falta algún miembro del Congreso por votar, y no habiéndolo votarán el Presidente y el Secretario.
 
 El Secretario hará enseguida el cómputo de votos y leerá los que hubieren votado en favor y en contra, después dirá el número total de cada lista.
 
@@ -1166,3 +1218,11 @@ LIC. JOSE E. PACHECO DURAN.
 D.S.
 
 PROFR. ALBERTO ESCAMILLA GONGORA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 31 DE DICIEMBRE DE 1988.
+
+PRIMERO.- Por esta única vez la "LII" Legislatura se instalará el día 1º de enero de 1991 y concluirá su Periodo Constitucional el 4 de enero de 1994.
+
+SEGUNDO.- Este Decreto entrará en vigor, al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
