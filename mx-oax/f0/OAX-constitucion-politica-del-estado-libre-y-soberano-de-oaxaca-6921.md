@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1993-10-02"
+last_updated: "1994-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 1994.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -75,45 +75,41 @@ En los juicios del orden criminal queda prohibido imponer por simple analogía y
 
 En el Estado, jamás se expedirá ley que imponga penas a personas determinadas, que pretenda surtir efecto retroactivo en perjuicio de alguien, que decrete la infamia de un hombre, una familia o una clase, o que establezca la confiscación de bienes o multas excesivas, entendiéndose por una y otras, las que afecten al patrimonio de familia.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1994)</small>
 
-###### ARTICULO 7°.
+###### ARTICULO 7.
 
-Toda persona, desde el momento en que es detenida, tiene derecho a conocer la causa de su detención y a ser asistida por un defensor de su confianza, todo lo cual le será facilitado desde luego por la autoridad ejecutora:
+Ninguna detención ante autoridad judicial podrá exceder del término de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de formal prisión y siempre que de lo actuado aparezcan datos suficientes que acrediten los elementos del tipo penal del delito que se le impute y hagan probable su responsabilidad. La prolongación de la detención en perjuicio del indiciado será sancionada por la ley penal
 
-I.- Si la detención es resultado de una orden de aprehensión, será puesta a disposición del Juez que la libró, dentro de las 24 horas siguientes y ésta autoridad a más tardar dentro de 72 horas, resolverá su situación jurídica. Si le decretase auto de formal prisión, o de sujeción a proceso, tal resolución deberá contener: el nombre de la persona denunciante o querellante; los elementos constitutivos de estos; lugar, tiempo y circunstancias de ejecución, así como todos los datos que arroje la averiguación previa, los que deben ser bastantes para comprobar el cuerpo del delito o delitos y hacer probable la responsabilidad del inculpado.
+Si al vencerse el término señalado en el párrafo primero de este artículo, el Alcaide o custodios del lugar en que se realiza la detención, no han recibido copia autorizada del auto de formal prisión, deberán llamar la atención del Juez sobre dicho particular en el acto mismo de concluir el término, y si no reciben copia certificada de dicho auto de formal prisión dentro de las tres horas siguientes, pondrán al indiciado en libertad.
 
-II.- En caso de delito infraganti, el detenido será puesto a disposición del ministerio Público, para los efectos concernientes a su investidura, dentro de un plazo de 24 horas.
+Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de formal prisión o de sujeción a proceso. Si en la secuela de un proceso apareciere que se ha cometido un delito distinto al que se persigue, deberá ser objeto de consignación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
 
-> <small>(REFORMADA, P.O. 25 DE MAYO DE 1985)</small>
+Si la detención es resultado de infracciones a los Reglamentos gubernativos y de policía, serán calificadas de inmediato, y, en su caso, sancionadas con multas no mayor a la retribución que el infractor perciba en un día de trabajo, la cual se permutará por arresto hasta de treinta y seis horas, si no fuere pagada.
 
-III.- Si la detención es resultado de infracciones a los reglamentos gubernativos y de Policía, serán calificadas de inmediato y, en su caso, sancionadas con multas no mayor a la retribución que el infractor perciba en un día de trabajo, la cual se permutará por arresto hasta de 36 horas, si no fuere pagada.
-
-IV.- Si al vencer los términos señalados en las fracciones anteriores, el Alcaide o encargado del lugar en que se realice la detención, no ha recibido copia del auto de formal prisión o de la resolución administrativa correspondiente, pondrá en libertad al detenido y lo comunicará a su superior jerárquico para los efectos legales procedentes.
-
-El desacato a estas reglas, hace responsable a las autoridades que ordenen, consientan o ejecuten la determinación.
-
-V.- Todo proceso se seguirá forzosamente por el delito o delitos señalados en los autos de formal prisión o de sujeción a proceso. Si en la secuela del procedimiento apareciere la comisión de un delito distinto del que se persigue, deberá ser objeto de acusación separada.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 1949)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 1994)</small>
 
 ###### ARTICULO 8°.
 
-En todo juicio del orden criminal, tendrá el acusado las siguientes garantías:
+En todo proceso del orden penal, tendrá el inculpado las siguientes garantías:
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 1949)</small>
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1994)</small>
 
-I. Inmediatamente que lo solicite será puesto en libertad bajo fianza que fijará el juez tomando en cuenta sus circunstancias personales y la gravedad del delito que se le impute, siempre que dicho delito merezca ser castigado con pena cuyo término medio aritmético no sea mayor de cinco años de prisión y, sin más requisito que poner la suma de dinero respectiva, a disposición de la autoridad u otorgar caución hipotecaria o personal bastante para asegurarla, bajo la responsabilidad del juez en su aceptación.
+I.- Inmediatamente que lo solicite, el Juez deberá otorgarle la libertad provisional bajo caución, siempre y cuando se garantice el monto estimado de la reparación del daño y de las sanciones pecuniarias que en su caso puedan imponerse al inculpado y no se trate de delitos en que por su gravedad la ley expresamente prohiba conceder este beneficio.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+El monto y la forma de caución que se fije deberán ser asequibles para el inculpado. En circunstancias que la ley determine, la autoridad judicial podrá disminuir el monto de la caución inicial.
 
-La Ley fijará el limite de la caución, pero e los casos de un delito que represente para su autor un beneficio económico o cause un daño patrimonial a la víctima, la garantía será cuando menos, tres veces mayor al beneficio obtenido o al daño ocasionado;
+El Juez podrá revocar la libertad provisional cuando el procesado inculpa en forma grave con cualquiera de las obligaciones que en términos de ley se deriven a su cargo en razón del proceso;
 
-II. No podrá ser compelido a declarar en su contra, por lo cual queda rigurosamente prohibida toda incomunicación o cualquier otro medio que tienda a aquel objeto;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1994)</small>
+
+II.- No podrá ser obligado a declarar. Queda prohibida y será sancionada por la ley penal, toda incomunicación, intimidación o tortura. La confesión rendida ante cualquier autoridad distinta del Ministerio Público o del Juez, o ante éstos sin la asistencia de su defensor carecerá de todo valor probatorio;
 
 III. Se le hará saber en audiencia pública y dentro de las cuarenta y ocho horas siguientes a su consignación a la justicia, el nombre de su acusador y la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo, rindiendo en este acto su declaración preparatoria;
 
-IV. Será careado con los testigos que depongan en su contra, los que declararán en su presencia, si estuvieren en el lugar del juicio, para que pueda hacerles todas las preguntas conducentes a su defensa;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1994)</small>
+
+IV.- Siempre que lo solicite, será careado en presencia del Juez, con quienes depongan en su contra;
 
 V. Se le recibirán los testigos y demás pruebas que ofrezca, concediéndosele el tiempo que la ley estime necesario al efecto y auxiliándosele para obtener la comparecencia de las personas cuyo testimonio solicite, siempre que se encuentren en el lugar del proceso;
 
@@ -121,13 +117,25 @@ VI. Será juzgado en audiencia pública por un juez o jurado de ciudadanos que s
 
 VII. Le serán facilitados, en cualquier tiempo, todos los datos que solicite para su defensa y que consten en el proceso;
 
-VIII. Será juzgado antes de tres meses, si se tratare de delitos cuya pena máxima no exceda de dos años de prisión; y antes de seis meses, si la pena máxima excediere de este tiempo;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1994)</small>
 
-IX. Se le oirá en defensa por sí o por personas de su confianza o por uno y otras, según su voluntad. En caso de no tener quien lo defienda, se le presentará lista de los defensores de oficio para que elija el que o los que le convengan. Si el acusado no quiere nombrar defensores después de ser requerido para hacerlo, al rendir su declaración preparatoria, el juez le nombrará uno de oficio. El acusado podrá nombrar defensores desde el momento en que sea aprehendido, y tendrá derecho a que éstos se hallen presentes en todos los actos del juicio; pero estará obligado a hacerlos comparecer cuantas veces se necesite;
+VIII.- Será juzgado antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena excediera de ese tiempo, salvo que solicite mayor plazo para su defensa;
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1994)</small>
+
+IX.- Desde el inicio de su proceso será informado de los derechos que en su favor consigna esta Constitución y tendrá derecho a una defensa adecuada, por sí, por abogado o por persona de su confianza. Si no quiere o no puede nombrar defensor, después de haber sido requerido para hacerlo, el Juez le designará un defensor de oficio. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se le requiera;
 
 X. En ningún caso podrá prolongarse la prisión o detención, por falta de pago de honorarios de defensores o por cualquiera otra prestación de dinero, por causa de responsabilidad civil o algún otro motivo análogo.
 
 Tampoco podrá prolongarse la prisión preventiva por más tiempo del que como máximo fije la ley al delito que motivare el proceso. En toda pena de prisión que imponga una sentencia, se computará el tiempo de la detención.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE FEBRERO DE 1994)</small>
+
+Las garantías previstas en las fracciones V, VII y IX también serán observadas durante la averiguación previa en los términos y con los requisitos y límites que las leyes establezcan; lo previsto en las fracciones I y II no estarán sujetas a condición alguna.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE FEBRERO DE 1994)</small>
+
+En todo proceso penal, la víctima o el ofendido por algún delito, tendrá derecho a recibir asesoría jurídica, a que se le satisfaga la reparación del daño cuando proceda, a coadyuvar con el Ministerio Público, a que se le preste atención médica de urgencia cuando la requiera, y los demás que señalen las leyes.
 
 ###### ARTICULO 9°.
 
@@ -237,9 +245,11 @@ El Estado promoverá lo necesario para que la población tenga acceso a una vivi
 
 Ninguna ley ni autoridad podrá limitar el derecho de petición, con tal que ésta se formule por escrito, de manera pacífica y respetuosa. En asuntos políticos, sólo podrán ejercerlo los ciudadanos de la República. La autoridad a quien se dirija la petición tiene la obligación de contestarla por escrito en el término de diez días, cuando la ley no fije otro, y hacer llegar desde luego su respuesta al peticionario.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 1994)</small>
+
 ###### ARTICULO 14.
 
-Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento. Ninguna orden de aprehensión o detención podrá librarse, a no ser por la autoridad judicial, sin que preceda denuncia, acusación o querella de un hecho determinado que la ley castigue con pena corporal, y sin que estén apoyadas aquellas por declaración, bajo protesta, de persona digna de fe o por otros datos que hagan probable la responsabilidad del inculpado, hecha excepción de los casos de infraganti delito, en que cualquiera persona puede aprehender al delincuente y a sus cómplices, poniéndolos sin demora a disposición de la autoridad inmediata. Solamente en casos urgentes, cuando no haya en el lugar alguna autoridad judicial, y tratándose de delitos que se persiguen de oficio, podrá la autoridad administrativa, bajo su más estrecha responsabilidad, decretar la detención de un acusado, poniéndolo inmediatamente a disposición de la autoridad judicial.
+Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente que funde y motive la causa legal del procedimiento. No deberá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia, acusación o querella de un hecho determinado que la ley señale como delito, sancionado cuando menos con pena privativa de libertad y existan datos que acrediten los elementos que integran el tipo penal y la probable responsabilidad del indiciado. La autoridad que ejecute una orden judicial de aprehensión, deberá poner al inculpado a disposición del Juez, sin dilación alguna y bajo su más estricta responsabilidad. La contravención a lo anterior será sancionada por la ley penal. En los casos de delito flagrante, cualquier persona puede detener al inculpado poniéndolo, sin demora a disposición de la autoridad inmediata y ésta, con la misma prontitud, a la del Ministerio Público. Sólo en casos urgentes, cuando se trate de delito grave así calificado por la ley y ante el riesgo fundado de que el inculpado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público podrá, bajo su más estricta responsabilidad, ordenar la detención de un acusado, fundando y expresando los indicios que motiven su proceder. En caso de urgencia o flagrancia, el Juez que recibe la consignación del detenido deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de ley. Ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponerse a disposición de la autoridad judicial; este plazo podrá duplicarse en aquellos casos que la ley prevea como delincuencia organizada. Todo abuso a lo anteriormente dispuesto será sancionado por la ley penal.
 
 En toda orden de cateo, que sólo la autoridad judicial podrá expedir y que será escrita, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos que se buscan; a lo que únicamente debe limitarse la diligencia, levantándose al concluirla, una acta circunstanciada en presencia de dos testigos propuestos por el ocupante del lugar cateado, o en su ausencia o negativa, por la autoridad que practique la diligencia.
 
@@ -343,7 +353,9 @@ Compete a la Autoridad Administrativa la aplicación de las sanciones por las in
 
 Son obligaciones de los habitantes del Estado:
 
-I. Hacer que sus hijos o pupilos concurran a las escuelas públicas o particulares, para recibir la educación primaria elemental, durante el tiempo que señale la ley de la materia;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1994)</small>
+
+I. Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas, para obtener la educación primaria y secundaria, y reciban la militar, en los términos que establezca la ley;
 
 II. Inscribirse en el padrón de la localidad en que residan, manifestando la propiedad que tengan, la industria, profesión o trabajo de que subsistan;
 
@@ -1755,21 +1767,41 @@ Para la mejor supervisión del ejercicio de los recursos públicos, los ayuntami
 
 El matrimonio es un contrato civil. El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro. El matrimonio y los demás actos del estado civil de las personas, son de la exclusiva competencia de los Servidores Públicos y autoridades del orden civil, en los términos prevenidos por las leyes, y tendrán la fuerza y validez que las mismas les atribuyan.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 1994)</small>
 
 ###### ARTICULO 150.
 
-La educación pública seguirá las normas que sean precisadas en la Constitución General y se procurará que los sistemas, planes y métodos de enseñanza sean adaptados de manera que respondan a las necesidades del desarrollo integral del Estado.
+En el Estado de Oaxaca, todo individuo tiene derecho a recibir educación. El Estado y los Municipios impartirán educación preescolar, primaria y secundaria. La educación primaria y secundaria es obligatoria.
 
-La Educación de los alumnos para ser integral comprenderá además, la enseñanza de la Historia, la Geografía, la Ecología y los valores regionales de cada región étnica y en general, del Estado y se fomentará la impartición de conocimientos aplicables a la transformación política, social y económica para beneficio de los oaxaqueños.
+La educación seguirá las normas que sean precisadas en la Constitución General y se procurará que los sistemas, planes y métodos de enseñanza sean adaptados de manera que responda a las necesidades del desarrollo integral del Estado.
+
+La educación que imparta el Estado tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria y conciencia de la solidaridad internacional, en la independencia y justicia.
+
+La educación de los alumnos para ser integral comprenderá además, la enseñanza de la historia, la geografía, la ecología y los valores tradicionales de cada región étnica y en general del Estado, se fomentará la impartición de conocimientos aplicables a la transformación política, social y económica para beneficio de los oaxaqueños.
 
 En las comunidades bilingües la enseñanza tenderá a conservar el idioma español y el dialecto regional.
 
-En las comunidades que no hablen el español, su enseñanza será obligatoria.
+I.- Garantizada por el artículo 24 la libertad de creencias, dicha educación será laica y, por tanto, se mantendrá por completo ajena a cualquier doctrina religiosa.
 
-La educación que imparta el Estado será gratuito, la primaria será obligatoria. Esta será impartida perfectamente por los municipios. Los padres podrán intervenir en la planeación ajustándose a los lineamientos de la Secretaría de Educación Pública.
+II.- El criterio que orientará a esa educación se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios. Además:
 
-El estado fomentará la creación de centros o instituciones de educación superior, universitaria y tecnológica ligados a la sociedad e integrados en ella para satisfacción de sus necesidades.
+a) Será democrática, considerando la democracia no solo como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo.
+
+b) Será nacional, en cuanto sin hostilidades ni exclusivismos, atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura, y
+
+c) Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad, de igualdad de derechos de todos los hombres, evitando los privilegios de razas, de región, de grupos, de sexos o de individuos.
+
+III.- Para dar cumplimiento al tercer párrafo fracción II, de este propio artículo, el Ejecutivo Federal, en coordinación con el Estado, determinarán los planes y programas de estudio de la educación primaria, secundaria y normal. Para tales efectos considerará la opinión de los diversos sectores sociales involucrados en la educación, en los términos que la ley señale.
+
+IV.- Toda la educación que el Estado imparta será gratuita.
+
+V.- Además de impartir la educación preescolar, primaria y secundaria, señaladas en el primer párrafo, el Estado promoverá y atenderá todos los tipos y modalidades educativos incluyendo la educación superior necesarios para el desarrollo de la Nación y el Estado, apoyará la investigación científica y tecnológica y alentará el fortalecimiento y difusión de nuestra cultura.
+
+VI.- Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares. En el caso de la educación primaria, secundaria y normal, los particulares deberán:
+
+a) Impartir la educación con apego a los mismos fines y criterios que establece el segundo párrafo y la fracción II, así como cumplir los planes y programas a que se refiere la fracción III; y
+
+b) Obtener previamente, en cada caso, la autorización expresa de poder público, en los términos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -1788,6 +1820,10 @@ Los trabajadores al servicio del Gobierno del Estado, tendrán el derecho de aso
 ###### ARTICULO 153.
 
 En el Estado, la vagancia se considera como un delito; en consecuencia, todos sus habitantes están obligados a trabajar para subvenir a sus propias necesidades y a las de sus familias. La ley determinará los casos de excepción.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1994)</small>
+
+ARTICULO 153 BIS. El Estado está obligado a entregar sin demora a los indiciados, procesados o sentenciados, así como practicar el aseguramiento y entrega de objetos, instrumentos o productos del delito, atendiendo a la autoridad de cualquier otra Entidad Federativa o del Distrito Federal que los requiera. Estas diligencias se practicarán con la intervención de la Procuraduría General de Justicia del Estado, en coordinación con la General de la República, y las demás Procuradurías Generales de Justicia de las otras Entidades Federativas y la del Distrito Federal, en los términos de los convenios de colaboración, que para este efecto se celebren.
 
 ###### ARTICULO 154.
 
@@ -2538,3 +2574,9 @@ UNICO.- El presente Decreto entrará en vigor el día de su publicación en el P
 P.O. 2 DE OCTUBRE DE 1993.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE FEBRERO DE 1994.
+
+PRIMERO.- Lo previsto en el párrafo primero de la fracción primera, del artículo 8o. de este Decreto, entrará en vigor al año siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente Decreto, con la excepción antes señalada, entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
