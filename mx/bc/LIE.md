@@ -4,7 +4,7 @@ identifier: "LIE"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-27"
-last_updated: "1996-12-24"
+last_updated: "1998-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIE"
 
 LEY DE INVERSION EXTRANJERA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de diciembre de 1993.
 
@@ -380,7 +380,7 @@ La inversión neutra es aquella realizada en sociedades mexicanas o en fideicomi
 
 La Secretaría podrá autorizar a las instituciones fiduciarias para que expidan instrumentos de inversión neutra que únicamente otorgarán, respecto de sociedades, derechos pecuniarios a sus tenedores y, en su caso, derechos corporativos limitados, sin que concedan a sus tenedores derecho de voto en sus Asambleas Generales Ordinarias.
 
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO , D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
 La Secretaría tendrá un plazo máximo de treinta y cinco días hábiles para otorgar o negar la autorización solicitada, contado a partir del día siguiente al de la presentación de la solicitud. Concluido dicho plazo sin que se emita resolución, se entenderá aprobada la solicitud respectiva.
 
@@ -392,7 +392,7 @@ La Secretaría tendrá un plazo máximo de treinta y cinco días hábiles para o
 
 ###### ARTICULO 21.
 
-(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 1996)
+(DEROGADO , D.O.F. 24 DE DICIEMBRE DE 1996)
 
 ### Capítulo III. De la Inversión Neutra Representada por Series Especiales de Acciones
 
@@ -492,13 +492,27 @@ El Registro no tendrá carácter público, y se dividirá en las secciones que e
 
 Deberán inscribirse en el Registro:
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
 
-I.- Las sociedades mexicanas en las que participe la inversión extranjera, incluso aquéllas en las que ésta participe a través de fideicomiso, y la inversión neutra;
+I.- Las sociedades mexicanas en las que participen, incluso a través de fideicomiso:
 
-II.- Las personas físicas o morales extranjeras que realicen habitualmente actos de comercio en la República Mexicana, y sucursales de inversionistas extranjeros establecidas en el país; y
+a) La inversión extranjera;
 
-III.- Los fideicomisos de acciones o partes sociales, de bienes inmuebles y de inversión neutra, por virtud de los cuales se deriven derechos en favor de la inversión extranjera.
+b) Los mexicanos que posean o adquieran otra nacionalidad y que tengan su domicilio fuera del territorio nacional, o
+
+c) La inversión neutra.
+
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+
+II.- Quienes realicen habitualmente actos de comercio en la República Mexicana, siempre que se trate de:
+
+a) Personas físicas o morales extranjeras, o
+
+b) Mexicanos que posean o adquieran otra nacionalidad y que tengan su domicilio fuera del territorio nacional, y
+
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+
+III.- Los fideicomisos de acciones o partes sociales, de bienes inmuebles o de inversión neutra, por virtud de los cuales se deriven derechos en favor de la inversión extranjera o de mexicanos que posean o adquieran otra nacionalidad y que tengan su domicilio fuera del territorio nacional.
 
 La obligación de inscripción correrá a cargo de las personas físicas o morales a que se refieren las fracciones I y II y, en el caso de la fracción III, la obligación corresponderá a las instituciones fiduciarias. La inscripción deberá realizarse dentro de los 40 días hábiles contados a partir de la fecha de constitución de la sociedad o de participación de la inversión extranjera; de formalización o protocolización de los documentos relativos de la sociedad extranjera; o de constitución del fideicomiso respectivo u otorgamiento de derechos de fideicomisario en favor de la inversión extranjera.
 
@@ -665,6 +679,10 @@ D.O.F. 24 DE DICIEMBRE DE 1996.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el artículo siguiente.
 
 SEGUNDO. El segundo párrafo del artículo 10-A de la Ley de Inversión Extranjera entrará en vigor a los treinta días hábiles siguientes a aquél en que se publique este Decreto en el Diario Oficial de la Federación. En este plazo deberá publicarse la lista a que se refiere dicho precepto.
+
+D.O.F. 23 DE ENERO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
 
 ## TITULO CUARTO. DE LA INVERSION DE PERSONAS MORALES EXTRANJERAS
 
