@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "1992-01-22"
+last_updated: "1993-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE FEBRERO DE 1993.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -2617,6 +2617,10 @@ El automovilista, motorista, conductor de vehículo cualquiera, ciclista o jinet
 
 ## TITULO VIGESIMO. DELITOS CONTRA EL PATRIMONIO
 
+### CAPITULO UNICO. DELITOS ELECTORALES
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 1993)</small>
+
 ###### ARTICULO 343.
 
 Comete el delito de robo, el que se apodera de una cosa ajena, mueble, sin derecho y sin consentimiento de las personas que pueden disponer de ella con arreglo a la Ley.
@@ -2945,6 +2949,112 @@ V. De un mes a cinco años de prisión y multa, por el equivalente de cien y die
 
 VI. De tres a ocho años de prisión y multa, por el equivalente de cien a doce mil días de salario mínimo general vigente en la zona donde se cometa el ilícito, a quien sin tomar las debidas precauciones e informar previamente a las autoridades municipales y ejidales inicie un incendio que rebase los límites del terreno que posea y dé lugar a un daño generalizado.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 1993)</small>
+
+## TITULO VIGESIMO TERCERO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 1993)</small>
+
+###### ARTICULO 385.
+
+Serán responsables de delitos electorales los que por actos u omisiones de los previstos en este Capítulo, transgredan la Ley Electoral del Estado.
+
+Para los efectos del presente Título se entiende por:
+
+I. Funcionarios Electorales, quienes en los términos de la Ley Electoral integren los órganos que cumplen funciones públicas electorales;
+
+II. Funcionarios Partidistas, que comprenderán a los dirigentes de los Partidos Políticos, sus candidatos ciudadanos que actúen en el desarrollo de los procesos electorales como representantes de los Partidos ante los órganos electorales en los términos de la Ley Electoral; y
+
+III. Servidores Públicos, que son aquellos a los que se refiere el Artículo 210 de este Código.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 1993)</small>
+
+###### ARTICULO 386.
+
+Por la Comisión de cualquiera de los ilícitos cometidos en el presente Capítulo, se impondrá además de la pena señalada, la suspensión de derechos políticos por un año.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 1993)</small>
+
+###### ARTICULO 387.
+
+Las multas previstas en este Código se impondrán a razón de días de salario. Para calcular su importe, se tendrá como base el salario mínimo general vigente en el Estado al momento de realizarse la conducta sancionada.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 1993)</small>
+
+###### ARTICULO 388.
+
+Se impondrá de veinte a cien días de multa o prisión de tres meses a cinco años, o ambas sanciones a juicio del Juez, a quien:
+
+I. Proporcione documentos o información falsa al Registro Estatal de Electorales para obtener la credencial o identificación que acredite la ciudadanía;
+
+II. Altere en cualquier forma, sustituya, destruya o haga uso indebido del documento que acredita la ciudadanía, que en los términos de la Ley de la materia haya sido expedido y entregado.
+
+La pena a que se refiere este precepto se incrementará en una cuarta parte si las conductas son cometidas por personal del órgano que tenga a su cargo el servicio del Registro Estatal de Electores, conforme a la Ley de la materia;
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 1993)</small>
+
+###### ARTICULO 389.
+
+Se impondrá de diez a cien días de multa o prisión de seis meses a dos años, o ambas sanciones a juicio del Juez, a quien:
+
+I. Vote más de una vez en una misma elección;
+
+II. Haga proselitismo el día de los comicios en el interior de las casillas o en el lugar en que se encuentren formados los votantes; o
+
+III. Obstaculice o interfiera el desarrollo normal de las votaciones, escrutinio, resguardo o traslado de la paquetería y expedientes electorales.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 1993)</small>
+
+###### ARTICULO 390.
+
+Se impondrá de cincuenta a doscientos días de multa o prisión de uno a seis años, o ambas sanciones a juicio del Juez, al funcionario electoral que:
+
+I. Altere en cualquier forma, sustituya, destruya o haga uso indebido de documentos oficiales de los Organismos Electorales y del Registro de Electores;
+
+II. Se abstenga de cumplir, sin causa justificada con sus obligaciones electorales con perjuicio del proceso;
+
+III. Obstruya o violente el desarrollo normal de la votación;
+
+IV. Altere los resultados electorales, sustraiga o destruya documentos, boletas o expedientes del proceso;
+
+V. No entregue o impida la entrega oportuna de documentos oficiales, sin mediar causa justificada;
+
+VI. En ejercicio de sus funciones ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+VII. Al que instale, abra o cierre dolosamente una casilla fuera de los términos y formas previstas por la Ley; y
+
+VIII. Al que expulse de la casilla electoral sin causa justificada a representante de algún Partido Político.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 1993)</small>
+
+###### ARTICULO 391.
+
+Se impondrá de cincuenta a cien días de multa o prisión de tres días a cinco años, o ambas sanciones a juicio del Juez, al funcionario partidista que:
+
+I. Ejerza presión sobre los electores y los induzca a votar por un candidato o partido determinado en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
+
+II. Realice propaganda electoral mientras cumple sus funciones durante los comicios;
+
+III. Sustraiga, destruya, altere o haga uso indebido documentos oficiales de índole electoral;
+
+IV. Obstaculice el desarrollo normal de la votación o ejerza violencia física o moral sobre los funcionarios electorales;
+
+V. Propale dolosamente noticias o informes falsos en torno al desarrollo de la jornada electoral o respecto de los resultados oficiales contenidos en las actas de escrutinio o cómputo; o
+
+VI. Impida con violencia la instalación, apertura o cierre de una casilla; o la abra o cierre fuera de los tiempos previstos por la Ley de la materia;
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 1993)</small>
+
+###### ARTICULO 392.
+
+Se impondrá de setenta a doscientos días de multa o prisión de tres meses a seis años, o ambas sanciones a juicio del Juez, al servidor público que:
+
+I. Obligue a sus subordinados a emitir sus votos en favor de un Partido Político o candidato;
+
+II. Condicione la prestación de un servicio público a la emisión del sufragio en favor de un Partido Político o candidato;
+
+III. Destine fondos o bienes que tenga a su disposición en virtud de su cargo, al apoyo de un Partido Político o de un candidato, o proporcione ese apoyo a través de sus subordinados usando el tiempo correspondiente a labores oficiales para que éstos presten servicios a un Partido Político o candidato.
+
 ## TRANSITORIOS.
 
 ###### ARTICULO PRIMERO.
@@ -2994,6 +3104,12 @@ P.O. 19 DE OCTUBRE DE 1991.
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
 
 P.O. 22 DE ENERO DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 17 DE FEBRERO DE 1993.
 
 ###### ARTICULO UNICO.
 
