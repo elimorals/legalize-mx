@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-profesiones-del-estado-de-baja-california-sur-3000"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-30"
-last_updated: "1989-06-30"
+last_updated: "1992-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PROFESIONES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 1992.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 30 de junio de 1989.
 
@@ -87,13 +87,19 @@ Ningún extranjero podrá ejercer en el Estado las Profesiones Técnico-Científ
 
 ### CAPITULO IV. DE LA SECRETARIA DE BIENESTAR SOCIAL Y EL CONSEJO CONSULTIVO
 
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1992)</small>
+
 ###### ARTICULO 11.
 
-La Secretaría de Bienestar Social, por conducto de la Dirección respectiva, se encargará de la vigilancia del ejercicio profesional y será el órgano de comunicación entre el Estado y los Colegios de Profesionistas.
+La Secretaría de Bienestar Social, por conducto de la Dirección respectiva, se encargará de la vigilancia del ejercicio profesional y será el órgano de comunicación entre el Estado y los Colegios de Profesionistas. Para los efectos correspondientes del Ejecutivo del Estado contará con un Consejo Consultivo que será presidido por el Gobernador del Estado o por la persona que designe como su representante.
 
-El Ejecutivo del Estado contará con un Consejo Consultivo integrado con un Representante de cada uno de los Colegios de Profesionistas reconocidos legalmente y un Representante de cada una de las Instituciones de Estudios Superiores del Estado.
+El Consejo Consultivo estará integrado, además con:
 
-Este Consejo será presidido por el Gobernador del Estado o por la persona que designe como representante.
+A).- Un Vicepresidente, que será el Secretario de Bienestar Social;
+
+B).- Un Secretario Técnico, que será el Jefe de Departamento de Registro de Títulos y expedición de Cédulas Profesionales;
+
+C).- Vocales: que serán el Presidente de la asociación de colegios de profesionistas de Baja California Sur; los presidentes de cada uno de los colegios de profesionistas, reconocidos legalmente, así como los directivos de cada una de las Instituciones de estudios Superiores del Estado.
 
 Son facultades y obligaciones del Consejo Consultivo:
 
@@ -430,3 +436,11 @@ LIC. VICTOR MANUEL LICEAGA RUIBAL.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. MARIO VARGAS AGUIAR.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 10 DE DICIEMBRE DE 1992.
+
+###### ARTÍCULO UNICO.
+
+ESTE DECRETO ENTRARA EN VIGOR A PARTIR DEL DIA SIGUIENTE AL DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
