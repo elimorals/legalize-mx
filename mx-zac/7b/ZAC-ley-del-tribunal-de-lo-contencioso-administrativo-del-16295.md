@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-tribunal-de-lo-contencioso-administrativo-del-16295"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-01"
-last_updated: "2000-04-01"
+last_updated: "2003-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO Y MUNICIPIOS DE ZACATECAS.
+LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 1 de Abril de 2000.
 
@@ -77,9 +77,11 @@ LEY DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO Y MUNICIPIOS DE ZAC
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O, P.O. 11 DE ENERO DE 2003)</small>
+
 ###### ARTÍCULO 1.
 
-El Tribunal de lo Contencioso Administrativo es el organismo que conocerá y resolverá las controversias de carácter administrativo y fiscal que se susciten entre la Administración Pública estatal o municipal y sus organismos descentralizados, estatales, municipales e intermunicipales y los particulares, dotado de plena jurisdicción y autonomía para dictar y ejecutar sus resoluciones.
+El Tribunal de lo Contencioso Administrativo forma parte del Poder Judicial del Estado es el organismo que conocerá y resolverá las controversias de carácter administrativo y fiscal que se susciten entre la Administración Pública estatal o municipal y sus organismos descentralizados, estatales, municipales e intermunicipales y los particulares, dotado de plena jurisdicción y autonomía para dictar y ejecutar sus resoluciones.
 
 La ley establecerá su organización, funcionamiento, competencia, procedimientos y recursos.
 
@@ -105,9 +107,11 @@ El Magistrado deberá rendir la protesta de Ley en los términos de la Constituc
 
 Será causa de retiro del Magistrado haber cumplido setenta y cinco años de edad o que sobrevenga incapacidad física o mental para desempeñar el cargo.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2003)</small>
+
 ###### ARTÍCULO 7.
 
-Los emolumentos que perciba el Magistrado, así como los Secretarios, Actuarios y demás personal administrativo del Tribunal, quedarán sujetos a lo que establezca su presupuesto anual de egresos y no podrán ser disminuidos durante el término de su encargo.
+Los emolumentos que perciba el Magistrado, así como los Secretarios, Actuarios y demás personal administrativo, quedarán sujetos a lo que establezca el presupuesto de egresos autorizado por la Legislatura al Tribunal de lo Contencioso Administrativo y no podrán ser disminuidos durante el término de su encargo.
 
 ###### ARTÍCULO 8.
 
@@ -756,3 +760,11 @@ LIC. RICARDO MONREAL AVILA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ARTURO NAHLE GARCIA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE ENERO DE 2003
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEGUNDO.- Al inicio de vigencia del presente decreto, quedarán derogadas las disposiciones de ley o de reglamento, que se opongan a aquél.
