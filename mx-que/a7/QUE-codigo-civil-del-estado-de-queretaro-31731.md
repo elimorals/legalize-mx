@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-31731"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "2000-04-14"
+last_updated: "2000-07-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO CIVIL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2000.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -308,8 +308,6 @@ El hijo adoptivo, tomará los apellidos de los adoptantes con las mismas reglas 
 ###### ARTÍCULO 38.
 
 El matrimonio no modifica los apellidos de los contrayentes.
-
-> <small>N. DE E. SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO POR LEY PUBLICADA EN EL P.O. 12 DE NOVIEMBRE DE 1999.</small>
 
 ###### ARTÍCULO 39.
 
@@ -849,8 +847,6 @@ La nulidad de las actas del Registro Civil, sólo podrá ser decretada por la au
 
 ARTÍCULO 129 Declarada la nulidad, el juez remitirá copia de la resolución al Director del Registro Civil a efecto de que proceda a ordenar la anotación en el acta correspondiente, cuidando que la misma anotación se haga en los tantos que obran en los archivos de las dependencias a quienes originalmente se les envió.
 
-> <small>N. DE E. SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO POR LEY PUBLICADA EN EL P.O. 12 DE NOVIEMBRE DE 1999.</small>
-
 ###### ARTÍCULO 130.
 
 La rectificación de un acta del Registro Civil, procede cuando se solicite variar el nombre o nombres de las personas que intervinieron en el acto, o alguna otra característica esencial del mismo.
@@ -860,8 +856,6 @@ La modificación de las actas del Registro Civil, procede cuando se pretenda var
 La rectificación y la modificación a que se refieren los párrafos que anteceden solamente podrán ser ordenadas por la autoridad judicial en los términos que prescribe el Código de Procedimientos Civiles.
 
 Una vez ejecutoriada la sentencia que ordene la rectificación o modificación del acta, el juez de primera instancia remitirá copia certificada de la misma al Director del Registro Civil, quien ordenará se lleven a cabo las anotaciones correspondientes.
-
-> <small>N. DE E. SE SUSPENDE LA VIGENCIA DEL PRESENTE ARTICULO POR LEY PUBLICADA EN EL P.O. 12 DE NOVIEMBRE DE 1999.</small>
 
 ###### ARTÍCULO 131.
 
@@ -4083,11 +4077,11 @@ Se podrá constituir el patrimonio de la familia con bienes sitos en Municipios 
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2000)</small>
 
 ###### ARTICULO 711.
 
-El valor máximo de los bienes afectos al patrimonio de familia será la cantidad que resulte de multiplicar cincuenta veces el salario mínimo general diario en la zona económica de que se trate, elevado al año.
+El valor máximo de los bienes afectos al patrimonio de familia será la cantidad que resulte de multiplicar cien veces el salario mínimo general diario en la zona económica de que se trate, elevado a un año.
 
 ###### ARTÍCULO 712.
 
@@ -15444,3 +15438,7 @@ En el caso de las personas mayores de siete años respecto de quienes se esté t
 ###### ARTÍCULO SEGUNDO.
 
 Las demás disposiciones que se opongan a la presente Ley y pudieran impedir su aplicación respecto de quienes se acojan a ella en los lapsos a que se refiere su artículo primero, quedarán suspendidas en cuanto a su observancia en relación con ellos, durante esos lapsos.
+
+P.O. 21 DE JULIO DE 2000
+
+ÚNICO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
