@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1995-03-26"
+last_updated: "1995-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 1995.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 1995.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -345,25 +345,13 @@ IV.- Autorizar al Ejecutivo y a los Ayuntamientos, para celebrar empréstitos so
 
 Ningún empréstito podrá celebrarse sino para la ejecución de obras que directamente produzcan incremento de los ingresos públicos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 1994)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1995)</small>
 
-V.- Examinar las cuentas públicas que mensualmente deben presentarle el Gobernador del Estado y los Presidentes Municipales, los primeros diez días de cada mes al Congreso del Estado, y en los recesos de éste, a la Diputación Permanente, turnándolas de inmediato para su revisión a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda, debiendo comprender dicha revisión no sólo la conformidad de las partidas gastadas con los Presupuestos de Egresos, sino también la exactitud y justificación de tales partidas.
+V.- Revisar y analizar las cuentas públicas que mensualmente deben presentarle el Gobernador y los Ayuntamientos dentro de los primeros diez días de cada mes. La ampliación del plazo de entrega de las cuentas públicas, estará sujeta a una solicitud justificada, a juicio del Congreso.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
+Las cuentas públicas se turnarán a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda. Esta, con el auxilio del órgano técnico, revisará los resultados de la gestión financiera, comprobará que los ingresos estén de acuerdo a la Ley de Ingresos, que las partidas gastadas están justificadas y son conformes con las normas de ejecución de los Presupuestos de Egresos.
 
-La revisión de la cuenta pública tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se han ajustado a los criterios señalados por el Presupuesto y al cumplimiento de los objetivos contenidos en los programas.
-
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
-
-Si del examen que realice el Congreso aparecieren discrepancias entre las cantidades gastadas y las partidas respectivas del Presupuesto, o no existiera exactitud o justificación en los gastos hechos, se determinarán las responsabilidades de acuerdo con la Ley.
-
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1994)</small>
-
-La Cuenta Pública deberá ser aprobada semestralmente por el Honorable Congreso del Estado. La correspondiente al primer semestre del año, en el Primer Período Ordinario de Sesiones; y el segundo semestre en el Segundo Período Ordinario de Sesiones.
-
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
-
-Sólo se podrá ampliar el plazo de presentación de las iniciativas de Leyes de Ingresos y del proyecto de Presupuesto de Egresos del Estado, así como de la cuenta pública del Estado y Municipios cuando medie solicitud del Ejecutivo o del Presidente Municipal respectivo, suficientemente justificada a juicio de la Cámara o de la Diputación Permanente, debiendo comparecer en todo caso el servidor público correspondiente a informar de las razones que lo motiven.
+La Contaduría Mayor de Hacienda con base en la revisión, propondrá al Congreso, dentro de los seis meses siguientes a la conclusión del semestre, que las declare revisadas. Y si hubiese encontrado que no estaban justificadas o no fuesen conformes con las normas de ejecución de los Presupuestos de Egresos, así lo señalará a efecto de que se ejerciten las acciones correspondientes.
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
@@ -377,9 +365,9 @@ VII.- Conocer de los convenios que el Gobernador celebre con los Estados vecinos
 
 VIII.- Fijar la división territorial y política, administrativa y judicial del Estado.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 1995)</small>
 
-IX.- Crear y suprimir empleos públicos.
+IX.- Crear y suprimir cargos públicos.
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
@@ -467,9 +455,9 @@ XXVIII.- Legislar en materia de responsabilidades de los servidores públicos.
 
 XXIX.- Expedir las leyes que regulen las relaciones del Estado y de los Municipios con sus trabajadores.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 1995)</small>
 
-XXX.- Citar a solicitud de la mitad de sus miembros al Gobernador del Estado, a los Titulares de las Dependencias del Poder Ejecutivo y a los de Organismos Descentralizados del Estado o de Empresas de participación Estatal, cuantas veces fuere necesario para que informen sobre el estado que guarden sus respectivas Dependencias, cuando se discuta una ley que sea de su incumbencia o se estudie un negocio relativo a sus actividades.
+XXX.- Citar a solicitud de las dos terceras partes de sus miembros a los titulares de las dependencias del Poder Ejecutivo y a los de los Organismos Descentralizados o de empresas de participación estatal, para que informen sobre el estado que guardan sus respectivas dependencias, cuando se discuta una Ley que sea de su incumbencia o se estudie un negocio relativo a sus actividades.
 
 Integrar a solicitud de una tercera parte de sus miembros, comisiones para investigar el funcionamiento de todos los Organismos Descentralizados del Estado o de las Empresas de Participación Estatal. Los resultados de las investigaciones se harán del conocimiento del Ejecutivo del Estado; y
 
@@ -693,7 +681,7 @@ I.- Promulgar y ejecutar las Leyes que expida el Congreso del Estado, proveyendo
 
 II.- Presentar cada año al Congreso a más tardar el día 15 de diciembre, los Proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, debiendo comparecer el Secretario de Finanzas a dar cuenta del mismo.
 
-III.- Asistir a la apertura de los períodos ordinarios de sesiones del Congreso;
+III.- (DEROGADA, P.O. 20 DE AGOSTO DE 1995)
 
 > <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 1994)</small>
 
@@ -869,11 +857,13 @@ Ninguna persona que haya sido Magistrado podrá ser nombrada para un nuevo perí
 
 Las renuncias de los Magistrados del Supremo Tribunal de Justicia del Estado serán sometidas al Consejo de la Judicatura Estatal, y si éste las acepta, las enviará para su aprobación al Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MARZO DE 1995)</small>
 
 ###### Artículo 57.
 
-Corresponde al Supremo Tribunal de Justicia:
+Corresponde al Supremo Tribunal de Justicia del Estado:
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 1950)</small>
 
 I.- Conocer en los juicios civiles y penales de las instancias y recursos que sean de su competencia, conforme a las leyes secundarias;
 
@@ -885,15 +875,25 @@ II.- Conocer, en los términos de esta Constitución de los procesos que por il�
 
 III.- Declarar si ha lugar a formación de causa en contra de los Jueces, por ilícitos oficiales o del orden común.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 1995)</small>
 
-IV.- Nombrar y remover a los servidores públicos del Poder Judicial. Respecto de los jueces se observarán las prevenciones de los Artículos 55 y 56 de esta Constitución.
+IV.- Conocer del nombramiento y remoción de los servidores públicos del Poder Judicial en los términos señalados por los Artículos 55 y 56 de esta Constitución y del Reglamento del Consejo de la Judicatura Estatal.
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 1950)</small>
 
 V.- Conceder licencia hasta por treinta días a los Magistrados para separarse de sus cargos, y llamar a los Suplentes respectivos. Las solicitudes de licencia que excedan de este término serán acordadas por el Gobernador;
 
-VI.- Formar su Reglamento Interior y el de los Juzgados; y
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 1995)</small>
 
-VII.- Los demás que le concede esta Constitución.
+VI.- Formular su Reglamento Interior y de los Juzgados, los cuales deberán ser sancionados por dicho Consejo.
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 1995)</small>
+
+VII.- Nombrar de entre sus Magistrados a Visitadores de los Juzgados a fin de vigilar permanentemente su buen funcionamiento; y
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 1995)</small>
+
+VIII.- Las demás facultades que le conceda esta Constitución.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1672,3 +1672,9 @@ CUARTO.- Por única vez, los miembros del Consejo de la Judicatura Estatal, a ex
 QUINTO.- En tanto sea instalado el Consejo de la Judicatura Estatal, de inmediato convocará a los aspirantes para realizar los exámenes de selección del personal, que ocupará los cargos en su caso de Magistrado, Juez, Secretario de Acuerdos, Secretario de Estudio y Proyectos y Actuario, respetando el transitorio tercero de este Decreto. La elaboración y aplicación de los exámenes relativos por esta única ocasión, se hará por la Comisión para la reforma del Poder Judicial de Aguascalientes, misma que se auxiliará de la entidad académica externa que se designe. Hasta en tanto no se instale el Consejo de la Judicatura del Estado, la Comisión para la Reforma del Poder Judicial podrá convocar de inmediato a exámenes para cubrir las vacantes que pudieren existir en el Poder Judicial del Estado.
 
 SEXTO.- Se abrogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
