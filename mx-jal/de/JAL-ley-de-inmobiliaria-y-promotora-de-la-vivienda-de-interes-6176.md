@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-inmobiliaria-y-promotora-de-la-vivienda-de-interes-6176"
 country: "mx"
 rank: "ley"
 publication_date: "1978-08-31"
-last_updated: "1992-12-29"
+last_updated: "2003-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6176&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DE LA INMOBILIARIA Y PROMOTORA DE LA VIVIENDA DE INTERES PUBLICO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 31 de agosto de 1978.
 
@@ -461,7 +461,7 @@ Todos los funcionarios o empleados que manejen fondos, deberán constituir una f
 
 ###### Art. 27.
 
-El sistema de contabilidad y de administración financiera que implante en la Inmobiliaria deberá permitir, en todo caso, que los órganos de gobierno de la misma obtengan información actualizada en dichos rubros y en relación a cada uno de los programas y desarrollos inmobiliarios emprendidos por el Organismo.
+El sistema de contabilidad y de administración financiera que se implante en la Inmobiliaria deberá permitir, en todo caso, que los órganos de gobierno de la misma obtengan información actualizada en dichos rubros y en relación a cada uno de los programas y desarrollos inmobiliarios emprendidos por el Organismo.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1992)</small>
 
@@ -475,9 +475,9 @@ Por ser fin primordial de la Inmobiliaria, el de proveer a los habitantes del Es
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1992)</small>
 
-I.- Que no sean propietarios, el solicitante, su cónyuge, concubina o concubinario, de otro predio o casa habitación
+I.- Que no sean propietarios, el solicitante, su cónyuge, concubina o concubinario, de otro predio o casa habitación.
 
-II.- Que resida en Estado de Jalisco, al menos con tres años de anticipación a la fecha de su solicitud, y de un año en la localidad en la que pretenda adquirir el inmueble.
+II.- Que resida en el Estado de Jalisco, al menos con tres años de anticipación a la fecha de su solicitud, y de un año en la localidad en la que pretenda adquirir el inmueble.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1992)</small>
 
@@ -621,8 +621,14 @@ P.O. 29 DE DICIEMBRE DE 1992.
 
 Primero. Se abrogan los Decretos números 11202 y 13911 que contienen la Ley que crea el Instituto Promotor de la Vivienda y sus reformas, respectivamente.
 
-Segundo. El Instituto Promotor de la Vivienda, será liquidado por la Contraloría del Estado, para tal fin, el Gobierno de la Entidad se subroga en sus derechos y obligaciones, transfiriendo los Inmuebles no enajenados a la Inmobiliaria y Promotora de Vivienda de Interés Público del Estado.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2003)</small>
+
+Segundo. El Instituto Promotor de la Vivienda será liquidado por la Inmobiliaria y Promotora de Vivienda de Interés Público del Estado de Jalisco, para tal fin, dicha entidad se subroga sus derechos y obligaciones. Dentro del patrimonio en liquidación, no quedan comprendidos los inmuebles no enajenados del Instituto Promotor de la Vivienda, los cuales, pasarán sin cargas a la Inmobiliaria y Promotora de Vivienda de Interés Público del Estado de Jalisco.
 
 Tercero. El presente Decreto, entrará en vigor el día primero de enero de 1993, previa su publicación en el Periódico Oficial El Estado de Jalisco.
 
 Cuarto. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 4 DE MARZO DE 2003.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco."
