@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1923-09-22"
+last_updated: "1927-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 1923.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 1927.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -825,11 +825,11 @@ Entre los Ayuntamientos y el Gobierno del Estado no habrá autoridad intermedia 
 
 Los cargos de Presidente Municipal y Regidores en ningún caso serán gratuitos. La ley determinará la remuneración que deban percibir.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1927)</small>
+
 ###### Art. 134.
 
-El número de Regidores que por ahora debe haber en cada Municipalidad, será el siguiente:
-
-En la de Querétaro seis, en la de San Juan del Río cuatro, y dos en cada una de las demás Municipalidades.
+El número de Regidores que deberá haber en cada Municipalidad, será el que demande la eficaz atención de sus servicios públicos; pero no bajará de seis en la Municipalidad de Querétaro, cuatro en las de San Juan del Río y Jalpan y dos en las demás Municipalidades.
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 1923)</small>
 
@@ -1346,6 +1346,12 @@ N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONE
 P.O. 22 DE SEPTIEMBRE DE 1923
 
 N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+
+P.O. 8 DE DICIEMBRE DE 1927
+
+###### Art. 2o.
+
+Esta Ley comenzará a regir desde la fecha de su publicación.
 
 ###### Art. 2º.
 
