@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2003-09-19"
+last_updated: "2003-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2003.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -555,13 +555,13 @@ XIV. Elegir a los Magistrados del Supremo Tribunal de Justicia del Estado en la 
 
 > <small>(REFORMADA, P.O. 20 DE JUNIO DE 2001)</small>
 
-XV.- Elegir Presidente Municipal, Síndicos Procuradores y Regidores sustitutos en casos de vacante.
+XV. Elegir Presidente Municipal, Síndicos Procuradores y Regidores sustitutos en casos de vacante.
 
 XVI. Desempeñar todas las funciones que le encomiende la Ley Electoral para Poderes Federales.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE JUNIO DE 2001)</small>
 
-XVII.- Expedir leyes que regulen la seguridad pública en el Estado; establezcan las bases de coordinación entre el Estado y los Municipios en materia de seguridad pública; y señalen la organización y funcionamiento de las instituciones de seguridad pública, así como las reglas para el establecimiento del servicio de carrera en dichas instituciones.
+XVII. Expedir leyes que regulen la seguridad pública en el Estado; establezcan las bases de coordinación entre el Estado y los Municipios en materia de seguridad pública; y señalen la organización y funcionamiento de las instituciones de seguridad pública, así como las reglas para el establecimiento del servicio de carrera en dichas instituciones.
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
 
@@ -1959,11 +1959,11 @@ VII. Es ilegal la protesta rendida ante una autoridad no protestada.
 
 Todo servidor público, recibirá una remuneración adecuada, equitativa e irrenunciable por el desempeño de su cargo, empleo o comisión, la cual será fijada anualmente en el presupuesto de egresos del Estado, de los Municipios o de las Entidades Paraestatales, según sea el caso.
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2003)</small>
 
 ###### Art. 146.
 
-Al expedir y reformar el Congreso del Estado la Ley de Ingresos y Presupuesto de Egresos, podrán aumentarse o disminuirse los sueldos de los servidores públicos según las condiciones del erario, pero todo aumento que decrete las dietas de sus propios miembros no tendrá efecto sino hasta la próxima Legislatura. Esta misma prevención se observará por los Ayuntamientos en su respectiva relación con el Presidente Municipal, los Regidores y los Síndicos Procuradores.
+Al expedir y reformar el Congreso del Estado el Presupuesto de Egresos, se establecerán, equitativamente, los sueldos y compensaciones de los servidores públicos, así como las dietas e ingresos que correspondan a los Diputados, según las condiciones del Erario. Esta misma prevención se observará por los Ayuntamientos en su respectiva relación con el Presidente Municipal, los Regidores y los Síndicos Procuradores.
 
 ###### Art. 147.
 
@@ -2922,6 +2922,12 @@ La ley reglamentaria de los organismos que integran el sistema de justicia de me
 ###### ARTÍCULO TERCERO.
 
 En tanto no se inicie la vigencia de la ley reglamentaria mencionada en el Artículo Segundo Transitorio seguirán observándose la Ley Orgánica del Consejo Tutelar para Menores del Estado de Sinaloa y disposiciones complementarias.
+
+P.O. 3 DE OCTUBRE DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTICULO PRIMERO.
 
