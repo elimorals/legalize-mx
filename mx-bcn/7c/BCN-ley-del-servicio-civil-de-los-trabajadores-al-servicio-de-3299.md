@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-3299"
 country: "mx"
 rank: "ley"
 publication_date: "1989-10-20"
-last_updated: "1992-12-11"
+last_updated: "1997-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO, MUNICIPIOS E INSTITUCIONES DESCENTRALIZADAS DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1997.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 20 de octubre de 1989.
 
@@ -341,7 +341,9 @@ Sólo podrán hacerse retenciones, descuentos o deducciones al salario de los tr
 
 I.- De deudas contraídas con las instituciones públicas por concepto de anticipo de salarios, pagos hechos con exceso, errores o perdidas debidamente compradas imputables al trabajador.
 
-II.- Cuando se trate del Cobro de cuotas sindicales ordinarias o extraordinarias, multas sindicales cuotas de defunción para el pago de seguro mutual, abono por diversos créditos fiscales, aportaciones para constitución de cooperativas, tiendas de consumo, cajas de ahorro, seguro de vida, siempre que el trabajador hubiere manifestado previamente y de manera expresa su conformidad, salvo en los primeros dos casos, es decir, tratándose de cuotas y multas sindicales.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1997)</small>
+
+II.- Del Cobro de cuotas sindicales, cuotas de defunción, para pago de seguro mutual, abono por diversos créditos sindicales, aportación para constitución de cooperativas, tiendas de consumo, cajas de ahorro, seguro de vida, siempre que el trabajador hubiere manifestado previamente y de manera expresa su conformidad.
 
 III.- De los descuentos ordenados por las instituciones de seguridad social correspondiente con motivo de las obligaciones de los trabajadores con las mismas que les presten servicios en ese renglón.
 
@@ -1336,3 +1338,7 @@ DR. ARTURO GUERRA FLORES.
 P.O. 11 DE DICIEMBRE DE 1992.
 
 UNICO.- Las presentes adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 19 DE DICIEMBRE DE 1997.
+
+UNICO.- El presente Decreto entrará en vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
