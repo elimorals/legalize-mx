@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "1998-08-29"
+last_updated: "1998-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 1998.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -387,15 +387,25 @@ La suspensión de los derechos, oficio o profesión y las de manejar vehículos,
 
 Lo prevenido en el párrafo anterior, se observará también para la suspensión o destitución en las funciones y en los empleos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 1998)</small>
+
 ### CAPITULO X. Apercibimiento y caución de no ofender
 
 ###### Art. 34.
 
-La suspensión de derechos es de dos clases:
+La suspensión de derechos es de tres clases:
 
-I. La que por ministerio de la Ley resulta de una sanción como consecuencia necesaria de ésta, en cuyo caso, la suspensión comienza y concluye con la sanción de que es consecuencia; y
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1998)</small>
 
-II. La que por sentencia formal se impone como sanción.
+I. La que por ministerio de la ley resulta de una sanción como consecuencia necesaria de ésta, en cuyo caso, la suspensión comienza y concluye con la sanción de que es consecuencia;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 1998)</small>
+
+II. La que se debe imponer cuando se haya cometido un delito culposo con motivo del tránsito de vehículos; en tales circunstancias, se suspenderá la licencia de conducir desde que se encuentre a disposición de la autoridad judicial y hasta en tanto no se resuelva la situación jurídica, para lo cual, el juez enviará el oficio respectivo a la autoridad de tránsito que corresponda; y
+
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 1998)</small>
+
+III. La que por sentencia formal se impone como sanción.
 
 En este caso, cuando la suspensión se imponga con sanción privativa de la libertad comenzará al terminar ésta y su duración será la señalada en la sentencia; pero si la suspensión se impone sin ir acompañada de otra sanción, empezará a contar desde que cause ejecutoria el fallo, comprendiendo todo el lapso fijado.
 
@@ -506,6 +516,10 @@ Los delitos culposos se sancionarán con prisión de tres días a ocho años y s
 Cuando se causen homicidios a consecuencia de actos u omisiones culposos calificados de graves, imputables a quienes regular o accidentalmente conduzcan vehículos que transporten personas o cosas, en servicio al público, con o sin autorización, la sanción será de tres a diez años de prisión e inhabilitación para manejar hasta por un tiempo igual al de la duración de la pena privativa de la libertad.
 
 Sin embargo, ello no les impedirá el derecho al beneficio de libertad caucional, ya que sólo para este efecto, se estará a la pena que señala el primer párrafo del presente artículo.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 1998)</small>
+
+Si se causaren de manera culposa lesiones de las comprendidas en las fracciones III, IV o V del artículo 207 u homicidio culposo y el responsable se hubiere encontrado al momento de cometer el ilícito en estado de ebriedad, bajo el influjo de estupefacientes o de sustancias que produzcan efectos similares, se suspenderá la licencia de conducir, en tanto se resuelve su situación jurídica, conforme a lo que establece la fracción II del artículo 34 del presente Código.
 
 ###### Art. 49.
 
@@ -953,7 +967,7 @@ Los depósitos que garanticen la libertad caucional se aplicarán al pago de la 
 
 El juez que condene al pago de la reparación del daño podrá fijar plazo para el pago, que no podrá exceder de un año, siempre que se garantice suficientemente, a su juicio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 1998)</small>
 
 ## TITULO PRIMERO. DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
 
@@ -963,7 +977,7 @@ El juez que condene al pago de la reparación del daño podrá fijar plazo para 
 
 ###### Art. 102.
 
-Cuando el daño que se cause al ofendido produzca su muerte, el monto de la pena de indemnización se fijará aplicando las cuotas que establece la Ley Federal del Trabajo, multiplicado por cinco tantos en el caso de delito doloso y en un tanto si se trata de delito culposo. Si la víctima no percibe utilidad por salario o no pudiere determinarse éste, el monto de la indemnización se fijará tomando como base el salario mínimo general.
+Cuando el daño que se cause al ofendido produzca su muerte, el monto de la reparación del daño se fijará aplicando las cuotas que establece la Ley Federal del Trabajo, multiplicando por cinco tantos en el caso de delito doloso y en tres tantos si se trata de delito culposo. Si la víctima no percibe remuneración alguna o ésta no pudiere determinarse, el monto de la indemnización se fijará tomando como base el salario mínimo general vigente del área geográfica correspondiente.
 
 Si el daño produce incapacidad total o parcial, temporal o permanente, el monto de la indemnización se fijará de acuerdo con las tablas que para esta clase de incapacidades establece la Ley Federal del Trabajo, siendo aplicable en lo conducente, lo dispuesto en la parte final del párrafo que precede.
 
@@ -1024,6 +1038,8 @@ La excusa absolutoria beneficiará aún a los responsables de cualquier delito, 
 Se impondrá sanción de dos a cinco años de prisión al que viole la inmunidad de un parlamentario o la que da un salvoconducto.
 
 ### CAPITULO VI. Delitos de tránsito
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 110.
 
@@ -1125,7 +1141,7 @@ Cuando el miembro de la pandilla sea ó haya sido, en los tres años anteriores 
 
 ###### Art. 122.
 
-Se impondrá prisión de un mes a dos años, e inhabilitación de uno a cinco años para manejar vehículos de motor, al conductor que en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos que, por sus efectos farmacológicos, alteren la habilidad para conducir y que esto sea de su conocimiento, maneje un vehículo en la capital o poblaciones del Estado o en carreteras o caminos estatales o municipales, si es que además comete cualquiera otra infracción grave, a criterio del juez, al Reglamento de Tránsito en vigor.
+Al conductor que maneje un vehículo, estando bajo los efectos del alcohol o bajo el influjo de estupefacientes o psicotrópicos que alteren la habilidad para conducir y que esto sea de su conocimiento, cuando cometa además cualquiera otra infracción grave al Reglamento de Tránsito en vigor, a criterio del juez, se le impondrán de uno a tres años de prisión, inhabilitación de tres a seis meses para manejar vehículos de motor y de tres a seis meses de trabajo en favor de la comunidad.
 
 ###### Art. 123.
 
@@ -2039,7 +2055,7 @@ Cuando las amenazas sean leves, se exigirá caución de no ofender, pero si el r
 
 Si cumple la amenaza, se le impondrán además las penas que procedan por los delitos que resulten.
 
-### CAPITULO I. De las Definiciones
+### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2059,7 +2075,7 @@ A los agentes del Ministerio Público, de la Policía Investigadora o de las pol
 
 Si se aplica la violencia en la detención, la pena se aumentará de uno a tres años de prisión.
 
-### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
+### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2069,7 +2085,7 @@ Se impondrán de seis meses a seis años de prisión al que exija para sí o par
 
 Si lo que se exigió fue la entrega de numerario, uno o más objetos o documentos y ésta se realiza, se impondrá la pena del delito de extorsión.
 
-### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
+### CAPITULO I. De las Definiciones
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2079,7 +2095,7 @@ Se impondrán de seis meses a dos años de prisión al que, sin motivo justifica
 
 Si en el allanamiento media la furtividad, el engaño o la violencia, la pena aplicable será de uno a tres años de prisión.
 
-### CAPITULO V. Delitos cometidos por los Servidores Públicos
+### CAPITULO IV. Delitos Cometidos por Representantes de Partido
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2089,7 +2105,7 @@ Se impondrán de uno a ocho años de prisión y multa por el importe de cinco a 
 
 Las sanciones a que se refiere este artículo se impondrán independientemente de las penas que procedan por los demás delitos que resulten.
 
-### CAPITULO VI. Disposiciones Comunes
+### CAPITULO V. Delitos cometidos por los Servidores Públicos
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2101,7 +2117,7 @@ I. Al particular que ilegítimamente prive a otro de su libertad personal; y
 
 II. Al que obligue a otro a prestar trabajos o servicios personales, ya sea empleando violencia física o moral.
 
-### CAPITULO IV. Delitos Cometidos por Representantes de Partido
+### CAPITULO VI. Disposiciones Comunes
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -3019,6 +3035,8 @@ V. Propale dolosamente noticias falsas en torno al desarrollo de la jornada elec
 
 VI. Impida con violencia la instalación; apertura o cierre de una casilla.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
+
 ###### Art. 270.
 
 Se impondrá de doscientos a cuatrocientos días multa y prisión de uno a nueve años, al servidor público que:
@@ -3080,8 +3098,6 @@ Por la comisión de cualesquiera de los delitos comprendidos en el presente cap�
 ###### Art. 278.
 
 Los responsables de los delitos contenidos en el presente capítulo por haber acordado o preparado su realización en los términos del artículo 11 de este Código, no podrán gozar del beneficio de la libertad provisional.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ## TRANSITORIOS
 
@@ -3254,3 +3270,9 @@ P.O. 5 DE MARZO DE 1998.
 P.O. 29 DE AGOSTO DE 1998.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 5 DE DICIEMBRE DE 1998.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. En tanto no se reforme la Ley de Ejecución de Penas Restrictivas de la Libertad, la pena de trabajo en favor de la comunidad contemplada en el artículo 122, no será aplicable.
