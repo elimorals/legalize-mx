@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "2001-12-21"
+last_updated: "2003-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2003.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -491,7 +491,9 @@ e).- Avicultura 0.5% del valor de su producción anual comercializada.
 
 Para la aplicación de la tarifa a que se refiere este precepto, donde la base gravable se constituye por el valor de la producción anual comercializada, ésta se podrá determinar conjuntamente entre la autoridad fiscal encargada de la administración del impuesto y los organismos estatales representantes de los sectores agrícola, acuícola, avícola y ganadera.
 
-Lo que se recaude por los conceptos a que se refiere esta fracción, serán destinados única y exclusivamente para la inversión pública, en el medio rural y en el Municipio correspondiente, para lo cual se llevará una cuenta especial de contabilidad que verifique el escrupuloso manejo de estos fondos, dándose la participación que corresponde a los Comités de Planeación Municipal, o en su caso, al Comité de Planeación del Estado de Sinaloa.
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2003)</small>
+
+Lo que se recaude por los conceptos a que se refiere esta fracción, serán destinados única y exclusivamente para la realización de inversiones públicas en el medio rural del municipio correspondiente, para lo cual se llevará una cuenta especial de contabilidad que verifique el escrupuloso manejo de estos fondos, dándose la participación que corresponda a los Comités de Planeación Municipal. Por inversión pública debe entenderse, la destinada a obras públicas y la adquisición de bienes para la prestación de los servicios públicos de la comunidad; no pudiendo destinarse a rubros tales como combustibles, lubricantes, salarios de personal administrativo u operativo del Ayuntamiento, bonos, gratificaciones o compensaciones.
 
 III.- En los demás casos de predios rurales, se aplicará la tarifa contenida en la fracción I de este artículo.
 
@@ -2203,7 +2205,7 @@ VI.- En los casos previstos en la Fracción IV y en aquellos otros en que la per
 
 VII.- La circunstancia de que no encontrara testigos no interrumpirá la diligencia, la cual se llevará adelante haciendo constar tales hechos. Lo asentado por el ejecutor hará prueba plena mientras no se demuestre judicialmente su falsedad.
 
-EMBARGOS
+REMATES
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -2357,9 +2359,7 @@ IV.- Hecha la revisión se comunicará el resultado a la oficina ejecutora, devo
 
 V.- Aprobado el expediente o corregidas las irregularidades observadas, se procederá al remate.
 
-REMATES
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 186.
 
@@ -2501,7 +2501,9 @@ III.- Crédito o créditos fiscales reclamados.
 
 Hechas las aplicaciones especificadas en el artículo anterior, el saldo si lo hubiere, quedará a disposición del ejecutado, salvo que haya orden de retención dictada por autoridades judiciales o administrativas competentes.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE DICIEMBRE DE 1997)</small>
+EMBARGOS
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
 ### CAPITULO III. DE LAS AUTORIDADES FISCALES
 
@@ -3186,3 +3188,13 @@ El presente Decreto entrará en vigor tres días después de su publicación en 
 P.O. 21 DE DICIEMBRE DE 2001.
 
 Artículo Unico.- El presente decreto se publicará en el Periódico Oficial "El Estado de Sinaloa" e iniciará su vigencia el primero de enero del año 2002.
+
+P.O. 18 DE AGOSTO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1 de enero del 2004.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese este Decreto en el Periódico Oficial "El Estado de Sinaloa".
