@@ -4,7 +4,7 @@ identifier: "FED-ley-para-la-comprobacion-ajuste-y-computo-de-servicios-en-2550"
 country: "mx"
 rank: "ley"
 publication_date: "1943-12-31"
-last_updated: "1944-12-02"
+last_updated: "1975-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2550&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "1943-11-29"
 ---
 # LEY PARA LA COMPROBACION, AJUSTE Y COMPUTO DE SERVICIOS EN EL EJERCITO Y FUERZA AEREA MEXICANOS - ANTES LEY PARA LA COMPROBACION, AJUSTE Y COMPUTO DE SERVICIOS EN EL EJERCITO NACIONAL-
 
-LEY PARA LA COMPROBACION, AJUSTE Y COMPUTO DE SERVICIOS EN EL EJERCITO NACIONAL
+LEY PARA LA COMPROBACION, AJUSTE Y COMPUTO DE SERVICIOS EN EL EJERCITO Y FUERZA AEREA MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE DICIEMBRE DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE DICIEMBRE DE 1975.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 31 de diciembre de 1943.
 
@@ -31,13 +31,17 @@ MANUEL AVILA CAMACHO, Presidente Constitucional de los Estados Unidos Mexicanos,
 
 Que en uso de las facultades extraordinarias que le ha conferido el H. Congreso de la Unión para legislar en todos los ramos de la administración pública, de conformidad con los artículos 4o y 5o del decreto publicado en el Diario Oficial el 2 de junio del año próximo pasado, ha tenido a bien dictar la siguiente
 
-LEY PARA LA COMPROBACION, AJUSTE Y COMPUTO DE SERVICIOS EN EL EJERCITO NACIONAL
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+
+LEY PARA LA COMPROBACION, AJUSTE Y COMPUTO DE SERVICIOS EN EL EJERCITO Y FUERZA AEREA MEXICANOS.
 
 ### CAPITULO I. Generalidades
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 1o.
 
-La comprobación de los servicios prestados por el personal del Ejército, se basará en los documentos que existan en los expedientes respectivos y en los que aporten los interesados de conformidad con esta ley.
+La comprobación de los servicios prestados por el personal del Ejército y Fuerza Aérea Mexicanos, se basará en los documentos que existan en los expedientes respectivos y en los que aporten los interesados de conformidad con esta Ley.
 
 ###### ARTICULO 2o.
 
@@ -47,49 +51,53 @@ Para los efectos del artículo anterior, se formará la historia militar de los 
 
 La historia periódica de los generales, jefes y oficiales, durante su permanencia en una corporación o dependencia, se anotará en un documento que tiene por nombre "Hoja de Actuación"; la de los comandantes de cuerpos de tropa o de guarnición, se llevará en el estado mayor de la Comandancia de Zona de que dependan; la de los comandantes de región o zona, en el estado mayor de la Secretaría de la Defensa Nacional y la de los generales en disponibilidad en la Plana Mayor. Este documento es auxiliar de la hoja de servicios y substituye a los certificados.
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 4o.
 
-El memorial de servicios, es un documento en el que se asentarán, por orden cronológico, todos los incidentes de la vida militar del personal de tropa del Ejército.
+El memorial de servicios, es un documento en el que se asentarán, por orden cronológico, todos los incidentes de la vida militar del personal de tropa del Ejército y Fuerza Aérea.
 
 ###### ARTICULO 5o.
 
 Cuando se presuma dolo en la aportación de documentos y se compruebe que no están de acuerdo con la verdadera actuación del interesado, se consignará el caso al Procurador General de Justicia Militar.
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 6o.
 
-Las hojas de servicios se formularán en una oficina que llevará el nombre de Sección Formadora de Hojas de Servicio. Las hojas de actuación y memoriales de servicios, se formularán en la corporación o dependencia a que pertenezca el interesado.
+Las hojas de servicios y los extractos de antecedentes militares, se formularán en la Oficina Formadora de Hojas de Servicios. Las hojas de actuación y los memoriales de servicios, se formularán en la corporación o dependencia a que pertenezca el interesado.
 
 ###### ARTICULO 7o.
 
 El Ejército Nacional se considera creado desde el 19 de febrero de 1913. Los veteranos de la Revolución de 1910, tienen derecho al tiempo de servicios, desde el 20 de noviembre del propio año, si no militaron en las filas del régimen de la usurpación, en 1913 y 1914.
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 8o.
 
-El tiempo de servicios se contará a los militares desde el día en que hayan ingresado a la Revolución o al Ejército Nacional, con cualquier carácter y en cualquier clase, hasta el último que hayan estado en servicio activo, haciéndose los abonos y deducciones que establece esta ley. En todo caso se abonará en el tiempo de servicios el que hayan estado con el carácter de alumnos en las escuelas militares.
+El tiempo de servicios se contará a los militares desde el día en que hayan ingresado a la Revolución, al Ejército o a la Fuerza Aérea Mexicanos, con cualquier carácter y en cualquier clase, hasta el último que hayan estado en servicio activo, haciéndose los abonos y las deducciones que establece esta Ley. Por ningún motivo se contará tiempo anterior al 20 de noviembre de 1910.
 
 ###### ARTICULO 9o.
 
 Cuando algún documento que compruebe el ingreso al Ejército, precise el mes, pero no la fecha exacta, se tomará como base el 15 del propio mes, fijándose éste como de alta, a menos que haya otro dato que permita fijar otra fecha anterior.
 
-> <small>(REFORMADO, D.O.F. 2 DE DICIEMBRE DE 1944)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 18 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 10.
 
-La antigüedad en el empleo para los miembros del Ejército, se contará desde la fecha que se fija en el nombramiento o patente respectivos, teniéndose en cuenta las deducciones que procedan, de acuerdo con lo dispuesto en la presente ley.
+La antigüedad en el empleo para los miembros del Ejército y Fuerza Aérea, se contará desde la fecha que se fije en el nombramiento o patente respectivos, teniéndose en cuenta las deducciones que procedan, de acuerdo con lo dispuesto en la presente Ley y en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos.
 
-Los jefes y oficiales, sargentos y cabos que pasen de un escalafón a otro, tendrán en su empleo la antigüedad de la nueva patente o nombramiento, que en todos los casos se les expedirá, debiéndose cancelar, en todo caso, la patente del arma o servicio de procedencia.
-
-Cuando el cambio se efectúe no por solicitud del interesado, sino por disposición expresa del Presidente de la República o del Secretario de la Defensa Nacional de acuerdo con las disposiciones legales, y tomando en consideración las exigencias del servicio, la nueva patente se expedirá con la antigüedad que tenían en el empleo y arma o servicio anteriores.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 11.
 
-La Sección Formadora de Hojas de Servicios tiene la obligación de proceder al cómputo y ajuste de tiempo de servicios en las hojas de servicios, en los siguientes casos:
+La Oficina Formadora de Hojas de Servicios, tiene la obligación de proceder al cómputo y ajuste de tiempo de servicios en los siguientes casos:
 
-I.- En los señalados en la Ley de Retiros;
+I.- Para los efectos de la aplicación de la Ley de Retiros y Pensiones Militares;
 
-II.- Cuando lo pida una autoridad competente; y
+II.- Cuando lo ordene el Secretario de la Defensa Nacional o lo pida una autoridad competente; y
 
-III.- Cuando los interesados sean propuestos para el ascenso.
+III.- Para su remisión al Senado de la República, en los casos en que deba intervenir para la ratificación de grados militares.
 
 ###### ARTICULO 12.
 
@@ -251,25 +259,31 @@ Cuando los documentos existentes en el expediente de un militar no justifiquen l
 
 En el caso de que en los expedientes militares no conste la comprobación debida o se presuma dolo, se recurrirá a la documentación que exista en los archivos de la Secretaría de la Defensa Nacional, tales como recibos de haberes, nóminas, órdenes y todos los demás datos que comprueben la estancia en las corporaciones o dependencias; cuando la comprobación de estancias en campaña, no esté debidamente aclarada, se ocurrirá a la historia de la corporación a que el interesado perteneció.
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 26.
 
-Al cerrarse una hoja de servicios, el director de personal expedirá un certificado en el que exprese el motivo que origine el trámite.
+Al cerrarse una hoja de servicios, el Jefe de la Oficina Formadora de Hojas de Servicios, expedirá un certificado en que se exprese el motivo que origine el trámite.
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 27.
 
 Los militares acreditarán su edad:
 
-I.- Mediante copia certificada del acta del Registro Civil que consigne su nacimiento;
+I.- Con copia certificada del acta del Registro Civil que consigne su nacimiento;
 
-II.- Con certificado parroquial de bautizo cotejado por Notario Público o por la autoridad que legalmente lo substituya; y
+II.- A falta del documento anterior, con copia certificada de la fe de bautismo del interesado, cotejada por Notario Público o por autoridad que legalmente lo substituya; y
 
-III.- En defecto de los anteriores documentos, con los medios ordinarios de prueba.
+III.- A falta de los anteriores, con prueba documental consistente en las constancias que obren en el expediente oficial, relacionadas con la edad que manifestó el interesado al ingresar al Ejército o Fuerza Aérea, aunada en caso necesario, a la pericial que permita determinar su edad clínica.
 
 ### CAPITULO IV. De los abonos y deducciones
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 28.
 
-De acuerdo con lo dispuesto en este capítulo, el tiempo de servicios es susceptible de aumento o de deducción; la antigüedad en el empleo, sólo lo es de deducción.
+De acuerdo con lo dispuesto en este capítulo, el tiempo de servicios es susceptible de aumento o de deducción; la antigüedad en el empleo sólo lo es de deducción. No se harán más abonos o deducciones que los consignados expresamente en esta Ley.
 
 ###### ARTICULO 29.
 
@@ -313,25 +327,31 @@ VII.- Del 3 de marzo al 8 de mayo de 1929, a los que concurrieron a la campaña 
 
 El abono de tiempo doble por campaña, se hará también cuando los interesados comprueben con documentación que obre en su expediente, o la aporten para el caso, haber tomado parte en campañas, en lugares y fechas no fijados en el artículo anterior, a juicio de la Secretaría de la Defensa Nacional.
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 33.
 
-Se abonará tiempo doble a todos los militares que presten servicios en los hospitales militares, donde se aloje personal que sufra enfermedades infectocontagiosas.
+Se abonará tiempo doble a los militares que presten servicios en salas de Hospitales Militares donde se aloje personal que sufra enfermedades infecto-contagiosas.
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 34.
 
-Los abonos a que se refiere esta ley, se harán al cerrarse las hojas de servicios para los efectos señalados en la Ley de Retiros y Pensiones. Las deducciones en el tiempo de servicios y antigüedad en el empleo, se efectuarán al producirse la causa que las motive.
+Los abonos a que se refiere esta Ley se anotarán al cerrarse las hojas de servicios y extractos de antecedentes, y las deducciones se harán al producirse las causas que las motiven.
+
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
 
 ###### ARTICULO 35.
 
-A los militares que se hayan encontrado en cualesquiera de las situaciones siguientes, se les harán las deducciones en el tiempo de servicios y antigüedad, que en seguida se expresan:
+A los militares que se hayan encontrado en cualesquiera de las situaciones siguientes, se les harán las deducciones en el tiempo de servicios y antigüedad que en seguida se expresan:
 
-I.- A los que hubieren estado separados del Ejército disfrutando de licencia ilimitada o absoluta, se les descontará de su antigüedad y tiempo de servicios, el que hayan permanecido en esa situación.
+I.- A los que hubieren estado separados del servicio activo por licencia ilimitada, absoluta o por la licencia especial prevista en las fracciones II y III del artículo 135 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos; así como por haber permanecido de hecho subtraídos (sic) al servicio por cualquier causa no imputable a la Secretaría de la Defensa Nacional.
 
-II.- A los que hayan sido condenados por cualquier delito, se les deducirá de la antigüedad y tiempo de servicios, todo el de la sentencia; en caso de inhabilitación se deducirá de una y de otro, todo el tiempo de ésta, así como todo el de la duración en caso de suspensión.
+II.- A los que hayan sido condenados a pena temporal por cualquier delito, se les deducirá de la antigüedad y tiempo de servicios todo el de la sentencia, con excepción del tiempo que presten en servicio activo, cuando obtengan libertad preparatoria o se les substituya la pena por la de amonestación. En caso de inhabilitación se deducirá de una y de otro, todo el tiempo de ésta, así como todo el de la duración en caso de suspensión.
 
 III.- A los que hayan disfrutado de retiro, se les descontará de la antigüedad y tiempo de servicios, todo el que duró esta situación.
 
-IV.- A los que hayan hecho uso de licencia con motivo de enfermedad contraída por el alcoholismo, se les deducirá de la antigüedad y tiempo de servicios, todo el que dure la licencia.
+IV.- A los que hayan hecho uso de licencia con motivo de enfermedad contraída por el alcoholismo o por el uso de estupefacientes, se les deducirá de la antigüedad y tiempo de servicios, todo el que dure la licencia.
 
 V.- A los que hayan estado sujetos a proceso, en el que se dicte resolución de sobreseimiento, por retiro de acción penal, se les deducirá en el tiempo de sus servicios y antigüedad, todo el de la duración del procedimiento.
 
@@ -339,63 +359,39 @@ VI.- A los que hayan estado sujetos a proceso en el que se pronuncie sentencia q
 
 VII.- El tiempo que exceda de seis meses de licencia ordinaria concedida para asuntos particulares en cada período de diez años de servicios.
 
-VIII.- A los que hayan pertenecido a lo que se llamó "Primera Reserva", suprimida el 11 de mayo de 1925, se les deducirá del tiempo de servicios, la mitad del que hayan durado en ella.
-
-IX.- A los que hayan estado en el Depósito de Jefes y Oficiales, desaparecido el 1o. de mayo de 1924, se deducirá del tiempo de servicios, la tercera parte del que se haya estado en esa situación.
-
 ###### ARTICULO 36.
 
 No se deducirá de los servicios y antigüedad, el tiempo de la duración de un proceso cuando haya recaído sentencia absolutoria.
 
 ###### ARTICULO 37.
 
-El derecho al tiempo de servicios se pierde:
-
-I.- Por traición a la patria o por rebelión contra las instituciones legales del país, previa declaración que se haga por la autoridad judicial competente, debidamente motivada.
-
-II.- Por sentencia de tribunal competente, que imponga la destitución de empleo.
+(DEROGADO, D.O.F. 18 DE DICIEMBRE DE 1975)
 
 ###### ARTICULO 38.
 
 Los militares comprendidos dentro de las disposiciones del artículo 35, tienen derecho a que se les hagan los abonos que les corresponda, de conformidad con esta ley, salvo el caso que se encuentren afectados por los mandatos del artículo anterior.
 
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 39.
 
-Se abonará en la antigüedad y servicios de los militares, el tiempo que hayan permanecido en las situaciones siguientes:
-
-I.- En puesto de elección popular de la Federación;
-
-II.- Como gobernadores de los Estados;
-
-III.- Como pagadores del Ejército;
-
-IV.- En el Departamento Agrario, previo acuerdo expreso del Presidente de la República o del Secretario de la Defensa Nacional;
-
-V.- Como civiles en las oficinas del extinto Departamento de Establecimientos Fabriles y Aprovisionamientos Militares;
-
-VI.- En calidad de obreros, en el departamento a que se refiere la fracción anterior, de conformidad con la derogada fracción XVIII del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+Se abonará a los militares en su tiempo de servicios, el que hayan permanecido con licencia especial para desempeñar los cargos a que se refiere la fracción I del artículo 135 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos.
 
 ###### ARTICULO 40.
 
-El militar que sea designado por el Ejecutivo de la Unión, para una comisión ajena al servicio, que dure más de seis meses, será considerado en situación de activo, únicamente para la computación del tiempo necesario de servicios exigidos por la Ley de Retiros y Pensiones.
+(DEROGADO, D.O.F. 18 DE DICIEMBRE DE 1975
 
 ###### ARTICULO 41.
 
-El Ejecutivo de la Unión queda autorizado para mandar abonar a los militares actualmente en servicio activo, el tiempo que hubieren estado separados de la institución, siempre que concurran en su favor las siguientes circunstancias:
-
-I.- Que su separación haya sido ordenada injustificadamente y en forma contraria a las leyes y reglamentos en vigor.
-
-II.- Que su actuación anterior y posterior a su reingreso haya sido meritoria y revolucionaria; y
-
-III.- Que se hayan manifestado siempre leales a las instituciones y no hayan tomado participación en algún movimiento infidente.
+(DEROGADO, D.O.F. 18 DE DICIEMBRE DE 1975)
 
 ###### ARTICULO 42.
 
-No se harán más abonos o deducciones que los consignados expresamente en esta ley.
+(DEROGADO, D.O.F. 18 DE DICIEMBRE DE 1975)
 
 ###### ARTICULO 43.
 
-Por ningún motivo se computará a los militares, tiempo anterior al 20 de noviembre de 1910.
+(DEROGADO, D.O.F. 18 DE DICIEMBRE DE 1975)
 
 ## TRANSITORIOS
 
@@ -416,3 +412,9 @@ D.O.F. 2 DE DICIEMBRE DE 1944.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial" de la Federación, quedando derogadas todas las disposiciones que se le opongan.
+
+D.O.F. 18 DE DICIEMBRE DE 1975.
+
+Artículo Primero.- Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
+
+Artículo Segundo.- Este Decreto entrará en vigor a los tres días siguientes a su publicación en el "Diario Oficial" de la Federación.
