@@ -4,7 +4,7 @@ identifier: "LGOAAC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1985-01-14"
-last_updated: "2001-06-04"
+last_updated: "2003-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGOAAC"
 
 LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de enero de 1985.
 
@@ -246,7 +246,7 @@ Sólo podrá revocarse el nombramiento de estos consejeros cuando se revoque el 
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-VI. El número de administradores no podrá ser inferior de cinco, salvo el caso de uniones de crédito en que no será inferior a siete, y en ambos casos actuarán constituidos en consejo de administración.
+VI. El número de administradores no podrá ser inferior de cinco, salvo el caso de uniones de crédito en que no será inferior a siete, y en ambos casos actuarán constituidos en consejo de administración;
 
 > <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -678,11 +678,11 @@ Cuando ocurra alguna de estas eventualidades, la arrendataria debe notificarlo a
 
 La arrendadora financiera estará obligada a legitimar a la arrendataria para que, en su representación, ejercite dicha (sic) acciones o defensas, cuando ello sea necesario.
 
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 33.
 
-En los contratos de arrendamiento financiero, al ser exigible la obligación y, ante el incumplimiento del arrendatario de las obligaciones consignadas en el mismo, la arrendadora financiera podrá pedir judicialmente la posesión de los bienes objeto del arrendamiento. El juez decretará de plano la posesión cuando le sea pedida en la demanda o durante el juicio, siempre que se acompañe el contrato correspondiente debidamente ratificado ante fedatario público y el estado de cuenta certificado por el contador de la organización auxiliar del crédito de que se trate, en los términos del artículo 47 de esta Ley.
+En los contratos de arrendamiento financiero, al ser exigible la obligación y, ante el incumplimiento del arrendatario de las obligaciones consignadas en el mismo, la arrendadora financiera podrá pedir judicialmente la posesión de los bienes objeto del arrendamiento. El juez decretará de plano la posesión solicitada, quedando facultada la arrendadora a dar cumplimiento a lo establecido en el segundo párrafo de la fracción VI del artículo 38 de esta Ley. La posesión podrá ser solicitada en la demanda o durante el juicio, siempre que se acompañe el contrato correspondiente debidamente ratificado ante fedatario público y el estado de cuenta certificado por el contador de la organización auxiliar del crédito de que se trate, en los términos del artículo 47.
 
 ###### ARTICULO 34.
 
@@ -1430,11 +1430,15 @@ En todo caso de anticipo sobre títulos o valores, de prenda sobre ellos, sobre 
 
 En los contratos de arrendamiento financiero, factoraje financiero y en las demás operaciones que celebren las organizaciones auxiliares del crédito en que se pacte que el acreditado o el mutuatario puedan disponer de la suma acreditada o del importe del préstamo en cantidades parciales o estén autorizados para efectuar reembolsos previos al vencimiento del término señalado en el contrato, el estado de cuenta certificado por el contador de la organización auxiliar del crédito acreedora hará fe, salvo prueba en contrario, en el juicio respectivo para la fijación del saldo resultante a cargo del deudor.
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 48.
 
-El contrato o documento en que se hagan constar los créditos, arrendamientos financieros o factoraje financiero que otorguen las organizaciones auxiliares del crédito correspondientes, así como los documentos que demuestren los derechos de crédito transmitidos a empresas de factoraje financiero, notificados debidamente al deudor, junto con la certificación del estado de cuenta a que se refiere el artículo anterior, serán título ejecutivo mercantil, sin necesidad de reconocimiento de firma ni de otro requisito alguno.
+El contrato o documento en que se hagan constar los créditos, arrendamientos financieros o factoraje financiero que otorguen las organizaciones auxiliares del crédito correspondientes, junto con la certificación del estado de cuenta a que se refiere el artículo anterior, serán título ejecutivo mercantil sin necesidad de reconocimiento de firma ni de otro requisito alguno.
+
+Tratándose de factoraje financiero, además del contrato se deberá contar con los documentos que demuestren los derechos de crédito transmitidos a empresas de factoraje financiero, notificados debidamente al deudor.
+
+El estado de cuenta certificado antes citado, deberá contener los datos sobre la identificación del contrato o convenio en donde conste el crédito o arrendamiento otorgado; el capital inicial dispuesto o importe de las rentas determinadas; el capital o rentas vencidas no pagadas; el capital o rentas pendientes por vencer; las tasas de interés del crédito o variabilidad de la renta aplicable a las rentas determinables a cada periodo de pago; los intereses moratorios generados; la tasa de interés aplicable a intereses moratorios, y el importe de accesorios generados.
 
 > <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -2607,3 +2611,11 @@ El artículo Segundo del presente Decreto entrará en vigor a los dos años de s
 CUARTO.- Las Sociedades de Ahorro y Préstamo y las Uniones de Crédito que capten depósitos de ahorro continuarán sujetas a la supervisión y vigilancia de la Comisión Nacional Bancaria y de Valores, en términos de lo establecido en la Ley General de Organizaciones y Actividades Auxiliares del Crédito, hasta en tanto no se sujeten a lo señalado en el artículo TERCERO Transitorio.
 
 DÉCIMO SEXTO.- Se derogan todas las disposiciones que se opongan a esta Ley.
+
+D.O.F. 13 DE JUNIO DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Las disposiciones de este Decreto no serán aplicables a los créditos contratados con anterioridad a la fecha de entrada en vigor del mismo, ni aun tratándose de novación o reestructuración de créditos.
