@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1918-10-02"
+last_updated: "1926-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 1926.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -657,9 +657,11 @@ De los Municipios.
 
 Cada Municipio será administrado por un Ayuntamiento y no habrá ninguna Autoridad intermediaria entre éste y el Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 1926)</small>
+
 ###### Art. 73.
 
-Los Ayuntamientos se compondrán de Munícipes nombrados cada año en elección popular directa, calificada por ellos mismos, en los términos que prescriba la Ley Electoral, y no podrán ser electos para el período inmediato al en que hubieren ejercido su encargo.
+Los Ayuntamientos se compondrán de Munícipes nombrados cada dos años en elección popular directa, calificada por ellos mismos, en los términos que prescriba la Ley Electoral, y no podrán ser reelectos para el período inmediato al en que hubieren ejercido su encargo.
 
 ###### Art. 74.
 
@@ -878,3 +880,9 @@ Firmados: Presidente, Juan Luna, Diputado por el 5o. Distrito Electoral.- Vice-P
 Por lo tanto, mando se imprima, publique por bando solemne, circule y se le dé el más exacto cumplimiento.
 
 Palacio del Poder Ejecutivo. Tlaxcala, a 16 de septiembre de 1918.- El Gobernador Constitucional del Estado, General Máximo Rojas.- El Secretario General de Gobierno, Interino, Octavio Hidalgo.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+
+P.O. 8 DE SEPTIEMBRE DE 1926.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 5 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE TLAXCALA.
