@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-municipal-numero-677-5151"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "1984-01-03"
+last_updated: "1984-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA MUNICIPAL NUMERO 677
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 1984.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -197,15 +197,21 @@ Las infracciones al presente capítulo serán sansionadas (sic) de conformidad c
 
 #### SECCION SEGUNDA. Impuesto sobre adquisición de inmuebles
 
+> <small>(REFORMADO, P. O. 22 DE JUNIO DE 1984)</small>
+
 ###### ARTICULO 27.
 
-Están obligados al pago del impuesto sobre adquisición de inmuebles establecido en esta sección, las personas físicas o morales que adquieran inmuebles que consisten en el suelo y las construcciones adheridas a él ubicados en territorio del Estado, así como los derechos relacionados con los mismos, a que se refiere este gravamen.
+Están obligados al pago del impuesto sobre adquisición de inmuebles establecido en esta sección, las personas físicas o morales que adquieran inmuebles que consisten en el suelo, o en el suelo y las construcciones adheridas a él ubicados en territorio del Estado, así como los derechos relacionados con los mismos, a que se refiere este gravamen.
+
+> <small>(REFORMADO PRIMER PARRAFO, P. O. 22 DE JUNIO DE 1984)</small>
 
 ###### ARTICULO 28.
 
-Para los efectos de este capítulo, se entiende por adquisición la que derive de:
+Para los efectos de esta sección se entiende por adquisición la que se derive de:
 
-I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades.
+> <small>(REFORMADA, P. O. 22 DE JUNIO DE 1984)</small>
+
+I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal.
 
 II.- La compraventa en la que el vendedor se reserve la propiedad, aún cuando la transferencia de ésta opere con posterioridad.
 
@@ -221,7 +227,11 @@ VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, 
 
 VIII.- Prescripción positiva.
 
-IX.- Herencia o la cesión de derechos del heredero o legatario, cuando entre los bienes de la sucesión haya inmuebles, en la parte relativa y en proporción a éstos.
+> <small>(REFORMADA, P. O. 22 DE JUNIO DE 1984)</small>
+
+IX.- La herencia o la cesión de derechos del heredero, legatario o copropietario, en la parte relativa y en proporción a los inmuebles.
+
+Se entenderá como cesión de derechos la renuncia de la herencia o legado efectuada después de la declaratoria de herederos o legatarios.
 
 X.- Enajenación a través de fideicomiso, según los siguientes casos:
 
@@ -238,6 +248,14 @@ e) En el acto en que el fideicomitente ceda sus derechos si entre éstos se incl
 f) La transmisión de dominio de un inmueble en ejecución de un fideicomiso, salvo cuando éste se haga en favor del o de los fideicomisarios designados en el acto constitutivo del fideicomiso o de los adquirientes de los derechos del fideicomisario por cualquier título, siempre que en la constitución o adquisición se haya cubierto el impuesto correspondiente.
 
 XI.- En las permutas se considerará que se efectúan dos adquisicones (sic).
+
+> <small>(ADICIONADA, P. O. 22 DE JUNIO DE 1984)</small>
+
+XII.- La división de la copropiedad y la disolución de la sociedad conyugal, por la parte que se adquiera en demasía del porciento que le correspondía al copropietario o cónyuge.
+
+> <small>(ADICIONADA, P. O. 22 DE JUNIO DE 1984)</small>
+
+XIII.- La celebración de contratos de arrendamiento financiero y la cesión de derechos del arrendamiento financiero.
 
 ###### ARTICULO 29.
 
@@ -333,11 +351,17 @@ d) Descripción del inmueble.
 
 No se causa el impuesto en los siguientes casos:
 
-I.- En las adquisiciones que se realicen al constituir o disolver la sociedad conyugal, así como en el acto en que se cambien las capitulaciones matrimoniales. No queda incluída en esta fracción la transmisión hereditaria de la parte correspondiente a cada cónyuge en la sociedad conyugal.
+> <small>(REFORMADA, P. O. 22 DE JUNIO DE 1984)</small>
 
-II.- Cuando el adquiriente sea el Gobierno Federal, el Gobierno del Estado y los Municipios, así como los Estados extranjeros en caso de reciprocidad.
+I.- En las adquisiciones de bienes que hagan la Federación, los Estados y los Municipios, para formar parte del dominio público.
 
-III.- Cuando se haga la división de una propiedad en común entre los copropietarios, siempre que las partes adjudicadas a los partícipes no excedan de sus respectivas porciones.
+> <small>(REFORMADA, P. O. 22 DE JUNIO DE 1984)</small>
+
+II.- Cuando por sentencia o declaratoria judicial se rescinda o anule el contrato.
+
+> <small>(REFORMADA, P. O. 22 DE JUNIO DE 1984)</small>
+
+III.- Cuando previamente se haya cubierto el impuesto al efectuarse ventas con reservas de dominio o sujetas a condición.
 
 IV.- Cuando por sentencia o declaración judicial se rescinda o anule un contrato.
 
@@ -413,9 +437,11 @@ SECION (SIC) CUARTA
 
 Impuestos adicionales
 
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1984)</small>
+
 ###### ARTICULO 48.
 
-Son objeto de estos impuesto (sic) la realización de pagos por concepto del impuesto predial, adquisición de inmuebles y derechos por servicios catastrales.
+Son objeto de éstos impuestos la realización de pagos por concepto del Impuesto Predial y derechos por servicios.
 
 ###### ARTICULO 49.
 
@@ -666,3 +692,11 @@ LIC. ALEJANDRO CERVANTES DELGADO.
 EL SECRETARIO DE GOBIERNO.
 
 LIC. HUMBERTO SALGADO GOMEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE JUNIO DE 1984.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
