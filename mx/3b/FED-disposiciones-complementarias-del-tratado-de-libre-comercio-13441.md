@@ -4,7 +4,7 @@ identifier: "FED-disposiciones-complementarias-del-tratado-de-libre-comercio-134
 country: "mx"
 rank: "otro"
 publication_date: "1993-12-30"
-last_updated: "2000-10-05"
+last_updated: "2000-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,23 +18,31 @@ scjn_last_update: "2012-06-29"
 ---
 # DISPOSICIONES COMPLEMENTARIAS DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE (MULTILATERAL, 1992)
 
-ACUERDO RELATIVO A LA SALVAGUARDA AGROPECUARIA DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, MEDIANTE EL CUAL SE DETERMINA LA MERCANCÍA COMPRENDIDA EN LA FRACCION Y CON LA TASA ARANCELARIA QUE SE INDICA
+ACUERDO POR EL QUE SE DAN A CONOCER LAS REGLAS PARA LA APLICACION DE LAS RESERVAS DE COMPRAS DEL SECTOR PUBLICO ESTABLECIDAS EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE Y PARA LA DETERMINACION DEL CONTENIDO NACIONAL EN LOS PROCEDIMIENTOS DE CONTRATACION DE OBRAS PUBLICAS
 
-Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 5 de octubre de 2000.
+Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 6 de octubre de 2000.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Comercio y Fomento Industrial.
 
-HERMINIO BLANCO MENDOZA, Secretario de Comercio y Fomento Industrial, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 2o. y 5o. fracción X de la Ley de Comercio Exterior; 1, 4 y 5 fracción XVI del Reglamento Interior de la Secretaría de Comercio y Fomento Industrial, y 8 del Decreto que establece la tasa aplicable para 2000 del Impuesto General de Importación para las mercancías originarias de América del Norte, Colombia, Venezuela, Costa Rica, Bolivia, Chile y Nicaragua, y
+HERMINIO BLANCO MENDOZA, Secretario de Comercio y Fomento Industrial, con fundamento en los artículos 34 de la Ley Orgánica de la Administración Pública Federal; 7, 8, 26 y 56 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; 8, 9, 27 y 74 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y 1 y 5 fracciones I y XVI del Reglamento Interior de la Secretaría de Comercio y Fomento Industrial, y tomando en cuenta la opinión de la Secretaría de Contraloría y Desarrollo Administrativo, y
 
 CONSIDERANDO
 
-Que el Decreto que establece la tasa aplicable para 2000 del Impuesto General de Importación para las mercancías originarias de América del Norte, Colombia, Venezuela, Costa Rica, Bolivia, Chile y Nicaragua, publicado en el Diario Oficial de la Federación el 31 de diciembre de 1999, dispone en su artículo 8 que se aplicará la tasa prevista en el Apéndice a ese Decreto, a las mercancías identificadas con el código “S”, siempre y cuando no se rebase el cupo mínimo de importación especificado para cada fracción en la lista de México, contenida en el Anexo 302.2 del Tratado de Libre Comercio de América del Norte;
+Que el 1 de enero de 1994 entró en vigor el Tratado de Libre Comercio de América del Norte, el cual en su capítulo X incluye disposiciones en materia de compras del sector público que establecen el derecho de reservar de la aplicación de dicho capítulo, parte de las compras que realiza el sector público a través de las dependencias y entidades de la Administración Pública Federal, listadas en los anexos 1001.1a-1 y 1001.1a-2 del Capítulo de Compras del Sector Público del Tratado de Libre Comercio de América del Norte;
 
-Que conforme a los registros estadísticos de las autoridades aduaneras, la importación de algunas mercancías originarias de los Estados Unidos de América, comprendidas en el Anexo 302.2 del Tratado de Libre Comercio de América del Norte, ha rebasado el volumen total de importación de cupo mínimo fijado en dicho Tratado, y
+Que en concordancia con las estrategias de crecimiento y modernización, México continúa negociando tratados de libre comercio en los que se incluyen las compras del sector público, buscando un acceso amplio y seguro a los mercados internacionales, fomentando la cooperación regional y multilateral, a fin de incrementar los flujos comerciales de bienes y servicios, así como el aumento en los niveles de inversión extranjera directa a nuestro país;
 
-Que para el efecto de que el arancel preferencial aplicable sea el listado en el artículo 8 del referido Decreto, corresponde a la Secretaría de Comercio y Fomento Industrial publicar en el Diario Oficial de la Federación que se ha rebasado el cupo mínimo; por lo que he tenido a bien expedir el siguiente:
+Que los artículos 14 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 29 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, publicadas en el Diario Oficial de la Federación el 4 de enero de 2000, disponen que en los procedimientos de contratación, las dependencias y entidades optarán, en igualdad de condiciones, por el empleo de los recursos humanos del país y por la utilización de los bienes o servicios de procedencia nacional y los propios de la región;
 
-ACUERDO RELATIVO A LA SALVAGUARDA AGROPECUARIA DEL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE, MEDIANTE EL CUAL SE DETERMINA LA MERCANCIA COMPRENDIDA EN LA FRACCION Y CON LA TASA ARANCELARIA QUE SE INDICA
+Que los artículos 26 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 27 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, establecen que la Secretaría de Comercio y Fomento Industrial determinará el carácter nacional o internacional y los criterios para determinar el contenido nacional de los trabajos a contratar, o bienes a ofertar en razón de las reservas, medidas de transición u otros supuestos establecidos en los tratados;
+
+Que la facultad para la determinación del carácter del procedimiento de contratación por parte de la Secretaría de Comercio y Fomento Industrial en términos del considerando anterior, no limita a la dependencia o entidad convocante para que, de conformidad con lo dispuesto en los artículos 28 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 30 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, realice un procedimiento de contratación internacional, previa investigación de mercado, que le permita conocer que no existe oferta nacional en cantidad o calidad del bien o servicio a adquirir, que los contratistas nacionales no cuenten con la capacidad para la ejecución de los trabajos o que sea conveniente en términos de precio;
+
+Que a efecto de contribuir a la consolidación de la gran cantidad de sectores industriales que constituyen la proveeduría del sector gubernamental y con ello favorecer el fortalecimiento de la economía de nuestro país en su conjunto, es conveniente continuar aprovechando las reservas de compras negociadas con ese propósito en el marco del Tratado de Libre Comercio de América del Norte y de las aplicables de los demás tratados, y
+
+Que con fecha 24 de noviembre de 1994, se publicó en el Diario Oficial de la Federación el acuerdo por el que se dan a conocer las reglas en materia de compras del sector público para la participación de las empresas micro, pequeñas y medianas; para las reservas del Tratado de Libre Comercio de América del Norte, y para la determinación del grado de integración nacional, reformado mediante diverso publicado en el mismo órgano de información el 8 de diciembre de 1995, los que requieren ser actualizados, a efecto de establecer disposiciones que presenten mayor claridad y procedimientos más ágiles y confiables, que permitan lograr una mejor administración de dichas reservas de compras, he tenido a bien expedir el siguiente:
+
+ACUERDO POR EL QUE SE DAN A CONOCER LAS REGLAS PARA LA APLICACION DE LAS RESERVAS DE COMPRAS DEL SECTOR PUBLICO ESTABLECIDAS EN EL TRATADO DE LIBRE COMERCIO DE AMERICA DEL NORTE Y PARA LA DETERMINACION DEL CONTENIDO NACIONAL EN LOS PROCEDIMIENTOS DE CONTRATACION DE OBRAS PUBLICAS
 
 ## TITULO I: DISPOSICIONES GENERALES
 
@@ -68,11 +76,253 @@ Se establecen las reglas de marcado de país de origen para determinar cuando un
 
 ###### ARTICULO UNICO.
 
-La importación de mercancías originarias de América del Norte, de conformidad con el Tratado de Libre Comercio de América del Norte, comprendidas en las fracciones arancelarias de la Tarifa de la Ley del Impuesto General de Importación que a continuación se indican, elegibles para ser consideradas como productos de los Estados Unidos de América, conforme al Acuerdo por el que se establecen reglas de marcado de país de origen para determinar cuándo una mercancía importada a territorio nacional se puede considerar una mercancía estadounidense, de conformidad con el Tratado de Libre Comercio de América del Norte, publicado en el Diario Oficial de la Federación el 7 de enero de 1994, estará sujeta a la siguiente tasa arancelaria ad-valorem:
+El presente Acuerdo tiene por objeto dar a conocer las Reglas, que a continuación se indican, en materia de compras del sector público, que permitan ejercer y administrar las reservas establecidas en el Tratado de Libre Comercio de América del Norte, así como para la determinación del contenido nacional en los procedimientos de contratación de obra pública.
 
-Fracción Descripción Tasa
+### CAPITULO I. DISPOSICIONES GENERALES
 
-0203.29.99 Las demás 20%
+PRIMERA.- Para los efectos de las presentes Reglas, se entenderá por:
+
+a) Catálogo: Catálogo de clasificación para las adquisiciones y obra pública disponible a través del Sistema;
+
+b) CFE: Comisión Federal de Electricidad;
+
+c) Contratos de compra: Los contratos de adquisiciones y arrendamientos de bienes muebles, con o sin opción de compra, de prestación de servicios en general, los de obra pública, y los de servicios relacionados con la obra pública;
+
+d) Dependencias y entidades sujetas: Las dependencias, empresas de participación estatal mayoritaria, órganos desconcentrados, organismos descentralizados y entidades de la Administración Pública Federal, contenidos en las Listas de México ubicadas en los anexos 1001.1a-1 y 1001.1a-2 del Capítulo de Compras del Sector Público del Tratado de Libre Comercio de América del Norte;
+
+e) Dirección: La Dirección General de Industrias;
+
+f) Dólares: Dólares de los Estados Unidos de América;
+
+g) Leyes: La Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
+
+h) Obras Públicas: Las consideradas como servicios de construcción en la segunda definición del artículo 1025 del Capítulo X del Tratado de Libre Comercio de América del Norte y las consideradas como tales en el artículo 3 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
+
+i) PEMEX: Petróleos Mexicanos y sus organismos subsidiarios;
+
+j) Procedimientos de contratación: las licitaciones públicas e invitaciones a cuando menos tres personas, en términos de los artículos 26 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 27 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas;
+
+k) Reservas: Disposiciones que permiten a las dependencias y entidades sujetas exceptuar ciertas compras de las obligaciones establecidas en el Capítulo X del Tratado de Libre Comercio de América del Norte con sus respectivos anexos;
+
+l) Reserva permanente: La reserva establecida en la Lista de México del Anexo 1001.2b párrafo 3 del Capítulo X del Tratado de Libre Comercio de América del Norte;
+
+m) Reserva transitoria: La reserva establecida en el Anexo 1001.2a párrafos 1 al 5 del Capítulo X del Tratado de Libre Comercio de América del Norte;
+
+n) Secretaría: La Secretaría de Comercio y Fomento Industrial;
+
+o) Servicios: Tanto los servicios en general como los servicios relacionados con la obra pública;
+
+p) Sistema: Sistema de Consultas y Orientación sobre las Reservas de Compras administrado por la Secretaría, con dirección en Internet: www.secofi-sicorc.gob.mx;
+
+q) Tratado: El Tratado de Libre Comercio de América del Norte, y
+
+r) Umbrales: Montos de referencia establecidos en el artículo 1001 párrafo 1 inciso c) del Capítulo X del Tratado de Libre Comercio de América del Norte, a partir de los cuales se define el ámbito de aplicación de las disposiciones de dicho capítulo.
+
+SEGUNDA.- La Secretaría estará facultada para interpretar estas Reglas a efectos administrativos.
+
+TERCERA.- Estas Reglas también normarán en la aplicación de las reservas contempladas en otros tratados comerciales internacionales de los que México sea parte, en lo que no se opongan a las disposiciones de tales tratados.
+
+CUARTA.- En los procedimientos de contratación que sigan las dependencias y entidades sujetas deberán observarse, en lo conducente, estas Reglas.
+
+QUINTA.- Estas Reglas no se aplicarán cuando se trate de compras entre una y otra entidad o dependencia o cuando las compras se realicen con préstamos de instituciones financieras regionales o multilaterales otorgados al Gobierno Federal o con su aval, puesto que las mismas están fuera del campo de aplicación del Tratado.
+
+SEXTA.- Las dependencias y entidades sujetas realizarán procedimientos de contratación de carácter nacional, salvo que se presente alguno de los supuestos para procedimientos de contratación internacional en términos de los artículos 28 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 30 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
+
+SEPTIMA.- Las dependencias y entidades sujetas no están obligadas a realizar licitaciones públicas internacionales bajo la cobertura del Tratado, cuando:
+
+a) El valor estimado del contrato sea menor al monto de los umbrales;
+
+b) El valor estimado de la contratación sea por un monto igual o mayor al de los umbrales, pero se presente uno de los siguientes supuestos contemplados en el Tratado:
+
+b.1) El objeto del contrato se refiera a bienes o servicios excluidos de la aplicación del Tratado, conforme a lo establecido en los anexos 1001.1b-1 y 1001.1b-2 del Capítulo X del propio Tratado;
+
+b.2) Se trate de compras de bienes agrícolas para fomentar programas de apoyo a la agricultura o bienes para la alimentación humana que lleven a cabo Leche Industrializada Conasupo, S. A. de C.V. (LICONSA) o el Sistema Nacional para el Desarrollo Integral de la Familia (DIF);
+
+b.3) Los bienes a adquirir estén sujetos a restricciones cuantitativas o permisos de importación;
+
+b.4) Hasta el 1 de enero de 2002, se trate de la adquisición de medicamentos que no hayan estado patentados en México al 1 de enero de 1994 o cuya patente en México haya expirado a partir de esa fecha, y que realicen la Secretaría de Salud, el Instituto Mexicano del Seguro Social (IMSS), el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE), las Secretarías de la Defensa Nacional y de Marina. La vigencia de la patente deberá verificarse en el Instituto Mexicano de la Propiedad Industrial;
+
+b.5) Las compras se realicen con miras a la reventa comercial en tiendas gubernamentales, y
+
+b.6) Exista en el Tratado algún supuesto distinto a los anteriores que, de manera opcional, permita eximir la operación de las disposiciones del propio Tratado.
+
+La verificación de la vigencia de la patente a la que se refiere el inciso b.4) anterior, se deberá acreditar a través de la constancia o certificación que, para tal efecto, expida el Instituto Mexicano de la Propiedad Industrial, a solicitud de la convocante o del proveedor, según se determine en las bases del procedimiento de contratación correspondientes.
+
+En caso de que sea el proveedor el que realice la verificación, deberá presentar ante la convocante copia de la respuesta del Instituto Mexicano de la Propiedad Industrial, en donde se señale la vigencia de la patente correspondiente al medicamento que oferta.
+
+Las contrataciones comprendidas en los supuestos a que alude esta Regla, se sujetarán únicamente a lo dispuesto por las Leyes.
+
+### CAPITULO II
+
+DE LA DETERMINACION Y EJERCICIO DE LA RESERVA PERMANENTE PARA LAS ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS PARA LAS ENTIDADES Y DEPENDENCIAS SUJETAS, EXCEPTO PEMEX Y CFE
+
+OCTAVA.- La reserva permanente anual se encuentra determinada en los términos del Anexo 1001.2b, Lista de México párrafo 3 del Capítulo X del Tratado.
+
+NOVENA.- Hasta el 31 de diciembre de 2002, las Reglas contenidas en este capítulo sólo son aplicables a las dependencias y entidades sujetas, con excepción de PEMEX y CFE.
+
+DECIMA.- Cuando las dependencias y entidades sujetas, pretendan realizar un procedimiento para la contratación de adquisiciones, arrendamientos o prestación de servicios y se presenten las circunstancias que enseguida se detallan, deberán solicitar a la Dirección les determine la inclusión o no de dicha contratación en la reserva permanente del Tratado, a través de la indicación del carácter que deberá tener dicho procedimiento:
+
+(a) Tenga obligatoriedad de cobertura del Tratado, es decir que no se presenten los supuestos establecidos en la Regla séptima de este Acuerdo;
+
+(b) Corresponda a los bienes y/o servicios listados en el Anexo (A) de este Acuerdo, y
+
+(c) La convocante considere que, en términos de precio, cantidad, calidad o capacidad de ejecución, es conveniente la realización de un procedimiento de contratación de carácter nacional.
+
+Esta solicitud se hará por escrito o por transmisión electrónica a través del Sistema, mediante el requisitado del formato RESE-1, incluido tanto en el Anexo (E) de este Acuerdo como en el Sistema, informando, conforme al Catálogo, sobre el tipo de bien o servicios a contratar y el monto estimado del contrato.
+
+DECIMAPRIMERA.- Cuando se cumplan los supuestos de los incisos (a) y (c) de la Regla Décima y los bienes y servicios objeto del contrato no correspondan a los listados en el Anexo (A) de este Acuerdo, la dependencia o entidad podrá solicitar a la Dirección, en términos de dicha Regla, le determine la inclusión o no en la reserva permanente, indicándole el carácter que deberá tener la licitación.
+
+DECIMASEGUNDA.- Cuando las dependencias y entidades sujetas, pretendan seguir un procedimiento de excepción a la licitación pública, en el que participen exclusivamente proveedores o contratistas nacionales y se trate de operaciones de compra dentro del ámbito de aplicación del Tratado, al amparo de un supuesto contenido en las Leyes que no esté contemplado en alguna de las circunstancias para licitación restringida relacionadas en el artículo 1016 párrafo 2 del Capítulo X del Tratado, sólo podrán hacerlo si la Dirección determina su inclusión en la reserva permanente.
+
+Para ello, se deberá consultar a la Dirección por escrito o por transmisión electrónica a través del Sistema, en términos de la Regla Décima, si el procedimiento de invitación restringida puede ser contabilizado en dicha reserva.
+
+DECIMATERCERA.- No será necesario solicitar la inclusión en la reserva permanente para los procedimientos que se realicen amparados en las circunstancias de licitación restringida comprendidas en el artículo 1016 párrafo 2 del Capítulo X del Tratado. Estas circunstancias sólo podrán aplicarse si a su vez están previstas en los supuestos contenidos en las Leyes.
+
+DECIMACUARTA.- En cualquier supuesto de invitación a cuando menos tres personas contenido en las Leyes o de licitación restringida establecido en el Tratado, las dependencias y entidades deberán observar lo dispuesto en los artículos 43 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 44 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
+
+DECIMAQUINTA.- La Dirección responderá a la consulta por el mismo medio en que fue presentada, en un plazo máximo de cinco días hábiles, contado a partir de la fecha de presentación de la solicitud respectiva. En caso contrario, la dependencia o entidad solicitante entenderá que el procedimiento de contratación quedará incluido en la reserva permanente, y realizará una licitación pública nacional, para el caso de las Reglas Décima y Decimaprimera, o un procedimiento de invitación a cuando menos tres personas de carácter nacional conforme a las Leyes, para el caso de la Regla Decimasegunda.
+
+En caso de que la Dirección resuelva que el procedimiento no queda cubierto por la reserva permanente, las dependencias y entidades deberán realizar una licitación internacional bajo la cobertura del Tratado.
+
+DECIMASEXTA.- Dentro de un plazo de treinta días naturales posteriores a la firma del (los) contrato(s) de operaciones que hayan sido determinados con cargo a la reserva permanente, las dependencias y entidades sujetas deberán informar a la Dirección sobre dicha formalización. Esto se hará por escrito o por transmisión electrónica a través del Sistema, mediante el requisitado del formato RESE-2 incluido en el Anexo (E) de este Acuerdo y en el Sistema, indicando, con base en el Catálogo, el (los) bien(es) o servicio(s) contratado(s) y monto total de la contratación.
+
+DECIMASEPTIMA.- En caso de que alguna de las operaciones determinadas por la Dirección para su inclusión en la reserva permanente sea declarada desierta, la dependencia o entidad convocante deberá informar de ello a la Dirección por escrito o por transmisión electrónica a través del Sistema, dentro de un plazo de diez días naturales posteriores a la resolución respectiva.
+
+DECIMAOCTAVA.- En el ejercicio anual de la reserva permanente, corresponderá a la Dirección supervisar las disposiciones siguientes:
+
+a) Que no se aplique más de 10 por ciento del monto de la reserva permanente a un solo código a cinco dígitos para bienes muebles del Catálogo, y
+
+b) Que ninguna dependencia o entidad reserve contratos de bienes y servicios en cualquier año, por un valor mayor al 20 por ciento del total de la reserva permanente.
+
+### CAPITULO III
+
+DE LA DETERMINACION Y EL EJERCICIO DE LA RESERVA TRANSITORIA PARA PEMEX Y CFE Y, EN MATERIA DE OBRAS PUBLICAS, PARA LAS DEMAS DEPENDENCIAS Y ENTIDADES SUJETAS, PARA EL PERIODO 2000-2002
+
+DECIMANOVENA.- En términos del Tratado, la reserva transitoria hasta el 31 de diciembre del año 2002, para PEMEX y CFE, es un porcentaje definido anualmente del monto total de sus contratos de adquisiciones, arrendamientos, prestación de servicios y obra pública, que igualen o superen el valor de los umbrales y, para las demás dependencias y entidades sujetas, de un porcentaje calculado anualmente, del monto total de sus contratos de obra pública que igualen o superen el valor de los umbrales.
+
+Para efectos del párrafo anterior no se incluirán en el cálculo del monto total de los contratos, aquellos contratos financiados por préstamos otorgados al Gobierno Federal o con su aval, a través de instituciones financieras regionales o multilaterales.
+
+Las dependencias y entidades sujetas deberán observar las Reglas contenidas en este Capítulo hasta el 31 de diciembre del año 2002.
+
+VIGESIMA.- Las dependencias y entidades sujetas determinarán anualmente el monto de su reserva transitoria, multiplicando la base de la reserva Bt por el factor rt que les corresponda, de acuerdo con la siguiente expresión:
+
+Rt = Bt (rt)
+
+En donde:
+
+Rt = Reserva para el año t.
+
+Bt = Base de la reserva para el año t.
+
+rt = Porcentaje correspondiente al año t, expresado en decimales.
+
+Año 2000 2001 2002
+
+rt 0.35 0.30 0.30
+
+PEMEX y CFE determinarán la base de sus respectivas reservas restando al monto total de los contratos de adquisiciones, arrendamientos, contratación de servicios y obras públicas que realizarán en el año, el monto de los contratos que se encuentren abajo de umbrales y los que se ubiquen por arriba de los umbrales, pero que serán financiados por préstamos de instituciones financieras regionales o multilaterales, conforme a la siguiente expresión:
+
+Bt = (bt + st + ct) - (ut + ft)
+
+Las dependencias y entidades sujetas, con excepción de PEMEX y CFE, determinarán anualmente la base de su reserva transitoria, en materia de obras públicas, restando al monto total de los contratos de obra pública que realizarán en el año, el monto de dichos contratos que se encuentren abajo de umbrales y los que se ubiquen por arriba de los umbrales, pero que serán financiados por préstamos de instituciones financieras regionales o multilaterales, conforme a la siguiente expresión:
+
+Btc = ct - (utc + ftc)
+
+En donde:
+
+Bt = Base de la reserva para el año t.
+
+Btc = Base de la reserva de obra pública para el año t.
+
+bt = Monto total de los contratos de adquisiciones y arrendamientos para el año t.
+
+st = Monto total de los contratos de servicios para el año t.
+
+ct = Monto total de los contratos de obra pública para el año t.
+
+ut = Monto total de los contratos por abajo de los umbrales para el año t.
+
+utc = Monto total de los contratos de obra pública por abajo de los umbrales para el año t.
+
+ft = Monto total de los contratos por arriba de los umbrales, financiados por préstamos de instituciones financieras regionales o multilaterales para el año t.
+
+ftc = Monto total de los contratos de obra pública por arriba de los umbrales, financiados por préstamos de instituciones financieras regionales o multilaterales para el año t.
+
+El monto total de los contratos al que se refieren las variables de la expresión para el cálculo de la base de la reserva incluye, entre otros, el de los proyectos llave en mano, los proyectos integrales, los proyectos de infraestructura productiva de impacto diferido en el registro del gasto público, las compras intragubernamentales y las contrataciones por invitación a cuando menos tres personas o por adjudicación directa.
+
+Cuando se trate de contratos multianuales, se deberá considerar el monto total para el periodo total que abarcará el contrato respectivo.
+
+VIGESIMAPRIMERA.- PEMEX, CFE y, en materia de obras públicas, las otras dependencias y entidades sujetas, deberán informar a la Dirección, por escrito o por transmisión electrónica a través del Sistema, el monto de su reserva transitoria con base en valores estimados de los procedimientos de contratación que se esperan realizar, calculada conforme a la Regla Vigésima, a más tardar el 31 de marzo de cada año.
+
+El cálculo de este monto deberá ser actualizado por PEMEX y CFE e informado a la Dirección, por escrito o por transmisión electrónica a través del Sistema, en dos reportes posteriores al citado en el párrafo previo, antes del 31 de julio y del 31 de enero del año siguiente, a efecto de determinar la evolución de los montos correspondientes a la reserva en el primer semestre y en el año en su conjunto, respectivamente.
+
+Las cifras que se utilicen para informar el monto actualizado de la reserva transitoria deberán considerar los ajustes necesarios por el ejercicio de la reserva que se haya realizado en el periodo previo al que se reporta y en función de las operaciones de compra en su totalidad llevadas a cabo.
+
+El informe se deberá presentar mediante el requisitado de los formatos RESE-3, para PEMEX y CFE, o RESE-4, para el resto de las dependencias y entidades sujetas. Estos formatos se encuentran incluidos tanto en el Anexo (E) de este Acuerdo como en el Sistema.
+
+VIGESIMASEGUNDA.- PEMEX y CFE deberán ejercer su correspondiente reserva transitoria, por un monto no mayor a su reserva calculada conforme a la Regla Vigésima, atendiendo las prioridades establecidas para adquisición de bienes, arrendamientos, prestación de servicios y obras públicas a que se refieren los Anexos (B) y (C) de este Acuerdo, cuyos procedimientos de contratación se estime que superen el valor de los umbrales respectivos, a menos que, previa investigación de mercado conforme los artículos 28 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 30 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, dichas entidades consideren conveniente la realización de una licitación pública internacional, en cuyo caso se aplicarán las disposiciones del Tratado.
+
+Para estos efectos, PEMEX y CFE deberán mantener un registro del monto que se haya estimado, antes de la publicación de la convocatoria, para cada uno de los procedimientos de contratación realizados al amparo de su respectiva reserva.
+
+VIGESIMATERCERA.- PEMEX y CFE deberán dar seguimiento a la evolución de su respectiva reserva transitoria, a efecto de que se cumplan las siguientes disposiciones:
+
+a) Que el ejercicio de la reserva no exceda en cada año el monto total reservable;
+
+b) En cada año, no aplicar a la reserva, más de 10 por ciento del monto total reservable para ese año, a un solo código a cinco dígitos de bienes muebles del Catálogo, y
+
+c) Procurar que no se reserve más de 50 por ciento del monto total anual de contratos correspondientes a cualquier código a cinco dígitos de bienes muebles del Catálogo.
+
+VIGESIMACUARTA.- Las dependencias y entidades sujetas, con excepción de PEMEX y CFE, reservarán hasta un monto equivalente a su reserva transitoria anual calculada conforme a la Regla Vigésima, los contratos de obra pública a que se refiere el Anexo (D) de este Acuerdo que se estime igualen o superen el valor de los umbrales, a menos que, previa investigación de mercado en términos del artículo 30 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas, se considere conveniente la realización de una licitación pública internacional, en cuyo caso se aplicarán las disposiciones del Tratado.
+
+VIGESIMAQUINTA.- Cuando las dependencias y entidades sujetas, con excepción de PEMEX y CFE, pretendan reservar un contrato de obra pública, cuyo valor estimado exceda al monto de su reserva transitoria anual, calculada conforme a la Regla Vigésima, deberán consultar a la Dirección por escrito o por transmisión electrónica a través del Sistema, sobre el carácter que deberá tener el procedimiento de contratación y si podrá ser con cargo a su reserva transitoria, informando sobre las características y el valor del contrato a celebrar, procurando realizar esta consulta antes del 31 de marzo de cada año.
+
+VIGESIMASEXTA.- Cuando las dependencias y entidades sujetas, en materia de obras públicas, o PEMEX y CFE, pretendan seguir un procedimiento de excepción a la licitación pública, en el que participen exclusivamente proveedores o contratistas nacionales y se trate de operaciones de compra dentro del ámbito de aplicación del Tratado, al amparo de un supuesto contenido en las Leyes que no esté contemplado en alguna de las circunstancias para licitación restringida relacionadas en el artículo 1016 párrafo 2 del Capítulo X del Tratado, sólo podrán hacerlo si lo realizan con cargo a su reserva transitoria.
+
+VIGESIMASEPTIMA.- No será necesario incluir en la reserva transitoria procedimientos que se realicen amparados en las circunstancias de licitación restringida comprendidas en el artículo 1016 párrafo 2 del Capítulo X del Tratado. Estas circunstancias sólo podrán aplicarse si a su vez están previstas en los supuestos contenidos en las Leyes.
+
+VIGESIMAOCTAVA.- En cualquier supuesto de invitación a cuando menos tres personas contenido en las Leyes o de licitación restringida establecido en el Tratado, las dependencias y entidades sujetas deberán observar lo dispuesto en los artículos 43 de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y 44 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
+
+VIGESIMANOVENA.- PEMEX, CFE y las otras dependencias y entidades sujetas deberán informar a la Dirección, por escrito o por transmisión electrónica a través del Sistema, en los meses de enero, abril, julio y octubre, sobre los contratos formalizados cubiertos por la reserva transitoria, acumulados en el año hasta el trimestre inmediato anterior, indicando su número, monto respectivo y clasificación con base en el Catálogo. El informe contendrá los contratos formalizados que hayan sido convocados en el año que se reporta.
+
+El informe se deberá presentar mediante el requisitado de los formatos RESE-5, para PEMEX y CFE, o RESE-6, para el resto de las dependencias y entidades sujetas. Estos formatos se encuentran incluidos tanto en el Anexo (E) de este Acuerdo como en el Sistema.
+
+En el caso de que, de acuerdo al requisitado del formato RESE-4, la dependencia o entidad determine que el monto calculado de su reserva transitoria de obra pública es cero, no estará obligada a presentar posteriormente el formato RESE-6.
+
+### CAPITULO IV. DE LA DETERMINACION Y APLICACION DEL CONTENIDO NACIONAL EN LOS PROCEDIMIENTOS DE CONTRATACION DE OBRAS PUBLICAS
+
+TRIGESIMA.- Es posible reservar de la aplicación del Tratado un proyecto llave en mano, un proyecto integral o un proyecto de infraestructura productiva de impacto diferido en el registro del gasto público y realizar el procedimiento de contratación, con carácter nacional o internacional, exento de la cobertura del Tratado, a cuenta de la reserva transitoria, requiriendo la incorporación de materiales (diferentes a los de la construcción), maquinaria y equipo de instalación permanente de fabricación nacional, por un porcentaje del valor total del proyecto, que puede variar según las consideraciones de la dependencia o entidad contratante atendiendo al análisis técnico de cada proyecto y a las circunstancias en que se encuentre la oferta nacional de dichos bienes.
+
+La Dirección podrá apoyar a la dependencia o entidad contratante, previa consulta por escrito, en la determinación de los bienes que conformarán el contenido nacional del proyecto.
+
+TRIGESIMAPRIMERA.- El contenido nacional por proyecto a que se refiere la Regla Trigésima se determinará con base en alguna de las siguientes expresiones:
+
+CNP1 = VSN VP *100
+
+CNP2 = VSN VTP *100
+
+En donde:
+
+CNPn = Contenido nacional mínimo del proyecto correspondiente, expresado en porcentaje.
+
+VSN = Valor de los materiales (diferentes a los de la construcción), maquinaria y equipo de instalación permanente, de fabricación nacional, en el proyecto correspondiente.
+
+VP = Valor de la procura del proyecto.
+
+VTP = Valor total del proyecto que incluye el valor de la ingeniería, de la obra civil y de los suministros.
+
+TRIGESIMASEGUNDA.- Es factible también establecer requisitos de contenido local para licitaciones internacionales de estos proyectos bajo la cobertura del Tratado acordes a las disposiciones contenidas en el numeral 6 de la Lista de México contenida en el Anexo 1001.2b del Capítulo X del propio Tratado.
+
+TRIGESIMATERCERA.- Para reservar contratos de estos proyectos o para imponer requisitos de contenido local en los mismos, la dependencia o entidad contratante consultará a la Dirección por escrito, especificando las características del proyecto y su propuesta de contenido nacional, en la cual deberá considerar preferentemente los bienes descritos en el Anexo B del presente Acuerdo, para que se determine la reserva del contrato con la inclusión de un porcentaje de contenido nacional o bien las opciones para exigir los requisitos de contenido local en los términos de los párrafos previos.
+
+TRIGESIMACUARTA.- Los materiales (diferentes a los de la construcción), maquinaria y equipo de instalación permanente, que conformen el contenido nacional de los proyectos, deberán cumplir con las disposiciones contenidas en el Acuerdo por el que se establecen las reglas para la determinación y acreditación del grado de contenido nacional, tratándose de procedimientos de contratación de carácter nacional, publicado en el Diario Oficial de la Federación el 3 de marzo de 2000.
+
+El licitante deberá manifestar por escrito, bajo protesta de decir verdad, que los materiales (diferentes a los de la construcción), maquinaria y equipo, que constituyan el contenido nacional del proyecto, cumplen con las reglas contenidas en el Acuerdo citado en el párrafo previo.
+
+La Dirección, conjuntamente con la dependencia o entidad contratante, podrá llevar a cabo la verificación del cumplimiento del contenido nacional del proyecto.
+
+TRIGESIMAQUINTA.- La dependencia o entidad contratante podrá establecer condiciones adicionales en las bases de los procedimientos de contratación de los proyectos que permitan garantizar el cumplimiento del contenido nacional establecido, en el marco de la normatividad vigente de la materia.
+
+TRIGESIMASEXTA.- Para la determinación del contenido nacional de las obras públicas, las dependencias, empresas de participación estatal mayoritaria, órganos desconcentrados, organismos descentralizados y entidades de la Administración Pública Federal, que no se encuentren contenidos en las Listas de México, ubicadas en los anexos 1001.1a-1 y 1001.1a-2 del Capítulo de Compras del Sector Público del Tratado de Libre Comercio de América del Norte, podrán aplicar, en lo conducente, lo dispuesto en las reglas del presente Capítulo, sin que tengan la obligación de consultar a la Dirección.
 
 #### SECCION I: ELIMINACION ARANCELARIA
 
@@ -338,8 +588,498 @@ Se adicionan al Apéndice del Decreto que establece la tasa aplicable para 2000 
 
 (VEASE ARCHIVO ANEXO)
 
-## TRANSITORIO
+## TRANSITORIOS
 
-UNICO.- El presente Acuerdo tendrá vigencia a partir del día siguiente al de su publicación en el Diario Oficial de la Federación y hasta el 31 de diciembre de 2000.
+Primero.- Este Acuerdo entrará en vigor a los diez días siguientes de su publicación en el Diario Oficial de la Federación.
 
-México, D.F., a 29 de septiembre de 2000.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.
+SEGUNDO.- Quedan sin efecto a la entrada en vigor de este Acuerdo: los Capítulos I, III y IV, así como los anexos A, B, C, D, E, F y H del Acuerdo por el que se dan a conocer las Reglas en materia de compras del sector público para la participación de las empresas micro, pequeñas y medianas; para las reservas del Tratado de Libre Comercio de América del Norte, y para la determinación del grado de integración nacional, publicado en el Diario Oficial de la Federación el 24 de noviembre de 1994, reformado mediante diverso publicado en el mismo órgano de información, el 8 de diciembre de 1995.
+
+TERCERO.- La consulta y los informes por transmisión electrónica a que hacen referencia las Reglas contenidas en los capítulos II y III de este Acuerdo entrarán en operación el 1 de marzo de 2001. A partir del 1 de marzo de 2002 la presentación de consultas e informes por transmisión electrónica será obligatoria, salvo que la dependencia o entidad no cuente con el acceso a Internet y así lo informe a la Dirección.
+
+CUARTO.- Las consultas presentadas previamente a la entrada en vigor de este Acuerdo, serán resueltas de conformidad con los capítulos I, III y IV del Acuerdo citado en el SEGUNDO TRANSITORIO del presente Acuerdo.
+
+QUINTO.- Las dependencias y entidades sujetas que se encuentren en proceso de liquidación o desincorporación les serán aplicables las reglas del presente Acuerdo hasta que no se finiquite dicho proceso.
+
+ANEXO (A)
+
+LISTA DE BIENES Y SERVICIOS QUE DEBERAN SER CONSIDERADOS EN LA APLICACION DE LA RESERVA DE 1000 MILLONES DE DOLARES
+
+BIENES
+
+1. Aceites y lubricantes.
+
+2. Alimentos (incluye, entre otros: alimentos preparados, pan, enlatados, harinas y pastas).
+
+3. Aparatos y equipos electrónicos de audio y video.
+
+4. Artículos de limpieza (incluye, entre otros: escobas, jabones, cubetas y desodorantes ambientales).
+
+5. Bicicletas y motocicletas.
+
+6. Blancos (incluye, entre otros: sábanas, manteles y colchas).
+
+7. Calzado (incluye, entre otros: calzado deportivo, de uso industrial o especial).
+
+8. Consumibles para equipo de cómputo (incluye, entre otros: discos magnéticos, cintas para impresora y formas continuas).
+
+9. Documentos oficiales de identificación vehicular (placas metálicas, calcomanías, hologramas, tarjetas de circulación, licencias de conductor, formatos de permisos y certificados de verificación vehicular).
+
+10. Equipo de cómputo, sus periféricos, partes y accesorios.
+
+11. Equipo de grabación.
+
+12. Equipo de impresión, duplicación y encuadernación.
+
+13. Equipo de laboratorio.
+
+14. Equipo marino y embarcaciones diversas.
+
+15. Equipo y artículos deportivos.
+
+16. Equipos de comunicaciones eléctricas (telecomunicaciones).
+
+17. Equipos y aparatos de electrónica industrial y científica.
+
+18. Juguetes.
+
+19. Leche (no incluye las compras realizadas bajo los supuestos señalados en los incisos b.2) y b.5) de la Regla Séptima de este Acuerdo).
+
+20. Libros, mapas y otras publicaciones (no incluye dibujos y especificaciones adquiridas por SEDEMAR y SEDENA).
+
+21. Luces para señalización.
+
+22. Maíz industrializado (no incluye las compras realizadas bajo los supuestos señalados en los incisos b.2) y b.5) de la Regla Séptima de este Acuerdo).
+
+23. Manufacturas eléctricas (incluye, entre otros: motores y generadores eléctricos y sistemas de energía eléctrica ininterrumpibles).
+
+24. Manufacturas metálicas (incluye, entre otras: herramientas de mano, utensilios de cocina y cerraduras).
+
+25. Maquinaria y equipo metal mecánico.
+
+26. Máquinas y equipos electrónicos para oficina y comercio.
+
+27. Material de construcción.
+
+28. Material didáctico.
+
+29. Microscopios (incluye, entre otros: microscopios de ginecología y colposcopios).
+
+30. Mobiliario y equipo escolar y de oficina.
+
+31. Muebles de hospital.
+
+32. Papel (incluye, entre otros: papel bond y papel para uso en instrumentos de registro).
+
+33. Papelería y accesorios de oficina.
+
+34. Petardos para señalización.
+
+35. Prendas de vestir (incluye, entre otros: uniformes, ropa deportiva, de uso industrial o especial).
+
+36. Productos auxiliares para la salud y equipo médico.
+
+37. Productos de hule y plástico.
+
+38. Productos químicos (incluye, entre otros: pinturas, tintas, resinas y solventes).
+
+39. Programas de aplicación (software).
+
+40. Recipientes y materiales de embalaje (incluye, entre otros: sacos, cajas de madera y envases de papel y de cartón).
+
+41. Refacciones industriales (incluye, entre otros: válvulas, chumaceras, engranes y flechas).
+
+42. Señalizaciones para carreteras.
+
+43. Tractores agrícolas.
+
+SERVICIOS
+
+1. De arquitectura e ingeniería.
+
+2. De bienes raíces.
+
+3. De consultoría.
+
+4. De ingeniería mecánica, eléctrica, química y electrónica.
+
+5. De mantenimiento, reparación, modificación, reconstrucción e instalación de equipo.
+
+6. De mantenimiento y operación de instalaciones.
+
+7. De mantenimiento de equipo de cómputo.
+
+8. De computación y procesamiento y captura de datos.
+
+9. Estudios de apoyo administrativo.
+
+10. Estudios de ingeniería.
+
+11. Estudios económicos.
+
+12. Estudios geotécnicos.
+
+13. Relacionados con la construcción.
+
+14. Relacionados con la tributación (excluyendo los servicios legales).
+
+15. Tratamiento y envasado de leche.
+
+ANEXO (B)
+
+LISTA DE BIENES QUE DEBERAN SER CONSIDERADOS EN LA APLICACION DE LAS RESERVAS DE PEMEX Y CFE
+
+Prioridad 1
+
+1. Cabezales; árboles de válvulas; válvulas y actuadores; preventores.
+
+2. Carbón mineral.
+
+3. Equipos de perforación petrolera terrestre, sus partes y componentes.
+
+4. Plataformas marinas, sus partes y componentes.
+
+5. Torres para líneas de transmisión; amortiguadores; herrajes; aisladores eléctricos.
+
+6. Transformadores y reguladores de potencia; autotransformadores; transformadores de distribución, subestaciones móviles y encapsuladas.
+
+7. Tubería de acero con y sin costura; tubería de acero inoxidable con costura; sus accesorios, bridas y conexiones.
+
+Prioridad 2
+
+1. Calderas y generadores de vapor, de agua sobrecalentada y para calefacción; sus partes y aparatos auxiliares.
+
+2. Conductores eléctricos.
+
+3. Equipos de bombeo; bombas volumétricas alternativas y centrífugas; sus partes y componentes.
+
+4. Intercambiadores de calor; condensadores; reactores y columnas de proceso; recipientes a presión; plantas endulzadoras y acondicionadoras de gas; torres de enfriamiento.
+
+5. Watthorímetros.
+
+Prioridad 3
+
+1. Aparatos para mezclar; agitadores y aereadores.
+
+2. Bancos de capacitores.
+
+3. Cables de fibra óptica.
+
+4. Compresores; moto y turbocompresores; bombas de aire o de vacío.
+
+5. Depósitos; cisternas; recipientes.
+
+6. Equipo de cómputo e informática.
+
+7. Equipo de destilación y desalación para el sector energético.
+
+8. Equipos y aparatos electrónicos de audio y video.
+
+9. Equipos y aparatos para comunicaciones eléctricas (telecomunicaciones).
+
+10. Evaporadoras; secadoras; deshidratadoras.
+
+11. Fusibles; listón fusible; limitadores de corriente; apartarrayos; disyuntores; interruptores; cuchillas desconectadoras; seccionadores; cortacircuitos; conectores; relevadores.
+
+12. Hornos; calentadores; quemadores.
+
+13. Máquinas y equipos electrónicos para oficina y comercio.
+
+14. Motores y generadores eléctricos.
+
+15. Reductores, multiplicadores y variadores de velocidad.
+
+16. Tableros y equipos de control.
+
+17. Turbinas de vapor e hidráulicas inferiores a 40,000 HP.
+
+Prioridad 4
+
+1. Aparatos electrónicos accionados por fichas o monedas.
+
+2. Aspiradoras industriales.
+
+3. Enceradoras o pulidoras industriales.
+
+4. Equipo de grabación.
+
+5. Equipo para tratamiento de agua y efluentes.
+
+6. Equipos de limpieza para toma de agua de alimentación o enfriamiento de calderas (rejillas).
+
+7. Equipos y aparatos de electrónica industrial y científica.
+
+8. Excavadoras; carros para mover materiales; motoconformadoras.
+
+9. Extintores y sistemas contra incendio.
+
+10. Grúas puente y de pórtico; grúas en camiones menores a 30 toneladas.
+
+11. Grupos motor-generador; sistemas de energía eléctrica ininterrumpibles; bancos y cargadores de batería; restauradores.
+
+12. Partes y componentes de circuitos electrónicos.
+
+13. Plantas de refrigeración.
+
+14. Postes de madera.
+
+15. Registradores de nivel, manómetros y controladores de presión.
+
+16. Separadores centrífugos; filtros de presión, vacío, mecánicos y electrostáticos.
+
+17. Transformadores de potencial y de corriente.
+
+Prioridad 5
+
+1. Abarrotes y artículos alimenticios.
+
+2. Accesorios para cuerdas, cables y cadenas.
+
+3. Artículos de oficina.
+
+4. Barras y varillas de fierro y acero.
+
+5. Carros de ferrocarril.
+
+6. Cepillos, escobas, mops y esponjas.
+
+7. Ceras, aceites y grasas varias.
+
+8. Componentes para baterías y alineadores.
+
+9. Conjuntos y juegos de herramienta de mano.
+
+10. Contenedores, materiales y suministro de empaques.
+
+11. Dibujos y especificaciones.
+
+12. Envases.
+
+13. Equipo de aire acondicionado.
+
+14. Equipo de construcción y mantenimiento ferroviario.
+
+15. Equipo especial de calentamiento y calentadores de agua domésticos.
+
+16. Equipo de laboratorio (suministro).
+
+17. Equipo de reparación de taller especializado.
+
+18. Formas estructurales en hierro y acero.
+
+19. Gases: comprimido y líquido.
+
+20. Llantas, cámaras y accesorios (excepto para aéreos).
+
+21. Mangueras, conexiones y tubos especiales.
+
+22. Mangueras y tubería flexible.
+
+23. Materiales de cirugía.
+
+24. Materiales de construcción y edificación.
+
+25. Materiales minerales para la construcción.
+
+26. Mobiliario de casa.
+
+27. Muebles para oficina.
+
+28. Pernos.
+
+29. Pinturas, barnices y solventes.
+
+30. Productos farmacéuticos, auxiliares para la salud y equipo médico (no incluye compras de fármacos y medicamentos patentados en México).
+
+31. Refacciones y accesorios para maquinaria.
+
+32. Remolques.
+
+33. Sistemas y componentes de iluminación.
+
+34. Sustancias para limpieza y pulido.
+
+35. Sustancias químicas.
+
+36. Tractores.
+
+37. Vestuario de protección.
+
+Prioridad 6
+
+Resto de bienes.
+
+ANEXO (C)
+
+LISTA DE SERVICIOS Y OBRAS PUBLICAS QUE DEBERAN SER CONSIDERADOS EN LA APLICACION DE LAS RESERVAS DE PEMEX Y CFE
+
+Prioridad 1
+
+Servicios
+
+1. De consultoría.
+
+2. Relacionados con la construcción.
+
+3. Perforación de pozos petroleros.
+
+Obras públicas
+
+1. Construcción para edificios.
+
+2. Trabajos de ingeniería civil.
+
+2.1 De vías férreas y pistas de aterrizaje.
+
+2.2 De puentes, carreteras elevadas, túneles y tren subterráneo.
+
+2.3 De puertos, presas y otros trabajos hidráulicos.
+
+2.4 De tendido de tubería de larga distancia, de líneas de comunicaciones y de líneas eléctricas de transmisión y distribución.
+
+2.5 De construcciones para minería.
+
+2.6 De obras de ingeniería no clasificada en otra parte:
+
+2.6.1. Construcción de plataformas marítimas.
+
+2.6.2. Plantas petroquímicas.
+
+2.6.3. Refinerías.
+
+2.6.4. Subestaciones eléctricas.
+
+2.6.5. Plantas generadoras de electricidad y sus instalaciones (hidroeléctricas, carboeléctricas, termoeléctricas, etc.).
+
+Prioridad 2
+
+Servicios
+
+1. Relacionados con la tributación (excluyendo los servicios legales).
+
+2. De computación y conexos.
+
+3. De bienes raíces.
+
+Prioridad 3
+
+Resto de servicios y obras públicas.
+
+ANEXO (D)
+
+LISTA DE OBRAS PUBLICAS QUE DEBERAN SER CONSIDERADAS EN LA APLICACION DE LA RESERVA TRANSITORIA DE LAS DEPENDENCIAS Y ENTIDADES SUJETAS, CON EXCEPCION DE PEMEX Y CFE
+
+1. Obras de pre-edificación en los terrenos de construcción.
+
+1.1 Obra de investigación de campo.
+
+1.2 Obra de demolición.
+
+1.3 Obra de limpieza y preparación de terreno.
+
+1.4 Obra de excavación y remoción de tierra.
+
+1.5 Obra de preparación de terreno para la minería (excepto para la extracción de petróleo y gas).
+
+1.6 Obra de andamiaje.
+
+2. Obras de construcción para edificios.
+
+2.1 De una y dos viviendas.
+
+2.2 De múltiples viviendas.
+
+2.3 De almacenes y edificios industriales.
+
+2.4 De edificios comerciales.
+
+2.5 De edificios de entretenimiento público.
+
+2.6 De hoteles, restaurantes y edificios similares.
+
+2.7 De edificios educativos.
+
+2.8 De edificios de salud.
+
+2.9 De otros edificios.
+
+3. Trabajos de construcción de ingeniería civil.
+
+3.1 De carreteras (excepto carreteras elevadas), calles, caminos, vías férreas y pistas de aterrizaje.
+
+3.2 De puentes, carreteras elevadas, túneles, tren subterráneo y vías férreas.
+
+3.3 De canales, puertos, presas y otros trabajos hidráulicos.
+
+3.4 De tendido de tuberías de larga distancia, de líneas de comunicación y de líneas de electricidad (cableado).
+
+3.5 De tuberías locales y cableado, trabajos auxiliares.
+
+3.6 De construcciones para minería.
+
+3.7 De construcciones deportivas y recreativas.
+
+3.8 Servicios de dragado.
+
+3.9 De obra de ingeniería no clasificada en otra parte.
+
+4. Ensamble y edificación de construcciones prefabricadas.
+
+5. Obras de construcción especializada para el comercio.
+
+5.1 Obra de edificación incluyendo la instalación de pilotes.
+
+5.2 Perforación de pozos de agua.
+
+5.3 Techado e impermeabilización.
+
+5.4 Obra de concreto.
+
+5.5 Doblaje y edificación de acero, incluyendo soldadura.
+
+5.6 Obra de albañilería.
+
+5.7 Otras obras de construcción especializada para el comercio.
+
+6. Obras de instalación.
+
+6.1 Obra de calefacción, ventilación y aire acondicionado.
+
+6.2 Obra de plomería hidráulica y de tendido de drenaje.
+
+6.3 Obra para la construcción de conexiones de gas.
+
+6.4 Obra eléctrica.
+
+6.5 Obra de aislamiento (cableado eléctrico, agua, calefacción, sonido).
+
+6.6 Obra de construcción de enrejados y pasamanos.
+
+6.7 Otras obras de instalación.
+
+7. Obras de terminación y acabados de edificios.
+
+7.1 Obra de sellado e instalación de ventanas de vidrio.
+
+7.2 Obra de enyesado.
+
+7.3 Obra de pintado.
+
+7.4 Obra de embaldosado de pisos y colocación de azulejos en paredes.
+
+7.5 Otras obras de colocación de pisos, cobertura de paredes y tapizado de paredes.
+
+7.6 Obra en madera o metal y carpintería.
+
+7.7 Obra de decoración interior.
+
+7.8 Obra de ornamentación.
+
+7.9 Otras obras de terminación y acabados de edificios.
+
+8. Servicios de alquiler relacionados con equipo para construcción o demolición de edificios u obras de ingeniería civil, con operador.
+
+ANEXO (E)
+
+RELACION DE FORMATOS PARA ENTREGA DE LA INFORMACION REQUERIDA A QUE SE REFIEREN EN EL PRESENTE ACUERDO LAS REGLAS QUE SE INDICAN A CONTINUACION:
+
+(VEASE ARCHIVO ANEXO)
