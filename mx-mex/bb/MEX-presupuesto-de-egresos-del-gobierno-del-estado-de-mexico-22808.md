@@ -4,7 +4,7 @@ identifier: "MEX-presupuesto-de-egresos-del-gobierno-del-estado-de-mexico-22808"
 country: "mx"
 rank: "presupuesto"
 publication_date: "2001-12-31"
-last_updated: "2001-12-31"
+last_updated: "2002-07-31"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MEX"
 
 PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MEXICO PARA EL EJERCICIO FISCAL DEL AÑO 2002.
 
-Ley publicada la Gaceta del Gobierno, el 31 de diciembre de 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE JULIO DE 2002.
 
-TEXTO ORIGINAL
+Ley publicada la Gaceta del Gobierno, el 31 de diciembre de 2001.
 
 ARTURO MONTIEL ROJAS, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
 
@@ -215,7 +215,9 @@ Las erogaciones previstas para cubrir el pago del servicio de la deuda pública 
 
 Dicha previsión será flexible en función del comportamiento que presenten tanto las tasas de interés como los niveles inflacionarios durante el ejercicio, así como por las operaciones de renegociación o reestructuración de deuda pública que pudieran efectuarse en beneficio de las finanzas del Gobierno del Estado de México. De las operaciones anteriores se deberá informar trimestralmente a la H. Legislatura del Estado.
 
-Se estima que al 31 de diciembre del ejercicio fiscal del año 2002, el saldo de la deuda pública consolidada ascenderá a la cantidad de $32,599'504,439.00, monto que incluye la contratación de créditos netos convenidos por $5,213'456,100.00, así como por el crecimiento por la valuación de la deuda contratada en Unidades de Inversión (UDI's), que asciende a $937'367,548.00. Este monto no incluye el crédito correspondiente a los Proyectos de Saneamiento y Abastecimiento Hidráulico para la Zona Metropolitana del Valle de México, el cual es avalado y pagado por el Gobierno Federal.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2002)</small>
+
+Se estima que al 31 de diciembre del ejercicio fiscal del año 2002, el saldo de la deuda pública consolidada ascenderá a la cantidad de $ 32,599'504,439.00, monto que incluye la contratación de créditos netos y la emisión de valores convenidos por $5,213'456,100.00, así como por el crecimiento por la valuación de la deuda contratada en Unidades de Inversión (UDI's), que asciende a $937'367,548.00. Este monto no incluye el crédito correspondiente a los Proyectos de Saneamiento y Abastecimiento Hidráulico para la Zona Metripolitana del Valle de México, el cual es avalado y pagado por el Gobierno Federal.
 
 ### CAPITULO III. DEL EJERCICIO Y CONTROL DEL PRESUPUESTO
 
@@ -570,3 +572,67 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+N. DE E., A CONTINUACION SE TRASNCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE PRESUPUESTO.
+
+P.O. 31 DE JULIO DE 2002
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se autoriza al Gobernador del Estado, por conducto de la Secretaría de Finanzas y Planeación, para que en el presente ejercicio fiscal emita valores representativos de un pasivo a cargo del Estado Libre y Soberano de México, hasta por la cantidad de dos mil millones de pesos, moneda nacional, al que se afectarán en fuente de pago todos los ingresos derivados del impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal.
+
+La emisión de valores que se autoriza en el presente artículo tendrá las siguientes características:
+
+1. Podrá estar denominada en Unidades de Inversión (UDI's), según decreto publicado en el Diario Oficial de la Federación el 1 de abril de 1995, pero en cualquier caso, los valores deberán ser pagaderos en moneda nacional y dentro de los Estados Unidos Mexicanos.
+
+2. Los valores podrán ser emitidos directamente por el Estado Libre y Soberano de México o indirectamente, a través de un fideicomiso constituido para dicho fin, según lo considere el Gobernador del Estado de México por conducto de la Secretaría de Finanzas y Planeación.
+
+3. Los valores podrán ser certificados bursátiles según lo determine el Gobernador del Estado de México por conducto de la Secretaría de Finanzas y Planeación.
+
+4. Los valores serán colocados en el mercado de valores por un agente colocador, entre inversionistas mexicanos, dentro del territorio nacional, a través de la Bolsa Mexicana de Valores.
+
+5. En los valores deberán citarse los datos fundamentales de la presente autorización y tanto en el acta de emisión como en los valores deberán citarse los datos de su inscripción en el Registro de Deuda Pública Estatal. Así mismo, los valores deberán contener la prohibición de su venta a extranjeros, sean éstos gobiernos, entidades gubernamentales, sociedades o particulares u organismos internacionales, de tal manera que si en tales documentos no consignan dichas prevenciones los mismos no tendrán validez alguna.
+
+6. Los valores tendrán un plazo mínimo de cinco años y pagarán intereses a la tasa que determine el Gobernador del Estado de México por conducto de la Secretaría de Finanzas y Planeación, de hasta 1% más del rendimiento de cualquier valor bursátil en el mercado nacional y tomando en cuenta las condiciones del mercado al momento de la emisión y la colocación.
+
+7. El Gobernador del Estado de México por conducto de la Secretaría de Finanzas y Planeación, determinará los montos y demás términos y condiciones para la amortización de los valores.
+
+8. Todos los ingresos que perciba el Estado por concepto del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal estarán afectos al pago de todas las obligaciones a cargo del Estado Libre y Soberano de México, derivadas o relacionadas con la emisión de valores.
+
+El fideicomiso de administración y pago que se constituya como fuente de pago de conformidad con el numeral 10 de esta artículo transitorio deberá establecer que cuando el Estado se encuentre en cumplimiento de sus obligaciones derivadas o relacionadas con la emisión, incluyendo sin limitar el pago de principal, intereses, gastos, constitución de reservas y aforos, las cantidades sobrantes se transferirán a la Secretaría de Finanzas y Planeación.
+
+Lo señalado en los párrafos anteriores, permanecerá vigente independientemente de que:
+
+a) Se modifique la denominación de dicho impuesto.
+
+b) Se substituya el impuesto por uno o varios nuevos impuestos que graven situaciones jurídicas o de hecho iguales o similares a las previstas en el Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, por lo que en caso de que esto ocurra, los ingresos derivados de los nuevos impuestos estarán afectos al pago de la emisión de valores en los mismos términos que los ingresos derivados del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal.
+
+9. En caso de que los ingresos que perciba el Estado por concepto del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal no sean suficientes para cubrir todas las cantidades derivadas o relacionadas con la emisión de valores, el Estado de México responderá del pago de dichas cantidades de acuerdo con la prestación que le corresponda a dicha emisión, conforme a lo establecido en el Código Financiero del Estado de México y Municipios.
+
+10. Se faculta al Gobernador del Estado de México por conducto de la Secretaría de Finanzas y Planeación, para que constituya un fideicomiso de administración y pago el cual deberá contener los términos y condiciones que aseguren la viabilidad financiera y legal de la emisión.
+
+11. El monto de la emisión de valores se encuentra dentro del endeudamiento neto autorizado por la Legislatura Local de conformidad con el artículo 2 de la Ley de Ingresos del Estado de México para el Ejercicio Fiscal del año 2002 y los recursos provenientes de dicha emisión, serán destinados exclusivamente para proyectos de equipamiento e inversión pública productiva, en términos del artículo 260 del Código Financiero del Estado de México y Municipios.
+
+12. Con el fin de asegurar la viabilidad financiera y legal de la emisión de valores y hasta que se paguen todas las cantidades a cargo del Estado, derivadas o relacionadas con dicha emisión, el Gobernador del Estado de México por conducto de la Secretaría de Finanzas y Planeación:
+
+a) Procurará que los pagos de Impuestos sobre Erogaciones por Remuneraciones al Trabajo Personal que realicen los contribuyentes en tiempo, se hagan en instituciones de crédito, las cuales deberán remitir la totalidad de los pagos recibidos, a la fuente de pago que se constituya de conformidad con lo establecido en este artículo.
+
+b) Deberá instruir mediante mandatos irrevocables a las instituciones de crédito, a fin de que remitan la totalidad de los pagos recibidos a la fuente de pago.
+
+c) Concentrará en una sola cuenta bancaria, todos los pagos del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal recibidos en las oficinas receptoras de la Secretaría de Finanzas y Planeación.
+
+d) Mediante mandato irrevocable, instruirá a la institución de crédito en la que se mantenga la cuenta bancaria concentradora, para que remita todos los pagos recibidos, a la fuente de pago que se constituya de conformidad con lo establecido en la presente disposición.
+
+e) Incluirá anualmente en la iniciativa de Presupuesto de Egresos del Gobierno del Estado de México, las cantidades que sean necesarias para el pago del principal, intereses, reservas y todas las demás cantidades a cargo del Estado de México del ejercicio fiscal de que se trate, derivadas o relacionadas con la emisión de valores que se autoriza. Esta obligación subsistirá independientemente de que los ingresos derivados del impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal no sean suficientes para cubrir la totalidad de las obligaciones a cargo del Estado derivadas o relacionadas con dicha emisión.
+
+El Gobernador del Estado de México por conducto de la Secretaría de Finanzas y Planeación, estará facultado para determinar todos los términos y condiciones relacionados con la emisión de valores que no estén previstos en la presente disposición y para llevar a cabo todos los actos que sean necesarios para su emisión.
+
+CUARTO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+QUINTO.- En la iniciativa de Ley de Ingresos del Estado de México que presente el Ejecutivo Estatal, para el ejercicio fiscal del año 2003, se deberá incluir la estimación del porcentaje de endeudamiento neto que se captará a través de la emisión de valores y el porcentaje que se obtendrá a través de la contratación de créditos con instituciones financieras.
+
+Asimismo, deberá presentar como anexo del proyecto de Presupuesto de Egresos para el Gobierno del Estado de México para el ejercicio fiscal del año 2003, la relación de cada una de las inversiones públicas productivas que se realizarán con cargo al monto del endeudamiento neto autorizado en la Ley de Ingresos correspondiente, notificando a la Legislatura el avance de cada una de las inversiones de manera trimestral.
+
+SEXTO.- La relación de las inversiones públicas productivas que se cubrirán con los recursos derivados de esta emisión de valores será publicada en un plazo no mayor de 15 días después del inicio de la vigencia del presente decreto.
