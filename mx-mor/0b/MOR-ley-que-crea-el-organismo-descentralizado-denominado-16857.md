@@ -4,7 +4,7 @@ identifier: "MOR-ley-que-crea-el-organismo-descentralizado-denominado-16857"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-21"
-last_updated: "1999-10-20"
+last_updated: "1999-10-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16857&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO HOSPITAL DEL NIÑO MORELENSE
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL ACUERDO PUBLICADO EN EL P.O. DE 20 DE OCTUBRE DE 1999, SE DEJA SIN EFECTO LA PUBLICACIÓN DE LA FE DE ERRATAS DE FECHA 6 DE OCTUBRE DE 1999, A LA LEY QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO "HOSPITAL DEL NIÑO MORELENSE".]</small>
-
 LEY QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO "HOSPITAL DEL NIÑO MORELENSE"
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 1999.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE OCTUBRE DE 1999.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 21 de julio de 1999.
 
@@ -133,7 +133,9 @@ Para el desarrollo de sus actividades, el "Hospital del Niño Morelense" contar�
 
 La Junta Directiva será el órgano supremo del "Hospital del Niño Morelense" y se integrará por los siguientes miembros:
 
-I. El Secretario de Bienestar Social;
+> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 1999)</small>
+
+I. El Secretario de Salud;
 
 II. El Secretario de Hacienda;
 
@@ -167,9 +169,9 @@ Corresponde a la Junta Directiva:
 
 I. Revisar, modificar y autorizar el proyecto de presupuesto anual de ingresos y egresos del Hospital, a fin de que se sometan a la consideración de las autoridades respectivas y, una vez sancionado, vigilar su correcta aplicación;
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL ACUERDO PUBLICADO EN EL P.O. DE 20 DE OCTUBRE DE 1999, SE DEJA SIN EFECTO LA PUBLICACIÓN DE LA FE DE ERRATAS DE FECHA 6 DE OCTUBRE DE 1999, A LA LEY QUE CREA EL ORGANISMO DESCENTRALIZADO DENOMINADO "HOSPITAL DEL NIÑO MORELENSE".]</small>
+> <small>(F. DE E., P.O 27 DE OCTUBRE DE 1999)</small>
 
-II. Elaborar el Estatuto Orgánico, el Reglamento Interior, los Manuales y demás documentos técnico-administrativos para el buen funcionamiento del Hospital;
+II. Aprobar el Estatuto Orgánico, el Reglamento Interior, los Manuales y demás documentos técnico-administrativos para el buen funcionamiento del Hospital;
 
 III. Aprobar los planes de labores, los programas e informes de actividades y estados financieros periódicos;
 
