@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "1998-07-10"
+last_updated: "1998-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -59,11 +59,11 @@ El cargo de Diputado Propietario o Suplente en ejercicio es incompatible con cua
 
 El Poder Legislativo del Estado de Nuevo León tendrá las atribuciones que para su integración, organización y funcionamiento establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Nuevo León, esta Ley y sus disposiciones reglamentarias.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 5o.
 
-La Legislatura tendrá cada año de ejercicio dos Períodos Ordinarios de Sesiones, el Primero se abrirá el 15 de Octubre y terminará el 15 de Enero, el Segundo se iniciará el 30 de Abril y terminará el 30 de Junio, ambos períodos pueden ser prorrogados hasta por un mes por acuerdo del Pleno.
+La Legislatura tendrá cada año de ejercicio dos Períodos Ordinarios de Sesiones, el Primero se abrirá el día 20 de Septiembre y terminará el día 20 de Diciembre; el segundo se iniciará el día 30 de Abril y terminará el día 30 de Junio. Ambos períodos pueden ser prorrogados hasta por treinta días, por acuerdo del Pleno.
 
 ###### Artículo 6o.
 
@@ -229,21 +229,27 @@ Cuando uno o más de los Diputados se presentaren después de la protesta a que 
 
 ### CAPITULO UNICO. DE LA APERTURA DE SESIONES
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 33.
 
-El día anterior a la Apertura de Sesiones, se procederá por escrutinio secreto a la elección de la Directiva del Congreso que se compondrá de un Presidente, dos Vice-Presidentes y dos Secretarios, quienes entrarán en el desempeño de sus funciones a partir del día 15 de Octubre, concluyendo los trabajos de la Directiva de las Juntas Preparatorias.
+El día anterior a la apertura de sesiones, se procederá por escrutinio secreto a la elección de la Directiva del Congreso que se compondrá de un Presidente, dos Vice-Presidentes y dos Secretarios, quienes entrarán en el desempeño de sus funciones a partir del día 20 de Septiembre, concluyendo los trabajos de la Directiva de las Juntas Preparatorias.
 
 ###### Artículo 34.
 
 La directiva comunicará la instalación del Congreso a los Poderes Ejecutivo y Judicial, independientemente de que se haga por medio de oficio, así como a las demás autoridades.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1998)</small>
+
 ###### Artículo 35.
 
-Con la elección de la Directiva a que se refiere el Artículo 33 de esta Ley, el nuevo Congreso se tendrá por legalmente constituído a partir del 15 de Octubre, día en que se formulará el decreto correspondiente.
+Con la elección de la Directiva a que se refiere el Artículo 33 de esta Ley, el nuevo Congreso se tendrá por legalmente constituido a partir del día 20 de Septiembre, fecha en que se formulará el Decreto correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Artículo 36.
 
-El día 15 de Octubre de cada tres años a la hora que comunique la Directiva, se reunirán los Diputados en el Recinto Oficial en Sesión Solemne presidida por la Diputación Permanente de la Legislatura saliente en la cual, ésta, rendirá el informe correspondiente ante los Diputados de la Legislatura entrante. Terminado el informe por el Presidente de la Diputación Permanente, tomará posesión la Directiva de la nueva legislatura para que su Presidente haga la declaración solemne de Apertura, pronunciando las siguientes palabras en voz alta: ''La (número) Legislatura del Congreso del Estado, abre hoy 15 de Octubre del (año), el primer período ordinario de sesiones correspondientes al primer año de ejercicio constitucional''.
+El día 20 de Septiembre de cada tres años a la hora que comunique la Directiva, se reunirán los Diputados en el Recinto Oficial en Sesión Solemne presidida por la Diputación Permanente de la Legislatura saliente en la cual, ésta, rendirá el informe correspondiente ante los Diputados de la Legislatura entrante. Terminado el informe por el Presidente de la Diputación Permanente, tomará posesión la Directiva de la nueva legislatura para que su Presidente haga la declaración solemne de apertura, pronunciando las siguientes palabras en voz alta: ("La (número) Legislatura del H. Congreso del Estado, abre hoy 20 de Septiembre de (año), el Primer Período Ordinario de Sesiones correspondiente al Primer Año de Ejercicio Constitucional".)
 
 La misma declaratoria se hará en la apertura del segundo y tercer año.
 
@@ -762,3 +768,9 @@ P.O. 24 DE OCTUBRE DE 1997.
 P.O. 10 DE JULIO DE 1998.
 
 Artículo Único: El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 16 DE SEPTIEMBRE DE 1998.
+
+###### ARTÍCULO ÚNICO
+
+El Presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
