@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-adquisiciones-y-enajenaciones-del-gobierno-del-10503"
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-14"
-last_updated: "1995-03-14"
+last_updated: "2002-06-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ADQUISICIONES Y ENAJENACIONES DEL GOBIERNO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 14 de marzo de 1995.
 
@@ -57,7 +57,11 @@ IV. Contratación de servicios; y
 
 V. Manejo de almacenes.
 
-Los órganos de gobierno de los organismos paraestatales deberán emitir, de conformidad a este ordenamiento, las políticas, bases y lineamientos para la contratación de sus adquisiciones o recepción de servicios, tomando en cuenta la naturaleza, fines y metas de los propios organismos, pudiendo, cuando lo crean conveniente, solicitar el apoyo de la administración central.
+Los órganos de gobierno de los organismos paraestatales deberán emitir, de conformidad a este ordenamiento, las políticas, bases y lineamientos para la contratación de sus adquisiciones o recepción de servicios, tomando en cuenta la naturaleza. fines y metas de los propios organismos, pudiendo, cuando lo crean conveniente, solicitar el apoyo de la administración central.
+
+(ADICIONADO, P.O. 22 DE JUNIO DE 2002)(F. DE E., P.O. 7 DE AGOSTO DE 2003)
+
+Los órganos del Poder Judicial del Estado de Jalisco, deberán emitir las bases generales y reglamentos para la contratación de sus adquisiciones y servicios, en el ámbito de competencia que a cada uno le corresponda.
 
 ###### Artículo 2.
 
@@ -672,3 +676,11 @@ Ing. Alberto Cárdenas Jiménez.
 El Secretario General de Gobierno.
 
 Lic. Raúl Octavio Espinoza Martínez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE JUNIO DE 2002.
+
+PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Supremo Tribunal de Justicia, el Tribunal de lo Administrativo, el Tribunal Electoral y el Consejo General del Poder Judicial del Estado de Jalisco, deberán expedir sus reglamentos de adquisiciones y enajenaciones en un plazo de 90 días naturales contados a partir de la vigencia del presente decreto.
