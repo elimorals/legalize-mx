@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-legislativo-del-estado-de-tabasco-7828"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-01-02"
-last_updated: "2002-01-26"
+last_updated: "2005-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2005.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 2 de enero de 1993.
 
@@ -67,9 +67,11 @@ La Cámara de Diputados sesionará en la Ciudad de Villahermosa, en el Recinto O
 
 Los Diputados gozan del fuero que les reconoce la Constitución Política del Estado, por lo que no podrán ser reconvenidos por las opiniones que manifiesten en el ejercicio de su encargo y solo serán responsables por los delitos, faltas u omisiones que cometan durante su ejercicio, en los términos que señale la Constitución Política y la Ley de Responsabilidades de los Servidores Públicos del Estado, así como esta Ley y el Reglamento Interior del Congreso.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 6o.
 
-El Recinto del Congreso es inviolable. Toda fuerza pública está impedida de tener acceso al mismo; a excepción de solicitud de cualquiera de los Presidente (sic) de la Legislatura, de la Comisión Permanente o de la Gran Comisión, con el fin de salvaguardar el fuero constitucional de los Diputados y la inviolabilidad del Recinto.
+El Recinto del Congreso es inviolable. Toda fuerza pública está impedida de tener acceso al mismo; a excepción de solicitud del Presidente del Congreso, de la Comisión Permanente o de la Junta de Coordinación Política, con el fin de salvaguardar el fuero constitucional de los Diputados y la inviolabilidad del Recinto.
 
 ###### ARTICULO 7o.
 
@@ -233,7 +235,9 @@ VI. Dar lectura a la Orden del Día, a las Actas, Oficios y Documentos que se pr
 
 VII. Cotejar, asentar y firmar en todos los expedientes, los trámites que se dieren a las resoluciones que sobre ellos se tomaren, expresando las fechas de cada uno y cuidando de que no se alteren ni enmienden las proposiciones o proyectos de Ley, una vez entregados a la Oficialía Mayor;
 
-VIII. Llevar un libro para el asiento por orden cronológico y a la letra, de las Leyes, Decretos y Acuerdos, que expida el Congreso, debiendo ser autorizado por el Presidente y el Secretario de la Gran Comisión;
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2005)</small>
+
+VIII. Llevar un libro para el asiento por orden cronológico y a la letra, de las Leyes, Decretos y Acuerdos, que expida el Congreso, debiendo ser autorizado por el Presidente de la Junta de Coordinación Política;
 
 IX. Auxiliarse en sus labores con el Oficial Mayor de la Cámara de Diputados;
 
@@ -401,89 +405,117 @@ El Coordinador de la Fracción Parlamentaria Mayoritaria podrá convocar a los d
 
 Las Fracciones Parlamentarias dispondrán de local adecuado o de oficinas para sus Diputados en las instalaciones del Congreso, así como de los elementos materiales necesarios para el cumplimiento de sus funciones, de acuerdo a las posibilidades presupuestales de la Legislatura.
 
-### CAPITULO IX. DE LA GRAN COMISION
+> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE FEBRERO DE 2005)</small>
+
+### CAPITULO IX. DE LA JUNTA DE COORDINACION POLITICA
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 52.
 
-La Gran Comisión es el órgano de Gobierno del Congreso del Estado y tendrá a su cargo las siguientes atribuciones:
+La Junta de Coordinación Política es el órgano de gobierno colegiado resultado de la pluralidad representada en la Cámara que impulsa los entendimientos y convergencias políticas con las instancias y órganos, que resulten necesarios a fin de alcanzar acuerdos para que el Poder Legislativo cumpla con las atribuciones y obligaciones que constitucional y legalmente le corresponden.
 
-I. Dictaminar, formular opiniones y presentar iniciativas sobre los asuntos concernientes a los Municipios y al Estado, tomando en cuenta las proposiciones de los Diputados;
-
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 1998)</small>
-
-II. Proponer al Congreso la designación o remoción del Oficial Mayor, del Contador Mayor de Hacienda, del Director General del Instituto de Investigaciones Legislativas, y vigilar su funcionamiento;
-
-III. Nombrar y remover libremente a los Directores, Funcionarios y demás empleados del Congreso;
-
-IV. Proponer al Congreso a los integrantes de las Comisiones y en su caso, a quiénes deban sustituirlos cuando proceda la remoción;
-
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2002)</small>
-
-V. Elaborar el proyecto del Presupuesto Anual del Congreso y turnarlo al titular del Ejecutivo para que se incluya en el presupuesto anual de egresos del gobierno del Estado;
-
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2002)</small>
-
-VI. Autorizar los convenios de cooperación con otras instituciones y organismos; y
-
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2002)</small>
-
-VII. Las demás contenidas en esta ley, en su Reglamento y las que le asigne la propia Legislatura.
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 53.
 
-Son facultades del Presidente de la Gran Comisión:
+A la Junta de Coordinación Política le corresponden las atribuciones siguientes:
 
-I. Coordinar y organizar las actividades político-legislativas del Congreso, así como la ejecución de las tareas administrativas y laborales conforme a la Ley;
+I. Impulsar la conformación de acuerdos relacionados con el contenido de las propuestas o iniciativas que requieran de su votación en el Pleno, a fin de agilizar el trabajo legislativo;
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2001)</small>
+II. Presentar a la Mesa Directiva y al Pleno, proyectos de puntos de acuerdo y acuerdos parlamentarios de la Cámara, que entrañen una posición política del Órgano Colegiado;
 
-II. Administrar los recursos financieros del Congreso, así como enviar mensualmente a la Contaduría Mayor de Hacienda, dentro del mes siguiente al que corresponda, los informes del avance financiero y presupuestal. Asimismo, remitir trimestralmente a la mencionada contaduría, dentro de los treinta días siguientes del trimestre respectivo, el informe de la cuenta pública del Poder Legislativo, en los términos del artículo 41 de la Constitución Política del Estado;
+III. Proponer al Pleno la integración de las comisiones, con el señalamiento de la conformación de sus respectivas mesas directivas;
 
-III. Coadyuvar con la Mesa Directiva en la conducción de los trabajos parlamentarios;
+IV. Integrar el proyecto del Presupuesto Anual del Congreso y turnarlo al Titular del Poder Ejecutivo, para que se incluya en el Presupuesto Anual de Egresos del Gobierno del Estado;
 
-IV. Proveer a través de la Oficialía Mayor, lo necesario para el trabajo de las Comisiones;
+V. Proponer al Congreso la designación o remoción del Oficial Mayor y del Director General del Instituto de Investigaciones Legislativas y vigilar su funcionamiento;
 
-V. Dirigir y vigilar las Dependencias del Congreso, para su buen funcionamiento;
+VI. Nombrar y remover libremente a los directores, funcionarios y demás empleados del Congreso; así como determinar la aplicación de sanciones disciplinarias a los servidores públicos del Congreso, de conformidad con la normatividad aplicable;
 
-VI. Proponer Programas de Capacitación para el personal administrativo;
+VII. Proponer al Congreso a los integrantes de las Comisiones y, en su caso, a quienes deban sustituirlos por renuncia cuando proceda la remoción;
 
-VII. Autorizar en unión del Secretario, el libro para el asiento por orden cronológico y a la letra, de las Leyes, Decretos y Acuerdos que expida el Congreso;
+VIII. Dictaminar, formular opiniones y presentar iniciativas sobre los asuntos concernientes a los Municipios y al Estado, tomando en cuenta las proposiciones de los Diputados;
 
-VIII. Tener la representación legal del Congreso, quedando facultado para otorgar, substituir o revocar poderes y mandatos, incluso aquellos que requieran cláusula especial;
+IX. Asignar, en los términos de esta Ley, los recursos humanos, materiales y financieros, así como los locales que correspondan a las fracciones parlamentarias;
 
-IX. Presidir y coordinar las actividades de la Gran Comisión, vigilando que se cumplan los acuerdos tomados; y
+X.- Proponer al Pleno del Congreso, las bases para el otorgamiento de incentivos y para la aplicación de sanciones disciplinarias a los diputados;
 
-X. Las demás contenidas en esta Ley, en su Reglamento y las que le asigne la propia Legislatura.
+XI.- Administrar el ejercicio del presupuesto, así como autorizar adquisiciones de bienes y contratación de prestación de servicios para la función legislativa, en los términos del Reglamento Interior del Congreso del Estado;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 1998)</small>
+XII.- Conducir las relaciones políticas con los otros poderes del Estado, los ayuntamientos de la Entidad, los poderes de la Federación y de las entidades federativas del País, así como también, con los demás organismos y entidades públicas nacionales e internacionales; en éste último caso, realizar la designación de delegaciones para atender la celebración de reuniones interparlamentarias con órganos de representación popular de otras entidades federativas o del Congreso de la Unión; con respecto a estas reuniones, en los recesos, el Presidente de la Junta de Coordinación Política hará la designación respectiva;
+
+XIII. Proponer al Pleno los reglamentos, manuales de organización y procedimientos de funcionamiento del Congreso;
+
+XIV. Vigilar los trabajos administrativos del Congreso y evaluar su eficiencia y calidad, solicitando para tal efecto, a las distintas instancias del mismo, los informes y documentación que estime pertinentes;
+
+XV. Establecer la Agenda Legislativa de cada uno de los períodos de sesiones, en coordinación con la Mesa Directiva en turno, a más tardar en la segunda sesión del período en curso, salvo cuando inicie su período la legislatura, lo que sucederá a más tardar en la cuarta sesión;
+
+XVI. Crear los comités que considere necesarios para apoyar las funciones de la Junta;
+
+XVII. Autorizar los convenios de cooperación con otras instituciones y organismos; y
+
+XVIII. Las demás que le atribuyen esta Ley o los ordenamientos relativos.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 54.
 
-La Gran Comisión se integrará:
+La Junta de Coordinación Política se constituye con los Coordinadores de cada Fracción Parlamentaria reconocida y autorizada en los términos de esta Ley, así como con un Diputado con voz por cada fracción parlamentaria que tenga más de un legislador, mediante las siguientes disposiciones:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1997)</small>
+I. Será Presidente de la Junta, por la duración de cada Legislatura, el Coordinador de aquella Fracción Parlamentaria que por sí misma cuente con la mayoría absoluta en la Cámara; en este único supuesto, el Secretario de la Junta será el Diputado Coordinador de la Fracción Parlamentaria que represente la primera minoría, durará en su encargo el mismo tiempo que el Presidente y suplirá las ausencias del mismo;
 
-I. Un Presidente, que será el Coordinador de la Fracción Parlamentaria que ostente la mayoría;
+II. En el caso de que ninguna Fracción Parlamentaria cuente con la mayoría absoluta, la responsabilidad de presidir la Junta el primer año de la Legislatura corresponderá al coordinador de la Fracción Parlamentaria que represente la primera mayoría, el segundo año a la primera minoría y el siguiente se dividirá de manera equitativa entre las demás fracciones parlamentarias en orden descendente. Si nada más fuesen tres fracciones parlamentarias, el coordinador de cada una de ellas la presidirá un año, en el orden establecido con anterioridad. En el supuesto de que dos o más fracciones de las que deben ocupar la Presidencia tengan igual número de integrantes, el Pleno de la Legislatura decidirá en qué orden ocuparán el cargo;
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2001)</small>
+III. Las decisiones o acuerdos de la Junta se tomarán por mayoría de votos de sus miembros presentes; mediante el sistema de voto ponderado, en el cual los respectivos coordinadores representarán tantos votos como integrantes tenga su Fracción Parlamentaria; en caso de empate, el Presidente tendrá voto de calidad;
 
-II. Tres Secretarios y cuatro Vocales; y
+IV. La Junta de Coordinación Política se integrará por un Presidente, y Secretarios conforme al número de coordinadores de las fracciones parlamentarias, los que tendrán derecho de voz y voto, así como los vocales que se integrarán con los demás diputados y participarán únicamente con voz.
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2001)</small>
+El quórum legal para las sesiones de la Junta se conformará con la mayoría absoluta de los coordinadores de las fracciones parlamentarias.
 
-III. Un Prosecretario, que será el representante de las fracciones parlamentarias de minorías.
+La ausencia del Presidente a las sesiones legalmente convocadas será suplida por el Coordinador que represente la mayoría parlamentaria de los secretarios presentes; y
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2001)</small>
+V. La Junta de Coordinación Política contará para su buen funcionamiento, con los apoyos de los demás órganos del Congreso.
 
-A excepción del Presidente; los Secretarios y los Vocales, serán electos por mayoría de votos de los diputados presentes y el Prosecretario por acuerdo de las fracciones parlamentarias de las minorías. Si alguna fracción parlamentaria contara con la mayoría absoluta, no podrá tener, además del presidente, más de dos secretarios y dos vocales.
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 55.
 
-La Gran Comisión deberá quedar instalada en la primera sesión del Primer Período Ordinario de Sesiones y durará en su encargo todo el período constitucional de la Legislatura, haciendo la declaratoria el Presidente del Congreso.
+En caso de ausencia temporal o definitiva del Presidente de la Junta, la Fracción Parlamentaria al que pertenezca informará de inmediato, tanto al Presidente del Congreso como a la propia Junta, el nombre del Diputado que lo sustituirá.
+
+Los integrantes de la Junta podrán ser sustituidos temporalmente de conformidad con las reglas internas de cada Fracción Parlamentaria.
+
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 56.
 
-La Gran Comisión dispondrá de un local adecuado en el Recinto del Poder Legislativo y contará con el personal y los elementos necesarios para el desempeño de sus funciones.
+Corresponden al Presidente de la Junta de Coordinación Política las atribuciones siguientes:
+
+I. Convocar y conducir las reuniones de trabajo que celebre la Junta, coordinar las funciones y ejecutar las resoluciones y acuerdos de la Junta de Coordinación Política, vigilando su exacta observancia;
+
+II. Encauzar la elaboración del anteproyecto de presupuesto anual;
+
+III. Administrar los recursos financieros del Congreso, así como enviar mensualmente al Órgano Superior de Fiscalización, dentro del mes siguiente al que corresponda, los informes del avance financiero y presupuestal. Asimismo, remitir trimestralmente al mencionado Órgano, dentro de los treinta días siguientes del trimestre respectivo, la cuenta pública del Poder Legislativo, en los términos del artículo 41 de la Constitución Política del Estado;
+
+IV. Proveer a través de la Oficialía Mayor, lo necesario para el trabajo de las comisiones;
+
+V. Coordinar y organizar las actividades político-legislativas del Congreso, así como la ejecución de las tareas administrativas y laborales conforme a la Ley;
+
+VI. Proponer programas de capacitación para el personal administrativo;
+
+VII. Autorizar en unión del Secretario, el libro para el asiento por orden cronológico y a la letra, de las leyes, decretos y acuerdos que expida el Congreso;
+
+VIII. Tener la representación legal del Congreso, quedando facultado para otorgar, sustituir o revocar poderes y mandatos, incluso aquellos que requieran cláusula especial; y
+
+IX. Las demás que, derivándose de la presente Ley, le sean conferidas por la propia junta y las otras que le otorguen otros ordenamientos en la materia.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2005)</small>
+
+ARTICULO 56 bis.- La Junta de Coordinación Política deberá quedar instalada, a más tardar, en la primera sesión del primer Período Ordinario de Sesiones, haciendo declaratoria el Presidente del Congreso.
+
+Este órgano de gobierno sesionará por lo menos una vez a la semana durante los períodos de sesiones y con la periodicidad que acuerde durante los recesos. A las reuniones de la Junta concurrirá el Oficial Mayor del H. Congreso del Estado, quien preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten.
+
+La Junta dispondrá de un local adecuado en el Recinto del Poder legislativo y contará con los elementos humanos y materiales necesarios para el desempeño (sic) sus funciones.
 
 ### CAPITULO X. DE LAS COMISIONES
 
@@ -491,9 +523,11 @@ La Gran Comisión dispondrá de un local adecuado en el Recinto del Poder Legisl
 
 Las Comisiones son formas internas de organización que asume la Cámara de Diputados, con el fin de atender los asuntos de su competencia constitucional y legal, para el mejor y más expedito desempeño de sus funciones.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 58.
 
-En la tercera sesión del período correspondiente a la Legislatura, la asamblea elegirá a propuesta de la Gran Comisión, las Comisiones Permanentes; éstas se integrarán por tres o más Diputados, los que fungirán como Presidente, Secretario y Vocales, en el orden de la propuesta; contando con facultades para estudiar y dictaminar los asuntos de su (sic).
+En la tercera sesión del período correspondiente a la Legislatura, el Pleno elegirá a propuesta de la Junta de Coordinación Política, las comisiones permanentes; éstas se integrarán por tres o más diputados, los que fungirán como Presidente, Secretario y vocales, en el orden de la propuesta; contando con facultades para estudiar y dictaminar los asuntos de su competencia.
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2002)</small>
 
@@ -501,9 +535,11 @@ En la tercera sesión del período correspondiente a la Legislatura, la asamblea
 
 Las comisiones tendrán las facultades que le señale el reglamento interior del Congreso; su funcionamiento será colegiado y todas las determinaciones o acuerdos que se emitan en el seno de las mismas, con relación a sus atribuciones, incluyendo la solicitud de documentos o de información propias de sus funciones, serán cumplimentadas por conducto de su Presidente; con la salvedad a que se contrae el artículo 61, párrafo segundo, de esta Ley. Sus decisiones serán tomadas por consenso o por mayoría de votos, teniendo su Presidente, además del ordinario, voto de calidad. En caso de abstención, el voto se computará a favor del dictamen correspondiente.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 60.
 
-También a propuesta de la Gran Comisión, el Congreso elegirá Comisiones Especiales de carácter temporal, que auxilien a las Permanentes cuando la naturaleza del asunto lo requiera, fijándoles atribuciones, composición y duración.
+A propuesta de la Junta de Coordinación Política, el Congreso elegirá comisiones especiales de carácter temporal, que auxilien a las permanentes cuando la naturaleza del asunto lo requiera, fijándoles atribuciones, composición y duración.
 
 > <small>(REFORMADO, P.O. 26 DE ENERO DE 2002)</small>
 
@@ -517,19 +553,21 @@ En el ejercicio de dichas funciones, tratándose de las comparecencias, solicitu
 
 Las sesiones de las Comisiones serán públicas o privadas a juicio de sus integrantes. Asimismo, podrán celebrar reuniones de consulta, audiencias o información a invitación expresa, con grupos y organizaciones que estimen pertinente o con servidores públicos o profesionistas, que por conocimientos y experiencia, permitan ampliar e ilustrar el criterio de las Comisiones.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 63.
 
-La Legislatura podrá remover temporal o definitivamente a los integrantes de las Comisiones, cuando exista causa que a juicio de la Asamblea sea suficiente para el buen funcionamiento del Congreso. A propuesta de la Gran Comisión se elegirán los substitutos.
+La Legislatura podrá remover temporal o definitivamente a los integrantes de las Comisiones, cuando exista causa que a juicio del Pleno sea suficiente para el buen funcionamiento del Congreso. A propuesta de la Junta de Coordinación Política se elegirán los substitutos.
 
 ###### ARTICULO 64.
 
 Los Diputados además de formar parte de las Comisiones para las que fueren designados, podrán participar en las demás, salvo que exista causa justificada para no admitirlos a juicio de la Asamblea.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2005)</small>
 
 ###### ARTICULO 65.
 
-La Gran Comisión propondrá, por lo menos las siguientes comisiones permanentes:
+la Junta de Coordinación Política propondrá, por lo menos, las siguientes comisiones permanentes:
 
 I. (DEROGADA, P.O. 26 DE ENERO DE 2002)
 
@@ -617,11 +655,15 @@ XXVIII. (DEROGADA, P.O. 26 DE ENERO DE 2002)
 
 XXIX. Infancia, Jóvenes, Recreación y Deporte;
 
-> <small>(REFORMADA, P.O. 26 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2005)</small>
 
-XXX. Equidad y Genero; y
+XXX. Equidad y Género;
 
 XXXI. (DEROGADA, P.O. 26 DE ENERO DE 2002)
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2005)</small>
+
+XXXII. Asuntos de la Frontera Sur.
 
 ### CAPITULO XI. DE LAS SESIONES
 
@@ -959,11 +1001,11 @@ II. La anual, en el mes de mayo de cada año; y
 
 III. La final, dentro de los treinta días naturales siguientes a la conclusión de sus funciones o separación del cargo.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 127.
 
-En caso de no presentarse la declaración inicial o anual en los plazos fijados, tratándose de los Diputados, la Comisión Inspectora de Hacienda lo comunicará al Presidente de la Gran Comisión, quien amonestará por escrito y requerirá al omiso para que la presente dentro de un plazo de 30 días naturales, apercibido que de no hacerlo, se le descontará el 50% de sus percepciones mensuales.
-
-De persistir en la omisión, en los siguientes 30 días naturales, se le descontará el 100% de sus percepciones.
+En caso de no presentarse la declaración inicial o anual en los plazos fijados, tratándose de los diputados, la Comisión Inspectora de Hacienda correspondiente lo comunicará al Presidente de la Junta de Coordinación Política, quien amonestará por escrito y requerirá al omiso para que la presente dentro de un plazo de 30 días naturales, apercibido que de no hacerlo, se le descontará el 50 % de sus percepciones mensuales, hasta que se cumpla con esa obligación.
 
 ###### ARTICULO 128.
 
@@ -977,9 +1019,11 @@ Si no se presenta la declaración final, se impondrá al omiso una sanción pecu
 
 La Comisión Inspectora de Hacienda emitirá las bases y normas, y proporcionará gratuitamente los formatos bajo los cuales el servidor público deberá presentar su declaración, así como los manuales e instructivos.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 131.
 
-Con relación a este capítulo en lo no previsto en esta Ley y su Reglamento, la Gran Comisión aplicará en lo que corresponda supletoriamente la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Con relación a este capítulo, en lo no previsto en esta Ley y su Reglamento, la Junta de Coordinación Política aplicará supletoriamente la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 ### CAPITULO XVIII. DE LA ORGANIZACION ADMINISTRATIVA DEL CONGRESO
 
@@ -1166,3 +1210,29 @@ PRIMERO. La presente reforma a la Ley Orgánica entrará en vigor al día siguie
 SEGUNDO. Por esta única vez, la Gran Comisión dispone de un término de treinta días naturales contados a partir de la entrada en vigor de esta resolución, para formular la propuesta de nueva integración de las Comisiones Permanentes de trámite interno y presentarla a la consideración del Pleno.
 
 TERCERO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 26 DE FEBRERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Junta de Coordinación Política, se constituirá inmediatamente a la entrada en vigor del presente Decreto, integrándose por el Coordinador de la Fracción Parlamentaria del Partido Revolucionario Institucional como Presidente, y los coordinadores de las fracciones parlamentarias de los partidos de la Revolución Democrática, Acción Nacional y Verde Ecologista de México, como secretarios; así como por un vocal por cada Fracción Parlamentaria con más de un legislador.
+
+###### ARTÍCULO TERCERO.
+
+Las adecuaciones a la Ley Orgánica del Poder Legislativo y al Reglamento Interior que rigen el funcionamiento del Congreso del Estado, deberán reformarse y armonizarse con el presente Decreto a más tardar el último día del mes de abril de 2005. En tanto se expiden las disposiciones correspondientes, seguirán siendo aplicables, en lo que no se opongan al presente Decreto, las disposiciones del Reglamento Interior del H. Congreso del Estado de Tabasco en vigor y respecto a las atribuciones de la Comisión permanente de la Frontera Sur, seguirán aplicándose las contenidas en el Decreto de Punto de Acuerdo que creó la Comisión Especial de la Frontera Sur, de fecha 26 de febrero de 2004.
+
+###### ARTÍCULO CUARTO.
+
+Cuando las leyes, reglamentos y demás disposiciones legales hagan referencia u otorguen atribuciones a la Gran Comisión, se entenderán hechas al a Junta de Coordinación Política.
+
+###### ARTÍCULO QUINTO.
+
+Con el propósito de armonizar los tiempos de ejercicio constitucional actuales del Poder Legislativo del Estado de Tabasco y para hacer efectiva la participación de las distintas fracciones parlamentarias que integran la actual Legislatura de acuerdo a su representatividad, por esta única ocasión la Fracción Parlamentaria del Partido de la Revolución Democrática de la actual Legislatura que preside la Gran Comisión del Congreso del Estado, concluirá su encargo al cumplir 14 meses al frente de dicho órgano colegiado, el 28 de febrero de 2005. En virtud de que la Quincuagésima Octava Legislatura está integrada por cuatro fracciones, corresponderá en primer término a la Fracción Parlamentaria del Partido de la Revolución Democrática, presidir la Junta de Coordinación Política por el periodo de 2 meses, a partir del primero de marzo y hasta el 30 de abril de 2005. Concluido este periodo, la Fracción Parlamentaria del Partido Revolucionario Institucional la presidirá por trece meses, del primero de mayo de 2005 y hasta el 31 de mayo de 2006. Seguidamente, corresponderá presidir la Junta de Coordinación Política por 5 meses a la Fracción Parlamentaria del Partido Acción Nacional, del primero de junio y hasta el 31 de octubre de 2006. Finalmente, la responsabilidad de presidir la Junta de Coordinación Política tocará a la Fracción Parlamentaria del Partido Verde Ecologista de México, por el periodo de 2 meses, del primero de noviembre y hasta el 31 de diciembre de 2006.
+
+###### ARTÍCULO SEXTO.
+
+La Junta de Coordinación Política, atendiendo a lo señalado por el artículo 53, fracción XVI, deberá crear el Comité de Evaluación cuya función será la de supervisar el ejercicio del gasto; dicho órgano estará integrado por los vocales de la Junta de Coordinación Política, su presidencia será rotativa, recayendo dicha responsabilidad en el Diputado de la misma fracción que presida la Junta, excepto cuando la Presidencia corresponda a la Fracción Parlamentaria del Partido Verde Ecologista de México, en cuyo caso será la Junta de Coordinación quien determine a su Titular.
