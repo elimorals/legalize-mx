@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1992-09-07"
+last_updated: "1993-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 1993.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -1279,9 +1279,9 @@ Las leyes estatales podrán instituir tribunales de lo contencioso-administrativ
 
 Procederá el recurso de revisión ante el Supremo Tribunal de Justicia contra las resoluciones definitivas de dichos tribunales administrativos, sólo en los casos que señalen las leyes estatales, y siempre que esas resoluciones hayan sido dictadas como consecuencia de un recurso interpuesto dentro de la jurisdicción contencioso-administrativa.
 
-> <small>(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE FEBRERO DE 1993)</small>
 
-#### SECCION VI. Del Ministerio Público y de la Defensoría de Oficio
+#### SECCION VI. Del Ministerio Público, de la Comisión Estatal de Derechos Humanos y de la Defensoría de Oficio
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1315,11 +1315,17 @@ El Procurador General de Justicia deberá tener los mismos requisitos que se fij
 
 El Procurador General de Justicia intervendrá personalmente en todos los negocios judiciales en que el Estado sea parte. En los demás casos en que debe intervenir el Ministerio Público, el Procurador podrá hacerlo por sí o por medio de alguno de sus agentes.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE FEBRERO DE 1993)</small>
+
+La Ley Orgánica del Ministerio Público fijará el número, adscripción y demás deberes y atribuciones de los funcionarios y empleados que integren esta Institución.
+
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 1993)</small>
 
 ###### Artículo 101.
 
-La Ley Orgánica del Ministerio Público fijará el número, adscripción y demás deberes y atribuciones de los funcionarios y empleados que integren esta Institución.
+La Legislatura del Estado, en el ámbito de su competencia, establecerá organismos de protección de los Derechos Humanos que otorga el orden jurídico mexicano, los que conocerán de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción de los del Poder Judicial del Estado, que violen estos derechos. Formularán recomendaciones públicas autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas.
+
+Estos organismos no serán competentes tratándose de asuntos electorales, laborales ni jurisdiccionales.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2246,3 +2252,7 @@ UNICO. Este Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 7 DE SEPTIEMBRE DE 1992.
 
 UNICO. Este Decreto deberá imprimirse y publicarse con las reformas aprobadas.
+
+P.O. 8 DE FEBRERO DE 1993.
+
+UNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
