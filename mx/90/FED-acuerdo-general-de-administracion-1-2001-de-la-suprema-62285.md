@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-1-2001-de-la-suprema-62285"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-01-22"
-last_updated: "2001-01-22"
+last_updated: "2001-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62285&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,11 @@ issue_date: "2001-01-22"
 
 ACUERDO GENERAL DE ADMINISTRACION 1/2001, POR EL QUE SE CREA LA DIRECCION GENERAL DE PUBLICACIONES Y DIVULGACION DE LA CULTURA JURIDICA Y SE MODIFICA LA DENOMINACION DE LA DIRECCION GENERAL DE COMUNICACION SOCIAL, AMBAS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL CONJUNTO DE ADMINISTRACION 3/2001, PUBLICADO EN EL S.J.F.G., TOMO XIII, MARZO DE 2001, PAGINA 1841, SE DEROGA, EN LO QUE ATAÑE A LA COORDINACION GENERAL DE COMUNICACION SOCIAL DE LA S.C.J.N. Y AQUELLAS OTRAS DISPOSICIONES ADMINISTRATIVAS, EN LO QUE SE OPONGAN A LO SEÑALADO EN NUEVO ACUERDO.</small>
 
-Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XIII, febrero de 2001, página 1853.
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION: TOMO XIII, MARZO DE 2001, PAGINA 1841.
+
+Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XIII, Febrero de 2001, página 1853.
 
 ACUERDO GENERAL DE ADMINISTRACIÓN 1/2001, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE PUBLICACIONES Y DIVULGACIÓN DE LA CULTURA JURÍDICA Y SE MODIFICA LA DENOMINACIÓN DE LA DIRECCIÓN GENERAL DE COMUNICACIÓN SOCIAL, AMBAS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.
 
@@ -96,3 +98,13 @@ CUARTO.- Se derogan, a partir de la entrada en vigor de este acuerdo, todas aque
 QUINTO.- Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta.
 
 Así lo acordó y firma el señor Ministro Genaro David Góngora Pimentel, presidente de la Suprema Corte de Justicia de la Nación, el día veintidós de enero de dos mil uno, ante el coordinador general de Asuntos Jurídicos de la Presidencia que da fe.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+S.J.F.G., TOMO XIII, MARZO DE 2001, PAGINA 1841.
+
+PRIMERO.- Este acuerdo entrará en vigor el día siguiente de su aprobación.
+
+SEGUNDO.- Se deroga, en lo que atañe a la Coordinación General de Comunicación Social de la Suprema Corte de Justicia de la Nación, el Acuerdo General de Administración 1/2001 de veintidós de enero de dos mil uno y aquellas otras disposiciones administrativas, en lo que se opongan a lo señalado en este acuerdo.
+
+TERCERO.- Publíquese este acuerdo en el Semanario Judicial de la Federación y su Gaceta.
