@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transito-del-estado-de-sonora-8409"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-27"
-last_updated: "1993-07-15"
+last_updated: "1994-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE TRANSITO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE JULIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1994.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 27 de febrero de 1984.
 
@@ -177,7 +177,9 @@ Los integrantes de las Policías de Tránsito Municipales serán los encargados 
 
 Los Comisarios y los Delegados Municipales ejercerán las funciones a que se refiere el párrafo que antecede, dentro de sus respectivas jurisdicciones, cuando no existan en las mismas, elementos de la Policía de Tránsito Municipal.
 
-Los integrantes de las Policías de Tránsito Municipales actuarán en auxilio de la Policía Judicial, en la investigación, averiguación y persecución de hechos delictuosos derivados de las actividades reguladas por esta Ley.
+> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1994)</small>
+
+Los integrantes de las policías de tránsito municipales actuarán en auxilio y a solicitud expresa del Ministerio Público, en la investigación, averiguación y persecución de hechos delictuosos derivados de las actividades reguladas por esta Ley.
 
 > <small>(REFORMADO, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
 
@@ -1719,7 +1721,7 @@ Todo peatón deberá cruzar las vías públicas en las intersecciones o en las z
 
 En los lugares donde haya pasos a desnivel para peatones éstos están obligados a usarlos.
 
-Ningún peatón cruzará la intersección diagonalmente, excepto en los casos en que los dispositivos para el control del tránsito lo permitan.
+Ningún peatón cruzará la intersección diagonalmentet, excepto en los casos en que los dispositivos para el control del tránsito lo permitan.
 
 Entre dos intersecciones contiguas controladas con semáforos, los peatones sólo cruzarán la calle en las zonas de paso marcadas para el efecto.
 
@@ -2331,7 +2333,9 @@ I.- Las que sean necesarias para mantener la fluidez de la circulación.
 
 II.- Las tendientes a impedir daños a personas y a las propiedades.
 
-III.- En caso de flagrante delito, entregarán a los detenidos a la Jefatura de Policía.
+> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 1994)</small>
+
+III.- En caso de flagrante delito, pondrán a los detenidos a disposición de la jefatura de policía o de la autoridad inmediata, y ésta, con la misma prontitud, a la del Ministerio Público.
 
 IV.- Si hubiere lesionados, llamarán al servicio médico.
 
@@ -2675,7 +2679,7 @@ EL SECRETARIO DE GOBIERNO,
 
 Lic. Carlos Gámez Fimbres.
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 26 DE DICIEMBRE DE 1986.
 
@@ -2702,3 +2706,9 @@ B.O. 15 DE JULIO DE 1993.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 30 DE DICIEMBRE DE 1994.
+
+PRIMERO.- La presente Ley entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+SEGUNDO.- Las personas físicas o morales que con anterioridad a la entrada en vigor de la presente Ley, estén prestando servicios privados de seguridad, o que actualmente realicen actividades conceptualizadas como tales en este ordenamiento, deberán dentro de un plazo de tres meses contados a partir de la vigencia de esta Ley, comparecer ante la Coordinación Estatal de Seguridad Pública y Tránsito a efecto de que se les otorgue la autorización y el registro correspondiente, previa comprobación del cumplimiento de los requisitos que se establecen, en el entendido de que de no comparecer dentro del plazo señalado, la Secretaría de Gobierno podrá imponer la sanción de multa, cuyo monto será de hasta cinco mil veces el salario mínimo general vigente en la cabecera del Municipio de que se trate.
