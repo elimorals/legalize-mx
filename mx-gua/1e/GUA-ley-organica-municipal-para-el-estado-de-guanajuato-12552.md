@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-12552"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-25"
-last_updated: "1999-12-28"
+last_updated: "2000-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGANICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 25 de julio de 1997.
 
@@ -129,9 +129,11 @@ Asimismo, promoverán que la educación básica que se imparta, sea tanto en idi
 
 Para los efectos de los párrafos anteriores, los ayuntamientos expedirán normas de carácter general, en el ámbito de su competencia.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 12.
 
-Los planes de desarrollo municipal, deberán contener programas y acciones tendientes al crecimiento y bienestar de los pueblos indígenas a que hace referencia el artículo anterior, respetando sus formas de producción y comercio.
+El Plan de Gobierno Municipal, deberá contener programas y acciones tendientes al crecimiento y bienestar de los pueblos indígenas a que hace referencia el artículo anterior.
 
 ### CAPITULO TERCERO. DE LA PARTICIPACION SOCIAL
 
@@ -673,9 +675,9 @@ b) Discutir y aprobar los reglamentos, bandos de policía y buen gobierno, circu
 
 c) Designar anualmente de entre sus miembros, a los integrantes de las comisiones del Ayuntamiento;
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
-d) Fijar las bases para la elaboración del plan de desarrollo municipal y sus programas; así como en su oportunidad aprobarlo, controlarlo y evaluarlo. En ejercicio de esta atribución, podrán solicitar la propuesta, opinión o colaboración del consejo de planeación;
+d) Fijar las bases para la elaboración del Plan Municipal de Desarrollo, del Plan de Gobierno Municipal y de los programas derivados de éste último y en su oportunidad, aprobarlos, evaluarlos y actualizarlos;
 
 e) Nombrar y remover a los delegados municipales, en los términos que señala esta Ley;
 
@@ -1011,97 +1013,159 @@ Decretada la suspensión o revocación del mandato, el Ayuntamiento llamará al 
 
 La planeación constituye la base de la administración pública municipal y tiene como sustento, el sistema de planeación democrática, previsto en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado, en la Ley de Planeación para el Estado de Guanajuato y en esta Ley.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 90.
 
-El Municipio contará con el plan de desarrollo municipal, como instrumento para el desarrollo integral de la comunidad, el cual contendrá:
+Los municipios contarán con los siguientes instrumentos de planeación:
 
-I.- Los objetivos generales, estrategias, metas y prioridades de desarrollo integral del Municipio;
+I.- Plan Municipal de Desarrollo;
 
-II.- Las previsiones sobre los recursos que serán asignados a tales fines;
+II.- Plan de Gobierno Municipal; y
 
-III.- Los instrumentos, responsables y plazos de su ejecución; y
+III.- Programas derivados del Plan de Gobierno Municipal.
 
-IV.- Los lineamientos de política de carácter global, sectorial y de servicios municipales.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 91.
 
-Las previsiones del plan deberán ser a largo plazo, se referirán al conjunto de la actividad económica y social. Las políticas y criterios del plan, regirán el contenido de los programas operativos anuales, en concordancia siempre con los planes estatal y nacional de desarrollo.
+El Plan Municipal de Desarrollo contendrá las prioridades y objetivos para el desarrollo del Municipio por un periodo de al menos veinticinco años, y deberá ser evaluado y actualizado cuando menos cada cinco años, en concordancia con los Planes Nacional y Estatal de Desarrollo. La propuesta de Plan Municipal de Desarrollo será elaborada por el Consejo de Planeación de Desarrollo Municipal.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 92.
 
-El plan de desarrollo municipal establecerá los programas de la administración pública municipal centralizada y de las entidades paramunicipales.
+El Plan de Gobierno Municipal contendrá los objetivos, metas y estrategias que sirvan de base a las actividades de la administración pública municipal, de forma que aseguren el cumplimiento del Plan Municipal de Desarrollo.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+El Plan de Gobierno Municipal, deberá ser elaborado por las dependencias y entidades de la administración pública municipal, con la asesoría del Consejo de Planeación de Desarrollo Municipal y sometido a la aprobación del Ayuntamiento dentro de los primeros cuatro meses de su gestión; tendrá una vigencia de tres años y deberá ser actualizado anualmente.
+
+El Plan de Gobierno Municipal indicará los programas de carácter sectorial.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 93.
 
-Dentro de los primeros cuatro meses de la gestión del Ayuntamiento, se deberá evaluar el plan de desarrollo municipal vigente, a efecto de hacer las adecuaciones pertinentes, buscando la continuidad en los programas de interés social, o bien, se podrá aprobar uno nuevo, cuando esto se justifique porque el vigente no responda a las necesidades imperantes en el Municipio.
+Una vez aprobados por el Ayuntamiento, los planes a que se refiere este capítulo, se publicarán en el Periódico Oficial del Gobierno del Estado y, en su caso, podrán ser publicados en el periódico de mayor circulación en el Municipio.
 
-La evaluación del plan de desarrollo municipal, deberá realizarse anualmente.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 94.
 
-El Ayuntamiento determinará qué dependencia de la administración pública municipal, tendrá a su cargo la formulación del plan de desarrollo municipal y sus programas.
+Las dependencias y entidades de la administración pública municipal elaborarán programas operativos anuales, que deberán ser congruentes con los planes y programas de los que se derivan, y regirán las actividades de cada una de ellas.
+
+Dichos programas formarán parte integral del Presupuesto de Egresos Municipal y serán aprobados por el Ayuntamiento, conjuntamente con el mismo.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 95.
 
-El plan de desarrollo municipal tendrá los objetivos siguientes:
+El Plan Municipal de Desarrollo, el Plan de Gobierno Municipal y los programas derivados de éste último, serán obligatorios para las dependencias y entidades de la administración pública municipal.
 
-I.- Atender las demandas prioritarias de la población;
-
-II.- Propiciar el desarrollo armónico del Municipio;
-
-III.- Asegurar la participación de la sociedad en las acciones del gobierno municipal;
-
-IV.- Vincular el plan de desarrollo municipal con los planes de desarrollo estatal, regional y federal; y
-
-V.- Aplicar de manera racional los recursos financieros, para el cumplimiento del plan y los programas.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 96.
 
-Los ayuntamientos difundirán su plan de desarrollo municipal y lo publicarán en el Periódico Oficial del Gobierno del Estado.
+Los ayuntamientos en el informe anual del estado que guarda la administración pública municipal, deberán hacer mención de los mecanismos y acciones adoptados para la ejecución de los planes y programas, así como de los resultados obtenidos.
+
+Los titulares de las dependencias y entidades de la administración pública municipal que sean convocados por el Ayuntamiento para dar cuenta de la situación que guardan los asuntos de sus respectivas áreas, informarán sobre el cumplimiento de los planes y programas a su cargo.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 97.
 
-El plan de desarrollo municipal y los programas que de éste se deriven, serán obligatorios para las dependencias y entidades de la administración pública municipal.
+El presupuesto de egresos de los municipios deberá atender las prioridades y objetivos que señale el Plan de Gobierno Municipal y los programas derivados del mismo, de conformidad con lo establecido en esta Ley y sus reglamentos.
 
-Cuando lo demande el interés social o lo requieran las circunstancias de tipo técnico o económico, los planes y programas podrán ser reformados o adicionados a través del mismo procedimiento que se siguió para su aprobación.
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
-### CAPITULO SEGUNDO. DEL CONSEJO DE PLANEACION
+### CAPITULO SEGUNDO. DE LOS CONSEJOS DE PLANEACION DE DESARROLLO MUNICIPALES
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 98.
 
-Los ayuntamientos integrarán un consejo relativo a la planeación municipal, el cual deberá constituirse dentro de los sesenta días naturales siguientes a la fecha de instalación de los mismos.
+El Ayuntamiento integrará un Consejo de Planeación de Desarrollo Municipal, que deberá constituirse dentro de los sesenta días naturales siguientes a la fecha de su instalación.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 99.
 
-El consejo de planeación municipal es un organismo técnico, auxiliar de los ayuntamientos en las funciones relativas a la planeación, el cual contará con la participación de los sectores público, social y privado.
+Los Consejos de Planeación de Desarrollo Municipales son organismos técnicos y consultivos, auxiliares de los ayuntamientos en materia de planeación, y forman parte de la estructura de participación del Sistema Estatal de Planeación.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 100.
 
-El órgano de coordinación del consejo de planeación municipal, se constituirá con:
+Los Consejos de Planeación de Desarrollo Municipales y sus órganos, se integrarán con la participación mayoritaria de representantes de la sociedad organizada del Municipio.
 
-I.- El presidente municipal o en quien delegue esta atribución;
-
-II.- Un secretario técnico, que será designado por el Ayuntamiento a propuesta del presidente municipal; y
-
-III.- Los consejeros que acuerde el Ayuntamiento, considerando las distintas áreas o materias de una planeación integral.
-
-Por cada consejero propietario se designará un suplente.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 101.
 
-Los titulares de las dependencias y entidades de la administración pública municipal, coadyuvarán con el consejo en el ejercicio de sus atribuciones.
+Los Consejos de Planeación de Desarrollo Municipales contarán con los siguientes órganos:
+
+I.- Un Consejo Técnico; y
+
+II.- Comisiones de Trabajo.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 102.
 
-El consejo de planeación municipal podrá constituir subconsejos, atendiendo a las condiciones territoriales y de sector, en las diferentes categorías políticas.
+Los Consejos de Planeación de Desarrollo Municipales se integrarán por:
+
+I.- El Presidente Municipal, quien lo presidirá;
+
+II.- El titular de la dependencia encargada de la planeación del desarrollo en el Municipio, quien será el Secretario Técnico;
+
+III.- Representantes de la sociedad organizada que participen en las Comisiones de Trabajo, designados en los términos que señale el reglamento que al efecto emita el Ayuntamiento;
+
+IV.- Los demás funcionarios municipales que acuerde el Ayuntamiento; y
+
+V.- Los demás funcionarios estatales que el Ayuntamiento invite a participar.
+
+Los cargos de quienes integran los Consejos de Planeación de Desarrollo Municipales, serán de carácter honorífico.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 ###### Artículo 103.
 
-El consejo de planeación municipal, tendrá las funciones que le determine el Ayuntamiento y el reglamento respectivo.
+Son atribuciones de los Consejos de Planeación de Desarrollo Municipales las siguientes:
+
+I.- Fungir como órgano de consulta en materia de planeación del desarrollo del Municipio ante los Gobiernos Federal, Estatal y Municipales;
+
+II.- Elaborar la propuesta del Plan Municipal de Desarrollo;
+
+III.- Asesorar en la evaluación y actualización del Plan Municipal de Desarrollo;
+
+IV.- Participar en la elaboración, evaluación y actualización del Plan de Gobierno Municipal y de los programas derivados del mismo;
+
+V.- Proporcionar asesoría técnica para la instrumentación en el ámbito municipal, del Plan Nacional de Desarrollo, los programas federales, el Plan Estatal de Desarrollo, el Plan Municipal de Desarrollo, el Plan de Gobierno Municipal y los programas que se deriven de este último;
+
+VI.- Promover la celebración de convenios tendientes a orientar los esfuerzos para lograr los objetivos del desarrollo integral del Municipio;
+
+VII.- Propiciar vínculos de coordinación con otras estructuras de planeación para el desarrollo de los municipios, con el objeto de intercambiar programas y proyectos para el desarrollo sustentable de las regiones intermunicipales; y
+
+VIII.- Las demás que señale el reglamento que al efecto emita el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+Artículo 103 A.- Son atribuciones del Consejo Técnico:
+
+I.- Coordinar las funciones de diagnóstico, de planeación, de seguimiento y de evaluación del desarrollo;
+
+II.- Promover la planeación municipal y regional en congruencia con los objetivos, metas y estrategias del Plan Municipal de Desarrollo y del Plan de Gobierno Municipal; y
+
+III.- Las demás que señale el reglamento que al efecto emita el Ayuntamiento.
+
+El Consejo Técnico coordinará el funcionamiento de las Comisiones de Trabajo, las que tendrán las atribuciones previstas en la fracción I de este artículo.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+Artículo 103 B.- Los ayuntamientos deberán señalar la forma y los procedimientos para la integración y funcionamiento del Consejo de Planeación de Desarrollo Municipal, del Consejo Técnico y de las Comisiones de Trabajo, en el reglamento que para el efecto emitan.
+
+Asimismo, el reglamento establecerá la forma y procedimiento para elegir a los representantes del Ayuntamiento y de la sociedad organizada que se propondrán para integrar el Consejo de Planeación para el Desarrollo del Estado de Guanajuato.
+
+Los representantes de la sociedad organizada que propongan los ayuntamientos deberán ser integrantes de los Consejos de Planeación de Desarrollo Municipales.
 
 ### CAPITULO TERCERO. DE LA ASOCIACION DE MUNICIPIOS
 
@@ -1339,7 +1403,9 @@ I.- Presentar al Ayuntamiento un plan de trabajo anual, durante el mes de enero;
 
 II.- Proponer y aplicar normas y criterios en materia de control y evaluación, que deban observar las dependencias y entidades de la administración pública municipal;
 
-III.- Verificar el cumplimiento del plan de desarrollo municipal y sus programas;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+III.- Verificar el cumplimiento del Plan Municipal de Desarrollo, del Plan de Gobierno Municipal y de los programas derivados de éste último;
 
 IV.- Realizar auditorías periódicamente a las dependencias y entidades de la administración pública municipal;
 
@@ -1457,7 +1523,9 @@ VI.- Facultades y obligaciones del órgano de gobierno, señalando cuáles de di
 
 VII.- Organos de vigilancia, así como sus facultades;
 
-VIII.- Vinculación con los objetivos y estrategias de los planes de desarrollo municipal, estatal y nacional;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
+VIII.- Vinculación con los objetivos y estrategias del Plan Municipal de Desarrollo y del Plan de Gobierno Municipal;
 
 IX.- Descripción clara de los objetivos y metas;
 
@@ -1583,9 +1651,11 @@ En la aplicación del presente capítulo, se atenderá en lo conducente, lo disp
 
 ### CAPITULO PRIMERO. DE LOS SERVICIOS PUBLICOS MUNICIPALES
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 140.
 
-Los ayuntamientos vigilarán que la prestación de los servicios públicos, se realice en igualdad de condiciones a todos los habitantes del Municipio, en forma permanente, general, uniforme, continua y de acuerdo a su respectivo plan de desarrollo municipal.
+Los ayuntamientos vigilarán que la prestación de los servicios públicos, se realice en igualdad de condiciones a todos los habitantes del Municipio, en forma permanente, general, uniforme, continua, y de acuerdo al Plan de Gobierno Municipal.
 
 ###### Artículo 141.
 
@@ -2091,9 +2161,11 @@ En lo no previsto en esta Ley, se aplicará supletoriamente, la Ley de Adquisici
 
 El Ayuntamiento aprobará su presupuesto de egresos, que regirá del 1o. de enero hasta el 31 de diciembre del ejercicio fiscal correspondiente, debiendo publicarlo para conocimiento de la población dentro de los primeros quince días hábiles de enero, en el periódico de mayor circulación en el Municipio o en otros medios de comunicación que se estimen convenientes.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+
 ###### Artículo 197.
 
-La presupuestación del gasto público municipal, se sujetará a los objetivos y prioridades que señale el plan de desarrollo municipal y sus programas, atendiendo a los principios de racionalidad, austeridad y disciplina del gasto público municipal, procurando observar los siguientes criterios:
+La presupuestación del gasto público municipal, atenderá los objetivos y prioridades que señale el Plan de Gobierno Municipal y los programas derivados de éste, atendiendo a los principios de racionalidad, austeridad y disciplina del gasto público, procurando observar los siguientes criterios:
 
 I.- El equilibrio entre el ingreso y el egreso;
 
@@ -2396,3 +2468,11 @@ Artículo Primero.- El presente decreto entrará en vigor el cuarto día siguien
 Artículo Segundo.- Los Ayuntamientos que aún no cuenten con Juzgados Administrativos Municipales, realizarán los ajustes y previsiones presupuestales necesarias para su creación y funcionamiento, en los términos del presente decreto.
 
 Artículo Tercero.- Los Ayuntamientos deberán emitir los reglamentos de los Juzgados Administrativos Municipales, a más tardar sesenta días después de la entrada en vigor del presente decreto.
+
+P.O. 22 DE DICIEMBRE DE 2000.
+
+Artículo Primero.- El presente Decreto entrará en vigor el 1° primero de enero del año 2001 dos mil uno, una vez publicado en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Los ayuntamientos deberán expedir el reglamento de Planeación del Desarrollo Municipal, a más tardar en un plazo de cuatro meses contado a partir de la entrada en vigor del presente Decreto. Asimismo, contarán con un plazo de dos meses contado a partir de la fecha de entrada en vigor del reglamento de Planeación del Desarrollo Municipal correspondiente, para integrar o, en su caso, reestructurar los Consejos de Planeación de Desarrollo Municipales.
+
+Artículo Tercero.- Los ayuntamientos en funciones, tendrán un plazo de seis meses para aprobar su Plan de Gobierno Municipal y de un año para evaluar y, en su caso, actualizar el Plan Municipal de Desarrollo, contados ambos plazos a partir de la fecha de entrada en vigor del presente Decreto.
