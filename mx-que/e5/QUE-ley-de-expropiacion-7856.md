@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-expropiacion-7856"
 country: "mx"
 rank: "ley"
 publication_date: "1950-04-27"
-last_updated: "1950-04-27"
+last_updated: "1991-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE EXPROPIACION
 
-LEY No. 37 DE EXPROPIACION
+LEY NO. 37 DE EXPROPIACION
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el 27 de abril de 1950.
 
@@ -55,7 +55,7 @@ VIII.- La defensa, conservación, desarrollo o aprovechamiento de los elementos 
 
 IX.- La creación, fomento o conservación de una empresa para beneficio de la colectividad;
 
-X.- La creación o mejoramiento de centros de población y de sus fuentes propias de vida;
+X.- La creación o mejoramiento de centros de población y de sus fuentes propias de vida.
 
 XI.- El aprovechamiento racional de las riquezas turísticas naturales que ofrece el Estado;
 
@@ -91,11 +91,11 @@ Cuando no se haya hecho valer el recurso de revocación a que se refiere el art�
 
 Si los bienes que han originado una declaratoria de expropiación, de ocupación temporal o de limitación de dominio no fueren destinados al fin que dio causa a la declaratoria respectiva, dentro del término de cinco años, el propietario afectado podrá reclamar la reversión del bien de que se trate, o la insubsistencia del acuerdo sobre ocupación temporal o limitación de dominio.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1991)</small>
+
 ###### ARTICULO OCTAVO.
 
-El precio que se fijará como indemnización a la cosa expropiada se basará en la cantidad que como valor de ella figure en la oficinas Catastrales o recaudadoras, ya sea que este valor haya sido manifestado por el propietario o simplemente aceptado por él o de un modo tácito por haber pagado sus contribuciones con esta base.
-
-El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor fiscal, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de objetos cuyo valor no esté fijado en las oficinas rentísticas.
+El precio que se fijará como indemnización a la cosa expropiada en bienes inmuebles, se basará en el valor comercial que tenga en los términos de la Ley del Impuesto Predial. Para bienes inmuebles se nombrará un perito valuador de común acuerdo entre autoridad y particular.
 
 ###### ARTICULO NOVENO.
 
@@ -151,34 +151,42 @@ En el caso de ocupación temporal o de limitación de dominios, se harán las an
 
 T R A N S I T O R I O S :
 
-PRIMERO.- Se derogan todas las leyes expedidas con anterioridad, en cuanto se opongan a la presente.
+PRIMERO.- Se derogan todas las leyes expedidas con anterioridad en cuanto se opongan a la presente.
 
 SEGUNDO.- Esta ley empezará a regir a partir de su fecha de publicación en el periódico oficial del Estado.
 
-Lo tendrá entendido el C. Gobernador Constitución (sic) del Estado y mandará que se imprima, publique y observe.
+Lo tendrá entendido el C. Gobernador Constitucional del Estado y mandará que se imprima, publique y observe.
 
 Dada en el Palacio del Poder Legislativo del Estado, a los once días del mes de abril de mil novecientos cincuenta.
 
-Diputado Presidente
+DIPUTADO PRESIDENTE
 
 LIC. ALBERTO FERNÁNDEZ R.
 
-Diputado Secretario
+DIPUTADO SECRETARIO
 
 DOMINGO OLVERA
 
-Diputado Secretario
+DIPUTADO SECRETARIO
 
 FRANCISCO SUZAN A.
 
-Por tanto mando se imprima, publique y observe y se le de el debido cumplimiento.
+POR TANTO MANDO SE IMPRIMA, PUBLIQUE Y OBSERVE Y SE LE DE EL DEBIDO CUMPLIMIENTO.
 
-Dada en el Palacio del Poder Ejecutivo del Estado a los veintiún días del mes de Abril de mil novecientos cincuenta.
+DADA EN EL PALACIO DEL PODER EJECUTIVO DEL ESTADO, A LOS VEINTIÚN DÍAS DEL MES DE ABRIL DE MIL NOVECIENTOS CINCUENTA.
 
-El Gobernador Constitucional.
+EL GOBERNADOR CONSTITUCIONAL
 
-Dr. OCTAVIO S. MONDRAGON.
+DR. OCTAVIO S. MONDRAGON
 
-El Secretario Gral de Gobierno.
+EL SECRETARIO GENERAL DE GOBIERNO
 
-Lic. FCO. RODRÍGUEZ AGUILLON.
+FCO. RODRÍGUEZ AGUILLON.
+
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 8 DE AGOSTO DE 1991
+
+###### ARTICULO UNICO.
+
+Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial "La Sombra de Arteaga".
