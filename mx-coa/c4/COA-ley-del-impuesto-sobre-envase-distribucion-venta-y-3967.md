@@ -4,7 +4,7 @@ identifier: "COA-ley-del-impuesto-sobre-envase-distribucion-venta-y-3967"
 country: "mx"
 rank: "ley"
 publication_date: "1969-02-22"
-last_updated: "1969-02-22"
+last_updated: "1971-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL IMPUESTO SOBRE ENVASE, DISTRIBUCION, VENTA Y TRANSPORTE DE ALCOHOL Y DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 1971.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 22 de febrero de 1969.
 
@@ -55,9 +55,11 @@ I.- Como alcohol, la substancia conocida con el nombre de etanol o alcohol etíl
 
 II.- Como bebida alcohólica, todo líquido potable cuya graduación, a la temperatura de 15° C. (QUINCE GRADOS CENTIGRADOS), exceda de 2° G. L. (DOS GRADOS GAY-LUSSAC).
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1971)</small>
+
 ###### ARTICULO 3o.
 
-Quedan exceptuados del pago de este impuesto, el envase y la distribución de alcohol desnaturalizado. Se considerará alcohol desnaturalizado el que reúna las condiciones que establece la Ley Federal del Impuesto sobre Alcoholes, Aguardientes y Mieles incristalizables.
+Quedan exceptuados del pago de este impuesto, el envase y la distribución de cerveza y alcohol desnaturalizado. Para los efectos de esta Ley se considera cerveza la bebida que reúna las características establecidas en el Artículo 2 de la Ley Federal del Impuesto Sobre Producción y Consumo de Cerveza, y como alcohol desnaturalizado el que reúna las condiciones que establece la Ley Federal del Impuesto Sobre Alcoholes, Aguardientes y Mieles incristalizables.
 
 ###### ARTICULO 4o.
 
@@ -69,59 +71,33 @@ Son Envasadores las personas que envasen alcohol o bebidas alcohólicas por cuen
 
 Son distribuidores los poseedores o almacenistas de alcohol o de bebidas alcohólicas, cualquiera que sea su procedencia, que operen con ellos al mayoreo, por cuenta propia o ajena, aún cuando también efectúen operaciones de menudeo. Para los efectos de este impuesto se equipararán a los Distribuidores, los Agentes Representantes de Productores de fuera del Estado de Coahuila, así como los importadores que reciban del extranjero alcohol o bebidas alcohólicas, ya sea en propiedad, en comisión, depósito, representación o cualquier otro título.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1971)</small>
+
 ###### ARTICULO 5o.
 
 El Impuesto se causará conforme a las siguientes tarifas:
 
-I.- Envase y distribución de alcohol, por litro $0.30 (TREINTA CENTAVOS).
+I.- Envase y distribución de alcohol por litro $0.40 (CUARENTA CENTAVOS).
 
-II.- Los vinos de mesa y generosos o aromatizados, tales como tinto, blanco, rosado, espumoso, moscatel, jerez, vermouth, mistela, oporto, solera, amontillado y sidra, procedentes de la fermentación natural de la uva o de la manzana frescas del País y el rompope.
-
-a).- Si están contenidos en envases de los comúnmente llamados miniaturas $0.20 (VEINTE CENTAVOS).
-
-b).- Si están contenidos en envases con capacidad hasta de 500 centímetros cúbicos (medio litro), con excepción de los anotados en el inciso anterior $0.40 (CUARENTA CENTAVOS).
-
-c).- Si están contenidos en envases con capacidad de 501 centímetros cúbicos hasta un litro $0.75 (SETENTA Y CINCO CENTAVOS).
-
-d).- Si están contenidos en envases con capacidad mayor de un litro, pagarán un impuesto de $0.75 (SETENTA Y CINCO CENTAVOS) por cada litro o fracción.
-
-III.- Las mismas bebidas alcohólicas consideradas en la fracción anterior, que no procedan de la fermentación natural de la uva o de la manzana frescas del País, o mezclas, ampliaciones o extractos:
+II.- Envase y distribución de aguardientes de cualquier clase, brandies, rones, habaneros, los obtenidos por mezclas en frío, así como mezcales, sotoles y tequilas; los vinos de mesa y generosos o aromatizados tales como tinto, blanco, rosado, espumoso, moscatel, jerez, vermouth, mistela, oporto, solera, anís, amontillado, sidra, rompope y las bebidas alcohólicas en general, cualesquiera que sean las materias primas y los procesos seguidos para su elaboración:
 
 a).- Si están contenidos en envases de los comúnmente llamados miniaturas $0.20 (VEINTE CENTAVOS).
 
-b).- Si están contenidos en envases hasta de 500 centímetros cúbicos (medio litro), con excepción de las anotadas en el inciso anterior $0.50 (CINCUENTA CENTAVOS).
+b).- Si están contenidos en envases con capacidad hasta de 500 centímetros cúbicos (MEDIO LITRO), con excepción de los anotados en el inciso anterior $0.50 (CINCUENTA CENTAVOS).
 
-c).- Si están contenidos en envases de 501 centímetros cúbicos hasta un litro, pagarán un impuesto de $1.00 (UN PESO) por cada litro o fracción, según la capacidad del envase.
-
-d).- Si están contenidas en envases con capacidad mayor de un litro pagarán un impuesto de $1.00 (UN PESO) por cada litro o fracción según la capacidad del envase.
-
-IV.- Los aguardientes de uva, brandys y destilados de uva tipo coñac, elaborados por destilación directa de vino procedente de la uva fresca del País:
-
-a).- Si están contenidos en envases de los comúnmente llamados miniaturas $0.10 (DIEZ CENTAVOS).
-
-b).- Si están contenidos en envases con capacidad hasta de 500 centímetros cúbicos (medio litro), con excepción de los anotados en el inciso anterior $0.30 (TREINTA CENTAVOS).
-
-c).- Si están contenidos en envases con capacidad de 501 centímetros cúbicos hasta un litro $0.60 (SESENTA CENTAVOS).
-
-d).- Si están contenidos en envases con capacidad mayor de un litro, pagarán un impuesto de $0.60 (SESENTA CENTAVOS) por cada litro o fracción.
-
-V.- Los aguardientes de cualquier clase, rones, habaneros y demás bebidas alcohólicas que no se obtengan por destilación de vinos procedentes de la uva fresca del País, los obtenidos por mezclas en frío, así como mezcales, sotoles y tequilas:
-
-a).- Si están contenidos en envases de los comúnmente llamados miniaturas $0.20 (VEINTE CENTAVOS).
-
-b).- Si están contenidos en envases hasta de 500 centímetros cúbicos (medio litro), con excepción de los anotados en el inciso anterior $0.50 (CINCUENTA CENTAVOS).
-
-c).- Si están contenidos en envases de 501 centímetros cúbicos hasta un litro $1.00 (UN PESO)
+c).- Si están contenidos en envases con capacidad de 501 centímetros cúbicos hasta un litro $1.00 (UN PESO).
 
 d).- Si están contenidos en envases con capacidad mayor de un litro, pagarán un impuesto de $1.00 (UN PESO) por cada litro o fracción, según la capacidad del envase.
 
-VI.- Los Whiskeys, vodkas y demás bebidas alcohólicas no incluidas en las fracciones anteriores, que no se obtengan por la destilación de vinos procedentes de la uva fresca del País:
+III.- Envase y distribución de coñacs, whiskies, vodkas, ginebras, cualesquiera que sean las materias primas y los procesos seguidos para su elaboración:
 
 a).- Si están contenidos en envases de los comúnmente llamados miniaturas $0.50 (CINCUENTA CENTAVOS).
 
 b).- Si están contenidos en envases con capacidad hasta de un litro $2.00 (DOS PESOS).
 
 c).- Si están contenidos en envases con capacidad mayor de un litro, por cada litro o fracción $2.00 (DOS PESOS).
+
+IV.- El envase y la distribución de cualesquiera otras bebidas alcohólicas no comprendidas en las enumeraciones anteriores, salvo las exceptuadas conforme al artículo 3 de esta ley, pagarán conforme a la fracción II de este artículo.
 
 ###### ARTICULO 6o.
 
@@ -185,15 +161,19 @@ Los Envasadores y Distribuidores no podrán efectuar ventas a granel de bebidas 
 
 Se considera como venta a granel la que se efectúa en envases con capacidad mayor de cinco litros.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1971)</small>
+
 ###### ARTICULO 14o.
 
-De conformidad con lo establecido en el párrafo segundo de la Fracción III del Artículo 19 de la Ley del Impuesto Sobre Producción y Consumo de Cerveza, reformado por Decreto del H. Congreso de la Unión publicado en el Diario Oficial de la Federación del 28 de diciembre de 1967, los Municipios podrán cobrar por concepto de derechos de empadronamiento de las fábricas, depósitos o expendios de cerveza hasta la cantidad de $200.00 (DOSCIENTOS PESOS 00/100 M.N.) anuales, sin adicionales.
+De conformidad con lo establecido en el artículo 19 de la Ley del Impuesto Sobre Producción y Consumo de Cerveza, el Estado y los Municipios sólo podrán cobrar derechos como contraprestación por servicios administrativos prestados efectivamente y con cuotas fijas e iguales a las que cubren quienes reciben servicios análogos. Los derechos por patente, registro, licencia sanitaria o de funcionamiento o cualquier otro semejante de las fábricas, depósitos o expendios de cerveza, en ningún caso podrán ser mayores de $200.00 (DOSCIENTOS PESOS 00/100 M.N.) anuales, salvo que se compruebe que el costo del servicio es mayor.
 
 DEL EMPADRONAMIENTO.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1971)</small>
+
 ###### ARTICULO 15o.
 
-Los Envasadores y Distribuidores de alcohol y de bebidas alcohólicas, deberán empadronarse anualmente en la Tesorería General del Estado directamente o por conducto de la Recaudación de Rentas de su jurisdicción, utilizando para el efecto las formas especiales aprobadas por la Tesorería General.
+Los envasadores y distribuidores de alcohol y de bebidas alcohólicas, así como sus bodegas o almacenes, deberán empadronarse anualmente en la Tesorería General del Estado, directamente o por conducto de la Recaudación de Rentas de su jurisdicción, utilizando para el efecto las formas especiales aprobadas por la Tesorería General.
 
 ###### ARTICULO 16o.
 
@@ -279,9 +259,11 @@ Se faculta a los Recaudadores de Rentas para que en los casos que se descubran e
 
 DEL IMPUESTO SOBRE EXPENDIOS DE BEBIDAS ALCOHOLICAS.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1971)</small>
+
 ###### ARTICULO 26o.
 
-Son objeto de este impuesto los expendios de bebidas alcohólicas.
+Son objetos de este impuesto los expendios de bebidas alcohólicas, excepto cerveza.
 
 ###### ARTICULO 27o.
 
@@ -353,11 +335,11 @@ Los causantes del impuesto previsto en esta sección deberán manifestar a la Te
 
 Las solicitudes de empadronamiento, las manifestaciones y los avisos se formularán haciendo uso de las formas aprobadas por la Tesorería General del Estado, debiéndose asentar en ellas de manera correcta y exacta todos los datos que en las mismas se consignan. En todo caso se anexarán los documentos que se requieran.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1971)</small>
+
 ###### ARTICULO 36o.
 
-Solamente en los expendios autorizados por la Tesorería General del Estado para vender bebidas alcohólicas al copeo, se podrán tener
-
-estas en botellas o envases abiertos, que deben ser los de origen. En consecuencia queda prohibido llenar o rellenar envases, y al agotarse el contenido deberán destruirse las cintas engomadas.
+Solamente en los expendios autorizados por la Tesorería General del Estado, para vender bebidas alcohólicas al copeo, se podrán tener éstas en botellas o envases abiertos, que deben ser los de origen y en los cuales deberán conservarse adheridos los extremos de las cintas engomadas. En caso contrario se considerará que el impuesto sobre los envases citados no ha sido enterado, sin que contra esta presunción se admita prueba en contrario. En consecuencia queda prohibido llenar o rellenar envases, y al agotarse el contenido deberán destruirse las cintas engomadas.
 
 DE LAS INFRACCIONES Y SANCIONES
 
@@ -411,9 +393,11 @@ Se faculta a los Recaudadores de Rentas para que en los casos que se descubran e
 
 DEL IMPUESTO SOBRE LA TRANSPORTACION DE ALCOHOL Y DE BEBIDAS ALCOHOLICAS.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1971)</small>
+
 ###### ARTICULO 42o.
 
-Es objeto de este impuesto, la transportación de alcohol o de bebidas alcohólicas dentro del Estado de Coahuila.
+Es objeto de este impuesto la trasportación de alcohol o de bebidas alcohólicas, excepto cerveza, dentro del Estado de Coahuila.
 
 > <small>(F. DE E., P.O. 15 DE MARZO DE 1969)</small>
 
@@ -538,3 +522,9 @@ BRAULIO FERNANDEZ AGUIRRE.- Rúbrica.
 EL SECRETARIO DEL EJECUTIVO DEL ESTADO.
 
 LIC. JOSE RAMIREZ MIJARES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE SEPTIEMBRE DE 1971.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
