@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1993-09-06"
+last_updated: "1995-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 1995.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -517,9 +517,9 @@ I. El Gobernador del Estado;
 
 II. Quienes pertenezcan el (sic) Estado eclesiástico;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
 
-III. Los Secretarios del Despacho del Poder Ejecutivo, los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, el Procurador de Justicia del Estado, los funcionarios de la Federación residentes en el Estado, que no se hayan separado de sus respectivos cargos, cuando menos noventa días antes del día de la elección;
+III. Los Secretarios del Despacho del Poder Ejecutivo, los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, el Procurador General de Justicia del Estado, el Subprocurador de Asuntos Electorales, los funcionarios de la Federación residentes en el Estado, que no se hayan separado de sus respectivos cargos, cuando menos noventa días antes del día de la elección;
 
 IV. Los Jueces de Primera Instancia y los Administradores de Rentas, en la circunscripción en que ejerzan sus funciones y los Presidentes Muncipales (sic) en el Distrito del que forme parte el Municipio de su jurisdicción, si no se han separado unos y otros de sus cargos, cuando menos noventa días antes de la elección; y
 
@@ -643,7 +643,11 @@ III. Al Tribunal Superior de Justicia en su ramo;
 
 IV. A los Ayuntamientos; y
 
-V. A los ciudadanos del Estado y personas morales domiciliadas en la Entidad, por conducto de los Ayuntamientos o de los Diputados de sus respectivos Distritos Electorales.
+> <small>(REFORMADA (N. DE E. ADICIONADA], P.O. 2 DE AGOSTO DE 1995)</small>
+
+V. Al Procurador General de Justicia del Estado en su ramo; y
+
+VI. A los ciudadanos del Estado y personas morales domiciliadas en la Entidad, por conducto de los Ayuntamientos o de los Diputados de sus respectivos Distritos Electorales.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -657,11 +661,11 @@ Toda iniciativa de Ley o Decreto presentada, deberá pasar a la comisión o comi
 
 Las iniciativas se sujetarán al trámite que señala la ley Orgánica del Poder Legislativo.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1995)</small>
 
 ###### Artículo 50.
 
-En todo caso, se dará aviso al Ejecutivo del día señalado para la discusión de un dictamen, a fin de que aquél pueda participar en ella, directamente o por medio de un representante. Igual aviso se dará al Tribunal Superior de Justicia en los asuntos de su ramo, para que pueda tomar parte en la discusión por conducto de alguno de sus integrantes.
+En todo caso se dará aviso al Ejecutivo del día señalado para la discusión de un dictamen, a fin de que aquel pueda participar en ella directamente o por medio de un representante. Igual aviso se dará al Tribunal Superior de Justicia y a la Procuraduría General de Justicia en los asuntos de su ramo, para que puedan tomar parte en la discusión por conducto de alguno de sus integrantes.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -681,9 +685,9 @@ I. Se trata de adiciones o reformas a esta Constitución;
 
 II. Hayan sido dictados en ejercicio de la facultad de revisar la cuenta general del Estado y de los Muncipios (sic);
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
 
-III. Hayan sido dictados en uso de la facultad de conocer o negar licencia al Gobernador y a los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral; y
+III. Hayan sido dictados en uso de la facultad de conceder o negar licencia al Gobernador, a los Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo, del Tribunal Electoral, al Procurador General de Justicia y al Subprocurador de Asuntos Electorales; y
 
 IV. Hayan sido dictados en funciones del Colegio Electoral, de Gran Jurado y de Jurado de Acusación.
 
@@ -729,17 +733,25 @@ V. Formular su Ley Reglamentaria, así como la de la Contaduría Mayor de Hacien
 
 VI. Erigirse en Colegio Electoral para calificar las elecciones ordinarias y extraordinarias de Gobernador; declarando electo como Gobernador Constitucional del Estado, al ciudadano que haya obtenido la mayoría de vottos (sic);
 
-VII. Recibir la Protesta al cargo de Gobernador, Magistrados y Diputados;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
+
+VII. Recibir la protesta al cargo de Diputados, Gobernador, Magistrados, Procurador General de Justicia y Subprocurador de Asuntos Electorales;
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
 
-VIII. Aprobar en su caso, la proposición del Ejecutivo para nombrar a los Magistrados del Tribunal Superior de Justicia, Tribunal Fiscal Administrativo y Tribunal Electoral. Asimismo, conocer de las renuncias de estos a su encargo;
+VIII. Aprobar en su caso, la proposición del Ejecutivo para nombrar a los Magistrados del Tribunal Superior de Justicia, Tribunal Fiscal Administrativo y Tribunal Electoral. Asimismo, conocer de las renuncias de estos a su encargo.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 1995)</small>
+
+Nombrar de las listas propuestas por el titular del Ejecutivo, al Procurador General de Justicia del Estado y al Subprocurador de Asuntos Electorales, así como conocer de su renuncia o remoción;
 
 IX. Convocar a elecciones extraordinarias para cubrir las vacantes de sus miembros, cuando el Diputado Suplente en funciones dejare de asistir por cualquiera de los motivos especificados en esta Constitución;
 
 X. Nombrar al ciudadano que debe suplir al Gobernador Constitucional, en caso de falta temporal o definitiva de éste;
 
-XI. Conceder a los Diputados, Gobernador y Magistrados licencia para separarse de sus cargos en los términos establecidos por esta Constitución;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
+
+XI. Conceder a los Diputados, Gobernador, Magistrados, Procurador General de Justicia y Subprocurador de Asuntos Electorales, licencia para separarse de sus cargos en los términos establecidos por esta Constitución;
 
 > <small>(REFORMADA, P.O. 25 DE MARZO DE 1991)</small>
 
@@ -769,9 +781,9 @@ XIX. Instalar y presidir la Junta Preparatoria del nuevo Congreso del Estado;
 
 XX. Declarar Senadores electos a los ciudadanos que hayan obtenido la mayoría de votos emitidos en las Elecciones Constitucionales correspondientes;
 
-> <small>(ADICIONADA, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
 
-XXI. Hacer comparecer a los servidores públicos titulares de dependencias o directores y representantes legales de Entidades de la Administración Pública del Estado, para que informen de los asuntos de su competencia;
+XXI. Hacer comparecer a los servidores públicos titulares de dependencias o directores y representantes legales de Entidades de la Administración Pública del Estado, al Procurador General de Justicia del Estado y al Subprocurador de Asuntos Electorales, para que informen de los asuntos de su competencia;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
@@ -821,13 +833,13 @@ Son facultades de la Comisión Permanente:
 
 I. Convocar al Congreso a sesiones extraordinarias, por iniciativa propia o del Ejecutivo;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
 
-II. Conceder licencia al Gobernador del Estado cuando sea por un lapso mayor de un mes y a los Diputados y Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, cuando sea por un período mayor de tres meses;
+II. Conceder licencia al Gobernador del Estado cuando sea por un lapso mayor de un mes y a los Diputados, Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, así como al Procurador General de Justicia y al Subprocurador de Asuntos Electorales, cuando sea por un período mayor de tres meses;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
 
-III. Recibir la protesta al cargo de Gobernador y Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral;
+III. Recibir la protesta al cargo de Gobernador, Magistrados del Tribunal Superior de Justicia, del Tribunal Fiscal Administrativo y del Tribunal Electoral, así como al Procurador General de Justicia y al Subprocurador de Asuntos Electorales;
 
 IV. Resolver asuntos de su competencia y recibir durante el receso del Congreso del Estado las iniciativas de Ley y proposiciones que le dirijan, turnándolas para dictamen a fin de que se despachen en el período inmediato de sesiones;
 
@@ -841,9 +853,9 @@ VI. Nombrar con carácter interino a los empleados de la Contaduría Mayor de Ha
 
 VII. Nombrar Gobernador Provisional en los casos previstos por esta Constitución;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
 
-VIII. Conocer en su caso, la proposición del Ejecutivo para nombrar a los Magistrados del Tribunal Superior de Justicia, Tribunal fiscal Administrativo y Tribunal Electoral. Asimismo, de las renuncias de estos a su encargo;
+VIII. Conocer en su caso, la proposición del Ejecutivo, para nombrar a los Magistrados del Tribunal Superior de Justicia, Tribunal fiscal Administrativo y Tribunal Electoral; y de las renuncias de estos a su encargo. Así como la lista de propuestas que presente el titular del Ejecutivo para el nombramiento del Procurador General de Justicia del Estado y de Subprocurador de Asuntos Electorales, y de su renuncia o remoción;
 
 IX. Autorizar cualquier tipo de enajenación de los bienes inmuebles propiedad del Estado o de los Municipios, respectivamente, en los mismos términos de la fracción XII del artículo 56 de esta Constitución, cuando el Congreso se encuentra en receso;
 
@@ -963,7 +975,7 @@ El Gobernador del Estado podrá salir del territorio del mismo sin licencia del 
 
 #### SECCION III. DE LAS DEPENDENCIAS DEL EJECUTIVO
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1995)</small>
 
 ###### Artículo 71.
 
@@ -993,7 +1005,9 @@ X. Mandar las fuerzas de seguridad pública del Estado y todas las que se encuen
 
 XI. Resolver las dudas que tuvieren los agentes de la Administración Pública, sobre la aplicación de las Leyes a casos particulares;
 
-XII. Nombrar y remover libremente a los Secretarios de Despacho, al Procurador General de Justicia del Estado, a los Agentes del Ministerio Público y a todos los empleados y funcionarios que, conforme a la Constitución y a las Leyes, no deben ser nombrados por otra autoridad;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1995)</small>
+
+XII. Nombrar y remover libremente a los Secretarios de Despacho y a todos los empleados y funcionarios, que conforme a la Constitución y a las leyes, no deban ser nombrados por otra autoridad;
 
 XIII. Nombrar a los funcionarios y agentes integrantes de los cuerpos de Seguridad Pública y a los responsables de los servicios públicos, que en todos los casos se consideren como empleados de confianza;
 
@@ -1057,7 +1071,9 @@ XXXI. Ejercer el derecho de veto en los términos de esta Constitución;
 
 XXXII. Ejercer las facultades que le otorga la Constitución Federal en relación con la Guardia Nacional;
 
-XXXIII. (DEROGADA, P.O. 16 DE AGOSTO DE 1983) (REPUBLICADA, P.O. 16 DE ENERO DE 1987)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE AGOSTO DE 1995)</small>
+
+XXXIII. Facilitar a la Procuraduría General de Justicia, los elementos necesarios para el ejercicio expedito de sus funciones;
 
 XXXIV. Representar al Estado en las comisiones tanto federales, como interestatales regionales;
 
@@ -1117,13 +1133,17 @@ LII. Las demás que le confiera esta Constitución y la General de la República
 
 ###### Artículo 72.
 
-La administración pública del Estado, será centralizada y paraestatal de acuerdo a la Ley Orgánica que expida el Congreso, la que establecerá las dependencias y entidades necesarias para el despacho de los asuntos del Ejecutivo Estatal, y los requisitos que deberán cumplir los servidores públicos.
+El titular del Ejecutivo, previa consulta a las agrupaciones de abogados registradas en la Entidad, someterá al Congreso del Estado, o a la Comisión Permanente en su caso, la lista de propuestas de candidatos para ocupar los cargos de Procurador General de Justicia del Estado y Subprocurador de Asuntos Electorales, cuyos nombramientos deberán resolverse en el término de diez días.
 
-En todo caso, las dependencias de la Administración Pública Centralizada y las Entidades de la Administración Pública Paraestatal deberán de planear, programar y conducir sus actividades con sujeción a los objetivos y prioridades de la planeación del desarrollo estatal.
+Si el Congreso del Estado o la Comisión Permanente en su caso, nada resolvieren dentro del plazo señalado; el titular del Ejecutivo nombrará Procurador General de Justicia y Subprocurador de Asuntos Electorales, hasta en tanto el Congreso nombre a los titulares, quienes deberán rendir la protesta de Ley ante el Congreso del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE AGOSTO DE 1995)</small>
 
 ###### Artículo 73.
 
-(DEROGADO, P.O. 31 DE DICIEMBRE DE 1981)
+La Administración Pública del Estado, será centralizada y paraestatal de acuerdo a la Ley Orgánica que expida el Congreso, la que establecerá las dependencia (sic) y entidades necesarias para el despacho de los asuntos del Ejecutivo Estatal y los requisitos que deberán cumplir los servidores públicos.
+
+En todo caso, las dependencias de la Administración Pública centralizada y las entidades de la Administración Pública paraestatal deberán planear, programar y conducir sus actividades con sujeción a los objetivos y prioridades de la planeación de desarrollo estatal.
 
 ###### Artículo 74.
 
@@ -1163,7 +1183,7 @@ El Gobernador podrá delegar en cualquier funcionario, las facultades otorgadas 
 
 #### SECCION V. DEL MINISTERIO PUBLICO
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1995)</small>
 
 ###### Artículo 82.
 
@@ -1241,37 +1261,37 @@ Artículo 88d. (DEROGADO, P.O. 1 DE OCTUBRE DE 1987)
 
 ###### Artículo 89.
 
-El Ministerio Público, como representante del interés social, es la institución de buena fe, responsable de velar por la legalidad como principio rector de la convivencia social, mantener el orden jurídico, ejercitar la acción penal, exigir el cumplimiento de la pena, cuidar de la correcta aplicación de las medidas de política anticriminal, y proteger los intereses colectivos e individuales contra toda violación a las leyes.
+El Ministerio Público, representante del interés social, es una institución de buena fe, con autonomía técnica y administrativa para garantizar su independencia en la emisión de las determinaciones de su competencia.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1981)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1995)</small>
 
 ###### Artículo 90.
 
-El Ministerio Público estará presidido por un Procurador General, y en su organización estará determinada por la Ley Orgácnica (sic) correspondiente. El Procurador General de Justicia será consejero jurídico del titular del Poder Ejecutivo.
+Son facultades y obligaciones del Ministerio Público: velar por la legalidad como principio rector de la convivencia social, mantener el orden jurídico, ejercitar la acción penal, exigir el cumplimiento de la pena, cuidar de la correcta aplicación de las medidas de política anticriminal que establezca el Ejecutivo del Estado y proteger los intereses colectivos e individuales contra toda violación de las leyes, así como las establecidas en su Ley Orgánica.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1995)</small>
 
 ###### Artículo 91.
 
-Para ser Procurador General de Justicia se requiere:
+El Ministerio Público estará presidido por un Procurador General y su organización estará determinada por la Ley Orgánica correspondiente.
 
-I. Ser hidalguense en pleno goce de sus derechos;
-
-II. Tener 30 años de edad, como mínimo;
-
-III. Ser Licenciado en Derecho con título legalmente expedido y acreditar un ejercicio profesional de tres años, cuando menos;
-
-IV. Tener un modo honesto de vivir; y
-
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
-
-V. No haber sido condenado por delitos dolosos, o faltas graves administrativas.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1995)</small>
 
 ###### Artículo 92.
 
-Son atribuciones del Ministerio Público, todas las que establece la Ley Orgánica respectiva.
+Para ser Procurador General de Justicia del Estado y Subprocurador de Asuntos Electorales, se requiere:
+
+I. Ser hidalguense en pleno goce de sus derechos;
+
+II. Ser licenciado en derecho con título legalmente expedido y acreditar un ejercicio profesional de 5 años, cuando menos;
+
+III. Tener modo honesto de vivir; y
+
+IV. No haber sido condenado por delitos dolosos o faltas graves administrativas.
+
+El Procurador General de Justicia y el Subprocurador de Asuntos Electorales duraran en su encargo tres años; deberán rendir la protesta de Ley ante el Congreso del Estado o la Comisión Permanente en su caso, pudiendo ser ratificados por el primero.
+
+Solo podrán ser removidos en los términos previstos por esta Constitución; por la comisión de delitos; por faltas establecidas en las leyes vigentes y por incumplimiento grave de sus atribuciones de ley calificado así, por el pleno del Tribunal Superior de Justicia, a solicitud del Congreso o a virtud de la demanda que al efecto formule el titular del Ejecutivo ante el Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -2105,15 +2125,15 @@ Para los efectos de la responsabilidad se reputarán como servidores públicos a
 
 El Gobernador del Estado, será responsable por violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las leyes federales que de ésta emanen, por traición a los intereses del Estado, por delitos graves del orden común, así como por el manejo indebido de fondos y recursos de esta Entidad Federativa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 1995)</small>
 
 ###### Artículo 150.
 
-Serán sujetos de juicio político: los Diputados al Congreso local, los Presidentes Municipales, los Síndicos Procuradores, los Regidores, los Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal Fiscal Administrativo, del Tribunal Electoral, los Secretarios del Despacho del Poder Ejecutivo, el Procurador General de Justicia, el Oficial Mayor y los Coordinadores que nombre el Ejecutivo, los Directores Generales o sus equivalentes de los organismo públicos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a estas, fideicomisos públicos de esta Entidad Federativa y Jueces de Primera Instancia por las acciones u omisiones indebidas en que incurran en el tiempo de su encargo y serán responsables por la comisión de los delitos del orden común que cometan durante su gestión.
+Serán sujetos de juicio político: los Diputados al Congreso Local, los Presidentes Municipales, los Síndicos Procuradores, los Regidores, los Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal Fiscal Administrativo y del Tribunal Electoral, los Secretarios del Despacho del Poder Ejecutivo, el Procurador General de Justicia, el Subprocurador de Asuntos Electorales, el Oficial Mayor y los Coordinadores que nombre el Ejecutivo, los Directores Generales o sus equivalentes de los organismos públicos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a estas, fideicomisos públicos de esta Entidad Federativa y Jueces de Primera Instancia, por las acciones u omisiones indebidas en que incurran en el tiempo de su encargo y serán responsables por la comisión de los delitos del orden común que cometan durante su gestión.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1995)</small>
 
-Para proceder por responsabilidad en la comisión de delitos del orden común contra los servidores públicos comprendidos en el párrafo anterior, cometidos durante el tiempo de su encargo, la Cámara de Diputados declarará, por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
+Para proceder por responsabilidad en la comisión de delitos del orden común contra los servidores públicos comprendidos en el párrafo anterior, cometidos durante el tiempo de su encargo, la Cámara de Diputados declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -2203,11 +2223,13 @@ Todo servidor público tendrá derecho a percibir el emolumento que la ley respe
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 1995)</small>
 
 ###### Artículo 158.
 
-Esta Constitución puede ser adicionada o reformada. Las iniciativas que tengan este objeto deberán estar suscritas por el Gobernador o por tres Diputados cuando menos, o por el Tribunal Superior de Justicia o por Diez Ayuntamientos como mínimo. Estas iniciativas se sujetarán a los trámites establecidos para la expedición de leyes señaladas por esta Constitución, pero requerirán de la aprobación cuando menos de los dos tercios del número total de diputados.
+Esta Constitución puede ser adicionada o reformada. Las iniciativas que tengan este objeto deberán estar suscritas por el Gobernador o por tres Diputados cuando menos, por el Tribunal Superior de Justicia, o por diez Ayuntamientos como mínimo, o por el Procurador General de Justicia en su ramo. Estas iniciativas se sujetarán a los trámites establecidos para la expedición de leyes señalados por esta Constitución, pero requerirán de la aprobación cuando menos de los dos tercios del número total de Diputados.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 Aprobada la iniciativa en la Cámara de Diputados deberá someterse a la sanción de los Ayuntamientos y se tendrá por aprobada definitivamente, cuando así lo expresen la mayoría de ellos.
 
@@ -2393,7 +2415,7 @@ P.O. 8 DE NOVIEMBRE DE 1948.
 
 DECRETO NUMERO 11, QUE REFORMA LOS ARTICULOS 48, 52, 78 Y 93 DE LA CONSTITUCION.
 
-Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicación el en Periódico Oficial del Estado.
 
 P.O. 24 DE FEBRERO DE 1952.
 
@@ -2612,3 +2634,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 6 DE SEPTIEMBRE DE 1993.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE AGOSTO DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
