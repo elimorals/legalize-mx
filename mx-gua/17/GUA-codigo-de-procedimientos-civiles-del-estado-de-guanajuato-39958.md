@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1983-11-04"
+last_updated: "1983-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 1983.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -1411,9 +1411,13 @@ Revocación.
 
 Los autos que no fueren apelables y los decretos pueden ser revocados por el juez o tribunal que los dictó o por el que lo substituya en el conocimiento del negocio.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1983)</small>
+
 ###### Art. 233.
 
-La revocación se interpondrá en el acto de la notificación o dentro del día siguiente de notificado el recurrente.
+La revocación se interpondrá dentro de los tres días siguientes a la notificación. En el escrito en que se interponga, deberán expresarse los agravios que le cause la resolución al recurrente.
+
+Si se determina que el escrito fue presentado fuera del término, o no contiene la expresión de agravios, se declarará desierto el recurso y firme el auto o decreto.
 
 ###### Art. 234.
 
@@ -4537,9 +4541,9 @@ Del Procedimiento Sumario.
 
 ### CAPITULO III.
 
-De la consignación.
+Del Ofrecimiento del Pago y la Consignación.
 
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1983)</small>
 
 ###### Art. 746.
 
@@ -4583,11 +4587,11 @@ La sentencia que cause ejecutoria hará plena fe contra toda persona ajena al pr
 
 Es Juez competente para decidir sobre la rectificación, el del partido judicial a que corresponda el lugar en que se extendió el acta respectiva.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 14 DE FEBRERO DE 1971)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE NOVIEMBRE DE 1983)</small>
 
 ###### Art. 752.
 
-Para hacer la consignación a que se refiere el artículo 1592 del Código Civil, si el acreedor fuere cierto y conocido, se le citará para día, hora y lugar determinados, a fin de que reciba o vea depositar la cosa debida.
+Para hacer el ofrecimiento del pago a que se refiere el Artículo 1592 del Código Civil, si el acreedor fuere cierto y conocido, se le citará para día, hora y lugar determinados, a fin de que reciba o vea depositar la cosa debida.
 
 > <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
 
@@ -4595,29 +4599,29 @@ Para hacer la consignación a que se refiere el artículo 1592 del Código Civil
 
 Si el acreedor fuere desconocido, se le citará por medio de avisos que se publicarán tres veces, de cinco en cinco días, en un periódico del lugar de la consignación si lo hubiere, para que se presente dentro de los diez días siguientes a la ultima publicación, si no hay periódico, se publicará 3 veces consecutivas en el Oficial del Gobierno del Estado.
 
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1983)</small>
 
 ###### Art. 754.
 
-Si el acreedor estuviere ausente, o fuere incapaz, será citado su representante legítimo, si lo hubiere; en caso contrario se promoverá su designación.
+Si el acreedor estuviere ausente o fuere incapaz, será citado su representante legítimo, si lo hubiere; en caso contrario, será representado por el Ministerio Público.
 
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1983)</small>
 
 ###### Art. 755.
 
-Si el acreedor no comparece en el día, hora y lugar designados, o no envía mandatario con autorización bastante para que reciba la cosa, o si compareciendo rehusan recibirla, el Juez extenderá certificación en que consten la no comparecencia del acreedor, la falta del mandatario o el acto de haberse rehusado uno u otro a recibir la cosa.
+Si el acreedor no comparece en el día, hora y lugar designados, o no envía mandatario con autorización bastante para que reciba la cosa, o si compareciendo rehusan recibirla, el Juez extenderá certificación en que conste la no comparecencia del acreedor, la falta del mandatario o el acto de haberse rehusado uno u otro a recibir la cosa; con lo anterior concluye el ofrecimiento del pago.
 
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
+Si se trata de prestaciones periódicas y no se ha demostrado la consignación, los subsecuentes ofrecimientos del pago se tramitarán en el mismo expediente, haciéndolo saber simplemente por lista al acreedor.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 1983)</small>
 
 ###### Art. 756.
 
-Con la certificación mencionada en el artículo anterior, podrá pedir el deudor el depósito judicial, y el Juez mandará hacerlo, oyendo sumariamente al acreedor en una audiencia que se celebrará dentro de los 5 días siguientes, debiendo dictarse resolución dentro de un término igual, aprobando o no la consignación.
-
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
+Con la certificación mencionada en el artículo anterior, podrá el deudor demandar la consignación, tramitándose el Juicio en la forma señalada para los incidentes.
 
 ###### Art. 757.
 
-Si el acreedor fuere conocido, pero dudosos sus derechos, podrá el deudor, conforme a los dos artículos anteriores, depositar la cosa debida con citación del interesado, a fin de que justifique sus derechos por los medios legales.
+(DEROGADO P.O. 22 DE NOVIEMBRE DE 1983)
 
 > <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 1971)</small>
 
@@ -4750,3 +4754,19 @@ P.O. 4 DE NOVIEMBRE DE 1983.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 1983.
+
+DECRETO NO. 79, QUE REFORMA EL ART. 233.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor a los diez días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 1983.
+
+DECRETO NO. 82, QUE REFORMA Y ADICIONA DIVERSOS ARTS.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor el día primero de diciembre del año de 1983.
