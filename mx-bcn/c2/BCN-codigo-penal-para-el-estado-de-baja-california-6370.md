@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2003-03-14"
+last_updated: "2003-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2003.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1313,9 +1313,11 @@ Lesiones causadas por animal.- De las lesiones que a una persona cause algún an
 
 Concepto.- Por riña se entiende para todos los efectos penales, la contienda de obra y no la de palabra entre dos o más personas, con el propósito de dañarse recíprocamente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 2003)</small>
+
 ###### Artículo 147.
 
-Homicidio y lesiones calificados.- Se entiende que las lesiones y el homicidio son calificados, cuando se cometan con premeditación, con ventaja, con alevosía o a traición.
+Homicidio y lesiones calificados.- Se entiende que las lesiones y el homicidio son calificados, cuando se cometan con premeditación, con ventaja, con alevosía o traición; de igual manera serán considerados calificados, cuando se cometan en contra de agentes integrantes de las corporaciones de seguridad pública en ejercicio o como consecuencia del desempeño de sus funciones, incluyendo a los elementos de las empresas privadas y a los que de manera independiente presten servicios de seguridad, protección, vigilancia o custodia de personas, lugares o establecimientos, así como de bienes o valores incluido su traslado, siempre y cuando estén debidamente registrados ante los organismos públicos correspondientes. La presente disposición no surtirá efectos en el caso de delitos no graves por culpa.
 
 Concepto de premeditación.- Hay premeditación, siempre que el reo cause intencionalmente una lesión, después de haber reflexionado sobre el delito que va a cometer.
 
@@ -3037,6 +3039,10 @@ BIS.- Delitos cometidos contra funcionarios públicos o agentes de seguridad pú
 
 Esta disposición no surtirá efectos en los casos de delitos no graves por culpa o imprudenciales.
 
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2003)</small>
+
+En el caso de Homicidio y lesiones calificadas contra algún agente activo de los cuerpos de seguridad pública se atenderá a lo dispuesto por el Artículo 147 del presente código.
+
 ###### Artículo 318.
 
 Tipo y punibilidad.- Se impondrá prisión de uno a cinco años, al que sin ser servidor público, se atribuya ese carácter y ejerza alguna de las funciones de tal.
@@ -3121,7 +3127,7 @@ XV.- Obtener cualquier cantidad o beneficio económico de los internos o sus fam
 
 ###### Artículo 324.
 
-Suspensión y privación de funciones públicas.- Los servidores públicos que incurran en cualquiera de los delitos previstos en el artículo anterior, serán suspendidos en sus funciones por el término de uno a tres años En caso de reincidencia, serán privados definitivamente del derecho a ejercer cualquier función pública.
+Suspensión y privación de funciones públicas.- Los servidores públicos que incurran en cualquiera de los delitos previstos en el artículo anterior, serán suspendidos en sus funciones por el término de uno a tres años. En caso de reincidencia, serán privados definitivamente del derecho a ejercer cualquier función pública.
 
 ###### Artículo 325.
 
@@ -3696,3 +3702,7 @@ DECRETO NUMERO 155.
 ###### ARTICULO UNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 4 DE ABRIL DE 2003.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
