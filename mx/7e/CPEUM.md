@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1996-08-22"
+last_updated: "1997-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE AGOSTO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE MARZO DE 1997.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -622,19 +622,23 @@ A).- Son mexicanos por nacimiento:
 
 I.- Los que nazcan en territorio de la República, sea cual fuere la nacionalidad de sus padres.
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1969)</small>
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 1997)</small>
 
-II.- Los que nazcan en el extranjero de padres mexicanos; de padre mexicano o de madre mexicana.
+II.- Los que nazcan en el extranjero, hijos de padres mexicanos nacidos en territorio nacional, de padre mexicano nacido en territorio nacional, o de madre mexicana nacida en territorio nacional.
 
-III.- Los que nazcan a bordo de embarcaciones o aeronaves mexicanas, sean de guerra o mercantes.
+> <small>(ADICIONADA, D.O.F. 20 DE MARZO DE 1997)</small>
+
+III.- Los que nazcan en el extranjero, hijos de padres mexicanos por naturalización, de padre mexicano por naturalización, o de madre mexicana por naturalización, y
+
+IV.- Los que nazcan a bordo de embarcaciones o aeronaves mexicanas, sean de guerra o mercantes.
 
 B).- Son mexicanos por naturalización:
 
 I.- Los extranjeros que obtengan de la Secretaría de Relaciones carta de naturalización.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 1997)</small>
 
-II.- La mujer o el varón extranjeros que contraigan matrimonio con varón o con mujer mexicanos y tengan o establezcan su domicilio dentro del territorio nacional.
+II.- La mujer o el varón extranjeros que contraigan matrimonio con varón o con mujer mexicanos, que tengan o establezcan su domicilio dentro del territorio nacional y cumplan con los demás requisitos que al efecto señale la ley.
 
 ###### Art. 31.
 
@@ -652,15 +656,19 @@ III.- Alistarse y servir en la Guardia Nacional, conforme a la ley orgánica res
 
 IV.- Contribuir para los gastos públicos, así de la Federación, como del Distrito Federal o del Estado y Municipio en que residan, de la manera proporcional y equitativa que dispongan las leyes.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1934)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 1997)</small>
 
 ###### Art. 32.
 
-Los mexicanos serán preferidos a los extranjeros en igualdad de circunstancias, para toda clase de concesiones y para todos los empleos, cargos o comisiones del Gobierno en que no sea indispensable la calidad de ciudadano. En tiempo de paz ningún extranjero podrá servir en el Ejército, ni en las fuerzas de policía o seguridad pública.
+La Ley regulará el ejercicio de los derechos que la legislación mexicana otorga a los mexicanos que posean otra nacionalidad y establecerá normas para evitar conflictos por doble nacionalidad.
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 1944)</small>
+El ejercicio de los cargos y funciones para los cuales, por disposición de la presente Constitución, se requiera ser mexicano por nacimiento, se reserva a quienes tengan esa calidad y no adquieran otra nacionalidad. Esta reserva también será aplicable a los casos que así lo señalen otras leyes del Congreso de la Unión.
 
-Para pertenecer a la Marina Nacional de Guerra o a la Fuerza Aérea, y desempeñar cualquier cargo o comisión en ellas, se requiere ser mexicano por nacimiento. Esta misma calidad será indispensable en Capitanes, Pilotos, Patrones, Maquinistas, Mecánicos y, de una manera general, para todo el personal que tripule cualquier embarcación o aeronave que se ampare con la bandera o insignia mercante mexicana. Será también necesaria la calidad de mexicano por nacimiento para desempeñar los cargos de Capitán de Puerto, y todos los servicios de practicaje y Comandante de Aeródromo, así como todas las funciones de Agente Aduanal en la República.
+En tiempo de paz, ningún extranjero podrá servir en el Ejército, ni en las fuerzas de policía o seguridad pública. Para pertenecer al activo del Ejército en tiempo de paz y al de la Armada o al de la Fuerza Aérea en todo momento, o desempeñar cualquier cargo o comisión en ellos, se requiere ser mexicano por nacimiento.
+
+Esta misma calidad será indispensable en capitanes, pilotos, patrones, maquinistas, mecánicos y, de una manera general, para todo el personal que tripule cualquier embarcación o aeronave que se ampare con la bandera o insignia mercante mexicana. Será también necesaria para desempeñar los cargos de capitán de puerto y todos los servicios de practicaje y comandante de aeródromo.
+
+Los mexicanos serán preferidos a los extranjeros en igualdad de circunstancias, para toda clase de concesiones y para todos los empleos, cargos o comisiones de gobierno en que no sea indispensable la calidad de ciudadano.
 
 ### CAPITULO III.
 
@@ -722,33 +730,51 @@ IV.- Desempeñar los cargos de elección popular de la Federación o de los Esta
 
 V.- Desempeñar los cargos concejiles del municipio donde resida, las funciones electorales y las de jurado.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1934)</small>
-
 ###### Art. 37.
 
-A).- La nacionalidad mexicana se pierde:
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 1997)</small>
 
-I.- Por adquisición voluntaria de una nacionalidad extranjera.
+A).- Ningún mexicano por nacimiento podrá ser privado de su nacionalidad.
 
-II.- Por aceptar o usar títulos nobiliarios que impliquen sumisión a un Estado extranjero.
+> <small>(ADICIONADO, D.O.F. 20 DE MARZO DE 1997)</small>
 
-III.- Por residir, siendo mexicano por naturalización, durante cinco años continuos en el país de su origen.
+B).- La nacionalidad mexicana por naturalización se perderá en los siguientes casos:
 
-IV.- Por hacerse pasar en cualquier instrumento público, siendo mexicano por naturalización, como extranjero o por obtener y usar un pasaporte extranjero.
+I.- Por adquisición voluntaria de una nacionalidad extranjera, por hacerse pasar en cualquier instrumento público como extranjero, por usar un pasaporte extranjero, o por aceptar o usar títulos nobiliarios que impliquen sumisión a un Estado extranjero, y
 
-B).- La ciudadanía mexicana se pierde:
+II.- Por residir durante cinco años continuos en el extranjero.
 
-I.- Por aceptar o usar títulos nobiliarios que no impliquen sumisión a un Gobierno extranjero.
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1934)</small>
 
-II.- Por prestar voluntariamente servicios oficiales a un Gobierno extranjero sin permiso del Congreso Federal o de su Comisión Permanente.
+C).- La ciudadanía mexicana se pierde:
+
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 1997)</small>
+
+I.- Por aceptar o usar títulos nobiliarios de gobiernos extranjeros.
+
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 1997)</small>
+
+II.- Por prestar voluntariamente servicios oficiales a un gobierno extranjero sin permiso del Congreso Federal o de su Comisión Permanente.
+
+> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 1934)</small>
 
 III.- Por aceptar o usar condecoraciones extranjeras sin permiso del Congreso Federal o de su Comisión Permanente.
 
-IV.- Por admitir del Gobierno de otro país títulos o funciones, sin previa licencia del Congreso Federal o de su Comisión Permanente, exceptuando los títulos literarios, científicos o humanitarios que pueden aceptarse libremente.
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 1997)</small>
 
-V.- Por ayudar en contra de la nación a un extranjero o a un Gobierno extranjero en cualquiera reclamación diplomática o ante un Tribunal Internacional.
+IV.- Por admitir del gobierno de otro país títulos o funciones sin previa licencia del Congreso Federal o de su Comisión Permanente, exceptuando los títulos literarios, científicos o humanitarios que pueden aceptarse libremente.
+
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 1997)</small>
+
+V.- Por ayudar, en contra de la Nación, a un extranjero, o a un gobierno extranjero, en cualquier reclamación diplomática o ante un tribunal internacional, y
+
+> <small>(REFORMADA, D.O.F. 18 DE ENERO DE 1934)</small>
 
 VI.- En los demás casos que fijan las leyes.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MARZO DE 1997)</small>
+
+En el caso de las fracciones II a IV de este apartado, el Congreso de la Unión establecerá en la ley reglamentaria respectiva, los casos de excepción en los cuales los permisos y licencias se entenderán otorgados, una vez transcurrido el plazo que la propia ley señale, con la sola presentación de la solicitud del interesado.
 
 ###### Art. 38.
 
@@ -781,8 +807,6 @@ La soberanía nacional reside esencial y originariamente en el pueblo. Todo pode
 ###### Art. 40.
 
 Es voluntad del pueblo mexicano constituirse en una República representativa, democrática, federal, compuesta de Estados libres y soberanos en todo lo concerniente a su régimen interior; pero unidos en una federación establecida según los principios de esta ley fundamental.
-
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 22 DE AGOSTO DE 1996, EL PRESENTE ARTICULO HA SIDO REESTRUCTURADO.</small>
 
 ###### Art. 41.
 
@@ -931,8 +955,6 @@ La demarcación territorial de los 300 distritos electorales uninominales será 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1986)</small>
 
 Para la elección de los 200 diputados según el principio de representación proporcional y el Sistema de Listas Regionales, se constituirán cinco circunscripciones electorales plurinominales en el país. La Ley determinará la forma de establecer la demarcación territorial de estas circunscripciones.
-
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 22 DE AGOSTO DE 1996, EL PRESENTE ARTICULO HA SIDO REESTRUCTURADO.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE SEPTIEMBRE DE 1993)</small>
 
@@ -4471,3 +4493,15 @@ DECIMOPRIMERO. La norma que establece la facultad de la Asamblea Legislativa del
 DECIMOSEGUNDO. Continuarán bajo jurisdicción federal los inmuebles sitos en el Distrito Federal, que estén destinados al servicio que prestan los Poderes Federales, así como cualquier otro bien afecto al uso de dichos poderes.
 
 DECIMOTERCERO. Todos los ordenamientos que regulan hasta la fecha a los órganos locales en el Distrito Federal seguirán vigentes en tanto no se expidan por los órganos competentes aquellos que deban sustituirlos conforme a las disposiciones y las bases señaladas en este Decreto.
+
+D.O.F. 20 DE MARZO DE 1997.
+
+PRIMERO.- El presente Decreto entrará en vigor al año siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Quienes hayan perdido su nacionalidad mexicana por nacimiento, por haber adquirido voluntariamente una nacionalidad extranjera y si se encuentran en pleno goce de sus derechos, podrán beneficiarse de lo dispuesto en el artículo 37, apartado A), constitucional, reformado por virtud del presente Decreto, previa solicitud que hagan a la Secretaría de Relaciones Exteriores, dentro de los cinco años siguientes a la citada fecha de entrada en vigor del presente.
+
+TERCERO.- Las disposiciones vigentes con anterioridad a la fecha en que el presente Decreto entre en vigor, seguirán aplicándose, respecto a la nacionalidad mexicana, a los nacidos o concebidos durante su vigencia.
+
+CUARTO.- En tanto el Congreso de la Unión emita las disposiciones correspondientes en materia de nacionalidad, seguirá aplicándose la Ley de Nacionalidad vigente, en lo que no se oponga al presente Decreto.
+
+QUINTO.- El último párrafo del apartado C) del artículo 37, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
