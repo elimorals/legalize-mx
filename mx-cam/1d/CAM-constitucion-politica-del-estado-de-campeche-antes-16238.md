@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1997-02-21"
+last_updated: "1997-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 1997.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -671,6 +671,10 @@ d).- Que igualmente se oiga al Ejecutivo del Estado, el cual enviará su informe
 
 e).- Que la erección del nuevo Municipio sea aprobada por las dos terceras partes de los diputados presentes.
 
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 1997)</small>
+
+La creación jurídica del nuevo Municipio se llevará a cabo mediante la modificación de esta Constitución y de la Ley Orgánica de los Municipios del Estado. La administración del citado Municipio, entretanto se celebren elecciones ordinarias, quedará a cargo de un Comité Municipal compuesto por un Presidente, un Regidor y un Síndico, propietarios y suplentes, nombrados por el Congreso del Estado a propuesta del Gobernador;
+
 II.- Cambiar la residencia de los poderes del Estado, pero sólo a iniciativa fundada del Poder Ejecutivo y por el voto de las dos terceras partes de los diputados presentes;
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 1983)</small>
@@ -729,7 +733,9 @@ XIX.- (DEROGADA, P.O. 30 DE NOVIEMBRE DE 1996)
 
 XX.- Resolver los problemas políticos intermunicipales y los que se susciten entre el Poder Ejecutivo y los Ayuntamientos;
 
-XXI.- Aprobar las cuentas de la recaudación e inversión de las rentas públicas del Estado, que anualmente debe presentar el Ejecutivo;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1997)</small>
+
+XXI.- Aprobar las cuentas de recaudación e inversión de las rentas públicas del Estado que, cuando máximo anualmente y en la forma que prevenga la correspondiente ley secundaria, le sean remitidas por conducto del Ejecutivo del Estado, ya glosadas;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
@@ -945,11 +951,11 @@ El Gobernador al tomar posesión de su cargo, prestará ante el Congreso del Est
 
 El Gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso si estuviere reunido, o en su caso de la Diputación Permanente, a menos que la ausencia no exceda de sesenta días; en tal caso, se estará a lo dispuesto por el segundo párrafo del artículo 67.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MARZO DE 1997)</small>
 
 ###### ARTICULO 71.
 
-Las facultades y obligaciones del Gobernador son:
+Son atribuciones del Gobernador:
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1007,9 +1013,13 @@ XIII.- Visitar los municipios del Estado, para conocer sus necesidades, remediar
 
 XIV.- Pedir autorización al Congreso y en su receso a la Diputación Permanente para salir del territorio del Estado por más de 60 días;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1997)</small>
 
-XV.- Celebrar contratos y convenios; otorgar permisos, concesiones y autorizaciones de acuerdo con las leyes relativas; así como representar al Estado en su participación en empresas industriales, agrícolas y mercantiles con el fin de impulsar la productividad y el desarrollo estatal;
+XV.- Por sí o a través del titular de la dependencia de la Administración Pública Estatal o del apoderado que designe al efecto, conforme a la correspondiente ley orgánica, representar al Estado en:
+
+a). Toda clase de actos y negocios jurídicos, ya sean administrativos o judiciales, ante tribunales del fuero común o del fuero federal, celebrando los contratos, convenios y acuerdos que sean necesarios; formulando denuncias, querellas, demandas, contestación de demandas o cualesquiera otro tipo de promociones o solicitudes; y
+
+b). Su participación en empresas industriales, agrícolas y mercantiles con el fin de impulsar la productividad y el desarrollo estatal;
 
 XVI.- Enajenar, con autorización del Congreso, los bienes que según las leyes pertenezcan al Estado;
 
@@ -1029,9 +1039,9 @@ XXII.- Pedir la protección de los Poderes de la Unión en caso de sublevación 
 
 XXIII.- Las atribuciones en lo referente a Guardia Nacional y fuerza pública que confieren a los Estados de la Federación la Constitución General y las leyes relativas;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1997)</small>
 
-XXIV.- Nombrar apoderados para toda clase de asuntos, dentro o fuera del Estado;
+XXIV.- Otorgar permisos, licencias, concesiones y autorizaciones de acuerdo con las leyes relativas;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
@@ -1079,19 +1089,23 @@ Los acuerdos, órdenes y disposiciones que dicte el Gobernador y que sean despac
 
 Las faltas de los Secretarios de las dependencias de la Administración Pública serán suplidas en la forma que determine la correspondiente Ley Orgánica.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MARZO DE 1997)</small>
 
 ###### ARTICULO 75.
 
-La Ley organizará el Ministerio Público del Estado cuyos funcionarios serán nombrados y removidos por el Ejecutivo, de acuerdo con la ley respectiva, y estará presidido por un Procurador General de Justicia, el que deberá tener las mismas cualidades requeridas para ser Magistrado del Tribunal Superior de Justicia.
-
-Incumbe al Ministerio Público estatal la persecución, ante los tribunales locales, de todos los delitos del orden común; por lo mismo a él le corresponderá solicitar las órdenes de aprehensión contra los inculpados; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; hacer que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita; pedir la aplicación de las penas e intervenir en todos los negocios que la ley determine.
+La Ley organizará el Ministerio Público del Estado, cuyos funcionarios serán nombrados y removidos por el Gobernador, de acuerdo con la ley respectiva. El Ministerio Público estará presidido por un Procurador General de Justicia del Estado, quien deberá satisfacer los requisitos que señala el artículo 79, y será designado y removido por el Gobernador con ratificación del Congreso del Estado o, en sus recesos, de la Diputación Permanente.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1985)</small>
 
+Incumbe al Ministerio Público estatal la persecución, ante los tribunales locales, de todos los delitos del orden común; por lo mismo a él le corresponderá solicitar las órdenes de aprehensión contra los inculpados; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; hacer que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita; pedir la aplicación de las penas e intervenir en todos los negocios que la ley determine.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1997)</small>
+
 ###### ARTICULO 76.
 
-El Procurador General de Justicia será el consejero jurídico del gobierno. Intervendrá personalmente en las controversias que se susciten entre dos o más municipios del Estado o entre éste y dichos municipios. En los negocios en que el Estado fuese parte y en las que deba intervenir el Ministerio Público, el Procurador General lo hará por sí o por medio de sus agentes. Tanto él como sus agentes serán responsables de toda falta, omisión o violación a la ley, en que incurran con motivo de sus funciones.
+El Procurador General de Justicia del Estado intervendrá personalmente en las controversias que se susciten entre dos o más Municipios del Estado, o entre éste y dichos Municipios. En los negocios en que el Estado fuese parte, así como en los que deba intervenir el Ministerio Público, el Procurador General lo hará por sí o por medio de sus agentes. Tanto él como sus agentes serán responsables de toda falta, omisión o violación a la ley, en que incurran con motivo de sus funciones.
+
+La función de consejero jurídico del Gobernador estará a cargo de la dependencia del Ejecutivo del Estado que la correspondiente ley orgánica establezca.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1773,7 +1787,7 @@ Unico. La presente reforma regirá en todo el territorio del Estado a partir del
 
 P.O. 29 DE NOVIEMBRE DE 1930.
 
-> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
 P.O. 21 DE MARZO DE 1931.
 
@@ -2050,3 +2064,7 @@ Quinto.- Las facultades regulares que, en materia de geografía electoral en el 
 P.O. 21 DE FEBRERO DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE MARZO DE 1997.
+
+Unico.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
