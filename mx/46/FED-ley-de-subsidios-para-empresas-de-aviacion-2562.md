@@ -4,7 +4,7 @@ identifier: "FED-ley-de-subsidios-para-empresas-de-aviacion-2562"
 country: "mx"
 rank: "ley"
 publication_date: "1932-10-31"
-last_updated: "1932-10-31"
+last_updated: "2004-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2562&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1932-10-26"
 
 LEY DE SUBSIDIOS PARA EMPRESAS DE AVIACION
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL DECRETO PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 27 DE MAYO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 31 de octubre de 1932.
 
@@ -104,3 +106,9 @@ Sufragio Efectivo. No Reelección.
 México, D. F., a 29 de octubre de 1932.- El Subsecretario de Gobernación, Encargado del Despacho, Eduardo Vasconcelos.- Rúbrica.
 
 Al C.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+D.O.F. 27 DE MAYO DE 2004.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
