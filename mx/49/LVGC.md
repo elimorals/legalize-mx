@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1988-01-21"
+last_updated: "1992-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE JUNIO DE 1992.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -178,9 +178,7 @@ Corresponderá a los Tribunales Federales conocer de todas las controversias del
 
 ###### ARTICULO 6o.
 
-Los actos y contratos sujetos a registro, que tengan por objeto vías generales de comunicación, sus servicios auxiliares, dependencias, accesorios o alguna propiedad inmueble, incorporada a las mismas, deberán inscribirse en las oficinas del Registro Público de la ciudad de México, y ese registro bastará para producir sus efectos legales entre las partes.
-
-Se exceptúan de la obligación anterior los actos y contratos relacionados con embarcaciones cuyo valor no exceda de $20,000.00.
+(DEROGADO, D.O.F. 15 DE JUNIO DE 1992)
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
@@ -282,23 +280,15 @@ Sin embargo, la Secretaría de Comunicaciones podrá autorizar la cesión de los
 
 Los interesados en obtener concesión o permiso para construir, establecer o explotar vías generales de comunicación, elevarán solicitud a la Secretaría de Comunicaciones, de conformidad con los preceptos de esta ley y sus reglamentos, acompañándola de los estudios a que se refiere el artículo 8º.
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 15.
 
-Recibida una solicitud de concesión la Secretaría señalará al solicitante el monto del depósito o de la fianza que deberá constituir para garantizar que se continuarán los trámites hasta que la concesión sea otorgada o negada.
+Recibida la solicitud de concesión y previo pago de los derechos respectivos, se procederá a efectuar los estudios técnicos que correspondan de acuerdo con las bases generales señaladas en el Artículo 8 y a la normatividad establecida en materia de conservación del equilibrio ecológico y si el resultado de éstos fuere favorable, la solicitud con las modificaciones que acuerde la Secretaría se publicará a costa del interesado, por dos veces, de cinco en cinco días en el Diario Oficial de la Federación y en uno de los periódicos de mayor circulación, con el fin de que, durante el plazo de diez días contados a partir de la última publicación, las personas que pudieren resultar afectadas, presenten sus observaciones.
 
-La garantía solicitada será calculada en vista de la importancia de la vía proyectada y se devolverá tan pronto como se otorgue la fianza o se constituya el depósito que garantice el cumplimiento de las obligaciones impuestas en la concesión y si el interesado abandona la tramitación de la misma, la garantía se aplicará en favor del erario federal.
+Si transcurrido el plazo a que se refiere el párrafo anterior no se presentan objeciones, o si las que se presentan no fueren de tomarse en cuenta, se podrá otorgar la concesión con las modificaciones de carácter técnico y jurídico que se estimen pertinentes, previo cumplimiento de los requisitos técnicos, administrativos y legales que señale la Secretaría de Comunicaciones y Transportes.
 
-Procede la declaración de abandono de trámite, cuando el interesado no cumpla con cualquiera de los requisitos técnicos, jurídicos o administrativos dentro del plazo que señale la Secretaría de Comunicaciones y Transportes. Para tal efecto se seguirá el procedimiento a que alude el artículo 34 de esta Ley.
-
-En todo caso, el plazo real para el cumplimiento de la totalidad de los requisitos citados en el párrafo precedente, será de un año; sin embargo, a juicio de la Secretaría, dicho plazo podrá prorrogarse si existen causas que así lo ameriten.
-
-Constituida la garantía de trámites se procederá a efectuar los estudios técnicos que correspondan de acuerdo con las bases generales señaladas en el artículo 8o., y si el resultado de éstos fuera favorable, la solicitud, con las modificaciones que acuerde la Secretaría, se publicará a costa del interesado, por dos veces, de diez días en diez días, en el Diario Oficial de la Federación y en uno de los periódicos de mayor circulación, con el fin de que, durante el plazo de un mes contando a partir de la última publicación, las personas que pudieren resultar afectadas presenten sus observaciones.
-
-Si transcurrido el plazo a que se refiere el párrafo anterior no se presentan objeciones, o si las que se presentan no fueren de tomarse en cuenta, se podrá otorgar la concesión con las modificaciones de carácter técnico o jurídico que se estimen pertinentes, previo cumplimiento de los requisitos técnicos, administrativos y legales que señale la Secretaría.
-
-Otorgada la concesión, la Secretaría de Comunicaciones ordenará, si lo considera necesario, que a costa del interesado se publique aquélla en el Diario Oficial de la Federación con la exposición de los fundamentos que se hayan tenido para otorgarla y el programa a que habrá de sujetarse la construcción o explotación de la vía concesionada, de acuerdo con las bases que establece el artículo 8o.
+Otorgada la concesión, la Secretaría de Comunicaciones y Transportes ordenará si lo considera necesario, que a costa del interesado se publique aquélla en el Diario Oficial de la Federación con la exposición de los fundamentos que se hayan tenido para otorgarla y el programa a que habrá de sujetarse la construcción o explotación de la vía concesionada, de acuerdo con las bases que establece el artículo 8o.
 
 ###### ARTICULO 16.
 
@@ -558,7 +548,7 @@ Para los efectos de este artículo se integrará una comisión consultiva de tar
 
 La Secretaría de Comunicaciones y Transportes podrá fijar tarifas provisionales, que estarán vigentes durante noventa días naturales.
 
-Al concluir este plazo, si no se han fijado las nuevas tarifas se reanudará la vigencia de las anteriores a las provisionales.
+Al concluir este plazo, si no se han fijado las nuevas tarifas se reanudará la vigencia de la anteriores a las provisionales.
 
 ###### ARTICULO 49.
 
@@ -920,7 +910,9 @@ La hipoteca comprende, salvo pacto en contrario:
 
 I.- La concesión;
 
-II.- La vía de comunicación o medio de transporte, con todas sus dependencias, accesorios, y, en general, todo lo que le pertenezca;
+> <small>(REFORMADA, D.O.F. 15 DE JUNIO DE 1992)</small>
+
+II.- La vía de comunicación o medio de transporte, con todas sus dependencias, accesorios y, en general, todo lo que le pertenezca, cuando la misma haya sido construida en virtud de la concesión.
 
 III.- El material fijo y móvil empleado con la construcción y explotación, reparación, renovación y conservación de la vía de comunicación o del medio de transporte y sus dependencias, y
 
@@ -1014,7 +1006,7 @@ El Gobierno Federal tendrá el derecho de percibir una participación en los ing
 
 ###### ARTICULO 111.
 
-Será libre y gratuito el paso de los empleados generales y de sus vehículos y de toda clase de elementos de transporte propiedad de la Federación, por todos los caminos y puentes del país.
+(DEROGADO, D.O.F. 15 DE JUNIO DE 1992)
 
 ###### ARTICULO 112.
 
@@ -1050,9 +1042,11 @@ En los casos en que el Gobierno Federal no haga uso de las preferencias indicada
 
 ### CAPITULO X. Inspección
 
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 1992)</small>
+
 ###### ARTICULO 117.
 
-Compete exclusivamente a la Secretaría de Comunicaciones la inspección, tanto técnica como administrativa, sobre las vías generales de comunicación y medios de transporte.
+Compete al Gobierno Federal, a través de la Secretaría de Comunicaciones y Transportes, la inspección permanente, tanto técnica como administrativa, sobre las vías generales de comunicación y medios de transporte, la que llevará a cabo por sí o bien por conducto del organismo descentralizado correspondiente.
 
 ###### ARTICULO 118.
 
@@ -1118,39 +1112,61 @@ Los concesionarios o permisionarios de servicios de transportes federales, está
 
 La infracción al presente artículo, será sancionada por la Secretaría de Comunicaciones y Transportes en los términos de esta Ley, sus reglamentos y las demás disposiciones legales aplicables.
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 127.
 
-Los concesionarios o permisionarios de servicios públicos de transporte de pasajeros en las vías generales de comunicación, están obligados a proteger a los viajeros y sus pertenencias, de los riesgos que pueden sufrir con motivo de la prestación del servicio. La protección que al efecto se establezca, deberá ser suficiente para cubrir cualquier responsabilidad objetiva del transportista y amparará los daños y perjuicios causados al viajero en su persona o en su equipaje y demás objetos de su propiedad o posesión, que se registren desde que aborde hasta que descienda del vehículo.
+Los concesionarios o permisionarios de servicios públicos de transporte de pasajeros en vías generales de comunicación, o de la explotación de las mismas, están obligados a proteger a los viajeros y sus pertenencias de los riesgos que puedan sufrir con motivo de la prestación del servicio y a los usuarios de la vía por el uso de las mismas. La protección que al efecto se establezca, deberá ser suficiente para cubrir cualquier responsabilidad objetiva del concesionario o permisionario y amparará los daños y perjuicios causados al viajero en su persona o en su equipaje o demás objetos de su propiedad o posesión, que se registren desde que aborden hasta que desciendan del vehículo, o al usuario de la vía durante el trayecto de la misma.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
 
 La protección de referencia podrán efectuarla los concesionarios o permisionarios por medio de un contrato de seguro o mediante la constitución de un fondo de garantía sujeto al cumplimiento de los requisitos, modalidades y disposiciones que en cada caso dicte la Secretaría de Comunicaciones y Transportes, quien vigilará que se cubran los riesgos relativos.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
+
 Las empresas y personas físicas autorizadas por los gobiernos de los Estados y del Distrito Federal para operar el transporte público de pasajeros sólo podrán prestar el servicio y transitar en las vías de jurisdicción federal en los términos de esta Ley, si previamente han garantizado su responsabilidad por los riesgos que puedan sufrir los viajeros que transporten.
 
-El monto de la prima del seguro o la cantidad que deba destinarse a la constitución del fondo de garantía según el caso, quedarán comprendidos dentro del importe de las tarifas de transporte.
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 1992)</small>
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
+El monto de la prima del seguro o la cantidad que deba destinarse a la constitución del fondo de garantía según el caso, quedarán comprendidos dentro del importe de las tarifas.
 
-La indemnización por la pérdida de la vida del pasajero será por una cantidad equivalente a setecientas treinta veces el salario mínimo diario vigente en el Distrito Federal en la fecha en que se cubra la misma. La Secretaría de Comunicaciones y Transportes, mediante acuerdo de su titular que se publique en el Diario Oficial de la Federación, y en atención a las condiciones de la economía nacional, podrá establecer nuevos límites de indemnización.
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 1992)</small>
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
+La indemnización por la pérdida de la vida del usuario o del viajero será por una cantidad mínima equivalente a 1500 veces el salario mínimo general vigente en el área geográfica del Distrito Federal, en la fecha en que se cubra, misma que se pagará a sus beneficiarios en el orden que establece el artículo 501 de la Ley Federal del Trabajo. La Secretaría de Comunicaciones y Transportes fijará dentro de los primeros 15 días del mes de enero, la cantidad por la que debe protegerse al usuario de la vía o al viajero, así como el monto de la indemnización que deba percibirse de acuerdo con las incapacidades y lesiones que se causaren y los daños que redunden en sus pertenencias, el que se fijará con base en lo establecido por la Ley Federal del Trabajo para riesgos profesionales.
 
-Tienen derecho al pago de la indemnización en caso de muerte del pasajero, las personas que señala, en su orden, el artículo 501 de la Ley Federal del Trabajo. Para el pago de dichas indemnizaciones en cada caso, así como para fijar el monto de las que deban percibirse de acuerdo a las incapacidades y lesiones que se causaren y de los daños a las pertenencias, la Secretaría resolverá lo conducente, de acuerdo a las disposiciones que al efecto señale el Reglamento respectivo.
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 1992)</small>
 
-Mientras dure la inhabilitación, antes de que sea declarada la incapacidad, el pasajero tendrá derecho al pago del salario mínimo vigente en la zona donde la víctima del accidente preste sus servicios, o en caso de cesantía donde ésta resida, que se cubrirá íntegro el primer día hábil de cada semana.
+La indemnización por concepto de lesiones a que tienen derecho los usuarios o viajeros, deberá cubrir totalmente los pagos que se originen, por la asistencia médica, la hospitalización y los aparatos de prótesis y ortopedia, pero no podrá exceder del monto que corresponda a la indemnización por muerte.
+
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 1992)</small>
+
+Mientras dure la inhabilitación, antes de que sea declarada la incapacidad, el usuario o viajero tendrá derecho al pago del salario mínimo vigente en el área geográfica donde la víctima del accidente preste sus servicios, o en caso de cesantía donde ésta resida, que se cubrirá íntegro el primer día hábil de cada semana.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
 
 Al declararse la incapacidad permanente, si resulta total, se concederá al accidentado como pago por rehabilitación, la indemnización que corresponda a muerte.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
+
 La Secretaría de Comunicaciones y Transportes dispondrá administrativamente lo conducente para fijar el monto de las indemnizaciones, produzcan o no incapacidad parcial.
 
-Los aparatos de prótesis que requiera el viajero para su rehabilitación, serán cubiertos por la aseguradora o por el prestador de servicio, en el plazo que fije la autoridad médica competente. El pago por cualquier indemnización se hará en un plazo no mayor de treinta días.
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 1992)</small>
+
+Los aparatos de prótesis que requiera el usuario o viajero para su rehabilitación, serán cubiertos por la aseguradora o por el concesionario o permisionario, en el plazo que fije la autoridad médica competente. El pago por cualquier indemnización se hará en un plazo no mayor de treinta días.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
 
 Los viajeros que hagan uso de pases para transportarse gratuitamente o los que estén exentos del pago del transporte, pagarán en efectivo la cantidad correspondiente para que puedan disfrutar de los beneficios del seguro o del fondo de garantía. La falta de pago de esta cantidad, se considerará imputable al transportista.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
+
 Cuando se trate de viajes internacionales, se aplicará la protección únicamente por lo que corresponda al recorrido en territorio nacional, pero si se viaja por transporte de matrícula nacional el viajero estará amparado hasta el lugar de su destino.
 
-Los transportistas que incumplan la obligación de proteger a los viajeros, independientemente de las sanciones a que se hicieran acreedores por esta omisión deberán pagar las indemnizaciones correspondientes en los términos establecidos en este precepto. La Secretaría de Comunicaciones y Transportes vigilará que los responsables garanticen con bienes de su propiedad el cumplimiento de estas disposiciones.
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 1992)</small>
+
+Los concesionarios o permisionarios que incumplan la obligación de proteger a los viajeros, independientemente de las sanciones a que se hicieren acreedores por esta omisión deberán pagar las indemnizaciones correspondientes en los términos establecidos en este precepto. La Secretaría de Comunicaciones y Transportes vigilará que los responsables garanticen con bienes de su propiedad el cumplimiento de estas disposiciones.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1985)</small>
 
 La Secretaría de Comunicaciones y Transportes resolverá administrativamente todas las controversias que se originen en relación con el seguro del viajero o con el fondo de garantía, sin perjuicio de las facultades que correspondan a la Comisión Nacional Bancaria y de Seguros y a otras autoridades.
 
@@ -1296,9 +1312,15 @@ Son aplicables a los tranvías las disposiciones relativas a ferrocarriles, en c
 
 ### CAPITULO I. De los caminos en general
 
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 1992)</small>
+
 ###### ARTICULO 146.
 
-Las concesiones para construir y explotar caminos se otorgarán por el plazo que señale la Secretaría de Comunicaciones y que no podrá exceder de veinte años.
+Las concesiones para construir y explotar caminos, se otorgarán por el plazo que señale la Secretaría de Comunicaciones y Transportes y que no podrá exceder de treinta años.
+
+El Gobierno Federal podrá construir y explotar caminos de peaje por sí o mediante concesión que se otorgue en los términos de esta Ley a particulares, a los Estados o a los Municipios.
+
+La explotación mediante la operación, de los caminos de peaje construidos o adquiridos por el Gobierno Federal, podrá ser concesionada, si así conviene al interés público, de conformidad con el procedimiento establecido por esta Ley y de acuerdo con las condiciones que se señalen en el título de concesión correspondiente.
 
 ###### ARTICULO 147.
 
@@ -4336,6 +4358,8 @@ Ojetos (sic) prohibidos
 
 ### CAPITULO UNICO
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 523.
 
 El que sin concesión o permiso de la Secretaría de Comunicaciones y Obras Públicas construya o explote vías federales de comunicación, perderá en beneficio de la Nación, las obras ejecutadas, las instalaciones establecidas y todos los bienes muebles e inmuebles dedicados a la explotación y pagará una multa de cincuenta a cinco mil pesos, a juicio de la misma Secretaría. Igual sanción tendrá el que ocupe la zona federal y la playa de las vías flotables o navegables sin la autorización de la Secretaría de Comunicaciones.
@@ -4346,21 +4370,31 @@ Para la aplicación de las sanciones a que se refiere el artículo anterior, se 
 
 Tan luego como la Secretaría de Comunicaciones tenga conocimiento de la infracción, procederá al aseguramiento de las obras ejecutadas, las instalaciones establecidas y todos los bienes muebles e inmuebles dedicados a la explotación de la vía de comunicación, ocupación de la zona federal o playas, de las vías flotables o navegables, poniéndolos bajo la guarda de un interventor especial, previo inventario que se formule. Posteriormente al aseguramiento se concederá un plazo de diez días al presunto infractor para que presente las pruebas y defensas que estime pertinentes en su caso; y pasado dicho término la Secretaría de Comunicaciones dictará la resolución que corresponda.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 525.
 
 El que indebidamente ejecute obras que invadan o perjudiquen una vía federal de comunicación, pagará una multa de cincuenta a dos mil pesos a juicio de la Secretaría de Comunicaciones, más los daños y perjuicios que se hubieren ocasionado.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 526.
 
 La infracción del artículo 48 de esta ley se sancionará con multa de doscientos a mil pesos, sin perjuicio de que la Secretaría acuerde la suspensión de los servicios en los casos en que lo estime conveniente.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 527.
 
 La expedición o aplicación de horarios, tarifas y demás documentos relacionados con el público que no hayan sido previamente aprobados por la Secretaría de Comunicaciones, se castigará con multa de cien a mil pesos, por cada infracción.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 528.
 
 El que indebidamente autorice o contrate servicios conforme a tarifas distintas de las aplicables al caso, será castigado con multa de cien a quinientos pesos por cada infracción. Si con el fin de ocultar la infracción se asentaren partidas falsas en los libros o se expidiere carta de portes u otro documento igualmente falso, la pena será de dos meses a dos años de prisión y multa de cien a mil pesos.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 529.
 
@@ -4370,9 +4404,13 @@ I.- A las empresas que no cumplan con la obligación de publicar sus tarifas com
 
 II.- A las empresas que se nieguen a establecer tarifas unidas y en virtud de esa negativa, continúen aplicando tarifas locales.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 530.
 
 Los errores en la aplicación de las tarifas no están comprendidos en las disposiciones penales de esta ley; pero las empresas estarán obligadas a devolver lo que hayan cobrado indebidamente y si se rehusaren a hacerlo, se les impondrá multa de cincuenta a dos mil pesos, a juicio de la Secretaría de Comunicaciones.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 531.
 
@@ -4380,29 +4418,37 @@ El que sin la debida autorización de la empresa vendiere o enajenare por cualqu
 
 Si además, se alterase el nombre de la persona a quien originariamente se hubiere expedido el boleto, se aplicará la pena de un mes a un año de prisión o multa de cincuenta a doscientos pesos.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 532.
 
 El empleado que sin autorización de la empresa expidiere algún pase, será castigado con prisión de un mes a un año y multa de cincuenta a quinientos pesos. Igual sanción se aplicará al que enajene un pase o lo use indebidamente.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1976)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 533.
 
-Los que dañen, perjudiquen o destruyan las vías generales de comunicación o los medios de transporte o interrumpan total o parcialmente o deterioren los servicios que operan en las vías generales de comunicación o los medios de transporte serán castigados con tres meses a siete años de prisión y multa de cincuenta a cinco mil pesos.
+Los que dañen, perjudiquen o destruyan las vías generales de comunicación, o los medios de transporte, o interrumpan la construcción de dichas vías, o total o parcialmente interrumpan o deterioren los servicios que operen en las vías generales de comunicación o los medios de transporte, serán castigados con tres meses a siete años de prisión y multa de 100 a 500 veces el salario mínimo general vigente en el área geográfica del Distrito Federal.
 
 > <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
 
 Si el delito fuere cometido por imprudencia con motivo del tránsito de vehículos por carretera, aquél sólo se perseguirá por querella, la cual únicamente podrá formularse cuando no se repare el daño en un plazo de treinta días naturales. En este caso, el delito se sancionará con multa hasta por el valor del daño causado más la reparación de éste.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 534.
 
 El que indebidamente y sin el propósito de interrumpir o perjudicar las vías generales de comunicación arroje en ellas cualquier obstáculo, impida sus desagües, descargue aguas, tale, pode o maltrate los árboles del derecho de vía, incurrirá en multa de veinticinco a doscientos pesos.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 535.
 
 A los conductores de toda clase de vehículos que manejen o tripulen estos en vías generales de comunicación sin haber obtenido los certificados de capacidad física y aptitud o sin las licencias exigidas por la ley, se les aplicará por la primera infracción multa hasta de mil pesos. En casos de reincidencia incurrirán en la pena de quince días a un año de prisión.
 
 En las mismas penas incurrirá el empresario o dueño del vehículo que autorice o consienta su manejo o tripulación sin que el conductor posea los certificados y licencias mencionados en dicho artículo.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1976)</small>
 
@@ -4475,6 +4521,8 @@ En este caso se seguirá el procedimiento que indica el artículo 524 de esta le
 ###### ARTICULO 540.
 
 A las empresas de vías generales de comunicación y medios de transporte, que se nieguen a enlazar sus líneas, dentro del plazo que fije la Secretaría de Comunicaciones, se les impondrá una multa hasta de diez pesos diarios en el primer mes, hasta de cien pesos en el segundo y hasta de doscientos pesos diarios en el tercero y en los siguientes, por todo el tiempo de la desobediencia, sin perjuicio de que si la Secretaría lo estima conveniente, se aplique el procedimiento señalado en el artículo 47 para la ejecución de las obras necesarias.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 541.
 
@@ -4650,17 +4698,23 @@ I.- A los propietarios, poseedores u operadores de aeronaves de servicio privado
 
 II.- A los propietarios, poseedores u operadores de aeronaves de servicio privado, destinadas a aplicaciones científicas de la aviación civil, por preferir a extranjeros respecto de mexicanos, para la realización de tales trabajos.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 559.
 
 Se impondrá multa de doscientos cincuenta a veinticinco mil pesos o prisión de seis meses a cinco años, a todo aquel que obstruya u obstaculice en cualquier forma o lo permita, las pistas, andenes y demás lugares de tránsito de los aeródromos.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
 ###### ARTICULO 560.
 
 Se impondrá multa de doscientos cincuenta a veinticinco mil pesos y prisión de seis meses a cinco años, a todo aquel que inunde o por negligencia permita que se inunde un aeródromo en todo o en parte.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
@@ -4686,7 +4740,7 @@ Se suspenderán hasta por seis meses las licencias del personal técnico aeroná
 
 La Secretaría de Comunicaciones revocará las licencias del personal aeronáutico cuando a su juicio y por contumacia, así lo merezcan.
 
-(REFORMADO, D.O.F. 23 DE ENERO DE 1950) (F. DE E., D.O.F. 11 DE MAYO DE 1950)
+(REFORMADO, D.O.F. 23 DE ENERO DE 1950)(F. DE E., D.O.F. 11 DE MAYO DE 1950)
 
 ###### ARTICULO 565.
 
@@ -4697,6 +4751,8 @@ I.- Al piloto o comandante que se encuentren en los casos de las fracciones I, I
 II.- Al piloto, comandante o miembro de la tripulación en los casos de las fracciones II, IV, VII, VIII y XVIII del propio artículo, prisión de seis meses a cinco años y revocación de la licencia respectiva.
 
 III.- Al piloto o comandante, en los casos de las fracciones XI y XIV, con suspensión hasta por seis meses de la licencia respectiva.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
@@ -4738,6 +4794,8 @@ Se aplicarán a la navegación aérea, en su caso, las disposiciones del Código
 
 Se castigará con la pena que señala el Código Penal para el delito de revelación de secretos, al que indebidamente y en perjuicio de otro, intercepte, divulgue, revele o aproveche los mensajes, noticias o informaciones que escuche y que no estén destinados a él o al público en general.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 Los concesionarios o permisionarios de comunicaciones eléctricas que infrinjan lo dispuesto en el artículo 384 serán castigados con prisión de quince días a un año y multa de diez a mil pesos.
 
 ###### ARTICULO 572.
@@ -4746,21 +4804,31 @@ Las personas que hagan uso de los servicios telegráficos y radiotelegráficos p
 
 Las Oficinas de Comunicaciones Eléctricas sólo trasmitirán ese género de comunicaciones cuando provengan de agencias de noticias que acrediten ante la Dirección General de Correos y Telégrafos, tener contratada la adquisición de noticias internacionales.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 573.
 
 Se impondrá multa de veinticinco a cien pesos o prisión de ocho días a un mes, al que indebidamente y no de manera habitual, realice el servicio de transporte o distribución de correspondencia reservado al Gobierno Federal.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 574.
 
 Al que indebidamente y con el carácter de empresario establezca o desempeñe el transporte o distribución a que se refiere el artículo anterior, se le impondrán de uno a tres años de prisión y multa de cincuenta a cinco mil pesos. En la misma pena incurrirá quien indebidamente explote servicios públicos de correspondencia por los sistemas de comunicación eléctrica que están reservados exclusivamente al Gobierno Federal.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 575.
 
 Al que emplee los servicios de correspondencia indebidamente desempeñados por las empresas o personas citadas en los dos artículos anteriores, se le impondrá multa de veinticinco a cien pesos o prisión de ocho días a un mes.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 576.
 
 Se aplicará de un mes a un año de prisión o multa de cincuenta a mil pesos al que indebidamente abra, destruya o substraiga alguna pieza de correspondencia cerrada, confiada al Correo.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 577.
 
@@ -4814,6 +4882,8 @@ En el caso de que los delitos a que se refieren los artículos 580, 581 y 582, f
 
 Se impondrán de quince días a dos años de prisión al que indebidamente dificulte, retarde o detenga el curso de las correspondencias en una vía de comunicación, o de cualquiera manera impida el libre y preferente transporte de las mismas.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 587.
 
 El que utilice en asuntos extraños al servicio postal, los pases y demás útiles destinados al uso exclusivo del Correo, será castigado con multa de cinco a cien pesos.
@@ -4825,6 +4895,8 @@ Los funcionarios o empleados de Correos y Telégrafos que utilicen en asuntos ex
 ###### ARTICULO 589.
 
 Las órdenes de prisión dictadas contra empleados del Correo y del Telégrafo que manejen fondos públicos, no podrán ser ejecutadas antes de que los empleados hagan entrega formal de los fondos y valores que estuvieren a su cuidado, así como de los comprobantes relativos a su cuenta, sin perjuicio de asegurar convenientemente al responsable.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1950)</small>
 
@@ -5155,3 +5227,7 @@ UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en e
 D.O.F. 21 DE ENERO DE 1988.
 
 UNICO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE JUNIO DE 1992.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
