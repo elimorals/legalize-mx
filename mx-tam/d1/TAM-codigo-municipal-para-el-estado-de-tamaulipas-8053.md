@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2001-12-25"
+last_updated: "2002-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2002.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1285,9 +1285,17 @@ El impuesto se causará a partir de que entren en vigor las Tarifas de Valores C
 
 DEL PAGO
 
-###### ARTICULO 109.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2002)</small>
 
-La cuota del impuesto es anual pero su importe se dividirá en seis partes iguales que se pagarán los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año, en las oficinas autorizadas en cuya jurisdicción se encuentre ubicado el predio. El primer pago deberá hacerse en el bimestre correspondiente a la fecha de aviso o manifiesto. Sin embargo, los pagos podrán hacerse por anualidad anticipada, en cuyo caso se bonificará el impuesto anual en un 10%.
+###### Artículo 109.
+
+La cuota del impuesto es anual pero su importe se dividirá en seis partes iguales que se pagarán los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año en las oficinas autorizadas correspondientes a la jurisdicción donde se encuentre ubicado el predio. El primer pago deberá hacerse en el bimestre correspondiente a la fecha de aviso o manifiesto.
+
+Los pagos podrán hacerse en una sola exhibición, pudiéndose autorizar por el Ayuntamiento una bonificación hasta del 15% de la cuota anual, cuando el pago ocurra durante los meses de enero y febrero. Si durante los meses de marzo y abril se cobran las cinco partes restantes de la cuota anual, el Ayuntamiento podrá autorizar una bonificación hasta del 8%.
+
+A los contribuyentes que sean jubilados o pensionados de cualquier sistema de seguridad social en el país, tengan alguna discapacidad, sean adultos mayores de sesenta años de edad o sean ejidatarios o campesinos con derechos a salvo, el Ayuntamiento podrá autorizar una bonificación hasta del 50% de la cuota del impuesto con relación exclusivamente a un predio urbano, independientemente de que realicen el pago anticipado.
+
+Este precepto no se interpretará en términos de conceder al mismo contribuyente una bonificación por su situación individual y otra por pago anticipado.
 
 ###### ARTICULO 110.
 
@@ -2551,7 +2559,7 @@ En caso de no llegar a un acuerdo, los trabajadores podrán suspender las labore
 
 ###### ARTICULO 257.
 
-Si la suspensión de labores se lleva a cabo antes de haberse satisfecho los requisitos señalados en el primer párrafo del artículo anterior, el Tribunal declarará que no existe el estado de huelga y fijará a los trabajadores un plazo de veinticuatro horas para que reanuden sus labores, apercibiéndolos de que si no lo hacen quedarán cesados sin responsabilidad para el Ayuntamiento considerándose como abandono de empleo.
+Si la suspensión de labores se lleva a cabo antes de haberse satisfecho los requisitos señalados en el primer párrafo del artículo anterior,el Tribunal declarará que no existe el estado de huelga y fijará a los trabajadores un plazo de veinticuatro horas para que reanuden sus labores, apercibiéndolos de que si no lo hacen quedarán cesados sin responsabilidad para el Ayuntamiento considerándose como abandono de empleo.
 
 ###### ARTICULO 258.
 
@@ -2994,3 +3002,9 @@ Las cuentas públicas relativas al ejercicio fiscal de 2002 y posteriores serán
 ###### ARTICULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 19 DE FEBRERO DE 2002.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado, derogándose las disposiciones que contravengan sus preceptos.
+
+Artículo Segundo.- Los Ayuntamientos que hubieren realizado disposiciones en materia de bonificación por pago anticipado o en relación a la situación personal de los contribuyentes durante el mes de enero del presente año podrán autorizar la adecuación de las previsiones correspondientes a lo dispuesto en este Decreto.
