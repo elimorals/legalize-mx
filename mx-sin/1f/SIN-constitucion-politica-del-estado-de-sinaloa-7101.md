@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2003-10-03"
+last_updated: "2003-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 2003.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -91,6 +91,20 @@ II. Tener un modo honesto de vivir.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE AGOSTO DE 1953)</small>
 
+Art. 9º Son obligaciones del ciudadano del Estado, además de las anteriores:
+
+I. Inscribirse en los padrones municipales de la jurisdicción a que pertenezcan.
+
+II. Votar en las elecciones populares en el Distrito Electoral a que corresponda.
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
+
+III. Desempeñar las funciones electorales y los cargos de elección popular y los de jurado, en los términos que fijen las leyes respectivas.
+
+> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 2003)</small>
+
+IV. Participar en los procesos de referéndum y de plebiscito a que se convoque en los términos de esta Constitución y sus leyes reglamentarias.
+
 ###### Art. 9º.
 
 Son obligaciones del ciudadano del Estado, además de las anteriores.
@@ -119,15 +133,11 @@ B. No ser ministro de culto alguno.
 
 C. (DEROGADO, P.O. 6 DE OCTUBRE DE 1928)
 
-(1.) Para Síndicos y Comisarios Municipales, cuando menos saber leer y escribir, comprobado ante quien califique la elección.
-
-(2.) Para Diputados y Regidores Municipales, cuando menos, poseer los conocimientos que comprende la instrucción primaria elemental, acreditados debidamente ante quien califique la elección.
-
-(3.) Para Gobernador del Estado, poseer los conocimientos que comprende la instrucción primaria superior, acreditados debidamente ante la Legislatura que califique la elección.
-
 III. Ser preferido en igualdad de circunstancias, a los que no sean ciudadanos sinaloenses en toda clase de empleos, cargos, comisiones y concesiones del Gobierno del Estado y Municipios.
 
-IV. Iniciar leyes ante el Congreso del Estado.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2003)</small>
+
+IV. Iniciar leyes ante el Congreso del Estado y participar en los procesos de referéndum y de plebiscito a que se convoque en los términos de esta Constitución y sus leyes reglamentarias.
 
 ###### Art. 10 Bis.
 
@@ -1981,15 +1991,31 @@ Ninguna licencia con goce de sueldo podrá concederse por más de 15 días. Sól
 
 Los servidores públicos que entren a ejercer su encargo después del día fijado por esta Constitución o por las Leyes, sólo durarán en sus funciones el tiempo que les faltare para terminar su período legal.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2003)</small>
+
 ###### Art. 150.
 
-La mayoría absoluta de los ciudadanos en ejercicio pleno de sus derechos, habitantes de un pueblo o región cualquiera, tienen para recusar el nombramiento de autoridades, hecho por el Ejecutivo del Estado, por el Supremo Tribunal de Justicia o por los Ayuntamientos, conforme a las siguientes bases:
+El referéndum, plebiscito y la revocación de mandato son formas de consulta y participación ciudadana que se sujetarán a las siguientes disposiciones:
+
+El referéndum es el acto conforme al cual, en los términos que establezca la ley, los ciudadanos sinaloenses opinan sobre la aprobación o rechazo de leyes estatales, excepto de las de carácter fiscal o tributario, cuya competencia es materia exclusiva del Congreso del Estado, ni respecto de reformas a la Constitución Política o a las leyes locales que se hubieren expedido para adecuar el marco jurídico de la entidad a las reformas o adiciones que se hicieren a la Constitución Política de los Estados Unidos Mexicanos.
+
+El referéndum puede ser total o parcial, según se refiera a toda una ley o solamente a algunos de sus preceptos.
+
+El plebiscito es el acto conforme al cual, en los términos que establezca la ley, los ciudadanos sinaloenses expresan su aprobación o rechazo a los actos, propuestas o decisiones del Poder Ejecutivo del Estado u organismos e instituciones de la administración pública paraestatal, así como de los ayuntamientos u organismos e instituciones de la administración pública municipal.
+
+En la legislación reglamentaria se establecerán las materias que pueden ser objeto de referéndum y plebiscito, los requisitos para convocar y el órgano facultado para hacerlo, así como los plazos para su realización, los procedimientos a que estará sujeto, los porcentajes mínimos de participación ciudadana y los efectos que produzcan sus resultados.
+
+La ley establecerá un sistema de medios de impugnación que dará definitividad a las distintas etapas del referéndum o plebiscito. La interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto impugnado.
+
+Las autoridades estatales y municipales están obligadas a coadyuvar en todo aquello que les sea requerido en la realización del referéndum y el plebiscito.
+
+Los resultados del referéndum y plebiscito serán obligatorios para las autoridades competentes.
+
+La revocación de mandato es el acto mediante el cual la mayoría absoluta de los ciudadanos en ejercicio pleno de sus derechos, habitantes de un pueblo o región cualquiera, tienen derecho para recusar el nombramiento de autoridades, hecho por el Ejecutivo, por el Supremo Tribunal de Justicia o por los Ayuntamientos, conforme a las siguientes bases:
 
 I. La petición será presentada por escrito a la Superioridad de quien haya emanado el nombramiento para su reconsideración.
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 1985)</small>
-
-II. Si los peticionarios no fueren satisfechos por la Superioridad que hizo el nombramiento, podrán ocurrir al Congreso del Estado, quien oyendo a las partes resolverá en justicia. Si la resolución favorece a los peticionarios, el Congreso la comunicará a quien corresponda para su cumplimiento. La Ley de Responsabilidades de los Servidores Públicos del Estado, reglamentará el procedimiento.
+II. Si los peticionarios no fueren satisfechos por la Superioridad que hizo el nombramiento, podrán recurrir al Congreso del Estado, quien oyendo a las partes resolverá en justicia. Si la resolución favorece a los peticionarios, el Congreso la comunicará a quien corresponda para su cumplimiento. En la legislación reglamentaria se establecerá el procedimiento.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1962)</small>
 
@@ -2929,15 +2955,15 @@ P.O. 3 DE OCTUBRE DE 2003.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-###### ARTICULO PRIMERO.
+P.O. 10 DE OCTUBRE DE 2003.
 
-Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado.
+###### ARTÍCULO PRIMERO.
 
-###### ARTICULO SEGUNDO.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Sinaloa".
 
-Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado.
+###### ARTÍCULO SEGUNDO.
 
-G.G. 17 DE SEPTIEMBRE DE 2018.
+La ley reglamentaria de los procesos de consulta y participación ciudadana deberá expedirse en un plazo no mayor de un año a partir del día siguiente al que entre en vigencia el presente Decreto, y previo a un proceso de amplia consulta a la ciudadanía así como a organismos e instituciones involucrados en el tema.
 
 ###### ARTÍCULO CUARTO.
 
