@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-menores-infractores-en-el-estado-de-baja-california-30
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-24"
-last_updated: "1993-12-24"
+last_updated: "1998-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA MENORES INFRACTORES EN EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1998.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 24 de diciembre de 1993.
 
@@ -63,17 +63,25 @@ El menor a quien se atribuya la comisión de una infracción, recibirá un trato
 
 Se considerarán como autoridades para los efectos de esta Ley, las siguientes:
 
-I.- El Consejo de Menores;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
-II.- La Secretaria General de Gobierno, a través de la Dirección de Prevención y Readaptación Social.
+I.- La Secretaría Jurídica y Prevención Social, a través de la Dirección de Prevención y Readaptación Social;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+II.- El Consejo de Menores.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 6o.
 
-Se crea el Consejo de Menores como órgano administrativo dependiente de la Dirección de Prevención y Readaptación Social de la Secretaria General de Gobierno del Estado, el cual contará con autonomía técnica y tendrá a su cargo la aplicación de las disposiciones de la presente Ley.
+Se crea el Consejo de Menores como órgano Jurisdiccional dependiente de la Secretaría Jurídica y Prevención Social, el cual contará con autonomía técnica y tendrá a su cargo la aplicación de las disposiciones de la presente Ley.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 7o.
 
-A la Dirección de Prevención y Readaptación Social de la Secretaria General de Gobierno del Estado, le corresponderá conocer y resolver sobre los recursos de inconformidad que se interpongan contra las resoluciones inicial, definitiva, y las que modifiquen o den por terminado el tratamiento interno del menor; asimismo, conocerá y resolverá sobre los asuntos relacionados con impedimentos, excusas y recusaciones que afecten a los Consejeros.
+A la Dirección de Prevención y Readaptación Social, le corresponde conocer y resolver los recursos de inconformidad que se interpongan contra la resolución inicial y definitiva; las que modifiquen o den por terminado el tratamiento interno del menor y los autos que emitan los Consejeros; asimismo, conocerá y resolverá sobre los asuntos relacionados con impedimentos, excusas y recusaciones que afecten a los Consejeros.
 
 ## TITULO SEGUNDO. DEL CONSEJO DE MENORES
 
@@ -131,21 +139,33 @@ I.- Un Presidente del Consejo;
 
 II.- Un Secretario General de Acuerdos;
 
-III.- Los Consejeros que determine el presupuesto;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+III.- Los Consejeros necesarios para la prestación de la función pública;
 
 IV.- Un Comité Técnico Interdisciplinario;
 
 V.- Los Secretarios de Acuerdos de los Consejeros;
 
-VI.- Hasta tres Consejeros Auxiliares;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+VI.- Los Consejeros Auxiliares necesarios para la prestación de la función pública;
 
 VII.- La Unidad de Defensa de Menores; y
 
-VIII.- Las Unidades Técnicas y Administrativas que se determine.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+VIII.- Un Representante Social por cada Consejería; y
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+IX.- Las Unidades Técnicas.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 12.
 
-El Presidente del Consejo, los Consejeros, el Secretario General de Acuerdos, los miembros del Comité Técnico Interdisciplinario, los Secretarios de Acuerdos de los Consejeros, los Consejeros Auxiliares y los Defensores de Menores, deberán reunir y acreditar los siguientes requisitos:
+El Presidente del Consejo, los Consejeros, el Secretario General de Acuerdos, los miembros del Comité Técnico Interdisciplinario, los Secretarios de Acuerdos de los Consejeros, los Consejeros Auxiliares, los Representantes Sociales y los Defensores de Menores, deberán reunir y acreditar los siguientes requisitos:
 
 I.- Ser mexicanos por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -155,11 +175,23 @@ III.- Poseer el título que corresponda a la función que desempeñen de acuerdo
 
 IV.- Tener conocimientos especializados en la materia de menores infractores, lo cual se acreditará con las constancias respectivas; y
 
-V.- El Presidente del Consejo, los Consejeros, el Secretario General de Acuerdos, el Coordinador de el Comité Técnico Interdisciplinario y el de la Unidad de Defensa de Menores, deberán tener una edad mínima de veinticinco años y además deberán tener por lo menos tres años de ejercicio profesional, contados desde la fecha de autorización legal para el ejercicio de la misma. Cesarán en sus funciones al cumplir setenta años de edad.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+V.- Deberán cumplir con una edad mínima, de veinticinco años y una máxima de sesenta y cinco años; a excepción del Presidente, Consejeros, Secretario General de Acuerdos, Coordinadores del Comité Técnico Interdisciplinario, de la Unidad de Defensa de Menores y de la Unidad de Protección al Ofendido, quienes deberán contar con una edad mínima de treinta años;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+VI.- Deberán tener por lo menos tres años de ejercicio profesional, contados desde la fecha de autorización legal para el ejercicio de la misma;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+VII.- Tener residencia mínima en el Estado de cinco años anteriores al día de su designación.
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 13.
 
-El Presidente del Consejo de Menores, deberá ser Licenciado en Derecho. Tanto el Presidente del Consejo como los Consejeros serán nombrados por el Secretario General de Gobierno, a propuesta del Director de Prevención y Readaptación Social en el Estado, durarán en su cargo tres años y podrán ser designados para períodos subsiguientes.
+El Presidente del Consejo de Menores, deberá ser Licenciado en Derecho. Tanto el Presidente como los Consejeros serán designados por el Titular de la Secretaría Jurídica y Prevención Social a propuesta del Director de Prevención y Readaptación Social, durarán en su cargo tres años y podrán ser ratificados para períodos subsecuentes.
 
 ###### ARTICULO 14.
 
@@ -207,7 +239,29 @@ XX.- Establecer los mecanismos para el cumplimiento de las atribuciones de la Un
 
 XXI.- Rendir un informe mensual sobre las actividades realizadas por el Consejo de Menores, a la Dirección de Prevención y Readaptación Social; y,
 
-XXII.- Las demás que determinen las leyes y reglamentos.
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+XXII.- Vigilar que la Administración de Justicia para Menores sea pronta, expedita, completa e imparcial, para tal efecto, dictará las providencias que fueren necesarias y oportunas;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+XXIII.- Comunicar a la Dirección de Prevención y Readaptación Social las faltas temporales y absolutas de los servidores públicos, para que obre con arreglo a sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+XXIV.- Conceder diariamente audiencias al público;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+XXV.- Ejercer el debido cumplimiento del Reglamento Interior del Consejo de Menores;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+XXVI.- Iniciar anteproyectos de leyes, decretos y reglamentos ante la Dirección de Prevención y Readaptación Social, para que ésta los turne a la Secretaría Jurídica y Prevención Social, en asuntos relacionados con la organización y funcionamiento de la Administración de Justicia para menores, y
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+XXVII.- Las demás que le señale la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado de Baja California y las leyes secundarias y reglamentos.
 
 ###### ARTICULO 15.
 
@@ -239,9 +293,11 @@ XI.- Las demás que determinen las leyes, reglamentos y el Presidente del Consej
 
 Son atribuciones de los Consejeros, las siguientes:
 
-I.- Resolver la situación jurídica del menor dentro del plazo de cuarenta y ocho horas o, en su caso, dentro de la ampliación solicitada por su defensor, la que no podrá exceder de otras cuarenta y ocho horas, y emitir por escrito la resolución inicial que corresponda.
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
-Si la resolución inicial o la ampliación del plazo de referencia no se notificare a la autoridad responsable de la custodia del menor, dentro de las tres horas siguientes al vencimiento de los plazos antes indicados, ésta lo entregará de inmediato a sus representantes legales o encargados. Cuando ninguna de las personas antes mencionadas reclamare al menor, éste se pondrá a disposición del órgano de asistencia social que corresponda. De todo ello se dejará constancia en el expediente;
+I.- Resolver la situación jurídica del menor dentro de setenta y dos horas o, en su caso, dentro de la ampliación solicitada por su defensor, la que no podrá exceder de otras setenta y dos horas, y emitir por escrito la resolución inicial que corresponda.
+
+El plazo a que se refiere el párrafo anterior sólo podrá duplicarse si lo solicita el menor o su defensor durante la declaración inicial, siempre y cuando ofrezca pruebas que puedan influir sustancialmente en la resolución. El consejero no podrá ordenar de oficio dicha prórroga y el Representante Social sólo tendrá el derecho, mientras corra la ampliación, a replicar las pruebas que ofrezca el menor de edad o su defensor;
 
 II.- Instruir el procedimiento y emitir la resolución definitiva, en la cual hará el examen exhaustivo del caso, valorará las pruebas y determinará si los hechos son o no constitutivos de la infracción atribuida al menor y si quedó o no plenamente comprobada su participación en la comisión de la misma, señalando las medidas que deban aplicarse de conformidad con el dictamen del Comité Técnico Interdisciplinario;
 
@@ -262,6 +318,20 @@ IX.- Visitar los establecimientos y órganos técnicos del Consejo que les asign
 X.- Rendir un informe mensual de la (sic) actividades realizadas, al Presidente del Consejo; y,
 
 XI.- Las demás que determinen esta Ley, los reglamentos, y el Presidente del Consejo.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+ARTICULO 16 BIS.- El auto a que se refiere la fracción I del artículo anterior, se dictará por la infracción que aparezca comprobada, tomando en cuenta los hechos materia de la consignación y considerando la descripción típica y la probable participación correspondiente.
+
+Cualquier reclasificación de la infracción tipificada en las leyes penales o sus modalidades, propuesta por las partes después de dictada la resolución inicial o de sujeción a proceso, deberá promoverse a través del incidente no especificado, para que sirva de base durante el resto del proceso.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+ARTICULO 16 TER.- Solamente en casos urgentes, cuando haya riesgo fundado de que el menor de edad pretenda evadirse a la acción de la justicia, que será calificado en un término de cuarenta y ocho horas por la Dirección de Prevención y Readaptación Social, el consejero podrá, bajo su más estricta responsabilidad, ordenar por escrito la detención de un menor, siempre que se trate de que esté acusado de alguna de las conductas antisociales graves, a que se refiere el Artículo 123 del Código de Procedimientos Penales para el Estado de Baja California, además de los establecidos en el Título Primero del Libro Segundo del Código Penal para el Estado de Baja California, especificando:
+
+I.- Los datos que hagan presumir la existencia de los elementos que integran la infracción y la presunta participación del menor de edad, y
+
+II.- Las razones que acrediten la existencia del riesgo fundado de que el menor de edad pueda sustraerse de la acción de la justicia.
 
 ###### ARTICULO 17.
 
@@ -337,11 +407,19 @@ XIII.- Rendir un informe mensual de la (sic) actividades realizadas, al Presiden
 
 XIV.- Las demás que determinen las leyes, los reglamentos, y el Presidente del Consejo.
 
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+ARTICULO 20 BIS.- Se creará una Consejería Auxiliar con el horario de oficina establecido en el Consejo de Menores, la cual contará con un titular y una secretaria mecanógrafa, misma que conocerá de las infracciones a los Bandos de Policía y Buen Gobierno, de conductas antisociales constitutivas de amenazas, lesiones leves, daño en propiedad ajena y robo simple, cuando se trate de un infractor primario que haya admitido su participación en la Averiguación Previa, y la cuantía no sea mayor de cuarenta salarios mínimos.
+
+Cuando el asunto revista una especial importancia, complejidad, amerite estudios de personalidad o imposición de medidas diversas, el Consejero auxiliar podrá ordenar la realización de los estudios correspondientes y la reclusión del menor.
+
 ###### ARTICULO 21.
 
 Son atribuciones de los Consejeros Auxiliares, las siguientes:
 
-I.- Estar en turno diariamente en forma sucesiva, comprendiendo cada uno veinticuatro horas incluyendo los días inhábiles, con el objeto de iniciar el procedimiento practicando las diligencias pertinentes vigilando ante las autoridades policiacas, administrativas o de cualquier índole, que el menor no sea incomunicado, dejado físicamente, mezclado con adultos, interviniendo para el efecto de que sea puesto de inmediato a disposición del Consejo, haciendo del conocimiento de los padres o tutores del menor la detención del mismo, o en su defecto aplicar la amonestación correspondiente;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+I.- Estar en turno diariamente en forma sucesiva, con el horario que determine el Presidente del Consejo de Menores, incluyendo los días inhábiles, con el objeto de iniciar el procedimiento practicando las diligencias pertinentes, vigilando ante las autoridades policiacas, administrativas o de cualquier índole, que el menor no sea incomunicado, vejado físicamente o mezclado con adultos. Intervenir a efecto de que sea puesto de inmediato a disposición del Consejo de Menores y hacer del conocimiento de los padres o tutores del menor la detención, o en su defecto aplicar la amonestación correspondiente;
 
 II.- Otorgar la libertad absoluta o la reclusión domiciliaria, en los casos que proceda a los menores puestos a su disposición;
 
@@ -353,17 +431,21 @@ IV.- Las demás que determinen las leyes, los reglamentos, y el Presidente del C
 
 El Consejo y el Comité Técnico Interdisciplinario sesionarán de manera ordinaria una vez por semana y el número de veces que se requiera de manera extraordinaria.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
 ###### ARTICULO 23.
 
-Para que el Consejo y el Comité Técnico Interdisciplinario sesionen, se requiere la concurrencia de las dos terceras partes de sus integrantes.
+Para que el Consejo de Menores y el Comité Técnico Interdisciplinario sesionen, se requiere la concurrencia de la mitad más uno de sus integrantes, siempre y cuando se encuentren el Presidente del Consejo de Menores o quien lo sustituya, en los términos del Artículo 27 de esta Ley.
 
 ###### ARTICULO 24.
 
 El Consejo y el Comité Técnico Interdisciplinario, emitirán sus resoluciones y dictámenes por unanimidad o por mayoría de votos. En caso de empate el Presidente del Consejo o el Coordinador del Comité, tendrán voto de calidad. Los Consejeros que disientan de la mayoría, deberán emitir por escrito su voto particular razonado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
 ###### ARTICULO 25.
 
-El Consejo de Menores podrá funcionar en pleno, para resolver algunos asuntos que por su importancia y complejidad, deban conocer todos sus integrantes.
+El Consejo de Menores, para resolver los casos de los delitos graves a que se refiere el Artículo 123 del Código de Procedimientos Penales para el Estado de Baja California, además de los establecidos en el Título Primero del Libro Segundo del Código Penal para el Estado de Baja California; deberá contar con la presencia de por lo menos las dos terceras partes de sus integrantes.
 
 Estas resoluciones generarán un precedente, que se tomarán como tesis para las resoluciones futuras en los Consejos de Menores en el Estado de Baja California.
 
@@ -383,11 +465,15 @@ Los integrantes de los órganos del Consejo de Menores serán suplidos en sus au
 
 I.- El Presidente del Consejo, por el Consejero de designación más antigua; si hubiere varios en esa situación, por quien señale el Presidente del Consejo;
 
-II.- Los Consejeros, por los Consejeros Auxiliares;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+II.- Los Consejeros, por el Secretario de acuerdos adscrito a la Consejería;
 
 III.- El Secretario General de Acuerdos, por el Secretario de Acuerdos de designación más antigua, o en su defecto por quien señale el Presidente del Consejo;
 
-IV.- Los Secretarios de Acuerdos de los Consejeros, por quien señale el Presidente del Consejo;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+IV.- Los Secretarios de Acuerdos, por los consejeros auxiliares;
 
 V.- Los demás servidores públicos, por quien determine el Presidente del Consejo.
 
@@ -411,11 +497,43 @@ II.- La defensa procesal tiene por objeto la asistencia y defensa de los menores
 
 III.- La defensa de los derechos de los menores en las fases de tratamiento y de seguimiento, tiene por objeto la asistencia y defensa jurídica de los menores durante las etapas de aplicación de las medidas de orientación, de protección, de tratamiento interno y externo, y en la fase de seguimiento.
 
-### CAPITULO UNICO. OBJETO Y ATRIBUCIONES
+### CAPITULO IV. UNIDAD DE PROTECCION AL OFENDIDO
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+ARTICULO 30 BIS.- La Unidad de Protección al Ofendido es técnicamente autónoma del Consejo de Menores, y dependiente de la Dirección de Prevención y Readaptación Social, tiene por objeto el ámbito de la prevención general y en especial la defensa de los intereses legítimos y de los derechos de los ofendidos ante el Consejo de Menores.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+ARTICULO 30 TER.- El Titular de la Unidad de Protección al Ofendido será designado por el Director de Prevención y Readaptación Social.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+ARTICULO 30 QUATER.- La Unidad de Protección del Ofendido estará a cargo de un Licenciado en Derecho, y contará con el número de representantes sociales, así como el personal técnico y administrativo que determine el presupuesto, y sus atribuciones serán:
+
+I.- Brindar asesoría jurídica al ofendido, asegurando el goce de sus derechos;
+
+II.- Fundar y motivar la acusación contra el menor;
+
+III.- Presentar pruebas para acreditar la conducta antisocial atribuida al menor;
+
+IV.- Interrogar a las partes, así como a los peritos y testigos que intervengan en el procedimiento;
+
+V.- Promover la conciliación de las partes en los delitos perseguibles por querella, o en los que sean competencia estatal, con la finalidad de que lleguen a convenios satisfactorios para ambos y concluir el asunto por vía conciliatoria;
+
+VI.- Promover que se garantice la reparación del daño;
+
+VII.- Concertar acciones con instituciones de asistencia médica y social, públicas o privadas;
+
+VIII.- Vigilar que las diligencias del procedimiento se asienten correctamente;
+
+IX.- Interponer el Recurso de Inconformidad cuando proceda, y
+
+X.- Las demás que esta Ley y su Reglamento establezcan.
 
 ## TITULO TERCERO. DE LA UNIDAD ENCARGADA DE LA PREVENCION Y TRATAMIENTO DE MENORES
 
-### CAPITULO I. REGLAS GENERALES
+### CAPITULO UNICO. OBJETO Y ATRIBUCIONES
 
 ###### ARTICULO 31.
 
@@ -437,7 +555,7 @@ III.- Las demás que le competan de conformidad con la presente Ley y sus dispos
 
 ## TITULO CUARTO. DEL PROCEDIMIENTO
 
-### CAPITULO II. DE LA INTEGRACION DE LA INVESTIGACION DE LAS INFRACCIONES Y DE LA SUBSTANCIACION DEL PROCEDIMIENTO
+### CAPITULO I. REGLAS GENERALES
 
 ###### ARTICULO 34.
 
@@ -459,7 +577,9 @@ VII.- Será careado con la persona o personas que hayan declarado en su contra;
 
 VIII.- Le serán facilitados todos los datos que solicite y que tenga relación con los hechos que se le atribuyan, derivados de las constancias del expediente;
 
-IX.- La resolución inicial, por la que se determinará su situación jurídica respecto de los hechos con que se le relacione, deberá dictarse dentro de las cuarenta y ocho horas siguientes al momento en que el menor haya sido puesto a disposición del Consejo; sin perjuicio de que este plazo se amplíe por cuarenta y ocho horas más, únicamente si así lo solicitare el menor o los encargados de su defensa. En este último caso, la ampliación del plazo se hará de inmediato del conocimiento del funcionario que tenga a su disposición al menor, para los efectos de su custodia; y
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+IX.- La resolución inicial, por la que se determinará su situación jurídica respecto de los hechos con que se le relacione, deberá dictarse dentro de las setenta y dos horas siguientes al momento en que el menor haya sido puesto a disposición del Consejo de Menores; sin perjuicio de que este plazo se amplíe por setenta y dos horas más, únicamente si así lo solicitare el menor o los encargados de su defensa en la declaración inicial, siempre y cuando ofrezca pruebas que puedan influir sustancialmente en la resolución. En este último caso, la ampliación del plazo se hará de inmediato del conocimiento del funcionario que tenga a su disposición al menor, para los efectos de su custodia; y
 
 X.- Salvo el caso previsto en la segunda parte de la fracción anterior, ningún menor podrá ser retenido por los órganos del Consejo por más de cuarenta y ocho horas sin que ello se justifique con una resolución inicial, dictada por el Consejero competente, la cual deberá estar debidamente fundada y motivada.
 
@@ -521,7 +641,7 @@ IV.- Si fuere insuficiente el apremio, se procederá contra el rebelde por el de
 
 Las actuaciones que se lleven a cabo en el procedimiento deberán reunir los requisitos establecidos en el Código de Procedimientos Penales para el Estado de Baja California.
 
-### CAPITULO III. DEL RECURSO DE INCONFORMIDAD
+### CAPITULO II. DE LA INTEGRACION DE LA INVESTIGACION DE LAS INFRACCIONES Y DE LA SUBSTANCIACION DEL PROCEDIMIENTO
 
 ###### ARTICULO 43.
 
@@ -575,7 +695,9 @@ Emitida la resolución inicial de sujeción del menor al procedimiento, quedará
 
 El Defensor del Menor contará hasta con cinco días hábiles, a partir de la fecha en que surta efectos la notificación de la resolución inicial, para ofrecer por escrito las pruebas correspondientes.
 
-Asimismo, dentro del plazo antes señalado, el Consejero podrá recabar, de oficio, las pruebas y acordar la práctica de las diligencias que considere pertinentes para el esclarecimiento de los hechos.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+Asimismo, dentro del plazo antes señalado, el Representante Social ofrecerá las pruebas y solicitará la práctica de las diligencias que considere pertinentes para el esclarecimiento de los hechos.
 
 ###### ARTICULO 50.
 
@@ -589,7 +711,9 @@ Una vez desahogadas todas las pruebas, formulados los alegatos y recibido el dic
 
 Los alegatos deberán formularse por escrito y sin perjuicio de ello se concederá a cada parte, por una sola vez, media hora para exponerlos oralmente.
 
-La resolución definitiva deberá emitirse dentro de los cinco días hábiles siguientes y notificarse de inmediato al menor, a sus legítimos representantes o a sus encargados, al Defensor del Menor y al Secretario General de Acuerdos.
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
+La resolución definitiva deberá emitirse dentro de los cinco días hábiles siguientes y notificarse de inmediato al menor, a sus legítimos representantes o a sus encargados, al Defensor del Menor, al Representante Social y al Secretario General de Acuerdos.
 
 ###### ARTICULO 52.
 
@@ -599,17 +723,47 @@ En el procedimiento ante los órganos del Consejo son admisibles todos los medio
 
 Los órganos del Consejo podrán decretar hasta antes de dictar resolución definitiva, la práctica o ampliación de cualquier diligencia probatoria, siempre que sea conducente para el conocimiento de la verdad sobre la existencia de la infracción y la plena participación del menor en su comisión. En la práctica de estas diligencias el órgano del conocimiento actuará como estime procedente para obtener el mejor resultado de ellas, sin lesionar los derechos fundamentales del menor y los intereses legítimos de la sociedad, dándole participación al Defensor del Menor.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+
 ###### ARTICULO 54.
 
 La valoración de las pruebas se hará de acuerdo con las siguientes reglas:
 
-I.- En la fase inicial del procedimiento harán prueba plena las actuaciones practicadas por el Ministerio Público y por el Consejero Auxiliar, por lo que se refiere a la comprobación de los elementos de la infracción. La aceptación del menor de los hechos que se le atribuyan, por si sola, así como cuando se reciba sin la presencia del Defensor del Menor, no producirá efecto legal alguno;
+I.- El Consejero hará el análisis y valoración de las pruebas rendidas de acuerdo con los principios de la lógica y las máximas de la experiencia, debiendo además, observar las disposiciones especiales que la ley fije.
 
-II.- Las actuaciones y diligencias practicadas por los órganos del Consejo, harán prueba plena;
+En todo caso, el Consejero expondrá en sus resoluciones los razonamientos que haya tenido en cuenta para valorar cada una de las pruebas;
 
-III.- Los documentos públicos tendrán valor probatorio pleno, en lo que atañe a los hechos afirmados por el funcionario público que los emita; y
+II.- Las pruebas practicadas durante la averiguación previa para demostrar los elementos que integran la infracción y la presunta participación, serán valoradas de acuerdo a lo que dispone este artículo.
 
-IV.- El valor de las pruebas pericial y testimonial, así como los demás elementos de convicción, queda a la prudente apreciación del Consejero o Consejeros del conocimiento.
+Las pruebas desahogadas durante el proceso, para demostrar o desvirtuar la conducta antisocial del menor de edad, que se encuentra tipificada en las leyes penales también serán valoradas en base a las anteriores disposiciones.
+
+El Consejero, podrá tomar en cuenta las pruebas de la averiguación previa, en tanto no hayan sido desvirtuadas por las pruebas aportadas en el proceso;
+
+III.- Las actuaciones y diligencias practicadas por los órganos del Consejo de Menores, harán prueba plena;
+
+IV.- Los documentos públicos tendrán valor probatorio pleno, en lo que atañe a los hechos afirmados por el funcionario público que los emita;
+
+V.- Los documentos privados sólo harán prueba contra su autor si fueren reconocidos por él o no los hubiere objetado, a pesar de que figuren en el proceso. Los que sean comprobados por testigos y los demás serán estimados por el Consejero a su prudente arbitrio;
+
+VI.- La Inspección, así como el resultado de los cateos, harán prueba plena siempre que se practiquen con los requisitos legales;
+
+VII.- El Consejero deberá valorar la confesión conforme a los principios y máximas a que se refiere el párrafo primero de la fracción I de este mismo artículo. Para que pueda ser tomada en consideración, la confesión deberá reunir los requisitos siguientes:
+
+a) Que sea hecha con pleno conocimiento y sin coacción ni violencia;
+
+b) Que sea otorgada ante el Ministerio Público o el Consejero;
+
+c) Que sea de hecho propio;
+
+d) Que no haya sido obtenida de una detención inconstitucional o sin la asistencia del defensor, y
+
+e) Que no haya datos que la hagan inverosímil.
+
+No podrá ponerse a disposición del Consejo de Menores a ningún menor de edad si existe como única prueba la confesión. La Policía Ministerial podrá rendir informes pero no obtener confesiones si lo hace, éstas carecerán de todo valor probatorio.
+
+VIII.- El valor de las pruebas pericial y testimonial, así como a los demás elementos de convicción, queda a la prudente apreciación del Consejero o Consejeros del conocimiento;
+
+IX.- Los Consejeros según la naturaleza de los hechos y el enlace lógico y natural que exista entre la verdad conocida y la verdad por conocer o que se busca, apreciarán en conciencia el valor de los indicios hasta poder considerarlos como prueba plena.
 
 ###### ARTICULO 55.
 
@@ -663,13 +817,23 @@ Al efecto, se tomará en cuenta el desarrollo de la aplicación de las medidas, 
 
 El personal técnico encargado de la Prevención y Tratamiento de Menores, aplicará las medidas ordenadas por el Consejero y rendirá un informe detallado sobre el desarrollo y avance de las medidas dispuestas, para el efecto de que se practique la evaluación a que se refiere el artículo anterior. Los informes se rendirán con intervalos de tres meses una vez iniciada la aplicación de las mismas.
 
-### CAPITULO IV. SUSPENSION DEL PROCEDIMIENTO
+### CAPITULO III. DEL RECURSO DE INCONFORMIDAD
+
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 60.
 
-Contra las resoluciones inicial, definitiva y la que modifique o dé por terminado el tratamiento interno procederá el recurso de inconformidad.
+El recurso de inconformidad procederá contra las siguientes resoluciones:
 
-Las resoluciones que se dicten al evaluar el desarrollo del tratamiento, no serán recurribles. Las que ordenen la terminación del tratamiento interno o lo modifiquen serán recurribles a instancia del Defensor o Consejero.
+I.- Las resoluciones iniciales;
+
+II.- Los autos que emitan los Consejeros;
+
+III.- Las resoluciones definitivas;
+
+IV.- Las resoluciones que modifiquen o den por terminado el tratamiento interno del menor, así como los relacionados con impedimentos y excusas que afecten a los Consejeros; y
+
+V.- Las demás que establezcan las leyes.
 
 ###### ARTICULO 61.
 
@@ -729,7 +893,7 @@ IV.- La revocación para el efecto de que se reponga el procedimiento; y,
 
 V.- La revocación lisa y llana de la resolución materia del recurso.
 
-### CAPITULO V. DEL SOBRESEIMIENTO
+### CAPITULO IV. SUSPENSION DEL PROCEDIMIENTO
 
 ###### ARTICULO 70.
 
@@ -749,7 +913,7 @@ La suspensión del procedimiento procederá de oficio, ó a petición del Defens
 
 Cuando se tenga conocimiento de que ha desaparecido la causa de suspensión del procedimiento, el órgano correspondiente, de oficio o a petición del Defensor del Menor, decretará la continuación del mismo.
 
-### CAPITULO VI. DE LAS ORDENES DE PRESENTACION, DE LOS EXHORTOS Y DE LA EXTRADICION
+### CAPITULO V. DEL SOBRESEIMIENTO
 
 ###### ARTICULO 73.
 
@@ -769,11 +933,13 @@ V.- En aquellos casos en que se compruebe con el acta del Registro Civil o con l
 
 Al quedar comprobada cualquiera de las causales enumeradas en el artículo precedente, el órgano del conocimiento decretará de oficio el sobreseimiento y dará por terminado el procedimiento.
 
-### CAPITULO VII. DE LA CADUCIDAD
+### CAPITULO VI. DE LAS ORDENES DE PRESENTACION, DE LOS EXHORTOS Y DE LA EXTRADICION
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO 75.
 
-Las órdenes de presentación de los menores a quienes se atribuya un hecho tipificado en la ley como delito, o de aquellas personas que aún siendo ya mayores hubieren cometido los mismos hechos durante su minoría de edad, deberán solicitarse al Ministerio Público, para que éste a su vez, formule la petición correspondiente a la autoridad judicial, siempre que exista denuncia, apoyada por declaración bajo protesta de persona digna de fé o por otros datos que hagan probable la participación del menor, en los términos previstos por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+Las órdenes de presentación de los menores a quienes se atribuya un hecho tipificado en la ley como delito, o de aquellas personas que, siendo ya mayores, hubieren cometido los mismos hechos durante su minoría de edad, serán solicitadas por el Consejo de Menores al Ministerio Público, siempre que exista denuncia, apoyada por declaración bajo protesta de persona digna de fe o por otros datos que hagan probable la participación del menor, en los términos previstos por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
 
 En todas las solicitudes que deban hacerse a la autoridad judicial para el libramiento de un exhorto que tenga por objeto la presentación de un menor infractor o presunto infractor, ante el Consejero, deberán proporcionarse los elementos previstos por el artículo 86 del Código de Procedimientos Penales para el Estado de Baja California. Al efecto, el exhorto que expida la autoridad judicial deberá contener el pedimento del Ministerio Público, la resolución en la cual se haya ordenado la presentación y los datos necesarios para la identificación de la persona requerida y, en su caso, la resolución inicial o la definitiva, dictadas en el procedimiento que se siga ante el Consejo de Menores.
 
@@ -783,7 +949,7 @@ El extraditado será puesto a disposición del Consejo de Menores competente, pa
 
 En todo lo relativo a extradición de menores, son aplicables en lo relativo, la Ley Reglamentaria del artículo 119 de la Constitución Política de los Estados Unidos Mexicanos y la Ley de Extradición Internacional, así como las disposiciones contenidas en el Capítulo IV del Título Primero del Código Federal de Procedimientos Penales.
 
-### CAPITULO UNICO. PROCEDIMIENTO
+### CAPITULO VII. DE LA CADUCIDAD
 
 ###### ARTICULO 76.
 
@@ -827,7 +993,7 @@ Cuando el infractor sujeto a tratamiento en internación o externación se sustr
 
 ## TITULO QUINTO. DE LA REPARACION DEL DAÑO
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO UNICO. PROCEDIMIENTO
 
 ###### ARTICULO 83.
 
@@ -843,7 +1009,7 @@ Si las partes no se pusieren de acuerdo, o bien si habiéndolo hecho no cumplier
 
 ## TITULO SEXTO. DEL DIAGNOSTICO Y DE LAS MEDIDAS DE ORIENTACION, DE PROTECCION Y DE TRATAMIENTO EXTERNO E INTERNO
 
-### CAPITULO II. DEL DIAGNOSTICO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 85.
 
@@ -853,7 +1019,7 @@ Los Consejeros ordenarán la aplicación conjunta o separada de las medidas de o
 
 Se podrá autorizar la salida del menor de los Centros de Tratamiento en internación, solo para atención médica hospitalaria que conforme al dictamen médico oficial respectivo deba suministrarse, o bien, para la práctica de estudios ordenados por la autoridad competente, así como cuando lo requieran las autoridades judiciales. En este caso el traslado del menor se llevará a cabo, tomando todas las medidas de seguridad que se estimen pertinentes y que no sean ofensivas ni vejatorias.
 
-### CAPITULO III. DE LAS MEDIDAS DE ORIENTACION Y PROTECCION
+### CAPITULO II. DEL DIAGNOSTICO
 
 ###### ARTICULO 86.
 
@@ -883,7 +1049,7 @@ Los estudios biopsicosociales se practicarán en un plazo no mayor de quince dí
 
 En los Centros de Diagnósticos se internará a los menores bajo sistemas de clasificación, atendiendo a su sexo, edad, estado de salud físico y mental, reiteración, rasgos de personalidad, gravedad de la infracción y demás características que presenten. En estos Centros se les proporcionarán los servicios de carácter asistencial, así como la seguridad y la protección similares a las de un positivo ambiente familiar.
 
-### CAPITULO IV. DE LAS MEDIDAS DE TRATAMIENTO EXTERNO E INTERNO
+### CAPITULO III. DE LAS MEDIDAS DE ORIENTACION Y PROTECCION
 
 ###### ARTICULO 93.
 
@@ -975,7 +1141,7 @@ Los servidores públicos que infrinjan la prohibición prevista en el tercer pá
 
 Cuando el menor, los representantes legales o encargados de éste quebranten en más de dos ocasiones la medida impuesta en este Capítulo, el Consejero que la haya ordenado, podrá sustituir esta medida por la de tratamiento de externación.
 
-### CAPITULO V. DEL SEGUIMIENTO
+### CAPITULO IV. DE LAS MEDIDAS DE TRATAMIENTO EXTERNO E INTERNO
 
 ###### ARTICULO 107.
 
@@ -1049,7 +1215,7 @@ VI.- Ambiente social criminógeno.
 
 El tratamiento externo no podrá exceder de un año y el tratamiento interno de siete años.
 
-### CAPITULO UNICO. GENERALIDADES
+### CAPITULO V. DEL SEGUIMIENTO
 
 ###### ARTICULO 117.
 
@@ -1060,6 +1226,8 @@ El seguimiento técnico del tratamiento se llevará a cabo por la Unidad Adminis
 El seguimiento técnico del tratamiento tendrá una duración de seis meses contados a partir de que concluya la aplicación de éste.
 
 ## TITULO SEPTIMO. DISPOSICIONES FINALES
+
+### CAPITULO UNICO. GENERALIDADES
 
 ###### ARTICULO 119.
 
@@ -1132,3 +1300,19 @@ LIC. ERNESTO RUFFO APPEL.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P. FORTUNATO ALVAREZ ENRIQUEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE NOVIEMBRE DE 1998.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los asuntos que se encuentren en trámite en la fecha en que entren en vigor estas reformas, serán turnados a las áreas competentes que corresponda conocer de los mismos, conforme a la nueva determinación de competencias.
+
+###### ARTICULO TERCERO.
+
+Los Reglamentos del Comité Técnico y de los Centros de Tratamiento, deberán ser modificados de acuerdo a las reformas realizadas a la presente Ley, en un plazo no mayor de noventa días siguientes a la fecha en que entren en vigor.
