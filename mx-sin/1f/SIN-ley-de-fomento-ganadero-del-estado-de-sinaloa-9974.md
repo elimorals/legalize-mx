@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-fomento-ganadero-del-estado-de-sinaloa-9974"
 country: "mx"
 rank: "ley"
 publication_date: "1970-12-01"
-last_updated: "1972-09-23"
+last_updated: "1986-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE FOMENTO GANADERO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 1986.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 1o. de diciembre de 1970.
 
@@ -71,13 +71,17 @@ El Estado reconoce las Organizaciones en que se encuentren actualmente constitu�
 
 Las Asociaciones Ganaderas locales ya sean generales o especializadas y Uniones Ganaderas Regionales son instituciones autónomas con personalidad jurídica propia y serán consideradas como organizaciones de cooperación para el Estado, están obligadas a proporcionar todos los informes que soliciten a los servicios pecuarios.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 8.
 
-La Unión y las Asociaciones deberán registrarse en la Dirección del Desarrollo Económico de Sinaloa: sin este requisito no podrán obtener los beneficios de esta Ley.
+La unión Ganadera Regional de Sinaloa y las Asociaciones Ganaderas, deben registrarse en la Secretaría de Alimentos, Productos y Servicios Esenciales. Sin este requisito no podrán operar ni recibir los beneficios que otorga la presente ley.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 9.
 
-Todo ganadero está obligado a manifestar por escrito a la Tesorería General del Estado por conducto de las Asociaciones Ganaderas a que pertenezcan y éstas a través de la Unión Ganadera Regional de Sinaloa, la iniciación de sus actividades dentro del plazo de 30 días siguientes a la misma. Para dedicarse a la ganadería en cualquiera de sus formas, el interesado deberá comprobar que dispone del terreno indispensable para el tipo de explotación que habrá de dedicarse.
+Todo ganadero está obligado a manifestar por escrito a la Secretaría de Hacienda Pública y Tesorería, por conducto de las Asociaciones Ganaderas a que pertenezcan, y éstas a través de la Unión Ganadera Regional, la iniciación de sus actividades dentro del plazo de treinta días siguientes a la misma. Para dedicarse a la ganadería en cualquiera de sus formas, el interesado debe comprobar que dispone del terreno indispensable para el tipo de explotación a que habrá de dedicarse.
 
 ### CAPITULO III. DE LAS AUTORIDADES
 
@@ -87,9 +91,13 @@ Son autoridades competentes para aplicar esta Ley:
 
 I.- El Ejecutivo del Estado
 
-II.- La Tesorería General del Estado
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
 
-III.- La Dirección del Desarrollo Económico de Sinaloa
+II.- La Secretaría de Hacienda Pública y Tesorería;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
+
+III.- La Secretaría de Alimentos, Productos y Servicios Esenciales;
 
 IV.- Los Inspectores de Ganadería
 
@@ -109,11 +117,15 @@ III.- Comisión Estatal de Fomento Ganadero
 
 IV.- Profesionales de las diferentes ramas de zootecnia en ejercicio de su profesión.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 11.
 
-Compete al Gobierno del Estado, por conducto de la Dirección del Desarrollo Económico a través de su programa de Desarrollo Ganadero, en lo concerniente a esta Ley, entre otras cosas, las siguientes atribuciones:
+Compete al Gobierno del Estado por conducto de la Secretaría de Alimentos, Productos y Servicios Esenciales, en lo concerniente a esta Ley las siguientes atribuciones:
 
-I.- Planeación, fomento, promoción, coordinación y control de las actividades pecuarias, estimulando la creación de las instituciones que concurren a dicho fin.
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
+
+I.- Planear, fomentar, promover, coordinar y controlar las actividades pecuarias, estimulando la creación o adquisición por la Unión o Asociaciones Ganaderas, de instituciones, empresas u organismos que tengan por objeto el procesamiento e industrialización de alimentos para la ganadería, así como su almacenaje, distribución y comercialización, o de aquellos establecimientos cuyo objeto sea benéfico a la ganadería;
 
 II.- Coordinar con la Federación la aplicación en la esfera estatal de las normas federales del ramo o conexos.
 
@@ -124,6 +136,14 @@ IV.- Difundir conocimientos científicos y prácticos en la explotación pecuari
 V.- Resolver con auxilio de la Comisión Estatal de Fomento Ganadero las consultas de los técnicos o de los particulares sobre aplicación de medicinas, cruza de ganado y toda clase de asuntos técnicos relativos al ramo.
 
 VI.- Propagar con el auxilio del Centro de Investigaciones Pecuarias de Sinaloa, de la Comisión Estatal de Fomento Ganadero y de las Asociaciones Ganaderas, plantíos de zacates forrajeros para proveer de plantas o semillas a los ganaderos que emplean el sistema de praderas artificiales para agostaderos y ensilaje de forrajes.
+
+> <small>(REFORMADA, [N. DE E. ADICIONADA] P.O. 3 DE SEPTIEMBRE DE 1986)</small>
+
+VII.- Las demás que le otorguen las leyes, reglamentos o acuerdos en la materia.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
+
+Para la aprobación de los asuntos previstos en la Fracción I, la Unión o Asociaciones deben recabar acuerdo de asamblea general, los cuales figurarán en el orden del día de la convocatoria respectiva.
 
 ###### ARTICULO 12.
 
@@ -137,9 +157,11 @@ El Gobierno del Estado, en coordinación con la Federación y la Unión Ganadera
 
 Los dueños de ganado mayor tienen la obligación de herrarlo y los de ganado menor de señalarlo.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 14.
 
-La Tesorería General del Estado no registrará ninguna señal, marca o fierro que resulte igual o similar a otros o bien de fácil alteración.
+La Secretaría de Hacienda Pública y Tesorería no registrará ninguna señal, marca o fierro que resulte igual o similar a otras, o bien de fácil alteración.
 
 ###### ARTICULO 15.
 
@@ -149,9 +171,11 @@ Las solicitudes para el registro de fierros, marcas o señales de sangre deben s
 
 Cada tres años, deberán revalidarse los fierros, marcas o señales registrados. Las Leyes fiscales fijarán los derechos correspondientes.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 17.
 
-El título ya expedido por la Tesorería General del Estado, se remitirá a la Asociación respectiva para que esta a su vez lo remita al interesado.
+El título ya expedido por la Secretaría de Hacienda Pública y Tesorería se enviará a la Asociación respectiva para que ésta a su vez lo remita al interesado.
 
 ###### ARTICULO 18.
 
@@ -173,9 +197,11 @@ Los fierros, figuras a fuego y señales de sangre no registrados, carecen de val
 
 No deberá utilizarse dentro de una familia el mismo fierro, marca o señal por todos los miembros de la misma, sino que por cada uno de los propietarios deberá utilizarse un fierro, marca o señal distinto.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 23.
 
-Todos los Municipios deben tener marca de venta para herrar los animales que enajenen, conforme a las facultades que les dé esta Ley, mismas que deberán estar registradas ante la Tesorería General del Estado, para usarse en los animales que se vendan o rematen en calidad de mostrencos.
+Los Municipios deben tener marca de venta para herrar los animales que enajenen en calidad de mostrencos, conforme a las facultades que les otorga esta ley, misma que debe estar registrada ante la Secretaría de Hacienda Pública y Tesorería.
 
 ###### ARTICULO 24.
 
@@ -189,9 +215,11 @@ Toda persona que utilice marcas de ventas registradas conforme a esta Ley, de la
 
 El fierro, las marcas y señales debidamente registradas serán de uso exclusivo de su propietario, ya que éstos son intransferibles, razón por la cual no están sujetos a permutas, ni pueden ser prestados o vendidos.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 27
 
-. Cuando por cualquier motivo el ganadero deje de usar el fierro, marca o señal, que tenga registrado, deberá promover a través de la Asociación correspondiente la cancelación de su registro ante la Tesorería General del Estado, dentro de los 30 días siguientes.
+. Cuando por cualquier motivo el ganadero deje de usar su señal, marca o fierro, que tenga registrado, debe promover a través de la Asociación correspondiente la cancelación de su registro ante la Secretaría de Hacienda Pública y Tesorería, dentro de los treinta días siguientes.
 
 ###### ARTICULO 28.
 
@@ -217,15 +245,19 @@ Las Asociaciones Ganaderas que visen las guías de traslado, no autorizarán nin
 
 ### CAPITULO II. DE LA INSPECCION GANADERA
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 32.
 
-Para el mejor cumplimiento de esta Ley se crea el Cuerpo de Inspectores de Ganadería cuyas obligaciones serán las que expresa esta Ley y su Reglamento.
+Para el mejor cumplimiento de esta Ley se crea el Cuerpo de Inspectores de Ganadería, cuyas obligaciones serán las que expresa esta ley y su reglamento y serán nombrados por la autoridad municipal a propuesta del Consejo Directivo de las Asociaciones Ganaderas respectivas.
 
 ###### ARTICULO 33.
 
 Es obligatorio la Inspección de ganado y sus productos para verificar:
 
-I.- Su sanidad, la que estará a cargo de un Médico Veterinario, y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
+
+I.- Su sanidad, la que estará a cargo de un Inspector de Ganadería con Título de Médico Veterinario Zootecnista.
 
 II.- El pago de los impuestos y comprobación de la propiedad o posesión, los que se efectuarán por Inspectores de Ganadería, Autoridades Estatales y Municipales.
 
@@ -287,9 +319,11 @@ Todas las controversias que se susciten en este capítulo, se regirán por las d
 
 Habrá puntos de paso obligado que se instalarán en lugares estratégicos de la ruta acostumbrada para traslado de ganado fuera del Municipio correspondiente. En estos puntos los conductores de ganado están obligados a presentar la documentación y el ganado para su inspección. Queda terminantemente prohibido comprar ganado sin haber sido quemado con el fierro de venta correspondiente.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 43.
 
-Queda estrictamente prohibido transitar con ganado fuera del Municipio de origen, sin la guía de tránsito respectiva.
+Queda estrictamente prohibido transitar con ganado dentro o fuera del municipio de origen sin la guía de tránsito respectiva.
 
 ###### ARTICULO 44.
 
@@ -333,25 +367,33 @@ Queda estrictamente prohibida la movilización de ganado enfermo contagioso. Si 
 
 La reanudación de la marcha será permitida cuando las autoridades competentes así lo autoricen con la intervención de la Asociación Ganadera.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 54.
 
-Todo vehículo dedicado al transporte de ganado en pié o de productores de origen animal, deberá ser registrado por su propietario ante la Tesorería General del Estado, a través de la Asociación respectiva.
+Los vehículos dedicados al transporte de ganado en pie o de productos de origen animal, deben ser registrados por sus propietarios en la Dirección General de Tránsito y Transportes, a través de la Asociación Respectiva.
 
 ###### ARTICULO 55.
 
 Para transportar pieles, cueros, carne y demás productos derivados del ganado, deberá contarse además de los documentos que comprueben la propiedad, con las guías sanitarias de tránsito respectivas.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 56.
 
-(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 1972
+Todo envío de ganado fuera de la Entidad ya sea para fines comerciales o zootécnicos, requerirá de autorización del Ejecutivo a través de la Unión Ganadera Regional, escuchando la opinión de la Secretaría de Alimentos, Productos y Servicios Esenciales.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 57.
 
-Las vías pecuarias son de utilidad pública y su existencia implica para los propietarios o poseedores de los predios, la servidumbre legal de paso correspondiente, salvo que a juicio de la autoridad competente, queden relevados de ella.
+Nadie podrá obstruir las vías pecuarias ni impedir el uso de este tipo de servidumbre legal de paso, la cual se declara de utilidad pública, salvo que la autoridad competente resuelva lo contrario.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 58.
 
-Solamente el Ejecutivo del Estado, a través de la Dirección del Desarrollo Económico de Sinaloa, podrá establecer nuevas vías pecuarias y dictar modificaciones a las actuales, tomando en cuenta el parecer de la Unión Regional Ganadera de Sinaloa y de los propietarios de terrenos afectados.
+Solamente el Ejecutivo del Estado, a través de la Secretaría de Alimentos, Productos y Servicios Esenciales podrá establecer nuevas vías pecuarias y dictar modificaciones a las actuales, tomando en cuenta la opinión de la Unión Ganadera Regional y de los propietarios de los terrenos afectados.
 
 ###### ARTICULO 59.
 
@@ -381,9 +423,11 @@ reproducción y
 
 Reses menores de 2 años.
 
+(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986) (F. DE E., P.O. 10 DE SEPTIEMBRE DE 1986)
+
 ###### ARTICULO 63.
 
-El Gobierno del Estado, a través de la Dirección del Desarrollo Económico de Sinaloa y oyendo la opinión de la Unión Regional Ganadera de Sinaloa y las Asociaciones Ganaderas, dictará las disposiciones necesarias a efecto de evitar la escases u ocultamiento de productos de origen animal que se utilizan para la alimentación.
+El Gobierno del Estado, oyendo la opinión de la Unión Ganadera Regional y las Asociaciones Ganaderas, dictará las disposiciones necesarias a efecto de evitar la escasez u ocultamiento de productos de origen animal que se utilizan para la alimentación.
 
 ### CAPITULO III. DE LOS RASTROS
 
@@ -399,25 +443,35 @@ El funcionamiento de los rastros los autorizarán los Presidentes Municipales. L
 
 Los administradores o encargados de rastros, serán personalmente responsables del legal desempeño de su cargo; de que previamente al sacrificio queden cubiertos los impuestos correspondientes, exigiendo la guía de sacrificio que ampara la legal procedencia del animal, estando obligados a llevar los requisitos establecidos por el Reglamento de la presente Ley. Los contraventores serán responsables por la evasión fiscal y consignados al Ministerio Público, de configurarse la Comisión de algún delito.
 
+(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986) (F. DE E., P.O. 10 DE SEPTIEMBRE DE 1986)
+
 ###### ARTICULO 67.
 
-Los libros de registro de ganado en los rastros podrán ser revisados en cualquier tiempo, por los Inspectores de Ganadería, por los representantes de los organismos ganaderos y por las Autoridades Estatales, pudiendo hacer cualquiera de ellos las gestiones que procedan para remediar las irregularidades que se descubran o denunciarlas a quienes corresponda para la corrección y castigo de quien o quienes resulten responsables.
+Los rastros y demás lugares autorizados para efectuar sacrificios de ganado, deberán llevar libros de registro en el cual se asentarán los animales sacrificados. Dichos libros serán revisados cuando menos una vez al mes, por los Inspectores de Ganadería, por los representantes de los organismos ganaderos y por las Autoridades Estatales, pudiendo hacer cualquiera de ellos las gestiones que procedan para remediar las irregularidades que se descubran o denunciarlas a quienes corresponda para la corrección y castigo de quien o quienes resulten responsables.
 
 ## TITULO IV. DEL FOMENTO GANADERO
 
 ### CAPITULO I. DE LA COMISIÓN ESTATAL DE FOMENTO GANADERO
 
+(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986) (F. DE E., P.O. 10 DE SEPTIEMBRE DE 1986)
+
 ###### ARTICULO 68.
 
-Se creará un servicio público especializado la Comisión Estatal de Fomento Ganadero, para fomento de la ganadería en beneficio de los ganaderos dentro del Estado de Sinaloa y de los agricultores favorecidos con los programas de fomento ganadero.
+El Gobernador del Estado creará la Comisión Estatal de Fomento Ganadero como un organismo especializado para fomentar la ganadería del Estado.
+
+Para estos efectos expedirá las disposiciones reglamentarias conducentes.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 69.
 
-La Comisión Estatal de Fomento Ganadero dependerá del Ejecutivo del Estado y quedará adscrita a la Dirección del Desarrollo Económico de Sinaloa y coordinará sus actividades con el Consejo Nacional de Ganadería dependiente de la Secretaria de Agricultura y Ganadería y con la Unión Regional Ganadera de Sinaloa.
+La Comisión Estatal de Fomento Ganadero dependerá del Ejecutivo del Estado, quedará adscrita a la Secretaría de Alimentos, Productos y Servicios Esenciales, y coordinará sus actividades con los demás organismos y dependencias competentes en materia ganadera.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 70.
 
-La Comisión Estatal propondrá el personal técnico y administrativo necesario para el desempeño de sus propios fines y el Ejecutivo del Estado, por conducto de la Dirección del Desarrollo Económico expedirá los nombramientos correspondientes.
+La Comisión Estatal de Fomento Ganadero propondrá el personal técnico y administrativo necesario para el cumplimiento de sus fines y el Ejecutivo del Estado, por conducto de la Secretaría de Alimentos, Productos y Servicios Esenciales, expedirá los nombramientos correspondientes.
 
 ###### ARTICULO 71.
 
@@ -433,7 +487,9 @@ La Comisión Estatal de Fomento Ganadero, tendrá las siguientes facultades y ob
 
 I.- Para fomentar la ganadería en el Estado:
 
-a).- Colaborar con la Dirección del Desarrollo Económico de Sinaloa en la planeación y programación del desarrollo de la ganadería en el Estado, así como coadyuvar en la determinación de la propiedad ganadera inafectable.
+REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)
+
+a).- Colaborar con la Secretaría de Alimentos, Productos y Servicios Esenciales en la planeación y programación del desarrollo de la ganadería en el Estado, así como coadyuvar en la determinación de la propiedad ganadera inafectable.
 
 b).- Hacer llegar al medio rural los conocimientos técnicos que hagan posible un mejoramiento de las razas de los ganados, para lo cual propondrá a los extensionistas de zona en las regiones que lo crea conveniente.
 
@@ -479,7 +535,9 @@ Por ser de interés público, se fomentará y cuidará debidamente la conservaci
 
 Se consideran zonas agrícolas:
 
-a).- Las comprendidas en los Distritos de Riego y medio riego, que están delimitadas oficialmente por la Secretaría de Recursos Hidráulicos.
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
+
+a). Las comprendidas en los distritos de riego y medio riego, que estén delimitadas oficialmente por la Secretaría de Agricultura y Recursos Hidráulicos.
 
 b).- Aquellas donde el 60% de la Superficie total de la Zona respectiva, esté dedicada a la agricultura.
 
@@ -569,13 +627,19 @@ Los propietarios o poseedores de animales de cualquier especie en el Estado, est
 
 Se declara de interés público la construcción y funcionamiento de corrales y praderas naturales y artificiales de engorda de ganado.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 93.
 
-El Ejecutivo del Estado, por conducto de la Tesorería General y oyendo la opinión de la Dirección del Desarrollo Económico de Sinaloa, concederá los subsidios que juzgue prudente, en favor de los productores agropecuarios o engordadores de ganado, que acogiéndose a este beneficio, lo soliciten y cumplan con lo dispuesto en esta Ley y su Reglamento.
+El Ejecutivo del Estado por conducto de la Secretaría de Hacienda Pública y Tesorería, y oyendo la opinión de la Secretaría de Alimentos, Productos y Servicios Esenciales, concederá los subsidios que juzgue prudentes en favor de los productores agropecuarios o engordadores de ganado, que acogiéndose a este beneficio, lo soliciten, si cumplen con lo dispuesto en esta ley y sus reglamentos.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 94.
 
-Para los efectos de este Capítulo, se crea el Servicio de Clasificaciones y Especificaciones, como parte integrante de la Comisión Estatal de Fomento Ganadero dependiente de la Dirección del Desarrollo Económico de Sinaloa.
+Se establecen los grados de calidad de carnes en canal de ganado bovino, proveniente de las engordas de ganado en corrales y praderas irrigadas o de temporal, en buenas condiciones sanitarias y de alimentación.
+
+Para los efectos anteriores, se crea el Servicio de Clasificaciones y Especificaciones de Ganados y Carnes, el cual se prestará conforme a los acuerdos e instructivos que en la materia expida la Comisión Estatal de Fomento Ganadero.
 
 ###### ARTICULO 95.
 
@@ -585,9 +649,11 @@ Dicho servicio estudiará y determinará la clasificación de ganados y carnes, 
 
 Para los efectos de esta Ley y su Reglamento se entiende por "Clasificaciones" la determinación del grado de calidad de los ganados y las carnes, de acuerdo con sus especificaciones; para los mismos efectos se entiende por "Especificaciones" la enumeración técnica de las condiciones que deben reunir los ganados y las carnes para determinar su clasificación.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 97.
 
-Los ganados y carnes de campo que actualmente se expenden en la Entidad no sufrirán alteración en sus precios y solo podrán modificarse por causas justificadas, que estudiarán y resolverán la Delegación de la Secretaría de Industria y Comercio y el Ejecutivo del Estado.
+Los ganados y carnes de campo que actualmente se expenden en la Entidad, quedarán fuera del Servicio de Clasificaciones y Especificaciones, y sus precios serán los que fijen la Secretaría de Comercio y Fomento Industrial y el Ejecutivo del Estado.
 
 ###### ARTICULO 98.
 
@@ -597,17 +663,21 @@ El Reglamento de esta Ley determinará las carnes clasificadas, que gozarán de 
 
 Los ganados de las otras especies menores y sus carnes quedarán sujetos a clasificación con base en las especificaciones que se señalen y gozarán de las prerrogativas que se determinen, cuando a juicio del Ejecutivo del Estado se estime conveniente.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 100.
 
-Queda autorizada la Dirección del Desarrollo Económico de Sinaloa, para crear Juntas de Revisión y Arbitraje, que resolverán las controversias entre particulares, que resulten con motivo de la clasificación de ganados y carnes y sus resoluciones serán inapelables.
+La Secretaría de Alimentos, Productos y Servicios Esenciales, resolverá las controversias que surjan entre particulares con motivo de la clasificación de ganados y carnes, nombrando cuando menos dos clasificadores, cuyas resoluciones serán inapelables.
 
 ###### ARTICULO 101.
 
 Solo será clasificada la carne de ganados que hayan recibido un acabado a pesebre con una duración mínima de treinta días y la de porcinos que hayan sido engordados totalmente en granja.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 102.
 
-La Dirección del Desarrollo Económico de Sinaloa tendrá facultades para controlar la salida y la movilización de todo producto empleado en la alimentación del ganado.
+La Secretaría de Alimentos, Productos y Servicios Esenciales tendrá facultades para controlar la salida, tránsito y distribución de ganados, carnes y subproductos, así como de los insumos para la alimentación de ganado.
 
 ### CAPITULO V. DE LA LECHE LIQUIDA
 
@@ -619,9 +689,11 @@ El personal del servicio de clasificación será nombrado por el Ejecutivo del E
 
 Se declara de interés público la construcción y funcionamiento de establos para leche líquida de vaca.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 105.
 
-El Ejecutivo del Estado, por conducto de la Tesorería General, oyendo la opinión de la Dirección del Desarrollo Económico de Sinaloa, considerará los subsidios que juzgue prudentes sobre los Impuestos, en favor de los productores de leche líquida de vaca que acogiéndose a este beneficio, los soliciten y cumplan con lo dispuesto por esta Ley y su Reglamento.
+El Ejecutivo del Estado, por conducto de la Secretaría de Hacienda Pública y Tesorería con opinión de la Secretaría de Alimentos, Productos y Servicios Esenciales, concederá los subsidios que juzgue prudentes sobre los impuestos en favor de los productores de leche líquida de vaca para su venta y consumo dentro y fuera del Estado, que acogiéndose a este beneficio lo soliciten, si cumplen con lo dispuesto en la presente ley y sus reglamentos.
 
 ###### ARTICULO 106.
 
@@ -635,33 +707,45 @@ Para los efectos de esta Ley y su Reglamento, se entiende por organización de l
 
 Las condiciones de la organización de la producción se determinarán en el Reglamento de esta Ley.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 109.
 
-La clasificación de la leche líquida de vaca se hará de la siguiente forma: Tipo A, Tipo B y C.
+La clasificación de leche líquida de vaca se hará por las autoridades federales competentes.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 110.
 
-La leche líquida de vaca clasificada en Tipo A y B y Tipo C, gozarán de precios mínimos diferenciales que se fijarán justificadamente por el Ejecutivo del Estado, escuchando previamente la opinión de las partes interesadas.
+Conforme a la clasificación que se asigne a la leche líquida de vaca, ésta gozará de precios mínimos diferenciales que fije la dependencia federal respectiva.
+
+(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986) (F. DE E., P.O. 10 DE SEPTIEMBRE DE 1986)
 
 ###### ARTICULO 111.
 
-El Ejecutivo del Estado dará opinión por escrito a la Secretaría de Industria y Comercio sobre los precios máximos por litro de leche líquida de vaca que deberán regir para los productores, los industriales, los comerciantes y el consumidor.
+El Ejecutivo del Estado dará opinión por escrito a la autoridad competente sobre los precios máximos por litro de leche líquida de vaca que se estime deban regir para los productores, industriales, comerciantes y el consumidor.
 
 ###### ARTICULO 112.
 
 La Comisión Estatal de Fomento Ganadero recomendará a los propietarios de establos las dietas que sean más convenientes para alimentación del ganado lechero, a fin de obtener un producto de calidad.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 113.
 
-Se crea un cuerpo de técnicos e inspectores dependiente de la Dirección del Desarrollo Económico de Sinaloa, para que realicen labores de inspección ordinarias y extraordinarias, a los establos, plantas pasteurizadoras, distribuidores y expendios autorizados de leche líquida a fin de vigilar y controlar la pureza, precio y calidad del producto.
+Se crea un cuerpo de técnicos e inspectores dependiente de la Secretaría de Alimentos, Productos y Servicios Esenciales, para que coadyuven con las autoridades competentes en las labores de inspección a los establos, plantas pasteurizadoras, distribuidores y expendios autorizados de leche líquida, a fin de vigilar y controlar la pureza, precio y calidad del producto.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 114.
 
-El Gobierno del Estado, considerando la opinión de la Dirección del Desarrollo Económico, establecerá el Centro de Investigaciones Pecuarias de Sinaloa y Postas Zootécnicas con las finalidades dispuestas por esta Ley y su Reglamento.
+El Gobierno del Estado promoverá el establecimiento del Centro de Investigaciones Pecuarias de Sinaloa, y postas zootécnicas, con las finalidades dispuestas por esta ley y sus reglamentos.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 115.
 
-El Ejecutivo del Estado por conducto de la Dirección del Desarrollo Económico de Sinaloa, a través de su programa de Desarrollo Ganadero, autorizará a las Asociaciones Ganaderas o a ganaderos en particular a vender animales para pie de cría, siempre que satisfagan los requisitos que les marque la presente Ley y su Reglamento.
+El Gobierno del Estado podrá autorizar a las Asociaciones Ganaderas o a los ganaderos en particular a vender animales para pie de cría, siempre que satisfagan los requisitos que señalen las leyes, reglamentos y acuerdos respectivos.
 
 ###### ARTICULO 116.
 
@@ -687,33 +771,47 @@ Las autoridades competentes de esta Ley podrán ordenar o efectuar la castració
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 121.
 
-Las contravenciones a los preceptos de esta Ley que no constituyan delito, se sancionarán administrativamente por la Tesorería General del Estado, concediéndose acción popular para la denuncia de las mismas.
+Las contravenciones a los preceptos de esta ley que no constituyan delito, se sancionarán administrativamente por la Secretaría de Alimentos, Productos y Servicios Esenciales. Se concede acción popular para la denuncia de tales violaciones.
+
+(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986) (F. DE E., P.O. 10 DE SEPTIEMBRE DE 1986)
 
 ###### ARTICULO 122.
 
-Al que utilice alambre, planchas o argollas para herrar ganado o efectúe cortes parciales o totales de las orejas para identificarlo, será sancionado con una multa de $200.00 a $ 1,000.00 pesos.
+Al que utilice alambre, planchas o argollas para herrar ganado o efectúe cortes parciales o totales de las orejas para identificarlo, se le aplicará multa de seis a treinta veces el salario mínimo general vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 123.
 
-Al que utilice hierros, marcas o señales ajenas, o los cambie, permute o venda, será sancionado con multa de $ 100.00 a $ 1,000.00 pesos.
+El que emplée señales, marcas o fierros que no sean de su propiedad o los varíe o enajene, será sancionado con multa de tres a treinta veces el salario mínimo general.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 124.
 
-Al que conduzca o transite con ganado fuera del Municipio de origen, sin contar con la guía de tránsito o de sanidad respectivas o introduzca al Estado ganado enfermo o infestado, será sancionado con multa de $ 500.00 a $ 5,000.00 pesos.
+Al que transite con ganado fuera del Municipio de origen, sin contar con la guía de tránsito o de sanidad respectivas, o estando infestado o enfermo lo introduzca al Estado, se le impondrá multa de quince a ciento cuarenta veces el salario mínimo general.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 125.
 
-El sacrificio de ganado en estado de preñez de más de 90 días, será sancionado con multa de $ 200.00 a $ 1,000.00 pesos.
+Tratándose de sacrificio de ganado en estado de preñez de más de noventa días, la multa será de seis a treinta veces el salario mínimo general.
+
+(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986) (F. DE E., P.O. 10 DE SEPTIEMBRE DE 1986)
 
 ###### ARTICULO 126.
 
-El sacrificio de ganado fuera de los sitios autorizados o sin cumplir con los requisitos señalados por esta Ley o sus Reglamentos, serán sancionados con multa de $ 100.00 a $ 1,000.00 pesos.
+El sacrificio de ganado que se realice fuera de los sitios autorizados o sin cumplir con los requisitos exigidos por esta ley y sus reglamentos, será sancionado con multa de tres a treinta veces el salario mínimo general.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
 
 ###### ARTICULO 127.
 
-Independientemente de las sanciones ya señaladas específicamente, las faltas o infracciones se castigarán según su importancia discrecionalmente con una multa de $ 50.00 a $ 1,500.00 pesos y en defecto de su pago, con arresto hasta de quince días sin perjuicio de que el infractor cubra los daños causados, respondiendo en todo caso del delito o delitos que pudieren aparecer de sus actos.
+Las faltas o infracciones a esta Ley y sus reglamentos que no tengan señalada una sanción expresa, se castigarán, según su importancia, con multas de tres a cuarenta y cinco veces el salario mínimo general.
 
 ###### ARTICULO 128.
 
@@ -723,15 +821,19 @@ En los casos en qué las sanciones por infracciones no esten fijadas por esta Le
 
 En caso de reincidencia en la Comisión de infracciones y faltas, el responsable sufrirá la pena o sanción que le corresponda, aumentada en una tercera parte.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986)</small>
+
 ###### ARTICULO 130.
 
-Las sanciones impuestas por infracciones a la presente Ley serán hechas efectivas en las Recaudaciones del Estado y su importe ingresará por mital (sic) al erario Estatal y al Municipal correspondiente.
+Las violaciones a las disposiciones legales concernientes al Servicio de Clasificaciones y Especificaciones de Ganados y Carnes se sancionarán por la Secretaría de Alimentos, Productos y Servicios Esenciales, escuchando la opinión de la Comisión Estatal de Fomento Ganadero.
 
 ###### ARTICULO 131.
 
 Contra las sanciones impuestas, los interesados podrán hacer valer la reconsideración administrativa ante el Ejecutivo del Estado, dentro del término de quince días contados a partir de su notificación.
 
-Para ello bastará que el interesado haga una sencilla exposición escrita de las razones por las que en su concepto es improcedente la sanción, acompañando en su caso, las pruebas que estime pertinentes. Asimismo, deberá garantizar previamente el importe de la sanción, mediante depósito por igual cantidad en la Tesorería General del Estado o fianza de compañía autorizada.
+(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1986) (F. DE E., P.O. 10 DE SEPTIEMBRE DE 1986)
+
+Para ello bastará que el recurrente haga una sencilla exposición escrita de las razones por las que en su concepto sea improcedente la sanción, acompañando en su caso, las pruebas que estime pertinente. Asimismo, deberá garantizar previamente el importe de la sanción, mediante depósitos por igual cantidad en la Secretaría de Hacienda Pública y Tesorería.
 
 ###### ARTICULO 132.
 
@@ -782,3 +884,9 @@ P.O. 23 DE SEPTIEMBRE DE 1972.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 3 DE SEPTIEMBRE DE 1986.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor, el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
