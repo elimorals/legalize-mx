@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-procuraduria-general-de-justicia-del-14200"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-11-23"
-last_updated: "2000-08-25"
+last_updated: "2003-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUERETARO
 
-LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUERETARO.
+LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DEL 2000.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE QUERETARO, PUBLICADA EN EL PERIODICO OFICIAL EL 24 DE SEPTIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley Orgánica de la Procuraduría General de Justicia del Estado de Querétaro.
 
@@ -791,4 +793,20 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Per
 
 ###### ARTICULO SEGUNDO.
 
-Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en la presente ley.
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en la presente ley
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE SEPTIEMBRE DE 2003.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Procuraduría General de Justicia que fuera publicada el 23 de noviembre de 1995, en el Periódico Oficial de Gobierno del Estado, y se derogan todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+El Ejecutivo del Estado, expedirá el Estatuto que establezca las bases para la organización, funcionamiento y desarrollo de servicio civil y profesional de carrera de la Procuraduría de Justicia del Estado.
