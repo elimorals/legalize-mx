@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2002-08-15"
+last_updated: "2002-10-10"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE OCTUBRE DE 2002.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -149,9 +149,9 @@ IV.- CUARTO CIRCUITO:
 
 2.- Dos tribunales unitarios con residencia en Monterrey.
 
-> <small>(REFORMADO POR EL PUNTO DECIMOSEGUNDO DEL ACUERDO GENERAL 26/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO POR EL PUNTO DECIMOCUARTO DEL ACUERDO GENERAL 44/2002 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE OCTUBRE DE 2002)</small>
 
-3.- Diez juzgados de Distrito en el Estado de Nuevo León, con sede en Monterrey.
+3.- Diez juzgados de Distrito especializados en el Estado de Nuevo León: cuatro en materia penal, tres en materia administrativa, y tres en materias civil y de trabajo, todos con residencia en Monterrey.
 
 V.- QUINTO CIRCUITO:
 
@@ -928,3 +928,11 @@ PRIMERO.- Este acuerdo entrará en vigor el quince de agosto de dos mil dos.
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- Se encomienda a las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos, ambas del Consejo de la Judicatura Federal para que atiendan la situación laboral del personal adscrito al Tercer Tribunal Unitario del Decimoséptimo Circuito, en los términos establecidos por el Pleno del propio Consejo.
+
+D.O.F. 10 DE OCTUBRE DE 2002.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- El Pleno del Consejo de la Judicatura Federal, determinará en su oportunidad lo relativo a las readscripciones de quienes se desempeñarán como titulares de los juzgados de Distrito especializados en el Estado de Nuevo León, con residencia en Monterrey.
