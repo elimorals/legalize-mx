@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-impuesto-sobre-alcoholes-y-bebidas-alcoholicas-21673"
 country: "mx"
 rank: "ley"
 publication_date: "1969-04-11"
-last_updated: "1971-12-31"
+last_updated: "1974-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL IMPUESTO SOBRE ALCOHOLES Y BEBIDAS ALCOHOLICAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 1974.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 11 de abril de 1969.
 
@@ -67,9 +67,15 @@ III.- Productor.- La persona física o moral que elabore alcohol o bebidas alcoh
 
 IV.- Envasador.- La persona física o moral que envase alcohol o bebidas alcohólicas que no haya elaborado.
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1974)</small>
+
 ###### ARTICULO 5o.
 
-Los causantes del presente Impuesto, que también lo sean del de compra-venta del alcohol o bebidas alcohólicas o expendedores de los productos gravados por esta Ley, estarán, según el caso, afectos al pago de los impuestos, derechos y obligaciones que establece esta Ley.
+Las bebidas o productos elaborados en el Estado de Baja California por industrias reguladas por la "Ley Federal de Impuestos a las Industrias del Azúcar, Alcohol, Aguardiente y Envasamiento de Bebidas Alcohólicas" se consideran producidos en el momento en que se elabore el documento de remisión interna que ampare su embotellador o en el que se trasladen fuera del recinto de la fábrica mediante factura oficial.
+
+En ambos casos se deberá turnar copia de la documentación durante los tres días hábiles siguientes a la Recaudación de Rentas Estatal de su jurisdicción, tratándose del documento de remisión interna, éste deberá ser sellado por la misma oficina recaudadora.
+
+En los casos de producción de aguardiente, para efectos de determinar los litros producidos se convertirán éstos a una graduación alcohólica de 40º G.L. a una temperatura de 15º C.C. y a la resultante se le aplicará la cuota que señale la Ley de Ingresos del Estado.
 
 ### CAPITULO SEGUNDO. DECLARACIONES Y PAGO DEL IMPUESTO
 
@@ -710,3 +716,7 @@ Se faculta al Ejecutivo del Estado para expedir el Reglamento de la presente Ley
 ###### ARTICULO CUARTO.
 
 Se derogan todas las disposiciones legales que se opongan a lo que previene este Decreto.
+
+P.O. 28 DE FEBRERO DE 1974.
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
