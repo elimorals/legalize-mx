@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-del-estado-de-michoacan-de-ocampo-5965"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-02-27"
-last_updated: "1999-12-30"
+last_updated: "2000-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO FISCAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2000.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 27 de febrero de 1992.
 
@@ -223,7 +223,9 @@ Cuando el pago hubiera sido menor al que corresponda, los recargos se computará
 
 Los recargos se causarán por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
 
-El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que en ningún caso será menor al 20% del valor del cheque, y se exigirá independientemente de los demás conceptos a que se refiere el artículo anterior. La indemnización mencionada, el monto del cheque y en su caso los recargos, se requerirán y cobrarán mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que en su caso procediere.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DEL 2000)</small>
+
+El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será siempre del 20% del valor de éste, y se exigirá independientemente de los demás conceptos a que se refiere este artículo. Para tal efecto, la autoridad requerirá al librador del cheque para que, dentro de un plazo de tres días, efectúe el pago del valor del mismo, junto con la mencionada indemnización del 20%, o bien, acredite fehacientemente, con las pruebas documentales procedentes, que el rechazo del cheque por parte de la institución librada, obedeció exclusivamente a causas imputables a la misma. Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre que su rechazo es imputable a la autoridad librada, la autoridad fiscal requerirá y cobrará el monto del cheque, la indemnización mencionada y los demás accesorios que correspondan, mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad que en su caso procediere.
 
 ###### ARTICULO 21.
 
@@ -779,7 +781,9 @@ II. No tramitar el cambio de placas y tarjeta de circulación anual de motocicle
 
 III. No renovar la tarjeta de circulación y calcomanía para vehículos automotores y remolques anualmente;
 
-IV. No obtener la licencia de manejo;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DEL 2000)</small>
+
+IV. Renovar extemporáneamente la licencia para conducir vehículos automotores;
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
@@ -799,13 +803,17 @@ VII. No presentar la baja del vehículo automotor o remolque.
 
 VIII. No tramitar el cambio de propietario o de domicilio dentro del plazo señalado en la fracción VI del artículo 190 de la Ley de Hacienda del Estado de Michoacán.
 
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DEL 2000)</small>
+
+IX. Tramitar extemporáneamente la obtención original de placas de circulación de vehículos nuevos.
+
 ###### ARTICULO 72.
 
 A quien cometa las infracciones señaladas en el artículo anterior, se impondrán sanciones expresadas en el equivalente a los días de salario mínimo vigente en la región en la fecha en que las infracciones se cometan, conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DEL 2000)</small>
 
-I. Del equivalente a 4 días de salario mínimo vigente, a las comprendidas en las fracciones I, II, III y VIII;
+I. Del equivalente a 4 días de salario mínimo vigente, a las comprendidas en las fracciones I, II, III, VIII Y IX;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
@@ -1493,7 +1501,7 @@ En la intervención de negociaciones será aplicable, en lo conducente, las secc
 
 El interventor encargado de la caja después de separar las cantidades que correspondan por concepto de salarios y demás créditos preferentes a que se refiere este Código, deberá retirar de la negociación intervenida el 10% de los ingresos en dinero y enterarlo en la caja de la oficina ejecutora diariamente o a medida que se efectúe la recaudación.
 
-Cuando el interventor tenga conocimiento de irregularidades en el manejo de la negociación o de operaciones que pongan en peligro lo intereses del fisco estatal, dictará las medidas provisionales urgentes que estime necesarias, para proteger dichos intereses y dará cuenta a la oficina ejecutora, la que podrá ratificarlas o modificarlas.
+Cuando el interventor tenga conocimiento de irregularidades en el manejo de la negociación o de operaciones que pongan en peligro los intereses del fisco estatal, dictará las medidas provisionales urgentes que estime necesarias, para proteger dichos intereses y dará cuenta a la oficina ejecutora, la que podrá ratificarlas o modificarlas.
 
 Si las medidas a que se refiere el párrafo anterior no fueren acatadas, la oficina ejecutora ordenará que cese la intervención con cargo a la caja y se convierta en administración, o bien se procederá a enajenar la negociación, conforme a este Código y las demás disposiciones legales aplicables.
 
@@ -1705,16 +1713,30 @@ En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constit
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- DR. JAIME GENOVEVO FIGUEROA ZAMUDIO.- EL SECRETARIO DE GOBIERNO.- LIC. AUSENCIO CHAVEZ HERNANDEZ.- (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-P.O. 30 DE DICIEMBRE DE 1993.
+P.O. 30 DE DICIEMBRE DE 1993
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del día 1 de enero de 1994, previa su publicación en el Periódico Oficial del Estado.
 
-P.O. 30 DE DICIEMBRE DE 1999.
+P.O. 30 DE DICIEMBRE DE 1999
 
 ###### ARTICULO PRIMERO.
 
 El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE DICIEMBRE DEL 2000
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 1° de enero del año 2001.
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos de lo dispuesto por la fracción V del artículo 74 de la Ley de agua Potable, Alcantarillado y Saneamiento del Estado de Michoacán, el Acuerdo de cabildo mediante el cual se establezcan las cuotas y tarifas para el año 2001, se publicará durante el mes de enero de dicho año.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas lasdisposiciones que se opongan al presente Decreto.
