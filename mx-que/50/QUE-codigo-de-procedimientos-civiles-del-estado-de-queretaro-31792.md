@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-31792"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-11-22"
-last_updated: "1992-12-30"
+last_updated: "1993-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MAYO DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 22 de noviembre de 1990.
 
@@ -2643,9 +2643,11 @@ XII.- La consignación en pago;
 
 XIII.- Las acciones relativas a servidumbres legales o que consten en títulos públicos;
 
+(EN SUSPENSO LA VIGENCIA, P.O. 20 DE MAYO DE 1993)
+
 XIV.- Las rectificaciones y modificaciones de actas del Registro Civil, a que se refiere el artículo 130 del Código Civil.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 8 DE OCTUBRE DE 1992)
+(EN SUSPENSO LA VIGENCIA, P.O. 20 DE MAYO DE 1993)
 
 XV. Las solicitudes de inscripción en el Registro Civil, de los actos que no hubieran sido inscritos dentro de los plazos que el propio código señala para cada uno de ellos
 
@@ -2655,13 +2657,15 @@ XVII.- En los casos a que se refiere el artículo 58 del Código Civil; y
 
 XVIII.- En general, las cuestiones que por su naturaleza requieran celeridad a juicio del juez, o porque así lo determine la ley.
 
+(EN SUSPENSO LA VIGENCIA, P.O. 20 DE MAYO DE 1993)
+
 ###### ARTICULO 432.
 
 En los casos de la Fracción XIV del artículo anterior se oirá al Ministerio Publico. Al escrito de demanda se acompañará copia certificada del acta de que se trate y se ofrecerán las pruebas en que se funde la impugnación. El juez emplazará al Director del Registro Civil, para que conteste la demanda y llamará a las personas de cuyo estado civil se trate o pueda ser afectado por la resolución definitiva y a las que en la demanda se mencionen como involucradas. Señalará una audiencia que tendrá lugar luego de transcurridos diez días del emplazamiento tomando en cuenta la distancia en los términos del artículo 130 de este código. En esa audiencia se recibirá la contestación de la demanda y se desahogarán las pruebas ofrecidas, salvo aquellas que el juez rechace o no sea posible recibir en ese mismo acto.
 
 Si el Director del Registro Civil no contestase la demanda, se tendrá por presuntivamente confesados los hechos en que se funda el pedimento de rectificación o de modificación y luego de recibidas las pruebas y oídos los alegatos de los interesados si los formulasen por escrito dentro de tres días se dictará la resolución correspondiente.
 
-(EN SUSPENSO LA VIGENCIA, P.O. 8 DE OCTUBRE DE 1992)
+(EN SUSPENSO LA VIGENCIA, P.O. 20 DE MAYO DE 1993)
 
 ###### ARTICULO 433.
 
@@ -6258,3 +6262,31 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el per
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones Legales y reglamentarias que se opongan a la presente.
+
+P.O. 20 DE MAYO DE 1993
+
+LEY QUE DEJA EN SUSPENSO LA VIGENCIA DE LOS ARTICULOS 431, FRACCION XV Y 433 DEL CODIGO.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrara en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del estado, "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Las personas que al entrar en vigor esta Ley estén tramitando juicio de registro de nacimiento extemporáneo, podrán optar por concluir aquél o acudir ante la Dirección del Registro Civil, en términos de lo dispuesto en este ordenamiento.
+
+###### ARTICULO TERCERO.
+
+Las disposiciones jurídicas que se opongan a la presente Ley quedan sin efecto mientras dure la vigencia de ésta, a cuyo término recobrarán aquellas su pleno vigor.
+
+P.O. 20 DE MAYO DE 1993
+
+LEY QUE DEJA EN SUSPENSO LA VIGENCIA DE LOS ARTICULOS 431, FRACCION XIV Y 432 DEL CODIGO.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrara en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado, "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Las Personas que al entrara en vigor esta Ley estén tramitando juicio de rectificación o modificación de actas, podrán optar por concluir aquel o acudir ante la Dirección del Registro Civil, en los términos de lo dispuesto en este ordenamiento, para que se lleve a cabo la rectificación o modificación correspondiente.
