@@ -4,7 +4,7 @@ identifier: "CJM"
 country: "mx"
 rank: "codigo"
 publication_date: "1933-08-31"
-last_updated: "1937-09-29"
+last_updated: "1942-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2557&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CJM"
 
 CODIGO DE JUSTICIA MILITAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE SEPTIEMBRE DE 1937.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JUNIO DE 1942.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación el jueves 31 de agosto de 1933.
 
@@ -286,9 +286,9 @@ III.- de un agente adscrito a cada Juzgado Militar Permanente, general brigadier
 
 IV.- de los demás agentes que deban intervenir en los procesos formados por jueces no permanentes;
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1933)</small>
+> <small>(REFORMADA, D.O.F. 26 DE JUNIO DE 1942)</small>
 
-V.- de un agente auxiliar, militar de guerra, con grado no menor del de mayor, adscrito a cada una de las comandancias de guarnición de las plazas de la República, en que no haya Juzgados Militares Permanentes.
+V.- de un Agente Auxiliar, Abogado, Teniente Coronel de Servicio o Auxiliar, adscrito a cada una de las Comandancias de Guarnición de las Plazas de la República, en que no haya Juzgados Militares permanentes, o con residencia en el lugar en que las necesidades del servicio lo ameriten.
 
 ###### ARTICULO 40.
 
@@ -6149,3 +6149,7 @@ Al C....
 D.O.F. 29 DE SEPTIEMBRE DE 1937.
 
 TRANSITORIO.- Este Decreto entrará en vigor desde la fecha de su publicación en el "Diario Oficial".
+
+D.O.F. 26 DE JUNIO DE 1942.
+
+ARTICULO TRANSITORIO.- Este Decreto entrará en vigor a partir de su publicación en el "Diario Oficial".
