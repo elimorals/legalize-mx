@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1992-12-10"
+last_updated: "1993-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE NOVIEMBRE DE 1993.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -273,9 +273,17 @@ Los Partidos Políticos son entidades de interés público; la ley determinará 
 
 La organización de las elecciones es una función estatal que se ejerce por los poderes Legislativo y Ejecutivo del Estado, así como por los Ayuntamientos, con la participación de los Partidos Políticos y de los ciudadanos según lo disponga la Ley, para lo cual se integrarán los organismos electorales correspondientes. La certeza, legalidad, imparcialidad y objetividad serán principios rectores en el ejercicio de la función estatal, las sesiones de los organismos electorales serán públicas en los términos que disponga la Ley.
 
-> <small>(ADICIONADO, B.O. 30 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
-La Ley establecerá un sistema de medios de impugnación de los que conocerán los organismos electorales y un Tribunal Electoral que tendrá la competencia y organización que determine la Ley.
+La Ley establecerá un sistema de medios de impugnación de los que conocerán los organismos electorales y un Tribunal Estatal Electoral que tendrá la competencia y organización que determine la Ley; dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten invariablemente al principio de legalidad.
+
+> <small>(ADICIONADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
+
+En materia electoral la interposición de los recursos no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnado.
+
+> <small>(ADICIONADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
+
+El Tribunal Estatal Electoral será órgano autónomo y máxima autoridad jurisdiccional electoral. Tendrá competencia para resolver en forma definitiva e inatacable, en los términos de esta Constitución y la Ley.
 
 ###### Artículo 23.
 
@@ -309,7 +317,7 @@ Artículo 25 A. El Gobierno del Estado está obligado a promover, orientar y con
 
 > <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
-Artículo 25 B. Los sectores público, privado y social concurrirán con solidaridad en el desarrollo integral del Estado. El sector público bajo el esquema de economía mixta, impulsará por sí o conjuntamente con los demás sectores, las áreas que se considerén prioritarias para el desarrollo.
+Artículo 25 B. Los sectores público, privado y social concurrirán con solidaridad en el desarrollo integral del Estado. El sector público bajo el esquema de economía mixta, impulsará por sí o conjuntamente con los demás sectores, las áreas que se consideren prioritarias para el desarrollo.
 
 > <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 1983)</small>
 
@@ -373,33 +381,33 @@ Elección de Diputados.
 
 Los Diputados al Congreso del Estado serán electos en su totalidad cada tres años.
 
-> <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
 ###### Artículo 31.
 
-El Congreso del Estado estará integrado por dieciocho Diputados electos en forma directa por el principio de mayoría relativa, en igual número de distritos uninominales y hasta nueve Diputados electos por el principio de representación proporcional, mediante el sistema de listas, votadas en una sola circunscripción plurinominal que comprenderá todo el territorio del Estado. Por cada Diputado Propietario se elegirá un suplente.
-
-Los Diputados electos por mayoría relativa y los electos por el principio de representación proporcional, siendo ambos representantes del pueblo, tendrán idéntica categoría e igualdad de derechos y deberes.
-
-La Ley establecerá la demarcación de cada distrito electoral.
+El Congreso del Estado estará integrado por 21 Diputados Propietarios y sus respectivos suplentes, electos en forma directa por el principio de mayoría relativa, en igual número de distritos uninominales, y hasta por 12 Diputados electos por el principio de representación proporcional.
 
 > <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
 
+Los Diputados electos por mayoría relativa y los electos por el principio de representación proporcional, siendo ambos representantes del pueblo, tendrán idéntica categoría e igualdad de derechos y deberes.
+
+> <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
+
+La Ley establecerá la demarcación de cada distrito electoral.
+
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
+
 ###### Artículo 32.
 
-La asignación de Diputados, por el principio de representación proporcional, mediante el sistema de listas, se sujetará a las bases generales siguientes y a lo que en particular disponga la Ley:
+La asignación de Diputados, por el principio de representación proporcional, se hará de acuerdo con la fórmula electoral que se establezca en la Ley, y con sujeción a las siguientes bases:
 
-I. Tendrá derecho a que le sean asignados Diputados por el principio de representación proporcional, todo aquel partido político que obtenga el uno punto cinco por ciento o más de la votación total emitida en el Estado, para las listas plurinominales.
+I. Tendrá derecho a que le sean asignados Diputados por el principio de representación proporcional todo aquel partido político que obtenga el uno punto cinco por ciento o más de la votación total emitida.
 
-> <small>(REFORMADA, B.O. 30 DE AGOSTO DE 1990)</small>
+II. El partido político que hubiere obtenido el mayor número de diputaciones de mayoría relativa, participará de la asignación de representación proporcional hasta completar un máximo de 21 diputados por ambos sistemas.
 
-II. El partido que hubiere obtenido el mayor número de diputaciones de mayoría relativa, participará de la asignación de la representación proporcional hasta completar un máximo de dos terceras partes.
+III. Sólo tendrán derecho a Diputados de representación proporcional los partidos políticos que hayan registrado candidatos a Diputados por el principio de mayoría relativa, en el número de distritos que señale la Ley.
 
-III. El número de diputaciones de representación proporcional que corresponda a cada partido político, se determinará de acuerdo con el porcentaje de votos que haya obtenido para sus listas en la circunscripción. La Ley establecerá la fórmula electoral y los procedimientos que se observarán para la asignación respectiva; en todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 30 DE AGOSTO DE 1990)</small>
-
-IV. Sólo tendrán derecho a Diputados de Representación Proporcional, los partidos políticos que hayan registrado candidatos a diputados de mayoría relativa en, cuando menos, nueve distritos electorales.
+IV. (DEROGADA, B.O. 8 DE NOVIEMBRE DE 1993)
 
 > <small>(REFORMADO, B.O. 19 DE FEBRERO DE 1977)</small>
 
@@ -439,11 +447,11 @@ Los Diputados rendirán la protesta de Ley ante el Congreso o ante la Diputació
 
 Instalación y funcionamiento del Congreso.
 
-> <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
 ###### Artículo 35.
 
-El Congreso del Estado se instalará el trece de octubre del año de su elección.
+El Congreso del Estado se instalará el día 16 de septiembre del año de su elección.
 
 > <small>(REFORMADO, B.O. 24 DE OCTUBRE DE 1928)</small>
 
@@ -457,11 +465,11 @@ El Congreso no podrá abrir sus sesiones ni ejercer su encargo sin la concurrenc
 
 Si el día señalado por la Ley para la instalación del Congreso no se presentaren todos los diputados propietarios electos, o si una vez instalado no hubiere quórum para que ejerza sus funciones, los que asistieren compelerán a los ausentes a que concurran dentro de los primeros quince días, con la advertencia de que si no lo hacen perderán su carácter. En este caso se llamará a los suplentes con un plazo igual, y si tampoco se presentaren se declarará vacante el puesto y suspensos unos y otros en el uso de sus derechos de ciudadanos, por todo el tiempo que deberían durar en su encargo.
 
-> <small>(REFORMADO, B.O. 12 DE AGOSTO DE 1978)</small>
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
 ###### Artículo 38.
 
-Una vez declarado vacante el puesto en los términos del artículo anterior, si se trata de un diputado electo por mayoría, el Congreso del Estado convocará a elecciones extraordinarias en el Distrito cuyo representante no se hubiere presentado a ocupar su asiento, siempre que hayan de transcurrir más de seis meses para que se efectúen las elecciones ordinarias. Si se trata de un diputado de representación proporcional, se llamará a ocupar la vacante al candidato que figure como siguiente en el orden de la lista del mismo Partido. Si tampoco éste se presentare, el Congreso declarará vacante la diputación por todo el resto del período.
+Una vez declarado vacante el puesto, en los términos del artículo anterior, si se trata de un Diputado electo por mayoría, el Congreso del Estado notificará al organismo electoral correspondiente para que éste convoque a elecciones extraordinarias en el Distrito cuyo representante no se hubiere presentado a ocupar su asiento, siempre que hayan de transcurrir más de seis meses para que se efectúen las elecciones ordinarias; si se trata de un Diputado de representación proporcional, se llamará a ocupar la vacante al suplente del mismo. Si tampoco éste se presentare, se llamará al candidato que figure como siguiente en el orden de prelación de la lista del mismo partido. Si no hubiese más candidatos en dicha lista, el Congreso declarará vacante esa representación.
 
 ###### Artículo 39.
 
@@ -471,11 +479,11 @@ En todos los casos en que por cualquiera causa desaparezca el Congreso, el Ejecu
 
 Para designar el Congreso electo en la forma establecida en el Artículo anterior, se añadirá al número que le corresponda la palabra "BIS", si dentro del período constitucional del Congreso desaparecido se instalare el nuevo.
 
-> <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
 ###### Artículo 41.
 
-El Congreso tendrá en el año, dos períodos de sesiones ordinarias: el primero comenzará el trece de octubre y terminará el veintitrés de diciembre y el segundo comprenderá el primero de abril hasta el último de junio. Ambos períodos pueden ser prorrogables.
+El Congreso tendrá en el año dos períodos de sesiones ordinarias: el primero comenzará el 16 de septiembre y terminará el 15 de diciembre y el segundo comprenderá desde el 1o de abril hasta el día último de junio. Ambos períodos pueden ser prorrogables.
 
 ###### Artículo 42.
 
@@ -495,15 +503,13 @@ En sesiones extraordinarias el Congreso se ocupará exclusivamente del asunto o 
 
 Si al comenzar un período de sesiones ordinarias el Congreso estuviere celebrando extraordinarias, cesarán éstas y continuarán discutiéndose en aquellas los negocios para que fue convocado.
 
-> <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
 ###### Artículo 46.
 
-El veintidós de octubre de cada año, asistirá el Gobernador a la sesión especial que en ese día deberá celebrar el Congreso, ante quien rendirá un informe sobre el estado que guarde la administración pública en sus diversos ramos.
+El día 13 del mes de octubre de cada año, el Gobernador presentará al Congreso del Estado, un informe sobre el estado que guarde la Administración Pública en sus diversos ramos.
 
-> <small>(REFORMADO, B.O. 30 DE AGOSTO DE 1990)</small>
-
-El último año de su ejercicio constitucional, el Gobernador rendirá el informe a que este precepto se refiere, el primero de Agosto.
+El último año de su ejercicio constitucional, el Gobernador presentará el informe a que este precepto se refiere, el día 26 de agosto.
 
 ###### Artículo 47.
 
@@ -521,9 +527,9 @@ El diputado que falte a cinco sesiones consecutivas dentro del período, sin cau
 
 Los diputados suplentes substituirán a los propietarios en todas sus faltas temporales y absolutas.
 
-> <small>(ADICIONADO, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
-Los Diputados por el principio de representación proporcional serán suplidos por aquellos candidatos del mismo partido que sigan en el orden de la lista respectiva, después de habérsele asignado los Diputados que le hubieren correspondido.
+Los diputados suplentes de representación proporcional suplirán a sus propietarios en todas sus faltas temporales y absolutas y, en el caso de que no se presenten ni propietario ni suplente, se llamará a aquellos candidatos del mismo partido que sigan en el orden de prelación en la lista respectiva, después de habérseles asignado los diputados que les hubieren correspondido.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -673,9 +679,9 @@ XIII Bis. Para conocer, substanciar y resolver los procedimientos relativos a la
 
 XIV. Para trasladar, provisionalmente, fuera de la ciudad de Hermosillo, la residencia de los Poderes del Estado.
 
-> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADA, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
-XV. Para erigirse en Colegio Electoral con el fin de computar y calificar en definitiva las elecciones de Gobernador; calificar en definitiva las elecciones de Diputados Locales y Ayuntamientos del Estado y hacer las asignaciones definitivas de Diputados y Regidores por el principio de representación proporcional.
+XV. Para erigirse en Colegio Electoral con el fin de computar y calificar en definitiva las elecciones de Gobernador en la forma en que determine la Ley. Su resolución será inatacable.
 
 XVI. Para resolver sobre la renuncia de sus propios miembros y la del Gobernador, y para conceder licencias a unos y otro.
 
@@ -689,9 +695,7 @@ XVIII. Para aprobar o rechazar los nombramientos de los Magistrados del Supremo 
 
 XIX. Para aceptar a dichos funcionarios la renuncia de sus respectivos cargos y concederles licencia hasta por dos meses con goce de sueldo y por más de ese tiempo sin goce de él.
 
-> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
-
-XX. Para erigirse en Colegio Electoral y resolver las peticiones de nulidad de elecciones y emitir las declaratorias correspondientes.
+XX. (DEROGADA, B.O. 8 DE NOVIEMBRE DE 1993)
 
 > <small>(REFORMADA, B.O. 9 DE ABRIL DE 1984)</small>
 
@@ -729,7 +733,7 @@ XXVII. Para autorizar al Ejecutivo y a los Ayuntamientos a fin de que contraigan
 
 XXVIII. Para conceder amnistías por delitos cuyo conocimiento corresponda privativamente a los Tribunales del Estado.
 
-XXIX. Para otorgar permisos o recompensas a las personas que hayan prestado servicios de importancia a la Nación o al Estado, y declarar beneméritos a los que se hayan distinguido por servicios eminentes prestados al mismo Estado.
+XXIX. Para otorgar premios o recompensas a las personas que hayan prestado servicios de importancia a la Nación o al Estado, y declarar beneméritos a los que se hayan distinguido por servicios eminentes prestados al mismo Estado.
 
 XXX. Para aprobar o reprobar la creación de nuevas Comisarías o suprimir las existentes, a iniciativa de los ayuntamientos correspondientes.
 
@@ -769,7 +773,7 @@ XL. Para autorizar al Ejecutivo del Estado a fin de crear fuerzas de servicio te
 
 XLI. Para conceder permiso al Gobernador del Estado a fin de que pueda asumir el mando, inmediata y personalmente, en campaña, de la Guardia Nacional y demás fuerzas del Estado.
 
-XLII. Para extender credenciales de senadores al Congreso de la Unión, por el Estado, a los ciudadanos que obtuvieren la mayoría de votos.
+XLII. (DEROGADA, B.O. 8 DE NOVIEMBRE DE 1993)
 
 > <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
@@ -913,11 +917,11 @@ VII. No haber sido condenado por la Comisión de un delito intencional, aún cua
 
 Las funciones de Gobernador son incompatibles con cualquier cargo o empleo de la Federación o del Estado.
 
-> <small>(REFORMADO, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
 ###### Artículo 72.
 
-El Gobernador del Estado durará en su encargo seis años. Tomará posesión el veintidós de octubre posterior a la elección, previa formal protesta ante el Congreso de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y la presente Constitución, así como las leyes que de ella emanen y cumplir leal y patrióticamente las obligaciones de su encargo.
+El Gobernador durará en su encargo seis años. Tomará posesión el día 13 de septiembre posterior a la elección, previa formal protesta ante el Congreso de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y la presente Constitución, así como las leyes que de ella emanen y cumplir leal y patrióticamente las obligaciones de su encargo.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -1517,9 +1521,9 @@ XIII. Autorizar el pago de los honorarios de los Magistrados Suplentes, cuando e
 
 XIV. Proponer al Congreso se tomen las medidas encaminadas a remediar las omisiones y contradicciones que observare en las leyes.
 
-> <small>(REFORMADA, B.O. 17 DE MARZO DE 1988)</small>
+> <small>(REFORMADA, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
-XV. Rendir, por conducto de su Presidente, ante el Congreso del Estado, en sesión especial, el último sábado del mes de septiembre de cada año, un informe sobre el estado que guarde la administración de justicia; así como rendir al Congreso y al Ejecutivo los informes que le pidan sobre el ramo judicial.
+XV. Rendir al Congreso y al Ejecutivo los informes que le pidan sobre el ramo judicial.
 
 XVI. Conocer de las controversias que se susciten entre el Ejecutivo del Estado y los Ayuntamientos.
 
@@ -1637,7 +1641,9 @@ Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, electos
 
 Para ser Presidente Municipal, Síndico o Regidor de un Ayuntamiento, se requiere:
 
-I. Ser ciudadano sonorense en pleno ejercicio de sus derechos políticos y tener veintiún años cumplidos, por lo menos el día de la elección.
+> <small>(REFORMADA, B.O. 8 DE NOVIEMBRE DE 1993)</small>
+
+I. Ser ciudadano sonorense en pleno ejercicio de sus derechos.
 
 II. Ser vecino del Municipio correspondiente, con residencia efectiva dentro del mismo, cuando menos de dos años si es nativo del Estado, o de cinco años si no lo es.
 
@@ -1645,11 +1651,15 @@ III. No desempeñar ningún cargo público en el Municipio donde se hace la elec
 
 IV. No haber sido condenado por la Comisión de un delito intencional, aún cuando se haya cumplido la condena o extinguido la pena.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
+> <small>(ADICIONADA, B.O. 8 DE NOVIEMBRE DE 1993)</small>
+
+V. En el caso del Presidente Municipal y el Síndico, tener 21 años cumplidos; tratándose de los Regidores, tener 18 años cumplidos.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
 ###### Artículo 133.
 
-El Presidente Municipal y demás miembros del Ayuntamiento durarán en su cargo tres años, y tomarán posesión el trece de octubre del año de su elección.
+El Presidente Municipal y demás miembros del Ayuntamiento durarán en sus cargos tres años, y tomarán posesión el día 16 de septiembre del año de su elección.
 
 > <small>(REFORMADO, B.O. 30 DE ENERO DE 1984)</small>
 
@@ -1689,9 +1699,7 @@ I. En el ámbito de su competencia, promover e inducir el desarrollo económico,
 
 II. En el marco del sistema estatal de planeación, conducir la formulación, instrumentación, control y evaluación del Plan Municipal de Desarrollo, al que estarán sujetas las funciones y actividades del Ayuntamiento y la Administración Pública Municipal e inducir y concertar con las representaciones de los sectores social y privado las acciones a realizar para su elaboración y ejecución.
 
-> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
-
-III. Hacer la declaratoria correspondiente a las elecciones para la integración del Ayuntamiento, de acuerdo con el sistema de mayoría relativa y las asignaciones preliminares por el principio de representación proporcional, sujetándose en ambos casos a los resultados que le comunique la Comisión Municipal Electoral. Tanto la declaratoria como las asignaciones serán calificadas y resueltas por el Congreso del Estado.
+III. (DEROGADA, B.O. 8 DE NOVIEMBRE DE 1993)
 
 IV. Expedir, de acuerdo con las bases normativas que establezca el Congreso, los Bandos de Policía y Buen Gobierno y los reglamentos, circulares y demás disposiciones administrativas de observancia general, dentro de sus respectivas jurisdicciones, que serán publicadas en el Boletín Oficial del Gobierno del Estado de Sonora.
 
@@ -1741,9 +1749,9 @@ XXV. Glosar las cuentas del Ayuntamiento saliente, en un término de noventa dí
 
 XXVI. Formular los Estados Financieros correspondientes al último año de su gestión que comprenderán la balanza de comprobación, el balance general, y el estado de resultados que contenga el Ejercicio presupuestario de Ingresos y Egresos y entregarlos, al concluir sus funciones, al Ayuntamiento entrante y al Congreso.
 
-> <small>(REFORMADA, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADA, B.O. 8 DE NOVIEMBRE DE 1993)</small>
 
-XXVII. Rendir a la población por conducto del Presidente Municipal, un informe anual detallado sobre el estado que guarden los asuntos municipales, el trece de octubre de cada año. Dicho informe será comunicado por escrito al Congreso del Estado y al Gobernador.
+XXVII. Rendir a la población, por conducto del Presidente Municipal, un informe anual detallado sobre el estado que guardan los asuntos municipales, el 16 de septiembre de cada año. Dicho informe será comunicado por escrito al Congreso del Estado y al Gobernador.
 
 XXVIII. Proporcionar a los Poderes del Estado los informes y documentos que les soliciten.
 
@@ -2538,6 +2546,52 @@ B.O. 12 DE NOVIEMBRE DE 1992.
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 B.O. 10 DE DICIEMBRE DE 1992.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 8 DE NOVIEMBRE DE 1993.
+
+LEY No. 304, QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los Diputados que se elijan a la LIV Legislatura del Congreso del Estado, durarán en sus funciones del 13 de octubre de 1994 al 15 de septiembre de 1997.
+
+###### ARTICULO TERCERO.
+
+El período ordinario del Congreso del Estado, correspondiente a los meses de noviembre a diciembre del año de 1993 y los períodos ordinarios correspondientes al año de 1994, se celebrarán de acuerdo con las fechas que han venido rigiendo en los términos de la Ley 109, publicada en el Boletín Oficial número 23, sección I, de 17 de septiembre de 1987.
+
+A partir del 16 de septiembre de 1995 los períodos de sesiones ordinarios se celebrarán de acuerdo con las fechas establecidas en la presente Ley.
+
+###### ARTICULO CUARTO.
+
+Los informes del Gobernador a que se refiere el artículo 46 constitucional se entregarán, en los años de 1994 a 1996, conforme a la fecha que ha venido rigiendo en los términos de la Ley 109, publicada en el Boletín Oficial Número 23, sección I, de 17 de septiembre de 1987; en 1997, conforme a la fecha que se señala en la Ley 210, publicada en el Boletín Oficial Número 18, Sección II, de 30 de agosto de 1990.
+
+###### ARTICULO QUINTO.
+
+El Gobernador electo para el período constitucional de 1997 al 2003, durará en sus funciones del 22 de octubre de 1997 al 12 de septiembre de 2003.
+
+###### ARTICULO SEXTO.
+
+Las modificaciones efectuadas al artículo 133, por la presente Ley, surtirán sus efectos a partir del 16 de septiembre de 1997.
+
+###### ARTICULO SEPTIMO.
+
+Los Ayuntamientos que se elijan para los municipios de la Entidad, para el período constitucional de 1994 a 1997, durarán en sus funciones del 13 de octubre de 1994 al 15 de septiembre de 1997.
+
+###### ARTICULO OCTAVO.
+
+El informe anual que rindan los Ayuntamientos a la población, en 1994, se efectuará en las fechas que señala la Ley 109, publicada en el Boletín Oficial número 23, sección I, de 17 de septiembre de 1987.
+
+B.O. 8 DE NOVIEMBRE DE 1993.
+
+LEY No. 305, QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION.
 
 ###### ARTICULO UNICO.
 
