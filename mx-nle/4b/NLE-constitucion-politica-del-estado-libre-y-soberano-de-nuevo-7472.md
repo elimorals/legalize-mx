@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1985-03-01"
+last_updated: "1985-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE MARZO DE 1985
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 1985.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -607,6 +607,32 @@ Al promulgarse una disposición legislativa que adopte, modifique o derogue uno 
 
 Ninguna resolución de la Legislatura tendrá otro carácter que el de ley, decreto o acuerdo.
 
+###### ARTICULO 112.
+
+Para proceder penalmente contra el Gobernador del Estado, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, el Procurador General de Justicia, los Secretarios del Ejecutivo, así como los Presidentes Municipales, Regidores y Síndicos por la comisión de delitos durante el tiempo de su cargo, la Cámara de Diputados declarará por mayoría absoluta de los miembros que la forman y previa audiencia del acusado, si ha o no lugar proceder contra el inculpado.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
+
+Si la resolución de la Cámara fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluído el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
+
+Si la Cámara declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo a la Ley.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
+
+Por lo que toca al Gobernador del Estado, sólo habrá lugar a acusarlo en los términos de lo previsto por el Artículo 106, en cuyo caso se resolverá con base en la Legislación Penal aplicable.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
+
+El efecto de la declaración de que ha lugar a proceder contra el inculpado, será separarlo de su encargo en tanto esté sujeto a proceso penal. Si éste culmina en sentencia absolutoria, el inculpado podrá reasumir su función. Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no cabe la gracia del indulto.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
+
+En demanda del orden civil que se entable contra cualquier servidor público no se requerirá declaración de procedencia.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
+
 ## TITULO V.
 
 Del Poder Ejecutivo.
@@ -665,9 +691,9 @@ I.- Proteger la seguridad de las personas, bienes y derechos de los individuos y
 
 II.- En caso de delito infraganti, y en los términos de la ley, decretar el arresto de cualquiera persona, poniéndola inmediatamente a disposición de la autoridad o Juez competente.
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1968)</small>
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1985)</small>
 
-III.- Nombrar y remover libremente a los Jefes de las Dependencias Generales del Ejecutivo, y a todos los funcionarios y empleados de las mismas, cuyo nombramiento o remoción no esté determinado de otro modo en esta Constitución, la Ley del Servicio Civil del Estado, o en otras Leyes.
+III.- Nombrar y remover libremente a los titulares de las Dependencias que integran la Administración Centralizada, y de los organismos y entidades que integran el sector paraestatal y demás funcionarios y empleados cuyo nombramiento o remoción no esté determinado de otro modo en esta Constitución, la Ley de Servicio Civil o en otras disposiciones aplicables.
 
 IV.- Cuidar de que la Justicia se administre pronta y cumplidamente por los Tribunales del Estado y de que se ejecuten las sentencias, prestando a aquéllos el auxilio que necesiten para el mejor ejercicio de sus funciones. Esta inspección no lo autoriza a intervenir directa ni indirectamente en el examen de los juicios pendientes, ni disponer en manera alguna de las personas de los reos.
 
@@ -697,7 +723,9 @@ XIV.- Pedir a la Diputación Permanente convoque al Congreso a sesiones extraord
 
 XV.- Visitar, dentro del período de su Gobierno, todos los pueblos del Estado para conocer sus necesidades, remediar sus males y promover sus mejoras.
 
-XVI.- Pasar al Procurador de Justicia los asuntos que deban ventilarse ante los Tribunales para que ejercite las atribuciones de su ministerio.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 1985)</small>
+
+XVI.- Pasar al Procurador General de Justicia los asuntos que deban ventilarse ante los Tribunales para que ejercite las atribuciones de su ministerio.
 
 XVII.- (DEROGADA, P.O. 15 DE JUNIO DE 1968)
 
@@ -765,7 +793,9 @@ V.- Mandar inmediata y personalmente, en campaña, la Guardia Nacional y demás 
 
 En el Estado habrá un Secretario General de Gobierno quien tendrá las facultades especiales que le confiere esta Constitución, y, para ocupar el cargo, deberá reunir los requisitos exigidos para ser Gobernador, quien lo nombrará y removerá a su arbitrio.
 
-El Gobernador podrá designar, en los términos de la Ley Orgánica de la Administración Pública del Estado, otros Secretarios del Despacho del Ejecutivo a los que, así mismo, podrá remover libremente.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1985)</small>
+
+El Gobernador será Jefe y responsable de la Administración Pública centralizada y paraestatal del Estado, en los términos de esta Constitución y de la Ley Orgánica que expida el Congreso, la cual distribuirá los negocios del orden administrativo en las Secretarías y Procuraduría General de Justicia, definirá las bases de creación de las entidades paraestatales y la intervención que en éstas tenga el Ejecutivo.
 
 > <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
 
@@ -773,11 +803,13 @@ El Gobernador podrá designar, en los términos de la Ley Orgánica de la Admini
 
 Ninguna orden del Gobernador se tendrá como tal, si no va firmada por el Secretario General de Gobierno y por el Secretario del Despacho que corresponda, o por quienes deban substituirlos legalmente. Los firmantes serán responsables de dichas órdenes.
 
-> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1985)</small>
 
 ###### Art. 89.
 
-Cuando el Congreso otorgare al Gobernador licencia para ausentarse del Estado por treinta días o menos, o el Gobernador se encontrare impedido por igual término, quedará encargado del Despacho de los asuntos del trámite el Secretario que designe el Gobernador. A falta de designación expresa el Encargado será el Secretario General de Gobierno, quien desempeñará el cargo hasta que el Gobernador Interino que se nombre otorgue la protesta de Ley. En estos casos, el Oficial Mayor o el Jefe del Departamento Primero de la Secretaría de Gobierno refrendará la firma de Encargado del Poder Ejecutivo.
+Cuando el Congreso otorgue al Gobernador Licencia para ausentarse del Estado por treinta días o menos, o el Gobernador se encontrare impedido por igual término, quedará encargado del despacho de los asuntos de trámite el Secretario que designe el Gobernador. A falta de designación expresa el encargado será el Secretario General de Gobierno, quien desempeñará el cargo hasta que el Gobernador Interino que se nombre otorgue la protesta de ley. En estos casos el Secretario de Administración refrendará la firma del encargado del Poder Ejecutivo.
+
+> <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
 
 Si la licencia fuere por más de treinta días o en caso de impedimento del Gobernador debidamente comprobado, el Congreso o la Diputación Permanente, en su caso, nombrará al ciudadano que se encargue interinamente del Poder Ejecutivo.
 
@@ -843,7 +875,9 @@ Si el Congreso no hace la declaración de inamovilidad, el Gobernador hará nuev
 
 Será Presidente del Tribunal el que por elección designen sus miembros, en la forma y términos que determine la Ley Orgánica.
 
-El Ministerio Público, institución que tiene por objeto velar por la exacta observancia de las Leyes de interés general, será desempeñado por un Procurador General de Justicia, dos Sub-Procuradores y por los Agentes de dicho Ministerio y sus Suplentes, en su caso, nombrados todos por el Ejecutivo. Una Ley reglamentaria determinará la organización y funcionamiento del Ministerio Público en el Estado.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1985)</small>
+
+El Ministerio Público institución que tiene por objeto velar por la exacta observancia de las leyes de interés general, será desempeñado por un Procurador General de Justicia, por los Agentes de dicho Ministerio y sus Suplentes, en su caso, nombrados todos por el Ejecutivo. Una ley Orgánica determinará la organización y funcionamiento de la Procuraduría General de Justicia.
 
 > <small>(REFORMADO, P.O. 1o. DE ENERO DE 1979)</small>
 
@@ -851,9 +885,11 @@ El Ministerio Público, institución que tiene por objeto velar por la exacta ob
 
 Las faltas temporales de los Magistrados serán cubiertas en los términos que establezca la Ley Orgánica del Poder Judicial y las definitivas por nombramiento del Gobernador que someterá a la aprobación del Congreso en los términos previstos en el artículo anterior. Si el Congreso estuviere en receso, la Diputación Permanente dará su aprobación mientras se reúne aquel y la otorga en definitiva.
 
+(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1985)(F. DE E., P.O. 11 DE NOVIEMBRE DE 1985)
+
 ###### Art. 99.
 
-Para ser Magistrado y Procurador de Justicia se requiere:
+Para ser Magistrado y Procurador General de Justicia, se requiere:
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1942)</small>
 
@@ -979,11 +1015,11 @@ La Ley determinará los casos y las circunstancias en los que se deba sancionar 
 
 Se concede acción popular para formular denuncias ante la Cámara de Diputados, respecto de las conductas a que se refiere el artículo que antecede, debiendo presentarse por escrito y fundarse en elementos de prueba que hagan presumir fehacientemente la ilicitud de la conducta del servidor público, estando sujetos a responsabilidad en los términos que lo prevengan las leyes respectivas, si la referida denuncia es infundida.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1985)</small>
 
 ###### Art. 110.
 
-Podrán ser sujetos de juicio político los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces, el Procurador General de Justicia, los Secretarios y Subsecretarios encargados de despacho del Ejecutivo, el Oficial Mayor de Gobierno, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos; así como los Presidentes Municipales, Regidores, Síndicos y Alcaldes Judiciales.
+Podrán ser sujetos de Juicio político los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces, el Procurador General de Justicia, los Secretarios del Ejecutivo, los Directores Generales o sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimilada a éstas y fideicomisos públicos, así como los Presidentes Municipales, Regidores, Síndicos y Alcaldes Judiciales.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
 
@@ -995,7 +1031,7 @@ Las declaraciones y resoluciones tanto de la Cámara de Diputados como del Tribu
 
 Las sanciones consistirán en la destitución del servidor público y en su caso la inhabilitación temporal para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1985)</small>
 
 ###### Art. 112.
 
@@ -1892,3 +1928,7 @@ P.O. 1 DE MARZO DE 1985.
 ###### ARTICULO UNICO
 
 - El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE OCTUBRE DE 1985.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
