@@ -1,0 +1,164 @@
+---
+title: "REGLAMENTO DE VIDEO JUEGOS Y FUTBOLITOS EN EL MUNICIPIO DE SANTA CATARINA, NUEVO LEON"
+identifier: "NLE-reglamento-de-video-juegos-y-futbolitos-en-el-municipio-de-25820"
+country: "mx"
+rank: "reglamento"
+publication_date: "1992-09-14"
+last_updated: "1992-09-14"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25820&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-nle-048"
+scjn_id: "25820"
+scjn_status: "ABROGADO (A)"
+gazette: "Periódico Oficial del Estado"
+original_category: "REGLAMENTO"
+original_gazette_section: "113"
+reform_count: "3"
+scjn_last_update: "2013-11-29"
+issue_date: "1992-08-06"
+municipality: "Santa Catarina"
+municipality_inegi: "19048"
+state: "NLE"
+---
+# REGLAMENTO DE VIDEO JUEGOS Y FUTBOLITOS EN EL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
+
+REGLAMENTO PARA VIDEO JUEGOS Y FUTBOLITOS EN EL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
+
+TEXTO ORIGINAL.
+
+Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 14 de septiembre de 1992.
+
+El Ciudadano Sr. Atanasio González Puente, Presidente Municipal de Santa Catarina Nuevo León, a todos los habitantes de éste Municipio, hace saber:
+
+Que el R. Ayuntamiento de Santa Catarina, Nuevo León, en Sesión Ordinaria de Cabildo celebrada el día 5 de Junio de 1992, con fundamento en los Artículos 26 inciso A Fracción VII, inciso C Fracción VI, 27, Fracción IV, y del 160 al 167 y demás relativos de la Ley Orgánica de la Administración Pública Municipal en el Estado en vigor, acordó la expedición del Reglamento que regula: Los Video Juegos y Futbolitos.
+
+REGLAMENTO PARA VIDEO JUEGOS Y FUTBOLITOS
+
+###### Artículo 1o.
+
+El propietario deberá contar con el permiso correspondiente al giro del negocio debidamente solicitado por escrito y aprobado por la Autoridad Municipal.
+
+###### Artículo 2o.
+
+Los propietarios deberán de respetar el horario de apertura y cierre del negocio, que les fije la Autoridad Municipal en cada caso particular.
+
+###### Artículo 3o.
+
+Queda estrictamente prohibido en el interior y fuera de el negocio, la venta y/o consumo de cualquier bebida alcoholica, cigarrillos ó cualquier producto con efectos psicotrópicos, principalmente a menores de edad, teniendo la obligacion de reportar a la Autoridad Municipal cualquier hecho relacionado con lo anterior.
+
+###### Artículo 4o.
+
+Queda prohibido el uso inmoderado de aparatos de sonido, radio, televisión, o similares, que perturbe la tranquilidad de la comunidad y de los usuarios.
+
+###### Artículo 5o.
+
+En el interior del negocio deberá contar con cuadros alusivos a evitar el consumo de drogas, bebidas alcoholicas, fumar, así mismo existirán mensajes que estimulen a los menores a la superación intelectual y academica.
+
+###### Artículo 6o.
+
+Es obligación del propietario evitar que su local se convierta en lugar de reunión asidua de vagos, malvivientes, desertores de escuelas, o cualquier tipo de persona sin oficio que solo se reuna en el lugar sin hacer uso de sus instalaciones.
+
+###### Artículo 7o.
+
+Los propietarios deberán de contar con todas las medidas de seguridad, debiendo tener extinguidores, botiquín para primeros auxilios, tener a la vista los teléfonos de todos los centros de emergencia del area metropolitana, y no deberá permitir por ninguna circunstancia que se enciendan fogatas, se introduzcan armas de cualquier tipo y bebidas embriagantes en el interior del negocio.
+
+###### Artículo 8o.
+
+Para la Autorización del giro se tomarán en cuenta los siguientes requisitos:
+
+a).- Estar a más de 100 mts. de retirado de escuelas.
+
+b).- Estar a más de 100 mts. de retirado de otro negocio similar.
+
+c).- Tener la aprobación de los vecinos más próximos al negocio.
+
+###### Artículo 9o.
+
+Los propietarios de éstos giros están obligados a cumplir con el pago del permiso y refrendo anual, correspondiente conforme a la ley de Hacienda de los municipios, lo anterior de conformidad con lo dispuesto en los artículos 58 fracción XVII y 59 fracción XVII.
+
+Los permisos o autorizaciónes concedidos no son transferibles sin la autorización del R. Ayuntamiento, así mismo los cambios de domicilio.
+
+AUTORIDADES
+
+###### Artículo 10o.
+
+Las autoridades competentes para aplicación en lo referente a éste ordenamiento serán las siguientes:
+
+El R. Ayuntamiento.
+
+El C. Presidente Municipal.
+
+El C. Secretario del Ayuntamiento.
+
+El C. Secretario de Finanzas y Tesorero Municipal.
+
+El C. Secretario de Protección y Vialidad.
+
+SANCIONES
+
+###### Artículo 11o.
+
+Las sanciones que se aplicarán a las faltas en que incurren los permisionarios, consistirán en:
+
+Multa, que se aplicará conforme al tabulador de la Ley de Hacienda de los Municipios.
+
+Clausura provisional, que se aplicará según la gravedad de la infracción cometida, a juicio del C. Secretario de Finanzas y Tesorero Municipal.
+
+Clausura definitiva, que se aplicará según la gravedad de la infracción cometida, a juicio del C. Secretario de Finanzas y Tesorero Municipal.
+
+En caso de reincidir un permisionario en dos o más ocasiones en una misma infracción, aparte de la sanción pecuniaria que origine, según la gravedad de la infracción, podrá imponérsele además, arresto administrativo hasta por 36 horas.
+
+RECURSOS
+
+###### Artículo 12o.
+
+Procede el recurso de reconsideración contra actos de autoridades que impongan sanciones a que éste reglamento se refiere y que el interesado estime indebidamente fundadas o motivadas. El recurso mencionado deberá formularse por escrito y firmarse por el recurrente, Los escritos deberán contener:
+
+I El nombre y domicilio del recurente (sic).
+
+II El interés específico que le asiste.
+
+III La autoridad que emitió el acto recurrido.
+
+IV Las objeciones a la sanción reclamada.
+
+V Las pruebas que se ofrezcan
+
+VI El lugar y la fecha de la promoción.
+
+###### Artículo 13o.
+
+La Autoridad que conocerá del recurso, será el C. Secretario de Finanzas y Tesorero Municipal, quién calificará las pruebas ofrecidas por el recurrente, admitiendo las que fueren conducentes, y señalará a partir de ésa fecha un término no menor de 5 ni mayor de 15 días para su desahogo, concluída la Audiencia, se procederá de inmediato, a desahogar los alegatos si las partes así lo deciden.
+
+###### Artículo 14o.
+
+Concluída la etapa de pruebas y alegatos la autoridad confirmará o revocará el acto recurrido, dentro de un témino (sic) no mayor de 15 días hábiles, después de concluída la etapa antes mencionada.
+
+Si por el tipo de pruebas ofrecidas es factible para la Autoridad resolver desde el momento de su examen, no será necesario esperar el plazo señalado en el párrafo anterior, si no que la resolución deberá darse ése mismo día.
+
+## TRANSITORIOS
+
+###### Artículo 1o.
+
+El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### Artículo 2o.
+
+El presente ordenamiento deja sin efectos a cualquier otro reglamento, disposición o circular que contravenga al presente.
+
+Por lo tanto, envíese al Periódico Oficial del Estado, por conducto de la SECRETARIA GRAL. DE GOBIERNO, de quien depende, para su promulgación y publicación.
+
+Por lo tanto ordeno se imprima, publique y circule y se le dé el debido cumplimiento.
+
+Dado en la Presidencia Municipal de Santa Catarina, Nuevo León, a los seis días del mes de Agosto de Mil Novecientos Noventa y Dos.
+
+"SUFRAGIO EFECTIVO NO REELECCION."
+
+EL C. PRESIDENTE MUNICIPAL
+
+SR. ATANASIO GONZALEZ PUENTE.
+
+EL C. SECRETARIO DEL R. AYUNTAMIENTO
+
+LIC. FERNANDO MARGARIN BERLANGA.
