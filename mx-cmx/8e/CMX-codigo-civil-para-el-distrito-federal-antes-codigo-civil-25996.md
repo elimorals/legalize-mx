@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1970-01-28"
+last_updated: "1971-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MARZO DE 1971.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -245,9 +245,11 @@ El Oficial del Registro Civil que no cumpla la prevención de remitir oportuname
 
 No podrá asentarse en las actas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en la ley.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 44.
 
-Cuando los interesados no puedan concurrir personalmente, podrán hacerse representar por un mandatario especial para el acto, cuyo nombramiento conste por lo menos en instrumento privado otorgado ante dos testigos. En los casos de matrimonio o de reconocimiento de hijos, se necesita poder otorgado en escritura pública o mandato extendido en escrito privado firmado por el otorgante y dos testigos y ratificadas las firmas ante Notario Público, Juez de Primera Instancia, Menor o de Paz.
+Cuando los interesados no puedan concurrir personalmente, podrán hacerse representar por un mandatario especial para el acto, cuyo nombramiento conste por lo menos en instrumento privado otorgado ante dos testigos. En los casos de matrimonio o de reconocimiento de hijos, se necesita poder otorgado en escritura pública o mandato extendido en escrito privado firmado por el otorgante y dos testigos y ratificadas las firmas ante Notario Público, Juez de lo Familiar, Menor o de Paz.
 
 ###### ARTICULO 45.
 
@@ -279,9 +281,11 @@ Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado po
 
 Para establecer el estado civil adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, siempre que se registre en la oficina respectiva del Distrito o de los Territorios Federales.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 52.
 
-Los Oficiales del Registro Civil se suplirán unos a otros en sus faltas temporales; cuando esto no fuere posible, suplirán dichas faltas los jueces de primera instancia, por turno que llevará la autoridad municipal.
+Los Oficiales del Registro Civil se suplirán unos a otros en sus faltas temporales; cuando esto no fuere posible, suplirán dichas faltas los Jueces de lo Familiar, por turno que llevará la autoridad administrativa.
 
 ###### ARTICULO 53.
 
@@ -587,21 +591,27 @@ Al margen del acta se imprimirán las huellas digitales de los contrayentes.
 
 Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquéllos o su identidad, y los médicos que se produzcan falsamente al expedir el certificado a que se refiere la fracción IV del artículo 98, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 105.
 
-El Oficial del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimento para contraer matrimonio, levantará una acta, ante dos testigos, en la que hará constar los datos que le hagan suponer que existe el impedimento. Cuando haya denuncia, se expresará en el acta el nombre, edad, ocupación, estado y domicilio del denunciante, insertándose al pie de la letra la denuncia. El acta firmada por los que en ella intervinieren, será remitida al juez de Primera Instancia que corresponda, para que haga la calificación del impedimento.
+El Oficial del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimento para contraer matrimonio, levantará una acta, ante dos testigos, en la que hará constar los datos que le hagan suponer que existe el impedimento. Cuando haya denuncia, se expresará en el acta el nombre, edad, ocupación, estado y domicilio del denunciante, insertándose al pie de la letra la denuncia. El acta firmada por los que en ella intervinieren, será remitida al Juez de lo Familiar que corresponda, para que haga la calificación del impedimento.
 
 ###### ARTICULO 106.
 
 Las denuncias de impedimento pueden hacerse por cualquiera persona. Las que sean falsas sujetan al denunciante a las penas establecidas para el falso testimonio en materia civil. Siempre que se declare no haber impedimento el denunciante será condenado al pago de las costas, daños y perjuicios.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 107.
 
-Antes de remitir el acta al Juez de Primera Instancia, el Oficial del Registro Civil hará saber a los pretendientes el impedimento denunciado, aunque sea relativo solamente a uno de ellos, absteniéndose de todo procedimiento ulterior hasta que la sentencia que decida el impedimento cause ejecutoria.
+Antes de remitir el acta al Juez de lo Familiar, el Oficial del Registro Civil hará saber a los pretendientes el impedimento denunciado, aunque sea relativo solamente a uno de ellos, absteniéndose de todo procedimiento ulterior hasta que la sentencia que decida el impedimento cause ejecutoria.
+
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 108.
 
-Las denuncias anónimas o hechas por cualquiera otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas. En este caso, el Oficial del Registro Civil dará cuenta a la autoridad judicial de Primera Instancia que corresponda, y suspenderá todo procedimiento hasta que ésta resuelva.
+Las denuncias anónimas o hechas por cualquiera otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas. En este caso, el Oficial del Registro Civil dará cuenta al Juez de lo Familiar que corresponda, y suspenderá todo procedimiento hasta que éste resuelva.
 
 ###### ARTICULO 109.
 
@@ -825,9 +835,11 @@ Para contraer matrimonio, el hombre necesita haber cumplido dieciséis años y l
 
 El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer matrimonio sin consentimiento de su padre o de su madre, si vivieren ambos, o del que sobreviva. Este derecho lo tiene la madre, aunque haya contraído segundas nupcias, si el hijo vive con ella. A falta o por imposibilidad de los padres, se necesita el consentimiento de los abuelos paternos, si vivieren ambos, o del que sobreviva; a falta o por imposibilidad de los abuelos paternos, si los dos existieren, o del que sobreviva, se requiere el consentimiento de los abuelos maternos.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 150.
 
-Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos, el Juez de Primer Instancia de la residencia del menor suplirá el consentimiento.
+Faltando padres y abuelos, se necesita el consentimiento de los tutores; y faltando éstos, suplirá el consentimiento, en su caso, el Juez de lo Familiar de la residencia del menor.
 
 ###### ARTICULO 151.
 
@@ -923,11 +935,13 @@ La mujer tendrá siempre derecho preferente sobre los productos de los bienes de
 
 El marido tendrá derecho que a la mujer concede el artículo anterior, en los casos en que ésta tenga obligación de contribuir en todo o en parte para los gastos de la familia y del hogar.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 167.
 
 El marido y la mujer tendrán en el hogar autoridad y consideraciones iguales; por lo tanto, de común acuerdo arreglarán todo lo relativo a la educación y establecimiento de los hijos y a la administración de los bienes que a éstos pertenezcan.
 
-En caso de que el marido y la mujer no estuvieren conforme sobre alguno de los puntos indicados, el Juez de lo Civil correspondiente procurará avenirlos, y si no lo lograré, resolverá, sin forma de juicio, lo que fuere más conveniente a los intereses de los hijos.
+En caso de que el marido y la mujer no estuvieren conforme sobre alguno de los puntos indicados, el Juez de lo Familiar correspondiente procurará avenirlos, y si no lo lograre, resolverá, sin solemnidad de juicio, pero oyendo a las partes y recibiéndoles sus pruebas, lo que fuera más conveniente a los intereses de los hijos.
 
 ###### ARTICULO 168.
 
@@ -1591,9 +1605,11 @@ Para que los cónyuges que se divorcian voluntariamente puedan volver a contraer
 
 La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los herederos del muerto tienen los mismos derechos y obligaciones que tendrían si no hubiera existido dicho juicio.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 291.
 
-Ejecutoriada una sentencia de divorcio, el juez de Primera Instancia remitirá copia de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y, además, para que publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
+Ejecutoriada una sentencia de divorcio, el Juez de lo Familiar remitirá copia de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y, además para que publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
 
 ### CAPITULO II. De las pruebas de la filiación de los hijos nacidos de matrimonio
 
@@ -1753,9 +1769,11 @@ El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transa
 
 Cuando el marido no estuviere presente, o estándolo rehusare entregar a la mujer lo necesario para los alimentos de ella y de los hijos, será responsable de las deudas que la esposa contraiga para cubrir esa exigencia; pero sólo en la cuantía estrictamente necesaria para ese objeto, y siempre que no se trate de gastos de lujo.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 323.
 
-La esposa que, sin culpa suya, se vea obligada a vivir separada de su marido, podrá pedir al juez de Primer Instancia del lugar de su residencia, que obligue a su esposo a darle alimentos durante la separación, y a que le ministre todos los que haya dejado de darle desde que la abandonó. El juez, según las circunstancias del caso, fijará la suma que el marido debe ministrar mensualmente, dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que el esposo pague los gastos que la mujer haya tenido que erogar con tal motivo.
+La esposa que sin culpa suya, se vea obligada a vivir separada de su marido, podrá pedir al Juez de lo Familiar del lugar de su residencia, que obligue a su esposo a darle alimentos durante la separación, y a que le ministre todos los que haya dejado de darle desde que la abandonó. El Juez según las circunstancias del caso fijará la suma que el marido debe ministrar mensualmente, dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que el esposo pague los gastos que la mujer haya tenido que erogar con tal motivo.
 
 ### CAPITULO V. De la adopción
 
@@ -2019,9 +2037,11 @@ V.- Por confesión judicial directa y expresa.
 
 Cuando el padre o la madre reconozcan separadamente a un hijo, no podrán revelar en el acto del reconocimiento el nombre de la persona con quien fue habido, ni exponer ninguna circunstancia por donde aquélla pueda ser identificada. Las palabras que contengan la revelación, se testarán de oficio, de modo que queden absolutamente ilegibles.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 371.
 
-El Oficial del Registro Civil, el juez de Primera Instancia en su caso, y el notario que consientan en la violación del artículo que precede, serán castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro, por un término que no baje de dos ni exceda de cinco años.
+El Oficial del Registro Civil, el Juez de lo Familiar, en su caso, y el notario que consientan en la violación del artículo que precede, serán castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro, por un término que no baje de dos ni exceda de cinco años.
 
 > <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
 
@@ -2057,13 +2077,17 @@ La mujer que cuida o ha cuidado de la lactancia de un niño, a quien le ha dado 
 
 Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquél sin efecto, y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio correspondiente.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 380.
 
-Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cuál de los dos ejercerá sobre él la patria potestad; y en el caso de que no lo hicieren, el Juez de lo Primera Instancia del lugar, oyendo a los padres y al Ministerio Público, resolverá lo que creyere más conveniente a los intereses del menor.
+Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cuál de los dos ejercerá su custodia; y en caso de que no lo hicieren, el Juez de lo Familiar del lugar, oyendo a los padres y al Ministerio Público resolverá lo que creyere más conveniente a los intereses del menor.
+
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 381.
 
-En caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, ejercerá la patria potestad el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el juez de Primer Instancia del lugar no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
+En caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, ejercerá la custodia el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el Juez de lo Familiar del lugar no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
 
 ###### ARTICULO 382.
 
@@ -2511,9 +2535,11 @@ La tutela es un cargo de interés público del que nadie puede eximirse, sino po
 
 El que se rehusare sin causa legal a desempeñar el cargo de tutor, es responsable de los daños y perjuicios que de su negativa resulten al incapacitado.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 454.
 
-La tutela se desempeñará por el tutor con intervención del curador, del juez pupilar y del Consejo Local de Tutelas, en los términos establecidos en este Código.
+La tutela se desempeñará por el tutor con intervención del curador, del Juez de lo Familiar y del Consejo Local de Tutelas, en los términos establecidos en este Código.
 
 ###### ARTICULO 455.
 
@@ -2531,15 +2557,19 @@ Cuando los intereses de alguno o algunos de los incapaces, sujetos a la misma tu
 
 Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al mismo tiempo por una sola persona. Tampoco pueden desempeñarse por personas que tengan entre sí parentesco en cualquier grado de la línea recta, o dentro del cuarto grado de la colateral.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 459.
 
-No pueden ser nombrados tutores o curadores las personas que desempeñen el Juzgado Pupilar y las que integren los Consejos Locales de Tutelas; ni los que estén ligados con parentesco de consanguinidad con las mencionadas personas, en la línea recta, sin limitación de grados, y en la colateral dentro del cuarto grado inclusive.
+No pueden ser nombrados tutores o curadores las personas que desempeñen el Juzgado de lo Familiar y las que integren los Consejos Locales de Tutelas; ni los que estén ligados con parentesco de consanguinidad con las mencionadas personas, en la línea recta, sin limitación de grados, y en la colateral dentro del cuarto grado inclusive.
+
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 460.
 
-Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al juez pupilar, dentro de ocho días, a fin de que se provea a la tutela, bajo la pena de veinticinco a cien pesos de multa.
+Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez de lo Familiar, dentro de ocho días, a fin de que se prevea a la tutela, bajo la pena de veinticinco a cien pesos de multa.
 
-Los Oficiales del Registro Civil, las autoridades administrativas y las judiciales tienen obligación de dar aviso a los jueces pupilares de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
+Los Oficiales del Registro Civil, de las autoridades administrativas y de las judiciales tienen obligación de dar aviso a los Jueces de lo Familiar de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
 
 ###### ARTICULO 461.
 
@@ -2573,9 +2603,11 @@ El cargo de tutor del demente, idiota, imbécil, sordo-mudo, ebrio consuetudinar
 
 La interdicción de que habla el artículo anterior no cesará sino por la muerte del incapacitado o por sentencia definitiva, que se pronunciará en juicio seguido conforme a las mismas reglas establecidas para el de interdicción.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 468.
 
-El juez pupilar del domicilio del incapacitado, y si no lo hubiere, el juez menor, cuidará provisionalmente de la persona y bienes del incapacitado, hasta que se nombre tutor.
+El Juez de lo Familiar del domicilio del incapacitado, y si no lo hubiere, el juez menor, cuidará provisionalmente de la persona y bienes del incapacitado, hasta que se nombre tutor.
 
 ###### ARTICULO 469.
 
@@ -2713,13 +2745,17 @@ I.- Cuando no hay tutor testamentario ni persona a quien conforme a la ley corre
 
 II.- Cuando el tutor testamentario esté impedido temporalmente de ejercer su cargo, y no hay ningún pariente de los designados en el artículo 483.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 496.
 
-El tutor dativo será designado por el menor si ha cumplido dieciséis años. El juez pupilar confirmará la designación si no tiene justa causa para reprobarla. Para reprobar las ulteriores designaciones que haga el menor, el juez oirá el parecer del Consejo Local de Tutelas. Si no se aprueba el nombramiento hecho por el menor, el juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
+El tutor dativo será designado por el menor si ha cumplido dieciséis años. El Juez de lo Familiar confirmará la designación si no tiene justa causa para reprobarla. Para reprobar las ulteriores designaciones que haga el menor, el Juez oirá el parecer del Consejo Local de Tutelas. Si no se aprueba el nombramiento hecho por el menor, el Juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
+
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 497.
 
-Si el menor no ha cumplido dieciséis años, el nombramiento de tutor lo hará el juez pupilar de entre las personas que figuren en la lista formada cada año por el Consejo Local de Tutelas, oyendo al Ministerio Público, quien debe cuidar de que quede comprobada la honorabilidad de la persona elegida para tutor.
+Si el menor no ha cumplido dieciséis años, el nombramiento de tutor lo hará el Juez de lo Familiar de entre las personas que figuren en la lista formada cada año por el Consejo Local de Tutelas oyendo al Ministerio Público, quien debe cuidar de que quede comprobada la honorabilidad de la persona elegida para tutor.
 
 ###### ARTICULO 498.
 
@@ -2729,9 +2765,11 @@ Si el juez no hace oportunamente el nombramiento de tutor, es responsable de los
 
 Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 500.
 
-A los menores de edad que no estén sujetos a patria potestad, ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en este caso tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del Consejo Local de Tutelas, del Ministerio Público, del mismo menor, y aun de oficio por el juez pupilar.
+A los menores de edad que no estén sujetos a la patria potestad, ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en este caso tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del Consejo Local de Tutelas, del Ministerio Público, del mismo menor, y aún de oficio por el Juez de lo Familiar.
 
 ###### ARTICULO 501.
 
@@ -2749,9 +2787,9 @@ V.- Los miembros de las juntas de beneficencia pública o privada que disfruten 
 
 VI.- Los directores de establecimientos de beneficencia pública.
 
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
 
-Los jueces pupilares nombrarán de entre las personas mencionadas las que en cada caso deban desempeñar la tutela, procurando que este cargo se reparta equitativamente, sin perjuicio de que también puedan ser nombrados tutores las personas que figuren en las listas que deben formar los Consejos Locales de Tutela, conforme a lo dispuesto en el Capítulo XV de este Título, cuando estén conformes en desempeñar gratuitamente la tutela de que se trata.
+Los Jueces de lo Familiar nombrarán de entre las personas mencionadas las que en cada caso deban desempeñar la tutela, procurando que este cargo se reparta equitativamente, sin perjuicio de que también puedan ser nombrados tutores las personas que figuren en las listas que deben formar los Consejos Locales de Tutela, conforme a lo dispuesto en el Capítulo XV de este título, cuando estén conformes en desempeñar gratuitamente la tutela de que se trata.
 
 ###### ARTICULO 502.
 
@@ -2909,9 +2947,11 @@ IV.- Los que acojan a un expósito, lo alimenten y eduquen convenientemente por 
 
 Los comprendidos en la fracción I del artículo anterior, sólo estarán obligados a dar garantía cuando con posterioridad a su nombramiento haya sobrevenido causa ignorada por el testador que, a juicio del juez y previa audiencia del curador, haga necesaria aquélla.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 522.
 
-La garantía que presten los tutores no impedirá que el Juez Pupilar, a moción del Ministerio Público, del Consejo Local de Tutelas, de los parientes próximos del incapacitado o de éste si ha cumplido dieciséis años, dicte las providencias que se estimen útiles para la conservación de los bienes del pupilo.
+La garantía que presten los tutores no impedirá que el Juez de lo Familiar, a moción del Ministerio Público, del Consejo Local de Tutelas, de los parientes próximos del incapacitado o de éste si ha cumplido dieciséis años, dicte las providencias que se estimen útiles para la conservación de los bienes del pupilo.
 
 ###### ARTICULO 523.
 
@@ -3011,9 +3051,11 @@ Los gastos de alimentación y educación del menor deben regularse de manera que
 
 Cuando el tutor entre en el ejercicio de su cargo, el juez fijará, con audiencia de aquél, la cantidad que haya de invertirse en los alimentos y educación del menor, sin perjuicio de alterarla, según el aumento o disminución del patrimonio y otras circunstancias. Por las mismas razones podrá el juez alterar la cantidad que el que nombró tutor hubiere señalado para dicho objeto.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 540.
 
-El tutor destinará al menor a la carrera u oficio que éste elija, según sus circunstancias. Si el tutor infringe esta disposición, puede el menor, por conducto del curador, del Consejo Local de Tutelas o por sí mismo, ponerlo en conocimiento del juez pupilar, para que dicte las medidas convenientes.
+El tutor destinará al menor a la carrera u oficio que éste elija, según sus circunstancias. Si el tutor infringe esta disposición, puede el menor, por conducto del curador, del Consejo Local de Tutelas o por sí mismo, ponerlo en conocimiento del Juez de lo Familiar, para que dicte las medidas convenientes.
 
 ###### ARTICULO 541.
 
@@ -3027,17 +3069,21 @@ Si las rentas del menor no alcanzan a cubrir los gastos de su alimentación y ed
 
 Si los pupilos fuesen indigentes o careciesen de suficientes medios para los gastos que demanden su alimentación y educación, el tutor exigirá judicialmente la prestación de esos gastos a los parientes que tienen obligación legal de alimentar a los incapacitados. Las expensas que esto origine, serán cubiertas por el deudor alimentario. Cuando el mismo tutor sea el obligado a dar alimentos por razón de su parentesco con el pupilo, el curador ejercitará la acción a que este artículo se refiere.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 544.
 
-Si los pupilos indigentes no tienen personas que estén obligadas a alimentarlos, o si teniéndolas no pudieren hacerlo, el tutor, con autorización del juez pupilar, quien oirá el parecer del curador y del Consejo Local de Tutelas, pondrá al pupilo en un establecimiento de beneficencia pública o privada en donde pueda educarse. Si ni eso fuere posible, el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por esto el tutor queda eximido de su cargo, pues continuará vigilando al menor, a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
+Si los pupilos indigentes no tienen personas que estén obligadas a alimentarlos, o si teniéndolas no pudieren hacerlo, el tutor, con autorización del Juez de lo Familiar, quien oirá el parecer del curador y del Consejo Local de Tutelas, pondrá al pupilo en un establecimiento de beneficencia pública o privada en donde pueda educarse. Si ni eso fuere posible, el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por eso el tutor queda eximido de su cargo, pues continuará vigilando al menor, a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
 
 ###### ARTICULO 545.
 
 Los incapacitados indigentes que no puedan ser alimentados y educados por los medios previstos en los dos artículos anteriores, lo serán a costa de las rentas públicas del Distrito o de los Territorios Federales, según el lugar donde estén domiciliados; pero si se llega a tener conocimiento de que existen parientes del incapacitado que estén legalmente obligados a proporcionarle alimentos, el Ministerio Público deducirá la acción correspondiente para que se reembolse al Gobierno de los gastos que hubiere hecho en cumplimiento de lo dispuesto por este artículo.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 546.
 
-El tutor de los incapacitados a que se refiere la fracción II del artículo 537, está obligado a presentar al juez pupilar, en el mes de enero de cada año, un certificado de dos facultativos que declaren acerca del estado del individuo sujeto a interdicción, a quien para este efecto reconocerán en presencia del curador. El juez se cerciorará del estado que guarda el incapacitado y tomará todas las medidas que estime convenientes para mejorar su condición.
+El tutor de los incapacitados a que se refiere la fracción II del artículo 537, está obligado a presentar al Juez de lo Familiar, en el mes de enero de cada año, un certificado de dos médicos psiquiatras que declaren acerca del estado del individuo sujeto a interdicción, a quien para ese efecto reconocerán en presencia del curador. El Juez se cerciorará del estado que guarda el incapacitado y tomará todas las medidas que estime convenientes para mejorar su condición.
 
 ###### ARTICULO 547.
 
@@ -3427,29 +3473,43 @@ En los casos en que conforme a este Código tenga que intervenir el curador, cob
 
 En cada Municipalidad habrá un Consejo Local de Tutelas compuesto de un presidente y de dos vocales, que durarán un año en el ejercicio de su cargo. Serán nombrados por los respectivos Ayuntamientos en la primera sesión que celebre, en el mes de enero de cada año, procurando que los nombramientos recaigan en personas que sean de notorias buenas costumbres y que tengan interés en proteger a la infancia desvalida.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 632.
 
-El Consejo Local de Tutelas es un órgano de vigilancia y de información, que, además de las funciones que expresamente le asignan varios de los artículos que preceden, tiene las obligaciones siguientes:
+El Consejo Local de Tutelas es un órgano de vigilancia y de información, que, además de las funciones que expresamente le asignen varios de los artículos que preceden, tiene las obligaciones siguientes:
 
-I.- Formar y remitir a los jueces pupilares una lista de las personas de la localidad que, por su aptitud legal y moral, puedan desempeñar la tutela, para que de entre ellas se nombren los tutores y curadores, en los casos que estos nombramientos correspondan al juez;
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 1971)</small>
 
-II.- Velar porque los tutores cumplan sus deberes, especialmente en lo que se refiere a la educación de los menores; dando aviso al juez pupilar de las faltas u omisiones que notare;
+I.- Formar y remitir a los Jueces de lo Familiar una lista de las personas de la localidad que, por su aptitud legal y moral, puedan desempeñar la tutela, para que de entre ellas se nombren los tutores y curadores, en los casos que estos nombramientos correspondan al Juez;
 
-III.- Avisar al juez pupilar cuando tenga conocimiento de que los bienes de un incapacitado están en peligro, a fin de que dicte las medidas correspondientes;
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 1971)</small>
 
-IV.- Investigar y poner en conocimiento del juez pupilar qué incapacitados carecen de tutor, con el objeto de que se hagan los respectivos nombramientos;
+II.- Velar porque los tutores cumplan sus deberes, especialmente en lo que se refiere a la educación de los menores; dando aviso al Juez de lo Familiar de las faltas u omisiones que notare;
+
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 1971)</small>
+
+III.- Avisar al Juez de lo Familiar cuando tenga conocimiento de que los bienes de un incapacitado están en peligro, a fin de que dicte las medidas correspondientes;
+
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 1971)</small>
+
+IV.- Investigar y poner en conocimiento del Juez de lo Familiar qué incapacitados carecen de tutor, con el objeto de que se hagan los respectivos nombramientos;
 
 V.- Cuidar con especialidad de que los tutores cumplan la obligación que les impone la fracción II del artículo 537;
 
 VI.- Vigilar el registro de tutelas, a fin de que sea llevado en debida forma.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+
 ###### ARTICULO 633.
 
-Los jueces pupilares son las autoridades encargadas exclusivamente de intervenir en los asuntos relativos a la tutela. Ejercerán una sobrevigilancia sobre el conjunto de los actos del tutor, para impedir por medio de disposiciones apropiadas, la transgresión de sus deberes.
+Los Jueces de lo Familiar son las autoridades encargadas exclusivamente de intervenir en los asuntos relativos a la tutela. Ejercerán una sobrevigilancia sobre el conjunto de los actos del tutor, para impedir, por medio de disposiciones apropiadas, la transgresión de sus deberes.
+
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 634.
 
-Mientras que se nombra tutor, el juez pupilar debe dictar las medidas necesarias para que el incapacitado no sufra perjuicios en su persona o en sus intereses.
+Mientras que se nombra tutor, el Juez de lo Familiar debe dictar las medidas necesarias para que el incapacitado no sufra perjuicios en su persona o en sus intereses.
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
@@ -5877,9 +5937,7 @@ ARTICULO 1,293.- Si dos o más coherederos quisieren hacer uso del derecho del t
 
 ARTICULO 1,294.- El derecho concedido en el artículo 1,292 cesa si la enajenación se hace a un coheredero.
 
-### CAPITULO II. (sic)
-
-ARTICULO 1,244.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+### CAPITULO II. ARTICULO 1,244.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
 ARTICULO 1,245.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
@@ -11778,3 +11836,9 @@ D.O.F. 28 DE ENERO DE 1970.
 ###### ARTICULO UNICO.
 
 El presente decreto surtirá sus efectos a los tres días de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 24 DE MARZO DE 1971.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor en la misma fecha que las reformas a la Ley Orgánica de Tribunales de Justicia del Fuero Común del Distrito y Territorios Federales, aprobadas por el H. Congreso de la Unión en el presente período extraordinario de sesiones.
