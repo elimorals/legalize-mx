@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "1987-08-08"
+last_updated: "1987-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 1987.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -191,6 +191,10 @@ Dirección General de Comunicaciones y Obras Públicas.
 
 Dirección General de Desarrollo Urbano y Vivienda.
 
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+
+Dirección General de Desarrollo Rural.
+
 Procuraduría General de Justicia.
 
 Adscritas directamente al Ejecutivo existirán las siguientes unidades de apoyo y asesoría:
@@ -315,25 +319,27 @@ XII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relaci
 
 XIII.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+
 ###### ARTICULO 28.
 
 A la Dirección General de Fomento Económico corresponde el despacho de los siguientes asuntos:
 
-I.- Promover y fomentar las actividades industriales;
+I.- Promover, fomentar e impulsar las actividades industriales, comerciales, turísticas y mineras de la entidad;
 
-II.- Impulsar y promover el turismo y el comercio en la Entidad;
+II.- Asesorara y orientar a los inversionistas para la creación de empresas industriales, comerciales, turísticas y mineras;
 
-III.- Fomentar las actividades agrícolas, ganaderas, frutícolas, forestales y mineras, promoviendo el crédito, la organización, los seguros y la tecnificación, en coordinación con las dependencias federales, municipales y los sectores social y privado;
+III.- Establecer un sistema de información industrial, comercial, turístico y minero, así como los mecanismos necesarios para su difusión;
 
-IV.- Aprovechar y distribuir las aguas de jurisdicción estatal y planear obras de riego;
+IV.- Levantar y mantener actualizado el inventario de recursos naturales y de infraestructura industrial, comercial, turístico y minero;
 
-V.- Establecer, operar y mantener el servicio metereológico y geográfico en el Estado y difundir la información correspondiente;
+V.- Proporcionar asistencia técnica a la pequeña y mediana minería e industria en coordinación con el gobierno federal, estatal y municipal, así como los sectores privados y social;
 
-VI.- Establecer la representación que al Estado corresponda en la Comisión Agraria Mixta;
+VI.- Coordinar los planes y programas en materia financiera, fiscal, administrativa y social para lograr un mejor funcionamiento del sector minero, industrial y de servicios;
 
-VII.- Controlar y vigilar el funcionamiento de las colonias agrícolas y ganaderas organizadas al amparo de la legislación local; asesorar y vigilar el funcionamiento administrativo de los mancomunes;
+VII.- Establecer acciones y programas encaminados hacia la modernización del sector comercial y la función del abasto en el estado, en coordinación con el gobierno federal, estatal y municipal y los sectores privado y social;
 
-VIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones de desarrollo industrial, turístico, rural y minero, así como vigilar la organización y el funcionamiento de los departamentos que ejerzan las atribuciones anteriores; y
+VIII.- Dirigir y vigilar el cumplimiento de las leyes, reglamentos y demás disposiciones legales en materia de industria, comercio, turismo y minería;
 
 IX.- Las demás que le fijen expresamente las leyes y sus reglamentos.
 
@@ -431,7 +437,29 @@ XII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relaci
 
 XIII.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+
 ###### ARTICULO 32.
+
+A la Dirección General de Desarrollo Rural corresponde el despacho de los siguientes asuntos:
+
+I.- Promover y fomentar las actividades agrícolas, ganaderas, frutícolas y forestales, promoviendo el crédito, la organización, los seguros y la tecnificación en coordinación con las dependencias federales, municipales y los sectores social y privado;
+
+II.- Aprovechar y distribuir las aguas de jurisdicción estatal y planear obras de riego;
+
+III.- Establecer, operar y mantener el servicio meteorológico y geográfico en el estado y difundir la información correspondiente;
+
+IV.- Establecer la representación que al Estado corresponda en la Comisión Agraria Mixta;
+
+V.- Controlar y vigilar el funcionamiento de las colonias agrícolas y ganaderas organizadas al amparo de la legislación local;
+
+VI.- Asesorar y vigilar el funcionamiento administrativo de los mancomunes;
+
+VII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones del desarrollo agropecuario, así como vigilar la organización y el funcionamiento de los departamentos que ejerzan las atribuciones anteriores; y
+
+VIII.- Las demás que le fijen expresamente las leyes y sus reglamentos.
+
+###### ARTICULO 33.
 
 La Procuraduría General de Justicia es la dependencia del Poder Ejecutivo del Estado, en la que se integran la Institución del Ministerio Público Local y sus órganos auxiliares directos, para el despacho de los asuntos que a aquélla y a su titular, en su caso, atribuyen la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, el presente ordenamiento y las demás disposiciones legales y reglamentarias aplicables.
 
@@ -449,7 +477,7 @@ V.- La que le confiere el artículo 4° de esta Ley.
 
 El Procurador intervendrá por sí o por conducto de los Agentes del Ministerio Público en el ejercicio de las atribuciones a que se refiere este artículo, según las previsiones de las leyes y reglamentos y los acuerdos que dicte el Ejecutivo Local o el propio Procurador. El Reglamento prevendrá la distribución de los asuntos entre las unidades técnicas y administrativas de la dependencia.
 
-###### ARTICULO 33.
+###### ARTICULO 34.
 
 La Coordinación de Planeación y Evaluación tiene las siguientes atribuciones:
 
@@ -469,7 +497,7 @@ VII.- Recibir y revisar las declaraciones patrimoniales de los funcionarios y en
 
 VIII.- Las demás que la (sic) atribuyan expresamente las Leyes y sus Reglamentos.
 
-###### ARTICULO 34.
+###### ARTICULO 35.
 
 La Coordinación de Fortalecimiento Municipal tendrá las siguientes atribuciones:
 
@@ -483,7 +511,7 @@ IV.- Apoyar a los Ayuntamientos en las acciones tendientes al logro de su desarr
 
 V.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
-###### ARTICULO 35.
+###### ARTICULO 36.
 
 La Coordinación de Comunicación Social tendrá las siguientes atribuciones:
 
@@ -495,10 +523,6 @@ III.- Captar y compilar la información noticiosa publicada, que se relacione co
 
 IV.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
-###### ARTICULO 36.
-
-Dentro de la Administración Pública Paraestatal, serán considerados como organismos descentralizados las instituciones creadas por disposición del Congreso del Estado, o por el Ejecutivo, con personalidad jurídica, competencia y patrimonio propios, cualquiera que sea la forma o estructura legal que adopten.
-
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
 ### CAPITULO UNICO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
@@ -506,6 +530,10 @@ Dentro de la Administración Pública Paraestatal, serán considerados como orga
 ### CAPITULO III. UNIDADES DE APOYO Y ASESORIA ADSCRITAS DIRECTAMENTE AL EJECUTIVO
 
 ###### ARTICULO 37.
+
+Dentro de la Administración Pública Paraestatal, serán considerados como organismos descentralizados las instituciones creadas por disposición del Congreso del Estado, o por el Ejecutivo, con personalidad jurídica, competencia y patrimonio propios, cualquiera que sea la forma o estructura legal que adopten.
+
+###### ARTICULO 38.
 
 Dentro de la Administración Pública Paraestatal se consideran Empresas de participación estatal mayoritaria, aquéllas que satisfagan alguno de los siguientes requisitos.
 
@@ -515,11 +543,11 @@ II.- Que en la constitución de su capital se hagan figurar acciones de serie es
 
 III.- Que al Gobierno del Estado corresponda la facultad de nombrar a la mayoría de los miembros del consejo de administración, junta directiva u órgano de gobierno; designar al presidente, al director, al gerente; o cuando tenga facultades para vetar los acuerdos de la asamblea general de accionistas, del consejo de administración o de la junta directiva u órgano de gobierno equivalente.
 
-###### ARTICULO 38.
+###### ARTICULO 39.
 
 Se asimilan a las empresas de participación estatal mayoritaria, las sociedades civiles, así como las asociaciones civiles en las que la mayoría de sus asociados o socios sean dependencias o entidades de las mencionadas en la fracción I del artículo anterior, o alguno o varios de ellos se obliguen a realizar o realicen las aportaciones económicas preponderantes.
 
-###### ARTICULO 39.
+###### ARTICULO 40.
 
 Para los efectos de esta Ley serán empresas de participación estatal minoritaria, las sociedades en las que uno o más organismos descentralizados u otras empresas de participación estatal mayoritaria consideradas conjunta o separadamente, posean acciones o partes del capital que representen menos del 50% y hasta el 25% de aquél.
 
@@ -527,27 +555,27 @@ La vigilancia de la participación estatal estará a cargo de un Comisario desig
 
 Las relaciones de las empresas de participación estatal minoritaria con la administración pública centralizada o paraestatal, serán las que determine la ley.
 
-###### ARTICULO 40.
+###### ARTICULO 41.
 
 Los fideicomisos a que se refiere esta ley, serán los establecidos por la administración pública centralizada, así como los que se creen con recursos de las entidades a que alude el Artículo 3o. de este propio ordenamiento. La Dirección General de Finanzas fungirá como fideicomitente único de la administración pública centralizada, en los fideicomisos que ésta constituya.
 
-###### ARTICULO 41.
+###### ARTICULO 42.
 
 El Gobernador del Estado está facultado para determinar agrupamientos de entidades de la administración pública paraestatal, por sectores definidos, a efecto de que sus relaciones con el Ejecutivo, en cumplimiento de las disposiciones legales aplicables, se realicen a través de la dependencia que en cada caso designe como coordinadora del sector correspondiente.
 
-###### ARTICULO 42.
+###### ARTICULO 43.
 
 Corresponderá a la dependencia encargada de la coordinación del sector a que se refiere el artículo anterior, supervisar la programación, coordinación y evaluación de la operación de las entidades de la administración pública paraestatal que determine el Ejecutivo.
 
-###### ARTICULO 43.
+###### ARTICULO 44.
 
 El Ejecutivo en los casos que proceda, determinará qué funcionarios habrán de ejercer las facultades que implica la titularidad de las acciones que formen parte del capital social de las entidades de la administración paraestatal.
 
-###### ARTICULO 44.
+###### ARTICULO 45.
 
 Las entidades de la administración pública paraestatal deberán proporcionar a las demás entidades del sector donde se encuentren agrupadas, la información y datos que les soliciten.
 
-###### ARTICULO 45.
+###### ARTICULO 46.
 
 Los consejos de administración, junta directiva o sus equivalentes serán responsables de la programación de las entidades paraestatales.
 
@@ -628,3 +656,7 @@ El cambio de la Dependencia a que se refiere el Artículo Segundo transitorio al
 ###### ARTICULO QUINTO.
 
 Los documentos del sector vivienda sujetos a trámite por parte de la "Dirección General de Desarrollo Urbano y Vivienda", seguirán su curso respectivo por conducto del Instituto creado en esta Ley.
+
+P.O. 12 DE SEPTIEMBRE DE 1987.
+
+UNICO: Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
