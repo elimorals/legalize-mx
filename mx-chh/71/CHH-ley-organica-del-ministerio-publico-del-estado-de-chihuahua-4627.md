@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-ministerio-publico-del-estado-de-chihuahua-462
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-01-08"
-last_updated: "2002-11-23"
+last_updated: "2004-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2004.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 8 de enero de 1992.
 
@@ -67,7 +67,9 @@ IV.- Recabar de cualquier oficina pública los informes y datos que estime neces
 
 La autoridad que sin causa justificada se niegue a proporcionar los informes o datos que sele soliciten, incurrirá en responsabilidad administrativa en los términos previstos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Chihuahua.
 
-V.- Citar a cuanta persona pueda aportar datos para la investigación de los delitos y, en caso de no comparecer, ordenar su localización y presentación por conducto de la policía judicial o de los cuerpos de seguridad pública que actúen en su auxilio, sujetándose en todo momento al principio de respeto a los derechos de los individuos;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+V.- Citar a cuanta persona pueda aportar datos para la investigación de los delitos y, en caso de no comparecer, ordenar su localización y presentación por conducto de la Policía al mando del ministerio público o de los cuerpos de seguridad pública que actúen en su auxilio, sujetándose en todo momento al principio de respeto a los derechos de los individuos;
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
 
@@ -121,7 +123,9 @@ IX.- Interponer los recursos que la ley concede y expresar los agravios correspo
 
 X.- En general hacer todas las promociones que sean conducentes a la tramitación regular de los procesos;
 
-XI.- Remitir las órdenes de aprehensión emitidas por los Juzgados a fin de que la Policía Judicial proceda a su ejecución, vigilando su debido cumplimiento; y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+XI.- Remitir las órdenes de aprehensión emitidas por los juzgados a fin de que la Policía al mando del ministerio público proceda a su ejecución, vigilando su debido cumplimiento; y
 
 XII.- Concurrir diariamente a los Tribunales para oír y recibir las notificaciones que deban hacerse y acudir a las audiencias y diligencias que requieran su presencia.
 
@@ -143,9 +147,11 @@ La intervención del Ministerio Público en la aplicación de las medidas de pol
 
 ### CAPITULO SEGUNDO. DE LA ORGANIZACION
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 4o.
 
-La institución del Ministerio Público estará a cargo de un Procurador General de Justicia e integrada por los servidores públicos siguientes:
+La institución del Ministerio Público estará a cargo de un Procurador General de Justicia, designado en los términos que establecer la Constitución Política del Estado y la Ley Orgánica del Poder Ejecutivo del Estado, integrándose por los servidores públicos siguientes:
 
 I.- El Subprocurador General;
 
@@ -197,7 +203,9 @@ La Procuraduría contará, además, con las oficinas de apoyo técnico y adminis
 
 Son auxiliares directos del Ministerio Público del Estado, debiendo obedecer y ejecutar las órdenes que reciba de éste, en ejercicio de sus funciones:
 
-I.- La Policía Judicial del Estado;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+I.- La Policía que esté bajo su autoridad y mando;
 
 II.- Los Servicios Periciales de la Procuraduría General del Estado;
 
@@ -225,7 +233,11 @@ IV.- Celebrar Convenios de Coordinación Operativa y de Cooperación Técnica Ci
 
 V.- Aprobar el anteproyecto de presupuesto anual de egresos de la dependencia y someterlo a la consideración de la Dirección General correspondiente;
 
-VI.- Comparecer ante el Congreso del Estado o su Diputación Permanente, cuando sea invitado para informar sobre la situación que guarda la dependencia a su cargo, o bien, en los casos en que se discuta una ley o se estudie un asunto concerniente a sus actividades;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+VI.- Comparecer ante el Congreso del Estado o su Diputación Permanente, cuando sea invitado para informar sobre la situación que guarda la dependencia a su cargo, o bien, en los casos en que se discuta una ley o se estudie un asunto concerniente a sus actividades.
+
+El Procurador General de Justicia concurrirá al Congreso a través de la Junta de Coordinación Parlamentaria, cuando menos una vez al año, para analizar el estado que guarda su gestión;
 
 VII.- Asistir, si lo estima conveniente, teniendo sólo voz, a los Plenos del Supremo Tribunal de Justicia del Estado;
 
@@ -361,7 +373,9 @@ II.- Las demás funciones que les asignen otra (sic) disposiciones legales o reg
 
 Compete a la Academia Estatal de Policía:
 
-I.- Establecer e impartir cursos de formación básica, de actualización, de especialización, de investigación en criminología, cirminalística (sic), Derecho Penal y Garantías Individuales, para elementos de la policía judicial y de otros órganos de seguridad pública;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+I.- Establecer e impartir cursos de formación básica, de actualización, de especialización, de investigación De criminología, criminalística, Derecho Penal y Garantías Individuales, para elementos de la policía al mando del ministerio público y de otros órganos de seguridad pública;
 
 II.- Asesorar a personas y organismos públicos y privados que lo soliciten y tener participación consultiva den (sic) el estudio, la formulación y la aplicación de medidas colectivas en el ámbito de su especialidad, de acuerdo con los lineamientos que establezca el consejo académico;
 
@@ -385,9 +399,11 @@ Los Subprocuradores, Jefes de Departamento y demás servidores públicos de la P
 
 Para ser Subprocurador se deben reunir los mismos requisitos que para ser Procurador General.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 21.
 
-En la designación del personal del Ministerio Público, de la Policía Judicial y de los Servicios Periciales de la Procuraduría, sin perjuicio de las normas complementarias contenidas en el reglamento de esta Ley, se atenderá a las siguientes disposiciones:
+En la designación del personal del Ministerio Público, de la Policía al mando del ministerio público y de los Servicios Periciales de la Procuraduría, sin perjuicio de las normas complementarias contenidas en el reglamento de esta Ley, se atenderá a las siguientes disposiciones:
 
 Para ser Agente del Ministerio Público se requiere:
 
@@ -401,25 +417,37 @@ IV.- Ser Licenciado en Derecho, con autorización para el ejercicio de su profes
 
 V.- Aprobar el examen de ingreso.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 Además de los requisitos anteriores, los Coordinadores de Región y los Agentes del Ministerio Público Auxiliares adscritos a la Procuraduría y a las Subprocuradurías deberán tener cuando menos tres años de ejercicio profesional.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 Los Subagentes del Ministerio Público deberán satisfacer iguales exigencias a las señaladas para los Agentes del Ministerio Público, pero se podrán dispensar los requisitos de las fracciones IV y V cuando las necesidades del servicio así lo ameriten.
 
-Para ser Agente Investigador de la Policía Judicial se deben reunir los requisitos previstos en las fracciones I y II y haber egresado de la Academia Estatal de Policía.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+Para ser Agente Investigador de la Policía al mando del ministerio público se deben reunir los requisitos previstos en las fracciones I y II y haber egresado de la Academia Estatal de Policía.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
 Para ser Perito de la Procuraduría es preciso reunir los requisitos de las fracciones I y II y tener título legalmente expedido por la institución o autoridad facultada para ello, o acreditar ante la comisión que nombre el Procurador que posee los conocimientos técnicos, artísticos o científicos correspondientes a la disciplina sobre la que deben dictaminar.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 22.
 
-Para ingresar o permanecer al servicio de la Procuraduría como Agente del Ministerio Público, de la Policía Judicial o miembro de los Servicios Periciales, los interesados deben presentar y aprobar los exámenes de ingreso y acreditar los cursos de profesionalización y especialización que imparta la institución por sí o por conducto de otra que designe y, a juicio del Procurador, participar en los concursos de oposición o méritos a que se convoque.
+Para ingresar o permanecer al servicio de la Procuraduría como Agente del Ministerio Público, de la Policía al mando del ministerio público o miembro de los Servicios Periciales, los interesados deben presentar y aprobar los exámenes de ingreso y acreditar los cursos de profesionalización y especialización que imparta la institución por sí o por conducto de otra que designe y, a juicio del Procurador, participar en los concursos de oposición o méritos a que se convoque.
 
 ###### ARTICULO 23.
 
 El personal de la Procuraduría podrá auxiliar a otras autoridades que legalmente lo requieran, en el despacho de actividades compatibles con las funciones de aquél, sin quedar comisionados o adscritos a otra dependencia o entidad de la administración pública, previo acuerdo del Procurador, el que se emitirá discrecionalmente, tomando en cuenta las necesidades y posibilidades de la Procuraduría.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 24.
 
-La Policía Judicial y los Servicios Periciales actuarán bajo la autoridad y mando del Ministerio Público, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, auxiliándolo en la investigación de los delitos del fuero común. La Policía Judicial desarrollará las diligencias que deben practicarse durante la averiguación previa exclusivamente para los fines de ésta, cumplirá las citaciones, notificaciones y presentaciones que se le encomienden y ejecutará las órdenes de aprehensión, los cateos y otros mandamientos que emita la autoridad judicial. Dicho cuerpo policiaco podrá investigar los hechos delictuosos de que tenga noticia directamente, debiendo en este caso hacerlo del conocimiento inmediato del Agente del Ministerio Público que corresponda.
+La Policía y los Servidores (sic) Periciales actuarán bajo la autoridad y mando del Ministerio Público, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, auxiliándolo en la investigación de los delitos del fuero común. La Policía al mando del ministerio público desarrollará las diligencias que deben practicarse durante la averiguación previa exclusivamente para los fines de ésta, cumplirá las citaciones, notificaciones y presentaciones que se le encomienden y ejecutará las órdenes de aprehensión, los cateos y otros mandamientos que emita la autoridad judicial. Dicho cuerpo policiaco podrá investigar los hechos delictuosos de que tenga noticia directamente debiendo en este caso hacerlo del conocimiento inmediato del Agente del Ministerio Público que corresponda.
 
 Toda investigación, por grave que se considere el hecho delictuoso que la genere, se deberá realizar bajo principios técnicos y aprovechando en lo conducente los avances científicos y garantizando el absoluto respeto a los derechos humanos.
 
@@ -459,7 +487,9 @@ I.- Amonestación;
 
 II.- Suspensión en el empleo, cargo o comisión hasta por un período máximo de diez días;
 
-III.- Arresto hasta por setenta y dos horas, cuando se trate de Agentes de la Policía Judicial.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
+
+III.- Arresto hasta por setenta y dos horas, cuando se trate de Agentes de la Policía al mando del ministerio público.
 
 ###### ARTICULO 29.
 
@@ -473,9 +503,11 @@ Los Peritos y Médicos Legistas al servicio del Ministerio Público deberán exc
 
 El Gobernador del Estado calificará las excusas del Procurador y éste las de los demás funcionarios de la institución designado, en su caso, al funcionario que atienda el asunto.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 32.
 
-Ningún funcionario o empleado del Ministerio Público, de la Policía Judicial o de los Servicios Periciales podrá desempeñar otro puesto oficial, salvo los de carácter docente o de beneficencia, siempre que no concurran con alguno de otro ramo. Tampoco podrá ejercer la abogacía sino en causa propia, de su cónyuge o concubina, de sus ascendientes o descendientes, de sus hermanos, adoptante o adoptado. No podrá ejercer ni desempeñar las funciones de depositario o apoderado judicial, tutor, curador, albacea judicial a no ser que tenga el carácter de heredero o legatario. El mismo impedimento habrá para ser síndico, administrador, interventor de quiebra o concurso, corredor, comisionista, árbitro o arbitrador.
+Ningún funcionario o empleado del Ministerio Público, de la Policía a su mando o de los Servicios Periciales podrá desempeñar otro puesto oficial, salvo los de carácter docente o de beneficencia, siempre que no concurran con alguno de otro ramo. Tampoco podrá ejercer la abogacía sino en causa propia, de su cónyuge o concubina, de sus ascendientes o descendientes, de sus hermanos, adoptante o adoptado. No podrá ejercer ni desempeñar las funciones de depositario o apoderado judicial, tutor, curador, albacea judicial a no ser que tenga el carácter de heredero o legatario. El mismo impedimento habrá para ser síndico, administrador, interventor de quiebra o concurso, corredor, comisionista, árbitro o arbitrador.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 1995)</small>
 
@@ -483,9 +515,11 @@ Ningún funcionario o empleado del Ministerio Público, de la Policía Judicial 
 
 El funcionario del Ministerio Público encargado de la averiguación previa, deberá permitir al inculpado y al ofendido o a sus representantes, consultar el expediente respectivo. Asimismo, previa solicitud, les expedirá copias certificadas dé las actuaciones y registros que consten en el expediente.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 34.
 
-La desobediencia o resistencia a las ordenes legalmente fundadas del Ministerio Público o de la Policía Judicial, dará lugar al empleo de las medidas de apremio y correcciones disciplinarias según el caso, en los términos que previene el Capítulo V del Código de Procedimientos Penales. Cuando la desobediencia o resistencia constituya delito, se iniciará la averiguación previa conforme a derecho.
+La desobediencia o resistencia a las órdenes legalmente fundadas del Ministerio Público o de la Policía que actúa bajo su mando, dará lugar al empleo de las medidas de apremio y correcciones disciplinarias según el caso, en los términos que previene el Capítulo V del Código de Procedimientos Penales. Cuando la desobediencia o resistencia constituya delito, se iniciará la averiguación previa conforme a derecho.
 
 T R A N S I T O R I O S:
 
@@ -564,3 +598,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 2 DE OCTUBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
