@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "1988-10-05"
+last_updated: "1989-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 1989.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -173,9 +173,11 @@ Toda acta deberá asentarse en las formas especiales que determine el Ejecutivo,
 
 38.- Las actas del registro civil sólo se pueden asentar en las formas de que habla el artículo anterior.
 
-(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987) (F. DE E., P.O. 3 DE OCTUBRE DE 1987)
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 1989)</small>
 
-39.- Si se perdiere o destruyere alguno de los libros o formas del registro, se sacará inmediatamente copia del otro ejemplar, ya sea que la pérdida ocurra en las oficinas del registro civil o en el Archivo General del Poder Ejecutivo, al cual deberán remitirse los duplicados. El Procurador General de Justicia cuidará de que se cumpla esta disposición y con ese objeto el jefe de la oficina del registro o el jefe del archivo, deberán darle aviso de la pérdida.
+39.- Si se perdiere o destruyere alguno de los libros o formas del Registro, se sacará directamente copia del otro ejemplar, ya sea que la pérdida ocurra en las Oficinas del Registro Civil o en el archivo del Departamento, al cual deberán remitirse los duplicados.
+
+El Procurador General de Justicia cuidará de que se cumpla esta disposición y con ese objeto el Jefe de la Oficina correspondiente o el Jefe del Departamento, deberán darle aviso de la pérdida.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
@@ -189,7 +191,9 @@ Toda acta deberá asentarse en las formas especiales que determine el Ejecutivo,
 
 42.- Una vez integrados los libros, deberán ser autorizados en su primera y última hojas por el Jefe del Departamento, con su firma y sello, imprimiéndose éste en las demás hojas. En la última se dejará un espacio suficiente para cerrar el libro con un acta en que se hagan constar la fecha en que así se procede y el número de actas levantadas.
 
-Los libros originales y los documentos correspondientes quedarán en el archivo de la oficina, remitiéndose los duplicados al Archivo del Poder Ejecutivo, por conducto del Departamento.
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 1989)</small>
+
+Los libros originales y los documentos correspondientes quedarán en el archivo de la oficina y los duplicados en el archivo del Departamento.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
@@ -209,21 +213,21 @@ En toda acta del estado civil, se anotará la clave única del registro de pobla
 
 46.- Los testigos que intervengan en las actas del registro civil, serán mayores de edad, prefiriéndose a los que designen los interesados, aún cuando sean sus parientes.
 
-(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987) (F. DE E., P.O. 9 DE ABRIL DE 1988)
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 1989)</small>
 
-47.- La falsificación de las actas y la inserción en ellas de circunstancias o declaraciones prohibidas por la Ley, motivarán la destitución de los jefes de las oficinas del registro civil, o de quienes los sustituyan sin perjuicio de las penas que la Ley señale y de la indemnización de daños y perjuicios.
+47.- La falsificación de las actas y la inserción en ellas de circunstancias o declaraciones prohibidas por la Ley, motivarán la destitución de los Jefes de las Oficinas del Registro Civil o del Jefe del Departamento, o de quienes los sustituyan, sin perjuicio de las penas que la Ley señale y de la indemnización de daños y perjuicios.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
 48.- Los vicios y demás irregularidades que haya en las actas, cuando no sean sustanciales, se subsanarán a petición de parte interesada por el jefe de la oficina y cuando lo fueren, por resolución judicial, que será la única que pueda declarar la falsedad de lo asentado y la consecuente nulidad del acta.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 1989)</small>
 
-49.- Toda persona puede pedir copia certificada de las actas del registro civil, así como de los documentos con ellas relacionados y los registradores están obligados a darlos.
+49.- Toda persona puede pedir copia certificada de las actas del Registro Civil, así como de los documentos con ellas relacionados y los Registradores están obligados a darlas. En el caso de los duplicados, la obligación recae en el Jefe del Departamento.
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 1989)</small>
 
-50.- Los actos y actas del estado civil relativas al jefe de la oficina, a su cónyuge, ascendientes o descendientes no podrán autorizarse por el mismo funcionario, sino por quien lo sustituya legalmente.
+50.- Los actos y actas del Estado Civil relativos al Jefe del Departamento, Jefes de las Oficinas, a sus cónyuges, ascendientes o descendientes, no podrán autorizarse por el mismo funcionario, sino por quien lo sustituya legalmente.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
@@ -9356,3 +9360,13 @@ P.O. 5 DE OCTUBRE DE 1988.
 > <small>(F. DE E., P.O. 12 DE OCTUBRE DE 1988)</small>
 
 ARTICULO TRANSITORIO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial en la Capital del Estado y 20 días después de su publicación en las demás poblaciones de la entidad.
+
+P.O. 17 DE MAYO DE 1989.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor quince días después de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente Decreto.
