@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1983-01-15"
+last_updated: "1984-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 1984.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -189,6 +189,14 @@ Los bienes que originariamente no han sido de la Federación, constituyen el pat
 
 En el territorio del Estado, este tiene el derecho de regular el aprovechamiento de los elementos naturales susceptibles de apropiación para hacer una distribución equitativa de la riqueza pública y para cuidar de su conservación dictando las medidas necesarias para el desarrollo de la pequeña propiedad, para la creación de nuevos, centros de población agrícola con las tierras y aguas que les sean indispensables; para el fomento de la agricultura en intensidad y extensión; y para evitar la destrucción de los elementos nacionales y los daños que la propiedad pueda sufrir en perjuicio de la sociedad, conforme a las facultades que el artículo veintisiete de la Constitución General concede a los Estados.
 
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
+
+Los Municipios, en los términos de las Leyes Federales y Estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones; y participar en la creación y administración de zonas de reservas ecológicas, para tal efecto y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirá los Reglamentos y disposiciones administrativas que fueren necesarios.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
+
+Cuando dos o más centros urbanos situados en territorios municipales de dos o más Entidades Federativas formen o tiendan a formar una continuidad demográfica, la Federación, las Entidades Federativas y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos Centros con apego a la Ley Federal de la materia.
+
 ###### ARTICULO 21.
 
 La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial, la cual estará bajo la autoridad y mando inmediato de aquél.
@@ -280,6 +288,14 @@ El territorio del Estado de Oaxaca es el que posee actualmente conforme a las ju
 ###### ARTICULO 29.
 
 El Estado adopta para su régimen interior la forma de gobierno republicano, representativo y popular, teniendo como base de su organización política y administrativa, el Municipio Libre.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
+
+Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna Autoridad intermedia entre éste y el Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
+
+Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna Autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato, con el carácter de suplentes; pero los que tengan el carácter de suplentes si podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
@@ -546,6 +562,14 @@ IV. Erigir nuevos Municipios dentro de los ya existentes, siempre que los intere
 > <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
 
 V. Suprimir Municipios, siempre que sus rentas no alcancen a cubrir sus presupuestos de egresos o carezcan de capacidad para manejarse por sí mismos y administrarse a través de sus respectivo Ayuntamientos, o cuando los núcleos de población que los integran no lleguen a los 15 quince mil habitantes;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 1984)</small>
+
+V Bis. La Legislatura Local, por acuerdo de las dos terceras partes de sus integrantes, podrán suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros por alguna de las causas graves que la Ley Reglamentaria prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
+
+En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la Ley no procediere que entraren en funciones los suplentes ni que se celebraren nuevas elecciones, la Legislatura designará entre los vecinos a los Consejos Municipales que concluirán los períodos respectivos.
+
+Si alguno de los miembros dejare de desempeñar su cargo, será substituido por su suplente o se procederá, según lo disponga la Ley;
 
 VI. Dictar todas las leyes necesarias para el funcionamiento de los Ayuntamientos, con arreglo a las disposiciones relativas de esta Constitución;
 
@@ -1053,6 +1077,40 @@ La Recaudación de Rentas respectiva hará uso de la facultad económica coactiv
 
 Los Municipios Libres constituyen entidades con personalidad jurídica, y por consiguiente son susceptibles de derechos y obligaciones.
 
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
+
+Los Municipios estarán investidos, de personalidad jurídica y manejarán su patrimonio conforme a la Ley.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
+
+Los ayuntamientos poseerán facultades para expedir, de acuerdo con las bases normativas establecidas por la Legislatura Local, los Bancos (sic) de Policía y buen gobierno y los Reglamentos, Circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
+
+Los Municipios, con el concurso del Gobierno del Estado, cuando así fuere necesario y lo determinen las leyes, tendrán a su cargo los siguientes servicios públicos:
+
+A).- Agua potable y alcantarillado,
+
+B).- Alumbrado público,
+
+C).- Limpia,
+
+D).- Mercados y Centrales de Abastos,
+
+E).- Panteones,
+
+F).- Rastro,
+
+G).- Calles, Parques y Jardines,
+
+H).- Seguridad pública y tránsito,
+
+I).- Los demás que la Legislatura Local determine según las condiciones territoriales y socio-económicas de los Municipios, así como su capacidad administrativa y financiera.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
+
+Los Municipios del Estado de Oaxaca, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les corresponda.
+
 ###### ARTICULO 95.
 
 Los Poderes del Estado son los únicos superiores jerárquicos de los Cuerpos Municipales, sobre los que ejercen las facultades de organización y regulación de funcionamiento, sin coartar ni limitar las libertades que les conceden la Constitución General de la República y la particular del Estado.
@@ -1079,7 +1137,13 @@ II.- Un Síndico, si el Municipio es menor de 20 mil habitantes y dos si es mayo
 
 III.- Los Regidores en ningún caso, serán menos de cinco y siempre en número impar. Su número aumentará en razón al censo del Municipio, agregándose uno por cada diez mil habitantes hasta completar once regidores.
 
-En la Capital del Estado y en los Municipios cuya población sea de cien mil o más habitantes los Ayuntamientos se integrarán por quince concejales que serán electos de acuerdo al principio de representación proporcional.
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1984)</small>
+
+En la Capital del Estado y en los Municipios cuya población sea de cien mil o más habitantes los Ayuntamientos se integrarán por 15 Concejales.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 1984)</small>
+
+En la integración de los Ayuntamientos de todos los Municipios del Estado, se respetará el principio de representación proporcional.
 
 > <small>(REFORMADA, P.O. 15 DE ENERO DE 1983)</small>
 
@@ -1169,15 +1233,27 @@ IV. Comunicarse directamente, ni por conducto del Presidente Municipal, con cual
 
 V. Arrendar los bienes raíces que les pertenezcan sin previa autorización de la Legislatura del Estado, mediante la expedición del Decreto respectivo, cuando el plazo de vigencia de esos contratos de arrendamiento exceda del término del ejercicio legal de las autoridades que celebren los citados contratos.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 108.
 
-Los Ayuntamientos administrarán libremente la Hacienda Municipal, la cual se compondrá de los bienes propios del Municipio y de los productos de las contribuciones impuestas por la Ley General de Ingresos Municipales, o por las especiales en el caso de la última parte del artículo 104.
+Los Municipios a través de sus Ayuntamientos administrarán libremente la Hacienda Municipal, la cual se compondrá de los bienes propios del Municipio y de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones impuestas por la Ley General de Ingresos Municipales o por las especiales en el caso de la última parte del artículo 104 de esta Constitución Política del Estado de Oaxaca; y en todo caso:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE NOVIEMBRE DE 1948)</small>
+A).- Percibirán las contribuciones, incluyendo tasas adicionales que establezca el Estado sobre la propiedad inmobiliaria; de su fraccionamiento, división, consolidación, traslación y mejoras, así como las que tenga por base el cambio de valor de los inmuebles.
+
+Los municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones.
+
+B).- Las participaciones federales, que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determinen por las Legislaturas de los Estados.
+
+C).- Los ingresos derivados de la prestación de servicios públicos a su cargo.
+
+Las Leyes Locales no establecerán exenciones o subsidios respecto de las mencionadas contribuciones, en favor de personas físicas o morales, ni a instituciones oficiales o privadas. Sólo los bienes del dominio público de la Federación, de los Estados o de los Municipios estarán exentos de dichas contribuciones.
+
+La Federación y el Ejecutivo del Estado, en los términos de la Ley respectiva podrán convenir la asunción, por parte de éstos, del ejercicio de determinadas funciones, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social de los Municipios lo haga necesario.
+
+El Gobierno del Estado de Oaxaca, estará facultado para celebrar esos convenios con sus municipios a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones a los que se refiere el párrafo anterior.
 
 Los bienes raíces pertenecientes a los Ayuntamientos del Estado, no podrán ser enajenados o gravados en forma alguna sin la previa autorización de la Legislatura, mediante la expedición del decreto respecto.
-
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 1949)</small>
 
 Los Ayuntamientos no pueden celebrar empréstitos, sino para la ejecución de obras que estén destinadas a producir directamente incremento en sus respectivos ingresos.
 
@@ -1818,3 +1894,7 @@ Por esta única vez, los Concejales de los Ayuntamientos que deban ser electos e
 ###### ARTICULO 4o.
 
 Las reformas Constitucionales a que se refiere el presente Decreto, entrarán en vigor al mes siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE ENERO DE 1984.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
