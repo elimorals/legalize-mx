@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2001-03-14"
+last_updated: "2001-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2001.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -65,7 +65,21 @@ Los Municipios del Estado son los siguientes: Abasolo, Aldama, Altamira, Antiguo
 
 El Estado adopta para su régimen interior la forma de Gobierno Republicano, Representativo y Popular, tomando como base de su organización política y administrativa el Municipio Libre, en los términos que establezca el Código Municipal.
 
-El Estado y los Municipios podrán celebrar, en el ámbito de su competencia, convenios y acuerdos con la Federación, y entre sí, para la planeación, coordinación y ejecución de los programas de desarrollo económico y social.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2001)</small>
+
+El titular del Ejecutivo organizará un sistema de planeación democrática del desarrollo económico, social, político, administrativo y cultural del Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2001)</small>
+
+La planeación será democrática. Habrá un Plan Estatal de Desarrollo al que se sujetarán obligatoriamente los programas de la administración pública estatal. Mediante la participación de los diversos sectores sociales, recogerá las aspiraciones y las demandas de la sociedad, para incorporarlas a los planes y programas de desarrollo.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2001)</small>
+
+La ley facultará al Ejecutivo para que establezca los procedimientos de participación y consulta popular dentro del sistema estatal de planeación democrática, y los criterios para la formulación, instrumentación, control y evaluación del plan y los programas de desarrollo. Asimismo, determinará los órganos responsables del proceso de planeación y las bases para que el Ejecutivo Estatal coordine, mediante convenios con los gobiernos federal y municipales, e introduzca y concierte con los particulares, las acciones a realizar para su elaboración y ejecución.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2001)</small>
+
+Los Municipios podrán celebrar, en el ámbito de su competencia, convenios y acuerdos con la Federación, y entre sí, para la planeación, coordinación, y ejecución de los programas de desarrollo económico y social.
 
 ### CAPITULO II. De los tamaulipecos
 
@@ -101,7 +115,9 @@ II. Poder ser electos para todos los cargos públicos, siempre que reúnan las c
 
 III. Ser nombrado para cualquier empleo o comisión oficiales, en la forma y términos que prescriben las leyes, con preferencia en igualdad de circunstancias a los que no fueren tamaulipecos.
 
-IV. Reunirse para tratar y discutir los negocios públicos.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2001)</small>
+
+IV. Reunirse para tratar y discutir los negocios públicos, y participar en los procesos de consulta ciudadana que la ley establezca; y
 
 V. Ejercer en materias políticas el derecho de petición.
 
@@ -332,6 +348,10 @@ El Estado adopta la forma de Gobierno establecida en el artículo 4º de esta Co
 ###### Art. 22.
 
 El Poder Público se divide para su ejercicio en Legislativo, Ejecutivo y Judicial. No podrán reunirse dos o más poderes en una Corporación o persona, ni depositarse el Legislativo en un solo individuo.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2001)</small>
+
+Una ley reglamentaria regulará los procesos de consulta ciudadana.
 
 ## TITULO III
 
@@ -697,7 +717,7 @@ XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente 
 
 > <small>(REFORMADA, P.O. 2 DE MAYO DE 1936)</small>
 
-XXI.- Nombrar y remover a los Magistrados del Supremo Tribunal de Justicia del Estado en los términos que establece la presente Constitución;
+XXI. Nombrar y remover a los Magistrados del Supremo Tribunal de Justicia del Estado en los términos que establece la presente Constitución;
 
 XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General;
 
@@ -731,7 +751,7 @@ XXXI. Establecer la demarcación territorial de los Distritos Electorales Uninom
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
-XXXII. Determinar lo que crea conveniente sobre la renuncia que sobre su cargo haga el Gobernador y calificar los impedimentos que no le permitan encargarse de su cometido, decretando nueva elección si la renuncia o impedimento ocurriere dentro de los tres primeros años del período;
+XXXII. Determinar lo que crea conveniente sobre la renuncia que sobre su cargo haga el Gobernador y calificar los impedimentos que no le permitan encargarse de su cometido, decretando nueva elección si la renuncia o impedimento ocurriere dentro de los tres primeros años del períod;
 
 XXXIII. Computar los votos y declarar electos Senadores al Congreso de la Unión, conforme a lo dispuesto en el artículo 56 de la Constitución General, a los ciudadanos que hayan obtenido mayoría absoluta de votos, erigiéndose para el efecto en Colegio Electoral;
 
@@ -791,9 +811,9 @@ LIII. Crear nuevas Municipalidades dentro de las existentes, variar sus límites
 
 LIV. Resolver, en definitiva, sobre las medidas adoptadas por el Gobernador, en los casos a que se refiere la fracción XLV del Artículo 91, dándole inmediata cuenta de la resolución, a fin de que proceda en consecuencia;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2001)</small>
 
-LV. Expedir leyes en materia de planeación, en base a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos;
+LV. Legislar en materia de planeación sobre la formulación, instrumentación, control, evaluación y actualización del Plan Estatal de Desarrollo, cuidando que la planeación del desarrollo económico y social sea democrática y obligatoria para el Estado y los Municipios; así como legislar sobre los procesos de participación directa de la ciudadanía, y fijar las bases generales para que los Ayuntamientos establezcan los procesos en esta materia;
 
 > <small>(REFORMADA, P.O. 22 DE ABRIL DE 1989)</small>
 
@@ -919,7 +939,9 @@ III. Al Supremo Tribunal de Justicia.
 
 IV. A los Ayuntamientos.
 
-V. A todos los ciudadanos, por conducto de sus Diputaciones.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2001)</small>
+
+V.- A todos los ciudadanos, por conducto de sus Diputaciones; la iniciativa popular deberá plantearse conforme a la ley.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 1986)</small>
 
@@ -1229,7 +1251,9 @@ XLI. Conceder pensiones dentro o fuera del Estado a los estudiantes que acredite
 
 XLII.- Dar cuenta al Congreso para que resuelva sobre los acuerdos de los Ayuntamientos que fueren contrarios a la Constitución General de la República, a la Constitución local o cualquiera otra ley, o cuando lesionen los intereses municipales.
 
-XLIII. Respetar y hacer que se respete la libre emisión del voto popular en las elecciones.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2001)</small>
+
+XLIII.- Respetar y hacer que se respete la libre emisión del voto popular en las elecciones y la voluntad expresada en los procesos de participación directa de la ciudadanía.
 
 XLIV. Conceder con arreglo a las leyes habilitaciones de edad a los menores para contraer matrimonio.
 
@@ -1251,7 +1275,7 @@ II. Ingerirse directa o indirectamente en las funciones del Poder Legislativo, e
 
 III. Decretar la prisión de alguna persona o privarla de su libertad, sino cuando el bien y seguridad del Estado lo exijan, y aun entonces deberá ponerla en libertad o a disposición de la autoridad competente en el preciso término de treinta y seis horas, salvo lo prevenido en la fracción XXXII del artículo anterior.
 
-IV. Ocupar la propiedad, particular salvo en los casos de expropiación, por causa de utilidad pública y en la forma legal.
+IV. Ocupar la propiedad particular, salvo en los casos de expropiación, por causa de utilidad pública y en la forma legal.
 
 V. Mezclarse en los asuntos judiciales, ni disponer durante el juicio de las cosas que en él se versan o de las personas que estén bajo la acción de la justicia.
 
@@ -2933,13 +2957,11 @@ Antes del inicio del ejercicio fiscal del año 2002, el Congreso del Estado, en 
 
 En la realización de las acciones conducentes al cumplimiento del presente Decreto, se respetarán los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.
 
+P.O. 6 DE JUNIO DE 2001.
+
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 7 DE ABRIL DE 1986.
-
-DECRETO QUE REFORMA LOS ARTÍCULOS 65, 66 Y 69, Y ADICIONA LOS ARTÍCULOS DÉCIMO SÉPTIMO Y DECIMO OCTAVO TRANSITORIOS.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO PRIMERO.
 
