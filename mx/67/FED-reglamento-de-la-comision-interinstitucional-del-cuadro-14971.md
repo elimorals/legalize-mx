@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-comision-interinstitucional-del-cuadro-14971"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-05-28"
-last_updated: "1997-05-28"
+last_updated: "2003-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14971&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1997-01-03"
 
 REGLAMENTO DE LA COMISION INTERINSTITUCIONAL DEL CUADRO BASICO DE INSUMOS DEL SECTOR SALUD
 
-TEXTO ORIGINAL.
+N. DE E.: EL PRESENTE REGLAMENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISION INTERINSTITUCIONAL DEL CUADRO BASICO DE INSUMOS DEL SECTOR SALUD PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 27 DE MAYO DE 2003.
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el miércoles 28 de mayo de 1997.
 
@@ -416,3 +418,11 @@ PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su pub
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Reglamento.
 
 México, D.F., a 3 de enero de 1997.- La Comisión Interinstitucional del Cuadro Básico y Catálogo de Insumos del Sector Salud, el Secretario del Consejo de Salubridad General, Octavio Rivero Serrano.- Rúbrica.- El Subsecretario de Regulación y Fomento Sanitario de la SSA, Rafael Camacho Solís.- Rúbrica.- El Director de Prestaciones Médicas del IMSS, Mario Madrazo Navarro.- Rúbrica.- El Subdirector General Médico del ISSSTE, Javier Castellanos Coutiño.- Rúbrica.- El Director General del DIF, Mario Luis Fuentes Alcalá.- Rúbrica.- El Director General de Sanidad de la Secretaría de la Defensa Nacional, Jaime Cohen Yáñez.- Rúbrica.- El Director General de los Servicios de Salud del DDF, Manuel Hugo Ruiz de Chávez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 27 DE MAYO DE 2003
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de la Comisión Interinstitucional del Cuadro Básico de Insumos del Sector Salud, publicado en el Diario Oficial de la Federación el 28 de mayo de 1997.
