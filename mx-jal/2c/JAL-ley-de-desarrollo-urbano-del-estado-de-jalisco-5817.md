@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-urbano-del-estado-de-jalisco-5817"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-13"
-last_updated: "1998-12-05"
+last_updated: "1999-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1999.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 13 de julio de 1993.
 
@@ -931,7 +931,9 @@ XXIV. Resolver las controversias que se presenten entre los colegios, organizaci
 
 XV (sic). Resolver las controversias que se presenten entre los colegios, organizaciones y asociaciones previstos en la fracción IV del artículo 36 de esta Ley, sobre la titularidad de la representación en los consejos de colaboración municipal;
 
-XXVI. Integrar y proponer al Congreso del Estado, la terna para elegir al Procurador de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1999)</small>
+
+XXVI. Integrar y proponer al Congreso del Estado la terna para elegir al Procurador de Desarrollo Urbano. Para la integración de la misma, los miembros del Consejo Estatal de Desarrollo Urbano previstos por las fracciones I, II, V y VI del artículo 28 de esta ley, tendrán únicamente el derecho a voz;
 
 XXVII. Conferir a sus miembros, comisiones especiales en la esfera de sus atribuciones;
 
@@ -3431,9 +3433,11 @@ IV. Una vez que el urbanizador haya realizado las obras a su cargo y pagado la c
 
 En los casos previstos en el artículo anterior si conforme al Plan Parcial de Urbanización de la zona, se establece que las áreas de cesión para destinos no representan una mejora efectiva a los fines públicos, ya sea por su extensión limitada, en consideración de los destinos y servicios ya disponibles, se podrá substituir la entrega de determinadas áreas de cesión para destinos, en forma total o parcial, por el pago del valor comercial que correspondería al terreno ya urbanizado, mediante avalúo realizado por perito profesional reconocido y aceptado por el Ayuntamiento.
 
-El Gobierno Municipal hará entrega de las percepciones derivadas de la permuta de las áreas de cesión para destinos al Consejo de Colaboración Municipal, en un plazo no mayor de sesenta días, contados a partir de la fecha cuando el urbanizador haga el pago. Estos recursos se aplicarán a la adquisición de predios para equipamiento urbano o su mejoramiento, en el área de estudio o unidad territorial que establezca el plan parcial correspondiente.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
-Tratándose de superficies mayores a diez mil metros cuadrados en zonas no habitacionales se podrá realizar la permuta de las áreas de cesión únicamente por predios localizados en el área de estudio o unidad territorial que establezca el plan parcial correspondiente.
+Las percepciones derivadas de la permuta de las áreas de cesión para destinos, ingresarán a la Hacienda Municipal de cada municipio.
+
+Tratándose de superficies mayores a diez mil metros cuadrados en zonas no habitacionales se podrá realizar la permita de las áreas de cesión únicamente por predios localizados en el área de estudio o unidad territorial que establezca el plan parcial correspondiente.
 
 ### CAPITULO V. De la subdivisión y relotificación de predios
 
@@ -5186,5 +5190,17 @@ Sexto. En tanto se expida en la ley estatal en materia de equilibrio ecológico 
 Séptimo. Se derogan todas las disposiciones que se opongan a la presente Ley.
 
 P.O. 5 DE DICIEMBRE DE 1998.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial " El Estado de Jalisco".
+
+P.O. 23 DE DICIEMBRE DE 1999.
+
+DECRETO 18183
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 23 DE DICIEMBRE DE 1999.
+
+DECRETO 18184
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial " El Estado de Jalisco".
