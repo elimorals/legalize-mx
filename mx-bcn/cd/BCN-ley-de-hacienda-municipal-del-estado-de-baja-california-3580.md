@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "1967-12-31"
+last_updated: "1973-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1967.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 1973.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -370,6 +370,12 @@ Es obligación de los causantes señalar en los avisos, manifestaciones, o prece
 Se establece un Impuesto sobre la Explotación de Capitales. Son causantes del mismo las personas físicas o jurídicas que exploten capitales propios o ajenos en en (sic) negociaciones mercantiles, industriales o de servicios. Las tasas y plazos para su pago se establecerán por las Leyes de Ingresos respectivas. Este Impuesto no lo causarán las Instituciones o Negociaciones que son fuentes fiscales privativas del Gobierno Federal, de acuerdo con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos en su Artículo 73 Fracción XXIX.
 
 Ninguna actividad mercantil o industrial podrá ejercerse habitualmente sin licencia de la Presidencia Municipal y el permiso en su caso, que señalen los Reglamentos respectivos. También se requiere obtener Placa de Registro en el Padrón Municipal. Los permisos o licencias para el establecimientos (sic) de Cafés-Cantantes o Cabarets, Cantinas, u otras actividades que puedan quedar clasificadas dentro del Inciso IV del Artículo 71 de la Ley de Hacienda del Estado, serán expedidas y revalidadas exclusivamente por el Gobernador del Estado conforme al Reglamento respectivo, debiendo cubrir los derechos correspondientes de acuerdo con las cuotas y tarifas que establecen las Leyes de Ingresos Municipales.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 1973)</small>
+
+###### ARTICULO 57 Bis.
+
+Se establece el Impuesto Sobre Giros Especializados. Son causantes del mismo las personas físicas o Jurídicas, que se dediquen a las actividades señaladas en las Leyes de Ingresos Municipales. Las tazas (sic) y plazos para su pago, se establecerán por las Leyes de Ingresos respectivos.
 
 ###### ARTICULO 58.
 
@@ -1674,3 +1680,9 @@ Este Decreto entrará en vigor el día primero de enero de mil novecientos sesen
 P.O. 31 DE DICIEMBRE DE 1967.
 
 UNICO:- Estas Reformas y Adiciones a los Artículos 57, 58, 66, 74, 94, 175 y 199 y la Derogación del Artículo 5o. de la Ley de Hacienda Municipal, entrarán en vigor el día primero de enero de mil novecientos sesenta y ocho.
+
+P.O. 28 DE FEBRERO DE 1973.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
