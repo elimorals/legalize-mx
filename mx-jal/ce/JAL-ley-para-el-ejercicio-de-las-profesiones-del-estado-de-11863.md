@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-ejercicio-de-las-profesiones-del-estado-de-11863"
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-27"
-last_updated: "1998-01-27"
+last_updated: "2004-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11863&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL EJERCICIO DE LAS PROFESIONES DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 27 de enero de 1998.
 
@@ -87,9 +87,11 @@ El Ejecutivo del Estado por conducto de la Dirección de Profesiones, tendrá la
 
 ### CAPÍTULO II. De las profesiones que necesitan título para su ejercicio
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 5.
 
-Es obligatorio Título Profesional para el ejercicio de: Abogado o Licenciado en Derecho, Médico, Arquitecto, Biólogo, Contador Público, Economista, Farmacéutico, Físico, Químico, Homeópata, Ingeniero, Licenciado en Trabajo Social, Odontólogo, Profesor Normalista, Psicólogo, Topógrafo, Veterinario, Zoólogo, así como de las especialidades que deriven de éstas.
+Todos los estudios profesionales y académicos ofertados en la currícula de las instituciones de educación superior a que hace referencia el artículo 40 de esta ley, requerirán del título profesional correspondiente en los términos previstos por el artículo 42 de este mismo ordenamiento.
 
 ###### Artículo 6.
 
@@ -143,9 +145,11 @@ X. Las demás que se encuentren establecidas en esta Ley, su Reglamento y demás
 
 El ejercicio profesional es el desempeño habitual de actos propios de una profesión.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 10.
 
-No podrán ejercer en el Estado las profesiones a que alude el artículo 5º del presente ordenamiento, quienes hayan cursado estudios que necesitan para su acreditación alguno de los documentos a que se refiere el artículo 42 de esta Ley o sus equivalentes, y que no obtengan previamente el registro y la cédula profesional correspondientes en los términos de ley.
+No podrán ejercer en el Estado las profesiones a que alude el artículo 5º del presente ordenamiento, quienes hayan cursado estudios que necesitan para su acreditación alguno de los documentos a que se refiere el artículo 42 de esta Ley o sus equivalentes, y que no obtengan previamente el registro y la cédula profesional correspondientes en los términos de ley, para el ejercicio de: Abogado o Licenciado en Derecho, Médico, Arquitecto, Biólogo, Contador Público, Economista, Farmacéutico, Físico, Químico, Homeópata, Ingeniero, Licenciado en Trabajo Social, Odontólogo, Profesor Normalista, Psicólogo, Topógrafo, Veterinario, Zoólogo, Enfermería y Licenciados en Educación, así como de las especialidades que deriven de éstas.
 
 ###### Artículo 11.
 
@@ -281,7 +285,9 @@ Para que una agrupación de profesionistas obtenga el reconocimiento, y registro
 
 I. Presentar solicitud por escrito a la Dirección, acompañando copia del testimonio de la escritura pública del acta constitutiva y copia de sus estatutos;
 
-II. Reunir un número mínimo de 30 miembros;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2004)</small>
+
+II. Reunir un número mínimo de 30 miembros, para el caso de que la agrupación de profesionistas esté integrada por profesionales a nivel técnico, normal o licenciatura; y mínimo 20 miembros para los casos de los profesionistas que tengan especialidad o en su caso grado de maestría o doctorado, registrados ante la Dirección de Profesiones del Estado;
 
 III. Cumplir con lo establecido en el Código Civil del Estado en materia de asociaciones; y
 
@@ -581,9 +587,11 @@ Si el plazo señalado en el párrafo anterior resultara insuficiente para dictar
 
 ### CAPÍTULO X. De los recursos y procedimientos en contra de las resoluciones que dicten las autoridades administrativas en materia de profesiones
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 61.
 
-Contra las resoluciones dictadas por la Dirección podrá interponerse por escrito Recurso de Revocación ante la misma, la cual deberá de resolver dentro de los 10 días hábiles siguientes a la recepción.
+Contra las resoluciones dictadas por la Dirección podrá interponerse por escrito Recurso de Revocación ante la misma, dentro de los cinco días siguientes a que se notifique al interesado, recurso que deberá resolverse dentro de los 10 días hábiles siguientes a la recepción.
 
 ###### Artículo 62.
 
@@ -603,7 +611,9 @@ PRIMERO.- Se abroga la Ley para el Ejercicio de las Profesiones en el Estado de 
 
 SEGUNDO.- A las agrupaciones de profesionistas que a la fecha de la entrada en vigor de esta Ley, se encuentren debidamente reconocidas, autorizadas y registradas ante la Dirección, se les seguirá respetando su registro, autorización y reconocimiento.
 
-TERCERO.- Quienes sin tener la licenciatura o título en homeopatía debidamente reconocida y autorizada por institución de educación superior acreditada, llevan a cabo la práctica homeopática y se ostentan como homeópatas en Jalisco, deberán regularizar su situación en un término de un año contado a partir de la entrada en vigor del presente decreto, para lo cual, se faculta a la Secretaría de Educación para que disponga lo necesario a efecto de expedir los documentos que acrediten la profesión correspondiente a quienes cumplan con los requerimientos legales, científicos y técnicos necesarios para el desempeño de la profesión.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2004)</small>
+
+TERCERO.- Quienes sin tener la licenciatura o título en homeopatía debidamente reconocida y autorizada por institución de educación superior acreditada, llevan a cabo la práctica homeopática y se ostentan como homeópatas en Jalisco, deberán regularizar su situación antes del primer día de marzo del año 2006, para lo cual, se faculta a la Secretaría de Educación para (sic) disponga lo necesario a efecto de expedir los documentos que acrediten la profesión correspondiente a quienes cumplan con los requerimientos legales, científicos y técnicos necesarios para el desempeño de la profesión.
 
 A los médicos alópatas que hubieren cursado la homeopatía como especialidad médica, se les otorgará sin mayor trámite la cédula que autorice su ejercicio profesional como homeópatas.
 
@@ -638,3 +648,9 @@ Ing. Alberto Cárdenas Jiménez
 El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE FEBRERO DE 2004.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
