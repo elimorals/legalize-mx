@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "1978-12-08"
+last_updated: "1981-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE DICIEMBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE ENERO DE 1981.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -1635,11 +1635,19 @@ Son documentos públicos los que señale como tales el Código Federal de Proced
 
 Para que se reputen auténticos los documentos públicos procedentes del extranjero, deberán ser legalizados por el representante autorizado para atender los asuntos de la República en el lugar donde sean expedidos.
 
-La legalización de las firmas del representante, se hará por el Secretario de Relaciones Exteriores.
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1981)</small>
+
+La legalización de las firmas del representante se hará por el funcionario autorizado de la Secretaría de Relaciones Exteriores.
+
+> <small>(ADICIONADO, D.O.F. 8 DE ENERO DE 1981)</small>
+
+No será necesaria la legalización de firmas cuando los documentos sean presentados por la vía diplomática.
+
+> <small>(REFORMADO, D.O.F. 8 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 283.
 
-Cuando no haya representante mexicano en el lugar donde se expidan los documentos públicos y por tanto los legalice el representante de una nación amiga, la firma de este representante deberá ser legalizada por el Ministro o Cónsul de esa nación que resida en la capital de la República y la de éste por el Secretario de Relaciones Exteriores.
+Cuando no haya representante mexicano en el lugar donde se expidan los documentos públicos y, por tanto, los legalice el representante de una nación amiga, la firma de este representante deberá ser legalizada por el ministro o cónsul de esa nación que resida en la capital de la República, y la de éste, por el funcionario autorizado de la Secretaría de Relaciones Exteriores.
 
 ###### ARTICULO 284.
 
@@ -3492,3 +3500,7 @@ D.O.F. 8 DE DICIEMBRE DE 1978.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 8 DE ENERO DE 1981.
+
+UNICO.- Este decreto entrará en vigor al día siguiente al de su publicación en el "Diario Oficial" de la Federación.
