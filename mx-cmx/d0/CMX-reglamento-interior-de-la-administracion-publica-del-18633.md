@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2005-02-16"
+last_updated: "2005-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE FEBRERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE MARZO DE 2005.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -1108,11 +1108,77 @@ XXVI. Recibir, tramitar y resolver las solicitudes de autorización que presente
 
 XXVII. Formalizar jurídicamente las funciones que corresponden a la Secretaría de Finanzas en su carácter de fideicomitente único de la Administración Pública, tener a su cargo la organización y funcionamiento del Registro de Fideicomisos Públicos de la Administración Pública del Distrito Federal, así como recibir, tramitar y resolver las solicitudes de inscripción en dicho Registro;
 
-XXVIII. Fincar las responsabilidades administrativas de carácter resarcitorio, por actos u omisiones de servidores públicos en el manejo, aplicación y administración de fondos, valores y recursos económicos en general, de propiedad o al cuidado del Distrito Federal, en las actividades de programación y presupuestación así como por cualquier otros actos u omisiones en que un Servidor Público incurra por dolo, culpa o negligencia y que se traduzcan en daños o perjuicios a la Hacienda Pública del Distrito Federal, que descubra o tenga conocimiento la Secretaría de Finanzas, por sí o a través de sus unidades administrativas, así como en aquellos casos en que la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal emita pliegos de observaciones que no hayan sido solventados;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2005)</small>
 
-XXIX. Registrar los órganos de gobierno de los fideicomisos públicos y de las sesiones de éstos; y
+XXVIII. Fincar las responsabilidades administrativas de carácter resarcitorio, por actos u omisiones de servidores públicos en el manejo, aplicación y administración de fondos, valores y recursos económicos en general, de propiedad o al cuidado del Distrito Federal, en las actividades de programación y presupuestación así como por cualquier otros actos u omisiones en que un Servidor Público incurra por dolo, culpa o negligencia y que se traduzcan en daños o perjuicios a la Hacienda Pública del Distrito Federal o al patrimonio de las entidades, que descubra o tenga conocimiento la Secretaría de Finanzas, por sí o a través de sus unidades administrativas, así como en aquellos casos en que la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal emita pliegos de observaciones que no hayan sido solventados;
 
-XXX. Las demás que le atribuyan expresamente los reglamentos y demás disposiciones administrativas, así como las que les sean conferidas por sus superiores jerárquicos.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XXIX. Registrar los órganos de gobierno de los fideicomisos públicos y de las sesiones de éstos;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XXX. Comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones previstas en las leyes fiscales del Distrito Federal y de las coordinadas cuya aplicación compete a las autoridades hacendarias locales, en los términos establecidos en las leyes fiscales federales y en los acuerdos o convenios suscritos por el Ejecutivo Federal, así como administrar y recaudar las contribuciones, aprovechamientos, productos, accesorios y su actualización, señalados en las disposiciones antes mencionadas;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XXXI. Requerir a los contribuyentes, responsables solidarios y demás obligados, para que exhiban la contabilidad, declaraciones y avisos, y para que proporcionen los datos, otros documentos e informes, a fin de comprobar el cumplimiento de las disposiciones fiscales;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XXXII. Establecer los sistemas y procedimientos a que debe sujetarse la práctica de visitas domiciliarias, revisión de declaraciones y dictámenes, visitas de inspección y verificaciones en materia de comprobación del cumplimiento de las obligaciones fiscales de los contribuyentes;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XXXIII. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones que entrañen o que puedan entrañar el incumplimiento de las disposiciones fiscales que se conozcan, con motivo del ejercicio de las atribuciones de comprobación;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XXXIV. Determinar en cantidad líquida las contribuciones omitidas y sus accesorios que se conozcan, con motivo del ejercicio de sus atribuciones, en los términos de las leyes fiscales del Distrito Federal o de las federales cuya aplicación competa a las autoridades hacendarias locales;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XXXV. Imponer sanciones por infracciones a las disposiciones fiscales que se conozcan con motivo del ejercicio de las atribuciones a que se refiere este artículo y con sujeción a las disposiciones aplicables;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XXXVI. Notificar a los contribuyentes, responsables solidarios y demás obligados, los actos relacionados con el ejercicio de las atribuciones de comprobación;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XXXVII. Recibir, tramitar y resolver las solicitudes de los contribuyentes en materia de pago a plazo de los créditos fiscales del Distrito Federal o federales coordinados, en los términos de los acuerdos del Ejecutivo Federal, determinados con motivo del ejercicio de las atribuciones de comprobación del cumplimiento de las obligaciones fiscales;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XXXVIII. Recibir y resolver las solicitudes de compensación que formulen los contribuyentes, en los términos y con las modalidades que señalen las leyes fiscales aplicables y los acuerdos del Ejecutivo Federal;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XXXIX. Ejercer la facultad económica coactiva mediante el procedimiento administrativo de ejecución para hacer efectivos los créditos fiscales locales y los de carácter federal, en los términos de las disposiciones fiscales aplicables y de los acuerdos del Ejecutivo Federal, siempre que dichos créditos se determinen con motivo del ejercicio de las atribuciones de comprobación del cumplimiento de las obligaciones fiscales;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XL. Ordenar la práctica de los embargos precautorios en los términos de las disposiciones fiscales del Distrito Federal y las de carácter federal, cuya aplicación esté encomendada a las autoridades hacendarias locales;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XLI. Ordenar y practicar todos los actos inherentes a las atribuciones de las autoridades fiscales del Distrito Federal, en materia del ejercicio de las atribuciones de comprobación;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XLII. Aceptar previa calificación, las garantías que otorguen los contribuyentes para asegurar el interés fiscal respecto de los créditos fiscales a que se refiere este artículo, así como registrarlas, autorizar su sustitución, cancelarlas o hacerlas efectivas y ordenar su ampliación cuando sea procedente y resolver sobre su dispensa en los términos de las disposiciones fiscales;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XLIII. Establecer los sistemas y procedimientos de control administrativo que coadyuven a combatir la evasión fiscal, sujetándose, para el efecto, a las normas establecidas por las disposiciones fiscales;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XLIV. Vigilar el cumplimiento de las normas y procedimientos inherentes al desarrollo de sus funciones, y
+
+> <small>(REFORMADA Y REUBICADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XLV. Las demás que le atribuyan expresamente los reglamentos y demás disposiciones legales y administrativas, así como las que les sean conferidas por sus superiores jerárquicos.
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -1432,7 +1498,7 @@ VII. Concertar acciones con particulares y representantes de las organizaciones 
 
 > <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
 
-VIII. Operar, integrar y autorizar el registro de videojuegos.
+VIII. Operar, integrar y autorizar el registro de videojuegos;
 
 IX. Participar en el diseño e instrumentación de la planeación delegacional; así como participar en la elaboración del Programa General de Desarrollo del Distrito Federal, de los Programas Delegacionales y Parciales de los Órganos Político-Administrativos, y de todos aquellos programas que contribuyan al desarrollo integral de la Ciudad de México, como unidad metropolitana, en coordinación con las Unidades Administrativas competentes del Gobierno del Distrito Federal;
 
@@ -1440,7 +1506,7 @@ X. Apoyar la organización de las giras y visitas de trabajo que realice el Jefe
 
 > <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
 
-XI. Auxiliar en la vigilancia del cumplimiento de las leyes, reglamentos, acuerdos, circulares, bandos, programas y demás disposiciones jurídicas y administrativas que emita el Jefe de Gobierno y la Asamblea Legislativa del Distrito Federal, en el ámbito territorial de los Órganos Político Administrativos e informar de su cumplimiento al Secretario de Gobierno.
+XI. Auxiliar en la vigilancia del cumplimiento de las leyes, reglamentos, acuerdos, circulares, bandos, programas y demás disposiciones jurídicas y administrativas que emita el Jefe de Gobierno y la Asamblea Legislativa del Distrito Federal, en el ámbito territorial de los Órganos Político Administrativos e informar de su cumplimiento al Secretario de Gobierno;
 
 > <small>(REFORMADA, G.O. 24 DE SEPTIEMBRE DE 2004)</small>
 
@@ -1750,7 +1816,7 @@ XXXIII. Substanciar y resolver la revocación de actos administrativos expedidos
 
 XXXIV. Integrar los expedientes técnicos-administrativos, con la participación del área jurídica competente, para proponer la emisión de declaratorias de bienes elementos del patrimonio cultural urbano; e
 
-XXXV. Integrar al inventario de los equipamientos urbanos y el mobiliario urbano, así como elaborar los catálogos de monumentos y zonas históricas y artísticas del Distrito Federal y del Patrimonio Cultural Urbano.
+XXXV. Integrar al inventario de los equipamientos urbanos y el mobiliario urbano, así como elaborar los catálogos de monumentos y zonas históricas y artísticas del Distrito Federal y del Patrimonio Cultural Urbano;
 
 > <small>(ADICIONADA, G.O. 23 DE JULIO DE 2004)</small>
 
@@ -3064,9 +3130,41 @@ VII. Planear, normar, coordinar, dirigir y evaluar la operación y aplicación d
 
 VIII. Recibir, tramitar y resolver las solicitudes de contribuyentes en materia de pago a plazos de los créditos fiscales a cargo de los contribuyentes;
 
-IX. Informar a la Procuraduría Fiscal del Distrito Federal de los hechos que conozcan con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales; y
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2005)</small>
 
-X. Hacer efectivas las sanciones pecuniarias impuestas por las autoridades judiciales del Distrito Federal, así como las garantías que se otorguen para su pago, en términos de las disposiciones legales aplicables.
+IX. Informar a la Procuraduría Fiscal del Distrito Federal de los hechos que conozcan con motivo del ejercicio de sus atribuciones, y puedan constituir delitos fiscales;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2005)</small>
+
+X. Hacer efectivas las sanciones pecuniarias impuestas por las autoridades judiciales del Distrito Federal, así como las garantías que se otorguen para su pago, en términos de las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XI. Comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados en materia de contribuciones previstas en las leyes fiscales del Distrito Federal y de las coordinadas cuya aplicación compete a las autoridades hacendarias locales, en los términos establecidos en las leyes fiscales federales y en los acuerdos o convenios suscritos por el Ejecutivo Federal, así como administrar y recaudar las contribuciones, aprovechamientos, productos, accesorios y su actualización, señalados en las disposiciones antes mencionadas;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XII. Requerir a los contribuyentes, responsables solidarios y demás obligados, para que exhiban la contabilidad, declaraciones y avisos, y para que proporcionen los datos, otros documentos e informes, a fin de comprobar el cumplimiento de las disposiciones fiscales;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XIII. Establecer los sistemas y procedimientos a que debe sujetarse la práctica de visitas domiciliarias, revisión de declaraciones y dictámenes, visitas de inspección y verificaciones en materia de comprobación del cumplimiento de las obligaciones fiscales de los contribuyentes;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XIV. Dar a conocer a los contribuyentes, responsables solidarios y demás obligados, los hechos u omisiones que entrañen o que puedan entrañar el incumplimiento de las disposiciones fiscales que se conozcan, con motivo del ejercicio de las atribuciones de comprobación;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XV. Ordenar la práctica de los embargos precautorios en los términos de las disposiciones fiscales del Distrito Federal y las de carácter federal, cuya aplicación esté encomendada a las autoridades hacendarias locales;
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XVI. Ordenar y practicar todos los actos inherentes a las atribuciones de las autoridades fiscales del Distrito Federal, en materia del ejercicio de las atribuciones de comprobación, excepto al trámite y resolución de los recursos administrativos previstos en las disposiciones fiscales; y
+
+> <small>(ADICIONADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XVII. Vigilar el cumplimiento de las normas y procedimientos inherentes al desarrollo de sus funciones.
 
 ###### Artículo 78.
 
@@ -3368,7 +3466,9 @@ Corresponde a la Subprocuraduría de Legislación y Consulta:
 
 I. Acordar con el Procurador Fiscal los asuntos de su competencia;
 
-II. Emitir las opiniones jurídicas y desahogar las consultas de los contribuyentes y de la Administración Pública del Distrito Federal en materia fiscal, así como recibir y tramitar las solicitudes de disminuciones de montos de créditos fiscales correspondientes;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2005)</small>
+
+II. Emitir las opiniones jurídicas y desahogar las consultas de los contribuyentes y de la Administración Pública del Distrito Federal en materia fiscal, y respecto de las reducciones fiscales competencia de la Procuraduría Fiscal del Distrito Federal, así como recibir y tramitar las solicitudes de disminuciones de montos de créditos fiscales correspondientes;
 
 III. Emitir resoluciones a peticiones y consultas que formulen los contribuyentes en materia fiscal;
 
@@ -3390,7 +3490,9 @@ XI. Formular los anteproyectos de acuerdos de carácter general en materia de ot
 
 XII. Expedir copias certificadas de los documentos que obren en sus archivos sobre asuntos de su competencia, y de aquellos que expidan en el ejercicio de sus funciones, los servidores públicos que les estén subordinados; y
 
-XIII. Las demás que le atribuyan expresamente los reglamentos y demás disposiciones administrativas, así como las que les sean conferidas por sus superiores jerárquicos.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XIII. Las demás que le atribuyan expresamente los reglamentos y demás disposiciones legales y administrativas, así como las que les sean conferidas por sus superiores jerárquicos.
 
 ###### Artículo 89.
 
@@ -3474,7 +3576,9 @@ X. Solicitar a las Unidades Administrativas de Apoyo Técnico-Operativo de la Se
 
 XI. Cuidar y promover el cumplimiento recíproco de las obligaciones derivadas de los convenios o acuerdos de coordinación fiscal;
 
-XII. Fincar las responsabilidades administrativas de carácter resarcitorio, por actos u omisiones de servidores públicos en el manejo, aplicación y administración de fondos, valores y recursos económicos en general, de propiedad o al cuidado del Distrito Federal, en las actividades de programación y presupuestación, así como por cualquier otros actos u omisiones en que un servidor público incurra por dolo, culpa o negligencia y que se traduzcan en daños o perjuicios a la Hacienda Pública del Distrito Federal, que descubra o tenga conocimiento la Secretaría de Finanzas por si o a través de cualquiera de sus unidades administrativas, así como en aquellos casos en que la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal emita pliegos de observaciones que no hayan sido solventados;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2005)</small>
+
+XII. Fincar las responsabilidades administrativas de carácter resarcitorio, por actos u omisiones de servidores públicos en el manejo, aplicación y administración de fondos, valores y recursos económicos en general, de propiedad o al cuidado del Distrito Federal, en las actividades de programación y presupuestación, así como por cualquier otros actos u omisiones en que un servidor público incurra por dolo, culpa o negligencia y que se traduzcan en daños o perjuicios a la Hacienda Pública del Distrito Federal o al patrimonio de las entidades, que descubra o tenga conocimiento la Secretaría de Finanzas por si o a través de cualquiera de sus unidades administrativas, así como en aquellos casos en que la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal emita pliegos de observaciones que no hayan sido solventados;
 
 XIII. Expedir copias certificadas de los documentos que en original o copia certificada obren en sus archivos sobre asuntos de su competencia y de aquellos que expidan en el ejercicio de sus funciones, los servidores públicos que les estén subordinados; y
 
@@ -4692,7 +4796,7 @@ VII. Notificar a los quejosos o denunciantes del resultado obtenido de las inves
 
 VIII. Promover el fincamiento de responsabilidades ante la Dirección de Responsabilidades y Sanciones, proporcionando los elementos y constancias que se hubiesen generado en la labor de investigación de las quejas o denuncias captadas; y
 
-IX. Señalar a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública, las irregularidades detectadas a través de la captación de quejas y denuncias, así como solicitar información respecto a las medidas preventivas y correctivas implementadas para su solución.
+IX. Señalar a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública, las irregularidades detectadas a través de la captación de quejas y denuncias, así como solicitar información respecto a las medidas preventivas y correctivas implementadas para su solución;
 
 > <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
 
@@ -5328,17 +5432,17 @@ DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 13 DE ABRIL DE 2004)</small>
 
-#### SECCION IV
-
-DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN COYOACAN.
-
-(REFORMADO, G.O. 21 DE MAYO DE 2002) (F. DE E., G.O. 11 DE JULIO DE 2002)
-
 #### SECCION V
 
 DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN CUAJIMALPA DE MORELOS.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
+
+#### SECCION IV
+
+DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN COYOACAN.
+
+(REFORMADO, G.O. 21 DE MAYO DE 2002) (F. DE E., G.O. 11 DE JULIO DE 2002)
 
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA DESCONCENTRADA
 
@@ -6186,7 +6290,7 @@ La Dirección General de Servicios Urbanos tendrá además de las señaladas en 
 
 I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial; y
 
-II. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
+II. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes.
 
 > <small>(ADICIONADO, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -8409,5 +8513,9 @@ G.O. 1 DE OCTUBRE DE 2004.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 G.O. 16 DE FEBRERO DE 2005.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 11 DE MARZO DE 2005.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
