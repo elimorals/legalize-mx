@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2004-08-26"
+last_updated: "2004-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE OCTUBRE DE 2004.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -339,6 +339,10 @@ III. La Junta de Coordinación Política;
 
 IV. Las comisiones y los comités.
 
+> <small>(ADICIONADA, G.G. 12 DE OCTUBRE DE 2004)</small>
+
+V. El Consejo para la Transparencia y Acceso a la Información Pública.
+
 > <small>(REFORMADO, G.G. 19 DE AGOSTO DEL 2003)</small>
 
 Los órganos de la Legislatura serán integrados por diputados de diversos grupos parlamentarios.
@@ -421,7 +425,9 @@ XIII. Proveer lo necesario para preservar el orden y respeto durante las sesione
 
 XIV. Cuidar que el público asistente a las sesiones observe el debido respeto y compostura y pedir el auxilio de la fuerza pública cuando se haga necesario para imponer el orden en el desarrollo de las mismas;
 
-XV. Suspender la sesión pública y disponer su continuación con carácter de secreta o citar en un término no mayor de 24 horas para su reanudación, cuando el orden sea alterado por los miembros de la Legislatura y no sea posible restablecerlo;
+> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2004)</small>
+
+XV. Suspender la sesión pública y disponer su continuación con carácter de reservada o citar en un término no mayor de 24 horas para su reanudación, cuando el orden sea alterado por los miembros de la Legislatura y no sea posible restablecerlo.
 
 XVI. Firmar con los secretarios, las resoluciones a que se refiere la Constitución;
 
@@ -675,7 +681,7 @@ IV. Supervisar la edición del "Diario de Debates" y de la "Gaceta Parlamentaria
 
 > <small>(REFORMADA, G.G. 26 DE AGOSTO DE 2004)</small>
 
-V.- Proponer a la Asamblea la designación del Auditor Superior, del Secretario de Asuntos Parlamentarios, del Contralor, del Secretario de Administración y Finanzas, del Director General de Comunicación Social y del Vocal Ejecutivo del Instituto (sic) Estudios Legislativos; asimismo, informar sobre la renuncia, remoción o licencia de éstos.
+V. Proponer a la Asamblea la designación del Auditor Superior, del Secretario de Asuntos Parlamentarios, del Contralor, del Secretario de Administración y Finanzas, del Director General de Comunicación Social y del Vocal Ejecutivo del Instituto (sic) Estudios Legislativos; asimismo, informar sobre la renuncia, remoción o licencia de éstos.
 
 VI.- Establecer las bases para la elaboración y aplicación del presupuesto anual del Poder Legislativo;
 
@@ -1213,11 +1219,11 @@ La Legislatura del Estado, actuará como Gran Jurado de Sentencia respecto de lo
 
 Para el examen previo de las denuncias sobre juicio político, se integrará una comisión conformada por tres diputados que serán los presidentes de las comisiones de Gobernación y Puntos Constitucionales, Derechos Humanos, y Procuración y Administración de Justicia.
 
+> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 99.
 
-La Sección Instructora del Gran Jurado se integrará por cinco diputados insaculados en sesión secreta. Los insaculados designarán de entre ellos a un Presidente y un Secretario; los demás fungirán como Vocales.
-
-En los recesos de la Legislatura, su integración quedará a cargo de la Diputación Permanente, conforme al párrafo anterior.
+La Sección Instructora del Gran Jurado se integrará por cinco diputados insaculados en sesión reservada. Los insaculados designarán de entre ellos a un Presidente y un Secretario; los demás fungirán como Vocales.
 
 ###### Artículo 100.
 
@@ -1434,3 +1440,9 @@ DECIMO PRIMERO.- Los Diputados integrantes de la Comisión de Inspección de la 
 DECIMO SEGUNDO.- El personal que labora actualmente en la Contaduría General de Glosa quedará adscrito al Organo Superior de Fiscalización, quedando a salvo sus derechos laborales.
 
 DECIMO TERCERO.- Los recursos financieros y materiales con que cuenta la Contaduría General de Glosa, así como los archivos, expedientes, documentos y papeles, pasarán al Organo Superior de Fiscalización, quedando destinados al cumplimiento de sus fines.
+
+G.G. 12 DE OCTUBRE DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
