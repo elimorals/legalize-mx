@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1996-12-28"
+last_updated: "1997-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1997.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -1773,11 +1773,19 @@ g).- Gastos de representación y viáticos que reúnan los mismos requisitos que
 
 > <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
 
-h) Prestaciones de servicio de comedor, bono de transporte, uniformes de trabajo y deportivos, festejos y convivios, becs(sic) para los trabajadores y sus familias, que se otorguen con carácter general y sean pagadas totalmente por el patrón;
+h).- Prestaciones de servicio de comedor, bono de transporte, uniformes de trabajo y deportivos, festejos y convivios, becs(sic) para los trabajadores y sus familias, que se otorguen con carácter general y sean pagadas totalmente por el patrón;
 
 > <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 1995)</small>
 
-i) Los provenientes de los fondos de ahorro cuando las aportaciones de la empresa sean iguales a las de los trabajadores. En los casos en que el patrón aporte una cantidad superior, el excedente será considerado para integrar la base gravable del impuesto.
+i).- Los provenientes de los fondos de ahorro cuando las aportaciones de la empresa sean iguales a las de los trabajadores. En los casos en que el patrón aporte una cantidad superior, el excedente será considerado para integrar la base gravable del impuesto;
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+j).- Las despensas que se otorguen a través de vales a los trabajadores, siempre y cuando su importe no rebase el cuarenta por ciento del salario mínimo general vigente en el Distrito Federal, y éstos sean otorgados en forma general.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+Para que los conceptos anteriores se excluyan como integrantes de la base del impuesto, deberán ser erogados por el patrón y estar debidamente registrados en contabilidad.
 
 > <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1995)</small>
 
@@ -4548,3 +4556,9 @@ DECRETO No. 484/96 I P.O.
 El presente decreto entrará en vigor el 1o. de Enero de 1997, una vez que estén vigentes las disposiciones fiscales federales que permitan el establecimiento de esta contribución en el ámbito estatal.
 
 De no darse el segundo supuesto, la vigencia de este Decreto iniciará simultáneamente con la de dichas disposiciones federales.
+
+P.O. 27 DE DICIEMBRE DE 1997.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día primero de enero de mil novecientos noventa y ocho.
