@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-cultura-fisica-y-deporte-del-estado-de-michoacan-de-3718
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-16"
-last_updated: "2004-02-16"
+last_updated: "2005-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2005.
 
 Ley publicada en Periódico Oficial del Estado de Michoacán, el lunes 16 de febrero del 2004.
 
@@ -509,15 +509,21 @@ V. Elaborar y proponer el Reglamento interno; y,
 
 VI. Las demás que establezca la presente Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 33.
+
+La CEAAD, estará integrada por el Presidente y dos miembros titulares con sus respectivos suplentes, designados por el Congreso del Estado, previa convocatoria que para el efecto se emita. Las propuestas podrán ser presentadas por cualquiera de los miembros del SIEDE.
 
 La CEAAD funcionará en Pleno para el cabal desempeño de sus funciones.
 
-El Pleno se integra con el Presidente y dos miembros titulares con sus respectivos suplentes y serán designados por el Congreso del Estado, previa convocatoria que para el efecto se emita. Las propuestas podrán ser presentadas por cualquiera de los miembros del SIEDE.
+El Pleno se integra con el Presidente y los miembros titulares.
 
-Los nombramientos, deberán recaer en personas con experiencia en el ámbito deportivo, así como reconocido prestigio y calidad moral. Por lo menos el Presidente y uno más de sus miembros deberán licenciado (sic) en derecho.
+Los miembros suplentes, entrarán en funciones cuando se declare la ausencia definitiva de alguno de los titulares.
 
-El Presidente y los miembros titulares de la CEAAD, durarán cuatro años y podrán ser ratificados en su encargo por un período más.
+Los nombramientos deberán recaer en personas con experiencia en el ámbito deportivo, así como reconocido prestigio y calidad moral. Por lo menos el Presidente y uno más de sus miembros deberán tener título de licenciado en derecho.
+
+El Presidente y los miembros titulares de la CEAAD, durarán cuatro años y podrán ser reelectos por un período más.
 
 ###### Artículo 34.
 
@@ -525,11 +531,17 @@ El Pleno de la CEAAD, requerirá para la celebración de sus sesiones la mayorí
 
 Las resoluciones definitivas emitidas por la CEAAD no admitirán recurso alguno en el ámbito deportivo.
 
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2005)</small>
+
 ###### Artículo 35.
 
-En ausencia del Presidente, en cualquiera de las sesiones asumirá sus funciones, alguno de los miembros titulares, siempre y cuando sea licenciado en derecho.
+En ausencia del Presidente, en cualquiera de las sesiones asumirá sus funciones, alguno de los miembros titulares, siempre y cuando tenga título de licenciado en derecho.
 
 Cuando la ausencia del Presidente sea definitiva, el Congreso del Estado, designará a quien deba sustituirlo para que concluya el período respectivo.
+
+Cuando la ausencia de uno de los miembros titulares sea definitiva, los dos restantes, en funciones de Pleno, notificarán al suplente que corresponda, para que concluya el periodo respectivo dando cuenta al Congreso del Estado.
+
+La licencia temporal de alguno de los miembros del Pleno no podrá ser mayor a cuarenta y cinco días, la que exceda se considerará ausencia definitiva.
 
 ###### Artículo 36.
 
@@ -1066,3 +1078,11 @@ PRESIDENTE.- DIP. RAÚL MORÓN OROZCO.- SECRETARIO.- DIP. EUSTOLIO NAVA ORTIZ.- 
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 22 veintidós días del mes de diciembre del año 2003 dos mil tres.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 3 DE FEBRERO DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
