@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-del-estado-de-puebla-7540"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-31"
-last_updated: "2004-02-27"
+last_updated: "2004-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 1993.
 
@@ -67,11 +67,11 @@ LEY DE HACIENDA DEL ESTADO DE PUEBLA
 
 ### CAPITULO I. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIONES AL TRABAJO PERSONAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. DE 11 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 1°.
 
-Es objeto de este impuesto la realización de pagos por concepto de remuneraciones por servicios personales subordinados a un patrón y las remuneraciones por servicios personales independientes, entregadas a miembros de consejos directivos, de vigilancia, consultivos o de cualquier otra índole, así como a comisarios, administradores, gerentes generales y personas que presten servicios preponderantemente a un prestatario, tratándose de estas últimas en términos de la Ley del Impuesto Sobre la Renta y los retiros que mensualmente efectúen los contribuyentes que trabajen en su propia empresa, por un monto equivalente al salario del mercado que se pague por una actividad similar a los servicios que desarrollen en su empresa, este último en términos del Reglamento de la Ley del Impuesto Sobre la Renta.
+Es objeto de este impuesto la realización de pagos por concepto de remuneraciones por servicios personales subordinados a un patrón y las remuneraciones por servicios personales independientes, entregadas a miembros de consejos directivos, de vigilancia, consultivos o de cualquier otra índole, así como a comisarios, administradores, gerentes generales y personas que presten servicios preponderantemente a un prestatario; tratándose de estas últimas en términos de la Ley del Impuesto Sobre la Renta.
 
 > <small>(ADICIONADO, P.O. DE 17 DE DICIEMBRE DE 2001)</small>
 
@@ -203,6 +203,10 @@ j) Número total de empleados.
 
 k) Total de erogaciones del período.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+l) Clave Única del Registro de Población, tratándose de personas físicas.
+
 > <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
 V.- Llevar contabilidad conforme a lo estipulado en el Código Fiscal del Estado.
@@ -245,7 +249,9 @@ Las infracciones al presente capítulo serán sancionadas de conformidad a lo pr
 
 Es objeto de este impuesto, la tenencia o uso de vehículos de motor cuyos modelos sean de más de 10 años de fabricación anteriores a la aplicación de esta Ley, y que el propietario esté domiciliado en el Estado de Puebla.
 
-También se consideran vehículos de motor a las motocicletas, minibuses, microbuses, autobuses, omnibuses, camiones y tractores no agrícolas tipo quinta rueda.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+También se consideran vehículos de motor a las motocicletas, minibuses, microbuses, autobuses, omnibuses, camiones, vehículos eléctricos y tractores no agrícolas tipo quinta rueda.
 
 Para efectos de este impuesto se considerará como:
 
@@ -270,6 +276,10 @@ d) Camiones con motor de gasolina, gas o diesel.
 e) Tractores no agrícolas, tipo quinta rueda, y
 
 f) Autobuses integrales.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+g) Vehículos eléctricos.
 
 ###### ARTICULO 12.
 
@@ -305,7 +315,9 @@ No se pagará este impuesto por la tenencia o uso de los siguientes vehículos:
 
 I.- Los vehículos que exclusivamente estén al servicio de los cuerpos diplomáticos y consulares extranjeros acreditados ante nuestro país.
 
-II.- Los vehículos de la Federación, Estado y Municipios que sean utilizados para la prestación de los servicios públicos de rescate, patrullas y las ambulancias dependientes de cualquiera de estas entidades o de instituciones de beneficencia autorizadas por la Ley de la materia y los destinados a los cuerpos de bomberos.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+II.- Los vehículos de la Federación, Estado y Municipios que sean utilizados para la prestación de los servicios de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios y ambulancias dependientes de cualquiera de estas entidades o de instituciones de beneficencia autorizada por la Ley de la materia y los destinados a los cuerpos de bomberos.
 
 Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo, deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
 
@@ -337,9 +349,9 @@ V.- Conservar durante 5 años los comprobantes de pago en los que conste el sell
 
 VI.- Presentar tratándose del servicio público, además, el acuerdo de otorgamiento y tarjetón de concesión.
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
 
-VII.- Anotar en los formatos de este impuesto, al momento de solicitar su incorporación o modificación en el registro establecido por la Secretaría de Finanzas y Administración, su clave del Registro Federal de Contribuyentes, en los casos en que se encuentren inscritos en el mismo.
+VII.- Anotar en los formatos de este impuesto, al momento de solicitar su incorporación o modificación en el registro establecido por la Secretaría de Finanzas y Administración, su clave del Registro Federal de Contribuyentes, en los casos en que se encuentren inscritos en el mismo, y tratándose de personas físicas, además, señalar su Clave Única del Registro de Población.
 
 ###### ARTICULO 18.
 
@@ -411,7 +423,9 @@ Este impuesto se pagará conforme a las tasas y tarifas que anualmente fije la L
 
 El pago de este impuesto deberá efectuarse en la oficina recaudadora correspondiente al domicilio fiscal del sujeto del impuesto, dentro de los 15 días siguientes a la celebración de la operación, mediante declaración en la forma aprobada por la Secretaría de Finanzas y Administración, acompañando la documentación que en la misma se especifique y que mediante Reglas de Carácter General se den a conocer al contribuyente.
 
-Además de los casos a que se refiere el Código Fiscal del Estado, la autoridad fiscal, podrá rechazar las declaraciones a que se refiere el párrafo anterior, cuando en ellas no se consigne el número de placas de circulación y datos de vehículo.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+Además de los casos a que se refiere el Código Fiscal del Estado, la autoridad fiscal, podrá rechazar las declaraciones a que se refiere el párrafo anterior, cuando en ellas no se consigne el número de placas de circulación, datos del vehículo, y tratándose de personas físicas, además, la Clave Única del Registro de Población.
 
 Los funcionarios o empleados públicos no recibirán ninguna declaración de alta, baja o cambio de propietario sin haberse cerciorado de que esté cubierto el impuesto a que se refiere este capítulo, así como el de tenencia o uso de vehículos tanto federal como estatal y los derechos de control vehicular correspondientes.
 
@@ -521,7 +535,13 @@ g) Total de días en que se prestó el servicio.
 
 h) Importe total consignado con número y letra, así como el monto de los impuestos que en términos de las disposiciones fiscales deban trasladarse.
 
-i) Los demás que señale esta Ley y los ordenamientos fiscales aplicables.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+i) Clave Única del Registro de Población, tratándose de personas físicas.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+j) Las demás que señale esta Ley y los ordenamientos fiscales aplicables.
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
@@ -531,9 +551,9 @@ VI.- Llevar contabilidad.
 
 VII.- Las demás que señale esta Ley y los ordenamientos fiscales aplicables.
 
-> <small>(ADICIONADO P.O. 4 DE JUNIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
 
-ARTICULO 26 J.- Las Autoridades Fiscales podrán estimar la base gravable de este impuesto en los casos a que se refiere el Artículo 26 C de esta Ley y el Código Fiscal del Estado.
+ARTICULO 26 J.- Las Autoridades Fiscales podrán estimar la base gravable de este impuesto en los casos en que se coloquen en alguna de las causales de estimativa del Artículo 48 del Código Fiscal del Estado.
 
 > <small>(ADICIONADO P.O. 4 DE JUNIO DE 1996)</small>
 
@@ -914,3 +934,11 @@ P.O. 27 DE FEBRERO DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación ene l Periódico Oficial del estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2004.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial de Estado y entrará en vigor a partir del día primero de enero de dos mil cinco.
+
+SEGUNDO.- Los contribuyentes obligados a expedir y conservar la documentación comprobatoria de los conceptos gravados por el Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal, con el requisito a que se refiere el artículo 8 fracción IV inciso l, así como de las operaciones gravadas por el Impuesto Sobre Servicios de Hospedaje, con el requisito a que se refiere el artículo 26 I fracción V inciso j de la Ley de Hacienda del Estado, gozarán de un plazo de tres meses, contados a partir de la entrada en vigor el presente Decreto, para incluir en su documentación comprobatoria dicho requisito.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
