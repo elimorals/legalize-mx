@@ -4,7 +4,7 @@ identifier: "SIN-ley-sobre-el-sistema-estatal-de-asistencia-social-10029"
 country: "mx"
 rank: "ley"
 publication_date: "1987-06-26"
-last_updated: "1987-06-26"
+last_updated: "1987-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10029&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -43,7 +43,7 @@ LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
 ###### ARTICULO 1.
 
-Las disposiciones de la presente Ley son de orden público y de interés social y tiene por objeto establecer las bases para:
+Las disposiciones de la presente Ley son de orden público y de Interés social y tiene por objeto establecer las bases para:
 
 I.- La promoción y prestación de los servicios de salud en materia de asistencia social que señala la Ley General de Salud, y
 
@@ -73,7 +73,7 @@ V.- Ancianos en estado de desamparo, incapacidad, marginación o sujetos al mal 
 
 > <small>(F. DE E., P.O. 28 DE SEPTIEMBRE DE 1987)</small>
 
-VI.- Inválidos por ceguera, debilidad visual, sordera, mudez, alteraciones del sistema neuro-musculoesquelético, deficiencia mental, problemas de lenguaje u otras deficiencias;
+VI.- Inválidos por ceguera, debilidad visual, sordera, mudez, alteraciones del sistema neuro-músculoesquelético, deficiencia mental, problemas de lenguaje u otras deficiencias;
 
 VII.- Indigentes;
 
