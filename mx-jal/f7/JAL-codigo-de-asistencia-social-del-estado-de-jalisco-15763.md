@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-asistencia-social-del-estado-de-jalisco-15763"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-01-15"
-last_updated: "2003-06-24"
+last_updated: "2003-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2003.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 15 de enero de 1998.
 
@@ -2385,511 +2385,249 @@ Contra las resoluciones en las que se impongan las sanciones contenidas en este 
 
 (DEROGADO, P.O. 24 DE JUNIO DE 2003)
 
-> <small>(ADICIONADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON LOS TITULOS, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 # LIBRO SEXTO. DE LA PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO I. Del Objeto
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
 ###### Artículo 190.
 
-. Las disposiciones contenidas en el presente Libro tienen por objeto:
-
-I. Establecer las bases de coordinación de los servicios públicos con los que cuenta el Estado, para la prevención y atención de la violencia intrafamiliar; y
-
-II. Fortalecer la institución de la familia, buscando ante todo, la integración de sus miembros en beneficio de ésta y de la sociedad.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### Artículo 191.
 
-Para cumplir los objetivos del presente Libro, las autoridades competentes del Estado y los Municipios, deberán brindar apoyo institucional y técnico para prevenir y atender los asuntos de violencia intrafamiliar.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### Artículo 192.
 
-Las acciones que se realicen para prevenir y atender la violencia intrafamiliar serán libres de prejuicios de género, raza, condición socioeconómica, religión, credo o nacionalidad.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO II. De los Conceptos
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
 ###### Artículo 193.
 
-Para los efectos de este libro, se entiende por:
-
-I. Familia: Conjunto de personas unidas por parentesco, matrimonio o concubinato, que como célula fundamental de la sociedad es una institución de interés público y ámbito natural de convivencia propicio para el entendimiento, comunicación y desarrollo de los valores necesarios en la formación y perfeccionamiento de la persona y de la sociedad.
-
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
-
-Las relaciones familiares deben aspirar a servir al pleno entendimiento de los valores de la existencia humana. Por ello, tenderán a excluir toda subordinación o sometimiento vejatorios de la dignidad humana;
-
-II. Violencia Intrafamiliar: Es la acción u omisión intencional que ponga en peligro o afecte su integridad física, psicológica o sexual, que se ejerce en contra de algún miembro de la familia, por otro integrante de la misma, independientemente de que pudiere constituir delito.
-
-Para los efectos de este libro las instituciones a cargo del Estado también atenderán a los casos de violencia que se cometan en contra de alguna persona que sin estar en alguno de los supuestos del párrafo anterior, habite en el domicilio del agresor, y exista alguna relación de tutela, custodia o cuidado con dicha persona;
-
-III. Persona generadora de Violencia Intrafamiliar: Quien realiza actos u omisiones que provoquen situaciones de violencia intrafamiliar;
-
-IV. Personas receptoras de Violencia Intrafamiliar: Quien recibe, o se le provoque de cualquier forma, alguna o varias de las acciones u omisiones que se mencionan en la fracción II, por parte de persona con la que tengan algún vínculo familiar;
-
-V. Modelos de Atención: Los sistemas integrales y multidisciplinarios mediante los cuales se captan, atienden, da seguimiento, y se evalúan las situaciones de violencia intrafamiliar, sistematizando los resultados de los procesos, para retroalimentar los propios modelos;
-
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2001)</small>
-
-VI. Programa Permanente: Es el proyecto para la prevención y atención de la violencia intrafamiliar, el cual se integra con los programas y estrategias institucionales, públicas y privadas;
-
-VII. Prevención: La promoción de una cultura que favorezca y coadyuve a crear un marco objetivo de equidad, libertad e igualdad, entre las personas miembros de la familia, eliminando las causas y patrones que generan y refuerzan la violencia intrafamiliar, con el fin de erradicarla y promover la institución de la familia, en la forma definida en el presente Libro; y
-
-VIII. Consejo: El Consejo Estatal para la Prevención y Atención a la Violencia Intrafamiliar.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### Artículo 194.
 
-La familia es la base de la sociedad por lo que es de interés público su estabilidad y el desarrollo de sus integrantes.
-
-En la familia debe buscarse el afecto y respeto, así como darse el apoyo recíproco, fomentando el desarrollo de las interrelaciones de responsabilidad y solidaridad humana que constituyan la armonía social.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### Artículo 195.
 
-La vigilancia del cumplimiento a las normas del presente libro corresponde a la Secretaría, a los organismos municipales y demás dependencias del Sistema Estatal de Asistencia Social.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO SEGUNDO. DEL CONSEJO PARA LA PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO I. Del Consejo
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
 ###### Artículo 196.
 
-El Consejo es el organismo rector en el Estado, respecto de las políticas y criterios generales, relativos a la prevención y atención de la violencia intrafamiliar, con autonomía técnica y subordinación administrativa y financiera al Organismo Estatal.
-
-Los fines del Consejo son:
-
-I. Establecer las políticas públicas y los criterios rectores, relacionados con la prevención y atención de los asuntos sobre violencia intrafamiliar;
-
-II. Establecer las bases de modelos de atención y coordinación entre las instituciones del Estado y Municipios, en torno a la violencia intrafamiliar; y
-
-III. Fomentar y apoyar los trabajos de investigación y análisis relacionados con la violencia intrafamiliar.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### Artículo 197.
 
-El Consejo estará integrado por un Presidente designado por el Presidente de la Junta de Gobierno del Organismo Estatal y un representante de las siguientes entidades y dependencias:
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-a) Presidente del Organismo Estatal;
-
-b) Secretaría de Educación;
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-c) Secretaría de Desarrollo Humano;
-
-d) Secretaría de Seguridad Pública, Prevención y Readaptación Social;
-
-e) Procuraduría General de Justicia;
-
-f) Supremo Tribunal de Justicia del Poder Judicial del Estado;
-
-g) Procuraduría Social;
-
-h) Comisión Estatal de Derechos Humanos;
-
-i) Instituto Jalisciense de Asistencia Social;
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-j) Instituto Cabañas;
-
-k)Cinco especialistas en la materia de las instituciones de educación superior más representativas en el Estado a propuesta del Presidente del Consejo;
-
-l) Tres Asociaciones Civiles del Estado con una antigüedad mínima de dos años, cuyas líneas de trabajo estén orientadas a objetivos similares a la prevención y atención de la violencia intrafamiliar, electas por este mismo Consejo a propuesta del representante del Instituto Jalisciense de Asistencia Social, las cuales deberán estar debidamente acreditadas y registradas ante este Instituto.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### Artículo 198.
 
-Los representantes de los organismos y dependencias señaladas en el artículo anterior, serán personas con el perfil adecuado para desempeñar el cargo, el cual será honorífico y dentro de sus funciones estará el dar seguimiento a los programas y acciones concretas que determine el Consejo.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO II. De las Atribuciones del Consejo
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
 ###### Artículo 199.
 
-El Consejo sesionará, al menos una vez al mes, a convocatoria del Presidente o a propuesta de tres de los Consejeros. La convocatoria contendrá el orden del día y bastará que asistan el Presidente y la mayoría de los Consejeros acreditados para que pueda existir quórum.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### Artículo 200.
 
-Son facultades del Consejo:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-I. Establecer los lineamientos administrativos y técnicos, así como aprobar los modelos de atención elaborados previamente por el equipo técnico;
-
-II. Aprobar el Programa Permanente para la Prevención y Atención de la Violencia Intrafamiliar, así como las modificaciones propuestas por el equipo técnico;
-
-III. Evaluar los logros y avances del Programa Permanente;
-
-IV. Celebrar por conducto de su Presidente, convenio o acuerdos, dentro del Programa Permanente para la Prevención y Atención de la Violencia Intrafamiliar, para la coordinación de acciones encaminadas al logro de los fines y objetivos del presente Libro;
-
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2001)</small>
-
-V. Incorporar en las acciones del Consejo a la sociedad civil organizada, estableciendo y manteniendo vínculos de trabajo específico, intercambio de información y propuestas de modelos de atención;
-
-VI. Promover el estudio e investigación sobre violencia intrafamiliar en el Estado y difundir los resultados que deriven de dichos estudios, así como avances logrados en el ámbito nacional e internacional;
-
-VII. Promover la creación de un Patronato que auxilie al Consejo para la obtención de fondos financieros que permitan el fortalecimiento del presupuesto designado para el desarrollo de los programas y determinar las directrices y prioridades para el manejo de los recursos presupuestarios que le sean asignados al Consejo;
-
-VIII. La realización de campañas publicitarias para la concientización de la población en general, acerca de los efectos de la violencia intrafamiliar y su prevención;
-
-IX. Las demás que le asignen otras leyes o sean necesarias para el cumplimiento de las anteriores.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO III. Del Presidente
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
 ###### Artículo 201.
 
-El Presidente del Consejo tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-I. Ejercer la representación legal del Consejo;
-
-II. Presidir las sesiones del Consejo;
-
-III. Convocar al Consejo a las sesiones ordinarias y extraordinarias;
-
-IV. Someter a la consideración del Consejo, los proyectos de actualización y ampliación del Programa Permanente para la Prevención y Atención de la Violencia Intrafamiliar;
-
-V. Elaborar y presentar un informe anual de actividades ante la Junta de Gobierno del Organismo Estatal y los miembros del Consejo;
-
-VI. Recibir los informes de los organismos que atienden directamente los casos de violencia intrafamiliar;
-
-VII. Proponer el nombramiento y remoción del Secretario Técnico;
-
-VIII. Designar a los profesionistas y técnicos que integren las unidades de atención; y
-
-IX. Las demás que le encomiende el Consejo.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO IV. De la Secretaría Técnica
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
 ###### Artículo 202.
 
-Para la operación y administración de las actividades del Consejo, éste contará (sic) una Secretaría Técnica, la cual tendrá las siguientes atribuciones;
-
-I. Ejecutar los acuerdos y acciones que disponga el Consejo dentro del marco del Programa Permanente;
-
-II. Estar presente en todas las sesiones del Consejo, con derecho a voz y no voto;
-
-III. Levantar actas circunstanciadas de cada sesión y someterlas a votación para su aprobación en su caso;
-
-IV. Revisar los informes de los órganos o instituciones que conozcan casos de violencia intrafamiliar, y dar contestación a las cuestiones técnicas y consultas planteadas respecto de tema de su competencia;
-
-V. Revisar y opinar acerca de los proyectos de convenios en que pueda ser parte el Consejo en materia de violencia intrafamiliar;
-
-VI. Presentar al Consejo en forma periódica, informes y resultados de las acciones emprendidas dentro del marco del programa permanente; y
-
-VII. Las demás funciones que le sean encomendadas, mediante acuerdo del Consejo.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### Artículo 203.
 
-Esta Secretaría dispondrá de la infraestructura necesaria para el desarrollo de sus funciones.
-
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### Artículo 204.
 
-El Secretario Técnico deberá ser Trabajador Social, Sociólogo o Psicólogo, titulado, con amplios conocimientos y experiencia en materia familiar y asistencia social.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO TERCERO. DE LA PARTICIPACION DE LOS MUNICIPIOS
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO UNICO. De los Municipios
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
 ###### Artículo 205.
 
-El Consejo Estatal en coordinación con los Organismos Municipales procurará la integración de Consejos Municipales para la Prevención y Atención de la Violencia Intrafamiliar.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO CUARTO. DEL PROGRAMA PERMANENTE
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO UNICO. De las Líneas de Acción
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
 ###### Artículo 206.
 
-El Consejo y los organismos públicos y privados involucrados en la prevención y atención de la violencia intrafamiliar, se coordinarán para la elaboración del proyecto de Programa y su ejecución, que comprenderá, cuando menos, las siguientes acciones:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-I. La formación y capacitación de personal para la prevención y atención de la violencia intrafamiliar;
-
-II. Las estrategias generales y particulares para la prevención de la violencia intrafamiliar, incluyendo las orientaciones que deberá seguir la Campaña Permanente que se desarrolle para el efecto;
-
-III. La prestación de servicio de albergues para la atención de emergencias y tratamientos ordinarios;
-
-IV. La creación de las Unidades de Atención y Seguimiento para la asistencia multidisciplinaria;
-
-V. La instalación de líneas telefónicas para la atención ininterrumpida de emergencias relacionadas con casos de violencia intrafamiliar;
-
-VI. La impartición de cursos de Escuela de Padres;
-
-VII. La integración de grupos de apoyo para sujetos generadores y receptores de violencia intrafamiliar; y
-
-VIII. Los criterios de clasificación, investigación y uso de la estadística generada en el tratamiento de la violencia intrafamiliar.
-
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO QUINTO. DE LAS UNIDADES DE ATENCION
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO I. Del Personal
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
 ###### Artículo 207.
 
-El personal de las unidades de atención, deberá ser profesional, tener sensibilidad y actitudes empáticas, así como con el perfil y aptitudes adecuadas, realizando sus acciones conforme a los principios previstos en el Libro.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### Artículo 208.
 
-La atención a quienes incurran en actos de violencia intrafamiliar, se basará en modelos psicoterapéuticos reeducativos tendientes a disminuir y, de ser posible, erradicar conductas de violencia; dichos modelos deberán haber sido evaluados con anterioridad a su aplicación, por el equipo técnico y el Consejo.
-
-Se podrá prestar la atención a quienes se encuentren en cualquier etapa de un proceso penal o civil, que esté relacionada con eventos de violencia intrafamiliar, o después de haber causado estado la sentencia dictada, a solicitud de la autoridad jurisdiccional, o bien, a solicitud del propio interesado.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### Artículo 209.
 
-Las instituciones u organismos que conozcan o atiendan casos en los que sea presumible la existencia de violencia intrafamiliar, remitirán a la Secretaría Técnica del Consejo, informes individualizados en los que se haga una exposición general del problema que les fue planteado, así como las acciones que se tomaron de forma inmediata. En tales informes también se podrá solicitar al Consejo apoyo para la solución del problema planteado. Tal apoyo podrá ser informativo, o de soporte técnico para la aplicación de los modelos de atención que en el caso de que se trate puedan ser aplicables. Todo esto, con el fin de que se pueda dar seguimiento a todos los casos de maltrato familiar que se registren por las autoridades del Estado.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO II. De la Participación de las Autoridades en la Asistencia de la Violencia Intrafamiliar
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
 ###### Artículo 210.
 
-Los jueces que conozcan de asuntos en donde se desprenda que existe violencia intrafamiliar, y las partes en litigio, podrán solicitar al Consejo la realización de estudios e investigaciones acerca de los antecedentes de procesos psicoterapéuticos de agresores y receptores de la violencia familiar.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### Artículo 211.
 
-Corresponde a la Secretaría General de Gobierno, además del despacho de los asuntos señalados en el artículo 30 de la Ley Orgánica del Poder Ejecutivo, coadyuvar en los programas de prevención, atención y difusión contra la violencia intrafamiliar y vigilar el cumplimiento del presente Libro.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### Artículo 212.
 
-Compete a la Secretaría de Educación, además del despacho de los asuntos descritos en el artículo 35 de la Ley Orgánica del Poder Ejecutivo, las siguientes:
-
-I. Desarrollar programas educativos, de nivel preescolar, primaria y secundaria, que fomenten la corresponsabilidad familiar en sana convivencia, con base a los derechos y obligaciones de sus integrantes, de acuerdo a su edad y experiencia; y
-
-II. Elaborar programas de capacitación para los funcionarios públicos y demás personas que por la naturaleza de sus funciones, les corresponda, en cualquier momento del proceso de atención, tener contacto con los sujetos involucrados en actos de violencia intrafamiliar.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### Artículo 213.
 
-Le corresponde a la Secretaría de Salud, además del despacho de los asuntos precisados en el artículo 36 de la Ley Orgánica del Poder Ejecutivo, las siguientes:
-
-I. Diseñar y poner en práctica programas de capacitación, detección, prevención y atención a personas receptoras y generadoras de violencia intrafamiliar; y
-
-II. Establecer bases y directrices en la elaboración de los Partes Médicos que se instrumenten en el Estado.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### Artículo 214.
 
-La Procuraduría General de Justicia del Estado, para los efectos de este capítulo, deberá:
-
-I. Turnar a las instancias competentes, los casos en que de la averiguación previa se determine que no hay delito que perseguir, pero se advierta que existen indicios o datos para considerar la existencia de violencia intrafamiliar; y
-
-II. Capacitar al personal en materia de prevención y atención a víctimas de la violencia intrafamiliar.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### Artículo 215.
 
-La Secretaría de Seguridad Pública, Prevención y Readaptación Social además de las atribuciones señaladas en el artículo 38 Bis, para los efectos de este Libro, tendrá las siguientes:
-
-I. Coordinarse con la Procuraduría General de Justicia para la atención de los casos de violencia intrafamiliar que sean reportados y que constituyan delito; y
-
-II. Instaurar cursos de formación y capacitación sobre la dinámica y efectos de la violencia intrafamiliar, su prevención y atención.
-
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### Artículo 215 Bis.
 
-Todos los servidores públicos de las dependencias y entidades del sector público que en el ejercicio de sus funciones tengan conocimiento de incidentes relacionados con la violencia intrafamiliar, deberán hacerlo del conocimiento del Consejo.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO SEXTO. DE LOS PROCEDIMIENTOS
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
-### CAPITULO I. Disposiciones Generales
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
-###### Artículo 216.
-
-El procedimiento que se siga ante las unidades o los órganos municipales competentes deberá ser breve, sencillo y gratuito, sólo estará sujeto a las mínimas formalidades que se requieran para el trámite de la queja y la investigación de los hechos privilegiando la conciliación.
-
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
-
-El procedimiento se iniciará con una queja, que no requiere de ningún requisito de formalidad.
-
-Los procedimientos previstos en el presente capítulo no son requisito previo para llevar a cabo cualquier servicio asistencial o procedimiento jurisdiccional.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
-###### Artículo 217.
-
-Están legitimados para presentar las quejas e iniciar el procedimiento ante las instancias competentes, un familiar, vecino o cualquier otra persona, quien bajo protesta de decir verdad presentará su queja o denuncia por escrito o comparecencia.
-
-Sólo cuando la queja entrañe hechos que pudieren constituir delito que se persiga de oficio se dará aviso al Ministerio Público, y si éstos fueren perseguibles a petición de parte, el ofendido podrá acudir a esa representación social a querellarse en los términos de ley.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
-###### Artículo 218.
-
-Las unidades de atención deberán conocer, tramitar y resolver a través del procedimiento previsto en el presente capítulo, los asuntos que sean de su conocimiento y constituyan conflictos de violencia intrafamiliar.
-
-Todo el personal de las instituciones involucradas en la prevención y atención de la violencia intrafamiliar, deberán dar trato confidencial a la información o documentación de las personas atendidas. Lo anterior implica que el expediente en el que se integren las constancias relativas al planteamiento y a la resolución del problema, sólo podrán ser consultados por quienes intervengan en ellos, sus apoderados, y el Consejo, al que se le deberán mandar los informes a que se refiere este Libro.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO II. De los Conciliadores
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
+###### Artículo 216.
+
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
+
+###### Artículo 217.
+
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
+
+###### Artículo 218.
+
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
+
+> <small>(DEROGADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
+
+### CAPITULO I. Disposiciones Generales
 
 ###### Artículo 219.
 
-Las partes en un conflicto de violencia intrafamiliar, podrán resolver sus diferencias en el área administrativa mediante el procedimiento conciliatorio, el cual se efectuará preferentemente en una sola audiencia.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### Artículo 220.
 
-Recibida la queja, la autoridad encargada del trámite señalará una fecha para la celebración de la audiencia dentro de los 8 días naturales siguientes a la presentación de la misma y de inmediato mandará citatorios a las partes involucradas.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### Artículo 221.
 
-Si alguna de las partes no asiste a la audiencia, se les volverá a citar en un término igual al anterior, señalándoles los beneficios e importancia de la audiencia. Si de nueva cuenta no fuere posible la celebración de la audiencia por ausencia de alguna de las partes, al ausente se le impondrá multa por el importe que no exceda a un salario mínimo general y se turnará el asunto a la Unidad de Atención que corresponda para su estudio y determinación.
-
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### Artículo 222.
 
-Al iniciarse la audiencia de conciliación, el conciliador sin prejuicio alguno procederá a buscar la avenencia entre las partes, exhortándolos al reencuentro de la armonía, proponiendo alternativas pertinentes y dándoles a conocer las consecuencias en caso de continuar con su conflicto.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### Artículo 223.
 
-Si las partes llegaren a una conciliación, se celebrará el convenio correspondiente que será firmado por quienes intervengan en el mismo, del cual se entregará una copia a cada uno de los comparecientes, otra copia será enviada a la Secretaría Técnica del Consejo para los efectos de ley, el cual servirá de antecedente para el caso de que se presenten nuevos conflictos entre las mismas personas.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### Artículo 224.
 
-Una vez habida la conciliación, se dará el seguimiento que corresponda y se elaborará un registro de datos que podrá ser consultado por las autoridades competentes de la materia para los efectos de ley, cuidando la confidencialidad y reserva de los mismos.
-
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### Artículo 225.
 
-Cuando en forma espontánea, o por cualquier causa, se presenten las distintas partes involucradas en un conflicto de violencia intrafamiliar ante la presencia de la autoridad competente para iniciar el procedimiento conciliatorio, y es voluntad de éstos someterse a tal procedimiento, éste deberá iniciarse de inmediato.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### Artículo 226.
 
-Cuando alguna de las partes incumpla con las obligaciones y deberes establecidos en los convenios, la otra parte podrá ejercitar las acciones que correspondan ante la autoridad jurisdiccional correspondiente para lograr su ejecución en los términos previstos en el Código de Procedimientos Civiles para el Estado de Jalisco.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 ###### Artículo 227.
 
-Son facultades y obligaciones del conciliador:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
-I. Levantar las constancias de aquellos actos que se generen ante su presencia;
-
-II. Citar a las personas involucradas en conflictos relacionados con violencia intrafamiliar para el desahogo de los procedimientos establecidos en el presente capítulo;
-
-III. Desahogar el procedimientos (sic) conciliatorio conforme al presente Libro;
-
-IV. Derivar a los organismos correspondientes aquellos casos que no sean de su competencia;
-
-V. Firmar en unión de los interesados, los convenios conciliatorios a los que se llegue;
-
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2001)</small>
-
-VI. Integrar los expedientes relativos a los casos puestos a su consideración, con todas las actuaciones que se realicen y las constancias que se le presenten; y
-
-VII. Enviar copias de los convenios al Consejo, en los términos del presente Libro.
-
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ## TITULO V (SIC). DE LA ESTADISTICA Y EVALUACION
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ### CAPITULO UNICO. Del Informe
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
-
 ###### Artículo 228.
 
-El Presidente del Consejo rendirá el informe anual de actividades al cual corresponderá un dictamen de evaluación suscrito por los integrantes de la Junta de Gobierno del Organismo Estatal, pudiéndose emitir votos particulares cuando algún integrante de la Junta no comparta los criterios propuestos en el documento valuatorio en cuanto a la fidelidad del informe o a la ejecución de las acciones aprobadas por la Junta.
-
-El dictamen de evaluación deberá rendirse dentro de los quince días siguientes a la presentación del informe, y sus puntos resolutivos deberán de proponer las medidas que se consideren necesarias para mejorar las estrategias de prevención y atención de la violencia intrafamiliar, las cuales, si fueren aprobadas por la mayoría de los integrantes de la Junta de Gobierno del Organismo Estatal, serán incorporadas al Programa para su aplicación.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2003)
 
 > <small>(ADICIONADO CON LOS TITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -3420,3 +3158,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Ejecutivo Estatal deberá expedir las disposiciones reglamentarias correspondientes.
 
 TERCERO. Se derogan todas las disposiciones legales que contravengan el presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO.- Se deroga el Libro Sexto del Código de Asistencia Social para el Estado de Jalisco, así como todas las disposiciones que se opongan a la presente Ley.
+
+TERCERO.- Los procedimientos iniciados en la vigencia del Libro Sexto del Código de de (sic) Asistencia Social para el Estado de Jalisco, se seguirán conforme al mismo hasta agotar las instancias correspondientes.
+
+CUARTO.- Una vez entrada en vigor la presente ley, el titular del poder Ejecutivo del Estado deberá, en un plazo de 90 días naturales, expedir el reglamento de la Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Jalisco.
+
+QUINTO.- La instalación del nuevo Consejo Estatal se efectuará, 30 días una vez entrada en vigor la presente Ley.
