@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "1999-12-30"
+last_updated: "2000-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -197,7 +197,7 @@ Para determinar la preferencia respecto de los créditos fiscales, se estará a 
 
 > <small>(REFORMADA, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-I.- Los créditos municipales, provenientes de contribuciones, productos y aprovechamientos son preferentes a cualesquier otros, con excepción de los créditos fiscales federales y estatales, créditos con garantía hipotecaria o prendaria, de los créditos de alimentos, de salarios o sueldos devengados en el último año o de indemnizaciones a los obreros, de acuerdo con la Ley Federal del Trabajo.
+I.- Los créditos municipales, provenientes de contribuciones, productos y aprovechamientos, son preferentes a cualesquier otros, con excepción de los créditos fiscales federales y estatales, créditos con garantía hipotecaria o prendaria, de los créditos de alimentos, de salarios o sueldos devengados en el último año o de indemnizaciones a los obreros, de acuerdo con la Ley Federal del Trabajo.
 
 II.- Para que sea aplicable la excepción establecida en la fracción anterior, será requisito indispensable que las garantías hipotecarias y en su caso, las prendarias, se encuentren debidamente inscritas en el Registro Público de la Propiedad que corresponda y respecto de los créditos por alimentos que se haya presentado la demanda ante las autoridades competentes.
 
@@ -307,7 +307,7 @@ Cuando las autoridades municipales tengan duda de que algún inmueble no sea del
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
-Los beneficiarios de las exenciones deberán manifestar a la misma autoridad cualquier notificación de las circunstancias que hubieran fundado las mismas.
+Los beneficiarios de las exenciones deberán manifestar a la misma autoridad cualquier modificación de las circunstancias que hubieran fundado las mismas.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -383,13 +383,13 @@ III.- El deudor sea declarado en estado de quiebra, concurso, suspensión de pag
 
 Cuando no se pague un crédito fiscal en la fecha o dentro del plazo señalado en las disposiciones respectivas, deberán pagarse recargos en concepto de indemnización al Fisco Municipal.
 
-La tasa de los recargos será de un 50% mayor de lo que se fije anualmente conforme a las Leyes de Ingresos y Presupuesto de Ingresos de los Ayuntamientos del Estado, debiendo causarse por cada mes o fracción que transcurra, a partir del día en que se debió hacer el pago y hasta que el mismo se efectúe.
+La tasa de los recargos será de un 50% mayor de la que se fije anualmente conforme a las Leyes de Ingresos y Presupuestos de Ingresos de los Ayuntamientos del Estado, debiendo causarse por cada mes o fracción que transcurra, a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
 
-Los recargos se causarán hasta por 5 años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, los gastos de ejecución y las multas por infracción a disposiciones fiscales. Cuando el pago haya sido menor al que corresponda, los recargos se computarán sobre la diferencia.
+Los recargos se causarán hasta por 5 años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, los gastos de ejecución y las multas por infracción a disposiciones fiscales. Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia.
 
 Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la oficina recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente.
 
-Cuando el contribuyente pague en forma espontánea las contribuciones omitidas, el importe y los recargos no excederán de los causados durante un año.
+Cuando el contribuyente pague en forma espontánea las contribuciones omitidas, el importe de los recargos no excederá de los causados durante un año.
 
 En el caso de aprovechamientos, los recargos se calcularán de conformidad con lo dispuesto en este artículo, sobre el total del crédito fiscal, excluyendo los propios recargos y los gastos de ejecución. No causarán recargos las multas no fiscales.
 
@@ -445,7 +445,7 @@ Las multas por infracción a las disposiciones fiscales, podrán ser condonadas 
 
 ###### ARTICULO 40.
 
-Las facultades del Fisco Municipal para determinar la existencia de obligaciones fiscales, señalar las bases de su liquidación o fijarlas en cantidad líquida; para imponer sanciones por infracción a las disposiciones fiscales, así como las facultades de verificar en cumplimiento o incumplimiento de dichas disposiciones, se extinguen en el término de cinco años.
+Las facultades del Fisco Municipal para determinar la existencia de obligaciones fiscales, señalar las bases de su liquidación o fijarlas en cantidad líquida; para imponer sanciones por infracción a las disposiciones fiscales, así como las facultades de verificar el cumplimiento o incumplimiento de dichas disposiciones, se extinguen en el término de cinco años.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -473,7 +473,7 @@ El plazo señalado en este artículo no está sujeto a interrupción y sólo se 
 
 El crédito fiscal se extingue por prescripción en el término de cinco años.
 
-El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá imponer como excepción en los recursos administrativos; dicho término se interrumpirá en cada gestión de cobro que el acreedor notifique o haga saber al deudor o por reconocimiento expreso o tácito de éste, respecto de la existencia del crédito. Se considera gestión de cobro, cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del deudor.
+El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en los recursos administrativos; dicho término se interrumpirá en cada gestión de cobro que el acreedor notifique o haga saber al deudor o por reconocimiento expreso o tácito de éste, respecto de la existencia del crédito. Se considera gestión de cobro, cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del deudor.
 
 Los particulares podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales.
 
@@ -517,7 +517,7 @@ Son obligaciones de los contribuyentes, así como de los sujetos que tengan obli
 
 > <small>(REFORMADA, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-I.- Inscribirse, dentro de los diez días siguientes a la fecha de iniciación de operaciones, o de que naciere a su cargo la obligación de retener o recaudar contribuciones municipales, en el Registro de Empadronamiento de la Tesorería Municipal respectivo.
+I.- Inscribirse, dentro de los diez días siguientes a la fecha de iniciación de operaciones, o de que naciere a su cargo la obligación de retener o recaudar contribuciones municipales, en el Registro de Empadronamiento de la Tesorería Municipal respectiva.
 
 II.- Pagar oportunamente los créditos fiscales en los términos que dispongan las leyes fiscales municipales.
 
@@ -535,7 +535,7 @@ VIII.- Las demás que dispongan las Leyes.
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-Quedan exceptuados del cumplimiento de la obligación en la fracción I de este artículo las personas morales citadas en el artículo 24 de la presente Ley, sin menoscabo de su obligación de retener o recaudar créditos fiscales municipales en los casos que los dispongan las leyes o convenios.
+Quedan exceptuados del cumplimiento de la obligación señalada en la fracción I de este artículo, las personas morales citadas en el artículo 24 de la presente Ley, sin menoscabo de su obligación de retener o recaudar créditos fiscales municipales en los casos que los dispongan las leyes o convenios.
 
 ###### ARTICULO 50.
 
@@ -549,7 +549,7 @@ ARTICULO 50 BIS.- Quienes deban inscribirse en el Registro de Empadronamiento de
 
 La cédula de registro o de inscripción deberá estar colocada en lugar visible del establecimiento y, a falta de éste, conservarse en el domicilio del interesado, y citarse en todas las promociones que se realicen ante las autoridades fiscales.
 
-Los Ayuntamientos mediante disposiciones de carácter general, determinarán la forma y la técnica en que se deba llevar el registro a que se refiere este artículo.
+Los Ayuntamientos, mediante disposiciones de carácter general, determinarán la forma y la técnica en que se deberá llevar el registro a que se refiere este artículo.
 
 ## TITULO SEGUNDO. De los Impuestos
 
@@ -623,17 +623,15 @@ El impuesto se causará:
 
 (VEASE TABLA ANEXA)
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 9 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 57.
 
-Tratándose de predios no edificados, las tasas que resulten, después de aplicar a cada una de las categorías, la tarifa a que se refiere la fracción II del artículo anterior, se incrementarán en un 1 al millar anual o su equivalente al trimestre en forma progresiva y acumulativa, hasta el término de diez años, conforme a las normas siguientes:
+Tratándose de predios no edificados, las sobretasas existentes para cada predio, se reducirán en un 28.5%.
 
 I.- (DEROGADA, B.O. 16 DE NOVIEMBRE DE 1987)
 
-> <small>(REFORMADA, B.O. 16 DE NOVIEMBRE DE 1987)</small>
-
-II.- Cuando sean enajenados por particulares, el aumento se causará un año después de celebrada la operación de adquisición respectiva.
+II.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2000)
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
@@ -849,7 +847,7 @@ Es objeto de este Impuesto la explotación de diversiones y espectáculos públi
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
-Por diversión y espectáculo público debe de entenderse toda función esparcimiento, sea teatral, deportiva o de cualquier naturaleza semejante que se verifique en salones, teatros, calles, plazas, locales abiertos o cerrados, en donde se reúna un grupo de personas, pagando por ello cierta suma de dinero.
+Por diversión y espectáculo público debe entenderse toda función de esparcimiento, sea teatral, deportiva o de cualquier naturaleza semejante que se verifique en salones, teatros, calles, plazas, locales abiertos o cerrados, en donde se reúna un grupo de personas, pagando por ello cierta suma de dinero.
 
 > <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -951,7 +949,7 @@ Los Ayuntamientos podrán ordenar la suspensión de un espectáculo o diversión
 
 ###### ARTICULO 93.
 
-Es objeto de este impuesto la celebración dentro de la jurisdicción territorial de los Municipios del Estado, de loterías, rifas o sorteos de cualquier clase, autorizadas legalmente.
+Es objeto de este impuesto la celebración, dentro de la jurisdicción territorial de los Municipios del Estado, de loterías, rifas o sorteos de cualquier clase, autorizados legalmente.
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -999,7 +997,7 @@ Las Tesorerías Municipales, podrán nombrar interventores para que concurran a 
 
 ###### ARTICULO 100.
 
-Los Ayuntamientos de los Municipios del Estado, conforme a sus características y necesidades propias, podrán proponer en sus Iniciativas de Leyes de Ingresos y Presupuestos de Ingresos, los impuestos adicionales que requieran, los que en todo caso deberán fijarse como respaldo financiero en obras y acciones de interés general, asistencia social, mejoramiento en la prestación de servicios públicos, fomento turístico, fomento deportivo y sostenimientos de instituciones de educación media y superior.
+Los Ayuntamientos de los Municipios del Estado, conforme a sus características y necesidades propias, podrán proponer en sus Iniciativas de Leyes de Ingresos y Presupuestos de Ingresos, los impuestos adicionales que requieran, los que en todo caso deberán fijarse como respaldo financiero en obras y acciones de interés general, asistencia social, mejoramiento en la prestación de los servicios públicos, fomento turístico, fomento deportivo y sostenimiento de instituciones de educación media y superior.
 
 > <small>(REFORMADO, B.O. 19 DE JULIO DE 1993)</small>
 
@@ -1011,13 +1009,13 @@ Será objeto de este impuesto la realización de pagos por concepto de los impue
 
 Son sujetos de estos impuestos, quienes realicen los pagos a que se refiere el artículo anterior, siendo base de los mismos el monto total del pago realizado, debiendo cubrirse simultáneamente a éste.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 27 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE JUNIO DE 1991)</small>
 
 ###### ARTICULO 103.
 
-Las Leyes de Ingresos y Prepuesto de Ingresos señalarán las tasas de estos impuestos, las que en su totalidad en ningún caso podrá exceder del 50% sobre la base determinada.
+Las Leyes de Ingresos y Presupuestos de Ingresos señalarán las tasas de estos impuestos, las que en su totalidad en ningún caso podrán exceder del 50% sobre la base determinada.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, B.O. 27 DE JUNIO DE 1991)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 27 DE JUNIO DE 1991)</small>
 
 > <small>N. DE E. LOS TITULOS TERCERO A OCTAVO SE REESTRUCTURAN INTEGRAMENTE, CON SUS RESPECTIVOS CAPITULOS Y SECCIONES, OBSERVANDOSE QUE ESTAS ULTIMAS NO EXISTEN EN LA NUEVA ESTRUCTURA DE LA LEY, B.O. 16 DE NOVIEMBRE DE 2003.</small>
 
@@ -1421,13 +1419,35 @@ Por los servicios en materia de control sanitario de animales domésticos, que s
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 30 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO PRIMERO. Disposiciones Genéricas
+### CAPITULO DECIMO QUINTO. Licencias para la Colocación de Anuncios o Publicidad
 
-> <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-### CAPITULO TERCERO. Forma de Pago
+ARTICULO 138 BIS.- Por el otorgamiento de licencias o permisos para la colocación de anuncios y carteles o cualquier tipo de publicidad, excepto la que se realice por medio de televisión, radio, periódicos, revistas e internet, se pagarán los derechos conforme a la siguiente tarifa:
 
-> <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
+(VEASE TABLA ANEXA)
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 138 BIS A.- Los pagos a que se refiere el artículo anterior, así como sus refrendos, serán cubiertos por las personas físicas o morales que fijen o coloquen los anuncios o carteles o realicen cualquier tipo de publicidad en los términos señalados en este Capítulo.
+
+Serán responsables solidarios los propietarios de los predios, fincas o vehículos en donde se fijen o coloquen los anuncios o carteles o se lleve a cabo la publicidad, así como las personas físicas o morales cuyos productos, servicios o actividades sean objeto de los anuncios, carteles o publicidad.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 138 BIS B.- Estarán exentos del pago de estos derechos, los anuncios, carteles o cualquier tipo de publicidad que realicen las entidades gubernamentales en sus funciones de derecho público, los partidos políticos, las instituciones de asistencia o beneficencia pública, las asociaciones religiosas y las de carácter cultural.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2000)</small>
+
+### CAPITULO DECIMO SEXTO. Anuencias, Autorizaciones y Guías de Transportación en Materia de Bebidas con Contenido Alcohólico
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 138 BIS C.- Los servicios de expedición de anuencias municipales para tramitar licencias para la venta y consumo de bebidas con contenido alcohólico, expedición de autorizaciones eventuales y expedicicón de guías de transportación de bebidas con contenido alcohólico, causarán derechos atendiendo a la ubicación y al tipo de giro del establecimiento o evento de que se trate, conforme a las siguientes cuotas:
+
+(VEASE TABLA ANEXA)
+
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 138.
 
@@ -1435,9 +1455,9 @@ Las actividades señaladas en el presente Capítulo causarán las siguientes cuo
 
 (VEASE TABLA ANEXA)
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2000)</small>
 
-### CAPITULO CUARTO. Recursos
+### CAPITULO PRIMERO. Disposiciones Genéricas
 
 > <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
@@ -1449,21 +1469,21 @@ Las actividades señaladas en el presente Capítulo causarán las siguientes cuo
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO UNICO. Productos
+### CAPITULO TERCERO. Forma de Pago
 
-> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
 ###### ARTICULO 139.
 
-Las contribuciones especiales por mejoras se sujetarán a lo establecido en la presente Ley y en las Leyes de Ingresos y Presupuesto de Ingresos en los Ayuntamientos de los Municipios del Estado.
+Las contribuciones especiales por mejoras se sujetarán a lo establecido en la presente Ley y en las Leyes de Ingresos y Presupuesto de Ingresos de los Ayuntamientos de los Municipios del Estado.
 
 > <small>(REFORMADO, B.O. 9 ENERO DE 1997)</small>
 
 ###### ARTICULO 140.
 
-Cuando las obras públicas a que se refieren el presente Capítulo, sean realizadas por dependencias o entidades de la administración pública federal o estatal previa la celebración de los acuerdos de coordinación respectivos, los ayuntamientos podrán percibir en los términos del presente Título, las contribuciones especiales por mejoras; y los ingresos que se perciban por el valor recuperable que de dichas obras corresponda, se destinarán a la ejecución de otras obras.
+Cuando las obras públicas a que se refiere el presente Capítulo, sean realizadas por dependencias o entidades de la administración pública federal o estatal previa la celebración de los acuerdos de coordinación respectivos, los ayuntamientos podrán percibir en los términos del presente Título, las contribuciones especiales por mejoras; y los ingresos que se perciban por el valor recuperable que de dichas obras corresponda, se destinarán a la ejecución de otras obras.
 
-Y cuando las obras sean realizadas por los Ayuntamientos utilizando recursos de crédito, los ingresos que perciban por las citadas contribuciones se destinarán a pagar el financiamiento de las mismas y, en su caso, a la ejecución de otras públicas.
+Y cuando las obras sean realizadas por los Ayuntamientos utilizando recursos de crédito, los ingresos que perciban por las citadas contribuciones se destinarán a pagar el financiamiento de las mismas y, en su caso, a la ejecución de otras obras públicas.
 
 > <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
@@ -1505,7 +1525,7 @@ La cantidad global a cargo de los contribuyentes beneficiados, siempre será inf
 
 ###### ARTICULO 144.
 
-La acción para el cobro de las contribuciones especiales por mejoras, es preferente a cualquiera otra y afecta directamente el predio beneficiado.
+La acción para el cobro de las contribuciones especiales por mejoras, es preferente a cualquiera otra y afecta directamente al predio beneficiado.
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1515,9 +1535,9 @@ Los notarios públicos, corredores y funcionarios autorizados para dar fe públi
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO UNICO. Aprovechamientos
+### CAPITULO CUARTO. Recursos
 
-> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 7 DE MAYO DE 1992)</small>
 
 ###### ARTICULO 146.
 
@@ -1551,7 +1571,7 @@ III.- Los gastos generales necesarios para la ejecución de la obra, incluyendo 
 
 Del costo de las obras a que se refiere el Artículo anterior, deberá deducirse según sea el caso:
 
-I.- El precio en que se estime se venderán las fracciones de predios adquiridos, que no se utilicen para la obra;
+I.- El precio en que se estime se venderán las fracciones de predios adquiridos, que no se utilicen para la obra; y
 
 II.- El precio que se estime se venderán, previo el cumplimiento de las formalidades legales relativas, las superficies de vía pública que vayan a dejar de ser utilizadas como tales, con motivo de la ejecución de las obras.
 
@@ -1585,9 +1605,9 @@ II.- Por las obras de pavimentación, alumbrado público y ornato, el monto que 
 
 III.- Por las obras de electrificación, el monto que corresponda por inmueble se determinará dividiendo el importe total del valor recuperable entre el número de inmuebles ubicados en la respectiva zona de beneficio.
 
-> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO UNICO. Participaciones
+### CAPITULO UNICO. Productos
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1621,7 +1641,7 @@ No se pagarán las contribuciones especiales por mejoras por los predios a que s
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO PRIMERO. Infracciones
+### CAPITULO UNICO. Aprovechamientos
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1641,13 +1661,13 @@ Dentro de los quince días siguientes a la notificación del crédito fiscal cor
 
 (DEROGADO, B.O. 7 DE MAYO DE 1992)
 
-> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ## TITULO QUINTO. Productos
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO SEGUNDO. Sanciones
+### CAPITULO UNICO. Participaciones
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1699,7 +1719,7 @@ El monto de los productos por la enajenación de lotes en los panteones municipa
 
 ###### ARTICULO 164.
 
-Las agencias funerarias deberán de recaudar o retener los productos que, por concepto de las enajenaciones a que se refiere el artículo anterior, corresponden a los Ayuntamientos, los cuales deberán ser enterados a la Tesorería Municipal dentro de los primeros cinco días de cada mes, ocasionando la mora de dicho entero, los recargos respectivos conforme a las tasas que corresponden.
+Las agencias funerarias deberán de recaudar o retener los productos que, por concepto de las enajenaciones a que se refiere el artículo anterior, corresponden a los Ayuntamientos, los cuales deberán ser enterados a la Tesorería Municipal, dentro de los primeros cinco días de cada mes, ocasionando la mora de dicho entero, los recargos respectivos conforme a las tasas que corresponden.
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1715,7 +1735,7 @@ Los saldos insolutos derivados del contrato, causarán la tasa de interés que a
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-### CAPITULO UNICO. Reglamentos, Circulares y demás Disposiciones Administrativas de Observancia General en Materia Hacendaria
+### CAPITULO PRIMERO. Infracciones
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -1741,11 +1761,11 @@ VII.- Los aprovechamientos diversos, provenientes de ingresos no especificados.
 
 ###### ARTICULO 167.
 
-En todo lo relacionado con el pago de las multas señaladas en la fracción I del artículo que antecede, se observarán las disposiciones de los ordenamientos jurídicos que las prevengan y, de no existir una regulación específica de los mismos para este supuesto, serán aplicables a las siguientes normas:
+En todo lo relacionado con el pago de las multas señaladas en la fracción I del artículo que antecede, se observarán las disposiciones de los ordenamientos jurídicos que las prevengan y, de no existir una regulación específica de los mismos para este supuesto, serán aplicables las siguientes normas:
 
 I.- El pago de la multa deberá hacerse en la caja recaudadora municipal del lugar donde se cometió la infracción, dentro del término de quince días, contados a partir de la fecha en la que se impuso la multa;
 
-II.- El pago podrá hacerse por correo debiéndose remitir el documento en el que conste la multa, con su importe en cheque o giro postal;
+II.- El pago podrá hacerse por correo, debiéndose remitir el documento en el que conste la multa, con su importe en cheque o giro postal;
 
 III.- Las multas podrán pagarse mediante cheque personal sin necesidad de certificación; y
 
@@ -1756,6 +1776,10 @@ IV.- La acción del Fisco para hacer efectivas las sanciones, mediante el proced
 ## TITULO SEPTIMO. Participaciones
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+
+### CAPITULO SEGUNDO. Sanciones
+
+> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 168.
 
@@ -1783,6 +1807,10 @@ Las participaciones estatales que en los términos de las leyes, decretos y conv
 
 > <small>(REFORMADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
+### CAPITULO UNICO. Reglamentos, Circulares y demás Disposiciones Administrativas de Observancia General en Materia Hacendaria
+
+> <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 170.
 
 Son infracciones a la presente Ley, las siguientes:
@@ -1803,9 +1831,9 @@ VII.- No pagar total o parcialmente los impuestos, contribuciones especiales por
 
 VIII.- Eludir el pago de las prestaciones fiscales como consecuencia de inexactitudes, simulaciones, falsificaciones y otras maniobras;
 
-IX.- Resistirse por cualquier medio a las visitas de inspección, no suministrar los datos e informes que legalmente pueden exigir los inspectores y, en general, negarse a proporcionar los elementos que se requieran para el desarrollo de las visitas domiciliarias;
+IX.- Resistirse por cualquier medio a las visitas de inspección, no suministrar los datos e informes que legalmente puedan exigir los inspectores y, en general, negarse a proporcionar los elementos que se requieran para el desarrollo de las visitas domiciliarias;
 
-X.- No enterar total o parcialmente dentro de los plazos que establezca esta Ley, el importe de las prestaciones fiscales retenidas, recaudadas o que debieran retener o recaudar;
+X.- No enterar total o parcialmente, dentro de los plazos que establezca esta Ley, el importe de las prestaciones fiscales retenidas, recaudadas o que debieran retener o recaudar;
 
 XI.- Presentar los documentos relativos al pago de las prestaciones retenidas, alterados, falsificados, incompletos o con errores, que traigan consigo la evasión total o parcial de las mismas prestaciones;
 
@@ -1813,7 +1841,7 @@ XII.- No devolver oportunamente a las autoridades que se determinen en las leyes
 
 XIII.- Producir, fabricar, transformar, almacenar o expender artículos gravados sin cumplir con las obligaciones que establezcan las leyes fiscales; y
 
-XIV.- Las demás que establezcan en los Reglamentos, las Circulares y las demás disposiciones de observancia general que emitan los Ayuntamientos, en materia hacendaria.
+XIV.- Las demás que se establezcan en los Reglamentos, las Circulares y las demás disposiciones de observancia general que emitan los Ayuntamientos, en materia hacendaria.
 
 > <small>(ADICIONADO, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
@@ -2190,3 +2218,21 @@ B.O. 30 DE DICIEMBRE DE 1999.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día 1º de enero del año 2000, previa su publicación en el Boletín Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que en lo conducente se opongan a los efectos y alcances del presente Decreto.
+
+B.O. 31 DE DICIEMBRE DE 2000.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor previa su publicación en el Boletín Oficial del Gobierno del Estado el día 1° de enero de 2001.
+
+###### ARTICULO SEGUNDO.
+
+Se adicionan en la parte correspondiente a derechos de las Leyes de Ingresos y Presupuesto de Ingresos de los Ayuntamientos de los Municipios del Estado, para el ejercicio fiscal de 2001, los gravámenes relativos a bebidas con contenido alcohólico, y anuncios y publicidad a que se refiere esta Ley, para los efectos de su aplicación y cobro correspondiente. De los ingresos que se recauden por estos conceptos, los Ayuntamientos informarán al Congreso del Estado.
+
+###### ARTICULO TERCERO.
+
+La información adicional que proporcione el Instituto Catastral y Registral a los Municipios de la Entidad, a efecto de actualizar las bases de datos que contienen los valores catastrales y la modificación de tarifas, no tendrá costo adicional alguno en aquellos casos en que ya hubiesen pagado dicha contraprestación por virtud del convenio respectivo y sea con el objeto de actualizar dicha base de datos exclusivamente.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
