@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-defensoria-social-y-de-oficio-del-estado-de-san-luis-149
 country: "mx"
 rank: "ley"
 publication_date: "1999-08-06"
-last_updated: "1999-08-06"
+last_updated: "2002-06-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE DEFENSORIA SOCIAL Y DE OFICIO DEL ESTADO DE SAN LUIS POTOSI -ANTES LEY DE DEFENSORIA SOCIAL DEL ESTADO DE SAN LUIS POTOSI-
 
-LEY DE DEFENSORIA SOCIAL DEL ESTADO DE SAN LUIS POTOSI
+LEY DE DEFENSORIA SOCIAL Y DE OFICIO DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 6 de agosto de 1999.
 
@@ -39,51 +39,71 @@ PRIMERO.- SE APRUEBA LA LEY DE DEFENSORIA SOCIAL DEL ESTADO DE SAN LUIS POTOSI.
 
 ...
 
-LEY DE DEFENSORIA SOCIAL DEL ESTADO DE SAN LUIS POTOSI
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JUNIO DE 2002)</small>
+
+LEY DE DEFENSORIA SOCIAL Y DE OFICIO DEL ESTADO DE SAN LUIS POTOSI
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPITULO I. DE LA NATURALEZA Y OBJETO
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 1º.
 
-La presente Ley tiene por objeto sentar las bases de la defensa social de los habitantes del Estado ante cualquier autoridad y establecer los servicios de asesoría de los mismos en toda controversia jurisdiccional, así como regular el funcionamiento y organización de la Coordinación General de la Defensoría Social, para dar cumplimiento a los postulados del artículo 18 de la Constitución Política del Estado.
+La presente Ley tiene por objeto sentar las bases de la defensa social de los habitantes del Estado, ante cualquier autoridad y establecer los servicios de asesoría de los mismos en toda controversia jurisdiccional; así como las de la defensa de oficio; y regular el funcionamiento y organización de la Coordinación General de la Defensoría Social y de Oficio, para dar cumplimiento a los postulados del artículo 18 de la Constitución Política del Estado, y 20 fracción IX de la Constitución Política de los Estados Unidos Mexicanos.
 
-La Coordinación de la Defensoría Social estará adscrita y dependerá en forma directa del Despacho del Ejecutivo.
+La Coordinación General de la Defensoría Social y de Oficio, estará adscrita y dependerá en forma directa del Despacho del Ejecutivo.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 2º.
 
-La Defensoría Social vinculará sus acciones con todas las dependencias de Gobierno que tengan como propósito la atención de los sectores de la población que por razones económicas, sociales, étnicas, geográficas o culturales demanden la actuación del Gobierno en la prestación de sus servicios públicos y en la satisfacción de sus necesidades.
+La Coordinación General de la Defensoría Social y de Oficio, vinculará sus acciones con todas las dependencias de Gobierno que tengan como propósito la atención de los sectores de la población que por razones económicas, sociales, étnicas, geográficas o culturales, demanden la actuación del Gobierno en la prestación de sus servicios públicos y en la satisfacción de sus necesidades.
 
-La Defensoría Social representará los intereses específicos, individuales o colectivos de las personas pertenecientes a los sectores antes citados, ante las distintas autoridades promoviendo su defensa y protección, ante las autoridades administrativas y los órganos jurisdiccionales, según sea el caso.
+La Coordinación General de la Defensoría Social y de Oficio representará los intereses específicos, individuales o colectivos de las personas pertenecientes a los sectores antes citados, ante las distintas autoridades promoviendo su defensa y protección, ante las autoridades administrativas y los órganos jurisdiccionales, según sea el caso, y prestará la defensa a que se refiere la fracción IX del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 3º.
 
-Dentro del ejercicio de sus funciones, la Defensoría Social deberá promover ante las autoridades correspondientes cuantas gestiones sean necesarias en relación a la defensa de los intereses de los individuos, grupos y comunidades a que se refiere el artículo anterior, aportando los datos y elementos disponibles con los cuales pueda obtenerse la modificación o implantación de programas de mejoramiento y auxilio, conducentes a la solución más conveniente y adecuada para los intereses de los habitantes del Estado.
+Dentro del ejercicio de sus funciones la Coordinación General de la Defensoría Social y de Oficio, deberá promover ante las autoridades correspondientes cuantas gestiones sean necesarias en relación a la defensa de los intereses de los individuos, grupos y comunidades a que se refiere el artículo anterior, aportando los datos y elementos disponibles con los cuales pueda obtenerse la modificación o implantación de programas de mejoramiento y auxilio, conducentes a la solución más conveniente y adecuada para los intereses de los habitantes del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 4º.
 
-La Defensoría Social podrá solicitar a las autoridades del Estado, informes, dictámenes, documentos u opiniones cuando lo requiera para el cumplimiento de sus funciones y para la mejor asesoría y defensa jurídica de su (sic) representados. Las autoridades requeridas estarán obligadas a expedir con toda oportunidad dichos documentos, excepción hecha de los en que por disposición de la ley deba guardarse discreción o reserva.
+La Coordinación General de la Defensoría Social y de Oficio podrá solicitar a las autoridades del Estado, informes, dictámenes, documentos u opiniones cuando lo requiera para el cumplimiento de sus funciones, y para la mejor asesoría y defensa jurídica de su (sic) representados. Las autoridades requeridas estarán obligadas a expedir con toda oportunidad dichos documentos, excepción hecha de los en que por disposición de la ley deba guardarse discreción o reserva.
 
-### CAPITULO II. DE LA ORGANIZACION Y FUNCIONAMIENTO DE LA DEFENSORIA SOCIAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JUNIO DE 2002)</small>
+
+### CAPITULO II. DE LA ORGANIZACION Y FUNCIONAMIENTO DE LA DEFENSORIA SOCIAL Y DE OFICIO
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 5º.
 
-Corresponde a la Defensoría Social el despacho de los asuntos que expresamente le encomiendan la Constitución Política del Estado, la Ley Orgánica de la Administración Pública del Estado, la presente Ley, sus reglamentos, así como las instrucciones, acuerdos y convenios que determine el Titular del Ejecutivo del Estado.
+Corresponde a la Coordinación General de la Defensoría Social y de Oficio, el despacho de los asuntos que expresamente le encomiendan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley Orgánica de la Administración Pública del Estado, la presente Ley, sus reglamentos, así como las instrucciones, acuerdos y convenios que determine el Titular del Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 6º.
 
-La Defensoría Social conforme a las atribuciones que le confieren la Constitución Política del Estado, esta Ley y sus reglamentos, deberá programar, adecuar, diseñar y ejecutar sus programas de trabajo de acuerdo con los objetivos y metas del Plan Estatal de Desarrollo.
+La Coordinación General de la Defensoría Social y de Oficio, conforme a las atribuciones que le confieren la Constitución Política del Estado, esta Ley y sus reglamentos, deberá programar, adecuar, diseñar y ejecutar sus programas de trabajo de acuerdo con los objetivos y metas del Plan Estatal de Desarrollo.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 7º.
 
-Corresponde a la Defensoría Social prestar a través de sus abogados, la asistencia jurídica profesional en forma gratuita para defender, patrocinar, proteger y asesorar a los habitantes del Estado que carezcan de medios económicos para contratar los servicios de un abogado particular, en los asuntos que lo requieran, así como atender las condiciones de confinamiento en los casos de internos sentenciados en los distintos reclusorios del Estado, haciendo uso del juicio de amparo cuando resulte necesario, en defensa de las garantías individuales de sus patrocinados.
+Corresponde a la Coordinación General de la Defensoría Social y de Oficio, prestar a través de sus abogados la asistencia jurídica profesional en forma gratuita para defender, patrocinar, proteger y asesorar a los habitantes del Estado que carezcan de medios económicos para contratar los servicios de un abogado particular, en los asuntos que lo requieran, así como atender las condiciones de confinamiento en los casos de internos sentenciados en los distintos reclusorios del Estado, haciendo uso del juicio de amparo cuando resulte necesario en defensa de las garantías individuales de sus patrocinados. Asimismo, le corresponde prestar la defensa que establece el artículo 20 fracción IX de la Constitución General de la República.
 
-Los abogados de la Defensoría Social en sus distintas áreas podrán solicitar por escrito ser excluidos de todo procedimiento en que intervenga un abogado patrono particular.
+Los abogados de la Coordinación General de la Defensoría Social y de Oficio en sus distintas áreas, podrán solicitar por escrito ser excluidos de todo procedimiento en que intervenga un abogado patrono particular.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 8º.
 
-Para el despacho de los asuntos de su competencia, la Coordinación General de la Defensoría Social contará con los servidores públicos y unidades administrativas siguientes:
+Para el despacho de los asuntos de su competencia, la Coordinación General de la Defensoría Social y de Oficio, contará con los servidores públicos y unidades administrativas siguientes:
 
 I. Un Coordinador General;
 
@@ -133,11 +153,15 @@ III. Zona Huasteca: Sexto, Séptimo y Octavo Distritos Judiciales, con residenci
 
 IV. Zona Norte: Segundo, Noveno, Décimo y Undécimo Distritos Judiciales, con residencia en Matehuala.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 10.
 
-La distribución de las actividades relacionadas con las funciones de la Defensoría Social, se efectuarán de acuerdo con la zonificación a que se hace referencia en el artículo anterior.
+La distribución de las actividades relacionadas con las funciones de la Coordinación General de la Defensoría Social y de Oficio, se efectuarán de acuerdo con la zonificación a que se hace referencia en el artículo anterior.
 
-Corresponderá al Coordinador General, la orientación, vigilancia y seguimiento de todas y cada una de las acciones que son competencia de la Defensoría Social, cuidando la puntual intervención en las actuaciones que se realicen ante las autoridades respectivas.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2002)</small>
+
+Corresponderá al Coordinador General, la orientación, vigilancia y seguimiento de todas y cada una de las acciones que son competencia de la Coordinación General de la Defensoría Social, y de Oficio, cuidando la puntual intervención en las actuaciones que se realicen ante las autoridades respectivas.
 
 El Coordinador General podrá delegar en sus subalternos para la mejor distribución y despacho de los asuntos de su competencia las facultades que le son propias, siempre que no se trate de aquellas cuyo ejercicio le corresponde directamente.
 
@@ -145,7 +169,9 @@ El Coordinador General podrá delegar en sus subalternos para la mejor distribuc
 
 No se atenderán ni se tramitarán asuntos por conducto de interpósita persona, sino que se entenderán con los propios interesados. Sólo por incapacidad física o mental de éstos, se podrá tratar y resolver la consulta con algún familiar o pariente cercano del mismo interesado, o bien con su representante legal debidamente acreditado para tal efecto.
 
-## TITULO SEGUNDO. DE LA COORDINACION DE LA DEFENSORIA SOCIAL
+> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JUNIO DE 2002)</small>
+
+## TITULO SEGUNDO. DE LA COORDINACION DE LA DEFENSORIA SOCIAL Y DE OFICIO
 
 ### CAPITULO I. DEL COORDINADOR GENERAL
 
@@ -153,25 +179,41 @@ No se atenderán ni se tramitarán asuntos por conducto de interpósita persona,
 
 El Coordinador General será designado por el Gobernador del Estado, como el titular de la Defensoría Social, con la representación suficiente para el desempeño de las funciones atribuidas a la Defensoría Social por el artículo 18 de la Constitución Política del Estado, orientada esta función prioritariamente hacia los habitantes, grupos y comunidades más desprotegidos, sobre las bases del sistema de justicia constitucional.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 13.
 
-Corresponden al Coordinador General de la Defensoría Social, las siguientes atribuciones:
+Corresponden al Coordinador General de la Defensoría Social y de Oficio, las siguientes atribuciones:
 
-I. Representar a la Defensoría Social;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2002)</small>
 
-II. Conducir y coordinar la elaboración y ejecución de los programas de trabajo de la Defensoría Social;
+I. Representar a la Coordinación General de la Defensoría Social y de Oficio;
 
-III. Definir las relaciones de la Defensoría Social con las demás dependencias del Ejecutivo y autoridades del Estado;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2002)</small>
+
+II. Conducir y coordinar la elaboración y ejecución de los programas de trabajo de la Coordinación General de la Defensoría Social y de Oficio;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2002)</small>
+
+III. Definir las relaciones de la Coordinación General de la Defensoría Social y de Oficio, con las demás dependencias del Ejecutivo y autoridades del Estado;
 
 IV. Comparecer ante el Congreso del Estado cuando éste o sus comisiones lo soliciten, contando para ello con el acuerdo del Gobernador del Estado;
 
-V. Vigilar y proveer conforme a la presente Ley, que se cumpla con todo cuanto se refiera a lo ordenado por el artículo 18 de la Constitución Política del Estado, en relación a la gestión, defensa, patrocinio y asesoría profesional y gratuita, para aquellas personas que por su condición socioeconómica o por disposición de la ley lo requieran;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2002)</small>
 
-VI. Proponer al Ejecutivo los proyectos de iniciativa de ley, reformas o adiciones legislativas que considere necesarias para la satisfacción de los fines de la Defensoría Social;
+V. Vigilar y proveer conforme a la presente Ley, que se cumpla con todo cuanto se refiera a lo ordenado por el artículo 18 de la Constitución Política del Estado, en relación a la gestión, defensa, patrocinio y asesoría profesional y gratuita, para aquellas personas que por su condición socioeconómica o por disposición de la ley lo requieran, así como con lo establecido en el artículo 20 fracción IX de la Constitución Política de los Estados Unidos Mexicanos;
 
-VII. Proponer al Ejecutivo para su aprobación y publicación, los proyectos de reglamentos internos, acuerdos administrativos, circulares, manuales de operación y procedimientos, así como de servicios al público, relacionados con la Defensoría Social;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2002)</small>
 
-VIII. Acordar los asuntos de su competencia con el Gobernador del Estado y que a su juicio sean de relevancia especial, así como rendirle informe cada tres meses de las actividades realizadas por la Defensoría Social, precisando las características de las acciones, la razón de su ejecución y las autoridades ante las que se hubieren hecho promociones, proponiendo alternativas de solución cuando fuere el caso;
+VI. Proponer al Ejecutivo los proyectos de iniciativa de ley, reformas o adiciones legislativas que considere necesarias para la satisfacción de los fines de la Coordinación General de la Defensoría Social y de Oficio;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2002)</small>
+
+VII. Proponer al Ejecutivo para su aprobación y publicación, los proyectos de reglamentos internos, acuerdos administrativos, circulares, manuales de operación y procedimientos, así como de servicios al público, de la Coordinación General de la Defensoría Social y de Oficio;
+
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2002)</small>
+
+VIII. Acordar los asuntos de su competencia con el Gobernador del Estado y que a su juicio sean de relevancia especial, así como rendirle informe cada tres meses de las actividades realizadas por la Coordinación General de la Defensoría Social y de Oficio, precisando las características de las acciones, la razón de su ejecución y las autoridades ante las que se hubieren hecho promociones, proponiendo alternativas de solución cuando fuere el caso;
 
 IX. Recabar los informes de gestión que le deberán rendir por escrito en forma mensual todas las dependencias de su adscripción;
 
@@ -181,15 +223,19 @@ XI. Designar abogados visitadores responsables de la inspección de los trabajos
 
 XII. Encomendar directamente a los abogados defensores de las distintas áreas aquellos asuntos que considere convenientes;
 
-XIII. Llevar a cabo por sí o a través de los órganos y áreas de la Defensoría, las acciones previstas en la presente Ley y sus reglamentos para dar cumplimiento al objeto de la misma;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2002)</small>
+
+XIII. Llevar a cabo por sí o a través de los órganos y áreas de la Coordinación General de la Defensoría Social y de Oficio, las acciones previstas en la presente Ley y sus reglamentos, para dar cumplimiento al objeto de la misma;
 
 XIV. Otorgar permisos, licencias y comisiones al personal de la dependencia, y
 
 XV. Las que expresamente le encomiende el Titular del Poder Ejecutivo, le señalen la presente Ley y sus reglamentos, y los demás ordenamientos legales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 14.
 
-Para ser Coordinador General de la Defensoría Social, deberán reunirse los siguientes requisitos:
+Para ser Coordinador General de la Defensoría Social y de Oficio, deberán reunirse los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
@@ -207,7 +253,9 @@ V. Tener residencia efectiva en el Estado durante los dos años anteriores al d�
 
 El Subcoordinador de la Coordinación, estará encargado de la atención de los asuntos del despacho que directamente le encomiende el Coordinador General y de aquellos que expresamente consigne el Reglamento respectivo.
 
-Para ser Subcoordinador deberán reunirse los requistos que establece el artículo anterior.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2002)</small>
+
+Para ser Subcoordinador deberán reunirse los requisitos que establece el artículo anterior.
 
 ### CAPITULO III. DE LOS COORDINADORES REGIONALES
 
@@ -307,17 +355,37 @@ V. Las demás que se especifiquen en el Reglamento respectivo y los ordenamiento
 
 ### CAPITULO V. DE LA DEFENSORIA DE OFICIO
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 25.
 
-La Dirección de la Defensoría de Oficio tendrá por objeto proporcionar la defensa judicial en materia penal y civil, a las personas que de acuerdo a lo establecido en la presente Ley y en los demás ordenamientos legales aplicables lo requieran, así como aquellas que deban promover diligencias de jurisdicción voluntaria.
+La Dirección de la Defensoría de Oficio tendrá por objeto proporcionar la defensa judicial en materia penal a las personas que de acuerdo a lo establecido en el artículo 20 fracción IX de la Constitución Política de los Estados Unidos Mexicanos, la presente Ley y en los demás ordenamientos legales aplicables lo requieran.
 
 Los defensores de oficio deberán de interponer los recursos que procedan en los asuntos en que intervengan, incluido el juicio de amparo.
 
-La Defensoría de Oficio se regirá por lo dispuesto en el Reglamento respectivo y por las disposiciones de la presente Ley que le sean aplicables.
+El Director de la Defensoría de Oficio, deberá reunir los mismos requisitos que para ser Coordinador Regional, y tendrá en lo conducente las atribuciones que se establecen en el artículo 21 de la presente Ley.
 
-El Director de la Defensoría de Oficio, deberá reunir los mismos requisitos que para ser Coordinador Regional y tendrá en lo conducente las atribuciones que se establecen en el artículo 21 de la presente Ley, además de las que establezca el Reglamento correspondiente.
+El Director de la Defensoría de Oficio, con acuerdo del Coordinador General pondrá en conocimiento del Gobernador del Estado, del Procurador General de Justicia del Estado, y de la Comisión Estatal de Derechos Humanos, las quejas que los defensos presenten por falta de atención médica, vejaciones y malos tratos que sufran en el Centro de Readaptación Social en que se encuentren internos.
 
 Los Defensores de Oficio deberán cumplir con los mismos requisitos que para ser Defensor Social.
+
+Los abogados defensores adscritos a la Dirección de la Defensoría de Oficio, prestarán sus servicios profesionales de manera exclusiva al Estado de acuerdo con el contenido de esta Ley. Su jornada laboral se sujetará al horario que establece la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado y Municipios de San Luis Potosí.
+
+Asimismo, están obligados a rendir a la Dirección de su adscripción, un informe mensual sobre las acciones, promociones, gestiones y todo cuanto se relacione con la asistencia judicial que presten en los diversos asuntos de su atención.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2002)</small>
+
+ARTICULO 25 BIS. Los defensores adscritos a la Dirección de la Defensoría de Oficio, concurrirán diariamente a los Juzgados que les correspondan, en el horario que determine el Director conforme a las necesidades del servicio.
+
+Cada defensor deberá informar por escrito en forma sencilla y comprensible a sus defensos sobre la secuela del proceso, así como de los requisitos para obtener su libertad bajo caución. Asimismo, recabarán todos los datos que sirvan para presentar sus descargos y recibirán las quejas que tuvieren.
+
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2002)</small>
+
+ARTICULO 25 TER. Los defensores darán cuenta al Director de las conclusiones que formulen en cada proceso, con el fin de que haga las observaciones que considere pertinentes.
+
+Los Defensores de Oficio tendrán además las obligaciones que señalan los Código Penal y de Procedimientos Penales del Estado, y las demás leyes aplicables.
+
+Los defensores que presten sus servicios fuera del Primer Distrito Judicial, tendrán sus oficinas en la cabecera del Distrito Judicial correspondiente.
 
 ### CAPITULO VI. DE LA DEFENSORIA DE PERSONAS Y COMUNIDADES INDIGENAS
 
@@ -331,9 +399,11 @@ El Director acordará con el Coordinador General los programas y acciones que co
 
 ### CAPITULO VII. DE LA PROCURADURIA DE LA DEFENSA DEL TRABAJO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 27.
 
-La Procuraduría de la Defensa del Trabajo, de conformidad con lo establecido por el artículo 18 de la Constitución Política del Estado, dependerá de la Coordinación General de la Defensoría Social y funcionará de acuerdo a los lineamientos que ésta establezca con observancia a la ley de la materia y su propio Reglamento.
+La Procuraduría de la Defensa del Trabajo, de conformidad a las disposiciones de la Ley Orgánica de la Administración Pública Estatal, dependerá de la Secretaría General de Gobierno, y funcionará de acuerdo a las disposiciones de la ley de la materia y su propio reglamento.
 
 La Procuraduría de la Defensa del Trabajo, contará con inspectores en todo el territorio del Estado a fin de garantizar el cumplimiento de las normas laborales que establecen derechos y garantías a favor de los trabajadores y jornaleros.
 
@@ -353,19 +423,25 @@ V. Las que expresamente le señalan los artículos 530 al 536 de la Ley Federal 
 
 ### CAPITULO VIII. DE LOS TRABAJADORES SOCIALES
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 29.
 
-La Defensoría Social contará con trabajadores sociales dependientes de la Coordinación General, encargados de realizar los estudios e investigaciones socioeconómicos o culturales de los solicitantes de los servicios de la Defensoría, así como de efectuar las demás funciones que le atribuya el Coordinador General y el Reglamento respectivo.
+La Coordinación General de la Defensoría Social y de Oficio, contará con trabajadores sociales encargados de realizar los estudios e investigaciones socioeconómicos o culturales de los solicitantes de los servicios de la Defensoría, así como de efectuar las demás funciones que le atribuya el Coordinador General y el Reglamento respectivo.
 
 ### CAPITULO IX. DE LOS TRADUCTORES E INTERPRETES
 
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 30.
 
-Compete a los traductores adscritos a la Coordinación General de la Defensoría Social, auxiliar y asistir a las personas y comunidades indígenas que precisen de los servicios de los mismos.
+Compete a los traductores adscritos a la Coordinación General de la Defensoría Social y de Oficio, auxiliar y asistir a las personas y comunidades indígenas que precisen de los servicios de los mismos.
+
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 31.
 
-Los requisitos para ser Traductor de la Defensoría Social y sus obligaciones, se establecerán en el Reglamento respectivo.
+Los requisitos para ser Traductor y sus obligaciones, se establecerán en el Reglamento respectivo.
 
 ## TITULO TERCERO. DE LAS EXCUSAS, INFRACCIONES Y SANCIONES
 
@@ -419,7 +495,9 @@ IV. Suspensión hasta por ocho días, y
 
 V. Destitución del cargo o empleo.
 
-El Coordinador General con el propósito de imponer las sanciones que anteceden, deberá instaurar los procedimientos disciplinarios a través de la Contraloría Interna de la Defensoría Social en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2002)</small>
+
+El Coordinador General con el propósito de imponer las sanciones que anteceden, deberá instaurar los procedimientos disciplinarios a través de la Contraloría Interna de la Coordinación General de la Defensoría Social y de Oficio, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
 
 Tratándose de trabajadores de base, se estará a lo dispuesto en la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado y Municipios de San Luis Potosí.
 
@@ -472,3 +550,19 @@ El Secretario General de Gobierno
 LIC. JUAN CARLOS BARRON CERDA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE JUNIO DE 2002.
+
+PRIMERO. El presente Decreto entrará en vigor a los quince días siguientes a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento de la Defensoría de Oficio del Fuero Común de San Luis Potosí, publicado mediante Decreto No. 78 en el Periódico Oficial del Estado No. 101 Suplemento, el día 18 de diciembre de 1949.
+
+TERCERO. Los Defensores de Oficio que fueron contratados bajo el régimen y condiciones que establece el Reglamento que abroga el artículo Transitorio anterior, serán liquidados por el Ejecutivo del Estado conforme a derecho, dentro de los quince días naturales siguientes a la entrada en vigor del presente Decreto, debiendo entregar al Director de la Defensoría de Oficio un informe detallado sobre el estado que guardan los procesos y asuntos a su cargo.
+
+Los Defensores de Oficio podrán optar por la liquidación o manifestar expresamente y en forma voluntaria, mediante escrito dirigido al Coordinador General, con copia al Oficial Mayor de Gobierno del Estado, dentro de los tres días naturales siguientes al de la entrada en vigor del presente Decreto, su decisión de continuar prestando sus servicios bajo el régimen y condiciones laborales que establece la ley que reforma y adiciona el presente Decreto; en este caso, conservarán su antigüedad y derechos laborales adquiridos desde su contratación.
+
+CUARTO. El Coordinador General de la Defensoría Social dictará las medidas necesarias para que los procesos y asuntos atendidos por los Defensores de Oficio que sean liquidados, continúen siendo atendidos diligentemente y conforme lo marca la ley, debiendo dar aviso y acreditar oportunamente en los procesos penales que correspondan del cambio de defensor de oficio, según sea el caso.
+
+QUINTO. Se deroga el artículo Transitorio Sexto de la Ley de Defensoría Social del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el 6 de agosto de 1999.
