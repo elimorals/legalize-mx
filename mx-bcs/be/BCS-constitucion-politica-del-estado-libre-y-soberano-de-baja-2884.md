@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1992-05-19"
+last_updated: "1992-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE MAYO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 11 DE JUNIO DE 1992.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -251,6 +251,22 @@ Natividad, San Roque, Asunción, Magdalena, Margarita y Creciente, situadas en e
 
 Los Partidos Políticos Nacionales y Estatales tienen como fin promover la participación del pueblo sudcaliforniano en la vida democrática, contribuir a la integración de la representación del Estado y como organizaciones de ciudadanos, hacer posible el acceso de éstas al ejercicio del Poder Público en las esferas Estatal y Municipal y de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
 
+> <small>(ADICIONADO, B.O. 11 DE JUNIO DE 1992)</small>
+
+En los procesos electorales estatales los partidos políticos deberán contar en forma equitativa, con un mínimo de elementos para sus actividades tendientes a la obtención del sufragio popular.
+
+> <small>(ADICIONADO, B.O. 11 DE JUNIO DE 1992)</small>
+
+La ley establecerá un sistema de medios de impugnación de los que conocerán los organismos electorales y un Tribunal Estatal de lo Contencioso Electoral, dotado de plena autonomía, que será órgano jurisdiccional en materia electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
+
+> <small>(ADICIONADO, B.O. 11 DE JUNIO DE 1992)</small>
+
+El Tribunal Estatal de lo Contencioso Electoral, tendrá la competencia y organización que determine la ley; funcionará en pleno y resolverá en una sola instancia y sus sesiones serán públicas, a excepción de las que determine el propio tribunal. Los poderes Legislativo y Ejecutivo garantizarán su debida integración. Contra sus resoluciones no procederá juicio ni recurso alguno, pero aquéllas que se dicten con posterioridad a la jornada electoral se estará a los términos del artículo 43 de esta Constitución. Para el ejercicio de sus funciones el Tribunal Estatal de lo Contencioso Electoral, estará integrado con tres magistrados numerarios y dos supernumerarios, los cuales responderán sólo al mandato de la ley.
+
+> <small>(ADICIONADO, B.O. 11 DE JUNIO DE 1992)</small>
+
+Los magistrados del Tribunal Estatal de lo Contencioso Electoral, deberán satisfacer los requisitos que señala la ley, que no podrán ser menores a los que dispone esta Constitución para ser magistrado del Tribunal Superior de Justicia. Serán electos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de entre los propuestos por el Ejecutivo del Estado. Si dicha mayoría no se lograra en la primera votación, se procederá a insacular de los candidatos propuestos, el número que corresponda de magistrados. La ley señalará las reglas y procedimientos correspondientes.
+
 37.- El Estado adopta para su régimen interior, la forma de gobierno republicano, representativo, teniendo como base de su división territorial, de su organización política y administrativa, el Municipio Libre.
 
 38.- Baja California Sur es un Estado democrático, considerando a la democracia, no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo.
@@ -269,9 +285,9 @@ No podrán reunirse dos o más de estos poderes en una sola persona o corporaci�
 
 #### SECCION II. DE LA ELECCION E INSTALACION DEL CONGRESO
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE JUNIO DE 1992)</small>
 
-41.- El Congreso del Estado de Baja California Sur se integrará con 15 Diputados de Mayoría Relativa electos en su totalidad cada tres años, por votación directa y secreta, mediante el sistema de Distritos Electorales Uninominales y hasta con 5 Diputados electos mediante el principio de Representación Proporcional, apegándose en ambos casos, a las reglas siguientes:
+41.- El Congreso del Estado de Baja California Sur, se integrará con quince diputados de mayoría relativa, electos en su totalidad cada tres años por votación directa y secreta mediante el sistema de distritos electorales uninominales y hasta con seis diputados electos mediante el principio de representación proporcional, apegándose en ambos casos, a las siguientes reglas:
 
 > <small>(REFORMADA, B.O. 10 DE JULIO DE 1989)</small>
 
@@ -287,11 +303,11 @@ a).- Se constituirá una sola circunscripción plurinominal que comprenderá tod
 
 b).- Los Partidos Políticos tendrán derecho a postular Candidatos por el Principio de Representación Proporcional, siempre y cuando hayan registrado Candidatos por lo menos en ocho Distritos Electorales Uninominales.
 
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 1989)</small>
+> <small>(REFORMADO, B.O. 11 DE JUNIO DE 1992)</small>
 
-c).- Para que un Partido Político tenga derecho a que les sean acreditados de entre sus Candidatos, Diputados de Representación Proporcional, deberá alcanzar por lo menos el tres por ciento del total de las votaciones emitidas en el Estado para todas las listas y siempre que no haya logrado más de una Diputación de Mayoría Relativa; se tomarán en cuenta para las asignaciones, el orden que tuviesen los Candidatos en las listas correspondientes.
+c).- Para que un partido político tenga derecho a que les sean acreditados de entre sus candidatos, diputados de representación proporcional, deberá alcanzar por lo menos el 2% del total de las votaciones emitidas en el Estado para todas las listas y siempre que no haya logrado más de una diputación de mayoría relativa; se tomarán en cuenta para las asignaciones, el orden que tuviesen los candidatos en las listas correspondientes.
 
-La Ley determinará las fórmulas electorales y los procedimientos que se observen en dicha asignación.
+La ley determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación.
 
 > <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 1989)</small>
 
@@ -429,7 +445,9 @@ III.- Iniciar leyes y decretos ante el Congreso de la Unión;
 
 IV.- Formular su Ley Reglamentaria, así como la de la Contaduría Mayor de Hacienda;
 
-V.- (DEROGADA, B.O. 20 DE ABRIL DE 1977)
+> <small>(ADICIONADA, B.O. 11 DE JUNIO DE 1992)</small>
+
+V.- Erigirse en Colegio Electoral para ejercer las atribuciones que la Ley le señale respecto a las elecciones de gobernador y diputados.
 
 > <small>(REFORMADA, B.O. 30 DE ABRIL DE 1981)</small>
 
@@ -733,7 +751,7 @@ XLI.- Cuidar que el funcionamiento de los servicios públicos en todo el Estado,
 
 XLII.- Promover el desarrollo cultural, artístico, deportivo, científico y tecnológico de la entidad; y (sic)
 
-> <small>(ADICIONADA [N. DE E REFORMADA], B.O. 20 DE ABRIL DE 1991)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 20 DE ABRIL DE 1991)</small>
 
 XLIII.- Promover y vigilar el saneamiento al medio ambiente y realizar las acciones necesarias para lograr la preservación del equilibrio ecológico en el territorio del estado, en los términos de la ley de la materia.
 
@@ -1081,25 +1099,33 @@ La extensión y límites de las delegaciones y subdelegaciones serán determinad
 
 ### CAPITULO III. DE LA CREACION, SUPRESION Y ASOCIACION DE MUNICIPIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 7 DE ABRIL DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE JUNIO DE 1992)</small>
 
-122.- Para la creación de Municipios en el Estado se requerirá la aprobación del Congreso del Estado y la concurrencia de los siguientes elementos:
+122.- Para la creación de municipios en el Estado se requerirá la aprobación del Congreso del Estado y la concurrencia de los siguientes elementos:
 
 I.- Que sea conveniente para satisfacer las necesidades de sus habitantes;
 
 II.- Que la superficie del territorio del Estado en que se pretenda erigir, sea suficiente para cubrir sus necesidades y atender a sus posibilidades y de desarrollo futuro;
 
-III.- Que sus recursos de desarrollo potencial le garanticen posibilidades de autosuficiencia económica, para cubrir un presupuesto mínimo anual de $30'000,000.00 (treinta millones de pesos);
+> <small>(REFORMADA, B.O. 11 DE JUNIO DE 1992)</small>
 
-> <small>(REFORMADA, B.O. 7 DE ABRIL DE 1980)</small>
+III.- Que se compruebe debidamente ante el Congreso, que tienen elementos suficientes para proveer a su existencia política.
 
-IV.- Que su población no sea inferior a veinte mil habitantes.
+> <small>(REFORMADA, B.O. 11 DE JUNIO DE 1992)</small>
 
-V.- Que la comunidad en que se establezca su cabecera cuente con más de cinco mil habitantes;
+IV.- Que su población no sea inferior a cinco mil habitantes.
 
-VI.- Que la ciudad señalada en la fracción anterior, tenga servicios públicos adecuados para su población; y
+> <small>(REFORMADA, B.O. 11 DE JUNIO DE 1992)</small>
 
-VII.- Que previamente se escuche la opinión de los ayuntamientos de los municipios que puedan ser afectados en su territorio por la creación del nuevo.
+V.- Que la comunidad en que se establezca su cabecera cuente con más de tres mil habitantes.
+
+VI.- Que la ciudad señalada en la fracción anterior, tenga servicios públicos adecuados para su población; y (sic)
+
+VII.- Que previamente se escuche la opinión de los ayuntamientos de los municipios que puedan ser afectados en su territorio por la creación del nuevo;
+
+> <small>(ADICIONADA, B.O. 11 DE JUNIO DE 1992)</small>
+
+VIII.- Que cuando menos las dos terceras partes de los ciudadanos del territorio que se pretenda erigir en municipio, manifiesten su conformidad.
 
 123.- El Congreso del Estado podrá declarar la supresión de un municipio y la posterior fusión de sus elementos, cuando en él dejen de concurrir las condiciones requeridad (sic) para su creación.
 
@@ -1161,13 +1187,21 @@ CONCEPTO E INTEGRACION
 
 134.- El ayuntamiento es el órgano de gobierno municipal a través del cual el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
 
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 1989)</small>
+> <small>(REFORMADO, B.O. 11 DE JUNIO DE 1992)</small>
 
-135.- Los Ayuntamientos se integrarán por un Presidente, un Síndico y diez Regidores electos por sufragio universal directo libre y secreto, mediante el sistema de mayoría relativa y hasta con dos Regidores electos por el Principio de Representación Proporcional, con las siguientes excepciones: el Ayuntamiento de Comondú, que se integrará con un Presidente, un Síndico y doce Regidores electos por el Sistema de Mayoría Relativa y hasta con tres Regidores electos por el Principio de Representación Proporcional y el Ayuntamiento de la Capital del Estado que se integrará con un Presidente, un Síndico y catorce Regidores electos por el Sistema de Mayoría Relativa y hasta con cuatro por el Principio de Representación Proporcional, en los términos que señala la Ley Electoral del Estado, por cada miembro del Ayuntamiento, habrá un Suplente.
+135.- Los Ayuntamientos se integrarán de la siguiente manera:
+
+El Ayuntamiento de La Paz, se integrará con un Presidente, un Síndico y catorce Regidores electos por sufragio universal directo, libre y secreto mediante el sistema de mayoría relativa y hasta con cinco Regidores por el principio de representación proporcional.
+
+El Ayuntamiento de Comondú, se integrará con un Presidente, un Síndico y doce Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con cuatro Regidores electos por el principio de representación proporcional.
+
+Los Ayuntamientos de Mulegé y Los Cabos, se integrarán con un Presidente, un Síndico y diez Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con tres Regidores electos por el principio de representación proporcional.
+
+Por cada miembro de los Ayuntamientos, habrá un suplente.
 
 La Ley Reglamentaria determinará los procedimientos que se observarán para las asignaciones que correspondan.
 
-Los miembros de los Ayuntamientos duraran en su cargo tres años a partir de la fecha en que tomen posesión del mismo.
+Los miembros de los Ayuntamientos durarán en su cargo tres años a partir de la fecha en que tomen posesión del mismo.
 
 136.- Ningún ciudadano puede excusarse de servir al cargo de Presidente, Síndico o Regidor, salvo causa justificada calificada por el ayuntamiento.
 
@@ -1806,3 +1840,17 @@ PRIMERO.- EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA SIGUIENTE AL DE SU PUBLICA
 SEGUNDO.- EL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, EL H. CONGRESO DEL ESTADO Y LOS H. AYUNTAMIENTOS DEL ESTADO, ESTABLECERAN LOS ORGANOS Y SISTEMAS A QUE HACE REFERENCIA EL ARTICULO 52 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y DE LOS MUNICIPIOS DE BAJA CALIFORNIA SUR.
 
 TERCERO.- EN TODAS AQUELLAS LEYES, REGLAMENTOS Y DEMAS ORDENAMIENTOS EN LOS QUE SE MENCIONE A LA CONTRALORIA GENERAL DEL ESTADO, SE ENTENDERA REFERIDA LA SECRETARIA DE LA CONTRALORIA GENERAL DEL ESTADO.
+
+B.O. 11 DE JUNIO DE 1992.
+
+DECRETO NUMERO 862.
+
+###### ARTICULO UNICO
+
+- EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE AL DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+B.O. 11 DE JUNIO DE 1992.
+
+DECRETO NUMERO 863.
+
+UNICO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
