@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1988-03-25"
+last_updated: "1988-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1988.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -341,19 +341,23 @@ Los Diputados propietarios, durante el período de su encargo y los Suplentes, c
 
 El Congreso tendrá cada año dos períodos ordinarios de sesiones prorrogables a juicio de la Cámara por el tiempo que fuere necesario; el primero comenzará el día primero de diciembre y terminará el día primero de abril siguiente, y el segundo principiará el primero de junio y concluirá el día primero de agosto inmediato.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 1985)</small>
+(REFORMADO, P.O. 28 DE DICIEMBRE DE 1988) (F. DE E., P.O. 30 DE DICIEMBRE DE 1988)
 
 ###### Art. 37.
 
-En el primer período ordinario de sesiones, el Congreso se ocupará de discutir y aprobar la Ley de Ingresos y Presupuesto de Egresos del Estado y las Leyes de Ingresos de los Municipios, para lo cual deberán ser presentados los proyectos respectivos antes del día cinco de diciembre de cada año, a efecto de que puedan regir a partir del primero de enero inmediato. En tanto no se aprueben las nuevas, se tendrán por prorrogadas las correspondientes al año anterior.
+En el primer período ordinario de sesiones el Congreso se ocupará de discutir y aprobar la Ley de Ingresos y Presupuesto de Egresos del Estado y las Leyes de Ingresos de los Municipios, para lo cual deberán ser presentados los proyectos respectivos antes del día cinco de Diciembre de cada año, a efecto de que pueden (sic) regir a partir del primero de Enero inmediato. En tanto no se aprueben las nuevas, se tendrán por prorrogadas las correspondientes al año anterior.
 
-Así mismo, en este período revisará y aprobará en su caso, los dictámenes de la Diputación Permanente respecto de las cuentas mensuales del gasto público del Estado que rinda el Gobernador, y las de los Municipios que presenten los Ayuntamientos, correspondientes a los meses de julio, agosto, septiembre y octubre, salvo que se hubiese prorrogado el período ordinario de sesiones o hubiese estado en períodos extraordinarios de sesiones en cualesquiera de estos meses, en cuyos casos revisará y aprobará las cuentas mencionadas que estuviesen pendientes y las que le fuesen presentadas en tales períodos.
+De igual manera, en el primer período revisará y aprobará en su caso, el primer semestre de la cuenta pública del Estado, que corresponde a los meses de Enero, Febrero, Marzo, Abril, Mayo y Junio, que deberá ser presentada al Congreso, a más tardar quince días antes de su apertura.
 
-También en este primer período ordinario de sesiones revisará y aprobará en su caso, las cuentas del gasto público del Estado y de los Municipios correspondientes a los meses de noviembre, diciembre, enero y febrero, recibidas por el Congreso.
+Asimismo, en este período revisará y aprobará en su caso, el segundo cuatrimestre de la cuenta pública de los Municipios que presenten los Ayuntamientos, correspondientes a los meses de Mayo, Junio, Julio y Agosto, salvo que hubiese prorrogado el segundo período ordinario de sesiones o hubiese estado en período extraordinario de sesiones, en cuyo caso revisará y aprobará las cuentas mencionadas.
 
-En el segundo período, se ocupará de revisar los dictámenes de la Diputación Permanente relacionados con las cuentas de los gastos públicos del Estado y de los Municipios, de los meses de mayo y junio recibidas por el Congreso.
+En el segundo período ordinario de Sesiones revisará y aprobará en su caso, la cuenta pública del Estado del segundo semestre del año anterior que comprende los meses de Julio, Agosto, Septiembre, Octubre, Noviembre y Diciembre, que deberá ser presentada al Congreso a más tardar quince días antes de su apertura.
 
-A partir de la fecha de presentación de las cuentas del gasto público a que se hace referencia, el Congreso dispondrá hasta de veinte días para revisarlas, aprobarlas o hacer observaciones y, de proceder, expedir el finiquito correspondiente. La Diputación Permanente producirá sus dictámenes en un lapso de veinte días posteriores a la presentación de cada cuenta de gasto público.
+También en este período, revisará y aprobará en su caso, la cuenta pública del tercer cuatrimestre del año anterior de los municipios, correspondiente a los meses de septiembre, octubre, noviembre y diciembre, recibidas por el Congreso.
+
+Igualmente, en el segundo período ordinario de sesiones, el Congreso revisará y aprobará en su caso, el primer cuatrimestre de la cuenta pública de los municipios correspondientes a los meses de enero, febrero, marzo y abril.
+
+El Congreso del Estado revisará, aprobará o hará observaciones y, de proceder, expedirá el finiquito respectivo, cuatrimestralmente tratándose de cuentas públicas municipales, en los términos de los párrafos anteriores y semestralmente cuando se refiera a la cuenta pública estatal.
 
 En los dos períodos el Congreso se ocupará, además, del estudio, discusión y votación de las iniciativas de Ley que se presenten y de la resolución de todos los asuntos que le correspondan.
 
@@ -419,7 +423,7 @@ III. Decretar toda clase de imposiciones tributarias necesarias para cubrir el p
 
 IV. Iniciar leyes o sus reformas ante el Congreso de la Unión.
 
-V. Aprobar los convenios que el Gobernador del Estado celebre con las Entidades vecinas sobre cuestiones de límites y someterlos, por conducto del mismo, a la ratificación del Congreso de la Unión.
+V. Aprobar los convenios que el Gobernador del Estado celebre con las Entidades vecinas sobre cuestiones de límites y someterlos, por conducto el (sic) mismo, a la ratificación del Congreso de la Unión.
 
 VI. Ratificar los arreglos concertados entre las Municipalidades con motivo de la fijación de sus límites.
 
@@ -427,13 +431,13 @@ VI. Ratificar los arreglos concertados entre las Municipalidades con motivo de l
 
 VII. Crear nuevas Municipalidades dentro de los límites de las ya existentes, siendo necesario para el efecto:
 
-(A). Que la fracción o fracciones que pretendan erigirse en Municipalidad, cuenten con una población cuando menos, de TREINTA MIL HABITANTES, según el último censo del Estado, y tomando en cuenta el asentimiento de la mayoría de sus ciudadanos.
+A). Que la fracción o fracciones que pretendan erigirse en Municipalidad, cuenten con una población cuando menos, de TREINTA MIL HABITANTES, según el último censo del Estado, y tomando en cuenta el asentimiento de la mayoría de sus ciudadanos.
 
-(B). Que se compruebe debidamente ante el Congreso, que tienen los elementos bastantes para proveer a su existencia política.
+(B.) Que se compruebe debidamente ante el Congreso, que tienen los elementos bastantes para proveer a su existencia política.
 
-(C). Que la elección de la nueva Municipalidad sea aprobada por el voto de las dos terceras partes de los Diputados.
+C). Que la elección de la nueva Municipalidad sea aprobada por el voto de las dos terceras partes de los Diputados.
 
-(D). Que la resolución favorable del Congreso sea ratificada por la mayoría de los Ayuntamientos del Estado previo examen de la copia del expediente que al efecto se les remita.
+(D.) Que la resolución favorable del Congreso sea ratificada por la mayoría de los Ayuntamientos del Estado previo examen de la copia del expediente que al efecto se les remita.
 
 > <small>(ADICIONADA, P.O. 6 DE OCTUBRE DE 1928)</small>
 
@@ -477,9 +481,9 @@ XX. Conocer de las imputaciones formuladas mediante juicio político en contra d
 
 XXI. Expedir anualmente la Ley de Ingresos y Egresos del Estado.
 
-(REFORMADA, P.O. 26 DE ABRIL DE 1985) (F. DE E., P.O. 3 DE JUNIO DE 1985)
+(REFORMADA, P.O. 28 DE DICIEMBRE DE 1988) (F. DE E., P.O. 30 DE DICIEMBRE DE 1988)
 
-XXII. Revisar, por medio de la Contaduría Mayor de Hacienda, las cuentas mensuales del gasto público efectuado por el Estado y de cada uno de los Municipios. La revisión de dichas cuentas mensuales no se limitará a investigar si las cantidades gastadas están o no de acuerdo con el presupuesto aprobado, sino que se extenderá a la formulación de las observaciones que procedan y a expedir los finiquitos o en su caso a dictar las medidas tendientes a fincar las responsabilidades de los servidores públicos a quienes les sean imputables y efectuar, cuando menos una vez al año, visitas de inspección a todas y cada una de las tesorerías municipales.
+XXII. Revisar por medio de la Contaduría Mayor de Hacienda, la documentación comprobatoria y justificativa de los movimientos contables realizados por el Gobierno del Estado y por los Municipios. Para el efecto, dicha documentación deberá mantenerse en todo momento a disposición del Congreso del Estado. La revisión de dichas cuentas no se limitará a precisar el ingreso y a investigar si las cantidades gastadas están o no de acuerdo con el presupuesto aprobado, sino que se extenderá a la formulación de las observaciones que procedan y a expedir los finiquitos o, en su caso, a dictar las medidas tendientes a fincar las responsabilidades de los servidores públicos a quienes les sean imputables, y efectuar, cuando menos una vez al año, visitas de inspección a todas y a cada una de las Tesorerías Municipales.
 
 > <small>(REFORMADA, P.O. 24 DE FEBRERO DE 1987)</small>
 
@@ -743,9 +747,9 @@ IV. Convocar al Congreso a sesiones extraordinarias por conducto de la Diputaci�
 
 V. Facilitar a las autoridades judiciales del Estado, los auxilios que necesiten para el desempeño de sus funciones y excitarlas a que otorguen pronta y debida justicia.
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 1985)</small>
+(REFORMADO, P.O. 28 DE DICIEMBRE DE 1988) (F. DE E., P.O. 30 DE DICIEMBRE DE 1988)
 
-VI. Presentar al Congreso del Estado, a más tardar el día cinco de diciembre de cada año, el Proyecto de Ley de Ingresos y Presupuesto de Egresos del Estado para el año siguiente y remitir, dentro de los primeros diez días hábiles de cada mes, la cuenta del gasto público efectuado en el mes anterior.
+VI. Presentar al Congreso del Estado, antes del día cinco de diciembre de cada año, el proyecto de Ley de Ingresos y Presupuesto de Egresos para el año siguiente y remitir a más tardar quince días antes de la apertura del primero y segundo período ordinario de sesiones del Congreso del Estado, la cuenta pública en los términos del artículo 37 de esta Constitución.
 
 VII. Cuidar de que la recaudación e inversión de los caudales públicos se hagan con arreglo a las leyes.
 
@@ -961,7 +965,7 @@ El Gobernador del Estado no podrá negarse a autorizar el pago de las órdenes l
 
 #### SECCION I. DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 1988)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1988)</small>
 
 #### SECCION II. DE LOS JUECES DE 1ª INSTANCIA Y MENORES
 
@@ -1001,7 +1005,7 @@ Los Magistrados y los Jueces percibirán una remuneración adecuada e irrenuncia
 
 ###### Art. 94.
 
-El Supremo Tribunal de Justicia se compondrá de 7 Magistrados Propietarios y funcionará en Pleno y dividido en dos Salas, integrada cada una de éstas por 3 Magistrados. Una (sic) de los Magistrados, quien no integrará las Salas, será el Presidente del Supremo Tribunal. Habrá además 3 Magistrados Suplentes, quienes sólo integrarán el Pleno o las Salas cuando substituyan a un Magistrado Propietario.
+El Supremo Tribunal de Justicia se compondrá de 10 magistrados Propietarios y funcionará en pleno y dividido en tres salas, integrada cada una de éstas por 3 magistrados. Uno de los Magistrados, quien no integrará las Salas, será el Presidente del Supremo Tribunal. Habrá además 5 magistrados suplentes, quienes sólo integrarán el pleno o las salas cuando substituyan a un Magistrado Propietario.
 
 Los Magistrados del Supremo Tribunal serán electos por el Congreso o por la Diputación Permanente, de una terna que le presente el Consejo de la Judicatura. La elección se hará en escrutinio secreto.
 
@@ -1047,17 +1051,15 @@ Se instituye el Consejo de la Judicatura. La Ley Orgánica establecerá su organ
 
 Los Magistrados del Supremo Tribunal de Justicia podrán obtener licencia sin goce de sueldo por una sola vez, hasta por el término de 6 meses. De igual derecho gozarán los Jueces de Primera Instancia que sean llamados para substituirlos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE FEBRERO DE 1985)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1988)</small>
 
 ###### Art. 99.
 
-Las faltas absolutas de los Magistrados propietarios se cubrirán provisionalmente por los suplentes, según lo determine el Supremo Tribunal de Justicia, mientras el Congreso del Estado hace una nueva elección y toma posesión el electo. Si el Congreso no estuviere reunido, la Diputación Permanente hará en cada caso un nombramiento provisional, en tanto se reúne aquél y hace la elección correspondiente.
+Las faltas absolutas de los Magistrados Propietarios se cubrirán provisionalmente por los Suplentes, según lo determine el Supremo Tribunal de Justicia, mientras el Congreso del Estado hace una nueva elección y toma posesión el electo. Si el Congreso no estuviere reunido, la Diputación Permanente hará en cada caso un nombramiento provisional, en tanto se reúne aquél y hace la elección correspondiente.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
+Los magistrados propietarios serán sustituidos en sus faltas temporales que excedan de quince días por los Magistrados suplentes en los términos del párrafo anterior. Si las faltas no exceden de este término, o en los casos de recusación o excusa, serán cubiertos en una Sala por los Magistrados de las otras, según el turno que corresponda y en el pleno, sólo serán constituidos por los Magistrados suplentes, cuando por motivo de la falta o del impedimento no se obtenga mayoría de votos por lo menos, en la resolución de un determinado negocio.
 
-Los Magistrados Propietarios serán substituídos en sus faltas temporales que excedan de quince días por los Magistrados Suplentes en los términos del párrafo anterior. Si las faltas no exceden de este término, o en los casos de recuperación o excusa, serán cubiertas en una Sala por los Magistrados de la otra, según el turno que corresponda y en el Pleno, sólo serán substituídos por los Magistrados Suplentes, cuando por motivo de la falta o del impedimento no se obtenga mayoría de votos por lo menos, en la resolución de un determinado negocio.
-
-Si no fuere posible integrar el pleno o las Salas, por tener impedimento legal para conocer de un determinado negocio los Magistrados llamados conforme a los párrafos anteriores de este artículo el Congreso del Estado, o la Diputación Permanente en su caso, nombrará los Magistrados Interinos que sean necesarios.
+Si no fuera posible integrar el pleno o las Salas, por tener impedimento legal para conocer de un determinado negocio los Magistrados llamados conforme a los párrafos anteriores de este artículo el Congreso del Estado, o la Diputación Permanente en su caso, nombrará los Magistrados Interinos que sean necesarios.
 
 ###### Art. 100.
 
@@ -2318,3 +2320,37 @@ P.O. 25 DE MARZO DE 1988.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 28 DE DICIEMBRE DE 1988.
+
+DECRETO No. 640 POR EL QUE SE REFORMAN LOS ARTICULOS 37, 43, FRACCION XXII Y 65, FRACCION VI DE LA CONSTITUCION POLITICA DEL ESTADO DE SINALOA.
+
+> <small>(F. DE E., P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO PRIMERO.
+
+La cuenta pública del Estado, de los meses de noviembre y diciembre de 1988, se revisará y aprobará en su caso, durante el segundo período ordinario de sesiones del Congreso, debiéndose presentar a más tardar quince días antes de su apertura.
+
+> <small>(F. DE E., P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO SEGUNDO.
+
+La cuenta pública de los Municipios, correspondiente a los meses de noviembre y diciembre de 1988, se revisará y aprobará en su caso, durante el segundo período ordinario de sesiones del Congreso.
+
+> <small>(F. DE E., P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+###### ARTICULO TERCERO.
+
+El presente Decreto entrará en vigor el día siguiente al día de su publicación en el Periódico Oficial "EL ESTADO DE SINALOA".
+
+P.O. 28 DE DICIEMBRE DE 1988.
+
+DECRETO No. 641 POR EL QUE SE REFORMAN LOS ARTICULOS 94 Y 99 DE LA CONSTITUCION POLITICA DEL ESTADO DE SINALOA.
+
+###### ARTICULO PRIMERO.
+
+Mientras se instale la Tercera Sala, el Supremo Tribunal de Justicia será compuesto de 7 Magistrados Propietarios y continuará funcionando en pleno y dividido en dos Salas como lo ha venido haciendo hasta la fecha.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
