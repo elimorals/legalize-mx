@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1944-12-13"
+last_updated: "1945-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 1945.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -761,11 +761,11 @@ En consulta de los problemas de Estado de gran interés, el C. Gobernador podrá
 
 La justicia se administra en nombre del Estado. El Poder Judicial reside en un Tribunal Superior de Justicia, y en los demás tribunales inferiores que esta Constitución establece; siendo facultad exclusiva de dicho Poder la aplicación de la ley en todos los negocios de su competencia.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 1923)</small>
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1945)</small>
 
 ###### Artículo 77.
 
-El Tribunal Superior de Justicia se compone de tres Magistrados Propietarios y de tres Supernumerarios, para cubrir las faltas temporales de los propietarios. La duración de los Funcionarios del Poder Judicial será de cuatro años, excepto la de los Jueces menores.
+El Tribunal Superior de Justicia se compone de cinco Magistrados Propietarios y de cinco Supernumerarios para cubrir las faltas temporales de los Propietarios. La duración de los Funcionarios del Poder Judicial, será de seis años, y no podrán ser destituidos ni suspendidos en el ejercicio de su cargo, sino por causa justificada.
 
 ###### Artículo 78.
 
@@ -777,7 +777,9 @@ I. Iniciar ante la Legislatura las leyes y decretos que tengan por objeto mejora
 
 II. Conocer, como Jurado de sentencia, de las causas de responsabilidad que hubieren de formarse por delitos oficiales, a los Diputados, al Gobernador, a los Magistrados, al Secretario de Gobierno y al Procurador de Justicia.
 
-III. Nombrar los Jueces de primera instancia, resolver sobre sus licencias y renuncias para separarse del despacho.
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 1945)</small>
+
+III. Nombrar los Jueces de Primera Instancia y los Jueces Menores, éstos últimos conforme al artículo 85.
 
 IV. Nombrar y remover libremente a los empleados de sus Secretarías y resolver sobre sus licencias y renuncias.
 
@@ -785,9 +787,11 @@ V. Hacer el examen de recepción de Abogados.
 
 VI. Formar su Reglamento interior.
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1945)</small>
+
 ###### Artículo 79.
 
-El Tribunal Superior de Justicia se divide en tres Salas. Sus atribuciones, ya sean las de Tribunal pleno o las de sus Salas, así como las de los Tribunales inferiores, serán las que señalen las leyes.
+El Tribunal Superior de Justicia funcionará siempre en Pleno, bastando para ese efecto la asistencia de Tres Magistrados, por lo menos; sus audiencias serán públicas, a excepción de los casos en que la moral o el interés público así lo exigiere y tendrá jurisdicción en los asuntos civiles, penales y demás que le señalen las leyes, los que resolverá en la forma y términos que establezca la Ley Orgánica correspondiente.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE MAYO DE 1923)</small>
 
@@ -817,9 +821,11 @@ VI. Haber ejercido la profesión, cuando menos cinco años, a contar de la fecha
 
 Los Magistrados Propietarios y Supernumerarios del Tribunal Superior de Justicia, serán nombrados por el Congreso, constituido en Colegio Electoral.
 
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1945)</small>
+
 ###### Artículo 82.
 
-Los miembros del Tribunal Superior de Justicia y los Jueces de 1ª. instancia del Estado, tomarán posesión de sus cargos el 1°. de mayo del año de su renovación; previa protesta de ley que otorgarán ante el Congreso los primeros y los últimos ante los Ayuntamientos respectivos, con excepción del Juez de la Capital del Estado que lo hará ante el Tribunal Superior.
+Los miembros del Tribunal Superior de Justicia, tomarán posesión de sus cargos el primero de mayo del año de su renovación, previa protesta de ley que otorgarán ante el Congreso. Los Jueces de Primera Instancia y los Jueces Menores, tomarán posesión de su cargo en el mismo mes de mayo de su renovación, en la fecha que otorguen la protesta de Ley, ante los Ayuntamientos respectivos, con excepción de los Jueces de la Capital del Estado, que lo harán ante el Tribunal Superior.
 
 ###### Artículo 83.
 
@@ -1304,5 +1310,15 @@ DECRETO NUMERO 60.
 Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado, a fin de que, en lo sucesivo, los Jueces Menores como integrantes del Poder Judicial Local, inicien sus labores en la renovación judicial del mes de mayo del año entrante, los actuales Jueces Menores continuarán en sus cargos hasta el próximo día último de abril del mismo año.
 
 ###### ARTICULO 2º.
+
+Se derogan todas las Leyes anteriores en la parte que se opongan a la presente.
+
+P.O. 3 DE ENERO DE 1945.
+
+###### Art. 1o.
+
+Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado, procediéndose, desde luego a la designación de otros dos Magistrados Propietarios y dos Supernumerarios cuyos nombramientos, como los de los actuales, sólo tendrán efecto durante el presente ejercicio constitucional que terminará el treinta de abril de mil novecientos cuarenta y cinco.
+
+###### Art. 2o.
 
 Se derogan todas las Leyes anteriores en la parte que se opongan a la presente.
