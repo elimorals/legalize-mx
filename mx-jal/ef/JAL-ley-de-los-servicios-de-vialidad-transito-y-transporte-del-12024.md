@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-servicios-de-vialidad-transito-y-transporte-del-1202
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-07"
-last_updated: "2000-09-19"
+last_updated: "2000-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS SERVICIOS DE VIALIDAD, TRANSITO Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2000.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
@@ -217,7 +217,9 @@ c) El registro de concesiones, permisos, subrogaciones, vehículos, conductores 
 
 d) La programación, construcción y administración de la infraestructura carretera y de la infraestructura y equipamiento vial, así como la reglamentación y control del tránsito en sus vías de comunicación;
 
-e) La regulación y administración del tránsito, cuando los programas y acciones afecten dos o más municipios de la Entidad;
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+e) La regulación y administración del tránsito con la intervención de los ayuntamientos, cuando los programas y acciones afecten dos o más municipios de la Entidad;
 
 f) La regulación y administración del transporte; y
 
@@ -225,7 +227,9 @@ g) La coordinación para integrar el sistema de vialidad, tránsito y transporte
 
 II. Corresponde al Municipio:
 
-a) La formulación y administración de los programas municipales de vialidad y tránsito;
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+a) Intervenir, conjuntamente con el Ejecutivo en la formulación y aplicación de programas de transporte público, cuando éstos afecten su ámbito territorial;
 
 b) La autorización de los proyectos de infraestructura vial, infraestructura carretera, equipamiento vial y servicios conexos, en lo relativo a su territorio, a su localización y aprovechamiento de áreas, conforme a las normas aplicables de carácter técnico y de ordenamiento territorial;
 
@@ -255,7 +259,9 @@ a) El Gobernador del Estado;
 
 b) La dependencia del Ejecutivo del Gobierno del Estado competente en materia de vialidad, tránsito y transporte;
 
-c) La Secretaría del Poder Ejecutivo Estatal competente en materia fiscal y sus dependencias recaudadoras; y
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+c) La dependencia municipal competente en materia de vialidad, tránsito y transporte;
 
 d) El Registro Estatal de los Servicios Públicos de Tránsito y Transporte;
 
@@ -273,7 +279,9 @@ e) La tesorería municipal; y
 
 f) Las autoridades ejecutoras y recaudadoras que de ellos dependan;
 
-III. En la Zona Metropolitana de Guadalajara u otras zonas conurbadas que se definan, aquellos organismos y dependencias que tengan facultades de mando y decisión en materia de vialidad y tránsito.
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+III. En la zona metropolitana de Guadalajara u otras zonas conurbadas que se definan, aquellos organismos y dependencias que tengan facultades de mando y decisión en materia de vialidad, tránsito y transporte.
 
 ### CAPITULO II. De las atribuciones del Ejecutivo del Estado
 
@@ -305,7 +313,9 @@ XI. Otorgar concesiones para la construcción, mantenimiento y operación de la 
 
 XII. Otorgar concesiones para establecer y administrar servicios en las zonas que correspondan al derecho de vía en el ámbito local;
 
-XIII. Otorgar concesiones y permisos para la prestación del servicio público de transporte;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+XIII. Otorgar concesiones y permisos con la intervención de los ayuntamientos que dentro de su ámbito territorial corresponda la prestación del servicio público de transporte;
 
 XIV. Autorizar las tarifas para el servicio público de transporte de pasajeros, con base en los estudios y propuestas que formulen el Consejo Consultivo, el CEIT y el Organismo Coordinador;
 
@@ -319,15 +329,23 @@ XVIII. Coordinar las actividades en materia de vialidad, tránsito y transporte 
 
 XIX. Proponer los términos de coordinación con los municipios, a fin de establecer los modos de participación y consulta a efecto de autorizar, en su caso, las concesiones y permisos en materia del servicio público de transporte;
 
-XX. Asesorar y apoyar a los municipios en materia de vialidad y tránsito, conforme a los convenios de coordinación que celebre con los ayuntamientos;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+XX. Asesorar y apoyar a los municipios en materia de vialidad, tránsito y transporte, conforme a los convenios de coordinación que celebre con los ayuntamientos;
 
 XXI. Aplicar las sanciones a quienes incurran en infracciones a las disposiciones de esta Ley y a sus normas reglamentarias, en el ámbito de su competencia, y en la que en su caso asuma por la coordinación que establezca con los ayuntamientos;
 
-XXII. Establecer nuevos servicios; eliminar, sustituir y reformar los ya existentes previstos en esta Ley, conforme a las condiciones y necesidades que presente la demanda del servicio público de transporte, escuchando al Consejo Consultivo, al CEIT y al Organismo Coordinador;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
 
-XXIII. Establecer en todo tiempo las condiciones técnicas conforme a las cuales se preste o pretenda prestar un servicio público de transporte;
+XXII. Establecer nuevos servicios; eliminar, sustituir y reformar los ya existentes previstos en esta Ley, conforme a las condiciones y necesidades que presente la demanda del servicio público de transporte, dando intervención a los ayuntamientos que por ámbito territorial deban participar y escuchando al Consejo Consultivo, al CEIT y al Organismo Coordinador;
 
-XXIV. Incorporar a las condiciones conforme a las cuales se lleva a cabo un servicio público, todas las modalidades que redunden en beneficio del interés público, para lo cual tomará en cuenta las opiniones, estudios y datos proporcionados por los organismos auxiliares y de consulta;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+XXIII. Establecer en todo tiempo y con la participación del ayuntamiento que afecte su ámbito territorial, las condiciones técnicas conforme a las cuales se preste o pretenda prestar un servicio público de transporte;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+XXIV. Incorporar a las condiciones conforme a las cuales se lleva a cabo un servicio público, todas las modalidades que redunden en beneficio del interés público, para lo cual tomará en cuenta las opiniones, estudios y datos proporcionados por los organismos auxiliares y de consulta, así como la intervención de los ayuntamientos afectados;
 
 XXV. Determinar, señalar, ampliar o reducir en cada camino, ruta o tramo de vía pública de jurisdicción local, el número, capacidad y demás características de los vehículos que en ella deban de operar, según las necesidades del servicio de transporte y las exigencias de su mejoramiento, en los términos de la fracción precedente;
 
@@ -393,9 +411,11 @@ XVI. En el ámbito de su competencia determinar, aplicar y ejecutar las sancione
 
 XVII. Las demás que determine la presente Ley.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
 ###### Artículo 22.
 
-El ayuntamiento ejercerá sus atribuciones técnicas y administrativas en materia de vialidad y tránsito, a través de la dependencia que se determine en la legislación municipal y, en su caso, en el reglamento correspondiente.
+El ayuntamiento ejercerá sus atribuciones técnicas y administrativas en materia de vialidad y tránsito, así como intervenir en la formulación y aplicación de los programas de transporte de pasajeros, a través de la dependencia que se determine en la legislación municipal y, en su caso, en el reglamento correspondiente.
 
 ### CAPITULO IV. De la concurrencia y coordinación de las autoridades estatales y municipales
 
@@ -513,7 +533,13 @@ V. Los representantes de los municipios que se integren como consejeros, en los 
 
 a) Un representante de cada uno de los municipios de la Zona Conurbada de Guadalajara; y
 
-b) Un representante de los ayuntamientos de cada región del Estado, según se defina en el ordenamiento territorial del Estado, designados conforme al procedimiento que determine su reglamento y convocados de acuerdo a los proyectos existentes para dicha región;
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+b) Un representante de los ayuntamientos cuando los asuntos a discutir en el Consejo, incidan en el ámbito territorial de éstos; y
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+c) Un representante de los ayuntamientos de cada región del Estado, según se defina en el ordenamiento territorial del Estado, designados conforme al procedimiento que determine su reglamento y convocados de acuerdo a los proyectos existentes para dicha región;
 
 VI. El director del Centro Estatal de Investigación de la Vialidad y el Transporte; y
 
@@ -561,7 +587,11 @@ IV. El Director del Centro Estatal de Investigación de la Vialidad y el Transpo
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1999)</small>
 
-V. Los representantes debidamente acreditados de los organismos estatales, concesionarios, permisionarios y subrogatarios organizados del servicio de transporte público.
+V. Los representantes debidamente acreditados de los organismos estatales, concesionarios, permisionarios y subrogatarios organizados del servicio de transporte público;
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+VI. Los municipios cuando se traten asuntos que afecten su ámbito territorial.
 
 ###### Artículo 35.
 
@@ -607,6 +637,10 @@ V. El Director del Organismo Coordinador de la Operación Integral del Transport
 
 VI. El Director del Centro Estatal de Investigación de la Vialidad y el Transporte.
 
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+VII. Un representante de los municipios cuando se discutan asuntos que afecten su ámbito territorial.
+
 ###### Artículo 37.
 
 Corresponderá al Centro Estatal de Investigación de la Vialidad y el Transporte:
@@ -626,6 +660,10 @@ b) La creación, ampliación o supresión de rutas;
 c) La definición de la (sic) vías a utilizar por la Red Integral de Transporte Público; y
 
 d) Las propuestas de tarifas, aplicables al servicio de transporte público, en sus distintas modalidades;
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+Los ayuntamientos podrán participar en los supuestos de los incisos a), b) y c) que anteceden, cuando dichos estudios tengan interés particular para el municipio del que se trate;
 
 IV. Llevar un registro de los principales indicadores y estadísticas en materia de transporte público, que permitan apoyar los dictámenes emitidos;
 
@@ -647,11 +685,17 @@ II. Definir la estructura orgánica y precisar la competencia de la dependencia 
 
 III. Desarrollar y promover condiciones de seguridad a los peatones y a los conductores de vehículos; y
 
-IV. Promover el respeto entre las personas que concurren en el aprovechamiento de las vías públicas, en particular, de los oficiales y agentes responsables de atender los problemas de vialidad y de vigilar el cumplimiento de las normas de tránsito.
+IV. Promover el respeto entre las personas que concurren en el aprovechamiento de las vías públicas, en particular, de los oficiales y agentes responsables de atender los problemas de vialidad y de vigilar el cumplimiento de las normas de tránsito;
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+V. Definir las normas de aplicación y vigilancia en el cumplimiento de la prestación del servicio de transporte público dentro de su ámbito territorial.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
 
 ###### Artículo 39.
 
-El Ejecutivo Estatal, conjuntamente con los ayuntamientos de los municipios que estén integrados en una zona conurbada, conforme a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Jalisco, mediante las instancias de coordinación que establezcan, autorizarán las normas reglamentarias que serán aplicables al tránsito en el centro de población.
+El Ejecutivo Estatal, conjuntamente con los ayuntamientos de los municipios que estén integrados en una zona conurbada, conforme a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Jalisco, mediante las instancias de coordinación que establezcan, autorizarán las normas reglamentarias que serán aplicables al tránsito y transporte público de pasajeros en el centro de población.
 
 ###### Artículo 40.
 
@@ -1103,7 +1147,9 @@ III. Solo en casos justificados, la dependencia estatal competente en materia de
 
 Corresponde al Estado planear, establecer, regular y supervisar la prestación del servicio público de transporte, en las vías públicas de comunicación local ya sean urbanas, suburbanas o carreteras de jurisdicción estatal.
 
-El Estado tendrá siempre la facultad de establecer y explotar las vías públicas de comunicación local, mediante el servicio público de transporte de personas o carga, el cual podrá realizarlo por sí mismo o a través de concesiones y de permisos otorgados conforme a lo dispuesto en esta Ley.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+Tratándose de concesiones y permisos para la explotación de las vías públicas de carácter municipal, la Secretaría deberá, previamente, hacer intervenir directamente a los municipios de que se trate, en la formulación y aplicación de los programas de transporte público de pasajeros.
 
 ###### Artículo 82.
 
@@ -1227,6 +1273,10 @@ III. En el caso de vehículos para carga especial, se aplicarán las normas de s
 
 Las personas físicas o jurídicas para participar en la prestación del servicio público de transporte, en cualquiera de sus modalidades, requerirá obtener concesión o permiso según corresponda, expedida por el Ejecutivo del Estado, por conducto de la dependencia del mismo, competente en materia de vialidad, tránsito y transporte y se encontrarán limitadas hasta tres concesiones o permisos por persona física. Así mismo, las concesiones o permisos para la prestación del servicio público de transporte de autos de alquiler, sitio, taxis o radiotaxis sólo se otorgará a personas físicas.
 
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+El Estado, previa convocatoria para la prestación del servicio público de transporte de pasajeros, deberá elaborar colegiadamente con los ayuntamientos, los programas de transporte público de pasajeros que elaboren las autoridades competentes, ya sea para renovarlos o los nuevos que se expidan al otorgar nuevas concesiones o permisos, siempre y cuando se trate de vías públicas locales de carácter municipal.
+
 ###### Artículo 95.
 
 El Ejecutivo del Estado expedirá las concesiones o permisos para la prestación del servicio público de transporte, conforme a las siguientes bases generales:
@@ -1243,9 +1293,9 @@ b) La urgencia o conveniencia de satisfacer esa demanda;
 
 c) El beneficio que su otorgamiento signifique para el interés público por la magnitud de la inversión; por la transferencia de tecnología que se genere, o por el impacto positivo que redunde en el provecho social;
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2000)</small>
 
-d) Dictamen que contenga un estudio de factibilidad del Consejo Consultivo; del Organismo Coordinador de la Operación Integral del Servicio de Transporte Público y del Centro Estatal de Investigación de la Vialidad y Transporte, y
+d) La opinión favorable del Consejo Consultivo; del Organismo Coordinador de la Operación Integral del Servicio de transporte Público y del Centro Estatal de Investigación de la Vialidad y Transporte, así como del ayuntamiento, cuando la concesión o permiso afecte su ámbito territorial.
 
 e) La convocatoria a una licitación pública para la prestación de dicho servicio;
 
@@ -2666,3 +2716,13 @@ P.O. 11 DE JULIO DE 2000.
 P.O. 19 DE SEPTIEMBRE DE 2000.
 
 UNICO: El presente decreto entrará en vigor treinta días después de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 5 DE OCTUBRE DE 2000.
+
+Primero. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo. Se abrogan todas las disposiciones que se opongan al presente decreto.
+
+Tercero. Los ayuntamientos tendrán 180 días a partir del 1º de enero del 2001, para revisar conjuntamente con la Secretaría de Vialidad, Tránsito y Transporte del Gobierno del Estado de Jalisco, los planes y programas de transporte público de pasajeros que incidan en su ámbito territorial.
+
+Cuarto. Los derechos y obligaciones adquiridos por los permisionarios, concesionarios y subrogatorios del transporte público de pasajeros deberán ser respetados en los términos y condiciones en que los adquirieron.
