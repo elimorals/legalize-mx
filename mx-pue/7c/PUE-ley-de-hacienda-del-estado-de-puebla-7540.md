@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-del-estado-de-puebla-7540"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-31"
-last_updated: "1994-08-02"
+last_updated: "1994-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 02 DE AGOSTO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 1993.
 
@@ -363,17 +363,19 @@ Las infracciones a las disposiciones relativas al impuesto sobre adquisición de
 
 Los derechos por los servicios prestados por las dependencias y organismos auxiliares de la administración pública del Estado, se aplicarán, pagarán e ingresarán conforme a las disposiciones, tasas, tarifas y cuotas establecidas en la Ley de Ingresos del Estado vigente.
 
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1994)</small>
+
 ###### ARTICULO 28.
 
-Para efectos del cobro de derechos por los servicios que presta la Dirección de Tránsito del Estado, comprendidos en la Ley de Ingresos del Estado, corresponde a la Secretaría de Finanzas, el registro y control de vehículos, excepto aeronaves, así como el establecimiento del registro estatal vehicular, relativo a los vehículos que sean dados de alta en su jurisdicción territorial, y a mantenerlo actualizado.
+Corresponde a las Autoridades Fiscales del Estado establecer el registro Estatal vehicular relativo a los vehículos que sean dados de alta en su jurisdicción territorial; para tales efectos dichas Autoridades realizarán los tramites relativos a las altas, bajas, cambios y rectificaciones que procedan en el registro, en consecuencia serán ellas las que lleven a cabo los actos de verificación y comprobación para mantener actualizado dicho registro.
 
-(ADICIONADO, P.O. 02 DE AGOSTO DE 1994).
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1994)</small>
 
-ARTICULO 28 BIS.- Durante la vigencia del Acuerdo de Coordinación para el Fomento de la Vivienda, se concede la exención del pago de los derechos estatales previstos en la Ley de Ingresos del Estado y demás Leyes Tributarias del Estado, vinculados con la edificación o adquisición de vivienda de interés social o de tipo popular, a quienes la adquieran o construyan a través de la gestoría del Instituto Poblano de la Vivienda Popular.
+ARTICULO 28 BIS.- Se concede la exención del pago de los derechos Estatales previstos en la Ley de Ingresos del Estado y demás Leyes Tributarias del Estado, vinculados con la edificación o adquisición de vivienda de interés social o popular, a quienes la adquieran o construyan a través de la gestoría del Instituto Poblano de la Vivienda Popular.
 
 Para tal efecto se entiende por:
 
-- Vivienda de interés social.- Aquella cuyo valor al término de su edificación no exceda de la suma de multiplicar por quince el salario mínimo general elevado al año vigente en el Estado.
+- Vivienda de interés social.- Aquella cuyo valor al término de su edificación, no exceda de la suma de multiplicar por quince el salario mínimo general elevado al año vigente en el Estado.
 
 - Vivienda Popular.- La que al término de su edificación su valor no exceda de la suma que resulte de multiplicar por veinticinco el salario mínimo general elevado al año vigente en la Entidad.
 
@@ -468,3 +470,13 @@ LIC. CARLOS PALAFOX VAZQUEZ.
 P.O. 02 DE AGOSTO DE 1994.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE NOVIEMBRE DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
