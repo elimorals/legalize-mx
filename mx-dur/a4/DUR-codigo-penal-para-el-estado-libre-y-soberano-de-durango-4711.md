@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-4711"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-08-22"
-last_updated: "1994-07-17"
+last_updated: "1996-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1996.
 
 Código publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 22 de agosto de 1991.
 
@@ -2711,7 +2711,9 @@ III.- Retenga la cosa que estuviera obligado a entregar, si la hubiera recibido 
 
 El delito previsto en este Capítulo solamente se perseguirá por querella de la parte ofendida. Para estimar la cuantía del abuso de confianza se estará a lo dispuesto en el Artículo 318.
 
-### CAPITULO V. DESPOJO
+### CAPITULO IV BIS. USURA
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 337.
 
@@ -2735,7 +2737,7 @@ VI.- El que hubiere vendido una cosa mueble y recibido su precio, si no la entre
 
 VII.- El que venda a dos o más personas una misma cosa, sea mueble o inmueble y reciba el precio de una u otra venta o ambas o parte de él, con perjuicio del primer o siguientes compradores;
 
-VIII.- El que valiéndose de la suma ignorancia, notoria inexperiencia o extrema miseria o necesidad de otro, obtiene de éstos ventajas usuarias (sic) por medio de contratos, convenios o documentos mercantiles o civiles, en los cuales se estipulen réditos o lucros superiores a los usuales en el mercado o tasas de interés bancario autorizados;
+VIII.- (DEROGADA, P.O. 19 DE DICIEMBRE DE 1996)
 
 IX.- El que para obtener un lucro indebido, ponga en circulación fichas, tarjetas u otros objetos de cualquier materia, como signos convencionales en sustitución de la moneda legal;
 
@@ -2801,9 +2803,15 @@ Para la aplicación de este artículo, se considera el salario mínimo diario ge
 
 Son aplicables al fraude, los Artículos 324 y 325 de este Ordenamiento.
 
-### CAPITULO VI. DAÑO EN LOS BIENES
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO VII. DELITOS CONTRA LA SEGURIDAD DE LA PROPIEDAD Y LA POSESION DE INMUEBLES Y LIMITES DE CRECIMIENTO DE LOS CENTROS DE POBLACION
+### CAPITULO V. DESPOJO
+
+###### ARTICULO 340 Bis.
+
+Al que obtenga de otra persona ventajas usurarias por medio de contratos o convenios, en los cuales se estipulen réditos o lucros superiores a los usuales en el mercado, se impondrá de 1 a 9 años de prisión y multa equivalente hasta de dos tantos de los intereses devengados en exceso.
+
+### CAPITULO VI. DAÑO EN LOS BIENES
 
 ###### ARTICULO 341.
 
@@ -2817,9 +2825,7 @@ III.- Al que en términos de las fracciones anteriores, distraiga sin derecho el
 
 Se impondrá de seis a doce años de prisión y de cien a quinientos días-multa, a los autores intelectuales a quienes dirijan la invasión y a quienes instiguen a la ocupación de la cosa, cuando el despojo se realice por dos o más personas. Si al realizarse el despojo se cometen otros delitos, aún sin la participación física de los autores intelectuales, de quienes dirijan la invasión e instigadores, se considerará a éstos, inculpados de los delitos cometidos.
 
-### CAPITULO VIII. TRANSFERENCIA ILEGAL DE BIENES SUJETOS A
-
-REGIMEN EJIDAL O COMUNAL
+### CAPITULO VII. DELITOS CONTRA LA SEGURIDAD DE LA PROPIEDAD Y LA POSESION DE INMUEBLES Y LIMITES DE CRECIMIENTO DE LOS CENTROS DE POBLACION
 
 ###### ARTICULO 342.
 
@@ -2835,7 +2841,9 @@ Se impondrá de cinco a diez años de prisión y de tres a trescientos cincuenta
 
 Si además de los daños directos, resulta consumado algún otro delito, se aplicarán las reglas del concurso de delitos.
 
-### CAPITULO UNICO. DE LA PREVENCION Y SANCION DE LA TORTURA
+### CAPITULO VIII. TRANSFERENCIA ILEGAL DE BIENES SUJETOS A
+
+REGIMEN EJIDAL O COMUNAL
 
 ###### ARTICULO 345.
 
@@ -2849,13 +2857,15 @@ Se impondrá de seis meses a dos años de prisión y de seis a setenta días-mul
 
 Se impondrá de tres días a un mes de prisión y de tres a diez días-multa, al que sin permiso y fuera de los casos en que la Ley lo permita, entre en un predio cercado.
 
-### CAPITULO UNICO. DELITOS ELECTORALES
+### CAPITULO UNICO. DE LA PREVENCION Y SANCION DE LA TORTURA
 
 ###### ARTICULO 348.
 
 Se impondrá de seis meses a diez años de prisión y de cien a quinientos días-multa, a quienes compren o vendan o de cualquier forma transfieran o adquieran ilegalmente la tenencia de bienes sujetos a régimen ejidal o comunal, con propósito de lucro o para obtener un beneficio para sí o para otros, salvo las excepciones que se contemplan en la Ley Federal de Reforma Agraria.
 
 ## TITULO QUINTO
+
+### CAPITULO UNICO. DELITOS ELECTORALES
 
 ###### ARTICULO 349.
 
@@ -3016,3 +3026,9 @@ El presente Decreto entrará en vigor a los tres días de su publicación en el 
 ###### ARTICULO SEGUNDO.
 
 Todos los procesos y recursos relativos a los delitos especificados en el presente Decreto, que en cualquier instancia estén pendientes de resolución al inicio de la vigencia del mismo, se sujetarán para los efectos de las sanciones privativas de libertad y pecuniarias que se apliquen, a lo que establecían las disposiciones correspondientes antes de la presente reforma y adiciones.
+
+P.O. 19 DE DICIEMBRE DE 1996.
+
+UNICO (SIC).- El presente Decreto entrará en vigor al día siguiente al de su publicación, en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Decreto No. 216, aprobado por esta H. Legislatura Local, en fecha 05 de Diciembre de 1996.
