@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-8446
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-31"
-last_updated: "1962-12-31"
+last_updated: "1963-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1963.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, lunes 31 de diciembre de 1962.
 
@@ -61,7 +61,9 @@ Para los efectos de esta Ley, se entiende:
 
 I.- Por trabajador a toda persona que preste sus servicios al Estado o a los organismos incorporados, mediante designación legal, siempre que sus cargos y sueldos estén consignados en los presupuestos del Estado y en el de los organismos mencionados.
 
-No se considerarán como trabajadores a las personas que presten sus servicios al Estado o a los organismos públicos incorporados mediante contrato sujeto a la legislación común, a las que por cualquier motivo perciban sus emolumentos exclusivamente con cargo a la partida de honorarios, o a las que presten servicios eventuales;
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1963)</small>
+
+No se considerará como trabajadores a las personas que presten sus servicios al Estado o a los Organismos Públicos incorporados mediante contrato sujeto a la legislación común; a las que por cualquier motivo tengan percepciones con cargo a partidas de honorarios o cuyos emolumentos no estén específicos en los términos del párrafo anterior; a los trabajadores eventuales: a los menores de 18 años y a los que presten sus servicios por un tiempo menor a la jornada legal, según sus labores.
 
 II.- Por pensionista, a toda persona a la que la Dirección de Pensiones del Estado le hubiere reconocido tal carácter con anterioridad a la vigencia de esta Ley y a las que se les otorgue tal carácter con apoyo en esta misma Ley;
 
@@ -387,7 +389,9 @@ III.- En caso de que el Instituto exigiere el pago forzoso del saldo que se adeu
 
 IV.- En caso de rescisión del contrato o de recuperación del inmueble por el Instituto en virtud de la reserva de dominio, el trabajador será considerado como arrendatario durante el tiempo que hubiere ocupado la finca, estando obligado a cubrir el importe de la renta y de los daños y deterioros que por su culpa o negligencia o la de sus familiares o dependientes hubiere sufrido el inmueble. Si existiere alguna diferencia a favor del trabajador entre lo que hubiere abonado a cuenta del precio o del importe de las rentas y la indemnización por daños y deterioros en su caso, se le hará entrega de aquella una vez hechas las anteriores deducciones. Para los efectos de este artículo se fijará desde el otorgamiento de la escritura la renta mensual que se asigne al inmueble:
 
-V.- Los honorarios notariales para el otorgamiento de las escrituras serán cubiertos por mitad entre el Instituto y los trabajadores; el pago de los impuestos y gastos adicionales serán por cuenta exclusiva de éstos.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1963)</small>
+
+V.- Honorarios notariales para el otorgamiento de las escrituras, así como el pago de los impuestos y gastos adicionales serán por cuenta exclusiva de los trabajadores.
 
 Los pensionistas gozarán de los beneficios de este artículo en los términos que dentro de los lineamientos de esta ley fije la Junta Directiva por medio de acuerdos generales.
 
@@ -403,9 +407,11 @@ SECCION 2a
 
 PRESTAMOS HIPOTECARIOS
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1963)</small>
+
 ###### Artículo 43.
 
-Los trabajadores que hayan contribuido por más de seis meses al Instituto, podrán obtener prestamos con garantía hipotecaria en primer lugar, sobre inmuebles urbanos.
+Los trabajadores que hayan contribuido por mas de seis meses al Instituto podrán obtener prestamos con garantía hipotecaria en el primer lugar sobre inmuebles urbanos, cuando los fondos para dicho préstamo provengan del patrimonio propio del Instituto.
 
 Los prestamos se destinarán a los siguientes fines:
 
@@ -415,17 +421,23 @@ II.- Adquisición o construcción de casas que habite el trabajador;
 
 III.- Efectuar mejoras o reparaciones de las mismas;
 
-IV.- Redención de gravámenes que soporten tales inmuebles.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1963)</small>
+
+IV.- Redención de gravámenes que reporten tales inmuebles, siempre y cuando hayan sido contraídos con anterioridad a la vigencia de esta Ley.
 
 Los pensionistas gozarán de los beneficios que establece este artículo, con sujeción a los acuerdos generales que en los términos y dentro de los lineamientos de esta Ley, dicte la Junta Directiva.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1963)</small>
+
 ###### Artículo 44.
 
-Los prestamos hipotecarios se sujetarán, en lo conducente, a las condiciones y facilidades que establece el artículo 40 y se cubrirán mediante amortizaciones quincenales que incluirán capital e intereses.
+Los préstamos hipotecarios se sujetarán, en lo conducente a las condiciones y facilidades que establece el artículo 40 y se cubrirán mediante amortizaciones mensuales que incluirán capital e intereses.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1963)</small>
 
 ###### Artículo 45.
 
-El Instituto formulará tablas para determinar las cantidades máximas que puedan ser prestadas a cada trabajador según su sueldo, tomando como base que las amortizaciones quincenales no deben sobrepasar del cincuenta por ciento del sueldo o sueldos que el trabajador disfrute y por los cuales se les practiquen descuentos para el Instituto. En los casos en que el trabajador justifique tener otros ingresos permanentes que puedas (sic) computarse para amortización del préstamo, éste podrá sobrepasar el máximo fijado para su sueldo en forma proporcional. En todo caso el límite máximo para los créditos hipotecarios, aun tratándose de prestamos mancomunados, será de $75,000.00.
+El instituto formulará tablas para determinar las cantidades máximas que puedan ser prestadas a cada trabajador según su sueldo, tomando como base que las amortizaciones mensuales no deben sobrepasar del 25% del sueldo o sueldos que el trabajador disfrute y por los cuales se le practiquen descuentos para el Instituto. En los casos en que el trabajador justifique tener otros ingresos permanentes que puedan computarse para la amortización del préstamo, éste podrá sobrepasar el máximo fijado para su sueldo en forma proporcional. En todo caso, el límite máximo para los créditos hipotecarios, aún tratándose de préstamos mancomunados será de $80,000.00.
 
 ###### Artículo 46.
 
@@ -455,21 +467,19 @@ Las casas adquiridas o construidas por los trabajadores con fondos suministrados
 
 ### CAPITULO SEXTO. DE LOS PRESTAMOS A CORTO PLAZO
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1963)</small>
+
 ###### Artículo 51.
 
-Los préstamos a corto plazo, se harán a los trabajadores de base, conforme a las siguientes reglas:
+Los préstamos a corto plazo se harán a los trabajadores de base que hayan cubierto al Instituto las aportaciones a que se refiere el artículo 16 cuando menos por seis meses, conforme a las reglas siguientes:
 
-I.- A quienes hayan cubierto al Instituto las aportaciones a que se refiere el artículo 16 cuando menos por seis meses.
+I.- Hasta el importe de seis meses de sueldo básico del solicitante, si la aportación con derecho a retiro en caso de indemnización global a que se refiere el artículo 89, es igual o mayor que el monto del préstamo.
 
-II.- Mediante garantía de la aportación con derecho de retiro en caso de la indemnización global a que se refiere el artículo 89.
+II.- Cuando el préstamo solicitado sobrepase el monto de la aportación a que se refiere la fracción anterior, se autorizará solamente hasta el importe de cuatro meses de sueldo y el excedente se garantizará con el fondo especial que deberá crearse por acuerdo de la Junta Directiva, mediante el pago de primas en los términos que ésta fije. Estas primas en ningún caso tendrán carácter devolutivo.
 
-III.- Hasta el importe de seis meses del sueldo básico del solicitante, si la mencionada aportación es igual al monto del préstamo. En caso contrario se autorizará solamente hasta el importe de cuatro meses.
+III.- En tanto se constituya y esté en condiciones de operar ese fondo, se exigirá garantía colateral consistente en fianza personal de otro contribuyente del Instituto que no tuviere adeudos con el mismo, por sí o como deudor. No podrán ser codeudores los funcionarios y empleados de confianza a que se refiere el Artículo 3o. de la Ley del Servicio Civil del Estado.
 
-IV.- Cuando el préstamo sobrepase el monto de las aportaciones a que se refiere las fracciones anteriores, el excedente se garantizará con un fondo especial que constituyan los interesados mediante el pago de primas, en los términos que fije la Junta Directiva. Entre tanto se constituye y esta en condiciones de operación ese fondo, se exigirá garantía colateral consistente en fianza personal de otro contribuyente al Instituto que no tuviere adeudos con el mismo.
-
-V.- El monto del préstamo lo constituirá el capital y los intereses, calculados durante el plazo del mismo.
-
-Los pensionistas gozarán de los beneficios que establece este artículo con sujeción a los acuerdos generales que en los términos y dentro de los lineamientos de esta Ley, dicte la Junta Directiva.
+Los pensionistas gozarán de los beneficios que establece este Artículo con sujeción a los acuerdos generales que en los términos y dentro de los lineamientos de esta Ley, dicte la Junta Directiva.
 
 ###### Artículo 52.
 
@@ -479,9 +489,11 @@ Los trabajadores de confianza y los supernumerarios podrán obtener préstamos a
 
 Los préstamos se harán de tal manera que los abonos para reintegrar la cantidad prestada y sus intereses sumados a los descuentos por préstamos hipotecarios y a los que deban hacerse por cualquier otro adeudo a favor del Instituto, no excedan del cincuenta por ciento de los sueldos del interesado.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1963)</small>
+
 ###### Artículo 54.
 
-El plazo para el pago del préstamo no será mayor de dieciocho meses, ni menor de uno.
+El plazo para el pago del préstamo no será mayor de 12 meses ni menor de uno.
 
 ###### Artículo 55.
 
@@ -495,9 +507,11 @@ El pago de capital e intereses, se hará en abonos quincenales iguales.
 
 No se concederá nuevo préstamo mientras permanezca insoluto el anterior. Solamente podrá revocarse cuando haya transcurrido la cuarta parte del plazo por el que fue concedido, cubiertos los abonos por dicho período y que el deudor pague la prima de renovación que por medio de acuerdos generales fije la Junta Directiva.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1963)</small>
+
 ###### Artículo 58.
 
-Los adeudos por concepto de préstamos a corto plazo, que no fuesen cubiertos por los trabajadores después de un año de su vencimiento, en el primer caso al que se refiere la fracción IV del artículo 51 se pagará con cargo a las aportaciones del deudor y en el segundo caso comprendido en la misma fracción, se cargará el exceso sobre las aportaciones al Fondo de Garantía. Sin embargo, en el último de los casos mencionados, quedará vivo el crédito contra el deudor, pudiendo el Instituto acudir a los medios legales de recobro, y debiendo, en su caso, abonar a dicho Fondo las cantidades que se recuperen.
+Los adeudos por concepto de préstamos a corto plazo que no fueren cubiertos a su vencimiento en el caso de fracción I del artículo 51, se pagarán con cargo a las aportaciones del deudor; y en el caso de la fracción II, se cargará el excedente sobre el Fondo de Garantía. Sin embargo, en este último caso, será exigible el crédito contra el deudor o contra el codeudor, pudiendo el Instituto acudir a los medios legales para hacer efectivo el adeudo y debiéndose abonar a dicho fondo las cantidades que se recuperen.
 
 ### CAPITULO SÉPTIMO. DE LA JUBILACION Y DE LAS PENSIONES POR VEJEZ, INVALIDEZ Y MUERTE
 
@@ -801,7 +815,13 @@ VIII.- Organizar sus dependencias y fijar la estructura y funcionamiento de las 
 
 IX.- Expedir los reglamentos para la debida prestación de sus servicios y de su organización interna; y
 
-X.- Las demás que le confieran esta ley y sus reglamentos.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1963)</small>
+
+X.- Obtener prestamos, créditos financiamientos para aplicarlos a sus propios fines y para gravar en garantía de esas operaciones, su patrimonio, previa sanción del Ejecutivo del Estado.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1963)</small>
+
+XI.- Las demás que le confieran esta Ley y sus reglamentos.
 
 ###### Artículo 97.
 
@@ -859,7 +879,9 @@ V.- Nombrar y remover el personal de base y de confianza del Instituto, a propue
 
 VI.- Aprobar y poner en vigor los reglamentos interiores económicos y de servicios médicos del Instituto;
 
-VII.- Conferir poderes generales o especiales de acuerdo con el Director;
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE DICIEMBRE DE 1963)</small>
+
+VII.- Conferir poderes generales o especiales de acuerdo con el Director, sin perjuicio de la facultad que en esta materia concede al propio Director el artículo 109.
 
 VIII.- Examinar para su aprobación o modificación los balances anuales, los presupuestos de ingresos y egresos y el plan de labores del Instituto;
 
@@ -903,7 +925,9 @@ IV.- Firmar las escrituras y títulos de crédito en que el Instituto intervenga
 
 V.- Representar al Instituto en toda gestión judicial, extrajudicial y administrativa, sin perjuicio de los poderes otorgados al efecto.
 
-VI.- Resolver bajo su inmediata y directa responsabilidad los asuntos urgentes de la competencia de la Junta, a reserva de dar cuenta a la misma en la sesión inmediata siguiente.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1963)</small>
+
+VI.- Conferir poderes generales y especiales, y resolver bajo su inmediata y directa responsabilidad los asuntos urgentes de la competencia de la Junta, a reserva de dar cuenta a la misma en la sesión inmediata siguiente.
 
 VII.- Formular y presentar para discusión y aprobación de la Junta, el balance, el presupuesto de ingresos y egresos y el plan de labores del Instituto, correspondientes a cada ejercicio anual;
 
@@ -929,9 +953,11 @@ Cuando el Director falte temporalmente al desempeño de sus funciones, el Gobern
 
 El Director General será auxiliado en sus funciones por los Sub-Directores que nombre la Junta Directiva del Instituto a propuesta del Director y quienes deberán reunir los requisitos exigidos por el artículo 102 de esta Ley.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1963)</small>
+
 ###### Artículo 112.
 
-Los Trabajadores del Instituto quedan incorporados al régimen de la presente ley.
+Los trabajadores del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, quedan incorporados al régimen de la presente Ley y las relaciones de trabajo entre ambos, se regirán por la Ley del Servicio Civil del Estado de Sonora.
 
 ### CAPITULO DECIMO TERCERO. DISPOSICIONES GENERALES
 
@@ -1134,3 +1160,9 @@ LIC. LUIS ENCINAS.
 EL SECRETARIO DE GOBIERNO,
 
 LIC. ENRIQUE FOX ROMERO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS LEYES QUE REFORMAN A LA PRESENTE LEY.</small>
+
+B.O. 31 DE DICIEMBRE DE 1963.
+
+UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
