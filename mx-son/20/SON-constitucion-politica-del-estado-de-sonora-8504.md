@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1978-08-12"
+last_updated: "1978-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 12 DE AGOSTO DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1978.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -907,7 +907,7 @@ XIV. En caso de sublevación o de trastorno interior en el Estado, excitar, de a
 
 > <small>(REFORMADA, B.O. 18 DE JUNIO DE 1977)</small>
 
-XV. Auxiliar, a solicitud de sus Ayuntamientos, a los Municipios de la entidad a fin de mejorar la ejecución de obras, la prestación de servicios o cualquier otro propósito del que se derive un mejoramiento de la administración y fortalecimiento de la autonomía municipal.
+XV. Auxiliar, a solicitud de sus Ayuntamientos, a los Municipios de la entidad a fin de mejorar la ejecución de obras, la prestación de servicios o cualquier otro propósito del que se derive un mejoramiento de la administración y fortalecimiento de autonomía municipal.
 
 > <small>(REFORMADA, B.O. 18 DE JUNIO DE 1977)</small>
 
@@ -1219,13 +1219,17 @@ Para ser Defensor de Oficio se necesitan los mismos requisitos que para ser Agen
 
 El Poder Judicial se depositará para su ejercicio en un Supremo Tribunal de Justicia, en los juzgados de Primera Instancia, locales y menores, y en los demás organismos que la ley establezca.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE DICIEMBRE DE 1978)</small>
 
 ###### Artículo 113.
 
-El Supremo Tribunal de Justicia se compondrá de cinco Magistrados propietarios y ocho suplentes, nombrados cada seis años, pudiendo los designados ser reelectos, y tomarán posesión de su encargo el día 16 de Septiembre del año en que se inicie el período Constitucional del Ejecutivo. Si por cualquier motivo no se hace nombramiento o los designados no se presentan al desempeño de su cargo, continuarán en funciones los individuos que lo formen hasta que tomen posesión los nuevamente nombrados. Los que fueren nombrados en el curso del período desempeñarán sus funciones hasta la conclusión del mismo. Habrá también Magistrados insaculados, cuya designación se hará en la forma que establezca la Ley Orgánica respectiva.
+El Supremo Tribunal de Justicia se compondrá de siete magistrados propietarios y ocho suplentes, nombrados cada seis años, pudiendo los designados ser reelectos, y tomarán posesión de su encargo el día dieciséis de septiembre del año en que se inicie el período constitucional del Ejecutivo. Si por cualquier motivo no se hace el nombramiento o los designados no se presenten (sic) al desempeño de su cargo, continuarán en funciones los individuos que lo formen hasta que tomen posesión los nuevamente nombrados. Los que fueren nombrados en el curso del período, desempeñarán sus funciones hasta la conclusión del mismo. Habrá también magistrados insaculados, cuya designación se hará en la forma que establezca la ley orgánica respectiva.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 Los nombramientos de los Magistrados del Supremo Tribunal de Justicia serán hechos por el Gobernador del Estado y sometidos a la aprobación del Congreso, el que otorgará o negará esa aprobación dentro del término de cinco días. Si el Congreso no resolviere dentro de dicho término, se tendrán por aprobado los nombramientos. Sin aprobación expresa o tácita no podrán tomar posesión del cargo.
+
+> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
 En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación de la Cámara en el siguiente período ordinario de sesiones. En este período ordinario de sesiones, dentro de los primeros cinco días el Congreso deberá aprobar o reprobar el nombramiento y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si el Congreso rechaza el nombramiento cesará desde luego en sus funciones de Magistrado provisional y el Gobernador del Estado someterá nuevo nombramiento para su aprobación en los términos señalados.
 
@@ -2032,6 +2036,10 @@ B.O. 12 DE AGOSTO DE 1978.
 ###### ARTICULO UNICO.
 
 Las presentes adiciones y reformas entrarán en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
+
+B.O. 30 DE DICIEMBRE DE 1978.
+
+UNICO.- La presente ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
