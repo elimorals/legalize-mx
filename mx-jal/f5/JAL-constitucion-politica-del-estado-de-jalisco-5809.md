@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2004-09-14"
+last_updated: "2005-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 2005.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -80,6 +80,10 @@ El territorio del Estado es el que por derecho le corresponde.
 Toda persona, por el sólo hecho de encontrarse en el territorio del Estado de Jalisco, gozará de los derechos que establece esta Constitución, siendo obligación fundamental de las autoridades salvaguardar su cumplimiento.
 
 Se reconocen como derechos de los individuos que se encuentren en el territorio del Estado de Jalisco, los que se enuncian en la Constitución Política de los Estados Unidos Mexicanos, así como los contenidos en la Declaración Universal de los Derechos Humanos, proclamada por la Asamblea General de las Naciones Unidas y en los tratados, convenciones o acuerdos internacionales que el Gobierno Federal haya firmado o de los que celebre o forme parte.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2005)</small>
+
+El derecho a la información pública será garantizado por el Estado en los términos de esta Constitución y la ley respectiva.
 
 El Estado de Jalisco tiene una composición pluricultural sustentada originalmente en sus pueblos indígenas que son aquellos que descienden de poblaciones que habitaban en el territorio actual del país al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
 
@@ -169,13 +173,11 @@ II. Los mexicanos por nacimiento o naturalización avecindados en el Estado y qu
 
 La vecindad no se pierde por ausencia debida al desempeño de cargos públicos, de elección popular, o en defensa de la patria y de sus instituciones.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2005)</small>
 
 ###### Art. 8º.
 
 Son prerrogativas de los ciudadanos jaliscienses:
-
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 I. Votar en las elecciones populares, así como en los procesos de plebiscito y referéndum;
 
@@ -185,11 +187,31 @@ III. Desempeñar preferentemente cualquier empleo del Estado, cuando el individu
 
 IV. Afiliarse individual y libremente, al partido político de su preferencia.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
+Son obligaciones de los ciudadanos jaliscienses, las contenidas en los artículos 31 y 36 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2005)</small>
 
 ###### Art. 9º.
 
-Son obligaciones de los ciudadanos jaliscienses, las contenidas en los artículos 31 y 36 de la Constitución Política de los Estados Unidos Mexicanos.
+El derecho a la información pública tendrá los siguientes fundamentos:
+
+I. La consolidación del estado democrático y de derecho en Jalisco;
+
+II. La transparencia y la rendición de cuentas de las autoridades estatales y municipales, mediante la apertura de los órganos públicos y el registro de los documentos en que constan las decisiones públicas y el proceso para la toma de éstas;
+
+III. La participación ciudadana en la toma de decisiones públicas, mediante el ejercicio del derecho a la información;
+
+IV. La información pública veraz y oportuna;
+
+V. La protección de la información confidencial de las personas; y
+
+VI. La promoción de la cultura de transparencia, la garantía del derecho a la información y la resolución de las controversias que se susciten por el ejercicio de este derecho a través del Instituto de Transparencia e Información Pública de Jalisco.
+
+El Instituto es un órgano público autónomo, con personalidad jurídica y patrimonio propio.
+
+Contará con un Consejo conformado por un Presidente y cuatro consejeros ciudadanos titulares, así como por los suplentes respectivos; los miembros del Consejo serán nombrados mediante el voto de dos terceras partes de los integrantes del Congreso del Estado, o por insaculación, conforme a los requisitos y procedimientos que establezca la ley.
+
+El Instituto tendrá las atribuciones específicas que la ley le otorgue; sus resoluciones serán definitivas e inatacables, vinculantes y deberán ser cumplidas por los Poderes, entidades y dependencias públicas del Estado, Ayuntamientos y por todo organismo, público o privado, que reciba, administre o aplique recursos públicos estatales o municipales.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
@@ -380,6 +402,14 @@ VII. Las autoridades estatales y municipales para la preservación de los derech
 > <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2000)</small>
 
 VIII. Los poderes del Estado, municipios y sus dependencias y entidades que ejerzan presupuesto público estatal, deberán publicar mensualmente en forma pormenorizada sus estados financieros.
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2005)</small>
+
+IX. Las autoridades estatales y municipales promoverán y garantizarán la transparencia y el derecho a la información pública en el ámbito de su competencia.
+
+La ley regulará el ejercicio del derecho a la información pública y el procedimiento para hacerlo efectivo; las obligaciones por parte de los sujetos de aplicación de la ley respecto a la transparencia y el derecho a la información pública, así como las sanciones por su incumplimiento.
+
+Será obligación de las autoridades estatales y municipales, así como de cualquier otro organismo, público o privado, que reciba, administre o aplique recursos públicos, proporcionar la información pública en su posesión, rendir cuentas de sus funciones y permitir el ejercicio del derecho a la información en los términos de la ley.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -731,9 +761,9 @@ XIII. Designar, en los términos que previene esta Constitución, al ciudadano q
 
 XIV. Convocar a elecciones extraordinarias cuando fuere necesario y decidir conforme a sus atribuciones;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2005)</small>
 
-XV. Conocer y resolver sobre las renuncias de los diputados, del Gobernador del Estado, de los magistrados del Poder Judicial, de los consejeros integrantes del Consejo General del Poder Judicial, del Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos y de los consejeros electorales;
+XV. Conocer y resolver sobre las renuncias de los Diputados; del Gobernador del Estado, de los Magistrados del Poder Judicial, de los consejeros integrantes del Consejo General del Poder Judicial, del Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos y de los Consejeros Electorales, del Presidente y consejeros ciudadanos del Instituto de Transparencia e Información Pública de Jalisco;
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -815,13 +845,19 @@ XXX. Citar a los titulares de las dependencias y organismos descentralizados del
 
 XXXI. Expedir su Ley Orgánica, formar sus reglamentos y dictar las disposiciones necesarias para el buen funcionamiento de sus oficinas, así como ejercer las demás atribuciones que le confiera la ley;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2005)</small>
 
-XXXII. Expedir el bando solemne para dar a conocer la declaración de Gobernador electo hecha por el Consejo Electoral, en la forma y términos que establezca la ley de la materia, y
+XXXII. Expedir el bando solemne para dar a conocer la declaración de Gobernador electo hecha por el Consejo Electoral, en la forma y términos que establezca la ley de la materia;
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2005)</small>
+
+XXXIII. Elegir al Presidente y a los consejeros ciudadanos del Instituto de Transparencia e Información Publica de Jalisco con la aprobación de las dos terceras partes de los diputados integrantes de la legislatura, o por insaculación en los términos que establezca la ley de la materia.
+
+El Presidente y los consejeros ciudadanos durarán en su encargo cuatro años y sólo podrán ser removido (sic) de sus funciones en los términos del Título Octavo de esta Constitución; podrán ser reelectos por una sola ocasión conforme al procedimiento para su nombramiento de conformidad con la ley; y
 
 > <small>(ADICIONADA, P.O. 28 DE ABRIL DE 1997)</small>
 
-XXXIII. Presidir la junta preparatoria para instalar la nueva legislatura.
+XXXIV. Presidir la junta preparatoria para instalar la nueva legislatura.
 
 (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
@@ -1727,11 +1763,11 @@ III. El procedimiento administrativo, y
 
 IV. El procedimiento ordinario.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 2005)</small>
 
 ###### Art. 92.
 
-Para los efectos de las responsabilidades a que alude este título, se consideran servidores públicos a los representantes de elección popular; a los miembros del Poder Judicial del Estado e integrantes del Tribunal de Arbitraje y Escalafón previstos en esta Constitución; a los miembros del Consejo Electoral del Estado; a los integrantes de la Comisión Estatal de Derechos Humanos, y en general, a toda persona que desempeñe un cargo o comisión de cualquiera naturaleza en la administración pública del Estado o de los municipios, así como a quienes presten servicios en los organismos descentralizados, fideicomisos públicos y empresas de participación estatal o municipal mayoritaria, quienes serán responsables por los actos u omisiones en que incurran por el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este título, se consideran servidores públicos a los representantes de elección popular; a los miembros del Poder Judicial del Estado e integrantes del Tribunal de Arbitraje y Escalafón previstos en esta Constitución; a los miembros del Consejo Electoral del Estado; a los integrantes de la Comisión Estatal de Derechos Humanos, los miembros del Instituto de Transparencia e Información Pública de Jalisco; y en general, a toda persona que desempeñe un cargo o comisión de cualquiera naturaleza en la administración pública del Estado o de los municipios, así como a quienes presten servicios en los organismos descentralizados, fideicomisos públicos y empresas de participación estatal o municipal mayoritaria, quienes serán responsables por los actos u omisiones en que incurran por el desempeño de sus respectivas funciones.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
 
@@ -1767,9 +1803,9 @@ En los juicios del orden civil no hay fuero ni inmunidad.
 
 El procedimiento del juicio político se regirá conforme a las siguientes prevenciones:
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2005)</small>
 
-I. Serán sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del Poder Ejecutivo del Estado, el Contralor del Estado, el Procurador General de Justicia y el Procurador Social; los integrantes del Consejo General del Poder Judicial, los consejeros electorales del Consejo Electoral del Estado; el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; el Auditor Superior del Estado; los presidentes, regidores, síndicos o concejales; los funcionarios encargados de la secretaría general de los Ayuntamientos; los funcionarios encargados de las haciendas municipales; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria;
+I. Serán sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del Poder Ejecutivo del Estado, el Contralor del Estado, el Procurador General de Justicia y el Procurador Social; los integrantes del Consejo General del Poder Judicial; los consejeros electorales del Consejo Electoral del Estado; el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; el Presidente y consejeros ciudadanos del Instituto de Transparencia e Información Pública de Jalisco; el Auditor Superior del Estado; los presidentes, regidores, síndicos o concejales; los funcionarios encargados de la secretaría general de los Ayuntamientos; los funcionarios encargados de las haciendas municipales; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria;
 
 II. Se determinará la responsabilidad de los servidores públicos mediante juicio político, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho;
 
@@ -1809,11 +1845,11 @@ La comisión de delitos por parte de cualquier servidor público será perseguid
 
 Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito, a los servidores públicos que, durante el tiempo de su encargo o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, sin que puedan demostrar su procedencia lícita. La ley sancionará con el decomiso y con la privación de la propiedad de dichos bienes, sin que se pueda considerar confiscatoria, además de las otras penas que correspondan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MARZO DE 2005)</small>
 
 ###### Art. 100.
 
-Para actuar penalmente contra los diputados al Congreso del Estado; los titulares de las secretarías del Poder Ejecutivo, el Procurador General de Justicia y el Procurador Social; los magistrados del Poder Judicial del Estado; el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los consejeros electorales del Consejo Electoral del Estado; el Auditor Superior del Estado; los presidentes municipales, regidores, síndicos y concejales de los ayuntamientos o concejos municipales, se requerirá establecer la procedencia de acuerdo a las siguientes normas:
+Para actuar penalmente contra los diputados al Congreso del Estado; los titulares de las secretarías del Poder Ejecutivo, el Procurador General de Justicia y el Procurador Social; los magistrados del Poder Judicial del Estado; el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; los consejeros electorales del Consejo Electoral del Estado; el Presidente y consejeros ciudadanos del Instituto de Transparencia e Información Pública de Jalisco; el Auditor Superior del Estado; los presidentes municipales, regidores, síndicos y concejales de los ayuntamientos o concejos municipales, se requerirá establecer la procedencia de acuerdo a las siguientes normas:
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1871,9 +1907,9 @@ Contra las declaraciones de procedencia penal no procede juicio o recurso alguno
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO II. De las reformas a la Constitución
+### CAPITULO I. Prevenciones generales
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 106.
 
@@ -1893,13 +1929,13 @@ La ley señalará los términos de prescripción para exigir la responsabilidad 
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE JUNIO DE 2003)</small>
 
-### CAPITULO III. De la inviolabilidad de esta Constitución
+### CAPITULO II. De las reformas a la Constitución
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
-### CAPITULO I. Prevenciones generales
+### CAPITULO III. De la inviolabilidad de esta Constitución
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ## TITULO NOVENO. (REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
@@ -1983,6 +2019,8 @@ Ninguna autoridad impondrá préstamos forzosos, ni las dependencias harán gast
 
 Las relaciones laborales del Estado, de los municipios y de los organismos descentralizados de ambos con sus servidores, se regirán por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, la que deberá establecer el servicio civil de carrera, respetando las disposiciones del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus leyes reglamentarias.
 
+(REUBICADO, P.O. 28 DE ABRIL DE 1997)
+
 ###### Art. 117.
 
 Esta Constitución sólo podrá reformarse con los requisitos siguientes: iniciada la reforma y aprobada por acuerdo de las dos terceras partes del número total de diputados que integren la Legislatura, se enviará a los ayuntamientos del Estado con los debates que hubiere provocado; si del cómputo efectuado por el Congreso resultare que la mayoría de los ayuntamientos aprueban la reforma, se declarará que forma parte de la Constitución.
@@ -2004,8 +2042,6 @@ Las reformas hechas en la Constitución Federal que afecten a esta Constitución
 Esta Constitución conservará su vigor aunque un trastorno público interrumpa su observancia.
 
 Si se estableciere un gobierno contrario a los principios que ella sanciona, luego que el pueblo recobre su libertad volverá a ser acatada y, con sujeción a la misma y a las leyes que de ella emanen, serán juzgados todos los que la hubieran infringido.
-
-(REUBICADO, P.O. 28 DE ABRIL DE 1997)
 
 ## TRANSITORIOS
 
@@ -2504,3 +2540,7 @@ CUARTO.- La prohibición contenida en el artículo 59, con relación a los sínd
 P.O. 14 DE SEPTIEMBRE DE 2004.
 
 ÚNICO.- Este decreto que contiene reformas a la Constitución Política del Estado de Jalisco, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco", previa declaratoria del procedimiento establecido en el artículo 117 de la Constitución Política del Estado.
+
+P.O. 26 DE MARZO DE 2005.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de publicación en el Periódico Oficial "El Estado de Jalisco".
