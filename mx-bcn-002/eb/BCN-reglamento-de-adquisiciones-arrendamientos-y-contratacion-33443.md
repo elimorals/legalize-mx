@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-adquisiciones-arrendamientos-y-contratacion-33443
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-08"
-last_updated: "2003-08-08"
+last_updated: "2004-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS PARA EL GOBIERNO MUNICIPAL DE MEXICALI BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 8 de agosto de 2003.
 
@@ -396,6 +396,10 @@ La Oficialía, en la realización de alguno de los supuestos señalados anterior
 ###### ARTÍCULO 29.
 
 Las adquisiciones, arrendamientos o contratación de servicios que se realicen mediante los procedimientos de adjudicación directa y de cotización por escrito, de cada dependencia de la administración pública centralizada, se efectuarán por conducto de la Oficialía. En estos casos, el procedimiento deberá apegarse a lo establecido en el artículo 27 de este Reglamento.
+
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2004)</small>
+
+Cuando mediante el procedimiento de adjudicación directa, sea adjudicado un contrato para la adquisición de bienes, a algún proveedor inscrito en el registro de proveedores, este no podrá ser sujeto de la adjudicación inmediata posterior, mediante el mismo procedimiento para adquisición de bienes.
 
 ###### ARTÍCULO 30.
 
@@ -936,3 +940,9 @@ A T E N T A M E N T E.
 LIC. JOSÉ FÉLIX ARANGO PÉREZ
 
 SECRETARIO DEL XVII AYUNTAMIENTO DE MEXICALI, BAJA CALIFORNIA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 12 DE MARZO DE 2004.
+
+ÚNICO.- La presente modificación entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
