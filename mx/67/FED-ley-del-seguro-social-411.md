@@ -4,7 +4,7 @@ identifier: "FED-ley-del-seguro-social-411"
 country: "mx"
 rank: "ley"
 publication_date: "1973-03-12"
-last_updated: "1973-03-12"
+last_updated: "1973-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=411&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "LSS"
 ---
 # LEY DEL SEGURO SOCIAL
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 1973 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL SEGURO SOCIAL
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL EL 27 DE MARZO DE 1973.</small>
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 12 de marzo de 1973.
 
@@ -1276,8 +1276,6 @@ La misma pensión le corresponderá al viudo que estuviese totalmente incapacita
 
 La pensión de viudez será igual al cincuenta por ciento de la pensión de vejez, de invalidez o de cesantía en edad avanzada, que el pensionado fallecido disfrutaba; o de la que hubiere correspondido al asegurado en el caso de invalidez.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 1973 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTICULO 154.
 
 No se tendrá derecho a la pensión de viudez que establece el artículo anterior, en los siguientes casos:
@@ -1286,7 +1284,9 @@ I.- Cuando la muerte del asegurado acaeciere antes de cumplir seis meses de matr
 
 II.- Cuando hubiese contraído matrimonio con el asegurado después de haber cumplido éste los cincuenta y cinco años de edad, a menos que a la fecha de la muerte haya transcurrido un año desde la celebración del enlace; y
 
-III.- Cuando al contraer matrimonio el asegurado reciba una pensión de invalidez, vejez o cesantía en edad avanzada, a menos de que a la fecha de la muerte haya transcurrido un año desde la celebración del matrimonio.
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 1973)</small>
+
+III.- Cuando al contraer matrimonio el asegurado recibía una pensión de invalidez, vejez o cesantía en edad avanzada, a menos de que a la fecha de la muerte haya transcurrido un año desde la celebración del matrimonio.
 
 Las limitaciones que establece este artículo no regirán cuando al morir el asegurado o pensionado la viuda compruebe haber tenido hijos con él.
 
@@ -1378,8 +1378,6 @@ El Instituto concederá ayuda asistencial al pensionado por invalidez, vejez o c
 
 #### SECCION OCTAVA. De la Cuantía de las Pensiones
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 1973 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTICULO 167.
 
 Las pensiones anuales de invalidez y de vejez se compondrán de una cuantía básica y de incrementos anuales computados de acuerdo con el número de cotizaciones semanales reconocidas al asegurado con posterioridad a las primeras quinientas semanas de cotización.
@@ -1438,7 +1436,9 @@ Los trabajadores incorporados al sistema de porcentaje a que se refiere al artí
 
 2) Si es superior a $50.00 y hasta $80.00, la cuantía básica será del cuarenta por ciento y los incrementos anuales del uno y medio por ciento de dicho salario.
 
-3) Cuando sea superior a $80.00 y hasta $170.00, la cuantía básica será del tienta (sic) y ocho por ciento y los incrementos anuales de 1.35% del referido salario.
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 1973)</small>
+
+3) Cuando sea superior a $80.00 y hasta $170.00, la cuantía básica será del treinta y ocho por ciento y los incrementos anuales de 1.35% del referido salario.
 
 4) De ser superior a $170.00, la cuantía básica será del treinta y cinco por ciento y los incrementos anuales del 1.25% del propio salario.
 
@@ -1514,9 +1514,9 @@ Para calcular la cuantía diaria de las pensiones a que se refiere este artícul
 
 Las pensiones otorgadas a la muerte del asegurado o pensionado por invalidez, vejez o cesantía, a sus beneficiarios, también serán revisables cada cinco años, incrementándose en la proporción que les corresponda con base en lo dispuesto en el artículo anterior y considerando, para determinar el porcentaje de incremento, la cuantía de la pensión que disfrutaba el asegurado al fallecer, o bien de la que le hubiere correspondido por invalidez.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE CAPÍTULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 1973 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 1973)</small>
 
-#### SECCION DECIMA. Compatibilidad e Incompatibilidad del Disfrute de las Pensiones
+#### SECCION DECIMA. De la Compatibilidad e Incompatibilidad del Disfrute de las Pensiones
 
 ###### ARTICULO 174.
 
@@ -1574,19 +1574,19 @@ Del Régimen Financiero
 
 Los recursos necesario para cubrir las prestaciones y los gastos administrativos del seguro de invalidez, de vejez de cesantía en edad avanzada y por muerte, así como para la constitución de las reservas técnicas, se obtendrán de las cuotas que están obligados a cubrir las (sic) patrones, los trabajadores y demás sujetos y de la contribución que corresponda al Estado.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 1973 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTICULO 177.
 
 A los patrones y a los trabajadores les corresponde cubrir, para los seguros a que se refiere este capítulo, las cuotas que señala la tabla siguiente:
 
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 1973)</small>
+
 Salario Diario
 
-Grupo Más de Promedio Hasta Cuotas Semanales
+Grupo Más de Promedio Hasta Cuotas Cuotas
 
-del del
+Semanales Semanales
 
-Patrón Trabajador
+del Patrón del Trabajador
 
 K $ -.- $ 26.40 $ 30.00 $ 6.93 $ 2.77
 
@@ -1818,11 +1818,11 @@ IV.- En caso de muerte de los asegurados, se pagará preferentemente a sus famil
 
 V.- Tendrán derecho a la atención médica en el caso de riesgos de trabajo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 1973 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 213.
 
-Los pequeños propietarios con más de veinte hectáreas de riego o su equivalente en otra clase de tierra, mencionados en la fracción V del artículo 13, al incorporarse voluntariamente al régimen obligatorio en los términos de los artículos anteriores, cotizarán en un grupo de salario superior al que corresponda a su trabajador de más alto salario y cubrirán íntegramente la cuota obreropatronal correspondiente.
+Los pequeños propietarios con más de veinte hectáreas de riego o su equivalente en otra clase de tierra, mencionados en la fracción IV del artículo 13, al incorporarse voluntariamente al régimen obligatorio en los términos de los artículos anteriores, cotizarán en un grupo de salario superior al que corresponda a su trabajador de más alto salario y cubrirán íntegramente la cuota obreropatronal correspondiente.
 
 ###### ARTICULO 214.
 
@@ -2098,8 +2098,6 @@ Los Consejeros así electos durarán en su cargo seis años, pudiendo ser reelec
 
 La designación será revocable, siempre que la pidan los miembros del sector que hubiese propuesto al Consejero de que se trate o por causas justificadas para ello. En todo caso, el acuerdo definitivo corresponde a la Asamblea General, la que resolverá lo conducente en los términos del reglamento, mediante procedimientos en que se oiga en defensa al Consejero cuya remoción se solicite.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 1973 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTICULO 253.
 
 El Consejo Técnico tendrá las atribuciones siguientes:
@@ -2128,7 +2126,9 @@ XI.- Autorizar la celebración de convenios relativos al pago de cuotas;
 
 XII.- Conceder a derechohabientes del régimen, en casos excepcionales y previo el estudio socioeconómico respectivo, el disfrute de prestaciones médicas y económicas previstas por esta Ley, cuando no esté plenamente cumplido algún requisito legal y el otorgamiento del beneficio sea evidentemente justo o equitativo;
 
-XIII.- Autorizar, en la forma y términos que establezca el Reglamento relativo, a los Consejo (sic) Consultivos Delegacionales para ventilar y, en su caso, resolver el recurso de inconformidad a que se refiere el artículo 274; y
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 1973)</small>
+
+XIII.- Autorizar, en la forma y términos que establezca el Reglamento relativo, a los Consejos Consultivos Delegacionales para ventilar y, en su caso, resolver el recurso de inconformidad a que se refiere el artículo 274; y
 
 XIV.- Las demás que señalen esta Ley y sus reglamentos.
 
@@ -2338,11 +2338,11 @@ Es inextinguible el derecho al otorgamiento de una pensión, ayuda asistencial o
 
 El Director General del Instituto, los consejeros, los funcionarios y empleados, así como las personas que a título de técnicos o de otro cualquiera sean llamados a colaborar, estarán sujetos a las responsabilidades civiles y penales en que pudieren incurrir como encargados de un servicio público.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 1973 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 1973)</small>
 
 ###### ARTICULO 282.
 
-Las personas que desempeñen algún cargo en el Instituto aún en comisión por tiempo limitado, quedarán sujetas a lo dispuesto por los artículos 210 a 224 del Código Penal para el Distrito y Territorios Federales, en sus respectivos casos, salvo las que se encuentren comprendidas en el artículo III (sic) de la Ley de Responsabilidades de los Funcionarios y Empleados de la Federación.
+Las personas que desempeñen algún cargo en el Instituto aún en comisión por tiempo limitado, quedarán sujetas a lo dispuesto por los artículos 210 a 224 del Código Penal para el Distrito y Territorios Federales, en sus respectivos casos, salvo las que se encuentren comprendidas en el artículo 111 de la Ley de Responsabilidades de los Funcionarios y Empleados de la Federación.
 
 ###### ARTICULO 283.
 
@@ -2351,8 +2351,6 @@ Los actos u omisiones que en perjuicio de sus trabajadores o del Instituto comet
 ###### ARTICULO 284.
 
 Los patrones que oculten datos o que en virtud de informaciones falsas, evadan el pago de las cuotas obreropatronales que les corresponda pagar, o las paguen en una cuantía inferior a la debida, incurrirán en la sanciones establecidas en las fracciones II, IV y IX del artículo 42 del Código Fiscal de la Federación. La sanción será impuesta por la Secretaría del Trabajo y Previsión Social, sin perjuicio de que se exija al infractor el cumplimiento de sus obligaciones para con el Instituto.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 1973 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 ## TRANSITORIOS
 
@@ -2410,7 +2408,9 @@ El Instituto dará cumplimiento a esta disposición en un plazo no mayor de sese
 
 ARTICULO DECIMOTERCERO.- Las pensiones en curso de pago al entrar en vigor esta Ley, serán revisadas para incrementar sus cuantías en los términos de los artículos 75, 76, 172 y 173 de la misma, en el mes de junio de 1973. Los aumentos hasta el máximo, del diez por ciento, se aplicarán a partir del día primero de julio del propio año. Posteriormente todas las pensiones derivadas de riesgos de trabajo y de invalidez, vejez, cesantía en edad avanzada y muerte, se revisarán en los meses de diciembre y junio de cada año, aplicándose los aumentos que correspondan a partir de los meses de enero y julio siguientes.
 
-Para los efectos del párrafo anterior, las pensiones de incapacidad permanente total, invalidez y vejez y cesantía en edad avanzada inferior a $545.00 mensuales al 31 de diciembre de 1972, se tendrán por revisadas a la fecha en que entre en vigor esta Ley y serán incrementadas a $600.00 mensuales.
+> <small>(F. DE E., D.O.F. 27 DE MARZO DE 1973)</small>
+
+Para los efectos del párrafo anterior, las pensiones de incapacidad permanente total, invalidez, vejez y cesantía en edad avanzada inferiores a $543.00 mensuales al 31 de diciembre de 1972, se tendrán por revisadas a la fecha en que entre en vigor esta Ley y serán incrementadas a $600.00 mensuales.
 
 Igual regla se aplicará a las pensiones de viudez, orfandad y ascendientes en la proporción que corresponda.
 
