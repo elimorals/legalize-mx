@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "1994-12-22"
+last_updated: "1996-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -630,6 +630,10 @@ I. El manejo de Fondos del Congreso, debiendo en su ejercicio:
 a) Hacer pago inmediato de los gastos ordinarios y necesarios sin previo acuerdo.
 
 b) Rendir cuentas al Congreso del Estado o a la Diputación Permanente en su caso, en la primera sesión de cada mes, del manejo de fondos habido para que resuelvan sobre la aprobación o no aprobación de la cuenta correspondiente, y a fin de cada mes deberá también enviar relación pormenorizada a cada Diputado del movimiento de fondos, dejando a disposición de aquel que lo solicite los comprobantes de los egresos correspondientes.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+c) Fijar y coordinar todo lo relacionado al precio de las formas valoradas que expida, distribuya y venda el Congreso, a los ayuntamientos, a través de la Contaduría Mayor de Hacienda, cuyo numerario se ingresará al presupuesto general del Poder Legislativo.
 
 II. Formar inventario pormenorizado de los muebles y enseres del Congreso y sus dependencias y sus dependencias y cuidar de la conservación de los mismos;
 
@@ -1341,7 +1345,13 @@ XVI. Verificar en las entidades que, quienes manejen fondos y valores públicos,
 
 XVII. Verificar que al realizase la adquisición o enajenación de inmuebles, toda erogación esté debidamente autorizada, comprobada y justificada;
 
-XVIII. Supervisar la impresión, custodia y distribución de las formas valoradas y recibos para cobro de ingresos, tanto de la Hacienda Pública Estatal como de los ayuntamientos y cuidar que las formas valoradas y recibos no utilizados por los municipios, durante el ejercicio fiscal correspondiente, sean concentrados en la Contaduría Mayor de Hacienda, para su cancelación o revalidación;
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+
+XVIII. Los Ayuntamientos de la entidad deberán adquirir las formas valoradas y recibos para cobros de ingresos que expida, distribuya y controle el Congreso del Estado, a través de la Contaduría Mayor de Hacienda.
+
+Para efectos del párrafo anterior, vigilará la impresión, custodia y distribución de las formas valoradas y recibos para cobro de ingresos, tanto de la hacienda pública estatal como de los Ayuntamientos y cuidar que las formas valoradas y recibos no utilizados por los Municipios, durante el ejercicio fiscal correspondiente, sean concentrados en la Contaduría Mayor de Hacienda, para su cancelación o revalidación.
+
+Estas formas valoradas y recibos contendrán los mecanismos de seguridad permanente que se implementen para su control;
 
 XIX. Elaborar y rendir a la Comisión de Inspección, los informes preliminares sobre las cuentas públicas, mismos que, de manera enunciativa, deberán contener un análisis en base a lo que pa4ra ello establezca el Reglamento Interior de la Contaduría Mayor de Hacienda.
 
@@ -2000,3 +2010,7 @@ Artículo Tercero. La reunión prevista en el artículo 4º. de esta ley, por es
 Asimismo la reunión de sesión prevista en la fracción VIII del artículo 6º. de esta ley, para la instalación de la LIV Legislatura, se verificará a las diez horas del 15 de marzo de 1995.
 
 Artículo Cuarto. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 28 DE DICIEMBRE DE 1996
+
+Unico. El presente decreto entrará en vigor el día 1 de enero de 1997, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
