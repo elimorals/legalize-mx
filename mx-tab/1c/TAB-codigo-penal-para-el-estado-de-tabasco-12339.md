@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "1998-02-21"
+last_updated: "2000-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO PENAL PARA EL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 2000.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -2519,7 +2519,7 @@ Igual sanción se aplicará al juez que instaure una causa penal en contra de un
 
 ### CAPITULO UNICO. DELITOS CONTRA EL EQUILIBRIO ECOLOGICO Y LA PROTECCION DEL AMBIENTE
 
-> <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 273.
 
@@ -2755,9 +2755,47 @@ Al que ultraje las insignias del Estado o de un municipio, o de cualesquiera de 
 
 ###### Artículo 304.
 
-Al que realice cualquiera de las conductas previstas como delictuosas en la legislación federal sobre equilibrio ecológico y protección al ambiente, que afecte al Estado de Tabasco y corresponda a la jurisdicción de éste, se le aplicarán de tres meses a seis años de prisión y multa de cien a mil días multa.
+Se impondrá pena de tres meses a seis años de prisión y multa de cien a veinte mil días multa a quien:
 
-Si ocurren las calificativas previstas en aquella legislación, las sanciones se podrán incrementar hasta en una mitad.
+I.- Sin autorización de la autoridad correspondiente o contraviniendo los términos en que haya sido concedida, realice en áreas de jurisdicción estatal o municipal, cualquier actividad con materiales o residuos peligrosos que ocasionen o puedan ocasionar daños a la salud pública, a los recursos naturales, a la fauna, la flora o los ecosistemas;
+
+II.- Violando lo establecido en las disposiciones legales aplicables emita, despida, descargue en la atmósfera; lo autorice u ordene, gases, humos o polvos que ocasionen daños a la salud pública, a los recursos naturales, la fauna, la flora o los ecosistemas, siempre que dichas emisiones provengan de fuentes fijas de jurisdicción estatal, conforme a lo previsto en la Ley de Protección Ambiental del Estado de Tabasco;
+
+III.- Contraviniendo las disposiciones legales aplicables genere emisiones de ruido, vibraciones, energía térmica o lumínica, provenientes de fuentes emisoras de jurisdicción estatal o municipal, conforme al ordenamiento señalado en la fracción anterior, que ocasionen daños a la salud pública, a los recursos naturales, a la flora, a la fauna o a los ecosistemas;
+
+IV.- Sin la autorización que en su caso se requiere o en contravención a las disposiciones legales aplicables descargue, deposite o infiltre; los autorice u ordene, aguas residuales, líquidos, químicos o bioquímicos, desechos o contaminantes en los suelos, depósitos y corrientes de agua de jurisdicción estatal o federal concesionadas al Estado o a los Municipios, que ocasionen o puedan ocasionar daños a la salud pública, a los recursos naturales, a la flora, a la fauna, cauces y vasos, a la calidad del agua o a los ecosistemas;
+
+Cuando se trate de aguas para ser entregadas en bloque a centros de población la pena se elevará hasta en una mitad de la señalada para este delito;
+
+V.- Contamine o destruya plantaciones, cosechas y cualquier tipo de tierra agrícola o forestal, deseque o rellene humedales, manglares, lagunas, esteros o pantanos de jurisdicción estatal;
+
+VI.- Provoque incendios en bosques, selvas, vegetación natural o agrícola, que dañe recursos naturales, la flora o la fauna silvestre o los ecosistemas de jurisdicción estatal;
+
+VII.- A quien sin la autorización de la autoridad correspondiente o en contravención de las disposiciones legales aplicables realice quemas para utilizar terrenos con fines agropecuarios o teniéndola no tome las medidas necesarias para evitar su propagación a terrenos aledaños;
+
+VIII.- A quien realice la extracción de material pétreo en áreas de jurisdicción estatal o municipal sin autorización de la autoridad correspondiente que afecte o modifique las condiciones naturales del entorno o ponga en riesgo la salud de la población, o teniéndola se exceda o contravenga los términos de la autorización; y
+
+IX.- A pesar de haber sido sancionado en dos veces por la autoridad ecológica que legalmente conozca del asunto, persista en la misma conducta dañosa al ambiente.
+
+Tratándose de los delitos previstos en este Título, la multa o en su caso el trabajo a favor de la comunidad, deberán aplicarse a la protección o restauración del ambiente.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+Artículo 304 bis.- Además de las penas previstas en el artículo anterior, el Juez podrá imponer alguna o algunas de las sanciones siguientes:
+
+I.- La realización de las acciones necesarias para establecer las condiciones de los elementos naturales que constituyan los ecosistemas afectados, al estado en que se encontraban antes de realizarse el delito;
+
+II.- La suspensión, modificación o demolición de las construcciones, obras o actividades según corresponda, que hubieren dado lugar al delito ambiental respectivo;
+
+III.- La reincorporación, cuando fuere posible, de los elementos naturales, ejemplares o especies de flora y fauna silvestre, a los hábitats de que fueron sustraídos; y
+
+IV.- El retorno de los materiales o residuos a su lugar de origen, o al lugar en que se les dé el debido tratamiento para ser inocuos.
+
+Cuando el delito sea imputable a una persona jurídica colectiva, el Juez podrá imponer además, la intervención, remoción, la prohibición de realizar determinadas operaciones o la extinción.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+
+Artículo 304 bis - A.- Al servidor público que autorice o permita obras o actividades que contravengan las disposiciones legales aplicables y que ocasionen o puedan ocasionar daños al ambiente, se les aplicará de dos a ocho años de prisión y de cien a veinte mil días multa.
 
 ### CAPITULO II. NEGACION DE SERVICIO MEDICO
 
@@ -3334,3 +3372,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto las disposiciones que se opongan a lo ordenado en el presente Decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2000.
+
+PRIMERO.- En cumplimiento a lo dispuesto por el artículo 10 de la Ley Orgánica del Poder Ejecutivo del Estado, publíquese el presente Decreto en el Periódico Oficial del Estado para que surta sus efectos a los quince días de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
