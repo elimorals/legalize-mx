@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1971-04-28"
+last_updated: "1971-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1971.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -221,11 +221,11 @@ IV.- Mandar a hacer cortes de cuentas con los acreedores del Estado, a fin de de
 
 V.- Intervenir ni inmiscuirse en las funciones propias de otro poder, usurpando facultades Constitucionales o entorpeciendo la actuación legítima de una autoridad, funcionario o empleado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1971)</small>
 
 ###### Art. 31.
 
-Cuando desaparezcan los Poderes Ejecutivo y Legislativo del Estado, o bien desaparezcan los tres Poderes del mismo, entrará a funcionar como Gobernador Provisional el último Presidente del H. Tribunal Superior de Justicia. En su defecto, el último Presidente del Congreso desaparecido. A falta de los anteriores, lo ocupará sucesivamnte (sic), el Presidente Municipal que habiendo permanecido dentro del orden legal, represente a cada uno de los Municipio (sic) del Estado en el orden siguiente: Centro, Centla, Comalcalco, Paraíso, Macuspana, Huimanguillo, Teapa, Cárdenas, Tenosique, Cunduacán, Tacotalpa, Jalapa, Emiliano Zapata, Jonuta, Jalpa de Méndez, Balancán y Nacajuca.
+Cuando desaparezcan los Poderes Ejecutivo y Legislativo del Estado, o bien desaparezcan los tres Poderes del mismo, entrará a funcionar como Gobernador Provisional el último Presidente del H. Tribunal Superior de Justicia. En su defecto, el último Presidente del Congreso desaparecido. A falta de los anteriores, lo ocupará sucesivamente el Presidente Municipal que habiendo permanecido dentro del orden legal, represente a cada uno de los Municipios del Estado en el orden siguiente: Centro, Centla, Comalcalco, Paraíso, Macuspana, Huimanguillo, Teapa, Cárdenas, Tenosique, Cunduacán, Tacotalpa, Jalapa, Emiliano Zapata, Jonuta, Jalpa, Balancán y Nacajuca.
 
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 1946)</small>
 
@@ -321,11 +321,11 @@ Los Diputados gozan de fuero desde el día en que hubieren sido declarados elect
 
 ### CAPITULO II.. INSTALACION Y PERIODOS DE SESIONES DEL CONGRESO
 
-(REUBICADO, P.O. 4 DE MAYO DE 1946)
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1971)</small>
 
 ###### Art. 41.
 
-El Congreso se renovará en su totalidad cada tres años, comenzando a funcionar el 16 de septiembre posterior a las elecciones.
+El Congreso se renovará en su totalidad cada tres años, comenzando a funcionar el 1/o. de enero posterior a las elecciones.
 
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 1946)</small>
 
@@ -369,11 +369,11 @@ El Diputado que falle diez días consecutivos sin causa justificada no tendrá d
 
 Los Diputados que no concurran a una sesión sin causa justificada o sin previo permiso del Presidente de la Cámara, no tendrán derecho a la dieta correspondiente al día en que falten.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1960)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1971)</small>
 
 ###### Art. 49.
 
-El Congreso tendrá cada año dos períodos de sesiones ordinarias: el primero del 16 de septiembre al 31 de diciembre; y el segundo, del 27 de febrero al 30 de abril del año siguiente. Estos períodos serán prorrogables por el tiempo que, según las necesidades del servicio público, acuerde el Congreso.
+El Congreso del Estado tendrá cada año dos períodos ordinarios de sesiones: el primero, del 1/o. de enero al 30 de abril; y el segundo, del 1/o. de septiembre al 15 de diciembre del mismo año. Estos períodos serán prorrogables por el tiempo que, según las necesidades del servicio público, acuerde el Congreso.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1971)</small>
 
@@ -383,19 +383,19 @@ Cada año el Gobernador del Estado concurrirá ante el Congreso a rendir un info
 
 El Presidente del Congreso dará respuesta a dicho Informe.
 
-(REUBICADO, P.O. 4 DE MAYO DE 1946)
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1971)</small>
 
 ###### Art. 51.
 
-Durante el primer período se ocupará de preferencia en estudiar, discutir y votar los Presupuestos de ingresos y egresos del Estado y de los Municipios, que serán presentados: los primeros por el Ejecutivo y los segundos por los Ayuntamientos, pero por conducto del mismo Ejecutivo, quien a su vez presentará todas las observaciones que tuviere que hacerles.
+Durante el primer período de sesiones el Congreso se ocupará, de preferencia, en examinar y calificar las cuentas de recaudación y aplicación de los fondos públicos correspondientes al año próximo anterior, las cuales serán presentadas por el Ejecutivo en el mes de enero.
 
-(REUBICADO, P.O. 4 DE MAYO DE 1946)
+Loa Ayuntamientos, por conducto del Ejecutivo, presentarán en el mismo término sus respectivas cuentas.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1971)</small>
 
 ###### Art. 52.
 
-Durante el segundo período de sesiones el Congreso se ocupará, con la misma preferencia, en examinar y calificar las cuentas de recaudación y aplicación de los fondos públicos correspondientes al año próximo anterior, las cuales serán presentadas por el Ejecutivo, en los primeros diez días de las sesiones.
-
-Los Ayuntamientos por conducto del Ejecutivo presentarán en el mismo término sus respectivas cuentas.
+Durante el segundo período se ocuparán con la misma preferencia en estudiar, discutir y votar las leyes de Ingresos y los Presupuestos de Egresos del Estado y de los Municipios, que serán presentados: los primeros, por el Ejecutivo y los segundos, por los Ayuntamientos, pero por conducto del mismo Ejecutivo, quien a su vez presentará todas las observaciones que tuviere que hacerles.
 
 (REUBICADO, P.O. 4 DE MAYO DE 1946)
 
@@ -573,7 +573,9 @@ Q.- Caminos y demás vías de comunicación, para que siempre se mantengan exped
 
 III.- Iniciar ante el Congreso de la Unión las leyes y decretos que sean de la competencia del mismo, así como su derogación, y secundar cuando lo estime conveniente las iniciativas hechas por las Legislaturas de otros Estados.
 
-IV.- Erigirse en Colegio Electoral para hacer el escrutinio y la declaración respecto a la elección de Gobernador del Estado y Senadores al Congreso de la Unión.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1971)</small>
+
+IV.- Erigirse en Colegio Electoral para ejercer las atribuciones que la Ley le señala en cuanto a la declaración que corresponda respecto a la elección de Gobernador del Estado y para dar cumplimiento a lo que dispone el artículo 56 de la Constitución Política Federal, en cuanto a las elecciones de Senadores al Congreso de la Unión.
 
 V.- Decidir sobre las elecciones de Ayuntamiento, cuando se reclame contra ellas.
 
@@ -611,7 +613,7 @@ XXI.- Convocar a elecciones de Diputados cuando ocurra falta absoluta del propie
 
 XXII.- Convocar a elecciones de Ayuntamiento cuando fuere necesario.
 
-XXIII.- Erigirse en Colegio Electoral para ejercer las atribuciones que la Ley señala, respecto de la elección de Gobernador del Estado;
+XXIII.- (DEROGADA, P.O. 16 DE JUNIO DE 1971)
 
 XXIV.- Dirimir los conflictos que se susciten entre el Tribunal Superior de Justicia y el Ejecutivo del Estado, siempre que tales conflictos no fueren de la competencia de la Suprema Corte de Justicia de la Nación.
 
@@ -869,7 +871,9 @@ XI.- Mandar que se publiquen mensualmente los Cortes de Caja de las Oficinas rec
 
 XII.- Hacer uso del derecho de iniciar leyes o decretos que le concede el artículo 60 de la presente Constitución.
 
-XIII.- Presentar en el primer período de sesiones ordinarias del Congreso los presupuestos de Ingresos y de Egresos que han de regir en el año siguiente.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1971)</small>
+
+XIII.- Presentar en el segundo período ordinadio de sesiones ordinarias del Congreso la iniciativa de Ley de Ingresos y del Presupuesto de Egresos que habrán de regir en el año siguiente.
 
 XIV.- Expedir los títulos profesionales que conforme a las leyes le correspondan.
 
@@ -913,7 +917,9 @@ V.- Permitir o tolerar que se establezcan en el Estado loterías; con excepción
 
 Tampoco puede el Gobernador permitir que se establezcan en el Estado ruletas, rifas y demás juegos de azar.
 
-VI.- Pertenecer o ayudar a partidos políticos de propaganda electoral en el Estado, ni intervenir en las elecciones para que éstas recaigan en determinadas personas, ya lo haga por sí o por medio de otras autoridades o agentes o bien por medio de alguno de los funcionarios del Gobierno.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1971)</small>
+
+VI.- Ayudar a partidos políticos de propaganda electoral en el Estado, ni intervenir en las elecciones para que éstas recaigan en determinadas personas, ya lo haga por sí o por medio de otras autoridades o agentes o bien por medio de alguno de los funcionarios de Gobierno.
 
 VII.- Impedir o retardar las elecciones populares o la instalación de la Legislatura.
 
@@ -1219,9 +1225,13 @@ III.- El cargo de Presidente Municipal nunca será gratuito; los demás Regidore
 
 IV.- Los Municipios administrarán libremente su hacienda; la cual, se formará de las contribuciones que señale la Legislatura del Estado y que siempre serán suficientes para atender sus necesidades.
 
-V.- Los Ayuntamientos someterán a la aprobación de la Legislatura, por conducto del Ejecutivo, dentro de los primeros diez días del primer período de sesiones, sus presupuestos de ingresos y de egresos.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1971)</small>
 
-VI.- Los Ayuntamientos presentarán por conducto del Ejecutivo, a la Legislatura, en el segundo período de sesiones de ésta, sus cuentas anuales, para su revisión y aprobación.
+V.- Los Ayuntamientos someterán a la aprobación de la Legislatura, por conducto del Ejecutivo, dentro de los primeros días del segundo período de sesiones, sus iniciativas de Leyes de Ingresos y de sus Presupuestos de Egresos.
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1971)</small>
+
+VI.- Los Ayuntamientos presentarán por conducto del Ejecutivo, a la Legislatura, en el primer período de sesiones de ésta, sus cuentas anuales, para su revisión y aprobación.
 
 VII.- No podrán contratar empréstitos, ni celebrar contratos cuya duración exceda de un año, sin autorización expresa del Poder Legislativo, ni cobrar contribuciones que correspondan al año siguiente de su período.
 
@@ -1714,3 +1724,25 @@ P.O. 28 DE ABRIL DE 1971.
 Artículo Primero.- El Gobernador del Estado, cuyo sexenio comenzó el primero de enero del corriente año, rendirá su primer informe precisamente el día 20 de noviembre del año en curso.
 
 Artículo Segundo.- Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JUNIO DE 1971.
+
+###### ARTICULO PRIMERO.
+
+Los Diputados que integrarán el XLVII Congreso tomarán posesión de su cargo, el 16 de septiembre del corriente año y durarán en sus funciones hasta el 31 de diciembre de 1973. A partir del XLVIII Congreso, los períodos serán de tres años y se iniciarán el 1o. de enero de 1974.
+
+###### ARTICULO SEGUNDO.
+
+El período de sesiones del Congreso que se iniciará el 16 de septiembre próximo, terminará el 15 de diciembre de este año.
+
+###### ARTICULO TERCERO.
+
+En el período de sesiones a que se refiere el artículo segundo transitorio de este Decreto, el Congreso se ocupará, de preferencia, en examinar y calificar las cuentas de recaudación y aplicación de los fondos públicos correspondientes al año próximo pasado, las cuales serán presentadas por el Ejecutivo en los primeros diez días de abierto el período.
+
+###### ARTICULO CUARTO.
+
+Durante el período de sesiones citado en el artículo segundo transitorio de este Decreto, el Congreso se ocupará de preferencia de estudiar, discutir y votar la Ley de Ingresos y los Presupuestos de Egresos del Estado y de los Municipios, que serán presentados: los primeros, por el Ejecutivo y los segundos, por los Ayuntamientos, pero por conducto del mismo Ejecutivo, quien a su vez presentará todas las observaciones que tuviere que hacerles. Posteriormente esta obligación será atendida por el Congreso en el período ordinario de sesiones que en 1972 se iniciará el primero de septiembre de cada año.
+
+###### ARTICULO QUINTO.
+
+Este Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Gobierno del Estado.
