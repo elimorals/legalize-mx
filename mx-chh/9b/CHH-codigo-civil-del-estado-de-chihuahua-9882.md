@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "1994-11-30"
+last_updated: "1995-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1995.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -4889,7 +4889,9 @@ La omisión de esta formalidad por el testador, sólo afecta a la validez de las
 
 1463.- En cualquier tiempo el testador tendrá derecho de retirar del archivo, personalmente o por medio de mandatario con poder solemne y especial, el testamento depositado; haciéndose constar la entrega en una acta que firmarán el interesado y el encargado de la oficina.
 
-1464.- El Juez ante quien se promueva un juicio sucesorio pedirá informe al encargado del Registro Público del lugar, acerca de si en su oficina se ha depositado algún testamento ológrafo del autor de la sucesión, para que en caso de que así sea, se le remita el testamento.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1995)</small>
+
+1464.- Cuando se otorgue un testamento ológrafo, el Encargado del Registro Público de la Propiedad, dentro de los tres días hábiles siguientes dará aviso al Departamento del Registro Público de la Propiedad y del Notariado, expresando la fecha, nombre, apellidos del testador y sus generales.
 
 1465.- El que guarde en su poder el duplicado de un testamento, o cualquiera que tenga noticia de que el autor de una sucesión ha depositado algún testamento ológrafo, lo comunicará al Juez competente, quien pedirá al encargado de la oficina del Registro en que se encuentre el testamento, que se lo remita.
 
@@ -9402,3 +9404,11 @@ P.O. 30 DE NOVIEMBRE DE 1994.
 PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 12 DE AGOSTO DE 1995.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+###### ARTICULO SEPTIMO.
+
+Las reformas a los Códigos Civil y de Procedimientos Civiles, entrarán en vigor al día siguiente de la publicación del presente decreto en el Periódico Oficial del Estado.
