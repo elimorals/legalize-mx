@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-civil-del-estado-de-nuevo-leon-7913"
 country: "mx"
 rank: "ley"
 publication_date: "1948-06-26"
-last_updated: "1981-02-13"
+last_updated: "1984-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 1984.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 26 de junio de 1948.
 
@@ -477,9 +477,11 @@ Los fondos, fideicomisos, juntas, comisiones y empresas u organismos descentrali
 
 ### CAPITULO SEGUNDO. De las Huelgas
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1984)</small>
+
 ###### Art. 59o.
 
-Huelga es la suspensión temporal del trabajo como resultado de una coalición de trabajadores, decretada en la forma y términos que esta Ley establece.
+Huelga es la suspensión temporal de un trabajo llevada a cabo por una coalición de trabajadores, efectuada en la forma y términos que esta Ley establece.
 
 ###### Art. 60o.
 
@@ -858,3 +860,7 @@ P. O. 13 DE FEBRERO DE 1981.
 ###### ARTICULO CUARTO
 
 - Se derogan las disposiciones y leyes que se opongan al presente Decreto.
+
+P.O. 2 DE NOVIEMBRE DE 1984.
+
+UNICO:- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
