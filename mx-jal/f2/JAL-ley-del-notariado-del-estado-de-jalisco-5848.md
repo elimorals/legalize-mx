@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-5848"
 country: "mx"
 rank: "ley"
 publication_date: "1991-10-08"
-last_updated: "2003-10-30"
+last_updated: "2003-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 2003 .
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003 .
 
 Ley publicada en la Sección Segunda del Periódico del Estado de Jalisco, el martes 8 de octubre de 1991.
 
@@ -1218,6 +1218,10 @@ Todos los avisos deberán contener, como mínimo, los siguientes datos: el Tomo,
 ###### Artículo 104.
 
 El Notario deberá dar aviso al Director del Archivo de Instrumentos Públicos, tanto de la actuación notarial fuera de Protocolo como de la protocolización respectiva, en la misma forma que se prevé‚ para las escrituras.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Artículo 104 bis. Cuando el notario autorice la constitución de Fundaciones o Asociaciones Civiles dedicadas a la asistencia social, además de los que se refieren en los artículos anteriores, deberá dar aviso al Instituto Jalisciense de Asistencia Social, remitiendo copias del acta constitutiva, dentro de un plazo no mayor a quince días hábiles de la fecha de su constitución.
 
 ###### Artículo 105.
 
@@ -2592,3 +2596,7 @@ DÉCIMO PRIMERO.- La función del Consejo de Notarios por el periodo de tres añ
 P.O. 30 DE OCTUBRE DE 2003.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 30 DE DICIEMBRE DE 2003.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
