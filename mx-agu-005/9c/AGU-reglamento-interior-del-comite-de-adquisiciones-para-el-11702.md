@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-del-comite-de-adquisiciones-para-el-11702"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-09-28"
-last_updated: "1997-09-28"
+last_updated: "1999-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO INTERIOR DEL COMITE DE ADQUISICIONES PARA EL MUNICIPIO DE JESUS MARIA, AGS.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE MARZO DE 1999.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 28 de septiembre de 1997.
 
@@ -37,9 +37,11 @@ REGLAMENTO INTERIOR DEL COMITE DE ADQUISICIONES PARA EL MUNICIPIO DE JESUS MARIA
 
 ### CAPITULO UNICO. Del Comité de Adquisiciones
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 1999)</small>
+
 ###### ARTICULO 1o.
 
-El Comité de Adquisiciones del Ayuntamiento del Municipio de Jesús María regirá todas y cada una de las adquisiciones que realice la autoridad municipal sobre bienes muebles, inmuebles y servicios cuando el monto de éstos exceda en doscientas cincuenta veces el salario mínimo general vigente en el Estado de Aguascalientes, con la finalidad de eficientar y dar transparencia en el gasto público.
+El Comité de Adquisiciones del Ayuntamiento del Ayuntamiento del Municipio de Jesús María, regirá toda (sic) y cada una de las adquisiciones que realice la autoridad municipal sobre bienes muebles, inmuebles y servicios cuando el monto de éstos exceda de mil seiscientas veces el salario mínimo general vigente en el Estado de Aguascalientes, con la finalidad de eficientar y dar transparencia en el gasto público.
 
 ###### ARTICULO 2o.
 
@@ -286,3 +288,9 @@ lng. Julio César Macías Pérez.
 SINDICO:
 
 Profr. Antonio Olvera Morales
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE MARZO DE 1999.
+
+UNICO.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
