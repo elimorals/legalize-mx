@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ordenamiento-territorial-y-asentamientos-humanos-del-179
 country: "mx"
 rank: "ley"
 publication_date: "2000-08-23"
-last_updated: "2000-08-23"
+last_updated: "2000-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y ASENTAMIENTOS HUMANOS DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 23 de agosto de 2000.
 
@@ -3185,15 +3185,17 @@ PRIMERO.- La presente Ley entrará en vigor el día siguiente de su publicación
 
 SEGUNDO.- La presente Ley abroga la Ley de Desarrollo Urbano del Estado de Morelos, publicada en el Periódico Oficial de fecha 31 de Enero de 1980 y la Ley de Fraccionamientos Condominios y Conjuntos Habitacionales del Estado de Morelos, publicada en el Periódico Oficial de fecha 23 de marzo de 1979.
 
-TERCERO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2000)</small>
+
+TERCERO.- Los asuntos que se estén tramitando actualmente y aquellos que se presenten hasta antes de la expedición de los reglamentos a que se refiere esta Ley, se atenderán conforme a lo establecido en la reglamentación aplicable de la Ley de Desarrollo Urbano del Estado de Morelos, publicada el 31 de Enero de 1980 y de la Ley de Fraccionamientos, Condominios y Conjuntos Habitacionales del Estado de Morelos, publicada el 23 de Marzo de 1979.
 
 CUARTO.- A partir de la entrada en vigor de la presente Ley, el Gobierno del Estado y los Municipios contarán con un plazo máximo de seis meses para expedir los reglamentos correspondientes.
 
 QUINTO.- Hasta en tanto no se expida la reglamentación correspondiente, quedarán en suspenso las disposiciones relativas al dictamen de Impacto Urbano y Ambiental que debe emitir la Secretaría de Desarrollo Urbano y Obras Públicas, que puedan producir un Impacto significativo en el medio ambiente o en la Estructura Urbana de los Centros de Población.
 
-SEXTO.- Mientras se formulan nuevos programas de Desarrollo Urbano en los términos de lo dispuesto en esta Ley, se aplicarán las actuales y las autoridades competentes en la materia resolverán lo que corresponda conforme a las leyes vigentes sin contrariar lo prevenido por la Ley General de Asentamientos Humanos. Y este ordenamiento al efecto el Programa Estatal de Desarrollo Urbano vigente, establecido conforme a la anterior Ley, hoy abrogada, deberá seguir para su cancelación el procedimientos establecido en el artículo 36 de la presente Ley y respecto de los demás programas vigentes, se seguirá el mismo procedimiento que establece esta Ley, conforme lo dispone el Artículo 42 de este ordenamiento.
+SEXTO.- (DEROGADO, P.O. 29 DE SEPTIEMBRE DE 2000)
 
-SÉPTIMO.- Las disposiciones contenidas en los artículos 19 y 105 de la presente Ley, iniciarán su vigencia el primer día del mes de octubre del año dos mil.
+SÉPTIMO.- (DEROGADO, P.O. 29 DE SEPTIEMBRE DE 2000)
 
 Salón de Sesiones del H. Congreso del Estado a los ocho días del mes de agosto del dos mil.
 
@@ -3236,3 +3238,15 @@ SECRETARIO DE DESARROLLO URBANO Y OBRAS PÚBLICAS
 ARQ. FERNANDO URBAN RUÍZ
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE SEPTIEMBRE DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
