@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-comisiones-del-instituto-electoral-del-estado-400
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-19"
-last_updated: "2001-06-01"
+last_updated: "2004-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO DE COMISIONES DEL INSTITUTO ELECTORAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2004.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Puebla, el lunes 19 de marzo de 2001.
 
@@ -47,11 +47,17 @@ Este Acuerdo fue aprobado por unanimidad de votos de los integrantes del Consejo
 
 REGLAMENTO DE COMISIONES DEL INSTITUTO ELECTORAL DEL ESTADO
 
-### CAPÍTULO II (SIC). DE LAS COMISIONES PERMANENTES DEL CONSEJO GENERAL
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2004)</small>
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+(REUBICADO, P.O. 11 DE JUNIO DE 2004)
 
 ###### Artículo 1.
 
 Las disposiciones de este Reglamento regulan la integración, funcionamiento y objetivos de las Comisiones que sean integradas por el Consejo General, y por los Consejos Distritales y Municipales del Instituto Electoral del Estado.
+
+(REUBICADO, P.O. 11 DE JUNIO DE 2004)
 
 ###### Artículo 2.
 
@@ -73,29 +79,39 @@ VII.- Consejero Presidente: El Consejero Presidente del Órgano del Instituto El
 
 VIII.- Consejero: El Consejero Electoral del Órgano del Instituto Electoral del Estado que corresponda;
 
-IX.- Secretario General: El Secretario General del Instituto Electoral del Estado;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
 
-X.- Director General: El Director General del Instituto Electoral del Estado;
+IX.- Comisión Revisora: La Comisión Revisora de la aplicación de los regímenes de financiamiento de los partidos políticos y/o Comisión Revisora de la aplicación del financiamiento a los partidos políticos;
 
-XI.- Director de Área: El titular de cada una de las Direcciones del Instituto Electoral del Estado;
+X.- Secretario General: El Secretario General del Instituto Electoral del Estado;
 
-XII.- Estatuto: El Estatuto del Servicio Electoral Profesional;
+XI.- Director General: El Director General del Instituto Electoral del Estado;
 
-XIII.- Presidente: El Presidente de la Comisión correspondiente; y
+XII.- Director de Área: El titular de cada una de las Direcciones del Instituto Electoral del Estado;
 
-XIV.- Secretario: El Secretario de la Comisión correspondiente.
+XIII.- Estatuto: El Estatuto del Servicio Electoral Profesional;
+
+XIV.- Presidente: El Presidente de la Comisión correspondiente; y
+
+XV.- Secretario: El Secretario de la Comisión correspondiente.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE JUNIO DE 2004)</small>
 
 ###### Artículo 3.
 
-Para los efectos del presente Reglamento, se entenderá por Comisión al Órgano del Consejo que tiene por objeto apoyarlo en el desempeño de sus atribuciones.
+Para los efectos del presente Reglamento, se entenderá por Comisión al órgano del Consejo, Consejo Distrital o Consejo Municipal que tiene por objeto apoyarlo en el desempeño de sus atribuciones.
+
+(REUBICADO, P.O. 11 DE JUNIO DE 2004)
 
 ###### Artículo 4.
 
 La interpretación de las disposiciones de este Reglamento se hará conforme a los criterios gramatical, sistemático y funcional, observando lo dispuesto por el último párrafo del artículo 14 de la Constitución Federal.
 
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE JUNIO DE 2004)</small>
+
 ###### Artículo 5.
 
-El Consejo integrará, en el ejercicio de sus atribuciones, las Comisiones Permanentes y las Comisiones Especiales que para el efecto requiera.
+El Consejo, el Consejo Distrital y el Consejo Municipal integrarán, en el ejercicio de sus atribuciones, las Comisiones Permanentes y las Comisiones Especiales que para el efecto requieran.
 
 Serán Comisiones Permanentes las siguientes:
 
@@ -105,29 +121,41 @@ II.- Capacitación Electoral y Educación Cívica;
 
 III.- Prerrogativas, Partidos Políticos, Medios de Comunicación y Topes de Gastos de Campaña;
 
-IV.- Administrativa y del Servicio Electoral Profesional;
+IV.- Administrativa;
 
-V.- La Comisión Revisora de la aplicación del financiamiento público de los partidos políticos, y
+V.- Revisora;
 
-VI.- Las que por su naturaleza así lo requieran.
+VI.- Del Servicio Electoral Profesional; y
 
-Serán Comisiones Especiales aquéllas que integre el propio Consejo para el cumplimiento de un fin específico, las que funcionarán por un tiempo determinado.
+VI (SIC).- Las que por su naturaleza así lo requieran.
+
+Serán Comisiones Especiales aquéllas que integre el propio Consejo, el consejo Distrital o el Consejo Municipal para el cumplimiento de un fin específico, las que funcionarán por un tiempo determinado.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE JUNIO DE 2004)</small>
 
 ###### Artículo 6.
 
-El Director General y los Directores de Área, dentro del ámbito de su competencia, deberán prestar a las Comisiones, ya sean Permanentes o Especiales, el apoyo que requieran para el ejercicio de sus atribuciones.
+El Secretario General, el Director General, así como los Directores y Titulares de Área, dentro del ámbito de su competencia, deberán prestar a las Comisiones, ya sean Permanentes o Especiales, el apoyo que requieran para el ejercicio de sus atribuciones, de manera inmediata, de acuerdo a la naturaleza de la petición.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE JUNIO DE 2004)</small>
 
 ###### Artículo 7.
 
-Para el cumplimiento de las atribuciones de las Comisiones, el Consejero Presidente del Consejo General, la Junta Ejecutiva, el Director General, el Secretario General, las Direcciones y los Consejos Distritales y Municipales, les proporcionarán la información que les sea solicitada en los términos del Código, del Estatuto, del Reglamento Interior y demás disposiciones aprobadas por el Consejo.
+Para el cumplimiento de las atribuciones de las Comisiones, el Consejero Presidente del Consejo General, la Junta Ejecutiva, las Unidades Administrativas y Técnicas, así como los Consejos Distritales y Municipales, les proporcionarán la información que les sea solicitada en los términos del Código, del Estatuto, del Reglamento Interior y demás disposiciones aprobadas por el Consejo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 11 DE JUNIO DE 2004)</small>
 
 ###### Artículo 8.
 
-Las Comisiones, por medio de su Presidente, podrán invitar a sus sesiones a los representantes de los partidos políticos y del Poder Legislativo aun cuando no estuvieren integrados en la Comisión.
+Las Comisiones, por medio de su Presidente, podrán invitar a sus sesiones a los representantes de los partidos políticos y del Poder Legislativo aún cuando no estuvieren integrados a las mismas.
+
+(REUBICADO, P.O. 11 DE JUNIO DE 2004)
 
 ###### Artículo 9.
 
 En los acuerdos de integración o creación de las Comisiones, el Consejo podrá disponer de modalidades diversas a las establecidas en este Reglamento de conformidad con lo señalado en el Código.
+
+(REUBICADO, P.O. 11 DE JUNIO DE 2004)
 
 ###### Artículo 10.
 
@@ -135,17 +163,27 @@ Los Presidentes de las Comisiones tendrán las atribuciones siguientes:
 
 I.- Representar y presidir la Comisión de que se trate;
 
-II.- Convocar, por medio del Secretario, a las sesiones ordinarias y extraordinarias;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
+
+II.- Convocar, por medio del Secretario, a las sesiones ordinarias, especiales y extraordinarias;
 
 III.- Conducir las sesiones de las Comisiones y preservar el orden durante las mismas;
 
-IV.- Vigilar que se cumplan los fines u objetivos de la Comisión;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
+
+IV.- Vigilar que se cumplan los acuerdos, fines u objetivos de la Comisión, establecidos en el programa de trabajo, en su caso;
 
 V.- Solicitar, por medio del Consejero Presidente del Consejo General, los informes o documentos en poder de las autoridades federales, estatales o municipales que sirvan para la substanciación y resolución del asunto en cuestión, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en la normatividad correspondiente;
 
-VI.- Presentar al Consejo informes y dictámenes en relación con el asunto encomendado; y
+VI.- Presentar al Consejo informes y dictámenes en relación con el asunto encomendado; y (sic)
 
-VII.- Las demás que les señalen el Código, el presente Reglamento, el Reglamento Interno o el Consejo General.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JUNIO DE 2004)</small>
+
+VII.- Recibir las solicitudes de información que se presenten a la Comisión; y
+
+VIII.- Las demás que les señalen el Código, el presente Reglamento, el Reglamento Interno o el Consejo General.
+
+(REUBICADO, P.O. 11 DE JUNIO DE 2004)
 
 ###### Artículo 11.
 
@@ -153,51 +191,183 @@ Los Secretarios de las Comisiones tendrán las atribuciones siguientes:
 
 I.- Verificar el quórum de las sesiones;
 
-II.- Levantar el acta correspondiente al finalizar cada una de las sesiones de la Comisión;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
 
-III.- Elaborar el informe, recomendación o propuesta a manera de proyecto de dictamen del asunto a resolver; y
+II.- Levantar el acta correspondiente al finalizar cada una de las sesiones de la Comisión, la que deberá contener:
 
-IV.- Las demás que les señalen el Código, el presente Reglamento, el Reglamento Interno o el Consejo General.
+a) La hora, fecha y lugar de celebración de la sesión;
 
-### CAPÍTULO III. DE LAS COMISIONES ESPECIALES
+b) La lista de los asistentes a la misma; y
+
+c) Los acuerdos tomados por loa integrantes de la Comisión.
+
+III.- Elaborar el informe, recomendación o propuesta a manera de proyecto de dictamen del asunto a resolver; y (sic)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JUNIO DE 2004)</small>
+
+IV.- Dar trámite a las solicitudes que se presenten ante la Comisión;
+
+V.- Las demás que les señalen el Código, el presente Reglamento, el Reglamento Interno o el Consejo General.
+
+### CAPÍTULO II. DE LAS COMISIONES PERMANENTES DEL CONSEJO GENERAL
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
 
 ###### Artículo 12.
 
 Las Comisiones Permanentes se integrarán por un mínimo de tres Consejeros Electorales. Dichas Comisiones serán presididas por uno de los Consejeros integrantes de las mismas, electo dentro de los propios Consejeros.
 
+Los Consejeros Electorales que integren las Comisiones Permanentes podrán acordar en cualquier momento la rotación de la Presidencia de la misma.
+
+Los integrantes de las Comisiones Permanentes podrán solicitar al Consejo General, por conducto del Consejero Presidente, su integración a otra Comisión" manifestando, en su caso, su voluntad de dejar de formar parte de la Comisión de la que son miembros.
+
+El Consejo General al resolver sobre la solicitud garantizará la correcta integración de las Comisiones Permanentes.
+
 ###### Artículo 13.
 
 Previa invitación, los integrantes del Consejo General que no formen parte de las Comisiones Permanentes podrán asistir a sus sesiones.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
 ###### Artículo 14.
 
-Las Comisiones Permanentes tienen por objeto supervisar, vigilar y coadyuvar con las Direcciones del Instituto en el cumplimiento de sus atribuciones.
+Las Comisiones Permanentes tienen por objeto supervisar, vigilar y coadyuvar con las Unidades Administrativas y Técnicas del Instituto en el cumplimiento de sus atribuciones.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
 
 ###### Artículo 15.
 
 Las Comisiones Permanentes tendrán las atribuciones siguientes:
 
-I.- Supervisar y vigilar el cumplimiento de los objetivos contenidos en los planes de trabajo de las Áreas correspondientes del Instituto;
+I.- De organización electoral:
 
-II.- Coadyuvar con las Direcciones del Instituto para el mejor desempeño de sus funciones;
+a) Supervisar y vigilar el cumplimiento de los objetivos contenidos en los planes de trabajo de la Dirección de Organización Electoral;
 
-III.- Proponer la inclusión o exclusión de objetivos y actividades en los programas de trabajo respectivos;
+b) Coadyuvar con la Dirección para el mejor desempeño de sus funciones, mediante la emisión de recomendaciones;
 
-IV.- Formular informes y dictámenes relacionados con el ámbito de su competencia;
+c) Proponer la inclusión o exclusión de objetivos y actividades en el programa de trabajo respectivo, para que sean presentadas por la Dirección a la Junta Ejecutiva;
 
-V.- Fijar sus propios procedimientos y normas de trabajo; y
+d) Formular informes y dictámenes relacionados con el ámbito de su competencia;
 
-VI.- Las demás que les confiera el Código, el presente Reglamento y el propio Consejo General.
+e) Fijar sus propios procedimientos y normas de trabajo; y
+
+f) Las demás que les confiera el Código, el presente Reglamento y el propio Consejo General.
+
+II. De Capacitación Electoral y Educación Cívica:
+
+a) Supervisar y vigilar el cumplimiento de los objetivos contenidos en los planes de trabajo de la Dirección de Capacitación Electoral y Educación Cívica;
+
+b) Coadyuvar con la Dirección para el mejor desempeño de sus funciones, mediante la emisión de recomendaciones;
+
+c) Proponer la inclusión o exclusión de objetivos y actividades en el programa de trabajo respectivo, para que sean presentadas por la Dirección a la Junta Ejecutiva;
+
+d) Formular informes y dictámenes relacionados con el ámbito de su competencia;
+
+e) Fijar sus procedimientos y normas de trabajo; y
+
+f) Las demás que les confiera el Código, el presente Reglamento y el propio Consejo General.
+
+III.- De Prerrogativas, Partidos Políticos, Medios de Comunicación y Topes a los Gastos de Campaña:
+
+a) Supervisar y vigilar el cumplimiento de los objetivos contenidos en los planes de trabajo de la Dirección de Prerrogativas, Partidos Políticos y Medios de Comunicación;
+
+b) Coadyuvar con la Dirección para el mejor desempeño de sus funciones, mediante la emisión de recomendaciones;
+
+c) Determinar, con apoyo de la Dirección, el monto del financiamiento público que se otorgue a los partidos políticos, así como los topes a los gastos de campaña para cada elección;
+
+d) Proponer la inclusión o exclusión de objetivos y actividades en el programa de trabajo respectivo, para que sean presentadas por la Dirección a la Junta Ejecutiva;
+
+e) Formular informes y dictámenes relacionados con el ámbito de su competencia;
+
+f) Fijar sus procedimientos y normas de trabajo; y
+
+g) Las demás que les con fiera el Código, el presente Reglamento y el propio Consejo General.
+
+IV.- Administrativa:
+
+a) Supervisar y vigilar el cumplimiento de los objetivos contenidos en los planes de trabajo de la Dirección Administrativa;
+
+b) Coadyuvar con la Dirección para el mejor desempeño de sus funciones, mediante la emisión de recomendaciones;
+
+c) Proponer la inclusión o exclusión de objetivos y actividades en el programa de trabajo respectivo, para que sean presentadas por la Dirección a la Junta Ejecutiva;
+
+d) Formular informes y dictámenes relacionados con el ámbito de su competencia;
+
+e) Fijar sus procedimientos y normas de trabajo; y
+
+f) Las demás que les confiera el Código, el presente Reglamento y el propio Consejo General.
+
+V.- Revisora
+
+a) Recibir de la Dirección de Prerrogativas, Partidos Políticos y Medios de Comunicación los informes justificatorios que presenten los partidos políticos;
+
+b) Revisar, auditar y fiscalizar los informes justificatorios, así como el sustento documental que presenten los partidos políticos, en términos del reglamento correspondiente;
+
+c) Requerir a los partidos políticos los informes justificatorios con sustento documental, así como la documentación e informes que considere necesarios para realizar su función;
+
+d) Formular observaciones a los informes justificatorios con sustento documental que presenten los partidos políticos, requiriéndoles la solventación de las mismas en los plazos establecidos en el reglamento correspondiente;
+
+e) Recibir de los partidos políticos la solventación de las observaciones, en los plazos que determine el reglamento correspondiente;
+
+f) Elaborar el dictamen correspondiente a la fiscalización del origen, monto y aplicación de los recursos con los que cuentan los partidos políticos, en términos del reglamento que para el efecto emita el Consejo General;
+
+g) Atender las solicitudes de información presentadas por los partidos políticos;
+
+h) Fijar sus procedimientos y normas de trabajo; y
+
+i) Las demás que les confiera el Código, el Reglamento de Fiscalización, et presente Ordenamiento y el propio Consejo General.
+
+VI.- Del Servicio Electoral Profesional
+
+a) Supervisar y vigilar el cumplimiento de los objetivos contenidos en los planes de trabajo de la Unidad del Servicio Electoral Profesional;
+
+b) Coadyuvar con la Unidad para el mejor desempeño de sus funciones, mediante la emisión de recomendaciones;
+
+c) Proponer la inclusión o exclusión de objetivos y actividades en el programa de trabajo respectivo, para que sean presentadas por la Unidad a la Junta Ejecutiva;
+
+d) Formular informes y dictámenes relacionados con el ámbito de su competencia;
+
+e) Fijar sus procedimientos y normas de trabajo; y
+
+f) Las demás que les con fiera el Código, el presente Reglamento, el Estatuto y el propio Consejo General.
 
 ###### Artículo 16.
 
 Las Comisiones Permanentes tendrán la obligación de presentar al Consejo General un informe anual de actividades, y presentarán informes parciales cuando el Consejo General así lo requiera.
 
-Las Comisiones Permanentes precisarán en sus informes las tareas desarrolladas, su vinculación con las metas programadas por las Direcciones Correspondientes, un reporte de asistencia de los Consejeros a las sesiones y demás consideraciones que estimen pertinentes.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
+El informe anual contendrá las actividades desarrolladas por las Comisiones Permanentes durante un periodo comprendido del primero de abril al treinta y uno de marzo del año que corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JUNIO DE 2004)</small>
+
+El informe anual se deberá presentar al Consejo General en el mes de mayo del año que corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JUNIO DE 2004)</small>
+
+Las Comisiones Permanentes que por la fecha de su constitución no hayan desarrollado actividades durante todo el periodo que comprende el informe anual, deberán informar respecto de las realizadas desde la fecha de su constitución hasta el treinta y uno de marzo del año que corresponda, en el plazo indicado en este artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JUNIO DE 2004)</small>
+
+Las Comisiones Permanentes precisarán en sus informes lo siguiente:
+
+I.- Las tareas desarrolladas por las (sic) comisión en el cumplimiento de sus atribuciones;
+
+II.- La relación de sus actividades con el cumplimiento de las metas programadas por las Unidades Administrativas o Técnicas correspondientes, en su caso;
+
+III.- Un reporte de asistencia de los Consejeros a las sesiones;
+
+IV.- La relación de recomendaciones efectuadas a las Unidades Administrativas y Técnicas, así como la respuesta a las mismas por parte de la Unidad correspondiente, en su caso; y
+
+V.- Las demás consideraciones que estimen pertinentes.
 
 ###### Artículo 17.
 
 En las Comisiones Permanentes actuará como Secretario de la misma, el Consejero que sea designado por los propios Consejeros, de entre ellos mismos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JUNIO DE 2004)</small>
+
+Los Consejeros Electorales que integren las Comisiones Permanentes podrán acordar en cualquier momento la rotación del titular de la Secretaría de la misma.
 
 ###### Artículo 18.
 
@@ -207,39 +377,55 @@ El Presidente, por medio del Secretario, hará las convocatorias a las sesiones 
 
 A las sesiones de las Comisiones Permanentes asistirá el Director de Área, previa convocatoria, dándole vista al Director General.
 
-Los integrantes de los cuerpos técnicos y administrativos asistirán cuando sean convocados por el Director de Área a petición de la Comisión correspondiente.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
+Los integrantes de los cuerpos directivo y técnico asistirán cuando sean convocados por el Director de Área a petición de la Comisión correspondiente.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
 
 ###### Artículo 20.
 
-Las Comisiones podrán formular observaciones o recomendaciones a las Direcciones del Instituto. También harán llegar a la Junta Ejecutiva, por conducto de su Presidente, propuestas para la elaboración de políticas, planes y programas generales.
+Las Comisiones podrán formular observaciones o recomendaciones a las Unidades Administrativas o Técnicas del Instituto. También harán llegar a la Junta Ejecutiva, por conducto de su Presidente, propuestas para la elaboración de políticas, planes y programas generales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JUNIO DE 2004)</small>
 
 ###### Artículo 21.
 
 Las Comisiones Permanentes funcionarán mediante sesiones, de acuerdo con los lineamientos siguientes:
 
-I.- El Presidente, por medio del Secretario, convocará por escrito a todos los integrantes de la misma, cuando menos con dos días hábiles anteriores al día en que deba celebrarse la sesión correspondiente;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
+
+I.- El Presidente, por medio del Secretario, convocará por escrito a todos los integrantes de la misma, cuando menos con cuarenta y ocho horas anteriores a la celebración de la sesión correspondiente;
 
 II.- Las notificaciones de esta convocatoria deberán realizarse por escrito recabándose la constancia de acuse de recibo correspondiente;
 
-III.- A la convocatoria deberá anexarse el orden del día respectivo y demás documentos relacionados con los puntos a tratar así como los proyectos de acuerdo conducentes;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
+
+III.- A la convocatoria deberá anexarse el orden del día respectivo y demás documentos relacionados con los puntos a tratar así como los proyectos de acuerdo conducentes, en su caso;
 
 IV.- Los acuerdos que tome la Comisión serán aprobados por mayoría de votos, teniendo el Presidente de la misma, voto de calidad en caso de empate;
 
-V.- Las actas de las sesiones, así como los acuerdos correspondientes que tome la Comisión deberán ser firmados por todos los integrantes presentes. En caso de que alguno de los integrantes no esté conforme con el acuerdo tomado, hará constar las razones en el acta respectiva;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
+
+V.- Las actas de las sesiones, así como los acuerdos correspondientes que tome la Comisión deberán ser firmados por todos los integrantes presentes. En caso de que alguno de los integrantes no esté conforme con el acuerdo tomado, hará constar por escrito las razones en el acta respectiva.
+
+El escrito en el que haga constar la inconformidad deberá presentarse dentro de las veinticuatro horas siguientes a la conclusión de la sesión. El Secretario hará constar en el acta respectiva la inclusión del documento como anexo de la misma;
 
 VI.- Las Comisiones Permanentes sesionarán de manera ordinaria cuando menos una vez al mes;
 
-VII.- Cualquier integrante de la Comisión podrá solicitar al Presidente de la misma, se cite a sesión extraordinaria para tratar algún asunto que por su urgencia lo amerite; y
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
 
-VIII.- Los acuerdos que tome la Comisión, se presentarán como informes o dictámenes al Consejo General.
+VII.- Cualquier integrante de la Comisión podrá solicitar al Presidente de la misma, se cite a sesión extraordinaria para tratar algún asunto que por su urgencia lo amerite, la convocatoria se efectuará por lo menos con veinticuatro horas anteriores a la celebración de la sesión correspondiente; y
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
+
+VIII.- Los acuerdos que tome la Comisión y que se hagan del conocimiento del Consejo General, se presentarán como informes o dictámenes.
 
 ###### Artículo 22.
 
 Si un miembro de alguna Comisión Permanente de que se trate acumula tres faltas injustificadas a las sesiones de la misma, la Comisión hará constancia de ello, a efecto de que el Consejero Presidente informe de dichas ausencias en sesión ordinaria del Consejo para que éste determine lo conducente.
 
-### CAPÍTULO V. DE LAS COMISIONES ESPECIALES DE LOS CONSEJOS MUNICIPALES
-
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
+### CAPÍTULO III. DE LAS COMISIONES ESPECIALES
 
 ###### Artículo 23.
 
@@ -261,13 +447,17 @@ En caso de que el Consejo considere que un asunto es de extrema urgencia, en ses
 
 El Consejo vigilará el adecuado funcionamiento de las Comisiones Especiales y conocerá sobre los informes y dictámenes que éstas le deberán rendir dentro de los plazos establecidos.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
 ###### Artículo 28.
 
-Las Comisiones Especiales se integrarán con el número de miembros del Consejo que para cada caso acuerde el mismo. Éstas siempre serán presididas por un Consejero Electoral.
+Las Comisiones Especiales se integrarán por un mínimo de tres Consejeros Electorales y el número de miembros que para caso acuerde el Consejo General. Éstas siempre serán presididas por un Consejero Electoral.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
 
 ###### Artículo 29.
 
-Siempre que una Comisión Especial sea integrada para investigar las denuncias de hechos a que se refiere la fracción XXII del artículo 89 del Código participarán con voz pero sin voto, los representantes de los partidos políticos y los del Poder Legislativo acreditados ante el Consejo General.
+Siempre que una Comisión Especial sea integrada para investigar las denuncias de hechos a que se refieren los artículos 42 fracción X, 54 y 89 fracción XXII del Código participarán con voz pero sin voto, los representantes de los partidos políticos acreditados ante el Consejo General, pudiendo invitar a sus sesiones a los representantes del Poder Legislativo, solo con voz.
 
 ###### Artículo 30.
 
@@ -287,33 +477,49 @@ VI.- Someter a consideración del Consejo los informes o dictámenes correspondi
 
 VII.- Las demás que les señalen el Código, el presente Reglamento y el propio Consejo.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2004)</small>
+
 ###### Artículo 31.
 
 El procedimiento para la resolución de denuncias en contra de partidos políticos será el siguiente:
 
-I.- Cualquiera de las partes mencionadas en el artículo 355 del Código Electoral del Estado podrá interponer la impugnación en contra del partido político que haya incumplido lo dispuesto por los artículos 42 fracción X y 54 del Código, ante el Consejo General;
+I.- Los partidos políticos o coaliciones, en su caso, que se encuentren acreditados ante el Consejo General, por conducto de sus representantes acreditados podrán interponer denuncia en contra del partido político que haya incumplido lo dispuesto por los artículos 42 fracción X, 54 y 89 fracción XXII del Código;
 
-II.- La impugnación se interpondrá por escrito ante el Consejo General y deberá acompañarse con las pruebas que el promovente considere necesarias;
+II.- La denuncia se interpondrá por escrito ante el Consejo General y deberá acompañarse con las pruebas que el promovente considere necesarias.
 
-III.- Una vez recibida la impugnación por el Consejo General, se turnará al Secretario General. Este último se pronunciará sobre su admisión o improcedencia, verificando que se cumplan con los siguientes requisitos:
+Las pruebas que se podrán acompañar al escrito de denuncia serán las siguientes:
 
-a) Que sea interpuesta por las partes señaladas en el artículo 355 del Código Electoral del Estado;
+a) Documental pública;
+
+b) Documental privada;
+
+c) Pruebas Técnicas; y
+
+d) Presunciones.
+
+III.- Una vez recibida la impugnación por el Consejo General, se turnará al Secretario General. Este último analizará la denuncia para determinar su admisión o improcedencia, verificando que se cumplan con los siguientes requisitos:
+
+a) Que sea interpuesta por las partes señaladas en la fracción I de este artículo;
 
 b) Que se interponga por escrito; y
 
-c) Que en el escrito, por medio del cual se presenta la impugnación, se contenga una relación clara y sucinta de los hechos en que se motive y sea acompañado por las pruebas tendientes a demostrar la veracidad del dicho del promovente;
+c) Que en el escrito, por medio del cual se presenta la impugnación, se contenga una relación clara y sucinta de los hechos en que se motive y se acompañen U ofrezcan las pruebas tendientes a demostrar la veracidad del dicho del promovente;
 
-IV.- El Secretario General, requerirá al promovente, cuando omita alguno de los requisitos señalados en la fracción anterior, para que cumpla en un plazo de tres días, apercibiéndolo que en caso de no cumplir en tiempo y forma la irregularidad se tendrá por no interpuesta;
+En caso de determinar la improcedencia de la denuncia el Secretario General presentará al Consejo General el proyecto de resolución correspondiente;
 
-V.- Una vez acordada de procedente la impugnación, el Secretario General, dentro de las setenta y dos horas siguientes, correrá traslado en copia simple del escrito al partido denunciado, levantando la razón correspondiente a la notificación;
+IV.- El Secretario General, requerirá al promovente, cuando omita alguno de los requisitos señalados en la fracción anterior, para que cumpla en un plazo de tres días, apercibiéndolo que en caso de no cumplir en tiempo y forma la irregularidad la denuncia se tendrá por no interpuesta;
 
-VI.- El partido político contra el que se interponga la impugnación, una vez recibida la notificación a que se refiere la fracción anterior, contará con un plazo de cinco días naturales para que presente su contestación por escrito ante el Consejo General, aportando las pruebas que considere necesarias. En caso de no contestar la denuncia, se tendrá por contestada en sentido negativo;
+V.- Una vez acordada de procedente la denuncia, el Secretario General, dentro de las setenta y dos horas siguientes, correrá traslado en copia simple del escrito al partido denunciado, levantando la razón correspondiente a la notificación;
 
-VII.- Recibida la contestación, el Secretario General integrará el expediente con todas las actuaciones desahogadas en el mismo, remitiéndolo a la Comisión Especial para la investigación de impugnaciones cometidas por los partidos políticos. Esta Comisión Especial elaborará y someterá el dictamen correspondiente al Pleno del Consejo General para que dicte la resolución conducente;
+VI.- El partido político contra el que se interponga la denuncia, una vez recibida la notificación a que se refiere la fracción anterior, contará con un plazo de tres días naturales para que presente su contestación por escrito ante el Consejo General, aportando las pruebas que considere necesarias. En caso de no contestar la denuncia, se tendrá por contestada en sentido negativo;
 
-VIII.- El Secretario General, a petición de la Comisión Especial respectiva, requerirá las pruebas necesarias y conducentes para la correcta integración de los expedientes, de tal manera que le permita la consecución del objetivo para el cual fue creada; y
+Vll.- Recibida la contestación, el Secretario General integrará el expediente con todas las actuaciones desahogadas en el mismo, remitiéndolo a la Comisión Especial encargada de la investigación de impugnaciones cometidas por los partidos políticos, en un plazo de cinco días posteriores a la determinación de la integración del mismo. Esta Comisión Especial elaborará y someterá el dictamen correspondiente al Pleno del Consejo General para que dicte la resolución conducente;
 
-IX.- Si de la resolución tomada por el Pleno del Consejo General resulta que el partido político señalado como responsable lo es, remitirá comunicado al Tribunal Electoral del Estado para los efectos señalados en el artículo 393 del Código Electoral del Estado. En caso contrario, se tendrá como asunto concluido.
+VIII.- El Secretario General, a petición de la Comisión Especial respectiva, requerirá las pruebas necesarias y conducentes para la correcta integración de los expedientes, de tal manera que le permita la consecución del objetivo para el cual fue creada;
+
+IX.- La Comisión al valorar las pruebas presentadas <ti ofrecidas por los partidos políticos deberá ajustarse a lo dispuesto por el artículo 359 del Código;
+
+X.- Si de la resolución tomada por el Pleno del Consejo General resulta que el partido político señalado como responsable lo es, remitirá comunicado al Tribunal Electoral del Estado para los efectos señalados en el artículo 393 del Código Electoral del Estado. En caso contrario, se tendrá como asunto concluido.
 
 ###### Artículo 32.
 
@@ -339,23 +545,37 @@ Si algún miembro de la Comisión Especial de que se trate acumula dos faltas in
 
 Las Comisiones Especiales cesarán en el ejercicio de sus funciones una vez que el Consejo resuelva sobre el asunto encomendado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JUNIO DE 2004)</small>
+
 ###### Artículo 38.
 
 Las Comisiones Especiales funcionarán mediante sesiones, de acuerdo con los lineamientos siguientes:
 
-I.- El Presidente de la Comisión, por medio del Secretario, convocará a todos los integrantes de la misma, cuando menos con dos días hábiles anteriores al día al que deba celebrarse la sesión, salvo las integradas conforme al artículo 26 de este Reglamento;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
+
+I.- El Presidente de la Comisión, por medio del Secretario, convocará a todos los integrantes de la misma, cuando menos con cuarenta y ocho horas anteriores a la celebración de la sesión, salvo las integradas conforme al artículo 26 de este Reglamento;
 
 II.- La notificación de esta convocatoria deberá realizarse por escrito, recabándose la constancia de acuse de recibo correspondiente;
 
-III.- A la convocatoria deberá anexarse el orden del día respectivo, y demás documentos relacionados con los puntos a tratar;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
+
+III.- A la convocatoria deberá anexarse el orden del día respectivo, y demás documentos relacionados con los puntos a tratar, en su caso;
 
 IV.- Los acuerdos que tome la Comisión serán aprobados por mayoría de votos, teniendo el Presidente de la misma, voto de calidad en caso de empate;
 
-V.- Las actas de las sesiones, así como los acuerdos correspondientes que tome la Comisión deberán ser firmados por todos los integrantes presentes. En caso de que alguno de los integrantes no esté conforme con el acuerdo tomado, hará constar las razones en el acta respectiva;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
 
-VI.- Cualquier integrante de la Comisión podrá solicitar al Presidente de la misma, se cite a sesión extraordinaria para tratar algún asunto que por su urgencia lo amerite;
+V.- Las actas de las sesiones, así como los acuerdos correspondientes que tome la Comisión deberán ser firmados por todos los integrantes presentes. En caso de que alguno de los integrantes no esté conforme con el acuerdo tomado, hará constar las razones en el acta respectiva.
 
-VII.- Los acuerdos que tome la Comisión, se presentarán como informes y dictámenes al Consejo;
+El escrito en el que se haga constar la inconformidad deberá presentarse dentro de las veinticuatro horas siguientes a la conclusión de la sesión. El Secretario hará constar en el acta respectiva la inclusión del documento como anexo de la misma;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
+
+VI.- Cualquier integrante de la Comisión podrá solicitar al Presidente de la misma, se cite a sesión extraordinaria para tratar algún asunto que por su urgencia lo amerite, la convocatoria se efectuará por lo menos con veinticuatro horas anteriores a la celebración de la sesión correspondiente;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
+
+VII.- Los acuerdos que tome la Comisión y que se hagan del conocimiento del Consejo General, se presentarán como informes o dictámenes;
 
 VIII.- Las Comisiones sesionarán las veces que sea necesario; y
 
@@ -461,19 +681,31 @@ En ambos casos, el Secretario del Consejo Distrital lo hará del conocimiento de
 
 Las Comisiones Especiales Distritales funcionarán mediante sesiones, de acuerdo con los lineamientos siguientes:
 
-I.- El Presidente de la Comisión Especial Distrital convocará a todos los integrantes de la misma, con dos días de anticipación, como mínimo, al día en que deba celebrarse la sesión, salvo las integradas conforme al artículo 42 de este Reglamento;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
+
+I.- El Presidente de la Comisión Especial Distrital, por medio del Secretario de la Comisión, convocará a todos los integrantes de la misma, con cuarenta y ocho horas de anticipación, como mínimo, a la celebración de la sesión, salvo las integradas conforme al artículo 42 de este Reglamento;
 
 II.- La notificación de la convocatoria deberá realizarse por cualquier medio escrito, recabándose la constancia del acuse de recibo correspondiente;
 
-III.- A la convocatoria deberá anexarse el orden del día respectivo, y demás documentos relacionados con los puntos a tratar;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
+
+III.- A la convocatoria deberá anexarse el orden del día respectivo, y demás documentos relacionados con los puntos a tratar, en su caso;
 
 IV.- Los acuerdos que tome la Comisión Especial Distrital serán aprobados por mayoría de votos, teniendo el Presidente de la misma, el voto de calidad en caso de empate;
 
-V.- Las actas de las sesiones, así como los acuerdos correspondientes que tome la Comisión deberán ser firmados por todos los integrantes presentes. En caso de que alguno de los integrantes no esté conforme con el acuerdo tomado, dejará constancia de las razones de su inconformidad en el acta respectiva;
+V.- Las actas de las sesiones, así como los acuerdos correspondientes que tome la Comisión deberán ser firmados por todos los integrantes presentes. En caso de que alguno de los integrantes no esté conforme con el acuerdo tomado, dejará constancia de las razones de su inconformidad en el acta respectiva.
 
-VI.- Cualquier integrante de la Comisión Especial Distrital podrá solicitar al Presidente de la misma, se cite a sesión extraordinaria para tratar algún asunto que por su urgencia lo amerite; y
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JUNIO DE 2004)</small>
 
-VII. Los acuerdos que tome la Comisión, se presentarán como informes o dictámenes al Consejo Distrital Electoral correspondiente.
+El escrito en el que se haga constar la inconformidad deberá presentarse dentro de las veinticuatro horas siguientes a la conclusión de la sesión. El Secretario hará constar en el acta respectiva la inclusión del documento como anexo de la misma;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
+
+VI.- Cualquier integrante de la Comisión Especial Distrital podrá solicitar al Presidente de la misma, se cite a sesión extraordinaria para tratar alguna asunto que pos su urgencia lo amerite la convocatoria se efectuará por lo menos con veinticuatro horas anteriores a la celebración de la sesión correspondiente; y
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
+
+VII.- Los acuerdos que tome la Comisión y que se hagan del conocimiento del Consejo Distrital, se presentarán como informes o dictámenes.
 
 > <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
 
@@ -519,7 +751,7 @@ Las Comisiones Especiales Distritales, comunicarán al Director General del Inst
 
 El Secretario del Consejo Distrital Electoral, así como, las Coordinaciones de Organización Electoral y Capacitación Electoral deberán prestar ayuda a las Comisiones Especiales Distritales, para el desempeño de sus funciones.
 
-### CAPÍTULO IV. DE LAS COMISIONES ESPECIALES DE LOS CONSEJOS DISTRITALES
+### CAPÍTULO V. DE LAS COMISIONES ESPECIALES DE LOS CONSEJOS MUNICIPALES
 
 > <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
 
@@ -601,11 +833,23 @@ I.- Los acuerdos que tome la Comisión Especial Municipal serán aprobados por m
 
 II.- Las actas de las sesiones, así como los acuerdos correspondientes que tome la Comisión deberán ser firmados por todos los integrantes presentes. En caso de que alguno de los integrantes no esté conforme con el acuerdo tomado, dejará constancia de las razones de su inconformidad en el acta respectiva.
 
-III.- Cualquier integrante de la Comisión Especial Municipal podrá solicitar al Presidente de la misma, se cite a sesión extraordinaria para tratar algún asunto que por su urgencia lo amerite; y
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JUNIO DE 2004)</small>
 
-IV.- Los acuerdos que tome la Comisión, se presentarán como informes o dictámenes al Consejo Municipal Electoral correspondiente.
+El escrito en el que se haga constar la inconformidad deberá presentarse dentro de las veinticuatro horas siguientes a la conclusión de la sesión. El Secretario hará constar en el acta respectiva la inclusión del documento como anexo de la misma;
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
+
+III.- Cualquier integrante de la Comisión Especial Municipal podrá solicitar al Presidente de la misma, se cite a sesión extraordinaria para tratar algún asunto que por su urgencia lo amerite, la convocatoria se efectuará por lo menos con veinticuatro horas anteriores a la celebración de la sesión correspondiente; y
+
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
+
+IV.- Los acuerdos que tome la Comisión y que se hagan del conocimiento del Consejo Municipal, se presentarán como informes o dictámenes.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2001)</small>
+
+### CAPÍTULO IV. DE LAS COMISIONES ESPECIALES DE LOS CONSEJOS DISTRITALES
+
+> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2001)</small>
 
 ###### Artículo 66.
 
@@ -613,7 +857,9 @@ Los Presidentes de las Comisiones tendrán las atribuciones siguientes:
 
 I.- Representar y presidir las Comisiones;
 
-II.- Para el caso de los Consejos Distritales, convocar a sus integrantes por medio del Secretario de la Comisión, a las sesiones ordinarias y extraordinarias;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2004)</small>
+
+II.- Para el caso de los Consejos Distritales, convocar a sus integrantes por medio del Secretario de la Comisión, a las sesiones ordinarias, especiales y extraordinarias;
 
 III.- Conducir las sesiones de las Comisiones y preservar el orden dentro de las mismas;
 
@@ -645,7 +891,7 @@ IV.- Las demás que señale el Código, el presente Reglamento o el Consejo Dist
 
 Para el cumplimiento de las atribuciones de las Comisiones, el Consejero Presidente del Consejo Distrital o Municipal respectivo, así como el personal de los órganos Distritales o Municipales, deberán proporcionar la información que les sea solicitada en los términos del Código, del Estatuto, del Reglamento Interior, del presente Ordenamiento y demás disposiciones aprobadas por los Consejos Electorales del Instituto Electoral del Estado.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRA, P.O. 1 DE JUNIO DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2001)</small>
 
 ## TRANSITORIOS
 
@@ -666,3 +912,11 @@ Artículo Primero.- La presente adición al Reglamento de Comisiones del Institu
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
 
 Artículo Tercero.- La Presente adición al Reglamento de Comisiones del Instituto Electoral del Estado fueron aprobadas por el Consejo del Instituto Electoral del Estado, en sesión ordinaria de fecha ocho de mayo de dos mil uno.
+
+P.O. 11 DE JUNIO DE 2004.
+
+Artículo Primero.- La presente reforma al Reglamento de Comisiones del Instituto Electoral del Estado, entrará en vigor a partir del día siguiente de su aprobación por el Consejo General del Instituto Electoral del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
+
+Artículo tercero. La presente reforma al Reglamento de Comisiones del Instituto Electoral del Estado fue aprobada por el Consejo General del Instituto Electoral del Estado, en sesión ordinaria de fecha veinte de mayo de dos mil cuatro.
