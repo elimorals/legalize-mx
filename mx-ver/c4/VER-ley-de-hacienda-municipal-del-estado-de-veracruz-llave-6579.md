@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-municipal-del-estado-de-veracruz-llave-6579"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1990-12-29"
+last_updated: "1991-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE FEBRERO DE 1991.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -519,31 +519,21 @@ XI.- EI usufructuario, el cesionario de los derechos de usufructo o el adquirent
 
 Para los efectos de este impuesto se considera, salvo prueba en contrario, que se transmiten bajo cualquier título, terreno y construcción, si ésta se ha iniciado antes de la celebración del contrato respectivo, aun cuando con anterioridad se hubiese celebrado promesa de venta del terreno.
 
+> <small>(REFORMADO, G.O. 7 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 55.
 
-La base de este impuesto será el valor del inmueble, catastral o provisional en su caso o el de operación si éste es mayor, deduciéndole al valor determinado en los términos anteriores, la cantidad equivalente al salario mínimo general de la zona económica en la que se encuentre ubicado el mismo, elevada al año y multiplicada por siete observando lo siguiente:
+La base de este impuesto será el valor del inmueble, catastral o provisional o el de operación si éste es mayor y el impuesto se causará, liquidará y pagará aplicando la tasa de 2% sobre la base indicada en este artículo.
 
-I.- Se considerarán como un solo inmueble, los bienes que sean o resulten colindantes, adquiridos por la misma persona en un periodo de 24 meses. De la suma de los precios o valores de los predios, únicamente se tendrá derecho a hacer una sola vez la deducción, la que se calculará al momento en que se realice la primera operación.
+Tratándose del usufructo o de la nuda propiedad, la base del impuesto será el 50% en cada caso.
 
-El contribuyente deberá manifestar al fedatario ante quien se formalice el acto jurídico bajo protesta de decir verdad, si el predio objeto de la operación colinda con otro que hubiere adquirido con anterioridad, para que se ajuste al momento de la deducción, debiendo pagar en su caso las diferencias de impuesto que correspondan;
+En los casos a que se refiere el artículo 52 fracción III, de esta Ley, la base del impuesto se determinará con valores referidos a la fecha en que cause ejecutoria la resolución judicial.
 
-II.- Cuando del inmueble formen parte departamentos habitacionales, la deducción se hará por cada uno de ellos, lo dispuesto en esta fracción no es aplicable a hoteles.
-
-No se considerarán departamentos habitacionales los que por sus características originales, se destinen a servicios domésticos, portería o guarda de vehículos, aun cuando se utilicen para otros fines;
-
-III.- Cuando se adquieran derechos de copropiedad, la deducción se hará en la proporción que corresponda a cada parte;
-
-IV.- Tratándose del usufructo o de la nuda propiedad, la base del impuesto será el 50% en cada caso;
-
-V.- En los casos a que se refiere el artículo 52 fracción III, la base del impuesto se determinará con valores referidos a la fecha en que se dicte la resolución judicial.
+> <small>(REFORMADO, G.O. 7 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 56.
 
-El impuesto se causará, liquidará y pagará a razón del 10% sobre la base que resulte conforme al artículo anterior.
-
-> <small>(F. DE E., G.O. 28 DE ENERO DE 1984)</small>
-
-Los contribuyentes que celebren operaciones de las señaladas en el artículo 52 fracción XV, podrán optar por pagar el impuesto, aplicando la base determinada conforme al primer párrafo del artículo anterior, sin considerar la reducción del 50% a que se refiere el penúltimo párrafo del mismo artículo.
+Los contribuyentes que celebren operaciones de las señaladas en el artículo 52 fracción XV, de esta Ley, podrán optar por pagar el impuesto, aplicando la base determinada conforme al primer párrafo del artículo anterior, sin considerar la reducción del 50% a que se refiere el segundo párrafo del mismo artículo.
 
 En este caso, cuando se consolide la propiedad, no se efectuará pago alguno por este concepto, pero se presentará declaración relacionándola con la anterior.
 
@@ -607,15 +597,25 @@ II.- Cuando se trate de resoluciones administrativas o judiciales o de documento
 
 Se eximen del pago de este impuesto:
 
-I.- Las operaciones a que se refiere este capítulo, cuando comprendan bienes que se trasmitan a nombre de la Federación, Estado o Municipios y éstos aparezcan como sujetos del impuesto;
+> <small>(REFORMADA, G.O. 7 DE FEBRERO DE 1991)</small>
+
+I.- Las operaciones a que se refiere este capítulo, cuando comprendan bienes que se transmitan a nombre de la Federación, Estado o Municipios, para formar parte del dominio público, y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso;
 
 II.- La constitución, disolución o liquidación de la sociedad conyugal;
 
 III.- La devolución de los bienes inmuebles del enajenante, por la revocación, rescisión o anulación del contrato respectivo que consten en resolución judicial;
 
-IV.- La división de la cosa común entre los copropietarios siempre que los valores de las partes adjudicadas a los partícipes no excedan de los valores de sus respectivas porciones y que no existan compensaciones en efectivo entre ellos; y
+> <small>(REFORMADA, G.O. 7 DE FEBRERO DE 1991)</small>
 
-V.- Los actos constitutivos de fideicomiso de garantía, pero sí lo causa la transmisión de bienes inmuebles que haga la fiduciaria con motivo de la ejecución en cumplimiento de los fines del fideicomiso.
+IV.- La división de la cosa común entre los copropietarios siempre que los valores de las partes adjudicadas a los partícipes no excedan de los valores de sus respectivas porciones y que no existan compensaciones en efectivo entre ellos;
+
+> <small>(REFORMADA, G.O. 7 DE FEBRERO DE 1991)</small>
+
+V.- Los actos constitutivos de fideicomiso de garantía, pero sí lo causa la transmisión de bienes inmuebles que haga la fiduciaría con motivo de la ejecución en cumplimiento de los fines del fideicomiso; y
+
+> <small>(ADICIONADA, G.O. 7 DE FEBRERO DE 1991)</small>
+
+VI.- Las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
 
 #### SECCION IV. DEL IMPUESTO SOBRE FRACCIONAMIENTOS
 
@@ -3126,5 +3126,19 @@ G.O. 29 DE DICIEMBRE DE 1990.
 La presente Ley entrará en vigor el día 1° de enero de 1991, previa su publicación en la "Gaceta Oficial" del Estado.
 
 ###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+G.O. 7 DE ABRIL DE 1991.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día siguiente a su publicación en la 'Gaceta Oficial' del Estado.
+
+###### ARTICULO SEGUNDO.
+
+A las operaciones que se hayan realizado del día 1o de enero del año en curso a la fecha de vigencia de la presente Ley y que no se haya cubierto el importe, se aplicará lo que dispone la misma, en todo lo que no lesione los intereses de los contribuyentes.
+
+###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
