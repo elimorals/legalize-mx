@@ -4,7 +4,7 @@ identifier: "DUR-codigo-fiscal-municipal-4881"
 country: "mx"
 rank: "codigo"
 publication_date: "1988-03-20"
-last_updated: "1996-12-19"
+last_updated: "1997-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO FISCAL MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1997.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 20 de marzo de 1988.
 
@@ -673,13 +673,17 @@ III.- Que el derecho para reclamar la devolución no se haya extinguido.
 
 IV.- Cuando se pida la devolución ésta deberá efectuarse dentro del plazo de 90 días siguientes a la fecha en que quede reconocido el derecho de peticionario. Si dentro de dicho plazo no se efectúa la devolución, el Fisco Municipal deberá pagar intereses en los términos que se establezcan en la Ley de Ingreso Municipal respectiva, computados desde que se constituya hasta la fecha en que se devuelva la cantidad de que se trata.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 61o.
 
-La condonación o reducción de los créditos fiscales municipales solamente procederán por causa de fuerza mayor o calamidades públicas que afecten la situación económica de los sujetos.
+La condonación o reducción de los créditos fiscales municipales, excepción hecha de lo previsto por el Art. 62 de este Ordenamiento, solamente procederán por causa de fuerza mayor o calamidades públicas que afecten la situación económica de los sujetos. Para establecer este supuesto, será necesaria la declaración de carácter general expedida por el Ayuntamiento con aprobación del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 62o.
 
-La condonación o reducción de los créditos fiscales en los casos previstos en el articulo anterior sólo procederá por declaración de carácter general expedida por el Ayuntamiento con aprobación del Congreso del Estado.
+Tratándose de personas pensionadas o jubiladas legalmente acreditadas, o mayores de 60 años en precaria situación económica, el Presidente Municipal concederá un 50% de descuento en el monto de los créditos fiscales relativos al Impuesto Predial, al Impuesto Sobre Traslación de Dominio de Bienes Inmuebles, y a los Derechos por Servicio de Agua Potable y Alcantarillado. En el caso de las personas físicas mayores de 60 años, se deberá comprobar su situación económica mediante un estudio socioeconómico que realizará el Municipio correspondiente.
 
 ###### ARTICULO 63o.
 
@@ -2124,3 +2128,13 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 19 DE DICIEMBRE DE 1996.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación, en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a las presentes reformas.
