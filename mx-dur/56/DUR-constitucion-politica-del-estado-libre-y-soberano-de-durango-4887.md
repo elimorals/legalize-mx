@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1979-07-26"
+last_updated: "1980-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 1980.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -143,23 +143,31 @@ V.- El patrimonio del Estado se compone de los bienes que son de su propiedad y 
 
 VI.- Los bienes afectos a un servicio proporcionado por el Estado, son inalienables e imprescriptibles. Los bienes del Estado, desafectados de un servicio público y que pasen al dominio privado del Estado podrán ser enajenados, previa autorización del Congreso, mediante los requisitos que señala ésta Constitución y la Ley de Bienes del Estado que expedirá el Congreso.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
 ###### ARTICULO 12.
 
-El Estado de Durango, acorde con sus recursos, reconoce los derechos públicos sociales que en seguida (sic) se consignan:
+El varón y la mujer, son iguales ante la Ley. Esta protegerá la organización y el desarrollo de la familia.
 
-I.- La protección asistencial a la maternidad y a la infancia, cuando así lo requiera la situación económica de una o de otra;
+No se podrá impedir a nadie el derecho a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos.
 
-II. La prestación de servicios médico-asistenciales y funerarios a personas indigentes; y
+Es deber de los padres preservar el derecho de sus menores hijos a la satisfacción de sus necesidades y a su salud física y mental. La Ley determinará los apoyos a la protección de los menores, a cargo de las Instituciones Públicas.
 
-III.- El otorgamiento de becas a los estudiantes indigentes que se hayan distinguido por su aprovechamiento, para que, continúen sus estudios y perfeccionen sus conocimientos en los centros de educación media y superior.
+En el Estado de Durango, todas las personas, en la medida de los recursos económicos de la Administración Pública, gozarán de los siguientes derechos:
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+1o.- Protección asistencial a la maternidad y a la infancia, cuando así lo requiera la situación económica de una o de otra.
+
+2o.- Prestación de servicio médico-asistenciales y funerarios a personas indigentes; y
+
+3o.- Otorgamiento de becas cuando se trate de estudiantes indigentes que se hayan distinguido por su aprovechamiento y puedan así continuar sus estudios y perfeccionar sus conocimientos en los centros de educación media y superior.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
 ###### ARTICULO 13.
 
-El Gobierno del Estado promoverá el incremento de las obras de infraestructura, el aumento de fuentes de trabajo, la creación de instituciones educativas y la construcción de viviendas decorosas y de bajo costo.
+La actividad económica estatal, se conforma con acciones de los sectores público y privado. El Estado podrá promover programas, así como realizar obras y servicios de carácter social, tendientes a impulsar convenientemente el desarrollo integral de la Entidad.
+
+El Gobierno del Estado promoverá el incremento de las obras de infraestructura, el aumento de fuentes de trabajo, la creación de Instituciones Educativas y la construcción de viviendas decorosas y de bajo costo.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -419,10 +427,6 @@ Procede el recurso de reclamación ante el Supremo Tribunal de Justicia del Esta
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION B.- DE LA INSTALACION Y LABORES DEL CONGRESO
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
 ###### ARTICULO 38.
 
 El asiento del Congreso es la Capital del Estado. Podrá trasladarse provisionalmente a otro lugar cuando se presenten circunstancias que lo ameriten y así lo acuerden cuando menos las dos terceras partes de los diputados presentes en la sesión en que se trate.
@@ -493,13 +497,11 @@ Los Diputados son defensores de los derechos sociales de los habitantes que repr
 
 Los diputados de mayoría relativa tienen la obligación de rendir ante sus representados un informe de sus actividades legislativas, de sus gestiones e intervenciones en beneficio de los habitantes de los Municipios comprendidos en sus respectivos Distritos Electorales. Dicho informe será rendido durante la primera quincena del mes de febrero de cada año.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
 ###### ARTICULO 47.
 
-El día 30 de junio de cada año, en sesión solemne, comparecerá ante el Congreso del Estado, el Presidente del Supremo Tribunal de Justicia y rendirá un informe sobre el estado que guarda la administración de la justicia.
-
-El Presidente del Congreso contestará ese informe.
+El día último de Julio de cada año, en Sesión Solemne, comparecerá, ante el Congreso del Estado, el Presidente del Supremo Tribunal de Justicia y rendirá un informe sobre el estado que guarda la administración de la justicia y sobre el movimiento de ingresos y egresos del Fondo Auxiliar para la Administración de Justicia. El Presidente del Congreso contestará ese Informe.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -514,6 +516,10 @@ El Congreso del Estado, en sesión solemne ordinaria que tendrá verificativo el
 El Gobernador, dentro de los últimos quince días de su mandato, enviará al Congreso una memoria en la que expondrá la situación prevaleciente en todos los ramos de la administración pública.
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+SECCION D.- DE LAS FACULTADES DEL CONGRESO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JULIO DE 1979)</small>
 
 ## TITULO TERCERO
 
@@ -569,9 +575,9 @@ Ninguna iniciativa que sea desechada por el Congreso podrá ser presentada de nu
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-SECCION D.- DE LAS FACULTADES DEL CONGRESO
+SECCION E.- DE LA COMISION PERMANENTE
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE JULIO DE 1979)</small>
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ###### ARTICULO 55.
 
@@ -643,9 +649,9 @@ XV.- Legislar sobre el aprovechamiento de las aguas que queden bajo el régimen 
 
 XVI.- Hacer la declaración de pérdida de la calidad de duranguenses o de ciudadanos del Estado, y de rehabilitación en ambos casos;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1980)</small>
 
-XVII.- Elegir a los Magistrados del Supremo Tribunal de Justicia de las ternas que para cada caso presente el Ejecutivo, requiriéndose para la elección, el voto de cuando menos las dos terceras partes de los diputados presentes;
+XVII.- Otorgar o negar su aprobación a los nombramientos que haga el Gobernador del Estado de los Magistrados del Supremo Tribunal de Justicia y a las renuncias o licencias que ante el propio Ejecutivo sometan dichos funcionarios, en los términos del Artículo 93;
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -695,15 +701,11 @@ XXVIII.- Declarar electos a los candidatos a Senadores que hubieren obtenido la 
 
 XXIX.- Investigar y en su caso, fincar responsabilidades por enriquecimiento indebido, a las personas que hubieren desempeñado los cargos a que se refiere el Artículo 122 de esta Constitución; y
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1980)</small>
 
-XXX.- Velar por la observancia de esta Constitución.
+XXX.- Expedir Leyes tendientes a normar las medidas de protección, y a corrección de conductas en su caso, de los menores, con el fin de propiciar su correcta incorporación al desarrollo de la sociedad.
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-SECCION E.- DE LA COMISION PERMANENTE
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ###### ARTICULO 56.
 
@@ -733,7 +735,11 @@ VI.- Las demás que le confiere está Constitución.
 
 La Comisión Permanente dará cuenta en la segunda sesión del período ordinario siguiente de la Legislatura, de las labores desarrolladas, presentando al efecto una memoria escrita de sus trabajos, así corno de los expedientes que hubiere formado.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+SECCION B.- DE LA INSTALACION Y LABORES DEL CONGRESO
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ### CAPITULO TERCERO. DEL PODER EJECUTIVO
 
@@ -771,7 +777,7 @@ c).- El Gobernador interino cuando haya desempeñado el cargo en los dos último
 
 SECCON A.- DE SU ORGANIZACION
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
 ###### ARTICULO 60.
 
@@ -893,7 +899,9 @@ I.- Publicar en su caso, cumplir y hacer cumplir las Leyes Federales que no meno
 
 II.- Promulgar, publicar y ejecutar las leyes y decretos que expida el Congreso del Estado, reglamentando su observancia en la esfera administrativa;
 
-III.- Proveer a la administración interior del Estado y cuidar de la conservación del orden, tranquilidad y seguridad sociales;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1980)</small>
+
+III.- Coordinar, en base a los principios de la Ciencia de la Administración Pública, en forma permanente y continua los recursos humanos, materiales, técnicos y financieros del Estado, con el fin de lograr la mayor eficiencia y eficacia en la producción de bienes y servicios inherentes al beneficio económico, social y cultural del pueblo y cuidar del orden, tranquilidad y seguridad sociales;
 
 IV.- Iniciar ante el Congreso leyes y decretos;
 
@@ -919,7 +927,9 @@ XIV.- Presentar al Congreso, dentro del primer período ordinario de sesiones pe
 
 XV.- Hacer transferencias de las partidas del Presupuesto de Egresos, dando aviso oportuno al Congreso;
 
-XVI.- Presentar ante el Congreso las ternas respectivas para la elección de Magistrados del Supremo Tribunal de Justicia;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1980)</small>
+
+XVI.- Designar a los Magistrados del Supremo Tribunal de Justicia, sometiendo tal designación a la aprobación del Congreso;
 
 XVII.- Concertar créditos, cuando así lo demanden las condiciones del erario estatal, para la satisfacción de las necesidades administrativas;
 
@@ -951,7 +961,7 @@ XXVIII.- Crear por derecho, organismos descentralizados, empresas de participaci
 
 > <small>(ADICIONADA, P.O. 26 DE JULIO DE 1979)</small>
 
-XXIX.- Fomentar y estimular la creación de industrias y empresas rurales, buscando la participación armónica del capital y del trabajo en una verdadera alianza para la producción;
+XXIX.- Fomentar y estimular la creación de industrias y empresas rurales, buscando la participación armónica del capital y del trabajo en una verdadera alianza para la producción,
 
 > <small>(ADICIONADA, P.O. 26 DE JULIO DE 1979)</small>
 
@@ -961,11 +971,11 @@ XXX.- Las demás que expresamente le confieren esta Constitución y las Leyes Re
 
 SECCION D.- DEL SECRETARIO GENERAL DE GOBIERNO
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
 ###### ARTICULO 71.
 
-Para el auxilio en el despacho de los asuntos competencia del Poder Ejecutivo habrá un Secretario General de Gobierno.
+Para el auxilio en el despacho de los asuntos competencia del Poder Ejecutivo, sin que sea limitativo, habrá un Secretario General de Gobierno, un Secretario de Finanzas, un Secretario de Justicia, un Secretario de Obras Públicas y un Oficial Mayor; cuyas facultades generales se establecen en la Ley Orgánica de la Administración Pública.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -993,11 +1003,13 @@ Son facultades y obligaciones del Secretario General de Gobierno:
 
 I.- Refrendar los reglamentos, decretos, iniciativas, acuerdos de observancia general, nombramientos, convenios con el Gobierno Federal y con los Gobiernos Estatales y otros documentos que a juicio del Gobernador deberá refrendar;
 
-II.- Ser, en auxilio del Gobernador, el órgano de comunicación oficial entre éste y los funcionarios y empleados del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1980)</small>
 
-III.- Encargarse del despacho del Poder Ejecutivo durante las faltas temporales del Gobernador que no excedan de tres meses; y
+II.- Encargarse del despacho del Poder Ejecutivo durante las faltas temporales del Gobernador que no excedan de tres meses; y
 
-IV.- Desempeñar las comisiones y cargos que las leyes expresamente le confieran.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1980)</small>
+
+III.- Desempeñar las comisiones y cargos que las leyes expresamente le confieran.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1041,19 +1053,19 @@ Las contribuciones serán decretadas por el Congreso en cantidad suficiente para
 
 Los habitantes del Estado y quienes residiendo en él tuvieren bienes en su territorio o ejecuten actos que deben surtir efectos en él mismo, estan obligados a contribuir para los gastos públicos de la Entidad de la manera que señalen las leyes relativas.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
 ###### ARTICULO 78.
 
-La recaudación de las contribuciones se encomienda a una oficina que se denomina Tesorería General del Estado.
+La coordinación, planeación y control de la Hacienda Pública del Estado, estará a cargo de un Secretario de Finanzas, dependiente del Ejecutivo, cuyas atribuciones determinará la Ley Orgánica de la Administración Pública del Estado.
 
-La Tesorería General del Estado está a cargo de un Tesorero General dependiente del Ejecutivo del Estado, quien deberá satisfacer los requisitos establecidos en el Artículo 72, excepto los señalados en sus fracciones III y V. Para las recaudaciones de las contribuciones y para el pago de los gastos, el Tesorero General deberá sujetarse a la Ley de Ingresos, leyes hacendarias y convenios de coordinación.
+El Secretario de Finanzas, deberá satisfacer los requisitos establecidos en el Artículo 72, excepto los señalados en sus Fracciones III y V.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
 ###### ARTICULO 79.
 
-El Tesorero General del Estado, los funcionarios y los empleados de la Tesorería que manejen fondos públi,cos, (sic) otorgarán ante el Ejecutivo fianza suficiente para garantizar dicho manejo.
+El Secretario de Finanzas así como los funcionarios y empleados de la Dependencia a su cargo, que manejen fondos públicos, otorgarán ante el Ejecutivo fianza suficiente para garantizar su manejo.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1083,29 +1095,41 @@ II.- Promover lo necesario en la esfera de su competencia, para que la administr
 
 III. Intervenir en todos los juicios en que se ventilen intereses de los ausentes, ignorados, menores o incapacitados y en los que se interesen establecimientos de beneficencia pública y de bienestar social a los cuales representará.
 
-IV.- Intervenir, por conducto del Procurador General de Justicia, en todos los asuntos en que el Estado sea parte, fungiendo además este funcionario como Consejero Jurídico del Gobierno; y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1980)</small>
+
+IV.- Intervenir por conducto del Secretario de Justicia, en todos los asuntos en que el Estado sea parte, salvo lo referente al interés fiscal en que se atenderá a las disposiciones del Gobernador del Estado para la Representación de la Secretaría de Finanzas.
 
 V.- Las demás que ésta Constitución y leyes respectivas le señalen.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
 ###### ARTICULO 83.
 
-El ejercicio de las funciones del Ministerio Público se deposita en un Procurador General de Justicia, un Subprocurador y en los Agentes que determine la ley respectiva, los que serán nombrados y removidos libremente por el Gobernador del Estado.
+El ejercicio de las funciones del Ministerio Público se deposita en un Secretario de Justicia, un Subsecretario y en los Agentes que determine la Ley respectiva, los que serán nombrados y removidos libremente por el Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 1980)</small>
 
 ###### ARTICULO 84.
 
-Para ser Procurador General de Justicia o Subprocurador se requiere:
+Para ser Secretario de Justicia o Subsecretario se requiere:
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 I.- Ser ciudadano duranguense por nacimiento, en pleno ejercicio de sus derechos;
 
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 II.- Ser mayor de 28 años de edad;
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 III.- Tener cuando menos dos años de residencia efectiva en el Estado, inmediatamente anteriores al día del nombramiento;
 
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
 IV.- Poseer, el día del nombramiento, con antigüedad mínima de cinco años, título profesional de Licenciado en Derecho; y
+
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 V.- No haber sido condenado a más de un año de prisión excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, cualquiera que hubiere sido la pena impuesta.
 
@@ -1115,11 +1139,11 @@ V.- No haber sido condenado a más de un año de prisión excepto el caso de del
 
 Para ser Agente del Ministerio Público se deben satisfacer los requisitos que al efecto establece la ley reglamentaria respectiva.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
 ###### ARTICULO 86.
 
-El Subprocurador suplirá al Procurador General de Justicia en sus faltas temporales.
+El Subsecretario de Justicia suplirá al Secretario de Justicia en sus faltas temporales.
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1155,37 +1179,45 @@ Para ocupar los cargos a que se refiere el Artículo anterior, se deben satisfac
 
 El Poder Judicial del Estado se deposita para su ejercicio en:
 
-I.- El Supremo Tribunal de Justicia del Estado:
+1o.- El Supremo Tribunal de Justicia del Estado;
 
-II.- Los Jueces de Primera Instancia;
+2o.- Los Juzgados de Primera Instancia;
 
-III.- Los Jueces Menores;
+3o.- Los Juzgados Menores;
 
-IV.- Los Jueces Municipales; y
+4o.- Los Juzgados Municipales;
 
-V.- Los Jueces Auxiliares.
+5o.- Los Juzgados Auxiliares; y
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+6o.- Los funcionarios y auxiliares de la administración de Justicia en los términos que establezca la Ley.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
 ###### ARTICULO 91.
 
-La competencia del Supremo Tribunal de Justicia, el funcionamiento del Pleno y de las Salas, las atribuciones de los Magistrados, el número y competencia de los Jueces y las responsabilidades en que incurran éstos y los demás funcionarios y empleados del Poder Judicial, se regirán por lo que dispone esta Constitución y las Leyes relativas.
+La competencia del Supremo Tribunal de Justicia, el funcionamiento del Pleno y de las Salas, las atribuciones de los Magistrados, el número y competencia de los Jueces, la división del Estado en Distritos Judiciales, las responsabilidades en que incurren aquellos, así como los demás funcionarios y empleados del Poder Judicial, se regirán por lo que dispone esta Constitución y las Leyes relativas.
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 SECCION B.- DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
 ###### ARTICULO 92.
 
-El Supremo Tribunal de Justicia del Estado se integra por seis Magistrados numerarios y seis Magistrados supernumerarios: éstos últimos suplirán a aquéllos en sus faltas temporales y también, temporalmente, en sus faltas definitivas, a cuyo efecto serán llamados en el orden numérico en que hubieren sido electos.
+El Supremo Tribunal de Justicia del Estado se integra por siete Magistrados numerarios y siete Magistrados supernumerarios; éstos últimos suplirán a aquéllos en sus faltas temporales y también, temporalmente, en sus faltas definitivas, a cuyo efecto serán llamados en el orden numérico en que hubieren sido electos.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
 ###### ARTICULO 93.
 
-Los Magistrados serán elegidos por el Congreso del Estado de entre los ciudadanos que integren las ternas que para cada caso presente el Ejecutivo.
+Los nombramientos de los Magistrados del Supremo Tribunal de Justicia serán hechos por el Gobernador del Estado y sometidos a la aprobación del Congreso del Estado, el que otorgará o negará esa aprobación dentro del improrrogable término de quince días. Si el Congreso no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos.
+
+Si el Congreso no ratifica el nombramiento el Gobernador hará una segunda designación que surtirá sus efectos, desde luego, como provisional, debiendo someterse a la aprobación del Congreso en el siguiente período de Sesiones. En este Período de Sesiones dentro de los primeros cinco días hábiles, el Congreso deberá aprobar o reprobar el nombramiento. Si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo.
+
+Si el Congreso desaprueba el nombramiento, cesará desde luego en sus funciones el Magistrado provisional y el Gobernador someterá nuevo nombramiento a la aprobación del Congreso en los términos señalados.
+
+La renuncia de los Magistrados se presentará ante el Titular del Ejecutivo, el que de encontrarla procedente la turnará con su opinión al Congreso para su aceptación definitiva. En este caso, se observará el procedimiento señalado para los efectos de la nueva designación.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1213,11 +1245,13 @@ Cuando alguno o algunos de los Magistrados no se presenten a rendir la protesta 
 
 Los Magistrados solo podrán ser removidos de sus cargos por el Congreso, cuando se les declare culpables en previo juicio de responsabilidad o cuando sobrevenga una incapacidad física o mental que los imposibilite para desempeñarlos.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
 ###### ARTICULO 96.
 
 El Supremo Tribunal de Justicia tendrá un Presidente que será el Magistrado electo cada año por mayoría de votos de sus miembros.
+
+El Magistrado Presidente no integrará Sala y sus actividades se dirigirán a vigilar el estricto cumplimiento de las determinaciones del Tribunal Pleno, a representar oficialmente al Supremo Tribunal y a cuidar de la Administración de Justicia, conforme las obligaciones que además le fijan las Leyes.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1243,9 +1277,9 @@ VIII.- Formular su Reglamento Interior;
 
 IX.- Dirimir los conflictos que surjan entre los Ayuntamientos y los Poderes del Estado;
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 1977)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1980)</small>
 
-X.- Rendir, ante el Congreso el día 31 de Julio de cada año, por voz del Presidente, un informe anual sobre el estado de la administración de justicia;
+X.- Rendir ante el Congreso el día treinta y uno de Julio de cada año, por voz de su Presidente, un Informe anual sobre el estado de la Administración de Justicia y sobre los movimientos de Ingresos y Egresos del Fondo Auxiliar para la Administración de Justicia;
 
 XI.- Las demás que le confieren esta Constitución y las leyes;
 
@@ -1794,3 +1828,9 @@ Se abroga el Decreto número 9, expedido el 21 de Noviembre de 1977, publicado e
 ###### ARTICULO SEGUNDO.
 
 Las presentes adiciones y reformas a la Constitución Política del Estado Libre y Soberano de Durango entrarán en vigor treinta días después de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE MAYO DE 1980.
+
+Artículo Primero.- El presente Decreto entrará en vigor un día después de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Lo relativo al aumento a siete Magistrados como integrantes del Supremo Tribunal de Justicia del Estado entrará en vigor a partir de la designación que se haga sobre las personas que empezarán a fungir su período el próximo 15 de Septiembre de 1980.
