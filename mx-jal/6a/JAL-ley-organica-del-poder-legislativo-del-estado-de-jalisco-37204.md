@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2004-08-19"
+last_updated: "2004-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2004.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -357,6 +357,12 @@ III. El acta en la que conste el nombre del Diputado que haya sido designado o e
 
 2. La asignación definitiva de las áreas que correspondan a las Fracciones o Grupos Parlamentarios está a cargo de la Junta de Coordinación Política del Congreso del Estado.
 
+(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004) (F. DE E., P.O. 19 DE FEBRERO DE 2005)
+
+Artículo 28 Bis
+
+I. Los grupos parlamentarios a través de sus coordinadores, deberán entregar a la Comisión de Administración un informe trimestral sobre la aplicación de los recursos económicos y materiales que les son asignados a los grupos parlamentarios, anexando la documentación comprobatoria que justifique las erogaciones realizadas; los cuales deberán ser publicados en la página de internet del Congreso del Estado.
+
 ## TÍTULO CUARTO. ÓRGANOS DE DIRECCIÓN
 
 ### CAPÍTULO II. Junta de Coordinación Política
@@ -591,7 +597,9 @@ I. Preparar los elementos necesarios para la instalación de la Legislatura;
 
 II. Fungir como secretario, cuando así se le requiera, de la Junta de Coordinación Política;
 
-III. Dirigir los trabajos y supervisar el cumplimiento de las atribuciones y el correcto funcionamiento de las Direcciones y demás dependencias o unidades administrativas a su cargo;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+III. Dirigir los trabajos y supervisar el cumplimiento de las atribuciones y el correcto funcionamiento de las Direcciones y demás dependencias o unidades administrativas a su cargo; así como proponer los manuales de conformidad con el Reglamento;
 
 IV. Asistir a las sesiones de la Asamblea, colaborar con la Mesa Directiva para el desarrollo de las mismas y ejecutar las instrucciones que ésta dicte;
 
@@ -599,7 +607,9 @@ V. Formular las actas de las sesiones de la Asamblea y presentarlas para su revi
 
 VI. Coordinar, previo acuerdo con la presidencia de la Mesa Directiva y con el Presidente de la Comisión de Administración, las labores de los empleados;
 
-VII. Actuar como Jefe de Personal, asumiendo la responsabilidad de los trabajos encomendados a éste;
+(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2004) (F. DE E., P.O. 19 DE FEBRERO DE 2005)
+
+VII. Actuar como Jefe de Personal de los servidores del Congreso y de sus órganos técnicos auxiliares para todos los efectos legales, sin menoscabo de las facultades que en materia de administración de recursos humanos confieren a otros servidores públicos la presente ley y demás ordenamientos;
 
 VIII. Elaborar programas tendientes a la capacitación y formación permanente de los integrantes de la Secretaría General;
 
@@ -611,7 +621,9 @@ XI. Llevar al corriente los libros de leyes, decretos y acuerdos, así como las 
 
 XII. Cuidar el Archivo General del Poder Legislativo de acuerdo con las disposiciones que establezca el Comité de Biblioteca, Archivo y Editorial;
 
-XIII. Elaborar y mantener actualizado el inventario pormenorizado de los bienes inmuebles, muebles y enseres del Congreso del Estado y sus órganos auxiliares, enviar la información referente a éstos que señale la ley estatal en materia de bienes y cuidar de la conservación de los mismos;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+XIII. Administrar el patrimonio del Congreso de conformidad con los reglamentos y disposiciones de carácter interno que establezca la Asamblea y la Comisión de Administración, así como mantener actualizado el inventario de los bienes inmuebles, muebles y enseres del Congreso y sus órganos auxiliares;
 
 XIV. Ejecutar las instrucciones de la Asamblea, a petición del Comité de Biblioteca, Archivo y Editorial, para realizar obras editoriales del Congreso del Estado y administrar la librería;
 
@@ -621,7 +633,17 @@ XVI. Apoyar a los diputados para el correcto desarrollo del proceso legislativo;
 
 XVII. Coordinar y supervisar las actividades que desarrollan los módulos de información y enlace que el Congreso del Estado establece en las distintas regiones del Estado; y
 
-XVIII. Las demás que le confieran la presente ley y su reglamento.
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+XVIII. Recibir y custodiar los ingresos económicos del Poder Legislativo, y llevar la contabilidad de las operaciones derivadas del ejercicio presupuestal;
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+XIX. Solventar conforme a los lineamientos generales establecidos por la Asamblea y de acuerdo con las previsiones del Presupuesto de Egresos los gastos ordinarios en que incurran las unidades administrativas a su cargo; y
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+XX. Las demás que le confieran la presente ley y su reglamento.
 
 ###### Artículo 50.
 
@@ -651,11 +673,19 @@ d) Dirección de Servicios Generales, responsable del mantenimiento de los biene
 
 2. La organización de las direcciones, así como sus atribuciones especificas, se regulan en las disposiciones reglamentarias respectivas.
 
+(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004) (F. DE E., P.O. 19 DE FEBRERO DE 2005)
+
+3. El Secretario General podrá en cualquier momento delegar sus funciones en forma general o especial a sus servidores subalternos, siempre que lo consigne por escrito y con apego a las disposiciones reglamentarias, sin perjuicio de que las ejerza directamente cuando las estime pertinente.
+
 ###### Artículo 51.
 
 1. Además de la Secretaría General, funcionan órganos técnicos, auxiliares de las funciones del Congreso del Estado o de sus comisiones legislativas.
 
 2. Los órganos técnicos del Congreso del Estado cuentan con autonomía técnica y de gestión en sus labores y se regulan por lo dispuesto en la ley y disposiciones reglamentarias.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+3. La autonomía técnica que esta ley reconoce a los órganos técnicos auxiliares, deberá consistir en el ejercicio, bajo principios de independencia, imparcialidad profesional de sus integrantes de acuerdo a las facultades que establezcan las leyes, el Reglamento y los manuales de operación respectivos.
 
 ### CAPÍTULO III. Órgano Técnico de Responsabilidades
 
@@ -1381,7 +1411,9 @@ IV. Las políticas, planes y programas de difusión en materia de turismo.
 
 ###### Artículo 103.
 
-1. Corresponde a la Comisión de Vialidad y Transporte el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+1. Corresponde a la Comisión de Vialidad, Transporte y Comunicaciones el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
 I. La legislación de la materia;
 
@@ -1429,7 +1461,13 @@ VI. Las políticas, planes y programas para la difusión y fortalecimiento de la
 
 ###### Artículo 108.
 
-1. Las iniciativas y los asuntos turnados a las comisiones deben dictaminarse en un plazo no mayor a sesenta días naturales, contados a partir de la fecha de su recepción, salvo que la iniciativa o asunto requiera, a juicio de la comisión, plazo mayor; caso en el cual puede solicitar a la Asamblea autorice la prórroga para dictaminar, dentro de un plazo no mayor a treinta días naturales seguidos a la concesión.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+1. Las iniciativas y los asuntos turnados a las comisiones deben dictaminarse en un plazo no mayor a sesenta días naturales, contados a partir de la fecha de su recepción, salvo:
+
+I. La iniciativa o asunto requiera, a juicio de la comisión, plazo mayor; caso en el que pueda solicitar a la Asamblea autorice la prórroga para dictaminar, dentro de un plazo no mayor a treinta días naturales seguidos a la concesión, o
+
+II. Se trate de juicios políticos o de procedencia de juicio penal, en cuyo caso se regirán por los términos y plazos que señala la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
 
 2. Las iniciativas provenientes de los ciudadanos conforme a la fracción V del artículo 28 de la Constitución Política del Estado, que se presenten conforme al procedimiento que señala la ley de la materia, deben ser dictaminadas en el plazo que determina la ley estatal en materia de participación ciudadana.
 
@@ -1479,7 +1517,9 @@ VI. Las políticas, planes y programas para la difusión y fortalecimiento de la
 
 ###### Artículo 116.
 
-1. Los Presidentes de las comisiones deben informar al Comité de Control de Proceso Legislativo de las ausencias de los diputados a las reuniones de trabajo, siempre que las faltas sean injustificadas.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+1. Los presidentes de las comisiones deben informar al Comité de Proceso Legislativo, de las ausencias de los diputados a las reuniones de trabajo, siempre que las faltas sean injustificadas.
 
 ### CAPÍTULO V. Discusiones
 
@@ -1737,7 +1777,9 @@ IV. A los ayuntamientos, en asuntos de competencia municipal; y
 
 V. A los ciudadanos inscritos en el Registro Nacional de Ciudadanos correspondiente al Estado, cuyo número represente cuando menos el 0.5 por ciento del total de dicho registro, mediante escrito presentado en los términos y formalidades que exija la ley de la materia.
 
-2. El ejercicio de la facultad de iniciativa, en cualquiera de los casos señalados en los numerales inmediatos anteriores, no supone que el Congreso del Estado deba aprobar las iniciativas así presentadas, sino únicamente que las mismas deben ser valoradas mediante el procedimiento legislativo, con las modalidades específicas que, en su caso, fijen las leyes.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+2. El ejercicio de la facultad de iniciativa, en cualquiera de los casos señalados en las fracciones inmediatas anteriores, no supone que el Congreso del Estado deba aprobar las iniciativas así presentadas, sino únicamente que las mismas deben ser valoradas mediante el procedimiento legislativo, con las modalidades específicas que, en su caso, fijen las leyes.
 
 3. La presentación de una iniciativa no genera derecho a persona alguna, únicamente supone el inicio del procedimiento legislativo que debe agotarse en virtud del interés público.
 
@@ -1792,6 +1834,10 @@ I. Exposición de motivos con los siguientes elementos:
 a) Explicación de la necesidad y fines perseguidos por la iniciativa; y
 
 b) Análisis de las repercusiones que en caso de llegar a aprobarse podría tener en los aspectos jurídico, económico, social o presupuestal.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+c) Motivar cada uno de los artículos que se adicionan, reforman o derogan;
 
 II. Artículos que debe contener la ley, el decreto o acuerdo legislativo correspondiente; y
 
@@ -2247,7 +2293,9 @@ I. Empieza por el Secretario situado a la derecha del Presidente y sigue en el s
 
 ###### Artículo 219.
 
-1. Para la elección o en su caso ratificación de los magistrados del Supremo Tribunal de Justicia del Estado; del Tribunal Electoral y del Tribunal Administrativo del Estado de Jalisco; de los Consejeros del Consejo General del Poder Judicial; del Procurador General de Justicia; del Procurador de Desarrollo Urbano; del Presidente y Consejeros del Consejo Electoral del Estado; y del Presidente y Consejeros de la Comisión Estatal de Derechos Humanos se está a lo que establecen la Constitución Política del Congreso del Estado y la legislación aplicable.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+
+1. Para la elección o en su caso ratificación de los magistrados del Supremo Tribunal de Justicia del Estado; del Tribunal Electoral y del Tribunal Administrativo del Estado de Jalisco; de los Consejeros del Consejo General del Poder Judicial; del Procurador General de Justicia; del Procurador de Desarrollo Urbano; del Presidente y Consejeros del Consejo electoral del Estado; y del Presidente y Consejeros de la Comisión Estatal de Derechos Humanos se está a lo que establecen la Constitución Política del Estado y la legislación aplicable.
 
 ###### Artículo 220.
 
@@ -2500,3 +2548,17 @@ UNICO.- El presente decreto entrará en vigor el día de su publicación en el P
 P.O. 19 DE AGOSTO DE 2004.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente a la entrada en vigor del decreto número 20514 que contiene reformas al artículo 111 de la Constitución Política del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco ".
+
+P.O. 9 DE NOVIEMBRE DE 2004.
+
+DECRETO NO. 20689 QUE REFORMA EL ARTICULO 108
+
+UNICO.- El presente decreto entrará en vigor al día de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 9 DE NOVIEMBRE DE 2004.
+
+DECRETO NO. 20690 QUE REFORMA DIVERSOS ARTICULOS
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- La Comisión de Puntos Constitucionales, Estudios Legislativos y Reglamentos, deberá presentar en un plazo no mayor a 120 días naturales, la iniciativa de reformas al Reglamentos, de la Ley Orgánica del Poder Legislativo del Estado, que resulten necesarias para adecuarlo al presente decreto.
