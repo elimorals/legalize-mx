@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1997-05-29"
+last_updated: "2000-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,23 +21,33 @@ state: "DUR"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
+LEY PARA LA ATENCIÓN INTEGRAL DEL CONSUMO DE SUSTANCIAS PSICOACTIVAS DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE AGOSTO DE 2012.
 
-Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
+Ley publicada en la Gaceta Oficial del Distrito Federal, el miércoles 29 de diciembre de 2010.
 
-CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
+(Al margen superior un escudo que dice: Ciudad de México.- Capital en Movimiento)
 
-EXPEDIDA POR EL XXVI CONGRESO CONSTITUCIONAL DEL MISMO, CON EL CARACTER DE CONSTITUYENTE.
+MARCELO LUIS EBRARD CASAUBON, Jefe de Gobierno del Distrito Federal, a sus habitantes sabed:
 
-DOMINGO ARRIETA, Gobernador Constitucional del Estado Libre y Soberano de Durango, a sus habitantes, sabed:
+Que la H. Asamblea Legislativa del Distrito Federal, V Legislatura, se ha servido dirigirme el siguiente:
 
-Que la Legislatura del mismo ha tenido a bien dirigirme el siguiente decreto número 11:
+DECRETO
 
-El XXVI H. Congreso del Estado de Durango, con el carácter de Constituyente, a nombre del pueblo, decreta la siguiente Constitución Política del mismo Estado.
+(Al margen superior izquierdo el Escudo Nacional que dice: ESTADOS UNIDOS MEXICANOS.- ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.- V LEGISLATURA)
 
-LA H. LII LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A NOMBRE DEL PUEBLO DECRETA:
+ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
+
+V LEGISLATURA.
+
+D E C R E T A
+
+DECRETO POR EL QUE SE EXPIDE LA LEY PARA LA ATENCIÓN INTEGRAL DEL CONSUMO DE SUSTANCIAS PSICOACTIVAS DEL DISTRITO FEDERAL.
+
+Artículo Único.- Se expide la Ley para la Atención Integral del Consumo de Sustancias Psicoactivas del Distrito Federal, para quedar como sigue:
+
+LEY PARA LA ATENCIÓN INTEGRAL DEL CONSUMO DE SUSTANCIAS PSICOACTIVAS DEL DISTRITO FEDERAL
 
 ###### ARTICULO UNICO.
 
@@ -49,1253 +59,1155 @@ CONSTITUCION POLITICA DEL ESTADO DE DURANGO
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-## TITULO PRIMERO
+## TÍTULO PRIMERO. FUNDAMENTOS BÁSICOS
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+### Capítulo Primero. Disposiciones generales
 
-### CAPITULO PRIMERO. DE LOS DERECHOS PUBLICOS INDIVIDUALES Y SOCIALES
+###### Artículo 1°.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+Las disposiciones de la presente Ley son de orden público, interés social y de observancia general en el Distrito Federal. Los derechos que deriven de ella serán aplicables a todas las personas que habitan y transitan en el Distrito Federal con un enfoque de derechos humanos y de perspectiva de género, teniendo por objeto lo siguiente:
 
-###### ARTICULO 1.
+I. Establecer las bases de política pública en materia de atención integral del consumo de sustancias psicoactivas en el Distrito Federal, a partir de un enfoque preventivo, con irrestricto respeto a los derechos humanos y que atienda las necesidades diferenciadas en función del género;
 
-En el Estado de Durango todas las personas gozan de los derechos públicos individuales y de los derechos públicos sociales que la Constitución Federal les otorga, los que no podrán suspenderse ni restringirse si no en los casos y condiciones previstos en la misma. Disfrutan además de las garantías que esta Constitución establece.
+II. Definir la coordinación de políticas, programas y acciones, así como la inversión y asignación de recursos públicos para la atención integral del consumo de sustancias psicoactivas;
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+III. Prever servicios para la atención integral del consumo de sustancias psicoactivas, que contemple los modelos de intervención profesional, de ayuda mutua y mixtos, atendiendo a la diversidad social, los variados contextos y características donde se presenta la problemática de consumo y la situación en particular de la persona con consumo de sustancias psicoactivas, considerándola como sujeto de derechos;
 
-###### ARTICULO 2.
+IV. Establecer los principios, procedimientos y criterios para la creación, fortalecimiento, supervisión, monitoreo, evaluación y actualización de servicios de educación, atención y asistencia para la prevención, reducción de daño y tratamiento del consumo de sustancias psicoactivas;
 
-En el Estado de Durango queda prohibida toda clase de servidumbre que implique la explotación o menoscabo de la dignidad de los trabajadores; las leyes reconocerán la diversidad cultural y protegerán y promoverán el desarrollo de las etnias duranguenses, de sus lenguas, valores culturales, usos, costumbres, recursos y formas de organización social.
+V. Promover la participación social como un factor de corresponsabilidad en la prevención y reducción del consumo de sustancias psicoactivas, para eliminar la discriminación hacia las personas con consumo de dichas sustancias, favoreciendo el libre desarrollo de su personalidad y ejercicio de sus derechos;
 
-> <small>(REFORMADO, P.O. 17 DE JULIO DE 1994)</small>
+VI. Fomentar la sana convivencia familiar y en la comunidad, promoviendo un ambiente libre de consumo de sustancias psicoactivas en el Distrito Federal mediante acciones preventivas, poniendo especial atención a la población infantil y juvenil para disminuir los factores de riesgo;
 
-###### ARTICULO 3.
+VII. Delinear la política general de prevención del consumo de sustancias psicoactivas del Distrito Federal, a través de un enfoque educativo en la sociedad para identificar, evitar, reducir, regular o eliminar su consumo como riesgo para la salud, así como sus consecuencias físicas, psíquicas, económicas, familiares y sociales;
 
-En el Estado de Durango, toda persona tiene derecho a la libertad, la seguridad personal, un medio ambiente sano, vivienda digna y decorosa, adecuada a las necesidades del hogar, al trabajo y a la educación, en el caso de las etnias duranguenses, esta será bilingüe y respetando sus costumbres y tradiciones.
+VIII. Promover la generación de conocimiento científico y académico respecto al consumo de sustancias psicoactivas, así como de su prevención, reducción de daño y asistencia médica, con la finalidad de contar con elementos científicos en los procesos relacionados con la aplicación de la presente Ley;
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 1994)</small>
+IX. Establecer métodos y estrategias que respeten los derechos humanos de las personas con consumo de sustancias psicoactivas, diseñando alternativas de prevención, tratamiento, rehabilitación e integración comunitaria, con la participación de los diversos sectores sociales, ubicando la problemática materia de la presente Ley como un fenómeno que impacta en la estructura social;
 
-###### ARTICULO 4.
+X. Integrar una Red Interinstitucional que agrupe a las instituciones públicas, privadas y organizaciones de la sociedad civil relacionadas con la atención integral del consumo de sustancias psicoactivas;
 
-La educación que se imparta en el estado de Durango se sujetará a lo dispuesto en el Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y su legislación reglamentaria, de acuerdo al federalismo educativo derivado del régimen de concurrencia de facultades en materia educativa.
+XI. Implementar mecanismos para coadyuvar con las autoridades federales competentes en la vigilancia y supervisión de los establecimientos especializados en adicciones;
 
-Las particulares podrán impartir educación en todos sus tipos y modalidades, debiendo obtener autorización expresa o reconocimiento del poder público, en cada caso, en los términos que establezcan la legislación federal y estatal en materia educativa.
+XII. Fomentar el financiamiento público y privado para el diseño y aplicación de políticas públicas de atención integral del consumo de sustancias psicoactivas, y
 
-En los términos de la legislación aplicable, el Gobierno del Estado podrá otorgar, negar y revocar autorización a los particulares para impartir educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica; también podrá otorgar, negar y retirar el reconocimiento de validez oficial a estudios distintos a los señalados en este párrafo.
+XIII. Establecer la organización y funcionamiento del Instituto para la Atención y Prevención de las Adicciones en la Ciudad de México.
 
-Además de impartir la educación básica, el Gobierno del Estado, promoverá y prestará la educación -media superior- y la superior; asimismo promoverá la investigación científica y tecnológica y la difusión de la cultura duranguense en el contexto de la cultura nacional.
+###### Artículo 2°.
 
-El Poder Ejecutivo del Estado podrá otorgar, mediante decreto, el estatus de escuelas libres de educación superior, a aquellas instituciones educativas particulares que lo soliciten y cumplan con los requisitos exigidos por la legislación aplicable.
+Los habitantes del Distrito Federal, independientemente de su edad, género, condición económica o social, orientación sexual, identidad étnica, discapacidad o cualquiera otro, tienen derecho a la protección integral de la salud.
 
-El Congreso expedirá las leyes que regulen la prestación del servicio educativo en el ámbito de la competencia estatal y establecerá las sanciones y los procedimientos aplicables a quienes infrinjan, no cumplan o no hagan cumplir las disposiciones relativas. Asimismo, deberá fijar las partidas presupuestales y en general las aportaciones financieras suficientes destinadas a ese servicio público.
+La prestación de servicios en materia de prevención que ofrezca el Gobierno del Distrito Federal, serán de manera gratuita, eficiente, oportuna y de calidad. En el caso de que se apliquen cuotas de recuperación por la prestación de los servicios de tratamiento, rehabilitación e integración comunitaria que establece la presente Ley, su recaudación se ajustará a lo que dispongan los instrumentos jurídicos aplicables, tomando en cuenta la condición socio económica de las personas que los reciban.
 
-El Congreso expedirá la ley que determine cuales son las profesiones que requieran título para su ejercicio, las condiciones que deban llenarse para obtenerlo y las autoridades facultadas para expedirlo.
+###### Artículo 3°.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+Para los fines de esta Ley, se entenderá por:
 
-###### ARTICULO 5.
+I. Adicción o dependencia: estado psicofísico causado por la interacción de un organismo vivo con un fármaco, alcohol, tabaco u otra droga, caracterizado por modificación del comportamiento y otras reacciones que comprenden siempre un impulso irreprimible por tomar dicha sustancia en forma continua o periódica, a fin de experimentar sus efectos psíquicos y a veces para evitar el malestar producido por la privación;
 
-A toda petición deberá recaer un acuerdo de la autoridad a quien se haya formulado, en el que ésta expresará, motivada y fundamente (sic), si concede, o niega lo solicitado. La autoridad tiene obligación de notificar su resolución al peticionario dentro del término que señalen las leyes aplicables y que en ningún caso excederá de noventa días naturales, contados a partir de la fecha en que se presentó la solicitud.
+II. Administración Pública: dependencias, entidades y órganos político administrativos que conforman la Administración Pública del Distrito Federal;
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 1988)</small>
+III. Asamblea Legislativa: la H. Asamblea Legislativa del Distrito Federal;
 
-###### ARTICULO 6.
+IV. Atención integral del consumo de sustancias psicoactivas: todas las acciones sociales y sanitarias necesarias de corto, mediano y largo plazo, que tengan por objeto contribuir en el mejoramiento de la calidad de vida y las condiciones para el ejercicio pleno de los derechos de las personas con consumo de sustancias psicoactivas, con el fin de superar las afectaciones en el área familiar, ocupacional, social, económica, legal o física que en cada caso sea causa de dicho consumo;
 
-No deben expedirse ni aplicarse leyes privativas; nadie será juzgado por Tribunales o Autoridades Especiales.
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
 
-Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar sus derechos.
+V. Centros de Atención Integral del Consumo de Sustancias Psicoactivas: instituciones públicas dedicadas a la provisión de servicios de atención integral a personas con consumo de sustancias psicoactivas y a la población en general, que estarán coordinadas por la rectoría del Instituto;
 
-Toda persona tiene derecho a que se le administre justicia por Tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las Leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial; sus servicios serán gratuitos, quedando en consecuencia prohibidas las costas judiciales.
+VI. Delegación: órganos político-administrativos en cada una de las demarcaciones territoriales en la que se divide el Distrito Federal;
 
-Nadie puede ser aprisionado por deudas de carácter puramente civil.
+VII. Detección temprana: estrategia que combina la identificación voluntaria por parte de las personas respecto de factores de riesgos, síntomas o daños ocasionados por el consumo de sustancias psicoactivas, para su derivación a tratamiento o intervención específica oportuna y voluntaria;
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 1988)</small>
+VIII. Disminución del daño: procedimiento especializado cuyo propósito es evitar la continuación y reducción de daños fisiológicos y conductuales asociados al consumo de sustancias psicoactivas;
 
-###### ARTICULO 7.
+IX. Enfoque de derechos humanos en las políticas públicas: principio que contempla el diseño, ejecución y evaluación de políticas públicas que tengan como objetivo la promoción y respeto de los derechos humanos y su realización progresiva; respecto a la atención integral del consumo de sustancias psicoactivas, contempla la autonomía, dignidad y protección integral de todos los derechos de las personas con consumo de dichas sustancias;
 
-Toda resolución de autoridad administrativa será de acuerdo a la letra de la Ley y en su caso conforme a la interpretación jurídica de la misma. Para tal objeto se instituye un Tribunal de lo Contencioso Administrativo, dotado de plena autonomía; que tendrá a su cargo dirimir las controversias que se susciten entre la Administración Pública Estatal y los Particulares; debiéndose promulgar el decreto que establezca las normas para su organización, funcionamiento, procedimiento y recursos contra sus resoluciones.
+X. Establecimientos especializados en adicciones: establecimientos de carácter público, privado o social, fijos o móviles, cualquiera que sea su denominación, que proporcionan servicios para la atención específica de personas con consumo perjudicial o adicción a sustancias psicoactivas, y que, en cualquier caso, operan bajo un modelo de atención profesional, de ayuda mutua o mixto;
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+XI. Estilo de vida saludable: conjunto de patrones de comportamiento que define e identifica a una persona o un grupo, a través de lo que hace y expresa, que se genera en la familia, la escuela y otros sitios de convivencia mediante la socialización, proceso diario en el que se interactúa con los padres, las autoridades y la comunidad e influida por los medios de comunicación;
 
-###### ARTICULO 8.
+XII. Gobierno: al Gobierno del Distrito Federal;
 
-El patrimonio familiar es inalienable. En ningún caso podrá menoscabarse y no será objeto de embargo, ni de gravamen alguno.
+XIII. Grupos de ayuda mutua: agrupación que ofrece servicios, integrada por personas que viven situaciones similares en recuperación, cuyo propósito fundamental es apoyar a las que consumen sustancias psicoactivas, con base en la experiencia compartida de los miembros del grupo, para lograr la abstinencia de dichas sustancias;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
+XIV. Joven: sujeto de derecho cuya edad comprende el rango entre los 18 y los 29 años de edad, identificado como un actor social estratégico para la transformación y el mejoramiento de la ciudad;
 
-###### ARTICULO 9.
+XV. Instituto: Instituto para la Atención y Prevención de las Adicciones en la Ciudad de México;
 
-Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento.
+XVI. Ley: Ley para la Atención Integral del Consumo de Sustancias Psicoactivas del Distrito Federal;
 
-No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia, acusación o querella de un hecho determinado que la ley señale como delito, sancionando cuando menos con pena privativa de libertad y existen datos que acrediten los elementos que integran el tipo penal y la probable responsabilidad del indiciado.
+XVII. Niña o Niño: todo ser humano menor de 18 años;
 
-La Autoridad que ejecute una orden judicial de aprehensión deberá poner al inculpado a disposición del juez, sin dilación alguna y bajo su mas estricta responsabilidad. La contravención a lo anterior será sancionado por la ley penal.
+XVIII. Participación Ciudadana: derecho de las y los ciudadanos y habitantes del Distrito Federal para intervenir y participar, individual y colectivamente, en las decisiones públicas, en la formulación, ejecución, y evaluación de las políticas, programas y actos de gobierno y en la identificación y solución de problemas comunes;
 
-En los casos de delito flagrante, cualquier persona puede detener al indiciado poniéndolo sin demora a disposición de la autoridad inmediata y esta, con la misma prontitud a la del ministerio público.
+XIX. Participación social en la salud: participación efectiva y concreta de la comunidad en el acuerdo de prioridades, toma de decisiones y elaboración y puesta en marcha de estrategias de planificación para prevenir y atender el consumo de sustancias, para lo cual se requiere acceso a la información y a la instrucción sanitaria, así como garantizar el derecho a la libertad de expresión;
 
-Sólo en casos urgentes, cuando se trate de delito grave así calificado por la ley y ante el riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público, podrá bajo su responsabilidad, ordenar su detención, fundando y expresando los indicios que motiven su proceder.
+XX. Persona usuaria del servicio: toda persona que requiera y obtenga la prestación de cualquier tipo de servicio relacionado con el uso, abuso o dependencia de sustancias psicoactivas;
 
-En casos de urgencia o flagrancia, el juez que reciba la consignación del detenido deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de ley.
+XXI. Persona con consumo de sustancias psicoactivas: persona que consume sustancias psicoactivas ocasional o cotidianamente, con variación en las cantidades y consecuencias individuales y colectivas y que puede llegar a la adicción o dependencia de drogas;
 
-Ningún indiciado podrá ser retenido por el Ministerio Público por mas de cuarenta y ocho horas, plazo en que deberá ordenar su libertad o ponérsele a disposición de la autoridad judicial; este plazo podrá duplicarse en aquellos casos que la Ley prevea como delincuencia organizada. Todo abuso a lo anteriormente dispuesto será sancionado por la ley penal. En toda orden de cateo, que solo la autoridad judicial podrá expedir y que será escrita, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos que se buscan, a lo que únicamente debe limitarse la diligencia, levantándose al concluirla un acta circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado o en su ausencia o negativa, por la autoridad que practique la diligencia. La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía; y exigir la exhibición de los libros y papeles indispensables para comprobar que se han acatado las disposiciones fiscales, sujetándose en estos casos a las leyes respectivas y a las formalidades prescritas para los cateos. Ningún juicio podrá tener más de tres instancias.
+XXII. Perspectiva de Género: concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, la desigualdad y la exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para crear las condiciones de cambio que permitan avanzar en la construcción de la equidad de género;
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+XXIII. Prevención: conjunto de acciones dirigidas a identificar, evitar, reducir o regular el consumo de sustancias psicoactivas, así como los riesgos sanitarios, sus consecuencias físicas, psíquicas, económicas, familiares y sociales;
 
-###### ARTICULO 10.
+XXIV. Programa General: Programa General para la Atención Integral del Consumo de Sustancias Psicoactivas del Distrito Federal;
 
-La correspondencia, sea cual fuere su forma de circulación, estará libre de todo registro y su violación será penada por la Ley.
+XXV. Reducción del daño: conjunto de acciones dirigidas a evitar o reducir situaciones de riesgo y limitar los daños asociados al consumo de sustancias psicoactivas, por lo que se articula necesariamente con la prevención y el tratamiento. No pretende necesariamente la abstinencia. Para el caso de VIH/SIDA, es la estrategia con la que se considera que a través de información a los usuarios sobre el VIH/SIDA, instrucción sobre limpieza adecuada de jeringas, del uso de agujas y jeringas estériles, dotación de condones, cloro, gasa y otros, además de asesoría médica, realización de prueba de detección del VIH, trabajo comunitario de acercamiento a las y los usuarios de drogas inyectadas, formación de grupos interdisciplinarios y consejería sobre uso de drogas, es la manera más segura y efectiva de limitar la transmisión de VIH por los consumidores de drogas inyectadas;
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+XXVI. Rehabilitación: proceso por el cual una persona que presenta trastornos asociados con sustancias psicoactivas alcanza un estado óptimo de salud, funcionamiento psicológico y bienestar social;
 
-###### ARTICULO 11.
+XXVII. Sistema de Salud del Distrito Federal: conjunto de unidades administrativas, órganos desconcentrados y organismos descentralizados del Gobierno y de personas físicas o morales de los sectores social y privado que presten servicios de salud, así como a los mecanismos de coordinación de acciones que se suscriban con dependencias o entidades de la Administración Pública Federal, y
 
-La propiedad es un derecho que debe desempeñar una función social y en el Estado de Durango:
+XXVIII. Sustancia psicoactiva: sustancia que altera algunas funciones psicológicas y a veces físicas, que al ser consumida reiteradamente tiene la probabilidad de dar origen a una adicción. Estos productos incluyen las sustancias, estupefacientes y psicotrópicos clasificados en la Ley General de Salud, aquellos de uso médico, los de uso industrial, los derivados de elementos de origen natural, los de diseño, así como el tabaco y el alcohol.
 
-I.- Es contraria al interés público la tenencia de terrenos rústicos en superficies superiores a los límites que las leyes señalen a la pequeña propiedad;
+###### Artículo 4°.
 
-II.- Se declara de utilidad pública e interés social el aprovechamiento de terrenos urbanos ociosos o desocupados, para beneficio de la colectividad;
+La prestación de servicios en los términos y modalidades establecidas en la presente Ley, se realizará atendiendo a lo dispuesto en los lineamientos que emitan organismos internacionales, la Ley General de Salud, la Ley de Salud del Distrito Federal, las Normas Oficiales Mexicanas en la materia, y demás instrumentos jurídicos aplicables.
 
-III.- Las leyes propiciarán el fraccionamiento, la urbanización, la regeneración urbana, el mejoramiento y la adquisición por parte del Estado de los inmuebles necesarios para resolver los problemas habitacionales de los grupos mayoritarios de la población y en particular de los de más bajo nivel económico, así como para cualesquier otro fin de utilidad pública o de beneficio colectivo, señalando los casos en que proceda la expropiación correspondiente;
+###### Artículo 5°.
 
-IV.- La expropiación de bienes pertenecientes a particulares solo podrán decretarse por causa de utilidad pública, en los casos y de conformidad con el procedimiento que señale la Ley de Expropiación, mediante la indemnización correspondiente; para fijar el monto de ésta tratándose de bienes inmuebles, se atenderá al valor fiscal con que aparezcan registrados en las oficinas catastrales o recaudadoras, ya sea que este valor haya sido manifestado por el propietario, o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones sobre esta base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor fiscal, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de inmuebles cuyo valor no esté fijado en las oficinas recaudadoras o catastrales;
+Las personas usuarias de los servicios de atención integral del consumo de sustancias psicoactivas tienen derecho a:
 
-V.- El patrimonio del Estado se compone de los bienes que son de su propiedad y de los que adquiera conforme a la ley; del producto de las contribuciones decretadas por el Congreso; de los bienes vacantes que estan dentro de su territorio; de los bienes mostrencos; de los créditos que tenga a su favor; de las donaciones, legados, herencias o reintegros que se hagan o se dejen en beneficio del Estado; de los derechos, productos y aprovechamientos; así como de los subsidios y de las participaciones en el rendimiento de impuestos federales que conforme a las leyes deba percibir; y
+I. Acceder voluntariamente a los servicios de detección, prevención, tratamiento y rehabilitación, como parte de la atención integral del consumo de sustancias psicoactivas, en los términos previstos en la presente Ley;
 
-VI.- Los bienes afectos a un servicio proporcionado por el Estado, son inalienables e imprescriptibles. Los bienes del Estado, desafectados de un servicio público y que pasen al dominio privado del Estado podrán ser enajenados, previa autorización del Congreso, mediante los requisitos que señala ésta Constitución y la Ley de Bienes del Estado que expedirá el Congreso.
+II. Recibir tratamiento conforme a los principios médicos científicamente aceptados y con pleno respeto a los derechos humanos;
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
+III. Ser atendidas de manera oportuna, eficiente y con calidad por personal especializado, con respeto a sus derechos, dignidad, vida privada, integridad física y mental, usos y costumbres;
 
-###### ARTICULO 12.
+IV. Recibir información suficiente, clara, oportuna, veraz y apropiada, según su edad, género o identidad étnica, respecto a su estado de salud;
 
-El varón y la mujer, son iguales ante la Ley. Esta protegerá la organización y el desarrollo de la familia.
+V. Ser respetada la confidencialidad de la información relacionada a su estado de salud y protección de datos personales;
 
-No se podrá impedir a nadie el derecho a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos.
+VI. Obtener información precisa y clara sobre el padecimiento, tratamiento que recibirá e indicaciones que deberá seguir para su adecuada evolución;
 
-Es deber de los padres preservar el derecho de sus menores hijos a la satisfacción de sus necesidades y a su salud física y mental. La Ley determinará los apoyos a la protección de los menores, a cargo de las Instituciones Públicas.
+VII. Acudir ante las instancias correspondientes, para presentar y recibir respuesta, en los términos de las disposiciones aplicables, de las quejas, inconformidades y sugerencias que exponga sobre la prestación de la materia;
 
-En el Estado de Durango, todas las personas, en la medida de los recursos económicos de la Administración Pública, gozarán de los siguientes derechos:
+VIII. Recibir atención médica en caso de urgencia;
 
-1o.- Protección asistencial a la maternidad y a la infancia, cuando así lo requiera la situación económica de una o de otra.
+IX. Solicitar la expedición de un certificado médico;
 
-2o.- Prestación de servicio médico-asistenciales y funerarios a personas indigentes; y
+X. Recibir los cuidados paliativos por parte de un equipo profesional multidisciplinario, en caso de ser necesario;
 
-3o.- Otorgamiento de becas cuando se trate de estudiantes indigentes que se hayan distinguido por su aprovechamiento y puedan así continuar sus estudios y perfeccionar sus conocimientos en los centros de educación media y superior.
+XI. Suspender el programa de tratamiento y rehabilitación, y abandonar cuando así lo deseen las unidades médicas bajo su completa responsabilidad, y
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 1987)</small>
+XII. Los demás que le sean reconocidos en el funcionamiento de los sistemas de atención integral del consumo de sustancias psicoactivas y de salud en el Distrito Federal.
 
-###### ARTICULO 13.
+###### Artículo 6°.
 
-La actividad económica estatal será planeada, conducida, coordinada y orientada por el Ejecutivo del Estado quien llevará a cabo la regularización y fomento de las acciones que demande el interés general.
+Las personas usuarias de los servicios de atención integral del consumo de sustancias psicoactivas observarán lo siguiente:
 
-En el desarrollo económico del Estado participarán con responsabilidad social, los sectores público, social y privado sin menoscabo de otras formas de actividad económica. El Ejecutivo Estatal bajo este contexto organizará un Sistema Estatal de Planeación Democrática, la cual recogerá las aspiraciones y demandas de la sociedad para incorporarse al plan y a los programas de desarrollo estatal.
+I. Cumplir las disposiciones aplicables en la prestación de los servicios que se derivan de la presente Ley, tanto las de carácter general como las de funcionamiento interno donde se brinde la atención;
 
-Habrá un Plan Estatal de Desarrollo al cual se sujetarán obligatoriamente los programas de la Administración Pública Estatal.
+II. Seguir el tratamiento e indicaciones que el personal médico le señale con relación a su estado de salud;
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+III. Participar activamente en los programas y actividades de prevención, fomento y cuidado de su salud;
 
-###### ARTICULO 14.
+IV. Procurar cuidado y diligencia en el uso y conservación de las instalaciones, materiales y equipos que se pongan a su disposición, y
 
-Son Duranguenses:
+V. Las demás que les sean asignadas por las disposiciones legales aplicables.
 
-I.- Las personas nacidas en el Estado de Durango;
+###### Artículo 7°.
 
-II.- Los mexicanos que tengan una residencia mínima de cinco años en el Estado y un modo honesto de vivir; y
+Las personas usuarias de los servicios de atención integral del consumo de sustancias psicoactivas cuyo ingreso sea voluntario o en cumplimiento a la imposición de una medida alternativa al proceso judicial a un establecimiento especializado en adicciones, cuentan con los mismos derechos y obligaciones reconocidos en la presente Ley, para lo cual deberá atenderse a lo establecido en las disposiciones respectivas de este ordenamiento jurídico.
 
-III.- Los mexicanos nacidos fuera del territorio del Estado, hijos de padre o madre duranguense.
+###### Artículo 8°.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+La atención integral del consumo de sustancias psicoactivas es un asunto prioritario de la política pública del Distrito Federal. Los principios de actuación del Gobierno en la aplicación de la presente Ley son los siguientes:
 
-###### ARTICULO 15.
+I. La prevalencia del interés general de la sociedad en el diseño de las políticas públicas de atención integral del consumo de sustancias psicoactivas;
 
-Son ciudadanos del Estado los Duranguenses que hayan cumplido 18 años y que tengan un modo honesto de vivir.
+II. La prevención y disminución de los factores de riesgo del consumo de sustancias psicoactivas como eje rector de la política que se derive de la aplicación de la presente Ley;
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+III. La identificación, prevención y atención de las causas que generan el consumo de sustancias psicoactivas para su eliminación dentro del ámbito de competencias;
 
-###### ARTICULO 16.
+IV. El enfoque transversal de las políticas y acciones para la atención integral del consumo de sustancias psicoactivas;
 
-Son derechos y obligaciones de los duranguenses los que para todo mexicano consigna la Constitución General de la República.
+V. La promoción y respeto de los derechos humanos en la prestación de servicios, diseño y aplicación de políticas que se deriven de la atención integral del consumo de sustancias psicoactivas, reconociendo a las personas como sujetos de derechos;
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+VI. La incorporación de la perspectiva de género en el diseño y aplicación de la presente ley, reconociendo las necesidades diferenciadas entre mujeres y hombres;
 
-###### ARTICULO 17.
+VII. La atención especial de la población infantil y juvenil en el diseño de acciones para la atención integral del consumo de sustancias psicoactivas, identificados como grupos de riesgo;
 
-Son prerrogativas del ciudadano duranguense:
+VIII. La educación como mecanismo para fortalecer la responsabilidad individual y social en la construcción y pertenencia de una cultura de prevención del consumo de sustancias psicoactivas;
 
-I.- Votar en las elecciones;
+IX. La coordinación con las autoridades respectivas de la Administración Pública Federal y la concertación de acciones con los sectores social y privado, para el diseño y aplicación de programas y acciones materia de la presente Ley;
 
-II.- Poder ser votado para cargos de elección popular, y nombrado para empleos o comisiones, teniendo los requisitos que establezca la Ley;
+X. La actuación coordinada de la Administración Pública del Distrito Federal, a través de la incorporación de acciones específicas complementarias en los programas educativos, sociales, culturales y de desarrollo a cargo de las diferentes dependencias, entidades y órganos que la conforman;
 
-III.- Tomar las armas en el Ejército o Guardia Nacional para asegurar y defender el territorio, el honor, los derechos o intereses del Estado y de la Nación;
+XI. La cobertura universal y equitativa de los servicios previstos en la presente Ley a las personas que habitan y transitan el Distrito Federal, considerando las necesidades generales y particulares de atención integral del consumo de sustancias psicoactivas;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE MAYO DE 1997)</small>
+XII. La prestación integral de los servicios previstos en la presente Ley, que contempla desde las acciones de prevención hasta la integración comunitaria de las personas usuarias del servicio;
 
-IV.- Asociarse individual, libre y pacíficamente para tratar los asuntos políticos del Estado;
+XIII. El respeto al consentimiento informado de las personas usuarias de los servicios que se deriven de la presente Ley, que implica otorgamiento de información suficiente respecto de los procedimientos a emplear y los riesgos que involucran;
 
-V.- Ejercer en toda clase de negocios el derecho de petición; y
+XIV. La reserva de identidad y protección de datos personales de las personas usuarias de los servicios contemplados en la atención integral del consumo de sustancias psicoactivas, y
 
-VI.- Ser preferido a los extranjeros, y aún a los mexicanos que no sean ciudadanos duranguenses en igualdad de circunstancias para toda clase de concesiones, y para todos los empleos, comisiones o cargos públicos.
+XV. La participación social en las acciones de prevención del consumo de sustancias psicoactivas.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+###### Artículo 9°.
 
-### CAPITULO SEGUNDO. DE LOS HABITANTES DEL ESTADO
+El Gobierno, las Delegaciones, la Asamblea Legislativa y el Instituto, fomentarán la colaboración de las figuras de representación ciudadana establecidas en la legislación en la materia, así como cualquier otro mecanismo de participación comunitaria, de las Asociaciones de Madres y Padres de Familia y Consejos Escolares de Participación Social en el desarrollo de programas en las colonias, pueblos, barrios y unidades habitacionales, para contribuir en la participación informada, permanente y responsable de las personas y de la comunidad en los programas de atención integral del consumo de sustancias psicoactivas, particularmente a través de las siguientes acciones:
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+I. Promoción de hábitos de conducta, que contribuyan a prevenir cualquier tipo de consumo de sustancias psicoactivas, e intervenir, a través de programas de promoción y mejoramiento de la salud, en la prevención de enfermedades y accidentes relacionados con el consumo de dichas sustancias;
+
+II. Incorporación de manera voluntaria en la realización de tareas de asistencia social y participación en determinadas actividades de operación de los servicios de prevención, bajo la dirección de las autoridades correspondientes;
+
+III. Colaboración en la prevención y control de riesgos sanitarios;
+
+IV. Formulación de sugerencias para mejorar los servicios de atención integral del consumo de sustancias psicoactivas, y
+
+V. Las demás actividades que coadyuven a la protección de la salud y al fomento de la cultura de la prevención del consumo de sustancias psicoactivas, de conformidad a las disposiciones aplicables.
+
+La participación social activa e informada en los programas y servicios contemplados en la atención integral del consumo de sustancias psicoactivas es prioritaria, y tiene por objeto fortalecer la estructura y funcionamiento del Instituto, a través de las figuras de participación ciudadana y los diversos mecanismos de organización social y comunitaria.
+
+###### Artículo 10°.
+
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que integran la Administración Pública del Distrito Federal, así como los órganos de gobierno y autónomos, en el ámbito de sus respectivas competencias, desarrollarán acciones para dar cumplimiento al objeto de la presente Ley, utilizando incluso las nuevas tecnologías de información y comunicación.
+
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2012)</small>
+
+Las Delegaciones, dentro de la demarcación correspondiente y conforme al ámbito de su competencia, desarrollarán e implementarán programas administrativos para prohibir la venta o suministro, mediante cualquier forma, a menores de edad, personas que no tienen capacidad para comprender el significado del hecho o personas que no tienen capacidad para resistirlo, de sustancias inhalables que se determinen conforme a esta Ley y las disposiciones reglamentarias emitidas por las autoridades federales.
+
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2012)</small>
+
+Los programas a los que se refiere el párrafo anterior se dirigirán de manera particular a los establecimientos mercantiles que, de acuerdo a la ley en la materia, tengan por objeto el expendio de las sustancias inhalables.
+
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2012)</small>
+
+Las autoridades delegacionales, en caso de tener conocimiento sobre la venta o suministro, mediante cualquier forma, a menores de edad, personas que no tienen capacidad para comprender el significado del hecho o personas que no tienen capacidad para resistirlo, de sustancias inhalables determinadas por la presente Ley y las disposiciones reglamentarias emitidas por las autoridades correspondientes, darán aviso al Ministerio Público sobre posibles conductas constitutivas de delito en términos de la legislación aplicable.
+
+###### Artículo 11.
+
+Las políticas públicas, programas y acciones en materia de prevención, tratamiento, rehabilitación e integración comunitaria como parte de la atención integral del consumo de sustancias psicoactivas en el Distrito Federal, deberán promover el desarrollo integral e individual de las personas y regirse por los principios multidisciplinarios, de transversalidad y de permanencia, con estricto respeto a los derechos humanos e incorporando la perspectiva de género.
+
+###### Artículo 12.
+
+Los ejes, lineamientos y disposiciones relacionadas con la prevención, el tratamiento y la rehabilitación como parte de la atención integral del consumo de sustancias psicoactivas, así como la integración comunitaria de las personas, se contendrán en el Programa General, el cual deberá ser en todo momento sistemático y apegado a un proceso de investigación, planeación, operación, seguimiento y evaluación.
+
+###### Artículo 13.
+
+El Programa General es el conjunto de acciones sistemáticas basadas en la certeza científica, dirigidas a evitar el consumo de sustancias psicoactivas, reducir los factores de riesgo y daños ocasionados que se deriven de su consumo, promoviendo estilos de vida saludables en la población, además de brindar atención y, en su caso, tratamiento de manera oportuna a las personas que lo requieran, proporcionando la rehabilitación adecuada y los medios y alternativas para su integración social.
+
+El Programa General será elaborado por el Instituto, en colaboración con instancias y organizaciones relacionadas con la materia objeto de la presente Ley; establecerá una estrategia anual con objetivos y líneas de acción prioritarias, tomando en cuenta las características de cada sector social.
+
+###### Artículo 14.
+
+El Programa General fomentará la corresponsabilidad social, con la finalidad de incorporar de manera activa a los diversos sectores sociales en la promoción de la salud y la prevención de los factores de riesgo, como lineamientos para evitar los efectos adversos ocasionados por el consumo de sustancias psicoactivas; para tal efecto deberá considerar lo siguiente:
+
+I. La Coordinación Intersectorial, promoviendo la participación activa de sectores públicos, privados y sociales, con el objetivo de fomentar la corresponsabilidad que permita la toma adecuada de decisiones y genere medios y alternativas para la atención oportuna en materia de sustancias psicoactivas;
+
+II. La Vinculación Interinstitucional, impulsando la integración de instituciones públicas, privadas, organismos no gubernamentales y organizaciones sociales para la realización de acciones conjuntas a fin de lograr mayor impacto y eficiencia en la aplicación del Programa General fortaleciendo redes interinstitucionales con esquemas de referencia y contrarreferencia, y
+
+III. Las Redes Comunitarias, que agrupen y organicen a personas en torno a la atención y participación social en materia de atención integral del consumo de sustancias psicoactivas.
+
+###### Artículo 15.
+
+Los lineamientos, como principios rectores en los que se deberá sustentar el Programa General, son los siguientes:
+
+I. Lineamientos Científicos, que incluyen:
+
+a) Fundamentos en modelos teóricos;
+
+b) Priorizar las zonas y grupos de alto riesgo;
+
+c) Investigación de nuevos modelos y técnicas de prevención y detección oportuna y atención del consumo de sustancias psicoactivas;
+
+d) Profesionalización y actualización continua del personal responsable;
+
+e) Procedimientos para la detección, orientación y consejería respecto al consumo de sustancias psicoactivas, y
+
+f) Procesos de retroalimentación para dar seguimiento, monitoreo y evaluación de la atención integral del consumo de sustancias psicoactivas, que incorpore a instituciones públicas, privadas, organismos no gubernamentales y organizaciones sociales.
+
+II. Lineamientos Éticos:
+
+a) Promoción y respeto de los derechos humanos;
+
+b) Respeto a las decisiones de la persona y a su consentimiento informado;
+
+c) Garantizar la confidencialidad de la información, y
+
+d) Otorgar información precisa y adecuada.
+
+###### Artículo 16.
+
+El Instituto, en colaboración con el Gobierno, la Administración Pública Federal, instituciones públicas, privadas, organismos no gubernamentales y organizaciones sociales relacionadas con la materia de la presente Ley, desarrollará anualmente los objetivos, estrategias y líneas de acción prioritarias que se deriven del Programa General, para lo cual sistematizará su aplicación contando con un manual de procedimientos.
+
+###### Artículo 17.
+
+Para el desarrollo y aplicación de los objetivos, estrategias y líneas de acción prioritarias a los que se refiere la presente Ley, se deberán considerar las siguientes etapas:
+
+I. Investigación orientada al análisis y diagnóstico de las dimensiones del consumo de sustancias psicoactivas, así como las características, necesidades y recursos del contexto y de la población a intervenir;
+
+II. Planeación, la cual deberá definir la metodología de la intervención preventiva comprendiendo programas de acción, objetivos, metas, estrategias y definición de competencias para la operación del Programa General;
+
+III. Operación del Programa General mediante el desarrollo de estrategias, técnicas y actividades dirigidas a la población objetivo;
+
+IV. Integración para el desarrollo y aplicación de estrategias que fomenten la participación de instituciones privadas, públicas, académicas y organizaciones de la sociedad civil;
+
+V. Seguimiento para verificar el desarrollo de las líneas de acción, con la finalidad de valorar el funcionamiento del Programa General y sus componentes, realizando permanentemente correlaciones con la planeación a efecto de ubicar diferencias y ofrecer alternativas de cambio, y
+
+VI. Evaluación para la recopilación, análisis e interpretación de la información, que se derive de la aplicación del Programa General.
+
+### Capítulo Segundo. De los derechos y obligaciones de las personas con consumo de sustancias psicoactivas
 
 #### SECCION C.- DE LA INICIATIVA Y FORMACION DE LAS LEYES
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### ARTICULO 18.
+###### Artículo 18.
 
-Son obligaciones del ciudadano duranguense;
+Como un mecanismo de seguimiento del Programa General, se instalará el Consejo Interdependencial, el cual establecerá los procesos para garantizar la transversalidad y coordinación para el cumplimiento de los objetivos, estrategias y líneas de acción prioritarias que se desarrollen de manera anual.
 
-I.- Inscribirse en los padrones de causantes del Estado y de la municipalidad, así como también inscribirse en los padrones electorales, en los términos que determinen las leyes;
+###### Artículo 19.
 
-II.- Alistarse en la Guardia Nacional;
+El Consejo Interdependencial será integrado por las y los titulares de las siguientes instancias del Distrito Federal:
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1997)</small>
+I. Jefatura de Gobierno;
 
-III.- Votar en las elecciones populares en los términos que señale la ley;
+II. Secretaría de Salud;
 
-IV.- Desempeñar los cargos de elección popular de la Federación o del Estado, que en ningún caso serán gratuitos, ni renunciables; y
+III. Secretaría de Seguridad Pública;
 
-V.- Desempeñar los cargos concejiles del Municipio donde resida, las funciones electorales y las de jurado.
+IV. Secretaría de Desarrollo Social;
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+V. Secretaría de Finanzas;
 
-###### ARTICULO 19.
+VI. Secretaría de Cultura;
 
-Toda persona que, permanente o transitoriamente, se encuentre en el territorio de la Entidad, tiene obligación de acatar y cumplir sus leyes y las disposiciones de sus autoridades, sin que pueda, por propia decisión, eximirse de su observancia, por ignorarlas, por considerar que son injustas o porque pugnan con sus opiniones; y tiene la obligación de prestar auxilio a las autoridades cuando para ello sea legalmente requerida.
+VII. Secretaría de Educación;
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+VIII. Secretaria del Trabajo;
 
-###### ARTICULO 20.
+IX. Procuraduría General de Justicia;
 
-Pierde la calidad de duranguense quien deje de tener la nacionalidad mexicana conforme a la Constitución General de la República, o se comprometa ante ministro de algún culto o ante cualquier persona, a no observar la Constitución Federal, la Particular del Estado o las leyes que de ellas emanen.
+X. Consejería Jurídica;
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+XI. Instituto de Asistencia e Integración Social;
 
-###### ARTICULO 21.
+XII. Instituto de la Juventud;
 
-La calidad de ciudadano duranguense se pierde:
+XIII. Instituto del Deporte;
 
-I.- Por sentencia condenatoria que imponga esa pena;
+XIV. Instituto de las Mujeres;
 
-II.- Por solicitar la ciudadanía de otro Estado de la República; y
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2011)</small>
 
-III.- Por cualesquiera de las causas de pérdida de la ciudadanía mexicana establecidas en la Constitución General de la República.
+XV. Instituto para la Atención y Prevención de las Adicciones en la Ciudad de México;
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2011)</small>
 
-###### ARTICULO 22.
+XVI. Sistema para del Desarrollo Integral de la Familia;
 
-Los derechos del ciudadano duranguense se suspenden:
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2011)</small>
 
-I.- Por no dar debido cumplimiento a las obligaciones que impone el Artículo 18 de esta Constitución, salvo causa justificada. Esta suspensión durará un año y se impondrá además de las otras penas que por el mismo hecho señale la Ley;
+XVII. 16 Delegaciones; y
 
-II.- Por permitir que derechos de propiedad ajenos se registren u ostenten como de su pertenencia. Esta suspensión durará mientras subsista la causa y cinco años más, sin perjuicio de otras penas que establezca la Ley;
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 31 DE MAYO DE 2011)</small>
 
-III.- Por estado de interdicción judicialmente declarado; y
+XVIII. Un representante de la Asamblea Legislativa del Distrito Federal, nombrado por su Pleno a propuesta de la Comisión de Salud y Asistencia Social.
 
-IV.- En los casos y términos previstos en la Constitución General de la República.
+Las personas titulares asistirán a las reuniones del Consejo, los cuales podrán nombrar a un suplente quien deberá tener como cargo mínimo un nivel inmediato inferior al del titular.
 
-Los derechos de (sic) ciudadano se recobrarán al cesar la causa que dió motivo a la suspensión, excepto lo dispuesto en las Fracciones I y II.
+(REFORMADO [N.DE E. ADICIONADO], G.O. 31 DE MAYO DE 2011.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+La Secretaría Técnica del Consejo, recaerá en la Secretaría de Salud, o bien, en el órgano que para tal efecto designe su titular.
 
-###### ARTICULO 23.
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2012)</small>
 
-En los casos de pérdida de la calidad de duranguense o de ciudadano del Estado, el Congreso o, en su receso la Comisión Permanente, hará la declaratoria o la rehabilitación conforme a la ley reglamentaria. El Congreso expedirá la Ley de Población del Estado.
+El Jefe de Gobierno emitirá los lineamientos de operación del Consejo Interdependencial.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2012)</small>
 
-###### ARTICULO 24.
+###### Artículo 20.
 
-El Estado de Durango es libre y soberano y en su régimen de Gobierno no reconoce más restricciones que las prescritas en la Constitución General de la República, a cuya observancia está obligado como Entidad Federativa de la Nación.
+El Programa General contemplará acciones para prevenir e inhibir el consumo de sustancias inhalables, así como de las medidas necesarias que deben desarrollar las instancias respectivas para la prohibición de la venta o suministro, mediante cualquier forma, a menores de edad, personas que no tienen capacidad para comprender el significado del hecho o personas que no tienen capacidad para resistirlo, de sustancias inhalables.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1997)</small>
+Sin menoscabo de las disposiciones reglamentarias emitidas por las autoridades correspondientes, las sustancias inhalables que deben considerarse para la aplicación de las acciones referidas en la presente Ley, son las siguientes:
 
-###### ARTICULO 25.
+I. Disolventes volátiles o solventes que son líquidos que se vaporizan a temperatura ambiente, entre los que se encuentran solventes industriales, domésticos, de efectos de oficina o arte;
 
-La soberanía del Estado reside esencial y originariamente en el pueblo y la ejerce por medio de sus legítimos representantes en los términos establecidos en esta Constitución. Todo poder público dimana del pueblo y se instituye para su beneficio. El pueblo tiene en todo tiempo el inalienable derecho de alterar o modificar esta Constitución, así como las demás leyes que de ella emanen.
+II. Aerosoles que contengan propulsores y disolventes, y
 
-La renovación de los poderes Legislativo y Ejecutivo se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
+III. Gases utilizados como productos caseros, comerciales o de utilización como anestésicos médicos.
 
-Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral.
+> <small>(REFORMADO, G.O. 31 DE MAYO DE 2011)</small>
 
-Los partidos políticos tienen como finalidad promover la participación del pueblo en la vida democrática, contribuir a la integración de la Representación Estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postula y mediante el sufragio universal, libre, secreto y directo.
+###### Artículo 21.
 
-Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
+Las y los titulares de los órganos político administrativos dispondrán de las medidas administrativas para la conformación de un Consejo Delegacional para la Atención Integral del Consumo de Sustancias Psicoactivas, del cual será integrante el Director del Instituto o la persona que para tal efecto designe.
 
-Los partidos políticos nacionales y estatales registrados tendrán derecho a participar en las elecciones estatales y municipales. Así mismo tendrán derecho, a conservar su registro y a las prerrogativas que establezca la ley, todo aquel partido que alcance cuando menos el 1.5% de la votación emitida.
+###### Artículo 22.
 
-La ley de la materia establecerá las reglas a que se sujetarán el financiamiento de los partidos políticos y sus campañas electorales, así como los límites a las erogaciones y los montos máximos que tengan las aportaciones pecuniarias de sus simpatizantes, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado y los procedimientos para el control y vigilancia del origen y uso de los recursos, estableciendo las sanciones correspondientes al incumplimiento. Igualmente fijará las condiciones de equidad para el acceso de los partidos políticos a los medios de comunicación social.
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que integran la Administración Pública del Distrito Federal, así como los órganos de gobierno y autónomos, en el ámbito de sus respectivas competencias, desarrollarán acciones de prevención del consumo de sustancias psicoactivas.
 
-El financiamiento público para los partidos políticos que mantengan su registro después de cada elección se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y se otorgarán conforme a lo siguiente y a lo que disponga la ley:
+Con base a un enfoque transversal, de derechos humanos y la incorporación de la perspectiva de género, considerarán la prevención como eje rector de la política de la atención integral del consumo de sustancias psicoactivas, previendo que en el desarrollo del ejercicio de sus funciones, se contenga elementos para dar cumplimiento a esta disposición.
 
-a).- El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, aplicando los costos mínimos de campaña calculados por el Órgano Superior de Dirección del Instituto Estatal Electoral, el número de diputados a elegir, el número de partidos políticos con representación en el Congreso y la duración de las campañas electorales. El 30% de la cantidad total que resulte de acuerdo con lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el 70% restante se distribuirá entre los mismos, de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
+En el Programa General, los objetivos, estrategias y líneas de acción prioritarias que establezca a partir de la presente Ley, el Instituto establecerá las bases de coordinación para el desarrollo de acciones de la Administración Pública del Distrito Federal.
 
-b).- El financiamiento público para las actividades tendientes a la obtención del voto durante los procesos electorales, equivaldrá a una cantidad igual al monto del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese año, y
+###### Artículo 23.
 
-c).- Se reintegrará un porcentaje de los gastos anuales que eroguen los partidos políticos por concepto de las actividades relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales.
+Para realizar las acciones de prevención, es necesario tomar en cuenta, los aspectos macro y micro sociales de las poblaciones objetivo, tales como las dimensiones epidemiológicas, disponibilidad de servicios y programas preventivos, representación social, zona geográfica, su cultura, usos y costumbres, contextos familiares, aspectos legislativos, así como las características de las personas entre las que destacan su edad y género, las sustancias psicoactivas de uso, los patrones de consumo y problemas asociados.
 
-La ley tipificará los delitos y las faltas en materia electoral y establecerá las sanciones que deban imponerse.
+###### Artículo 24.
 
-La organización de las elecciones es una función estatal que se realiza a través de un organismo público autónomo, que se denominará Instituto Estatal Electoral de Durango, dotado de personalidad jurídica y patrimonio propios, en cuya integración concurrirán el Poder Legislativo del Estado, los partidos políticos y los ciudadanos según lo disponga la ley. En el ejercicio de esa función estatal, la certeza, legalidad, imparcialidad, objetividad e independencia serán principios rectores.
+El Instituto fomentará que las instituciones públicas, privadas, organismos no gubernamentales y organizaciones sociales relacionadas con la materia de la presente Ley, así como las figuras de representación ciudadana establecidas en la legislación en la materia y cualquier otro mecanismo de participación comunitaria, colaboren en la aplicación de modalidades y estrategias de prevención, de acuerdo al Programa General.
 
-El Instituto Estatal Electoral de Durango, será autoridad en la materia, profesional en su desempeño e independiente en su funcionamiento y decisiones; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. El órgano superior de dirección, denominado Consejo Estatal Electoral, se integrará por un consejero presidente y por consejeros electorales, designados en los términos que establezca la ley, con derecho a voz y voto; y, por los representantes del Poder Legislativo, quien designará uno por cada fracción parlamentaria, por un representante nombrado por cada partido político con registro y un Secretario Ejecutivo, los que tendrán derecho a voz, de acuerdo con los requisitos y procedimientos que establezca la ley de la materia. Los órganos ejecutivos y técnicos dispondrán del personal necesario para prestar el servicio profesional electoral. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los partidos políticos con los requisitos y procedimientos que la ley establezca. Las mesas directivas de casillas estarán integradas por ciudadanos.
+###### Artículo 25.
 
-El Instituto Estatal Electoral de Durango, tendrá a su cargo en forma integral y directa, además de las que le determine la ley, las actividades relativas al padrón y lista de electores, preparación de la jornada electoral, cómputos y otorgamiento de constancias, en los términos que señale la ley, capacitación electoral y educación cívica e impresión de materiales electorales, así como la regulación de la observación electoral, de las encuestas o sondeos de opinión con fines electorales. Asimismo, atenderá lo relativo a los derechos y prerrogativas de las agrupaciones y de los partidos políticos. Las sesiones de todos los órganos colegiados electorales serán públicas en los términos que determine la ley.
+Como modalidades de prevención, se consideran tres tipos de intervención en función del riesgo y características de la población, siendo los siguientes:
 
-Para garantizar el principio de legalidad de los actos y resoluciones electorales, la ley establecerá un sistema de medios de impugnación, en el cual se fijen los plazos convenientes para el desahogo de todas las instancias impugnativas. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar y ser votado y de asociación.
+I. Universal: dirigida a la población en general y se lleva a cabo mediante la promoción de la salud para crear conocimiento y orientar sobre la problemática del consumo de sustancias y para las formas de prevención;
 
-En materia electoral la interposición de los recursos no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnado.
+II. Selectiva: enfocada a grupos expuestos a factores de riesgo biológicos, psicológicos, sociales y ambientales asociados al consumo de sustancias psicoactivas, y
 
-Los Consejeros Electorales del Instituto Estatal Electoral deberán satisfacer los requisitos que señale la ley y serán electos por el voto de las dos terceras partes de los miembros de la Cámara de Diputados de entre las propuestas presentadas por los grupos parlamentarios de la propia Cámara.
+III. Indicada: dirigida a grupos de población con sospecha de consumo y personas usuarias con consumo crónico, o de quienes exhiben factores de alto riesgo que incrementan la posibilidad de desarrollar consumo perjudicial o la adicción al consumo de sustancias psicoactivas.
 
-La ley señalará las reglas y el procedimiento correspondientes.
+###### Artículo 26.
 
-Durante los recesos del Congreso del Estado, para la elección a que se refieren los dos párrafos anteriores, se convocará a un período extraordinario de sesiones.
+El Instituto desarrollará, de acuerdo a la revisión y el estudio del contexto socio económico de la población, intervenciones preventivas, con el objetivo de llevar a cabo una atención efectiva para cada ambiente social; para tal efecto, fomentará la colaboración de las figuras de representación ciudadana establecidas en la legislación en la materia, así como cualquier otro mecanismo de participación comunitaria, de las Asociaciones de Madres y Padres de Familia y Consejos Escolares de Participación Social.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+El trabajo preventivo por contextos contemplará la coordinación con los programas públicos, privados y sociales relacionados con la materia, para la operación de estrategias en común que permitan incidir de manera favorable en el entorno social.
 
-###### ARTICULO 26.
+###### Artículo 27.
 
-El Estado de Durango está integrado por los siguientes Municipios: Canatlán, Canelas, Coneto de Comonfort, Cuencamé, Durango, El Oro, Gómez Palacio, Guadalupe Victoria, Guanaceví, Hidalgo, Indé, Lerdo, Mapimí, Mezquital, Nazas, Nombre de Dios, Nuevo Ideal, Ocampo Otaéz, Pánuco de Coronado, Peñón Blanco, Poanas, Pueblo Nuevo, Rodeo, San Bernardo, San Dimas, San Juan de Guadalupe, San Juan del Río, San Luis del Cordero, San Pedro del Gallo, Santa Clara, Santiago Papasquiaro, Simón Bolívar, Súchil, Tamazula, Tepehuanes, Tlahualilo, Topia y Vicente Guerrero y con los demás que se formen en lo sucesivo. El territorio del Estado tiene la extensión y límites que señala la Ley de División Territorial.
+Las estrategias de prevención que deberán contemplar principalmente los objetivos, estrategias y líneas de acción prioritarias del Programa General, son las siguientes:
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+I. Detección temprana;
 
-###### ARTICULO 27.
+II. Canalización oportuna;
 
-El Estado de Durango reconoce y adopta en su régimen interior la forma de Gobierno republicano, representativo y popular, teniendo como base de su división territorial y de su organización política y administrativa el Municipio Libre, de acuerdo con las bases que señala la Constitución General de la República.
+III. Referencia y contrarreferencia;
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+IV. Información;
 
-###### ARTICULO 28.
+V. Desarrollo de competencias o habilidades sociales;
 
-En el Estado de Durango el Poder Público se divide para su ejercicio en Legislativo, Ejecutivo y Judicial. No podrán reunirse dos ó más poderes en una sola persona o corporación, ni depositarse el Legislativo en un solo individuo.
+VI. Formación de multiplicadores o promotores;
 
-La residencia de los Poderes es la Capital del Estado.
+VII. Reducción de riesgos y daños asociados al consumo de sustancias psicoactivas, y
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+VIII. Intervención breve.
 
-###### ARTICULO 29.
+###### Artículo 28.
 
-El ejercicio de las funciones que ésta Constitución señala al Poder Legislativo, se deposita en el Congreso del Estado de Durango.
+La detección temprana es una estrategia evaluativa y voluntaria que combina la identificación del consumo de sustancias psicoactivas y los riesgos o daños ocasionados por ello, así como del tratamiento oportuno. Como parte de la misma, deberá elaborarse una impresión diagnóstica de la persona a la que se le brinde atención y que haya expresado su consentimiento informado por escrito, con el fin de identificar los efecto adversos que produce o puede producir el consumo de sustancias psicoactivas para su salud y el bienestar personal.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
+###### Artículo 29.
 
-###### ARTICULO 30.
+La canalización oportuna implica dirigir a la persona para que se le brinde la atención necesaria, de acuerdo a las características, patrón de consumo de sustancias psicoactivas y tipo de las mismas, así como los daños asociados, de acuerdo al enfoque de derechos humanos y las disposiciones sobre la prestación de servicios establecidas en la presente Ley.
 
-El Congreso se integra con Diputados electos popular y directamente cada tres años. Par (sic) cada Diputado Propietario se elegirá un Suplente.
+###### Artículo 30.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 1989)</small>
+La referencia y contrarreferencia se presenta cuando los recursos del establecimiento no permitan la atención de la persona usuaria, debiéndose remitir a otro en el que se asegure su atención, tomando en cuenta las necesidades de la persona, el tipo de sustancia utilizada, edad, género, patrones de consumo, síndrome de dependencia de las sustancias psicoactivas y problemas asociados al consumo.
 
-###### ARTICULO 31.
+###### Artículo 31.
 
-El Congreso del Estado se integrará con 15 diputados electos según el principio de votación mayoritaria relativa en distritos electorales uninominales, y con 10 diputados que serán electos según el principio de representación proporcional, mediante listas votadas en la circunscripción plurinominal que corresponderá a la totalidad del territorio del Estado.
-
-La elección de los diputados de representación proporcional, bajo el sistema de listas, deberá sujetarse a lo que en particular disponga la legislación electoral relativa, de conformidad con las siguientes bases:
-
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 1994)</small>
-
-I.- Para obtener la inscripción de sus listas, el partido político que lo solicite, deberá acreditar que tiene su registro y que participa con candidatos a diputados por mayoría relativa en por lo menos dos terceras partes de los distritos electorales uninominales.
-
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 1994)</small>
-
-II.- Tendrá derecho a que le sean asignados diputados electos según el principio de proporcionalidad, todo aquel partido que alcance al menos el 2.5% de la votación total emitida.
-
-III.- Al partido que se encuentre dentro de los supuestos señalados en las fracciones I y II de este artículo, le serán asignados los diputados que correspondan de acuerdo al porcentaje de votos obtenidos en la circunscripción. La legislación electoral relativa, determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación; en todo caso, se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
-
-La demarcación territorial de los quince distritos electorales uninominales, será la que resulte de dividir la población total del Estado entre los distritos señalados y será fijada en el Código Estatal Electoral.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 1997)</small>
+La información estará enfocada a brindar orientación documentada y actualizada a la población en general sobre los factores de riesgo y daños asociados al consumo de sustancias psicoactivas, así como los elementos de protección que disminuyan su influencia, además difundirá la adopción de estilos de vida saludables y los objetivos, estrategias, líneas de acción prioritarias y logros alcanzados del Programa General.
 
 #### SECCION C.- DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-###### ARTICULO 32.
+###### Artículo 32.
 
-Para ser Diputado Propietario y Suplente se requiere:
+El desarrollo de competencias o habilidades sociales reforzará aptitudes y recursos sociales que constituyan un elemento preventivo ante el inicio del consumo de sustancias psicoactivas, promoviendo el desarrollo de capacidades para la sana convivencia social, resolución de problemas personales y familiares, pensamiento libre y crítico, reforzar habilidades y valores para enfrentar dificultades de la vida cotidiana.
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 1989)</small>
+Para la realización de esta estrategia, se fomentará la participación de instituciones públicas, privadas, organismos no gubernamentales y organizaciones sociales relacionadas con la materia de la presente Ley, así como las figuras de representación ciudadana establecidas en la legislación en la materia y cualquier otro mecanismo de participación comunitaria.
 
-I.- Ser ciudadano duranguense por nacimiento, en pleno ejercicio de sus derechos, o ciudadano duranguense en pleno ejercicio de sus derechos con residencia efectiva dentro del territorio del Estado que no sea menor de seis años inmediatamente anteriores al día de la elección. Si es nativo del Estado, tener cuando menos dos años de residencia efectiva dentro del territorio del Estado inmediatamente anteriores al día de la elección;
+###### Artículo 33.
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 1989)</small>
+La formación de multiplicadores o promotores estará dirigida a la capacitación de las figuras de representación ciudadana establecidas en la legislación en la materia y cualquier otro mecanismo de participación comunitaria, como elementos estratégicos en la difusión de mensajes y acciones dirigidas a la prevención del consumo de sustancias psicoactivas.
 
-II.- Saber leer y escribir;
+###### Artículo 34.
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 1989)</small>
+La reducción de riesgos y daños asociados al consumo de sustancias psicoactivas, se enfocará a disminuir los factores de riesgo de dicho consumo, desarrollando acciones para ampliar la asistencia social.
 
-III.- Tener para el día de la elección una edad mínima de veintiún años cumplidos;
+###### Artículo 35.
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 1989)</small>
+La intervención breve implica la motivación de las personas, la potencialización de sus capacidades y la utilización de los elementos de su comunidad, para generar un cambio conductual a favor de su salud, con el fin de prevenir y disminuir la progresión del consumo de sustancias psicoactivas y de los factores de riesgo asociados.
 
-IV.- No haber sido condenado a más de un año de prisión, excepto el caso de delito de culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, independientemente de la pena impuesta; y
+###### Artículo 36.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE MAYO DE 1997)</small>
+El Instituto es la instancia normativa respecto a la intervención, tratamiento y rehabilitación del consumo de sustancias psicoactivas, para ello establecerá las bases, lineamientos, criterios técnicos, objetivos, modalidades, métodos y estrategias que cumplirán los establecimientos especializados en adicciones y los Centros de Atención Integral del Consumo de Sustancias Psicoactivas y, en general, en las materias de tratamiento y rehabilitación del consumo de sustancias psicoactivas en el Distrito Federal.
 
-V.- No ser Secretario o Subsecretario de Despacho en el Poder Ejecutivo del Estado, Procurador o Subprocurador General de Justicia del Estado; Directores Generales de la Administración Estatal, Presidentes, Síndicos y Regidores Municipales, servidor público de mando superior de la Federación, militar en servicio activo, Magistrado del Tribunal Superior de Justicia o del Tribunal Estatal Electoral, ni miembro del Consejo de la Judicatura del Estado, salvo que se hubieran separado de su cargo noventa días antes de la elección.
+La prestación de servicios de tratamiento y rehabilitación al consumo de sustancias psicoactivas se realizará atendiendo a lo dispuesto en los lineamientos que emitan organismos internacionales, la Ley General de Salud, la Ley de Salud del Distrito Federal, las Normas Oficiales Mexicanas en la materia, y demás instrumentos jurídicos aplicables.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+###### Artículo 37.
 
-###### ARTICULO 33.
+El tratamiento y la rehabilitación a personas que consuman sustancias psicoactivas, respetará los derechos humanos e incorporará la perspectiva de género, siguiendo los estándares de ética médica y profesionalismo en la prestación de servicios de salud y cuidando su integridad física y mental.
 
-Los diputados propietarios no podrán ser reelectos para el período inmediato, ni aún con el carácter de suplente. Los diputados suplentes podrán ser electos para el período inmediato, con el carácter de propietarios, siempre que no hubieren estado en ejercicio.
+###### Artículo 38.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+Las personas que sean infraccionadas por ingerir bebidas alcohólicas en lugares públicos no autorizados o consumir, ingerir, inhalar o aspirar estupefacientes, psicotrópicos, enervantes o sustancias tóxicas en lugares públicos, o por conducir vehículos por la vía pública con una cantidad de alcohol en la sangre superior a la determinada legalmente o bajo el influjo de narcóticos, con independencia de la sanción que se les imponga, tendrán como medida alternativa a la sanción administrativa prevista, asistir al programa de tratamiento por consumo de sustancias psicoactivas que para tal efecto determine el Instituto en colaboración con la Consejería Jurídica y de Servicios Legales del Gobierno del Distrito Federal.
 
-###### ARTICULO 34.
+###### Artículo 39.
 
-Los diputados propietarios, durante el período de su encargo, no podrán desempeñar ninguna otra comisión o empleo de la Federación, del Estado o de los Municipios por los cuales disfrute de sueldo, sin licencia previa de la Legislatura o de la Comisión Permanente, en su caso, pero entonces cesarán en sus funciones representativas mientras dure la nueva ocupación. La misma regla se observará con los diputados suplentes cuando estuvieren en ejercicio. La infracción de esta disposición será castigada con la pérdida del carácter de diputado.
+El tratamiento de personas con consumo de sustancias psicoactivas se llevará a cabo bajo la modalidad no residencial o residencial.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+Los tratamientos bajo la modalidad no residencial podrán llevarse a cabo a través de lo siguiente:
 
-###### ARTICULO 35.
+I. Atención de urgencias;
 
-Los diputados son inviolables por las opiniones que manifiesten en el desempeño de sus cargos y jamás podrán ser reconvenidos por ellas.
+II. Atención ambulatoria en establecimientos mixtos y profesionales;
 
-> <small>(ADICIONADO, P.O. 26 DE JULIO DE 1979)</small>
+III. Atención ambulatoria de ayuda mutua, y
 
-El Presidente de la Legislatura velará por el respeto al fuero constitucional de sus miembros y por la inviolabilidad del recinto en donde se reúnan a sesionar.
+IV. Atención ambulatoria alternativa.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+## TÍTULO SEGUNDO. DEL PROGRAMA GENERAL PARA LA ATENCIÓN INTEGRAL DEL CONSUMO DE SUSTANCIAS PSICOACTIVAS DEL DISTRITO FEDERAL
 
-###### ARTICULO 36.
+### Capítulo Tercero. De la distribución de competencias
 
-Los diputados que sin licencia dejaren de concurrir por un mes seguido a cualquier período de sesiones, quedarán suspensos de su encargo y de los derechos de ciudadano por todo el período para el que fueron electos.
+###### Artículo 40.
 
-Igual pena sufrirán los suplentes, en su caso, desde que sean llamados para reemplazar al propietario. Para la aplicación de esta pena se necesita la declaración expresa del Congreso. Las faltas sin licencia, de menos de un mes, se sujetarán a las prescripciones y penas que señale el Reglamento del propio Congreso.
+El Instituto establecerá las cuotas de recuperación que se deban cubrir en los servicios de tratamiento que brinden los Centros de Atención Integral del Consumo de Sustancias Psicoactivas, tomando en cuenta la condición socio económica de las personas que los reciban.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1997)</small>
+###### Artículo 41.
 
-###### ARTICULO 37.
+En ninguno de los tratamientos se permitirán grabaciones de audio, video o fotografías, sin explicar su finalidad y previo consentimiento informado y por escrito de la persona usuaria del servicio, tutor o representante legal.
 
-El Instituto Estatal Electoral de Durango, de acuerdo con lo que disponga la ley, declarará la validez de las elecciones de diputados en cada uno de los distritos electorales uninominales y otorgará las constancias respectivas a las fórmulas de candidatos que hubiesen obtenido mayoría de votos; igualmente declarará la validez de las elecciones de los miembros de los Ayuntamientos. Asimismo hará la declaración de validez y la asignación de diputados y regidores según el principio de representación proporcional de conformidad con las normas establecidas en la Constitución y en la ley de la materia.
+###### Artículo 42.
 
-Las declaraciones de validez, el otorgamiento de las constancias y la asignación de diputados y de los miembros de Ayuntamientos podrán ser impugnadas ante el Tribunal Estatal Electoral en los términos que señale la ley.
+El Instituto promoverá con los centros de trabajo e instituciones educativas el otorgamiento de facilidades necesarias para que las personas en tratamiento a que se refiere la presente Ley acudan a las instituciones públicas y privadas responsables de otorgar dichos servicios.
 
-Los fallos del Tribunal Estatal Electoral serán definitivos y firmes. La ley establecerá los presupuestos, requisitos de procedencia y el trámite para los medios de impugnación.
+### Capítulo Único. Disposiciones generales
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+###### Artículo 43.
 
-SECCION B.- DE LA INSTALACION Y LABORES DEL CONGRESO
+El Instituto celebrará convenios con instituciones públicas y privadas para orientar y capacitar las personas usuarias de los servicios de la atención integral del consumo de sustancias psicoactivas, con la finalidad de reinsertarlos en el ámbito laboral.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+###### Artículo 44.
 
-###### ARTICULO 38.
+En los programas sociales que diseñe y aplique la Administración Pública del Distrito Federal se contemplarán acciones encaminadas a la terapia ocupacional y a la formación de habilidades para el trabajo, que induzcan al empleo y al autoempleo de las personas usuarias de los Centros de Atención Integral del Consumo de Sustancias Psicoactivas.
 
-El asiento del Congreso es la Capital del Estado. Podrá trasladarse provisionalmente a otro lugar cuando se presenten circunstancias que lo ameriten y así lo acuerden cuando menos las dos terceras partes de los diputados presentes en la sesión en que se trate.
+### Capítulo Primero. De las modalidades y estrategias para la prevención del consumo de sustancias psicoactivas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 1994)</small>
+###### Artículo 45.
 
-###### ARTICULO 39.
+El Programa General establecerá estrategias específicas para el tratamiento de menores y adolescentes en conflicto con la ley derivado de la comisión de infracciones relacionados con el consumo de sustancias psicoactivas, proponiendo mecanismos para que sean reintegrados con el seguimiento correspondiente a través del Juzgado respectivo y proponiendo alternativas para que cumplan con las medidas impuestas por dichas conductas.
 
-El Congreso iniciará sus sesiones el 1o. de Septiembre posterior a la elección, sesionará ordinariamente del 1o. de Septiembre al 15 de Diciembre y del 15 de Marzo al 15 de junio de cada año, no pudiendo instalarse ni ejercer sus funciones sin la concurrencia de la mayoría de los Diputados integrantes.
+El Instituto coadyuvará en la aplicación de los programas de tratamiento y reintegración a los que hace referencia el presente artículo, proporcionando asistencia, brindando capacitación constante y especializada al personal del Juzgado correspondiente en materia de detección, tratamiento, rehabilitación e integración comunitaria como parte de la atención integral del consumo de sustancias psicoactivas a menores y adolescentes en conflicto con la ley.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
+El Juez por medio de la autoridad competente y en conocimiento del Instituto podrá en cualquier momento aplicar un examen de detección toxicológica cuando el menor o adolescente haya decidido voluntariamente incorporarse a un tratamiento de atención integral del consumo de sustancias psicoactivas; así mismo, establecerá colaboración con las Delegaciones correspondientes, para la aplicación de las acciones de integración comunitaria.
 
-Cuando los diputados asistentes no reunan el número requerido para la instalación del Congreso, o reuniéndolo no asistiera el total de sus miembros, excitarán a los ausentes para que concurran dentro de los diez días siguientes, con la advertencia de que si no lo hacen sin causa justificada, se entenderá que declinan su responsabilidad, llamándose de inmediato a los Suplentes, los que deberán presentarse dentro de un plazo de diez días. Si los Suplentes no comparecieren sin causa justificada en el plazo señalado, se declararán vacantes los cargos, convocándose a nueva elección, siempre y cuando se trate de diputados de mayoría. En el caso de diputados electos por el principio de representación proporcional, se cubrirá la vacante con aquéllos candidatos del mismo partido que hubieren quedado en lugar preferente en la lista respectiva.
+###### Artículo 46.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+La integración comunitaria tiene como finalidad reintegrar a la persona con consumo de sustancias psicoactivas a la sociedad y cuente con alternativas para mejorar sus condiciones de vida que le permitan incidir en su bienestar.
 
-## TITULO SEGUNDO
+###### Artículo 47.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+El Instituto fomentará la participación de instituciones públicas, privadas, organismos no gubernamentales y organizaciones sociales relacionadas con la materia de la presente Ley, así como de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que integran la Administración Pública del Distrito Federal, para el desarrollo de acciones de integración comunitaria, los cuales tendrán como objetivos los siguientes:
 
-### CAPITULO PRIMERO. DE LA SOBERANIA
+I. Conjuntar recursos, experiencias y conocimientos de instituciones públicas, privadas, organismos no gubernamentales y organizaciones sociales relacionadas con la materia de la presente Ley, para emprender acciones de desarrollo social e impulsar la participación ciudadana;
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+II. Generar redes de apoyo en materia de empleo, ayuda económica temporal, salud, apoyo psicológico, recreación, orientación y representación legal, servicios de estancias infantiles y educación con la finalidad de brindar las condiciones necesarias para llevar acabo (sic) un proceso de atención especializada;
 
-###### ARTICULO 40.
+III. Promover la corresponsabilidad entre el Gobierno y la sociedad en la atención a la población vulnerable del Distrito Federal, a través de convenios con instancias que vinculen su trabajo a las políticas públicas en materia de asistencia social;
 
-El Congreso se reunirá en períodos extraordinarios de sesiones cuando fuere convocado por la Comisión Permanente y solo podrán tratarse los asuntos que los motiven y se precisen en la convocatoria.
+IV. Sumar esfuerzos y recursos con organizaciones civiles y privadas para promover y fomentar programas de prevención y atención a grupos de alto riesgo y en condición de vulnerabilidad;
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1984)</small>
+V. Utilizar espacios públicos para atender a población en condiciones de pobreza, desempleados, mujeres embarazadas, niñas, niños, adolescentes, jóvenes, personas con discapacidad, población en situación de calle, adultos mayores;
 
-###### ARTICULO 41.
+VI. Promover la integración comunitaria de niños, niñas, adolescentes y jóvenes, que se encuentren en situación de riesgo, para prevenir y protegerlos de la violencia, el delito, el consumo de sustancias psicoactivas, garantizar el ejercicio pleno de sus derechos, así como generar una mejor convivencia del ámbito familiar y social;
 
-Todas las sesiones serán públicas, con excepción de los casos señalados por la Ley Orgánica del Congreso del Estado.
+VII. Continuidad en la formación académica de niños, niñas, adolescentes y jóvenes, con la finalidad de potenciar sus capacidades, estimulando estrategias a favor de la permanencia, continuidad y eficiencia terminal de la educación;
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+VIII. Apoyar proyectos diseñados y desarrollados por de (sic) niños, niñas, adolescentes y jóvenes que contribuyan a mejorar las condiciones de vida de su entorno;
 
-###### ARTICULO 42.
+IX. Promover el desarrollo de la creatividad, capacidades, habilidades y conocimientos de niños, niñas, adolescentes y jóvenes para la búsqueda de soluciones a problemas comunes;
 
-El Congreso o la Comisión Permanente, en su caso, expedirá la convocatoria para las elecciones que procedan de acuerdo con la Ley Electoral del Estado. En caso de falta absoluta de alguno o varios diputados propietarios y de sus respectivos suplentes, el Congreso convocará a elecciones para integrar el total de sus miembros, siempre que ésta circunstancia no ocurra dentro del último semestre del período Constitucional y que estuviere en funciones la mayoría de los diputados; a falta de esta mayoría, el Ejecutivo expedirá la convocatoria respectiva.
+X. Prevenir comportamientos que detonen riesgo y proteger a niños, niñas, adolescentes y jóvenes de las zonas de mayor incidencia delictiva del Distrito Federal;
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1994)</small>
+XI. Ofrecer a de (sic) niños, niñas, adolescentes y jóvenes alternativas de educación, capacitación para el trabajo, cultura, deporte, recreación, servicios institucionales y prácticas comunitarias, para que mejoren sus condiciones de vida y ejerzan sus derechos de manera plena;
 
-### CAPITULO SEGUNDO. DEL TERRITORIO
+XII. Estimular la formación de redes juveniles que promuevan el desarrollo y ejercicio de los derechos de las y los jóvenes;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1988)</small>
+XIII. Brindar apoyos económicos a niños, niñas, adolescentes y jóvenes estudiantes que puedan desarrollar actividades comunitarias o de servicios, como oportunidad de iniciarse en una actividad laboral;
 
-###### ARTICULO 43.
+XIV. Impulsar la actividad cultural y el trabajo desarrollado por artistas, promotores culturales, grupos de vecinos y colectivos comunitarios, en zonas de alta marginalidad del Distrito Federal como estrategia de prevención del consumo de sustancias psicoactivas;
 
-Durante el mes de Agosto del año de la elección, la Comisión Permanente convocará a los Diputados Electos a una Junta Preparatoria.
+XV. Coadyuvar en la formación de redes culturales ciudadanas;
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1994)</small>
+XVI. Fomentar la intervención, apropiación y recuperación de espacios públicos con la organización de actividades comunitarias;
 
-###### ARTICULO 44.
+XVII. Formar asistentes educativos para desarrollar e implementar un modelo de atención que considere los factores y determinantes de la situación social, familiar, cultural, educativa, física, sexual y reproductiva, intelectual y mental de niños, niñas, adolescentes y jóvenes estudiantes para generar un esquema de atención integral grupal;
 
-En la Junta Preparatoria a que se refiere el Artículo anterior, los Diputados electos designarán la Directiva Inicial de la nueva Legislatura.
+XVIII. Realizar de manera conjunta con las empresas y su personal, acciones de capacitación, consulta y formación que permitan contribuir al sostenimiento del empleo, al mejoramiento de las condiciones de seguridad e higiene, así como salariales de los trabajadores de las micro, pequeñas y medianas empresas, grupos productivos y cooperativas en el Distrito Federal, y
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
+XIX. Los demás para lograr los objetivos de la presente Ley.
 
-### CAPITULO TERCERO. DE LA FORMA DE GOBIERNO
+###### Artículo 48.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+Los establecimientos especializados en adicciones, de acuerdo con lo establecido por el Instituto y el Programa General, establecerán estrategias para dar seguimiento a las personas que, de ser el caso, egresen de dichos lugares, facilitando la información y brindando orientación acerca de las opciones de los diversos proyectos, programas y actividades enunciadas en el artículo anterior que se desarrollen en su comunidad.
 
-###### ARTICULO 45.
+###### Artículo 49.
 
-Los Diputados son defensores de los derechos sociales de los habitantes que representan en el Congreso del Estado. Tienen el deber de ser gestores de los problemas que afecten a los habitantes de sus Distritos o a sus representaciones proporcionales minoritarias. Los Diputados de mayoría relativa tienen además la obligación de recorrer los Municipios de sus Distritos durante los períodos de receso. Se exceptúan de esta obligación los Diputados que integran la Comisión Permanente.
+El Jefe de Gobierno del Distrito Federal podrá establecer los supuestos de exención del pago de contribuciones y el porcentaje de la misma, a los titulares de centros de trabajo en cuya planta laboral se incorporen a personas usuarias de los servicios de los Centros de Atención Integral del Consumo de Sustancias Psicoactivas que sean referidos por el Instituto.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1994)</small>
+## TÍTULO TERCERO. DE LA ATENCIÓN INTEGRAL DEL CONSUMO DE SUSTANCIAS PSICOACTIVAS
 
-###### ARTICULO 46.
+### Capítulo Segundo. De la intervención, tratamiento y rehabilitación del consumo de sustancias psicoactivas
 
-Los Diputados de Mayoría Relativa enviarán por escrito a los H.H. Cabildos de los Municipios comprendidos en sus respectivos distritos electorales, un informe de sus gestiones e intervenciones en beneficio de los habitantes de sus respectivos distritos. Los Diputados de representación Proporcional presentaran su informe ante la Comisión Permanente del H. Congreso del Estado.. (sic) Los informes seran presentados durante la segunda quincena del mes de junio de cada año. En ambos casos los Diputados podran comparecer, si así lo estiman pertinente, ante sus representados.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE AGOSTO DE 2012)</small>
 
-###### ARTICULO 47.
+###### Artículo 50.
 
-(DEROGADO, P.O. 27 DE JUNIO DE 1993)
+Los establecimientos especializados en adicciones en el Distrito Federal que presten servicios de atención residencial para el tratamiento y rehabilitación del consumo de sustancias psicoactivas, deben contar con lo siguiente:
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1994)</small>
+I. Aviso de funcionamiento respectivo, así como con el registro como institución especializada ante las instancias competentes;
 
-###### ARTICULO 48.
+II. Programa general de trabajo aprobado por las autoridades respectivas y registrado ante el Instituto, en el que se contemple el tratamiento médico o psicosocial basado en principios científicos, sociales y éticos;
 
-El 12 de Septiembre de cada año, el Gobernador del Estado, enviará al Congreso, por escrito un informe de la situación que guarda la Administración Pública. Podrá comparecer a la sesión para dirigir un mensaje, en cuyo caso, el Presidente del Congreso hará las apreciaciones correspondientes.
+III. Reglamento Interno;
 
-###### ARTICULO 49.
+IV. Manuales técnico-administrativos;
 
-(DEROGADO, P.O. 20 DE OCTUBRE DE 1994)
+V. Guía operativa de referencia y contra-referencia a otros establecimientos de mayor complejidad, de acuerdo con el cuadro clínico;
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+VI. Instalaciones y equipo apropiado para el desarrollo de sus funciones, de acuerdo con el tipo de modelo de atención que brinden;
 
-## TITULO TERCERO
+VII. Instalaciones específicas necesarias para dar atención a los usuarios, estableciendo perfectamente la división de acuerdo con su edad, género y discapacidades;
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+VIII. Personal capacitado y suficiente para llevar a cabo las funciones del establecimiento;
 
-### CAPITULO PRIMERO. DE LA DIVISION DE PODERES
+IX. Programa de atención integral y específico para las personas, que habrá de comprender la instalación de un ambiente físico apropiado, limpio y seguro, además de un tratamiento médico o psicosocial, de acuerdo con los principios científicos, sociales y éticos aplicables;
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+X. Ambiente y acciones que promuevan la participación activa de las personas usuarias del servicio en su tratamiento;
 
-###### ARTICULO 50.
+XI. Un servicio de quejas y sugerencias para personas usuarias del servicio y familiares, que garantice el que sean tomadas en cuenta para la solución, vigilancia y seguimiento de las peticiones;
 
-El derecho de iniciar leyes y decretos compete:
+XII. Programas que promuevan la participación de las personas integrantes del núcleo familiar en el proceso de atención a las personas usuarias del servicio y hacerlas corresponsales de acciones concretas propias del proceso de atención, y
 
-I.- A los Diputados al Congreso del Estado.
+XIII. Un directorio de instituciones y servicios para la referencia o canalización de personas en situaciones de urgencia, tratamiento y rehabilitación.
 
-II.- Al Gobernador del Estado;
+###### Artículo 51.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1997)</small>
+Los establecimientos especializados en adicciones de ayuda mutua, deberán cubrir los siguientes requisitos:
 
-III.- Al Tribunal Superior de Justicia; y
+I. Contar con aviso de funcionamiento ante la autoridad respectiva;
 
-IV.- A los Ayuntamientos en lo relativo a la Administración Municipal.
+II. Contar con responsable legal y encargado;
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+III. Contar con lineamientos y disposiciones por escrito del proceso de recuperación al que se va a incorporar la persona usuaria, del funcionamiento del establecimiento, así como tener en lugar visible los criterios de exclusión sobre padecimientos que no pueden atender, y
 
-###### ARTICULO 51.
+IV. Cumplir con las disposiciones que (sic) establecidas por el Instituto.
 
-Las iniciativas se turnarán a comisión para dictamen y en su discusión y resolución se seguirán los trámites que señala el Reglamento para el Gobierno Interior del Congreso.
+###### Artículo 52.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+Los establecimientos especializados en adicciones que ofrezcan tratamiento ambulatorio de ayuda mutua, deberán observar lo siguiente:
 
-###### ARTICULO 52.
+I. Contar con un responsable del servicio;
 
-Las leyes o decretos aprobados por el Congreso se remitirán al Ejecutivo para su promulgación y publicación. El Gobernador del Estado dentro de los 10 días siguientes al recibo de las leyes o decretos podrá formular observaciones. En caso de hacerlas las remitirá al Congreso donde serán de nuevo discutidos en las partes relativas, previo estudio y dictamen de las comisiones, y si fueren confirmados en su forma primitiva por las dos terceras partes de los diputados presentes, volverán al Ejecutivo para su inmediata promulgación y publicación.
+II. Que el tratamiento que se ofrezca respete la dignidad de las personas, sus derechos humanos y su integridad física y mental, y
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1997)</small>
+III. Si no se cuenta con la capacidad resolutiva, derivar a la persona al servicio correspondiente.
 
-###### ARTICULO 53.
+###### Artículo 53.
 
-El Ejecutivo no podrá hacer observaciones cuando el Congreso funcione como jurado o cuando declare que haya lugar a la formación de causa en contra de funcionarios públicos por la comisión de delitos comunes.
+Los establecimientos que practiquen tratamientos alternativos o complementarios cuya finalidad sea la reducción del daño ocasionado por el consumo de sustancias psicoactivas, deberán cubrir los requisitos establecidos en la Norma Oficial Mexicana en materia prevención (sic) y atención de adicciones, así como contar con el aviso de funcionamiento ante las autoridades respectivas y estar registradas ante el Instituto.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+De manera adicional, deberán tener un programa por escrito, el cual debe estar basado en la ciencia y contar con el aval técnico de las autoridades respectivas y la opinión favorable del Instituto.
 
-### CAPITULO SEGUNDO. DEL PODER LEGISLATIVO
+### Capítulo Tercero. De los menores y adolescentes en conflicto con la ley por consumo de sustancias psicoactivas
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+###### Artículo 54.
 
-SECCION A.- DE LA ORGANIZACION DEL CONGRESO
+Los establecimientos de atención médica que lleven a cabo el tratamiento con agonistas de sustitución, deben observar los siguientes requisitos:
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+I. Estar registrados y avalados por las autoridades respectivas y registrados ante el Instituto;
 
-###### ARTICULO 54.
+II. Ser parte de tratamientos integrales, buscando al final la abstinencia de la sustancia o la disminución de las consecuencias producidas por el consumo de sustancias, y
 
-Ninguna iniciativa que sea desechada por el Congreso podrá ser presentada de nuevo en el mismo período de sesiones.
+III. Involucrar y corresponsabilizar a las personas integrantes del núcleo familiar en la rehabilitación de la persona con consumo de sustancias psicoactivas.
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+###### Artículo 55.
 
-SECCION D.- DE LAS FACULTADES DEL CONGRESO
+El personal que labora en los establecimientos especializados en adicciones, deberá observar lo siguiente:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 1995)</small>
+I. Vigilar, proteger y dar seguridad a las personas usuarias del servicio mientras permanezcan en el mismo;
 
-###### ARTICULO 55.
+II. Mantener una relación con las personas usuarias del servicio basada en el respeto a su persona, a sus derechos humanos, integridad física y mental, así como a sus pertenencias;
 
-El Congreso tiene facultades para legislar en todo aquello que no esté expresamente establecido como atribución del Congreso de la Unión o alguna de sus Cámaras y además para:
+III. Informar sobre el costo directo, indirecto total o la gratuidad del tratamiento, así como su duración, en el momento del ingreso o cuando cualquier persona solicite información;
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 1988)</small>
+IV. Suministrar sólo la medicación a las personas usuarias del servicio prescrita por un médico especializado, registrándola en su expediente clínico así como el nombre del médico que la receta;
 
-I.- Resolver sobre los convenios que el Ejecutivo celebre con los Estados vecinos sobre cuestiones de límites; para que surtan efectos tales convenios se requiere la aprobación del Congreso de la Unión;
+V. Consignar por escrito en el expediente de la persona usuaria, toda información proporcionada a ella o sus familiares, debiendo manejarse bajo las normas de confidencialidad y el secreto profesional, y
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+VI. Abstenerse de brindar información sobre el proceso del tratamiento a persona o autoridad alguna, si no es con el consentimiento escrito de la persona usuaria o del tutor, familiar más cercano en vínculo o representante legal, en caso de tratarse de un menor, salvo los casos previstos por la legislación correspondiente.
 
-II.- Legislar en lo relativo a la administración interior del Estado;
+###### Artículo 56.
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+El ingreso de las personas a los establecimientos especializados en adicciones con modelos profesional y mixto podrá ser voluntario, de emergencia y como medida alternativa al proceso judicial, y en el de ayuda mutua será estrictamente voluntario, pudiendo darse el ingreso como medida alternativa al proceso judicial en los establecimientos que operen bajo este modelo que estén reconocidos por las autoridades respectivas y se sujeten a las disposiciones establecidas en la presente Ley y demás legislación aplicable.
 
-III.- Aprobar y modificar el presupuesto de egresos del Estado y decretar contribuciones suficientes para cubrirlo, tomando en consideración las participaciones y subsidios federales y estatales, en su caso;
+Los establecimientos especializados en adicciones observarán lo dispuesto en la Norma Oficial Mexicana respectiva a los procedimientos de ingreso de las personas con consumo de sustancias psicoactivas.
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1984)</small>
+###### Artículo 57.
 
-IV.- Decretar las contribuciones y otros ingresos suficientes para atender las necesidades de los Municipios, tomando en consideración las participaciones y subsidios federales y estatales, y en todo caso incluyendo las contribuciones y percepciones a que se refiere el Artículo 111 de esta Constitución;
+El Jefe de Gobierno dispondrá los mecanismos y facilidades administrativas para fomentar la creación de establecimientos especializados en adicciones por los sectores social y privado.
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+###### Artículo 58.
 
-V.- Autorizar al Ejecutivo para concertar empréstitos a largo plazo destinados a la realización de obras públicas que los justifiquen;
+El Instituto llevará acabo (sic) el monitoreo de los establecimientos especializados en adicciones con el objetivo de verificar y supervisar que cumplan con las disposiciones establecidas en la Ley General de Salud, la Ley de Salud del Distrito Federal, las Normas Oficiales Mexicanas en la materia, la presente Ley y demás instrumentos jurídicos aplicables en la prestación de sus servicios.
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+Si de la verificación se observa algún incumplimiento de las disposiciones señaladas o no brinden un trato digno y de respeto a los derechos humanos de las personas que se encuentren en tratamiento, el Instituto dará aviso a las autoridades federales respectivas con la finalidad de que inicien los procedimientos administrativos y penales contra quien resulte responsable.
 
-VI.- Derogar, adicionar y reformar las Leyes del Estado;
+### Capítulo Cuarto. De la integración comunitaria
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+###### Artículo 59.
 
-VII.- Otorgar premios o distinciones a las personas que hayan prestado servicios de importancia a la Nación o al Estado;
+El Instituto instrumentará acciones para llevar a cabo un registro de los establecimientos especializados en adicciones que brinden sus servicios en el Distrito Federal, actualizando y difundiendo mediante medios electrónicos un padrón de los mismos.
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+## TÍTULO CUARTO. DE LOS ESTABLECIMIENTOS ESPECIALIZADOS EN ADICCIONES
 
-VIII.- Cambiar provisionalmente la residencia de los Poderes del Estado;
+### Capítulo Primero. Disposiciones generales para el tratamiento y rehabilitación del consumo de sustancias psicoactivas en los establecimientos especializados en adicciones
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+###### Artículo 60.
 
-IX.- Nombrar Gobernador Provisional, Interino o Substituto;
+El Instituto dará seguimiento de los programas, estrategias y acciones que realicen los establecimientos especializados en adicciones, para evaluar los resultados obtenidos y opinar sobre el cumplimiento de los objetivos para los que fueron creados.
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1984)</small>
+Las acciones en materia de seguimiento y evaluación deben orientarse hacia la estructura, proceso, resultado e impacto de los programas de prevención, tratamiento, rehabilitación, participación comunitaria, enseñanza, capacitación e investigación sobre el consumo de sustancias psicoactivas.
 
-X.- Expedir la Ley que regulará su estructura y funcionamiento internos. Esta Ley no podrá ser vetada ni necesitará de promulgación del Eecujtivo (sic) del Estado para tener vigencia, expedir asimismo la Ley Orgánica de la Contaduría Mayor de Hacienda del Congreso del Estado;
+###### Artículo 61.
 
-Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo del Estado para tener vigencia.
+El Instituto diseñará mecanismos para que los establecimientos especializados en adicciones integren un reporte trimestral de sus actividades.
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+### Capítulo Segundo. De la de (sic) verificación, supervisión y seguimiento de las acciones de los establecimientos especializados en adicciones
 
-XI.- Expedir Leyes sobre el fraccionamiento de las propiedades rústicas y urbanas;
+###### Artículo 62.
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+El Instituto para la Atención y Prevención de las Adicciones de la Ciudad de México es un organismo descentralizado de la Administración Pública del Distrito Federal con personalidad jurídica y patrimonio propios, dotado de autonomía presupuestal, técnica, operativa y administrativa.
 
-XII.- Crear nuevos municipios en las circunstancias y condiciones que señala la Ley del Municipio Libre;
+### Capítulo Primero. Disposiciones generales y naturaleza
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+###### Artículo 63.
 
-XIII.- Suprimir aquellos municipios que dejen de tener la población suficiente y los recursos económicos indispensables para la satisfacción de los servicios municipales;
+El Instituto, como instancia rectora, tiene por objeto la atención integral del consumo de sustancias psicoactivas en el territorio que comprende el Distrito Federal.
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+###### Artículo 64.
 
-XIV.- Establecer la nomenclatura y categoría política de los pueblos, villas y ciudades del Estado y legislar en todo lo concerniente a sus fundos legales, a su planificación y a su urbanización;
+Para el cumplimiento de su objeto, el Instituto tendrá las siguientes funciones y atribuciones:
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+I. En materia de políticas públicas y propuesta de mejora del marco regulatorio:
 
-XV.- Legislar sobre el aprovechamiento de las aguas que queden bajo el régimen del Estado, conforme a la Constitución General de la República;
+a) Convocar, coordinar, organizar y promover con organismos públicos, privados y sociales la realización de acciones encaminadas a la integración del Programa General y los objetivos, estrategias y líneas de acción prioritarias, para el fortalecimiento de acciones encaminadas a abatir los problemas de salud pública relacionados y derivados del consumo de sustancias psicoactivas apoyándose en una red interinstitucional que permita darle al Instituto un carácter rector;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+b) Proponer modificaciones a la legislación del Distrito Federal para controlar la promoción, venta y uso indebido de bebidas con contenido alcohólico, medicamentos psicotrópicos y sustancias tóxicas inhalables;
 
-XVI.- Hacer la declaración de pérdida de la calidad de duranguenses o de ciudadanos del Estado, y de rehabilitación en ambos casos;
+c) Realizar investigaciones acerca del marco normativo en la materia de su objeto, en el ámbito internacional;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1997)</small>
+d) Implementar y ejecutar programas de vinculación con instituciones públicas, privadas y sociales;
 
-XVII.- Otorgar o negar su aprobación a los nombramientos que haga el Gobernador del Estado de los Magistrados del Tribunal Superior de Justicia, así como las renuncias o licencias que ante el propio Ejecutivo sometan los Magistrados del Tribunal Superior de Justicia, en los términos del artículo 93;
+e) Establecer comités de normalización en materias de prevención, tratamiento e integración comunitaria y certificar a instituciones públicas y privadas que satisfagan los estándares establecidos, y
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+f) Evaluar de forma periódica y esquemática los objetivos, estrategias y líneas de acción prioritarias que se deriven del Programa General, entregando un informe anual a la Asamblea Legislativa y al Consejo Directivo que contenga los alcances de la aplicación de dicho Programa.
 
-XVIII.- Convocar a elecciones para Gobernador, Diputados y Munícipes;
+II. En materia de prevención:
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1984)</small>
+a) Prestar los servicios de prevención del consumo de sustancias psicoativas en el Distrito Federal, en los términos que establece la presente Ley;
 
-XIX.- Legislar sobre el funcionamiento del Municipio Libre y expedir las bases normativas a las que deberán sujetarse los ayuntamientos para la formación de los reglamentos respectivos;
+b) Coordinar la ejecución de las acciones institucionales de la Administración Pública en materias de prevención del consumo de sustancias psicoactivas en el Distrito Federal;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+c) Implementar programas de prevención, escolares, culturales y deportivos y en espacios públicos, prioritariamente;
 
-XX.- Resolver los conflictos que sobre límites se susciten entre los municipios;
+d) Elaborar publicaciones en los términos que determine el Consejo Directivo;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1997)</small>
+e) Implementar redes sociales utilizando las nuevas tecnologías de información y comunicación y un servicio de atención telefónica;
 
-XXI.- Expedir el bando solemne para dar a conocer en todo el Estado la declaración de Gobernador que hubiere hecho el Tribunal Estatal Electoral;
+f) Integrar, en coordinación con las dependencias y órganos de carácter educativo y de asistencia social de la Administración Pública, el registro de zonas de alto riesgo de adicciones y realizar actividades de detección temprana de consumo de sustancias psicoactivas en los ámbitos familiar, escolar, laboral y comunitario, para la implementación de acciones específicas;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1997)</small>
+g) Llevar a cabo jornadas públicas de prevención a comunidades específicas, a través de conferencias, talleres y módulos de orientación;
 
-XXII.- Tomarles la protesta de ley al Gobernador y a los Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral y a los miembros del Consejo de la Judicatura del Estado;
+h) Conformar la red de instituciones públicas y privadas para referencia y canalización de usuarios;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1987)</small>
+i) Implementar el programa de asistencia a personal de primer nivel de atención de la Secretaría de Salud, Procuraduría General de Justicia, Secretaría de Seguridad Pública, Tribunal Superior de Justicia, Sistema de Transporte Colectivo, Instituto de las Mujeres y Secretaría de Desarrollo Social, todas del Distrito Federal;
 
-XXIII.- Erigirse en Jurado de Acusación en los casos de presunta responsabilidad política y penal;
+j) Fomentar la participación de instituciones privadas, fundaciones, organismos patronales, asociaciones y cámaras en el Fideicomiso para la Atención Integral de las Adicciones en el Distrito Federal;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE MAYO DE 1997)</small>
+k) Coordinarse permanentemente con la Administración Pública, así como con instituciones educativas, organizaciones juveniles, deportivas, culturales y gremiales de los sectores social y privado, para la identificación de zonas y grupos que presenten problemas de uso, abuso y dependencia de sustancias psicoactivas y la realización de acciones preventivas, y
 
-XXIV.- Recibir los avisos de ausencia del Gobernador y conceder, en los términos de esta Constitución y de la Ley, las autorizaciones o en su caso, licencias al Gobernador, Diputados, Magistrados del Tribunal Superior de Justicia, del Tribunal Estatal Electoral y a los miembros del Consejo de la Judicatura del Estado;
+l) Emitir los criterios técnicos para la realización de campañas de promoción a la salud en materia de consumo de sustancias psicoactivas que se difundan entre grupos vulnerables, los riesgos de la salud secundarios al uso, abuso y dependencia de sustancias psicoactivas, a fin de prevenir su consumo.
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 1984)</small>
+III. En materia de tratamiento:
 
-XXV.- Revisar, discutir y aprobar en su caso, con vista del informe que rinda la Contaduría Mayor de Hacienda, la Cuenta Pública que anualmente le presentará el Ejecutivo y los Ayuntamientos, separadamente, sobre los gastos de administración; debiendo comprender el examen, no solo la conformidad de las erogaciones en las partidas del correspondiente presupuesto de egresos, sino también la exactitud y la justificación de tales erogaciones;
+a) Implementar el registro de los establecimientos especializados en adiciones y mantenerlo actualizado;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+b) Coadyuvar con la Secretaría de Salud del Distrito Federal y las autoridades sanitarias federales en la vigilancia y control de los establecimientos especializados en adicciones;
 
-XXVI.- Decretar amnistías; conceder indultos en los casos que señala la Legislación Penal;
+c) Establecer criterios para la homologación de los servicios de tratamiento en instituciones públicas y privadas;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+d) Implementar programas de seguimiento, contención y cuidado continuo;
 
-XXVII.- Autorizar al Ejecutivo y a los Ayuntamientos para la enajenación de bienes inmuebles propiedad del Estado o Municipales respectivamente. En el caso de venta esta deberá efectuarse en pública subasta y al mejor postor, teniendo como base su valor real y con expresa prohibición de que se finque a favor de un funcionario público federal, estatal o municipal, de sus parientes consanguíneos en línea recta sin Iimitación de grado o transversal hasta el cuarto grado, o de sus parientes por afinidad, o consanguineos de estos hasta el tercer grado;
+e) Suscribir convenios con instituciones relacionadas con el tratamiento al consumo de sustancias psicoactivas, y
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 1997)</small>
+f) Fomentar, asesorar y vigilar la constitución de establecimientos especializados en adicciones que proporcionen servicios de ayuda mutua y terapéuticos.
 
-XXVIII.- Designar a los miembros del Consejo de la Judicatura del Poder Judicial del Estado, en los términos que determina esta Constitución y la Ley Orgánica del Poder Judicial;
+IV. En materia de integración comunitaria:
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 1997)</small>
+a) Fomentar la participación del sector privado para la formación de habilidades para el trabajo y el incremento de la oferta laboral a las personas usuarias del servicio;
 
-XXVIII BIS.- Designar a los Magistrados del Tribunal Estatal Electoral de acuerdo con lo establecido por esta Constitución y la Ley Orgánica del Poder Judicial;
+b) Implementar programas de uso del tiempo libre y esparcimiento, culturales y deportivos;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1987)</small>
+c) Llevar a cabo actividades que involucren la participación familiar, social y comunitaria en que se desenvuelve la persona usuaria del servicio;
 
-XXIX.- Llevar un registro del patrimonio de los servidores públicos a que se refiere el Artículo 122 de esta Constitución, e investigar en el caso de que exista presunción de enriquecimiento ilícito de alguno de los servidores mencionados en dicho Artículo, procediendo en tal caso, conforme a lo establecido en las leyes correspondientes;
+d) Realizar acciones de seguimiento para personas usuarias del servicio en conflicto con la Ley, de grupos de riesgo y vulnerables, y
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1980)</small>
+e) Desarrollar y fomentar terapias grupales de ayuda mutua.
 
-XXX.- Expedir Leyes tendientes a normar las medidas de protección, y a corrección de conductas en su caso, de los menores, con el fin de propiciar su correcta incorporación al desarrollo de la sociedad;
+V. En materia de investigación y evaluación:
 
-> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 1984)</small>
+a) Llevar a cabo la investigación cuantitativa y cualitativa que permita conocer oportunamente el impacto de las intervenciones preventivas, curativas y de control del consumo de sustancias psicoactivas;
 
-XXXI.- Vigilar por medio de una comisión de su seno el exacto desempeño de las funciones de la Contaduría Mayor.
+b) Evaluar las acciones, programas y medidas que se adopten, relativos a la prevención, diagnóstico, tratamiento, rehabilitación e integración comunitaria de las personas con uso, abuso y dependencia de sustancias psicoactivas, por los sectores público y privado que realizan acciones en materia de consumo de sustancias psicoactivas, se encuentren sustentados en un modelo integral y que cumpla con los ordenamientos legales vigentes aplicables en la materia;
 
-> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 1984)</small>
+c) Brindar la asesoría que requieran personas e instituciones públicas, sociales y privadas, y participar, en su caso, como órgano consultivo y propositivo en el estudio, formulación y aplicación de medidas públicas dentro del ámbito de competencia, y
 
-XXXII.- Nombrar y remover, en su caso, al Contador Mayor de Hacienda del Congreso.
+d) Diseñar, coordinar y establecer acciones de coordinación interinstitucional y sectorial de los diferentes niveles del Gobierno del Distrito Federal, para la conformación de una red integral resolutiva y coordinada y el intercambio de información a través de la consulta compartida de bases de datos.
 
-> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 1984)</small>
+VI. En materia de formación y capacitación:
 
-XXXIII.- Conocer de los actos, procedimientos y resolver, por acuerdo de las dos terceras partes de sus integrantes, sobre la suspensión definitiva de ayuntamientos y declarar, en consecuencia, que estos han desaparecido, así como suspender o revocar el mandato a alguno de sus miembros; en ambos casos, siempre y cuando los miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan, observándose lo siguiente:
+a) Desarrollar programas de capacitación técnica y profesional del personal que atiende a personas con uso, abuso y dependencia de sustancias psicoactivas, dirigida al personal de salud, educación, desarrollo social, impartición de justicia, organizaciones de la sociedad civil, grupos de ayuda mutua, asociaciones civiles y sociedad participativa;
 
-a).- Procederá la suspensión de Ayuntamientos, en forma definitiva, con la consecuente declaración de desaparición, cuando se hayan presentado circunstancias, de hecho, como la desintegración del cuerpo edilicio, por renuncia o falta de la mayoría de sus miembros; cuando la mayoría de los integrantes de cabildo no asistan a tres sesiones consecutivas, sin causa justificada; cuando la mayoría o la totalidad de los integrantes del Ayuntamiento se encuentren en el caso en que proceda su suspensión en lo particular por la Comisión de delito doloso; o cuando el Ayuntamiento, como tal, haya violado reiteradamente, las Leyes del Estado y/o federales.
+b) Fomentar la formación de profesionales en temas de consumo de sustancias psicoactivas con instituciones educativas públicas y privadas;
 
-En caso de declararse desaparecido un Ayuntamiento en los dos primeros años del período, si conforme a la Ley no procediere que entraren en funciones los suplentes, el Congreso de inmediato nombrará un Consejo Municipal, a la vez que convocará a elecciones extraordinarias, que deberán celebrarse a más tardar a los noventa días después de haberse publicado la convocatoria. Cuando la declaración de desaparición de un Ayuntamiento ocurriere en el último año del período y que conforme a la Ley tampoco procediere que entraren en funciones los suplentes, el Congreso de inmediato designará de entre los vecinos un Consejo Municipal que concluirá el período respectivo.
+c) Organizar y fomentar la organización de congresos, seminarios y paneles que favorezcan el intercambio de conocimientos en materia de consumo de sustancias psicoactivas, y
 
-> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 1995)</small>
+d) Desarrollar programas de formación de capacitadores en materias de prevención y detección temprana de consumo de sustancias psicoactivas, para su actuación en las diferentes colonias, barrios, unidades habitacionales y pueblos del Distrito Federal.
 
-Así mismo, cuando debiendo renovarse un Ayuntamiento no se hubiese celebrado su elección en la fecha correspondiente o habiendo sido elegido no se presentare oportunamente la mayoría de sus miembros, tanto propietarios como suplentes, al ejercicio de sus funciones o cuando la elección haya sido declarada nula, el Congreso de inmediato procederá a nombrar el Consejo Municipal respectivo, en los términos especificados en el párrafo anterior.
+VII. Mantener una vinculación directa con el Consejo Nacional contra las Adicciones.
 
-b).- Procederá la suspensión temporal de uno de los miembros del Ayuntamiento, cuando el munícipe de que se trate se le dicte auto de formal prisión, por la Comisión de delito doloso, la suspensión temporal permanecerá hasta que lo determine la sentencia definitiva correspondiente y que haya causado ejecutoria.
+VIII. Aprobar su reglamento interno, y
 
-c).- Procederá la suspensión definitiva de alguno de los miembros del Ayuntamiento, cuando el munícipe de que se trate se encuentre en cualquiera de los casos siguientes: Cuando se le haya dictado sentencia condenatoria y que ésta haya causado ejecutoria; y cuando deje de asistir consecutivamente a tres sesiones de cabildo, sin causa justificada, la suspensión definitiva del munícipe dará lugar a la revocación del mandato respectivo.
+IX. Las demás actividades que le correspondan conforme a la presente Ley y otras disposiciones aplicables.
 
-Si alguno de los miembros dejare de desempeñar su cargo, será substituído por su suplente, o se procederá según lo dispone la Ley.
+###### Artículo 65.
 
-> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 1984)</small>
+El Instituto diseñará un mecanismo para la creación del Observatorio Especializado en Sustancias Psicoactivas, mismo que deberá integrar un sistema electrónico de información y difundirla por el mismo medio, teniendo las siguientes funciones:
 
-XXXIV.- Resolver sobre las controversias que se susciten entre los Municipios; y entre éstos y el Ejecutivo del Estado.
+I. Crear y administrar un centro de documentación digital en materia de consumo de sustancias psicoactivas;
 
-> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 1984)</small>
+II. Generar, analizar y consolidar información relacionada con problemas de adicción, particularmente la vinculada con la comisión de infracciones administrativas y delitos;
 
-XXXV.- Expedir, con base en lo dispuesto en el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias, leyes que rijan las relaciones de trabajo entre el Estado y sus trabajadores y entre los Municipios y quienes laboran a su servicio;
+III. Requerir a la Administración Pública y a instituciones privadas que proporcionen la información y documentación necesaria para el ejercicio de las atribuciones del Instituto;
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 1987)</small>
+IV. Diseñar e implementar protocolos de investigación sobre las mejores prácticas en procedimientos de diagnóstico, tratamiento, rehabilitación y integración comunitaria, considerando los diferentes modelos y modalidades existentes que permitan, con fundamento en evidencias científicas y experiencia clínica, el beneficio para la atención de personas con problemas de uso, abuso y dependencia de sustancias psicoactivas;
 
-XXXVI.- Recibir las declaraciones y resoluciones de las Cámaras de Diputados y Senadores del Congreso de la Unión en materia de responsabilidades de los servidores públicos;
+V. Promoción y realización de reuniones de intercambio de información de carácter social y científico con entidades nacionales e internacionales;
 
-> <small>(ADICIONADA, P.O. 25 DE JULIO DE 1993)</small>
+VI. Integrar la información estadística de los diferentes sistemas de información epidemiológica en consumo de sustancias psicoactivas con el fin de utilizar los resultados obtenidos en la elaboración de políticas públicas;
 
-XXXVII.- El Congreso del Estado, a solicitud de una cuarta parte de sus miembros, podrá citar a los Secretarios del Despacho del Ejecutivo, al Procurador de Justicia y a los titulares de los Organismos Públicos Descentralizados, durante el Primer Período de sesiones del ejercicio legal correspondiente, para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, debiendo enviarle citatorio, con la anticipación razonable, y haciéndole saber el motivo exacto de su comparecencia;
+VII. Concentrar los informes que permitan obtener datos sobre la morbimortalidad, la incidencia y prevalencia por tipo de drogas con características del usuario, con lo que se integrará la cartografía de zonas de riesgo que permita el diseño de acciones en materia de prevención;
 
-> <small>(ADICIONADA, P.O. 17 DE JULIO DE 1994)</small>
+VIII. Establecer relaciones de intercambio con organismos similares, nacionales e internacionales;
 
-XXXVIII.- Expedir leyes para la conservación, educación e instrucción de los grupos étnicos del Estado.
+IX. Integrar una base de datos sobre los diversos servicios que se prestan relacionados con la atención integral para el consumo de sustancias psicoactivas;
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+X. Integrar los expedientes electrónicos de personas usuarias de los servicios, que permita dar seguimiento a los procedimientos realizados y corregir desviaciones detectadas;
 
-SECCION E.- DE LA COMISION PERMANENTE
+XI. Emitir certificaciones a instituciones públicas y privadas que adopten medidas de prevención y tratamiento para el consumo de sustancias psicoactivas;
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
+XII. Asesorar y formular opiniones en materia de consumo de sustancias psicoactivas a la Secretaría de Salud cuando sea requerido, y
 
-###### ARTICULO 56.
+XIII. Actuar como órgano de coordinación, consulta técnica y normativa en materia de consumo de sustancias psicoactivas ante las dependencias del Gobierno del Distrito Federal.
 
-Durante los recesos del Congreso, habrá una Comisión Permanente que se compondrá de cinco Diputados Propietarios y cinco Suplentes. En la víspera de la clausura de cualquiera de los períodos de sesiones, será nombrada por la Legislatura, instalándose al día siguiente.
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-###### ARTICULO 57.
-
-Son atribuciones de la Comisión Permanente:
-
-I.- Llevar la correspondencia;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE MAYO DE 1997)</small>
-
-II.- Recibir la protesta al Gobernador, Magistrados y miembros del Consejo de la Judicatura del Estado, en los casos prescritos por esta Constitución;
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1997)</small>
-
-III.- Recibir los avisos de ausencia del Gobernador y conceder las autorizaciones, o, en su caso, licencias que solicite el Gobernador y los Magistrados del Tribunal Superior de Justicia, Magistrados Electorales y miembros del Consejo de la Judicatura;
-
-IV.- Acordar por sí o a pedimento del Ejecutivo, la celebración de períodos extraordinarios de sesiones del Congreso;
-
-V.- Presidir los períodos extraordinarios de sesiones del Congreso; y
-
-VI.- Las demás que le confiere está Constitución.
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-###### ARTICULO 58.
-
-La Comisión Permanente dará cuenta en la segunda sesión del período ordinario siguiente de la Legislatura, de las labores desarrolladas, presentando al efecto una memoria escrita de sus trabajos, así corno de los expedientes que hubiere formado.
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-### CAPITULO TERCERO. DEL PODER EJECUTIVO
-
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-SECCION A.- DE SU ELECCION Y FUNCIONAMIENTO
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-###### ARTICULO 59.
-
-El Poder Ejecutivo se deposita en una sola persona que se denomina Gobernador del Estado y que durará 6 años en su encargo.
-
-El Gobernador tomará posesión de su cargo a las 11.00 horas del día 15 de Septiembre, siguiente a la elección.
-
-El Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, substituto o encargado del Despacho.
-
-Nunca podrá ser electo para el período inmediato:
-
-a).- El Gobernador substituto.
-
-b).- El Gobernador provisional cuando hubiere desempeñado el cargo en los dos últimos años del período.
-
-c).- El Gobernador interino cuando haya desempeñado el cargo en los dos últimos años del período, o del ciudadano que con cualquier denominación desempeñe el cargo en ese período por más de tres meses continuos.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 1997)</small>
-
-## TITULO CUARTO
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-### CAPITULO CUARTO. DEL PODER JUDICIAL
-
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 29 DE MAYO DE 1997)</small>
-
-SECCION B.I
-
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1997)</small>
-
-ARTICULO 97 BIS.- El Tribunal Estatal Electoral será la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado. Para el ejercicio de sus atribuciones el Tribunal funcionará con una Sala Colegiada y sus sesiones de resolución serán públicas, en los términos que determine la ley. Contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento. La Sala se integrará con cinco Magistrados Electorales que ejercerán el cargo por un período de cuatro años y que podrá ser prorrogado por otro periodo más. El Presidente del Tribunal será elegido de entre sus miembros para fungir durante cuatro años.
-
-El Tribunal se organizará en los términos que señale la ley.
-
-El Tribunal Estatal Electoral, realizará la declaración de validez de la elección de Gobernador y declarará Gobernador electo al ciudadano que hubiese obtenido la mayoría de votos, una vez resueltas, en su caso, las impugnaciones que se hubieren interpuesto sobre la misma; resolver en forma definitiva y firme, en los términos de esta Constitución y de la ley, las impugnaciones que se presenten en materia electoral y las que establece el artículo 37 de esta constitución. Realizará las demás atribuciones que le confiere la ley.
-
-Para el ejercicio de su competencia los Magistrados Electorales serán independientes y responderán sólo al mandato de la ley. Serán electos por el voto de las dos terceras partes de los miembros del Congreso, de entre las ternas propuestas por el Consejo de la Judicatura, el cual las integrará conforme lo que disponga la Ley Orgánica del Poder Judicial. Si dicha mayoría no se logra en la primera votación, el Consejo presentará nuevas ternas.
-
-La administración, vigilancia y disciplina en el Tribunal Estatal Electoral corresponderán, en los términos que señala la ley, a una Comisión del Consejo de la Judicatura del Estado, que se integrará por el Presidente del Tribunal Estatal Electoral, quien la presidirá: un Magistrado Electoral designado por insaculación; y tres miembros del Consejo de la Judicatura del Estado. El Tribunal propondrá su presupuesto al Presidente del Tribunal Superior de Justicia para su inclusión en el proyecto del presupuesto del Poder Judicial del Estado. Asimismo el Tribunal Estatal Electoral expedirá su Reglamento Interno y los Acuerdos Generales para su adecuado funcionamiento.
-
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-SECCON A.- DE SU ORGANIZACION
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1997)</small>
-
-###### ARTICULO 60.
-
-Para ser Gobernador del Estado se requiere:
-
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 1994)</small>
-
-I.- Tener la ciudadanía Duranguense por nacimiento o siendo ciudadano mexicano por nacimiento, tener una residencia efectiva en el Estado, no menor de doce años anteriores al día de la elección;
-
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-II.- Estar en pleno ejercicio de sus derechos ciudadanos;
-
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-III.- Tener treinta años cumplidos para el día de la elección;
-
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1993)</small>
-
-IV.- Los duranguenses por nacimiento deberán tener por lo menos dos años de residencia efectiva dentro del territorio del Estado, inmediatamente anteriores al día de la elección;
-
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-V.- No pertenecer al estado eclesiástico, ni ser ministro de culto alguno;
-
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-VI.- Saber leer y escribir;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE MAYO DE 1997)</small>
-
-VII.- No ser Secretario o Subsecretario del Despacho en el Poder Ejecutivo del Estado, Procurador o Subprocurador de Justicia en el Estado, Magistrado del Tribunal Superior de Justicia del Estado, del Tribunal Estatal Electoral o miembro del Consejo de la Judicatura del propio Poder Judicial, Directores Generales de la Administración Estatal, Presidentes, Síndicos y Regidores Municipales, servidor público de mando superior de la federación, ni militar en servicio activo, salvo que se hubieran separado de su cargo noventa días antes de la elección;
-
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-VIII.- No haber sido condenado a más de un año de prisión excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya misión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, cualquiera que hubiere sido la pena impuesta.
-
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1997)</small>
-
-###### ARTICULO 61.
-
-La elección de Gobernador será directa, a través del voto universal, libre y secreto de los ciudadanos que cumplan con las cualidades que establece la ley. El Congreso del Estado, en los términos que señala esta Constitución, expedirá Bando Solemne para dar a conocer en todo el Territorio del Estado, la declaración de gobernador electo que haya hecho el Tribunal Estatal Electoral.
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-### CAPITULO UNICO. DEL MUNICIPIO LIBRE
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-###### ARTICULO 62.
-
-El ciudadano electo o designado Gobernador, otorgará la Protesta de Ley ante el Congreso del Estado o su Comisión Permanente.
-
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-SECCION B.- DE LAS FALTAS Y LICENCIAS DEL GOBERNADOR
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-### CAPITULO UNICO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1987)</small>
-
-###### ARTICULO 63.
-
-En caso de falta absoluta del Gobernador ocurrida en los dos primeros años del período respectivo, el Congreso de inmediato nombrará un Gobernador Interino, a la vez que convocará a elecciones que tendrán lugar dentro de los seis meses siguientes.
-
-Si el Congreso estuviere en receso, la Comisión Permanente designará un Gobernador Provisional, convocando de inmediato al Congreso a un período extraordinario de sesiones que deberá verificarse dentro de las setenta y dos horas siguientes para que éste a su vez nombre un Gobernador Interino y expida la convocatoria a elecciones en los términos del párrafo anterior.
-
-Cuando la falta absoluta del Gobernador ocurriese en los cuatro últimos años, el Congreso designará de inmediato al Gobernador Substituto que concluirá el periodo respectivo. Si el Congreso estuviere en receso la Comisión Permanente designará un Gobernador Provisional y procederá a convocar a un período extraordinario de sesiones que tendrá lugar dentro de las 72 setenta y dos horas siguientes, para que haga la designación del Gobernador Substituto.
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-###### ARTICULO 64.
-
-Si al comenzar un periodo constitucional no se presentase el Gobernador Electo, por causa de fuerza mayor o justificada a juicio del Congreso, éste designará un Gobernador Provisional que fungirá en tanto el Gobernador Electo no se presente a rendir la Protesta de Ley. Si dentro de las 72 setenta y dos horas siguientes de haber desaparecido las causas que motivaron la ausencia, el Gobernador electo no se presenta, el Congreso designará un Gobernador Interino y convocará a nuevas elecciones que se efectuarán en un término no mayor de seis meses. Si la elección no estuviere hecha y declarada al iniciarse un período Constitucional, la nueva Legislatura designará un Gobernador Interino y convocará a elecciones que se efectuarán en un término no mayor de seis meses.
-
-Si esto último no fuere posible por trastornos graves del orden público, se estará a lo dispuesto en la parte final del Artículo siguiente. En ambos casos, sin embargo, el Gobernador cuyo período haya concluido, dejará de ejercer sus funciones.
-
-En el caso de que el Gobernador Interino no pueda ser designado por la nueva Legislatura porque sus integrantes no se presenten, o la elección de Diputados no estuviere hecha y declarada, la Comisión Permanente de la Legislatura anterior nombrará un Gobernador Provisional, quien convocará a elecciones, que deberán verificarse dentro de los tres meses siguientes.
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-###### ARTICULO 65.
-
-Si fuere necesario convocar a elecciones y éstas no se pudieren verificar por trastornos graves del orden público en la mayor parte del Estado, el Congreso designará Gobernador Interino, pero si el orden público quedare restablecido antes de un año, el Congreso convocará a elecciones, de lo contrario designará al Gobernador Substituto que deba terminar el período constitucional, no pudiendo ser quien haya fungido como Interino.
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1995)</small>
-
-### CAPITULO UNICO. PREVENCIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+### Capítulo Segundo. De sus funciones y atribuciones
 
 #### SECCION C.- DE LOS JUECES
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE MAYO DE 1997)</small>
 
-###### ARTICULO 66.
+###### Artículo 66.
 
-Cuando el Gobernador se ausente del Estado por un término que exceda de siete días, pero no mayor de quince, debe dar aviso al Congreso o a la Comisión Permanente.
+Para el cumplimiento de su objeto y el desempeño de las funciones y atribuciones, el Instituto estará integrado por los siguientes órganos:
 
-Para que el Gobernador se pueda ausentar del Estado por mas de quince días, se requiere autorización del Congreso o de la Comisión Permanente.
+I. Consejo Directivo, y
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+II. Dirección General.
 
-###### ARTICULO 67.
+###### Artículo 67.
 
-En las faltas temporales del Gobernador que no excedan de tres meses consecutivos, el Secretario General de Gobierno se hará cargo del despacho del Poder Ejecutivo.
+El Consejo Directivo es el órgano colectivo de gobierno del Instituto y se integrara por las y los titulares de las siguientes instancias:
 
-Cuando las faltas temporales sean de más de tres meses continuos, el Congreso designará Gobernador Provisional quien lo suplirá hasta el término de la licencia; si el Congreso estuviere en receso, el nombramiento se hará en período extraordinario de sesiones que será convocado por la Comisión Permanente.
+I. Jefatura de Gobierno, quien lo presidirá;
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+II. Secretaría de Salud, que fungirá como suplente de la Presidencia;
 
-###### ARTICULO 68.
+III. Secretaría de Gobierno;
 
-El cargo de Gobernador no es renunciable y solo por causa justificada el Congreso podrá concederle licencia hasta la terminación del período respectivo.
+IV. Secretaría de Desarrollo Social;
 
-En este caso se procederá en los términos que señala el Articulo 63 de esta Constitución.
+V. Secretaría de Educación;
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
+VI. Secretaría de Cultura;
 
-###### ARTICULO 69.
+VII. Secretaría de Seguridad Pública, y
 
-Las autorizaciones para las ausencias temporales y de las licencias del Gobernador, sólo serán concedidas por causa justificada, a juicio del Congreso o de la Comisión Permanente.
+VIII. Procuraduría General de Justicia.
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+Los titulares serán los encargados de asistir a las reuniones del Consejo Directivo, pudiendo designar a una persona suplente que no podrá tener nivel inferior al de Director General.
 
-###### ARTICULO 70.
+> <small>(REFORMADO, G.O. 31 DE MAYO DE 2011)</small>
 
-Son facultades y obligaciones del Gobernador:
+El Consejo Directivo, invitará a participar en sus sesiones al titular del Instituto, así como a titulares de Dependencias federales, instituciones académicas, investigadores y organizaciones sociales relacionadas con el objeto de la presente Ley.
 
-I.- Publicar en su caso, cumplir y hacer cumplir las Leyes Federales que no menoscaben la soberanía del Estado;
+En las sesiones del Consejo Directivo en que se aborden temas relativos a la inversión y gasto, programas y acciones específicas a aplicarse y desarrollarse en las demarcaciones territoriales en que se divide el Distrito Federal, se invitará a las y los Jefes Delegacionales respectivos, para que emitan su opinión.
 
-II.- Promulgar, publicar y ejecutar las leyes y decretos que expida el Congreso del Estado, reglamentando su observancia en la esfera administrativa;
+###### Artículo 68.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1980)</small>
+El Consejo Directivo sesionará ordinariamente con la periodicidad que señale su Estatuto Orgánico, sin que pueda ser menor de cuatro veces al año, pudiendo celebrar sesiones extraordinarias cuando la Presidencia del Consejo lo estime necesario.
 
-III.- Coordinar, en base a los principios de la Ciencia de la Administración Pública, en forma permanente y continua los recursos humanos, materiales, técnicos y financieros del Estado, con el fin de lograr la mayor eficiencia y eficacia en la producción de bienes y servicios inherentes al beneficio económico, social y cultural del pueblo y cuidar del orden, tranquilidad y seguridad sociales;
+###### Artículo 69.
 
-IV.- Iniciar ante el Congreso leyes y decretos;
+Al Consejo Directivo, le corresponde aprobar:
 
-V.- Nombrar y remover libremente a los funcionarios y empleados de confianza las dependencias del Poder Ejecutivo; Concederles licencias con o sin goce de sueldo y aceptarles renuncias;
+I. El Estatuto Orgánico del Instituto, las reformas y adicciones (sic) al mismo, así como los manuales y demás normas que faciliten la organización su (sic) funcionamiento;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1987)</small>
+II. El Anteproyecto de presupuesto anual del Instituto y remitirlo al Jefe de Gobierno para su integración al Proyecto de Presupuesto de Egresos de la Administración Pública;
 
-VI.- Nombrar a los servidores públicos del Poder Ejecutivo y removerlos cuando haya causa que lo justifique; así como plantear al Congreso del Estado los casos de los servidores públicos que ameriten la iniciación de un juicio político por faltas u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho; independientemente de las facultades concedidas por la Ley respectiva en caso de responsabilidad administrativa y civil.
+III. El programa anual de trabajo y las políticas de actuación del Instituto, que le someta a su consideración el Director General;
 
-VII.- Excitar a los Tribunales a la más pronta y cumplida administración de justicia;
+IV. El informe de actividades del Instituto, que le someta a su consideración el Director General;
 
-VIII.- Visitar periódicamente los Municipios del Estado;
+V. Los estados financieros anuales, previo informe del Comisario y dictamen de los auditores externos;
 
-IX.- Hacer observaciones a las leyes y decretos que expidiere el Congreso del Estado, en los términos que señala el Artículo 52;
+VI. El establecimiento de un sistema interno de rendición de cuentas transparentes y oportunas, que le someta a su consideración el Director General;
 
-X.- Facilitar al Poder Judicial los auxilios que requiera para el ejercicio expédito de sus funciones;
+VII. Las propuestas de nombramiento o remoción que le formule el Director General respecto de los servidores públicos que ocupen cargos en el nivel administrativo inferior siguiente;
 
-XI.- Solicitar a la comisión permanente que convoque al Congreso a períodos extraordinarios de sesiones cuando lo considere necesario;
+VIII. Los tabuladores para el pago de los servidores públicos del Instituto, así como la normatividad y la política de remuneración del personal y determinar las políticas y lineamientos administrativos respecto a la contratación de servicios profesionales;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 1994)</small>
+IX. Las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deba celebrar el Instituto con terceros en materia de obras públicas, adquisiciones, arrendamientos de bienes y prestación de servicios relacionados con bienes muebles, de acuerdo con las disposiciones aplicables;
 
-XII.- Enviar al Congreso el día 12 de Septiembre de cada año, un Informe por escrito sobre el estado que guarda la Administración Pública;
+X. La estructura básica de la organización de la entidad y las modificaciones que procedan a la misma, de conformidad con los techos presupuestales aprobados;
 
-XIII.- (DEROGADA, P.O. 20 DE OCTUBRE DE 1994)
+XI. Los proyectos de gastos de inversión a los que se someterá el organismo, de acuerdo con la disponibilidad presupuestal y vigilar la correcta aplicación de los recursos asignados;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 1994)</small>
+XII. El Programa General, y
 
-XIV.- Presentar al Congreso dentro del período ordinario de sesiones pero a más tardar el día 12 de Diciembre de cada año, los proyectos de Ley de Ingresos y de Ley de Egresos para el ejercicio fiscal siguiente, incluyendo éste último el presupuesto respectivo; en el segundo período ordinario de sesiones deberá presentar la Cuenta Pública de gastos erogados por el Estado durante el año anterior;
+XIII. Las demás que le atribuya la presente Ley y normas aplicables.
 
-XV.- Hacer transferencias de las partidas del Presupuesto de Egresos, dando aviso oportuno al Congreso;
+Asimismo, le corresponde cuidar la congruencia global de las funciones paraestatales del Instituto con el sistema de planeación del Distrito Federal y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación.
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1997)</small>
+###### Artículo 70.
 
-XVI.- Designar a los Magistrados del Tribunal Superior de Justicia, debiendo hacerlo preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia, o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, sometiendo tal designación a la aprobación del Congreso;
+El Director General del Instituto, será designado por el Jefe de Gobierno, a propuesta en terna que formule el Consejo Directivo, y el cual deberá satisfacer los siguientes requisitos:
 
-XVII.- Concertar créditos, cuando así lo demanden las condiciones del erario estatal, para la satisfacción de las necesidades administrativas;
+I. Ser ciudadano del Distrito Federal en pleno ejercicio de sus derechos;
 
-XVIII.- Concertar convenios sobre límites con los Estados vecinos, sometiéndolos a la aprobación del Congreso;
+II. Residir en el Distrito Federal cuando menos un año antes de la designación;
 
-XIX.- Resolver los conflictos que se susciten entre los Ayuntamientos y que no sean de los que corresponda conocer al Congreso;
+III. No haber sido condenado por la comisión de algún delito doloso;
 
-XX.- Intervenir conciliatoriamente en las controvercias (sic) que surjan entre los miembros de un Ayuntamiento, cuando así lo soliciten;
+IV. No haber sido destituido ni inhabilitado para el desempeño de empleo, cargo o comisión en el servicio público, y
 
-XXI.- Nombrar y remober (sic) libremente a los jefes y oficiales de la policía urbana del lugar donde tengan su asiento los Poderes del Estado. Los cuerpos policiacos municipales de los lugares donde transitoriamente se encuentre el Ejecutivo quedarán automáticamente bajo su mando;
+V. Contar con experiencia en el desempeño de funciones o cargos de alto nivel decisorio en organismos públicos o privados vinculados con el tema de la prevención y tratamiento al consumo de sustancias psicoactivas o con conocimientos de alto nivel y experiencia en materia administrativa.
 
-XXII.- Declarar la utilidad pública y decretar la expropiación de conformidad a lo dispuesto por el Artículo 27 de la Constitución General de la República y a lo establecido en el Artículo 11 de la presente Constitución y demás leyes relativas;
+El Director General durará en su cargo cuatro años, pudiendo ser nombrado para un período adicional.
 
-XXIII.- Representar a la Hacienda Pública, pudiendo, en los casos que lo estime conveniente delegar esa representación y celebrar convenios de coordinación con las autoridades hacendarias federales;
+###### Artículo 71.
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 1994)</small>
+Las funciones de la Dirección General serán:
 
-XXIV.- Fomentar la educación popular, las actividades deportivas y el mejoramiento moral y material de la colectividad, sustentando siempre los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos;
+I. Dirigir y representar legalmente al Instituto;
 
-XXV.- Dictar medidas correspondientes para la organización del sistema penitenciario sobre la base de la educación y del trabajo como medios de rehabilitación del delincuente;
+II. Formular los programas institucionales de corto, mediano y largo plazo, así como los presupuestos del Instituto y presentarlos para la aprobación del Consejo Directivo;
 
-XXVI.- Cuidar de que las elecciones se efectuen en el tiempo señalado por las leyes relativas; y (sic)
+III. Establecer los métodos que permitan el óptimo aprovechamiento de los recursos del Instituto;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE JULIO DE 1979)</small>
+IV. Tomar las medidas pertinentes a fin de que las funciones del Instituto se realicen de manera articulada, congruente y eficaz;
 
-XXVII.- Promover el desarrollo económico del Estado en forma integral y equilibrada, conforme a los principios de justicia social;
+V. Observar la correcta aplicación de las disposiciones emanadas del Consejo Directivo;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1993)</small>
+VI. Convocar y coordinar a instituciones del sector público, privado y social para el desarrollo del Programa General y de los objetivos, estrategias y líneas de acción prioritarias;
 
-XXVIII.- Crear por Decreto, Organismos Descentralizados, empresas de participación estatal, fideicomisos, comités, direcciones y departamentos dependientes del Titular del Poder Ejecutivo;
+VII. Vigilar que la atención integral del consumo de sustancias psicoactivas en el Distrito Federal sea con apego a la normatividad vigente;
 
-> <small>(ADICIONADA, P.O. 26 DE JULIO DE 1979)</small>
+VIII. Establecer mecanismos de seguimiento para la aplicación de la presente Ley en todas las instituciones y organismos no gubernamentales y gubernamentales que brinden servicios en la materia o tengan actividades a fines (sic) respectivamente;
 
-XXIX.- Fomentar y estimular la creación de industrias y empresas rurales, buscando la participación armónica del capital y del trabajo en una verdadera alianza para la producción;
+IX. Planear, dirigir, supervisar y evaluar las actividades de las unidades administrativas del Instituto;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1993)</small>
+X. Presentar un Informe Anual de actividades del Instituto a la Asamblea Legislativa del Distrito Federal;
 
-XXX.- Celebrar convenios con la Federación o Municipios con respecto a la administración y recaudación de las contribuciones. También podrá celebrar convenios con la Federación, o sus Municipios respectivos, para que se asuman por unos u otros la ejecución y operación de obras; así como otorgar, revocar o modificar concesiones a los particulares que conforme a la legislación vigente competa al Ejecutivo para que asuman la ejecución y operación de obras, y la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario. Las leyes reglamentarias de la materia normaran las modalidades del procedimiento;
+XI. Planear, ordenar, coordinar, supervisar y evaluar las acciones necesarias para que el Instituto cumpla con su objeto;
 
-> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 1984)</small>
+XII. Instrumentar y ejecutar los acuerdos que emita el Consejo Directivo;
 
-XXXI.- Las demás que expresamente le confiere esta Constitución y las Leyes reglamentarias respectivas.
+XIII. Proponer ante el Consejo Directivo, para su aprobación, el nombramiento, o en su caso, remoción de los Directores Ejecutivos y de los servidores públicos del siguiente nivel jerárquico administrativo, así como nombrar y remover libremente al resto del personal que integre el Instituto;
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE JUNIO DE 1993)</small>
+XIV. Formular el programa anual de trabajo del Instituto, los proyectos de programas y el proyecto de presupuesto y presentarlos ante el Consejo Directivo para su aprobación;
 
-SECCION D.- DE LAS SECRETARIAS DEL DESPACHO DEL EJECUTIVO
+XV. Diseñar y aplicar indicadores para evaluar el desempeño del personal y en general del Instituto, así como la observancia del programa de trabajo;
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE JUNIO DE 1996)</small>
+XVI. Establecer y mantener un sistema de estadística que permita determinar los indicadores de gestión e impacto del Instituto;
 
-###### ARTICULO 71.
+XVII. Ejercer el presupuesto anual asignado al Instituto, con sujeción a las disposiciones aplicables;
 
-Para el auxilio en el despacho de asuntos, competencia del Poder Ejecutivo, sin que sea limitativo, habrá las siguientes Secretarías: General de Gobierno; Finanzas y de Administración; Comunicaciones y Obras Públicas; Desarrollo Industrial, Comercial y Minero; Agricultura, ganadería y Desarrollo Rural; Salud; Educación, Cultura y Deporte; Contraloría; así como una Procuraduría General de Justicia; además de las Secretarías que determine la Ley Orgánica de la Administración Pública del Estado.
+XVIII. Establecer, en términos de las disposiciones legales aplicables, sistemas para administrar al personal, los recursos financieros, los bienes y servicios con que cuente la entidad;
 
-Las facultades de los funcionarios a que se refiere este artículo, excepto las del Secretario General de Gobierno, que se determinan en el Artículo 73 de esta Constitución; se fijarán en la Ley Orgánica de la Administración Pública del Estado.
+XIX. Establecer y vigilar la aplicación de los programas de modernización, simplificación, desarrollo y mejoramiento administrativo del Instituto;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1987)</small>
+XX. Diseñar los sistemas que se requieran para optimizar el uso y la administración eficiente de los recursos del Instituto;
 
-###### ARTICULO 72.
+XXI. Presentar anualmente al Consejo Directivo un informe de actividades del Instituto y en cualquier tiempo los informes específicos que le soliciten;
 
-Para ser Secretario General de Gobierno y Sub-Secretario, se requiere:
+XXII. Mantener colaboración y coordinación con las Dependencias, Órganos y demás Entidades de la Administración Pública, a fin de hacer efectivo el cumplimiento de la Ley;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1987)</small>
+XXIII. Suscribir acuerdos o convenios de colaboración de conformidad con los lineamientos que al efecto emita el Consejo Directivo;
 
-I.- Ser ciudadano duranguense por nacimiento, en pleno ejercicio de sus derechos o ciudadano duranguense en pleno ejercicio de sus derechos con residencia efectiva dentro del territorio del Estado que no sea menor de diez años inmediatamente anteriores al día de su designación. Si es nativo del Estado, tener cuando menos seis años de residencia efectiva dentro del territorio del Estado inmediatamente anteriores al día de su designación;
+XXIV. Elaborar el Programa, que deberá incluir acciones tendientes a la prevención, tratamiento, rehabilitación e integración comunitaria de las personas con problemas de uso, abuso o dependencia de sustancias psicoactivas;
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+XXV. Promover la participación de las Dependencias, Órganos Desconcentrados, Órganos Político Administrativos y Entidades que integran la Administración Pública en el ámbito de su competencia, así como Instituciones Educativas, Organizaciones Juveniles, Deportivas y Culturales y Sociales en la ejecución de programas para la prevención, tratamiento, rehabilitación e integración comunitaria de las personas con problemas de uso, abuso o dependencia de sustancias psicoactivas, y
 
-II.- Ser mayor de 28 años de edad;
+XXVI. Las demás que le otorguen la presente Ley, el Estatuto Orgánico y el Consejo Directivo.
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 1987)</small>
+###### Artículo 72.
 
-III.- Poseer Título Profesional en grado de licenciatura;
+El Director General contará con un Consejo Consultivo como órgano de asesoría integrado por representantes de los Centros de Integración Juvenil, A.C., de instituciones privadas y académicas y organizaciones de la sociedad civil que determine el Consejo Directivo.
 
-IV.- (DEROGADA, P.O. 30 DE AGOSTO DE 1987)
+El Consejo Directivo determinará la forma y términos en que participarán en el Consejo Consultivo las instituciones privadas y académicas y organizaciones de la sociedad civil, sin que puedan ser más de siete.
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+Se invitará a la Comisión de Derechos Humanos del Distrito Federal y a la Universidad Autónoma de la Ciudad de México como observadores del Consejo Consultivo.
 
-V.- No haber sido Gobernador del Estado por elección popular ordinaria o extraordinaria; y
+###### Artículo 73.
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+Al Consejo Consultivo le corresponde proponer:
 
-VI.- Ser de reconocida probidad y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión, excepto los delitos por culpa, pero tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo.
+I. Indicadores de evaluación de acciones preventivas;
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+II. Criterios para el ofrecimiento de servicios de tratamiento;
 
-###### ARTICULO 73.
+III. Criterios para la realización de investigaciones sobre el consumo de sustancias psicoactivas;
 
-Son facultades y obligaciones del Secretario General de Gobierno:
+IV. Temas o grupos de riesgo sujetos de investigación;
 
-I.- Refrendar los reglamentos, decretos, iniciativas, acuerdos de observancia general, nombramientos, convenios con el Gobierno Federal y con los Gobiernos Estatales y otros documentos que a juicio del Gobernador deberá refrendar;
+V. Criterios de rehabilitación y acciones de integración comunitaria;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1980)</small>
+VI. Indicadores de evaluación de incidencias de consumo de sustancias psicoactivas y rehabilitaciones;
 
-II.- Encargarse del despacho del Poder Ejecutivo durante las faltas temporales del Gobernador que no excedan de tres meses; y
+VII. Criterios para la revisión y modificación del Programa, y
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 1980)</small>
+VIII. Los demás que determine el Consejo Directivo.
 
-III.- Desempeñar las comisiones y cargos que las leyes expresamente le confieran.
+###### Artículo 74.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
+Las responsabilidades de los servidores públicos del Instituto se regirán por la misma Ley aplicable a la Administración Pública del Distrito Federal.
 
-###### ARTICULO 74.
+Las relaciones laborales de los servidores públicos del Instituto se regirán por el Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Los requisitos para ocupar las Secretarías, excepto las especificadas en esta Constitución, se determinarán en la Ley Orgánica de la Administración Pública del Estado.
+###### Artículo 75.
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+El Instituto emitirá los lineamientos para la incorporación de personal especializado y su permanente capacitación, así como para la adquisición y empleo de nuevas tecnologías, que permitan hacer efectivos los principios de certeza, legalidad, independencia, imparcialidad, simplificación, austeridad, transparencia y racionalidad en las funciones del Instituto.
 
-SECCION E.- DE LA HACIENDA DEL ESTADO
+###### Artículo 76.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+El titular del Órgano Interno de Control del Instituto, será nombrado y removido por el Contralor General del Distrito Federal y tendrá a su cargo las actividades relativas al control y evaluación de la gestión pública del Instituto.
 
-###### ARTICULO 75.
+###### Artículo 77.
 
-La hacienda del Estado la constituyen:
+Son atribuciones del Contralor Interno del Instituto las siguientes:
 
-I.- Los bienes que sean propiedad del Estado;
+I. Proponer a la Contraloría General, para su aprobación, el Programa de control interno para cada ejercicio presupuestal, manteniendo un seguimiento sistemático de su ejecución;
 
-II.- El producto de las contribuciones decretadas por el Congreso;
+II. Programar, ordenar y realizar auditorias, investigaciones, inspecciones, revisiones y visitas a cada una de las áreas y direcciones del Instituto;
 
-III.- Los bienes vacantes en el Estado;
+III. Intervenir en los procesos administrativos de adquisiciones, arrendamientos, prestación de servicios, obra pública, enajenación de bienes muebles, almacenes e inventarios, para vigilar que se cumplan con las normas aplicables;
 
-IV.- Los bienes mostrencos;
+IV. Atender los requerimientos que le formule la Contraloría General derivados de las funciones que tiene encomendadas;
 
-V.- Las donaciones, legados, herencias o reintegros que se hagan o que se dejen en beneficio del Estado; y
+V. Requerir a los servidores públicos, así como a los proveedores, contratistas y prestadores de servicio del Instituto, la información y documentación necesaria para el desempeño de sus funciones;
 
-VI.- Los créditos que tenga a su favor, los derechos, los productos y los aprovechamientos, así como los subsidios y las participaciones en el rendimiento de impuestos federales que conforme a las leyes deba percibir el Erario.
+VI. Intervenir en la entrega-recepción de cargos que realicen los titulares y servidores públicos del Instituto, a fin de vigilar que se cumpla la normatividad aplicable;
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+VII. Investigar y fincar las responsabilidades a que haya lugar e imponer las sanciones respectivas;
 
-###### ARTICULO 76.
+VIII. Substanciar y resolver los recursos de revocación que se promuevan en contra de resoluciones que impongan sanciones administrativas a los servidores públicos;
 
-Las contribuciones serán decretadas por el Congreso en cantidad suficiente para cubrir los gastos tanto ordinarios como extraordinarios que demande la administración pública, tomando en consideración las participaciones y subsidios federales, en su caso.
+IX. Realizar la defensa jurídica de las resoluciones que emita, ante las diversas instancias jurisdiccionales;
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+X. Acordar, en su caso, la suspensión temporal de los servidores públicos cuando a su juicio resulte conveniente para el desarrollo de las investigaciones respectivas;
 
-###### ARTICULO 77.
+XI. Verificar que el Instituto atienda las observaciones y recomendaciones de la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal;
 
-Los habitantes del Estado y quienes residiendo en él tuvieren bienes en su territorio o ejecuten actos que deben surtir efectos en él mismo, estan obligados a contribuir para los gastos públicos de la Entidad de la manera que señalen las leyes relativas.
+XII. Verificar la aplicación de los indicadores de gestión que emita el Instituto, para cumplir las disposiciones de planeación, programación, presupuestación, ingreso, egresos, financiamiento, inversión, deuda, patrimonio, fondos y valores de la propiedad o al cuidado del Instituto, así como de adquisiciones, arrendamientos, servicios, obra pública y demás que señalen las disposiciones aplicables;
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE JUNIO DE 1996)</small>
+XIII. Supervisar el cumplimiento de las obligaciones fiscales por parte del Instituto;
 
-###### ARTICULO 78.
+XIV. Vigilar que el Instituto cumpla con las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal, y
 
-La coordinación, planeación y control de la Hacienda Pública, estará a cargo del Secretario de Finanzas y de Administración, dependiente del Ejecutivo, cuyas atribuciones determinará la Ley Orgánica de la Administración Pública del Estado.
+XV. Las demás que le atribuya la Ley Federal de Responsabilidades de los Servidores Públicos y demás ordenamientos aplicables.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE JUNIO DE 1996)</small>
+###### Artículo 78.
 
-###### ARTICULO 79.
+El Comisario Público es el órgano de vigilancia del Instituto y la designación de su titular estará a cargo del Contralor General del Distrito Federal.
 
-El Secretario de Finanzas y de Administración, así como los funcionarios y empleados de la dependencia a su cargo, que manejen fondos públicos, otorgarán ante el Ejecutivo fianza suficiente para garantizar su manejo.
+###### Artículo 79.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+Son atribuciones del Comisario Público:
 
-###### ARTICULO 80.
+I. Evaluar el desempeño general y por funciones del Instituto;
 
-En el Estado de Durango no habrá monopolios ni estancos de ninguna clase, ni exención de impuestos, ni prohibiciones a titulo de protección a la industria.
+II. Verificar los ingresos y el ejercicio de gasto corriente e inversión;
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+III. Vigilar el cumplimiento de las disposiciones legales y reglamentarias aplicables a la administración del Instituto;
 
-SECCION F.- DEL MINISTERIO PUBLICO
+IV. Vigilar la instrumentación y funcionamiento de los sistemas de programación y presupuestación del Instituto;
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+V. Vigilar el cumplimiento de las disposiciones y lineamientos relativos al control y evaluación de la gestión del Instituto;
 
-###### ARTICULO 81.
+VI. Vigilar la observancia de los programas institucionales;
 
-El Ministerio Público es un (sic) institución que representa los intereses de la sociedad para los efectos que se precisan en esta Constitución y leyes relativas.
+VII. Promover y vigilar el establecimiento de indicadores de gestión en materia de operación, productividad, finanzas e impacto social;
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+VIII. Evaluar el desempeño parcial y general del Instituto y formular las recomendaciones correspondientes;
 
-###### ARTICULO 82.
+IX. Verificar la integración legal del Consejo Directivo del Instituto así como su funcionamiento;
 
-Son facultades y obligaciones del Ministerio Público:
+X. Solicitar la inclusión en el orden del día de los asuntos que considere oportuno tratar en las sesiones del Consejo Directivo;
 
-I.- Ejercitar la acción penal por los delitos del orden común ante los tribunales judiciales;
+XI. Rendir anualmente, al Consejo Directivo y a la Contraloría General, un informe sobre los estados financieros con base en el dictamen de auditores externos, y
 
-II.- Promover lo necesario en la esfera de su competencia, para que la administración de justicia sea recta, pronta y expedita;
+XII. Las demás que le atribuyan la presente Ley y demás ordenamientos aplicables.
 
-III. Intervenir en todos los juicios en que se ventilen intereses de los ausentes, ignorados, menores o incapacitados y en los que se interesen establecimientos de beneficencia pública y de bienestar social a los cuales representará.
+###### Artículo 80.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE JUNIO DE 1996)</small>
+El patrimonio del Instituto se integrará por:
 
-IV.- Intervenir por conducto del Procurador de Justicia, en todos los asuntos en que el Estado sea parte, salvo lo referente al interés fiscal, en que se atenderá a las disposiciones del Gobernador del Estado para la representación de la Secretaría de Finanzas y de Administración; y
+I. Los bienes muebles e inmuebles que por cualquier título obtenga;
 
-V.- Las demás que ésta Constitución y leyes respectivas le señalen.
+II. Los recursos que le sean asignados en el Presupuesto de Egresos del Distrito Federal y en el Presupuesto de Egresos de la Federación;
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
+III. Las participaciones, donaciones, herencias y legados que reciba de personas físicas y morales, nacionales y extranjeras, y
 
-###### ARTICULO 83.
+IV. Los demás bienes y derechos que obtenga de conformidad con los ordenamientos aplicables.
 
-El ejercicio de las funciones del Ministerio Público se deposita en un Secretario de Justicia, un Subsecretario y en los Agentes que determine la Ley respectiva, los que serán nombrados y removidos libremente por el Gobernador del Estado.
+El Instituto administrará y dispondrá de su patrimonio en razón de su objeto.
 
-(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1987)(F. DE E., P.O. 12 DE DICIEMBRE DE 2002)
+###### Artículo 81.
 
-###### ARTICULO 84.
+La Asamblea Legislativa asignará recursos para el funcionamiento y operación del Instituto y la aplicación de las disposiciones de la presente Ley.
 
-Para ser Procurador o Sub-Procurador se requiere:
+###### Artículo 82.
 
-(REFORMADA, P.O. 30 DE AGOSTO DE 1987)(F. DE E., P.O. 12 DE DICIEMBRE DE 2002)
+Las Delegaciones y Dependencias del Gobierno del Distrito Federal destinarán el diez por ciento de su presupuesto en comunicación social para implementar campañas orientadas a la prevención y detección oportuna del consumo de sustancias psicoactivas, las cuales serán diseñadas por el Instituto.
 
-I.- Ser ciudadano duranguense por nacimiento en pleno ejercicio de sus derechos; o ciudadano duranguense en pleno ejercicio de sus derechos con residencia efectiva dentro del territorio del Estado que no sea menor de diez años inmediatamente anteriores al día de su designación. Si es nativo del Estado, tener cuando menos seis años de residencia efectiva dentro del territorio del Estado; inmediatamente anterior al día de su designación;
+> <small>(REFORMADO, G.O. 23 DE AGOSTO DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+###### Artículo 83.
 
-II.- Ser mayor de 28 años de edad;
+La política pública de atención integral del consumo de sustancias psicoactivas en la Ciudad de México requiere del establecimiento y adecuado funcionamiento de infraestructura e instalaciones necesarias para su ejecución.
 
-III.- (DEROGADA, P.O. 30 DE AGOSTO DE 1987)(F. DE E., P.O. 12 DE DICIEMBRE DE 2002)
+Para tal efecto, las Delegaciones asegurarán la construcción, dentro de su espacio geográfico, de por lo menos una unidad de atención, tratamiento y rehabilitación para el consumo de sustancias psicoactivas bajo los lineamientos que para tal efecto emita el Instituto.
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+###### Artículo 84.
 
-IV.- Poseer, el día del nombramiento, con antigüedad mínima de cinco años, título profesional de Licenciado en Derecho; y
+El Jefe de Gobierno destinará para los fines del Instituto, inmuebles sobre los que se declare la extinción de dominio, en caso de bienes fungibles se destinarán en porcentajes iguales a la procuración de justicia, a la seguridad pública y a la prevención y atención integral del consumo de sustancias psicoactivas.
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+###### Artículo 85.
 
-V.- No haber sido condenado a más de un año de prisión excepto el caso de delito por culpa. Tratándose de delitos patrimoniales o de aquellos cuya comisión lastime seriamente la buena fama en el concepto de la opinión pública, el responsable quedará inhabilitado para el cargo, cualquiera que hubiere sido la pena impuesta.
+El Jefe de Gobierno, emitirá los lineamientos respectivos para la operación del Fideicomiso para la Atención Integral de las Adicciones en el Distrito Federal, como un instrumento de financiamiento del objeto del Instituto, al cual se destinarán anualmente recursos públicos en el monto que apruebe el Jefe de Gobierno a propuesta del Instituto.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
-
-###### ARTICULO 85.
-
-Para ser Agente del Ministerio Público se deben satisfacer los requisitos que al efecto establece la ley reglamentaria respectiva.
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 1987)</small>
+El Jefe de Gobierno y el Instituto fomentarán la participación de los sectores social y privado a través de la aportación de recursos al Fideicomiso, en cuyo Comité Técnico se contemplará la participación de representantes de los mismos.
 
 ###### ARTICULO 86.
 
@@ -1332,6 +1244,8 @@ IV.- Procuradurías para la Defensa del Menor.
 El Ejecutivo del Estado nombrará y removerá libremente a los Defensores de Oficio, Procuradores de Asuntos Civiles y Familiares; Procuradores de la Defensa del Trabajo; y Procuradores de la Defensa del Menor.
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+
+### Capítulo Tercero. De su integración
 
 ###### ARTICULO 89.
 
@@ -1567,6 +1481,8 @@ Los Presidentes Municipales, Síndicos y Regidores no podrán ocupar el mismo ca
 
 > <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1984)</small>
 
+### Capítulo Cuarto. Del control y vigilancia del Instituto
+
 ###### ARTICULO 105.
 
 Los Municipios, estarán investidos de personalidad jurídica y manejarán su patrimonio conforme a la Ley.
@@ -1688,6 +1604,8 @@ El Presidente del Ayuntamiento es el representante jurídico del mismo y tiene e
 Los Ayuntamientos, en ningún caso podrán contraer sin previa autorización del Congreso del Estado, obligaciones que, para su cumplimiento, tengan señalado un término que exceda al período de su gestión.
 
 > <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1984)</small>
+
+### Capítulo Quinto. Del patrimonio del Instituto y recursos para la atención integral del consumo de sustancias psicoactivas
 
 ###### ARTICULO 114.
 
@@ -1847,9 +1765,7 @@ La residencia señalada como requisito de elegibilidad o de nombramiento para ca
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MAYO DE 1997)</small>
 
-## TITULO QUINTO
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE AGOSTO DE 1987)</small>
+## TÍTULO QUINTO. DEL INSTITUTO PARA LA ATENCIÓN Y PREVENCIÓN DE LAS ADICCIONES EN LA CIUDAD DE MÉXICO
 
 ###### ARTICULO 130.
 
@@ -1891,7 +1807,41 @@ DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS PUBLICOS.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 1939)</small>
 
-## TRANSITORIOS.
+## ARTÍCULOS TRANSITORIOS
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Artículo Segundo. El Director General someterá a la aprobación del Consejo Directivo el Estatuto Orgánico del Instituto, dentro de los sesenta días posteriores a la fecha de su nombramiento.
+
+Artículo Tercero. El Jefe de Gobierno deberá convocar al Consejo Interdependencial dentro de los treinta días siguientes a la entrada en vigor de la presente Ley.
+
+Artículo Cuarto. El Decreto de Presupuesto de Egresos del Distrito Federal contemplará partidas específicas destinadas a los rubros de educación para la prevención de consumo de sustancias psicoactivas así como a la construcción y mantenimiento de infraestructura física para la prevención y el tratamiento de consumo de sustancias psicoactivas.
+
+Artículo Quinto. Para el ejercicio fiscal 2011, las Delegaciones realizarán el proyecto ejecutivo y los trámites administrativos necesarios o en su caso la adquisición del terreno para la construcción de un Centro de Atención Integral del Consumo de Sustancias Psicoactivas. Durante el ejercicio fiscal 2012, se iniciará la construcción a la que se refiere el presente Artículo.
+
+Artículo Sexto. El Jefe de Gobierno emitirá el Decreto de abrogación del actual Consejo Contra las Adiciones (sic) del Distrito Federal, antes de la instalación del Consejo Interdependencial al que se refiere el presente Decreto.
+
+Artículo Séptimo. Las y los titulares de los órganos político administrativos instalarán el Consejo Delegacional para la Atención Integral del Consumo de Sustancias Psicoactivas en un plazo de 45 días posteriores a la entrada en vigor de la presente Ley.
+
+Recinto de la Asamblea Legislativa del Distrito Federal, a los veinte días del mes de diciembre del año dos mil diez.- POR LA MESA DIRECTIVA.- DIP. KAREN QUIROGA ANGUIANO, PRESIDENTA.- DIP. JUAN JOSÉ LARIOS MÉNDEZ, SECRETARIO.- DIP. JUAN CARLOS ZÁRRAGA SARMIENTO, SECRETARIO.- FIRMAS.
+
+En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintisiete días del mes de diciembre del año dos mil diez.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE SALUD, JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, MARTÍ BATRES GUADARRAMA.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO M. DELGADO CARRILLO.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 31 DE MAYO DE 2011.
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 23 DE AGOSTO DE 2012.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo. Las Delegaciones contarán con 45 días hábiles para publicar en la Gaceta Oficial del Distrito Federal los programas administrativos correspondientes para dar cumplimiento a lo dispuesto en el artículo 10° del presente Decreto, a partir de la entrada en vigor del mismo.
+
+Tercero. Las Delegaciones que durante el ejercicio fiscal 2011 no hayan efectuado el proyecto ejecutivo debidamente aprobado, los trámites administrativos o la adquisición del terreno apropiado para la construcción del Centro a que se refiere el artículo 83 de la presente Ley, tendrán como plazo para dar cumplimiento a dicha disposición el segundo semestre de 2012, a fin de garantizar el inicio de las obras de construcción en el primer trimestre del año 2014, lo anterior conforme a la suficiencia presupuestal
+
+Cuarto. La Secretaría de Salud y el Instituto para la Atención y Prevención de las Adicciones de la Ciudad de México, conforme a la suficiencia presupuestal asignada por la Asamblea Legislativa, instrumentarán las acciones establecidas en el presente Decreto.
 
 ###### Artículo 1º.
 
