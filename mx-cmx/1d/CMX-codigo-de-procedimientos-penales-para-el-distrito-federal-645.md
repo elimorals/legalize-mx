@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "1999-09-17"
+last_updated: "2000-06-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 17 DE SEPTIEMBRE DE 1999. REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE JUNIO DE 2000.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -344,9 +344,11 @@ La audiencia tendrá lugar ante el tribunal, juez o Ministerio Público que haya
 
 Por ningún acto procedimental se pagarán costas. El empleado que las cobrare o recibiere alguna cantidad, aunque sea a título de gratificación, será de plano destituido de su empleo, sin perjuicio de las demás sanciones que imponga el Código Penal.
 
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2000)</small>
+
 ###### ARTICULO 23.
 
-Todos los gastos que se originen en un proceso por diligencias que no fueren decretadas por un tribunal o juez, o promovidas por el Ministerio Público, se pagarán por el que las promueva.
+Todos los gastos que se originen por las diligencias en un proceso, se pagarán por la parte que las promueva, con excepción de aquéllas decretadas por un Tribunal o Juez, o promovidas por el Ministerio Público o el Defensor de Oficio o por el mismo inculpado cuando se encuentre asesorado por un Defensor de Oficio.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -619,6 +621,12 @@ En el supuesto a que se refiere el artículo 183 de este Código no podrán llev
 > <small>(ADICIONADO, D.O.F. 8 DE ENERO DE 1991)</small>
 
 No podrá consignarse a ninguna persona, si existe como única prueba la confesión. La Policía Judicial podrá rendir informes, pero no obtener confesiones; si lo hace, éstas carecerán de todo valor probatorio.
+
+> <small>(ADICIONADO, G.O. 8 DE JUNIO DE 2000)</small>
+
+###### ARTICULO 59
+
+BIS.- En los casos de revocación del defensor particular, el Juez procederá a requerir al inculpado la designación de un nuevo defensor dentro del término de tres días; en caso de no hacerlo, se le nombrará uno de oficio, el cual contará con un término de tres días para imponerse de los autos, contados a partir de la notificación de su cargo.
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -1364,9 +1372,13 @@ En la misma forma que determina este capítulo se procederá, cuando mediare exh
 
 ### CAPITULO VIII. Peritos
 
+> <small>(REFORMADO, G.O. 8 DE JUNIO DE 2000)</small>
+
 ###### ARTICULO 162.
 
 Siempre que para el examen de alguna persona o de algún objeto se requieran conocimientos especiales, se procederá con intervención de peritos.
+
+Cuando la parte que promueve lo haga a través de defensor de oficio, por alguna circunstancia no le sea posible contar con un perito, o no tenga los medios económicos para cubrir los gastos que esto implique, el Juez previa la comprobación de dicha circunstancia, de oficio o a petición de parte, nombrará un perito oficial de alguna institución pública, a fin de no dejar en estado de indefensión al inculpado.
 
 ###### ARTICULO 163.
 
@@ -5383,3 +5395,7 @@ G.O. 17 DE SEPTIEMBRE DE 1999.
 REPUBLICADO, D.O.F. 30 DE SEPTIEMBRE DE 1999.
 
 UNICO.- El presente Decreto entrará en vigor el 1º de octubre de 1999. Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 8 DE JUNIO DE 2000.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
