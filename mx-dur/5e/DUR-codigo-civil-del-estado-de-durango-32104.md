@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "1986-06-15"
+last_updated: "1994-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CODIGO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1994.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -5673,7 +5673,7 @@ ART. 1777.- La acción para repetir lo pagado indebidamente prescribe en un año
 
 ART. 1778.- El que ha pagado para cumplir una deuda prescrita o para cumplir un deber moral, no tiene derecho de repetir.
 
-ART. 1779.- Lo que se hubiere entregado para la realización de un fin que sea ilícito o contrario a las bue (sic) na costumbres, no quedará en poder del que lo recibió. El cincuenta por ciento se destinará al Fisco del Estado y el otro cincuenta por ciento tiene derecho de recuperarlo el que lo entregó.
+ART. 1779.- Lo que se hubiere entregado para la realización de un fin que sea ilícito o contrario a las buena (sic) costumbres, no quedará en poder del que lo recibió. El cincuenta por ciento se destinará al Fisco del Estado y el otro cincuenta por ciento tiene derecho de recuperarlo el que lo entregó.
 
 ### CAPITULO IV.
 
@@ -8787,6 +8787,10 @@ ART. 2804.- El crédito puede cederse en todo o en parte, siempre que la cesión
 
 Si la hipoteca se ha constituido para garantizar obligaciones a la orden, puede transmtiirse (sic) por endoso del título, sin necesidad de notificación al deudor, ni de registro. La hipoteca constituida para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+Las entidades financieras podrán ceder créditos que tengan garantizados con hipoteca sin necesidad de notificación al deudor, ni de registro, cuando los mismos sean cedidos a una entidad financiera actuando a nombre propio o como fiduciaria y el propósito de la cesión sea la emisión y colocación de valores, y siempre que el cedente mantenga la administración de los créditos. En caso de que la entidad cedente deje de llevar la administración de los créditos deberá únicamente notificarlo al deudor.
+
 ART. 2805.- La hipoteca generalmente durará por todo el tiempo que subsista la obligación que garantice y cuando ésta no tuviere término para su vencimiento, la hipoteca no podrá durar más de diez años.
 
 Los contratos pueden señalar a la hipoteca una duración menor que la de la obligación principal.
@@ -9410,3 +9414,7 @@ UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de
 P.O. 15 DE JUNIO DE 1986.
 
 UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1994.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
