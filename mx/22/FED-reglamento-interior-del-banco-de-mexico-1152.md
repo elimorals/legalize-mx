@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "1997-06-13"
+last_updated: "1997-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JULIO DE 1997.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -53,7 +53,7 @@ El Secretario será asistido en sus funciones por un Prosecretario, quien ademá
 
 Las actas de las sesiones de la Junta, se levantarán y conservarán en los términos acordados por ésta, serán firmadas por los miembros asistentes y por el Secretario, debiéndose conservar un ejemplar de los documentos que hubieran sido relacionados en la sesión correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE JULIO DE 1997)</small>
 
 ###### ARTICULO 4o.
 
@@ -100,6 +100,8 @@ Dirección de Administración
 Dirección de Contraloría
 
 Dirección Jurídica
+
+Dirección de Seguridad
 
 Dirección de Sistemas
 
@@ -201,13 +203,13 @@ IV. Publicar información relativa a los fondos citados en la fracción I anteri
 
 Esta Dirección General tendrá adscrita la Dirección Jurídica de los Fondos de Apoyo a la Banca y al Mercado de Valores, la cual contará con las atribuciones relativas a la formalización de los actos y operaciones que realicen los referidos fondos. Las funciones de dicha Dirección Jurídica no incluirán las atribuciones que corresponden, en términos de este Reglamento a las Direcciones previstas en los artículos 17 y 28.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 1997)</small>
 
 ###### ARTICULO 15.
 
-La Dirección General de Administración Interna tendrá las atribuciones contenidas en los artículos 26 a 28 de este Reglamento.
+La Dirección General de Administración Interna tendrá las atribuciones contenidas en los artículos 26 a 28 BIS de este Reglamento.
 
-A esta Dirección General estarán adscritas las Direcciones de Administración, de Contabilidad y Jurídica.
+A esta Dirección General estarán adscritas las Direcciones de Administración, de Contabilidad, Jurídica y de Seguridad.
 
 ###### ARTICULO 16.
 
@@ -503,23 +505,27 @@ XII. Interpretar para efectos internos, las disposiciones emitidas conforme a lo
 
 XIII. Formalizar los actos, convenios y contratos relacionados con la adquisición, uso, mantenimiento, administración y enajenación de bienes inmuebles, así como los relacionados con la construcción, la adaptación y demolición de éstos, ya sean propiedad del Banco o que ocupe bajo cualquier título.
 
+> <small>(ADICIONADO, D.O.F. 24 DE JULIO DE 1997)</small>
+
+ARTICULO 28 BIS.- La Dirección de Seguridad tendrá las atribuciones siguientes:
+
+I. Coordinar y ejecutar las actividades relacionadas con la seguridad interna del Banco, y
+
+II. Atender y resolver los requerimientos, que le presenten las autoridades o particulares, relativos al análisis de monedas nacionales o extranjeras, para determinar si las mismas son falsas o hubieren sido alteradas.
+
+> <small>(REFORMADO, D.O.F. 24 DE JULIO DE 1997)</small>
+
 ###### ARTICULO 29.
 
 La Dirección de Sistemas tendrá las atribuciones siguientes:
 
-I. Establecer, operar y mantener sistemas de informática y telecomunicaciones de utilización institucional;
+I. Establecer, operar y mantener sistemas de cómputo y telecomunicaciones;
 
-II. Implementar un sistema de comunicaciones que permita a los intermediarios financieros intercambiar información con el Banco, dando a conocer aquellas características que deberán tener los aparatos utilizados en los procedimientos establecidos en las disposiciones emitidas por el Banco;
+II. Proporcionar a los órganos colegiados, a sus miembros y a las unidades del Banco, los bienes y servicios que soliciten de acuerdo con la normativa correspondiente, para que establezcan y operen los sistemas de informática y telecomunicaciones que requieran dentro del ámbito de sus atribuciones, así como brindarles el soporte especializado en esta materia;
 
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 1997)</small>
+III. Diseñar e implementar sistemas de comunicaciones que permitan a los intermediarios financieros y cuentahabientes del Banco, intercambiar información con este último, y
 
-III. Coordinar y ejecutar las actividades relacionadas con la seguridad interna del Banco, y
-
-> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 1997)</small>
-
-IV. Atender y resolver los requerimientos que le presenten las autoridades o particulares, relativos al análisis de monedas nacionales o extranjeras, para determinar si las mismas son falsas o hubieren sido alteradas.
-
-V. (DEROGADA, D.O.F. 13 DE JUNIO DE 1997)
+IV. Proporcionar, en el ámbito de cómputo y telecomunicaciones, los bienes y servicios necesarios para apoyar la seguridad del Banco.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 1997)</small>
 
@@ -804,3 +810,7 @@ D.O.F. 13 DE JUNIO DE 1997.
 PRIMERO. Las presentes reformas entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Cuando en cualquier instrumento jurídico se haga referencia a la Gerencia Jurídica del Banco, se entenderá hecha a la Gerencia Jurídica de lo Contencioso y Asuntos Laborales del Banco en el ámbito de las atribuciones que le confiere el Reglamento Interior del Banco de México.
+
+D.O.F. 24 DE JULIO DE 1997.
+
+UNICO.- Las presentes reformas y adición entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
