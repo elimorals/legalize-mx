@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2004-01-26"
+last_updated: "2004-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 2004.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -269,7 +269,9 @@ El territorio del Estado, se divide política y administrativamente como sigue:
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 1983)</small>
 
-I. En 18 Municipalidades autónomas a saber: Ahome, Fuerte, Choix, Guasave, Sinaloa, Angostura, Salvador Alvarado, Mocorito, Badiraguato, Culiacán, Navolato, Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa, con la extensión y límites que les correspondan.
+I. En 18 Municipalidades autónomas a saber:
+
+Ahome, Fuerte, Choix, Guasave, Sinaloa, Angostura, Salvador Alvarado, Mocorito, Badiraguato, Culiacán, Navolato, Elota, Cosalá, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa, con la extensión y límites que les correspondan.
 
 > <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -483,7 +485,7 @@ En los últimos tres casos, la convocatoria se hará por conducto de la misma Di
 
 Si el Congreso estuviere en período extraordinario de sesiones cuando deba comenzar el ordinario, cerrará aquél para inaugurar éste. A la apertura y clausura de todo período extraordinario de sesiones o prórroga del ordinario, deberán preceder los decretos respectivos.
 
-((REFORMADO, P.O. 29 DE OCTUBRE DE 2003)
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2003)</small>
 
 ###### Art. 40.
 
@@ -1467,6 +1469,16 @@ La Ley reglamentará la organización y la competencia de estos órganos, el pro
 
 La ejecución de las medidas impuestas por los órganos jurisdiccionales de justicia de menores, se realizará por instituciones especializadas que se regirán por lo dispuesto en los tratados internacionales, esta Constitución y demás leyes que rigen la materia.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 28 DE ENERO DE 2004)</small>
+
+### CAPITULO VII. DEL ACCESO A LA INFORMACION PUBLICA
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2004)</small>
+
+Art. 109 Bis B. Se garantiza en el Estado el derecho de acceso a la información pública a toda persona, en los términos de la ley respectiva.
+
+En materia política, sólo podrán ejercer este derecho los ciudadanos mexicanos.
+
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE ENERO DE 1984)</small>
 
 ### CAPITULO I. DISPOSICIONES GENERALES
@@ -1476,10 +1488,6 @@ La ejecución de las medidas impuestas por los órganos jurisdiccionales de just
 ### CAPITULO II. DEL JUICIO POLITICO
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
-
-### CAPITULO III. DE LA DECLARATORIA DE PROCEDENCIA POR LA COMISION DE DELITOS
-
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ## TITULO VI. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
@@ -1767,7 +1775,7 @@ Las relaciones de trabajo entre los Municipios y sus trabajadores, se regirán p
 
 ## TITULO VII
 
-### CAPITULO IV. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
+### CAPITULO III. DE LA DECLARATORIA DE PROCEDENCIA POR LA COMISION DE DELITOS
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1787,7 +1795,7 @@ Ningún servidor público del Gobierno del Estado y de los Ayuntamientos tiene d
 
 > <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
 
-### CAPITULO V. DE LA PRESCRIPCION
+### CAPITULO IV. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1829,7 +1837,9 @@ La Legislatura Local procederá conforme a lo previsto en este Capítulo, tratá
 
 > <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DISPOSICIONES DIVERSAS
+### CAPITULO V. DE LA PRESCRIPCION
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 ###### Art. 135.
 
@@ -1865,7 +1875,7 @@ La declaratoria de procedencia y la sentencia son inatacables.
 
 > <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LA INVIOLABILIDAD Y REFORMAS DE LA CONSTITUCION
+### CAPITULO I. DISPOSICIONES DIVERSAS
 
 ###### Art. 138.
 
@@ -1879,7 +1889,7 @@ Las sanciones administrativas se establecerán en proporción a los daños y per
 
 > <small>(ADICIONADO, P.O. 27 DE ENERO DE 1984)</small>
 
-### CAPITULO VI. SUSPENSION O PRIVACION DE DERECHOS
+### CAPITULO II. DE LA INVIOLABILIDAD Y REFORMAS DE LA CONSTITUCION
 
 ###### Art. 140.
 
@@ -2984,6 +2994,12 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 26 DE ENERO DE 2004.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 28 DE ENERO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTÍCULO CUARTO.
 
