@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-del-estado-de-baja-california-sur-21977"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-29"
-last_updated: "2001-10-31"
+last_updated: "2002-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el viernes 29 de junio de 2001.
 
@@ -215,29 +215,65 @@ Los ingresos provenientes de premios derivados de loterías, rifas, sorteos o co
 
 DEL IMPUESTO SOBRE NÓMINAS.
 
+(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002) (F. DE E., P.O. 20 DE MARZO DE 2003)
+
 ###### ARTÍCULO 24.
 
-Es objeto de este impuesto la realización y los pagos en efectivo o en especie por concepto de remuneraciones al trabajo personal prestado bajo la subordinación y dependencia de un patrón dentro del territorio del Estado.
+Es objeto de este impuesto la realización de los pagos en efectivo y/o en especie por concepto de remuneraciones al trabajo personal prestado bajo la subordinación y dependencia de un patrón dentro del territorio del Estado.
 
-Para los efectos de este gravamen, se consideran remuneraciones al trabajo personal, todas las contraprestaciones cualquiera que sea el nombre con el que se le designe, ya sean ordinarias o extraordinarias, en efectivo, en servicios o en especie, incluyendo comisiones, así como los honorarios pagados asimilables a salarios en los términos del artículo 78 fracción IV de la Ley del Impuesto Sobre la Renta.
+Para los efectos de este gravamen, se consideran remuneraciones al trabajo personal prestado bajo la subordinación y dependencia de un patrón las siguientes: sueldos y salarios, cantidades pagadas por tiempo extraordinario, premios, primas, bonos, estímulos e incentivos, gratificaciones, aguinaldos, participación patronal al fondo de ahorros, primas de antigüedad, participación de los trabajadores en las utilidades de la empresa, indemnizaciones por despido o terminación de la relación laboral, comisiones, pagos realizados a administradores, comisarios o miembros de los consejos directivos de vigilancia o de administración de sociedades o asociaciones, ayuda para despensa y/o transporte, primas de seguro para gastos médicos o de vida, honorarios asimilables a los salarios.
 
-Son también objeto de este impuesto, los pagos realizados a los directores, gerentes, administradores, comisarios miembros de los consejos directivos o de vigilancia de las sociedades o asociaciones.
+Para los efectos de este impuesto, se considerarán honorarios asimilables a salarios, los percibidos cuando las personas presten servicios preponderantemente a un prestatario, si dichos servicios se llevan a cabo en instalaciones de éste último, o si dichos ingresos representan para el prestador más del 50% de los ingresos que deriven de un servicio personal independiente.
 
 ###### ARTÍCULO 25.
 
 Son sujetos de este impuesto las personas físicas o morales que efectúen los pagos a que se refiere el Artículo 24 de esta Ley.
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+Están obligados a retener y enterar este impuesto en los términos de la presente ley, quienes obtengan de otras personas físicas o morales, en su calidad de intermediarias, de conformidad a los Artículos 13, 14 y 15 de la Ley Federal del Trabajo, domiciliadas dentro o fuera del territorio de esta entidad, la prestación de un servicio personal subordinado, siempre que el mismo se preste dentro del territorio del Estado. En este caso deberán entregar a la persona física o moral que les proporcione los trabajadores, la constancia de retención correspondiente.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTÍCULO 26.
 
-Es base de este impuesto, el monto total de los pagos a que se refiere el Artículo 24 de esta Ley.
+Es base de este impuesto, el monto total de los pagos a que se refiere el Artículo 24 de esta Ley, realmente erogados por los sujetos de este gravamen.
+
+En los casos a que se refiere el segundo párrafo del Artículo 25 de esta Ley, la retención deberá realizarse sobre el importe total, que por concepto de remuneraciones al trabajo personal subordinado prestado bajo la dirección y dependencia de un patrón, se pacte o se haya pactado en los respectivos contratos.
+
+No forman parte de la base de este impuesto, los siguientes conceptos:
+
+I. Instrumentos y herramientas de trabajo;
+
+II. Las cuotas por concepto de aportaciones de seguridad social efectuadas al Instituto Mexicano del Seguro Social y al Instituto del Fondo Nacional de la Vivienda de los Trabajadores;
+
+III. Los vales de despensa, canjeables por artículo de primera necesidad, en cantidad que no rebase el 40% del salario mínimo general, vigente en el Estado, pagándose por excedente el impuesto;
+
+IV. Las aportaciones al Sistema de Ahorro para el Retiro, así como las aportaciones adicionales que el patrón convenga otorgar a favor de sus trabajadores por este concepto;
+
+V. Indemnizaciones por riesgos y enfermedades profesionales que se concedan conforme a las leyes o contratos respectivos;
+
+VI. Jubilaciones o pensiones, en caso de invalidez, cesantía, vejez o muerte;
+
+VII. Gastos funerarios;
+
+VIII. Viáticos.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO 27.
 
-Este impuesto se causará, liquidará y pagará a razón del 2% sobre el monto total de los pagos a que se refiere el artículo anterior, aún cuando no excedan del salario mínimo correspondiente a la zona económica del Estado.
+Se aplicará la tasa del 2% al importe total de los pagos a que se refiere el primer párrafo del Artículo anterior, aún cuando no excedan del salario mínimo correspondiente a la zona económica del Estado.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO 28.
 
-El pago de este impuesto deberá efectuarse ante la Dirección de Ingresos, Recaudación o Subrecaudación de Rentas de la Secretaría de Finanzas, o en las Instituciones de Crédito que autorice la Secretaría de Finanzas, a más tardar el día quince de cada mes o al día hábil siguiente, si este fuera inhábil, mediante declaración que contenga los datos relativos al contribuyente y al establecimiento.
+Este impuesto se causará en el momento en que se realicen las erogaciones previstas en el Artículo 24 de esta Ley.
+
+Este impuesto se pagará por períodos de tiempo mensuales, conforme al mes calendario.
+
+Los contribuyentes presentarán declaraciones mensuales que contengan los datos relativos al contribuyente y al establecimiento, a través de la forma oficial aprobada por la Secretaría de Finanzas, que contendrá el impuesto causado durante el mes calendario inmediato anterior, la que presentarán a más tardar el día quince del mes siguiente a aquél en que se causó el impuesto, o al día hábil siguiente, si este fuera inhábil, ante la Dirección de Ingresos, Recaudación o Subrecaudación de Rentas de la Secretaría de Finanzas del Gobierno del Estado de Baja California Sur, o en las Instituciones de Crédito que autorice la citada Secretaría.
 
 ###### ARTÍCULO 29.
 
@@ -249,49 +285,37 @@ II. Presentar ante las mismas autoridades y dentro del plazo señalado en la fra
 
 III. Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al respecto.
 
-IV. Cuando tengan dos o más establecimientos dentro del Estado, presentar una sola declaración por todos ellos.
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
-V. Tratándose de empresas que en términos de los Artículos 13, 14 y 15 de la Ley Federal del Trabajo utilicen intermediarios para la ejecución de los servicios personales subordinados inherentes a las actividades propias de su negociación, deberán de retener a las personas con quienes contraten dichos servicios el impuesto correspondiente y enterarlo ante la Dirección de Ingresos, Recaudaciones o Subrecaudaciones de Rentas de la Secretaría de Finanzas, o Instituciones de Crédito que autorice la Secretaría de Finanzas, dentro de los quince días hábiles siguientes a aquél en que se haga la retención, o al día hábil siguiente cuando éste fuere inhábil.
+IV. Presentar declaraciones mensuales de este impuesto a más tardar el día quince del mes siguiente a aquél en que se causó el impuesto, o al día hábil siguiente, si este fuera inhábil.
+
+V. Cuando tengan dos o más establecimientos dentro del Estado, presentar una sola declaración por todos ellos.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+VI. Realizar las nóminas donde conste el importe de las remuneraciones al trabajo personal prestado bajo la subordinación y dependencia de un patrón, efectuadas durante cada mes calendario, considerando como no gravables los conceptos permitidos por esta Ley, misma que deberá contener la firma de recibo de pago de cada trabajador.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+VII. Tratándose de los contribuyentes a que se refiere el segundo párrafo del Artículo 25 de esta Ley, deberán de retener a las personas con quienes contraten, el impuesto correspondiente y enterarlo ante la Dirección de Ingresos, Recaudaciones o Subrecaudaciones de Rentas de la Secretaría de Finanzas, o Instituciones de Crédito que autorice la Secretaría de Finanzas en los términos del Artículo 28 de esta Ley.
 
 ###### ARTÍCULO 30.
 
 Están exentos del pago de este impuesto:
 
-I. Las erogaciones que se cubran por concepto de:
-
-a) Participación de los trabajadores en las utilidades de las empresas.
-
-b) Indemnizaciones por riesgos y enfermedades profesionales que se concedan conforme a las leyes o contratos respectivos.
-
-c) Jubilaciones o pensiones, en caso de invalidez, cesantía, vejez o muerte.
-
-d) Viáticos y gastos de representación, efectivamente erogados por cuenta del patrón, debidamente comprobados.
-
-e) Indemnizaciones por rescisión o terminación de la relación laboral
-
-f) Las aportaciones al Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT), al Seguro de Ahorro para el Retiro (SAR) y el Instituto Mexicano del Seguro Social (IMSS).
-
-g) Herramientas para el trabajo, uniformes de trabajo y deportivos, becas para los trabajadores y sus familias.
-
-h) Los provenientes de fondos de ahorro, cuando la cantidad aportada por el patrón sea igual a la aportada por el trabajador. En caso de que sea superior la aportación del patrón a la del trabajador, se pagará el impuesto exclusivamente por la diferencia.
-
-i) Cuotas sindicales.
-
-j) Gastos funerarios.
-
-k) Tiempo extraordinario, dentro de los márgenes señalados en la Ley Federal del Trabajo, calculados a salarios mínimos. Cuando el importe del pago de trabajo extraordinario exceda de los límites señalados, se pagará el impuesto por la diferencia.
-
-l) Contraprestaciones a que se refiere el segundo párrafo del Artículo 24 de esta Ley, cubiertas por la Federación, Estado, Municipios y sus organismos descentralizados.
-
-m) Despensas en efectivo, que no excedan del 40% del salario mínimo general, por el excedente se cubrirá el impuesto.
-
-n) Premios de puntualidad y asistencia siempre que no excedan del 10% de la remuneración recibida. Por el excedente se pagará el impuesto.
+I. (DEROGADA, B.O. 31 DE DICIEMBRE DE 2002)
 
 II. Los pagos a que se refiere este capítulo efectuados por:
 
 a) Instituciones educativas, públicas y privadas con reconocimiento ante la Secretaría de Educación Pública y guarderías infantiles, siempre que los servicios sean prestados de forma gratuita.
 
-b) Clubes de servicios sociales, partidos políticos e instituciones de beneficencia reconocidas (sic) como tales por el Ejecutivo del Estado.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+b) Partidos políticos e instituciones de beneficencia.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
+
+Para los efectos del inciso b) anterior, se considera instituciones de beneficencia, aquéllas que cuenten con constancia que las acredite como tales, expedida por la autoridad competente.
 
 ### CAPÍTULO QUINTO
 
@@ -499,7 +523,7 @@ c) Exclusivo de transporte escolar. 40
 
 IV. Por la expedición del título de concesión para
 
-transporte de Autorrenta. (sic) 263
+transporte de Autorrenta.(sic) 263
 
 V. Por la expedición de títulos de concesión para
 
@@ -1299,13 +1323,9 @@ QUINTO.- La contribución mencionada en el Título Cuarto Capitulo Segundo de es
 
 SEXTO.- Continúan vigentes los artículos transitorios tercero del decreto 1105; y tercero del decreto 1125.
 
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2002)</small>
 
-SÉPTIMO.- El ingreso que genere la recaudación proveniente del Impuesto Sobre Nóminas se destinará a inversiones públicas productivas, consistentes en obras de infraestructura social, previa consulta a la comunidad, a efecto de conocer su opinión sobre los proyectos prioritarios de dichas inversiones, para lo cual se deberá constituir un Fideicomiso Irrevocable de Inversión, Administración y Fuente de Pago.
-
-Asimismo, el ingreso proveniente del impuesto sobre nóminas, podrá servir como fuente de pago de los créditos que se contraten para la ejecución de las citadas obras de infraestructura social.
-
-El Comité técnico del Fideicomiso estará integrado por diez representantes de las cámaras de comercio, industria, pesca, servicios y de los colegios de profesionistas organizados de los cinco municipios de la entidad, un representante del Congreso del Estado; un representante de cada Ayuntamiento; un representante de las instituciones financieras que otorguen financiamiento, en su caso; un representante de la institución fiduciaria; el Secretario de Planeación Urbana, Infraestructura y Ecología; el Secretario de Promoción y Desarrollo Económico, el titular de la Unidad de Desarrollo administrativo y Control Gubernamental, y será presidido por el Secretario de Finanzas.
+SÉPTIMO.- El ingreso que genere la recaudación proveniente del Impuesto Sobre Nóminas se destinará a obras de infraestructura social, previa consulta a la comunidad, para lo cual se deberá constituir un Fideicomiso Público de Inversión y Administración, el que se integrará con cuatro representantes de la iniciativa privada, el Secretario de Promoción y Desarrollo Económico, un representante de cada Ayuntamiento, un miembro del Congreso del Estado y será presidido por el Secretario de Finanzas.
 
 OCTAVO.- Durante el ejercicio fiscal del 2001, el impuesto para la educación superior y fomento al empleo en el Estado, quedará suspendido.
 
@@ -1346,3 +1366,9 @@ C. LIC. JOSE J. BORGES CONTRERAS.
 B.O. 31 DE OCTUBRE DE 2001.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA SUR.
+
+B.O. 31 DE DICIEMBRE DE 2002.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
