@@ -4,7 +4,7 @@ identifier: "BCS-codigo-fiscal-para-el-estado-y-municipios-de-baja-2845"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-02-28"
-last_updated: "1988-12-31"
+last_updated: "1990-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO FISCAL PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1990.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 28 de febrero de 1987.
 
@@ -187,7 +187,13 @@ a).- El lugar donde se encuentre establecido el principal asiento del negocio o 
 
 b).- A falta del anterior, su casa habitación.
 
-III.- Tratándose de personas físicas o morales, residentes o establecidas fuera de la entidad que realicen actividades gravadas en el Estado de Baja California Sur, a través de terceros, cualquiera que sea el nombre con el que se les designe, se considerará como su domicilio el de esas terceras personas.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
+
+III.- Tratándose de personas físicas o morales, residentes o establecidas fuera de la Entidad que realicen actividades gravadas en el Estado de Baja California Sur, se estará a lo siguiente:
+
+a).- Si las actividades se realizan a través de terceros, cualquiera que sea el nombre con el que se les designe, se considerará como su domicilio el de esas terceras personas o el del establecimiento o local.
+
+b).- Si las actividades se realizan por cuenta propia o a través de sucursales, se considerará como su domicilio el del establecimiento o local principal en el Estado de Baja California Sur.
 
 ### CAPITULO SEGUNDO. DEL NACIMIENTO DE LAS PRESTACIONES DETERMINACION DE LOS CREDITOS FISCALES
 
@@ -631,9 +637,13 @@ XXII.- Resistirse por cualquier medio a las visitas de inspección; no suministr
 
 XXIII.- No obtener la licencia correspondiente a su giro o actividad, dentro de los primeros diez días de inicio de sus actividades o el refrendo del mismo en el mes de enero de los años subsecuentes; y
 
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
+
+XXIV.- Violar o destruir los sellos oficiales de clausura de establecimientos o locales, o realizar actividades en los establecimientos o locales clausurados por las autoridades fiscales.
+
 > <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1987)</small>
 
-XXIV.- Faltar en cualquier otra forma no prevista en las Fracciones anteriores al cumplimiento de las obligaciones que les impone este Código o cualquier disposición fiscal.
+XXV.- Faltar en cualquier otra forma no prevista en las Fracciones anteriores al cumplimiento de las obligaciones que les impone este Código o cualquier disposición fiscal.
 
 ###### ARTICULO 72.
 
@@ -765,9 +775,9 @@ Se impondrá multa por cada infracción de las revistas (sic) en los Artículos 
 
 I.- De un salario mínimo general de la zona al Artículo 71, Fracciones VI y X.
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
 
-II.- De una a diez veces el Salario Mínimo General de la zona a los Artículos 71 Fracciones V, XVII y XXIV 72 Fracciones II, V y IX; 73 Fracciones III, VII, VIII, XII y XIV inciso c), XVI y XVII.
+II.- De uno a diez días de salario mínimo general de la zona a los Artículos 71 Fracciones V, XVII y XXV; 72, Fracciones II, V y IX; 73 Fracciones III, VII, VIII, XII y XIV (Inciso c), XVI y XVII.
 
 III.- De una a cincuenta veces salario mínimo de la zona a los Artículos 71 Fracciones VII, XXII, 72 Fracciones VI, VII y VIII; 73 Fracciones V, VI y XV.
 
@@ -786,6 +796,10 @@ VIII.- De cincuenta a mil veces salario mínimo general de la zona al Artículo 
 > <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 1987)</small>
 
 IX.- Se clausurará a los giros y establecimientos que no obtengan la licencia o refrendo para operar, que se previenen en los artículos 71 fracción XXIII y 72 fracción I, dentro del plazo establecido por este Código; sin perjuicio de la sanción pecuniaria que corresponda.
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 1990)</small>
+
+X.- De cien a quinientos días de salario mínimo general de la zona al Artículo 71 Fracción XXIV, sin menoscabo de la facultad de la autoridad fiscal para consignar los hechos ante el Ministerio Público del Fuero Común por desacato a mandato legítimo de autoridad competente.
 
 ## TITULO QUINTO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
@@ -1872,3 +1886,9 @@ B.O. 31 DE DICIEMBRE DE 1988.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día Primero de Enero de 1989.
+
+B.O. 20 DE DICIEMBRE DE 1990.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día primero de enero de 1991.
