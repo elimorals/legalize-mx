@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1974-12-20"
+last_updated: "1975-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1975.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -229,17 +229,33 @@ Los Oficiales del Registro Civil llevarán por duplicado siete libros que se den
 
 Toda acta deberá asentarse en los dos ejemplares del Registro.
 
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1975)</small>
+
+ARTICULO 36 BIS.- Los Oficiales del Registro Civil, previa autorización del Presidente Municipal respectivo, podrán implantar en sus jurisdicciones, el sistema Microfilmación, en cuyo caso no será necesario llevar los libros especializados ni por duplicado a que se refiere el Artículo anterior, observándose las siguientes reglas:
+
+I.- Las actas se levantarán con las formalidades establecidas por este Código;
+
+II.- Las actas se redactarán en hojas previamente foliadas y autorizadas con la firma del Presidente Municipal respectivo, se encuadernarán en libros de mil actas cada uno o fracción, que cada año pasarán a formar parte del archivo del Registro Civil;
+
+III.- Se sacará copia por duplicado de las actas fotografiadas en micro-filme, que se enviarán anualmente, en rollos de mil actas cada uno o fracción, la primera al archivo judicial y la segunda se guardará en archiveros especiales por números consecutivos de libro, folio y año, en las oficinas del Registro Civil, y servirán para expedir las constancias que soliciten los interesados;
+
+IV.- En todos aquéllos casos en que este Código ordene anotaciones marginales en las actas del Registro Civil, se efectuarán dichas anotaciones en las actas originales, y además se llevará en el archivo del Registro Civil, un índice nominativo de actas relacionadas con cada persona.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 37.
 
-Las actas del Registro Civil sólo se pueden asentar en los libros de que habla el artículo anterior.
+Las actas del estado civil sólo podrán levantarse en los libros del Registro Civil, o en las fojas foliadas y autorizadas por el C. Presidente Municipal, cuando se establezca el sistema registral, a que se refiere el Artículo anterior.
 
-La infracción de esta regla producirá la nulidad del acta y se castigará con la destitución del Oficial del Registro Civil
+La infracción a esta regla producirá la nulidad del acta y se castigará con la destitución del Oficial del Registro Civil.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1975)</small>
 
 ###### ARTICULO 38.
 
-Si se perdiere o destruyere alguno de los libros del registro, se sacará inmediatamente copia del otro ejemplar, ya sea que la pérdida ocurra en las Oficinas del Registro Civil o en las de la autoridad judicial a quien se hubieren remitido los duplicados.
+Si se perdiere o destruyere alguno de los libros del Registro Civil o copias en Micro-filme de los mismos, se sacará de inmediato copia del otro ejemplar, ya sea que la pérdida ocurra en las Oficinas del Registro Civil o en las de la autoridad judicial a quien se hubieren remitido los duplicados.
 
-El Procurador de Justicia cuidará de que se cumpla esta disposición y, a ese efecto, el Oficial del Registro o el encargado del Archivo Judicial, le dará aviso de la pérdida.
+El Procurador de Justicia cuidará de que se cumpla esta disposición y, a este efecto, el Oficial del Registro o el encargado del archivo judicial, le dará aviso de la pérdida.
 
 ###### ARTICULO 39.
 
@@ -265,9 +281,29 @@ No podrá asentarse en las actas ni por vía de nota o advertencia, sino lo que 
 
 Cuando los interesados no puedan concurrir personalmente, podrán hacerse representar por un mandatario especial para el acto, cuyo nombramiento conste por lo menos en instrumento privado otorgado ante dos testigos. En los casos de matrimonio o de reconocimiento de hijos, se necesita poder otorgado en escritura pública o mandato extendido en escrito privado firmado por el otorgante y dos testigos y ratificadas las firmas ante notario público, Juez de Primera Instancia o de Paz.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 45.
 
-Los testigos que intervengan en las Actas del Registro Civil, serán mayores de edad, prefiriéndose los que designen los interesados, aún cuando sean sus parientes.
+En la formación de las actas del estado civil, se observarán las siguientes reglas:
+
+I.- Los testigos que intervengan en las actas del Registro Civil serán mayores de edad, prefiriéndose los que designen los interesados, aún cuando sean sus parientes;
+
+II.- Extendida el acta, será leída por el Oficial del Registro Civil a los interesados y testigos; la firmarán todos, y si algunos no pueden hacerlo, se expresará la causa. También se expresará que el acta fue leída y quedaron conformes los interesados con su contenido;
+
+III.- Si alguno de los interesados quisiera imponerse por sí mismo del tenor del acta, podrá hacerlo; y si no supiere leer, uno de los testigos designados por él leerá aquélla y la firmará si el interesado no supiere hacerlo;
+
+IV.- Si un acto comenzado se entorpeciere por que las partes se nieguen a continuarlo, o por cualquier otro motivo, se inutilizará el acta, marcándola con dos líneas transversales y expresándose el motivo por qué se suspendió, razón que deberá firmar el Oficial del Registro, los interesados y los testigos;
+
+V.- Las actas se enumerarán y escribirán una después de otra, sin dejar entre ellas ningún renglón entero en blanco; salvo que se establezca el sistema de Micro-filmación, en cuyo caso se estará a lo dispuesto en el Artículo 36-Bis;
+
+VI.- En ninguna frase se emplearán abreviaturas;
+
+VII.- No se hará raspadura alguna ni tampoco se permitirá borrar lo escrito. Cuando sea necesario testar alguna palabra, se pasará sobre ella una línea de manera que quede legible;
+
+VIII.- Al fin de cada acta se salvará con toda claridad lo entrerreglonado y testado;
+
+IX.- Los puntos dados por los interesados y los documentos que presenten, se anotarán poniéndoles el número del acta, libro y año y el sello del Registro, y se reunirán y depositarán en el archivo correspondiente.
 
 ###### ARTICULO 46.
 
@@ -277,9 +313,11 @@ La falsificación de las actas y la inserción de ellas de circunstancias o decl
 
 Los vicios o defectos que haya en las actas, sujetan al Oficial del Registro a las correcciones que señale el Reglamento respectivo; pero cuando no sean substanciales no producirán la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 48.
 
-Toda persona puede pedir testimonio de las actas del Registro Civil, así como de los apuntes y documentos con ellas relacionados, y los Oficiales Registradores estarán obligados a darlo.
+Toda persona puede pedir testimonio de las actas del Registro Civil, así como de los apuntes y documentos con ellas relacionados, y los Oficiales Registradores estarán obligados a darlo, y deberán incluir en dicho testimonio los datos de otras actas del estado civil con las que debe anotarse aquélla cuyo testimonio se solicita, y que obren en los archivos del Registro Civil.
 
 ###### ARTICULO 49.
 
@@ -451,9 +489,11 @@ Dictada la resolución judicial definitiva que autorice la adopción, el adoptan
 
 La falta del registro de la adopción no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el artículo 81.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1975)</small>
+
 ###### ARTICULO 86.
 
-El acta de adopción contendrá los nombres, apellidos, edad y domicilio del adoptante y del adoptado, el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción y los nombres, apellidos y domicilios de las personas que intervengan como testigos. En el acta se insertará íntegramente la resolución judicial que haya autorizado la adopción.
+La acta de adopción contendrá los nombres, apellidos, edad y domicilio del adoptante y del adoptado, el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción y los nombres, apellidos y domicilios de las personas que intervengan como testigos. En el acta se insertará los puntos resolutivos de la solución judicial que haya autorizado la adopción.
 
 ###### ARTICULO 87.
 
@@ -14556,3 +14596,13 @@ P.O. 20 DE DICIEMBRE DE 1974.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 31 DE ENERO DE 1975.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los CC. Presidentes Municipales autorizarán, cuando lo juzguen oportuno, a los respectivos Oficiales del Registro Civil de su jurisdicción, para que implanten el sistema de Micro-filmación.
