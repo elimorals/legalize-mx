@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-estimulos-fiscales-para-el-ejercicio-fiscal-2976
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-30"
-last_updated: "2002-12-30"
+last_updated: "2003-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ESTATAL DE ESTIMULOS FISCALES, PARA EL EJERCICIO FISCAL 2003
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de diciembre de 2002.
 
@@ -57,9 +57,11 @@ La aplicación de esta Ley, corresponde al Ejecutivo del Estado a través de la 
 
 Se consideran Estímulos Fiscales, los beneficios que otorga Gobierno del Estado de Hidalgo a las personas físicas o morales inscritas en los diferentes Padrones de Contribuyentes, para propiciar su desarrollo e incrementar las fuentes de trabajo y proteger el medio ambiente.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 4.
 
-Los Estímulos Fiscales, serán resueltos por la Secretaría de Finanzas y Administración por conducto del Organo facultado para ello en su Reglamento Interior, previo el estudio de la documentación presentada por el solicitante, así como de su historia fiscal.
+Los estímulos fiscales serán resueltos por la Secretaría de Finanzas y Administración por conducto de la Subsecretaría de Ingresos, previo el estudio de la documentación presentada por el solicitante, así como de su historia fiscal.
 
 ###### ARTICULO 5.
 
@@ -95,11 +97,13 @@ IV.- El último certificado de aprobación de verificación.
 
 Los contribuyentes sujetos al pago del Impuesto Sobre Nóminas, podrán solicitar a la Secretaría de Finanzas y Administración del Gobierno del Estado de Hidalgo, el Estímulo Fiscal correspondiente, en términos de lo dispuesto por el capítulo IV de la Ley de Fomento Económico vigente en el Estado, sin perjuicio de lo establecido en la presente Ley.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 11.
 
-Son sujetos del Estímulo Fiscal, los contribuyentes que instalen nuevas empresas dentro del Territorio Estatal.
+Son sujetos del estímulo fiscal, los contribuyentes que instalen, amplíen o reubiquen empresas dentro del Territorio Estatal.
 
-El Estímulo Fiscal se otorgará hasta por el 70% del pago total de este impuesto y será aplicable únicamente por cuanto hace a los nuevos empleos que se generen durante el Ejercicio Fiscal que corresponda.
+El estímulo fiscal se otorgará hasta por el 70% del pago total de este impuesto y será aplicable tanto a los nuevos empleos de empresas que instalen o amplíen sus plantas laborales, así como a los empleos reubicados en áreas de crecimiento y desarrollo económico.
 
 ###### ARTICULO 12.
 
@@ -142,3 +146,13 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO
+
+N. DE. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 31 DE DICIEMBRE DE 2003.
+
+PRIMERO.- El presente Decreto, entrará en vigor el día primero de enero del año 2004, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+TERCERO.- Se abroga la Ley de Hacienda para el Estado de Hidalgo publicada en el Periódico Oficial del Estado de fecha 29 de diciembre de 1990, dentro del decreto número 20, expedido por la LIV Legislatura Local.
