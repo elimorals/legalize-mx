@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-codigo-penal-25988"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1982-01-11"
+last_updated: "1983-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25988&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE ENERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 1983.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación el viernes 14 de agosto de 1931.
 
@@ -308,6 +308,10 @@ Las penas y medidas de seguridad son:
 
 17.- Medidas tutelares para menores.
 
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
+
+18.- Decomiso de bienes correspondientes al enriquecimiento ilícito.
+
 Y las demás que fijen las leyes.
 
 ### CAPITULO II. Prisión
@@ -351,6 +355,10 @@ La reparación del daño comprende:
 I.- La restitución de la cosa obtenida por el delito, y si no fuere posible, el pago del precio de la misma, y
 
 II.- La indemnización del daño material y moral causado a la víctima o a su familia.
+
+> <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 1983)</small>
+
+III.- Tratándose de los delitos comprendidos en el Título Décimo, la reparación del daño abarcará la restitución de la cosa o de su valor, y además, hasta dos tantos el valor de la cosa o los bienes obtenidos por el delito.
 
 ###### ARTICULO 31.
 
@@ -515,6 +523,10 @@ En la aplicación de las sanciones penales se tendrá en cuenta:
 > <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 3°.- Las condiciones especiales en que se encontraba en el momento de la comisión del delito y los demás antecedentes y condiciones personales que puedan comprobarse así como sus vínculos de parentesco, de amistad o nacidos de otras relaciones sociales, la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión que demuestren su mayor o menor temibilidad.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
+
+4°.- Tratándose de los delitos cometidos por servidores públicos, se aplicará lo dispuesto por el artículo 213 de este Código.
 
 El juez deberá tomar conocimiento directo del sujeto, de la víctima y de las circunstancias del hecho en la medida requerida para cada caso.
 
@@ -762,6 +774,10 @@ d).- Sujetarse a las medidas de orientación y supervisión que se le dicten y a
 
 La libertad preparatoria no se concederá a los condenados por alguno de los delitos contra la salud en materia de estupefacientes o psicotrópicos previstos en el artículo 197, ni a los habituales o a los que hubieren incurrido en segunda reincidencia.
 
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
+
+Tratándose de los delitos comprendidos en el Título Décimo, la libertad preparatoria sólo se concederá cuando se satisfaga la reparación del daño a que se refiere la fracción III del Artículo 30 o se otorgue caución que lo garantice.
+
 > <small>(REFORMADO, D.O.F. 19 DE MARZO DE 1971)</small>
 
 ###### ARTICULO 86.
@@ -801,6 +817,10 @@ a).- Que la condena se refiera a pena de prisión que no exceda de dos años;
 b).- Que sea la primera vez que el sentenciado incurre en delito intencional y, además, que haya evidenciado buena conducta positiva, antes y después del hecho punible; y
 
 c).- Que por sus antecedentes personales o modo honesto de vivir, así como por la naturaleza, modalidades y móviles del delito, se presuma que el sentenciado no volverá a delinquir,
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
+
+e) (sic).- En el caso de los delitos previstos en el Título Décimo de este Código, para que proceda el beneficio de la condena condicional se requiere que el sentenciado satisfaga el daño causado en los términos de la fracción III del Artículo 30, u otorgue caución para satisfacerla.
 
 II.- Para gozar de este beneficio el sentenciado deberá:
 
@@ -1668,7 +1688,9 @@ Al que haga uso indebido del escudo, insignia o himno nacionales, se le aplicar�
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-### CAPITULO I. Ejercicio indebido o abandono de funciones públicas
+### CAPITULO I
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 193.
 
@@ -1752,7 +1774,9 @@ Tratándose de vehículos, instrumentos y demás objetos relacionados con cuales
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
-### CAPITULO II. Abuso de autoridad
+### CAPITULO II. Ejercicio indebido de servicio público
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 199 Bis.
 
@@ -1766,7 +1790,9 @@ Cuando se trate de cónyuges, sólo podrá procederse por querella del ofendido.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE ENERO DE 1966)</small>
 
-### CAPITULO III. Coalición de funcionarios
+### CAPITULO III. Abuso de autoridad
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 200.
 
@@ -1778,9 +1804,9 @@ II.- Al que publique por cualquier medio, ejecute o haga ejecutar por otro, exhi
 
 III.- Al que de modo escandaloso invite a otro al comercio carnal.
 
-### CAPITULO IV. Cohecho
+### CAPITULO IV. Coalición de servidores públicos
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 201.
 
@@ -1822,9 +1848,9 @@ Los delincuentes de que se trata en este capítulo quedarán inhabilitados para 
 
 (DEROGADO, D.O.F. 14 DE ENERO DE 1966)
 
-### CAPITULO V. Peculado y concusión
+### CAPITULO V. Uso indebido de atribuciones y facultades
 
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 206.
 
@@ -1848,7 +1874,9 @@ III.- Al que regentee, administre o sostenga directa o indirectamente, prostíbu
 
 Cuando la mujer cuyo cuerpo sea explotado por medio del comercio carnal, sea menor de edad, se aplicará al que encubra, concierte o permita dicho comercio, pena de cinco a diez años de prisión y multa de mil a cinco mil pesos.
 
-### CAPITULO I. Responsabilidad médica y técnica
+### CAPITULO VI. Concusión
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ###### ARTICULO 209.
 
@@ -1866,149 +1894,265 @@ Se aplicará multa de cinco a cincuenta pesos o prisión de dos meses a un año 
 
 La sanción será de uno a cinco años, multa de cincuenta a quinientos pesos y suspensión de profesión en su caso, de dos meses a un año, cuando la revelación punible sea hecha por persona que presta servicios profesionales o técnicos o por funcionario o empleado público o cuando el secreto revelado o publicado sea de carácter industrial.
 
-## TITULO DECIMO. Delitos cometidos por funcionarios públicos
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
+
+## TITULO DECIMO. Delitos cometidos por servidores públicos
+
+> <small>(REFORMADA [N. DE E. DEROGADA] SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
+
+### CAPITULO VII. Intimidación
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
+
+###### ARTICULO 212.
+
+Para los efectos de este Título y el subsecuente es servidor público toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Federal centralizada o en la del Distrito Federal, organismos descentralizados, empresas de participación estatal mayoritaria, organizaciones y sociedades asimiladas a éstas, fideicomisos públicos, en el Congreso de la Unión, o en los poderes Judicial Federal y Judicial del Distrito Federal, o que manejen recursos económicos federales. Las disposiciones contenidas en el presente Título, son aplicables a los Gobernadores de los Estados, a los Diputados a las Legislaturas Locales y a los Magistrados de los Tribunales de Justicia Locales, por la comisión de los delitos previstos en este título, en materia federal.
+
+Se impondrán las mismas sanciones previstas para el delito de que se trate a cualquier persona que participe en la perpetración de alguno de los delitos previstos en este Título o el subsecuente.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
+
+###### ARTICULO 213.
+
+Para la individualización de las sanciones previstas en este Título, el Juez tomará en cuenta, en su caso, si el servidor público es trabajador de base o funcionario o empleado de confianza, su antigüedad en el empleo, sus antecedentes de servicio, sus percepciones, su grado de instrucción, la necesidad de reparar los daños y perjuicios causados por la conducta ilícita y las circunstancias especiales de los hechos constitutivos del delito. Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá dar lugar a una agravación de la pena.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
+
+### CAPITULO VIII. Ejercicio abusivo de funciones
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
+
+###### ARTICULO 214.
+
+Comete el delito de ejercicio indebido de servicio público, el servidor público que:
+
+I.- Ejerza las funciones de un empleo, cargo o comisión, sin haber tomado posesión legítima, o sin satisfacer todos los requisitos legales.
+
+II.- Continúe ejerciendo las funciones de un empleo, cargo o comisión después de saber que se ha revocado su nombramiento o que se le ha suspendido o destituido.
+
+III.- Teniendo conocimiento por razón de su empleo, cargo o comisión de que pueden resultar gravemente afectados el patrimonio o los intereses de alguna dependencia o entidad de la administración pública federal centralizada, del Distrito Federal, organismos descentralizados, empresa de participación estatal mayoritaria, asociaciones y sociedades asimiladas a éstas y fideicomisos públicos, del Congreso de la Unión o de los poderes Judicial Federal o Judicial del Distrito Federal, por cualquier acto u omisión y no informe por escrito a su superior jerárquico o lo evite si está dentro de sus facultades.
+
+IV.- Por sí o por interpósita persona, sustraiga, destruya, oculte, utilice, o inutilice ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión.
+
+Al que cometa alguno de los delitos a que se refieren las fracciones I y II de este Artículo, se le impondrán de tres días a un año de prisión, multa de treinta o trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de la comisión del delito y destitución en su caso, e inhabilitación de un mes a dos años para desempeñar otro empleo, cargo o comisión públicos.
+
+Al infractor de las fracciones III y IV, se le impondrán de dos años a siete años de prisión, multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de dos años a siete años para desempeñar otro empleo, cargo o comisión públicos.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
+
+### CAPITULO IX. Tráfico de Influencia
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
+
+###### ARTICULO 215.
+
+Cometen el delito de abuso de autoridad los servidores públicos que incurran en alguna de las infracciones siguientes:
+
+I.- Cuando para impedir la ejecución de una ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pida auxilio a la fuerza pública o la emplee con ese objeto;
+
+II.- Cuando ejerciendo sus funciones o con motivo de ellas hiciere violencia a una persona sin causa legítima o la vejare o la insultare;
+
+III.- Cuando indebidamente retarde o niegue a los particulares la protección o servicio que tenga obligación de otorgarles o impida la presentación o el curso de una solicitud;
+
+IV.- Cuando estando encargado de administrar justicia, bajo cualquier pretexto, aunque sea el de obscuridad o silencio de la ley, se niegue injustificadamente a despachar un negocio pendiente ante él, dentro de los términos establecidos por la ley;
+
+V.- Cuando el encargado de una fuerza pública, requerida legalmente por una autoridad competente para que le preste auxilio, se niegue indebidamente a dárselo;
+
+VI.- Cuando estando encargado de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad, de instituciones de readaptación social o de custodia y rehabilitación de menores y de reclusorios preventivos o administrativos que, sin los requisitos legales, reciba como presa, detenida, arrestada o interna a una persona o la mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente; niegue que está detenida, si lo estuviere; o no cumpla la orden de libertad girada por la autoridad competente;
+
+VII.- Cuando teniendo conocimiento de una privación ilegal de la libertad no la denunciase inmediatamente a la autoridad competente o no la haga cesar, también inmediatamente, si esto estuviere en sus atribuciones;
+
+VIII.- Cuando haga que se le entreguen fondos, valores u otra cosa que no se le haya confiado a él y se los apropie o disponga de ellos indebidamente.
+
+IX.- Cuando, con cualquier pretexto, obtenga de un subalterno parte de los sueldos de éste, dádivas u otro servicio;
+
+X.- Cuando en el ejercicio de sus funciones o con motivo de ellas, otorgue empleo, cargo o comisión públicos, o contratos de prestación de servicios profesionales o mercantiles o de cualquier otra naturaleza, que sean remunerados, a sabiendas de que no se prestará el servicio para el que se les nombró, o no se cumplirá el contrato otorgado;
+
+XI.- Cuando autorice o contrate a quien se encuentre inhabilitado por resolución firme de autoridad competente para desempeñar un empleo, cargo o comisión en el servicio público, siempre que lo haga con conocimiento de tal situación; y
+
+XII.- Cuando otorgue cualquier identificación en que se acredite como servidor público a cualquier persona que realmente no desempeñe el empleo, cargo o comisión a que se haga referencia en dicha identificación.
+
+Al que comete el delito de abuso de autoridad se le impondrán de un año a ocho años de prisión, multa desde treinta hasta trescientas veces salario mínimo diario vigente en el Distrito Federal en el momento de la comisión del delito y destitución e inhabilitación de un año a ocho años para desempeñar otro empleo, cargo o comisión públicos.
+
+Iguales sanciones se impondrán a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones X, XI y XII.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
+
+### CAPITULO X. Cohecho
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
+
+###### ARTICULO 216.
+
+Cometen el delito de coalición de servidores públicos, los que teniendo tal carácter se coaliguen para tomar medidas contrarias a una ley o reglamento, impedir su ejecución, o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas. No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o que hagan uso del derecho de huelga.
+
+Al que cometa el delito de coalición de servidores públicos se le impondrán de dos años a siete años de prisión y multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal, en el momento de la comisión del delito, y destitución e inhabilitación de dos años a siete años para desempeñar otro empleo, cargo o comisión públicos.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1983)</small>
+
+### CAPITULO XII (sic). Peculado
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
+
+###### ARTICULO 217.
+
+Comete el delito de uso indebido de atribuciones y facultades:
+
+I.- El servidor público que indebidamente:
+
+A) Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio de la Federación;
+
+B) Otorgue permisos, licencias o autorizaciones de contenido económico;
+
+C) Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas de seguridad social, en general sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados en la Administración Pública Federal, y del Distrito Federal.
+
+D) Otorgue, realice o contrate obras públicas, deuda, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, o colocaciones de fondos y valores con recursos económicos públicos.
+
+II.- Toda persona que solicite o promueva la realización, el otorgamiento o la contratación indebidos de las operaciones a que hacen referencia la fracción anterior o sea parte en las mismas, y
+
+III.- El servidor público que teniendo a su cargo fondos públicos, les dé a sabiendas, una aplicación pública distinta de aquella a que estuvieren destinados o hiciere un pago ilegal.
+
+Al que cometa el delito de uso indebido de atribuciones y facultades se le impondrán las siguientes sanciones:
+
+Cuando el monto a que asciendan las operaciones a que hace referencia este Artículo no exceda del equivalente de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de tres meses a dos años de prisión, multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión públicos.
+
+Cuando el monto a que asciendan las operaciones a que hace referencia este Artículo, exceda del equivalente a quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión, multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de dos años a doce años para desempeñar otro empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
+
+### CAPITULO XIII (sic). Enriquecimiento Ilícito
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1983)</small>
+
+###### ARTICULO 218.
+
+Comete el delito de concusión: el servidor público que con el carácter de tal y a título de impuesto o contribución, recargo, renta, rédito, salario o emolumento, exija, por sí o por medio de otro, dinero, valores, servicios o cualquiera otra cosa que sepa no ser debida, o en mayor cantidad que la señalada por la Ley.
+
+Al que cometa el delito de concusión se le impondrán las siguientes sanciones:
+
+Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivalente de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión, multa de treinta veces a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión públicos.
+
+Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión, multa de trescientas a quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de dos años a doce años para desempeñar otro empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
+
+### CAPITULO I. Responsabilidad médica y técnica
+
+###### ARTICULO 219.
+
+Comete el delito de intimidación:
+
+I.- El servidor público que por sí, o por interpósita persona, utilizando la violencia física o moral, inhiba o intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la Legislación Penal o por la Ley Federal de Responsabilidades de los Servidores Públicos, y
+
+II.- El servidor público que con motivo de la querella, denuncia o información a que hace referencia la fracción anterior realice una conducta ilícita u omita una lícita debida que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo.
+
+Al que cometa el delito de intimidación se le impondrán de dos años a nueve años de prisión, multa por un monto de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, destitución e inhabilitación de dos años a nueve años para desempeñar otro empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ### CAPITULO II. Delitos de abogados, patronos y litigantes
 
 > <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
-###### ARTICULO 212.
+###### ARTICULO 220.
 
-Se impondrán de tres días a un año de prisión y multa de cincuenta a quinientos pesos, a los funcionarios o empleados públicos que incurran en las infracciones siguientes:
+Comete el delito de ejercicio abusivo de funciones:
 
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+I.- El servidor público que en el desempeño, de su empleo, cargo o comisión, indebidamente otorgue por sí o por interpósita persona, contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones, efectúe compras o ventas o realice cualquier acto jurídico que produzca beneficios económicos al propio servidor público, a su cónyuge, descendientes o ascendientes, parientes por consanguinidad o afinidad hasta el cuarto grado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte;
 
-I.- Al que ejerza las funciones de un empleo, cargo o comisión, sin haber tomado posesión legítima y llenando todos los requisitos legales;
+II.- El servidor público que valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones, y que no sea del conocimiento público, haga por sí, o por interpósita persona, inversiones, enajenaciones o adquisiciones, o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o a alguna de las personas mencionadas en la primera fracción.
 
-II.- A todo el que continúe ejerciendo las funciones de un empleo, cargo o comisión después de saber que se ha revocado su nombramiento o que se le ha suspendido o destituído legalmente;
+Al que cometa el delito de ejercicio abusivo de funciones se le impondrán las siguientes sanciones:
 
-III.- Al nombrado por tiempo limitado que continúe ejerciendo sus funciones después de cumplido el término por el cual se le nombró;
+Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo no exceda del equivalente a quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de tres meses a dos años de prisión, multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión públicos.
 
-IV.- Al funcionario público o agente del Gobierno que suponga tener alguna otra comisión, empleo o cargo que el que realmente tuviere, y
+Cuando la cuantía a que asciendan las operaciones a que hace referencia este Artículo exceda de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de dos años a doce años de prisión, multa de trescientas veces a quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de dos años a doce años para desempeñar otro empleo, cargo o comisión públicos.
 
-V.- Al que sin habérsele admitido la renuncia de una comisión, empleo o cargo, o antes de que se presente la persona que haya de reemplazarlo, lo abandone sin causa justificada.
-
-###### ARTICULO 213.
-
-Al que cometa el delito de abuso de autoridad se le impondrán de seis meses a seis años de prisión, multa de veinticinco a mil pesos y destitución de empleo.
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ### CAPITULO I. Falsificación y alteración de moneda
 
-###### ARTICULO 214.
+###### ARTICULO 221.
 
-Comete el delito de abuso de autoridad todo funcionario público, agente del gobierno o sus comisionados, sea cual fuere su categoría, en los casos siguientes:
+Comete el delito de tráfico de influencia:
 
-I.- Cuando para impedir la ejecución de una ley, decreto o reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pida auxilio a la fuerza pública o la emplee con ese objeto;
+I.- El servidor público que por sí o por interpósita persona promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión, y
 
-II.- Cuando ejerciendo sus funciones o con motivo de ellas, hiciere violencia a una persona sin causa legítima o la vejare injustamente o la insultare;
+II.- Cualquier persona que promueve la conducta ilícita del servidor público o se preste a la promoción o gestión a que hace referencia la fracción anterior.
 
-III.- Cuando indebidamente retarde o niegue a los particulares la protección o servicio que tenga obligación de otorgarles o impida la presentación o el curso de una solicitud;
+III.- El servidor público que por sí, o por interpósita persona indebidamente, solicite o promueva cualquier resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para cualquiera de las personas a que hace referencia la primera fracción del Artículo 220 de este Código.
 
-IV.- Cuando ejecute cualquiera otro acto arbitrario, y atentatorio a los derechos garantizados en la Constitución;
+Al que cometa el delito de tráfico de influencia, se le impondrán de dos años a seis años de prisión, multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de dos años a seis años para desempeñar otro empleo, cargo o comisión públicos.
 
-V.- Cuando estando encargado de administrar justicia, bajo cualquier pretexto aunque sea el de obscuridad o silencio de la ley, se niegue a despachar un negocio pendiente ante él;
-
-VI.- Cuando el encargado de una fuerza pública, requerido legalmente por una autoridad civil para que le preste auxilio, se niegue indebidamente a dárselo;
-
-VII.- Cuando teniendo a su cargo caudales del Erario, les dé una aplicación pública distinta a aquella a que estuvieren destinados, o hiciere un pago ilegal;
-
-VIII.- Cuando abusando de su poder, haga que se le entreguen algunos fondos, valores u otra cosa que no se le hayan confiado a él y se los apropie o disponga de ellos indebidamente por un interés privado;
-
-IX.- Cuando con cualquier pretexto, obtenga de un subalterno parte de los sueldos de éste, dádivas u otro servicio;
-
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-X.- El alcaide o encargado de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad, que, sin los requisitos legales, reciba como presa o detenida a una persona o la mantenga privada de libertad y sin dar parte del hecho a la autoridad correspondiente, y
-
-XI.- El funcionario que teniendo conocimiento de una privación ilegal de libertad no la denunciare a la autoridad competente o no la haga cesar, si esto estuviere en sus atribuciones.
-
-Los delitos a que se refiere este capítulo producen acción popular.
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ### CAPITULO II. Falsificación de billetes de banco, títulos al portador y documentos de crédito público
 
 > <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
-###### ARTICULO 215.
+###### ARTICULO 222.
 
-A los que cometan el delito de coalición de funcionarios se les impondrán de seis meses a dos años de prisión y multa de veinticinco a mil pesos.
+Cometen el delito de cohecho:
+
+I.- El servidor público que por sí, o por interpósita persona solicite o reciba indebidamente para sí o para otro, dinero o cualquiera otra dádiva, o acepte una promesa, para hacer o dejar de hacer algo justo o injusto relacionado con sus funciones, y
+
+II.- El que de manera espontánea dé u ofrezca dinero o cualquier otra dádiva a alguna de las personas que se mencionan en la fracción anterior, para que cualquier servidor público haga u omita un acto justo o injusto relacionado con sus funciones.
+
+Al que comete el delito de cohecho se le impondrán las siguiente sanciones:
+
+Cuando la cantidad o el valor de la dádiva o promesa no exceda del equivalente de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión, multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión públicos.
+
+Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de dos años a catorce años de prisión, multa de trescientas a quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de dos años a catorce años para desempeñar otro empleo, cargo o comisión públicos.
+
+En ningún caso se devolverá a los responsables del delito de cohecho, el dinero o dádivas entregadas, las mismas se aplicarán en beneficio del Estado.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ### CAPITULO III. Falsificación de sellos, llaves, cuños o troqueles, marcas, pesas y medidas
 
-###### ARTICULO 216.
+###### ARTICULO 223.
 
-Cometen el delito de coalición: los funcionarios públicos, empleados, agentes o comisionados del Gobierno que se coaliguen para tomar medidas contrarias a una ley o reglamento, impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas.
+Comete el delito de peculado:
+
+I.- Todo servidor público que para usos propios o ajenos distraiga de su objeto dinero, valores, fincas o cualquier otra cosa perteneciente al Estado, al organismo descentralizado o a un particular, si por razón de su cargo los hubiere recibido en administración, en depósito o por otra causa.
+
+II.- El servidor público que indebidamente utilice fondos públicos u otorgue alguno de los actos a que se refiere el artículo de uso indebido de atribuciones y facultades con el objeto de promover la imagen política o social de su persona, la de su superior jerárquico o la de un tercero, o a fin de denigrar a cualquier persona.
+
+III.- Cualquier persona que solicite o acepte realizar las promociones o denigraciones a que se refiere la fracción anterior, a cambio de fondos públicos o del disfrute de los beneficios derivados de los actos a que se refiere el Artículo de uso indebido de atribuciones y facultades, y
+
+IV.- Cualquier persona que sin tener el carácter de servidor público federal y estando obligada legalmente a la custodia, administración o aplicación de recursos públicos federales, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó.
+
+Al que cometa el delito de peculado se le impondrán las siguientes sanciones:
+
+Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exceda del equivalente de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, o no sea valuable, se impondrán de tres meses a dos años de prisión, multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión públicos.
+
+Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda de quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito, se impondrán de dos años a catorce años de prisión, multa de trescientas a quinientas veces el salario mínimo diario vigente en el Distrito Federal en el momento de cometerse el delito y destitución e inhabilitación de dos años a catorce años para desempeñar otro empleo, cargo o comisión públicos.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
 ### CAPITULO IV. Falsificación de documentos en general
 
-###### ARTICULO 217.
-
-Comete el delito de cohecho:
-
-I.- La persona encargada de un servicio público, centralizado o descentralizado, o el funcionario de una empresa en que como accionista o asociado participe el Estado, que por sí o interpósita persona solicite o reciba indebidamente dinero o cualquiera otra dádiva, o acepte una promesa, para hacer dejar de hacer algo justo o injusto relacionado con sus funciones; y
-
-II.- El que de manera espontánea dé u ofrezca dinero o cualquiera otra dádiva a alguna de las personas que se mencionan en la fracción anterior, para que éste haga u omita un acto justo o injusto relacionado con sus funciones.
-
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-### CAPITULO V. Falsedad en declaraciones judiciales y en informes dados a una autoridad
-
-> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
-
-###### ARTICULO 218.
-
-El delito de cohecho se castigará con tres meses a cinco años de prisión y multa hasta de dos mil pesos.
-
-### CAPITULO VI. Variación del nombre o del domicilio
-
-###### ARTICULO 219.
-
-Al que cometa el delito de peculado se le aplicarán de uno a doce años de prisión, multa de mil a cien mil pesos, destitución del empleo o cargo e inhabilitación de dos a seis años para obtener otro.
-
-Cuando el peculado no exceda en su monto al equivalente a seis meses del salario mínimo general vigente en la región y en la fecha en que se consuma el delito, se impondrán al responsable de tres meses a seis años de prisión, multa de quinientos a cinco mil pesos, destitución del empleo o cargo e inhabilitación de a uno tres años para obtener otro.
-
-> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1980)</small>
-
-### CAPITULO VII. Usurpación de funciones públicas o de profesión y uso indebido de condecoraciones o uniformes
-
-> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 1947)</small>
-
-###### ARTICULO 220.
-
-Comete el delito de peculado todo funcionario, empleado o encargado de un servicio público, del Estado o Descentralizado, aunque sea en comisión por tiempo limitado y que, para usos propios o ajenos, distraiga de su objeto dinero, valores, fincas o cualquiera otra cosa perteneciente al Estado, al organismo descentralizado o a un particular, si por razón de su cargo los hubiere recibido en administración, en depósito o por otra causa.
-
-### CAPITULO VIII. Disposiciones comunes a los capítulos precedentes
-
-###### ARTICULO 221.
-
-(DEROGADO, D.O.F. 3 DE ENERO DE 1980)
-
-### CAPITULO I. Delitos contra el consumo y la riqueza nacionales
-
-> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 1979)</small>
-
-###### ARTICULO 222.
-
-Comete el delito de concusión: el encargado de un servicio público que, con el carácter de tal y a título de impuesto o contribución, recargo, renta, rédito, salario o emolumento, exija, por sí o por medio de otro, dinero, valores, servicios, o cualquiera otra cosa que sepa no ser debida, o en mayor cantidad que la señalada por la ley.
-
-### CAPITULO II. Vagos y malvivientes
-
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
-
-###### ARTICULO 223.
-
-A los funcionarios y empleados públicos que cometan el delito de concusión, se les aplicará destitución de empleo e inhabilitación para obtener otro por un término de dos a seis años, y pagarán una multa igual al duplo de la cantidad que hubieren recibido indebidamente. Si ésta pasare de cien pesos, se les impondrá además de tres meses a dos años de prisión.
-
-### CAPITULO III. Juegos prohibidos
-
 ###### ARTICULO 224.
 
-Las sanciones del artículo anterior, se aplicarán también a los encargados o comisionados por un funcionario público que, con aquella investidura, cometan el delito de concusión.
+Se sancionará a quien con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño, en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos.
+
+Incurre en responsabilidad penal, asimismo, quien haga figurar como suyos bienes que el servidor público adquiera o haya adquirido en contravención de lo dispuesto en la misma Ley, a sabiendas de esta circunstancia.
+
+Al que cometa el delito de enriquecimiento ilícito se le impondrán las siguientes sanciones:
+
+Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se logre acreditar de acuerdo con la Ley Federal de Responsabilidades de los Servidores Públicos.
+
+Cuando el monto a que ascienda el enriquecimiento ilícito no exceda del equivalente de cinco mil veces el salario mínimo diario vigente en el Distrito Federal, se impondrán de tres meses a dos años de prisión, multa de treinta a trescientas veces el salario mínimo diario vigente en el Distrito Federal al momento de cometerse el delito y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión públicos.
+
+Cuando el monto a que ascienda el enriquecimiento ilícito exceda del equivalente de cinco mil veces el salario mínimo diario vigente en el Distrito Federal, se impondrán de dos años a catorce años de prisión, multa de trescientas a quinientas veces el salario mínimo diario vigente en el Distrito Federal al momento de cometerse el delito y destitución e inhabilitación de dos años a catorce años para desempeñar otro empleo, cargo o comisión públicos.
 
 TITULO DECIMOPRIMERO
 
 Delitos cometidos en la administración de justicia
 
-### CAPITULO I. Atentados al pudor, estupro y violación
+### CAPITULO V. Falsedad en declaraciones judiciales y en informes dados a una autoridad
+
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
 ###### ARTICULO 225.
 
@@ -2032,7 +2176,7 @@ VIII.- Retardar o entorpecer maliciosamente o por negligencia la administración
 
 IV (sic).- Tratar en el ejercicio de su cargo con ofensa, desprecio o deshonestidad a las personas que asistan a su tribunal u oficina.
 
-### CAPITULO II. Rapto
+### CAPITULO VI. Variación del nombre o del domicilio
 
 ###### ARTICULO 226.
 
@@ -2050,7 +2194,9 @@ TITULO DECIMOSEGUNDO
 
 Responsabilidad profesional
 
-### CAPITULO III. Incesto
+### CAPITULO VII. Usurpación de funciones públicas o de profesión y uso indebido de condecoraciones o uniformes
+
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 1947)</small>
 
 ###### ARTICULO 228.
 
@@ -2068,7 +2214,7 @@ El artículo anterior se aplicará a los médicos que habiendo otorgado responsi
 
 Igualmente serán responsables en la forma que previene el artículo 228, todos los que causen daños indebidos en el ejercicio de una profesión, o un arte o actividad técnica.
 
-### CAPITULO IV. Adulterio
+### CAPITULO VIII. Disposiciones comunes a los capítulos precedentes
 
 ###### ARTICULO 231.
 
@@ -2098,9 +2244,9 @@ TITULO DECIMOTERCERO
 
 Falsedad
 
-### CAPITULO UNICO. Violación de las leyes sobre inhumaciones y exhumaciones
+### CAPITULO I. Delitos contra el consumo y la riqueza nacionales
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 5 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 234.
 
@@ -2150,7 +2296,9 @@ Al que comete el delito de falsificación de billetes de banco en grado de tenta
 
 > <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
-### CAPITULO I. Amenazas
+### CAPITULO II. Vagos y malvivientes
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 239.
 
@@ -2170,7 +2318,7 @@ III.- Las obligaciones y otros títulos legalmente emitidos por sociedades o emp
 
 Al que introduzca a la República o pusiere en circulación en ella los documentos falsos de que habla el artículo anterior, se le aplicará la sanción señalada por el artículo 239, y se le aplicará también en su caso, la parte final del artículo 236.
 
-### CAPITULO II. Allanamiento de morada y asalto
+### CAPITULO III. Juegos prohibidos
 
 ###### ARTICULO 241.
 
@@ -2212,7 +2360,7 @@ VIII.- Al que a sabiendas hiciere uso de los sellos o de algún otro de los obje
 
 ARTICULO 242 bis.- Se impondrá prisión de uno a cinco años y multa de doscientos a dos mil pesos, al que en cualquier forma altere las señales, marcas de sangre o de fuego, que se utilizan para distinguir el ganado, sin autorización de la persona que los tenga legalmente registradas ante la autoridad competente.
 
-### CAPITULO I. Lesiones
+### CAPITULO I. Atentados al pudor, estupro y violación
 
 ###### ARTICULO 243.
 
@@ -2280,7 +2428,7 @@ VI.- Los encargados del servicio telegráfico, telefónico o de radio que supong
 
 VII.- El que a sabiendas hiciere uso de un documento falso o de copia, transcripción o testimonio del mismo, sea público o privado.
 
-### CAPITULO II. Homicidio
+### CAPITULO II. Rapto
 
 ###### ARTICULO 247.
 
@@ -2306,9 +2454,7 @@ V.- Al que en juicio de amparo rinda informes como autoridad responsable, en los
 
 El testigo perito o intérprete que retracte espontáneamente sus falsas declaraciones rendidas ante cualquiera autoridad administrativa o ante la judicial antes de que se pronuncie sentencia en la instancia en que las diere sólo pagará una multa de diez a doscientos cincuenta pesos, pero si faltare a la verdad al retractar sus declaraciones, se le aplicará la sanción que corresponda con arreglo a lo prevenido en este capítulo, considerándolo como reincidente.
 
-### CAPITULO III. Reglas comunes para lesiones y homicidio
-
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+### CAPITULO III. Incesto
 
 ###### ARTICULO 249.
 
@@ -2320,7 +2466,7 @@ II.- Al que para eludir la práctica de una diligencia judicial o una notificaci
 
 III.- Al funcionario o empleado público que, en los actos propios de su cargo, atribuyere a una persona título o nombre a sabiendas de que no le pertenece.
 
-### CAPITULO IV. Parricidio
+### CAPITULO IV. Adulterio
 
 ###### ARTICULO 250.
 
@@ -2344,9 +2490,9 @@ III.- Al extranjero que ejerza una profesión reglamentada sin tener autorizaci�
 
 IV.- Al que usare uniforme, insignia, distintivo o condecoración a que no tenga derecho.
 
-### CAPITULO V. Infanticidio
+### CAPITULO UNICO. Violación de las leyes sobre inhumaciones y exhumaciones
 
-> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 251.
 
@@ -2362,7 +2508,7 @@ Delitos contra la economía pública
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1955)</small>
 
-### CAPITULO VI. Aborto
+### CAPITULO I. Amenazas
 
 ###### ARTICULO 253.
 
@@ -2432,7 +2578,7 @@ Si el que entregue los insumos referidos, fuere el productor que los recibió de
 
 VI.- A los funcionarios o empleados de cualquiera entidad o dependencia pública que entreguen estos insumos a quienes no tengan derecho a recibirlos; o que indebidamente nieguen o retarden la entrega a quienes tienen derecho a recibirlos, se harán acreedores a las sanciones del artículo 253.
 
-### CAPITULO VII. Abandono de personas
+### CAPITULO II. Allanamiento de morada y asalto
 
 ###### ARTICULO 255.
 
@@ -2444,7 +2590,7 @@ Se estimarán malos antecedentes para los efectos de este artículo: ser identif
 
 A los mendigos a quienes se aprehenda con un disfraz o con armas, ganzúas o cualquier otro instrumento que dé motivo para sospechar que tratan de cometer un delito, se les aplicará una sanción de tres días a seis meses de prisión, y quedarán sujetos durante el tiempo que el juez estime pertinente, a la vigilancia de la policía.
 
-### CAPITULO I. Golpes y otras violencias físicas simples
+### CAPITULO I. Lesiones
 
 ###### ARTICULO 257.
 
@@ -2480,7 +2626,7 @@ TITULO DECIMOQUINTO
 
 Delitos sexuales
 
-### CAPITULO II. Injurias y difamación
+### CAPITULO II. Homicidio
 
 ###### ARTICULO 260.
 
@@ -2524,9 +2670,9 @@ Además de las sanciones que señalan los artículos que anteceden, se impondrá
 
 Cuando el delito de violación sea cometido por quien desempeñe un cargo o empleo público o ejerza su profesión utilizando los medios o circunstancias que ellos le proporcionen, será destituido definitivamente del cargo o empleo o suspendido por el término de cinco años en el ejercicio de dicha profesión.
 
-### CAPITULO III. Calumnia
+### CAPITULO III. Reglas comunes para lesiones y homicidio
 
-> <small>(F. DE E. D.O.F. 12 DE SEPTIEMBRE DE 1931)</small>
+> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 ###### ARTICULO 267.
 
@@ -2550,7 +2696,7 @@ No se procederá contra el raptor, sino por queja de la mujer ofendida o de su m
 
 Cuando el rapto se acompañe con otro delito perseguible de oficio, sí se procederá contra el raptor, por éste último.
 
-### CAPITULO IV. Disposiciones comunes para los capítulos precedentes
+### CAPITULO IV. Parricidio
 
 ###### ARTICULO 272.
 
@@ -2560,9 +2706,9 @@ La pena aplicable a estos últimos será de seis meses a tres años de prisión.
 
 Se aplicará esta misma sanción en caso de incesto entre hermanos.
 
-### CAPITULO UNICO
+### CAPITULO V. Infanticidio
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JULIO DE 1970)</small>
+> <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 ###### ARTICULO 273.
 
@@ -2586,7 +2732,7 @@ TITULO DECIMOSEXTO
 
 Delitos contra el estado civil y bigamia
 
-### CAPITULO I. Robo
+### CAPITULO VI. Aborto
 
 ###### ARTICULO 277.
 
@@ -2618,9 +2764,7 @@ Delitos en materia de inhumaciones y exhumaciones
 
 > <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
-### CAPITULO II. Abuso de confianza
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+### CAPITULO VII. Abandono de personas
 
 ###### ARTICULO 280.
 
@@ -2646,11 +2790,9 @@ TITULO DECIMOCTAVO
 
 Delitos contra la paz y seguridad de las personas
 
-### CAPITULO III. Fraude
+### CAPITULO I. Golpes y otras violencias físicas simples
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
-
-### CAPITULO IV. De los delitos cometidos por los comerciantes sujetos a concurso
+### CAPITULO II. Injurias y difamación
 
 ###### ARTICULO 282.
 
@@ -2684,9 +2826,9 @@ Si el amenazador consigue lo que se propone se observarán las reglas siguientes
 
 > <small>(F. DE E. D.O.F. 31 DE AGOSTO DE 1931)</small>
 
-### CAPITULO V. Despojo de cosas inmuebles o de aguas
+### CAPITULO III. Calumnia
 
-> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+> <small>(F. DE E. D.O.F. 12 DE SEPTIEMBRE DE 1931)</small>
 
 ###### ARTICULO 285.
 
@@ -2706,7 +2848,7 @@ TITULO DECIMONOVENO
 
 Delitos contra la vida y la integridad corporal
 
-### CAPITULO VI. Daño en propiedad ajena
+### CAPITULO IV. Disposiciones comunes para los capítulos precedentes
 
 ###### ARTICULO 288.
 
@@ -2777,6 +2919,10 @@ Si el ofendido fuere ascendiente del autor de una lesión, se aumentarán dos a�
 ###### ARTICULO 301.
 
 De las lesiones que a una persona cause algún animal bravío, será responsable el que con esa intención lo azuce, o lo suelte o haga esto último por descuido.
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 ###### ARTICULO 302.
 
@@ -2851,6 +2997,8 @@ II.- Si la víctima recibiere una o varias lesiones mortales y no constare quié
 III.- Cuando las lesiones sean unas mortales y otras no y se ignore quiénes infirieron las primeras, pero constare quiénes lesionaron, se aplicará sanción, a todos, de tres a nueve años de prisión, a menos que justifiquen haber inferido las lesiones no mortales, en cuyo caso se impondrá la sanción que corresponda por dichas lesiones; y
 
 IV.- Cuando las lesiones sólo fueren mortales por su número y no se pueda determinar quiénes las infirieron, se aplicará sanción de tres a nueve años de prisión a todos los que hubieren atacado al occiso con armas a propósito para inferir las heridas que aquél recibió.
+
+### CAPITULO I. Robo
 
 ###### ARTICULO 310.
 
@@ -2934,6 +3082,10 @@ I.- Declarar a los reos sujetos a la vigilancia de la policía, y
 
 II.- Prohibirles ir a determinado lugar, Municipio, Distrito o Estado, o residir en él.
 
+### CAPITULO II. Abuso de confianza
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
+
 ###### ARTICULO 323.
 
 Se da el nombre de parricidio: al homicidio del padre, de la madre o de cualquier otro ascendiente consanguíneo y en línea recta, sean legítimos o naturales, sabiendo el delincuente ese parentesco.
@@ -2943,6 +3095,10 @@ Se da el nombre de parricidio: al homicidio del padre, de la madre o de cualquie
 ###### ARTICULO 324.
 
 Al que cometa el delito de parricidio se le aplicarán de 13 a 40 años de prisión.
+
+### CAPITULO III. Fraude
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 325.
 
@@ -2969,6 +3125,8 @@ IV.- Que el infante no sea legítimo.
 ###### ARTICULO 328.
 
 Si en el infanticidio tomare participación un médico, cirujano, comadrón o partera, además de las penas privativas de la libertad que le correspondan, se le suspenderá de uno a dos años en el ejercicio de su profesión.
+
+### CAPITULO IV. De los delitos cometidos por los comerciantes sujetos a concurso
 
 ###### ARTICULO 329.
 
@@ -3003,6 +3161,10 @@ No es punible el aborto causado sólo por imprudencia de la mujer embarazada, o 
 ###### ARTICULO 334.
 
 No se aplicará sanción: cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
+
+### CAPITULO V. Despojo de cosas inmuebles o de aguas
+
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
 ###### ARTICULO 335.
 
@@ -3049,6 +3211,8 @@ Al que exponga en una casa de expósitos a un niño menor de siete años que se 
 ###### ARTICULO 343.
 
 Los ascendientes o tutores que entreguen en una casa de expósitos un niño que esté bajo su potestad, perderán por ese sólo hecho los derechos que tengan sobre la persona y bienes del expósito.
+
+### CAPITULO VI. Daño en propiedad ajena
 
 ## TITULO VIGESIMO. Delitos contra el honor
 
@@ -3916,6 +4080,16 @@ D.O.F. 11 DE ENERO DE 1982.
 
 UNICO.- Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
+D.O.F. 5 DE ENERO DE 1983.
+
 ###### ARTICULO 2o.
 
 Las solicitudes y los procedimientos sobre libertad preparatoria y condena condicional que se encuentren pendientes al iniciarse la vigencia de estas reformas, se resolverán en los términos previstos por las mismas.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Por lo que respecta a las declaraciones sobre situación patrimonial efectuadas con anterioridad a la vigencia de la Ley Federal de Responsabilidades de los Servidores Públicos, se estará a lo dispuesto en las normas vigentes en el momento de formularse dicha declaración.
