@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-el-fondo-para-la-procuracion-de-justicia-del-16572
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-02"
-last_updated: "1999-12-02"
+last_updated: "2003-05-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16572&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE CREA EL FONDO PARA LA PROCURACION DE JUSTICIA DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE MAYO DE 2003.
 
 Ley publicada en la Sección Cuarta del Boletín Oficial del Estado, el jueves 2 de diciembre de 1999.
 
@@ -103,7 +103,9 @@ III.- Un Tesorero: que será el representante de la Secretaría de Finanzas del 
 
 IV.- Un Vocal: que será el Subprocurador General de Control de Procesos de la Procuraduría General de Justicia del Estado; y,
 
-V.- Un Comisario: que será el representante de la Secretaría de la Contraloría General del Estado.
+> <small>(REFORMADA, B.O. 26 DE MAYO DE 2003)</small>
+
+V.- Un representante de la Secretaría de Planeación del Desarrollo y Gasto Público.
 
 ###### ARTICULO 7º.
 
@@ -179,7 +181,7 @@ El Vocal del Consejo Técnico tendrá derecho a voz y voto, y suplirá en sus au
 
 ###### ARTICULO 12.
 
-El Comisario del Consejo Técnico tendrá a su cargo la vigilancia del ejercicio presupuestal y destino de recursos económicos del Fondo, debiendo formular en cualquier tiempo las observaciones correspondientes y hacerlas del conocimiento inmediato del Consejo Técnico a través de su Presidente.
+(DEROGADO, B.O. 26 DE MAYO DE 2003)
 
 ###### ARTICULO 13.
 
@@ -239,7 +241,7 @@ II.- El ejercicio de egresos del Fondo se sujetará al presupuesto que en el mes
 
 III.- El tesorero del Consejo deberá presentar a la Secretaría de Finanzas del Gobierno del Estado, dentro de los primeros cinco días hábiles de cada mes, la cuenta justificada del mes anterior de los ingresos, inversiones y erogaciones efectuados por el Fondo; y,
 
-IV.- Los recursos económicos del Fondo serán supervisados o auditados en los términos y condiciones establecidas por el Consejo.
+IV.- Los recursos económicos del Fondo serán supervisados o auditados en los términos y condiciones establecidas (sic) por el Consejo.
 
 ###### ARTICULO 19.
 
@@ -317,6 +319,16 @@ Los Agentes del Ministerio Público, previo acuerdo, antes de ordenar archivar d
 
 En la observancia y cumplimiento de las disposiciones establecidas en la presente Ley y su Reglamento, el Procurador General de Justicia y titular del Poder Ejecutivo del Estado podrán celebrar los acuerdos y convenios que estimen necesarios para el objeto de este Ordenamiento.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 26 DE MAYO DE 2003)</small>
+
+### CAPÍTULO V. DEL COMISARIO PÚBLICO
+
+> <small>(ADICIONADO, B.O. 26 DE MAYO DE 2003)</small>
+
+###### ARTICULO 33.
+
+Para el control, vigilancia y evaluación del Organismo, la Secretaría de la Contraloría designará a un Comisario Público.
+
 T R A N S I T O R I O S :
 
 ###### ARTÍCULO PRIMERO.
@@ -348,3 +360,9 @@ Comuníquese al Ejecutivo para su sanción y promulgación
 SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Hermosillo, Sonora, 23 de noviembre de 1999.- AL MARGEN CENTRAL DERECHO UN SELLO CON EL ESCUDO NACIONAL QUE DICE: ESTADOS UNIDOS MEXICANOS.- H. CONGRESO DEL ESTADO DE SONORA.- LV LEGISLATURA.- DIPUTADO PRESIDENTE.- C. JORGE SANTOS FLORES.- RUBRICA.- DIPUTADO SECRETARIO.- C. VALENTINA RUIZ LIZARRAGA.- RUBRICA.- DIPUTADO SECRETARIO.- C. JESUS ORTIZ FELIX.- RUBRICA.-
 
 POR TANTO.- mando se publique en el Boletín Oficial del Estado y se le de el debido cumplimiento.- PALACIO DE GOBIERNO.- Hermosillo, Sonora, treinta de noviembre de mil novecientos noventa y nueve.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- ARMANDO LOPEZ NOGALES.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- OSCAR LOPEZ VUCOVICH.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 26 DE MAYO DE 2003.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
