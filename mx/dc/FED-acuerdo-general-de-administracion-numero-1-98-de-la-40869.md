@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-1-98-de-la-40869"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-01-20"
-last_updated: "1998-01-20"
+last_updated: "1998-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40869&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-01-20"
 
 ACUERDO POR EL QUE SE DETERMINAN LOS PROCEDIMIENTOS PARA LAS CONTRATACIONES REQUERIDAS POR LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACION Y SU GACETA: TOMO VII, MAYO DE 1998, PAGINA 1097.
 
 Acuerdo publicado en el Semanario Judicial de la Federación, Tomo VII, Enero de 1998, página 1203.
 
@@ -559,9 +559,11 @@ ANÁLISIS DE LAS PROPUESTAS.- Mantenimiento e Intendencia analizará las propues
 
 ELABORACIÓN DEL DICTAMEN DEFINITIVO.- Dentro del plazo de cinco días hábiles contados a partir de que Mantenimiento e Intendencia emita el dictamen a que se refiere el artículo que antecede, con o sin la opinión de la Contraloría, el Comité de Obras, en sesión privada, elaborará el dictamen definitivo que contendrá su opinión respecto de la persona con quien debe contratarse, el cual se someterá a la consideración del Secretario General. Una vez resuelta la adjudicación el citado Comité notificará por escrito a los invitados el resultado del concurso y citará a la persona seleccionada a la firma del contrato.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO] POR EL ACUERDO GENERAL DE ADMINISTRACION 7/98 DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, S.J.F.G., TOMO VII, MAYO DE 1998, PAGINA 1097)</small>
+
 ###### Artículo 44.
 
-DECLARACIÓN DE CONCURSO DESIERTO.- En el caso de que no se presente el mínimo de propuestas indicado en las bases de la invitación; que ninguna de las presentadas reúna los requisitos señalados en éstas, que no sean satisfactorias, que sus precios no fueren aceptables o porque así lo estime conveniente la Suprema Corte, en cuyo caso se estará a lo dispuesto por la fracción XXI del artículo 37 del presente acuerdo, se podrá declarar desierto el concurso. En tal supuesto, el Comité elaborará un dictamen que contenga su propuesta, la que se someterá a la consideración del Secretario General para que determine lo procedente.
+DECLARACIÓN DE CONCURSO DESIERTO.- En el caso de que no se presente el mínimo de propuestas indicado en las bases de la invitación; que ninguna de las presentadas reúna los requisitos señalados en éstas, que no sean satisfactorias, que sus precios no fueren aceptables o porque así lo estime conveniente la Suprema Corte; en cuyo caso se estará a lo dispuesto por la fracción XXI del artículo 37 del presente acuerdo, se podrá declarar desierto el concurso. En tal supuesto, el Comité elaborará un dictamen que contenga su propuesta, la que se someterá a la consideración del Secretario General para que determine lo procedente. En dicho dictamen se podrá proponer la adjudicación directa de la contratación de que se trate, siempre que a juicio del Comité así resulte conveniente para la Suprema Corte.
 
 ###### Artículo 45.
 
@@ -783,11 +785,13 @@ COMUNICACIÓN DEL FALLO.- Una vez resuelta la adjudicación se podrá dar a cono
 
 PUBLICACIÓN EN EL DIARIO OFICIAL.- Además de las notificaciones previstas en el artículo que antecede, la Suprema Corte, a través de la sección especializada del Diario Oficial de la Federación, hará del conocimiento general la identidad del participante ganador en cada licitación pública. La mencionada información podrá insertarse en la página de "Internet" de la Suprema Corte previa autorización del Secretario General.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO] POR EL ACUERDO GENERAL DE ADMINISTRACION 7/98 DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, S.J.F.G., TOMO VII, MAYO DE 1998, PAGINA 1097)</small>
+
 ###### Artículo 57.
 
 CONCURSO DECLARADO DESIERTO.- El concurso por licitación podrá ser declarado desierto cuando no se presente el mínimo de propuestas indicado en las bases de la licitación, ninguna de las presentadas reúna los requisitos señalados en éstas, que no sean satisfactorias, sus precios no fueran aceptables; o la Suprema Corte así lo estime conveniente. En este último caso, se estará a lo dispuesto en la fracción XXV del artículo 48.
 
-Al declarar desierto el concurso por licitación el Comité elaborará un dictamen que contenga su propuesta en relación con el asunto, la que se someterá a la consideración del Secretario General.
+Al declarar desierto el concurso por licitación el Comité elaborará un dictamen que contenga su propuesta en relación con el asunto, la que se someterá a la consideración del Secretario General. En dicho dictamen se podrá proponer la adjudicación directa de la contratación de que se trate, siempre que a juicio del Comité así resulte conveniente para la Suprema Corte.
 
 ###### Artículo 58.
 
@@ -1457,9 +1461,11 @@ ANÁLISIS DE LAS PROPUESTAS.- Adquisiciones y Servicios analizará las propuesta
 
 ELABORACIÓN DEL DICTAMEN DEFINITIVO.- Dentro del plazo de tres días hábiles contados a partir de que Adquisiciones y Servicios entregue el cuadro a que se refiere el artículo anterior, con o sin la opinión de la Contraloría, el Comité de Adquisiciones, Servicios y Desincorporaciones, en sesión privada, elaborará el dictamen definitivo que contendrá su opinión respecto de la persona con quien debe contratarse, el cual se someterá a la consideración del Secretario General. Una vez resuelta la adjudicación el citado Comité notificará por escrito a los invitados el resultado del concurso y citará a la persona seleccionada a la firma del contrato.
 
+> <small>(REFORMADO POR EL ACUERDO GENERAL DE ADMINISTRACION 7/98 DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, S.J.F.G., TOMO VII, MAYO DE 1998, PAGINA 1097)</small>
+
 ###### Artículo 104.
 
-DECLARACIÓN DE CONCURSO DESIERTO.- En el caso de que no se presente el mínimo de propuestas indicado en las bases de la invitación; que ninguna de las presentadas reúna los requisitos señalados en éstas, que no sean satisfactorias, que sus precios no fueren aceptables o porque así lo estime conveniente la Suprema Corte, en cuyo caso se estará a lo dispuesto por la fracción XXII del artículo 98 del presente Acuerdo, se podrá declarar desierto el concurso. En tal supuesto, el Comité elaborará un dictamen que contenga su propuesta, la que se someterá a la consideración del Presidente o del Secretario General para que determine lo procedente.
+DECLARACIÓN DE CONCURSO DESIERTO.- En el caso de que no se presente el mínimo de propuestas indicado en las bases de la invitación; que ninguna de las presentadas reúna los requisitos señalados en éstas, que no sean satisfactorias, que sus precios no fueren aceptables o porque así lo estime conveniente la Suprema Corte; en cuyo caso se estará a lo dispuesto por la fracción XXII del artículo 98 del presente acuerdo, se podrá declarar desierto el concurso. En tal supuesto, el Comité elaborará un dictamen que contenga su propuesta, la que se someterá a la consideración del Secretario General para que determine lo procedente. En dicho dictamen se podrá proponer la adjudicación directa de la contratación de que se trate, siempre que a juicio del Comité así resulte conveniente para la Suprema Corte.
 
 ###### Artículo 105.
 
@@ -1669,11 +1675,13 @@ COMUNICACIÓN DEL FALLO.- Una vez resuelta la adjudicación se podrá dar a cono
 
 PUBLICACIÓN EN EL DIARIO OFICIAL.- Además de las notificaciones previstas en el artículo que antecede, la Suprema Corte, a través de la sección especializada del Diario Oficial de la Federación, hará del conocimiento general la identidad del participante ganador en cada licitación pública. La mencionada información podrá insertarse en la página de "Internet" de la Suprema Corte previa autorización del Secretario General.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO] POR EL ACUERDO GENERAL DE ADMINISTRACION 7/98 DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, S.J.F.G., TOMO VII, MAYO DE 1998, PAGINA 1097)</small>
+
 ###### Artículo 117.
 
-CONCURSO DECLARADO DESIERTO Y NUEVA CONVOCATORIA.- El concurso por licitación podrá ser declarado desierto cuando no se presente el mínimo de propuestas indicado en las bases de la licitación, ninguna de las presentadas reúna los requisitos señalados en éstas, que no sean satisfactorias, sus precios no fueran aceptables, o la Suprema Corte así lo estime conveniente. En este último caso, se estará a lo dispuesto en la fracción XIX del artículo 108.
+CONCURSO DECLARADO DESIERTO Y NUEVA CONVOCATORIA.- El concurso por licitación podrá ser declarado desierto cuando no se presente el mínimo de propuestas indicado en las bases de la licitación, ninguna de las presentadas reúna los requisitos señalados en éstas, que no sean satisfactorias, sus precios no fueran aceptables; o la Suprema Corte así lo estime conveniente. En este último caso, se estará a lo dispuesto en la fracción XIX del artículo 108.
 
-Al declarar desierto el concurso por licitación el Comité elaborará un dictamen que contenga su propuesta, la que se someterá a la consideración del Secretario General.
+Al declarar desierto el concurso por licitación el Comité elaborará un dictamen que contenga su propuesta, la que se someterá a la consideración del Secretario General. En dicho dictamen se podrá proponer la adjudicación directa de la contratación de que se trate, siempre que a juicio del Comité así resulte conveniente para la Suprema Corte.
 
 ###### Artículo 118.
 
@@ -1945,9 +1953,11 @@ I. El Secretario General hará una publicación anual, por tres días consecutiv
 
 II. En todo caso, las personas físicas o morales que hubieren participado en cualquiera de los procedimientos previstos en el presente capítulo y acreditado los requisitos previstos en el artículo 134, podrán ser incluidos en el Padrón de Proveedores de Informática, previo dictamen que al respecto emita el Comité y ponga a consideración del Secretario General.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL ACUERDO GENERAL DE ADMINISTRACION 7/98 DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, S.J.F.G., TOMO VII, MAYO DE 1998, PAGINA 1097)</small>
+
 ###### Artículo 134.
 
-REQUISITOS PARA EL REGISTRO EN EL PADRÓN DE PROVEEDORES DE INFORMÁTICA.- Las personas físicas y morales interesadas en inscribirse en el Padrón de Proveedores de Informática, deberán solicitarlo por escrito a Adquisiciones y Servicios, acompañando la siguiente información y documentos, los que deberán presentarse en idioma español, en original, en copia certificada por notario público, o bien, en original y copia para su cotejo, certificación y posterior devolución del original:
+REQUISITOS PARA EL REGISTRO EN EL PADRÓN DE PROVEEDORES DE INFORMÁTICA.- Las personas físicas y morales interesadas en inscribirse en el Padrón de Proveedores de Informática, deberán solicitarlo por escrito a Informática, acompañando la siguiente información y documentos los que deberán presentarse en idioma español, en original, en copia certificada por notario público, o bien, en original y copia para su cotejo, certificación y posterior devolución del original:
 
 I. Curriculum vitae de la interesada.
 
@@ -2287,9 +2297,11 @@ ANÁLISIS DE LAS PROPUESTAS.- Informática analizará las propuestas, realizará
 
 ELABORACIÓN DEL DICTAMEN DEFINITIVO.- Dentro del plazo de tres días hábiles, contados a partir de que Informática entregue el cuadro y el dictamen a que se refiere el artículo anterior, con o sin la opinión de la Contraloría, el Comité de Informática, en sesión privada elaborará el dictamen definitivo que contendrá su opinión respecto de la persona con quien debe contratarse, el cual se someterá a la consideración del Secretario General. Una vez resuelta la adjudicación, el Comité notificará por escrito a los invitados el resultado del concurso y citará a la persona seleccionada a la firma del contrato.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO] POR EL ACUERDO GENERAL DE ADMINISTRACION 7/98 DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, S.J.F.G., TOMO VII, MAYO DE 1998, PAGINA 1097)</small>
+
 ###### Artículo 161.
 
-DECLARACIÓN DE CONCURSO DESIERTO.- En el caso de que no se presente el mínimo de propuestas indicado en las bases de la invitación; que ninguna de las presentadas reúna los requisitos señalados en éstas, que no sean satisfactorias, que sus precios no fueran aceptables; o porque así lo estime conveniente la Suprema Corte, en cuyo caso se estará a lo dispuesto por la fracción XXII del artículo 155 del presente acuerdo, se podrá declarar desierto el concurso. En tal supuesto, el Comité elaborará un dictamen que contenga su propuesta, la que se someterá a la consideración del Secretario General para que determine lo procedente.
+DECLARACIÓN DE CONCURSO DESIERTO.- En el caso de que no se presente el mínimo de propuestas indicado en las bases de la invitación; que ninguna de las presentadas reúna los requisitos señalados en éstas, que no sean satisfactorias, que sus precios no fueran aceptables; o porque así lo estime conveniente la Suprema Corte; en cuyo caso se estará a lo dispuesto por la fracción XXII del artículo 155 del presente acuerdo, se podrá declarar desierto el concurso. En tal supuesto, el Comité elaborará un dictamen que contenga su propuesta, la que se someterá a la consideración del Secretario General para que determine lo procedente. En dicho dictamen se podrá proponer la adjudicación directa de la contratación de que se trate, siempre que a juicio del Comité así resulte conveniente para la Suprema Corte.
 
 ###### Artículo 162.
 
@@ -2501,11 +2513,13 @@ COMUNICACIÓN DEL FALLO.- Una vez resuelta la adjudicación, se podrá dar a con
 
 PUBLICACIÓN EN EL DIARIO OFICIAL.- Además de las notificaciones previstas en el artículo anterior, la Suprema Corte, a través de la sección especializada del Diario Oficial de la Federación, hará del conocimiento general la identidad del participante ganador en cada licitación pública. La mencionada información podrá insertarse en la página de "Internet" de la Suprema Corte previa autorización del Secretario General.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO] POR EL ACUERDO GENERAL DE ADMINISTRACION 7/98 DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, S.J.F.G., TOMO VII, MAYO DE 1998, PAGINA 1097)</small>
+
 ###### Artículo 174.
 
-CONCURSO DECLARADO DESIERTO Y NUEVA CONVOCATORIA.- El concurso por licitación podrá ser declarado desierto cuando no se presente el mínimo de propuestas indicado en las bases de la licitación, ninguna de las presentadas reúna los requisitos señalados en éstas, que no sean satisfactorias, sus precios no fueran aceptables, o la Suprema Corte así lo estime conveniente. En este último caso, se estará a lo dispuesto en la fracción XIX del artículo 165.
+CONCURSO DECLARADO DESIERTO Y NUEVA CONVOCATORIA.- El concurso por licitación podrá ser declarado desierto cuando no se presente el mínimo de propuestas indicado en las bases de la licitación, ninguna de las presentadas reúna los requisitos señalados en éstas, que no sean satisfactorias, sus precios no fueran aceptables; o la Suprema Corte así lo estime conveniente. En este último caso, se estará a lo dispuesto en la fracción XIX del artículo 165.
 
-Al declarar desierto el concurso por licitación el Comité elaborará un dictamen que contenga su propuesta, la que se someterá a la consideración del Secretario General.
+Al declarar desierto el concurso por licitación el Comité elaborará un dictamen que contenga su propuesta, la que se someterá a la consideración del Secretario General. En dicho dictamen se podrá proponer la adjudicación directa de la contratación de que se trate, siempre que a juicio del Comité así resulte conveniente para la Suprema Corte.
 
 ###### Artículo 175.
 
@@ -2864,3 +2878,11 @@ SEXTO.- Hasta en tanto se emita el Acuerdo General de Administración relativo a
 SÉPTIMO.- Publíquese en el Semanario Judicial de la Federación y su Gaceta.
 
 Así lo acordó y firma el Ministro José Vicente Aguinaco Alemán, presidente de la Suprema Corte de Justicia de la Nación, a los veinte días del mes de enero de mil novecientos noventa y ocho, ante el Secretario General de la Presidencia y Oficial Mayor que da fe.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+S.J.F.G., TOMO VII, MAYO DE 1998, PAGINA 1097.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su expedición.
+
+SEGUNDO.- Publíquese en el Semanario Judicial de la Federación y su Gaceta.
