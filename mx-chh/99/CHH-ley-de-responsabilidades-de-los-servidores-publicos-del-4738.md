@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-responsabilidades-de-los-servidores-publicos-del-4738"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-17"
-last_updated: "1989-05-17"
+last_updated: "1989-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 1989.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de mayo de 1989.
 
@@ -501,9 +501,11 @@ Se derogan la décima segunda parte, Libro Unico, de las responsabilidades y san
 
 Independientemente de las disposiciones que establece esta Ley, quedan preservados los derechos sindicales de los trabajadores de base al servicio del Estado y de los Municipios respecto a su relación laboral.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO CUARTO.
 
-El Supremo Tribunal de Justicia, el Congreso del Estado y los Ayuntamientos, establecerán los Órganos y Sistemas para sancionar las responsabilidades administrativas de sus propios servidores públicos, así como lo referente a las declaraciones de situación patrimonial y las modificaciones que tengan que hacer a sus respectivas Leyes Orgánicas en los términos de esta Ley, en un plazo no mayor de seis meses a partir de su vigencia.
+El Supremo Tribunal de Justicia, el Congreso del Estado y los Ayuntamientos, establecerán los órganos y sistemas para sancionar las responsabilidades administrativas de sus propios servidores públicos así como lo referente a las declaraciones de situación patrimonial y las modificaciones que tengan que hacer a sus respectivas Leyes Orgánicas en los términos de esta Ley, en un plazo no mayor de un año a partir de su vigencia.
 
 ###### ARTICULO QUINTO.
 
@@ -534,3 +536,11 @@ LIC. FERNANDO BAEZA MELENDEZ.
 EL SECRETARIO DE GOBIERNO
 
 LIC. MARTHA I. LARA ALATORRE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE DICIEMBRE DE 1989.
+
+###### ARTICULO UNICO
+
+El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado.
