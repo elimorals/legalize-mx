@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-incorporar-al-desarrollo-productivo-de-la-sociedad-283
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-07"
-last_updated: "1995-07-07"
+last_updated: "2003-09-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY PARA INCORPORAR AL DESARROLLO PRODUCTIVO DE LA SOCIEDAD A DISCAPACITADOS "PROFR. ALVARO MATEOS NUÑEZ"
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA EL DESARROLLO INTEGRAL DE PERSONAS CON CAPACIDADES DIFERENTES PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL PERIODICO OFICIAL EL 26 DE SEPTIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 7 de julio de 1995.
 
@@ -290,3 +292,27 @@ LIC. ERNESTO RUFFO APPEL.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RODOLFO VALDEZ GUTIERREZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE SEPTIEMBRE DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Para Incorporar al Desarrollo Productivo de la Sociedad a Discapacitados "Profr. Álvaro Mateos Núñez", publicada en el Periódico Oficial del Estado de fecha 7 de julio de 1995.
+
+###### ARTÍCULO TERCERO.
+
+Los ayuntamientos tendrán un plazo de ciento ochenta días contados a partir de la entrada en vigor de la presente Ley, para adecuar su normatividad en el ámbito de su competencia.
+
+###### ARTÍCULO CUARTO.
+
+Los Sistemas Estatal y Municipales para el Desarrollo Integral de la Familia deberán expedir los manuales de organización, procedimientos y servicios al público para la expedición de la certificación de capacidades diferentes y demás necesarios, en los términos previstos en esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+Las dependencias o entidades de gobierno previstas en la presente Ley, deberán de establecer en el presupuesto de egresos del ejercicio presupuestal inmediato siguiente a la publicación de la presente Ley, las necesidades presupuestarias en los programas respectivos para dar cumplimiento a las atribuciones y obligaciones previstas en la misma.
