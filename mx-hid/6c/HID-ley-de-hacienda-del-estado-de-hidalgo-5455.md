@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-5455"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-29"
-last_updated: "1998-12-31"
+last_updated: "1999-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 29 de diciembre de 1990.
 
@@ -307,45 +307,51 @@ IMPUESTO SOBRE ENAJENACIION DE AUTOMOVILES, CAMIONES Y DEMAS VEHICULOS DE MOTOR 
 
 DEL OBJETO:
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 17.
 
-Es objeto de este impuesto, la enajenación de automóviles y demás vehículos de motor usados, que de manera eventual se realice dentro del territorio del Estado, siempre que no cause el Impuesto al Valor Agregado.
+Es objeto de este impuesto, la enajenación de automóviles y demás vehículos de motor usados, que se realice dentro del territorio del estado, siempre que no cause el impuesto al valor agregado.
 
 DEL SUJETO:
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 18.
 
-Son sujetos de este impuesto, quienes por cualquier título transmitan el dominio de bienes a que se refiere el artículo anterior.
+Son sujetos de este impuesto, quienes por cualquier titulo adquieran el dominio de bienes a que se refiere el artículo anterior.
 
 DE LA BASE:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 19.
 
-Es base de este impuesto, el valor que resulte mayor entre el precio consignado de la operación y el que se encuentre señalado en los tabuladores de valores mínimos de la Secretaría de Finanzas y Administración, cuando sean modelos anteriores del año en curso.
+Es base de este impuesto, el valor de la adquisición de automóviles y demás vehículos de motor usados cuya operación y contratación se realice dentro del territorio del Estado.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-Para modelos del año, será base del impuesto el 80% del importe de la primera facturación.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 DE LA TASA:
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 20.
 
-Este impuesto se causará y pagará a la tasa del 1.5%.
+Este impuesto se causará y pagará a la tasa de 2 salarios mínimos vigentes en la entidad para el ejercicio fiscal correspondiente al en que se realice la operación.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 21.
 
-Para los efectos de este impuesto, se considerará efectuada la operación dentro del Estado por el sólo hecho de dar de alta un vehículo en la Dirección General de Ingresos y Auditoria Fiscal.
+Para los efectos de este impuesto, se considerará efectuada la operación dentro del Estado por el solo hecho de dar de alta un vehículo en cualquiera de los Centros Regionales de Operación Fiscal.
 
 DEL PAGO DEL IMPUESTO:
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
 ###### ARTICULO 22.
 
-El pago de este impuesto, deberá efectuarse en la oficina recaudadora correspondiente, dentro de los quince días siguientes a la celebración de la operación.
+El pago de este impuesto, deberá efectuarse en el Centro Regional de Operación Fiscal o sucursal bancaria autorizada, dentro de los quince días siguientes a la celebración de la operación.
 
 DE LAS OBLIGACIONES:
 
@@ -353,9 +359,13 @@ DE LAS OBLIGACIONES:
 
 Para la recaudación de este impuesto, se observarán las siguientes reglas:
 
-I. Las personas que lleven a cabo las operaciones objeto de este impuesto, deberán presentar una manifestación en las formas oficiales aprobadas ante la Oficina Recaudadora correspondiente, a fin de proporcionar los datos y documentos relativos a la operación, especificando debidamente el monto;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-II. La Oficina Recaudadora, al recibir dicha declaración, expedirá el comprobante respectivo y sellará la factura o comprobante que ampara la propiedad del vehículo materia de la operación, para hacer constar que el impuesto ha sido cubierto;
+I. Las personas que lleven a cabo las operaciones objeto de este impuesto, deberán presentar, en el centro regional de operación fiscal, una manifestación en las formas oficiales aprobadas, a efecto de proporcionar los datos y documentos relativos a la operación;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+II. El Centro Regional de Operación Fiscal, al recibir dicha declaración, expedirá el comprobante respectivo, para hacer constar que el impuesto ha sido cubierto; y
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
@@ -369,7 +379,9 @@ I. Los adquirientes;
 
 II. Los comisionistas o cualquiera otra persona que intervengan en las operaciones; y
 
-III. Los empleados o funcionarios públicos que autoricen cualquiera de los referidos trámites en este capítulo, sin haber celebrado el pago de este impuesto.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+III. Los empleados o funcionarios públicos que autoricen cualesquiera de los trámites referidos en este Capítulo sin haber verificado y exigido el pago de este impuesto.
 
 ### CAPITULO CUARTO
 
@@ -975,365 +987,413 @@ VIII. Por la inscripción de la apostilla para certificar la autenticidad de la 
 
 Los Derechos por la prestación de los servicios del Registro Público de la Propiedad y del Comercio, se causarán y pagarán de la forma siguiente:
 
-I.- Por la inscripción de documentos relativos a la propiedad o posesión originaria de bienes inmuebles:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+a). Accesión de terrenos rústicos. 1 salario mínimo
 
-a). Accesión de terrenos rústicos. $ 12.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-b). Accesión de construcciones, pagarán sobre el valor catastral o de avalúo. 8.5 al millar.
+b). Accesión de construcciones, sobre el valor catastral
 
-c). Informaciones posesorias. 4.0 al millar.
+o de avalúo Conforme a la tarifa del
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+artículo 88 Ter
 
-II.- Por inscripción del apeo o deslinde $17.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-III.- Por inscripción de aportaciones de bienes inmuebles, se pagará sobre el valor catastral o de avalúo. 8.5 al millar
+c). Informaciones posesorias 50% de la tarifa del
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+artículo 88 Ter
 
-IV.- Por la inscripción de propiedad en régimen de condominio, se pagará por cada departamento, despacho, vivienda o cualquier otro tipo. $ 46.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+II.- Por inscripción de resoluciones de apeo y deslinde 1.5 salarios mínimos
 
-V.- Por la inscripción de la disolución de la sociedad conyugal en lo referente a bienes inmuebles. $ 58.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-VI.- Por la inscripción de los contratos de compra venta, donación, cesión de derechos, transmisión de dominio en ejecución de fideicomiso, permuta, usucapión, adjudicaciones judiciales y por herencia así como todas las operaciones que impliquen transmisión de propiedad, pagarán sobre el valor catastral o avalúo bancario. 8.5 al millar
+III.- Por inscripción de aportaciones de bienes inmuebles,
 
-VII.- Por la inscripción de resoluciones de información ad'perpetuam, se pagará por predio.
+se pagará sobre el valor catastral o de avalúo. Conforme a la tarifa del
 
-8.5 al millar
+artículo 88 Ter
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-VIII.- Por la inscripción de inmatriculación, se pagará por predio. $ 35.00
+IV.- Por la inscripción de propiedad en régimen de
 
-IX.- Por la inscripción de actos, contratos o convenios por los que se fraccione, lotifique o se sub-divida un predio, se pagará de la siguiente manera:
+condominio, se pagará por cada departamento,
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+despacho, vivienda o cualquier otro tipo. 2 salarios mínimos
 
-a). Cuando se trate de predios ubicados en las zonas urbanas residenciales, campestres o industriales, por lote. $ 86.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+V.- Por la inscripción de la disolución de la sociedad
 
-b). En las demás zonas, por lote $ 35.00
+conyugal en lo referente a bienes inmuebles. 2 salarios mínimos
 
-X.- Por la inscripción de contratos de compra venta a plazos con reserva de dominio se pagará sobre el valor catastral o de avalúo.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+VI.- Por inscripción de contratos de compra-venta, donación, cesión de derechos, transmisión de dominio en ejecución de fideicomiso, permuta, o usucapión, adjudicaciones judiciales y por herencia, así como por cualquier operación que implique transmisión de propiedad, pagarán sobre el valor catastral o de avalúo ................Conforme a la tarifa del artículo 88 Ter.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+VII. Por la inscripción de resoluciones de información Ad'perpetuam, se pagará sobre el valor de cada predio. ................................. Conforme a la tarifa del artículo 88 Ter.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+VIII.- Por la inscripción de inmatriculación se pagará por predio .. 2 salarios mínimos
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+IX.- Por inscripción de actos, contratos o convenios por los que se divida, subdivida, lotifique, relotifique o fraccione un predio, se pagará de la manera siguiente:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+a). Cuando se trate de predios ubicados en zonas urbanas residenciales o zonas campestres e industriales, por lote 4 salarios mínimos
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+b). En las demás zonas, por lote 1.5 salarios mínimos
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+X.- Por inscripción de contratos de compra-venta a plazos con reserva de dominio, se pagará sobre el valor catastral o de avalúo..............Conforme a la tarifa del artículo 88 Ter
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+XI.- Por inscripción de fusión de predios, se pagará, por cada uno ..........1.5 salarios mínimos
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+XII.- Por inscripción de división de copropiedad, se pagará obre el valor catastral o de avalúo de cada uno de los inmuebles ....50 % de la tarifa del artículo 88 ter
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+XIII.- Otros actos inscribibles no previstos..............2 salarios mínimos
+
+XIV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
+
+> <small>(ADICIONADO, P.O.31 DE DICIEMBRE DE 1999)</small>
 
 La cancelación de la reserva de dominio, se pagará al 50% del valor de la inscripción principal.
 
-6.0 al millar
+ADICIONADO, P.O.31 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+Cuando el valor catastral o el de avalúo, del acto que se trate de inscribir, difieran entre sí, se atenderá al mayor para fijar el monto de los derechos que deberán cubrirse.
 
-XI.- Por la inscripción de fusión de predios, se pagará por cada uno. $ 29.00
-
-XII.- Por la inscripción de división de copropiedad, se pagará sobre el valor catastral de cada uno de los inmuebles. 4.0 al millar
-
-XIII.- Cuando el valor inserto en el acto que se trate de inscribir sea, mayor que el valor catastral o de avalúo, se atenderá al primero para fijar el monto de los derechos que deberán cubrirse, salvo las excepciones previstas en las fracciones anteriores.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-XIV.- Otros actos inscribibles. $ 35.00
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 72.
 
-Los derechos generados ante el Registro Publico de la Propiedad y del Comercio, por concepto de inscripciones o autorizaciones relativas a las limitaciones o gravámenes de la propiedad y posesión originaria de inmuebles, como son: arrendamiento, mutuo con garantía hipotecaria, contratos de ocupación, constitución o substitución de garantías reales, cesión de garantías u obligaciones reales, cédula hipotecaria del juicio sumario hipotecario, comodato, contratos de crédito refaccionario y de habilitación o avío celebrados entre particulares, convenios judiciales, dación de pago, cumplimiento de condiciones suspensivas o resolutorias a que se haya sujetado la transmisión de la propiedad, demandas y resoluciones judiciales que limiten el derecho de propiedad; posesión, embargos judiciales, fideicomisos de afectación o administración en garantía en el que el o los fideicomitentes se reserven expresamente la propiedad, fianzas, habitación, prendas sobre créditos, prenda de frutos pendientes, uso, usufructo, servidumbre, reestructuración de créditos cuando exista novación de contrato, se causarán y pagarán cuando se determine el valor del acto inscribible o anotable: 4.5 al millar.
+Los derechos generados, ante el Registro Público de la Propiedad y del Comercio, por concepto de inscripciones o anotaciones relativas a limitaciones o gravámenes de la propiedad y posesión originaria de inmuebles, como son: arrendamiento, mutuo con garantía hipotecaria, contratos de ocupación, constitución o substitución de garantías reales, cesión de garantías y obligaciones reales, cédula hipotecaria del juicio sumario hipotecario, comodato, contratos de crédito refaccionario y de habilitación o avió celebrados entre particulares, convenios judiciales, dación en pago que no implique transmisión de propiedad, cumplimiento de condiciones suspensivas o resolutorias a que se haya sujetado la transmisión de la propiedad, demandas y resoluciones judiciales que limiten el derecho de propiedad, posesión, embargos judiciales, fideicomisos de afectación o administración en garantía en el que el o los fideicomitentes se reserven expresamente la propiedad, fianzas, habilitación, prendas sobre créditos, prenda de frutos pendientes, uso, usufructo, servidumbre, reestructuración de créditos cuando exista novación de contrato, se causarán y pagarán cuando se determine el valor del acto inscribible o anotable: 50 % de la tarifa del artículo 88 Ter.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+Cuando en el acto inscribible o anotable no se determine el valor, se pagarán 2 salarios mínimos
 
-I.- Cuando en el acto inscribible o anotable no se determina el valor $ 35.00
+La cancelación de las inscripciones o anotaciones a que se refiere este artículo pagarán, el 50% del valor de la inscripción;
 
-II. Las cancelaciones de las inscripciones o anotaciones a que se refiere este artículo, pagarán el 50% del valor de la inscripción.
+En hipotecas para garantizar el crédito principal o refinanciamiento, los adquirientes de vivienda popular o de interés social, pagarán 4 salarios mínimos
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-III.- En hipotecas para garantizar el crédito principal y de refinanciamiento, los adquirientes de viviendas popular o de interés social, pagarán el 9.0 al millar sobre el 10% del monto total del crédito, tanto del crédito principal como el del refinanciamiento.
-
-Para los efectos de la fracción anterior, se entiende como viviendas de interés social o popular, las financiadas a través de los organismos autorizados para ello de carácter federal, estatal o municipal o por instituciones bancarias hasta por un valor equivalente a 186 salarios mínimos elevado al mes.
+Para efectos del párrafo anterior, se entiende por viviendas de interés social las financiadas a través de organismos de carácter federal, estatal o municipal autorizados para ello o por instituciones bancarias, hasta por un valor equivalente a 186 salarios mínimos vigentes en el Estado, elevados al mes.
 
 ###### ARTICULO 73.
 
 Los derechos por las inscripciones de documentos o actos que sean necesarios como acto previo para la inscripción de Títulos traslativos de dominio, se causarán y pagarán de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-I.- Por cualquier clase de testamento $ 35.00
+I.- Por cualquier clase de testamento 2 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-II.- Por la Designación, Aceptación, Disernimiento del cargo de albacea, declaraciones y reconocimiento de herederos en un sólo documento $ 35.00
+II.- Por declaración o reconocimiento de herederos y por designación, aceptación, discernimiento del cargo de albacea en un solo documento 2 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-III.- Cuando estos actos se inscriben en documentos separados, se pagará por cada uno. $ 17.00
+III.- Cuando estos actos se inscriben en documentos separados, se pagará por cada uno.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+1 salario mínimo
 
-IV.- Por sustitución del cargo de albacea. $ 17.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+IV.- Por sustitución del cargo de albacea. 1 salario mínimo
 
-V.- Por repudio de herencia $ 35.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+V.- Por repudio de herencia 2 salarios mínimos
 
-VI.- Por autorización para vender o gravar bienes de menores o incapaces. $ 12.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+VI.- Por autorización para vender o gravar bienes de menores u otros incapaces 1 salario mínimo
 
-VII.- Por poderes civiles y substituciones $ 17.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+VII.- Por poderes civiles, substituciones o su revocación 1 salario mínimo
 
-VIII.- Por la inscripción de la Sociedad Conyugal $ 58.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+VIII.- Por la inscripción de la Sociedad Conyugal 3 salarios mínimos
 
-IX.- Por el depósito de testamento ológrafo. $ 35.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+IX.- Por el depósito de testamento ológrafo. 2 salarios mínimos
 
-X.- Por autos de ejecución. $ 14.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-XI. Por constitución del patrimonio familiar. 2.0 al millar
+X.- Por actuaciones judiciales 1 salario mínimo
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-XII.- Otros actos inscribibles. $ 17.00
+XI.- Por constitución del patrimonio familiar. 3 salarios mínimos
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+XII.- Otros actos inscribibles no previstos 1 salario mínimo
 
 ###### ARTICULO 74.
 
 Los derechos generados por la inscripción de actos relativos a bienes muebles, se causarán y pagarán de la siguiente manera:
 
-I.- Por la inscripción de contratos o actos que trasmitan la propiedad de bienes muebles, como las operaciones traslativas de dominio sujetas a condiciones resolutorias, adjudicaciones, aportaciones, compra-venta con reserva de dominio, se pagará cuando se determine el valor. 8.5 al millar
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+I. Por actos o contratos que transmitan la propiedad, como las operaciones traslativas de dominio sujetas a condiciones resolutorias, adjudicaciones, aportaciones, compra-venta con reserva de dominio, cuando se determine el valor 50% de la tarifa del artículo 88 ter
 
-II.- En los casos de la fracción anterior cuando no se tengan determinado el valor, pagarán
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-$ 58.00
+II. En los casos de la fracción anterior, cuando no se tenga determinado el valor de la operación 3 salarios mínimos
 
-III.- Por inscripción de operaciones que limiten o graven bienes muebles como son: el alquiler, cesión de crédito y obligaciones, embargos, prenda, resoluciones o convenios judiciales y usufructo se pagará, cuando se determine el valor de operación inscribible. 4.0 al millar
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+III.- Por inscripción de operaciones que los limiten o graven, como son: alquiler, cesión de crédito y obligaciones, embargos, prenda, resoluciones o convenios judiciales y usufructo, conforme al valor de la operación 25% de la tarifa del
 
-IV.- Cuando en los casos de la fracción anterior no se determine el valor de la operación, se pagará $ 35.00
+artículo 88 ter
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-V.- Por la ratificación de firmas $ 35.00
+IV.- En los casos de la fracción anterior, cuando no se determine el valor de la operación 2 salarios mínimos
 
-VI.- Por cancelación de cualquiera de los actos contenidos en este artículo, se pagará el 50% del valor de la inscripción.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+V.- Por la ratificación de firmas................2 salarios mínimos
 
-VII. Por otros actos inscribibles. $ 23.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+VI.- Por otros actos inscribibles no previstos. ......... 1 salario mínimo
+
+VII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999).
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+Por cancelación de cualquiera de los actos contenidos en este artículo, se pagará el 50 % del valor de la inscripción.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 75.
 
-Los derechos generados por la inscripción de documentos o actos relativos a personas morales, se causarán y pagarán de la siguiente manera:
+Los derechos generados por la inscripción de actos contenidos en documentos relativos a personas morales, se causarán y pagarán de la manera siguiente:
 
-I.- Por la inscripción de escrituras constitutivas de personas morales o aumento de capital, pagarán:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1994)</small>
+I. Por escrituras constitutivas o aumento de capital...........conforme a la tarifa del artículo 88 ter.
 
-a) Hasta $ 5,000.00 4.0 al millar
+En las sociedades de capital variable se tomará como base el capital suscrito.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
-b) De $ 5,000.00 en adelante 3.5 al millar
-
-c). En las sociedades de capital variable, se tomará como base el capital suscrito.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 II.- En los casos de la fracción anterior, cuando no exista valor determinado, pagarán
 
-$ 58.00
+3 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-III.- La inscripción de la disolución de personas morales $ 58.00
+III.- Por actas y estatutos de sociedades cooperativas 3 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-IV. - La inscripción de la liquidación de personas morales $ 58.00
+IV.- Por disolución o liquidación de personas morales 2 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-V.- La disolución y liquidación cuando conste en un solo documento. $ 69.00
+V.- La disolución y liquidación cuando conste en un solo documento. 2 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-VI.- La inscripción de actas de asamblea de socios o de junta de administradores. $ 46.00
+VI.- La inscripción de actas de asamblea de socios o de junta de administradores. 2 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-VII.- La inscripción de cualquier modificación al acta constitutiva, siempre que no se refiera a un aumento de capital social. $ 35.00
+VII.- La inscripción de cualquier modificación al acta constitutiva, siempre que no se refiera a un aumento de capital social. 2 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-VIII.- La inscripción de otorgamiento, sustitución o renovación de poderes, por cada apoderado. $ 58.00
+VIII.- La inscripción de otorgamiento, sustitución o renovación de poderes, por cada apoderado. 2 salarios mínimos
 
-IX.- Por la inscripción de emisión de obligaciones, acciones, cédula y certificados de participación, pagarán sobre el importe de la emisión 2.0 al millar
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+IX.- Por la inscripción de emisión de obligaciones, acciones, cédula y certificados de participación, pagarán sobre el importe de la emisión..........Conforme a la tarifa del artículo 88 ter
 
-X.- Por la inscripción de revocación o renuncia de poderes $ 23.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+X.- Por la inscripción de revocación o renuncia de poderes 1 salario mínimo
 
-XI.- Por la inscripción de cualquier otro Título registrable conforme a la Ley $ 35.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-XII.- Por la fusión de sociedades, sobre el capital inscrito de las sociedades fusionadas.
+XI.- Por la inscripción de cualquier otro Título registrable conforme a la Ley ...50% de la tarifa del artículo 88 ter
 
-3.0 al millar.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+XII.- Por cualquier otro título registrable conforme a la Ley 1 salario mínimo
 
 ###### ARTICULO 76.
 
 Los derechos generados por la inscripción de actos o contratos mercantiles, se causarán y pagarán de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+I.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
-I.- Por corresponsalía. $ 17.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-II.- Por créditos refaccionarios y de habilitación o avío, pagarán sobre su valor.
+II.- Por créditos refaccionarios y de habilitación o avío, crédito hipotecario mutuo, reconocimiento de adeudo o arrendamiento financiero 50% de la tarifa del artículo 88 ter
 
-3.5 al millar
+III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
-III.- Por créditos hipotecario, pagará sobre su valor 4.5 al millar
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+IV.- Por asociación en participación 2 salaros mínimos
 
-IV.- Por asociación en participación $ 35.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-V.- Por la ratificación de firmas de los contratos comprendidos en este artículo, pagarán de la siguiente manera:
+V.- Por ratificación de firmas de los contratos comprendidos en este artículo 2 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-a) Hasta $ 15,000.00 $ 35.00
+Por la cancelación de los actos o contratos señalados en este artículo se pagará, el 50% del valor de la inscripción;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-b) De $ 15,000.00 en adelante $ 46.00
+VI. Por cancelación de créditos otorgados por instituciones de crédito...........2 salarios mínimos
 
-VI.- Por la cancelación de los actos o contratos señalados en este artículo pagarán el 50% del valor de la inscripción.
+> <small>(REFORMADA P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+VII. Por inscripción de rectificaciones relativas a inscripciones principales cuando se refiera a modificaciones de plazo de intereses, garantías, datos equivocados, sustitución de adeudos o acreedor, o cualesquiera otras que no constituyan novación del contrato ........2 salarios mínimos
 
-VII.- Por la cancelación de créditos otorgados por las Instituciones de Crédito. $ 58.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+VIII. Por otros actos o contratos no previstos...................... 1 salario mínimo
 
-VIII.- Por la inscripción de rectificaciones relativas a inscripciones principales cuando se refieran a: Modificaciones de plazo de intereses, garantía, datos equivocados o cualesquiera otras que no constituyan novación del contrato, se pagará $ 35.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 77.
 
-Los derechos generados por la inscripción y anotaciones de resoluciones judiciales, se causarán y pagarán de la siguiente manera:
+Los derechos generados por la inscripción o anotación de resoluciones judiciales de carácter mercantil, se causarán y pagarán de la manera siguiente:
 
-I.- Por las providencias precautorias 4.5 al millar
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-II.- Por la suspensión de pagos. $ 35.00
+I.- Por las providencias precautorias 5 salarios mínimos
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
-III.- Por la declaración de quiebras $ 35.00
+II.- Por suspención de pagos o declaración de quiebras. 2 salarios mínimos
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 78.
 
-Los derechos que se causen por la inscripciones o anotaciones que no modifiquen el derecho inscrito, a solicitud del interesado, de las autoridades o de los notarios públicos que autoricen el acto, se pagará…………………………………......N$ 30.00
+Los derechos que se causen por la inscripciones o anotaciones que no modifiquen el derecho inscrito, a solicitud del interesado, de las autoridades o de los notarios públicos que autoricen el acto, se pagará……………………......1 salario mínimo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 79.
 
-Los derechos generados por la expedición de certificaciones y copias certificadas, se causarán y pagarán de la siguiente manera:
+Los derechos generados por la expedición de certificaciones, informes y búsqueda de antecedentes registrales, se causarán y pagarán de la manera siguiente:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-I.- Por la expedición de certificados de no inscripción. $ 17.00
+I. Por la expedición de certificados de inscripción para efectos de los artículos 1231 y 1232 del Código Civil ...................................................................................................1 salario mínimo
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-II.- Por la expedición de certificados de inscripción para los efectos de los artículos 1231 y 1232 del Código Civil $ 17.00
+II. Por la expedición de certificados de inscripción, sin datos, o de no inscripción, por cada 10 años o fracción ....................................................................................3 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-III.- Por la expedición de certificados de no propiedad $ 12.00
+III. Por certificados de no propiedad, por cada 10 años o fracción ..............3 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-IV.- Por la expedición de certificados de libertad o existencia de gravámenes $ 23.00
+IV.- Por la expedición de certificados de libertad o existencia de
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+gravámenes .......................................................................................................2 salarios mínimos
 
-a) De más de veinte años se aumentará, por cada año excedente. $ 2.00
+a) (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
-V.- Por la expedición de copias certificadas
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+V.- Por expedición de copias certificadas, por cada 5 hojas o fracción ............1 salario mínimo
 
-a) Por la primera hoja $ 10.00
+a) (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+b) (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999
 
-b) Por cada hoja siguiente $ 5.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+VI.- Por certificados de única propiedad, por cada 10 años o fracción ..........2 salarios mínimos
 
-VI.- Por certificados de Única propiedad $ 23.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+VII.- Por informes sobre inscripción o depósito de testamentos ....................2 salarios mínimos
 
-VII.- Por informes sobre inscripciones de testamento, a solicitud de jueces civiles y familiares, así como particulares $ 23.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+VIII.- Por búsqueda de antecedentes registrales a nombre de persona determinada, por cada 10 años o fracción ............................................................................................5 salarios mínimos
 
-VIII.- Por búsqueda de antecedentes registrales omitidos o equivocados en el documento, siempre que no sea causa imputable al Registro Público de la Propiedad y del Comercio. $ 35.00
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+IX.- Por cotejo de documentos no autentificados que deban destinarse al apéndice, en su caso, por cada documento .........................................................................2 salarios mínimos
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+Por la expedición urgente de certificaciones e informes a que se refieren las fracciones I, IV, V, VII y IX de este artículo, se pagará el 100% más de los derechos señalados y la expedición se hará dentro de las 24 horas siguientes, sin perjuicio del principio de prelación registral que a otro corresponda.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 80.
 
-Si por cualquier causa el documento se devuelve sin inscripción,
-
-siempre que no sea causa imputable al Registro Público de la Propiedad y del
-
-Comercio, se pagará…………………………………………………………………………$ 23.00
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+Si por cualquier causa el documento se devuelve sin inscripción, siempre que no sea causa imputable al Registro Público de la Propiedad y del Comercio, se pagarán .............................2 salarios mínimos
 
 ###### ARTICULO 81.
 
-Por cotejo de documentos no autentificados que deben
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
-destinarse al apéndice, por cada hoja……………………………………………………. $ 5.00
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 82.
 
-Se subsidiarán en el pago de derechos los servicios prestados por el Registro Público, cuando se generen por:
+Se subsidiará el pago de derechos correspondiente a los servicios prestados por el Registro Público de la Propiedad y del Comercio, hasta el 100%, cuando se originen por:
 
-I.- La Federación, el Estado y sus Municipios.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-II.- La Beneficencia Pública del Estado; y
+I. La Federación, el Estado o los Municipios.
 
-III.- Los títulos exceptuados por autorización del Ejecutivo del Estado, a causa de notoria pobreza o por disposición de ley.
+II. La Beneficencia Pública del Estado; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+III. Los títulos exceptuados por disposición de ley o por acuerdo del Ejecutivo del Estado, directamente o a través de la Secretaría de Finanzas y Administración que corresponda, ya sea por notoria pobreza o cuando se trate de personas físicas o morales que desarrollen proyectos de inversión en los que se generen, por lo menos 20 empleos permanentes;
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+Las excepciones de pago parciales, se cobrarán en los términos de la resolución respectiva.
 
 ###### ARTICULO 83.
 
 Por cada inscripción de instrumento otorgado fuera del territorio del Estado, causará y pagará una cuota adicional del 25% sobre los derechos señalados en este capítulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 84.
 
-Los solicitantes deberán acompañar a los documentos que presenten, copia simple de los mismos por duplicado.
+Los solicitantes deberán acompañar a los documentos que presenten para su inscripción, las copias que establezca el Reglamento del Registro Público.
 
 Cuando un documento presentado para su inscripción se refiera a bienes situados en distintos distritos, en cada uno de ellos se causarán los derechos correspondientes a los bienes comprendidos dentro de los mismos, hecho el pago total de los bienes inscribibles en uno de los Distritos surtirá efectos en todos los demás.
 
@@ -1349,81 +1409,101 @@ I.- Por créditos refaccionarios de habilitación o avío 1.0 al millar
 
 II.- Por documentos de valor determinado 1.0 al millar
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-III.- Por documentos de valor indeterminado N$ 23.00
+III.- Por documentos de valor indeterminado 1 salario mínimo
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-IV.- Por la expedición de cualquier tipo de certificaciones N$ 8.00
+IV.- Por la expedición de cualquier tipo de certificaciones 1 salario mínimo
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-V.- Por cancelación, 0.5 al millar sin que lo cobrado exceda de N$ 50.00
+V.- Por cancelación, 0.5 al millar sin que lo cobrado exceda de $ 50.00 1 salario mínimo
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-VI.- Por aclaraciones o rectificaciones no imputables al registro. N$ 29.00
+VI.- Por aclaraciones o rectificaciones no imputables al registro. 1 salario mínimo
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-VII.- Por ratificación de firmas N$ 29.00
+VII.- Por ratificación de firmas 1 salario mínimo
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 87.
 
-Por la inscripción de créditos o reestructuración de los mismos cuando exista novación de contrato, otorgados por instituciones de crédito nacionales o extranjeras, que tengan como finalidad el apoyo de la industria instalada en el estado, así como, a las empresas que impulsen la producción del campo, se cobrará sobre el monto del crédito 2.0 al millar.
+Por la inscripción de créditos o reestructuración de los mismos cuando exista novación de contrato, otorgados por instituciones de crédito nacionales o extranjeras, que tengan como finalidad el apoyo de la industria instalada o por instalarse en el Estado, así como, a las empresas que impulsen la producción del campo, se cobrará sobre el monto del crédito ..............................50 % de la tarifa del artículo 88 Ter.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### Articulo 88.
 
-Para el pago de los derechos, el encargado del registro enviará a la administración de rentas respectiva, el documento presentado con la liquidación del derecho, para que marginalmente se anote la razón del pago que deberá contener: la fecha, el numero de partida y la cantidad pagada; tratándose de certificaciones no se procederá a la búsqueda, ni a su expedición, sin antes acreditar el pago en el escrito de solicitud respectivo.
+Para el pago de los derechos generados por el servicio de registro público, el encargado de éste enviará al Centro Regional de Operación Fiscal respectivo, la liquidación correspondiente a efecto de que se anote en ella la razón del pago que deberá contener, nombre de quien lo recibe, fecha, número de partida y cantidad pagada. En tratándose de las oficinas registrales ubicadas en el interior del estado, el pago se realizará en la institución bancaria autorizada, la cual deberá acreditar el pago mediante el sello respectivo en la autorización del pago, que deberá contener además de la cantidad pagada, la firma, fecha y nombre de quien lo autoriza.
+
+En las certificaciones no se procederá a la búsqueda, ni a su expedición, sin antes acreditar el pago correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 88 bis.- Para efecto del pago de derechos, al Registro Público de la Propiedad y del Comercio, en los que se establezca como referencia salarios mínimos, se tomará como base el salario mínimo diario vigente en el Estado y distrito judicial en el momento en que se cause.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+ARTICULO 88 ter.- Por las inscripciones o anotaciones de los actos en los que se establezca el pago de derechos por tarifa, se hará de la manera siguiente:
+
+I.- Cuando en el acto a inscribir no se determine su valor, se pagarán tres salarios mínimos;
+
+II.- Cuando los actos a inscribir tengan un valor de hasta diez salarios mínimos, elevados al año, se pagará el equivalente a cinco salarios mínimos;
+
+III.- Cuando el valor sea superior a diez salarios mínimos, elevados al año, por cada cinco o fracción, hasta llegar a cien se pagará el equivalente a veinte salarios mínimos más en cada parámetro; y
+
+IV.- Cuando el valor del acto a inscribir, sea superior a cien salarios mínimos, elevados al año, se pagarán mil pesos más por cada millón excedente.
+
+Para efectos de la cuantificación de los derechos a pagar de acuerdo con la presente tarifa: se deberá determinar el monto de la operación de conformidad con lo dispuesto en el último párrafo del artículo 71 de esta Ley, se ubicará en el parámetro correspondiente y se multiplicará, el número de salarios mínimos, por 365 días con lo que se determinará la cantidad a pagar, a la que se sumarán las cantidades que por adicionales resulten procedentes.
 
 ###### ARTICULO 89.
 
 Los derechos por la prestación de los servicios del Estado, a través de la Dirección del Registro Familiar, se causarán y pagarán de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-I.- Por la expedición de copia certificada de acta $ 8.00
+I.- Por la expedición de copia certificada de acta $ 10.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-II.- Por la expedición de copia certificada de acta urgente $ 14.00
+II.- Por la expedición de copia certificada de acta urgente $ 18.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-III.- Por constancia de inexistencia de Registro en libro $ 8.00
+III.- Por constancia de inexistencia de Registro en libro $ 10.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-IV.- Por copia fotostática de constancias en libro $ 7.00
+IV.- Por copia fotostática de constancias en libro $ 10.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-V.- Por el procedimiento administrativo de corrección de actas. $ 86.00
+V.- Por el procedimiento administrativo de corrección de actas. $ 100.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-VI.- Por inscripción de resolución administrativas $ 23.00
+VI.- Por inscripción de resolución administrativas $ 30.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-VII.- Por inscripción de sentencia y juicio de rectificación, nulidad o reposición de actas. $ 38.00
+VII.- Por inscripción de sentencia y juicio de rectificación, nulidad o reposición de actas. $ 45.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-VIII.- Por inscripción de anotación de reconocimientos y adopción $ 33.00
+VIII.- Por inscripción de anotación de reconocimientos y adopción $ 40.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-IX.- Por la inscripción de capitulaciones matrimoniales $ 9.00
+IX.- Por la inscripción de capitulaciones matrimoniales $ 12.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-X.- Por inscripción de sentencia de divorcio. $ 38.00
+X.- Por inscripción de sentencia de divorcio. $ 40.00
 
 ###### ARTICULO 90.
 
@@ -1435,33 +1515,33 @@ II.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1994)
 
 III. De las Licencias para conducir.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-A) Expedición de Licencia de Chofer $ 58.00
+A) Expedición de Licencia de Chofer 3 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-B) Expedición de Licencia de Automovilista $ 35.00
+B) Expedición de Licencia de Automovilista 3 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-C) Expedición de Licencia de Motociclista $ 23.00
+C) Expedición de Licencia de Motociclista 2 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-D) Canje de Licencia de Chofer $ 35.00
+D) Canje de Licencia de Chofer 2 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-E) Canje de Licencia de Automovilista $ 23.00
+E) Canje de Licencia de Automovilista 2 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-F) Canje de Licencia de Motociclista $ 17.00
+F) Canje de Licencia de Motociclista 1.5 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-G) Expedición de duplicado de Licencias de Chofer, Automovilista y Motociclista… $ 35.00
+G) Expedición de duplicado de Licencias de Chofer, Automovilista y Motociclista… 2 salarios minimos.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
@@ -1469,19 +1549,27 @@ H) El canje extemporáneo de licencias pagará recargos conforme a lo dispuesto 
 
 I).(DEROGADA, P.O. 31 DE DICIEMBRE DE 1993)
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+J).- Cambio de licencia de automovilista a chofer 3.5 salarios mínimos
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+K).- Expedición de permiso provisional a menores de edad para conducir .....2 salarios mínimos
+
 IV. Del arrastre y Pensión de vehículos.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-A) Arrastre de grúa dentro del límite urbano $ 35.00
+A) Arrastre de grúa dentro del límite urbano 1.5 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-B) Arrastre de grúa en carreteras Estatales, pagarán por kilómetro $ 7.00
+B) Arrastre de grúa en carreteras Estatales, pagarán por kilómetro $ 10.00 por kilometro
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-C) Pensión diaria en el corralón de tránsito $ 7.00
+C) Pensión diaria en el corralón de tránsito $ 10.00
 
 V.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1994)
 
@@ -1491,27 +1579,27 @@ VI. De los permisos provisionales
 
 A).(DEROGADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-B). Permiso provisional para conducir sin licencia $ 58.00
+B). Permiso provisional para conducir sin licencia 2 salarios minimos
 
 Los permisos a que se refieren los incisos de esta fracción serán hasta por 30 días.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-C). Permisos provisionales de carga $150.00
+C). Permisos provisionales de carga 8 salarios minimos
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 VII. De la Consulta del Archivo.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-A) Por la expedición de copias fotostáticas, por cada hoja $ 4.00
+A) Por la expedición de copias fotostáticas, por cada hoja $ 5.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-B) Por la certificación de copias, por documento $ 8.00
+B) Por la certificación de copias, por documento $ 10.00
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -1521,129 +1609,133 @@ Articulo 90 bis.- Los derechos por la prestación de los servicios del Estado, a
 
 I. Por el otorgamiento de concesiones para el transporte público de pasajeros en servicio de colectivos de ruta, urbanos o foráneos, se pagarán de acuerdo a la siguiente zonificación de municipios del Estado:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregon, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipan, Huejutla, Tecozautla, y Apan..................................................................$1, 725.00
+A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregon, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipan, Huejutla, Tecozautla, y Apan.....................................................60 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlan, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlan, San Agustín Metzquititlan, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocan, San Felipe Orizatlan, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán.......................$1, 380.00
+B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlan, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlan, San Agustín Metzquititlan, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocan, San Felipe Orizatlan, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán.....................................................................................................50 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores....................$1, 150.00
+C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores.....40 salarios minimos
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 II. Por el otorgamiento de concesiones para el transporte público de pasajeros en servicio individual de taxi o sitio, se pagarán de acuerdo a la siguiente zonificación de municipios del estado:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla y Apan....................................................................$1, 725.00
+A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla y Apan.....................................................60 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlan, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán....................... $1, 380.00
+B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlan, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán................................................................................................. 50.00 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-C) Eloxochitlan, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores.....................$ 920.00
+C) Eloxochitlan, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores........30.00 salarios minimos
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 III. Por el otorgamiento de concesiones para el transporte público de pasajeros en servicio especializado, se pagarán de acuerdo a la siguiente zonificación de municipios del Estado:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán De Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla, y Apan...................................................................$1, 380.00
+A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán De Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla, y Apan............................................... 50 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlán, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán........................$1, 150.00
+B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlán, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán........................40 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores......................$ 920.00
+C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores......................30 salarios mínimos
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 IV. Por el otorgamiento de concesiones para el transporte público de bienes en servicio de carga en general, se pagarán de acuerdo a la siguiente zonificación de municipios del Estado:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla y Apan..................................................................$1, 380.00
+A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla y Apan.................................................50 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlán, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán.... ......................$1,150.00
+B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlán, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán.... ................40 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores......................$ 920.00
+C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores.....................................30 salarios minimos
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 V. Por el otorgamiento de concesiones para el transporte público de bienes en servicio de materiales para construcción, se pagarán de acuerdo a la siguiente zonificación de municipios del Estado:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla y Apan..................................................................$1, 495.00
+A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla y Apan..................................................... 50 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlán, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán......................................................................................................$1, 150.00
+B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlán, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán...................................................................................................... 40 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores......................$ 920.00
+C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores..................................... 30 salarios minimos
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 VI. Por el otorgamiento de concesiones para el transporte público de bienes en servicio de arrastre, se pagarán de acuerdo a la siguiente zonificación de municipios del Estado:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-A) Pachuca, Atotonilco El Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla y Apan....................................................................$1, 380.00
+A) Pachuca, Atotonilco El Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlán de Juárez, Tulancingo, Acatlán, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregón, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipán, Huejutla, Tecozautla y Apan.................................................. 50 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlán, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán.....................................................................................................................$ 1035.00
+B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlán, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlán, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlán, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlán, San Agustín Mezquititlán, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocán, San Felipe Orizatlán, Tlanchinol, Huichapan, Jacala, Nopala y Zimapán..................................................................................................... 40 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores....................$ 805.00
+C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores.................... 30 salarios minimos
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 VII. Por el otorgamiento de concesiones para el transporte publico de bienes en servicio especializado, se pagaran de acuerdo a la siguiente zonificación de municipios del Estado:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlan de Juárez, Tulancingo, Acatlan, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregon, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipan, Huejutla, Tecozautla y Apan....................... .................. ...........................$1, 380.00
+A) Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlan de Juárez, Tulancingo, Acatlan, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregon, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipan, Huejutla, Tecozautla y Apan....................... ........................... 50 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlan, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlan, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlan, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlan, San Agustín Mezquititlan, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocan, San Felipe Orizatlan, Tlanchinol, Huichapan, Jacala, Nopala y Zimapan........................$1, 150.00
+B) Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlan, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlan, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlan, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlan, San Agustín Mezquititlan, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocan, San Felipe Orizatlan, Tlanchinol, Huichapan, Jacala, Nopala y Zimapan.................................................................................................... 40 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores.......................$ 920.00
+C) Eloxochitlán, Juárez Hidalgo, Tepehuacán de Guerrero, Xochicoatlán, Huazalingo, Xochiatipan, Yahualica, Chapulhuacán, La Misión, Pacula y Pisaflores.................. 30 salarios minimos
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-VIII Por las ampliaciones de ruta, hasta 5 kilómetros.
+VIII. Por las ampliaciones de ruta, hasta 5 kilómetros.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-A) Por cada kilómetro......................................$230.00
+A) Por cada kilómetro......................................8 salarios minimos
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 IX. Por las transferencias:
 
-A) De las concesiones a que se hace referencia las fracciones I, II, III, IV, V, VI y VII de este articulo, se causaran y pagaran derechos en un 80% de acuerdo a las tarifas establecidas en los incisos de dichas fracciones según sea el caso, y;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-B) Las derivadas de herencia o por incapacidad física del concesionario, y aquellas que por imposibilidad material o cambio de residencia a que hacen referencia las fracciones I, II, III, IV, V, VI y VII, de este articulo, se causarán y pagarán derechos de un 40% de acuerdo a las tarifas establecidas en los incisos de dichas fracciones según sea el caso.
+A). De las concesiones a que se hace referencia en las fracciones I, II, III, IV, V, VI y VII de este artículo, se causarán y pagarán derechos en un 100% de acuerdo a las tarifas establecidas en los incisos de dichas fracciones según sea el caso; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+B). Las derivadas de herencia o por incapacidad física del concesionario, y aquellas que por imposibilidad material o cambio de residencia a que hacen referencia las fracciones I, II, III, IV, V, VI y VII de este artículo, se causarán y pagarán derechos en un 50% de acuerdo a las tarifas establecidas en los incisos de dichas fracciones según sea el caso, y;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -1653,117 +1745,117 @@ A) De las concesiones a que hace referencia las fracciones I, II, III, IV, V, VI
 
 B) De las concesiones a que hacen referencia las fracciones I, II, III, IV, V, VI, VII, que se hagan extemporáneas se aplicará lo establecido en el articulo 3o. de la Ley de Ingresos del Estado.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-XI. Las modificaciones que se realicen en cualquier tipo de concesiones señaladas en este articulo, pagarán $ 345.00
+XI. Las modificaciones que se realicen en cualquier tipo de concesiones señaladas en este articulo, pagarán 12 salarios minimos
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 XII. Los registros por regularización de transporte publico de pasajeros, de los municipios de: Pachuca, Atotonilco el Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlan de Juárez, Tulancingo, Acatlan, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregon, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipan, Huejutla, Tecozautla y Apan. Podrán ser mixtos y especiales, y se pagaran de acuerdo a la siguiente manera:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-A) Colectivos de ruta urbanos o foráneo...............$ 575.00
+A) Colectivos de ruta urbanos o foráneo...............30 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-B) Individual taxi o sitio...........................................$ 575.00
+B) Individual taxi o sitio........................................... 30 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-C) Especializado.....................................................$ 575.00
+C) Especializado..................................................... 30 salarios minimos
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 XIII. Los registros por regularización de transporte publico de pasajeros de los municipios de: Epazoyucan, Mineral Del Chico, Mineral del Monte, Omitlan, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlan, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlan, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlan, San Agustín Mezquititlan, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocan, San Felipe Orizatlan, Tlanchinol, Huichapan, Jacala, Nopala y Zimapan. Podrán ser mixtos y especiales, y se pagarán de acuerdo a la siguiente manera:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-A) Colectivos de ruta urbanos o foráneo..................$ 460.00
+A) Colectivos de ruta urbanos o foráneo..................25 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-B) Individual taxi o sitio............................................ $ 460.00
+B) Individual taxi o sitio............................................ 25 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-C) Especializado......................................................$ 460.00
+C) Especializado...................................................... 25 salarios minimos
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 XIV. Los registros por regularización de transporte publico de pasajeros, de los municipios de: Eloxochitlan, Juárez Hidalgo, Tepehuacan de Guerrero, Xochicoatlan, Huazalingo, Xochiatipan, Yahualica, Chapulhuacan, La Misión, Pacula y Pisa Flores. Podrán ser mixtos y especiales, y se pagarán de acuerdo a la siguiente manera:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-A) Colectivos de ruta urbanos o foráneos................$ 345.00
+A) Colectivos de ruta urbanos o foráneos................20 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-B) Individual, taxi o sitio............................................$ 345.00
+B) Individual, taxi o sitio............................................ 20 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-C) Especializado.................................................... $ 345.00
+C) Especializado......................................................... 20 salarios minimos
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 XV. Los registros por regularización de transporte publico de bienes, de los municipios de: Pachuca, Atotonilco El Grande, Huasca de Ocampo, Mineral de la Reforma, San Agustín Tlaxiaca, Tizayuca, Villa de Tezontepec, Zapotlan de Juárez, Tulancingo, Acatlan, Cuautepec, Santiago Tulantepec, Actopan, Tepeapulco, Tlanalapa, Tula, Atitalaquia, Tepeji del Río, Tezontepec de Aldama, Tlahuelilpan, Tlaxcoapan, El Arenal, Mixquiahuala, Progreso de Obregon, Ixmiquilpan, Alfajayucan, Cardonal, Chilcuautla, Nicolás Flores, Tasquillo, Zacualtipan, Huejutla, Tecozautla, y Apan. Podrán ser mixtos y especiales, y se pagarán de acuerdo a la siguiente manera:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-A) Carga en general.....................................................$ 575.00
+A) Carga en general........................................................30 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-B) Materiales para construcción...................................$ 575.00
+B) Materiales para construcción....................................30 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-C) Arrastre...................................................................$ 575.00
+C) Arrastre........................................................................30 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-D) Especializado...........................................................$ 575.00
+D) Especializado...............................................................30 salarios minimos
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 XVI Los registros por regularización de transporte publico de bienes, de los municipios de: Epazoyucan, Mineral del Chico, Mineral del Monte, Omitlan, Tolcayuca, Zempoala, Agua Blanca, Acaxochitlan, Huehuetla, Metepec, Singuilucan, Tenango de Doria, San Bartolo Tutotepec, Almoloya, Emiliano Zapata, Ajacuba, Atotonilco de Tula, Chapantongo, Tepetitlan, Tetepango, Francisco I. Madero, San Salvador, Santiago de Anaya, Calnali, Lolotla, Metztitlan, San Agustín Mezquititlan, Molango, Tianguistengo, Tlahuiltepa, Atlapexco, Huautla, Jaltocan, San Felipe Orizatlan, Tlanchinol, Huichapan, Jacala, Nopala y Zimapan. Podrán ser mixtos y especiales, y se pagarán de acuerdo a la siguiente manera:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-A) Carga en general.................................................$ 460.00
+A) Carga en general................................................. 25 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-B) Materiales para construcción............................. $ 460.00
+B) Materiales para construcción.............................25 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-C) Arrastre............................................................... $ 460.00
+C) Arrastre.................................................................25 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-D) Especializado.......................................................$ 460.00
+D) Especializado.......................................................25 salarios minimos
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 XVII. Los registros por regularización de transporte publico de bienes, de los municipios de: Eloxochitlan, Juárez Hidalgo, Tepehuacan de Guerrero, Xochicoatlan, Huazalingo, Xochiatipan, Yahualica, Chapulhuacan, La Misión, Pacula y Pisaflores. Podrán ser mixtos y especiales, y se pagarán de acuerdo a la siguiente manera:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-A) Carga en general..................................................$ 345.00
+A) Carga en general.................................................. 20 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-B) Materiales para construcción..............................$ 345.00
+B) Materiales para construcción..............................20 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-C) Arrastre...............................................................$ 345.00
+C) Arrastre............................................................... 20 salarios minimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-D) Especializado..................................................... $ 345.00
+D) Especializado..................................................... 20 salarios minimos
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -1781,21 +1873,43 @@ B) Por las siguientes copias certificadas..................$ 5.00
 
 C) Por copias simples (no certificadas).....................$ 3.00
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-XIX. Sustitución de vehículos que presten el servicio establecido en este articulo:.....$40.00
+D).- Por el servicio de enmicado ......................................$ 5.00 a $ 25.00 según el caso
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-XX. Por el cambio de modalidad que se realicen a las concesiones a que hacen referencia las fracciones I a VII de este articulo se causaran y pagaran derechos en un 80% de acuerdo a las tarifas establecidas en los incisos de dichas fracciones, según sea el caso.
+XIX. Sustitución de vehículos que presten el servicio establecido en este articulo:.....2 salarios minimos
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-XXI. Por la reposición de la concesión del servicio público de transporte en cualquiera de sus modalidades................................$ 250.00
+XX. Por el cambio de modalidad que se realice a las concesiones a que hacen referencia las fracciones I a VII de este artículo, se causarán y pagarán derechos en un 100% de acuerdo a las tarifas establecidas en los incisos de dichas fracciones, según sea el caso; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+XXI. Por la reposición de la concesión del servicio público de transporte en cualquiera de sus modalidades................................10 salarios minimos
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1997)</small>
 
 XXII.- Por la autorización para emplacar y reemplacar la concesión..............................................................................$ 1,000.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+XXIII.- Por la autorización para celebrar convenios de enrolamiento ...............3 salarios mínimos
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+XXIV.- Por la autorización para establecer y operar sitios.................................3 salarios mínimos
+
+A).- Por la renovación de la autorización para operar sitios de pasajeros o carga..................................................................................................................1 salario mínimo
+
+B).- Por la autorización para aumentar o disminuir la capacidad del sitio de pasajeros o carga..................................................................................................................1 salario mínimo
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+XXV.- Por la concesión para establecer y operar servicios telefónicos y de radio para el control y despacho de unidades destinadas al servicio de transporte...............................................................................................20 salarios mínimos
+
+A).-Por el refrendo anual de la concesión.............................................5 salarios mínimos
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -1803,69 +1917,57 @@ XXII.- Por la autorización para emplacar y reemplacar la concesión............
 
 Los derechos por la prestación de los servicios del Estado, a través de la Coordinación General Jurídica, se causarán y pagarán de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-I. Por derecho a examen para obtener la Constancia
+I.Por derecho a examen para obtener la Constancia de aspirante a Fiat de Notario................................................................................................................. 4 salarios mínimos
 
-de aspirante a Fiat de Notario $ 86.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+II. Por derecho a examen de oposición para obtener el Fiat de Notario........5 salarios minimos
 
-II. Por derecho a examen de oposición para obtener el Fiat de Notario $ 115.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+III. Por informe de aviso de testamento.............................................................2 salarios minimos
 
-III. Por informe de aviso de testamento $ 50.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+A) Por las primeras dos hojas.......................................................................0.5 salarios mínimos
 
-A) Por las primeras dos hojas $ 10.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-B)Por cada hoja excedente $ 5.00
+B) Por cada hoja excedente .....................................................................................................$ 5.00
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 IV. Por la expedición de copias certificadas de escrituras existentes en el Archivo General de Notarias:
 
-A) Por la primera hoja $ 10.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-B) Por cada hoja excedente $ 4.00
+A) Por la primera hoja...................................................................................0.5 salarios mínimos
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+B) Por cada hoja excedente.....................................................................................................$ 5.00
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 V. Por la búsqueda y expedición de testimonios existentes en el Archivo General de Notarias:
 
-A)Por la primera hoja $ 30.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-B)Por cada hoja excedente $ 9.00
+A) Por la primera hoja.........................................................................................1 salario mínimo
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-VI. Por expedición de constancias de inscripción o de no inscripción de testamentos..$24.00
+B) Por cada hoja excedente................................................................................$ 5.00
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+VI. Por expedición de constancias de inscripción o de no inscripción de testamentos......................................................................................................................1 salario mínimo
 
 ###### ARTICULO 91-A.
 
-Los derechos por la prestación de los servicios del Estado, a través de la Dirección de enlace con la Secretaría de Relaciones Exteriores, se causarán y pagarán de
-
-la siguiente forma:
-
-I.- Por la tramitación para la expedición o renovación de pasaportes ..................$ 20.00
-
-II. Por la tramitación de registro de constitución de sociedades ...........................$ 25.00
-
-III. Por la tramitación para registro de avisos notariales.........................................$ 20.00
-
-IV. Por la tramitación de permisos para la adquisición de bienes inmuebles dentro de la zona restringida para extranjeros..........................................................................$ 30.00
-
-V. Por la tramitación de certificados de nacionalidad.............................................$ 20.00
-
-VI. Por la expedición de copias fotostáticas:
-
-Por cada hoja................................................................................................................$ 3.00
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
 ARTICULO 91 BIS.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1996)
 
@@ -1931,79 +2033,79 @@ B) Por cada hoja excedente $ 4.00
 
 VIII. De los vehículos particulares:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-A) Alta de placas. $ 77.00
+A) Alta de placas. 2.5 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-b) Reposición del registro anual de control vehicular. $ 42.00
+b) Reposición del registro anual de control vehicular. 1.5 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-c) Bajas. $ 24.00
+c) Bajas. 1 salario mínimo
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-d) Reposición de tarjetas de circulación. $ 24.00
+d) Reposición de tarjetas de circulación. 2 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-e) Placas de remolque. $ 65.00
+e) Placas de remolque. 2.5 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-f) Permiso anual para el uso de placas de demostración. $ 240.00
+f) Permiso anual para el uso de placas de demostración. 8 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-g) Expedición del registro anual de control vehicular. $ 42.00
+g) Expedición del registro anual de control vehicular 8 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-h) Permiso provisional para circular sin placas $ 60.00
+h) Permiso provisional para circular sin placas 3 salarios mínimos
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-I) Expedición de placas para vehículo antiguo $ 42.00
+I) Expedición de placas para vehículo antiguo 1.5 salarios mínimos
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1997)</small>
 
 J) El canje extemporáneo de placas y engomado, dará lugar al cobro de recargos conforme a lo dispuesto por la Ley de Ingresos del Estado.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-K).- Canje de placas $ 77.00
+K).- Canje de placas 2 salarios mínimos
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 IX. De los vehículos de servicio publico:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-A) Alta de placas $ 77.00
+A) Alta y canje de placas 2.5 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-b) Reposición del registro anual de control vehicular. $ 50.00
+b) Reposición del registro anual de control vehicular. 2 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-c) Bajas. $ 30.00
+c) Bajas. 1 salario mínimo
 
 d) (DEROGADA, P.O. 31 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-e) Reposición de tarjeta de circulación. $ 30.00
+e) Reposición de tarjeta de circulación. 1 salario mínimo
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-f) Expedición del registro anual de control vehicular. $ 50.00
+f) Expedición del registro anual de control vehicular. 2 salarios mínimos
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-g) El canje de placas. $ 77.00
+G) Canje de placas 2.5 salarios mínimos
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1997)</small>
 
@@ -2331,23 +2433,27 @@ Procuraduria General de Justicia
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-articulo 98 BIS.- Los derechos por la prestación de los servicios del Estado, que soliciten los particulares a través de la Dirección de Administración, independientemente de sus funciones de derecho publico contenidas en su ley orgánica respectiva, se causarán y pagarán de la siguiente forma:
+Articulo 98 BIS.- Los derechos por la prestación de los servicios del Estado, que soliciten los particulares a través de la Dirección de Administración, independientemente de sus funciones de derecho publico contenidas en su ley orgánica respectiva, se causarán y pagarán de la siguiente forma:
 
 I. Por la expedición de copias fotostáticas de documentos que existan en los archivos de esta institución.
 
-a) Por la primera hoja. n$ 5.00
+a) Por la primera hoja. $ 5.00
 
-b) Por cada hoja excedente. n$ 2.00
+b) Por cada hoja excedente. $ 2.00
 
-c) Por la certificación de las mismas. n$ 25.00
+c) Por la certificación de las mismas. $ 25.00
 
-II. Por la elaboración de peritajes. n$ 50.00
+II. Por la elaboración de peritajes. $ 50.00
 
-III. Por la practica de examen antidoping. n$ 50.00
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-IV. Por la practica de examen toxicológico. n$ 50.00
+III. Por la práctica de examen antidoping 12.5 salarios mínimos
 
-V. Por la expedición de certificados de no antecedentes penales. n$ 15.00
+IV. Por la práctica de examen toxicológico. $ 50.00
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+V. Por la expedición de certificados de no antecedentes penales. 1 salario mínimo
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -2363,7 +2469,7 @@ V. Por la expedición de certificados de no antecedentes penales. n$ 15.00
 
 ### CAPITULO VIII. DE LOS ORGANISMOS DESCENTRALIZADOS
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 98.
 
@@ -2377,7 +2483,7 @@ V. Por la expedición de certificados de no antecedentes penales. n$ 15.00
 
 ###### Articulo 98 Bis.
 
-A.- Los organismos descentralizados como personas jurídicas cuyo objetivo es la realización de actividades correspondientes a las áreas estratégicas o prioritarias de la administración publica, mediante la prestación de diversos servicios públicos o sociales, o; la obtención y aplicación de recursos para fines de asistencia o seguridad social, obtendrán las aportaciones y recursos necesarios para el desarrollo de sus funciones, conforme a los rubros y tarifas que señale su órgano de gobierno respectivo, previa su aprobación por el H. Congreso del Estado y los que deberán ser publicados en el Periódico Oficial del Gobierno del Estado para tener vigencia y aplicabilidad.
+A.- Los organismos descentralizados como personas jurídicas cuyo objetivo es la realización de actividades correspondientes a las áreas estratégicas o prioritarias de la administración pública, mediante la prestación de diversos servicios públicos o sociales, o; la obtención y aplicación de recursos para fines de asistencia o seguridad social, obtendrán las aportaciones y recursos necesarios para el desarrollo de sus funciones, conforme a los rubros y tarifas que señale su órgano de gobierno respectivo, previa autorización por la Secretaría de Finanzas y Administración y aprobación por el H. Congreso del Estado, en términos de lo establecido en la Ley de Ingresos del Estado, los que deberán ser publicados en el Periódico Oficial del Gobierno del Estado para tener vigencia y aplicabilidad.
 
 Los recursos que recauden deberán ser ingresados a la Secretaria de Finanzas y Administración.
 
@@ -2421,37 +2527,41 @@ C)Por la publicación en el Periódico Oficial, hasta una plana $ 52.00
 
 VIII. La venta del Periódico Oficial de Estado, se pagará de acuerdo a la siguiente tarifa:
 
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-A)Por la suscripción durante un año $ 390.00
+A)Por la suscripción durante un año 16 salarios mínimos
 
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-B)Por la suscripción durante seis meses $ 190.00
+B)Por la suscripción durante seis meses 8 salarios mínimos
 
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-C) Por la suscripción durante tres meses $ 105.00
+C) Por la suscripción durante tres meses 4 salarios mínimos
 
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-D)Por la suscripción durante un mes $43.00
+D)Por la suscripción durante un mes 2 salarios mínimos
 
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-E) El costo de un ejemplar de la fecha $ 6.80
+E) El costo de un ejemplar a la fecha 0.5 salarios mínimos
 
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-F) El costo de un ejemplar atrasado hasta un año $ 10.50
+F) El costo de un ejemplar atrasado hasta un año 0.5 salarios mínimos
 
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-G)El costo de un ejemplar del año inmediato anterior $ 12.50
+G)El costo de un ejemplar del año inmediato anterior 0.5 salarios mínimos
 
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-H)Por cada año atrasado, se pagará el costo mas $ 2.00
+H)Por cada año atrasado, se pagará el costo mas 0.5 salarios mínimos
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+
+I).- El costo de cada uno de los tomos de la miscelánea fiscal, estatal o municipal.....................................................................................................1 salario mínimo
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -2622,3 +2732,9 @@ P.O. 31 DE DICIEMBRE DE 1998.
 PRIMERO.- El presente decreto entrará en vigor el día 1. de enero de 1999, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.-Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 1999.
+
+PRIMERO.- El presente decreto entrará en vigor el día 1o. de enero del año 2000, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
