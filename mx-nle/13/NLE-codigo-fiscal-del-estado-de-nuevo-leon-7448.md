@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "2001-12-27"
+last_updated: "2002-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO FISCAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2002.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -259,7 +259,9 @@ Se entiende que no hay enajenación en los siguientes casos:
 
 I.- En escisión, siempre que se cumpla con los requisitos siguientes:
 
-A).- Que los accionistas propietarios de por lo menos el 51% de las acciones con derecho a voto, de la sociedad escindente y de las escindidas, sean los mismos durante un periodo de dos años contado a partir del año inmediato anterior a la fecha en que se realice la escisión.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+A).- Que los accionistas propietarios de por lo menos el 51% de las acciones con derecho a voto, de la sociedad escindente y de las escindidas, sean los mismos durante un período de dos años contados a partir del año inmediato anterior a la fecha en que se realice la escisión; siempre y cuando se protocolice la escisión de que se trate, dentro de un período de un año a partir de la fecha en que se llevó a cabo.
 
 Para determinar el porcentaje del 51% se deberá considerar el total de las acciones con derecho a voto emitidas por la sociedad a la fecha de inicio del periodo, excluyendo las que se consideran colocadas entre el gran público inversionista y que hayan sido enajenadas a través de bolsa de valores autorizada o mercados reconocidos. No se consideran como acciones con derecho a voto, aquéllas que lo tengan limitado y las que en los términos de la Legislación Mercantil se denominen acciones de goce; tratándose de sociedades que no sean por acciones se considerarán las partes sociales en vez de las acciones con derecho a voto, siempre que no lo tengan limitado.
 
@@ -801,13 +803,21 @@ II.- Si la visita se realiza simultáneamente en dos o más lugares, en cada uno
 
 III.- Durante el desarrollo de la visita los visitadores a fin de asegurar la contabilidad, correspondencia o bienes que no estén registrados en la contabilidad, podrán, indistintamente, sellar o colocar marcas en dichos documentos, bienes o en muebles, archiveros, oficinas donde se encuentren, así como dejarlos en calidad de depósito al visitado o a la persona con quien se entienda la diligencia previo inventario que al efecto formulen. En el caso de que algún documento que se encuentre en los muebles, archiveros u oficinas que se sellen, sea necesario al visitado para realizar sus actividades, se le permitirá extraerlo ante la presencia de los visitadores, quienes podrán sacar copia del mismo.
 
-> <small>(F. DE E., P.O. 28 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
-IV.- Con las mismas formalidades a que se refieren las fracciones anteriores, se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones o circunstancias de carácter concreto, de los que se tenga conocimiento en el desarrollo de una visita o después de concluida.
+IV.- Con las mismas formalidades a que se refieren las fracciones anteriores, se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones o circunstancias de carácter concreto, de los que se tenga conocimiento en el desarrollo de una visita. Una vez levantada el acta final, no se podrán levantar actas complementarias sin que exista una nueva orden de visita.
+
+Cuando en el desarrollo de una visita las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones fiscales, los consignarán en forma circunstanciada en actas parciales. También se consignarán en dichas actas los hechos u omisiones que se conozcan de terceros. En la última acta parcial que al efecto se levante se hará mención expresa de tal circunstancia y entre ésta y el acta final, deberán transcurrir cuando menos veinte días, durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones, así como optar por corregir su situación fiscal. Cuando se trate de más de un ejercicio revisado o fracción de éste, se ampliará el plazo por quince días más, siempre que el contribuyente presente aviso dentro del plazo inicial de veinte días.
+
+Se tendrán por consentidos los hechos consignados en las actas a que se refiere el párrafo anterior, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia o no señale el lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad o no prueba que éstos se encuentran en poder de una autoridad.
 
 V.- Cuando no resulte posible continuar o concluir el ejercicio de las facultades de comprobación en los establecimientos del visitado, las actas en las que se haga constar el desarrollo de una visita en el domicilio fiscal podrán levantarse en las oficinas de las autoridades fiscales. En este caso se deberá notificar previamente esta circunstancia a la persona con quien se entiende la diligencia.
 
 VI.- Si en el cierre del acta final de la visita no estuviere presente el visitado o su representante, se le dejará citatorio para que esté presente a una hora determinada del día siguiente, si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado; en ese momento cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entiende la diligencia y los testigos firmarán el acta de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niega a aceptar copia del acta, dicha circunstancia se asentará en la propia acta sin que esto afecte la validez y valor probatorio de la misma.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona, se requerirá nueva orden, inclusive cuando las facultades de comprobación sean para el mismo ejercicio y por las mismas contribuciones.
 
 ###### ARTICULO 49.
 
@@ -877,9 +887,7 @@ Los plazos a que se refiere este Artículo se podrán ampliar por las autoridade
 
 ###### ARTICULO 54.
 
-Los contribuyentes que no estén acordes con el resultado de la visita podrán inconformarse con los hechos contenidos en las actas final y complementarias, mediante escrito que deberán presentar ante el Secretario de Finanzas y Tesorero General del Estado dentro de los quince días siguientes al inmediato posterior a aquel en que se cerró el acta final o complementaria en su caso. A dicho escrito acompañarán las pruebas documentales pertinentes, vinculándolas a los hechos con los que se inconformen.
-
-Los hechos respecto de los cuales el contribuyente no se inconforme dentro del plazo legal o haciéndolo no presente oportunamente las pruebas que los desvirtúen, se tendrán por aceptados.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2002)
 
 ###### ARTICULO 55.
 
@@ -1029,9 +1037,11 @@ Lo establecido en este Artículo no limita el ejercicio de las facultades de com
 
 Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro del término de treinta días siguientes a la fecha en que surta efectos su notificación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 66.
 
-Las autoridades fiscales, a petición de los contribuyentes, podrán autorizar el pago a plazo, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios, sin que dicho plazo exceda de doce meses. Durante el plazo concedido se causarán intereses sobre el saldo insoluto, incluyendo los accesorios, a la tasa establecida en la Ley de Ingresos del Estado de los ejercicios de que se trate.
+Las autoridades fiscales, a petición de los contribuyentes, podrán discrecionalmente autorizar el pago a plazo, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios, sin que dicho plazo exceda de veinticuatro meses. Durante el plazo concedido se causarán intereses sobre el saldo insoluto, incluyendo los accesorios, a la tasa establecida en la Ley de Ingresos del Estado de los ejercicios de que se trate.
 
 Las autoridades fiscales al autorizar el pago a plazo exigirán se garantice el interés fiscal, a excepción de los casos en los que dichas autoridades discrecionalmente dispensen el otorgamiento de la garantía.
 
@@ -1803,7 +1813,9 @@ Tratándose de procedimientos instaurados por las Autoridades Fiscales de los Mu
 
 Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, sea para que espere a una hora fija del día hábil siguiente o para que acuda a notificarse, dentro del plazo de seis días, a las oficinas de las autoridades fiscales.
 
-Tratándose de actos relativos al procedimiento administrativo de ejecución, el citatorio será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+Tratándose de actos relativos al procedimiento administrativo de ejecución, el citatorio será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino debidamente identificados. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible del domicilio de la persona citada, debiendo el notificador asentar razón de tal circunstancia para dar cuenta al jefe de la oficina exactora.
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán los gastos de ejecución a cargo de quien incurrió en el incumplimiento.
 
@@ -1913,7 +1925,9 @@ Los particulares podrán solicitar a la autoridad la declaratoria de prescripci�
 
 La Secretaría de Finanzas y Tesorería General del Estado podrá cancelar créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios.
 
-Se consideran créditos de cobro incosteable, aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a 10 cuotas, aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a 100 cuotas y cuyo costo de recuperación rebase el 75% del importe del crédito, así como aquellos cuyo costo de recuperación sea igual o mayor a su importe.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+Se consideran créditos de cobro incosteable, aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a 25 cuotas, aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a 100 cuotas y cuyo costo de recuperación rebase el 75% del importe del crédito, así como aquellos cuyo costo de recuperación sea igual o mayor a su importe.
 
 Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito o éstos ya se hubieran realizado, cuando no se puedan localizar o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
 
@@ -1929,7 +1943,9 @@ Cuando sea necesario emplear el procedimiento administrativo de ejecución para 
 
 Por concepto de gastos de ejecución se cubrirá hasta un 10% del valor del crédito fiscal a excepción de los recargos, sobre los cuales no se causarán gastos de ejecución.
 
-En ningún caso, los gastos de ejecución, incluyendo las erogaciones extraordinarias de gastos de transporte de los bienes embargados, de avalúo, de impresión y publicación de convocatoria y edictos, de inscripción o cancelación de gravámenes en el registro público, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, podrá exceder de la cantidad equivalente a un salario mínimo general de la zona económica correspondiente, elevado al año.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
+En ningún caso, los gastos de ejecución, incluyendo las erogaciones extraordinarias de gastos de transporte de los bienes embargados, de avalúo, de impresión y publicación de convocatoria y edictos, de inscripción o cancelación de gravámenes en el Registro Público, los erogados por la obtención del certificado de libertad de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, podrá exceder de la cantidad equivalente a un salario mínimo general de la zona económica correspondiente, elevado a dos años.
 
 Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales.
 
@@ -1961,9 +1977,11 @@ El ejecutor designado por el jefe de la oficina exactora se constituirá en el d
 
 Si la notificación del crédito fiscal adeudado o del requerimiento, en su caso, se hizo por edictos, la diligencia se entenderá con el Juez auxiliar de la circunscripción de los bienes, salvo que en el momento de iniciarse la diligencia compareciere el deudor, en cuyo caso se entenderá con él.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 148.
 
-Los bienes o negociaciones embargados se dejarán bajo la guarda del o de los depositarios que se hicieren necesarios. Los jefes de las oficinas ejecutoras bajo su responsabilidad nombrarán y removerán libremente a los depositarios, quienes desempeñarán su cargo conforme a las disposiciones legales.
+Los bienes o negociaciones embargados se dejarán bajo la guarda del o los depositarios que se hicieren necesarios. Los jefes de las oficinas ejecutoras bajo su responsabilidad nombrarán y removerán libremente a los depositarios, quienes desempeñarán su cargo conforme a las disposiciones legales. Cuando el depositario designado no sea el deudor, éste estará obligado a entregar los bienes embargados a la persona que el ejecutor designe como depositario, en el momento de la designación, apercibiéndosele que de oponerse a la entrega se hará uso de las facultades que se establecen en el artículo 42 de este Código.
 
 En los embargos de bienes raíces o de negociaciones, los depositarios tendrán el carácter de administradores o de interventores con cargo a la caja, según el caso, con las facultades y obligaciones señaladas en los Artículos 159, 160 y 161 de este Código.
 
@@ -2297,15 +2315,21 @@ En caso de conflicto, el remanente se depositará en institución de crédito au
 
 ### CAPITULO I
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 191.
 
-Causarán abandono en favor del Fisco Estatal los bienes embargados por las Autoridades Fiscales, en los siguientes casos:
+Causarán abandono en favor del Fisco los bienes a disposición de las Autoridades Fiscales, en los siguientes casos:
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
 I.- Cuando habiendo sido enajenados o adjudicados los bienes al adquiriente no se retiren del lugar en que se encuentren, dentro de dos meses contados a partir de la fecha en que se pongan a su disposición.
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2001)</small>
+
 II.- Cuando el embargado efectúe el pago del crédito fiscal u obtenga resolución o sentencia favorable que ordene su devolución derivada de la interposición de algún medio de defensa antes de que se hubieren rematado, enajenado o adjudicado los bienes y no los retire del lugar en que se encuentren dentro de dos meses contados a partir de la fecha en que se pongan a disposición del interesado.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
 III.- Se trate de bienes muebles que no hubieren sido rematados después de transcurridos dieciocho meses de practicado el embargo y respecto de los cuales no se hubiere interpuesto ningún medio de defensa.
 
@@ -2316,6 +2340,8 @@ Cuando los bienes embargados hubieren causado abandono, las Autoridades Fiscales
 Los bienes que pasen a propiedad del fisco estatal o municipal conforme a este Artículo, podrán ser enajenados en los términos del Artículo 187 de este Código o donarse para obras o servicios públicos, o a instituciones asistenciales o de beneficencia autorizadas conforme a las Leyes de la materia.
 
 El producto de la venta se destinará a pagar los cargos originados por el manejo, almacenaje, custodia y gastos de venta de los citados bienes en los términos que mediante reglas establezca la Secretaría de Finanzas y Tesorería General del Estado.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2001)</small>
 
 IV.- Se trate de bienes que por cualquier circunstancia se encuentren en depósito o en poder de la autoridad y los propietarios de los mismos no los retiren dentro de dos meses contados a partir de la fecha en que se pongan a su disposición.
 
@@ -2778,3 +2804,7 @@ El presente Decreto entrará en vigor el 1o. de Enero del año 2001.
 P.O. 27 DE DICIEMBRE DE 2001
 
 Artículo Único.- El presente Decreto entrará en vigor el 1° de enero del año 2002.
+
+P.O. 27 DE DICIEMBRE DE 2002.
+
+Artículo Único.- El presente Decreto entrará en vigor el día 1° de Enero del año 2003.
