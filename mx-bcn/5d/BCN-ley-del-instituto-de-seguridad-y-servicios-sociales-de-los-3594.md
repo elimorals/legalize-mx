@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-3594
 country: "mx"
 rank: "ley"
 publication_date: "1970-12-20"
-last_updated: "1994-06-15"
+last_updated: "1997-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL GOBIERNO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 1997.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 20 de diciembre de 1970.
 
@@ -195,17 +195,19 @@ El sueldo básico integrado por las prestaciones a que se refiere el párrafo an
 
 El sueldo básico de los trabajadores de los organismos públicos incorporados se determinará con sujeción a los mismos lineamientos que fija el presente Artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 16.
 
-Todo trabajador comprendido en el Artículo 1o. de este Ordenamiento, deberá aportar al Instituto una cuota obligatoria del 11% de sueldo o sueldos básicos integrados que disfrute, definido en el primer párrafo del artículo anterior.
+Todo trabajador comprendido en el artículo 1° de este ordenamiento, deberá aportar al Instituto una cuota obligatoria del 12% del sueldo o sueldos básicos integrados que disfrute, definido en el primer párrafo del Artículo anterior.
 
 > <small>(REFORMADO, P.O. 15 DE JUNIO DE 1994)</small>
 
 Dicho porcentaje se aplicará en la forma siguiente:
 
-I.- 2% para cubrir el seguro de enfermedades no profesionales y de maternidad;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
+
+I.- 3% para cubrir el Seguro de Enfermedades No Profesionales y de Maternidad;
 
 > <small>(REFORMADA, P.O. 15 DE JUNIO DE 1994)</small>
 
@@ -267,19 +269,21 @@ Las liquidaciones previstas en los supuestos de este Artículo causarán un inte
 
 Cuando no se hubieren hecho a los trabajadores los descuentos procedentes conforme a esta Ley, el Instituto mandará descontar hasta un treinta por ciento del sueldo mientras el adeudo no esté cubierto, a menos que el trabajador solicite y obtenga mayores facilidades para el pago.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 1997)</small>
 
 ###### ARTICULO 21.
 
-Las Autoridades públicas y Organismos Incorporados cubrirán al Instituto como aportaciones, el 16.75% sobre los equivalentes al sueldo o sueldos básicos integrados de los trabajadores, definidos por el Artículo 15 de esta Ley.
+Las Autoridades Públicas y Organismos incorporados cubrirán al instituto como aportaciones el 19% sobre los equivalentes al sueldo o sueldos básicos integrados de los trabajadores, definidos por el Artículo 15 de esta Ley.
 
 Dicho porcentaje se aplicará en la forma siguiente:
 
-I.- 6% para cubrir el seguros de enfermedades no profesionales y de maternidad;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
 
-> <small>(F. DE E., P.O. 20 DE DICIEMBRE DE 1970)</small>
+I.- 8% para cubrir Seguros de Enfermedades No Profesionales y de Maternidad;
 
-II.- 0.75% para cubrir íntegramente el seguro de accidentes del trabajo y enfermedades profesionales;
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1997)</small>
+
+II.- 1% para cubrir íntegramente el Seguro de Accidentes de Trabajo y Enfermedades Profesionales;
 
 > <small>(REFORMADA, P.O. 15 DE JUNIO DE 1994)</small>
 
@@ -1518,3 +1522,9 @@ El presente Decreto entrará en vigor, el día siguiente al de su publicación, 
 P.O. 15 DE JUNIO DE 1994.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 28 DE FEBRERO DE 1997.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California, tratándose del aumento de Aportaciones a las Autoridades Públicas y Organismos incorporados.
+
+SEGUNDO.- Este Decreto será aplicable en lo que se refiere al incremento de cuota de los trabajadores sujetos al régimen del Instituto a partir del día 1° de mayo de 1997.
