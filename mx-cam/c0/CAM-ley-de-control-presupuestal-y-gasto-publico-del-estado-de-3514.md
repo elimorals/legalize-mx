@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-control-presupuestal-y-gasto-publico-del-estado-de-3514"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-13"
-last_updated: "1996-12-31"
+last_updated: "1997-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3514&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE CONTROL PRESUPUESTAL Y GASTO PUBLICO DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 13 de marzo de 1992.
 
@@ -445,13 +445,15 @@ La Secretaría, a través de las Unidades Administrativas de las Dependencias y 
 
 A efecto de integrar oportunamente el informe de la cuenta pública, las dependencias y entidades a que se refiere el artículo primero de esta Ley tendrán la obligación de suministrar a la Secretaría de Finanzas la información que sobre sus contabilidades les requiera ésta.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1997)</small>
+
 ###### ARTICULO 50.
 
-Los estados financieros y demás información presupuestal y contable que emanen de las contabilidades de las entidades comprendidas en el presupuesto de egresos del Estado, serán consolidados por la Secretaría de Finanzas, la que será responsable de formular la cuenta anual de la Hacienda Pública y someterla a la consideración del Gobernador, para ser presentada por éste a la Diputación Permanente, en los términos del Artículo 54, Fracción XXI de la Constitución Política del Estado, dentro de los diez primeros días del mes de julio del año siguiente al que corresponda.
+Los estados financieros y demás información presupuestal y contable que emanen de las contabilidades de las entidades comprendidas en la Ley de Presupuesto de Egresos del Estado, serán consolidados por la Secretaría de Finanzas y Administración, la que será responsable de formular la Cuenta Anual de la Hacienda Pública y someterla a la consideración del Gobernador, para ser presentada por éste al Congreso del Estado o, en su caso, a la Diputación Permanente, a más tardar en los primeros diez días del mes de abril del año siguiente al que la Cuenta corresponda.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
+Para efectos de lo anterior, las dependencias de los Poderes Legislativo y Judicial, así como las dependencias y entidades de la Administración Pública del Estado, remitirán sus reportes a la Secretaría antes del diez de marzo del indicado año, para su inclusión en la Cuenta Pública.
 
-Para efectos de lo anterior, las dependencias de los Poderes Legislativo y Judicial, así como las dependencias y entidades de la Administración Pública del Estado, remitirán sus reportes a la Secretaría antes del día diez de junio del indicado año, para su inclusión en la cuenta pública.
+En el año en que tenga lugar el cambio ordinario del titular de la depositaría del ejercicio del Poder Ejecutivo del Estado, la Cuenta Pública podrá ser presentada, para su aprobación, fraccionada en cuatrimestres (enero-abril, mayo-agosto y septiembre-diciembre). La presentación de cada fracción deberá ser dentro de los diez primeros días del mes siguiente al en que termine el respectivo cuatrimestre. El plazo de remisión de reportes a que se refiere el párrafo que antecede, tendrá lugar dentro de los cinco primeros días del mes siguiente al en que concluya el correspondiente cuatrimestre.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -688,3 +690,9 @@ Primero.- Este Decreto entrará en vigor al día siguiente de su publicación en
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido de este Decreto.
 
 Tercero.- Todas las referencias y atribuciones que en esta Ley se hacen y confieren respecto de las suprimidas Secretaría de Planeación y Oficialía Mayor del Gobierno del Estado, en lo futuro deberán contenerse como hechas u otorgadas a la Secretaría de Finanzas y Administración del propio Gobierno.
+
+P.O. 24 DE MARZO DE 1997.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales en lo que se opongan al contenido del presente decreto.
