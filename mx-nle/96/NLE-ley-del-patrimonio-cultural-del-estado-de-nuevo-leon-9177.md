@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-patrimonio-cultural-del-estado-de-nuevo-leon-9177"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-23"
-last_updated: "1991-12-23"
+last_updated: "1995-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9177&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY QUE REGIRA TODO LO RELATIVO AL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 23 de diciembre de 1991.
 
@@ -95,6 +95,8 @@ I.- El Gobernador del Estado;
 
 II.- La Secretaría General de Gobierno;
 
+N. DE E., LAS FACULTADES, ATRIBUCIONES Y OBLIGACIONES QUE CORRESPONDAN A LA SECRETARIA DE DESARROLLO SOCIAL SERAN ASUMIDAS POR EL CONSEJO PARA LA CULTURA DE NUEVO LEON, CONFORME AL ARTICULO QUINTO TRANSITORIO DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO PARA LA CULTURA DE NUEVO LEON, P.O. 7 DE JUNIO DE 1995.
+
 III.- La Secretaría de Desarrollo Social y con las Sub-secretarías de Cultura y de Educación;
 
 IV.- La Secretaría de Desarrollo Urbano y Obras Públicas;
@@ -128,6 +130,8 @@ La Secretaría General de Gobierno será la encargada de integrar los expediente
 El Sector Educativo, las Juntas de Protección y Conservación y los Institutos Culturales de la Entidad en coordinación con las autoridades estatales y municipales y los particulares, realizarán campañas permanentes para fomentar y difundir el conocimiento, respecto y enriquecimiento del patrimonio cultural.
 
 Los Ayuntamientos promoverán la formación de asociaciones civiles y juntas vecinales, así como la organización de representantes de los sectores más significativos de la población, como órganos auxiliares para impedir el deterioro o destrucción del patrimonio y promover su enriquecimiento.
+
+N. DE E., LAS FACULTADES, ATRIBUCIONES Y OBLIGACIONES QUE CORRESPONDAN A LA SECRETARIA DE DESARROLLO SOCIAL SERAN ASUMIDAS POR EL CONSEJO PARA LA CULTURA DE NUEVO LEON, CONFORME AL ARTICULO QUINTO TRANSITORIO DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO PARA LA CULTURA DE NUEVO LEON, P.O. 7 DE JUNIO DE 1995.
 
 ###### ARTICULO 13o.
 
@@ -451,11 +455,15 @@ Las partes que intervengan en actos traslativos de dominio de bienes muebles ads
 
 Son aplicables en lo conducente a la inscripción de declaratorias de zonas protegidas, las disposiciones de este capítulo.
 
+N. DE E., LAS FACULTADES, ATRIBUCIONES Y OBLIGACIONES QUE CORRESPONDAN A LA SECRETARIA DE DESARROLLO SOCIAL SERAN ASUMIDAS POR EL CONSEJO PARA LA CULTURA DE NUEVO LEON, CONFORME AL ARTICULO QUINTO TRANSITORIO DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO PARA LA CULTURA DE NUEVO LEON, P.O. 7 DE JUNIO DE 1995.
+
 ###### ARTICULO 63.
 
 La Secretaría de Desarrollo Social del Estado o la Junta de Protección y Conservación, correspondiente, en su caso, formularán los inventarios y catálogos de los bienes adscritos al patrimonio cultural o que se encuentren dentro de la zona protegida.
 
 Para este efecto los encargados de los Registros Públicos de la Propiedad, deben enviarle de inmediato copias de los asientos registrales a que se refiere el artículo 55 de esta Ley.
+
+N. DE E., LAS FACULTADES, ATRIBUCIONES Y OBLIGACIONES QUE CORRESPONDAN A LA SECRETARIA DE DESARROLLO SOCIAL SERAN ASUMIDAS POR EL CONSEJO PARA LA CULTURA DE NUEVO LEON, CONFORME AL ARTICULO QUINTO TRANSITORIO DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO PARA LA CULTURA DE NUEVO LEON, P.O. 7 DE JUNIO DE 1995.
 
 ###### ARTICULO 64.
 
@@ -476,6 +484,8 @@ La protección de los valores culturales a que se refiere esta Ley, comprende la
 ###### ARTICULO 67.
 
 Las acciones a que se refiere el artículo anterior, estarán a cargo de la Secretaría de Desarrollo Social del Estado, de los órganos de apoyo y de los particulares interesados, y su finalidad será considerar los valores culturales del Estado como factor de integración de sus habitantes y expansión de la propia civilización.
+
+N. DE E., LAS FACULTADES, ATRIBUCIONES Y OBLIGACIONES QUE CORRESPONDAN A LA SECRETARIA DE DESARROLLO SOCIAL SERAN ASUMIDAS POR EL CONSEJO PARA LA CULTURA DE NUEVO LEON, CONFORME AL ARTICULO QUINTO TRANSITORIO DE LA LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO PARA LA CULTURA DE NUEVO LEON, P.O. 7 DE JUNIO DE 1995.
 
 ###### ARTICULO 68.
 
@@ -576,3 +586,15 @@ LIC. SOCRATES C. RIZZO GARCIA
 EL C. SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ALEJANDRO LAMBRETON NARRO
+
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY
+
+P.O. 7 DE JUNIO DE 1995
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON LA PRESENTE LEY.
+
+LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CONSEJO PARA LA CULTURA DE NUEVO LEON.
+
+PRIMERO:- ESTA LEY ENTRARA EN VIGOR EL DIA DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+
+QUINTO:- LAS FACULTADES, ATRIBUCIONES Y OBLIGACIONES QUE CORRESPONDAN A LA SECRETARIA DE DESARROLLO SOCIAL Y QUE ESTAN CONTENIDAS EN LOS ARTICULOS 8o., FRACCION III, 13o., 63o., 64o., Y 68. DE LA LEY DEL PATRIMONIO CULTURAL DEL ESTADO DE NUEVO LEON, SERAN ASUMIDAS POR EL CONSEJO PARA LA CULTURA DE NUEVO LEON.
