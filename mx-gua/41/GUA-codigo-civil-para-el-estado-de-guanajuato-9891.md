@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "1983-08-19"
+last_updated: "1983-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 1983.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -2433,7 +2433,9 @@ Si los padres hubieren fallecido durante la menor edad de los hijos, tienen ést
 
 Comprobada la filiación de los hijos nacidos fuera de matrimonio, en los términos del artículo 416, éstos tienen derecho:
 
-I. A llevar el apellido de los progenitores;
+> <small>(REFORMADA, P. O. 14 DE OCTUBRE DE 1983)</small>
+
+I. A llevar el apellido paterno de sus progenitores, o ambos apellidos del que los reconozca;
 
 II. A ser alimentados por éstos;
 
@@ -5669,7 +5671,7 @@ El que posee por menos de un año, a título traslativo de dominio y con mala fe
 
 I. A restituir los frutos percibidos;
 
-II. A responder de la pérdida o deterioro de la cosa sobrevenidos por su culpa o por caso fortuito o fuerza mayor, a no ser que pruebe que éstos se habrían causado aunque la cosa hubiese estado poseída por su dueño. No responde de la pérdida sobrevenida natural o inevitablemente por el sólo transcurso del tiempo.
+II. A responder de la pérdida o deterioro de la cosa sobrevenidos por su culpa o por caso fortuito o fuerza mayor, a no ser que pruebe que éstos se habrían causado aunque la cosa hubiese estado poseída por su dueño. No responde de la pérdida sobrevenida natural o inevitablemente por el solo transcurso del tiempo.
 
 Tiene derecho a que se le reembolsen los gastos necesarios.
 
@@ -15532,3 +15534,9 @@ P.O. 19 DE AGOSTO DE 1983.
 ###### ARTICULO UNICO.
 
 Este decreto entrará en vigor al tercer día de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 14 DE OCTUBRE DE 1983.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
