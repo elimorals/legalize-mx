@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-2623"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-05-29"
-last_updated: "1995-03-19"
+last_updated: "1995-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MARZO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1995.
 
 Código publicado en la Sección Primera del Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -2069,11 +2069,11 @@ La constancia de compatibilidad urbanística es independiente y condiciona la ex
 
 Las áreas de desarrollo urbano y de preservación ecológica, los usos, reservas o destinos asignados a las zonas en que se clasifique el territorio de los municipios; los límites de los centros de población y las normas de planificación urbana que regulan los predios y construcciones, determinadas en los programas de desarrollo urbano sólo podrán ser modificados de acuerdo con los cambios que se incorporen a los programas de desarrollo urbano, con base en este Código.
 
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1995)</small>
+
 ###### ARTICULO 152.
 
-Para dar un uso o destino determinado a un área, predio o construcción, los propietarios o poseedores deberán obtener la constancia de compatibilidad urbanística correspondiente.
-
-La presentación de dicha constancia será necesaria para iniciar el trámite de las licencias de construcción y de las licencias para la apertura y funcionamiento de giros comerciales, industriales y de servicios.
+Para dar un uso o destino distinto al que se le ha venido dando a un área, predio o construcción, los propietarios o poseedores deberán obtener la constancia de compatibilidad urbanística correspondiente.
 
 ###### ARTICULO 153.
 
@@ -7058,5 +7058,9 @@ Se deroga el Artículo 21 de la Ley Reglamentaria del Artículo 4o. de la Consti
 Se derogan los Artículos 83, 84, 85, 86, 87 y 88 de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Aguascalientes.
 
 P.O. 19 DE MARZO DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE JUNIO DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
