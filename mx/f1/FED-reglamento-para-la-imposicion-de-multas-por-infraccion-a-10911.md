@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-imposicion-de-multas-por-infraccion-a-10911"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-06-30"
-last_updated: "2000-11-28"
+last_updated: "2002-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10911&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1997-06-27"
 
 REGLAMENTO PARA LA IMPOSICION DE MULTAS POR INFRACCION A LAS DISPOSICIONES DE LA LEY DEL SEGURO SOCIAL Y SUS REGLAMENTOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE NOVIEMBRE DE 2000.
+> <small>N. DE E. EL PRESENTE REGLAMENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DEL SEGURO SOCIAL EN MATERIA DE AFILIACION, CLASIFICACION DE EMPRESAS, RECAUDACION Y FISCALIZACION, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 1 DE NOVIEMBRE DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación el lunes 30 de junio de 1997.
 
@@ -304,3 +306,15 @@ D.O.F. 28 DE NOVIEMBRE DE 2000.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. No se impondrá multa a los patrones que omitan presentar la revisión anual de su siniestralidad, a que se refiere el artículo 74 de la Ley del Seguro Social, en los casos en que modifiquen la prima del Seguro de Riesgos de Trabajo para disminuirla. Esta disposición tendrá una vigencia de dos años a partir de la entrada en vigor de este Decreto.
+
+D.O.F. 1 DE NOVIEMBRE DE 2002.
+
+UNICAMENTE DE TRANSCRIBEN LOS ARTICULOS DEL DECRETO QUE SE RELACIONAN CON EL REGLAMENTO.
+
+Primero. Este Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. A la entrada en vigor del presente Reglamento, se abrogan los Reglamentos de Afiliación; de la Seguridad Social para el Campo; del Seguro de Salud para la Familia; para el Pago de Cuotas del Seguro Social y para la Imposición de Multas por Infracción a las Disposiciones de la Ley del Seguro Social y sus Reglamentos, publicados en el Diario Oficial de la Federación el día 30 de junio de 1997, así como el Reglamento para la Clasificación de Empresas y Determinación de la Prima en el Seguro de Riesgos de Trabajo, publicado en el Diario Oficial de la Federación el día 11 de noviembre de 1998.
+
+Los procedimientos o instancias iniciados bajo la vigencia de los reglamentos que se abrogan, seguirán tramitándose hasta su conclusión en los términos previstos del reglamento que corresponda.
+
+Se derogan todas aquellas disposiciones de carácter administrativo y técnico que se opongan al presente Reglamento.
