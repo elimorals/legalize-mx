@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1948-10-28"
+last_updated: "1951-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 1948.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 1951.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -11737,7 +11737,7 @@ Los arrendamientos de bienes municipales o de establecimientos públicos, estar�
 
 Del Arrendamiento de Fincas Urbanas.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 1944)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1951)</small>
 
 ###### Artículo 2294.
 
@@ -11919,9 +11919,7 @@ Del Arrendamiento de Bienes Muebles.
 
 ###### Artículo 2330.
 
-El contrato de arrendamiento de fincas urbanas no se celebrará por tiempo indeterminado, debiendo celebrarse por tiempo expresamente determinado. El término de duración del contrato no podrá ser menor de dos años forzosos para el arrendador y discrecionales para el arrendatario; pero cuando no se señalare de manera expresa el término de duración, se considerará fijado el mismo término de dos años, igualmente forzoso para el arrendador y discrecional para el arrendatario.
-
-La infracción de este Artículo produce, por cuanto al contrato como título jurídico, la falta de acción o excepción en juicio.
+El contrato de arrendamiento de fincas urbanas no se celebrará por tiempo indeterminado, debiendo celebrarse por tiempo expresamente determinado. El término de duración del contrato no podrá ser menor de tres años forzosos para el arrendador y discresionales (sic) para el arrendatario. Cuando no se señalare de manera expresa el término de duración, así como cuando se señalare un término inferior al obligatorio en perjuicio del inquilino, o bien cuando se haya pactado expresamente la duración indefinida, se considerará fijado el término de tres años, forzoso para el arrendador y discresional (sic) para el arrendatario.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 1944)</small>
 
@@ -11953,7 +11951,7 @@ La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses
 
 Disposiciones Especiales respecto de los Arrendamientos por Tiempo Indeterminado.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1943)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1951)</small>
 
 ###### Artículo 2335.
 
@@ -12071,7 +12069,11 @@ Del modo de Terminar el Arrendamiento.
 
 ###### Artículo 2360.
 
-Los arrendamientos de predios rústicos que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso a la otra parte, dado en forma indubitable con un año de anticipación, observándose lo dispuesto en los artículos 2338, 2339 y 2340.
+Los arrendamientos de predios rústicos que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso a la otra parte, dado en forma indubitable ocn (sic) un año de anticipación, observándose lo dispuesto en los artículos 2338, 2339 y 2340.
+
+Los arrendamientos de fincas urbanas destinados a habitación que continuaren por tiempo indeterminado en virtud de haber vencido el plazo pactado o el legal y sus prórrogas, concluirán también a voluntad de cualquiera de las partes contratantes, previo aviso indubitable a la otra parte. Este aviso deberá ser dado con diez meses de anticipación por el arrendador y con quince días por el inquilino.
+
+Tratándose del arrendamiento de fincas urbanas destinadas a otros fines distintos al de habitación, ambas partes estarán obligadas a darse el aviso anticipado con tres meses de anticipación.
 
 ###### Articulo 2361.
 
@@ -12123,15 +12125,17 @@ VIII.- Por evicción de la cosa en arrendamiento.
 
 Si el arrendamiento se ha hecho por tiempo determinado, concluye en el día prefijado sin necesidad de desahucio. Si no se ha señalado tiempo, se observará lo que dispone el artículo 2360.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1941)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1951)</small>
 
 ###### Artículo 2367.
 
-Vencido un contrato de arrendamiento, tendrá derecho el inquilino, siempre que esté al corriente en el pago de las rentas a que se le prorrogue hasta por un año este contrato. Podrá el arrendador aumentar hasta un diez por ciento la renta anterior, siempre que demuestre que los alquileres en la zona de que se trate han sufrido una alza después de que se celebró el contrato de arrendamiento.
+Estando el inquilino de una finca urbana destinada a habitación al corriente en el pago de las rentas al vencimiento del contrato, se considerará éste prorrogado por dos años más, sin necesidad de que el propio inquilino manifieste su voluntad expresamente en este sentido. Dicha prórroga se entenderá también obligatoria para el arrendador y discresional (sic) para el arrendatario. En el mismo caso que los arrendatarios de fincas rústicas o de fincas urbanas no destinadas a habitación tendrán derecho a un año de prórroga.
 
-Quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento, los propietarios que quieran habitar la casa o cultivar la finca cuyo arrendamiento ha vencido.
+Quedan exceptuados de la obligación de prorrogar el contrato de arrendamiento los propietarios que quieran habitar la casa o cultivar la finca cuyo arrendamiento ha vencido. Los propietarios que hayan obtenido la desocupación de la finca y posteriormente, dentro del término de tres meses, no la ocupen personalmente, estarán obligados a devolver la finca al inquilino desalojado, continuando el arrendamiento en las mismas condiciones en que fue celebrado, y en caso de que esto no sea posible o si el inquilino ya no quiere ocuparla, el propietario deberá cubrir a aquél los daños y perjuicios que le haya ocasionado.
 
-Se entiende que el inquilino está al corriente en el pago de sus rentas aún cuando esté adeudando un mes, si tiene cuando menos un año de ocupación de la finca, y en caso de ser mayor el término de ocupación, aún cuando adeude dos meses, se entiende siempre al corriente en el pago de sus rentas.
+Para los efectos de la prórroga, tratándose de fincas urbanas destinadas a habitación, se entiende que el inquilino está al corriente en el pago de sus rentas, aún cuando adeude dos meses.
+
+El arrendador debe hacer uso de su derecho a reclamar la finca en el caso previsto por este artículo, cuando menos un mes antes del vencimiento del contrato.
 
 ###### Artículo 2368.
 
@@ -12145,13 +12149,13 @@ En el caso del artículo anterior, si el predio fuere urbano, el arrendamiento c
 
 Cuando haya prórroga en el contrato de arrendamiento, y en los casos de que hablan los dos artículos anteriores, cesan las obligaciones otorgadas por un tercero para la seguridad del arrendamiento, salvo convenio en contrario.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 1944)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 1951)</small>
 
 ###### Artículo 2371.
 
 El arrendador puede exigir la rescisión del contrato:
 
-I.- Por falta de pago de la renta en los términos prevenidos en el Artículo 2336 para los contratos de fincas rústicas. Tratándose de fincas urbanas, por falta de pago de la renta correspondiente a dos meses.
+I.- Por falta de pago de la renta en los términos prevenidos en el artículo 2336 para los contratos de fincas rústicas. Tratándose de fincas urbanas, por falta de pago de la renta correspondiente a dos meses; pero si la finca urbana está destinada a habitación se requerirá la falta de pago de tres meses.
 
 II.- Por usarse la cosa en contravención a lo dispuesto en la fracción III del artículo 2307.
 
@@ -14805,7 +14809,7 @@ De las Oficinas del Registro.
 
 ###### Artículo 2877.
 
-Satisfechos los créditos de que se ha habla (sic) anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
+Satisfechos los créditos de que ha habla (sic) anteriormente, se pagarán los créditos que consten en escritura pública o en cualquier otro documento auténtico.
 
 ### CAPITULO II.
 
@@ -15236,3 +15240,7 @@ Artículo Unico.- El presente Decreto comenzará a surtir sus efectos a partir d
 P.O. 28 DE OCTUBRE DE 1948.
 
 UNICO.- El presente Decreto comenzará a surtir sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 12 DE JUNIO DE 1951.
+
+UNICO.- Este Decreto comenzará a surtir sus efectos a partir del día quince del presente mes.
