@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2001-06-22"
+last_updated: "2001-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2001.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -415,25 +415,41 @@ Los Diputados propietarios, durante el período de su encargo y los Suplentes, c
 
 El Congreso tendrá cada año dos períodos ordinarios de sesiones prorrogables a juicio de la Cámara por el tiempo que fuere necesario; el primero comenzará el día primero de diciembre y terminará el día primero de abril siguiente, y el segundo principiará el primero de junio y concluirá el día primero de agosto inmediato.
 
-> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P. O. 29 DE JUNIO DE 2001)</small>
 
 ###### Art. 37.
 
-En el primer período ordinario de sesiones, el Congreso se ocupará de discutir y aprobar la Ley de Ingresos y Presupuestos (sic) de Egresos del Estado y las Leyes de Ingresos de los Municipios, para lo cual deberán ser presentados los proyectos respectivos antes del día cinco de diciembre de cada año, a efecto de que puedan regir a partir del primero de enero inmediato. En tanto no se aprueben las nuevas, se tendrán por prorrogadas las correspondientes al año anterior. De igual manera, en este primer período revisará y aprobará en su caso, el primer semestre de la cuenta pública del Gobierno del Estado, correspondiente a los meses de enero a junio, la cual deberá ser presentada al Congreso, a más tardar quince días antes de su apertura.
+En el primer período ordinario de sesiones, el Congreso se ocupará de discutir y aprobar la Ley de Ingresos y Presupuesto de Egresos del Estado y las Leyes de Ingresos de los Municipios, para lo cual deberán ser presentados los proyectos respectivos a más tardar el último sábado del mes de noviembre de cada año, a efecto de que puedan regir a partir del primero de enero inmediato. En tanto no se aprueben las nuevas, se tendrán por prorrogadas las correspondientes al año anterior. De igual manera, en este primer período revisará y aprobará en su caso, el primer semestre de la cuenta pública del Gobierno del Estado, correspondiente a los meses de enero a junio, la cual deberá ser presentada al Congreso, a más tardar quince días antes de su apertura.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
 
 Asimismo, en este período revisará y aprobará en su caso, el primer semestre de la cuenta pública de los Municipios que presenten los Ayuntamientos, correspondientes a los meses de enero a junio.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
+
 En el segundo período ordinario de sesiones revisará y aprobará en su caso, el segundo semestre de la cuenta pública del Gobierno del Estado, correspondiente a los meses de julio a diciembre del ejercicio fiscal del año inmediato anterior, que deberá ser presentada al Congreso, a más tardar quince días antes de su apertura.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
 
 También en este período, revisará y aprobará en su caso, el segundo semestre de la cuenta pública de los municipios, que presenten los Ayuntamientos, correspondiente a los meses de julio a diciembre, del ejercicio fiscal del año inmediato anterior.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
+
 El Congreso del Estado revisará, aprobará, hará observaciones o suspenderá y, de proceder, expedirá el finiquito respectivo, por cada semestre del ejercicio fiscal en los casos de las cuentas públicas del estado y de los Municipios.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
 
 Cuando se decrete la suspensión de la aprobación de una cuenta pública, ésta deberá ser nuevamente discutida en el siguiente período ordinario de sesiones, previa a la revisión y aprobación en su caso, de la que corresponda al mismo.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
+
 En caso de que en la revisión de una cuenta pública, se encuentren irregularidades o hechos que hagan presumir la existencia de delitos, se denunciarán ante la Procuraduría General de Justicia del Estado, la Contraloría General del Estado o ante la autoridad que corresponda, según el caso.
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
+
 Los organismos públicos descentralizados y de participación estatal o municipal, deberán remitir la información sobre la aplicación de los recursos públicos recibidos durante el ejercicio fiscal anterior, en los términos previstos por las leyes, a más tardar quince días antes de la apertura del segundo período ordinario de sesiones.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1994)</small>
 
 En los dos períodos el Congreso se ocupará, además, del estudio, discusión y votación de las iniciativas de Ley que se presenten y de la resolución de todos los asuntos que le correspondan.
 
@@ -843,9 +859,9 @@ IV. Convocar al Congreso a sesiones extraordinarias por conducto de la Diputaci�
 
 V. Facilitar a las autoridades judiciales del Estado, los auxilios que necesiten para el desempeño de sus funciones y excitarlas a que otorguen pronta y debida justicia.
 
-(REFORMADO, P.O. 28 DE DICIEMBRE DE 1988) (F. DE E., P.O. 30 DE DICIEMBRE DE 1988)
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2001)</small>
 
-VI. Presentar al Congreso del Estado, antes del día cinco de diciembre de cada año, el proyecto de Ley de Ingresos y Presupuesto de Egresos para el año siguiente y remitir a más tardar quince días antes de la apertura del primero y segundo período ordinario de sesiones del Congreso del Estado, la cuenta pública en los términos del artículo 37 de esta Constitución.
+VI. Presentar al Congreso del Estado, a más tardar el último sábado del mes de noviembre de cada año, el proyecto de Ley de Ingresos y Presupuesto de Egresos para el año siguiente y remitir a más tardar quince días antes de la apertura del primero y segundo período ordinario de sesiones del Congreso del Estado, la cuenta pública en los términos del artículo 37 de esta Constitución.
 
 VII. Cuidar de que la recaudación e inversión de los caudales públicos se hagan con arreglo a las leyes.
 
@@ -2844,6 +2860,10 @@ Artículo Cuarto.- El Estado deberá adecuar sus leyes conforme a lo dispuesto e
 P.O. 22 DE JUNIO DE 2001.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 29 DE JUNIO DE 2001.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Sinaloa".
 
 ###### ARTÍCULO PRIMERO.
 
