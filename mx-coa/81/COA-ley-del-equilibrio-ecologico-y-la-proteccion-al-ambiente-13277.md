@@ -4,7 +4,7 @@ identifier: "COA-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-13277"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-08"
-last_updated: "1998-12-08"
+last_updated: "2001-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de diciembre de 1998.
 
@@ -61,9 +61,13 @@ VII.- Promover la participación corresponsable de las personas, en forma indivi
 
 VIII.- Coordinar el Sistema Estatal de Áreas Naturales Protegidas;
 
-IX.- Establecer los mecanismos de coordinación, inducción y concertación de acciones entre autoridades; y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-X.- Establecer las atribuciones que le correspondan al Gobierno del Estado y de los Municipios en materia ambiental, bajo el principio de concurrencia previsto en el artículo 172 de la Constitución Política del Estado de Coahuila de Zaragoza.
+IX.- Establecer los mecanismos de coordinación, inducción y concertación de acciones entre autoridades, en el marco de los principios de fidelidad municipal y federal;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+X.- Establecer las atribuciones que, en el ámbito de sus respectivas competencias, correspondan al Gobierno del Estado y a los gobiernos municipales en materia ambiental, así como las que les competan bajo el principio de fidelidad municipal, conforme lo previsto por el artículo 172 de la Constitución Política del Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
 
 ###### ARTICULO 2º.
 
@@ -195,7 +199,9 @@ LV.- Restauración: Conjunto de actividades tendientes a la recuperación y rest
 
 LVI.- Reuso: La utilización de todos los residuos o desechos sólidos, líquidos o gaseosos que puedan ser utilizados nuevamente, ya sea en su estado actual o por medio de transformaciones físicas, químicas, mecánicas o biológicas.
 
-LVII.- Secretaría: La Secretaría de Desarrollo Social del Estado de Coahuila; y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+LVII.- Secretaría: La Secretaría de Planeación y Desarrollo del Estado de Coahuila; y
 
 LVIII.- Vocación Natural: Las Condiciones que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos.
 
@@ -221,19 +227,31 @@ Son autoridades en la entidad en materia de ecología:
 
 I.- El Gobernador del Estado;
 
-II.- La Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+II.- La Secretaría de Planeación y Desarrollo;
 
 III.- La Dirección General de Ecología; y
 
-IV.- Los municipios de la entidad por conducto de sus presidentes municipales, a través de los órganos o unidades administrativas de los propios municipios.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+IV.- Los ayuntamientos de la entidad por conducto de sus presidentes municipales, a través de los órganos o unidades administrativas de los propios municipios.
 
 ###### ARTICULO 8º.
 
 Para los efectos de esta ley, el Gobernador del Estado tendrá las siguientes atribuciones:
 
-I.- Establecer y regular áreas naturales protegidas, para efectos de preservación y restauración de ecosistemas, zonas o bienes de jurisdicción estatal y municipal;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-II.- Formular y expedir programas de ordenamiento ecológico regional que abarquen la totalidad o parte del estado;
+I.- Establecer, regular y administrar áreas naturales protegidas, para efectos de preservación y restauración de ecosistemas, zonas o bienes de jurisdicción estatal y, en su caso, municipal.
+
+El Ejecutivo del Estado deberá determinar los mecanismos que aseguren la participación de los ayuntamientos en la creación de dichas áreas;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+II.- Formular y expedir programas de ordenamiento ecológico regional que abarquen la totalidad o parte del estado.
+
+En la formulación de esos programas se deberán considerar los dictámenes que formulen, para tal efecto, los municipios que correspondan;
 
 III.- Formular y expedir, con la participación que corresponda a los municipios de la entidad, los programas de ordenamiento ecológico local;
 
@@ -249,7 +267,9 @@ La Secretaría tendrá las siguientes atribuciones:
 
 I.- Formular, conducir, ejecutar y evaluar, en el ámbito de su competencia, las políticas y los programas referentes a ecología;
 
-II.- Proponer al Ejecutivo del Estado la celebración de acuerdos y convenios de coordinación en materia ambiental, con el Gobierno Federal, otros estados y los municipios, así como con organizaciones públicas, privadas y sociales;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+II.- Proponer al Ejecutivo del Estado la celebración de acuerdos y convenios de coordinación en materia ambiental, en los términos de las disposiciones aplicables, con los gobiernos federal, estatales y municipales, así como con organizaciones públicas, privadas y sociales;
 
 III.- Promover ante las instancias correspondientes la construcción de obras de infraestructura y equipamiento para la protección y restauración del medio ambiente;
 
@@ -267,7 +287,9 @@ IX.- Vigilar, en coordinación con las autoridades federales y municipales compe
 
 X.- Supervisar, en el ámbito de su competencia, el debido cumplimiento de los criterios ecológicos, así como las normas de carácter general que deban satisfacer las descargas de aguas residuales, a fin de evitar la contaminación que ponga en peligro o degrade los ecosistemas;
 
-XI.- Administrar y vigilar las áreas naturales protegidas previstas en la presente ley, con la participación que corresponda a las administraciones municipales;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XI.- Promover la participación de los ayuntamientos en la creación y administración de áreas naturales protegidas, así como administrar y vigilar las que se decreten, con la participación que corresponda a los gobiernos municipales;
 
 XII.- Someter a la consideración del Ejecutivo del Estado, por conducto de la Secretaría de Gobierno, los proyectos de iniciativas de leyes, reglamentos, decretos, acuerdos y demás disposiciones en materia de ecología; y
 
@@ -293,7 +315,9 @@ VII.- Supervisar, en el ámbito de su competencia, la debida observancia de las 
 
 VIII.- Promover ante las instancias competentes, la elaboración de los planes y programas en los que se prevea el desarrollo de actividades en materia ecológica y de protección al ambiente;
 
-IX.- Brindar asesoría a las unidades administrativas de la Secretaría, así como a las dependencias y entidades de la Administración Pública Estatal en materia de ecología;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+IX.- Brindar asesoría a las unidades administrativas de la Secretaría, así como a las dependencias y entidades de la Administración Pública Estatal en materia de ecología y, en su caso, previa solicitud, a los ayuntamientos de la entidad;
 
 X.- Conducir la política estatal de información y difusión en materia ambiental;
 
@@ -329,7 +353,9 @@ XXV.- Proporcionar asesoría a los municipios en materia de concertación y prom
 
 XXVI.- Prevenir y controlar la contaminación atmosférica generada por fuentes fijas que funcionen como establecimientos industriales, así como por fuentes móviles, conforme a lo establecido en la presente ley;
 
-XXVII.- Integrar, clasificar y mantener actualizado el inventario de establecimientos industriales que funcionen como fuentes fijas y las fuentes móviles contaminantes en el estado, excepto las de jurisdicción Federal;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XXVII.- Integrar, clasificar y mantener actualizado, en coordinación con los ayuntamientos de la entidad, el inventario de establecimientos industriales que funcionen como fuentes fijas y las fuentes móviles contaminantes en el Estado, excepto las de jurisdicción federal;
 
 XXVIII.- Regular en el ámbito de su competencia, las actividades que no sean consideradas altamente riesgosas para el ambiente, de conformidad con lo dispuesto en la presente ley;
 
@@ -337,7 +363,9 @@ XXIX.- Regular sistemas de recolección, transporte, almacenamiento, manejo, tra
 
 XXX.- Prevenir y controlar la contaminación generada por emisiones de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales al equilibrio ecológico o al ambiente, provenientes de fuentes fijas que funcionen como establecimientos industriales, conforme a lo establecido en la presente ley;
 
-XXXI.- Ejecutar los programas de ordenamiento ecológico estatal, y en su caso locales, con la participación que corresponda a los municipios de la entidad, conforme lo previsto en esta ley;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XXXI.- Ejecutar los programas de ordenamiento ecológico estatal, con la participación que corresponda a los municipios de la entidad, conforme lo previsto en esta ley, así como participar, en su caso, en la ejecución de los ordenamientos ecológicos municipales;
 
 XXXII.- Evaluar el impacto ambiental generado por el aprovechamiento de las sustancias no reservadas a la Federación que constituyan depósitos de naturaleza similar a los componentes de los terrenos, tales como rocas o productos de su descomposición que sólo pueden utilizarse para la fabricación de materiales para la construcción u ornamento de obras, a fin de dictar y ejecutar las medidas correspondientes;
 
@@ -347,9 +375,11 @@ XXXIV.- Difundir los proyectos de educación ambiental y de conservación y desa
 
 XXXV.- Las demás que las disposiciones legales le atribuyan.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 11.
 
-Para los efectos de lo dispuesto en esta ley, los municipios tendrán las siguientes atribuciones:
+Para los efectos de lo dispuesto en esta ley, los ayuntamientos tendrán las siguientes atribuciones:
 
 I.- Formular, conducir y evaluar la política ambiental municipal, en congruencia con la política estatal sobre la materia;
 
@@ -361,9 +391,13 @@ IV.- Aplicar las disposiciones jurídicas en materia de prevención y control de
 
 V.- Aplicar las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por la generación, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos municipales e industriales que no estén considerados como peligrosos;
 
-VI.- Administrar, cuando así se determine en las disposiciones correspondientes, zonas de preservación ecológica en centros de población, parques urbanos, jardines públicos y demás áreas análogas previstas por esta ley;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-VII.- Promover dentro de sus respectivas jurisdicciones, el establecimiento de museos, zonas de demostración, zoológicos, jardines botánicos y otras instalaciones o exhibiciones similares;
+VI.- Participar en la creación y, en su caso, administrar, cuando así se determine en las disposiciones correspondientes, zonas de preservación ecológica en centros de población, parques urbanos, jardines públicos y demás áreas análogas previstas por esta ley;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+VII.- Establecer y, en su caso, administrar, dentro de sus respectivas jurisdicciones, museos, zonas de demostración, zoológicos, jardines botánicos y otras instalaciones o exhibiciones similares;
 
 VIII.- Aplicar las disposiciones jurídicas relativas a la prevención y control de la contaminación por ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas y olores perjudiciales para el equilibrio ecológico y el ambiente, provenientes de fuentes fijas que funcionen como establecimientos mercantiles o de servicios, así como las provenientes del resultado de la quema a cielo abierto de cualquier tipo de residuos sólidos no peligrosos;
 
@@ -371,17 +405,27 @@ IX.- Aplicar las disposiciones jurídicas en materia de prevención y control de
 
 X.- Promover el aprovechamiento sustentable, la conservación, el ahorro, reciclaje y reuso de las aguas que destinen para la prestación de los servicios públicos a su cargo, así como promover la captación y uso eficiente del agua de lluvia, conforme a lo dispuesto en la Ley de Aguas Nacionales;
 
-XI.- Promover, ante el Ejecutivo del Estado, la declaración de áreas naturales protegidas, en relación con ecosistemas, sitios o bienes ubicados dentro de su circunscripción territorial;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XI.- Promover, ante el Ejecutivo del Estado, la declaración de áreas naturales protegidas, con relación a ecosistemas, sitios o bienes ubicados dentro de su circunscripción territorial, así como participar en la creación y administración de esas áreas;
 
 XII.- Aplicar los criterios ecológicos que, para la protección del ambiente, establece esta ley;
 
-XIII.- Formular y expedir los programas de ordenamiento ecológico local, en los términos previstos en esta ley, así como controlar y vigilar el uso y cambio de uso de suelo, establecido en dichos programas;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-XIV.- Preservar y restaurar el equilibrio ecológico y la protección al ambiente en los centros de población, en relación con los efectos derivados de los servicios de alcantarillado, limpia, mercados, centrales de abasto, panteones, rastros, tránsito y transporte locales, siempre y cuando no se trate de atribuciones otorgadas al estado en la presente ley;
+XIII.- Formular, expedir y ejecutar los programas de ordenamiento ecológico local, en los términos previstos en esta ley, así como controlar y vigilar el uso y cambio de uso de suelo, establecido en dichos programas.
+
+Los ayuntamientos de la entidad podrán solicitar, para los efectos de lo dispuesto en esta fracción, el apoyo y asesoría de los gobiernos federal y estatal;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XIV.- Preservar y restaurar el equilibrio ecológico y la protección al ambiente en los centros de población, en relación con los efectos derivados de los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas, limpia, mercados, centrales de abasto, panteones, rastros, tránsito y transporte locales, siempre y cuando no se trate de atribuciones otorgadas al estado en la presente ley;
 
 XV.- Sancionar en el ámbito de su competencia, la realización de actividades ruidosas, así como las emisiones provenientes de aparatos de sonido instalados en casas habitación, en establecimientos públicos o privados, o en unidades móviles, que rebasen los límites permitidos por las normas oficiales mexicanas;
 
-XVI.- Coordinar el desarrollo de sus actividades con las de otros municipios de la entidad, para la atención de los asuntos que afecten el equilibrio ecológico en sus circunscripciones territoriales;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XVI.- Coordinar en los términos de los acuerdos que para tal efecto se celebren, el desarrollo de sus actividades con las de otros municipios de la entidad o, en su caso, de otros estados, para la atención de los asuntos que afecten el equilibrio ecológico en sus circunscripciones territoriales;
 
 XVII.- Participar en la prevención y control de emergencias y contingencias ambientales que pudieren presentarse en la municipalidad, atendiendo a las políticas y programas de protección civil que al efecto se establezcan por las autoridades competentes;
 
@@ -389,13 +433,17 @@ XVIII.- Vigilar en la esfera de sus respectivas competencias, el cumplimiento de
 
 XIX.- Formular y conducir la política municipal de información y difusión en materia ambiental;
 
-XX.- Celebrar con los sectores de la sociedad convenios o acuerdos de concertación, a fin de llevar a cabo las acciones ecológicas requeridas para el cumplimiento de esta ley;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XX.- Promover la participación ciudadana y vecinal para la preservación y restauración de los recursos naturales y de la protección del ambiente, así como celebrar con los sectores de la sociedad convenios o acuerdos de concertación, a fin de llevar a cabo las acciones ecológicas requeridas para el cumplimiento de esta ley;
 
 XXI.- Formular, ejecutar y evaluar el programa municipal de protección al ambiente;
 
 XXII.- Difundir en el ámbito de su competencia, proyectos de educación ambiental y de conservación y desarrollo ecológicos, a fin de desarrollar una mayor conciencia ambiental en estas materias;
 
-XXIII.- Participar emitiendo en sus opiniones, en su caso, en la evaluación del impacto ambiental de obras o actividades de competencia estatal, cuando las mismas se realicen en el ámbito de sus circunscripciones territoriales;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XXIII.- Emitir opinión respecto a la evaluación del impacto ambiental de obras o actividades de competencia estatal, cuando las mismas se realicen en el ámbito de sus circunscripciones territoriales;
 
 XXIV.- Otorgar autorizaciones para uso de suelo, licencias de construcción u operación en los términos previstos por las disposiciones aplicables, y siempre que la evaluación del impacto ambiental resulte satisfactoria;
 
@@ -405,9 +453,11 @@ XXVI.- Atender los demás asuntos que en materia de preservación del equilibrio
 
 #### SECCION II. De la Coordinación de Competencias entre el Estado y los Municipios
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 12.
 
-El Ejecutivo del Estado podrá celebrar convenios o acuerdos de coordinación y ejecución con la Federación, con la participación de los municipios y, en su caso, de los sectores de la sociedad, a fin de cumplir con los objetivos de la presente ley, así como con las siguientes funciones relativas a:
+El Ejecutivo del Estado podrá celebrar convenios o acuerdos de coordinación y ejecución con los gobiernos federal y municipal, con la participación, en su caso, de los sectores de la sociedad, a fin de cumplir con los objetivos de la presente ley, así como con las siguientes funciones relativas a:
 
 I.- El manejo y vigilancia de las áreas naturales protegidas de competencia Federal;
 
@@ -433,17 +483,25 @@ Así mismo, podrán suscribir convenios de concertación con los sectores social
 
 El Ejecutivo del Estado coordinará la participación de las dependencias y entidades de la Administración Pública Estatal, en la atención de los asuntos materia de esta ley, particularmente cuando se trate de la prevención y el control de contingencias ambientales y emergencias ecológicas y, de la formulación de planes y programas de conservación ecológica y protección al ambiente, de alcance general en la entidad.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 15.
 
-Para el debido cumplimiento de las disposiciones de esta ley, el Ejecutivo del Estado procurará que en los acuerdos de coordinación se establezcan condiciones que faciliten el proceso de descentralización de facultades y recursos financieros a los municipios.
+Para el debido cumplimiento de las disposiciones de esta ley, el Ejecutivo del Estado y los ayuntamientos deberán asegurar que en los acuerdos de coordinación se establezcan condiciones que faciliten el proceso de federalización de facultades y recursos financieros a los municipios.
+
+En todo caso, el proceso deberá ir acompañada (sic) de la asignación de los recursos financieros para el cumplimiento de la función respectiva y cumplir con los demás requisitos que establece la Constitución Política del Estado.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 16.
 
-El Ejecutivo del Estado podrá suscribir con otros estados, convenios o acuerdos de coordinación y colaboración administrativa, con el propósito de atender y resolver problemas ambientales comunes y ejercer sus atribuciones a través de las instancias que al efecto determinen, atendiendo a lo dispuesto en las leyes locales que resulten aplicables. Las mismas facultades podrán ejercer los municipios entre sí, aunque pertenezcan a entidades federativas diferentes, de conformidad con lo que establezcan las leyes señaladas.
+El Ejecutivo del Estado podrá suscribir con otros estados de la República convenios o acuerdos de coordinación y colaboración administrativa, con el propósito de atender y resolver problemas ambientales comunes y ejercer sus atribuciones a través de las instancias que al efecto determinen, atendiendo a lo dispuesto en las leyes locales que resulten aplicables. Las mismas facultades podrán ejercer los ayuntamientos entre sí o con otros de entidades federativas diferentes, de conformidad con lo que establezcan las disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 17.
 
-Los convenios o acuerdos de coordinación que suscriba el Ejecutivo del Estado, con la Federación, con otros estados y con los municipios, deberán sujetarse a las siguientes bases:
+Los convenios o acuerdos de coordinación que suscriba el Ejecutivo del Estado, con los gobiernos federal, de otros estados y de los municipios, deberán sujetarse a las siguientes bases:
 
 I.- Definirán con precisión las materias y actividades que constituyan el objeto del convenio o acuerdo;
 
@@ -487,7 +545,9 @@ VII.- Que el aprovechamiento óptimo de los recursos naturales renovables debe r
 
 VIII.- Que los recursos naturales no renovables deben ser aprovechados de manera racional y evitarse su explotación, de modo que se impida el peligro de su agotamiento y la generación de efectos ecológicos adversos;
 
-IX.- Que la coordinación entre las dependencias y entidades de la Administración Pública Estatal y entre los distintos niveles de gobierno y la concertación con la sociedad, son indispensables para la eficacia de las acciones ecológicas;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+IX.- Que resulta indispensable, en el marco de los principios de fidelidad federal y municipal, la coordinación entre las dependencias y entidades de la Administración Pública Estatal y entre los distintos ordenes de gobierno y la concertación con la sociedad, como elementos esenciales para la eficacia de las acciones ecológicas;
 
 X.- Que los sujetos principales de la concertación ecológica incluye no sólo a los individuos, sino también a los grupos y organizaciones sociales. El propósito de la concertación de acciones ecológicas será el de reorientar la relación entre la sociedad y la naturaleza;
 
@@ -509,7 +569,9 @@ En la planeación y en la realización de las acciones a cargo de las dependenci
 
 Para tal efecto se promoverá la participación de las instituciones de educación superior y de investigación científica, así como de los representantes de los distintos grupos sociales de la entidad.
 
-El Plan Integral de Gobierno y Administración Municipal deberá incorporar la política ambiental, en los términos previstos en esta ley.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+El Plan de Desarrollo Municipal deberá incorporar la política ambiental, en los términos previstos en esta ley.
 
 ###### ARTICULO 21.
 
@@ -520,6 +582,10 @@ El Ejecutivo del Estado, en la planeación estatal de desarrollo, utilizará los
 ###### ARTICULO 22.
 
 La formulación de los programas de Ordenamiento Ecológico del Estado se llevará a cabo de conformidad con lo dispuesto en esta ley. Así mismo, el Ejecutivo del Estado deberá promover la participación de autoridades municipales, grupos y organizaciones sociales y empresariales, instituciones académicas y de investigación, y demás personas interesadas, de conformidad con las disposiciones previstas en esta ley, así como en otras que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Las autoridades municipales participarán a través de los dictámenes que para tal efecto formulen, conforme a lo dispuesto en la fracción II del artículo 8° de esta ley y demás disposiciones aplicables.
 
 ###### ARTICULO 23.
 
@@ -647,9 +713,11 @@ VII.- Para la elaboración del Ordenamiento Ecológico municipal, en los términ
 
 #### SECCION III. De los Criterios Ecológicos en la Promoción del Desarrollo Estatal
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 28.
 
-En la planeación del desarrollo estatal y en la realización de obras o actividades de carácter público, las dependencias y entidades de la administración pública estatal y municipal, observarán los criterios ecológicos establecidos en esta ley y demás disposiciones que de ella emanen.
+En la planeación del desarrollo estatal y municipal y en la realización de obras o actividades de carácter público, las dependencias y entidades de la administración pública estatal y municipal, observarán los criterios ecológicos establecidos en esta ley y demás disposiciones que de ella emanen.
 
 ###### ARTICULO 29.
 
@@ -873,9 +941,15 @@ Las personas que presten servicios de impacto ambiental, serán responsables ant
 
 Así mismo, los informes preventivos y las manifestaciones de impacto ambiental podrán ser presentados por los interesados, instituciones de investigación, colegios o asociaciones profesionales, en este caso la responsabilidad respecto del contenido del documento corresponderá a quien lo suscriba.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 46.
 
-Las obras o actividades de competencia estatal no comprendidas en el artículo 38 de esta ley, cuando por su ubicación, dimensiones o características produzcan impactos ambientales significativos sobre el medio ambiente, en los términos previstos en la presente ley, serán evaluados por la Dirección con la participación de las autoridades municipales respectivas. En estos casos, la evaluación de impacto ambiental se podrá efectuar dentro de los procedimientos de autorización de uso de suelo, construcciones, fraccionamientos, u otros procedimientos que establezcan las leyes estatales y las disposiciones que de ellas se deriven. Dichos ordenamientos proveerán lo necesario a fin de hacer compatibles la política ambiental con la de desarrollo urbano y de evitar la duplicidad innecesaria de procedimientos administrativos en la materia.
+Las obras o actividades de competencia estatal no comprendidas en el artículo 38 de esta ley, cuando por su ubicación, dimensiones o características produzcan impactos ambientales significativos sobre el medio ambiente, en los términos previstos en la presente ley, serán evaluados por la Dirección oyendo la opinión y con la participación de las autoridades municipales respectivas.
+
+En estos casos, la evaluación de impacto ambiental se podrá efectuar dentro de los procedimientos de autorización de uso de suelo, construcciones, fraccionamientos u otros procedimientos que establezcan las leyes estatales y las disposiciones que de ellas se deriven.
+
+Dichos ordenamientos proveerán lo necesario a fin de hacer compatibles la política ambiental con la de desarrollo urbano y de evitar la duplicidad innecesaria de procedimientos administrativos en la materia.
 
 ###### ARTICULO 47.
 
@@ -929,25 +1003,35 @@ En todo caso, deberán observarse las disposiciones legales relativas a la confi
 
 #### SECCION VIII. De la Educación Ambiental e Investigación
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 52.
 
-La Dirección propiciará el fortalecimiento de la conciencia ambiental, a través de los medios de comunicación masiva, a fin de difundir la problemática ambiental de la entidad y sus posibles alternativas de solución.
+La Dirección y los ayuntamientos propiciarán el fortalecimiento de la conciencia ambiental, a través de los medios de comunicación masiva, a fin de difundir la problemática ambiental de la entidad y sus posibles alternativas de solución.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 53.
 
-La Dirección fomentará la realización de investigaciones científicas y promoverá programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, así como propiciar el aprovechamiento racional de los recursos y proteger los ecosistemas.
+La Dirección y los ayuntamientos, en sus correspondientes ámbitos de competencia, fomentarán la realización de investigaciones científicas y promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, así como propiciar el aprovechamiento racional de los recursos y proteger los ecosistemas.
 
 Para tal efecto, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 54.
 
-El Ejecutivo del Estado, por conducto de las autoridades competentes, llevará a cabo las siguientes actividades con el fin de impulsar la educación ambiental en la entidad:
+El Ejecutivo del Estado y, en su caso, los municipios, por conducto de las autoridades competentes, llevarán a cabo las siguientes actividades con el fin de impulsar la educación ambiental en la entidad o en sus respectivas jurisdicciones:
 
 I.- Elaborar programas educativos para los diferentes sectores de la sociedad con la finalidad de promover la reducción, reutilización y el reciclaje de los desechos sólidos domiciliarios;
 
-II.- Ofrecer asesoría a los municipios para la implementación de sistemas sobre manejo y disposición de los desechos sólidos municipales; y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-III.- Promover, en coordinación con los municipios y, en su caso, con las dependencias del Gobierno Federal, que se lleven a cabo programas de reforestación que se ejecuten.
+II.- Ofrecer asesoría para la implementación de sistemas sobre manejo y disposición de los desechos sólidos municipales; y
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+III.- Promover en coordinación, en su caso, con las dependencias del Gobierno Federal, que se lleven a cabo programas de reforestación.
 
 ## TITULO SEGUNDO. DE LA BIODIVERSIDAD
 
@@ -1053,7 +1137,9 @@ Las áreas naturales protegidas señaladas en el artículo 57 de esta ley, se es
 
 Previamente a la expedición de las declaratorias para el establecimiento de las áreas naturales protegidas a que se refiere el artículo anterior, se deberán realizar los estudios que lo justifiquen, en los términos de la presente ley, los cuales deberán ser puestos a disposición del público. Así mismo, el Ejecutivo del Estado deberá solicitar la opinión de:
 
-I.- Las administraciones municipales en cuyas circunscripciones territoriales se localice el área natural de que se trate;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+I.- Los gobiernos municipales en cuyas circunscripciones territoriales se localice el área natural de que se trate;
 
 II.- Las dependencias y entidades de las Administraciones Pública Federal y Estatal que deban intervenir, de conformidad con sus atribuciones;
 
@@ -1133,9 +1219,11 @@ Los núcleos agrarios y demás propietarios o poseedores de los predios en los q
 
 Si al declararse un área natural protegida se encuentra que en dicha área se realizan aprovechamientos de recursos naturales que causen o pudieren llegar a causar daños a los ecosistemas, el Ejecutivo del Estado, por conducto de la Dirección o, en su caso, los municipios correspondientes, podrán promover ante las autoridades competentes la cancelación de los permisos, licencias, concesiones o autorizaciones que al efecto se hayan otorgado; o bien las modificaciones que se estimen necesarias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 75.
 
-La Dirección, formulará dentro del plazo de un año contado a partir de la publicación de la declaratoria respectiva en el Periódico Oficial del Gobierno del Estado, el programa de manejo del área natural protegida de que se trate, dando participación a los habitantes, propietarios y poseedores de los predios en ella incluidos, a las demás dependencias y entidades competentes, a las administraciones municipales, en su caso, así como a organizaciones sociales, públicas o privadas, y demás personas interesadas.
+La Dirección formulará dentro del plazo de un año contado a partir de la publicación de la declaratoria respectiva en el Periódico Oficial del Gobierno del Estado, el programa de manejo del área natural protegida de que se trate, dando participación a los habitantes, propietarios y poseedores de los predios en ella incluidos, a las demás dependencias y entidades competentes, a los gobiernos municipales, así como a organizaciones sociales, públicas o privadas y demás personas interesadas.
 
 Una vez establecida un área natural protegida de competencia estatal, el Ejecutivo del Estado, deberá designar un Director del área de que se trate, quién será responsable de coordinar la formulación, ejecución y evaluación del programa de manejo correspondiente, de conformidad con lo dispuesto en esta ley y las disposiciones que de ella se deriven.
 
@@ -1159,31 +1247,39 @@ VII.- Las reglas de carácter administrativo a que se sujetarán las actividades
 
 El Ejecutivo del Estado deberá publicar en el Periódico Oficial del Gobierno del Estado un resumen del programa de manejo respectivo y el plano de localización del área.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 77.
 
-El Ejecutivo del Estado podrá, una vez que se cuente con el programa de manejo respectivo, otorgar a las administraciones municipales así como a ejidos, comunidades agrarias, grupos y organizaciones sociales, y empresariales y demás personas físicas o morales interesadas, la administración de las áreas naturales protegidas a que se refieren las fracciones I y II del Artículo 57 de esta ley. Para tal efecto, se deberán suscribir los acuerdos o convenios que conforme a la legislación aplicable procedan.
+El Ejecutivo del Estado podrá, una vez que se cuente con el programa de manejo respectivo, otorgar a los gobiernos municipales así como a ejidos, comunidades agrarias, grupos y organizaciones sociales, empresariales y demás personas físicas o morales interesadas, la administración de las áreas naturales protegidas a que se refieren las fracciones I y II del artículo 57 de esta ley. Para tal efecto, se deberán suscribir los acuerdos o convenios que conforme a la legislación aplicable procedan.
 
 Quienes en virtud de lo dispuesto en este artículo adquieran la responsabilidad de administrar las áreas naturales protegidas, estarán obligados a sujetarse a las previsiones contenidas en la presente ley, los reglamentos, normas oficiales mexicanas que se expidan en la materia, así como a cumplir los decretos por los que se establezcan dichas áreas y los programas de manejo respectivos.
 
 El Ejecutivo del Estado, a través de la Secretaría, deberá supervisar y evaluar el cumplimiento de los acuerdos y convenios a que se refiere este precepto. Así mismo, deberá asegurarse que en las autorizaciones para la realización de actividades en áreas naturales protegidas de competencia estatal se observen las previsiones anteriormente señaladas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 78.
 
-El Ejecutivo del Estado integrará el Registro Estatal de Areas Naturales Protegidas, en donde deberán inscribirse los decretos mediante los cuales se declaren las áreas naturales protegidas de interés estatal y los instrumentos que los modifiquen. Deberán consignarse en dicho Registro los datos de la inscripción de los decretos respectivos en las oficinas del Registro Público de la Propiedad que correspondan. Así mismo, se deberá integrar el registro de los certificados a que se refiere el Artículo 66 de esta ley.
+El Ejecutivo del Estado integrará el Registro Estatal de Áreas Naturales Protegidas, en donde deberán inscribirse los decretos mediante los cuales se declaren las áreas naturales protegidas de interés estatal y los instrumentos que los modifiquen. Deberán consignarse en dicho Registro los datos de la inscripción de los decretos respectivos en las oficinas del Registro Público que correspondan. Así mismo, se deberá integrar el registro de los certificados a que se refiere el Artículo 66 de esta ley.
 
 Cualquier persona podrá consultar el Registro Estatal de Areas Naturales Protegidas, el cual deberá ser integrado al Sistema Nacional de Información Ambiental y de Recursos Naturales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 79.
 
-Todos los actos, convenios y contratos relativos a la propiedad, posesión o cualquier derecho relacionado con bienes inmuebles ubicados en áreas naturales protegidas deberán contener referencia de la declaratoria correspondiente y de sus datos de inscripción en el Registro Público de la Propiedad.
+Todos los actos, convenios y contratos relativos a la propiedad, posesión o cualquier derecho relacionado con bienes inmuebles ubicados en áreas naturales protegidas deberán contener referencia de la declaratoria correspondiente y de sus datos de inscripción en el Registro Público.
 
 Los notarios y cualesquiera otros fedatarios públicos sólo podrán autorizar las escrituras públicas, actos, convenios o contratos en los que intervengan, cuando se cumpla con lo dispuesto en el presente artículo.
 
 #### SECCION IV. Del Sistema Estatal de Areas Naturales Protegidas
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 80.
 
-El Ejecutivo del Estado integrará el Sistema Estatal de Areas Naturales Protegidas, con el propósito de incluir en el mismo las áreas que por su biodiversidad y características ecológicas sean consideradas de especial relevancia en el estado. Así mismo, se consignarán en dicho sistema los datos a que se refiere el artículo 56 de la presente ley, contenidos en las declaratorias respectivas, así como su inscripción en el Registro Público de la Propiedad.
+El Ejecutivo del Estado integrará el Sistema Estatal de Áreas Naturales Protegidas, con el propósito de incluir en el mismo las áreas que por su biodiversidad y características ecológicas sean consideradas de especial relevancia en el estado. Así mismo, se consignarán en dicho sistema los datos a que se refiere el artículo 56 de la presente ley, contenidos en las declaratorias respectivas, así como su inscripción en el Registro Público.
 
 La integración de áreas naturales protegidas de competencia estatal, al Sistema Estatal de Areas Naturales Protegidas, requerirá la previa opinión favorable del Consejo Estatal de Areas Naturales Protegidas.
 
@@ -1485,7 +1581,9 @@ Quedan prohibidas las emisiones de ruido, vibraciones, energía térmica y lumí
 
 La Dirección supervisará y vigilará el adecuado cumplimiento de las normas oficiales mexicanas que en la materia objeto del presente capítulo, sean emitidas por la Federación.
 
-La Secretaría de Salud y Desarrollo Comunitario del Estado realizará los análisis, estudios, investigaciones y vigilancia necesarios, con el objeto de localizar el origen o procedencia, naturaleza, grado, magnitud y frecuencia de las emisiones para determinar cuando se producen daños a la salud.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
+La Secretaría de Salud del Estado realizará los análisis, estudios, investigaciones y vigilancia necesarios, con el objeto de localizar el origen o procedencia, naturaleza, grado, magnitud y frecuencia de las emisiones para determinar cuando se producen daños a la salud.
 
 La Secretaría, en coordinación con organismos públicos o privados, nacionales o internacionales, integrará la información relacionada con estos tipos de contaminación, así como de métodos y tecnología de control y tratamiento de las emisiones contaminantes.
 
@@ -1751,9 +1849,11 @@ VI.- La infraestructura para la dotación de servicios básicos.
 
 La realización de las actividades industriales, comerciales o de los servicios considerados como no altamente riesgosas, que afecten el equilibrio de los ecosistemas o el ambiente dentro de la circunscripción territorial del estado, se llevarán a cabo con apego en lo dispuesto por esta ley, las disposiciones reglamentarias que de ella emanen y las normas oficiales mexicanas que resulten aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 155.
 
-El estado y los municipios deberán de coordinar sus acciones respecto de las actividades a que se refiere este capítulo.
+El estado y los municipios deberán, en los términos de las disposiciones aplicables y en el marco del principio de fidelidad municipal, coordinar sus acciones respecto de las actividades a que se refiere este capítulo.
 
 ###### ARTICULO 156.
 
@@ -2304,3 +2404,45 @@ LIC. ROGELIO RAMOS ORANDAY
 LA SECRETARIA DE SALUD Y DESARROLLO COMUNITARIO
 
 DRA. LOURDES QUINTANILLA RODRIGUEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE MARZO DE 2001.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado en coordinación con todos los Ayuntamientos de la entidad, antes del inicio del ejercicio fiscal del año 2002, establecerán los criterios necesarios para que los valores unitarios de suelo y de construcción que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, sean equiparables a los valores del mercado de dicha propiedad y procederán, en su caso, a realizar las reformas o adiciones legales correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
+
+Para tal efecto, el Congreso del Estado a través de la Comisión de Finanzas coordinará, a partir de la entrada en vigor de este decreto, un programa con los municipios para definir los criterios proporcionales y equitativos que se deben establecer para fijar la base de las contribuciones sobre la propiedad inmobiliaria, de conformidad con las disposiciones aplicables.
+
+En este programa deberá participar el Instituto Coahuilense del Catastro y la Información Territorial como órgano de apoyo y asesoría necesaria.
+
+###### ARTÍCULO TERCERO.
+
+Los juzgados de conciliación deberán continuar con la denominación y competencia que actualmente tienen, hasta el treinta y uno de agosto del año dos mil uno, fecha en que concluirán sus funciones, quedando sin efecto los nombramientos de sus titulares. Consecuentemente, las disposiciones contenidas en los artículos de la Ley Orgánica del Poder Judicial que hagan referencia a los juzgados de conciliación estarán en vigor hasta la fecha señalada, con excepción de lo dispuesto en la fracción I del artículo 43.
+
+El personal que formaba parte de los Juzgados de Conciliación podrán integrar los juzgados municipales que establece el Código Municipal, según lo acuerde el Ayuntamiento respectivo.
+
+En todo caso, se deberán respetar los derechos laborales del personal que formaba parte de los Juzgados de Conciliación. Los ayuntamientos emitirán los acuerdos necesarios para regularizar su situación laboral y su reorganización dentro de la administración pública municipal.
+
+Hasta en tanto el Consejo de la Judicatura determine nuevos distritos judiciales, seguirán vigentes, para todos los efectos legales, los ocho distritos previstos en el texto anterior del artículo 5° de la Ley Orgánica del Poder Judicial, que ahora se reforma; y que tienen como cabecera las ciudades de: Saltillo, Monclova, Sabinas, Piedras Negras, Acuña, Torreón, San Pedro de las Colonia y Parras de la Fuente.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos dentro del plazo de un año contado a partir de la entrada en vigor de este decreto, deberán instalar las Unidades Municipales de Protección Civil, según sus necesidades, condiciones y particularidades socioeconómicas.
+
+Estas unidades formarán parte de la administración pública municipal, según el acuerdo que emita el Ayuntamiento.
+
+En aquellos municipios que no cuenten con estas unidades, el Ejecutivo del Estado a través de la instancia correspondiente podrá coadyuvar, colaborar o sustituir la función de las mismas hasta en tanto el municipio pueda asumir plenamente esta función.
+
+###### ARTÍCULO QUINTO.
+
+Dentro del plazo de un año contado a partir de la entrada en vigor de este decreto, los ayuntamientos deberán adecuar su reglamentación, acuerdos, circulares y demás disposiciones generales.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones en contrario.
