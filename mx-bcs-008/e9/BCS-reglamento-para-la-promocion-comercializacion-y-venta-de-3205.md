@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-para-la-promocion-comercializacion-y-venta-de-3205"
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-04-20"
-last_updated: "1990-04-20"
+last_updated: "1991-06-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 REGLAMENTO PARA LA PROMOCION, COMERCIALIZACION Y VENTA DE INMUEBLES, CONDOMINIOS E INMUEBLES EN TIEMPO COMPARTIDO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 1991.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 20 de abril de 1990.
 
@@ -47,7 +47,7 @@ REGLAMENTO PARA LA PROMOCION, COMERCIALIZACION Y VENTA DE INMUEBLES, CONDOMINIOS
 
 PRIMERO:- En el Municipio de Los Cabos todas las personas físicas o morales que pretendar (sic) ejercer las actividades que se señalan y clasifican en el articulo siguiente, deberán solicitar por escrito la Licencia correspondiente en la forma y términos que señala este Reglamento.
 
-ART. 2.- Son materia de este Reglamento todas las acciones que realicen las personas físicas o morales, encaminadas a la promoción y comercialización de inmuebles en las siguientes modalidades:
+ART. 2 Son materia de este Reglamento todas las acciones que realicen las personas físicas o morales, encaminadas a la promoción y comercialización de inmuebles en las siguientes modalidades:
 
 I.- Arrendamiento.
 
@@ -205,15 +205,21 @@ II.- Emplear casetas o módulos para fines distintos de los autorizados en la li
 
 III.- Permitir o propiciar que los promotores o vendedores trabajen en la vía pública o demás lugares no autorizados por este Reglamento.
 
-ART. 27.- Por cualquier infracción al Reglamento en general o por violar las disposiciones contenidas en el Articulo 25 del mismo, los promotores o vendedores serán sancionados con una multa equivalente a diez días de salario mínimo que rija en la zona;
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1991)</small>
 
-La queja o denuncia de los turistas realizada por escrito y entregada personalmente en las Oficinas Municipales dará inicio al procedimiento que se menciona el Artículo 30.
+ART. 27.- Por cualquier infracción al Reglamento en general o por violar las disposiciones contenidas en el artículo 25 del mismo los promotores o vendedores serán sancionados con una multa equivalente a doscientos cincuenta (250) días de salario mínimo que rija en la zona.
+
+La queja o denuncia de los turistas realizadas por escrito y entregadas personalmente en las oficinas municipales dará inicio al procedimiento que se menciona en el artículo 30.
 
 ART. 28.- Las violaciones cometidas por la Empresa al presente Reglamento serán sancionadas en la siguiente forma:
 
-a) - Por cualquier violación a las disposiciones del presente Reglamento en general y en particular a las contenidas en las fracciones I y II del articulo 26, se aplicara una multa equivalente a treinta días de salario mínimo vigente en la región, si fuera la primera vez, por reincidir en algunas de dichas faltas, en la segunda ocasión se impondrá multa hasta por sesenta días del salario mínimo vigente; y si volviere a reincidir, se le cancelara definitivamente la licencia del o de las casetas o módulos en que se hubiere cometido la ultima violación.
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1991)</small>
 
-b) En caso de violación de la disposición contenida en la Fracción III del Articulo 26, se aplicara una multa por el importe de 60 días de salario mínimo, si reincidiere la empresa en una segunda ocasión, y si no obstante lo anterior reincidiere por tercera ocasión, se cancelara definitivamente la licencia Municipal, para operar tanto en la oficina principal, como en las casetas o módulos autorizados.
+a) - Por cualquier violación a las disposiciones del presente Reglamento en general y en particular a las contenidas en las fracciones I y II del articulo 26, se aplciara (sic) una multa equivalente a quinientos (500) días de salario mínimo vigente en la región, si fuera la primera vez, por reincidir en algunas de dichas faltas, en la segunda ocasión se impondrá multa de hasta por (1000) días del salario mínimo vigente; y si volviera a reincidir, se le cancelaría definitivamente la licencia del o de las casetas o módulos en que se hubiere cometido la ultima violación.
+
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 1991)</small>
+
+b) En caso de violación de la disposición contenida en la Fracción III del Articulo 26, se aplicara una multa por el importe de (1000) días de salario mínimo vigente, si reincidiera la empresa en una segunda ocasión, y si no obstante lo anterior reincidiere por tercera ocasión, se cancelara definitivamente la licencia Municipal, para operar tanto en la oficina principal, como en las casetas o módulos autorizados.
 
 c) Las anteriores sanciones a las Empresas se impondrán independientemente de las que se apliquen individualmente a los promotores o vendedores, según el caso de que se trate.
 
@@ -316,3 +322,9 @@ DECIMO REGIDOR.
 PROFR. JACINDO ROCHIN PINO
 
 SECRETARIO GENERAL.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+B.O. 20 DE JUNIO DE 1991.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA SUR.
