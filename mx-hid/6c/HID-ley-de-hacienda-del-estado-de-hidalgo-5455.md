@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-5455"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-29"
-last_updated: "1999-12-31"
+last_updated: "2000-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 29 de diciembre de 1990.
 
@@ -923,17 +923,71 @@ II. 17% para el sostenimiento de la Asistencia Pública; y
 
 III. 17% para el sostenimiento del Hospital del Niño DIF, del Estado.
 
-### CAPITULO I. De las Dependencias de la Secretaría de Gobernación
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-### CAPITULO II. DE LAS DEPENDENCIAS DE LA SECRETARIA DE FINANZAS
+### CAPÍTULO OCTAVO. DEL IMPUESTO PORLAPRESTACIÓN DE SERVICIOS DE HOSPEDAJE
+
+DEL OBJETO
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+ARTÍCULO 69 BIS.- Es objeto de este impuesto la prestación de servicios de hospedaje proporcionados dentro del territorio del Estado, ya sea de forma permanente o temporal, por hoteles, moteles, albergues, villas, bungalows, paraderos de casas rodantes, casas de huéspedes y otros establecimientos de similar naturaleza, en los que se incluyen prestadores de servicios bajo la modalidad de tiempo compartido.
+
+Para efectos de este impuesto, se entiende por prestación de servicios de hospedaje, el otorgamiento de alojamiento a cambio de una prestación en dinero o en especie.
+
+DEL SUJETO:
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+ARTÍCULO 69 BIS-A.- Son sujetos de este impuesto, las personas físicas o morales que presten los servicios a que se refiere el artículo anterior, incluyendo las agencias o sucursales cualquiera que sea su denominación, aún cuando tengan su domicilio fiscal en lugar distinto a la prestación del servicio.
+
+DE LA BASE:
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+ARTÍCULO 69 BIS-B.- Es base de este impuesto, el monto total de las contraprestaciones causadas, únicamente, por los servicios de hospedaje.
+
+DE LA TASA:
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+ARTÍCULO 69 BIS-C.- Este impuesto se pagará y determinará aplicando la taza del 2% a la base gravable.
+
+DEL PAGO DE IMPUESTO:
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+ARTÍCULO 69 BIS-D.- Los contribuyentes de este impuesto, deberán pagarlo al momento de liquidar el importe de los servicios.
+
+Los sujetos de este impuesto, deberán retener el mismo y enterarlo mensualmente dentro de los quince días siguientes al mes inmediato posterior al que se prestó el servicio, mediante los formatos aprobados por la Secretaría de Finanzas y Administración, que tendrá carácter de pagos provisionales a cuenta del entero anual que deberá presentar en el período del 1° al 30 de enero de cada año.
+
+DE LAS OBLIGACIONES:
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+ARTÍCULO 69 BIS-E.- Los sujetos de este impuesto, están obligados a:
+
+I.- Inscribirse en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas y Administración del Estado, dentro de los treinta días siguientes en que se coloquen en la hipótesis de causación del impuesto, mediante la utilización de las formas oficiales aprobadas por la misma Secretaría;
+
+II.- Trasladar a las personas usuarias del servicio de hospedaje, el impuesto a que se refiere este capítulo;
+
+III.- Presentar ante la Secretaría de Finanzas y Administración del Estado, los avisos respectivos de cambio de nombre o razón social, domicilio fiscal, suspensión o reanudación de actividades, fusión o escisión y terminación de actividades, dentro del término de quince días a en que se ocurra el hecho y
+
+IV.- Expedir facturas desglosadas en las que se señale el monto del impuesto por la prestación del servicio de hospedaje
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+ARTÍCULO 69 BIS-F.- No se causará el impuesto de hospedaje por el alojamiento prestado en: hospitales, clínicas, sanatorios, asilos, conventos, seminarios, internados, instituciones de asistencia o beneficencia autorizadas por las leyes correspondientes, ya sean públicos o privados, así como el prestado a estudiantes cuyo servicio derive de contratos de arrendamiento.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+ARTÍCULO 69 BIS-G.- El ingreso que perciba el Estado proveniente del impuesto a que se refiere este capítulo, se destinará al fomento, promoción y difusión del sector turismo de la entidad.
+
+### CAPITULO I. De las Dependencias de la Secretaría de Gobernación
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
-### CAPITULO III
-
-DE LAS DEPENDENCIAS DE LA SECRETARIA DE OBRAS PUBLICAS.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
+### CAPITULO II. DE LAS DEPENDENCIAS DE LA SECRETARIA DE FINANZAS
 
 ###### ARTICULO 70.
 
@@ -951,37 +1005,37 @@ II.- Por legalización en exhortos, en juicios mercantiles y ejecutivos civiles,
 
 III.- Si el monto es superior a la cantidad señalada en la fracción anterior, por cada $ 500.00 se cobrará $ 3.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-IV.- Si el monto es superior a la cantidad señalada en la fracción anterior, por cada $ 500,000 más, se cobrará $ 14.00
+IV.- Si el monto es superior a la cantidad señalada en la fracción anterior, por cada $ 500,000 más, se cobrará O.5 Salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-V.- Por la certificación de firmas para efectos de trámites de pasaportes de menores. $ 18.00
+V.- Por la certificación de firmas para efectos de trámites de pasaportes de menores.. O.5 Salarios mínimos
 
 VI.- (DEROGADA, P.O. 29 DE DIDICEMBRE DE 1995)
 
 VII.- Por emisión de opinión favorable del Ejecutivo del Estado, para uso, consumo y almacenamiento de explosivos y sus artificios, se pagarán los derechos en la forma siguiente:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-a)Opinión para Paraestatales, Proveedores y Macroindustrias. 345.00
+a) Opinión para Paraestatales, Proveedores y Macroindustrias. 12 Salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-b). Opinión para mediana industria. $ 173.00
+b). Opinión para mediana industria. 6 Salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-c). Opinión para macroindustria y Empresas Ejidales. $ 115.00
+c). Opinión para macroindustria y Empresas Ejidales. 4 Salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-d). Opinión para el uso de explosivos por una sola vez en obras pequeñas de carácter municipal. $ 58.00
+d). Opinión para el uso de explosivos por una sola vez en obras pequeñas de carácter municipal. 2 Salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-VIII. Por la inscripción de la apostilla para certificar la autenticidad de la firma, la calidad en que el signatario del documento haya actuado y, en su caso, la identidad del sello o timbre del documento. $50.00
+VIII. Por la inscripción de la apostilla para certificar la autenticidad de la firma, la calidad en que el signatario del documento haya actuado y, en su caso, la identidad del sello o timbre del documento. 2 salarios mínimos
 
 ###### ARTICULO 71.
 
@@ -1191,9 +1245,9 @@ Por cancelación de cualquiera de los actos contenidos en este artículo, se pag
 
 Los derechos generados por la inscripción de actos contenidos en documentos relativos a personas morales, se causarán y pagarán de la manera siguiente:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-I. Por escrituras constitutivas o aumento de capital...........conforme a la tarifa del artículo 88 ter.
+I. Por escrituras constitutivas o aumento de capital...........50% de la tarifa del artículo 88 ter.
 
 En las sociedades de capital variable se tomará como base el capital suscrito.
 
@@ -1371,9 +1425,9 @@ Si por cualquier causa el documento se devuelve sin inscripción, siempre que no
 
 Se subsidiará el pago de derechos correspondiente a los servicios prestados por el Registro Público de la Propiedad y del Comercio, hasta el 100%, cuando se originen por:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-I. La Federación, el Estado o los Municipios.
+I. El Estado y los Municipios.
 
 II. La Beneficencia Pública del Estado; y
 
@@ -1429,11 +1483,11 @@ VI.- Por aclaraciones o rectificaciones no imputables al registro. 1 salario mí
 
 VII.- Por ratificación de firmas 1 salario mínimo
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 87.
 
-Por la inscripción de créditos o reestructuración de los mismos cuando exista novación de contrato, otorgados por instituciones de crédito nacionales o extranjeras, que tengan como finalidad el apoyo de la industria instalada o por instalarse en el Estado, así como, a las empresas que impulsen la producción del campo, se cobrará sobre el monto del crédito ..............................50 % de la tarifa del artículo 88 Ter.
+Por la inscripción de créditos o reestructuración de los mismos cuando exista novación de contrato, otorgados por instituciones de crédito nacionales o extranjeras, que tengan como finalidad el apoyo de la industria instalada o por instalarse en el Estado, así como, a las empresas que impulsen la producción del campo, se cobrará sobre el monto del crédito .............................25 % de la tarifa del artículo 88 Ter.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -1465,45 +1519,53 @@ Para efectos de la cuantificación de los derechos a pagar de acuerdo con la pre
 
 Los derechos por la prestación de los servicios del Estado, a través de la Dirección del Registro Familiar, se causarán y pagarán de la siguiente forma:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-I.- Por la expedición de copia certificada de acta $ 10.00
+I.- Por la expedición de copia certificada de acta 0.5 salario mínimo
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-II.- Por la expedición de copia certificada de acta urgente $ 18.00
+II.- Por la expedición de copia certificada de acta urgente 1 salario mínimo
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-III.- Por constancia de inexistencia de Registro en libro $ 10.00
+III.- Por constancia de inexistencia de Registro en libro 0.5 salario mínimo
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-IV.- Por copia fotostática de constancias en libro $ 10.00
+IV.- Por copia fotostática de constancias en libro 0.5 salario mínimo
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-V.- Por el procedimiento administrativo de corrección de actas. $ 100.00
+V.- Por el procedimiento administrativo de corrección de actas. 3 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-VI.- Por inscripción de resolución administrativas $ 30.00
+VI.- Por inscripción de resolución administrativas 1 salario mínimo
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-VII.- Por inscripción de sentencia y juicio de rectificación, nulidad o reposición de actas. $ 45.00
+VII.- Por inscripción de sentencia y juicio de rectificación, nulidad o reposición de actas. 2 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-VIII.- Por inscripción de anotación de reconocimientos y adopción $ 40.00
+VIII.- Por inscripción de anotación de reconocimientos y adopción 2 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-IX.- Por la inscripción de capitulaciones matrimoniales $ 12.00
+IX.- Por la inscripción de capitulaciones matrimoniales 0.5 salario mínimo
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-X.- Por inscripción de sentencia de divorcio. $ 40.00
+X.- Por inscripción de sentencia de divorcio. 2 salarios mínimos
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+XI.- Por la búsqueda del acta, cuando no se presentan datos del registro, por los tres primeros años. 0.5 del salario mínimo.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+XII.- Por cada año siguiente del concepto de la fracción anterior 0.5 del salario mínimo.
 
 ###### ARTICULO 90.
 
@@ -1515,29 +1577,29 @@ II.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1994)
 
 III. De las Licencias para conducir.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-A) Expedición de Licencia de Chofer 3 salarios minimos
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-B) Expedición de Licencia de Automovilista 3 salarios minimos
+A) Expedición de Licencia de Chofer 4 salarios mínimos
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-C) Expedición de Licencia de Motociclista 2 salarios minimos
+B) Expedición de Licencia de Automovilista 3 salarios mínimos
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+C) Expedición de Licencia de Motociclista 2.5 salarios mínimos
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+D) Canje de Licencia de Chofer 3 salarios mínimos
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-D) Canje de Licencia de Chofer 2 salarios minimos
+E) Canje de Licencia de Automovilista 2 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-E) Canje de Licencia de Automovilista 2 salarios minimos
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-F) Canje de Licencia de Motociclista 1.5 salarios minimos
+F) Canje de Licencia de Motociclista 2 salarios mínimos
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -1581,13 +1643,21 @@ A).(DEROGADA, P.O. 31 DE DICIEMBRE DE 1996)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-B). Permiso provisional para conducir sin licencia 2 salarios minimos
+B). Permiso provisional para conducir sin licencia 2 salarios mínimos
 
 Los permisos a que se refieren los incisos de esta fracción serán hasta por 30 días.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
-C). Permisos provisionales de carga 8 salarios minimos
+C). Permisos provisionales de carga 8 salarios mínimos
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+1.- Se expedirán a los contribuyentes que se encuentren en las condiciones siguientes:
+
+Los que se encuentren inscritos ante la Secretaría de Hacienda y Crédito Público, que exhiban tarjeta de circulación en la que se establezca el uso a que se dedica, hasta por un año 8 salarios mínimos.
+
+Los que realicen actividades eventuales, que exhiban tarjeta de circulación con uso particular, hasta por 72 horas 1 salario mínimo.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -1971,7 +2041,9 @@ VI. Por expedición de constancias de inscripción o de no inscripción de testa
 
 ARTICULO 91 BIS.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1996)
 
-### CAPITULO IV. DE LAS DEPENDENCIAS DE LA UNIDAD DE LA CONTRALORIA
+### CAPITULO III
+
+DE LAS DEPENDENCIAS DE LA SECRETARIA DE OBRAS PUBLICAS.
 
 ###### ARTICULO 92.
 
@@ -1979,31 +2051,31 @@ Los derechos por la prestación de los servicios del Estado, a través de la Dir
 
 I. Por la expedición de copias certificadas:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-A) Por la primera hoja $ 10.00
+A) Por la primera hoja 0.5 salarios mínimos
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 B) Por cada hoja excedente $ 5.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-II. Por certificaciones $ 12.00
+II. Por certificaciones 0.5 salarios mínimos
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 III. Por la expedición de formas aprobadas $ 6.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-IV. Por la expedición de constancias de no adeudo de Impuestos o créditos fiscales estatales $ 12.00
+IV. Por la expedición de constancias de no adeudo de Impuestos o créditos fiscales estatales 0.5 salarios mínimos
 
 V. Por la expedición de copias certificadas de la orden de visita, de las actas parciales o de las acta finales de auditoría:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-A) Por la primera hoja $ 10.00
+A) Por la primera hoja 0.5 salarios mínimos
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -2011,9 +2083,9 @@ B) Por cada hoja excedente $ 5.00
 
 VI. Por la expedición de copias certificadas de cualquier otro documento que contenga el expediente de auditoria:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-A) Por la primera hoja $ 10.00
+A) Por la primera hoja 0.5 salarios mínimos
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -2021,9 +2093,9 @@ B) Por cada hoja excedente $ 5.00
 
 VII. Por la expedición de copias certificadas de cualquier otro documento que se encuentre en los archivos de esta Dirección General.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-A) Por la primera hoja $ 10.00
+A) Por la primera hoja 0.5 salarios mínimos
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
@@ -2033,9 +2105,9 @@ B) Por cada hoja excedente $ 4.00
 
 VIII. De los vehículos particulares:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-A) Alta de placas. 2.5 salarios mínimos
+A) Alta de placas. 5 salarios mínimos
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -2049,9 +2121,9 @@ c) Bajas. 1 salario mínimo
 
 d) Reposición de tarjetas de circulación. 2 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-e) Placas de remolque. 2.5 salarios mínimos
+e) Placas de remolque. 5 salarios mínimos
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -2061,29 +2133,29 @@ f) Permiso anual para el uso de placas de demostración. 8 salarios mínimos
 
 g) Expedición del registro anual de control vehicular 8 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-h) Permiso provisional para circular sin placas 3 salarios mínimos
+h) Permiso provisional para circular sin placas 2.5 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-I) Expedición de placas para vehículo antiguo 1.5 salarios mínimos
+I) Expedición de placas para vehículo antiguo 5 salarios mínimos
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1997)</small>
 
 J) El canje extemporáneo de placas y engomado, dará lugar al cobro de recargos conforme a lo dispuesto por la Ley de Ingresos del Estado.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-K).- Canje de placas 2 salarios mínimos
+K).- Canje de placas 5 salarios mínimos
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 IX. De los vehículos de servicio publico:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-A) Alta y canje de placas 2.5 salarios mínimos
+A) Alta y canje de placas 5 salarios mínimos
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -2103,9 +2175,9 @@ e) Reposición de tarjeta de circulación. 1 salario mínimo
 
 f) Expedición del registro anual de control vehicular. 2 salarios mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-G) Canje de placas 2.5 salarios mínimos
+G) Canje de placas 5 salarios mínimos
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1997)</small>
 
@@ -2119,9 +2191,9 @@ A) Tratándose de altas y bajas de vehículos particulares y del servicio public
 
 b) La expedición del registro anual del control vehicular, para los vehículos particulares y del servicio publico, se pagaran durante los meses de enero, febrero y marzo de cada año.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-XI.- Por las consultas realizadas a otros Estados o a dependencias privadas o públicas, que se realicen con el fin de obtener información le legalización de vehículos extranjeros, de pagos de impuesto federales realizados en otros Estados o de verificación documental..........$ 30.00
+XI.- Por las consultas realizadas a otros Estados o a dependencias privadas o públicas, que se realicen con el fin de obtener información le legalización de vehículos extranjeros, de pagos de impuesto federales realizados en otros Estados o de verificación documental..........2 salarios mínimos
 
 ###### ARTICULO 93.
 
@@ -2129,13 +2201,25 @@ Los derechos por la prestación de los servicios del Estado a través de la Proc
 
 I. Por la expedición de copias certificadas de cualquier documento contenido en les expedientes que se encuentran en los archivos de esta Oficina.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-A) Por la primera hoja $ 10.00
+A) Por la primera hoja 0.5 salarios mínimos
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 B) Por cada hoja excedente $ 5.00
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+### CAPITULO IV. DE LAS DEPENDENCIAS DE LA UNIDAD DE LA CONTRALORIA
+
+###### ARTÍCULO 94.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2000)
+
+###### ARTICULO 95.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1994)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
@@ -2147,275 +2231,53 @@ DESARROLLO REGIONAL
 
 Articulo 96 bis.- Los derechos por la prestación de los servicios del estado, a través de la Dirección General de Conservación de Carreteras Estatales, se causarán y pagarán de la siguiente forma:
 
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-I.-Por la autorización para la construcción de accesos que afecten el derecho de vía en carreteras y puentes estatales incluyendo la supervisión de obra;..........................$2, 300.00
+I.-Por la autorización para la construcción de accesos que afecten el derecho de vía en carreteras y puentes estatales incluyendo la supervisión de obra; 80 salarios mínimos
 
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-II.-Por la autorización para la construcción de obras de paradores, que afecten el derecho de vía en carreteras y puentes estatales incluyendo la supervisión de obra;................... $ 345.00
+II.-Por la autorización para la construcción de obras de paradores, que afecten el derecho de vía en carreteras y puentes estatales incluyendo la supervisión de obra; 12 salarios mínimos.
 
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-III.-Por cruzamiento de carretera; ....................................................................$ 345.00
+III.-Por cruzamiento de carretera; 12 salarios mínimos.
 
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-IV.-Por instalación marginal, y;.................................. ................ .......................$2,300.00
+IV.-Por instalación marginal, y 80 salarios mínimos
 
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-V.-Por adosamiento en puentes.................... ................. ................ .................$ 345.00
+V.-Por adosamiento en puentes. 12 salarios mínimos
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-###### ARTICULO 94.
-
-Los derechos por la prestación de los servicios del Estado, a través de la Dirección General de Desarrollo Urbano, se causarán y pagarán de la siguiente forma:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-I. por el dictamen de uso del suelo para uso habitacional
-
-comercial y de servicios, por predio $ 69.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-II. por el dictamen de uso de suelo industrial, por predio. $ 173.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-III. por el dictamen de uso de suelo para subdivisiones,
-
-por predio $ 173.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-IV. por el dictamen de uso del suelo para fraccionamientos,
-
-por predio. $ 230.00
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-V. el dictamen a que se refieren las fracciones anteriores, tendrá vigencia de un año y su prorroga o revalidación causara el 50% de la cuota correspondiente.
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-VI. por fusión de predios SIN COSTO
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-VII. La autorización para venta y escrituración en régimen
-
-de propiedad en condominio, pagara tomando como base
-
-una zona de las áreas de propiedad exclusiva y común,
-
-por metro cuadrado. $ 7.00
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-VIII. La autorización para subdivisiones y fraccionamientos, causaran y pagaran el 8.0% del valor de la superficie del terreno, tomando como base el avalúo catastral o bancario en zonas no catastradas sujeto a verificación a cargo de la autorización y el 7.5% del valor de las obras de urbanización;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-IX Las regularizaciones, causaran y pagaran las cuotas establecidas en la fracción anterior mas una multa del 50% del total a pagar;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-X. Por las relotificaciones en subdivisiones o fraccionamientos, se cobrara el 30% de la cuota señalada en las fracciones VIII y IX;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-XI. Por el registro para ejercer como director responsable
-
-de obra en materia de construcción, planificación urbanística y
-
-régimen de propiedad en condominio. $ 69.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-XII. Por el registro de perito valuador. $ 69.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-XIII. Por el refrendo anual del director responsable de obra. $ 58.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-XIV. Por el refrendo anual de perito valuador. $ 58.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-XV. Copias de contacto (foto area vert) formato 23x23 cms.,
-
-peso sencillo color blanco y negro, por pieza. $ 23.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-XVI. Amplificación en papel plástico o película 1.00x1.00m.,
-
-por metro cuadrado $ 219.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-XVII. Hojas de mosaico (fotografías) en papel peso doble tamaño
-
-50x60 cms. por pieza. $ 288.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-XVIII. Croquis de colocación de puntos topográficos, copia xerox,
-
-por pieza. $ 40.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-XIX. Copia de plano manzanero, Heliográfica $ 46.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-XX. La inscripción de predios y examen de los planos en las
-
-casas de fraccionamientos urbanizados por cada manzana. $ 173.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-XXI. En caso de fraccionamiento, para verificar la poligonal del terreno. _______ $ 98.00
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-XXII. Levantamiento topográfico, incluye plano y cuadro de construcción hasta:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-a) de 0 hasta 5,000 m2. _____________________ $ 138.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-b) de 5001 hasta 10,000 m2. _________________ $ 403.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-c) hasta 2 has. ___________________________ $ 288.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-d) de 2 a 5 has. ___________________________ $ 58.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-e) de 5 a 10 has. __________________________ $ 115.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-f) de 10 a 20 has. _________________________ $ 104.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-g) de 20 a 50 has. _________________________ $ 81.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-h) de 50 a 100 has. ________________________ $ 46.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-i) de mas de 100 has. ______________________ $ 40.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-XXIII. El certificado o certificación del valor catastral. ___________ $ 29.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-XXIV. El certificado o certificación de la ubicación del predio en
-
-fraccionamiento autorizado $ 115.00
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-XXV. Aprobación, registro de planos y otorgamiento de
-
-claves catastrales por m2. $ 1.00
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-XXVI. La practica de avalúos realizados por peritos designados por la Dirección de Catastro a solicitud del interesado, se cobrara de acuerdo a la siguiente tarifa:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
-
-a) Por los primeros $ 5,000. _______________ $ 40.00
-
-b) Por el excedente de $ 5,000. _____________ 1.0 al millar
-
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
-
-XXVII. Todos los demás de catastro y desarrollo urbano, causaran y pagaran un derecho de $ 40.00 por cada hoja carta que se expida;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-XXVIII. Los documentos que la Dirección General de Desarrollo Urbano, expida a las dependencias de la federación, entidades federativas, municipios y a sus organismos descentralizados, así como a los Tribunales de Justicia, pagaran el 50% de la cuota señalada en la fracción anterior;
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-XXIX. Por la expedición de copias certificadas de cualquier documento que obre en el archivo de la Secretaría:
-
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
-
-a) Por la primera hoja. ____________________ $ 10.00
-
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
-
-b) Por cada hoja adicional. _________________ $ 5.00
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-XXX. Todas las personas físicas o morales que construyan viviendas de interés social y popular cuyo costo no rebase los 186 salarios mínimos elevados al mes, de la zona económica donde se ubiquen podrán solicitar subsidio en el pago de los derechos previstos en este articulo, ante la Secretaria de Finanzas y Administración para su análisis y resolución correspondiente, y;
-
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
-
-XXXI. Restitución fotogrametrica esc. 1: 1,000 con vuelo actualizado "1990" de 54 hectáreas con curvas de nivel a un metro en heliografica formato 90 x 60 cms., por pieza........................... $ 1, 150.00
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1997)</small>
-
-XXXII.- Copia de plano de la localidad en papel bond formato de 90 X 60 cms., por cada pieza..........................................................$ 50.00
-
-###### ARTICULO 95.
-
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1994)
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-### CAPITULO V
-
-DE LAS DEPENDENCIAS DE LA SECRETARIA DE DESARROLLO SOCIAL.
 
 ###### ARTICULO 96.
 
 Los derechos por la prestación de los servicios del Estado, a través de la Dirección General de Responsabilidades y Situación Patrimonial, se causarán y pagarán de la siguiente forma:
 
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-I.- Por la inscripción en el registro de proveedores $ 230.00
+I.- Por la inscripción en el registro de proveedores 7 salarios mínimos
 
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-II. Por la inscripción en el padrón de contratistas $ 230.00
+II. Por la inscripción en el padrón de contratistas 7 salarios mínimos
 
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-III. Por el refrendo anual al Padrón de contratistas $ 230.00
+III. Por el refrendo anual al Padrón de contratistas 7 salarios mínimos
 
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-IV. Por la expedición de Constancia de No Inhabilitación, para desempeñar cargo público $6.00
+IV. Por la expedición de Constancia de No Inhabilitación, para desempeñar cargo público 0.5 salarios mínimos.
 
 V. Por la expedición de copias certificadas de cualquier documento existente en los archivos de esta Dirección General:
 
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
+REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)
 
-A) Por la primera hoja $ 10.00
+A) Por la primera hoja 0.5 SALARIOS MINIMOS
 
 REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
 
@@ -2423,9 +2285,23 @@ B) Por cada hoja excedente $ 5.00
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
+### CAPITULO V
+
+DE LAS DEPENDENCIAS DE LA SECRETARIA DE DESARROLLO SOCIAL.
+
 ### CAPITULO VI
 
 DE LAS DEPENDENCIAS DE LA SECRETARIA DE DESARROLLO ECONOMICO.
+
+###### ARTICULO 97.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1994)
+
+###### ARTICULO 97 Bis.
+
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1994)
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
 ### Capitulo VII. De las dependencias de la
 
@@ -2441,15 +2317,21 @@ a) Por la primera hoja. $ 5.00
 
 b) Por cada hoja excedente. $ 2.00
 
-c) Por la certificación de las mismas. $ 25.00
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-II. Por la elaboración de peritajes. $ 50.00
+c) Por la certificación de las mismas. 1 salario mínimo
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+II. Por la elaboración de peritajes. 2 salarios mínimos
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 III. Por la práctica de examen antidoping 12.5 salarios mínimos
 
-IV. Por la práctica de examen toxicológico. $ 50.00
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+IV. Por la práctica de examen toxicológico. 2 salarios mínimos
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -2457,27 +2339,15 @@ V. Por la expedición de certificados de no antecedentes penales. 1 salario mín
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-###### ARTICULO 97.
-
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1994)
-
-###### ARTICULO 97 Bis.
-
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1994)
-
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-### CAPITULO VIII. DE LOS ORGANISMOS DESCENTRALIZADOS
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
 ###### ARTICULO 98.
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1994)
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
-### CAPITULO UNICO
+### CAPITULO VIII. DE LOS ORGANISMOS DESCENTRALIZADOS
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ### CAPITULO UNICO
 
@@ -2490,8 +2360,6 @@ Los recursos que recauden deberán ser ingresados a la Secretaria de Finanzas y 
 ## TITULO IV. DE LOS PRODUCTOS
 
 ### CAPITULO UNICO
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 99.
 
@@ -2511,73 +2379,79 @@ VI. Los productos por conceptos diversos de los señalados en este artículo, pa
 
 VII. Las publicaciones en el Periódico Oficial del Estado, se pagarán de acuerdo a la siguiente tarifa:
 
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-A)Por publicación de avisos y documentos que deben hacerse
+A)Por publicación de avisos y documentos que deberán hacerse por disposición de Ley, (remates, edictos y avisos diversos). Por una sola vez 1.5 salarios mínimos.
 
-por disposición de la Ley, se pagarán por palabra $ 6.00
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
+B)Por las publicaciones en el Periódico Oficial, hasta media plana 5 salarios mínimos
 
-B)Por las publicaciones en el Periódico Oficial, hasta media plana $ 31.00
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)
-
-C)Por la publicación en el Periódico Oficial, hasta una plana $ 52.00
+C)Por la publicación en el Periódico Oficial, hasta una plana 10 salarios mínimos
 
 VIII. La venta del Periódico Oficial de Estado, se pagará de acuerdo a la siguiente tarifa:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-A)Por la suscripción durante un año 16 salarios mínimos
+A)Por la suscripción durante un año 17 salarios mínimos
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-B)Por la suscripción durante seis meses 8 salarios mínimos
+B)Por la suscripción durante seis meses 9 salarios mínimos
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-C) Por la suscripción durante tres meses 4 salarios mínimos
+C) Por la suscripción durante tres meses 5 salarios mínimos
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-D)Por la suscripción durante un mes 2 salarios mínimos
+D)Por la suscripción durante un mes 3 salarios mínimos
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 E) El costo de un ejemplar a la fecha 0.5 salarios mínimos
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-F) El costo de un ejemplar atrasado hasta un año 0.5 salarios mínimos
+F) El costo de un ejemplar atrasado hasta un año 1 salario mínimo
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-G)El costo de un ejemplar del año inmediato anterior 0.5 salarios mínimos
+G)El costo de un ejemplar del año inmediato anterior 1.5 salarios mínimos
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-H)Por cada año atrasado, se pagará el costo mas 0.5 salarios mínimos
+H)Por cada año atrasado, se pagará el costo mas 1 salario mínimo
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-I).- El costo de cada uno de los tomos de la miscelánea fiscal, estatal o municipal.....................................................................................................1 salario mínimo
+I).- El costo de cada uno de los tomos de la miscelánea fiscal, estatal o municipal.....................................................................................................1.5 salario mínimo
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 IX.- Por la expedición de copias del Periódico Oficial del Estado:
 
-A) Por cada hoja simple $ 10.00
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
-B) Por cada hoja excedente $ 5.00
+A) Por cada hoja simple $ 3.00
 
-C) Por las primeras cinco hojas certificadas $ 28.00
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+B) Por cada hoja excedente $ 2.00
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+C) Por las primeras cinco hojas certificadas 1 salario mínimo
 
 D) Por cada hoja excedente $ 10.00
 
 ## TITULO V. DE LOS APROVECHAMIENTOS
 
 ### CAPITULO UNICO
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 100.
 
@@ -2604,6 +2478,8 @@ VIII. Las Herencias legales y donaciones que sean a favor del Estado; y
 IX. Las Indemnizaciones.
 
 ## TITULO VI. DE LAS PARTICIPACIONES
+
+### CAPITULO UNICO
 
 ###### ARTICULO 101.
 
@@ -2738,3 +2614,11 @@ P.O. 31 DE DICIEMBRE DE 1999.
 PRIMERO.- El presente decreto entrará en vigor el día 1o. de enero del año 2000, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O 30 DE DICIEMBRE DE 2000.
+
+PRIMERO.- El presente decreto entrará en vigor el día I° de enero de 2001, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Al entrar en vigor el Código Fiscal del Estado que se contiene en el presente decreto, queda abrogado el Código Fiscal del Estado de Hidalgo publicado el 31 de diciembre de 1981en en Periódico Oficial de la Entidad.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
