@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2003-12-01"
+last_updated: "2004-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO PENAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE JULIO DE 2004.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -117,11 +117,11 @@ Delito continuado es aquél que se comete con pluralidad de conductas procedente
 
 ### CAPÍTULO III. DELITOS GRAVES
 
-> <small>(REFORMADO, P.O. 1 DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, D.O. 6 DE JULIO DE 2004)</small>
 
 ###### ARTÍCULO 13.
 
-Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves los siguientes: contra el orden constitucional, previsto por el artículo 137; rebelión, previsto por el artículo 139; evasión de presos, previsto por el artículo 153; corrupción de menores e incapaces, previsto por el artículo 208; trata de menores, previsto por el artículo 210; pornografía infantil, previsto por el artículo 211; incesto, previsto por el artículo 227; asalto, previsto por los artículos 237, 239 y 240; privación ilegal de la libertad, previsto por los artículos 241 fracción I y 242; comercio ilícito de bebidas alcohólicas en su modalidad de venta o distribución, previsto por el artículo 245, primer párrafo; tortura, previsto en la Ley para Prevenir y Sancionar la Tortura; violación, previsto por los artículos 313, 315 y 316; usura, previsto por el artículo 328; robo, previsto por el artículo 330, cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333; robo calificado previsto en el artículo 335 fracciones II, III, IV, VIII, IX y XI, cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333, y fracciones I, VI, VII, X, XII y XIII del mismo artículo independientemente del monto de lo robado; robo con violencia previsto en el artículo 336; robo de ganado mayor previsto por el artículo 339; robo de ganado menor previsto en el artículo 340 cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333; las conductas previstas en el artículo 347; daño en propiedad ajena por incendio o explosión previsto por los artículos 348 y 349; daño en propiedad ajena doloso, previsto por el artículo 350 cuando el importe de lo dañado sea el establecido en la fracción IV del artículo 333; lesiones, previsto por los artículos 360, 361, 362 y 363; homicidio doloso, previsto por el artículo 368 en relación con el 372, 378 y 384; y homicidio en razón del parentesco o relación, previsto por el artículo 394.
+Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves los siguientes: contra el orden constitucional, previsto por el artículo 137; rebelión, previsto por el artículo 139; evasión de presos, previsto por el artículo 153; corrupción de menores e incapaces, previsto por el artículo 208; trata de menores, previsto por el artículo 210; pornografía infantil, previsto por el artículo 211; incesto, previsto por el artículo 227; asalto, previsto por los artículos 237, 239 y 240; privación ilegal de la libertad, previsto por los artículos 241 fracción I y 242; comercio ilícito de bebidas alcohólicas en su modalidad de venta o distribución, previsto por el artículo 245, primer párrafo; tortura, previsto en la Ley para Prevenir y Sancionar la Tortura; falsificación de documentos previstos en el artículo 284-bis; violación, previsto por los artículos 313, 315 y 316; usura, previsto por el artículo 328; robo, previsto por el artículo 330, cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333; robo calificado, previsto en el artículo 335 fracciones II, III, IV, VIII, IX y XI, cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333; y fracciones I, VI, VII, X, XII y XIII del mismo artículo independientemente del monto de lo robado; robo con violencia previsto en el artículo 336; robo de ganado mayor, previsto por el artículo 339; robo de ganado menor, previsto por el artículo 340 cuando el importe de lo robado sea el establecido en la fracción IV del artículo 333; las conductas previstas en el artículo 347; daño en propiedad ajena por incendio o explosión previsto por los artículos 348 y 349; daño en propiedad ajena doloso, previsto por el artículo 350 cuando el importe de lo dañado sea el establecido en la fracción IV del artículo 333; lesiones, previsto por los artículos 360, 361, 362, y 363; homicidio doloso, previsto por el artículo 368 en relación con el 372 , 378 y 384; y homicidio en razón del parentesco o relación, previsto por el artículo 394.
 
 Quienes cometan algún delito grave de los señalados en el párrafo anterior, no tendrán derecho a la libertad provisional bajo caución, a que hace referencia el Código de Procedimientos en Materia Penal.
 
@@ -2303,6 +2303,30 @@ IV. Haga uso de una certificación verdadera expedida para otro, como si le hubi
 
 V. A sabiendas, hiciere uso de un documento falso o de copia, transcripción o testimonio del mismo, sea público o privado.
 
+> <small>(ADICIONADO, D.O. 6 DE JULIO DE 2004)</small>
+
+###### ARTÍCULO 284
+
+BIS. Se impondrá de cuatro a diez años de prisión y de ciento cincuenta a quinientos días-multa al que:
+
+I. Produzca o imprima, sin estar legalmente autorizado, altere o falsifique tarjetas bancarias o comerciales y los documentos o pagarés en los que se asientan las operaciones que con ellas se realizan para el pago de bienes y servicios o para disposición de numerario, o bien los use o los enajene o distribuya, aún gratuitamente;
+
+II. Adquiera, utilice, posea o detente indebidamente tarjetas bancarias o comerciales, documentos o pagarés en los que se asientan las operaciones que con ella se realizan y vales para el pago de bienes o servicios, a sabiendas de que son alterados o falsificados;
+
+III. Adquiera, utilice, posea o detente indebidamente, tarjetas bancarias o comerciales auténticas para el pago de bienes o servicios;
+
+IV. Altere los medios de identificación electrónica de tarjetas bancarias o comerciales, documentos o pagarés en los que se asientan las operaciones que con ellas se realizan y vales para el pago de bienes o servicios;
+
+V. Acceda indebidamente a los equipos de electrónicos de las instituciones emisoras de tarjetas bancarias o comerciales y vales para el pago de bienes o servicios o para disposición de efectivo, con el fin de utilizarlos u obtener información con fines indebidos, y
+
+VI. Al que sin causa legal adquiera, utilice o posea equipos electromagnéticos que sirvan para sustentar la información contenida en la cinta o banda magnética de tarjetas bancarias o comerciales, títulos o documentos para el pago de bienes y servicios o disposición de efectivo, así como a quien posea o utilice indebidamente la información sustraída en esta forma.
+
+Las mismas penas se impondrán a quien utilice indebidamente información confidencial o reservada de la institución o persona que legalmente esté facultada para emitir tarjetas bancarias o comerciales y vales utilizados para el pago de bienes y servicios.
+
+Si el sujeto activo es empleado o dependiente del ofendido, las penas se aumentarán en una mitad.
+
+En el caso de que se actualicen otros delitos con motivo de las conductas a que se refiere este artículo se aplicarán las reglas del concurso.
+
 ### CAPÍTULO V. USURA
 
 ###### ARTÍCULO 285.
@@ -2557,7 +2581,7 @@ Además de la sanción de prisión, al culpable se le privará de los derechos d
 
 III. Por quien desempeñe un cargo o empleo público o ejerza su profesión, utilizando los medios o circunstancias que ellos le proporcionen. Además de la sanción de prisión el condenado será destituido del cargo o empleo público o suspendido por el término de cinco años en el ejercicio de dicha profesión, y
 
-IV .Por la persona que tiene al ofendido bajo su custodia, guarda o educación o aproveche la confianza en ella depositada.
+IV. Por la persona que tiene al ofendido bajo su custodia, guarda o educación o aproveche la confianza en ella depositada.
 
 TÍTULO DECIMONOVENO
 
@@ -3309,6 +3333,10 @@ ABOG. R. CLEOMINIO ZOREDA NOVELO
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CODIGO.</small>
 
-P.O. 1 DICIEMBRE DE 2003.
+D.O. 1 DICIEMBRE DE 2003.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 6 DE JULIO DE 2004.
+
+ÚNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
