@@ -4,7 +4,7 @@ identifier: "COA-ley-de-responsabilidades-de-los-servidores-publicos-3774"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-24"
-last_updated: "1984-04-24"
+last_updated: "1993-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS ESTATALES Y MUNICIPALES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 1993.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 24 de abril de 1984.
 
@@ -403,7 +403,7 @@ Incurren en responsabilidad administrativa, los servidores públicos a que se re
 
 ###### ARTICULO 52.
 
-Todo servidor publico tendrá las siguientes obligaciones para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en el desempeño de su empleo, cargo o comisión, y su incumplimiento, dará lugar al procedimiento y a las sanciones que correspondan, según la naturaleza de la infracción en que incurra, y sin perjuicio de sus derechos laborales:
+Todo servidor público tendrá las siguientes obligaciones para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en el desempeño de su empleo, cargo o comisión, y su incumplimiento, dará lugar al procedimiento y a las sanciones que correspondan, según la naturaleza de la infracción en que incurra, y sin perjuicio de sus derechos laborales:
 
 I.- Cumplir con la máxima diligencia el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido de un empleo, cargo o comisión;
 
@@ -419,7 +419,9 @@ VI.- Observar en la dirección de sus inferiores jerárquicos las debidas reglas
 
 VII.- Observar respeto y subordinación legítima, con respecto a sus superiores jerárquicos inmediatos o mediatos, cumpliendo las disposiciones que estos dicten en el ejercicio de sus atribuciones;
 
-VIII.- Comunicar por escrito al titular de la dependencia o Entidad en la que preste sus servicios, las deudas justificadas que le suscite la procedencia de las órdenes que reciba, debiendo fundar debidamente sus observaciones;
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1993)</small>
+
+VIII.- Comunicar por escrito al titular de la dependencia o entidad en que preste sus servicios, las dudas justificadas que le suscite la procedencia de las órdenes que reciba, debiendo fundar debidamente sus observaciones;
 
 IV (sic).- Abstenerse de ejercer las funciones de un empleo cargo o comisión, después de concluido el período para el cual se le designo o de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones;
 
@@ -447,7 +449,13 @@ XX.- Informar al superior jerárquico de todo acto u omisión de los servidores 
 
 XXI.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servidor público;
 
-XXII.- Las demás que le impongan los ordenamientos jurídicos y administrativos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JUNIO DE 1993)</small>
+
+XXII.- Abstener, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra pública, con quien desempeña un empleo, cargo o comisión en el Servicio Público, o bien con las sociedades de que dichas personas formen parte, sin la autorización previa y específica de la autoridad competente a propuesta razonada, conforme a las disposiciones legales aplicables, del titular de la dependencia o entidad que se trate. Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE JUNIO DE 1993)</small>
+
+XXIII.- Las demás que le impongan los ordenamientos jurídicos y administrativos aplicables.
 
 El incumplimiento de estas obligaciones será sancionado como falta administrativa.
 
@@ -545,7 +553,7 @@ VI.- Las sanciones económicas se aplicarán por la autoridad que desahogue el p
 
 ###### ARTICULO 61.
 
-Las autoridades a las que corresponde aplicar las sanciones en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, justificando e informando a quien corresponda la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por este, no exceda de cien veces el salario mínimo diario vigente en la Capital del Estado.
+Las autoridades a las que corresponde aplicar las sanciones en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, justificando e informando a quien corresponda la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste, no exceda de cien veces el salario mínimo diario vigente en la Capital del Estado.
 
 ###### ARTICULO 62.
 
@@ -802,3 +810,9 @@ LIC. JOSE DE LAS FUENTES RODRÍGUEZ (Rúbrica)
 EL SECRETARIO DEL EJECUTIVO DEL ESTADO
 
 LIC. ENRIQUE MARTINEZ Y MARTINEZ (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE JUNIO DE 1993.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
