@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-seguridad-social-de-los-servidores-publicos-del-5191"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-20"
-last_updated: "1988-12-20"
+last_updated: "1991-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5191&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE SEGURIDAD SOCIAL DE LOS SERVIDORES PUBLICOS DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 1991.
 
 Ley Publicada en el Periódico Oficial del Estado de Guerrero, el martes 20 de diciembre de 1988.
 
@@ -455,25 +455,35 @@ La cuantía de las pensiones, con excepción de las concedidas por riesgos de tr
 
 Los jubilados y pensionados tendrán derecho a una gratificación anual igual en número de días a las concedidas a los servidores públicos en activo, según la cuota diaria de su pensión. Esta gratificación deberá pagarse en un cincuenta por ciento antes del quince de diciembre y el otro cincuenta por ciento a más tardar el 15 de enero, de conformidad con las disposiciones que dicte la Junta Directiva.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1991)</small>
+
 ###### Artículo 51.
 
-Para calcular el monto de las cantidades que correspondan por jubilación o por causas de muerte, vejez e invalidez, se tomará el promedio de los sueldos percibidos en los 24 meses inmediatos anteriores sobre los que hubiesen cubierto las cuotas y aportaciones respectivas.
+Para calcular el monto de las cantidades que correspondan por jubilación o por causas de muerte, vejez e invalidez, se tomará el último sueldo percibido sobre el que hubiesen sido cubiertas las cuotas y aportaciones respectivas.
 
-Dicho promedio, se denominará sueldo regulador.
+Ese sueldo se denominará sueldo regulador.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1991)</small>
 
 ###### Artículo 52.
 
-En caso de que el trabajador haya tenido dos o más empleos, para calcular el monto de la pensión a que tenga derecho el servidor público y en su caso sus derechohabientes, ya sea por jubilación, vejez, invalidez o muerte, se tomará en cuenta el sueldo básico en promedio que el servidor público haya percibido en los últimos dos años por las labores desempeñadas al servicio de las entidades públicas, siempre y cuando haya cotizado el Instituto en los términos de esta Ley.
+En caso de que el trabajador haya tenido dos o más empleos, para calcular el monto de la pensión a que tenga derecho el servidor público y en su caso sus derechohabientes, ya sea por jubilación, vejez, invalidez o muerte, se tomará en cuenta el último sueldo base donde tenga mejores percepciones, de acuerdo a lo que señala el artículo anterior.
 
 #### Sección Segunda. DEL SEGURO POR JUBILACION
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1991)</small>
+
 ###### Artículo 53.
 
-Tienen derecho al seguro de jubilación, los servidores públicos con treinta años o más de servicios y las servidoras públicas con 28 años o más de servicios, e igual tiempo de cotización al Instituto, en los términos de esta Ley, cualquiera que sea su edad.
+Tienen derecho al seguro por jubilación, los servidores públicos con 30 años o más de servicios y las servidoras públicas con 25 años o más de servicios e igual tiempo de cotización al Instituto, en los términos de esta Ley, cualquiera que sea su edad.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1991)</small>
 
 ###### Artículo 54.
 
-La jubilación dará derecho al pago de una cantidad equivalente al 100% del sueldo regulador, en los términos del artículo 51 de esta Ley. Su percepción comenzará a partir del día siguiente a aquel en que el servidor hubiere disfrutado el último sueldo por haber causado baja al renunciar para jubilarse. En ningún caso, el monto de la pensión por jubilación a que tenga derecho el trabajador, podrá ser inferior al salario mínimo vigente, si tiene treinta años de antigüedad y veintiocho si se trata de mujeres.
+La jubilación dará derecho al pago de una cantidad equivalente al 100% del último sueldo base en los términos del artículo 51 de esta Ley, su percepción comenzará a partir del día siguiente a aquél en que el servidor hubiese disfrutado del último sueldo por haber causado baja al renunciar para jubilarse. En ningún caso el monto de la pensión por jubilación a que tenga derecho el trabajador podrá ser inferior al salario mínimo vigente, si tiene 30 años de antigüedad y 25 si se trata de mujeres.
+
+Este mismo beneficio en particular y todas las otras prestaciones que en lo general concede esta Ley a los cotizadores al servicio de los tres Poderes del Estado, gozarán los trabajadores de base al servicio de los Organismos Descentralizados y Paraestatales del Estado cuya relación laboral se encuentre regida por el régimen laboral local y en los términos de sus leyes orgánicas de creación.
 
 ###### Artículo 55.
 
@@ -1324,3 +1334,15 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE FEBRERO DE 1991.
+
+###### ARTICULO PRIMERO.
+
+Se derogan (sic) los Artículos 51, 52, 53 y 54 de la Ley de Seguridad Social de los Servidores Públicos del Estado de Guerrero.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
