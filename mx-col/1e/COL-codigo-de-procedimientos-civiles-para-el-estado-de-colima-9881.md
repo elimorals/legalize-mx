@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-civiles-para-el-estado-de-colima-9881"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "1954-09-25"
+last_updated: "1958-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE NOVIEMBRE DE 1958.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado Colima, el sábado 25 de septiembre de 1954.
 
@@ -165,7 +165,7 @@ De la fijación de la litis
 
 #### SECCION III.- De los remates
 
-#### SECCION IV.- De la ejecución de las sentencias y demás resoluciones dictadas por los Tribunales y Jueces del Distrito y Territorios Federales, de los Estados y del extranjero
+#### SECCION IV.- De la ejecución de las sentencias y demás resoluciones dictadas pro los Tribunales y Jueces del Distrito y Territorios Federales, de los Estados y del extranjero
 
 ## TITULO OCTAVO.- Del Juicio Arbitral.- Reglas Generales
 
@@ -3827,9 +3827,11 @@ ART. 918.- El precio de la venta se entregará al tutor si las fianzas o garant�
 
 El juez señalará un término prudente al tutor para que justifique la inversión del precio de la enajenación.
 
-ART. 919.- Para la venta de los bienes inmuebles del hijo o de los muebles preciosos, requerirán los que ejercen la patria potestad autorización judicial en los mismos términos que los señalados en el artículo 915. El incidente se substanciará con el Ministerio Público y con un tutor especial que para el efecto nombre el juez desde las primeras diligencias. La base de la primera almoneda, si es bien raíz, será el precio fijado por los peritos y la postura legal no será menor de los dos tercios de ese precio.
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1958)</small>
 
-Bajo las mismas condiciones podrán gravar los padres los bienes inmuebles de sus hijos o consentir la extinción de derecho reales.
+ART. 919.- Para la venta de los bienes inmuebles del hijo o de los muebles preciosos, requerirán los que ejerzan la patria potestad autorización judicial en los mismos términos señalados en el artículo 915. El incidente se sustanciará con el Ministerio Público y un tutor especial que para el efecto nombrará el Juez desde las primeras diligencias. La autorización se dará para que se verifique la venta fuera de subasta, pero nunca en menos de la cantidad que hubiere de servir de base para el remate.
+
+También requerirán los padres la autorización judicial para gravar los bienes inmuebles de sus hijos o consentir la extinción de derechos reales, observándose en lo relativo a las disposiciones del párrafo anterior, para obtenerla.
 
 ART. 920.- Para recibir dinero prestado en nombre del menor o incapacitado necesita el tutor la conformidad del curador y del consejo de tutelas y después, de la autorización judicial.
 
@@ -4154,3 +4156,9 @@ GRAL. DE DIV. JESUS GONZALEZ LUGO.
 ALFREDO RUISECO AVELLANEDA.
 
 Secretario Gral. de Gobierno.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 15 DE NOVIEMBRE DE 1958.
+
+Este Decreto surtirá efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
