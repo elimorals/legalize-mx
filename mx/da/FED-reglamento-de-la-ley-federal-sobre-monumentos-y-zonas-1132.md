@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-sobre-monumentos-y-zonas-1132"
 country: "mx"
 rank: "reglamento"
 publication_date: "1975-12-08"
-last_updated: "1975-12-08"
+last_updated: "1993-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1132&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1975-09-20"
 
 REGLAMENTO DE LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLOGICAS, ARTISTICOS E HISTORICOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 1993.
 
 Reglamento publicado en el Diario Oficial de la Federación, el lunes 8 de diciembre de 1975.
 
@@ -321,6 +321,18 @@ En caso de exportación temporal de los monumentos artísticos o históricos a q
 
 El plazo de la exportación temporal de monumentos artísticos o históricos, será determinado por el Instituto competente tomando en consideración la finalidad de la misma.
 
+> <small>(ADICIONADO, D. O. 5 DE ENERO DE 1993)</small>
+
+ARTICULO 37 bis.- Queda prohibida la exportación definitiva de monumentos arqueológicos, salvo canjes o donativos a gobiernos o institutos científicos extranjeros, por acuerdo expreso del Presidente de la República.
+
+La exportación temporal de monumentos arqueológicos sólo podrá llevarse a cabo para su exhibición en el extranjero, siempre y cuando la integridad de éstos no pueda ser afectada por su transportación, y de conformidad con lo siguiente:
+
+I.- Se requerirá permiso previo del titular de la Secretaría de Educación Pública quien, para otorgarlo, tomará en consideración la opinión de la Secretaría de Relaciones Exteriores y del Instituto Nacional de Antropología e Historia;
+
+II.- La Secretaría de Relaciones Exteriores adoptará las medidas necesarias para que los monumentos arqueológicos sean trasladados e instalados en los lugares de las exhibiciones y, al concluir éstas, se retornen a nuestro país, así como aquéllas para su debida protección, y
+
+III.- El Instituto Nacional de Antropología e Historia realizará el embalaje de los monumentos para su transportación, así como el avalúo de los mismos para efectos de los seguros que se contraten, los que deberán cubrir todo tipo de riesgos.
+
 ###### ARTICULO 38.
 
 Para los efectos de la Ley y de este Reglamento, se entiende por reproducción de monumentos arqueológicos, artísticos o históricos con fin comercial, la réplica obtenida por cualquier procedimiento o medio, en dimensiones semejantes al original o en diferente escala.
@@ -430,3 +442,9 @@ TERCERO.- Los Institutos competentes adoptarán las medidas necesarias para que 
 CUARTO.- Se abroga el Reglamento de la Ley sobre protección y conservación de monumentos arqueológicos e históricos, poblaciones típicas y lugares de belleza natural, expedido el 3 de abril de 1934 y publicado en el "Diario Oficial" de la Federación el día 7 del mismo mes y año, y se derogan las demás disposiciones que se opongan al presente Reglamento.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, a los veinte días del mes de septiembre de mil novecientos setenta y cinco.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Educación Pública, Víctor Bravo Ahuja.- Rúbrica.- El Secretario del Patrimonio Nacional, Francisco Javier Alejo.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.- El Secretario de Hacienda y Crédito Público, José López Portillo.- Rúbrica.- El Secretario de Relaciones Exteriores, Emilio O. Rabasa.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Octavio Sentíes Gómez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 5 DE ENERO DE 1993
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
