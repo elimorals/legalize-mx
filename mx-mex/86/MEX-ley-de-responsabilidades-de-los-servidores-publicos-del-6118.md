@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "1998-12-21"
+last_updated: "2002-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE JUNIO DE 2002.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -685,11 +685,13 @@ La contravención a lo dispuesto en el párrafo anterior, será causa de respons
 
 La Secretaría, con base en el registro de sanciones podrá informar sobre la existencia de estas, diversas a la inhabilitación.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
 
 ###### Artículo 65.
 
-Contra los actos y resoluciones administrativas que dicten o ejecuten las autoridades competentes, en aplicación del presente ordenamiento, los particulares afectados tendrán la opción de interponer el recurso de inconformidad ante la propia autoridad o el juicio, ante el Tribunal de lo Contencioso Administrativo, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
+Contra los actos y resoluciones administrativas que dicten o ejecuten las autoridades competentes, en aplicación de la presente ley, los particulares afectados tendrán la opción de interponer el recurso de inconformidad ante la propia autoridad que emitió el acto, o el Juicio Contencioso Administrativo, de conformidad con el Código de Procedimientos Administrativos ante el Tribunal de lo Contencioso Administrativo del Estado de México.
+
+El Juicio Contencioso Administrativo no procederá en contra de los actos y resoluciones que emitan o ejecuten los Poderes Legislativo y Judicial, sus órganos y dependencias.
 
 ###### Artículo 66.
 
@@ -959,11 +961,11 @@ Si el servidor público incumple con lo dispuesto en el párrafo anterior, su co
 
 Los obsequios que se hagan a los servidores públicos que no se encuentren en las hipótesis de este dispositivo, deberán ser declarados por éstos en la manifestación anual de bienes cuando el valor unitario de cada obsequio exceda a treinta días de salario mínimo vigente en la capital del Estado.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
 
 ###### Artículo 91.
 
-En el procedimiento administrativo todo lo relacionado a las formalidades procedimentales, notificaciones y plazos, pruebas y su valoración, y el recurso de inconformidad, que se regulan en los Títulos Tercero y Cuarto de esta ley, son aplicables las disposiciones relativas del Código de Procedimientos Administrativos del Estado.
+En todo lo relacionado al procedimiento administrativo que se regula en los Títulos Tercero y Cuarto de esta ley, son aplicables, en lo conducente, supletoriamente, las disposiciones relativas del Código de Procedimientos Administrativos del Estado de México.
 
 ## TITULO QUINTO. De la remoción de los Magistrados del Tribunal Superior de Justicia
 
@@ -1136,3 +1138,13 @@ P.O. 21 DE DICIEMBRE DE 1998.
 PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno"
 
 SEGUNDO.- Este decreto entrará en vigor el día siguiente de su publicación en la "Gaceta del Gobierno".
+
+P.O. 28 DE JUNIO DE 2002
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
