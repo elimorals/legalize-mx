@@ -4,7 +4,7 @@ identifier: "COA-ley-reglamentaria-del-registro-civil-para-el-estado-de-4754"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "1977-12-09"
+last_updated: "1982-08-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY REGLAMENTARIA DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 1982.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 31 de diciembre de 1975.
 
@@ -59,9 +59,11 @@ El Registro Civil es una institución de orden público dependiente del Poder Ej
 
 Al Registro Civil tienen acceso todas las personas interesadas en conocer el contenido de las inscripciones existentes y los documentos relacionados con las mismas.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1982)</small>
+
 ###### Art. 4.
 
-Toda persona podrá solicitar y obtener, a su costa, testimonio de las actas, asientos, documentos y apuntes relacionados con ellas, que existan en los libros y apéndices correspondientes.
+Toda persona podrá solicitar y obtener, a su costa, copia certificada de las Actas y documentos relacionados con ellas, misma que deberá expedirse en la papelería autorizada para tal efecto.
 
 ###### Art. 5.
 
@@ -365,21 +367,23 @@ DE LOS LIBROS Y ACTAS DEL REGISTRO CIVIL.
 
 DISPOSICIONES GENERALES.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1982)</small>
 
 ###### Art. 32.
 
-Las Actas del Registro Civil, se inscribirán en seis libros que se llevarán por duplicado y que contendrán: El primero, actas de nacimiento; el segundo, actas de reconocimiento; el tercero; actas de adopción; tutela, así como las inscripciones de las ejecutorias que declaren el estado de interdicción y las resoluciones que se refieran a la rectificación de una acta; el cuarto, actas de matrimonio; el quinto, actas de divorcio; el sexto, actas de defunción e inscripciones de las ejecutorias que declaren la ausencia o la presunción de muerte.
+Las actas del Registro Civil, se inscribirán en siete formas encuadernables que se llevarán por cuadruplicado y que contendrán: nacimientos, reconocimientos de hijos, adopciones, matrimonios, divorcios, defunciones, e inscripciones de sentencias ejecutorias que declaren la ausencia, la presunción de muerte, la tutela y la pérdida o la limitación de la capacidad legal para administrar bienes.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1982)</small>
 
 ###### Art. 33.
 
-Toda acta deberá asentarse en los dos ejemplares del Registro y en ambos deberán costar las firmas del Oficial y los comparecientes.
+Todas las actas se encuadernaran formando grupos de doscientas hojas como máximo integrándose foliadas en los libros que se enumerarán progresivamente. A más tardar para el mes de enero del año siguiente al en que se inscribieron las actas, deberán estar constituídas en libros debidamente encuadernados.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1982)</small>
 
 ###### Art. 34.
 
-Las actas se levantarán en los libros que al efecto proporcione el Ejecutivo del Estado, los cuales contendrán para los nacimientos, reconocimientos, matrimonio, divorcios y defunciones, los formularios impresos en que se consignarán los datos exigidos por el Código Civil, y los Oficiales deberán llenarlos convenientemente, cubriendo con rayas horizontales las líneas sobrantes y cruzando con diagonales los espacios no utilizados.
+Las actas se levantarán en las formas que para tal efecto proporcione el Ejecutivo del Estado, las cuales contendrán los datos exigidos por el Código Civil, que los Oficiales deberán llenar convenientemente, cubriendo con rayas horizontales los espacios no utilizados.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
 
@@ -401,19 +405,21 @@ En toda acta del Registro Civil se hará constar el año, mes, día y hora en qu
 
 No podrá asentarse en las actas, ni siquiera por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en esta Ley y en el Código Civil.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1982)</small>
 
 ###### Art. 39.
 
-Los libros del Registro Civil serán visados en su primera hoja con la firma del Director Estatal del Registro Civil o la del Presidente Municipal respectivo, y en la parte superior de las demás hojas se pondrá el sello de autorizar correspondiente, alcanzando el anverso de una y el reverso de la anterior.
+Los libros del Registro Civil serán visados en su primera hoja con la firma del Director Estatal del Registro Civil y en la parte superior de las demás hojas se pondrá el sello de autorizar correspondiente.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1982)</small>
 
 ###### Art. 40.
 
-Los libros se renovarán cada año. Un ejemplar original y los apéndices correspondientes quedarán en el archivo de cada Oficialía del Registro Civil, remitiéndose el otro ejemplar original de los libros y apéndices a la Dirección del Registro Civil, en el transcurso del mes de enero del año siguiente.
+Las formas para Actas del Registro Civil serán expedidas anualmente por la Dirección Estatal del Registro Civil, previa aprobación del Ejecutivo del Estado. de los cuatro ejemplares asentados para cada Acta, los Oficiales remitirán una copia al Archivo de la Dirección Estatal del Registro Civil y otra a la Dirección General del Registro Nacional de Población de la Secretaría de Gobernación; un ejemplar quedará en el Archivo de la Oficialía del lugar que corresponda y una última copia se entregará al interesado, como constancia del registro. Al final de cada libro, el Director del Registro Civil certificará con su firma el número de actas contenidas en el mismo, conforme a lo dispuesto en esta Ley.
 
 ###### Art. 41.
 
-Si al terminar el año hubiere hojas en blanco, se inutilizarán con raya transversales, certificando en la última escrita el número de actos ejecutados, el de las hojas útiles y el de las que se hayan inutilizado.
+Si al terminar el año hubiere hojas en blanco, se inutilizarán con rayas transversales, certificando en la última escrita el número de actos ejecutados, el de las hojas útiles y el de las que se hayan inutilizado.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
 
@@ -447,21 +453,27 @@ Si alguno de los interesados quisiere imponerse por sí mismo del tenor del acta
 
 Si un acto comenzado se entorpeciere porque las partes se niegan a continuarlo o por cualquier otro motivo, se inutilizará el acta marcándola con dos líneas transversales con expresión de la causa que suspendió el acto, debiendo firmar el Oficial y los comparecientes al acto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1982)</small>
+
 ###### Art. 48.
 
-En la redacción de toda acta se observarán las prevenciones siguientes:
+En la redacción de toda Acta se observarán las prevenciones siguientes:
 
-I. Las actas se numerarán ordinariamente y se escribirán una después de otra sin dejar entre ellas ningún renglón entero en blanco;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1982)</small>
 
-II. Tanto el número ordinal, como el de las fechas o cualquier otro serán escritos con cifras y letras;
+I. Las actas se identificarán progresivamente con números arábigos.
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1982)</small>
+
+II. Salvo disposición expresa en contrario, para los datos que sea indispensable identificar mediante cifras se utilizarán número arábigos.
 
 III. En ningún caso se emplearán abreviaturas;
 
-IV. No se harán raspaduras ni se permitirá borrar lo escrito. Cuando sea necesario estar alguna palabra o frase, se pasará por ella una línea delgada, de manera que pueda leerse lo escrito.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1982)</small>
 
-En el caso del artículo 370 del Código Civil, la testadura se hará por completo, de modo que las palabras o frases correspondientes quedan absolutamente ilegibles, advirtiéndose al final del acta la causa por la que se ha procedido en esta forma;
+IV. No se harán raspaduras ni se permitirá borrar lo escrito. En el caso del artículo 370 del Código Civil la testadura se hará por completo, de modo que las palabras o frases correspondientes queden absolutamente ilegibles, advirtiéndose al final del acta la causa por la que se ha procedido en esta forma.
 
-V. Antes de autorizar el acta se salvará con toda claridad lo entrerenglonado y testado, sin dejar ningún renglón entero en blanco, entre el final del acta y las firmas con que se autoriza.
+V. (DEROGADA, P.O. 24 DE AGOSTO DE 1982)
 
 ###### Art. 49.
 
@@ -523,11 +535,9 @@ Cuando después de registrado el nacimiento, se pretendiere por el padre, la mad
 
 El Oficial del Registro Civil tiene obligación de orientar a los interesados respecto de los requisitos que se deben cubrir para que se realice el reconocimiento.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
-
 ###### Art. 61.
 
-Cuando se haya omitido la presentación para el registro del nacimiento de un hijo habido fuera de matrimonio, o la presentación se efectúe después del término señalado por el Código Civil, el Oficial tendrá obligación de levantar tanto el acta de nacimiento como la de reconocimiento.
+(DEROGADO, P.O. 24 DE AGOSTO DE 1982)
 
 ###### Art. 62.
 
@@ -659,9 +669,11 @@ DE LAS ACTAS DE DEFUNCION.
 
 Las actas de defunción se asentarán de acuerdo con las disposiciones del Capítulo IX, Título Cuarto, Libro Primero del Código Civil.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1982)</small>
+
 ###### Art. 85.
 
-Ninguna inhumación se hará sin autorización escrita dada por el Oficial del Registro Civil. La autorización se deberá efectuar después de las veinticuatro horas siguientes al fallecimiento, a menos que se trate de enfermedad contagiosa o de que exista peligro en la salubridad pública, en cuyo caso y previo dictamen médico, el Oficial mandará que se haga desde luego la inhumación.
+Ninguna inhumación o cremación se hará sin autorización escrita dada por el Oficial del Registro Civil, quien se asegurará suficientemente del fallecimiento. No se procederá a la inhumación o cremación, sino hasta después de que transcurran veinticuatro horas del fallecimiento, excepto en los casos en que se ordene otra cosa por la autoridad que corresponda.
 
 ###### Art. 86.
 
@@ -721,11 +733,9 @@ Cuando se recobre la capacidad legal para administrar bienes, se presente la per
 
 DE LAS ACTAS DE RECTIFICACION.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
-
 ###### Art. 96.
 
-Las actas de rectificación se levantarán de acuerdo con lo dispuesto por el artículo 138 del Código Civil y se asentarán en el Libro Tercero.
+(DEROGADO, P.O. 24 DE AGOSTO DE 1982)
 
 (REUBICADO Y REFORMADA SU DENOMINACION, P.O. 9 DE DICIEMBRE DE 1977)
 
@@ -775,11 +785,11 @@ DISPOSICIONES GENERALES.
 
 La rectificación o modificación de un acta del Registro Civil, únicamente procede en los casos señalados por los artículos 134 y 135 del Código Civil.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1982)</small>
 
 ###### Art. 101.
 
-Las resoluciones que concedan o nieguen una rectificación, motivarán el levantamiento del acta correspondiente, en los términos del artículo 138 del Código Civil.
+Las resoluciones que concedan o nieguen una rectificación, motivarán el asentamiento de la anotación que corresponda.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1977)</small>
 
@@ -883,11 +893,11 @@ Las sanciones fijadas en este apartado, se aplicarán sin perjuicio de la respon
 
 Se sancionará con la destitución de su cargo, al Oficial del Registro Civil que infrinja las disposiciones de los artículos 36, 112 y 371 del Código Civil así como lo establecido en los artículos 32, 33, 34 y 35 de la presente ley.
 
-(N. DEL E REENUMERADO), P.O. 9 DE DICIEMBRE DE 1977)
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1982)</small>
 
 ###### Art. 114.
 
-Igualmente serán destituídos de su cargo, los Oficiales del Registro Civil que levanten las actas en hojas sueltas o que dejen espacio en blanco entre las inscripciones de las actas del Registro Civil.
+Igualmente serán destituídos de su cargo, los Oficiales del Registro Civil que asienten Actas o expidan copia certificada de las mismas en papelería diversa a la autorizada, o que dejen espacio en blanco dentro de las actas del Registro Civil.
 
 (N. DEL E REENUMERADO), P.O. 9 DE DICIEMBRE DE 1977)
 
@@ -970,3 +980,13 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA 
 ###### ARTICULO CUARTO
 
 - Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE AGOSTO DE 1982.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
