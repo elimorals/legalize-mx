@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-la-operacion-de-videojuegos-en-el-distrito-3458
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-18"
-last_updated: "2003-11-18"
+last_updated: "2004-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34586&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "2003-07-28"
 
 REGLAMENTO PARA LA OPERACION DE VIDEOJUEGOS EN EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE ABRIL DE 2004.
 
-Reglamento publicado en la Gaceta Oficial del Distrito Federal el martes 18 de noviembre de 2003.
+Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 18 de noviembre de 2003.
 
 (Al margen superior izquierdo dos escudos que dicen: GOBIERNO DEL DISTRITO FEDERAL.- México - La Ciudad de la Esperanza.- JEFE DE GOBIERNO DEL DISTRITO FEDERAL)
 
@@ -156,9 +156,13 @@ Los interesados podrán solicitar en cualquier momento a la Secretaría, el regi
 
 Las Delegaciones solicitaran a la Secretaría el listado de todos aquellos registros que esta haya otorgado.
 
+> <small>(REFORMADO, G.O. 8 DE ABRIL DE 2004)</small>
+
 ###### ARTÍCULO 14.
 
 Los titulares de los establecimientos que operen Videojuegos deberán acudir a la Ventanilla Única Delegacional a dar aviso mediante un formato que al efecto proporcione la misma, manifestando bajo protesta de decir verdad el número de maquinas de Videojuegos que operan en su establecimiento mercantil.
+
+Para efectos de dar cumplimiento del requisito establecido en el inciso h) de la fracción I del artículo 50 de la Ley, bastará con que se coloque el apartado correspondiente de la publicación que se haga en la Gaceta Oficial del Distrito Federal, del Registro de Videojuegos; o bien del listado de Videojuegos registrados que aparezca en la página de Internet del Gobierno del Distrito Federal.
 
 Todos y cada uno de los Videojuegos que se exhiban en los Establecimientos Mercantiles deberán estar debidamente registrados conforme al presente Reglamento.
 
@@ -188,9 +192,11 @@ IV. Para la clasificación tipo D, altamente agresivo, para uso de 18 años, y m
 
 La distancia y disposición de las máquinas debe ser tal, que permita el acceso a los extintores, rutas de evacuación y salidas de emergencia, así como cualquier otra situación que conforme a las disposiciones de protección civil deba observarse.
 
+> <small>(REFORMADO, G.O. 8 DE ABRIL DE 2004)</small>
+
 ###### ARTÍCULO 19.
 
-El servicio de Videojuegos, atendiendo a su clasificación, deberá presentarse en áreas delimitadas mediante líneas divisorias, desniveles, muros, canceles o mamparas, con el espacio de uso suficiente y de tal forma que sólo utilicen los videojuegos los usuarios que correspondan a la edad que menciona el artículo 15 de este Reglamento.
+El servicio de Videojuegos atendiendo a su clasificación deberá presentarse en áreas determinadas mediante líneas divisorias, desniveles, muros, canceles o mamparas, con el espacio de uso suficiente y de tal forma que sólo utilicen los Videojuegos los usuarios que correspondan a la edad que menciona el artículo 17 de este Reglamento.
 
 ###### ARTÍCULO 20.
 
@@ -231,3 +237,15 @@ SEXTO. Los titulares de los Establecimientos que a la entrada en vigor del prese
 SEPTIMO. Los formatos a que se refiere este Reglamento, deberán expedirse por la Secretaría, de conformidad con las disposiciones jurídicas y administrativas aplicables.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los veintiocho días del mes de julio del año dos mil tres.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+
+G.O. 8 DE ABRIL DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Para efectos de la creación del Registro de Videojuegos a que hace referencia los artículos 50, inciso h; 52, segundo párrafo y Transitorio undécimo de la Ley para el Funcionamiento de Establecimientos mercantiles en el Distrito Federal, los interesados contarán con un término de 30 días hábiles a partir de la entrada en vigor del presente Decreto para registrar sus videojuegos.
+
+TERCERO.- Las verificaciones administrativas que tengan como objeto verificar el cumplimiento de las disposiciones contenidas en el Reglamento para la operación de videojuegos en el Distrito Federal, podrán iniciar 70 días hábiles después de la publicación del presente decreto, sin menoscabo de que se efectúen aquellas verificaciones que tengan como finalidad verificar el cumplimiento de otros ordenamientos jurídicos.
+
+CUARTO.- Los titulares de los Establecimientos que a la entrada en vigor del presente decreto operen Videojuegos contarán con un término de 30 días hábiles contador (sic) a partir de dicha entrada en vigor para cumplir con lo establecido en el artículo 14 del presente ordenamiento.
