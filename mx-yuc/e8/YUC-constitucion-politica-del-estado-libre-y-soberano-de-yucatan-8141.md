@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1921-11-30"
+last_updated: "1922-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE NOVIEMBRE DE 1921.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE SEPTIEMBRE DE 1922.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -689,6 +689,8 @@ Corresponde a los Juzgados de Instrucción practicar todas las diligencias neces
 
 DE LOS MUNICIPIOS DEL ESTADO.
 
+> <small>(REFORMADO, D.O. 27 DE SEPTIEMBRE DE 1922)</small>
+
 ###### Artículo 74.
 
 Para ser Procurador General de Justicia del Estado se requieren las mismas condiciones que para ser Magistrado.
@@ -715,7 +717,7 @@ VI.- vigilar y promover cuanto se relacione con la buena marcha de la Administra
 
 ###### Artículo 76.
 
-El Estado de Yucatán adopta para su régimen interior la forma de Gobierno Democrático, Representativo, Popular, teniendo como base de su división territorial y de su organización política y administrativa, los Municipios Libres, administrados por Ayuntamientos, sin que haya autoridades intermedias entre éstos y el Gobierno del Estado. Los Ayuntamientos se compondrán de Concejales electos en su totalidad, popular y directamente cada año, en la forma que la Ley prescriba.
+El Estado de Yucatán adopta para su régimen interior, la forma de Gobierno democrático, representativo, popular, teniendo como base de su división territorial y de su organización política, los Municipios Libres, administrados por Ayuntamientos, sin que haya autoridades intermedias entre estos Ayuntamientos y el Gobierno del Estado. Los Ayuntamientos se compondrán de Concejales electos en su totalidad popular y directamente cada dos años, en la forma que la ley prescriba.
 
 ###### Artículo 77.
 
@@ -982,3 +984,7 @@ D.O. 30 DE NOVIEMBRE DE 1921.
 ###### ARTICULO SEGUNDO.
 
 Este Decreto surtirá sus efectos el mismo día de su promulgación.
+
+D.O. 27 DE SEPTIEMBRE DE 1922.
+
+Artículo Segundo.- Este Decreto comenzará a regir el mismo día de su publicación en el "Diario Oficial" del Estado.
