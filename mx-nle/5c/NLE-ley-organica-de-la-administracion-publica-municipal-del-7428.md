@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-la-administracion-publica-municipal-del-7428"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-01-28"
-last_updated: "1991-01-28"
+last_updated: "1996-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA MUNICIPAL DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de enero de 1991.
 
@@ -217,7 +217,9 @@ I.- Someter oportunamente a la revisión y aprobación del H. Congreso del Estad
 
 II.- Elaborar sus presupuestos anuales de egresos.
 
-III.- Someter anualmente a examen y aprobación del H. Congreso del Estado, durante la primera quincena del segundo período ordinario de sesiones, la Cuenta Pública Municipal correspondiente al año anterior.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 1996)</small>
+
+III.- Someter anualmente para examen y en su caso aprobación del Congreso del Estado, durante los primeros tres meses de cada año, la Cuenta Pública Municipal correspondiente al año anterior.
 
 IV.- Glosar las cuentas del Ayuntamiento anterior, en un término de 90 días contados a partir de la fecha de instalación del Ayuntamiento en funciones.
 
@@ -383,7 +385,9 @@ XI.- Las demás que se señalen en la ley, los reglamentos municipales y en los 
 
 Para resolver los asuntos que le corresponden el Ayuntamiento celebrará sesiones que podrán ser:
 
-I.- Ordinarias.- Las que obligatoriamente deben llevarse a cabo cuando menos una vez al mes, para atender los asuntos de la Administración Municipal.
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 1996)</small>
+
+I.- Ordinarias:- Las que obligatoriamente deben llevarse a cabo cuando menos dos veces al mes, para atender los asuntos de la Administración Municipal.
 
 II.- Extraordinarias.- Las que se realizarán cuantas veces sean necesarias, para resolver situaciones de urgencia. En cada sesión extraordinaria sólo se tratará el asunto único motivo de la reunión.
 
@@ -1412,3 +1416,17 @@ LIC. JORGE A. TREVIÑO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JOSE N. GONZALEZ PARAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+
+P.O. 26 DE ENERO DE 1996.
+
+DECRETO No. 152, QUE REFORMA EL ARTICULO 32.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE ENERO DE 1996.
+
+DECRETO No. 153, QUE REFORMA EL ARTICULO 26.
+
+UNICO:- El presente decreto entrará en vigor a partir del día 1o. de Enero de 1996.
