@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-catastro-municipal-del-estado-de-guerrero-numero-676-51
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "1984-01-03"
+last_updated: "1987-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DEL CATASTRO MUNICIPAL DEL ESTADO DE GUERRERO NUMERO 676
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 1987.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -259,6 +259,8 @@ La Dirección del Catastro expedirá copias certificadas de los planos y documen
 
 ### CAPITULO V. De las Obligaciones Catastrales
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 20.
 
 La valuación catastral tiene por objeto asignar valores a los bienes inmuebles ubicados dentro del municipio de conformidad con la presente ley y su reglamento aprobado para tal efecto.
@@ -275,7 +277,9 @@ Para determinar el valor catastral de cada predio, se aplicarán los parámetros
 
 El valor catastral de los predios determinado técnicamente, se convertirá en valor fiscal de los mismos y deberá considerar invariablemente el valor del terreno, el de las construcciones y obras de mejoramiento ó adicionales que constituyan parte integrante del inmueble; dicho valor podrá ser modificado por las autoridades competentes cuando ocurran las siguientes causas:
 
-I.- Cuando el avalúo tenga más de tres años de antigüedad.
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1987)</small>
+
+I.- Cuando el avalúo tenga más de "un año" de antigüedad.
 
 II.- Cuando en el predio se hagan construcciones, reconstrucciones, o ampliaciones de las construcciones ya existentes.
 
@@ -333,9 +337,11 @@ La valuación catastral de los predios se llevará a efecto, por el sistema de c
 
 La valuación en particular de los predios rústicos y urbanos se hará con aplicación específica de las tablas y cuadros de parámetros valuatorios y unidades tipo, en la forma que determine esta ley y las normas que fije el instructivo de valuación correspondiente.
 
+> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 34.
 
-Los valores unitarios comprendidos en las tablas y cuadros de parámetros valuatorios y unidades tipo serán objeto de revisión cada tres años para predios urbanos y de 5 años para predios rústicos. Si al término de estos períodos no se expiden nuevas tablas, continuarán rigiendo las vigentes.
+Los valores unitarios comprendidos en las tablas y cuadros de parámetros valuatorios y unidades tipo, serán objeto de revisión cada año para predios urbanos y de 3 años para predios rústicos. Si al término de estos períodos no se expiden nuevas tablas, continuarán vigentes.
 
 ###### ARTICULO 35.
 
@@ -351,7 +357,7 @@ En tales casos, cada localidad se empadronará con número de cuenta y clave cat
 
 ###### ARTICULO 37.
 
-Todo propietario ó poseedor de predios, tiene la obligación de manifestarlo cada tres años a la Dirección del Catastro, en las formas oficiales expedidas al efecto, y deberán anexar los documentos y planos que se indiquen en las mismas.
+Todo propietario o poseedor de predios, tiene la obligación de manifestarlo cada año a la Dirección de Catastro, en las formas oficiales expedidas al efecto, y deberán anexar los documentos y planos que se indiquen en las mismas.
 
 ###### ARTICULO 38.
 
@@ -516,3 +522,11 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO Profr. y Lic. ALEJANDRO CERVANTES DELGAD
 EL SECRETARIO DE GOBIERNO.
 
 LIC. HUMBERTO SALGADO GOMEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE NOVIEMBRE DE 1987.
+
+###### ARTICULO UNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
