@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1986-12-31"
+last_updated: "1987-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,6 +23,8 @@ abbreviation: "CFF"
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 1986.
+
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 2 DE MARZO DE 1987.
 
 Código publicado en el Diario Oficial de la Federación el jueves 31 de diciembre de 1981.
 
@@ -1404,25 +1406,25 @@ V. Autorizar actas constitutivas, de fusión o liquidación, de personas morales
 
 VI. Señalar como domicilio fiscal para efectos del registro federal de contribuyentes, un lugar distinto del que corresponda conforme al artículo 10.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+
 ###### Artículo 80.
 
 A quien cometa las infracciones relacionadas con el registro federal de contribuyentes a que se refiere el artículo 79 se impondrán las siguientes multas:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+I. De $67,000.00 a las comprendidas en las fracciones I, II y VI.
 
-I. De $10,000.00 a las comprendidas en las fracciones I, II y VI.
-
-II. De $5,000.00 a la comprendida en la fracción III.
+II. De $34,000.00 a la comprendida en la fracción III.
 
 III. Para la señalada en la fracción IV:
 
-a). Tratándose de declaraciones, la mayor que resulte entre $1,000.00 o el 1% de las contribuciones declaradas; en ningún caso la multa prevista en este inciso será mayor de $20,000.00.
+a). Tratándose de declaraciones, la mayor que resulte entre $6,700.00 o el 1% de las contribuciones declaradas; en ningún caso la multa prevista en este inciso será mayor de $135,000.00.
 
-b). De $5,000.00 tratándose de la demanda ante el Tribunal Fiscal de la Federación.
+b). De $34,000.00 tratándose de la demanda ante el Tribunal Fiscal de la Federación.
 
-c). De $1,000.00 en los demás documentos.
+c). De $6,700.00 en los demás documentos.
 
-IV. De $30,000.00 para la establecida en la fracción V.
+IV. De $202,000.00 para la establecida en la fracción V.
 
 (REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983) (F. DE E., D.O.F. 28 DE MARZO DE 1984)
 
@@ -1444,9 +1446,11 @@ A quien cometa las infracciones relacionadas con la obligación de presentar dec
 
 I. Para la señalada en la fracción I:
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+
 > <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1986)</small>
 
-a). Tratándose de declaraciones, la mayor que resulte entre $2,500.00 o el 10% de las contribuciones declaradas en su caso. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, sobre las mismas se le aplicará también la multa a que se refiere este inciso.
+a). Tratándose de declaraciones, la mayor que resulte entre $5,500.00 o el 10% de las contribuciones declaradas en su caso. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, sobre las mismas se le aplicará también la multa a que se refiere este inciso.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -1460,21 +1464,27 @@ b). Por presentar una declaración, solicitud, aviso o constancia, fuera de los 
 
 En caso de incumplimiento al requerimiento formulado por la omisión, se aplicará la multa señalada en el subinciso 3 que antecede.
 
-c). De $2,000.00 en los demás documentos.
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+
+c). De $13,000.00 en los demás documentos.
+
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
 
 II. Respecto de la señalada en la fracción II:
 
-a). De $1,000.00 por no poner el nombre o ponerlo equivocadamente.
+a). De $6,700.00 por no poner el nombre o ponerlo equivocadamente.
 
-b). De $500.00 por no poner el domicilio o ponerlo equivocadamente.
+b). De $3,400.00 por no poner el domicilio o ponerlo equivocadamente.
 
-c). De $100.00 por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
+c). De $700.00 por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
 
-d). De $1,000.00 en los demás casos.
+d). De $6,700.00 en los demás casos.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-III. Tratándose de la señalada en la fracción III, la que resulte mayor entre $2,000.00 o el 2% de las contribuciones no pagadas, por cada requerimiento.
+III. Tratándose de la señalada en la fracción III, la que resulte mayor entre $13,000.00 o el 2% de las contribuciones no pagadas, por cada requerimiento.
 
 ###### Artículo 83.
 
@@ -1498,23 +1508,25 @@ VII. No expedir comprobante de sus actividades, cuando las disposiciones fiscale
 
 VIII. Microfilmar documentación para efectos fiscales sin cumplir con los requisitos que establecen las disposiciones relativas.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+
 ###### Artículo 84.
 
 A quien cometa las infracciones relacionadas con la obligación de llevar contabilidad a que se refiere el artículo 83 se impondrán las siguientes multas:
 
-I. De $5,000.00 a $50,000.00 a la comprendida en la fracción I.
+I. De $34,000.00 a $337,000.00 a la comprendida en la fracción I.
 
-II. De $1,000.00 a $25,000.00 a las establecidas en las fracciones II y III.
+II. De $6,700.00 a $168,000.00 a las establecidas en las fracciones II y III.
 
-III. De $1,000.00 a $20,000.00 a la señalada en la fracción IV.
+III. De $6,700.00 a $135,000.00 a la señalada en la fracción IV.
 
-IV. De $1.000.00 a $10,000.00 a la comprendida en la fracción V.
+IV. De $6.700.00 a $67,000.00 a la comprendida en la fracción V.
 
-V. De $3,000.00 a $40,000.00 a la señalada en la fracción VI.
+V. De $20,000.00 a $269,000.00 a la señalada en la fracción VI.
 
-VI. De $1,000.00 a $10,000.00 a la comprendida en la fracción VII.
+VI. De $6,700.00 a $67,000.00 a la comprendida en la fracción VII.
 
-VII. De $10,000.00 a $50,000.00 a la establecida en la fracción VIII. La multa procederá sin perjuicio de que los documentos microfilmados en contravención de las disposiciones fiscales carezcan de valor probatorio.
+VII. De $67,000.00 a $337,000.00 a la establecida en la fracción VIII. La multa procederá sin perjuicio de que los documentos microfilmados en contravención de las disposiciones fiscales carezcan de valor probatorio.
 
 ###### Artículo 85.
 
@@ -1526,13 +1538,15 @@ I. Oponerse a que se practique la visita en el domicilio fiscal. No suministrar 
 
 II. No conservar la contabilidad o parte de ella, así como la correspondencia que los visitadores les dejen en depósito.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+
 ###### Artículo 86.
 
-A quien comenta (sic) las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el artículo 85, se impondrán las siguientes multas:
+A quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el artículo 85, se impondrán las siguientes multas:
 
-I. De $10,000.00 a $100,000.00 a la comprendida en la fracción I.
+I. De $67,000.00 a $674,000.00 a la comprendida en la fracción I.
 
-II. De $5,000.00 a $200,000.00 a la establecida en la fracción II.
+II. De $34,000.00 a $1'347,000.00 a la establecida en la fracción II.
 
 ###### Artículo 87.
 
@@ -1548,13 +1562,15 @@ II. Asentar falsamente que se ha dado cumplimiento a las dispociones (sic) fisca
 
 III. Exigir una prestación que no esté prevista en las disposiciones fiscales, aun cuando se aplique a la realización de las funciones públicas.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+
 ###### Artículo 88.
 
 A quien comenta (sic) las infracciones a las disposiciones fiscales a que se refiere el artículo 87, se impondrán las siguientes multas:
 
-I. De $5,000.00 a $50,000.00 a la comprendida en la fracción I.
+I. De $34,000.00 a $337,000.00 a la comprendida en la fracción I.
 
-II. De $5,000.00 a $200,000.00 a las establecidas en las fracciones II y III.
+II. De $34,000.00 a $1'347,000.00 a las establecidas en las fracciones II y III.
 
 ###### Artículo 89.
 
@@ -1564,17 +1580,21 @@ I. Asesorar o aconsejar a los contribuyentes para omitir el pago de una contribu
 
 II. Ser cómplice en cualquier forma no prevista, en la comisión de infracciones fiscales.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+
 ###### Artículo 90.
 
 A quien cometa las infracciones señaladas en el artículo 89 de este Código, se impondrán las siguientes multas:
 
-I. De $10,000.00 a $100,000.00 a la comprendida en la fracción I.
+I. De $67,000.00 a $674,000.00 a la comprendida en la fracción I.
 
-II. De $5,000.00 a $50,000.00 a la establecida en la fracción II.
+II. De $34,000.00 a $337,000.00 a la establecida en la fracción II.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
 
 ###### Artículo 91.
 
-La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de $1,000.00 a $10,000.00.
+La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de $6,700.00 a $67,000.00.
 
 ### CAPITULO II. De las Notificaciones y la Garantía del Interés Fiscal
 
@@ -3677,3 +3697,7 @@ E.- En los casos señalados en el artículo 78 la multa será el 6% de las contr
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor el día 1o. de enero de 1987.
+
+D.O.F. 2 DE MARZO DE 1987.
+
+LA ACTUALIZACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
