@@ -4,7 +4,7 @@ identifier: "COA-ley-de-transito-y-transporte-del-estado-de-coahuila-de-3803"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-19"
-last_updated: "1996-01-19"
+last_updated: "1997-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TRANSITO Y TRANSPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 19 de enero de 1996.
 
@@ -687,7 +687,15 @@ IV.- Responder ante la autoridad Estatal o Municipal competente, de las faltas o
 
 V.- Contar con las medidas de seguridad que determinen las autoridades correspondientes;
 
-VI.- Adquirir los seguros que amparen al pasajero, equipaje o carga, a la propia unidad y garanticen la reparación de los daños que se pudieran ocasionar a terceros en sus personas o bienes;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+VI.- Adquirir los seguros que amparen a la persona de el o los pasajeros y equipaje; carga; a la propia unidad; y la reparación de los daños que se pudieran ocasionar a terceros en su persona o bienes.
+
+El seguro que contrate el concesionario o permisionario, tratándose de pasajeros y terceros con relación a su integridad personal, en caso de muerte cubrirá por lo menos, el pago de los gastos hospitalarios y de atención médica, de los gastos funerarios y una indemnización en efectivo por el monto que establezca la Ley Federal del Trabajo, multiplicada por cuatro. Si se causa cualquier clase de incapacidad, el seguro deberá cubrir, por lo menos, el pago de atención médica, el de los gastos hospitalarios y una indemnización en efectivo con base en la clasificación de incapacidades que establece la Ley federal del Trabajo, cuyo monto se multiplicará por cuatro.
+
+Para el derecho y la prelación en el pago de las indemnizaciones por muerte establecidas en el párrafo anterior, se estará a lo dispuesto en el Código Civil del Estado y en el artículo 501 de la ley Federal del Trabajo, respectivamente.
+
+En todo contrato de seguro, se especificará la o las unidades automotrices aseguradas, según los números de concesión, placas y el número económico con los que se identifica a la unidad. Sin que se acredite lo anterior, será improcedente el registro de la unidad en el Registro Público del Transporte en el Estado y, en su caso, en sus equivalentes en los municipios;
 
 VII.- Mantener los vehículos en el estado de higiene, mecánico y eléctrico óptimo para la prestación del servicio;
 
@@ -1248,3 +1256,11 @@ LIC. ANTONIO JUAN MARCOS ISSA
 EL SECRETARIO DE COMUNICACIONES Y OBRAS PUBLICAS
 
 LIC. ANTONIO KARAM MACCISE
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE DICIEMBRE DE 1997.
+
+PRIMERO.- El presente decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno de Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
