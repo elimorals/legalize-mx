@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2001-06-29"
+last_updated: "2002-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -1495,6 +1495,10 @@ III.- No haber sido condenado por delito intencional con sanción privativa de l
 
 IV.- No haber sido inhabilitado por resolución firme para desempeñar cargo, empleo o comisión públicas con motivo de responsabilidad de carácter oficial.
 
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2002)</small>
+
+V.- Ser nativo de la Entidad o tener una residencia efectiva no menor de cinco años en el Estado.
+
 ### CAPITULO III. DE LAS INCOMPATIBILIDADES
 
 ###### Artículo 120.
@@ -1676,3 +1680,11 @@ EI presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Los recursos radicados en las Salas Civil y Penal del Tribunal Superior de Justicia y en el Tribunal Unitario con sede en Cancún, se seguirán tramitando en dichos Organos Jurisdiccionales, hasta en tanto el Pleno del Tribunal Superior de Justicia acuerde lo conducente de conformidad a las presentes reformas de la Ley Orgánica del Poder Judicial.
+
+P.O. 15 DE FEBRERO DE 2002.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las disposiciones del presente Decreto, no serán aplicables respecto a los funcionarios de la administración pública estatal, titulares de las unidades y áreas de carácter administrativo del Poder Judicial, que actualmente se encuentren desempeñando alguno de los cargos a que hacen referencias los artículos 21 de la Ley Orgánica de la Administración Pública y 91 y 93 de la Ley Orgánica del poder Judicial, ambas del Estado de Quintana Roo.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto, todas las dependencias y entidades de la administración pública central y paraestal (sic), así como las unidades administrativas y áreas de la Oficialía Mayor del Poder Judicial del Estado, se sujetarán a las disposiciones del mismo, y paulatinamente deberán hacer las adecuaciones correspondientes en los ordenamientos internos que regulen su propio funcionamiento.
