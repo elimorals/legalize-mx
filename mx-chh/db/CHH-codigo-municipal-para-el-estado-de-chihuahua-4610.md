@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2003-07-19"
+last_updated: "2003-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE OCTUBRE DE 2003.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -996,8 +996,6 @@ IV.- Serán presididas por él o los representantes del Ayuntamiento que sean co
 ###### ARTICULO 45.
 
 Los Ayuntamientos, aprobarán dentro de sus respectivas jurisdicciones, de acuerdo con las leyes que en materia municipal expida el Congreso, los Bandos de Policía y Gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
-
-El Ayuntamiento discutirá y aprobará, a propuesta del Presidente Municipal, de los Regidores o de los electores a través de iniciativa popular, las disposiciones reglamentarias de observancia general en el Municipio.
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
@@ -3289,19 +3287,19 @@ P.O. 11 DE ENERO DE 2003.
 
 El presente Decreto entrará en vigor el primero de enero del año dos mil tres.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2003)</small>
 
 ###### ARTÍCULO SEGUNDO.
 
-Durante el ejercicio fiscal de 2003, los contribuyentes del Impuesto Predial efectuarán el pago de esta contribución, de acuerdo a los valores y tasa aplicadas durante el ejercicio fiscal de 2002, sin perjuicio de los descuentos por pago anticipado que se establezcan, de los incrementos acordados por el Ayuntamiento con carácter general y los que deriven de nuevas construcciones y actualizaciones de valores catastrales, anteriores a la entrada en vigor del presente Decreto.
+Durante los ejercicios fiscales de 2003 y 2004, los contribuyentes del Impuesto Predial efectuarán el pago de esta contribución de acuerdo a las disposiciones del Código Municipal del Estado, aplicadas durante el ejercicio fiscal de 2002, sin perjuicio de los descuentos por pago anticipado que se establezcan, así como de los incrementos acordados por el Ayuntamiento con carácter general y los que se deriven de nuevas construcciones y actualizaciones de valores catastrales.
 
-A partir del primero de enero del 2004, quienes efectúen el pago del impuesto, lo harán conforme a lo dispuesto por Decreto 562/02 I P.O.
+A partir del primero de enero de 2005, quienes efectúen el pago del impuesto, lo harán conforme a lo dispuesto por el presente Decreto.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2003)</small>
 
 ###### ARTÍCULO TERCERO.
 
-A partir de la aplicación de las disposiciones que establece el presente Decreto, que será a partir del año dos mil cuatro, el monto del incremento en su caso del impuesto predial a pagar por los sujetos obligados de la relación tributaria, no podrá exceder en un diez por ciento, respecto al monto enterado, por el mismo bien, en el año inmediato anterior. Esta disposición operará en cada caso por año, hasta que se alcance el cien por ciento del impuesto a pagar, sin perjuicio de la actualización que pueda corresponder.
+A partir de la aplicación de las disposiciones que establece el presente Decreto, que será a partir del año 2005, el incremento que llegue a generarse en el pago del impuesto predial no podrá exceder de 10%, respecto al impuesto pagado o que debió pagarse por el mismo bien en el año inmediato anterior. Esta disposición operará en cada caso por año, hasta que se alcance el cien por ciento del impuesto a pagar, sin perjuicio de la actualización que pueda corresponder.
 
 P.O. 15 DE FEBRERO DE 2003.
 
@@ -3320,6 +3318,12 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Todos aquellos especialistas en valuación que cuenten con título que los acredite como tales, podrán ejercer dicha especialidad en los términos de los anteriores preceptos legales, por los siguientes seis meses después de la publicación del presente decreto, siempre y cuando su registro ante el Departamento Estatal de Profesiones se encuentre en trámite. Concluido este término, deberá de cumplir todos los requisitos señalados. El trámite se comprobará con oficio expedido por el Departamento Estatal de Profesiones.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2003)</small>
+
+###### ARTICULO TERCERO.
+
+Para efecto del presente Decreto, se considerará especialista a todo profesionista con estudios de postgrado en materia de valuación y, para el caso, el Departamento Estatal de Profesiones podrá apoyarse en las comisiones técnicas que se señalan en la Ley de Profesiones para el Estado de Chihuahua.
 
 P.O. 8 DE MARZO DE 2003.
 
@@ -3374,5 +3378,23 @@ P.O. 19 DE JULIO DE 2003.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE OCTUBRE DE 2003.
+
+DECRETO No. 786-03 IX P.E.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE OCTUBRE DE 2003.
+
+DECRETO No. 824/03 XI P.E.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto y hasta antes del inicio del ejercicio fiscal de 2005, se efectuarán reuniones bimensuales de la Comisión de Programación, Presupuesto y Hacienda Pública con el Secretario de Desarrollo Municipal, para conocer y evaluar el grado de avance, de las administraciones municipales, en la revalorización catastral.
 
 ## TRANSITORIOS
