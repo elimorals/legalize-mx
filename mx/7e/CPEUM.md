@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2004-07-22"
+last_updated: "2004-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JULIO DE 2004.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1552,13 +1552,17 @@ II.- Coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión,
 
 III.- (DEROGADA, D.O.F. 30 DE JULIO DE 1999)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE JULIO DE 2004)</small>
 
-IV.- Examinar, discutir y aprobar anualmente el Presupuesto de Egresos de la Federación, discutiendo primero las contribuciones que, a su juicio, deben decretarse para cubrirlo, así como revisar la cuenta Pública del año anterior.
+IV.- Aprobar anualmente el Presupuesto de Egresos de la Federación, previo examen, discusión y, en su caso, modificación del Proyecto enviado por el Ejecutivo Federal, una vez aprobadas las contribuciones que, a su juicio, deben decretarse para cubrirlo, así como revisar la Cuenta Pública del año anterior.
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2004)</small>
 
-El Ejecutivo Federal hará llegar a la Cámara la iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos de la Federación a más tardar el día 15 del mes de noviembre o hasta el día 15 de diciembre cuando inicie su encargo en la fecha prevista por el artículo 83, debiendo comparecer el Secretario del Despacho correspondiente a dar cuenta de los mismos.
+El Ejecutivo Federal hará llegar a la Cámara la Iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos de la Federación a más tardar el día 8 del mes de septiembre, debiendo comparecer el secretario de despacho correspondiente a dar cuenta de los mismos. La Cámara de Diputados deberá aprobar el Presupuesto de Egresos de la Federación a más tardar el día 15 del mes de noviembre.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 30 DE JULIO DE 2004)</small>
+
+Cuando inicie su encargo en la fecha prevista por el artículo 83, el Ejecutivo Federal hará llegar a la Cámara la Iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos de la Federación a más tardar el día 15 del mes de diciembre.
 
 > <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
@@ -4754,7 +4758,7 @@ DECIMO SEGUNDO.- Los derechos laborales de los servidores públicos del Poder Ju
 
 D.O.F. 2 DE MARZO DE 1995.
 
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 3 DE JULIO DE 1996.
 
@@ -5015,6 +5019,10 @@ D.O.F. 5 DE ABRIL DE 2004.
 D.O.F. 22 DE JULIO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE JULIO DE 2004.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO PRIMERO.
 
