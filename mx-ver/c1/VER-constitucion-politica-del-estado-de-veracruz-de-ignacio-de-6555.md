@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1984-04-05"
+last_updated: "1985-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE ABRIL DE 1984.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE ABRIL DE 1985.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -451,9 +451,9 @@ III. Haber cumplido veintiún años;
 
 IV. No ser ministro de ningún culto religioso;
 
-> <small>(ADICIONADA, G.O. 21 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, G.O. 11 DE ABRIL DE 1985)</small>
 
-V. No tener empleo, cargo o comisión del Estado o de otros Estados, ni de la Federación o Municipios, o estar separado de ellos, cuando menos noventa días antes de la elección; y
+V. No tener empleo, cargo o comisión del Estado o de otros estados, ni de la federación o municipios, o estar separado de ellos cuando menos sesenta días antes de la elección, únicamente por lo que hace a los propietarios; y
 
 > <small>(ADICIONADA, G.O. 21 DE ENERO DE 1984)</small>
 
@@ -633,7 +633,7 @@ VI. Calificar la legalidad de las elecciones de los Ayuntamientos. Cuando exista
 
 > <small>(REFORMADA, G.O. 9 DE FEBRERO DE 1984)</small>
 
-VII. Por acuerdo de las dos terceras partes de sus integrantes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a uno o más de sus miembros, por algunas de las causas previstas por las leyes, siempre y cuando sus miembros hayan tenido oportunidad para rendir pruebas y formular alegatos.
+VII. Por acuerdo de las dos terceras partes de sus integrantes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a uno o más de sus miembros, por algunas de las causas previstas por las leyes, siempre y cuando sus miembros hayan tenido oportunidad para rendir pruebas y formular alegatos;
 
 VIII. Hacer la división del Estado en Distritos electorales, de acuerdo con el último censo, y fijar la circunscripción y cabecera de ellos;
 
@@ -891,9 +891,9 @@ II. Saber leer y escribir;
 
 III. No ser ministro de ningún culto religioso;
 
-> <small>(REFORMADA, G.O. 21 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, G.O. 11 DE ABRIL DE 1985)</small>
 
-IV. No tener empleo, cargo o comisión del Estado o de otros Estados, ni de la Federación o Municipios, o separarse de ellos, cuando menos noventa días antes de la elección; y
+IV. No tener empleo, cargo o comisión del Estado o de otros estados, ni de la federación o municipios, o estar separado de ellos cuando menos cuarenta y cinco días antes de la elección, únicamente por lo que hace a los propietarios; y
 
 > <small>(REFORMADA, G.O. 21 DE ENERO DE 1984)</small>
 
@@ -1908,3 +1908,9 @@ Las funciones de los Magistrados integrantes del actual Tribunal Superior de Jus
 ###### ARTICULO SEGUNDO.
 
 La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' órgano del Gobierno del Estado.
+
+G.O. 11 DE ABRIL DE 1985.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial', órgano del Gobierno del Estado.
