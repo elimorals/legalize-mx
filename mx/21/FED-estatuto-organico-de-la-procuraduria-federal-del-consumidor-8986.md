@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-procuraduria-federal-del-consumidor-898
 country: "mx"
 rank: "estatuto"
 publication_date: "1994-08-24"
-last_updated: "1994-08-24"
+last_updated: "2001-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8986&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-08-23"
 
 ESTATUTO ORGANICO DE LA PROCURADURIA FEDERAL DEL CONSUMIDOR
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE OCTUBRE DE 2001.
 
 Estatuto publicado en el Diario Oficial de la Federación el miércoles 24 de agosto de 1994.
 
@@ -57,13 +57,19 @@ VI. Procurador: el Procurador Federal del Consumidor, y (sic) VII. Delegaciones:
 
 Adscripción de las unidades administrativas. Para efectos de planeación, coordinación, control, seguimiento y evaluación de acciones, las unidades administrativas se adscribirán, de conformidad con el artículo 4 del Reglamento, al Procurador, a la Subprocuraduría o a la Coordinación General respectiva, de acuerdo con las fracciones siguientes:
 
-I. A la Subprocuraduría de Servicios al Consumidor estarán adscritas las Direcciones Generales de Quejas y Conciliación, de Arbitraje y Resoluciones y de Organización de Consumidores;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2001)</small>
 
-II. A la Subprocuraduría de Verificación y Vigilancia estarán adscritas las Direcciones Generales de Verificación y Vigilancia y de Análisis de Prácticas Comerciales;
+I.- A la Subprocuraduría de Servicios al Consumidor, estarán adscritas las Direcciones Generales de Quejas y Conciliación, y de Arbitraje y Resoluciones;
+
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2001)</small>
+
+II.- A la Subprocuraduría de Verificación y Vigilancia, estarán adscritas las Direcciones Generales de Verificación y Vigilancia; de Análisis de Prácticas Comerciales, y la Coordinación de Investigación;
 
 III. A la Subprocuraduría Jurídica estarán adscritas las Direcciones Generales Jurídica Consultiva y de lo Contencioso y de Recursos;
 
-IV. A la Coordinación General de Investigación y Divulgación estarán adscritas las Coordinaciones de Investigación, de Publicaciones, de Radio y Televisión y de Educación para el Consumo;
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2001)</small>
+
+IV.- A la Coordinación General de Investigación y Divulgación, estarán adscritas las Coordinaciones de Publicaciones; de Radio y Televisión; de Educación para el Consumo, y la Dirección General de Organización de Consumidores;
 
 V. A la Coordinación General de Administración estarán adscritas las Direcciones Generales de Programación, Organización y Presupuesto, y de Recursos Humanos y Materiales;
 
@@ -433,6 +439,210 @@ VI. Proponer los criterios conforme a los cuales deberán regirse las relaciones
 
 VII. Las señaladas en el artículo 15 del Reglamento.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 11 DE OCTUBRE DE 2001)</small>
+
+### CAPITULO VIII. DE LAS DELEGACIONES
+
+> <small>(ADICIONADO, D.O.F. 11 DE OCTUBRE DE 2001)</small>
+
+###### ARTICULO 24.
+
+Para el cumplimiento de sus atribuciones, la Procuraduría contará con las delegaciones, subdelegaciones y demás unidades que se requieran conforme a las necesidades del servicio, debiendo existir, al menos, una delegación por entidad federativa. Para su creación o supresión se atenderán criterios de densidad de población, actividad económica, ubicación geográfica, y recursos con que cuente la Procuraduría, entre otros.
+
+La denominación y sede de las delegaciones con que cuenta la Procuraduría, son las siguientes:
+
+I.- En el Estado de Aguascalientes
+
+Delegación de Aguascalientes, con sede en la ciudad de Aguascalientes;
+
+II.- En el Estado de Baja California
+
+Delegación Tijuana, con sede en la ciudad de Tijuana.
+
+Delegación Mexicali, con sede en la ciudad de Mexicali.
+
+III.- En el Estado de Baja California Sur
+
+Delegación La Paz, con sede en la ciudad de La Paz.
+
+IV.- En el Estado de Campeche
+
+Delegación Campeche, con sede en la ciudad de Campeche.
+
+V.- En el Estado de Coahuila
+
+Delegación Saltillo, con sede en la ciudad de Saltillo.
+
+Delegación Torreón, con sede en la ciudad de Torreón.
+
+VI.- En el Estado de Colima
+
+Delegación Colima, con sede en la ciudad de Colima.
+
+VII.- En el Estado de Chiapas
+
+Delegación Tuxtla Gutiérrez, con sede en la ciudad de Tuxtla Gutiérrez.
+
+VIII.- En el Estado de Chihuahua
+
+Delegación Chihuahua, con sede en la ciudad de Chihuahua.
+
+Delegación Ciudad Juárez, con sede en Ciudad Juárez.
+
+IX.- En el Estado de Durango
+
+Delegación Durango, con sede en la ciudad de Durango.
+
+X.- En el Estado de Guanajuato
+
+Delegación León, con sede en la ciudad de León.
+
+Delegación Irapuato, con sede en la ciudad de Irapuato.
+
+XI.- En el Estado de Guerrero
+
+Delegación Acapulco, con sede en la ciudad de Acapulco.
+
+Delegación Iguala, con sede en la ciudad de Iguala.
+
+XII.- En el Estado de Hidalgo
+
+Delegación Pachuca, con sede en la ciudad de Pachuca.
+
+XIII.- En el Estado de Jalisco
+
+Delegación Guadalajara, con sede en la ciudad de Guadalajara.
+
+XIV.- En el Estado de México
+
+Delegación Toluca, con sede en la ciudad de Toluca.
+
+Delegación Naucalpan, con sede en el Municipio de Naucalpan de Juárez.
+
+Delegación Nezahualcóyotl, con sede en el Municipio de Nezahualcóyotl.
+
+Delegación Tlalnepantla, con sede en el Municipio de Tlalnepantla.
+
+XV.- En el Estado de Michoacán
+
+Delegación Morelia, con sede en la ciudad de Morelia.
+
+XVI.- En el Estado de Morelos
+
+Delegación Cuernavaca, con sede en la ciudad de Cuernavaca.
+
+XVII.- En el Estado de Nayarit
+
+Delegación Tepic, con sede en la ciudad de Tepic.
+
+XVIII.- En el Estado de Nuevo León
+
+Delegación Monterrey, con sede en la ciudad de Monterrey.
+
+XIX.- En el Estado de Oaxaca
+
+Delegación Oaxaca, con sede en la ciudad de Oaxaca.
+
+XX.- En el Estado de Puebla
+
+Delegación Puebla, con sede en la ciudad de Puebla.
+
+XXI.- En el Estado de Querétaro
+
+Delegación Querétaro, con sede en la ciudad de Querétaro.
+
+Delegación San Juan del Río, con sede en la ciudad de San Juan del Río.
+
+XXII.- En el Estado de Quintana Roo
+
+Delegación Cancún, con sede en la ciudad de Cancún.
+
+XXIII.- En el Estado de San Luis Potosí
+
+Delegación San Luis Potosí, con sede en la ciudad de San Luis Potosí.
+
+XXIV.- En el Estado de Sinaloa
+
+Delegación Culiacán, con sede en la ciudad de Culiacán.
+
+XXV.- En el Estado de Sonora
+
+Delegación Hermosillo, con sede en la ciudad de Hermosillo.
+
+XXVI.- En el Estado de Tabasco
+
+Delegación Villahermosa, con sede en la ciudad de Villahermosa.
+
+XXVII.- En el Estado de Tamaulipas
+
+Delegación Ciudad Victoria, con sede en Ciudad Victoria.
+
+Delegación Matamoros, con sede en la ciudad de Matamoros.
+
+Delegación Nuevo Laredo, con sede en la ciudad de Nuevo Laredo.
+
+Delegación Reynosa, con sede en la ciudad de Reynosa.
+
+Delegación Tampico, con sede en la ciudad de Tampico.
+
+XXVIII.- En el Estado de Tlaxcala
+
+Delegación Tlaxcala, con sede en la ciudad de Tlaxcala.
+
+XXIX.- En el Estado de Veracruz
+
+Delegación Veracruz, con sede en la ciudad de Veracruz.
+
+Delegación Tuxpan, con sede en la ciudad de Tuxpan.
+
+Delegación Coatzacoalcos, con sede en la ciudad de Coatzacoalcos.
+
+Delegación Jalapa, con sede en la ciudad de Jalapa.
+
+XXX.- En el Estado de Yucatán
+
+Delegación Mérida, con sede en la ciudad de Mérida.
+
+XXXI.- En el Estado de Zacatecas
+
+Delegación Zacatecas, con sede en la ciudad de Zacatecas.
+
+XXXII.- En el Distrito Federal
+
+Delegación Alvaro Obregón, con sede en la Delegación Alvaro Obregón.
+
+Delegación Azcapotzalco, con sede en la Delegación Azcapotzalco.
+
+Delegación Benito Juárez, con sede en la Delegación Benito Juárez.
+
+Delegación Cuauhtémoc, con sede en la Delegación Cuauhtémoc.
+
+Delegación Gustavo A. Madero, con sede en la Delegación Gustavo A. Madero.
+
+Delegación Iztapalapa, con sede en la Delegación Iztapalapa.
+
+Delegación Magdalena Contreras, con sede en la Delegación La Magdalena Contreras.
+
+Delegación Miguel Hidalgo, con sede en la Delegación Miguel Hidalgo.
+
+Delegación Tláhuac, con sede en la Delegación Tláhuac.
+
+Delegación Venustiano Carranza, con sede en la Delegación Venustiano Carranza.
+
+Delegación Xochimilco, con sede en la Delegación Xochimilco.
+
+> <small>(ADICIONADO, D.O.F. 11 DE OCTUBRE DE 2001)</small>
+
+###### ARTICULO 25.
+
+Las delegaciones ejercerán sus atribuciones en términos de lo dispuesto por el artículo 16 del Reglamento de la Procuraduría Federal del Consumidor, en la circunscripción territorial que establezca el Procurador mediante acuerdo que se publique en el Diario Oficial de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 11 DE OCTUBRE DE 2001)</small>
+
+###### ARTICULO 26.
+
+Las subdelegaciones y unidades con que cuente la Procuraduría, estarán adscritas a las delegaciones y tendrán las atribuciones y circunscripción territorial que determine el Procurador mediante acuerdos que se publiquen en el Diario Oficial de la Federación.
+
 ## TRANSITORIOS
 
 PRIMERO.- Este Estatuto orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
@@ -442,3 +652,9 @@ SEGUNDO.- Se abroga el Acuerdo por el que se delegan en los titulares de las Del
 Sufragio Efectivo. No reelección.
 
 México, D.F., a 23 de agosto de 1994.- El Procurador Federal del Consumidor, Alfredo Baranda García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 11 DE OCTUBRE DE 2001.
+
+UNICO.- El presente Acuerdo entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
