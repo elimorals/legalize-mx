@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1980-12-31"
+last_updated: "1981-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1981.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -107,13 +107,15 @@ Se entiende que hay abuso o uso indebido del derecho privado, en todos los casos
 
 19.- Las autoridades Fiscales no podrán modificar ni revocar sus resoluciones favorables a los particulares, pero el Tesorero General del Estado podrá promover ante el Supremo Tribunal de Justicia del Estado la nulidad total o parcial de dichas resoluciones mediante juicio de oposición.
 
-20.- Las leyes, Reglamentos y demás disposiciones fiscales entrarán en vigor en toda la entidad 30 días después de que se publiquen en el Periódico Oficial del Estado, excepto cuando expresamente se fije la fecha de iniciación de su vigencia.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+20.- Las leyes, reglamentos y demás disposiciones fiscales entrarán en vigor en toda la entidad 30 días después de que se publiquen en el Periódico Oficial del Estado, excepto cuando expresamente se fije la fecha de iniciación de su vigencia.
 
 En los términos señalados por días, sólo se computarán los días hábiles. En los no fijados por días sino por períodos como años, meses, quincenas o decenas, o bien en aquéllos en que se señale una fecha determinada para la extinción del término, se computarán también los inhábiles pero si el último día no están abiertas al público las oficinas receptoras concluirá al día siguiente hábil. Los términos principiarán a correr el día siguiente a la fecha en que surta sus efectos la notificación, en que se realicen los hechos o las circunstancias que las disposiciones legales o las resoluciones administrativas prevengan.
 
-Son días inhábiles los domingos, los días 1o. de enero, 5 de febrero, 21 de marzo, 1o. y 5 de Mayo, 16 de septiembre, 20 de noviembre y 25 de diciembre de cada año, así como todos aquellos en que no se encuentre abierta al público la oficina fiscal del Estado, en que deba hacerse el pago, aún cuando se dejen guardias en ella. Las autoridades fiscales podrán habilitar, mediante acuerdo escrito, horas y días inhábiles para la práctica de actuaciones determinadas o para recibir pagos.
+Son días inhábiles los sábados y domingos, los días 1o. de enero, 5 de febrero, 21 de marzo, 1o. de mayo, 16 de septiembre, 12 de octubre, 20 de noviembre y 25 de diciembre de cada año, así como todos aquéllos en que no se encuentre abierta al público la Oficina Fiscal del Estado en que deba hacerse el pago, aún cuando se dejen guardias en ella. Las autoridades fiscales podrán habilitar mediante acuerdo escrito, horas y días inhábiles para la práctica de actuaciones determinadas o para recibir pagos.
 
-Días hábiles son todos aquellos no mencionados en el párrafo anterior. Horas hábiles son las comprendidas entre las 7:00 y las 19:00 horas.
+Días hábiles son todos aquéllos no mencionados en el párrafo anterior. Horas hábiles las comprendidas entre las 7:00 y las 19:00 horas.
 
 21.- La ignorancia de las leyes y disposiciones fiscales, no podrá aducirse como excusa de su incumplimiento. No obstante, las autoridades fiscales competentes en aquellos casos en que se trate de personas notoriamente incultas, que habiten lejos de las poblaciones y que no tengan a su servicio a personas instruídas, podrán conceder a los interesados un término de gracia para el cumplimiento de las leyes y disposiciones relativas, así como eximirlos de las sanciones que debieran imponérseles, por las infracciones en que hubieran incurrido.
 
@@ -365,11 +367,13 @@ Cuando se omita la presentación de declaraciones para el pago de impuestos prop
 
 45.- La falta de pago de un crédito fiscal en la fecha o término establecido en las disposiciones respectivas, determina que el crédito sea exigible.
 
-46.- El Tesorero General del Estado podrá conceder prórrogas para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades. La prórroga o el término dentro del cual deben pagarse las parcialidades no excederá de un año, salvo que se trate de adeudos cuantiosos correspondientes a ejercicios fiscales anteriores, o de situaciones excepcionales, casos en los cuales el término podrá ser hasta de tres años.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+46.- El Tesorero General del Estado podrá conceder prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades. La prórroga o el término dentro del cual deben pagarse las parcialidades no excederá de un año, salvo que se trate de adeudos cuantiosos correspondientes a ejercicios fiscales anteriores, o de situaciones excepcionales, casos en los cuales el término podrá ser hasta de tres años.
 
 En los casos a que se refiere este precepto deberá garantizarse el interés fiscal, salvo que proceda dispensar la garantía.
 
-Durante los términos concedidos se causarán recargos hasta del 2% mensual a juicio del Tesorero.
+Durante los términos concedidos se causarán intereses hasta del 3% mensual, a juicio del Tesorero.
 
 47.- Vencerán anticipadamente los términos y la autorización para pagar en parcialidades y el crédito fiscal será inmediatamente exigible:
 
@@ -393,9 +397,9 @@ Las autoridades, a solicitud del interesado expresada en el momento de hacer el 
 
 La protesta quedará sin efecto y el pago se considerará definitivo desde la fecha en que se hizo el entero respectivo, cuando no se promuevan dentro del término legal los recursos o medios de defensa o fueren rechazados o sobreseídos o cuando de la resolución que se dicte resultare la procedencia del pago.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-50.- Los causantes y responsables solidarios que no paguen los créditos fiscales que les sean exigibles, deberán cubrir recargos por la mora; la tasa será de un 3% por cada mes o fracción que transcurra; a partir de la fecha de exigibilidad hasta que se efectúe el pago. En ningún caso los recargos excederán el importe del crédito fiscal omitido.
+50.- Los causantes y responsables solidarios que no paguen los créditos fiscales que les sean exigibles, deberán cubrir recargos por la mora; la tasa será a razón del 4.5% por cada mes o fracción que transcurra, a partir de la fecha de exigibilidad hasta que se efectúe el pago. En ningún caso los recargos excederán el importe del crédito fiscal omitido.
 
 51.- El fisco estatal está obligado a devolver las cantidades que se le paguen indebidamente, conforme a las reglas que siguen:
 
@@ -1055,6 +1059,8 @@ III.- Tratándose de plantas de beneficio y establecimientos metalúrgicos, la b
 
 ### CAPITULO II. IMPUESTO SOBRE TRASLACION DE DOMINIO DE BIENES INMUEBLES
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
 ### CAPITULO III. IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
 N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
@@ -1099,9 +1105,7 @@ N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACIO
 
 156.- Las personas que reciban en consignación o comisión para su venta automóviles cuya tenencia o uso grava este capítulo, son solidariamente responsables por los impuestos que se adeuden.
 
-N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)</small>
+N. DE E., SUSPENDIDO POR CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 21 DE OCTUBRE DE 1978.(REFORMADO, P.O. 8 DE DICIEMBRE DE 1971)
 
 157.- El impuesto se causará anualmente y deberá quedar cubierto dentro de los dos primeros meses de cada año.
 
@@ -1697,145 +1701,165 @@ X.- Nombre y número del Notario o autoridad ante quien se celebre el contrato u
 
 131.- Toda construcción, ampliación o modificación de la construcción ya existente, deberá ser manifestada por el sujeto del impuesto a la Tesorería General del Estado, en las formas que para el caso autorice la misma, dentro de los 15 días siguientes al de la terminación de la obra realizada.
 
-#### SECCION PRIMERA. OBJETO, SUJETO, TASA Y BASE
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1973)</small>
+#### SECCION PRIMERA. OBJETO, SUJETO, BASE Y TASA
 
-132.- Es objeto del impuesto que establece este Capítulo la transmisión o adquisición del dominio de bienes inmuebles ubicados en el Estado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-Tratándose de fideicomisos irrevocables se cobrará el impuesto al celebrarse esta operación, con cargo al fideicomitente, en la inteligencia de que al ejecutarse los fines del fideicomiso se reconocerá el pago anterior y por lo tanto no volverá a causarse el impuesto, salvo que la tasa de éste haya aumentado en cuyo caso se cobrará la diferencia entre la tasa anterior y la que esté vigente.
+132.- Es objeto del impuesto que establece este capítulo la adquisición del dominio de bienes inmuebles ubicados en el Estado.
 
-Tratándose de fideicomisos revocables se causará, con cargo al fideicomitente, al otorgarse la escritura de enajenación correspondiente.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-En los fideicomisos en garantía sólo se causará el impuesto al transmitirse la propiedad por incumplimiento de la obligación garantizada.
+133.- Son sujetos de este impuesto las personas físicas o morales que adquieran inmuebles ubicados en el Estado, así como los derechos relacionados con los mismos, a que se refiere el artículo siguiente.
 
-133.- El Impuesto sobre Traslación de Dominio de Bienes Inmuebles se causa:
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
+134.- Para los efectos de este impuesto, se entiende por adquisición la que derive de:
 
-I.- Por la transmisión de la propiedad de bienes inmuebles o derechos de copropiedad sobre éstos, cualquiera que sea el título o causa incluyendo los casos de constitución o fusión de sociedades, aumento de capital social, adjudicación por disolución y liquidación de sociedades sean civiles o mercantiles. Tratándose de división de la copropiedad o de la disolución de la sociedad conyugal, se causará el impuesto si el valor de la parte adjudicada a alguno de los copropietarios o cónyuges en su caso, excede del valor de su respectiva porción. En estos casos el impuesto se causará sobre la diferencia que exista entre el valor de la porción que le corresponde al copropietario o al cónyuge, y el valor de la porción que adquiera.
+I.- Todo acto por el que se trasmita la propiedad, incluyendo la donación, la herencia y la aportación a toda clase de asociaciones o sociedades.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
+II.- La compraventa en la que el vendedor se reserve la propiedad, aún cuando la transferencia de ésta opere con posterioridad.
 
-Para calcular esta diferencia se tomará en cuenta exclusivamente el valor de los bienes inmuebles, de tal manera que si uno de los copropietarios o cónyuges le es trasmitido algo más de la porción que le corresponde en dichos bienes inmuebles, se pagará el impuesto por ese excedente. En nada influirá para este cálculo la manera como se divida la totalidad del patrimonio común.
+III.- La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él antes de que se celebre el contrato prometido.
 
-II.- Por la adquisición de bienes inmuebles o de derechos de copropiedad sobre éstos, en virtud de prescripción, remate judicial o administrativo.
+IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III que anteceden, respectivamente.
 
-III.- Por la readquisición de la propiedad de los bienes inmuebles, cuando voluntariamente se rescinda o en cualquier forma jurídica se termine o deje sin efecto el contrato traslativo de dominio.
+V.- Fusión de sociedades.
 
-IV.- Por la transmisión de la nuda propiedad.
+VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
+VII.- Constitución del usufructo, transmisión de éste o de la nuda propiedad así como la extinción del usufructo temporal.
 
-V.- Por la cesión de derechos reales, personales, hereditarios y legatarios sobre bienes inmuebles, así como la cesión de derechos del fideicomitente o fideicomisario.
+VIII.- Prescripción positiva.
 
-134.- Son sujetos del impuesto:
+IX.- La cesión de derechos del heredero o legatario, cuando entre los bienes de la sucesión haya inmuebles, en la parte relativa y en proporción a éstos.
 
-I.- La persona que transmita la propiedad del inmueble en los casos de las fracciones I, III y IV del artículo anterior.
+X.- Enajenación a través de fideicomiso, en los términos de la fracción III del artículo 138.
 
-II.- El propietario del bien de mayor valor en los casos de permuta. Esto mismo se observará en las compraventas en que el precio se cubra en parte con bienes inmuebles. Si los bienes tienen el mismo valor los interesados pagarán el impuesto por partes iguales.
+Tratándose de permutas se observará lo dispuesto en la fracción III del artículo siguiente.
 
-III.- El adjudicatario en los casos de remate judiciales o administrativos.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-IV.- El adquirente en los casos de prescripción.
+135.- Será base gravable del impuesto:
 
-V.- El fideicomitente en los casos de los párrafos segundo y tercero del artículo 132. En estos casos las declaraciones y pagos del impuesto los hará el fiduciario por cuenta del fideicomitente.
+I.- El valor del inmueble cuyo dominio se adquiere y que se determine por medio del avalúo que practique la Tesorería General del Estado o una institución de crédito si aquélla así lo dispone.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1978)</small>
+Los interesados podrán inconformarse ante la Recaudación de Rentas respectiva, dentro de los diez días siguientes a la notificación, con el resultado del peritaje, pudiendo aportar las pruebas que estimen procedentes para que se emita nuevo dictamen, que tendrá el carácter de definitivo.
 
-VI.- El cesionario de los derechos reales, personales, hereditarios, legatarios y fiduciarios en los casos a que alude la fracción V del artículo anterior.
+II.- El valor catastral o el precio del inmueble señalado en el acto de adquisición, si son mayores al del avalúo a que se refiere la fracción anterior.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1975)</small>
+III.- En las permutas, la base del impuesto será el valor más alto entre los que correspondan a loe bienes permutados.
 
-135.- El Impuesto sobre Traslación de Dominio de Bienes Inmuebles se causará sobre el valor gravable determinado de conformidad con los artículos 136 y 137 conforme a la siguiente:
+IV.- Para los efectos de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor total de la propiedad.
 
-TARIFA
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-Hasta $100,000.00 1%
+136.- La base gravable se reducirá con la cantidad que resulte de elevar a 5 años el salario mínimo general, de la zona económica en que se encuentre ubicado el inmueble.
 
-De $100,000.01 a $250,000.00 1.5%
+Tratándose de casa habitación, la base gravable podrá reducirse hasta por la cantidad que el Fondo de Operación y Descuento Bancario a la Vivienda de Interés Social fije para esta última.
 
-De $250,000.01 a $500,000.00 2%
+Cuando del inmueble formen parte departamentos habitacionales, la reducción se hará por cada uno de ellos. Lo dispuesto en este párrafo no es aplicable a hoteles.
 
-Más de $500,000.00 3%
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-136.- Será base gravable del Impuesto:
+137.- La tasa del impuesto es del 10% sobre la base gravable determinada conforme a los artículos anteriores, sin que en ningún caso pueda incrementarse con impuestos adicionales o contribuciones especiales.
 
-I.- El valor del inmueble cuyo dominio se traslade y que se determine por medio del avalúo que practique la Tesorería General del Estado o una Institución de crédito si aquélla así lo dispone.
+> <small>(REFORMADO Y REUBICADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-Los interesados podrán inconformarse ante la Recaudación de Rentas respectiva, dentro de los 10 días siguientes a la notificación, con el resultado del peritaje, pudiendo aportar las pruebas que estimen procedentes para emitir nuevo dictamen que tendrá el carácter de definitivo.
+#### SECCION SEGUNDA. PAGO DEL IMPUESTO
 
-II.- El valor catastral o el precio del inmueble señalado en el acto traslativo de dominio, si son mayores al del avalúo a que se refiere la fracción anterior.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-III.- Cuando se transmita la nuda propiedad de un inmueble, la base del impuesto será el 75% del valor que se determine conforme a este artículo y al trasmitirse el usufructo la base será el 25% restante. Para estos efectos deberá presentarse una nueva declaración conforme el artículo 140, dentro de los 15 días siguientes a la fecha en que se hubiere hecho constar en escritura pública, en contrato privado o en cualquier otra forma el hecho que dió origen a la consolidación de la propiedad.
+138.- El pago del impuesto deberá hacerse dentro del mes siguiente a aquél en que se realice cualquiera de los supuestos que a continuación se señalan:
 
-137.- Los avalúos a que se refiere el artículo anterior deberán comprender tanto el terreno como las construcciones y demás accesiones, aún cuando se traslade el dominio únicamente del terreno o bien solamente de las construcciones o accesiones, salvo que se pruebe que el adquirente edificó con fondos propios las construcciones o que las adquirió con anterioridad habiendo cubierto el impuesto respectivo.
+I.- Cuando se constituya o adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga.
 
-138.- Tratándose de compraventa con reserva de dominio o cualesquiera otros contratos traslativos de dominio sujetos a condición suspensiva, el impuesto se pagará cuando se celebre el acto jurídico; pero si la condición no se cumple, se devolverá la cantidad pagada.
+II.- A la adquisición de los bienes de la sucesión o a los 3 años de la muerte del autor de la misma si transcurrido dicho plazo no se hubiere llevado a cabo la adjudicación, así como al cederse los derechos hereditarios o al enajenarse bienes por la sucesión. En estos dos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento en que se realice la cesión o la enajenación independientemente del que se cause por el cesionario o por el adquirente.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1980)</small>
+III.- Tratándose de adquisiciones efectuadas a través de fideicomisos:
 
-139.- Para los efectos de la Fracción I del artículo 136 la Tesorería General podrá aceptar los avalúos que con relación al mismo traslado de dominio se presenten ante la Oficina Federal de Hacienda respectiva, para lo cual bastará que los interesados acompañen una copia autorizada de estos avalúos a la declaración que exige el artículo 140.
+a).- Si en el acto de la constitución del fideicomiso se designa fideicomisario diverso del fideicomitente y siempre que éste no tenga derecho a readquirir del fiduciario los bienes.
 
-#### SECCION SEGUNDA. DECLARACIONES, PAGO DEL IMPUESTO Y EXENCIONES
+b).- Cuando el fideicomitente pierda el derecho a readquirir los bienes del fiduciario, si al constituírse el fideicomiso se hubiere establecido tal derecho.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1980)</small>
+c).- Al designarse fideicomisario, si éste no se designó al constituírse el fideicomiso, siempre que dicha designación no recaiga en el propio fideicomitente.
 
-140.- El Notario ante quien se otorgue escritura que contenga actos, contratos o convenios traslativos de dominio relativos a bienes inmuebles ubicados en el Estado, deberá presentar la nota a que se refiere el artículo 82 con los datos que el mismo precepto establece adicionados con los siguientes: Plano de los inmuebles, datos de inscripción en el Registro Público de la Propiedad, número de cuenta y valor catastral. En el caso de escrituras privadas el requisito anterior deberá ser cumplido por cualquiera de las partes contratantes.
+d).- Cuando el fideicomisario designado ceda sus derechos o dé instrucciones al fiduciario para que trasmita la propiedad de los bienes a un tercero. En estos casos se considerará que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o dar dichas instrucciones.
 
-Tratándose de ratificaciones de contratos privados en que se hagan constar actos traslativos de dominio de bienes inmuebles, el Notario o funcionario encargado de llevar la fé pública no hará la ratificación mientras no se le exhiba el comprobante del pago del Impuesto o la certificación oficial de exención, expresando en la constancia de ratificación el número y fecha del recibo oficial del pago del Impuesto o del oficio de exención.
+e).- En el acto en el que el fideicomitente ceda sus derechos, si entre éstos se incluye el de que los bienes se trasmitan a su favor.
 
-Cuando se trate de división de la cosa común y disolución de la sociedad conyugal, en la declaración se especificarán lo más circunstanciadamente posible los bienes que correspondan a cada uno de los copropietarios o cónyuges.
+IV.- Cuando se notifique al interesado la sentencia definitiva en que se declare que ha adquirido por prescripción.
 
-Si se trata de actos o contratos que se hagan constar en escritura pública otorgada fuera del Estado, la declaración será firmada por cualquier interesado y a ella se acompañará el testimonio de la escritura.
+V.- Cuando la adquisición deba constar en escritura pública, se estará al plazo más amplio que resulte de aplicar este precepto o lo dispuesto en el artículo 82 de este Código.
 
-En los casos en que la transmisión de la propiedad se opere como consecuencia de una resolución judicial o administrativa que no deba hacerse constar en escritura pública, el causante firmará la declaración y acompañará copia certificada de la resolución respectiva, con la constancia de la fecha en que causó estado. El plazo para presentarla será de cuarenta y cinco días hábiles contados a partir de la fecha en que hubiere causado estado la resolución respectiva, si se trata de prescripción, o de la fecha en que hubiere quedado firme el auto que fincó el remate.
+El contribuyente podrá pagar el impuesto por anticipado.
 
-141.- Recibida la nota de Recaudación de Rentas verificará dentro de los diez hábiles siguientes si reúne los requisitos legales y en su caso ordenará se practique el avalúo que establece el artículo 136.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-142.- Si la nota no reúne los requisitos legales, la Recaudación de Rentas la devolverá al Notario para que en un término de cinco días haga las correcciones debidas. Si dentro del mencionado término no lo hiciere, se tendrá por no presentada la nota.
+139.- En las adquisiciones que se hagan constar en escritura pública, los notarios y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad, lo harán constar en la escritura y lo enterarán mediante declaración en la oficina autorizada que corresponda a su domicilio. En los demás casos, los contribuyentes pagarán el impuesto mediante declaración ante la oficina autorizada que corresponda a su domicilio fiscal. Se presentará declaración por todas las adquisiciones aún cuando no haya impuesto a enterar.
 
-143.- La Recaudación hará constar el pago en todos los ejemplares de la nota, con la mención a que se refiere el artículo 44. Las copias se distribuirán en la siguiente forma: Tesorería General y Recaudación de Rentas a cuyo cargo esté la determinación del impuesto.
+Los fedatarios no estarán obligados a enterar el impuesto cuando consignen en escrituras públicas operaciones por las que ya se hubiera pagado aquel y acompañen copia del comprobante de pago.
 
-144.- El pago del impuesto se hará dentro del término señalado en el artículo 82.
+El enajenante responde solidariamente del impuesto que deba pagar el adquirente.
 
-Transcurrido el plazo sin que se acredite el pago del impuesto, los Notarios, en los casos en que los actos por virtud de los cuales se transfiere el dominio se hagan constar en escritura pública, sin excusa alguna pondrán a las escrituras la nota de "no pasó".
+Cuando por el avalúo practicado, ordenado o tomado en consideración por la Tesorería General del Estado, resulte liquidación de diferencia de impuesto, los fedatarios no serán responsables solidarios por las mismas.
 
-Los Notarios podrán revalidar las escrituras siempre y cuando se pague el impuesto omitido y la sanción correspondiente.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-145.- Los contratos celebrados en la República, pero fuera del Estado, con relación a inmuebles ubicados en el Territorio de éste, causarán el impuesto a que este Capítulo se refiere conforme a las disposiciones del mismo, exceptuando lo relativo al plazo para el pago que será de setenta y cinco días hábiles contados a partir de la fecha de la autorización definitiva de la escritura o de la fecha del contrato privado.
+140.- La declaración a que se refiere el primer párrafo del artículo anterior, la efectuarán los notarios en las formas que al efecto autorice expresamente la Tesorería. A la declaración se acompañará plano del inmueble objeto de la operación.
 
-Cuando la traslación de dominio se opere por virtud de resoluciones de autoridades de la República pero fuera del Estado, el pago se hará dentro del plazo que señala el párrafo anterior, contado a partir de la fecha en que haya causado ejecutoria la resolución respectiva.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-Cuando se trate de actos traslativos de dominio, otorgados o celebrados fuera del Territorio de la República, o de resoluciones dictadas por autoridades extranjeras, por virtud de las cuales se transmita el dominio de bienes inmuebles ubicados en el Territorio del Estado de Chihuahua, el pago del impuesto deberá hacerse dentro del término de noventa días hábiles contados a partir de la fecha en que surtan efectos legales en la República los citados actos o resoluciones.
+141.- Cuando no se efectúe el pago dentro de los términos fijados en el artículo 138, los notarios, en los casos en que los actos de adquisición se hagan constar en escritura pública, podrán revalidar ésta siempre y cuando se paguen el impuesto omitido y las sanciones. El término para la revalidación no podrá exceder de seis meses contados a partir de la fecha del otorgamiento.
 
-146.- Los plazos que establecen los artículos anteriores se interrumpirán únicamente por consulta formulada por escrito a la Tesorería General cuando exista duda sobre la procedencia del impuesto, o por inconformidad con el avalúo practicado. Los plazos continuarán corriendo a partir de la fecha en que se notifique al causante la resolución.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-147.- El impuesto no se causará tratándose de:
+142.- Los actos por virtud de los cuales se adquiera el dominio, celebrados en la República pero fuera del Estado, con relación a inmuebles ubicados en el territorio de éste, causarán el impuesto a que este Capítulo se refiere conforme a las disposiciones del mismo, exceptuando lo relativo al plazo para el pago que será de 75 días hábiles contados a partir de la fecha de la autorización definitiva de la escritura o de la fecha del contrato privado.
 
-I.- La transformación de sociedades.
+Cuando la adquisición se opere por virtud de resoluciones de autoridades de la República pero de fuera del Estado, el pago se hará dentro del plazo que señala el párrafo anterior, contado a partir de la fecha en que haya causado ejecutoria la resolución respectiva.
 
-II.- La división de la cosa común entre los copropietarios, salvo lo dispuesto en la fracción I del artículo 133.
+Cuando se trate de actos de adquisición otorgados o celebrados fuera del territorio de la República, o de resoluciones dictadas por autoridades extranjeras, por virtud de las cuáles se adquiera el dominio de bienes inmuebles ubicados en el territorio del Estado de Chihuahua, el pago del impuesto deberá hacerse dentro del término de 90 días hábiles contados a partir de la fecha en que surtan efectos legales en la República los citados actos o resoluciones.
 
-III.- La constitución, disolución o liquidación de la sociedad conyugal, salvo lo dispuesto en la fracción I del artículo 133.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-IV.- Disposición coactiva del Estado, siempre que no se trate de remates judiciales o administrativos.
+143.- Los plazos que establecen los artículos anteriores se interrumpirán únicamente por consulta formulada por escrito a la Tesorería General cuando exista duda sobre la procedencia del impuesto, o por inconformidad con el avalúo practicado. Los plazos continuarán corriendo a partir de la fecha en que se notifique al causante la resolución.
 
-V.- Devolución de los bienes inmuebles al enajenante por resolución judicial que rescinda o anule el contrato respectivo.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-VI.- Derechos reales sobre inmuebles distintos del dominio o copropiedad, salvo el usufructo a que se refiere la fracción III del Artículo 136.
+144.- Para efectuar la reducción a que se refiere el artículo 136, se considerará el salario mínimo correspondiente al año de calendario en que se efectúe la adquisición.
 
-VII.- Enajenaciones de bienes inmuebles que hagan el Gobierno Federal, el Gobierno del Estado, los Municipios, la Universidad Autónoma de Chihuahua y la Dirección de Pensiones Civiles del Estado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-VIII.- Enajenaciones de bienes inmuebles que hagan las instituciones de beneficencia pública o privada domiciliadas en el Estado.
+145.- La reducción a que se refiere el artículo 136, se realizará conforme a lo siguiente:
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1973)</small>
+I.- Se considerarán como un solo inmueble los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de 24 meses. De la suma de los precios o valores de los predios, únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El adquirente deberá manifestar, bajo protesta de decir verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la adquisición colinda con otro que hubiera adquirido con anterioridad, para que se ajuste el monto de la reducción y pagará en su caso, las diferencias de impuesto que correspondan. Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte.
 
-IX.- Las enajenaciones que a título gratuito hagan los particulares a los gobiernos Federal y Estatal, municipio, organismos descentralizados e instituciones de beneficencia pública o privada, domiciliados en el Estado.
+II.- Cuando se adquiera parte de la propiedad o de los derechos de un inmueble, a que se refiere el artículo 134, la reducción se hará en la proporción que corresponda a dicha parte.
 
-X.- En los demás casos exceptuados por leyes especiales.
+III.- Tratándose del usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos.
 
-148.- Tendrán responsabilidad objetiva en el pago del impuesto, los adquirentes de inmuebles cuando los sujetos con responsabilidad directa a que se refieren las fracciones I, III, IV y V del Artículo 133, no paguen el impuesto causado en relación con esos mismos inmuebles o lo cubran en cantidad menor de la que les corresponde, de acuerdo con las disposiciones de este Capítulo. En consecuencia, en cualquier tiempo la Tesorería podrá seguir el procedimiento económico coactivo, para hacer efectivo el adeudo, sobre el inmueble de que se trate.
+IV.- No se considerarán departamentos habitacionales los que, por sus características originales, se destinen a servicios domésticos, portería o guarda de vehículos, aún cuando se utilicen para otros fines.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+#### SECCION TERCERA. EXENCIONES
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+146.- Están exentas del pago de este impuesto:
+
+I.- Las adquisiciones que hagan las instituciones de asistencia o de beneficiencia (sic), autorizadas por las leyes de la materia; instituciones públicas de enseñanza y establecimientos de enseñanza propiedad de particulares que funcionen con autorización o reconocimiento de validez oficial de estudios en los términos de las Leyes Federal de Educación y Estatales de la materia, si los bienes van a ser destinados exclusivamente a los fines educativos o asistenciales propios de las instituciones aludidas.
+
+II.- Las adquisiciones que se realicen al constituirse o disolverse la sociedad conyugal, así como en el acto en que se cambien las capitulaciones matrimoniales. No queda incluída en esta fracción la transmisión hereditaria de la parte correspondiente a cada cónyuge en la sociedad conyugal.
+
+III.- Las adquisiciones por los Partidos y Asociaciones Políticas para su propio uso.
+
+IV.- Las adquisiciones realizadas por los organismos descentralizados del Estado y Municipios, por el Instituto del Fondo Nacional para la Vivienda de los Trabajadores, por el Instituto Nacional para el Desarrollo de la Comunidad Rural y de la Vivienda Popular, por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, por el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y por el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
+
+147.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
+
+148.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
 N. DE E., LOS ARTICULOS 149 A 165, QUE INTEGRAN EL CAPITULO III DEL TITULO TERCERO, DEL CODIGO FISCAL DEL ESTADO, FUERON SUSPENDIDOS CON MOTIVO DEL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL CELEBRADO ENTRE EL ESTADO DE CHIHUAHUA Y LA SECRETARIA DE HACIENDA Y CREDITO PUBLICO, P.O. 21 DE OCTUBRE DE 1978.
 
@@ -1848,6 +1872,8 @@ N. DE E., LOS ARTICULOS 149 A 165, QUE INTEGRAN EL CAPITULO III DEL TITULO TERCE
 176.- Son sujetos de este impuesto las personas físicas que perciban ingresos por los conceptos señalados en el artículo anterior, por actividades efectuadas dentro del Estado de Chihuahua.
 
 Cuando dichas personas operen organizadas en agrupaciones profesionales, asociaciones o sociedades de carácter civil, serán dichas personas físicas sujetos del impuesto, por la participación que les corresponda en los ingresos de la organización.
+
+### CAPITULO VII. IMPUESTO SOBRE PRODUCTOS O RENDIMIENTOS DE CAPITALES INVERTIDOS
 
 #### SECCION SEGUNDA. TASA, BASE Y DEDUCCIONES
 
@@ -1931,8 +1957,6 @@ Para practicar las estimaciones a que se refiere este precepto se tendrán en cu
 
 Sobre los ingresos brutos estimados, se reconocerá como deducción única, el importe del 20% de dichos ingresos.
 
-### CAPITULO VII. IMPUESTO SOBRE PRODUCTOS O RENDIMIENTOS DE CAPITALES INVERTIDOS
-
 #### SECCION TERCERA. OBLIGACIONES DE LOS CAUSANTES
 
 181.- Los causantes de este impuesto están obligados:
@@ -1971,6 +1995,8 @@ Si los causantes no cumplen con los requisitos que establece el párrafo anterio
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
+### CAPITULO VIII. IMPUESTO SOBRE EL COMERCIO Y LA INDUSTRIA
+
 #### SECCION QUINTA. LIQUIDACIONES A CUOTA FIJA
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1977)</small>
@@ -1992,8 +2018,6 @@ VI.- La Tesorería General del Estado podrá comprobar en cualquier momento, por
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
 185.- Los causantes organizados en agrupaciones profesionales, asociaciones o sociedades de carácter civil, no podrán optar por la forma de pago a que alude el artículo anterior.
-
-### CAPITULO VIII. IMPUESTO SOBRE EL COMERCIO Y LA INDUSTRIA
 
 #### SECCION PRIMERA. OBJETO Y SUJETO
 
@@ -2039,6 +2063,8 @@ Las personas que efectúen retenciones harán los enteros relativos en el plazo 
 
 La Tesorería General del Estado está, a través del representante de la Hacienda Pública Estatal que se designe, facultada para intervenir en los juicios en que exista o se presuma la existencia de actos que generen créditos fiscales comprendidos en este Capítulo.
 
+### CAPITULO IX. IMPUESTO SOBRE LA GANADERIA
+
 #### SECCION CUARTA. EXENCIONES
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1975)</small>
@@ -2066,8 +2092,6 @@ IX.- Los intereses, el sobreprecio, o cualquier otra prestación que aumente los
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
 X.- Los intereses que perciba el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, con motivo de los financiamientos que otorgue a sus derechohabientes para construir, mejorar o ampliar sus viviendas, así como para pagar el pasivo de las mismas.
-
-### CAPITULO IX. IMPUESTO SOBRE LA GANADERIA
 
 #### SECCION PRIMERA. OBJETO
 
@@ -2489,6 +2513,8 @@ Los contribuyentes a quienes se les practique una auditoría deberán dar aviso 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE D 1977)</small>
 
+### CAPITULO X. IMPUESTO SOBRE LA ENAJENACION DE ALGODON Y SU SEMILLA
+
 #### SECCION DECIMA. LIQUIDACIONES A CUOTA FIJA
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1977)</small>
@@ -2508,8 +2534,6 @@ d).- Presentarán en el mes de abril de cada año, en la forma aprobada, una man
 e).- Recibirán las visitas de inspección que ordena la Tesorería General del Estado.
 
 f).- La determinación estimativa practicada, tiene la vigencia señalada en este artículo, pero se entenderá prorrogada mientras la Tesorería General del Estado no la modifique.
-
-### CAPITULO X. IMPUESTO SOBRE LA ENAJENACION DE ALGODON Y SU SEMILLA
 
 #### SECCION PRIMERA. OBJETO Y SUJETO
 
@@ -2583,20 +2607,6 @@ II.- Los demás que establezcan las leyes correspondientes.
 
 249.- Los causantes de este impuesto están obligados a empadronarse en la Recaudación de Rentas de la jurisdicción de su domicilio particular. Los que residan fuera del Estado se empadronarán en la Recaudación del domicilio que señalen convencionalmente.
 
-#### SECCION QUINTA. OBLIGACIONES DE LOS TERCEROS
-
-250.- Todas las personas que realicen operaciones gravadas en este Capítulo están obligadas por sí o por conducto de sus administradores, representantes o empleados a exigir la comprobación del pago de este impuesto. Tratándose de Rastros Municipales o Empacadoras tendrán además la obligación de entregar a la Recaudación de Rentas de su jurisdicción, una relación del ganado sacrificado con especificación de marcas, valores, nombre del propietario, lugar y fecha en que fueron pagados los impuestos.
-
-251.- Son solidariamente responsables del pago del impuesto:
-
-I.- Los adquirentes del ganado.
-
-II.- Los introductores o intermediarios.
-
-III.- Los representantes legales, mandatarios y comisionistas.
-
-IV.- Las personas que adquieran empresas ganaderas respecto de las prestaciones fiscales que hayan quedado insolutas.
-
 ### CAPITULO XI. IMPUESTO SOBRE LA ENAJENACION DE AVENA
 
 261.- Es objeto de este impuesto la enajenación de primera mano que se realice con la avena ya sea en grano o achicalada. Para los efectos de esta disposición se consideran enajenaciones de primera mano las que realicen los productores. Toda enajenación se presume verificada dentro del Estado, sin que se admita prueba en contrario.
@@ -2615,6 +2625,20 @@ IV.- Las personas que adquieran empresas ganaderas respecto de las prestaciones 
 
 266.- Los propietarios, administradores o encargados de las fábricas industrializadoras de la avena y las personas físicas o morales que comercien con este cereal, están obligados a retener el impuesto que establece este capítulo, en todos aquellos casos en que los productores de avena no les comprueben, con los recibos oficiales que al efecto les expidan las Recaudaciones de Rentas, haber pagado el tributo. En caso de que acrediten tal extremo, el adquiriente deberá recabar y conservar en su poder el recibo que se le expidió al propietario al momento de efectuar el pago.
 
+#### SECCION QUINTA. OBLIGACIONES DE LOS TERCEROS
+
+250.- Todas las personas que realicen operaciones gravadas en este Capítulo están obligadas por sí o por conducto de sus administradores, representantes o empleados a exigir la comprobación del pago de este impuesto. Tratándose de Rastros Municipales o Empacadoras tendrán además la obligación de entregar a la Recaudación de Rentas de su jurisdicción, una relación del ganado sacrificado con especificación de marcas, valores, nombre del propietario, lugar y fecha en que fueron pagados los impuestos.
+
+251.- Son solidariamente responsables del pago del impuesto:
+
+I.- Los adquirentes del ganado.
+
+II.- Los introductores o intermediarios.
+
+III.- Los representantes legales, mandatarios y comisionistas.
+
+IV.- Las personas que adquieran empresas ganaderas respecto de las prestaciones fiscales que hayan quedado insolutas.
+
 #### SECCION PRIMERA. OBJETO, SUJETO Y BASE
 
 252.- Constituye el objeto de este impuesto la enajenación de primera mano que se realice con el algodón y su semilla; no causando por consiguiente ningún otro impuesto establecido en este Código.
@@ -2632,40 +2656,6 @@ Si existen pacas de algodón o semilla dentro de los límites de las plantas des
 254.- Son sujetos de este impuesto las personas físicas o morales que con establecimiento fijo o sin él verifiquen operaciones comerciales con el algodón y su semilla en los términos del artículo anterior.
 
 255.- La base de este impuesto será el valor de los productos, según las tarifas oficiales que para tal efecto apruebe el Ejecutivo del Estado para cada zona productora.
-
-#### SECCION SEGUNDA. TASA, PAGO Y OBLIGACIONES
-
-256.- A los ingresos totales que se perciban con motivo de operaciones comerciales efectuadas con el algodón y su semilla, se les aplicará la tasa del 3%.
-
-257.- El pago del impuesto deberá hacerse en la fecha en que se realice la operación gravada.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1977)</small>
-
-258.- Los propietarios, administradores, o encargados de los despepitadores de algodón están obligados:
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
-
-I.- A empadronarse y a retener el impuesto al causarse éste en los términos del Artículo 253;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
-
-II.- A llevar un libro especial en el que se detallen los movimientos de algodón referentes a entradas, salidas y existencias mensuales del producto. Se podrá cumplir con esta obligación con el mismo libro a que se refiere el artículo 7 fracción II de la Ley del Impuesto sobre Despepite del Algodón en Rama;
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1974)</small>
-
-III.- A entregar los días 15 y último de cada mes en la Recaudación de Rentas de su jurisdicción, el impuesto total cobrado, de acuerdo con las liquidaciones que por el mismo período presenten en las formas oficiales que proporcionará la misma Oficina Recaudadora;
-
-IV.- A no permitir la salida del algodón y su semilla de sus locales o almacenes, si no está debidamente pagado el impuesto;
-
-V.- A colocar en los patios de los despepitadores las pacas de algodón de modo que queden visibles los números de identificación que a cada una se les hayan señalado, a fin de que las inspecciones fiscales se practiquen sin dificultad;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
-
-VI.- A dar aviso inmediato y por escrito a la Recaudación de Rentas respectiva, para efectos de la autorización de la salida de los despepitadores del algodón y su semilla, con expresión del nombre del propietario, cantidad de pacas, peso de cada una de ellas, de la semilla en su caso y fecha de salida. Este aviso autorizado deberá exhibirse a requerimiento de las autoridades fiscales.
-
-259.- Es solidariamente responsable del pago del impuesto el adquirente.
-
-260.- Los causantes y los terceros que intervengan en toda clase de operaciones gravadas por este Capítulo, que infrinjan las disposiciones contenidas en el mismo, se harán acreedores a las sanciones previstas en el capítulo VII del Título Segundo de este libro.
 
 ### CAPITULO XII. IMPUESTO SOBRE PRODUCCION Y VENTA DE BEBIDAS ALCOHOLICAS Y ALCOHOL
 
@@ -2746,6 +2736,40 @@ XII.- Los actos que contengan operaciones gravadas con algún otro impuesto esta
 I.- A presentar ante la Recaudación de Rentas respectiva, los documentos originales en que consten actos, contratos u obligaciones, para los efectos del registro y control del impuesto.
 
 II.- A enterar el impuesto dentro de los ocho días siguientes a la fecha de la operación.
+
+#### SECCION SEGUNDA. TASA, PAGO Y OBLIGACIONES
+
+256.- A los ingresos totales que se perciban con motivo de operaciones comerciales efectuadas con el algodón y su semilla, se les aplicará la tasa del 3%.
+
+257.- El pago del impuesto deberá hacerse en la fecha en que se realice la operación gravada.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1977)</small>
+
+258.- Los propietarios, administradores, o encargados de los despepitadores de algodón están obligados:
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
+I.- A empadronarse y a retener el impuesto al causarse éste en los términos del Artículo 253;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
+
+II.- A llevar un libro especial en el que se detallen los movimientos de algodón referentes a entradas, salidas y existencias mensuales del producto. Se podrá cumplir con esta obligación con el mismo libro a que se refiere el artículo 7 fracción II de la Ley del Impuesto sobre Despepite del Algodón en Rama;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1974)</small>
+
+III.- A entregar los días 15 y último de cada mes en la Recaudación de Rentas de su jurisdicción, el impuesto total cobrado, de acuerdo con las liquidaciones que por el mismo período presenten en las formas oficiales que proporcionará la misma Oficina Recaudadora;
+
+IV.- A no permitir la salida del algodón y su semilla de sus locales o almacenes, si no está debidamente pagado el impuesto;
+
+V.- A colocar en los patios de los despepitadores las pacas de algodón de modo que queden visibles los números de identificación que a cada una se les hayan señalado, a fin de que las inspecciones fiscales se practiquen sin dificultad;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
+
+VI.- A dar aviso inmediato y por escrito a la Recaudación de Rentas respectiva, para efectos de la autorización de la salida de los despepitadores del algodón y su semilla, con expresión del nombre del propietario, cantidad de pacas, peso de cada una de ellas, de la semilla en su caso y fecha de salida. Este aviso autorizado deberá exhibirse a requerimiento de las autoridades fiscales.
+
+259.- Es solidariamente responsable del pago del impuesto el adquirente.
+
+260.- Los causantes y los terceros que intervengan en toda clase de operaciones gravadas por este Capítulo, que infrinjan las disposiciones contenidas en el mismo, se harán acreedores a las sanciones previstas en el capítulo VII del Título Segundo de este libro.
 
 #### SECCION PRIMERA. IMPUESTO SOBRE PRODUCCION DE BEBIDAS ALCOHOLICAS
 
@@ -3022,36 +3046,6 @@ IV.- Cuidar bajo su responsabilidad, que no se violen las marcas, sellos, etique
 V.- No permitir, bajo su responsabilidad, que se altere la graduación del contenido alcohólico de los envases;
 
 VI.- Las demás que establezcan las leyes.
-
-#### SECCION CUARTA. DISPOSICIONES COMUNES A LA PRODUCCION Y VENTA DE BEBIDAS ALCOHOLICAS Y ALCOHOL
-
-298.- Se considera como producción y venta clandestina de bebidas alcohólicas y alcohol:
-
-I.- La omisión de la obligación de empadronarse y de solicitar los permisos a que se refieren los artículos 273, 274, 289 y 297;
-
-II.- La omisión en los libros de contabilidad del registro de las operaciones efectuadas con productos gravados;
-
-III.- Transportar el alcohol o bebidas alcohólicas sin que el porteador o tenedor exhiba en el momento preciso de la fiscalización, la documentación que ampara sus productos o que los mismos no vayan marbetados.
-
-En este caso, si no es posible identificar al productor de las bebidas alcohólicas que se lleven en tránsito o al destinatario de las mismas, el poseedor de ellas será responsable del pago de los impuestos y de las sanciones que correspondan;
-
-IV.- En general se estimará como clandestina toda fabricación o venta de bebidas alcohólicas y alcohol que se realice sin que el productor o vendedor esté empadronado en las oficinas rentísticas.
-
-299.- El transporte de alcohol y bebidas alcohólicas deberá hacerse exclusivamente utilizando vehículos registrados en la Tesorería General del Estado. El transporte de bebidas alcohólicas se hará en la siguiente forma:
-
-a).- En los envíos de bebidas alcohólicas que haga un productor a un expendedor, se hará necesario que los envases lleven adherido el marbete correspondiente.
-
-b).- Cuando un productor remita bebidas alcohólicas para su venta fuera del Estado de Chihuahua, en el recorrido de los vehículos desde las bodegas de los remitentes hasta la estación del ferrocarril o de cualquier otra empresa de transportes, o en sus propios vehículos, el envío se amparará con la factura o nota de remisión respectiva, que para el efecto del transporte previamente autorizará la Tesorería General del Estado o sus órganos de recaudación.
-
-c).- Las bebidas que procedan de fuera del Estado de Chihuahua deberán venir amparadas con la documentación que expidan los remitentes a los porteadores, de manera que se pruebe plenamente que dichas bebidas y alcohol proceden del exterior del Estado de Chihuahua.
-
-300.- Se faculta al Tesorero General del Estado para que, por conducto de los Auditores e Inspectores a sus órdenes, clausure o levante la clausura de los establecimientos que hayan incurrido en infracción cuando las circunstancias en cada caso así lo requieran; dicha facultad se ejercerá sin perjuicio de la imposición de las multas correspondientes.
-
-301.- Todos los propietarios que celebren contratos de arrendamiento respecto de inmuebles, en los que opere una fábrica, almacén, oficina distribuidora o expendio de alcohol o bebidas alcohólicas, estarán obligados, dentro del plazo de 15 días siguientes a la fecha del contrato respectivo, a manifestarlo a la Tesorería General del Estado, para efectos de registro fiscal.
-
-302.- Cualquiera infracción a lo dispuesto por este capítulo se regulará y sancionará en los términos del capítulo VII, Título Segundo de este libro.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE DICIEMBRE DE 1971)</small>
 
 ### CAPITULO XIV. DERECHOS
 
@@ -3457,6 +3451,36 @@ III.- Contra la negativa de una autoridad competente para ordenar la devolución
 
 IV.- Contra los acuerdos que impongan sanciones por infracción a las leyes fiscales.
 
+#### SECCION CUARTA. DISPOSICIONES COMUNES A LA PRODUCCION Y VENTA DE BEBIDAS ALCOHOLICAS Y ALCOHOL
+
+298.- Se considera como producción y venta clandestina de bebidas alcohólicas y alcohol:
+
+I.- La omisión de la obligación de empadronarse y de solicitar los permisos a que se refieren los artículos 273, 274, 289 y 297;
+
+II.- La omisión en los libros de contabilidad del registro de las operaciones efectuadas con productos gravados;
+
+III.- Transportar el alcohol o bebidas alcohólicas sin que el porteador o tenedor exhiba en el momento preciso de la fiscalización, la documentación que ampara sus productos o que los mismos no vayan marbetados.
+
+En este caso, si no es posible identificar al productor de las bebidas alcohólicas que se lleven en tránsito o al destinatario de las mismas, el poseedor de ellas será responsable del pago de los impuestos y de las sanciones que correspondan;
+
+IV.- En general se estimará como clandestina toda fabricación o venta de bebidas alcohólicas y alcohol que se realice sin que el productor o vendedor esté empadronado en las oficinas rentísticas.
+
+299.- El transporte de alcohol y bebidas alcohólicas deberá hacerse exclusivamente utilizando vehículos registrados en la Tesorería General del Estado. El transporte de bebidas alcohólicas se hará en la siguiente forma:
+
+a).- En los envíos de bebidas alcohólicas que haga un productor a un expendedor, se hará necesario que los envases lleven adherido el marbete correspondiente.
+
+b).- Cuando un productor remita bebidas alcohólicas para su venta fuera del Estado de Chihuahua, en el recorrido de los vehículos desde las bodegas de los remitentes hasta la estación del ferrocarril o de cualquier otra empresa de transportes, o en sus propios vehículos, el envío se amparará con la factura o nota de remisión respectiva, que para el efecto del transporte previamente autorizará la Tesorería General del Estado o sus órganos de recaudación.
+
+c).- Las bebidas que procedan de fuera del Estado de Chihuahua deberán venir amparadas con la documentación que expidan los remitentes a los porteadores, de manera que se pruebe plenamente que dichas bebidas y alcohol proceden del exterior del Estado de Chihuahua.
+
+300.- Se faculta al Tesorero General del Estado para que, por conducto de los Auditores e Inspectores a sus órdenes, clausure o levante la clausura de los establecimientos que hayan incurrido en infracción cuando las circunstancias en cada caso así lo requieran; dicha facultad se ejercerá sin perjuicio de la imposición de las multas correspondientes.
+
+301.- Todos los propietarios que celebren contratos de arrendamiento respecto de inmuebles, en los que opere una fábrica, almacén, oficina distribuidora o expendio de alcohol o bebidas alcohólicas, estarán obligados, dentro del plazo de 15 días siguientes a la fecha del contrato respectivo, a manifestarlo a la Tesorería General del Estado, para efectos de registro fiscal.
+
+302.- Cualquiera infracción a lo dispuesto por este capítulo se regulará y sancionará en los términos del capítulo VII, Título Segundo de este libro.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE DICIEMBRE DE 1971)</small>
+
 #### SECCION PRIMERA. REQUERIMIENTO DE PAGO Y EMBARGO
 
 329.- Para el cobro de los créditos fiscales exigibles, por concepto de impuestos, derechos, productos y aprovechamientos, la Tesorería General del Estado y las oficinas recaudadoras de la misma están investidas de la facultad económico-coactiva.
@@ -3851,14 +3875,6 @@ Cuando la autoridad ejecutora encuentre que los documentos presentados por el te
 
 392.- Si la resolución del Tesorero General del Estado es contraria al tercerista podrá éste ocurrir ante el Supremo Tribunal de Justicia a promover el juicio de oposición a que se refiere este Código o interponer el recurso de reconsideración.
 
-#### SECCION CUARTA. SUSPENSION DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
-
-393.- Se suspenderá el procedimiento administrativo de ejecución durante la tramitación de los recursos administrativos, juicios de nulidad o tercerías, cuando lo solicite el interesado y garantice el crédito fiscal de que se trate y los posibles recargos, en alguna de las formas señaladas por el artículo 63 de este Código. Sin embargo cuando por la cuantía del crédito pueda afectarse el equilibrio del presupuesto a juicio del Tesorero General del Estado, podrá éste ordenar que se constituya depósito en la oficina Recaudadora.
-
-La suspensión podrá ser solicitada en cualquier tiempo ante la oficina ejecutora, acompañando copia del escrito con el que se hubiere iniciado el recurso administrativo o el juicio de que se trate. La autoridad ejecutora suspenderá provisionalmente el procedimiento y concederá un plazo de 15 días para el otorgamiento de la garantía. Constituída ésta la ejecutora suspenderá de plano el procedimiento hasta que se le comunique la resolución definitiva en el recurso o juicio respectivos.
-
-No se exigirá garantía adicional si en el procedimiento administrativo de ejecución se hubieren ya secuestrado bienes suficientes para garantizar los intereses fiscales.
-
 ## TITULO SEGUNDO. DEFENSA JURIDICA DEL PARTICULAR EN MATERIA FISCAL Y PROCESO DE LESIVIDAD
 
 ### CAPITULO II. RECURSOS DE REVISION Y RECONSIDERACION
@@ -3896,6 +3912,14 @@ X.- Contra los acuerdos dictados durante el procedimiento, no procederá ningún
 ### CAPITULO I. FOMENTO A LA INDUSTRIA
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+#### SECCION CUARTA. SUSPENSION DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
+
+393.- Se suspenderá el procedimiento administrativo de ejecución durante la tramitación de los recursos administrativos, juicios de nulidad o tercerías, cuando lo solicite el interesado y garantice el crédito fiscal de que se trate y los posibles recargos, en alguna de las formas señaladas por el artículo 63 de este Código. Sin embargo cuando por la cuantía del crédito pueda afectarse el equilibrio del presupuesto a juicio del Tesorero General del Estado, podrá éste ordenar que se constituya depósito en la oficina Recaudadora.
+
+La suspensión podrá ser solicitada en cualquier tiempo ante la oficina ejecutora, acompañando copia del escrito con el que se hubiere iniciado el recurso administrativo o el juicio de que se trate. La autoridad ejecutora suspenderá provisionalmente el procedimiento y concederá un plazo de 15 días para el otorgamiento de la garantía. Constituída ésta la ejecutora suspenderá de plano el procedimiento hasta que se le comunique la resolución definitiva en el recurso o juicio respectivos.
+
+No se exigirá garantía adicional si en el procedimiento administrativo de ejecución se hubieren ya secuestrado bienes suficientes para garantizar los intereses fiscales.
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
@@ -4105,6 +4129,14 @@ Si la autoridad no contesta el traslado o no se refiere a todos los hechos en su
 
 Interpuesto en tiempo el recurso el Tribunal suspenderá la ejecución del auto recurrido y ordenará correr traslado del escrito del recurrente a la parte contraria por el término de tres días. Evacuado que sea o concluído el plazo para hacerlo, sin más trámite se dictará resolución dentro de las 24 horas siguientes. No será necesario cumplir estas formalidades si el recurso se interpone contra acuerdos dictados dentro de la audiencia.
 
+# LIBRO TERCERO. FOMENTO AL DESARROLLO SOCIO-ECONOMICO
+
+## TITULO UNICO. FOMENTO A LA INDUSTRIA Y VIVIENDA
+
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
+
+### CAPITULO UNICO. FOMENTO A LA VIVIENDA
+
 #### SECCION OCTAVA. AUDIENCIA Y FALLO
 
 428.- En el mismo auto en que se dé entrada a la demanda se citará para la audiencia del juicio, que deberá celebrarse dentro de un término que no excederá de un mes.
@@ -4168,14 +4200,6 @@ d).- Desvío de poder, tratándose de sanciones.
 434.- Los fallos del Tribunal tendrán fuerza de cosa juzgada. Se fundarán en la Ley y examinarán todos y cada uno de los puntos controvertidos. En sus puntos resolutivos se expresará con claridad los actos cuya nulidad se declare o cuya validez se reconozca.
 
 Si la sentencia declara la nulidad del acto impugnado, indicará las bases conforme a las cuales deberá dictar nueva resolución la autoridad fiscal, la que se pronunciará en un término no mayor de quince días.
-
-# LIBRO TERCERO. FOMENTO AL DESARROLLO SOCIO-ECONOMICO
-
-## TITULO UNICO. FOMENTO A LA INDUSTRIA Y VIVIENDA
-
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1972)</small>
-
-### CAPITULO UNICO. FOMENTO A LA VIVIENDA
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
 
@@ -4309,15 +4333,15 @@ III.- El Instituto Nacional para el Desarrollo de la Comunidad Rural y de la Viv
 
 IV.- Los derechohabientes del Instituto del Fondo Nacional de la Vivienda para los Trabajadores con financiamiento de dicha Institución.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-484.- Para los efectos de este capítulo, las viviendas populares se clasifican como sigue:
+484.- Para los efectos de este capítulo las viviendas populares se clasifican como sigue:
 
-I.- De precio mínimo, aquellas cuyo valor no exceda de $100,000.00.
+I.- De precio mínimo, aquellas cuyo valor no exceda de $150,000.00.
 
-II.- De precio bajo, aquellas cuyo valor no exceda de $200,000.00.
+II.- De precio bajo, aquellas cuyo valor no exceda de $250,000.00
 
-III.- De precio medio, aquellas cuyo valor no exceda de $260,000.00
+III.- De precio medio, aquellas cuyo valor no exceda de $300,000.00.
 
 Los valores anteriormente citados, incluyen el costo del terreno donde se edifique la habitación.
 
@@ -4327,7 +4351,7 @@ Los valores anteriormente citados, incluyen el costo del terreno donde se edifiq
 
 I.- Impuesto Predial;
 
-II.- Impuesto sobre Traslación de Dominio de Bienes Raíces;
+II.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1981)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
@@ -4353,9 +4377,11 @@ b).- Por el 65% si valor de la vivienda es bajo;
 
 c).- Por el 50% si el valor de la vivienda es medio.
 
-II.- Exención del 75% del Impuesto sobre Traslación de dominio de Bienes Inmuebles;
+II.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1981)
 
-III.- Exención total del Impuesto sobre Instrumentos Públicos y Privados;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+III.- Exención total del Impuesto sobre Actos Jurídicos;
 
 IV.- Exención del 50% de los derechos por inscripción en el Registro Público de la Propiedad.
 
@@ -4365,9 +4391,11 @@ IV.- Exención del 50% de los derechos por inscripción en el Registro Público 
 
 I.- Exención del 75% del Impuesto Predial, respecto de los terrenos o construcciones que formen parte de su patrimonio y estén dedicados al fín para el que fué creado;
 
-II.- Exención del 75% del Impuesto sobre Traslación de Dominio de Bienes Raíces, en las adquisiciones de inmuebles que vayan a ser destinados a la construcción de viviendas populares;
+II.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1981)
 
-III.- Exención del 75% de los derechos de inscripción en el Registro Público de la Propiedad, en relación a operaciones efectuadas con inmuebles que se destinen a los citados fines.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+III.- 75% de los derechos de inscripción en el Registro Público de la Propiedad, en relación a operaciones efectuadas con inmuebles que se destinen a los citados fines.
 
 489.- La Dirección de Pensiones Civiles del Estado y sus derechohabientes disfrutarán de las franquicias que señala su Ley Especial.
 
@@ -4377,7 +4405,9 @@ III.- Exención del 75% de los derechos de inscripción en el Registro Público 
 
 Para determinar el costo real de construcción, se atenderá a los valores comerciales vigentes en el momento en que se presente el aviso dando de alta la nueva edificación. El Departamento de Catastro realizará el avalúo relativo y la Tesorería General del Estado dictaminará en definitiva.
 
-491.- Los sujetos a que se refieren los Incisos I y III del artículo 483, deberán presentar ante el Departamento de Economía una solicitud, por triplicado, que contenga los siguientes datos:
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+491.- Los sujetos a que se refieren las fracciones I y III del artículo 483, deberán presentar ante la Tesorería General del Estado una solicitud, por triplicado, que contenga los siguientes datos:
 
 I.- Nombre del solicitante o razón social, así como su domicilio;
 
@@ -4405,13 +4435,13 @@ IV.- Una relación de los empleados y obreros que prestan sus servicios de la em
 
 Si se llegare a comprobar que en los contratos existe simulación y que el precio del arrendamiento es superior a los límites legales, se cancelará la franquicia y se impondrá al causante una sanción de hasta tres tantos del impuesto o derecho de que se había eximido.
 
-494.- El Departamento de Economía tramitará de inmediato las solicitudes que se presenten pero no rendirá su dictamen hasta el momento en que los solicitantes proporcionen todos los datos, documentos e informes que les sean pedidos dentro de los plazos que al efecto se fijen por el citado Departamento. El plazo puede ser prorrogado a solicitud del interesado y por causas que lo justifiquen.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-El Departamento de Economía turnará a la Tesorería General un tanto de la solicitud, con sus anexos respectivos, con objeto de que formule el dictamen respectivo y lo ponga a consideración del Gobernador.
+494.- La Tesorería General del Estado tramitará de inmediato las solicitudes que se presenten, pero no rendirá su dictamen hasta el momento en que los solicitantes proporcionen todos los datos, documentos e informes que les sean pedidos, dentro de los plazos que al efecto se fijen. El plazo puede ser prorrogado a solicitud del interesado y por causas que lo justifiquen.
 
-Salvo el caso de que el beneficiario sea persona física no empresario, los acuerdos definitivos se publicarán en el Periódico Oficial del Estado y en un periódico de amplia circulación del lugar donde se encuentren las viviendas o, en su defecto, en uno de los Diarios de la Capital del Estado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-495.- Los términos para disfrutar de las franquicias principiarán a contarse a partir del día en que se firme el Acuerdo por el Gobernador del Estado, el Secretario General, el Tesorero General del Estado y el Jefe del Departamento de Economía.
+495.- Los términos para disfrutar de las franquicias principiarán a contarse a partir del día en que se firme el acuerdo por el Gobernador del Estado o por el Tesorero General.
 
 496.- Si en cualquier momento se comprobare que los beneficiarios de las franquicias establecidas por este Capítulo, han dejado de cumplir con alguno de los requisitos que el mismo previene como condición para el otorgamiento y subsistencia de aquellas, la Tesorería General del Estado hará efectivos todos los impuestos y derechos omitidos, imponiéndose además al causante una sanción que en ningún caso será inferior a otro tanto de la tributación cuya exención se concedió.
 
@@ -4564,3 +4594,7 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor en todo el Estado d
 P.O. 31 DE DICIEMBRE DE 1980.
 
 ARTICULO TRANSITORIO.- El presente decreto entrará en vigor el día primero de enero de mil novecientos ochenta y uno.
+
+P.O. 30 DE DICIEMBRE DE 1981.
+
+ARTICULO TRANSITORIO.- Las presentes disposiciones entrarán en vigor a partir del primero de enero de mil novecientos ochenta y dos.
