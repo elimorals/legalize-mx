@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-derechos-105"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-11-12"
-last_updated: "1992-11-12"
+last_updated: "2000-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2003-09-29"
 
 REGLAMENTO INTERNO DE LA COMISION NACIONAL DE DERECHOS HUMANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE NOVIEMBRE DE 2000.
 
 Reglamento publicado en el Diario Oficial de la Federación, el jueves 12 de noviembre de 1992.
 
@@ -942,6 +942,10 @@ Sólo procederá notificar a la autoridad o servidor público que hubiese sido s
 
 Concluida la investigación y reunidos los elementos de convicción necesarios para probar la existencia de violaciones a Derechos Humanos, el Visitador Adjunto lo hará del conocimiento de su superior inmediato a fin de que se inicie la elaboración de la Recomendación correspondiente.
 
+> <small>(ADICIONADO, D.O.F. 17 DE NOVIEMBRE DE 2000)</small>
+
+ARTICULO 129 bis.- La Comisión podrá emitir también Recomendaciones generales a las diversas autoridades del país, a fin de que se promuevan los cambios y modificaciones de disposiciones normativas y prácticas administrativas que constituyan o propicien violaciones a los Derechos Humanos. Estas Recomendaciones se elaborarán de manera similar a las particulares y se fundamentarán en los estudios realizados por la propia Comisión en cada una de las visitadurías, previo acuerdo del Presidente. Antes de su emisión se harán del conocimiento del Consejo. Las Recomendaciones generales contendrán en su texto los siguientes elementos: 1. Antecedentes; 2. Situación y Fundamentación Jurídica; 3. Observaciones, y 4. Recomendaciones. Las Recomendaciones generales no requerirán aceptación por parte de las autoridades a quienes vayan dirigidas y se publicarán también en la Gaceta, pero se contabilizarán aparte y su seguimiento será general.
+
 ###### ARTICULO 130.
 
 La elaboración del proyecto de Recomendación se realizará por el Visitador Adjunto de acuerdo con los lineamientos que al efecto dicte el Visitador General, el Director General de Visitaduría o los respectivos directores de área. El Visitador Adjunto tendrá la obligación de consultar los precedentes que sobre casos análogos o similares haya resuelto la Comisión Nacional.
@@ -1243,3 +1247,11 @@ El presente Reglamento entrará en vigor treinta días después al de su publica
 ###### ARTICULO SEGUNDO.
 
 Se abroga el Reglamento Interno de la Comisión Nacional de Derechos Humanos, publicado en el Diario Oficial de la Federación el día primero de agosto de 1990 y se derogan todas las disposiciones reglamentarias y administrativas de la Comisión Nacional que se opongan a lo establecido por este Reglamento.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 17 DE NOVIEMBRE DE 2000.
+
+PRIMERO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en la Gaceta de la Comisión Nacional de los Derechos Humanos.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
