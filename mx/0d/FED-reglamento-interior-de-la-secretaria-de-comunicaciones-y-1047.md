@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-comunicaciones-y-1047"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-06-21"
-last_updated: "1996-10-29"
+last_updated: "1997-10-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1047&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1995-06-19"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y TRANSPORTES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE OCTUBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE OCTUBRE DE 1997.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 21 de junio de 1995.
 
@@ -73,7 +73,9 @@ Para el despacho de los asuntos que le competen, la Secretaría contará con los
 
 - Dirección General de Autotransporte Federal
 
-- Dirección General de la Policía Federal de Caminos
+> <small>(REFORMADO POR EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE LA POLICIA FEDERAL DE CAMINOS, D.O.F. 13 DE OCTUBRE DE 1997)</small>
+
+- Organo Desconcentrado Policía Federal de Caminos
 
 - Dirección General de Tarifas, Transporte Ferroviario y Multimodal
 
@@ -795,33 +797,7 @@ XXVII. Participar, con la intervención de la Coordinación General de Planeaci�
 
 ###### ARTICULO 20.
 
-Corresponde a la Dirección General de la Policía Federal de Caminos:
-
-I. Vigilar, mantener el orden, garantizar la seguridad pública y prestar el servicio de policía en los caminos de jurisdicción federal;
-
-II. Ordenar, organizar y supervisar el tránsito de vehículos en los caminos de jurisdicción federal;
-
-III. Levantar el parte de los accidentes que ocurran en los caminos de jurisdicción federal y proporcionar auxilio a los usuarios;
-
-IV. Participar, en el ámbito de su competencia, con otras autoridades para mantener el orden, garantizar la seguridad pública y coadyuvar con las autoridades competentes en la investigación de los delitos;
-
-V. Formular las infracciones que correspondan por violaciones a las disposiciones legales relativas al aprovechamiento, explotación y uso de los caminos de jurisdicción federal;
-
-VI. Organizar dispositivos y llevar a cabo las acciones que tiendan a incrementar la seguridad en el tránsito de vehículos, en los caminos de jurisdicción federal;
-
-VII. Proporcionar informes, orientación y auxilio a los usuarios de los caminos;
-
-VIII. Informar a las autoridades superiores de la Secretaría las novedades que se susciten en los caminos de jurisdicción federal, además de las de la corporación;
-
-IX. Proporcionar la capacitación técnico profesional a los elementos de la corporación y a los aspirantes a ésta;
-
-> <small>(ADICIONADA, D.O.F. 29 DE OCTUBRE DE 1996)</small>
-
-X. Iniciar y tramitar el procedimiento administrativo disciplinario previsto en el Reglamento de la Policía Federal de Caminos, en los casos en que presuntivamente un elemento de la corporación incurra en alguna causal de cese o baja;
-
-XI. Elaborar y aplicar, en coordinación con las Direcciones Generales de Autotransporte Federal, de Tarifas, Transporte Ferroviario y Multimodal, y de Protección y Medicina Preventiva en el Transporte, los programas de vigilancia, supervisión y seguimiento de acuerdo con las leyes y reglamentos en la materia, y
-
-XII. Prestar servicios de seguridad y vigilancia, previo acuerdo del titular de la Secretaría, en las vías generales de comunicación distintas de los caminos de jurisdicción federal.
+(DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO DE LA POLICIA FEDERAL DE CAMINOS, D.O.F. 13 DE OCTUBRE DE 1997)
 
 > <small>(REFORMADO, D.O.F. 29 DE OCTUBRE DE 1996)</small>
 
@@ -1496,3 +1472,27 @@ CUARTO.- Cuando la competencia de alguna de las áreas o unidades administrativa
 QUINTO.- Los derechos laborales de los trabajadores de la Secretaría de Comunicaciones y Transportes serán respetados conforme a la ley.
 
 SEXTO.- En tanto se expiden los manuales respectivos, el titular del ramo resolverá las cuestiones que conforme a dichos manuales se deben regular.
+
+D.O.F. 13 DE OCTUBRE DE 1997.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abrogan:
+
+I. El Reglamento de la Policía Federal de Caminos, publicado en el Diario Oficial de la Federación el 25 de agosto de 1978;
+
+II. El Reglamento de la Escuela de la Policía Federal de Caminos, publicado en el Diario Oficial de la Federación el 2 de agosto de 1961, y
+
+III. El Acuerdo que dispone que los colores marfil-blanco-mate y negro brillante se declaran de uso oficial y exclusivo para distinguir el equipo de la Policía Federal de Caminos, publicado en el Diario Oficial de la Federación el 18 de abril de 1958.
+
+TERCERO. Se reforma el artículo 2, en lo referente a la mención que se hace a la Dirección General de la Policía Federal de Caminos, para que en su lugar se haga referencia al órgano desconcentrado Policía Federal de Caminos y, se deroga el artículo 20, ambos del Reglamento Interior de la Secretaría de Comunicaciones y Transportes.
+
+CUARTO. Los recursos humanos, materiales y financieros asignados a la Dirección General de la Policía Federal de Caminos pasarán al órgano desconcentrado Policía Federal de Caminos, al entrar en vigor el presente Reglamento.
+
+Dentro de los 30 días naturales siguientes a la entrada en vigor del presente ordenamiento, deberán transferirse a la Policía Federal de Caminos los recursos financieros y materiales de la Dirección General de la Policía Federal de Caminos que administran los Centros SCT, así como los expedientes y documentos en trámite ante dichos Centros y la Dirección General de Autotransporte Federal, que por virtud de lo previsto en el artículo 9, fracción V, de este Reglamento, pasan a ser competencia del órgano desconcentrado Policía Federal de Caminos.
+
+QUINTO. Los manuales a que se refiere el presente Reglamento deberán expedirse dentro de los tres meses siguientes a la entrada en vigor del presente ordenamiento, mismos que deberán publicarse en el Diario Oficial de la Federación. En tanto se expidan los citados manuales, se aplicarán las disposiciones vigentes en lo que no se opongan al presente ordenamiento. En lo no previsto, resolverá el titular de la Secretaría a través del Subsecretario.
+
+SEXTO. Los derechos de los servidores públicos de la Dirección General de la Policía Federal de Caminos, que pasen a prestar sus servicios al Órgano Desconcentrado Policía Federal de Caminos, serán respetados en sus términos.
+
+SÉPTIMO. Los asuntos en trámite ante la Dirección General de la Policía Federal de Caminos, serán resueltos por el Órgano Desconcentrado Policía Federal de Caminos, de conformidad con las disposiciones vigentes al momento en que se iniciaron.
