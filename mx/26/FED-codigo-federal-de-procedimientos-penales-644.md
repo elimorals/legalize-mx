@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2002-02-06"
+last_updated: "2002-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE DICIEMBRE DE 2002.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -147,9 +147,9 @@ En el procedimiento de ejecución, el Poder Ejecutivo, por conducto del órgano 
 
 Es tribunal competente para conocer de un delito, el del lugar en que se comete, salvo lo previsto en los párrafos segundo y tercero del artículo 10.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
 
-Si el delito produce efectos en dos o más entidades federativas, será competente el juez de cualquiera de éstas o el que hubiera prevenido.
+Si el delito produce efectos en dos o más entidades federativas, será competente el juez de cualquiera de éstas o el que hubiera prevenido; pero cuando el conflicto involucre como partes a indígenas y no indígenas, será tribunal competente el que ejerza jurisdicción en el domicilio donde radique la parte indígena.
 
 ###### ARTICULO 7o.
 
@@ -209,6 +209,10 @@ Cuando los detenidos o los inculpados sean reclamados por dos o más tribunales 
 
 Las actuaciones se podrán practicar a toda hora y aun en los días inhábiles, sin necesidad de previa habilitación y en cada una de ellas se expresarán el lugar, la hora, el día, el mes y el año en que se practiquen; en ellas se usará el idioma castellano, salvo las excepciones en que la ley permita el uso de otro, en cuyo caso se recabará la traducción correspondiente; y en el acta que se levante se asentará únicamente lo que sea necesario para constancia del desarrollo que haya tenido la diligencia.
 
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
+
+Cuando intervengan en las actuaciones personas pertenecientes a los pueblos o comunidades indígenas, deberán ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua y cultura, debiendo asentarse tal circunstancia en el acta respectiva.
+
 (REFORMADO PRIMER PARRAFO, D.O.F. 8 DE ENERO DE 1991) (REPUBLICADO, D.O.F. 9 DE ENERO DE 1991)
 
 ###### ARTICULO 16.
@@ -250,6 +254,10 @@ Excepción hecha de lo dispuesto por el artículo 23 de este Código, en ningún
 Inmediatamente después de que se hayan asentado las actuaciones del día o agregado los documentos recibidos, el secretario foliará y rubricará las hojas respectivas y pondrá el sello del tribunal en el fondo del cuaderno, de manera que abrace las dos caras.
 
 El secretario guardará con la seguridad debida, bajo su responsabilidad hasta en tanto dé cuenta al juez, los documentos originales u objetos que se presenten al proceso.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
+
+Cuando se trate de personas integrantes de pueblos o comunidades indígenas, el intérprete, además de tener conocimiento de su lengua, deberá conocer sus usos y costumbres.
 
 ###### ARTICULO 19.
 
@@ -1033,6 +1041,10 @@ En la averiguación previa en contra de personas que no hablen o no entiendan su
 
 El juez, en su caso, de oficio, o a petición de parte, verificará que perdure ese canal de comunicación; y si lo estimare prudente, podrá nombrar el defensor o el traductor que mejoren dicha comunicación.
 
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
+
+Tratándose de personas pertenecientes a los pueblos o comunidades indígenas, tanto el defensor como el intérprete correspondiente deberán tener pleno conocimiento de su lengua y cultura.
+
 (REFORMADO, D.O.F. 8 DE ENERO DE 1991) (REPUBLICADO, D.O.F. 9 DE ENERO DE 1991)
 
 ###### ARTICULO 125.
@@ -1085,7 +1097,9 @@ Para efectos de los incisos b) y c) se le permitirá al indiciado comunicarse co
 
 De la información al inculpado sobre los derechos antes mencionados, se dejará constancia en las actuaciones;
 
-IV.- Cuando el detenido fuere un indígena o extranjero, que no hable o no entienda suficientemente el castellano, se le designará un traductor que le hará saber los derechos a que se refiere la fracción anterior. Si se tratare de un extranjero, la detención se comunicará de inmediato a la representación diplomática o consular que corresponda; y
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
+
+IV. Cuando el detenido perteneciere a un pueblo o comunidad indígena o fuere extranjero, que no hable o no entienda suficientemente el español, se le designará un traductor que le hará saber los derechos a que se refiere la fracción anterior. Tratándose de indígenas, el traductor y el defensor que deberán asistirle, deberán tener además conocimiento de su lengua y cultura. Si se tratare de un extranjero, la detención se comunicará de inmediato a la representación diplomática o consular que corresponda, y
 
 V.- En todo caso se mantendrán separados a los hombres y a las mujeres en los lugares de detención o reclusión.
 
@@ -1405,6 +1419,10 @@ La declaración preparatoria se recibirá en local al que tenga acceso el públi
 
 La declaración preparatoria comenzará por las generales del inculpado, en las que se incluirán también los apodos que tuviere, el grupo étnico indígena al que pertenezca, en su caso, y si habla y entiende suficientemente el idioma castellano y sus demás circunstancias personales. Acto seguido se le hará saber el derecho que tiene para defenderse por sí o por persona de su confianza, advirtiéndole que si no lo hiciere, el juez le nombrará un defensor de oficio.
 
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
+
+Si el inculpado pertenece a un pueblo o comunidad indígenas, se le hará saber el derecho que tiene de ser asistido por un intérprete y por un defensor que tengan conocimiento de su lengua y cultura, en términos del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
+
 Si el inculpado no hubiere solicitado su libertad provisional bajo caución, se le hará nuevamente conocedor de ese derecho en los términos del artículo 20 fracción I de la Constitución Política de los Estados Unidos Mexicanos y del artículo 399 de este Código.
 
 > <small>(REFORMADO, D.O.F. 18 DE MAYO DE 1999)</small>
@@ -1442,6 +1460,10 @@ Si contra una orden de aprehensión no ejecutada o de comparecencia para prepara
 La designación de defensor de oficio en los lugares donde no resida tribunal federal y en que, por tanto, los jueces locales tengan que auxiliar a éste, se hará entre los defensores de oficio del orden común.
 
 Lo mismo se hará cuando no hubiere defensor de oficio federal en el lugar en que resida el tribunal federal que conozca del asunto.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
+
+Cuando el inculpado pertenezca a un pueblo o comunidad indígena, la designación del defensor de oficio recaerá sobre aquel que tenga conocimiento de su lengua y cultura.
 
 ###### ARTICULO 160.
 
@@ -2066,6 +2088,10 @@ Siempre que para el examen de personas, hechos u objetos, se requieran conocimie
 ###### ARTICULO 220 Bis.
 
 Cuando el inculpado pertenezca a un grupo étnico indígena, se procurará allegarse dictámenes periciales, a fin de que el juzgador ahonde en el conocimiento de su personalidad y capte su diferencia cultural respecto a la cultura media nacional.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
+
+En los procedimientos en los que intervengan personas que aleguen tener la calidad de indígenas, la misma se acreditará con la sola manifestación de quien la haga. Cuando el juez tenga duda de ella o fuere cuestionada en juicio, se solicitará a las autoridades comunitarias la expedición de la constancia que acredite la pertenencia del individuo a un determinado pueblo o comunidad.
 
 ###### ARTICULO 221.
 
@@ -3763,8 +3789,6 @@ Si la resolución fuere afirmativa y la causa se hubiere fundado en hechos que n
 
 Concluído el término probatorio, dentro de las cuarenta y ocho horas siguientes, se pronunciará la resolución contra la que no habrá recurso alguno.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
-
 ###### ARTICULO 457.
 
 Cuando se deseche la recusación se impondrá al recusante una multa de diez a cien pesos.
@@ -4267,6 +4291,8 @@ El reo deberá presentar el salvoconducto, siempre que sea requerido para ello p
 
 Cuando el que goce de libertad preparatoria se encuentre en alguno de los casos que menciona el artículo 86 del Código Penal, la autoridad municipal o cualquiera otra que tenga conocimiento de ello dará cuenta a la que le concedió la libertad, para los efectos del mismo artículo.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
 ###### ARTICULO 547.
 
 Cuando el reo cometiere un nuevo delito, el tribunal que conozca de éste remitirá copia certificada de la sentencia que cause ejecutoria a la autoridad que concedió la libertad, quien de plano decretará la revocación, de conformidad con el artículo 86 del Código Penal.
@@ -4706,3 +4732,7 @@ D.O.F. 6 DE FEBRERO DE 2002.
 PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los artículos del Título Vigésimo Quinto del Código Penal Federal, vigentes hasta la entrada en vigor del presente decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos. Lo anterior sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código Penal Federal.
+
+D.O.F. 18 DE DICIEMBRE DE 2002.
+
+ÚNICO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
