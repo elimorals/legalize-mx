@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2000-10-06"
+last_updated: "2001-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE FEBRERO DE 2001.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -177,9 +177,11 @@ Los Diputados que se presenten o sean llamados al ejercicio del cargo, con poste
 
 ### CAPÍTULO III. DEL ESTATUTO DE LOS DIPUTADOS
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 17.
 
-Los Diputados, durante el ejercicio de su cargo, tendrán los derechos y obligaciones siguientes:
+Los diputados, tendrán los derechos y obligaciones siguientes:
 
 I. Asistir y, en su caso, votar en las Sesiones del Congreso, de la Diputación Permanente o de las Comisiones legislativas de que formen parte;
 
@@ -193,7 +195,9 @@ V. Recibirán una dieta mensual y las demás percepciones necesarias para el cum
 
 VI. Organizarse internamente en Grupos Legislativos, conforme a lo dispuesto por esta ley;
 
-VII. Guardar estricta reserva sobre los asuntos que se traten en sesiones secretas;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2001)</small>
+
+VII. Guardar reserva sobre los asuntos que se traten en sesiones privadas;
 
 VIII. Presentar su declaración de situación patrimonial, en términos de la ley de la materia;
 
@@ -335,7 +339,7 @@ XXIX. Revisar las Cuentas Públicas del Gobierno del Estado y de los Ayuntamient
 
 XXX. Dar las bases legales para reconocer y mandar pagar los adeudos contraídos por el Poder Ejecutivo, con cargo al crédito del Estado, así como señalar los fondos con que deberán pagarse;
 
-XXXI. Autorizar al Ejecutivo del Estado a enajenar a título oneroso o gratuito, o a conceder el uso y disfrute, de bienes inmuebles de propiedad estatal, en los términos que fije la ley;
+XXXI. Autorizar al Ejecutivo del Estado a enajenar, a título oneroso o gratuito, o a conceder el uso y disfrute, de bienes inmuebles de propiedad estatal, en los términos que fije la ley;
 
 XXXII. Revisar y fiscalizar las cuentas y demás documentos que presenten o se soliciten a los organismos autónomos de Estado;
 
@@ -381,21 +385,15 @@ El Congreso del Estado, previa comprobación del quórum, elegirá a la Mesa Dir
 
 Para la elección de la Mesa Directiva, los Grupos Legislativos postularán fórmulas de candidatos para su integración; pero los coordinadores de los Grupos Legislativos no podrán formar parte de la Mesa Directiva del Congreso.
 
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 20.
 
-Los integrantes de la Mesa Directiva, en sus ausencias, serán suplidos de la siguiente forma:
+Los integrantes de la Mesa Directiva en sus ausencias, serán suplidos de la siguiente forma:
 
-I. Durante los Períodos de Sesiones:
+El presidente, por el vicepresidente; pero si faltare a tres sesiones consecutivas sin causa justificada que califique el pleno, el vicepresidente ejercerá las atribuciones de aquél, en tanto se elige al presidente que cumplirá con el periodo para el que fue electa la Mesa Directiva.
 
-a) El Presidente, por el Vicepresidente; pero si faltare a tres sesiones consecutivas sin causa justificada que califique el Pleno, el Vicepresidente ejercerá las atribuciones de aquél, en tanto se elige al Presidente que cumplirá con el período para el que fue electa la Mesa Directiva;
-
-b) El Vicepresidente o el Secretario, por el Diputado que, según el caso, elija el Pleno y que desempeñará el cargo únicamente por la sesión o sesiones de que se trate; pero si alguno faltare a tres sesiones consecutivas sin causa justificada que califique el Pleno, éste hará la elección del Diputado que, según el caso, desempeñará el cargo que corresponda durante el período para el que fue electa la Mesa Directiva.
-
-II. Durante los recesos legislativos:
-
-a) El Presidente, por el Vicepresidente; pero si sus ausencias fueren mayores a 45 días, el Vicepresidente ejercerá las atribuciones de aquél, en tanto se elige al Presidente que cumplirá con el período para el que fue electa la Mesa Directiva;
-
-b) El Vicepresidente o el Secretario, por el Diputado que, según el caso, elija el Pleno de la Diputación Permanente de entre sus Diputados sustitutos, para desempeñar el cargo que corresponda únicamente por la sesión o sesiones de que se trate; pero si sus ausencias fueren mayores a 45 días, el Pleno de la Diputación Permanente elegirá, de entre los Diputados sustitutos a que hace referencia el artículo 41 de esta ley, a quienes, según el caso, desempeñarán el cargo durante el receso legislativo de que se trate.
+El vicepresidente o el secretario, por el diputado que, según el caso, elija el Pleno y que desempeñará el cargo únicamente por la sesión o sesiones de que se trate; pero si alguno faltare a tres sesiones consecutivas sin causa justificada que califique el Pleno, éste hará la elección del diputado que, según el caso, desempeñará el cargo por las demás sesiones.
 
 ###### Artículo 21.
 
@@ -423,7 +421,7 @@ V. Cuidar que los dictámenes, propuestas, mociones, comunicados y demás escrit
 
 VI. Proveer lo necesario para la constitución de los Grupos Legislativos;
 
-VII. Conducir los trabajos de la Diputación Permanente;
+VII. (DEROGADA, G.O. 2 DE FEBRERO DE 2001)
 
 VIII. Determinar las sanciones aplicables a las conductas que atenten contra la disciplina interna del Congreso;
 
@@ -431,15 +429,19 @@ IX. Designar las Comisiones de Cortesía; y
 
 X. Las demás que expresamente señalen la Constitución del Estado, esta ley, la normatividad interior del Congreso y las leyes del Estado.
 
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 23.
 
-La Mesa Directiva se reunirá por lo menos una vez a la semana durante los Períodos de Sesiones y con la periodicidad que acuerde durante los recesos legislativos, tomará sus decisiones por la mayoría de sus integrantes y a sus reuniones asistirá el Secretario General del Congreso, con voz pero sin voto, quien preparará los documentos necesarios para dichas reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten.
+La Mesa Directiva se reunirá por lo menos una vez a la semana y tomará sus decisiones por la mayoría de sus integrantes y a sus reuniones asistirá el Secretario General del Congreso, con voz pero sin voto, quien preparará los documentos necesarios para dichas reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten.
 
 #### SECCION TERCERA. DE SU PRESIDENTE
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 24.
 
-El Presidente de la Mesa Directiva fungirá como Presidente del Congreso del Estado y tendrá las atribuciones siguientes:
+El presidente de la Mesa Directiva, fungirá como Presidente del Congreso del Estado y tendrá las atribuciones siguientes:
 
 I. Representar legalmente al Congreso del Estado y delegar dicha función el Servidor Público que designe, mediante acuerdo escrito;
 
@@ -449,7 +451,9 @@ III. Dirigir y coordinar los trabajos de la Mesa Directiva;
 
 IV. Convocar a las reuniones de la Mesa Directiva del Congreso y a las de la Junta de Trabajos Legislativos y cumplir las resoluciones que le correspondan;
 
-V. Presidir las Sesiones del Congreso, de la Diputación Permanente y las reuniones de la Junta de Trabajos Legislativos;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2001)</small>
+
+V. Presidir las sesiones del Congreso y las reuniones de la Junta de Trabajos Legislativos;
 
 VI. Citar, abrir, prorrogar, suspender y levantar las sesiones del Pleno;
 
@@ -537,9 +541,11 @@ A los Diputados que no formen, no se inscriban o dejen de pertenecer a un Grupo 
 
 #### SECCIÓN PRIMERA. DE SU NATURALEZA E INTEGRACIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 31.
 
-La Junta de Coordinación Política es el órgano de gobierno del Congreso del Estado, responsable de optimizar el ejercicio de las funciones legislativas, políticas y administrativas. La Junta funcionará de manera colegiada y se integrará con los Coordinadores de los Grupos Legislativos.
+La Junta de Coordinación Política es el órgano de Gobierno del Congreso del Estado, encargado de vigilar el óptimo ejercicio de las funciones legislativas, políticas y administrativas. La Junta funcionará de manera colegiada y se integrará con los Coordinadores de los Grupos Legislativos y, en caso de no poder constituirse en Grupo Legislativo, el partido respectivo acreditará ante la Junta a un diputado con voz pero sin voto.
 
 El Coordinador del Grupo Legislativo que cuente con la mayoría absoluta en el Congreso, será el Presidente de la Junta por toda la Legislatura; pero si ningún Grupo Legislativo alcanza dicha mayoría, la responsabilidad de presidir la Junta tendrá una duración anual. Esta encomienda se desempeñará sucesivamente por los Coordinadores de los Grupos, en orden decreciente conforme al número de Diputados que los integren.
 
@@ -609,7 +615,9 @@ La Junta de Trabajos Legislativos tiene las atribuciones siguientes:
 
 I. Establecer la agenda legislativa en los Períodos de Sesiones y durante los recesos, así como el calendario para su desahogo;
 
-II. Acordar la integración básica del orden del día de cada Sesión, así como las formas que seguirán los debates, discusiones y deliberaciones;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2001)</small>
+
+II. Acordar el Proyecto del orden del día de cada sesión, así como la forma que seguirán los debates, discusiones y deliberaciones;
 
 III. Proponer al Pleno los proyectos de Reglamentos relativos a: las Sesiones, Orden del Día, Debates y Votaciones; de las Comisiones; de la Secretaría General, de las Secretarías de Servicios Legislativos, de Fiscalización, de Servicios Administrativos y Financieros, y demás órganos administrativos del Congreso del Estado; así como del Servicio Civil de Carrera;
 
@@ -685,9 +693,11 @@ Las Comisiones permanentes, por conducto del Presidente del Congreso, convocará
 
 ### CAPÍTULO VII. DE LA DIPUTACIÓN PERMANENTE
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 41.
 
-La víspera del día en que concluyan los períodos de sesiones ordinarias, el Congreso del Estado, mediante votación secreta y por mayoría de los Diputados presentes, elegirá una Diputación Permanente compuesta por el cuarenta por ciento del total de los integrantes del Congreso, de los cuales la mitad actuarán como propietarios y los demás como sustitutos.
+La víspera del día en que concluyan los periodos de sesiones ordinarias, el Congreso del Estado, mediante votación secreta y por mayoría de los diputados presentes, elegirá una Diputación Permanente, compuesta por el cuarenta por ciento del total de los integrantes del Congreso, de los cuales la mitad actuará como propietarios y los demás como sustitutos; de entre ellos se elegirá una directiva compuesta por un presidente, un vicepresidente y un secretario.
 
 La Diputación Permanente funcionará durante los recesos del Congreso y, en el año de su renovación, hasta la instalación del sucesivo, debiendo integrarse proporcionalmente según el número de Diputados pertenecientes a los diversos Grupos Legislativos.
 
@@ -695,7 +705,9 @@ La Diputación Permanente funcionará durante los recesos del Congreso y, en el 
 
 Son atribuciones de la Diputación Permanente:
 
-I. Acordar por sí misma, con la participación de su Mesa Directiva, todo lo relativo a sus sesiones, orden del día, debates y votaciones, deliberaciones, propuestas y demás asuntos que deba conocer;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2001)</small>
+
+I. Acordar, a propuesta de la Junta de Trabajos Legislativos, con la participación de su Mesa Directiva, todo lo relativo a sus sesiones, orden del día, debates y votaciones, deliberaciones, propuestas y demás asuntos que deba conocer;
 
 II. Acordar por sí misma o a solicitud del Gobernador del Estado, la convocatoria al Congreso para llevar a cabo Períodos de Sesiones Extraordinarias;
 
@@ -719,9 +731,11 @@ XI. Conocer de los asuntos relacionados con la hacienda de los municipios y la p
 
 XII. Las demás que le confiera expresamente la Constitución Política del Estado.
 
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 43.
 
-Los integrantes de la Mesa Directiva del Congreso, en funciones de Mesa Directiva de la Diputación Permanentemente, conducirán los trabajos de ésta y ejercerán, en lo conducente, las atribuciones que les otorga esta ley para los efectos de organizar y dirigir las sesiones, el orden del día, los debates y las votaciones, deliberaciones, propuestas y demás asuntos que deba conocer la Diputación Permanente, observando en lo general las mismas formalidades que para el Congreso señalen esta ley y demás normatividad interior.
+Los integrantes de la Mesa Directiva de la Diputación Permanente conducirán los trabajos de ésta y ejercerán, en lo conducente, las atribuciones que le otorga la presente Ley a la Directiva del Pleno.
 
 ###### Artículo 44.
 
@@ -736,6 +750,16 @@ La Diputación Permanente sesionará al menos cada quince días; y las veces que
 ###### Artículo 46.
 
 La Diputación Permanente preparará un informe de los asuntos que hubiere despachado en su gestión y de los que estén pendientes de resolución, con el cual dará cuenta el primer día de sesiones ordinarias, a efecto de que el Congreso proceda a su desahogo. En el último año de su ejercicio, dicho informe se rendirá en el mes de octubre con asistencia del Gobernador del Estado y del Presidente del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2001)</small>
+
+###### Artículo 46 Bis.
+
+Los integrantes de la Mesa Directiva de la Diputación Permanente, en sus ausencias serán suplidas en la siguiente forma:
+
+a). El presidente por el vicepresidente; si fueren mayores a cuarenta y cinco días, el vicepresidente ejercerá las atribuciones de aquél, en tanto el Pleno elige al presidente que cumplirá con el periodo correspondiente.
+
+b). Las ausencias del vicepresidente o el secretario por el diputado que elija la Diputación Permanente de entre los sustitutos, para desempeñar el cargo, pero si sus ausencias fueren mayores de cuarenta y cinco días, el Pleno de la Diputación Permanente elegirá, de entre de los sustitutos, a quienes desempeñarán el cargo durante el receso Legislativo de que se trate.
 
 ## TÍTULO TERCERO. DE LAS RESOLUCIONES Y DEL PROCESO LEGISLATIVO
 
@@ -847,9 +871,11 @@ V. No haber sido, durante el año anterior al día de la designación, miembro d
 
 VI. No haber sido condenado por delito intencional que haya ameritado pena privativa de libertad.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2001)</small>
+
 ###### Artículo 57.
 
-El Secretario General del Congreso tiene las atribuciones siguientes:
+El secretario general del Congreso tiene las atribuciones siguientes:
 
 I. Realizar los trabajos preparatorios para la celebración de la Sesión de Instalación del Congreso, en los términos previstos por esta ley;
 
@@ -859,9 +885,9 @@ III. Auxiliar a la Mesa Directiva en las reuniones que celebre, cuando no funcio
 
 IV. Dirigir, ejecutar y supervisar los trabajos y el cumplimiento de las atribuciones y el correcto funcionamiento de las Secretarías de Servicios Legislativos, de Fiscalización y de Servicios Administrativos y Financieros;
 
-> <small>(F. DE E., G.O. 25 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2001)</small>
 
-V. Recibir la declaración de situación patrimonial de los servidores públicos estatales y municipales, y remitirlas al Órgano de Fiscalización Superior de conformidad con la ley de la materia y demás disposiciones aplicables;
+V. Recibir la Declaración de Situación Patrimonial de los Servidores Públicos Estatales y Municipales, de conformidad con la Ley de la Materia y demás disposiciones aplicables;
 
 VI. Designar y remover, previo acuerdo de la Junta de Trabajos Legislativos, a los Secretarios de Servicios Legislativos, de Fiscalización y de Servicios Administrativos y Financieros, los que deberán reunir los mismos requisitos que para ser Secretario General;
 
@@ -869,7 +895,27 @@ VII. Formular, respecto de los servicios previstos en el presente Título, los p
 
 VIII. Preparar, en el año de la renovación del Congreso del Estado, la documentación relativa al proceso de entrega y recepción de los servicios a su cargo;
 
-IX. Informar trimestralmente a la Junta de Trabajos Legislativos, sobre el cumplimiento de las políticas, lineamientos y acuerdos adoptados por ésta, y respecto al desempeño en la prestación de los servicios legislativos, de fiscalización y administrativos y financieros; y
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2001)</small>
+
+IX. Informar trimestralmente a la Junta de Trabajos Legislativos, sobre el cumplimiento de las políticas, lineamientos y acuerdos adoptados por ésta, y respecto al desempeño en la prestación de los Servicios Legislativos, de Fiscalización y Administrativos y financieros; así como los siguientes asuntos:
+
+a). Oficialía de Partes;
+
+b). Servicios Jurídicos;
+
+c). Investigaciones Legislativas;
+
+d). Asesoría y Orientación Municipal;
+
+e). Comunicación Social;
+
+f). Informática;
+
+g). Biblioteca;
+
+h). Archivo;
+
+i). Servicio Médico y Seguridad; y
 
 X. Las demás que expresamente le confieran esta ley, la normatividad interior del Congreso y demás leyes del Estado.
 
@@ -889,11 +935,11 @@ IV. Asesoría, que comprende los de: Grupos Legislativos y Diputados en lo parti
 
 V. Relativo a publicaciones oficiales, que comprende los de: elaboración de la versión estenográfica y del Diario de los Debates; así como actualizar las leyes y decretos aprobados por el Congreso, cuidando de su publicación en la Gaceta Oficial del Estado;
 
-VI. Archivo, que comprende los de: formación y clasificación y custodia de los expedientes del Pleno y las Comisiones; y desahogo de las consultas y apoyo documental a los órganos del Congreso y a los Diputados.
+VI. (DEROGADA, G.O. 2 DE FEBRERO DE 2001)
 
-VII. Biblioteca, que comprende los de: acervo de libros, hemeroteca, videoteca, multimedia, museografía e informática;
+VII. (DEROGADA, G.O. 2 DE FEBRERO DE 2001)
 
-VIII. Comunicación Social, que comprende las de: difusión de las actividades del Congreso, enlace con los medios de comunicación, y programa de publicaciones; y
+VIII. (DEROGADA, G.O. 2 DE FEBRERO DE 2001)
 
 IX. Las demás que expresamente le confieran esta ley, la normatividad interior del Congreso y demás leyes del Estado.
 
@@ -954,3 +1000,11 @@ CUARTO. En tanto se expiden los Reglamentos correspondientes, seguirán siendo a
 QUINTO. Para los efectos de lo dispuesto por el artículo 14 de esta ley, relativo a la sesión de instalación de la Legislatura que iniciará sus funciones el 5 de noviembre del presente año, el actual titular de la Oficialía Mayor realizará las actividades encomendadas a la Secretaría General; asimismo, auxiliará en todo lo necesario para la constitución de la Mesa Directiva, de la Junta de Coordinación Política y de la Junta de Trabajos Legislativos, en tanto se hace el nombramiento del titular de la Secretaría General del Congreso.
 
 Dada en el Salón de Sesiones de la H. LVIII Legislatura del Congreso del Estado, en la ciudad de Xalapa-Enríquez, Veracruz, a los veintisiete días del mes de septiembre del año dos mil. Diputado presidente, Óscar Moncayo Quiroz.- Rúbrica. Diputado secretario, Edmundo Cristóbal Cruz.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 2 DE FEBRERO DE 2001.
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente a su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
