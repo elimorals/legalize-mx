@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-seguridad-publica-del-estado-de-baja-california-sur-8989
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-06"
-last_updated: "1996-11-27"
+last_updated: "1998-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SEGURIDAD PUBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 27 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 21 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 6 de junio de 1996.
 
@@ -63,11 +63,13 @@ Las autoridades competentes, para lograr los objetivos de la función de segurid
 
 El Estado y los Municipios, en el ámbito de sus respectivas competencias, combatirán las causas que generan la comisión de delitos y conductas antisociales y desarrollarán políticas, programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 21 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 6o.
 
-Son instituciones de seguridad pública las siguientes:
+Son Instituciones de Seguridad Pública las siguientes:
 
-I.- Los Tribunales del Poder Judicial del Estado;
+I.- (DEROGADA, B.O. 21 DE DICIEMBRE DE 1998)
 
 II.- La Procuraduría General de Justicia del Estado;
 
@@ -924,3 +926,11 @@ B.O. 27 DE NOVIEMBRE DE 1996.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 21 DE DICIEMBRE DE 1998.
+
+PRIMERO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+SEGUNDO.- En lo conducente actualícense las disposiciones que deriven del presente decreto así como de su Reglamento.
+
+TERCERO.- El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
