@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "1980-10-08"
+last_updated: "1982-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "ROO"
 
 CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1982.
 
-Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
+Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el 8 de miércoles octubre de 1980.
 
 Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos. II Legislatura Constitucional.
 
@@ -2823,7 +2823,7 @@ Si son varios los herederos y los bienes admiten cómoda división, cada uno adm
 
 ###### Artículo 571.
 
-Si los bienes no admiten cómoda división, los herederos eligirán de entre ellos mismos un administrador general, y si no se pusieren de acuerdo, el Juez lo nombrará, escogiéndole de entre los mismos herederos.
+Si los bienes no admiten cómoda división, los herederos elegirán de entre ellos mismos un administrador general, y si no se pusieren de acuerdo, el Juez lo nombrará, escogiéndole de entre los mismos herederos.
 
 ###### Artículo 572.
 
@@ -3019,115 +3019,165 @@ Fuera de lo preceptuado en los artículos anteriores ningún otro medio de prueb
 
 #### SECCION PRIMERA. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
+
 ###### Artículo 615.
 
-En la Capital del Estado habrá una Oficina Central del Registro Civil, al frente de la cual estará un funcionario nombrado por el Ejecutivo y que se denominará Oficial Central del Registro Civil; esta oficina tendrá las siguientes atribuciones:
+El Registro Civil es una Institución de carácter público y de interés social, por medio del cual el Estado inscribe y da publicidad a los actos constitutivos o modificativos del Estado Civil de las personas.
 
-I.- Llevar el Archivo General del Registro Civil en el Estado.
-
-II.- Autorizar, cada año junto con el Secretario de Gobierno y el Presidente Municipal respectivo, los libros del Registro Civil que se deberán presentar por duplicado.
-
-III.- Expedir copias certificadas de las constancias del Registro Civil que obren en su Archivo General.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
 
 ###### Artículo 616.
 
-En cada cabecera municipal del Estado habrá por lo menos una oficina encargada del Registro Civil, al frente de la cual estará un funcionario que se denominará Oficial del Registro Civil, auxiliado por el número de empleados que señale el presupuesto de egresos del Municipio que corresponda.
+El Registro Civil para su funcionamiento contará con una Oficina Central del Registro Civil y el número de Oficialías, Delegaciones o Subdelegaciones necesarias para el cumplimiento de su objetivo.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
 
 ###### Artículo 617.
 
-Los Oficiales del Registro Civil serán nombrados y removidos libremente por el Presidente Municipal del lugar.
+En la Capital del Estado tendrá su asiento la Oficina Central del Registro Civil, al frente de la cual estará un Funcionario nombrado por el Ejecutivo y que se denominará Oficial Central del Registro Civil.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
 
 ###### Artículo 618.
 
-Los oficiales del Registro Civil llevarán por duplicado cuatro libros en los que respectivamente se asentarán las actas de nacimiento, de matrimonio, de divorcio y de defunción.
+Corresponde a la Oficina Central del Registro Civil:
+
+I.- Vigilar que los Oficiales, Delegados y Subdelegados del Registro Civil desempeñen sus funciones cumpliendo con lo establecido por la Ley y sus Reglamentos;
+
+II.- Emitir, previo acuerdo de la Secretaría de Gobierno, las formas especiales de actas del Registro Civil que deban ser utilizadas en el Estado;
+
+III.- Llevar el archivo general del Registro Civil en el Estado.;
+
+IV.- Expedir copias certificadas de las constancias del Registro Civil que obren en su archivo general.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
 
 ###### Artículo 619.
 
-En las Subdelegaciones Municipales habrá cuando menos un Subdelegado del Registro Civil, que con el carácter de receptor llevará libros auxiliares de nacimiento y de matrimonio que serán autorizados en la forma señalada en el artículo 624.
+Las Oficinas del Registro Civil estarán a cargo de los Ayuntamientos, donde tengan su asiento pero en todo caso ajustarán sus procedimientos a lo establecido por esta Ley y el Reglamento respectivo.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
 
 ###### Artículo 620.
 
-Los subdelegados del Registro Civil podrán ser los mismos funcionarios municipales, debidamente autorizados por el Presidente Municipal del lugar.
+En cada Municipio habrá cuando menos una Oficina encargada del Registro Civil al frente de la cual estará un funcionario que se denominará Oficial del Registro Civil, auxiliado por el número de empleados que señale el Presupuesto de Egresos del Municipio que corresponda.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
 
 ###### Artículo 621.
 
-Todas las actas se asentarán en los dos ejemplares del Registro.
+Los Oficiales del Registro Civil serán nombrados y removidos por el Presidente Municipal del lugar.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
 
 ###### Artículo 622.
 
-Si alguno de los dos ejemplares de los libros del Registro se perdiere o destruyere, se sacará inmediatamente fotocopia del otro, que certificará el Oficial Central del Registro Civil.
+Los Oficiales del Registro Civil deberán asentar las actas del Estado Civil de las personas en las formas especiales únicas que para la Entidad se establezcan.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
 
 ###### Artículo 623.
 
-El Procurador de Justicia cuidará de que se cumpla con la disposición establecida en el artículo anterior.
+Los Delegados y Subdelegados Municipales podrán fungir como Delegados o Subdelegados del Registro Civil cuando así lo autorice el Presidente Municipal del lugar, actuarán con carácter de receptor, y levantarán actas de nacimiento y matrimonio en las formas previstas por el Artículo siguiente.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
 
 ###### Artículo 624.
 
-Todos los libros del Registro Civil, en la hoja inmediatamente anterior a las foliadas, serán autorizados por el Secretario de Gobierno conjuntamente con el Oficial Central del Registro Civil y el Presidente Municipal, con la siguiente leyenda: "Se autoriza este libro, que consta de ..... hojas útiles debidamente selladas y foliadas con números progresivos del ..... al ..... para el levantamiento de las actas de .... en la oficialía del Registro Civil del Municipio de ....... de este Estado". Se expresará a continuación el lugar y la fecha y firmará el Secretario de Gobierno, el Oficial Central del Registro y el Presidente Municipal y el sello de la Oficina Central del Registro Civil será puesto en ésta y en la última hoja foliada del libro.
+Las actas del Registro Civil se asentarán en formas especiales y el Reglamento respectivo establecerá su formato, las inscripciones se harán mecanográficamente por cuadruplicado. La infracción de esta disposición producirá la nulidad del acta.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
 
 ###### Artículo 625.
 
-Los libros se renovarán con la debida anticipación a la terminación de su uso, que previsora y razonablemente calculará, bajo su más estricta responsabilidad, el jefe de la oficialía respectiva, de modo que ésta no carezca de la correspondiente dotación de libros listos para ser usados.
+El Oficial Central del Registro Civil cuidará que siempre que se pierda o destruya alguna de las actas del Registro Civil se reponga inmediatamente, elaborando copia de los otros ejemplares, bajo su propia responsabilidad, del Oficial, Delegado o Subdelegado del Registro Civil, y al efecto; el funcionario titular del lugar donde ocurra la pérdida dará aviso a los demás en la forma que establezca el Reglamento respectivo.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
 
 ###### Artículo 626.
 
-La renovación deberá hacerse anualmente y las fojas que al terminar el año no hayan sido usadas, serán inutilizadas cruzándolas con dos rayas gruesas.
+Las formas del Registro Civil serán distribuidas por el Oficial Central del Registro Civil, se encuadernarán por año y los Oficiales del Registro Civil remitirán mensualmente dos ejemplares de las formas utilizadas a la Oficina Central del Registro Civil, un ejemplar al interesado y el otro quedará en el archivo de la Oficialía, en igual forma procederán los Delegados o Subdelegados del Registro Civil.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
 
 ###### Artículo 627.
 
-Los dos ejemplares de los libros cuyos folios hayan sido totalmente usados o inutilizados, serán anotados en la hoja inmediatamente posterior a las foliadas con esta leyenda: "Contiene este libro las actas de ....... levantadas en esta oficina a partir del día...... del mes de ..... del año....., al día de hoy". Se expresará a continuación el lugar y la fecha en que se asiente la constancia, y el Oficial del Registro Civil la autorizará con su firma y sello.
+Con las formas del Registro Civil se integrará asimismo el apéndice respectivo y estará constituido por todos los documentos relacionados con el acta que se asienta. Los documentos del apéndice estarán anotados y relacionados con las formas respectivas al igual que las formas lo estarán con éste.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
 
 ###### Artículo 628.
 
-Un ejemplar de cada libro terminado de usar se quedará, con los documentos correspondientes, en la oficialía del Registro o delegación y el otro será remitido a la Oficina Central del Registro Civil, para que obre en el Archivo General del Registro Civil del Estado, a su cargo. Los oficiales del Registro Civil y delegados están obligados a remitir dicho ejemplar a más tardar dentro de los diez días siguientes a la fecha de la constancia a que se contrae el artículo anterior. De no hacerlo la primera vez será amonestado por el Oficial Central del Registro Civil, y por la segunda, destituido de su cargo por el Presidente Municipal.
+No podrá asentarse en las actas, ni aun por vía de nota o advertencia sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en la Ley.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
 
 ###### Artículo 629.
 
-No podrá asentarse en las actas, ni aun por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en la ley.
+Cuando los interesados no puedan concurrir personalmente ante el Oficial, Delegado o Subdelegado del Registro Civil, podrán solicitar que éste acuda al lugar en donde se encuentra o podrán hacerse representar mediante mandatario especial para el acto pero el mandato se otorgará mediante escritura pública.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
 
 ###### Artículo 630.
 
-Cuando los interesados no puedan concurrir personalmente, podrán hacerse representar por un mandatario especial para el acto, cuyo nombramiento conste por lo menos en instrumento privado otorgado ante dos testigos y en los casos de matrimonio o de reconocimiento de hijos, se necesita poder otorgado en escritura pública o mandato extendido en escrito privado firmado por el otorgante y dos testigos y ratificadas las firmas ante notario público, Juez de Primera Instancia, Menor o de Paz.
+Los testigos que intervengan en las actas del Registro Civil deberán ser mayores de edad y se preferirán a los parientes y a los que designen los interesados, asentándose en el acta su nombre, edad, domicilio y nacionalidad.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
 
 ###### Artículo 631.
 
-Los testigos que intervengan en las actas del Registro Civil serán mayores de edad, prefiriéndose los que designen los interesados, aun cuando sean sus parientes.
+La falsificación de las actas y la inserción en ellas de circunstancias y declaraciones prohibidas por la Ley causarán la destitución del Oficial, Delegado o Subdelegado del Registro Civil, sin perjuicio de las penas que la Ley señale para el delito de falsedad y de la indemnización de daños y perjuicios.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
 
 ###### Artículo 632.
 
-La falsificación de las actas y la inserción en ellas de circunstacias o declaraciones prohibidas por la ley causarán la destitución del Oficial del Registro Civil, sin perjuicio de las penas que la ley señale para el delito de falsedad y de la indemnización de daños y perjuicios.
+Los vicios o defectos que hayan en las actas, sujetan al Oficial, Delegado o Subdelegado del Registro Civil a las correcciones que señale el Reglamento respectivo, pero cuando no sean sustanciales no producirán la nulidad del acta a menos que judicialmente se pruebe la falsedad de ésta.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
 
 ###### Artículo 633.
 
-Los vicios o defectos que haya en las actas, sujetan al oficial del Registro Civil a las correcciones que señale el reglamento respectivo; pero cuando no sean substanciales no producirán la nulidad del acta, a menos que judicialmente se pruebe la falsedad de ésta.
+El Oficial Central del Registro Civil supervisará las actuaciones de los Oficiales, Delegados o Subdelegados del Registro Civil, ejerciendo las facultades que le señale el Reglamento del Registro Civil.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
 
 ###### Artículo 634.
 
-Las actas del estado civil relativas al oficial del Registro, a su consorte, a la persona que viva con él como si fuera su cónyuge, sin serlo, y a los ascendientes o descendientes de cualquiera de ellos no podrán autorizarse por el mismo oficial, pero se asentarán en los libros que correspondan de la oficina a cargo de éste y se autorizarán por el Presidente Municipal del lugar.
+Toda persona puede solicitar copia certificada de las actas del Registro Civil y los Oficiales están obligados a expedirlas junto con la copia certificada de los documentos relativos del apéndice.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
 
 ###### Artículo 635.
 
-Las actas del Registro Civil extendidas conforme a las disposiciones que preceden, hacen prueba plena en todo lo que el oficial del Registro Civil, en el desempeño de sus funciones, da testimonio de haber pasado en su presencia, sin perjuicio de que el acta pueda ser redargüida de falsa.
+Las actas del Registro Civil extendidas conforme a las disposiciones que preceden hacen prueba plena en todo lo que el Oficial, Delegado o Subdelegado del Registro Civil, en el desempeño de sus funciones, da testimonio de haber pasado en su presencia, sin perjuicio de que el acta pueda ser redargüida de falsa.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
 
 ###### Artículo 636.
 
-Las declaraciones de los comparecientes hechas en cumplimiento de lo mandado por la ley, hacen fe hasta que se pruebe lo contrario. Lo que sea extraño al acta no tiene valor alguno.
+Las declaraciones de los comparecientes hechas en cumplimiento de lo mandado por la Ley hacen fe hasta que se pruebe lo contrario. Lo que sea extraño al acta no tiene valor ninguno.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
 
 ###### Artículo 637.
 
-Toda persona puede pedir testimonio de las actas del Registro Civil, así como de los apuntes y documentos con ellas relacionados, y los oficiales registradores estarán obligados a darlos.
+Las actas del Registro Civil relativas al Oficial, Delegado o Subdelegado del Registro Civil, a su consorte, a la persona que viva con él como si fuera su cónyuge y a los ascendientes y descendientes de cualquiera de ellos, no podrán autorizarse por los mismos, pero se asentarán en las formas correspondientes a las Oficinas a su cargo y se autorizarán por el Oficial Central del Registro Civil.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
 
 ###### Artículo 638.
 
-El registro de cualquier acto del estado civil es absolutamente gratuito, salvo que los interesados soliciten que dicho registro sea a domicilio, en cuyo caso cubrirán previamente, en la respectiva Recaudación de Rentas, los derechos correspondientes.
+El Registro de cualquier acto del estado civil, es absolutamente gratuito, salvo que los interesados soliciten que dicho registro sea a domicilio, en cuyo caso cubrirán previamente en la respectiva Recaudación de Rentas, los derechos correspondientes.
 
 #### SECCION SEGUNDA. De las actas de nacimiento
 
-> <small>(F. DE E., P.O. 8 DE OCTUBRE DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE ENERO DE 1982)</small>
 
 ###### Artículo 639.
 
-El acta de nacimiento se levantará con asistencia de los testigos y contendrá:
+El acta de nacimiento se levantará con asistencia de dos testigos y deberá contener:
 
 I.- Día, lugar y hora del nacimiento.
 
@@ -3139,9 +3189,13 @@ IV.- Si se presenta vivo o muerto.
 
 V.- La impresión digital.
 
-VI.- El nombre, nacionalidad y ocupación de los padres.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1982)</small>
 
-VII.- El nombre de los abuelos paternos y maternos y su ocupación; y
+VI.- El nombre y nacionalidad de los padres.
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1982)</small>
+
+VII.- El nombre de los abuelos paternos y maternos, y
 
 VIII.- El domicilio de los padres.
 
@@ -3151,11 +3205,13 @@ VIII.- El domicilio de los padres.
 
 El acta de matrimonio se extenderá haciéndose constar:
 
-> <small>(F. DE E., P.O. 8 DE OCTUBRE DE 1980)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1982)</small>
 
-I.- Los nombres, apellidos, edad, ocupación, domicilio, nacionalidad, fecha y lugar de nacimiento de los contrayentes.
+I.- Los nombres, apellidos, edad, ocupación, domicilio, nacionalidad y lugar del nacimiento de los contrayentes;
 
-II.- Los nombres, apellidos, ocupación y domicilio de los padres.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1982)</small>
+
+II.- Los nombres, apellidos, nacionalidad y domicilio de los padres;
 
 III.- En su caso, el consentimiento de éstos, de los abuelos, de los tutores o de las autoridades que deban suplirlos;
 
@@ -3165,7 +3221,9 @@ V.- La declaración de los pretendientes de ser su voluntad unirse en matrimonio
 
 VI.- La manifestación de los cónyuges de que contraen matrimonio bajo el rígimen (sic) de comunidad de bienes o de separación de éstos;
 
-VII.- Los nombres, apellidos, edad, estado civil, ocupación y domicilio de los testigos, así como su declaración sobre si son o no parientes de los contrayentes, y si lo son en qué grado y en qué línea; y
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1982)</small>
+
+VII.- Los nombres, apellidos, edad y domicilio de los testigos, y
 
 VIII.- Que se satisficieron los trámites señalados al respecto por la ley.
 
@@ -3179,7 +3237,9 @@ En todo caso los contrayentes imprimirán al margen del acta, su correspondiente
 
 El acta de divorcio administrativo expresará:
 
-I.- Nombre, apellidos, edad, ocupación y domicilio de los solicitantes;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1982)</small>
+
+I.- Nombre, apellidos, edad y domicilio de los solicitantes;
 
 II.- Fecha y lugar de la oficina en que celebraron su matrimonio;
 
@@ -3191,7 +3251,9 @@ V.- Manifestación terminante y explícita de su voluntad de divorciarse;
 
 VI.- Ratificación de la manifestación anterior;
 
-VII.- Nombres, apellidos, edad, estado civil, ocupación de los testigos, declaración de si son o no parientes de los divorciantes y si lo son en que grado y línea;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1982)</small>
+
+VII.- Nombre, apellidos, edad y nacionalidad de los testigos;
 
 VIII.- Declaración de la disolución del vínculo matrimonial.
 
@@ -3201,11 +3263,15 @@ VIII.- Declaración de la disolución del vínculo matrimonial.
 
 En el acta de fallecimiento, que será firmada por dos testigos, de preferencia si son parientes del finado, se expresará:
 
-I.- El nombre, apellidos, edad, ocupación y domicilio que tuvo el difunto;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1982)</small>
+
+I.- El nombre, apellidos, edad y domicilio que tuvo el difunto;
 
 II.- El estado civil de éste, y, si era casado o viudo, el nombre y apellido de su cónyuge;
 
-III.- Los nombres, apellidos, edad, ocupación y domicilio de los testigos, y si fueren parientes del difunto, el grado en que lo hayan sido;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1982)</small>
+
+III.- Los nombres, apellidos, edad y nacionalidad de los testigos, si fueren parientes del difunto, el grado en que lo hayan sido;
 
 IV.- Los nombres de los padres del difunto si se supieren;
 
@@ -3235,9 +3301,11 @@ En los casos de inundación, naufragio, incendio o cualquier otro siniestro en q
 
 Si no parece (sic) el cadáver, pero hay certeza de que alguna persona ha sucumbido en determinado desastre, el acta contendrá el nombre de las personas que hayan conocido a la que no parece (sic) y las demás noticias que sobre el suceso puedan adquirirse.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
+
 ###### Artículo 648.
 
-En el caso de muerte en el mar, a bordo de una embarcación nacional, el acta de defunción que conforme a la ley levante el capitán o patrón del barco y entregue al oficial del Registro Civil del puerto quintanarroense al que arribe, será transcrita por éste en el acta que a su vez levante en el libro de defunciones y, hecho esto, se archivará en la forma que corresponda.
+En el caso de muerte en el mar, a bordo de una embarcación nacional, el acta de defunción que conforme a la Ley levante el capitán o patrón del barco y entregue al Oficial del Registro Civil del puerto quintanarroense al que arribe, será transcrita por éste en el acta que a su vez levante, y, hecho esto, se archivará en la forma que corresponda.
 
 ###### Artículo 649.
 
@@ -5007,9 +5075,11 @@ Si con el niño se hubieren encontrado papeles, alhajas u otros objetos, se depo
 
 El nacimiento que se verificare durante un viaje, podrá registrarse en el lugar en que ocurra o en el domicilio de los padres, según las reglas antes establecidas; en el primer caso, se remitirá copia del acta al Oficial, Delegado o Subdelegado del Registro Civil del domicilio de los padres, si éstos lo pidieren, y en el segundo se tendrá para hacer el registro el término que señala el artículo 962 con un día más por cada veinte kilómetros de distancia o fracción menor de ese número.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1982)</small>
+
 ###### Artículo 980.
 
-Si al dar aviso del nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas: una de nacimiento y otra de fallecimiento, en los libros respectivos.
+Si al dar aviso del nacimiento se comunicara también la muerte del recién nacido, se extenderán dos actas: una de nacimiento y otra de fallecimiento.
 
 ###### Artículo 981.
 
@@ -7089,7 +7159,7 @@ Si el bien legado estuviere sujeto a usufructo, uso habitación o servidumbre, e
 
 ###### Artículo 1405.
 
-Mediante la substitución vulgar puede el testador designar a una o más personas para subtituir al heredero o herederos instituidos, para el caso de que éstos mueran antes que él, o de que no puedan o no quieran aceptar la herencia.
+Mediante la substitución vulgar puede el testador designar a una o más personas para substituir al heredero o herederos instituidos, para el caso de que éstos mueran antes que él, o de que no puedan o no quieran aceptar la herencia.
 
 ###### Artículo 1406.
 
@@ -7337,7 +7407,7 @@ Si el testador no puede o no sabe leer dictará en su idioma el testamento a uno
 
 ###### Artículo 1450.
 
-Las formalidades se practicarán acto contínuo y el notario dará fe de haberse llenado todas.
+Las formalidades se practicarán acto continuo y el notario dará fe de haberse llenado todas.
 
 ###### Artículo 1451.
 
@@ -10415,7 +10485,7 @@ El usufructuario tiene derecho de ejercitar todas las acciones y excepciones rea
 
 ###### Artículo 2074.
 
-El usufructuario tiene derecho de percibir todos los frutos naturales, industriales y civiles de los bienes usufractuados.
+El usufructuario tiene derecho de percibir todos los frutos naturales, industriales y civiles de los bienes usufructuados.
 
 ###### Artículo 2075.
 
@@ -16606,3 +16676,15 @@ El Secretario de Gobierno
 LIC. JOSE IRABIEN MEDINA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 31 DE ENERO DE 1982.
+
+###### ARTICULO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrar (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Estado Libre y Soberano de Quintana Roo.
