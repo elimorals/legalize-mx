@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "1991-01-21"
+last_updated: "1991-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 1991.
 
 Ley Publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -207,13 +207,17 @@ Se entiende por solares urbanos con construcciones ruinosas y solares sin constr
 
 Asimismo, se equipara a los solares sin construcción:
 
-I.- Los que teniéndolas sean inhabitables por abandono o ruina;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 1991)</small>
+
+I.- Los que teniéndola sea inhabitable por abandono o ruina;
 
 II.- Los que estando ubicados dentro del área urbana, tengan construcciones permanentes en un área inferior al 25% de la superficie total del predio y que, al practicar avalúo de las edificaciones, resultan con valor inferior al 50% del valor del terreno.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 17.
 
-Son sujetos de este impuesto, los propietarios o poseedores o en su caso los promitentes o compradores de solares urbanos que cuenten con servicio de agua potable y drenaje, ubicados en poblaciones con más de 5,000 habitantes, en los que no exista o se haya edificado construcción.
+Son sujetos de este impuesto, los propietarios o poseedores o en su caso los promitentes o compradores de solares urbanos que cuenten con servicio de agua potable y drenaje, ubicados en poblaciones con más de 5,000 habitantes, en los que no exista construcción o que existiendo se encuentre en el supuesto de la fracción II del artículo anterior.
 
 ###### ARTICULO 18.
 
@@ -245,21 +249,93 @@ B) Zonas Pavimentadas con Asfalto o Empedradas. 0.08 0.07 0.05
 
 C) Otras Zonas. 0.07 0.05 0.04
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1991)</small>
+
 2.- Solares sin Construcción (% Sobre el Valor Catastral del Inmueble por Año).
 
-2.1. Con superficie hasta de 350 M2 0.05 0.04 0.03
+GRUPO 1
 
-2.2. Con superficie de 350 a 1,000 M2 1.00 0.75 0.50
+Hasta el Límite S/ el excedente
 
-2.3. Con superficie de más de 1,000 a 3,000 M2 2.00 1.50 1.00
+Inferior del límite inferior
 
-2.4. Con superficie de más de 3,000 a 5,000 M2 3.00 2.50 2.00
+2.1. Con superficie hasta de 350 metros
 
-2.5. Con superficie de más de 5,000 M2 4.00 3.50 3.00
+cuadrados. 0.05 -
+
+2.2. Con superficie de 350 a 1,000
+
+metros cuadrados. 0.500 1.000
+
+2.3. Con superficie de más de 1,000 a
+
+3,000 metros cuadrados. 0.825 2.000
+
+2.4. Con superficie de más de 3,000 a
+
+5,000 metros cuadrados 1.608 3.000
+
+2.5. Con superficie de más de 5,000 metros
+
+cuadrados 2.165 4.000
+
+GRUPO 2
+
+Hasta el Límite S/ el excedente
+
+Inferior del límite inferior
+
+2.1. Con superficie hasta de 350 metros
+
+cuadrados. 0.04 -
+
+2.2. Con superficie de 350 a 1,000
+
+metros cuadrados. 0.400 0.750
+
+2.3. Con superficie de más de 1,000 a
+
+3,000 metros cuadrados 0.628 1.500
+
+2.4. Con superficie de más de 3,000 a
+
+5,000 metros cuadrados 1.209 2.500
+
+2.5. Con superficie de más de 5,000 metros
+
+cuadrados 1.726 3.500
+
+GRUPO 3
+
+Hasta el Límite S/ el excedente
+
+Inferior del límite inferior
+
+2.1. Con superficie hasta de 350 metros
+
+cuadrados. 0.03 -
+
+2.2. Con superficie de 350 a 1,000
+
+metros cuadrados. 0.300 0.500
+
+2.3. Con superficie de más de 1,000 a
+
+3,000 metros cuadrados 0.430 1.000
+
+2.4. Con superficie de más de 3,000 a
+
+5,000 metros cuadrados 0.810 2.000
+
+2.5. Con superficie de más de 5,000 metros
+
+cuadrados 1.286 3.000
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO 19.
 
-Los causantes de este impuesto una vez notificados, están obligados a hacer oportunamente el pago del impuesto a su cargo en la Oficina Recaudadora que corresponda dentro de los 20 días posteriores a la comunicación.
+El pago de este impuesto se hará trimestralmente y se efectuará por trimestre vencido durante los primeros veinte días, los meses de Abril, Julio, Octubre y Enero de cada año.
 
 ###### ARTICULO 20.
 
@@ -863,7 +939,9 @@ c). Cuando la posesión derive de Contrato de Compra-Venta con Reserva de Domini
 
 d). Cuando por cualquier causa tenga la posesión, uso o goce de predios del dominio de la Federación, Estados y Municipios.
 
-e). Cuando el poseedor haya edificado en terreno del que no es propietario tendrá responsabilidad directa del pago del impuesto que gravita sobre la construcción y solidaria al pago del impuesto que corresponda al terreno, por su parte, el propietario del terreno tendrá responsabilidad directa al pago del impuesto que corresponda por el terreno y solidaria por lo que respecta al que recae sobre la construcción.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1991)</small>
+
+e). Cuando el poseedor haya edificado en terreno del que no es propietario tendrá responsabilidad directa del pago del impuesto que gravita sobre la construcción y solidaria al pago del impuesto que corresponda al terreno.
 
 III.- El titular de los Derechos Agrarios sobre la propiedad ejidal o comunal de conformidad con la Ley Federal de la Reforma Agraria.
 
@@ -1005,9 +1083,11 @@ Están exentos del pago de este impuesto, los bienes inmuebles del dominio públ
 
 Para los fines fiscales de este impuesto, el valor de los inmuebles a que se refiere el Artículo 51 de esta Ley, determinado con base en Tablas de Valores Catastrales, surtirá todos sus efectos con la simple publicación de dichas tablas en el Periódico Oficial del Estado, sin que sea necesaria la notificación personal de los avalúos correspondientes de que habla la Ley de Catastro del Estado.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 56.
 
-La interposición de cualquier medio legal de defensa, en contra de los avalúos catastrales de los bienes objeto de este impuesto no interrumpirá la continuación de los trámites siguientes de cobro del impuesto conforme al nuevo avalúo, salvo que el causante al producir el requerimiento de pago asegure el interés fiscal de conformidad con lo previsto por la Ley de Hacienda Municipal.
+La interposición de cualquier medio legal de defensa, en contra de los avalúos catastrales de los bienes objeto de este impuesto no interrumpirá la continuación de los trámites siguientes de cobro del impuesto conforme al nuevo avalúo, salvo que el causante al producir el requerimiento de pago asegure el interés fiscal de conformidad con lo previsto por el Código Fiscal Municipal.
 
 ###### ARTICULO 57.
 
@@ -1025,11 +1105,17 @@ I.- Adquisiciones de Inmuebles por Causa de Muerte.
 
 Además del pago de una cuota fija de 25 días de salario mínimo general, se deducirá a la base gravable que establece el Artículo 61 de esta Ley, 15 veces el salario mínimo general elevado al año, de la zona económica del Municipio de que se trate, aplicándose una tasa del 5% sobre el 80% del valor que resulta de la deducción mencionada, excepto cuando se trate de adquisición de vivienda en cuyo caso dicha tasa se aplicará sobre el 70% del valor que resulte después de hacer la misma deducción.
 
-Cuando el bien sea adquirido por herencias o legados por el cónyuge supérstite o por ascendientes o descendientes en línea recta o bien por donación entre cónyuges o parientes dentro del mismo grado, se causará únicamente la cuota fija a que se refiere el párrafo anterior.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1991)</small>
+
+Cuando el bien sea adquirido por herencia o legados, por el cónyuge supérstite o por ascendientes o descendientes en línea recta, se causará únicamente la cuota fija a que se refiere el párrafo anterior.
 
 II.- En los demás Casos de Adquisición.
 
 Además del pago de una cuota fija equivalente a diez días de salario mínimo general, se deducirá a la base gravable ya citada, 7 veces el salario mínimo general elevado al año de la zona económica del Municipio de que se trate aplicándose una tasa del 10% sobre el 80% del valor que resulta de la deducción mencionada, excepto cuando se trate de adquisición de vivienda en cuyo caso dicha tasa se aplicará sobre el 70% del valor que resulte de hacer la misma deducción.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 1991)</small>
+
+Cuando el bien sea adquirido por donación entre cónyuges o parientes ascendientes o descendientes, se causará únicamente la cuota fija a que se refiere el primer párrafo de la fracción anterior.
 
 ### CAPITULO IX. ADQUISICION DE INMUEBLES
 
@@ -1059,19 +1145,21 @@ VII.- La cesión de derechos del heredero, legatario o copropietario en la parte
 
 Se entenderá como cesión de derechos la denuncia de la herencia o legado efectuada después de la declaratoria de herederos o legatarios.
 
-VIII.- Enajenación a través de fideicomiso o de cesión de derechos de fideicomiso, en los términos del Código Fiscal Municipal.
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 1991)</small>
+
+VIII.- Enajenación a través de fideicomiso o de cesión de derechos de fideicomiso, en los términos del Código Fiscal de la Federación.
 
 IX.- La división de la copropiedad y la disolución de la sociedad conyugal por la parte que se adquiera en demasía del porciento que le corresponda al copropietario o cónyuge; y,
 
 X.- La celebración de contratos de arrendamiento financiero o la cesión de derechos del arrendatario financiero.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1991)</small>
+
 ### CAPITULO X. IMPUESTO DE PLUSVALIA PARA EL DESARROLLO DE CENTROS POBLADOS
 
 ###### ARTICULO 61.
 
-La base gravable de este impuesto será el valor que resulte del avalúo bancario o comercial realizado por peritos autorizados por el Ayuntamiento, o por perito reconocido por la Comisión Nacional Bancaria o de Seguros, o por perito miembro del Instituto Mexicano de Valuación de Sinaloa, A.C. o por corredor público o por la Dirección de Catastro. Aquellos avalúos que no sean realizados por la Dirección de Catastro podrán ser no aprobados para efectos del pago de este impuesto cuando sean menores en más del 10% al valor comercial actualizado.
-
-Cuando con motivo de la adquisición el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
+La base gravable de este impuesto será el valor que resulte del avalúo bancario o comercial realizado por peritos autorizados por el Ayuntamiento, o por perito reconocido por la Comisión Nacional Bancaria o de Seguros, o por perito miembro del Instituto Mexicano de Valuación de Sinaloa, A.C. o por corredor público o por la Dirección de Catastro. Aquellos avalúos que no sean realizados por la Dirección de Catastro podrán ser rechazados para efectos del pago de este impuesto cuando sean menores en más del 10% al valor actualizado.
 
 ###### ARTICULO 62.
 
@@ -1091,6 +1179,8 @@ De la suma de los precios o valores de los predios únicamente se tendrá derech
 
 III.- Cuando se adquiera pro-indiviso la propiedad o los derechos de un inmueble, la deducción se hará en la proporción que corresponda a cada parte alícuota.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 63.
 
 El avalúo a que se refiere el primer párrafo del Artículo 61, deberá ser practicado considerando los valores reales actuales.
@@ -1099,9 +1189,7 @@ Dichos avalúos servirán de base para los efectos fiscales durante seis meses c
 
 En aquellos casos en que después de practicado el avalúo se lleven a cabo construcciones, instalaciones o mejoras permanentes al bien de que se trate, deberá practicarse nuevo avalúo aún cuando no haya transcurrido el plazo a que se refiere el párrafo anterior.
 
-La Dirección de Catastro como Oficina Técnica deberá revisar y aprobar los avalúos comerciales practicados, los que podrán ser rechazados en caso de que sean menores en más del 10% del valor comercial del terreno, así mismo a los valores unitarios comerciales de construcción, que se encuentren vigentes en la fecha de adquisición. Dicha revisión se efectuará como un requisito previo al pago del impuesto.
-
-La Dirección de Catastro también estará facultada para practicar u ordenar el avalúo comercial del inmueble referido a la fecha de adquisición. Cuando el valor que resulte de dicho avalúo exceda a los valores señalados en el primer párrafo del Artículo 61 de esta Ley, dicho valor servirá de base para el pago definitivo del impuesto.
+La Dirección de Catastro como Oficina Técnica deberá revisar y aprobar los avalúos comerciales practicados, los que podrán ser rechazados en caso de que sean menores en más del 10% del valor comercial del terreno, así mismo a los valores unitarios comerciales de construcción, que se encuentren vigentes en la fecha de adquisición. Dicha revisión se efectuará como un requisito previo al pago del impuesto, debiendo producir un dictamen el cual deberá ser emitido dentro del término de las siguientes 72 horas a su solicitud.
 
 ### CAPITULO I. OBRAS PUBLICAS
 
@@ -1113,7 +1201,9 @@ I.- La adjudicación de los bienes de la sucesión así como al cederse los dere
 
 En este caso, el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento en que se realice la cesión o la enajenación, independientemente del que se cause por el cesionario o por el adquirente.
 
-II.- Tratándose de adquisiciones efectuadas a través de fideicomiso, cuando se realicen los supuestos de enajenación o de cesión de derechos, en los términos del Código Fiscal Municipal.
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 1991)</small>
+
+II.- Tratándose de adquisiciones efectuadas a través de fideicomiso, cuando se realicen los supuestos de enajenación o de cesión de derechos, en los términos del Código Fiscal de la Federación.
 
 III.- Al protocolizarse o inscribirse la resolución, de la autoridad judicial o administrativa, en los casos de prescripción positiva, o adjudicación por remate.
 
@@ -1121,9 +1211,11 @@ IV.- Tratándose de contratos de Compra-Venta con Reserva de Dominio o de Promes
 
 V.- En los casos no previstos en las fracciones anteriores el plazo correrá a partir de la fecha de celebración del acto que cause el impuesto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 65.
 
-En las adquisiciones que se hagan constar en escritura pública, los fedatarios que por disposición tengan funciones notariales, calcularán el impuesto del que serán responsables solidarios y lo enterarán mediante declaraciones ante la Oficina Recaudadora que corresponda, esta declaración deberá presentarse aún en el caso de que no haya impuesto a enterar, ya sea porque la base resulte inferior a la deducción que autoriza la Ley, o porque el acto o contrato se encuentre exento de pago. Dicha declaración será firmada por el Notario y se presentará acompañada, de tres copias de la escritura y del avalúo comercial respectivo, acompañando los siguientes datos:
+En las adquisiciones que se hagan constar en Escritura Pública, los fedatarios que por disposición tengan funciones notariales, calcularán el impuesto del que serán responsables solidarios y lo enterarán mediante declaraciones ante la Oficina Recaudadora que corresponda. Esta declaración deberá presentarse aún en el caso de que sólo haya a enterar la cuota fija a que se refieren las Fracciones I y II del Artículo 58 de esta Ley, ya sea porque sólo ésta es la que se causa o bien porque la base resulte inferior a la deducción que autoriza la Ley, así como también cuando el acto o contrato se encuentre en los supuestos del Artículo 59 de este Ordenamiento. Dicha declaración será firmada por el Notario y se presentará acompañada de tres copias de la escritura y del avalúo comercial respectivo, acompañando los siguientes datos:
 
 I.- Número y fecha de la escritura;
 
@@ -1137,7 +1229,9 @@ V.- Valor gravable;
 
 VI.- La liquidación del impuesto.
 
-Previamente al pago de este impuesto, el adquirente y/o el Fedatario ante quien se haga constar el acto jurídico, deberá comprobar que el inmueble materia de la operación se encuentra al corriente en el pago de impuestos municipales, mediante la presentación del certificado de solvencia fiscal expedido por la Oficina Recaudadora correspondiente, el Notario dará fé de haber tenido a la vista dicho recibo y cuyo texto deberá transcribirse en la escritura correspondiente.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1991)</small>
+
+Previamente al pago de este impuesto, el adquirente y/o el fedatario ante quien se haga constar el acto jurídico, deberá comprobar que el inmueble materia de la operación se encuentra al corriente en el pago de impuestos municipales, mediante la presentación del o los últimos recibos oficiales expedidos por la Oficina Recaudadora correspondiente o en su caso el certificado de solvencia fiscal que así lo acredite, el Notario dará fé de haber tenido a la vista dicho documento, cuya copia deberá anexarse a la Escritura.
 
 Los fedatarios no estarán obligados a enterar el impuesto cuando consignen en escrituras públicas operaciones por las que ya se hubiera pagado el impuesto y acompañen a su declaración copia de aquella con la que se efectuó dicho pago.
 
@@ -1149,11 +1243,15 @@ El traspaso o la cesión de derechos derivados de contratos de los señalados en
 
 El enajenante y los demás contratantes responderán solidariamente del impuesto que deba pagar el adquirente.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 66.
 
-Los Notarios no podrán autorizar definitivamente ninguna escritura en la que hagan constar actos o contratos traslativos de bienes inmuebles, mientras no se hubieren pagado los impuestos y derechos a que estuvieren afectos los mismos y que establece esta Ley, para lo cual deberá recabar el correspondiente certificado de solvencia fiscal.
+Los Notarios no podrán autorizar definitivamente ninguna escritura en la que hagan constar actos o contratos traslativos de bienes inmuebles, mientras no se hubieren pagado los impuestos y derechos a que estuvieren afectos los mismos y que establece esta Ley.
 
 Los Ayuntamientos por conducto de sus Tesorerías Municipales quedan facultados para inspeccionar o revisar los libros, protocolos y contabilidad de los contribuyentes, retenedores y fedatarios, a efecto de comprobar el pago del impuesto que establece este capítulo.
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1991)</small>
 
 ### CAPITULO II. POR LA PRESTACION DE SERVICIOS SANITARIOS PARA EL CONTROL DE ENFERMEDADES TRANSMISIBLES
 
@@ -1161,7 +1259,7 @@ Los Ayuntamientos por conducto de sus Tesorerías Municipales quedan facultados 
 
 ###### ARTICULO 67.
 
-El Registro Público de la Propiedad no inscribirá ningún acto, contrato o documento traslativo de dominio de bienes inmuebles mientras no le sea exhibido el comprobante de pago del impuesto que establece este capítulo, o de que no se causó el impuesto porque la base gravable es inferior a la deducción prevista en el Artículo 62 de esta Ley, o bien porque dicha adquisición se encuentra en alguno de los casos previstos por el Artículo 59.
+El Registro Público de la Propiedad no inscribirá ningún acto, contrato o documento traslativo de dominio de bienes inmuebles mientras no le sea exhibido el comprobante de pago del impuesto que establece este Capítulo, o de que no se causó el impuesto porque dicha operación se encuentra en alguno de los supuestos que establece el Artículo 59 de esta Ley.
 
 ###### ARTICULO 68.
 
@@ -1177,6 +1275,8 @@ Es objeto de este derecho, la prestación de los servicios de supervisión de fr
 
 Son sujetos de este derecho, las personas físicas o morales a título de poseedores o propietarios que soliciten del Ayuntamiento cualesquiera de los servicios señalados en el artículo anterior.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 71.
 
 Por los servicios prestados por las Autoridades de Obras Públicas, se causarán y pagarán derecho de acuerdo con el porcentaje del costo total de la obra o el número de veces el salario mínimo diario de la zona según lo establece la siguiente:
@@ -1189,15 +1289,17 @@ CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
 
 URBANOS (% SOBRE EL COSTO TOTAL DE
 
-LA OBRA URBANIZADA). 1% 1% 1%
+LAS OBRAS DE URBANIZACION). 1% 1% 1%
 
 2.- ALINEAMIENTO DE CALLES.
+
+(NUMERO DE VECES EL SALARIO MINIMO DIARIO DE LA ZONA)
 
 2.1. En poblaciones con más de 5,000
 
 habitantes, cuando el alineamiento no exceda
 
-de 10 metros lineales. 1.50 1.50 1.00
+de 10 metros lineales. 1.50 1.50 1.50
 
 2.2. Cuando el alineamiento exceda de 10 metros
 
@@ -1207,17 +1309,19 @@ lineales, adicional por metro lineal. 0.15 0.14 0.12
 
 3.- ASIGNACION DE NUMERO OFICIAL
 
-POR CADA DIGITO. 0.25 0.25 0.25
+POR CADA DIGITO. (NUMERO DE VECES EL
 
-4.- PERITAJE, (POR METRO CUADRADO O
+SALARIO MINIMO DIARIO DE LA
 
-FRACCION).
+ZONA). 0.25 0.25 0.25
+
+4.- PERITAJE, (NUMERO DE VECES EL SALARIO MINIMO DIARIO DE LA ZONA, POR METRO CUADRADO O FRACCION).
 
 4.1. Terreno. 0.02 0.02 0.01
 
 4.2. De construcción. 0.02 0.02 0.02
 
-5.- POR DESLINDES, MEDIDAS DE SOLARES BALDIOS Y DE LOS QUE RESULTEN DE EXCEDENCIAS O DEMASIAS POR METRO CUADRADO.
+5.- POR DESLINDES, MEDIDAS DE SOLARES BALDIOS Y DE LOS QUE RESULTEN DE EXCEDENCIAS O DEMASIAS. (NUMERO DE VECES EL SALARIO MINIMO DIARIO DE LA ZONA, POR METRO CUADRADO O FRACCION).
 
 5.1. En poblaciones con más de 5,000
 
@@ -1227,17 +1331,17 @@ habitantes. 0.006 0.005 0.004
 
 6.- EXPEDICION DE LICENCIAS PARA CONSTRUCCION, RECONSTRUCCION O DEMOLICION DE EDIFICIOS.
 
-6.1. Construcción.
+6.1. Construcción:
 
-a) Construcciones con valor hasta de 1000
+a) Construcciones con valor hasta de 1,000
 
-veces el salario mínimo diario
+veces el salario mínimo diario de la
 
-de la zona. EXENTOS EXENTOS EXENTOS
+zona. EXENTOS EXENTOS EXENTOS
 
 b) Expedición de licencias para construcción
 
-con valor de más de 1000 veces el salario
+con valor de más de 1,000 veces el salario
 
 mínimo diario de la zona (porcentaje sobre
 
@@ -1245,7 +1349,7 @@ el equivalente en valor). 1% 1% 1%
 
 c) Prórroga de licencia (porcentaje adicional
 
-s/costo de licencia). 15% 15% 15%
+sobre costo de licencia). 15% 15% 15%
 
 6.2. Reconstrucción o ampliación de fincas, (porcentaje sobre el valor de reconstrucción o ampliación).
 
@@ -1259,11 +1363,11 @@ b) Reconstrucción o ampliación con valor mayor
 
 de 119 veces el Salario Mínimo Diario de la
 
-Zona. (Porcentaje sobre el equivalente en
+Zona. (Porcentaje sobre el valor equivalente en
 
 valor de la obra). 1% 1% 1%
 
-6.3. Demolición por plantas (número de Salarios Mínimos por metro cuadrado).
+6.3. Demolición por plantas (Número de Salarios Mínimos por metro cuadrado).
 
 a) Cabecera Municipal y poblaciones de
 
@@ -1281,9 +1385,9 @@ veces el Salario Mínimo Diario de la Zona
 
 por metro lineal). 0.04 0.04 0.04
 
-7.- Apertura de Cepas en la Vía Pública debiendo pagar el interesado el Costo de Reposición (número de veces el Salario Mínimo Diario por Metro Lineal o Fracción).
+7.- APERTURA DE CEPAS EN LA VIA PUBLICA DEBIENDO PAGAR EL INTERESADO EL COSTO DE REPOSICION (NUMERO DE VECES EL SALARIO MINIMO DIARIO POR METRO LINEAL O FRACCION).
 
-7.1. En concreto. 1.00 0.77 0.66
+7.1. En concreto. 1.0 0.77 0.66
 
 7.2. En adoquín. 0.77 0.66 0.60
 
@@ -1293,57 +1397,11 @@ por metro lineal). 0.04 0.04 0.04
 
 7.5. Otros. 0.18 0.14 0.11
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
-
-8.- La obstrucción temporal de la vía pública con escombros, materiales, equipo de construcción zanjas u otros obstáculos, dará lugar al pago de un Derecho equivalente al número de veces el salario mínimo diario de la zona, por día y por metro cuadrado según su ubicación, conforme a la siguiente:
-
-CONCEPTO GRUPO 1 GRUPO 2 GRUPO 3
-
-1. Cabecera Municipal y poblaciones con
-
-más de 50,000 habitantes.
-
-1.1. Zonas pavimentadas con concreto
-
-hidráulico. 0.21 0.12 0.10
-
-1.2. Zonas pavimentadas con asfalto
-
-o empedradas. 0.14 0.11 0.08
-
-1.3. Zonas turísticas. 0.24 0.18 0.14
-
-1.4. Otras zonas. 0.10 0.07 0.05
-
-2. Poblaciones de 20,000 a 50,000 habitantes.
-
-2.1. Zonas pavimentadas con concreto
-
-hidráulico. 0.14 0.12 0.10
-
-2.2. Zonas pavimentadas con asfalto
-
-o empedradas. 0.10 0.07 0.05
-
-2.3. Otras zonas. 0.07 0.04 0.02
-
-3. Poblaciones con menos de 20,000 habitantes.
-
-3.1. Zonas pavimentadas con concreto
-
-hidráulico. 0.10 0.08 0.06
-
-3.2. Zonas pavimentadas con asfalto o
-
-empedradas. 0.07 0.06 0.05
-
-3.3 Otras zonas. 0.05 0.04 0.02
-
 El pago de los derechos a cargo de los urbanizadores contenido en el punto número 1 de la presente tarifa se deberá enterar a la Tesorería Municipal antes de dar principio a las obras, en caso de autorización para realizar las obras por etapas, el pago se hará proporcionalmente a la inversión correspondiente de cada etapa.
 
-El valor de la construcción se determinará en base a las Tablas del Instituto Mexicano de Valuación de Sinaloa, actualizados en los meses de enero, mayo y septiembre de cada año.
+El valor del costo total de la obra a que se refiere el primer párrafo de este artículo se determinará en base a las tablas del Instituto Mexicano de Valuaciones de Sinaloa, actualizándose en los meses de enero, mayo y septiembre de cada año.
 
-El porcentaje a que se refiere el inciso C) del punto 6.1. de la presente tarifa, se aplicará sobre el costo del Derecho de Licencias originales cuando ésta no tenga más de 3 años de antiguedad (sic), de otra manera se cobrará dicho porcentaje sobre el costo de los derechos actuales.
+El porcentaje a que se refiere el inciso c) del punto 6.1. de la presente tarifa, se aplicará sobre el costo del Derecho de Licencias originales cuando ésta no tenga más de 3 años de antigüedad, de otra manera se cobrará dicho porcentaje sobre el costo de los derechos actuales.
 
 > <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
@@ -1363,21 +1421,25 @@ II.- Entregar anualmente a la Tesorería Municipal, dentro de los cuatro meses s
 
 III.- Una vez concluídos los trabajos de urbanización, formular una liquidación de la inversión efectuada, para determinar los saldos que hayan resultado a favor de la Tesorería o del Contribuyente.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 73.
 
 Las personas físicas o morales, incurrirán en infracciones a esta Ley:
 
 I.- Por hacer edificaciones, reconstrucciones, demoliciones de edificios sin licencia correspondiente.
 
-II.- Por ejecutar obras en forma distinta a la autorizada en los planos.
+II.- Por ejecutar mayor cantidad de obra en volúmen o costo a la autorizada en los planos.
 
 III.- Por cualquier otra violación de los Reglamentos Municipales de Construcción.
 
 IV.- La falta de cumplimiento de las disposiciones contenidas en este capítulo, se sancionarán de acuerdo a lo estipulado en el Código Fiscal Municipal.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 74.
 
-La Dirección de Obras y Servicios Públicos Municipales, elaborará el acta o actas donde se asiente la infracción o infracciones incurridas turnando al día siguiente hábil a la Tesorería Municipal la primera copia para su cuantificación, para cuyo cobro se atenderá lo previsto en el Código Fiscal Municipal.
+La Dirección de Obras y Servicios Públicos Municipales, elaborará el acta o actas donde se asiente la infracción o infracciones incurridos turnando al día siguiente hábil a la Tesorería Municipal la primera copia para su calificación, para cuyo cobro se atenderá lo previsto en el Código Fiscal Municipal.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 12 DE OCTUBRE DE 1990)</small>
 
@@ -1893,6 +1955,8 @@ El Presidente Municipal podrá autorizar el sacrificio de semovientes en poblado
 
 ### CAPITULO V. GASTOS DE NOTIFICACION, EJECUCION E INSPECCION FISCAL
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO 107.
 
 Los contribuyentes de este derecho deberán inscribirse en la Tesorería Municipal a más tardar el 31 de enero de cada año, o en las fechas que inicien las actividades, debiendo pagar por su registro la siguiente:
@@ -2315,6 +2379,24 @@ Por concepto de indemnización al Fisco Municipal, ingresarán recargos por la f
 
 Se dará entrada a la Tesorería Municipal de todas las cantidades que se generen con motivo de los trámites a que dé lugar el cobro de los impuestos.
 
+Los gastos de ejecución comprenderán:
+
+a).- Los honorarios de los ejecutores, de los depositarios y de los peritos.
+
+b).- Los demás gastos extraordinarios que efectúen las oficinas ejecutoras con motivo del Procedimiento Administrativo de Ejecución tales como: Transporte del personal ejecutor; de los bienes embargados, impresión y publicación de convocatorias, inscripción en el Registro Público de la Propiedad.
+
+Los honorarios de ejecución a que se refiere el inciso a) de este Artículo, se causarán en los siguientes términos:
+
+GRUPO 1 GRUPO 2 GRUPO 3
+
+Sobre el importe total del crédito por
+
+(cada diligencia). 2% 1.5% 1%
+
+En ningún caso podrá ser, en total, ni menor del importe de un día de salario mínimo, ni mayor del monto de cinco días de salario mínimo general vigente en la zona.
+
+Los gastos a que se refiere el inciso b) de este Artículo, se causarán conforme a la erogación real que realice el Municipio dentro del Procedimiento Administrativo de Ejecución.
+
 ###### ARTICULO 140.
 
 Ingresarán al Erario Municipal como otros aprovechamientos diversas donaciones ya sea para ayudarlo en sus gastos generales o en algunos de ellos. Al recibirse las donaciones el Tesorero Municipal dará cuenta al H. Ayuntamiento expresando el nombre de la persona que haya hecho el donativo y objeto a que se debe destinar.
@@ -2371,9 +2453,11 @@ TRANSITORIOS:
 
 La presente Ley entrará en vigor en los Municipios a que se refiere el Artículo Segundo Transitorio de esta Ley, al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO SEGUNDO.
 
-Se deroga en los Municipios de Ahome, El Fuerte, Choix, Guasave, Sinaloa, Mocorito, Angostura, Salvador Alvarado, Badiraguato, Culiacán, Navolato, Cosalá, Elota, San Ignacio, Concordia, El Rosario y Escuinapa, la Ley de Hacienda Municipal contenida en el Decreto número 87, publicada en el Periódico Oficial "El Estado de Sinaloa" número 157 de fecha 31 de Diciembre de 1966.
+Se deroga en los Municipios de Ahome, El Fuerte, Choix, Guasave, Sinaloa, Mocorito, Angostura, Salvador Alvarado, Badiraguato, Culiacán, Navolato, Cosalá, Elota, San Ignacio, Mazatlán, Concordia, Rosario y Escuinapa, la Ley de Hacienda Municipal contenida en el Decreto número 87, publicada en el Periódico Oficial "El Estado de Sinaloa" número 157 de fecha 31 de Diciembre de 1966.
 
 ###### ARTICULO TERCERO.
 
@@ -2411,29 +2495,63 @@ La aplicación de las sanciones administrativas que procedan, se hará sin perju
 
 Los funcionarios o empleados públicos ante quienes con motivo de sus funciones, se exhiba algún libro, objeto o documento que implique el incumplimiento de las Leyes Fiscales, harán la denuncia respectiva a las Autoridades Hacendarias para no incurrir en responsabilidad.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1991)</small>
+
 ###### ARTICULO CUARTO.
 
-Para el ejercicio fiscal de 1990, los contribuyentes obligados al pago del Impuesto Predial sobre Fincas Urbanas, tendrán derecho a reducir del Impuesto que resulte, el procentaje (sic) según la fecha de la revaluación catastral que en determinada población haya entrado en vigor, siempre y cuando el predio de que se trate sea exclusivamente habitado por su propietario, en los términos siguientes:
+Durante 1991 en aquellas poblaciones en que las revaluaciones catastrales hayan entrado o entren en vigor a partir del 1° de Enero de 1990 hasta el 31 de Diciembre de 1991, el Impuesto Predial Urbano se determinará conforme a la tarifa contenida en la Fracción I del Artículo 52 de esta Ley, tomando como base para sus pagos:
 
-POBLACION REVALUADA EN: REDUCCION:
+I.- El 65% del monto que resulte para los inmuebles cuyo valor catastral establecen los incisos a), b), c), d), e), f) y g).
 
-1990 el 50% del impuesto a pagar.
+II.- El 60% para el inciso h); y
 
-1989 el 40% del impuesto a pagar.
+III.- El 50% para el inciso i).
 
-1988 el 35% del impuesto a pagar.
+Al hacer efectivas las reducciones a que se refiere el párrafo que precede en ningún caso el impuesto total a pagar será menor al que resulte mayor de la Fracción que le antecede.
 
-1987 el 25% del impuesto a pagar.
+Además para el ejercicio fiscal de 1991 los contribuyentes obligados al pago del Impuesto Predial sobre fincas urbanas habitadas exclusivamente por su propietario tendrán derecho a reducir del impuesto que resulte, el porcentaje según la fecha de la revaluación catastral que en determinada población haya entrado en vigor, en los términos siguientes:
 
-1986 el 15% del impuesto a pagar.
+POBLACION CUYA REVALUACION
 
-En el caso de que la revaluación entre en vigor en el transcurso del ejercicio fiscal de 1990, la reducción a que se refiere el presente artículo se realizará a partir del momento mismo en que se aplique a los valores de dicha revaluación.
+ENTRO EN VIGOR EN: REDUCCION
 
-Las casas habitación propiedad de pensionados o jubilados con valor hasta de 10,000 veces el salario mínimo diario, pagarán un importe como cuota fija de 3 veces el salario mínimo diario al año, previa comprobación a satisfacción de la Tesorería Municipal en la que corresponda hacer el pago de su calidad de jubilado o pensionado, así como de que es propietario y habita la propiedad objeto de este Artículo.
+1991 EL 50% DEL IMPUESTO A PAGAR.
+
+1990 EL 40% DEL IMPUESTO A PAGAR.
+
+1989 EL 35% DEL IMPUESTO A PAGAR.
+
+1988 EL 25% DEL IMPUESTO A PAGAR.
+
+1987 EL 15% DEL IMPUESTO A PAGAR.
+
+Lo dispuesto por los párrafos primero y segundo de este artículo no es aplicable para los Municipios de Ahome y Mazatlán.
+
+La casa habitación propiedad de pensionados o jubilados o de sus cónyuges con valor hasta de 10,000 veces el salario mínimo general diario, pagarán un importe como cuota fija de 3 veces el salario mínimo general diario al año, previa comprobación a satisfacción de la Tesorería Municipal en la que corresponda hacer el pago de su calidad de jubilado o pensionado, así como de que ellos habitan la propiedad objeto de este Artículo. Cuando la casa habitación tenga un valor superior a 10,000 veces el salario mínimo general diario, el impuesto se causará mediante la aplicación de la siguiente:
+
+TARIFA:
+
+VALOR CATASTRAL DEL CUOTA FIJA TASA AL MILLAR
+
+PREDIO EN Número de Días de Salarios sobre el excedente
+
+veces el Salario Mínimo Mínimos del límite inferior
+
+Diario de la Zona.
+
+a). Hasta 10,000 3 -
+
+b). Más de 10,000 a 15,000 3 4
+
+c). Más de 15,000 a 40,000 48 10
+
+d) Más de 40,000 348 16
+
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1991)</small>
 
 ###### ARTICULO QUINTO.
 
-Durante el ejercicio fiscal de 1990, aquellos contribuyentes que hayan realizado el pago de algún trimestre, o bien el pago total anual del Impuesto Predial, previamente a la entrada en vigor de la presente Ley, no se les cobrarán las diferencias a que se refiere el último párrafo del Artículo 57 de esta Ley, cuando éstas resulten con motivo de la aplicación de la tarifa contenida en la fracción I del Artículo 52, pero procederá la reintegración de diferencias cuando éstas resulten a favor del contribuyente.
+Durante el ejercicio fiscal de 1991, aquellos contribuyentes que hayan realizado el pago de algún trimestre, o bien el pago total anual del Impuesto Predial, previamente a la entrada en vigor de la presente modificación a la Ley, no se les cobrarán las diferencias a que se refiere el último párrafo del Artículo 57, cuando éstas resulten con motivo de la aplicación de la tarifa contenida en la fracción I del Artículo 52, pero procederá la reintegración de diferencias cuando éstas resulten a favor del contribuyente.
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 1991)</small>
 
@@ -2530,3 +2648,7 @@ P.O. 21 DE ENERO DE 1991.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 20 DE FEBRERO DE 1991.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
