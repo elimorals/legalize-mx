@@ -4,7 +4,7 @@ identifier: "COL-ley-de-estimulo-y-fomento-al-deporte-y-la-cultura-fisica-11641"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-19"
-last_updated: "1997-04-19"
+last_updated: "1999-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ESTIMULO Y FOMENTO AL DEPORTE Y LA CULTURA FISICA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 19 de abril de 1997.
 
@@ -67,15 +67,23 @@ c).- RECREACION: La forma de utilización socialmente constructiva del tiempo li
 
 d).- DEPORTE: A la actividad en la cual se valoran intensamente las formas de practicar los ejercicios físicos para que un individuo o un equipo lleguen al perfeccionamiento de sus posibilidades morfofuncionales y psíquicas, concretadas en un record, en la superación de sí mismo o del contrincante.
 
-e).- INCOJUD: Al Instituto Colimense de la Juventud y el Deporte.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1999)</small>
+
+e).- INCODE: Al Instituto Colimense del Deporte.
 
 f).- SISTEMA: Al Sistema Estatal del Deporte y la Cultura Física.
 
 g).- CONSEJO: Al Consejo Estatal del Deporte.
 
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1999)</small>
+
+h).- PROGRAMA: Al Programa Estatal del Deporte.
+
 ### CAPITULO II. DEL SISTEMA ESTATAL DEL DEPORTE Y LA CULTURA FISICA
 
 ### CAPITULO III. DEL CONSEJO ESTATAL DEL DEPORTE
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 3o.
 
@@ -97,9 +105,11 @@ Dentro del sistema educativo estatal, las instituciones públicas y privadas est
 
 Las asociaciones y establecimientos deportivos son responsables de vigilar que sus instructores, entrenadores y técnicos que imparten clases y seminarios cuenten con el documento oficial que acredite su preparación y capacidad para ejercer como tales.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1999)</small>
+
 ###### ARTICULO 8o.
 
-Las instituciones educativas, públicas o privadas que impartan estudios relacionados con la actividad deportiva, en los niveles de licenciatura, postgrado, técnicos, seminarios, diplomados o similares, deberán otorgar becas académicas a participantes designados de común acuerdo con el INCOJUD.
+Las instituciones educativas, públicas o privadas que impartan estudios relacionados con la actividad deportiva, en los niveles de licenciatura, postgrado, técnicos, seminarios, diplomados o similares, deberán otorgar becas académicas a participantes designados de común acuerdo con el INCODE.
 
 ###### ARTICULO 9o.
 
@@ -121,9 +131,11 @@ IV.- Propiciar la participación de los organismos deportivos y de los deportist
 
 (sic) Formular el Programa Estatal del Deporte, y ejecutar las acciones que se deriven del mismo.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1999)</small>
+
 ###### ARTICULO 11.
 
-El SISTEMA dependerá del Ejecutivo del Estado, quien ejercerá sus funciones a través del Instituto Colimense de la Juventud y el Deporte.
+El SISTEMA dependerá del Ejecutivo del Estado, quien ejercerá sus funciones a través del INCODE.
 
 ###### ARTICULO 12.
 
@@ -131,9 +143,11 @@ El Titular del Ejecutivo Estatal tendrá las facultades siguientes:
 
 I.- Coordinar el SISTEMA.
 
-II.- Determinar los espacios que deban destinarse a la creación de áreas deportivas y recreativas públicas.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1999)</small>
 
-III.- Expedir el Reglamento de la presente Ley;
+II.- Determinar conjuntamente con los Ayuntamientos, la promoción y creación de áreas deportivas y recreativas públicas.
+
+III.- Expedir el Reglamento de la presente Ley.
 
 IV.- Designar a propuesta del CONSEJO a los miembros de la Comisión Estatal de Apelación y Arbitraje.
 
@@ -143,7 +157,7 @@ IV.- Las demás que le otorguen otras disposiciones legales y las que se requier
 
 ###### ARTICULO 13.
 
-El CONSEJO es un órgano consultivo cuya función primordial es asesorar a los sectores público, social y privado que fomenten y organicen actividades en materia de cultura física, deporte y recreación así como proponer al INCOJUD, las políticas y acciones que deban implementarse a fin de que un mayor número de colimenses alcancen sus beneficios.
+El CONSEJO es un órgano consultivo cuya función primordial es asesorar a los sectores público, social y privado que fomenten y organicen actividades en materia de cultura física, deporte y recreación así como proponer al INCODE, las políticas y acciones que deban implementarse a fin de que un mayor número de colimenses alcancen sus beneficios.
 
 ###### ARTICULO 14.
 
@@ -151,7 +165,9 @@ El CONSEJO se integrará con:
 
 I.- Un Presidente, que será el Gobernador del Estado.
 
-II.- Un Secretario Técnico, que será el Director del Instituto Colimense de la Juventud y el Deporte.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1999)</small>
+
+II.- Un Secretario Técnico, que será el Director General del INCODE.
 
 III.- Un consejero designado por el H. Congreso del Estado.
 
@@ -163,17 +179,29 @@ b).- Consejo Estatal del Deporte de Educación Media Superior; y
 
 c).- Consejo Nacional del Deporte Estudiantil.
 
-V.- Un Consejero designado por cada Asociación Deportiva Estatal, legalmente constituida y acreditada ante el INCOJUD.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1999)</small>
+
+V.- Un Consejero designado por cada Asociación Deportiva Estatal, legalmente constituida y acreditada ante el INCODE.
 
 VI.- Un Consejero designado por:
 
 a).- Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-b).- Instituto Mexicano del Seguro Social; y
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1999)</small>
 
-c).- Desarrollo Integral de la Familia;
+b).- Instituto Mexicano del Seguro Social;
 
-d).- Instituto Nacional del Deporte de los Trabajadores.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1999)</small>
+
+c).- Sistema para el Desarrollo Integral de la Familia (DIF);
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1999)</small>
+
+d).- Instituto Nacional del Deporte de los Trabajadores; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE NOVIEMBRE DE 1999)</small>
+
+e).- Cada Consejo Municipal.
 
 Por cada consejero propietario se designará un suplente. Las ausencias del Presidente serán suplidas por el Secreterio (sic) Técnico.
 
@@ -223,7 +251,7 @@ V.- Medicina del Deporte.
 
 VI.- Deporte para discapacitados, senectos, autóctonos y tradicionales.
 
-VII.- Atención a la Juventud.
+VII.- (DEROGADA, P.O. 20 DE NOVIEMBRE DE 1999)
 
 VIII.- Instalaciones deportivas.
 
@@ -249,7 +277,9 @@ VI.- Que las asociaciones y organismos deportivos cumplan cabalmente con las dis
 
 VII.- La celebración de convenios entre las distintas entidades públicas, privadas y sociales que de manera directa o indirecta fomenten, practiquen u organicen el deporte.
 
-VIII.- La creación del Centro Estatal de Medicina Deportiva y Ciencias Aplicadas al Deporte, dependiente del INCOJUD.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1999)</small>
+
+VIII.- La creación del Centro Estatal de Medicina Deportiva y Ciencias Aplicadas al Deporte, dependiente del INCODE.
 
 IX.- Los apoyos necesarios a las asociaciones deportivas legalmente constituidas y reconocidas, de acuerdo a las posibilidades presupuestales y a la presentación de su programa anual de actividades.
 
@@ -269,21 +299,7 @@ Las instituciones educativas autónomas, públicas y privadas organizarán sus a
 
 ###### ARTICULO 21.
 
-El PROGRAMA incluirá los apoyos que el INCOJUD otorga a los
-
-jóvenes atraves (sic) de:
-
-a).- Empresas juveniles.
-
-b).- Tarjeta Plan Joven.
-
-c).- Bolsa de trabajo.
-
-d).- Villas y campamentos juveniles.
-
-e).- Prevención de adicciones; y
-
-f).- Organización y participación juvenil.
+(DEROGADO, P.O. 20 DE NOVIEMBRE DE 1999)
 
 ### CAPITULO VI. DE LA PARTICIPACION DE LOS MUNICIPIOS EN EL SISTEMA ESTATAL DEL DEPORTE
 
@@ -339,27 +355,45 @@ Los Consejos Municipales del Deporte estarán integrados por:
 
 I.- Un Presidente, que será el Presidente Municipal.
 
-II.- Un Secretario que será un representante del INCOJUD; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1999)</small>
+
+II.- Un Secretario que será designado por los integrantes del Consejo Municipal del Deporte; y
 
 III.- Los Vocales que serán designados por cada una de las siguientes dependencias, organismos y agrupaciones.
 
-a).- Secretaría de Educación, Cultura y Deporte.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1999)</small>
+
+a).- Secretaría de Educación;
 
 b).- Secretaría de Salud y Bienestar Social.
 
-c).- Sistema DIF Municipal.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1999)</small>
 
-d).- El deportista destacado del municipio.
+c).- El Instituto Colimense del Deporte;
 
-e).- Medios de comunicación de la localidad.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1999)</small>
 
-f).- Instituto Mexicano del Seguro Social.
+d).- Sistema DIF Municipal;
 
-g).- Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1999)</small>
 
-h).- Las ligas deportivas municipales legalmente constituidas y acreditadas ante el mismo Consejo Municipal.
+e).- El deportista destacado del municipio;
 
-El desempeño del cargo de miembro del Consejo será honorífico.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1999)</small>
+
+f).- Medios de comunicación de la localidad;
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1999)</small>
+
+g).- Instituto Mexicano del Seguro Social;
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1999)</small>
+
+h).- Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; y
+
+> <small>(REFORMADO [ADICIONADO], P.O. 20 DE NOVIEMBRE DE 1999)</small>
+
+i).- Las ligas deportivas municipales legalmente constituidas y acreditadas ante el mismo Consejo Municipal.
 
 ###### ARTICULO 27.
 
@@ -588,3 +622,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno a los dieciséis días del mes de abril de mil novecientos noventa y siete.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. RAMON PEREZ DIAZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE NOVIEMBRE DE 1999.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
