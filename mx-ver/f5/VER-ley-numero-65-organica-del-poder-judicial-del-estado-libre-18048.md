@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-65-organica-del-poder-judicial-del-estado-libre-1804
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-26"
-last_updated: "2003-03-18"
+last_updated: "2003-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 65 ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY NUM. 65 ORGANICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY NUM. 65 ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 26 de julio de 2000.
 
@@ -37,11 +37,11 @@ Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Esta
 
 LA HONORABLE QUINCUAGÉSIMA OCTAVA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE, EN USO DE LA FACULTAD QUE LE CONFIEREN LOS ARTICULOS 33 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL; 44 DE LA LEY ORGANICA DEL PODER LEGISLATIVO; 103 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO Y EN NOMBRE DEL PUEBLO, EXPIDE LA SIGUIENTE:
 
-> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACION POR ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMA CONSTITUCIONAL, G.O. DE 18 DE MARZO DE 2003)</small>
 
 LEY Núm. 65
 
-ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -585,7 +585,7 @@ XXVI. Proponer al Pleno del Tribunal y al Consejo de la Judicatura las medidas i
 
 XXVII. Tomar la protesta a los Secretarios de Acuerdos de Sala en los casos en que deban ejercer las funciones de Magistrado; y
 
-> <small>(REFORMADA[N. DE E. ADICIONADA], G.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 30 DE DICIEMBRE DE 2002)</small>
 
 XXVIII. Aceptar donaciones puras y simples en beneficio del patrimonio del Poder Judicial del Estado.
 
@@ -1529,7 +1529,9 @@ VII. Séptimo Distrito: comprende los Municipios de Poza Rica de Hidalgo, Cazone
 
 VIII. Octavo Distrito: comprende los Municipios de: Papantla, Coahuitlán, Coxquihui, Coyutla, Chumatlán, Espinal, Filomeno Mata, Gutiérrez Zamora, Mecatlán, Tecolutla y Zozocolco de Hidalgo.
 
-IX. Noveno Distrito: comprende los Municipios de Misantla, Colipa, Juchique de Ferrer, Martínez de la Torre, Nautla, Tenochtitlán, Vega de Alatorre y Yecuatla.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
+IX. Noveno Distrito: comprende los Municipios de Misantla, Colipa, Juchique de Ferrer, Martínez de la Torre, Nautla, San Rafael, Tenochtitlan, Vega de Alatorre y Yecuatla.
 
 X. Décimo Distrito: comprende los Municipios de Jalacingo, Atzalan, Altotonga, Las Minas, Perote, Tlapacoyan y Villa Aldama.
 
@@ -1547,7 +1549,9 @@ XVI. Decimosexto Distrito: comprende los Municipios de Zongolica, Atlahuilco, As
 
 XVII. Decimoséptimo Distrito: comprende los Municipios de Veracruz, Alvarado, La Antigua, Boca del Río, Cotaxtla, Medellín, Paso de Ovejas, Puente Nacional, Soledad de Doblado, Ignacio de la Llave, Tlalixcoyan, Jamapa, Manlio Fabio Altamirano y Úrsulo Galván.
 
-XVIII. Decimoctavo Distrito: comprende los Municipios de Cosamaloapan, Carlos A. Carrillo, Acula, Amatitlán, Chacaltianguis, lxmatlahuacan, Otatitlán, José Azueta, Tierra Blanca, Tlacotalpan, Tlacojalpan, Tres Valles, Tuxtilla, y Playa Vicente.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2003)</small>
+
+XVIII. Decimoctavo Distrito: comprende los Municipios de Cosamaloapan, Carlos A. Carrillo, Acula, Amatitlán, Chacaltianguis, Ixmatlahuacan, Otatitlán, José Azueta, Santiago Sochiapan, Tierra Blanca, Tlacotalpan, Tlacojalpan, Tres Valles, Tuxtilla y Playa Vicente.
 
 XIX. Decimonoveno Distrito: comprende los Municipios de San Andrés Tuxtla, Ángel R. Cabada, Catemaco, Hueyapan de Ocampo, Juan Rodríguez Clara, Lerdo de Tejada, Saltabarranca, Santiago Tuxtla e Isla.
 
@@ -2098,3 +2102,9 @@ SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
 
 OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+G.O. 31 DE DICIEMBRE DE 2003.
+
+PRIMERO. El presente Decreto entrará en vigor el primero de enero de dos mil cuatro, previa publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
