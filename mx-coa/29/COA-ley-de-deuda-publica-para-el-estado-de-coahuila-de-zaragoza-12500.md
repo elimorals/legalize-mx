@@ -4,7 +4,7 @@ identifier: "COA-ley-de-deuda-publica-para-el-estado-de-coahuila-de-zaragoza-125
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-06"
-last_updated: "1996-12-06"
+last_updated: "1998-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE DEUDA PUBLICA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 6 de diciembre de 1996.
 
@@ -237,19 +237,19 @@ I.- Someter a la autorización del Congreso el programa financiero anual del Gob
 
 II.- Presentar a la Comisión Técnica de Financiamiento para su opinión, las solicitudes de contratación de financiamiento de las entidades públicas estatales;
 
-III.- Informar al Congreso del Estado de la situación que guarda la deuda pública, que incluirá la de sus entidades, con la periodicidad siguiente:
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 1998)</small>
 
-A.- Anualmente, al presentar la cuenta pública estatal. El informe que al efecto se presente deberá contener:
+III.- Informar al Congreso del Estado de la situación que guarda la deuda pública, que incluirá la de sus entidades, al presentar la cuenta pública estatal en los términos que para el efecto determine la ley. El informe que al efecto se presente deberá contener:
 
-1).- El origen y condiciones de la operación de la deuda, precisando los montos de financiamiento contratados, las entidades contratantes, los plazos, las tasas de interés, los períodos de gracia y las garantías pactadas.
+1).- El origen y las condiciones de la operación de la deuda, precisando los montos de financiamiento contratados, las entidades contratantes, los plazos, las tasas de interés, los períodos de gracia y las garantías pactadas.
 
-2).- Las obras públicas, adquisición, manufactura, uso o goce temporal de bienes, o prestación de servicios a que se destinó el financiamiento.
+2).- Las obras públicas, adquisición, manufactura, uso o goce temporal de los bienes o prestación de servicios a que se destinó el financiamiento.
 
 3).- El saldo de la deuda al final del ejercicio, que comprenderá la forma y plazos de amortización del capital, las tasas de interés pactadas y demás conceptos que correspondan por acreditante y por destino.
 
-B.- Trimestralmente en forma conjunta al informe de cuenta pública del mes que corresponda. Este informe comprenderá los montos y saldos del financiamiento realizado con instituciones financieras; y
+4).- Los montos y saldos de financiamiento realizados, mensualmente, con instituciones financieras.
 
-C.- Cuando el Congreso del Estado lo solicite.
+El Congreso del Estado podrá solicitar en cualquier tiempo al Ejecutivo del Estado información respecto de la situación que guarda la deuda pública estatal.
 
 IV.- Solicitar al Congreso la autorización para ejercer montos de endeudamiento neto adicionales a los autorizados para el ejercicio de proyectos específicos no contemplados en el programa financiero anual, con la afectación adicional de garantías que corresponda, así como de las operaciones a que se refiere el artículo 23 de esta ley; y
 
@@ -263,21 +263,19 @@ I.- Someter a la autorización del Congreso del Estado el programa financiero an
 
 II.- Presentar a la Comisión Técnica de Financiamiento para su opinión, las solicitudes de contratación de financiamiento de las entidades públicas municipales;
 
-III.- Informar al Congreso del Estado de la situación que guarda la deuda pública, que incluirá la de sus entidades, con la periodicidad siguiente:
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 1998)</small>
 
-A.- Anualmente, al presentar la cuenta pública municipal.
+III.- Informar al Congreso del Estado de la situación que guarda la deuda pública, que incluirá la de sus entidades, al presentar la cuenta pública municipal en los términos que para el efecto determine la ley. El informe que al efecto se presente deberá contener:
 
-El informe que al efecto se presente deberá contener:
+1).- El origen y las condiciones de la operación de la deuda, precisando los montos de financiamiento contratados, las entidades contratantes, los plazos, las tasas de interés, los períodos de gracia y las garantías pactadas.
 
-1).- El origen y condiciones de la operación de la deuda, precisando los montos de financiamiento contratados, las entidades contratantes, los plazos, las tasas de interés, los períodos de gracia y las garantías pactadas.
-
-2).- Las obras públicas, adquisición, manufactura, uso o goce temporal de bienes, o prestación de servicios a que se destinó el financiamiento.
+2).- Las obras públicas, adquisición, manufactura, uso o goce temporal de los bienes, o prestación de servicios a que se destinó el financiamiento.
 
 3).- El saldo de la deuda al final del ejercicio, que comprenderá la forma y plazos de amortización del capital, las tasas de interés pactadas y demás conceptos que correspondan por acreditante y por destino.
 
-B.- Trimestralmente en forma conjunta al informe de cuenta pública del mes que corresponda. Este informe comprenderá los montos y saldos del financiamiento realizado con instituciones financieras; y
+4).- Los montos y saldos de financiamiento realizados, mensualmente, con instituciones financieras.
 
-C.- Cuando el Congreso del Estado se lo solicite.
+El Congreso del Estado podrá solicitar en cualquier tiempo al ayuntamiento que corresponda, información respecto de la situación que guarda la deuda pública municipal.
 
 IV.- Solicitar al Congreso del Estado la autorización para ejercer montos de endeudamiento neto adicionales a los autorizados para el ejercicio, de proyectos específicos no contemplados en el programa financiero anual, con la afectación adicional de garantías que corresponda, así como de las operaciones a que se refiere el artículo 23 de esta ley; y
 
@@ -596,3 +594,23 @@ LIC. ANTONIO JUAN MARCOS ISSA
 SECRETARIO DE LA CONTRALORIA Y MODERNIZACION ADMINISTRATIVA
 
 C.P. JUAN ANTONIO CEDILLO RIOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 17 DE ABRIL DE 1998.
+
+###### ARTICULO PRIMERO.
+
+Para efectos de la presentación de las cuentas públicas del Estado y Municipios, correspondientes al ejercicio fiscal de 1997, éstas deberán ser presentadas en los términos de la legislación anterior, es decir, a más tardar el 30 de abril de 1998.
+
+###### ARTICULO SEGUNDO.
+
+Para efectos de la revisión de las cuentas públicas trimestrales del Estado y de los Municipios, por única vez, los estados financieros que integran la cuenta pública correspondiente al primer trimestre de 1998, deberán remitirse de manera conjunta, en expediente separado, con la del segundo trimestre del año en curso, en los términos del presente decreto.
+
+###### ARTICULO TERCERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan a este decreto.
