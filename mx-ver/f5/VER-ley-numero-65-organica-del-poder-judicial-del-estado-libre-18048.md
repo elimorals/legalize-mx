@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-65-organica-del-poder-judicial-del-estado-libre-1804
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-26"
-last_updated: "2004-11-01"
+last_updated: "2004-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUM. 65 ORGANICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 26 de julio de 2000.
 
@@ -69,7 +69,9 @@ II. Proteger y salvaguardar los derechos humanos que el pueblo de Veracruz se re
 
 III. Interpretar y aplicar las leyes del fuero común y las federales en jurisdicción concurrente o auxiliar;
 
-IV. Resolver las impugnaciones que se presenten en las elecciones de Gobernador, de diputados al Congreso del Estado, de los ayuntamientos y de los agentes y subagentes municipales; así como los demás recursos que señale la ley, teniendo sus resoluciones el carácter de definitivas en la materia;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2004)</small>
+
+IV. Resolver las impugnaciones que se presenten en las elecciones de Gobernador, de diputados al Congreso del Estado y de los ayuntamientos; así como los demás recursos que señale la ley, teniendo sus resoluciones el carácter de definitivas en la materia;
 
 V. Realizar el cómputo final y, en su caso, la declaración de validez de la elección de Gobernador, y la de Gobernador electo del candidato que hubiere obtenido el mayor número de sufragios, ordenando su publicación en la Gaceta Oficial del Estado;
 
@@ -775,9 +777,13 @@ V. Los demás que expresamente establezcan la Constitución Política local, est
 
 La Sala Electoral tendrá competencia para:
 
-I. Sustanciar y resolver, en forma definitiva y conforme a la ley de la materia, las impugnaciones que se presenten en las elecciones de Gobernador, de Diputados al Congreso del Estado, de Ayuntamientos, de agentes y subagentes municipales; así como las que se presenten en los procesos de plebiscito o referendo, en contra de:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 31 DE DICIEMBRE DE 2004)</small>
 
-a) Los actos o resoluciones de los órganos electorales, durante los procesos electorales ordinarios o extraordinarios, los relativos a la elección de agentes y subagentes municipales, así como los que se interpongan en los procesos plebiscitarios o de referendo;
+I. Sustanciar y resolver, en forma definitiva y conforme a la ley de la materia, las impugnaciones que se presenten en las elecciones de Gobernador, de Diputados al Congreso del Estado, de Ayuntamientos; así como las que se presenten en los procesos de plebiscito o referendo, en contra de:
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2004)</small>
+
+a) Los actos o resoluciones de los órganos electorales, durante los procesos electorales ordinarios o extraordinarios, así como los que se interpongan en los procesos plebiscitarios o de referendo;
 
 b) Actos o resoluciones de los órganos electorales, durante el tiempo que transcurra entre dos procesos electorales ordinarios; y
 
@@ -2276,3 +2282,9 @@ G.O. 1 DE NOVIEMBRE DE 2004.
 PRIMERO. El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en la Gaceta Oficial del estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 31 DE DICIEMBRE DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en la Gaceta Oficial. Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
