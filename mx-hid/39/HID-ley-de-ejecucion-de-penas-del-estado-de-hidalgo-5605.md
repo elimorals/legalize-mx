@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ejecucion-de-penas-del-estado-de-hidalgo-5605"
 country: "mx"
 rank: "ley"
 publication_date: "1971-12-16"
-last_updated: "1971-12-16"
+last_updated: "2005-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EJECUCION DE PENAS DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 2005.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Hidalgo el día 16 de diciembre de 1971.
 
@@ -49,9 +49,11 @@ I.- La ejecución de las penas previstas en el Código Penal y otras Leyes.
 
 II.- El control y vigilancia de cualquier privación de libertad, impuesta en los términos de la Ley.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2005)</small>
+
 ###### Artículo 2o.
 
-Corresponde al Ejecutivo del Estado, por conducto de la Dirección de Gobernación, la ejecución de las penas, salvo las que expresamente se reserven para otra autoridad.
+Corresponde al Ejecutivo del Estado, por conducto de la Dirección General de Prevención y Readaptación Social, la ejecución de las penas, salvo las que expresamente se reserven para la Autoridad.
 
 ###### Artículo 3o.
 
@@ -61,9 +63,11 @@ El sistema de ejecución de penas se organizará sobre la base de trabajo, capac
 
 ### CAPITULO UNICO. Atribuciones de la Dirección de Gobernación
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MARZO DE 2005)</small>
+
 ###### Artículo 4o.
 
-El Ejecutivo por conducto de la Dirección de Gobernación del Estado, tendrá a su cargo las siguientes atribuciones:
+El Ejecutivo por conducto de la Dirección General de Prevención y Readaptación Social del Estado, tendrá a su cargo las siguientes atribuciones:
 
 I.- Crear, organizar, dirigir y administrar las prisiones y establecimientos de reclusión en el Estado.
 
@@ -77,7 +81,9 @@ V.- Organizar patronatos para personas liberadas.
 
 VI.- Supervisar la vigilancia a que sean sometidas las personas sujetas a confinamiento, prohibición de ir a lugar determinado y vigilancia de policía, decretadas por el Ejecutivo o por el Juez, según el caso.
 
-VII.- Promover el cumplimiento del pago de la multa y de la reparación del daño, por conducto de la Tesorería General del Estado u otra autoridad.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2005)</small>
+
+VII.- Verificar el cumplimiento del pago de la multa y de la reparación del daño, ante la Autoridad Judicial.
 
 VIII.- Hacer efectivo el decomiso de los instrumentos del delito.
 
@@ -165,9 +171,11 @@ Toda persona que ingrese a un centro penitenciario, será examinada inmediatamen
 
 A todo interno se le formará un expediente, que incluirá los resultados de los estudios practicados. En su oportunidad se agregará una copia de la sentencia dictada por los Tribunales que hayan conocido el caso.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE MARZO DE 2005)</small>
+
 ###### Artículo 18.
 
-Este expediente se llevará por duplicado, remitiéndose un tanto a la Dirección de Gobernación, conservándose el otro en el establecimiento en que esté internado. El expediente se dividirá en las siguientes secciones:
+Este expediente se llevará por duplicado, remitiéndose un tanto a la Dirección General de Prevención y Readaptación Social, conservándose el otro en el establecimiento en que esté internado. El expediente se dividirá en las siguientes secciones:
 
 a).- Sección correccional, donde se harán constar los antecedentes sobre su conducta, sanciones disciplinarias, estímulos y recompensas.
 
@@ -207,9 +215,11 @@ Los enfermos mentales a que se refiere el artículo 50 del Código Penal, serán
 
 Los internos sordomudos serán recluidos en una escuela o establecimiento especial para su educación y mientras no existan éstos, estarán separados en una sección especial.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2005)</small>
+
 ###### Artículo 24.
 
-Durante el periodo de tratamiento se sujetará a cada interno a las medidas que se consideren más adecuadas. Dicho periodo se dividirá en fases, que permitan seguir su método gradual y adecuado a la readaptación de los internos. Entre estas fases figurará la pre-liberacional, que podrá incluir tomando en cuenta las circunstancias del caso, permisos de salida para los que en fecha próxima obtendrán su libertad.
+Durante el periodo de tratamiento se sujetará a cada interno a las medidas que se consideren más adecuadas. Dicho periodo se dividirá en cinco fases, cada una de ellas equivale al 20% de la pena impuesta, que permitan seguir su método gradual y adecuado a la readaptación de los internos, que serán evaluados al final de cada fase. El tratamiento pre-liberacional, que podrá incluir según las circunstancias del caso, el cumplimiento en externamiento, se otorgará dentro de la fase, en la que al finalizar, obtendría su libertad.
 
 ###### Artículo 25.
 
@@ -279,9 +289,11 @@ El Patronato de personas liberadas tiene por objeto: prestar asistencia moral a 
 
 ### CAPITULO PRIMERO. Las que Corresponden al Ejecutivo
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2005)</small>
+
 ###### Artículo 35.
 
-Los Tribunales del Estado, remitirán igualmente copia autorizada de las sentencias ejecutorias, donde se impongan penas distintas a la prisión, y que deban ser cumplidas por conducto de la Dirección de Gobernación.
+Los Tribunales del Estado, remitirán igualmente copia autorizada de las sentencias que han causado estado, donde se impongan penas distintas a la prisión, y que deban ser cumplidas por conducto de la Dirección General de Prevención y Readaptación Social.
 
 ###### Artículo 36.
 
@@ -295,9 +307,11 @@ Las constancias del expediente de ejecución, se ajustarán a las formalidades e
 
 Para el cumplimiento exacto de la pena, se tomarán las medidas adecuadas que dentro de la Ley se permitan; siendo auxiliares del órgano ejecutor, todas las autoridades federales, estatales y municipales, quienes en tal carácter, y en su caso, podrán proceder sin previo acuerdo al cumplimiento de las penas, debiendo informar inmediatamente a la Dirección.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2005)</small>
+
 ###### Artículo 39.
 
-Ejecutada alguna pena, la Dirección de Gobernación, lo informará a la autoridad judicial correspondiente.
+Ejecutada alguna pena, la Dirección General de Prevención y Readaptación Social, lo informará a la autoridad judicial correspondiente.
 
 ### CAPITULO SEGUNDO. Las que corresponden a la Autoridad Judicial
 
@@ -305,9 +319,11 @@ Ejecutada alguna pena, la Dirección de Gobernación, lo informará a la autorid
 
 Las penas y medidas de seguridad que de acuerdo con el Código Penal, debe cumplir la autoridad judicial, se llevarán a cabo en los términos de la sentencia, dejándose la constancia respectiva en el expediente.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2005)</small>
+
 ###### Artículo 41.
 
-En estos casos, el Juez o Tribunal informará al respecto a la Dirección de Gobernación, donde se llevará una relación de dichas ejecuciones. Y en su caso, pedirán los auxilios necesarios para el debido cumplimiento.
+En estos casos, el Juez o Tribunal informará al respecto a la Dirección General de Prevención y Readaptación Social, donde se llevará una relación de las sentencias que han causado estado. En su caso, pedirán los auxilios necesarios para el debido cumplimiento.
 
 ## TITULO CUARTO. Liberaciones y Retenciones
 
@@ -317,7 +333,9 @@ En estos casos, el Juez o Tribunal informará al respecto a la Dirección de Gob
 
 La libertad condicional se otorgará a los sentenciados con privación de libertad por más de dos años, cuando se satisfagan los requisitos siguientes:
 
-I.- Haber cumplido las dos quintas partes de la sanción impuesta.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2005)</small>
+
+I.- Haber cumplido dos quintas partes de la pena privativa de libertad, si hubiere sido condenado por delito no calificado como grave, o tres quintas partes de la pena de prisión, cuando haya sido sentenciado por delito grave.
 
 II.- Haber observado durante su internamiento, buena conducta, sin limitarse al simple cumplimiento de los reglamentos, sino también a su mejoramiento cultural, perfeccionamiento en el servicio y superación en el trabajo; todo lo cual revele un afán constante de readaptación social.
 
@@ -327,7 +345,17 @@ IV.- Que alguna persona solvente, honrada y de arraigo se obligue a presentarlo 
 
 V.- Haber reparado el daño u otorgado garantía para cubrir su monto.
 
-VI.- Que el beneficiado con la libertad condicional resida en el lugar que se determine y del cual no podrá ausentarse sin el permiso de la Dirección de Gobernación. La designación se hará conciliando la circunstancia de que al reo se le pueda proporcionar trabajo en el lugar que se le fije, con el hecho de que su permanencia en él no sea un obstáculo para su enmienda.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2005)</small>
+
+VI.- Que el beneficiado con la libertad condicional resida en el lugar que se determine y del cual no podrá ausentarse sin el permiso de la Dirección General de Prevención y Readaptación Social. La designación se hará conciliando la circunstancia de que al reo se le pueda proporcionar trabajo en el lugar que se le fije, con el hecho de que su permanencia en él no sea un obstáculo para su enmienda.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2005)</small>
+
+No se concederá este beneficio a quienes hayan sido sentenciados por los delitos graves de homicidio previsto por el Articulo 138; secuestro previsto por el Articulo 166; asalto previsto por el numeral 173 cuando hayan sido aplicadas las dos agravantes a que se refiere el Articulo 174; violación prevista en los Artículos 179 párrafo primero o 180, cuando concurran con alguna de las agravantes del numeral 181 o por tráfico de menores, previsto por el Articulo 237, preceptos todos del Código Penal.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2005)</small>
+
+Tampoco es procedente conceder este beneficio, cuando la suma de las penas privativas de libertad impuestas separadamente por cada hecho delictivo, sea igual o mayor de cincuenta años de prisión.
 
 ###### Artículo 43.
 
@@ -421,9 +449,11 @@ Las sanciones privativas de libertad, siempre que excedan de dos años, se entie
 
 La retención se aplicará cuando, a juicio de la Dirección, el interno observe mala conducta durante la segunda mitad de su condena, resistiéndose al trabajo o incurriendo en faltas graves de disciplina.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2005)</small>
+
 ###### Artículo 59.
 
-Los directores de los establecimientos penitenciarios están obligados a comunicar a la Dirección de Gobernación, cualquier hecho que puede dar motivo a que se aplique la retención.
+Los Directores de los establecimientos penitenciarios están obligados a comunicar a la Dirección General de Prevención y Readaptación Social, cualquier hecho que puede dar motivo a que se aplique la retención.
 
 ###### Artículo 60.
 
@@ -439,9 +469,11 @@ Suspensión Condicional de la Ejecución de la Pena
 
 ### CAPITULO PRIMERO
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2005)</small>
+
 ###### Artículo 62.
 
-La Dirección de Gobernación tendrá a su cargo la vigilancia y supervisión de la conducta de los individuos a quienes se les haya suspendido condicionalmente la condena impuesta por sentencia definitiva, en los términos de los artículos 87 a 90 del Código Penal. La vigilancia será ejercida discretamente y los informes que se obtengan, en caso de ser desfavorables, se trasmitirán a los Tribunales competentes. Estos a su vez informarán a la Dirección, inmediatamente que revoquen estos beneficios.
+La Dirección General de Prevención y Readaptación Social, tendrá a su cargo la vigilancia y supervisión de la conducta de los individuos a quienes se les haya suspendido condicionalmente la condena impuesta por sentencia definitiva, en los términos de los artículos 87 a 90 del Código Penal. La vigilancia será ejercida discretamente y los informes que se obtengan, en caso de ser desfavorables, se trasmitirán a los Tribunales competentes. Estos a su vez informarán a la Dirección, inmediatamente que revoquen estos beneficios.
 
 ### CAPITULO SEGUNDO
 
@@ -497,9 +529,11 @@ V.- Por prescripción.
 
 VI.- En el caso del artículo 3o. del Código Penal.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2005)</small>
+
 ###### Artículo 69.
 
-En los casos de las fracciones I y V del Artículo anterior, la extinción de la pena será decretada por el Director de Gobernación, quien ordenará la libertad inmediata del condenado; en el caso de la fracción II se dictará la resolución y se hará la notificación correspondientes.
+En los casos de las fracciones I y V del Artículo anterior, la extinción de la pena será decretada por el Director General de Prevención y Readaptación Social, quien ordenará la libertad inmediata del condenado; en el caso de la fracción II se dictará la resolución y se hará la notificación correspondientes.
 
 ###### Artículo 70.
 
@@ -526,3 +560,9 @@ Dado en el Salón de Sesiones del H. Congreso del Estado, en Pachuca de Soto, a 
 Por tanto mando se imprima, publique y circule para su debido cumplimiento.
 
 DADO en el Palacio del Poder Ejecutivo de la ciudad de Pachuca de Soto, Hidalgo, a los once días del mes de diciembre de mil novecientos setenta y uno.- El Gobernador Constitucional del Estado, LIC. MANUEL SANCHEZ VITE.- El Secretario General de Gobierno, LIC. GABRIEL ROMERO REYES.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 28 DE MARZO DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
