@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2003-04-29"
+last_updated: "2003-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -109,15 +109,13 @@ VIII.- Ejercitar la acción penal y solicitar la reparación del daño;
 
 IX.- Conceder y en su caso revocar o negar el beneficio de la libertad provisional bajo caución al indiciado cuando así proceda, de acuerdo a los términos, requisitos y limitaciones que este Código establece;
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO 2003)</small>
 
-X.- Promover la conciliación de las partes en los delitos que se persigan por querella necesaria; y
+X.- Procurar la conciliación entre el ofendido o la victima y el inculpado, en los delitos que se persiguen por querella necesaria, y en los perseguibles de oficio cuando el perdón del ofendido o la victima sea causa de extinción de la acción penal; y
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)(F. DE E., P.O. 24 DE JULIO DE 2003)
 
 XI.- Las demás que señale la ley.
-
-Asimismo, después de ejecutado un delito, hará que tanto el ofendido, en su caso, como el presunto responsable, sean examinados inmediatamente por los médicos legistas, para que éstos dictaminen con carácter provisional, acerca de su estado psicofisiológico.
 
 ###### ARTICULO 4.
 
@@ -821,9 +819,9 @@ El Ministerio Público al emitir la orden de detención en caso urgente deberá 
 
 La orden mencionada será ejecutada por la Policía Ministerial, quien deberá sin dilación alguna, poner al detenido a disposición del Ministerio Público que la haya librado.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 2002)</small>
+(REFORMADO, P.O. 10 DE JULIO DE 2003) (F. DE E., P.O. 24 DE JULIO DE 2003)
 
-Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves, los siguientes: Atentados a la soberanía del Estado previsto por el Artículo 143; evasión de presos previsto por el Artículo 158 en los casos a que se refiere la segunda parte del Artículo 159 y el Artículo 160; ataques a los medios de transporte previsto por el Artículo 174; corrupción de menores en los casos del segundo párrafo del Artículo 193 y en el Artículo 195; tortura previsto por el Artículo 213; cohecho previsto por los Artículos 216 en relación con el 217 Fracción II; peculado previsto por los Artículos 218 en relación con el Artículo 219 Fracción II; concusión previsto por los Artículos 220 en relación con el 221 Fracción II; uso indebido de atribuciones y facultades previsto por los Artículos 222 en relación con el 223 Fracción II; ejercicio abusivo de funciones previsto por los Artículos 226 en relación con el 227 Fracciones II y III; enriquecimiento ilícito previsto por los Artículos 230 en relación con el 231 Fracción III; violación previsto en los Artículos 273, 274, 275, 276 y 277; asalto previsto en los Artículos 313 en relación con el 314 y 315; tráfico de menores e incapacitados previsto por el Artículo 318-Bis; lesiones previsto por el Artículo 319 en relación con el 322 Fracción III; homicidio culposo previsto por el Artículo 318; homicidio previsto en los Artículos 329 con relación al 333, 335, 336, 337, 349; 350 en relación con el 351; 352 en relación con el 353 y 354; secuestro previsto en el Artículo 391, exceptuando el caso contemplado en el Artículo 392; robo previsto por el Artículo 399 cuando se realice en cualquiera de las circunstancias señaladas en los Artículos 405, 406, 407 Fracciones I, VIII, IX y X, 409 exceptuando de éste los casos en que por el valor de lo robado se esté en la hipótesis del Artículo 402 Fracción I; 410 exceptuando de este el caso previsto en su última parte cuando el monto de lo robado no exceda del señalado en el Artículo 402 Fracción I, 411; extorsión previsto por el Artículo 426; despojo de cosas inmuebles o de aguas, previsto por el Artículo 427, cuando se realice en las circunstancias previstas en la Fracción IV; y daño en propiedad en los casos previstos por el Artículo 435, todos del Código Penal para el Estado de Tamaulipas.
+Para todos los efectos legales, y por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves, los siguientes: Atentados a la soberanía del Estado previsto por el artículo 143; evasión de presos previsto por el artículo 158 en los casos a que se refiere la segunda parte del artículo 159 y el artículo 160; ataques a los medios de transporte previsto por el artículo 174; corrupción de menores e incapaces y pornografia infantil previstos por los artículos 192, en los casos del artículo 193 segundo párrafo, 194 Bis fracciones III y V, 194 Ter fracciones I, II y III, 195; tortura previsto por el artículo 213; cohecho previsto por el artículos 216 en relación con el artículo 217 fracción II; enriquecimiento ilicito previsto por el artículo 230 en relación con el 231 fracción III; violación previsto en los artículos 273, 274, 275, 276 y 277; asalto previsto en los artículos 313 en relación con el 314 y 315; tráfico de menores e incapacitados previsto por el artículo 318 bis; lesiones previsto por el artículo 319 en relación con el 322 fracción III; homicidio culposo previsto por el artículo 318; homicidio previsto en los artículos 329 con relación al 333, 335, 336, 337, 349; 350 en relación con el 351; 352 en relación con el 353, 354 y 355; secuestro en los casos de los artículos 391 y 391 Bis; robo previsto por el artículo 399 cuando se realice en cualquiera de las circunstancias señaladas en los artículos 405, 406, 407 fracciones I, VIII, IX y X, 409 exceptuando de éste los casos en que por el valor de lo robado se esté en la hipótesis del artículo 402 fracción I; 410 exceptuando de éste el caso previsto en su última parte cuando el monto de lo robado no exceda del señalado por el artículo (sic) 402 Fracción I, 411; extorsión previsto por el artículo 426; despojo de cosas inmuebles o de aguas previsto por el artículo 427 cuando se realice en las circunstancia prevista en la fracción IV; y daño en propiedad en los casos previstos por el artículo 435, todos del Código Penal para el Estado de Tamaulipas.
 
 (ADICIONADO, P.O. 19 DE JUNIO DE 1999) (F. DE E., P.O. 17 DE ABRIL DE 2002)
 
@@ -863,7 +861,7 @@ e).- Que se le faciliten todos los datos que solicite para su defensa y que est�
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2003)</small>
 
-f).- Que se le reciban los testigos y demás pruebas que ofrezca, las cuales se tomarán en cuenta para dictar la resolución que corresponda, concediéndosele el tiempo necesario para su desahogo, siempre que no se traduzca en dilación de la averiguación previa y auxiliándosele para obtener la complarecencia de las personas cuyos testimonios solicite, siempre que se encuentren en el lugar del proceso. Cuando no sea posible el desahogo de pruebas ofrecidas por el inculpado o su defensor, el juzgador resolverá en su oportunidad, sobre la admisión y práctica de las mismas; y
+f).- Que se le reciban los testigos y demás pruebas que ofrezca, las cuales se tomarán en cuenta para dictar la resolución que corresponda, concediéndosele el tiempo necesario para su desahogo, siempre que no se traduzca en dilación de la averiguación previa y auxiliándosele para obtener la comparecencia de las personas cuyos testimonios solicite, siempre que se encuentren en el lugar del proceso. Cuando no sea posible el desahogo de pruebas ofrecidas por el inculpado o su defensor, el juzgador resolverá en su oportunidad, sobre la admisión y práctica de las mismas; y
 
 g).- Que se le conceda inmediatamente que lo solicite su libertad provisional bajo caución, conforme a lo dispuesto por la Fracción I del Artículo 20 de la Constitución Federal, en los términos del Artículo 395 de este Código.
 
@@ -957,6 +955,18 @@ II.- Asentar los datos generales para la identificación de la persona; en todo 
 
 III.- Comprobar su personalidad para los efectos legales.
 
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2003)</small>
+
+Igualmente, el Ministerio Publico, antes de iniciar la averiguación previa o durante ésta y sin perjuicio de acordar las primeras medidas, deberá procurar la conciliación entre el ofendido o victima y el inculpado, en los delitos que se persiguen por querella necesaria, y en los perseguibles de oficio cuando el perdón del ofendido o la victima sea causa de extinción de la acción penal.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2003)</small>
+
+En convenio conciliatorio producirá los efectos de suspender la averiguación previa penal y el plazo de la prescripción de la acción penal en términos del artículo 134 del Código Penal. Deberá contener el término en que deberá cumplirse.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2003)</small>
+
+Para que la conciliación pueda ser motivo de extinción de la acción penal, será necesario que el convenio se cumpla o se formule perdón del ofendido o victima. El incumplimiento del convenio dará lugar a que se inicie la averiguación o que ésta se continúe.
+
 ###### ARTICULO 119.
 
 Cuando la persona no sepa escribir o por cualquier motivo no formule su queja por escrito, el funcionario ante quien se presente tendrá la obligación de levantar el acta correspondiente, que contendrá además de los hechos motivo de la queja, los requisitos a que se refiere el Artículo anterior.
@@ -1043,7 +1053,7 @@ Si se decide ejercitar la acción penal el Ministerio Público, podrá ordenar q
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-El indiciado o su defensor también podrá solicitar al Ministerio Público que se conserven las medidas dictadas hasta que el Juez resuelva la situación jurídica. El Ministerio Público podrá aceptar o desechar ésta petición de acuerdo a las circunstancias que guarde la averiguación.
+El indiciado o su defensor también podrán solicitar al Ministerio Público que se conserven las medidas dictadas hasta que el Juez resuelva la situación jurídica. El Ministerio Público podrá aceptar o desechar ésta petición de acuerdo a las circunstancias que guarde la averiguación.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -1421,7 +1431,7 @@ Cuando se declaren definitivos los efectos del auto que negó la orden de aprehe
 
 ###### ARTICULO 175.
 
-Dentro de cuarenta y ocho horas, contadas desde que la autoridad judicial tenga conocimiento de que un detenido ha quedado a su disposición, procederá a tomarle su declaración preparatoria, sin perjuicio de que éste solicite y obtenga, previamente, su libertad caucional, si procede; para los efectos primeramente mencionados, los alcaides o carceleros enviarán, a la autoridad citada, comunicación por escrito.
+Dentro de cuarenta y ocho horas, contadas desde que la autoridad judicial tenga conocimiento de que un detenido ha quedado a su disposición, procederá a tomarle su declaración preparatoria, sin perjuicio de que éste solicite y obtenga, previamente, su libertad caucional, si procede; para los efectos primeramente mencionados, los alcaldes o carceleros enviarán, a la autoridad citada, comunicación por escrito.
 
 ###### ARTICULO 176.
 
@@ -1642,6 +1652,10 @@ La confesión es el reconocimiento de la participación propia en la comisión d
 La confesión podrá recibirse por el funcionario público que practicó la averiguación previa o por el Tribunal que conozca el asunto. En este último caso se admitirá en cualquier estado del procedimiento hasta antes de pronunciarse sentencia firme.
 
 Para el desahogo de este medio son aplicables las reglas que señalan los Artículos 180 y 181.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2003)</small>
+
+Si la confesión se hiciera en la etapa de averiguación previa o de preinstrucción se observará el procedimiento previsto en el artículo 192 de éste Código y se reducirá en una cuarta parte la pena aplicable al inculpado.
 
 ### CAPITULO III. DOCUMENTAL
 
@@ -2977,11 +2991,13 @@ La naturaleza de la caución quedará a elección del inculpado, quien al solici
 
 La caución podrá consistir:
 
-I.- En depósito en efectivo hecho por el inculpado o por terceras personas en la Tesorería General del Estado o en la Oficina Fiscal del Estado que le corresponda, expidiéndose por tales autoridades el certificado o comprobante para ser entregado ante la autoridad que conozca el caso, tomándose razón de ello en autos; cuando por razón de la hora o por ser día inhábil no pueda constituirse el depósito directamente en la Tesorería General del Estado o en la Oficina Fiscal que corresponda, se recibirá la cantidad exhibida mandándose depositar en aquellas oficinas el primer día hábil siguiente;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 1999)</small>
+I.- En depósito en efectivo hecho por el inculpado o por terceras personas en la Secretaría de Finanzas, por conducto de las oficinas autorizadas, expidiéndose el certificado o comprobante para ser entregado ante la autoridad que conozca del caso, tomándose razón de ello en autos; cuando por razón de la hora o por ser día inhábil no pueda constituirse el depósito directamente en las oficinas autorizadas, se recibirá la cantidad exhibida mandándose depositar en aquellas oficinas el primer día hábil siguiente;
 
-II.- En hipoteca otorgada en acta ante el propio Juez por el inculpado o por terceras personas sobre inmuebles ubicados en el Estado, que no tengan gravamen y cuyo valor comercial, fijado por un perito debidamente autorizado, sea cuando menos el doble del monto de la suma fijada como caución. En este caso sólo se tendrá por otorgada la caución, cuando se exhiba ante el Juez la copia certificada del acta correspondiente debidamente inscrita en el Registro Público de la Propiedad;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
+
+II.- En hipoteca otorgada ante Notario Público o en acta ante el propio Juez de la causa, por el inculpado o por terceras personas sobre inmuebles ubicados en el Estado, que no tenga gravamen y cuyo valor catastral o comercial fijado por un perito debidamente autorizado, sea cuando menos el doble del monto de la suma fijada como caución. En este caso, inmediatamente se procederá a su inscripción en el Registro Público de la Propiedad, sin perjuicio de que se den los avisos preventivos a que se refiere el artículo 2368 del Código Civil;
 
 > <small>(REFORMADA, P.O. 25 DE JUNIO DE 1994)</small>
 
@@ -2991,31 +3007,31 @@ III.- En fideicomiso de garantía formalmente otorgado;
 
 IV.- En prenda otorgada en acta ante el propio Juez por el inculpado o por terceras personas, en cuyo caso el bien mueble, a juicio del perito nombrado por el Juez, deberá tener un valor de mercado de cuando menos tres veces el monto de la suma fijada como caución; y no podrá acordarse que el otorgante quede como depositario del bien mueble. Todos los gastos originados con motivo del depósito serán por cuenta del otorgante; y
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
 
-V.- En fianza personal bastante que podrá constituirse en el expediente, cuando el monto de la caución no exceda de cincuenta y tres días de salario.
+V.- En fianza personal bastante que podrá constituirse en el expediente, hasta por el importe de doscientos días de salario;
 
 > <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2000)</small>
 
 VI.- Póliza de Compañía Afianzadora legalmente constituida y autorizada, con domicilio en el Estado o, en su efecto, aún teniéndolo fuera del mismo, se haga constar dentro de la misma póliza, que se somete a la jurisdicción de las leyes del Estado en caso de que se le tenga que hacer efectiva la fianza, por incumplimiento de la obligación.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
 
 ###### ARTICULO 402.
 
-Cuando la fianza sea personal, el fiador deberá comprobar que tiene bienes raíces en el Estado, inscritos en el Registro Público de la Propiedad, libres de gravamen, cuyo valor sea cuando menos tres veces mayor al monto de la suma fijada como caución.
+Cuando la fianza sea personal, el fiador deberá comprobar que tiene bienes raíces en el Estado e inscritos en el Registro Público de la Propiedad, cuyo valor catastral o comercial fijado por un perito debidamente autorizado, sea cuando menos tres veces más que la fianza fijada; deberá manifestar bajo protesta de decir verdad, si el bien se encuentra libre de gravamen.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
 
 ###### ARTICULO 403.
 
-Cuando se ofrezca como garantía fianza personal, se deberá presentar certificado de libertad de gravámenes expedido por el Registro Público de la Propiedad, que comprenda un término de diez años y constancias de estar al corriente en el pago del impuesto predial para que se califique la solvencia.
+La garantía personal se revocará de oficio o a petición de parte, se el fiador no acredita dentro de los diez días hábiles siguientes al del otorgamiento, que sus bienes están libres de gravamen.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
 
 ###### ARTICULO 404.
 
-El fiador propuesto deberá declarar ante la autoridad correspondiente, bajo protesta de decir verdad, acerca de las fianzas judiciales que con anterioridad haya otorgado, así como de la cuantía y circunstancias de las mismas para que esa declaración se tome en cuenta al calificar su solvencia.
+El fiador propuesto deberá declarar ante la autoridad correspondiente, bajo protesta de decir verdad, el régimen matrimonial si estuviere casado, las fianzas judiciales que con anterioridad haya otorgado, así como de la cuantía y circunstancias de las mismas, para que esa declaración se tome en cuenta al calificar su solvencia.
 
 ###### ARTICULO 405.
 
@@ -4007,7 +4023,7 @@ Concluído el sorteo, se retirarán los Jurados que no hubieren sido designados 
 
 Si todos los peritos y testigos citados estuvieren presentes o se hubiere declarado que a pesar de la falta de alguno de ellos es de celebrarse la audiencia, estando completo el número de los Jurados, el Presidente de los Debates tomará a éstos la siguiente protesta:
 
-"¿Protestan ustedes desempeñar las funciones de Jurado sin odio ni temor y decidir según aprecien en conciencia y de acuerdo con su íntima convicción, los cargos y los medios de defensa, obrando en todo con imparcialidad y firmeza ?".
+"¿Protestan ustedes desempeñar las funciones de Jurado sin odio ni temor y decidir según aprecien en conciencia y de acuerdo con su íntima convicción, los cargos y los medios de defensa, obrando en todo con imparcialidad y firmeza?".
 
 Cada miembro del Jurado, llamado individualmente deberá contestar:
 
@@ -4352,3 +4368,9 @@ P.O. 29 DE ABRIL DE 2003
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JULIO DE 2003
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
