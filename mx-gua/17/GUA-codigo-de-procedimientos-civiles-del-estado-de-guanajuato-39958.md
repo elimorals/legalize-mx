@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1985-01-01"
+last_updated: "1987-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 1987.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -141,9 +141,11 @@ Autoridad judicial.
 
 Competencia.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
+
 ###### Art. 16.
 
-Los negocios civiles son decididos, en el Estado, por los Jueces Municipales, los Jueces de Partido o las Salas del Supremo Tribunal de Justicia.
+Los negocios civiles son decididos, en el Estado, por los Jueces Menores, los Jueces de Primera Instancia o las Salas del Supremo Tribunal de Justicia.
 
 ###### Art. 17.
 
@@ -175,11 +177,11 @@ El tribunal que resuelva la incompetencia declarará de oficio la nulidad.
 
 Competencia por materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE AGOSTO DE 1987)</small>
 
 ###### Art. 23.
 
-Los jueces municipales son competentes para conocer exclusivamente de los negocios, contenciosos cuya cuantía no sea mayor de la cantidad que resulte de multiplicar por setenta y cinco veces el salario mínimo general diario obligatorio más alto vigente en el Estado de Guanajuato.
+Los Jueces Menores son competentes para conocer exclusivamente de los negocios, contenciosos cuya cuantía no sea mayor de la cantidad que resulte de multiplicar por setenta y cinco veces el salario mínimo general diario obligatorio más alto vigente en el Estado de Guanajuato.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 1968)</small>
 
@@ -189,15 +191,17 @@ En ningún caso podrán conocer de reclamaciones contra la Federación, el Estad
 
 Cuando se modifique la competencia en razón de la cuantía, seguirán conociendo de los asuntos en trámite los jueces ante los que se plantearon.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1981)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
 
 ###### Art. 24.
 
-Los jueces de partido conocerán de todos los negocios no comprendidos en el artículo anterior, de los no valuables en dinero y de los recursos contra las resoluciones de los jueces municipales.
+Los Jueces de Primera Instancia conocerán de todos los negocios no comprendidos en el artículo anterior, de los no valuables en dinero y de los recursos contra las resoluciones de los Jueces Menores.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
 
 ###### Art. 25.
 
-Las Salas del Supremo Tribunal conocerán de la segunda instancia en los negocios de la competencia de los jueces de partido.
+Las Salas del Supremo Tribunal conocerán de la segunda instancia en los negocios de la competencia de los Jueces de Primera Instancia.
 
 ###### Art. 26.
 
@@ -209,15 +213,19 @@ Cuando lo reclamado no tenga un valor fijado en la demanda, atentas las condicio
 
 Para fijar la competencia tratándose de obligaciones de las que deriven prestaciones periódicas se atenderá al importe de su valor en doce meses. Cuando sólo se reclamen prestaciones periódicas vencidas se estará a lo dispuesto en el primer párrafo de este artículo.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
+
 ###### Art. 27.
 
-En el caso de reconvención es juez competente el que lo sea para conocer de la demanda original. En negocios de la competencia de los jueces municipales, si lo reconvenido excede de su competencia, será competente para conocer del negocio el juez de partido. El mismo precepto es aplicable al caso de tercerías.
+En el caso de reconvención es juez competente el que lo sea para conocer de la demanda original. En negocios de la competencia de los Jueces Menores, si lo reconvenido excede de su competencia, será competente para conocer del negocio el Juez de Primera Instancia. El mismo precepto es aplicable al caso de tercerías.
 
 ###### Art. 28.
 
 Para los actos preparatorios es competente el juez que lo sea para el negocio principal.
 
-El mismo precepto es aplicable a las medidas precautorias. Si los autos estuvieren en segunda instancia, es juez competente el que conoció en primera. En casos de urgencia, puede dictar la providencia el juez de partido o municipal del lugar en que se hallen las personas o cosas que deban ser, objeto de la providencia.
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
+
+El mismo precepto es aplicable a las medidas precautorias. Si los autos estuvieren en segunda instancia, es juez competente el que conoció en primera. En casos de urgencias, puede dictar la providencia el Juez de Primera Instancia o Menor del lugar en que se hallen las personas o cosas que deban ser, objeto de la providencia.
 
 #### SECCION SEGUNDA.
 
@@ -2501,13 +2509,17 @@ No podrá decretarse diligencia alguna preparatoria, de aseguramiento o precauto
 
 Juicio de paz.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
+
 ###### Art. 416.
 
-En los juicios ante los jueces municipales se observarán las disposiciones que rigen para el juicio ante los demás tribunales, con las modificaciones que se con tienen en este Título.
+En los Juicios ante los Jueces Menores se observarán las disposiciones que rigen para el juicio ante los demás tribunales, con las modificaciones que se con tienen en este Título.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
 
 ###### Art. 417.
 
-En la demanda y la contestación ante los jueces municipales no se requiere formalidad alguna especial; pero, además de expresarse los hechos en que se funden y acompañarse los documentos respectivos con la demanda, concluirán con la petición clara y precisa que se formule.
+En la demanda y la contestación ante los Jueces Menores no se requiere formalidad alguna especial; pero, además de expresarse los hechos en que se funden y acompañarse los documentos respectivos con la demanda, concluirán con la petición clara y precisa que se formule.
 
 ###### Art. 418.
 
@@ -2589,13 +2601,17 @@ El condenado podrá proponer fianza para garantizar el cumplimiento de lo senten
 
 El tercero que considere perjudicados sus derechos al ejecutarse la sentencia, puede ocurrir al juez, quien citará al promovente y a las partes a una audiencia verbal para dentro de tres días, y después de recibir las pruebas que se presenten y de oír a los interesados por una sola vez y sin exceder de diez minutos cada uno, decidirá en el mismo acto si subsiste o no el secuestro o el acto de ejecución, sin resolver sobre la propiedad de la cosa, ni sobre otros derechos controvertidos.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
+
 ###### Art. 437.
 
-Las sentencias de los jueces municipales son revisables a petición del interesado. Conocerán de la revisión los jueces de partido, los cuales dispondrán que se practiquen las diligencias que estimen necesarias para resolver sin sujetarse a las formalidades establecidas para los juicios de su competencia, sino de la manera que consideren bastante para asegurar un fallo justo, y deberán resolver el recurso en un plazo máximo de quince días.
+Las sentencias de los Jueces Menores son revisables a petición del interesado. Conocerán de la revisión los Jueces de Primera Instancia, los cuales dispondrán que se practiquen las diligencias que estimen necesarias para resolver sin sujetarse a las formalidades establecidas para los juicios de su competencia, sino de la manera que consideren bastante para asegurar un fallo justo, y deberán resolver el recurso en un plazo máximo de quince días.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
 
 ###### Art. 438.
 
-Fuera de las sentencias, ninguna otra resolución de los jueces municipales admite recurso alguno, a no ser que haya sido dictada en procedimientos de ejecución, caso en el cual admitirá los recursos que el Título siguiente concede.
+Fuera de las sentencias, ninguna otra resolución de los Jueces Menores admite recurso alguno, a no ser que haya sido dictada en procedimientos de ejecución, caso en el cual admitirá los recursos que el Título siguiente concede.
 
 ###### Art. 439.
 
@@ -3365,11 +3381,11 @@ Sucesiones.
 
 Disposiciones generales.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1968)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
 
 ###### Art. 564.
 
-De todos los juicios sucesorios, cualquiera que sea su cuantía, conocerán los Jueces de Partido. En las sucesiones con capital aparente de menos de $5,000.00 se sujetarán al Capítulo IX, del Título Segundo, del Libro Tercero de este Código.
+De todos los juicios sucesorios, cualquiera que sea su cuantía, conocerán los Jueces de Primera Instancia. En las sucesiones con capital aparente de menos de $5,000.00 se sujetarán al Capítulo IX, del Título Segundo, del Libro Tercero de este Código.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE JUNIO DE 1969)</small>
 
@@ -3403,9 +3419,11 @@ En todos aquellos casos en los que no exista persona que deba desempeñar las fu
 
 De las cantidades recogidas se dispondrá por el Juzgado, de oficio, con audiencia del Ministerio Público, que se hagan los gastos urgentes y de administración, facilitando las cantidades indispensables para pagos de contribuciones y de sueldos o salarios. Lo propio se hará respecto de alimentos.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
+
 ###### Art. 569.
 
-Las medidas de que tratan los artículos 565 a 567 se ordenarán por cualquier juez, aun cuando no sea competente para conocer de la sucesión, y aun tratándose de jueces municipales, respecto de los bienes existentes dentro de su territorio jurisdiccional, comunicando, inmediatamente, al juez que sea competente, las medidas tomadas, enviándole copia íntegra del expediente relativo.
+Las medidas de que tratan los artículos 565 a 567 se ordenarán por cualquier juez, aun cuando no sea competente para conocer de la sucesión, y aún tratándose de Jueces Menores, respecto de los bienes existentes dentro de su territorio jurisdiccional, comunicando, inmediatamente, al juez que sea competente, las medidas tomadas, enviándole copia íntegra del expediente relativo.
 
 ###### Art. 570.
 
@@ -4820,3 +4838,9 @@ El presente decreto entrará en vigor treinta días, después al de su publicaci
 ###### ARTICULO SEGUNDO.
 
 Los recursos de apelación y los términos para su interposición que se encuentren pendientes de resolución y que estén corriendo al entrar en vigor este decreto, se regirán conforme a los plazos y las disposiciones de la Ley anterior.
+
+P.O. 7 DE AGOSTO DE 1987.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
