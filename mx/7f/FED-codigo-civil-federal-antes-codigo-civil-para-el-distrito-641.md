@@ -4,7 +4,7 @@ identifier: "FED-codigo-civil-federal-antes-codigo-civil-para-el-distrito-641"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1996-05-24"
+last_updated: "1996-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=641&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2025-11-14"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MAYO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1996.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -216,11 +216,9 @@ Las personas morales obran y se obligan por medio de los órganos que las repres
 
 Las personas morales se regirán por las leyes correspondientes, por su escritura constitutiva y por sus estatutos.
 
-> <small>(ADICIONADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
 ###### ARTICULO 28 Bis.
 
-Las personas morales extranjeras de naturaleza privada no regidas por otras leyes, solamente podrán establecerse en el territorio de la República, cumpliendo con las disposiciones legales aplicables y previa autorización de la Secretaría de Relaciones Exteriores.
+(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 1996)
 
 ## TITULO TERCERO. Del domicilio
 
@@ -6324,9 +6322,7 @@ ARTICULO 1,243.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SO
 
 > <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)</small>
 
-### CAPITULO II. (sic)
-
-ARTICULO 1,244.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+### CAPITULO II. ARTICULO 1,244.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
 ARTICULO 1,245.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
@@ -6350,9 +6346,7 @@ ARTICULO 1,254.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SO
 
 > <small>(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)</small>
 
-### CAPITULO III. (sic)
-
-ARTICULO 1,255.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
+### CAPITULO III. ARTICULO 1,255.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
 ARTICULO 1,256.- (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY FEDERAL SOBRE EL DERECHO DE AUTOR, D.O.F. 14 DE ENERO DE 1948)
 
@@ -10768,17 +10762,9 @@ En ningún caso el reconocimiento de la capacidad de una persona moral extranjer
 
 Cuando alguna persona extranjera de naturaleza privada actúe por medio de algún representante, se considerará que tal representante, o quien lo substituya, está autorizado para responder a las reclamaciones y demandas que se intenten en contra de dicha persona con motivo de los actos en cuestión.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE ENERO DE 1988)</small>
+ARTICULO 2,737.- (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 1996)
 
-ARTICULO 2,737.- La autorización a que se refiere el artículo 28 Bis no se concederá a menos de que las personas morales extranjeras prueben:
-
-I.- Que están constituídas con arreglo a leyes de su país y que sus estatutos nada contienen que sea contrario a las leyes mexicanas de orden público;
-
-II.- Que tienen representante domiciliado en el lugar en donde van a operar, suficientemente autorizado para responder de las obligaciones que contraigan las mencionadas personas morales.
-
-> <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
-
-ARTICULO 2,738.- Concedida la autorización por la Secretaría de Relaciones Exteriores, se inscribirán en el registro los estatutos de las personas morales extranjeras de naturaleza privada.
+ARTICULO 2,738.- (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 1996)
 
 ### CAPITULO VII. De la aparcería rural
 
@@ -11093,6 +11079,8 @@ ARTICULO 2,849.- Si la fianza se ha otorgado por tiempo indeterminado, tiene der
 ### CAPITULO VI. De la fianza legal o judicial
 
 ARTICULO 2,850.- El fiador que haya de darse por disposición de la ley o de providencia judicial, excepto cuando el fiador sea una institución de crédito, debe tener bienes raíces inscritos en el Registro de la Propiedad y de un valor que garantice suficientemente las obligaciones que contraiga.
+
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de mil pesos no se exigirá que el fiador tenga bienes raíces.
 
@@ -12254,7 +12242,9 @@ ARTICULO 3,071.- En los folios de las personas morales se inscribirán:
 
 I.- Los instrumentos por los que se constituyan, reformen o disuelvan las sociedades y asociaciones civiles y sus estatutos;
 
-II.- Los instrumentos que contengan la protocolización de los estatutos de asociaciones y sociedades extranjeras de carácter civil y de sus reformas, cuando haya comprobado el registrador que existe la autorización a que se refiere el artículo 2736 de este Código; y
+> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+
+II.- Los instrumentos que contengan la protocolización de los estatutos de asociaciones y sociedades extranjeras de carácter civil y de sus reformas, previa autorización en los términos de los artículos 17 y 17 A de la Ley de Inversión Extranjera; y
 
 III.- Las fundaciones y asociaciones de beneficiencia (sic) privada.
 
@@ -12669,3 +12659,9 @@ D.O.F. 24 DE MAYO DE 1996.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 
 CUARTO.- Las reformas previstas en el artículo quinto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE DICIEMBRE DE 1996.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el artículo siguiente.
