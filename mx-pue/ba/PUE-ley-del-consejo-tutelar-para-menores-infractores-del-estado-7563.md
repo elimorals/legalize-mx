@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-consejo-tutelar-para-menores-infractores-del-estado-756
 country: "mx"
 rank: "ley"
 publication_date: "1981-06-12"
-last_updated: "1981-06-12"
+last_updated: "1994-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL CONSEJO TUTELAR PARA MENORES INFRACTORES DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 12 de junio de 1981.
 
@@ -125,9 +125,13 @@ VI.- Imponer las medidas de apremio que, en los términos de esta Ley, sean proc
 
 VII.- Proponer al Consejo las medidas que estime convenientes para el debido cumplimiento de sus objetivos.
 
-VIII.- Dar aviso a la Presidencia del D.I.F. y a la Dirección de Centros de Readaptación Social del Estado, de la iniciación de los casos en que intervenga.
+> <small>(REFORMADA, P.O. 22 DE JULIO 1994)</small>
 
-IX.- Remitir copia certificada de las resoluciones en que se acuerde la aplicación, modificación o cesación de una medida tutelar a la Presidencia del D.I.F. a la Dirección de Centros de Readaptación Social y, en su caso, a la Institución a quien se encomiende la aplicación de la medida.
+VIII.- Dar aviso a la Dirección de Centros de Readaptación Social, de la iniciación de los casos en que intervenga.
+
+> <small>(REFORMADA, P.O. 22 DE JULIO 1994)</small>
+
+IX.- Remitir copia certificada de las resoluciones en que se acuerde la aplicación, modificación, cesación o terminación de una medida cautelar, a la Dirección de Centros de Readaptación Social y, en su caso, a la Institución a que se encomiende la aplicación de la medida.
 
 X.- Visitar los Centros de Observación y Readaptación Social para menores, y solicitar la información pertinente acerca del desarrollo y resultado de las medidas tutelares acordadas.
 
@@ -225,11 +229,15 @@ Las diligencias ordenadas por la autoridad judicial, en las que deban intervenir
 
 Los objetos o instrumentos de la conducta irregular de los menores sujetos a la jurisdicción tutelar, se aplicarán en la forma que determina el Capítulo V, Título Segundo, del Código de Defensa Social.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE JULIO 1994)</small>
+
 ###### ARTICULO 24.
 
-Para hacer cumplir sus determinaciones, el Consejo Tutelar o su Presidente podrán emplear, indistintamente, las siguientes medidas de apremio:
+Para hacer cumplir sus determinaciones, el Consejo Tutelar o su Presidente, podrán aplicar a quien ejerza la patria potestad o la tutela del menor, indistintamente, las siguientes medidas de apremio :
 
-I.- Multa de cincuenta a mil pesos.
+> <small>(REFORMADA, P.O. 22 DE JULIO 1994)</small>
+
+I.- Multa de tres a veinte días de salario mínimo vigente en la Capital del Estado.
 
 II.- Auxilio de la fuerza pública.
 
@@ -341,7 +349,13 @@ La ejecución de las medidas que se hubieren acordado será vigilada por el Cons
 
 El Centro de Observación y Readaptación Social para Menores denominado "Escuela Granja Lic. Adolfo López Mateos ", con sede en la Capital del Estado, albergará a los menores que, por resolución del Consejo Tutelar o sus Delegaciones, requieran la aplicación de técnicas especializadas para su educación, capacitación e integración física, moral y social.
 
-Este Centro, y los demás que con las mismas finalidades se establezcan en la Entidad, dependerán administrativamente del Sistema para el Desarrollo Integral de la Familia y se regirán por los Reglamentos que al efecto expida el Gobernador del Estado.
+> <small>(REFORMADO, P.O. 22 DE JULIO 1994)</small>
+
+Este Centro, y los demás que con las mismas finalidades se establezcan en la Entidad, dependerán administrativamente de la Dirección de Centros de Readaptación Social y se regirán por los Reglamentos que al efecto expida el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO 1994)</small>
+
+Los asuntos educativos de este Centro, serán regulados por la Secretaría de Educación Pública del Estado.
 
 ###### ARTICULO 41.
 
@@ -357,13 +371,27 @@ Los Centros de Observación y Readaptación Social para Menores contarán con un
 
 El Consejo o Delegación que hubiere impuesto una medida tutelar, revisará ésta tomando en consideración los resultados obtenidos mediante el tratamiento aplicado, a fin de ratificar, modificar, substituir o hacer cesar dicha medida, disponiendo en este último caso la libertad incondicional del menor.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO 1994)</small>
+
 ###### ARTICULO 44.
 
-La revisión se practicará de oficio cada seis meses, sin perjuicio de que pueda realizarse en menor tiempo cuando existan circunstancias que lo ameriten, a juicio del Consejo o Delegación, o cuando lo solicite la Presidencia del Sistema para el Desarrollo Integral de la Familia o la Dirección de Centros de Readaptación Social.
+La revisión se practicará de oficio cada seis meses, sin perjuicio de que pueda realizarse en menor tiempo, cuando existan circunstancias que lo ameriten, a juicio del Consejo o Delegación, o cuando lo solicite la Dirección de Centros de Readaptación Social.
 
 ###### ARTICULO 45.
 
 Para los efectos de la revisión, el Presidente del Consejo o el Delegado, en su caso, recabará de quienes tengan a sus cargo el tratamiento del menor, informes sobre el resultado de la medida tutelar impuesta, y los turnará al Consejo o Delegación, para que se resuelva lo procedente.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE JULIO 1994)</small>
+
+### CAPITULO IX. ORGANO DE VIGILANCIA, CONTROL Y EVALUACION DEL CONSEJO
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO 1994)</small>
+
+###### ARTICULO 46.
+
+Para la vigilancia, control y evaluación del Organismo, la Secretaría de la Contraloría General del Estado designará un Comisario Público, que tendrá las atribuciones que a la misma Secretaría le otorgan, la Ley Orgánica de la Administración Pública del Estado, la Ley de Responsabilidades de los Servidores Públicos del Estado y las demás disposiciones legales aplicables.
+
+El Comisario Público, que tendrá un Suplente, asistirá a las Sesiones del Organismo con voz pero sin voto.
 
 T R A N S I T O R I O S
 
@@ -390,3 +418,15 @@ LIC. RAUL CASTILLO RAMIREZ.- D.P. PROFRA. GRACIELA GODINEZ BRAVO.- D.S. PROFR. R
 Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza a los veintiocho días del mes de Mayo de mil novecientos ochenta y uno.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. GUILLERMO JIMENEZ MORALES. EL SECRETARIO GENERAL DE GOBIERNO.- LIC. CARLOS PALAFOX VAZQUEZ.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE JULIO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
