@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1992-01-28"
+last_updated: "1993-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "CPEUM"
 ---
 # CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE MARZO DE 1993 EN EL DIARIO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE MARZO DE 1993.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -48,47 +50,43 @@ En los Estados Unidos Mexicanos todo individuo gozará de las garantías que oto
 
 Está prohibida la esclavitud en los Estados Unidos Mexicanos. Los esclavos del extranjero que entren al territorio nacional, alcanzarán, por ese sólo hecho, su libertad y la protección de las leyes.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1946)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE MARZO DE 1993 EN EL DIARIO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO, D.O.F. 5 DE MARZO DE 1993)</small>
 
 ###### Art. 3o.
 
-La educación que imparta el Estado -Federación, Estados, Municipios- tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
+Todo individuo tiene derecho a recibir educación. El Estado -Federación, Estados y Municipios impartirá educación preescolar, primaria y secundaria. La educación primaria y la secundaria son obligatorias.
 
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 1992)</small>
+La educación que imparta el Estado tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
 
-I.- Garantizada por el artículo 24 la libertad de creencias, dicha educación será laica y, por tanto, se mantendrá por completo ajena a cualquier doctrina religiosa;
+I. Garantizada por el artículo 24 la libertad de creencias, dicha educación será laica y, por tanto, se mantendrá por completo ajena a cualquier doctrina religiosa;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 1992)</small>
+II. El criterio que orientará a esa educación se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios.
 
-II.- El criterio que orientará a esa educación se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios. Además:
+Además:
 
-a).- Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
+a) Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
 
-b).- Será nacional, en cuanto -sin hostilidades ni exclusivismos- atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura, y
+b) Será nacional, en cuanto -sin hostilidades ni exclusivismos- atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura, y
 
-> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1992)</small>
+c) Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos;
 
-c).- Contribuirá a la mejor convivencia humana, tanto por los elementos que aporte a fin de robustecer en el educando, junto con el aprecio para la dignidad de la persona y la integridad de la familia, la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos;
+III. Para dar pleno cumplimiento a lo dispuesto en el segundo párrafo y en la fracción II, el Ejecutivo Federal determinará los planes y programas de estudio de la educación primaria, secundaria y normal para toda la República. Para tales efectos, el Ejecutivo Federal considerará la opinión de los gobiernos de las entidades federativas y de los diversos sectores sociales involucrados en la educación, en los términos que la ley señale;
 
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 1992)</small>
+IV. Toda la educación que el Estado imparta será gratuita;
 
-III.- Los particulares podrán impartir educación en todos sus tipos y grados. Pero por lo que concierne a la educación primaria, secundaria y normal (y a la de cualquier tipo o grado, destinada a obreros y a campesinos) deberán obtener previamente, en cada caso, la autorización expresa del poder público. Dicha autorización podrá ser negada o revocada, sin que contra tales resoluciones proceda juicio o recurso alguno;
+V. Además de impartir la educación preescolar, primaria y secundaria, señaladas en el primer párrafo, el Estado promoverá y atenderá todos los tipos y modalidades educativos -incluyendo la educación superior- necesarios para el desarrollo de la Nación, apoyará la investigación científica y tecnológica, y alentará el fortalecimiento y difusión de nuestra cultura;
 
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 1992)</small>
+VI. Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en planteles particulares. En el caso de la educación primaria, secundaria y normal, los particulares deberán:
 
-IV.- Los planteles particulares dedicados a la educación en los tipos y grados que especifica la fracción anterior, deberán impartir la educación con apego a los mismos fines y criterios que establecen el primer párrafo y la fracción II del presente artículo; además cumplirán los planes y programas oficiales y se ajustarán a lo dispuesto en la fracción anterior;
+a) Impartir la educación con apego a los mismos fines y criterios que establecen el segundo párrafo y la fracción II, así como cumplir los planes y programas a que se refiere la fracción III, y
 
-V.- El Estado podrá retirar discrecionalmente, en cualquier tiempo, el reconocimiento de validez oficial a los estudios hechos en planteles particulares;
+b) Obtener previamente, en cada caso, la autorización expresa del poder público, en los términos que establezca la ley;
 
-VI.- La educación primaria será obligatoria;
+VII. Las universidades y las demás instituciones de educación superior a las que la ley otorgue autonomía, tendrán la facultad y la responsabilidad de gobernarse a sí mismas; realizarán sus fines de educar, investigar y difundir la cultura de acuerdo con los principios de este artículo, respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas; determinarán sus planes y programas; fijarán los términos de ingreso, promoción y permanencia de su personal académico; y administrarán su patrimonio. Las relaciones laborales, tanto del personal académico como del administrativo, se normarán por el apartado A del artículo 123 de esta Constitución, en los términos y con las modalidades que establezca la Ley Federal del Trabajo conforme a las características propias de un trabajo especial, de manera que concuerden con la autonomía, la libertad de cátedra e investigación y los fines de las instituciones a que esta fracción se refiere, y
 
-VII.- Toda la educación que el Estado imparta será gratuita;
-
-> <small>(ADICIONADA, D.O.F. 9 DE JUNIO DE 1980)</small>
-
-VIII.- Las universidades y las demás instituciones de educación superior a las que la Ley otorgue autonomía, tendrán la facultad y la responsabilidad de gobernarse a sí mismas; realizarán sus fines de educar, investigar y difundir la cultura de acuerdo con los principios de este artículo, respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas; determinarán sus planes y programas; fijarán los términos de ingreso, promoción y permanencia de su personal académico; y administrarán su patrimonio. Las relaciones laborales, tanto del personal académico como del administrativo, se normarán por el Apartado A del Artículo 123 de esta Constitución, en los términos y con las modalidades que establezca la Ley Federal del Trabajo conforme a las características propias de un trabajo especial, de manera que concuerden con la autonomía, la libertad de cátedra e investigación y los fines de las instituciones a que esta fracción se refiere;
-
-IX.- El Congreso de la Unión, con el fin de unificar y coordinar la educación en toda la República, expedirá las leyes necesarias, destinadas a distribuir la función social educativa entre la Federación, los Estados y los Municipios, a fijar las aportaciones económicas correspondientes a ese servicio público y a señalar las sanciones aplicables a los funcionarios que no cumplan o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan.
+VIII. El Congreso de la Unión, con el fin de unificar y coordinar la educación en toda la República, expedirá las leyes necesarias, destinadas a distribuir la función social educativa entre la Federación, los Estados y los Municipios, a fijar las aportaciones económicas correspondientes a ese servicio público y a señalar las sanciones aplicables a los funcionarios que no cumplan o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan.
 
 > <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 1992)</small>
 
@@ -566,7 +564,9 @@ II.- La mujer o el varón extranjeros que contraigan matrimonio con varón o con
 
 Son obligaciones de los mexicanos:
 
-I.- Hacer que sus hijos o pupilos, menores de quince años, concurran a las escuelas públicas o privadas, para obtener la educación primaria elemental y militar, durante el tiempo que marque la ley de Instrucción Pública en cada Estado.
+> <small>(REFORMADA, D.O.F. 5 DE MARZO DE 1993)</small>
+
+I.- Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas, para obtener la educación primaria y secundaria, y reciban la militar, en los términos que establezca la ley.
 
 II.- Asistir en los días y horas designados por el Ayuntamiento del lugar en que residan, para recibir instrucción cívica y militar que los mantenga aptos en el ejercicio de los derechos de ciudadano, diestros en el manejo de las armas, y conocedores de la disciplina militar.
 
@@ -2690,7 +2690,7 @@ Todo funcionario público, sin excepción alguna, antes de tomar posesión de su
 
 En tiempo de paz, ninguna autoridad militar puede ejercer más funciones que las que tengan exacta conexión con la disciplina militar. Solamente habrá Comandancias Militares fijas y permanentes en los castillos, fortalezas y almacenes que dependan inmediatamente del Gobierno de la Unión; o en los campamentos, cuarteles o depósitos que, fuera de las poblaciones, estableciere para la estación de las tropas.
 
-(REFORMADO, D.O.F. 28 DE ENERO DE 1992)(REFORMADO, D.O.F. 28 DE ENERO DE 1992)
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 1992)</small>
 
 ###### Art. 130.
 
@@ -3826,7 +3826,7 @@ SEGUNDO.- En tanto no se establezca el servicio del Registro Nacional Ciudadano,
 
 TERCERO.- Los diputados electos a la LIV Legislatura del Congreso de la Unión durarán en sus funciones hasta el 31 de octubre de 1991.
 
-CUARTO.- Los senadores electos por tres años a la LIV Legislatura durarán en su cargo hasta el 31 de octubre de 1991. Los senadores electos por seis años a los LIV y LV Legislaturas del Congreso de la Unión durarán en funciones hasta el 31 de octubre de 1994.
+CUARTO.- Los senadores electos por tres años a la LIV Legislatura durarán en su cargo hasta el 31 de octubre de 1991. Los senadores electos por seis años a las LIV y LV Legislaturas del Congreso de la Unión durarán en funciones hasta el 31 de octubre de 1994.
 
 QUINTO.- La Comisión Permanente se integra con 37 miembros en los términos del Artículo 78 de esta Constitución a partir del primer receso de la LIV Legislatura al H. Congreso de la Unión.
 
@@ -3887,3 +3887,7 @@ DECRETO QUE REFORMA EL ARTICULO 4.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE MARZO DE 1993.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
