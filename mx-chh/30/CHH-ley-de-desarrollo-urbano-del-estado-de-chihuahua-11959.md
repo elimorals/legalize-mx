@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-urbano-del-estado-de-chihuahua-11959"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-18"
-last_updated: "1995-11-18"
+last_updated: "1998-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1529,6 +1529,18 @@ En los centros de población del estado que cuenten con red de hidrantes contra 
 
 Las autorizaciones de fraccionamiento deberán constar en escritura pública.
 
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 1998)</small>
+
+No podrán celebrarse convenios, promesas de venta, compraventa, fideicomiso o cualquier otro contrato, respecto a lotes de fraccionamiento hasta que se encuentre inscrito en el Registro Público de la Propiedad.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 1998)</small>
+
+Los Notarios exigirán como requisito indispensable para autorizar cualquiera de las operaciones señaladas en el párrafo anterior, que se les acredite que han cumplido con la obligación que en el mismo se contiene.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 1998)</small>
+
+Quienes celebren las operaciones mencionadas en infracción de este Artículo cometerán el ilícito de fraude en perjuicio del Ayuntamiento y del comprador.
+
 ###### ARTICULO 127.
 
 El fraccionador podrá solicitar la conexión a la red municipal de agua potable cuando se garantice la suficiencia de este servicio, previo dictamen técnico de la Junta de Agua y Saneamiento correspondiente.
@@ -2456,3 +2468,9 @@ C.P. FRANCISCO JAVIER BARRIO TERRAZAS.
 EL SECRETARIO DE GOBIERNO
 
 LIC. EDUARDO ROMERO RAMOS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE DICIEMBRE DE 1998.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
