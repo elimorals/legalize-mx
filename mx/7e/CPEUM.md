@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1935-01-18"
+last_updated: "1937-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ENERO DE 1935.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE DICIEMBRE DE 1937.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -266,7 +266,13 @@ Las leyes de la Federación y de los Estados en sus respectivas jurisdicciones, 
 
 El ejercicio de las acciones que corresponden a la Nación, por virtud de las disposiciones del presente artículo, se hará efectivo por el procedimiento judicial; pero dentro de este procedimiento y por orden de los tribunales correspondientes, que se dictará en el plazo máximo de un mes, las autoridades administrativas procederán desde luego a la ocupación, administración, remate o venta de las tierras o aguas de que se trate y todas sus accesiones, sin que en ningún caso pueda revocarse lo hecho por las mismas autoridades antes que se dicte sentencia ejecutoriada.
 
-VII.- Los núcleos de población, que de hecho o por derecho guarden el estado comunal, tendrán capacidad para disfrutar en común las tierras, bosques y aguas que les pertenezcan o que se les hayan restituído o restituyeren.
+> <small>(REFORMADA, D.O.F. 6 DE DICIEMBRE DE 1937)</small>
+
+VII.- Los núcleos de población que de hecho o por derecho guarden el estado comunal, tendrán capacidad para disfrutar en común las tierras, bosques y aguas que les pertenezcan o que se les hayan restituido o restituyeren.
+
+Son de jurisdicción federal todas las cuestiones que por límites de terrenos comunales cualquiera que sea el origen de éstos, se hallen pendientes o se susciten entre dos o más núcleos de población. El Ejecutivo Federal se avocará al conocimiento de dichas cuestiones y propondrá a los interesados la resolución definitiva de las mismas. Si estuvieren conformes, la proposición del Ejecutivo tendrá fuerza de resolución definitiva y será irrevocable; en caso contrario, la parte o partes inconformes podrán reclamarla ante la Suprema Corte de Justicia de la Nación, sin perjuicio de la ejecución inmediata de la proposición presidencial.
+
+La ley fijará el procedimiento breve conforme el cual deberán tramitarse las mencionadas controversias.
 
 VIII.- Se declaran nulas:
 
@@ -1911,5 +1917,9 @@ Las deudas pendientes hasta la fecha en que entre en vigor esta reforma, y que h
 Los Estados de Yucatán y Campeche, una vez que entre en vigor esta reforma constitucional, harán entrega a las autoridades de la nueva entidad de los archivos y expedientes que obren en las Oficinas Administrativas y en los Tribunales del lugar.
 
 D.O.F. 18 DE ENERO DE 1935.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 6 DE DICIEMBRE DE 1937.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
