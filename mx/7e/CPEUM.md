@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1969-12-26"
+last_updated: "1971-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1969.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JULIO DE 1971.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -958,7 +958,9 @@ XVI.- Para dictar leyes sobre nacionalidad, condición jurídica de los extranje
 
 3a.- La autoridad sanitaria será ejecutiva y sus disposiciones serán obedecidas por las autoridades administrativas del País.
 
-4a.- Las medidas que el Consejo haya puesto en vigor en la campaña contra el alcoholismo y la venta de substancias que envenenan al individuo y degeneran la raza, serán después revisadas por el Congreso de la Unión, en los casos que le competan.
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 6 DE JULIO DE 1971)</small>
+
+4a.- Las medidas que el Consejo haya puesto en vigor en la Campaña contra el alcoholismo y la venta de sustancias que envenenan al individuo o degeneran la especie humana, así como las adoptadas para prevenir y combatir la contaminación ambiental, serán después revisadas por el Congreso de la Unión en los casos que le competan.
 
 XVII.- Para dictar leyes sobre vías generales de comunicación, y sobre postas y correos, para expedir leyes sobre el uso y aprovechamiento de las aguas de jurisdicción federal.
 
@@ -1036,7 +1038,9 @@ XXX.- Para expedir todas las leyes que sean necesarias, a objeto de hacer efecti
 
 Son facultades exclusivas de la Cámara de Diputados:
 
-I.- Erigirse en Colegio Electoral para ejercer las atribuciones que la ley le señala respecto a la elección de Presidente de la República.
+> <small>(REFORMADA, D.O.F. 6 DE JULIO DE 1971)</small>
+
+I.- Erigirse en Colegio Electoral para ejercer las atribuciones que la Ley le señala respecto a la elección de Presidente de la República. Dicha facultad se ejercerá también respecto de las elecciones de Ayuntamientos en los Territorios, pudiendo suspender y destituir, en su caso, a los miembros de dichos Ayuntamientos y designar sustitutos o juntas municipales, en los términos de las leyes respectivas.
 
 II.- Vigilar por medio de una Comisión de su seno, el exacto desempeño de las funciones de la Contaduría Mayor.
 
@@ -1143,6 +1147,14 @@ VI.- Conceder licencia hasta por treinta días al Presidente de la República y 
 > <small>(ADICIONADA, D.O.F. 21 DE OCTUBRE DE 1966)</small>
 
 VII.- Ratificar los nombramientos que el Presidente de la República haga de ministros, agentes diplomáticos, cónsules generales, empleados superiores de Hacienda, coroneles y demás jefes superiores del Ejército, Armada y Fuerza Aérea Nacionales, en los términos que la ley disponga.
+
+> <small>(ADICIONADA, D.O.F. 6 DE JULIO DE 1971)</small>
+
+VIII.- Suspender provisionalmente a los miembros de los Ayuntamientos de los Territorios y designar sustitutos o juntas municipales, en su caso, en los términos de las leyes respectivas.
+
+> <small>(ADICIONADA, D.O.F. 6 DE JULIO DE 1971)</small>
+
+IX.- Erigirse en Colegio Electoral, durante los recesos de la Cámara de Diputados, para calificar las elecciones municipales extraordinarias que se celebren en los Territorios.
 
 ### CAPITULO III.
 
@@ -2404,7 +2416,7 @@ Dentro de los treinta días siguientes al en que entre en vigor esta reforma con
 
 ###### ARTICULO SEGUNDO.
 
-La Suprema Corte y el Tribunal Superior de Justicia del Distrito y Territorios Federales harán, respectivamente, las designaciones de los funcionarios inamovibles a que se refiere esta ley, dentro del término de treinta días, que se contarán a partir de la fecha en que tales cuerpos judiciales queden constituídos con arreglo al artículo anterior.
+La Suprema Corte y el Tribual Superior de Justicia del Distrito y Territorios Federales harán, respectivamente, las designaciones de los funcionarios inamovibles a que se refiere esta ley, dentro del término de treinta días, que se contarán a partir de la fecha en que tales cuerpos judiciales queden constituídos con arreglo al artículo anterior.
 
 D.O.F. 21 DE ABRIL DE 1945.
 
@@ -2641,3 +2653,15 @@ UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación e
 D.O.F. 26 DE DICIEMBRE DE 1969.
 
 UNICO.- Este Decreto entrará en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 6 DE JULIO DE 1971.
+
+DECRETO QUE REFORMA EL ARTICULO 74 Y ADICIONA EL ARTICULO 79.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 6 DE JULIO DE 1971.
+
+DECRETO QUE ADICIONA LA BASE 4a. DE LA FRACCION XVI DEL ARTICULO 73.
+
+UNICO.- La presente reforma entrará en vigor cinco días después de su publicación en el "Diario Oficial" de la Federación.
