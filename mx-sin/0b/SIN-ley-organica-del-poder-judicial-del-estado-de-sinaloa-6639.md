@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-poder-judicial-del-estado-de-sinaloa-6639"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-10"
-last_updated: "2004-01-02"
+last_updated: "2004-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ENERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 10 de abril de 1995.
 
@@ -1013,9 +1013,11 @@ Los Jueces y Secretarios de los Juzgados no podrán abandonar el lugar de su res
 
 Para la práctica de las visitas de inspección a los Juzgados Menores, fuera del lugar de residencia de los Jueces de Primera Instancia, deberán éstos recabar previamente autorización del Supremo Tribunal de Justicia.
 
-###### ARTICULO 106.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
 
-Los servidores públicos del Poder Judicial del Estado tendrán derecho a dos períodos de vacaciones en el año, de quince días cada uno.
+###### ARTÍCULO 106.
+
+Los servidores públicos del Poder Judicial del Estado tendrán derecho a dos períodos anuales de vacaciones de diez días laborables cada uno, en las fechas que el Pleno del Supremo Tribunal de Justicia señale con anterioridad, de conformidad con lo dispuesto por la fracción XXI del artículo 19 de esta Ley.
 
 ###### ARTICULO 107.
 
@@ -1023,13 +1025,13 @@ Los períodos de vacaciones de los Magistrados y demás servidores públicos del
 
 > <small>(DEROGADO SEGUNDO PARRAFO, P.O. 30 DE JUNIO DE 2000)</small>
 
-###### ARTICULO 108.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2004)</small>
 
-Los servidores públicos de los Juzgados disfrutarán de sus períodos de vacaciones en los meses de julio y diciembre de cada año, en el orden que determine el Juez, de conformidad con lo acordado con el Pleno.
+###### ARTÍCULO 108.
+
+Los servidores públicos de los juzgados disfrutarán de sus períodos de vacaciones en el orden que determine el juez, de conformidad con lo previamente acordado por el Pleno del Supremo Tribunal.
 
 Cuando disfrute de vacaciones el Juez, será sustituido por el Secretario, y si hubiere dos Secretarios por el de menor número. Durante sus períodos de vacaciones los Secretarios serán sustituidos conforme al artículo 61 de esta Ley.
-
-No disfrutarán de vacaciones los Jueces Menores que actúen permanentemente con testigos de asistencia.
 
 ###### ARTICULO 109.
 
@@ -1108,3 +1110,9 @@ P.O. 2 DE ENERO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 5 DE MARZO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
