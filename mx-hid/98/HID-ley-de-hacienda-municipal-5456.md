@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-municipal-5456"
 country: "mx"
 rank: "ley"
 publication_date: "1982-12-31"
-last_updated: "1983-07-04"
+last_updated: "1983-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 1982.
 
@@ -129,9 +129,273 @@ III.- Fuera de los casos anteriores y a falta de disposición expresa, las demá
 
 ## TITULO SEGUNDO. DE LOS IMPUESTOS
 
-### CAPITULO I. IMPUESTO A LOS ESTABLECIMIENTOS DE ENSEÑANZA DE ORGANISMOS DESCENTRALIZADOS Y PARTICULARES
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
-### CAPITULO II. IMPUESTOS SOBRE RIFAS, LOTERIAS Y TODA CLASE DE JUEGOS PERMITIDOS
+### CAPITULO I. DEL IMPUESTO PREDIAL
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 8 A.- Es objeto de este impuesto la propiedad y la posesión de predios urbanos, rústicos, comunales y ejidales, dentro del Territorio del Estado.
+
+El objeto de impuesto predial incluye la propiedad o posesión de las construcciones permanentes en zonas urbanas rústicas y urbanas ejidales o comunales, pero tratándose de predios rústicos solo incluye la propiedad o posesión de las construcciones permanentes que no sean utilizadas directamente por su propio destino a fines agrícolas, ganaderas, forestales o de vigilancia de la heredad.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 8 B.- Son sujetos de este impuesto, los propietarios o poseedores de predios urbanos o rústicos, ubicados dentro del Territorio del Estado, así como los ejidatarios.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 8 C.- Son Responsables solidarios:
+
+I.- El enajenante de bienes inmuebles mediante contrato de compra-venta con reserva de dominio mientras no se trasmita la propiedad.
+
+II.- Los representantes legales de los condominios tratándose de copropietarios regidos por este sistema;
+
+III.- Los representantes legales de sociedad, asociaciones, comunidades y particulares respecto de los predios de sus representados;
+
+IV.- Los fideicomitentes mientras sean poseedores del predio objeto del fideicomiso o de los fideicomisarios que tengan posesión del predio, aún cuando todavía no se les transmita la propiedad;
+
+V.- Los funcionarios, notarios y empleados públicos que autoricen algún acto jurídico, o del trámite a algún documento, sin que haya cubierto el pago de este impuesto;
+
+VI.- Los usufructuarios de bienes inmuebles;
+
+VII.- Los comisariados o representantes ejidales en los términos de la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 8 D.- La Leyes Federales limitarán la facultad de los Estados para establecer las contribuciones a que se refieren los incisos a) y c), ni concederán exenciones en relación con las mismas. Las leyes locales no establecerán exenciones o subsidios respecto de las mencionadas contribuciones, en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Sólo los bienes de dominio público de la federación, de los estados o de los municipios estarán exentos de dicha contribución.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 8 E.- Es base gravable del impuesto:
+
+I.- Tratándose de predios edificados el 60% de su valor catastral;
+
+II.- Tratándose de predios urbanos no edificados el 70% de su valor catastral;
+
+III.- Tratándose de predios edificados que tengan valores provisionales fijados en los últimos tres años, el 100% del valor fiscal provisional en tanto no se haga el avalúo catastral en los términos de la Ley de Catastro;
+
+IV.- Tratándose de predios edificados que no se les hayan fijado valores provisionales en los últimos tres años, el valor fiscal con que aparezcan registrados en los padrones rentísticos del Estado, en tanto no se haga el avalúo catastral en los términos de la Ley de Catastro;
+
+V.- Tratándose de predios no edificados, que tengan valores provisionales fijados en los últimos tres años, el 100% del valor provisional, en tanto no se haga el avalúo catastral en los términos de la Ley de Catastro;
+
+VI.- Tratándose de predios no edificados, que no se les haya fijado valores provisionales en los últimos tres años, el valor fiscal con que aparezcan registrados en los padrones rentísticos del Estado, en tanto no se haga el avalúo catastral del predio en los términos de la Ley de Catastro;
+
+VII.- Tratándose de predios rurales valuados técnicamente por la Dirección de Catastro, el 60% de su valor;
+
+VIII.- Tratándose de predios rurales que tengan valores provisionales fijados en los últimos 5 años, el 100% de estos valores;
+
+IX.- Tratándose de predios rurales que no se les hayan fijado valores provisionales en los últimos 5 años, el 100% de estos valores;
+
+X.- En los casos de predio sujetos al régimen ejidal, el valor fiscal con el que lo haya manifestado el poseedor;
+
+XI.- Tratándose de construcciones en predios ejidales, el 100% de su valor catastral;
+
+XII.- Tratándose de predios de haciendas de beneficiar metales y establecimientos metalúrgicos, sobre las fincas y las construcciones adheridas a ellas, al 100% de su valor catastral aún cuando estén suspendidos los trabajos.
+
+XIII.- Tratándose de predios y edificaciones con fines industriales el 100% de su valor catastral.
+
+Los valores que fijen los propietarios de predios urbanos o rústicos por manifestación expresa o señalada con motivo de operaciones de venta, hipoteca o por cualquier otra que determine un valor distinto al que aparezca en los padrones o registros fiscales, si el nuevo valor es superior al que se encuentra registrado, en estos casos producirá efectos de valor catastral con sus mismas características y términos mientras la Dirección de Catastro no practique nuevo avalúo a los predios.
+
+La base mínima para el pago del Impuesto Predial será de $25,645.00 para los predios urbanos y de $5,129.00 tratándose de predios rurales.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 8 F.- El impuesto predial se continuará causando sobre el valor fiscal en tanto no se practique el avalúo catastral en los términos de la Ley de Catastro, causándose sobre el mismo valor a partir del bimestre siguiente a aquél en que hubiere quedado determinado con arreglo a esa Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 8 G.- El Impuesto Predial se causará por cada fracción de las previstas en el Artículo 15 de ésta Ley, conforme a las siguientes tasas:
+
+a).- Fracción I, VII y XIII al 0.9% anual;
+
+b).- Fracción II al 1.0% anual;
+
+c).- Fracciones III y VIII al 1.5% anual;
+
+d).- Fracciones IV y IX al 2.5% anual;
+
+e).- Fracción V al 2.5% anual;
+
+f).- Fracción VI al 3.0% anual,
+
+g).- Fracción X Sin que exceda del 5% del valor productivo o del cultivo, en los términos previstos en el Artículo 106 de la Ley Federal de la Reforma Agraria;.
+
+h).- Fracción XI al 1.5% anual;
+
+i).- Fracción XII al 1.5% anual.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 8 H.- La cuota del impuesto será anual, pero su importe se pagará bimestralmente durante los meses de enero, marzo, mayo, julio, septiembre y noviembre. Sin embargo el pago podrá hacerse por anualidades anticipadas durante el mes de enero de cada ejercicio, en este caso se gozará del descuento que se determine en la Ley de Ingresos correspondiente a ese ejercicio fiscal.
+
+La cuota del impuesto tratándose de predios ejidales se pagará en una sola exhibición durante el tiempo de la cosecha.
+
+Cuando se hayan establecido bases provisionales para determinar el monto del impuesto, al aplicar la base definitiva. Se cobrarán o reintegrarán las diferencias que resulten.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 8 I.- El pago de este impuesto deberá efectuarse en la oficina rentística de la demarcación correspondiente o donde en su caso lo disponga esta Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 8 J.- El Código Fiscal Municipal, afectará a los predios directamente quien quiera que sea el propietario o poseedor, hecho excepción de los predios ejidales o comunales, en los cuales se hará efectivo el Procedimiento Administrativo de Ejecución exclusivamente sobre los frutos o productos de los mismos.
+
+No quedan comprendidas en esta disposición las multas que se impongan cuando se incurra en infracciones al presente capitulo, pues dichas sanciones se consideran personales, para todos los efectos legales.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 8 K.- Los notarios públicos para autorizar en forma definitiva las escrituras en las que se hagan constar, convenios, resoluciones administrativas y judiciales, cuyo objeto sean predios ubicados en el Estado deberán exigir la constancia de estar al corriente en el pago de este impuesto para cuyo efecto deberán solicitar un certificado de no adeudo y la última boleta de pago o recibo correspondiente.
+
+Los notarios deberán dar aviso a las autoridades fiscales cuando los predios de que se trate reporten adeudos fiscales por conceptos distintos del impuesto predial.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 8 L.- En los casos de predios no catastrados o no registrados en la Dirección de Catastro, se hará el recobro de 5 años a la fecha del descubrimiento del predio y la cuota se aplicará de acuerdo con lo dispuesto en el Capitulo V del presente Titulo.
+
+En el caso de construcciones, si no se pudiera fijar con precisión la fecha desde la cual se omitió manifestarles se hará el recobro del impuesto correspondiente a los 5 años anteriores la fecha del descubrimiento de la ocultación salvo que el interesado pruebe que la omisión data de fecha posterior.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 8 M.- Las manifestaciones y avisos de los particulares y notarios que exija esta Ley, y los ordenamientos relativos para efecto de este impuesto, deberán hacerse en las formas que apruebe la Tesorería Municipal.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 8 N.- Las personas obligadas a presentar esas manifestaciones y avisos, deberán acompañar los documentos o planos que se exijan.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+Artículo 8 O.- Están obligados al pago del impuesto sobre traslación de dominio y otras operaciones con bienes inmuebles, las personas físicas o morales que adquieran inmuebles que consistan en el suelo o en suelo y las construcciones adheridas a él, ubicados en Territorio del Estado, así como los derechos relacionados con los mismos, a que esta ley se refiere.
+
+Para los efectos de esta Ley, se entiende por traslación de dominio la que derive de:
+
+I.- Todo acto por el que se trasmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades;
+
+II.- La compra-venta en la que el vendedor se reserve la propiedad, aún cuando la trasferencia de ésta opere con posterioridad;
+
+III.- La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el predio de la venta o parte de él, antes de que se celebre el contrato prometido;
+
+IV.- La sesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III que antecede (sic) respectivamente;
+
+V.- Fusión de Sociedades;
+
+VI.- La dación en pago y la liquidación reducción de capital, pago de especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles;
+
+VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal;
+
+VIII.- Prescripción positiva;
+
+IX.- La cesión de derechos del heredero o legatario, cuando entre los bienes de la sucesión haya inmuebles, es la parte relativa y en proporción a éstos;
+
+X.- Enajenación a través de fideicomiso, en los términos del Código Fiscal de la Federación.
+
+En las permutas se considerará que se efectúan dos adquisiciones.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 8 P.- La base del impuesto se calculará aplicando la tasa, que establece el presente título, al valor del inmueble, después de reducirlo en cinco veces al salario mínimo general, elevado al año, de la zona económica a que corresponda al Estado de Hidalgo.
+
+Será base gravable de este Impuesto:
+
+I.- El valor del inmueble determinado mediante avalúo que a solicitud de los interesados practique la Dirección de Catastro o alguna Institución especializada;
+
+II.- El precio o valor del inmueble señalado en el acto traslativo de dominio, si es mayor al del avalúo a que se refiere la fracción anterior.
+
+En caso de existir diferencias entre el valor catastral, de avalúo, contractual o comercial, la base para el pago del impuesto será el mayor de tales valores.
+
+El valor del inmueble que se considerará para los efectos de este artículo, será la cantidad que resulte de aplicar el precio pactado el factor que anualmente establezca el Congreso del Estado, conforme al número de años transcurrido entre la fecha de adquisición y la fecha en que sea exigible el pago. Las autoridades fiscales estarán facultadas para practicar, ordenar o tomar en cuenta el avalúo del inmueble, referido a la fecha de adquisición y cuando el valor que resulte de dicho avalúo, exceda en mas de un 10% del precio pactado, éste no se tomará en cuenta y el impuesto se calculará sobre el valor de avalúo, determinándose las diferencias de Impuestos que resulten.
+
+Cuando con motivo de la adquisición, el adquiriente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
+
+Cuando no se pacte precio, el impuesto se calculará con base en el avalúo que practique persona autorizada por la Tesorería Municipal. En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino del avalúo a que se refiere este párrafo.
+
+Para los fines de esta Ley, se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos del 50% del valor de la propiedad.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 8 Q.- La reducción a que se refiere el artículo que antecede, se realizará conforme a lo siguiente:
+
+I.- Se considerará como un sólo inmueble, los bienes que sean o resulten colindantes adquiridos por la misma persona en un período de 24 meses.
+
+De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El adquiriente deberá manifestar, bajo protesta de decir verdad, el fedatario ante quien se formalice toda adquisición si el predio objeto de la operación colinda con otro que hubiere adquirido con anterioridad, para que se ajuste el monto de la reducción y pagará en su caso las diferencias del impuesto que corresponda. Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte;
+
+II.- Cuando se adquiera parte de la propiedad o de los derechos de un inmueble, a que se refiere el artículo 25 de esta Ley, la reducción se hará en la proporción que corresponda a dicha parte;
+
+III.- Tratándose del usufructo o de la nuda propiedad únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos; y
+
+IV.- No se consideran departamentos habitacionales los que por sus características originales, se destinen a servicios domésticos, por teoría (sic) o guarda de vehículos, aún cuando se utilicen para otros fines.
+
+Cuando del Inmueble formen parte departamentos habitacionales, la reducción se hará por cada uno de ellos. Lo dispuesto en este párrafo no es aplicable a hoteles.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 8 R.- El impuesto sobre traslación de dominio y otras operaciones con bienes inmuebles, se causará y pagará aplicando la tasa general del 10% incluidos el efecto del impuesto adicional.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 8 S.- Los sujetos de este impuesto presentarán en la Tesorería Municipal una declaración por quintuplicados que contendrá:
+
+I.- Nombre y domicilio de los contratantes o del adquiriente en su caso;
+
+II.- Fecha en que se extendió la escritura pública o de la celebración del contrato privado o de la resolución judicial y en este último caso, fecha en que se causó ejecutoria;
+
+III.- Nombre del notario ante quien se haya otorgado la escritura, mención de que se trate de contrato privado o indicación de que el juzgado dictó la resolución;
+
+IV.- Naturaleza del acto o concepto de la adquisición;
+
+V.- Publicación, nomenclatura, superficie y linderos del predio;
+
+VI.- Antecedentes de propiedad del inmueble en el Registro Público de la Propiedad;
+
+VII.- Valor gravable que se haya determinado por la institución que hubiere efectuado el avalúo y la fecha de éste;
+
+VIII.- Número de la cuenta del impuesto predial del inmueble;
+
+IX.- Liquidación del impuesto;
+
+X.- Los demás datos que exija la forma oficial en que deberá hacerse las liquidaciones.
+
+Cuando se trate de divisiones de la casa común y disolución de la sociedad conyugal, a la declaración se acompañará una copia de la escritura o del contrato privado en su caso.
+
+Si el acto o contrato traslativo de dominio se hace constar en escritura pública otorgada en el Estado, la declaración será firmada por el Notario o por cualquier interesado. En este último caso el Notario certificará en la declaración, la veracidad de los datos que contenga, o se acompañará testimonio de la escritura.
+
+Si se trata de actos o contratos que se hagan constar en escrituras públicas otorgadas fuera del Estado, la declaración será firmada por cualquier interesado y a ella se acompañará testimonio de la escritura.
+
+Cuando se trate de actos o contratos que se hagan constar en documentos privados, la declaración será firmada por cualquier interesado y a ella deberá acompañar un ejemplar de dicho documento.
+
+En los casos en que la transmisión de la propiedad se operen como consecuencia de una resolución judicial, el causante firmará la declaración y acompañará copia certificada de la resolución respectiva, con la constancia de la fecha en que causa ejecutoria.
+
+La declaración deberá acompañarse, además de lo señalado en los párrafos anteriores, una constancia que expida la Tesorería Municipal, en el mismo bimestre del calendario en que se presente dicha declaración o en el bimestre anterior, de que el propietario del inmueble objeto del traslado de dominio no tiene ningún adeudo en relación con ese propio inmueble, por concepto de impuestos, derechos o multas que graven los bienes inmuebles en los términos de esta Ley o de otras Leyes de carácter local.
+
+Las declaraciones a que se refiere este artículo se harán en las formas oficiales que apruebe la Tesorería Municipal y se presentarán dentro de un plazo de 20 días hábiles contados:
+
+a).- A partir de la fecha de la autorización preventiva de la escritura pública o de la fecha del contrato privado en su caso;
+
+b).- Cuando se trate de cesión de derechos hereditarios, efectuados antes de que se haga la adjudicación de bienes en el juicio sucesorio, a partir de la fecha de adjudicación;
+
+c).- Tratándose de compra-venta con reserva de dominio o cualesquiera otros contratos traslativos de dominio sujetos a donación suspensiva, a partir de la fecha de autorización preventiva de la escritura pública en que se haga constar el cumplimiento de la condición para que la transmisión opere, o de la fecha del documento privado en que se exprese dicha constancia;
+
+d).- Tratándose de la adquisición de la propiedad de bienes inmuebles en virtud de prescripción o de remate, judicial o administrativo, el plazo será de sesenta días contados a partir de la fecha en que hubiera causado ejecutoria la resolución judicial respectiva, si se trata de prescripción o de la fecha en que se hubiere quedado firme el auto que fincó el remate;
+
+e).- En los casos de dominio, como consecuencia de sentencias judiciales, el término será de sesenta días contados a partir de la fecha en que dicha sentencia hubiera causado ejecutoria.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 8 T.- El pago del impuesto deberá hacerse dentro del mes siguiente a aquel en que se realice cualquiera de los supuestos que a continuación se señalan:
+
+I.- Cuando se constituya o adquiera el usufructo o la nulidad. En el caso de usufructo temporal, cuando se extinga;
+
+II.- A la adjudicación de los bienes de la sucesión o a los tres años de la muerte del autor de la misma si transcurrido dicho plazo no se hubiere llevado a cabo la adjudicación así como al cederse los derechos hereditarios o al enajenarse bienes por la sucesión. En estos dos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento que se realice la sesión o la enajenación, independientemente del que se cause por el cesionario o por el adquiriente;
+
+III.- Tratándose de adquisiciones efectuadas a través de fideicomisos, cuando se realicen los supuestos de la enajenación, en los términos del Código Fiscal de la Federación;
+
+IV.- Al protocolizarse o inscribirse el reconocimiento judicial de la prescripción positiva;
+
+V.- En los no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escrituras públicas o se inscriban en el Registro Público de la Propiedad, para poder surtir efectos ante terceros en los términos del derecho común, y si no están sujetos a ésta formalidad, al adquirirse el dominio conforme a las Leyes.
+
+El contribuyente podrá pagar el impuesto por anticipado.
+
+### CAPITULO II. IMPUESTO A LOS ESTABLECIMIENTOS DE ENSEÑANZA DE ORGANISMOS DESCENTRALIZADOS Y PARTICULARES
 
 ###### ARTICULO 9o.
 
@@ -149,7 +413,7 @@ La tasa de este Impuesto será la señalada por el Anexo anual de cuotas y tarif
 
 Los Ayuntamientos quedan facultados para celebrar convenios a cuota fija con los causantes de este Impuesto.
 
-### CAPITULO III. IMPUESTO SOBRE DIVERSIONES, ESPECTACULOS PUBLICOS, APARATOS MECANICOS Y FONOELECTROMECANICOS ACCIONADOS POR MONEDAS O FICHAS
+### CAPITULO III. IMPUESTOS SOBRE RIFAS, LOTERIAS Y TODA CLASE DE JUEGOS PERMITIDOS
 
 ###### ARTICULO 13.
 
@@ -171,7 +435,7 @@ El pago de este Impuesto deberá realizarse mensualmente ante la Tesorería Muni
 
 Las cuotas del impuesto serán las señaladas en el anexo anual de cuotas y tarifas de esta Ley para cada Municipio.
 
-### CAPITULO IV. DEL IMPUESTO SOBRE COMERCIANTES AMBULANTES
+### CAPITULO IV. IMPUESTO SOBRE DIVERSIONES, ESPECTACULOS PUBLICOS, APARATOS MECANICOS Y FONOELECTROMECANICOS ACCIONADOS POR MONEDAS O FICHAS
 
 ###### ARTICULO 18.
 
@@ -201,7 +465,7 @@ Las cantidades que se paguen por el derecho de reservar localidades en las diver
 
 Las personas que deban pagar sobre el valor de los boletos vendidos o entrada global, están obligados a presentar oportunamente en la Tesorería Municipal el boletaje numerado para que se tome a razón y sea autorizado, asimismo en los casos en los que los causantes usen sistemas mecánicos para la venta o control de dichos boletos, deberán permitir la inspección de la máquina a los inspectores o interventores nombrados por las Tesorerías Municipales.
 
-### CAPITULO V. COMPRA VENTA DE GANADO Y AVES
+### CAPITULO V. DEL IMPUESTO SOBRE COMERCIANTES AMBULANTES
 
 ###### ARTICULO 25.
 
@@ -233,7 +497,7 @@ Este impuesto se causará y pagará en los términos del anexo anual de cuotas y
 
 Se suspende el cobro del impuesto que causan los ingresos que se obtengan por la realización de las actividades que señala el artículo 27 del presente capítulo, en tanto se encuentre (sic) en vigor los Convenios de Adhesión al Sistema Nacional de Coordinación Fiscal y sus anexos y de Colaboración Administrativa en materia fiscal Federal y sus anexos, suscritos por el Gobierno Federal y el Estado de Hidalgo.
 
-### CAPITULO VI. SOBRE USO DE AGUA DE POZOS ARTESIANOS
+### CAPITULO VI. COMPRA VENTA DE GANADO Y AVES
 
 ###### ARTICULO 31.
 
@@ -267,7 +531,7 @@ Los comerciantes ambulantes, tanto de mercancía como de ganado y aves que en fo
 
 Se suspende el cobro del impuesto que causan los ingresos que se obtengan por las operaciones que señala el presente capítulo hasta en tanto se encuentre (sic) en vigor los Convenios de Adhesión al Sistema Nacional de Coordinación Fiscal y sus Anexos y de Colaboración Administrativa en Materia Fiscal Federal y anexos, celebrados entre la Federación y el Estado.
 
-### CAPITULO VII. DEL IMPUESTO SOBRE INGRESOS OBTENIDOS EN LOS ESTABLECIMIENTOS QUE LIMITATIVAMENTE SE ENUMERAN A CONTINUACION
+### CAPITULO VII. SOBRE USO DE AGUA DE POZOS ARTESIANOS
 
 ###### ARTICULO 39.
 
@@ -297,7 +561,7 @@ Los sujetos de este impuesto lo cubrirán en la Tesorería Municipal correspondi
 
 Se suspende el cobro de este impuesto en tanto se encuentra (sic) en vigor los Convenios de Adhesión al Sistema Nacional de Coordinación Fiscal y sus anexos, y de Colaboración Administrativa en Materia Fiscal Federal y sus anexos celebrados entre la Federación y el Estado de Hidalgo.
 
-### CAPITULO I. POR SERVICIO PUBLICO
+### CAPITULO VIII. DEL IMPUESTO SOBRE INGRESOS OBTENIDOS EN LOS ESTABLECIMIENTOS QUE LIMITATIVAMENTE SE ENUMERAN A CONTINUACION
 
 ###### ARTICULO 46.
 
@@ -353,7 +617,7 @@ Se suspende el cobro del impuesto que causa la venta del producto enumerado en l
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
-### CAPITULO SEGUNDO. DERECHO POR REGISTRO
+### CAPITULO I. POR SERVICIO PUBLICO
 
 ###### ARTICULO 52.
 
@@ -487,7 +751,7 @@ Este derecho se causará y pagará de acuerdo con la tarifa del anexo anual de c
 
 #### SECCION SEGUNDA. DERECHOS POR SERVICIOS DE CERTIFICACIONES LEGALIZACIONES Y EXPEDICION DE COPIAS CERTIFICADAS
 
-### CAPITULO TERCERO. DERECHOS POR AUTORIZACION Y LICENCIAS DIVERSAS
+### CAPITULO SEGUNDO. DERECHO POR REGISTRO
 
 #### SECCION TERCERA. DERECHOS POR SERVICIOS DE REGISTRO ANUAL DE ESTABLECIMIENTOS COMERCIALES E INDUSTRIALES
 
@@ -507,7 +771,7 @@ El pago de los derechos que establece este capítulo y que dispensa el artículo
 
 #### SECCION CUARTA. DERECHOS POR SERVICIO DE REGISTRO DE MOTOCICLETAS, BICICLETAS Y VEHICULOS DE PROPULSION NO MECANICA Y OTROS SERVICIOS DE TRANSITO
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 82.
 
@@ -551,13 +815,13 @@ Este derecho se causará y pagará de acuerdo con la tarifa del anexo anual de c
 
 ###### ARTICULO 88.
 
-Es objeto de este derecho el servicio de canje de placas de motocicletas, bicicletas particulares, de alquiler para carro de mano de primera, de tracción animal, expedición de licencias para conducir toda clase de vehículos de motor, duplicado, y canje de las mismas, permisos provisionales para conducir vehículos de motor, revista anual de vehículos de motor y permiso para circular sin placas.
+Es objeto de este derecho el servicio de expedición de licencias y canje de placas de circulación, de motocicletas, bicicletas particulares, de alquiler para carro de mano de primera, de tracción animal; expedición de licencias para conducir toda clase de vehículos de motor y canje de las mismas.
 
-> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 89.
 
-Son sujetos del pago de derecho por el servicio de registro y canje de placas, todas las personas físicas morales o económicas que ostentan la propiedad o posesión de motocicletas, bicicletas particulares, de alquiler, para carro de mano de primera, de tracción animal, expedición de licencias para conducir toda clase de vehículos de motor, duplicado y canje de las mismas, permisos provisionales para conducir toda clase de vehículos de motor y permisos para circular sin placas.
+Son sujetos del pago del derecho por el servicio de expedición de licencias y canje de placas. Todas las personas físicas, morales o unidades económicas que obstenta la propiedad o posesión de motocicletas, bicicletas particulares, de alquiler, para carro de mano de primera, de tracción animal y expedición de licencias para conducir toda clase de vehículos de motor.
 
 > <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL ARTICULO CUARTO INCISO C) DEL DECRETO NUMERO 120 POR EL CUAL SE SUSPENDE EN LA LEGISLACION FISCAL DEL ESTADO Y SUS MUNICIPIOS EL COBRO DE ALGUNOS DERECHOS PARA AJUSTARLOS A LO DISPUESTO EN MATERIA DE COORDINACION FISCAL, P.O. 4 DE JULIO DE 1983.</small>
 
@@ -585,7 +849,7 @@ Son sujetos de pago de derechos por servicio de Registro, refrendo o revisión p
 
 Este derecho se causará y pagará de acuerdo con la tarifa del anexo anual de cuotas y tarifas de esta Ley para cada Municipio.
 
-### CAPITULO CUARTO. DE LOS SERVICIOS DE VIGILANCIA
+### CAPITULO TERCERO. DERECHOS POR AUTORIZACION Y LICENCIAS DIVERSAS
 
 #### SECCION TERCERA. DERECHOS POR AUTORIZACION DEL FUNCIONAMIENTO DE APARATOS MECANICOS, ELECTROMECANICOS Y FONOELECTROMECANICOS ACCIONADOS POR MONEDAS O FICHAS
 
@@ -915,7 +1179,7 @@ Es objeto de este derecho la autorización para ocupar la vía pública como est
 
 Este derecho se causará y pagará de acuerdo a la tarifa del anexo anual de cuotas y tarifas de esta Ley para cada Municipio.
 
-### CAPITULO V. DERECHO ESPECIAL PARA OBRAS POR COOPERACION
+### CAPITULO CUARTO. DE LOS SERVICIOS DE VIGILANCIA
 
 ###### ARTICULO 137.
 
@@ -1025,7 +1289,7 @@ Los propietarios o poseedores de los predios o establecimientos comerciales ubic
 
 Consecuentemente en el caso de incumplimiento, se les aplicarán las Leyes impositivas declarándose supletorio el procedimiento Administrativo de Ejecución que establece el Código Fiscal del Estado en su artículo.
 
-### CAPITULO I
+### CAPITULO V. DERECHO ESPECIAL PARA OBRAS POR COOPERACION
 
 ###### ARTICULO 149.
 
@@ -1185,6 +1449,14 @@ Si al terminarse las obras resultaren excedentes en la recaudación de la contri
 
 Los notarios, corredores y funcionarios autorizados para dar fe pública, no autorizarán ningún contrato de compra-venta, cesión y cualquier otro que tenga por objeto la enajenación de bienes inmuebles, si no se les demuestra que se está al corriente en el pago de las contribuciones que establece este capítulo.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 170 A.- Se suspende el cobro de los derechos señalados en los artículos 77; 78; 85; 86; 87; 91; 92; 93; 94; 95; 96; 97; 98; 99; 100; 101; 102; 103; 104; 105; 106; 107; 108; 109; 110; 112; 113; 114; 115; 116; 131; 132; 133; 134; 135; 136; 137; 138; 139; 140; 141; 142; 143; 144; 145; 146; 147 y 148; en tanto se encuentre en vigor el Convenio que suspende en la Legislación Fiscal del Estado y sus Municipios el cobro de algunos Derechos para ajustarlos a lo dispuesto en materia de Coordinación Fiscal.
+
+> <small>(ADICIONADO; P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+ARTICULO 170 B.- Para que el Estado y sus Municipios puedan efectuar el cobro de los derechos que señalan los rubros de los artículos 117; 118; 119; 120; 121; 122; 123; 124; 125; 126; 127; 128; 129 y 130 de la Ley de Hacienda de los Municipios, se modifica la palabra autorización, para quedar "LICENCIAS PARA LA CONSTRUCCION DE".
+
 ## TITULO CUARTO. DE LOS PRODUCTOS
 
 ###### ARTICULO 171.
@@ -1218,6 +1490,8 @@ VI.- Establecimientos y empresas del Municipio.
 El importe de los productos señalados en el artículo anterior, será fijado por los Ayuntamientos.
 
 ## TITULO QUINTO. DE LOS APROVECHAMIENTOS
+
+### CAPITULO I
 
 ###### ARTICULO 173.
 
@@ -1304,3 +1578,17 @@ El Gobernador Constitucional del Estado.- ARQ. GUILLERMO ROSSELL DE LA LAMA.- Se
 P.O. 4 DE JULIO DE 1983.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1983.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el 1° de Enero de 1984.
+
+###### ARTICULO SEGUNDO.
+
+Deberá ordenarse la publicación de este Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a la presente Ley.
