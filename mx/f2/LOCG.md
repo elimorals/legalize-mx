@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "1999-09-03"
+last_updated: "1999-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 3 de septiembre de 1999.
 
@@ -1736,7 +1736,9 @@ IV). En la última sesión del mes de septiembre de 1999 se elegirá una Mesa Di
 
 V). En la última sesión del mes de octubre de 1999, la Cámara de Senadores procederá a elegir la Mesa Directiva a que se refiere el Título Tercero de la Ley materia del presente Decreto.
 
-VI). Los artículos 112, 113 y 114 de la Ley materia del presente Decreto entrarán en vigor el 1 de septiembre de 2000.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+
+VI). Los artículos 112 y 113 de la Ley materia del presente Decreto, entrarán en vigor el 1 de enero del año 2000. El artículo 114 de esta Ley Orgánica, lo hará a partir del 1 de septiembre del mismo año.
 
 VII). El Senado podrá designar de entre los funcionarios que ya presten sus servicios, a los que deban ocupar los puestos de nueva creación, hasta el final de la LVII Legislatura. Las designaciones definitivas de funcionarios se harán a partir del inicio de las tareas de la LVIII Legislatura.
 
@@ -1755,3 +1757,9 @@ Los grupos parlamentarios continuarán funcionando como están conformados en la
 Se abroga la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 25 de mayo de 1979, y sus reformas y adiciones, publicadas en el mismo medio, de fechas 28 de diciembre de 1981 y 20 de julio de 1994.
 
 México, D.F., a 31 de agosto de 1999.- Sen. Ignacio Vázquez Torres, Presidente.- Dip. Victorio Montalvo Rojas, Presidente.- Sen. Hugo Andrés Araujo de la Torre, Secretario.- Dip. Ma. del Carmen Moreno Contreras, Secretario.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 31 DE DICIEMBRE DE 1999.
+
+ÚNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
