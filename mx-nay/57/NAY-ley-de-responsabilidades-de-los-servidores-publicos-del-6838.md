@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-responsabilidades-de-los-servidores-publicos-del-6838"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-01"
-last_updated: "1984-09-12"
+last_updated: "1991-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1991.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 1 de Febrero de 1984.
 
@@ -257,11 +257,11 @@ PROCEDIMIENTO PARA LA DECLARACION DE PROCEDENCIA.
 
 Cuando se presente denuncia o querella por particulares o a pedimento expreso del Procurador General de Justicia, en contra de algunos de los servidores públicos que se encuentren investidos de fuero constitucional a que se refiere el artículo 123 de la Constitución Política del Estado, por la comisión de hechos delictuosos, se actuará en lo pertinente de conformidad con el procedimiento establecido para el Juicio Político.
 
-En este caso, la Sección Instructora practicará todas las diligencias conducentes a establecer la existencia del delito y la probable responsabilidad del inculpado, así como .la subsistencia del fuero constitucional cuya remoción se solicita. Concluida esta averiguación, la Sección dictaminará sobre si ha lugar a proceder penalmente en contra del inculpado.
+En este caso, la Sección Instructora practicará todas las diligencias conducentes a establecer la existencia del delito y la probable responsabilidad del inculpado, así como la subsistencia del fuero constitucional cuya remoción se solicita. Concluida esta averiguación, la Sección dictaminará sobre si ha lugar a proceder penalmente en contra del inculpado.
 
 Si a juicio de la Sección, la imputación fuese notoriamente improcedente, lo hará saber de inmediato al Congreso para que éste resuelva si se continúa o deshecha, sin perjuicio de reanudar el procedimiento si posteriormente aparecen motivos que lo justifiquen.
 
-Para los efectos del primer párrafo de este artículo, la comisión que integra la Sección Instructora, deberá rendir su dictamen en un plazo de sesenta días hábiles, salvo que fuese necesario disponer de más tiempo, a criterio de la Sección. En este caso, se observarán las normas acerca de la ampliación de plazos para la recepción de pruebas en el procedimiento referente al juicio Político.
+Para los efectos del primer párrafo de este artículo, la comisión que integra la Sección Instructora, deberá rendir su dictamen en un plazo de sesenta días hábiles, salvo que fuese necesario disponer de más tiempo, a criterio de la Sección. En este caso, se observarán las normas acerca de la ampliación de plazos para la recepción de pruebas en el procedimiento referente al juicio político.
 
 ###### ARTICULO 31.
 
@@ -425,9 +425,17 @@ XIX.- Atender con diligencia las instrucciones, requerimientos y resoluciones qu
 
 XX.- Informar al Superior Jerárquico de todo acto u omisión de los servidores públicos sujetos a su dirección, que pueda implicar inobservancia de las obligaciones a que se refieren las fracciones de este artículo, y en los términos de las normas que al efecto se expidan.
 
-XXI.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público; y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 1991)</small>
 
-XXII.- Las demás que le impongan las Leyes y Reglamentos.
+XXI.- Atender oportunamente las solicitudes que presente la institución a la que legalmente compete la vigilancia y respeto de los derechos humanos en el Estado de Nayarit, y proporcionar con veracidad la información y datos que permitan el cumplimiento de las facultades y atribuciones que correspondan a dicho organismo.
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 1991)</small>
+
+XXII.- Abstenerse de cualquier acto y omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público; y
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 1991)</small>
+
+XXIII.- Las demás que le impongan las Leyes y Reglamentos.
 
 ###### ARTICULO 55.
 
@@ -711,36 +719,6 @@ Cuando los servidores públicos reciban obsequios, donativos o beneficios en gen
 
 TRANSITORIOS :
 
-Artículo Primero.- Se abroga el Decreto número 1367 publicado en el Periódico Oficial, Organo del Gobierno del Estado, en el Tomo XXXVIII, número 21 de fecha 11 de Septiembre de 1935.
-
-Artículo Segundo.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-D A D O en la Sala de Sesiones "Benito Juárez" del H. Congreso del Estado Libre y Soberano de Nayarit, en Tepic, su Capital, a los treinta y un días del mes de Enero de mil novecientos ochenta y cuatro.
-
-Dip. Presidente,
-
-Lic. Javier R. Carrillo Casas.
-
-Dip. Primer Secretario,
-
-J. Elías Rodríguez Bañuelos
-
-Dip. Segundo Secretario,
-
-Victoria del Hoyo Rentería
-
-Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic, su Capital, a los treinta y un días del mes de enero de mil novecientos ochenta y cuatro.
-
-El Secretario Gral. de Gobierno.
-
-JOSÉ FÉLIX TORRES HARO.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-P.O. 12 DE SEPTIEMBRE DE 1984.
-
-UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno (sic) Estado.
-
 ###### ARTÍCULO PRIMERO.
 
 Se abroga el Decreto número 1367 publicado en el Periódico Oficial, Organo del Gobierno del Estado, en el Tomo XXXVIII, número 21 de fecha 11 de Septiembre de 1935.
@@ -768,3 +746,13 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 El Secretario Gral. de Gobierno.
 
 JOSÉ FÉLIX TORRES HARO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE SEPTIEMBRE DE 1984.
+
+UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno (sic) Estado.
+
+P.O. 10 DE JULIO DE 1991.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Nayarit.
