@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-patronato-jose-clemente-orozco-37434"
 country: "mx"
 rank: "ley"
 publication_date: "1952-12-30"
-last_updated: "1952-12-30"
+last_updated: "1992-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DEL PATRONATO JOSÉ CLEMENTE OROZCO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 14784, PUBLICADO EN EL P.O. DE 3 DE SEPTIEMBRE DE 1992, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 1992 (DEROGADA).
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1952.
 
@@ -152,3 +154,13 @@ El Sub-Srio. de Gobierno,
 Enc. del Despacho,
 
 Lic. Miguel Rábago Cornejo.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE SEPTIEMBRE DE 1992.
+
+Artículo Primero. Se deroga el Decreto 5830 que contiene la Ley del Patronato José Clemente Orozco, y el Acuerdo del Ejecutivo del Estado, de fecha 18 de abril de 1959, mediante el cual se crea la Comisión Técnica para la Defensa de la obora (sic) de José Clemente Orozco.
+
+Artículo Segundo. El Instituto Cultural Cabañas se subroga en los Derechos y obligaciones del "Patronato José Clemente Orozco", incluyendo las relaciones con sus servidores públicos.
+
+Artículo Tercero. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial El Estado de Jalisco.
