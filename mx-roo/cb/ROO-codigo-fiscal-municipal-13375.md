@@ -4,7 +4,7 @@ identifier: "ROO-codigo-fiscal-municipal-13375"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-12-15"
-last_updated: "2000-12-29"
+last_updated: "2002-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO FISCAL MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2002.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre 1997.
 
@@ -79,9 +79,11 @@ III.- Las que autoricen ingresos extraordinarios;
 
 IV.- Los demás ordenamientos legales que contengan disposiciones de orden hacendario.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
 ###### ARTICULO 5o.
 
-Sin (sic) Autoridades Fiscales de los Municipios:
+Son autoridades fiscales de los municipios:
 
 I.- Los Presidentes Municipales;
 
@@ -93,7 +95,15 @@ IV.- Los Directores de Cobranza;
 
 V.- Los Directores de Fiscalización;
 
-VI.- Los Notificadores-Ejecutores; y
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+VI.- El Director del Catastro;
+
+VII.- Los Notificadores-Ejecutores; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+VIII.- Los previstos en los reglamentos municipales que norman su estructura orgánica.
 
 VINILOS previstos en los reglamentos municipales que norma su estructura orgánica.
 
@@ -457,13 +467,19 @@ VII.- Conceder mediante resoluciones de carácter general, subsidios o estímulo
 
 > <small>(REFORMADO, P.O 15 DE DICIEMBRE DE 1998)</small>
 
-En los casos no descritos en el artículo anterior, los Presidentes Municipales, podrán otorgar subsidios hasta del 75% de las cuotas, de las tarifas o tasas establecidas en la Ley; a excepción de los gravámenes a la propiedad inmobiliaria que estén sujetos a lo que establece el artículo 115 Fracción IV de la Constitución Política de los Estados Unidos Mexicanos.
+En los casos no descritos en el artículo anterior, los Presidentes Municipales, podrán otorgar subsidios hasta del 75% de las cuotas, de las tarifas o tasas establecidas en la Ley; a excepción de los gravámenes a la propiedad inmobiliaria que estén sujetos a lo que establece el artículo 115 Fracción IV de la Constitución Política de los Estados Unidos Mexicanos;
 
 VIII.- Tramitar y resolver los asuntos y recursos que ante él se presentan conforme a las leyes y reglamentos fiscales;
 
-IX.- Dictar a través de resoluciones que establezcan disposiciones de carácter general, normas de urgencia anual relativas a la administración, control, forma de pago, procedimientos y obligaciones secundarias para facilitar la aplicación de las leyes fiscales municipales sin que por ningún motivo puedan variar los elementos propios de los tributos, como lo son objeto, sujeto, base, tasa o tarifa, período de pago; y
+IX.- Dictar a través de resoluciones que establezcan disposiciones de carácter general, normas de urgencia anual relativas a la administración, control, forma de pago, procedimientos y obligaciones secundarias para facilitar la aplicación de las leyes fiscales municipales sin que por ningún motivo puedan variar los elementos propios de los tributos, como lo son objeto, sujeto, base, tasa o tarifa, período de pago; y (sic)
 
-X.- Las demás que le correspondan conforme a este código u otras leyes y reglamentos fiscales.
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+X.- Determinar créditos fiscales;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+XI.- Las demás que le correspondan conforme a este Código u otras leyes y reglamentos Fiscales.
 
 ###### ARTICULO 32.
 
@@ -487,7 +503,11 @@ VIII.- Declarar en que casos no se causan los recargos, por no ser imputable al 
 
 IX.- Reducir las multas fiscales que hayan quedado firmes siempre y cuando se acredite que el contribuyente sancionado se encuentre en una situación económica precaria; y
 
-X.- Las demás que le correspondan conforme a las leyes, reglamentos y acuerdos del Presidente Municipal.
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+
+X.- Determinar créditos fiscales;
+
+XI.- Las demás que le correspondan conforme a las leyes, reglamentos y acuerdos del Presidente Municipal.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O 15 DE DICIEMBRE DE 1998)</small>
 
@@ -1896,3 +1916,9 @@ P.O 29 DE DICIEMBRE DE 2000.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones dictadas con anterioridad que se opongan al presente decreto.
+
+P.O. 30 DE DICIEMBRE DE 2002.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones aquí relacionadas con vigencia anterior al presente decreto.
