@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-contaduria-mayor-de-hacienda-del-15919"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-05-19"
-last_updated: "1999-05-19"
+last_updated: "2000-09-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15919&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DEL CONGRESO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2000.
 
 Ley Publicada en el Periódico Oficial del Estado de Morelos, el día 19 de mayo de 1999.
 
@@ -55,9 +55,11 @@ La Contaduría Mayor de Hacienda es una dependencia del Congreso del Estado, que
 
 En el desempeño de sus funciones operativas estará bajo el control de la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 3.
 
-Para los efectos de la presente Ley, se entiende por entidades; El Gobierno del Estado, los Municipios, los Organismos Descentralizados y las Empresas de Participación Estatal o Municipal.
+Para los efectos de la presente Ley, se entiende por entidades: El Gobierno del Estado y sus Dependencias, los Ayuntamientos, los Organismos Descentralizados de la Administración Pública Estatal y Municipal, las Empresas de Participación Estatal y Municipal, los Fideicomisos Públicos, y en general toda figura jurídica sujeta a la norma de gobierno que ingrese o ejerza recursos públicos estatales y municipales.
 
 ###### ARTICULO 4.
 
@@ -69,13 +71,19 @@ Las entidades que se mencionan en el artículo 3 y que administren recursos púb
 
 ### CAPITULO II. DE LAS FACULTADES DE LA CONTADURIA MAYOR DE HACIENDA
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 6.
 
-Al frente de la Contaduría Mayor de Hacienda, como autoridad ejecutiva estará el Contador Mayor de Hacienda designado por el Pleno del Congreso del Estado, de terna propuesta por la Comisión de Régimen Interno y Concertación Política, auxiliado en sus actividades por los servidores públicos que sean necesarios para el cabal desempeño de sus funciones, conforme al Presupuesto Anual de Egresos del Congreso del Estado y a su Reglamento Interno.
+Al frente de la Contaduría Mayor de Hacienda, como autoridad ejecutiva estará el Contador Mayor de Hacienda, designado por la Comisión de Régimen Interno y Concertación Política en términos de lo previsto por el artículo 38, inciso g) de su Ley Orgánica, auxiliado en sus actividades por la plantilla de servidores públicos, que designará y removerá libremente, y con la infraestructura física necesaria para el cabal desempeño de sus funciones, su gasto quedará incluido en el Presupuesto Anual de Egresos del Congreso del Estado conforme a la Ley Orgánica del Congreso del Estado de Morelos y su Reglamento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTICULO 7.
 
-La Contaduría Mayor de Hacienda revisara la Cuenta Pública del Gobierno del Estado, de los Municipios, y de las entidades señaladas en la presente Ley.
+La Contaduría Mayor de Hacienda revisará la Cuenta Pública del Gobierno del Estado, de los Municipios, y de las entidades señaladas en la presente ley.
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
 Para el efecto anterior, ejercerá funciones de contraloría, y tendrá las siguientes atribuciones:
 
@@ -89,7 +97,9 @@ C) Ajusten y ejecuten los programas de inversión en los términos y montos apro
 
 D) Apliquen los recursos provenientes de financiamientos, con la periodicidad y formas establecidas por la Ley.
 
-II. Rendir a la Comisión de Hacienda, Presupuesto y Cuentas Pública, un informe sobre el resultado de las cuentas públicas de Gobierno Estatal, de los municipios y organismos descentralizados, así como empresas de participación estatal o municipal que le hayan sido turnadas por la misma Comisión. Dicho informe contendrá además el señalamiento de las irregularidades que haya advertido en la realización de las actividades mencionadas, fundadas en la fracción I del presente artículo, debiéndolo presentar cuando menos treinta días antes de la revisión del primer periodo ordinario de sesiones.
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+II. Rendir a la Comisión de Hacienda, Presupuesto y Cuenta Pública, un informe sobre el resultado de la revisión de las cuentas públicas practicada a las entidades señaladas en el presente artículo. Dicho informe contendrá además, el señalamiento de las irregularidades que haya advertido en la realización de las actividades mencionadas, debidamente fundadas y motivadas, conforme a lo dispuesto en la fracción anterior, debiéndolo presentar a más tardar el último día hábil del mes de julio de cada año.
 
 III. Revisar los subsidios concedidos por el Gobierno Estatal a los Municipios, a los Organismos de la Administración Pública Paraestatal o Paramunicipal, a las instituciones privadas, o para los particulares, cualesquiera que sean los fines de su destino, así como verificar su aplicación al objeto autorizado.
 
@@ -109,7 +119,11 @@ X. Fijar coordinadamente con la Secretaría de Hacienda del Gobierno del Estado 
 
 XI. Elaborar su Reglamento Interior, y
 
-XII.- Todas las demás que le correspondan de acuerdo con esta Ley, su Reglamento Interior y las disposiciones que dicte el Congreso del Estado a través de la Comisión de Hacienda, Presupuesto y Cuenta Pública.
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+XII. Determinar la responsabilidad administrativa en que incurran los servidores y empleados públicos por acciones u omisiones contrarias a sus obligaciones relacionadas con el gasto público, señaladas por las leyes de la materia.
+
+XIII.- Todas las demás que le correspondan de acuerdo con esta Ley, su Reglamento Interior y las disposiciones que dicte el Congreso del Estado a través de la Comisión de Hacienda, Presupuesto y Cuenta Pública.
 
 ### CAPITULO III
 
@@ -127,7 +141,9 @@ El candidato a ocupar el cargo de Contador mayor de Hacienda, deberá cubrir pre
 
 A) Conocimientos en contabilidad y auditoria gubernamentales;
 
-B) Acreditar experiencia mínima de tres años en cargos relacionados con la Hacienda Pública;
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+B) Tener experiencia en la Cuenta de Hacienda Pública Estatal y Municipal, así como de sus entidades;
 
 C) Acreditar honradez en el ejercicio de su profesión y en el desempeño de las funciones públicas que le hayan sido encomendadas;
 
@@ -149,9 +165,11 @@ El Contador Mayor de Hacienda será removido si durante el desempeño de su carg
 
 Si la solicitud de su remoción ocurriera durante uno de los recesos de la Asamblea Legislativa, la Comisión de Hacienda, Presupuesto y Cuenta Pública, podrá suspenderlo en el ejercicio de sus funciones, para que el pleno del Congreso lo resuelva en el siguiente periodo ordinario de sesiones. La Diputación Permanente, previo conocimiento del caso, ejecutará la medida tomada.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 11.
 
-El Contador Mayor de Hacienda, para el cumplimiento de la presente Ley, tendrá las siguientes atribuciones:
+El Contador Mayor de Hacienda, para el cumplimiento de la presente ley, tendrá las siguientes atribuciones:
 
 I.- Ser el representante de la Contaduría Mayor de Hacienda ante las autoridades, entidades y personas físicas o morales, que intervengan en el ámbito de competencia del Poder Legislativo.
 
@@ -176,6 +194,10 @@ X.- Promover ante las autoridades competentes:
 A) El fincamiento de responsabilidades en los términos del presente ordenamiento.
 
 B) El cobro de los daños y perjuicios causados a la Hacienda Pública Estatal o la de los Municipios, así como el cobro de las cantidades que se hayan dejado de percibir, como resultado de las revisiones practicadas.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+C) Solicitar al titular del Poder Ejecutivo o al Presidente Municipal, según sea el caso, se aplique el procedimiento fiscal correspondiente a efecto de que a los servidores públicos que se les finque una responsabilidad pecuniaria cubran a la Hacienda Pública correspondiente el importe de la misma.
 
 XI.- Proponer los nombramientos y remociones del personal de confianza de la Contaduría Mayor de Hacienda, a la Comisión de Hacienda, Presupuesto y Cuenta Pública.
 
@@ -223,9 +245,11 @@ La Contaduría Mayor de Hacienda, al revisar la cuenta pública del Gobierno Est
 
 La Contaduría Mayor de Hacienda al revisar la cuenta pública del Gobierno Estatal y la de los Municipios, vigilará la aplicación de las normas, procedimientos, métodos y sistemas a que se refiere el Artículo 17 de esta Ley, y dará cuenta a la Secretaria de Hacienda del Estado de las irregularidades que encuentre, para que dicte las medidas correctivas procedentes y a la Contraloría General del Estado, para que vigile su cumplimiento.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 19.
 
-Por lo que respecta al archivo contable, se deberá observar lo establecido en la Ley General de Documentación para el Estado de Morelos.
+El Archivo contable, conforme a lo establecido en la Ley General de Documentación para el Estado de Morelos, es obligatorio para todas las entidades señaladas en la presente Ley y será responsabilidad de cada una de ellas su manejo y control.
 
 ### CAPITULO V. DE LA CUENTA DE LA HACIENDA PUBLICA ESTATAL, MUNICIPAL Y DEMAS ENTIDADES
 
@@ -269,7 +293,9 @@ La Ley de Ingresos y Presupuesto de Egresos del Gobierno del Estado y Leyes de I
 
 Los Presupuestos de Egresos así como los Programas y Subprogamas de los Ayuntamientos serán turnados al Congreso del Estado, por los Ayuntamientos, conforme a la Ley Orgánica Municipal del Estado y la Ley de Presupuesto Contabilidad y Gasto Público. La Contaduría Mayor de Hacienda recibirá copia que le remita la Comisión de Hacienda, Presupuesto y Cuenta Pública, independientemente de que el Organo Técnico del Congreso, solicite dentro de sus atribuciones, una copia de estos documentos y sus modificaciones directamente a los Ayuntamientos, vigilando que cumplan con la legalidad establecida.
 
-### CAPITULO VII. DE LA REVISION DE LA CUENTA DE LA HACIENDA PUBLICA ESTATAL, MUNICIPAL Y DEMAS ENTIDADES
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
+### CAPITULO VII. DE LA REVISION DE LA CUENTA DE LA HACIENDA PUBLICA
 
 ###### ARTICULO 28.
 
@@ -289,11 +315,15 @@ Si de la revisión aparecieran discrepancias entre las cantidades gastadas y las
 
 La Contaduría Mayor de Hacienda para efecto de las atribuciones que le corresponden y de conformidad a lo previsto por esta Ley, podrá practicar a las entidades las auditorías que le ordene el Congreso del Estado, las que comprenderán enunciativamente, las siguientes actividades:
 
-A) Conforme a Normas de Auditoría y Revisión a entidades de la Administración Pública, verificar si las operaciones se ejecutaron correctamente y si los estados financieros se presentaron en tiempo oportuno, en forma veraz y en términos accesibles de acuerdo con los principios aplicables de contabilidad gubernamental.
+A)Conforme a Normas de Auditoría y Revisión a entidades de la Administración Pública, verificar si las operaciones se ejecutaron correctamente y si los estados financieros se presentaron en tiempo oportuno, en forma veraz y en términos accesibles de acuerdo con los principios aplicables de contabilidad gubernamental.
 
 B) Determinar si las entidades auditadas cumplieron en la recaudación de los ingresos y en la aplicación de sus presupuestos, con las Leyes de Ingresos y los Presupuestos de Egresos y demás leyes fiscales, especiales, convenios y reglamentos que rigen en la materia.
 
 C) Revisar si las entidades alcanzaron con eficiencia los objetivos y metas fijados en los programas y subprogramas en relación a los recursos humanos, materiales y financieros aplicados conforme a los Presupuestos de Egresos del Estado y de los Ayuntamientos.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBE DE 2000)</small>
+
+D) Determinar si la inversión pública es congruente con el plan estatal o municipal de desarrollo y sus programas operativos.
 
 ###### ARTICULO 31.
 
@@ -353,9 +383,11 @@ Las responsabilidades que se constituyan a cargo de los empleados o funcionarios
 
 Si de las (sic) revisión de la Cuenta Pública Estatal, la de los Ayuntamientos y de las demás entidades, objeto de revisión, se señalarán responsabilidades, el Contador Mayor de Hacienda en términos de esta Ley, promoverá el ejercicio de las acciones que correspondan.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 41.
 
-El Contador Mayor de Hacienda, al tenor de lo dispuesto en el artículo 12 fracciones VI de la presente Ley, formulará directamente a las entidades correspondientes los pliegos de observaciones derivados de la revisión de la cuenta pública del Gobierno Estatal y de la de los Ayuntamientos, así como los relacionados de las empresas privadas o con los particulares que hayan coparticipado en el ingreso o en el gasto público.
+El Contador Mayor de Hacienda al tenor de lo dispuesto en el artículo 11 fracción VI, de la presente Ley, formulará directamente a las entidades correspondientes los pliegos de observaciones derivados de la revisión de la Cuenta Pública que les practiquen. En los señalamientos, la Contaduría Mayor de Hacienda observará las garantías de legalidad y audiencia que la Ley concede a los fiscalizados. Cuando en los señalamientos se relacione a empresas privadas o a particulares que hayan estado involucrados en el ingreso o el gasto público, se procederá a hacerlo del conocimiento de las instancias correspondientes conforme a las atribuciones establecidas en esta Ley, e instruida por la Comisión de la que es dependiente.
 
 Los pliegos de observaciones se entregarán al responsable en su domicilio oficial o particular, según el caso, y en su ausencia se entregará al representante legal, en el caso, a familiar que resida en el mismo domicilio del responsable, en los términos de las leyes aplicables.
 
@@ -480,3 +512,21 @@ SECRETARIO GENERAL DE GOBIERNO
 JORGE ARTURO GARCÍA RUBÍ
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 1 DE SEPTIEMBRE DE 2000.
+
+DECRETO 1191.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su aprobación por el Congreso del Estado.
+
+SEGUNDO.- Una vez aprobado el presente Decreto, túrnese al Titular del Poder Ejecutivo del Estado para efecto de su publicación en el Periódico Oficial "Tierra y Libertad" órgano informativo del Gobierno del Estado de Morelos.
+
+P.O. 1 DE SEPTIEMBRE DE 2000.
+
+DECRETO NO. 1229.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano Informativo del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a su implementación y cumplimiento.
