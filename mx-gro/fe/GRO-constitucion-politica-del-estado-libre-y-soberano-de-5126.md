@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1951-12-26"
+last_updated: "1952-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 1952.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -317,7 +317,7 @@ El Estado se dividirá para la Administración de Justicia en Distritos Judicial
 
 La formación de los Distritos Administrativos será fijada por las Leyes Ordinarias del Ramo.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
+> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 13 DE AGOSTO DE 1952)</small>
 
 #### SECCION II. DE LA SECRETARIA GENERAL DE GOBIERNO
 
@@ -325,7 +325,7 @@ La formación de los Distritos Administrativos será fijada por las Leyes Ordina
 
 ###### Artículo 28.
 
-La Ley Electoral determinará el número de Distritos Electorales que se formen en el Estado, de acuerdo con el número de habitantes del mismo; teniendo en cuenta las disposiciones de la Constitución Federal a este respecto.
+Por cada Distrito Electoral, se elegirá un Diputado Propietario y un Suplente. Para los efectos de este artículo, se divide el Estado en once Distritos Electorales, que de acuerdo con el número de habitantes formará el Ejecutivo del Estado, tres meses antes de que se verifiquen las elecciones.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1950)</small>
 
@@ -1504,3 +1504,9 @@ P.O. 26 DE DICIEMBRE DE 1951.
 Artículo Primero. El Municipi o (sic) de Juan R. Escudero comprenderán los núcleos de población que se le asignen al hacerse la modificación correspondiente a la Ley Número 59 Orgánica de División Territorial del Estado.
 
 Artículo Segundo. La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE AGOSTO DE 1952.
+
+###### ARTICULO UNICO.
+
+Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
