@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1998-04-06"
+last_updated: "1998-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ABRIL DE 1998.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE OCTUBRE DE 1998.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -113,35 +113,55 @@ Los ciudadanos, los partidos políticos y las autoridades velarán por su respet
 
 La ley establecerá las sanciones por violaciones al sufragio.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 11.
 
-La organización, desarrollo y vigilancia de los procesos electorales se realizarán por un organismo público autónomo, dotado de personalidad jurídica y patrimonio propios, e integrado en la forma que exprese la ley de la materia.
+La organización, desarrollo y vigilancia de los procesos electorales para las elecciones de Gobernador, Diputados a la Legislatura del Estado y Ayuntamientos, es una función estatal que se realiza a través de un organismo público autónomo, dotado de personalidad jurídica y patrimonio propios, denominado Instituto Electoral del Estado de México, en cuya integración participarán el Poder Legislativo, los partidos políticos y los ciudadanos, en los términos dispuestos por esta Constitución y la ley de la materia. En el ejercicio de esta función, la certeza, legalidad, independencia, imparcialidad y objetividad serán principios rectores.
 
-Los órganos electorales dispondrán del personal calificado necesario para prestar el servicio electoral profesional. Los ciudadanos integrarán las mesas directivas de casilla.
+El Instituto será autoridad en la materia, independiente en sus decisiones y funcionamiento, y profesional en su desempeño; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. El Consejo General será su órgano superior de dirección; se integrará por un Consejero Presidente y por seis consejeros electorales, electos en sesión del Pleno de la Legislatura del Estado, con el voto de las dos terceras partes de los diputados presentes, de entre las propuestas que formulen las fracciones legislativas. El Consejero Presidente y los Consejeros electorales tendrán voz y voto. Asimismo, por un representante de cada partido político, un Director General y un Secretario General del Instituto, quienes asistirán con voz pero sin voto.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+Por cada consejero electoral propietario se elegirá un suplente.
+
+El Secretario General del Instituto fungirá como Secretario del Consejo General.
+
+El Consejero Presidente y los Consejeros Electorales durarán en su cargo dos procesos electorales ordinarios y podrán ser reelectos para otro; durante su ejercicio no podrán tener ningún otro empleo, cargo o comisión oficial y sólo podrán recibir percepciones derivadas de la docencia, de la práctica libre de su profesión, de regalías, de derechos de autor o publicaciones, siempre que no se afecte la independencia, imparcialidad y equidad que debe regir el ejercicio de su función; podrán ejercer cargos no remunerados en asociaciones científicas, literarias o de beneficencia.
+
+La retribución que perciban el Consejero Presidente y los Consejeros Electorales será la prevista en el presupuesto de egresos del instituto.
+
+El Consejero Presidente y los Consejeros Electorales, durante los intervalos de los procesos electorales estarán obligados a realizar tareas de investigación, docencia y difusión acerca de temas electorales.
+
+El Director General y el Secretario General del Instituto serán electos por las dos terceras partes del Consejo General, a propuesta de su Consejero Presidente y durarán en su cargo el tiempo que determine la ley de la materia.
+
+La ley establecerá los requisitos que deberán reunir el Consejero Presidente, los Consejeros Electorales, el Director General y el Secretario General del Instituto, quienes estarán sujetos al régimen de responsabilidades establecido en esta Constitución.
+
+El organismo electoral tendrá a su cargo, además de las que determine la ley, las actividades relativas a la capacitación y educación cívica; geografía electoral; derechos, prerrogativas y fiscalización del financiamiento público y gastos de los partidos políticos; vigilancia, auditoría y actualización del padrón y la lista de electores; preparación de la jornada electoral; los cómputos, declaraciones de validez y otorgamiento de constancias de mayoría en la elección de gobernador, diputados y ayuntamientos; así como la expedición de las constancias de representación proporcional en los términos que señale la ley; la regulación de los observadores electorales y de las encuestas o sondeos de opinión con fines electorales.
+
+Las sesiones de todos los órganos colegiados de dirección serán públicas en los términos que señale la ley.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 12.
 
-Los partidos políticos son entidades de interés público que tienen como fin promover la vida democracia, contribuir a la integración de la representación popular y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público de acuerdo con los programas, principios e ideas que postulan. Su participación en los procesos electorales estará garantizada y determinada por la ley.
+Los partidos políticos son entidades de interés público que tienen como fin promover la vida democrática, contribuir a la integración de la representación popular y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan, su participación en los procesos electorales estará garantizada y determinada por la ley. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
 
-Para el cumplimiento de todos sus fines, los partidos gozarán de las prerrogativas cuyo otorgamiento se hará en la forma que la ley determine.
+La ley garantizará que los partidos políticos cuenten de manera equitativa con elementos para llevar a cabo sus actividades, por lo tanto, tendrán derecho al uso de los medios de comunicación social propiedad del Estado de acuerdo a las formas, procedimientos y tiempos que establezca la misma. Además, la ley señalará las reglas a las que se sujetará el financiamiento de los partidos políticos y sus campañas electorales.
 
-> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 1998)</small>
+El financiamiento público para los partidos políticos se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales y se otorgará conforme a lo que disponga la ley.
 
-La ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales, así como los montos máximos que tengan las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos; se establezcan, asimismo, las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias.
+La Ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales, establecerá los montos máximos que tendrán las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten; asimismo señalará las sanciones que deban imponerse por incumplimiento de estas disposiciones.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 13.
 
-La ley establecerá un sistema de medios de impugnación de los que conocerán lo órganos electorales y un tribunal autónomo con jurisdicción en materia electoral, con la competencia y organización que determine la ley, el cual funcionará en pleno y cuyas sesiones serán públicas.
+Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, la ley establecerá un sistema de medios de impugnación en los términos que señale esta Constitución. El sistema dará definitividad a las distintas etapas de los procesos electorales locales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación en los términos de la Constitución Política de los Estados Unidos Mexicanos.
 
-Los integrantes del Tribunal Electoral serán electos por la Legislatura en los términos de la ley de la materia.
+Habrá un Tribunal Electoral autónomo, con la competencia y jurisdicción que determinen esta Constitución y la ley.
 
-Las resoluciones del Tribunal Electoral serán definitivas e inacatables.
+El Tribunal se integrará por tres magistrados numerarios y dos supernumerarios electos en sesión del Pleno de la Legislatura del Estado, con el voto de las dos terceras partes de los miembros presentes, conforme al procedimiento y requisitos establecidos en la ley, de entre los ciudadanos propuestos por el Consejo de la Judicatura del Tribunal Superior de Justicia.
+
+Los magistrados durarán en su cargo dos procesos electorales ordinarios y podrán ser reelectos para otro; su remuneración será la prevista en el presupuesto de egresos del propio Tribunal.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -647,7 +667,9 @@ XII. Convocar a elecciones ordinarias o extraordinarias de Gobernador, diputados
 
 Para el caso de elecciones ordinarias de Gobernador la convocatoria deberá expedirse por lo menos 100 días antes de la fecha de elección y para las de diputados y miembros de los ayuntamientos 80 días antes;
 
-XIII.- Erigirse en Colegio Electoral para calificar la elección de Gobernador del Estado en la forma que determine la ley. Su resolución será definitiva e inatacable;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1998)</small>
+
+XIII. Designar a los funcionarios electorales cuyo nombramiento le reserve ésta constitución;
 
 XIV. Constituirse en Colegio Electoral para designar Gobernador interino o sustituto, en los casos que determine la presente Constitución;
 
@@ -661,7 +683,9 @@ XVI. Nombrar a los miembros de los ayuntamientos cuya designación le correspond
 
 XVII. Resolver sobre las licencias temporales o absolutas de sus miembros, del Gobernador, de los magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo, cuando las ausencias excedan del término que establezcan las leyes respectivas.
 
-Para los efectos de esta fracción, se considerarán temporales las ausencias del cargo que excedan de 15 días, pero no de 60;
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1998)</small>
+
+Para los efectos de esta fracción, se consideran temporales las ausencias que excedan de 15, pero no de 60 días. La Legislatura calificará cuando existan los motivos fundados que justifiquen una licencia temporal por un período mayor y que podrá extenderse por el tiempo que dure la causa que la motivó;
 
 XVIII. Conocer y resolver de las solicitudes de destitución de los Magistrados del Tribunal de lo Contencioso Administrativo y del Tribunal Superior de Justicia en términos de la presente Constitución;
 
@@ -781,7 +805,7 @@ VII. Cumplir con las obligaciones que le impongan la Legislatura y otras disposi
 
 El Poder Ejecutivo del Estado se deposita en un solo individuo que se denomina Gobernador del Estado de México.
 
-> <small>(REFORMADO, G.G. 6 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 1998)</small>
 
 ###### Artículo 66.
 
@@ -807,15 +831,27 @@ Se entenderá por residencia efectiva para los efectos de esta Constitución, el
 
 III. Tener 30 años cumplidos el día de la elección;
 
-IV. No pertenecer al estado eclesiástico ni ser ministro de algún culto, a menos que se separe formal, material y definitivamente de su ministerio cuando menos cinco años antes del día de la elección; y
+IV. No pertenecer al estado eclesiástico ni ser ministro de algún culto, a menos que se separe formal, material y definitivamente de su ministerio cuando menos cinco años antes del día de la elección; y (sic)
 
 V. No ser servidor público en ejercicio de autoridad, ni militar en servicio activo o con mando de fuerzas dentro del Estado en los últimos 90 días anteriores al día de la elección ordinaria, o a partir del quinto día de la fecha de la publicación de la convocatoria para la elección extraordinaria.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(ADICIONADA, G.G. 2 DE OCTUBRE DE 1998)</small>
+
+VI. No contar con una o más nacionalidades distintas a la mexicana.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 1995)</small>
 
 ###### Artículo 69.
 
 El período constitucional del Gobernador del Estado comenzará el 16 de septiembre del año de su renovación.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1998)</small>
+
+Nunca podrán ser electos para el período inmediato:
+
+a). El Gobernador sustituto o el designado para concluir el período en caso de falta absoluta del electo popularmente.
+
+b). El Gobernador interino, el provisional, o el ciudadano que bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo los dos últimos años del período.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -825,31 +861,33 @@ Cuando el Gobernador electo por causa de fuerza mayor, no se presente a desempe�
 
 Si dentro de 30 días siguientes al inicio del período constitucional, el electo no se presenta a rendir protesta, la Legislatura convocará de inmediato a elecciones extraordinarias, las cuales deberán realizarse en un plazo no mayor de 120 días a partir del inicio del período constitucional.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 2 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 71.
 
-Si por algún motivo no hubiere podido efectuarse la elección de Gobernador o ésta fuere declarada nula, cesará el saliente, pero previamente la Legislatura designará un Gobernador interino.
+Si por algún motivo no hubiera podido efectuarse la elección de Gobernador, fuese nula o no estuviera hecha y declarada el 16 de septiembre del año que corresponda, cesará el saliente y se encargará del poder ejecutivo en calidad de Gobernador interino el que designe la Legislatura. El mismo día en que la Legislatura nombre al Gobernador interino, expedirá la convocatoria para nuevas elecciones, las cuales deberán tener verificativo dentro de los 90 días siguientes contado (sic) a partir del inicio del período constitucional.
 
-El mismo día en que la Legislatura nombre al Gobernador interino, expedirá la convocatoria para nuevas elecciones, las cuales deberán tener verificativo dentro de los 90 días siguientes contados a partir del inicio del período constitucional.
-
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 72.
 
-Cuando el Gobernador hubiere tomado posesión del cargo y se produjera su falta absoluta, lo suplirá desde ese momento, como encargado del despacho, el Secretario General de Gobierno o a falta de éste, el Presidente del Tribunal Superior de Justicia y la Legislatura inmediatamente hará la designación del Gobernador sustituto, quien ejercerá sus funciones hasta terminar el período constitucional de que se trate. Cuando la Legislatura se encuentre en receso, la Diputación Permanente la convocará para que designe al Gobernador sustituto.
+Cuando el Gobernador hubiere tomado posesión del cargo y se produjera falta absoluta ocurrida en los dos primeros años del período respectivo, si la Legislatura estuviere en sesiones se constituirá en Colegio Electoral y con la concurrencia de cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos, un gobernador interino y en la misma sesión expedirá la convocatoria para la elección de Gobernador que deba concluir el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para la verificación de la elección un plazo no mayor de noventa días.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+Si la Legislatura no estuviere en sesiones, lo suplirá como encargado del despacho el Secretario General de Gobierno o el Presidente del Tribunal Superior de Justicia; la Diputación Permanente convocará de inmediato a la Legislatura a un período extraordinario de sesiones para que designe al Gobernador interino y expida la convocatoria a elecciones de Gobernador en los términos del párrafo anterior.
+
+Cuando la falta del Gobernador ocurriese en los últimos cuatro años del período respectivo, si la Legislatura se encontrase en sesiones, designará al Gobernador sustituto que deberá concluir el período; si no estuviese reunida, lo suplirá como encargado del despacho el Secretario General de Gobierno o el Presidente del Tribunal Superior de Justicia; la Diputación Permanente convocará de inmediato a la Legislatura a un período extraordinario de sesiones para que se erija en Colegio Electoral y designe al Gobernador sustituto.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 73.
 
-Las faltas temporales del Gobernador, las cubrirá como encargado del despacho, el Secretario General de Gobierno o, a falta de éste, el Presidente del Tribunal Superior de Justicia.
+Las faltas temporales del gobernador que excedan de 15 días pero no de 60, las cubrirá como encargado del despacho el Secretario General de Gobierno, o a falta de éste, el Presidente del Tribunal Superior de Justicia. La Legislatura del Estado si estuviere reunida o la Diputación Permanente, decretará el nombramiento respectivo.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 74.
 
-El ciudadano que haya sido designado Gobernador interino o sustituto, o encargado del despacho, no podrá ser electo Gobernador constitucional ni designado interino o sustituto para el período inmediato.
+Si la falta temporal se convierte en absoluta, se procederá como lo dispone el artículo 72.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -2202,3 +2240,17 @@ G.G. 6 DE ABRIL DE 1998.
 PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+P.O. 2 DE OCTUBRE DE 1998
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno"
+
+###### ARTÍCULO TERCERO.
+
+A efecto de dar cumplimiento al artículo 11, la Legislatura tomará los acuerdos correspondientes, a más tardar el día 30 de noviembre de 1998.
