@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-13577"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-03"
-last_updated: "2002-12-18"
+last_updated: "2004-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2002.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE TAMAULIPAS, PUBLICADA EN EL PERIODICO OFICIAL EL 21 DE DICIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial, el 3 de febrero de 1999.
 
@@ -1120,3 +1122,39 @@ Se derogan todas las disposiciones que se opongan a este Decreto.
 P.O. 18 DE DICIEMBRE DE 2002
 
 Artículo Unico.- El presente Decreto entrará en vigor el dia siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2004.
+
+###### ARTICULO PRIMERO.
+
+La presente ley se publicará en el Periódico Oficial del Estado y entrará en vigor el día 1 de enero de 2005.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley Orgánica de la Administración Pública del Estado de Tamaulipas, expedida por Decreto número 13 de 3 de febrero de 1999, publicada en el Periódico Oficial del Estado de esa misma fecha y sus reformas y adiciones contenidas en los Decretos número 197, 316, 489 y 614 de la Quincuagésima Séptima Legislatura, de fechas 27 de mayo y 6 de diciembre de 2000, y 24 de octubre y 12 de diciembre de 2001, publicados en el Periódico Oficial de 6 de junio y el 7 de diciembre de 2000 y el 25 de octubre y 25 de diciembre de 2001, respectivamente, así como en el Decreto número 178 de la Quincuagésima Octava Legislatura de fecha 13 de diciembre de 2002, publicado en el Periódico Oficial del Estado de 18 de diciembre de 2002.
+
+###### ARTICULO TERCERO.
+
+Con motivo de la creación de las Secretarías de Turismo, de Desarrollo Rural y de Seguridad Pública, se transferirán a éstas los recursos humanos, los activos patrimoniales constituidos por los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo utilizado, respectivamente, por las Secretarías de Desarrollo Económico y del Empleo y General de Gobierno, para los asuntos a su cargo que serán atendidos por las nuevas dependencias.
+
+También se transferirán dichos recursos y activos de la actual Secretaría de Educación, Cultura y Deporte, en lo relativo a éstas dos últimas materias, a la hasta ahora Secretaría de Desarrollo Social, que se modifica para ser Secretaría de Desarrollo Social, Cultura y Deporte.
+
+###### ARTICULO CUARTO.
+
+Los traspasos que con motivo de la expedición de esta ley deban realizarse de una dependencia a otra, incluirán los recursos presupuestales asignados a los asuntos de las nuevas competencias que se establecen, así como los programas y calendarios financieros.
+
+###### ARTICULO QUINTO.
+
+Cuando conforme a esta ley, un área administrativa sea reubicada de una dependencia a otra, el traspaso se hará con la intervención de la Contraloría Gubernamental. El cambio de dependencia no implicará perjuicio en los derechos adquiridos por los trabajadores.
+
+###### ARTICULO SEXTO.
+
+Para el cumplimiento de esta ley se faculta al Ejecutivo para reorganizar la estructura de las dependencias y, mediante el procedimiento aplicable, de las entidades; así como para crear las áreas y unidades necesarias y modificar y redistribuir las partidas del presupuesto de egresos, sin excederse del monto total autorizado para el ejercicio fiscal de 2005.
+
+###### ARTICULO SÉPTIMO.
+
+Los asuntos que con motivo de esta ley deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramitan se incorporen a la dependencia que deba atenderlos conforme al ordenamiento que se expide, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+###### ARTICULO OCTAVO.
+
+Cuando en esta ley se dé una denominación nueva o distinta a alguna dependencia cuyas funciones estén establecidas por ley anterior y otras leyes especiales, dichas atribuciones se entenderán concedidas a la dependencia que determine esta ley y demás disposiciones relativas.
