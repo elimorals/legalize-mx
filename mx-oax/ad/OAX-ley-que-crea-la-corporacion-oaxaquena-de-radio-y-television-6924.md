@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-la-corporacion-oaxaquena-de-radio-y-television-692
 country: "mx"
 rank: "ley"
 publication_date: "1993-11-20"
-last_updated: "2003-05-17"
+last_updated: "2005-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE CREA LA " CORPORACION OAXAQUEÑA DE RADIO Y TELEVISION " Y ESTABLECE SUS FUNCIONES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 20 de noviembre de 1993.
 
@@ -109,7 +109,9 @@ e).- El Coordinador General de Comunicación Social del Gobierno del Estado; y,
 
 f).- El Coordinador General de Asesores del Titular del Ejecutivo.
 
-IV.- Un Comisario que será el Delegado Contralor o el representante de la Contraloría General.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+IV.- Un Comisario que será el Delegado Contralor o el representante de la Secretaría de la Contraloría.
 
 Los suplentes de los Titulares de la Junta Directiva, serán los servidores públicos que indique el Titular del Poder Ejecutivo.
 
@@ -201,7 +203,9 @@ IX.- Presentar trimestralmente a la Junta Directiva, el informe del desempeño d
 
 X.- Establecer los mecanismos de evaluación que destaquen la eficiencia y la eficacia con la que se desempeñe la "CORTV" y presentar a la Junta Directiva por lo menos dos veces al año, la evaluación de gestión con el detalle que previamente se acuerde con la Junta;
 
-XI.- Proporcionar la información y dar acceso a la documentación que le solicitan las Secretarías de Finanzas y de Administración, así como la Contraloría General o el Auditor Externo para el cumplimiento de sus funciones y la que el Congreso del Estado también le requiera;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+XI.- Proporcionar la información y dar acceso a la documentación que le soliciten las Secretarías de Finanzas, de Administración y de la Contraloría o el Auditor Externo para el cumplimiento de sus funciones y la que el Congreso del Estado también le requiera;
 
 XII.- Ejecutar los acuerdos que dicte la Junta Directiva; y
 
@@ -314,3 +318,7 @@ P.O. 17 DE MAYO DE 2003.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente ordenamiento.
+
+P.O. 22 DE MARZO DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
