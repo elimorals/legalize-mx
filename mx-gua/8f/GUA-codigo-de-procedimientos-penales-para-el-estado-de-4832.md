@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "1997-04-01"
+last_updated: "1997-06-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1997.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -2479,6 +2479,10 @@ Denegada apelación.
 
 El recurso de apelación tiene por objeto examinar si en la resolución recurrida se aplicó inexactamente la ley, si se violaron los principios reguladores de la valoración de la prueba o si se alteraron los hechos.
 
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 1997)</small>
+
+Del recurso de apelación, conocerán las Salas del Supremo Tribunal de Justicia.
+
 ###### Art. 352.
 
 La segunda instancia solamente se abrirá a petición de parte legítima, para resolver sobre los agravios que estime el apelante le cause la resolución recurrida. Los agravios deberán expresarse al interponerse el recurso o en la vista del asunto. El tribunal de apelación podrá suplir la deficiencia de los agravios cuando el recurrente sea el procesado o, siéndolo el defensor, se advierta que por torpeza no los hizo valer debidamente.
@@ -3933,6 +3937,14 @@ P.O. 1 DE ABRIL DE 1997.
 
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1997)</small>
+
 ###### ARTICULO SEGUNDO.
 
-Para los efectos del artículo 23 del Código de Procedimientos Civiles que se reforma, los asuntos que se encuentren en trámite al momento de entrada en vigor del presente decreto, continuarán substanciándose ante el Juzgado que esté conociendo de los mismos.
+Para los efectos de los artículos 23 del Código de Procedimientos Civiles y 295 y 351 del Código de Procedimientos Penales reformados, los asuntos que se encuentren en trámite al momento de entrada en vigor del presente decreto, continuarán substanciándose ante el juzgado que esté conociendo de los mismos.
+
+P.O. 17 DE JUNIO DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
