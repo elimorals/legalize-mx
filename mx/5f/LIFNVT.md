@@ -4,7 +4,7 @@ identifier: "LIFNVT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-04-24"
-last_updated: "1983-12-30"
+last_updated: "1985-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIFNVT"
 
 LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE FEBRERO DE 1985.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 24 de abril de 1972.
 
@@ -494,9 +494,17 @@ En el caso del párrafo anterior, las cantidades que hayan cubierto los trabajad
 
 El Instituto vigilará que los créditos y los financiamientos que otorgue, se destinen al fin para los que fueron concedidos.
 
+> <small>(REFORMADO, D.O.F. 8 DE FEBRERO DE 1985)</small>
+
 ###### ARTICULO 51.
 
-Los créditos que el Instituto otorgue a los trabajadores, estarán cubiertos por un seguro para los casos de incapacidad total permanente o de muerte, que libere al trabajador o a sus beneficiarios de las obligaciones derivadas de los mismos. El costo de este seguro, quedará a cargo del Instituto.
+Los créditos que el Instituto otorgue a los trabajadores estarán cubiertos por un seguro para los casos de incapacidad total permanente o de muerte, que libere al trabajador o a sus beneficiarios de las obligaciones, gravámenes o limitaciones de dominio a favor del Instituto derivados de esos créditos.
+
+El costo de este seguro quedará a cargo del Instituto.
+
+Los trabajadores acreditados podrán manifestar expresamente su voluntad ante el Instituto, en el acto del otorgamiento del crédito o posteriormente, para que en caso de muerte, la liberación de las obligaciones, gravámenes o limitaciones de dominio que existan a favor del Instituto, así como la adjudicación del inmueble libre de aquéllos, se haga en beneficio de las personas que designen conforme a lo que señala el artículo 40 de esta Ley, con la prelación ahí establecida cuando así lo haya manifestado expresamente el trabajador, con sólo las formalidades previstas en el penúltimo párrafo del artículo 42 de esta misma Ley y la constancia que asiente el Instituto sobre la voluntad del trabajador y los medios con que se acrediten la capacidad e identidad de los beneficiarios. En caso de controversia, el Instituto procederá exclusivamente a la liberación referida y se abstendrá de adjudicar el inmueble.
+
+En los casos a que se refiere el párrafo anterior, los Registros Públicos de la Propiedad correspondientes deberán efectuar la inscripción de los inmuebles en favor de los beneficiarios, cancelando en consecuencia la que existiere a nombre del trabajador y los gravámenes o limitaciones de dominio que hubieren quedado liberados.
 
 ###### ARTICULO 52.
 
@@ -675,3 +683,7 @@ PRIMERO.- Las solicitudes de entrega de depósitos presentadas con anterioridad 
 SEGUNDO.- A partir de la entrada en vigor del presente Decreto, las aportaciones que se efectúen a favor de los trabajadores ya acreditados, se aplicarán íntegramente a constituir su fondo de ahorro.
 
 TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE FEBRERO DE 1985.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de la fecha de su publicación en el Diario Oficial de la Federación.
