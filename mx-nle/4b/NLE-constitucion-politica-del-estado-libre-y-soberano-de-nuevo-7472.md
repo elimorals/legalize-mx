@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1993-11-05"
+last_updated: "1994-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE NOVIEMBRE DE 1994.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -457,7 +457,7 @@ XXVIII.- Declarar si ha o no lugar a proceder penalmente contra los servidores p
 
 XXIX.- Conocer de las imputaciones que se hagan a los servidores públicos a que se refiere el artículo 110 de esta Constitución y fungir como órgano de acusación en los juicios políticos que contra éstos se instauren.
 
-XXX.- Determinar el número máximo de los ministros de cultos, conforme a la facultad que le concede el art. 130 de la Constitución General de la República.
+XXX.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 1994)
 
 XXXI.- Organizar el sistema penal sobre la base del trabajo como medio de regeneración.
 
@@ -1361,9 +1361,11 @@ Queda prohibido desempeñar a la vez dos o más cargos o empleos remunerados del
 
 Tampoco podrán desempeñarse a la vez dos cargos de elección popular.
 
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1994)</small>
+
 ###### Art. 142.
 
-Los ministros de cultos religiosos, cualquiera que sea su denominación, no podrán en ninguna circunstancia ni por ningún motivo ser llamados por elección o de otra manera a empleo o cargo público alguno, civil o militar en el Estado.
+Para el desempeño de cargos públicos por los ministros de culto, se estará a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la ley reglamentaria de la materia.
 
 ###### Art. 143.
 
@@ -1467,9 +1469,7 @@ El Estado promoverá el bienestar de las personas de edad avanzada mediante un s
 
 La enseñanza es libre; pero será laica la que se dé en los establecimientos oficiales de educación, lo mismo que la enseñanza primaria, elemental y superior que se imparta en los establecimientos particulares.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 1982)</small>
-
-Ninguna corporación religiosa ni Ministro de algún culto podrán establecer o dirigir escuelas de instrucción primaria.
+> <small>(DEROGADO QUINTO PARRAFO, P.O. 21 DE NOVIEMBRE DE 1994)</small>
 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 1982)</small>
 
@@ -1557,7 +1557,9 @@ Nadie puede ser obligado a prestar trabajos personales sin la justa retribución
 
 En cuanto a los servicios públicos, sólo podrán ser obligatorios, en los términos que establezcan las leyes relativas, el de las armas, los de jurado, los cargos consejiles y los de elección popular directa o indirecta; y obligatorias y gratuitas las funciones electorales, excepto aquellas que se realicen profesionalmente en los términos de esta Constitución y de las Leyes correspondientes.
 
-El Estado no permite que se lleve a efecto ningún contrato, pacto o convenio que tenga por objeto el menoscabo, la pérdida o el irrevocable sacrificio de la libertad del hombre, ya sea por causa de trabajo, de educación o de voto religioso.
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 1994)</small>
+
+El Estado no puede permitir que se lleve a efecto ningún contrato, pacto o convenio que tenga por objeto el menoscabo, la pérdida o el irrevocable sacrificio de la libertad de la persona por cualquier causa.
 
 Tampoco admite convenio en que el hombre pacte su proscripción o destierro, o en que se renuncie temporal o permanentemente a ejercer determinada profesión, industria o comercio.
 
@@ -2174,3 +2176,7 @@ SEGUNDO:- Las presentes reformas entrarán en vigor al día siguiente de su publ
 P.O. 5 DE NOVIEMBRE DE 1993.
 
 UNICO:- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE NOVIEMBRE DE 1994.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
