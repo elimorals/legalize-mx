@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "1993-12-16"
+last_updated: "1996-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL:19 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
@@ -139,13 +139,21 @@ II.- Practicar u ordenar la práctica de todos los actos conducentes a la compro
 
 III.- Solicitar a la autoridad jurisdiccional las medidas precautorias de arraigo o de aseguramiento patrimonial que resulten indispensables para los fines de las diligencias de preparación del ejercicio de la acción penal, así como las órdenes de cateo que procedan;
 
-IV.- Dictar todas las medidas y providencias necesarias para proporcionar seguridad y auxilio a las víctimas;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+IV.- Dictar todas las medidas y providencias necesarias para proporcionar seguridad y auxilio a las víctimas, así como a los testigos que depongan en contra de los imputados.
 
 V- Restituir al ofendido en el goce de sus derechos, provisional e inmediatamente, de oficio o a petición del interesado, cuando esté comprobado el cuerpo del delito de que se trate, y exigiendo garantía suficiente si lo estimare necesario. Esta facultad no procede cuando se trate de bienes inmuebles.
 
 VI.- Determinar conforme a las disposiciones de este Código, su reserva o bien el ejercicio o no ejercicio de la acción penal, y
 
 VII.- Ordenar o llevar a cabo todos aquellos actos que le corresponda realizar, conforme a la ley, para la práctica y conclusión de las diligencias de preparación del ejercicio de la acción penal.
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+VIII.- En las indagatorias en contra de miembros de una asociación delictuosa, la investigación deberá comprender el conocimiento de las estructuras y formas de operación de dichos grupos.
+
+Con ese propósito, el Procurador General de Justicia podrá autorizar la infiltración de elementos investigadores, dentro de las asociaciones delictivas, siempre y cuando con ello no se cause daño a la integridad de las personas y sea necesario para los fines previstos en el párrafo precedente.
 
 ARTICULO 21 (Facultades del Ministerio Público en ejercicio de la acción penal).- En ejercicio de la acción penal, corresponde al Ministerio Público:
 
@@ -269,19 +277,31 @@ Si el defensor fuere de oficio, el juzgador deberá, además, poner en conocimie
 
 ### CAPITULO IV. EL OFENDIDO
 
-> <small>(F. DE E., P.O. 24 DE AGOSTO DE 1989)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-ARTICULO 36 (Intervención del ofendido durante las diligencias de preparación del ejercicio de la acción penal).- Durante las diligencias de preparación del ejercicio de la acción penal, la persona ofendida por el delito podrá proporcionar al Ministerio Público todos aquellos datos, indicios y medios de prueba que tenga y que puedan contribuir a la demostración del cuerpo del delito, de la probable responsabilidad del imputado y de los daños y perjuicios ocasionados por aquél.
+ARTICULO 36 (Derechos del ofendido durante las diligencias de preparación del ejercicio de la acción penal).- Durante las diligencias de preparación del ejercicio de la acción penal, la persona ofendida por el delito tendrá los siguientes derechos:
 
-Una vez comprobado el cuerpo del delito, el ofendido podrá solicitar al Ministerio Público que dicte las providencias necesarias para asegurar sus derechos o restituirlo en el goce de éstos, siempre que estén legalmente justificados y se otorgue, en su caso, caución bastante para garantizar el pago de los daños y perjuicios que pudieran ocasionarse a terceros o al imputado.
+I.- Proporcionar al Ministerio Público todos aquellos datos, objetos, instrumentos o medios de prueba que tenga, y que puedan contribuir a la demostración de los elementos materiales del delito, de la responsabilidad del imputado, de la existencia de daños y perjuicios, así como su monto, ocasionados por aquél;
 
-El Ministerio Público deberá notificar personalmente al ofendido las determinaciones que tome sobre el ejercicio o no ejercicio de la acción penal y la reserva del expediente.
+II.- Solicitar al Ministerio Público, una vez que éste tenga la estimativa de que están comprobados los elementos del tipo, que dicte las providencias necesarias para asegurar sus derechos o restituirlo en el goce de éstos, siempre que estén legalmente justificados y se otorgue, cuando así lo considere necesario el órgano investigador, caución bastante para garantizar el pago de daños y perjuicios que pudieran ocasionarse a terceros o al imputado.
 
-ARTICULO 37 (Carácter del ofendido de coadyuvante del Ministerio Público durante el proceso).- La persona ofendida por el delito podrá coadyuvar con el Ministerio Público durante el proceso penal, proporcionando al Juzgador, por conducto de aquél o directamente, todos los elementos que tenga y que conduzcan a comprobar la procedencia y el monto de la reparación de los daños y perjuicios ocasionados por la comisión del delito.
+III.- A que se le notifique personalmente las determinaciones sobre el ejercicio o no ejercicio de la acción penal, o de la determinación de reserva;
 
-El ofendido o sus legítimos representantes podrán solicitar al juzgador que decrete el embargo precautorio de los bienes en que pueda hacerse efectiva, en su oportunidad, la reparación de los daños y perjuicios, así como que dicte las providencias necesarias para que se le restituya en el goce de sus derechos, en los términos previstos en este Código.
+IV.- A impugnar, en los términos y forma que el presente Código establece, las determinaciones del no ejercicio de la acción penal tomadas por el Procurador General de Justicia.
 
-El ofendido y sus legítimos representantes podrán formular conclusiones e interponer el recurso de apelación, cuando hayan intervenido como coadyuvantes del Ministerio Público, exclusivamente para los fines de la reparación de los daños y perjuicios.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 37 (De los derechos del ofendido ante el órgano jurisdiccional).- La persona ofendida por el delito, en la fase del procedimiento ante el órgano jurisdiccional, tendrá los siguientes derechos:
+
+I.- Coadyuvar con el Ministerio Público durante la fase judicial del procedimiento penal, ofreciendo al juzgador, por conducto de aquél o directamente, medios de prueba que conduzcan a comprobar la existencia del delito, la responsabilidad penal del imputado, y la existencia y monto de los daños y perjuicios que se le hayan ocasionado;
+
+II.- Pedir directamente al órgano jurisdiccional que decrete el embargo precautorio de los bienes en que puedan hacerse efectivos, en su oportunidad, la reparación de los daños y perjuicios, así como que dicte las providencias necesarias para que se le restituya en el goce de sus derechos, en los términos previstos en este Código;
+
+III.- En el mismo plazo concedido al Ministerio Público, formular conclusiones, únicamente por lo que respecta a la existencia de daños y perjuicios y su monto;
+
+IV.- Interponer el recurso de apelación, únicamente por lo que respecta al concepto a que se refiere la fracción anterior,
+
+V.- Impugnar, en los términos de la presente ley, el desistimiento de la acción penal y las conclusiones no acusatorias, ratificadas por el Procurador General de Justicia.
 
 ## TITULO TERCERO. ACTOS PROCESALES
 
@@ -499,7 +519,7 @@ Si alguna persona del público se comunica o intenta comunicarse con el imputado
 
 ARTICULO 95 (Orden en el uso de la palabra).- En toda audiencia, el imputado y su defensor tendrán siempre el derecho a hacer uso de la palabra en último lugar.
 
-ARTICULO 96 ( Alteración del orden por el imputado) Si el imputado altera el orden en una audiencia, se le apercibirá de que si insiste en su actitud se tendrá por renunciado su derecho de estar presente; si no obstante esto, continúa, se le mandará retirar del local y proseguirá la diligencia con su defensor.
+ARTICULO 96 (Alteración del orden por el imputado) Si el imputado altera el orden en una audiencia, se le apercibirá de que si insiste en su actitud se tendrá por renunciado su derecho de estar presente; si no obstante esto, continúa, se le mandará retirar del local y proseguirá la diligencia con su defensor.
 
 Todo esto, sin perjuicio de aplicarle la corrección disciplinaria que el Tribunal estime pertinente.
 
@@ -617,11 +637,43 @@ La garantía se cancelará y en su caso se devolverá cuando se resuelva el no e
 
 ### CAPITULO IV. LIBERTAD PROVISIONAL BAJO CAUCION
 
-> <small>(REFORMADO P.O. 16 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-ARTICULO 121 (Libertad provisional bajo caución).- Todo imputado tendrá derecho a ser puesto en libertad provisional bajo caución, siempre y cuando se garantice el monto estimado de la reparación del daño y de las sanciones pecuniarias que en su caso puedan imponerse al inculpado y no se trate de los delitos que por su gravedad se prohiba expresamente conceder ese beneficio.
+ARTICULO 121 (Delitos graves, en tratándose de la Libertad provisional bajo caución).- Para los efectos de los artículos 16 y 20 de la Constitución Política de los Estados Unidos Mexicanos, se consideran delitos graves los previstos en la ley sustantiva penal, en los siguientes casos:
 
-Para los efectos de los artículos 16 y 20 de la Constitución General de la República, se consideran delitos graves los establecidos en los artículos 125, 126, 127, fracción IX, cuando el delito se cometa en las circunstancias previstas por el artículo 131, 150 excepto cuando se trate del supuesto previsto en el último párrafo, 157, 160, 161, 162, 163, 182, fracción II, cuando se cometa en cualquiera de las circunstancias señaladas en el artículo 183 del Código Penal, 213, en el supuesto establecido en el párrafo quinto, 247, en el caso establecido en el párrafo segundo, 248, párrafo segundo, 249, 250, 251, 252, 254, excepto el caso previsto en el segundo párrafo y 255, con exclusión del tercer párrafo. En estos casos no procederá la libertad provisional bajo caución.
+I.- El homicidio culposo, en los supuestos del artículo 76;
+
+II.- El homicidio, en los supuestos de los artículo (sic) 125 y 126;
+
+III.- Las lesiones previstas en la fracción IX del artículo 127, cuando concurrran las circunstancias señaladas en el artículo 131;
+
+IV.- El secuestro en los supuestos del artículo 150, excepto cuando se ponga en libertad a la persona antes de tres días y sin causar ningún perjuicio;
+
+V.- El asalto en el supuesto señalado en el artículo 157;
+
+VI.- La violación en los supuestos de los artículos 160, 161, 162 y 163;
+
+VII.- El robo, en los supuestos establecidos en el artículo 183 y 183 bis;
+
+VIII.- El tráfico de menores en la circunstancia señalada en el párrafo quinto del artículo 213;
+
+IX.- El despojo previsto en el artículo 199, en tratándose de autores intelectuales o quienes dirijan el despojo en términos del artículo 200,
+
+X.- La asociación delictuosa prevista en los párrafos tercero y cuarto del artículo 220, así como todos los delitos que se cometan en las condiciones del párrafo segundo de dicho precepto;
+
+XI.- El lenocinio previsto en el artículo 238, si la persona sujeto de la explotación fuere menor de dieciséis años;
+
+XII.- La trata de personas previstas en el artículo 239, si el ofendido fuere menor de diesiséis años,
+
+XIII.- La sedición en el supuesto segundo del párrafo del artículo 247,
+
+XIV.- La rebelión en los supuestos de los artículos 249, 250, 251 y 252;
+
+XV.- El terrorismo en el supuesto del primer párrafo del artículo 254;
+
+XVI.- El sabotaje en los supuestos de las fracciones I y II del artículo 255, y
+
+XVII.- La tortura en los supuestos de los artículos 309 y 311.
 
 ARTICULO 122 (Otorgamiento de la libertad caucional).- Cuando se solicite la libertad caucional, inmediatamente el Juzgador deberá resolver de plano lo conducente.
 
@@ -739,7 +791,13 @@ Quien obtenga su libertad provisional bajo protesta tendrá las mismas obligacio
 
 La libertad provisional bajo protesta se substanciará en la forma establecida para los incidentes no especificados.
 
-ARTICULO 139 (Libertad bajo protesta o absoluta en segunda instancia).- Será igualmente puesto igualmente en libertad bajo protesta el imputado, sin necesidad de satisfacer los requisitos del artículo anterior, cuando cumpla la pena impuesta en primera instancia, estando pendiente el recurso de apelación interpuesto por el Ministerio Público.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 139 (Libertad bajo protesta cuando el imputado cumpla la pena impuesta en primera instancia o en caso de conclusiones no acusatorias confirmadas por el Procurador General de Justicia, estando pendiente resolver el medio de impugnación).- Será puesto igualmente en libertad bajo protesta el imputado, sin necesidad de satisfacer los requisitos del artículo anterior, en los siguientes casos:
+
+a).- Cuando habiéndose tenido al Procurador General de Justicia ratificando las conclusiones no acusatorias formuladas por el Agente del Ministerio Público, el ofendido interponga el recurso de revisión;
+
+b).- Cuando cumpla la pena impuesta en primera instancia, estando pendiente el recurso de apelación interpuesto por el Ministerio Público.
 
 El imputado será puesto en libertad absoluta, cuando cumpla la pena impuesta en la sentencia de primera instancia, estando pendiente sólo el recurso de apelación interpuesto por el propio imputado o su defensor.
 
@@ -1099,11 +1157,13 @@ La querella puede formularse verbalmente o por escrito, observándose para ello 
 
 ARTICULO 221 (Querella de menores).- Cuando el ofendido sea mayor de dieciséis años, podrá querellarse por si mismo. Tratándose de menores de esta edad o de otros incapaces, la querella se presentará por quienes ejerzan la patria potestad o la tutela, y a falta de éstos, por el Ministerio Público.
 
-ARTICULO 222 (Querella por poder).- La querella formulada en representación de personas físicas o morales, se admitirá cuando el apoderado tenga poder especial o poder general con cláusula especial para formular querella, sin que sean necesarias acuerdo o calificación del Consejo de Administración o de la Asamblea de socios o accionistas, poder especial para el caso determinado, ni instrucciones concretas del mandante.
+ARTICULO 222 (Querella por poder).- La querella formulada en representación de personas físicas o morales, se admitirá cuando el apoderado tenga poder especial o poder general con cláusula especial para formular querella, sin que sean necesarios acuerdo o calificación del Consejo de Administración o de la Asamblea de socios o accionistas, poder especial para el caso determinado, ni instrucciones concretas del mandante.
 
 ### CAPITULO I. DE LAS ACTAS MINISTERIALES
 
-ARTICULO 223 (Medidas a tomar durante las diligencias de preparación del ejercicio de la acción penal).- Inmediatamente que el Ministerio Público tenga conocimiento, por denuncia o querella, de la probable existencia de un delito, dictará todas las medidas y providencias necesarias para proporcionar seguridad y auxilio a las víctimas, impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho delictuoso, los instrumentos o cosas objeto o efectos del mismo; determinar qué personas fueron testigos; evitar que el delito se siga cometiendo y, en general, impedir que se dificulte la averiguación, procediendo a la detención de los probables responsables en los casos de flagrantes delito.
+> <small>(REFORMADO P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 223 (Medidas a tomar durante las diligencias de preparación del ejercicio de la acción penal).- Inmediatamente que el Ministerio Público tenga conocimiento, por denuncia o querella, de la probable existencia de un delito, dictará todas las medidas y providencias necesarias para proporcionar seguridad y auxilio a las víctimas, así como a los testigos que depongan contra el imputado, impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho delictuoso, los instrumentos o cosas objeto o efectos del mismo; determinar qué personas fueron testigos; evitar que el delito se siga cometiendo y, en general, impedir que se dificulte la averiguación, procediendo a la detención de los probables responsables en los casos de flagrante delito.
 
 ARTICULO 224 (Acta inicial).- En el caso del artículo anterior, se procederá a levantar el acta correspondiente, que contendrá: la hora, fecha y modo en que se tenga conocimiento por la denuncia o querella; el nombre y carácter de la persona que denunció o se querelló de ellos, y su declaración, y la del indiciado, si se encontrare presente; la descripción de lo que haya sido objeto de inspección; los nombres y domicilio de los testigos que no se hayan podido examinar; el resultado de la observación de las particularidades que se hayan notado a raíz de ocurridos los hechos, en las personas que en ellos intervengan; las medidas y providencias que se hayan tomado para la investigación de los hechos, así como los demás datos y circunstancias que se estime necesario hacer constar.
 
@@ -1179,7 +1239,7 @@ ARTICULO 237 (Deber para preservar las huellas del delito).- El Ministerio Públ
 
 ARTICULO 238 (Obligación de recoger los instrumentos y objetos del delito).- Los instrumentos del delito, así como las cosas que sean objeto o producto de él, y aquellos en que existan huellas del mismo o pudieren tener relación con éste, serán recogidos por el Ministerio Público o el Juzgador, en su caso, quienes deberán dictar las medidas necesarias para que dichos instrumentos y objetos no se alteren, destruyan o desaparezcan.
 
-De todas las cosas recogidas, se hará un inventario en el que se les describirá de tal manera que en cualquier tiempo puedan ser identificadas..
+De todas las cosas recogidas, se hará un inventario en el que se les describirá de tal manera que en cualquier tiempo puedan ser identificadas.
 
 ARTICULO 239 (Conservación de las cosas recogidas).- Las cosas inventariadas conforme al artículo anterior, se quedarán en el lugar o recipiente adecuado, según su naturaleza, debiéndose tomar las precauciones necesarias para asegurar su conservación e identidad.
 
@@ -1187,9 +1247,15 @@ ARTICULO 240(Vista de las cosas recogidas).- Siempre que sea necesario tener a l
 
 ### CAPITULO IV. CATEOS
 
-ARTICULO 241 (Autoridad facultada para expedir una orden de cateo y sus requisitos).- Sólo el Juzgador podrá expedir, tanto en las diligencias de preparación del ejercicio de la acción penal como en el proceso, orden de cateo, la cual será escrita, expresará el lugar que ha de inspeccionarse, las personas que hayan de aprehenderse, los objetos que se buscan y los motivos que lo justifiquen.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 241 (Autoridad facultada para expedir una orden de cateo y sus requisitos).- En toda orden de cateo, que sólo la autoridad judicial podrá expedir y que será escrita, se expresará el lugar que ha de inspeccionarse y los objetos que se buscan, a lo que únicamente debe limitarse la diligencia, levantándose al concluir, una Acta Circunstanciada, en presencia de dos testigos propuestos por el ocupante del lugar cateado, o en su ausencia o negativa, por la autoridad que practique la diligencia.
 
 Según las circunstancias del caso, el Juzgador resolverá si el cateo lo realiza su personal, el Ministerio Público o ambos.
+
+Cuando el Ministerio Público solicite al juzgador una orden de cateo con motivo de la investigación de algún delito, dicha petición deberá ser resuelta a la brevedad posible, que no podrá exceder de las seis horas siguientes de haber sido recibida la petición, por la autoridad judicial.
+
+El cateo ordenado deberá efectuarse dentro de los quince días naturales siguientes a su fecha. Una vez practicado el mismo, independientemente de su resultado, se dará cuenta al juez que lo ordenó, y si fuere necesario practicarlo nuevamente, se requerirá otra orden del juzgador.
 
 ARTICULO 242 (Motivos para el cateo).- Para decretar la práctica de un cateo, bastará la existencia de indicios o datos que hagan presumir fundamente que el inculpado a quien se trate de aprehender, se halla en el lugar en que deba efectuarse la diligencia o que se encuentran en él los objetos materia del delito, el instrumento del mismo, libros, papeles u otros objetos que puedan servir para la comprobación del delito o de la responsabilidad del inculpado.
 
@@ -1225,7 +1291,7 @@ ARTICULO 248 (Requisitos).- Para ejercer la acción penal el Ministerio Público
 
 ARTICULO 249 (Ejercicio de la acción penal).- Tan pronto como el Ministerio Público determine que en las diligencias de preparación del ejercicio de la acción penal se ha comprobado el cuerpo del delito y por lo menos la probable responsabilidad del indiciado, ejercerá la acción penal, solicitando del órgano jurisdiccional la orden de aprehensión o de comparecencia, según corresponda, de los probables responsables.
 
-ARTICULO 250 (Efectos de la aprehensión).- En los casos en que hubiere alguna persona detenida, se hará la consignación al juzgado que corresponda. Se entenderá que el inculpado queda a disposición del Juzgador, para los efectos constitucionales y legales correspondientes, desde el momento en que el Ministerio Público lo ponga a disposición de aquél en la prisión preventiva o en el centro de salud en que se encuentre, si el imputado requiere atención médica urgente. El Ministerio Público dejará constancia de que el detenido quedó a disposición de la autoridad judicial y entregará copia de aquélla al encargado del reclusorio o del centro de salud, quien asentará día y hora del recibo.
+ARTICULO 250 (Efectos de la aprehensión).- En los casos en que hubiere alguna persona detenida, se hará la consignación al juzgado que corresponda. Se entenderá que el inculpado queda a disposición del Juzgador, para los efectos constitucionales y legales correspondientes, desde el momento en que el Ministerio Público lo ponga a disposición de aquél en la prisión preventiva o en el centro de salud en el que se encuentre, si el imputado requiere atención médica urgente. El Ministerio Público dejará constancia de que el detenido quedó a disposición de la autoridad judicial y entregará copia de aquélla al encargado del reclusorio o del centro de salud, quien asentará día y hora del recibo.
 
 En el pliego de consignación, el Ministerio Público hará expreso señalamiento de los datos reunidos durante las diligencias de preparación del ejercicio de la acción penal que, a su juicio, puedan ser considerados para los efectos previstos en el artículo 20, fracción I de la Constitución, y en los preceptos de este Código referentes a la libertad provisional bajo caución, tanto por lo que toca a la determinación del tipo penal, incluyendo sus modalidades, como por lo que respecta a los elementos que deban tomarse en cuenta para el monto de la garantía.
 
@@ -1237,11 +1303,11 @@ Si la denuncia o querella se presentan ante un agente del Ministerio Público di
 
 ### CAPITULO II. NO EJERCICIO DE LA ACCION PENAL
 
-> <small>(F. DE E., P.O. 24 DE AGOSTO DE 1989)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-ARTICULO 253 (No ejercicio de la acción penal)- Cuando en vista de las diligencias de preparación del ejercicio de la acción penal, el Ministerio Público determine que no es de ejercitarse la acción penal por los hechos que se hubieren denunciado o por los que se hubiere presentado querella, el denunciante, el querellante o el ofendido podrán ocurrir al Procurador General de Justicia del Estado, dentro del término de quince días contados a partir del día siguiente a aquél en que se haya hecho saber personalmente al interesado dicha determinación, para que este funcionario, oyendo el parecer de sus agentes auxiliares, decida en definitiva si debe o no ejercerse la acción penal.
+ARTICULO 253 (No ejercicio de la acción penal, y derecho del ofendido a impugnarla)- Cuando en vista de las diligencias de preparación del ejercicio de la acción penal, el Agente del Ministerio Público estime que no es de ejercitarse la acción penal por los hechos que se le hubieren dado a conocer en la denuncia o querella, solicitará al Procurador General de Justicia autorización de archivo y no ejercicio de la acción penal, notificando desde luego en forma personal al ofendido, quien tendrá el derecho de ocurrir ante el Procurador General de Justicia del Estado dentro del término de quince días contados a partir del día siguiente al en que se le hizo la notificación para que este funcionario, oyendo el parecer de sus agentes auxiliares, si así lo estima conveniente, decida en definitiva si debe o no ejercitarse la acción penal. Esta determinación será notificada personalmente al ofendido.
 
-Esta decisión de la autoridad investigadora será notificada personalmente al ofendido para los efectos que procedan.
+Haya o no acudido el ofendido ante el Procurador General de Justicia del Estado a ejercer el derecho a que se refiere el párrafo anterior, si la determinación fuere de no ejercicio de la acción penal, podrá impugnarla en los términos establecidos por este Código.
 
 ARTICULO 254 (Hipótesis de no ejercicio de la acción penal).- El Ministerio Público no ejercitará acción penal:
 
@@ -1369,11 +1435,23 @@ ARTICULO 279 (Modificación de conclusiones).- Las conclusiones del Ministerio P
 
 ARTICULO 280 (Conclusiones no acusatorias o contrarias a las constancias procesales).- Si las conclusiones del Ministerio Público fueren de no acusación o contrarias a las constancias procesales, el juez, señalando en qué consiste la contradicción, cuando ésta sea el motivo de la remisión, dará vista de ellas con el proceso respectivo al Procurador General de Justicia, para que éste las confirme, modifique o revoque.
 
-ARTICULO 281 (Confirmación, modificación o revocación del Procurador General de Justicia). Para los efectos del artículo anterior, el Procurador General de Justicia dentro de los quince días siguientes al de la fecha en que haya recibido el proceso, resolverá si son de confirmarse, modificarse o revocarse las conclusiones. Si transcurrido este plazo no se recibe respuesta del Procurador General de Justicia, se entenderá que las conclusiones han sido confirmadas.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-ARTICULO 282 (Sobreseimiento en caso de conclusiones no acusatorias confirmadas).- Si el pedimiento del Procurador General de Justicia, fuere de no acusación, el juez, al recibir aquél, dictará auto de sobreseimiento y ordenará la absoluta libertad del procesado.
+ARTICULO 281 (Confirmación, modificación o revocación de conclusiones contrarias a las constancias procesales o de no acusación).- Para los efectos del artículo anterior, el Procurador General de Justicia, dentro de los quince días siguientes al de la fecha en que haya recibido el proceso, resolverá si son de confirmarse, modificarse o revocarse las conclusiones.
 
-ARTICULO 283 (Revocación de conclusiones no acusatorias).- Si el Procurador General de Justicia revoca las conclusiones no acusatorias y fórmula de acusación se procederá como lo dispone el artículo siguiente.
+Se entenderá que las concusiones contrarias a las constancias procesales o de no acusación formuladas por el Agente del Ministerio Público han sido confirmadas por el Procurador General de Justicia, en los siguientes casos:
+
+a) Cuando así lo manifieste expresamente dentro del plazo a que se refiere el presente artículo;
+
+b) Si transcurrido el plazo de quince días, no se recibe respuesta del Procurador General de Justicia.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 282 (Derecho del ofendido a impugnar las conclusiones no acusatorias confirmadas por el Procurador General de Justicia. Situación del imputado y caso de sobreseimiento).- Confirmadas por el Procurador General de Justicia las conclusiones no acusatorias formuladas por el Agente del Ministerio Público, en los términos del artículo anterior, se dará vista al imputado y al ofendido, quien en el plazo de diez días hábiles podrá interponer el recurso de revisión. Si el imputado, se encuentra privado de su libertad, se le concederá libertad bajo protesta, y si se encuentra gozando de libertad provisional bajo caución, subsistirá ésta hasta en tanto se dicte resolución definitiva.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 283 (Revocación de conclusiones no acusatorias).- Si el Procurador General de Justicia revoca las conclusiones no acusatorias y fórmula de acusación, o revocadas las de no acusación como resultado del recurso de revisión interpuesto, se procederá como lo dispone el artículo siguiente.
 
 # LIBRO CUARTO. PROCESO
 
@@ -1463,7 +1541,83 @@ ARTICULO 299 (Resolución).- El Juzgador resolverá de plano sobre la suspensió
 
 ARTICULO 300 (Suspensión de procedimiento no penal).- Cuando el Juzgador que conozca de un proceso no penal tenga conocimiento de que existe un procedimiento penal, sobre hechos delictuosos de tal naturaleza que, si se llegare a dictar sentencia penal con motivo de ellos, éste deba necesariamente influir en la resolución que pudiera dictarse en el proceso no penal, suspenderá este último, hasta que se pronuncie resolución definitiva en el asunto penal.
 
-### CAPITULO II. SOBRESEIMIENTO
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO II. SUSPENSION A PRUEBA DEL PROCEDIMIENTO PENAL
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 300 A (Definición).- La suspensión a prueba del procedimiento penal es una medida por la que el juez, suspenderá con la debida motivación el procedimiento, conforme a lo dispuesto en el presente Código. Durante el plazo de suspensión, la autoridad administrativa deberá proveer a un periodo de vigilancia, orientación y asistencia al beneficiado, quien quedará sujeto a las condiciones y medidas que se le impongan.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 300 B (REQUISITOS).- Si se trata de delitos que el Código de Procedimientos Penales no considere como graves o cometidos bajo la modalidad de asociación delictuosa agravada, el juez a petición del imputado, suspenderá el procedimiento si se reúnen los requisitos siguientes:
+
+I.- (Requisito de delincuencia primaria y no sujeción a otro proceso).- Que el imputado no haya sido condenado con anterioridad por sentencia ejecutoria, por delito doloso y no se encuentre sujeto a otro proceso penal;
+
+II.- (Primera vez beneficiado).- Que no se haya concedido el mismo beneficio en proceso diverso.
+
+III.- (No presunción de riesgos graves). Que de las circunstancias del hecho y personales del inculpado no existan datos que permitan racionalmente presumir que, de concederse la suspensión, se presentarían riesgos graves a los bienes jurídicos de las personas.
+
+IV.- (Requisito de reparación de daños y perjuicios).- Que se haya pagado la reparación de los daños y perjuicios causados al ofendido o a quien tenga derecho a ello. Esto no se entenderá como aceptación de culpabilidad.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 300 C.- El imputado que considere tener derecho al beneficio de la suspensión a prueba del procedimiento penal, deberá solicitarlo dentro del plazo de cinco días hábiles siguientes al que declare cerrada la instrucción, debiéndose tramitar al efecto un incidente en términos de los no especificados.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 300 D.- (Condiciones para el beneficio de la suspensión).- Para disfrutar de la suspensión a prueba, el procesado deberá:
+
+I.- (Otorgar caución).- Exhibir la garantía que el juzgador estime suficiente y adecuada, para asegurar su presentación ante la autoridad, cuantas veces fuere requerido;
+
+II.- (Obligación de residir en determinado lugar).- Residir en determinado lugar, del que no podrá ausentarse sin permiso de la autoridad que ejerza sobre él orientación y vigilancia;
+
+III.- (Obligación de trabajar).- Tendrá obligación de trabajar en el arte, oficio u ocupación lícitos, durante el plazo que prudentemente se le fije;
+
+IV.- (Abstinencia del abuso de bebidas alcohólicas, empleo de estupefacientes y substancias tóxicas).- Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes, psicotrópicos, sustancias volátiles inhalables o de efectos análogos, salvo por tratamiento o prescripción médica;
+
+V.- (Prohibición de ocurrir a ciertos lugares).- Abstenerse de frecuentar bares, cantinas, cabarets o lugares similares, salvo que su fuente de trabajo implique concurrir a dichos centros.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 300 E.- (Efectos de la suspensión a prueba).- Al beneficiado con la suspensión a prueba del procedimiento penal, el Juez le señalará un plazo no menor de dos años ni mayor de cinco, en que quedará sujeto a las medidas que el mismo órgano jurisdiccional determine según las circunstancias del caso, de orientación, vigilancia y asistencia de la autoridad en los términos de la Ley de Ejecución de Sanciones Privativas y Restrictivas de la Libertad.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 300 F.- (Término de la suspensión a prueba y autoridad que la declara).- Si durante el plazo previsto en el artículo anterior, contado a partir de que se le concedió la suspensión a prueba del procedimiento penal, el beneficiado no diere lugar a nuevo proceso por delito doloso y haya cumplido con las condiciones y medidas impuestas, se sobreseerá el proceso.
+
+> <small>(ADICIONAD,O P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 300 G.- (Hipótesis de revocación).- La suspensión a prueba se revocará en los casos siguientes:
+
+I.- (Revocación por incumplimiento de obligaciones).- En caso de que dentro del plazo a que se contrae el artículo 300 E, el beneficiado no cumpla con algunas de las condiciones a que se refieren las fracciones II a la V del artículo 300 D, o con las medidas de orientación, vigilancia y asistencia que se acuerden por la autoridad, en términos de lo previsto por el artículo 300 E, a petición del Ministerio Público, deberá reanudar el procedimiento, previo a lo cual tendrá que tramitarse el incidente respectivo, en los términos de los no especificados.
+
+II.- (Muerte o insolvencia del fiador).- Por muerte o insolvencia del fiador o cuando éste lo solicite expresamente y presente al imputado, a menos que el inculpado presente uno nuevo.
+
+III.- (Revocación necesaria por delito doloso y discrecional por delito culposo).- Si el beneficiado dentro del plazo previsto en el artículo 300 E, contados desde la suspensión del procedimiento, diere lugar a nuevo proceso, se reanudará el proceso suspendido, acumulándose conforme a las reglas del artículo 13 del presente Código; en caso de delito culposo, se resolverá motivadamente si debe o no revocarse la suspensión concedida.
+
+IV.- (A solicitud del procesado).- Cuando el procesado lo solicite, poniéndose a disposición del juzgador.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 300 H.- (Formas de revocación de la suspensión).- La revocación de la suspensión a prueba del procedimiento se hará por el juez que la concedió, de oficio o a petición de parte, cuando el beneficiado lo solicite y se ponga a disposición del juzgador, y cuando el fiador lo solicite expresamente, presentando al procesado. En cualquier otro caso, se hará oficio mediante el trámite incidental correspondiente.
+
+La autoridad encargada de la orientación, vigilancia y asistencia, está obligada a informar trimestralmente al juzgador sobre el desarrollo de dicha medida, así como poner en conocimiento del Ministerio Público y del juez, cualquier circunstancia que, a su juicio, amerite la revocación.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 300 I.-(Información para la vigilancia del beneficiado).- Una vez decretada la suspensión del procedimiento penal a prueba, se prevendrá al procesado para que se presente ante la Dirección de Prevención y Readaptación Social, dentro de los cinco días siguientes, apercibido que de no hacerlo se le revocará el beneficio. De igual forma, el Juez remitirá a la propia Dirección el duplicado del expediente en el que conste el procedimiento penal.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 300 J.- (Sobre la caución).- En los casos de suspensión del procedimiento penal a prueba, es aplicable en lo conducente lo establecido en el capítulo relativo a la libertad provisional bajo caución, respecto al otorgamiento de ésta, obligaciones de quien otorga la garantía, y casos en que se hará efectiva.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+## TITULO CUARTO. SUSPENSION Y EXTINCION DEL PROCEDIMIENTO
+
+### CAPITULO TERCERO (SIC). SOBRESEIMIENTO
 
 ARTICULO 301 (Causas de sobreseimiento).- El sobreseimiento procederá en los casos siguientes:
 
@@ -1475,17 +1629,21 @@ III.- En los demás casos que señale la Ley.
 
 ARTICULO 302 (Oportunidad del sobreseimiento).- El auto de sobreseimiento se dictará tan pronto como se pruebe la causa que lo origine.
 
-## TITULO CUARTO. SUSPENSION Y EXTINCION DEL PROCEDIMIENTO
-
 ### CAPITULO I. DISPOSICIONES COMUNES
 
-ARTICULO 305 (Reglas generales y condiciones de interposición).- Las resoluciones judiciales serán impugnadas sólo por los medios y en los casos expresamente establecidos. La impugnación respectiva debe ser interpuesta en las condiciones de tiempo y forma en que determine este Código, salvo lo dispuesto en el artículo 308 de la presente ley.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 305 (Reglas generales y condiciones de interposición).- Las resoluciones judiciales y las del Procurador General de Justicia, serán impugnables sólo por los medios y en los casos expresamente establecidos. La impugnación respectiva debe ser interpuesta en las condiciones de tiempo y forma que determina este Código, salvo lo dispuesto en el artículo 308 de la presente Ley.
 
 ARTICULO 306 (Objeto de las impugnaciones).- Las impugnaciones, según el caso, tienen por objeto examinar, si en la resolución recurrida no se aplicó la ley correspondiente o se aplicó inexactamente; si se violaron los principios reguladores de la valoración de la prueba, o si se alteraron los hechos.
 
-ARTICULO 307 (Sujetos legitimados para impugnar).- Tiene derecho a interponer la impugnación que proceda, salvo disposición expresa de la ley, el Ministerio Público, el imputado y su defensor, así como el ofendido o sus legítimos representantes, cuando hayan sido reconocidos por el Juzgador de primera instancia como coadyuvantes del Ministerio Público para efectos de la reparación de daños y perjuicios.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-En este último caso el estudio de la impugnación se contraerá, únicamente, a lo relativo a la reparación de daños y perjuicios, y a las medidas precautorias conducentes a asegurarla.
+ARTICULO 307 (Sujetos legitimados para impugnar).- Tienen el derecho a interponer el medio de impugnación que proceda, salvo disposición expresa de la ley, el ofendido cuando concluidas las diligencias de preparación del ejercicio de la acción penal, el Procurador General de Justicia del Estado, determine el no ejercicio de la misma; y durante la fase del procedimiento ante el órgano jurisdiccional, cuando el propio Procurador ratifique las conclusiones no acusatorias del Ministerio Público o exista desistimiento de la acción penal; en estas dos últimas hipótesis, aunque no se haya constituido en coadyuvante del Ministerio Público.
+
+De igual forma, están legitimados para interponer el medio de impugnación procedente, el Ministerio Público, el imputado y su defensor, así como el ofendido o sus legítimos representantes, cuando hayan sido reconocidos por el juzgador de primera instancia como coadyuvantes del Ministerio Público para efectos de la reparación de daños y perjuicios.
+
+En este último caso, el estudio de la impugnación se contraerá únicamente a lo relativo a la reparación de daños y perjuicios, y a las medidas precautorias conducentes a asegurarlos.
 
 ARTICULO 308 (Inconformidad equivalente a interposición de la impugnación).- Cuando el imputado manifieste su inconformidad al notificársele una resolución, deberá entenderse interpuesta la impugnación que proceda.
 
@@ -1527,14 +1685,6 @@ En la audiencia se desahogaran los medios de prueba ofrecidos, se escuchará a l
 
 Si no es posible que en esa audiencia concluya el desahogo de los medios de prueba propuestos, el juez podrá convocar, por una sola vez, a otra audiencia que se celebrará dentro de las cuarenta y ocho horas siguientes a la primera audiencia.
 
-### CAPITULO III. APELACION
-
-ARTICULO 315 (Forma y plazo de interposición).- La apelación deberá interponerse ante el Juzgador que dictó la resolución impugnada y podrá hacerse en la misma pieza de notificación o mediante escrito aparte, en el acto de la notificación o dentro de los cinco días siguientes si se tratare de sentencia, o de tres días si se interpusiere contra un auto.
-
-Al notificar al imputado la sentencia de primera instancia, se le habrá saber el plazo que la ley concede para interponer el recurso de apelación lo cual se asentará en el expediente.
-
-La omisión de este requisito surte el efecto de duplicar el plazo legal para interponer el recurso, y al secretario o actuario que haya incurrido en ello, se le aplicará una corrección disciplinaria, por parte del Magistrado Ponente que conozca de la apelación.
-
 ###### ARTICULO 303.
 
 (Clases de sobreseimiento).- El sobreseimiento puede decretarse de oficio o a petición de parte.
@@ -1546,6 +1696,16 @@ Se resolverá de plano cuando se decrete de oficio. Si fuere a petición de part
 (Efectos del sobreseimiento).- El auto de sobreseimiento que haya causado estado, surtirá los efectos de una sentencia absolutoria, con valor de cosa juzgada.
 
 ## TITULO QUINTO. IMPUGNACION
+
+### CAPITULO III. APELACION
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 315 (Forma y plazo de interposición).- Salvo lo dispuesto por el artículo 308 del presente código, la apelación deberá interponerse por escrito ante el juzgador que dictó la resolución impugnada dentro del plazo de diez días si se recurriera la sentencia, o seis días si se tratare de un auto. En el escrito de interposición del recurso, el apelante deberá expresar los motivos de inconformidad que tenga contra la resolución apelada, presentando copias simples del mismo, con las cuales deberá correrse traslado a la otra parte y al ofendido, en su caso.
+
+Al notificar al imputado la sentencia de primera instancia, se le hará saber el plazo que la ley concede para interponer el recurso de apelación lo cual se asentará en el expediente.
+
+La omisión de este requisito surte el efecto de duplicar el plazo legal para interponer el recurso, y al secretario o actuario que haya incurrido en ello, se le aplicará una corrección disciplinaria, por parte del Magistrado Ponente que conozca de la apelación.
 
 ### CAPITULO IV. DENEGADA APELACION
 
@@ -1576,22 +1736,6 @@ ARTICULO 332 (Interposición de la queja).- La queja deberá interponerse por es
 ARTICULO 333 (Substanciación).- El Tribunal Superior de Justicia en el plazo de cuarenta y ocho horas, le dará entrada a la queja y requerirá al Juzgador de Primera Instancia, a quien se le imputa la conducta omisiva que ha dado lugar a la queja, para que rinda informe dentro del plazo de tres días y envié las constancias relativas.
 
 Transcurrido este plazo, con informe o sin él, se dictará la resolución que proceda, y si se estima probada la omisión, el Tribunal de Segunda Instancia requerirá al Juzgador para que cumpla con la obligación respectiva dentro del plazo de tres días. La falta del informe a que se refiere el párrafo anterior, establece la presunción de ser cierta la omisión atribuida y hará incurrir al juez en multa de diez a cien veces el salario mínimo vigente en el momento y lugar en que hubiere ocurrido la omisión.
-
-### CAPITULO VI. REVISION EXTRAORDINARIA
-
-ARTICULO 334 (Oportunidad y procedencia).- El reconocimiento de la inocencia de un sentenciado, es admisible en todo tiempo, en los casos señalados en el Código Penal.
-
-ARTICULO 335 (Solicitud de Declaración de Inocencia).- El sentenciado que se crea con derecho a obtener el reconocimiento de su inocencia, ocurrirá al Tribunal Superior de Justicia por escrito en el que se expondrá la causa en que funda su petición, acompañando las pruebas que correspondan o protestando exhibirlas oportunamente. Sólo será admitida la prueba documental, salvo cuando, condenada alguna persona por homicidio de otra que hubiere desaparecido, se presente ésta o alguna prueba indubitable de que vive.
-
-ARTICULO 336 (Nombramiento de Defensor).- Al presentar su solicitud, el sentenciado nombrará defensor, conforme a las disposiciones conducentes de este Código.
-
-ARTICULO 337 (Tramitación).- Recibida la solicitud, se pedirá inmediatamente el expediente o expedientes a la oficina en que se encontraren; y cuando se haya protestado exhibir las pruebas, se señalará un plazo no mayor de treinta días para recibirlas.
-
-Recibido el expediente o los expedientes y, en su caso, las pruebas del promovente, se dará vista a las partes, primero al Ministerio Público y después al solicitante y a su defensor, por cinco días a cada uno, para que formulen alegatos.
-
-Formulados los alegatos o transcurridos los plazos anteriores, el Tribunal dictará sentencia dentro de los diez días siguientes.
-
-ARTICULO 338 (Ejecución del Reconocimiento).- Si se declara fundada la solicitud de reconocimiento de inocencia del sentenciado, se informará de esta resolución al Órgano ejecutor de sanciones del Estado, para que sin más trámite ponga en libertad absoluta al sentenciado y haga cesar todos los efectos de la sentencia anulada y procederá conforme al artículo 48 del Código Penal para el Estado.
 
 ###### ARTICULO 316.
 
@@ -1627,17 +1771,19 @@ ARTICULO 318 (Admisión o declaración de improcedencia de recurso).- Si la apel
 
 Contra el auto que admita la apelación no procede recurso alguno. En contra del auto que declare que es improcedente por cualquier causa el recurso de apelación interpuesto procederá el recurso de denegada apelación, conforme al artículo 328.
 
-ARTICULO 319 (Remisión del expediente).- Admitida la apelación se remitirá el original procedo al tribunal de apelación, salvo que el juzgador de primera instancia tenga que actuar necesariamente en el mismo, en este caso se enviará el duplicado autorizado.
+ARTICULO 319 (Remisión del expediente).- Admitida la apelación, con las copias correspondientes, se correrá traslado a las partes y al ofendido, en su caso, para que dentro del plazo de cinco días si se tratare de apelación contra sentencia o de tres si se tratare de apelación contra auto, den contestación a los motivos de inconformidad expresados por el apelante, hecho lo cual se remitirá el expediente original al tribunal de apelación, salvo que el juzgador de primera instancia tenga que actuar necesariamente en el mismo, en cuyo caso se enviará el duplicado.
+
+En los casos a que se refieren los artículos 308 y 312 párrafo segundo del presente código, el juzgador admitirá el recurso durante el día siguiente a que concluya el plazo para expresar los motivos de inconformidad, haciendo constar esta circunstancia y remitiendo desde luego el expediente original o el duplicado, según sea el caso, al tribunal de apelación.
 
 ARTICULO 320 (Radicación de Recurso).- Recibido el expediente original, el duplicado o el testimonio de apelación, el magistrado ponente dentro del término de tres días dictará auto de radicación en el que se calificará la admisión y los efectos de la apelación. Declarada inadmisible la apelación, se devolverán los autos al inferior; revocada la calificación del grado, se procederá en su consecuencia.
 
-ARTICULO 321 (Momento de expresar los motivos de inconformidad).- El apelante deberá expresar los motivos de inconformidad que tenga contra la resolución apelada dentro de los dias días siguientes a la notificación del auto de radicación. A su escrito acompañará copias simples para que se corra traslado a las demás partes por el plazo de cinco días para su contestación.
+###### ARTICULO 321.
 
-Las notificaciones a que se refiere este artículo se harán personalmente.
+(DEROGADO, P.O. 19 DE DICIEMBRE DE 1996)
 
-ARTICULO 322 (Deserción de la apelación).- Cuando el impugnante sea el Ministerio Público o el coadyuvante de éste, y no presente dentro del plazo que marca la ley sus motivos de inconformidad, de oficio se declarará desierto el recurso.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-En este caso, se devolverán enseguida las actuaciones al Juzgador de Primera Instancia, a no sr que exista apelación del imputado o su defensor.
+ARTICULO 322 (Obligación de expresar los motivos de inconformidad).- El juzgador no admitirá ningún recurso de apelación cuando en el escrito en el que se interponga no se expresen los motivos de inconformidad, salvo lo dispuesto por el artículo 308 del presente Código.
 
 ARTICULO 323 (Prohibición de reformar la resolución apelada en perjuicio del imputado).- Si solamente hubiera apelado el procesado o su defensor, no se podrá aumentar la sanción impuesta en la sentencia recurrida.
 
@@ -1647,9 +1793,69 @@ ARTICULO 325 (Falta de competencia del Juez de Primera Instancia).- Cuando el Ju
 
 ARTICULO 326 (Diligencias para mejor proveer).- Cuando el Tribunal una vez que tenga los autos a la vista para resolver, creyere necesario, para ilustrar su criterio, la práctica de alguna diligencia, podrá decretarla para mejor proveer, con citación de las partes y la desahogarán dentro del término de diez días son sujeción a las reglas establecidas por este Código, para el desahogo de pruebas.
 
-ARTICULO 327 (Sentencia).- Presentados los motivos de inconformidad y contestación, o transcurridos los plazos otorgados para este efecto, en su caso, el tribunal pronunciará el fallo correspondiente, dentro de un plazo de quince días, confirmando, revocando o modificando la resolución apelada, siempre que no exceda del término del artículo 8 de esta ley.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
-Cuando el impugnante sea el imputado o su defensor y no expresen sus motivos de inconformidad dentro del término de cinco días, el juzgador de apelación, de oficio dictará auto en que se haga constar esta circunstancia y citará a las partes para oir sentencia en los términos del párrafo anterior haciendo, en su caso, la suplencia a que se refiere el artículo 312 párrafo segundo del presente Código.
+ARTICULO 327 (Resolución del Recurso de Apelación).- Una vez calificada la admisión y los efectos de la apelación, el Tribunal procederá a pronunciar el fallo correspondiente dentro del plazo de quince días, sin que se exceda el plazo previsto por el artículo 8 del presente Código, haciendo en su caso, la suplencia a la que se refiere el artículo 312 segundo párrafo de este Código.
+
+### CAPITULO VI. REVISION EXTRAORDINARIA
+
+ARTICULO 334 (Oportunidad y procedencia).- El reconocimiento de la inocencia de un sentenciado, es admisible en todo tiempo, en los casos señalados en el Código Penal.
+
+ARTICULO 335 (Solicitud de Declaración de Inocencia).- El sentenciado que se crea con derecho a obtener el reconocimiento de su inocencia, ocurrirá al Tribunal Superior de Justicia por escrito en el que se expondrá la causa en que funda su petición, acompañando las pruebas que correspondan o protestando exhibirlas oportunamente. Sólo será admitida la prueba documental, salvo cuando, condenada alguna persona por homicidio de otra que hubiere desaparecido, se presente ésta o alguna prueba indubitable de que vive.
+
+ARTICULO 336 (Nombramiento de Defensor).- Al presentar su solicitud, el sentenciado nombrará defensor, conforme a las disposiciones conducentes de este Código.
+
+ARTICULO 337 (Tramitación).- Recibida la solicitud, se pedirá inmediatamente el expediente o expedientes a la oficina en que se encontraren; y cuando se haya protestado exhibir las pruebas, se señalará un plazo no mayor de treinta días para recibirlas.
+
+Recibido el expediente o los expedientes y, en su caso, las pruebas del promovente, se dará vista a las partes, primero al Ministerio Público y después al solicitante y a su defensor, por cinco días a cada uno, para que formulen alegatos.
+
+Formulados los alegatos o transcurridos los plazos anteriores, el Tribunal dictará sentencia dentro de los diez días siguientes.
+
+ARTICULO 338 (Ejecución del Reconocimiento).- Si se declara fundada la solicitud de reconocimiento de inocencia del sentenciado, se informará de esta resolución al Órgano ejecutor de sanciones del Estado, para que sin más trámite ponga en libertad absoluta al sentenciado y haga cesar todos los efectos de la sentencia anulada y procederá conforme al artículo 48 del Código Penal para el Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO VII. REVISION
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 338 A.- (Resoluciones impugnables en revisión).- El recurso de revisión es admisible en contra de:
+
+I.- Las determinaciones del no ejercicio de la acción penal que dicte el Procurador General de Justicia del Estado, una vez concluidas las diligencias de preparación del ejercicio de la acción penal, aunque el ofendido no haya hecho uso del derecho de audiencia a que se refiere el primer párrafo del artículo 253 de este Código;
+
+II.- El desistimiento de la acción penal, que se presente en cualquier momento del procedimiento seguido ante el órgano jurisdiccional, y
+
+III.- Las conclusiones no acusatorias formuladas por el Agente del Ministerio Público y ratificadas por el Procurador General de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 338 B.- (Interposición, tramitación y resolución del recurso de revisión, en contra de la determinación de no ejercicio de la acción penal).- El plazo para interponer recurso de revisión en contra de la determinación del no ejercicio de la acción penal dictada por el Procurador General de Justicia del Estado, será de diez días contados a partir de la notificación hecha al ofendido sobre dicha resolución, y se interpondrá por escrito en el que deberán expresarse los motivos de inconformidad, ante el propio Procurador, quien sin más trámite lo admitirá en el efecto ejecutivo.
+
+Admitido el recurso, y hecha la calificación del grado, remitirá al juez revisor, el original de las diligencias de preparación del ejercicio de la acción penal en que se haya dictado la determinación impugnada, expresando, si lo estima pertinente, lo que a su representación convenga respecto de los motivos de inconformidad expresados por el recurrente.
+
+Recibidas por el Juez revisor competente los originales de las diligencias de preparación del ejercicio de la acción penal, éste, dentro del plazo de tres días, dictará auto de radicación, calificando la admisión del recurso.
+
+Si éste se declara inadmisible, se devolverán las diligencias al Procurador General de Justicia.
+
+En su caso, el juez revisor pronunciará el fallo correspondiente dentro de un plazo de quince días contados a partir de la radicación del recurso, disponiéndose que el Procurador General de Justicia ejercite la acción penal, confirmando su no ejercicio o, en su caso, ordenando al Procurador que se continúe la investigación con el fin de que se recaben elementos suficientes para estar en condiciones de decidir sobre el ejercicio o no ejercicio de la acción penal.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 338 C.- (Interposición, tramitación y resolución del recurso de revisión en contra del desistimiento de la acción penal y en contra de las conclusiones no acusatorias confirmadas por el Procurador General de Justicia).- Contra el desistimiento de la acción penal, y contra las conclusiones no acusatorias ratificadas por el Procurador General de Justicia, el ofendido, aunque no se haya constituido en coadyuvante del Ministerio Público, dentro del plazo de diez días, podrá interponer el recurso de revisión.
+
+Para tal efecto, el órgano jurisdiccional, al recibir el desistimiento o la confirmación del Procurador General de Justicia del Estado, de las conclusiones no acusatorias formuladas por el Agente del Ministerio Público, sin dictar auto de sobreseimiento, notificará personalmente al ofendido.
+
+El propio ofendido podrá interponer recurso de revisión dentro del plazo señalado en el primer párrafo de este artículo; el recurso deberá interponerse por escrito ante el juez de la causa, en el que se expresen los motivos de inconformidad, so pena de no admitirlo. De su escrito, el ofendido deberá exhibir copias simples para que se corra traslado al Ministerio Público y a la defensa. El juez en su caso, admitirá el recurso en el efecto suspensivo, y ordenará correr traslado personalmente al Ministerio Público y a la defensa para que dentro del plazo de cinco días den contestación a los motivos de inconformidad. Transcurrido dicho plazo con contestación o sin ella, se enviará el original del expediente al juez revisor, salvo que el juzgador tenga que actuar necesariamente en el mismo, en cuyo caso se remitirá el duplicado autorizado.
+
+Recibido en el juzgado revisor el original o duplicado del expediente, el juez, dentro del plazo de tres días, dictará auto de radicación calificando la admisión del recurso. Si se declara inadmisible, se devolverá al juez de la causa; en caso contrario, el juez revisor pronunciará el fallo correspondiente dentro del plazo de quince días contados a partir de la radicación del recurso.
+
+Si el juez revisor revoca el desistimiento de la acción penal, devolverá al juez los autos para que se continúe el procedimiento. En caso contrario, dictará auto de sobreseimiento.
+
+Si lo que se revoca son las conclusiones no acusatorias ratificadas por el Procurador General de Justicia, devolverá al juez los autos para el efecto de que le dé vista al Ministerio Público para que formule conclusiones acusatorias dentro del plazo que al efecto se le haya concedido; en caso contrario, deberá decretar el sobreseimiento.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 338 D.- (Inimpugnabilidad de las resoluciones que se dicten con motivo del recurso de revisión).- Las determinaciones que dicte el juez revisor para resolver el recurso de revisión no admitirán medio de impugnación alguno.
 
 ### CAPITULO I. SUBSTANCIACION DE COMPETENCIAS
 
@@ -1683,7 +1889,7 @@ ARTICULO 352 (Tramitación por separado).- Los incidentes sobre competencia se t
 
 RECUSACIONES
 
-ARTICULO 353 (Calificación del impedimento).- El impedimento se calificará por el superior a quien correspondería resolver de una recusación, en vista del informe que, dentro de tres días, rinda el juez o magistrado. Contra la resolución que se dicte no habrá recurso alguno.
+ARTICULO 353 (Calificación del impedimento).- El impedimento se calificará por el superior a quien correspondería resolver de una recusación, en vista del informe que, dentro de tres días rinda el juez o magistrado. Contra la resolución que se dicte no habrá recurso alguno.
 
 ARTICULO 354 (Plazo para interponer la recusación).- La recusación puede interponerse en cualquier tiempo pero no después de que se haya citado para sentencia, y no suspende la instrucción ni la tramitación del recurso pendiente. Después de la citación para sentencia solo será admisible la recusación, en caso de que hubiere cambio de personal en el juzgado o del tribunal de conocimiento, y deberá proponerse dentro de los tres días siguientes a aquél en que se notifique el auto en que se haga saber tal circunstancia.
 
@@ -1727,40 +1933,6 @@ ARTICULO 362 (Excusas de los defensores de oficio).- Los defensores de oficio de
 
 Las excusas serán calificadas por el Jefe de Defensores de Oficio.
 
-### CAPITULO III. ACUMULACION DE EXPEDIENTES
-
-ARTICULO 363 (Causas de Acumulación).- Se acumularán los expedientes:
-
-I.- De los procesos que se sigan contra una misma persona;
-
-II.- De los procesos que se sigan en investigación de delitos conexos;
-
-III.- De los procesos que se sigan contra los copartícipes de un mismo delito; y
-
-IV.- De los procesos que se sigan, en investigación de un mismo delito, contra diversas personas.
-
-ARTICULO 364 (Tribunales de distinto fuero).- No procederá la acumulación de procesos que se sigan ante tribunales de distinto fuero. En estos casos, el procesado quedará, en cuanto a su libertad personal, a disposición de ambos órganos jurisdiccionales.
-
-El Juzgador que primero pronuncie sentencia ejecutoriada, la comunicará al otro. Este último, al pronunciar su fallo, se sujetará a lo que dispone el Código Penal para la imposición de penas en caso de acumulación.
-
-ARTICULO 365 (Oportunidad).- La acumulación no podrá decretarse en los procesos después de cerrada la instrucción.
-
-ARTICULO 366 (Comunicación de sentencia).- Cuando alguno de los procesos ya no estuviere en el estado de instrucción, pero tampoco estuviese concluido, o cuando no sea procedente la acumulación conforme a este capítulo, el Juzgador cuya sentencia cause ejecutoria la remitirá en copia certificada al tribunal que conozca del otro proceso, para los efectos de la aplicación de las penas.
-
-ARTICULO 367 (Acumulación ante el mismo Juzgador).- Si los procesos se siguen ante el mismo Juzgador, la acumulación podrá decretarse de oficio, sin substanciación alguna.
-
-Si la promoviese alguna de las partes, el tribunal las oirá en audiencia verbal que tandrá (sic) lugar dentro de tres días y, sin más trámite, resolverá dentro de idéntico plazo.
-
-ARTICULO 368 (Substanciación del incidente).- La acumulación deberá promoverse ante el Juzgador que, conforme al artículo 13 de este Código, sea competente; y el incidente a que dé lugar se substanciará en la forma establecida para las competencias por inhibitoria, sin suspenderse el procedimiento principal.
-
-ARTICULO 369 (Acumulación durante la preparación del proceso).- Las disposiciones de este capítulo serán aplicables desde la etapa de preparación del proceso, siempre y cuando no haya detenido.
-
-### CAPITULO IV. SEPARACION DE EXPEDIENTES
-
-> <small>(F. DE E., P.O. 24 DE AGOSTO DE 1989)</small>
-
-ARTICULO 370 (Separación de expedientes).- Procederá la separación de expedientes, únicamente, cuando, siguiéndose un proceso, por uno o varios delitos, en contra de varios inculpados, alguno o algunos de ellos renuncien al plazo a que se refiere el artículo 274 de este Código para ser juzgados, en tanto que otro u otros exijan se les respete dicho plazo.
-
 # LIBRO QUINTO. PROCEDIMIENTO ESPECIAL
 
 PARA INIMPUTABLES E
@@ -1802,6 +1974,40 @@ En caso de que el imputado recobre la salud, el procedimiento ordinario será re
 ARTICULO 346 (Sobreseimiento por determinación del trastorno mental transitorio).- En cualquier momento en que se determine por el Juzgador, tomando en consideración los dictámenes periciales respectivos, que el procesado superó el estado de anormalidad en que se hallaba al momento de realizar el hecho típico, el asunto se dará por terminado, sobreseyéndose el proceso especial y el ordinario que lo hubiere motivado, luego de lo cual se declararán sin efecto las medidas de seguridad que provisionalmente se hubieren determinado.
 
 ## TITULO SEGUNDO. INCIDENTES
+
+### CAPITULO III. ACUMULACION DE EXPEDIENTES
+
+ARTICULO 363 (Causas de Acumulación).- Se acumularán los expedientes:
+
+I.- De los procesos que se sigan contra una misma persona;
+
+II.- De los procesos que se sigan en investigación de delitos conexos;
+
+III.- De los procesos que se sigan contra los copartícipes de un mismo delito; y
+
+IV.- De los procesos que se sigan, en investigación de un mismo delito, contra diversas personas.
+
+ARTICULO 364 (Tribunales de distinto fuero).- No procederá la acumulación de procesos que se sigan ante tribunales de distinto fuero. En estos casos, el procesado quedará, en cuanto a su libertad personal, a disposición de ambos órganos jurisdiccionales.
+
+El Juzgador que primero pronuncie sentencia ejecutoriada, la comunicará al otro. Este último, al pronunciar su fallo, se sujetará a lo que dispone el Código Penal para la imposición de penas en caso de acumulación.
+
+ARTICULO 365 (Oportunidad).- La acumulación no podrá decretarse en los procesos después de cerrada la instrucción.
+
+ARTICULO 366 (Comunicación de sentencia).- Cuando alguno de los procesos ya no estuviere en el estado de instrucción, pero tampoco estuviese concluido, o cuando no sea procedente la acumulación conforme a este capítulo, el Juzgador cuya sentencia cause ejecutoria la remitirá en copia certificada al tribunal que conozca del otro proceso, para los efectos de la aplicación de las penas.
+
+ARTICULO 367 (Acumulación ante el mismo Juzgador).- Si los procesos se siguen ante el mismo Juzgador, la acumulación podrá decretarse de oficio, sin substanciación alguna.
+
+Si la promoviese alguna de las partes, el tribunal las oirá en audiencia verbal que tandrá (sic) lugar dentro de tres días y, sin más trámite, resolverá dentro de idéntico plazo.
+
+ARTICULO 368 (Substanciación del incidente).- La acumulación deberá promoverse ante el Juzgador que, conforme al artículo 13 de este Código, sea competente; y el incidente a que dé lugar se substanciará en la forma establecida para las competencias por inhibitoria, sin suspenderse el procedimiento principal.
+
+ARTICULO 369 (Acumulación durante la preparación del proceso).- Las disposiciones de este capítulo serán aplicables desde la etapa de preparación del proceso, siempre y cuando no haya detenido.
+
+### CAPITULO IV. SEPARACION DE EXPEDIENTES
+
+> <small>(F. DE E., P.O. 24 DE AGOSTO DE 1989)</small>
+
+ARTICULO 370 (Separación de expedientes).- Procederá la separación de expedientes, únicamente, cuando, siguiéndose un proceso, por uno o varios delitos, en contra de varios inculpados, alguno o algunos de ellos renuncien al plazo a que se refiere el artículo 274 de este Código para ser juzgados, en tanto que otro u otros exijan se les respete dicho plazo.
 
 ### CAPITULO V. REPARACION DE DAÑOS Y PERJUICIOS EXIGIBLES A TERCEROS
 
@@ -1925,6 +2131,12 @@ P.O. 16 DE DICIEMBRE DE 1993.
 
 PRIMERO.- La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
-> <small>(F. DE E., P.O. 20 DE ENERO DE 1994)</small>
+> <small>(F. DE E. P.O. 20 DE ENERO DE 1994)</small>
 
 SEGUNDO.- Lo previsto en los artículos 29, fracción I, 119 y 121, en lo que se refiere al beneficio de libertad provisional bajo caución, iniciarán su vigencia a partir del 3 de septiembre de 1994.
+
+P.O. 19 DE DICIEMBRE DE 1996.
+
+PRIMERO.- Esta Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente.
