@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2001-02-03"
+last_updated: "2001-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MARZO DE 2001.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -705,13 +705,17 @@ En la práctica de las diligencias de Policía Judicial, se observarán, en lo c
 
 Cuando en vista de la averiguación previa, el agente del Ministerio Público respectivo estimare que no es de ejercitarse la acción penal por los hechos que hubiesen sido materia de la denuncia o querella inicial, remitirá el expediente con su opinión fundada, al Procurador General de Justicia, a fin de que decida si la averiguación debe continuar, con expresión de las diligencias pertinentes; si se suspende en espera de mejores datos; o si se archiva definitivamente. Contra esa resolución del Procurador no procede recurso alguno.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 102 Bis.
 
-Cuando con motivo de la Averiguación previa el Ministerio Público estime necesario el arraigo del indiciado, tomando en cuenta características del hecho, circunstancias personales, recurrirá al órgano jurisdiccional, fundando y motivando su petición para que éste oyendo al presunto responsable, resuelva el arraigo con vigilancia de la autoridad.
+Cuando con motivo de la averiguación previa el Ministerio Público estime necesario el arraigo del indiciado, tomando en cuenta características del hecho y las circunstancias personales, recurrirá al órgano jurisdiccional, fundando y motivando su petición, para que éste en un término de tres días resuelva sobre el arraigo con vigilancia de la autoridad.
 
-El arraigo se prolongará por el tiempo indispensable para la debida integración de la Averiguación previa de que se trate, el cual no excederá de 30 días, prorrogables por igual término, a solicitud del Ministerio Público. El Juez resolverá, escuchando al Ministerio Público y al arraigado, sobre la subsistencia o levantamiento del arraigo.
+El arraigo será domiciliario, salvo aquellos casos en que la autoridad jurisdiccional por razones de seguridad o a petición del arraigado señale un lugar diverso.
+
+El arraigado puede pedir en cualquier momento que ésta medida quede sin efecto, la autoridad judicial decidirá escuchando al ministerio público y al afectado, sobre la subsistencia o el levantamiento del arraigo.
+
+El arraigo se prolongará por el tiempo estrictamente indispensable, no debiendo exceder de treinta días naturales, prorrogables por el mismo término una vez, a solicitud del Ministerio Público.
 
 ### CAPITULO III. Resolución final y ejercicio de la acción penal
 
@@ -1009,9 +1013,9 @@ Cuando un lesionado necesite pronta curación, cualquier persona puede atenderlo
 
 El ministerio público esta obligado a proceder a la detención de los que aparezcan como probables responsables en la comisión de delito de los que se persiguen de oficio sin necesidad de orden judicial en los casos siguientes:
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 1998)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
 
-I. Cuando se trate de flagrante delito en los términos de la Constitución Política de los Estados Unidos Mexicanos. Se entiende que existe delito flagrante cuando la persona es detenida en el momento de estarlo cometiendo, o bien cuando el inculpado es perseguido material e inmediatamente después de ejecutado el delito, y
+I. Cuando se trate de flagrante delito; y
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
 
@@ -1023,13 +1027,19 @@ Existirá el riesgo fundado a que se refiere la fracción anterior, en atención
 
 En todos los casos, el detenido podrá nombrar defensor de acuerdo con este Código. El defensor nombrado entrará al desempeño de su cargo inmediatamente, previa protesta del mismo y, a partir de ese momento, tendrá derecho a intervenir en todas las actuaciones que se practiquen en contra de su defendido. La infracción de esta disposición implicará la nulidad de las diligencias que perjudiquen a éste.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2001)</small>
 
 ###### Art. 146.
 
-Para los efectos de la fracción I del artículo anterior, se entenderá que el inculpado es aprehendido en flagrante delito no sólo cuando es detenido al momento de cometerlo, sino cuando, después de ejecutarlo, es perseguido materialmente o, cuando inmediatamente después de haber cometido el delito, la persona sea señalada como responsable por la víctima, por algún testigo presencial de los hechos o por quien sea copartícipe en la comisión del delito, y se encuentre en su poder el objeto del mismo, el instrumento con que aparezca cometido o huellas o indicios que hagan presumir fundadamente su culpabilidad.
+Para los efectos de la fracción I del artículo anterior, se entenderá que el inculpado es detenido en flagrante delito cuando:
 
-En los casos de delito flagrante, cualquier persona puede detener al indiciado poniéndolo sin demora a disposición de la autoridad más cercana y éstas, con la misma prontitud, a la del Ministerio Público.
+I. Es detenido al momento de cometerlo; o
+
+II. Inmediatamente después de ejecutado el hecho delictuoso, el inculpado es perseguido y detenido materialmente; o
+
+III. Después de cometido el delito, la víctima o cualquier persona que haya presenciado los hechos, señale al inculpado como responsable y se encuentre en su poder el objeto del delito, el instrumento con que se haya cometido o huellas o indicios que hagan presumir fundadamente su intervención en la comisión del delito, siempre y cuando no hayan transcurrido más de setenta y dos horas contadas a partir de la comisión del ilícito.
+
+En los casos de delito flagrante cualquier persona puede detener al inculpado, poniéndolo sin demora a disposición de la autoridad más cercana y ésta, con la misma prontitud, a la del Ministerio Público.
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2001)</small>
 
@@ -1466,6 +1476,10 @@ Cuando hubiere de ausentarse del lugar en que se practiquen las diligencias algu
 El careo es la diligencia entre dos personas que sostienen versiones contradictorias respecto de los hechos que se investigan o que tienen un sentido de apreciación diferente a fin de averiguar la verdad.
 
 La diligencia de careo se practicará por la autoridad judicial o ministerial y se decretará cuando medie solicitud del inculpado o de su defensor.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
+
+Cuando la víctima o el ofendido sea menor de edad y si se trata de los delitos de violación o secuestro, en el caso de que el inculpado solicite la práctica del careo, se le notificará a la víctima y a su legítimo representante, para que manifiesten si están de acuerdo con el desahogo de la diligencia con la asistencia de la víctima, en caso contrario, el inculpado o la víctima tendrán derecho a hacer las manifestaciones en contra de las declaraciones contradictorias en diligencia separada.
 
 ###### Art. 212.
 
@@ -2213,9 +2227,9 @@ Tratándose de delitos que afecten la vida o la integridad corporal, el monto de
 
 Se califican como delitos graves y en su caso el inculpado no tendrá derecho al beneficio de la libertad provisional bajo caución, los previstos en los ordenamientos siguientes:
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2000)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2001)</small>
 
-I. En el Código Penal: Evasión de presos, artículo 113, excepto cuando el activo sea un particular o no haya violencia en las cosas y en las personas; corrupción de menores, artículo 136, último párrafo; cohecho, artículo 147, tercer y cuarto párrafo; peculado, artículo 148, párrafo tercero y 149; enriquecimiento ilícito, artículo 153, fracción II; violación, artículo 175; violación equiparada, artículo 176; robo de infante, artículo 179, párrafo cuarto; tráfico de menores, artículo 179 bis, párrafo segundo; extorsión, artículo 189; extorsión agravada, artículo 189 bis; asalto, artículo 192; secuestro y delitos relacionados previstos en el artículo 194, primer párrafo y sus fracciones I, II y V; homicidio, artículos 213, 217 y 219; parricidio, artículo 223; instigación y ayuda al suicidio si la víctima fallece, artículo 224; infanticidio, artículo 226; aborto, artículo 228, penúltimo y último párrafo; robo equiparado, artículo 234, fracciones III y IV; robo cometido en los siguientes casos, artículo 235, fracción II; robo agravado, artículo 235 bis; artículo 236 bis, apartado a), fracciones II y III, apartado b), en su totalidad y apartado c), fracciones I, II, III; y abigeato y robo de animales, artículos 240 y 242 cuando el producto del delito exceda del importe de trescientos cincuenta salarios mínimos o se trate de reincidentes de cualquier delito contra el patrimonio y abigeato calificado, artículo 242 B; la fracción IV del artículo 262; y delitos electorales, artículo 270 fracción III, 276 y 278; los ilícitos penales mencionados en el párrafo anterior, en grado de tentativa punible previsto en el artículo 52 y el continuado grave establecido en el artículo 55 bis, también se califican como delitos graves;
+I. En el Código Penal: Evasión de presos, artículo 113, excepto cuando el archivo (sic) sea un particular o no haya violencia en las cosas y en las personas; corrupción de menores, artículo 136, último párrafo; cohecho, artículo 147, tercer y cuarto párrafo; peculado, artículo 148, párrafo tercero y 149; enriquecimiento ilícito, artículo 153, fracción II; violación, artículo 175; violación equiparada, artículo 176; robo de infante, artículo 179, párrafo cuarto; tráfico de menores, artículo 179 bis, párrafo segundo; extorsión, artículo 189; extorsión agravada, artículo 189 bis; asalto, artículo 192; secuestro y delitos relacionados previstos en el artículo 194, primer párrafo y sus fracciones I, II y V; homicidio, artículos 213, 217 y 219; parricidio, artículo 223; instigación y ayuda al suicidio se (sic) la víctima fallece, artículo 224; infanticidio, artículo 226; aborto, artículo 228, penúltimo y último párrafo; robo equiparado, artículo 234, fracciones III y IV; robo cometido en los siguientes casos, artículo 235, fracción II; robo agravado, artículo 236 bis, apartado a), fracciones II y III, apartado b), en su totalidad y apartado c), en su totalidad; y abigeato y robo de animales, artículos 240 y 242, cuando el producto del delito exceda del importe de 350 salarios mínimos o se trate de reincidentes de cualquier delito contra el patrimonio y abigeato calificado, artículo 242 B; fraude previsto en el artículo 252 fracción XIX; la fracción IV del artículo 262; y delitos electorales, artículo 270 fracción III, 276 y 278; los ilícitos penales mencionados en el párrafo anterior, en grado de tentativa punible previsto en el artículo 52 y el continuado grave establecido en el artículo 55 bis, también se califican como delitos graves;
 
 II. En la Ley Estatal para Prevenir y Sancionar la Tortura: Tortura artículo 3º; y
 
@@ -3210,5 +3224,29 @@ P.O. 17 DE JUNIO DE 2000.
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 3 DE FEBRERO DE 2001.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 13 DE MARZO DE 2001.
+
+DECRETO 18927
+
+UNICO.- EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL DÍA 22 DE MARZO DE 2001 PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL, "EL ESTADO DE JALISCO".
+
+P.O. 13 DE MARZO DE 2001.
+
+DECRETO 18928
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 13 DE MARZO DE 2001.
+
+DECRETO 18907
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 13 DE MARZO DE 2001.
+
+DECRETO 18908
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
