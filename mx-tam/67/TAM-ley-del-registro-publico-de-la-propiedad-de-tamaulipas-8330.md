@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-registro-publico-de-la-propiedad-de-tamaulipas-8330"
 country: "mx"
 rank: "ley"
 publication_date: "1927-02-02"
-last_updated: "1935-10-02"
+last_updated: "1936-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "TAM"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DE TAMAULIPAS
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO PRIMERO DEL DECRETO NUM. 98, PUBLICADO EN EL P.O. DE 2 DE OCTUBRE DE 1935, SE SUSPENDE EL DECRETO NO. 78, PUBLICADO EN EL P.O. EL 15 DE AGOSTO DEL MISMO AÑO; QUEDANDO, EN CONSECUENCIA, EL TEXTO DEL PRESENTE ORDENAMIENTO VIGENTE AL 13 DE AGOSTO DEL AÑO EN CURSO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTICULO PRIMERO DEL DECRETO NUM. 120, PUBLICADO EN EL P.O. DE 8 DE ENERO DE 1936, SE DEROGA EL DECRETO NO. 78, PUBLICADO EN EL P.O. EL 15 DE AGOSTO DE 1935; QUEDANDO, EN CONSECUENCIA, EL TEXTO DEL PRESENTE ORDENAMIENTO VIGENTE AL 13 DE AGOSTO DEL AÑO EN CURSO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 1935.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 1936.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, los días 2, 5 y 9 de febrero de 1927.
 
@@ -1178,3 +1178,7 @@ A partir del día primero de Octubre del corriente año, los Directores de las n
 P.O. DE 2 DE OCTUBRE DE 1935.
 
 Transitorio:- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su promulgación.
+
+P.O. DE 8 DE ENERO DE 1936.
+
+TRANSITORIO:- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su promulgación.
