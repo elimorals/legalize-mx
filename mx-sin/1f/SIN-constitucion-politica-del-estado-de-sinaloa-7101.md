@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1995-03-27"
+last_updated: "1995-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 1995.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -267,45 +267,41 @@ El Poder Legislativo del Estado, se deposita en una asamblea que se denominará 
 
 El Congreso del Estado se compondrá de representantes electos popularmente cada tres años. Por cada Diputado Propietario se elegirá un Suplente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 1995)</small>
 
 ###### Art. 24.
 
-La Legislatura del Estado se integrará con 23 diputados electos por el sistema de mayoría relativa en distritos electorales uninominales y con 16 Diputados electos, de acuerdo con el principio de representación proporcional, mediante el sistema de listas estatales votadas en una sola circunscripción plurinominal.
-
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1989)</small>
+El Congreso del Estado se integrará con 40 diputados, 24 de ellos electos por el sistema de mayoría relativa en distritos electorales uninominales y 16 diputados electos de acuerdo con el principio de representación proporcional, mediante el sistema de listas regionales votadas en circunscripciones plurinominales.
 
 La demarcación territorial de los Distritos electorales uninominales se fijará teniendo en cuenta la población total del Estado. En todo caso, cada Municipio tendrá cuando menos un distrito electoral uninominal.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1989)</small>
+Para la elección de los 16 diputados según el principio de representación proporcional y el sistema de listas regionales, el territorio del Estado se dividirá en hasta tres circunscripciones plurinominales. La Ley determinará la forma de establecer la demarcación territorial de estas circunscripciones.
 
-En la elección de los Diputados de representación proporcional, la circunscripción plurinominal corresponderá al total del territorio del Estado.
+Para que un partido político obtenga el registro de sus listas regionales para la elección de diputados de representación proporcional, deberá acreditar que participa con candidatos a diputados de mayoría relativa en por lo menos diez distritos uninominales, de ellos mínimamente tres deberán estar en cada circunscripción plurinominal.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+Todo partido político que como mínimo alcance el 1.5 por ciento del total de la votación emitida para la elección de diputados en cada circunscripción, tendrá derecho, cuando menos, a que se le asigne un diputado de representación proporcional.
 
-Para que un partido político obtenga el registro de su lista estatal en la elección de diputados de representación proporcional, deberá acreditar que participa con candidatos a diputados de mayoría relativa en por lo menos 10 de los distritos uninominales.
+El número de diputados de representación proporcional que se asigne a cada partido se determinará en función del porcentaje de votos efectivos obtenidos en cada circunscripción, mediante la aplicación de la fórmula electoral y procedimiento de asignación que señale la Ley. En toda (sic) caso la asignación se hará siguiendo el orden que tuvieren los candidatos en las listas correspondientes.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+En ningún caso un partido político podrá contar con más de 26 diputados por ambos principios.
 
-Sólo tendrán derecho a que se les asignen diputados de representación proporcional, los partidos que como mínimo alcancen el 1.5 por ciento del total de la votación recibida por todas las listas estatales.
+Ningún partido político que haya obtenido el 60% o menos de la votación estatal emitida podrá contar con más de 24 diputados por ambos principios.
 
-> <small>(DEROGADO PARRAFO SEXTO, P.O. 1 DE ABRIL DE 1992)</small>
-
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
-
-El número de diputados de representación proporcional que se asigne a cada partido se determinará en función del porcentaje de votos efectivos obtenidos en la circunscripción, mediante la aplicación de la fórmula electoral y procedimiento de asignación que señala la Ley. En todo caso la asignación se hará siguiendo el orden que tuvieren los candidatos en las listas correspondientes.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 1995)</small>
 
 ###### Art. 25.
 
-Para ser Diputado se requiere:
+Para ser diputado se requiere:
 
 > <small>(REFORMADA, P.O. 6 DE MARZO DE 1962)</small>
 
 I. Ser Sinaloense por nacimiento o ciudadano sinaloense por vecindad con residencia efectiva en el Estado, en este último caso, no menor de diez años inmediatamente anteriores al día de la elección y en ambos casos estar en pleno ejercicio de sus derechos cívicos.
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 1940)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 1995)</small>
 
-II. Ser nativo del Distrito Electoral que lo elija, o avecindado en él cuando menos seis meses antes de la fecha de la elección.
+II. Ser nativo del Municipio donde se encuentre el Distrito Electoral que lo elija o avecindado en él cuando menos seis meses antes de la fecha de la elección.
+
+Para poder figurar como candidato en las listas de las circunscripciones electorales plurinominales, se requerirá ser originario de alguno de los municipios que comprenda la circunscripción en la cual se realice la elección, o vecino de ella con residencia efectiva de más de seis meses anteriores a la fecha en que la misma se celebre.
 
 > <small>(REFORMADA, P.O. 22 DE MARZO DE 1974)</small>
 
@@ -341,7 +337,9 @@ Los Diputados que en el curso de las sesiones, y sin causa justificada a juicio 
 
 En los casos de los artículo (sic) 28 y 29 y, en general, siempre que por ausencia injustificada ó por faltas absolutas de los Diputados de Mayoría no pueda haber quórum, los Ayuntamientos de las cabeceras de los distritos electorales, a petición de los Diputados presentes, nombrarán por mayoría de votos los correspondientes sustitutos, quienes funcionarán mientras se efectúan las nuevas elecciones, si la designación se hiciera dentro de los dos primeros años del período de funciones; más si fuera dentro del último, los sustitutos terminarán el período.
 
-Las vacantes de los Diputados que hubiesen sido electos según el sistema de representación proporcional, se cubrirán con los candidatos postulados por su mismo partido que hubiesen quedado en lugar preferentemente en la lista estatal respectiva.
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 1995)</small>
+
+Las vacantes de los diputados que hubieren sido electos según el sistema de representación proporcional se cubrirán con su respectivo suplente, y a falta de ambos se cubrirán con los candidatos postulados por su mismo partido que hubiesen quedado en lugar preferente en la lista regional de la circunscripción plurinominal correspondiente.
 
 ###### Art. 31.
 
@@ -2610,6 +2608,12 @@ P.O. 27 DE MARZO DE 1995.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Sinaloa".
+
+P.O. 29 DE MARZO DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 ###### ARTÍCULO PRIMERO.
 
