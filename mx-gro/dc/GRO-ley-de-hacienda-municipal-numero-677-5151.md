@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-municipal-numero-677-5151"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "1984-12-25"
+last_updated: "1988-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE HACIENDA MUNICIPAL NUMERO 677
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1988.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -60,6 +60,10 @@ c) Cuando se trate de predios propiedad de la Federación, del Estado o de sus m
 IV.- La propiedad o la posesión de las construcciones permanentes ubicadas en predios urbanos, rústicos, ejidales y comunales.
 
 V.- La propiedad de bienes raíces donde se ubiquen plantas de beneficio y establecimientos metalúrgicos, así como sus instalaciones en los términos del artículo 23 de la Ley de Impuestos y Fomento a la Minería.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+VI.- Terrenos ejidales y comunales, en los términos previstos en la Ley Federal de Reforma Agraria.
 
 ###### ARTICULO 2o.
 
@@ -119,11 +123,15 @@ La base modificada surtirá efectos:
 
 I.- A partir del bimestre siguiente a aquel en que se produzca el hecho, acto o contrato que le dé origen.
 
-II.- A partir del bimestre siguiente al en que se notifique el nuevo avalúo, cuando éste sea efectuado por haber transcurrido el plazo de tres años.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+II.- A partir del bimestre siguiente al en que se notifique nuevo avalúo cuando éste sea efectuado por haber transcurrido el plazo de un año en predios urbanos y de tres años en predios rústicos.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 10.
 
-El impuesto se causará conforme a la tarifa que fije al efecto la Ley de Ingresos Municipal.
+El impuesto se causará conforme a la tarifa factorizada que fije al efecto la Ley de Ingresos de los Municipios.
 
 ###### ARTICULO 11.
 
@@ -135,11 +143,13 @@ Las exenciones señaladas en el artículo anterior tendrán vigencia hasta en ta
 
 ###### ARTICULO 13.
 
-Cuando en virtud de una Ley especial el Presidente Municipal declare exención total o parcial del impuesto predial por un plazo determinado, al vencimiento del plazo se procederá al cobro del impuesto de acuerdo con el avalúo que a esa fecha practique el Departamento de Catastro y en tanto no se hiciere, el impuesto se cobrará con base al valor con que fiscalmente se encuentre registrado.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1988)
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 14.
 
-La Tesorería Municipal determinará el monto del impuesto a pagar, de conformidad con el avalúo asignado al inmueble y con aplicación de la tarifa que al efecto establezca la Ley de Ingresos Municipal.
+La Tesorería Municipal determinará el monto del impuesto a pagar, de conformidad con el avalúo asignado al inmueble y con aplicación a la tarifa factorizada que al efecto establezca la Ley de Ingresos de los Municipios.
 
 ###### ARTICULO 15.
 
@@ -149,21 +159,27 @@ En los casos de excedencia (sic) o de predios no empadronados, de construcciones
 
 El pago del impuesto deberá hacerse en las Tesorerías Municipales o agencias autorizadas al efecto.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 17.
 
-El impuesto a que se refiere la presente Ley se pagará por bimestres adelantados, a más tardar el día último de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año, para los contribuyentes de este impuesto cuyas bases de tributación sean superiores a $ 25,000.00.
+El impuesto a que se refiere la presente Ley, se pagará por bimestres adelantados dentro de los primeros 15 días de los meses de enero, marzo, mayo, julio, septiembre y noviembre de cada año, para los contribuyentes de este impuesto, cuyas bases de tributación sean superiores a cien salarios mínimos vigentes en el municipio.
 
 ###### ARTICULO 18.
 
 El hecho de ser aceptado el pago anual anticipado no impide el cobro de diferencias que proceda hacerse por cambio en las bases de tributación.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 19.
 
-El pago anticipado de una anualidad deberá hacerse durante el primer bimestre del ejercicio fiscal correspondiente y gozará del descuento que establezca la Ley de Ingresos Municipal.
+El pago anticipado de una anualidad deberá hacerse durante el primer mes del ejercicio fiscal correspondiente y gozará del descuento que establezca la Ley de Ingresos de los Municipios.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 20.
 
-Los contribuyentes cuyos predios tengan asignado un valor catastrado o no catastrado hasta de $ 25,000.00, pagarán el impuesto anual en una sola exhibición durante los primeros 20 días del mes de enero de cada año.
+Los contribuyentes cuyos predios tengan asignado un valor catastrado o no catastrado hasta cien salarios mínimos vigente en el municipio, pagarán el impuesto anual en una sola exhibición durante los primeros 15 días del mes de enero de cada año.
 
 ###### ARTICULO 21.
 
@@ -285,9 +301,11 @@ Cuando del inmueble formen parte departamentos habitacionales o locales comercia
 
 Para efectuar la reducción a que se refiere este artículo se aplicará el salario mínimo correspondiente al año de calendario en que se esté en los supuestos de pago del impuesto a que se refiere el artículo 28.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 31.
 
-El impuesto se causará de conformidad con la tasa que establezca la Ley de Ingresos Municipal.
+El impuesto se causará de conformidad con la tasa que establezca la Ley de Ingresos de los Municipios.
 
 ###### ARTICULO 32.
 
@@ -309,7 +327,9 @@ Tratándose de operaciones con inmuebles se acompañarán con el aviso los sigui
 
 a) Deslinde catastral con superficie, medidas y colindancias, así como el valor catastral respectivo.
 
-b) Avalúo bancario.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+b) Avalúo bancario tratándose de escrituras públicas.
 
 c) Certificado de no adeudo predial.
 
@@ -409,9 +429,11 @@ Son sujetos del impuesto las personas físicas y morales que perciban los ingres
 
 Es base para el pago del impuesto el monto de los ingresos obtenidos; cobrándose un tanto por ciento sobre el valor de los boletos de entrada.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 43.
 
-El impuesto se pagará de conformidad a la tarifa que señale la Ley de Ingresos Municipal.
+El impuesto se pagará de conformidad al porcentaje que señale la Ley de Ingresos de los Municipios.
 
 ###### ARTICULO 44.
 
@@ -437,11 +459,11 @@ SECION (SIC) CUARTA
 
 Impuestos adicionales
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1984)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 48.
 
-Son objeto de éstos impuestos la realización de pagos por concepto del Impuesto Predial y derechos por servicios.
+Son objeto de estos impuestos la realización de pagos por concepto de impuesto predial y derechos por servicios catastrales.
 
 ###### ARTICULO 49.
 
@@ -451,9 +473,11 @@ Son sujetos de estos impuestos quienes realicen los pagos a que se refiere el ar
 
 La base de estos impuestos será el monto total del pago por los conceptos señalados en el artículo 48 de esta Ley.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 51.
 
-Los impuestos se causarán conforme a las tarifas y sobre los conceptos que establezca la Ley de Ingresos Municipal y se pagarán en el mismo acto en que se pague el concepto principal. Si el pago de créditos fiscales se realiza en forma extemporánea estos impuestos causarán recargos de Ley.
+Los impuestos se causarán conforme a las tasas, porcentajes y tarifas factorizadas que establezca la Ley de Ingresos de los Municipios y se pagarán en el mismo acto en que se pague el concepto principal. Si el pago de créditos fiscales se realiza en forma extemporánea estos impuestos causarán recargos de ley.
 
 #### SECCION PRIMERA. Disposiciones generales
 
@@ -469,9 +493,11 @@ Los derechos por la prestación de servicios públicos que otorguen las diversas
 
 Son sujetos de los derechos, las personas físicas o morales que soliciten la prestación de un servicio público y el desarrollo de una actividad y las que resulten beneficiadas por las actividades realizadas por el municipio.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 54.
 
-Los derechos se causarán de conformidad con la tarifa que establezca la Ley de Ingresos del Municipio y se pagarán en las Tesorerías Municipales.
+Los derechos se causarán de conformidad con la tarifa factorizada que establezca la Ley de Ingresos de los Municipios y se pagarán en las Tesorerías Municipales.
 
 ###### ARTICULO 55.
 
@@ -706,3 +732,7 @@ P.O. 25 DE DICIEMBRE DE 1984.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1988.
+
+UNICO.- Este Decreto entrará en vigor el día primero de enero de mil novecientos ochenta y nueve.
