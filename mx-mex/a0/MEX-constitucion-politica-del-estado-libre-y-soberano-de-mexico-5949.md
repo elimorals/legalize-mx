@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1939-12-27"
+last_updated: "1941-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE DICIEMBRE DE 1939.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE OCTUBRE DE 1941.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -70,6 +70,10 @@ Artículo Transitorio.- Este Decreto entrará en vigor desde la fecha de su publ
 G.G. 27 DE DICIEMBRE DE 1939.
 
 Artículo Unico.- Este Decreto surtirá efectos Constitucionales a partir de la fecha de su publicación en la "Gaceta del Gobierno".
+
+G.G. 22 DE OCTUBRE DE 1941.
+
+Artículo Tercero.- Estas reformas entrarán en vigor el día de su publicación en la Gaceta del Gobierno.
 
 ## TITULO PRIMERO. DE LA CONDICION POLITICA DE LAS PERSONAS
 
@@ -291,7 +295,7 @@ No pueden ser Diputados a la Legislatura del Estado:
 
 I. Los ministros de cualquier culto;
 
-II. Los Diputados y Senadores propietarios y suplentes al Congreso de la Unión que estén en ejercicio;
+II. (DEROGADA, G.G. 22 DE OCTUBRE DE 1941)
 
 III. Los funcionarios y empleados públicos de la Federación;
 
@@ -509,7 +513,7 @@ XIV. Resolver sobre las renuncias de sus propios miembros, del Gobernador, de lo
 
 XV. Conceder licencias a sus propios miembros, al Gobernador, a los Magistrados del Tribunal Superior de Justicia y a los Jueces de Primera Instancia, conforme a la presente Constitución y Leyes respectivas.
 
-XVI. Revisar los expedientes relativos a elecciones municipales, cuando se solicite su intervención, haciendo la declaración que corresponda;
+XVI. (DEROGADA, G.G. 22 DE OCTUBRE DE 1941)
 
 XVII. Decretar anualmente, a iniciativa del Ejecutivo, los gastos del Estado e imponer para cubrirlos, las contribuciones indispensables, determinando su cuota, duración, y modo derecaudarlas (sic);
 
@@ -591,7 +595,7 @@ V. Conceder o negar las licencias a que se refiere la fracción XV del artículo
 
 VI. Dictaminar sobre todos los asuntos que quedan pendientes de resolución a fin de que continúen sus trámites al abrirse los períodos de sesiones;
 
-VII. Revisar los expedientes de elecciones municipales a que se refiere la fracción XVI del artículo 70 de esta Constitución, en los casos de receso de la Legislatura.
+VII. (DEROGADA, G.G. 22 DE OCTUBRE DE 1941)
 
 VIII. Cumplir con las obligaciones que le impongan la Legislatura siempre que no fueren contrarias a las leyes.
 
@@ -925,6 +929,10 @@ VIII. Conceder licencia a los Jueces de primera Instancia, hasta por tres meses,
 
 IX. Ejercer las demás atribuciones que le señale la ley orgánica respectiva.
 
+> <small>(ADICIONADA, G.G. 22 DE OCTUBRE DE 1941)</small>
+
+X. Revisar los expedientes relativos de elecciones municipales cuando se solicite su intervención, haciendo la declaración que corresponda.
+
 ###### Art. 110.
 
 Corresponde a las Salas del Tribunal Superior de Justicia:
@@ -977,11 +985,9 @@ El cargo de Juez de primera Instancia no es renunciable sino por causa grave que
 
 Habrá Jueces de primera Instancia en todas las Cabeceras de Distrito Judicial.
 
-#### SECCION PRIMERA. DE LA CONSTITUCION DE LOS AYUNTAMIENTOS
-
-> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1927)</small>
-
 #### SECCION SEGUNDA. DE LAS ATRIBUCIONES DEL AYUNTAMIENTO
+
+#### SECCION TERCERA. DE LOS PRESIDENTES MUNICIPALES
 
 ###### Art. 119.
 
@@ -1031,7 +1037,11 @@ En ningún caso podrán desempeñar los Ayuntamientos como cuerpos colectivos, l
 
 ### CAPITULO SEGUNDO. DE LOS AYUNTAMIENTOS
 
-#### SECCION TERCERA. DE LOS PRESIDENTES MUNICIPALES
+DE LA CONSTITUCION DE LOS AYUNTAMIENTOS
+
+> <small>(REFORMADO, G.G. 8 DE OCTUBRE DE 1927)</small>
+
+#### SECCION CUARTA. DEL DESPACHO DE LOS ASUNTOS MUNICIPALES
 
 ###### Art. 135.
 
@@ -1077,7 +1087,7 @@ II. Los empleados públicos dependientes de la Federación o del Estado.
 
 III. Los ministros de cualquier culto.
 
-#### SECCION CUARTA. DEL DESPACHO DE LOS ASUNTOS MUNICIPALES
+#### SECCION QUINTA. DE LOS JUECES CONCILIADORES
 
 ###### Art. 142.
 
@@ -1147,7 +1157,9 @@ III. Imponer contribuciones que no estén especificadas en su respectiva ley de 
 
 IV. Conceder licencias para juegos de azar.
 
-#### SECCION QUINTA. DE LOS JUECES CONCILIADORES
+#### SECCION SEXTA. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS MUNICIPALES
+
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
 
 ###### Art. 155.
 
@@ -1161,9 +1173,7 @@ III. Ser el órgano de comunicación de los Ayuntamientos que presiden con los d
 
 IV. Ejecutar con arreglo a las leyes las resoluciones dictadas por los Jueces Conciliadores.
 
-#### SECCION SEXTA. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS MUNICIPALES
-
-> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 1935)</small>
+#### SECCION PRIMERA. DE LA HACIENDA PUBLICA DEL ESTADO
 
 ###### Art. 156.
 
@@ -1175,7 +1185,7 @@ II. Autorizar con su firma las disposiciones de observancia general que el presi
 
 III. Todas las demás que determinen las respectivas leyes reglamentarias.
 
-#### SECCION PRIMERA. DE LA HACIENDA PUBLICA DEL ESTADO
+#### SECCION SEGUNDA. DE LA TESORERIA GENERAL
 
 ###### Art. 157.
 
@@ -1203,7 +1213,7 @@ Los Jueces Conciliadores se considerarán como auxiliares de los Jueces y Tribun
 
 Los Jueces Conciliadores aplicarán dentro de los Municipios a que pertenezcan y con la competencia que les señalen las leyes de organización de Tribunales, las leyes civiles y penales que para todo el territorio del Estado expida la Legislatura del mismo, ajustando todos sus actos a las leyes de procedimientos que expida también la expresada Legislatura.
 
-#### SECCION SEGUNDA. DE LA TESORERIA GENERAL
+#### SECCION PRIMERA. DE LA HACIENDA PUBLICA DE LOS MUNICIPIOS
 
 ###### Art. 163.
 
@@ -1279,7 +1289,7 @@ El desempeño de las funciones del Procurador General y de las de Agente del Min
 
 ### CAPITULO SEGUNDO. BASES DE LA ORGANIZACION DE LA HACIENDA PUBLICA DEL ESTADO
 
-#### SECCION PRIMERA. DE LA HACIENDA PUBLICA DE LOS MUNICIPIOS
+#### SECCION SEGUNDA. DE LAS TESORERIAS MUNICIPALES
 
 ###### Art. 177.
 
