@@ -4,7 +4,7 @@ identifier: "SON-ley-reglamentaria-para-el-ejercicio-de-las-profesiones-en-9676"
 country: "mx"
 rank: "ley"
 publication_date: "1952-12-03"
-last_updated: "1954-07-10"
+last_updated: "1954-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9676&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY REGLAMENTARIA PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 1954.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE JULIO DE 1954.
 
 Ley publicada en el Alcance del Boletín Oficial del Estado de Sonora, el miércoles 3 de diciembre de 1952.
 
@@ -403,11 +403,11 @@ PRIMERO.- Esta ley entrara en vigor en todo el Estado treinta días después de 
 
 SEGUNDO.- Esta Ley deroga todas aquellas disposiciones de carácter general que se opongan a ella.
 
-> <small>N. DE E. SE ABROGA LA LEY NUMERO 26 QUE PRORROGABA LOS PLAZOS QUE ESTABLECEN LOS ARTICULOS TERCERO Y CUARTO TRANSITORIOS, B.O. 2 DE ENERO DE 1954.</small>
+> <small>N. DE E. EN RELACION AL PLAZO QUE ESTABLECE EL PRESENTE ARTICULO TRANSITORIO, VER LA DISPOSICION DEL ARTICULO UNICO DE LA LEY No. 77 QUE PRORROGA LOS PLAZOS QUE ESTABLECEN LOS ARTICULOS TERCERO Y CUARTO HASTA EL 31 DE ENERO DE 1955, DE LA LEY NUMERO 5, REGLAMENTARIA PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE SONORA, DEL 4 DE NOVIEMBRE DE 1952, B.O. 31 DE JULIO DE 1954.</small>
 
 TERCERO.- Los títulos profesionales que con anterioridad a esta ley hayan sido legalmente expedidos, surtirán todos sus efectos, pero para que sus poseedores puedan seguir ejerciendo deberán registrarlos ante la autoridad correspondiente dentro de un término máximo de seis meses, contados a partir de la vigencia de esta ley. No será necesario el registro si por virtud de leyes locales anteriores a ésta hubieran sido ya registrados, pero siempre a condición de que queden satisfechos todos los demás requisitos de la presente ley y de su Reglamento.
 
-> <small>N. DE E. SE ABROGA LA LEY NUMERO 26 QUE PRORROGABA LOS PLAZOS QUE ESTABLECEN LOS ARTICULOS TERCERO Y CUARTO TRANSITORIOS, B.O. 2 DE ENERO DE 1954.</small>
+> <small>N. DE E. EN RELACION AL PLAZO QUE ESTABLECE EL PRESENTE ARTICULO TRANSITORIO, VER LA DISPOSICION DEL ARTICULO UNICO DE LA LEY No. 77 QUE PRORROGA LOS PLAZOS QUE ESTABLECEN LOS ARTICULOS TERCERO Y CUARTO HASTA EL 31 DE ENERO DE 1955, DE LA LEY NUMERO 5, REGLAMENTARIA PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE SONORA, DEL 4 DE NOVIEMBRE DE 1952, B.O. 31 DE JULIO DE 1954.</small>
 
 CUARTO.- Las personas que, al entrar en vigor esta Ley hayan venido ejerciendo sin título en forma continua durante los diez últimos años en el Estado de Sonora las profesiones de Contador Público, Ingeniero en sus diversas ramas profesionales, Licenciado en Derecho, Licenciado en Economía y Profesores de Instrucción Primaria y Preescolar, podrán ser autorizados para continuar en el ejercicio de esas actividades, siempre que cumplan en un plazo máximo de seis meses con los siguientes requisitos:
 
@@ -462,3 +462,11 @@ Segundo.- Esta Ley entrará en vigor a partir de la fecha de su publicación en 
 B.O. 10 DE JULIO DE 1954.
 
 Unico.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 31 DE JULIO DE 1954.
+
+NUMERO 77.- Artículo Unico.- Se prorroga hasta el 31 de enero de 1955, los plazos que, en sus respectivos casos, señalan los Artículos Tercero y Cuarto Transitorios de la Ley Número 5, Reglamentaria para el Ejercicio de las Profesiones en el Estado de Sonora, de 4 de noviembre de 1952.
+
+Primero.- Se abrogan las Leyes expedidas con anterioridad sobre la materia de que trata la presente Ley y se derogan todas las disposiciones reglamentarias que se opongan a la misma.
+
+Segundo.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
