@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-tutela-publica-para-menores-infractores-del-estado-6938"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "1994-03-05"
+last_updated: "1994-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "OAX"
 
 LEY DE TUTELA PUBLICA PARA MENORES INFRACTORES DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 1994.
 
-Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
+Ley publicada en el Periódico Oficial, del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
 LIC. DIODORO CARRASCO ALTAMIRANO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
 
@@ -219,29 +219,39 @@ X.- Remitir al Secretario de Gobierno, por conducto de la Dirección de Prevenci
 
 XI.- Todas las demás atribuciones y obligaciones que señale esta Ley y su Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 1994)</small>
+
 ###### ARTICULO 20º.
 
-Corresponde al Procurador de la Defensa del Menor:
+Corresponde a la Procuraduría de la Defensa del Menor, la Mujer y la Familia:
 
 I.- Intervenir en todo el procedimiento que se siga ante el Consejo, como defensor de los intereses del menor.
 
-II.- Estar presente en el momento en que el menor rinda su declaración ante el Consejo.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1994)</small>
+
+II.- Tener representación ante el Consejo en el momento en que el menor rinda su declaración.
 
 III.- Vigilar la estricta observancia del procedimiento.
 
-IV.- Concurrir cuando el menor comparezca ante los Consejeros o el Pleno.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1994)</small>
+
+IV.- Designar representante ante los Consejeros del Pleno cuando el menor comparezca ante ellos.
 
 V.- Recibir instancias, quejas e informes de quienes ejerzan la patria potestad, la tutela o la custodia del menor y hacerlas valer ante el Consejo Tutelar.
 
 VI.- Proponer la práctica de pruebas y asistir a su desahogo.
 
-VII.- Visitar a los menores internos en las secciones de observación y tratamiento y examinar las condiciones en que se encuentran haciendo del conocimiento de las Autoridades que corresponda las irregularidades que adviertan, para su inmediata corrección.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1994)</small>
+
+VII.- Ordenar visitas periódicas a los menores internos en las secciones de observación y tratamiento y examinar las condiciones en que se encuentran, haciendo del conocimiento de las Autoridades que corresponda, las irregularidades que se adviertan, para su inmediata corrección.
 
 VIII.- Las demás funciones que señalen las Leyes y Reglamentos.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1994)</small>
+
 ###### ARTICULO 21º.
 
-El Procurador de la Defensa del Menor será nombrado y removido por el Ejecutivo del Estado.
+El Procurador de la Defensa del Menor, la mujer y la Familia, será nombrado y removido en los términos que señala el artículo 45 de la Ley del Sistema para el Desarrollo Integral de la Familia y del Estado.
 
 ###### ARTICULO 22º.
 
@@ -498,3 +508,9 @@ Oaxaca de Juárez, Oax., febrero 17 de 1994
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JOSE ANTONIO ESTEFAN GARFIAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE NOVIEMBRE DE 1994.
+
+UNICO.- Este decreto entrará en vigor el día siguiente de su publicación en el periódico Oficial del Estado.
