@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1917-12-16"
+last_updated: "1919-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL : 19 DE ABRIL DE 1919.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -127,7 +127,9 @@ II.- Por incapacidad mental.
 
 III.- Por estar procesado. La suspensión tiene efecto, tratándose de individuos que gozan de fuero, desde que son declarados culpables o se resuelve que hay lugar a formación de causa; y desde que se dicta el auto de formal prisión, en los demás casos, hasta que quede cumplida la sentencia o se declare ejecutoriamente la absolución.
 
-IV.- Por la pérdida de la vecindad a que se refiere el artículo 32, y por pertenecer al Ejército Federal.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 1919)</small>
+
+IV.- Por la pérdida de la vecindad a que se refiere el artículo 32; y por pertenecer al Ejército Federal con mando de fuerza en el Estado.
 
 V.- Por vagancia, ebriedad consuetudinaria o ser tahúr de profesión. La suspensión en este caso debe ser declarada por la autoridad judicial.
 
@@ -964,6 +966,12 @@ Constitución y Reformas.
 Monterrey, 16 de diciembre de 1917.
 
 Nicéforo Zambrano.- J.L. González, Srio.
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.
+
+P.O. 19 DE ABRIL DE 1919.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
 
 ###### Art. 4o.
 
