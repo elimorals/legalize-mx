@@ -4,7 +4,7 @@ identifier: "NLE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7443"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-12"
-last_updated: "1997-01-22"
+last_updated: "2000-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
 
@@ -143,9 +143,9 @@ XVI.- Prestación de servicios funerarios a quienes carezcan de recursos para su
 
 XVII.- Combatir el pandillerismo, la drogadicción, el alcoholismo y demás vicios sociales; y
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2000)</small>
 
-XVIII.- La prestación de servicios para la prevención y la atención de las causas y los efectos de la violencia en el ámbito de la familia;
+XVIII.- La prestación de servicios para la prevención y la atención de las causas y los efectos de la violencia familiar;
 
 XIX.- Los análogos y conexos a los anteriores que tiendan a mejorar las circunstancias de carácter físico, mental y social que impidan al individuo su desarrollo integral.
 
@@ -221,13 +221,19 @@ XXII.- Vigilar, en el ámbito de su competencia, el estricto cumplimiento de est
 
 XXIII.- Coordinar, evaluar y dar seguimiento a los servicios de asistencia social que presten las Instituciones de Seguridad Social del Gobierno del Estado, sin perjuicio de las atribuciones que competen a otras dependencias;
 
-XXIV.- Participar en coordinación con la Secretaría Estatal de Salud en el establecimiento y operación del Sistema Estatal de información en materia de asistencia social, y
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2000)</small>
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+XXIV.- Participar en coordinación con la Secretaría Estatal de Salud en el establecimiento y operación del Sistema Estatal de Información en Materia de Asistencia Social;
 
-XXV.- Establecer los programas tendientes a prevenir y atender las causas y efectos de la violencia en el ámbito de la familia;
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2000)</small>
 
-XXVI.- Los demás servicios de salud en materia de asistencia social que sean complementarios para el debido cumplimiento de su objetivo, y los demás que establezcan las disposiciones jurídicas aplicables.
+XXV.- Establecer y dar seguimiento a los programas tendientes a prevenir y atender las causas y efectos de la violencia familiar;
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2000)</small>
+
+XXVI.- Brindar atención psicológica a los menores u otros incapaces sujetos a violencia familiar así como a los abandonados y en general a quienes requieran de este apoyo, incluyendo en su caso a los sujetos generadores de violencia familiar, en los términos y condiciones que dictamine el propio Organismo u ordene la autoridad judicial competente; y
+
+XXVII.- Los demás servicios de salud en materia de asistencia social que sean complementarios para el debido cumplimiento de su objetivo, y los demás que establezcan las disposiciones jurídicas aplicables.
 
 ###### ARTICULO 14o.
 
@@ -305,9 +311,17 @@ V.- Conocer los informes, dictámenes y recomendaciones del Comisario y del Audi
 
 VI.- Aprobar la aceptación de herencias, legados, donaciones y demás beneficios que otorguen al Organismo;
 
-VII.- Estudiar y aprobar los proyectos de inversión, y
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2000)</small>
 
-VIII.- Conocer y aprobar los convenios de coordinación que hayan de celebrarse con dependencias y entidades públicas y privadas.
+VII.- Estudiar y aprobar los proyectos de inversión;
+
+> <small>(REFORMADA, P.O. 3 DE ENERO DE 2000)</small>
+
+VIII.- Conocer y aprobar los convenios de coordinación que hayan de celebrarse con dependencias y entidades públicas y privadas; y
+
+> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2000)</small>
+
+IX.- Determinar, dar seguimiento y evaluar las estrategias y acciones necesarias para prevenir y atender la violencia familiar.
 
 ###### ARTICULO 21o.
 
@@ -502,3 +516,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 En relación a las adiciones que se mencionan en el artículo quinto de este Decreto, las instituciones ya establecidas deberán cumplir con todas las obligaciones señaladas en el mismo, en un plazo no mayor de treinta días a partir de su vigencia y el Consejo Estatal de Adopciones dará a conocer los formatos e instructivos a través de los que se proporcionará la información, lo cual deberá hacerse en un plazo no mayor de diez días a partir de la iniciación de la vigencia de este Decreto.
+
+P.O. 3 DE ENERO DE 2000.
+
+Único.- El presente Decreto entrará en vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
