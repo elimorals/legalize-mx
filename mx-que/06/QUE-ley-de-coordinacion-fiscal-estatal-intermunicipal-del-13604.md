@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-coordinacion-fiscal-estatal-intermunicipal-del-13604"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-31"
-last_updated: "2001-12-28"
+last_updated: "2004-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE COODINACION FISCAL ESTATAL-INTERMUNICIPAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 31 de diciembre de 1996.
 
@@ -67,7 +67,9 @@ Las participaciones federales correspondientes a los Municipios se sujetarán al
 
 A los Municipios del Estado de Querétaro, les corresponderá el porcentaje que anualmente determine la Legislatura del Estado de Querétaro, que nunca será inferior al 20% del total de participaciones que por ingresos federales reciba el Estado provenientes del fondo General de Participaciones del impuesto Federal sobre Tenencia o uso de Vehículos, del Impuesto Especial sobre Productos y Servicios, del Impuesto sobre Automóviles Nuevos, y de la Reserva de Contingencia; además del 100% del Fondo de Fomento Municipal, contenidos en la Ley Federal de Coordinación Fiscal, determinándose como a continuación se indica:
 
-I.- EL 40% de acuerdo a la relación porcentual que represente el número de habitantes en cada Municipio respecto del número de habitantes en el Estado. Al inicio de cada ejercicio fiscal, el número de habitantes se tomará de la última información oficial con que cuente el Instituto Nacional de Estadística, Geografía e Informática (RPM).
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+I.- El 40 por ciento de acuerdo a la relación porcentual que represente el número de habitantes de cada Municipio respecto del número de habitantes en el Estado. Al inicio de cada ejercicio fiscal, el número de habitantes se tomará de la última información oficial que emita el Consejo Nacional de Población para el año en que se aplicarán los ingresos (RPM).
 
 II.- El 30% de acuerdo a la relación porcentual que representen los ingresos propios por el Municipio del 10. (sic) de octubre del año anterior al 30 de septiembre del año corriente, conforme a los datos con que cuente la Contaduría Mayor de Hacienda, en relación al total de los percibidos por todos los Municipios (RIM).
 
@@ -77,7 +79,9 @@ IV.- El 10% de acuerdo a la relación porcentual que represente la zona para los
 
 Para determinar el porcentaje que a cada municipio corresponde, por concepto del 20% del total de las participaciones que por ingresos federales reciba el Estado, se aplicará la fórmula siguiente:
 
-(RPM) (0.4) + (RIM) (0.3) + (RMS) (0.2) + (RZM) (0.1) = Porcentaje por Municipio.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+(RPM) + (RIM) + (RMS) + (RZM) = Porcentaje por Municipio.
 
 Cuando la Legislatura determine un porcentaje mayor al 20% del total de las participaciones federales, el excedente será repartido como lo acuerde la Legislatura del Estado en la Ley que fija las Bases, Montos y Plazos conforme a los cuales se distribuirán las Participaciones Federales de cada año.
 
@@ -109,39 +113,31 @@ El Gobierno del Estado, por conducto de la Secretaría de Planeación y Finanzas
 
 El Ejecutivo del Estado a través de la Secretaría de Planeación y Finanzas, deberá proporcionar por escrito a cada uno de los Municipios del Estado, dentro del mes de noviembre de cada año el monto anual estimado de sus participaciones para el año siguiente.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DEL 2001)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 10.
 
-Para los efectos de las Leyes de Ingresos, fiscales y revisión de las cuentas públicas de los Ayuntamientos, se aplicará la zonificación para los Municipios del Estado que resulte de aplicar el procedimiento y fórmula siguientes:
+Para los efectos de las leyes de ingresos, fiscales y revisión de las cuentas públicas de los ayuntamientos, se aplicará la zonificación para los Municipios del Estado que resulte de aplicar el procedimiento y fórmula siguientes, las cual (sic) representan una clasificación inversamente proporcional:
 
-I.- El 20% del número de habitantes de cada Municipio dividido entre el total en el Estado que dará por ende el componente municipal de habitantes (CMH) con base en los datos que indique el último informe oficial emitido por el Instituto Nacional de Estadística, Geografía e Informática.
+I. El 20 por ciento del número de habitantes de cada Municipio dividido entre el total en el Estado que dará por ende el Componente Municipal de Habitantes (CMH) con base en los datos que indique el último informe oficial emitido por el Consejo Nacional de Población para el año en que se aplicarán los ingresos.
 
-II.- El 10% del total de Km2 (Kilómetros cuadrados) del territorio de cada municipio dividido entre el total de extensión territorial del Estado que por ende dará el componente municipal de territorio (CMT) con base en los datos que indique el último informe oficial emitido por el Instituto Nacional de Estadística, Geografía e Informática.
+Es decir: CMH = ((POBLACIÓN DEL MUNICIPIO) (0.20)) / POBLACIÓN DEL ESTADO.
 
-III.- El 30 % del número asignado que por nivel de marginación establece el Consejo Nacional de Población para cada municipio, dividido entre el resultado de la suma de los números de los niveles de marginación de los 18 municipios, que dará por ende el Componente Municipal de Marginación (CMM1), asignando los números a cada municipio de la siguiente manera: 1 para los que establece el Consejo Nacional de Población con "Muy Alta" marginación, 2 para los que califican como "Alta" marginación, 3 para los que tienen "Media" marginación, 4 para los que establece con "Baja" marginación y 5 para los que tienen "Muy Baja" marginación.
+II. El 10 por ciento del total del Km2 (Kilómetros cuadrados) del territorio de cada municipio dividido entre el total de extensión territorial del Estado que por ende dará el Componente Municipal de Territorio (CMT) con base en los datos que indique el último informe oficial emitido por el Instituto Nacional de Estadística, Geografía e Informática.
 
-IV.- El 40% del número asignado que por región económica establezca la Secretaría de Desarrollo Sustentable del Gobierno del Estado, basado en los datos estadísticos que proporcione INEGI, CONAPO y demás instituciones facultados para ello, dividido entre la suma de los números asignados a los 18 municipios, que dará por ende el componente Municipal de Región Económica (CMR); asignando los números de la siguiente manera: 1 para los municipios incluidos en la "Región Sierra Gorda", 2 para los incluidos en la "Región Semidesierto", 3 para los incluidos en la "Región Sur" y 4 para los incluidos en la "Región Centro", (CMR).
+Es decir: CMT = ((KM2 DEL MUNICIPIO)(0.10)) / TOTAL DE EXTENSIÓN TERRITORIAL DEL ESTADO.
 
-Para determinar la zona que a cada municipio corresponde, se aplicará la siguiente fórmula, misma que en el resultado no contemplará decimal alguno:
+III. El 30 por ciento del número asignado que por nivel de marginación establece el Consejo Nacional de Población para cada Municipio, dividido entre el resultado de la suma de los números de los niveles de marginación de los 18 municipios, que dará por ende el Componente Municipal de Marginación (CMM1), asignando los números a cada municipio de la siguiente manera: 1, para los que establece el Consejo Nacional de Población con "Muy Alta" marginación; 2, para los que califican como "Alta" marginación; 3, para los que tienen "Media" marginación; 4, para los que establece con "Baja" marginación y 5, para los que tiene "Muy Baja" marginación.
 
-CMH + CMT + CMM1 + CMR = å CM
+Es decir: CMM1 = ((COMPONENTE DE MARGINACIÓN DEL MUNICIPIO)(0.30)) / SUMA DE LOS NUMEROS DE LOS NIVELES DE MARGINACIÓN DE LOS 18 MUNICIPIOS.
 
-[ (1/ å CM) / å CMs (100)] -1 = Zona
+IV. El 40 por ciento del número asignado que por región económica establezca la Secretaría de Desarrollo Sustentable del Gobierno del Estado, basado en los datos estadísticos que proporcione INEGI y CONAPO, dividido entre la suma de los números asignados a los 18 municipios, que dará por ende el Componente Municipal de Región Económica (CMR); asignando los números de la siguiente manera: 1, para los municipios incluidos en la "Región Sierra Gorda", 2, para los incluidos en la "Región Semidesierto", 3, para los incluidos en la "Región Sur" y 4, para los incluidos en la "Región Centro" (CMR).
 
-Donde:
+CMR = ((REGION ECONÓMICA DEL MUNICIPIO)(0.40)) / SUMA DE LOS NUMEROS ASIGNADOS A LOS 18 MUNICIPIOS.
 
-CMH = Componente Municipal de Habitantes
+La zona que a cada municipio corresponde se considerará con seis decimales, para tal efecto el sexto decimal será redondeado, en su caso, como sigue: si el séptimo decimal es igual o mayor a cinco, el sexto decimal será incrementado al número inmediato superior y, si el séptimo decimal es menor a cinco, el sexto decimal permanecerá sin cambio.
 
-CMT = Componente Municipal de Territorio
-
-CMM1 = Componente Municipal de Marginación
-
-CMR = Componente Municipal de Región Económica.
-
-å CM = Suma componentes por cada Municipio
-
-å CMs = Sumatoria de los 18 ( å CM)
+(VEASE FORMULA ANEXA)
 
 ### CAPITULO TERCERO. DEL SISTEMA DE COLABORACIÓN ADMINISTRATIVA ESTATAL-INTERMUNICIPAL
 
@@ -436,6 +432,14 @@ La presente Ley entrará en vigor a partir del día 1ro. de Enero del año 2002.
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones legales que se opongan a la presente ley.
+
+P.O. 9 DE DICIEMBRE DE 2004.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+Artículo Tercero. La Secretaría de Planeación y Finanzas de Gobierno del Estado de Querétaro calculará el monto estimado a distribuir de las participaciones que en ingresos federales, les correspondan a los Municipios, para el ejercicio fiscal 2005, conforme a la presente ley.
 
 ###### ARTICULO TERCERO.
 
