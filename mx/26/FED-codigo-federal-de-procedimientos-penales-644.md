@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "1996-05-13"
+last_updated: "1996-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MAYO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE NOVIEMBRE DE 1996.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -1633,6 +1633,22 @@ Si los bienes asegurados, de acuerdo con el dictamen pericial que se recabe, son
 
 Las cosas inventariadas conforme al artículo anterior, deberán guardarse en lugar o recipiente adecuado, según su naturaleza, debiéndose tomar las precauciones necesarias para asegurar la conservación e identidad de esas cosas.
 
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
+
+En cualquier caso, se hará constar el inventario de todas las cosas aseguradas, el cual también formará parte del acuerdo en el que se dicte el aseguramiento. Asimismo, se colocarán en las cosas los sellos, marcas, cuños, fierros o señales que de manera indubitable permitan su identificación y eviten su alteración, destrucción o pérdida.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
+
+Además, se hará la inscripción correspondiente en los Registros Públicos de la Propiedad y del Comercio, del aseguramiento de bienes inmuebles y de acciones o partes sociales.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
+
+Quienes practiquen la diligencia de aseguramiento deberán hacerlo del conocimiento de sus superiores. La Procuraduría General de la República queda obligada a integrar un registro público de los bienes asegurados. La forma, el contenido y el procedimiento para su integración y manejo se especificarán en el instructivo que al efecto se expida.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
+
+En ningún caso de aseguramiento se procederá al cierre o suspensión de actividades de establecimientos productivos lícitos.
+
 ###### ARTICULO 183.
 
 Siempre que sea necesario tener a la vista alguna de las cosas a que se refieren los artículos anteriores, se comenzará la diligencia haciendo constar si se encuentra en el mismo estado en que estaba al ser asegurada. Si se considera que ha sufrido alteración voluntaria o accidental, se expresarán los signos o señales que la hagan presumir.
@@ -1739,13 +1755,9 @@ La violación de esta disposición hará penalmente responsable al Ministerio P�
 
 Se califican como delitos graves, para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal: homicidio por culpa grave, previsto en el artículo 60 tercer párrafo; traición a la Patria, previsto en los artículos 123, 124, 125 y 126; espionaje, previsto en los artículos 127 y 128; terrorismo, previsto en el artículo 139, párrafo primero; sabotaje, previsto en el artículo 140 párrafo primero, así como los previstos en los artículos 142 párrafo segundo y 145; piratería, previsto en los artículos 146 y 147; genocidio, previsto en el artículo 149 bis; evasión de presos, previsto en los artículos 150 y 152; ataques a las vías de comunicación, previsto en los artículos 168 y 170; uso ilícito de instalaciones destinadas al tránsito aéreo, previsto en el artículo 172 bis párrafo tercero; contra la salud, previsto en los artículos 194, 195, párrafo primero, 195 bis, excepto cuando se trate de los casos previstos en las dos primeras líneas horizontales de las tablas contenidas en el apéndice I, 196 bis, 197, párrafo primero y 198, parte primera del párrafo tercero; corrupción de menores, previsto en el artículo 201; trata de personas, previsto en el artículo 205, segundo párrafo; explotación del cuerpo de un menor de edad por medio del comercio carnal, previsto en el artículo 208; falsificación y alteración de moneda, previsto en los artículos 234, 236 y 237; de violación, previsto en los artículos 265, 266 y 266 bis; asalto en carreteras o caminos, previstos en el artículo 286, segundo párrafo; homicidio, previsto en los artículos 302 con relación al 307, 313, 315, 315 bis, 320 y 323; de secuestro, previsto en el artículo 366, exceptuando el párrafo antepenúltimo; robo calificado, previsto en el artículo 367, en relación con el 370 párrafos segundo y tercero, cuando se realice en cualquiera de las circunstancias señaladas en los artículos 372, 381, fracciones VIII, IX, y X, 381 bis; robo, previsto en el artículo 371, párrafo último; extorsión, previsto en el artículo 390 y operaciones con recursos de procedencia ilícita, previsto en el artículo 400 bis; así como los previstos en los artículos 83, fracción III, 83 bis, exceptuando sables, bayonetas y lanzas y 84 de la Ley Federal de Armas de Fuego y Explosivos; tortura, previsto en los artículos 3o. y 5o. de la Ley Federal para Prevenir y Sancionar la Tortura; el de tráfico de indocumentados, previsto en el artículo 138 de la Ley General de Población; y los previstos en los artículos 104, fracciones II y III, último párrafo y 105 fracción IV del Código Fiscal de la Federación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
 
-ARTICULO 194 bis.- En los casos de delito flagrante y en los urgentes, ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en el que deberá ordenar su libertad o ponerlo a disposición de autoridad judicial. Este plazo podrá duplicarse en los casos de delincuencia organizada, que serán aquellos en los que tres o más personas que se organizan bajo las reglas de disciplina y jerarquía para cometer de modo violento y reiterado o con fines predominantemente lucrativos algunos de los delitos previstos en los siguientes artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal; terrorismo previsto en el artículo 139 párrafo primero; sabotaje previsto en el artículo 140 párrafo primero; piratería previsto en los artículos 146 y 147; evasión de presos previsto en los artículos 150 y 152; ataque a las vías de comunicación previsto en los artículos 168 y 170; uso ilícito de instalaciones destinadas al tránsito aéreo previsto en el artículo 172 bis párrafo tercero; contra la salud previstos en los artículos 194, 195 párrafo primero, 196 bis, 198 parte primera de su párrafo tercero; trata de personas prevista en el artículo 205 segundo párrafo; explotación del cuerpo de un menor de edad por medio del comercio carnal previsto en el artículo 208; falsificación o alteración de moneda previsto en los artículos 234, 236 y 237; de violación previsto en los artículos 265, 266, 266 bis; asalto en carreteras o caminos previsto en el artículo 286; homicidio previsto en el artículo 302 con relación al 307, 315 y 320; secuestro previsto en el artículo 366 fracciones I a VI exceptuándose los párrafos antepenúltimo y penúltimo; robo calificado previsto en el artículo 370 párrafos segundo y tercero, cuando se realice en cualquiera de las circunstancias señaladas en los artículos 372, 381 fracciones IX y X, 381 bis; extorsión previsto en el artículo 390; así como los previstos en los artículos 83 fracción III, 83 bis, exceptuando sables, bayonetas y lanzas, y 84 de la Ley Federal de Armas de Fuego y Explosivos; tortura, previsto en el artículo 3o. y 5o. de la Ley Federal para Prevenir y Sancionar la Tortura; el de tráfico de indocumentados previsto en el artículo 138 de la Ley General de Población; y los previstos en los artículos 104 fracciones II y III, último párrafo, 105 fracción IV y 115 bis del Código Fiscal de la Federación.
-
-> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
-
-Si la integración de la averiguación previa requiriera mayor tiempo del señalado en el párrafo anterior, el detenido será puesto en libertad, sin perjuicio de lo previsto por el artículo 133 bis.
+ARTICULO 194 bis.- En los casos de delito flagrante y en casos urgentes, ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, quien transcurrido dicho plazo, deberá ordenar su libertad o ponerlo a disposición de la autoridad judicial. Este plazo podrá duplicarse respecto de los delitos a que se refiere la ley federal en materia de delincuencia organizada.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE NOVIEMBRE DE 1986)</small>
 
@@ -4444,3 +4456,9 @@ D.O.F. 13 DE MAYO DE 1996.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE NOVIEMBRE DE 1996.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los artículos 167, fracción IX, y 196 bis del Código Penal para el Distrito Federal en materia de Fuero Común y para toda la República en materia de Fuero Federal, vigentes hasta la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos. Lo anterior sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código Penal.
