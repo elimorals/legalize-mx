@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "1989-03-31"
+last_updated: "1989-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1989.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -347,51 +347,75 @@ X.- Las otras atribuciones previstas por las Leyes, Reglamentos y demás disposi
 
 DE LA COMPETENCIA DE LA SECRETARIA DE FINANZAS.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 24.
 
-A la Secretaría de Finanzas le corresponde la atención y trámite de los siguientes asuntos:
+A la Secretaría de Finanzas del Estado corresponde la atención y trámite de los siguientes asuntos:
 
 I.- Formular y someter a la consideración del Gobernador del Estado la política hacendaria y crediticia del Gobierno;
 
-II.- Recaudar los Impuestos, Derechos, Productos, Aprovechamientos y Contribuciones de Mejoras en los términos de las Leyes Fiscales correspondientes;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
+
+II.- Recaudar y administrar las contribuciones en los términos de las leyes fiscales correspondientes, así como otros ingresos que deba percibir el erario estatal, y que tenga su origen en otras disposiciones legales;
 
 III.- Cumplir y hacer cumplir las Leyes, Reglamentos, Convenios y demás disposiciones de carácter fiscal;
 
 IV.- Mantener actualizado el Padrón Estatal de Contribuyentes;
 
-V.- Practicar, conforme a la Ley, las revisiones y auditorías a los contribuyentes, a fin de proteger el interés fiscal;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
+
+V.- Realizar visitas domiciliarias, revisiones, inspecciones y auditorías a los contribuyentes, a fin de comprobar el exacto cumplimiento de las leyes fiscales;
 
 VI.- Proporcionar, a solicitud de los Ayuntamientos o de particulares, orientación en materia de interpretación y aplicación de las Leyes tributarias, tanto del Estado como de la federación, realizando de oficio o a petición de parte, una función permanente de orientación fiscal, dictando los acuerdos necesarios, los cuales adquirirán el carácter de obligatorios para todas sus dependencias y unidades administrativas;
 
-VII.- Formular e integrar la estadística fiscal y financiera;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
 
-VIII.- Organizar y llevar la contabilidad de la Hacienda Pública;
+VII.- Formular e integrar la estadística fiscal y financiera del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
+
+VIII.- Organizar y llevar la contabilidad de la hacienda pública estatal, formular la cuenta anual y consolidar los estados financieros tanto de la Administración Pública Centralizada como la Paraestatal;
 
 IX.- Informar a la Secretaría de la Contraloría General sobre los sistemas de contabilidad, su control financiero, deuda pública y manejo de fondos y valores;
 
-X.- Someter al acuerdo del Gobernador la cancelación de cuentas incobrables;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
 
-XI.- Formular la cuenta anual de la Hacienda Pública Estatal y consolidar los estados financieros que emanen de las Entidades Paraestatales;
+X.- Acordar la cancelación de créditos fiscales;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
+
+XI.- Formar parte de los órganos de dirección y de gobierno de las entidades de la Administración Pública Paraestatal;
 
 XII.- Representar al Gobierno del Estado en los juicios que se ventilen ante los Tribunales, cuando tenga interés el Fisco Estatal y el de la federación, de conformidad con lo dispuesto en la Ley de Coordinación Fiscal y Convenios suscritos en la materia, que tengan vigencia en el Estado;
 
 XIII.- Proyectar y calcular los ingresos del Estado, tomando en cuenta las necesidades de recursos y la utilización del crédito público para la ejecución del Plan Estatal de Desarrollo y sus programas;
 
-XIV.- Formular y presentar a la consideración del Titular del Poder Ejecutivo el Anteproyecto del Presupuesto Anual de Ingresos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
+
+XIV.- Formular y presentar cada año a la consideración del titular del Poder Ejecutivo el anteproyecto de Ley de Ingresos del Estado, para el ejercicio fiscal siguiente;
 
 XV.- Efectuar los pagos que deba realizar el Gobierno del Estado, previa revisión de la disponibilidad presupuestal señalada en el Presupuesto de Egresos;
 
-XVI.- Emitir las bases para fijar precios, tarifas, tasas, cuotas y demás ingresos por concepto de prestación de servicios y enajenación o arrendamiento de bienes a cargo de Dependencias y Entidades de la Administración Pública;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
 
-XVII.- Revisar y, en su caso, aprobar los programas financieros y crediticios de la Administración Pública Centralizada y de la Paraestatal;
+XVI.- Emitir las bases para fijar precios, tarifas, tasas y cuotas y demás ingresos por concepto de servicios, enajenación o arrendamiento de bienes sujetos al dominio privado del Estado y cuando correspondan a sus funciones de derecho público que no estén previstos en la Ley de Ingresos del Estado;
 
-XVIII.- Administrar la deuda pública del Gobierno del Estado, informando al Gobernador sobre la situación de la misma, así como de los compromisos de pago;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
+
+XVII.- Revisar y, en su caso, aprobar los programas financieros y crediticios de la Administración Pública Centralizada y de la Paraestatal, así como administrar la deuda pública del Estado, informando al Gobernador sobre la situación de la misma y, en general, sobre el estado de las finanzas públicas;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
+
+XVIII.- Coordinar y vigilar la administración, ejecución y aplicación de recursos de los programas de inversión de la Administración Pública Centralizada y Paraestatal, así como los convenios y programas de Desarrollo Regional celebrados con la Federación y Municipios;
 
 XIX.- Administrar los fondos y valores del Gobierno del Estado, incluyendo su aplicación, con base en el Presupuesto Anual de Egresos;
 
 XX.- Atender las observaciones de glosa que finque el Congreso del Estado en materia hacendaria;
 
-XXI.- Controlar las actividades de las Oficinas Recaudadoras de Rentas, las que deberán cumplir los lineamientos e instructivos que emita la Secretaría de Finanzas, respecto a su funcionamiento interno, así como en la aplicación de las diversas disposiciones fiscales del Estado y de la Federación, cuando éstas deban aplicarse por las Autoridades Estatales, de conformidad con lo dispuesto en los Convenios suscritos en materia Fiscal Federal con vigencia en el Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1989)</small>
+
+XXI.- Vigilar que sus unidades administrativas den exacto cumplimiento a las leyes, al Reglamento Interior de la Secretaría y a los demás instructivos y manuales que emita o apruebe el Secretario;
 
 XXII.- Dirigir el servicio de procesamiento electrónico de datos a las dependencias y entidades de la Administración Pública Estatal;
 
@@ -603,7 +627,7 @@ VII.- Coordinarse con Instituciones Educativas Técnicas y de Nivel Superior, pa
 
 VIII.- Promover la creación de organismos de carácter privado y social que tiendan a fomentar la inversión en materia turística y servicios conexos, y
 
-IX.- Las demás que determinen expresamente las Leyes y Reglamentos.
+IX.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
 ### CAPITULO XII
 
@@ -1000,3 +1024,9 @@ La presente Ley entrará en vigor el día siguiente de su publicación en el Per
 ###### ARTICULO SEGUNDO.
 
 Se deroga la Fracción VIII del artículo 31 de la Ley Orgánica de la Administración Pública del Estado. Se abroga el Capítulo VII con todos sus artículos del Reglamento Interno de la Secretaría de Educación y Bienestar Social del Estado, para suprimir la referencia de la Dirección de Asuntos Culturales y en lo conducente las demás disposiciones que se opongan a lo dispuesto en la presente Ley.
+
+P.O. 31 DE DICIEMBRE DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Baja California.
