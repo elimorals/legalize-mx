@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1983-11-30"
+last_updated: "1983-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1983.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -273,11 +273,13 @@ Los presuntos miembros de la Cámara declarados electos por la Junta Computadora
 
 Calificadas las elecciones de la mayoría de los Diputados integrantes de la Cámara y habiendo quórum, otorgarán protesta de guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las leyes que de ellas emanen; rindiéndola por sí, el Presidente de la Junta Preparatoria, quien la tomará después a los otros Diputados. Acto seguido, se designará la Mesa Directiva del Congreso y se hará la declaración solemne de quedar instalada la Legislatura respectiva y abierto su período de sesiones ordinarias.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 23.
 
-El Congreso del Estado tendrá dos periodos de sesiones al año; el inicial, del primero de enero al treinta de abril y el final, del primero de septiembre al treinta y uno de diciembre del mismo año.
+El Congreso del Estado tendrá dos períodos de sesiones al año, el inicial, del dos de enero al treinta de abril y al final, del primero de septiembre al treinta y uno de diciembre del mismo año, excepto en los casos a que se refieren los artículos 19 y 45 primer párrafo de esta Constitución.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 Durante el receso funcionará una Comisión Permanente.
 
@@ -287,25 +289,25 @@ Durante el receso funcionará una Comisión Permanente.
 
 El Congreso funcionará con la asistencia de la mitad más uno del total de sus componentes. A falta de quórum para iniciar algún período de sesiones, se procederá de acuerdo con el artículo veintiuno convocando a elecciones la Comisión Permanente.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 25.
 
-Durante el primer período de sesiones, el Congreso se ocupará preferentemente en examinar y calificar la cuenta pública del año anterior.
+Durante el primer período de sesiones, el Congreso se ocupará preferentemente de expedir, reformar y derogar leyes y decretos para la mejor administración del Estado.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 26.
 
-El Congreso declarará si las cantidades percibidas y gastadas de acuerdo con las partidas presupuestases respectivas, si los gastos están justificados o a lugar ha exigir responsabilidades.
+El Congreso declarará al examinar y calificar la cuenta pública del año anterior, si las cantidades percibidas y gastadas están de acuerdo con las partidas presupuestales respectivas, si los gastos están justificados o ha lugar a exigir responsabilidades.
 
-Para tales efectos el Congreso tiene facultades para practicar las investigaciones que considere convenientes.
+Para tales efectos, el Congreso tiene facultades para practicar las investigaciones que considere convenientes.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 27.
 
-Durante el segundo período se ocupará con preferencia en estudiar, discutir y votar las Leyes de Ingresos de los Municipios y del Estado y del Presupuesto de Egresos de este último que será presentado por el Ejecutivo.
+Durante el segundo período el Congreso se ocupará de examinar y calificar la cuenta pública del año anterior y con la misma preferencia en estudiar, discutir y votar las Leyes de Ingresos de los Municipios y del Estado y del Presupuesto de Egresos de este último que será presentado por el Ejecutivo.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -553,11 +555,11 @@ VIII.- Las demás que le imponga esta Constitución.
 
 La Contaduría Mayor de Hacienda dependerá directamente del Congreso y en ella se glosarán sin excepción las cuentas del Erario Estatal.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 41.
 
-Toda cuenta del Erario Estatal o Municipal deberá quedar concluida y glosada anualmente dentro de los primeros diez días del mes de enero. El cumplimiento de este precepto, imputable a los empleados de la Contaduría, es causa de responsabilidad.
+Toda cuenta del erario estatal o municipal deberá quedar concluída y glosada anualmente antes del inicio del segundo período de sesiones del Congreso. El incumplimiento de este precepto, imputable a los servidores públicos de la Contaduría, es causa de responsabilidad en los términos de las leyes aplicables.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -671,7 +673,9 @@ V.- Solicitar a la Comisión Permanente que convoque a sesiones extraordinarias;
 
 VI.- Facilitar al Poder Judicial los auxilios que necesite, para hacer expedito el ejercicio de sus funciones;
 
-VII.- Publicar mensualmente los cortes de caja de las oficinas recaudadoras del Estado;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1983)</small>
+
+VII.- Publicar mensualmente los cortes de caja de las oficinas recaudadoras del Estado, así como enviar anualmente dentro de los primeros quince días del mes de abril, la cuenta pública del año anterior al Congreso del Estado, para su examen y calificación;
 
 VIII.- Otorgar los títulos profesionales conforme a las leyes que regulen los estudios correspondientes;
 
@@ -1129,8 +1133,6 @@ El manejo de Recursos Económicos del Estado, de los Municipios y de sus respect
 
 Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del título séptimo de esta Constitución.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
-
 ###### ARTICULO 77.
 
 Para los efectos de esta Constitución, la residencia no se pierde por ausencia en el desempeño de cargo de elección popular, de comisiones oficiales del Gobierno del Estado o con motivo del deber de todo mexicano de servir a la Patria y sus Instituciones.
@@ -1548,3 +1550,19 @@ DECRETO NUMERO 00124.
 PRIMERO.- Esta reforma ha sido aprobada en los términos del artículo 83 de la Constitución del estado y entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- En sesión de la Cámara de Diputados y previo acuerdo con el Tribunal Superior de Justicia, se señalará la fecha y hora en que en el mes de diciembre de cada año, concurrirá el Presidente del Tribunal Superior de Justicia a rendir su informe.
+
+P.O. 28 DE DICIEMBRE DE 1983.
+
+DECRETO NUMERO 0185.
+
+PRIMERO.- Estas Reformas fueron aprobadas conforme al Artículo 83 de la Constitución Política del Estado.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE DICIEMBRE DE 1983.
+
+DECRETO NUMERO 0186.
+
+PRIMERO.- Las Reformas a que se refiere este Decreto fueron aprobados (sic) en los términos del artículo 83 de la propia Constitución.
+
+SEGUNDO.- Este Decreto surtirá sus efectos a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
