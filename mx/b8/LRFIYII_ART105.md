@@ -4,7 +4,7 @@ identifier: "LRFIYII_ART105"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-11"
-last_updated: "1995-05-11"
+last_updated: "1996-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8654&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LRFIYII_ART105"
 
 LEY REGLAMENTARIA DE LAS FRACCIONES I Y II DEL ARTICULO 105 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE NOVIEMBRE DE 1996.
 
-Ley publicada en la Primera Sección del Diario Oficial de la Federación el jueves 11 de mayo de 1995.
+Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 11 de mayo de 1995.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -166,7 +166,7 @@ II. Contra normas generales o actos en materia electoral;
 
 III. Contra normas generales o actos que sean materia de una controversia pendiente de resolver, siempre que exista identidad de partes, normas generales o actos y conceptos de invalidez;
 
-IV. Contra normas generales o actos que hubieren sido materia de una ejecutoria dictada en otra controversia, o contra las resoluciones dictadas con motivo de su ejecución, siempre que exista identidad de partes, normas generales o actos y conceptos de invalidez, en los casos a que se refiere el artículo 105, fracción I, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+IV. Contra normas generales o actos que hubieren sido materia de una ejecutoria dictada en otra controversia, o contra las resoluciones dictadas con motivo de su ejecución, siempre que exista identidad de partes, normas generales o actos y conceptos de invalidez, en los casos a que se refiere el artículo 105, fracción I, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos;
 
 V. Cuando hayan cesado los efectos de la norma general o acto materia de la controversia;
 
@@ -458,6 +458,10 @@ En las acciones de inconstitucionalidad se aplicarán en todo aquello que no se 
 
 El plazo para ejercitar la acción de inconstitucionalidad será de treinta días naturales contados a partir del día siguiente a la fecha en que la ley o tratado internacional impugnado sean publicados en el correspondiente medio oficial. Si el último día del plazo fuese inhábil, la demanda podrá presentarse el primer día hábil siguiente.
 
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
+En materia electoral, para el cómputo de los plazos, todos los días son hábiles.
+
 ###### ARTICULO 61.
 
 La demanda por la que se ejercita la acción de inconstitucionalidad deberá contener:
@@ -478,6 +482,10 @@ En los casos previstos en los incisos a), b), d) y e) de la fracción II del art
 
 La parte demandante, en la instancia inicial, deberá designar como representantes comunes a cuando menos dos de sus integrantes, quienes actuarán conjunta o separadamente durante todo el procedimiento y aun después de concluido éste. Si no se designaren representantes comunes, el Presidente de la Suprema Corte de Justicia de la Nación lo hará de oficio. Los representantes comunes podrán acreditar delegados para que hagan promociones, concurran a las audiencias y en ellas rindan pruebas y formulen alegatos, así como para que promuevan los incidentes y recursos previstos en esta ley.
 
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
+En los términos previstos por el inciso f) de la fracción II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, se considerarán parte demandante en los procedimientos por acciones en contra de leyes electorales, además de las señaladas en la fracción I del artículo 10 de esta ley, a los partidos políticos con registro por conducto de sus dirigencias nacionales o estatales, según corresponda, a quienes les será aplicable, en lo conducente, lo dispuesto en los dos primeros párrafos del artículo 11 de este mismo ordenamiento.
+
 ###### ARTICULO 63.
 
 El Presidente de los Estados Unidos Mexicanos será representado en las acciones de inconstitucionalidad en términos del tercer párrafo del artículo 11 de esta ley.
@@ -488,11 +496,17 @@ El Presidente de los Estados Unidos Mexicanos será representado en las acciones
 
 Iniciado el procedimiento, conforme al artículo 24, si el escrito en que se ejercita la acción fuere obscuro o irregular, el ministro instructor prevendrá al demandante o a sus representantes comunes para que hagan las aclaraciones que correspondan dentro del plazo de cinco días. Una vez transcurrido este plazo, dicho ministro dará vista a los órganos legislativos que hubieren emitido la norma y el órgano ejecutivo que la hubiere promulgado, para que dentro del plazo de quince días rindan un informe que contenga las razones y fundamentos tendientes a sostener la validez de la norma general impugnada o la improcedencia de la acción de inconstitucionalidad. Tratándose del Congreso de la Unión, cada una de las Cámaras rendirá por separado el informe previsto en este artículo.
 
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
+En los procedimientos por acciones en contra de leyes electorales, los plazos a que se refiere el párrafo anterior serán, respectivamente, de tres días para hacer aclaraciones y de seis días para rendir el informe que contenga las razones y fundamentos tendientes a sostener la constitucionalidad de la ley impugnada.
+
 La admisión de una acción de inconstitucionalidad no dará lugar a la suspensión de la norma cuestionada.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 65.
 
-En las acciones de inconstitucionalidad, el ministro instructor de acuerdo al artículo 25, podrá aplicar las causales de improcedencia establecidas en el artículo 19 de esta ley, así como las causales de sobreseimiento a que se refieren las fracciones II y III del artículo 20.
+En las acciones de inconstitucionalidad, el ministro instructor de acuerdo al artículo 25, podrá aplicar las causales de improcedencia establecidas en el artículo 19 de esta ley, con excepción de su fracción II respecto de leyes electorales, así como las causales de sobreseimiento a que se refieren las fracciones II y III del artículo 20.
 
 La (sic) causales previstas en las fracciones III y IV del artículo 19 sólo podrán aplicarse cuando los supuestos contemplados en éstas se presenten respecto de otra acción de inconstitucionalidad.
 
@@ -504,11 +518,23 @@ Salvo en los casos en que el Procurador General de la República hubiere ejercit
 
 Después de presentados los informes previstos en el artículo 64 o habiendo transcurrido el plazo para ello, el ministro instructor pondrá los autos a la vista de las partes a fin de que dentro del plazo de cinco días formulen alegatos.
 
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
+Cuando la acción intentada se refiera a leyes electorales, el plazo señalado en el párrafo anterior será de dos días.
+
 ###### ARTICULO 68.
 
 Hasta antes de dictarse sentencia, el ministro instructor podrá solicitar a las partes o a quien juzgue conveniente, todos aquellos elementos que a su juicio resulten necesarios para la mejor solución del asunto.
 
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
+Cuando la acción de inconstitucionalidad se interponga en contra de una ley electoral, el ministro instructor podrá solicitar opinión a la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación.
+
 Agotado el procedimiento, el ministro instructor propondrá al Pleno de la Suprema Corte de Justicia de la Nación el proyecto de sentencia para la resolución definitiva del asunto planteado.
+
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
+En los casos de materia electoral, el proyecto de sentencia a que se refiere el párrafo anterior deberá ser sometido al Pleno dentro de los cinco días siguientes a aquel en que se haya agotado el procedimiento, debiéndose dictar el fallo por el Pleno a más tardar en un plazo de cinco días, contados a partir de que el ministro instructor haya presentado su proyecto.
 
 ###### ARTICULO 69.
 
@@ -520,11 +546,19 @@ Cuando exista conexidad entre acciones de inconstitucionalidad, controversias co
 
 El recurso de reclamación previsto en el artículo 51 únicamente procederá en contra de los autos del ministro instructor que decreten la improcedencia o el sobreseimiento de la acción.
 
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
+En materia electoral el plazo para interponer el recurso de reclamación a que se refiere el párrafo anterior será de tres días y el Pleno de la Suprema Corte lo resolverá de plano, dentro de los tres días siguientes a su interposición.
+
 ### Capítulo III. De las sentencias
 
 ###### ARTICULO 71.
 
 Al dictar sentencia, la Suprema Corte de Justicia de la Nación deberá corregir los errores que advierta en la cita de los preceptos invocados y suplirá los conceptos de invalidez planteados en la demanda. La Suprema Corte de Justicia de la Nación podrá fundar su declaratoria de inconstitucionalidad en la violación de cualquier precepto constitucional, haya o no sido invocado en el escrito inicial.
+
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
+Las sentencias que dicte la Suprema Corte de Justicia de la Nación sobre la no conformidad de leyes electorales a la Constitución, sólo podrán referirse a la violación de los preceptos expresamente señalados en el escrito inicial.
 
 ###### ARTICULO 72.
 
@@ -547,3 +581,11 @@ CUARTO.- En tanto entra en vigor el presente decreto, la Suprema Corte de Justic
 México, D.F., a 24 de abril de 1995.- Sen. Martha Lara Alatorre, Presidenta.- Dip. Anselmo García Cruz, Presidente.- Sen. Juan Fernando Palomino Topete, Secretario.- Dip. Ricardo Fidel Pacheco Rodríguez, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de mayo de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Esteban Moctezuma Barragán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 22 DE NOVIEMBRE DE 1996.
+
+Primero.- Las reformas a la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos a que se refiere el artículo SEGUNDO del presente Decreto, entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- En cumplimiento del segundo párrafo del artículo SEGUNDO transitorio del Decreto de reformas y adiciones a diversos artículos de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el día 22 de agosto de 1996, el plazo para ejercitar las acciones de inconstitucionalidad en contra de las legislaciones electorales federal y locales, que se expidan antes del 1o. de abril de 1997, será de quince días naturales y serán resueltas de plano y en definitiva por la Suprema Corte de Justicia de la Nación sin sujetarse al procedimiento o plazos señalados en los artículos 64 al 70 de la ley que se reforma por el presente Decreto, en un plazo no mayor de quince días hábiles a partir de la presentación del escrito respectivo.
