@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-notariado-para-el-estado-de-baja-california-22116"
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-14"
-last_updated: "2002-06-28"
+last_updated: "2004-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 2004.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 14 de septiembre de 2001.
 
@@ -271,11 +271,15 @@ Los Notarios se abstendrán de expedir constancia de terminación de prácticas 
 
 Para obtener la patente de aspirante al ejercicio del notariado se requiere:
 
-I.- Ser mexicano por nacimiento y tener 30 años cumplidos;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
+
+I.- Ser mexicano por nacimiento y tener 27 años cumplidos;
 
 II.- Ser Licenciado en Derecho con título profesional registrado en la Dirección de Profesiones del Estado;
 
-III.- Estar en ejercicio de sus derechos civiles; haber observado y observar buena conducta; no pertenecer al estado eclesiástico; y en caso de haber litigado gozar el buen nombre en el medio judicial y con experiencia mínima de 5 años en el ejercicio del derecho, en cualquiera de sus ramas;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
+
+III.- Estar en ejercicio de sus derechos civiles; haber observado y observar buena conducta; no pertenecer al estado eclesiástico; y en caso de haber litigado gozar el buen nombre en el medio judicial y con experiencia mínima de 3 años en el ejercicio del derecho, en cualquiera de sus ramas;
 
 > <small>(REFORMADA, P.O. 28 DE JUNIO DE 2002)</small>
 
@@ -1706,3 +1710,9 @@ C.P. JORGE RAMOS.
 P.O. 28 DE JUNIO DE 2002.
 
 UNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 2 DE ABRIL DE 2004.
+
+###### ARTÍCULO UNICO.
+
+La presente reforma entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
