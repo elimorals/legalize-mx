@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1930-12-31"
+last_updated: "1931-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 1930.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 1931.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -323,7 +323,9 @@ XXI.- conceder licencia al Gobernador del Estado cuando excedan de treinta días
 
 XXII.- conceder licencias a los Magistrados del Tribunal Superior de Justicia, cuando excedieren de un mes;
 
-XXIII.- nombrar a los Magistrados del Tribunal Superior de Justicia;
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 1931)</small>
+
+XXIII.- Nombrar a los Magistrados del H. Tribunal Superior de Justicia y a los suplentes de éstos.
 
 XXIV.- hacer uso del derecho de iniciar leyes que le concede la Constitución General, y aprobar o secundar, cuando lo crea conveniente, las de los Congresos de los otros Estados;
 
@@ -649,15 +651,19 @@ Las faltas del Secretario General serán suplidas por el Oficial Mayor de la Sec
 
 Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia, en los Juzgados de primera Instancia y en los demás establecidos o que en adelante establezcan las leyes.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1931)</small>
+
 ## TITULO SEXTO. DEL PODER JUDICIAL
 
 ###### Artículo 64.
 
-El Tribunal Superior de Justicia se compondrá de seis Magistrados y funcionará en Tribunal Pleno o dividido en Salas, de la manera que establezca la Ley.
+El Tribunal Superior de Justicia se compondrá de tres Magistrados, y funcionará en Tribunal Pleno o dividido en Salas, de la manera que establezca la ley. Habrá, además, tres Magistrados Suplentes.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1931)</small>
 
 ###### Artículo 65.
 
-Cada uno de los Magistrados del Tribunal Superior de Justicia durará en su encargo cuatro años y será nombrado por el Congreso del Estado por mayoría absoluta del número total de Diputados. Solo podrá ser removido previo juicio de responsabilidad.
+Cada uno de los Magistrados del Tribunal Superior de Justicia, propietario o suplente, durará en su encargo cuatro años, y será nombrado por el Congreso del Estado, por mayoría absoluta del número total de Diputados. Sólo podrá ser removido previo juicio de responsabilidad.
 
 ###### Artículo 66.
 
@@ -679,9 +685,11 @@ VI.- haber ejercido la Abogacía cinco años o cuatro la Judicatura.
 
 Los Magistrados del Tribunal Superior de Justicia, al entrar a ejercer su encargo, prestarán ante el Congreso, y en los recesos de éste, ante la Diputación Permanente, la siguiente protesta: "Presidente: Protestais desempeñar leal y patrióticamente el cargo de Magistrado del Tribunal Superior de Justicia del Estado, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, y las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Unión y del Estado? (sic) -Magistrado:- Si protesto.- Presidente: Si no lo hiciereis así, la Nación y el Estado os lo demanden."
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1931)</small>
+
 ###### Artículo 68.
 
-Las faltas temporales de los Magistrados del Tribunal Superior de Justicia, que no excedieren de un mes, no se suplirán si aquel tuviere "quorum" para sus sesiones; pero si no lo hubiere, el Congreso o la Comisión Permanente, en su caso, nombrará un suplente por el tiempo que dure la falta.
+Las faltas temporales de los Magistrados del Tribunal Superior de Justicia serán siempre suplidas.
 
 ###### Artículo 69.
 
@@ -725,7 +733,9 @@ III.- nombrar y remover libremente a los Jueces de primera Instancia, a los Secr
 
 IV.- admitir las renuncias que de sus encargos hagan los funcionarios y empleados referidos en la fracción anterior, así como conceder licencias a los mismos;
 
-V.- conceder licencias hasta por un mes a los Magistrados, dando aviso al Congreso o a la Diputación Permanente cuando sea necesario el nombramiento de un sustituto;
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 1931)</small>
+
+V.- Conceder licencias hasta por un mes a los Magistrados, llamando al Magistrado Suplente que corresponda.
 
 VI.- vigilar y promover cuanto se relacione con la buena marcha de la Administración de Justicia.
 
@@ -1048,6 +1058,10 @@ EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITO
 D.O. 31 DE DICIEMBRE DE 1930.
 
 La reforma de los artículos 20 y 21 constitucionales, entrará en vigor al verificarse las elecciones para integrar la XXXII Legislatura del Estado y la de las demás disposiciones a que este decreto se refiere, el día primero de enero de 1931.
+
+D.O. 31 DE DICIEMBRE DE 1931.
+
+Este decreto entrará en vigor el día primero de enero del año de mil novecientos treinta y dos.
 
 ###### ARTICULO UNICO.
 
