@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-civil-para-el-estado-de-coahuila-de-12535"
 country: "mx"
 rank: "ley"
 publication_date: "1996-06-11"
-last_updated: "1996-06-11"
+last_updated: "2001-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCION CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de junio de 1996.
 
@@ -59,9 +59,17 @@ III.- La prevención y control de eventualidades de catástrofes, calamidades o 
 
 IV.- La expedición, aplicación, evaluación y difusión del Programa Estatal de Protección Civil, así como de los planes que de él se deriven;
 
-V.- La ejecución de programas tendientes a hacer del conocimiento de la población las medidas que, para la prevención y control de eventualidades, se estimen necesarios; y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-VI.- Las demás que con ese carácter expida el Ejecutivo del Estado.
+V.- La ejecución coordinada de programas de los gobiernos federal, estatal y municipales, tendientes a hacer del conocimiento de la población las medidas que, para la prevención y control de eventualidades, se estimen necesarios;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+VI.- La coordinación de esfuerzos y acciones entre los gobiernos, federal, estatal y municipales, en el marco del Municipalismo Cooperativo e Interdependiente; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE MARZO DE 2001)</small>
+
+VII.- Las demás que con ese carácter expida el Ejecutivo del Estado.
 
 ###### ARTICULO 4°.
 
@@ -107,6 +115,10 @@ XVIII.- Atlas Estatal de Riesgos, el catálogo que para tal efecto elabore la Di
 
 El Ejecutivo del Estado, a través del Consejo Estatal de Protección Civil, fomentará en la entidad la implementación de programas, estudios, investigaciones y demás actividades tendientes a desarrollar nuevos métodos, sistemas, equipos y dispositivos para la prevención y control de catástrofes, desastres o calamidades, así como para la oportuna prestación de los servicios de apoyo o auxilio que, en su caso, se requieran.
 
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+De igual modo, los ayuntamientos de la entidad, en el ámbito de su competencia, implementarán de manera solidaria los programas y actividades a que se refiere el párrafo que antecede, en sus respectivas jurisdicciones.
+
 ###### ARTICULO 6°.
 
 El Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus competencias, desarrollarán, a través de las instancias correspondientes, programas educativos e informativos con el objeto de orientar a la población en la prevención, control y atención de desastres, calamidades, catástrofes y demás de naturaleza similar que pongan en riesgo a la propia población.
@@ -114,6 +126,10 @@ El Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus competencias, 
 ###### ARTICULO 7°.
 
 Corresponde al Gobernador del Estado dictar los decretos, acuerdos y demás disposiciones que estime conducentes para implementar las medidas de prevención y auxilio necesarios en caso de desastres, calamidades y catástrofes públicas, así como emitir las declaratorias de contingencias, emergencias o desastres.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+Los Ayuntamientos de la entidad emitirán los reglamentos, acuerdos, circulares y demás disposiciones municipales que estimen necesarias para adoptar en sus comunidades las medidas de prevención y auxilio que resulten necesarias en sus respectivas jurisdicciones.
 
 ### CAPITULO SEGUNDO. DE LAS AUTORIDADES
 
@@ -125,13 +141,21 @@ I.- El Gobernador del Estado;
 
 II.- El Secretario de Gobierno;
 
-III.- El Subsecretario de Prevención y Readaptación Social;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-IV.- El Director Estatal de Protección Civil;
+III.- El Secretario de Seguridad Pública y Protección Ciudadana;
 
-V.- Los Presidentes Municipales en sus respectivos ámbitos de competencia; y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-VI.- Las demás que con ese carácter estén previstas por este y otros ordenamientos aplicables.
+IV.- El Director de Protección Civil;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+V.- Los Ayuntamientos de la entidad, por conducto de sus Presidentes Municipales en sus respectivos ámbitos de competencia; y
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+VI.- Las demás que con ese carácter estén previstas por éste u otros ordenamientos aplicables.
 
 ###### ARTICULO 9°.
 
@@ -139,7 +163,9 @@ Corresponde al Gobernador del Estado dictar las medidas que estime convenientes 
 
 I.- Velar por la exacta observancia de las medidas que en materia de protección civil se implementen en la entidad;
 
-II.- Promover una amplia participación de la ciudadanía en el establecimiento de las medidas tendientes a prevenir y, en su caso, apoyar a la población en casos de desastres, calamidades y catástrofes;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+II.- Promover la eficiente coordinación de esfuerzos y acciones entre los gobiernos estatal y municipales, en el marco del Municipalismo Cooperativo e Interdependiente, así como promover una amplia participación de la comunidad en el establecimiento de las medidas tendientes a prevenir y, en su caso, apoyar a la población en casos de desastres, calamidades y catástrofes;
 
 III.- Coadyuvar con las autoridades federales, estatales de otras entidades de la República y municipales en la adopción de acciones y medidas encaminadas a mejorar los sistemas de protección civil en la entidad;
 
@@ -151,9 +177,11 @@ VI.- Aprobar el Programa Estatal de Protección Civil y los demás planes que de
 
 VII.- Las demás que le confiera la presente Ley y otros ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 10.
 
-El Secretario de Gobierno y el Subsecretario de Prevención y Readaptación Social, tendrán las atribuciones que les asigne el Gobernador del Estado o les señalen los ordenamientos legales aplicables en materia de protección civil.
+Corresponderá al Secretario de Seguridad Pública y Protección Ciudadana apoyar, coordinar y evaluar a las diversas dependencias y entidades de la administración pública estatal que, por sus funciones, participen en las labores de protección civil. En caso de que se ponga en riesgo la seguridad interna del Estado, la Secretaría de Gobierno se encargará de coordinar las acciones correspondientes.
 
 ###### ARTICULO 11.
 
@@ -165,9 +193,15 @@ II.- Promover la protección civil en sus aspectos normativo, operativo, de coor
 
 III.- Evaluar las situaciones de desastres, calamidades y catástrofes públicas, así como la capacidad de respuesta del Estado, así como brindar y, en su caso, solicitar el apoyo de las autoridades y organizaciones competentes para la atención del siniestro;
 
-IV.- Coordinar las acciones de las instancias que integran el Sistema Estatal de Protección Civil, en caso de instrumentarse cualquiera de las acciones previstas en la ley, asumiendo el control de las operaciones de emergencia y ubicando bajo su mando a las autoridades y corporaciones de cualquier nivel, incluyendo a los ayuntamientos, respetando lo que establece el artículo 12, fracción II, cuando el ayuntamiento se declare capacitado para asumir el control de la emergencia.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-V.- Identificar y levantar, en coordinación con los Ayuntamientos, los inventarios de las posibles contingencias que pudieran ocurrir, así como de las áreas o actividades riesgosas y peligrosas;
+IV.- Coordinar las acciones de las instancias que integran el Sistema Estatal de Protección Civil, en caso de instrumentarse cualquiera de las acciones previstas en la ley, asumiendo el control de las operaciones de emergencia y ubicando bajo su mando a las autoridades y corporaciones de cualquier nivel, incluyendo a las autoridades municipales bajo el principio de solidaridad y fidelidad municipal.
+
+En ese último caso, el Director Estatal de Protección Civil deberá respetar invariablemente lo que establece el artículo 12, fracción II, de esta ley, cuando el ayuntamiento se declare capacitado para asumir el control de la emergencia, sin perjuicio de que el Estado preste el apoyo necesario;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+V.- Identificar y levantar, con el auxilio de los ayuntamientos, los inventarios de las posibles contingencias que pudieran ocurrir, así como de las áreas o actividades riesgosas y peligrosas;
 
 VI.- Evaluar permanentemente los sistemas de emergencia en las zonas y localidades en que se establezcan, así como proveer las medidas necesarias para su más eficaz operación;
 
@@ -183,7 +217,9 @@ XI.- Coordinar las acciones encaminadas a aplicar las medidas correctivas proced
 
 XII.- Verificar en coordinación con las instancias competentes que el personal que preste servicios relacionados con las áreas o instalaciones identificadas como riesgosas, cuente con la debida capacitación;
 
-XIII.- Requerir de las industrias, empresas o establecimientos la elaboración y presentación de programas específicos para la prevención de accidentes internos y externos;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+XIII.- Requerir, en el ámbito de su competencia, a las industrias, empresas o establecimientos la elaboración y presentación de programas específicos para la prevención de accidentes internos y externos;
 
 XIV.- Coadyuvar con las autoridades competentes en la investigación y determinación de responsabilidades derivadas de riesgos o siniestros que implique daños actuales o potenciales a la población;
 
@@ -205,19 +241,27 @@ XXII.- Expedir los certificados de autorización para el funcionamiento de los g
 
 XXIII.- Las demás que establezcan la presente ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 12.
 
-Son atribuciones de los Presidentes Municipales, en materia de protección civil:
+Son atribuciones de los ayuntamientos por conducto de sus Presidentes Municipales, en materia de protección civil:
 
 I.- Establecer las medidas necesarias para la debida observancia y cumplimiento de las disposiciones en materia de protección civil;
 
 II.- Dirigir las acciones que se requieran para enfrentar, en primera instancia, las calamidades, desastres y catástrofes públicas que se presenten en la jurisdicción municipal que corresponda;
 
-III.- Celebrar con el Gobierno del Estado, otros Ayuntamientos y con organismos e instituciones de los sectores público, social y privado los convenios que sean necesarios para la mejor aplicación de las medidas en materia de protección civil;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
-IV.- Coordinar con las autoridades competentes la práctica de visitas de verificación a las áreas, instalaciones o procedimientos que impliquen un riesgo para la población civil, a través del personal debidamente autorizado y acreditado;
+III.- Celebrar, en los términos de las disposiciones aplicables, con el Gobierno del Estado, otros ayuntamientos de la entidad o, en su caso, con ayuntamientos de otras entidades de la República, así como con organismos e instituciones de los sectores público, social y privado, los convenios que sean necesarios para la mejor aplicación de las medidas en materia de protección civil;
 
-V.- Coordinar con las autoridades competentes el adecuado establecimiento de las medidas de prevención y protección necesarias y supervisar el cumplimiento de esta ley y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+IV.- Coordinar con las autoridades competentes la práctica de visitas de verificación a las áreas, instalaciones o procedimientos que impliquen un riesgo para la población civil, a través del personal directamente autorizado y acreditado y, en su caso, aplicar las sanciones que correspondan por infracciones a las disposiciones de esta ley y demás aplicables;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+V.- Coordinar sus acciones con las que desarrollen las autoridades competentes, en el marco del Municipalismo Cooperativo e Interdependiente, para el adecuado establecimiento de las medidas de prevención y protección necesarias, así como supervisar el cumplimiento de esta ley y demás disposiciones aplicables;
 
 VI.- Evaluar las (sic) situación de desastre y la capacidad de respuesta del municipio, y en su caso, solicitar el apoyo de las autoridades competentes para la atención del desastre;
 
@@ -317,9 +361,11 @@ Cuando las personas físicas o morales a que se refiere este capítulo hayan pre
 
 ### CAPITULO CUARTO. DE LA SUPERVISION Y VERIFICACION
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 20.
 
-La supervisión y verificación del debido cumplimiento de las disposiciones previstas en esta ley y demás ordenamientos aplicables, cuando así se requiera, se llevarán a cabo de manera coordinada entre las autoridades estatales y municipales que correspondan, así como, previa solicitud de la Dirección, con las autoridades federales respectivas.
+La supervisión y verificación del debido cumplimiento de las disposiciones previstas en esta ley y demás ordenamientos aplicables, cuando así se requiera se llevarán a cabo, en el ámbito de sus respectivas competencias, por las autoridades estatales y municipales que correspondan, así como, en su caso, previa solicitud de la Dirección, en coordinación con las autoridades federales respectivas.
 
 ###### ARTICULO 21.
 
@@ -397,13 +443,17 @@ VII.- Las demás que determinen esta ley y otras disposiciones aplicables.
 
 ### CAPITULO SEXTO. DEL SISTEMA ESTATAL DE PROTECCION CIVIL
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ### CAPITULO SEPTIMO. DEL CONSEJO ESTATAL DE PROTECCION CIVIL
 
-### CAPITULO OCTAVO. DE LOS CONSEJOS MUNICIPALES DE PROTECCION CIVIL
+### CAPITULO OCTAVO. DE LAS UNIDADES MUNICIPALES Y DE LOS CONSEJOS MUNICIPALES DE PROTECCION CIVIL
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 32.
 
-Se establece el Sistema Estatal de Protección Civil en el Estado de Coahuila, como mecanismo de vinculación de las diversas instancias y órganos encaminadas al aseguramiento de la aplicación de las medidas y acciones en materia de protección civil en la entidad.
+Se establece el Sistema Estatal de Protección Civil en el Estado de Coahuila, como mecanismo de vinculación y coordinación de las diversas instancias gubernamentales y de los órganos correspondientes, encaminadas al aseguramiento de la aplicación de las medidas y acciones en materia de protección civil en la entidad.
 
 ###### ARTICULO 33.
 
@@ -413,7 +463,9 @@ I.- El Consejo Estatal de Protección Civil;
 
 II.- La Dirección Estatal de Protección Civil;
 
-III.- Los Consejos Municipales de Protección Civil; y
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
+
+III.- Las Unidades Municipales de Protección Civil y los Consejos Municipales de Protección Civil;
 
 IV.- Los Grupos Voluntarios, integrados por representantes de los sectores público, social y privado.
 
@@ -553,63 +605,71 @@ El Consejo sesionará ordinariamente cuando menos cada cuatro meses, pero celebr
 
 Los acuerdos y resoluciones del Consejo se tomarán por consenso, en caso contrario, se tomarán por votación, teniendo voto de calidad el Presidente, en caso de empate.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE MARZO DE 2001)</small>
+
 ### CAPITULO DECIMO. DE LA ACCION POPULAR
 
 ###### ARTICULO 44.
 
-En cada uno de los municipios de la entidad se establecerán Consejos de Protección Civil con el propósito de determinar y aplicar los mecanismos necesarios para enfrentar, en primera instancia, los desastres, calamidades y catástrofes públicas que se presenten en su jurisdicción, así como para organizar los planes y programas de prevención, auxilio y apoyo a la población ante situaciones de emergencia.
+Cada uno de los municipios de la entidad establecerá, dentro de su estructura, una Unidad Municipal de Protección Civil que será competente para determinar y aplicar los mecanismos necesarios para enfrentar, en primera instancia, los desastres, calamidades y catástrofes públicas que se presenten en su jurisdicción, así como para organizar los planes y programas de prevención, auxilio y apoyo a la población ante situaciones de emergencia.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 45.
 
-Los Consejos Municipales de Protección Civil estarán integrados por:
+Los Ayuntamientos, en el ámbito de su competencia, constituirán e integrarán Consejos Municipales de Protección Civil de conformidad con el Código Municipal, como órganos de apoyo y asesoría que tendrán por objeto coadyuvar con las autoridades federales, estatales y municipales en la elaboración, formulación y, en su caso, implementación de programas y acciones tendientes a la prevención, auxilio y apoyo a la población en casos de catástrofes, calamidades o desastres públicos.
 
-I.- Un Presidente, que será el Presidente Municipal;
+La integración, funcionamiento y facultades específicas de los Consejos Municipales de Protección Civil, se establecerán y determinarán en los reglamentos o acuerdos municipales que los creen, de conformidad con las bases generales que establece el Código Municipal.
 
-II.- Un Secretario Ejecutivo, que será designado por el Presidente del Consejo;
-
-III.- Un Secretario Técnico, que será designado por el Secretario Ejecutivo del Consejo;
-
-IV.- Vocales que integrarán el Consejo previa invitación y aceptación correspondiente, en su caso por:
-
-a).- Un representante del Ayuntamiento que será un Regidor;
-
-b).- Los titulares de las Dependencias y Organismos de la Administración Pública Municipal, que por el ramo que atiendan les corresponda participar en los programas de prevención, auxilio y apoyo ante alguna posible calamidad, desastre o catástrofe pública;
-
-c).- Los representantes de las cámaras, organismos empresariales, organizaciones, asociaciones, coaliciones, sindicatos, clubes de servicio, asociaciones o sociedades de beneficencia, de asistencia pública o privada y demás agrupaciones que a juicio del Presidente del Consejo deban integrarse al mismo; y
-
-d).- Los representantes de las instituciones de educación superior asentadas en el Municipio.
-
-Los Consejos Municipales podrán invitar a las personas físicas o morales interesadas en aportar su participación en las tareas que les competen.
-
-Cada uno de los miembros propietarios nombrará a un suplente, quien deberá asistir a las sesiones cuando por causa plenamente justificada el titular esté impedido para ello.
-
-Los cargos del Consejo serán honoríficos, por lo que sus miembros no percibirán remuneración alguna.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 46.
 
-Los Consejos Municipales tendrán, en el ámbito de su competencia, las siguientes atribuciones y obligaciones:
+Las Unidades Municipales de Protección Civil tendrán, en el ámbito de su competencia, las siguientes atribuciones y obligaciones:
 
-I.- Auxiliar a las autoridades competentes en la conducción de las políticas en materia de protección civil;
+I. Adoptar las medidas necesarias para enfrentar calamidades, catástrofes y/o desastres públicos, así como auxiliar a las autoridades competentes en la conducción de las políticas en materia de protección civil;
 
-II.- Apoyar a las autoridades en materia de protección civil en la prevención y control de emergencias y contingencias provocadas por distintos tipos de agentes;
+II. Llevar a cabo las acciones necesarias para prevenir y controlar emergencias y contingencias provocadas por distintos tipos de agentes;
 
-III.- Sugerir a las instancias correspondientes las medidas que permitan la capacidad de respuesta inmediata ante situaciones de emergencia que se presenten en el municipio;
+III. Diseñar e implementar las medidas que permitan la capacidad de respuesta inmediata ante situaciones de emergencia que se presenten en el municipio;
 
-IV.- Promover la participación social en actividades relacionadas con la materia de protección civil;
+IV. Promover la participación social en la realización de actividades relacionadas con la materia de protección civil;
 
-V.- Apoyar a las autoridades respectivas en la realización de estudios de investigación relativas a la protección civil;
+V. Realizar estudios de investigación relativos a la protección civil;
 
-VI.- Hacer las recomendaciones pertinentes a las instancias que correspondan a fin de que se utilicen adecuadamente los recursos destinados a enfrentar situaciones de desastre;
+VI. Utilizar de manera eficiente, eficaz y transparente los recursos destinados a enfrentar situaciones de desastre;
 
-VII.- Coadyuvar en las campañas educativas para prevenir y controlar situaciones de emergencia, a través de los medios de promoción y divulgación que para tal efecto se consideren convenientes; y
+VII. Realizar y Coadyuvar en campañas educativas para prevenir y controlar situaciones de emergencia, a través de los medios de promoción y divulgación que para tal efecto se consideren convenientes;
 
-VIII.- Las demás que les señalen esta ley y otras disposiciones aplicables.
+VIII. Identificar las áreas de riesgos y de peligro en el municipio;
+
+IX. Vigilar y supervisar, en el ámbito de su competencia, que las instalaciones y actividades que impliquen un riesgo potencial para la población cumplan con las medidas de prevención y de protección civil;
+
+X. Coordinar el desarrollo de sus funciones con las que desarrollen las autoridades federales y/o estatales competentes en la materia; así como con grupos de voluntarios para prevenir y controlar situaciones de emergencia;
+
+XI. Diseñar e implementar planes y programas para la protección de las personas, instalaciones y bienes de interés general, así como garantizar el normal funcionamiento en la prestación de los servicios esenciales a la comunidad;
+
+XII. Requerir, en el ámbito de su competencia, a las industrias, empresas o establecimientos comerciales la elaboración y presentación de programas específicos para la prevención de accidentes internos y externos;
+
+XIII. Realizar, en la esfera de su competencia, visitas de verificación a los establecimientos, lugares o áreas clasificadas como potencialmente de riesgo;
+
+XIV. Elaborar el Atlas de Riesgos y Desastres de sus respectivos municipios;
+
+XV. Tramitar la expedición de los certificados de autorización para el funcionamiento de grupos voluntarios;
+
+XVI. Aplicar, en el ámbito de su competencia, las sanciones que, por infracciones a esta ley y demás disposiciones aplicables, correspondan; y
+
+XVII. Las demás que les señalen esta ley u otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 47.
 
-Los Consejos Municipales de Protección Civil aplicarán las disposiciones de esta Ley e instrumentarán sus planes y programas de manera coordinada con el Sistema Estatal de Protección Civil.
+Los Consejos Municipales de Protección Civil, en el ámbito de su competencia formularán planes y programas de manera coordinada con el Sistema Estatal de Protección Civil.
 
 ### CAPITULO DECIMO PRIMERO. DE LAS INFRACCIONES Y SANCIONES
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### ARTICULO 48.
 
@@ -665,7 +725,7 @@ Cuando los hechos que motiven una denuncia hubieren ocasionado daños y perjuici
 
 ###### ARTICULO 56.
 
-Corresponde al Director Estatal de Protección Civil y a los Ayuntamientos municipales, en el ámbito de su competencia, investigar, declarar y sancionar las infracciones que se cometan en contravención a las disposiciones de la presente ley, evitando en todo momento la duplicidad de infracciones.
+Corresponde al Director Estatal de Protección Civil y a los Ayuntamientos, a través de las Unidades Municipales de Protección Civil, en el ámbito de sus respectivas competencias, investigar, declarar y sancionar las infracciones que se cometan en contravención a las disposiciones de la presente ley y demás aplicables, evitando en todo momento la duplicidad de infracciones.
 
 ###### ARTICULO 57.
 
@@ -815,9 +875,11 @@ La resolución deberá notificarse personalmente al recurrente.
 
 Los recursos presentados extemporáneamente o los que fueren notoriamente improcedentes, se desecharán de plano.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+
 ###### ARTICULO 75.
 
-Contra las resoluciones que resuelvan la revisión interpuesta, no procederá recurso alguno.
+Contra las resoluciones que resuelvan la revisión interpuesta, los interesados podrán acudir ante los órganos competentes en materia de justicia administrativa, para interponer los recursos que procedan conforme a las disposiciones aplicables.
 
 ## TRANSITORIOS
 
@@ -852,3 +914,29 @@ ROGELIO MONTEMAYOR SEGUY
 EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIEN
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 20 DE MARZO DE 2001.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos dentro del plazo de un año contado a partir de la entrada en vigor de este decreto, deberán instalar las Unidades Municipales de Protección Civil, según sus necesidades, condiciones y particularidades socioeconómicas.
+
+Estas unidades formarán parte de la administración pública municipal, según el acuerdo que emita el Ayuntamiento.
+
+En aquellos municipios que no cuenten con estas unidades, el Ejecutivo del Estado a través de la instancia correspondiente podrá coadyuvar, colaborar o sustituir la función de las mismas hasta en tanto el municipio pueda asumir plenamente esta función.
+
+###### ARTÍCULO QUINTO.
+
+Dentro del plazo de un año contado a partir de la entrada en vigor de este decreto, los ayuntamientos deberán adecuar su reglamentación, acuerdos, circulares y demás disposiciones generales.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones en contrario.
