@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-26735
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-13"
-last_updated: "2003-12-26"
+last_updated: "2004-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERETARO ARTEAGA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 13 de noviembre de 2002.
 
@@ -1045,6 +1045,10 @@ b. Por autorización para anuncios y promociones publicitarias que se fijen grá
 
 c. Por verificación para el otorgamiento de autorizaciones de concesiones y licencias.
 
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2004)</small>
+
+d. Por los servicios que presta la autoridad municipal en materia de Catastro dentro de su circunscripción territorial.
+
 ###### Artículo 117.
 
 El arrendamiento de fincas y terrenos, así como la explotación de capitales de los Municipios del Estado, se hará previa autorización del Ayuntamiento, en cuyo acuerdo debe constar la opinión del Presidente Municipal, de los Regidores de Hacienda y el encargado de las finanzas del Municipio, extendiéndose contratos por escrito.
@@ -1397,7 +1401,7 @@ Las aportaciones las constituyen los ingresos que obtengan los Municipios confor
 
 ###### Artículo 156.
 
-Son ingresos extraordinarios aquellos que la Hacienda Pública de cualquier Municipio perciba, cuando cualquier circunstancia coloque al propio Municipio frente a necesidades imprevistas que lo obliguen a efecturar erogaciones extraordinarias.
+Son ingresos extraordinarios aquellos que la Hacienda Pública de cualquier Municipio perciba, cuando cualquier circunstancia coloque al propio Municipio frente a necesidades imprevistas que lo obliguen a efectuar erogaciones extraordinarias.
 
 Los ingresos extraordinarios, podrán ser lo siguientes:
 
@@ -1490,5 +1494,11 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan a la prese
 P.O. 26 DE DICIEMBRE DE 2003.
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación, en el periódico oficial de Gobierno del Estado "La Sombra de Arteaga"
+
+Artículo Segundo. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+P.O. 29 DE OCTUBRE DE 2004.
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga"
 
 Artículo Segundo. Se derogan todas las disposiciones legales que se opongan a la presente Ley.
