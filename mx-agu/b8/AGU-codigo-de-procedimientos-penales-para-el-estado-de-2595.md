@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-penales-para-el-estado-de-2595"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-04-12"
-last_updated: "1994-08-07"
+last_updated: "1995-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1995.
 
 Código publicado en el Suplemento al Número 15, del Periódico Oficial del Estado de Aguascalientes, el 12 de abril de 1992.
 
@@ -1253,9 +1253,9 @@ A continuación, se le hará saber en qué consiste la denuncia, acusación o qu
 
 Igualmente se le harán saber todas las siguientes garantías que le otorga el Artículo 20 de la Constitución Política de los Estados Unidos Mexicanos: que se le recibirán todos los testigos y las pruebas que ofrezca, en los términos legales, ayudándole para obtener la comparecencia de las personas que solicite, siempre y cuando estén domiciliadas en el lugar del juicio. así como que será sentenciado antes de cuatro meses, si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, o antes de un año si la pena máxima excediere de ese tiempo; y que le serán facilitados todos los datos que solicite para su defensa y que consten en el proceso.
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O 2 DE ABRIL DE 1995)</small>
 
-Acto seguido, el juez le interrogará sobre su participación en los hechos imputados.
+Acto seguido, el Juez le interrogará sobre su participación en los hechos imputados, si en este momento, sea cual sea la gravedad del delito, de inmediato el Juez cerrará la audiencia y citará a las partes para resolución de formal prisión o de libertad por falta de elementos en el término constitucional; si se dictare auto de formal prisión y no es recurrido, sin más trámite de pruebas se pondrán los autos a la vista de las partes para conclusiones, formuladas las cuales y después de la vista se dictará la sentencia correspondiente, en lo cual valorará la espontaneidad de la confesión como un elemento en beneficio del procesado. Si el sujeto activo niega los hechos imputados, el Juez le interrogará sobre su participación en los mismos, y practicará careos entre el inculpado y los testigos que hayan declarado en su contra y estuvieren en el lugar del juicio, para que aquél y su defensor, puedan hacerles todas las preguntas conducentes a sus defensas, mismo derecho que también le corresponde al Ministerio Público.
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1994)</small>
 
@@ -1827,13 +1827,11 @@ Los peritos practicarán todas las operaciones y experimentos que su ciencia o a
 
 Los peritos emitirán su dictamen por escrito y lo ratificarán en diligencia especial. Los peritos oficiales no necesitarán ratificar dictámenes sino cuando el funcionario que practique las diligencias lo estime necesario.
 
+> <small>(REFORMADO, P.O 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 254.
 
-Cuando las opiniones de los peritos discordaren, el servidor público que practique las diligencias los citará a una junta en la cual se discutirán los puntos de diferencia, haciéndose constar en el acta el resultado de la discusión. Si los peritos no se pusieren de acuerdo, se nombrará un perito tercero en discordia.
-
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 1994)</small>
-
-Las partes estarán facultadas para preguntar a los peritos en las diligencias correspondientes, respecto de las opiniones vertidas por aquéllos en sus dictámenes.
+Cuando las opiniones de los peritos discreparen, el servidor público que practique las diligencias nombrará un perito tercero en discordia.
 
 ###### ARTICULO 255.
 
@@ -2347,13 +2345,19 @@ Las apelaciones interpuestas contra resoluciones anteriores a la sentencia de pr
 
 Tiene derecho de apelar el Ministerio Público, el inculpado y su defensor, así como el ofendido o sus legítimos representantes, cuando hayan sido reconocidos por el juez de primera instancia como coadyuvantes del Ministerio Público, para efectos de la reparación de daños y perjuicios. En este caso, la apelación se contraerá a lo relativo a la reparación de daños y perjuicios y a las medidas precautorias conducentes a asegurarlo.
 
+> <small>(REFORMADO, P.O 2 DE ABRIL DE 1995)</small>
+
 ###### ARTICULO 342.
 
-Son apelables en ambos efectos solamente las sentencias definitivas en que se imponga alguna sanción.
+Son apelables en el efecto suspensivo solamente las sentencias definitivas en las que se impongan alguna pena o medida de seguridad.
+
+Tratándose de procedimientos relativos a delitos no considerados como graves por el Código Penal vigente en el Estado, será necesario que la valorización de los daños y perjuicios ocasionados sea mayor de ochocientos días de salario mínimo vigente en el Estado. Lo dispuesto en este párrafo también será aplicable en los casos de procedencia de la apelación en el efecto devolutivo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O 2 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 343.
 
-Son apelables en el efecto devolutivo:
+Son apelables en el efecto devolutivo observando lo dispuesto en el artículo inmediato anterior:
 
 I.- Las sentencias definitivas que absuelvan al acusado, excepto las que se pronuncien en relación con delitos punibles con no más de seis meses de prisión o con pena no privativa de libertad, en los términos del primer párrafo del Artículo 167;
 
@@ -3614,3 +3618,49 @@ Se deroga el Artículo 21 de la Ley Reglamentaria del Artículo 4o. de la Consti
 ###### ARTICULO NOVENO.
 
 Se derogan los Artículos 83, 84, 85, 86, 87, y 88 de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Aguascalientes.
+
+P.O. 2 DE ABRIL DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, misma que deberá ser posterior a la publicación del Decreto de reformas a la Constitución Política Local, en Materia Judicial, expedido el 8 de marzo de 1995, por el H. Congreso del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Todos los Agentes del Ministerio Público del Estado, a excepción del Procurador General de Justicia, serán sometidos a un examen de conocimientos generales en el ramo, mismo que será aplicado por éste, quien podrá auxiliarse de la Comisión para la Reforma del Poder Judicial del Estado en caso de así requerirlo. Quienes no se presenten al examen aquí referido, o en su caso quienes no lo aprueben, serán tratados de conformidad con la ley respectiva.
+
+###### ARTICULO TERCERO.
+
+Los Defensores de Oficio dependientes del (sic) Procuraduría de Protección Ciudadana del Estado, que se encuentren laborando como tales en la actualidad, serán sometidos a un examen de conocimientos generales en el ramo, mismo que será aplicado por el Procurador de Protección Ciudadana, quien podrá auxiliarse de la Comisión para la Reforma del Poder Judicial del Estado en caso de así requerirlo. Quienes no se presenten a dicho examen o en su caso no lo aprueben, serán tratados de conformidad con la ley respectiva.
+
+###### ARTICULO CUARTO.
+
+La Contraloría General del Estado conocerá del recurso de revisión consignado en el Artículo 42 de la Ley Orgánica del Poder Ejecutivo del Estado, de manera temporal, hasta en tanto se constituya el Tribunal de lo Contencioso Administrativo del Estado, que asumirá esta responsabilidad.
+
+###### ARTICULO QUINTO.
+
+Los asuntos que actualmente se están ventilando ante los Tribunales del Estado conforme al Código de Procedimientos Civiles vigente antes de esta reforma aunque sea aplicado de manera supletoria, se seguirán ventilando conforme al mismo, pero si las partes de común acuerdo así lo manifiestan a la autoridad competente, podrán acogerse a las reformas del presente Decreto.
+
+###### ARTICULO SEXTO.
+
+Los asuntos que actualmente se estén ventilando ante los Tribunales del Estado conforme al Código de Procedimientos Penales vigente antes de esta reforma aunque sea aplicado de manera supletoria, se seguirán ventilando conforme al mismo, pero si las partes de común acuerdo así lo manifiestan a la autoridad competente, podrán acogerse a las reformas del presente Decreto.
+
+###### ARTICULO SEPTIMO.
+
+Los Partidos Judiciales del Estado previstos en el Artículo 35 de la Ley Orgánica del Poder Judicial del Estado, entrarán en funciones cuando el presupuesto del propio Poder lo permita y las necesidades lo requieran.
+
+###### ARTICULO OCTAVO.
+
+Para los efectos del Artículo 94 de la Ley Orgánica del Poder Judicial del Estado, por única vez, todos los jueces nombrados de acuerdo al procedimiento que establece la Constitución, podrán ser designados como miembros del Consejo de la Judicatura, sin necesidad de contar con tres años en el ejercicio de su encargo.
+
+###### ARTICULO NOVENO.
+
+Una vez instalada la Contraloría Interna, contará con un término de 30 días para elaborar su Reglamento.
+
+###### ARTICULO DECIMO.
+
+Los trabajadores al servicio de los Gobiernos del Estado, los Municipios, y Organismos Descentralizados, que actualmente laboran la jornada establecida en el Estatuto Jurídico anterior a la presente reforma, podrán optar entre seguir laborando en dicha jornada que tienen, o bien, adherirse a la jornada que se establece en el Artículo 36 de este Ordenamiento.
+
+###### ARTICULO DECIMO PRIMERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
