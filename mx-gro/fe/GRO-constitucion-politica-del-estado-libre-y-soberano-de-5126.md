@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1984-01-31"
+last_updated: "1985-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-> <small>N. DE E. EL HONORABLE QUINGUAGESIMO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, APROBO EN SU DECRETO NUMERO 672 REFORMAS Y ADICIONES A LA CONSTITUCION POLITICA VIGENTE DEL ESTADO, MODIFICANDO DE MANERA SUSTANCIAL EL TEXTO QUE A LA FECHA TENIA DICHO ORDENAMIENTO, PRESENTANDOSE POR TAL MOTIVO EL TEXTO APROBADO Y PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO EL 31 DE ENERO DE 1984.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 1985.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -983,7 +981,7 @@ Llegado el caso de la desaparición de los poderes del Estado se observará el p
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
+### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1005,7 +1003,9 @@ VI.- Vetar por una sola vez en el término improrrogable de diez días hábiles,
 
 VII.- Presentar al Congreso a más tardar el día quince de diciembre de cada año para su discusión y aprobación en su caso, los proyectos de Ley de Ingresos y del Presupuesto de egresos para el ejercicio fiscal siguiente.
 
-VIII.- Rendir el día primero de abril de cada año ante el Congreso, el informe de labores de la Administración Pública a su cargo, con excepción del último año del periodo constitucional que lo rendirá el veintiocho de febrero del año respectivo.
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 1985)</small>
+
+VIII.- Rendir dentro de los cinco primeros días del mes de abril de cada año ante el Congreso, el informe de labores de la Administración Pública a su cargo, con excepción del último año del período constitucional que lo rendirá el veintiocho de febrero del año respectivo.
 
 IX.- Nombrar y remover libremente a los funcionarios y a los empleados del Poder Ejecutivo, cuyo nombramiento o causa de remoción no estén determinados en otra forma por esta Constitución o por las Leyes correspondientes.
 
@@ -1077,7 +1077,7 @@ XXXVIII.- Las demás que se deriven de las Constituciones Federal y Local, así 
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO VI. DE LOS ORGANOS DEL PODER EJECUTIVO Y SUS TITULARES
+### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1093,9 +1093,9 @@ Las Leyes, decretos, reglamentos y demás disposiciones de carácter general que
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
+### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 ###### ARTICULO 77.
 
@@ -1187,9 +1187,9 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LAS ATRIBUCIONES DEL TRIBUNAL SUPERIOR DE JUSTICIA
+### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
 
-(REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 89.
 
@@ -1273,7 +1273,7 @@ VII.- Planear y regular de manera conjunta y coordinada con la Federación, el E
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO II. DE LA ELECCION E INTEGRACION DE LOS AYUNTAMIENTOS
+### CAPITULO V. DE LAS ATRIBUCIONES DEL GOBERNADOR
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1341,7 +1341,7 @@ No pueden ser electos como integrantes de los Ayuntamientos, los miembros en ser
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
+### CAPITULO II (SIC). DEL MINISTERIO PUBLICO
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1527,6 +1527,8 @@ La responsabilidad por delitos cometidos durante el tiempo del encargo por cualq
 
 La Ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta a (sic) naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del artículo 111. Cuando dichos actos u omisiones fuesen graves, los plazos de prescripción no serán inferiores a tres años.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+
 ###### ARTICULO 117.
 
 La Administración Pública del Estado se compone de la Administración Pública centralizada y la paraestatal.
@@ -1585,13 +1587,13 @@ Los Funcionarios Públicos o empleados, sean del Estado o de los Municipios, no 
 
 Los particulares podrán exigir el cumplimiento de las responsabilidades de la Administración Pública a través de sus Funcionarios Públicos y empleados conforme lo determinan esta Constitución y las Leyes correspondientes.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
-
 ## TITULO DECIMO QUINTO. DE LA REFORMA E INVIOLABILIDAD DE LA CONSTITUCION
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO UNICO. (REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 125.
 
@@ -1615,7 +1617,7 @@ Si el Congreso insistiere en sostener sus reformas o adiciones, éstas no volver
 
 Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ningún motivo. Sus disposiciones son permanentes y sólo puede ser reformada o adicionada siguiendo los procedimientos y respetando los principios que la misma establece.
 
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
 ### CAPITULO II. DE LA DIVISION TERRITORIAL DEL ESTADO
 
@@ -1633,7 +1635,7 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE LA INTEGRACION Y FUNCIONAMIENTO DEL PODER JUDICIAL
+### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1657,7 +1659,7 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO I. DE SU ESTRUCTURA JURIDICA Y POLITICA
+### CAPITULO III. DE LA ADMINISTRACION DE LOS AYUNTAMIENTOS
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1675,11 +1677,9 @@ Esta Constitución no perderá su fuerza ni su vigor en ningún caso ni por ning
 
 ## TITULO DECIMO TERCERO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DEL ESTADO
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1984)</small>
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1984)</small>
+### CAPITULO UNICO. (REFORMADO, P.O. 31 DE ENERO DE 1984)(F. DE E., P.O. 3 DE FEBRERO DE 1984)
 
 ## TITULO DECIMO CUARTO. DE LA ADMINISTRACION PUBLICA
 
@@ -2174,3 +2174,13 @@ P.O. 31 DE ENERO DE 1984.
 ###### ARTICULO UNICO.
 
 Por haberse recibido la aprobación de los HH. Ayuntamientos del Estado, de acuerdo con lo ordenado por el artículo 125 fracción III de la Constitución Política Local, las reformas y adiciones surtirán sus efectos a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MARZO DE 1985.
+
+###### ARTICULO PRIMERO.
+
+Procédase en los términos del Artículo 125 Fracción III de la Constitución Política Local.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Gobierno del Estado.
