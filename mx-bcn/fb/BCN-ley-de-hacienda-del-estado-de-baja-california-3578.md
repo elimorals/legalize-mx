@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2004-01-02"
+last_updated: "2004-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2004.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -221,21 +221,29 @@ En este último caso, la exigibilidad o cumplimiento de las obligaciones fiscale
 
 ### CAPITULO III. Impuestos Sobre Actividades Mercantiles e Industriales
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 42.
 
-Son objeto del Impuesto sobre Actividades Mercantiles e Industriales, los ingresos provenientes de actos o actividades que no paguen el Impuesto al Valor Agregado, así como los que se deriven de la enajenación de construcciones a que se refiere el Artículo 42 de la Ley del Impuesto Federal mencionado, siempre y cuando éstos sean obtenidos por establecimientos, negociaciones o giros comerciales por los siguientes conceptos:
+Son objeto del Impuesto sobre Actividades Mercantiles e Industriales, los ingresos provenientes de actos o actividades que no paguen el Impuesto al Valor Agregado, siempre y cuando éstos sean obtenidos por establecimientos, negociaciones o giros comerciales e industriales, por los conceptos siguientes:
 
-I.- Enajenación de bienes, promesa de venta y opción de venta;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
+
+I.- Enajenación, promesa de venta y opción de venta de bienes muebles;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 II.- Arrendamiento de bienes muebles;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1981)</small>
+
 III.- Prestación de servicios;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 IV.- Comisiones y mediaciones mercantiles;
 
-V.- Intereses provenientes de cualquier operación mercantil.
+V.- (DEROGADA, P.O. 2 DE ABRIL DE 2004)
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 1992)</small>
 
@@ -1327,9 +1335,9 @@ III.- Adoptar las medidas de control que para el correcto pago del impuesto esta
 
 a).- Enajenación de bienes o prestación de servicios, cuando unos u otros se exporten, en los términos del Artículo 29 de la Ley del Impuesto al Valor Agregado, excepto los expresamente señalados en esta Ley.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
 
-b).- Operaciones de maquila para exportación en los términos de la Legislación Aduanera de los Estados Unidos Mexicanos.
+b) Operaciones de maquila para exportación en los términos de la Legislación Aduanera de los Estados Unidos Mexicanos, incluyendo aquéllas operaciones de maquila que se lleven a cabo bajo un programa distinto al de maquila para exportación, autorizado por la autoridad competente.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1998)</small>
 
@@ -1343,23 +1351,29 @@ Cuando los pagos por remuneraciones al trabajo personal prestado bajo la direcci
 
 Para los efectos de este Artículo se aplicarán supletoriamente en lo conducente las normas de la Ley del Impuesto al Valor Agregado, vigente a nivel federal.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 151
 
-14.- La base del impuesto es el monto total de los pagos que se efectúen bajo las condiciones establecidas en el Artículo anterior, en base a los siguientes términos:
+14.- La base del impuesto es el monto total de los pagos que se efectúen bajo las condiciones establecidas en el Artículo anterior, aún cuando dichos pagos no excedan del salario mínimo, en base a los términos siguientes:
+
+> <small>(REFORMADA P.O. 20 DE FEBRERO DE 1998)</small>
 
 I.- Para los contribuyentes personas físicas o contribuyentes personas morales que en el ejercicio inmediato anterior les hayan prestado servicios subordinados hasta veinticinco trabajadores como promedio mensual, comprenderá el monto total de los pagos efectuados trimestralmente. La misma periodicidad aplicará para el primer ejercicio de operaciones independientemente del número de trabajadores que tengan a su servicio.
 
+> <small>(REFORMADA P.O. 20 DE FEBRERO DE 1998)</small>
+
 II.- Para los demás contribuyentes, comprenderá el monto total de los pagos efectuados mensualmente.
 
-Aún cuando en ambos casos dichos pagos no excedan del salario mínimo o bien, el monto total de las percepciones que obtenga el trabajador, si quien efectúa los pagos efectuados está domiciliado fuera del Estado, y no tiene dentro de éste, sucursal, agencia o representación.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+Si quien efectúa los pagos está domiciliado fuera del Estado, y no tiene dentro de éste, sucursal, agencia o representación, la base del impuesto será el monto total de las percepciones que obtenga el trabajador.
+
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 151
 
-15.- Son sujetos del impuesto quienes se encuentran domiciliados en el Estado, o tengan en éste agencias, sucursales o representación y realicen los pagos por remuneración al trabajo personal prestado bajo la dirección y dependencia de un tercero. Serán responsables solidarios quienes perciban dichos pagos, cuando quien los realiza resida fuera del Estado, sin tener en él agencia sucursal o representación.
+15.- Son sujetos del impuesto las personas físicas y morales que se encuentran domiciliadas en el Estado, o tengan en éste agencias, sucursales o representación y realicen los pagos por remuneración al trabajo personal prestado bajo la dirección y dependencia de un tercero. Así como las personas que no se encuentren domiciliados en el Estado, ni tengan en éste agencias, sucursales o representación y realicen pagos por remuneraciones al trabajo a personas que presten sus servicios de carácter personal en el Estado.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1998)</small>
 
@@ -1377,11 +1391,11 @@ b).- Fomentar la Participación Social en la Educación; y
 
 c).- Fortalecer las Comisiones y Consejos de Desarrollo Económico.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 151
 
-17.- Están obligados a enterar el Impuesto quienes perciban remuneraciones en los términos del Artículo 151-15, cuando quien los pague resida fuera del Estado, sin tener en el mismo agencia, sucursal o representación.
+17.- Son responsables solidarios de este impuesto, las personas físicas que resten sus servicios en el Estado y reciben remuneraciones de carácter personal de los sujetos que no se encuentren domiciliados en el mismo, ni tengan en éste agencias sucursales o representación; y tendrán como obligaciones a su cargo, además de las expresadas en esta Ley y en las demás disposiciones fiscales, las de recaudar y enterar el impuesto en los términos de estos ordenamientos.
 
 > <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1993)</small>
 
@@ -1389,9 +1403,13 @@ c).- Fortalecer las Comisiones y Consejos de Desarrollo Económico.
 
 18.- Para efectos de este impuesto, se consideran erogaciones destinadas a remunerar el trabajo personal subordinado, los salarios y demás cantidades que se entreguen al trabajador como contraprestación por su trabajo.
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2004)</small>
 
-No quedan comprendidas dentro de las remuneraciones objeto del impuesto, las prestaciones de previsión social como los vales de despensa entre otras, las participaciones de los trabajadores en las utilidades de las empresas, ni las indemnizaciones por terminación de la relación laboral.
+No quedan comprendidas dentro de las remuneraciones objeto del impuesto, las prestaciones de previsión social, las participaciones de los trabajadores en las utilidades de las empresas, ni las indemnizaciones por terminación de la relación laboral.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2004)</small>
+
+Para los efectos de este impuesto, se considera previsión social, las erogaciones efectuadas por los patrones de manera general a favor de sus trabajadores que tengan por objeto satisfacer contingencias o necesidades presentes o futuras, así como el otorgar beneficios a favor de dichos trabajadores, tendientes a su superación física, social, económica o cultural, que les permitan el mejoramiento en su calidad de vida y en la de su familia.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
@@ -1399,17 +1417,21 @@ No quedan comprendidas dentro de las remuneraciones objeto del impuesto, las pre
 
 19.- Este Impuesto se enterará en efectivo mediante declaración que presentarán los contribuyentes o responsables solidarios según sea el caso, a más tardar los días veinticinco, del mes siguiente al período correspondiente en que hagan o reciban los pagos base del gravamen, o de los meses de abril, julio, octubre y enero del año siguiente, tratándose de pagos trimestrales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 151
 
-20.- Son obligaciones a cargo de los sujetos que realizan los pagos gravados por este Impuesto, y de quienes los reciban cuando quien los paga resida fuera del Estado, sin tener en él agencia, sucursal o representación:
+20.- Son obligaciones a cargo de los sujetos que realizan los pagos gravados por este impuesto, y de los responsables solidarios:
 
-I.- Empadronarse en la Oficina de Recaudación de Rentas del Estado de su jurisdicción, dentro de los diez días siguientes a la fecha en que se efectúen las operaciones gravadas por este Impuesto;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2004)</small>
+
+I.- Empadronarse en la oficina de Recaudación de Rentas del Estado de su jurisdicción, dentro de los diez días siguientes a la fecha en que se efectúen las operaciones gravadas por este impuesto, tratándose de los responsables solidarios;
 
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 1998)</small>
 
 II.- Presentar la declaración mensual o trimestral según corresponda, para el pago del Impuesto; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 III.- Las demás que impongan otras disposiciones fiscales.
 
@@ -2304,3 +2326,17 @@ UNICO.- La presente adición entrará en vigor el día primero de Enero del año
 P.O. 2 DE ENERO DE 2004.
 
 Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE ABRIL DE 2004.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+Los procedimientos, trámites y recursos administrativos, que se hubieren iniciado antes de la entrada en vigor de este Decreto, continuarán su sustanciación y se resolverán conforme a la (sic) disposiciones legales vigentes a la fecha en que se iniciaron.
+
+###### ARTICULO TERCERO.
+
+Las infracciones cometidas antes de la entrada en vigor de este Decreto, se sancionarán en los términos preceptuados por las disposiciones vigentes en la época en que se cometieron. En caso de que las disposiciones vigentes prevean una multa distinta, se sancionará con la que resulte más benéfica para el contribuyente.
