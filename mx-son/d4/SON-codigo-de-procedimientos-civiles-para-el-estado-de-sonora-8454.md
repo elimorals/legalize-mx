@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-civiles-para-el-estado-de-sonora-8454"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-24"
-last_updated: "1995-07-06"
+last_updated: "1998-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE JULIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 24 DE DICIEMBRE DE 1998.
 
 Código publicado en la Sección Tercera del Boletín Oficial del Estado de Sonora, el miércoles 24 de agosto de 1949.
 
@@ -5537,6 +5537,8 @@ La resolución que se dicte no es apelable.
 
 Rectificación de actas del estado civil.
 
+> <small>(REFORMADO, B.O. 24 DE DICIEMBRE DE 1998)</small>
+
 ###### Art. 596.
 
 Para que se autorice la adopción, el que pretenda adoptar a uno o más menores o a uno o más incapacitados, deberá acreditar:
@@ -5577,7 +5579,7 @@ Interdicción e inhabilitación.
 
 ###### Art. 601.
 
-La rectificación o modificación de un acta del estado civil no puede hacerse sino mediante sentencia que dicte la Autoridad Judicial, salvo el reconocimiento que voluntariamente haga un padre de su hijo, en los casos autorizados por el Código Civil.
+La rectificación o modificación de un acta del estado civil puede hacerse mediante sentencia que dicte la Autoridad Judicial, en los casos previstos en este Código o, mediante la resolución administrativa emitida por la Dirección General del Registro Civil en los supuestos y conforme a las reglas establecidas en el Código Civil, salvo el reconocimiento que voluntariamente haga un padre a su hijo, en los casos autorizados por éste último ordenamiento.
 
 > <small>(REFORMADO, B.O. 8 DE SEPTIEMBRE DE 1979)</small>
 
@@ -5607,19 +5609,7 @@ La sentencia que recaiga será revisable de oficio, aunque no la recurran las pa
 
 Una vez ejecutoriada la sentencia, se comunicará al Oficial del Registro Civil para que haga referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
 
-> <small>(ADICIONADO, B.O. 8 DE SEPTIEMBRE DE 1979)</small>
-
-Art. 604 BIS.- Cuando sólo se trate de corregir errores gramaticales evidentes y que se desprendan del contenido de la propia acta, se seguirá un procedimiento especial ante el Juez de Primera Instancia del Ramo Civil, conforme a las siguientes reglas:
-
-I.- Con la sola comparecencia del interesado, verbal o por escrito, y la exhibición del acta correspondiente, el Juez estará obligado a iniciar de oficio el procedimiento especial, con intervención del Agente del Ministerio Público.
-
-En los casos de que la comparecencia sea verbal, el Secretario del Juzgado estará obligado a levantar el acta de comparecencia y dar cuenta de ella de inmediato al Titular.
-
-II.- En los casos en que el Juez lo considere necesario, requerirá al interesado por la aportación de otras pruebas documentales que justifiquen la corrección.
-
-III.- En un término no mayor de cinco días y bajo su responsabilidad, el Juez debe resolver sobre la corrección solicitada, comunicándole de inmediato a la Dirección del Registro Civil y a la Oficialía que corresponda, para el efecto de que se hagan las anotaciones marginales a que haya lugar.
-
-IV.- La resolución que se dicte en estos procedimientos especiales, no será recurrible ni revisable de oficio.
+Art. 604 BIS.- (DEROGADO, B.O. 24 DE DICIEMBRE DE 1998)
 
 ### CAPITULO DECIMO.
 
@@ -8428,3 +8418,9 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 ###### ARTICULO SEGUNDO.
 
 Todas aquellas personas que adquirieron predios provenientes de enajenaciones de las dependencias y entidades de la Administración Pública podrán designar en escritura complementaria, el o los beneficiarios, en los términos de esta Ley, a través de Notario Público o ante la Comisión Estatal de Bienes y Concesiones de la Secretaría de Finanzas.
+
+B.O. 24 DE DICIEMBRE DE 1998.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor, al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
