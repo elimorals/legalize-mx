@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-procedimientos-civiles-de-yucatan-8644"
 country: "mx"
 rank: "codigo"
 publication_date: "1941-12-24"
-last_updated: "1991-12-03"
+last_updated: "1993-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 1993.
 
 Código publicado en el Diario Oficial los días 24, 26, 27, 29, 30 y 31 de Diciembre de 1941 y 5 de Enero de 1942.
 
@@ -71,9 +71,11 @@ En el caso del artículo anterior, si se presentare por el ausente una persona q
 
 El gestor judicial, antes de ser admitido, debe dar fianza de que el interesado pasará por lo que él haga, y de pagar lo juzgado y sentenciado e indemnizar los perjuicios y gastos que se causen. La fianza será calificada por el tribunal con audiencia del colitigante, y sin más recurso que el de responsabilidad.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 8.
 
-El fiador del gestor judicial renunciará todos los beneficios legales, observándose en este caso lo dispuesto en los artículos del 1944 al 1952 del Código Civil.
+El fiador del gestor judicial renunciará todos los beneficios legales, observándose en este caso lo dispuesto en los artículos del 1997 al 2004 del Código Civil.
 
 ###### ARTICULO 9.
 
@@ -517,9 +519,11 @@ En los negocios relativos a la tutela de los menores e incapacitados, es compete
 
 En los casos en que sea necesario solicitar autorización judicial para determinados actos, será Juez competente el del domicilio de quien tenga que solicitar esa autorización.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 84.
 
-En los casos previstos por los artículos 2153 y 2280 del Código Civil, es competente el Juez del domicilio del testador; pero si la intervención judicial fuera urgente, podrá actuar el Juez del lugar donde se encuentre el interesado, remitiendo las diligencias que practique al Juez del domicilio del testador.
+En los casos previstos por los artículos 2221 y 2362 del Código Civil, es competente el Juez del domicilio del testador; pero si la intervención judicial fuera urgente, podrá actuar el Juez del lugar donde se encuentre el interesado, remitiendo las diligencias que practique al Juez del domicilio del testador.
 
 > <small>(F. DE E., D.O. 15 DE ENERO DE 1942)</small>
 
@@ -819,15 +823,17 @@ Puede prepararse la acción ejecutiva pidiendo el reconocimiento de la firma de 
 
 ### CAPITULO II. De los preliminares del juicio de consignación
 
-> <small>(F. DE E., D.O. 15 DE ENERO DE 1942)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 136.
 
-Si con motivo de las circunstancias determinadas en los artículos 1249 y 1250 del Código Civil, se promovieren diligencias de consignación, el Juez citará al acreedor para que en día, hora y lugar indicados comparezca a recibir o a ver depositar la cosa consignada.
+Si con motivo de las circunstancias determinadas en los artículos 1270 y 1271 del Código Civil, se promovieren diligencias de consignación, el Juez citará al acreedor para que en día, hora y lugar indicados comparezca a recibir o a ver depositar la cosa consignada.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 137.
 
-Si el acreedor recibe la cosa ofrecida, lisa y llanamente, el procedimiento quedará terminado, levantándose en ese sentido el acta correspondiente; si se tratare del caso comprendido en el artículo 1250 del Código Civil, o si el acreedor no comparece en el día, hora y lugar designados, o si, aun compareciendo se negare a aceptar la cosa ofrecida, el Juez levantará acta en que conste el motivo de la consignación y en su caso, la no comparecencia o negativa a recibir del acreedor; la descripción de la cosa ofrecida y el depósito de la misma en la oficina o institución que designe.
+Si el acreedor recibe la cosa ofrecida, lisa y llanamente, el procedimiento quedará terminado, levantándose en ese sentido el acta correspondiente; si se tratare del caso comprendido en el artículo 1271 del Código Civil, o si el acreedor no comparece en el día, hora y lugar designados, o si, aun compareciendo se negare a aceptar la cosa ofrecida, el Juez levantará acta en que conste el motivo de la consignación y en su caso, la no comparecencia o negativa a recibir del acreedor; la descripción de la cosa ofrecida y el depósito de la misma en la oficina o institución que designe.
 
 ###### ARTICULO 138.
 
@@ -1269,9 +1275,11 @@ Si el que ha de reconocer un documento no supiere leer, y otro hubiere firmado p
 
 Sólo pueden reconocer un documento privado el que lo firma, el que lo manda extender, o el legítimo representante de ellos con poder bastante.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 224.
 
-Se exceptúan de lo dispuesto en el artículo que precede, los casos previstos en los artículos 2325 y 2327 del Código Civil.
+Se exceptúan de lo dispuesto en el artículo que precede, los casos previstos en los artículos 2409 y 2411 del Código Civil.
 
 ###### ARTICULO 225.
 
@@ -2025,9 +2033,11 @@ De los decretos y autos de los tribunales de apelación, aun de aquellos que dic
 
 El recurso de apelación tiene por objeto que el superior confirme, revoque o modifique la resolución del inferior.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 370.
 
-La segunda instancia no puede abrirse sin que se interponga el recurso de apelación, salvo en los casos de los juicios sobre rectificación de actas del estado civil y sobre nulidad de matrimonio, por las causas expresadas en el artículo 100,, fracciones II y III, del Código Civil en relación con las fracciones III, IV, V y IX del artículo 72 del propio Código, en los cuales la segunda instancia procederá de oficio, con intervención del Ministerio Público; aunque los interesados no expresaren agravios, el tribunal examinará la legalidad de la sentencia de primera instancia, quedando entre tanto sin ejecutarse ésta.
+La segunda instancia no puede abrirse sin que se interponga el recurso de apelación, salvo en los casos de los juicios sobre rectificación de actas del estado civil y sobre nulidad de matrimonio, por las causas expresadas en el artículo 89, fracciones I y II, del Código Civil en relación con las fracciones III, IV, V y IX del artículo 69 del propio Código, en los cuales la segunda instancia procederá de oficio, con intervención del Ministerio Público; aunque los interesados no expresaren agravios, el tribunal examinará la legalidad de la sentencia de primera instancia, quedando entre tanto sin ejecutarse ésta.
 
 ###### ARTICULO 371.
 
@@ -2351,11 +2361,11 @@ Sólo hay secuestro judicial cuando la autoridad pública respectiva ordena por 
 
 Cuando por vía de secuestro se aseguren dinero efectivo o alhajas, se remitirán éstos a la Unidad Administrativa del Poder Judicial del Estado. El recibo del depósito se enviará a la autoridad remitente y no se recogerá lo depositado sino en virtud de orden escrita del Juez de los autos.
 
-> <small>(F. DE E., D.O. 15 DE ENERO DE 1942)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 436.
 
-Cuando se aseguren créditos, el secuestro se reducirá a notificar al deudor, o a quien deba pagarlos, que no verifique el pago al acreedor, sino que los pague al Juzgado, si los créditos estuvieren vencidos, y si no lo estuvieren, tan pronto como lo estén, apercibiéndolo de doble pago en caso de desobediencia; al acreedor contra quien se haya dictado el secuestro se le notificará que no disponga de esos créditos, bajo las penas que señala el Código de Defensa Social. Si llegare a asegurarse el título mismo del crédito, se nombrará un depositario que lo conserve en guarda, quien tendrá la obligación de hacer todo lo necesario para que no se altere ni menoscabe el derecho que el título represente, y de intentar todas las acciones y recursos que la ley concede para hacer efectivo el crédito, quedando sujeto además a las obligaciones que imponen los artículos 1638 y 1639 del Código Civil.
+Cuando se aseguren créditos, el secuestro se reducirá a notificar al deudor, o a quien deba pagarlos, que no verifique el pago al acreedor, sino que los pague al Juzgado, si los créditos estuvieren vencidos, y si no lo estuvieren, tan pronto como lo estén, apercibiéndolo de doble pago en caso de desobediencia; al acreedor contra quien se haya dictado el secuestro se le notificará que no disponga de esos créditos, bajo las penas que señala el Código de Defensa Social. Si llegare a asegurarse el título mismo del crédito, se nombrará un depositario que lo conserve en guarda, quien tendrá la obligación de hacer todo lo necesario para que no se altere ni menoscabe el derecho que el título represente, y de intentar todas las acciones y recursos que la ley concede para hacer efectivo el crédito, quedando sujeto además a las obligaciones que imponen los artículos 1680 y 1681 del Código Civil.
 
 > <small>(F. DE E., D.O. 15 DE ENERO DE 1942)</small>
 
@@ -2363,9 +2373,11 @@ Cuando se aseguren créditos, el secuestro se reducirá a notificar al deudor, o
 
 Si los créditos a que se refiere el artículo anterior fueren litigiosos, la providencia del secuestro se notificará al Juez de los autos respectivos, dándole a conocer al depositario nombrado, a fin de que éste pueda, sin obstáculo alguno, desempeñar las obligaciones que le impone la parte final del artículo anterior.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 438.
 
-Si recae el secuestro sobre bienes muebles que no sean dinero, alhajas ni créditos, el depositario que se nombre sólo tendrá el carácter de simple custodio de los objetos puestos a su cuidado, los que conservará a disposición del Juez respectivo, quedando sujeto a lo que disponen los artículos del 1638 al 1644 del Código Civil.
+Si recae el secuestro sobre bienes muebles que no sean dinero, alhajas ni créditos, el depositario que se nombre sólo tendrá el carácter de simple custodio de los objetos puestos a su cuidado, los que conservará a disposición del Juez respectivo, quedando sujeto a lo que disponen los artículos del 1680 al 1686 del Código Civil.
 
 ###### ARTICULO 439.
 
@@ -2879,11 +2891,11 @@ II.- Cuando al que entabla una acción real le compete igualmente el derecho par
 
 Las acciones del estado civil son todas las que tienen por objeto comprobar el nacimiento, la defunción, el matrimonio, o la nulidad de éste, la filiación, el reconocimiento de hijos, la tutela, la terminación del matrimonio y la ausencia o atacar alguna de las constancias del Registro, ya porque sea nula, ya porque se pida su rectificación.
 
-> <small>(F. DE E., D.O. 15 DE ENERO DE 1942)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 527.
 
-Cuando la acción se funde en la posesión de estado, y se pruebe en la forma que establecen los artículos 272, 273 y 274 del Código Civil, producirá el efecto de que se ampare o restituya en la posesión de estado al que la disfruta, contra cualquiera que le perturbe en ella.
+Cuando la acción se funde en la posesión de estado, y se pruebe en la forma que establecen los artículos 260, 261 y 262 del Código Civil, producirá el efecto de que se ampare o restituya en la posesión de estado al que la disfruta, contra cualquiera que le perturbe en ella.
 
 ###### ARTICULO 528.
 
@@ -2921,7 +2933,9 @@ I.- En los casos de cesión de acciones, con arreglo a las prescripciones del C�
 
 II.- En los de ausencia, de mandato y de gestión de negocios.
 
-III.- En el caso en que los acreedores, haciendo uso del derecho que les concede el artículo 2454 del Código Civil, aceptan la herencia que corresponde a su deudor.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
+III.- En el caso en que los acreedores, haciendo uso del derecho que les concede el artículo 2547 del Código Civil, aceptan la herencia que corresponde a su deudor.
 
 IV.- Siempre que por incapacidad natural o legal o por razón de potestad patria o marital, represente alguno de los derechos de otro.
 
@@ -3077,9 +3091,13 @@ Los juicios extraordinarios se tramitarán en la misma forma establecida en este
 
 El juicio de arrendamiento procede cuando se funda:
 
-I.- En la falta de pago de rentas, en la forma prevista en la fracción I del artículo 1596 del Código Civil.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
-II.- En el cumplimiento del plazo estipulado en el contrato o de su prórroga legal de acuerdo con los artículos 1579 y 1582 del Código Civil, salvo lo dispuesto en los artículos 1580 y 1581 del mismo Código.
+I.- En la falta de pago de rentas, en la forma prevista en la fracción I del artículo 1629 del Código Civil.
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
+II.- En el cumplimiento del plazo estipulado en el contrato o de su prórroga legal de acuerdo con los artículos 1613 y 1614 del Código Civil, salvo lo dispuesto en los artículos 1615 y 1616 del mismo Código.
 
 III.- En la infracción de cualesquiera de las condiciones del contrato que con arreglo del Código Civil motiven rescisión.
 
@@ -3119,11 +3137,11 @@ Cuando durante el plazo fijado en el artículo 566 para el desahucio exhiba el i
 
 Los beneficios de los plazos que este capítulo concede a los arrendatarios, no son renunciables.
 
-> <small>(REFORMADO, D.O. 1 DE ENERO DE 1981)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 570.
 
-En caso de que se opongan otras excepciones por el arrendatario, se mandará dar vista de ellas al arrendador citándose para audiencia de pruebas y alegatos dentro de los ocho días siguientes. Verificada esta audiencia, el Juez citará para sentencia, que dictará dentro de tres días, teniéndose en cuenta que este procedimiento debe efectuarse antes de que concluya el plazo fijado para el lanzamiento. El Juez debe desechar de plano las excepciones diversas a las que el Código Civil en los artículos del 1554 al 1557 y el 1567 concede al inquilino para no pagar las rentas, siendo aquéllas inadmisibles si no se ofrecen con sus pruebas. Son improcedentes la reconvención y la compensación.
+En caso de que se opongan otras excepciones por el arrendatario, se mandará dar vista de ellas al arrendador citándose para audiencia de pruebas y alegatos dentro de los ocho días siguientes. Verificada esta audiencia, el Juez citará para sentencia, que dictará dentro de tres días, teniéndose en cuenta que este procedimiento debe efectuarse antes de que concluya el plazo fijado para el lanzamiento. El Juez debe desechar de plano las excepciones diversas a las que el Código Civil en los artículos del 1589 al 1592 y el 1602 concede al inquilino para no pagar las rentas, siendo aquéllas inadmisibles si no se ofrecen con sus pruebas. Son improcedentes la reconvención y la compensación.
 
 > <small>(REFORMADO, D.O. 1 DE ENERO DE 1981)</small>
 
@@ -3191,9 +3209,11 @@ La sentencia, aunque no sea apelada, se elevará al Tribunal Superior de Justici
 
 ### CAPITULO III. Del juicio hipotecario
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 584.
 
-Procederá el juicio hipotecario para el pago o la prelación de un crédito hipotecario, siempre que éste conste en documento debidamente registrado y que sea de plazo cumplido o que deba anticiparse, conforme a lo prevenido en el artículo 2004 del Código Civil, y siempre que en este último caso acredite el demandante que ha cumplido con los requisitos establecidos en los artículos 2002 y 2003 del propio Código.
+Procederá el juicio hipotecario para el pago o la prelación de un crédito hipotecario, siempre que éste conste en documento debidamente registrado y que sea de plazo cumplido o que deba anticiparse, conforme a lo prevenido en el artículo 2061 del Código Civil, y siempre que en este último caso acredite el demandante que ha cumplido con los requisitos establecidos en los artículos 2062 y 2063 del propio Código.
 
 ###### ARTICULO 585.
 
@@ -3243,9 +3263,11 @@ Si en la sentencia que se pronuncie en estos juicios, se declarase haber lugar a
 
 Si el Juez de primera instancia ha declarado que procede el remate, se verificará éste en los términos que prescribe el Capítulo II, Título Noveno del Libro Primero.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 595.
 
-Si no se presentan al juicio, antes de la ejecución de la sentencia, el acreedor o acreedores a que se refiere el artículo 587, se procederá conforme a lo dispuesto por el artículo 2092 del Código Civil. Si se presentan, se aplicarán las disposiciones de los artículos 515 y 516 de este Código.
+Si no se presentan al juicio, antes de la ejecución de la sentencia, el acreedor o acreedores a que se refiere el artículo 587, se procederá conforme a lo dispuesto por el artículo 2157 del Código Civil. Si se presentan, se aplicarán las disposiciones de los artículos 515 y 516 de este Código.
 
 ###### ARTICULO 596.
 
@@ -3297,7 +3319,9 @@ Las cantidades que por intereses o perjuicios formen parte de la deuda reclamada
 
 Si el título ejecutivo contiene obligación de hacer, se observarán las reglas siguientes:
 
-I.- Si el actor exige la prestación del hecho por el obligado o por un tercero conforme al artículo 1189 del Código Civil, el Juez, atendidas las circunstancias del hecho, señalará un término prudente para que se cumpla la obligación.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
+I.- Si el actor exige la prestación del hecho por el obligado o por un tercero conforme al artículo 177 del Código Civil, el Juez, atendidas las circunstancias del hecho, señalará un término prudente para que se cumpla la obligación.
 
 II.- Si en el contrato se estableció alguna pena, por el importe de ésta se dictará la ejecución.
 
@@ -3325,7 +3349,9 @@ Si la cosa especificada se halla en poder de un tercero, la acción ejecutiva s�
 
 I.- Cuando la acción sea real.
 
-II.- Cuando se haya declarado judicialmente que la enajenación por la que adquirió un tercero, está en los casos de los artículos 1295 y 1298 del Código Civil, y en los demás en que expresamente establezca esa responsabilidad el mismo Código.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
+II.- Cuando se haya declarado judicialmente que la enajenación por la que adquirió un tercero, está en los casos de los artículos 1317 y 1320 del Código Civil, y en los demás en que expresamente establezca esa responsabilidad el mismo Código.
 
 ###### ARTICULO 606.
 
@@ -3343,9 +3369,11 @@ Lo dispuesto en el artículo anterior no priva al ejecutado del derecho de impug
 
 El auto que negare la ejecución es apelable, y la apelación se decidirá de plano con sólo el escrito de expresión de agravios del apelante, dentro de tres días de recibidos los autos correspondientes.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 610.
 
-Las obligaciones sujetas a condición suspensiva o a plazo no serán ejecutivas sino cuando aquélla o éste se hayan cumplido, salvo lo dispuesto en los artículos 1121 y 1134 del Código Civil.
+Las obligaciones sujetas a condición suspensiva o a plazo no serán ejecutivas sino cuando aquélla o éste se hayan cumplido, salvo lo dispuesto en los artículos 1133 y 1148 del Código Civil.
 
 El promovente deberá acreditar, a satisfacción del Juez, que en uno u otro caso ha surgido la circunstancia requerida, por dichos preceptos legales para tener por cumplida la condición o para hacer exigible la obligación sujeta a plazo.
 
@@ -3413,7 +3441,9 @@ VI.- Los efectos propios para el fomento de las negociaciones industriales, en c
 
 VII.- Las mieses hasta antes de las cosechas.
 
-VIII.- El derecho de usufructo, pero no los frutos de éste. En el caso del artículo 862 del Código Civil, ni aún los frutos serán embargables.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
+VIII.- El derecho de usufructo, pero no los frutos de éste. En el caso del artículo 860 del Código Civil, ni aún los frutos serán embargables.
 
 IX.- Las pensiones de alimentos.
 
@@ -3649,7 +3679,9 @@ I.- La presentación de título suficiente con arreglo a derecho.
 
 II.- Que nadie posea a título de dueño o de usufructuario la misma cosa cuya posesión se pide.
 
-III.- Que no haya albacea ni exista cónyuge que con arreglo al artículo 182 del Código Civil, deba tener la posesión y administración del fondo social.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
+III.- Que no haya albacea ni exista cónyuge que con arreglo al artículo 169 del Código Civil, deba tener la posesión y administración del fondo social.
 
 ###### ARTICULO 667.
 
@@ -3891,9 +3923,11 @@ Si no se apela de la sentencia que ratifica la suspensión, queda de derecho con
 
 No podrá concederse la autorización sin que el dueño otorgue fianza a favor del actor, para responder de la demolición y de la indemnización de los perjuicios que de continuarse la obra puedan seguirse, si así se manda por sentencia que cause ejecutoria.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 719.
 
-Si el Juez califica de bastante la fianza, calificación que hará conforme a lo dispuesto en el artículo 1944 y relativos del Código Civil, oyendo el dictamen de peritos nombrados por ambas partes y de un tercero en caso de discordia, conforme al Capítulo V, Título Quinto del Libro Primero; si aquellos no estuvieren conformes en el monto de la fianza, decretará la autorización solicitada, y en el mismo auto señalará al dueño de la obra un término que no exceda de cinco días para que entable en forma su demanda sobre el derecho de continuarla y lo apercibirá de procederse a la demolición de la obra si no la entabla.
+Si el Juez califica de bastante la fianza, calificación que hará conforme a lo dispuesto en el artículo 1997 y relativos del Código Civil, oyendo el dictamen de peritos nombrados por ambas partes y de un tercero en caso de discordia, conforme al Capítulo V, Título Quinto del Libro Primero; si aquellos no estuvieren conformes en el monto de la fianza, decretará la autorización solicitada, y en el mismo auto señalará al dueño de la obra un término que no exceda de cinco días para que entable en forma su demanda sobre el derecho de continuarla y lo apercibirá de procederse a la demolición de la obra si no la entabla.
 
 > <small>(F. DE E., D.O. 15 DE ENERO DE 1942)</small>
 
@@ -4247,7 +4281,9 @@ II.- Los negocios de divorcio, no en cuanto a la separación de bienes, ni en la
 
 III.- Los negocios de nulidad de matrimonio.
 
-IV.- Los concernientes al estado civil de las personas con la excepción contenida en la parte final del artículo 270 del Código Civil.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
+IV.- Los concernientes al estado civil de las personas con la excepción contenida en la parte final del artículo 258 del Código Civil.
 
 V.- Los demás en que lo prohiba expresamente la ley.
 
@@ -4519,7 +4555,9 @@ II.- Cuando se refiera a la persona o bienes de menores de edad o incapacitados.
 
 III.- Cuando tenga relación con los derechos o bienes de algún Ayuntamiento, o de cualquier establecimiento público que esté sostenido por el Erario o que se encuentre bajo la protección del Gobierno, sin que esto importe la falta de audiencia del representante del establecimiento público o municipio de que se trate.
 
-IV.- Cuando tenga relación con los derechos o bienes de un ausente conforme al artículo 593 del Código Civil.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
+IV.- Cuando tenga relación con los derechos o bienes de un ausente conforme al artículo 585 del Código Civil.
 
 ###### ARTICULO 848.
 
@@ -4579,6 +4617,8 @@ En este expediente se tramitará, en caso de ser necesario todo aumento o dismin
 
 Del nombramiento de tutor y discernimiento del cargo.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 858.
 
 La declaración de estado de minoridad o de incapacidad, puede pedirse:
@@ -4593,7 +4633,9 @@ IV.- Por el ejecutor testamentario.
 
 V.- Por el Ministerio Público que siempre será parte.
 
-VI.- Por los Consejos Locales de Tutela, de acuerdo con la fracción IV del artículo 520 del Código Civil.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
+VI.- Por los Consejos Locales de Tutela, de acuerdo con la fracción IV del artículo 516 del Código Civil.
 
 ###### ARTICULO 859.
 
@@ -4663,11 +4705,13 @@ Las sentencias que declaren la interdicción y las que le pongan término, se pu
 
 ###### ARTICULO 872.
 
-Acreditado el nombramiento de tutor hecho en última disposición, se discernirá el cargo por el Juez sin exigir fianza al nombrado, si se le hubiere dispensado de ella, salvo lo dispuesto en el artículo 427 del Código Civil.
+Acreditado el nombramiento de tutor hecho en última disposición, se discernirá el cargo por el Juez sin exigir fianza al nombrado, si se le hubiere dispensado de ella, salvo lo dispuesto en el artículo 420 del Código Civil.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 873.
 
-Todo tutor que administre bienes, debe otorgar garantía en los términos de los artículos del 419 al 425 del Código Civil, salvo que esté legalmente relevado de ella.
+Todo tutor que administre bienes, debe otorgar garantía en los términos de los artículos del 412 al 418 del Código Civil, salvo que esté legalmente relevado de ella.
 
 ###### ARTICULO 874.
 
@@ -4677,11 +4721,11 @@ Todo tutor, al aceptar, expresará si tiene o no bienes en qué constituir hipot
 
 Se determinará el importe de la garantía, su apreciación y aprobación, con audiencia del Ministerio Público.
 
-> <small>(F. DE E., D.O. 15 DE ENERO DE 1942)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 876.
 
-Para facilitar y asegurar el otorgamiento de la garantía, los Jueces nombrarán desde luego curador en los casos en que conforme al Código Civil les corresponde hacer el nombramiento, o confirmarán el que haya hecho el autor de la herencia, o el menor en su caso. El tutor interino que en estos casos debe nombrarse conforme al artículo 425 del Código Civil, presentará dentro del término que le fije el Juez y con presencia de los datos que existan en los libros de la testamentaría o del intestado, un cómputo aproximado de la cuantía de los bienes, productos y rentas, cuya administración y manejo debe garantizarse con arreglo a los artículos 422 y 423 del referido Código.
+Para facilitar y asegurar el otorgamiento de la garantía, los Jueces nombrarán desde luego curador en los casos en que conforme al Código Civil les corresponde hacer el nombramiento, o confirmarán el que haya hecho el autor de la herencia, o el menor en su caso. El tutor interino que en estos casos debe nombrarse conforme al artículo 415 del Código Civil, presentará dentro del término que fije el Juez y con presencia de los datos que existan en los libros de la testamentaría o del intestado, un cómputo aproximado de la cuantía de los bienes, productos y rentas, cuya administración y manejo debe garantizarse con arreglo a los artículos 416 y 418 del referido Código.
 
 ###### ARTICULO 877.
 
@@ -4691,13 +4735,17 @@ Previa la aceptación del tutor, ya sea nombrado en el testamento, ya sea interi
 
 En todo caso en que se nombre al menor un tutor interino que tenga que administrar bienes, se le nombrará curador con el mismo carácter, si no lo tuviere definitivo, o si teniéndolo se halla impedido.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 879.
 
-La oposición de intereses a que se refieren los artículos 355 y 371 del Código Civil, se calificará siempre con audiencia del Ministerio Público, y sólo que éste pida de conformidad, se nombrará el tutor interino.
+La oposición de intereses a que se refieren los artículos 342 y 359 del Código Civil, se calificará siempre con audiencia del Ministerio Público, y sólo que éste pida de conformidad, se nombrará el tutor interino.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 880.
 
-Siempre que corresponda al Juez el nombramiento de tutor, conforme a lo prevenido en el Capítulo IV, Título Sexto, del Libro Primero del Código Civil, deberá recibir la información de estar el menor en alguno de los casos del artículo 399 del mismo Código, y convocará por edictos publicados tres veces dentro del lapso de quince días, en el "Diario Oficial", a los parientes del incapacitado a quienes pueda corresponder la tutela legítima.
+Siempre que corresponda al Juez el nombramiento de tutor, conforme a lo prevenido en el Capítulo IV, Título VI, del Libro I del Código Civil, deberá recibir la información de estar el menor en alguno de los casos del artículo 392 del mismo Código, y convocará por edictos publicados tres veces dentro del lapso de quince días, en el "Diario Oficial", a los parientes del incapacitado a quienes pueda corresponder la tutela legítima.
 
 ###### ARTICULO 881.
 
@@ -4707,9 +4755,11 @@ Cuando expire el término de los edictos y transcurran cinco días más sin que 
 
 Si sobre el nombramiento de un tutor se empeñare cuestión, se substanciará en vía ordinaria, y en el pleito que se siga, representará al menor un tutor interino, que se nombrará para este sólo efecto.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 883.
 
-En todo auto de discernimiento del cargo de tutor, deberá expresar el Juez el tanto por ciento que, con arreglo a lo prevenido en el artículo 478 del Código Civil, corresponda al nombrado, o la pensión o legado que por el desempeño de su encargo le haya asignado el autor de la herencia.
+En todo auto de discernimiento del cargo de tutor, deberá expresar el Juez el tanto por ciento que, con arreglo a lo prevenido en el artículo 472 del Código Civil, corresponda al nombrado, o la pensión o legado que por el desempeño de su encargo le haya asignado el autor de la herencia.
 
 ###### ARTICULO 884.
 
@@ -4737,9 +4787,11 @@ El Juez que no cumpla con las prescripciones de este Código y del Civil, relati
 
 Se discernirá el cargo del curador al que haya sido nombrado con ese carácter por el que ejerza la patria potestad, conforme a la prescripciones del Código Civil.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 890.
 
-Si tuviere lugar respecto del curador lo dispuesto respecto del tutor en el artículo 386 del Código Civil, se nombrará un curador interino, observándose lo prevenido en el artículo 879.
+Si tuviere lugar respecto del curador lo dispuesto respecto del tutor en el artículo 374 del Código Civil, se nombrará un curador interino, observándose lo prevenido en el artículo 879.
 
 ###### ARTICULO 891.
 
@@ -4765,9 +4817,13 @@ I.- Si resultare haber fallecido algún tutor, harán que sea reemplazado con ar
 
 II.- Si procedente de cualquiera enajenación hubiere alguna suma depositada para darle destino determinado, harán que desde luego tengan cumplido efecto las prescripciones del Código Civil.
 
-III.- Exigirán también que rindan cuentas los tutores que deban darla y que por cualquier motivo no hayan cumplido con la prescripción expresa del artículo 487 del Código Civil.
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
-IV.- Obligarán a los tutores a que depositen en un Banco debidamente autorizado, los sobrantes de las rentas o productos del caudal de los menores, después de cubiertas las sumas señaladas con arreglo a los artículos 435 y 436 del Código Civil, y de pagado el tanto por ciento de administración.
+III.- Exigirán también que rindan cuentas los tutores que deban darla y que por cualquier motivo no hayan cumplido con la prescripción expresa del artículo 845 del Código Civil.
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
+IV.- Obligarán a los tutores a que depositen en un Banco debidamente autorizado, los sobrantes de las rentas o productos del caudal de los menores, después de cubiertas las sumas señaladas con arreglo a los artículos 428 y 429 del Código Civil, y de pagado el tanto por ciento de administración.
 
 V.- Pedirán al efecto las noticias que estimen necesarias del estado en que se halle la gestión de la tutela, y adoptarán las medidas que juzguen convenientes para evitar los abusos, y remediar los que puedan haberse cometido.
 
@@ -4791,9 +4847,11 @@ Los comprobantes de la cuenta, una vez aprobada, pueden ser devueltos al tutor s
 
 Cuando fueren muchos los libros y documentos que deban cotejarse, bastará que se presente la cuenta en extracto, si estuvieren conformes el curador y el Ministerio Público; pero en este caso, el curador y el Ministerio Público tienen derecho de examinar por sí mismos los libros originales; y el Juez podrá, cuando alguno de los dos lo pida, nombrar un perito que forme la glosa de la cuenta.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 897.
 
-El tutor cuyo cargo ha concluido, puede, al hacer la entrega de documentos que previene el artículo 500 del Código Civil, retener los necesarios para formar su cuenta a fin de presentarlos con ella, previo el consentimiento del curador, o del pupilo si salió ya de la menor edad, y autorización judicial.
+El tutor cuyo cargo ha concluido, puede, al hacer la entrega de documentos que previene el artículo 496 del Código Civil, retener los necesarios para formar su cuenta a fin de presentarlos con ella, previo el consentimiento del curador, o del pupilo si salió ya de la menor edad, y autorización judicial.
 
 ###### ARTICULO 898.
 
@@ -4877,9 +4935,11 @@ El nombramiento de peritos para el avalúo, se hará siempre por el Juez.
 
 Hecha la venta cuidará el Juez bajo su responsabilidad, de que se dé al precio que se haya obtenido la aplicación indicada al solicitar la autorización, remitiéndose entre tanto, a la Unidad Administrativa del Poder Judicial del Estado, para lo que legalmente corresponda.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 913.
 
-El Juez señalará un plazo prudente para que el producto de los bienes se emplee en el objeto para el cual se pidió la venta; pero si pasan tres meses, se procederá como previene el artículo 453 del Código Civil.
+El Juez señalará un plazo prudente para que el producto de los bienes se emplee en el objeto para el cual se pidió la venta; pero si pasan tres meses, se procederá como previene el artículo 446 del Código Civil.
 
 ###### ARTICULO 914.
 
@@ -4894,6 +4954,8 @@ Lo dispuesto en los dos artículos que preceden, es aplicable al gravamen de los
 ### CAPITULO IX. De la autorización para separarse del domicilio
 
 conyugal o paterno
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 916.
 
@@ -4911,7 +4973,7 @@ conyugal o paterno
 
 ###### ARTICULO 919.
 
-La obligación que de vivir con su marido impone a la mujer casada el artículo 86 del Código Civil y la que a los pupilos atribuye el artículo 342 del mismo Código, podrá suspenderse con autorización judicial, en los casos siguientes:
+La obligación que de vivir con su marido impone a la mujer casada el artículo 83 del Código Civil y la que a los pupilos atribuye el artículo 329 del mismo Código, podrá suspenderse con autorización judicial, en los casos siguientes:
 
 I.- Cuando la mujer casada se proponga intentar o haya intentado demanda de divorcio.
 
@@ -5383,7 +5445,7 @@ Si atendidos los fondos del concurso, el acreedor que apela puede ser pagado en 
 
 ### CAPITULO I. Disposiciones generales
 
-> <small>(F. DE E., D.O. 15 DE ENERO DE 1942)</small>
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 1014.
 
@@ -5535,9 +5597,11 @@ Aceptado el convenio, el Juez lo aprobará en la misma junta si no fuere contrar
 
 ### CAPITULO II. De las testamentarías
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 1047.
 
-Luego que el tribunal tenga conocimiento de la muerte de una persona, dictará, con audiencia del Ministerio Público, mientras no se presenten los interesados y sin perjuicio de lo dispuesto en el artículo 182 del Código Civil, las providencias necesarias para asegurar los bienes. Lo mismo hará si el difunto no era conocido o estaba de transeúnte en el lugar o si hubiese menores interesados o peligro de que se oculten o dilapiden los bienes.
+Luego que el tribunal tenga conocimiento de la muerte de una persona, dictará, con audiencia del Ministerio Público, mientras no se presenten los interesados y sin perjuicio de lo dispuesto en el artículo 170 del Código Civil, las providencias necesarias para asegurar los bienes. Lo mismo hará si el difunto no era conocido o estaba de transeúnte en el lugar o si hubiese menores interesados o peligro de que se oculten o dilapiden los bienes.
 
 > <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -5677,7 +5741,7 @@ Si durante la tramitación de un intestado apareciere el testamento, se sobresee
 
 ###### ARTICULO 1066.
 
-El que promueva el juicio de testamentaría debe presentar el testamento del difunto. El Juez sin más tramite lo tendrá por radicado y en el mismo auto convocará a los interesados a una junta para que si hubiere albacea nombrado en el testamento se les dé a conocer y si no lo hubiere procedan a elegirlo con arreglo a lo prescrito en los artículos 2458, 2460, 2462, 2463, 2464, y 2465 del Código Civil.
+El que promueva el juicio de testamentaría debe presentar el testamento del difunto. El Juez sin más tramite lo tendrá por radicado y en el mismo auto convocará a los interesados a una junta para que si hubiere albacea nombrado en el testamento se les dé a conocer y si no lo hubiere procedan a elegirlo con arreglo a lo prescrito en los artículos 2553, 2555, 2557, 2558, 2559, y 2560 del Código Civil.
 
 ###### ARTICULO 1067.
 
@@ -5715,9 +5779,11 @@ Si el testamento no es impugnado ni se objeta la capacidad de los interesados, e
 
 Si se impugnare la validez del testamento o la capacidad legal de algún heredero, se substanciará el juicio ordinario correspondiente con el albacea o el heredero respectivamente, sin que por ello se suspenda otra cosa que la adjudicación de los bienes en la partición.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 1074.
 
-En la junta prevenida por el artículo 1066 podrán los herederos nombrar interventor conforme a la facultad que les concede el artículo 2505 del Código Civil y se nombrará precisamente en los casos previstos por el artículo 2508 del mismo Código.
+En la junta prevenida por el artículo 1066 podrán los herederos nombrar interventor conforme a la facultad que les concede el artículo 2601 del Código Civil y se nombrará precisamente en los casos previstos por el artículo 2604 del mismo Código.
 
 ### CAPITULO IV. De los inventarios y avalúos
 
@@ -5755,9 +5821,11 @@ Hecha la declaración de herederos de acuerdo con los artículos precedentes, el
 
 Si ninguno de los pretendientes hubiere sido declarado heredero, continuará como albacea judicial el interventor que se hubiere nombrado antes o que en su defecto se nombre.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 1083.
 
-Si la declaración de herederos fuese solicitada por los parientes colaterales a que se refiere el artículo 2418 del Código Civil, el Juez, después de recibir los justificantes del entroncamiento y la información testimonial a que se refiere el artículo 1077, mandará fijar avisos en los sitios públicos del lugar del juicio y en los lugares del fallecimiento y del origen del finado, anunciando su muerte sin testar y los nombres y grado de parentesco de los que reclamen la herencia; y llamando a los que se crean con igual o mejor derecho para que comparezcan en el Juzgado a acreditarlos dentro de veinte días.
+Si la declaración de herederos fuese solicitada por los parientes colaterales a que se refiere el artículo 2505 del Código Civil, el Juez, después de recibir los justificantes del entroncamiento y la información testimonial a que se refiere el artículo 1077, mandará fijar avisos en los sitios públicos del lugar del juicio y en los lugares del fallecimiento y del origen del finado, anunciando su muerte sin testar y los nombres y grado de parentesco de los que reclamen la herencia; y llamando a los que se crean con igual o mejor derecho para que comparezcan en el Juzgado a acreditarlos dentro de veinte días.
 
 El Juez, prudentemente, podrá ampliar el plazo anterior cuando, por el origen del difunto u otras circunstancias, se presuma que puedan existir parientes fuera de la República.
 
@@ -5777,11 +5845,15 @@ Si no se hubiere presentado ningún aspirante a la herencia antes o después de 
 
 La declaración de herederos de un intestado surte el efecto de tener por legítimo poseedor de los bienes, derechos y acciones del difunto a la persona en cuyo favor se hizo.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 1087.
 
-Al albacea se le entregarán los bienes sucesorios, así como los libros y papeles, debiendo rendirle cuentas el interventor, sin perjuicio de lo dispuesto en el artículo 2475 del Código Civil.
+Al albacea se le entregarán los bienes sucesorios, así como los libros y papeles, debiendo rendirle cuentas el interventor, sin perjuicio de lo dispuesto en el artículo 2571 del Código Civil.
 
 ### CAPITULO V. De la administración de los bienes hereditarios
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 1088.
 
@@ -5865,7 +5937,7 @@ Los gastos de inventario y avalúo son a cargo de la herencia, salvo que el test
 
 ###### ARTICULO 1104.
 
-El cónyuge supérstite tendrá la posesión y administración de los bienes de la sociedad conyugal, con intervención del albacea, conforme al artículo 2475 del Código Civil y será puesto en ella en cualquier momento en que la pida, aunque antes la haya tenido el albacea u otra persona, sin que por esto pueda empeñarse cuestión alguna.
+El cónyuge supérstite tendrá la posesión y administración de los bienes de la sociedad conyugal, con intervención del albacea, conforme al artículo 2571 del Código Civil y será puesto en ella en cualquier momento en que la pida, aunque antes la haya tenido el albacea u otra persona, sin que por esto pueda empeñarse cuestión alguna.
 
 Contra el auto que otorgue la posesión y administración al cónyuge, no se admitirá ningún recurso; contra el que la niegue habrá el de apelación.
 
@@ -5873,13 +5945,17 @@ Contra el auto que otorgue la posesión y administración al cónyuge, no se adm
 
 En el caso del artículo anterior, la intervención del albacea se concretará a vigilar la administración del cónyuge, y en cualquier momento en que observe que no se hace convenientemente dará cuenta al tribunal, quien citará a ambos a una audiencia para dentro de los tres días siguientes, y dentro de otros tres resolverá lo que proceda.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 1106.
 
-Si la falta de herederos de que trata el artículo 2464 del Código Civil depende de que el testador declare no ser suyos los bienes, o de otra causa que impida la sucesión por intestado, el albacea judicial durará en su encargo hasta que se entreguen los bienes a su legítimo dueño.
+Si la falta de herederos de que trata el artículo 2559 del Código Civil depende de que el testador declare no ser suyos los bienes, o de otra causa que impida la sucesión por intestado, el albacea judicial durará en su encargo hasta que se entreguen los bienes a su legítimo dueño.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 1107.
 
-Si la falta de herederos depende de incapacidad legal del nombrado o de renuncia, el albacea judicial durará en su encargo el tiempo señalado en el artículo 2465 del Código Civil.
+Si la falta de herederos depende de incapacidad legal del nombrado o de renuncia, el albacea judicial durará en su encargo el tiempo señalado en el artículo 2560 del Código Civil.
 
 ###### ARTICULO 1108.
 
@@ -5905,9 +5981,11 @@ El Juez abrirá la correspondencia que venga dirigida al difunto, en presencia d
 
 Todas las disposiciones relativas al interventor regirán respecto del albacea judicial.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 1113.
 
-Durante la substanciación del juicio sucesorio no se podrán enajenar los bienes inventariados, sino en los casos previstos en los artículos 2487 y 2518 del Código Civil, y en los siguientes:
+Durante la substanciación del juicio sucesorio no se podrán enajenar los bienes inventariados, sino en los casos previstos en los artículos 2583 y 2614 del Código Civil, y en los siguientes:
 
 I.- Cuando los bienes puedan deteriorarse.
 
@@ -6065,15 +6143,17 @@ Cuando todos los herederos fueren mayores de edad y hubieren sido reconocidos ju
 
 el testamento ológrafo
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 1140.
 
 Para la apertura del testamento cerrado, los testigos reconocerán separadamente sus firmas y el pliego que lo contenga. El representante del Ministerio Público asistirá a la diligencia.
 
-> <small>(F. DE E., D.O. 15 DE ENERO DE 1942)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 1141.
 
-Cumplido lo prescrito en sus respectivos casos en los artículos del 2324 al 2328 del Código Civil, el Juez, en presencia del Notario, testigos, representante del Ministerio Público y Secretario, abrirá el testamento, lo leerá para sí y después le dará lectura en voz alta, omitiendo lo que deba permanecer en secreto.
+Cumplido lo prescrito en sus respectivos casos en los artículos del 2408 al 2412 del Código Civil, el Juez, en presencia del Notario, testigos, representante del Ministerio Público y Secretario, abrirá el testamento, lo leerá para sí y después le dará lectura en voz alta, omitiendo lo que deba permanecer en secreto.
 
 En seguida firmarán al margen del testamento las personas que hayan intervenido en la diligencia, con el Juez y el Secretario, y se le pondrá el sello del Juzgado, levantándose acta de todo ello.
 
@@ -6081,21 +6161,27 @@ En seguida firmarán al margen del testamento las personas que hayan intervenido
 
 Será preferida para la protocolización de todo testamento cerrado, la Notaría del lugar en que haya sido abierto, y si hubiere varias, se preferirá la que designe el promovente.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 1143.
 
-Si se presentaren dos o más testamentos cerrados de una misma persona, sean de la misma fecha o de diversa, el Juez procederá respecto a cada uno de ellos como se previene en este Capítulo y los hará protocolizar en un mismo oficio para los efectos a que haya lugar en los casos previstos por los artículos 2286 y 2288 del Código Civil.
+Si se presentaren dos o más testamentos cerrados de una misma persona, sean de la misma fecha o de diversa, el Juez procederá respecto a cada uno de ellos como se previene en este Capítulo y los hará protocolizar en un mismo oficio para los efectos a que haya lugar en los casos previstos por los artículos 2368 y 2370 del Código Civil.
 
 ### CAPITULO X. De la declaración de ser formal
 
 el testamento privado
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 1144.
 
-El Tribunal competente para conocer de una sucesión, que tenga noticia de que el autor de la herencia depositó un testamento ológrafo, como se dispone en el artículo 2334 del Código Civil, dirigirá oficio al encargado del Archivo Notarial del Estado a fin de que le remita el pliego cerrado en que el testador declaró que se contiene su última voluntad.
+El Tribunal competente para conocer de una sucesión, que tenga noticia de que el autor de la herencia depositó un testamento ológrafo, como se dispone en el artículo 2418 del Código Civil, dirigirá oficio al encargado del Archivo Notarial del Estado, a fin de que le remita el pliego cerrado en que el testador declaró que se contiene su última voluntad.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 1145.
 
-Recibido el pliego, procederá el tribunal como se dispone en el artículo 2342 del Código Civil.
+Recibido el pliego, procederá el tribunal como se dispone en el artículo 2426 del Código Civil.
 
 ###### ARTICULO 1146.
 
@@ -6103,9 +6189,11 @@ Si para la debida identificación fuere necesario reconocer la firma, por no exi
 
 ### CAPITULO XI. Del testamento militar
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 1147.
 
-A instancia de parte legítima formulada ante el tribunal del lugar en que se haya otorgado, puede declararse formal el testamento privado a que se refiere el artículo 2346 del Código Civil.
+A instancia de parte legítima formulada ante el tribunal del lugar en que se haya otorgado, puede declararse formal el testamento privado a que se refiere el artículo 2430 del Código Civil.
 
 ###### ARTICULO 1148.
 
@@ -6121,9 +6209,13 @@ Hecha la solicitud se señalarán día y hora para el examen de los testigos que
 
 Para la información se citará al representante del Ministerio Público, quien tendrá obligación de asistir a las declaraciones de los testigos y repreguntarlos para asegurarse de su veracidad.
 
-Los testigos declararán al tenor del interrogatorio respectivo, que se sujetará estrictamente a lo dispuesto en el artículo 2356 del Código Civil.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
 
-Recibidas las declaraciones, el tribunal procederá conforme al artículo 2356 del Código Civil.
+Los testigos declararán al tenor del interrogatorio respectivo, que se sujetará estrictamente a lo dispuesto en el artículo 2439 del Código Civil.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
+Recibidas las declaraciones, el tribunal procederá conforme al artículo 2440 del Código Civil.
 
 ###### ARTICULO 1150.
 
@@ -6131,9 +6223,11 @@ De la resolución que niegue la declaración solicitada pueden apelar el promove
 
 ### CAPITULO XII. Del testamento marítimo
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 1151.
 
-Luego que el tribunal reciba, por conducto del Secretario de la Defensa Nacional, el parte a que se refiere el artículo 2363 del Código Civil, citará a los testigos que estuvieren en el lugar, y respecto a los ausentes, mandará exhorto al tribunal del lugar donde se hallen.
+Luego que el tribunal reciba, por conducto del Secretario de la Defensa Nacional, el parte a que se refiere el artículo 2447 del Código Civil, citará a los testigos que estuvieren en el lugar, y respecto a los ausentes, mandará exhorto al tribunal del lugar donde se hallen.
 
 ###### ARTICULO 1152.
 
@@ -6143,9 +6237,11 @@ En lo demás, se observará lo dispuesto en el Capítulo que antecede.
 
 ### CAPITULO XIII. Del testamento hecho en país extranjero
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 1153.
 
-Hechas las publicaciones que ordena el artículo 2371 del Código Civil, podrán los interesados ocurrir al Tribunal competente para que pida de la Secretaria de Relaciones Exteriores la remisión del testamento o directamente a ésta, para que lo envíe.
+Hechas las publicaciones que ordena el artículo 2455 del Código Civil, podrán los interesados ocurrir al Tribunal competente para que pida de la Secretaria de Relaciones Exteriores la remisión del testamento o directamente a ésta, para que lo envíe.
 
 ### CAPITULO XIV. De las sucesiones de menor cuantía
 
@@ -6153,7 +6249,7 @@ Hechas las publicaciones que ordena el artículo 2371 del Código Civil, podrán
 
 ###### ARTICULO 1154.
 
-Si el testamento fuere ológrafo, luego que lo reciba el encargado del Archivo Notarial tomará razón en el libro a que se refiere el artículo 2338 del Código Civil, asentando acta en que se hará constar haber recibido el pliego del Secretario de Legación, Cónsul o Vicecónsul por conducto de la Secretaría de Relaciones Exteriores, así como las circunstancias en que se halle la cubierta. En todo lo demás obrará como se dispone en el Capítulo IV, Título Tercero, Libro Cuarto del Código Civil.
+Si el testamento fuere ológrafo, luego que lo reciba el encargado del Archivo Notarial tomará razón en el libro a que se refiere el artículo 2422 del Código Civil, asentando acta en que se hará constar haber recibido el pliego del Secretario de Legación, Cónsul o Vicecónsul por conducto de la Secretaría de Relaciones Exteriores, así como las circunstancias en que se halle la cubierta. En todo lo demás obrará como se dispone en el Capítulo IV, Título III, Libro IV del Código Civil.
 
 ###### ARTICULO 1155.
 
@@ -6211,9 +6307,11 @@ Los juicios hereditarios en que el valor de los bienes no exceda de doscientas v
 
 Las resoluciones que en estos juicios se pronuncien, no tendrán más recurso que el de responsabilidad.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 1167.
 
-Cuando entre los bienes de la sucesión figure el patrimonio de la familia, los Jueces observarán bajo su responsabilidad lo dispuesto en los artículos 2387 y 2388 del Código Civil.
+Cuando entre los bienes de la sucesión figure el patrimonio de la familia, los Jueces observarán bajo su responsabilidad lo dispuesto en los artículos 2472 y 2473 del Código Civil.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -6296,3 +6394,7 @@ D.O. 3 DE DICIEMBRE DE 1991.
 > <small>(F. DE E., D.O. 31 DE MARZO DE 1992)</small>
 
 UNICO.- El presente Decreto entrará en vigor tres días después de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 31 DE DICIEMBRE DE 1993.
+
+UNICO.- Este Decreto entrará en vigor a los noventa días de su publicación en el Diario Oficial del Gobierno del Estado.
