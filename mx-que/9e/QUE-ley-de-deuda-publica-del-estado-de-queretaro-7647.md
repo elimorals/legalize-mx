@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-deuda-publica-del-estado-de-queretaro-7647"
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-07"
-last_updated: "1988-01-07"
+last_updated: "1995-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1995.
 
 Ley Publicada en el Periódico Oficial del Estado de Querétaro, el jueves 7 de enero de 1988.
 
@@ -111,7 +111,7 @@ I.- Presentar a la Legislatura del Estado las iniciativas de Ley de Ingresos y P
 
 II.- Remitir a la Legislatura del Estado los programas financieros de los Municipios.
 
-III.- informar a la Legislatura del Estado de la situación de la deuda Pública, en forma previa a la remisión de la Ley de Ingresos y el Presupuesto de Egresos y de los movimientos en ella habidos al rendir la cuenta pública.
+III.- Informar a la Legislatura del Estado de la situación de la deuda Pública, en forma previa a la remisión de la Ley de Ingresos y el Presupuesto de Egresos y de los movimientos en ella habidos al rendir la cuenta pública.
 
 ###### ARTICULO 12.
 
@@ -138,6 +138,10 @@ IX.- Vigilar que se hagan oportunamente los pagos de amortizaciones, intereses y
 X.- Vigilar que la capacidad de pago de las entidades que contraten financiamiento sea suficiente para cubrir puntualmente los compromisos que contraigan. Para tal efecto deberá supervisar en forma permanente el desarrollo de los programas de financiamiento aprobados, así como la adecuada estructura financiera de las entidades acreditadas.
 
 XI.- Llevar el registro de las obligaciones financieras derivadas de la contratación de empréstitos y créditos anotando el monto, características y destino de los recursos.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1995)</small>
+
+XII.- Turnar trimestralmente a la Legislatura, la información que se refiera a la evolución de las finanzas públicas, de la cual, una vez aprobada, se publicará un resumen en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga", y simultáneamente en alguno de los periódicos locales de mayor circulación.
 
 ###### ARTICULO 13.
 
@@ -248,3 +252,17 @@ LIC. MARIANO PALACIOS ALCOCER
 El Secretario de Gobierno,
 
 LIC. JOSE MARIA HERNANDEZ SOLIS
+
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY
+
+P.O. 28 DE DICIEMBRE DE 1995
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan a la presente Ley.
+
+###### ARTICULO TERCERO.
+
+Esta Ley entrará en vigor el 1º de enero de 1996.
