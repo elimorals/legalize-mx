@@ -4,7 +4,7 @@ identifier: "GUA-ley-arancelaria-para-el-cobro-de-honorarios-de-abogados-y-9931"
 country: "mx"
 rank: "ley"
 publication_date: "1953-03-08"
-last_updated: "1953-03-08"
+last_updated: "1956-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ARANCELARIA PARA EL COBRO DE HONORARIOS DE ABOGADOS Y NOTARIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 1956.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1953.
 
@@ -183,7 +183,7 @@ IV.- Si exceden de $1,000.00 hasta $10,000.00 sobre el exceso, el 2%.
 
 V.- De más de $10,000.00 hasta $20,000.00, por lo que exceda, el 1½%.
 
-VI.- De más de $20,000.00 hasta $50,000.00 por lo que exceda, el 1 %.
+VI.- De más de $20,000.00 hasta $50,000.00 por lo que exceda, el 1%.
 
 VII.- De $50,000.00 en adelante, el ½%.
 
@@ -209,7 +209,7 @@ I.- Si el interés del negocio no excede de $5,000.00, 3% sobre su cuantía.
 
 II.- Si excede de $5,000.00, pero no de $20,000.00, se aplicará el inciso anterior y por el excedente, hasta la cuantía del negocio, 2%.
 
-III.- Si excede de $20,000.00 pero no de $50,000.00, se aplicarán los incisos anteriores y por el excedente, hasta la cuantía del negocio, el 1%.
+III.- Si excede de $20,000.00 pero no de $ 50,000.00, se aplicarán los incisos anteriores y por el excedente, hasta la cuantía del negocio, el 1%.
 
 IV.- Si excede de $50,000.00, se aplicarán los incisos anteriores y por el excedente, hasta la cuantía del negocio, por cada $10,000.00 o fracción, el 1/2%.
 
@@ -293,7 +293,7 @@ I.- Si el valor no excede de $500.00, $20.00.
 
 II.- Si el valor no excede de $2,000.00, $35.00.
 
-III.- Si no excede de $5,000.00. $50.00.
+III.- Si no excede de $5,000.00, $50.00.
 
 IV.- Si no excede de $7,500.00, $75.00.
 
@@ -359,15 +359,25 @@ Siempre que una escritura o acto notarial contenga diversos contratos, los derec
 
 Por los contratos notariales hechos fuera de oficina o en días feriados, con excepción de los protestos, percibirán un 50% más sobre el valor de la cuota ordinaria; pero si tales trabajos se ejecutaren entre las 22 horas y las 7 horas del siguiente día, percibirán el doble de las cuotas señaladas.
 
+> <small>(REFORMADO, P.O.9 DE SEPTIEMBRE DE 1956)</small>
+
 ###### ARTICULO 45.
 
 Por Ratificación de Escrituras Privadas, percibirán:
 
-Cuando el valor no llegue a $100.00, $10.00.
+Cuando el valor no llegue a $100.00, $10.00
 
-Cuando el valor no llegue a $500.00 y sea mayor de $100.00, $20.00.
+De $100.00 a menos de $500.00 $20.00
 
-Cuando el valor sea de $500.00 a $1,000.00, $30.00.
+De $500.00 a menos de $1,000.00 $30.00
+
+De $1,000.00 a menos de $5,000.00 $40.00
+
+De $5,000.00 a menos de $10,000.00 $50.00
+
+De $10,000.00 a menos de $50,000.00 $75.00
+
+De $50,000.00 en adelante por cada $10,000.00 o fracción de exceso $10.00 además de lo que corresponda conforme a los incisos anteriores.
 
 ###### ARTICULO 46.
 
@@ -434,3 +444,9 @@ JOSE AGUILAR Y MAYA
 El Secretario General del Gobierno,
 
 LIC. ENRIQUE MENDOZA ORTIZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE SEPTIEMBRE DE 1956.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL CODIGO CIVIL VIGENTE.
