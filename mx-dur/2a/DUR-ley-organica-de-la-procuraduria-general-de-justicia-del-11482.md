@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-procuraduria-general-de-justicia-del-11482"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1987-12-31"
-last_updated: "1987-12-31"
+last_updated: "2001-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11482&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 31 de diciembre de 1987.
 
@@ -31,15 +31,15 @@ EL CIUDADANO LICENCIADO JOSE RAMIREZ GAMERO, GOBERNADOR CONSTITUCIONAL DEL ESTAD
 
 Que la H. Legislatura del mismo se ha servido dirigirme el siguiente:
 
-Con fecha 28 de mayo del presente año, el Titular del Poder Ejecutivo del Estado, envió a esta H. LVII Legislatura Iniciativa de Decreto, la cual fue turnada a las Comisiones Unidas de Justicia y Seguridad Pública integradas por los CC. Diputados Lic. Juan Manuel Félix León, Rómulo Nava Martínez y Profr. José Angel Ibañez Montes, mismos que emitieron su dictámen favorable con base en los siguientes:
+Con fecha 28 de mayo del presente año, el Titular del Poder Ejecutivo del Estado, envió a esta H. LVII Legislatura Iniciativa de Decreto, la cual fue turnada a las Comisiones Unidas de Justicia y Seguridad Pública integradas por los CC. Diputados Lic. Juan Manuel Félix León, Rómulo Nava Martínez y Profr. José Angel Ibañez Montes, mismos que emitieron un dictamen favorable con base en los siguientes:
 
 CONSIDERANDOS
 
-Que el Titular del Poder Ejecutivo del Estado ha contraído el compromiso de promover e impulsar la reforma jurídica integral, para dotar al Estado del orden normativo que las necesidades del presente demandan y afianzar el Estado de Derecho, y favorecer la procuración e impartición de justicia, pronta, expedita y debida, que figura entre los principales postulados de la Ley Suprema.
+Que el Titular del Poder Ejecutivo del Estado ha contraído el compromiso de promover la reforma jurídica integral, para dotar al Estado del orden normativo que las necesidades del presente demandan y afianzar el Estado de Derecho, y favorece la procuración e impartición de justicia, pronta, expedita y debida, que figura entre los principales postulados de la Ley Suprema.
 
 Por lo anterior, es preciso revisar y actualizar la estructura y las atribuciones de los órganos de que dispone el Ejecutivo en este ámbito, en forma tal que puedan cumplir con adecuada base legal y eficiencia su importante encomienda.
 
-En el ordenamiento, se abandona la tradicional denominación de Ley Orgánica del Ministerio Público, que corresponde al que se encuentra en vigor, y se le sustituye por la de Ley Orgánica de la Procuraduría General de Justicia del Estado, siguiendo en éste como en otros aspectos, a la Ley Orgánica de la Procuraduría General de la República y a la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal, y además, porque se ha considerado que, aún cuando el Ministerio Público es la Institución vertebral de la Procuraduría, su Titular ostenta otras atribuciones, que personalmente le confiere la Constitución y, en virtud de que la Procuraduría, considerada como Dependencia del Ejecutivo, abarca órganos diversos y auxiliares del Ministerio Público.
+En el ordenamiento, se abandona la tradicional denominación de Ley Orgánica del Ministerio Público, que corresponde al que se encuentra en vigor, y se le sustituye por el de Ley Orgánica de la Procuraduría General de Justicia del Estado, siguiendo en éste como en otros aspectos, a la Ley Orgánica de la Procuraduría General de Justicia del Distrito Federal, y además, porque se ha considerado que, aún cuando el Ministerio Público es la Institución vertebral de la Procuraduría, su Titular ostenta otras atribuciones, que personalmente le confiere la Constitución y, en virtud de que la Procuraduría, considerada como Dependencia del Ejecutivo, abarca órganos diversos y auxiliares del Ministerio Público.
 
 El Decreto propone un cambio sustancial de técnica normativa superando convenciones tradicionales que hasta ahora han llevado a organizar en la Ley, con detalle, prácticamente todas las unidades de la institución.
 
@@ -57,11 +57,11 @@ La atribución escencial (sic) de la Procuraduría que tradicionalmente es de ma
 
 Otra atribución fundamental, es la vigilancia de la legalidad y la promoción de la pronta, expedita y debida impartición de justicia. Es precisamente en esta fundamental atribución, que se debe fortalecer, donde con más intensidad destacada el papel del Ministerio Público como custodio del principio de legalidad.
 
-Se destaca con particular atención en la Ley Orgánica, la Intervención del Ministerio Público como representante de los menores o incapaces y la vigilancia del respeto de sus intereses actuando como cabal Representante Social.
+Se destaca con particular atención a la Ley Orgánica, la Intervención del Ministerio Público como representante de los menores o incapaces y la vigilancia del respeto de sus intereses actuando como cabal Representante Social.
 
-En el ordenamiento se advierte la conveniencia de que el Ministerio Público practique visitas a los diversos lugares de detención, destinados a la prisión preventiva, en su carácter de Representante Social.
+En el ordenamiento se advierte la convivencia de que el Ministerio Público practique visitas a los diversos lugares de detención, destinados a la prisión preventiva, en su carácter de Representante Social.
 
-En el ordenamiento se preserva y expone, el consejo jurídico que incumbe al Procurador con respecto al Gobierno del Estado y se precisa que, es atribución del Ministerio Público la de representar al Estado ante lo órganos jurisdiccionales en todos los negocios en que éste sea parte o tenga interés.
+En el ordenamiento se preserva y expone, el consejo jurídico que incumbe al Procurador con respecto al Gobernador del Estado y se precisa que, es atribución del Ministerio Público la de representar al Estado ante lo órganos jurisdiccionales en todos los negocios en que éste sea parte o tenga interés.
 
 La Institución exige selección y profesionalización del personal que ejerza las diversas funciones de procuración de justicia; es por ello que, con especial interés, se precisa la obligación de aprobar los exámenes correspondientes y acreditar los cursos que se impartan, para ingresar y permanecer al servicio de la Institución.
 
@@ -109,7 +109,9 @@ A. En la averiguación previa:
 
 I.- Recibir denuncias, acusaciones o querellas sobre conductas o hechos que puedan constituir delito;
 
-II.- Investigar los delitos del orden común con el auxilio de la Policía Judicial, de los servicios periciales y de la Policía Preventiva;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2001)</small>
+
+II.- Investigar los delitos del orden común con el auxilio de la Policía Ministerial, de los Servicios Periciales y de la Policía Preventiva;
 
 III.- Practicar las diligencias necesarias, para la comprobación del cuerpo del delito y la probable responsabilidad de quienes en ellos hubieren intervenido, para fundamentar, en su caso, el ejercicio de la acción penal;
 
@@ -207,9 +209,11 @@ Para el cumplimiento de sus atribuciones, el Ministerio Público podrá requerir
 
 ### CAPITULO SEGUNDO. Bases de Organización
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 11o.
 
-La Procuraduría General de Justicia del Estado, estará presidida por el Procurador, Jefe de la Institución del Ministerio Público y de sus órganos auxiliares. La Procuraduría contara con los Subprocuradores, Oficial Mayor, Supervisor General, Contralor Interno, las Direcciones Generales, las Unidades Administrativas Técnicas y demás personal que sea necesario para el ejercicio de las funciones, con la competencia que fije el reglamento de esta ley, tomando en consideración las previsiones presupuestales.
+La Procuraduría General de Justicia del Estado, estará presidida por el Procurador, Jefe de la Institución del Ministerio Público y de sus órganos auxiliares. La Procuraduría contara con los Sub-Procuradores, Visitador General, Contralor Interno, las Direcciones Generales, las Unidades Administrativas Técnicas y demás personal que sea necesario para el ejercicio de las funciones, con la competencia que fije el Reglamento de esta ley, tomando en consideración las previsiones presupuestales.
 
 ###### ARTICULO 12o.
 
@@ -219,37 +223,37 @@ Los Sub-Procuradores auxiliaran al Procurador en las funciones que esta Ley y su
 
 Son auxiliares directos del Ministerio Público:
 
-I.- La Policía Judicial;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2001)</small>
+
+I.- La Policía Ministerial.
 
 II.- Los Servicios Periciales de la Procuraduría General de Justicia del Estado; y
 
 III.- La Policía Preventiva a solicitud del Ministerio Público, en cuyo caso deberá ejecutar las órdenes que reciba tendientes a la persecusión de los delitos del orden común.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 14o.
 
-El Procurador General de Justicia del Estado, será nombrado y removido libremente por el Gobernador, de quien dependerá en forma directa.
+El Procurador General de Justicia del Estado, será nombrado y removido de conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado.
 
 Para ser Procurador General de Justicia del Estado se deben reunir los requisitos que establece la Constitución Política Local, y deberá residir en el lugar en donde tengan su asiento los Poderes del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 15o.
 
-Los Subprocuradores y el Oficial Mayor serán nombrados y removidos libremente por el Gobernador del Estado.
+Los Sub-Procuradores serán nombrados y removidos libremente por el Gobernador del Estado.
 
-Para ser Subprocurador se deben reunir los requisitos exigidos para ser Procurador General de Justicia.
+Para ser Sub-Procurador se deben reunir los requisitos exigidos para ser Procurador General de Justicia.
 
-Para ser Oficial Mayor se requiere:
+Asimismo el demás personal de la Procuraduría General de Justicia del Estado, será nombrado y removido libremente por el Procurador General de Justicia del Estado.
 
-I.- Ser ciudadano duranguense, en pleno ejercicio de sus derechos;
-
-II.- Ser mayor de veintiocho años, el día de la designación; y
-
-III.- No haber sido sentenciado ejecutoriamente como responsable de delitos dolosos.
-
-Asimismo el demás personal de la Procuraduría General de Justicia del Estado, será nombrado y removido libremente por el Gobernador del Estado.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 16o.
 
-En la designación del personal del Ministerio Público, de la Policía Judicial y de los Servidores Periciales de la Procuraduría, se atenderá a las siguientes disposiciones, sin perjuicio de las normas complementarias contenidas en el Reglamento de esta ley y en los acuerdos que expida el Procurador.
+En la designación del personal del Ministerio Público, de la Policía Ministerial y de los peritos de la Procuraduría, se atenderá a las siguientes disposiciones, sin perjuicio de las normas complementarias contenidas en el Reglamento de esta Ley y en los acuerdos que expida el Procurador.
 
 Para ser Agente del Ministerio Público se requiere:
 
@@ -261,13 +265,17 @@ III.- Ser Licenciado en Derecho con autorización para el ejercicio de su profes
 
 Además de los requisitos anteriores, los Agentes del Ministerio Público auxiliares y supervisores, deberán tener cuando menos tres años de ejercicio profesional.
 
-Para ser Agente de la Policía Judicial, se deben reunir los requisitos previstos en las fracciones I y II y haber concluído cuando menos la enseñanza secundaria o grado equivalente.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2001)</small>
+
+Para ser Agente de la Policía Ministerial, se deben reunir los requisitos previstos en las fracciones I y II y haber concluido cuando menos la enseñanza secundaria o grado equivalente.
 
 Para ser Perito Oficial de la Procuraduría es preciso estar en pleno ejercicio de sus derechos, satisfacer el requisito de la fracción II y tener título legalmente expedido y registrado por la autoridad competente, o, acreditar plenamente ante la Comisión que designe el Procurador, los conocimientos técnicos, científicos o artísticos correspondientes a la disciplina sobre la que deba dictaminar, cuando de acuerdo con la Ley de Profesiones del Estado, no necesite título para su ejercicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 17o.
 
-Para ingresar o permanecer al servicio de la Procuraduría como Agente del Ministerio Público, de la Policía Judicial o miembro de los Servicios Periciales, los interesados deberán presentar y aprobar los exámenes de ingreso y acreditar los cursos que imparta la institución y a juicio del Procurador, participar en los concursos de oposición o de méritos a que se convoque.
+Para ingresar o permanecer al servicio de la Procuraduría como Agente del Ministerio Público, de la Policía Ministerial o miembro de los servicios periciales, los interesados deberán presentar y aprobar los exámenes de ingreso y acreditar los cursos que imparta la institución y a juicio del Procurador, participar en los concursos de oposición o de méritos a que se convoque.
 
 Todos los servidores de la Institución están obligados a seguir los cursos que se establezcan para su mejoramiento profesional.
 
@@ -283,9 +291,11 @@ Todos los servidores de la Institución tienen la obligación de acreditar los c
 
 El Procurador expedirá los acuerdos, circulares y los manuales de organización y procedimiento conducentes al buen despacho de las funciones de la Procuraduría y resolverá, por sí o por conducto del funcionario que determine, sobre el ingreso, la promoción, la adscripción, las renuncias, las sanciones y los estímulos de sus subalternos, sin perjuicio de las disposiciones que regulen las relaciones laborales entre el Ejecutivo Estatal y quienes presten a éste sus servicios.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 20o.
 
-El Procurador o, por delegación de éste, los Subprocuradores o el Oficial Mayor, podrán adscribir discrecionalmente al personal de la Institución en el desempeño de las funciones que a éste corresponden, y encomendar a sus subalternos, según su calidad como Agentes del Ministerio Público y de la Policía Judicial o como Peritos de la Institución el estudio, dictámen y actuación que en estos casos especiales estime pertinentes.
+El Procurador, por delegación de éste, y los Sub-Procuradores podrán adscribir discrecionalmente al personal de la Institución en el desempeño de las funciones que a esta corresponden, y encomendar a sus subalternos, según su calidad como Agentes del Ministerio Público y de la Policía Ministerial o como peritos de la institución el estudio, dictamen y actuación que en estos casos especiales estime pertinentes.
 
 ###### ARTICULO 21o.
 
@@ -295,9 +305,11 @@ El personal de la Procuraduría podrá auxiliar a otras autoridades que legalmen
 
 El Procurador ejercerá autoridad jerárquica sobre el personal de la Institución, sin perjuicio de la autonomía técnica que corresponda a los peritos en el estudio de los asuntos que se sometan a su conocimiento y en la emisión de los dictámenes respectivos.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 23o.
 
-La Policía Judicial actuará bajo la autoridad y el mando del Ministerio Público en los términos del artículo 21 de la Constitución Federal, auxiliándolo en la investiación (sic) de los delitos del orden común. Para este efecto, podrá recibir denuncias y querellas sólo cuando por la urgencia del caso no sea posible la presentación directa de aquellas ante el ministerio público, pero deberá dar cuenta sin demora a éste para que acuerde lo que legalmente proceda. Conforme las instrucciones que por escrito o verbalmente se le dicten, la policía judicial desarrollará las diligencias que deban practicarse durante la averiguación previa y exclusivamente para los fines, hará cumplir las citaciones, notificaciones y presentaciones que se le ordenen, y ejecutará las órdenes de aprehensión, los cateos y otros mandamientos que emita la autoridad judicial.
+La Policía Ministerial actuará bajo la autoridad y el mando del Ministerio Público en los términos del artículo 21 de la Constitución Federal, auxiliándolo en la investigación de los delitos del orden común. Para este efecto, podrá recibir denuncias y querellas sólo cuando por la urgencia del caso no sea posible la presentación directa de aquellas ante el Ministerio Público, pero deberá dar cuenta sin demora a éste para que acuerde lo que legalmente proceda. Conforme las instrucciones que por escrito o verbalmente se le dicten, la Policía Ministerial desarrollará las diligencias que deban practicarse durante la Averiguación Previa y exclusivamente para los fines, hará cumplir las citaciones, notificaciones y presentaciones que se le ordenen, y ejecutará las órdenes de aprehensión, los cateos y otros mandamientos que emita la autoridad judicial.
 
 ###### ARTICULO 24o.
 
@@ -309,9 +321,9 @@ Los auxiliares del Ministerio Público deberán dar aviso inmediato a este en to
 
 El Procurador determinará a qué servidor público del Gobierno del Estado o del Municipio corresponde la suplencia en el caso de falta, excusa o ausencia del encargado de una Agencia del Ministerio Público, cuando no sea posible cubrirla con otro Agente de la Institución.
 
-### CAPITULO CUARTO (SIC)
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2001)</small>
 
-Del Aseguramiento y Depósito de Vehículos en los Casos de Delitos por Imprudencia.
+### CAPITULO TERCERO. De la Libertad Administrativa Bajo Caución
 
 ###### ARTICULO 26o.
 
@@ -323,7 +335,9 @@ El Ministerio Público podrá hacer efectiva la garantía si el indiciado desobe
 
 La garantía se cancelará y en su caso se devolverá al inculpado cuando se resuelva el no ejercicio de la acción penal. Consignado el caso se mantendrá vigente hasta en tanto el Juez decida su modificación o cancelación en los términos de las leyes aplicables.
 
-### CAPITULO QUINTO. Disposiciones Generales
+### CAPITULO CUARTO
+
+Del Aseguramiento y Depósito de Vehículos en los Casos de Delitos por Imprudencia.
 
 ###### ARTICULO 27o.
 
@@ -331,15 +345,21 @@ Tratándose de delitos de imprudencia, ocasionados con motivo del tránsito de v
 
 El incumplimiento del depositario, se considera como delito de abuso de confianza, y se impondrán al depositario las penas y sanciones que prevé el Código Penal para éste ilícito.
 
+### CAPITULO QUINTO. Disposiciones Generales
+
 ###### ARTICULO 28o.
 
 En el ejercicio de sus funciones, el personal de la Procuraduría observará las obligaciones inherentes a su calidad de servidores públicos, de acuerdo con sus atribuciones específicas, y actuará con la diligencia necesaria para una pronta y eficaz procuración y administración de justicia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 29o.
 
-El Procurador, los Subprocuradores, el Oficial Mayor y los Directores, otorgarán la protesta Constitucional ante el Gobernador del Estado.
+El Procurador, los Sub-Procuradores, y los Directores, otorgarán la Protesta Constitucional ante el Gobernador del Estado.
 
-El personal restante otorgará la protesta constitucional ante el funcionario público que designe el Gobernador del Estado.
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2001)</small>
+
+El personal restante otorgara la Protesta Constitucional ante el Procurador General de Justicia del Estado.
 
 Ninguna persona podrá ejercer funciones en la Institución antes de rendir la protesta que ordena el artículo 128 de la Constitución de los Estados Unidos Mexicanos y 121 de la Constitución Política del Estado.
 
@@ -349,25 +369,31 @@ Los Agentes del Ministerio Público no son recusables, pero deben excusarse del 
 
 ###### ARTICULO 31o.
 
-Los Agentes del Ministerio Público y sus Secretarios no podrán desempeñar otro puesto oficial, salvo los que autorice el Procurador, que sean compatibles con sus funciones en la Institución y los de carácter docente. No podrán ejercer la abogacía sino en causa propia, de su cónyuge, o concubina, de sus ascendientes o descendientes, de sus hermanos, adoptante o adoptado. Tampoco podrán ejercer ni desempeñar las funciones de depositario o apoderado judicial, tutor, curador, albacea judicial, a no ser que tengan el carácter de heredero o legatario. El mismo impedimento habrá para ser síndico, administrador, interventor en quiebra o concurso, comisionista, árbitro o arbitrador.
+Los Agentes del Ministerio Público y sus Secretarios no podrán desempeñar otro puesto oficial, salvo los que autorice el Procurador, que sean compatibles con sus funciones en la Institución y los de carácter docente. No podrán ejercer la abogacía sino en causa propia, de su cónyuge, o concubina, de sus ascendientes o descendientes, de sus hermanos, adoptante o adoptado. Tampoco podrán ejercer ni desempeñar las funciones de depositario o apoderado judicial tutor, curador, albacea judicial, a no ser que tengan el carácter de heredero o legatario. El mismo impedimento habrá para ser síndico, administrador, interventor en quiebra o concurso, comisionista, árbitro o arbitrador.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 32o.
 
-El Ministerio Público y la Policía Judicial sólo podrán expedir constancias o registros que obren, en su poder, cuando exista mandamiento de autoridad competente que funde y motive su requerimiento; o cuando lo soliciten el denunciante o querellante, el inculpado o su defensor y quien tenga interés legítimo.
+El Ministerio Público y la Policía Ministerial solo podrán expedir constancias o registros que obren, en su poder, cuando exista mandamiento de autoridad competente que funde y motive su requerimiento; o cuando lo soliciten el denunciante o querellante, el inculpado o su defensor y quien tenga interés legítimo.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 33o.
 
-La desobediencia o resistencia a las órdenes legalmente fundadas del Ministerio Público o de la Policía Judicial, dará lugar al empleo de medidas de apremio, o a la imposición de correcciones disciplinarias, según el caso, en los términos que previene el Código de Procedimientos Penales. Cuando la desobediencia o resistencia constituya delito, se iniciará la averiguación previa, conforme a derecho.
+La desobediencia o resistencia a las órdenes legalmente fundadas del Ministerio Público o de la Policía Ministerial, dará lugar al empleo de medidas de apremio, o a la imposición de correcciones disciplinarias, según el caso, en los términos que previene el Código de Procedimientos Penales. Cuando la desobediencia o resistencia constituya delito, se iniciará la Averiguación Previa, conforme a Derecho.
 
 ###### ARTICULO 34o.
 
 Cuando se impute la comisión de un delito a un Agente del Ministerio Público, el Juez que conozca del asunto pedirá al Procurador que lo ponga a su disposición sin perjuicio de que se adopten las medidas cautelares que correspondan para evitar que el inculpado se sustraiga a la acción de la justicia. El Procurador se atendrá a lo dispuesto por el órgano jurisdiccional.
 
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 35o.
 
-Se podrá imponer al personal de la Procuraduría, por las faltas en que incurran en el servicio, las sanciones administrativas previstas en la Ley de Responsabilidades de los funcionarios y empleados del Estado y de los Municipios, mediante el procedimiento que dicha ley previene.
+Se podrá imponer al personal de la Procuraduría, por las faltas en que incurran en el servicio, las sanciones administrativas previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios mediante el procedimiento que dicha Ley previene.
 
-En el caso de la Policía Judicial, se aplicarán las mismas sanciones administrativas. El Director General de la corporación o el servidor público a cargo del mando de dicha policía, podrá imponer las sanciones administrativas de arresto hasta por treinta y seis horas, retención en el servicio o privación de permisos de salida hasta por quince días, de acuerdo con la gravedad de la falta.
+En el caso de la Policía Ministerial, se aplicarán las mismas sanciones administrativas. El Director General de la corporación o el servidor público a cargo del mando de dicha Policía, podrá imponer las sanciones administrativas de arresto hasta por treinta y seis horas, retención en el servicio o privación de permisos de salida hasta por quince días, de acuerdo con la gravedad de la falta.
 
 TRANSITORIOS:
 
@@ -390,3 +416,15 @@ Por tanto mando se imprima, publique, circule y comuníquese a quienes correspon
 DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo. a los veinticuatro días del mes de noviembre de mil novecientos ochenta y siete.
 
 El Gobernador Constitucional del Estado, LIC. JOSE RAMIREZ GAMERO.- El Secretario General de Gobierno, LIC. GUSTAVO RIVERA RAMOS.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE OCTUBRE DEL 2001
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
