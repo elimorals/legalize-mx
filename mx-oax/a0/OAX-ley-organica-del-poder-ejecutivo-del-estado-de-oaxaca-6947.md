@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-6947"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-12-01"
-last_updated: "1993-10-02"
+last_updated: "1994-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6947&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 1994.
 
-Ley publicada en el Periódico Oficial del Estado de Oaxaca, el 1° de diciembre de 1992.
+Ley publicada en el Periódico Oficial Organo del Estado de Oaxaca, el 1° de diciembre de 1992.
 
 DECRETO No. 20 APROBADO POR LA QUINCUAGESIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL ESTADO, QUE CONTIENE LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA.
 
@@ -111,29 +111,33 @@ La información relativa a los sistemas de organización, funcionamiento, comuni
 
 De la Organización de la Administración Pública Centralizada.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1994)</small>
+
 ###### ARTICULO 17.
 
-Para el ejercicio de sus atribuciones y el despacho de los asuntos que son de su competencia, el Titular del Poder Ejecutivo contará con el auxilio de las siguientes Dependencias de la Administración Pública Centralizada.
+Para el ejercicio de sus atribuciones y el despacho de los asuntos que son de su competencia, el Titular del Poder Ejecutivo contará con el auxilio de las siguientes dependencias de la Administración Pública Centralizada:
 
-I SECRETARIA GENERAL DE GOBIERNO
+I.- SECRETARIA GENERAL DE GOBIERNO.
 
-II PROCURADURIA GENERAL DE JUSTICIA
+II.- SECRETARIA DE PROTECCION CIUDADANA.
 
-III SECRETARIA DE FINANZAS
+III.- PROCURADURIA GENERAL DE JUSTICIA.
 
-IV SECRETARIA DE ADMINISTRACION
+IV.- SECRETARIA DE FINANZAS.
 
-V CONTRALORIA GENERAL
+V.- SECRETARIA DE ADMINISTRACION.
 
-VI SECRETARIA DE DESARROLLO INDUSTRIAL Y COMERCIAL
+VI.- CONTRALORIA GENERAL.
 
-VII SECRETARIA DE DESARROLLO TURISTICO
+VII.- SECRETARIA DE DESARROLLO INDUSTRIAL Y COMERCIAL.
 
-VIII SECRETARIA DE DESARROLLO AGROPECUARIO Y FORESTAL
+VIII.- SECRETARIA DE DESARROLLO TURISTICO.
 
-IX SECRETARIA DE DESARROLLO URBANO, COMUNICACIONES Y OBRAS PUBLICAS
+IX.- SECRETARIA DE DESARROLLO AGROPECUARIO Y FORESTAL.
 
-X SECRETARIA DE SALUD
+X.- SECRETARIA DE DESARROLLO URBANO, COMUNICACIONES Y OBRAS PUBLICAS.
+
+XI.- SECRETARIA DE SALUD.
 
 ###### ARTICULO 18.
 
@@ -179,11 +183,13 @@ VIII.- Tramitar excitativas para la pronta y expedita Administración de Justici
 
 IX.- Vigilar la observancia y aplicación de disposiciones en materia de trabajo y previsión social.
 
-X.- Desarrollar Programas permanentes de Protección Civil, vigilancia del orden Público y Prevención de Delitos.
+X.- (DEROGADA, P.O. 10 DE JUNIO DE 1994)
 
-XI.- Reglamentar y Aplicar Normas Técnicas y Operativas para el Tránsito de Vehículos en las Poblaciones, Carreteras y Caminos de Jurisdicción Estatal.
+XI.- (DEROGADA, P.O. 10 DE JUNIO DE 1994)
 
-XII.- Otorgar Concesiones y Permisos para la explotación de Servicios de Autotransportes en las Poblaciones, Carreteras y Caminos de Jurisdicción Estatal, sujetándose a lo dispuesto en la Fracción Anterior.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1994)</small>
+
+XII.- Otorgar concesiones y permisos para la explotación de servicios de autotransporte en las poblaciones, carreteras y caminos de jurisdicción estatal, sujetándose a lo dispuesto por la Ley y Reglamento de la materia.
 
 XIII.- Organizar y dirigir el ejercicio de las funciones del Registro Civil y del Registro Público de la Propiedad y del Comercio.
 
@@ -191,11 +197,11 @@ XIV.- Tramitar los Nombramientos que para el ejercicio de las Funciones Notarial
 
 XV.- Llevar el Libro de Registro de Notarios y organizar y controlar el Archivo General de Notarías.
 
-XVI.- Elaborar y ejecutar los Programas de Readaptación Social de los Infractores.
+XVI.- (DEROGADA, P.O. 10 DE JUNIO DE 1994)
 
-XVII.- Administrar los Centros de Readaptación Social y Tramitar por Acuerdo del Gobernador las solicitudes de Extradición, Amnistía, Indultos, Libertad Anticipada y Traslado de Reos.
+XVII.- (DEROGADA, P.O. 10 DE JUNIO DE 1994)
 
-XVIII.- Vigilar las Instituciones y la aplicación de las Normas Preventivas Tutelares de Menores Infractores.
+XVIII.- (DEROGADA, P.O. 10 DE JUNIO DE 1994)
 
 XIX.- Proponer al Gobernador del Estado el otorgamiento de Pensiones de Gracia o Premios Extraordinarios en beneficio de Oaxaqueños distinguidos.
 
@@ -232,6 +238,34 @@ XXXIV.- Establecer anualmente el Calendario Oficial que regirá en el Estado.
 XXXV.- Tramitar lo relacionado con los Nombramientos, Licencias, Remociones y Renuncias de los Magistrados del Tribunal Superior de Justicia.
 
 XXXVI.- Los demás que le señalen las Leyes, Decretos y Reglamentos.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 1994)</small>
+
+ARTICULO 20 BIS.- A la Secretaría de Protección Ciudadana corresponde el despacho de los siguientes asuntos:
+
+I.- Conducir la política del Estado en todo lo relacionado con la seguridad pública, la prevención de delitos y la readaptación de delincuentes con estricto respeto a los derechos humanos;
+
+II.- Capacitar, en los términos de Ley a los miembros de los cuerpos de seguridad pública estatal y municipal;
+
+III.- Implantar programas permanentes de protección civil, vigilancia del orden público y prevención de delitos;
+
+IV.- Coordinar e implantar todas las acciones relacionadas con la protección civil para casos de emergencia y de desastres;
+
+V.- Reglamentar y aplicar normas técnicas y operativas para el tránsito de vehículos en las poblaciones, carreteras y caminos de jurisdicción estatal;
+
+VI.- Elaborar y ejecutar los programas de readaptación social de los infractores;
+
+VII.- Administrar los centros de readaptación social y tramitar por acuerdo del Gobernador las solicitudes de extradición, amnistía, indulto, libertad anticipada y traslado de reos;
+
+VIII.- Vigilar las instituciones y la aplicación de las normas preventivas tutelares de menores infractores;
+
+IX.- Celebrar convenios con los sectores productivos, para el efecto de establecer centros de trabajo dentro y fuera de los centros de readaptación social, para beneficio de los procesados, sentenciados y liberados;
+
+X.- Celebrar convenios de coordinación con los municipios del Estado en materia de seguridad pública;
+
+XI.- Celebrar convenios de coordinación con el Ejecutivo Federal y con las Entidades Federativas en materia de seguridad pública con la debida intervención del Procurador General de Justicia del Estado; y
+
+XII.- Las demás que le encomiende expresamente el Titular del Ejecutivo Estatal.
 
 ###### ARTICULO 21.
 
@@ -832,3 +866,9 @@ SUFRAGIO EFECTIVO. NO REELECCION.- EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxac
 P.O. 2 DE OCTUBRE DE 1993.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE JUNIO DE 1994.
+
+PRIMERO.- Se abrogan las disposiciones que se opongan al presente decreto.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
