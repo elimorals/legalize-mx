@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-13039"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-10-08"
-last_updated: "1988-10-08"
+last_updated: "1990-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 1990.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 8 de octubre de 1988.
 
@@ -113,9 +113,11 @@ III.- El Tercero, con residencia en la Ciudad de Manzanillo, comprende los Munic
 
 ### CAPITULO I. SUPREMO TRIBUNAL DE JUSTICIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 6.
 
-El Supremo Tribunal de Justicia residirá en la Capital del Estado y estará integrado por cinco Magistrados Propietarios, dos Suplentes que cubrirán las faltas temporales de cualquiera de aquéllos y dos Supernumerarios que sustituirán a los anteriores, cuando por excusa o recusación de éstos no hubiere quien pueda conocer el negocio o cuando por las mismas causas no pudiera integrarse el Pleno. Los Magistrados serán nombrados en la forma y términos que determina la Constitución Política del Estado.
+El Supremo Tribunal de Justicia residirá en la Capital del Estado y estará integrado por un número impar de Magistrados Propietarios, no menor de siete, conforme a lo acordado por el Pleno; dos suplentes que cubrirán las faltas temporales de cualquiera de aquéllos y dos Supernumerarios que sustituirán a los anteriores, cuando por excusa o recusación de éstos no hubiere quien pueda conocer el negocio o cuando por las mismas causas no pudiera integrarse el Pleno. Los Magistrados serán nombrados en la forma y términos que determina la Constitución Política del Estado.
 
 Uno de los Magistrados Propietarios será el Presidente del Tribunal, quien no integrará Sala, pero concurrirá a la discusión y votación de las resoluciones.
 
@@ -297,9 +299,15 @@ El Presidente del Supremo Tribunal tendrá a su cargo, la policía de los edific
 
 SECRETARIOS DE ACUERDOS DE LAS SALAS
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1990)</small>
+
 ###### ARTICULO 19.
 
-El Supremo Tribunal de Justicia funcionará en dos salas colegiadas integradas cada una de ellas por dos Magistrados Propietarios: Una de las salas será civil y conocerá de asuntos civiles, familiares y mercantiles; otra será penal y conocerá de asuntos de esa materia. Cada uno de los Magistrados Propietarios será ponente en los asuntos que conozca la Sala respectiva. La ponencia formulada será sometida a la consideración y resolución del Pleno de la Sala, pero cada Magistrado llevará el trámite de los negocios que le correspondan por turno, que estará bajo control de la Secretaría de Acuerdos de la Sala.
+El Supremo Tribunal de Justicia funcionará en Salas Colegiadas, integradas cada una de ellas por dos Magistrados Propietarios.
+
+El Tribunal en Pleno, acordará el número, la integración y competencia de las Salas
+
+Cada uno de los Magistrados Propietarios, será ponente en los asuntos que conozca la Sala respectiva. La ponencia formulada será sometida a la consideración y resolución del Pleno de la Sala, pero cada Magistrado llevará el trámite de los negocios que le correspondan por turno, que estará bajo control de la Secretaría de Acuerdos de la Sala.
 
 ###### ARTICULO 20.
 
@@ -1414,3 +1422,9 @@ LIC. ELIAS ZAMORA VERDUZCO.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. HECTOR DUEÑAS GONZALEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 6 DE ENERO DE 1990.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
