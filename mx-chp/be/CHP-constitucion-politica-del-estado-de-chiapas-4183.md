@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1988-12-08"
+last_updated: "1989-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1989.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -55,7 +55,7 @@ P.O. 30 DE NOVIEMBRE DE 1926.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
-### CAPITULO PRIMERO (SIC). DEL CONGRESO DEL ESTADO, DE SU ELECCION E INSTALACION
+### CAPITULO PRIMERO. DEL CONGRESO DEL ESTADO, DE SU ELECCION E INSTALACION
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -169,7 +169,7 @@ A) Los mexicanos por nacimiento o naturalización conforme a las leyes del País
 
 Pierde el derecho de ciudadano del Estado el que deje de ser ciudadano mexicano.
 
-### CAPITULO PRIMERO (SIC). DEL GOBERNADOR DEL ESTADO
+### CAPITULO PRIMERO. DEL GOBERNADOR DEL ESTADO
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1453,35 +1453,37 @@ El Territorio del Estado de Chiapas es el que posee desde que forma parte de la 
 
 Para su oganización política y administrativa se dividirá en Municipios Libres, de acuerdo con las bases contenidas en el Artículo 115 de la Constitución Federal y la Ley Orgánica respectiva, siendo los siguientes:
 
-Acacoyagua, Acala, Acapetahua, Altamirano, Amatán, Amatenango del Valle, Amatenango de la Frontera, Angel Albino Corzo, Arriaga, Bella Vista, Bejucal de Ocampo, Bochil, Berriozábal, Cacahoatán, Catazajá, Cintalapa, Comitán de Domínguez, Coapilla, Copainalá, Chamula, Chanal, Chenalhó, Chiapilla, Chiapa de Corzo, Chalchihuitán, Chilón, Chapultenango, Chicomuselo, Chicoasén, El Bosque, El Porvenir, Escuintla, Francisco León, Frontera Hidalgo, Frontera Comalapa, Huehuetán, Huitiupan, Huixtan, Huixtla, Ixhuatán, Ixtacomitán, Ixtapa, Ixtapangajoya, Jiquipilas, Jitotol, Juárez, La Concordia, La Grandeza, La Independencia, La Libertad, Las Margaritas, Las Rosas, La Trinitaria, Larrainzar, Mapastepec, Mazapa de Madero, Mazatán, Metapa, Mitontic, Motozintla, Nicolás Ruíz, Ocosingo, Ocotepec, Ocozocoautla de Espinosa, Ostuacán, Osumacinta, Oxchuc, Palenque, Pantelhó, Pantepec, Pichucalco, Pijijiapan, Pueblo Nuevo Solistahuacán, Rayón, Reforma, Sabanilla, San Cristobal de Las Casas, San Lucas, San Fernando, Salto de Agua, Siltepec, Socoltenango, Simojovel, Solosuchiapa, Suchiapa, Suchiate, Sunuapa, Sitalá, Soyaló, Tapachula, Tapalapa, Tapilula, Tecpatán, Tenejapa, Teopisca, Tila, Tonalá, Totolapa, Tumbalá, Tuxtla Gutiérrez, Tuxtla Chico, Tuzantán, Tzimol, Unión Juárez, Venustiano Carranza, Villaflores, Villa Corzo, Villacomaltitlán, Yajalón y Zinacantán.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1989)</small>
 
-El Estado de Chiapas se encuentra situado al Sur Este de la República Mexicana, limitado entre las Coordenadas geográficas de 14º 33' y 17º 57' de latitud Norte, con 90º 22' y 94 08' de longitud oeste del meridiano Greenwich; colinda al Norte con el Estado de Tabasco, al Sur con el Océano Pacífico, al Este con la República de Guatemala y al Oeste con los Estados de Oaxaca y Veracruz, contando una área general de 74,415 kilómetros cuadrados.
+Acacoyagua, acala, acapetahua, altamirano, amatan, amatenango del valle, amatenango de la frontera, angel albino corzo, arriaga, bella vista, bejucal de ocampo, bochil, berriozabal, cacahoatan, san juan cancuc, catazaja, cintalapa, Comitán de Dominguez, Coapilla, Copainala, Chamula, Chanal, Chenalho, Chiapilla, Chiapa de Corzo, Chalchihuitán, Chilón, Chapultenango, Chicomuselo, Chicoasen, el bosque, el porvenir, escuintla, francisco leon, frontera hidalgo, frontera comalapa, huehuetan, huitiupan, huixtan, huixtla, ixhuatan, ixtacomitan, ixtapa, ixtapangajoya, jiquipilas, jitotol, Juarez, la concordia, la grandeza, la independencia, la libertad, las margaritas, las rosas, la trinitaria, larrainzar, mapastepec, mazapa de madero, mazatan, metapa, mitontic, motozintla, nicolas ruiz, ocosingo, ocotepec, ocozocoautla de espinosa, ostuacan, Osumacinta, oxchuc, palenque, pantelho, pantepec, Pichucalco, Pijijiapan, pueblo nuevo solistahuacan, rayon, reforma, sabanilla, San cristobal de las casas, san lucas, san fernando, salto de agua, siltepec, socoltenango, simojovel, solosuchiapa, Suchiapa, Suchiate, sunuapa, sitala, soyalo, Tapachula, Tapalapa, Tapilula, Tecpatan, tenejapa, teopisca, tila, tonala, totolapa, tumbala, tuxtla gutierrez, tuxtla chico, Tuzantan, Tzimol, Union Juárez, venustiano carranza, villaflores, villa corzo, villacomaltitlan, Yajalon y Zinacantán.
 
-Por el Oeste, se inicia en su parte media de la Isla de "León" lugar de la Pesquería "el Cachimbo" y con deflexión de línea al Nor-oeste pasando cerca de la Pesquería "la Gloria" que corresponde al Estado de Chiapas, llega a la cima del Cerro de "La Jineta", vértice apreciado como referencia al Norte franco del pueblo de Tapanatepec, Oaxaca.
+> <small>(DEROGADO CUARTO PARRAFO, P.O. 27 DE DICIEMBRE DE 1989)</small>
 
-De la cima de el Cerro "La Jineta" con pequeña deflexión al Nor-este de 6º a 8º continúa hacia el vértice del cerro de "Los Martínez" en donde se ubica el punto trino que sirve de límite afirmativo de Oaxaca, Veracruz y Chiapas.
+> <small>(DEROGADO QUINTO PARRAFO, P.O. 27 DE DICIEMBRE DE 1989)</small>
 
-Del vértice del Cerro de "Los Martínez" continúa al Nor-este hacia el Cerro "Mono Pelado", esta línea en colindancia con el Estado de Veracruz.
+> <small>(DEROGADO SEXTO PARRAFO, P.O. 27 DE DICIEMBRE DE 1989)</small>
 
-Siguiendo el Cerro de "Mono Pelado", al Nor-este hasta encontrar el Arroyo de "Amacoite" y aguas abajo se llega a la confluencia con el Río Mezcalapa, colindando con el Estado de Tabasco.
+> <small>(DEROGADO SEPTIMO PARRAFO, P.O. 27 DE DICIEMBRE DE 1989)</small>
 
-De esta confluencia considerandose al Norte, se sigue nuevamente aguas abajo del Río Grijalva hasta llegar a la Unión del Río "Blanquillo" hoy Río de Pichucalco, próximo a la ciudad de Villahermosa, antes San Juan Bautista.
+> <small>(DEROGADO OCTAVO PARRAFO, P.O. 27 DE DICIEMBRE DE 1989)</small>
 
-Cambiando con deflexión hacia el sur franco continúa el lindero hasta la proximidad del pueblo de Teapa siguiendo el curso de aguas arriba del Río "Blanquillo".
+> <small>(DEROGADO NOVENO PARRAFO, P.O. 27 DE DICIEMBRE DE 1989)</small>
 
-Con cambios de rumbos al Sureste, este franco y Sur-este nuevamente, pasando por inmediaciones de los pueblos de Amatán, Chiapas y Oxolotán, Tabasco, hasta el cruce del Río "Tapijulapa".
+> <small>(DEROGADO DECIMO PARRAFO, P.O. 27 DE DICIEMBRE DE 1989)</small>
 
-Con rumbos al Nor-este y este franco llega hasta el Río Osumacinta colindando en todo este señalamiento con el Estado de Tabasco, límite señalado en el año de 1743 por el Alcalde Mayor de Chiapas Don Antonio Sua Zua y Mújica y el Gobernador de Tabasco don Francisco Barti.
+> <small>(DEROGADO DECIMO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1989)</small>
 
-En colindancia por el Este, continuando hacia el Sur-este aguas arriba del Río Osumacinta se llega a la boca del Río "Chacamax", siguiendo el mismo rumbo, dejando a la izquierda al Río Osumacinta y en un tramo de tierra firme llega al vértice internacional con la República de Guatemala (hoy conocido como el vértice del raudal valuarte), encontrándose nuevamente el Río Osumacinta siguiendo el curso mencionado del mismo Río y aguas arriba sobre margen derecho llega al punto conocido actualmente como el vértice de "Chixoy", colindando con la República de Guatemala.
+> <small>(DEROGADO DECIMO SEGUNDO PARRAFO, P.O. 27 DE DICIEMBRE DE 1989)</small>
 
-Cambiando deflexión al Oeste franco y con lindero internacional bien demarcado llega al vértice del Cerro de "Ixbul" (hoy vértice de Santiago).
+> <small>(DEROGADO DECIMO TERCER PARRAFO, P.O. 27 DE DICIEMBRE DE 1989)</small>
 
-Cambiando rumbo al Sur-Oeste sigue hasta llegar al vértice de las Cumbres de "Buena Vista".
+> <small>(DEROGADO DECIMO CUARTO PARRAFO, P.O. 27 DE DICIEMBRE DE 1989)</small>
 
-Prosigue con deflexion al Sur-este y llega al punto de laderas del Cerro de "Tacana", de este vértice siguiendo el curso del Río Suchiate aguas abajo llega hasta la desembocadura del mismo en el Oceano Pacífico, lugar de la Barra del Suchiate antes Barra de Ocos siguiendo la colindancia con la República de Guatemala.
+> <small>(DEROGADO DECIMO QUINTO PARRAFO, P.O. 27 DE DICIEMBRE DE 1989)</small>
 
-El lindero por el sur siguiendo de la Barra del Suchiate por la porción del litoral del Océano Pacífico y llega al punto de la Isla del "León" vértice inicial.
+> <small>(DEROGADO DECIMO SEXTO PARRAFO, P.O. 27 DE DICIEMBRE DE 1989)</small>
+
+> <small>(DEROGADO DECIMO SEPTIMO PARRAFO, P.O. 27 DE DICIEMBRE DE 1989)</small>
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1892,3 +1894,9 @@ La reforma del artículo 36 constitucional, entrará en vigor el 9 de diciembre 
 ###### ARTICULO TERCERO.
 
 En un término no mayor de 90 días, el Congreso expedirá la Ley de Justicia Administrativa.
+
+P.O. 27 DE DICIEMBRE DE 1989.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
