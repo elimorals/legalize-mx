@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2004-04-06"
+last_updated: "2004-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -923,9 +923,13 @@ VI. Hacer que oportunamente se remitan a la Contaduría General de Glosa de la L
 
 VII. Intervenir en la formulación del inventario general de los bienes muebles e inmuebles propiedad del municipio, haciendo que se inscriban en el libro especial, con expresión de sus valores y de todas las características de identificación, así como el uso y destino de los mismos;
 
-VIII. Regularizar la propiedad de los bienes inmuebles municipales;
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2004)</small>
 
-IX. Inscribir los bienes inmuebles municipales en el Registro Público de la Propiedad;
+VIII. Regularizar la propiedad de los bienes inmuebles municipales, para ello tendrán un plazo de ciento veinte días hábiles, contados a partir de la adquisición;
+
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2004)</small>
+
+IX. Inscribir los bienes inmuebles municipales en el Registro Público de la Propiedad, para iniciar los trámites correspondientes tendrán un plazo de ciento veinte días hábiles contados a partir de aquel en que concluyo el proceso de regularización;
 
 > <small>(REFORMADA, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
@@ -1301,7 +1305,11 @@ IX. Compilar leyes, decretos, reglamentos, periódicos oficiales del estado, cir
 
 X. Expedir las constancias de vecindad que soliciten los habitantes del municipio, a la brevedad, en un plazo no mayor de 24 horas, así como las certificaciones y demás documentos públicos que legalmente procedan, o los que acuerde el ayuntamiento;
 
-XI. Elaborar con la intervención del síndico el inventario general de bienes muebles e inmuebles propiedad del municipio, de los destinados a un servicio público, los de uso común y los propios;
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2004)</small>
+
+XI. Elaborar con la intervención del síndico el inventario general de los bienes muebles e inmuebles municipales, así como la integración del sistema de información inmobiliaria, que contemple los bienes del dominio público y privado, en un término que no exceda de un año contado a partir de la instalación del ayuntamiento y presentarlo al cabildo para su conocimiento y opinión.
+
+En el caso de que el ayuntamiento adquiera por cualquier concepto bienes muebles o inmuebles durante su ejercicio, deberá realizar la actualización del inventario general de los bienes muebles e inmuebles y del sistema de información inmobiliaria en un plazo de ciento veinte días hábiles a partir de su adquisición y presentar un informe trimestral al cabildo para su conocimiento y opinión.
 
 XII. Integrar un sistema de información que contenga datos de los aspectos socio-económicos básicos del municipio;
 
@@ -2249,7 +2257,7 @@ PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
 
-G.G. 15 DE FEBRERO DE 1999.
+G.G. 15 DE FEBRERO DE 1999
 
 ###### ARTICULO PRIMERO.
 
@@ -2306,3 +2314,11 @@ SEGUNDO.- El presente decreto entrará en vigor al quinto día de su publicació
 TERCERO.- Para el caso del presupuesto de egresos correspondiente al ejercicio fiscal 2004, su publicación en la "Gaceta Municipal" se hará a más tardar el día treinta y uno de julio del presente año.
 
 CUARTO.- En lo subsecuente, las administraciones municipales deberán adecuar sus presupuestos para el ejercicio fiscal correspondiente, conforme a las disposiciones del presente decreto.
+
+G.G. 6 DE SEPTIEMBRE DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Para cumplir con lo establecido en los artículos 53 fracciones VIII y IX y 91 fracción XI de la Ley Orgánica Municipal, los actuales Ayuntamientos, tendrán un término de ciento veinte días hábiles a partir del inicio de la vigencia del presente decreto, para iniciar el procedimiento a que se hace referencia, respecto de los inmuebles que se hayan adquirido antes de la publicación del presente decreto.
