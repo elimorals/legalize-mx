@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-trabajo-prevision-32939
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-07-10"
-last_updated: "2003-07-10"
+last_updated: "2004-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE TRABAJO Y PREVISION SOCIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2004.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el jueves 10 de julio de 2003.
 
@@ -341,9 +341,11 @@ XVI. Las demás que le señalen las leyes y reglamentos, así como las que le co
 
 ### CAPÍTULO X. DE LA SUPLENCIA
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 18.
 
-El Secretario será suplido en sus ausencias temporales que no excedan de quince días, por el Director General que al efecto designe.
+El secretario será suplido en las ausencias por cualquiera de los directores generales señalados en el artículo 8 del presente reglamento.
 
 ###### Artículo 19.
 
@@ -366,3 +368,11 @@ LIC. MIGUEL ALEMÁN VELAZCO
 GOBERNADOR DEL ESTADO
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 30 DE DICIEMBRE DE 2004.
+
+Primero. El presente decreto entrará en vigor el día de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
