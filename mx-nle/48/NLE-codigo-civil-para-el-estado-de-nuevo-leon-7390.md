@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1997-07-21"
+last_updated: "1998-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1998.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -110,6 +110,18 @@ Los habitantes del Estado tienen obligación de ejercer sus actividades y de usa
 Cuando alguno explotando la suma ignorancia, notoria inexperiencia o extrema miseria de otro, obtiene un lucro excesivo que sea evidentemente desproporcionado a lo que él por su parte se obliga, el perjudicado tiene derecho de pedir la rescisión del contrato, y de ser ésta imposible, la reducción equitativa de su obligación.
 
 El derecho concedido en este artículo dura un año.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 1998)</small>
+
+###### Art. 17 Bis.
+
+Con excepción de lo dispuesto en el Artículo 2289, los conceptos de interés serán los siguientes:
+
+El interés legal será igual al promedio del costo porcentual promedio publicado por el Banco de México, en el Diario Oficial de la Federación, durante el tiempo que media entre la fecha de nacimiento de la obligación y el período mensual inmediato anterior al día de su vencimiento.
+
+El interés legal moratorio será igual al promedio del costo porcentual promedio publicado por el Banco de México, en el Diario Oficial de la Federación, durante el tiempo que media entre la fecha del vencimiento de la obligación y el período mensual inmediato anterior al día en que efectivamente se haga el pago e incrementado en un veinticinco por ciento de su propio valor.
+
+El interés convencional es el acordado por las partes, y puede ser mayor o menor que el interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, de la extrema necesidad, de la inexperiencia o de la ignorancia del deudor, a petición de éste el Juez, teniendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal.
 
 ###### Art. 18.
 
@@ -12293,13 +12305,19 @@ Es permitido estipular interés por el mutuo, ya consista en dinero, ya en géne
 
 El interés es legal o convencional.
 
-> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 1998)</small>
 
 ###### Art. 2289.
 
-El interés legal puede ser compensatorio será igual al promedio del Costo Porcentual Promedio dado a conocer por la institución oficial correspondiente durante el tiempo que media entre la fecha del nacimiento de la obligación y el período mensual inmediato anterior al día de su vencimiento. El interés legal moratorio será igual al promedio del Costo Porcentual Promedio dado a conocer por la institución oficial correspondiente durante el tiempo que media entre la fecha del vencimiento de la obligación y el período mensual inmediato anterior al día en que efectivamente se haga el pago e incrementado (sic) en un veinticinco por ciento de su propio valor.
+El interés legal será del nueve por ciento anual.
 
-El interés convencional es el que fijen los contratantes, y puede ser mayor o menor que el interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecunario, de la inexperiencia o de la ignorancia del deudor, a petición de éste el Juez, teniendo en cuenta las especiales circunstancias del caso, podrá reducir equitativamente el interés hasta el tipo legal.
+El interés legal moratorio será del doce por ciento anual.
+
+El interés convencional será el que acuerden las partes sin que deba ser igual o mayor al costo porcentual promedio publicado por el Banco de México, en el Diario Oficial de la Federación, en la fecha próxima anterior al día en que se acuerde, tanto si el pago deba hacerse en dinero o en especie.
+
+El interés convencional moratorio será el que acuerden las partes, sin que deba exceder al costo porcentual promedio publicado por el Banco de México, en el Diario Oficial de la Federación, en la fecha próxima anterior al día del acuerdo, incrementado con un diez por ciento de su propio valor.
+
+Se consideran ilícitos, nulos de pleno derecho, y se tendrán por no pactados, los acuerdos en oposición a lo preceptuado en este Artículo.
 
 ###### Art. 2290.
 
@@ -15970,6 +15988,14 @@ El presente Decreto entrará en vigor a los treinta días siguientes contados a 
 ###### ARTICULO SEGUNDO.
 
 Las demandas presentadas, los juicios que estén en trámite en primera o segunda instancia, o en su etapa de ejecución al entrar en vigor el presente Decreto, se seguirán rigiendo por las normas anteriores.
+
+P.O. 20 DE JULIO DE 1998.
+
+Primero.- En el caso de que desaparezca el costo porcentual promedio, y en tanto se realice el cambio normativo al respecto, se aplicará el que lo sustituyó o en su defecto el que más se le aproxime.
+
+Segundo.- Los intereses a los que se refiere el presente Decreto regirán para los contratos o actos jurídicos que se celebren a partir del inicio de su vigencia.
+
+Tercero.- El presente Decreto iniciará su vigencia el siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO TERCERO.
 
