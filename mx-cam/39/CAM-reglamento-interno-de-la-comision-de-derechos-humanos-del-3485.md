@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interno-de-la-comision-de-derechos-humanos-del-3485"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-10-20"
-last_updated: "2003-10-27"
+last_updated: "2004-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2004.
 
 Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el miércoles 20 de octubre de 1993.
 
@@ -98,6 +98,28 @@ El personal de la Comisión Estatal prestará sus servicios inspirado, primordia
 ###### ARTICULO 12.
 
 Las funciones y atribuciones de la Comisión Estatal son las que establece el artículo 6o. de su Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
+
+Para efectos de lo dispuesto en la fracción X del mismo articulado, la Comisión a través de los visitadores penitenciarios, practicarán periódicamente visitas de supervisión a los centros de internamiento para adultos y menores del Estado, así como centros de detención administrativa estatales y municipales con el siguiente objetivo:
+
+I. Inspeccionar el local de la reclusión y detención para verificar las condiciones físicas en las que se encuentra;
+
+II. Hacer cesar en el acto cualquier violación de derechos humanos de inmediata reparación;
+
+III. Proponer prácticas administrativas que redunden en una mejor protección física y mental de los reclusos y detenidos;
+
+IV. Dar audiencia a los internos y detenidos para escuchar sus necesidades, atender sus peticiones, recibir y tramitar las quejas individuales y colectivas sobre presuntas violaciones a sus derechos humanos;
+
+V. Supervisar y realizar el seguimiento de los programas de capacitación laboral, educativos y de salud, y las medidas de readaptación social ordenadas;
+
+VI. Vigilar el respeto de los derechos que garantizan una estancia digna y segura en la prisión, así como en los centros de detención administrativa; y
+
+VII. Tramitar beneficios de ley y solicitudes de traslado de reos sentenciados ante las autoridades correspondientes.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
+
+De dichas visitas se deberá levantar un acta circunstanciada en la que se señalarán las observaciones y recomendaciones pertinentes debiendo ir firmada por todos los concurrentes.
 
 ### CAPITULO II. COMPETENCIA EN MATERIA DE PRESUNTAS VIOLACIONES A DERECHOS HUMANOS
 
@@ -175,9 +197,9 @@ II.- Unidad de Información Automatizada; y
 
 III.- Secretaría Particular.
 
-> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-###### ARTÍCULO 21 Bis.
+###### ARTICULO 21 Bis.
 
 El Centro Estatal de Estudios en Derechos Humanos, tendrá las siguientes atribuciones:
 
@@ -187,7 +209,7 @@ II.- Promover el estudio y enseñanza de los Derechos Humanos dentro del Sistema
 
 III.- Elaborar materiales didácticos y de divulgación, en materia de derechos humanos, en coordinación con la Unidad de Información Automatizada;
 
-IV,- Realizar investigación académica e interdisciplinaria especializada en materia de derechos humanos;
+IV.- Realizar investigación académica e interdisciplinaria especializada en materia de derechos humanos;
 
 V.- Contribuir a la formación de investigadores en materia de derechos humanos;
 
@@ -195,13 +217,21 @@ VI.- Dirigir, impulsar e incrementar el acervo de la Biblioteca de la Comisión 
 
 VII.- Promover el intercambio académico con instituciones nacionales e internacionales; y
 
-VIII.- Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el Presidente de la Comisión Estatal.
+VIII.- Fomentar el reconocimiento de los derechos humanos en el orden jurídico local;
+
+IX.- Promover el diseño e implementación de planes y políticas encaminadas a la efectiva observancia de los derechos humanos; y
+
+X. Procurar la protección, observancia, promoción, estudio y divulgación de los derechos humanos previstos por el orden jurídico mexicano, inherentes a los miembros de los pueblos indígenas establecidos en el Estado;
+
+XI.- Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el Presidente de la Comisión Estatal;
 
 Para el desempeño de sus funciones, el Centro Estatal de Estudios en Derechos Humanos, contará con las siguientes áreas:
 
-I.- Departamento de Capacitación y Divulgación; y
+I.- Visitaduría de Asuntos Indígenas;
 
-II.- Departamento de Investigación y Análisis.
+II.- Departamento de Capacitación y Divulgación; y
+
+III.- Departamento de Investigación y Análisis;
 
 Además contará con el personal profesional, técnico y administrativo autorizado en el presupuesto de egresos de la Comisión Estatal.
 
@@ -218,6 +248,8 @@ II.- Programar, sistematizar, actualizar y proveer la información contenida en 
 III.- Promover y apoyar la capacitación del personal de la Comisión para el uso y manejo de los sistemas de información existentes y los de nueva adquisición;
 
 IV.- Las demás que le confieran las disposiciones legales, así como aquellas que le asigne el Presidente de la Comisión Estatal.
+
+IV.- (sic) Todas aquellas tareas que le sean asignadas por el Presidente de la Comisión Estatal.
 
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2003)</small>
 
@@ -345,71 +377,79 @@ Durante el desarrollo de las sesiones ordinarias del Consejo Consultivo, los Vis
 
 El Consejo Consultivo de la Comisión Estatal contará con un Secretario Técnico que será designado en los términos establecidos por el Artículo 17, segundo párrafo, de la Ley. El Secretario Técnico acordará con el Presidente de la Comisión Estatal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-###### ARTÍCULO 36.
+###### ARTICULO 36.
 
 El Secretario Técnico del Consejo Consultivo tendrá las siguientes funciones:
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2004)</small>
+
+A).- Respecto al Consejo Consultivo:
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
 I.- Proponer el proyecto de acta de las sesiones ordinarias y extraordinarias que el Consejo Consultivo celebre;
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
 II.- Remitir oportunamente a los consejeros citatorios, órdenes del día y demás material indispensable para realizar las sesiones ordinarias y extraordinarias;
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
 III.- Brindar a los Consejeros el apoyo necesario para el mejor cumplimiento de sus responsabilidades;
 
-IV.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+B).-Respecto al área operativa:
 
-V. Dirigir la edición de las publicaciones que realice la Comisión Estatal en coordinación con la Unidad de Información Automatizada;
+IV.- (DEROGADA, P.O. 5 DE OCTUBRE DE 2004)
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
+
+V.- Dirigir la edición de las publicaciones que realice la Comisión Estatal en coordinación con la Unidad de Información Automatizada;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
 VI.- Supervisar las actividades de distribución y comercialización de las publicaciones;
 
-VII.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
+VII.- (DEROGADA, P.O. 5 DE OCTUBRE DE 2004)
 
-VIII.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
+VIII.- (DEROGADA, P.O. 5 DE OCTUBRE DE 2004)
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
 IX.- Operar el sistema de evaluación del cumplimiento de las Recomendaciones con los Visitadores Generales y solicitar a éstos, en su caso, la práctica de diligencias que fueren necesarias a fin de verificar la información recibida;
 
-> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
 X.- Solicitar informes adicionales a las autoridades a quienes se dirigió una Recomendación, a fin de que precisen datos o aporten otros elementos para poder evaluar el grado de cumplimiento;
 
-> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-XI. - Enviar oficios recordatorios a las autoridades destinatarias de Recomendaciones y Propuestas de Conciliación a efecto de que cumplan con los plazos previstos en este Reglamento para el cumplimiento de esas resoluciones emitidas;
+XI.- Enviar oficios recordatorios a las autoridades destinatarias de Recomendaciones y Propuestas de Conciliación a efecto de que cumplan con los plazos previstos en este Reglamento para el cumplimiento de esas resoluciones emitidas;
 
-> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
 XII.- Informar a los quejosos respecto del cumplimiento de las Recomendaciones correspondientes; realizando tal función en coordinación con los Visitadores Generales;
 
-> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-XIII.- Coordinar labores con los Visitadores Generales, otorgando y solicitando los informes que resulten indispensables;
+XIII.- Coordinar labores con los Visitadores Generales, otorgando y solicitando los Informes que resulten indispensables;
 
-> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
 XIV.- Presentar al Presidente de la Comisión Estatal informes mensuales y los proyectos anuales sobre los datos estadísticos de los diversos programas operativos que ejecuta la Comisión Estatal, así como del seguimiento de las Recomendaciones;
 
-> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
 XV.- Elaborar los proyectos de informes que el Presidente de la Comisión Estatal deba enviar a las autoridades, sobre el estado que guarde el cumplimiento de cada una de las Recomendaciones que les han sido enviadas;
 
-> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
 XVI.- Promover y fortalecer las relaciones con las Organizaciones No-Gubernamentales pro Derechos Humanos existentes en el Estado y en el País; y
 
-> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
 XVII.- Las demás que al efecto le establezcan el Presidente o el Consejo Consultivo de la Comisión Estatal.
 
@@ -471,63 +511,67 @@ El titular de la Secretaría Ejecutiva será designado y removido, de manera lib
 
 Además de las funciones establecidas en el artículo 21 de la Ley, corresponderá a la Secretaría Ejecutiva:
 
-I.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
+I.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)(REPUBLICADA, P.O. 5 DE OCTUBRE DE 2004)
 
-II.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
+II.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)(REPUBLICADA, P.O. 5 DE OCTUBRE DE 2004)
 
-III.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
+III.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)(REPUBLICADA, P.O. 5 DE OCTUBRE DE 2004)
 
-IV.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
+IV.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)(REPUBLICADA, P.O. 5 DE OCTUBRE DE 2004)
 
-V.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
+V.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)(REPUBLICADA, P.O. 5 DE OCTUBRE DE 2004)
 
-VI.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
+VI.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)(REPUBLICADA, P.O. 5 DE OCTUBRE DE 2004)
 
-VII.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
+VII.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)(REPUBLICADA, P.O. 5 DE OCTUBRE DE 2004)
 
 VIII.- Administrar el Archivo General de la Comisión Estatal;
 
-IX.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
+IX.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)(REPUBLICADA, P.O. 5 DE OCTUBRE DE 2004)
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-X.- Atender las necesidades administrativas de las oficinas de la Comisión Estatal, de acuerdo con los lineamientos generales fijados por el Consejo Consultivo, el Órgano Interno de Control y por el Presidente del Organismo;
+X. Atender las necesidades administrativas de las oficinas de la Comisión Estatal, de acuerdo con los lineamientos generales fijados por el Consejo Consultivo, el Órgano Interno de Control y por el Presidente del Organismo;
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-XI.- Establecer, con la aprobación del Presidente de la Comisión Estatal, las políticas, normas, criterios, sistemas y procedimientos para la administración de los recursos humanos, financieros y materiales del Organismo y la prestación de servicios generales de apoyo;
+XI. Establecer, con la aprobación del Presidente de la Comisión Estatal, las políticas, normas, criterios, sistemas y procedimientos para la administración de los recursos humanos, financieros y materiales del Organismo y la prestación de servicios generales de apoyo;
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-XII.- Coordinar la elaboración del informe anual de labores y del programa operativo anual, así como del proyecto de presupuesto de la Comisión Estatal y vigilar su cumplimiento de acuerdo con la aprobación del Consejo Consultivo;
+XII. Coordinar la elaboración del informe anual de labores y del programa operativo anual, así como del proyecto de presupuesto de la Comisión Estatal y vigilar su cumplimiento de acuerdo con la aprobación del Consejo Consultivo;
 
-XIII.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
+XIII.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)(REPUBLICADA, P.O. 5 DE OCTUBRE DE 2004)
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-XIV.- Autorizar las adquisiciones de acuerdo con los preceptos legales y los lineamientos que fijen el Órgano Interno de Control y el titular de la Comisión Estatal;
+XIV. Autorizar las adquisiciones de acuerdo con los preceptos legales y los lineamientos que fijen el Órgano Interno de Control y el titular de la Comisión Estatal;
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-XV.- Conservar y custodiar los bienes muebles e inmuebles de la Comisión Estatal, conforme a los lineamientos que al efecto se dicten y llevar el registro y control de los mismos;
+XV. Conservar y custodiar los bienes muebles e inmuebles de la Comisión Estatal conforme a los lineamientos que al efecto se dicten y llevar el registro y control de los mismos;
 
-XVI.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
+XVI.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)(REPUBLICADA, P.O. 5 DE OCTUBRE DE 2004)
 
-XVII. - (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
+XVII. - (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)(REPUBLICADA, P.O. 5 DE OCTUBRE DE 2004)
 
-XVIII.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)
+XVIII.- (DEROGADA, P.O. 27 DE OCTUBRE DE 2003)(REPUBLICADA, P.O. 5 DE OCTUBRE DE 2004)
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-XIX.- Proponer al Presidente de la Comisión Estatal la formulación y actualización de la estructura orgánica de los órganos y las unidades administrativas de la Comisión Estatal;
+XIX. Proponer al Presidente de la Comisión Estatal la formulación y actualización de la estructura orgánica de los órganos y las unidades administrativas de la Comisión Estatal;
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-XX.- Proponer y fortalecer las relaciones de la Comisión Estatal con Instituciones y Dependencias públicas, nacionales y estatales, en materia de Derechos Humanos; y
+XX. Proponer y fortalecer las relaciones de la Comisión Estatal, con Instituciones y Dependencias públicas, nacionales y estatales, en materia de Derechos Humanos;
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-XXI.- Las demás que al efecto le establezcan el Presidente o el Consejo Consultivo de la Comisión Estatal.
+XXI. Establecer las políticas de contratación, relaciones y desarrollo laboral, así como implementar el servicio civil de carrera y supervisar su cumplimiento; y
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2004)</small>
+
+XXII. Las demás que al efecto le establezcan el Presidente o el Consejo Consultivo de la Comisión Estatal.
 
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2003)</small>
 
@@ -573,9 +617,11 @@ IX.- Acordar con el Presidente de la Comisión los asuntos de su competencia; y
 
 X.- Las demás que le confiera el presente reglamento y otras disposiciones legales aplicables, así como aquellas que le asigne el Presidente de la Comisión Estatal.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE OCTUBRE DE 2004)</small>
+
 ### CAPITULO I. DE LA PRESENTACIÓN DE LA QUEJA
 
-## TITULO CUARTO. DEL PROCEDIMIENTO ANTE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS
+## TITULO CUARTO. DE LAS EXCUSAS E IMPEDIMENTOS
 
 ### CAPITULO II. DE LA CALIFICACIÓN DE LA QUEJA
 
@@ -715,9 +761,13 @@ En el oficio en que se solicite la información, se deberá incluir el apercibim
 
 En los casos del artículo anterior y en todos aquellos en que algún funcionario de la Comisión Estatal entable comunicación telefónica con cualquier autoridad respecto de una queja, se deberá levantar acta circunstanciada, la cual se integrará al expediente respectivo.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 70.
 
 Toda la documentación que remita la autoridad judicial deberá estar certificada y debidamente foliada.
+
+Los visitadores adjuntos, adscritos a la visitaduría general deberán foliar todas las evidencias y actuaciones integradas a los expedientes que se encuentren a su cargo. El número de folio se marcará en la esquina superior derecha de la hoja, iniciando en la primera hoja y continuando sucesivamente incluyendo los anexos correspondientes, si es que existen.
 
 ###### ARTICULO 71.
 
@@ -801,6 +851,8 @@ En el desempeño de sus funciones, los funcionarios de la Comisión Estatal esta
 
 ### CAPITULO V. DE LAS CAUSAS DE CONCLUSIÓN DE LOS EXPEDIENTES DE QUEJAS
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 85.
 
 Cuando una queja, calificada como presuntamente violatoria de Derechos Humanos, no se refiera a violaciones a los derechos a la vida o a la integridad, física o síquica, o a otras que se consideren especialmente graves por el número de afectados o sus posibles consecuencias, la misma podrá sujetarse a un procedimiento de conciliación con las autoridades señaladas como presuntamente responsables.
@@ -811,11 +863,11 @@ En el supuesto señalado en el artículo anterior, el Visitador General correspo
 
 Para este efecto podrá escucharse al quejoso.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2004)</small>
+
 ###### ARTICULO 87.
 
-La autoridad o servidor público, a quien se envíe una propuesta de conciliación, dispondrá de un plazo de quince días calendario para responder a la propuesta, también por escrito, y enviar las pruebas correspondientes.
-
-Si durante los 90 días siguientes a la aceptación de la propuesta de conciliación, la autoridad no la hubiera cumplido totalmente, el quejoso lo podrá hacer saber a la Comisión Estatal para que, en su caso, dentro del término de 72 horas hábiles, contadas a partir de la interposición del escrito del quejoso, se resuelva sobre la reapertura del expediente, determinándose las acciones que le correspondan.
+La autoridad o servidor público, a quien se envíe una propuesta de conciliación, dispondrá de un plazo de quince días calendario para responder a la propuesta, también por escrito, y enviar las pruebas correspondientes. En situaciones que a juicio de la Comisión se consideren urgentes, dicho plazo podrá ser reducido.
 
 ###### ARTICULO 88.
 
@@ -843,11 +895,11 @@ III. Por haberse dictado la Recomendación correspondiente, quedando abierto el 
 
 IV. Por haberse enviado a la autoridad o servidor público señalado como responsable un documento de No Responsabilidad;
 
-V. Por desistimiento del quejoso;
+V. Por desistimiento del quejoso, presentado antes del dictado de la resolución que ponga fin al procedimiento de queja.
 
 VI. Por falta de interés del quejoso en la continuación del procedimiento; o
 
-VII. Por haberse solucionado la queja mediante los procedimientos de conciliación o durante el trámite respectivo;
+VII. Por haberse solucionado la queja mediante los procedimientos de conciliación o durante el trámite respectivo.
 
 VIII. Por haber quedado sin materia la tramitación de la queja.
 
@@ -967,9 +1019,37 @@ VIII. Recomendaciones aceptadas cuyo cumplimiento reviste características pecul
 
 Una vez expedida la Recomendación, la competencia de la Comisión Estatal consiste en dar seguimiento y verificar que ella se cumpla en forma cabal. En ningún caso tendrá competencia para intervenir con la autoridad involucrada en una nueva o segunda investigación, formar parte de una Comisión Administrativa o participar en una Averiguación Previa sobre el contenido de la Recomendación.
 
-### CAPITULO UNICO
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
+###### ARTICULO 107 Bis.
+
+La Comisión Estatal también podrá emitir recomendaciones generales a las diversas autoridades del Estado, a fin de que se promuevan las modificaciones de disposiciones normativas y prácticas administrativas que constituyan o propicien violaciones a los derechos humanos. Estas recomendaciones se elaborarán de manera similar que las particulares y se fundamentarán en los estudios realizados por la propia Comisión Estatal a través de las visitadurías generales, previo acuerdo de presidente de la Comisión Estatal. Antes de su emisión estas recomendaciones se harán del conocimiento del Consejo Consultivo para su análisis y aprobación.
+
+### CAPITULO VIII
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
+
+ARTICULO 113 bis.- Los visitadores generales, adjuntos y demás personal de la Comisión, están impedidos para conocer de asuntos por alguna de las causas siguientes:
+
+I. Tener parentesco en línea recta sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado o por afinidad con alguno de los interesados o sus representantes, o con el servidor público involucrado como presunto responsable en el asunto;
+
+II. Tener amistad íntima o enemistad manifiesta con alguna de las personas a que se refiere la fracción anterior;
+
+III. Tener interés personal en el asunto, o tenerlo su cónyuge o sus familiares, en los grados que expresa la fracción primera de este artículo;
+
+IV. Tener familiaridad o vivir en familia con alguno de los interesados en el asunto que se encuentre en trámite o se pretenda tramitar ante la Comisión Estatal;
+
+V. Haber aceptado presentes o servicios de alguno de los interesados en el asunto;
+
+VI. Haber hecho promesas que impliquen parcialidad a favor o en contra de alguno de los interesados, sus representantes o haber amenazado de cualquier modo a alguno de ellos;
+
+VII. Haber sido agente del Ministerio Público, perito, testigo, apoderado, patrono o defensor en el asunto de que se trata, o haber gestionado o recomendado anteriormente a favor o en contra de alguno de los interesados, y
+
+VIII. Cualquier otro análogo a las anteriores.
+
+En caso de que un visitador general, visitador adjunto y demás personal de la Comisión Estatal tenga conocimiento de que se encuentra en alguna de las causas de impedimento deberá excusarse de inmediato del conocimiento del asunto y solicitar a su superior la calificación y determinación final sobre la excusa. De ser procedente el Presidente de la Comisión indicará sobre el servidor público que deba conocer el asunto.
 
 ###### ARTICULO 108.
 
@@ -1003,7 +1083,17 @@ Los Documentos de No Responsabilidad que expide la Comisión Estatal se refieren
 
 Cuando un quejoso de manera dolosa hubiese faltado a la verdad ante la Comisión Estatal, de acuerdo con la gravedad y circunstancias del caso, tanto aquélla como la autoridad a quien se haya imputado el acto u omisión violatorio de los Derechos Humanos, podrán presentar la denuncia penal correspondiente por el delito de falsedad en declaraciones rendidas a una autoridad distinta de la judicial.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2004)</small>
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2000)</small>
+
 ## TITULO QUINTO. INFORMES ANUALES Y ESPECIALES
+
+### CAPITULO I. DE LOS NOMBRAMIENTOS
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
 
 ###### ARTICULO 114.
 
@@ -1016,6 +1106,168 @@ En el informe anual se incluirán los datos que señala el Artículo de la Ley. 
 ###### ARTICULO 116.
 
 Cuando la naturaleza del caso lo requiera, por su importancia o gravedad, el Presidente de la Comisión Estatal podrá presentar a la opinión pública un informe especial en el que se expongan los logros obtenidos, la situación de particular gravedad que se presenta, las dificultades que para el desarrollo de las funciones de la Comisión Estatal hayan surgido, y el resultado de las investigaciones sobre situaciones de carácter general o sobre alguna cuestión que revista una especial trascendencia.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2004)</small>
+
+## TITULO SEXTO. DE LAS RELACIONES LABORALES
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2004)</small>
+
+### CAPITULO II. DIAS DE DESCANSO OBLIGATORIO
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
+
+###### ARTICULO 117.
+
+Con las excepciones establecidas en la Ley y el Reglamento corresponde al Presidente de la Comisión Estatal, nombrar libre y discrecionalmente a todo el personal del Organismo, y removerlo con apego en lo dispuesto en el artículo 119 del presente Reglamento.
+
+El nombramiento es el acto jurídico- laboral por el que una persona presta sus servicios, previo pago de un sueldo o salario acorde con el puesto o plaza que desempeña.
+
+El nombramiento deberá contener el nombre completo del trabajador, el puesto o plaza a desempeñar, la fecha a partir de la cual fue dado de alta en la nomina respectiva y la firma del Presidente de la Comisión Estatal.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
+
+###### ARTICULO 118.
+
+La Comisión Estatal no será responsable de la terminación de la relación laboral por las causas siguientes:
+
+I. RENUNCIA VOLUNTARIA,
+
+II. CESE MOTIVADO POR EL PROPIO TRABAJADOR,
+
+III. FALLECIMIENTO DEL TRABAJADOR,
+
+IV. INCAPACIDAD PERMANENTE, FÍSICA O MENTAL, QUE IMPIDA QUE EL TRABAJADOR DESEMPEÑE SU FUNCIÓN.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
+
+###### ARTICULO 119.
+
+Los trabajadores del Organismo serán sancionados a través del correspondiente procedimiento administrativo por incurrir en alguna de las prohibiciones siguientes:
+
+A) Una vez registrada su entrada laboral abandone o desatienda el mismo sin causa justificada;
+
+B) Asistir a sus labores en estado de embriaguez o bajo los efectos de algún psicotrópico, narcótico o droga enervante (estupefaciente);
+
+C) No asistir a laborar por más de tres días en un mes, sin causa justificada o sin permiso previo o autorización del superior inmediato o mediato;
+
+D) Ocasionar daños y perjuicios dolosamente o por negligencia al edificio o implementos de trabajo o poner en peligro la seguridad del local y del personal del mismo;
+
+E) Hostigar sexualmente, molestar en cualquier forma o cometer actos inmorales con los compañeros de trabajo, dentro de las oficinas que ocupa o fuera de la jornada laboral;
+
+F) Comunicar a otro u otros asuntos secretos o reservados relacionados con su labor;
+
+G) No cumplir las disposiciones que le dicten sus superiores en el ejercicio de sus Atribuciones;
+
+H) Cuando exista motivo justificado para perder la confianza que se le tenía encomendada al trabajador;
+
+I) Por sentencia ejecutoriada que imponga el juez correspondiente al trabajador por delitos dolosos que merezcan pena corporal;
+
+J) Registrar por otro la asistencia a sus labores;
+
+K) Las demás que dispongan la Ley Reglamentaria del Capitulo XVII de la Constitución Política del Estado de Campeche.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2004)</small>
+
+### CAPITULO III
+
+VACACIONES, PERMISOS Y LICENCIAS.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
+
+###### ARTICULO 120.
+
+El Presidente de la Comisión determinará a través del acuerdo respectivo los días inhábiles que gozará el personal de la Comisión Estatal, tomando como base los señalados en la Ley Federal del Trabajo.
+
+Las mujeres embarazadas disfrutarán de tres meses de Incapacidad por maternidad, misma que podrá distribuirse en dos partes antes y después del alumbramiento dependiendo de la salud de la madre y del nacimiento del producto.
+
+Durante la lactancia tendrá dos descansos extraordinarios por día de media hora cada uno, pudiendo convertirse en una hora al inicio o término de la jornada y tendrá una duración de seis meses.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2004)</small>
+
+### CAPITULO IV. DE LA ASISTENCIA
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
+
+###### ARTICULO 121.
+
+El Presidente de la Comisión de Derechos Humanos determinara los dos periodos anuales de vacaciones que el personal de la misma con más de seis meses de servicio tendrá derecho a gozar, consistente en diez días hábiles cada uno y de acuerdo a las necesidades del servicio de manera que no se interrumpan las labores de la misma.
+
+El período vacacional será independiente de cualquier incapacidad que se presente, en ningún caso el trabajador podrá renunciar a ellas, compensarse con una remuneración o ser acumulables unas con otras.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
+
+###### ARTICULO 122.
+
+Discrecionalmente el Presidente de la Comisión Estatal podrá otorgar al personal de la misma, permisos económicos con goce de sueldo, consistentes en nueve días al año, por causas personales o de fuerza mayor, no pudiendo concederse más de tres días por mes.
+
+Se consideran causas de fuerza mayor:
+
+a) Fallecimiento de padres, hijo, cónyuge o hermanos;
+
+b) Enfermedad grave o intervención quirúrgica de padres, hijo o cónyuge;
+
+c) Matrimonio del trabajador;
+
+d) Examen profesional del trabajador;
+
+e) Cuando no sean aceptados los hijos en guardería por enfermedad;
+
+f) Por haber recibido citatorio para comparecer a alguna diligencia judicial;
+
+g) Las que considere el Presidente como causa personal o fuerza mayor.
+
+Los permisos por causas personales serán negados en víspera de vacaciones, fin de semana o días de descanso obligatorio.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
+
+###### ARTICULO 123.
+
+El Presidente de la Comisión Estatal podrá conceder al personal licencias sin goce de sueldo con aprobación del Consejo Consultivo, por razones personales hasta treinta días acumulables por cada año de servicio, no excediendo de tres meses en un año.
+
+La solicitud de la misma deberá realizarse por escrito señalándose las razones de su petición cuando menos con diez días de anticipación a la convocatoria de sesión del Consejo Consultivo y tener la aprobación de su jefe superior inmediato o mediato quien deberá examinar discrecionalmente la oportunidad y necesidad de ella así como su duración. Sin embargo éstas podrán ser negadas cuando se considere que afectan la prestación del servicio de dicho Organismo.
+
+En los casos de solicitud de permisos para realizar algún curso, taller, diplomado, postgrado o similar con carácter personal deberá anexarse la documentación que acredite la mismas, y tener la autorización de su superior inmediato o mediato. El Presidente de la Comisión tendrá la facultad de negar o autorizar dicho permiso, teniendo siempre en cuenta en primer lugar las necesidades del servicio y si el Organismo obtiene algún beneficio con la aplicación de dicho conocimiento.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2004)</small>
+
+### CAPITULO V. CAPACITACION
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
+
+###### ARTICULO 124.
+
+Todos los trabajadores deben asistir a sus labores iniciando y terminando con puntualidad la jornada de trabajo que les corresponda.
+
+La jornada de trabajo será fijada por el Presidente de la Comisión De Derechos Humanos con aprobación del Consejo Consultivo al inicio de cada año laboral, tomando en consideración como premisa principal las necesidades de la ciudadanía. Se considera jornada de trabajo el tiempo durante el cual el trabajador presta sus servicios con el horario establecido de y las necesidades de servicio.
+
+El control de la misma estará a cargo de la Secretaria Ejecutiva y su registro será a través del sistema electrónico de asistencia laboral instalado en el interior del edificio que ocupe el Organismo.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2004)</small>
+
+###### ARTICULO 125.
+
+El Registro de asistencia se manejará de acuerdo a las reglas siguientes:
+
+a) Será considerado como Retardo tolerable el efectuado entre el minuto uno y el cinco después de la hora de entrada;
+
+b) Retardo menor el realizado entre el minuto cinco y el quince después de la hora de entrada;
+
+c) Retardo mayor el efectuado entre el minuto quince y el treinta de la hora fijada para la entrada laboral, misma que al acumularse tres de ellos dará lugar a una falta injustificada.
+
+d) En caso de efectuarse después de la hora considerada como retardo mayor se considerará como falta de asistencia del servidor.
+
+El hecho de no efectuar o registrar su entrada o salida respectiva sin causa justificada se considerará como falta injustificada. Por cada falta injustificada se descontará un día de sueldo.
+
+La tarjeta electrónica para registrar la asistencia laboral será proporcionada y renovada por la Comisión Estatal cuando se trate de desgaste por uso. En los casos de robo, extravío o mal uso la reposición será con cargo del trabajador.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2004)</small>
+
+###### Articulo 126.
+
+La Comisión de Derechos Humanos del Estado realizara un programa de capacitación para todos los Servidores Publias, al cual tendran acceso como una de sus acciones prioritarias La programación de los mismos estara a cargo del Centro Estatal de Estudios en Derechos Humanos, consistiendo en cuando menos dos cursos por año laboral impartidos el primero de ellos dentro del primer Semestre a costa del Organismo, quedando a cargo y elección del trabajador el segundo de ellos, teniendo como único requisito que sea acorde al fin de la Institución.
+
+Para permanecer y tener derecho a aspirar a cualquier ascenso dentro del organismo es obligatorio para todos los trabajadores asistir puntualmente a los programas de capacitación, así como aprobar los exámenes correspondientes
 
 ## TRANSITORIOS
 
@@ -1044,3 +1296,11 @@ SEGUNDO.- En lo que respecta a la instalación del Órgano Interno de Control, e
 TERCERO.- Por lo que respecta a las unidades administrativas incorporadas a la presente reforma, los titulares de éstas serán los servidores públicos de este Organismo que desempeñan esas funciones.
 
 CUARTO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan al contenido del presente acuerdo.
+
+P.O. 5 DE OCTUBRE DE 2004.
+
+PRIMERO.- Las presentes reformas y adiciones al Reglamento Interno de la Comisión de Derechos Humanos del Estado de Campeche, entrarán en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan al contenido del presente acuerdo.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Campeche, de acuerdo a lo establecido en el Artículo 29 del Reglamento Interno de la Comisión Estatal.
