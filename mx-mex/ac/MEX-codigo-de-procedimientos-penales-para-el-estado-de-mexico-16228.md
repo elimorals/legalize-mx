@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-16228
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2002-12-10"
+last_updated: "2003-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,117 +21,23 @@ state: "MEX"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
-LEY SOBRE PROTECCION Y CONSERVACION DE POBLACIONES TIPICAS Y BELLEZAS NATURALES DEL ESTADO DE PUEBLA
+CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE MAYO DEL 2003.
 
-Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 8 de abril de 1986.
+Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
-Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- H. Congreso del Estado.- Puebla.
+ARTURO MONTIEL ROJAS, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes sabed:
 
-GUILLERMO JIMENEZ MORALES, Gobernador Constitucional del Estado Libre y Soberano de Puebla, a los habitantes del mismo sabed:
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
 
-QUE por la Secretaría del H. Congreso se me ha dirigido el siguiente:
+DECRETO NUMERO 166
 
-EL HONORABLE CUADRAGESIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA,
+LA H. "LIII" LEGISLATURA DEL ESTADO DE MEXICO
 
-C O N S I D E R A N D O :
+DECRETA:
 
-QUE por Oficio número 896 de fecha 11 de Marzo de 1986, el Ciudadano Licenciado GUILLERMO JIMENEZ MORALES, Gobernador del Estado, sometió a la consideración de este Honorable Cuerpo Colegiado la Iniciativa de "LEY SOBRE PROTECCION Y CONSERVACION DE POBLACIONES TIPICAS Y BELLEZAS NATURALES DEL ESTADO DE PUEBLA".
-
-QUE para cumplir con los trámites que establecen los Artículos 64 fracción I de la Constitución Política Local, en relación con los 99, 105 y 141 fracción VI de la Ley Orgánica y Reglamentaria de este Poder legislativo, se turnó dicha Iniciativa a las Comisiones Conjuntas de Educación, Ciencia y Tecnología; y de obras Públicas, Planificación Urbana, Fomento y Desarrollo, las que en Sesión Pública celebrada en este día emitieron su Dictamen en favor de la propia Iniciativa.
-
-QUE a través del tiempo, la acción humana, ha ido causando daño a la belleza y características peculiares de los lugares y paisajes que conforman su hábitat natural, empobreciéndolo a veces, en grado extremo.
-
-QUE la intensidad de la labor agrícola, unida a la expansión de los centros de población y a las cada vez mayores áreas industriales, ha sido en detrimento del ambiente natural, en forma cada día más acelerada.
-
-QUE tal fenómeno, ha ido repercutiendo en la alteración de los valores estéticos de los diferentes sitios y paisajes naturales, así como de la desaparición paulatina de la fauna silvestre.
-
-QUE la protección de paisajes y lugares de belleza natural son necesarios para la vida del hombre, como regeneradores físicos y espirituales que contribuyen al esparcimiento, recreación y mejoramiento de la vida artística y cultural de los pueblos.
-
-QUE los lugares de belleza natural constituyen también elementos primordiales para el desarrollo económico, social y turístico de la entidad, de la nación y del mundo.
-
-QUE en consecuencia es muy importante y urgente adoptar las medidas necesarias para proteger el carácter particular de los paisajes y áreas de belleza natural.
-
-QUE la preservación del entorno ecológico y la cultura que de él se deriva, es deber impostergable para conservar el patrimonio cultural, no sólo de los mexicanos, sino de la humanidad entera.
-
-QUE por su situación geográfica y extensión, el Estado de Puebla es uno de los pocos en la República Mexicana que contiene prácticamente todos los climas y por lo tanto, los diversos ambientes ecológicos a ellos unidos.
-
-QUE tales ambientes han motivado al hombre, su habitante natural, a aprovechar su medio para construir poblaciones que reflejan en sus características arquitectónicas, la influencia y materiales del medio ambiente.
-
-QUE la defensa y protección del medio donde se desenvuelve el hombre, es la defensa de la Nación misma, de su sobrevivencia y garantía de un futuro saludable.
-
-QUE la obra del hombre, en su más elevado sentido, va configurando el patrimonio cultural de un grupo social, plasmado en el idioma, las tradiciones, las costumbres, la creación artística y demás rasgos sobresalientes.
-
-QUE el campo de la cultura, está integrado por los bienes y valores éticos, estéticos y gnoseológicos, con jerarquías diversas entre las que destaca el campo compuesto por aquellos valores relativos al espacio en donde se asienta el hombre.
-
-QUE las zonas típicas son áreas peculiares creadas por el hombre, las que a través del tiempo han desarrollado una serie de valores: arquitectónicos, históricos, artísticos, estéticos etnográficos, literarios, legendarios, ambientales y de diversa índole, lo que justifica su protección y mejoramiento.
-
-QUE el desarrollo cultural y la influencia de varias corrientes, tanto hispanas como indígenas, han conformado poblaciones de especial tipicidad que lograron una personalidad propia, diferente a las otras regiones y entidades.
-
-QUE la arquitectura vernácula y popular, característica fundamental de las zonas típicas, es parte de nuestro patrimonio cultural, y como tal, debe ser portador a las futuras generaciones, del mensaje que sus creadores le imprimieron.
-
-QUE es una obligación insoslayable contribuir a la perpetuación de las obras relevantes del quehacer humano, puesto que junto a los valores estéticos, existen fundamentos históricos, partes de una cadena cultural en la que es tan válido el eslabón grande como el pequeño, ya que, sin su continuidad, se perdería la posibilidad de conocer los elementos que dieron sentido a la sociedad en que fueron creados.
-
-QUE proteger tanto al medio ecológico, como a las obras significativas de un pueblo; es parte de la labor legislativa, la prevención y conservación del patrimonio, normadas por la Ley, dan a quienes las promueven y ejecutan, el carácter significativo de seres civilizados.
-
-QUE algunas de las expresiones más sobresalientes de esta riqueza patrimonial, como son entre otras la Arquitectura Vernácula de nuestras poblaciones, y el entorno de bellezas naturales, vienen sufriendo por la destrucción, incuria y modificación nociva, por lo que requieren con urgencia la atención, relevancia y protección de carácter legal.
-
-QUE la Ley Federal sobre Monumentos y Zonas Arqueológicas, Artísticos e Históricos de 1972, preserva específicamente los Monumentos Históricos y las Zonas Arqueológicas, y omite, como ámbito de su competencia la protección, conservación y restauración de las Poblaciones Típicas y Bellezas Naturales, por lo que resulta impostergable legislar en esta Materia, para proteger este rico patrimonio cultural.
-
-QUE estando satisfechos además los requisitos de los Artículos 57 fracción I, 63 fracción 1, 79 fracción VI de la Constitución Política del Estado; 1o, 183, 184 y 185 de la Ley Orgánica y Reglamentaria de este Poder Legislativo,
-
-D E C R E T A :
-
-LEY SOBRE PROTECCION Y CONSERVACION DE POBLACIONES TIPICAS Y BELLEZAS NATURALES DEL ESTADO DE PUEBLA
-
-DISPOSICIONES GENERALES
-
-###### ARTICULO 1o.
-
-Esta Ley tiene por objeto la protección, conservación y restauración de las poblaciones o parte de las poblaciones típicas y bellezas naturales comprendidas dentro de la Entidad.
-
-###### ARTICULO 2o.
-
-Para los efectos de esta Ley se consideran poblaciones típicas:
-
-I).- Aquéllas cuyo excepcional valor arquitectónico vernáculo y popular las hace exponentes de una corriente histórica, social y cultural del arte mexicano.
-
-II).- Las poblaciones o partes de población características de una región del Estado.
-
-III).- Los lugares de belleza natural que se ubiquen dentro de un municipio, o que por su situación geográfica comprendan dos o más de éstos.
-
-###### ARTICULO 3o.
-
-Se declara de utilidad pública la protección, conservación y restauración de las áreas de belleza natural que se encuentren dentro del territorio del Estado; de las poblaciones o parte de poblaciones; de las edificaciones o conjunto de ellas, que sean dignas de ser protegidas ya sea porque su valor arquitectónico, cultural o típico sea característico del Estado o de una región del mismo.
-
-###### ARTICULO 4o.
-
-Para que las poblaciones y áreas de que trata la presente Ley sean elevadas a la categoría de "Zona Típica Monumental", se requiere la declaración del Ejecutivo del Estado.
-
-Dicha declaratoria o la revocación de ella en su caso, deberá publicarse en el Periódico Oficial del Estado.
-
-###### ARTICULO 5o.
-
-Cuando en una población o parte de población declarada "Zona Típica Monumental" exista un inmueble que sin ser monumento histórico, represente un valor intrínseco para el Estado; dicho bien quedará tutelado en los términos que la presente Ley previene.
-
-Igual consideración se tendrá respecto a las formaciones naturales subterráneas como cavernas, grutas y galerías.
-
-###### ARTICULO 6o.
-
-Para los efectos de la declaratoria de "Zona Típica Monumental", en tratándose de lugares de belleza natural se deberán determinar con precisión sus límites y superficie.
-
-###### ARTICULO 7o.
-
-En las áreas, poblaciones o partes de poblaciones declaradas "Zona Típica Monumental", no se podrá llevar a cabo ninguna construcción o estructura, ni se podrá proceder a la demolición, reparación o modificación de las existentes, sin la previa autorización del Ejecutivo del Estado dictada en términos del artículo 32 de este Ordenamiento.
-
-###### ARTICULO 8o.
-
-Por la causa de utilidad pública señalada en el artículo 3o. de este Ordenamiento, se faculta al Ejecutivo del Estado para decretar, con arreglo a la Ley de la Materia, la expropiación de bienes de propiedad particular.
-
-###### ARTICULO 9o.
-
-La sola declaración de "Zona Típica Monumental" bastará para tener por cubiertos en el caso, los requisitos relativos a la utilidad pública por satisfacer y a las ventajas de la cosa para satisfacerla, exigidos por la Ley de Expropiación.
+CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
 ###### Artículo 1.
 
@@ -203,303 +109,251 @@ Tratándose de delitos conexos, es juez competente el que haya prevenido.
 
 Igualmente lo será para los diversos delitos que se imputen a una misma persona, aunque sean inconexos.
 
-###### ARTICULO 10.
+###### Artículo 10.
 
-Las obras que se ejecuten en las vías, plazas, jardines, atrios, cementerios y otros lugares públicos, comprendidos dentro de una población o parte de población declarada "Zona Típica Monumental", deberán estar de acuerdo con el carácter y estilo arquitectónico general de ella. Igualmente, los instrumentos tecnológicos de todo medio de comunicación, de conducción de energía eléctrica y cualquier otro tipo de instalaciones que puedan alterar el paisaje típico, deberán ser ocultos o lo menos visibles que sea posible.
+Se consideran delitos conexos para los efectos del artículo anterior:
 
-###### ARTICULO 11.
+I. Los cometidos simultáneamente por dos o más personas reunidas;
 
-Se prohíbe establecer estacionamientos de vehículos, sitios de autos de alquiler, expendios de gasolina o lubricantes; colocar kioscos, postes, templetes, puestos o cualesquiera otras estructuras, ya sean permanentes o provisionales, cuando por ello se demerite o altere la apariencia característica de la población o parte de población declarada "Zona Típica Monumental".
+II. Los cometidos por dos o más personas en distintos lugares o tiempos, a virtud de concierto entre ellas; y
 
-C A P I T U L O I
+III. Los cometidos como medio para ejecutar otros; facilitar su ejecución o procurar su impunidad.
 
-DE LOS ORGANOS COMPETENTES
+###### Artículo 11.
+
+La prevención a que se ha hecho referencia se fincará siempre que la competencia de ese juzgador lo permita.
+
+Para fijar la competencia por razón de la penalidad, se atenderá a:
+
+I. La máxima de la correspondiente al delito, tomando en consideración sus modalidades;
+
+II. La privativa de libertad, cuando la ley prevea varias de distinta naturaleza;
+
+III. La preferencia en el orden de enumeración en el artículo respectivo del código penal, cuando éste establezca varias penas que no sean privativas de libertad; y
+
+IV. La privativa de libertad que establezca mayor penalidad, en los casos de concurso de delitos.
 
 ### CAPITULO II. ACTUACIONES
 
-###### ARTICULO 12.
+###### Artículo 12.
 
-Son órganos competentes para la aplicación de la presente Ley:
+Las actuaciones deberán constar por escrito, podrán practicarse a toda hora y aun en días inhábiles, sin necesidad de previa habilitación, y en cada una de ellas se expresará el lugar, la hora, día, mes y año en que se realicen.
 
-I).- El Ejecutivo del Estado.
+En todas las actuaciones del Ministerio Público y del órgano jurisdiccional se asentarán los nombres y apellidos de todos los servidores públicos y demás personas que intervengan en ellas.
 
-II).- La Secretaría de Cultura.
+El tribunal de segunda instancia asentará al margen de sus actuaciones los nombres y apellidos de los servidores públicos que las firmen.
 
-III).- El Centro Regional de Puebla del Instituto Nacional de Antropología e Historia.
+###### Artículo 13.
 
-IV).- La Secretaría de Asentamientos Humanos y Obras Públicas.
+Los agentes del Ministerio Público, jueces y magistrados estarán asistidos en las diligencias que practiquen, por el secretario y a falta de éste, por dos testigos de asistencia que darán fe de lo que en ellas ocurra.
 
-V).- La Dirección de Turismo, y
+En las diligencias podrá emplearse cualquier medio tecnológico que posibilite su reproducción, haciéndose constar tal circunstancia en el acta respectiva.
 
-VI).- Los Ayuntamientos en cuya jurisdicción se ubique una población o parte de población, o lugar de belleza natural declarado "Zona Típica Monumental".
+###### Artículo 14.
 
-###### ARTICULO 13.
+En las actuaciones no se emplearán abreviaturas, ni se borrarán las palabras equivocadas, sobre las que sólo se pondrá una línea delgada, que permita su lectura, salvándose el error cometido, antes de las firmas. En la misma forma se salvarán palabras que se hubieren entrerrenglonado.
 
-La Secretaría de Cultura vigilará la debida observancia de los reglamentos emanados de la presente Ley, o de las declaratorias a que la misma se refiere, promoviendo en su caso ante las autoridades municipales todo lo que esté dentro de sus facultades para el cabal cumplimiento de este Ordenamiento.
+Todas las fechas y cantidades se escribirán con letra.
 
-###### ARTICULO 14.
+Ninguna actuación, autorizada, podrá cancelarse como no pasada.
 
-En los lugares respecto de los cuales se pronuncie la declaración de "Zona Típica Monumental", no se podrán hacer obras ni trabajos que destruyan, perjudiquen o alteren sus características. En consecuencia se prohíbe en ellos la explotación forestal, la destrucción de la vegetación, la alteración del ambiente natural, la colocación de anuncios y cualesquiera otros actos que puedan dar por resultado la pérdida, alteración o menoscabo del área objeto de la declaración.
+###### Artículo 15.
 
-La construcción de fraccionamientos, zonas habitacionales de cualquier tipo, así como la de edificios o estructuras de grandes proporciones que se ubiquen dentro de una "Zona Típica Monumental", deberán sujetarse a lo establecido en este Ordenamiento.
+Las actuaciones se asentarán en los expedientes en forma continua, sin dejar hojas o espacios en blanco; cuando se agreguen documentos al expediente, se hará constar el número de hoja que le corresponda.
 
-###### ARTICULO 15.
+###### Artículo 16.
 
-Se consideran de tanta importancia como las poblaciones, partes de poblaciones y áreas de belleza natural, los nombres de las mismas.
+Los agentes del Ministerio Público, en la averiguación previa, y los titulares del órgano jurisdiccional, en el proceso, recabarán del denunciante, del querellante o de sus representantes legales, de los peritos, de los testigos y de quienes intervengan en alguna diligencia, la protesta de decir verdad.
 
-Dentro de la nomenclatura se dará preferencia a los nombres más antiguos o tradicionales, los que no podrán ser cambiados o modificados.
+Colocado el declarante de pie, frente a la Bandera Nacional, y con la mano derecha sobre la Constitución Política de los Estados Unidos Mexicanos, se le tomará la protesta bajo la siguiente fórmula:
 
-Lo anterior no se contrapone al otorgamiento de títulos de villa, pueblo, ciudad, así como de heroico (a), honorable, o aquellos que la autoridad competente se sirva otorgar.
+"Los artículos 154 y 156 del código penal, castigan con penas hasta de seis y quince años de prisión, respectivamente, y de setecientos cincuenta días multa a quienes declaren falsamente. Enterado de ello, pregunto a usted en nombre de la ley, si protesta solemnemente y bajo palabra de honor, conducirse con verdad en las diligencias en que va a intervenir".
 
-###### ARTICULO 16.
+Al contestar en sentido afirmativo se hará constar y se procederá a recibir la declaración que corresponda.
 
-Cuando una área de Belleza natural colinde y se extienda hacia la jurisdicción de una o más Entidades Federativas, el Ejecutivo del Estado podrá celebrar convenios de coordinación con los titulares de dichas Entidades a fin de proteger el área en su totalidad.
+A los servidores públicos de que habla este artículo, que omitan formular la protesta en los términos referidos, se les impondrán por el superior jerárquico las correcciones disciplinarias a que se refiere el artículo 34 de este código.
 
-###### ARTICULO 17.
+###### Artículo 17.
 
-Todos los acuerdos y determinaciones que se dicten por el Ejecutivo del Estado en cumplimiento de la presente Ley, serán despachados por conducto de la Secretaría de Cultura. Quedando exceptuadas de la presente disposición la expedición de licencias de construcción, que serán otorgadas por los Ayuntamientos respectivos, previos dictámenes de la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, y del Centro Regional de Puebla del Instituto Nacional de Antropología e Historia.
+Cada diligencia se asentará en acta por separado.
 
-###### ARTICULO 18.
+Todas las personas que intervengan en las diligencias firmarán al calce y al margen del acta. Si no supieren firmar, imprimirán su dactilograma. Si no quisieren o no pudieren hacerlo, se hará constar el motivo.
 
-Para los efectos de la restauración, reparación o construcción de bienes inmuebles ubicados dentro de una población o parte de población declarada "Zona Típica Monumental", el ayuntamiento respectivo deberá exigir de los interesados, fianza que garantice que los trabajos se ejecutarán en términos de la autorización concedida, de acuerdo con lo dispuesto en el artículo que antecede.
+Cuando los titulares del Ministerio Público y del órgano jurisdiccional, en cada caso, estimen que además de la firma es necesario el dactilograma de las personas que hayan firmado, éstas, procederán a imprimirlo.
 
-###### ARTICULO 19.
+###### Artículo 18.
 
-El monto de la fianza a que se refiere el artículo anterior, será fijado por el Ayuntamiento respectivo, de acuerdo con la importancia de las obras y el peligro que pudieran representar para la conservación de la "Zona Típica Monumental".
+Cuando los comparecientes, antes de imprimir su firma o dactilograma hicieren alguna modificación o rectificación, se hará constar de inmediato, así como los motivos que tuvieren para hacerlo, debiéndose consignar por el agente del Ministerio Público o el titular del órgano jurisdiccional, las observaciones en relación con la veracidad de la modificación o la rectificación.
 
-###### ARTICULO 20.
+###### Artículo 19.
 
-El Ayuntamiento respectivo calificará la idoneidad del fiador que en su caso se proponga, el cual deberá llenar los requisitos a que se refiere el artículo 2741 del Código Civil del Estado, y someterse además expresamente a la aplicación de las disposiciones sobre ejercicio de la facultad económico-coactiva.
+Las actuaciones deberán ser autorizadas inmediatamente después de que se practiquen por los servidores públicos a quienes corresponda firmar, dar fe o certificar el acto, bajo su más estricta responsabilidad.
 
-###### ARTICULO 21.
+###### Artículo 20.
 
-Cuando existan uno o varios bienes inmuebles, próximos o adyacentes, que den un carácter especial al lugar de su ubicación en una población o parte de población, se considerará dicho conjunto como susceptible de ser protegido y por lo tanto tutelado por la presente Ley, en tanto no se promueve la declaratoria de "Zona Típica Monumental".
+El secretario, inmediatamente después de que se hayan asentado las actuaciones o agregado los documentos recibidos, foliará y rubricará las fojas del expediente y pondrá el sello del Ministerio Público o del órgano jurisdiccional en el fondo del cuaderno de manera que abrace las dos caras.
 
-###### ARTICULO 22.
+Si alguna de las piezas de autos fuera retirada del expediente, no se enmendará la foliatura, sino que se asentará razón de los folios retirados y de aquél en que conste el acuerdo de desglose.
 
-Las licencias para restauración, reparación o construcción de bienes inmuebles ubicados en "Zona Típica Monumental", tendrán una vigencia máxima de un año a partir de la fecha de su expedición. Si no se ejecuta la obra dentro del plazo autorizado la licencia expedida perderá su vigencia, pudiéndose prorrogar dicho plazo a juicio de la autoridad municipal, previa solicitud de los interesados.
+###### Artículo 21.
 
-###### ARTICULO 23.
+Las actuaciones del Ministerio Público y del órgano jurisdiccional deberán constar por duplicado, incluyendo los anexos, cuidando que los dos expedientes sean idénticos y autorizados.
 
-Los Presidentes Municipales, dentro de sus respectivas jurisdicciones, están obligados a dictar las medidas necesarias para el cumplimiento de la presente Ley.
+###### Artículo 22.
 
-###### ARTICULO 24.
+Las actuaciones que se perdieren, o desaparecieren por cualquier motivo, se repondrán a costa del responsable, quien estará obligado a pagar los daños y perjuicios que se ocasionen y además se dará vista al Ministerio Público.
 
-Se concede acción popular para denunciar ante las autoridades a que se refiere el artículo 12 de esta Ley, todo hecho, acto u omisión que represente un riesgo o provoque un daño a los bienes de propiedad particular ubicados en poblaciones o partes de población o zonas de belleza natural declaradas "Zona Típica Monumental".
+Cuando sea posible reponer todas las actuaciones, se tendrá por probada plenamente la existencia de las que se inserten o mencionen en el auto de detención, en el de formal prisión o de sujeción a proceso, o en cualquier otra resolución de que haya constancia, siempre que no se hubiese objetado la exactitud de la inserción o cita que de ellas se haga.
 
-###### ARTICULO 25.
+###### Artículo 23.
 
-Los cronistas Oficiales de los Municipios serán designados por sus correspondientes Ayuntamientos en sesión extraordinaria de Cabildo, citada especialmente para ese objeto.
+Las promociones que se hagan por escrito deberán ser firmadas por su autor, y en caso de no saber hacerlo, imprimirá su dactilograma, pudiéndose ordenar su ratificación cuando se estime necesario; pero deberán ser siempre ratificadas si el que las hace no las firma por cualquier otro motivo.
 
-###### ARTICULO 26.
+Dichas promociones se acompañarán de una copia para el duplicado del expediente, incluyendo los anexos.
 
-El ejecutivo del Estado está facultado para interpretar esta Ley, así como para resolver cualquier duda que se presente con motivo de su aplicación.
+###### Artículo 24.
 
-C A P I T U L O II
+El secretario hará constar el día y hora en que se presenten las promociones por escrito, debiendo dar cuenta a más tardar al día siguiente de su recepción y el Ministerio Público o el titular del órgano jurisdiccional firmarán el acuerdo correspondiente.
 
-DE LA CONSERVACION Y PROTECCION DE LOS BIENES INMUEBLES DE PROPIEDAD PARTICULAR
+###### Artículo 25.
+
+Las promociones verbales de las partes se harán por comparecencia.
+
+###### Artículo 26.
+
+Los secretarios de los órganos jurisdiccionales y del Ministerio Público, cotejarán las copias o testimonios de constancias que se mandaren expedir y las autorizarán con su firma y el sello correspondiente.
 
 ### CAPITULO III. DESPACHO DE LOS ASUNTOS
 
-###### ARTICULO 27.
+###### Artículo 27.
 
-Sólo con autorización del Ejecutivo del Estado, dada por conducto de la Secretaría de Cultura, previo el dictamen de la Comisión de Monumentos, podrán adosarse o apoyarse construcciones nuevas en bienes inmuebles ubicados dentro de poblaciones o partes de poblaciones declaradas "Zona Típica Monumental".
+Los titulares del Ministerio Público, en la averiguación previa, y del órgano jurisdiccional, en el proceso durante la celebración de las audiencias, tienen el deber de mantener el orden y exigir que se les guarde, tanto a ellos como a las demás autoridades, a las partes, a los abogados, a los apoderados o defensores, a los comparecientes y al público en general, el respeto y la consideración debidos, aplicando por las faltas que se cometan, las correcciones disciplinarias que este código señala.
 
-###### ARTICULO 28.
+Se reputan faltas todas las acciones u omisiones desconsideradas o irrespetuosas hacia los presentes, o que perturben el orden que debe seguirse en el trámite de los asuntos.
 
-Cuando existan uno o varios bienes inmuebles que representen un valor intrínseco para el Estado y no estén comprendidos dentro de una zona típica monumental y exista el peligro de que sean destruidos, deteriorados o alterados en cualquier forma, la Secretaría de Cultura estará facultada para declarar que dichos bienes quedan sujetos, provisionalmente, a lo dispuesto por esta Ley.
+Si las acciones u omisiones llegaren a constituir delito, se remitirá a quien las realice al Ministerio Público, con las actuaciones que con ese motivo se practiquen.
 
-En un plazo de 30 días, dentro del cual será oído el propietario y recabado el parecer de la Comisión de Monumentos, el Ejecutivo del Estado dictará la resolución que proceda.
+###### Artículo 28.
 
-###### ARTICULO 29.
+En materia penal no se pagarán costas. En caso de que el servidor público las cobrare o recibiere, aunque sea a título de gratificación, se dará vista al Ministerio Público y, en su caso, será destituido de su cargo o empleo.
 
-La Comisión de Monumentos a través de la Secretaría de Cultura podrá celebrar convenios con Asociaciones Civiles y Juntas Vecinales a fin de que coadyuven en la vigilancia y preservación de las poblaciones o partes de poblaciones o áreas de belleza natural declaradas "Zona Típica Monumental".
+###### Artículo 29.
 
-###### ARTICULO 30.
+Todos los gastos que se originen en las diligencias de averiguación previa y las acordadas por el órgano jurisdiccional a solicitud del agente del Ministerio Público y del defensor de oficio, serán cubiertos por el erario del Estado.
 
-La Comisión de Monumentos a través de la Secretaría de Cultura, y en coordinación con las autoridades municipales, realizará campañas permanentes para fomentar el conocimiento y respeto a las poblaciones, partes de población, o lugares de belleza natural declaradas "Zona Típica Monumental".
+Los gastos de las diligencias solicitadas por el procesado o por su defensor particular serán cubiertos por quien las promueva. En el caso de que estén imposibilitados para ello y de que el órgano jurisdiccional estime que son indispensables para el esclarecimiento de los hechos, ordenará su práctica y quedarán también a cargo del erario del Estado.
 
-###### ARTICULO 31.
+###### Artículo 30.
 
-Son aplicables las prevenciones de esta Ley a los bienes inmuebles de propiedad particular, que queden comprendidos dentro de las poblaciones, partes de población o lugares de belleza natural declaradas "Zona Típica Monumental".
+Los autos estarán en la secretaría a disposición de las partes. Cuando los solicite el agente del Ministerio Público para consultarlos fuera del juzgado, se le entregarán por un término que no excederá de cinco días y siempre que dentro del mismo no haya de practicarse ninguna diligencia.
 
-###### ARTICULO 32.
+###### Artículo 31.
 
-Ninguno de los bienes de propiedad particular a que se refiere el artículo anterior, podrá ser destruido, demolido ni renovado, en todo o en parte, ni podrá hacerse en él obra alguna de reconstrucción, restauración, reparación, exploración o modificación, sin las autorizaciones correspondientes y previo dictamen de la Comisión de Monumentos.
+Cuando cambiare el personal del Ministerio Público o del órgano jurisdiccional, no se proveerá auto alguno, haciendo saber el cambio, sino que en el primero que proveyere el servidor público se insertará su nombre completo. En segunda instancia, se pondrán al margen de los autos los nombres y apellidos de los servidores públicos que los firmen.
 
-###### ARTICULO 33.
+Cuando no tenga que dictarse resolución alguna anterior a la sentencia, se hará saber, en auto especialmente dictado, el cambio de personal.
 
-En los predios contiguos o próximos a los bienes inmuebles ubicados en las poblaciones o partes de éstas, declaradas "Zona Típica Monumental", ninguna obra podrá efectuarse que pueda causar daño a dichos bienes o dificultar la vista de éstos.
+###### Artículo 32.
+
+Cuando en un procedimiento judicial se advierta que tiene vinculación con otros, se dará vista al Ministerio Público para que promueva lo que corresponda.
+
+###### Artículo 33.
+
+El Ministerio Público y el órgano jurisdiccional en todo lo que la ley no prohiba o prevenga expresamente, podrán dictar los trámites y providencias necesarias para la pronta y eficaz procuración y administración de Justicia.
 
 ### CAPITULO IV. CORRECCIONES DISCIPLINARIAS Y MEDIOS DE APREMIO
 
-###### ARTICULO 34.
+###### Artículo 34.
 
-La Secretaría de Cultura ordenará la suspensión provisional de toda obra que a su juicio quede comprendida en la prohibición del artículo que antecede, dando cuenta inmediata al Ejecutivo del Estado, para que éste, oyendo el parecer de la Comisión de Monumentos, resuelva en definitiva, confirmando o revocando la suspensión.
+Son correcciones disciplinarias:
 
-###### ARTICULO 35.
+I. Apercibimiento;
 
-Quienes ejecuten o realicen obras o trabajos en contravención a lo dispuesto en los artículos que anteceden, o apartándose de la autorización concedida o de la orden dictada, están obligados a restaurar el bien afectado, sin perjuicio de las demás sanciones que esta Ley establezca. Si la restauración no quedara realizada a satisfacción de la Secretaría de Cultura, en el plazo que al efecto se conceda, la misma Secretaría procederá, a través de la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, a la ejecución de las obras o trabajos necesarios, por cuenta del propietario.
+II. Multa por el equivalente de diez a treinta días de salario mínimo vigente en el momento y lugar en que se cometió la falta que amerite corrección. Tratándose de jornaleros, obreros y trabajadores no asalariados, la multa no podrá exceder del equivalente a un día de salario o de ingreso;
 
-El Ejecutivo del Estado, en caso de inconformidad, resolverá en definitiva, previo dictamen de la Comisión de Monumentos.
+III. Arresto hasta por treinta y seis horas; y
 
-Para la reintegración de los gastos que se causen, se hará uso de la facultad económico-coactiva.
+IV. Suspensión en sus funciones hasta por un mes, tratándose de servidores públicos.
 
-###### ARTICULO 36.
+Cuando la multa se imponga a persona que perciba sueldo del erario del Estado, se dará aviso a la dependencia respectiva.
 
-La construcción de bienes inmuebles en poblaciones o partes de población, o áreas de belleza natural declarada "Zona Típica Monumental", se sujetará a los requisitos y condiciones señaladas por esta Ley y por los correspondientes reglamentos municipales.
+###### Artículo 35.
+
+Las correcciones disciplinarias se impondrán una vez realizada la certificación por parte del secretario o testigos de asistencia, en su caso.
+
+Contra la resolución en que se imponga alguna corrección disciplinaria, se oirá en audiencia al interesado, si así lo solicita dentro de las veinticuatro horas siguientes a que tenga conocimiento de ella. En vista de lo que manifieste, se resolverá lo que se estime procedente.
+
+###### Artículo 36.
+
+El Ministerio Público en la averiguación previa y el órgano jurisdiccional, podrán emplear, para hacer cumplir sus resoluciones, los siguientes medios de apremio:
+
+I. Apercibimiento;
+
+II. Multa por el equivalente de diez a treinta días de salario mínimo vigente en el momento y lugar en que se cometió la falta. Tratándose de jornaleros, obreros y trabajadores no asalariados, la multa no podrá exceder del equivalente a un día de salario o de ingreso;
+
+III. Auxilio de la fuerza pública;
+
+IV. Arresto hasta por treinta y seis horas; y
+
+V. Suspensión en sus funciones hasta por un mes, tratándose de servidores públicos.
+
+Cuando la multa se imponga a persona que perciba sueldo del erario, se dará aviso a la dependencia respectiva.
 
 ### CAPITULO V. OFICIOS DE COLABORACION, EXHORTOS Y REQUISITORIAS
 
-###### ARTICULO 37.
+###### Artículo 37.
 
-Para poder fijar anuncios, avisos o carteles dentro de poblaciones o partes de poblaciones, o áreas de belleza natural declaradas "Zona Típica Monumental", se requiere autorización previa y expresa de la Autoridad Municipal.
+Cuando tenga que practicarse una diligencia por el Ministerio Público fuera del Estado, se encargará su cumplimiento a la procuraduría general de justicia de la entidad respectiva, conforme al convenio de colaboración correspondiente.
 
-Igual autorización será necesaria para la exploración en las formaciones naturales subterráneas a que se refiere el párrafo segundo del artículo 5o. de esta Ley.
+La entrega por parte de otras entidades federativas y del Distrito Federal, de los indiciados, procesados o sentenciados, así como la práctica del aseguramiento y entrega de objetos, instrumentos o productos del delito, se ajustarán a lo previsto en el párrafo segundo del artículo 119 de la Constitución Política de los Estados Unidos Mexicanos, y a lo señalado en los convenios de colaboración que, al efecto, celebren las entidades federativas.
 
-###### ARTICULO 38.
+###### Artículo 38.
 
-La misma autorización, oyendo el parecer de la Secretaría de Cultura, se requiere para el establecimiento de negociaciones industriales o comerciales en los bienes inmuebles ubicados en las poblaciones o partes de poblaciones, o áreas de belleza natural declaradas "Zona Típica Monumental".
+Cuando tenga que practicarse una diligencia judicial fuera del ámbito territorial de competencia del juzgador, se encargará su cumplimiento, por medio de exhorto o requisitoria, al órgano jurisdiccional competente del lugar en que dicha diligencia deba practicarse.
 
-###### ARTICULO 39.
+Se empleará la forma de exhorto cuando se dirija a un servidor público igual o superior en grado, y de requisitoria cuando se dirija a un inferior.
 
-La Secretaría de Cultura, oyendo el parecer de la Comisión de Monumentos, está facultada para ordenar que se retiren los anuncios y carteles que se fijen y la clausura de los giros que se establezcan sin la autorización correspondiente.
+###### Artículo 39.
 
-###### ARTICULO 40.
+Se dará fe y crédito a los oficios de colaboración, exhortos y requisitorias que libren el Ministerio Público y los órganos jurisdiccionales de la república; debiendo, en consecuencia, cumplimentarse siempre que llenen los requisitos fijados por este código.
 
-Las dependencias del Gobierno Federal, Estatal o Municipal que realicen obras de interés colectivo en poblaciones o partes de población, o áreas de belleza natural declaradas "Zona Típica Monumental", deberán cumplir con las disposiciones que establece la presente Ley.
+Los exhortos de los jueces del extranjero se cumplimentarán en el Estado, cuando satisfagan las exigencias fijadas por la ley.
 
-###### ARTICULO 41.
+###### Artículo 40.
 
-Los Ayuntamientos donde se ubique una población o parte de población, o áreas de belleza natural declaradas "Zona Típica Monumental", procurarán la conservación de ésta, disponiendo lo necesario dentro de sus posibilidades presupuestales.
+Los oficios de colaboración, exhortos y requisitorias contendrán las inserciones necesarias, según la naturaleza de la diligencia que se haya de practicar; deberán estar firmados por el procurador, subprocurador respectivo o por el servidor público de la procuraduría autorizado para tal fin, por el magistrado o juez, según el caso, y por el secretario o testigos de asistencia y llevarán, además, el sello de la autoridad correspondiente.
 
-C A P I T U L O III
+###### Artículo 41.
 
-DE LAS ATRIBUCIONES DE LA SECRETARIA DE CULTURA
+En casos urgentes se podrá usar telefax, teléfono o cualquier otro medio de comunicación. En el mensaje se expresará con toda claridad la diligencia de que se trate, el nombre del solicitante y de quienes en ella deban participar, el delito de que se trate, el fundamento de la providencia y el aviso de que se mandará el oficio de colaboración, el exhorto o la requisitoria que ratifique el mensaje.
 
-###### ARTICULO 42.
+###### Artículo 42.
 
-La Secretaría de Cultura, además de las facultades que se le señalan en los capítulos anteriores, tendrá las siguientes:
+Los exhortos a los tribunales extranjeros se remitirán por la vía diplomática al lugar de su destino. Las firmas de las autoridades que los expidan serán legalizadas por el Secretario General de Gobierno del Estado.
 
-I).- Proponer al Ejecutivo del Estado, previo el parecer de la Comisión de Monumentos, anteproyectos de disposiciones reglamentarias para la conservación y mejor protección de las poblaciones, partes de poblaciones y bellezas naturales declaradas "Zona Típica Monumental".
+###### Artículo 43.
 
-II).- Proponer al Ejecutivo del Estado, en escrito debidamente fundado, del que remitirá copia a la Comisión de Monumentos, las poblaciones, partes de poblaciones o zonas de belleza natural que por sus características ameriten ser declaradas "Zona Típica Monumental".
+En los países cuya legislación lo autorice, el exhorto se remitirá al exhortado directamente por el tribunal exhortante de la entidad, sin más legalización que la exigida en las leyes del país en el cual deba cumplirse. Los exhortos que de aquellos se dirijan a la entidad, podrán enviarse directamente por el órgano jurisdiccional exhortante al exhortado y bastará que sean legalizados por el ministro diplomático o cónsul mexicano residente en el lugar del exhortante, debiendo sujetarse, en todo caso, a las disposiciones relativas del Código Federal de Procedimientos Penales.
 
-III).- Coadyuvar con las autoridades municipales de las poblaciones declaradas "Zona Típica Monumental", en la elaboración de los reglamentos derivados de esta Ley, debiendo adecuarlos a las características específicas de cada "Zona Típica Monumental", contando con el parecer de la Comisión de Monumentos.
+###### Artículo 44.
 
-IV).- Promover y estimular en coordinación con la Dirección de Turismo del Estado, el conocimiento de las poblaciones, partes de poblaciones o áreas de belleza natural declaradas "Zona Típica Monumental".
+Los exhortos y requisitorias dirigidos a los tribunales del Estado o de otras entidades federativas se enviarán directamente al exhortado o al requerido.
 
-V).- Recabar información general e implementar el estudio y divulgación de aspectos históricos, artísticos y naturales de las poblaciones declaradas "Zona Típica Monumental".
+###### Artículo 45.
 
-VI).- Colaborar con las autoridades de la Secretaría Asentamientos Humanos y Obras Públicas, y Centro Regional de Puebla del Instituto Nacional de Antropología e Historia, y en su caso el cronista oficial de la población, para el desempeño de su cometido.
+Si hubiere la necesidad de examinar a miembros del cuerpo diplomático mexicano que ejerzan sus funciones en el extranjero, se dirigirá oficio por conducto del secretario de relaciones exteriores al ministerio diplomático respectivo, para que lo cumplimente.
 
-VII).- Vigilar que los trabajos de construcción y restauración de los bienes ubicados en poblaciones, partes de poblaciones o áreas de belleza natural declaradas "Zona Típica Monumental", se ejecuten con estricto apego a las autorizaciones otorgadas.
+###### Artículo 46.
 
-VIII).- Solicitar la intervención de las Entidades Públicas competentes para evitar el deterioro de los lugares de belleza natural.
+Los oficios de colaboración, exhortos y requisitorias que se reciban en el Estado, se proveerán dentro de las veinticuatro horas siguientes a su recepción y se despacharán dentro de tres días, a no ser que las diligencias que se hayan de practicar exijan necesariamente mayor tiempo, en cuyo caso, el Ministerio Público o el órgano jurisdiccional lo fijarán.
 
-C A P I T U L O IV
+###### Artículo 47.
 
-OBLIGACIONES DE LA SECRETARIA DE ASENTAMIENTOS HUMANOS Y OBRAS PUBLICAS DEL ESTADO DE PUEBLA
+Cuando el Ministerio Público o el órgano jurisdiccional no puedan dar cumplimiento al oficio de colaboración, exhorto o requisitoria, según el caso, por hallarse las personas o los bienes que sean objeto de la diligencia en otra circunscripción territorial, lo remitirán al Ministerio Público o al órgano jurisdiccional del lugar en que aquéllas o éstos estén, y lo harán saber al solicitante.
 
-###### ARTICULO 43.
+###### Artículo 48.
 
-La Secretaría de Asentamientos humanos y Obras Públicas del Estado, tendrá, además de las obligaciones señaladas por esta Ley, las siguientes:
-
-I).- Coadyuvar con la Secretaría de Cultura y la Comisión de Monumentos, en el cumplimiento de las facultades que la presente Ley les confiere.
-
-II).- Coadyuvar con las autoridades municipales de las poblaciones declaradas "Zona Típica Monumental" para el cumplimiento de las disposiciones de esta Ley.
-
-III).- Diseñar adecuadamente, en los términos de esta Ley, los proyectos de desarrollo urbano de las poblaciones o partes de poblaciones declaradas "Zona Típica Monumental".
-
-C A P I T U L O V
-
-DE LA COMISION DE MONUMENTOS
-
-###### ARTICULO 44.
-
-La Comisión de monumentos a que se refiere la presente Ley tendrá como marco de competencia lo estipulado en el artículo 1o. de la misma; y se integra por:
-
-I).- El Secretario de Cultura.
-
-II).- El Secretario de Asentamientos Humanos y Obras Públicas.
-
-III).- El Secretario de Educación Pública.
-
-IV).- El Director del Centro Regional de Puebla del Instituto Nacional de Antropología e Historia.
-
-V).- El Jefe de los Servicios Coordinados de Salud Pública.
-
-VI).- El Director de Turismo.
-
-VII).- Los Presidentes Municipales y los Cronistas Oficiales en el ámbito de sus respectivas competencias territoriales.
-
-VIII).- Los Representantes de las Instituciones de Cultura Superior que el Ejecutivo del Estado determine pertinentes.
-
-###### ARTICULO 45.
-
-Los cargos de la Comisión de Monumentos serán honoríficos.
-
-###### ARTICULO 46.
-
-La Comisión de Monumentos formulará su propio reglamento interior, con arreglo a las siguientes bases:
-
-I).- Presidirá la Comisión, el Secretario de Cultura.
-
-II).- Será Secretario de dicha Comisión el Director del Centro Regional de Antropología e Historia o su representante.
-
-III).- Habrá un Vice-Presidente y un Pro-Secretario electos en votación secreta, los cuales suplirán en sus ausencias, al Presidente y al Secretario respectivamente.
-
-IV).- La Comisión de Monumentos se reunirá una vez al mes por lo menos y además, cuando lo soliciten tres de sus miembros, o lo estime necesario su presidente.
-
-V).- Para que pueda sesionar legalmente la Comisión de Monumentos, deberá estar presente cuando menos la mitad más uno de sus miembros, entre los que estará siempre el Presidente.
-
-VI).- Si a la primera citación no asistiere el número de miembros exigidos en la fracción anterior, la sesión a que se cite por segunda vez, se celebrará con los miembros que concurran.
-
-VII).- Las decisiones de la Comisión de Monumentos se tomarán por mayoría de votos de los miembros presentes, siendo de calidad el del Presidente.
-
-C A P I T U L O VI
-
-DE LAS SANCIONES
-
-###### ARTICULO 47.
-
-Son infracciones a la presente Ley:
-
-I).- Ejecutar obras de construcción, demolición, excavación, remodelación, deforestación, destrucción de vegetación, extracción de materiales de todo tipo, así como cualquier acción que altere el ambiente natural de una "Zona Típica Monumental", sin contar para ello con las autorizaciones correspondientes.
-
-II).- Realizar obras sin sujetarse a la autorización concedida.
-
-III).- Desacatar cualquier orden de suspensión de obras en una "Zona Típica Monumental".
-
-IV).- Destruir o dañar alguno de los bienes comprendidos en la declaratoria de "Zona Típica Monumental".
-
-V).- Fijar anuncios, carteles o avisos sin contar con la autorización a que se refiere el artículo 37 de esta Ley.
-
-VI).- Establecer negociaciones industriales o mercantiles en "Zonas Típicas Monumentales" sin contar con la autorización correspondiente, y
-
-VII).- Arrojar basura o desperdicios en áreas declaradas "Zonas Típicas Monumentales".
-
-###### ARTICULO 48.
-
-Las infracciones a que se refiere el artículo anterior, serán sancionadas por la Comisión de Monumentos a través de los Ayuntamientos correspondientes, en la siguiente forma:
-
-I).- Con multa de diez a cien días de salario mínimo vigente en la Capital del Estado, las comprendidas en las fracciones II, V, VI y VII del artículo anterior.
-
-II).- Con multa de diez a ciento cincuenta días de salario mínimo vigente en la Capital del Estado, las comprendidas en las fracciones I, III y IV del Artículo anterior. En el supuesto de la fracción II, se aplicará la sanción sin perjuicio de hacer efectiva la fianza otorgada; y en el caso de la fracción III se deberá observar además lo establecido por el Artículo 35 de esta ley.
-
-Estas sanciones serán independientes a as (sic) que correspondan por ilícitos contemplados dentro del Código de Defensa Social del Estado.
-
-T R A N S I T O R I O S :
-
-PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- Se Abroga la Ley de Monumentos de 2 de Marzo de 1967 publicada en el Periódico Oficial del Estado el día 10 del mismo mes y año y todas las disposiciones que se opongan al presente Ordenamiento.
-
-El Gobernador hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza a los tres Días del Mes de Abril de Mil Novecientos Ochenta y Seis.
-
-LIC. JESUS MORALES FLORES.- DIPUTADO PRESIDENTE.- Rúbrica.- PROFR. FELIPE GUERRERO RIOS.- DIPUTADO SECRETARIO.- Rúbrica.- LIC. LUCERO SALDAÑA PEREZ.- DIPUTADA SECRETARIA.- Rúbrica.
-
-Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo en la Heroica Puebla de Zaragoza a los cuatro días del mes de abril de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado.- LIC. GUILLERMO JIMENEZ MORALES.- Rúbrica.- El Secretario de Gobernación Lic. Amado Camarillo Sánchez.- Rúbrica.
+No se notificarán las providencias que se dicten para el cumplimiento de un oficio de colaboración, de un exhorto o de una requisitoria, sino cuando se prevenga así en el mismo despacho.
 
 ###### Artículo 49.
 
@@ -697,9 +551,11 @@ Los autos serán congruentes con la petición formulada, motivando y fundando la
 
 Los autos, salvo los que la ley disponga para casos especiales deberán dictarse dentro de tres días, y las sentencias dentro de quince días a partir del siguiente al de la declaración de vista la causa, pero si ésta excediere de quinientas fojas, a este plazo se le aumentará un día por cada cincuenta de exceso.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
+
 ###### Artículo 83.
 
-Las resoluciones que emitan los integrantes de las salas del Tribunal Superior de Justicia en el fondo de un asunto, requerirán para su validez del voto de la mayoría de sus miembros. Cuando alguno disintiere, expresará las razones de su inconformidad en voto particular que se insertará al fallo.
+Las resoluciones que emitan los integrantes de las salas colegiadas del Tribunal Superior de Justicia en el fondo de un asunto, requerirán para su validez del voto de la mayoría de sus miembros. Cuando alguno disintiere, expresará las razones de su inconformidad en voto particular que se insertará al fallo.
 
 ###### Artículo 84.
 
@@ -800,6 +656,10 @@ III. Al tutor, curador, pupilo, cónyuge, concubina o concubinario del autor del
 IV. A los que estén ligados con el probable responsable del hecho posiblemente constitutivo del delito por respeto, gratitud, afecto o estrecha amistad; y
 
 V. A los abogados que hubieren conocido de los hechos posiblemente constitutivos de delito por instrucciones o explicaciones recibidas en su ejercicio profesional, ni a los ministros de cualquier culto que les hubiere sido revelado en el ejercicio de su ministerio.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+VI.- A los mediadores o conciliadores que conocieren de los hechos constitutivos de delito durante el proceso de mediación o conciliación en que hubieren intervenido.
 
 ###### Artículo 100.
 
@@ -1237,6 +1097,10 @@ V. Cuando la víctima o el ofendido sean menores de edad, no estarán obligados 
 
 VI. Solicitar las medidas y providencias que prevea la ley para su seguridad y auxilio.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+VII.- Solicitar los servicios del Centro de Mediación y Conciliación del Poder Judicial del Estado de México.
+
 ## TITULO QUINTO. INSTRUCCION
 
 ### CAPITULO I. AUTO DE RADICACION
@@ -1404,6 +1268,18 @@ En este caso el Ministerio Público Adscrito se sujetará al plazo establecido e
 Dictado el auto de formal prisión o el de sujeción a proceso, el procedimiento se desarrollará en audiencias de pruebas, que serán públicas.
 
 En dichos autos el juez citará a una primera audiencia de ofrecimiento de pruebas para después de cinco y antes de diez días naturales.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+Tratándose de delitos perseguibles por querella, los tribunales podrán remitir a las partes al Centro de Mediación y Conciliación del Poder Judicial, hasta antes de dictarse sentencia ejecutoria, previo consentimiento que deberá constar en forma fehaciente, con objeto de que intenten avenir sus intereses.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+En caso de llegarse a algún acuerdo, se remitirá éste al juez del conocimiento para los efectos a que se refiere el artículo 91 del Código Penal; de lo contrario se continuará con el procedimiento judicial.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+Respecto de delitos perseguibles de oficio, sólo el pago de la reparación del daño podrá sujetarse a la mediación o conciliación.
 
 ###### Artículo 186.
 
@@ -2687,7 +2563,13 @@ I. Cuando el procesado se hubiere sustraído a la acción de la justicia;
 
 II. Cuando al procesado le sobrevenga una causa de inimputabilidad o alguna enfermedad incurable en fase terminal; o
 
-III. En los demás casos que la ley ordene expresamente la suspensión del procedimiento.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+III. Cuando tratándose de delitos por querella, el procesado y la víctima o el ofendido por algún delito, hayan consentido en acudir al Centro de Mediación y Conciliación del Poder Judicial, para intentar algún acuerdo;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
+IV. En los demás casos que la ley ordene expresamente la suspensión del procedimiento.
 
 ###### Artículo 388.
 
@@ -2879,9 +2761,11 @@ En la forma señalada en el artículo anterior, procederán las autoridades judi
 
 Las sanciones se ejecutarán una vez que la sentencia haya causado ejecutoria.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 423.
 
-El órgano jurisdiccional que hubiere conocido la primera instancia dictará las disposiciones necesarias para la ejecución de la sentencia.
+El órgano jurisdiccional que hubiere conocido la primera instancia dictará las disposiciones necesarias para la ejecución de la sentencia, pudiendo recomendar la mediación y conciliación como medio para restaurar las relaciones humanas y sociales afectadas por el delito.
 
 ###### Artículo 424.
 
@@ -2962,3 +2846,27 @@ PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 SEGUNDO.- Las reformas a los artículos 162 y 209 del Código de Procedimientos Penales para el Estado de México, entrarán en vigor cinco días después del inicio de vigencia de la reforma al artículo 20 de la Constitución General de la República.
 
 TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+P.O. 10 DE DICIEMBRE DE 2002
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+P.O. 8 DE MAYO DE 2003
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+###### ARTICULO TERCERO.
+
+El Consejo de la Judicatura estará facultado para determinar el inicio de las funciones de las Salas Unitarias, conforme a las necesidades del servicio. Entretanto se establezcan las Salas Unitarias en cada región judicial, las Salas Colegiadas seguirán conociendo de los asuntos que conforme a ésta ley son competencia de las Salas Unitarias.
+
+###### ARTICULO CUARTO.
+
+Los asuntos que estén en trámite ante las Salas Colegiadas al entrar en funciones las Salas Unitarias y que sean de la competencia de éstas últimas, se seguirán sustanciando por la Sala Colegiada respectiva, hasta la resolución definitiva.
