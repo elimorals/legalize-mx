@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-responsabilidades-de-los-servidores-publicos-del-11825"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-23"
-last_updated: "2001-07-21"
+last_updated: "2001-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 1997.
 
@@ -377,9 +377,11 @@ Contra los jueces de primera instancia, menores y de paz, sólo podrá proceders
 
 No se requerirá declaración de procedencia del Congreso, cuando alguno de los servidores públicos, a que se refiere el artículo anterior, cometa un delito durante el tiempo en que se encuentre separado de su encargo o no haya asumido el ejercicio del mismo. Tampoco se requerirá la declaración de procedencia en caso de que el servidor público tenga el carácter de suplente y no se encuentre en el ejercicio del cargo.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 33.
 
-Para declarar que ha lugar a ejercitar la acción penal, es necesario que estén comprobados los elementos del tipo penal y que existan datos que hagan probable la responsabilidad del servidor público.
+Para declarar que ha lugar a ejercitar la acción penal, es necesario que existan elementos suficientes para comprobar el cuerpo del delito y que estos hagan probable la responsabilidad del servidor público.
 
 ### Capítulo II. DEL PROCEDIMIENTO
 
@@ -419,9 +421,15 @@ Una vez que se tenga la certeza de que se han cumplido todas y cada una de las p
 
 La Comisión de Responsabilidades analizará la averiguación previa y la determinación que le haga llegar el procurador general de justicia del Estado, así como los alegatos y argumentos esgrimidos por el denunciado. Deberá emitir un dictamen dentro de un plazo no mayor de treinta días hábiles, por medio del cual determinará si ha lugar o no a la procedencia del juicio penal en contra del servidor público denunciado.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 39.
 
-Dada la cuenta del dictamen, el presidente del Congreso del Estado anunciará a la Asamblea en pleno que debe erigirse en jurado de procedencia que deberá verificarse al día siguiente y mandará citar para la audiencia, al procurador general de justicia en el Estado, al servidor público denunciado y a su defensor.
+Dada la cuenta del dictamen, el presidente del Congreso del Estado anunciará a la Asamblea que debe erigirse en jurado de procedencia que deberá verificarse al día siguiente y mandará citar para la audiencia, al Procurador General de Justicia, al servidor público denunciado y a su defensor.
+
+Si el Procurador General de Justicia lo considera conveniente, podrá ser acompañado para el desahogo de la audiencia del servidor público que llevó a cabo la averiguación previa.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 40.
 
@@ -433,13 +441,13 @@ a) Las conclusiones de la averiguación previa y la determinación del ejercicio
 
 b) Los alegatos presentados por el servidor público denunciado o por su defensor;
 
-II. Se otorgará el uso de la palabra en primer término al procurador general de justicia y posteriormente al acusado o a su defensor para que expresen lo que a su derecho convenga;
+II. Se otorgará el uso de la palabra en primer término al Procurador General de Justicia o en su caso, al servidor público que le acompañe y, posteriormente al acusado o a su defensor para que expresen lo que a su derecho convenga;
 
 III. Una vez escuchadas las partes, la Asamblea en pleno, discutirá los hechos vertidos y la existencia de la probable responsabilidad del servidor público denunciado;
 
-IV. En la etapa de discusión no se podrá otorgar, bajo ninguna circunstancia, el uso de la voz al denunciado o a su defensor, ni al procurador general de justicia en el Estado, con la excepción de que cualquier integrante de la asamblea solicite algunas aclaraciones que considere necesarias respecto de la acusación o de la defensa, para el mejor esclarecimiento de los hechos históricos;
+IV. En la etapa de discusión no se podrá otorgar, bajo ninguna circunstancia, el uso de la voz al denunciado o a su defensor, ni al Procurador General de Justicia en el Estado o al servidor público que le acompañe, con la excepción de que cualquier integrante de la Asamblea solicite algunas aclaraciones que considere necesarias respecto de la acusación o de la defensa, para el mejor esclarecimiento de los hechos históricos;
 
-V. Cerrada la etapa de discusión, se retirarán el acusado y su defensor, así como el procurador de justicia. Los diputados podrán hacer uso de la voz exclusivamente para razonar su voto. La Asamblea, excepción hecha de los miembros de la Comisión de Responsabilidades, declarará por mayoría absoluta de votos de sus integrantes, si ha lugar o no a proceder contra el inculpado.
+V. Cerrada la etapa de discusión, se retirarán el acusado y su defensor, así como el procurador de justicia así como el servidor público que le acompañe. Los diputados podrán hacer uso de la voz exclusivamente para razonar su voto. La Asamblea, excepción hecha de los miembros de la Comisión de Responsabilidades, declarará por mayoría absoluta de votos de sus integrantes, si ha lugar o no a proceder contra el inculpado.
 
 ###### Artículo 41.
 
@@ -687,11 +695,15 @@ Los términos de prescripción se interrumpirán cuando se practiquen investigac
 
 ###### Artículo 66.
 
-Las autoridades a que se refiere el artículo 3º de la presente ley, serán competentes para imponer las sanciones previstas en el capítulo II del presente título y las previstas en el artículo 27 de la Ley de los Servidores Públicos del Estado de Jalisco y sus Municipios, bajo las siguientes reglas:
+Las autoridades a que se refiere el artículo 3º de la presente ley, serán competentes para imponer las sanciones previstas en el capítulo II del presente título y las previstas en el artículo 25 de la Ley de los Servidores Públicos del Estado de Jalisco y sus Municipios, bajo las siguientes reglas:
 
-I. El apercibimiento, la amonestación y la suspensión en el empleo, cargo o comisión por un período no menor de tres días ni mayor de tres meses, serán aplicadas por el superior jerárquico;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
 
-II. La destitución de empleo, cargo o comisión de los servidores públicos de base, se demandará por el superior jerárquico de acuerdo con los procedimientos consecuentes con la naturaleza de la relación y en los términos de las leyes respectivas;
+I. El apercibimiento, la amonestación y la suspensión en el empleo, cargo o comisión por un período no menor de tres ni mayor a treinta días, serán aplicadas por el superior jerárquico;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2001)</small>
+
+II. La destitución del empleo, cargo o comisión de los servidores públicos de base, se determinará por el superior jerárquico de acuerdo con los procedimientos consecuentes con la naturaleza de la relación y en los términos de las leyes respectivas;
 
 III. La suspensión del empleo, cargo o comisión y la destitución o cese de los servidores públicos de confianza, se aplicará por el titular de la entidad pública, secretaría, dependencia, o entidad paraestatal o municipal mayoritaria, o por conducto de las contralorías u órganos equivalentes.
 
@@ -917,6 +929,8 @@ III. La final, dentro de los treinta días naturales siguientes a la conclusión
 
 ### Capítulo III. AUTORIDADES COMPETENTES PARA IMPONER SANCIONES ADMINISTRATIVAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2001)</small>
+
 ###### Artículo 82.
 
 En caso de incumplimiento de las obligaciones consignadas en las fracciones I y II del artículo anterior, el órgano correspondiente requerirá por oficio al superior jerárquico del omiso para que conmine de inmediato al servidor público a cumplir con su obligación en un término de quince días naturales, contados a partir del momento en que sea requerido. Si transcurrido ese término no cumple con la apuntada obligación, se le instaurará el procedimiento de responsabilidad a que alude el artículo 69 de esta ley, pudiendo ser sancionado con la destitución o con inhabilitación hasta por un año.
@@ -1056,3 +1070,7 @@ PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en
 SEGUNDO.- Las presente reformas no se aplicarán a los Vicepresidentes Municipales elector que se encuentran en funciones para el periodo constitucional comprendido del 1° de enero del 2001 al 31 de diciembre del 2003.
 
 TERCERO.- Las presentes reformas no se aplicarán a los Síndicos, en tanto no sean electos de conformidad a lo dispuesto por Ley Electoral del Estado de Jalisco.
+
+P.O. 13 DE DICIEMBRE DE 2001.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco."
