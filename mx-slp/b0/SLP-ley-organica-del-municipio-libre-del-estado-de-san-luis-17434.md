@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2000-09-23"
+last_updated: "2001-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 2001.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -153,7 +153,9 @@ El territorio del Estado de San Luis Potosí está dividido en cincuenta y ocho 
 
 42. Tamuín
 
-43. Tancanhuitz de Santos
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2001)</small>
+
+43. Tancanhuitz
 
 44. Tanlajás
 
@@ -1988,3 +1990,7 @@ P.O. 23 DE SEPTIEMBRE DE 2000.
 PRIMERO. El presente Decreto entrará en vigor el día 26 de septiembre de 2000.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE JUNIO DE 2001.
+
+UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
