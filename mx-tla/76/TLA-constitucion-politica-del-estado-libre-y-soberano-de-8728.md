@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1971-11-10"
+last_updated: "1974-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1974.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -225,21 +225,31 @@ El Poder Público del Estado se divide para su ejercicio, en Legislativo, Ejecut
 
 El Poder Legislativo del Estado se deposita en una Asamblea que se denomina "Congreso del Estado de Tlaxcala".
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1934)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1974)</small>
 
 ###### Art. 21.
 
-El Congreso se compondrá de Diputados electos popularmente en número no menor de siete.
+El Congreso se compondrá de Diputados electos popularmente en número no menor de 9, que se aumentarán con Diputados de Partido.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1974)</small>
 
 ###### Art. 22.
 
-La elección de Diputados será directa y en los términos que prevenga la Ley Electoral.
+La Elección de Diputados será directa y se complementará, con Diputados de Partido, apegándose, en ambos casos, a lo que disponga la Ley Electoral del Estado y, en el segundo además a las reglas siguientes:
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1971)</small>
+I. Todo Partido Político legalmente registrado en el Estado que obtenga cuando menos 1.5% de la votación total en la Entidad en la elección respectiva, tendrá derecho a que se acredite a uno de sus candidatos como Diputados de Partido ante el H. Congreso Local.
+
+II.- El máximo de Diputados de Partido que podrá acreditar cada Partido Político será uno. Si logra la mayoría en uno o más Distritos Electorales no tendrá derecho a que le sean reconocidos Diputados de Partido.
+
+III.- Los Diputados de Partido serán acreditados, por riguroso orden, de acuerdo con el número de Sufragios que hayan obtenido en relación a los demás candidatos del mismo Partido, en sus respectivos Distritos.
+
+IV.- Los Diputados de mayoría y los de Partido tendrán la misma categoría e iguales obligaciones y derechos.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1974)</small>
 
 ###### Art. 23.
 
-Por cada 60,000 habitantes o fracción que exceda de 40,000 los ciudadanos del Estado elegirán un Diputado propietario y un suplente.
+Por cada cincuenta mil habitantes o fracción que exceda de treinta mil, los ciudadanos del Estado elegirán un Diputado Propietario y un Suplente.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1934)</small>
 
@@ -249,7 +259,9 @@ Para ser Diputado Propietario o suplente se requiere:
 
 I.- Ser mexicano por nacimiento y ciudadano tlaxcalteca en pleno ejercicio de sus derechos, con cinco años de residencia consecutivos en el Estado inmediatamente anteriores al día de la elección o uno si fuere nacido en él.
 
-II.- Tener veinticinco años de edad cumplidos el día de la elección y no mayor de sesenta y cinco.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 1974)</small>
+
+II.- Tener veintiún años de edad cumplidos el día de la elección.
 
 III. Saber leer y escribir.
 
@@ -287,11 +299,11 @@ De la instalación, duración y labores del Congreso.
 
 El Congreso del Estado se renovará en su totalidad cada tres años y comenzará a funcionar el día 1° de diciembre inmediato posterior a la elección.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1946)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1974)</small>
 
 ###### Art. 28.
 
-Los ciudadanos a quienes los organismos expresamente facultados para ello en la Ley Electoral, expidan credenciales declarando que han obtenido mayoría de votos para Diputados de acuerdo con las disposiciones del Reglamento Interior del Congreso y de la citada Ley, se instalarán en Colegio Electoral para calificar la elección y declarar quienes son Diputados. Esta declaratoria y todos los demás actos del Congreso en funciones del Colegio Electoral son irrevocables.
+Los ciudadanos a quienes los organismos electorales expresamente facultados para ello en la Ley Electoral del Estado expidan credenciales declarando que han obtenido mayoría de votos para Diputados, de acuerdo con las disposiciones del Reglamento Interior del Congreso, se instalarán para calificar la elección y declarar quienes son Diputados. El propio Colegio Electoral acreditará a los Diputados de Partido sujetándose a lo preceptuado en la propia Ley Electoral. Esta declaratoria y todos los demás actos del Congreso en funciones de Colegio Electoral serán irrevocables.
 
 ###### Art. 29.
 
@@ -1168,3 +1180,7 @@ El presente Decreto surtirá sus efectos a partir de su publicación en el Peri�
 P.O. 10 DE NOVIEMBRE DE 1971.
 
 El presente Decreto surtirá sus efectos a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE AGOSTO DE 1974.
+
+Artículo Unico.- Este decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado, una vez cumplidos con los requisitos que ordena el Artículo 105 de la Constitución Política del Estado.
