@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-seguridad-social-para-los-servidores-publicos-del-8255"
 country: "mx"
 rank: "ley"
 publication_date: "1976-09-10"
-last_updated: "1988-04-04"
+last_updated: "1989-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE YUCATAN, DE SUS MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DE CARACTER ESTATAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE ABRIL DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE NOVIEMBRE DE 1989.
 
 Ley publicada en el Diario Oficial el Viernes 10 de Septiembre de 1976.
 
@@ -445,11 +445,11 @@ El préstamo especial con garantía colateral deberá cubrirse dentro de un plaz
 
 El Instituto concederá préstamos especiales para la adquisición de productos de consumo duradero, siempre que el solicitante ofrezca garantía suficiente a juicio del Director General y lo amortice en un período no mayor de veinticuatro meses, cubriendo un interés del 12 % anual, que se descontará quincenalmente junto con sus intereses.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, D.O. 9 DE NOVIEMBRE DE 1989)</small>
 
 ###### Artículo 52.
 
-Los servidores públicos y los jubilados por el Instituto tendrán derecho a obtener préstamos hipotecarios que se otorgarán por acuerdo del Consejo Directivo. Esta clase de préstamos se concederán al servidor público con dos años como mínimo de contribución al patrimonio del Instituto, así como al servidor público jubilado. Se destinarán exclusivamente a resolver el problema de la habitación familiar y, por consiguiente, sólo se otorgarán para comprar o construir una casa habitación, incluyendo o no el valor del terreno; para realizar ampliaciones, reparaciones o ambos trabajos; o para redimir gravámenes constituidos sobre la casa habitación propiedad del solicitante.
+Los servidores públicos y los jubilados del Instituto tendrán derecho a obtener préstamos hipotecarios que se otorgarán por acuerdo del Comité de Prestaciones que para tal efecto constituya el Consejo Directivo, en el cual deberán estar representadas las áreas involucradas del Instituto y las personas que designe el propio Consejo Directivo. Esta clase de préstamos se concederán al servidor público con dos años como mínimo de contribución al patrimonio del Instituto, así como al servidor público jubilado. Se destinarán exclusivamente a resolver el problema de la habitación familiar y, por consiguiente, sólo se otorgarán para comprar o construir una casa habitación, incluyendo o no el valor del terreno; para realizar ampliaciones, reparaciones o ambos trabajos, o para redimir gravámenes constituidos sobre la casa habitación propiedad del solicitante.
 
 ###### Artículo 53.
 
@@ -881,23 +881,45 @@ I.- El Consejo Directivo, y
 
 II.- El Director General.
 
-> <small>(REFORMADO, D.O. 16 DE ABRIL DE 1982)</small>
+> <small>(REFORMADO, D.O. 9 DE NOVIEMBRE DE 1989)</small>
 
 ###### Artículo 111.
 
-El Consejo Directivo se compondrá de siete miembros, el primero designado directamente por el Gobernador del Estado con el cargo expreso de Director General del Instituto; el Secretario de Finanzas y Tesorero del Estado; el Titular de la Unidad de Inspección General Administrativa del Estado; otro también designado por el C. Gobernador del Estado, entre los Concejales que integren los Ayuntamientos de los Municipios del Estado; y tres más designados por los Trabajadores de los cuales la Federación de los Sindicatos de los Trabajadores al Servicio del Estado designará uno, el Magisterio otro y los trabajadores de los Ayuntamientos el tercero. El Director será el Presidente del Consejo.
+El Consejo Directivo se compondrá de la siguiente manera:
+
+I.- El Gobernador del Estado, quien lo presidirá;
+
+II.- El Secretario de Gobierno quien suplirá las ausencias del Presidente del Consejo;
+
+III.- El Secretario de Planeación y Presupuesto;
+
+IV.- El Tesorero General del Estado;
+
+V.- El Secretario de la Contraloría General del Estado, con el carácter de Comisario;
+
+VI.- Un representante designado por el Ayuntamiento de Mérida;
+
+VII.- Un representante designado por la Federación de Trabajadores al Servicio del Estado; y
+
+VIII.- Un representante del Sindicato Nacional de Trabajadores de la Educación de la Sección que agrupe a los maestros al servicio del Estado de Yucatán.
+
+Habrá también un Secretario que será designado en los términos de la Ley de Entidades Paraestatales.
+
+> <small>(REFORMADO, D.O. 9 DE NOVIEMBRE DE 1989)</small>
 
 ###### Artículo 112.
 
-Los miembros del Consejo Directivo no podrán ser al mismo tiempo, empleados o funcionarios del Instituto salvo lo previsto en el artículo anterior, por lo que se refiere al Director General.
+Los miembros del Consejo Directivo no podrán ser al mismo tiempo, empleados o funcionarios del Instituto.
 
 ###### Artículo 113.
 
 Los miembros del Consejo Directivo durarán en sus funciones mientras sus nombramientos no sean revocados libremente por quienes los hayan designado.
 
+> <small>(REFORMADO, D.O. 9 DE NOVIEMBRE DE 1989)</small>
+
 ###### Artículo 114.
 
-Por cada miembro propietario del Consejo Directivo, excepción hecha del Director General, se nombrará un suplente, el cual lo substituirá en sus faltas temporales que no excedan de seis meses.
+Por cada miembro propietario del Consejo Directivo se designará un suplente quien lo sustituirá en sus ausencias temporales; con excepción del Gobernador del Estado, quien será sustituido en los términos de esta Ley.
 
 ###### Artículo 115.
 
@@ -927,9 +949,13 @@ IV.- Conceder, negar, suspender, modificar y revocar las jubilaciones y pensione
 
 V.- Aprobar y poner en vigor los reglamentos interiores del propio Instituto;
 
-VI.- Establecer las Representaciones municipales del Instituto que fuesen necesarias en el Estado;
+> <small>(REFORMADA, D.O. 9 DE NOVIEMBRE DE 1989)</small>
 
-VII.- Conferir poderes generales o especiales, de acuerdo con el Director;
+VI.- Designar de entre sus miembros, a aquellos que deban formar parte del Comité de Prestaciones a que se refiere el Artículo 52 de esta Ley;
+
+> <small>(REFORMADA, D.O. 9 DE NOVIEMBRE DE 1989)</small>
+
+VII.- Conferir poderes especiales o generales, previa solicitud del Director General;
 
 > <small>(REFORMADA, D.O. 2 DE ENERO DE 1979)</small>
 
@@ -945,27 +971,41 @@ XI.- Proponer al Ejecutivo del Estado los proyectos de Reforma de esta Ley;
 
 XII.- En general, realizar todos aquellos actos y operaciones autorizadas por esta Ley y que fuesen necesarios para la mejor administración o gobierno del Instituto y prestación de sus servicios.
 
+> <small>(REFORMADA, D.O. 9 DE NOVIEMBRE DE 1989)</small>
+
 ###### Artículo 118.
 
-El Consejo Directivo celebrará las sesiones que sean necesarias para la debida marcha del Instituto. Las sesiones serán válidas con la asistencia cuando menos de cuatro consejeros, tres de los cuales deberán ser representantes del Estado.
+El Consejo Directivo sesionará cuantas veces lo estime necesario pero en ningún caso menos de cuatro veces al año. Las sesiones serán válidas con asistencia de cuando menos cuatro consejeros, tres de los cuales deberán ser representantes del Estado. La convocatoria a las sesiones será formulada por el Secretario del Consejo y deberá acompañar el orden del día sugerido y los documentos necesarios para su desahogo, que para tal efecto remita la Dirección General.
 
 ###### Artículo 119.
 
 Los acuerdos del Consejo Directivo se tomarán por mayoría de votos de los miembros presentes. En caso de empate, el Presidente o quien haga sus veces, tendrá voto de calidad.
 
+> <small>(REFORMADO, D.O. 9 DE NOVIEMBRE DE 1989)</small>
+
 ###### Artículo 120.
 
-A falta del Presidente del Consejo, las sesiones serán dirigidas por uno de los representantes del Estado que se elija por los presentes.
+A falta del Presidente del Consejo, las sesiones serán dirigidas en los términos del Artículo 111 fracción II de esta Ley.
 
 ###### Artículo 121.
 
 Los acuerdos del Consejo Directivo que afecten intereses particulares, podrán recurrirse ante el mismo dentro de los quince días hábiles siguientes, para que sean discutidos nuevamente y, en su caso, ratificados o modificados.
 
+> <small>(ADICIONADO, D.O. 9 DE NOVIEMBRE DE 1989)</small>
+
+###### Artículo 121-A.
+
+El Director General del Instituto será nombrado y removido libremente por el Gobernador del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 9 DE NOVIEMBRE DE 1989)</small>
+
 ###### Artículo 122.
 
-El Director General del Instituto tendrá las obligaciones y facultades y siguientes:
+El Director General del Instituto tendrá las facultades y obligaciones siguientes:
 
-I.- Representar al Instituto y al Consejo Directivo y ejecutar los acuerdos en éste;
+> <small>(REFORMADA, D.O. 9 DE NOVIEMBRE DE 1989)</small>
+
+I.- Representar al Instituto ante toda clase de autoridades, organismos y personas, con la suma de facultades generales y especiales que requiera la Ley, inclusive para sustituir o delegar dicha representación, y ejecutar los acuerdos del Consejo Directivo;
 
 II.- Presentar cada año al Consejo Directivo, un informe pormenorizado del estado del Instituto;
 
@@ -991,9 +1031,13 @@ XII.- Vigilar las labores del personal, exigiendo su debido cumplimiento, e impo
 
 XIII.- Someter a la consideración del Consejo las reformas o adiciones que considere pertinentes a los reglamentos interiores del Instituto;
 
-XIV.- Convocar a sesiones ordinarias y extraordinarias a los miembros del Consejo Directivo cuando proceda, o a su juicio existan razones suficientes.
+> <small>(REFORMADA, D.O. 9 DE NOVIEMBRE DE 1989)</small>
 
-XV.- Todas las demás que le fijen los reglamentos y le otorgue el Consejo Directivo.
+XIV.- Todas las demás que le fijen otras Leyes o Reglamentos y las que le otorgue el Consejo Directivo;
+
+> <small>(REFORMADA, D.O. 9 DE NOVIEMBRE DE 1989)</small>
+
+XV.- Designar a los funcionarios del Instituto que deban formar parte del Comité de Prestaciones a que se refiere el Artículo 52 de esta Ley.
 
 ###### Artículo 123.
 
@@ -1007,9 +1051,11 @@ El Director General podrá ser auxiliado en sus funciones por uno o más subdire
 
 Los funcionarios y el personal del Instituto serán pagados con cargo al presupuesto de éste, y percibirán la retribución que en el mismo se señale.
 
+> <small>(REFORMADO, D.O. 9 DE NOVIEMBRE DE 1989)</small>
+
 ###### Artículo 126.
 
-Las relaciones de trabajo entre el propio Instituto y su personal se regirán por el Estatuto Jurídico de los Trabajadores al Servicio del Estado.
+Las relaciones de trabajo entre el Instituto y su personal, se regirán por las disposiciones de la Ley de los Trabajadores al Servicio del Estado y los Municipios del Estado de Yucatán.
 
 ###### Artículo 127.
 
@@ -1068,3 +1114,9 @@ UNICO.- Este Decreto entrará en vigor el día siguiente al de su publicación e
 D.O. 4 DE ABRIL DE 1988.
 
 UNICO.- El Presente Decreto deroga las disposiciones legales que lo contravengan y entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 9 DE NOVIEMBRE DE 1989.
+
+PRIMERO.- Se derogan las disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
+
+SEGUNDO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
