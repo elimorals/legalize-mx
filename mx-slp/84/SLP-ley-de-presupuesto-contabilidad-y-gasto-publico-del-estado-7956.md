@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-7956
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-23"
-last_updated: "1996-06-17"
+last_updated: "1998-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1998.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de San Luis Potosí, el miércoles 23 de noviembre de 1994.
 
@@ -39,9 +39,11 @@ LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
+
 ###### Artículo 1o.
 
-La presente Ley regula la formulación y el ejercicio del presupuesto, la contabilidad y el gasto público del Estado y será aplicada por el Ejecutivo Estatal, a través de la Secretaría de Planeación y Finanzas, la Oficialía Mayor de Gobierno y la Coordinación General de Contraloría, conforme a las atribuciones que de manera específica les señale este ordenamiento.
+La presente ley regula la formulación y el ejercicio del presupuesto, la contabilidad y el gasto público del Estado y será aplicada por el Ejecutivo Estatal, a través de la Secretaría de Planeación del Desarrollo, Secretaría de Finanzas, la Oficialía Mayor de Gobierno y la Contraloría General del Estado, conforme a las atribuciones que de manera específica les señale este ordenamiento.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 1996)</small>
 
@@ -55,29 +57,41 @@ II.- El Poder Judicial;
 
 III.- La Administración Pública Centralizada; y
 
-IV.- La Administración Pública Paraestatal o Delegada.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 1998)</small>
 
-Para efectos de esta Ley, se entenderán como entidades a las instituciones mencionadas en este artículo, salvo mención expresa.
+IV.- La Administración Pública Paraestatal.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
+
+Para efectos de esta ley, se entenderá como Dependencias y Entidades a las mencionadas expresamente en el artículo 3 de la Ley Orgánica de la Administración Pública del Estado de San Luis Potosí.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
 
 ###### Artículo 3o.
 
-El ejercicio del gasto público estatal se basará en las directrices y planes estatales de desarrollo económico y social que formule el Ejecutivo por conducto de la Secretaría de Planeación y Finanzas.
+La planeación, programación y el ejercicio del gasto público estatal se basará en las directrices del Plan Estatales de Desarrollo y los programas sectoriales, regionales y especiales que de allí deriven, que formule el Ejecutivo por conducto de la Secretaría de Planeación del Desarrollo.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
 
 ###### Artículo 4o.
 
-Las actividades de programación, presupuestación, control y evaluación del gasto público estatal estarán a cargo de la Secretaría de Planeación y Finanzas, la que dictará las disposiciones procedentes para el eficaz cumplimiento de sus funciones.
+Las actividades de programación y presupuestación del gasto público estatal estarán a cargo de la Secretaría de Planeación del Desarrollo, las tareas de control y evolución del gasto público estatal estarán a cargo de la Secretaría de Finanzas; dichas Dependencias dictarán las disposiciones procedentes para el eficaz cumplimiento de sus funciones.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
 
 ###### Artículo 5o.
 
-La Comisión de Gasto-Financiamiento, cuya integración y reglas generales de operación serán determinadas por acuerdo del Ejecutivo, será el órgano encargado de cuidar que las decisiones que se tomen en materia de gasto público y su financiamiento se apeguen a lo establecido en la presente Ley y su reglamento, así como que mantengan congruencia con el Plan Estatal de Desarrollo y podrá formular las recomendaciones que considere necesarias.
+La Comisión de Gasto-Financiamiento, cuya integración y reglas generales de operación serán determinadas por acuerdo del Ejecutivo, será el órgano encargado de cuidar que las decisiones que se tomen en materia de gasto público y su financiamiento se apeguen a lo establecido en la presente ley y su reglamento, así como que mantengan congruencia con el Plan Estatal de Desarrollo y los programas sectoriales, regionales y especiales que se deriven, y podrá formular las recomendaciones que considere necesarias.
 
 ###### Artículo 6o.
 
 Cada entidad contará con una unidad administrativa encargada de llevar el control presupuestal y la contabilidad de sus operaciones financieras.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
+
 ###### Artículo 7o.
 
-Para financiar los programas incluidos en los presupuestos de las entidades, sólo se podrán concertar empréstitos que previamente hayan sido autorizados por el Congreso del Estado, en los términos de la Ley de Deuda Pública. Estos créditos se concertarán y contratarán por conducto de la Secretaría de Planeación y Finanzas.
+Para financiar los programas incluidos en los presupuestos de las Dependencias y Entidades, sólo se podrán concertar empréstitos que previamente hayan sido autorizados por el Congreso del Estado, en los términos de la Ley de Deuda Pública. Estos créditos se concertarán y concretarán por conducto de la Secretaría de Finanzas.
 
 ### CAPITULO II. DEL PRESUPUESTO DE EGRESOS
 
@@ -85,17 +99,23 @@ Para financiar los programas incluidos en los presupuestos de las entidades, só
 
 El gasto público del Estado se basará en el presupuesto de egresos que se formulará con base en programas que señalen objetivos, metas y unidades responsables de su ejecución. Es Presupuesto de Egresos del Estado el aprobado anualmente por el Congreso del Estado a iniciativa del Ejecutivo.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
+
 ###### Artículo 9o.
 
-Para la formulación del Presupuesto de Egresos del Estado, las entidades elaborarán sus proyectos y los remitirán a la Secretaría de Planeación y Finanzas a más tardar el treinta de septiembre del año anterior a su entrada en vigor, sujetándolos a las normas y montos que dicte el Ejecutivo, a través de la propia Secretaría de Planeación y Finanzas. Los Poderes Legislativo y Judicial determinarán las normas para la formulación de sus respectivos presupuestos.
+Para la formulación del Presupuesto de Egresos del Estado, las Dependencias y Entidades elaborarán sus proyectos y los remitirán a la Secretaría de Planeación del Desarrollo a más tardar el treinta de septiembre del año anterior a su entrada en vigor, sujetándolos a las normas y montos que dicte el Ejecutivo, a través de la propia Secretaría de Planeación del Desarrollo. Los Poderes Legislativo y Judicial determinarán las normas para la formulación de sus respectivos presupuestos.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
 
 ###### Artículo 10.
 
-La Secretaría de Planeación y Finanzas estará facultada para formular el proyecto de presupuesto de las entidades, cuando éstas no lo presenten en los plazos, normas o montos que al efecto se señalen.
+La Secretaría de Planeación del Desarrollo estará facultada para formular el proyecto de presupuesto de las dependencias y entidades, cuando éstas no lo presenten en los plazos, normas o montos que al efecto se señalen.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 1998)</small>
 
 ###### Artículo 11.
 
-El proyecto de Presupuesto de Egresos del Estado se integrará con los datos y documentos que contengan:
+El proyecto de Presupuesto de Egresos del Estado se integrará con los datos y documentos que presenten las Dependencias y Entidades de la Administración Pública Central y Paraestatal a la Secretaría de Planeación del Desarrollo y que contengan:
 
 I.- La descripción clara de los programas que sean la base del proyecto, en los que se señalen los objetivos, metas y unidades responsables de su ejecución;
 
@@ -107,53 +127,71 @@ IV.- Comentarios sobre las condiciones económicas y financieras del Estado, tan
 
 V.- En general, toda la información que se considere útil para mostrar la propuesta en forma clara y completa.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
+
 ###### Artículo 12.
 
-Las entidades deberán estimar anualmente los gastos por concepto de materiales, suministros y servicios generales, conforme a los lineamientos que emita el Ejecutivo a través de la Secretaría de Planeación y Finanzas.
+Las entidades deberán estimar anualmente los gastos por concepto de materiales, suministros y servicios generales, conforme a los lineamientos que emita el Ejecutivo a través de la Secretaría de Planeación del Desarrollo.
 
 ###### Artículo 13.
 
 La previsión de gastos por concepto de transferencias y subsidios deberá obedecer a criterios específicos, acordes a los objetivos y metas que pretenda el Ejecutivo.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
+
 ###### Artículo 14.
 
-El proyecto de Presupuesto de Egresos del Estado deberá ser presentado oportunamente al Ejecutivo por la Secretaría de Planeación y Finanzas, para ser enviado al Congreso del Estado a más tardar el día primero de diciembre del año inmediato anterior al que corresponda. Previa solicitud justificada del Titular del Poder Ejecutivo el Congreso podrá ampliar el plazo señalado.
+El proyecto de Presupuesto de Egresos del Estado deberá ser presentado oportunamente al Ejecutivo por la Secretaría de Planeación del Desarrollo, para ser enviado al Congreso del Estado a más tardar el día quince de noviembre del año inmediato anterior al que corresponda. Previa solicitud justificada del titular del Poder Ejecutivo, el Congreso podrá ampliar el plazo señalado.
 
 ### CAPITULO III. DEL EJERCICIO DEL GASTO PUBLICO DEL ESTADO
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
+
 ###### Artículo 15.
 
-Para la ejecución del gasto público estatal, las entidades deberán sujetarse a las previsiones de esta Ley y, en el caso de las comprendidas en las fracciones III y IV del artículo 2o. de la misma, observar las disposiciones que al efecto dicte el Ejecutivo a través de la Secretaría de Planeación y Finanzas.
+Para la ejecución del gasto público estatal, las Dependencias y Entidades deberán sujetarse a las previsiones de esta ley, y en el caso de las comprendidas en las fracciones III y IV del artículo 2 de la misma, observar las disposiciones que al efecto dicte el titular del Poder Ejecutivo a través de la Secretaría de Planeación del Desarrollo.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
 
 ###### Artículo 16.
 
-Cuando las entidades que se mencionan en las fracciones III y IV del artículo 2o. de la presente Ley, realicen operaciones con cargo al gasto público estatal, estarán obligadas a proporcionar a la Secretaría de Planeación y Finanzas la información que solicite y a permitir al personal de la Coordinación General de Contraloría del Estado y de la propia Secretaría de Planeación y Finanzas, la práctica de visitas y auditorías para la comprobación del cumplimiento de las obligaciones derivadas de esta Ley y de las disposiciones expedidas con base en ella.
+Cuando las Dependencias y Entidades que se mencionan en las fracciones III y IV del artículo 2 de la presente ley, realicen operaciones con cargo al gasto público estatal, estarán obligadas a proporcionar a la Secretaría de Planeación del Desarrollo la información que solicite y a permitir al personal de la Contraloría General del Estado y de la propia Secretaría de Planeación del Desarrollo, la práctica de visitas y auditorías para la comprobación del cumplimiento de las obligaciones derivadas de esta ley y de las disposiciones expedidas con base en ella.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
 
 ###### Artículo 17.
 
-La Secretaría de Planeación y Finanzas, por sí o a través de sus diversas oficinas, efectuará los cobros y pagos correspondientes a las entidades previstas en el artículo 2o. de esta Ley, excepto en el caso de los Poderes Legislativo y Judicial, que los realizarán por conducto de sus respectivas tesorerías.
+La Secretaría de Finanzas, por sí o a través de sus diversas oficinas, efectuará los cobros y pagos correspondientes a las De-pendencias (sic) y Entidades previstas en el artículo 2 de esta ley, excepto en el caso de los Poderes Legislativo y Judicial, que los realizarán por conducto de sus respectivas Tesorerías.
 
-La ministración de los fondos correspondientes será autorizada en todos los casos por la Secretaría de Planeación y Finanzas, de conformidad con el Presupuesto de Egresos aprobado por el Congreso del Estado.
+La administración de los fondos correspondientes será autorizada en todos los casos por la Secretaría de Finanzas de conformidad con el Presupuesto de Egresos aprobado por el Congreso Estatal.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
 
 ###### Artículo 18.
 
-Tratándose de ingresos extraordinarios, diversos a los previstos en la Ley de Ingresos del Estado, el Ejecutivo podrá asignar, por conducto de la Secretaría de Planeación y Finanzas, los recursos a los programas que considere convenientes y deberá informar al Congreso del Estado, cuando rinda los informes financieros mensuales y el informe anual de la Hacienda Pública Estatal.
+Tratándose de ingresos extraordinarios, diversos a los previstos en la Ley de Ingresos del Estado, el Ejecutivo podrá asignar, por conducto de la Secretaría de Planeación del Desarrollo, los recursos a los programas que considere conveniente y deberá informar al Congreso del Estado, cuando rinda los informes financieros trimestrales y el informe anual de la Hacienda Pública Estatal.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
 
 ###### Artículo 19.
 
-El Gasto Público Estatal deberá ajustarse al monto autorizado para los programas y partidas presupuestales, respetando los calendarios establecidos. Sólo por excepción plenamente justificada, el Ejecutivo, por conducto de la Secretaría de Planeación y Finanzas, podrá autorizar ampliaciones presupuestales. De los movimientos que se efectúen en los términos de este artículo, el Ejecutivo informará al Congreso del Estado al rendir los informes financieros mensuales y el informe anual de la Hacienda Pública Estatal.
+El gasto público estatal deberá ajustarse al monto autorizado para los programas y partidas presupuestales, respetando los calendarios establecidos. Sólo por excepción plenamente justificada, el titular del Poder Ejecutivo por conducto de la Secretaría de Planeación del Desarrollo, podrá autorizar ampliaciones presupuestales. De los movimientos que se efectúen en los términos de este artículo, el Ejecutivo informará al Congreso del Estado al rendir los informes financieros trimestrales y el informe anual de la Hacienda Pública Estatal.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
 
 ###### Artículo 20.
 
-Las entidades mencionadas en el artículo 2o., fracciones III y IV, de esta Ley, deberán informar, a más tardar el treinta y uno de enero de cada año, a la Secretaría de Planeación y Finanzas el monto y características de su pasivo circulante al cierre del año anterior.
+Las Dependencias y Entidades mencionadas en el artículo 2, fracciones III y IV, de esta ley, deberán informar a más tardar el quince de enero de cada año a la Secretaría de Planeación del Desarrollo, el monto y características de su pasivo circulante al cierre del año anterior.
 
 ###### Artículo 21.
 
 Una vez concluida la vigencia del Presupuesto de Egresos del Estado, sólo procederá hacer pagos con base en él, por los conceptos efectivamente devengados en el año al que corresponde y siempre que se hubieran contabilizado debida y oportunamente las operaciones respectivas y, en su caso, se hayan detallado en el informe a que se refiere el artículo anterior.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
+
 ###### Artículo 22.
 
-La Secretaría de Planeación y Finanzas administrará todas las garantías que se otorguen en favor del Estado por los actos y contratos que se celebren. Esta Secretaría conservará los documentos respectivos y hará efectivos los derechos que correspondan al Gobierno del Estado.
+La Secretaría de Finanzas administrará todas las garantías que se otorguen en favor del Estado, por los actos y contratos que se celebren. Esta Secretaría conservará los documentos respectivos y hará efectivos los derechos que correspondan al Gobierno del Estado.
 
 ###### Artículo 23.
 
@@ -173,33 +211,43 @@ La acción para exigir el pago de las remuneraciones del personal que depende de
 
 Cada entidad llevará su propia contabilidad, la cual incluirá cuentas para registrar tanto los activos, pasivos, patrimonio, ingresos y gastos, como las asignaciones, compromisos y ejecuciones correspondientes a los programas y partidas de su propio presupuesto.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
+
 ###### Artículo 27.
 
-Los catálogos de cuentas que utilizarán las entidades serán emitidos por la Secretaría de Planeación y Finanzas. Los sistemas de contabilidad deberán formularse y operarse en tal forma que faciliten la fiscalización de los activos, pasivos, ingresos, gastos, avances en la ejecución de programas y, en general, de manera que permitan medir la eficacia y eficiencia del Gasto Público Estatal. Los Poderes Legislativo y Judicial podrán formular sus propios catálogos de cuentas.
+Los catálogos de cuentas que utilizarán las Dependencias y Entidades serán emitidos por la Secretaría de Finanzas, los sistemas de contabilidad deberán formularse y operarse en tal forma que faciliten la fiscalización de los activos, pasivos, ingresos, gastos, avances en la ejecución de programas y, en general, de manera que permitan medir la eficacia y eficiencia del Gasto Público Estatal. Los Poderes Legislativo y Judicial podrán formularse sus propios catálogos de cuentas.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
 
 ###### Artículo 28.
 
-Las entidades que se mencionan en las fracciones III y IV del artículo 2o. de esta Ley, suministrarán a la Secretaría de Planeación y Finanzas, con la periodicidad que ésta lo determine, la información presupuestal, contable, financiera y de otra índole que requiera.
+Las Dependencias y Entidades que se mencionan en las fracciones III y IV del artículo 2 de esta ley, suministrarán a la Secretaría de Finanzas, con la periodicidad que ésta lo determine, la información presupuestal, contable, financiera y de otra índole que requiera.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
 
 ###### Artículo 29.
 
-La Secretaría de Planeación y Finanzas girará instrucciones sobre la forma y términos en que las entidades tendrán que llevar sus registros auxiliares de contabilidad y, en su caso, deban rendirle sus informes para fines de contabilización y consolidación. Asimismo, examinará periódicamente el funcionamiento del sistema y los procedimientos de contabilidad de cada entidad, pudiendo autorizar su modificación o simplificación. Tratándose de los Poderes Legislativo y Judicial, éstos establecerán individualmente sus sistemas de registro contable, los que no estarán sujetos a evaluación por parte de la Secretaría de Planeación y Finanzas.
+La Secretaría de Finanzas girará instrucciones sobre la forma y términos en que las Dependencias y Entidades tendrán que llevar sus registros auxiliares de contabilidad y, en su caso, deban rendirle sus informes para fines de contabilización y consolidación. Asimismo, examinará periódicamente el funcionamiento del sistema y los procedimientos de contabilidad de cada Dependencia y Entidad, pudiendo autorizar su modificación o simplificación. Tratándose de los Poderes Legislativo y Judicial, éstos establecerán individualmente sus sistemas de registro contable, los que no estarán sujetos a evaluación por parte de la Secretaría de Finanzas.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
 
 ###### Artículo 30.
 
-Los estados financieros y demás información contable, presupuestal y financiera que emanen de las entidades de la Administración Pública Estatal Centralizada y Paraestatal, serán consolidados por la Secretaría de Planeación y Finanzas, la que será responsable de formular la cuenta anual de la Hacienda Pública Estatal y someterla a la consideración del Ejecutivo para su presentación al Congreso del Estado, en los términos del artículo 95 de la Constitución Política local.
+Los estados financieros y demás información contable, presupuestal y financiera que emanen de las Dependencias y Entidades de la Administración Pública Estatal Centralizada y Paraestatal, serán consolidados por la Secretaría de Finanzas, la que será responsable de formular la cuenta trimestral de la Hacienda Pública Estatal y someterla a la consideración del titular del Ejecutivo para su presentación al Congreso del Estado, en los términos del artículo 80 fracción VI de la Constitución Política local, así como la publicación de un resumen de la misma.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1998)</small>
 
 ###### Artículo 31.
 
-En las dependencias de la Administración Pública Centralizada y Paraestatal se establecerán órganos de contraloría que dependerán de la Coordinación General de Contraloría, los que cumplirán los programas de control y evaluación que ésta les señale.
-
-El Ejecutivo, por conducto de la propia Coordinación General de Contraloría, podrá acordar que no se establezcan dichos órganos en aquellas dependencias que, por la naturaleza de sus funciones o por la magnitud de sus operaciones, no lo justifiquen.
+En las Dependencias y Entidades de la Administración Pública Centralizada y Paraestatal se establecerán órganos de contraloría que dependerán de la Contraloría General de Estado, los que cumplirán los programas de control y evaluación que ésta les señale. El titular del Poder Ejecutivo, por conducto de la propia Contraloría General del Estado, podrá acordar que no se establezcan dichos órganos en aquellas dependencias que, por la naturaleza de sus funciones o por la magnitud de sus operaciones, no lo justifiquen.
 
 ### CAPITULO V. DE LAS RESPONSABILIDADES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 1998)</small>
+
 ###### Artículo 32.
 
-Corresponde a la Coordinación General de Contraloría del Estado, tratándose de las entidades que se mencionan en el artículo 2o., fracciones III y IV de esta Ley, así como a la Contaduría Mayor de Hacienda del Congreso del Estado, en todos los casos, dictar las medidas correspondientes sobre las responsabilidades que afecten a la Hacienda Pública Estatal, derivadas del incumplimiento de las disposiciones contenidas en la presente Ley y demás normas que se expidan con base en ella y que se conozcan a través de:
+Corresponde a la Contraloría General del Estado, tratándose de las Dependencias y Entidades que se mencionan en el artículo 2, fracciones III y IV de esta ley, así como a la Contaduría Mayor de Hacienda del Congreso del Estado, en todos los casos, dictar las medidas correspondientes sobre las responsabilidades que afecten a la Hacienda Pública Estatal, derivadas del incumplimiento de las disposiciones contenidas en la presente ley y demás normas que se expidan con base en ella y que se conozcan a través de:
 
 I.- Visitas, auditorías o investigaciones que se realicen; y
 
@@ -256,3 +304,9 @@ PRIMERO.- Al reformarse los artículos anteriormente precisados, se derogan en c
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente; y,
 
 TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE JUNIO DE 1998.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
