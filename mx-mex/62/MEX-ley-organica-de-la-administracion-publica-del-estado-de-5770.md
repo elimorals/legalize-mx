@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "1981-09-17"
+last_updated: "1986-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 1986.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -191,7 +191,7 @@ XV. Realizar los actos jurídicos necesarios para reivindicar la propiedad del E
 
 XVI. Proponer al Gobernador del Estado y ejecutar los programas relativos a la protección de los habitantes, al orden público y la prevención de delitos.
 
-XVII. Velar por la protección de los habitantes, el orden público y la prevención de delitos.
+XVII. Velar por la protección de los habitantes, al orden público y la prevención de delitos.
 
 XVIII. Administrar y vigilar el tránsito en las carreteras y caminos de jurisdicción estatal en los términos que señalen las leyes y reglamentos respectivos.
 
@@ -207,7 +207,7 @@ XXIII. Tramitar los nombramientos que para el ejercicio de las funciones notaria
 
 XXIV. Llevar el Libro de Registro de Notarios y organizar y controlar el Archivo de Notarías del Estado.
 
-XXV. Ejecutar por Acuerdo del Gobernador las expropiaciones, ocupación temporal y limitación de dominio, en los casos de utilidad pública de conformidad con la Legislación relativa.
+XXV. Ejecutar por Acuerdo del Gobernador las expropiaciones, ocupación temporal y limitación de dominio en los casos de utilidad pública de conformidad con la Legislación relativa.
 
 XXVI. Organizar, dirigir y vigilar el ejercicio de las funciones del Registro Civil y del Registro Público de la Propiedad y de Comercio.
 
@@ -277,7 +277,7 @@ La Secretaría de Planeación es el órgano encargado de dirigir la planeación,
 
 A la Secretaría de Planeación corresponde el despacho de los siguientes asuntos:
 
-I. Elaborar con la participación de las dependencias y organismos auxiliares del Poder Ejecutivo el Plan Estatal, los planes regionales y sectoriales de desarrollo, los programas estatales de inversión y aquellos de carácter especial que fije el Gobernador del Estado.
+I. Elaborar con la participación de los dependencias y organismos auxiliares del Poder Ejecutivo el Plan Estatal, los planes regionales y sectoriales de desarrollo, los programas estatales de inversión y aquellos de carácter especial que fije el Gobernador del Estado.
 
 II. Establecer la coordinación de los programas de Desarrollo Socioeconómico del Gobierno del Estado con los de la Administración Pública Federal y los de los municipios de la entidad.
 
@@ -371,7 +371,7 @@ III. Elaborar y, en su caso, ejecutar los convenios de coordinación que en mate
 
 IV. Representar al Gobierno del Estado ante todo tipo de organismos educativos.
 
-V. Revalidar los estudios, diplomas, grados o títulos equivalentes a la enseñanza que se imparta en el Estado, en los términos de la Ley de la materia.
+V. Revalidar los estudios, diplomas, grados o títulos equivalentes a la enseñanza que se imparta en el Estado, en los términos de la ley de la materia.
 
 VI. Llevar el registro y control de los profesionistas que ejerzan en el Estado y organizar el servicio social en la entidad.
 
@@ -457,7 +457,7 @@ VII. Promover el establecimiento y vigilar el funcionamiento de los Servicios Me
 
 VIII. Vigilar la preservación de los recursos naturales renovables y desarrollar su potencial productivo.
 
-IX. Realizar directamente en coordinación con los ayuntamientos, campañas permanentes para prevenir y combatir plagas, siniestros y enfermedades que atacan las especies vegetales y animales en el Estado.
+IX. Realizar directamente en coordinación con los Ayuntamientos, campañas permanentes para prevenir y combatir plagas, siniestros y enfermedades que atacan las especies vegetales y animales en el Estado.
 
 X. Coordinar su actualización con las autoridades federales a fin de lograr la eficaz utilización de los recursos hidráulicos del Estado.
 
@@ -495,7 +495,7 @@ VII. Participar en la planeación y programación de las obras e inversiones ten
 
 VIII. Servir de órgano de consulta y asesoría en materia de desarrollo económico tanto a los organismos públicos y privados como a las dependencias del Ejecutivo.
 
-IX. Asesorar técnicamente a los ayuntamientos, a los sectores sociales y privado que lo soliciten, en el establecimiento de nuevas industrias o en la ejecución de proyectos productivos.
+IX. Asesorar técnicamente a los Ayuntamientos, a los sectores sociales y privado que lo soliciten, en el establecimiento de nuevas industrias o en la ejecución de proyectos productivos.
 
 X. Apoyar la creación y desarrollo de agroindustrias en el Estado y fomentar la industria rural.
 
@@ -507,7 +507,7 @@ XIII. Participar en la creación y administración de parques, corredores y ciud
 
 XIV. Formular y promover el establecimiento de medidas para el fomento y protección del comercio de primera mano en el Estado.
 
-XV. Ejercer, previo acuerdo del Ejecutivo del Estado, las atribuciones y funciones que en materia industrial, turística y comercial contengan los convenios firmados entre el mismo y la administración pública federal.
+XV. Ejercer, previo acuerdo del Ejecutivo del Estado, las atribuciones y funciones que en materia industrial, turística y comercial contengan los convenios firmados entre él mismo y la administración pública federal.
 
 XVI. Organizar y fomentar la producción artesanal en el Estado, vigilando que su comercialización se haga en términos ventajosos para los artesanos.
 
@@ -565,7 +565,7 @@ La Procuraduría General de Justicia es el órgano encargado del Ministerio Púb
 
 ###### Artículo 40.
 
-A la Procuraduría General de Justicia, además de las facultades y obligaciones que específicamente le confieren la Constitución Política del Estado y demás leyes respectivas, en el orden administrativo, tendrá las siguientes funciones:
+A la Procuraduría General de Justicia, además de las facultades y obligaciones que específicamente le confieren la Constitución Política del Estado y demás leyes respectivas en el orden administrativo, tendrá las siguientes funciones:
 
 I. Vigilar el respeto de las leyes por parte de todas las autoridades del Estado.
 
@@ -581,17 +581,21 @@ VI. Formular programas de capacitación para el personal de la Procuraduría y d
 
 ### CAPITULO CUARTO. De los Tribunales Administrativos
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
 ###### Artículo 41.
 
-Para resolver los conflictos que se presenten en las relaciones laborales entre el Estado y sus trabajadores, entre los patrones y sus trabajadores, o bien, las controversias que se susciten entre las autoridades fiscales del Estado y los particulares, existirán un Tribunal de Arbitraje, una Junta Local de Conciliación y Arbitraje y un Tribunal Fiscal.
+Para resolver los conflictos que se presenten en las relaciones laborales entre el Estado y sus Trabajadores, entre patrones y sus trabajadores, y entre la Administración Pública y los particulares, existirán un Tribunal de Arbitraje, una Junta Local de Conciliación y Arbitraje y un Tribunal de lo Contencioso Administrativo, este último autónomo e independiente de cualquier autoridad administrativa.
 
 ###### Artículo 42.
 
 Los Tribunales Administrativos gozarán de plena autonomía jurisdiccional en la emisión de sus respectivas resoluciones.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
+
 ###### Artículo 43.
 
-Para el ejercicio de sus funciones, estos tribunales contarán con el apoyo administrativo del Poder Ejecutivo del Estado. La Secretaría de Gobierno apoyará la operación del Tribunal de Arbitraje y de las Juntas de Conciliación y Arbitraje, correspondiendo a la Secretaría de Finanzas la obligación de prestar el apoyo que requiera el Tribunal Fiscal del Estado.
+Para el ejercicio de sus funciones, estos Tribunales contarán con el apoyo administrativo del Poder Ejecutivo del Estado.
 
 ###### Artículo 44.
 
@@ -621,25 +625,25 @@ En la integración del capital social de estas empresas, podrán participar los 
 
 ###### Artículo 49.
 
-El Gobernador del Estado determinará qué dependencias del Ejecutivo serán las responsables de planear, vigilar y evaluar la operación de los organismos auxiliares a que se refieren los artículos 45 y 46 de esta ley.
+El Gobernador del Estado determinará qué dependencias del Ejecutivo serán las responsables de planear, vigilar y evaluar la operación de los organismos auxiliares a que se refieren los artículos 45 y 46 de esta Ley.
 
 ## TRANSITORIOS
 
-Primero.- La presente Ley entrará en vigor el día de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado.
+Artículo Primero.- La presente Ley entrará en vigor el día de su publicación en el periódico oficial «Gaceta del Gobierno» del Estado.
 
-Segundo.- Se abroga la Ley Orgánica del Poder Ejecutivo del Estado de México del 12 de enero de 1976 y se derogan todas las disposiciones que se opongan a la presente Ley.
+Artículo Segundo.- Se abroga la Ley Orgánica del Poder Ejecutivo del Estado de México del 12 de enero de 1976 y se derogan todas las disposiciones que se opongan a la presente Ley.
 
-Tercero.- Cuando alguna unidad administrativa pase, conforme a esta Ley, de una dependencia del Ejecutivo a otra, el traspaso se hará incluyendo al personal a su servicio, sin perjuicio de sus derechos adquiridos, el mobiliario, los vehículos, instrumentos, aparatos, maquinaria, archivos y en general el equipo que tales unidades hayan venido usando para la atención de los asuntos que tuvieron encomendados conforme a la Ley anterior.
+Artículo Tercero.- Cuando alguna unidad administrativa pase, conforme a esta Ley, de una dependencia del Ejecutivo a otra, el traspaso se hará incluyendo al personal a su servicio sin perjuicio de sus derechos adquiridos, el mobiliario, los vehículos, instrumentos, aparatos, maquinaria, archivos y en general el equipo que tales unidades hayan venido usando para la atención de los asuntos que tuvieron encomendados conforme a la Ley anterior.
 
-Cuarto.- Los asuntos que con motivo de esta Ley deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramitan se incorporen a la dependencia que señale esta Ley, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+Artículo Cuarto.- Los asuntos que con motivo de esta Ley deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramitan se incorporen a la dependencia que señale esta Ley a excepción de los trámites urgentes o sujetos a plazos improrrogables.
 
-Quinto.- Cuando en esta Ley se dé denominación nueva o distinta a alguna dependencia cuyas funciones estén establecidas por la Ley anterior y otras leyes especiales, dichas atribuciones se entenderán concedidas a la dependencia que determine esta Ley.
+Artículo Quinto.- Cuando en esta Ley se dé denominación nueva o distinta a alguna dependencia cuyas funciones estén establecidas por la Ley anterior y otras leyes especiales, dichas atribuciones se entenderán concedidas a la dependencia que determine esta Ley.
 
 Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
 
-Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, capital del Estado de México, a los quince días del mes de septiembre de mil novecientos ochenta y uno.- Diputado Presidente, Lic. Mario Ruíz de Chávez.- Diputado Secretario, Lic. Lorenzo Vera Osorno, -Diputado Secretario, Profra. Mercedes González Vda. de Acosta.- Rúbricas.
+Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, capital del Estado de México, a los quince días del mes de septiembre de mil novecientos ochenta y uno.- Diputado Presidente, Lic. Mario Ruíz de Chávez.- Diputado Secretario, Lic. Lorenzo Vera Osorno, Diputado Secretario.-, Profra. Mercedes González Vda. de Acosta.- Rúbricas.
 
-Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
+Por tanto mando se publique, circule, observe y se le dé el debido cumplimiento.
 
 Toluca de Lerdo, Méx., a 17 de Septiembre de 1981.
 
@@ -650,3 +654,11 @@ LIC. ALFREDO DEL MAZO GONZALEZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. MARIO COLIN SANCHEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 31 DE DICIEMBRE DE 1986
+
+###### ARTICULO UNICO.
+
+Publíquese el presente Decreto en la "Gaceta de Gobierno" del Estado, el cual entrará en vigor el día primero de Enero de Mil Novecientos Ochenta y Siete.
