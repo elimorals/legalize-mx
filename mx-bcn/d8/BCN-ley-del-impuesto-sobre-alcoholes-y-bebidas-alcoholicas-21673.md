@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-impuesto-sobre-alcoholes-y-bebidas-alcoholicas-21673"
 country: "mx"
 rank: "ley"
 publication_date: "1969-04-11"
-last_updated: "1971-09-20"
+last_updated: "1971-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL IMPUESTO SOBRE ALCOHOLES Y BEBIDAS ALCOHOLICAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1971.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 11 de abril de 1969.
 
@@ -101,15 +101,21 @@ II.- Obtener de la Tesorería General del Estado, el permiso de producción, den
 
 III.- Presentar a la Tesorería General del Estado, copia autorizada del permiso de elaboración, expedido por las Secretarías de Hacienda y Crédito Público y Salubridad y Asistencia Pública y, en su caso, de la que los modifique o altere.
 
-IV.- Dar aviso a la Recaudación de Rentas del Estado, de la jurisdicción del causante, del inicio y terminación del ciclo de producción.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1971)</small>
+
+IV.- Dar aviso a la Recaudación de Rentas del Estado, de la jurisdicción del causante, del inicio y terminación del ciclo de producción, dentro de los cinco días siguientes a la fecha en que se haya iniciado y concluído la producción.
 
 V.- Llevar su contabilidad en la forma que prevengan las leyes o reglamentos de la materia.
 
-VI.- Llevar un libro especial de producción, autorizado por la oficina Recaudadora de la jurisdicción de la fábrica, conforme a la forma aprobada por la misma oficina.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1971)</small>
+
+VI.- Llevar un libro especial de producción, autorizado por la Oficina Recaudadora de la jurisdicción de la fábrica, conforme a la forma aprobada por la Secretaría de Finanzas y adoptar en el funcionamiento de las fábricas, bodegas, almacenes, depósitos y establecimientos similares, los sistemas que para el control de la fabricación, envasamiento y venta de los productos gravados, les señale la propia Secretaría, la que en todo tiempo y cuando lo considere necesario, podrá establecer inspección permanente en esos establecimientos, a costa de los interesados por el tiempo que juzgue necesario, cuando existan indicios de que se está evadiendo el pago del Impuesto.
 
 VII.- Conservar en el domicilio de la fabrica, su contabilidad y la documentación comprobatoria relativa a la producción por el término de cinco años.
 
-VIII.- Obtener permiso de la Tesorería General del Estado, para remitir o vender sus productos en recipientes de capacidad mayor a la permitida.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1971)</small>
+
+VIII.- No permitir la salida de bebidas alcohólicas cuya producción se hubiese terminado, si no están envasadas y si los envases no ostentan el marbete de haber sido inspeccionados, o en su caso, obtener permiso de la Secretaría de Finanzas para remitir o vender sus productos en recipientes de capacidad distinta a la autorizada.
 
 IX.- Facilitar a las autoridades fiscales, en cualquier momento la inspección de la fábrica, equipo, instalaciones y vehículos de la misma, proporcionando los datos y documentación que se les solicite, así como permitir el acceso a cualquier lugar o casa habitación que tenga relación con el negocio.
 
@@ -123,9 +129,13 @@ I.- Obtener de la Tesorería General del Estado, el permiso para dedicarse a la 
 
 II.- Inscribirse en la Recaudación de Rentas del Estado, de su jurisdicción como ampliadores, envasadores o transformadores de alcohol y bebidas alcohólicas, diez días antes del inicio de sus operaciones para obtener su cédula de empadronamiento.
 
-III.- Dar aviso a la Recaudación de Rentas de su jurisdicción, del inicio y terminación del ciclo de ampliación, transformación o envasamiento.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1971)</small>
 
-IV.- Llevar un libro especial de elaboración, ampliación, transformación o envasamiento, autorizado por la oficina Recaudadora de la jurisdicción de la fábrica, conforme a la forma aprobada por la Tesorería General del Estado.
+III.- Dar aviso a la Recaudación de Rentas de su jurisdicción, del inicio y terminación del ciclo de ampliación, transformación o envasamiento dentro de los cinco días siguientes a la fecha en que se haya iniciado y concluído la operación respectiva.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1971)</small>
+
+IV.- Llevar un libro especial de elaboración, ampliación, transformación o envasamiento, autorizado por la oficina Recaudadora de la jurisdicción de la fábrica, conforme a la forma aprobada por la Secretaría de Finanzas y adoptar en el funcionamiento de las fábricas, bodegas, almacenes, depósitos y establecimientos similares, los sistemas que para el control de la fabricación, envasamiento y venta de los productos gravados, les señale la propia Secretaría, la que en todo tiempo y cuando lo considere necesario podrá establecer inspección permanente en esos establecimientos a costa de los interesados por el tiempo que juzgue necesario, cuando existan indicios de que se está evadiendo el pago del Impuesto.
 
 V.- Los señalados en las fracciones V, VII, VIII, IX, X y XI, del inciso a) de este Artículo.
 
@@ -201,23 +211,27 @@ La conservación de los sellos puestos en las fábricas por las autoridades fisc
 
 ###### ARTICULO 16o.
 
-Están exentos del pago de este Impuesto, los productores de bebidas alcohólicas que elaboren éstas 100% con uva y sus derivados, en el Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1971)
 
-## TITULO SEGUNDO
+> <small>(ADICIONADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1971)</small>
 
-### CAPITULO PRIMERO. IMPUESTO SOBRE COMPRA-VENTA DE ALCOHOL Y BEBIDAS ALCOHOLICAS
+## TITULO SEGUNDO. IMPUESTO SOBRE COMPRA-VENTA DE ALCOHOL, Y BEBIDAS ALCOHOLICAS
 
-DEL OBJETO, SUJETO, UNIDAD FISCAL Y TASA
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1971)</small>
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1971)</small>
+### CAPITULO PRIMERO. DEL OBJETO, SUJETO, DOMICILIO Y UNIDAD FISCAL
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1971)</small>
 
 ###### ARTICULO 17o.
 
-Son objeto de este Impuesto, la operación de compra-venta o adquisición de alcohol y bebidas alcohólicas que por primera vez se realicen y surta sus efectos dentro del Etado (sic).
+Son objeto de este Impuesto, las operaciones de compra-venta de alcohol y bebidas alcohólicas que por primera vez se realicen y surtan sus efectos dentro del Estado.
+
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 1971) (F. DE E., P.O. 30 DE JUNIO DE 1976)
 
 ###### ARTICULO 18o.
 
-Son sujetos del Impuesto las personas físicas o morales que habitual u ocasionalmente efectúen o intervengan en operaciones a que se refiere el Artículo anterior.
+Son sujetos de este Impuesto las personas que habitual u ocasionalmente efectúen o intervengan en operaciones a que se refiere el Artículo anterior.
 
 ###### ARTICULO 19o.
 
@@ -231,157 +245,103 @@ III.- Expendedores, la persona física o moral que se dedica habitual u ocasiona
 
 IV.- Porteadores, las personas físicas o morales que, por cuenta propia o ajena, transportan habitual o accidentalmente, alcohol o bebidas alcohólicas dentro del Territorio del Estado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1971)</small>
+
+###### ARTICULO 19o
+
+1.- Para los efectos de esta Ley se considera realizada la operación de compra-venta en el lugar donde el contribuyente establezca su negocio o el lugar donde se encuentre.
+
+Cuando la operación mencionada en el Artículo 17 de esta Ley se realice directa o indirectamente a través de sucursales, agencias o dependencias establecidas en el Estado, cuya matriz o sucursal proveedora esté radicada fuera del mismo, se considera gravable la operación en que hayan intervenido aquéllas, aún cuando los productos se remitan directamente al comprador.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1971)</small>
+
 ###### ARTICULO 20o.
+
+El impuesto se causará en los términos consignados en la Ley de Ingresos del Estado, y se cubrirá simultáneamente al adquirir el alcohol o las bebidas alcohólicas.
 
 Las unidades fiscales son los envases que tengan las siguientes capacidades oficiales:
 
-I.- De 75 centímetros cúbicos
+I.- DE 75 Centímetros Cúbicos
 
-II.- De 125 " "
+II.- " 125 "
 
-III.- De 250 " "
+III.- " 250 "
 
-IV.- De 500 " "
+IV.- " 500 "
 
-V.- De 750 " "
+V.- " 750 "
 
-VI.- De 1,000 " "
+VI.- " 1,000 "
 
-VII.- De 2,000 " "
+VII.- " 2,000 "
 
-VIII.- De 3,000 " "
+VIII.- " 3,000 "
 
-IX.- De 4,000 " "
+IX.- " 4,000 "
 
-X.- De 5,000 " "
+X.- " 5,000 "
 
-El envase con capacidad efectiva inferior 75 Cms. cúbicos, se equiparará a la unidad fiscal de esa capacidad. El envase con capacidad efectiva intermedia entre las dos unidades fiscales, se equiparará a la unidad fiscal de mayor capacidad fiscal, entre las dos consideradas, con las siguientes excepciones: los envases con capacidad hasta de 150 centímetros cúbicos, 275 centímetros cúbicos o 525 centímetros cúbicos, se equipararán respectivamente a las unidades fiscales de 125 centímetros cúbicos, 250 centímetros cúbicos o 500 centímetros cúbicos; y el que tenga una capacidad mayor hasta de 50 centímetros cúbicos. Con respecto a la unidad fiscal comprendida en las fracciones V a X inclusive se equiparará a la unidad fiscal excedida.
+El envase con capacidad efectiva inferior .075 centímetros cúbicos se equiparará a la unidad fiscal de esa capacidad. El envase con capacidad efectiva intermedia entre las dos unidades fiscales, se equiparará a la unidad fiscal de mayor capacidad fiscal, entre las dos consideradas, con las siguientes excepciones: los envases con capacidad hasta de 150 C.C., 275 C.C., ó 525 C.C. se equipararán respectivamente a las unidades fiscales de 125 C.C., 250 C.C. ó 500 C.C. Con respecto a las unidades fiscales comprendidas en las fracciones V a IX inclusive, se equiparará a la unidad fiscal excedida.
 
-La equiparación de los envases con capacidad hasta de 5,050 centímetros cúbicos a la unidad fiscal de envase con capacidad oficial hasta de 5,000 centímetros cúbicos, es operante en todos los casos en que esta Ley haga referencia a envases con capacidad máxima de 5,000 centímetros cúbicos.
+La equiparación de los envases con capacidad hasta de 5,050 C.C. a la unidad fiscal de envase con capacidad oficial hasta de 5,000 C.C., es operante en todos los casos en que esta Ley haga referencia a envases con capacidad máxima de 5,000 C.C.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1971)</small>
+Este impuesto no es repercutible.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1971)</small>
 
 ###### ARTICULO 21o.
 
-Para efectos de esta Ley, las bebidas alcohólicas se dividen en cuatro categorías fiscales:
+Para los efectos de esta Ley, se establecen cinco categorías fiscales, las cuatro primeras corresponden a bebidas alcohólicas y la quinta al alcohol.
 
-I.- CATEGORIA "A".- Comprende los vinos denominados generosos o de mesa cuya graduación alcohólica no exceda de 20° G.L., a la temperatura de 15° centígrafos (sic).
+I.- Categoría "A".- Comprende los vinos denominados generosos o de mesa cuya graduación alcohólica no exceda de 20° G.L., a la temperatura de 15° centígrados.
 
-II.- CATEGORIA "B".- Comprende todos los licores, como Aguardientes, Tequilas, Rones, Mezcales, Ginebras, Cremas, Vodkas, Habaneros, Aperitivos Amargos, Brandis, Anises, Wiskys y productos similares que tengan una graduación alcohólica superior a 20° G.L., a la temperatura de 15° centígrados y cuyo precio al público al menudeo por botella cerrada no exceda del 80% del precio del de la misma clase que se cotice al más alto precio, por botella de la misma cantidad de contenido.
+II.- Categoría "B".- Comprende todos los licores, como aguardientes, tequilas, rones, mezcales, ginebras, cremas, vodkas, habaneros, aperitivos amargos, brandys, anises, wiskeys (sic) y productos similares que tengan una graduación alcohólica superior a 20° G.L., a la temperatura de 15° centígrados.
 
-III.- CATEGORIA "C".- Comprende los vinos y licores de cualquier graduación alcohólica cuyos precios al público, al menudeo, en botella cerrada, alcance los máximos de su categoría dentro de su clase o su diferencia de precio con los de su clase, se aproxime en un 80% o más, al máximo correspondiente a botella de igual cantidad de contenido.
+III.- Categoría "C".- Comprende los vinos y licores de cualquier graduación alcohólica incluyendo los cognacs, whiskeys (sic), champagnes, cremas y cualquier vino o licor.
 
-IV.- CATEGORIA "D".- Comprende las bebidas alcohólicas elaboradas y producidos 100% con uva fresca y cuya elaboración sea revisada y comprobada por la Tesorería General del Estado y su clasificación dentro de esta Categoría sea autorizada por escrito por la propia Tesorería General del Estado.
+IV.- Categoría "D".- Comprende las bebidas alcohólicas elaboradas y producidas a base 100% de uva fresca o sus derivados.
+
+V.- Categoría "E".- Comprende el alcohol.
 
 ###### ARTICULO 22o.
 
-Las cuotas del Impuesto, son las que establece la siguiente tarifa:
-
-UNIDAD FISCAL CUOTA
-
-De 75 C.C. $ 0.04
-
-De 125 C.C. 0.10
-
-De 250 C.C. 0.20
-
-De 500 C.C. 0.40
-
-De 750 C.C. 0.60
-
-De 1,000 C.C. 0.80
-
-De 2,000 C.C. 1.60
-
-CATEGORIA "A" aplicable De 3,000 C.C. 2.40
-
-a las bebidas comprendidas De 4,000 C.C. 3.20
-
-.en la primera Categoría Fiscal. De 5,000 C.C. 4.00
-
-UNIDAD FISCAL CUOTA
-
-De 75 C.C. $ 0.08
-
-De 125 C.C. 0.20
-
-De 250 C.C. 0.40
-
-De 500 C.C. 0.80
-
-De 750 C.C. 1.20
-
-De 1,000 C.C. 1.60
-
-De 2,000 C.C. 3.20
-
-CATEGORIA "B", aplicable a De 3,000 C.C. 4.80
-
-las bebidas comprendidas en De 4,000 C.C. 6.40
-
-la Segunda Categoría Fiscal. De 5,000 C.C. 8.00
-
-UNIDAD FISCAL CUOTA
-
-De 75 C.C. $ 0.10
-
-De 250 C.C. 0.50
-
-De 500 C.C. 1.00
-
-De 750 C.C. 1.50
-
-De 1,000 C.C. 2.00
-
-De 2,000 C.C. 4.00
-
-CATEGORIA "C", aplicable a las De 3,000 C.C. 6.00
-
-bebidas comprendidas en la De 4,000 C.C. 8.00
-
-Tercera Categoría Fiscal. De 5,000 C.C. 10.00
-
-CATEGORIA "D", aplicable a las
-
-bebidas comprendidas en la EXENTA.
-
-Cuarta Categoría Fiscal.
-
-ALCOHOL Por Litro $ 2.00
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1971)
 
 ### CAPITULO SEGUNDO. DECLARACION Y PAGO DEL IMPUESTO
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1971)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1971)</small>
 
 ###### ARTICULO 23o.
 
-Al efectuarse el pago del Impuesto que establece esta Ley se observarán las reglas siguientes:
+Para el pago del Impuesto que establece esta Ley se observarán las reglas siguientes:
 
-I.- El pago se hará en la Recaudación de Rentas del Estado de la jurisdicción del causante, dentro de los cinco días hábiles siguientes a la recepción de los productos gravados.
+I.- Tratándose de bebidas alcohólicas y de alcohol embotellado, el pago se hará en la Recaudación de Rentas del Estado, de la jurisdicción del causante, dentro de las 24 horas siguientes a la recepción de los productos gravados.
 
-II.- El causante hará en formas aprobadas la declaración de la mercancía recibida presentando las facturas o documentación que legalmente compruebe la cantidad y clase de productos adquiridos.
+II.- Las Oficinas Recaudadoras al recibir el pago del Impuesto entregarán al causante:
 
-III.- Los (sic) Oficinas Recaudadoras al recibir el pago, entregarán al causante además del recibo oficial correspondiente, los marbetes necesarios para el control del pago del impuesto a los productos gravados.
+a).- Recibo de pago.
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1971)</small>
+b).- Marbetes para el control de sus productos.
+
+III.- Tratándose de alcohol a granel, deberá presentarse una declaración mensual junto con el pago del Impuesto, dentro de los 10 primeros días del mes siguiente al que se haya recibido el producto.
 
 ###### ARTICULO 24o.
 
-Las bebidas alcohólicas producidas exclusivamente con 100% uva fresca deberán llevar una etiqueta en cada botella en que se establezca el número de oficio de la Tesorería General por medio del cual se reconoció tal circunstancia.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1971)
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1971)</small>
 
 ###### ARTICULO 25o.
 
-Los sujetos de este Impuesto tienen opción para adquirir los marbetes que emplearán en sus pedidos antes de que éstos les sean surtidos y para tal efecto y de acuerdo a solicitud que hagan, se les venderán los marbetes necesarios que soliciten para que, a su vez, los envíen a su proveedor y así dicho proveedor o fabricante marbete el producto.
+Los sujetos de este Impuesto tienen opción para adquirir los marbetes que emplearán en sus pedidos antes de que éstos les sean surtidos y para tal efecto y de acuerdo a solicitud que hagan, se les venderán los marbetes necesarios que soliciten para que, a su vez los envíen a su proveedor y así dicho proveedor o fabricante marbete el producto.
 
 En caso de que se envíe el marbete a la fábrica, ésta tendrá obligación de establecer en la factura correspondiente la siguiente leyenda: "LA MERCANCIA QUE AMPARA LA PRESENTE FACTURA HA SIDO MARBETADA DE ACUERDO CON LAS LEYES FISCALES DEL ESTADO DE BAJA CALIFORNIA".
 
-Los causantes al recibir la mercancía marbetada, deberán dar aviso en su plazo no mayor de diez días al recibo de la misma, entregando copia de la factura que la ampara.
-
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 1971)</small>
+Los causantes al recibir la mercancía marbetada, deberán dar aviso en su plazo no mayor de dos días al recibo de la misma, entregando copia de la factura que la ampara, en la Recaudación de Rentas de su jurisdicción.
 
 ###### ARTICULO 26o.
 
-Los causantes obligados al pago del impuesto que establece esta Ley, deberán cubrirlos a más tardar el día 20 de cada mes, por las cantidades de productos recibidos el mes anterior, presentando la declaración correspondiente en las formas aprobadas por la Tesorería General del Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1971)
 
 ### CAPITULO TERCERO. OBLIGACIONES DE LOS CAUSANTES
 
@@ -391,7 +351,9 @@ Los causantes de este Impuesto tendrán las siguientes obligaciones:
 
 I.- Registrarse en la Recaudación de Rentas del Estado, de su jurisdicción, dentro de los diez días siguientes al inicio de sus operaciones para obtener la cédula de empadronamiento, exhibiendo el permiso otorgado por el Ejecutivo.
 
-II.- Llevar registros, libre de almacén o control, autorizado por la oficina recaudadora de su jurisdicción, en el que se anotará:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1971)</small>
+
+II.- Llevar registros, libro de almacén o control, autorizado por la Oficina Recaudadora de su jurisdicción, en el que se anotará:
 
 a).- Control de compra de productos gravados por esta Ley.
 
@@ -399,7 +361,9 @@ b).- Control de marbetes adquiridos.
 
 III.- Conservar en el domicilio legal sus libros y documentación comprobatoria, por el término de cinco años; así como las facturas, guías de embarque y demás documentación relacionada con los productos adquiridos.
 
-IV.- Colocar los marbetes dentro de los 12 días hábiles siguientes al pago del impuesto, los que serán adheridos longitudinalmente al cuello de las botellas que contengan productos gravados por esta Ley, en forma tal que se destruyan necesariamente al abrir el envase, dejando visible el marbete federal.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1971)</small>
+
+IV.- Fijar los marbetes dentro de las 24 horas siguientes a la recepción de la mercancía, los que serán colocados longitudinalmente al cuello de las botellas que contengan productos gravados por esta Ley, dejando visible el marbete federal, en forma tal que se destruyan necesariamente al abrir el envase.
 
 V.- Facilitar la inspección de las Autoridades fiscales, proporcionándoles inmediatamente que lo soliciten la documentación comprobatoria de los productos gravados que se hayan recibido, almacenado o distribuido, así como el acceso a cualquier local que tenga comunicación o relación con el negocio.
 
@@ -407,7 +371,17 @@ VI.- Pedir con 10 días de anticipación la autorización correspondiente de la 
 
 VII.- Entregar a la Tesorería General del Estado, el permiso para el ejercicio de actividad, en los casos de clausura.
 
-VIII.- Las demás que señalen las leyes, reglamentos y circulares.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1971)</small>
+
+VIII.- Presentar dentro de los primeros veinte días de cada mes una declaración de las mercancías recibidas o producidas durante el mes anterior analizada por categoría y expresando el nombre del proveedor, domicilio y número de factura, unidades e importe total.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1971)</small>
+
+IX.- Proporcionar a las autoridades fiscales, dentro de los plazos que les fijen, los datos e informaciones que les soliciten, para los efectos del impuesto.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1971)</small>
+
+X.- Las demás que señalen las Leyes.
 
 ###### ARTICULO 28o.
 
@@ -427,9 +401,11 @@ V.- Tener en existencia o en uso envases sin marca del producto que contengan.
 
 Cuando el sujeto de este Impuesto tenga uno o más establecimientos, deberá hacerlo del conocimiento de la Tesorería General de Estado y llenar para esto, los requisitos que exige esta Ley para las actividades a que se dedican.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1971)</small>
+
 ###### ARTICULO 30o.
 
-Tratándose de giros que vendan bebidas alcohólicas al copeo, tendrán las siguientes obligaciones:
+Tratándose de Giros que vendan bebidas alcohólicas al copeo tendrán las siguientes obligaciones:
 
 I.- Conservar los envases de bebidas alcohólicas permitidas, debidamente marbetados, mientras contengan licor.
 
@@ -438,6 +414,10 @@ II.- Una vez terminado el licor de la botella, romper las puntas de los marbetes
 III.- Facilitar la inspección, aún en horas inhábiles, a las Autoridades fiscales proporcionándoles, inmediatamente, que la soliciten, la documentación correspondiente, así como permitir el acceso al expendio o locales que tengan conexión con el mismo.
 
 IV.- Las demás que señalen las Leyes y reglamentos.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1971)</small>
+
+V.- Inutilizar la boca de la botella inmediatamente después de vaciado su contenido.
 
 ## TITULO TERCERO
 
@@ -509,9 +489,11 @@ La Tesorería General del Estado, tiene acción real para el cobro de los impues
 
 Todo causante que reciba mercancía de otro, sin el debido marbeto, deberá dar aviso a la oficina recaudadora de su jurisdicción, en un plazo de 24 horas, ya que de lo contrario se hará acreedor solidario de la sanción que recaiga al vendedor.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1971)</small>
+
 ###### ARTICULO 42o.
 
-Los causantes podrán adherir marbetes de diferentes capacidad (sic); pero de la misma categoría, siempre que el producto quede debidamente amparado de acuerdo con las categorías fiscales que marca esta Ley, y en ningún caso podrá ser menor del establecido en la (sic) tarifas respectivas, ya que, en caso contrario, se tendrá por no puesto dicho marbete para todos los efectos de Ley.
+Los causantes podrán adherir marbetes de diferentes capacidades; pero de la misma categoría, siempre que el producto quede debidamente amparado de acuerdo con las categorías fiscales que marca esta Ley, y en ningún caso podrá ser menor del establecido en las tarifas respectivas, ya que, en caso contrario, se tendrá por no puesto dicho marbete para todos los efectos de Ley.
 
 ### CAPITULO SEGUNDO. SANCIONES
 
@@ -523,17 +505,25 @@ La facultad de declarar que se ha cometido una infracción a esta Ley, compete a
 
 La aplicación de las sanciones que establece esta Ley, se hará sin perjuicio del cobro de los impuestos y recargos que se hubieren omitido.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1971)</small>
+
 ###### ARTICULO 45o.
 
-Se impondrá multa de $50.00 a $5,000.00 a los causantes que:
+Se impondrá multa de $100.00 a $10,000.00 a los causantes que:
 
 I.- No se presenten los avisos, manifestaciones, declaraciones o documentación que estén obligados o lo hagan extemporáneamente.
 
 II.- Procedan sin la autorización en los casos de traslado o traspaso de su negocio.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1971)</small>
+
+III.- Por cada botella de alcohol o de bebida alcohólica que se encuentre sin marbete.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1971)</small>
+
 ###### ARTICULO 46o.
 
-Se impondrá multa de $100.00 a $10,000.00 a los causantes que:
+Se impondrá multa de $1,000.00 a $25,000.00 a los causantes que:
 
 I.- No obtengan el permiso necesario para el ejercicio de su actividad.
 
@@ -541,9 +531,13 @@ II.- No lleven sus libros o registros que obliga esta Ley.
 
 III.- No conservar la documentación comprobatoria respectiva.
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1971)</small>
+
 IV.- Si en una inspección se niega a proporcionar datos, informes y documentación comprobatoria, así como impedir la revisión de los locales a que se refiere esta Ley.
 
-V.- Si dentro del plazo que tiene para ello, no coloca los marbetes o lo hiciere colocando marbetes por menor cantidad.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1971)</small>
+
+V.- Si dentro del plazo que tiene para ello, no coloca los marbetes o lo hiciera colocándolos por menor cantidad.
 
 VI.- Transportar alcohol o bebidas alcohólicas carente de la documentación respectiva.
 
@@ -560,6 +554,14 @@ XI.- Violar las marcas, sellos, etiquetas y demás medios de identificación y c
 XII.- Tener en su poder o en uso, envases de capacidad mayor a 19 y a 5 litros para el alcohol o bebidas alcohólicas, respectivamente.
 
 XIII.- Tener en su poder o en uso envases sin la marca del producto que contengan.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1971)</small>
+
+XIV.- No declaren correctamente sus ingresos.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1971)</small>
+
+XV.- Por no inutilizar la boca de las botellas inmediatamente después de vaciarlas.
 
 ###### ARTICULO 47o.
 
@@ -617,29 +619,7 @@ Cuando un sujeto de alguno o algunos de los impuestos establecidos en esta Ley, 
 
 ###### ARTICULO 58o.
 
-Las bebidas alcohólicas envasadas en recipientes menores que en la fecha de vigencia de esta Ley, estén en poder de los fabricantes, envasadores, importadores, almacenistas, expendedores, comisionistas u otros comerciantes, causan en el momento antes señalado un impuesto que se denominará Impuesto sobre Existencias, con arreglo a las siguientes normas:
-
-I.- Son causantes de este Impuesto los propietarios de las bebidas gravadas y, en calidad de codeudores, quienes materialmente las tengan en su poder.
-
-II.- El Impuesto se determina en función de iguales elementos que el Impuesto de Bebidas Alcohólicas; categoría fiscal de cada bebida, unidad fiscal y cuota aplicable. Al efecto es aplicable el Artículo 22 de esta Ley.
-
-III.- El Impuesto se pagará por medio de los marbetes y para tal efecto:
-
-a).- Cada causante presentará por una sola ocasión una solicitud para el suministro de marbetes, de acuerdo con el inventario de existencias.
-
-b).- El causante solamente podrá enajenar o sacar del lugar en que se encuentren, las bebidas cuyos envases ya hayan sido marbetados.
-
-IV.- Los marbetes solicitados para el pago del Impuesto sobre Existencias serán suministrados contra el pago de su importe en efectivo.
-
-V.- Los causantes del Impuesto sobre Existencias, tendrán derecho a recibir una bonificación por el importe del pago equivalente a un 50% de su valor.
-
-VI.- Para tener derecho a la bonificación que autoriza a la anterior Fracción, el causante del Impuesto sobre Existencias deberá satisfacer los siguientes requisitos:
-
-a).- Presentar un inventario a los 20 días hábiles de la promulgación de esta Ley, de la existencia de bebidas alcohólicas envasadas, con arreglo a modelo oficial, por conducto de la oficina recaudadora de su domicilio.
-
-b).- La declaración de existencias deberá guardar concordancia con los inventarios, contabilidad y documentación mercantil conexa de la negociación.
-
-VII.- La falta de pago del Impuesto sobre Existencias producirá las mismas consecuencias que la falta de pago del Impuesto de las bebidas Alcohólicas que establece esta Ley.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 1971)
 
 TRANSITORIOS:
 
@@ -708,3 +688,25 @@ P.O. 20 DE SEPTIEMBRE DE 1971.
 ###### ARTICULO 2o.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1971.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los causantes del Impuesto Sobre Alcoholes y Bebidas Alcohólicas estarán obligados a lo siguiente:
+
+a).- Los productores y envasadores de alcohol y bebidas alcohólicas deberán declarar sus existencias al 1o. de enero de 1972 de productos terminados, materias primas y envases, dentro de los quince días siguientes de la publicación oficial de este Decreto.
+
+b).- Los almacenistas o distribuidores, expendedores, porteadores y demás no consignados en el Inciso anterior deberá pegar los marbetes a las botellas que tengan en existencia al 1o. de enero de 1972, dentro de los 15 días siguientes a la publicación oficial de este Decreto.
+
+###### ARTICULO TERCERO.
+
+Se faculta al Ejecutivo del Estado para expedir el Reglamento de la presente Ley.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas las disposiciones legales que se opongan a lo que previene este Decreto.
