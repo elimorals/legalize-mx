@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2003-03-04"
+last_updated: "2003-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -423,9 +423,11 @@ Las elecciones de comisarios se sufragarán por planilla al cabo el segundo domi
 
 ### CAPITULO II. DE LA INSTALACION DEL AYUNTAMIENTO
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 36.
 
-Los Ayuntamientos se instalarán el día 2 de diciembre del año en que deban renovarse, previa protesta que otorguen ante el Ayuntamiento saliente en sesión solemne que se celebrará el día anterior. La instalación es un acto meramente solemne y la responsabilidad del Ayuntamiento saliente cesa el 1o. de diciembre del año de la elección a las 0:00 horas en que inicia la responsabilidad del nuevo Ayuntamiento. Cada Ayuntamiento notificará inmediatamente sobre su toma de posesión a los Poderes del Estado y a los Ayuntamientos de Municipios limítrofes.
+Los Ayuntamientos se instalarán el día 1o. de enero del año siguiente al de su elección, previa protesta que otorguen ante el Ayuntamiento saliente en Sesión Solemne que se celebrará el día anterior. La instalación es un acto meramente solemne y la responsabilidad del Ayuntamiento saliente cesa el 31 de diciembre del año de la elección a las 24:00 horas en que inicia la responsabilidad del nuevo Ayuntamiento. Cada Ayuntamiento notificará inmediatamente sobre su toma de posesión a los Poderes del Estado y a los Ayuntamientos de los Municipios limítrofes.
 
 ###### ARTICULO 37.
 
@@ -453,17 +455,21 @@ Formulada la declaratoria a que se refiere el artículo anterior el Presidente d
 
 DEL PROCEDIMIENTO DE ENTREGA-RECEPCION DE LOS AYUNTAMIENTOS.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 39.
 
-El Ayuntamiento saliente hará entrega de los informes e inventarios sobre el patrimonio mobiliario e inmobiliario, los recursos humanos y financieros, los archivos e informe sobre el avance de los programas de gobierno pendientes o de carácter permanente.
+El Ayuntamiento saliente hará entrega durante el mes de diciembre del año de la elección, de los informes e inventarios sobre el patrimonio mobiliario e inmobiliario, los recursos humanos y financieros, los archivos e informes sobre el avance de los programas de gobierno pendientes o de carácter permanente, asegurando la disponibilidad de recursos para el pago de aguinaldo completo, prima vacacional y demás prestaciones de los trabajadores de la administración municipal.
 
 ###### ARTICULO 40.
 
 Los Presidentes Municipales y los miembros de los Ayuntamientos salientes y entrantes participarán en los procesos de entrega recepción.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 41.
 
-En cada Ayuntamiento se creará un comité de entrega-recepción integrado por miembros del Ayuntamiento electo y el Ayuntamiento saliente; así como un representante de la Contaduría Mayor de Glosa del Congreso del Estado y de las Secretarías de Planeación y Presupuesto, Finanzas y Desarrollo Administrativo y Control Gubernamental, mismos que previa auditoría sancionarán dicho acto.
+En cada Ayuntamiento durante la primera decena del mes de diciembre, se creará un Comité de Entrega-recepción integrado por miembros del Ayuntamiento electo y el Ayuntamiento saliente; así como un representante de la Auditoría General del Estado, de la Contraloría General del Estado y de las Secretarías de Finanzas y Administración y Desarrollo Social mismos que previa auditoría sancionarán dicho acto.
 
 ###### ARTICULO 42.
 
@@ -487,15 +493,19 @@ VIII. Concesiones, permisos y autorizaciones otorgadas que involucran bienes mun
 
 IX. Las demás que sean necesarias para mantener la continuidad en la administración municipal y en la atención a la ciudadanía, así como para evitar daños al patrimonio municipal.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 43.
 
-Para la entrega de los recursos financieros se preparará acta pormenorizada y circunstanciada en que consten los fondos existentes en caja; saldos conciliados en bancos y números de cuentas, relaciones de deudores y acreedores diversos por concepto y monto; cortes de caja que fueron elaborados en los diferentes ejercicios fiscales así como los manuales, tarjetas de actividades comerciales, industriales y de servicio, licencias en trámite, relación de contribuyentes con rezago en el pago de derechos, expedientes y tarjetas de impuesto predial, relación de contribuyentes con rezago en el pago del impuesto predial, expedientes de catastro municipal, relación de folios de recibos oficiales de egresos e ingresos utilizados, cancelados y por utilizar, asimismo; se entregará copia de las cuentas públicas anuales del trienio y de los presupuestos de ingresos y egresos.
+Para la entrega de los recursos financieros se preparará acta pormenorizada y circunstanciada en que consten los fondos existentes en caja; el fondo de ahorro destinado para el pago de los salarios, aguinaldo completo, prima vacacional y demás prestaciones de los trabajadores de la administración municipal; saldos conciliados en bancos y números de cuentas, relaciones de deudores y acreedores diversos por concepto y monto; cortes de caja que fueron elaborados en los diferentes ejercicios fiscales así como los manuales, tarjetas de actividades comerciales, industriales y de servicio, licencias en trámite, relación de contribuyentes con rezago en el pago de derechos, expedientes y tarjetas de impuesto predial, relación de contribuyentes con rezago en el pago del impuesto predial, expedientes de catastro municipal, relación de folios de recibos oficiales de egresos e ingresos utilizados, cancelados y por utilizar, asimismo se entregará copia de las cuentas públicas del trienio y de los presupuestos de ingresos y egresos.
 
 ###### ARTICULO 44.
 
 El Comité de entrega recepción a que se refiere este capítulo en los formatos correspondientes y en el acta de entrega-recepción hará constar los informes detallados de cada una de las áreas en que se divide la entrega, así como los informes pormenorizados de todos los acontecimientos e incidentes que se presenten en dicho acto.
 
-El acta levantada deberá ser firmada por cada uno de los miembros del comité y una copia será remitida a la Contaduría Mayor de Glosa del Congreso del Estado.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2003)</small>
+
+El acta levantada deberá ser firmada por cada uno de los miembros del Comité y una copia será remitida a la Auditoría General del Estado.
 
 ###### ARTICULO 45.
 
@@ -683,7 +693,9 @@ I. Realizar estudios económicos relacionados con las finanzas municipales;
 
 II. Celebrar convenios con el Gobierno del Estado en materia fiscal relacionadas con la administración de contribuciones;
 
-III. Formular y remitir al Congreso del Estado a más tardar el 30 de noviembre, sus presupuestos anuales de ingresos para la expedición, en su caso, de la Ley de Ingresos del año siguiente. El Congreso del Estado está facultado para incorporar a la Iniciativa de ingresos municipales que al efecto presente el Ejecutivo del Estado, el monto total de ingresos autorizado por Municipio, siempre y cuando los presupuestos se hayan remitido previo acuerdo de los Ayuntamientos. En el caso de que un Ayuntamiento no presente su presupuesto de ingresos, el Congreso suplirá esa deficiencia en los términos de Ley;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2003)</small>
+
+III.- Formular y remitir al Congreso del Estado a más tardar el 30 de noviembre, sus presupuestos anuales de ingresos, y en su caso, la Iniciativa de Ley de Ingresos del año siguiente. El Congreso del Estado está facultado para incorporar a la Iniciativa de ingresos municipales que al efecto presente el Ejecutivo del Estado, el monto total de ingresos autorizado por Municipio, siempre y cuando los presupuestos se hayan remitido previo acuerdo de los Ayuntamientos. En el caso de que un Ayuntamiento no presente su presupuesto de ingresos, el Ejecutivo del Estado y el Congreso suplirán esa deficiencia en los términos de Ley;
 
 IV. Preparar, examinar y presentar anualmente al Congreso del Estado, durante los primeros noventa días del año, la cuenta pública para su revisión, acompañadas del Presupuesto de Ingresos y Egresos aprobados y ejercidos y con el envío del avance de las metas propuestas en el Programa Operativo Anual y en el Plan Municipal que corresponda;
 
@@ -931,7 +943,9 @@ Son facultades y obligaciones del Presidente Municipal las siguientes:
 
 I. Presidir las sesiones y dirigir los debates del Ayuntamiento tomando parte en las deliberaciones con voz y voto y con voto de calidad en caso de empate y facultad de veto suspensivo para efectos de analizar y votar de nueva cuenta el asunto que lo haya motivado;
 
-II. Rendir al pueblo del Municipio en sesión solemne, en la última quincena del mes de noviembre, el informe anual pormenorizado sobre el estado que guarda la administración municipal del cual enviará copia al Ejecutivo y al Congreso del Estado;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2003)</small>
+
+II.- Rendir al pueblo del Municipio en Sesión Solemne, en la última quincena del mes de diciembre, el informe anual pormenorizado sobre el estado que guarda la administración municipal del cual enviará copia al Ejecutivo y al Congreso del Estado; en el último año del mandato podrá rendirlo en la Sesión Solemne en que el Ayuntamiento entrante rinda protesta o en Sesión Solemne anterior a la fecha de celebración de ésta;
 
 III. Rendir cada mes, en sesión ordinaria del Ayuntamiento y con el auxilio del jefe de la Policía un informe al Ayuntamiento sobre la corporación y las principales incidencias en materia de orden público;
 
@@ -981,7 +995,13 @@ XXIV. Conducir el trabajo administrativo de los regidores cuando se les asigne a
 
 XXV.- Mancomunar su firma con la del Tesorero para el manejo de las cuentas y operaciones bancarias, así como la del Síndico Procurador, y
 
-XXVI. Las demás que les otorguen la Ley y los reglamentos.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2003)</small>
+
+XXVI.- Remitir conjuntamente con el Tesorero Municipal a la Auditoría General del Estado las cuentas, informes contables y financieros en los términos establecidos en la legislación aplicable a la Materia; y
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2003)</small>
+
+XXVII. Las demás que les otorguen la Ley y los reglamentos.
 
 ###### ARTICULO 74.
 
@@ -1011,7 +1031,9 @@ IV. Autorizar los gastos que deba realizar la administración Municipal;
 
 V. Otorgar, si fuera el caso, el visto bueno a los cortes de caja que debe presentar mensualmente el Tesorero Municipal;
 
-VI. Autorizar las cuentas mensuales así como la cuenta de la Hacienda Municipal Anual y verificar que estas se remitan oportunamente a la Contaduría Mayor de Glosa del Congreso del Estado;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2003)</small>
+
+VI.- Autorizar las cuentas públicas y verificar que éstas se remitan oportunamente a la Auditoría General del Estado;
 
 VII. Autorizar la suscripción de créditos públicos y privados;
 
@@ -1329,7 +1351,9 @@ III. Otorgar fianza por el manejo de los recursos a su cargo, y a cargo de los e
 
 IV. Imponer las sanciones que correspondan por infracciones a los ordenamientos fiscales, cuya aplicación esté encomendada a la propia Tesorería;
 
-V. Llevar la contabilidad del Ayuntamiento y formular la Cuenta Pública Anual en los términos de Ley;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2003)</small>
+
+V.- Llevar la contabilidad del Ayuntamiento y formular la cuenta pública en los términos de Ley;
 
 VI. Intervenir en los estudios financieros, evaluando las necesidades de financiamiento de los programas operativos y de inversión;
 
@@ -1347,19 +1371,27 @@ XII. Promover el cobro eficaz de las contribuciones municipales, evitando el rez
 
 XIII. Cuidar que las multas impuestas por las autoridades municipales ingresen a la Tesorería Municipal;
 
-XIV. Permitir y facilitar la práctica de auditorías provenientes de la Contaduría Mayor de Glosa del Congreso del Estado, así como aquella de carácter externo;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2003)</small>
+
+XIV.- Permitir y facilitar la práctica de auditorías provenientes de la Auditoría General del Estado, así como aquellas de carácter externo;
 
 XV. Glosar oportunamente las cuentas del Ayuntamiento;
 
-XVI. Remitir a la Contaduría Mayor de Glosa las cuentas, informes contables y financieros mensuales dentro de los primeros quince días hábiles del mes siguiente;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2003)</small>
+
+XVI.- Remitir conjuntamente con el Presidente Municipal a la Auditoría General del Estado, las cuentas, informes contables y en los términos establecidos en la legislación aplicable a la Materia;
 
 XVII. Presentar mensualmente al Ayuntamiento el corte de caja de la Tesorería Municipal con el visto bueno del Síndico Procurador;
 
 XVIII. Obtener del Síndico Procurador la autorización de los gastos que deba realizar la administración municipal;
 
-XIX. Contestar oportunamente las observaciones que formule la Contaduría Mayor de Glosa, en relación a las disposiciones del Artículo 102 de la Constitución Política del Estado de Guerrero;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2003)</small>
 
-XX. Ministrar oportunamente y obtener el acuse de recibo correspondiente de su inmediato antecesor de los pliegos de observaciones y alcances que formula la Contaduría Mayor de Glosa en ejercicio de sus atribuciones;
+XIX.- Contestar oportunamente las observaciones que formule la Auditoría General del Estado, en relación a las disposiciones del Artículo 102 de la Constitución Política del Estado de Guerrero;
+
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2003)</small>
+
+XX.- Ministrar oportunamente y obtener el acuse de recibo correspondiente de su inmediato antecesor de los pliegos de observaciones y alcances que formula la Auditoría General del Estado en ejercicio de sus atribuciones;
 
 XXI. Informar permanentemente al Presidente Municipal sobre el estado que guarden las finanzas municipales y en particular sobre las partidas que estén próximas a agotarse;
 
@@ -1623,13 +1655,17 @@ La programación del gasto público se basará en los objetivos, estrategias y p
 
 Las disposiciones relativas a la programación, presupuestación, control y evaluación del gasto público municipal, así como su operación, estarán a cargo del Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 141.
 
-La Contaduría Mayor de Glosa es el órgano técnico dependiente del Congreso del Estado entre cuyas funciones está la de auxiliar a dicho cuerpo en la inspección, control y evaluación de los Ayuntamientos en materia de presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores y en general del gasto público.
+La Auditoría General del Estado es el órgano técnico del Poder Legislativo entre cuyas funciones está la de auxiliar a dicho cuerpo en la inspección, control y evaluación de los Ayuntamientos en materia de presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores y en general del gasto público.
+
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 142.
 
-La Contaduría Mayor de Glosa podrá practicar visitas a las Tesorerías Municipales a fin de verificar el cumplimiento de las normas aplicables, así como el correcto destino de los fondos públicos que éstas manejen.
+La Auditoría General del Estado podrá practicar visitas a las Tesorerías Municipales a fin de verificar el cumplimiento de las normas aplicables, así como el correcto destino de los fondos públicos que éstas manejen.
 
 ###### ARTICULO 143.
 
@@ -1647,7 +1683,9 @@ El Congreso del Estado analizará las propuestas que presenten los Ayuntamientos
 
 ARTICULO 145 bis.- Cuando un servidor público municipal aplique los recursos federales o estatales que se le transfieran según las leyes o convenios; para programas o proyectos específicos a gastos municipales distintos a los prevenidos, se hará acreedor a las sanciones que disponga la Ley de Responsabilidades de los Servidores Públicos, sin perjuicio de la aplicación del Código Penal en lo conducente.
 
-Los servidores públicos municipales otorgarán los auxilios e información necesarios para la devolución de los recursos desviados y los correspondientes intereses legales, al personal de la Contaduría Mayor de Glosa, las áreas de Contraloría y Fiscalización y de las dependencias federales competentes que según las Leyes deban intervenir en estos asuntos.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2003)</small>
+
+Los servidores públicos municipales otorgarán los auxilios e información necesarios para la devolución de los recursos desviados y los correspondientes intereses legales, al personal de la Auditoría General del Estado, las Areas de Contraloría y Fiscalización y de las dependencias federales competentes que según las Leyes deban intervenir en estos asuntos.
 
 ### CAPITULO III. DEL REGIMEN DE CONCESIONES
 
@@ -1713,9 +1751,11 @@ Los Ayuntamientos podrán autorizar ampliaciones presupuestales cuando se presen
 
 Los Ayuntamientos invertirán los subsidios que les otorguen los gobiernos federal y estatal en los proyectos específicos que éstos determinen y deberán proporcionar toda la información que se les solicite sobre la aplicación de los mismos.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 157.
 
-La Contaduría Mayor de Glosa del Congreso del Estado, tendrá la facultad de revisar en cualquier tiempo la documentación comprobatoria de la aplicación de los subsidios a que se refiere el artículo anterior y los Ayuntamientos de poner a disposición de ésta, la cuenta e información detalladas de la aplicación de dichos subsidios, así como las justificaciones correspondientes.
+La Auditoría General del Estado tendrá la facultad de revisar en cualquier tiempo, la documentación comprobatoria de la aplicación de los subsidios a que se refiere el artículo anterior y los Ayuntamientos de poner a disposición de ésta, la cuenta e información detalladas de la aplicación de dichos subsidios, así como las justificaciones correspondientes.
 
 ###### ARTICULO 158.
 
@@ -1763,9 +1803,11 @@ Los sistemas de contabilidad municipal deberán diseñarse y operarse en forma t
 
 Para efectos de la revisión de las cuentas públicas municipales, los Ayuntamientos informarán al Congreso del Estado durante los primeros quince días de cada ejercicio fiscal o durante el mes siguiente a su implantación o modificación, sobre las normas, procedimientos y sistemas de control interno que en materia contable implanten.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 169.
 
-Los Ayuntamientos deberán remitir al Congreso del Estado cada tres meses, durante los primeros quince días de cada trimestre vencido, la información relativa a las cuentas públicas del Municipio para que aquel lo revise en los términos de Ley.
+Los Ayuntamientos deberán remitir al Congreso del Estado en los términos establecidos en la legislación aplicable, la información relativa a las cuentas públicas del Municipio para su revisión y fiscalización.
 
 ## TITULO SEXTO. DEL DESARROLLO MUNICIPAL
 
@@ -2467,13 +2509,19 @@ PUBLICOS MUNICIPALES
 
 La aplicación y el manejo indebidos de recursos federales, estatales, o provenientes de aportaciones de particulares que se transfieran a la Administración Pública Municipal, a través de convenios de coordinación o de otras formas legales, será sancionada en los términos de la Ley de Responsabilidades de los Servidores Públicos.
 
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2003)</small>
+
 ###### ARTICULO 243.
 
-Los Presidente Municipales, Síndicos Procuradores y Regidores, así como los servidores públicos que designe el Ayuntamiento deberán presentar a la Secretaría de Desarrollo Administrativo y Control Gubernamental del Gobierno del Estado, su Declaración de Situación Patrimonial a los 60 días de haber iniciado labores y a los 30 días de haber cesado en su encargo, y cada año en el mes de mayo en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Los Presidentes Municipales, Síndicos Procuradores y Regidores, así como los servidores públicos que designe el Ayuntamiento deberán presentar a la Auditoría General del Estado su Declaración de Situación Patrimonial en los plazos, formas y procedimiento establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Guerrero.
 
 ###### ARTICULO 244.
 
 Será causa de responsabilidad para el Presidente, Síndico y Tesorero, así como para los titulares o directores de las unidades administrativas del Municipio contraer compromisos fuera de las limitaciones del Presupuesto de Egresos y en general acordar erogaciones en forma que no permitan, dentro de los montos autorizados en sus programas respectivos, la atención de los servicios públicos durante todo el ejercicio fiscal.
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2003)</small>
+
+De igual forma será causa de responsabilidad para el Presidente, Síndicos Procuradores y Tesorero en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Guerrero y de la Ley Orgánica del Municipio Libre del Estado, el incumplimiento sin causa justificada de cualquiera de sus obligaciones señaladas por la presente Ley. Tratándose de las relacionadas con el englose, autorización y entrega de las cuentas públicas, la Auditoría General del Estado establecerá el procedimiento administrativo para requerir su cumplimiento y estará facultado para solicitar el fincamiento de las responsabilidades correspondientes al servidor público incumplido.
 
 ###### ARTICULO 245.
 
@@ -2922,3 +2970,13 @@ P.O. 4 DE MARZO DE 2003.
 PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO: En un plazo no mayor a noventa días, contados a partir de la entrada en vigor del presente Decreto, los Ayuntamientos deberán elaborar o adecuar, en su caso, el reglamento al que alude el presente Decreto, debiendo informar al Honorable Congreso del Estado de la aprobación correspondiente.
+
+P.O. 17 DE JUNIO DE 2003.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, a excepción de lo dispuesto en los artículos 36, 39, 41, 43, 44 y 73 fracción II que entrarán en vigor al momento en que entre en vigencia la reforma al artículo 95 párrafo tercero de la Constitución Política del Estado Libre y Soberano de Guerrero.
+
+###### ARTICULO SEGUNDO.
+
+Los Ayuntamientos que hayan de instalarse el 2 de diciembre del 2005 durarán en su encargo hasta el 31 de diciembre del 2008.
