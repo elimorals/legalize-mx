@@ -4,7 +4,7 @@ identifier: "HID-codigo-civil-para-el-estado-de-hidalgo-40095"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-08"
-last_updated: "1986-12-08"
+last_updated: "1987-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO CIVIL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1987.
 
 Código publicado en el Apéndice al Número 38 del Periódico Oficial del Estado de Hidalgo, el 8 de octubre de 1940.
 
@@ -7707,9 +7707,11 @@ El cónyuge recibirá las porciones que le correspondan conforme a los dos artí
 
 A falta de descendientes, ascendientes y hermanos, el cónyuge sucederá en todos los bienes.
 
-### CAPITULO VI.
+### CAPITULO VI
 
-De la Sucesión de la Concubina.
+De la Sucesión de los Concubinos.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1987)</small>
 
 ###### Art. 1611.
 
@@ -7733,6 +7735,8 @@ A falta de los llamados en los artículos anteriores, sucederán los parientes m
 
 Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el Capítulo siguiente.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE ENERO DE 1987)</small>
+
 ### CAPITULO VII.
 
 De la Sucesión de la Beneficencia Pública del Estado de Hidalgo.
@@ -7741,23 +7745,13 @@ De la Sucesión de la Beneficencia Pública del Estado de Hidalgo.
 
 ###### Art. 1616.
 
-La mujer con quien el autor de la herencia vivió como si fuera su marido durante los cinco años que precedieron inmediatamente a su muerte o con la que tuvo hijos, siempre que ambos hayan permanecido libres de matrimonio durante el concubinato, tiene derecho a heredar conforme a las reglas siguientes:
+El hombre y la mujer que libres de matrimonio durante más de cinco años, de manera pacífica, pública, continua y permanente, y sin tener impedimento para contraer matrimonio, hayan hecho vida en común como si estuvieran casados y con obligación de prestarse alimentos mutuamente, tienen derecho a heredarse en sucesión legítima conforme a las reglas siguientes:
 
-I.- Si la concubina concurre con sus hijos que lo sean también del autor de la herencia, se observará lo dispuesto en los artículos 1605 y 1606;
+PRIMERO.- La concubina o concubino que concurran a la sucesión con herederos de cualquier clase, tendrán derecho al 50% de los bienes.
 
-II.- Si la concubina concurre con descendientes del autor de la herencia, que no sean también descendientes de ella, tendrá derecho a la mitad de la porción que le corresponda a un hijo;
+SEGUNDO.- Si el autor de la herencia no deja descendientes, ascendientes o parientes colaterales dentro del cuarto grado, el ciento por ciento de los bienes pertenecientes al concubino o concubina, en su caso.
 
-III.- Si concurre con hijos que sean suyos y con hijos que el autor de la herencia hubo con otra mujer, tendrá derecho a las dos terceras partes de la porción de un hijo;
-
-IV.- Si concurre con ascendientes del autor de la herencia, los bienes que forman la sucesión, se repartirán por partes iguales;
-
-V.- Si concurre con parientes colaterales dentro del cuarto grado del autor de la sucesión, tendrá derecho a una tercera parte de ésta;
-
-VI.- Si el autor de la herencia no deja descendientes, ascendientes, cónyuge o parientes colaterales dentro del cuarto grado, la mitad de los bienes de la sucesión pertenecen a la concubina y la otra mitad a la Beneficencia Pública.
-
-En los casos a que se refieren las fracciones II, III y IV, debe observarse lo dispuesto en los artículos 1605 y 1606 si la concubina tiene bienes.
-
-Si al morir el autor de la herencia tenía varias concubinas sin hijos del mismo autor de la sucesión en las condiciones mencionadas al principio de este artículo, ninguna de ellas heredará.
+TERCERO.- Si los bienes que forman el caudal hereditario están sujetos al régimen de Sociedad Legal por haber sido habidos durante el concubinato, la concubina o concubino separarán para sí, el 50% de los mismos, por concepto de gananciales, no siendo aplicables en este caso lo dispuesto en la Fracción I.
 
 ### CAPITULO I.
 
@@ -15258,3 +15252,7 @@ Entran nuevamente en vigencia los siguientes artículos del Código Civil, corre
 ###### ARTICULO 6o.
 
 Este Código iniciará su vigencia quince días después de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
+
+P.O. 1 DE ENERO DE 1987.
+
+UNICO.- Estas reformas surtirán sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
