@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2003-10-27"
+last_updated: "2004-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 27 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL DEL ESTADO: 13 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -148,6 +148,10 @@ VIII. Representar al Estado en los comités hidráulicos de los distritos de rie
 IX. Solicitar a las autoridades competentes la expropiación, ocupación temporal, total o parcial, de bienes o la limitación de los derechos de dominio, para el cumplimiento de sus objetivos, en los términos de Ley;
 
 X. Promover el establecimiento, y difusión de la normatividad en lo referente a la realización de obras y a la construcción, operación, administración, conservación y mantenimiento de los sistemas de captación, potabilización, conducción, almacenamiento y distribución de agua potable, alcantarillado y saneamiento y su reuso;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
+X Bis.- Efectuar periódicamente en coordinación con los municipios, los estudios sobre del comportamiento dinámico de las grietas y la formulación de las cartas urbanas que contengan las fallas geológicas detectadas y en caso de presentarse comportamientos dinámicos extraordinarios, deberá informar de manera inmediata a las dependencias y entidades competentes.
 
 XI. Asesorar, auxiliar y prestar servicios de apoyo y asistencia técnica a los prestadores de los servicios;
 
@@ -1616,3 +1620,7 @@ Lic. Abelardo Reyes Sahagún.
 P.O. 27 DE OCTUBRE DE 2003.
 
 UNICO.- El presente Decreto entrará en vigor la (sic) día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE SEPTIEMBRE DE 2004.
+
+UNICO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
