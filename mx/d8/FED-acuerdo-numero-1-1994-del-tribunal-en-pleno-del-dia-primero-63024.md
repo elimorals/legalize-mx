@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1994-del-tribunal-en-pleno-del-dia-primero-630
 country: "mx"
 rank: "acuerdo"
 publication_date: "1994-02-25"
-last_updated: "1996-04-09"
+last_updated: "1997-03-07"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63024&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-02-01"
 
 ACUERDO NUMERO 1/1994 DEL TRIBUNAL EN PLENO DEL DIA PRIMERO DE FEBRERO DE MIL NOVECIENTOS NOVENTA Y CUATRO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE ABRIL DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MARZO DE 1997.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 25 de febrero de 1994.
 
@@ -101,9 +101,13 @@ CUARTO.- Se reforma, modifica y adiciona el punto segundo, fracciones II, V, XII
 
 "XIV.- ...
 
-1.- Dos tribunales colegiados y un tribunal unitario, con residencia en la ciudad de Mérida, Yucatán;
+> <small>(REFORMADO POR EL PUNTO QUINTO DEL ACUERDO GENERAL NUMERO 6/1997 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE MARZO DE 1997)</small>
 
-2.- Juzgados Primero y Segundo de Distrito en el Estado de Yucatán, con residencia en la ciudad de Mérida;
+1.- Dos tribunales colegiados y dos tribunales unitarios, con residencia en la ciudad de Mérida, Yucatán;
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL NUMERO 7/1997 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 7 DE MARZO DE 1997)</small>
+
+2.- Juzgados Primero, Segundo y Tercero de Distrito en el Estado de Yucatán, con residencia en la ciudad de Mérida;
 
 > <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 17/1995 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 1996)</small>
 
@@ -262,3 +266,27 @@ TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo q
 CUARTO.- El Pleno del Consejo de la Judicatura Federal resolverá cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente Acuerdo.
 
 QUINTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
+
+D.O.F. 7 DE MARZO DE 1997.
+
+ACUERDO GENERAL NUMERO 6/1997 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO CUARTO, APARTADO XIV, NUMERO 1.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día treinta y uno de marzo de mil novecientos noventa y siete.
+
+SEGUNDO.- Se modifica el Acuerdo 1/1994 del Pleno de la Suprema Corte de Justicia de la Nación, de fecha primero de febrero de mil novecientos noventa y cuatro, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+CUARTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
+
+D.O.F. 7 DE MARZO DE 1997.
+
+ACUERDO GENERAL NUMERO 7/1997 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL PUNTO CUARTO, APARTADO XIV, NUMERO 2.
+
+PRIMERO.- Este Acuerdo entrará en vigor el treinta y uno de marzo de mil novecientos noventa y siete.
+
+SEGUNDO.- Se modifica el Acuerdo 1/1994 del Pleno de la Suprema Corte de Justicia de la Nación, de fecha primero de febrero de mil novecientos noventa y cuatro, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+CUARTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación.
