@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-por-el-que-se-establecen-las-normas-para-la-63645"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1994-08-30"
-last_updated: "1996-11-11"
+last_updated: "1998-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63645&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,65 +19,25 @@ issue_date: "1994-08-28"
 ---
 # ACUERDO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
 
-ACUERDO QUE REFORMA Y ADICIONA AL DIVERSO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
+ACUERDO QUE ADICIONA AL DIVERSO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
 
-Acuerdo publicado en el Diario Oficial de la Federación, el lunes 11 de noviembre de 1996.
+Acuerdo publicado en el Diario Oficial de la Federación, el lunes 12 de octubre de 1998.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Comercio y Fomento Industrial.
 
-HERMINIO BLANCO MENDOZA, Secretario de Comercio y Fomento Industrial, con fundamento en los artículos 34 fracciones I y XXX de la Ley Orgánica de la Administración Pública Federal; 2o., 5o. fracción IV, 9o. y 10 de la Ley de Comercio Exterior; 36 fracción I inciso d) de la Ley Aduanera, y 5 fracción XVI del Reglamento Interior de la Secretaría de Comercio y Fomento Industrial, y
+HERMINIO BLANCO MENDOZA, Secretario de Comercio y Fomento Industrial, con fundamento en los artículos 34 fracciones I y XXX de la Ley Orgánica de la Administración Pública Federal; 2, 4o. fracción III, 5o. fracciones III y IV, 9o., 10, 11 y 66 de la Ley de Comercio Exterior; 36 fracción I inciso d) de la Ley Aduanera, y 1, 4 y 5 fracción XVI del Reglamento Interior de la Secretaría de Comercio y Fomento Industrial, y
 
 CONSIDERANDO
 
-Que el Programa de Política Industrial y Comercio Exterior señala que, de conformidad con los acuerdos de la reunión de Osaka, México continuará participando en los trabajos que incorporarán, entre otras medidas, las relativas a reglas de origen;
+Con fecha 30 de agosto de 1994, se publicó en el Diario Oficial de la Federación el Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, el cual fue reformado y adicionado mediante diverso dado a conocer en el mismo órgano informativo el 11 de noviembre de 1996, el cual tiene por objeto de establecer las normas para la determinación y certificación del país de origen de mercancías que se importen al territorio de los Estados Unidos Mexicanos para efectos de la aplicación del artículo 66 de la Ley de Comercio Exterior;
 
-Que con fecha 30 de agosto de 1994 fue publicado en el Diario Oficial de la Federación el Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, el cual tiene por objeto establecer las normas para la determinación y certificación del país de origen de las mercancías que se importen al territorio de los Estados Unidos Mexicanos para efectos de la aplicación del artículo 66 de la Ley de Comercio Exterior;
+Que el artículo cuarto fracción I inciso c) del citado Acuerdo, establece que para efectos de lo dispuesto en el artículo 66 de la Ley de Comercio Exterior, el importador de mercancías idénticas o similares a aquéllas por las que, de conformidad con la resolución respectiva, deba pagarse una cuota compensatoria, provisional o definitiva, no estará obligado a pagarla si comprueba que el país de origen de las mercancías es distinto del país que exporta mercancías en condiciones de prácticas desleales de comercio internacional, para lo cual, en el caso de mercancías por las que se solicite trato arancelario preferencial al amparo de algún tratado internacional listado en el anexo V, deberá contar con el Certificado de Origen emitido de conformidad con dicho tratado;
 
-Que resulta indispensable reflejar en las regulaciones no arancelarias las enmiendas acordadas dentro del marco del Convenio Internacional del Sistema Armonizado de Designación y Codificación de Mercancías, que entraron en vigor el 1 de enero de 1996 con la Ley del Impuesto General de Importación, así como las de la Ley Aduanera, en vigor a partir del 1 de abril del presente año, y
+Que con fecha 1 de julio de 1998, se publicó en el Diario Oficial de la Federación el Decreto Promulgatorio del Tratado de Libre Comercio entre el Gobierno de los Estados Unidos Mexicanos y el Gobierno de la República de Nicaragua, y
 
-Que la Comisión de Comercio Exterior, conforme al procedimiento previsto en la ley de la materia, aprobó las regulaciones propuestas por esta Secretaría para la determinación y certificación del país de origen de las mercancías que se importen al territorio nacional para los efectos de la aplicación de la Ley de Comercio Exterior en materia de cuotas compensatorias, he tenido a bien expedir el siguiente
+Que con objeto de actualizar el esquema regulatorio en materia de determinación y certificación del país de origen de las mercancías que se importen al territorio nacional para los efectos de la aplicación de la Ley de Comercio Exterior, la Comisión de Comercio Exterior aprobó en su reunión extraordinaria número 9/98 las regulaciones propuestas por esta Secretaría, he tenido a bien expedir el siguiente
 
-ACUERDO QUE REFORMA Y ADICIONA AL DIVERSO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
-
-###### ARTICULO 7o.
-
-Se reforma el Anexo II, del Acuerdo señalado en el artículo 1o. del presente ordenamiento, para quedar como sigue:
-
-Anexo II
-
-Posiciones arancelarias de la Tarifa de la Ley del Impuesto General de Importación en las que se clasifican las mercancías por las que se debe presentar el Certificado de País de Origen contenido en el Anexo III, cuando se importan al territorio de los Estados Unidos Mexicanos:
-
-CALZADO
-
-Partida 64.01
-
-Partida 64.02, excepto la fracción 6402.12.01. También se exceptúan las fracciones 6402.19.01, 6402.19.02, 6402.19.03 y 6402.19.99 siempre y cuando su precio de importación, en términos FOB puerto de salida, sea igual o superior a 16.59 dólares estadounidenses por par, conforme a la resolución respectiva.
-
-Partida 64.03, excepto las fracciones 6403.12.01, 6403.20.01, 6403.30.01 y 6403.40.01. También se exceptúan las fracciones 6403.19.01, 6403.19.02 y 6403.19.99 siempre y cuando su precio de importación, en términos FOB puerto de salida, sea igual o superior a 14.86 dólares estadounidenses por par, conforme a la resolución respectiva; y las fracciones 6403.99.01, 6403.99.02, 6403.99.03, 6403.99.04, 6403.99.05 y 6403.99.99 siempre y cuando su precio de importación, en términos FOB puerto de salida, sea igual o superior a 22.26 dólares estadounidenses por par, conforme a la resolución respectiva.
-
-Partida 64.04, excepto las fracciones 6404.11.01, 6404.11.02, 6404.11.03 y 6404.11.99 siempre y cuando su precio de importación, en términos FOB puerto de salida, sea igual o superior a 17.93 dólares estadounidenses por par, conforme a la resolución respectiva, y además no tengan la parte superior (corte) de lona.
-
-Partida 64.05, excepto la fracción 6405.10.01 siempre y cuando su precio de importación, en términos FOB puerto de salida, sea igual o superior a 19.07 dólares estadounidenses por par, conforme a la resolución respectiva.
-
-TEXTIL
-
-Partida 30.05
-
-Subpartida 3306.20.
-
-###### ARTICULO 10.
-
-Se adiciona a la lista contenida en el Anexo V del Acuerdo señalado en el artículo 1o. del presente ordenamiento, el siguiente Tratado Internacional:
-
-“. . . .
-
-. . . .
-
-. . . .
-
-. . . .
-
-Tratado de Libre Comercio celebrado entre los Estados Unidos Mexicanos y la República de Bolivia.”
+ACUERDO QUE ADICIONA AL DIVERSO POR EL QUE SE ESTABLECEN LAS NORMAS PARA LA DETERMINACION DEL PAIS DE ORIGEN DE MERCANCIAS IMPORTADAS Y LAS DISPOSICIONES PARA SU CERTIFICACION, EN MATERIA DE CUOTAS COMPENSATORIAS
 
 ###### ARTICULO 1o.
 
@@ -238,62 +198,6 @@ Partidas 58.03 y 59.11, excepto las mercancías por las que no se deba pagar una
 CONFECCION
 
 Capítulos 61, 62 y 63, excepto las fracciones 6306.31.01, 6306.39.99 y 6306.41.01.
-
-###### ARTICULO 8o.
-
-Se reforman los campos 1, 5 y 7 inciso c) del Instructivo para el llenado del Certificado de País de Origen contenido en el Anexo III, del Acuerdo señalado en el artículo 1o. del presente ordenamiento, para quedar como sigue:
-
-“I. a III. ....
-
-CAMPO 1: Indique el nombre completo, denominación o razón social, domicilio (incluyendo ciudad y país), número telefónico o fax del exportador. Este campo se refiere a la persona que exporta la mercancía a territorio de los Estados Unidos Mexicanos y podrá ser llenado por el exportador o por el importador.
-
-CAMPO 2 a CAMPO 4: ....
-
-CAMPO 5: Proporcione la descripción y la cantidad de las mercancías amparadas por este Certificado.
-
-La descripción de la mercancía en este campo deberá ser suficiente para identificar la mercancía que se describe en la factura u otro documento con que la mercancía se importa a territorio de Estados Unidos Mexicanos. La descripción de las mercancías podrá constar en hojas anexas cuando así se requiera.
-
-El Certificado de País de Origen no podrá ser rechazado cuando el número de las mercancías importadas sea menor al número señalado en dicho Certificado. Sin embargo, si el número declarado en el Certificado es menor al de las mercancías a importar, se entenderá que dichas mercancías carecen del Certificado.
-
-CAMPO 6 ....
-
-CAMPO 7 ....
-
-Criterios:
-
-A. a F. .....
-
-NOTA:
-
-. . .
-
-. . .
-
-. . .
-
-. . .
-
-a) a b) . . .
-
-c) Ser formalizada por el organismo o autoridad extranjera del país de producción del material, cuando se trate de materiales producidos en un país listado en el Anexo VI o en un país no miembro de la Organización Mundial de Comercio. En este caso, no tendrá que formalizarse el Certificado de País de Origen de la mercancía a importar a territorio de los Estados Unidos Mexicanos, que contiene el material o materiales referidos.
-
-CAMPO 8 a CAMPO 11: ....”
-
-###### ARTICULO 9o.
-
-Se reforma el primer párrafo y la fracción II inciso c) del Anexo IV del Acuerdo señalado en el artículo 1o. del presente ordenamiento, para quedar como sigue:
-
-“La constancia de país de origen es un certificado de origen elaborado en formato libre, que puede constar en la factura y que deberá cumplir con los siguientes requisitos:
-
-I.- . . .
-
-II.- . . .
-
-a) a b)
-
-c) La descripción de las mercancías de acuerdo a los datos de la factura u otro documento que ampare las mercancías a importar. La descripción de dichas mercancías deberá ser suficiente para identificarlas y podrá constar en hojas anexas, cuando así se requiera.
-
-Cuando se trate de importaciones de mercancías amparadas por una sola factura y dichas mercancías sean originarias de dos o más países, el importador podrá presentar ante la aduana una sola Constancia de País de Origen, siempre y cuando ésta describa las mercancías, e indique el país de origen de cada una de ellas.”
 
 #### Sección XXI
 
@@ -719,6 +623,20 @@ p) Del Capítulo 96 la siguiente:
 
 9614.10 Un cambio a la subpartida 9614.10 de cualquier otra partida, excepto de la partida 44.07.
 
+###### ARTICULO UNICO.
+
+Se adiciona a la lista contenida en el Anexo V del Acuerdo por el que se establecen las normas para la determinación del país de origen de mercancías importadas y las disposiciones para su certificación, en materia de cuotas compensatorias, publicado en el Diario Oficial de la Federación el 30 de agosto de 1994, reformado y adicionado mediante diverso dado a conocer en el mismo órgano informativo el 11 de noviembre de 1996, el siguiente Tratado Internacional:
+
+“ . . .
+
+. . .
+
+. . .
+
+. . .
+
+Tratado de Libre Comercio celebrado entre los Estados Unidos Mexicanos y la República de Nicaragua.”
+
 ###### ARTICULO CUARTO.
 
 . . .
@@ -807,10 +725,8 @@ VI.- Tratándose de mercancías exportadas definitivamente que retornan al país
 
 VII.- Tratándose del retorno de mercancías exportadas temporalmente conforme a lo dispuesto por los artículos 115 y 116 de la Ley Aduanera”.
 
-## TRANSITORIOS
+## TRANSITORIO
 
-PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
-SEGUNDO.- Los Certificados de País de Origen que hubieren sido expedidos con anterioridad a la vigencia del presente Acuerdo, tomando como referencia la clasificación arancelaria de 1995, podrán ser presentados a la aduana para el despacho de mercancías, a pesar de que la clasificación arancelaria contenida en dichos Certificados no sea idéntica a la señalada en el pedimento, siempre que la descripción de la mercancía señalada en el Certificado respectivo corresponda a la declarada en el pedimento de importación, y que dicha mercancía cumpla con la regla de origen aplicable.
-
-México, D.F., a 31 de octubre de 1996.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.
+México, D.F., a 1 de octubre de 1998.- El Secretario de Comercio y Fomento Industrial, Herminio Blanco Mendoza.- Rúbrica.
