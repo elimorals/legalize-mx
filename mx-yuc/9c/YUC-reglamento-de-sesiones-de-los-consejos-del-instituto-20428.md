@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-sesiones-de-los-consejos-del-instituto-20428"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-10-16"
-last_updated: "2001-03-26"
+last_updated: "2003-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "YUC"
 
 REGLAMENTO DE SESIONES DE LOS CONSEJOS DEL INSTITUTO ELECTORAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE SEPTIEMBRE DE 2003.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el jueves 16 de octubre de 1997.
 
@@ -110,9 +110,13 @@ III. DE LOS TIPOS DE SESIONES Y SU DURACIÓN
 
 1 Las sesiones de los Consejos del Instituto Electoral del Estado pueden ser ordinarias, extraordinarias o especiales.
 
-a) Son ordinarias, aquellas sesiones que deben celebrarse de acuerdo con la ley en forma mensual, desde la instalación del Consejo correspondiente hasta la conclusión de cada proceso electoral.
+> <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 2003)</small>
 
-b) Son extraordinarias, aquellas sesiones convocadas por el Presidente del Consejo cuando lo estime necesario o a petición que le formule la mayoría de los representantes de los partidos políticos acreditados, para tratar asuntos que no puedan ser desahogados en las sesiones ordinarias.
+a) Son ordinarias, aquellas sesiones que deben celebrarse de acuerdo con la ley cada tres meses, y en forma mensual, desde el inicio de cada proceso electoral del Consejo correspondiente hasta la conclusión del mismo;
+
+> <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 2003)</small>
+
+b) Son extraordinarias, aquellas sesiones convocadas por el Presidente del Consejo cuando lo estime necesario o a petición que le sea formulada por la mayoría de los consejeros ciudadanos o por la mayoría de los representantes acreditados de los partidos políticos conjunta o indistintamente.
 
 c) Son especiales las que se convoquen para un objetivo único y determinado, en términos de lo establecido en el Código Electoral del Estado de Yucatán.
 
@@ -148,7 +152,9 @@ ARTICULO 8
 
 1. El día fijado para la sesión se reunirán en la sala de sesiones los miembros del Consejo. El Presidente del Consejo declarará instalada la misma, previa toma de lista de asistencia y certificación de la existencia del quórum legal por parte del Secretario Técnico.
 
-2. Para que los Consejos del Instituto Electoral del Estado puedan sesionar, deberá Existir el quórum legal a que se refieren los artículos 93, 110 y 119 del Código Electoral del Estado, de no reunirse el quórum legal para llevar a cabo la sesión, se citará nuevamente a sesión para que se celebre dentro de las veinticuatro horas siguientes, la cuál se efectuará con los consejeros que asistan, entre los que deberá estar el Presidente. Las resoluciones, en todos los casos, se tomarán por mayoría de votos.
+> <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 2003)</small>
+
+2. Para que los Consejos del Instituto Electoral del Estado puedan sesionar deberá existir el quórum legal a que se refieren los Artículos 93, 110 y 119 del Código Electoral del Estado, de no reunirse el quórum legal para llevar a cabo la sesión, el Presidente convocará a otra sesión a celebrarse, en un plazo no menor de veinticuatro horas, la cuál se efectuará con los consejeros ciudadanos y demás integrantes del Consejo que asistan, en ambos casos deberá estar presente el Presidente. Las resoluciones, en todos los casos, se tomarán por mayoría de votos de los consejeros ciudadanos asistentes.
 
 3. Los Consejeros Ciudadanos de los Consejos del Instituto Electoral del Estado, tendrán la obligación de asistir a todas las sesiones a las que sean convocados y permanecer en ellas desde el inicio hasta su conclusión. Sin embargo, si en el transcurso de la sesión se ausentaren definitivamente de ésta alguno o algunos de los miembros del Consejo y con ello no se alcanzare el quórum legal para continuar con la misma, el Presidente del Consejo, previa instrucción al Secretario Técnico para verificar esta situación, deberá suspenderla y, en su caso, citar para su continuación dentro de las veinticuatro horas siguientes.
 
@@ -156,7 +162,9 @@ ARTICULO 8
 
 1 Las sesiones de los Consejos del Instituto Electoral del Estado serán públicas.
 
-2 El público asistente deberá permanecer en silencio, guardar orden y abstenerse de cualquier manifestación. En las sesiones solo podrán ocupar lugar en las mesas y deliberar, los Integrantes de los consejos de que se trate.
+> <small>(REFORMADO, D.O. 15 DE SEPTIEMBRE DE 2003)</small>
+
+2 El público asistente deberá permanecer en silencio, guardar orden y abstenerse de cualquier manifestación. En las sesiones solo podrán ocupar lugar en las mesas y deliberar, los consejeros, los representantes de los partidos políticos y el Secretario Técnico.
 
 3 Para garantizar el orden en el salón de sesiones, el presidente del Consejo podrá tomar las medidas que se señalan en el artículo 135, párrafo 3, fracciones I, II y III del Código Electoral del Estado, mismas que se indican a continuación:
 
@@ -256,6 +264,8 @@ IX. ACTAS DE LAS SESIONES
 
 2. El proyecto de acta deberá someterse a aprobación en la siguiente sesión de que se trate. El Secretario Técnico deberá entregar a los miembros del Consejo el proyecto de acta de cada sesión en un plazo que no excederá las setenta y dos horas siguientes a su celebración.
 
+> <small>(DEROGADO, D.O. 15 DE SEPTIEMBRE DE 2003)</small>
+
 X. SOBRE LAS COMISIONES
 
 ###### ARTICULO 20.
@@ -293,3 +303,9 @@ D.O. 26 DE MARZO DE 2001.
 SE TRANSCRIBE UNICAMENTE EL PUNTO DEL ACUERDO DE REFORMAS QUE SE RELACIONA CON EL ORDENAMIENTO.
 
 CUARTO.- Publíquese el presente acuerdo en el Diario Oficial del Gobierno del Estado.
+
+D.O. 15 DE SEPTIEMBRE DE 2003.
+
+SE TRANSCRIBE UNICAMENTE EL PUNTO DEL ACUERDO DE REFORMAS QUE SE RELACIONA CON EL ORDENAMIENTO.
+
+SEXTO.- Publíquese el presente acuerdo en el Diario Oficial del Gobierno del Estado.
