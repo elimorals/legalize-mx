@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1992-06-26"
+last_updated: "1992-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 1992.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 26 DE JUNIO DE 1992.]</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE DICIEMBRE DE 1992.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de julio de 1931.
 
@@ -56,11 +54,15 @@ Las únicas monedas circulantes serán:
 
 a). Los billetes del Banco de México, S. A., con las denominaciones que fijen sus estatutos;
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE DICIEMBRE DE 1992)</small>
+
+b). Las monedas metálicas de veinte, diez, cinco, dos y un pesos, y de cincuenta, veinte, diez y cinco centavos, con los diámetros, composición metálica, cuños y demás características que señalen los decretos relativos.
+
 > <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 1992)</small>
 
-b). Las monedas metálicas de diez, cinco, dos y un pesos, y de cincuenta, veinte, diez y cinco centavos, con los diámetros, composición metálica, cuños y demás características que señalen los decretos relativos.
-
 Cuando los decretos relativos prevean aleaciones opcionales para la composición de las monedas metálicas, la Secretaría de Hacienda y Crédito Público, a propuesta del Banco de México, determinará su composición metálica señalando alguna de las aleaciones establecidas en el decreto respectivo o sustituyendo la así señalada por otra de ellas.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 1992)</small>
 
 La Secretaría de Hacienda y Crédito Público publicará en el Diario Oficial de la Federación las resoluciones en las que se determine la aleación que se utilizará en la composición metálica de las monedas de que se trata.
 
@@ -1445,3 +1447,109 @@ NOVENO.- Las expresiones en moneda nacional contenidas en leyes, reglamentos, ci
 DECIMO.- A partir del día siguiente a la fecha de publicación de este Decreto, las dependencias y entidades de la administración pública federal, en el ámbito de sus respectivas competencias, quedan facultadas para tomar las medidas necesarias y dictar las disposiciones conducentes para preparar y asegurar la adecuada y oportuna operación del nuevo sistema monetario, con la debida salvaguarda de los intereses del público. Particularmente, en materia de precios, dichas dependencias y entidades habrán de proveer lo necesario para que estos se expresen tanto en pesos actuales como en "nuevos pesos", por lo menos durante el período comprendido del 3 de noviembre de 1992 al 28 de febrero de 1993.
 
 Al tomar las medidas y dictar las disposiciones conducentes, tales dependencias y entidades deberán contar previamente con la opinión del Banco de México.
+
+D.O.F. 8 DE DICIEMBRE DE 1992.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTICULO SEGUNDO DEL "DECRETO QUE REFORMA EL INCISO b) DEL ARTÍCULO 2° DE LA LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS Y SE SEÑALAN LAS CARACTERÍSTICAS DE LA MONEDA DE VEINTE PESOS", PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 8 DE DICIEMBRE DE 1992".]</small>
+
+###### ARTICULO SEGUNDO.
+
+Las características de la moneda de veinte pesos, a que se refiere el inciso b) del artículo 2° de la Ley Monetaria de los Estados Unidos Mexicanos, serán las siguientes:
+
+MONEDA DE VEINTE PESOS
+
+VALOR FACIAL: Veinte pesos.
+
+FORMA: Circular.
+
+DIAMETRO: 32.0 mm (treinta y dos
+
+milímetros).
+
+COMPOSICIÓN: La moneda será bimetálica y estará constituida por dos aleaciones, una para su parte central y otra para su anillo perimétrico, que serán como sigue:
+
+1. Parte central de la moneda.
+
+Plata: Sterling
+
+Ley: 0.925.
+
+Metal de liga: Cobre.
+
+Peso: 8.406 g (ocho gramos,
+
+Cuatrocientos
+
+seis
+
+milésimos).
+
+Contenido: 7.776 g (siete gramos,
+
+Setecientos
+
+setenta y seis
+
+milésimos),
+
+equivalente a
+
+¼ (un cuarto)
+
+de onza troy de
+
+plata pura.
+
+Tolerancia en 0.005 (cinco
+
+Ley: milésimos) en
+
+más o en
+
+menos.
+
+Tolerancia en 0.150 g (ciento
+
+peso por pieza: cincuenta
+
+miligramos) en
+
+más o en
+
+menos.
+
+Tolerancia en 2.63 g (dos gramos,
+
+peso por conjunto sesenta y tres
+
+de mil piezas: centésimos) en
+
+más o en
+
+menos.
+
+2. Anillo perimétrico de la moneda.
+
+3. PESO TOTAL.- Será la suma de los pesos de la parte central y del anillo perimétrico de la misma, que corresponderá, para cada inciso del punto 2 anterior, como a continuación se indica.
+
+A) 16.996 g (dieciséis gramos, novecientos noventa y seis milésimos), y las tolerancias en peso por pieza y por conjunto de mil piezas serán respectivamente 0.494 g (cuatrocientos noventa y cuatro miligramos) y 9.25 g (nueve gramos, veinticinco centésimos), ambas en más o en menos.
+
+B) 16.889 g (dieciséis gramos, ochocientos ochenta y nueve milésimos), y las tolerancias en peso por pieza y por conjunto de mil piezas serán respectivamente 0.489 g (cuatrocientos ochenta y nueve miligramos) y 9.161 g (nueve gramos, ciento sesenta y un milésimos), ambas en más o en menos.
+
+C) 16.985 g (dieciséis gramos, novecientos ochenta y cinco milésimos), y las tolerancias en peso por pieza y por conjunto de mil piezas serán respectivamente 0.493 g (cuatrocientos noventa y tres miligramos) y 9.249 g (nueve gramos, doscientos cuarenta y nueve milésimos), ambas en más o en menos.
+
+D) 17.737 g (diecisiete gramos, setecientos treinta y siete milésimos), y las tolerancias en peso por pieza y por conjunto de mil piezas serán respectivamente 0.523 g (quinientos veintitrés miligramos) y 9.817 g (nueve gramos, ochocientos diez y siete milésimos), ambas en más o en menos.
+
+CUÑOS:
+
+Anverso: El Escudo Nacional con la leyenda "ESTADOS UNIDOS MEXICANOS" formando el semicírculo superior.
+
+Reverso: En la parte central aparece la efigie de "Don Miguel Hidalgo y Costilla"; en el campo derecho al centro el símbolo de la Casa de Moneda de México "M" y debajo de éste el año de acuñación; en el exergo la palabra "HIDALGO", en el campo superior al centro aparece el símbolo "$" y el número 20 como valor facial; formando un semicírculo en la parte inferior, una guirnalda de laureles. El marco liso con gráfila escalonada.
+
+Canto: Estriado discontinuo.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Decreto entrará en vigor el 1° de enero de 1993.
+
+SEGUNDO.- La moneda de veinte pesos a que se refiere el artículo segundo de este Decreto, deberá contener en el reverso el símbolo "N$", en lugar del símbolo "$", hasta que el Banco de México, en términos de lo dispuesto por el artículo tercero transitorio del Decreto que reforma y adiciona diversas disposiciones de la Ley Monetaria de los Estados Unidos Mexicanos y señala las características de las monedas de cinco, diez, veinte y cincuenta centavos y de uno, dos, cinco y diez pesos, publicado en el Diario Oficial de la Federación el 22 de junio de 1992; retire de la circulación las monedas señaladas en el propio artículo.
