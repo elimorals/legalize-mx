@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1995-01-15"
+last_updated: "1995-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 1995.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 1995.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -401,9 +401,11 @@ XIII.- Conceder licencia al Gobernador, para salir del territorio del Estado, cu
 
 XIV.- Decidir sobre la renuncia del cargo de Gobernador; conceder licencia a dicho servidor público para separarse del cargo, hasta por noventa días.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 1995)</small>
 
-XV.- Aprobar los nombramientos de los Magistrados del Supremo Tribunal de Justicia del Estado, que expida el Ejecutivo; y en caso de que los rechace, nombrarlos de entre los listados en las ternas que éste le proponga.
+XV.- Aprobar los nombramientos de los Magistrados del Supremo Tribunal de Justicia del Estado, de la terna propuesta por el Ejecutivo; en caso de que los rechace, aceptar una nueva terna en términos del Artículo 54 de esta Constitución.
+
+Los nombramientos de los Magistrados deberán recaer en aquellas personas seleccionadas por el Consejo de la Judicatura Estatal que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de su actividad jurídica.
 
 > <small>(REFORMADA P.O. 15 DE ENERO DE 1995)</small>
 
@@ -475,9 +477,17 @@ Integrar a solicitud de una tercera parte de sus miembros, comisiones para inves
 
 XXXI.- Elegir de entre las propuestas que le presenten sus integrantes a los Consejeros Ciudadanos y a los Magistrados del Tribunal Local Electoral, que reúnan los requisitos de la Ley de la materia por el voto de dos terceras partes de sus integrantes, si en una primera votación no se obtuviese tal mayoría, se procederá a designarlos mediante el procedimiento de insaculación.
 
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 1991)</small>
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 1995)</small>
 
-XXXII.- Las demás que le conceden esta Constitución y la General de la República.
+XXXII.- Ratificar el nombramiento que el Gobernador del Estado haga del Procurador General de Justicia.
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 1995)</small>
+
+XXXIII.- Nombrar a los miembros del Consejo de la Judicatura Estatal en los términos del Artículo 55 de esta Constitución.
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 1995)</small>
+
+XXXIV.- Las demás que le concede esta Constitución y la General de la República.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -715,9 +725,9 @@ VIII.- Concertar empréstitos en los términos de la fracción IV del Artículo 
 
 IX.- Ejercer actos de dominio sobre los bienes de la propiedad del Estado, con autorización del Congreso tratándose de inmuebles;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 1995)</small>
 
-X.- Nombrar y remover al Secretario General de Gobierno, al Secretario de Finanzas, al Procurador General de Justicia y a los demás Servidores Públicos del Poder Ejecutivo.
+X.- Nombrar y remover al Secretario General de Gobierno, al Secretario de Finanzas, y a los demás servidores públicos del Poder Ejecutivo Estatal; así como al Procurador General de Justicia del Estado cuyo nombramiento será ratificado por el Congreso del Estado.
 
 XI.- Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los Tribunales;
 
@@ -731,7 +741,9 @@ XV.- Decretar la expropiación, por causa de utilidad pública, con los requisit
 
 XVI.- Disponer de la Policía en los Municipios en que habitual o transitoriamente se encuentre;
 
-XVII.- Nombrar Magistrados del Supremo Tribunal de Justicia, observándose lo dispuesto por la fracción XVI del artículo 27 de esta Constitución; y (sic)
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 1995)</small>
+
+XVII.- Proponer al Congreso del Estado las ternas para nombrar Magistrados del Supremo Tribunal de Justicia del Estado, en términos del Artículo 54, y de acuerdo a las disposiciones del Artículo 27 fracción XV de esta Constitución.
 
 XVIII.- (DEROGADA, P.O. 15 DE ENERO DE 1995)
 
@@ -783,7 +795,7 @@ suplidas por el servidor público inmediato inferior de la Secretaría, quien de
 
 Del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1995)</small>
 
 ### CAPITULO UNICO.
 
@@ -791,7 +803,7 @@ DEL PODER JUDICIAL.
 
 ###### Artículo 51.
 
-El Poder Judicial es el encargado de impartir justicia, aplicando las leyes. Se deposita en el Supremo Tribunal de Justicia y en los Juzgados que la Ley Orgánica respectiva determine.
+El Poder Judicial es el encargado de impartir justicia, aplicando las leyes, se deposita en el Supremo Tribunal de Justicia del Estado, en los juzgados y en el Consejo de la Judicatura Estatal, este último tendrá las facultades administrativas, así como en Materia de carrera Judicial y demás atribuciones que la Ley Orgánica respectiva determine.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
 
@@ -805,35 +817,57 @@ El Supremo Tribunal de Justicia, se integrará de siete Magistrados Propietarios
 
 Para ser Magistrado se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento, originario del Estado o con residencia en él no menor de un año inmediatamente anterior a la fecha de la designación;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 1995)</small>
 
-II.- Ser Licenciado en Derecho y tener cinco años de práctica profesional;
+I.- Ser ciudadano mexicano por nacimiento, originario del Estado o con residencia en él no menor de tres años inmediatamente anteriores a la fecha de la designación.
 
-III.- Ser mayor de treinta años de edad, estar en pleno ejercicio de sus derechos y no haber sido condenado por delito intencional, con pena privativa de libertad; y
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 1995)</small>
+
+II.- Poseer Título de Licenciado en Derecho con una antigüedad mínima de diez años el día de la designación.
+
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 1995)</small>
+
+III.- Tener cuando menos 35 años cumplidos el día de la designación.
 
 IV.- No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 1995)</small>
+
+V.- No haber tenido cargo de secretario o su equivalente en el Poder Ejecutivo del Estado, Procurador de Justicia, Diputado Federal o Local o Dirigente de Partido Político durante el año previo al día de su designación.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1995)</small>
 
 ###### Artículo 54.
 
-Los Magistrados del Supremo Tribunal de Justicia serán nombrados por el Gobernador, con la aprobación del Congreso o de la Diputación Permanente.
+Los Magistrados del Supremo Tribunal de Justicia del Estado, se elegirán en la forma siguiente:
 
-Si dentro del término de cinco días de haber sometido los nombramientos de Magistrados a la consideración del Congreso o de la Diputación Permanente, estos Organismos nada resolvieren, se entenderán aprobados dichos nombramientos.
+El Consejo de la Judicatura Estatal, encabezado por el Presidente del Supremo Tribunal de Justicia en el Estado, siguiendo el procedimiento de selección que su propia Ley establezca, propondrá cinco candidatos al titular del Ejecutivo del Estado, quien de entre ellos formulará una terna la cual enviará al Congreso del Estado para que designe a un Magistrado con la aprobación de la mayoría de los asistentes al Pleno.
 
-Si fueren rechazados, el Gobernador, dentro de igual término, enviará ternas a los aludidos Organismos para que de ellas sean nombrados los Magistrados.
+Si dentro del término de siete días hábiles de haber sometido la terna para Magistrado a la consideración del Congreso del Estado, éste nada resolviere, el derecho pasará al Ejecutivo del Estado, quien nombrará al Magistrado y lo comunicará al Consejo de la Judicatura Estatal.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+Si dentro del término referido el Congreso del Estado rechaza la terna propuesta por el Ejecutivo del Estado, éste propondrá una nueva terna de entre la cual el Congreso del Estado deberá elegir al Magistrado en un término de cinco días hábiles.
+
+(REFORMADO, P.O. 26 DE MARZO DE 1995)(F. DE E., P.O. 2 DE ABRIL DE 1995)
 
 ###### Artículo 55.
 
-Los Juzgados estarán a cargo de Jueces que nombrará el Supremo Tribunal de Justicia, en número, categoría y denominación que establezca la Ley Orgánica del Poder Judicial, la que también fijará los requisitos necesarios para ocupar esos cargos.
+Los juzgados estarán a cargo de los jueces que nombrará el Consejo de la Judicatura Estatal, en número, categoría y especialidad que éste y la Ley Orgánica del Poder Judicial determinen; los aspirantes a ocupar los cargos referidos, deberán cumplir con los requisitos establecidos en el Artículo 53 de esta Constitución, a excepción de la edad y experiencia profesional.
 
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1980)</small>
+El Consejo de la Judicatura Estatal se integrará por siete miembros, de los cuales uno será el Presidente del Supremo Tribunal de Justicia del Estado que fungirá también como Presidente del Consejo; uno nombrado por los jueces de primera instancia en Materia Penal y otro nombrado por los jueces en las Materias Civil, Mixta y Familiar, ambos electos de entre ellos mismos; dos serán nombrados por el Congreso del Estado, los cuales no podrán ser Diputados Propietarios o Suplentes y dos nombrados por el Ejecutivo Estatal.
+
+Los Consejeros deberán reunir los requisitos que la Ley determine y durarán en su encargo tres años, y serán sustituidos en forma escalonada por sextas partes; el Presidente durará el mismo tiempo que dure en su encargo como Presidente del Supremo Tribunal de Justicia.
+
+El Consejo estará facultado para expedir acuerdos para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la Ley, así como para coadyuvar en la elaboración del presupuesto de egresos del Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1995)</small>
 
 ###### Artículo 56.
 
-Los Magistrados y Jueces serán inamovibles. Sólo podrán ser privados de sus cargos por mala conducta debidamente comprobada en los términos de la Ley Orgánica del Poder Judicial, o previo juicio de responsabilidad.
+Los Magistrados y Jueces deberán ser nombrados mediante un concurso de oposición, aplicado por el Consejo de la Judicatura Estatal, como se disponga en la Ley respectiva y durará en su encargo diez años, durante los cuales serán inamovibles, salvo caso de mala conducta debidamente comprobada, calificada por el Consejo de la Judicatura Estatal o previo juicio de responsabilidad ante el Congreso del Estado.
+
+Ninguna persona que haya sido Magistrado podrá ser nombrada para un nuevo período, salvo que hubiere ejercido el cargo con carácter de provisional o interino.
+
+Las renuncias de los Magistrados del Supremo Tribunal de Justicia del Estado serán sometidas al Consejo de la Judicatura Estatal, y si éste las acepta, las enviará para su aprobación al Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -873,57 +907,43 @@ CAPITULO DECIMOTERCERO
 
 Del Ministerio Público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1995)</small>
 
-###### Articulo 59.
+###### Artículo 59.
 
-La ley organizará al Ministerio Público del Estado, cuyos servidores públicos serán nombrados y removidos libremente por el Gobernador, debiendo estar presididos por un Procurador General de Justicia, mismo que deberá reunir los siguientes requisitos:
+La Ley organizará el Ministerio Público del Estado, cuyos servidores públicos serán nombrados y removidos libremente por el Ejecutivo Estatal. El Ministerio Público del Estado estará presidido por un Procurador General de Justicia del Estado, designado por el titular del Ejecutivo del Estado, y ratificado por el Congreso del Estado, o en sus recesos, por la Diputación Permanente.
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1974)</small>
+El Procurador General de Justicia deberá reunir los mismos requisitos que se requieren para ser Magistrado del Supremo Tribunal de Justicia de acuerdo con el Artículo 53 de esta Constitución.
 
-I.- Ser ciudadano mexicano por nacimiento, originario del Estado o con residencia en él no menor de un año inmediatamente anterior a la fecha de la designación;
-
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1974)</small>
-
-II.- Ser Licenciado en Derecho;
-
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1974)</small>
-
-III.- Estar en pleno ejercicio de sus derechos y no haber sido condenado por delito intencional, con pena privativa de la libertad; y
-
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1974)</small>
-
-IV.- No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
-
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1995)</small>
 
 ###### Artículo 60.
 
-Estará a cargo del Ministerio Público la persecución, ante los Tribunales del Estado, de todos los delitos del orden común e ilícitos oficiales; y, por lo mismo, a él corresponderá solicitar las ordenes de aprehensión contra lo acusados; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; procurar que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita; pedir la aplicación de las penas e intervenir en todos los negocios que la ley determine.
+Estará a cargo del Ministerio Público del Estado la persecución, ante los Tribunales del Estado, de los delitos del orden común e ilícitos oficiales; y, por lo mismo, a él corresponderá solicitar las órdenes de aprehensión contra los acusados, buscar y presentar las pruebas que acrediten la responsabilidad de éstos. Procurar que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita, pedir la aplicación de las penas e intervenir en todos los negocios que la Ley determine.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+La Ley establecerá los casos en que proceda la impugnación de las resoluciones del Ministerio Público del Estado sobre el no ejercicio de la acción penal, así como las sanciones aplicables a aquellas personas que los interpongan de manera dolosa.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1995)</small>
 
 ###### Artículo 61.
 
-El Procurador General de Justicia intervendrá personalmente en todos los negocios en que el Estado fuese parte. En los asuntos judiciales en que la ley da intervención al Ministerio Público, el Procurador podrá intervenir directamente o por medio de sus Agentes.
+El Procurador General de Justicia del Estado intervendrá personalmente en todos los negocios en que el Estado fuese parte. En los asuntos judiciales en que la Ley dé intervención al Ministerio Público, el Procurador podrá intervenir directamente o por medio de sus agentes.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+Además, dará parte al Procurador General de la República de toda aquella norma jurídica de carácter general a excepción de la materia electoral que a su criterio estime que se contrapone a la Ley suprema.
+
+El Procurador General de Justicia del Estado será el Consejero Jurídico del Gobierno del Estado.
+
+Tanto él como sus agentes se someterán estrictamente a las disposiciones de la Ley, siendo responsables de toda falta, omisión o violación en que incurran con motivo de sus funciones.
+
+> <small>(REFORMADO, P.O. 26 DE MARZO DE 1995)</small>
 
 ###### Artículo 62.
 
-El Procurador General de Justicia será el consejero jurídico del Gobierno del Estado. Tanto él como sus Agentes se someterán estrictamente a las disposiciones de la Ley, siendo responsable de toda falta, omisión o violación en que incurran con motivo de sus funciones.
+El Congreso del Estado, en el ámbito de su competencia, establecerá como el organismo de protección a los derechos humanos a la Procuraduría de Protección Ciudadana, la cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público estatal que violen derechos humanos, formulará recomendaciones públicas, autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas.
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 1993)</small>
+Este organismo no será competente tratándose de asuntos electorales, laborales ni jurisdiccionales, ni de consultas formuladas por autoridades, particulares u otras entidades sobre la interpretación de las disposiciones constitucionales y de la legislación reglamentaria.
 
-El Congreso del Estado, en el ámbito de su competencia, establecerá como el organismo de protección a los derechos humanos, a la Procuraduría de Protección Ciudadana, quien conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público, con excepción de los del Poder Judicial Estatal, que violen estos derechos. Formulará recomendaciones públicas autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas.
-
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 1993)</small>
-
-Este organismo no será competente tratándose de asuntos electorales, laborales y jurisdiccionales, ni consultas formuladas por autoridades, particulares u otras entidades sobre la interpretación de las disposiciones constitucionales y legales.
-
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 1993)</small>
-
-Para el pleno desempeño de sus atribuciones la Procuraduría de Protección Ciudadana, contará con un Consejo Consultivo integrado por cinco personas con conocimiento en diversas materias: técnicas, científicas y humanísticas y con carácter honorífico, designados por el Titular y por un período igual al del Procurador de Protección Ciudadana, para la resolución de algunos casos que requieran sus conocimientos.
+Para el pleno desempeño de sus atribuciones la Procuraduría de Protección Ciudadana contará con un consejo consultivo integrado por cinco personas con conocimiento en diversas materias técnicas, científicas y humanísticas, con carácter honorífico, designadas por el titular de la Procuraduría de Protección Ciudadana del Estado y por un período igual al del Procurador de Protección Ciudadana, para la resolución de casos que requieran sus conocimientos.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1543,7 +1563,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 
 P.O. 26 DE AGOSTO DE 1990.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.S.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 24 DE FEBRERO DE 1991.
 
@@ -1638,3 +1658,17 @@ La presente reforma constitucional en materia electoral regirá a partir de 1995
 ###### ARTICULO TERCERO.
 
 En tanto no se aprueben las reformas y adiciones a la Ley Orgánica del Congreso del Estado, se aplicará la vigente en lo que no contravenga al presente Decreto.
+
+P.O. 26 DE MARZO DE 1995.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El actual Procurador General de Justicia en el Estado deberá ser ratificado por el H. Congreso del Estado o por la Diputación Permanente dentro de los 15 días posteriores a la entrada en vigor del presente Decreto.
+
+TERCERO.- Los Magistrados, Jueces, Secretarios de Acuerdos y Actuarios que a la entrada en vigor de este Decreto se encuentren laborando, al servicio del Poder Judicial del Estado, o bien, que teniendo el nombramiento como tales tengan licencia concedida para no laborar en el mismo y no apueben (sic) el examen relativo o no se presenten al mismo, serán tratados conforme a las disposiciones legales del caso; en ambos casos dichos funcionarios no podrán separarse de su cargo hasta que sean nombrados los sustitutos respectivos.
+
+CUARTO.- Por única vez, los miembros del Consejo de la Judicatura Estatal, a excepción de quien funja como Presidente del mismo durarán en su encargo 24, 20, 16, 12, 8 y 4 meses, lo cual se determinará mediante sorteo entre quienes hayan sido designados como Consejeros. Una vez instalado el Consejo de la Judicatura del Estado, contará con un término de treinta días para elaborar el Reglamento respectivo.
+
+QUINTO.- En tanto sea instalado el Consejo de la Judicatura Estatal, de inmediato convocará a los aspirantes para realizar los exámenes de selección del personal, que ocupará los cargos en su caso de Magistrado, Juez, Secretario de Acuerdos, Secretario de Estudio y Proyectos y Actuario, respetando el transitorio tercero de este Decreto. La elaboración y aplicación de los exámenes relativos por esta única ocasión, se hará por la Comisión para la reforma del Poder Judicial de Aguascalientes, misma que se auxiliará de la entidad académica externa que se designe. Hasta en tanto no se instale el Consejo de la Judicatura del Estado, la Comisión para la Reforma del Poder Judicial podrá convocar de inmediato a exámenes para cubrir las vacantes que pudieren existir en el Poder Judicial del Estado.
+
+SEXTO.- Se abrogan todas las disposiciones que se opongan al presente Decreto.
