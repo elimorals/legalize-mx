@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-ministerio-publico-del-estado-de-chihuahua-462
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-01-08"
-last_updated: "2002-05-22"
+last_updated: "2002-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2002 Y REPUBLICADO EL 25 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2002.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 8 de enero de 1992.
 
@@ -241,7 +241,9 @@ En contra de la abstención del ejercicio de la acción penal o de su desistimie
 
 XI.- Solicitar al Pleno del Supremo Tribunal de Justicia del Estado el cambio de radicación de los procesos cuando el delito imputado sea grave o el reclusorio en donde se encuentra el procesado no preste la seguridad debida;
 
-XII.- Intervenir en representación del Estado en toda controversia que afecte los intereses de éste, ante los Tribunales del Estado y de la Federación;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+
+XII.- Representar al Estado, previo acuerdo del Gobernador, en todo Juicio o Controversia que pueda afectar los intereses del primero, ante toda clase de Tribunales Federales, Estatales o Administrativos;
 
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 1995)</small>
 
@@ -548,3 +550,17 @@ P.O. 22 DE MAYO DE 2002.
 REPUBLICADO, P.O. 25 DE MAYO DE 2002.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política Estatal, envíese copia de la iniciativa y de los debates del Congreso a los ayuntamientos de los sesenta y siete municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Local. Realizado que sea, publíquese en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
