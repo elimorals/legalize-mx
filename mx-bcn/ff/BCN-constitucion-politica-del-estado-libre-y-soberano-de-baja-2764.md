@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1993-06-04"
+last_updated: "1994-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 1993.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 1994.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -165,7 +165,7 @@ La elección para los cuatro Diputados de Minoría se sujetará a lo que en lo p
 
 I.- Los Partidos Políticos deberán participar en la elección de diputados por mayoría en por lo menos la tercera parte de los Distritos Electorales;
 
-II.- Tendrá derecho a que le sean atribuidos diputados de minoría todo aquel Partido que: A) .- No haya obtenido dos o más constancias de mayoría y B) .- Que alcance por lo menos el 1.5% del total de la votación emitida en el Estado, en la elección de candidatos de mayoría; y
+II.- Tendrá derecho a que le sean atribuídos diputados de minoría todo aquel Partido que: A) .- No haya obtenido dos o más constancias de mayoría y B) .- Que alcance por lo menos el 1.5% del total de la votación emitida en el Estado, en la elección de candidatos de mayoría; y
 
 III.- Al Partido que cumpla con los supuestos señalados en las Fracciones I y II de este Artículo, le será asignado un diputado de minoría en favor del candidato que en su respectivo Distrito haya obtenido el mayor número de votos de entre todos los candidatos de ese Partido que hayan participado en el proceso electoral.
 
@@ -293,7 +293,7 @@ VIII.- Calificar la validez de las elecciones de los ayuntamientos, consignando 
 
 IX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convenga;
 
-X.- Hacer la declaratoria de haber resultado electos senadores por el Estado, los ciudadanos que hubiesen obtenido la mayoría de los votos emitidos, de acuerdo con lo dispuesto por el artículo 56 de la Constitución Política de los Estados Unidos Mexicanos;
+X.- (DEROGADA, P.O. 6 DE MAYO DE 1994)
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
@@ -1069,7 +1069,7 @@ No se requerirá declaración de procedencia del Congreso del Estado cuando algu
 
 Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados por el Artículo 94, se procederá de acuerdo con lo dispuesto en dicho Precepto.
 
-Las Leyes sobre Responsabilidades Administrativas de los Servidores Públicos, determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las Leyes, consistirán en suspensión, destitución e inhabilitación, así como sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la Fracción III del Artículo 92 pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
+Las Leyes sobre Responsabilidades Administrativas de los Servidores Públicos determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas. Dichas sanciones, además de las que señalen las Leyes, consistirán en suspensión, destitución e inhabilitación, así como sanciones económicas y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la Fracción III del Artículo 92 pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
 El procedimiento de juicio político solo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
 
@@ -1458,3 +1458,13 @@ P.O. 4 DE JUNIO DE 1993.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 6 DE MAYO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+La presente Reforma entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Quedan sin efecto todas las disposiciones que se opongan o contradigan, a lo establecido por el presente Decreto.
