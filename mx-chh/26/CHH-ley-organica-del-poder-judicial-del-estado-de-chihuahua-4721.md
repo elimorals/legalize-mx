@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "1989-05-17"
+last_updated: "1992-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 1992.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -205,9 +205,13 @@ Dentro de igual término deberá hacerse saber a la autoridad que hizo el nombra
 
 Siempre que un nombramiento hecho por una autoridad judicial no sea aprobado por otra que tenga esa facultad, se cubrirá al interesado la retribución que le corresponda por el tiempo que haya prestado sus servicios. Las diligencias que se hubieren realizado por las personas que se encuentren en esta hipótesis, serán válidas, salvo lo que dispongan las leyes de procedimientos judiciales para la nulidad de actuaciones por la omisión de otras formalidades.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 25.
 
-Los funcionarios y empleados judiciales percibirán por sus servicios la remuneración que les asigne el Presupuesto de Egresos del Estado o en su defecto la autoridad que determine la ley.
+Los funcionarios y empleados judiciales percibirán por sus servicios la remuneración que les asigne el Presupuesto de Egresos del Estado o en su defecto, la autoridad que determine la Ley.
+
+Los Magistrados del Supremo Tribunal de Justicia del Estado, al jubilarse o pensionarse, continuarán recibiendo las mismas prestaciones que perciban los Magistrados en activo.
 
 ###### ARTICULO 26.
 
@@ -2050,3 +2054,9 @@ P.O. 17 DE MAYO DE 1989.
 DECRETO No. 668-89-X-P.E.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JULIO DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
