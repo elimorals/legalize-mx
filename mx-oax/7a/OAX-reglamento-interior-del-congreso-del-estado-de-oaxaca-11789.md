@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-de-oaxaca-11789"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-04"
-last_updated: "2002-04-27"
+last_updated: "2004-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -83,7 +83,7 @@ La Legislatura no podrá abrir sus sesiones y ejercer su cometido sin la concurr
 
 ### CAPITULO II. DE LA INSTALACION Y APERTURA DE LA ASAMBLEA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 20 DE MARZO DE 2004)</small>
 
 ###### ARTICULO 7.
 
@@ -1332,3 +1332,7 @@ SEGUNDO.- La Comisión Permanente de Equidad y Género de la LVII Legislatura de
 P.O. 27 DE ABRIL DE 2002.
 
 PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE MARZO DE 2004.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
