@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-relaciones-21799"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-08-10"
-last_updated: "2001-08-10"
+last_updated: "2001-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21799&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-08-08"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE RELACIONES EXTERIORES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE OCTUBRE DE 2001.
 
 Reglamento publicado en el Diario Oficial de la Federación el viernes 10 de agosto de 2001.
 
@@ -71,6 +71,14 @@ SUBSECRETARÍA PARA ÁFRICA, ASIA - PACÍFICO, EUROPA Y NACIONES UNIDAS
 
 SUBSECRETARÍA DE RELACIONES ECONÓMICAS Y COOPERACIÓN INTERNACIONAL
 
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2001)</small>
+
+SUBSECRETARÍA PARA DERECHOS HUMANOS Y DEMOCRACIA
+
+> <small>(ADICIONADA, D.O.F. 11 DE OCTUBRE DE 2001)</small>
+
+SUBSECRETARÍA PARA TEMAS GLOBALES
+
 OFICIALÍA MAYOR
 
 CONSULTORÍA JURÍDICA
@@ -97,7 +105,9 @@ Para América Latina y el Caribe
 
 De Organismos y Mecanismos Regionales Americanos
 
-Para los Temas de la Nueva Agenda Internacional
+> <small>(REFORMADA, D.O.F. 11 DE OCTUBRE DE 2001)</small>
+
+Para los Temas Globales
 
 Del Acervo Histórico Diplomático
 
@@ -745,9 +755,11 @@ VIII. Coordinar, con la Dirección General de Programación, Organización y Pre
 
 IX. Realizar las demás atribuciones que las disposiciones legales confieran a la Secretaría, que sean afines a las señaladas en las fracciones anteriores y que le encomiende el Secretario.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE OCTUBRE DE 2001)</small>
+
 ###### ARTÍCULO 24.
 
-Corresponde a la Dirección General para los Temas de la Nueva Agenda Internacional:
+Corresponde a la Dirección General para los Temas Globales:
 
 I. Promover, propiciar y asegurar la coordinación de las áreas de la Secretaría y de las distintas dependencias y entidades de la Administración Pública Federal, involucradas en la ejecución de las estrategias de política exterior relativas a los temas de la nueva agenda internacional: el medio ambiente y los recursos naturales, la equidad de género, los asuntos indígenas, la protección civil, la cooperación internacional para la prevención del delito, el problema mundial de las drogas, la corrupción, el crimen organizado y la lucha contra el narcotráfico en el ámbito bilateral y multilateral;
 
@@ -1456,3 +1468,11 @@ Cuando la competencia de alguna unidad administrativa establecida con anteriorid
 Los derechos de los trabajadores serán respetados conforme a las disposiciones legales aplicables.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los ocho días del mes de agosto de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Relaciones Exteriores, Jorge Castañeda Gutman.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 11 DE OCTUBRE DE 2001.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
