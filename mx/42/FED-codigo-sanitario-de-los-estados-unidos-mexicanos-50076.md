@@ -4,7 +4,7 @@ identifier: "FED-codigo-sanitario-de-los-estados-unidos-mexicanos-50076"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-31"
-last_updated: "1937-12-31"
+last_updated: "1939-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50076&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-20"
 
 CÓDIGO SANITARIO DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 1937.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE MARZO DE 1939.
 
 Código publicado en la Sección Segunda al Número 53, del Diario Oficial, el viernes 31 de agosto de 1934.
 
@@ -941,7 +941,9 @@ III.- La aplicación de sueros y vacunas;
 
 IV.- La práctica de reacciones de inmunidad;
 
-V.- La desinfección de habitaciones, ropas y toda clase de objetos expuestos a contaminación, a juicio de la autoridad sanitaria;
+> <small>(REFORMADA, D.O. 24 DE MARZO DE 1939)</small>
+
+V.- La desinfección concomitante de ropas, utensilios y demás objetos expuestos a la contaminación, y la desinfestación de habitaciones, ropas y demás objetos, a juicio de las autoridades sanitarias.
 
 VI.- La destrucción de animales vectores;
 
@@ -1001,9 +1003,11 @@ Los laboratorios bacteriológicos quedan sujetos a la vigilancia e inspección d
 
 No podrán abrirse institutos para la propagación de la vacuna o para preservación o curación de la rabia o de otras enfermedades transmisibles por medio de inoculación de virus atenuados, si no se ha obtenido permiso del Departamento de Salubridad Pública, previa comprobación de que se han satisfecho los requisitos que fijen los reglamentos. En todo caso, el instituto deberá ser dirigido por médicos especializados, legalmente titulados y registrados en el Departamento de Salubridad Pública y estará sujeto a la vigilancia de la autoridad sanitaria.
 
+> <small>(REFORMADO, D.O. 24 DE MARZO DE 1939)</small>
+
 ###### ARTICULO 156.
 
-Es obligatoria la desinfección de las habitaciones, muebles, objetos y demás efectos pertenecientes a personas atacadas de alguna enfermedad transmisible o declarada como tal. Los animales que lleven los gérmenes de la enfermedad, serán sacrificados y los objetos, muebles de uso doméstico o habitaciones que por su construcción defectuosa no pueden ser desinfectados, serán destruídos en los términos que establezca el reglamento respectivo.
+Es obligatoria la desinfección concomitante de las ropas, utensilios y demás objetos que hayan estado expuestos a contaminación por personas atacadas de alguna enfermedad transmisible o declarada como tal, así como la desinfestación y el aseo final de habitaciones, ropas, muebles y demás objetos que lo requieran, a juicio de la autoridad sanitaria.
 
 ###### ARTICULO 157.
 
@@ -1101,9 +1105,11 @@ El Consejo podrá derogar las disposiciones a que se refieren los tres artículo
 
 Con las excepciones que determinan los reglamentos, los Oficiales del Registro Civil y los ministros de los cultos existentes en el país, no podrán autorizar la celebración de los matrimonios que pretendan contraerse si los interesados no acreditan, en los términos de los reglamentos respectivos, que no padecen ninguna de las enfermedades en ellos determinadas, así como que se les han hecho las reacciones de laboratorio que fueren necesarias, a juicio del Departamento.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 24 DE MARZO DE 1939)</small>
+
 ###### ARTICULO 176.
 
-A efecto de prevenir el desarrollo de enfermedades transmisibles, los reglamentos determinarán la forma y términos en que, periódicamente deberá hacerse la desinfección o desinsectización:
+A efecto de prevenir la propagación de las enfermedades transmisibles, los reglamentos determinarán la forma y los términos en que periódicamente deberá hacerse la desinfestación y el aseo o la desinfección:
 
 I.- De las casas destinadas a habitación, despachos, consultorios, etc.;
 
@@ -3306,3 +3312,9 @@ Este Decreto entrará en vigor tres días después de su publicación en el Diar
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente.
+
+D.O. 24 DE MARZO DE 1939.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL CÓDIGO SANITARIO DE LOS ESTADOS UNIDOS MEXICANOS”.]
+
+Este decreto entrará en vigor a los tres días de su publicación en el “Diario Oficial” de la Federación.
