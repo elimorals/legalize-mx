@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1982-01-09"
+last_updated: "1982-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE ENERO 1982.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE MARZO DE 1982.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -263,11 +263,11 @@ El Estado asume la representación jurídica del Municipio en todos los asuntos 
 
 ## TITULO TERCERO. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS PUBLICOS DEL ESTADO
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
+(REFORMADO, P.O. 13 DE MARZO DE 1982) (F. DE E., P.O. 25 DE MARZO DE 1982)
 
 ###### Art. 126.
 
-Los Diputados de la Legislatura del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia y los Titulares de las Dependencias del Poder Ejecutivo, son responsables de los delitos del orden común que cometan durante el tiempo de su encargo y de los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones. El Gobernador lo será igualmente pero durante el período de su ejercicio, sólo podrá ser acusado por delitos graves del orden común y por delitos graves contra la Soberanía del Estado.
+Los Diputados de la Legislatura del Estado, los Magistrados del Tribunal Superior de Justicia, los Jueces de Primera Instancia y Municipales y los Titulares de las Dependencias del Poder Ejecutivo, son responsables de los delitos del orden común que cometan durante el tiempo de su encargo y de los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones. El Gobernador lo será igualmente pero durante le período de su ejercicio, solo podrá ser acusado por delitos graves del orden común y por delitos graves contra la Soberanía del Estado.
 
 ###### Art. 127.
 
@@ -1213,7 +1213,7 @@ Para cubrir las faltas absolutas de los Magistrados, los substitutos designados 
 
 #### SECCION PRIMERA. DEL EJERCICIO DEL PODER JUDICIAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 1982)</small>
 
 ###### Artículo 106.
 
@@ -1237,17 +1237,17 @@ Corresponde al Tribunal Pleno:
 
 I.- Iniciar leyes en todo lo relativo a la Administración de Justicia.
 
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 1981)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 1982)</small>
 
-II. Declarar si ha o no lugar a formación de causa a los Secretarios del Tribunal y resolver, sin recurso ulterior, como jurado de sentencia las causas de responsabilidad por delitos oficiales que hayan de formarse contra el Gobernador, Diputados, Magistrados, Jueces de Primera Instancia, Procurador General de Justicia, y los Titulares de las Dependencias del Poder Ejecutivo, previa la correspondiente declaración de la Legislatura.
+II.- Declarar si ha o no lugar a formación de causa a los Secretarios del Tribunal y resolver sin recurso ulterior como jurado de sentencia las causas de responsabilidad por delitos oficiales que hayan de formarse contra el Gobernador, Diputados, Magistrados, Jueces de Primera Instancia y Municipales, Procurador General de Justicia, y los Titulares de las Dependencias del Poder Ejecutivo, previa la correspondiente declaración de la Legislatura.
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 1981)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 1982)</small>
 
-III. Nombrar a los Jueces de Primera Instancia y Menores Municipales y recibir la protesta a que se refiere el Artículo 171 de la presente Constitución;
+III.- Nombrar a los Jueces de Primera Instancia y Municipales y recibir la protesta a que se refiere el Artículo 171 de la presente Constitución.
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 1981)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 1982)</small>
 
-IV.- Decretar los ceses de los Jueces de Primera Instancia y Menores Municipales;
+IV.- Decretar los ceses de los Jueces de Primera Instancia y Municipales.
 
 V.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
 
@@ -1259,9 +1259,9 @@ VI.- Dirimir las competencias de jurisdicción que se susciten ente los Jueces d
 
 VII.- Elaborar el Reglamento Interior del Tribunal.
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 1981)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 1982)</small>
 
-VIII.- Conceder licencias a los Jueces de Primera Instancia y Menores Municipales, con arreglo a la Ley Orgánica respectiva.
+VIII.- Conceder Licencias a los Jueces de Primera Instancia y Municipales con arreglo a la Ley Orgánica respectiva.
 
 IX. Ejercer las demás atribuciones que le señale la ley orgánica respectiva.
 
@@ -1287,57 +1287,57 @@ I. Conocer en segunda Instancia de los negocios y causas que determinen las leye
 
 II. Hacer la revisión de todos los procesos del orden penal que determinen las leyes;
 
-> <small>(REFORMADA, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 1982)</small>
 
-III.- Declarar si ha lugar o no a formación de causas, por delitos o faltas oficiales, en contra de los Presidentes Municipales y Jueces Menores Municipales, suspendiéndolos en el ejercicio de sus funciones, en caso afirmativo, y consignándolos al Juez de Primera Instancia, de su respectivo Distrito.
+III.- Declarar si ha lugar o no a formación de causa por delito o faltas oficiales en contra de los Presidentes Municipales, suspendiéndolos en el ejercicio de sus funciones en caso afirmativo y consignándolos al juez de Primera Instancia de su respectivo Distrito.
 
 IV.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
 
 V. Conocer de los demás asuntos que les confieran las leyes.
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 1975)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 1982)</small>
 
 ###### Art. 111.
 
-Para el mejor despacho de todos aquellos asuntos de la competencia del Tribunal Superior de Justicia, la primera Sala conocerá de los asuntos civiles. La segunda Sala conocerá de los asuntos criminales de la competencia del propio Tribunal Superior.
+Para el mejor despacho de los asuntos de la Competencia del Tribunal Superior de Justicia, la Primera, Segunda y Tercera Salas Civiles conocerán de los asuntos Civiles y Mercantiles la Primera y Segunda Penales de los asuntos de ese ramo de la competencia del propio Tribunal.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 1982)</small>
 
 ###### Art. 112.
 
-Todo negocio judicial, sea criminal o del orden civil, no podrá tener más que dos instancias.
+Todo negocio Judicial sea Penal o del Orden Civil no podrá tener más de dos Instancias.
 
 ###### Art. 113.
 
 (DEROGADO, P.O. 1 DE ENERO DE 1955)
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1981)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 1982)</small>
 
 ###### Art. 114.
 
-Los Magistrados, Jueces de Primera Instancia y Jueces Menores Municipales están impedidos para el ejercicio de la abogacía y no podrán desempeñar cualquier otro cargo, empleo o comisión oficiales, que sean remunerados e incompatibles con su función.
+Los Magistrados, Jueces de Primera Instancia y Jueces Municipales están impedidos para el ejercicio de la abogacía y no podrán desempeñar cualquier otro cargo, empleo y comisión oficiales, que sean remunerados e incompatibles con su función.
 
-#### SECCION TERCERA BIS. DE LOS JUECES MENORES MUNICIPALES
+#### SECCION TERCERA BIS. DE LOS JUECES MUNICIPALES
 
-> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 1981)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 1982)</small>
 
-Art. 118 a).- En cada Municipio, la Administración de Justicia estará a cargo de uno o más funcionarios designados por el Tribunal Superior de Justicia, que se denominarán Jueces Menores Municipales y que durarán en su encargo seis años.
+Art. 118 a).- En cada Municipio, la Administración de Justicia estará a cargo de uno o más Funcionarios designados por el Tribunal Superior de Justicia, que se denominarán Jueces Municipales y que durarán en su encargo dos años.
 
-La Ley orgánica relativa determinará el número de Jueces Menores Municipales que deba haber en cada Municipio.
+La Ley Orgánica relativa determinará el número de Jueces Municipales que deba haber en cada Municipio.
 
-> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 1981)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 1982)</small>
 
-Art. 118 b).- Para ser Juez Menor Municipal, se requiere:
+Art. 118 b).- Para ser Juez Municipal se requiere:
 
-Ser ciudadano Mexicano, mayor de edad, sin antecedentes penales, vecino y residente del Municipio y en ejercicio de sus derechos civiles.
+Ser ciudadano mexicano, mayor de edad, sin antecedentes penales y en ejercicio de sus derechos civiles.
 
-En los casos de Cabeceras Distritales Judiciales o en las poblaciones en que haya más de 300,000 habitantes los Jueces Menores Municipales deberán ser Licenciados en Derecho o Pasantes de Derecho, en la medida que las circunstancias de cada lugar lo permitan.
+En los casos de Cabeceras Distritales Judiciales o en las poblaciones en que haya más de trescientos mil habitantes, los Jueces Municipales deberán ser Licenciados o Pasantes en Derecho, en la medida que las circunstancias de cada lugar lo permitan.
 
-> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 1981)</small>
+Art. 118 c).- (DEROGADO, P.O. 13 DE MARZO DE 1982)
 
-Artículo 118 c).- Los Jueces Menores Municipales se considerarán, independientemente de la competencia que la Ley respectiva les asigne, como auxiliares de los Jueces de Primera Instancia y del Tribunal Superior de Justicia.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 1982)</small>
 
-> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 1981)</small>
-
-Art. 118 d).- Los Jueces Menores Municipales ejercerán sus funciones dentro de los Municipios y Localidades a que pertenezcan respectivamente y con la competencia que les señale la Ley Orgánica del Poder Judicial y demás Leyes aplicables.
+Art. 118 d).- Los Jueces Municipales ejercerán sus funciones dentro de los Municipios a que pertenezcan respectivamente y con la competencia que le señale la Ley Orgánica del Poder Judicial y demás Ordenamientos aplicables.
 
 ###### Art. 115.
 
@@ -1359,7 +1359,7 @@ Los Jueces de Primera Instancia, para los efectos de su nombramiento, deberán r
 
 En cada Distrito Judicial habrá un Juez, o los Jueces necesarios de Primera Instancia, que conocerán de los asuntos civiles y penales que correspondan a la jurisdicción de su Distrito.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 4 DE ABRIL DE 1981)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE MARZO DE 1982)</small>
 
 #### SECCION CUARTA. DEL MINISTERIO PUBLICO
 
@@ -1393,15 +1393,23 @@ Todos los funcionarios del Ministerio Público, constituirán un cuerpo, cuyas r
 
 #### SECCION SEGUNDA. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 1982)</small>
+
+###### Art. 101.
+
+El Tribunal Superior de Justicia se compondrá de dieciseis Magistrados los que serán designados en la forma que previenen los Artículos 70 Fracción XI bis y 89 fracción XXVII de esta Constitución.
+
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
-###### Art. 101
+Los Magistrados del Tribunal Superior de Justicia serán inamovibles transcurridos seis años de ejercicio. Sólo podrán ser privados de sus cargos por la Legislatura del Estado, a petición del Ejecutivo, por faltas u omisiones graves en el desempeño de sus funciones; porque observen mala conducta y estén incapacitados física o mentalmente.
 
-El Tribunal Superior de Justicia se compondrá de seis Magistrados numerarios y dos supernumerarios, que serán designados en la forma que previenen los artículos 70 fracción XI bis y 89 fracción XXVII de esta Constitución, y durarán en su cargo seis años.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+
+La Ley Reglamentaria correlativa determinará las causas de suspensión o cesación de los nombramientos de los Funcionarios Judiciales sujetos a la inamovilidad.
 
 ###### Art. 100.
 
-Se deposita el ejercicio del Poder Judicial del Estado en un Cuerpo Colegiado que se denominará Tribunal Superior de Justicia, en los Jueces de Primera Instancia y los Jueces Menores Municipales.
+Se deposita el ejercicio del Poder Judicial del Estado en un Cuerpo Colegiado que se denominará Tribunal Superior de Justicia, en los Jueces de Primera Instancia y Jueces Municipales.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
@@ -1691,11 +1699,11 @@ Todos los funcionarios y empleados del Estado y de los Municipios al entrar a de
 
 Los cargos de educación primaria son inamovibles, salvo los casos que la respectiva Ley Orgánica determine. El Estado protegerá la educación de los hijos menores de los maestros que hayan servido satisfactoriamente en la enseñanza primaria del mismo.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+(REFORMADO, P.O. 13 DE MARZO DE 1982) (F. DE E., P.O. 25 DE MARZO DE 1982)
 
 ###### Art. 173.
 
-El Gobernador, los Diputados, los Magistrados del Tribunal Superior de Justicia y demás funcionarios y empleados públicos del Estado, así como los miembros de los Ayuntamientos, Jueces Menores Municipales y empleados Municipales recibirán una compensación por sus servicios determinada por la Ley. Esta compensación no es renunciable y la ley que le aumente o disminuya, no podrá tener efecto respecto de los funcionarios de elección popular durante el período en que estos ejerzan su encargo.
+El Gobernador, los Diputados, los Magistrados del Tribunal Superior de Justicia y demás Funcionarios y Empleados del Estado, así como los Miembros de los Ayuntamientos y empleados municipales, recibirán una compensación por sus servicios determinada por la Ley. Esta compensación no es renunciable y la Ley que la aumente o disminuya no podrá tener efecto respecto de los Funcionarios de elección popular durante el período en que éstos ejerzan su encargo.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -2506,3 +2514,17 @@ G.G. 9 DE ENERO DE 1982.
 ###### ARTICULO UNICO.
 
 Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+G.G. 13 DE MARZO DE 1982.
+
+###### ARTICULO PRIMERO.
+
+EL presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo del Estado, deberá en su oportunidad, expedir nombramiento de Magistrado faltante para integrar debidamente el Tribunal Superior de Justicia del Estado, y someter dicho nombramiento a la aprobación de la Legislatura.
+
+###### ARTICULO TERCERO.
+
+La Sala de nueva creación del Tribunal Superior de Justicia del Estado, empezará a funcionar cuando lo determine el Pleno del propio Tribunal.
