@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1938-07-10"
+last_updated: "1941-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1938.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 1941.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -377,7 +377,21 @@ XXVII. Mandar formar causa a los mismos funcionarios y empleados, cuando a su ju
 
 XXVIII. Enajenar, traspasar, hipotecar, gravar y ejercer cualquier otro acto de riguroso dominio sobre los bienes muebles e inmuebles pertenecientes al Estado, previa autorización del Congreso en cada caso especial, ateniéndose a las condiciones que el mismo Congreso determine, al que deberá dar cuenta en todo caso del uso que hiciere de la autorización.
 
-XXIX. Las demás que le concedan esta Constitución y las leyes locales.
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 1941)</small>
+
+XXIX. Nombrar a los Jueces del Tribunal de Menores en los términos que disponga la Ley relativa.
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 1941)</small>
+
+XXX. Representar al Estado, por sí o por apoderado especial cuando el Congreso lo faculte al efecto.
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 1941)</small>
+
+XXXI. Dar y pedir informes al Congreso sobre cualesquiera de los Ramos de la Administración; y al Tribunal, sobre el de Justicia.
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 1941)</small>
+
+XXXII. Las demás que le concedan esta Constitución y las Leyes Locales.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1932)</small>
 
@@ -555,11 +569,11 @@ Los Presidentes Municipales tomarán particular empeño en que en sus respectiva
 
 Del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 1941)</small>
 
 ###### Art. 35.
 
-La Legislatura local se compondrá del número de diputados propietarios que, como mínimo y atenta la población del Estado, señale la Constitución General de la República, designados por distritos electorales cada dos años, en la forma que determine la Ley. Por cada diputado propietario se elegirá un suplente.
+La Legislatura local se compondrá del número de Diputados propietarios que, como mínimo y atenta la población del Estado, señale la Constitución General de la República, designados por Distritos Electorales cada tres años, en la forma que determine la Ley. Por cada Diputado propietario se elegirá un suplente.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
 
@@ -715,7 +729,9 @@ XXIV. Conceder al Ejecutivo facultades extraordinarias en determinados ramos, po
 
 XXV. Crear nuevos Municipios y suprimir algunos de los existentes, mediante el voto de las dos terceras partes de la totalidad de los Diputados.
 
-XXVI. Organizar la enseñanza que imparten el Gobierno del Estado y los Municipios, uniformando debidamente la primaria y velando porque en la impartida por las escuelas particulares, no se violen las Leyes en lo relativo a laicismo, ni se comprometa la salud de los educandos.
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 1941)</small>
+
+XXVI. Organizar la enseñanza que impartan el Gobierno del Estado y los Municipios, uniformando debidamente la primaria y velando porque en la impartida por las escuelas particulares, no se violen las Leyes relativas, ni se comprometa la salud de los educandos.
 
 XXVII. Formar su reglamento interior, así como el de Contaduría Mayor de Hacienda, y modificarlos cuando lo crea conveniente.
 
@@ -727,9 +743,17 @@ XXX. Interpretar las Leyes y Decretos del Estado cuando la necesidad lo exija.
 
 XXXI. Reformar, de acuerdo con esta Constitución y con la Federal, las Leyes secundarias del Estado, haciendo consecutivamente su codificación.
 
-XXXII. Autorizar al Ejecutivo para que enajene, traspase, hipoteque, grave o ejerza cualquier otro acto de riguroso dominio sobre los muebles o inmuebles pertenecientes al Estado, fijando, en cada caso especial, las condiciones a que deba sujetarse, o dejándolas a juicio del mismo Ejecutivo, quien, en todo caso, dará cuenta a la Legislatura del uso que hiciere de la autorización, y
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 1941)</small>
 
-XXXIII. Las demás facultades que de un modo especial, se indiquen en cualquiera de los capítulos de esta Constitución.
+XXXII. Reclamar ante la Suprema Corte de Justicia de la Nación, cuando alguna ley o acto del Gobierno general constituya un ataque a la soberanía, independencia o libertad del Estado o a la Constitución Federal, por el que resulte afectado el mismo.
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 1941)</small>
+
+XXXIII. Facultar al Ejecutivo con las limitaciones que crean necesarias para que, por sí o por apoderado especial, represente al Estado en los casos que corresponda.
+
+XXXIV. Autorizar al Ejecutivo para que enajene, traspase, hipoteque, grave o ejerza cualquier acto de riguroso dominio sobre los muebles o inmuebles pertenecientes al Estado, fijando, en cada caso especial, las condiciones a que deba sujetarse o dejándolas a juicio del mismo Ejecutivo, quien, en todo caso, dará cuenta a la Legislatura del uso que hiciere de la autorización; y
+
+XXXV. Las demás facultades que de un modo especial se indiquen en cualquiera de los artículos de esta Constitución.
 
 #### SECCION CUARTA.
 
@@ -765,25 +789,29 @@ Las iniciativas o proyectos de ley que fueren desechados por la Legislatura, no 
 
 De la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1933)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 1941)</small>
 
 ###### Art. 53.
 
 Son facultades y obligaciones de la Diputación Permanente:
 
-I. Acordar por sí sola, cuando el caso lo exija, o a iniciativa del Ejecutivo, la convocatoria de la Legislatura a sesiones extraordinarias.
+I. Acordar por sí sola, cuando lo disponga esta Constitución, cuando el caso lo exija, o a iniciativa del Ejecutivo, la convocatoria de la Legislatura a sesiones extraordinarias.
 
-II. Recibir los expedientes relativos a las elecciones de Gobernador y de Diputados Locales, reservando los primeros a la Legislatura y los segundos al C. Presidente de la Junta Preparatoria del nuevo Congreso para que se hagan los cómputos y declaraciones respectivas.
+II. Recibir los expedientes relativos a las elecciones de Gobernador y Diputados Locales, turnando los primeros a la Legislatura, debiendo convocarla al efecto; y los segundos a la Junta Preparatoria del nuevo Congreso, para que se hagan los cómputos y declaraciones respectivas.
 
-III. Nombrar, con calidad de interinos, los empleados de la Secretaría de la Cámara y de la oficina de Glosa.
+III. Instalar y presidir la primera Junta Preparatoria del nuevo Congreso.
 
-IV. Admitir las renuncias de los funcionarios y empleados nombrados conforme a sus facultades por la Legislatura o por la misma Diputación Permanente.
+IV. Nombrar con calidad de interinos a los empleados de la Secretaría de la Cámara y de la Oficina de Glosa.
 
-V. Expeditar los trabajos pendientes al tiempo del receso y ejecutar, en los nuevos, lo que fuere indispensable, dando cuenta a la Legislatura con unos y con otros.
+V. Admitir las renuncias de los funcionarios y empleados nombrados conforme a sus facultades, por la Legislatura o por la misma Diputación Permanente.
 
-VI. Conceder licencia, con goce de sueldo o sin él, al Gobernador del Estado, a los Diputados, a los Magistrados y a los empleados dependientes de la Legislatura, y
+VI. Expeditar los trabajos pendientes al tiempo del receso, y ejecutar, en los nuevos, lo que fuere indispensable, dando cuenta a la Legislatura con unos y con otros.
 
-VII. Nombrar Gobernador provisional, en los casos de las fracciones VII y XI del artículo 48 de esta Constitución, cuando el Secretario General esté comprendido en alguna de las prohibiciones que señala el artículo 60 de la misma.
+VII. Conceder licencia, con goce de sueldo o sin él, al Gobernador del Estado, a los Diputados, a los Magistrados y a los empleados dependientes de la Legislatura.
+
+VIII. Nombrar Gobernador Provisional, en los casos de las fracciones VII y XI del Artículo 48 de esta Constitución, cuando el Secretario General esté comprendido en alguna de las prohibiciones que señala el Artículo 60 de la misma; y
+
+IX. Resolver las renuncias y nombrar en caso de falta absoluta de los propietarios, a los Magistrados del Supremo Tribunal de Justicia, con carácter de Interinos mientras se reúne el Congreso y proceder conforme a sus facultades.
 
 #### SECCION PRIMERA.
 
@@ -1122,3 +1150,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 10 DE JULIO DE 1938.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+
+P.O. 30 DE MARZO DE 1941.
+
+Artículo Segundo: Este Decreto se publicará por bando solemne en todo el Estado.
