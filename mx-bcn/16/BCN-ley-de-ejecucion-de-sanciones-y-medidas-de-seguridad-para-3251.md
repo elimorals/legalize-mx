@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ejecucion-de-sanciones-y-medidas-de-seguridad-para-3251"
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-04"
-last_updated: "1998-11-06"
+last_updated: "2001-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3251&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EJECUCION DE SANCIONES Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 2001.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 4 de agosto de 1995.
 
@@ -41,11 +41,11 @@ LEY DE EJECUCION DE SANCIONES Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE BAJA CALI
 
 ### CAPITULO UNICO. DE LA NATURALEZA Y OBJETO DE LA LEY
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 1.
 
-Las disposiciones de esta Ley son de observancia general en el Estado de Baja California y su aplicación corresponde al Poder Ejecutivo, a través de la Secretaría Jurídica y Prevención Social, salvo las facultades de los órganos jurisdiccionales en materia de ejecución penal. Las autoridades y los cuerpos de seguridad pública del Estado, están obligados a prestar el auxilio y apoyo necesario para el cumplimiento de sus normas.
+Las disposiciones de esta Ley son de observancia general en el Estado de Baja California y su aplicación corresponde al Poder Ejecutivo, a través de la Secretaría de Seguridad Pública, salvo las facultades de los órganos jurisdiccionales en materia de ejecución penal. Las autoridades y los cuerpos de seguridad pública del Estado, están obligados a prestar el auxilio y apoyo necesario para el cumplimiento de sus normas.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
@@ -61,19 +61,19 @@ El Ejecutivo del Estado podrá celebrar con la Federación, el Distrito Federal 
 
 ### CAPITULO I. DE LA DIRECCION DE PREVENCION Y READAPTACION SOCIAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 4.
 
-Corresponde a la Secretaría Jurídica y Prevención Social, a través de la Dirección de Prevención y Readaptación Social, la ejecución de las penas y medidas de seguridad impuestas por la autoridad judicial o el Consejo de Menores, con las excepciones previstas en las Leyes, así como el control de todos los centros de custodia preventiva, reclusión penitenciaria e internamiento para inimputables que existan en el Estado, sin perjuicio de las funciones que establezcan los convenios de coordinación que se celebren con el Gobierno Federal y otras entidades de la República.
+Corresponde a la Secretaría de Seguridad Pública, a través de la Subsecretaría del Sistema Estatal Penitenciario, la ejecución de las penas y medidas de seguridad impuestas por la autoridad judicial o el Consejo de Menores, con las excepciones previstas en las Leyes, así como el control de todos los centros de custodia preventiva, reclusión penitenciaria e internamiento para inimputables que existan en el Estado, sin perjuicio de las funciones que establezcan los convenios de coordinación que se celebren con el Gobierno Federal y otras entidades de la República.
 
 Los arrestos administrativos o por medidas de apremio dictadas por la autoridad judicial, deberán de cumplirse ante la autoridad municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 5.
 
-Para los efectos de esta Ley se entenderá por Dirección Estatal a la Dirección de Prevención y Readaptación Social, la que tendrá las siguientes atribuciones:
+Para los efectos de esta Ley, se entenderá por Subsecretaría, a la Subsecretaría del Sistema Estatal Penitenciario, la que tendrá las siguientes atribuciones:
 
 I.- Crear, organizar, dirigir y administrar los centros de custodia y de readaptación social en el Estado.
 
@@ -111,19 +111,21 @@ XIV.- Ejecutar las demás penas y medidas de seguridad, o las funciones que esta
 
 ### CAPITULO II. DEL PERSONAL ENCARGADO DE LA READAPTACION SOCIAL
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 6.
 
-La Dirección Estatal estará a cargo de un funcionario designado por el Gobernador del Estado y tendrá el personal técnico y administrativo necesario.
+La Subsecretaría, estará a cargo de un funcionario designado por el Gobernador del Estado y tendrá el personal técnico y administrativo necesario.
 
 ###### ARTICULO 7.
 
 Los establecimientos estarán a cargo de un director, un subdirector, el personal técnico, administrativo y de vigilancia necesario, debiendo existir en cada centro un Consejo Técnico Interdisciplinario.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 8.
 
-Cada Director tendrá a su cargo el gobierno, vigilancia y administración del establecimiento que le haya sido asignado, cuidará la aplicación del reglamento interior y adoptará todas la medidas necesarias para el cumplimiento de esta Ley. Será nombrado y removido libremente por la Secretaría Jurídica y Prevención Social.
+Cada Director tendrá a su cargo el gobierno, vigilancia y administración del establecimiento que le haya sido asignado, cuidará la aplicación del reglamento interior y adoptará todas las medidas necesarias para el cumplimiento de esta Ley. Será nombrado y removido libremente por la Secretaría de Seguridad Pública.
 
 > <small>(REFORMADO PARRAFO PRIMERO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
@@ -133,9 +135,11 @@ Los Directores de establecimientos de readaptación social deberán ser profesio
 
 El personal directivo deberá dedicarse exclusivamente a su función oficial, la que es incompatible con el desempeño de la abogacía u otra clase de actividades y no está sujeta a un horario fijo. Podrá desempeñar, sin embargo, funciones docentes.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 10.
 
-El personal penitenciario de todos los niveles, deberá ser seleccionado escrupulosamente, para garantizar el éxito del sistema. La Dirección Estatal establecerá los requisitos para su designación.
+El personal penitenciario de todos los niveles, deberá ser seleccionado escrupulosamente, para garantizar el éxito del sistema. La Subsecretaría, establecerá los requisitos para su designación.
 
 ###### ARTICULO 11.
 
@@ -153,11 +157,11 @@ Los restantes miembros del personal masculino, sólo tendrán acceso a los estab
 
 El personal encargado de la readaptación social, estará formado preferentemente por sociólogos, psicólogos, psiquiatras, trabajadores sociales, profesores, médicos e instructores técnicos.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 14.
 
-En cada establecimiento de readaptación social existirá un Consejo Técnico Interdisciplinario, que será presidido por el Director del establecimiento o por el funcionario que lo substituya en sus faltas. Se integrará con los miembros de superior jerarquía del personal directivo, administrativo, técnico y de custodia; pero nunca podrán faltar el psicólogo y el profesor; en ausencia de estos, la Dirección Estatal hará su designación de entre quienes ejerzan dichas profesiones en la localidad.
+En cada establecimiento de readaptación social existirá un Consejo Técnico Interdisciplinario, que será presidido por el Director del establecimiento o por el funcionario que lo sustituya en sus faltas. Se integrará con los miembros de superior jerarquía del personal directivo, administrativo, técnico y de custodia; pero nunca podrán faltar el psicólogo y el profesor; en ausencia de estos, la Subsecretaría, hará su designación de entre quienes ejerzan dichas profesiones en la localidad.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
@@ -187,9 +191,11 @@ VI.- Formación de grupos de debates entre funcionarios directivos, administrati
 
 VII.- Organización de reuniones consultivas, que permitan al personal de todas las categorías, la oportunidad de expresar libremente sus opiniones sobre los métodos aplicables en el tratamiento, intercambiar información discutir problemas y proponer soluciones.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 18.
 
-Los acuerdos, disposiciones y medidas tomadas por el Director de los Centros, podrán ser impugnados por la parte afectada ante el Director Estatal, dentro de los tres días siguientes a su notificación personal, debiendo ser resuelto dentro de los diez días siguientes.
+Los acuerdos, disposiciones y medidas tomadas por el Director de los Centros, podrán ser impugnados por la parte afectada ante la Subsecretaría, dentro de los tres días siguientes a su notificación personal, debiendo ser resuelto dentro de los diez días siguientes.
 
 ### CAPITULO III. DE LOS ESTABLECIMIENTOS DE READAPTACION SOCIAL
 
@@ -197,9 +203,11 @@ Los acuerdos, disposiciones y medidas tomadas por el Director de los Centros, po
 
 Los establecimientos de internación para imputables e inimputables, se denominarán centros de readaptación social y, para los efectos de estas (sic) Ley, se identificarán como centros.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 20.
 
-Los centros dependerán de la Dirección Estatal y se clasifican en:
+Los centros dependerán de la Subsecretaría y se clasifican de la siguiente manera:
 
 I.- Centros de varones con secciones de indiciados, procesados y reos.
 
@@ -273,13 +281,17 @@ En el caso de los farmacodependientes, su reclusión no podrá exceder del térm
 
 Los internos sordomudos, ciegos, paralíticos o drogadictos que requieran de tratamiento, serán recluidos en secciones especiales del centro respectivo, para su educación o terapia.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 28.
 
-Los menores infractores estarán a cargo de la Dirección Estatal, a través del Consejo de Menores, en los centros correspondientes.
+Los menores infractores estarán a cargo de la Subsecretaría, a través del Consejo de Menores, en los centros correspondientes.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 29.
 
-Además de los establecimientos de reclusión, la Dirección Estatal organizará centros de tratamiento abierto, en el que los internos se ocuparán de labores agrícolas, ganaderas y artesanales, entre otras, o se organizarán para desempeñar trabajos en construcciones o industrias ubicadas fuera de los centros penitenciarios, sean de carácter público o privado.
+Además de los establecimientos de reclusión, la Subsecretaría, organizará centros de tratamiento abierto, en el que los internos se ocuparán de labores agrícolas, ganaderas y artesanales, entre otras, o se organizarán para desempeñar trabajos en construcciones o industrias ubicadas fuera de los centros penitenciarios, sean de carácter público o privado.
 
 ### CAPITULO I. DE LA CLASIFICACION JURIDICA
 
@@ -295,7 +307,9 @@ I.- Indiciados, cuando estén a disposición del Ministerio Público o de la aut
 
 II.- Procesados, cuando se encuentren sometidos a la autoridad judicial, desde el momento en que se comunica oficialmente a la Dirección del centro respectivo, el auto de formal prisión.
 
-III.- Condenados o reos, desde que se comunique oficialmente a la Dirección del Centro, que la sentencia dictada en contra del interno ha causado ejecutoria y que ha quedado a disposición de la Dirección Estatal, para que ejecute las sanciones que se le hayan impuesto.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2001)</small>
+
+III.- Condenados o reos, desde que se comunique oficialmente a la Dirección del Centro, que la sentencia dictada en contra del interno ha causado ejecutoria y que ha quedado a disposición de la Subsecretaría, para que ejecute las sanciones que se le hayan impuesto.
 
 IV.- Exhortados, cuando se encuentren a disposición de una autoridad extranjera o de otro lugar de la República, mientras se realiza su traslado, conforme al exhorto cumplimentado y los convenios y tratados respectivos.
 
@@ -489,11 +503,11 @@ XII.- Aislamiento en celda propia o en celda distinta, por un término no mayor 
 
 Las sanciones que se impongan a cada interno se anotarán en su expediente personal, pero en caso de que la falta cometida constituyere delito, se hará la denuncia respectiva ante el Ministerio Público.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 57.
 
-Sólo el Director o el subdirector, en ausencia de aquel, podrán imponer las medidas disciplinarias previstas en esta ley y su reglamento, agotando un proceso sumario en el que se pruebe la falta y responsabilidad del interno, el cual contará siempre con la garantía de audiencia. En caso de inconformidad con la resolución administrativa o por considerar excesiva la medida, podrá recurrir ante el Director Estatal en un término de veinticuatro horas, quedando en suspenso la aplicación de la medida en tanto se resuelve la que deberá fallarse en un plazo de cinco días hábiles.
+Sólo el Director o la persona que designe en su ausencia, podrán imponer las medidas disciplinarias previstas en esta ley y su reglamento, agotando un proceso sumario en el que se pruebe la falta y responsabilidad del interno, el cual contará siempre con la garantía de audiencia. En caso de inconformidad con la resolución administrativa o por considerar excesiva la medida, podrá recurrir ante la Subsecretaría, en un término de veinticuatro horas, quedando en suspenso la aplicación de la medida en tanto se resuelve la que deberá fallarse en un plazo de cinco días hábiles.
 
 ###### ARTICULO 58.
 
@@ -507,11 +521,15 @@ Para los efectos de esta Ley, se entiende por buena conducta del interno, ademá
 
 ### CAPITULO XIII. DEL TRASLADO DE INTERNOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 60.
 
 A todo interno se le formará expediente que incluirá los estudios practicados y, en su oportunidad, una copia de la sentencia dictada por los Tribunales que hayan conocido de su caso. El expedientes se dividirá en las siguientes secciones:
 
-I.- Sección jurídica, en donde se incluirán todos los datos relacionados con la situación legal del interno, desde las copias del escrito de consignación y del auto de formal prisión, de la sentencia ejecutoriada y de la resolución de amparo, en su caso, hasta los antecedentes penales y las resoluciones que se dicten por la Dirección Estatal en los términos de esta Ley.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2001)</small>
+
+I.- Sección Jurídica, en donde incluirán todos los datos relacionados con la situación legal del interno, desde las copias del escrito de consignación y de auto de formal prisión, de la sentencia ejecutoriada y de la resolución de amparo, en su caso, hasta los antecedentes penales y las resoluciones que se dicten por la Subsecretaría, en los términos de Ley.
 
 II.- Sección socio-económica, que comprenderá los datos generales del interno y sus antecedentes familiares y del estado civil; instrucción escolar, actividades deportivas, situación económica y condiciones habitacionales, ajuste o desajuste familiar, número de hijos y dependientes económicos, problemas de adaptación al medio familiar o social y cualquier otro que se juzgue necesario.
 
@@ -543,7 +561,7 @@ VI.- Los informes sobre su comportamiento, en el caso de haber gozado de benefic
 
 ###### ARTICULO 62.
 
-El traslado de un interno a otro centro, sólo puede ser dispuesto por el Director Estatal, por graves y comprobados motivos de seguridad, por exigencias procesales, de salud, o de integración familiar del interno.
+El traslado de un interno a otro centro, sólo puede ser dispuesto por la Subsecretaría, por graves y comprobados motivos de seguridad, por exigencias procesales, de salud, o de integración familiar del interno.
 
 Cuando se trate de procesados, se recabará previamente la autorización del Juez o Tribunal que conozca del caso, y sólo podrán ser trasladados a centros penitenciarios dentro del Estado.
 
@@ -725,6 +743,8 @@ V.- Dará asesoría psicológica a los cónyuges o concubinos para solucionar lo
 
 ### CAPITULO I. DE LA MODIFICACION DE LAS CONDICIONES DE APLICACION
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 85.
 
 El tratamiento psicológico, se fundará en los resultados de los estudios de personalidad que se practiquen al interno, los que deberán ser actualizados periódicamente. Se procurará iniciar este estudio desde que el interno quede formalmente preso, en cuyo caso se deberá turnar copia de dicho estudio a la autoridad judicial correspondiente.
@@ -753,19 +773,25 @@ Al cumplir el interno las condiciones para ingresar al régimen de preliberació
 
 ### CAPITULO II. DE LA CONMUTACION ADMINISTRATIVA
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 89.
 
-Cuando el interno acredite plenamente que no puede cumplir alguna de las modalidades de la sanción o medida de seguridad impuestas, por ser incompatible con su edad, sexo, estado de salud u otras circunstancias análogas, la Dirección Estatal podrá modificarla.
+Cuando el interno acredite plenamente que no puede cumplir alguna de las modalidades de la sanción o medida de seguridad impuestas, por ser incompatible con su edad, sexo, estado de salud u otras circunstancias análogas, la Subsecretaría, podrá modificarla.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 90.
 
-En el caso de internos condenados por delitos culposos, la Dirección Estatal, previo acuerdo del Consejo Técnico Interdisciplinario, podrá alojarles en instituciones abiertas.
+En el caso de internos condenados por delitos culposos, la Subsecretaría, previo acuerdo con el Consejo Técnico Interdisciplinario, podrá alojarles en instituciones abiertas.
 
 ### CAPITULO III. DE LA LIBERTAD PREPARATORIA
 
 ###### ARTICULO 91.
 
-Tratándose de ancianos mayores de sesenta y cinco años, enfermos, transtornados o retardados mentales, o de mujeres con hijos menores que hayan cumplido al menos la mitad de la pena, el Gobernador del Estado, a solicitud de la Dirección Estatal, podrá conmutar la pena o medida privativa de la libertad de custodia familiar, trabajo en comunidad o reclusión domiciliaria, siempre que el Consejo Técnico Interdisciplinario certifique la ausencia de peligrosidad social del interno, y no se trate de los delitos de homicidio intencional, secuestro o violación.
+Tratándose de ancianos mayores de sesenta y cinco años, enfermos, o de mujeres con hijos menores que hayan cumplido al menos la mitad de la pena, el Gobernador del Estado, a solicitud de la Subsecretaría, podrá conmutar la pena o medida privativa de la libertad de custodia familiar, trabajo en comunidad o reclusión domiciliaria, siempre que el Consejo Técnico Interdisciplinario certifique la ausencia de peligrosidad social del interno, y no se trate de los delitos de homicidio intencional, secuestro o violación.
+
+En cualquier caso, en tratándose de trastornados o retardados mentales, se remitirán previa certificación del consejo técnico interdisciplinario a una institución de salud mental y en ningún caso serán recluídos en centro penitenciario alguno.
 
 ### CAPITULO IV. DE LA REMISION PARCIAL DE LA PENA
 
@@ -785,13 +811,17 @@ VI.- Que no haya cometido secuestro, violación u homicidio intencional.
 
 V.- Que haya pagado o garantizado la reparación del daño causado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 93.
 
-Llenados los anteriores requisitos, la Dirección Estatal podrá conceder la libertad preparatoria, notificando personalmente al interno que el mantenimiento del beneficio está sujeto a las siguientes condiciones:
+Llenados los anteriores requisitos, la Subsecretaría, podrá conceder la libertad preparatoria, notificando personalmente al interno que el mantenimiento del beneficio está sujeto a las siguientes condiciones:
 
 I.- Residir, o en su caso, no residir en el lugar determinado e informar a la autoridad de los cambios de domicilio. La designación del lugar de residencia se hará conciliando las circunstancias familiares y laborales del interno, con el hecho de que su permanencia en él no sea un obstáculo para su enmienda.
 
-II.- Desempeñar en el plazo de sesenta días, contados a partir de su liberación, oficio, arte, industria o profesión lícitos, si no tuviere medios propios de subsistencia, y prestar servicios a la comunidad por el número de horas que la Dirección Estatal determine.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2001)</small>
+
+II.- Desempeñar en el plazo de sesenta días, contados a partir de su liberación, oficio, arte, industria o profesión ilícitos, si no tuviera medios propios de subsistencia, y prestar servicios a la comunidad por el número de horas que la Subsecretaría determine.
 
 III.- Abstenerse del uso de bebidas embriagantes y del empleo de estupefacientes, psicotrópicos o substancias que produzcan efectos similares, salvo prescripción médica debidamente comprobada.
 
@@ -809,23 +839,29 @@ IV.- Sujetarse a las medidas de orientación supervisión que se le fijen y a la
 
 (DEROGADO, P.O. 6 DE NOVIEMBRE DE 1998)
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 97.
 
-La libertad preparatoria de quienes reúnan los requisitos del Artículo 92 se tramitará de oficio; para ello la Dirección Estatal y los directores de centros revisarán periódicamente los expedientes y solicitarán al Consejo Técnico Interdisciplinario emita el dictamen correspondiente de quienes hayan cumplido, o estén próximos a cumplir, las tres quintas partes de su condena. Recabado éste, la Dirección Estatal emitirá en un plazo de 15 días resolución inimpugnable que, de ser favorable, incluirá las observaciones y antecedentes del dictamen, así como, datos que demuestren que el interno está en condiciones de reintegrarse a la vida social, y será comunicada al Director del Centro, a la Procuraduría General de Justicia del Estado, al Tribunal Superior de Justicia y a la autoridad municipal respectiva, para que esta última informe a la autoridad penitenciaria cualquier violación de las condiciones impuestas para gozar del beneficio independientemente de la intervención del órgano de vigilancia institucional.
+La libertad preparatoria de quienes reúnan los requisitos de (sic) Artículo 92 se tramitará de oficio; para ello la Subsecretaría, y los directores de centros revisarán periódicamente los expedientes y solicitarán al Consejo Técnico Interdisciplinario emita el dictamen correspondiente de quienes hayan cumplido, o estén próximos a cumplir, las tres quintas partes de su condena. Recabado éste, la Subsecretaría, emitirá en un plazo de 15 días resolución inimpugnable que, de ser favorable, incluirá las observaciones y antecedentes del dictamen, así como, datos que demuestren que el interno está en condiciones de reintegrarse a la vida social, y será comunicada al Director del Centro, a la Procuraduría General de Justicia del Estado, al Tribunal Superior de Justicia y a la autoridad municipal respectiva, para que ésta última informe a la autoridad penitenciaria cualquier violación de las condiciones impuestas para gozar del beneficio, independientemente de la intervención del órgano de vigilancia institucional.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 98.
 
-Cuando el Consejo Técnico Interdisciplinario no avale la concesión del beneficio, de ninguna manera la Dirección Estatal podrá otorgarlo, pero podrá solicitarse nuevamente pasados seis meses de la negativa.
+Cuando el Consejo Técnico Interdisciplinario no avale la concesión del beneficio, de ninguna manera la Subsecretaría, podrá otorgarlo, pero podrá solicitarse nuevamente pasados seis meses de la negativa.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 99.
 
-La libertad preparatoria será revocada por el Director Estatal después de oír al interesado, en los siguientes casos:
+La libertad preparatoria será revocada por la Subsecretaría, después de oír al interesado, en los siguientes casos:
 
 I.- Cuando el liberado viole las condiciones establecidas en el Artículo 93 de esta Ley.
 
-II.- Cuando cometa un nuevo delito intencional, en cuyo caso la revocación se hará de oficio, una vez que se dicte el auto de formal prisión o sujeción a proceso contra el liberado. Si el nuevo delito es culposo, la Dirección Estatal podrá revocar la libertad preparatoria, de acuerdo a la peligrosidad del sujeto y la gravedad del daño causado, o apercibir al liberado que si vuelve a realizar un nuevo ilícito imprudencial le será revocado el beneficio.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2001)</small>
+
+II.- Cuando cometa un nuevo delito intencional, en cuyo caso la revocación se hará de oficio, una vez que se dicte el auto de formal prisión o sujeción a proceso contra el liberado. Si el nuevo delito es culposo, la Subsecretaría, podrá revocar la libertad preparatoria, de acuerdo a la peligrosidad del sujeto y la gravedad del daño causado, o apercibir al liberado que si vuelve a realizar un nuevo ilícito imprudencial le será revocado el beneficio.
 
 ### CAPITULO V. DE LA PRELIBERACION
 
@@ -845,6 +881,8 @@ La remisión de la pena se otorgará, sin perjuicio de cualquier otro beneficio 
 
 ### CAPITULO VI. DE LA VIGILANCIA Y REVOCACION DE LOS BENEFICIOS PENITENCIARIOS
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 103.
 
 El beneficio de la preliberación consistirá en el traslado a instituciones de régimen abierto o en la autorización para salir a trabajar, estudiar o convivir con la familia, todos los días con internamiento los fines de semana o durante la noche; salida los fines de semana o cualquier otra fórmula compatible con la actividad a desarrollar en el exterior.
@@ -857,9 +895,11 @@ Este beneficio sólo se concederá a los internos que estén próximos a su libe
 
 Al ser concedida la preliberación, el Director del Centro correspondiente deberá advertir al preliberado el tipo y condiciones del beneficio, que deberá observar buen comportamiento y abstenerse de usar drogas y otras sustancias que alteren la conducta, y no ausentarse de la ciudad o del área de trabajo, mientras dure el régimen de preliberación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 106.
 
-La preliberación, será revocada por la Dirección Estatal en los siguientes casos:
+La preliberación, será revocada por la Subsecretaría, en los siguientes casos:
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1998)</small>
 
@@ -883,25 +923,29 @@ Los internos que consideren tener derecho a cualquiera de los beneficios estable
 
 ###### ARTICULO 107.
 
-La Dirección Estatal vigilará directamente el cumplimiento de las obligaciones impuestas al otorgar alguno de los beneficios penitenciarios o la suspensión condicional de la pena, a través de un cuerpo especial de control o mediante el apoyo de las autoridades locales.
+La Subsecretaría, vigilará directamente el cumplimiento de las obligaciones impuestas al otorgar alguno de los beneficios penitenciarios o la suspensión condicional de la pena, a través de un cuerpo especial de control o mediante el apoyo de las autoridades locales.
 
-Este cuerpo de vigilancia dependerá directamente de la Dirección Estatal, y sus agentes tendrán facultad para visitar al liberado en su domicilio o trabajo, a fin de constatar el cumplimiento de las obligaciones derivadas del beneficio y a investigar su comportamiento para ese mismo fin, informando a la Dirección de cualquier violación o irregularidad para que tome las medidas pertinentes o decrete la revocación del beneficio, cuando proceda.
+Este cuerpo de vigilancia dependerá directamente de la Subsecretaría, y sus agentes tendrán facultad para visitar al liberado en su domicilio o trabajo, a fin de constatar el cumplimiento de las obligaciones derivadas del beneficio y a investigar su comportamiento para ese mismo fin, informando a la Dirección de cualquier violación o irregularidad para que tome las medidas pertinentes o decrete la revocación del beneficio, cuando proceda
 
-El Poder Judicial deberá informar a la Dirección Estatal, los autos de formal prisión o de sujeción a proceso que se dicten contra personas que gocen de libertad preparatoria o preliberación, y ésta a la autoridad judicial que corresponda cuando el beneficiario de la suspensión condicional de la pena incumpla las obligaciones impuestas.
+El Poder Judicial deberá informar a la Subsecretaría, los autos de formal prisión o de sujeción a proceso que se dicten contra personas que gocen de libertad preparatoria o preliberación, y ésta a la autoridad judicial que corresponda cuando el beneficiario de la suspensión condicional de la pena incumpla las obligaciones impuestas.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 108.
 
-Quienes gocen de libertad preparatoria o de la suspensión condicional de la pena, deberán presentarse a firmar los libros de control, puestos a su disposición por la Dirección Estatal en el Instituto Penitenciario del lugar donde residan o en la jefatura de policía judicial o municipal, donde no exista Centro de Readaptación. No podrán cambiar de domicilio sin avisar a la Dirección Estatal, ni salir del Estado sin su autorización, bajo apercibimiento de revocación del beneficio.
+Quienes gocen de libertad preparatoria o de la suspensión condicional de la pena, deberán presentarse a firmar los libros de control, puesto a su disposición por la Subsecretaría, en el Instituto Penitenciario del lugar donde residan o en la Unidad de policía ministerial o municipal, donde no exista Centro de Readaptación. No podrán cambiar de domicilio sin avisar a la Subsecretaría, ni salir del Estado sin su autorización, bajo apercibimiento de revocación del beneficio.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 109.
 
-Quienes gocen de libertad preparatoria o suspensión condicional de la pena, pueden solicitar permiso para trasladar su domicilio a otro Estado o al Distrito Federal y la Dirección Estatal autorizará discrecionalmente el traslado, siempre y cuando el órgano encargado de la ejecución de sanciones del domicilio propuesto, acepte vigilar la conducta del liberado e informar cada tres meses a la Dirección Estatal, hasta que concluya el período de prueba.
+Quienes gocen de libertad preparatoria o suspensión condicional de la pena, pueden solicitar permiso para trasladar su domicilio a otro Estado o al Distrito Federal y la Subsecretaría, autorizará discrecionalmente el traslado, siempre y cuando el órgano encargado de la ejecución de sanciones del domicilio propuesto, acepte vigilar la conducta del liberado e informar cada tres meses a la Subsecretaría, hasta que concluya el período de prueba.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 110.
 
-A excepción de la causal prevista en el Artículo 99 Fracción II de esta Ley, ningún beneficio será revocado sino a través de un procedimiento sumario y unistancial, seguido ante el Director Estatal, en el que será oído el interesado y demostrada plenamente la causa de la revocación. Si el beneficio se revoca, se ordenará la detención del sujeto para que cumpla el resto de la pena.
+A excepción de la causal prevista por el Artículo 99 Fracción II de esta Ley, ningún beneficio será revocado sino a través de un procedimiento sumario y unistancial, seguido ante la Subsecretaría, en el que será oído el interesado y demostrado plenamente la causa de la revocación. Si el beneficio se revoca, se ordenará la detención del sujeto para que cumpla el resto de la pena.
 
 ### CAPITULO I. DE LA LIBERACION
 
@@ -925,11 +969,11 @@ A excepción de la causal prevista en el Artículo 99 Fracción II de esta Ley, 
 
 Al cumplimiento de la pena u otorgamiento de cualquier beneficio de libertad anticipada, indulto, amnistía o perdón del ofendido, el interno será puesto en libertad, previo apercibimiento para que cumpla las condiciones impuestas al concedérsele el beneficio.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 115.
 
-Cuando el período de buen comportamiento haya concluido y el liberado no haya incurrido en causal de revocación, la Dirección Estatal, hará declaratoria formal de extinción de la pena, de oficio a solicitud del interesado.
+Cuando el período de buen comportamiento haya concluido y el liberado no haya incurrido en causal de revocación, la Subsecretaría, hará declaratoria formal de extinción de la pena, de oficio o a solicitud del interesado.
 
 ###### ARTICULO 116.
 
@@ -967,7 +1011,7 @@ La asistencia que otorgue el patronato no tendrá carácter policial y, en la me
 
 ### CAPITULO II. DE LOS INIMPUTABLES POR DEFECTOS MENTALES
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 123.
 
@@ -983,15 +1027,17 @@ Para que un menor sea entregado en custodia familiar, es necesario que se someta
 
 ###### ARTICULO 125.
 
-Las personas que hayan realizado hechos previstos como delito, en un estado de inimputabilidad por defecto o transtorno mental, serán sometidos a las medidas educacionales y psicoterapéuticas que indique la autoridad judicial, por el tiempo que la resolución respectiva señale, que nunca excederá del máximo de la pena prevista para ese delito. Si concluido el plazo de internamiento, el Director del Centro considera que la persona requiere todavía de tratamiento, lo informará al Director Estatal con la debida motivación para que éste resuelva lo conducente.
+Las personas que hayan realizado hechos previstos como delito, en un estado de inimputabilidad por defecto o transtorno mental serán sometidos a las medidas educacionales y psicoterapéuticas que indique la autoridad judicial, por el tiempo que la resolución respectiva señale, que nunca excederá del máximo de la pena prevista para ese delito. Si concluido el plazo de internamiento, el Director del Centro considera que la persona requiere todavía tratamiento, lo informará a la Subsecretaría, con la debida motivación para que éste resuelva lo conducente.
 
 ###### ARTICULO 126.
 
 Cuando el inimputable por razones mentales no manifieste peligrosidad, según el informe del equipo responsable de la observación y diagnóstico, se procurará entregarlo en custodia de las personas obligadas por la tutela o el deber de alimentos, para lo cual se hará una investigación de su estado civil y familiar, procurando vincular e informar a los miembros de su familia para que acepten al inimputable y le apoyen mediante un tratamiento en libertad, además de cubrir o garantizar la reparación del daño.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 127.
 
-El Director Estatal, oyendo la opinión del responsable del centro respectivo, podrá modificar la naturaleza y duración de la medida, cuando lo requieran las necesidades del tratamiento, o decretar su conclusión anticipada en el caso y condiciones del Artículo anterior.
+La Subsecretaría, oyendo la opinión del responsable del centro respectivo, podrá modificar la naturaleza y duración de la medida, cuando lo requieran las necesidades del tratamiento, o decretar su conclusión anticipada en el caso y condiciones del Artículo anterior.
 
 ## TITULO OCTAVO. DE LA APLICACION DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD PARA IMPUTABLES
 
@@ -1017,6 +1063,8 @@ Cuando se haya decretado la inhabilitación, se notificará a la Secretaría Gen
 
 ### CAPITULO IV. DE LA VIGILANCIA DE AUTORIDAD
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 131.
 
 Cuando la autoridad judicial condene al responsable de un delito, a no ir a lugar determinado o a no residir en él, notificará esta medida al Presidente Municipal de dicha circunscripción, identificando plenamente a la persona y el plazo de suspensión de este derecho, para que éste tome las providencias necesarias.
@@ -1025,15 +1073,15 @@ Cuando la autoridad judicial condene al responsable de un delito, a no ir a luga
 
 ###### ARTICULO 132.
 
-Cuando se condene a una persona a la suspensión de algún derecho, y la autoridad judicial considere que el reo puede violar esta determinación, notificará al Director Estatal para que éste ordene a sus propios agentes o gestione ante la autoridad municipal la vigilancia del sujeto, por todo el tiempo que debiera durar la medida. Lo mismo se dispondrá cuando se substituya la multa por libertad vigilada.
+Cuando se condene a una persona a la suspensión de algún derecho, y la autoridad judicial considere que el reo puede violar esta determinación, notificará a la Subsecretaría, para que ésta ordene a sus propios agentes o gestione ante la autoridad municipal la vigilancia del sujeto, por todo el tiempo que debiera durar la medida. Lo mismo se dispondrá cuando se substituya la multa por libertad vigilada.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+El condenado debe someterse a esta determinación, designando domicilios y ubicación del área de trabajo, además de notificar a la Subsecretaría, cualquier cambio o traslado, dentro de los quince días siguientes. La violación de la medida o suspensión impuesta, o el cambio de domicilio sin el correspondiente aviso a la autoridad encargada de la vigilancia, dará lugar a la revocación del beneficio.
 
-El condenado debe someterse a esta determinación, designando domicilio y ubicación del área de trabajo, además de notificar a la Dirección Estatal cualquier cambio o traslado, dentro de los quince días siguientes. La violación de la medida o suspensión impuesta, o el cambio de domicilio sin el correspondiente aviso a la autoridad encargada de la vigilancia, dará lugar a la revocación del beneficio.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 133.
 
-Cuando la autoridad judicial suspenda condicionalmente la aplicación de la pena de prisión, deberá notificarlo al Director Estatal, para que éste someta al condenado al mismo régimen de vigilancia impuesto a quienes gozan de libertad preparatoria o preliberación.
+Cuando la Autoridad judicial suspenda condicionalmente la aplicación de la pena de prisión, deberá notificarlo a la Subsecretaría, para que éste someta al condenado al mismo régimen de vigilancia impuesto a quienes gozan de libertad preparatoria o preliberación.
 
 La vigilancia consistirá en observar y orientar la conducta del sujeto, por todo el tiempo de la pena suspendida, a fin de constatar el cumplimiento de las condiciones impuestas y, en su caso, informar al Juez correspondiente cualquier violación, para que proceda a revocar el beneficio cuando resulte procedente.
 
@@ -1051,7 +1099,7 @@ La vigilancia consistirá en observar y orientar la conducta del sujeto, por tod
 
 ### CAPITULO VIII. DEL TRABAJO EN FAVOR DE LA COMUNIDAD
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 136.
 
@@ -1069,33 +1117,39 @@ La vigilancia consistirá en observar y orientar la conducta del sujeto, por tod
 
 ###### ARTICULO 139.
 
-Cuando la autoridad judicial imponga como pena directa o sustitutiva el trabajo en favor de la comunidad, notificará al condenado que debe comparecer ante la Dirección Estatal en el término de quince días, para que haga un estudio de sus habilidades laborales y de su disponibilidad, a fin de que se le asigne a una institución pública o privada de tipo educativa, asistencial o deportiva, para que cumpla dicha sanción.
+Cuando la autoridad judicial imponga como pena directa o sustitutiva el trabajo a favor de la comunidad, notificará al condenado que debe comparecer ante la Subsecretaría, dentro del término de quince días, para que hagan un estudio de sus habilidades laborales y de su disponibilidad, a fin de que se le designe a una institución pública o privada de tipo educativa, asistencial o deportiva, para que cumpla dicha sanción.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 140.
 
-La Dirección Estatal será la responsable de coordinar el trabajo en favor de la comunidad, determinando las instituciones o asociaciones que requieren de apoyo laboral, así como la naturaleza y duración del mismo.
+La Subsecretaría, será la responsable de coordinar el trabajo a favor de la comunidad, determinando las instituciones o asociaciones que requieren de apoyo laboral, así como la naturaleza y duración del mismo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 141.
 
-Si el condenado a trabajar para la comunidad deja de presentarse ante el Director Estatal en el plazo señalado, éste denunciará ante el Agente del Ministerio Público la incomparecencia injustificada del reo por la probable constitución de un delito.
+Si el condenado a trabajar para la comunidad deja de presentarse ante la Subsecretaría, en el plazo señalado, éste denunciará ante el Agente del Ministerio Público la incomparecencia injustificada del reo por la probable constitución de un delito.
 
-Si el obligado se presenta, la Dirección Estatal hará un estudio de sus capacidades labores y del tiempo de que puede disponer, después de su jornada ordinaria o durante las vacaciones o fines de semana, asignándole la institución, el trabajo que debe desempeñar y el horario en que debe realizarlo, hasta cubrir el número de horas de trabajo impuesto como pena en la sentencia.
+Si el obligado se presenta, la Subsecretaría, hará un estudio de sus capacidades laborales y del tiempo de que pueda disponer, después de su jornada ordinaria o durante las vacaciones o fines de semana, asignándole la institución, el trabajo que debe desempeñar y el horario en que debe realizarlo, hasta cubrir el número de horas de trabajo impuesto como pena en la sentencia.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
 
 ###### ARTICULO 142.
 
-La Dirección Estatal como autoridad ejecutora, se encargará de orientar y vigilar el trabajo en comunidad, asegurándose que éste no resulte degradante para el condenado.
+La Subsecretaría, como autoridad ejecutora, se encargará de orientar y vigilar el trabajo en comunidad, asegurándose que éste no resulte degradante para el condenado.
 
-Cuando el obligado solicite que se le cambie la Institución, el tipo de trabajo o el horario fijado, la Dirección Estatal resolverá lo conducente, pero cuando incumpla reiteradamente sus obligaciones, será apercibido por la autoridad ejecutora y denunciado ante el Agente del Ministerio Público en caso de que persista en su desobediencia.
+Cuando el obligado solicite que se le cambie la institución, el tipo de trabajo o el horario fijado, la Dependencia que señale el Reglamento Interno de la Secretaría de Seguridad Pública, resolverá lo conducente, pero cuando incumpla reiteradamente sus obligaciones, será apercibido por la autoridad ejecutora y denunciado ante el Agente del Ministerio Público en caso de que persista en su desobediencia.
 
 ###### ARTICULO 143.
 
 Los pasantes de cualquier profesión que deseen realizar su servicio en el sistema de readaptación social, serán autorizados a coadyuvar en el tratamiento y apoyo de los liberados, incluyendo la vinculación familiar y social, pero no se les permitirá realizar actividades de vigilancia.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 144.
 
-La Dirección Estatal acreditará a los pasantes que presten sus servicios para el sistema, y autorizará a las personas e instituciones privadas que deseen participar como voluntarios, asignándoles sus tareas y horarios.
+La Subsecretaría, acreditará a los pasantes que presten sus servicios para el sistema, y autorizará a las personas e instituciones privadas que deseen participar como voluntarios, asignándoles sus tareas y horarios.
 
 TRANSITORIOS:
 
@@ -1156,3 +1210,15 @@ El Reglamento de la presente Ley, deberá ser modificado y adecuado de acuerdo a
 ###### ARTICULO TERCERO.
 
 Transcurridos seis meses posteriores a la publicación en el Periódico Oficial de las reformas realizadas, deberá elaborarse el reglamento que regule el trabajo de los internos en las empresas que generen empleos remunerados dentro de los centros de readaptación social.
+
+P.O. 31 DE OCTUBRE DE 2001.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado tendrá un plazo de seis meses contados a partir de la vigencia de esta Ley, para:
+
+I a III...
+
+IV.- Organizar la Subsecretaría, que se ocupará de la ejecución de la pena de trabajo en comunidad en los términos del capítulo VIII de esta Ley.
+
+TERCERO.- Los reglamentos administrativos y demás disposiciones normativas que resulten afectadas por las presentes Reformas, deberán adecuarse a sus términos en un plano no mayor de sesenta días.
