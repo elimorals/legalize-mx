@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-desarrollo-regional-357
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-02"
-last_updated: "2004-01-02"
+last_updated: "2004-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35759&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO REGIONAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE MARZO DE 2004.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el viernes 2 de enero de 2004.
 
@@ -115,7 +115,9 @@ X. Autorizar los sistemas y procedimientos de control y evaluación de las área
 
 XI. Tramitar y en su caso, resolver los recursos administrativos de su competencia, conforme a las disposiciones legales aplicables;
 
-XII. Celebrar contratos, acuerdos y convenios en el ámbito de su competencia, conforme a lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado y demás legislación aplicable;
+> <small>(REFORMADA, G.O. 29 DE MARZO DE 2004)</small>
+
+XII. Celebrar, acuerdos y convenios en el ámbito de su competencia, conforme a lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado y demás legislación aplicable;
 
 XIII. Nombrar y en su caso, remover a los representantes de la Secretaría en las comisiones, organismos, consejos, órganos de gobierno, instituciones y entidades, de conformidad con las disposiciones legales aplicables;
 
@@ -479,9 +481,21 @@ XV. Planear, analizar, programar, ejecutar, administrar y supervisar las obras d
 
 XVI. Mantener, en coordinación con la Dirección General de Obras Públicas, el padrón de contratistas de la dependencia, para la realización de estudios, proyectos y obras públicas;
 
-XVII. Supervisar, validar y resguardar, en coordinación con la Dirección General de Obras Públicas, los expedientes técnicos unitarios de las obras, estudios y proyectos a cargo de la Secretaría, que ejecute por encomienda del secretario; y
+> <small>(REFORMADA, G.O. 29 DE MARZO DE 2004)</small>
 
-XVIII. Las demás que expresamente le atribuyan las leyes del Estado, este Reglamento, y demás normatividad aplicable, así como las que le confiera el Secretario.
+XVII. Supervisar, validar y resguardar, en coordinación con la Dirección General de Obras Públicas, los expedientes técnicos unitarios de las obras, estudios y proyectos a cargo de la Secretaría, que ejecute por encomienda del secretario;
+
+> <small>(REFORMADA, G.O. 29 DE MARZO DE 2004)</small>
+
+XVIII. Analizar, estudiar, proyectar, planear, dirigir y ejecutar con base en la competencia establecida en el presente Reglamento y las leyes aplicables, la obra pública que se realice por administración directa o a través de terceros mediante adjudicación otorgada conforme a las normas aplicables o por concurso, expedir las bases técnicas a que deberán sujetarse los concursos de adjudicación de los contratos correspondientes, vigilar el cumplimiento de los mismos, así como suscribir previa autorización del secretario los contratos que le correspondan;
+
+> <small>(ADICIONADA, G.O. 29 DE MARZO DE 2004)</small>
+
+XIX. Substanciar y resolver, en coordinación con la Dirección Jurídica de la Secretaría y conforme a la competencia establecida en el presente Reglamento y a las disposiciones legales aplicables, los procedimientos de rescisión administrativa de contratos de obra pública, imponiendo las sanciones a que haya lugar; y
+
+> <small>(ADICIONADA, G.O. 29 DE MARZO DE 2004)</small>
+
+XX. Las demás que expresamente le atribuyan las leyes del Estado, este Reglamento, y demás normatividad aplicable, así como las que le confiera el secretario.
 
 #### SECCIÓN QUINTA. DE LA DIRECCIÓN GENERAL DE OBRAS PÚBLICAS
 
@@ -493,7 +507,9 @@ I. Proponer al Secretario, la realización de políticas en materia de obras pú
 
 II. Dirigir, coordinar y controlar con el acuerdo del Secretario, la ejecución de los programas de construcción y reparación de obras públicas en la Entidad;
 
-III. Analizar, estudiar, proyectar, planear, dirigir y ejecutar la obra pública a cargo de la Secretaría, que se realice por administración directa o a través de terceros mediante adjudicación, otorgada conforme a las normas aplicables o por concurso, así como expedir las bases técnicas a que deberán sujetarse los concursos de adjudicación de los contratos correspondientes y vigilar el cumplimiento de los mismos, conforme a la Ley;
+> <small>(REFORMADA, G.O. 29 DE MARZO DE 2004)</small>
+
+III. Analizar, estudiar, proyectar, planear, dirigir y ejecutar con base en la competencia establecida en el presente Reglamento y las leyes aplicables, la obra pública que se realice por administración directa o a través de terceros mediante adjudicación otorgada conforme a las normas aplicables o por concurso, expedir las bases técnicas a que deberán sujetarse los concursos de adjudicación de los contratos correspondientes, vigilar el cumplimiento de los mismos, así como suscribir previa autorización del secretario los contratos que le correspondan;
 
 IV. Evaluar, en coordinación con las autoridades competentes, el cumplimiento de los contratos de obra pública adjudicados por la Secretaría, emitiendo con carácter obligatorio recomendaciones relacionadas con dicho cumplimiento;
 
@@ -531,9 +547,17 @@ XX. Proponer al Secretario la proyección de obras públicas que beneficien a co
 
 XXI. Llevar, en coordinación con la Dirección General de Desarrollo Urbano, el padrón de contratistas de la dependencia, para la realización de estudios, proyectos y obras públicas;
 
-XXII. Supervisar, validar y resguardar, en coordinación con la Dirección General de Desarrollo Urbano, los expedientes técnicos unitarios de las obras, estudios y proyectos a cargo de la Secretaría; y
+> <small>(REFORMADA, G.O. 29 DE MARZO DE 2004)</small>
 
-XXIII. Las demás que expresamente le atribuyan las leyes del Estado, este Reglamento, y demás normatividad aplicable, así como las que le confiera el secretario.
+XXII. Supervisar, validar y resguardar; en coordinación con la Dirección General de Desarrollo Urbano, los expedientes técnicos unitarios de las obras, estudios y proyectos a cargo de la Secretaría;
+
+> <small>(REFORMADA, G.O. 29 DE MARZO DE 2004)</small>
+
+XXIII. Substanciar y resolver, en coordinación con la Dirección Jurídica de la Secretaría y conforme a la competencia establecida en el presente Reglamento y a las disposiciones aplicables, los procedimientos de rescisión administrativa de contratos de obra pública, imponiendo las sanciones a que haya lugar; y
+
+> <small>(ADICIONADA, G.O. 29 DE MARZO DE 2004)</small>
+
+XXIV. Las demás que expresamente le atribuyan las leyes del Estado, este Reglamento, y demás normatividad aplicable, así como las que le confiera el Secretario.
 
 #### SECCIÓN SEXTA. DE LA DIRECCIÓN GENERAL DEL PATRIMONIO DEL ESTADO
 
@@ -824,3 +848,9 @@ Quinto. En tanto se expiden los Manuales a que se refiere el artículo anterior,
 Dado en la Residencia del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave, en la ciudad de Xalapa-Enríquez, Veracruz, a los diecinueve días del mes de noviembre del año dos mil tres.
 
 Lic. Miguel Alemán Velazco, Gobernador del Estado.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+G.O. 29 DE MARZO DE 2004.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
