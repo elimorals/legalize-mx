@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-ingenieria-antes-49"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-04-13"
-last_updated: "1993-04-13"
+last_updated: "1994-11-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-04-12"
 
 REGLAMENTO DE LA ESCUELA MILITAR DE INGENIEROS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE NOVIEMBRE DE 1994.
 
 Reglamento publicado en la Sección Segunda del Diario Oficial de la Federación, el martes 13 de abril de 1993.
 
@@ -743,7 +743,7 @@ Los militares y civiles de nacionalidad extranjera que ingresen al plantel, lo h
 
 ###### ARTICULO 42.
 
-El personal de Cadetes que termine satisfactoriamente el 4/o. año de alguna de las carreras que se imparten en el plantel, causará baja como tal y alta como Teniente de Zapadores, Materiales de Guerra, Transmisiones o el que corresponda de acuerdo a la carrera que curse, quedando en calidad de externo.
+(DEROGADO, D.O.F. 16 DE NOVIEMBRE DE 1994)
 
 ###### ARTICULO 43.
 
@@ -1130,3 +1130,11 @@ SEGUNDO.- Se abroga el Reglamento de la Escuela Militar de Ingenieros de 16 de f
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de abril de mil novecientos noventa y tres.- Carlos Salinas de Gortari. Rúbrica.- El Secretario de la Defensa Nacional, Antonio Riviello Bazán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 16 DE NOVIEMBRE DE 1994.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
