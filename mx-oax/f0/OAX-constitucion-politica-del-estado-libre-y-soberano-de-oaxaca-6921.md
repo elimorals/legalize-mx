@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1985-11-18"
+last_updated: "1985-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 1985.
+
+> <small>N. DE E. SE REPUBLICA EN FORMA INTEGRA EL TEXTO DE LA PRESENTE CONSTITUCION EN EL D.O.F. DEL 11 DE AGOSTO DE 1986, CON TODAS SUS REFORMAS HASTA LA CORRESPONDIENTE AL 7 DE DICIEMBRE DE 1985.</small>
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -171,7 +173,7 @@ Sólo por delito que merezca pena corporal habrá lugar a prisión preventiva. E
 
 Todo rigor o maltratamiento usado en la aprehensión, en la detención o en las prisiones; toda gabela o contribución en las cárceles; toda molestia injustificada que se infiera en una prisión; toda privación de los elementos esenciales de la vida; así como la permanencia en lugares notoriamente insalubres o antihigiénicos, son, tanto para el que los ordene, como para el que los ejecute, un motivo de responsabilidad que la autoridad competente hará efectiva conforme a la ley. Las penas que priven de la libertad a un individuo tendrán como base el trabajo adecuado para éste, y como fin, su regeneración social. La autoridad judicial, sólo por causa de urgente administración de justicia que hará constar expresamente en el mandamiento respectivo, podrá decretar la extracción de los reos de sus prisiones.
 
-((REFORMADO, P.O. 15 DE ENERO DE 1983)
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
 
 La autoridad administrativa sólo podrá decretarla respecto de quienes estén a su disposición, previa la libre gestión del preso, hecha por escrito y firmada por sus defensores, familiares o ante testigos que no sean empleados públicos. La autoridad respectiva será estrictamente responsable de todo perjuicio que el preso sufra por causa originada directamente por la extracción. "En ningún otro caso podrá disponerse de la persona de los reos".
 
@@ -379,11 +381,11 @@ VI.- Tener un modo honesto de vivir.
 
 La vecindad no se pierde por ausencia debida al desempeño de otros cargos públicos.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 1939)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1985)</small>
 
 ###### ARTICULO 35.
 
-No pueden ser electos Diputados: el Gobernador del Estado, el Secretario General del Despacho, el Subsecretario, los Magistrados del Tribunal Superior de Justicia, el Procurador General, el Jefe de la Defensoría de Oficio, el Contador Mayor de Glosa y el Tesorero General.
+No pueden ser electos Diputados: el Gobernador del Estado, el Secretario General del Despacho, el Subsecretario, los Magistrados del Tribunal Superior de Justicia, el Procurador General, el Jefe de la Defensoría de Oficio, el Contador Mayor de Hacienda y el Tesorero General.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
@@ -639,11 +641,13 @@ XXII. Ratificar los nombramientos de Secretario General de Gobierno y Subsecreta
 
 XXIII. Llamar a los diputados suplentes conforme a las prevenciones relativas de esta Constitución;
 
-XXIV. Nombrar y remover al Contador Mayor de Glosa, cuyo nombramiento hará saber por medio de un decreto;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1985)</small>
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1941)</small>
+XXIV. Nombrar y remover al Contador Mayor de Hacienda, cuyo nombramiento hará saber por medio de un decreto;
 
-XXV. Nombrar y remover, con las limitaciones que establezcan las leyes, a los empleados de su Secretaría y a los de la Contaduría Mayor de Glosa;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1985)</small>
+
+XXV. Nombrar y remover con las limitaciones que establezcan las leyes, a los empleados de su Secretaría y a los de la Contaduría Mayor de Hacienda;
 
 > <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1941)</small>
 
@@ -685,9 +689,15 @@ XLI. Legislar sobre todos los servicios públicos, oficiales y particulares dent
 
 XLII. Legislar sobre todo aquello que la Constitución General y la Particular del Estado, no someten expresamente a las facultades de cualquier otro poder;
 
-XLIII. Formar su Reglamento Interior;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1985)</small>
 
-XLIV. Las demás que le confiere esta Constitución.
+XLIII. Expedir su Ley Orgánica y el Reglamento Interior;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 1985)</small>
+
+XLIV. Dictar la Ley Orgánica de la Contaduría Mayor de Hacienda y su Reglamento;
+
+XLV. Las demás que le confiere esta Constitución.
 
 ###### ARTICULO 60.
 
@@ -739,9 +749,9 @@ VI. Resolver todas las renuncias que por causa de urgencia presenten los funcion
 
 VII. Nombrar provisionalmente a los sustitutos de los Servidores Públicos cuyas renuncias hubiere aceptado.
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1985)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1985)</small>
 
-VIII. Nombrar provisionalmente, con las limitaciones que la establezcan las leyes, a los Servidores Públicos de su Secretaría y a los de la Contaduría Mayor de Glosa, en caso de falta absoluta de ellos.
+VIII. Nombrar provisionalmente, con las limitaciones que la establezcan las leyes, a los Servidores Públicos de su Secretaría y a los de la Contaduría Mayor de Hacienda, en caso de falta absoluta de ellos.
 
 IX. Calificar las excusas que presente el Procurador General para intervenir en determinado negocio.
 
@@ -1335,11 +1345,13 @@ La recaudación de las contribuciones municipales estará a cargo de un Tesorero
 
 De las Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL DECRETO DE REFORMAS A LA PRESENTE CONSTITUCION, PUBLICADO EN EL P.O. DEL 18 DE NOVIEMBRE DE 1985, SE MODIFICA COMPLETAMENTE EL TITULO QUINTO, POR LO QUE SE DESPRENDE DE LA PUBLICACION EN COMENTO, QUE ESTA SECCION QUEDA COMPRENDIDA EN EL CONTENIDO DEL CITADO TITULO.</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
 ###### ARTICULO 113.
 
 Todos los miembros del Ayuntamiento y el Tesorero Municipal serán responsables solidariamente de las irregularidades cometidas en el manejo de los fondos municipales y en consecuencia, todos están obligados a vigilar los actos relacionados con la administración de dichos fondos.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1985)</small>
 
 ## TITULO SEXTO. Principios Generales de Administración Pública
 
@@ -1451,7 +1463,7 @@ El Gobernador del Estado protestará en los términos siguientes: "Protesto guar
 
 ###### ARTICULO 114.
 
-Las cuentas de un Ayuntamiento serán glosadas preventivamente por el que lo substituya en el año siguiente, durante los dos primeros meses de su funcionamiento; esta glosa preventiva se remitirá a la Contaduría Mayor de Glosa a más tardar el quince de marzo de cada año.
+Las cuentas de un Ayuntamiento serán glosadas preventivamente por el que lo substituya en el año siguiente, durante los dos primeros meses de su funcionamiento; esta glosa preventiva se remitirá a la Contaduría Mayor de Hacienda a más tardar el quince de marzo de cada año.
 
 ## TITULO SEPTIMO. De las Adiciones y Reformas a la Constitución
 
@@ -1717,7 +1729,7 @@ Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido 
 
 Las Leyes sobre responsabilidades administrativas de los servidores públicos determinarán sus obligaciones a fin de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de sus funciones, empleos, cargos y comisiones; las sanciones aplicables por los actos u omisiones en que incurran, así como los procedimientos y las autoridades para aplicarlas, dichas sanciones, además de las que señalan las leyes, consistirán en suspensión, destitución e inhabilitación, en su caso, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones a que se refiere la fracción III del artículo 140, pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL DECRETO DE REFORMAS A LA PRESENTE CONSTITUCION, PUBLICADO EN EL P.O. DEL 18 DE NOVIEMBRE DE 1985, SE MODIFICA COMPLETAMENTE EL TITULO QUINTO, POR LO QUE SE DESPRENDE DE LA PUBLICACION EN COMENTO, QUE ESTA SECCION QUEDA COMPRENDIDA EN EL CONTENIDO DEL CITADO TITULO.</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1985)</small>
 
 ###### ARTICULO 145.
 
@@ -2064,3 +2076,7 @@ UNICO.- El presente decreto entrará en vigor el día siguiente al de su publica
 P.O. 18 DE NOVIEMBRE DE 1985.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE DICIEMBRE DE 1985.
+
+UNICO.- Estas reformas constitucionales surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado. Los Artículos en donde aparezcan las palabras Contaduría Mayor de Glosa, deberán cambiarse por Contaduría Mayor de Hacienda.
