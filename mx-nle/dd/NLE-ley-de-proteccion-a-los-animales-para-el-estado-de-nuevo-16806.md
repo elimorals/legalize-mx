@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-a-los-animales-para-el-estado-de-nuevo-16806"
 country: "mx"
 rank: "ley"
 publication_date: "2000-08-16"
-last_updated: "2000-08-16"
+last_updated: "2002-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ENERO DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de agosto de 2000.
 
@@ -99,9 +99,13 @@ Quien posea un animal peligroso deberá solicitar autorización de la Secretarí
 
 Queda prohibido el uso de animales vivos para prácticas de entrenamiento de animales de guardia o ataque, o para verificar su agresividad.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2002)</small>
+
 ###### Artículo 8o.
 
-Queda prohibido el azuzar animales para que se acometan entre ellos y el hacer de las peleas así provocadas, un espectáculo público o privado, con excepción de las peleas de gallos, la lidia de toros, becerros o novillos y las charreadas, así como el entrenamiento de animales de guardia.
+Queda prohibido azuzar animales para que se acometan entre ellos y el hacer de las peleas así provocadas, un espectáculo público o privado, así como facilitar inmuebles aún a título gratuito, para que tengan lugar dichas peleas.
+
+Quedan exceptuadas las peleas de gallos, la lidia de toros, becerros o novilladas y las charreadas cuando se sujeten a los reglamentos que expida la autoridad municipal, y el entrenamiento de los animales de guardia.
 
 ###### Artículo 9o.
 
@@ -315,21 +319,29 @@ XVII. Sacrificar a un animal para no destinarlo al consumo humano por alguna cau
 
 XVIII. No sacrificar inmediatamente, los propietarios, encargados o administradores de expendios de animales o rastros, al animal que por cualquier causa se hubiese lesionado gravemente y esto ocasione sufrimiento o agonía o represente un peligro para la salud o seguridad de las personas.
 
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 2002)</small>
+
 ###### Artículo 35.
 
-Se sancionará con multa de 10 a 25 cuotas a quien contravenga lo dispuesto por los (sic) las fracciones II, VII, IX, y XIV del artículo 34 de esta Ley.
+A quienes infrinjan la presente Ley, se aplicaran las sanciones siguientes:
 
-Se sancionará con multa de 26 a 50 cuotas a quien contravenga lo dispuesto por las fracciones I, IV, VI, VIII, XI, XV y XVI del artículo 34 del presente ordenamiento.
+a).- Multa de 10 a 25 cuotas a quien contravenga lo dispuesto por las fracciones II, VII, IX y XIV del Artículo 34 de esta Ley.
 
-Se sancionará con multa de 51 a 100 cuotas a quien contravenga lo dispuesto por las fracciones III, V, X, XII, XIII, XVII y XVIII del artículo 34 de esta Ley.
+b).- Multa de 26 a 50 cuotas a quien contravenga lo dispuesto por las fracciones I, IV, VIII, XI, XV y XVI del Artículo 34 de esta Ley.
 
-Por cuota se entenderá el monto de un día de salario mínimo vigente en el lugar donde se cometió la infracción.
+c).- Multa de 50 a 100 cuotas a quien contravenga lo dispuesto por las fracciones V, X, XII, XIII, XVII y XVIII del Artículo 34 de esta Ley.
 
-Para imponer las sanciones, la autoridad considerará la gravedad de la conducta; los daños y perjuicios causados; la intención con la cual fue cometida y los antecedentes, circunstancias y situación socioeconómica del infractor.
+d).- Multa de 400 a 800 cuotas a quien contravenga lo dispuesto por la fracción III del Artículo 34 de esta Ley.
 
-Cuando el infractor tenga un ingreso diario de dos salarios mínimos o menos, la multa no excederá del equivalente a un día de jornada laboral.
+e).- Multa de 80 a 100 cuotas al adulto que asista como espectador a las peleas prohibidas por el Artículo 8 de esta Ley, sanción que se duplicará si se hizo acompañar por menores de edad.
 
-Cuando el infractor no sea una persona asalariada, la multa no podrá exceder del equivalente a un día de ingreso.
+f).- El decomiso de los animales que se encuentren en la realización de los eventos señalados en el Artículo 8, por la autoridad correspondiente.
+
+Por cuota se entenderá el monto de un día de salario mínimo vigente en el lugar en que se cometa la infracción.
+
+Para imponer las sanciones la autoridad considerará la gravedad de la conducta, los daños y perjuicios causados; la intención con la cual fue cometido y los antecedentes, circunstancias y situación socioeconómica del infractor.
+
+Cuando el infractor sea una persona asalariada, la multa no podrá exceder del equivalente a un día de su salario.
 
 ###### Artículo 36.
 
@@ -392,3 +404,9 @@ DR. JESUS ZACARIAS VILLAREAL PEREZ
 EL C. SECRETARIO DE EDUCACION
 
 LIC. JOSE MARTINEZ GONZALEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE ENERO DE 2002.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
