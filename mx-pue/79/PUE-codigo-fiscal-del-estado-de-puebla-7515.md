@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "2003-04-11"
+last_updated: "2003-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2003.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -941,7 +941,7 @@ c) Denuncia por desobediencia a un mandato legítimo de Autoridad competente.
 
 XIV.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1988)
 
-XV.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 1991
+XV.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 1991)
 
 XVI.- Elaborar los formularios de declaración en forma que puedan ser llenados fácilmente por los contribuyentes.
 
@@ -1099,7 +1099,7 @@ III.- Las autoridades Fiscales podrán solicitar a otras Autoridades competentes
 
 > <small>(REFORMADA, P.O. 11DE ABRIL DE 2003)</small>
 
-IV.- Los visitados, sus representantes o la persona con quien se entiendan las visitas, en el domicilio fiscal, están obligados a permitir a los visitadores designados por las autoridades fiscales, el acceso al lugar o lugares de la misma, así como mantener a su disposición la contabilidad y documentación que acredite el cumplimiento de las disposiciones fiscales, de las que los visitadores podrán obtener copias, las cuales previo cotejo con sus originales serán entregadas a los mismos, por escrito firmado por el contribuyente, representante legal o del tercero con quien se entienda la visita y podrán ser anexadas al acta final o a las parciales que se levanten con motivo de la visita.
+IV.- Los visitados, sus representantes o la persona con quien se entiendan las visitas, en el domicilio fiscal, están obligados a permitir a los visitadores designados por las autoridades fiscales, el acceso al lugar o lugares de la misma, así como mantener a su disposición la contabilidad y documentación que acredite el cumplimiento de las disposiciones fiscales, de las que los visitadores podrán obtener copias, las cuales previo cotejo con sus originales serán entregadas a los mismos, por escrito firmado por el contribuyente, representante legal o del tercero con quien se entienda la visita y podrán ser anexadas al acta final o a las parciales que levanten con motivo de la visita.
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -1449,61 +1449,61 @@ La Autoridad Fiscal impondrá las sanciones por infracción a las disposiciones 
 
 A.- Por las infracciones señaladas en el artículo 58:
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE DICIEMBRE DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
 
-I.- De $ 38.00 a $ 76.00 a la comprendida en la fracción VI.
+I.- De $ 38.00 a $ 77.00 a la comprendida en la fracción VI.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE DICIEMBRE DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
 
-II.- De $ 112.00 a $ 227.00 a la comprendida en la fracción II.
+II.- De $ 113.00 a $ 230.00 a la comprendida en la fracción II.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE DICIEMBRE DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
 
-III.- De $ 151.00 a $ 301.00 a la comprendida en la fracción III.
+III.- De $ 153.00 a $ 305.00 a la comprendida en la fracción III.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE DICIEMBRE DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
 
-IV.- De $ 188.00 a $ 375.00 a la establecida en la fracción V.
+IV.- De $ 190.00 a $ 380.00 a la establecida en la fracción V.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE DICIEMBRE DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
 
-V.- De $ 188.00 a $ 375.00 a la establecida en la fracción VII.
+V.- De $ 190.00 a $ 380.00 a la establecida en la fracción VII.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE DICIEMBRE DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
 
-VI.- De $ 227.00 a $ 451.00 a la comprendida en la fracción XV.
+VI.- De $ 230.00 a $ 457.00 a la comprendida en la fracción XV.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE DICIEMBRE DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
 
-VII.- De $ 301.00 a $ 602.00 a la señalada en la fracción XVIII.
+VII.- De $ 305.00 a $ 609.00 a la señalada en la fracción XVIII.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE DICIEMBRE DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
 
-VIII.- De $ 376.00 a $ 754.00 a las comprendidas en las fracciones IX y XI.
+VIII.- De $ 381.00 a $ 763.00 a las comprendidas en las fracciones IX y XI.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE DICIEMBRE DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
 
-IX.- De $ 564.00 a $ 1,128.00 a la establecida en la fracción X.
+IX.- De $ 571.00 a $ 1,142.00 a la establecida en la fracción X.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE DICIEMBRE DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
 
-X.- De $ 601.00 a $ 1,205.00 a la comprendida en la fracción IV.
+X.- De $ 608.00 a $ 1,220.00 a la comprendida en la fracción IV.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE DICIEMBRE DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
 
-XI.- De $ 679.00 a $ 1,356.00 a las comprendidas en las fracciones I, VIII, XII y XIII.
+XI.- De $ 687.00 a $ 1,373.00 a las comprendidas en las fracciones I, VIII, XII y XIII.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE DICIEMBRE DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
 
-XII.- De $ 754.00 a $ 1,506.00 a la señalada en la fracción XVII.
+XII.- De $ 763.00 a $ 1,525.00 a la señalada en la fracción XVII.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE DICIEMBRE DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
 
-XIII.- De $ 1,882.00 a $ 3,766.00 a la comprendida en la fracción XIX.
+XIII.- De $ 1,905.00 a $ 3,813.00 a la comprendida en la fracción XIX.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE DICIEMBRE DE 2002)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
 
-XIV.- De $ 115.00 a $ 287.00 a quien cometa la comprendida en la fracción XX.
+XIV.- De $ 116.00 a $ 291.00 a quien cometa la comprendida en la fracción XX.
 
 B.- Cuando la comisión de la infracción señalada en el artículo 58-A sea descubierta por las Autoridades Fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes sanciones:
 
@@ -2392,3 +2392,7 @@ P.O. 11 DE ABRIL DE 2003.
 PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 30 DE JUNIO DE 2003.
+
+El presente Acuerdo entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
