@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-de-los-cuerpos-de-seguridad-publica-para-el-7634"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-01-19"
-last_updated: "1983-12-30"
+last_updated: "1984-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DE LOS CUERPOS DE SEGURIDAD PUBLICA PARA EL ESTADO DE NUEVO LEON.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 1984.
 
 Ley publicada en el Periódico Oficial, el miércoles 19 de enero de 1983.
 
@@ -421,9 +421,11 @@ Los elementos que forman parte de la Dirección de Seguridad Pública y el perso
 
 Todo elemento de nuevo ingreso a la Dirección de Seguridad Pública del Estado, deberá previamente haber sido aprobado por la Academia de Capacitación.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1984)</small>
+
 ###### ARTICULO 59o.
 
-La Academia de Capacitación estará integrada con el personal técnico especializado en educación física y con amplios conocimientos en defensa personal y uso de armas ofensivas y defensivas, así como en la enseñanza de leyes, reglamentos penales y policiacos y particularmente en las disposiciones de la Constitución Política de la Nación y local del Estado.
+La Academia de Capacitación estará integrada con el personal técnico especializado en educación física y con amplios conocimientos en defensa personal y uso de armas ofensivas y defensivas, así como en la enseñanza de leyes, reglamentos penales y policiacos; y particularmente en las disposiciones de la Constitución Política Federal y de la del Estado, respectivamente.
 
 ###### ARTICULO 60o.
 
@@ -1078,3 +1080,7 @@ El presente Decreto entrará en vigor el día 1o. de enero de 1984; el cual ser�
 ###### ARTICULO SEGUNDO.
 
 Los Municipios podrán convenir con el Estado, independientemente de la existencia de sus propios cuerpos de prevención, que la prestación de los servicios de Seguridad Pública, se presenten en los municipios por conducto de la autoridad Municipal y bajo el mando de la Autoridad Estatal.
+
+P.O. 2 DE NOVIEMBRE DE 1984.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
