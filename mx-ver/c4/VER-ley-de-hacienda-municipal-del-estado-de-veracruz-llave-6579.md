@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-municipal-del-estado-de-veracruz-llave-6579"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1998-12-31"
+last_updated: "2001-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE OCTUBRE DE 2001.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -551,31 +551,17 @@ IV.- Los núcleos de población ejidales o ejidos y los comuneros;
 
 V.-Los demás sujetos que señalen las Leyes Fiscales.
 
-> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1998)</small>
-
-d).- Los representantes legales de personas físicas y morales, respecto de los impuestos a cargo de sus representados cuando tengan facultades para actos de administración;
-
-e).- Los albaceas de la sucesión hasta en tanto no se adjudiquen los bienes los herederos;
-
-f).- Las Instituciones fiduciarias en los casos de la fracción III del artículo 34 de esta Ley, y
-
-g).- Los demás sujetos que señalen las Leyes Fiscales.
-
 > <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ARTICULO 34 BIS.- Son sujetos con responsabilidad solidaria los siguientes:
 
 a).- La persona o personas cualquiera que sea el nombre con que se les designe que tengan conferida la dirección general, la gerencia general, o la administración única de una persona moral;
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
-
-b).- El comisariado ejidal, el consejo de vigilancia y los ejidatarios;
+b).- Los representantes del Comisariado Ejidal o del Consejo de Vigilancia, en los términos de la Legislación Agraria;
 
 c).- Tratándose de copropietarios, coposeedores y nudopropietarios, cualquiera de ellos responderá al monto total del adeudo del crédito fiscal y sus accesorios sin que la autoridad fiscal quede obligada al cobro proporcional de dicho adeudo;
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1996)</small>
-
-d).- Los representantes legales de personas físicas y morales, respecto de los impuestos a cargo de sus representados cuando tengan facultades para actos de administración;
+d).- Los representantes legales de sociedades, asociaciones civiles y comunidades respecto de los impuestos a cargo de sus representados cuando tengan facultades para actos de administración;
 
 e).- Los albaceas de la sucesión hasta en tanto no se adjudiquen los bienes los herederos;
 
@@ -957,9 +943,7 @@ III.-(DEROGADA, G.O. 24 DE DICIEMBRE DE 1996)
 
 ###### ARTICULO 71.
 
-Regido por el capítulo I, del Título Primero de la Ley de Hacienda para el Estado.
-
-El impuesto se causará a favor de cada municipio, por las actividades gravadas que se realicen dentro de su jurisdicción, con cuota del 75% sobre el importe del impuesto que se deba causar a favor de la Hacienda Pública del Estado.
+(DEROGADO, G.O. 12 DE OCTUBRE DE 2001)
 
 > <small>(DEROGADA SU DENOMINACION, G.O. 27 DE DICIEMBRE DE 1997)</small>
 
@@ -3936,3 +3920,7 @@ G.O. 8 DE SEPTIEMBRE DE 1998.
 G.O. 31 DE DICIEMBRE DE 1998.
 
 Artículo Unico.- La presente ley entrará en vigor el día 1° de enero de 1999, previa su publicación ene la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz-Llave.
+
+G.O. 12 DE OCTUBRE DE 2001.
+
+UNICO.-El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
