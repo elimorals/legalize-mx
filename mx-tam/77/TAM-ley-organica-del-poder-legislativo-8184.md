@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-legislativo-8184"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-07-05"
-last_updated: "1986-07-05"
+last_updated: "1989-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8184&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 1989.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el 5 de julio de 1986.
 
@@ -43,9 +43,11 @@ LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE TAMAULIPAS
 
 La presente Ley establece las bases para la organización y funcionamiento del Poder Legislativo de la Entidad, el cual se deposita en una asamblea denominada Congreso del Estado Libre y Soberano de Tamaulipas y, durante los recesos de éste, en la Diputación Permanente, de conformidad con lo dispuesto en el Titulo Cuarto de la Constitución Política del Estado.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1989)</small>
+
 ###### ARTICULO 2o.
 
-El Congreso se integrará por Diputados electos según el principio de votación mayoritaria relativa, y con Diputados electos según el principio de representación proporcional, de acuerdo a lo que dispone la Constitución Política del Estado y la Ley Electoral para la renovación de los Poderes Ejecutivo, Legislativo y Ayuntamientos.
+El Congreso se integrará por Diputados electos según el Principio de Votación Mayoritaria Relativa y por el principio de Representación Proporcional, de acuerdo a lo dispuesto por la Constitución Política del Estado y la Ley Electoral para el Estado de Tamaulipas.
 
 > <small>(F. DE E., P.O. 27 DE AGOSTO DE 1986)</small>
 
@@ -53,9 +55,11 @@ El Congreso se integrará por Diputados electos según el principio de votación
 
 El ejercicio de las funciones de los Diputados, por el término de tres años, constituye una Legislatura del Congreso del Estado de Tamaulipas.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1989)</small>
+
 ###### ARTICULO 4o.
 
-La Legislatura tendrá su residencia en la capital del Estado, sin perjuicio de que pueda sesionar fuera de su sede, en el lugar que para el efecto acuerde el Pleno por mayoría absoluta de votos.
+La Legislatura tendrá su residencia en la capital del Estado, sin perjuicio de que pueda sesionar fuera de su sede, en el lugar que para el efecto acuerden las dos terceras partes de sus miembros.
 
 ###### ARTICULO 5o.
 
@@ -91,15 +95,19 @@ Para los efectos de interpretación de esta Ley, cuando en ellas se exprese Cons
 
 El Congreso del Estado se erigirá en Colegio Electoral, para calificar las elecciones de Ayuntamientos, Diputados Locales, Gobernador del Estado y para declarar electos Senadores al Congreso de la Unión. Sus resoluciones serán irrevocables.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1989)</small>
+
 ###### ARTICULO 12.
 
-El Colegio Electoral deberá integrarse con un mínimo de doce Diputados, para que sus resoluciones sean válidas.
+El Colegio Electoral deberá integrarse con las dos terceras partes como mínimo de los Diputados que conforman el Congreso del Estado.
 
-En caso de no existir quórum, se citará de nueva cuenta y el Colegio se integrará con los Diputados que asistan, siendo válidas sus resoluciones.
+En caso de no existir quórum se citará de nueva cuenta y el Colegio se integrará con los Diputados que asistan, siendo válidas sus resoluciones.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1989)</small>
 
 ###### ARTICULO 13.
 
-El Congreso del Estado se constituirá en Colegio Electoral a más tardar siete días después de celebrarse las elecciones constitucionales para la renovación de los Poderes Legislativo, Ejecutivo y Ayuntamientos en su caso.
+El Congreso del Estado se constituirá en Colegio Electoral después de celebrarse las elecciones constitucionales para la renovación de los Poderes Legislativo, Ejecutivo y Ayuntamientos en su caso.
 
 ###### ARTICULO 14.
 
@@ -111,13 +119,17 @@ Por acuerdo de la Asamblea en votación económica, la Diputación Permanente, o
 
 El Colegio Electoral iniciará la calificación de las elecciones de los presuntos Diputados, Gobernador del Estado y Ayuntamientos después de recibidos los expedientes de la Comisión Estatal Electoral.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1989)</small>
+
 ###### ARTICULO 16.
 
-Los presuntos Diputados deberán presentar antes del día 22 de diciembre del año de la elección las constancias de mayoría y de asignación, para su registro por los Secretarios del Congreso, a fin de dar cuenta al Colegio Electoral en su oportunidad.
+Los presuntos Diputados deberán presentar las constancias de mayoría y de asignación, para su registro por los Secretarios del Congreso, a fin de dar cuenta al Colegio Electoral en su oportunidad.
+
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 1989)</small>
 
 ###### ARTICULO 17.
 
-En el supuesto de que el Congreso del Estado no se erija en Colegio Electoral en el término señalado en el Artículo 13, los presuntos Diputados cinco días antes de iniciar sus funciones se erigirán en Colegio Electoral y en sesión permanente procederán a la calificación de sus elecciones, las de los Ayuntamientos y las de Gobernador en su caso, con las mismas reglas de este capítulo, pero para la calificación de las elecciones de quiénes integran la Directiva, se nombrarán los respectivos substitutos.
+En el supuesto de que el Congreso del Estado no se erija en Colegio Electoral conforme lo señala el Artículo 13, los presuntos Diputados, cinco días antes de iniciar sus funciones se erigirán en Colegio Electoral y en sesión permanente procederán a la calificación de sus elecciones, las de los Ayuntamientos y las de Gobernador en su caso, con las mismas reglas de este Capítulo, pero para la calificación de las elecciones de quienes integran la Directiva, se nombrarán los respectivos substitutos.
 
 ###### ARTICULO 18.
 
@@ -141,9 +153,9 @@ El Presidente de la Diputación Permanente o del Congreso, en caso de prórroga,
 
 "¿Protestáis sin reserva guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Diputados que el Pueblo os ha conferido, mirando en todo por el bien y prosperidad del Pueblo Tamaulipeco?".
 
-Los interrogados puestos de pie en sus respectivos lugares y levantando la mano derecha a la altura del pecho contestaran:
-
 > <small>(F. DE E., P.O. 2 DE AGOSTO DE 1986)</small>
+
+Los interrogados puestos de pie en sus respectivos lugares y levantando la mano derecha a la altura del pecho contestaran:
 
 "Sí protesto"; el Presidente dirá entonces: "Si así lo hiciereis, la Nación y el Estado os lo premien, si no, que el Pueblo os lo demande".
 
@@ -161,9 +173,9 @@ El día uno de enero siguiente el Congreso procederá a la elección de la Mesa 
 
 ###### ARTICULO 23.
 
-Las sesiones del Congreso serán presididas por una Mesa Directiva integrada por un Presidente, dos Secretarios y un Suplente, electos por la Asamblea mediante votación por cédula.
+Las Sesiones del Congreso serán presididas por una Mesa Directiva integrada por un Presidente, dos Secretarios y un Suplente, electos por la Asamblea mediante votación por cédula.
 
-La elección de los integrantes de la Mesa Directiva del Congreso se comunicará a los titulares del Poder Ejecutivo, del Poder Judicial del Estado, a los Ayuntamientos de la Entidad, a la Secretaría de Gobernación, a las Cámaras del Congreso de la Unión y a las Legislaturas de los Estados.
+La elección de los integrantes de la Mesa Directiva del Congreso se comunicará a los titulares del Poder Ejecutivo, del Poder Judicial del Estado, a los Ayuntamientos de la Entidad, a la Secretaria de Gobernación, a las Cámaras del Congreso de la Unión y a las Legislaturas de los Estados.
 
 ###### ARTICULO 24.
 
@@ -511,7 +523,7 @@ Si por causa extraordinaria el Congreso se disolviere sin haber nombrado la Dipu
 
 ###### ARTICULO 76.
 
-A falta de quórum en la Diputación Permanente, por muerte o imposibilidad justificada ocurrida en alguno o algunos de sus miembros, el Diputado que de ella quede convocará a los Diputados más inmediatos para que integren la Diputación, los que funcionarán con el carácter de interinos mientras cesen los impedimentos de los que la integran o se reúna el Congreso; el Diputado que convoque en este caso, ejercerá la Presidencia aunque no la tenga por nombramiento del Congreso y él mismo nombrará al o los Secretarios.
+A falta de quórum en la Diputación Permanente, por muerte o imposibilidad justificada ocurrida en alguno o algunos de sus miembros, el Diputado que de ella quede convocará a los Diputados más inmediatos para que integren la Diputación, los que funcionarán con el carácter de Interinos mientras cesen los impedimentos de los que la integran o se reúna el Congreso; el Diputado que convoque en este caso, ejercerá la Presidencia aunque no la tenga por nombramiento del Congreso y él mismo nombrará al o los Secretarios.
 
 ###### ARTICULO 77.
 
@@ -551,4 +563,12 @@ Quedan derogadas cualesquiera otras disposiciones que se opongan a la presente L
 
 En la primera Sesión, después de iniciar su vigencia esta Ley, la Gran Comisión propondrá la reestructuración de las Comisiones Permanentes conforme a esta Ley.
 
-SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 2 de abril de 1986.- Diputado Presidente, NICOLAS MARTINEZ NIETO.- Diputado Secretario, C.P. MARIO ALEJO SALINAS PEÑA.- Diputado Secretario, JOSE CONCEPCION WALLE MATA.- Rúbricas..
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 2 de abril de 1986.- Diputado Presidente, NICOLAS MARTINEZ NIETO.- Diputado Secretario, C.P. MARIO ALEJO SALINAS PEÑA.- Diputado Secretario, JOSE CONCEPCION WALLE MATA.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 22 DE ABRIL DE 1989
+
+PRIMERO.- Se deroga toda disposición que se oponga al contenido de este Decreto.
+
+SEGUNDO.- El presente Ordenamiento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
