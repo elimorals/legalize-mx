@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2000-03-23"
+last_updated: "2000-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 2000.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -1735,7 +1735,7 @@ Los gastos que se hubieren causado para hacer efectivo el título, serán a carg
 
 ###### Art. 308.
 
-Igualmente corresponden a cada cónyuge los bienes adquiridos por compra o permuta de los raíces que le pertenezcan, para adquirir otros también raíces que se sustituyan por venta o permuta.
+Igualmente corresponden a cada cónyuge los bienes adquiridos por compra o permuta de los raíces (sic) que le pertenezcan, para adquirir otros también raíces que se sustituyan por venta o permuta.
 
 ###### Art. 309.
 
@@ -5541,9 +5541,17 @@ g) Los casos y condiciones en que pueda ser modificado el propio reglamento; y
 
 h) La transformación y extinción del condominio; y
 
-XII. Se agregarán los planos de zonificación del predio del condominio, los planos generales de la edificación y los planes de cada una de las unidades privativas, los que deberán tener siempre la referencia a escala.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2000)</small>
 
-La escritura indicada deberá ser inscrita en el Registro Público de la Propiedad.
+XII. La forma en que los condóminos responderán del pago de las cuotas establecidas en el artículo 1026;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ABRIL DE 2000)</small>
+
+XIII. Se agregarán los planos de zonificación del condominio, los generales de la edificación y los de las unidades privativas.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2000)</small>
+
+La escritura constitutiva del régimen de condominio deberá inscribirse en el Registro Público de la Propiedad.
 
 ###### Art. 1007.
 
@@ -5579,6 +5587,10 @@ XIV. Los muros de carga y las azoteas; y
 
 XV. Los demás que por su naturaleza y destino tengan ese fin.
 
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2000)</small>
+
+El administrador llevará un inventario completo y actualizado de todos los bienes muebles e inmuebles, de uso general pertenecientes al condominio.
+
 ###### Art. 1008.
 
 Cada condómino podrá servirse de los bienes comunes y gozar de los servicios e instalaciones generales, conforme a su naturaleza y destino ordinario, sin restringir o hacer más oneroso el derecho de los demás.
@@ -5586,6 +5598,10 @@ Cada condómino podrá servirse de los bienes comunes y gozar de los servicios e
 Los derechos de cada condómino en los bienes comunes son esenciales a sus derechos de propiedad individual, por ello cualquier afectación o disposición de la misma, se entiende referida a los bienes comunes.
 
 El condómino que no haga uso de su propiedad o de algunos bienes comunes, no quedará exento de las obligaciones que le competan como tal.
+
+(ADICIONADO, P.O. 20 DE ABRIL DE 2000) (F. DE E., P.O. 16 DE DICIEMBRE DE 2000)
+
+Para conservar la armonía del condominio, cada vecino procurará hacer uso de su unidad privativa sin afectar la tranquilidad de los demás condóminos, ni destinarla a usos contrarios a los señalados en la escritura constitutiva.
 
 ###### Art. 1009.
 
@@ -5601,19 +5617,45 @@ Dichas obras serán dirigidas en su ejecución por el administrador, con la vigi
 
 No se realizarán obras que atenten a la estabilidad e infraestructura del edificio, o que menoscaben la seguridad o comodidad del condominio, así como que impidan permanentemente el uso de una parte o un servicio común aunque sólo sea a un condómino; a no ser que éste consienta y sea indemnizado proporcionalmente por los demás; y
 
-IV. Las reparaciones urgentes a bienes comunes serán efectuadas por el administrador, sin necesidad de autorización previa y en caso de no hacerse en el tiempo prudente, se mandarán realizar por cualquier condómino quien deberá ser reembolsado por los gastos que impliquen las mismas en la forma proporcional a los intereses que representen los condóminos, sin perjuicio de que el pago se le haga de manera inmediata afectándose cualquier provisión económica que exista en caja, salvo aquéllas que estén destinadas a los pagos de impuestos, derechos, cuotas a organismos de seguridad social, salarios y proveedores del condominio.
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2000)</small>
+
+IV. Las reparaciones urgentes a bienes o instalaciones comunes cuyo desperfecto ponga en peligro la seguridad de los condóminos, la integridad del inmueble o que impidan el buen funcionamiento de los servicios comunes, deberán ser efectuadas por el administrador en tiempo prudente, de no hacerlo o a falta de administrador, se mandarán realizar por cualquier condómino, sin necesidad de autorización previa, a quien le serán reembolsados los gatos de las mismas, repartiendo el costo entre los condóminos, debiéndose someter finalmente dicho pago a justificación y comprobación en la próxima asamblea de condóminos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ABRIL DE 2000)</small>
 
 ###### Art. 1010.
 
-Cada condómino podrá realizar las obras y adaptaciones que correspondan a su unidad privativa, pero no podrá realizarse ninguna innovación o modificación que afecte la estructura, la cimentación, las paredes maestras, las azoteas, las redes de descargas de agua residuales, y en fin aquellas que puedan perjudicar la estética, la seguridad, la durabilidad o la comodidad del edificio.
+Cada condómino podrá realizar las obras y adaptaciones que correspondan a su unidad privativa, pero no podrá realizarse ninguna innovación o modificación que afecte la estructura, la cimentación, las paredes maestras, las azoteas, las redes de descargas de aguas residuales, ni aquellas que puedan perjudicar la estética, la seguridad, la durabilidad o la comodidad del edificio.
 
 Todos los proyectos de adaptación deberán aprobarse previamente por el consejo de administración del condominio.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2000)</small>
+
+Art. 1010 bis.- Los condóminos y en general los ocupantes del condominio no podrán, sino con el consentimiento de la asamblea y con arreglo a las leyes aplicables:
+
+I. Realizar acto alguno que afecte la tranquilidad y comodidad de los demás condóminos y ocupantes, o que comprometa la estabilidad, seguridad o salubridad del condominio, ni incurrir en omisiones que produzcan los mismos resultados;
+
+II. Efectuar actos en el exterior o en el interior de su unidad privativa, que impida o haga ineficaz la operación de los servicios comunes e instalaciones generales, limite o dificulte el uso de las áreas comunes o ponga en riesgo la seguridad o tranquilidad de los condóminos u ocupantes;
+
+III. Realizar obras o reparaciones en horarios nocturnos, salvo por causa de fuerza mayor;
+
+IV. Derribar o trasplantar árboles y cambiar el uso o naturaleza de las áreas verdes;
+
+V. Modificar, alterar ni destruir las áreas de uso común; y
+
+VI. Poseer animales que por su número, tamaño o naturaleza afecten las condiciones de seguridad, comodidad o salubridad de los condóminos.
+
+El infractor de estas disposiciones, independiente de las sanciones que establece este título, será responsable por el pago de los daños y perjuicios.
 
 ### CAPITULO VI. De las controversias
 
 ###### Art. 1011.
 
 Los bienes afectos al régimen de condominio serán administrados por quien se designe en la asamblea de condóminos, pudiendo recaer este cargo a una persona física o jurídica.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2000)</small>
+
+Si el cargo de administrador recae en condómino deberá acreditar previamente tener cubiertas sus cuotas.
 
 La designación del primer administrador, cuyo encargo no podrá exceder del término de un año, compete a quien constituye el régimen de condominio.
 
@@ -5622,6 +5664,10 @@ En los condominios compuestos, la designación del administrador en caso de requ
 En los condominios de servicios municipales, cuando no se haga la designación por los condóminos o el designado no se presentare a desempeñar su cargo, o lo abandonare, a petición de condóminos que representen el veinte por ciento de derechos, podrá la autoridad municipal hacer la designación que corresponda y estará en funciones todo el tiempo que sea necesario para ello a discreción del síndico del ayuntamiento.
 
 En los condominios de servicios municipales destinados a cementerios, la designación siempre será hecha por el ayuntamiento del lugar de ubicación del condominio.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2000)</small>
+
+Cuando la asamblea de condóminos decida contratar servicios profesionales para su administración, el comité de vigilancia deberá celebrar contrato correspondiente conforme a las disposiciones aplicables, el cual no podrá exceder de un año, pudiendo ser renovado en tanto la asamblea de condóminos no determine lo contrario.
 
 ###### Art. 1012.
 
@@ -5676,6 +5722,10 @@ X. Las demás que le confiera este código o cualquier otro ordenamiento que le 
 El acta que se levante con motivo de la designación del administrador y en su caso el otorgamiento de la fianza que se constituya para el desempeño de su cargo, serán protocolizadas y se tomará nota de ellas en la inscripción que al efecto se lleve en el Registro Público de la Propiedad, relativa a la constitución del régimen de propiedad en condominio.
 
 Cuando la designación sea hecha por el ayuntamiento, bastará para su inscripción una copia certificada que expida el secretario del mismo, para proceder en los términos antes señalados.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2000)</small>
+
+Art. 1013 bis.- Cuando la asamblea de condóminos designe una nueva administración, la saliente deberá entrega en un término que no exceda de quince días naturales al día de la designación, todos los documentos incluyendo los estados de cuenta, valores, muebles, inmuebles, y demás bienes que tuviera bajo su resguardo y responsabilidad, sin que dicho plazo pueda ampliarse sino por causa justificada que acrediten tal demora.
 
 ### CAPITULO VII. De la destrucción y extinción
 
@@ -5858,6 +5908,12 @@ El estado de cuenta aquí indicado deberá precisar con toda claridad el importe
 Cuando se trate de condominios de servicios municipales el cobro de los adeudos podrá hacerse por conducto de la Tesorería Municipal del lugar de ubicación del condominio, considerándose para todos los efectos legales como créditos municipales.
 
 Los ocupantes o usuarios del condominio por cualquier título, son solidariamente responsables con los condóminos del pago de las cuotas ordinarias y extraordinarias que se establezcan, así como de cualquier responsabilidad que les resulte a sus acciones.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2000)</small>
+
+Art. 1029 bis.- Todo condómino tendrá derecho a que se le expida del (sic) estado de cuenta que guarde en el condominio.
+
+Cuando se celebre un contrato traslativo de dominio en relación a una unidad privativa, el notario público que elabore la escritura, deberá exigir a la parte vendedora la entrega de la constancia de no adeudo expedida por el administrador del condominio.
 
 ###### Art. 1030.
 
@@ -10537,7 +10593,7 @@ Las donaciones hechas simulando otro contrato a personas que conforme a la ley n
 
 ###### Art. 1943.
 
-Las donaciones legalmente hechas por una persona, que al tiempo de otorgarlas, no tenía hijos, pueden ser revocadas por el donante cuando le hayan sobrevenido hijos que han nacido y que hallan sido viables.
+Las donaciones legalmente hechas por una persona, que al tiempo de otorgarlas, no tenía hijos, pueden ser revocadas por el donante cuando le hayan sobrevenido hijos que han nacido y que hallan (sic) sido viables.
 
 Si transcurren cinco años desde que se hizo la donación y el donante no ha tenido hijos o habiéndolos tenido no ha revocado la donación, ésta se volverá irrevocable. Lo mismo sucede si el donante muere dentro de ese plazo de cinco años sin haber revocado la donación.
 
@@ -16864,5 +16920,9 @@ P.O. 15 DE AGOSTO DE 1998.
 ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 23 DE MARZO DE 2000.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 20 DE ABRIL DE 2000.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
