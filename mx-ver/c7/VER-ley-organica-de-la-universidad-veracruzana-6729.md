@@ -4,7 +4,7 @@ identifier: "VER-ley-organica-de-la-universidad-veracruzana-6729"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-12-25"
-last_updated: "1996-12-28"
+last_updated: "1997-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6729&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DE LA UNIVERSIDAD VERACRUZANA
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MARZO DE 1997.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 25 de diciembre de 1993.
 
@@ -1463,17 +1463,7 @@ Su designación, requisitos y atribuciones se establecerán en el estatuto corre
 
 ###### ARTICULO 97.
 
-Para que se dé la figura referida en la fracción III del artículo anterior, se deberán cumplir las condiciones siguientes:
-
-I. Que existan un proyecto de investigación compartido entre un Maestro con uno o más Investigadores;
-
-II. Que la carga docente asignada al maestro, sea compartida por uno más investigadores con quienes se realice el proyecto, sin que ello implique pagos adicionales;
-
-III. Que el proyecto de investigación compartida cumpla con los requisitos que establece la legislación universitaria; y
-
-IV. Que la propuesta para compartir la carga del docente cuente con la aprobación del Director de la Facultad;
-
-La figura de docente-investigador tendrá la duración que requiera el proyecto de Investigación compartida que le dio origen.
+(DEROGADO, G.O. 15 DE MARZO DE 1997)
 
 ###### ARTICULO 98.
 
@@ -1666,3 +1656,9 @@ TERCERO. Los Directores de facultades e institutos nombrados en los términos de
 CUARTO. El Gobierno del Estado, a través de su Contraloría General, llevará a efecto los actos de auditoría para el periodo del primero de enero al treinta y uno de agosto de mil novecientos noventa y siete.
 
 QUINTO. La Controlaría General de la Universidad dependerá del Rector hasta el último día hábil del mes de agosto de mil novecientos noventa y siete.
+
+G.O. 15 DE MARZO DE 1997.
+
+Unico.- La presente ley entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.G.O. 15 DE MARZO DE 1997
+
+Unico.- La presente ley entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
