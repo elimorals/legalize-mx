@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-7805"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-30"
-last_updated: "1998-12-30"
+last_updated: "1999-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 30 de diciembre de 1992.
 
@@ -939,15 +939,17 @@ l). Por expedición de permisos provisional para circular sin placas por 15 día
 
 j). Otros 3.0 D.S.M.G.V.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 52 Bis.
 
-Para el pago de los derechos a que se refiere el artículo anterior, se observará lo siguiente:
+Para el pago de los derechos a que se refieren los artículos 52 fracción II, inciso E) y 52-A, fracción V de esta Ley se observará, lo siguiente:
 
-I. Tratándose de canje periódico general de placas de circulación, los derechos correspondientes deberán pagarse a más tardar, el día 31 de marzo del año para el que se realice el canje;
+I. Tratándose de canje de período general de placas de circulación, los derechos correspondientes deberán pagarse a más tardar el último día del mes abril de cada año para el que se realice el canje.
 
-II. Tratándose de refrendo anual de tarjetas de circulación y calcomanías de automóviles, camiones, camionetas, tractores, automotores, remolques, semirremolques y otros vehículos, los derechos correspondientes deberán pagarse a más tardar el 31 de marzo del año para el que se realice el refrendo.
+II. Tratándose de refrendo anual de tarjetas de circulación y calcomanías de automóviles, camiones, camionetas, tractores, automotores, remolque, semiremolques y otros vehículos, los derechos correspondientes deberán pagarse a más tardar el último día del mes de abril de cada año para el que se realice el refrendo.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 52-A.
 
@@ -1007,17 +1009,37 @@ IX. Búsqueda de documentos 5.0 D.S.M.G.V.
 
 X. Otros 3.0 D.S.M.G.V.
 
-### CAPITULO TERCERO. DE LOS SERVICIOS PRESTADO (SIC) POR LA SECRETARIA DE EDUCACION, CULTURA Y RECREACION
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+### CAPITULO TERCERO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARIA DE EDUCACION EN EL ESTADO
 
 #### SECCION UNICA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
 ###### Artículo 53.
 
-Por los servicios prestados por la Secretaría de Educación, Cultura y Recreación se causarán y pagarán las siguientes tarifas:
+Por los servicios prestados por la Secretaría de Educación en el Estado se causarán y pagarán las siguientes tarifas:
 
-I. Registro de planteles educativos particulares 100.0 D.S.M.G.V.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1999)</small>
 
-II. Refrendo anual del registro de planteles educativos particulares 50.0 D.S.M.G.V.
+I. Por el registro de planteles educativos particular:
+
+a) Educación inicial, preescolar y de capacitación para el trabajo 20.0 D.S.M.G.V.
+
+b) Educación primaria y secundaria 50.0 D.S.M.G.V.
+
+c) Educación media terminal, media superior y superior 100.0 D.S.M.G.V.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+II. Por refrendo anual del registro de planteles educativos particulares:
+
+a) Educación inicial, preescolar y de capacitación para el trabajo 10.0 D.S.M.G.V.
+
+b) Educación primaria y secundaria 25.0 D.S.M.G.V.
+
+c) Educación media terminal, media superior y superior 50.0 D.S.M.G.V.
 
 III. Reconocimiento de validez oficial de estudios a particulares por cada plan de estudios:
 
@@ -1028,6 +1050,72 @@ b) Medio 10.0 D.S.M.G.V.
 IV. Compulsa de documentos de estudios 3.0 D.S.M.G.V.
 
 V. Incorporación de escuelas particulares 200.0 D.S.M.G.V.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1999)</small>
+
+VI. Otros servicios educativos.
+
+Por expedición de título 10 D.S.M.G.V.
+
+Por certificación de documento 10 D.S.M.G.V.
+
+Por legalización de documento 1 D.S.M.G.V.
+
+Por legalización de documentos de otros Estados 2 D.S.M.G.V.
+
+Por examen profesional de:
+
+a) Educación media superior 2 D.S.M.G.V.
+
+b) Educación superior 10 D.S.M.G.V.
+
+Por examen a título de suficiencia de:
+
+a) Educación primaria 2 D.S.M.G.V.
+
+b) Educación secundaria 5 D.S.M.G.V.
+
+Por expedición de diploma de:
+
+a) Educación secundaria 2 D.S.M.G.V.
+
+b) Capacitación para el trabajo 2 D.S.M.G.V.
+
+c) Educación media superior 2 D.S.M.G.V.
+
+d) Educación superior 3 D.S.M.G.V.
+
+Por acreditación y certificación de conocimiento por programa de:
+
+a) Educación primaria 1 D.S.M.G.V.
+
+b) Educación secundaria 2 D.S.M.G.V.
+
+Por duplicado de certificado de:
+
+a) Educación primaria 2 D.S.M.G.V.
+
+b) Educación secundaria 2 D.S.M.G.V.
+
+c) Educación media superior 3 D.S.M.G.V.
+
+d) Educación superior 4 D.S.M.G.V.
+
+Por revalidación de estudios de:
+
+a) Educación básica 1 D.S.M.G.V.
+
+b) Educación media superior 5 D.S.M.G.V.
+
+c)Educación superior 15 D.S.M.G.V.
+
+Por equivalencia de estudios de:
+
+a) Educación básica 1 D.S.M.G.V.
+
+b) Educación media superior 5 D.S.M.G.V.
+
+c) Educación superior 15 D.S.M.G.V.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
@@ -1364,3 +1452,13 @@ P.O. 30 DE DICIEMBRE DE 1998.
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
 
 Artículo segundo.- Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 1999.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
