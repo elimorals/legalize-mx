@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1996-12-30"
+last_updated: "1997-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIVA"
 
 LEY DEL IMPUESTO AL VALOR AGREGADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE MAYO DE 1997.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -416,7 +416,9 @@ No se pagará el impuesto por la prestación de los siguientes servicios:
 
 I.- Las comisiones y otras contraprestaciones que cubra el acreditado a su acreedor con motivo del otorgamiento de créditos hipotecarios para la adquisición, ampliación, construcción o reparación de bienes inmuebles destinados a casa habitación, salvo aquéllas que se originen con posterioridad a la autorización del citado crédito o que se deban pagar a terceros por el acreditado.
 
-II.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
+> <small>(ADICIONADA, D.O.F. 15 DE MAYO DE 1997)</small>
+
+II.- Las comisiones que cobren las administradoras de fondos para el retiro o, en su caso, las instituciones de crédito, a los trabajadores por la administración de sus recursos provenientes de los sistemas de ahorro para el retiro y por los servicios relacionados con dicha administración, a que se refieren la Ley de los Sistemas de Ahorro para el Retiro y la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, así como las demás disposiciones derivadas de éstas.
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
 
@@ -994,7 +996,7 @@ Obligaciones
 
 La Secretaría de Hacienda y Crédito Público celebrará convenio con los Estados que soliciten adherirse al Sistema Nacional de Coordinación Fiscal para recibir participaciones en los términos de la Ley de Coordinación Fiscal, conviniendo en no mantener impuestos locales o municipales sobre:
 
-> <small>(REFORMADA POR ARTICULO SEPTIMO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE ESTABLECE Y MODIFICA DIVERSAS LEYES FISCALES, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 I.- Los actos o actividades por los que deba pagarse el impuesto al valor agregado o sobre las prestaciones o contraprestaciones que deriven de los mismos, ni sobre la producción de bienes cuando por su enajenación deba pagarse dicho impuesto, excepto la prestación de servicios de hospedaje, campamentos, paraderos de casas rodantes y de tiempo compartido.
 
@@ -1002,11 +1004,11 @@ Para los efectos de esta fracción, en los servicios de hospedaje, campamentos, 
 
 Los impuestos locales o municipales que establezcan las entidades federativas en la enajenación de bienes o prestación de servicios mencionados en esta fracción, no se considerarán como valor para calcular el impuesto a que se refiere esta Ley.
 
-> <small>(REFORMADA POR ARTICULO NOVENO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO POR EL QUE SE EXPIDEN NUEVAS LEYES FISCALES Y SE MODIFICAN OTRAS, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 II.- La enajenación de bienes o prestación de servicios cuando una u otras se exporten o sean de los señalados en los artículos 2o.-A y 2o.-C de esta Ley.
 
-> <small>(REFORMADA POR ARTICULO NOVENO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO POR EL QUE SE EXPIDEN NUEVAS LEYES FISCALES Y SE MODIFICAN OTRAS, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 III.- Los bienes que integren el activo o sobre la utilidad o el capital de las empresas, excepto por la tenencia o uso de automóviles, ómnibuses, camiones y tractores no agrícolas tipo quinta rueda, aeronaves, embarcaciones, veleros, esquíes acuáticos motorizados, motocicleta acuática, tabla de oleaje con motor, automóviles eléctricos y motocicletas.
 
@@ -1575,6 +1577,12 @@ II.- Durante el ejercicio de 1997 el impuesto al valor agregado sobre el servici
 ## Transitorio
 
 UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1997.
+
+D.O.F. 15 DE MAYO DE 1997.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 415.- SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 150 Y LA FRACCIÓN D) Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 156 DE LA LEY ESTATAL DE SALUD; ASÍ MISMO, SE MODIFICA LA FRACCIÓN XXIII DEL ARTÍCULO 64 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
