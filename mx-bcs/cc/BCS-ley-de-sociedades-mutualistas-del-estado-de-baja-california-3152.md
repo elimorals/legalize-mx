@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-sociedades-mutualistas-del-estado-de-baja-california-315
 country: "mx"
 rank: "ley"
 publication_date: "1988-11-30"
-last_updated: "1988-11-30"
+last_updated: "1993-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SOCIEDADES MUTUALISTAS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 30 de noviembre de 1988.
 
@@ -83,9 +83,11 @@ F).- Indicación precisa de los casos o motivos de disolución de las Sociedades
 
 G).- La manifestación expresa de que en caso de disolución los bienes muebles o inmuebles no serán vendidos, sino que pasarán a otra Sociedad Mutualista local o regional para su uso, o a la Federación de Sociedades Mutualistas de Baja California Sur, o, en su defecto a una institución de asistencia social de la jurisdicción.
 
+> <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO OCTAVO.
 
-Las Sociedades Mutualistas por ningún motivo podrán intervenir en asuntos políticos o religiosos, ni destinar fondos para estos fines. Para los efectos de ampliación de su radio de acción y de colaboración social, podrán constituír una Federación en el Estado con un mínimo de cuatro Sociedades, conforme esta Ley, y formar parte de la Confederación Nacional de Sociedades Mutualistas de la República Mexicana, llenándose los mismos requisitos, en lo conducente, que se determinaron para una Sociedad Mutualista.
+Las Sociedades Mutualistas por ningún motivo podrán intervenir en asuntos políticos o religiosos, ni destinar fondos para estos fines. Para los efectos de ampliación de su radio de acción y de colaboración social, sólo podrá constituirse una Federación en el Estado, con un mínimo de cuatro Sociedades, conforme esta ley, y formar parte de la Confederación Nacional de Sociedades Mutualistas de la República Mexicana, llenándose los mismos requisitos, en lo conducente, que se determinaron para una Sociedad Mutualista.
 
 ###### ARTICULO NOVENO.
 
@@ -120,3 +122,11 @@ LIC. VICTOR MANUEL LICEAGA RUIBAL.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. MARIO VARGAS AGUlAR.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 10 DE DICIEMBRE DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
