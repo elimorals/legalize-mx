@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "1982-10-22"
+last_updated: "1982-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE OCTUBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1982.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -2958,7 +2958,7 @@ La Inspección del Trabajo vigilará el cumplimiento de las normas a que se refi
 
 ### CAPITULO II. Sindicatos, Federaciones y Confederaciones
 
-###### Artículo 353-A.
+###### Artículo 353- A.
 
 Para los efectos de este Capítulo, se entiende por:
 
@@ -4778,7 +4778,7 @@ Dichas autorizaciones se otorgarán previa solicitud del interesado, cuando a ju
 
 ### CAPITULO VIII. Procedimiento ante las Comisiones Nacional y Regionales de los Salarios Mínimos
 
-> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### Artículo 540.
 
@@ -5132,21 +5132,23 @@ VI. Los demás que les confieran las leyes.
 
 Los salarios mínimos se fijarán cada año y comenzarán a regir el primero de enero del año siguiente.
 
+La Comisión de los Salarios Mínimos y el Secretario del Trabajo y Previsión Social podrán solicitar la revisión de los salarios mínimos, durante su vigencia, siempre que las circunstancias económicas lo justifiquen.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
 ###### Artículo 571.
 
 En la fijación de los salarios mínimos por las Comisiones Regionales, se observarán las normas siguientes:
 
-> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
+I.- Los trabajadores y los patrones a más tardar el último día de octubre, podrán presentar los estudios que juzguen conveniente acompañados de las pruebas que los justifiquen.
 
-I.- Los trabajadores y los patrones a más tardar el último día de agosto, podrán presentar los estudios que juzguen conveniente acompañados de las pruebas que los justifiquen;
+II.- La Dirección Técnica de la Comisión Nacional hará llegar a las Comisiones regionales en el curso de los primeros quince días del mes de octubre los informes a que se refiere la fracción IV del artículo 562 de esta ley.
 
-> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
+III. Las Comisiones dispondrán de un término que vencerá el quince de noviembre para estudiar los informes de la Dirección Técnica de la Comisión Nacional y los estudios presentados por los trabajadores y los patrones, efectuar directamente las investigaciones y estudios que juzgue conveniente y dictar resolución, fijando los salarios mínimos.
 
-II.- Las Comisiones dispondrán de un término que vencerá el treinta de septiembre para estudiar los informes de la Dirección Técnica de la Comisión Nacional y los estudios presentados por los trabajadores y los patrones, efectuar directamente las investigaciones y estudios que juzguen conveniente y dictar resolución fijando los salarios mínimos.
+Dentro del mismo término podrán solicitar de la Dirección Técnica de la Comisión Nacional investigaciones y estudios complementarios; y
 
-Dentro del mismo término podrán solicitar de la Dirección Técnica investigaciones y estudios complementarios; y
-
-III. Los Presidentes de las Comisiones, dentro de los cinco días siguientes a la fecha de resolución, ordenarán su publicación y remitirán el expediente a la Comisión Nacional.
+IV. Los Presidentes de las Comisiones, dentro de los cinco días siguientes a la fecha de la resolución, ordenarán su publicación y remitirán el expediente a la Comisión Nacional.
 
 ###### Artículo 572.
 
@@ -5158,25 +5160,37 @@ II. El salario mínimo del campo; y
 
 III. Los salarios mínimos profesionales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### Artículo 573.
 
 En la fijación de los salarios mínimos por la Comisión Nacional, se observarán las normas siguientes:
 
-I. Los trabajadores y los patrones, dentro de los diez días siguientes a la fecha en que se publique la resolución de cada Comisión Regional, podrán hacer las observaciones y presentar los estudios que juzguen conveniente, acompañándolos de las pruebas que los justifiquen;
+I. En el caso del primer párrafo del artículo 570:
 
-II. El Consejo de Representantes, dentro de los treinta días siguientes a la fecha en que reciba cada uno de los expedientes, estudiará las resoluciones y las observaciones y estudios presentados por los trabajadores y los patrones y dictará resolución confirmando o modificando las que hubiesen dictado las Comisiones Regionales. Podrá efectuar directamente las investigaciones y estudios que juzgue conveniente y solicitar de la Dirección Técnica estudios complementarios;
+a) Los trabajadores y los patrones, dentro de los diez días siguientes a la fecha en que se publique la resolución de cada Comisión Regional, podrán hacer las observaciones y presentar los estudios que juzguen conveniente, acompañándolos de las pruebas que los justifiquen;
 
-> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
+b) El Consejo de Representantes, en el curso del mes de diciembre, dictará resolución confirmando o modificando las que hubiesen dictado las Comisiones Regionales después de estudiar las resoluciones correspondientes y las observaciones y estudios presentados por los trabajadores y los patrones. Para tal efecto podrá realizar directamente las investigaciones y estudios que juzgue conveniente y solicitar de la Dirección Técnica estudios complementarios.
 
-III.- Si alguna de las Comisiones Regionales no dictare resolución dentro del término señalado en el Artículo 571 Fracción II, o el expediente no se hubiere recibido a más tardar el treinta y uno de octubre, el Consejo de Representantes dictará la resolución correspondiente, después de estudiar el informe de la Dirección Técnica y en su caso los estudios presentados por los trabajadores y patrones ante la Comisión Regional, y de efectuar directamente las investigaciones y estudios que juzgue convenientes;
+c) Si alguna de las Comisiones Regionales no dictare resolución dentro del término señalado en el artículo 571 fracción III, o el expediente no se hubiere recibido a más tardar el treinta de noviembre, el Consejo de Representantes dictara la resolución correspondiente después de estudiar el informe de la Dirección Técnica y en su caso los estudios presentados por los trabajadores y por los patrones ante la Comisión Regional y de efectuar directamente las investigaciones y estudios que juzgue convenientes.
 
-IV. La Comisión Nacional expresará en su resolución los fundamentos que la justifiquen. A este fin, deberá tomar en consideración los expedientes tramitados ante las Comisiones Regionales, las investigaciones y estudios que hubiese efectuado y las observaciones y estudios presentados por los trabajadores y patrones; y
+d) La Comisión Nacional expresará en su resolución los fundamentos que la justifiquen. A este fin, deberá tomar en consideración los expedientes tramitados ante las Comisiones Regionales, las investigaciones y estudios que hubiese efectuado y las observaciones y estudios presentados por los trabajadores y patrones; y
 
-> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
+e) Dictada la resolución, el Presidente de la Comisión ordenará su publicación en el Diario Oficial de la Federación, la que deberá hacerse a más tardar el treinta y uno de diciembre.
 
-V.- Dictada la resolución, el Presidente de la Comisión ordenará su publicación en el “Diario Oficial” de la Federación, la que deberá hacerse a más tardar el treinta y uno de diciembre.
+II. Para lo dispuesto en el segundo párrafo del artículo 570:
+
+a) El Secretario del Trabajo y Previsión Social formulará al Presidente de la Comisión Nacional de los Salarios Mínimos, solicitud que contenga exposición de los hechos que la motive, para que se convoque a las Comisiones Regionales y al Consejo de Representantes de la propia Comisión Nacional, a fin de que procedan a la revisión de los salarios mínimos vigentes.
+
+b) El Presidente de la Comisión Nacional someterá la solicitud a que alude el inciso anterior a las Comisiones Regionales y al Consejo de Representantes de la Comisión Nacional, dentro de los tres días siguientes a la fecha en que la haya recibido y ordenará dentro del mismo término a la Dirección Técnica la preparación de un informe que considere la evolución del poder adquisitivo, las tendencias generales de los precios, las condiciones económicas prevalecientes y, en general, todos aquellos elementos que estime convenientes para que las Comisiones Regionales y el Consejo de Representantes puedan disponer de información relevante para revisar los salarios mínimos vigentes y fijar, en su caso, los que deban establecerse;
+
+c) La Dirección Técnica dispondrá de un término de diez días, a partir de la fecha en que hubiere sido instruida por el Presidente de la Comisión Nacional, para elaborar el informe a que se refiere el inciso anterior y distribuirlo a las Comisiones Regionales. Las mencionadas Comisiones dispondrán de un término de cinco días, a partir de la fecha en que hubieren recibido el informe de la Dirección Técnica para emitir y hacer llegar a la Comisión Nacional su resolución y los fundamentos que la justifiquen. Dicha resolución determinará el salario mínimo general, el salario mínimo del campo y los salarios mínimos profesionales;
+
+d) El Consejo de Representantes, dentro de los cinco días siguientes a la fecha en que reciba cada uno de los expedientes, estudiará las resoluciones de las Comisiones Regionales y dictará resolución confirmando o modificando las que hubiesen dictado dichas Comisiones. Si alguna de éstas no dictare resolución dentro del término establecido en el inciso c), o ésta no se hubiere recibido en la Comisión Nacional en el término señalado, el Consejo de Representantes dictará la resolución correspondiente;
+
+e) La resolución de la Comisión Nacional establecerá la fecha en que deba iniciarse la vigencia de los nuevos salarios mínimos que se fijen, la cual no podrá ser posterior a diez días contados a partir de la fecha en que se emita la resolución. Los nuevos salarios mínimos estarán en vigor hasta el treinta y uno de diciembre, y
+
+f) El Presidente de la Comisión Nacional de los Salarios Mínimos ordenará la publicación de los nuevos salarios mínimos o en su caso, la permanencia de los vigentes, en el Diario Oficial de la Federación, dentro de los tres días siguientes a la fecha en que se haya emitido la resolución correspondiente.
 
 ###### Artículo 574.
 
@@ -6638,7 +6652,7 @@ La Junta, conforme a lo establecido en esta Ley, está obligada a expedir a la p
 
 El Pleno de la Junta Federal de Conciliación y Arbitraje o el de las Juntas Locales de Conciliación y Arbitraje, podrá acordar que los expedientes concluidos de manera definitiva sean dados de baja previa certificación de la microfilmación de los mismos o de su conservación a través de cualquier otro procedimiento técnico científico que permita su consulta.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 725.
 
@@ -6734,7 +6748,7 @@ Para computar los términos, los meses se regularán por el de treinta días nat
 
 Cuando el domicilio de la persona demandada se encuentre fuera del lugar de residencia de la Junta, ésta podrá ampliar el término de que se trate, en función de la distancia a razón de un día por cada 200 kilómetros, de 3 a 12 días, tomando en cuenta los medios de comunicación existentes.
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 738.
 
@@ -7212,7 +7226,7 @@ Tratándose de personas morales la confesional se desahogará por conducto de su
 
 Las partes podrán también solicitar que se cite a absolver posiciones personalmente a los directores, administradores, gerentes y, en general, a las personas que ejerzan funciones de dirección y administración, en la empresa o establecimiento, así como a los miembros de la directiva de los sindicatos, cuando los hechos que dieron origen al conflicto les sean propios y se les hayan atribuido en la demanda o contestación, o bien que por razones de sus funciones les deban ser conocidos.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 788.
 
@@ -9493,3 +9507,9 @@ D.O.F. 22 DE OCTUBRE DE 1982.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1982.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente del de su publicación en el Diario Oficial de la Federación.
