@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2003-12-31"
+last_updated: "2004-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -333,25 +333,19 @@ II.- La prestación de servicios mediante el sistema de tiempo compartido o de c
 
 III.- La prestación de servicios de paraderos de casas rodantes, móviles o autotransportables, mediante los cuales se otorga el espacio e instalaciones para el estacionamiento temporal de éstas; así como los servicios de campamento a través de los que se otorga espacio para acampar.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 A BIS.- Están obligados al pago de este impuesto, las personas físicas y morales que presten los servicios a que se refiere el artículo anterior, quienes podrán trasladar su importe a las personas que reciban dichos servicios.
-
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Artículo 41 B.- Es base para el cálculo de este impuesto el importe total de la contraprestación por concepto de hospedaje, sin incluir otros impuestos, alimentos, y demás servicios accesorios.
 
 Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, el ingreso que se obtenga por concepto de cuotas para el uso de las instalaciones.
 
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 A BIS.- Están obligados al pago de este impuesto, las personas físicas y morales que presten los servicios a que se refiere el artículo anterior, quienes podrán trasladar su importe a las personas que reciban dichos servicios.
+
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Artículo 41 C.- Este impuesto se determinará y liquidará, aplicando a la base a que se refiere el artículo anterior, la tasa del 2%.
-
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
-
-Artículo 41 C BIS-1.- Los contribuyentes enterarán el impuesto mensualmente mediante declaración definitiva que presentarán en la Receptoría de Rentas correspondiente a su domicilio o en las instituciones bancarias autorizadas, en las formas oficiales aprobadas para el efecto, a mas tardar el día 15 del mes siguiente a aquel en que se perciban las contraprestaciones.
-
-Si el contribuyente opera en dos o mas establecimientos, presentará declaración por cada uno de ellos, sustituyendo la homoclave del Registro Federal de Contribuyentes por una determinante numérica de tres dígitos diferente para cada establecimiento, la cual será progresiva, a partir del 001.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
@@ -360,6 +354,12 @@ Artículo 41 C BIS.- El impuesto establecido en este capítulo se causará en el
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Artículo 41 D.- Cuando los contribuyentes convengan la prestación de servicios de hospedaje con otros servicios accesorios incluidos, tales como transportación, alimentos, bebidas, uso de instalaciones u otros similares, deberán desglosar el monto que corresponda a hospedaje y sobre dicha cantidad calcularan el impuesto.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
+
+Artículo 41 C BIS-1.- Los contribuyentes enterarán el impuesto mensualmente mediante declaración definitiva que presentarán en la Receptoría de Rentas correspondiente a su domicilio o en las instituciones bancarias autorizadas, en las formas oficiales aprobadas para el efecto, a mas tardar el día 15 del mes siguiente a aquel en que se perciban las contraprestaciones.
+
+Si el contribuyente opera en dos o mas establecimientos, presentará declaración por cada uno de ellos, sustituyendo la homoclave del Registro Federal de Contribuyentes por una determinante numérica de tres dígitos diferente para cada establecimiento, la cual será progresiva, a partir del 001.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
@@ -394,8 +394,6 @@ III.- Cuando se imposibilite por cualquier medio el conocimiento de las operacio
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2000)</small>
 
 Artículo 41 G BIS.- El 98% de ingresos que perciba el Estado proveniente del impuesto a que se refiere este capítulo y de sus correspondientes recargos, se destinará al fomento, promoción y difusión de las actividades turísticas del Estado, para lo cual el gobierno estatal constituirá con dichos recursos los fideicomisos que estime necesarios, los cuales se encargarán de administrarlos e invertirlos exclusivamente en las actividades tendientes a la consecución de dicho objetivo, por conducto de los comités que al efecto se constituyan, en los que participarán representantes del Gobierno del Estado y del sector hotelero de la entidad, el 2% restante, se destinará para sufragar los gastos de administración del tributo.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 33.
 
@@ -433,6 +431,10 @@ Artículo 41 G BIS.- El 98% de ingresos que perciba el Estado proveniente del im
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2003)
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO IV. Del Impuesto Sobre Espectáculos Públicos
+
 ### CAPITULO VI. Del Impuesto Sobre Loterías, Rifas, Sorteos y Concursos
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 1997)</small>
@@ -457,17 +459,103 @@ Artículo 41 K.- Este impuesto se causará aplicando a la base señalada en el a
 
 Artículo 41 L.- El impuesto retenido conforme a lo dispuesto por el artículo 41 I, deberá ser enterado por las personas físicas, las morales o las unidades económicas sin personalidad jurídica que lleven a cabo las actividades señaladas en el artículo 41 H, ante la Receptoría de Rentas correspondiente, dentro de los quince días hábiles siguientes a la fecha de la retención, utilizando los formatos oficiales aprobados para el efecto.
 
-### CAPITULO IV. Del Impuesto Sobre Espectáculos Públicos
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+### CAPITULO VII. DEL IMPUESTO SOBRE NOMINAS
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+Artículo 41 M.- Son objeto de este impuesto las erogaciones efectuadas por concepto de remuneraciones al servicio personal subordinado prestado en el territorio del Estado de Colima.
+
+Para efectos de este impuesto quedan comprendidas dentro de las erogaciones a que se refiere el párrafo anterior, todas las prestaciones o contraprestaciones ordinarias o extraordinarias que deriven de una relación laboral, incluyendo anticipos, sobresueldos, viáticos, gastos de representación, comisiones, aguinaldo, primas dominicales, vacacionales y por antigüedad, premios, gratificaciones, participación patronal al fondo de ahorro, rendimientos y otros conceptos de naturaleza análoga. De igual manera, son objeto de este impuesto, los pagos efectuados a los administradores, comisarios, miembros de consejos directivos, de administración y de vigilancia de sociedades y asociaciones.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+Artículo 41 N.- Están obligados al pago de este impuesto las personas físicas, las personas morales y las unidades económicas sin personalidad jurídica, conforme a lo siguiente:
+
+I.- Los residentes en el Estado de Colima, respecto de todas las erogaciones que habitual o accidentalmente realicen por concepto de remuneraciones al servicio personal subordinado prestado en el territorio del Estado de Colima; y
+
+II.- Los residentes fuera del Estado de Colima, respecto de todas las erogaciones que habitual o accidentalmente realicen por concepto de remuneraciones al servicio personal subordinado prestado en el territorio del Estado de Colima.
+
+Quedan comprendidos como sujetos de este impuesto, entre otros, las asociaciones en participación a que se refiere la Ley General de Sociedades Mercantiles, las dependencias y entidades del Gobierno Federal, el Gobierno del Estado y las entidades paraestatales, los gobiernos municipales y sus respectivas entidades paramunicipales, las entidades autónomas, así como los fideicomisos constituidos por dependencias y entidades de la administración pública federal, por el Gobierno del Estado y por los gobiernos municipales.
+
+Se consideran unidades económicas sin personalidad jurídica a las empresas o cualquiera otra forma de asociación, que realicen actividades gravadas por las leyes fiscales y por las que deban pagar el impuesto establecido en este capítulo.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+Artículo 41 Ñ.- De igual forma, están obligados a retener y enterar este impuesto, las personas físicas, las personas morales, las unidades económicas sin personalidad jurídica y los demás sujetos del impuesto a que se refiere el artículo anterior, que contraten la prestación de servicios objeto de este impuesto con empresas residentes fuera del territorio del Estado de Colima.
+
+Cuando se efectúen las retenciones a que se refiere el párrafo anterior, los retenedores deberán proporcionar a la empresa prestadora del servicio, la constancia de retención correspondiente.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+Artículo 41 O.- Cuando no se efectúen las retenciones a que se refiere el artículo anterior, las autoridades fiscales presumirán, salvo prueba en contrario, que el impuesto omitido es el que resulte de aplicar la tasa a que se refiere el artículo 41 Q de esta Ley, al total de las contraprestaciones pactadas con el prestador del servicio, determinado en función del resultado que se obtenga respecto de los pagos realizados, en el ejercicio de las facultades de comprobación ejercidas con el retenedor del impuesto.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+Artículo 41 P.- Es base de este impuesto el monto total de las erogaciones efectuadas en dinero o en especie a que se refiere el artículo 41 M.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+Artículo 41 Q.- El impuesto se determinará aplicando a la base que resulte conforme al artículo anterior o en su caso el artículo 41 O, la tasa del 2%.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+Artículo 41 R.- El impuesto se causará en el momento en que se realicen las erogaciones que son objeto del mismo, y su pago se efectuará mensualmente, mediante declaración definitiva que deberá presentarse en las Receptorías de Rentas de la Secretaría de Finanzas, en las instituciones de crédito o en los establecimientos autorizados, a más tardar el día 15 del mes siguiente a aquél en que se causó el impuesto, en los formatos aprobados para tal efecto.
+
+Los contribuyentes deberán presentar declaraciones aun cuando no exista impuesto a pagar, mientras no se presente el aviso de suspensión, disminución o cancelación en el Registro Estatal de Contribuyentes.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+Artículo 41 S.- Los contribuyentes de este impuesto tendrán, además de las señaladas en el presente capítulo y en el Código Fiscal del Estado, la obligación de llevar los registros contables que permitan identificar el monto de las erogaciones gravadas y exentas, objeto del impuesto a que se refiere este capítulo, así como el importe del impuesto pagado por las mismas.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+Artículo 41 T.- Los retenedores de este impuesto tendrán, además de las obligaciones señaladas en el artículo 41 Ñ, las siguientes:
+
+I.- Presentar aviso de alta o aumento de obligaciones por el inicio de retención del impuesto, dentro de los quince días siguientes a la fecha de la primera retención que efectúen, adjuntando copia del contrato celebrado con el prestador del servicio;
+
+II.- Presentar declaraciones mensuales definitivas del impuesto retenido y hacer el entero del mismo, a más tardar el día 15 del mes siguiente a aquél en que se efectúe la retención.
+
+Las declaraciones a que se refiere el párrafo anterior, se presentarán aun cuando no exista impuesto a pagar, mientras no se presente el aviso de disminución de obligaciones como retenedor; y
+
+III.- Llevar registros contables que permitan identificar los importes de las retenciones que de conformidad con este capítulo estén obligados a efectuar.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+Artículo 41 U.- Están exentas del pago de este impuesto, las erogaciones que se realicen por los siguientes conceptos:
+
+I.- Aportaciones de seguridad social, vivienda, pensiones y de ahorro para el retiro, exigidas por las leyes;
+
+II.- Indemnizaciones por riesgos o enfermedades profesionales concedidas de acuerdo con las leyes de la materia o contratos que correspondan;
+
+III.- Indemnizaciones por rescisión o terminación de la relación laboral;
+
+IV.- Pensiones y jubilaciones en los casos de invalidez, vejez, cesantía y muerte;
+
+V.- Pagos por gastos funerarios;
+
+VI.- Participación de los trabajadores en las utilidades de las empresas;
+
+VII.- Contraprestaciones cubiertas a trabajadores domésticos, a personas con discapacidad y a los adultos mayores de sesenta y cinco años;
+
+VIII.- Gastos de representación y viáticos efectivamente erogados por cuenta del patrón, debidamente comprobados, en los mismos términos que para su deducibilidad requiere la ley del Impuesto Sobre la Renta;
+
+IX.- Fondo de ahorro, cuando sea igual o menor al aportado por el trabajador y la entrega del mismo al beneficiario se realice anualmente;
+
+X.- Servicio de comedor;
+
+XI.- Herramientas y uniformes para el trabajo y deportivos; y
+
+XII.- Becas para los trabajadores y sus familias.
 
 ### CAPITULO I. Disposiciones Generales
 
 ### CAPITULO II. De los servicios prestados por la Secretaría General de Gobierno
 
-### CAPITULO III. Servicios Prestados por la Secretaría de Finanzas
-
 ## TITULO SEGUNDO. DE LOS DERECHOS
 
-### CAPITULO IV. Servicios Prestados por la Secretaría de Desarrollo Urbano
+### CAPITULO III. Servicios Prestados por la Secretaría de Finanzas
 
 ###### Artículo 42.
 
@@ -495,17 +583,13 @@ Cuando no se llenen los requisitos legales para el otorgamiento del permiso, con
 
 El servidor público que preste algún servicio, en contravención a lo dispuesto en este capítulo, será responsable de su pago, independientemente de las sanciones administrativas y corporales a que se pueda hacer acreedor.
 
-### CAPITULO V. Servicios Prestados por la Secretaría de Desarrollo Rural
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+### CAPITULO IV. Servicios Prestados por la Secretaría de Desarrollo Urbano
 
 ###### Artículo 48.
 
 Por los servicios prestados en la Dirección General de Gobierno se pagarán los derechos siguientes:
 
-Numero de días de
-
-salarios mínimos
+Numero de días de salarios mínimos
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
 
@@ -607,7 +691,9 @@ h).- Por el otorgamiento de la revalidación o renovación anual para el servici
 
 5.- Prestadoras con nómina de 201 en adelante 418.410
 
-i).- Por el otorgamiento de la revalidación o renovación anual para el servicio de traslado y custodia de bienes o valores 348.675
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+i).- Por el otorgamiento de la revalidación o renovación anual para el servicio de traslado y custodia de bienes o valores 150.675
 
 j).- Por el otorgamiento de la revalidación o renovación anual para el servicio de traslado y protección de personas 139.470
 
@@ -739,15 +825,17 @@ mínimo
 
 I.- Expedición y reposición de licencia para manejar vehículos de motor con vigencia de cuatro años e identificaciones de choferes y conductores de vehículos de servicio público de pasajeros:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-a).- Automovilista 8.000
+a).- Automovilista 9.000
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-b).- Chofer y conductor de servicios 5.830
+b).- Chofer y conductor de servicios 7.830
 
-c).- Motociclista 3.239
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+c).- Motociclista 5.239
 
 d).- (DEROGADO, P.O. 5 DE ENERO DE 1999)
 
@@ -759,21 +847,29 @@ Los derechos consignados en el inciso d), deberán pagarse durante los meses de 
 
 II.- Por la expedición de concesión, cesión o traspaso de derecho a vehículos de servicio público conforme a la siguiente clasificación:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-a).- De ruta, sitio, servicio turístico y sujetos a arrendamiento puro 400.000
+a).- De ruta, sitio, servicio turístico y sujetos a arrendamiento puro 440.000
 
-b).- Materialistas, carga y turismo 129.600
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-c).- Escuelas de manejo 81.000
+b).- Materialistas, carga y turismo 142.550
 
-d).- Servicio exclusivo funerario 97.170
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-e).- Motocarro o motocicleta de carga, para servicio turístico o para arrendamiento 23,752
+c).- Escuelas de manejo 89.100
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-f).- De transporte de agua 50.000
+d).- Servicio exclusivo funerario 106.880
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+e).- Motocarro o motocicleta de carga, para servicio turístico o para arrendamiento 26,120
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+f).- De transporte de agua 60.000
 
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
 
@@ -787,29 +883,33 @@ En el caso de cesión o traspaso de la concesión, si ésta se realiza entre có
 
 III.- Por revalidación de concesión de vehículos de sitio, ruta y aquellos cuya prestación esté sujeta a contrato de arrendamiento, anualmente:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-a).- Por cada vehículo de sitio y escuelas de manejo 16.000
+a).- Por cada vehículo de sitio y escuelas de manejo 18.000
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-b).- Por cada vehículo de ruta 16.000
+b).- Por cada vehículo de ruta 18.000
 
-c).- Por cada vehículo cuya prestación este sujeta a contrato de arrendamiento puro 35.100
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+c).- Por cada vehículo cuya prestación este sujeta a contrato de arrendamiento puro 38.000
 
-d).- Por cada vehículo que preste servicio de materialista, carga y turismo 16.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-e).- Por cada vehículo exclusivo funerario 16.200
+d).- Por cada vehículo que preste servicio de materialista, carga y turismo 18.000
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+e).- Por cada vehículo exclusivo funerario 18.000
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 f).- Motocarro o motocicleta de carga, para servicio turístico o para arrendamiento 4.000
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-g).- Por cada vehículo de transporte de agua 11.000
+g).- Por cada vehículo de transporte de agua 12.000
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -819,21 +919,33 @@ Los derechos que establece esta fracción, deberán cubrirse durante los meses d
 
 IV.- Por la dotación de placas de circulación:
 
-a).- Vehículos de servicio particular, incluyendo tarjeta de circulación 13.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-b).- Vehículos de servicio público, incluyendo tarjetas de circulación 13.000
+a).- Vehículos de servicio particular, incluyendo tarjeta de circulación 17.000
 
-c).- Motocicletas, incluyendo tarjetas de circulación 3.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-d).- Remolques 9.700
+b).- Vehículos de servicio público, incluyendo tarjetas de circulación 17.000
 
-e).- Placas de demostración 40.500
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+c).- Motocicletas, incluyendo tarjetas de circulación 4.000
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+d).- Remolques 12.000
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+e).- Placas de demostración 45.000
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 f).- Renovación de tarjeta de circulación de motocicletas o su reposición 1.000
 
-g).- Reposición de tarjeta de circulación de automóviles y camiones 2.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+g).- Reposición de tarjeta de circulación de automóviles y camiones 2.413
 
 h).- Renovación de tarjeta de circulación de automóviles y camiones 2.000
 
@@ -851,27 +963,31 @@ V.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2000)
 
 VI.- Por la expedición de permisos provisionales:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-a).- Para manejar vehículos diferentes a las motocicletas, por el primer permiso de 6 meses 5.000
+a).- Para manejar vehículos diferentes a las motocicletas, por el primer
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+permiso de 6 meses 6.000
 
-1.- Por el mismo concepto, el segundo permiso 5.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+1.- Por el mismo concepto, el segundo permiso 6.000
 
-b).- Para circular sin placas, por el primer permiso de 30 días 5.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+b).- Para circular sin placas, por el primer permiso de 30 días 6.000
 
-1.- Por el mismo concepto, el segundo permiso 0.500
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+1.- Por el mismo concepto, el segundo permiso 12.000
 
-c).- Para manejar motocicletas y otros vehículos similares, como trimotos, cuatrimotos, etc., por el primer permiso de 6 meses 2.024
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-1.- Por el mismo concepto, el segundo permiso 2.024
+c).- Para manejar motocicletas y otros vehículos similares, como trimotos, cuatrimotos, etc., por el primer permiso de 6 meses 3.000
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+1.- Por el mismo concepto, el segundo permiso 3.000
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
@@ -939,19 +1055,25 @@ Por los servicios prestados en la Dirección del Registro Público de la Propied
 
 Número de días de salario mínimo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-I.- Inscripción de documentos públicos o privados de cualquier clase, mediante los cuales se adquiera, trasmita, modifique o extinga la propiedad o posesión de inmuebles, o se constituya el régimen de propiedad en condominio, sobre el valor que resulte mayor entre: el de operación, el catastral vigente en el ejercicio fiscal en que se solicite el servicio y el de avalúo comercial actualizado:
+I.- Inscripción de documentos públicos o privados de cualquier clase, mediante los cuales se adquiera, trasmita, modifique o extinga la propiedad o posesión de inmuebles, sobre el valor que resulte mayor entre: el de operación, el catastral vigente en el ejercicio fiscal en que se solicite el servicio y el de avalúo comercial actualizado:
 
-a).- Cuando el valor sea de hasta 3,814 días de salario mínimo 5.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-b).- Cuando el valor se encuentre entre los 3,815 y los 4,964 días de salario mínimo 8.000
+a).- Cuando el valor sea de hasta 3,814 días de salario mínimo 8.000
 
-c).- Cuando el valor esté entre los 4,965 y 6,116 días de salario mínimo 12.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+b).- Cuando el valor se encuentre entre los 3,815 y los 4,964 días de salario mínimo 11.000
 
-d).- Cuando el valor sea mayor de 6,116 días de salario mínimo, el 0.2 %, sin que el mínimo sea inferior a 16.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+c).- Cuando el valor esté entre los 4,965 y 6,116 días de salario mínimo 15.000
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+d).- Cuando el valor sea mayor de 6,116 días de salario mínimo, el 0.3 %, sin que el mínimo sea inferior a 16.000
 
 ni el máximo superior a 2,162.00
 
@@ -959,35 +1081,41 @@ ni el máximo superior a 2,162.00
 
 II.- Por la inscripción de contratos de fideicomiso de cualquier tipo, sobre el valor de los bienes fideicomitidos que resulte mayor entre el de operación catastral y el de avalúo bancario actualizados, se cobrará:
 
-a).- Cuando el valor sea de hasta 3,814 días de salario mínimo 5.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-b).- Cuando el valor se encuentre entre los 3,815 y los 4,964 días de salario mínimo 8.000
+a).- Cuando el valor sea de hasta 3,814 días de salario mínimo 8.000
 
-c).- Cuando el valor esté entre los 4,965 y 6,116 días de salario mínimo 12.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+b).- Cuando el valor se encuentre entre los 3,815 y los 4,964 días de salario mínimo 11.000
 
-d).- Cuando el valor sea mayor de 6,116 días de salario mínimo, el 0.2 %, sin que el mínimo sea inferior a 16.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+c).- Cuando el valor esté entre los 4,965 y 6,116 días de salario mínimo 15.000
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+d).- Cuando el valor sea mayor de 6,116 días de salario mínimo, el 0.3 %, sin que el mínimo sea inferior a 16.000
 
 ni el máximo superior a 2,162.00
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-III.- Inscripción de contratos de arrendamiento puro, de arrendamiento financiero, o de cualquier otro tipo, sobre el monto total de las rentas pactadas durante el período de vigencia del contrato, se pagará la tasa del 0.2%, sin que el mínimo sea inferior a 5.000
+III.- Inscripción de contratos de arrendamiento puro, de arrendamiento financiero, o de cualquier otro tipo, sobre el monto total de las rentas pactadas durante el período de vigencia del contrato, se pagará la tasa del 0.3%, sin que el mínimo sea inferior a 5.000
 
 ni el máximo superior a 135.000
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-IV.- Inscripción de gravámenes de cualquier tipo, sobre el monto del adeudo o garantía, el 0.2%, sin que el mínimo sea inferior a 5.000
+IV.- Inscripción de gravámenes de cualquier tipo, sobre el monto del adeudo o garantía, el 0.3%, sin que el mínimo sea inferior a 5.000
 
 ni el máximo superior 540.00
 
 Si el gravamen afecta propiedades de inmuebles ubicadas también en otras entidades federativas, el derecho a pagar será proporcional al valor de los inmuebles ubicados en el estado. Cuando no se conozca el valor o la proporción real de éstos, la base para la determinación del derecho será el valor catastral de los inmuebles gravados ubicados en el estado de Colima, en cuyo caso se aplicará la tasa del 0.3%, o en su caso el mínimo o máximo señalado en el párrafo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-V.- Por la inscripción de la escritura constitutiva de sociedades mercantiles, del capital social o de los incrementos al mismo, sobre el monto del capital social ya sea fijo o variable o del incremento, se causará la tasa del 0.2%, sin que el mínimo sea inferior a 5.000
+V.- Por la inscripción de la escritura constitutiva de sociedades mercantiles, del capital social o de los incrementos al mismo, sobre el monto del capital social o del incremento, se causará la tasa del 0.3%, sin que el mínimo sea inferior a 5.000
 
 ni el máximo superior a 540.000
 
@@ -999,105 +1127,141 @@ Cuando se presente para su inscripción una escritura o protocolización de acta
 
 Lo dispuesto en el párrafo anterior es aplicable también para la fracción siguiente.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-VI.- Por la inscripción de la escritura constitutiva de sociedades o Asociaciones civiles, del capital social o de los incrementos al mismo, sobre el monto del capital social ya sea fijo o variable o del incremento, se cobrará el 0.2 %, sin que el mínimo sea inferior a 5.000
+VI.- Por la inscripción de la escritura constitutiva de sociedades o asociaciones civiles, del capital social o de los incrementos al mismo, sobre el monto del capital social o del incremento, se cobrará el 0.2 %, sin que el mínimo sea inferior a 8.000
 
-ni el máximo superior a 135.000
+ni el máximo superior a 138.000
 
-VII.- Inscripción de las modificaciones a la escritura constitutiva de las sociedades o asociaciones de cualquier tipo, que no se refieran a aumento de capital social 5.000
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+VII.- Inscripción de las modificaciones a la escritura constitutiva de las sociedades o asociaciones de cualquier tipo, que no se refieran a aumento de capital social 8.000
 
 VIII.- Inscripción de operaciones de crédito de cualquier tipo celebradas con instituciones de crédito:
 
-a).- Cuando el monto de la operación sea hasta el equivalente a 648 días de salario mínimo 1.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-b).- Cuando el monto de la operación sea de entre 649 y 1,295 días de salario mínimo 2.000
+a).- Cuando el monto de la operación sea hasta el equivalente a 648 días de salario mínimo 4.000
 
-c).- Cuando el monto de la operación esté entre los 1,296 y 1,943 días de salario mínimo 3.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-d).- Cuando el monto de la operación sea de entre 1,944 y 2,591 días de salario mínimo 4.000
+b).- Cuando el monto de la operación sea esté entre los 649 y 1,295 días de salario mínimo
 
-e).- Cuando el monto de la operación esté entre 2,592 y 3,814 días de salario mínimo 5.000
+5.000
 
-f).- Cuando el monto de la operación esté entre 3,815 y 4,964 días de salario mínimo 8.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+c).- Cuando el monto de la operación esté entre los 1,296 y 1,943 días de salario mínimo 6.000
 
-g).- Cuando el monto de la operación esté entre los 4,965 y 9,600 días de salario mínimo 12.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+d).- Cuando el monto de la operación esté entre 1,944 y 2,591 días de salario mínimo 7.000
 
-h).- Cuando el valor de la operación sea mayor al equivalente de 9,601 días de salario mínimo, se pagará sobre el monto del crédito, el 0.125%, sin que el máximo sea superior a 270.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+e).- Cuando el monto de la operación esté entre 2,592 y 3,814 días de salario mínimo 8.000
 
-i).- Por los créditos de habilitación o avío destinados a fines Agropecuarios, agroindustriales y de pesca, se pagará el 50% de lo que resulte de conformidad con los incisos anteriores, sin que se pague menos del equivalente a 1.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+f).- Cuando el monto de la operación esté entre 3,815 y 4,964 días de salario mínimo 11.000
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+g).- Cuando el monto de la operación esté entre los 4,965 y 9,600 días de salario mínimo 15.000
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+h).- Cuando el valor de la operación sea mayor al equivalente de 9,601 días de salario mínimo, se pagará sobre el monto del crédito, el 0.3%, sin que el máximo sea superior a 273.000
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+i).- Por los créditos de habilitación o avío destinados a fines agropecuarios, agroindustriales y de pesca, se pagará el 50% de lo que resulte de conformidad con los incisos anteriores, sin que se pague menos del equivalente a 4.000
 
 j).- Cuando se trate de reestructuración de créditos, el derecho a pagar se calculará sobre el total del crédito reestructurado, deduciendo del resultado el derecho pagado cuando se inscribió el crédito original
 
-k).- Además de los derechos de inscripción que correspondan de acuerdo con los incisos anteriores, se pagará por cada anotación que se requiera realizar para inscribir las garantías 1.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+k).- Además de los derechos de inscripción que correspondan de acuerdo con los incisos anteriores, se pagará por cada anotación que se requiera realizar para inscribir las garantías 4.000
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 En el caso de inscripción de créditos destinados a fraccionar, urbanizar o construir varios lotes a la vez, el pago se realizará por cada lote.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-IX.- Por la inscripción de la constitución del patrimonio de la familia y de las informaciones ad-perpetuam, se pagará la tasa del 0.2 % sobre el valor que resulte mayor entre el catastral y el de avalúo bancario, sin que el mínimo sea inferior a 5.000
+IX.- Por la inscripción de la constitución del patrimonio de la familia y de las informaciones ad-perpetuam, se pagará la tasa del 0.3 % sobre el valor que resulte mayor entre el catastral y el de avalúo bancario, sin que el mínimo sea inferior a 5.000
 
-X.- Inscripción de compraventa de bienes muebles, sobre el valor de la operación, el 0.2%, sin que el importe del derecho sea menor de 5.000
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
+X.- Inscripción de compraventa de bienes muebles, sobre el valor de la operación, el 0.3%, sin que el importe del derecho sea menor de 5.000
 
-XI.- Por la inscripción de fraccionamientos, se pagará por cada lote, de acuerdo con la siguiente clasificación:
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-a).- Habitacional densidad baja y campestre 3.149
+XI.- Por la inscripción de fraccionamientos o régimen de propiedad en condominio, se pagará por cada lote, de acuerdo con la siguiente clasificación:
 
-b).- Habitacional densidad media 2.000
+a).- Habitacional densidad baja y campestre 7.149
 
-c).- Habitacional densidad alta 0.500
+b).- Habitacional densidad media 6.000
 
-d).- Industrial, comercial y granjas 0.900
+c).- Habitacional densidad alta 3.500
+
+d).- Industrial, comercial y granjas 4.900
 
 > <small>(REFORMADA, P.O. 5 DE ENERO DE 1999)</small>
 
 XII.- Inscripción de relotificaciones de fraccionamientos, por cada lote, conforme a la siguiente clasificación;
 
-a).- Habitacional densidad baja y campestre 2.069
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-b).- Habitacional densidad media 1.200
+a).- Habitacional densidad baja campestre 6.000
 
-c).- Habitacional densidad alta 0.400
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-d).- Industrial, comercial y granjas 0.360
+b).- Habitacional densidad media 5.000
 
-XIII.- Inscripción de actas de asambleas de socios o de juntas de administradores 3.689
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+c).- Habitacional densidad alta 4.000
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+d).- Industrial, comercial y granjas 3.360
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XIII.- Inscripción de actas de asambleas de socios o de juntas de administradores 6.689
 
 XIV.- Inscripción de la disolución y liquidación de sociedades mercantiles:
 
-a).- Por la disolución 3.689
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-b).- Por la liquidación 3.689
+a).- Por la disolución 6.689
 
-c).- Por la disolución y liquidación, cuando se hubieran realizado en un solo acto 5.398
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+b).- Por la liquidación 6.689
 
-d).- Si como consecuencia de la liquidación de la sociedad se adjudican bienes inmuebles, los derechos se causarán sobre el valor de los que se adjudiquen a los socios o a terceros, aplicando la tasa del 0.2 %, sin que el mínimo sea inferior a 5.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+c).- Por la disolución y liquidación, cuando se hubieran realizado en un solo acto 8.398
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+d).- Si como consecuencia de la liquidación de la sociedad se adjudican bienes inmuebles, los derechos se causarán sobre el valor de los que se adjudiquen a los socios o a terceros, aplicando la tasa del 0.3 %, sin que el mínimo sea inferior a 5.000
 
 ni el máximo superior a 540.000
 
 XV.- Inscripción de la fusión y escición (sic) de sociedades mercantiles:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-a).- Por la fusión, sobre el monto del capital fusionado, el 0.2%, sin que se pague menos de 5.000
+a).- Por la fusión, sobre el monto del capital fusionado, el 0.3%, sin que se pague menos de 5.000
 
 ni el máximo superior 540.000
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-b).- Por la escisión, sobre el monto del capital social de las empresas escindidas, el 0.2%, sin que se pague menos de 5.000
+b).- Por la escisión, sobre el monto del capital social de las empresas escindidas, el 0.3%, sin que se pague menos de 5.000
 
 ni el máximo superior a 540.000
 
@@ -1107,109 +1271,161 @@ XVI.- Inscripción del otorgamiento de poderes, de la renovación, sustitución 
 
 a).- Otorgamiento o sustitución de poderes:
 
-1.- Si se designa un solo apoderado 3.689
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-2.- Por cada apoderado adicional que se designe en el mismo documento 1.080
+1.- Si se designa un solo apoderado 6.689
 
-3.- Por cada poderdante, cuando aparezca en el documento más de uno 1.080
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-b).- Renovación de poderes, por cada apoderado 1.080
+2.- Por cada apoderado adicional que se designe en el mismo documento 4.080
 
-> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-c).- Revocación de poderes, por cada apoderado 1.080
+3.- Por cada poderdante, cuando aparezca en el documento más de uno 4.080
 
-XVII.- Inscripción de contratos de comisión y mediación mercantil, así como de seguros de toda especie 5.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+b).- Renovación de poderes, por cada apoderado 4.080
 
-XVIII.- Inscripción de resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial 3.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+c).- Revocación de poderes, por cada apoderado 4.080
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XVII.- Inscripción de contratos de comisión y mediación mercantil, así como de seguros de toda especie 8.000
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XVIII.- Inscripción de resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial 6.000
 
 XIX.- Inscripción de modificaciones o rectificaciones de superficie de predios, así como de las medidas y colindancias registradas en el folio o libro correspondiente:
 
-> <small>(REFORMADO P.O. 29 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-a).- Cuando se incremente la superficie, se cobrará la tasa del 0.2% sobre el valor catastral actualizado de la superficie aumentada, sin que el mínimo a pagar sea inferior a 5.000
+a).- Cuando se incremente la superficie, se cobrará la tasa del 0.3% sobre el valor catastral actualizado de la superficie aumentada, sin que el mínimo a pagar sea inferior a 5.0000
 
-b).- Cuando disminuya la superficie o simplemente se modifiquen las medidas y colindancias 5.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
+b).- Cuando disminuya la superficie o simplemente se modifiquen las medidas y colindancias 8.000
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+c).- Inscripción de fusiones y subdivisiones sin traslación de dominio 8.000
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XIX Bis.- Por la inscripción del plan parcial, por fraccionamiento:
+
+a).- Plan parcial sin protocolización 18.500
+
+b).- Plan parcial protocolizado 8.000
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 XX.- Por la inscripción de cualquier otro documento distinto a los señalados en las fracciones I a XIX, sobre el monto de la operación o del valor consignado, se cobrará la tasa del 0.125%, sin que se pague menos de 5.000
 
-> <small>(ADICIONADA, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-XX BIS.- Por la corrección de folios respecto de errores cometidos en el documento inscrito, cuando no traiga consigo la modificación al valor que hubiera servido de base para la determinación de los derechos pagados por la inscripción, por cada dato que se corrija 0.500
+XX BIS.- Por la corrección de folios respecto de errores cometidos en el documento inscrito, cuando no traiga consigo la modificación al valor que hubiera servido de base para la determinación de los derechos pagados por la inscripción, por cada dato que se corrija 3.500
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-XXI.- Examen de cualquier documento público o privado presentado ante la Dirección para su inscripción, cuando se rechace por no ser inscribible 3.500
+XXI.- Examen de cualquier documento público o privado presentado ante la Dirección para su inscripción, cuando se rechace por no ser inscribible 6.500
 
 XXII.- Anotaciones en folios o libros, por cada una:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-a).- Anotación de un segundo o ulterior testimonio de cualquier acto jurídico 3.500
+a).- Anotación de un segundo o ulterior testimonio de cualquier acto jurídico 6.500
 
-b).- Por la anotación de demandas judiciales 5.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+b).- Por la anotación de demandas judiciales 8.000
 
-c).- Anotaciones preventivas diversas a la prevista en el artículo 32 de la Ley del Notariado del Estado de Colima 3.500
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+c).- Anotaciones preventivas diversas a la prevista en el artículo 32 de la Ley del Notariado del Estado de Colima y 2905 del Código Civil del Estado de Colima 6.500
 
-XXIII.- Cancelación de gravámenes en general y de anotaciones de todo tipo, por cada cancelación o por cada inmueble 3.500
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
+XXIII.- Cancelación de gravámenes en general y de anotaciones de todo tipo, por cada cancelación o por cada inmueble 6.500
 
-Si se hubiesen otorgado en garantía varios inmuebles para una misma operación de crédito o que varias operaciones de crédito se hayan garantizado con un solo inmueble, a partir de la segunda cancelación el derecho a pagar será de 1.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+Si se hubiesen otorgado en garantía varios inmuebles para una misma operación de crédito o que varias operaciones de crédito se hayan garantizado con un solo inmueble, a partir de la segunda cancelación el derecho a pagar será de 4.000
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 En el caso del párrafo anterior, se entenderá que a cada inmueble corresponderá una cancelación, aún cuando la inscripción del gravamen esté realizada en un solo folio.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-XXIV.- Cancelación del registro de sociedades civiles, sobre el monto del capital social en la fecha de la cancelación, la tasa del 0.2%, sin que el mínimo sea inferior a 3.500
+XXIV.- Cancelación del registro de sociedades civiles, sobre el monto del capital social en la fecha de la cancelación, la tasa del 0.2%, sin que el mínimo sea inferior a 6.500
 
 XXV.- Depósito de cualquier documento:
 
-a).- Si se depositan directamente en las oficinas de la Dirección 5.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-b).- Por recibir el depósito fuera de las oficinas de la Dirección en horas ordinarias o extraordinarias 8.000
+a).- Si se depositan directamente en las oficinas de la Dirección 8.000
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+b).- Por recibir el depósito fuera de las oficinas de la Dirección en horas ordinarias o extraordinarias 11.000
 
 En el caso del inciso b), deberán cubrirse adicionalmente los gastos de traslado y demás que se generen.
 
-XXVI.- Ratificación de documentos y firmas ante el registrador 5.000
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-XXVII.- Atención de consultas de particulares sobre existencia o inexistencia de inscripciones en el Registro sin expedición de constancia impresa, por cada consulta 0.600
+XXVI.- Ratificación de documentos y firmas ante el registrador 8.000
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XXVII.- Atención de consultas de particulares sobre existencia o inexistencia de inscripciones en el Registro sin expedición de constancia impresa, por cada consulta 3.500
 
 XXVIII.- Expedición de certificados, informes y constancias:
 
-a).- Búsqueda de documentos para la expedición de certificados o informes, por cada predio, por año 0.180
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+a).- Búsqueda de documentos para la expedición de certificados o informes, por cada predio, por año 1.180
 
 b).- Expedición de certificados de existencia o inexistencia de gravámenes:
 
-1.- De uno a diez años anteriores 2.069
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-2.- De once a más años anteriores 2.609
+1.- De uno a diez años anteriores 3.069
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+2.- De once a más años anteriores 3.609
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+3.- Además de las cuotas señaladas en los incisos anteriores, se pagará por cada gravamen o limitación de dominio inscrito 1.310
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
 
 b1).- Expedición de certificados de existencia o inexistencia de gravámenes en los Kioscos de Servicios e Información:
 
-1.- Si el predio no tiene gravámenes 2.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-2.- Si el predio tiene gravámenes 3.500
+1.- Si el predio no tiene gravámenes 3.000
 
-3.- Además de las cuotas señaladas en los incisos anteriores, se pagará por cada gravamen o limitación de dominio inscrito 0.310
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-c).- Expedición de certificados de no inscripción de propiedad 1.619
+2.- Si el predio tiene gravámenes 4.500
 
-d).- Expedición de constancias de registro, independientemente de la búsqueda 1.619
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-e).- Expedición mecanografiada de constancias de registro, por cada hoja escrita hasta por ambas caras 2.069
+c).- Expedición de certificados de no inscripción de propiedad 3.619
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+d).- Expedición de constancias de registro, independientemente de la búsqueda 3.619
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+e).- Expedición mecanografiada de constancias de registro, por cada hoja escrita hasta por ambas caras 4.069
 
 f).- Expedición de constancias en copias fotostáticas certificadas:
 
@@ -1217,47 +1433,79 @@ f).- Expedición de constancias en copias fotostáticas certificadas:
 
 1.- Escrituras privadas:
 
-1.1.- compraventa 2.500
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+1.1.- compraventa 6.500
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
 
 2.- Escrituras públicas:
 
-2.1.- compraventa 3.250
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-2.2.- compraventa e Hipoteca 6.250
+2.1.- compraventa 5.500
 
-2.3. Adjudicación de herencia 4.250
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-2.4.- Donación 2.250
+2.2.- compraventa e Hipoteca 10.500
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+2.3. Adjudicación de herencia 8.500
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+2.4.- Donación 6.500
 
 2.5.- Condominio 30.250
 
-2.6.- Rectificación de escritura 1.250
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+2.6.- Rectificación de escritura 5.500
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
 
 3.- Documentos generales:
 
-3.1.- Embargo judicial 2.250
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-3.2.- Contrato refaccionario 9.750
+3.1.- Embargo judicial 6.500
 
-3.3.- Contrato de sociedad mercantil 4.750
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-3.4.- Contrato de sociedad civil 4.750
+3.2.- Contrato refaccionario 13.250
 
-3.5.- Protocolización de acta de asamblea 2.250
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-3.6.- Contrato de mutuo 2.250
+3.3.- Contrato de sociedad mercantil 8.500
 
-3.7.- Contrato de apertura de crédito 4.250
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-3.8.- Contrato de crédito simple 6.000
+3.4.- Contrato de sociedad civil 6.500
 
-3.9.- Contrato de crédito de habilitación o avío 2.750
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-3.10.- Cancelación 1.250
+3.5.- Protocolización de acta de asamblea 6.500
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+3.6.- Contrato de mutuo 8.500
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+3.7.- Contrato de apertura de crédito 10.250
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+3.8.- Contrato de crédito simple 6.750
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+3.9.- Contrato de crédito de habilitación o avío 4.500
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+3.10.- Cancelación 6.500
 
 3.11.- Otros no especificados 2.500
 
@@ -1267,61 +1515,109 @@ g).- Expedición de copias fotostáticas simples de constancias de registro:
 
 1.- Escrituras privadas:
 
-1.1.- compraventa 0.500
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+1.1.- Compraventa 4.500
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
 
 2.- Escrituras públicas:
 
-2.1.- compraventa 0.500
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-2.2.- compraventa e Hipoteca 1.000
+2.1.- Compraventa 4.500
 
-2.3.- Adjudicación de herencia 0.750
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-2.4.- Donación 0.500
+2.2.- Compraventa e Hipoteca 5.000
 
-2.5.- Condominio 4.500
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-2.6.- Rectificación de escritura 0.250
+2.3.- Adjudicación de herencia 4.750
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+2.4.- Donación 4.500
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+2.5.- Condominio 9.000
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+2.6.- Rectificación de escritura 4.250
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
 
 3.- Documentos generales:
 
-3.1.- Embargo judicial 0.500
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-3.2.- Contrato refaccionario 1.500
+3.1.- Embargo judicial 4.500
 
-3.3.- Contrato de sociedad mercantil 0.750
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-3.4.- Contrato de sociedad civil 0.750
+3.2.- Contrato refaccionario 5.500
 
-3.5.- Protocolización de acta de asamblea 0.500
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-3.6.- Contrato de mutuo 0.500
+3.3.- Contrato de sociedad mercantil 4.750
 
-3.7.- Contrato de apertura de crédito 0.500
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-3.8.- Contrato de crédito simple 1.000
+3.4.- Contrato de sociedad civil 4.750
 
-3.9.- Contrato de crédito de habilitación o avío 0.500
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-3.10.- Cancelación 0.250
+3.5.- Protocolización de acta de asamblea 4.500
 
-3.11.- Otros no especificados 1.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+3.6.- Contrato de mutuo 4.500
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+3.7.- Contrato de apertura de crédito 4.500
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+3.8.- Contrato de crédito simple 5.000
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+3.9.- Contrato de crédito de habilitación o avío 4.500
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+3.10.- Cancelación 4.250
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+3.11.- Otros no especificados 5.000
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XXIX.- Tratándose de servicio urgente por prelación, para cualquier inscripción o expedición de cualquier clase de documento, las cuotas anteriores se incrementarán en un 100%.
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XXX.- Tratándose de documentos de inscripción y cancelación, otorgados fuera de esta entidad federativa, las cuotas anteriores tendrán un pago adicional de 23.000
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+XXXI.- Tratándose del servicio de consulta por internet, el costo anual por la obtención de número de usuario y contraseña es de 85.000
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO VI. Servicios Prestados en la Secretaría de Educación
+### CAPITULO V. Servicios Prestados por la Secretaría de Desarrollo Rural
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 53.
 
 Por los servicios prestados en la Dirección de Ingresos:
 
-Numero de días de
-
-salario mínimo
+Numero de días de salario mínimo
 
 I.- (DEROGADA, P.O. 5 DE ENERO DE 1999)
 
@@ -1331,9 +1627,9 @@ II.- Certificaciones y constancias, en general, así como certificaciones por co
 
 III.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2002)
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
-IV.- Por la expedición, renovación anual o reposición de la calcomanía fiscal vehicular 8.000
+IV.- Por la expedición, renovación anual o reposición de la calcomanía fiscal vehicular 10.000
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
@@ -1347,9 +1643,7 @@ V.- Por la reexpedición de estados de cuenta para el pago de contribuciones est
 
 Por los servicios prestados en la Dirección de Catastro:
 
-Numero de días de
-
-salarios mínimos
+Numero de días de salarios mínimos
 
 I.- Copias heliográficas y fotostáticas:
 
@@ -1371,15 +1665,13 @@ b).- Copia fotostática certificada de un predio con Acotaciones 3.600
 
 c).- Copia heliográfica certificada de plano manzanero 3.600
 
-d).- Servicio de copias a Dependencias Oficiales o particulares de planos no catastrales:
+d).-(DEROGADO, P.O. 25 DE DICIEMBRE DE 2004)
 
-1.- Si no proporciona papel heliográfico, por m2 1.080
+1.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2004)
 
-2.- Si proporciona papel heliográfico, por m2 0.450
+2.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 2004)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
-
-e).- Fotos aéreas, más costo de laboratorio según tamaño 10.000
+e).- (DEROGADO, P.O. 25 DE DICIEMBRE DE 2004)
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -1391,7 +1683,11 @@ g).- Plano general a diferentes escalas:
 
 1.- Graficado y certificado, incluyendo, manzanas, predios y calles Por cada impresión hasta de 1.10x0.84 Mts. 8.000
 
-2.- Por cada capa adicional al plano general Por cada impresión hasta de 1.10x0.84 Mts. 5.000
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+2.- Por cada capa adicional al plano general 2.500
+
+Por cada impresión hasta de 1.10x0.84 Mts. 2.500
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -1399,7 +1695,9 @@ h).- Formato de fusión o subdivisión debidamente requisitado 5.000
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
-i).- Por copia fotostática de cada fotografía de contacto en formato 23x23cm. escala 1:4500 1.000
+i).- Por copia fotostática de cada fotografía de contacto en formato 23x23cm. escala 1:4500
+
+1.000
 
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
 
@@ -1455,7 +1753,9 @@ b).- Certificación catastral de un predio para tramitar juicio a favor del pose
 
 c).- Constancia certificada de inscripción o no en los registros catastrales:
 
-1.- En las oficinas de la Dirección 0.900
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+1.- En las oficinas de la Dirección 0.600
 
 2.- En los Kioscos de Servicios e Información 0.830
 
@@ -1553,7 +1853,7 @@ e).- Cuando por motivo de una solicitud de rectificación o medición de un pred
 
 Más, por cada kilometro recorrido 0.090
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
 
 f).- Por asignar coordenadas geodésicas para la orientación de fraccionamientos 10.000
 
@@ -1627,7 +1927,7 @@ VIII.- (DEROGADA, P.O. 28 DE DICIEMBRE DE 2002)
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO VII. Servicios Prestados por la Secretaría de Salud y Bienestar Social
+### CAPITULO VI. Servicios Prestados en la Secretaría de Educación
 
 ###### Artículo 55.
 
@@ -2385,47 +2685,11 @@ No se pagarán los derechos establecidos en las fracciones I, II, III, IV y VII 
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
+### CAPITULO VII. Servicios Prestados por la Secretaría de Salud y Bienestar Social
+
 ### CAPITULO IX. Otros Derechos
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2001)</small>
-
-### CAPITULO UNICO. Del Derecho por la Extracción de Materiales
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
-
-Artículo 64 A.- Están obligadas al pago de este derecho las personas físicas y las morales que en el territorio del Estado de Colima exploten o extraigan del suelo o subsuelo, sustancias, minerales o materiales que constituyan depósitos de igual naturaleza a los componentes de los terrenos y cuya regulación esté reservada a Estado por las Leyes respectivas.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
-
-Artículo 64 B.- Es base de este derecho el volumen en metros cúbicos de mineral o material extraído, de los que hace referencia el artículo anterior.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
-
-Artículo 64 C.- El derecho establecido en este capítulo se causará y pagará de conformidad con la siguiente tarifa:
-
-1.- Arena y grava, por cada cien metros cúbicos que se extraigan $120.00
-
-2.- Arcillas y balastres, por cada cien metros cúbicos que se extraigan $200.00
-
-3.- Materiales preponderantemente de carbonato de calcio, por cada cien metros cúbicos que se extraigan $200.00
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
-
-Artículo 64 D.- Las personas físicas y las morales que realicen las actividades señaladas en el artículo 64 A, tendrán las siguientes obligaciones:
-
-1.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas, por conducto de la Receptoría de Rentas de su jurisdicción, dentro de los quince días siguientes a aquel en que se inicien las actividades objeto del derecho establecido en el presente Capítulo;
-
-2.- Pagar los derechos mediante declaración en las formas aprobadas para tal efecto, que deberán presentar a más tardar los días 17 de cada mes, por las actividades realizadas en el mes inmediato anterior, en la Receptoría de Rentas de su jurisdicción o en las oficinas o instituciones que la Secretaría de Finanzas autorice.
-
-3.- Presentar los avisos de cambio que se produzcan en los datos que debe contener el Registro Estatal de Contribuyentes, dentro de los quince días siguientes a la fecha en que el cambio se efectúe, ante la Receptoría de Rentas de su jurisdicción y en las formas aprobadas para tal efecto.
-
-4.- Proporcionar a las autoridades fiscales, los datos e informes relacionados con este derecho que les sean solicitados dentro del plazo que para ello se fije.
-
-5.- Recibir las órdenes de visita domiciliaria y proporcionar previa identificación a las personas comisionadas para el efecto por las autoridades fiscales de la Secretaría de Finanzas, todos los documentos e informes que le soliciten para comprobar el cumplimiento de las obligaciones fiscales.
-
-6.- Llevar los libros o registros y expedir documentación comprobatoria de sus ingresos de conformidad con las disposiciones fiscales federales correspondientes.
-
-(REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
 
 ###### Artículo 56.
 
@@ -2719,7 +2983,29 @@ f).- Sutura 1.250
 
 g).- Curación 0.250
 
-Los ingresos que se obtengan de los diversos conceptos establecidos en el presente artículo, serán destinados íntegramente a la conservación y mejoramiento físico de las instalaciones de las Unidades Deportivas Morelos y Rey Coliman, así como del Estadio Colima.
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+IV.- AUDITORIO "MANUEL BONILLA VALLE"
+
+a).- Para la realización de eventos sociales en el área del Mezanine, generales de la zona 83.120
+
+b).- Para la realización de reuniones y convenciones en el área del Mezanine, por hora, generales de la zona 9.500
+
+c).- Para la realización de exposiciones y otros en el Lobby, por día, generales de la zona 47.500
+
+d).- Para la realización de espectáculos públicos en el área de tribuna, por evento, generales de la zona 149.600
+
+e).- Por el uso de la cancha deportiva, por hora general de la zona 2.850
+
+f).- Por el uso del área de la explanada, generales de la zona, por evento 5.930
+
+g).- Por el uso de las canchas deportivas que requieren alumbrado, por hora utilizada 4.280
+
+h).- Por uso del inmueble en cualquier evento que no sea deportivo, por hora, respecto al uso de alumbrado 4.750
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 25 DE DICIEMBRE DE 2004)</small>
+
+Los ingresos que se obtengan de los diversos conceptos establecidos en el presente artículo, serán destinados íntegramente a la conservación y mejoramiento físico de las instalaciones de las Unidades Deportivas Morelos y Rey Colimán, así como del Estadio Colima y el Auditorio Manuel Bonilla Valle.
 
 ###### Artículo 60.
 
@@ -2727,7 +3013,41 @@ Los ingresos que se obtengan de los diversos conceptos establecidos en el presen
 
 > <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO UNICO
+### CAPITULO UNICO. Del Derecho por la Extracción de Materiales
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+Artículo 64 A.- Están obligadas al pago de este derecho las personas físicas y las morales que en el territorio del Estado de Colima exploten o extraigan del suelo o subsuelo, sustancias, minerales o materiales que constituyan depósitos de igual naturaleza a los componentes de los terrenos y cuya regulación esté reservada a Estado por las Leyes respectivas.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+Artículo 64 B.- Es base de este derecho el volumen en metros cúbicos de mineral o material extraído, de los que hace referencia el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+Artículo 64 C.- El derecho establecido en este capítulo se causará y pagará de conformidad con la siguiente tarifa:
+
+1.- Arena y grava, por cada cien metros cúbicos que se extraigan $120.00
+
+2.- Arcillas y balastres, por cada cien metros cúbicos que se extraigan $200.00
+
+3.- Materiales preponderantemente de carbonato de calcio, por cada cien metros cúbicos que se extraigan $200.00
+
+> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2002)</small>
+
+Artículo 64 D.- Las personas físicas y las morales que realicen las actividades señaladas en el artículo 64 A, tendrán las siguientes obligaciones:
+
+1.- Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Finanzas, por conducto de la Receptoría de Rentas de su jurisdicción, dentro de los quince días siguientes a aquel en que se inicien las actividades objeto del derecho establecido en el presente Capítulo;
+
+2.- Pagar los derechos mediante declaración en las formas aprobadas para tal efecto, que deberán presentar a más tardar los días 17 de cada mes, por las actividades realizadas en el mes inmediato anterior, en la Receptoría de Rentas de su jurisdicción o en las oficinas o instituciones que la Secretaría de Finanzas autorice.
+
+3.- Presentar los avisos de cambio que se produzcan en los datos que debe contener el Registro Estatal de Contribuyentes, dentro de los quince días siguientes a la fecha en que el cambio se efectúe, ante la Receptoría de Rentas de su jurisdicción y en las formas aprobadas para tal efecto.
+
+4.- Proporcionar a las autoridades fiscales, los datos e informes relacionados con este derecho que les sean solicitados dentro del plazo que para ello se fije.
+
+5.- Recibir las órdenes de visita domiciliaria y proporcionar previa identificación a las personas comisionadas para el efecto por las autoridades fiscales de la Secretaría de Finanzas, todos los documentos e informes que le soliciten para comprobar el cumplimiento de las obligaciones fiscales.
+
+6.- Llevar los libros o registros y expedir documentación comprobatoria de sus ingresos de conformidad con las disposiciones fiscales federales correspondientes.
 
 ###### Artículo 61.
 
@@ -2745,11 +3065,11 @@ Los ingresos que se obtengan de los diversos conceptos establecidos en el presen
 
 ### CAPITULO UNICO
 
+### CAPITULO UNICO
+
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 1999)</small>
 
 Artículo 70 A.- Son recursos federalizados los que obtengan el Estado del Gobierno Federal, de conformidad con la Ley de Coordinación Fiscal, el Presupuesto de Egresos de la Federación y los acuerdos y convenios que al efecto se celebren.
-
-### CAPITULO UNICO
 
 ###### Artículo 63.
 
@@ -2778,6 +3098,8 @@ III.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 2001)
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
 IV.- Copias certificadas de sentencias 1.350
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2002)</small>
 
 ### CAPITULO UNICO
 
@@ -2823,9 +3145,11 @@ III.- Información diversa no certificada expedida en los Kioscos de servicios e
 
 ### CAPITULO UNICO
 
+### CAPITULO UNICO
+
 ## TITULO SEGUNDO BIS. DE LOS DERECHOS POR EL USO O APROVECHAMIENTO DE BIENES DEL DOMINIO PUBLICO DEL ESTADO
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE DICIEMBRE DE 2002)</small>
+(REUBICADO, P.O. 18 DE DICIEMBRE DE 1993)
 
 ## TITULO TERCERO. DE LOS DERECHOS DE COOPERACION Y DE LAS CONTRIBUCIONES DE MEJORAS
 
@@ -2917,15 +3241,15 @@ XIII.- Otros ingresos no especificados.
 
 ## TITULO SEXTO. DE LAS PARTICIPACIONES
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 5 DE ENERO DE 1999)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE ENERO DE 1999)</small>
 
 ###### Artículo 70.
 
 Son participaciones las que obtenga el Estado de la Federación, de conformidad con la Ley de Coordinación Fiscal y el Convenio de Colaboración Administrativa en Materia Fiscal Federal.
 
-## TITULO SEXTO BIS. DE LOS RECURSOS FEDERALIZADOS
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 5 DE ENERO DE 1999)</small>
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 5 DE ENERO DE 1999)</small>
+## TITULO SEXTO BIS. DE LOS RECURSOS FEDERALIZADOS
 
 ## TITULO SEPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
 
@@ -3170,3 +3494,21 @@ Para los efectos del ajuste monetario en el pago de las contribuciones a que se 
 ###### ARTICULO TERCERO.
 
 El presente decreto entrará en vigor el día 1º. de enero de 2004, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 25 DE DICIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día 1º. de enero de 2005, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+###### ARTÍCULO SEGUNDO.
+
+Los contribuyentes del Impuesto Sobre Ejercicio de Profesiones no estarán obligados a presentar la declaración del ejercicio fiscal 2004, siendo por lo tanto optativa su presentación.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos del ajuste monetario en el pago de las contribuciones a que se refiere el artículo segundo transitorio del decreto de reformas a la Ley de Hacienda del Estado, publicado en el Periódico Oficial "El Estado de Colima" el 31 de diciembre de 1997 y en el caso concreto de los derechos que se causan por los servicios prestados en los Kioscos de Servicios e Información de Gobierno, durante el año 2003 el monto se ajustará a la decena de pesos inferior más próxima, con excepción de la cuota señalada en el artículo 64, fracción III, en cuyo caso la cuota será de $5.00 (cinco pesos 00/100 M.N.).
+
+###### ARTÍCULO CUARTO.
+
+El monto que se recaude por concepto del cobro del impuesto sobre nómina, establecido en el Capítulo VII, del Título Primero, se depositará en una cuenta única que para tal efecto abra la Secretaría de Finanzas del Gobierno del Estado.
