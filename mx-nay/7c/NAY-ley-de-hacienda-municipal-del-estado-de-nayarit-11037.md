@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-municipal-del-estado-de-nayarit-11037"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-28"
-last_updated: "1994-12-24"
+last_updated: "2005-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2005.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 28 de diciembre de 1983.
 
@@ -235,7 +235,7 @@ II. El valor en que aparezcan registrados.
 
 III. El valor de la maquinaria y equipo en caso de plantas de beneficio y establecimientos metalúrgicos.
 
-IV.(DEROGADA, P. O. 26 DE DICIEMBRE DE 1992)
+IV. (DEROGADA, P. O. 26 DE DICIEMBRE DE 1992)
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1992)</small>
 
@@ -443,7 +443,7 @@ III. Construcciones permanentes las que tienen carácter definitivo y las posibi
 
 IV. Construcciones provisionales las que revelan un uso transitorio: en los casos de duda: la autoridad competente, determinará si las construcciones son o no provisionales.
 
-V.Valor catastral es el que fije a cada predio la autoridad competente.
+V. Valor catastral es el que fije a cada predio la autoridad competente.
 
 ###### ARTICULO 39.
 
@@ -592,6 +592,12 @@ El Registro Público de la Propiedad no inscribirá ningún acto, contrato o doc
 ###### ARTICULO 52.
 
 Tratándose de las contribuciones a la propiedad Inmobiliaria, el Ayuntamiento, previo acuerdo del Cabildo queda facultado para celebrar convenios con el Gobierno del Estado, por cuanto al cobro, administración control, vigilancia, ejecución y aplicación de sanciones a que se refiere, sujetándose al procedimiento establecido en esta ley y el Código Fiscal del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE MARZO DE 2005)</small>
+
+ARTICULO 52 bis.- Tratándose del derecho por servicios de vigilancia, inspección y control de la obra pública, el ayuntamiento o la entidad municipal, según sea el caso, retendrá a los contratistas que ejecuten la obra pública con recursos municipales, lo que corresponda de aplicar el cinco al millar del monto de cada una de las estimaciones pagadas.
+
+Los recursos recaudados por este concepto deberán destinarse a la fiscalización de las obras públicas realizadas por el ayuntamiento o entidad municipal de que se trate. El 50 % de dichos recursos serán aplicados directamente por el órgano de control interno del ente público, el resto, deberá enterarse al Órgano de Fiscalización Superior del Estado, durante los primeros quince días del mes siguiente al que se recauden, para que dentro del ámbito de sus atribuciones, los destine al mismo fin.
 
 ### CAPITULO TERCERO. ADICIONALES
 
@@ -796,3 +802,13 @@ P.O. 24 DE DICIEMBRE DE 1994
 ###### ARTICULO UNICO.
 
 El presente Decreto surtirá sus efectos legales a partir del día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 23 DE MARZO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+###### ARTÍCULO SEGUNDO.
+
+Los entes públicos comenzarán a realizar las retenciones correspondientes al derecho por Servicios de Vigilancia, Inspección y Control de la obra pública a cada una de las estimaciones que se paguen a partir de que hayan transcurrido quince días contados a partir de la entrada en vigor del presente decreto.
