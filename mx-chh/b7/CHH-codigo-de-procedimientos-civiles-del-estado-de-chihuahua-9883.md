@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2003-03-08"
+last_updated: "2003-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MAYO DE 2003.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -2195,7 +2195,9 @@ IV.- Por nombramiento recaído en el árbitro, de magistrado o juez, propietario
 
 V.- Por la expiración del plazo estipulado en el compromiso, en la cláusula compromisoria, o en la ley.
 
-### CAPITULO VII. De los juicios en rebeldía
+> <small>(REFORMADA SU DENOMINACION, P.O. 10 DE MAYO DE 2003)</small>
+
+### CAPITULO VII. Del procedimiento en caso de rebeldía
 
 #### SECCION PRIMERA. Del procedimiento cuando se encuentre ausente el rebelde del lugar del juicio
 
@@ -2501,7 +2503,9 @@ Los edictos se insertarán además, por dos veces, de siete en siete días en un
 
 El inventario y el avalúo se practicarán simultáneamente, salvo que esto no fuere posible por la naturaleza de los bienes.
 
-574.- Cuando la mayoría de los herederos esté constituida por menores de edad o incapacitados, o la Beneficencia Pública tenga interés en la sucesión como heredera o legataria, el inventario se practicará por un notario nombrado por la mayoría de los herederos, o en su defecto por el juzgado.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2003)</small>
+
+574.- Cuando el valor de los bienes sea superior a la suma que resulte de calcular veinticinco veces el salario mínimo elevado a un año y, la mayoría de los herederos esté constituida por menores de edad o incapacitados, o la Beneficencia Pública tenga interés en la sucesión como heredera o legataria, las operaciones de inventarios o avalúos se practicarán ante notario nombrado por la mayoría de los herederos, o en su defecto por el Juzgado.
 
 575.- Los herederos, dentro de los diez días siguientes a la declaración o reconocimiento de sus derechos, designarán a mayoría de votos el o los peritos valuadores, y si no lo hicieren o no se pusieren de acuerdo, el juez lo designará.
 
@@ -4576,3 +4580,19 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Todos aquellos especialistas en valuación que cuenten con título que los acredite como tales, podrán ejercer dicha especialidad en los términos de los anteriores preceptos legales, por los siguientes seis meses después de la publicación del presente decreto, siempre y cuando su registro ante el Departamento Estatal de Profesiones se encuentre en trámite. Concluido este término, deberá de cumplir todos los requisitos señalados. El trámite se comprobará con oficio expedido por el Departamento Estatal de Profesiones.
+
+P.O. 10 DE MAYO DE 2003.
+
+DECRETO No. 623-03 VII P.E.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación, en el Periódico Oficial del Estado.
+
+P.O. 10 DE MAYO DE 2003.
+
+DECRETO No. 629-03 II P.0.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado.
