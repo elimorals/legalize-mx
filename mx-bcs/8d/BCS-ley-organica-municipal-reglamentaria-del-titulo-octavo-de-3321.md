@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-municipal-reglamentaria-del-titulo-octavo-de-3321"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-31"
-last_updated: "1994-04-20"
+last_updated: "2002-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA MUNICIPAL REGLAMENTARIA DEL TITULO OCTAVO DE LA CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE ABRIL DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 2002.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 1976.
 
@@ -123,15 +123,19 @@ Ningún ciudadano puede excusarse de servir al cargo de Munícipe, sino por caus
 
 Los integrantes de los Ayuntamientos podrán ser suspendidos o revocados en el ejercicio de su cargo en los casos previstos en el Título Noveno de la Constitución Política Local.
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 2002)</small>
 
 ###### Artículo 14.
 
-Cuando no se hubiere verificado la elección en la fecha en que deba renovar (sic) el Ayuntamiento, o efectuada ésta, no se presenten los miembros del Ayuntamiento a tomar posesión de los cargos para los que fueron elegidos, el Gobernador propondrá al Congreso o a la Diputación Permanente en su caso, un Concejo Municipal integrado por vecinos del Municipio, que se encargará provisionalmente de las funciones del Ayuntamiento y se convocará a elecciones extraordinarias que deberán celebrarse en un plazo no mayor de 45 días.
+Cuando no se hubiere verificado la elección en la fecha en la que deba renovar el ayuntamiento, o efectuada ésta no se presenten los miembros del ayuntamiento a tomar posesión de los cargos para los que fueron elegidos, el Congreso del Estado designará a un concejo municipal que se encargará provisionalmente de las funciones del ayuntamiento, y se convocará a elecciones extraordinarias que deberán celebrarse en un plazo no mayor de 45 días. Dicho concejo estará integrado por el mismo número de miembros del ayuntamiento y se elegirá de entre las propuestas de hasta diez ciudadanos quienes deberán contar con los requisitos de elegibilidad para los regidores, que presenten ante el Congreso del Estado cada una de las Fracciones Parlamentarias.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 El mismo procedimiento se seguirá cuando la elección se declare nula o cuando por cualquier causa desaparezcan los poderes del Ayuntamiento o se desintegre dentro de los dos primeros años de su ejercicio.
 
-Cuando se produzca la desaparición de Poderes o la desintegración del Ayuntamiento en el último año del Período de Gobierno Municipal, el Congreso del Estado o la Diputación Permanente, en su caso, a propuesta del Gobernador, nombrará de entre los vecinos del municipio una Junta de Gobierno Municipal que concluirá el Período de Gobierno.
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2002)</small>
+
+En caso de declararse desaparecido un ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros en el último año del Período de Gobierno Municipal, si conforme a la ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, el Congreso del Estado elegirá de entre los vecinos al concejo municipal que concluirá el periodo respectivo. Este concejo estará integrado por el mismo número de miembros y en base al mismo procedimiento a que se refiere el primer párrafo de este artículo, quienes deberán contar con los requisitos de elegibilidad establecidos para regidores.
 
 ###### Artículo 15.
 
@@ -265,15 +269,21 @@ Para lo no previsto en esta Ley, sobre el funcionamiento de los Ayuntamientos, s
 
 ### CAPITULO TERCERO. FACULTADES Y OBLIGACIONES DE LOS AYUNTAMIENTOS
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 2002)</small>
+
 ###### Artículo 26.
 
-Son facultades y obligaciones de los Ayuntamientos:
+Son facultades y obligaciones de los ayuntamientos:
 
 I. En general, promover en la esfera administrativa lo necesario para la aplicación de esta Ley, así como para el mejor desempeño de las funciones que les señalen ésta u otras leyes y reglamentos.
 
-II. Expedir y aplicar su Reglamento interior y los de Policía y Buen Gobierno; y en general todos los reglamentos municipales necesarios para el cumplimiento de sus fines, para la organización y funcionamiento de los servicios y establecimientos públicos municipales.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2002)</small>
 
-III. Proponer ante la Legislatura Local iniciativas de Ley o de decretos, en materia Municipal.
+II. Aprobar, reformar y expedir en su caso, de conformidad con las leyes expedidas por el Congreso del Estado, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
+
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2002)</small>
+
+III. Proponer ante la Legislatura local, iniciativas de Ley o Decretos en materia municipal, y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria en materia municipal.
 
 IV. Crear, y en su caso modificar o suprimir, los Departamentos y Dependencias necesarios para el desempeño de los negocios del orden administrativo y para la eficaz prestación de los servicios públicos municipales.
 
@@ -291,7 +301,9 @@ IX. Nombrar Secretario, Tesorero y Jefes de Departamento a propuestas del Presid
 
 X. Formular anualmente la iniciativa de la Ley de Ingresos, remitiéndola al Congreso por conducto del Ejecutivo, para su aprobación a más tardar en la segunda quincena del mes de noviembre.
 
-XI. Formular anualmente su presupuesto de Egresos.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2002)</small>
+
+XI. Formular, aprobar y publicar anualmente su presupuesto de egresos.
 
 XII. Administrar su Hacienda en términos de Ley y controlar a través del Presidente y del Síndico la aplicación correcta del Presupuesto de Egresos del Municipio.
 
@@ -315,7 +327,9 @@ XIX. Fijar las condiciones que deban reunir todos los establecimientos, cuyo ina
 
 XX. Prevenir y combatir, en proporción a la posibilidad de sus recursos, la contaminación ambiental, en los términos de la Ley de la materia.
 
-XXI. Proporcionar los servicios de seguridad y tránsito a la población en general y mantener el orden en espectáculos, festividades, paseos y lugares públicos.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2002)</small>
+
+XXI. Proporcionar los servicios de seguridad, policía preventiva municipal y tránsito a la población en general y mantener el orden en espectáculos, festividades, paseos y lugares públicos.
 
 XXII. Conceder licencias y fijar precios a las empresas para espectáculos públicos y vigilar que en ellos se desarrollen los programas anunciados al público y autorizados conforme a las leyes y reglamentos de la materia.
 
@@ -345,9 +359,9 @@ XXXII. Conceder licencia a sus miembros hasta por treinta días y llamar, en su 
 
 XXXIII. Otorgar licencias y permisos para construcciones y autorizar permisos para fraccionamientos, estos últimos previa aprobación en lo general, del Gobierno del Estado.
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2002)</small>
 
-XXXIV. Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana y participar en la creación y administración de zonas y reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarias.
+XXXIV. Ejercer las funciones relativas a la planeación y ordenamiento de los asentamientos humanos en su jurisdicción, participando con la Federación, las entidades federativas o con otros municipios en la formulación de planes de desarrollo regional, así como en la celebración de convenios para cumplir con los objetivos y finalidades de los planes aprobados en materia de desarrollo urbano y rural; y, en general, hacer valer los derechos y cumplir con todas las obligaciones que a los municipios señalen las Leyes Federales, Estatales y reglamentos legalmente expedidos sobre planeación, fundación, conservación, mejoramiento y crecimiento de los centros de población y demás normas sobre asentamientos humanos en el municipio.
 
 > <small>(REFORMADA, B.O. 20 DE FEBRERO DE 1988)</small>
 
@@ -381,9 +395,11 @@ XLIII. Las demás que le asignen otras Leyes y Reglamentos.
 
 ### CAPITULO CUARTO. FACULTADES Y OBLIGACIONES DE LOS PRESIDENTES MUNICIPALES
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 2002)</small>
+
 ###### Artículo 27.
 
-El Presidente Municipal es el ejecutor de las determinaciones del Ayuntamiento y tiene las siguientes facultades:
+El Presidente Municipal es el ejecutor de las determinaciones del ayuntamiento, y tiene las siguientes facultades:
 
 > <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
@@ -411,7 +427,9 @@ X. Auxiliar a las Autoridades Federales en la aplicación y cumplimiento de las 
 
 XI. Vigilar que los funcionarios y comisiones encargadas de los diferentes servicios municipales cumplan puntualmente con su cometido.
 
-XII. Tener bajo su mando los cuerpos de seguridad y tránsito para la conservación del orden público, con excepción de las facultades que se reservan al Gobernador.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2002)</small>
+
+XII. Tener bajo su mando los cuerpos de seguridad pública, policía preventiva y tránsito municipales en los términos que establezcan los reglamentos respectivos para la conservación del orden público, con excepción de las facultades que se reservan al Gobernador en los casos de fuerza mayor o alteración grave del orden público.
 
 XIII. Solicitar la autorización del Ayuntamiento para ausentarse del Municipio por más de 15 días.
 
@@ -583,11 +601,13 @@ Las faltas temporales de las autoridades auxiliares municipales serán suplidas 
 
 ### CAPITULO NOVENO. DE LA DECLARACION DE DESAPARICION, SUSPENCION (SIC) Y REVOCACION DE AYUNTAMIENTOS
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 2002)</small>
 
 ###### Artículo 40.
 
-Corresponde exclusivamente a la Legislatura del Estado declarar que un Ayuntamiento ha desaparecido y designar, en su caso, a un Concejo Municipal.
+Corresponde exclusivamente a la Legislatura del Estado, por acuerdo de las dos terceras partes de sus miembros, declarar que un ayuntamiento ha desaparecido y designar, en su caso, a un concejo municipal.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 Solo se podrá declarar que un Ayuntamiento ha desaparecido, cuando el cuerpo edilicio se haya desintegrado o cuando no sea posible el ejercicio de sus funciones conforme al orden constitucional, federal o estatal.
 
@@ -599,11 +619,13 @@ La Petición para que la Legislatura conozca de las causas a que se refiere el A
 
 En los recesos de la Legislatura Local, la Diputación Permanente convocará a Período Extraordinario de Sesiones a fin de que se reúna para conocer de la petición a que se refiere el Párrafo anterior.
 
-> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 2002)</small>
 
 ###### Artículo 40-B.
 
-Si la Legislatura declara que ha desaparecido el Ayuntamiento, procederá a designar e instalar de inmediato; entre los vecinos del Municipio y a propuesta del Gobernador, a un Concejo Municipal, con el mismo número de integrantes que los que esta Ley señala para el Ayuntamiento.
+En caso de declararse desaparecido un ayuntamiento, o por renuncia o falta absoluta de la mayoría de sus miembros, en los términos establecidos en la Constitución Política del Estado, se procederá a designar e instalar de inmediato a un concejo municipal.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 Los Concejos Municipales tendrán las mismas atribuciones que esta Ley confiere a los Ayuntamientos.
 
@@ -757,19 +779,27 @@ Los bienes de dominio público son inalienables e imprescriptibles y no están s
 
 Los bienes de dominio privado son inembargables, pero podrán ser enajenados mediante acuerdo del Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 2002)</small>
 
 ###### Artículo 54.
 
-La hacienda de los Municipios se formará:
+La Hacienda de los municipios se formará:
 
-> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2002)</small>
 
-I. Por las percepciones que establezca su Ley de ingresos y por todas las que decrete el Congreso del Estado y las que señalen otras Leyes.
+I. Por las contribuciones que establezca su Ley de Ingresos y por todas las percepciones que establezca a su favor el Congreso del Estado y las que señalen otras Leyes.
 
 II. Por las participaciones que perciban de acuerdo con las Leyes Federales y Estatales.
 
 III. De las rentas y productos de todos los bienes Municipales, así como por los convenios, legados, donaciones o por cualquiera otra causa.
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2002)</small>
+
+IV. Los capitales y créditos a favor del municipio, así como los intereses y productos que se generen los mismos.
+
+> <small>(ADICIONADA, B.O. 10 DE JULIO DE 2002)</small>
+
+V. Los bienes muebles e inmuebles propiedad del municipio.
 
 ## TITULO V. REGIMEN ADMINISTRATIVO
 
@@ -959,37 +989,63 @@ Cualquier ciudadano bajo su más estricta responsabilidad podrá formular denunc
 
 ### CAPITULO TERCERO. DE LOS SERVICIOS PUBLICOS
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 2002)</small>
 
 ###### Artículo 66.
 
-Los Municipios, con el concurso del Estado cuando así fuere necesario, organizarán y reglamentarán la administración, funcionamiento, conservación o explotación de los servicios públicos, considerándose enunciativamente y no limitativamente como tales, los siguientes:
+Los Municipios, con el concurso del Estado cuando aquéllos lo soliciten, en términos de lo dispuesto por la Constitución del Estado, organizarán y reglamentarán la administración, funcionamiento, conservación o explotación de los servicios públicos, considerándose enunciativamente y no limitativamente como tales, los siguientes:
 
-I. Agua Potable y Alcantarillado.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2002)</small>
+
+I. Agua Potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales.
+
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 II. Alumbrado Público.
 
-III. Limpia.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2002)</small>
+
+III. Limpia, recolección, traslado, tratamiento y disposición final de residuos.
+
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 IV. Mercados centros de abasto.
 
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 V. Panteones.
+
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 VI. Rastros.
 
-VII. Calles, parque y jardines.
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2002)</small>
 
-VIII. Seguridad pública y tránsito.
+VII. Calles, parques y jardines y su equipamiento.
+
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2002)</small>
+
+VIII. Seguridad pública policía preventiva y tránsito en el ámbito de sus competencias.
+
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 IX. Conservación de obras de interés social.
 
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 X. Fomento y conservación de áreas verdes y recreativas.
+
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
 
 XI. Catastro.
 
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
+
 XII. Registro Público de la Propiedad y del Comercio.
 
-Los Municipios del Estado, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les correspondan.
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2002)</small>
+
+Los municipios del Estado, previo acuerdo entre sus ayuntamientos podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de municipios de dos o más Estados, deberán contar con la aprobación del Congreso del Estado. Asimismo, cuando a juicio del ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Gobierno del Estado para que este, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien, lo ejerzan coordinadamente el Gobierno del Estado y el ayuntamiento correspondiente.
 
 ###### Artículo 67.
 
@@ -1015,11 +1071,11 @@ II. Si con la concesión del servicio público se afectan bienes inmuebles munic
 
 ### CAPITULO CUARTO. DE LOS ACTOS ADMINISTRATIVOS MUNICIPALES
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JULIO DE 2002)</small>
 
 ###### Artículo 71.
 
-Los Ayuntamientos necesitan autorización del Congreso del Estado para:
+Los ayuntamientos necesitan autorización del Congreso del Estado para:
 
 I. Obtener empréstitos cuyo pago sea posterior al del período de ejercicio del Ayuntamiento.
 
@@ -1035,9 +1091,9 @@ VI. Desafectar del servicio público los bienes municipales.
 
 VII. Cambiar las categorías políticas de las poblaciones; y
 
-> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, B.O. 10 DE JULIO DE 2002)</small>
 
-VIII. Celebrar convenios con otros Ayuntamientos o con el Gobierno del Estado.
+VIII. Celebrar convenios para la mejor prestación de servicios públicos a su cargo con ayuntamientos de otros estados.
 
 IX. Los demás casos establecidos por las Leyes.
 
@@ -1105,17 +1161,21 @@ Los Ayuntamientos procurarán que en la integración de las Comisiones o grupos 
 
 ### CAPITULO SEXTO. DE LA POLICIA Y TRANSITO MUNICIPAL
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2002)</small>
+
 ###### Artículo 83.
 
-En cada Municipio, deberá existir un cuerpo de seguridad pública y de tránsito, que estará bajo el mando del Presidente Municipal, con la salvedad a que se refiere la fracción XII del artículo 79 de la Constitución Estatal.
+En cada municipio, deberá existir un cuerpo de seguridad pública preventiva y de tránsito, que estará al mando del Presidente Municipal, en los términos del reglamento correspondiente, y únicamente acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
 
 ###### Artículo 84.
 
 El tránsito de peatones, vehículos y semovientes en las vías públicas de jurisdicción local o estatal, estará regulada por un Reglamento General que deberá expedir el Gobernador del Estado, aplicable en toda la Entidad. Cada Municipio tendrá su personal administrativo y de vigilancia para el debido cumplimiento y aplicación de dicho ordenamiento.
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2002)</small>
+
 ###### Artículo 85.
 
-Los Municipios en materia de tránsito tendrán las funciones y facultades que le señale el Reglamento respectivo, y se buscará que en materia de dotación de placas, tramitación y expedición de licencias para conductores de vehículos y documentación para los diversos actos y registros sobre la materia, exista uniformidad de requisitos y trámites, así como pago de derechos y se evite la duplicidad de gestiones y registros. En casos no previstos en el Reglamento, los Municipios del Estado podrán expedir sus bandos y reglamentos y celebrar convenios con fines de cooperación, reciprocidad y ayuda mutua, así como para intercambio de datos estadísticos, fichas e informes o cualquier otro dato que tienda a mejorar el control del tránsito de personas y vehículos.
+Los municipios, en materia de tránsito tendrán las funciones y facultades que les señale el reglamento respectivo, y se buscará que en materia de dotación de placas, tramitación y expedición de licencias para conductores de vehículos y documentación para los diversos actos y registros sobre la materia, exista uniformidad de requisitos y trámites, así como pago de derechos y se evite la duplicidad de gestiones y registros. En casos no previstos en el reglamento, los municipios del Estado podrán aprobar y expedir sus bandos y reglamentos y celebrar convenios con fines de cooperación, reciprocidad y ayuda mutua, así como para intercambio de datos estadísticos, fichas e informes o cualquier otro dato que tienda a mejorar el control del tránsito de personas y vehículos.
 
 ###### Artículo 86.
 
@@ -1153,27 +1213,33 @@ VIII. Las demás que le encomiende el Ayuntamiento y las que le asignen la Leyes
 
 ### CAPITULO UNICO. BANDOS Y REGLAMENTOS
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2002)</small>
+
 ###### Artículo 90.
 
-Los Ayuntamientos expedirán los Bandos y Reglamentos Municipales y el Presidente los promulgará.
+Los ayuntamientos aprobarán y expedirán los bandos de policía y gobierno y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones y el Presidente los promulgará.
 
-> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2002)</small>
 
 ###### Artículo 91.
 
-Los Bandos y Reglamentos deberán contener las normas de observancia general que requiere el Régimen, el Orden y Buen Gobierno y el Funcionamiento de los servicios públicos y establecimientos de la administración municipal, sujetándose a las bases que señala el Congreso del Estado.
+Los actos administrativos a que se refiere el artículo anterior deberán contener las normas de observancia general que requiere el orden y buen gobierno, así como el debido funcionamiento de los servicios públicos y establecimientos de la administración municipal, sujetándose a las bases que señala la presente ley y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2002)</small>
 
 ###### Artículo 92.
 
-Los Bandos y Reglamentos podrán modificarse en cualquier momento, siempre y cuando se cumplan los requisitos de su aprobación, expedición y promulgación.
+Los bandos de policía y gobierno y los reglamentos, circulares y disposiciones administrativas de observancia general podrán ser modificados en cualquier momento siempre y cuando se cumplan los requisitos de aprobación, expedición y promulgación.
 
 ###### Artículo 93.
 
-Los Ayuntamientos podrán expedir los Reglamentos que consideren necesarios para regular las diversas esferas de competencia Municipal.
+(DEROGADO, B.O. 10 DE JULIO DE 2002)
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2002)</small>
 
 ###### Artículo 94.
 
-Los Bandos y Reglamentos Municipales, sus reformas y adiciones, deberán publicarse en el Boletín Oficial del Estado, para que tengan plena vigencia y establecer la fecha en que se inicie su obligatoriedad, precisamente al promulgarse.
+Los actos administrativos referidos en el artículo 90 de esta ley, así como sus reformas y adiciones, deberán publicarse en el Boletín Oficial del Gobierno del Estado para que éstos sean aplicados y observados debidamente.
 
 ## TITULO VII. DE LAS SANCIONES, MEDIDAS DE SEGURIDAD Y RECURSOS ADMINISTRATIVOS
 
@@ -1267,9 +1333,11 @@ En contra de las sanciones impuestas por los Delegados Municipales, procederá e
 
 ### CAPITULO UNICO. ASESORIA MUNICIPAL
 
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2002)</small>
+
 ###### Artículo 106.
 
-El Ejecutivo del Estado asume la representación jurídica del Municipio en todos los asuntos que deban tratarse y resolverse fuera de la Entidad.
+Con la aprobación de las dos terceras partes de sus integrantes, los ayuntamientos podrán convenir con el Ejecutivo del Estado que los represente jurídicamente en asuntos que deban tratarse y resolverse fuera de la entidad, en los términos de la fracción XVII del artículo 148 de la Constitución Política del Estado de Baja California Sur.
 
 ###### Artículo 107.
 
@@ -1482,3 +1550,13 @@ El presente Decreto entrará en vigor a partir del día siguiente de su publicac
 ###### ARTICULO SEGUNDO.
 
 Las leyes, reglamentos y disposiciones de carácter administrativo que correspondan deberán adecuarse al contenido del presente Decreto.
+
+B.O. 10 DE JULIO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+Los ayuntamientos de la entidad contarán con noventa días naturales par (sic) los efectos de lo dispuesto por los artículos 26, 90, 91, 92, y 94 de la Ley Orgánica Municipal Reglamentaria del Título Octavo de la Constitución Política del Estado de Baja California Sur, reformados por este Decreto, en lo que se refiere a los bandos de policía y gobierno y reglamentos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
