@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-deuda-publica-municipal-del-estado-de-mexico-5977"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-31"
-last_updated: "1986-12-31"
+last_updated: "1987-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DE DEUDA PUBLICA MUNICIPAL DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE MARZO DE 1987 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE DEUDA PUBLICA MUNICIPAL DEL ESTADO DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 12 DE MARZO DE 1987.]</small>
 
 Ley publicada en el Número 129 de la Gaceta del Gobierno del Estado de México, el miércoles 31 de diciembre de 1986.
 
@@ -41,9 +41,11 @@ LEY DE DEUDA PUBLICA MUNICIPAL DEL ESTADO DE MEXICO
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(F. DE E., G.G. 12 DE MARZO DE 1987)</small>
+
 ###### ARTICULO 1o.
 
-Es materia de esta Ley, el establecimiento de bases para la concentración y contratación de empréstitos y créditos; su registro y control; así como la regulación del manejo de las operaciones financieras que en su conjunto constituyen la Deuda Pública Municipal del Estado de México.
+Es materia de esta Ley, el establecimiento de bases para la concertación y contratación de empréstitos y créditos; su registro y control; así como la regulación del manejo de las operaciones financieras que en su conjunto constituyen la Deuda Pública Municipal del Estado de México.
 
 ###### ARTICULO 2o.
 
@@ -57,15 +59,19 @@ III.- Los Fideicomisos en que sea fideicomitente alguno de los Municipios del Es
 
 IV.- Las Empresas de participación Municipal Mayoritarias.
 
+> <small>(F. DE E., G.G. 12 DE MARZO DE 1987)</small>
+
 ###### ARTICULO 3o.
 
-Son operaciones de Deuda Pública Municipal las que contraigan las Entidades Públicas enumeradas en el artículo 2o.-Anterior, siempre que no estén dentro de las prohibiciones previstas por la fracción VIII del artículo 117 de la Constitución General de la República y revestirán las siguientes formas:
+Son operaciones de Deuda Pública Municipal las que contraigan las Entidades Públicas enumeradas en el artículo 2o. anterior, siempre que no estén dentro de las prohibiciones previstas por la fracción VIII del artículo 117 de la Constitución General de la República y revestirán las siguientes formas:
 
 I.- Los empréstitos o financiamientos directos que contraten los Ayuntamientos.
 
 II.- Las obligaciones indirectas por créditos que contraten los organismos descentralizados municipales, las empresas de participación municipal mayoritarias y los fideicomisos.
 
 III.- Las obligaciones contingentes contraídas por los Municipios con carácter de avalista ó deudor solidario en operaciones contratadas por sus organismos, fideicomisos y empresas municipales de participación municipal mayoritaria.
+
+> <small>(F. DE E., G.G. 12 DE MARZO DE 1987)</small>
 
 ###### ARTICULO 4o.
 
@@ -133,7 +139,9 @@ I.- Proporcionar los informes, datos y cooperación técnica que requieran los A
 
 II.- Asesorar técnicamente y apoyar a las Entidades Públicas Municipales en la gestión, concertación y contratación de sus operaciones de deuda pública.
 
-III.- Promover y apoyar la operación de instrumentos y modalidades de financiamiento municipal incluyendo adquisiciones consolidades (sic) de bienes, pagaderas a plazo, emisión y colocación de valores, constitución de fondos y otros que autoricen las Leyes respectivas.
+> <small>(F. DE E., G.G. 12 DE MARZO DE 1987)</small>
+
+III.- Promover y apoyar la operación de instrumentos y modalidades de financiamiento municipal incluyendo adquisiciones consolidadas de bienes, pagaderas a plazo, emisión y colocación de valores, constitución de fondos y otros que autoricen las Leyes respectivas.
 
 IV.- Vigilar el estricto cumplimiento del endeudamiento neto en los términos autorizados por la Legislatura en la Ley de Ingresos para cada Municipio.
 
@@ -157,7 +165,9 @@ IV.- Reestructurar créditos ya adquiridos modificando tasas de interés, plazos
 
 V.- Proporcionar información que la Legislatura, y el Ejecutivo del Estado le soliciten en relación a las operaciones de deuda pública.
 
-VI.- Sustituír su calidad de deudor directo al transferir total o parcialmente su obligación, cuando sus organismos descentralizados, empresas de participación municipal y fideicomisos se subroguen en los compromisos financieros contraídos originalmente por los Ayuntamientos; pudiendo también asumir la calidad de avalistas cuando así lo autorice el Cabildo.
+> <small>(F. DE E., G.G. 12 DE MARZO DE 1987)</small>
+
+VI.- Sustituír su calidad de deudor directo al transferir total o parcialmente su obligación, cuando sus organismos descentralizados, empresas de participación municipal y fideicomisos se subroguen en los compromisos financieros contraídos originalmente por los Ayuntamientos; pudiendo también asumir la calidad de avalista cuando así lo autorice el Cabildo.
 
 VII.- Autorizar la afectación de sus Ingresos Municipales en Gravámenes y Fondos Federales Repartibles, en garantía de obligaciones que contraiga.
 
@@ -179,9 +189,11 @@ Los Municipios podrán emitir certificados de participación inmobiliaria para f
 
 Los Municipios en cualquier momento y previa autorización del Cabildo podrán realizar operaciones en virtud de las cuales, los particulares, las Entidades Públicas, concesionarios ó usuarios del sector privado ó social se subroguen en los adeudos suscritos originalmente por los Ayuntamientos.
 
+> <small>(F. DE E., G.G. 12 DE MARZO DE 1987)</small>
+
 ###### ARTICULO 15.
 
-Los Ayuntamientos previa autorización en Cabildo podrán suscribir los contratos, pagarés, letras de cambio o cualquier otro título de crédito, que formalicen las operaciones a que se refiere la presente Ley, los contratos y convenios serán firmados por el Presidente Srio. y Tesorero Municipales. Los títulos de crédito que se emitan serán firmados por el Presidente y Tesorero Municipales.
+Los Ayuntamientos previa autorización en Cabildo podrán suscribir los contratos, pagarés, letras de cambio o cualquier otro título de crédito, que formalicen las operaciones a que se refiere la presente Ley, los contratos y convenios serán firmados por el Presidente, Secretario, y Tesorero Municipales. Los títulos de crédito que se emitan serán firmados por el Presidente y Tesorero Municipales.
 
 De la misma forma se documentarán las operaciones por las que se substituya como acreditado, cambie su calidad de deudor directo a avalista ó subroguen su deuda a terceros.
 
@@ -249,15 +261,19 @@ IV.- Información sobre el destino de la obligación.
 
 V.- Cualquier otro requisito que en forma general determine la Secretaría de Finanzas.
 
+> <small>(F. DE E., G.G. 12 DE MARZO DE 1987)</small>
+
 ###### ARTICULO 24.
 
 En los casos en que por circunstancias extraordinarias se requiera el aval del Gobierno del Estado respecto de obligaciones de los Ayuntamientos, organismos descentralizados, empresas de participación municipal mayoritarias o fideicomisos, la solicitud se formulará por conducto del Ayuntamiento respectivo y contendrá además la autorización del cabildo o del órgano de gobierno interno de las citadas entidades y la justificación del carácter extraordinario de su solicitud, el Ejecutivo del Estado por conducto de la Secretaría de Finanzas resolverá sobre la procedencia de la solicitud en razón de las circunstancias que la originan y a la capacidad que tenga para adquirir obligaciones contingentes. En caso de otorgarse el aval, este formará parte de la deuda pública Estatal en los términos de la Ley de la Materia.
 
 ### CAPITULO QUINTO. DEL REGISTRO DE DEUDA PUBLICA MUNICIPAL
 
+> <small>(F. DE E., G.G. 12 DE MARZO DE 1987)</small>
+
 ###### ARTICULO 25.
 
-Todas las obligaciones directas, indirectas y contingentes que contraigan las Entidades Públicas enumeradas en el artículo 2 de la presente Ley, invariablemente se inscribirán en el Registro de la Deuda Pública Municipal, presentando para tal efecto la documentación que solicite la Secretaría de Finanzas.
+Todas las obligaciones directas, indirectas y contingentes que contraigan las Entidades Públicas enumeradas en el artículo 2 de la presente Ley, invariablemente se inscribirán en el Registro de Deuda Pública Municipal, presentando para tal efecto la documentación que solicite la Secretaría de Finanzas.
 
 ###### ARTICULO 26.
 
