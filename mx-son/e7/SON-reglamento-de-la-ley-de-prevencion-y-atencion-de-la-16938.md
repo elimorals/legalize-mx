@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-la-ley-de-prevencion-y-atencion-de-la-16938"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-03-30"
-last_updated: "2000-03-30"
+last_updated: "2004-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO DE LA LEY DE PREVENCION Y ATENCION DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE ABRIL DE 2004.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 30 de marzo de 2000.
 
@@ -47,9 +47,13 @@ Para los efectos del presente Reglamento se entiende por:
 
 I.- Ley: La Ley de Prevención y Atención de la Violencia Intrafamiliar para el Estado de Sonora;
 
-II.- Secretaría: La Secretaría de Salud Pública del Gobierno del Estado;
+> <small>(REFORMADA, B.O. 5 DE ABRIL DE 2004)</small>
 
-III.- Procuraduría: Procuraduría General de Justicia del Estado;
+II.- Secretaría: La Secretaría de Salud Pública;
+
+> <small>(REFORMADA, B.O. 5 DE ABRIL DE 2004)</small>
+
+III.- Procuraduría: Procuraduría General de Justicia;
 
 IV.- DIF Estatal: El organismo público descentralizado denominado Sistema para el Desarrollo Integral de la Familia;
 
@@ -327,21 +331,29 @@ El Consejo Estatal podrá percibir además recursos derivados de aportaciones, l
 
 La Procuraduría, conforme a las disposiciones aplicables, coordinará la programación y la presupuestación del Consejo Estatal.
 
+> <small>(REFORMADO, B.O. 5 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 32.
 
-El Consejo Estatal, en las actividades de presupuesto de recursos oficiales, contabilidad, así como en el ejercicio, vigilancia y evaluación del gasto público que se le asigne, se sujetará a las bases, procedimientos y requisitos que establece la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público Estatal, su Reglamento y a las disposiciones administrativas que, en el ámbito de sus respectivas competencias, expidan la Secretaría de Hacienda y la Secretaría de la Contraloría General del Estado.
+El Consejo Estatal, en las actividades de presupuesto de recursos oficiales, contabilidad, así como en el ejercicio, vigilancia y evaluación del gasto público que se le asigne, se sujetará a las bases, procedimientos y requisitos que establece la Ley de Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público Estatal, su Reglamento y a las disposiciones administrativas que, en el ámbito de sus respectivas competencias, expidan la Secretaría de Hacienda y la Secretaría de la Contraloría General.
+
+> <small>(REFORMADO, B.O. 5 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 33.
 
-El Consejo Estatal, a través de la Procuraduría, deberá rendir cuenta detallada de la aplicación de los recursos económicos que le asigne el Ejecutivo Estatal, así como la información y justificación correspondiente, a la Secretaría de Planeación del Desarrollo y Gasto Publico.
+El Consejo Estatal, a través de la Procuraduría, deberá rendir cuenta detallada de la aplicación de los recursos económicos que le asigne el Ejecutivo Estatal, así como la información y justificación correspondiente, a la Secretaría de Hacienda.
+
+> <small>(REFORMADO, B.O. 5 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 34.
 
-El Consejo Estatal estará sujeto a las disposiciones y lineamientos de la Secretaría de la Contraloría General del Estado, por conducto de la Procuraduría, en las actividades de examen y vigilancia del ejercicio del gasto público que se le asigne.
+El Consejo Estatal estará sujeto a las disposiciones y lineamientos de la Secretaría de la Contraloría, por conducto de la Procuraduría, en las actividades de examen y vigilancia del ejercicio del gasto público que se le asigne.
+
+> <small>(REFORMADO, B.O. 5 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 35.
 
-El Consejo Estatal en materia de evaluación deberá proporcionar a la Secretaría de Planeación del Desarrollo y Gasto Publico la información que le requiera para efectos de integrar el Informe de Gobierno, los informes de ejecución del Plan Estatal y Programas que de él se deriven, así como del contenido de las Cuentas Públicas del Estado.
+El Consejo Estatal en materia de evaluación deberá proporcionar a la Secretaría de Hacienda la información que le requiera para efectos de integrar el Informe de Gobierno, los informes de ejecución del Plan Estatal y Programas que de él se deriven, así como del contenido de las Cuentas Públicas del Estado.
 
 ### CAPITULO IV. DE LOS PROCEDIMIENTOS DE CONCILIACION Y ARBITRAJE
 
@@ -399,6 +411,8 @@ III.- La comparecencia y declaración de cada una de las partes relacionadas con
 
 Las resoluciones de la PRODEMEFA que impongan sanciones deberán ser notificadas personalmente a quien deba cumplirlas, excepto cuando contengan arresto administrativo que se ejecutará sin más trámite.
 
+> <small>(REFORMADO, B.O. 5 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 45.
 
 El monto de las cantidades que por concepto de multas hiciere efectivas la Secretaría de Hacienda serán destinadas a la ejecución de los programas de prevención y atención de la violencia intrafamiliar, por conducto de la Procuraduría.
@@ -416,3 +430,15 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 Dado en la residencia del Poder Ejecutivo en la ciudad de Hermosillo, Sonora, a los veinte días del mes de marzo del año dos mil.
 
 EL GOBERNADOR DEL ESTADO DE SONORA.- ARMANDO LOPEZ NOGALES.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- OSCAR LOPEZ VUCOVICH.- RUBRICA.-
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 5 DE ABRIL DE 2004.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Las restantes disposiciones que integran el articulado del Reglamento que se reforma, subsistirán con toda su eficacia de carácter legal.
