@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-municipal-del-estado-de-michoacan-6142"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1982-08-05"
-last_updated: "1984-03-05"
+last_updated: "1984-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6142&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGANICA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MARZO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1984.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán de Ocampo, el jueves 5 de agosto de 1982.
 
@@ -50,6 +50,8 @@ La presente Ley tiene por objeto fijar las normas a que se sujetarán la organiz
 El Municipio Libre es la base de la división territorial y de la organización política y administrativa del Estado, reflejada en la asociación de vecindad constituida por vínculos legales fincados en el domicilio, asentada en un territorio jurisdiccionalmente delimitado con derecho a un gobierno propio, representativo y popular.
 
 ### CAPITULO II. DE LA DIVISION POLITICA MUNICIPAL
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1984)</small>
 
 ###### ARTICULO 3o.
 
@@ -849,7 +851,7 @@ II. Dirigir y vigilar el funcionamiento de los servicios públicos municipales y
 
 III. Cuidar que los órganos administrativos municipales se integren y funcionen de acuerdo a la legislación vigente;
 
-IV. Nombrar y remover empleados y funcionarios cuya designación no sean privativa del Ayuntamiento;
+IV. Nombrar y remover empleados y funcionarios cuya designación no sea privativa del Ayuntamiento;
 
 V. Cumplir y hacer cumplir la Ley Orgánica Municipal, los reglamentos y las resoluciones del Ayuntamiento;
 
@@ -1490,3 +1492,7 @@ P.O. 5 DE MARZO DE 1984.
 PRIMERO. Este Decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 1984.
+
+UNICO.- Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
