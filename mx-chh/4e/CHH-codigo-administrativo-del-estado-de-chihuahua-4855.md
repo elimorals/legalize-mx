@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "1987-09-16"
+last_updated: "1988-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 1988.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -1781,37 +1781,41 @@ TERCERA PARTE
 
 ### CAPITULO I. DE LAS OFICINAS DEL REGISTRO PUBLICO Y DE SUS ENCARGADOS
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 271.
 
-En cada cabecera de los Distritos Judiciales existirá una Oficina del Registro Público de la Propiedad.
+El Departamento del Registro Público de la Propiedad y del Notariado, depende de la Secretaría de Gobierno y tiene las siguientes atribuciones, en materia registral de la propiedad:
 
-La Oficina del Registro Público de la Propiedad del Distrito Judicial Morelos, con sede en la Capital del Estado, se le denominará Central y además de las facultades y obligaciones propias de su función, tendrá las siguientes:
-
-I.- Por su conducto el Ejecutivo del Estado ejercerá la dirección de la función registral de la propiedad;
+I.- Por su conducto la Secretaría de Gobierno ejercerá la dirección de la función registral de la propiedad;
 
 II.- Atenderá todas las cuestiones de la fe pública del Estado, relativas a Registros Públicos de la Propiedad;
 
-III.- Comunicará al titular del Ejecutivo del Estado, cualquier irregularidad que advierta en el funcionamiento de las Oficinas de los Registros Públicos de la Propiedad y todo aquello que tenga relación con el buen servicio y exacto cumplimiento del presente Código;
+III.- Comunicará a la Secretaría de Gobierno cualquier irregularidad que advierta en la organización y funcionamiento de las oficinas de los Registros Públicos de la Propiedad y todo aquello que tenga relación con el buen servicio y exacto cumplimiento de la Ley;
 
-IV.- Cuando lo estime conveniente mandará se practiquen visitas a las Oficinas de los Registros Públicos de la Propiedad con el objeto de saber si en los actos de dichas oficinas, se han llenado los requisitos legales de forma y contenido y se cumplen las disposiciones jurídicas respectivas;
+IV.- Mandará que se practiquen cuando menos anualmente, visitas a las oficinas de los Registros Públicos de la Propiedad, con el objeto de saber si en los actos de dichas Oficinas se han llenado los requisitos legales de forma y contenido y se cumplen las disposiciones jurídicas respectivas;
 
-V.- Vigilará el funcionamiento de las Oficinas de los Registros Públicos de la Propiedad;
+V.- Vigilará el funcionamiento de las Oficinas de los Registros Públicos de la Propiedad; y
 
-VI.- Las demás atribuciones que sean propias y naturales del cargo o que las leyes le impongan.
+VI.- Las demás que sean propias y naturales del órgano o que las leyes le otorguen.
+
+En cada cabecera de los Distritos judiciales existirá una Oficina del Registro Público de la Propiedad.
+
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
 
 ###### ARTICULO 272.
 
-Para ser Encargado del Registro Público de la Propiedad se requiere:
+Para ser Jefe o Subjefe del Departamento del Registro Público de la Propiedad y del Notariado se requiere:
 
-I.- Ser mexicano, tener veinticinco años cumplidos y estar en ejercicio de sus derechos de ciudadano;
+I.- Ser mexicano por nacimiento, tener veinticinco años cumplidos y estar en ejercicio de sus derechos;
 
-II.- Haber tenido y tener buena conducta privada y profesional;
+II.- Ser Licenciado en Derecho con título legalmente expedido y debidamente registrado;
 
-III.- Ser Licenciado en Derecho, con título legalmente expedido y debidamente registrado en la Oficina Estatal de Profesiones;
+III.- Haber tenido y tener buena conducta privada y profesional; y
 
-IV.- No tener enfermedad que le impida el ejercicio de las facultades intelectuales, ni impedimento que se oponga a las funciones registrales.
+IV.- No tener impedimento físico o mental que se oponga a las funciones registrales.
 
-Los requisitos señalados anteriormente, se exigirán tambien respecto de la persona que supla al Encargado de la Oficina Central del Registro Público de la Propiedad.
+Los requisitos anteriores se exigirán también respecto de los Jefes y Subjefes de las Oficinas del Registro Público de la Propiedad.
 
 ###### ARTICULO 273.
 
@@ -1827,9 +1831,11 @@ Los Encargados del Registro Público de la Propiedad sólo podrán desempeñar l
 
 Sólo podrán actuar como Notarios, cuando de conformidad con los artículos 273 y 343 de este Código sean titulares de un juzgado de Primera Instancia y Encargados de la Oficina del Registro Público de la Propiedad y ejerzan la función notarial por receptoría.
 
+REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 1988)
+
 ###### ARTICULO 276.
 
-Son obligaciones del Encargado del Registro:
+Son obligaciones de los Jefes de las Oficinas del Registro Público de la Propiedad.
 
 I.- Realizar sus funciones con exacto cumplimiento de las prescripciones de este Código, de la legislación civil y de las demás disposiciones legales correspondientes;
 
@@ -1849,7 +1855,9 @@ VIII.- Rendir dentro de los primeros cinco días hábiles de cada mes, a la Teso
 
 IX.- Permitir en los términos del artículo 2893 del Código Civil que cualquier persona examine los libros del Registro, siempre que esto se efectúe en la Oficina dentro de las horas de despacho y no se esté trabajando en el libro que se pretende examinar. Los interesados podrán tomar notas, pero no sacar copias de los asientos ni de los documentos agregados en los apéndices;
 
-X.- Al Encargado de la Oficina Central del Registro Público de la Propiedad corresponde conservar bajo su cuidado los libros y demás anexos que hayan pertenecido a otra Oficina del Registro suprimida legalmente, haciendo en ellos las anotaciones y expidiendo las copias y certificaciones que de sus inscripciones prevenga la ley.
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 1988)</small>
+
+X.- Las demás que establezcan otras disposiciones al Departamento del Registro Público de la Propiedad y del Notariado le corresponde conservar bajo su cuidado los libros y demás anexos que hayan pertenecido a una oficina del registro suprimida legalmente, haciendo en ello las anotaciones y expidiendo las copias y certificaciones que prevenga la Ley.
 
 ###### ARTICULO 277.
 
@@ -1887,9 +1895,11 @@ Por lo que a las faltas temporales o accidentales del Encargado de la Oficina Ce
 
 Cuando se separe definitivamente del ejercicio de sus funciones el Encargado del Registro Público, pondrá en cada uno de los libros en uso, la constancia de separación y de entrega a la persona designada para sustituirlo. El Encargado que sustituya al anterior firmará de recibo las notas a que éste se refiere.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 283.
 
-Además de cumplir con lo prevenido en el artículo anterior, se formarán inventarios por duplicado de entrega y de recibo de todo cuanto pertenezca al Registro y en el caso de la Oficina del Distrito Morelos, se incluirán los protocolos y sus anexos depositados en la Dirección General del Notariado, cuando el titular de esta Dependencia lo sea de aquélla.
+Además de cumplir con lo prevenido en el Artículo anterior, se formarán inventarios por duplicado de entrega y recibo de todo cuanto pertenezca a la Oficina.
 
 ### CAPITULO II. DE LOS LIBROS DE REGISTRO Y APENDICES
 
@@ -1903,7 +1913,9 @@ El Registro Público de la Propiedad se compondrá de siete secciones denominada
 
 Para cada Sección se llevarán libros numerados por orden progresivo. Cada libro se compondrá de doscientas veinte páginas, la primera sin numerar y el resto numeradas progresivamente, las que tendrán las medidas que determine el titular del Ejecutivo. Cada página tendrá un primer espacio para anotaciones y el resto contendrá el cuerpo de la inscripción. Los libros deberán estar empastados, forrados de tela u otro material resistente. La primer hoja de cada libro se destinará a su autorización, las siguientes cien a inscripciones, las siguientes cuatro se destinarán para continuar las anotaciones marginales, en caso de haberse agotado el espacio marginal y las últimas cinco se destinarán al índice del libro.
 
-Cada libro deberá estar autorizado por el Jefe de la Oficina Central del Registro Público de la Propiedad, quien hará constar la fecha de la autorización, la Sección a la que se destine y los número de los libros de cada Sección que se lleven simultáneamente y hará sellar tanto la autorización como las hojas del libro.
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
+
+Cada libro deberá estar autorizado por el Jefe del Departamento, quien hará constar la fecha de la autorización, la sección a la que se destine y los números de libros de cada sección que se lleven simultáneamente y hará sellar tanto la autorización como las hojas del libro.
 
 Para cada Sección podrán llevarse varios libros simultáneamente, según sus necesidades, previo acuerdo del titular del Ejecutivo, acuerdo que en todo caso se agregará al apéndice del libro respectivo. Se seguirá un orden riguroso en la numeración que corresponda a cada inscripción, yendo de un libro a otro en cada acto, hasta llegar al último y volviendo de éste al primero.
 
@@ -2333,15 +2345,13 @@ Los notarios tienen derecho a cobrar y a percibir de los interesados los honorar
 
 En los protestos, interpelaciones y demás diligencias que deba practicar el notario conforme a la ley, cuando ellas mismas se resistan o se opongan con violencia las personas con quienes hayan de entenderse, la policía prestará a los notarios el auxilio que se requiera para llevar a cabo dichas diligencias.
 
+> <small>(REFORMADO, P.O. 25 DE JUNIO DE 1988)</small>
+
 ###### ARTICULO 348.
 
-La dirección y vigilancia de la función notarial queda a cargo del Ejecutivo del Estado, por conducto de la Dirección General del Notariado, la que podrá, cuando lo estime conveniente, mandar que se practiquen visitas a los notarios, con el objeto de saber si al autorizar las escrituras y actas han llenado los requisitos legales de las mismas, debiendo el visitador rendir el informe a la misma Dirección con el resultado de la visita. Los notarios están obligados a mostrar su archivo a los visitadores y proporcionarles toda serie de informes y facilidades para el desempeño de su cometido. Las visitas, excepto las extraordinarias y especiales, deberán practicarse con la observancia de los siguientes requisitos:
+La dirección y vigilancia de la función notarial queda a cargo de la Secretaría de Gobierno, por conducto del Departamento del Registro Público de la Propiedad y del Notariado, el que podrá, cuando lo estime conveniente, mandar que se practiquen visitas a los Notarios, con el objeto de cerciorarse si al autorizar las escrituras y actas han llenado los requisitos legales de las mismas, debiendo el visitador rendir el informe del Departamento con el resultado de la visita, los Notarios están obligados a mostrar su archivo a los visitadores y proporcionarles toda serie de informes y facilidades para el desempeño de su cometido, las visitas, excepto las extraordinarias y especiales, deberán practicarse anualmente, dando aviso al Notario con anticipación de cinco días hábiles.
 
-I.- Se dará aviso al notario con anticipación no menor de cinco días;
-
-II.- Deberá levantarse acta de la cual se entregará copia al notario;
-
-III.- El notario tendrá derecho a hacer observaciones, que deberán asentarse en el acta.
+En todo caso se entregará a este copia del acta correspondiente y tendrá derecho a que se asienten las observaciones que estime pertinentes.
 
 ###### ARTICULO 349.
 
@@ -2661,7 +2671,7 @@ El notario, en relación con los libros del protocolo llevará una carpeta por c
 
 Los documentos del apéndice, se arreglarán por legajos, poniéndose en cada uno de ellos el número que corresponde a la escritura o acta a que se refieren y en cada no de los documentos se pondrá una letra que lo señale y distinga de los otros que forman el legajo.
 
-De los expediente que se protocolicen por mandato judicial, se agregará una copia certificada al apéndice del volumen respectivo y se considerarán como un solo documento.
+De los expedientes que se protocolicen por mandato judicial, se agregará una copia certificada al apéndice del volumen respectivo y se considerarán como un solo documento.
 
 ###### ARTICULO 406.
 
@@ -10639,7 +10649,7 @@ DECIMA PRIMERA PARTE
 
 > <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
+#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10655,7 +10665,9 @@ En todo lo relativo a la estructura vial y sistema de transporte en el Estado, s
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION SEXTA. DEL MEJORAMIENTO
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
 
 ###### ARTICULO 1504.
 
@@ -10753,7 +10765,7 @@ En los casos del artículo anterior, a solicitud del ayuntamiento el Programa de
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 25 DE ENERO DE 1984)</small>
 
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+#### SECCION QUINTA. DE LA VIVIENDA
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
@@ -10805,9 +10817,7 @@ Una vez determinados los jefes de familia beneficiados y cubierto el precio, la 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1521.
 
@@ -10851,9 +10861,9 @@ Para la construcción de viviendas deberá mediar solicitud del interesado ante 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 1984)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ###### ARTICULO 1525.
 
@@ -10893,7 +10903,7 @@ Los propietarios y poseedores de los predios incluidos en los programas de mejor
 
 En el caso de que los propietarios o poseedores no cumplan con las obligaciones o convenios indicados por los dos artículos anteriores, el Ejecutivo del Estado podrá proceder a la expropiación por causa de utilidad pública.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 #### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
 
@@ -10947,7 +10957,7 @@ V.- Medios para la satisfacción de la demanda; y
 
 VI.- Régimen financiero para la ejecución de la obra.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 1977)</small>
 
 ### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
@@ -12898,3 +12908,9 @@ ESTA LEY ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO
 ###### ARTICULO SEGUNDO.
 
 SE DEROGA EL LIBRO SEGUNDO, TÍTULO UNICO, DE LA ASISTENCIA PÚBLICA, CAPÍTULO UNICO, DEL PATRONATO, ARTÍCULOS DEL 1091 AL 1118 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO Y LA FRACCIÓN XIII DEL ARTÍCULO 29 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA.
+
+P.O. 25 DE JUNIO DE 1988.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Todas las atribuciones otorgadas por la Ley, a la Oficina Central del Registro Público de la Propiedad o de la Dirección General del Notariado, se entenderán propias del Departamento del Registro Público de la Propiedad y del Notariado.
