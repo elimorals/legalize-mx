@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1928-12-04"
+last_updated: "1928-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 1928.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 1928.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -365,19 +365,23 @@ IV. El Secretario General, el Procurador General de Justicia, el Tesorero Genera
 
 El Gobernador entrará a ejercer su encargo el diez y seis de septiembre, durará en él cuatro años y nunca podrá ser reelecto.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
+
 ###### Art. 51.
 
-En caso de falta absoluta del Gobernador del Estado, ocurrida en los tres primeros años del período respectivo, si el Congreso estuviere en sesiones, se constituirá en Colegio electoral inmediatamente y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos un Gobernador. Al mismo tiempo el Congreso expedirá la convocatoria a elecciones para Gobernador.
+En caso de falta absoluta del Gobernador del Estado, ocurrida en el primer año del período respectivo, si el Congreso estuviese en sesiones, se constituirá en Colegio Electoral inmediatamente y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto por mayoría de votos un Gobernador Provisional. Al mismo tiempo expedirá la convocatoria a elecciones para Gobernador Substituto que termine el período Constitucional. En caso de renuncia del cargo se procederá en los mismos términos.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
 
 ###### Art. 52.
 
-Si el Congreso no estuviere en sesiones la Diputación permanente nombrará desde luego un Gobernador provisional y en el mismo decreto en que haga el nombramiento convocará a sesiones extraordinarias del Congreso para que a su vez expida la convocatoria a elecciones en los términos del artículo anterior.
+Si el Congreso no estuviese en sesiones, la Diputación Permanente nombrará desde luego un Gobernador Provisional, debiendo convocar a sesiones extraordinarias del Congreso para que a su vez expida la convocatoria a elecciones en los términos del artículo anterior. Si se tratare de renuncia del cargo de Gobernador, la Permanente convocará al Congreso a sesiones extraordinarias para que la califique y proceda en la forma que acaba de expresarse.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
 
 ###### Art. 53.
 
-Cuando la falta de Gobernador ocurriere en el último año del período respectivo, si el Congreso del Estado se encontrase en sesiones elegirá al Gobernador sustituto que deberá concluir el período; pero si el Congreso no estuviese reunido, la Diputación permanente nombrará un Gobernador provisional y convocará al Congreso del Estado a sesiones extraordinarias para que se erija, en Colegio electoral y haga la designación de Gobernador sustituto.
-
-En este caso el Gobernador provisional podrá ser electo como sustituto.
+Cuando la falta de Gobernador ocurriese después del primer año del período para el cual fue electo, si el Congreso del Estado se encontrare en sesiones, elegirá al Gobernador Substituto que deberá concluir el período respectivo; pero si el Congreso no estuviese reunido la Diputación Permanente nombrará un Gobernador Provisional y convocará al Congreso a sesiones extraordinarias para que se erija en Colegio Electoral y haga la designación de Gobernador Substituto. Si se tratare de renuncia del Gobernador y el Congreso estuviese reunido procederá con las formalidades del caso a elegir al Gobernador Substituto que haya de terminar el período constitucional, previa la calificación de la renuncia. Si el Congreso estuviese en receso la Diputación Permanente lo convocará a sesiones extraordinarias para que, calificando la renuncia proceda en la forma que se acaba de indicar.
 
 ###### Art. 54.
 
@@ -389,9 +393,11 @@ Cuando la falta de Gobernador fuese temporal, el Congreso del Estado si estuvies
 
 Si la falta se convirtiese de temporal en absoluta, se procederá como disponen los artículos anteriores. En caso de licencia del Gobernador del Estado, no quedará impedido el interino para ser electo en el período inmediato, siempre que no estuviere en funciones cuarenta y cinco días antes de celebrarse las elecciones.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1928)</small>
+
 ###### Art. 56.
 
-El Ciudadano electo para sustituir al Gobernador Constitucional, en el caso de falta absoluta de éste no podrá ser electo Gobernador para el período inmediato. El Ciudadano que hubiere sido designado Gobernador provisional para convocar a elecciones, en el caso de falta absoluta del Gobernador, en los tres primeros años del período respectivo, no podrá ser electo en las elecciones que se celebren, con motivo de la falta del Gobernador, para cubrir la (sic) cual fué designado.
+El ciudadano electo para substituir al Gobernador Constitucional en el caso de falta absoluta de éste no podrá ser electo Gobernador para el período inmediato. El ciudadano que hubiese sido designado Gobernador Provisional para convocar a elecciones, en el caso de falta absoluta del Gobernador ocurrida en el primer año del período respectivo, no podrá ser electo en las elecciones que se celebren con motivo de la falta de Gobernador para cubrir la cual fue designado.
 
 ###### Art. 57.
 
@@ -940,3 +946,7 @@ P.O. 4 DE DICIEMBRE DE 1928.
 Artículo primero: La presente reforma surtirá sus efectos legales a partir de las próximas elecciones que para Diputados al Congreso del Estado deberán efectuarse el primero de junio de mil novecientos veintinueve.
 
 Artículo segundo: Publíquese por bando solemne en las cabeceras Municipales el día y hora que a bien tenga señalar el Ejecutivo del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1928.
+
+Unico. Las presentes reformas regirán en todo el territorio del Estado a partir del día de su publicación en el Periódico Oficial del mismo.
