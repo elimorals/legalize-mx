@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "1995-04-02"
+last_updated: "1995-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGANICA DEL PODER JUDICIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 1995.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -437,7 +437,7 @@ II.- El Centro de Cómputo.
 
 ###### ARTICULO 32.
 
-El Supremo Tribunal de Justicia determinará donde habrá los órganos a que se refiere el artículo anterior, y dictará las medidas y normatividad conducentes para la correcta aplicación del turno, y el funcionamiento del Centro de Cómputo.
+El Supremo Tribunal de Justicia determinará dónde habrá los órganos a que se refiere el artículo anterior, y dictará las medidas y normatividad conducentes para la correcta aplicación del turno, y el funcionamiento del Centro de Cómputo.
 
 ###### ARTICULO 33.
 
@@ -567,23 +567,31 @@ XIX.- En los casos de interdicto a que se refiere el Artículo 377 del Código C
 
 Los Juzgados Penales conocerán de la primera instancia de todos los delitos que no sean de la competencia de los Juzgados Menores Mixtos y del Supremo Tribunal de Justicia, así como de las demás diligencias que les encomienden las Leyes.
 
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 1995)</small>
+
 ###### ARTICULO 42.
 
-En cada uno de los Juzgados Civiles habrá dos Secretarios de Acuerdos enumerados progresivamente, dos Notificadores, dos Ejecutores, como mínimo y los servidores que fije el Presupuesto de Egresos.
+En cada uno de los Juzgados Civiles y Familiares, habrá dos Secretarios de Acuerdos numerados progresivamente, y un Secretario de Estudio y Proyectos, dos Notificadores, dos Ejecutores como mínimo, y los servidores que fije el Presupuesto de Egresos.
 
-El funcionamiento de los Ejecutores quedará al arbitrio de lo que disponga el Supremo Tribunal de Justicia. El Primer Secretario será el jefe inmediato de la oficina en el orden administrativo y dirigirá las labores de ella, de acuerdo con las instrucciones del Juez.
+El funcionamiento de los Notificadores y de los Ejecutores quedará al arbitrio de lo que disponga el Supremo Tribunal de Justicia, el Primer Secretario será el jefe inmediato de la oficina en el orden administrativo y dirigirá las labores de ella de acuerdo con las instrucciones del Juez.
+
+> <small>(REFORMADO, P.O. 30 DE JULIO DE 1995)</small>
 
 ###### ARTICULO 43.
 
-En los Juzgados de Primera Instancia del Ramo Penal habrá un Juez, dos Secretarios de Acuerdos, un Notificador cuando menos, y la planta de empleados que señale el Presupuesto de Egresos transcrita en la última parte del artículo anterior.
+En los Juzgados de Primera Instancia del ramo penal habrá un Juez, dos Secretarios de Acuerdos y un Secretario de Estudio y Proyectos, un Notificador cuando menos y la planta de empleados que señale el Presupuesto de Egresos.
+
+El funcionamiento de los Notificadores quedará al arbitrio de lo que disponga el Supremo Tribunal de Justicia.
 
 ###### ARTICULO 44.
 
 Son atribuciones de los Jueces de Primera Instancia, corregir fundada y disciplinariamente las faltas de sus subalternos en los términos que prevengan las Leyes, dando cuenta al Supremo Tribunal de Justicia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JULIO DE 1995)</small>
+
 ###### ARTICULO 45.
 
-Para ser Secretario de Acuerdos de un Juzgado de Primera Instancia, se requiere:
+Para ser Secretario de Acuerdos o Secretario de Estudio y Proyectos de un Juzgado de Primera Instancia se requiere:
 
 I.- Ser ciudadano mexicano en ejercicio de sus derechos;
 
@@ -623,9 +631,19 @@ XII.- Redactar la correspondencia oficial, conforme a lo acordado por el Juez y 
 
 XIII.- Cuidar, que en todo tiempo, esté debidamente ordenado el archivo de la oficina;
 
-XIV.- El Primer Secretario asistirá a las diligencias de prueba que deba presidir el Juez de acuerdo con los Códigos de Procedimientos y substituirá al Juez en sus faltas temporales que no excedan de quince días; y
+> <small>(REFORMADA, P.O. 30 DE JULIO DE 1995)</small>
+
+XIV.- El Primer Secretario asistirá a las diligencias que prueba que deba presidir el Juez de acuerdo con los Códigos de Procedimientos;
 
 XV.- Desempeñar las demás funciones que se le encomienden por el Juez, y las demás que le asignen las Leyes.
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 1995)</small>
+
+###### ARTICULO 46 Bis.
+
+Son obligaciones de los Secretarios de Estudio y Proyectos:
+
+Auxiliar al Juez en la elaboración de proyectos de sentencias interlocutorias y definitivas y desempeñar las demás funciones que le encomiende el Juez.
 
 ###### ARTICULO 47.
 
@@ -1110,3 +1128,9 @@ Los trabajadores al servicio de los Gobiernos del Estado, los Municipios, y Orga
 ###### ARTICULO DECIMO PRIMERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE JULIO DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
