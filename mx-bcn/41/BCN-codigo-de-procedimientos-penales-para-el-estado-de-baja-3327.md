@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2003-12-12"
+last_updated: "2004-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 2004.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1311,9 +1311,15 @@ El embargo también se levantará si se decreta la libertad del inculpado por fa
 
 ### CAPITULO VIII. RESTITUCION DEL OFENDIDO EN SUS DERECHOS
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2004)</small>
+
 ###### Artículo 144.
 
-Restitución de derechos del ofendido.- El ofendido o su legítimo representante, podrán solicitar al Ministerio Público, durante la averiguación previa, o por conducto de éste al Juzgador, en el proceso, cuando esté comprobado el cuerpo del delito, que dicte las providencias necesarias para asegurar sus derechos o restituirlo en el goce de los mismos, siempre que estén legalmente justificados y se otorgue, en su caso, caución bastante para garantizar el pago de los daños y perjuicios que pudieran ocasionarse a terceros o al inculpado.
+Restitución de Derechos del Ofendido.- El ofendido o su legítimo representante, podrán solicitar al Ministerio Público, durante la averiguación previa, o por conducto de éste al Juzgador, en el proceso, cuando esté comprobado el cuerpo del delito, que dicte las providencias necesarias para asegurar sus derechos o restituirlos en el goce de los mismos, siempre que estén legalmente justificados.
+
+Si se trata de restituir al ofendido en el goce de un bien mueble, que constituya el objeto materia del delito y que no esté sujeto a registro por disposición de la Ley; se le entregará si aparece justificado en la averiguación previa que estaba en posesión de el hasta el momento mismo en que aquél se cometió, mediante los medios de prueba admisibles por esta ley.
+
+Si la entrega del bien pudiere lesionar derechos de terceros o del procesado, la devolución se hará siempre y cuando el ofendido, otorgue caución bastante para garantizar el pago de los daños y perjuicios que pudieran ocasionarse.
 
 ### CAPITULO IX. CATEOS
 
@@ -2081,7 +2087,7 @@ Después de ejercitada la acción penal, el ministerio Público puede desistirse
 
 > <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1995)</small>
 
-###### ARTICULO 263.
+###### Artículo 263.
 
 Causales de no ejercicio o desistimiento de la acción penal.- El Ministerio público no ejercitará o, en su caso, no desistirá de la acción penal:
 
@@ -3460,3 +3466,7 @@ UNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su pub
 P.O. 12 DE DICIEMBRE DE 2003.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial Baja California.
+
+P.O. 16 DE ENERO DE 2004.
+
+Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
