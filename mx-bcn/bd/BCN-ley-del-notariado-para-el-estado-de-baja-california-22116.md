@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-notariado-para-el-estado-de-baja-california-22116"
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-14"
-last_updated: "2001-09-14"
+last_updated: "2002-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2002.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 14 de septiembre de 2001.
 
@@ -39,9 +39,11 @@ LEY DEL NOTARIADO PARA EL ESTADO DE BAJA CALIFORNIA
 
 ## TITULO PRIMERO. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 1.
 
-La función Notarial en el Estado de Baja California es de orden público. Estará a cargo del Ejecutivo del Estado y por delegación de éste se encomienda a profesionales del derecho en virtud de la patente que para tal efecto les otorgue el propio Ejecutivo, a fin de que lo desempeñen en los términos de la presente Ley.
+La función Notarial en el Estado de Baja California es de orden público. Estará a cargo del Ejecutivo del Estado y por delegación de este se encomienda a profesionales del derecho en virtud de la patente que para tal efecto les otorgue el propio ejecutivo, a fin de que la desempeñen en los términos de la presente Ley.
 
 ###### ARTICULO 2.
 
@@ -73,13 +75,13 @@ Notario es la persona investida de fe pública para hacer constar los contratos,
 
 Por lo tanto, podrá extender en el Protocolo los instrumentos relativos a dichos contratos, hechos o actos, y autorizarlos y podrá expedir de aquéllos los testimonios y copias certificadas que legalmente puedan darse.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 8.
 
 El Notario, además guarda, escritos y firmados en el Protocolo, los instrumentos originales relativos a los contratos, hechos y actos a que se refiere el artículo anterior, con sus anexos, y expide los testimonios y copias que legalmente puedan darse.
 
-En los casos previstos por esta ley, el Notario y el Archivo General de Notarías, podrán guardar reproducciones o imágenes fotostáticas, fotográficas o electrónicas de tales instrumentos y sus anexos, mismas que tendrán el mismo valor probatorio que las leyes aplicables concedan a sus originales.
-
-El Notario, podrá expedir copia certificada de los mismos, previa constancia de la inexistencia de los originales, asentando en la certificación, el tipo de circunstancia que la originó.
+En los casos previstos por esta Ley, el Notario y el Archivo General de Notarías, podrán guardar reproducciones o imágenes fotostáticas, fotográficas o electrónicas de tales instrumentos y sus anexos, mismas que tendrán el mismo valor probatorio que las leyes aplicables concedan a sus originales.
 
 ###### ARTICULO 9.
 
@@ -103,9 +105,11 @@ II.- Si alguna circunstancia fortuita y transitoria le impide atender con la imp
 
 III.- Si los interesados no le anticipan los gastos y honorarios, excepción hecha de un testamento en caso urgente el cual será autorizado por el Notario, sin anticipo de dichos gastos y honorarios.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 11.
 
-Las funciones de Notario son incompatibles con todo empleo, cargo o comisión públicos; con los empleos o comisiones de particulares; con el desempeño del mandato judicial y con el ejercicio de la profesión de licenciado en derecho en asuntos en que haya contienda; con la de comerciante, agente de cambio o ministro de cualquier culto.
+Las funciones de Notario son incompatibles con todo empleo, cargo o comisión públicos; con los empleos o comisiones de particulares; con el desempeño del mandato judicial y con el ejercicio de la profesión de licenciado en derecho en asuntos en que haya contienda; con la de comerciante o ministro de cualquier culto.
 
 El Notario podrá:
 
@@ -125,19 +129,21 @@ VII.- Patrocinar a los interesados en los procedimientos judiciales y administra
 
 VIII.- Representar a los interesados en el registro de sus escrituras, a solicitud de ellos.
 
+Queda prohibido a las Notarios permitir que el personal a su cargo ejerza como abogado postulante en el domicilio de la Notaría a su cargo.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 12.
 
 Los Notarios podrán recibir y conservar en depósito sumas de dinero y documentos que representen numerario, que estén relacionados con los actos o contratos que se otorguen o pretendan otorgarse ante su fe, conforme a las siguientes prescripciones:
 
 I.- Podrán recibir, en cheque o efectivo, las cantidades de dinero que se destinen al pago de impuestos y derechos que se causen por las operaciones que ante ellos se efectúen;
 
-II.- Podrán recibir, en cheque certificado, librado a favor del acreedor, el pago del precio, contraprestación o adeudo a que se refieran las escrituras otorgadas ante ellos;
+II.- Podrán recibir, en cheque certificado o cheque de caja, librado a favor del acreedor, el pago del precio, contraprestación o adeudo a que se refieran las escrituras otorgadas ante ellos;
 
 III.- Podrán conservar en depósito los títulos y documentos que las leyes permitan;
 
-En los casos previstos en las dos fracciones anteriores, el depósito se regulará conforme al contrato que el Notario celebre con el interesado; y
-
-IV.- Queda prohibido a los Notarios permitir que el personal a su cargo ejerza como Abogado postulante en el domicilio de la Notaría a su cargo.
+En los casos previstos en las dos fracciones anteriores, el depósito se regulará conforme al contrato que el Notario celebre con el interesado.
 
 ###### ARTICULO 13.
 
@@ -169,13 +175,17 @@ Los notarios, salvo que se trate de documentos inscritos en el Registro Público
 
 Igual responsabilidad tendrán los que presten sus servicios en las Notarías del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 17.
 
-En el Estado de Baja California habrá el número de Notarías que el servicio de la población amerite, a razón de un Notario por cada cincuenta mil habitantes.
+En el Estado de Baja California habrá el número de Notarías que el servicio de la población amerite, a razón de un Notario por cada cuarenta mil habitantes, o fracción de ellos.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 18.
 
-Cada Notaría será servida por un Notario Titular, quien podrá tener un solo adscrito. Sin embargo, podrán asociarse dos o más Notarios durante el tiempo que estimaren conveniente, para actuar indistintamente en un mismo Protocolo, que será el del Notario más antiguo. La asociación de dos Notarios para actuar en un mismo Protocolo, y su separación, que podrá efectuarse cuando cualquiera de ellos lo deseare, serán registradas y publicadas en la misma forma que los nombramientos de Notario. En caso de separación, el Notario más antiguo seguirá actuando en el Protocolo de su Notaría y el menos antiguo se proveerá de Protocolo, en los términos de esta Ley.
+Cada Notaría será servida por un Notario Titular, quien podrá tener un solo adscrito. Sin embargo, podrán asociarse dos o más Notarios durante el tiempo que estimaren conveniente, para actuar indistintamente en un mismo Protocolo, que será el del Notario más antiguo. La asociación de dos o más Notarios para actuar en un mismo Protocolo, y su separación, que podrá efectuarse cuando cualquiera de ellos lo deseare, serán registradas y publicadas en la misma forma que los nombramientos de Notario. En caso de separación, el Notario más antiguo seguirá actuando en el Protocolo de su Notaría y el menos antiguo se proveerá de Protocolo, en los términos de esta Ley.
 
 ###### ARTICULO 19.
 
@@ -197,13 +207,17 @@ Si por cualquier circunstancia, en alguno de los municipios del Estado, haya o l
 
 #### SECCION PRIMERA. DE LA PRACTICA NOTARIAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 23.
 
-Para iniciar la práctica notarial a que se refiere este capítulo, el interesado deberá presentar solicitud al Consejo de Notarios, acompañando su currículum de actividad profesional y personal y justificando que reúne los requisitos a que se refiere el artículo 26 de esta Ley.
+Para iniciar la práctica notarial a que se refiere este capítulo, bastará que el interesado presente solicitud al Consejo de Notarios, acompañando su currículum de actividad profesional y personal y justificando que reúne los requisitos a que se refieren las fracciones I, II, III, VII, VIII y IX del artículo 26 de esta Ley.
 
 El Consejo de Notarios podrá, si lo estima conveniente, verificar los datos del currículum y cerciorarse por cualquier medio de la exactitud de los mismos y, en su siguiente sesión resolverá sobre la solicitud.
 
-De encontrarse satisfechos los requisitos antes indicados, si no hay inconveniente alguno, el Consejo de Notarios, señalará al Notario bajo cuya dirección se llevará cabo la práctica solicitada.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
+
+De encontrarse satisfechos los requisitos antes indicados, el Consejo de Notarios, señalará al Notario bajo cuya dirección se llevará a cabo la práctica solicitada.
 
 Si el Consejo de Notarios resuelve no aprobar la solicitud, lo notificará al solicitante, dentro de los 15 días siguientes a la sesión que así lo haya resuelto, para que el interesado, si así lo desea, presente solicitud de reconsideración ante el Ejecutivo del Estado.
 
@@ -263,7 +277,9 @@ II.- Ser Licenciado en Derecho con título profesional registrado en la Direcci�
 
 III.- Estar en ejercicio de sus derechos civiles; haber observado y observar buena conducta; no pertenecer al estado eclesiástico; y en caso de haber litigado gozar el buen nombre en el medio judicial y con experiencia mínima de 5 años en el ejercicio del derecho, en cualquiera de sus ramas;
 
-IV.- Haber realizado prácticas notariales bajo la dirección y responsabilidad de algún Notario Titular del Estado, por lo menos durante un año ininterrumpido, cumpliendo con los requisitos a que se refiere esta Ley;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2002)</small>
+
+IV.- Haber realizado prácticas notariales bajo la dirección y responsabilidad de algún Notario Titular del Estado, durante un año ininterrumpido, cumpliendo con los requisitos a que se refiere esta Ley. Este requisito podrá ser dispensado por el Gobernador del Estado únicamente en el caso previsto en el artículo siguiente;
 
 V.- Solicitar ante el Ejecutivo del Estado, por conducto de la Secretaría General de Gobierno, dentro de los seis meses siguientes a la terminación de la práctica a que se refiere la fracción anterior, el examen correspondiente;
 
@@ -281,9 +297,13 @@ Los requisitos a que se refiere el artículo anterior se acreditarán en los sig
 
 I.- Los requisitos previstos en la fracción I, en los términos del artículo 3 de la Ley de Nacionalidad y la edad con copia certificada del acta de nacimiento;
 
-II.- Por lo que hace a los requisitos exigidos por la fracción II, con las copias certificadas de la información testimonial a que se refiere el artículo siguiente;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2002)</small>
 
-III.- Los requisitos exigidos por la fracción III, con la presentación del certificado expedido por la Dirección de Profesiones del Estado, relativo al Registro del Título Profesional, o copia certificada de su Cédula Profesional Estatal;
+II.- Los requisitos exigidos por la fracción II, con la presentación del certificado expedido por la Dirección de Profesiones del Estado, relativo al Registro del Título Profesional, o copia certificada de su Cédula Profesional Estatal;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2002)</small>
+
+III.- Por lo que hace a los requisitos exigidos por la fracción III, con las copias certificadas de la información testimonial a que se refiere el artículo siguiente; para el caso de quien hubiese litigado, deberá acompañar la opinión de un colegio de abogados del Estado;
 
 IV.- La realización de las prácticas notariales, con la constancia que otorgue el propio Notario al practicante de haber efectuado las prácticas en los términos de esta ley;
 
@@ -293,7 +313,11 @@ VI.- El requisito señalado en la fracción VII, con certificado de dos médicos
 
 VII.- La residencia a que se refiere la fracción VIII, con copia de su inscripción en el Registro federal de Contribuyentes o cualquier otro documento idóneo a juicio del Ejecutivo; y
 
-VIII.- El requisito señalado en la fracción IX, con certificado de antecedentes no penales.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2002)</small>
+
+VIII.- El requisito señalado en la fracción IX, con certificado de antecedentes no penales. El Gobernado del Estado podrá dispensar el cumplimiento del requisito a que se refiere la fracción cuarta del artículo anterior, cuando por la creación de nuevas notarías en virtud de las demandas de la población, lo considere necesario.
+
+En el caso, será responsabilidad del Gobernador del Estado designar a los profesionistas del derecho que estime convenientes para que presenten su examen para obtener la Patente de Aspirante a Notariado, siempre y cuando cumplan con los demás requisitos a que se refiere el Artículo 26 de esta Ley. Para ello, deberá tomar en cuenta la reputación que tenga ganada en profesionista, así como la experiencia que demuestre en materia notarial y en especialidades afines.
 
 ###### ARTICULO 28.
 
@@ -465,9 +489,11 @@ El Notario adscrito autorizará los instrumentos en los que intervenga, mediante
 
 El Adscrito no podrá actuar en su persona o la del titular, cuando en el acto, concurran algunas de las causas previstas en el artículo 9 de esta Ley.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 60.
 
-Son aplicables a los Notarios adscritos y a sus Patentes, además de lo dispuesto en los artículos 10, 11, 12, 13 y 16 de esta Ley, todas las demás disposiciones relativas a los Notarios Titulares, en cuanto no se opongan a lo dispuesto en este Capítulo o a su propia calidad de Adscritos.
+Son aplicables a los Notarios adscritos y a sus Patentes, además de lo dispuesto en los artículos 10, 12, 13 y 16 de esta Ley, todas las demás disposiciones relativas a los Notarios Titulares, en cuanto no se opongan a lo dispuesto en este Capítulo o a su propia calidad de Adscritos.
 
 ###### ARTICULO 61.
 
@@ -643,11 +669,15 @@ Se encuadernarán los folios por volúmenes cuando las escrituras redactadas reb
 
 Inmediatamente después de ponerse la nota de cierre que ordena el artículo 96 de la presente Ley, cada Volumen deberá encuadernarse y empastarse sólidamente, a menos que desde antes lo haya estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 91.
 
-El Secretario General de Gobierno autorizará los libros y folios de los Notarios directamente o podrá delegar esta facultad en el Consejo de Notarios, quien la ejercerá por conducto de quien el mismo Consejo comisione para tal efecto, que se encargará de autorizar, en el caso de "Protocolo Cerrado", los libros de las Notarías. El Secretario General de Gobierno o dicho Notario comisionado, en la primera página útil de cada Volumen, pondrá una razón en que consten: el lugar y fecha; el número que corresponda al Volumen, según los que vaya recibiendo cada Notario durante su ejercicio; el número de páginas útiles, inclusive la primera y la última; el número, nombre y apellido del Notario; el lugar en que debe residir y esté situada la Notaría; por último, la expresión de que ese libro, o folios, solamente deben utilizarse por el Notario o por la persona que legalmente lo substituya en sus funciones. Al final de la última página del Volumen, se pondrá una razón análoga, sellada y suscrita también por el Notario comisionado para tal efecto. Al ponerse las razones de autorización antes citadas, el Notario comisionado, deberá también sellar cada una de las hojas con el sello que especialmente se destine para ello y que haga referencia a la materia, mismo que deberá ser proporcionado por el Consejo de Notarios y guardado por el propio Notario comisionado.
+El Secretario General de Gobierno autorizará los libros de los Notarios directamente o podrá delegar esta facultad en el Consejo de Notarios, quien ejercerá por conducto de quien o quienes el mismo Consejo comisione para tal efecto, que se encargarán de autorizar, en el caso de "Protocolo Cerrado", los libros de las Notarías. El Secretario General de Gobierno o dichos Notarios comisionados, en la primera página útil de cada volumen, pondrán una razón en que consten: el lugar y fecha; el número que corresponda al volumen, según los que vaya recibiendo cada Notario durante su ejercicio; el número de páginas útiles, inclusive la primera y la última; el número, nombre y apellido del Notario; el lugar en que debe residir y esté situada la Notaría; por último, la expresión de que ese libro, solamente debe utilizarse por el Notario o la persona que legalmente lo substituya en sus funciones. Al final de la última página del volumen, se pondrá una razón análoga, sellada y suscrita también por el Notario comisionado para tal efecto.
 
-Tratándose de "Protocolo abierto", los folios serán impresos por el Consejo de Notarios, quien los autorizará y entregará a los Notarios, para su uso, por conducto del Notario Comisionado a que se ha hecho referencia, quien llevará un registro en que indique la fecha, cantidad y número de folios entregados a cada notario. El Consejo de Notarios vigilará que los folios del protocolo abierto se impriman en papel de seguridad, con numeración progresiva que permita distinguir un folio de otro y que, al frente, lleven impreso el sello del Colegio de Notarios y la leyenda "Folio autorizado para protocolo abierto". El Consejo de Notarios informará al Secretario General de Gobierno y al Archivo General de Notarías, la fecha y tiraje de cada impresión, indicando la cantidad y numeración de los folios de cada emisión.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
+
+Tratándose de "Protocolo Abierto", los folios serán impresos por el Consejo de Notarios, quien los autorizará y entregará a los Notarios, para su uso, por conducto de los Notarios Comisionados a que se ha hecho referencia, quienes llevarán un registro en que indique la fecha, cantidad y número de folios entregados a cada notario. El Consejo de Notarios vigilará que los folios del protocolo abierto se impriman en papel que de seguridad, con numeración progresiva que permita distinguir un folio de otro y que, al frente, lleven impreso el sello del Colegio de Notarios y la leyenda "Folio autorizado para protocolo abierto". El Colegio de Notarios informará al Secretario General de Gobierno y al Archivo General de Notarías, la fecha y tiraje de cada impresión, indicando la cantidad y numeración de los folios de cada emisión.
 
 Nunca podrá sellarse hoja alguna por separado, o sea, que siempre deberán serlo al mismo tiempo, la totalidad de las que formen un Volumen. Tampoco podrá volverse a autorizar ni a sellar, total o parcialmente un Volumen que ya lo haya sido previamente, excepto en caso de cambio, asociación o suplencia de Notarios, aún cuando se echaren a perder o se extraviaren alguna o algunas de sus hojas.
 
@@ -665,15 +695,21 @@ Al comenzar a hacer uso de cada una de las hojas, en su frente se le pondrá a l
 
 El uso de los protocolos debe hacerse por el orden riguroso de la numeración de las escrituras o actas notariales, yendo de un libro a otro en cada escritura o acta, hasta llegar al último y volviendo de éste al primero para lo cual serán numerados los libros.
 
+(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 2002) (F. DE E., P.O. 9 DE AGOSTO DE 2002)
+
 ###### ARTICULO 95.
 
-La numeración de los instrumentos o sea de las escrituras o actas notariales, será progresiva desde el primer Volumen en adelante, es decir, sin interrumpirla de un Volumen a otro, aún cuando "No pasen" algunas de dichas escrituras o actas. Entre uno y otro de los instrumentos, en un mismo Volumen, no habrá más espacio que el indispensable para las firmas, autorización, sello y notas complementarias, en el caso de Protocolo Abierto. Sin embargo, podrá comenzar sus escrituras o actas al principio de la página y el espacio que hubiere quedado en blanco después del sello de la autorización de la escritura anterior, será inutilizado, cruzando dos líneas diagonales.
+La numeración de los instrumentos o sea de las escrituras o actas notariales, será progresiva desde el primer volumen en adelante, es decir, sin interrumpirla de un volumen a otro, aún cuando "No pasen" algunas de dichas escrituras o actas. Entre uno y otro de los instrumentos, en un mismo volumen, no habrá más espacio que el indispensable para las firmas, autorización, sello y notas complementarias, en el caso de Protocolo Abierto. Sin embargo, en el protocolo cerrado podrá comenzar sus escrituras o actas al principio de la página y el espacio que hubiere quedado en blanco después del sello de la autorización de la escritura anterior, será inutilizado, cruzando dos líneas diagonales.
 
 Los folios que se inutilicen se cruzarán con dos líneas diagonales y se agregarán al final del respectivo instrumento.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 96.
 
 El Notario, cuando calcule que ya no puede dar cabida a otro instrumento más en el libro o juego de libros, lo cerrará poniendo razón de clausura, expresando en ella el número de hojas utilizadas, el número de instrumentos contenidos y el lugar, día y hora en que se cierra, así como el número de escrituras que no hayan pasado, el número de las que estén pendientes de firma y esté corriendo el término de Ley, así como el número de las que estén pendientes de autorización definitiva por estar transcurriendo el plazo legal para el pago de impuestos. Dicha razón deberá firmarla el Notario y ponerle su sello.
+
+En la razón de clausura de los volúmenes de protocolo abierto, también se indicará cuantos y cuales folios se utilizaron en el volumen, con mención expresa de los que haya inutilizado.
 
 Cuando el Notario tenga en uso varios libros, al cerrar uno tendrá que cerrarlos todos.
 
@@ -685,9 +721,11 @@ Cuando estén por concluirse el Volumen o el juego de Volúmenes que lleven los 
 
 Por ningún motivo podrán sacarse de la Notaría los folios, ni los libros de los Protocolos, ya sea que los Volúmenes estén en uso o ya concluidos, si no es por el mismo Notario y sólo en los casos determinados por la presente Ley y para recoger las firmas a las partes, cuando éstas no puedan asistir a la Notaría y el Notario esté dispuesto a salir a recogerlas. Si alguna autoridad con facultades legales, ordena la visita de uno o más libros del Protocolo, el acto se efectuará en la misma oficina del Notario y siempre en la presencia de éste.
 
+(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 2002) (F. DE E., P.O. 9 DE AGOSTO DE 2002)
+
 ###### ARTICULO 99.
 
-Los Notarios guardarán en su archivo los Volúmenes de su protocolo y apéndices, durante cinco años contados desde la fecha de la nota de cierre de los mismos, a menos que el Ejecutivo del Estado autorice un término mayor.
+Los Notarios guardarán en su archivo los volúmenes de su protocolo y apéndices, durante diez años contados desde la fecha de la nota de cierre de los mismos, a menos que el Ejecutivo del Estado autorice un término mayor.
 
 A la expiración de este término el Notario entregará los citados Volúmenes al Archivo General de Notarías, en donde quedarán definitivamente. El Director del Archivo General de Notarías estará al pendiente de que los Notarios cumplan con lo dispuesto en este artículo.
 
@@ -727,7 +765,7 @@ El Notario asentará en la certificación que ponga en los documentos, la fecha 
 
 ###### ARTICULO 105.
 
-Los Notarios que utilicen Protocolo Abierto llevarán un cuaderno foliado y empastado que será autorizado por el Consejo de Notarios y que se denominará "Libro de Control de Folios", donde anotará de manera consecutiva, cuántos y cuáles folios se destinaron a cada instrumento, incluyendo los que hayan sido inutilizados.
+(DEROGADO, P.O. 28 DE JUNIO DE 2002)
 
 ### CAPITULO SEGUNDO. DE LOS INSTRUMENTOS NOTARIALES
 
@@ -759,9 +797,11 @@ V.- Que el instrumento a que se refiere el punto anterior también sea firmado p
 
 Acta notarial es el instrumento que el notario asienta en su protocolo, a petición de parte, para hacer constar hechos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 109.
 
-Entre los hechos que el Notario debe consignar en escritura pública, se encuentran los siguientes:
+Entre los hechos que el Notario puede consignar en acta notarial, se encuentran los siguientes:
 
 I.- Notificaciones, interpelaciones, requerimientos protestos de documentos y otras diligencias en las que pueda intervenir según las leyes.
 
@@ -773,9 +813,11 @@ IV.- Cotejo de documentos, planos, fotografías, y similares; y
 
 V.- Protocolización de documentos.
 
+(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 2002) (F. DE E., P.O. 9 DE AGOSTO DE 2002)
+
 ###### ARTICULO 110.
 
-En los instrumentos relativos a los hechos jurídicos a que se refiere el inciso a) del artículo anterior, se observará lo establecido en el artículo 121, con las modificaciones que a continuación se expresan:
+En los instrumentos relativos a los hechos jurídicos a que se refiere la fracción I del artículo anterior, se observará lo establecido en el artículo 121, con las modificaciones que a continuación se expresan:
 
 I.- Bastará mencionar el nombre y apellido de la persona con quien se practique la diligencia, sin necesidad de agregar sus demás generales, ni que se identifique ésta, salvo que alguna otra ley lo exija.
 
@@ -791,9 +833,11 @@ La policía prestará a los Notarios el auxilio que se requiera, para llevar a c
 
 Las notificaciones que la Ley permita hacer por medio de Notario o que no estén expresamente reservadas a otros funcionarios, podrá hacerlas el Notario por medio de instructivo que contenga la relación sucinta del objeto de la notificación, siempre que a la primera busca no se encuentre a la persona que deba ser notificada, pero cerciorándose previamente de que dicha persona tiene su domicilio o trabajo en la finca donde se encuentre la persona que reciba el instructivo.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 112.
 
-Tratándose de cotejo de una constancia de partida parroquial con su asiento original, en el acta se insertará aquélla o se agregará copia al Apéndice y el Notario hará constar si concuerda con los asientos parroquiales originales o especificará las diferencias que hubiere encontrado. En la copia de la partida, que devolverá al solicitante, hará constar el Notario que fue cotejada con los asientos originales y el resultado del cotejo, haciendo constar expresamente la fecha y número del acta en que consta dicho cotejo.
+Tratándose de cotejo de una constancia de partida parroquial con su asiento original, el notario levantará acta pormenorizada, donde hará constar si dicha constancia concuerda con los asientos parroquiales originales o especificará las diferencias que hubiere encontrado. En la constancia de la partida parroquial que se le hubiere exhibido al notario para su cotejo, o en hoja adherida a ella, hará constar el Notario que fue cotejada con los asientos originales y el resultado del cotejo, con mención expresa de la fecha y número del acta en que consta dicho cotejo.
 
 ###### ARTICULO 113.
 
@@ -837,7 +881,9 @@ Cuando el Notario expida un testimonio pondrá al margen de la escritura respect
 
 Las razones puestas por el Registro Público en los testimonios, serán extractadas o transcritas por el Notario en una nota que pondrá al margen del instrumento notarial, o en el folio de anotaciones, cuando se le presenten o exhiban aquéllos para tal fin por los interesados.
 
-Cuando al margen de las escrituras o actas se agotare el espacio, se agregará una hoja al apéndice, exclusiva para notas, poniéndose en el Protocolo una simple referencia.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
+
+Cuando al margen, o en el folio de anotaciones, de las escrituras o actas se agotare el espacio, se agregará una hoja al apéndice, exclusiva para notas, poniéndose en el protocolo una simple referencia.
 
 ###### ARTICULO 119.
 
@@ -877,7 +923,9 @@ VIII.- Dejará acreditada la personalidad de quien comparezca en representación
 
 a).- Si se trata de documentos que se encuentran inscritos en el Registro Público de la Propiedad y del Comercio, o que obren en algún archivo público del que cualquier interesado pueda pedir copia, bastará con que el Notario los relacione, es decir, que haga una breve descripción de los mismos, indicando sus datos que los identifiquen, señalando su origen, lugar y partida de registro.
 
-b).- Si se trata de documentos que no se encuentren en el caso del inciso que antecede, el notario deberá insertarlos, es decir transcribirlos total o parcialmente, o bien; y
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
+
+b).- Si se trata de documentos que no se encuentren en el supuesto del inciso que antecede, el notario deberá insertarlos, es decir, transcribirlos total o parcialmente, o bien;
 
 c).- Podrá agregar copia de ellos al apéndice, cotejada por él mismo, haciendo mención de ello en la escritura.
 
@@ -917,11 +965,15 @@ En caso de no serle conocidos, podrá hacer constar su identidad con pasaporte, 
 
 Si no hubiere testigos de conocimiento, carecieren éstos de los requisitos legales para testificar o no pudiere el Notario lograr la identificación por el otro medio que se menciona, no se otorgará el instrumento, si no en caso grave o urgente, expresando el Notario la razón de ello. El instrumento surtirá sus efectos hasta que sea plenamente comprobada la identidad y capacidad del otorgante.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 124.
 
-Cuando la ley exija la firma de documentos o instrumentos notariales, se tendrá por cumplido el requisito de la firma, mediante mensaje de datos, siempre que sean atribuibles los mismos a las personas obligadas y accesibles para su ulterior consulta.
+Cuando la ley exija la firma de documentos o instrumentos notariales, se tendrá por cumplido el requisito de la firma, mediante mensaje de datos, siempre que sean atribuibles los mismos a las personas obligadas, y accesibles para su ulterior consulta.
 
-Para que se tenga por cumplida la forma notarial, el Notario deberá consignar el acto jurídico que deba otorgarse en un instrumento ante su fé, conforme a las prevenciones de esta Ley, en el cual el Notario y las partes obligadas podrán, a través de mensajes de datos, expresar los términos exactos en que las partes han decidido obligarse, en cuyo caso el Notario deberá consignar en el instrumento respectivo cuáles fueron los elementos a través de los que se atribuyeron dichos mensajes a las partes y conservar, bajo su resguardo, una versión escrita, íntegra de los mismos, para su ulterior consulta.
+Para que se tenga por cumplida la forma notarial, el Notario deberá consignar el acto jurídico que deba otorgarse en un instrumento ante su fe, conforme a las prevenciones de esta Ley, en el cual el Notario y las partes obligadas podrán, a través de mensajes de datos, expresar los términos exactos en que las partes han decidido obligarse, en cuyo caso el Notario deberá consignar en el instrumento respectivo cuáles fueron los elementos a través de los que se atribuyeron dichos mensajes a las partes y conservar, bajo su resguardo, una versión escrita, íntegra de los mismos, para su ulterior consulta.
+
+En estos casos, bastará con que el notario consigne la declaración que hacen los otorgantes, respecto de su capacidad, para que se tenga por cumplida la obligación del notario de dar fe de ello.
 
 ###### ARTICULO 125.
 
@@ -1035,6 +1087,10 @@ En todo caso de destrucción, extravío o robo de protocolos, se dará aviso al 
 
 Las escrituras, las actas y sus testimonios, mientras no fuere declarada legalmente su falsedad, probarán plenamente que los otorgantes manifestaron su voluntad de celebrar el contrato o acto jurídico en ellos consignado; que hicieron las declaraciones y se realizaron los hechos de los que haya dado fe el Notario y que éste observó las formalidades que mencione.
 
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
+
+No se dará curso a ninguna denuncia o acusación penal en contra de notario alguno, con motivo del ejercicio de su función notarial, sin que previamente se haya declarado ante Juez Civil la nulidad de la escritura pública a que se refiera la acusación o denuncia. En la causa correspondiente, los notarios en su caso desahogarán la prueba confesional a su cargo, en los términos del artículo 313 del Código de Procedimientos Civiles, en la misma forma que las autoridades.
+
 ###### ARTICULO 151.
 
 En caso de discordancia entre las palabras y guarismos prevalecerán aquéllas. Las testaduras y entrerenglonaduras que no hayan sido salvadas, se tendrán por no puestas.
@@ -1049,7 +1105,9 @@ II.- Si no le está permitido por la Ley autorizar el contrato o acto jurídico 
 
 III.- Si fuere otorgada por las partes o autorizada por el Notario fuera de la demarcación designada para actuar.
 
-IV.- Si ha sido declarada en idioma extranjero.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2002)</small>
+
+IV.- Si ha sido redactada en idioma extranjero.
 
 V.- Si se omitió la mención relativa a la lectura.
 
@@ -1062,6 +1120,10 @@ VIII.- Si falta algún otro requisito que produzca la nulidad del instrumento po
 En el caso de la fracción II de este artículo solamente será nulo el instrumento en lo referente al contrato o acto jurídico cuya autorización no le esté permitida, pero valdrá respecto de los otros contratos o actos jurídicos que contenga y no estén en el mismo caso.
 
 Fuera de los casos determinados en este artículo el instrumento no es nulo, aún cuando el Notario infractor de alguna prescripción legal quede sujeto a la responsabilidad que en derecho proceda.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
+
+Los notarios no estarán legitimados pasivamente para ser demandados en juicios de nulidad de escrituras pasadas ante su fe, cuando la acción se refiera tan solo a su actuación como notario público, salvo el caso en que se demande la responsabilidad civil personal del notario.
 
 ###### ARTICULO 153.
 
@@ -1099,11 +1161,15 @@ b).- De multiplicar por 10,000 el salario mínimo general vigente en la entidad 
 
 II.- Proveerse a su costa de sello y Protocolo.
 
-III.- Registrar su sello, firma y antefirma, ante la el (sic) Archivo General de Notarías, en la Dirección del Registro Público de la Propiedad y del Comercio del Estado y en el Consejo de Notarios del Estado.
+(REFORMADA, P.O. 28 DE JUNIO DE 2002
+
+III.- Registrar su sello, firma y antefirma, en el Archivo General de Notarías, en la Dirección del Registro Público de la Propiedad y del Comercio del Estado y en el Consejo de Notarios del Estado.
 
 IV.- Otorgar la protesta legal ante el Secretario de Gobierno, en la forma en que se toma a los funcionarios públicos; y
 
-V.- Obligarse a establecer su oficina notarial única en el lugar en que vaya a desempeñar su encargo, dentro de los 60 días siguientes a la fecha de la protesta, y a cubrir las vacantes que correspondan.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2002)</small>
+
+V.- Obligarse a establecer su oficina notarial única en el lugar en que vaya a desempeñar su encargo, dentro de los 180 días siguientes a la fecha de la protesta, y a cubrir las vacantes que correspondan.
 
 ###### ARTICULO 156.
 
@@ -1129,9 +1195,13 @@ Si se pierde, o deteriora el sello, el Notario deberá proveerse de otro, que te
 
 ### CAPITULO SEGUNDO. DE LA CLAUSURA DE LAS NOTARIAS
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 161.
 
-Cuando por cualquier circunstancia haya lugar a clausurar un Protocolo, esta diligencia se efectuará siempre con la intervención de un representante del Gobierno del Estado y otro del Consejo de Notarios. Los Interventores designados, al cerrar los Volúmenes del Protocolo, procederán a poner razón en cada libro, inmediatamente después del último instrumento, de la causa que motiva el acto y agregarán todas las circunstancias que estimen convenientes, suscribiéndose dicha razón con sus firmas.
+Cuando por cualquier circunstancia haya lugar a clausurar un Protocolo, esta diligencia se efectuará siempre con la intervención de un representante del Gobierno del Estado y otro del Consejo de Notarios. Los interventores designados, al cerrar los volúmenes del protocolo, procederán a poner razón en cada libro, inmediatamente después del último instrumento, de la causa que motiva el acto y agregarán todas las circunstancias que estimen convenientes, suscribiéndose dicha razón con sus firmas.
+
+Tratándose de protocolo abierto, la razón de clausura se pondrá en el siguiente folio consecutivo disponible, encuadernándose de inmediato el volumen y su apéndice. Los folios restantes que se le hubieren autorizado al Notario, se remitirán al Secretario General de Gobierno o al Notario que haya Comisionado el Consejo de Notarios para la autorización de folios.
 
 ###### ARTICULO 162.
 
@@ -1141,7 +1211,9 @@ Los Interventores que fueran designados para intervenir en la clausura de un Pro
 
 Al clausurar un Protocolo, en los términos de la presente Ley, las personas que intervengan en esta diligencia, asentadas las razones del caso, y levantados los inventarios respectivos, procederán a remitir los Volúmenes, inventarios y documentos anexos de la Notaría, al Archivo General de Notarías, para su guarda.
 
-El Archivo General de Notarías de la Dirección, asentará en los Volúmenes la razón de recibo, a continuación de la razón de clausura y procederá a entregarlos en su oportunidad al Notario que fuere designado para substituir al faltante.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
+
+El Archivo General de Notarías, asentará en los volúmenes la razón de recibo a continuación de la razón de clausura y procederá a entregarlos en su oportunidad al Notario que fuere designado para substituir al faltante.
 
 ###### ARTICULO 164.
 
@@ -1193,9 +1265,11 @@ El Consejo Directivo del Colegio de Notarios, que se denominará Consejo de Nota
 
 Los miembros del Consejo durarán en funciones dos años, a menos que sean reelectos. Los citados Consejeros serán electos de entre los Notarios Titulares en ejercicio del Estado de Baja California.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 173.
 
-El Consejo será electo por mayoría, mediante voto individual escrito y público que cada Notario Titular o de Número emita en Asamblea del Colegio, que se celebrará el primer sábado del mes de marzo de cada dos años, Asamblea en la que se requerirá un quórum mínimo de cincuenta por ciento de aquéllos.
+El Consejo será electo por mayoría, mediante voto individual escrito y secreto que cada Notario Titular o de Número emita en Asamblea del Colegio, que se celebrará el primer sábado del mes de marzo de cada dos años, Asamblea en la que se requerirá un quórum de cincuenta por ciento de aquellos.
 
 Fuera de la asamblea de elecciones, todas las demás se convocarán por el Presidente del Consejo, o quien lo supla, mediante aviso entregado en la oficina de cada notario, con 15 días de anticipación.
 
@@ -1227,13 +1301,17 @@ V.- Sancionar y promover que se sancione por el Gobierno del Estado a los Notari
 
 VI.- Las demás que le confieren esta Ley y sus Reglamentos.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 177.
 
-Toda vacante en el Consejo, por más de un mes, será cubierta por un Notario que nombrará el Consejo a mayoría de votos.
+Toda vacante en el Consejo, por más de un mes, será cubierta por un Notario que nombrará el Consejo por mayoría de votos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 2002)</small>
 
 ###### ARTICULO 178.
 
-El Presidente proveerá a la ejecución de los acuerdos del Gobierno del Estado, y a la de las resoluciones del Colegio y Consejo de Notarios; presidirá las sesiones de estos dos últimos y representará al citado Consejo en su calidad de corporación legal; vigilará el exacto cumplimiento de los deberes del mismo y tendrá derecho a fiscalizar la recaudación y empleo de los fondos.
+El Presidente proveerá a la ejecución de los acuerdos del Gobierno del Estado, y de las resoluciones del Colegio y Consejo de Notarios; presidirá las sesiones de estos dos últimos y representará al citado Consejo en su calidad de corporación legal; vigilará el exacto cumplimiento de los deberes del mismo y tendrá derecho a fiscalizar la recaudación y empleo de los fondos.
 
 El Presidente será substituido, en caso de falta o impedimento, por el vicepresidente y los Vocales Primero y Segundo, en el orden de enunciación.
 
@@ -1279,9 +1357,11 @@ En caso de oposición, los visitadores informarán al Ejecutivo del Estado, quie
 
 Las visitas se practicarán por dos Notarios designados por el Consejo de Notarios, en el despacho u oficina del Notario visitado, en horas hábiles; para este efecto, el visitado será notificado con cuarenta y ocho horas de anticipación cuando menos.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
+
 ###### ARTICULO 187.
 
-Los Visitadores de Notarías deberán practicar la inspección que se les encomiende inmediatamente después de que reciban la orden respectiva y darán cuenta del empeño de su comisión tan luego como hayan terminado la visita, sin que en ningún caso pueda exceder de quince días la duración de una visita general y de diez días si se trata de una visita especial.
+Los Visitadores de Notarías deberán practicar la inspección que se les encomiende inmediatamente después de que reciban la orden respectiva y darán cuenta del desempeño de su comisión tan luego como hayan terminado la visita, sin que en ningún caso pueda exceder de quince días la duración de una visita general y de diez días si se trata de una visita especial.
 
 ###### ARTICULO 188.
 
@@ -1399,7 +1479,9 @@ IV.- Por hacer uso de drogas enervantes o ejercer la función notarial en estado
 
 V.- Cuando dentro de un período no mayor de dos años reincida en la causal prevista en la fracción V del artículo anterior;
 
-VI.- Si dentro del término de 60 días siguientes de la protesta que haya rendido ante la autoridad respectiva, no inicia sus funciones ni fija su residencia en el lugar en que deba desempeñarlas de conformidad con el acuerdo de expedición de la patente respectiva;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2002)</small>
+
+VI.- Si dentro del término de 180 días siguientes de la protesta que haya rendido ante la autoridad respectiva, no inicia sus funciones ni fija su residencia en el lugar en que deba desempeñarlas de conformidad con el acuerdo de expedición de la patente respectiva;
 
 VII.- Por ser reincidente en la causal señalada en la fracción XI del artículo anterior;
 
@@ -1433,7 +1515,9 @@ III.- Una exposición sucinta de los motivos de inconformidad y fundamentos lega
 
 IV.- Contendrá la relación de las pruebas que pretenda se reciban para justificar los hechos en que se funde el recurso, para cuya admisión, desahogo y valoración se aplicará supletoriamente el Código de Procedimientos Civiles de la Entidad.
 
-Si el escrito por el cual se interpone el recurso de inconformidad fuere obscuro o irregular, el Ejecutivo prevendrá al recurrente por una sola vez para que lo aclare o corrija de acuerdo con los incisos anteriores, señalando en concreto sus deficiencias, con el apercibimiento de que si no cumple dentro del término de 5 días lo desechará de plano. Cumplido lo anterior se dará trámite al recurso; concluida la recepción y el desahogo de pruebas se dictará la resolución correspondiente, la cual se notificará al interesado.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2002)</small>
+
+Si el escrito por el cual se interpone el recurso de inconformidad fuere obscuro o irregular, el Tribunal prevendrá al recurrente por una sola vez para que lo aclare o corrija de acuerdo con las fracciones anteriores, señalando en concreto sus deficiencias, con el apercibimiento de que si no cumple dentro del término de cinco días lo desechará de plano. Cumplido lo anterior se dará trámite al recurso; concluida la recepción y el desahogo de pruebas se dictará la resolución correspondiente, la cual se notificará al interesado.
 
 Todas las notificaciones a que se refiere este artículo se harán personalmente al Notario o mediante cédula que se dejará en la oficina del Notario por conducto de un empleado de la Notaría.
 
@@ -1446,6 +1530,136 @@ Los Notarios no serán remunerados por el Erario, sino que tendrán derecho a co
 ###### ARTICULO 200.
 
 Los Notarios deberán cobrar por sus servicios las cantidades que precisamente resulten aplicables a cada caso, conforme al Arancel aprobado por el Ejecutivo del Estado y conforme a los Convenios que, para determinadas actividades, celebre el Consejo de Notarios.
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE JUNIO DE 2002)</small>
+
+## TITULO NOVENO. DE LA TRAMITACION EXTRAJUDICIAL
+
+DE LA TRAMITACION SUCESORIA ANTE NOTARIO Y DEL TESTAMENTO PUBLICO SIMPLIFICADO
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 28 DE JUNIO DE 2002)</small>
+
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 201.
+
+A solicitud y opción de los interesados, se consideran asuntos susceptibles de ser formalizados por el Notario, mediante el ejercicio de su fe pública, en términos de esta Ley:
+
+I.- Todos los actos en los que, habiendo o no controversia judicial, los interesados le soliciten haga constar bajo su fe y asesoría, incluyendo los acuerdos, hechos o situaciones de que se trate.
+
+II.- Todos aquellos en los que, existiendo o no controversia judicial, lleguen los interesados voluntariamente a un acuerdo sobre uno o varios puntos del asunto, o sobre su totalidad, y se encuentren conformes en que el notario haga constar bajo su fe y con su asesoría los acuerdos, hechos o situaciones de que se trate.
+
+III.- Aquellos asuntos no contenciosos y sucesorios, que en términos del Código de Procedimientos Civiles conozcan los jueces. En estos casos, el Notario podrá intervenir en tanto no hubiere menores no emancipados o mayores incapacitados. En forma específica, ejemplificativa y no taxativa, en términos de este capítulo y de esta Ley, podrán intervenir los Notarios:
+
+a).- En las sucesiones, conforme a las prevenciones de esta Ley.
+
+b).- En la celebración y modificación de capitulaciones matrimoniales, disolución y liquidación de sociedad conyugal, y
+
+c).- En las informaciones ad perpetuam, apeos y deslindes.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE JUNIO DE 2002)</small>
+
+### CAPITULO SEGUNDO. TRAMITACION SUCESORIA NOTARIAL
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 202.
+
+Sin perjuicio de lo dispuesto por el Código de Procedimientos Civiles, las sucesiones en las que no hubiere controversia alguna y cuyos herederos fueren mayores de edad, menores emancipados o personas jurídicas, podrán tramitarse ante Notario. El que se oponga al trámite de una sucesión, o crea tener derechos contra la misma, los deducirá conforme lo previene el Código de Procedimientos Civiles. El Juez competente, de estimarlo procedente, lo comunicará al Notario para que, en su caso, a partir de esa comunicación se abstenga de proseguir con la tramitación.
+
+La apertura de testamento público cerrado, así como la declaración de ser formal un testamento especial, de los previstos por el Código Civil, se otorgará siempre judicialmente.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 203.
+
+Si la sucesión fuere testamentaria, la tramitación notarial podrá llevarse a cabo, independientemente de cual hubiese sido el último domicilio del autor de la sucesión o el lugar de su fallecimiento.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 204.
+
+La sucesión intestamentaria podrá tramitarse ante notario si el último domicilio del autor de la sucesión estuvo en Baja California, o si se encuentran ubicados en esta entidad la mayor parte de los bienes.
+
+Para tramitar la intestamentaria, el notario deberá obtener del Archivo General de Notarías y del Registro Público de la Propiedad, las constancias de no tener éstos depositado testamento del autor de la sucesión.
+
+Los herederos deberán acreditar al Notario la muerte del autor de la sucesión y su entroncamiento con el mismo, mediante las partidas del Registro Civil correspondientes.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 205.
+
+Si hubiere testamento, se exhibirán el testimonio correspondiente y la copia certificada del acta de defunción del autor de la sucesión; el heredero o herederos instituidos y el albacea designado, si lo hubiere, podrán manifestar expresamente y de común acuerdo ante el notario de su elección:
+
+I.- Su conformidad, de llevar la tramitación ante el citado notario;
+
+II.- Que reconocen la validez del testamento;
+
+III.- Que aceptan la herencia;
+
+IV.- Que reconocen por sí y entre sí sus derechos hereditarios que les sean atribuidos por el testamento, y
+
+V.- Su intención de proceder de común acuerdo.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 206.
+
+El Notario podrá hacer constar también la aceptación o renuncia del cargo de albacea instituido por el autor del testamento, así como las designaciones de albaceas que en su caso hagan todos lo (sic) herederos de común acuerdo, y la aceptación del cargo. También los acuerdos de los herederos para la constitución en su caso de la caución o el relevo de esa obligación. Una vez aceptado el cargo, el albacea procederá a la formación de inventario y avalúo en términos de Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 207.
+
+También podrá hacer constar el Notario, en su caso, la renuncia o repudio de sus derechos que formule alguno de los herederos o legatarios.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 208.
+
+El instrumento de aceptación de herencia podrá otorgarse aún sin la comparecencia de los legatarios instituidos, siempre que los herederos se obliguen al pago de los legados. No se podrá llevar a cabo la adjudicación de bienes sin que se hubiesen pagado o garantizado los legados.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 209.
+
+Si no hubiere testamento, los herederos, en el orden de derechos previsto por el Código Civil, comparecerán todos ante Notario en compañía de dos testigos idóneos; exhibirán al Notario copias certificadas del acta de defunción del autor de la sucesión y las que acrediten su entroncamiento; declararán bajo protesta de decir verdad sobre el último domicilio del finado, y que no conocen la existencia de persona alguna diversa de ellos con derecho a heredar en el mismo grado o en uno preferente al de ellos mismos. El Notario procederá a tomar la declaración de los testigos por separado, en los términos previstos por el Código de Procedimientos Civiles. Acto seguido, se procederá en los mismos términos antes previstos, para lo relativo a la aceptación o repudio de los derechos hereditarios, el nombramiento de albacea y la constitución o relevo de la caución correspondiente.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 210.
+
+El Notario está obligado a dar a conocer las declaraciones de los herederos a que se refieren los artículos anteriores, mediante dos publicaciones que se harán en un diario de circulación local, con diez días de diferencia.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 211.
+
+Una vez hechas las publicaciones a que se refiere el artículo anterior, de lo que se dejará constancia en el instrumento, el o los albaceas presentarán al Notario el inventario y avalúos de los bienes que forman el acervo hereditario del autor de la sucesión para que, con la aprobación de todos los coherederos, en su caso, se realice su protocolización.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 212.
+
+Los herederos y albacea otorgarán las escrituras de partición y adjudicación tal como haya sido ordenado por el autor de la sucesión en su testamento. A falta de éste, conforme a las disposiciones de la Ley de la materia para los interesados, como los propios herederos convengan.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 28 DE JUNIO DE 2002)</small>
+
+### CAPITULO TERCERO. DEL TESTAMENTO PUBLICO SIMPLIFICADO Y SU TRAMITACION NOTARIAL
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 213.
+
+En las operaciones de compraventa de vivienda de interés social o popular que se realicen ante Notarios, se podrá constituir testamento público simplificado en los términos del Código Civil para el Estado de Baja California; instituyendo el testador uno o más legatarios mediante simple manifestación, que se consignará en una cláusula del instrumento respectivo.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2002)</small>
+
+###### ARTICULO 214.
+
+En caso de testamento público simplificado, los legatarios instituidos exhibirán al Notario el respectivo testimonio, junto al acta de defunción del testador, los títulos de propiedad y demás documentos del caso. El Notario, antes de redactar el instrumento, procederá a publicar, por una sola vez en un diario de los de mayor circulación local, que lleva a cabo el trámite sucesorio, indicando en dicha publicación el nombre del testador y de los legatarios. Adicionalmente, recabará las constancias relativas del Archivo General de Notarías y del Registro Publico de la Propiedad, procediendo en los términos antes indicados.
 
 ## TRANSITORIOS
 
@@ -1486,3 +1700,9 @@ LIC. ALEJANDRO GONZALEZ ALCOCER.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P. JORGE RAMOS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE JUNIO DE 2002.
+
+UNICO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
