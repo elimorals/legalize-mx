@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1994-07-22"
+last_updated: "1994-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE JULIO DE 1994.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 1994.
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 11 DE FEBRERO DE 1994.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 28 DE DICIEMBRE DE 1994.
 
 Código publicado en el Diario Oficial de la Federación el jueves 31 de diciembre de 1981.
 
@@ -80,17 +80,17 @@ IV. Derechos son las contribuciones establecidas en Ley por el uso o aprovechami
 
 Cuando sean organismos descentralizados los que proporcionen la seguridad social a que hace mención la fracción II, las contribuciones correspondientes tendrán la naturaleza de aportaciones de seguridad social.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el antepenúltimo párrafo del artículo 21 de este Código son accesorios de las contribuciones y participan de la naturaleza de éstas. Siempre que en este Código se haga referencia únicamente a contribuciones no se entenderán incluidos los accesorios, con excepción de lo dispuesto en el artículo 1o.
+Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el séptimo párrafo del artículo 21 de este Código son accesorios de las contribuciones y participan de la naturaleza de éstas. Siempre que en este Código se haga referencia únicamente a contribuciones no se entenderán incluidos los accesorios, con excepción de lo dispuesto en el artículo 1o.
 
 ###### Artículo 3o.
 
 Son aprovechamientos los ingresos que percibe el Estado por funciones de derecho público distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación estatal.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el antepenúltimo párrafo del artículo 21 de este Código, que se apliquen en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
+Los recargos, las sanciones, los gastos de ejecución y la indemnización a que se refiere el séptimo párrafo del artículo 21 de este Código, que se apliquen en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
 
 Son productos las contraprestaciones por los servicios que preste el Estado en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de bienes del dominio privado.
 
@@ -202,15 +202,15 @@ I. (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
 
 II. (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-En los casos en que una sociedad entre en liquidación o sea fusionada, el ejercicio fiscal terminará anticipadamente en la fecha en que entre en liquidación o se fusione. En el primer caso, se considerará que habrá un ejercicio durante todo el tiempo en que la sociedad esté en liquidación. En el caso de fusión, la sociedad que subsista o que se constituya presentará las declaraciones del ejercicio de las que desaparezcan.
+En los casos en que una sociedad entre en liquidación, sea fusionada o se escinda, siempre que la sociedad escindente desaparezca, el ejercicio fiscal terminará anticipadamente en la fecha en que entre en liquidación, sea fusionada o se escinda, respectivamente. En el primer caso, se considerará que habrá un ejercicio durante todo el tiempo en que la sociedad esté en liquidación. En el caso de fusión, la sociedad que subsista o que se constituya presentará las declaraciones del ejercicio de las que desaparezcan. Tratándose de la escisión de sociedades en la que la sociedad escindente desaparezca, la declaración del ejercicio de la escindente la presentará la sociedad escindida.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 12.
 
-En los plazos fijados en días no se contarán los sábados, los domingos ni el 1o. de enero; el 5 de febrero; el 21 de marzo; el 1o. de mayo; el 5 de mayo; el 16 de septiembre; el 12 de octubre; el 1o. y el 20 de noviembre; el 1o. de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal, y el 25 de diciembre.
+En los plazos fijados en días no se contarán los sábados, los domingos ni el 1o. de enero; el 5 de febrero; el 21 de marzo; el 1o. y 5 de mayo; el 1o. y 16 de septiembre; el 20 de noviembre; el 1o. de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal, y el 25 de diciembre.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -300,9 +300,11 @@ No se incumple con el requisito de permanencia accionaria previsto en las fracci
 
 III. En las operaciones de préstamos de títulos o valores por la entrega de los bienes prestados al prestatario y por la restitución de los mismos al prestamista, siempre que efectivamente se restituyan los bienes a más tardar al vencimiento de la operación y las mismas se realicen de conformidad con las reglas generales que al efecto expida la Secretaría de Hacienda y Crédito Público.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 15.
+
+Para efectos fiscales, arrendamiento financiero es el contrato por el cual una persona se obliga a otorgar a otra el uso o goce temporal de bienes tangibles a plazo forzoso, obligándose esta última a liquidar, en pagos parciales como contraprestación, una cantidad en dinero determinada o determinable que cubra el valor de adquisición de los bienes, las cargas financieras y los demás accesorios y a adoptar al vencimiento del contrato alguna de las opciones terminales que establece la Ley de la materia.
 
 En las operaciones de arrendamiento financiero, el contrato respectivo deberá celebrarse por escrito y consignar expresamente el valor del bien objeto de la operación y la tasa de interés pactada o la mecánica para determinarla.
 
@@ -442,7 +444,9 @@ II. Recargos.
 
 III. Multas.
 
-IV. La indemnización a que se refiere el antepenúltimo párrafo del artículo 21 de este Código.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+IV. La indemnización a que se refiere el séptimo párrafo del artículo 21 de este Código.
 
 Cuando el contribuyente interponga algún medio de defensa legal impugnando alguno de los conceptos señalados en el párrafo anterior, el orden señalado en el mismo no será aplicable respecto del concepto impugnado y garantizado.
 
@@ -538,9 +542,9 @@ En ningún caso las autoridades fiscales podrán liberar a los contribuyentes de
 
 Las autoridades fiscales están obligadas a devolver las cantidades pagadas indebidamente y las que procedan de conformidad con las leyes fiscales. La devolución podrá hacerse de oficio o a petición del interesado, mediante cheque nominativo para abono en cuenta del contribuyente o certificados expedidos a nombre de éste último, los que se podrán utilizar para cubrir cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor. Los retenedores podrán solicitar la devolución siempre que ésta se haga directamente a los contribuyentes. Cuando la contribución se calcule por ejercicios, únicamente se podrá solicitar la devolución del saldo a favor de quien presentó la declaración del ejercicio, salvo que se trate del cumplimiento de resolución o sentencia firmes de autoridad competente, en cuyo caso podrá solicitarse la devolución independientemente de la presentación de la declaración.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto hubiera quedado insubsistente. Lo dispuesto en este párrafo no es aplicable a la determinación de diferencias por errores aritméticos, las que darán lugar a la devolución siempre que no haya prescrito la obligación en los términos del último párrafo de este artículo.
+Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto hubiera quedado insubsistente. Lo dispuesto en este párrafo no es aplicable a la determinación de diferencias por errores aritméticos, las que darán lugar a la devolución siempre que no haya prescrito la obligación en los términos del antepenúltimo párrafo de este artículo.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -776,9 +780,9 @@ IV. Clave del registro federal de contribuyentes de la persona a favor de quien 
 
 V. Cantidad y clase de mercancías o descripción del servicio que amparen.
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-VI. Valor unitario consignado en número e importe total consignado en número y letra, así como el monto de los impuestos que en los términos de las disposiciones fiscales deban trasladarse, en su caso.
+VI. Valor unitario consignado en número e importe total consignado en número o letra, así como el monto de los impuestos que en los términos de las disposiciones fiscales deban trasladarse, en su caso.
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -898,7 +902,9 @@ La modificación de las declaraciones a que se refiere este artículo se efectua
 
 Iniciado el ejercicio de facultades de comprobación, únicamente se podrá presentar declaración complementaria en las formas especiales a que se refieren los artículos 58 y 76, según proceda, debiendo pagarse las multas que establece el citado artículo 76.
 
-Se presentará declaración complementaria conforme a lo previsto por el tercer párrafo del artículo 144 de este Código, caso en el cual se pagará la multa que corresponda, calculada sobre la parte consentida de la resolución y disminuida en los términos del artículo 77, fracción II, inciso b) del mismo.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+Se presentará declaración complementaria conforme a lo previsto por el cuarto párrafo del artículo 144 de este Código, caso en el cual se pagará la multa que corresponda, calculada sobre la parte consentida de la resolución y disminuida en los términos del artículo 77, fracción II, inciso b) del mismo.
 
 Si en la declaración complementaria se determina que el pago efectuado fue menor al que correspondía, los recargos se computarán sobre la diferencia, en los términos del artículo 21 de este Código, a partir de la fecha en que se debió hacer el pago.
 
@@ -908,13 +914,21 @@ Si en la declaración complementaria se determina que el pago efectuado fue meno
 
 Las personas físicas con actividades empresariales y las personas morales que se encuentran en alguno de los supuestos de las siguientes fracciones, están obligadas a dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público autorizado.
 
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
+
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-I. Las que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a cinco mil ochocientos cincuenta millones de pesos, que el valor de su activo determinado en los términos de la Ley del Impuesto al Activo sea superior a once mil setecientos millones de pesos o que por lo menos 300 de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior. Las cantidades a que se refiere este párrafo se actualizarán anualmente, en los términos del artículo 17-A de este ordenamiento.
+I. Las que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a N$7,554,000.00, que el valor de su activo determinado en los términos de la Ley del Impuesto al Activo sea superior a N$15,107,000.00 o que por lo menos 300 de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior. Las cantidades a que se refiere este párrafo se actualizarán anualmente, en los términos del artículo 17-A de este ordenamiento.
+
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 Para efectos de determinar si se está en lo dispuesto por esta fracción se considera como una sola persona moral el conjunto de aquéllas que reúna alguna de las características que se señalan a continuación, caso en el cual cada una de estas personas morales deberá cumplir con la obligación establecida por este artículo:
 
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
 a). Que sean poseídas por una misma persona física o moral en más del 50% de las acciones o partes sociales con derecho a voto de las mismas.
+
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 b). Cuando una misma persona física o moral ejerza control efectivo de ellas en los términos de lo dispuesto en el artículo 57-C de la Ley del Impuesto sobre la Renta, aun cuando no determinen resultado fiscal consolidado.
 
@@ -922,9 +936,9 @@ b). Cuando una misma persona física o moral ejerza control efectivo de ellas en
 
 II. Las que estén autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta. En este caso, el dictamen se realizará en forma simplificada de acuerdo con las reglas generales que al efecto expida la Secretaría de Hacienda y Crédito Público.
 
-> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-III. Las que se fusionen o se escindan, en el ejercicio en que ocurran dichos actos y en los tres posteriores.
+III. Las que se fusionen o se escindan, en el ejercicio en que ocurran dichos actos y en el siguiente.
 
 > <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -1232,6 +1246,16 @@ VI. Si en el cierre del acta final de la visita no estuviere presente el visitad
 
 VII. Las actas parciales se entenderá que forman parte integrante del acta final de la visita aunque no se señale así expresamente.
 
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+###### Artículo 46-A.
+
+Las autoridades deberán concluir la visita que se desarrolle en el domicilio fiscal de los contribuyentes o la revisión de la contabilidad de los mismos que se efectúe en las oficinas de las propias autoridades, dentro de un plazo máximo de nueve meses contados a partir de que se le notifique a los contribuyentes el inicio de las facultades de comprobación, excepto tratándose de contribuyentes que en el ejercicio en que se efectúe la visita o revisión estén obligados a presentar pagos provisionales mensuales en el impuesto sobre la renta; los que en ese mismo ejercicio obtengan ingresos del extranjero o efectúen pagos a residentes en el extranjero; así como los integrantes del sistema financiero o los que en el ejercicio mencionado estén obligados a dictaminar sus estados financieros en los términos del artículo 32-A de este Código, supuestos en los cuales las autoridades fiscales podrán continuar con dicha visita o revisión, sin sujetarse a la limitación antes señalada.
+
+El plazo a que se refiere el párrafo anterior, podrá ampliarse por periodos iguales hasta por dos ocasiones, siempre que el oficio mediante el cual se le notifique la prórroga correspondiente haya sido expedido por el titular de la administración general o dirección general que lleve a cabo la visita o revisión.
+
+Cuando las autoridades no cierren el acta final de visita o de la revisión dentro de los plazos mencionados, ésta se entenderá concluida en esa fecha, quedando sin efectos los actos realizados durante dicha visita o revisión.
+
 ###### Artículo 47.
 
 Las visitas en los domicilios fiscales ordenadas por las autoridades fiscales podrán concluirse anticipadamente en los siguientes casos:
@@ -1252,9 +1276,17 @@ II. En la solicitud se indicará el lugar y el plazo en el cual se debe proporci
 
 III. Los informes, libros o documentos requeridos deberán ser proporcionados por la persona a quien se dirigió la solicitud o por su representante.
 
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-IV. La resolución que determine las contribuciones omitidas se notificará en el lugar señalado en la fracción I de este artículo.
+IV. Como consecuencia de la revisión de los informes, datos, documentos o contabilidad requeridos a los contribuyentes, responsables solidarios o terceros, las autoridades fiscales formularán oficio de observaciones, en el cual harán constar en forma circunstanciada los hechos u omisiones que se hubiesen conocido y entrañen incumplimiento de las disposiciones fiscales del contribuyente o responsable solidario.
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+V. El oficio de observaciones a que se refiere la fracción IV anterior, se notificará en el lugar señalado en la fracción I de este artículo. El contribuyente contará con un plazo de quince días contados a partir del siguiente al en que se notificó el oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo.
+
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+VI. La resolución que determine las contribuciones omitidas se notificará en el lugar señalado en la fracción I de este artículo.
 
 ###### Artículo 49.
 
@@ -1306,7 +1338,7 @@ En el caso de que con motivo de sus facultades de comprobación, las autoridades
 
 (REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
-(SIC)Se tendrán los siguientes plazos para su presentación:
+(SIC) Se tendrán los siguientes plazos para su presentación:
 
 a). Los libros y registros que formen parte de su contabilidad, solicitados en el curso de una visita, deberán presentarse de inmediato, así como los diagramas y el diseño del sistema de registro electrónico, en su caso.
 
@@ -1596,9 +1628,9 @@ III. El contribuyente no pague tres parcialidades sucesivas, con sus recargos.
 
 Cuando no se cubra alguna parcialidad dentro de la fecha o plazo fijado, el contribuyente estará obligado a pagar recargos al fisco federal por falta de pago oportuno, conforme a lo establecido por el artículo 21 de este Código, calculados sobre la cantidad no pagada actualizada, debiendo cubrir además los recargos que se causen conforme a la autorización concedida sobre el saldo actualizado, cuyo monto no incluirá el importe de la parcialidad que causó los recargos conforme al artículo 21 de este Código.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-No procederá la autorización a que se refiere este artículo, tratándose de contribuciones que deban pagarse en el año de calendario en curso, o de las que debieron haberse pagado en los últimos seis meses del año de calendario inmediato anterior, excepto en los casos de aportaciones de seguridad social, de aquéllos a que se refieren los artículos 58, fracción II y 76, fracción I, de este Código, así como cuando se cumpla con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público mediante reglas carácter general.
+No procederá la autorización a que se refiere este artículo, tratándose de contribuciones que debieron pagarse en los tres meses anteriores al mes en el que se solicite la autorización, excepto en los casos de aportaciones de seguridad social, así como cuando se cumpla con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -1666,33 +1698,19 @@ Mediante acuerdo de intercambio recíproco de información, suscrito por el Secr
 
 La aplicación de las multas, por infracciones a las disposiciones fiscales, se hará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-El monto de las multas que este Capítulo establece en cantidades determinadas o entre una mínima y otra máxima, se actualizará en los meses de febrero, mayo, agosto y noviembre con el factor que se obtenga de dividir el Indice Nacional de Precios al Consumidor del penúltimo mes de calendario anterior al de la fecha para la cual se efectúa la actualización, entre el citado índice correspondiente al quinto mes inmediato anterior al de esa fecha. La Secretaría de Hacienda y Crédito Público calculará para las infracciones correspondientes, las cantidades que resulten de las operaciones anteriores y las publicará en el Diario Oficial de la Federación.
+El monto de las multas que este Capítulo establece en cantidades determinadas o entre una mínima y otra máxima, se actualizará en los meses de enero y julio con el factor de actualización correspondiente al periodo comprendido desde el séptimo mes inmediato anterior hasta el último mes inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A de este Código. La Secretaría de Hacienda y Crédito Público realizará las operaciones aritméticas previstas en este artículo y publicará el factor de actualización en el Diario Oficial de la Federación a más tardar el día 10 de los meses citados.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 Cuando las multas no se paguen en la fecha establecida en las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, en los términos del artículo 17-A de este Código.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-Las cantidades que resulten en los términos de este artículo, se ajustarán de conformidad con la siguiente:
+Para efectuar el pago de las cantidades que resulten en los términos de este artículo, las mismas se ajustarán de conformidad con el penúltimo párrafo del artículo 20 de este Código.
 
-TABLA
-
-Cantidades Unidad de ajuste
-
-Desde $ 1.01 hasta $ 500.00 a decenas de pesos.
-
-Desde $ 500.01 hasta $ 1,000.00 a medias centenas de pesos.
-
-Desde $ 1,000.01 hasta $ 10,000.00 a centenas de pesos.
-
-Desde $ 10,000.01 en adelante, a miles de pesos.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
-
-Para efectuar el ajuste a que se refiere la tabla de este artículo, las cantidades se aumentarán o disminuirán, según sea el caso, a la unidad de ajuste más próxima; cuando la cantidad se encuentre a la misma distancia de dos unidades el ajuste se hará a la más baja.
+> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -1732,9 +1750,9 @@ I. La omisión sea descubierta por las autoridades fiscales.
 
 II. La omisión haya sido corregida por el contribuyente después de que las autoridades fiscales hubieren notificado una orden de visita domiciliaria, o haya mediado requerimiento o cualquier otra gestión notificada por las mismas, tendientes a la comprobación del cumplimiento de disposiciones fiscales.
 
-> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-III. La omisión haya sido corregida por el contribuyente con posterioridad a los tres siguientes a la presentación del dictamen de los estados financieros de dicho contribuyente formulado por contador público ante la Secretaría de Hacienda y Crédito Público, respecto de aquellas contribuciones omitidas que hubieren sido observadas en el dictamen.
+III. La omisión haya sido corregida por el contribuyente con posterioridad a los tres meses siguientes a la presentación del dictamen de los estados financieros de dicho contribuyente formulado por contador público ante la Secretaría de Hacienda y Crédito Público, respecto de aquellas contribuciones omitidas que hubieren sido observadas en el dictamen.
 
 Siempre que se omita el pago de una contribución cuya determinación corresponda a los funcionarios o empleados públicos o a los notarios o corredores titulados, los accesorios serán a cargo exclusivamente de ellos, y los contribuyentes sólo quedarán obligados a pagar las contribuciones omitidas. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los contribuyentes a quien determinó las contribuciones, los accesorios serán a cargo de los contribuyentes.
 
@@ -1878,43 +1896,43 @@ VI. Señalar como domicilio fiscal para efectos del registro federal de contribu
 
 A quien cometa las infracciones relacionadas con el registro federal de contribuyentes a que se refiere el artículo 79 se impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-I. De N$430.31 a las comprendidas en las fracciones I, II y VI.
+I. De N$460.00 a las comprendidas en las fracciones I, II y VI.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-II. De N$215.16 a la comprendida en la fracción III.
+II. De N$230.00 a la comprendida en la fracción III.
 
 III. Para la señalada en la fracción IV:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+a). Tratándose de declaraciones, la mayor que resulte entre N$82.00 o el 1% de las contribuciones declaradas; en ningún caso la multa prevista en este inciso será mayor de N$919.00.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+b). De N$230.00 tratándose de la demanda ante el Tribunal Fiscal de la Federación.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+c). De N$82.00 en los demás documentos.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-a). Tratándose de declaraciones, la mayor que resulte entre N$76.85 o el 1% de las contribuciones declaradas; en ningún caso la multa prevista en este inciso será mayor de N$860.61.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
-
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-b). De N$215.16 tratándose de la demanda ante el Tribunal Fiscal de la Federación.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
-
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-c). De N$76.85 en los demás documentos.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
-
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-IV. De N$1,290.91 para la establecida en la fracción V.
+IV. De N$1,379.00 para la establecida en la fracción V.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -1934,9 +1952,7 @@ III. No pagar las contribuciones dentro del plazo que establecen las disposicion
 
 IV. No efectuar en los términos de las disposiciones fiscales los pagos provisionales de una contribución.
 
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-V. Presentar declaraciones o solicitudes que sin derecho den lugar a una devolución o compensación.
+V. (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
 > <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -1946,87 +1962,79 @@ VI. No presentar aviso de cambio de domicilio o presentarlo fuera de los plazos 
 
 VII. Presentar declaración de pago provisional sin cantidad a pagar o sin saldo a favor, siempre que la declaración de pago provisional inmediata anterior haya sido presentada sin cantidad a pagar o sin saldo a favor.
 
-> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-VIII. No presentar los dados e informes en los términos del artículo 13 de la Ley del Impuesto sobre Automóviles Nuevos o en los del artículo 17 de la Ley del Impuesto sobre Tenencia o Uso de Vehículos.
+VIII. No presentar la información a que se refieren los artículos 13 de la Ley del Impuesto sobre Automóviles Nuevos, 17 de la Ley del Impuesto sobre Tenencia o Uso de Vehículos o 19, fracciones VIII y IX de la Ley del Impuesto Especial sobre Producción y Servicios, dentro del plazo previsto en dichos preceptos, o no presentarla conforme lo establecen los mismos.
 
 ###### Artículo 82.
 
 A quien cometa las infracciones relacionadas con la obligación de presentar declaraciones, solicitudes o avisos, así como de expedir constancias a que se refiere el artículo 81, se impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
-
 I. Para la señalada en la fracción I:
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+a). De N$100.00 a N$2,000.00, tratándose de declaraciones. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, por dicha declaración también se aplicará la multa a que se refiere este inciso.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+b). De N$100.00 a N$4,000.00, por presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
+
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-a). Tratándose de declaraciones, la mayor que resulte entre N$76.85 o el 10% de las contribuciones declaradas en su caso. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, sobre las mismas, se le aplicará también la multa a que se refiere este inciso.
+c). De N$90.00 en los demás documentos.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-b). Por presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento, la mayor que resulte entre N$92.19 o el 10% del saldo a cargo declarado en su caso.
-
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-c). De N$84.53 en los demás documentos.
-
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
+> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
 
 II. Respecto de la señalada en la fracción II:
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-a). De N$46.09 por no poner el nombre o ponerlo equivocadamente.
+a). De N$49.00 por no poner el nombre o ponerlo equivocadamente.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-b). De N$23.05 por no poner el domicilio o ponerlo equivocadamente.
+b). De N$25.00 por no poner el domicilio o ponerlo equivocadamente.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-c). De N$4.61 por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, REMITIRSE A LA FRACCION V DEL ARTICULO TERCERO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS EN CITA.</small>
+c). De N$5.00 por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-d). De N$46.09 por no señalar la clave que corresponda a su actividad preponderante conforme al catálogo de actividades que publique la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, o señalarlo equivocadamente.
+d). De N$49.00 por no señalar la clave que corresponda a su actividad preponderante conforme al catálogo de actividades que publique la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, o señalarlo equivocadamente.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-e). De N$46.09 en los demás casos.
+e). De N$49.00 en los demás casos.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+III. De N$100.00 a N$3,000.00, tratándose de la señalada en la fracción III, por cada requerimiento.
 
-III. Tratándose de la señalada en la fracción III, la que resulte mayor entre N$84.53 o el 2% de las contribuciones no pagadas, por cada requerimiento.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+IV. De N$100.00 a N$2,000.00, tratándose de la señalada en la fracción IV.
 
-IV. Para la señalada en la fracción IV, el 20% del pago provisional no efectuado.
+V. (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
 
-V. Para la señalada en la fracción V, la multa será del 30% de la devolución o compensación indebida.
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
+VI. Para la señalada en la fracción VI la multa será de N$323.00.
 
-> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
 
-VI. Para la señalada en la fracción VI la multa será de N$302.21.
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
+VII. Para la señalada en la fracción VII la multa será de N$65.00.
 
-> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-VII. Para la señalada en la fracción VII la multa será de N$60.44.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
-
-> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-VIII. Para la señalada en la fracción VIII, la multa será de N$108,799.75.
+VIII. Para la señalada en la fracción VIII, la multa será de N$10,000.00 a N$30,000.00.
 
 ###### Artículo 83.
 
@@ -2074,63 +2082,59 @@ XII. No expedir o acompañar la documentación que ampare mercancías en transpo
 
 A quien cometa las infracciones relacionadas con la obligación de llevar contabilidad a que se refiere el artículo 83, se impondrán las siguientes sanciones:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-I. De N$215.16 a N$2,151.54 a la comprendida en la fracción I.
+I. De N$230.00 a N$2,298.00 a la comprendida en la fracción I.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
-
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-II. De N$46.09 a N$1,075.77 a las establecidas en las fracciones II y III.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-III. De N$46.09 a N$860.61 a la señalada en la fracción IV.
+II. De N$49.00 a N$1,149.00 a las establecidas en las fracciones II y III.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
-
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
-
-IV. De N$46.09 a N$430.31 a la comprendida en la fracción V.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-V. De N$130.67 a $1,721.25 a la señalada en la fracción VI.
+III. De N$49.00 a N$919.00 a la señalada en la fracción IV.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-VI. De cinco veces el importe total que debió consignarse en el comprobante de que se trate a la señalada en la fracción VII. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+IV. De N$49.00 a N$460.00 a la comprendida en la fracción V.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-VII. De N$430.31 a N$2'151.54 a la establecida en la fracción VIII. La multa procederá sin perjuicio de que los documentos microfilmados en contravención a las disposiciones fiscales carezcan de valor probatorio.
+V. De N$140.00 a N$1,838.00 a la señalada en la fracción VI.
 
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-VIII. Por el 20% del importe consignado en el comprobante a la comprendida en la fracción IX.
+VI. De N$250.00 a N$5,000.00, a las señaladas en las fracciones VII y IX. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
 
-> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-IX. De N$46,104.64 a N$138,313.92 y, en su caso, la cancelación de la autorización para recibir donativos deducibles, a la comprendida en la fracción X.
+VII. De N$460.00 a N$2,298.00 a la establecida en la fracción VIII. La multa procederá sin perjuicio de que los documentos microfilmados en contravención a las disposiciones fiscales carezcan de valor probatorio.
 
-> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+VIII. (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
-X. De tres veces el monto de los donativos recibidos sin cumplir con los requisitos que para su deducibilidad establece la Ley del Impuesto sobre la Renta y la cancelación de la autorización para recibir donativos deducibles, a la comprendida en la fracción XI.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+IX. De N$1,000.00 a N$ 20,000.00 y, en su caso, la cancelación de la autorización para recibir donativos deducibles, a la comprendida en la fracción X.
 
-XI. Por el 20% del valor de la mercancía a la comprendida en la fracción XII.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+X. De N$150.00 a N$2,500.00 y la cancelación de la autorización para recibir donativos deducibles, a la comprendida en la fracción XI.
+
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+XI. De N$100.00 a N$2,000.00, a la comprendida en la fracción XII.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -2154,23 +2158,25 @@ V. Asentar incorrectamente o no asentar en los contratos respectivos el nombre, 
 
 A quien cometa las infracciones relacionadas con las instituciones de crédito a que se refiere el artículo 84-A de este Código, se le impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
 
-I. De N$46.09 a N$2,151.54 a la comprendida en la fracción I.
+I. De N$49.00 a N$2,298.00 a la comprendida en la fracción I.
 
 II. Por el 20% del valor del cheque a la establecida en la fracción II.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-III. De N$6.05 por cada dato no asentado o asentado incorrectamente, a la señalada en la fracción III.
+III. De N$6.00 por cada dato no asentado o asentado incorrectamente, a la señalada en la fracción III.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-IV. De N$768.41 a uno al millar sobre el monto de los ingresos acumulables que haya tenido la institución en el ejercicio inmediato anterior por el que se presentó o debió presentar declaración, a la establecida en la fracción IV.
+IV. De N$5,000.00 a N$100,000.00, a la establecida en la fracción IV.
 
-V. De 4 al millar sobre el monto de los ingresos acumulables que haya tenido la institución en el ejercicio inmediato anterior por el que se presentó o debió presentar declaración, a la establecida en la fracción V.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+V. De N$1,000.00 a N$15,000.00, a la establecida en la fracción V.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -2178,13 +2184,13 @@ V. De 4 al millar sobre el monto de los ingresos acumulables que haya tenido la 
 
 Son infracciones de los usuarios de los servicios, así como de los cuentahabientes de las instituciones de crédito a que se refiere el último párrafo del artículo 30-A de este Código, la omisión total o parcial de la obligación de proporcionar la información relativa a su nombre, denominación o razón social, domicilio, clave del registro federal de contribuyentes o los datos que se requieran para formar dicha clave o la que la sustituya, que les soliciten los prestadores de servicios y las instituciones de crédito, así como proporcionar datos incorrectos o falsos.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 84-D.
 
-A quien cometa las infracciones a que se refiere el artículo 84-C de este Código, se impondrá una multa de N$60.44 por cada omisión, salvo a los usuarios del sistema financiero, para los cuales será de N$181.34 por cada una de las mismas.
+A quien cometa las infracciones a que se refiere el artículo 84-C de este Código, se impondrá una multa de N$65.00 por cada omisión, salvo a los usuarios del sistema financiero, para los cuales será de N$194.00 por cada una de las mismas.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -2192,11 +2198,11 @@ A quien cometa las infracciones a que se refiere el artículo 84-C de este Códi
 
 Se considera infracción en la que pueden incurrir las empresas en relación a las obligaciones a que se refieren el primero y segundo párrafos del artículo 32-C de este Código, el no efectuar la notificación de la cesión de créditos operada en virtud de un contrato de factoraje financiero, o el negarse a recibir dicha notificación.
 
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### Artículo 84-F.
 
-A quien cometa la infracción a que se refiere el artículo 84-E, se impondrá una multa equivalente al 2% del valor del crédito cedido.
+De N$1,000.00 a N$10,000.00, a quien cometa la infracción a que se refiere el artículo 84-E.
 
 ###### Artículo 85.
 
@@ -2216,21 +2222,21 @@ III. No suministrar los datos e informes sobre clientes y proveedores que legalm
 
 A quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el artículo 85, se impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-I. De N$445.66 a N$4,456.77 a la comprendida en la fracción I.
+I. De N$476.00 a N$4,759.00 a la comprendida en la fracción I.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-II. De N$215.16 a N$8,913.56 a la establecida en la fracción II.
+II. De N$230.00 a N$9,518.00 a la establecida en la fracción II.
 
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-III. De 4 al millar, sobre el monto de los ingresos provenientes de la actividad preponderante que tenga el contribuyente, en el ejercicio inmediato anterior por el que se hubiera o debió presentarse declaración a la establecida en la fracción III.
+III. De N$500.00 a N$12,500.00, a la establecida en la fracción III.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -2242,17 +2248,19 @@ I. No adherir marbetes a los envases.
 
 II. Hacer cualquier uso diferente de los marbetes al de adherirlos a los envases que contengan bebidas alcohólicas.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
-
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### Artículo 86-B.
 
 A quienes cometan las infracciones señaladas en el artículo 86-A de este Código, se impondrán las siguientes multas:
 
-I. De N$36.26 a la comprendida en la fracción I, por cada marbete no adherido.
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
 
-II. De N$60.44 a la comprendida en la fracción II, por cada marbete.
+I. De N$39.00 a la comprendida en la fracción I, por cada marbete no adherido.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
+
+II. De N$65.00 a la comprendida en la fracción II, por cada marbete.
 
 ###### Artículo 87.
 
@@ -2272,17 +2280,17 @@ III. Exigir una prestación que no esté prevista en las disposiciones fiscales,
 
 A quien comenta (sic) las infracciones a las disposiciones fiscales a que se refiere el artículo 87, se impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-I. De N$215.16 a N$2,228.39 a la comprendida en la fracción I.
+I. De N$230.00 a N$2,380.00 a la comprendida en la fracción I.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-II. De N$215.16 a N$8,913.56 a las establecidas en las fracciones II y III.
+II. De N$230.00 a N$9,518.00 a las establecidas en las fracciones II y III.
 
 ###### Artículo 89.
 
@@ -2296,23 +2304,23 @@ II. Ser cómplice en cualquier forma no prevista, en la comisión de infraccione
 
 A quien cometa las infracciones señaladas en el artículo 89 de este Código, se impondrán las siguientes multas:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-I. De N$445.68 a N$4,456.77 a la comprendida en la fracción I.
+I. De N$476.00 a N$4,759.00 a la comprendida en la fracción I.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-II. De N$215.16 a N$2,228.39 a la establecida en la fracción II.
+II. De N$230.00 a N$2,380.00 a la establecida en la fracción II.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ANEXO 14 DE LA SÉPTIMA RESOLUCIÓN QUE REFORMA Y ADICIONA A LA QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1993, D.O.F. DEL 11 DE FEBRERO DE 1994.</small>
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
 
 ###### Artículo 91.
 
-La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de N$45.00 a N$450.92.
+La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este Capítulo, se sancionará con multa de N$48.00 a N$482.00.
 
 ### CAPITULO II. De las Notificaciones y la Garantía del Interés Fiscal
 
@@ -2494,7 +2502,9 @@ III. Ampare con documentación o factura auténtica, mercancía extranjera disti
 
 IV. Tenga mercancías extranjeras de tráfico prohibido.
 
-V. En su carácter de funcionario o empleado público de la Federación, de los Estados, del Distrito Federal o de Municipios, autorice la internación de algún vehículo, proporcione documentos o placas para su circulación, otorgue matrícula o abanderamiento, o intervenga para su inscripción en el registro federal de vehículos, cuando la importación del propio vehículo se haya efectuado sin el permiso previo de la autoridad federal competente.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+V. En su carácter de funcionario o empleado público de la Federación, de los Estados, del Distrito Federal o de Municipios, autorice la internación de algún vehículo, proporcione documentos o placas para su circulación, otorgue matrícula o abanderamiento, cuando la importación del propio vehículo se haya efectuado sin el permiso previo de la autoridad federal competente.
 
 > <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
 
@@ -2696,9 +2706,9 @@ b). Alentar alguna actividad ilícita.
 
 Igual sanción se impondrá a los empleados y funcionarios de las instituciones que integran el sistema financiero, que con el propósito de prestar auxilio o cooperación para evitar la identificación o localización de las sumas de dinero o bienes a que se refiere este artículo, no cumplan con la obligación de recabar o falseen la información sobre la identificación del cliente y la correspondiente operación, conforme a lo previsto en las disposiciones que regulan el sistema financiero.
 
-> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-Para los efectos de este artículo, se entiende por sistema financiero el comprendido por las instituciones de crédito, de seguros y de fianzas, almacenes generales de depósito, arrendadoras financieras, sociedades de ahorro y préstamo, uniones de crédito, empresas de factoraje financiero, intermediarios bursátiles, casas de cambio y cualquier otro intermediario financiero o cambiario.
+Para los efectos de este artículo, se entiende por sistema financiero el comprendido por las instituciones de crédito, de seguros y de fianzas, almacenes generales de depósito, arrendadoras financieras, sociedades de ahorro y préstamo, sociedades financieras de objeto limitado, uniones de crédito, empresas de factoraje financiero, intermediarios bursátiles, casas de cambio y cualquier otro intermediario financiero o cambiario.
 
 ## TITULO V. De los Procedimientos Administrativos
 
@@ -2782,9 +2792,9 @@ II. Los agravios que le cause el acto impugnado.
 
 III. Las pruebas y los hechos controvertidos de que se trate.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-Cuando no se haga alguno de los señalamientos de las fracciones I y II de este artículo, la autoridad fiscal desechará por improcedente el recurso interpuesto. Si se omiten los de la fracción III, se tendrá por no ofrecidas las pruebas.
+Cuando no se expresen los agravios a que se refiere la fracción II de este artículo, la autoridad fiscal desechará por improcedente el recurso interpuesto. Cuando no se señale el acto que se impugna, los hechos controvertidos o no se ofrezcan las pruebas a que se refieren las fracciones I y III, la autoridad fiscal requerirá al promovente para que dentro del plazo de cinco días cumpla con dichos requisitos. Si dentro de dicho plazo no se señala el acto que se impugna se tendrá por no presentado el recurso; si el requerimiento que se incumple se refiere al señalamiento de los hechos controvertidos o al ofrecimiento de pruebas, el promovente perderá el derecho a señalar los citados hechos o se tendrán por no ofrecidas las pruebas, respectivamente.
 
 Cuando no se gestione en nombre propio, la representación de los interesados deberá recaer en licenciado en derecho. No será aplicable lo dispuesto en este párrafo si la gestión se realiza en nombre de una persona moral en los términos de la ley que la regula y conforme a sus estatutos, sin perjucio (sic) de lo que disponga la legislación de profesiones.
 
@@ -2806,9 +2816,9 @@ Cuando las pruebas documentales no obren en poder del recurrente, si éste no hu
 
 La autoridad fiscal, a petición del recurrente, recabará las pruebas que obren en el expediente en que se haya originado el acto impugnado, siempre que el interesado no hubiere tenido oportunidad de obtenerlas.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-Cuando no se acompañe alguno de los documentos a que se refieren las fracciones I a III de este precepto, la autoridad fiscal tendrá por no interpuesto el recurso. En los casos a que se refiere la fracción IV de este artículo, se tendrán por no ofrecidas las pruebas.
+Cuando no se acompañe alguno de los documentos a que se refieren las fracciones anteriores, la autoridad fiscal requerirá al promovente para que los presente dentro del término de cinco días. Si el promovente no los presentare dentro de dicho término y se trata de los documentos a que se refieren las fracciones I a III, se tendrá por no interpuesto el recurso; si se trata de las pruebas a que se refiere la fracción IV, las mismas se tendrán por no ofrecidas.
 
 ###### Artículo 124.
 
@@ -3194,13 +3204,17 @@ II. Por la de embargo, incluyendo los señalados en los artículos 41, fracción
 
 III. Por la de remate, enajenación fuera de remate o adjudicación al fisco federal.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a $50,000.00, se cobrará esta cantidad en vez del 2% del crédito.
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de $9,000,000.00. Las cantidades a que se refiere este párrafo y el anterior, se actualizarán en los términos del artículo 17-A de este Código.
+Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a N$65.00, se cobrará esta cantidad en vez del 2% del crédito.
+
+> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 1995, D.O.F. DEL 28 DE DICIEMBRE DE 1994.</small>
+
+> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de N$11,621.00. Las cantidades a que se refiere este párrafo y el anterior, se actualizarán en los términos del artículo 17-A de este Código.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -3846,7 +3860,7 @@ La demanda deberá indicar:
 
 > <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 1993)</small>
 
-I. El nombre, domicilio fiscal y en su caso, clave en el registro federal de contribuyentes y domicilio para recibir notificaciones del demandante.
+I. El nombre, domicilio fiscal y en su caso, clave en el registro federal de contribuyentes y domicilio para recibir notificaciones del demandante
 
 II. La resolución que se impugna.
 
@@ -3856,17 +3870,17 @@ IV. Los hechos que den motivo a la demanda.
 
 V. Las pruebas que ofrezca.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-En caso de que se ofrezca prueba pericial o testimonial se precisarán los hechos sobre los que deban versar y señalarán los nombres y domicilios del perito o de los testigos. Sin estos señalamientos se tendrán por no ofrecidas.
+En caso de que se ofrezca prueba pericial o testimonial se precisarán los hechos sobre los que deban versar y señalarán los nombres y domicilios del perito o de los testigos.
 
 VI. La expresión de los agravios que le cause el acto impugnado.
 
 VII. El nombre y domicilio del tercero interesado, cuando lo haya.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-Cuando se omitan los datos previstos en las fracciones I, II, III y VI, el magistrado instructor desechará por improcedente la demanda interpuesta.
+Cuando se omitan los datos previstos en las fracciones I, II, y VI, el magistrado instructor desechará por improcedente la demanda interpuesta. Cuando se omitan los datos previstos en las fracciones III, IV, V y VII, el magistrado instructor requerirá al promovente para que los señale dentro del plazo de cinco días, apercibiéndolo que de no hacerlo en tiempo se tendrá por no presentada la demanda o por no ofrecidas las pruebas, según corresponda.
 
 ###### Artículo 209.
 
@@ -3898,9 +3912,9 @@ VII. Las pruebas documentales que ofrezca.
 
 Cuando las pruebas documentales no obren en poder del demandante o cuando no hubiera podido obtenerlas a pesar de tratarse de documentos que legalmente se encuentren a su disposición, éste deberá señalar el archivo o lugar en que se encuentren para que a su costa se mande expedir copia de ellos o se requiera su remisión cuando ésta sea legalmente posible. Para este efecto deberá identificar con toda precisión los documentos y tratándose de los que pueda tener a su disposición, bastará con que acompañe copia de la solicitud debidamente presentada. Se entiende que el demandante tiene a su disposición los documentos, cuando legalmente pueda obtener copia autorizada de los originales o de las constancias. En ningún caso se requerirá el envío de un expediente administrativo.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-Cuando no se adjunten a la demanda los documentos a que se refiere este precepto, el magistrado instructor tendrá por no ofrecidas las pruebas, o si se trata de los previstos en las fracciones I a IV se tendrá por no presentada la demanda.
+Cuando no se adjunten a la demanda los documentos a que se refiere este precepto, el magistrado instructor requerirá al promovente para que los presente dentro del plazo de cinco días. Si el promovente no los presenta dentro de dicho plazo y se trata de los documentos a que se refieren las fracciones I a IV, se tendrá por no presentada la demanda, o si se trata de las pruebas documentales o de los cuestionarios dirigidos a peritos a que se refieren las fracciones V y VII, las mismas se tendrán por no ofrecidas.
 
 (ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
@@ -4410,7 +4424,9 @@ En el caso de contribuciones que deban determinarse o cubrirse por períodos inf
 
 Cuando la cuantía sea inferior a la que corresponda conforme al primer párrafo o sea indeterminada, el recurso procederá cuando el negocio sea de importancia y trascendencia, debiendo el recurrente razonar esa circunstancia para efectos de la admisión del recurso. En materia de aportaciones de seguridad social, se presume que tienen importancia y trascendencia los asuntos que versen sobre la determinación de sujetos obligados, de conceptos que integran la base de cotización y del grado de riesgo de las empresas para los efectos del seguro de riesgos del trabajo.
 
-La Secretaría de Hacienda y Crédito Público podrá interponer el recurso, cuando la resolución o sentencia afecte el interés fiscal de la Federación y, a su juicio, el asunto tenga importancia, independientemente de su monto, por tratarse de la interpretación de leyes o reglamentos, de las formalidades esenciales del procedimiento, o por fijar el alcance de los elementos constitutivos de una contribución.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+
+La Secretaría de Hacienda y Crédito Público podrá interponer el recurso, cuando la resolución o sentencia afecte el interés fiscal de la Federación y, a su juicio, el asunto tenga importancia, independientemente de su monto, por tratarse de la interpretación de leyes o reglamentos, de las formalidades esenciales del procedimiento, o por fijar el alcance de los elementos constitutivos de una contribución. Tratándose de resoluciones favorables al particular dictadas por el Tribunal Fiscal de la Federación en materia de la Ley Federal de Responsabilidades de los Servidores Públicos, las autoridades podrán interponer el recurso de revisión, independientemente del monto o de la sanción de que se trate.
 
 El recurso de revisión también será procedente contra las resoluciones o sentencias que dicte la Sala Superior del Tribunal, en los casos a que se refiere el Artículo 239 BIS.
 
@@ -4772,7 +4788,7 @@ La presente Ley entrará en vigor el día 1o. de enero de 1988.
 
 D.O.F. 5 DE ENERO DE 1988.
 
-REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988).
+REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988.
 
 Disposiciones Transitorias
 
@@ -5095,3 +5111,33 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 ...
 
 TERCERO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
+
+D.O.F. 28 DE DICIEMBRE DE 1994.
+
+LEY QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL CODIGO FISCAL DE LA FEDERACION.
+
+DISPOSICIONES TRANSITORIAS DEL CODIGO FISCAL DE LA FEDERACION
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos de lo dispuesto en el Código Fiscal de la Federación se estará a lo siguiente:
+
+I.- Las cantidades establecidas en los artículos 82, fracción I, incisos a) y b), III, IV y VIII, 84, fracciones VI, IX, X y XI, 84-B, fracciones IV y V, 84-F y 86, fracción III, de este Código, se entienden actualizadas por el mes de enero de 1995, debiéndose efectuar las posteriores actualizaciones en los términos que establece el artículo 70 de este Código a partir de la actualización prevista para el mes de julio de 1995.
+
+II.- Para los efectos de lo dispuesto en el artículo 46-A del Código Fiscal de la Federación, el plazo para la conclusión de las visitas o revisiones a que dicho artículo se refiere que se encuentren en trámite, se computará a partir del 1o. de enero de 1995.
+
+## TRANSITORIO
+
+UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1995.
+
+D.O.F. 28 DE DICIEMBRE DE 1994.
+
+LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL DE 1995, POR LA QUE SE ACTUALIZA EL CODIGO FISCAL DE LA FEDERACION.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- La presente Ley entrará en vigor el día 1o. de enero de 1995.
+
+...
+
+QUINTO.- A partir del 1o. de enero de 1995, las cantidades, tarifas y tablas que aparecen en los artículos que se indican de las leyes fiscales que se mencionan, serán las que a continuación se establecen. Las cantidades, tarifas y tablas que se mencionan en este artículo se entenderán actualizadas hasta el mes de enero de 1995, debiéndose efectuar las posteriores actualizaciones en los términos que establezcan las leyes que las contengan a partir de la actualización prevista para el mes de julio de 1995, excepto tratándose de las cantidades relativas a las Leyes de los Impuestos sobre Automóviles Nuevos y Tenencia o Uso de Vehículos, las cuales se actualizarán en el mes de enero de 1996, de conformidad con los preceptos aplicables de dichas Leyes.
