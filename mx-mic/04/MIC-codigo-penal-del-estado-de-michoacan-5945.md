@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-del-estado-de-michoacan-5945"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-07-07"
-last_updated: "1998-08-03"
+last_updated: "1998-10-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO PENAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 1998.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el lunes 7 de julio de 1980.
 
@@ -73,7 +73,7 @@ Cuando después de cometido el delito se dictare una nueva ley que modificare lo
 
 ### CAPITULO I. Reglas Generales
 
-> <small>(REFORMADO, PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ###### Artículo 7o.
 
@@ -589,7 +589,7 @@ VII. Las demás condiciones especiales y personales en que se encontraba el agen
 
 Artículo 54 bis.- Cuando por haber sufrido el sujeto activo consecuencias graves en su persona con motivo del delito, o por su senilidad o su precario estado de salud, fuere notoriamente innecesaria e irracional la imposición de una pena privativa o restrictiva de libertad, el juez, de oficio o a petición de parte, motivando su resolución, podrá prescindir de ella o sustituirla por una medida de seguridad. En los casos de senilidad o precario estado de salud, el juez se apoyará siempre en dictámenes de peritos médicos.
 
-> <small>(REFORMADA EN SU DENOMINACION, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO EN SU DENOMINACION, P.O. 3 DE AGOSTO DE 1998)</small>
 
 ### CAPITULO III. Sanciones en los delitos culposos
 
@@ -783,7 +783,7 @@ V. Que adopte, en el plazo que la resolución determine, alguna actividad lícit
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 1998)</small>
 
-VI.- Que alguna persona solvente, honorable y de arraigo se obligue a vigilar la conducta del reo, a informa mensualmente acerca de ella, presentándolo siempre que para ello fuere requerido y a pagar, si no cumple, la cantidad que se le hubiere fijado como garantía al conceder la libertad la cual será de cien a mil días de salario dependiendo de la gravedad del delito.
+VI. Que alguna persona solvente, honorable y de arraigo se obligue a vigilar la conducta del reo, a informa mensualmente acerca de ella, presentándolo siempre que para ello fuere requerido y a pagar, si no cumple, la cantidad que se le hubiere fijado como garantía al conceder la libertad la cual será de cien a mil días de salario dependiendo de la gravedad del delito.
 
 ###### Artículo 75.
 
@@ -895,7 +895,7 @@ El perdón del ofendido o de su representante legal si fuere incapaz, extingue l
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
-Cada uno de los ofendidos puede separadamente otorgar el perdonará al delincuente. En este caso, el perdón solamente tendrá efecto con relación a la persona que lo conceda.
+Cada uno de los ofendidos puede separadamente otorgar el perdón al delincuente. En este caso, el perdón solamente tendrá efecto con relación a la persona que lo conceda.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 1994)</small>
 
@@ -1495,6 +1495,8 @@ Al que ultraje insignias de las instituciones que tengan actuación pública, de
 
 ### CAPITULO I. Cohecho
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 1998)</small>
+
 ###### Artículo 162.
 
 Se aplicarán de tres meses a dos años de prisión y multa de cien a mil días de salario:
@@ -1561,7 +1563,7 @@ IV. Al que oculte, concierte o permita el comercio carnal de un menor de edad.
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
-### CAPITULO IV. Anticipación, Prolongación y Abandono de Funciones Públicas
+### CAPITULO IV. ANTICIPACION, PROLONGACION Y ABANDONO DE FUNCIONES PUBLICAS
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
@@ -1595,7 +1597,7 @@ Al que revele un secreto que hubiere conocido en el ejercicio indebido de funcio
 
 ###### Artículo 174.
 
-Se impondrán de uno a cinco años de prisión, multa hasta cinco mil pesos e inhabilitación hasta por un término de tres años, para desempeñar cualquier función pública:
+Se impondrán del (sic) uno a cinco años de prisión, multa de quinientos días de salario e inhabilitación hasta por un término de tres años, para desempeñar cualquier función pública:
 
 I. Al funcionario o empleado público o empleado de un organismo o empresa descentralizados, que por sí o por interpósita persona solicite o reciba dinero, valores, servicios o cualquiera otra dádiva o acepte una promesa para hacer u omitir algo justo o injusto relacionado con sus funciones; y,
 
@@ -1829,7 +1831,7 @@ Se impondrán de uno a ocho años de prisión y multa de cincuenta a cien días 
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 1998)</small>
 
-I. Al que declare ante alguna autoridad, faltando a la verdad con relación al hecho que se trata de averiguar, ya sea afirmando, negando u ocultando la existencia de alguna circunstancia que pueda servir de prueba sobre la verdad o falsedad del hecho principal, o que aumente o disminuya la gravedad;
+I. Al que declare ante alguna autoridad faltando, a la verdad con relación al hecho que se trata de averiguar, ya sea afirmando, negando u ocultando la existencia de alguna circunstancia que pueda servir de prueba sobre la verdad o falsedad del hecho principal, o que aumente o disminuya la gravedad;
 
 II. Al que, por cualquier medio obtenga que un testigo, perito, intérprete o presunto ofendido declare falsamente ante la autoridad;
 
@@ -1883,7 +1885,7 @@ II. Al cónyuge, concubino y parientes colaterales por consanguinidad hasta el c
 
 III. Los que estén ligados con el delincuente por amor, respeto, gratitud o estrecha amistad. La excusa no favorecerá a quien obre por motivos reprobables o emplee medios delictuosos.
 
-### CAPITULO IV. Usurpación de Funciones Públicas de Profesión
+### CAPITULO IV. Usurpación de Funciones Públicas o de Profesión
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
@@ -2045,7 +2047,7 @@ IV. Al que procurándose los verdaderos sellos, punzones, marcas, etcétera, hag
 
 V. Al que para defraudar a otro altere las pesas y las medidas legítimas o quite de ellas las marcas verdaderas y las pase a pesas o medidas falsas, o haga uso de éstas.
 
-### CAPITULO I. Delitos contra la Filiación y el Estado Civil y Exposición de Menores
+### CAPITULO I. Delitos Contra la Filiación y el Estado Civil y Exposición de Menores
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE AGOSTO DE 1998)</small>
 
@@ -2487,7 +2489,7 @@ Se impondrá prisión diez a veinte años y multa de cien a mil días de salario
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
-Cuando en la ejecución del delito de violación intervengan dos o más personas, la pena será de diez a veinte años de prisión y multa de cien a mil días de salario.
+Cuando en la ejecución del delito de violación intervengan dos ó más personas, la pena será de diez a veinte años de prisión y multa de cien a mil días de salario.
 
 La misma sanción prevista en el párrafo anterior se impondrá cuando el delito de violación se consume en vehículo de tránsito en caminos o carreteras, particular o de servicio público o cuando la víctima haya sido obligada a descender de aquéllos para su consumación.
 
@@ -2529,7 +2531,7 @@ La ofendida podrá acudir ante los tribunales civiles a demandar los alimentos.
 
 ###### Artículo 245.
 
-Al que sin consentimiento de una persona púber o impúber o con consentimiento de esta última, ejecute en ella o la haga ejecutar un acto erótico, sin el propósito de llegar a la cópula, se le impondrán de uno a seis años de prisión y multa de cien a quinientos días de salario.
+Al que sin consentimiento de una persona púber o impúber o con consentimiento de esta última, ejecute en ella o la haga ejecutar un acto erótico, sin el propósito de llegar a la cópula, se le impondrán de uno a seis años de prisión y multa de cien a quinientos días DE salario.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
 
@@ -2541,7 +2543,7 @@ Este delito sólo se sancionará cuando se haya consumado y será perseguible po
 
 ###### Artículo 246.
 
-Al que por medio de la violencia física o moral, con motivo de actos eróticos o cualquier otra causa, introduzca por vía anal o vaginal, cualquier elemento o instrumento diferente al miembro viril o cuando sin emplearse la violencia, el ofendido no estuviere en posibilidades de resistir la conducta delictuosa, se le impondrá de cinco a quince años de prisión y multa de cien a mil días de salario.
+Al que por medio de la violencia física o moral, con motivo de actos eróticos o cualquier otra causa, introduzca por vía anal o vaginal cualquier elemento o instrumento diferente al miembro viril o cuando sin emplearse la violencia, el ofendido no estuviere en posibilidades de resistir la conducta delictuosa, se le impondrá de cinco a quince años de prisión y multa de cien a mil días de salario.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1989)</small>
 
@@ -2887,6 +2889,8 @@ DELITOS DE PELIGRO PARA LA VIDA Y LA SALUD
 
 ### CAPITULO VI. Despojo de Inmuebles y Aguas
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 1998)</small>
+
 ###### Artículo 292.
 
 Se impondrán prisión de siete meses a cinco años y multa de veinticinco a doscientos días de salario:
@@ -2895,7 +2899,7 @@ I. Al que dispare a una persona o grupo de personas, una arma de fuego; y,
 
 II. Al que ataque a alguien de tal manera que, en razón del medio empleado, el arma, la fuerza o destreza del agresor, o de cualquier otra circunstancia ponga en peligro su vida o su salud.
 
-### CAPITULO VII. Daño en las Cosas
+### CAPITULO VII. DAÑO EN LAS COSAS
 
 > <small>(REFORMADO, P.O. 11 DE FEBRERO DE 1988)</small>
 
@@ -2931,11 +2935,11 @@ Al que habiendo atropellado a una persona la dejare en estado de abandono, sin p
 
 (DEROGADO, P.O. 3 DE AGOSTO DE 1998)
 
-### CAPITULO VIII. Operaciones con recursos de procedencia lícita
+### CAPITULO VIII. OPERACIONES CON RECURSO DE PROCEDENCIA ILICITA
 
 > <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 1998)</small>
 
-Artículo 335 bis.- Se impondrán de cinco a quince años de prisión y multa de mil a cinco mil días de salario, al que por sí o por interpósita persona realice cualquiera de las siguientes conductas: adquiera, enajene, administre, custodie, cambie, deposite, dé en garantía, invierta, transporte o transfiera, dentro del territorio del Estado o de éste hacia a fuera, o a la inversa, recursos, derechos o bienes de cualquier naturaleza, que procedan o representen el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar o impedir conocer el origen, localización, destino o propiedad de dichos recursos, derechos o bienes, o alentar alguna actividad ilícita.
+Artículo 335 bis.- Se impondrán de cinco a quince años de prisión y multa de mil a cinco mil días de salario, al que por sí o por interpósita persona realice cualquiera de las siguientes conductas: adquiera, enajene, administre, custodie, cambie, deposite, dé en garantía, invierta, transporte o transfiera, dentro del territorio del Estado o de éste hacia afuera, o a la inversa, recursos, derechos o bienes de cualquier naturaleza, que procedan o representen el producto de una actividad ilícita, con alguno de los siguientes propósitos: ocultar o impedir conocer el origen, localización, destino o propiedad de dichos recursos, derechos o bienes, o alentar alguna actividad ilícita.
 
 La sanción prevista en el primer párrafo será aumentada en una mitad, cuando el delito se cometa por servidores públicos encargados de prevenir, denunciar, investigar o juzgar la comisión de delitos. En este caso, se impondrá a dichos servidores públicos, además, inhabilitación para desempeñar empleo, cargo o comisión públicos hasta por un tiempo igual al de la pena de prisión impuesta.
 
@@ -2946,6 +2950,8 @@ TITULO DECIMONOVENO
 DELITOS CONTRA EL TRABAJO Y LA PREVISION SOCIAL.
 
 DE LOS PATRONES EN EL FUERO LOCAL DEL TRABAJO
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE OCTUBRE DE 1998)</small>
 
 ###### Artículo 298.
 
@@ -3007,9 +3013,9 @@ En los casos de tentativa de robo, cuando no fuere posible determinar el monto, 
 
 Se considera calificado el delito de robo cuando:
 
-> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 1991)</small>
 
-I. Se ejecute con violencia las personas;
+I. Se ejecute con violencia en las personas.
 
 II. El objeto del robo sea un expediente o algún documento de protocolo, oficina o archivo públicos, o documento que contenga obligación, liberación o transmisión de derechos que obre en un expediente judicial;
 
@@ -3017,7 +3023,7 @@ III. Se comete aprovechando alguna relación de servicio, de trabajo o de hospit
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 1998)</small>
 
-IV. Se cometa en un paraje solitario o estando la víctima en un vehículo particular o de transporte público o se cometa en un lugar cerrado o en edificio, vivienda, aposento, casa habitación o cualquier dependencia de ella, cuarto o cualquier lugar destinado para habitación, incluyendo en esta denominación no solo los que estén fijos en la tierra sino también los movibles, sea cual fuere la materia de que estén construidos y que se encuentre habitado en el momento del robo, independientemente de la cuantía, haya o no violencia en las personas;
+IV. Se cometa en un paraje solitario o estando la víctima en un vehículo particular o de transporte público o se cometa en un lugar cerrado o en edificio, vivienda, aposento, casa habitación o cualquier dependencia de ella, cuarto o cualquier lugar, destinado para habitación, incluyendo en esta denominación no solo los que estén fijos en la tierra sino también los movibles, sea cual fuere la materia de que estén construidos y que se encuentre habitado en el momento del robo, independientemente de la cuantía, haya o no violencia en las personas;
 
 V. Se comete aprovechando la falta de vigilancia, el deshorden (sic) o confusión que se produzcan por un incendio, naufragio, inundación, accidentes del tránsito de vehículos o aeronaves u otros siniestros;
 
@@ -3029,7 +3035,7 @@ VI. Se cometa por medio de escalamiento o empleo de llaves falsas;
 
 VII. Se ejecute con intervención de dos o más personas o una o varias personas armadas o que utilicen o porten otros objetos peligrosos;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE MAYO DE 1991)</small>
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 1991)</small>
 
 VIII. El objeto del robo sea cualquier vehículo de motor estacionado en la vía pública o en lugar destinado a su guarda o reparación, sobre parte de él u objetos guardados en su interior;
 
@@ -3265,7 +3271,7 @@ Los hechos a que se contraen las disposiciones anteriores producen acción públ
 
 ###### Artículo 330.
 
-Se aplicarán de seis meses a cinco años de prisión y multa de quinientos a cinco mil pesos:
+Se aplicarán de seis meses a cinco años de prisión y multa de cincuenta a quinientos días de salarios:
 
 I. Al que de propia autoridad y haciendo violencia a las personas o a las cosas, o furtivamente, o empleando engaño, ocupe un inmueble ajeno o haga uso de él o de un derecho real que no le pertenezca;
 
@@ -3335,7 +3341,7 @@ Si además de los daños directos resulta consumado algún otro delito, se aplic
 
 ###### Artículo 336.
 
-Con relación al fuero local del trabajo, se impondrán de dos a cinco años de prisión y multa de dos mil a cinco mil pesos al patrón que:
+Con relación al fuero local del trabajo, se impondrán de dos a cinco años de prisión y multa de doscientos a quinientos días de salario al patrón que:
 
 I. Pague los salarios de los trabajadores en mercancías, vales, fichas, tarjetas o en moneda que no sea del curso legal;
 
@@ -3578,3 +3584,9 @@ El presente decreto entrará en vigor quince días después de su publicación e
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones jurídicas lo que se opongan al presente decreto.
+
+P.O. 29 DE OCTUBRE DE 1998.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
