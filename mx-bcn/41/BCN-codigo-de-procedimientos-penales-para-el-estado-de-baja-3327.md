@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "1997-01-03"
+last_updated: "1998-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 1998.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -287,7 +287,11 @@ II.- A nombrar inmediatamente abogado o persona de su confianza, para que esté 
 
 III.- A que se le conceda, inmediatamente que lo solicite, su libertad previa bajo caución, cuando proceda legalmente;
 
-IV.- A que se le informe sobre la acusación planteada en su contra y sobre las pruebas recabadas durante la averiguación previa, para lo cual se le permitirá consultar el expediente en presencia del Ministerio Público o su personal, pero no se le expedirán copias;
+(REFORMADA, P.O. 29 DE MAYO DE 1998) (F. DE E., P.O. 19 DE JUNIO DE 1998)
+
+IV.- A que se le informe sobre la acusación planteada en su contra y sobre las pruebas recabadas durante la averiguación previa, para lo cual se le permitirá consultar el expediente en presencia del Ministerio Público o de su personal, quienes expedirán copias simples de la denuncia o querella a costa del solicitante, así como de aquellas pruebas desahogadas en los términos de este Código, previa solicitud por escrito que formule el indiciado, salvo en los casos de delitos graves establecidos en el Artículo 123 de este Código.
+
+Las copias a que se refiere el párrafo anterior, sólo se entregarán al indiciado que haya rendido su declaración ante el Ministerio Público.
 
 V.- A que se reciban los testigos y las demás pruebas que considere oportunas para su defensa, concediéndole el apoyo y el tiempo necesario para su desahogo. Tratándose de averiguación con detenido, las pruebas propuestas por el indiciado se recabarán cuando no entorpezcan o afecten el término para ejercitar la acción penal.
 
@@ -999,17 +1003,35 @@ Delitos graves.- Para todos los efectos legales, se clasifican como delitos grav
 
 Homicidio por culpa, previsto en el artículo 75 tercera parte del primer párrafo, cuando el conductor se encuentre en estado de ebriedad u otras substancias que perturben su adecuada conducción; homicidio previsto en el artículo 123, en su forma simple contemplado en el artículo 124; en su forma atenuada a que se refiere el artículo 125; las formas calificadas previstas en los artículos 126 en relación con el 147, y sus formas agravadas previstas en los artículos 127 y 128; infanticidio descrito en el artículo 129; la instigación o ayuda al suicidio a que se refiere el segundo párrafo del artículo 131; secuestro previsto en los artículos 164 y 165; asalto agravado tipificado en el artículo 173; violación contemplada en el artículo 176, violación equiparada en el 177, violación impropia en el 178, así como las formas agravadas, a que se refiere el artículo 179; robo calificado en las hipótesis previstas por los artículos 203 y 208 fracciones I, II y VIII; abigeato descrito en el artículo 209, pero sólo cuando se trate de ganado vacuno; despojo agravado a que se refiere el tercer párrafo de la fracción III del artículo 226 por lo que toca a los instigadores y autores mediatos; daños agravados contenidos en las fracciones I y II del artículo 229; tráfico de menores descrito por el artículo 238 primero y segundo párrafos; corrupción de menores e incapaces tipificado en el artículo 261 párrafo segundo; lenocinio agravado del artículo 267; terrorismo descrito en el artículo 279 excepto su encubrimiento; tortura previsto en el artículo 307-bis primer párrafo y 307-ter segundo párrafo; evasión de presos, en la forma agravada del artículo 328 y los delitos electorales previstos en los artículos 348 fracción IV y 355.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1998)</small>
 
 ###### Artículo 124.
 
-Formas de caución.- Cuando el inculpado garantice directamente la libertad provisional, la caución podrá consistir en depósito en efectivo, hipoteca, prenda, fideicomiso o fianza de institución autorizada. Los terceros pueden ofrecer estas mismas garantías y, además, fianza personal. El inculpado o el tercero que garantice la libertad caucional, podrán elegir el tipo de caución, pero el juzgador determinará si ésta es idónea y suficiente.
+Formas de caución.- Cuando el inculpado garantice directamente la libertad provisional, la caución podrá consistir en:
+
+I.- Depósito en efectivo.
+
+II.- Fianza de Institución autorizada.
+
+III.- Hipoteca.
+
+IV.- Prenda.
+
+V.- Fideicomiso.
+
+VI.- Fianza personal.
+
+El inculpado o tercero podrá elegir el tipo de caución, pero el Juzgador determinará si es idónea y suficiente.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 125.
 
 Monto de la caución.- La caución que garantice la reparación del daño, deberá cubrir el monto estimado de la afectación patrimonial demostrada, pero la garantía impuesta para el cumplimiento de las obligaciones procesales, no podrá exceder de la cantidad equivalente a cinco años de salario mínimo vigente en el lugar del delito.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1998)</small>
+
+La autoridad correspondiente, expedirá los recibos de las cauciones a nombre del inculpado o del tercero que constituyó la garantía.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
 
@@ -2009,11 +2031,19 @@ III.- Cuando se demuestre que el indiciado no tuvo intervención en el hecho que
 
 IV.- Cuando de la averiguación o del proceso se desprenda plenamente que el inculpado actuó en circunstancias que excluyan su responsabilidad; y
 
-V.- Cuando se haya extinguido la acción penal por cualquiera de la causas previstas en este Código.
+V.- Cuando se haya extinguido la acción penal por cualquiera de las causas previstas en este Código.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1998)</small>
 
 ###### Artículo 264.
 
-Definitividad del no ejercicio de la acción penal.- Las resoluciones que se dicten en los casos a que se refiere el artículo anterior, una vez agotados los medios de impugnación respectivos o transcurridos los plazos previstos para su interposición, producirán el efecto de impedir definitivamente el ejercicio de la acción penal respecto de los hechos que las motiven, archivándose como asunto concluído.
+Definitividad del no ejercicio de la acción penal.- Las resoluciones que se dicten por las causales a que se refiere el artículo anterior, producirán la Definitividad del No Ejercicio de la Acción Penal y el Archivo del Expediente como Asunto Concluido, respecto de los hechos que lo motiven cuando:
+
+I.- Haya transcurrido el plazo previsto para interponer el Recurso de Revisión sin que el denunciante o querellante hubiere hecho uso de ese derecho, y
+
+II.- Se haya agotado el medio de impugnación respectivo ante el Juez Penal competente y éste hubiera ratificado el no Ejercicio de la Acción Penal.
+
+En todo caso el Ministerio Público deberá, dentro de los quince días posteriores al acuerdo, notificar por estrados, la Definitividad del No Ejercicio de la Acción Penal al indiciado y ordenará archivarlo como asunto concluido.
 
 ### CAPITULO III. RESERVA EN TRAMITE
 
@@ -3252,3 +3282,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 3 DE ENERO DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+P.O. 29 DE MAYO DE 1998.
+
+###### ARTICULO UNICO.
+
+La reforma a los Artículos 26, 124, 125 y 264 del Código de Procedimientos Penales para el Estado de Baja California, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
