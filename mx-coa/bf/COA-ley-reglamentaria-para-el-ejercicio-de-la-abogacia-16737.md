@@ -4,7 +4,7 @@ identifier: "COA-ley-reglamentaria-para-el-ejercicio-de-la-abogacia-16737"
 country: "mx"
 rank: "ley"
 publication_date: "1925-06-24"
-last_updated: "1925-06-24"
+last_updated: "1937-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY REGLAMENTARIA PARA EL EJERCICIO DE LA ABOGACIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 1937.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 24 de junio de 1925.
 
@@ -57,17 +57,21 @@ Las personas que posean título de abogado, antes de ejercer la profesión, debe
 
 Unicamente serán registrados en el Libro especial que llevará el Superior Tribunal de Justicia, los títulos de abogado cuya legalidad y autenticidad quede satisfecha a juicio del propio Tribunal, sin perjuicio de que el interesado compruebe su personalidad y se identifique como poseedor legal del título.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1937)</small>
+
 ###### Art. 6°.
 
-En los lugares del Estado en que se carezca de abogados titulados o haya menos de tres, podrá permitirse el ejercicio de esta profesión a tres personas de reconocida honorabilidad, que comprueben tener los conocimientos indispensables, a juicio del Superior Tribunal de Justicia.
+En los lugares del Estado en que se carezca de abogados Titulados podrá permitirse el ejercicio de esta profesión a tres personas de reconocida honorabilidad, que comprueben tener los conocimientos indispensables, a juicio del Superior Tribunal de Justicia.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1937)</small>
 
 ###### Art. 7°.
 
-Para los efectos del artículo anterior, los interesados dirigirán una solicitud al Superior Tribunal de Justicia, acompañando tres constancias escritas de abogados postulantes titulados, radicados en el Estado, en las que se testimonie la aptitud práctica de los solicitantes, en la materia, y una certificación del Presidente Municipal del lugar donde desearen ejercer, comprobando que son conocidos del vecindario y de intachable conducta. En vista de estos documentos el Superior Tribunal tiene facultades para conceder o negar el permiso por medio de oficio que se entregará a los peticionarios y que deberán exhibirlo ante los Tribunales cuando fueren requeridos para ello. Estos permisos se expedirán hasta el número que acordare el superior Tribunal de Justicia en cada lugar, y podrá revocarlos cuando lo estime conveniente a los intereses de la sociedad, cuando se presentare queja de mal comportamiento de los beneficiados, o cuando en el lugar donde ejerzan se establezcan, con residencia fija, tres o más abogados titulados postulantes. En este último caso, quedan sin efecto y se considerarán insubsistentes los permisos expedidos, sin necesidad de revocación especial. Los beneficiados con los permisos a que se refiere este artículo se sujetarán a lo dispuesto en el artículo 8º., y no podrán ejercer fuera del lugar para el que se conceden.
+Para los efectos del Artículo anterior, los interesados dirigirán una solicitud al Superior Tribunal de Justicia, acompañando tres constancias escritas, de Abogados Postulantes titulados radicados en el Estado, en las que se testimonie la aptitud práctica de los solicitantes en la materia, y una certificación del Presidente Municipal del lugar donde desearen ejercer, comprobando que son conocidos del vecindario y de intachable conducta. El Superior Tribunal de Justicia al recibir la solicitud mandará publicarla, a costa del interesado, en el Periódico Oficial del Estado, y en un diario de información que se publique en el lugar más cercano a aquél en que radique el peticionario, siendo dichas publicaciones por tres veces de cinco en cinco días, agregando que se efectúa esa publicación, para que si hay alguien que tenga que hacer observaciones sobre la moralidad del solicitante, las haga y las pruebe suficientemente a juicio del propio Tribunal. Si hechas las publicaciones no se presenta observación alguna, o las que se hagan resultan infundadas, el Tribunal en vista de esta circunstancia y de los documentos que se mencionan, tiene facultades para conceder o negar el permiso por medio de oficio que se entregará a los peticionarios y que deberán exhibirlo ante los Tribunales cuando fueren requeridos para ello. Estos permisos podrá revocarlos cuando lo estime conveniente a los intereses de la sociedad, cuando se presentare queja de mal comportamiento de los beneficiados, o cuando en el lugar donde ejerzan se establezca con residencia fija, tres o más abogados titulados postulantes. En este último caso quedan sin efecto y se considerarán insubsistentes los permisos expedidos, sin necesidad de revocación especial. Los beneficiados con los permisos a que se refiere este artículo deberán presentar en la primera promoción de los asuntos que se les encomiende el comprobante de estar al corriente en el pago de las contribuciones municipales o del Estado que les asignen las Leyes, sin cuyo requisito los Jueces repelarán las promociones que hicieren.
 
 ###### Art. 8°.
 
-En los lugares donde haya abogados titulados también podrá permitirse el ejercicio de la abogacía, a personas que no tengan título, previos los requisitos establecidos en los artículos 6º. y 7º., pero solamente ante los Juzgados Menores o Locales y en negocios que no excedan de cien pesos, debiendo presentar en la primera promoción de los asuntos que se les encomiende, el comprobante respectivo de estar al corriente en el pago de las contribuciones Municipales o del Estado que les asignaren las leyes, sin cuyo requisito los Jueces repelerán de oficio las promociones que hicieren.
+(DEROGADO, P.O. 27 DE NOVIEMBRE DE 1937)
 
 ###### Art. 9°.
 
@@ -118,3 +122,9 @@ C. GARZA CASTRO.
 El Srio. del Ejecutivo del Estado.
 
 Lic. P. Aguirre S.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 27 DE NOVIEMBRE DE 1937.
+
+EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS DISPOSICIONES PRELIMINARES DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
