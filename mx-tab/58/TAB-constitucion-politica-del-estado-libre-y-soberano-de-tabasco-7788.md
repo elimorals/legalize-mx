@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1925-11-25"
+last_updated: "1928-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE NOVIEMBRE DE 1925.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1928.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -181,11 +181,11 @@ No podrán reunirse dos o más de estos poderes en un solo individuo o corporaci
 
 El Poder Legislativo se deposita en una Asamblea que se denomina CONGRESO DEL ESTADO.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1928)</small>
+
 ###### Art. 31.
 
-El Congreso del Estado se compondrá por lo menos de quince Diputados, electos popularmente cada dos años.
-
-Por cada Diputado propietario se elegirá un suplente.
+El Congreso del Estado se compondrá por lo menos de 7 Diputados, electos popularmente cada dos años.
 
 ###### Art. 32.
 
@@ -521,7 +521,7 @@ Los Diputados que acepten la renuncia del Gobernador Constitucional sin llenarse
 
 ###### Art. 67.
 
-Durante los recesos del Congreso funcionará una Comisión Permanente, compuesta de cinco Diputados propietarios, y dos suplentes que cubrirán las faltas de los primeros.
+Durante los recesos del Congreso funcionará una Comisión Permanente compuesta de tres Diputados con el carácter de Propietarios y dos con el de Suplentes, que cubrirán las faltas de los primeros.
 
 ### CAPITULO IV.
 
@@ -562,6 +562,8 @@ La elección de Gobernador será directa, en los términos que disponga la ley r
 ### CAPITULO V.
 
 COMISION PERMANENTE Y SUS ATRIBUCIONES.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1928)</small>
 
 ###### Art. 72.
 
@@ -1286,3 +1288,7 @@ UNICO:- Este Decreto comenzará a surtir sus efectos legales desde la fecha de s
 P.O. 25 DE NOVIEMBRE DE 1925.
 
 UNICO:- Este Decreto surte sus efectos legales desde la fecha de su promulgación.
+
+P.O. 24 DE NOVIEMBRE DE 1928.
+
+Artículo Unico.- Este Decreto surte sus efectos legales al verificarse las elecciones para el XXXI Congreso Local, debiendo publicarse por Bando Solemne en todo el Estado.
