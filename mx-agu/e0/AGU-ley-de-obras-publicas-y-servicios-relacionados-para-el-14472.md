@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-obras-publicas-y-servicios-relacionados-para-el-14472"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2001-11-26"
+last_updated: "2003-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMADA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES PUBLICADA EN EL PERIODICO OFICIAL EL 25 DE AGOSTO DE 2003.</small>
+
+ULTIMA REFORMADA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Gobierno Constitucional del Estado de Aguascalientes, el 6 de junio de 1999.
 
@@ -1128,3 +1130,15 @@ EL SECRETARIO GENERAL DE GOBIERNO, Lic. Abelardo Reyes Sahagún.
 P.O. 26 DE NOVIEMBRE DE 2001.
 
 UNICO.- El presente decreto entrará en vigor a partir del 1o. del año 2002.
+
+P.O. 25 DE AGOSTO DE 2003.
+
+PRIMERO: La presente Ley entrará en vigor a los treinta días posteriores al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Una vez que entre en vigor la presente Ley, quedará abrogada la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes, publicada en el Periódico Oficial del Estado en fecha seis de junio de mil novecientos noventa y nueve, y sus reformas a los Artículos 29 y 65 publicadas el día veintiséis de noviembre del año dos mil uno en el mismo órgano publicitario del Gobierno del Estado.
+
+TERCERO: Mientras no se adecúe y reforme el Reglamento de la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes, publicado en el Periódico Oficial del Estado el día treinta de octubre de dos mil, se deberá entender que los artículos referidos en dicho ordenamiento a la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes en vigor, se entenderán adecuados a los similares de la presente Ley, una vez que ésta entre en vigor.
+
+CUARTO: Los procedimientos de contratación y ejecución de obra pública que se hayan comenzado bajo la vigencia de la Ley de Obras Públicas y Servicios Relacionados para el Estado de Aguascalientes, publicada en el Periódico Oficial del Estado en fecha seis de junio de mil novecientos noventa y nueve, y sus reformas a los artículos 29 y 65 publicadas el día veintiséis de noviembre del año dos mil uno en el mismo órgano publicitario del Gobierno del Estado, se concluirán en su totalidad en aplicación de dicho ordenamiento.
+
+QUINTO: Se derogan todas las disposiciones jurídicas que se opongan a la presente Ley.
