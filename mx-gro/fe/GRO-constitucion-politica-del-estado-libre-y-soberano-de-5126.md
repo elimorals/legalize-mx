@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1941-12-31"
+last_updated: "1943-11-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1941.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1943.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -48,6 +48,8 @@ Cuando desaparezcan los Poderes Ejecutivo y Legislativo del Estado, o bien desap
 El Gobernador Provisional, tan pronto, como las circunstancias lo permitan y en un término que no exceda de seis meses, convocará a elecciones de Gobernador y Diputados si la desaparición hubiere tenido lugar antes de concluidos los dos primeros años del período Constitucional del Gobernador. De lo contrario, observará lo prevenido en la primera parte del párrafo tercero del artículo 61 de esta Constitución, debiendo convocar a elecciones en los términos de Ley y sin que el Gobernador pueda ser electo para el período a que se convoque. El Gobernador Provisional que resulte rendirá la protesta de Ley, ante cualquier Ayuntamiento del Estado legalmente constituido.
 
 ## TITULO III.
+
+Del Municipio como base de la División Territorial del Estado y organización Política y administrativa.
 
 ###### Artículo 3°.
 
@@ -169,6 +171,8 @@ De la división del Poder Público.
 
 La Capital del Estado es la Ciudad de Chilpancingo de los Bravos, donde deben residir los Poderes del mismo, salvo el caso en que por circunstancias graves acuerde el Congreso su traslación accidental a otro lugar.
 
+> <small>(ADICIONADA SU DENOMINACION, P.O. 24 DE NOVIEMBRE DE 1943)</small>
+
 ###### Artículo 16.
 
 El Territorio del Estado comprende el que le señaló la Ley de su creación, con la modificación contenida en el Decreto Número 1 de 23 de marzo de 1907, relativo al arreglo de límites con el vecino Estado de Michoacán.
@@ -215,49 +219,13 @@ De la iniciativa y formación de las leyes.
 
 ###### Artículo 22.
 
-Con las Municipalidades que integran el Estado, se forman catorce Distritos, los cuales son los siguientes:
+El Estado se dividirá para la administración de justicia en Distritos Judiciales integrados con las Municipalidades que determine la ley Orgánica respectiva.
 
-Abasolo, que comprende las Municipalidades de Ometepec, Igualapa, Xochistlahuaca, Tlacoachixtlahuaca y Cuajinicuilapa; su Cabecera Ometepec.
-
-> <small>(REFORMADO, P. O. 10 DE MAYO DE 1933)</small>
-
-Alarcón, las de Taxco de Alarcón, Tetipac y Pilcaya; su Cabecera el Pueblo de Tetipac.
-
-Aldama, con las de Teloloapan, Cuetzala del Progreso, Arcelia, Ixcateopan y Pedro Ascencio Alquisiras; su Cabecera Teloloapan.
-
-Allende, con las de Ayutla de los Libres, Cuautepec, Florencio Villareal, Copala, San Luis Acatlán y Azoyú; su Cabecera Ayutla de los Libres.
-
-Alvarez, con las de Chilapa de Alvarez, Atlixtac, Ahuacuotzingo, Zitlala, Copalillo y Atenango del Río; su Cabecera Chilapa de Alvarez.
-
-Bravos, con las de Chilpancingo de los Bravos, Zumpango del Río, Leonardo Bravo y Tlacotepec; su Cabecera Chilpancingo de los Bravos.
-
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 1934)</small>
-
-Galeana, con las de Tecpan de Galeana, Atoyac de Alvarez y Benito Juárez; su Cabecera Tecpan de Galeana.
-
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1926)</small>
-
-Guerrero, con las de Tixtla de Guerrero, Mártir de Cuilapan, Mochitlán y Quechultenango; su Cabecera Tixtla de Guerrero.
-
-Hidalgo, con las de Iguala, Tepecoacuilco de Trujano, Cocula y Huitzuco; su Cabecera Iguala.
-
-Mina, con las de Coyuca de Catalán, Cutzamala de Pinzón, Tlalchapa, Ajuchitlán del Progreso, San Miguel Totolapan, Zirándaro y Pungarabato; su Cabecera Coyuca de Catalán.
-
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1935)</small>
-
-Montes de Oca, con las de La Unión, Coahuayutla de Guerrero y Petatlán; su Cabecera La Unión.
-
-Morelos, con las de Tlapa de Comonfort, Copanatoyac, Atlamajalcingo del Monte, San Vicente Zoyatlán, Totomistláhuaca, Alcozauca de Guerrero, Metlatonoc, Zapotitlán, Xalpatlahuac, Malinaltepec y Tenango Tepexi, su Cabecera Tlapa de Comonfort.
-
-Tabares, con las de Acapulco de Juárez, Coyuca de Benítez, San Marcos y Tecoanapa; su Cabecera Acapulco de Juárez.
-
-Zaragoza, con las de Huamuxtitlán, Alpoyeca, Xochihuehuetlán, Cualac y Olinalá; su Cabecera Huamuxtitlán.
-
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1930)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1943)</small>
 
 ###### Artículo 23.
 
-La formación de los quince Distritos enumerados en el artículo anterior, tiene por objeto demarcar la Administración de Justicia en los ramos Civil y Penal, determinando la jurisdicción de los Jueces de Primera Instancia; señalar las zonas fiscales para demarcar asimismo el funcionamiento de las Oficinas Rentísticas del Estado.
+La formación de los Distritos Administrativos será fijada por las leyes ordinarias del ramo.
 
 ###### Artículo 24.
 
@@ -1049,7 +1017,7 @@ Del Municipio como base de la división territorial del Estado, y su organizaci�
 
 De los Distritos.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1920)</small>
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1943)</small>
 
 ### CAPITULO I
 
@@ -1306,3 +1274,7 @@ P.O. 31 DE DICIEMBRE DE 1941.
 ###### Art. 1o.
 
 Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE NOVIEMBRE DE 1943.
+
+UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
