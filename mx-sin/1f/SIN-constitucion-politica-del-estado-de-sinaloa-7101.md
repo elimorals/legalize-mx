@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1948-05-13"
+last_updated: "1948-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE MAYO DE 1948.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1948.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -649,7 +649,9 @@ IX. Formar la estadística del Estado.
 
 X. Pedir y dar informes al Congreso sobre cualquier ramo de la administración y al Supremo Tribunal de Justicia sobre los de su competencia.
 
-XI. (DEROGADA, P.O. 29 DE NOVIEMBRE DE 1947)
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 1948)</small>
+
+XI. Expedir los títulos profesionales concedidos por las Instituciones Docentes Oficiales del Estado, de Acuerdo con las Leyes que las rijan, y autorizar los expedidos por los establecimientos docentes descentralizados, de conformidad también con las Leyes respectivas.
 
 XII. Extender los Fiats de Notarios con arreglo a la ley respectiva.
 
@@ -797,7 +799,7 @@ La Ley organizará la Defensoría Oficial y determinará la forma en que debe ej
 
 #### SECCION V. DE LA ENSEÑANZA PUBLICA
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1947)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1948)</small>
 
 ###### Art. 80.
 
@@ -853,31 +855,19 @@ La omisión de esta formalidad hace responsables a las autoridades a quienes la 
 
 ###### Art. 90.
 
-Es obligación del Estado fomentar la enseñanza pública, e impartir al Pueblo la Primaria, en su doble forma elemental y superior. La educación que imparta el Estado además de excluir toda doctrina religiosa combatirá el fanatismo y los prejuicios, para lo cual la Escuela organizará sus enseñanzas y actividades en forma que permita desarrollar armónicamente todas las facultades del ser humano y fomentar en la juventud el amor a la Patria y la conciencia de la solidaridad internacional en la independencia y en la justicia.
+La educación que imparte el Estado tendrá la orientación filosófica demarcada en el Artículo 3o. de la Constitución Política de la República, y se encauzará tendiendo a alcanzar el desarrollo integral de la personalidad humana.
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1938)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1948)</small>
 
 ###### Art. 91.
 
-La enseñanza secundaria, la preparatoria, la normal y la técnica, se impartirán gratuitamente en los establecimientos oficiales del Estado.
+Toda la educación que imparte el Estado será gratuita, a fin de que todos los individuos tengan acceso a ella. La educación primaria será, ademáso (sic) bligatoria (sic).
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1938)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1948)</small>
 
 ###### Art. 92.
 
-Las actividades y enseñanzas de los planteles particulares deberán ajustarse, sin excepción alguna, a lo preceptuado en el párrafo segundo del artículo 90 y estarán a cargo de personas que en concepto del Estado tengan suficiente preparación profesional, conveniente moralidad e ideología acorde con este precepto. En tal virtud las corporacipnes (sic) religiosas, los ministros de los cultos, las sociedades por acciones que exclusiva y preferentemente realicen actividades educativas, y las asociaciones o sociedades ligadas directa o indirectamente con la propaganda de un credo religioso, no intervendrán en forma alguna en escuelas primarias, secundarias o normales, ni podrán apoyarlas económicamente.
-
-La formación de planes, programas y métodos de enseñanza corresponderá en todo caso al Estado.
-
-No podrán funcionar los planteles particulares sin haber obtenido previamente, en cada caso, la autorización expresa del Poder Público.
-
-El Estado podrá revocar, en cualquier tiempo, las autorizaciones concedidas. Contra la revocación no procederá recurso o juicio alguno.
-
-Estas mismas normas regirán la educación de cualquier tipo o grado que se imparta a obreros o campesinos.
-
-La Educación Primaria será obligatoria y el Estado la impartirá gratuitamente.
-
-El Estado podrá retirar discrecionalmente en cualquier tiempo, el reconocimiento de validez oficial a los estudios hechos en planteles particulares.
+Los particulares podrán impartir la educación a todos sus tipos y grados, con sujeción a las disposiciones de la Ley Orgánica de Educación del Estado, en concordancia con el Artículo 3o. de la Constitución General de la República y sus Leyes Reglamentarias.
 
 ### CAPITULO IV. PODER JUDICIAL
 
@@ -1656,3 +1646,7 @@ Artículo Unico- Este Decreto comenzará a surtir sus efectos a partir de la fec
 P.O. 13 DE MAYO DE 1948.
 
 Artículo Unico.- El presente Decreto comenzará a surtir sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 1948.
+
+UNICO.- El presente Decreto comenzará a surtir sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
