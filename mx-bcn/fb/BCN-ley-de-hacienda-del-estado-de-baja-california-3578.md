@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1980-02-10"
+last_updated: "1980-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 1980.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1443,11 +1443,21 @@ III.- Adoptar las medidas de control que para el correcto pago del impuesto esta
 
 #### SECCION PRIMERA. Del Impuesto Sobre Remuneraciones al Trabajo Personal
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1980)</small>
 
 ###### ARTICULO 151
 
-13.- Es objeto del Impuesto la realización de pagos en efectivo en especie por concepto de remuneración al trabajo personal, prestado bajo la dirección o dependencia de un tercero dentro del Territorio del Estado.
+13.- Es objeto del Impuesto, la realización de pagos por concepto de remuneraciones al trabajo personal, prestado bajo la dirección o dependencia de un tercero dentro del territorio del Estado, excepto cuando se identifiquen como necesarios para la realización de los siguientes actos o actividades:
+
+a).- Enajenación de bienes o prestación de servicios, cuando unos u otros se exporten, en los términos del Artículo 29 de la Ley del Impuesto al Valor Agregado;
+
+b).- Operaciones de maquila para exportación en los términos del Reglamento del párrafo tercero del Artículo 321 del Código Aduanero de los Estados Unidos Mexicanos para la Industria Maquiladora.
+
+c).- Enajenación de bienes o prestación de servicios que se realicen por residentes en el Estado, a quien resida en una entidad federativa diferente a Baja California, siempre que la entrega material de bienes o la prestación de servicios se lleve a cabo fuera del Estado.
+
+Cuando los pagos por remuneraciones al trabajo personal prestado bajo la dirección o dependencia de un tercero, no sean plenamente identificables como necesarios para la realización de los actos no gravados a que se refiere este Artículo, se podrán considerar como tales, en el porciento (sic) que el valor de dichos actos represente en el valor total de los que el contribuyente realice en el mes.
+
+Para los efectos de este Artículo se aplicarán supletoriamente en lo conducente las normas de la Ley del Impuesto al Valor Agregado, vigente a nivel federal.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
@@ -1990,3 +2000,7 @@ P.O. 10 DE FEBRERO DE 1980.
 ###### ARTICULO UNICO.
 
 Las disposiciones que establece el presente Decreto entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE JUNIO DE 1980.
+
+UNICO.- El presente Decreto tendrá vigencia a partir del día 1o. de junio del año en curso, previa publicación en el Periódico Oficial, Organo del Gobierno del Estado de Baja California.
