@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-gaceta-municipal-del-r-ayuntamiento-de-san-254
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-06-24"
-last_updated: "1992-06-24"
+last_updated: "2002-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE LA GACETA MUNICIPAL DEL R. AYUNTAMIENTO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 24 de junio de 1992.
 
@@ -49,9 +49,11 @@ Los Reglamentos Municipales independientemente de publicarse en la Gaceta Munici
 
 ### CAPITULO SEGUNDO. DE LA PUBLICACION
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 4.
 
-La publicación de la Gaceta Municipal estará bajo la responsabilidad de la Secretaría de Relaciones Públicas de la Administración Municipal.
+La publicación de la Gaceta Municipal estará bajo la responsabilidad de la Secretaría del R. Ayuntamiento de la Administración Municipal.
 
 ###### ARTICULO 5.
 
@@ -75,9 +77,11 @@ c).- Indice de contenido.
 
 La distribución de la Gaceta Municipal será gratuita hasta mil ejemplares, salvo acuerdo en contrario que emita el R. Ayuntamiento.
 
-###### ARTICULO 9.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2002)</small>
 
-Los interesados podrán recibir en su domicilio la Gaceta Municipal, previa suscripción ante la Secretaría de Relaciones Públicas, cubriendo los gastos de envío y derechos de suscripción.
+###### ARTÍCULO 9.
+
+Los interesados podrán recibir en su domicilio la Gaceta Municipal, previa suscripción ante la Secretaria del R. Ayuntamiento, cubriendo los gastos de envío y derechos de suscripción.
 
 ###### ARTICULO 10.
 
@@ -114,3 +118,9 @@ C. SECRETARIO DEL R. AYUNTAMIENTO
 JESUS HINOJOSA TIJERINA
 
 C. PRESIDENTE MUNICIPAL
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE JULIO DE 2002.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
