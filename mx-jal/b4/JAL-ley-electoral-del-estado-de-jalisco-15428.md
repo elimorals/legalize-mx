@@ -4,7 +4,7 @@ identifier: "JAL-ley-electoral-del-estado-de-jalisco-15428"
 country: "mx"
 rank: "ley"
 publication_date: "1997-04-29"
-last_updated: "2000-04-01"
+last_updated: "2000-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ELECTORAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 29 de abril de 1997.
 
@@ -2983,19 +2983,21 @@ Los representantes a que se refiere este artículo, podrán votar en la casilla 
 
 Los partidos políticos o coaliciones igualmente podrán acreditar, en cada uno de los distritos electorales uninominales, un representante general por cada diez casillas electorales ubicadas en zonas urbanas y uno por cada cinco casillas en zonas rurales.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2000)</small>
+
 ###### Artículo 262.
 
-El Consejo Electoral del Estado entregará, los formatos foliados e infalsificables de acreditación de representantes de los partidos políticos o coaliciones ante las mesas directivas de casilla, conforme al siguiente procedimiento:
+El Consejo Electoral del Estado entregará, los formatos foliados e infalsificables de nombramiento de representantes de los partidos políticos o coaliciones ante las mesas directivas de casilla, conforme al siguiente procedimiento:
 
 I. A partir del día siguiente al de la aprobación de las listas de ubicación de casillas y hasta trece días antes del día de la elección, los formatos se encontrarán a disposición de los partidos o coaliciones, en la sede del Consejo Electoral del Estado;
 
 II. Los formatos se entregarán por triplicado, y deberán ser llenados por los partidos o coaliciones, de acuerdo con los datos mencionados en el artículo siguiente; y
 
-III. Los representantes ante mesa directiva de casilla conservarán para sí el original y entregarán una copia de su acreditación al presidente de la misma, al momento de registrarse como tales, dicha copia habrá de incluirse en el paquete electoral. El mencionado registro podrá realizarse hasta antes del cierre de la casilla en cuestión.
+III. Los representantes ante mesa directiva de casilla conservarán para sí el original y entregarán una copia de su nombramiento al presidente de la misma, al momento de acreditarse como tales, dicha copia habrá de incluirse en el paquete electoral. La mencionada acreditación podrá realizarse hasta antes del cierre de la casilla en cuestión.
 
-Las acreditaciones serán otorgadas por los representantes de los partidos políticos o coaliciones ante el Consejo Electoral del Estado y ante las comisiones distritales.
+Los registros serán realizados por los representantes de los partidos políticos o coaliciones ante el Consejo Electoral del Estado y ante las comisiones distritales, hasta cinco días antes de la jornada electoral.
 
-Las acreditaciones señaladas en el presente artículo no podrán utilizarse en procesos electorales posteriores. Asimismo, el formato de las acreditaciones será distinta para cada proceso electoral.
+Los formatos para el nombramiento de los representantes de partido ante mesa directiva de casilla señalados en el presente artículo no podrán utilizarse en procesos electorales posteriores. Asimismo, el formato de los nombramientos será distinto para cada proceso electoral.
 
 ###### Artículo 263.
 
@@ -4714,3 +4716,7 @@ P.O. 1 DE ABRIL DE 2000.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 6 DE ABRIL DE 2000.
+
+UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
