@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1998-07-20"
+last_updated: "1999-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -693,11 +693,11 @@ Los hechos y actos del estado civil del propio Oficial, de su cónyuge, ascendie
 
 Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil o solicitando la comparecencia del mismo al lugar donde se encuentre aquél. Esta presentación no tendrá lugar cuando exista el certificado de nacido vivo a que se refiere el artículo siguiente, cuyo documento será suficiente para el registro.
 
-> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1999)</small>
 
 ###### Art. 58.
 
-Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos dentro de los sesenta días de ocurrido. A falta de los padres, están obligados a hacerlo los abuelos. Los médicos, cirujanos o matronas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Oficial del Registro Civil dentro de los tres días siguientes mediante la entrega del certificado de nacido vivo o certificado de defunción fetal o del producto, de acuerdo con las formas expedidas por la dirección del Registro Civil. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
+Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos dentro de los cuarenta días naturales de ocurrido. A falta de los padres, los abuelos están obligados a hacerlo en igual plazo. Los médicos, cirujanos o matronas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Oficial del Registro Civil dentro de los quince días siguientes, mediante la entrega del certificado de nacido vivo, de muerte fetal o de defunción, de acuerdo con las formas expedidas por la Dirección del Registro Civil, la misma obligación tiene el hombre o la mujer jefe de familia en cuya casa haya tenido lugar el alumbramiento si éste ocurrió fuera de la casa paterna.
 
 Recibido el aviso, el Oficial del Registro Civil, en observancia a lo dispuesto por el artículo 337, levantará el acta de nacimiento conforme a las disposiciones relativas, o expedirá la orden de inhumación.
 
@@ -749,11 +749,15 @@ Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso
 
 En éste como en el caso del artículo anterior, se observará lo previsto en los dos últimos párrafos del artículo 62.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1999)</small>
 
 ###### Art. 65.
 
-Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Oficial del Registro Civil con los vestidos, papeles o cualquiera otros objetos encontrados con él. Declarará el día y el lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido, dando aviso el Oficial al Ministerio Público.
+Toda persona que encontrare un menor abandonado, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo ante la Procuraduría de la Defensa del Menor y la Familia o ante el Ministerio Público, con los vestidos, papeles u otros objetos encontrados con él, declarando el día y el lugar donde lo hubiere hallado, así como las demás circunstancias que hayan concurrido. La Procuraduría de la Defensa del Menor y la Familia o el Ministerio Público, en su caso, solicitará al Oficial del Registro Civil que levante el acta de nacimiento y, la primera, dará aviso al Ministerio Público poniendo al menor bajo la custodia de la Institución pública o privada correspondiente.
+
+Menor abandonado es aquél cuyos progenitores o encargados de ejercer sobre él la custodia, patria potestad o tutela, sin causa justificada desatiendan o incumplan las obligaciones a las que están compelidos por disposición de Ley, aún cuando esta circunstancia no represente un riesgo para el menor, sin importar el lugar donde ocurra.
+
+Expósito es el menor abandonado dentro de los primeros siete años de vida en cualquier lugar y de quien se desconoce su identidad y la de sus progenitores.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -767,11 +771,11 @@ La misma obligación tienen los jefes, directores o administradores de las prisi
 
 En las actas que se levanten en tales casos, se expresarán las circunstancias que señala el artículo 65, la edad aparente del niño, su sexo, el nombre y apellido que se le ponga y el nombre de la persona o institución que se encargue de él.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1999)</small>
 
 ###### Art. 68.
 
-Si con el expósito se hubieren encontrado papeles, alhajas u otros objetos que puedan conducir a la identificación de aquél, el Oficial del Registro Civil ordenará su depósito ante el Ministerio Público respectivo, mencionándolos en el acta y dando formal recibo de ellos al que recoja al niño.
+Si con el expósito o menor abandonado se hubieren encontrado papeles u objetos que puedan conducir a la identificación de aquél, la Procuraduría de la Defensa del Menor y la Familia ordenará su depósito ante el Ministerio Público respectivo, quien lo hará constar en el acta circunstanciada correspondiente, de la cual entregará copia a quien recoja al menor.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -2979,7 +2983,9 @@ Los menores podrán ser adoptados mediante el sistema de adopción plena, aplic�
 
 Art. 410 Bis I.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo, es decir, la filiación completa, respecto al adoptante o adoptantes y a la familia de éstos, substituyendo los vínculos que tuvo con su familia de origen, salvo para el efecto de contraer matrimonio. El adoptado adquiere en la familia del o los adoptantes, los mismos derechos y obligaciones del hijo consanguíneo y debe llevar los apellidos del adoptante o adoptantes.
 
-En la adopción plena se requerirá que los ascendientes del o los adoptantes otorguen ante el juez su consentimiento.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1999)</small>
+
+En la adopción plena se requerirá que los ascendientes de o los adoptantes otorguen ante el juez su consentimiento. Cuando éstos sean declarados ausentes o hubieren muerto, el juez mediante la comprobación fehaciente de estos hechos, eximirá del cumplimiento de este requisito.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -3269,27 +3275,25 @@ II.- Con la emancipación derivada del matrimonio;
 
 III.- Por la mayor edad del hijo.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1999)</small>
 
 ###### Art. 444.
 
-La Patria Potestad se pierde:
+La patria potestad se pierde:
 
-I.- Cuando el que la ejerza es condenado expresamente a la pérdida de ese derecho o cuando es condenado dos o más veces por delitos graves;
+I.- Cuando el que la ejerza es condenado por uno o más delitos graves, siempre que a criterio del juez se pueda poner en peligro la persona o bienes del menor;
 
-II.- En los casos de divorcio, teniendo en cuenta lo que dispone el Artículo 283;
+II.- Cuando el que la ejerza es condenado por un delito intencional en contra de la persona o bienes del menor. En este supuesto, el juez, en vista de las circunstancias, podrá decretar la pérdida de la patria potestad sobre los demás menores respecto de quienes la ejerzan;
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 1997)</small>
+III.- Cuando por las costumbres depravadas, malos tratos, explotación o abandono de los deberes de quien la ejerza, pudiera comprometerse la salud, la seguridad, la dignidad, la integridad o la moralidad de los menores, aún cuando estos hechos no sean penalmente punibles;
 
-III.- Cuando por las costumbres depravadas de los padres, abandono de sus deberes o maltrato grave y reiterado, pudiera comprometerse la salud, la seguridad o la moralidad de los hijos, aun cuando estos hechos no cayeran bajo la sanción de la ley penal;
+IV.- Cuando quien la ejerza deje de asistir y convivir injustificadamente con el menor por más de siete días naturales, cuando éste se encuentre acogido en una Institución pública de Asistencia Social;
 
-IV.- Por la Exposición que el padre o la madre hiciere de sus hijos, o porque los dejen abandonados en los casos siguientes:
+V.- Por abandono del menor durante un plazo de más de ciento ochenta días naturales, aún cuando no se comprometa su salud, seguridad o moralidad;
 
-A.- Siendo recién nacido y menor de un año, por más de treinta días;
+VI.- Cuando quien la ejerza deje expósito al menor por un plazo de más de treinta días naturales;
 
-B).- Cuando sea mayor de un año, por un período de dos meses; y
-
-V.- Por abandono ocasional o negligencia que ponga en peligro su integridad física o su salud, cualquiera que sea la edad del menor, si esta circunstancia se prolonga hasta por tres meses.
+También se perderá la patria potestad cuando quien la ejerza sea condenado expresamente a la pérdida de ese derecho.
 
 > <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
@@ -3315,13 +3319,9 @@ II.- Por la ausencia declarada en forma;
 
 III.- Por sentencia condenatoria que imponga como pena esta suspensión; y
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 1997)</small>
+IV.- (DEROGADA, P.O. 10 DE FEBRERO DE 1999)
 
-IV.- Por maltrato inferido a los menores sujetos a la misma, aun cuando no constituya delito.
-
-> <small>(ADICIONADO, P.O. 22 DE ENERO DE 1997)</small>
-
-Para el caso de la última fracción el ejercicio de la acción corresponderá indistintamente a quienes señalan en el artículo 414 de este código y solo a falta o negativa de estos, por el Ministerio Público. El Juez en tal caso, al admitir la demanda decretará la inmediata atención al menor maltratado, ordenando las medidas conducentes y previo el procedimiento correspondiente decretará la suspensión de la patria potestad y podrá ordenar que los ascendientes sean sometidos en las instituciones oficiales o privadas a tratamiento psicológico o psiquiátrico por el término necesario a fin de lograr su recuperación emocional, que les acredite para ser restablecidos en el ejercicio de tal derecho.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 10 DE FEBRERO DE 1999)</small>
 
 ###### Art. 448.
 
@@ -15996,6 +15996,12 @@ Primero.- En el caso de que desaparezca el costo porcentual promedio, y en tanto
 Segundo.- Los intereses a los que se refiere el presente Decreto regirán para los contratos o actos jurídicos que se celebren a partir del inicio de su vigencia.
 
 Tercero.- El presente Decreto iniciará su vigencia el siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE FEBRERO DE 1999.
+
+###### ARTICULO PRIMERO
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 ###### ARTICULO TERCERO.
 
