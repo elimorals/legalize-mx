@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "1999-03-17"
+last_updated: "1999-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 1999.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -563,13 +563,17 @@ Los contribuyentes que realicen el pago total anual del Impuesto Predial Urbano,
 
 El pago anticipado del impuesto no impide el cobro de diferencias que deba hacer la Tesorería Municipal por cambios de la base gravable o alteración de las cuotas del impuesto.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1999)</small>
 
-###### ARTICULO 42.
+###### Artículo 42.
 
-Los jubilados o pensionados, o sus cónyuges, pagarán una cuota fija de tres salarios mínimos, cuando el inmueble que habiten y sea de su propiedad, tenga un valor de hasta diez mil salarios mínimos general vigente.
+Los jubilados, pensionados o discapacitados, o sus cónyuges, pagarán una cuota fija anual de tres salarios mínimos, cuando el inmueble que habiten sea de su propiedad y tenga un valor de hasta diez mil salarios mínimos general vigente.
 
-Tratándose de casa habitación propiedad de pensionados o jubilados, o de sus cónyuges, siempre y cuando la habiten, el Impuesto Predial se pagará con un descuento del 80% del monto total del impuesto determinado, aplicando la tasa que señala la tarifa contenida en la fracción I del artículo 35 de la presente Ley, previa comprobación de su calidad de jubilado, pensionado o cónyuge a satisfacción plena de la Tesorería del Municipio en que se encuentre ubicada. Los Ayuntamientos deberán informar al Instituto Catastral del Estado de Sinaloa, sobre los predios que les sea otorgado este beneficio.
+Cuando el valor del bien inmueble señalado sea superior a los diez mil salarios mínimos general vigente, el impuesto predial se pagará con un descuento del 80% del monto total del impuesto determinado, aplicando la tasa que corresponda de la tarifa contenida en la fracción I del artículo 35 de la presente Ley.
+
+En ambos casos, se deberá acreditar la calidad de jubilado, pensionado, discapacitado o cónyuge a satisfacción de la Tesorería del Municipio donde se ubique la propiedad. Los Ayuntamientos deberán informar al Instituto Catastral del Estado de Sinaloa, sobre los predios que les sea otorgado este beneficio.
+
+Para los efectos de este artículo, tendrán la calidad de discapacitados, aquellos cuya situación se encuentre dentro del supuesto del artículo 2 fracción I de la Ley de protección e Integración Social de Personas con Discapacidad y Senescentes para el Estado de Sinaloa, que además, tengan a su cargo una familia y cuyo ingreso diario no sea superior a los tres salarios mínimos.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -577,7 +581,9 @@ Tratándose de casa habitación propiedad de pensionados o jubilados, o de sus c
 
 A los propietarios de fincas destinadas a casa habitación, siempre y cuando la habiten en forma permanente, previa comprobación de manera fehaciente ante la Tesorería del Municipio que corresponda, así como a los clubes deportivos se les hará un descuento del 50% del monto total del impuesto a pagar.
 
-El descuento a que se refiere este Artículo no será aplicable en ningún caso, a las casas habitación sujetas a cuota fija señalada en la tarifa contenida en la Fracción I del Artículo 35 de la presente Ley, ni a jubilados, pensionados o sus cónyuges que resulten beneficiados con el descuento señalado en el artículo anterior.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1999)</small>
+
+El descuento a que se refiere este Artículo no será aplicable en ningún caso a las casas habitación sujetas a cuota fija señalada en la tarifa contenida en la fracción I del artículo 35 de la presente Ley, ni a jubilados, pensionados, discapacitados o sus cónyuges que resulten beneficiados con el descuento señalado en el artículo anterior.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -3166,3 +3172,9 @@ Durante el año de 1999, en el municipio de Mazatlán, la base para determinar e
 ###### ARTICULO QUINTO.
 
 En aquellas poblaciones, diferentes a la cabecera municipal, que durante el año de 1999 hayan sido objeto de determinación específica de valor catastral, conforme al presente Decreto, el importe del impuesto predial se obtendrá de acuerdo con lo dispuesto en la tarifa contenida en el artículo 35 de la Ley de Hacienda Municipal del Estado de Sinaloa, con la prescripción de que deberá tomarse como base para su pago el 50% del monto que resulte de su valor catastral para el año de 1999.
+
+P.O. 16 DE ABRIL DE 1999.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor tres días después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
