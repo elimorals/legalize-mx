@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-presupuesto-de-egresos-del-estado-de-9980"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1966-03-19"
-last_updated: "1990-01-12"
+last_updated: "1992-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL PRESUPUESTO DE EGRESOS DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 02 DE NOVIEMBRE DE 1992.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", del sábado 19 de marzo de 1966.
 
@@ -61,11 +61,11 @@ III. Según la finalidad del gasto.
 
 Elaboración del Proyecto del Presupuesto de Egresos del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 3o.
 
-El Proyecto de Presupuesto de Egresos del Estado que formule anualmente el Ejecutivo, será elaborado por conducto de la Secretaría de Planeación y Desarrollo, quien para el efecto, tendrá las atribuciones y desempeñará las funciones siguientes:
+El Proyecto de Presupuesto de Egresos del Estado que formule anualmente el Ejecutivo, será elaborado por conducto de la Secretaría de Planeación y Desarrollo quien para el efecto, tendrá las atribuciones y desempeñará las funciones siguientes:
 
 I. Formular y expedir el instructivo para la formación del proyecto del Presupuesto de Egresos.
 
@@ -77,7 +77,19 @@ IV. Solicitar cuando lo considere necesario, la información adicional que requi
 
 V. Formular los anteproyectos de presupuesto corrospondientes (sic) a aquellas dependencias que no los hubiesen presentado en el plazo previsto en la presente Ley.
 
-VI. Fijar las sumas definitivas que habrán de incluirse en el proyecto del Presupuesto de Egresos para cada una de las dependencias gubernamentales de acuerdo con las instrucciones del Gobernador del Estado, procurando que el total de estas sumas se encuentre acorde con la estimación de los ingresos que se haga para el ejercicio del presupuesto proyectado.
+> <small>(REFORMADA, P.O. 02 DE NOVIEMBRE DE 1992)</small>
+
+VI. Fijar las sumas definitivas que habrán de incluirse en el proyecto de Presupuesto de Egresos para cada una de las Dependencias Gubernamentales, de acuerdo con las instrucciones del Gobernador del Estado las cuales en materia de Promoción, Fomento, Preservación y Enriquecimiento de la Cultura, las Artes, la Investigación y el Desarrollo Científico y Tecnológico, nunca será menor a tres puntos porcentuales, del Programa Anual de Operación del Gobierno, procurando que el total de estas sumas se encuentre acorde con la estimación de los ingresos que se hagan para el ejercicio del presupuesto proyectado.
+
+> <small>(ADICIONADA, P.O. 02 DE NOVIEMBRE DE 1992)</small>
+
+VII. Establecer en el caso específico de la Universidad Autónoma de Sinaloa, la participación del Gobierno del Estado en el subsidio que anualmente otorga el Gobierno Federal a esta institución; participación que podrá ser hasta por la cantidad equivalente a las doce y medio puntos porcentuales del monto total asignado.
+
+> <small>(ADICIONADO, P.O. 02 DE NOVIEMBRE DE 1992)</small>
+
+ARTICULO 3 BIS.- Para la captación y distribución, de los tres puntos porcentuales del Programa Anual de Operación del Gobierno, tendiente a Promover, Fomentar, Preservar y Enriquecer la Cultura, las Artes, la Investigación y el Desarrollo Científico y Tecnológico, expresados en la Fracción Sexta del Artículo anterior, se crea el Organismo Intersecretarial denominado "Instituto Sinaloense de la Cultura, la Ciencia y la Investigación Científica", el cual estará integrado por: Un Presidente que será el Gobernador Constitucional del Estado; el Secretario de Educación Pública y Cultura, quien fungirá como Secretario del Instituto; y los siguientes Vocales; Secretario de Planeación y Desarrollo; Secretario de Hacienda Pública y Tesorería; y Secretario de Administración.
+
+Este Instituto, para la determinación del monto, asignación y determinación de prioridades de los recursos financieros que habrán de otorgarse a los distintos organismos o dependencias que realizan funciones de Promoción, Fomento, Preservación y Enriquecimiento de la Cultura, las Artes, la Investigación y el Desarrollo Científico y Tecnológico, tendrá como base los programas elaborados para dichos fines, así como promover el Desarrollo Regional del Estado.
 
 ###### ARTICULO 4o.
 
@@ -298,3 +310,13 @@ Se derogan todas las disposiciones que se opongan con las presentes reformas.
 ###### ARTICULO TERCERO.
 
 Se concede un plazo de treinta días al Ejecutivo Local para que en cumplimiento a las disposiciones que en el presente decreto se contienen, se realicen las adecuaciones al Reglamento Orgánico de la Administración Pública Estatal y demás disposiciones reglamentarias para el estricto cumplimiento de las obligaciones que esta impone.
+
+P.O. 02 DE NOVIEMBRE DE 1992.
+
+###### ARTICULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+Conforme a lo dispuesto en los Artículos 9º y 10º de la Ley Orgánica del Presupuesto de Egresos del Estado de Sinaloa, en su oportunidad y previo a la elaboración a los cálculos correspondientes, la Secretaría de Planeación y Desarrollo presentará ante el Congreso, las iniciativas de reformas inherentes al debido cumplimiento del presente Decreto.
