@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-poder-judicial-morelos-6661"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-12"
-last_updated: "1995-04-12"
+last_updated: "2001-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DEL PODER JUDICIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 12 de abril de 1995.
 
@@ -537,7 +537,7 @@ XIII.- Las demás que determinen las leyes y otros ordenamientos legales.
 
 ###### ARTICULO 52.
 
-Los Secretarios de la Sección de Amparos tendrán a su cargo los expedientes y valores relacionados con el trámite de los juicios de amparo en los que sea parte el Pleno de (sic)Tribunal, su Presidente, las Salas, o el Presidente de éstas, consultando al Magistrado que haya sido ponente y dando cuenta al Presidente del Tribunal o de la Sala que corresponda.
+Los Secretarios de la Sección de Amparos tendrán a su cargo los expedientes y valores relacionados con el trámite de los juicios de amparo en los que sea parte el Pleno de (sic) Tribunal, su Presidente, las Salas, o el Presidente de éstas, consultando al Magistrado que haya sido ponente y dando cuenta al Presidente del Tribunal o de la Sala que corresponda.
 
 ###### ARTICULO 53.
 
@@ -1167,9 +1167,17 @@ X.- Nombrar, con carácter provisional y en casos urgentes, a los funcionarios y
 
 XI.- Formular y someter a la consideración del Consejo de la Judicatura Estatal el presupuesto anual del Poder Judicial;
 
-XII.- Remitir al Poder Legislativo, por conducto del Jefe del Ejecutivo, el proyecto de presupuesto del Poder Judicial, para los efectos legales consiguientes; y
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2001)</small>
 
-XIII.- Los demás que le confieran las leyes.
+XII.- Remitir al Poder Legislativo, por conducto del Jefe del Ejecutivo, el proyecto de presupuesto del Poder Judicial, para los efectos legales consiguientes;
+
+> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2001)</small>
+
+XIII.- Presentar ante el Congreso del Estado un informe trimestral de las Cuentas Públicas, que deberá contener la información del gasto programado y ejercido por cada una de las partidas autorizadas; y
+
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2001)</small>
+
+XIV.- Las demás que le confieran las leyes.
 
 ### CAPITULO PRIMERO. DEL ARCHIVO JUDICIAL GENERAL
 
@@ -1878,3 +1886,11 @@ SECRETARIO GENERAL DE GOBIERNO
 GUILLERMO MALO VELASCO.
 
 RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE MAYO DE 2001.
+
+PRIMERO.- Remítase el presente Decreto, al Titular del Poder Ejecutivo del Estado, para los efectos señalados en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
