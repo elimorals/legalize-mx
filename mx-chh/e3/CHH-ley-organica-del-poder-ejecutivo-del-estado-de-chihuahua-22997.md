@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "1992-01-08"
+last_updated: "1993-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 1993.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -179,9 +179,7 @@ Para el estudio, planeación y despacho de los negocios del orden administrativo
 
 Secretaría de Gobierno
 
-Dirección General de Finanzas
-
-Dirección General de Administración
+Dirección General de Finanzas y Administración
 
 Dirección General de Fomento Económico
 
@@ -195,7 +193,7 @@ Dirección General de Desarrollo Rural
 
 Procuraduría General de Justicia
 
-Adscritas directamente al Ejecutivo existirán las siguientes unidades de apoyo y asesoría:
+Adscritas directamente al Ejecutivo, existirán las siguientes unidades de apoyo y asesoría:
 
 Coordinación de Planeación y Evaluación
 
@@ -205,7 +203,7 @@ Coordinación de Comunicación Social
 
 ### CAPITULO II. DE LA COMPETENCIA DE LA SECRETARIA DE GOBIERNO, PROCURADURIA GENERAL DE JUSTICIA Y DIRECCIONES GENERALES
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 25.
 
@@ -249,75 +247,67 @@ XVIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en rela
 
 XIX.- Las demás que le atribuyen expresamente las leyes y reglamentos.
 
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 26.
 
-A la Dirección General de Finanzas corresponde al (sic) despacho de los siguientes asuntos:
+A la Dirección General de Finanzas y Administración corresponde el despacho de los siguientes asuntos:
 
-I.- Atender todo lo concerniente a la organización fiscal y en general, ejercer las atribuciones que le confiere la Constitución Política y el Código Fiscal del Estado;
+I.- Atender todo lo concerniente a la Organización Fiscal y en general, ejercer las atribuciones que le confiere la Constitución Política y el Código Fiscal del Estado;
 
 II.- Elaborar y presentar al Ejecutivo el proyecto anual de la Ley de Ingresos y el Presupuesto de Egresos;
 
-III.- Promover, organizar y dirigir estudios con el fin de incrementar los ingresos y mejorar los sistemas de control fiscal;
+III.- Ejercer las atribuciones derivadas de los convenios fiscales que celebre el Gobierno del Estado con el Gobierno Federal o con los Municipios de la Entidad;
 
-IV.- Ejercer las atribuciones derivadas de los convenios fiscales que celebre el Gobierno del Estado con el Gobierno Federal o con los Municipios de la Entidad;
+IV.- Recaudar los fondos provenientes de la ejecución de la Ley de Ingresos, así como los que por otros conceptos deba percibir el Estado, ejercitando en su caso la facultad económico-coactiva;
 
-V.- Recaudar los fondos provenientes de la ejecución de la Ley de Ingresos, así como los que por otros conceptos deba percibir el Estado, ejercitando en su caso la facultad económico coactiva;
+V.- Custodiar y concentrar los fondos y valores financieros del Gobierno del Estado;
 
-VI.- Constituir y actualizar los padrones de contribuciones, controlar el cumplimiento de sus obligaciones y ejercer las acciones de fiscalización tendiente a evitar la evasión y elusión por parte de los mismos
+VI.-. Dirigir la negociación y llevar el registro y control de la deuda Pública del Estado;
 
-VII.- Custodiar y concentrar los fondos y valores financieros del Gobierno del Estado;
+VII.- Representar el interés del Estado en controversias fiscales y participar en cualquier acto, contrato o convenio que obligue económicamente al Gobierno del Estado;
 
-VIII.- Representar en juicio a la Hacienda Pública del Estado, por delegación del Ejecutivo;
+VIII.- Autorizar y controlar el ejercicio del Presupuesto de Egresos;
 
-IX.- Cuidar el interés del estado en las controversias fiscales que se susciten y participar en cualquier acto, contrato o convenio que obligue económicamente al Gobierno del Estado;
+IX.- Efectuar las erogaciones conforme al Presupuesto de Egresos;
 
-X.- Autorizar y controlar el ejercicio del Presupuesto de Egresos;
+X.- Llevar la contabilidad de la Hacienda Pública Estatal;
 
-XI.- Efectuar las erogaciones conforme al Presupuesto de Egresos;
+XI.- Formular mensualmente la Cuenta General de Ingresos y Egresos;
 
-XII.- Llevar la contabilidad de la Hacienda Pública Estatal;
+XII.- Establecer medidas de control respecto a los ingresos y egresos de las entidades paraestatales, así como de los Patronatos que manejen fondos oficiales;
 
-XIII.- Formular mensualmente la Cuenta General de Ingresos y Egresos;
+XIII.- Proporcionar asesoría en materia de interpretación y aplicación de las leyes tributarias del Estado y realizar una labor permanente de difusión y orientación fiscal;
 
-XIV.-. Dirigir la negociación y llevar el registro y control de la deuda pública del Estado;
+XIV.- Dirigir y vigilar el cumplimiento de las Leyes y sus Reglamentos en relación a las funciones de ingresos, egresos y contabilidad, así como vigilar la organización y funcionamiento de los Departamentos que ejerzan las atribuciones anteriores;
 
-XV.- Establecer medidas de control respecto a los ingresos y egresos de las entidades paraestatales, así como de los patronatos que manejen fondos oficiales;
+XV.- Vigilar el cumplimiento de las disposiciones legales y reglamentarias que rigen las relaciones entre el Estado y los Servidores Públicos;
 
-XVI.- Proporcionar asesoría en materia de interpretación y aplicación de las leyes tributarias del Estado y realizar una labor permanente de difusión y orientación fiscal;
+XVI.- Reclutar y seleccionar, en apoyo a las Dependencias, al personal de base del Poder Ejecutivo; tramitando todo lo relativo a nombramientos, promociones, cambios de adscripción, licencias, renuncias y bajas de los servidores públicos;
 
-XVII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones de ingresos, egresos y contabilidad, así como vigilar la organización y funcionamiento de los departamentos que ejerzan las atribuciones anteriores; y
+XVII.- Mantener actualizado el escalafón y el tabulador de los Trabajadores al Servicio del Estado y los relativos al Personal al Servicio de la Educación a cargo del Estado, así como programar los estímulos y recompensas;
 
-XVIII.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+XVIII.- Capacitar al personal al servicio y llevar los registros del mismo, controlar su asistencia y vacaciones;
+
+XIX.- Otorgar becas y promover actividades socioculturales y deportivas para los Servidores Públicos;
+
+XX.- Formular el inventario y llevar el control de los bienes muebles e inmuebles del Estado;
+
+XXI.- Celebrar los contratos que tengan por objeto proporcionar locales a las oficinas gubernamentales;
+
+XXII.- Cuidar de la conservación y el mantenimiento de los bienes muebles propiedad del Estado y celebrar acuerdos o convenios con las demás dependencias y entidades de la Administración Pública Estatal y Paraestatal, para encomendarles esta función;
+
+XXIII.- Planear y diseñar integralmente las modificaciones que deban hacerse a la Administración Pública Estatal en lo relativo al establecimiento de las estructuras de organización y de los sistemas de organización y operación mas adecuadas para el logro de los objetivos del Gobierno;
+
+XXIV.- Asesorar a las Dependencias del Poder Ejecutivo de la Administración Centralizada como de la Paraestatal, en materia de Organización y Sistemas Administrativos;
+
+XXV.- Dirigir y vigilar el cumplimiento de las Leyes y sus Reglamentos en relación a las funciones de Recursos Humanos, Recursos Materiales y Servicios y Organización e Informática, así como vigilar la organización y funcionamiento de los departamentos que ejerzan las atribuciones anteriores;
+
+XXVI.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
 ###### ARTICULO 27.
 
-A la Dirección General de Administración corresponde el despacho de los siguientes asuntos:
-
-I.- Vigilar el cumplimiento de las disposiciones legales y reglamentarias que rigen las relaciones entre el estado y los servidores públicos;
-
-II.- Reclutar y seleccionar, en apoyo de las dependencias, al personal de base del Poder Ejecutivo;
-
-III.- Tramitar todo lo relativo a nombramientos, promociones, cambios de adscripción, licencias, renuncias y bajas de los servidores públicos;
-
-IV.- Mantener actualizado el escalafón y el tabulador de los trabajadores al servicio del estado, y los relativos al personal al servicio de la Educación a cargo del Estado, así como programar los estímulos y recompensas;
-
-V.- Desarrollar y capacitar al personal y llevar los registro del mismo; controlar su asistencia y vacaciones; otorgar becas y organizar y promover actividades socioculturales y deportivas para los servidores públicos;
-
-VI.- Adquirir y distribuir los materiales, bienes muebles e inmuebles, equipo y contratar servicios para los fines del Gobierno;
-
-VII.- Formular el inventario y llevar el control de los bienes muebles e inmuebles del Estado;
-
-VIII.- Celebrar los contratos que tengan por objeto proporcionar locales a las oficinas gubernamentales;
-
-IX.- Cuidar de la conservación y el mantenimiento de los bienes muebles e inmuebles propiedad del Estado;
-
-X.- Planear y diseñar integralmente las modificaciones que deban hacerse a la administración pública estatal, en lo relativo al establecimiento de las estructuras de organización y de los sistemas de información y operación más adecuados para el logro de los objetivos del Gobierno;
-
-XI.- Asesorar a las dependencias del Poder Ejecutivo, tanto de la administración centralizada como de la paraestatal, en materia de organización y sistemas administrativos;
-
-XII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones de recursos humanos, recursos materiales y servicios, y organización e informática, así como vigilar la organización y el funcionamiento de los departamentos que ejerzan las atribuciones anteriores, y
-
-XIII.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+(DEROGADO, P.O. 21 DE JULIO DE 1993)
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1987)</small>
 
@@ -403,7 +393,11 @@ IX.- Intervenir en la designación de representantes del Ejecutivo en las depend
 
 X.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones de obras públicas y comunicaciones y transportes, así como vigilar la organización y el funcionamiento de los departamentos que ejerzan las atribuciones anteriores; y
 
-XI.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
+> <small>(ADICIONADA, P.O. 21 DE JULIO DE 1993)</small>
+
+XI.- Cuidar de la conservación y mantenimiento de los bienes inmuebles propiedad del Estado;
+
+XII.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ENERO DE 1992)</small>
 
@@ -698,3 +692,25 @@ P.O. 8 DE ENERO DE 1992.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el 24 de enero de 1992.
+
+P.O. 21 DE JULIO DE 1993.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto, se faculta al Ejecutivo para reorganizar la estructura de la Dirección General de Finanzas y redistribuir las partidas del Presupuesto de Egresos que fueron asignadas a la Dirección General de Administración, sin excederse del monto total autorizado para el presente ejercicio.
+
+###### ARTICULO TERCERO.
+
+Se transfieren a la Dirección General de Finanzas los bienes muebles, documentos y en general, archivos que tenía destinados al servicio y manejo la Dirección General de Administración.
+
+###### ARTICULO CUARTO.
+
+El trámite de los asuntos iniciados ante la extinta Dirección General de Administración será continuado por la Dirección General de Finanzas y Administración.
+
+###### ARTICULO QUINTO.
+
+Las funciones establecidas a cargo de la Dirección General de Administración en la Ley que se modifica mediante este Decreto o en cualquier otra Ley o Reglamento, así como en convenios o acuerdos celebrados con Dependencias o Entidades de la Administración Centralizada o Paraestatal o con Entidades de la Administración Pública Federal, serán asumidas por la Dirección General de Finanzas y Administración a partir de la entrada en vigor del presente Decreto. Lo mismo se observará respecto a la intervención que otorga a la Dirección General de Administración las condiciones generales de trabajo que regulan las relaciones laborales entre el Gobierno del Estado de Chihuahua y sus Trabajadores, a través del Sindicato de Trabajadores al Servicio del Gobierno del Estado.
