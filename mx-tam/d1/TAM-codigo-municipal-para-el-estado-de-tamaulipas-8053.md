@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2004-09-14"
+last_updated: "2004-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -271,9 +271,11 @@ V.- Tener un modo honesto de vivir, saber leer y escribir, y no estar en los cas
 
 VI.- No ser servidor público de la Federación o del Estado, con excepción de los cargos de elección popular, o del Municipio; no tener participación directa o indirecta en servicios, contratos o suministros por cuenta del Ayuntamiento; o el mando de la fuerza pública en el Municipio en que se haga la elección, a no ser que se separe de su cargo o participación por lo menos noventa días antes de dicha elección.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 27.
 
-Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes si podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
+Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos electos popularmente por elección directa, no podrán ser reelectos para un período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electas para el periodo inmediato. Todos los servidores públicos antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el periodo inmediato con el carácter de suplentes, pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 1995)</small>
 
@@ -379,9 +381,11 @@ Los Consejos Municipales estarán integrados con el mismo número de miembros y 
 
 ### CAPITULO V. DEL FUNCIONAMIENTO DE LOS AYUNTAMIENTOS
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 42.
 
-Para resolver los asuntos de su competencia, los Ayuntamientos sesionarán ordinariamente cuando menos una vez a la semana y cuantas veces sea necesario en problemas de urgente solución o a petición de la tercera parte de sus miembros. Asimismo, pueden declararse en sesión permanente cuando la importancia del asunto lo requiera.
+Para resolver los asuntos de su competencia, los Ayuntamientos sesionarán ordinariamente cuando menos una vez al mes y cuantas veces sea necesario para tratar asuntos de urgente solución o a petición de la tercera parte de sus miembros. Asimismo, pueden declararse en sesión permanente cuando la importancia del asunto lo requiera.
 
 ###### ARTICULO 43.
 
@@ -397,13 +401,19 @@ Los Ayuntamientos podrán revocar sus acuerdos por el voto de la mayoría de sus
 
 Los Ayuntamientos llevarán un libro de actas en el que se asentarán los asuntos tratados y los acuerdos tomados. Cuando en sesión se aprueben bandos, reglamentos, circulares y disposiciones administrativas de observancia general éstos constarán íntegramente en el libro de actas, debiendo firmar los miembros que hubieren estado presentes.
 
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+
+Cuando los Ayuntamientos cuenten con la infraestructura tecnológica necesaria, podrán crear su página electrónica correspondiente en el sistema de comunicación denominado internet e incluir en ella la información que permita la ley y que sea de interés ciudadano.
+
 ###### ARTICULO 45.
 
 El Gobernador del Estado podrá asistir a las sesiones de los Ayuntamientos y tomar parte en las deliberaciones, pero sin tener derecho a voto.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 46.
 
-A las sesiones de los Ayuntamientos deberán comparecer los funcionarios de la Administración Municipal cuando se traten asuntos de su competencia, o fueren requeridos para ello, pero sólo tendrán voz informativa.
+A las Sesiones de los Ayuntamientos deberán comparecer los servidores públicos de la Administración Municipal cuando se traten asuntos de su competencia, o fueren requeridos para ello, pero sólo tendrán voz informativa.
 
 ###### ARTICULO 47.
 
@@ -441,9 +451,9 @@ VII.- Contratar o concesionar obras y servicios públicos municipales en los té
 
 VIII.- Solicitar al Ejecutivo, por causa de utilidad pública, la expropiación de bienes, la ocupación temporal o la limitación de dominio.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2004)</small>
 
-IX.- Nombrar y remover al Secretario del Ayuntamiento, al Tesorero Municipal, al Contralor Municipal, al Director de Obras y Servicios Públicos Municipales y demás funcionarios de la administración pública, a propuesta del Presidente Municipal.
+IX.- Nombrar y remover al Secretario del Ayuntamiento, al Tesorero Municipal, al Contralor Municipal, al Secretario de Desarrollo Urbano y Ecología o, en su caso, al Director de Obras y Servicios Públicos Municipales, al Secretario o Director de Seguridad Pública, según corresponda, y demás servidores públicos de la administración municipal, a propuesta del Presidente Municipal.
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -623,13 +633,17 @@ V.- Dar publicidad a las leyes, reglamentos y demás disposiciones de observanci
 
 VI.- Celebrar a nombre del Ayuntamiento todos los actos y contratos necesarios para el despacho de los negocios administrativos y la atención de los servicios públicos municipales. Asimismo, los Síndicos comparecerán en el otorgamiento de contratos o de cualquier otra obligación patrimonial.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2004)</small>
 
-VII.- Proponer al Ayuntamiento los nombramientos del Secretario, Tesorero, Contralor, Director de Obras y Servicios Públicos y demás funcionarios de la administración municipal, así como su remoción por causa justificada.
+VII.- Proponer al Ayuntamiento los nombramientos del Secretario, Tesorero Municipal, Contralor Municipal, Secretario de Desarrollo Urbano y Ecología o, en su caso, Director de Obras y Servicios Públicos Municipales, Secretario o Director de Seguridad Pública, según corresponda, y demás servidores públicos de la administración municipal, así como su remoción por causa justificada.
 
-VIII.- Nombrar y remover a los empleados municipales de acuerdo con la Ley, dando cuenta al Ayuntamiento para su ratificación o rectificación.
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2004)</small>
 
-IX.- Conceder vacaciones y licencias a los funcionarios y empleados municipales en la forma como lo prevengan las disposiciones reglamentarias.
+VIII.- Nombrar y remover a los servidores públicos municipales de acuerdo con la ley, dando cuenta al Ayuntamiento para su ratificación o rectificación.
+
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+
+IX.- Conceder vacaciones y licencias a los servidores públicos municipales en la forma como lo prevengan las disposiciones reglamentarias.
 
 X.- Dirigir, vigilar y dictar las medidas necesarias para el buen funcionamiento de los servicios públicos municipales y la aplicación de los reglamentos y bandos municipales correspondientes.
 
@@ -649,9 +663,9 @@ XVII.- Disponer de la fuerza pública del Municipio para asegurar, cuando las ci
 
 XVIII.- Dar cuenta al Gobierno del Estado de todo acontecimiento que afecte la buena marcha del gobierno y administración municipal, y de todo suceso que perturbe el orden público y la paz social.
 
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2004)</small>
 
-XIX.- Rendir a la población un informe anual detallado del estado que guarda la Administración Pública Municipal dentro de las dos primeras semanas del mes de diciembre, excepción hecha del tercer año del ejercicio constitucional en que habrá de realizarse en la última semana del mes de diciembre.
+XIX.- Rendir a la población un informe anual detallado del estado que guarda la Administración Pública Municipal en el mes de diciembre de cada año. Toda información posterior a la fecha del informe anual será referida en el acta de Entrega-Recepción correspondiente.
 
 XX.- Solicitar autorización del Ayuntamiento para ausentarse de la cabecera del Municipio por períodos mayores de cinco días.
 
@@ -770,6 +784,10 @@ Para el despacho de los asuntos de carácter administrativo y atención de los s
 ###### ARTICULO 66.
 
 En cada Ayuntamiento, para el despacho de los asuntos de carácter administrativo y para auxiliar en sus funciones al Presidente Municipal, existirá una Secretaría, la cual estará a cargo de una persona denominada Secretario, que será nombrado por el Ayuntamiento, conforme a la terna que proponga el Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+
+Las ausencias temporales del Secretario del Ayuntamiento, serán cubiertas por quien tenga el cargo de Asesor Jurídico o su equivalente en la Administración pública municipal de que se trate.
 
 ###### ARTICULO 67.
 
@@ -895,9 +913,11 @@ IX.- Informar al Ayuntamiento de sus programas de trabajo anuales, y trimestralm
 
 X.- Las demás que con relación al ramo le encomiende el Ayuntamiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 73.
 
-El Ayuntamiento, a propuesta del Presidente Municipal, deberá nombrar un Director de Obras y Servicios Públicos Municipales, quien tendrá las siguientes facultades y obligaciones:
+El Ayuntamiento, a propuesta del Presidente Municipal, deberá nombrar un Secretario de Desarrollo Urbano y Ecología o, en su caso, un Director de Obras y Servicios Públicos Municipales, quien tendrá las siguientes facultades y obligaciones:
 
 I.- Formular, proponer y ejecutar los programas de obras y servicios públicos que correspondan al Municipio.
 
@@ -917,7 +937,9 @@ VIII.- En general, organizar la construcción de obras y la prestación de servi
 
 IX.- Las demás previstas en las leyes y reglamentos.
 
-Para ser Director de Obras y Servicios Públicos Municipales, se requiere reunir los requisitos señalados en el Artículo 67 y, en su caso, poseer título en profesión afín al cargo.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+
+Para ser Secretario de Desarrollo Urbano y Ecología o, en su caso, Director de Obras y Servicios Públicos Municipales, se requiere reunir los requisitos señalados en el artículo 67 y, en su caso, poseer título en profesión afín al cargo.
 
 > <small>(REFORMADO, P.O. 14 DE MARZO DE 2001)</small>
 
@@ -933,9 +955,11 @@ Además de lo anterior, la Policía Preventiva tendrá el carácter de auxiliar 
 
 Tratándose de infracciones a los reglamentos de policía y buen gobierno, la Policía Preventiva deberá limitarse a conducir al infractor ante el Presidente Municipal o Juez Calificador para que se le imponga la sanción administrativa correspondiente, en su caso.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 76.
 
-La organización y funcionamiento de la Policía Preventiva se regirá por lo dispuesto en la Ley de Policía Preventiva de los Municipios del Estado de Tamaulipas, pero en ningún caso se permitirá el funcionamiento del servicio secreto u organizaciones similares de Policía Preventiva Municipal.
+La organización y funcionamiento de la Policía Preventiva se regirá por lo dispuesto en la Ley de Seguridad Pública para el Estado de Tamaulipas, y en ningún caso se permitirá el funcionamiento del servicio secreto u organizaciones similares de Policía Preventiva Municipal.
 
 ### CAPITULO XIII. DE LOS ORGANISMOS DE COLABORACION
 
@@ -1021,6 +1045,8 @@ Los nombramientos expedidos conforme a las disposiciones de este Capítulo expir
 
 ### CAPITULO XIV. DE LAS RESPONSABILIDADES DE SERVIDORES PUBLICOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 81.
 
 Son organismos de colaboración:
@@ -1085,7 +1111,7 @@ La organización, dirección y funcionamiento de las Comisiones Consultivas de D
 
 ###### ARTICULO 88.
 
-Son servidores públicos de los Municipios los miembros de los Ayuntamientos, los funcionarios y empleados y, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en administración pública municipal o para-municipal, o bien maneje o aplique recursos económicos de los Municipios.
+Son servidores públicos de los Municipios los miembros de los Ayuntamientos, así como toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública municipal o paramunicipal, o bien maneje o aplique recursos económicos de los Municipios.
 
 La Ley de Responsabilidades de los Servidores Públicos vigente en el Estado será aplicable, en lo conducente, a los servidores públicos de los Municipios, conforme a las prevenciones que se señalen en los artículos siguientes.
 
@@ -1105,9 +1131,11 @@ Los Ayuntamientos recibirán las denuncias y quejas a que se refiere el artícul
 
 Los servidores públicos municipales que mediante el procedimiento establecido en el Artículo 64 de la Ley de Responsabilidades de los Servidores Públicos fueren sancionados por los Ayuntamientos podrán impugnar las resoluciones respectivas mediante el juicio de nulidad establecido en el Artículo 70 de la propia Ley.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 92.
 
-Los miembros del Ayuntamiento, Secretario, Tesorero, así como el personal de confianza y todos los servidores que manejen fondos o inversiones públicas municipales, además de los funcionarios de la administración pública paramunicipal, están obligados a declarar su situación patrimonial ante la Dirección General de la Contraloría Estatal, que está autorizada para verificar la veracidad de dichas declaraciones.
+Los miembros del Ayuntamiento, Secretario, Tesorero, así como el personal de confianza y todos los servidores que manejen fondos o inversiones públicas municipales, además de los servidores públicos de la administración pública paramunicipal, están obligados a declarar sus (sic) situación patrimonial ante la Contraloría Gubernamental, que está autorizada para verificar la veracidad de dichas declaraciones.
 
 ### CAPITULO II. DE LOS IMPUESTOS
 
@@ -1297,7 +1325,7 @@ Son objeto de este impuesto: Los predios urbanos, suburbanos y rústicos localiz
 
 ###### ARTICULO 105.
 
-- Para los efectos de este impuesto se considera:
+Para los efectos de este impuesto se considera:
 
 I.- Predios:
 
@@ -2031,6 +2059,8 @@ Las resoluciones del Ayuntamiento en materia de cancelación o caducidad de conc
 
 ### CAPITULO II. DE LAS RELACIONES INDIVIDUALES DE TRABAJO
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 182.
 
 Los Ayuntamientos, para el cumplimiento de sus fines y aprovechamiento de sus recursos, formularán el Plan Municipal de Desarrollo considerando los Sistemas Nacional y Estatal de Planeación Democrática y atendiendo a criterios de planeación estratégica, que permitan una visión de largo plazo y de participación democrática que considere la incorporación de los grupos sociales, a través de los mecanismos de consulta previstos en la Ley Estatal de Planeación.
@@ -2289,7 +2319,7 @@ En todo lo no previsto en el presente título que regula las relaciones laborale
 
 ###### ARTICULO 206.
 
-Los trabajadores al servicio del Ayuntamiento prestarán sus servicios mediante nombramiento expedido por acuerdo del Ayuntamiento, a través del funcionario u órgano facultado para extenderlo. Los trabajadores temporales por obra o por tiempo determinado, o aquellos que presten su servicio mediante contrato civil, o que estén sujetos al pago de honorarios, quedan exceptuados del régimen establecido en este título.
+Los trabajadores al servicio del Ayuntamiento prestarán sus servicios mediante nombramiento expedido por acuerdo del Ayuntamiento, a través del servidor público u órgano facultado para extenderlo. Los trabajadores temporales por obra o por tiempo determinado, o aquellos que presten sus servicios mediante contrato civil, o que estén sujetos al pago de honorarios, quedan exceptuados del régimen establecido en este Título.
 
 ###### ARTICULO 207.
 
@@ -2327,9 +2357,11 @@ VI.- El lugar o lugares en que deba prestar sus servicios el trabajador.
 
 El nombramiento aceptado obliga a cumplir con los deberes inherentes al mismo y a las consecuencias que sean conformes a la Ley, al uso y a la buena fe.
 
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 211.
 
-En ningún caso el cambio de funcionarios del Ayuntamiento podrá afectar los derechos de los trabajadores de base.
+En ningún caso la sustitución o el relevo de los servidores públicos del Ayuntamiento deberá afectar los derechos de los trabajadores de base.
 
 ### CAPITULO VII. LA SUSPENSION DE LOS EFECTOS DEL NOMBRAMIENTO DEL TRABAJADOR
 
@@ -2429,7 +2461,9 @@ e).- El Ayuntamiento proporcionará a la Comisión Mixta de Escalafón los medio
 
 f).- La vacante se otorgará al trabajador que, habiendo sido aprobado de acuerdo con el reglamento respectivo, obtenga la mejor calificación en el examen que para el efecto se realice.
 
-g).- Cuando se trate de vacantes temporales que no excedan de seis meses, no se moverá el escalafón y el Presidente Municipal nombrará y removerá libremente al empleado que deba cubrirla.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+
+g).- Cuando se trate de vacantes temporales que no excedan de seis meses no se moverá el escalafón y el Presidente Municipal nombrará y removerá libremente al servidor público que deba cubrirla.
 
 h).- Las plazas de última categoría disponibles una vez corridos los escalafones respectivos con motivo de vacantes que ocurrieren, serán cubiertas por acuerdo del Presidente Municipal.
 
@@ -3404,3 +3438,9 @@ P.O. 14 DE SEPTIEMBRE DE 2004.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- La oficina de la Crónica Municipal, sus titulares y el personal administrativo a su cargo, se adscribirán una vez efectuada la planeación administrativa y el presupuesto lo permita.
+
+P.O. 30 DE NOVIEMBRE DE 2004.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
