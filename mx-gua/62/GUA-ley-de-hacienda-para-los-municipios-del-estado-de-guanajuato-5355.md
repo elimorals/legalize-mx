@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-los-municipios-del-estado-de-guanajuato-53
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "1996-12-24"
+last_updated: "1997-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1997.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -1513,13 +1513,17 @@ II.- Por avalúo practicado por peritos autorizados por la Tesorería Municipal;
 
 III.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 1990)
 
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+IV.- Por avalúo realizado por peritos autorizados por la Tesorería Municipal, usando medios o técnicas fotogramétricas.
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 1993)</small>
 
 Cuando se trate de vivienda de interés social o popular, en los términos de la fracción II del artículo 3o. de la Ley de Vivienda para el Estado de Guanajuato, la base para el pago de éste impuesto será el setenta por ciento del valor que resulte de la aplicación de la tabla de valores que establezca anualmente la Ley de Ingresos para los Municipios del Estado de Guanajuato, siempre y cuando se trate de la única propiedad o posesión del contribuyente.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-Tratándose de los inmuebles en los que se presten exclusivamente el servicio de educación de tipo medio-superior y superior, a que se refiere el artículo 164 inciso a) de esta Ley, la base será el 15% del valor que resulte de la aplicación de la tabla de valores que establezca anualmente la Ley de Ingresos para los Municipios del Estado de Guanajuato.
+Tratándose de los inmuebles en los que se presten el servicio de educación de tipo medio-superior y/o superior, a que se refiere el artículo 164 a) de esta Ley, la base será el 25% del valor que resulte de la aplicación de la tabla de valores que establezca anualmente la Ley de Ingresos para los Municipios del Estado de Guanajuato.
 
 ###### ARTICULO 163.
 
@@ -1537,9 +1541,9 @@ Si como resultado de la aplicación de las tasas que señala la Ley de Ingresos 
 
 Asimismo, tributarán bajo la cuota mínima los bienes inmuebles que se encuentren en los siguientes supuestos:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-A).- Los destinados al servicio de educación cuya constitución y funcionamiento se ajusten a las leyes de la materia, no quedan comprendidos en este supuesto, los inmuebles en los que se preste exclusivamente, el servicio de educación medio-superior y superior, en los términos, de la Ley General de Educación, cuando cobren colegiaturas, debiendo tributar de acuerdo a lo que establece el último párrafo del artículo 162 de esta Ley.
+A).- Los destinados al servicio de educación cuya constitución y funcionamiento se ajusten a las leyes de la materia, no quedan comprendidos en este supuesto, los inmuebles en los que se preste el servicio de educación de tipo medio-superior y/o superior en los términos de la Ley General de Educación, cuando cobren colegiaturas, debiendo tributar de acuerdo a lo que establece el último párrafo del artículo 162 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1991)</small>
 
@@ -1555,13 +1559,13 @@ D).- Las casas-habitación que pertenezcan a jubilados y pensionados, o al cóny
 
 En caso de que el valor del inmueble exceda el límite señalado en el presente inciso, se deberá aplicar la tasa correspondiente sobre el excedente; y
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 1993)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-E).- Las casas habitación adquiridas con financiamiento otorgado por el Instituto de Seguridad Social del Estado de Guanajuato; Instituto del Fondo Nacional de la Vivienda para los Trabajadores; Fondo Nacional de Habitaciones Populares; Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o por el Fondo de la Vivienda para los miembros del Ejército, Fuerza Aérea y Armada, así como los otorgados por organismos similares.
+E).- Las casas.-habitación adquiridas con financiamiento otorgado por el Instituto de Seguridad Social del Estado de Guanajuato; el Instituto del Fondo Nacional de Vivienda para los Trabajadores; el Fondo Nacional de Habitaciones Populares; el Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o por el Fondo de la Vivienda para los miembros del Ejército, Fuerza Aérea y Armada, así como los otorgados por organismos similares. Estos inmuebles tributarán a cuota mínima durante el tiempo en que esté vigente el financiamiento; una vez concluido éste, tributarán bajo el régimen general de Ley.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 1993)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-En relación al inciso anterior, no se considerará adquisición los créditos para mejora o ampliación de la casa habitación.
+En los supuestos de que estos inmuebles se realicen ampliaciones o mejoras a las construcciones, por éstas se causará el impuesto sobre el valor determinado por avalúo, aplicándose la tasa correspondiente, durante la vigencia del crédito para la adquisición; al término de éste, tributará la totalidad del inmueble bajo el régimen general de Ley.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -1601,13 +1605,13 @@ Todo inmueble deberá estar inscrito en los padrones fiscales. La violación de 
 
 El valor fiscal de los inmuebles, solo podrá ser modificado, por la manifestación del valor de los inmuebles de los contribuyentes; cuando se produzca un cambio en cuanto al nombre del contribuyente, a las características del inmueble; o por otra circunstancia que origine una alteración de su valor con motivo de la ejecución de obras públicas, así como en la reconstrucción o rehabilitación de dichas obras.
 
-(REFORMADO, P.O. 25 DE DICIEMBRE DE 1992) (F. DE E., P.O. 26 DE MARZO DE 1993)
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-No habiendo alguna de las causas anteriores, el valor fiscal solo podrá ser modificado por avalúo, si han transcurrido cuando menos cuatro años fiscales desde la fecha en que haya surtido efectos el anterior. Dicho avalúo entrará en vigor a partir del bimestre siguiente a la fecha en que se notifique.
+No habiendo alguna de las causas anteriores, el valor fiscal solo podrá ser modificado por avalúo, que tendrá vigencia por dos años. Dicho avalúo entrará en vigor a partir del bimestre siguiente a la fecha en que se notifique.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-Al término de los cuatro años y en tanto se practica el nuevo avalúo, la base del impuesto predial seguirá siendo la del último valor fiscal.
+Al término de la vigencia establecida y en tanto se practica el nuevo avalúo, la base del impuesto predial seguirá siendo la del último valor fiscal.
 
 ###### ARTICULO 169.
 
@@ -1637,21 +1641,27 @@ En los casos de inmuebles sujetos al régimen de condominio, se empadronará por
 
 En estos casos, los recibos para el pago del impuesto se expedirán en forma individual. Las bases entrarán en vigor a partir del bimestre siguiente a la fecha de la escritura de constitución de condominio; si éste se constituyere sin estar terminadas las construcciones el impuesto se causará, sobre el valor total del terreno y a partir de la fecha de terminación de la construcción de cada uno de ellos o de ocupación aún sin estar terminados conforme a las reglas anteriores.
 
-###### ARTICULO 175.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-En los fraccionamientos que tengan autorización para su venta, únicamente, se actualizará el valor de los lotes que se enajenen.
+###### Artículo 175.
+
+En los fraccionamientos que tengan autorización para su venta, únicamente, se actualizará el valor de los lotes que se enajenen; tratándose de la superficie restante, el valor se actualizará conforme al segundo párrafo del artículo 168 de esta Ley, excluyendo la superficie no susceptible de enajenación.
 
 ###### ARTICULO 176.
 
 La práctica de todo avalúo deberá ser ordenada por la Tesorería Municipal por escrito en los casos que esta Ley establece y será practicada por los peritos que se designen para este efecto. Lo anterior no será necesario, cuando en la práctica del avalúo se apliquen medios o técnicas fotogramétricas.
 
-Los resultados del avalúo y la determinación del Impuesto deberán notificarse al contribuyente.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
+Los resultados del avalúo y la determinación del Impuesto deberán notificarse al contribuyente, quien tendrá un plazo de treinta días para realizar las aclaraciones que considere pertinentes.
 
 La valuación se hará separadamente para el terreno y para las construcciones y se formulará en las formas oficiales expedidas para tales efectos, aplicando los valores unitarios del suelo y construcciones que establece anualmente la Ley de Ingresos para los Municipios del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 177.
 
-Los peritos deberán presentarse en hora y día hábiles y se identificarán con la documentación correspondiente, en el inmueble que deba ser objeto de la valuación y mostrarán a los ocupantes la orden respectiva.
+En la práctica de los avalúos a que se refiere la fracción II del artículo 162 de esta Ley, los peritos deberán presentarse en hora y día hábiles y se identificarán con la documentación correspondiente, en el inmueble que deba ser objeto de la valuación y mostrarán a los ocupantes la orden respectiva.
 
 Si los ocupantes se opusieran en cualquier forma a la inspección del perito designado para efectuar la valuación, éste lo hará constar en acta circunstanciada firmada por él y dos testigos e informará esa situación a la Tesorería Municipal para que se apliquen las sanciones correspondientes.
 
@@ -1685,9 +1695,9 @@ La base de este impuesto será el valor más alto entre el Fiscal registrado, en
 
 Para los efectos de este Impuesto, también podrá presentarse peritaje bancario con antigüedad no mayor de seis meses.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
-El valor del inmueble, a elección del contribuyente, podrá ser el valor de adquisición del mismo disminuido con el valor que se tomó como base para calcular el impuesto a que se refiere esta Ley en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto. En este caso no se aplicará lo dispuesto por el artículo 181 de esta Ley.
+El valor del inmueble, cuando éste no haya sufrido modificaciones, a elección del contribuyente y mediante solicitud por escrito, podrá ser el valor de adquisición del mismo disminuido con el valor que se tomó como base para calcular el impuesto a que se refiere esta Ley en su última adquisición, siempre que la misma se hubiera efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto. En este caso no se aplicará lo dispuesto por el artículo 181 de esta Ley.
 
 ###### ARTICULO 181.
 
@@ -1893,9 +1903,11 @@ Los patrocinadores, explotadores de diversiones y espectáculos públicos están
 
 ### CAPITULO SEPTIMO. DEL IMPUESTO SOBRE RIFAS, SORTEOS, LOTERIAS Y CONCURSOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 214.
 
-Están obligados al pago de este impuesto, las personas físicas o morales que organicen rifas, sorteos, loterías y concursos que se celebren en los Municipios del Estado. Los beneficiados que hubieren obtenido los premios derivados de dichas actividades, deberán cubrir al Fisco un 2% sobre el valor de los mismos.
+Están obligados al pago de este impuesto, las personas físicas o morales que organicen rifas, sorteos, loterías y concursos que se celebren en los Municipios del Estado.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -2125,11 +2137,21 @@ El objeto de esta contribución, será el servicio de alumbrado público que se 
 
 El pago de esta contribución se hará con base en las tarifas generales números 1, 2, 3, O-M, H-M, H-S y H-T aprobadas y publicadas en los términos de la Ley Federal de Servicio Público de Energía Eléctrica y se liquidará en relación con las mismas, conforme a las tasas que señale anualmente la Ley de Ingresos para los Municipios del Estado de Guanajuato.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P. O. 26 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 247.
 
-El Gobierno del Estado se responsabilizará del pago por la prestación del servicio público de alumbrado de los Municipios, de conformidad con los convenios que celebre con la Comisión Federal de Electricidad, para el cobro de esta Contribución. En caso de que la recaudación resultare insuficiente para cubrir el costo del consumo, la diferencia se cargará proporcionalmente a cada Municipio en relación a su factor de participaciones.
+El Gobierno del Estado se responsabilizará del pago por la prestación del servicio público de alumbrado de los Municipios, de conformidad con los convenios que celebre con la Comisión Federal de Electricidad, para el cobro de esta contribución.
+
+En caso de que la recaudación mensual resultare insuficiente para cubrir el costo del consumo se aplicarán las siguientes reglas:
+
+I.- La diferencia se cargará proporcionalmente a cada Municipio en relación a su factor de participaciones;
+
+II.- En los Municipios en que la recaudación obtenida sea mayor del monto del consumo de energía por alumbrado público, se le reintegrará el 30% de la cantidad excedente;
+
+III.- El 70% restante de la cantidad excedente a que se refiere la fracción anterior, se aplicará a la diferencia que exista entre la recaudación total de esta contribución y el monto del consumo de energía para alumbrado público; y
+
+IV.- Si aún existe diferencia, ésta se aplicará en los términos de la fracción I a los Municipios que no estén en el supuesto de la fracción II de este artículo.
 
 ## TITULO SEPTIMO. DE LOS PRODUCTOS
 
@@ -2382,3 +2404,13 @@ P.O. 24 DE DICIEMBRE DE 1996.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el primero de enero de 1997 mil novecientos noventa y siete.
+
+P.O. 26 DE DICIEMBRE DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrara en vigor el día primero de enero de 1998 mil novecientos noventa y ocho.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
