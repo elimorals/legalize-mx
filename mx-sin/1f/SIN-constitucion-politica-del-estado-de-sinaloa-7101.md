@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2000-08-16"
+last_updated: "2000-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2000.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -1399,11 +1399,15 @@ Por cada Regidor Propietario se elegirá un suplente.
 
 Los Municipios, cualquier (sic) que sea su número de habitantes, integrarán sus Ayuntamientos de conformidad con lo siguiente:
 
-I.- Los de Ahome, Guasave, Salvador Alvarado, Culiacán y Mazatlán, con un Presidente Municipal 11 Regidores de Mayoría Relativa y 7 Regidores de Representación Proporcional.
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DEL 2000)</small>
 
-II.- Los de El Fuerte, Sinaloa, Mocorito, Navolato, Rosario y Escuinapa, con un Presidente Municipal, 8 Regidores de Mayoría Relativa y 5 Regidores de Representación Proporcional.
+I. Los de Ahome, Guasave, Culiacán y Mazatlán, con un Presidente Municipal 11 Regidores de Mayoría Relativa y 7 Regidores de Representación Proporcional.
 
-III.- Los de Choix, Angostura, Badiraguato, Cosalá, Elota, San Ignacio y Concordia, con un Presidente Municipal, 6 Regidores de Mayoría Relativa y 4 Regidores de Representación Proporcional.
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DEL 2000)</small>
+
+II. Los de El Fuerte, Sinaloa, Salvador Alvarado, Mocorito, Navolato, Rosario y Escuinapa, con un Presidente Municipal 8 Regidores de Mayoría Relativa y 5 Regidores de Representación Proporcional.
+
+III. Los de Choix, Angostura, Badiraguato, Cosalá, Elota, San Ignacio y Concordia, con un Presidente Municipal, 6 Regidores de Mayoría Relativa y 4 Regidores de Representación Proporcional.
 
 La Ley determinará forma y procedimiento para la asignación de Regidores de Representación Proporcional.
 
@@ -2692,6 +2696,12 @@ P.O. 16 DE AGOSTO DEL 2000.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 23 DE AGOSTO DEL 2000.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Las bases del presente Decreto, tendrán su primera aplicación a partir de los Ayuntamientos que iniciarán funciones el 1° de enero del año 2002.
 
 ###### ARTÍCULO PRIMERO.
 
