@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-edificaciones-para-el-municipio-de-mexicali-35218
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-18"
-last_updated: "2003-11-28"
+last_updated: "2004-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35218&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE EDIFICACIONES PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2004.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 18 de diciembre de 1998.
 
@@ -1875,7 +1875,17 @@ I.- La requerida en el artículo 69 de la Ley y dos fotografías a color tamaño
 
 II.- La requerida en el artículo 70 de la Ley para el caso de personas morales;
 
-La vigencia del registro será por un año; al vencimiento deberá revalidarse compareciendo a su firma ante la Dirección: La duración del trámite será de 5 días hábiles.
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
+
+III.- Documento que acredite la Certificación Profesional expedida al interesado por el organismo gremial certificador correspondiente y de reconocimiento nacional e internacional.
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2004)</small>
+
+IV.- En caso de ser el interesado de nación extranjera con la cual nuestro país tenga Acuerdo Comercial, deberá presentar documento de validación de su certificación de origen, expedido por la organización gremial correspondiente de México, en los términos establecidos en el Acuerdo Comercial del que se trate.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2004)</small>
+
+La vigencia del Registro ante la Dirección será por un año; al vencimiento deberá revalidarse compareciendo su firma ante la Dirección, debiendo presentar constancia de renovación de la Certificación en los términos que el organismo certificador establezca. La duración del trámite será de cinco días hábiles.
 
 ###### ARTICULO 254.
 
@@ -1926,3 +1936,9 @@ LIC. BERNARDO H. MARTINEZ AGUIRRE.
 P.O. 28 DE NOVIEMBRE DE 2003.
 
 [LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º. DEL CÓDIGO CIVIL VIGENTE FEDERAL.]
+
+P.O. 2 DE ENERO DE 2004.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO DE “MODIFICACIÓN DEL PÁRRAFO SEGUNDO, ASÍ COMO LA ADICIÓN DE LAS FRACCIONES III Y IV (SIC) ARTÍCULO 253 DEL REGLAMENTO DE EDIFICACIONES PARA EL MUNICIPIO DE MEXICALI”.]
+
+ARTICULO TRANSITORIO ÚNICO.- EI presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
