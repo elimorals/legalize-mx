@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8048"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-12-28"
-last_updated: "1997-12-20"
+last_updated: "1998-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO FISCAL DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 28 de diciembre de 1991.
 
@@ -89,13 +89,19 @@ III.- Contribuciones especiales son las prestaciones cuyo presupuesto de hecho s
 
 Cuando sean organismos descentralizados estatales quienes presten los servicios señalados en la fracción II del mismo, las contribuciones correspondientes tendrán la naturaleza de derechos.
 
-Los recargos, las sanciones, los gastos de ejecución y de cobranza y de indemnización a que se refiere el antepenúltimo párrafo del artículo 22 de este Código, son accesorios de las contribuciones y participan de la naturaleza de éstas. Siempre que en este Código se haga referencia únicamente a contribuciones no se entenderán incluidos los accesorios, con excepción de lo dispuesto en el artículo 1o.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
+
+Los recargos, las sanciones, los gastos de ejecución y de cobranza y la indemnización a que se refiere el penúltimo párrafo del artículo 22 de este Código, son accesorios de las contribuciones y participan en la naturaleza de éstas. Siempre que en este Código se haga referencia únicamente a contribuciones no se entenderán incluidos los accesorios, con la excepción de lo dispuesto en el Artículo 1o.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 4.
 
-Son aprovechamientos los ingresos distintos de las contribuciones que percibe el Estado por funciones de derecho público, los ingresos derivados de financiamientos y los que obtengan los organismos descentralizados y empresas de participación estatal que no tengan la naturaleza de derechos.
+Son aprovechamientos los ingresos que percibe el Estado por funciones de derecho público, distintos de las contribuciones, de los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación estatal.
 
-Los recargos, las sanciones, los gastos de ejecución y de cobranza y la indemnización a que se refiere el antepenúltimo párrafo del artículo 22 de este Código, que se aplican en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
+
+Los recargos, las sanciones, los gastos de ejecución y de cobranza y la indemnización a que se refiere el penúltimo párrafo del artículo 22 de este Código, que se aplican en relación con aprovechamientos, son accesorios de éstos y participan de su naturaleza.
 
 Son productos, las contraprestaciones por los servicios que preste el Estado en sus funciones de derecho privado, así como por el uso, aprovechamiento o enajenación de bienes del dominio privado.
 
@@ -281,7 +287,9 @@ V.- Las de pesca, que incluyen la cría, cultivo, fomento y cuidado de la reprod
 
 VI.- Las silvícolas, que son las de cultivo de los bosques o montes, así como la cría, conservación, restauración, fomento y aprovechamiento de la vegetación de los mismos y la primera enajenación de sus productos que no hayan sido objeto de transformación industrial.
 
-Se considerará empresa la persona física o moral que realice las actividades a que se refiere este artículo y por establecimiento se entenderá cualquier lugar de negocios en el que se desarrollen parcial o totalmente, las citadas actividades empresariales.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
+
+Se considerará empresa la persona física o moral que realice las actividades a que se refiere este artículo, ya sea directamente, o a través de fideicomiso, y por establecimiento se entenderá cualquier lugar de negocios en el que se desarrollen parcial o totalmente, las citadas actividades empresariales.
 
 ###### ARTICULO 18.
 
@@ -339,6 +347,26 @@ Cuando no se cumplan los requisitos a que se refiere este artículo, las autorid
 
 Lo dispuesto en este artículo no es aplicable a las declaraciones, solicitudes de inscripción o avisos a que se refiere el artículo 32 de este Código.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 19-A.
+
+Las promociones que se presenten ante las autoridades fiscales en las que se formulen consultas en los términos del artículo 36 de este Código, deberán cumplir, en adición a los requisitos establecidos en el artículo 19 de este Código, con lo siguiente:
+
+I.- Señalar los números telefónicos, en su caso, del contribuyente y de los autorizados en los términos del artículo 20 de este Código.
+
+II- Describir las actividades a las que se dedica el interesado.
+
+III.- Indicar el monto de la operación u operaciones objeto de la promoción.
+
+IV.- Señalar todos los hechos y circunstancias relacionadas con la promoción, así como acompañar los documentos e información que soporten tales hechos o circunstancias.
+
+V.- Describir las razones de negocios que motivan la operación planteada.
+
+VI.- Indicar si los hechos o circunstancias sobre los que versa la promoción han sido planteados ante una autoridad fiscal distinta a la que recibió la promoción o ante las autoriddes (sic) administrativas o judiciales y, en su caso, el sentido de la resolución.
+
+Cuando no se cumplan los requisitos a que se refiere este artículo, se estará a lo dispuesto en artículo 19, penúltimo párrafo de este Código.
+
 ###### ARTICULO 20.
 
 En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales se hará mediante escritura pública o en carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales o notario.
@@ -377,9 +405,9 @@ Para determinar las contribuciones se considerarán, inclusive, las fracciones d
 
 Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, además deberán pagarse recargos en concepto de indemnización al fisco estatal por falta de pago oportuno. Dichos recargos se calcularán aplicando el monto de las contribuciones actualizadas por el período a que se refiere este párrafo, la tasa que resulte de sumar las aplicables para cada uno de los meses o fracción de los mismos transcurridos desde la fecha en que debió hacerse el pago y hasta que el mismo se efectúe.
 
-(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)(F. DE E., P.O. 1 DE ENERO DE 1994)
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
 
-Los recargos se causarán hasta por cinco años, excepto en el supuesto del párrafo Tercero del Artículo 67 de este Código, que serán de diez años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización, a la que se refiere el cuarto párrafo de este artículo, los gastos de ejecución, los gastos de cobranza y las multas por infracción a las disposiciones fiscales. Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se causarán conforme la tasa que fije anualmente la Ley de Ingresos del Estado, por cada mes o fracción que transcurra, a partir del día siguiente en que debió hacerse el pago hasta que el mismo se efectúe, incrementada en un 50%.
+Los recargos se causarán hasta por cinco años excepto en el supuesto del párrafo tercero del artículo 67 de este Código, que serán de diez años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a la que se refiere el quinto párrafo de este artículo, los gastos de ejecución, los gastos de cobranza y las multas por infracción a las disposiciones fiscales. Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se causarán conforme a la tasa que fije anualmente la Ley de Ingresos del Estado, por cada mes o fracción que transcurra, a partir del día siguiente en que debió hacerse el pago hasta que el mismo se efectúe, incrementada en un 50%.
 
 Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la oficina recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente.
 
@@ -401,9 +429,9 @@ Las autoridades fiscales están obligadas a devolver las cantidades pagadas inde
 
 Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto hubiera quedado insubsistente, lo dispuesto en este párrafo no es aplicable a la determinación de diferencias por errores aritméticos, las que darán lugar a la devolución siempre que no haya prescrito la obligación en los términos del último párrafo de este artículo.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
 
-Cuando se solicite la devolución de una contribución, esta deberá efectuarse dentro del plazo de 50 días siguientes, contado a la fecha en que se presentó la solicitud ante la autoridad fiscal competente, con todos los datos, informes y documentos que señale la forma oficial respectiva, así como cualesquier otro dato o constancia que se solicite en forma particular. Las autoridades fiscales para verificar la procedencia de la devolución, podrán requerir al contribuyente, en un plazo no mayor de 20 días posteriores a la presentación de la solicitud de devolución, los datos, informes o documentos adicionales que se considere necesarios. Para tal efecto, las autoridades fiscales requerirán al promovente a fin de que en un plazo máximo de 20 días cumpla con lo solicitado, apercibido que de no hacerlo dentro de dicho plazo, se le tendrá por desistido de la solicitud de devolución correspondiente. En estos supuestos el período transcurrido de la fecha en que se hubiere notificado el requerimiento de datos, informes o documentos adicionales y la fecha en que éstos sean proporcionados en su totalidad por el contribuyente, no se computará en la determinación del plazo de 50 días antes mencionado. No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando soliciten los datos, informes y documentos a que se refiere este párrafo, pudiendo ejercerlas en cualquier momento.
+Cuando se solicite la devolución de una contribución, ésta deberá efectuarse dentro del plazo de 50 días siguientes, contado a la fecha en que se presentó la solicitud ante la autoridad fiscal competente, con todos los datos, informes y documentos que señale la forma oficial respectiva, así como cualesquier otro dato o constancia que se solicite en forma particular. Las autoridades fiscales para verificar la procedencia de la devolución, podrán requerir al contribuyente, en un plazo no mayor de 20 días posteriores a la presentación de la solicitud de devolución, los datos, informes o documentos adicionales que considere necesarios. Para tal efecto, las autoridades fiscales requerirán al promovente a fin de que en un plazo máximo de 20 días cumpla con lo solicitado, apercibido que de no hacerlo dentro de dicho plazo, se le tendrá por desistido de la solicitud de devolución correspondiente. En estos supuestos, el período transcurrido entre la fecha en que se hubiere notificado el requerimiento de datos, informes o documentos adicionales y la fecha en que estos sean proporcionados en su totalidad por el contribuyente, no se computará en la determinación del plazo de 50 días antes mencionado. Se entenderá que la devolución se ha efectuado a partir de la fecha en que se notifique al interesado la autorización de la devolución respectiva. No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando soliciten los datos, informes y documentos a que se refiere este párrafo, pudiendo ejercerlas en cualquier momento.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
@@ -549,7 +577,7 @@ II.- Los asientos en la contabilidad serán analíticos y deberán efectuarse de
 
 III.- Llevarán la contabilidad en el domicilio que para efectos fiscales, señale, en los términos del artículo 11 de este Código.
 
-Cuando las autoridades fiscales en ejercicio de sus facultades de comprobación mantengan en su poder la contabilidad de la persona por un plazo mayor de un mes, ésta deberá continuar llevando su contabilidad cumpliendo con los requisitos respectivos.
+Cuando las autoridades fiscales en ejercicio de sus facultades de comprobación mantengan en su poder la contabilidad de la persona por un plazo mayor de un mes, está deberá continuar llevando su contabilidad cumpliendo con los requisitos respectivos.
 
 Quedan incluidos en la contabilidad los registros y cuentas especiales a que obliguen las disposiciones fiscales, los que lleven los contribuyentes aun cuando no sean obligatorios y los libros y registros sociales a que obliguen otras leyes.
 
@@ -749,7 +777,9 @@ II.- Requerir a los contribuyentes, responsables solidarios o terceros con aquel
 
 III.- Practicar visitas a los contribuyentes, los responsables solidarios o terceros relacionados con ellos y revisar su contabilidad, bienes y mercancías.
 
-IV.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1995)
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1998)</small>
+
+IV.- Practicar visitas domiciliarias a los contribuyentes, a fin de verificar el cumplimiento de las obligaciones establecidas en las disposiciones fiscales en materia de presentación de solicitudes o avisos en materia del Registro Estatal de Contribuyentes, de conformidad con el procedimiento previsto en el artículo 50-A de este Código.
 
 V.- Practicar u ordenar se practique avalúo, verificación física de toda clase de bienes, incluso durante su transporte.
 
@@ -853,6 +883,10 @@ V.- Cuando no resulte posible continuar o concluir el ejercicio de las facultade
 
 VI.- Si en el cierre del acta final de la visita no estuviere presente el visitado o su representante, se le dejará citatorio para que esté presente a una hora determinada del día siguientes (sic), si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado; en ese momento cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entiende la diligencia y los testigos firmarán el acta de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niega a aceptar copia del acta, dicha circunstancia se asentará en la propia acta sin que esto afecte la validez y valor probatorio de la misma.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
+
+Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona, se requerirá nueva orden, inclusive cuando las facultades de comprobación sean para el mismo ejercicio y por las mismas contribuciones.
+
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 49.
@@ -888,6 +922,24 @@ Se tendrán por consentidos los hechos u omisiones consignados en el oficio de o
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
 VII.- Cuando el contribuyente o responsable solidario no desvirtúe los hechos u omisiones consignados en dicho documento, se emitirá la resolución que determine las contribuciones omitidas, la cual se notificará al contribuyente cumpliendo con lo señalado en la fracción I de este artículo, y en el lugar especificado en dicha fracción.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 50-A.
+
+Para los efectos de lo dispuesto por la fracción IV del artículo 44 de este Código, las visitas domiciliarias para verificar la presentación de solicitudes o avisos en materia del Registro Estatal de Contribuyentes, se realizarán conforme a lo siguiente:
+
+I.- Se llevará a cabo en el dmicilio (sic) fiscal, establecimientos, puestos fijos y semifijos en la vía pública, o sucursales de los contribuyentes, con el objeto de verificar el cumplimiento de las obligaciones fiscales en materia de presentación de solicitudes o avisos en materia del Registro Estatal de Contribuyentes.
+
+II.- Al presentarse los visitadores al lugar en donde deba practicarse la diligencia, entregarán la orden de verificación al visitado, a su representante legal, al encargado o a quien se encuentre al frente del establecimiento, indistintamente y con dicha persona se entenderá la visita de inspección.
+
+III.- Los visitadores se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si estos no son designados o los designados no acepten servir como tales, los visitadores lo designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la inspección.
+
+IV.- En toda visita domiciliaria para verificar la presentación de solicitudes o avisos en materia del Registro Estatal de Contribuyentes, se levantará acta en la que se harán constar en forma circunstanciada los hechos u omisiones conocidos por los visitadores, relativos a la presentación de sollicitudes (sic) o avisos en materia del Registro Estatal de Contribuyentes, en los términos de este Código y su reglamento o, en su caso, las irregularidades detectadas durante la inspección.
+
+V.- Si al cierre del acta de la visita domiciliaria el visitado o la persona con quien se entendió la diligencia o los testigos se niegan a firmar el acta, o el visitado o la persona con quien se entendió la diligencia se niegue a aceptar copia del acta, dicha circunstancia se asentará en la propia acta, sin que esto afecte la validez y valor probatorio de la misma; dándose por concluida la visita domiciliaria.
+
+VI.- Si con motivo de la visita domiciliaria a que se refiere este artículo, las autoridades conocieron incumplimientos a las disposiciones fiscales en materia de presentación de solicitudes o avisos en materia del Registro Estatal de Contribuyentes, se procederá a la formulación de la resolución correspondiente. Si se observa que el visitado no se encuentra inscrito en dicho registro, la autoridad requerirá los datos necesarios para su inscripción, sin perjuicio de las sanciones y demás consecuencias legales derivadas de dicha omisión.
 
 ###### ARTICULO 51.
 
@@ -1001,9 +1053,9 @@ I.- Que la información contenida en la contabilidad, documentación comprobator
 
 II.- Que la información contenida en los sistemas de contabilidad a nombre del contribuyente, localizados en poder de personas a su servicio, o de accionistas o propietarios de la empresa, corresponde a operaciones del contribuyente.
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1998)</small>
 
-III.- Que los depósitos en las cuentas bancarias del contribuyente, que no correspondan a los registros de la contabilidad a que éste obligado a llevar en los términos de las disposiciones fiscales, son ingresos por los que se deben pagar contribuciones.
+III.- Que los depósitos en las cuentas bancarias del contribuyente, que no correspondan a los registros de la contabilidad a que esté obligado a llevar en los términos de las disposiciones fiscales, son ingresos y valor de los actos y actividades por los que se deben pagar contribuciones.
 
 ###### ARTICULO 60.
 
@@ -1029,7 +1081,7 @@ Al valor de los actos o actividades estimados presuntivamente por alguno de los 
 
 ###### ARTICULO 62.
 
-Para comprobar los ingresos así como el valor de los actos o actividades de los contribuyentes, las autoridades fiscales presumirán, salvo prueba en contrario, que la información o documentos de terceros relacionados con el contribuyente correspondan a operaciones realizadas por éste cuando:
+Para comprobar los ingresos así como el valor de los actos o actividades de los contribuyentes, las autoridades fiscales presumirán salvo prueba en contrario, que la información o documentos de terceros relacionados con el contribuyente correspondan a operaciones realizadas por éste cuando:
 
 I.- Se refieren al contribuyente designado por su nombre, denominación o razón social.
 
@@ -1053,21 +1105,29 @@ Las copias o reproducciones de microfilm de documentos que tengan en su poder la
 
 Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro del siguiente mes a la fecha en que surta efectos su notificación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 66.
 
-Las autoridades fiscales, a petición de los contribuyentes, podrán autorizar el pago a plazo, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios, sin que dicho plazo exceda de doce meses. Las contribuciones omitidas y sus accesorios se actualizarán conforme a lo dispuesto en el Artículo 18-A de este Código, a partir de los meses en que se debieron haber pagado hasta aquel en que se conceda la autorización. Cada parcialidad se actualizará desde esta última fecha hasta el mes en el que cada parcialidad se pague. Durante el plazo concedido se causarán recargos sobre el saldo insoluto, incluyendo accesorios, actualizados a la tasa establecida en la Ley de Ingresos del Estado. Dicho saldo se actualizará desde la fecha de autorización del pago en parcialidades hasta el mes por el que se calculan los recargos.
+Las autoridades fiscales, a petición de los contribuyentes podrán autorizar el pago a plazo, ya sea diferido o en parcialidades, de los créditos fiscales, sin que dicho plazo exceda de veinticuatro meses. Los créditos fiscales se actualizarán conforme a lo dispuesto en el artículo 18-A de este Código, a partir de los meses en que se debieron haber pagado hasta aquél en que se conceda la autorización. Cada parcialidad se actualizará desde esta última fecha hasta el mes en el que cada parcialidad se pague. Durante el plazo concedido se causarán recargos sobre el saldo insoluto incluyendo accesorios, actualizados, a la tasa establecida en la ley de Ingresos del Estado. Dicho saldo se actualizará desde la fecha de autorización del pago en parcialidades hasta el mes por el que se calculan los recargos.
 
-Las autoridades fiscales al autorizar el pago a plazo exigirán se garantice el interés fiscal, a excepción de los casos en los que dichas autoridades discrecionalmente dispensen el otorgamiento de la garantía.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
+
+Las autoridades fiscales al autorizar el pago a plazo, ya sea en forma diferida o en parcialidades, exigirán se garantice el interés fiscal dentro de los treinta días siguientes a la fecha en que hubiere sido autorizada la solicitud de pago a plazo, a excepción de los casos en los que dichas autoridades discrecionalmente dispensen el otorgamiento de la garantía.
 
 Cesará la autorización para pagar a plazo en forma diferida o en parcialidades, cuando:
 
-I.- Desaparezca o resulte insuficiente la garantía del interés fiscal, sin que el contribuyente dé nueva garantía o amplíe la que resulte insuficiente.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1998)</small>
+
+I.- No se otorgue, desaparezca o resulte insuficiente la garantía del interés fiscal, sin que el contribuyente dé nueva garantía o amplíe la que resulte insuficiente.
 
 II.- El contribuyente sea declarado en quiebra, concurso, suspensión o solicite su liquidación judicial.
 
 III.- El contribuyente no pague alguna de las parcialidades, con sus recargos, a más tardar dentro de los quince días siguientes a aquel en que vence la parcialidad.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
+
+En los supuestos señalados en las fracciones anteriores las autoridades fiscales requerirán y harán exigibles el saldo insoluto mediante el procedimiento administrativo de ejecución.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -1117,6 +1177,10 @@ Cuando las multas no se paguen en la fecha establecida en las disposiciones fisc
 
 Las cantidades que resulten en los términos del párrafo anterior, se ajustarán de conformidad con lo establecido en el artículo 8 de este Código.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
+
+Cuando la multa aplicable a una misma conducta infraccionada, sea modificada posteriormente mediante reforma al precepto legal que la contenga, las autoridades fiscales aplicarán la multa que resulte menor entre la existente en el momento en que se cometió y la multa vigente en el momento de su imposición.
+
 ###### ARTICULO 71.
 
 Son responsables en la comisión de las infracciones previstas en este Código las personas que realicen los supuestos que en este capítulo se consideran como tales, así como las que omitan el cumplimiento de obligaciones previstas por las disposiciones fiscales, incluyendo a aquellas que lo hagan fuera de los plazos establecidos.
@@ -1165,7 +1229,13 @@ I.- Se considerará como agravante el hecho de que el infractor sea reincidente.
 
 a).- La segunda o posteriores veces que se sancione al infractor por la comisión de una infracción que tenga como consecuencia la omisión en el pago de contribuciones.
 
-b).- La segunda o posteriores veces que se sancione al infractor por la comisión de una infracción establecida en el mismo artículo de este Código, tratándose de infracciones que no impliquen omisión en el pago de contribuciones.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
+
+b).La segunda o posteriores veces que se sancione al infractor por la comisión de una infracción establecida en el mismo artículo y fracción de este Código, tratándose de infracciones que no impliquen omisión en el pago de contribuciones.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
+
+Para determinar la reincidencia, se considerarán únicamente las infracciones cometidas dentro de los últimos dos años.
 
 II.- También será agravante en la comisión de una infracción, cuando se dé cualesquiera de los siguientes supuestos:
 
@@ -2063,7 +2133,7 @@ Disposiciones Generales.
 
 Las autoridades fiscales exigirán el pago de los créditos fiscales que no hubieren sido cubiertos o garantizados dentro de los plazos señalados por la Ley, mediante el procedimiento administrativo de ejecución.
 
-Los accesorios que se generen con posterioridad al inicio del procedimiento administrativo de ejecución relacionados con el crédito fiscal inicial, se harán efectivos sin necesidad de nuevo requerimiento, ni de otras formalidades, salvo las necesarias en su caso, para garantizar el interés fiscal y la formulación de liquidaciones respectivas.
+Los accesorios que se generen con posterioridad al inicio del procedimiento administrativo de ejecución relacionados con el crédito fiscal inicial, se harán efectivos sin necesidad de nuevo requerimiento, ni de otras formalidades, salvo las necesarias en su caso, para garantizar el interés fiscal y la formulación de las liquidaciones respectivas.
 
 (REFORMADO, P.O. 20 DE DICIEMBRE DE 1997) (F. DE E., 18 DE FEBRERO DE 1998)
 
@@ -2123,7 +2193,21 @@ No se extinguen por prescripción las obligaciones ni los créditos a favor del 
 
 Los particulares podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales.
 
-La cancelación de los créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios, no libera su pago.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 26 DE DICIEMBRE DE 1998)</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 144-A.
+
+La Secretaría de Hacienda de Estado podrá cancelar créditos fiscales, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios.
+
+Se consideran créditos de cobro incosteable, aquéllos cuyo importe sea inferior o igual a 15 días de salario mínimo, así como aquéllos cuyo costo de recuperación sea igual o mayor a su importe.
+
+Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito o cuando no se puedan localizar o cuando hubieren fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
+
+Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si se cumplen los requisitos señalados.
+
+La cancelación de los créditos a que se refiere este artículo no libera de su pago.
 
 ###### ARTICULO 145.
 
@@ -2139,11 +2223,13 @@ III.- Por la de remate, enajenación fuera del remate o adjudicación al fisco e
 
 Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a dos veces el salario mínimo se cobrará esta cantidad en vez del 2% del crédito.
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo excluyendo las erogaciones extraordinarias, podrá exceder de la cantidad equivalente a un salario mínimo elevado al año.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de la cantidad equivalente a un salario mínimo elevado al año.
 
-Así mismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en los artículo 43 fracción II y 139 fracción V de éste Código, que únicamente comprenderá los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones o cancelaciones en el Registro Público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichas personas renuncien expresamente al cobro de tales honorarios.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
+
+Así mismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en los artículos 43 fracción II y 139 fracción V de este Código, que únicamente comprenderá los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones o cancelaciones en el Registro Público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichas personas renuncien expresamente al cobro de tales honorarios, y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen bienes que sean objeto de remate.
 
 > <small>(REFORMADO, 30 DE DICIEMBRE DE 1995)</small>
 
@@ -2155,7 +2241,7 @@ Los gastos de ejecución y de cobranza se determinarán por la autoridad ejecuto
 
 Las autoridades fiscales, para hacer efectivo un crédito fiscal exigible y el importe de sus accesorios legales, requerirán el pago al deudor y, tratándose de adeudos provenientes de créditos fiscales sobre bienes inmuebles el requerimiento se hará a quien aparezca como propietario o detentador del mismo.
 
-Si el contribuyente no cubre lo que se le reclama y sus accesorios legales dentro de los seis días siguientes a que se haya requerido para ello, se procederá como sigue:
+Si el contribuyente no cubre lo que se le reclama y sus accesorios legales dentro de los seis días siguientes a que se le haya requerido para ello, se procederá como sigue:
 
 I.- A embargar bienes suficientes para, en su caso rematarlos, enajenarlos fuera de subasta o adjudicarlos a favor del fisco.
 
@@ -2475,7 +2561,9 @@ Fincado el remate de bienes muebles se aplicará el depósito constituído. Dent
 
 Tan pronto como el postor cumpla con el requisito a que se refiere el párrafo anterior, la autoridad ejecutora procederá a entregarle los bienes que le hubiere adjudicado, para el efecto, se citará al contribuyente para que, dentro de un plazo de tres días hábiles, entregue las facturas o documentación comprobatoria de la enajenación de los mismos, apercibido que si no lo hace, la autoridad ejecutora expedirá el documento correspondiente en su rebeldía.
 
-Una vez adjudicados los bienes al adquirente, éste deberá retirarlos en el momento en que la autoridad los ponga a su disposición, en caso de no hacerlo se causarán derechos por el almacenaje a partir del día siguiente. Cuando el monto del derecho por almacenaje sea igual o superior al valor en que se adjudicaron los bienes, éstos se aplicarán a cubrir los adeudos que se generarán por este concepto.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
+
+Una vez adjudicados los bienes al adquirente, éste deberá retirarlos en el momento en que la autoridad los ponga a su disposición, en caso de no hacerlo se causarán derechos por el almacenaje a partir del día siguiente.
 
 ###### ARTICULO 180.
 
@@ -2541,17 +2629,49 @@ En el supuesto señalado en la fracción III del artículo anterior, las autorid
 
 El producto obtenido del remate, enajenación o adjudicación de los bienes al fisco, se aplicará a cubrir el crédito fiscal en el orden que establece el artículo 21 de este Código.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
+
 ###### ARTICULO 189.
 
-En tanto no se hubieran rematado, enajenado o adjudicado los bienes, el embargado podrá pagar el crédito total o parcialmente y recuperarlos inmediatamente en la proporción del pago, tomándose en cuenta el precio del avalúo.
+En tanto no se hubieran rematado, enajenado o adjudicado los bienes, el embargado podrá pagar el crédito total o parcialmente y recuperarlos inmediatamente en la proporción del pago, tomándose en cuenta el precio del avalúo. Una vez realizado el pago por el embargado o cuando obtenga resolución o sentencia favorable derivada de la interposición de algún medio de defensa antes de que se hubieran rematado, enajenado o adjudicado los bienes que obliguen a las autoridades a entregar los mismos, éste deberá retirar los bienes motivo del embargo en el momento en el que la autoridad los ponga a su disposición y en caso de no hacerlo se causarán derechos por el almacenaje a partir del día siguiente.
 
-Una vez realizado el pago por el embargado, éste deberá retirar los bienes motivo del embargo en el momento en el que la autoridad los ponga a su disposición y en caso de no hacerlo se causarán derechos por el almacenaje a partir del día siguiente. Cuando el monto del derecho por el almacenaje sea igual o superior al valor de los bienes determinados conforme al artículo 169 de este Código, se aplicará a cubrir los adeudos que se generarán por este concepto.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 190.
 
-Cuando existan excedentes después de haberse cubierto el crédito, se entregarán al deudor, salvo que medie orden de autoridad competente o que el propio deudor acepte por escrito que se haga entrega total o parcial del saldo a un tercero.
+Cuando existan excedentes después de haberse cubierto el crédito, se entregarán al deudor, salvo que medie orden de autoridad competente o que el propio deudor acepte por escrito que se haga entrega total o parcial del saldo a un tercero. Una vez transcurridos dos años contados a partir de la fecha en que los excedentes estén a disposición del contribuyente, sin que éste lo retire, pasarán a propiedad del fisco. Se entenderá que el excedente se encuentra a disposición del interesado, a partir del día siguiente a aquél en que se le notifique personalmente la resolución correspondiente. En caso de conflicto, el remanente se depositará en institución de crédito autorizada, en tanto resuelvan las autoridades competentes.
 
-En caso de conflicto, el remanente se depositará en institución de crédito autorizada, en tanto resuelvan las autoridades competentes.
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 191.
+
+Causarán abandono en favor del fisco, los bienes embargados por las autoridades fiscales, en los siguientes casos:
+
+I.- Cuando habiendo sido enajenados o adjudicados los bienes al adquirente no se retiren del lugar en que se encuentren, dentro de dos meses contados a partir de la fecha en que se pongan a su disposición.
+
+II.- Cuando el embargado efectúe el pago del crédito fiscal u obtenga resolución o sentencia favorable que ordene su devolución derivada de la interposición de algún medio de defensa antes de que se hubieran rematado, enajenado o adjudicado los bienes y no los retire del lugar en que se encuentren dentro de dos meses contados a partir de la fecha en que se pongan a disposición del interesado.
+
+III.- Se trate de bienes mueble que no hubieren sido rematados después de transcurridos dieciocho meses de practicado el embargo y respecto de los cuales no se hubiere interpuesto ningún medio de defensa.
+
+Se entenderá que los bienes se encuentran a disposición del interesado, a partir del día siguiente a aquél en que se le notifique la resolución correspondiente.
+
+Cuando los bienes embargados hubieren causado abandono, las autoridades fiscales notificarán personalmente o por correo certificado con acuse de recibo a los propietarios de los mismos, que ha transcurrido el plazo de abandono y que cuenta con quince días para retirar los bienes, previo pago de los derechos de almacenaje causados. En los casos en que no se hubiera señalado domicilio o el señalado no corresponda a la persona, la notificación se efectuará a través de estrados.
+
+Los bienes que pasen a propiedad del fisco conforme a este artículo, podrán ser enajenados en los términos del Artículo 187 de este Código o donarse para obras o servicios públicos o a instituciones asistenciales o de beneficiencia (sic) autorizadas conforme a las leyes de la materia.
+
+El producto de la venta se destinará a pagar los cargos ordinarios por el manejo, almacenaje, custodia y gasto de venta de los citados bienes.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
+
+###### ARTICULO 192.
+
+Los plazos de abandono a que se refiere el artículo 191 de este Código se interrumpirán:
+
+I.- Por la interposición del recurso administrativo o la presentación de la demanda en el juicio que proceda.
+
+El recurso o la demanda sólo interrumpirán los plazos de que se trata, cuando la resolución definitiva que recaiga no confirme en todo en parte, la que se impugnó.
+
+II.- Por consulta entre autoridades, si de dicha consulta depende la entrega de los bienes a los interesados.
 
 ## TRANSITORIOS
 
@@ -2632,3 +2752,9 @@ P.O. 20 DE DICIEMBRE DE 1997
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir del 1º. de enero de 1998.
+
+P.O. 26 DE DICIEMBRE DE 1998
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir del 1o. de enero de 1999.
