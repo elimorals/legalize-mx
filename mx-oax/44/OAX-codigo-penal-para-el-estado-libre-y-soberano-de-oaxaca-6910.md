@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "1985-01-05"
+last_updated: "1987-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1985.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 1987.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -241,9 +241,13 @@ Prohibición de ir a determinado lugar o de residir en él.
 
 Sanción pecuniaria.
 
-23.- La sanción pecuniaria comprende la multa y la reparación del daño cuando éste deba hacerlo el infractor.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-La obligación de pagar el importe de la sanción pecuniaria es preferente y se cubrirá primero que cualquiera de las obligaciones personales que se hubieren contraído con posterioridad a la ejecución del delito.
+23.- La sanción pecuniaria comprende la multa y la reparación del daño.
+
+La obligación de pagar el importe de la sanción pecuniaria es preferente y se cubrirá primero que cualquiera de las obligaciones que se hubieren contraído con posterioridad al delito.
+
+La multa es el pago al Estado de una suma de dinero que se fijará por días multa, los cuales no podrán exceder de quinientos. El día multa equivale al salario mínimo general vigente en el lugar y en el momento de consumarse el delito, si fuere consumado, en el día que cesó, si fuere continuo o permanente, o en el que se realice el último acto tendiente a su ejecución, en el caso de tentativa. La ley podrá también señalar multas que no hagan relación al salario mínimo general.
 
 24.- El importe de la sanción pecuniaria se distribuirá entre el Fondo para la Administración de Justicia y la parte ofendida; al primero se aplicará el importe de la multa y a la segunda el de la reparación.
 
@@ -509,7 +513,9 @@ Reclusión para los enfermos mentales y sordomudos.
 
 En igual forma procederán los tribunales con los procesados o condenados que se encuentren en alguno de los estados a que se refiere el párrafo que antecede, haciéndolo de acuerdo con lo que disponga el Código Procesal de la materia. Igualmente procederán también las autoridades encargadas de la ejecución de sentencias, en los casos en que los sentenciados enloquezcan durante el tiempo en que estén sujetos a una sanción privativa de libertad.
 
-86.- En los casos previstos en este capítulo, las personas o enfermos a quienes se aplique reclusión, podrán ser entregados a quienes corresponda hacerse cargo de ellos, siempre que se otorgue fianza, depósito o hipoteca hasta por la cantidad de quince mil pesos, a juicio del Juez, para garantizar el daño que pudieran causar, por no haberse tomado las precauciones necesarias para su vigilancia. Cuando el Juez, de acuerdo con los resultados de los dictámenes periciales emitidos al respecto, estime que ni aún con la garantía queda asegurado el interés de la sociedad, seguirán en el establecimiento especial en que estuvieren recluidos.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+
+86.- En los casos previstos en este Capítulo, las personas o enfermos a quienes se aplique reclusión podrán ser entregados a quienes corresponda hacerse cargo de ellos, siempre que se otorgue fianza, depósito o hipoteca hasta por cantidad que no exceda de cien veces el salario mínimo general vigente en el momento y en el lugar en que se dicte el acuerdo respectivo, para garantizar el daño que aquellos pudieran causar por no haberse tomado las precauciones necesarias para su vigilancia. Cuando el Juez estime que ni aún con la garantía queda asegurado el interés de la sociedad, dichas personas seguirán en el establecimiento en que estuvieren recluidos.
 
 ### CAPITULO VIII.
 
@@ -1367,7 +1373,9 @@ IV.- Al que, con arreglo a derecho, con cualquier carácter excepto el de testig
 
 Lo prevenido en esta fracción no comprende los casos en que la parte sea examinada sobre la cantidad en que estime una cosa, o cuando tenga el carácter de acusado.
 
-231.- La parte, testigo, perito o intérprete que retracte expontáneamente (sic) sus falsas declaraciones reunidas en un juicio, antes de que se pronuncie la sentencia en la instancia en que las diere, sólo pagarán una multa de diez a doscientos pesos. Pero si faltare a la verdad al retractar su declaración, se le aplicará la pena que corresponda con arreglo a lo prevenido en este capítulo, considerándolo como reincidente.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+
+231.- La parte, testigo, perito o intérprete que se retracte espontáneamente de sus falsas declaraciones rendidas en un juicio, antes de que se pronuncie la sentencia en la instancia en que las hubiere rendido, sólo pagará una multa de cinco a cincuenta veces el salario mínimo general; pero si al retractarse de su declaración faltare a la verdad, se le aplicará la pena que corresponda con arreglo a lo prevenido en este Capítulo, considerándolo como reincidente.
 
 ### CAPITULO IV.
 
@@ -1985,23 +1993,33 @@ III.- La sustracción, destrucción, mutilación o apoderamiento de unos autos c
 
 351.- Para la aplicación de la sanción se tendrá por consumado el robo, desde el momento en que el ladrón se apodera de la cosa robada, aún cuando la abandone o lo desapoderen de ella.
 
-352.- Cuando el valor de lo robado no exceda de cien pesos, la pena aplicable será de tres días a seis meses de prisión y multa de diez a cincuenta pesos.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-353.- Cuando el valor de lo robado exceda de cien, pero no de quinientos pesos, la pena aplicable será de seis meses a un año de prisión y multa de cincuenta a doscientos pesos.
+352.- Para establecer la cuantía que corresponda a los delitos previstos en este título, se tomará en consideración el salario mínimo general vigente en el momento y en el lugar que se cometió el delito.
 
-354.- Cuando el valor de lo robado exceda de quinientos pesos, pero no de cinco mil, se impondrán de uno a dos años de prisión y multa de doscientos a quinientos pesos.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-355.- Cuando el valor de lo robado exceda de cinco mil pesos, pero no de diez mil, la pena será de dos a cuatro años de prisión y la multa de quinientos a mil pesos.
+353.- Cuando el valor de lo robado no exceda de cien veces el salario, se aplicará prisión de un mes a dos años y multa de cinco a cien veces el salario.
 
-356.- Cuando el valor de lo robado exceda de diez mil pesos, pero no de cincuenta mil, se aplicará una sanción de cuatro a seis años de prisión y multa de mil a dos mil pesos.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-357.- Cuando el valor de lo robado exceda de cincuenta mil pesos, se impondrán de seis a quince años de prisión y multa de dos mil a diez mil pesos.
+354.- Cuando el valor de lo robado exceda de cien veces el salario, pero no de quinientas, la prisión será de dos a cuatro años y la multa será de cien a ciento cincuenta veces el salario.
 
-358.- Para estimar la cuantía del robo, se atenderá únicamente al valor intrínseco de la cosa robada. Si ésta no fuera estimable en dinero, o por su naturaleza no fuere posible fijar su valor o cantidad, se aplicará prisión de tres días hasta cinco años.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-Se aplicarán seis meses a nueve años de prisión y multa de cien a dos mil pesos al que sustraiga o inutilice parcial o totalmente, un expediente perteneciente a una oficina pública o notaría; al que extraiga o destruya alguna de sus hojas, o parte de ellas, o las inutilice de cualquier manera; y también al que ejecute cualquiera de los actos enumerados con cualquier documento que se halle bajo la responsabilidad y dominio de alguna oficina pública o notaría. Si el delincuente fuere el propio notario quedará inhabilitado además de dos a diez años; y si fuere abogado o litigante, también se le inhabilitará por el mismo término.
+355.- Cuando el valor de lo robado exceda de quinientas veces el salario, la prisión será de cuatro a diez años y la multa de ciento cincuenta a quinientas veces el salario.
 
-En los casos de tentativa de robo, cuando no fuere posible determinar el monto, se aplicarán de tres a cinco años de prisión.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+
+356.- Para estimar la cuantía del robo, se atenderá únicamente el valor intrínseco de la cosa robada. Si ésta no fuera estimable en dinero, o por su naturaleza no fuere posible fijar su valor o cantidad, se aplicará prisión de tres días hasta cinco años.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+
+357.- Se aplicará prisión de seis meses a nueve años, al que sustraiga o inutilice, parcial o totalmente, un expediente perteneciente a una oficina pública o notaría; al que extraiga o destruya alguna de sus hojas, o parte de ellas, o las inutilice de cualquier manera; y también al que ejecute cualquiera de los actos enumerados en cualquier documento que se halle bajo la responsabilidad y dominio de alguna oficina pública o notaría. Si el delincuente fuere el propio notario quedará inhabilitado además de dos a diez años; y si fuere abogado o litigante, también se le inhabilitará por el mismo término.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+
+358.- En los casos de tentativa de robo, cuando no fuere posible determinar el monto, se aplicarán de tres a cinco años de prisión.
 
 359.- Si el robo se ejecutare con violencia a las personas o las cosas, a la pena que corresponda por el robo simple, se agregarán de seis meses a cinco años de prisión. Si la violencia constituyere otro delito, se aplicarán las reglas de acumulación.
 
@@ -2025,7 +2043,9 @@ V.- Si los ladrones llevan armas;
 
 VI.- Cuando el ladrón se finja funcionario público o suponga una orden de la autoridad.
 
-363.- Cuando el valor de lo robado no pase de cien pesos, sea restituido por el ladrón espontáneamente y pague éste todos los daños y perjuicios, antes de que la autoridad tome conocimiento del delito, no se impondrá sanción alguna, si no se ha ejecutado el robo por medio de la violencia.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+
+363.- Cuando el valor de lo robado no exceda de diez veces el salario, sea restituido por el ladrón espontáneamente y pague éste todos los daños y perjuicios antes de que la autoridad tome conocimiento del delito, no se impondrá sanción alguna si no se ha ejecutado el robo por medio de la violencia.
 
 364.- En todo caso de robo si el Juez, lo creyera justo, podrá suspender al infractor de un mes a seis años en los derechos de tutela curatela, perito, depositario o interventor judicial, síndico o interventor en concursos o quiebras albacea, asesor y representante de ausentes; o en el ejercicio de cualquiera profesión de las que exijan título.
 
@@ -2063,35 +2083,37 @@ VIII.- Cuando se cometa durante un incendio, terremoto u otra calamidad pública
 
 Abigeato.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1985)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-370.- Comete el delito de abigeato el que sin consentimiento del que legalmente deba de darlo, se apodere de ganado mayor o menor con el objeto de aprovecharse de él.
+370.- Comete el delito de abigeato el que, en campo abierto, se apodere de una o más cabezas de ganado, sin derecho y sin consentimiento de la persona que pueda disponer de ellas, de acuerdo con la ley.
 
-371.- Para los efectos del artículo anterior, se considerará ganado mayor: al bovino, caballar, mular y asnal; y como ganado menor: al cabrío, lanar y porcino.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1985)</small>
+371.- Para los efectos de este Capítulo, se considerará como ganado mayor: el bovino, el caballar, el mular y el asnar; y, como ganado menor: al cabrío, el lanar y el porcino.
 
-372.- Tratándose de ganado mayor, el delito de abigeato se sancionará de acuerdo con las siguientes reglas:
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-I.- Si el robo fuere de una a diez cabezas, con la pena de cinco a ocho años de prisión y multa de cincuenta a cien mil pesos;
+372.- El abigeato de ganado mayor se sancionará:
 
-II.- Si excediere de diez y no de quince cabezas, con la pena de ocho a diez años de prisión y multa de setenta a ciento cincuenta mil pesos;
+I.- Con prisión de dos a cuatro años y multa de treinta a cien veces el salario, cuando el apoderamiento no exceda de cinco cabezas;
 
-III.- Cuando el número de cabezas fuere mayor de quince, pero no de veinte, con la de diez a quince años de prisión y multa de cien a doscientos mil pesos;
+II.- Con prisión de cuatro a seis años y multa de cien a doscientas veces el salario, cuando el apoderamiento exceda de cinco cabezas pero no de diez;
 
-IV.- Cuando el número de cabezas fuere mayor de veinte, se aplicarán de quince a dieciocho años de prisión y multa de doscientos y trescientos mil pesos.
+III.- Con prisión de seis a doce años y multa de doscientas a quinientas veces el salario, cuando el apoderamiento exceda de diez cabezas.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1985)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-373.- Tratándose de ganado menor, el abigeato se sancionará de la manera siguiente:
+373.- El abigeato de ganado menor se sancionará:
 
-I.- Si el robo fuere de una a cinco cabezas, será sancionado de cuatro a seis años de prisión y multa de veinte a cincuenta mil pesos;
+I.- Con prisión de uno a tres años y multa de diez a cien veces el salario, cuando el apoderamiento no exceda de cinco cabezas;
 
-II.- Si el robo fuere de seis cabezas y no pasare de diez, será sancionado con la pena de seis a nueve años de prisión y multa de cuarenta a ochenta mil pesos;
+II.- Con prisión de tres a cinco años y multa de cien a ciento ochenta veces el salario, cuando el apoderamiento exceda de cinco cabezas pero no de quince; o
 
-III.- Si excediere de diez y no de quince cabezas, se aplicará la pena de nueve a doce años de prisión y multa de cincuenta a cien mil pesos;
+III.- Con prisión de cinco a diez años y multa de ciento ochenta a quinientas veces el salario, cuando el apoderamiento exceda de quince cabezas.
 
-IV.- Cuando el número de cabezas fuere mayor de quince se aplicará la pena de doce a quince años de prisión y multa de cien a doscientos mil pesos.
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+
+373 Bis.- Cuando el apoderamiento del ganado no fuese en campo abierto, al infractor se le sancionará con las penas del robo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 1985)</small>
 
@@ -2125,19 +2147,15 @@ IX.- Sin verificar su procedencia legítima, comercien, de primera mano, con pie
 
 Abuso de Confianza.
 
-376.- Comete el delito de abuso de confianza al que con perjuicio de alguien disponga para si, para otro de una cantidad de dinero en numerario, en billetes de banco o en papel moneda, de un documento que importe ibligación(sic), liberación o transmisión en derechos, o de cualquier otra cosa ajena mueble de la cual se le haya transferido la tenencia y no el dominio.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-Si el monto del abuso de confianza, no excede de quinientos pesos, se le sancionará con un mes a un año de prisión y multa hasta de quinientos pesos.
+376.- Comete el delito de abuso de confianza el que, con perjuicio de alguien, disponga para sí o para otro, de cualquier cosa ajena mueble de la que se le haya trasmitido la tenencia y no el dominio.
 
-Si excede de esa cantidad, pero no de cinco mil pesos, la prisión será de tres meses a dos años y la multa de quinientos a mil pesos.
+Cuando el monto del abuso no exceda de cien veces el salario, se sancionará con prisión de un mes a dos años y multa de cinco a cien veces el salario.
 
-Si el monto es mayor de cinco mil pesos, pero menor de diez mil, la prisión será de uno a cuatro años y la multa de mil a dos mil pesos.
+Si excede de cien pero no de quinientas veces el salario, la prisión será de dos a cuatro años y la multa de cien a ciento cincuenta veces el salario.
 
-Si el monto fuere de diez mil hasta cincuenta mil, la prisión será de dos a siete años y la multa de dos mil a cinco mil pesos.
-
-Si el monto excediere de cincuenta mil pesos, la prisión será de tres a diez años y multa de cinco a diez mil pesos.
-
-Las multas anteriores se entienden sin perjuicio del pago de la reparación del daño en todo caso.
+Si el monto del abuso excede de quinientas veces el salario, la prisión será de cuatro a diez años y la multa de ciento cincuenta a quinientas veces el salario.
 
 377.- Se considera como abuso de confianza, para los efectos de la pena:
 
@@ -2155,21 +2173,15 @@ III.- El hecho de que una persona haga aparecer como suyo un depósito que garan
 
 Fraude.
 
-380.- Comete el delito de fraude el que engañando a otro o aprovechándose del error en que éste se halle, se haga ilícitamente de alguna cosa o alcance un lucro indebido.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-Al fraude son aplicables las siguientes penas:
+380.- Comete el delito de fraude el que engañando a otro o aprovechándose del error en que éste se halle, se haga ilícitamente de alguna cosa o alcance un lucro indebido. El delito de fraude se castigará con las penas siguientes:
 
-I.- Prisión de tres días a seis meses y multa de cincuenta a doscientos pesos, cuando el valor de lo defraudado no exceda de quinientos pesos;
+I.- Con prisión de tres meses a tres años y multa de cinco a cien veces el salario, cuando el valor de lo defraudado no exceda de esta última cantidad;
 
-II.- Prisión de seis meses a tres años y multa de doscientos a mil pesos cuando el valor de lo defraudado excediere de quinientos pesos pero no de cinco mil;
+II.- Con prisión de tres a seis años y multa de cien a ciento cincuenta veces el salario, cuando el valor de lo defraudado exceda de cien veces el salario; pero no de quinientas veces;
 
-III.- Prisión de dos a cinco años y multa de mil a dos mil pesos, si el valor de lo defraudado fuere mayor de cinco mil pero no de diez mil pesos;
-
-IV.- Prisión de tres a siete años y multa de dos mil a cinco mil pesos, si el valor de lo defraudado fuere de diez mil hasta cincuenta mil pesos;
-
-V.- Prisión de cinco a diez años y multa de cinco mil a diez mil pesos, si el valor de lo defraudado excediere de cincuenta mil pesos.
-
-Las multas anteriores se entenderán impuestas sin perjuicio del pago de la reparación del daño.
+III.- Con prisión de seis a doce años y multa de ciento cincuenta a quinientas veces el salario cuando el valor de lo defraudado exceda de ésta última cantidad.
 
 381.- Las mismas penas señaladas en el Artículo anterior se impondrán:
 
@@ -2209,7 +2221,9 @@ XIV.- Al fiador que enajene o grave los bienes raíces cuyas inscripciones de pr
 
 Despojo de cosas inmuebles o de aguas.
 
-384.- Se aplicará la pena de dos a ocho años de prisión y multa de quinientos a tres mil pesos:
+(REFORMADO PRIMER PARRAFO, P.O. 22 DE DICIEMBRE DE 1987) (F. DE E., P.O. 18 DE MAYO DE 1988)
+
+384.- Se aplicará la pena de dos a ocho años de prisión y multa de cien a ciento cincuenta veces el salario:
 
 I.- Al que de propia autoridad y haciendo violencia física o moral a las personas o furtivamente, o empleando amenazas o engaño, ocupe un inmueble ajeno o haga uso de él o de un derecho legal que no le pertenezca;
 
@@ -2227,21 +2241,21 @@ La pena será aplicable aún cuando la posesión de la cosa usurpada sea dudosa 
 
 Daño en propiedad ajena.
 
-387.- Se impondrán de cinco a diez años de prisión y multa de quinientos a cinco mil pesos a los que causen incendio, inundación o explosión con daño o peligro de:
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-I.- Un edificio, vivienda o local donde se encuentre alguna persona;
+387.- Se aplicarán las penas de robo simple al que por cualquier medio destruya o deteriore alguna cosa ajena o propia, en perjuicio de otro.
 
-II.- Ropas, muebles u objetos en tal forma, que pueda causar graves daños personales;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-III.- Archivos públicos o notariales;
+388.- La pena se agravará con prisión de uno a tres años cuando el daño:
 
-IV.- Bibliotecas, museos, templos, escuelas, edificios o monumentos públicos;
+I.- Recaiga en bienes de valor científico, artístico, cultural o de utilidad pública, o
 
-V.- Montes, bosques, selvas, pastos, mieses o cultivos de cualquier género.
+II.- Se cometa por medio de inundación, incendio, minas, bombas o explosivos.
 
-388.- Si además de los daños directos resulta consumado algún otro delito, se aplicarán las reglas de acumulación.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
-389.- Cuando por cualquier medio diverso de los mencionados en el Artículo 387 se cause daño, destrucción o deterioro de cosa ajena o de cosa propia, en perjuicio de otro, se aplicarán las sanciones del robo simple.
+389.- Se aplicará prisión de uno a tres años al que mediante incendio, explosión o por cualquier otro medio creare un peligro común para las personas o para los bienes.
 
 ## TITULO DECIMO OCTAVO (SIC).
 
@@ -2352,3 +2366,9 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 P.O. 5 DE ENERO DE 1985.
 
 UNICO.- El presente decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE DICIEMBRE DE 1987.
+
+PRIMERO: Este decreto deroga todas las disposiciones que se le opongan.
+
+SEGUNDO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
