@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1952-02-24"
+last_updated: "1953-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 1952.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 1953.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -130,6 +130,10 @@ P.O. 24 DE FEBRERO DE 1952.
 DECRETO NUMERO 29, QUE REFORMA EL ARTICULO 67 DE LA CONSTITUCION.
 
 Este decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE ABRIL DE 1953.
+
+Este Decreto entrará en vigor a los diez días después de su publicación en el Periódico Oficial del Estado.
 
 ## TITULO II. DEL PODER PUBLICO Y DE LA FORMA DE GOBIERNO
 
@@ -687,13 +691,13 @@ El Secretario General así como el Oficial Mayor, no pueden desempeñar los ofic
 
 Se deposita el ejercicio del Poder Judicial en un Tribunal Superior y en los Tribunales inferiores.
 
-> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 8 DE MAYO DE 1944)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1953)</small>
 
 ### CAPITULO II. DEL SECRETARIO GENERAL
 
 ###### Artículo 61.
 
-El Tribunal Superior de Justicia estará formado por tres Magistrados que durarán en sus encargos seis años y tomarán posesión el día 1º de abril.
+El Tribunal Superior de Justicia estará formado por cinco Magistrados, que durarán en sus cargos seis años, y tomarán posesión el día 1o. de abril.
 
 ###### Artículo 62.
 
