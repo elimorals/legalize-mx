@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1991-04-20"
+last_updated: "1992-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE ABRIL DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE ABRIL DE 1992.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -815,9 +815,11 @@ IV.- Tener modo honesto de vivir; y
 
 V.- No haber sido condenado por delitos del fuero común intencionales, u oficiales.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE ABRIL DE 1981)</small>
+85.-
 
-85.- El Ministerio Público estará a cargo del Procurador General de Justicia, de Agentes del Ministerio Público y de la Policía Judicial, en los términos de su Ley Orgánica.
+> <small>(ADICIONADO [N. DE E. ANTES PRIMER PARRAFO], B.O. 10 DE ABRIL DE 1992)</small>
+
+A.- El Ministerio Público estará a cargo del Procurador General de Justicia, de Agentes del Ministerio Público y de la Policía Judicial, en los términos de su ley orgánica.
 
 Son atribuciones del Ministerio Público:
 
@@ -828,6 +830,12 @@ II.- Intervenir en la forma y términos que la ley disponga, en los juicios que 
 > <small>(REFORMADA, B.O. 30 DE ABRIL DE 1981)</small>
 
 III.- Defender los intereses del Estado ante los Tribunales, excepto en lo relativo a la Hacienda Pública.
+
+> <small>(ADICIONADO, B.O. 10 DE ABRIL DE 1992)</small>
+
+B.- El Congreso del Estado, establecerá un organismo de protección de los derechos humanos que otorga el orden jurídico mexicano, el que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público local, con excepción de los del Poder Judicial del Estado, que violen estos derechos. Formulará recomendaciones públicas autónomas, no vinculatorias y denuncias y quejas ante las autoridades respectivas.
+
+Este organismo que establezca el Congreso de la Unión conocerá de las inconformidades que se presenten en relación con las recomendaciones, acuerdos u omisiones del organismo que en su caso cree el Congreso del Estado, el cual asimismo, podrá comunicarse con el organismo federal que conozca de la defensa y protección de los derechos humanos, para actuar coordinadamente en sus respectivos ámbitos de competencia.
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMA DE 30 DE ABRIL DE 1981 SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTICULO DE NUEVE FRACCIONES A SEIS.</small>
 
@@ -1782,3 +1790,13 @@ B.O. 20 DE ABRIL DE 1991.
 ###### ARTICULO UNICO.
 
 EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE AL DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+B.O. 10 DE ABRIL DE 1992.
+
+###### ARTICULO PRIMERO
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA SIGUIENTE DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL ESTADO.
+
+###### ARTICULO SEGUNDO
+
+EN TANTO SE ESTABLEZCA EN EL ESTADO EL ORGANISMO PROTECTOR DE LOS DERECHOS HUMANOS EN LOS TERMINOS DEL PRESENTE DECRETO, LA COMISION ESTATAL DE LOS DERECHOS HUMANOS PODRA SEGUIR CONOCIENDO DE LAS QUEJAS QUE DEBAN SER DE COMPETENCIA LOCAL, ASI COMO LA COMISION NACIONAL DE LOS DERECHOS HUMANOS EN TERMINOS DEL PRIMER PARRAFO DEL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE REFORMA EL ARTICULO 102 DE LA CONSTITUCION GENERAL DE LA REPUBLICA.
