@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1923-05-26"
+last_updated: "1923-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 1923.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 1923.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -621,9 +621,9 @@ III. Los Municipios administrarán libremente su hacienda, la cual se formará d
 
 IV. Los Municipios serán investidos de personalidad jurídica, para todos los efectos legales;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 1921)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 1923)</small>
 
-V. La primera autoridad administrativa del Municipio será el Presidente Municipal, quien tomará posesión de su encargo el primero de enero, durará en él un año y no podrá ser nuevamente electo sino dos años después de haber cesado en sus funciones.
+V. La primera autoridad administrativa del Municipio será el Presidente Municipal, quien tomará posesión el primero de enero, durará en su encargo dos años y no podrá ser nuevamente electo sino dos años después de haber cesado en sus funciones.
 
 ### CAPITULO XI.
 
@@ -673,7 +673,7 @@ Las diferencias que se suscitaren entre los municipios, serán subsanadas por el
 
 ###### Art. 99.
 
-Una ley precisará las facultades y obligaciones de los Ayuntamientos y Juntas Municipales y sus Presidentes, así la de los Comisarios Municipales, y se denominará Ley Orgánica de Administración Interior.
+Una ley precisará las facultades y obligaciones de los Ayuntamientos y Juntas Municipales y sus Presidentes, así como la de los Comisarios Municipales, y se denominará Ley Orgánica de Administración Interior.
 
 ###### Art. 100.
 
@@ -912,5 +912,9 @@ P.O. 7 DE MARZO DE 1922.
 > <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
 
 P.O. 26 DE MAYO DE 1923.
+
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
+
+P.O. 20 DE SEPTIEMBRE DE 1923.
 
 > <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.</small>
