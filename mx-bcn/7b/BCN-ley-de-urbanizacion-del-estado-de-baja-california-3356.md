@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-urbanizacion-del-estado-de-baja-california-3356"
 country: "mx"
 rank: "ley"
 publication_date: "1981-08-20"
-last_updated: "1991-12-31"
+last_updated: "1996-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE URBANIZACION DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el jueves 20 de agosto de 1981.
 
@@ -107,7 +107,9 @@ Si el predio estuviere constituido bajo el régimen de propiedad en condominio, 
 
 Tratándose de extrema pobreza, por incapacidad física, temporal o permanente de los beneficiados por obras de urbanización, determinada mediante verificación y estudio socioeconómico que se haga al respecto, el Ejecutivo del Estado o el Presidente Municipal, en su correspondiente jurisdicción y en relación con obras llevadas a cabo por los Consejo (sic) de Urbanización Municipal, o por la Junta de Urbanización del Estado, podrán congelar el cobro de los adeudos, por impuestos de plusvalía o cuotas de cooperación en la medida que resulte necesario, mientras no cambie el mencionado estado de pobreza por circunstancias familiares o por cualquier otra causa. El cobro se hará efectivo cuando se transmita la propiedad a tercero, ya sea por herencia o por cualquier otro concepto.
 
-El Ejecutivo del Estado, en los términos del párrafo anterior, cuando lo estime conveniente, podrá eximir mediante subsidios del pago del impuesto de plusvalía o de las cuotas de cooperación a los organismos descentralizados o a las Instituciones de Beneficencia Pública o Privada, así como a las que realicen actividades educativas o culturales o tiendan a la protección de los menores o de las clases económicamente débiles. Tratándose de pensionados, jubilados e indigentes mayores de 60 años que acrediten tal calidad y reúnan los requisitos establecidos en el Título IX de la Ley de Hacienda del Estado de Baja California, quedarán exentos los pensionados o jubilados en el 50% del Impuesto de Plusvalía o cuotas de cooperación y los indigentes mayores de 60 años el 100%, otorgándose este beneficio sólo por un inmueble de su propiedad, en la misma forma el Presidente Municipal podrá eximir mediante subsidio del pago de las cuotas de cooperación a los organismos, Instituciones de Beneficencia y personas físicas señaladas anteriormente.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+El Ejecutivo del Estado, en los términos del párrafo anterior, cuando lo estime conveniente, podrá eximir mediante subsidios el pago del impuesto de plusvalía o de las cuotas de cooperación a los Organismos Descentralizados o a las Instituciones de Beneficencia Pública o Privada, así como a las que realicen actividades educativas o culturales o tiendan a la protección de los menores o de las clases económicamente débiles. Tratándose de pensionados, jubilados e indigentes mayores de 60 años y discapacitados que acrediten tal calidad y reúnan los requisitos establecidos en el Título IX de la Ley de Hacienda del Estado de Baja California, quedarán exentos como sigue: los pensionados, jubilados, y discapacitados que realicen alguna actividad económicamente productiva y que obtengan ingresos de hasta 5 veces el salario mínimo general, en el 50% del Impuesto de Plusvalía o cuotas de cooperación; y los indigentes mayores de 60 años o discapacitados que no desempeñen actividad productiva, el 100% en los conceptos señalados, otorgándose este beneficio sólo por un inmueble de su propiedad, en la misma forma el Presidente Municipal podrá eximir mediante subsidio del pago de las cuotas de cooperación a los organismos, Instituciones de Beneficencia y personas físicas señaladas anteriormente.
 
 ###### ARTICULO 10.
 
@@ -954,3 +956,7 @@ P.O. 31 DE DICIEMBRE DE 1991.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1996.
+
+El presente Decreto entrará en vigor el siguiente día al de su publicación en el Periódico Oficial del Gobierno del Estado.
