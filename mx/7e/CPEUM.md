@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1951-06-11"
+last_updated: "1952-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JUNIO DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE ENERO DE 1952.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -812,23 +812,21 @@ Cuando de conformidad con este artículo se entienda que hay enajenación, el ad
 
 El territorio nacional comprende el de las partes integrantes de la Federación y además el de las islas adyacentes en ambos mares. Comprende, asimismo, la isla de Guadalupe, y las de Revillagigedo, situadas en el Océano Pacífico.
 
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1935)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1952)</small>
 
 ###### Art. 43.
 
-Las partes integrantes de la Federación son los Estados de Aguascalientes, Campeche, Coahuila, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán, Zacatecas, Distrito Federal, Territorios Norte y Sur de la Baja California y de Quintana Roo.
+Las partes integrantes de la Federación son los Estados de Aguascalientes, Baja California, Campeche, Coahuila, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán, Zacatecas, Distrito Federal y Territorios de la Baja California Sur y de Quintana Roo.
 
 ###### Art. 44.
 
 El Distrito Federal se compondrá del territorio que actualmente tiene, y en el caso de que los Poderes Federales se trasladen a otro lugar, se erigirá en Estado del Valle de México, con los límites y extensión que le asigne el Congreso General.
 
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1935)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1952)</small>
 
 ###### Art. 45.
 
-Los Estados y Territorios de la Federación conservan su extensión y límites que hasta hoy han tenido siempre que no haya dificultad en cuanto a éstos, con excepción de los de Yucatán y Campeche, que se modificarán, quedando con los que tenían antes de las reformas constitucionales de 14 de diciembre de 1931 y 10 de enero de 1934. Las porciones territoriales a que se contraen dichas reformas, constituirán el Territorio de Quintana Roo.
-
-Servirá de línea divisoria entre los Territorios Norte y Sur de la Baja California, el paralelo 28º de latitud Norte.
+Los Estados y Territorios de la Federación conservan la extensión y límites que hasta hoy han tenido, siempre que no haya dificultad en cuanto a éstos.
 
 ###### Art. 46.
 
@@ -1350,7 +1348,7 @@ c).- Gasolina y otros productos derivados del petróleo;
 
 d).- Cerillos y fósforos;
 
-e).- Aguamiel y productos de su fermentación; y (sic)
+e).- Aguamiel y productos de su fermentación; y
 
 f).- Explotación forestal;
 
@@ -6946,13 +6944,15 @@ D.O.F. 11 DE JUNIO DE 1951.
 
 La presente ley entrará en vigor quince días después de la fecha en que se publique en el "Diario Oficial" de la Federación.
 
-###### ARTICULO PRIMERO
+D.O.F. 16 DE ENERO DE 1952.
 
-- El presente Código entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+###### ARTICULO PRIMERO.
 
-###### ARTICULO SEGUNDO
+El Estado de Baja California tiene la extensión y límites que tenía el Territorio de Baja California Norte, y
 
-- Se deroga el Título Sexto del Código Fiscal del Estado, así como las demás disposiciones legales que se opongan al presente Código.
+###### ARTICULO SEGUNDO.
+
+La presente reforma entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
 
 ###### ARTICULO PRIMERO.
 
