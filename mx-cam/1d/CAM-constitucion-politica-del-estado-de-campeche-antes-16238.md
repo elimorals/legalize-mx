@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1994-03-24"
+last_updated: "1996-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 1994.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 1996.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -94,6 +94,42 @@ Además de lo que la Constitución Política de los Estados Unidos Mexicanos pre
 ###### ARTICULO 7.
 
 Son habitantes del Estado todas las personas que radiquen en su territorio.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 1996)</small>
+
+El Estado de Campeche reconoce expresamente, en términos del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, que el país tiene una composición pluricultural, sustentada en la diversidad de pueblos indígenas que se encuentran asentados y conviven en su territorio, del cual forma parte el propio Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 1996)</small>
+
+En consecuencia, con estricto respeto a los derechos humanos en su concepción de derecho a la existencia cultural alterna, los pueblos indígenas que habitan en la Entidad tienen derecho, dentro de un marco jurídico específico, a desarrollar y fortalecer el control y disfrute de sus recursos naturales, el uso de su lengua propia, sin limitación alguna, sus formas e instituciones de gobierno, sus sistemas normativos y de resolución de conflictos, sus formas particulares de organización social y política, así como sus diversas manifestaciones culturales.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 1996)</small>
+
+Son objeto de protección, con la participación activa de las comunidades, los recursos naturales, los lugares sagrados y patrimonio cultural de los pueblos indígenas.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 1996)</small>
+
+Las leyes del Estado deberán establecer mecanismos que garanticen la efectiva participación de los pueblos indígenas en los distintos ámbitos y niveles de gobierno comunal, municipal y estatal.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 1996)</small>
+
+El Estado garantizará que la convivencia entre los habitantes de la entidad se realice en un marco de respeto y valoración a la diversidad cultural y regulará mecanismos de sanción contra actos de discriminación hacia los pueblos indígenas y sus integrantes.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 1996)</small>
+
+En la educación básica que imparta el Estado será obligatoria la enseñanza de una lengua indígena, en aquellas comunidades en donde la existencia de integrantes de pueblos indígenas sea de regular proporción. El Estado apoyará el desarrollo y promoción de los conocimientos, medicina tradicional y tecnologías indígenas.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 1996)</small>
+
+Las leyes garantizarán a los pueblos indígenas asentados en el territorio estatal su efectivo acceso a la jurisdicción del Estado. En todo juicio en que sea parte una comunidad o un individuo indígena, deberán tomarse debidamente en cuenta su identidad, cosmovisión, prácticas culturales, usos y costumbres. El juicio deberá llevarse a cabo, preferentemente, en su lengua o, en su defecto, con la asistencia de traductores suficientemente capacitados.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 1996)</small>
+
+En la imposición de sanciones a miembros de los pueblos indígenas deberá darse preferencia a tipos de sanción distintos a la privación de la libertad.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 1996)</small>
+
+En los conflictos por límites agrarios, el Estado, dentro del ámbito de su competencia, promoverá la conciliación y concertación entre las partes para darles una solución definitiva, con la participación activa de las autoridades indígenas de los núcleos agrarios.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -313,7 +349,7 @@ Los Partidos Políticos son entidades de interés público, la ley determinará 
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
-La organización de las elecciones estatales y municipales es una función que se ejerce por los Poderes Legislativo y Ejecutivo del Estado, con la participación de los partidos políticos y de los ciudadanos, según lo disponga la ley. Esta función se realizará a través de un organismo público dotado de personalidad jurídica y patrimonio propio, denominado Consejo Electoral del Estado. La certeza, legalidad, imparcialidad, objetividad y profesionalismo serán principios rectores en el ejercicio de esa función estatal.
+La organización de las elecciones estatales y municipales es una función que se ejerce por los Poderes Legislativo y Ejecutivo del Estado, con la participación de los partidos políticos y de los ciudadanos, según lo disponga la ley. Esta función se realizará a través de un organismo público dotado de personalidad jurídica y patrimonio propio, denominado Consejo Electoral del Estado. La certeza, legalidad, imparcialidad, objetividad y profesionalismo serán principios rectores en el ejercicio de esta función estatal.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
@@ -321,7 +357,7 @@ El organismo público será autoridad en la materia, profesional en su desempeñ
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
-El Consejo Electoral del Estado agrupará para su desempeño, en forma integral y directa, además de las que determine la ley, las actividades relativas al padrón electoral, preparación de la jornada electoral, cómputos y otorgamiento de constancias, capacitación electoral y educación cívica e impresión de materiales electorales, asimismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos. Las sesiones de todos los órganos colegiados electorales serán públicas, en los términos que disponga la ley.
+El Consejo Electoral del Estado agrupará para su desempeño, en forma integral y directa, además de las que determine la ley, las actividades relativas al padrón electoral, preparación de la jornada electoral, cómputos y otorgamiento de constancias, capacitación electoral y educación cívica e impresión de materiales electorales. Asimismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos. Las sesiones de todos los órganos colegiados electorales serán públicas, en los términos que disponga la ley.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
@@ -407,7 +443,7 @@ La asignación de los diputados según el principio de representación proporcio
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
-a) Para obtener el registro de sus listas de candidatos a diputados de representación proporcional, los partidos políticos deberán acreditar que participan con candidatos a diputados por mayoría relativa en cuando menos 14 de los distritos uninominales del Estado.
+a).- Para obtener el registro de sus listas de candidatos a diputados de representación proporcional, los partidos políticos deberán acreditar que participan con candidatos a diputados por mayoría relativa en cuando menos catorce de los distritos uninominales del Estado.
 
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
@@ -753,8 +789,6 @@ XXXIII.- Nombrar, a propuesta del Gobernador, una Junta Municipal compuesta de t
 
 XXXIV.- Por acuerdo de las dos terceras partes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna causa grave prevista por la Ley, siempre y cuando sus miembros hayan tenido oportunidad para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
-
 XXXV.- Las demás que le asignen esta Constitución y la General de la República.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
@@ -771,7 +805,7 @@ Durante los períodos de receso del Congreso, su Gran Comisión funcionará como
 
 ###### ARTICULO 56.
 
-Diez días antes de concluir el segundo período de receso, de cada uno de los años de ejercicio de una Legislatura, en sesión solemne de la Diputación Permanente, a la cual asistirán todos los demás miembros de la Legislatura y se invitará a concurrir, al Gobernador del Estado y a los Magistrados integrantes del Tribunal Superior de Justicia de la entidad, el presidente de dicha Diputación rendirá al pueblo campechano un informe de las actividades realizadas durante el correspondiente ejercicio anual por el Congreso del Estado, como asamblea legislativa, y de las efectuadas, en lo particular, por cada uno de sus miembros en cumplimiento de lo que dispone el tercer párrafo del artículo 38 de esta Constitución.
+Diez días antes de concluir el segundo período de receso, de cada uno de los años de ejercicio de una Legislatura, en sesión solemne de la Diputación Permanente, a la cual asistirán todos los demás miembros de la Legislatura y se invitará a concurrir, al Gobernador del Estado y a los Magistrados integrantes del Tribunal Superior de Justicia de la entidad, el presidente de dicha Diputación rendirá al pueblo campechano un informe de las actividades realizadas durante el correspondiente ejercicio anual por el Congreso del Estado, como asamblea legislativa, y de las efectuadas en lo particular, por cada uno de sus miembros en cumplimiento de lo que dispone el tercer párrafo del artículo 38 de esta Constitución.
 
 Cuando la celebración de la sesión prevista en el párrafo anterior coincida en fecha con la sesión previa que establece la Ley Orgánica del Congreso, esta última antecederá a la primera.
 
@@ -859,7 +893,7 @@ II.- Los que tengan mando alguno de fuerza pública dentro de los 45 días antes
 
 III.- Los que tengan algún cargo o comisión del Gobierno Federal o de otro u otros Estados, dentro de los 45 días antes de la elección.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 63.
 
@@ -923,7 +957,7 @@ El Gobernador al tomar posesión de su cargo, prestará ante el Congreso del Est
 
 El Gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso si estuviere reunido, o en su caso de la Diputación Permanente, a menos que la ausencia no exceda de sesenta días; en tal caso, se estará a lo dispuesto por el segundo párrafo del artículo 67.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 71.
 
@@ -1055,7 +1089,7 @@ Los acuerdos, órdenes y disposiciones que dicte el Gobernador y que sean despac
 
 ###### ARTICULO 74.
 
-Las faltas de los Secretarios de las dependencias de la Administración Pública hay dos espacios serán suplidas en la forma que determine la correspondiente Ley Orgánica.
+Las faltas de los Secretarios de las dependencias de la Administración Pública serán suplidas en la forma que determine la correspondiente Ley Orgánica.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1985)</small>
 
@@ -1097,7 +1131,7 @@ Los magistrados y los jueces percibirán una remuneración adecuada e irrenuncia
 
 Los nombramientos de los magistrados y jueces serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia; que los merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 78.
 
@@ -1161,7 +1195,7 @@ Las licencias de los Magistrados, cuando no excedan de un mes, serán concedidas
 
 Los magistrados del Tribunal Superior de Justicia, los jueces de primera instancia y sus respectivos secretarios, no podrán desempeñar empleo o cargo de la Federación, de otro Poder del Estado, del Municipio ni de particulares, por el cual reciban remuneración, exceptuados los cargos en los ramos de instrucción y asistencia públicas. La infracción de esta disposición será castigada con la pérdida del cargo de magistrado, juez o secretario.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 84.
 
@@ -1357,7 +1391,7 @@ I.- Cada Municipio será administrado por un Ayuntamiento de elección popular d
 
 II.- Los Ayuntamientos de los Municipios de la Entidad, tendrán tantos Regidores y Síndicos como determine la Ley Orgánica respectiva, electos por el principio de mayoría relativa y adicionalmente hasta dos Regidores y Síndicos electos por el sistema de representación proporcional.
 
-De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuido un Regidor, el partido político que alcance el mayor porcentaje de votación minoritaria, siempre y cuando satisfaga los requisitos siguientes:
+De acuerdo con el párrafo anterior, tendrá derecho a que le sea atribuído un Regidor, el partido político que alcance el mayor porcentaje de votación minoritaria, siempre y cuando satisfaga los requisitos siguientes:
 
 a) Que hubiere registrado fórmula de candidatos en las elecciones municipales respectivas;
 
@@ -1387,7 +1421,7 @@ II.- No haber sido condenado por algún delito que merezca pena corporal;
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 1994)</small>
 
-III.- Tener 21 años cumplidos, el día de la elección.
+III.- Tener 21 años cumplidos, el día de la elección;
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1807,7 +1841,7 @@ Artículo Segundo.- Serán Cabeceras de los ocho Distritos Electorales q (sic) s
 
 Artículo Tercero.- En cumplimiento de lo dispuesto por el artículo 6o., reformado de la Ley Electoral del Estado, cada Ayuntamiento procederá, en atención a la división que en ocho Distritos Electorales se hace en el artículo primero del presente Decreto, a dividir sus respectivas municipalidades en secciones numeradas, progresivamente, en los términos que dispone dicho artículo 6o.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA ESTADO DE CAMPECHE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA ESTADO DE CAMPECHE.
 
 P.O. 23, 24, 25, 26 Y 27 DE ABRIL DE 1957.
 
@@ -1931,11 +1965,11 @@ P.O. 30 DE DICIEMBRE DE 1993.
 
 ###### ARTICULO UNICO.
 
-EL PRESENTE DECRETO INICIARA SU VIGENCIA AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 14 DE ENERO DE 1994.
 
-Unico.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 24 DE MARZO DE 1994.
 
@@ -1944,3 +1978,7 @@ Primero.- Este decreto entrará en vigor al día siguiente de su publicación en
 Segundo.- Se derogan todas las disposiciones que se opongan a las contenidas en este decreto.
 
 Tercero.- El informe a que se contrae el artículo 56 Constitucional, por esta única ocasión deberá rendirse dentro de los ocho últimos días del Primer Período de Receso del Segundo Año de Ejercicio Constitucional de la LIV Legislatura del Congreso del Estado.
+
+P.O. 6 DE JULIO DE 1996.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
