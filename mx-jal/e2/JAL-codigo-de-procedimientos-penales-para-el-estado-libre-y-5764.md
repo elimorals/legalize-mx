@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2001-04-14"
+last_updated: "2002-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ABRIL DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 2002.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -687,9 +687,11 @@ El juez en el caso de que los objetos sean perecederos, determinará la forma en
 
 Cuando se determine la internación de alguna persona en un hospital u otro establecimiento similar, deberá indicarse el carácter de su ingreso, el cual se comunicará a los encargados del establecimiento respectivo; si no se hiciere esa indicación, se entenderá que ingresa sólo para su curación.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2002)</small>
+
 ###### Art. 99.
 
-Si en el curso de las diligencias de una averiguación previa, apareciere que la muerte de una persona, probablemente, es el resultado de un delito y las actuaciones no estuviesen en estado de consignarlas al juzgado, el Ministerio Público expedirá las órdenes para la autopsia, la inhumación del cadáver y el levantamiento del acta de defunción respectiva. De igual manera se procederá en los casos en que no haya elementos para ejercitar la acción penal.
+Si en el curso de las diligencias de una averiguación previa, aparece que la muerte de una persona, probablemente, es el resultado de un delito y las actuaciones no estuviesen en estado de consignarlas al juzgado, el Ministerio Público expedirá las órdenes para la autopsia, la inhumación del cadáver y el levantamiento del acta de defunción respectiva; y en su caso, manifestará su conformidad para la extracción de órganos y tejidos en los casos de trasplantes, investigación científica, fines terapéuticos o docencia; este hecho se manejará en el mismo expediente de la averiguación previa por cuerda separada, remitiéndose copia certificada del mismo, al órgano jurisdiccional que conozca del asunto, una vez que haya sido ejercitada la acción penal correspondiente. De igual manera se procederá en los casos en que no haya elementos para ejercitar la acción penal.
 
 ###### Art. 100.
 
@@ -845,13 +847,41 @@ Cuando se trate de lesiones externas, se tendrá por acreditado el cuerpo del de
 
 En el caso de lesiones internas, se tendrá por acreditado el cuerpo del delito con la inspección hecha por el Ministerio Público, de las manifestaciones inventariadas de las alteraciones a la salud que presente la víctima y con el dictamen pericial que exprese los síntomas que presente y si son o no debidas a las lesiones imputadas. En caso de no existir manifestaciones inventariadas, bastará con el dictamen pericial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2002)</small>
 
 ###### Art. 119.
 
-Si se tratare de homicidio, el cuerpo del delito se tendrá por acreditado con la inspección y descripción del cadáver, hecha en los términos de los artículos anteriores y con el dictamen de los peritos médicos, quienes practicarán la necropsia y expresarán con minuciosidad, el estado que presente el cadáver y las causas que originaron la muerte. Si hubiese sido sepultado se procederá a exhumarlo.
+Si se trata de homicidio, el cuerpo del delito se tendrá por acreditado con la inspección y descripción del cadáver, hecha en los términos de los artículos anteriores y con el dictamen de los peritos médicos que hayan practicarán los exámenes correspondientes; quienes practiquen la necropsia, expresarán con minuciosidad, el estado que presente el cadáver y las causas que originaron la muerte. Si el cadáver fue sepultado se procederá a exhumarlo.
 
 Solamente se omitirá la autopsia cuando, tanto el funcionario que practique las diligencias como los peritos médicos, estimen que no es necesaria para determinar la causa de la muerte.
+
+La muerte ocurre cuando:
+
+1. Se presentan los siguientes signos:
+
+a) Ausencia completa y permanente de conciencia;
+
+b) Ausencia permanente de respiración espontánea;
+
+c) Ausencia de los reflejos del tallo cerebral; y
+
+d) Paro cardiaco irreversible.
+
+2. Se presenta la muerte cerebral, cuando existen los siguientes signos:
+
+a) Pérdida permanente e irreversible de conciencia y de respuesta a estímulos sensoriales;
+
+b) Ausencia de automatismo respiratorio; y
+
+c) Evidencia de daño irreversible del tallo cerebral, manifestado por arreflexia pupilar, ausencia de movimientos oculares en pruebas vestibulares y ausencia de respuesta a estímulos nociceptivos.
+
+Se debe descartar que dichos signos sean producto de intoxicación aguda por narcóticos, sedantes, barbitúricos o sustancias neurotrópicas, que sobrepasen los niveles terapéuticos.
+
+La muerte cerebral debe corroborarse con la práctica de cualquiera de las siguientes pruebas:
+
+1. Electroencefalogramas que demuestren ausencia total de actividad eléctrica cerebral en dos ocasiones diferentes con espacio de cinco horas entre uno y otro.
+
+2. Angiografía cerebral bilateral que demuestre ausencia de circulación cerebral.
 
 ###### Art. 120.
 
@@ -3252,5 +3282,9 @@ DECRETO 18908
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 P.O. 14 DE ABRIL DE 2001.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 15 DE ENERO DE 2002
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
