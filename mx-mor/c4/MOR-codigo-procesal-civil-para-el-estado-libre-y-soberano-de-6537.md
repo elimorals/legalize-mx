@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-civil-para-el-estado-libre-y-soberano-de-6537"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "1993-10-13"
+last_updated: "2000-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PROCESAL CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2000.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 13 de octubre de 1993.
 
@@ -6161,6 +6161,10 @@ En todos los asuntos de carácter familiar tendrá intervención el Ministerio P
 
 Facultades del Juez para intervenir oficiosamente en los asuntos del orden familiar. El Juez estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de menores e incapacitados y de alimentos y decretar las medidas que tiendan a preservarla y a proteger a sus miembros.
 
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2000)</small>
+
+Cuando el juzgador, al radicar la causa, se percate de que los hechos de violencia intrafamiliar puedan ser constitutivos de una conducta tipificada como delito, deberá dar vista al Ministerio Público adscrito con una copia certificada de las constancias de autos, para que a su vez el representante social adscrito al juzgado, en uso de las facultades que le concede el artículo 114 del Código de Procedimientos Penales del Estado, formule ante el Agente del Ministerio Público Investigador la denuncia correspondiente.
+
 ###### Artículo 776.
 
 Suplencia de la deficiencia de las pretensiones en materia familiar. El Juez dispondrá de las más amplias facultades para la determinación de la verdad material, aunque quedará vinculado a la apreciación de las pruebas, basado en las reglas de la lógica y la experiencia, así como a los mandatos constitucionales para que se cumplan las formalidades esenciales del procedimiento.
@@ -7057,11 +7061,11 @@ Podrán ser designados depositarios:
 
 I. El cónyuge del ausente;
 
-II. Uno de los hijos mayores de edad que resida en el lugar. Si hubiere varios, el Juez eligirá (sic) al que estime más apto;
+II. Uno de los hijos mayores de edad que resida en el lugar. Si hubiere varios, el Juez eligirá al que estime más apto;
 
 III. Al ascendiente más próximo en grado al ausente;
 
-IV. A falta de anteriores o cuando sea incoveniente (sic) que alguno de ellos, por su mala conducta o por su ineptitud, sean nombrados depositarios, el Juez nombrará al heredero presuntivo y si hubieren varios con igual derecho, ellos mismos eligirán (sic) al que deba ser depositario de los bienes del ausente o ignorado.
+IV. A falta de anteriores o cuando sea incoveniente (sic) que alguno de ellos, por su mala conducta o por su ineptitud, sean nombrados depositarios, el Juez nombrará al heredero presuntivo y si hubieren varios con igual derecho, ellos mismos eligirán al que deba ser depositario de los bienes del ausente o ignorado.
 
 En caso de desacuerdo en la elección, lo hará el Juez prefiriendo al que tenga mejores intereses en la conservación de los bienes del ausente.
 
@@ -8538,3 +8542,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 ALFREDO DE LA TORRE Y MARTINEZ
 
 Rúbricas
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 6 DE SEPTIEMBRE DE 2000.
+
+PRIMERO.- Remítase al Titular del Poder Ejecutivo del Estado, para los efectos contenidos en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado.
