@@ -4,7 +4,7 @@ identifier: "BCS-ley-ganadera-del-estado-de-baja-california-sur-2931"
 country: "mx"
 rank: "ley"
 publication_date: "1990-10-20"
-last_updated: "1990-10-20"
+last_updated: "2003-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2931&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY GANADERA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY GANADERA DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL BOLETIN OFICIAL DEL 31 DE DICIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 20 de octubre de 1990.
 
@@ -175,7 +177,7 @@ II.- Notificar a quienes hayan solicitado sacar o introducir ganado para abasto 
 
 III.- Establecer las bases para preservar las explotaciones de cría, principalmente en lo que se refiere al sacrificio de animales en etapa productiva.
 
-IV.- Apoyar las agrupaciones ganaderas legalmente constituídas.
+IV.- Apoyar las agrupaciones ganaderas legalmente constituidas.
 
 V.- Tener a su cargo el registro ganadero.
 
@@ -221,7 +223,7 @@ IV.- En establos, tenerías, talabarterías y demás establecimientos en que se 
 
 ###### ARTICULO 11.
 
-Para la realización de las inspecciones de ganado, la Dirección de Fomento Agropecuario del Estado, oyendo el parecer de las Agrupaciones Ganaderas constituídas de conformidad con esta Ley, dividirá el territorio de la entidad en el número de zonas de inspección que sean necesarias.
+Para la realización de las inspecciones de ganado, la Dirección de Fomento Agropecuario del Estado, oyendo el parecer de las Agrupaciones Ganaderas constituidas de conformidad con esta Ley, dividirá el territorio de la entidad en el número de zonas de inspección que sean necesarias.
 
 ###### ARTICULO 12.
 
@@ -247,7 +249,7 @@ I.- Revisar los ganados que vayan a ser movilizados.
 
 II.- Verificar los ganados que se encuentren en tránsito, exigiéndo los documentos que comprueben la legalidad de su procedencia.
 
-III.- Separar y detener los animales cuya procedencia legal no se comprobada, dando parte inmediata a la autoridad respectiva, para que ésta proceda de acuerdo con lo que establece la presente Ley.
+III.- Separar y detener los animales cuya procedencia legal no sea comprobada, dando parte inmediata a la autoridad respectiva, para que ésta proceda de acuerdo con lo que establece la presente Ley.
 
 IV.- Impedir que se realicen envíos de ganado, productos y subproductos pecuarios, por cualquier vía de comunicación, mientras los interesados no presenten los documentos que comprueben su legal procedencia, sanidad y calidad.
 
@@ -409,7 +411,7 @@ Los Ayuntamientos tendrán debidamente registrado una Marca de Herrar y una Señ
 
 ###### ARTICULO 38.
 
-Cuando un mismo propietario tenga ganado en dos o más Municipios, en forma permanente, deberá tramitar su registro ante la autoridad municipal de cada uno de ellos, debiéndo notificar lo anterior a la Dirección de Fomento Agropecuario.
+Cuando un mismo propietario tenga ganado en dos o más Municipios, en forma permanente, deberá tramitar su registro ante la autoridad municipal de cada uno de ellos, debiendo notificar lo anterior a la Dirección de Fomento Agropecuario.
 
 ###### ARTICULO 39.
 
@@ -985,7 +987,7 @@ Los propietarios o encargados de ganado tienen la obligación de prodigar a sus 
 
 ###### ARTICULO 122.
 
-Los animales de ordeña ya sea que esten estabulados o en libre pastoreo, serán sometidos a la prueba de la tuberculina y brucelosis, debiéndo sacrificarse a los que reaccionen positivamente declarándose no aptos para el consumo humano. Los que reaccionen dudosamente deberán ser señalados y separados del ganado sano y serán sometidos a observación por un término de cuarenta días, pasados los cuales se determinará lo conducente.
+Los animales de ordeña ya sea que estén estabulados o en libre pastoreo, serán sometidos a la prueba de la tuberculina y brucelosis, debiéndo sacrificarse a los que reaccionen positivamente declarándose no aptos para el consumo humano. Los que reaccionen dudosamente deberán ser señalados y separados del ganado sano y serán sometidos a observación por un término de cuarenta días, pasados los cuales se determinará lo conducente.
 
 ###### ARTICULO 123.
 
@@ -1297,7 +1299,7 @@ III.- Tratándose de multa, que garantice mediante depósito de la cantidad que 
 
 Una vez admitido el recurso y las pruebas respectivas, dentro de un término de 30 días se deberá emitir resolución.
 
-TRANSITORIOS:
+T R A N S I T O R I O S :
 
 ###### ARTICULO PRIMERO
 
@@ -1320,3 +1322,23 @@ PRESIDENTE.
 DIP. C.P. MIGUEL ANGEL OLACHEA PALACIOS.
 
 SECRETARIO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+B.O. 31 DE DICIEMBRE DE 2003.
+
+###### ARTICULO PRIMERO
+
+- La presente Ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO
+
+- Se abroga la Ley Ganadera del Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado el 4 de Octubre de 1990.
+
+###### ARTICULO TERCERO
+
+- Los trámites administrativos que se hayan iniciado de conformidad con la Ley Ganadera del Estado que se abroga, se desahogarán de acuerdo a sus disposiciones.
+
+###### ARTICULO CUARTO
+
+- El ejecutivo del Estado expedirá el reglamento a que se refiere el artículo 109 de la presente Ley y demás normatividad complementaria para la debida aplicación de la misma, a más tardar 90 días después de la entrada en vigor del presente Decreto.
