@@ -4,7 +4,7 @@ identifier: "FED-ley-de-camaras-empresariales-y-sus-confederaciones-9227"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-20"
-last_updated: "1996-12-20"
+last_updated: "2005-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9227&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,11 @@ abbreviation: "LCEC"
 
 LEY DE CAMARAS EMPRESARIALES Y SUS CONFEDERACIONES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA EL PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CAMARAS EMPRESARIALES Y SUS CONFEDERACIONES, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION EL 20 DE ENERO DE 2005.</small>
 
-Ley publicada en el Diario Oficial de la Federación el viernes 20 de diciembre de 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADA.
+
+Ley publicada en el Diario Oficial de la Federación, el viernes 20 de diciembre de 1996.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -543,3 +545,39 @@ OCTAVO.- La determinación de las características de las empresas a que se refi
 México, D.F., a 10 de diciembre de 1996.- Dip. Sara Esther Muza Simón, Presidente.- Sen. Laura Pavón Jaramillo, Presidenta.- Dip. Aurelio Salinas Ortiz, Secretario.- Sen. Ricardo Naumann Escobar, Secretario.- Rúbricas.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de diciembre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+D.O.F. 20 DE ENERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Cámaras Empresariales y sus Confederaciones, publicada en el Diario Oficial de la Federación el 20 de diciembre de 1996, así como sus reformas y adiciones.
+
+###### ARTÍCULO TERCERO.
+
+Las Cámaras de Industria específica regionales constituidas con anterioridad a la vigencia de esta Ley, continuarán operando en los términos en que hayan sido inicialmente autorizadas.
+
+###### ARTÍCULO CUARTO.
+
+Las Cámaras de Comercio en Pequeño constituidas con anterioridad a la vigencia de esta Ley, continuarán operando en los términos en que hayan sido inicialmente autorizadas.
+
+###### ARTÍCULO QUINTO.
+
+Se otorga un plazo de un año a todas las Cámaras y sus Confederaciones, para adecuar sus Estatutos a lo dispuesto en esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+Las Cámaras específicas nacionales, genéricas nacionales y regionales y las Cámaras nacionales de Comercio, Servicios y Turismo constituidas con anterioridad a la vigencia de esta Ley, continuarán operando aun y cuando no cumplan con lo establecido por esta Ley, en lo que se refiere a los requisitos para su constitución.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las Cámaras autorizadas por la Secretaría para operar el SIEM mantendrán la vigencia de su autorización previa a la publicación de esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+La Secretaría, con la participación de las Cámaras y Confederaciones, elaborará un proyecto del Reglamento de esta Ley, en un plazo no mayor a seis meses de su publicación en el Diario Oficial de la Federación.
