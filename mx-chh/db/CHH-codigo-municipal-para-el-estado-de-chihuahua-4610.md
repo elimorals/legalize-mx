@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2001-08-04"
+last_updated: "2001-09-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE SEPTIEMBRE DE 2001.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -399,9 +399,11 @@ El Presidente Municipal expondrá a los vecinos del Municipio su programa de gob
 
 En las secciones municipales y comisarías de policía, la protesta se tomará por el Presidente Municipal o su representante.
 
+(REFORMADO PRIMER PARRAFO, P.O. 8 DE SEPTIEMBRE DE 2001) (F. DE E., P.O. 31 DE OCTUBRE DE 2001)
+
 ###### ARTICULO 19.
 
-Es obligación del Ayuntamiento celebrar el día nueve de octubre de cada año, una sesión solemne en la cual el Presidente Municipal deberá rendir informe detallado de su gestión administrativa.
+Es obligación del Ayuntamiento celebrar una sesión solemne en el período que comprende del día dos al nueve de octubre de cada año, en la cual el Presidente Municipal deberá rendir informe detallado de su gestión administrativa.
 
 > <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2001)</small>
 
@@ -3108,3 +3110,9 @@ P.O. 6 DE JUNIO DE 2001.
 P.O. 4 DE AGOSTO DE 2001.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+> <small>(F. DE E., P.O. 31 DE OCTUBRE DE 2001)</small>
+
+P.O. 8 DE SEPTIEMBRE DE 2001.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
