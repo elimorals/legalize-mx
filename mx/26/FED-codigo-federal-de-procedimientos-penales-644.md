@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "1989-01-03"
+last_updated: "1989-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "1934-08-23"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 1989.
-
-(REPUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1989).
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE OCTUBRE DE 1989.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -3789,11 +3787,11 @@ Dictada la resolución se comunicará al tribunal que haya conocido del proceso 
 
 (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 1984)
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 1989)</small>
 
 ###### ARTICULO 558.
 
-El indulto se podrá conceder cuando el solicitante hubiere prestado importantes servicios a la Nación. En este caso, el condenado ocurrirá al Ejecutivo por conducto del órgano que designe la ley, con su instancia y con los justificantes de los servicios prestados.
+Cuando se trate del indulto a que se refiere la fracción III del artículo 97 del Código Penal, el solicitante ocurrirá al Ejecutivo Federal con su petición, por conducto de la Secretaría de Gobernación, debiendo acompañar los justificantes de los servicios prestados a la Nación por el sentenciado.
 
 ###### ARTICULO 559.
 
@@ -3815,11 +3813,11 @@ III.- Cuando condenada alguna persona por homicidio de otra que hubiere desapare
 
 IV.- Cuando dos reos hayan sido condenados por el mismo delito y se demuestre la imposibilidad de que los dos lo hubieren cometido.
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 1989)</small>
 
-V.- Cuando el reo hubiere sido condenado por los mismos hechos en dos juicios diversos. En este caso será nula la segunda sentencia, y
+V.- Cuando el sentenciado hubiese sido condenado por los mismos hechos en juicios diversos. En este caso prevalecerá la sentencia más benigna.
 
-VI.- En el segundo caso de los considerados en el artículo 57 del Código Penal.
+VI.- (DEROGADA, D.O.F. 31 DE OCTUBRE DE 1989)
 
 > <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1984)</small>
 
@@ -3853,9 +3851,13 @@ Transcurrido el término a que se refiere el artículo anterior, se fallará el 
 
 Si se declara fundada, se remitirá original el expediente al Ejecutivo de la Unión por conducto de la Secretaría de Gobernación, para que, sin más trámite, reconozca la inocencia del sentenciado.
 
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 1989)</small>
+
 ###### ARTICULO 568.
 
-Todas las resoluciones en que se conceda indulto se publicarán en el "Diario Oficial" de la Federación y se comunicarán al tribunal que hubiere dictado la sentencia para que se haga la anotación correspondiente en el proceso.
+Todas las resoluciones en que se conceda indulto se publicarán en el Diario Oficial de la Federación y se comunicarán al tribunal que hubiese dictado la sentencia, para que haga la anotación respectiva en el expediente del caso.
+
+Las resoluciones relativas al reconocimiento de la inocencia se comunicarán al tribunal que hubiese dictado la sentencia, para que haga la anotación respectiva en el expediente del caso. A petición del interesado, también se publicarán en el Diario Oficial de la Federación.
 
 ###### ARTICULO 569.
 
@@ -4038,3 +4040,11 @@ D.O.F. 3 DE ENERO DE 1989.
 REPUBLICADO D.O.F. 4 DE ENERO DE 1989.
 
 UNICO.- El presente Decreto entrará en vigor el día 1o. de abril de 1989.
+
+D.O.F. 31 DE OCTUBRE DE 1989.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
