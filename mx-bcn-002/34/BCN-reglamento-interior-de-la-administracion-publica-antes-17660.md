@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2002-12-20"
+last_updated: "2003-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2003.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -621,11 +621,47 @@ XV.- Presidir en representación del Presidente Municipal, organizar y vigilar e
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2002)</small>
 
-XVI.- Expedir certificaciones de los documentos que obren en archivos de las dependencias de la administración pública centralizada.
+XVI.- Expedir certificaciones de los documentos que obren en archivos de las dependencias de la administración pública centralizada;
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+XVII.- Remitir, por conducto del subsecretario, los asuntos que sean recibidos en la oficina del titular, a las dependencias o áreas de la administración municipal, responsables de su atención y seguimiento.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
+
+ARTICULO 40 BIS.- Para el apoyo a las atribuciones del Secretario, en su carácter de Secretario Fedatario, al Departamento de Atención a Cabildo le corresponden las actividades de asistencia al Secretario, así como el apoyo a los Regidores y Comisiones, para el seguimiento de las propuestas de cabildo y la elaboración de proyectos de la reglamentación municipal, para lo cual se encargara de:
+
+I.- Asistir al Secretario en los asuntos que le sean encomendados por este;
+
+II.- Remitir a las Comisiones, Regidores, Dependencias o Áreas de la administración municipal, los asuntos relativos al Cabildo, para su seguimiento;
+
+III.- Coordinar la organización y cuidar el cumplimiento del protocolo de las sesiones de cabildo;
+
+IV.- Integrar la compilación de los acuerdos aprobados por el cabildo;
+
+V.- Participar en el seguimiento de los asuntos turnados a las comisiones;
+
+VI.- Asistir a las sesiones de las comisiones, en las que haya de discutirse y aprobarse dictámenes para su presentación ante el cabildo;
+
+VII.- Elaborar proyectos de dictámenes de las comisiones;
+
+VIII.- Emitir opiniones jurídicas sobre propuestas de acuerdo, solicitadas por los Regidores o las Comisiones;
+
+IX.- Elaborar proyectos de propuestas de acuerdos de cabildo;
+
+X.- Elaborar los proyectos de reglamentos municipales, necesarios para el cumplimiento de las atribuciones del Municipio, así como de reformas a la reglamentación municipal;
+
+XI.- Recopilar la reglamentación municipal, así como la legislación federal y estatal, aplicables en el ámbito municipal;
+
+XII.- Representar al Municipio en las sesiones de las comisiones de dictamen legislativo del Congreso del Estado, conforme a lo establecido en la Constitución Estatal, en las que haya de discutirse proyectos relacionados con asuntos de carácter municipal; y
+
+XIII.- Participar en el seguimiento a las iniciativas y proyectos ante el Congreso del Estado, relativas a asuntos de carácter municipal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2003)</small>
 
 ###### ARTICULO 41.
 
-La Secretaría del Ayuntamiento, para el cumplimiento de sus atribuciones, contará con una subsecretaría general que auxiliará al titular de la dependencia en la supervisión de las actividades de las subdirecciones y departamentos de la misma; una coordinación que le apoyará en las tareas de vinculación comunitaria, y una coordinación administrativa; asimismo, tendrá bajo su cargo;
+La Secretaría del Ayuntamiento, para el cumplimiento de sus atribuciones, contará con un departamento encargado de auxiliar al Secretario en sus funciones de Secretario Fedatario, y de apoyar en el seguimiento a las propuestas de cabildo; asimismo contará con una subsecretaría general que auxiliará al titular de la dependencia en la supervisión de las actividades de las subdirecciones y departamentos de la misma; una coordinación que le apoyará en las tareas de vinculación comunitaria, y una coordinación administrativa; asimismo, tendrá bajo su cargo:
 
 I.- La Subdirección Jurídica, de la que dependerán los siguientes Departamentos:
 
@@ -2580,3 +2616,7 @@ TRANSITORIO UNICO: LA PRESENTE MODIFICACION ENTRARA EN VIGOR AL DIA SIGUIENTE DE
 P.O. 20 DE DICIEMBRE DE 2002.
 
 UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
+
+P.O. 26 DE SEPTIEMBRE DE 2003.
+
+ARTICULO TRANSITORIO UNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
