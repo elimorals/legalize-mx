@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-catastro-municipal-del-estado-de-jalisco-12360"
 country: "mx"
 rank: "ley"
 publication_date: "1997-11-18"
-last_updated: "2001-07-26"
+last_updated: "2003-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de noviembre de 1997.
 
@@ -803,15 +803,19 @@ I. Cada Catastro Municipal debe elaborar los estudios de valores correspondiente
 
 II. El Consejo Técnico de Catastro Municipal deberá analizar y estudiar el proyecto de tabla de valores unitarios y, en su caso, hacer las modificaciones a los valores que estimen pertinentes, sustentando en todo momento los aspectos y opiniones de carácter técnico. Una vez analizado y en su caso modificado, deberán remitir el proyecto en original y dos tantos en copias al Consejo Técnico Catastral del Estado;
 
-III. El Consejo Técnico Catastral del Estado, con intervención de la Comisión de Hacienda y Presupuestos del Congreso del Estado y con el apoyo técnico de la Contaduría Mayor de Hacienda revisarán los proyectos enviados con la finalidad de que los valores estén homologados con los demás municipios, para lo cual estarán facultados para emitir opiniones y recomendaciones, así como para proponer modificaciones a los proyectos respectivos, tomando siempre en consideración los aspectos técnicos a fin de que los valores unitarios se equiparen a los valores reales;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-IV. En los casos en que el Consejo Técnico Catastral del Estado, con intervención de la Comisión de Hacienda y Presupuestos del Congreso del Estado y con el apoyo técnico de la Contaduría Mayor de Hacienda determinen que no son procedentes los proyectos de los Consejos Técnicos de Catastro Municipales por no apegarse los valores unitarios a los valores reales, deberán regresar al Consejo Técnico de Catastro Municipal respectivo, por una sola ocasión, el proyecto de tabla de valores unitarios para que el Catastro Municipal vuelva a proyectar una nueva tabla de valores unitarios que se equiparen a los valores reales a fin de apegarse a la legislación vigente;
+III. El Consejo Técnico Catastral del Estado, con intervención de la Comisión de Hacienda y Presupuestos del Congreso del Estado y con el apoyo técnico de la Auditoría Superior del Estado revisarán los proyectos enviados con la finalidad de que los valores estén homologados con los demás municipios, para lo cual estarán facultados para emitir opiniones y recomendaciones, así como para proponer modificaciones a los proyectos respectivos, tomando siempre en consideración los aspectos técnicos a fin de que los valores unitarios se equiparen a los valores reales;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+IV. En los casos en que el Consejo Técnico Catastral del Estado, con intervención de la Comisión de Hacienda y Presupuestos del Congreso del Estado y con el apoyo técnico de la Auditoría Superior del Estado determinen que no son procedentes los proyectos de los Consejos Técnicos de Catastro Municipales por no apegarse los valores unitarios a los valores reales, deberán regresar al Consejo Técnico de Catastro Municipal respectivo, por una sola ocasión, el proyecto de tabla de valores unitarios para que el Catastro Municipal vuelva a proyectar una nueva tabla de valores unitarios que se equiparen a los valores reales a fin de apegarse a la legislación vigente;
 
 V. Si el Catastro Municipal respectivo reincide en proyectar una tabla de valores unitarios no apegada a los valores reales o de mercado o es omiso en emitir el proyecto respectivo, el Consejo Técnico Catastral del Estado solicitará a la Dirección de Catastro del Estado, que de manera subsidiaria elabore el proyecto de tablas de valores unitarios respectivo, siguiendo él mismo el procedimiento establecido en las fracciones II y III del presente artículo;
 
-(REFORMADA, P.O. 21 DE JULIO DE 2001) (F. DE E., 28 DE SEPTIEMBRE DE 2002)
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-VI. Una vez que los proyectos de tablas de valores unitarios sean respaldados por el Consejo Técnico Catastral del Estado en conjunción con la Comisión de Hacienda y Presupuestos del Congreso del Estado y con el apoyo técnico de la Contaduría Mayor de Hacienda, se remitirán a los Ayuntamientos a fin de que presenten, en su caso, formal iniciativa ante el Congreso del Estado, a más tardar antes del 1º. de septiembre del año previo a su aplicación.
+VI. Una vez que los proyectos de tablas de valores unitarios sean respaldados por el Consejo Técnico Catastral del Estado en conjunción con la Comisión de Hacienda y Presupuestos del Congreso del Estado y con el apoyo técnico de la Auditoría Superior del Estado, se remitirán a los Ayuntamientos a fin de que presenten, en su caso, formal iniciativa ante el Congreso del Estado, a más tardar antes del 1º. de septiembre del año previo a su aplicación.
 
 > <small>(REFORMADO, P.O. 25 DE JULIO DE 2000)</small>
 
@@ -1354,3 +1358,23 @@ UNICO. El presente decreto entrará en vigor el mismo día que la Ley del Gobier
 P.O. 26 DE JULIO DE 2001.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 30 DE DICIEMBRE DE 2003.
+
+PRIMERO. El presente decreto entrará en vigor el 1 de enero de 2004, previa su publicación en el Periódico Oficial "El Estado de Jalisco", aplicándose lo dispuesto en los siguientes artículos transitorios .
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente decreto.
+
+TERCERO. La Auditoría Superior iniciará sus funciones a la entrada en vigor del presente decreto, y su titular será el actual Contador Mayor de Hacienda, hasta el 31 de julio del año 2004.
+
+CUARTO. La revisión de la cuenta pública, que incluye el informe de avance de gestión financiera, conforme a las disposiciones de la ley contenida en el artículo primero de este decreto, se efectuará a partir de la cuenta pública del año 2004. Las revisiones de las cuentas públicas de los años 1999, 2000, 2001, 2002 y 2003 se efectuarán conforme a las disposiciones vigentes en dichos ejercicios.
+
+QUINTO. En todas las disposiciones legales o administrativas; resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia del presente decreto, en que se haga referencia a la Contaduría Mayor de Hacienda, se entenderán referidos a la Auditoría Superior del Estado; igualmente, cuando se haga referencia al Contador Mayor, se entenderá referido al Auditor Superior.
+
+SEXTO. Todos los inmuebles, equipos, archivos, expedientes, papeles y, en general, los bienes de la Contaduría Mayor de Hacienda, pasarán a la Auditoría Superior del Estado quedando destinados y afectos a su servicio. La Auditoría Superior del Estado igualmente se subroga en todos los derechos y obligaciones de aquella.
+
+Los servidores públicos de la Contaduría Mayor de Hacienda pasarán a formar parte de la Auditoría Superior del Estado, respetándose sus derechos en los términos de ley.
+
+SÉPTIMO. Los asuntos que se encuentren en trámite o en proceso en la Contaduría Mayor de Hacienda al entrar en vigor el presente decreto, continuarán tramitándose, por al Auditoría Superior del Estado en los términos de las disposiciones vigentes antes de la entrada en vigor del presente decreto.
+
+OCTAVO. Dentro del término de noventa días naturales, contados a partir de la entrada en vigor del presente decreto, deberá expedirse el Reglamento Interno de la Auditoría Superior del Estado de Jalisco.
