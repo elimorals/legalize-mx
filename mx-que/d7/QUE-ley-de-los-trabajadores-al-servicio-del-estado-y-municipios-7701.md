@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-trabajadores-al-servicio-del-estado-y-municipios-770
 country: "mx"
 rank: "ley"
 publication_date: "1987-08-27"
-last_updated: "1992-06-07"
+last_updated: "1998-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 1992.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 27 de agosto de 1987.
 
@@ -787,6 +787,8 @@ El Tribunal de Conciliación y Arbitraje, al recibir la solicitud de registro, c
 
 Si el Tribunal de Conciliación y Arbitraje no resuelve a los sesenta días la solicitud de registro, los peticionarios pueden requerirlo para que dicte resolución concediéndolo, y si no lo hace dentro de tres días siguientes a la presentación del requerimiento, se tendrá por hecho el registro, surtiendo todos los efectos legales y estando obligado dicho Tribunal, a expedir la constancia del registro dentro de los cinco días siguientes.
 
+AARTICULO 92.- El registro de un Sindicato se cancelará por disolución del mismo o cuando apareciere otro diverso que sea mayoritario. La cancelación podrá hacerse a solicitud de parte interesada. El Tribunal de Conciliación y Arbitraje, en los casos de conflicto entre los Sindicatos que pretendan ser mayoría ordenará desde luego, el recuento correspondiente y resolverá de plano a quien otorga la representación de los trabajadores.
+
 ###### ARTICULO 92.
 
 El registro de un Sindicato se cancelará por disolución del mismo o cuando apareciere otro diverso que sea mayoritario. La cancelación podrá hacerse a solicitud de parte interesada. El Tribunal de Conciliación y Arbitraje, en los casos de conflicto entre los Sindicatos que pretendan ser mayoría ordenará desde luego, el recuento correspondiente y resolverá de plano a quien otorga la representación de los trabajadores.
@@ -1113,17 +1115,31 @@ A los trabajadores que perciban una remuneración superior al salario mínimo, l
 
 El derecho al pago de la pensión por vejez comenzará a partir del día siguiente a aquel en que el trabajador hubiese percibido el último sueldo por haber causado baja en el servicio.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 1998)</small>
+
+### CAPÍTULO CUARTO. DE LA PENSION POR MUERTE
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1998)</small>
+
+###### ARTÍCULO 142-A.
+
+Tiene Derecho a la Pensión por Muerte, la esposa o esposo que hayan cohabitado con el trabajador jubilado o pensionado, por lo menos tres años antes de su fallecimiento, a falta de estos la concubina o concubio, (sic) a falta de éstos los descendientes menores de 18 años de edad, del trabajador jubilado o pensionado, que a la fecha del fallecimiento dependieran económicamente de él.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 1998)</small>
+
+###### ARTÍCULO 142
+
+B Los beneficiarios que se encuentren en el supuesto del artículo anterior tendrán derecho al 100% de la percepción que disfrutaba el trabajador o pensionado al momento de su fallecimiento.
+
 ### CAPITULO UNICO
+
+## TITULO DECIMO PRIMERO. DE LAS PRESCRIPCIONES
 
 ### CAPITULO I. DE LA INTEGRACION DEL TRIBUNAL DE CONCILIACION
 
 Y ARBITRAJE
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 1992)</small>
-
-## TITULO DECIMO PRIMERO. DE LAS PRESCRIPCIONES
-
-### CAPITULO II. DE LA COMPETENCIA DEL TRIBUNAL
 
 ###### ARTICULO 143.
 
@@ -1185,9 +1201,7 @@ Para los efectos de la prescripción los meses se regularán por el número de d
 
 ## TITULO DECIMO SEGUNDO. DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE
 
-### CAPITULO III. DEL PROCEDIMIENTO ANTE EL TRIBUNAL DE
-
-CONCILIACION Y ARBITRAJE
+### CAPITULO II. DE LA COMPETENCIA DEL TRIBUNAL
 
 ###### ARTICULO 150.
 
@@ -1235,7 +1249,9 @@ Los emolumentos que perciba el Presidente serán igual a los que perciba el Pres
 
 Los demás salarios que originen el funcionamiento del Tribunal así como los gastos en general serán cubiertos por el Estado consignándose en el Presupuesto de Egresos correspondiente.
 
-### CAPITULO UNICO
+### CAPITULO III. DEL PROCEDIMIENTO ANTE EL TRIBUNAL DE
+
+CONCILIACION Y ARBITRAJE
 
 ###### ARTICULO 158.
 
@@ -1250,6 +1266,8 @@ III.- Para conocer de los conflictos sindicales o intersindicales, a petición d
 IV.- Para conceder el registro a los Sindicatos y Federación de Sindicatos, y en su caso resolver la cancelación de los mismos previo juicio que se siga para tal efecto a petición de parte. En ningún caso procederá la cancelación administrativa.
 
 V.- Para efectuar el registro y sanción de los Convenios Laborales, Reglamentos, Acuerdos y Disposiciones análogas y actos que señala esta Ley.
+
+### CAPITULO UNICO
 
 ###### ARTICULO 159.
 
@@ -1494,3 +1512,13 @@ PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación 
 SEGUNDO. El Magistrado y su suplente, que actuarán en la Sala que corresponda a los conflictos de los Trabajadores de la Educación deberán ser elegidos por el Sindicato del Sector, previa convocatoria, en un plazo de treinta días a partir de la vigencia de esta Ley, debiendo cumplir con los demás requisitos ya establecidos para el cargo. En tanto se nombra Presidente, el actual seguirá en funciones.
 
 TERCERO. Se derogan todas las demás disposiciones que se opongan a la presente Ley.
+
+P.O. 27 DE FEBRERO DE 1998.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado " La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
