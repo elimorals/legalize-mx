@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-operaciones-de-compraventa-de-780"
 country: "mx"
 rank: "ley"
 publication_date: "1948-12-30"
-last_updated: "1948-12-30"
+last_updated: "1949-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=780&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "1948-12-29"
 ---
 # LEY DEL IMPUESTO SOBRE OPERACIONES DE COMPRAVENTA DE PRIMERA MANO DE ANHIDRIDO CARBONICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN PRIMERA DEL 27 DE ENERO DE 1949 EN EL D.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL IMPUESTO SOBRE OPERACIONES DE COMPRAVENTA DE PRIMERA MANO DE ANHÍDRIDO CARBÓNICO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN PRIMERA DEL DIARIO OFICIAL DEL 27 DE ENERO DE 1949.]</small>
 
 Ley publicada en la Sección Primera del Diario Oficial de la Federación, el 30 de diciembre de 1948.
 
@@ -89,11 +89,13 @@ e).- Materias primas empleadas en la fabricación, en su caso.
 
 f).- Clasificación de los envases que se utilicen por la capacidad de los mismos, en kilogramos; y
 
-g).-Fecha de la manifestación, firma del gerente o administrador de la fábrica y sello de la empresa.
+g).- Fecha de la manifestación, firma del gerente o administrador de la fábrica y sello de la empresa.
 
 II.- Dar aviso a la Secretaría de Hacienda y Crédito Público, con diez días de anticipación de la suspensión definitiva de labores.
 
-Para los efectos del pago a que se refiere la fracción V de este artículo no se aceptarán pagos de carácter provisional.
+> <small>(F. DE E., D.O. 27 DE ENERO DE 1949)</small>
+
+Para los efectos del pago a que se refiere la fracción V de este artículo, no se aceptarán paros (sic) de carácter provisional.
 
 III.- En los casos de traslado, traspaso o cambio de nombre o de razón social, darán aviso a la Secretaría el día hábil siguiente a aquél en que ocurra el hecho.
 
