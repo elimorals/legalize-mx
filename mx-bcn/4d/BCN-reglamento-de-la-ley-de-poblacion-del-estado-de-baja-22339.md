@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-ley-de-poblacion-del-estado-de-baja-22339"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-09-28"
-last_updated: "2001-09-28"
+last_updated: "2003-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE LA LEY DE POBLACION DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ABRIL DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 28 de septiembre de 2001.
 
@@ -239,13 +239,17 @@ XII.- Las demás que le confieren las leyes.
 
 #### Sección III. De la Junta Directiva
 
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2003)</small>
+
 ###### Art. 29º.
 
-La Junta Directiva será la máxima autoridad del Consejo Estatal de Población, se integrará con el Presidente y vocales previstos por la Ley de Población. Los suplentes respectivos deberán tener un cargo administrativo inmediato inferior a su titular.
+La Junta Directiva será la máxima autoridad del Consejo Estatal de Población, se integrará con el Presidente y vocales previstos por la Ley de Población. Los suplentes respectivos deberán tener un cargo administrativo y que no sea inferior al de director de área o su equivalente, y ser designado por escrito.
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2003)</small>
 
 ###### Art. 30º.
 
-La Junta Directiva sesionará a convocatoria del Secretario Técnico, ordinariamente dos veces al año y extraordinariamente cuando algún asunto lo amerite a juicio del Presidente o de la mitad más uno de sus integrantes.
+La Junta Directiva sesionará a convocatoria del Secretario Técnico, ordinariamente en forma trimestral y extraordinariamente cuando algún asunto lo amerite a juicio del Presidente o de la mitad más uno de sus integrantes.
 
 ###### Art. 31º.
 
@@ -318,3 +322,9 @@ C.P. JORGE RAMOS
 EL SECRETARIO TÉCNICO DEL CONEPO
 
 C.P. MARIO ALBERTO PLATAS CASTAÑOS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 4 DE ABRIL DE 2003.
+
+ÚNlCO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
